@@ -1,0 +1,17 @@
+§ 22 a. Skattepligtige personer, der driver selvstændig erhvervsvirksomhed, kan i stedet for at anvende virksomhedsordningen efter afsnit I vælge at beregne et kapitalafkast af de erhvervsmæssige aktiver efter reglerne i dette afsnit. Kapitalafkastet fragår i den personlige indkomst og lægges til kapitalindkomsten. § 2, stk. 2, 1.-3- pkt., stk. 4 og stk. 7, finder tilsvarende anvendelse.
+
+Stk. 2. Kapitalakastet beregnes som afkastgrundlaget efter stk. 5-7 ganget med afkastsatsen efter § 9. Er den periode, hvori den skattepligtige driver selvstændig erhvervsvirksomhed, kortere eller længere end 12 måneder, beregnes et forholdsmæssigt kapitalafkast svarende til det antal hele måneder, perioden omfatter.
+
+Stk. 3. Kapitalafkastet kan ikke overstige den største talmæssige værdi af følgende beløb:
+
+1) positiv personlig nettoindkomst fra selvstændig erhvervsvirksomhed, jf. personskattelovens § 3, eller
+
+2) negativ nettokapitalindkomst, jf. personskattelovens § 4. Ved opgørelsen af nettokapitalindkomsten ses bort fra kapitalafkast efter denne bestemmelse og negativ kapitalindkomst, der er omfattet af reglerne i personskattelovens § 4, stk. 1, nr. 10, 12 og 13.
+
+Stk. 4. Er den skattepligtige gift og samlevende med ægtefællen ved indkomstårets udgang, opgøres kapitalafkastet på grundlag af ægtefællernes samlede erhvervsmæssige aktiver og den samlede indkomst som nævnt i stk. 3. Det herefter beregnede kapitalafkast fragår i den personlige indkomst og lægges til kapitalindkomsten hos den ægtefælle, der driver virksomheden, jf. kildeskattelovens § 25 A, stk. 1. Driver ægtefællerne hver sin virksomhed, fordeles det beregnede kapitalafkast forholdsmæssigt mellem ægtefællerne efter værdien af de erhvervsmæssige aktiver, der indgår i den enkelte ægtefælles virksomhed. Anvender ægtefællen virksomhedsordningen, ses der ved beregningen af kapitalafkast efter dette afsnit bort fra aktiver og indkomst vedrørende denne virksomhed, og den personlige indkomst nedsættes og kapitalindkomsten forhøjes alene hos den skattepligtige.
+
+Stk. 5. Kapitalafkastgrundlaget opgøres ved indkomstårets begyndelse som værdien af aktiver, der udelukkende benyttes erhvervsmæssigt, jf. dog stk. 6 og 7. Ved etablering som selvstændig erhvervsdrivende opgøres kapitalafkastgrundlaget dog på tidspunktet for virksomhedens start. § 8, stk. 2, 1.-4. pkt., og stk. 3, finder tilsvarende anvendelse.
+
+Stk. 6. Aktiver, der benyttes både til erhvervsmæssige og private formål, og som kan indgå i virksomhedsordningen efter § 1, stk. 3, 1.-4. pkt., medregnes ved opgørelsen af kapitalafkastgrundlaget efter stk. 5 med den forholdsmssige værdi af aktivet, der svarer til den erhvervsmæssige anvendelse.
+
+Stk. 7. I kapitalafkastgrundlaget efter stk. 5 indgår ikke aktiver fra en virksomhed, hvor indkomsten beskattes efter personskattelovens § 4, stk. 1, nr. 10, 12 eller 13, eller hvor indkomsten er konkursindkomst efter konkursskattelovens § 6. Tilsvarende gælder kontante beløb, fordringer bortset fra fordringer erhvervet ved varesalg (varedebitorer), aktier eller andre finansierede aktiver bortset fra andele omfattet af aktieavancebeskatningslovens § 2 b. Igangværende arbejde for fremmed regning indgår alene med nettoværdien. Værdien af igangværende arbejde for fremmed regning, varelagre og fordringer erhvervet ved varesalg (varedebitorer) indgår alene i det omfang, denne værdi overstiger værdien af gæld opstået ved varekøb (varekreditorer).

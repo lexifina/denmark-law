@@ -1,49 +1,33 @@
-Skatteministeriet, den 18. september 1992
+Skatteministeriet, den 2. september 1993
 
-Anders Fogh Rasmussen
+Ole Stavad
 
 / Lars H. Nielsen
 
-(* 1) Denne lovbekendtgørelse indeholder bemærkninger om ikrafttrædelses- og overgangsbestemmelser for love, der er vedtaget i folketingsåret 1991-92. Bemærkninger om ikrafttrædelses- og overgangsbestemmelser for love, der er vedtaget i folketingsåret 1990-91, kan findes i lovbekendtgørelse nr. 620 af 22. august 1991.
+(* 1) Denne lovbekendtgørelse indeholder bemærkninger om ikrafttrædelses- og overgangsbestemmelser for love, der er vedtaget i folketingsåret 1992-93. Bemærkninger om ikrafttrædelses- og overgangsbestemmelser for love, der er vedtaget i folketingsåret 1991-92, kan findes i lovbekendtgørelse nr. 780 af 18. september 1992.
 
-(* 2) Bestemmelserne i § 1, stk. 1, § 2, stk. 2, § 3, stk. 2 og 8, § 13, stk. 5, og § 15, stk. 1 og 5, har i den her anførte affattelse virkning fra og med indkomståret 1992, jf. § 4, stk. 1, i lov nr. 344 af 14. maj 1992.
+(* 2) Bestemmelserne i § 1, stk. 1 og 2, § 2, stk. 2, 3 og 4, § 7, stk. 1, § 8, stk. 1, 1. pkt., § 10, stk. 3, § 11, stk. 1, § 13, stk. 1 og 8, § 14, § 15, § 15 a, § 15 b, § 15 c, § 16, § 16 a, § 18 og § 22 a, har i den her anførte affattelse virkning fra og med indkomståret 1993, jf. § 7, stk. 2, i lov nr. 1030 af 19. december 1992.
 
-(* 3) Bestemmelsen i § 1, stk. 2, har i den her anførte affattelse også virkning for uforrentede obligationer, der anskaffes fra og med den 17. maj 1992, jf. § 4, stk. 2, i lov nr. 344 af 14. maj 1992.
+(* 3) Skattepligtige, hvis indkomstår 1993 er påbegyndt før den 1. januar 1993, kan dog vælge først at anvende bestemmelserne i § 2, stk. 3 og 4, § 7, stk. 1, § 14 og § 15, § 15 a, § 15 b, § 15 c, § 16 og 16 a, i den her anførte affattelse med virkning for indkomståret 1994, jf. § 7, stk. 3, i lov nr. 1030 af 19. december 1992.
 
-(* 4) Bestemmelserne i § 2, stk. 1, § 3, stk. 1, 2. pkt., og kapitel 2a (§ 4a) har virkning fra og med den 17. maj 1992, men den skattepligtige kan dog vælge at anvende bestemmelserne med virkning for hele indkomståret 1992, jf. § 4, stk. 3, i lov nr. 344 af 14. maj 1992.
+(* 4) Bestemmelsen i § 1, stk. 3, 6. pkt., har virkning fra og med indkomståret 1994, jf. § 4, stk. 2, i lov nr. 483 af 30. juni 1993.
 
-(* 5) Bestemmelserne i § 2, stk. 5 og 6, har virkning fra og med indkomståret 1992, jf. § 4, stk. 1, i lov nr. 344 af 14. maj 1992. Det tidligere stk. 5 bliver herefter stk. 7.
+(* 5) § 3, stk. 4, og § 8, stk. 2, indeholder regler om værdiansættelse af aktiver og passiver ved opgørelsen af indskudskontoen og afkastgrundlaget. I § 3, stk. 4, 4. pkt., og § 8, stk. 2, 5. pkt., der er indsat ved lov nr. 428 af 25. juni 1993, bestemmes, at i det omfang anskaffelsessummen omregnes til kontantværdi, anvendes kontantværdien. Ved lov nr. 428 af 25. juni 1993 indføres regler i ligningslovens § 16 F om afskrivning på goodwill. I konsekvens heraf er de hidtil gældende særregler om afskrivning på goodwill ved opgørelsen af indskudskontoen og afkastgrundlaget i virksomhedsskattelovens § 3, stk. 5, og § 8, stk. 3, ophævet. Lov nr. 428 af 25. juni 1993 har virkning for formuegoder, der afstås eller erhverves den 19. maj 1993 eller senere, jf. lovens § 8, stk. 2. Ifølge lovens § 8, stk. 7, indgår goodwill, der er erhvervet før 19. maj 1993, med anskaffelsessummen uden kontantomregning ved opgørelsen af indskudskontoen efter virksomhedsskattelovens § 3 og afkastgrundlaget efter virksomhedsskattelovens § 8. Anskaffelsessummen nedskrives ved opgørelsen af indskudskontoen og afkastgrundlaget med 15 pct. årligt. Reglerne i virksomhedsskattelovens § 3, stk. 4, 3. og 4. pkt., og § 8, stk. 2, 2. og 5. pkt., finder ikke anvendelse på goodwill, der er erhvervet før 19. maj 1993.
 
-(* 6) Bestemmelsen i § 8, stk. 1, har i den her anførte affattelse virkning fra og med den 17. maj 1992, men den skattepligtige kan dog vælge at anvende bestemmelsen med virkning for hele indkomståret 1992, jf. § 4, stk. 3, i lov nr. 344 af 14. maj 1992.
+(* 6) § 5, stk. 3, og § 6, stk. 1, har i den her anførte affattelse virkning fra den 19. maj 1993, jf. § 19, stk. 1, i lov nr. 421 af 25. juni 1993.
 
-(* 7) Nedsættelsen af virksomhedsskatteprocenten i § 10, stk. 2, fra 38 til 34 pct. har virkning fra og med indkomståret 1992, jf. § 4, stk. 1, i lov nr. 344 af 14. maj 1992.
+(* 7) Bestemmelsen i § 8, stk. 1, 2. pkt., i den her anførte affattelse har virkning fra og med den 17. maj 1992. Vælger den skattepligtige at anvende § 8, stk. 1, som affattet ved § 1, nr. 12, i lov nr. 344 af 14. maj 1992 med virkning for hele indkomståret 1992, har § 8, stk. 1, 2. pkt., dog virkning for hele indkomståret 1992, jf. § 7, stk. 4, i lov nr. 1030 af 19. december 1992.
 
-(* 8) Opsparet overskud efter virksomhedsskattelovens § 10, stk. 2, der er opsparet for indkomståret 1991, skal hensættes på en særskilt konto for opsparet overskud, jf. § 5, stk. 1, 1. pkt., i lov nr. 344 af 14. maj 1992.
+(* 8) Bestemmelsen i § 13, stk. 5, der er indsat ved lov nr. 1030 af 19. december 1992, og som har virkning fra og med indkomståret 1993, har i den her anførte affattelse virkning fra den 19. maj 1993, jf. § 19, stk. 1, i lov nr. 421 af 25. juni 1993.
 
-(* 9) Hæves opsparet overskud, anses overskud opsparet for indkomståret 1991 for hævet forud for overskud opsparet for indkomståret 1992 eller senere, jf. § 5, stk. 1, 2. pkt., i lov nr. 344 af 14. maj 1992. Ved hævning af overskud skal den hertil svarende virksomhedsskat medregnes ved opgørelsen af den personlige indkomst efter virksomhedsskattelovens § 10, stk. 3, jf. § 5, stk. 1, 3. pkt., i lov nr. 344 af 14. maj 1992.
+(* 9) Det i § 16 og § 16 a nævnte tillæg på 25 pct. har ikke virkning for overskud, der er opsparet for indkomståret 1991 og tidligere indkomstår, jf. § 7, stk. 5, i lov nr. 1030 af 19. december 1992.
 
-(* 10) Bestemmelsen i § 11, stk. 3, ophæves med virkning fra og med indkomståret 1992, jf. § 4, stk. 1, i lov nr. 344 af 14. maj 1992. For skattepligtige, hvis indkomstår 1992 er påbegyndt den 19. december 1991, ophæves bestemmelsen først med virkning fra og med indkomståret 1993, jf. § 4, stk. 4, i lov nr. 344 af 14. maj 1992. Som følge af ophævelsen af bestemmelsen i stk. 3, rykkes stk. 4 til stk. 3.
+(* 10) Bestemmelserne i § 16 b og § 16 c har virkning for skattefri virksomhedsomdannelse, når aktieselskabet eller anpartsselskabet stiftes den 17. november 1992 eller senere, eller, hvis omdannelse sker ved overdragelse til et selskab, der allerede er registreret, når aftale om overdragelse indgås den 17. november 1992 eller senere, jf. § 7, stk. 6, i lov nr. 1030 af 19. december 1992.
 
-(* 11) Efter bestemmelsen i § 13, stk. 1, 2. pkt., der i den her anførte affattelse har virkning fra og med indkomståret 1992, skal der på opsparingskontoen hæves et beløb svarende til 66 pct. af underskuddet i stedet for svarende til 62 pct. af underskuddet, jf. § 4, stk. 1, i lov nr. 344 af 14. maj 1992.
+(* 11) Ved lov nr. 480 af 30. juni 1993 blev passivposten i § 18, stk. 3, nedsat fra 211/2 pct. til 18 pct. med virkning for overskud, der opspares i indkomståret 1996 og følgende indkomstår, jf. lovens § 10, stk. 4.
 
-(* 12) Ved modregning af underskud i virksomhedens opsparede overskud efter virksomhedsskattelovens § 13, stk. 1, anses overskud opsparet for indkomståret 1991 for hævet forud for overskud opsparet for indkomståret 1992 eller senere, jf. § 5, stk. 1, 4. pkt., i lov nr. 344 af 14. maj 1992. Der hæves et beløb på kontoen svarende til 62 pct. af underskuddet, jf. § 5, stk. 1, 5. pkt., i lov nr. 344 af 14. maj 1992.
+(* 12) Ved beskatning af overskud, der er opsparet før indkomståret 1991, og af overskud, der er opsparet for indkomståret 1991, udgør den i virksomhedsskattelovens § 19, stk. 1, nævnte procent på 43 i stedet henholdsvis 25 pct. og 40 pct., jf. § 5, stk. 3, i lov nr. 344 af 14. maj 1992 som affattet ved § 3 i lov nr. 1030 af 19. december 1992. Bestemmelsen har virkning fra og med indkomståret 1992, jf. § 7, stk. 7, i lov nr. 1030 af 19. december 1992.
 
-(* 13) Bestemmelsen i § 16, stk. 1, 2. pkt., har virkning fra og med indkomståret 1992, jf. § 4, stk. 1, i lov nr. 344 af 14. maj 1992.
+(* 13) Ved lov nr. 480 af 30. juni 1993 blev beskatningsprocenten i § 19, stk. 1, sat ned fra 43 pct. til 36 pct. med virkning for overskud, der opspares i indkomståret 1996 og følgende indkomstår, jf. lovens § 10, stk. 4.
 
-(* 14) Ved omdannelse af en virksomhed efter virksomhedsskattelovens § 16, stk. 1, kan indestående på konto for opsparet overskud, der er opsparet for indkomståret 1991 eller tidligere, nedsætte den skattemæssige værdi af aktiver og passiver ved opgørelse efter § 4 i virksomhedsomdannelsesloven, jf. § 5, stk. 2, 1. pkt., i lov nr. 344 af 14. maj 1992.
-
-(* 15) Bestemmelserne i § 16, stk. 2, har i den her anførte affattelse virkning fra og med indkomståret 1992, jf. § 4, stk. 1, i lov nr. 344 af 14. maj 1992.
-
-(* 16) Ved omdannelse til selskab af en virksomhed efter virksomhedsskattelovens § 16, stk. 2, der er udskilt fra en bestående virksomhed, kan en del af indestående på konto for opsparet overskud, der er opsparet for indkomståret 1991 eller tidligere, nedsætte den skattemæssige værdi af aktiver og passiver ved opgørelse efter § 4 i virksomhedsomdannelsesloven, jf. § 5, stk. 2, 2. pkt., i lov nr. 344 af 14. maj 1992. Nedsættelse kan ske med en andel, der svarer til forholdet mellem den bogførte værdi af de udskilte aktiver og den bogførte værdi af virksomhedens aktiver på statusdagen for det seneste årsregnskab, jf. § 5, stk. 2, 3. pkt., i lov nr. 344 af 14. maj 1992. Nedsættes aktiernes anskaffelsessum ikke, medregnes den nævnte del af indestående på konto for opsparet overskud i den skattepligtiges personlige indkomst efter § 15, stk. 1, jf. § 5, stk. 2, 4. pkt., i lov nr. 344 af 14. maj 1992.
-
-(* 17) Ved lov nr. 234 af 8. april 1992 blev passivposten i § 18, stk. 3, forhøjet til 20 pct. Denne forhøjelse har virkning for indkomståret 1991, idet passivposten med virkning fra og med indkomståret 1992 yderligere blev forhøjet til 211/2 pct., jf. § 4, stk. 1, i lov nr. 344 af 14. maj 1992.
-
-(* 18) Ved beregning af passivposten af overskud, der er opsparet før indkomståret 1991, og af overskud, der er opsparet for indkomståret 1991, udgør den i virksomhedsskattelovens § 18, stk. 3, nævnte procent på 211/2 i stedet henholdsvis 121/2 og 20 pct., jf. § 5, stk. 3, i lov nr. 234 af 8. april 1992 og § 5, stk. 5, i lov nr. 344 af 14. maj 1992.
-
-(* 19) Ved beregning af skat i et dødsbo efter virksomhedsskattelovens § 19, stk. 1, foretages fradraget på 65.000 kr. først i overskud, der er opsparet før indkomståret 1991, jf. § 5, stk. 4, 1. pkt., i lov nr. 344 af 14. maj 1992. Et eventuelt resterende fradrag foretages dernæst i overskud opsparet for indkomståret 1991, og et herefter resterende fradrag foretages i overskud, der er opsparet for indkomståret 1992 eller senere, jf. § 5, stk. 4, 2. pkt., i lov nr. 344 af 14. maj 1992.
-
-(* 20) Forhøjelsen af beskatningsprocenten i § 19, stk. 1, fra 40 til 43 pct. har virkning fra og med indkomståret 1992, jf. § 4, stk. 1, i lov nr. 344 af 14. maj 1992.
-
-(* 21) Ved beskatning af overskud, der er opsparet for indkomståret 1991, udgør den i virksomhedsskattelovens § 19, stk. 1, nævnte procent på 43 i stedet for 40 pct., jf. § 5, stk. 3, i lov nr. 344 af 14. maj 1992.
-
-Ingen
+(* 14) Ved beregning af skat i et dødsbo efter virksomhedsskattelovens § 19, stk. 1, foretages 65.000 kr.-fradraget først i overskud, der er opsparet før indkomståret 1996. Et eventuelt resterende fradrag foretages i overskud, der er opsparet for indkomståret 1996 eller senere, jf. § 10, stk. 5, i lov nr. 480 af 25. juni 1993.
