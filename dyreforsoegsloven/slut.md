@@ -1,9 +1,7 @@
-Givet på Christiansborg slot, den 10. juni 1987
+Justitsministeriet, den 9. september 1993
 
-Under Vor Kongelige Hånd og Segl
+Erling Olsen
 
-MARGRETHE R.
-
-/ERIK NINN-HANSEN
+/ Niels Boesen
 
 Ingen
