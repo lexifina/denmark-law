@@ -1,0 +1,1 @@
+§ 1 a. Trafikministeren kan fastsætte sådanne forskrifter, som er nødvendige for at gennemføre de af Den Europæiske Union udstedte direktiver om luftfart, eller som er nødvendige for at anvende de af Den Europæiske Union udstedte forordninger på luftfartsområdet.
