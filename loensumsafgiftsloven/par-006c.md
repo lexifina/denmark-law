@@ -1,0 +1,1 @@
+§ 6 c. (* 1) For virksomheder omfattet af § 5, stk. 4, 2. pkt., gælder reglerne i § 6 a og § 6 b for afgift, der beregnes efter § 5, stk. 1. Reglerne i § 6 gælder for afgift, der beregnes efter § 5, stk. 2.
