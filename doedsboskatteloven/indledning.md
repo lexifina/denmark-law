@@ -2,8 +2,4 @@ Bekendtgørelse af lov om beskatning ved dødsfald
 
 (dødsboskatteloven)
 
-Hermed bekendtgøres lov om beskatning ved dødsfald (dødsboskatteloven), jf. lovbekendtgørelse nr. 703 af 28. september 1998 med de ændringer, der følger af lov nr. 910 af 16. december 1998, lov nr. 166 af 24. marts 1999, lov nr. 381 af 2. juni 1999, lov nr. 950 af 20. december 1999 og lov nr. 958 af 20. december 1999.
-
-## Afsnit I
-
-Lovens anvendelsesområde
+Hermed bekendtgøres lov om beskatning ved dødsfald (dødsboskatteloven), jf. lovbekendtgørelse nr. 47 af 19. januar 2000 med de ændringer, der følger af § 11 i lov nr. 1029 af 22. november 2000, § 3 i lov nr. 1279 af 20. december 2000, § 2 i lov nr. 1280 af 20. december 2000, § 2 i lov nr. 1285 af 20. december 2000 og § 3 i lov nr. 394 af 6. juni 2002. (Den bekendtgjorte lovtekst indeholder ikke de ændringer, der følger af § 4 i lov nr. 460 af 31. maj 2000, da loven endnu ikke er trådt i kraft).
