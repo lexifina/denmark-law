@@ -1,3 +1,3 @@
-Lov om et skibsfinansieringsinstitut
+Bekendtgørelse af lov om et skibsfinansieringsinstitut
 
-VI FREDERIK DEN NIENDE, af Guds Nåde Konge af Danmark, de Venders og Goters, Hertug til Slesvig, Holsten, Stormarn, Ditmarsken, Lauenborg og Oldenborg, gør vitterligt: Folketinget har vedtaget og Vi ved Vort samtykke stadsfæstet følgende lov:
+Herved bekendtgøres lov nr. 143 af 17. maj 1961 om et skibsfinansieringsinstitut med de ændringer der følger af lov nr. 1005 af 23. december 1998.

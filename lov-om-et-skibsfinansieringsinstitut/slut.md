@@ -1,9 +1,5 @@
-Givet på Christiansborg Slot, den 17. maj 1961.
+Erhvervsministeriet, den 4. maj 1999
 
-Under Vor Kongelige Hånd og Segl.
+Pia Gjellerup
 
-FREDERIK R.
-
-Lars P. Jensen
-
-Ingen
+/Henrik Bjerre-Nielsen
