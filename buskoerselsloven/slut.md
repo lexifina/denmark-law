@@ -1,5 +1,5 @@
-Trafikministeriet, den 25. januar 2000
+Trafikministeriet, den 19. februar 2003
 
-Sonja Mikkelsen
+Flemming Hansen
 
 /Conni Jensen
