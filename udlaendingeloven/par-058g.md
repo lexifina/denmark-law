@@ -1,4 +1,4 @@
-§ 58 g. Rigspolitichefen indberetter en udlænding, der ikke er statsborger i et Schengenland eller et land, der er tilsluttet De Europæiske Fællesskaber, som uønsket til Schengeninformationssystemet, hvis
+§ 58 g. Rigspolitichefen indberetter en udlænding, der ikke er statsborger i et Schengenland eller et land, der er tilsluttet Den Europæiske Union, som uønsket til Schengeninformationssystemet, hvis
 
 1) udlændingen er udvist af landet i medfør af § 22, § 23 eller § 24, nr. 1,
 
