@@ -1,3 +1,3 @@
-Lov om foranstaltninger mod forskelsbehandling inden for international skibsfart
+Bekendtgørelse af lov om foranstaltninger mod forskelsbehandling indenfor international skibsfart
 
-VI FREDERIK DEN NIENDE, af Guds Nåde Konge til Danmark, de Venders og Goters, Hertug til Slesvig, Holsten, Stormarn, Ditmarsken, Lauenborg og Oldenborg, gør vitterligt: Folketinget har vedtaget og Vi ved Vort samtykke stadfæstet følgende lov:
+Herved bekendtgøres lov nr. 253 af 8. juni 1967 med de ændringer, der følger af lov nr. 123 af 29. marts 1978.

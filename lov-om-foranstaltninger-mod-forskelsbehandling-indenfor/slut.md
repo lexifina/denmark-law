@@ -1,7 +1,7 @@
-Givet på Amalienborg, den 8. juni 1967.
+Industriministeriet, den 14. april 1989
 
-Undere Vor Kongelige Hånd og Segl.
+Nils Wilhjelm
 
-FREDERIK R.
+/ Jørgen Bredholt
 
-Tyge Dahglgaard.
+Ingen
