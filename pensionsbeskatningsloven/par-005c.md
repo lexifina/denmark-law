@@ -1,0 +1,1 @@
+§ 5 C. Supplerende arbejdsmarkedspensioner efter §§ 33 b-33 e i lov om social pension behandles efter reglerne for pensionsordninger med løbende udbetalinger, jf. dog § 29 B, når indbetalingerne foretages af en offentlig myndighed til Arbejdsmarkedets Tillægspension, en pensionskasse omfattet af § 3 eller et livsforsikringsselskab omfattet af § 4.
