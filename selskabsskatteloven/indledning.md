@@ -1,6 +1,8 @@
-Bekendtgørelse af lov om indkomstbeskatning af aktieselskaber m.v. (* 1)
+Bekendtgørelse af lov om indkomstbeskatning af aktieselskaber m.v.
 
-Herved bekendtgøres lov nr. 255 af 11. juni 1960 om indkomstbeskatning af aktieselskaber m.v., jfr. lovbekendtgørelse nr. 512 af 31. oktober 1983, med de ændringer, der følger af lov nr. 125 af 31. marts 1985, lov nr. 533 af 13. december 1985, lov nr. 146 af 19. marts 1986 og lov nr. 335 af 4. juni 1986.
+(Selskabsskat, Selskabsskatteloven)
+
+Herved bekendtgøres lov om indkomstbeskatning af aktieselskaber m.v. (Selskabsskatteloven), jf. lovbekendtgørelse nr. 658 af 22. september 1986, med de ændringer, der følger af lov nr. 107 af 11. marts 1987, lov nr. 110 af 11. marts 1987, lov nr. 146 af 25. marts 1987, lov nr. 309 af 25. maj 1987 og lov nr. 360 af 10. juni 1987.
 
 ## Afsnit I
 

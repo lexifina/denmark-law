@@ -1,0 +1,1 @@
+§ 35 I. (* 23) For Statsanstalten for Livsforsikring kan Skatteministeren fastsætte regler om afskrivningsgrundlag for driftsmidler m.v. og om opgørelse af fortjeneste og tab på fast ejendom og værdipapirer, der skal anvendes ved skattepligtens indtræden.
