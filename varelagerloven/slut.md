@@ -1,7 +1,7 @@
-Finansministeriet, den 10. maj 1973.
+Ministeriet for Skatter og Afgifter, den 21. august 1987
 
-Henry Gruenbaum.
+ISI FOIGHEL
 
-/Thorvald Frølich.
+/Hanne Søgaard Hansen
 
 Ingen
