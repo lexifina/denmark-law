@@ -1,3 +1,3 @@
 Bekendtgørelse af lov om individuel boligstøtte
 
-Hermed bekendtgøres lov om individuel boligstøtte, jf. lovbekendtgørelse nr. 62 af 31. januar 2001, med de ændringer, der følger af lov nr. 285 af 25. april 2001 (§ 5), lov nr. 147 af 25. marts 2002, lov nr. 365 af 6. juni 2002 (§ 7), lov nr. 399 af 6. juni 2002 (§ 3) og lov nr. 402 af 6. juni 2002 (§ 4). Den bekendtgjorte lovtekst gælder først fuldtud fra den 1. januar 2003, jf. § 6 i lov nr. 285 af 25. april 2001 og § 7 i lov nr. 402 af 6. juni 2002.
+Hermed bekendtgøres lov om individuel boligstøtte, jf. lovbekendtgørelse nr. 696 af 21. august 2002, med de ændringer, der følger af lov nr. 1092 af 16. december 2002 (§ 3), lov nr. 1065 af 17. december 2002 (§ 1), lov nr. 1069 af 17. december 2002 (§ 1), lov nr. 394 af 28. maj 2003 (§ 13) og lov nr. 417 af 10. juni 2003 (§ 5).

@@ -10,7 +10,7 @@ Stk. 2. Ved boligsikring beregnes i årene 2000- 2003 et grænsebeløb, der udg�
 
 4) 2003: 2 pct. af husstandsindkomsten efter § 8 op til en indkomstgrænse på 95.200 kr. og 28,6 pct. af husstandsindkomsten over denne grænse. Grænsebeløbet kan dog ikke være mindre end 1.620 kr.
 
-Stk. 3. Er der mere end ét barn i husstanden, forøges indkomstgrænserne for forhøjelse af grænsebeløbet efter stk. 2, nr. 1-4, med 25.000 kr., jf. § 72, stk. 1, nr. 12, for hvert barn ud over ét barn op til og med fire børn. Indkomstgrænserne efter stk. 2 for forhøjelse af grænsebeløbet reguleres efter § 72, stk. 1, nr. 11. Grænsebeløbets mindstebeløb efter stk. 2 reguleres efter § 72, stk. 1, nr. 13.
+Stk. 3 . Er der mere end ét barn i husstanden, forøges indkomstgrænserne for forhøjelse af grænsebeløbet efter stk. 2, nr. 1-4, med 25.000 kr., jf. § 72, stk. 1, nr. 12, for hvert barn ud over ét barn op til og med fire børn. Indkomstgrænserne efter stk. 2 for forhøjelse af grænsebeløbet reguleres efter § 72, stk. 1, nr. 11. Grænsebeløbets mindstebeløb efter stk. 2 reguleres efter § 72, stk. 1, nr. 13.
 
 Stk. 4. Den årlige boligsikring udgør:
 
