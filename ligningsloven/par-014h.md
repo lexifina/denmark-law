@@ -1,1 +1,1 @@
-§ 14 H. (Ophævet).
+§ 14 H. (Ophævet)

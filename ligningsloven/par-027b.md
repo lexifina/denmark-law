@@ -1,4 +1,30 @@
-§ 27 B. Følgende tilskud medregnes ved opgørelsen af den skattepligtige indkomst inden for en 10 års periode, der begynder med det indkomstår, hvori den skattepligtige erhverver tilskuddet: 1) Investeringstilskud, der er ydet efter egnsudviklingslovens § 10. 2) Finansieringstilskud, der er ydet til danske dagblade af Dagspressens Finansieringsinstitut. 3) Tilskud, der er ydet af udviklingsfonden i henhold til Det europæiske økonomiske Fællesskabs forordning nr. 17/64 om betingelserne for støtte fra Den europæiske Udviklings- og Garantifond for Landbruget, som senest ændret ved forordning nr. 355/77, og i henhold til forordning nr. 355/77 om en fælles foranstaltning til forbedring af vilkårene for forarbejdning og afsætning af landbrugsvarer. 4) Tilskud, der er ydet efter lov nr. 187 af 30. marts 1973 og lov nr. 222 af 24. maj 1978 om tilskud til strukturprojekter inden for jordbruget. 5) Tilskud, der er ydet efter lov nr. 124 af 29. marts 1978 om tilskud til strukturforanstaltninger inden for konsumfiskeindustrien. 6) Tilskud, der er ydet efter § 2 i lov nr. 177 af 3. maj 1979 om midlertidige statstilskud til visse strukturforbedringer m.m. inden for fiskeriet. 7) Tilskud, der er ydet efter §§ 2 og 3 i lov nr. 199 af 29. april 1981 om midlertidige statstilskud til visse strukturforbedringer m.m. inden for fiskeriet. 8) Tilskud, der er ydet efter §§ 2-5 og § 7 i loven fra 1984 om midlertidige statstilskud til visse strukturforbedringer m.m. inden for fiskeriet. 9) Tilskud, der er ydet af Den europæiske Udviklings- og Garantifond for Landbruget i henhold til følgende forordninger fra Det europæiske økonomiske Fællesskab: a) Forordning nr. 1852/78 om gennemførelse af en midlertidig fælles foranstaltning til omlægning af kystfiskeriet, som senest ændret ved forordning nr. 2992/81, inden for det tilskudsområde, der er fastlagt i forordningens artikel 2, litra a). b) Forordning nr. 31/83 om gennemførelse af en midlertidig fælles foranstaltning til omlægning af kystfiskeriet og akvakulturen. c) Forordning nr. 2908/83 om en fælles foranstaltning til omstrukturering, modernisering og udvikling af fiskeriet og akvakulturen. 10) Tilskud, der er ydet efter § 13 i lov om arbejdsmiljø til etablering af bedriftssundhedstjenester.
+§ 27 B. Følgende tilskud medregnes ved opgørelsen af den skattepligtige indkomst inden for en 10 års periode, der begynder med det indkomstår, hvori den skattepligtige erhverver tilskuddet:
+
+1) Investeringstilskud, der er ydet efter egnsudviklingslovens § 10.
+
+2) Finansieringstilskud, der er ydet til danske dagblade af Dagspressens Finansieringsinstitut.
+
+3) Tilskud, der er ydet af udviklingsfonden i henhold til Det europæiske økonomiske Fællesskabs forordning nr. 17/64 om betingelserne for støtte fra Den europæiske Udviklings- og Garantifond for Landbruget, som senest ændret ved forordning nr. 355/77, og i henhold til forordning nr. 355/77 om en fælles foranstaltning til forbedring af vilkårene for forarbejdning og afsætning af landbrugsvarer.
+
+4) Tilskud, der er ydet efter lov nr. 187 af 30. marts 1973 og lov nr. 222 af 24. maj 1978 om tilskud til strukturprojekter inden for jordbruget.
+
+5) Tilskud, der er ydet efter lov nr. 124 af 29. marts 1978 om tilskud til strukturforanstaltninger inden for konsumfiskeindustrien.
+
+6) Tilskud, der er ydet efter § 2 i lov nr. 177 af 3. maj 1979 om midlertidige statstilskud til visse strukturforbedringer m.m. inden for fiskeriet.
+
+7) Tilskud, der er ydet efter §§ 2 og 3 i lov nr. 199 af 29. april 1981 om midlertidige statstilskud til visse strukturforbedringer m.m. inden for fiskeriet.
+
+8) Tilskud, der er ydet efter §§ 2-5 og § 7 i loven fra 1984 om midlertidige statstilskud til visse strukturforbedringer m.m. inden for fiskeriet.
+
+9) Tilskud, der er ydet af Den europæiske Udviklings- og Garantifond for Landbruget i henhold til følgende forordninger fra Det europæiske økonomiske Fællesskab:
+
+a) Forordning nr. 1852/78 om gennemførelse af en midlertidig fælles foranstaltning til omlægning af kystfiskeriet, som senest ændret ved forordning nr. 2992/81, inden for det tilskudsområde, der er fastlagt i forordningens artikel 2, litra a).
+
+b) Forordning nr. 31/83 om gennemførelse af en midlertidig fælles foranstaltning til omlægning af kystfiskeriet og akvakulturen.
+
+c) Forordning nr. 2908/83 om en fælles foranstaltning til omstrukturering, modernisering og udvikling af fiskeriet og akvakulturen.
+
+10) Tilskud, der er ydet efter § 13 i lov om arbejdsmiljø til etablering af bedriftssundhedstjenester.
 
 Stk. 2. Den skattepligtige bestemmer selv, hvor stor en del af hele tilskuddet der skal medregnes i indkomsten for det enkelte år inden for 10 års perioden, jf. dog stk. 5-8. Beløb, der er medregnet i indkomsten for et år, kan ikke senere overføres til et andet år.
 

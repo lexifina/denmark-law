@@ -4,8 +4,20 @@ Stk. 2. Er den skattepligtige eller den med denne samlevende ægtefælle inden u
 
 Stk. 3. Hvis lejeværdien for skattepligtige omfattet af stk. 1 er steget med mere end 3.500 kr. i forhold til lejeværdien for det forudgående indkomstår, nedsættes lejeværdien med det overskydende beløb. Nedsættelse kan dog højst ske til et beløb svarende til lejeværdien for det forudgående indkomstår forhøjet med 20 pct.
 
-Stk. 4. Hvis lejeværdien for skattepligtige omfattet af stk. 2 er steget med mere end 1.000 kr. i forhold til lejeværdien for det forudgående indkomstår, nedsættes lejeværdien med det overskydende beløb. Nedsættelse kan dog højst ske til et beløb svarende til lejevædien for det forudgående indkomstår forhøjet med 20 pct. og nedsat med 2.500 kr.
+Stk. 4. Hvis lejeværdien for skattepligtige omfattet af stk. 2 er steget med mere end 1.000 kr. i forhold til lejeværdien for det forudgående indkomstår, nedsættes lejeværdien med det overskydende beløb. Nedsættelse kan dog højst ske til et beløb svarende til lejeværdien for det forudgående indkomstår forhøjet med 20 pct. og nedsat med 2.500 kr.
 
-Stk. 5. Stk. 4 finder tilsvarende anvendelse for skattepligtige, 1) der inden udgangen af kalenderåret er fyldt 60 år, og som modtager eller får forskud på førtidspension eller modtager invaliditetsydelse med bistands- eller plejetillæg, jf. lov om social pension, 2) der modtager efterløn, jf. lov om arbejdsformidling og arbejdsløshedsforsikring, 3) hvis samlevende ægtefælle opfylder betingelserne i 1) eller 2). Det samme gælder efterlevende ægtefæller, der opfylder de i stk. 2, 2. og 3. pkt., nævnte betingelser.
+Stk. 5. Stk. 4 finder tilsvarende anvendelse for skattepligtige,
 
-Stk. 6. Skatteministeren kan fastsætte nærmere regler om beregningen af den lejeværdi for indkomståret og for det forudgående indkomstår, der skal lægges til grund efter stk. 3 og 4, for følgende ejendomme: 1) Ejendomme, hvis beregningsgrundlag skal opgøres efter § 15 B, stk. 3, eller § 15 C. 2) Ejendomme, for hvilke lejeværdien nedsættes eller forhøjes efter § 15 H. 3) Ejendomme, som den skattepligtige ikke har ejet i hele indkomståret og hele det forudgående indkomstår, eller som ikke i hele denne periode har tjent til bolig for den skattepligtige.
+1) der inden udgangen af kalenderåret er fyldt 60 år, og som modtager eller får forskud på førtidspension eller modtager invaliditetsydelse med bistands- eller plejetillæg, jf. lov om social pension,
+
+2) der modtager efterløn, jf. lov om arbejdsformidling og arbejdsløshedsforsikring,
+
+3) hvis samlevende ægtefælle opfylder betingelserne i 1) eller 2). Det samme gælder efterlevende ægtefæller, der opfylder de i stk. 2, 2. og 3. pkt., nævnte betingelser.
+
+Stk. 6. Skatteministeren kan fastsætte nærmere regler om beregningen af den lejeværdi for indkomståret og for det forudgående indkomstår, der skal lægges til grund efter stk. 3 og 4, for følgende ejendomme:
+
+1) Ejendomme, hvis beregningsgrundlag skal opgøres efter § 15 B, stk. 3, eller § 15 C.
+
+2) Ejendomme, for hvilke lejeværdien nedsættes eller forhøjes efter § 15 H.
+
+3) Ejendomme, som den skattepligtige ikke har ejet i hele indkomståret og hele det forudgående indkomstår, eller som ikke i hele denne periode har tjent til bolig for den skattepligtige.

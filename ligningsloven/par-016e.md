@@ -1,1 +1,1 @@
-§ 16 E. (Ophævet).
+§ 16 E. (Ophævet)

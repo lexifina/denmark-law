@@ -1,1 +1,1 @@
-§ 8 D. (Ophævet).
+§ 8 D. (Ophævet)

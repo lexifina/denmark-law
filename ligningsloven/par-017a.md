@@ -2,4 +2,4 @@
 
 Stk. 2. Renter af lån, der er ydet i henhold til lov om lån til betaling af ejendomsskatter for visse parcel- og rækkehuse og lov om lån til betaling af ejendomsskatter, kan ikke fradrages ved opgørelsen af den skattepligtige indkomst.
 
-(* 16) Stk. 3. Renter af boligydelseslån, der er ydet i henhold til lov om boligydelse til pensionister eller lov om individuel boligstøtte, kan ikke fradrages ved opgørelsen af den skattepligtige indkomst.
+Stk. 3. Renter af boligydelseslån, der er ydet i henhold til lov om boligydelse til pensionister eller lov om individuel boligstøtte, kan ikke fradrages ved opgørelsen af den skattepligtige indkomst.
