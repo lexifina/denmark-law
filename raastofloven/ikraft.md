@@ -22,4 +22,14 @@ Stk. 4. Afgørelser, der er truffet efter den hidtidige lovgivning, bevarer dere
 
 Stk. 5. Tilladelser udstedt efter § 19 i lov om råstoffer, jf. lovbekendtgørelse nr. 165 af 10. marts 1992, eller efter § 15 i lov om råstoffer, jf. lovbekendtgørelse nr. 108 af 30. januar 1989, og § 2 i lov om kontinentalsoklen, jf. lovbekendtgørelse nr. 182 af 1. maj 1979, kan dog kun udnyttes inden for geografisk afgrænsede og miljøvurderede områder, hvortil miljø- og energiministeren har meddelt tilladelse til efterforskning eller indvinding af råstoffer efter § 20 som affattet ved denne lovs § 1, nr. 7. Overtrædelse af vilkår i tilladelserne straffes efter de hidtil gældende regler. Bestemmelserne i § 24, stk. 2-4, som affattet ved denne lovs § 1, nr. 7, finder også anvendelse på de i 1. pkt. nævnte tilladelser efter den hidtidige lovgivning.
 
-Stk. 6. Uanset bestemmelsen i stk. 5, 1. pkt., kan indvindingsmateriel med tilladelse efter § 19 i lov om råstoffer, jf. lovbekendtgørelse nr. 165 af 10. marts 1992, eller efter § 15 i lov om råstoffer, jf. lovbekendtgørelse nr. 108 af 30. januar 1989, og § 2 i lov om kontinentalsoklen, jf. lovbekendtgørelse nr. 182 af 1. maj 1979, uden tilladelse efter § 20 som affattet ved denne lovs § 1, nr. 7, foretage indvinding inden for de indvindingsområder, der pr. 1. januar 1997 udlægges af miljø- og energiministeren i medfør af lovens § 22 som affattet ved denne lovs § 1, nr. 7.
+Stk. 6. Uanset bestemmelsen i stk. 5, 1. pkt., kan indvindingsmateriel med tilladelse efter § 19 i lov om råstoffer, jf. lovbekendtgørelse nr. 165 af 10. marts 1992, eller efter § 15 i lov om råstoffer, jf. lovbekendtgørelse nr. 108 af 30. januar 1989, og § 2 i lov om kontinentalsoklen, jf. lovbekendtgørelse nr. 182 af 1. maj 1979, uden tilladelse efter § 20 som affattet ved denne lovs § 1, nr. 7, foretage indvinding inden for de indvindingsområder, der pr. 1. januar 1997 udlægges af miljø- og energiministeren i medfør af lovens § 22 som affattet ved denne lovs § 1, nr. 7. Lov nr. 19 af 13. januar 1997 om ændring af lov om naturbeskyttelse og lov om råstoffer indeholder følgende ikrafttrædelses- og overgangsbestemmelser:
+
+§ 3
+
+Stk. 1. Loven træder i kraft den 1. juli 1997 (* 1).
+
+Stk. 2. Afgørelser, der er påklaget inden lovens ikrafttræden, færdigbehandles efter de hidtil gældende klageregler. Lov nr. 426 af 10. juni 1997 om ændring af lov om miljøbeskyttelse og lov om råstoffer indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 3
+
+Loven træder i kraft den 1. juli 1997 (* 2).
