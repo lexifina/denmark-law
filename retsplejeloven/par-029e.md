@@ -1,0 +1,1 @@
+§ 29 e. Rettens formand kan, når særlige grunde taler for det, give andre end dem, der har med sagen at gøre, tilladelse til at overvære et retsmøde, der afholdes for lukkede døre. De pågældende må ikke give meddelelse om forhandlingen til nogen, der ikke har haft adgang til mødet, medmindre dørlukning alene er sket af hensyn til ro og orden i retslokalet.
