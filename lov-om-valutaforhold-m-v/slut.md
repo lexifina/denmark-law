@@ -1,7 +1,7 @@
-Industriministeriet, den 21. februar 1986
+Industriministeriet, den 11. april 1988
 
-Ib Stetter
+NILS WILHJELM
 
-/ Hedeman Olsen
+/Hendrik Boesgaard
 
 Ingen
