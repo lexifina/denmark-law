@@ -1,0 +1,1 @@
+§ 15 a. Dør indehaveren af en registreret virksomhed, og udstedes der proklama efter § 81 i lov om skifte af dødsboer, skal arvingerne eller bobestyreren senest 30 dage efter bekendtgørelse af proklama foretage angivelse efter § 13 for perioden fra afgiftsperiodens begyndelse og indtil dødsdagen.
