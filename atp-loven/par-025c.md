@@ -1,4 +1,4 @@
-§ 25 c. Arbejdsmarkedets Tillægspensions årsregnskab skal revideres af mindst 2 revisorer, hvoraf mindst een revisor skal være statsautoriseret. De øvrige revisorer skal enten være statsautoriserede eller registrerede. Repræsentantskabet udnævner revisorerne for tre år ad gangen, men kan til enhver tid trække udnævnelsen tilbage.
+§ 25 c. Arbejdsmarkedets Tillægspensions årsregnskab skal revideres af mindst 2 revisorer, hvoraf mindst én revisor skal være statsautoriseret. De øvrige revisorer skal enten være statsautoriserede eller registrerede. Repræsentantskabet udnævner revisorerne for tre år ad gangen, men kan til enhver tid trække udnævnelsen tilbage.
 
 Stk. 2. Ved revisorskifte skal Arbejdsmarkedets Tillægspension og revisor give Finanstilsynet en redegørelse, hvis skiftet skyldes særlige forhold.
 
