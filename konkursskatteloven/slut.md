@@ -1,7 +1,11 @@
-Skatteministeriet, den 25. august 1994
+Skatteministeriet, den 4. september 1995
 
-Ole Stavad
+Carsten Koch
 
-/ Carsten Vesterø Jensen
+/ Lise Bo Nielsen
 
-(* 1) Lov nr. 1117 af 22. december 1993, § 7, nr. 1 og 2, (ophævelse af § 7, stk. 3, og ændring af § 11, stk. 2) trådte i kraft den 23. december 1993 og har med undtagelse af boer, der er afsluttet inden den 18. november 1993, virkning for indkomståret 1993 og senere indkomstår, og nr. 3 (indsættelse af § 12 a) har virkning for indkomståret 1994 og senere indkomstår.
+(* 1) Bestemmelsen i § 2 har i den her anførte affattelse virkning fra og med den 1. januar 1995, jf. § 10, stk. 14, i lov nr. 180 af 23. marts 1995.
+
+(* 2) Bestemmelserne i § 3, stk. 2, § 3, stk. 3, 3. pkt., § 11, stk. 1 og 5, § 12, stk. 7, og § 13 i den her anførte affattelse, samt indsættelse af § 10, stk. 3, har virkning for konkursboer, der afsluttes i indkomståret 1996 og senere indkomstår, jf. § 19, stk. 1 og 5, i lov nr. 313 af 17. maj 1995.
+
+(* 3) Bestemmelsen i § 3, stk. 3, 1. pkt., har i den her anførte affattelse virkning fra og med indkomståret 1996, jf. § 10, stk. 2, i lov nr. 180 af 23. marts 1995.
