@@ -1,0 +1,1 @@
+§ 5 d. Den valgte revision skal en gang om året gennemgå fondens interne retningslinjer vedrørende indberetning efter § 5 a, stk. 3, og afgive erklæring i revisionsprotokollen vedrørende årsregnskabet om, hvorvidt fondens forretningsgange på dette område er betryggende.

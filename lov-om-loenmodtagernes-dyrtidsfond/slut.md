@@ -1,61 +1,9 @@
-Arbejdsministeriet, den 1. maj 1995
+Arbejdsministeriet, den 12. oktober 2001
 
-Jytte Andersen
+Ove Hygum
 
-/ E. Edelberg
+/E. Edelberg
 
 Bilag A
 
-Følgende lande er omfattet af zone A
-
-Australien
-
-Belgien
-
-Canada
-
-Danmark
-
-De Forenede Stater (USA)
-
-Det Forenede Kongerige (Storbritannien)
-
-Finland
-
-Forbundsrepublikken Tyskland
-
-Frankrig
-
-Grækenland
-
-Irland
-
-Island
-
-Italien
-
-Japan
-
-Luxembourg
-
-Nederlandene (Holland)
-
-New Zealand
-
-Norge
-
-Portugal
-
-Saudi Arabien
-
-Schweiz
-
-Spanien
-
-Sverige
-
-Tyrkiet
-
-Østrig
-
-Ingen
+## Følgende lande er omfattet af zone A: Medlemsstaterne i EU/EØS og alle andre lande, der er fulde medlemmer af Organisationen for Økonomisk Samarbejde og Udvikling (OECD) samt Saudi-Arabien.
