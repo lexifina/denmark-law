@@ -3,7 +3,3 @@
 Stk. 2. Forsvarsministeren fastsætter regler om indhentelse af oplysninger i henhold til stk. 1, herunder indhentelse af oplysninger i elektronisk form, samt videregivelse af disse til værnepligtsuddannende myndigheder.
 
 Stk. 3. Oplysninger, der er videregivet af politiet i medfør af § 4 b, stk. 2, kan videregives til den værnepligtsuddannende myndighed.
-
-## Kapitel V
-
-De værnepligtiges indkaldelse m.v.

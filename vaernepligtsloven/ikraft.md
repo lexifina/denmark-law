@@ -1,3 +1,7 @@
+## Kapitel IX
+
+## Ikrafttrædelses-, ændrings- og overgangsbestemmelser
+
 Lov nr. 213 af 30. maj 1980 indeholder følgende ikrafttrædelses- ændrings- og overgangsbestemmelser:
 
 § 38. Loven træder i kraft den 1. januar 1981.
@@ -33,3 +37,7 @@ Lov nr. 371 af 6. juni 2002 indeholder følgende ikrafttrædelsesbestemmelse:
 § 5. Loven træder i kraft den 1. juli 2002.
 
 Stk. 2. (Overgangsbestemmelse, udeladt).
+
+Lov nr. 1208 af 27. december 2003 indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 2. Loven træder i kraft den 1. januar 2004.
