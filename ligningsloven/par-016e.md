@@ -1,4 +1,4 @@
-§ 16 E. (* 29) Ved opgørelsen af den skattepligtige indkomst medregnes:
+§ 16 E. (* 28) Ved opgørelsen af den skattepligtige indkomst medregnes:
 
 1) Fortjeneste eller tab ved afhændelse, afståelse eller opgivelse af den til en erhvervsvirksomhed knyttede goodwill.
 

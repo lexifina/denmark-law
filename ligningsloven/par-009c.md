@@ -1,4 +1,4 @@
-§ 9 C. (* 19) Ved opgørelsen af den skattepligtige indkomst kan fradrag for befordring frem og tilbage mellem sædvanlig bopæl og arbejdsplads foretages med et beløb, som beregnes på grundlag af den normale transportvej ved bilkørsel efter en kilometertakst, der fastsættes af Ligningsrådet. Ved fastsættelsen af denne takst lægges udgiften til befordring med bil til grund.
+§ 9 C. (* 15) Ved opgørelsen af den skattepligtige indkomst kan fradrag for befordring frem og tilbage mellem sædvanlig bopæl og arbejdsplads foretages med et beløb, som beregnes på grundlag af den normale transportvej ved bilkørsel efter en kilometertakst, der fastsættes af Ligningsrådet. Ved fastsættelsen af denne takst lægges udgiften til befordring med bil til grund.
 
 Stk. 2. Fradrag kan dog kun foretages for den del af befordringen pr. arbejdsdag, der overstiger 24 kilometer.
 
