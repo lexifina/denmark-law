@@ -1,5 +1,5 @@
-Justitsministeriet, den 11. august 1994
+Justitsministeriet, den 26. januar 2000
 
-Erling Olsen
+Frank Jensen
 
-/ Niels Boesen
+/Christian Strøyer
