@@ -6,6 +6,4 @@
 
 3) Spørgsmål om omfanget af afgiftsgodtgørelse efter § 7.
 
-4) Spørgsmål om skønsmæssig ansættelse efter § 13, stk. 2.
-
 Stk. 2. Reglerne i skattestyrelseslovens kapitler 3 og 3 A finder anvendelse ved klage til Landsskatteretten efter stk. 1.
