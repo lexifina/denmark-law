@@ -1,4 +1,4 @@
-§ 6 A. (* 2) Såfremt den skattepligtige erhverver en ejendom, der er omfattet af lovens regler, med undtagelse af ejendomme, der er omfattet af §§ 8 og 9, stk. 4, kan den skattepligtige i stedet for at medregne fortjeneste ved afståelse af fast ejendom til den skattepligtige indkomst vælge at nedsætte anskaffelsessummen for den erhvervede ejendom med fortjenesten efter følgende regler:
+§ 6 A. Såfremt den skattepligtige erhverver en ejendom, der er omfattet af lovens regler, med undtagelse af ejendomme, der er omfattet af §§ 8 og 9, stk. 4, kan den skattepligtige i stedet for at medregne fortjeneste ved afståelse af fast ejendom til den skattepligtige indkomst vælge at nedsætte anskaffelsessummen for den erhvervede ejendom med fortjenesten efter følgende regler:
 
 a) Den skattepligtige skal enten have erhvervet fast ejendom i samme indkomstår, hvori den skattepligtige afstår fast ejendom, eller have erhvervet fast ejendom senest i det indkomstår, der følger efter afståelsesåret, eller have erhvervet fast ejendom i det seneste indkomstår forud for afståelsesåret.
 
@@ -12,6 +12,6 @@ Stk. 3. Den skattepligtige fortjeneste, hvormed anskaffelsessummen efter stk. 1 
 
 Stk. 4. Stk. 1-3 finder tilsvarende anvendelse, hvis den ene ægtefælle afstår fast ejendom og den anden ægtefælle erhverver fast ejendom, når såvel den afståede som den erhvervede ejendom anvendes helt eller delvis i den ene eller den anden ægtefælles erhvervsvirksomhed. Det er en betingelse, at ægtefællerne er samlevende ved udgangen af både det indkomstår, hvori afståelsen finder sted, og det indkomstår, hvori erhvervelsen finder sted.
 
-Stk. 5. (* 7) Stk. 1-4 finder ikke anvendelse ved erhvervelse eller afståelse af fast ejendom, der er beliggende i en fremmed stat, Færøerne eller Grønland.
+Stk. 5. Stk. 1-4 finder ikke anvendelse ved erhvervelse eller afståelse af fast ejendom, der er beliggende i en fremmed stat, Færøerne eller Grønland.
 
 Stk. 6. Såfremt § 5 A er anvendt ved opgørelsen af fortjenesten på den afståede ejendom, skal § 5 A også anvendes på den erhvervede ejendom.

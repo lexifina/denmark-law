@@ -1,3 +1,1 @@
-§ 14 A. (* 2) Overskydende tab ved afståelse af fast ejendom, jf. § 6, stk. 4 og 6, kan overtages af et dødsbo, der skiftes i umiddelbar forbindelse med dødsfaldet, og som indtræder i afdødes skattemæssige stilling efter kildeskattelovens § 30. Tabet kan fremføres inden for samme tidsrum, som det ville have kunnet hos afdøde, og på samme betingelser.
-
-Stk. 2. Hvis en ægtefælle er indtrådt i afdødes skattemæssige stilling efter kildeskattelovens § 29, kan ægtefællen overtage retten til at fremføre et overskydende tab opstået ved afståelse af fast ejendom, jf. § 6, stk. 4 og 6. Tabet kan fremføres inden for samme tidsrum og på samme betingelser, som det ville have kunnet hos afdøde.
+§ 14 A. (* 7) (Ophævet).
