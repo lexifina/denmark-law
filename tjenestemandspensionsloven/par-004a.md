@@ -1,0 +1,3 @@
+§ 4 a. Finansministeren kan efter indhentet udtalelse fra Lønningsrådet bestemme, at der i pensionsalderen medregnes den tid, i hvilken en tjenestemand efter sit fyldte 25. år har været ansat på overenskomstvilkår inden for de i § 4, stk. 1, nævnte områder eller i en kommune, et koncessioneret selskab eller en stats- eller kommunegaranteret virksomhed.
+
+Stk. 2. Forhøjelse af pensionsalderen efter stk. 1 er betinget af, at tjenestemanden under sin ansættelse på overenskomstvilkår har været medlem af en pensionsordning, hvortil der er ydet bidrag af ham selv og vedkommende institution, og af, at der til statskassen sker overførsel af den udtrædelsesgodtgørelse, der tilkommer ham fra den hidtidige pensionsordning.
