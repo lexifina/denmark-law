@@ -2,7 +2,7 @@
 
 Stk. 2. Det er en betingelse for anvendelsen af stk. 1, at
 
-den skattepligtige ikke inden for de seneste tre år forud for ansættelsen har været skattepligtig efter § 1 eller § 2, stk. 1, litra a-d eller j,
+1) den skattepligtige ikke inden for de seneste tre år forud for ansættelsen har været skattepligtig efter § 1 eller § 2, stk. 1, litra a-d eller j,
 
 2) den skattepligtige ikke har eller på noget tidspunkt inden for de seneste 5 år forud for ansættelsen har haft direkte eller indirekte del i ledelsen af, kontrollen med eller kapitalen i den virksomhed, med hvilken ansættelsesforholdet er indgået, jf. § 43, stk. 2, litra i, 3.-6. pkt.,
 
