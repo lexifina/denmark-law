@@ -1,5 +1,5 @@
-Lov om revisionen af statens regnskaber m.m.
+Bekendtgørelse af lov om revisionen af statens regnskaber m.m.
 
 (Rigsrevisorloven)
 
-VI MARGRETHE DEN ANDEN, af Guds Nåde Danmarks Dronning, gør vitterligt: Folketinget har vedtaget og Vi ved Vort samtykke stadfæstet følgende lov:
+Herved bekendtgøres lov om revisionen af statens regnskaber m.m., jf. lov nr. 321 af 26. juni 1975 med de ændringer og tilføjelser, der følger af lov nr. 245 af 22. april 1991.

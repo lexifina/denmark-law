@@ -1,0 +1,1 @@
+§ 18 b. Udvalget for Forretningsordenen fastsætter efter forelæggelse for statsrevisorerne almindelige bestemmelser for rigsrevisor med hensyn til sådanne forhold, der for den offentlige forvaltning er reguleret ved forvaltningsloven og lov om offentlighed i forvaltningen.

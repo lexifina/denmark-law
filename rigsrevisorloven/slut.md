@@ -1,13 +1,7 @@
-GIVET PÅ AMALIENBORG, DEN 26. JUNI 1975.
+Økonomiministeriet, den 24. juni 1991
 
-Under Vor Kongelige Hånd og Segl.
+Anders Fogh Rasmussen
 
-MARGRETHE R.
+/ Morten Levysohn
 
--------------
-
-Per Hækkerup.
-
-Særlig note:
-
-Oversat til engelsk.
+Ingen
