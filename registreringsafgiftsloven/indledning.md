@@ -1,5 +1,5 @@
 Bekendtgørelse af lov om registreringsafgift af motorkøretøjer m.v.
 
-Herved bekendtgøres lov om registreringsafgift af motorkøretøjer m.v., jf. lovbekendtgørelse nr. 676 af 13. juli 1994, med de ændringer, der følger af lov nr. 413 af 14. juni 1995, som ændret ved § 3 i lov nr. 397 af 22. maj 1996, lov nr. 489 af 12. juni 1996, § 7 i lov nr. 1204 af 27. december 1996, § 1 i lov nr. 1213 af 27. december 1996, § 1 i lov nr. 361 af 2. juni 1997 og § 1 i lov nr. 363 af 2. juni 1997.
+Herved bekendtgøres lov om registreringsafgift af motorkøretøjer m.v., jf. lovbekendtgørelse nr. 741 af 22. september 1997, med de ændringer, der følger af § 4 i lov nr. 979 af 17. december 1997, § 30 i lov nr. 1098 af 29. december 1997, lov nr. 436 af 26. juni 1998, bekendtgørelse nr. 996 af 17. december 1998 og § 9 i lov nr. 1056 af 23. december 1998.
 
 Afgiftspligtige køretøjer
