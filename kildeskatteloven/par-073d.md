@@ -1,0 +1,1 @@
+§ 73 D. (* 28) Skatteministeren kan i øvrigt, når forholdene i ganske særlig grad taler derfor, eftergive eller meddele henstand med skatter, som personer, selskaber, foreninger m.v. er pålignet eller har skullet indeholde eller opkræve. § 73 C, 2. pkt., finder tilsvarende anvendelse i disse situationer.

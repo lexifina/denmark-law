@@ -13,7 +13,3 @@ Stk. 6. Henstandsordningen efter de i stk. 1-5 nævnte regler kan videreføres a
 Stk. 7. Henstand med formueskatten efter stk. 1-4 kan endvidere begæres af ejere af en fast ejendom, der er undergivet fredning i henhold til bygningsfredningsloven. Det er dog en betingelse, at den pågældende ejendom helt eller delvis benyttes til bolig for ejeren, jf. stk. 3. Henstandsbeløbet forfalder til betaling ved den skattepligtiges død, jf. dog stk. 6, samt ved afhændelse af ejendommen, såfremt den skattepligtige ikke på salgstidspunktet opfylder betingelsen for at opnå henstand efter stk. 1. Henstandsbeløbet forfalder ligeledes til betaling, såfremt ejendommen ikke længere benyttes som bolig for den skattepligtige eller dennes husstand.
 
 Stk. 8. Skatteministeren fastsætter de nærmere regler om opgørelsen af den del af formuen, der vedrører ejerboligen, om opgørelsen af henstandsbeløbet i øvrigt, samt om henstandsordningens gennemførelse.
-
-## Afsnit X
-
-Forskudt indkomstår
