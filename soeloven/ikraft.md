@@ -1,12 +1,18 @@
 Lov nr. 170 af 16. marts 1994 indeholder følgende ikrafttrædelsesbestemmelser:
 
-§ 517. Loven gælder ikke for Grønland (* 1) og Færøerne, men kan ved kongelig anordning sættes i kraft for disse landsdele med de afvigelser som de særlige færøske og grønlandske forhold tilsiger.
+§ 517
 
-§ 518. Industri- og samordningsministeren sætter loven i kraft ved bekendtgørelse.(* 2) Loven kan sættes i kraft samlet eller i flere omgange.
+Loven gælder ikke for Grønland og Færøerne , men kan ved kongelig anordning sættes i kraft for disse landsdele med de afvigelser som de særlige færøske og grønlandske forhold tilsiger.
 
-Stk. 2. Industri- og samordningsministeren ophæver den nugældende sølov, jf. lovbekendtgørelse nr. 653 af 13. oktober 1989, ved bekendtgørelse. Loven kan ophæves samlet eller i flere omgange.
+§ 518
 
-§ 519. For reglerne i kapitel 13 og 14 om befordring af gods gælder, at aftaler indgået før lovens ikrafttræden følger reglerne i den nugældende sølov, jf. lovbekendtgørelse nr. 653 af 13. oktober 1989.
+Økonomi- og erhvervsministeren sætter loven i kraft ved bekendtgørelse. Loven kan sættes i kraft samlet eller i flere omgange.
+
+Stk. 2. Økonomi- og erhvervsministeren ophæver den nugældende sølov, jf. lovbekendtgørelse nr. 653 af 13. oktober 1989, ved bekendtgørelse. Loven kan ophæves samlet eller i flere omgange.
+
+§ 519
+
+For reglerne i kapitel 13 og 14 om befordring af gods gælder, at aftaler indgået før lovens ikrafttræden følger reglerne i den nugældende sølov, jf. lovbekendtgørelse nr. 653 af 13. oktober 1989.
 
 Stk. 2. Denne lovs regler gælder for forhold, hvor konnossement eller søfragtseddel er udstedt til tredjemand efter denne lovs ikrafttræden, selv om dette er sket i henhold til aftale om godsbefordring, der er indgået før denne lovs ikrafttræden.
 
@@ -14,9 +20,9 @@ Lov nr. 205 af 29. marts 1995 indeholder følgende ikrafttrædelsesbestemmelser:
 
 § 2
 
-Stk. 1. Tidspunktet for lovens eller dele af lovens ikrafttræden fastsættes af erhvervsministeren.(* 3)
+Stk. 1. Tidspunktet for lovens eller dele af lovens ikrafttræden fastsættes af økonomi- og erhvervsministeren.
 
-Stk. 2. Erhvervsministeren kan ophæve kapitel 10 a og kapitel 10 b, som affattet ved denne lovs § 1, nr. 4, ved nærmere bekendtgørelse herom.
+Stk. 2. Økonomi- og erhvervsministeren kan ophæve kapitel 10 a og kapitel 10 b, som affattet ved denne lovs § 1, nr. 4, ved nærmere bekendtgørelse herom.
 
 Lov nr. 394 af 22. maj 1996 indeholder følgende ikrafttrædelsesbestemmelser:
 
@@ -26,7 +32,7 @@ Loven træder i kraft den 1. juli 1996.
 
 § 5
 
-Loven gælder ikke for Færøerne og Grønland, men kan ved kongelig anordning sættes i kraft for Færøerne og Grønland med de ændringer, der følger af de særlige færøske og grønlandske forhold.
+Loven gælder ikke for Færøerne og Grønland , men kan ved kongelig anordning sættes i kraft for Færøerne og Grønland med de ændringer, der følger af de særlige færøske og grønlandske forhold.
 
 Lov nr. 14 af 13. januar 1997 indeholder følgende ikrafttrædelsesbestemmelser:
 
@@ -40,7 +46,9 @@ Stk. 1. Loven gælder ikke for Færøerne og Grønland.
 
 Stk. 2. Loven kan ved kongelig anordning sættes i kraft helt eller delvis for Grønland med de ændringer, der følger af de særlige grønlandske forhold.
 
-Stk. 3. § 2 (* 4) kan ved kongelig anordning sættes i kraft for Færøerne med de ændringer, der følger af de særlige færøske forhold.
+§ 5
+
+Stk. 3. § 2 kan ved kongelig anordning sættes i kraft for Færøerne med de ændringer, der følger af de særlige færøske forhold.
 
 Lov nr. 886 af 3. december 1997 indeholder følgende ikrafttrædelsesbestemmelser:
 
@@ -56,4 +64,50 @@ Stk. 1. Loven gælder ikke for Færøerne og Grønland.
 
 Stk. 2. Loven kan ved kongelig anordning sættes i kraft for Grønland med de ændringer, der følger af de særlige grønlandske forhold.
 
-Stk. 3. § 2 (* 5) kan ved kongelig anordning sættes i kraft for Færøerne med de ændringer, der følger af de særlige færøske forhold.
+Stk. 3. § 2 kan ved kongelig anordning sættes i kraft for Færøerne med de ændringer, der følger af de særlige færøske forhold.
+
+Lov nr. 900 af 16. december 1998 indeholder følgende ikrafttrædelsesbestemmelser:
+
+§ 33
+
+Loven træder i kraft den 1. marts 1999.
+
+§ 36
+
+Loven gælder ikke for Færøerne og Grønland , men kan ved kongelig anordning helt eller delvis sættes i kraft for disse landsdele med de ændringer, der følger af de særlige færøske og grønlandske forhold.
+
+Lov nr. 901 af 16. december 1998 indeholder følgende ikrafttrædelsesbestemmelser:
+
+§ 2
+
+Stk. 1. Loven træder i kraft den 1. marts 1999.
+
+Stk. 2. Samtidig ophæves lov om skibsregistrering, jf. lovbekendtgørelse nr. 272 af 11. april 1997, samt §§ 1 og 2 i lov om skibes registrering, jf. lovbekendtgørelse nr. 103 af 4. maj 1927.
+
+Stk. 3. Regler, der er udstedt i medfør af de i stk. 2 nævnte love, forbliver i kraft , indtil de ophæves eller afløses af regler udstedt i medfør af denne lov. Overtrædelse af reglerne straffes efter de hidtil gældende regler.
+
+§ 3
+
+Stk. 1. Loven gælder ikke for Færøerne.
+
+Stk. 2. Loven gælder ikke for Grønland , men kan ved kongelig anordning helt eller delvis sættes i kraft for Grønland med de afvigelser, som de særlige grønlandske forhold tilsiger.
+
+Lov nr. 228 af 21. april 1999 indeholder følgende ikrafttrædelsesbestemmelser:
+
+§ 2
+
+Erhvervsministeren sætter loven eller dele heraf i kraft i det omfang, det ikke strider mod internationale forpligtelser.
+
+§ 3
+
+Loven gælder ikke for Grønland g Færøerne , men kan ved kongelig anordning sættes i kraft for disse landsdele med de afvigelser, som de særlige grønlandske og færøske forhold tilsiger.
+
+Lov nr. 106 af 13. februar 2001 indeholder følgende ikrafttrædelsesbestemmelser:
+
+§ 3
+
+Loven træder i kraft den 1. juli 2001.
+
+§ 4
+
+Loven gælder ikke for Færøerne og Grønland , men kan ved kongelig anordning sættes i kraft for disse landsdele med de afvigelser, som de særlige færøske og grønlandske forhold tilsiger.

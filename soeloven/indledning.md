@@ -1,9 +1,3 @@
 Bekendtgørelse af søloven
 
-Herved bekendtgøres sølov nr. 170 af 16. marts 1994 med de ændringer, der følger af lov nr. 205 af 29. marts 1995, lov nr. 394 af 22. maj 1996, lov nr. 14 af 13. januar 1997 og lov nr. 886 af 3. december 1997. (* 6)
-
-Afsnit 1. Fartøj
-
-1. kapitel
-
-Om skibe
+Herved bekendtgøres søloven, jf. lovbekendtgørelse nr. 39 af 20. januar 1998 med de ændringer, der følger af bekendtgørelse nr. 206 af 3. april 1998, lov nr. 900 og nr. 901 af 16. december 1998, lov nr. 228 af 21. april 1999 og lov nr. 106 af 13. februar 2001. Lovbekendtgørelsen indeholder ikke de ændringer, der følger af lov nr. 1172 af 19. december 2003, da loven ikke er trådt i kraft.
