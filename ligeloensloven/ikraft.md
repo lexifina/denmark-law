@@ -16,16 +16,16 @@ Lov nr. 440 af 7. juni 2001 om ændring af lov om ligebehandling af mænd og kvi
 
 Loven træder i kraft den 1. juli 2001.
 
-Lov nr. 445 af 7. juni 2001 om ændring af lov om lige løn til mænd og kvinder (Lønoplysninger) indeholder følgende ikrafttrædelsesbestemmelse:
+Lov nr. 445 af 7. juni 2001 om ændring af lov om lige løn til mænd og kvinder (Lønoplysninger) indeholder følgende ikrafttrædelsesbestemmelser:
 
 § 2
 
-Stk. 1. Loven træder i kraft den 1. juli 2001. Dog træder § 1, nr. 3-5, først i kraft den 1. juni 2002.
+Stk. 1. Loven træder i kraft den 1. juli 2001. Tidspunktet for ikrafttrædelsen af § 1, nr. 3-5, fastsættes af beskæftigelsesministeren.
 
 Stk. 2. § 1, nr. 1 og 2, har virkning for ansættelsesforhold, der er påbegyndt før den 1. juli 2001.
 
-Stk. 3. Redegørelsen i § 6 a som affattet ved denne lovs § 1, nr. 5, udarbejdes første gang i 2003.
+Stk. 3. Tidspunktet for, hvornår redegørelsen efter § 6 a som affattet ved denne lovs § 1, nr. 5, udarbejdes første gang, fastsættes af beskæftigelsesministeren.
 
 § 3
 
-§ 5 a i lov om lige løn til mænd og kvinder som affattet ved denne lovs § 1, nr. 4, tages op til revision senest den 1. juni 2005.
+(Ophævet).

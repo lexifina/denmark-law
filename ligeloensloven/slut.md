@@ -1,5 +1,5 @@
-Arbejdsministeriet, den 20. november 2001
+Beskæftigelsesministeriet, den 21. august 2003
 
-Ove Hygum
+Claus Hjort Frederiksen
 
 /E. Edelberg
