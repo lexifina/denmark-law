@@ -1,3 +1,17 @@
 Bekendtgørelse af lov om retsforholdet mellem arbejdsgivere og funktionærer
 
-Herved bekendtgøres lov om retsforholdet mellem arbejdsgivere og funktionærer, jf. lovbekendtgørelse nr. 516 af 23. juli 1987 med de ændringer, der følger af lov nr. 287 af 24. april 1996.
+Herved bekendtgøres lov om retsforholdet mellem arbejdsgivere og funktionærer, jf. lovbekendtgørelse nr. 642 af 28. juni 1996 med de ændringer, der følger af lov nr. 340 af 2. juni 1999.
+
+§ 1. Ved funktionærer forstås i denne lov følgende personer:
+
+a) Handels- og kontormedhjælpere, beskæftiget ved køb eller salg, ved kontorarbejde eller dermed ligestillet lagerekspedition.
+
+b) Personer, hvis arbejde består i teknisk eller klinisk bistandsydelse af ikke-håndværks- eller -fabriksmæssig art, og andre medhjælpere, som udfører et arbejde, der kan sidestilles hermed.
+
+c) Personer, hvis arbejde udelukkende eller i det væsentlige består i på arbejdsgiverens vegne at lede eller føre tilsyn med udførelsen af andres arbejde.
+
+d) Personer, hvis arbejde overvejende er af den under a) og b) angivne art.
+
+Stk. 2. Det er en betingelse for lovens anvendelse, at den pågældende beskæftiges af vedkommende arbejdsgiver gennemsnitlig mindst 15 timer ugentlig, og at han indtager en tjenestestilling, således at han er undergivet arbejdsgiverens instruktioner.
+
+Stk. 3. Denne lovs bestemmelser kommer ikke til anvendelse på tjenestemænd - eller aspiranter til tjenestemandsstillinger - under staten, folkeskolen, folkekirken eller kommunerne, på de af sømandsloven af 7. juni 1952 omfattede funktionærer eller på de af lov om lærligeforhold omfattede lærlinge. Bestemmelserne i §§ 10-14 gælder dog for de af sømandsloven omfattede funktionærer.
