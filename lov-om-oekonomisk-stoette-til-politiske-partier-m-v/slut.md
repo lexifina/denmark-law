@@ -1,7 +1,7 @@
-Indenrigsministeriet, den 21 august 1995
+Indenrigsministeriet, den 20. september 2001
 
-Birte Weiss
+Karen Jespersen
 
-/ Anne Birte Pade
+/Anne Birte Pade
 
-Ingen
+Lov nr. 383 af 14. juni 1995 blev bekendtgjort i Lovtidende den 15. juni 1995

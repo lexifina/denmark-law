@@ -2,4 +2,4 @@
 
 Stk. 2. Reguleringen sker på grundlag af de på reguleringstidspunktet gældende beløb før afrunding.
 
-Støtte fra Staten
+Støtte fra staten
