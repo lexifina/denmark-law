@@ -1,5 +1,5 @@
-Skatteministeriet, den 10. september 2002
+Skatteministeriet, den 22. september 2003
 
 Svend Erik Hovmand
 
-/H. K. Andersen
+/K.-H. Ludolph
