@@ -1,11 +1,9 @@
 Bekendtgørelse af lov om afgift af øl, vin og frugtvin m.m.
 
-Herved bekendtgøres lov nr. 1015 af 19. december 1992 om afgift af øl, vin og frugtvin m.m.(* 1) med de ændringer, der følger af § 9 i lov nr. 1073 af 23. december 1992 og § 4 i lov nr. 376 af 18. maj 1994.
+Herved bekendtgøres lov om afgift af øl, vin og frugtvin m.m., jf. lovbekendtgørelse nr. 723 af 1. august 1994, med de ændringer, der følger af § 1 i lov nr. 400 af 22. maj 1996. Skatteministeriets lovbekendtgørelse nr. 848 af 22. september 1996
 
 ## Kapitel 1
 
 ## Afgift af øl
 
-Afgiftspligtigt vareområde og afgiftssatser § 1. Der betales afgift af øl her i landet efter reglerne i denne lov og efter følgende satser pr. hl: 1) øl indbrygget på et ekstraktindhold af 11 pct. Plato eller derunder (skatteklasse 1) .............. 249 kr.95 øre 2) øl indbrygget på et ekstraktindhold af over 11 pct. Plato, men ikke over 14 pct. Plato (skatteklasse 2) ................................... 321 kr.80 øre 3) øl indbrygget på et ekstraktindhold af over 14 pct. Plato, men ikke over 18 pct. Plato (skatteklasse 3) ................................... 429 kr.00 øre 4) øl indbrygget på et ekstraktindhold på over 18 pct. Plato, men ikke over 22 pct. Plato (skatteklasse 4) ................................... 475 kr.00 øre 5) øl indbrygget på et ekstraktindhold på over 22 pct. Plato (skatteklasse 5) ..................... 25 kr.00 øre pr. pct. Plato
-
-Stk. 2. Ved blanding af øl indbrygget på forskelligt ekstraktindhold bestemmes blandingens skatteklasse ved beregning af det ekstraktindhold, på hvilket øl af tilsvarende beskaffenhed indbrygges.
+Afgiftspligtigt vareområde og afgiftssatser
