@@ -1,7 +1,5 @@
 Bekendtgørelse af lov om aftaler og andre retshandler på formuerettens område
 
-(Aftaleloven)
-
-Herved bekendtgøres lov nr. 242 af 8. maj 1917 om aftaler og andre retshandler på formuerettens område med de ændringer, der følger af § 2 i lov nr. 250 af 12. juni 1975.
+Herved bekendtgøres lov om aftaler og andre retshandler på formuerettens område, jf. lovbekendtgørelse nr. 600 af 8. september 1986, med de ændringer, der følger af § 1 i lov nr. 1098 af 21. december 1994, § 4 i lov nr. 389 af 14. juni 1995 og § 5 i lov nr. 385 af 22. maj 1996.
 
 I. Om afslutning af aftaler
