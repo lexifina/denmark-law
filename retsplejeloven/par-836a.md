@@ -1,0 +1,1 @@
+§ 836 a. En person kan ikke indkaldes som vidne, hvis oplysninger om personens identitet ikke indgår i sagen i medfør af § 745, 1. pkt., eller er undtaget fra forsvarerens adgang til aktindsigt i medfør af § 745 b.
