@@ -1,1 +1,1 @@
-§ 6 g. Ved hver undervisningsinstitution kan eleverne danne et elevråd til at varetage deres interesser.
+§ 6 g. Ved hver undervisningsinstitution kan deltagerne danne et elevråd til at varetage deres interesser.
