@@ -52,7 +52,7 @@ Stk. 2. § 1, nr. 2, 3 og 4, træder i kraft den 15. juni 1999 og har virkning f
 
 § 3
 
-§§ 18 og 18 a i lov om retsforholdet mellem arbejdsgivere og funktionærer som affattet ved denne lovs § 1, nr. 2 og 3, tages op til revision senest den 1. oktober 2004.
+(Ophævet)
 
 § 4
 
@@ -83,3 +83,17 @@ Lov nr. 310 af 5. maj 2004 om ændring af lov om retsforholdet mellem arbejdsgiv
 Stk. 1. Loven træder i kraft den 1. juli 2004.
 
 Stk. 2. Loven finder anvendelse på ordninger eller aftaler, der er etableret før lovens ikrafttræden, for tildelinger, der sker efter lovens ikrafttræden.
+
+Lov nr. 1414 af 22. december 2004 om ændring af lov om ændring af lov om retsforholdet mellem arbejdsgivere og funktionærer (Ophævelse af revisionsbestemmelsen), som ophæver lovens § 3, indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 2
+
+Loven træder i kraft dagen efter bekendtgørelsen i Lovtidende.
+
+Lov nr. 1416 af 22. december 2004 om ændring af lov om retsforholdet mellem arbejdsgivere og funktionærer (Ophævelse af 18-års-grænsen i § 2 b), som ændrer noten til lovens titel samt lovens § 2 b, indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 2
+
+Stk. 1. Loven træder i kraft dagen efter bekendtgørelsen i Lovtidende.
+
+Stk. 2. Loven har virkning for afskedigelser, der foretages efter lovens ikrafttræden.
