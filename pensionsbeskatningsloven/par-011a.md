@@ -8,7 +8,7 @@
 
 4. Til kontoen skal være knyttet bestemmelse om, at opsparingen med påløbne renter m.v. tilhører kontohaveren, jf. dog § 17. Endvidere skal der være truffet bestemmelse om udbetaling i tilfælde af kontohaverens død.
 
-5. Der kan ikke aftales senere udbetaling for sidste rate end det kalenderår, hvori kontohaveren fylder 85 år. Rateudbetalingen kan tidligst påbegyndes ved kontohaverens fyldte 60. år og tidligst 5 år efter, at kontoen er oprettet, medmindre lavere aldersgrænse end kontohaverens fyldte 60. år er godkendt af Ligningsrådet. Det kan dog tillige aftales, at udbetalingerne påbegyndes i tilfælde af kontohaverens død før det fyldte 60. år eller invaliditet, som efter reglerne i lov om social pension berettiger kontohaveren til at oppebære højeste eller mellemste førtidspension.
+5. Der kan ikke aftales senere udbetaling for sidste rate end det kalenderår, hvori kontohaveren fylder 85 år. Rateudbetalingen kan tidligst påbegyndes ved kontohaverens fyldte 60. år og tidligst 5 år efter, at kontoen er oprettet, medmindre lavere aldersgrænse end kontohaverens fyldte 60. år er godkendt af Ligningsrådet. Det kan dog tillige aftales, at udbetalingerne påbegyndes i tilfælde af kontohaverens død før det fyldte 60. år eller kontohaverens varigt nedsatte funktionsevne, som efter reglerne i lov om social pension berettiger kontohaveren til at oppebære højeste eller mellemste førtidspension.
 
 6. Der kan ikke træffes bestemmelse om udbetaling efter kontohaverens død til andre end kontohaverens »nærmeste pårørende«, jf. § 5, stk. 5, i lov om visse civilretlige forhold m.v. ved pensionsopsparing i pengeinstitutter, eller kontohaverens ægtefælle, fraskilte ægtefælle, en navngiven person, der har fælles bopæl med kontohaveren ved indsættelsen, kontohaverens livsarvinger, stedbørn eller stedbørns livsarvinger.
 
@@ -20,6 +20,8 @@ Stk. 2. Før rateudbetalingen påbegyndes, vælger kontohaveren udbetalingsforl�
 
 Stk. 3. Det beløb, der er nævnt i stk. 2, nr. 2, opgøres ved hvert kalenderårs begyndelse og beregnes som en annuitet på grundlag af ordningens værdi på dette tidspunkt og en nærmere fastsat amortisationsrente. Ved beregningen af amortisationsrenten anvendes en rentesats beregnet på grundlag af et simpelt gennemsnit opgjort med to decimaler af en af Københavns Fondsbørs dagligt udregnet effektiv obligationsrente for de seneste 20 børsdage forud for 15. december i året før udbetalingsåret. Den effektive obligationsrente opgøres med to decimaler for fastforrentede kroneobligationer i åbne serier, der noteres på Københavns Fondsbørs, bortset fra konverterbare obligationer noteret over pari samt indeksregulerede obligationer. Amortisationsrenten findes ved fra denne rentesats at fradrage rentesatsen ganget med skattesatsen ifølge pensionsafkastbeskatningslovens § 2.
 
-Stk. 4. Skatteministeren fastsætter nærmere regler om opgørelsen af ordningens værdi og kan fastsætte regler om administrationen af ordningen.
+Stk. 4. Til kontoen kan knyttes en invalidesumforsikring som nævnt i § 8, stk. 2.
+
+Stk. 5. Skatteministeren fastsætter nærmere regler om opgørelsen af ordningens værdi og kan fastsætte regler om administrationen af ordningen.
 
 Opsparing i pensionsøjemed

@@ -1,6 +1,6 @@
 Bekendtgørelse af lov om beskatningen af pensionsordninger m.v. (pensionsbeskatningsloven)
 
-Herved bekendtgøres lov om beskatningen af pensionsordninger m.v., jf. lovbekendtgørelse nr. 776 af 22. august 1996, med de ændringer og tilføjelser, der følger af § 14 i lov nr. 1219 af 27. december 1996, § 13 i lov nr. 803 af 24. oktober 1997, § 29 i lov nr. 1098 af 29. december 1997, § 9 i lov nr. 277 af 13. maj 1998, § 8 i lov nr. 414 af 26. juni 1998, § 5 i lov nr. 424 af 26. juni 1998, § 1 i lov nr. 429 af 26. juni 1998, § 3 i lov nr. 430 af 26. juni 1998, § 11 i lov nr. 468 af 1. juli 1998, § 8 i lov nr. 1026 af 23. december 1998, § 2 i lov nr. 143 af 17. marts 1999, § 3 i lov nr. 284 af 12. maj 1999 og § 11 i lov nr. 288 af 12. maj 1999.
+Herved bekendtgøres lov om beskatningen af pensionsordninger m.v., jf. lovbekendtgørelse nr. 530 af 25. juni 1999, med de ændringer og tilføjelser, der følger af § 2 i lov nr. 955 af 20. december 1999, § 7 i lov nr. 956 af 20. december 1999, § 39 i lov nr. 165 af 15. marts 2000, § 1 i lov nr. 170 af 15. marts 2000 og § 1 i lov nr. 294 af 29. april 2000.
 
 ## Afsnit I
 

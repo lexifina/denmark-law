@@ -6,6 +6,6 @@ Stk. 3. Ved anvendelsen af reglerne i stk. 1 og 2 ses der bort fra de forhøjels
 
 Stk. 4. Er en person i løbet af 5-årsperioden blevet optaget i en pensionsordning som nævnt i stk. 1 eller 2, forhøjes indkomsten fra og med det indkomstår, hvori optagelsen er sket, med et beløb, der svarer til de årlige pensionsindbetalinger.
 
-Stk. 5. Indkomsten forhøjes alene efter reglerne i stk. 1-4, i det omfang pensionsindbetalingerne overstiger 20 pct. af den samlede lønindtægt fra den pågældende arbejdsgiver. Til lønindtægten medregnes provision, tantieme eller lignende samt den skattepligtige værdi af naturalydelser m.v. Endvidere medregnes arbejdsgiverens pensionsindbetalinger.
+Stk. 5. Indkomsten forhøjes alene efter reglerne i stk. 1-4, i det omfang pensionsindbetalingerne inklusive indbetalinger til en pensionsordning omfattet af § 19 C overstiger 20 pct. af den samlede lønindtægt fra den pågældende arbejdsgiver. Til lønindtægten medregnes provision, tantieme eller lignende samt den skattepligtige værdi af naturalydelser m.v. Endvidere medregnes arbejdsgiverens pensionsindbetalinger.
 
 Stk. 6. Beløb, der efter stk. 2-5 skal medregnes til den skattepligtige indkomst, forhøjes med et tillæg på 6 pct. for hvert år fra udløbet af det indkomstår, hvori beløbet skal medregnes, og indtil udløbet af det år, hvori skattepligten ophører.
