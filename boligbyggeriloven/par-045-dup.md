@@ -1,0 +1,1 @@
+§ 45. Rentesikring ydes med virkning fra ejendommens ibrugtagelse og udbetales kontant. Udbetaling sker kvartalsvis bagud pr. 31. marts, 30. juni, 30. september og 31. december, første gang dog, når det fuldførte byggeri er godkendt og da for perioden fra ejendommens ibrugtagelse til den af de nævnte datoer, der ligger nærmest forud for rentesikringens berigtigelse.

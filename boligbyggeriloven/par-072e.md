@@ -1,0 +1,1 @@
+§ 72 e. Støtte til de i § 54 omtalte boliger kan ydes efter tilsvarende regler som anført i dette kapitel. Staten kan dog inden for en ramme, der optages på de årlige finanslove, yde et tilskud til nedsættelse af anskaffelsessummen eller til kompensation for bygningsejerens eller kommunens udgifter til byggeriet.

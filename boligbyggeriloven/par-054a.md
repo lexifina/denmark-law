@@ -1,0 +1,1 @@
+§ 54 a. Støtten til de i § 54 omtalte boliger kan ydes efter tilsvarende regler som anført i kapitel 4, 6, 7 og 9. Staten kan dog inden for en ramme, der optages på de årlige finanslove, yde et tilskud til nedsættelse af anskaffelsessummen eller til kompensation for bygningsejerens eller kommunens udgifter til byggeriet.

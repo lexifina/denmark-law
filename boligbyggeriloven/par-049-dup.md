@@ -1,0 +1,1 @@
+§ 49. På samme vilkår som gældende for statsstøtte kan kommuner yde garanti og hel eller delvis rentesikring til almennyttigt nybyggeri. Kommunens udlån til Boligselskabers Landsbyggefond kan i sådanne tilfælde udgøre indtil 23 pct. af ejendommens værdi.

@@ -1,0 +1,1 @@
+§ 47. Boligministeren kan helt eller delvis bringe udbetalingen af rentesikringsbeløb til ophør, såfremt ejendommens økonomi forbedres, eller ændrede forhold for byggeriet taler derfor, herunder at der indtræder en stigning i det almindelige lejeniveau.

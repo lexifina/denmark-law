@@ -1,0 +1,1 @@
+§ 46 b. For byggerier, hvortil der er meddelt tilsagn om statsstøtte efter lov nr. 245 af 8. juni 1967 i perioden 1. april 1974-31. marts 1975, nedsættes basisrenten for beregning af rentesikring pr. 1. januar 1980 til 53/4 pct. og pr. 1. januar 1981 til 51/2 pct. Basisrenten på 51/2 pct. lægges til grund ved beregning af aftrapning af rentesikring efter § 46.
