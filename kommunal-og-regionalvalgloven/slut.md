@@ -1,7 +1,9 @@
-Indenrigsministeriet, den 4. april 1997
+Indenrigsministeriet, den 18. april 2001
 
-Birte Weiss
+Karen Jespersen
 
-/ Anne Birte Pade
+/Anne Birte Pade
 
-(* 1) Loven indeholder bestemmelser, der gennemfører Rådets direktiv nr. 94/80/EF, EF-Tidende 1994 L 368, s. 38.
+Loven indeholder bestemmelser, der gennemfører Rådets direktiv nr. 94/80/EF, EF-Tidende 1994 L 368, s. 38.
+
+Lov nr. 255 af 4. maj 1998 blev bekendtgjort i Lovtidende den 5. maj 1998.
