@@ -1,16 +1,4 @@
-§ 8 a. (* 7) Skat af aktieindkomst, der ikke overstiger et
-
-grundbeløb på 26.400 kr., beregnes som en endelig skat på 30 pct. for
-
-indkomstårene 1993-1995 og på 25 pct. for indkomståret 1996 og senere
-
-indkomstår. Indeholdt udbytteskat efter kildeskattelovens § 65 af
-
-aktieindkomst, der ikke overstiger grundbeløbet, er endelig betaling
-
-af skatten, og udbytteskatten modregnes ikke i slutskatten efter
-
-kildeskattelovens § 67.
+§ 8 a. Skat af aktieindkomst, der ikke overstiger et grundbeløb på 26.400 kr., beregnes som en endelig skat på 30 pct. for indkomstårene 1993-1995 og på 25 pct. for indkomståret 1996 og senere indkomstår. Indeholdt udbytteskat efter kildeskattelovens § 65 af aktieindkomst, der ikke overstiger grundbeløbet, er endelig betaling af skatten, og udbytteskatten modregnes ikke i slutskatten efter kildeskattelovens § 67.
 
 Stk. 2. Skat af aktieindkomst, der overstiger et grundbeløb på 26.400 kr., beregnes med 40 pct. Skat af aktieindkomst, der overstiger grundbeløbet, indgår i slutskatten, og den udbytteskat, der er indeholdt i denne del af udbyttet efter kildeskattelovens § 65, modregnes i slutskatten efter kildeskattelovens § 67.
 

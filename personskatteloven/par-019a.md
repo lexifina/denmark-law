@@ -1,3 +1,3 @@
-§ 19 a. (* 10) (Ophævet).
+§ 19 a. (Ophævet).
 
 Regulering
