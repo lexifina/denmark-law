@@ -1,4 +1,4 @@
-§ 14 b. (* 7) Ved realkreditinstitutters omdannelse til aktieselskaber, jf. kapitel 12 i realkreditloven, finder § 5, § 6, stk. 1, § 6, stk. 3-4, § 6, stk. 6, § 7, § 8 og § 10, stk. 2, tilsvarende anvendelse.
+§ 14 b. Ved realkreditinstitutters omdannelse til aktieselskaber, jf. kapitel 12 i realkreditloven, finder § 5, § 6, stk. 1, § 6, stk. 3-4, § 6, stk. 6, § 7, § 8 og § 10, stk. 2, tilsvarende anvendelse.
 
 Stk. 2. Underskud fra tidligere indkomstår kan uanset § 8, stk. 6, bringes til fradrag i det fortsættende selskabs indkomstopgørelse efter ligningslovens § 15, hvis realkreditinstituttets aktiver og gæld som helhed overdrages til et af realkreditinstituttet ejet eller oprettet aktieselskab, hvori instituttet ejer hele aktiekapitalen. Det er en betingelse, at aktieselskabet ikke tidligere har drevet erhvervsmæssig virksomhed.
 

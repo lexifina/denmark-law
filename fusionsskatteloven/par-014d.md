@@ -1,0 +1,13 @@
+§ 14 d. (* 4) Ved gensidige forsikringsforeningers omdannelse til aktieselskaber er der adgang til beskatning efter reglerne i kapitel 1, jf. stk. 2-6.
+
+Stk. 2. Det er en betingelse for anvendelsen af reglerne, at foreningens aktiver og gæld som helhed overdrages til et af foreningen ejet eller oprettet aktieselskab, samt at foreningen modtager aktier i aktieselskabet svarende til værdien af de overdragne aktiver efter fradrag af foreningens gæld.
+
+Stk. 3. § 5, § 6, stk. 1, § 6, stk. 3-4, § 6, stk. 6, § 7, § 8 og § 10, stk. 2, finder tilsvarende anvendelse ved omdannelser efter stk. 2. Den gensidige forsikringsforening anses i denne sammenhæng som det ophørende selskab, og det i stk. 2 nævnte aktieselskab anses i denne sammenhæng som det fortsættende selskab.
+
+Stk. 4. Underskud fra tidligere indkomstår kan uanset § 8, stk. 6, bringes til fradrag i det fortsættende selskabs indkomstopgørelse efter ligningslovens § 15, hvis overdragelse efter stk. 2, sker til et af foreningen oprettet aktieselskab, hvori foreningen ejer hele aktiekapitalen.
+
+Stk. 5. Aktier i det fortsættende selskab, som foreningen modtager i henhold til stk. 2, anses for anskaffet på det tidspunkt, hvor omdannelsen er vedtaget i alle de involverede selskaber m.v. Som anskaffelsessum anvendes værdien af de indskudte aktiver efter fradrag af foreningens gæld.
+
+Stk. 6. Reglerne i stk. 3-5 finder tilsvarende anvendelse hvis aktiver og gæld i forbindelse med omdannelsen som helhed videreoverdrages til et aktieselskab, der ejes 100 pct. af det i stk. 2 nævnte aktieselskab, og overdragelsen alene sker mod vederlag i aktier. Som ophørende selskab anses i denne sammenhæng det selskab, der videreoverdrager aktiver og gæld, som fortsættende selskab anses i denne sammenhæng det selskab, der får overdraget aktiver og gæld.
+
+Stk. 7. (* 5) Reglerne i ligningsloven § 15, stk. 3 og 4 finder ikke anvendelse, når underskuddet videreføres efter stk. 4 eller 6, og ændringen i aktionærkredsen sker i forbindelse med omdannelsen ved overdragelse af aktierne fra en gensidig livsforsikringsforening til et skadesforsikringsaktieselskab inden for samme koncern.
