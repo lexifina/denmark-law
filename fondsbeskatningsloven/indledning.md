@@ -1,3 +1,3 @@
-Bekendtgørelse af lov om beskatning af fonde og visse foreninger (Fondsbeskatningsloven) (* 1)
+Bekendtgørelse af lov om beskatning af fonde og visse foreninger (Fondsbeskatningsloven)(* 1)
 
-Herved bekendtgøres lov om beskatning af fonde og visse foreninger (fondsbeskatningsloven), jf. lovbekendtgørelse nr. 600 af 20. august 1990, med de ændringer, der følger af lov nr. 217 af 10. april 1991, lov nr. 218 af 10. april 1991, lov nr. 350 af 6. juni 1991, lov nr. 362 af 6. juni 1991 og lov nr. 394 af 6. juni 1991. (* 2) Lovbekendtgørelsen gælder først i sin helhed fra og med indkomståret 1992, idet ændringerne, der følger af lov nr. 350 af 6. juni 1991, først har virkning fra og med indkomståret 1992.
+Herved bekendtgøres lov om beskatning af fonde og visse foreninger (Fondsbeskatningsloven), jf. lovbekendtgørelse nr. 703 af 16. oktober 1992 med de ændringer, der følger af lov nr. 219 af 3. april 1992 og lov nr. 291 af 29. april 1992. Lovbekendtgørelsen gælder først i sin helhed fra og med indkomståret 1993, idet ændringerne, der følger af lov nr. 291 af 29. april 1992, først har virkning fra dette tidspunkt.
