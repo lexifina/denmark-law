@@ -10,6 +10,6 @@ Stk. 3. Aktier eller anparter i et landinspektørselskab må, jf. dog stk. 5, ku
 
 Stk. 4. Bestyrelsesmedlemmer, bortset fra medarbejdervalgte bestyrelsesmedlemmer, i et landinspektørselskab skal aktivt drive landinspektørvirksomhed i selskabet eller i dets moderselskab eller dets datterselskab. Medlemmer af direktionen i et landinspektørselskab skal aktivt drive landinspektørvirksomhed i selskabet.
 
-Stk. 5. Boligministeren fastsætter nærmere regler om udøvelse af landinspektørvirksomhed i selskabsform, herunder regler om afhændelse af en aktie eller anpart i tilfælde af en aktionærs eller anpartshavers dødsfald eller ophør med udøvelse af aktiv landinspektørvirksomhed.
+Stk. 5. By- og boligministeren fastsætter nærmere regler om udøvelse af landinspektørvirksomhed i selskabsform, herunder regler om afhændelse af en aktie eller anpart i tilfælde af en aktionærs eller anpartshavers dødsfald eller ophør med udøvelse af aktiv landinspektørvirksomhed.
 
-Stk. 6. Boligministeren fastsætter endvidere nærmere regler om navne for landinspektørselskaber samt om navne, hvorunder landinspektørvirksomhed må drives i enkeltmandsvirksomhed eller i et fællesskab af praktiserende landinspektører.
+Stk. 6. By- og boligministeren fastsætter endvidere nærmere regler om navne for landinspektørselskaber samt om navne, hvorunder landinspektørvirksomhed må drives i enkeltmandsvirksomhed eller i et fællesskab af praktiserende landinspektører.
