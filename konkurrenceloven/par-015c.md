@@ -1,0 +1,1 @@
+§ 15 c. Konkurrencerådet kan sagsbehandle og træffe afgørelser på engelsk, hvis adressaterne for afgørelsen ønsker det og hensynet til sagens parter ikke på afgørende måde taler imod at anvende engelsk. Har Konkurrencerådet truffet afgørelse på engelsk, skal der foreligge et danske resumé heraf.
