@@ -1,0 +1,1 @@
+§ 15 b. Økonomi- og erhvervsministeren kan fastsætte nærmere regler om benyttelse af elektronisk kommunikation til og fra Konkurrencerådet, Konkurrencestyrelsen samt Konkurrenceankenævnet, herunder om brugen af elektronisk signatur.
