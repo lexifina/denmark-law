@@ -1,1 +1,1 @@
-§ 31 A. Boligministeren kan i forbindelse med udsendelse af vejledninger om energiøkonomisk drift og vedligeholdelse af varme- og ventilationsanlæg fastsætte regler om kontrolmåling, justering og rensning af sådanne anlæg, herunder regler om gebyrer. Reglerne finder anvendelse på såvel nye som på bestående anlæg.
+§ 31 A. Ophævet.
