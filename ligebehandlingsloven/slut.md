@@ -1,9 +1,7 @@
-Givet på Amalienborg, den 19. april 1989
+Arbejdsministeriet, den 11. oktober 1990
 
-Under Vor Kongelige Hånd og Segl
+Knud Erik Kirkegaard
 
-MARGRETHE R.
+/ E. Edelberg
 
-/Henning Dyremose
-
-Ingen
+(* 1) D.v.s. lovens § 21.
