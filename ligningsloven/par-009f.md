@@ -1,3 +1,5 @@
-§ 9 F. Personer, der er skattepligtige efter kildeskattelovens § 2, stk. 1, litra a, og som er gift ved udløbet af indkomståret, kan fradrage et grundbeløb på 27.100 kr. ved opgørelsen af den skattepligtige indkomst. Beløbet reguleres efter personskattelovens § 20. Fradraget gives kun i indkomst efter kildeskattelovens § 2, stk. 1, litra a, og kan ikke overstige sådan indkomst.
+§ 9 F. (* 16) Personer, der er skattepligtige efter kildeskattelovens § 2, stk. 1, litra a, og som er gift ved udløbet af indkomståret, kan fradrage et grundbeløb på 23.700 kr. ved opgørelsen af den skattepligtige indkomst. Omfatter indkomstansættelsen en kortere periode end 1 år, er fradraget højst 1/12 af 23.700 kr. for hver måned, ved hvis begyndelse skattepligt foreligger. Beløbene på 23.700 kr. reguleres efter personskattelovens § 20. Fradraget gives kun i indkomst efter kildeskattelovens § 2, stk. 1, litra a, og kan ikke overstige såda
 
-Stk. 2. Det er en betingelse, at den skattepligtige er samlevende med ægtefællen ved udgangen af indkomståret, og at ægtefællen ikke for dette år har opnået skattenedsættelse gennem personfradrag efter personskattelovens § 10.
+n indkomst.
+
+Stk. 2. Det er en betingelse, at den skattepligtige har samme bopæl som ægtefællen ved udgangen af indkomståret, og at ægtefællen ikke for dette indkomstår har opnået skattenedsættelse gennem personfradrag efter personskattelovens § 10.
