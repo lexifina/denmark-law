@@ -1,3 +1,7 @@
-Lov om strukturforanstaltninger vedrørende fiskerisektoren (* 1)
+Bekendtgørelse af lov om strukturforanstaltninger vedrørende fiskerisektoren
 
-VI MARGRETHE DEN ANDEN, af Guds Nåde Danmarks Dronning, gør vitterligt: Folketinget har vedtaget og Vi ved Vort samtykke stadfæstet følgende lov:
+Herved bekendtgøres lov nr. 483 af 12. juni 1996 om strukturforanstaltninger vedrørende fiskerisektoren med de ændringer, der følger af lov nr. 420 af 31. maj 2000.
+
+## Kapitel 1
+
+Lovens formål
