@@ -1,4 +1,4 @@
-§ 3 c. Udstedelse af pantebreve, herunderved omprioritering i henhold til lov om vissealmennyttige boligafdelingers omprioritering m.v. og ved konvertering, i en ejendom, dertilhører et almennyttigt boligselskab, kan kunske med kommunalbestyrelsens godkendelse. Undtaget herfra er dog pantebreve til Boligselskabernes Landsbyggefond samt pantebreve, der udstedes i forbindelse med:
+§ 3 c. Udstedelse af pantebreve, herunder ved omprioritering i henhold til lov om visse almennyttige boligafdelingers omprioritering m.v. og ved konvertering, i en ejendom, der tilhører et almennyttigt boligselskab, kan kun ske med kommunalbestyrelsens godkendelse. Undtaget herfra er dog pantebreve til Boligselskabernes Landsbyggefond samt pantebreve, der udstedes i forbindelse med:
 
 1) Ejendomserhvervelse.
 

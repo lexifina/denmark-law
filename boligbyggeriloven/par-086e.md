@@ -1,4 +1,4 @@
-§ 86 e. Et bofællesskabs bruttoetageareal må ikke overstige 40 m2 pr. person, der opfylder betingelserne i § 86 a, stk. 3. Bruttoetagearealet kan dog forøges til maksimum 50 m2 pr. boenhed, når disse indrettes til stærkt bevægelseshæmmede personer.
+§ 86 e. Et bofællesskabs bruttoetageareal må ikke overstige 40 (m2) pr. person, der opfylder betingelserne i § 86 a, stk. 3. Bruttoetagearealet kan dog forøges til maksimum 50 (m2) pr. boenhed, når disse indrettes til stærkt bevægelseshæmmede personer.
 
 Stk. 2. Reglerne i § 7 a, § 55, § 56, stk. 1, 3 og 4, § 58, stk. 2-4, og § 59 finder tilsvarende anvendelse.
 

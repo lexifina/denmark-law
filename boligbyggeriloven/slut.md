@@ -1,12 +1,18 @@
-Boligministeriet, den 4. august 1995
+Boligministeriet, den 1. august 1996
 
 Ole Løvig Simonsen
 
-/ Inge Schouby Andersen
+/ Hanne Victor Hansen
 
 Bilag
 
 Uddrag af bekendtgørelse nr. 432 af 13. juli 1982 af lov om boligbyggeri(*)
+
+## Kapitel VII
+
+## Rentesikring og garanti til
+
+almennyttige boligselskaber
 
 Stk. 2. Lånene anses for optaget på tidspunktet for obligationernes afhændelse.
 
@@ -24,13 +30,11 @@ Stk. 2. Det er en betingelse for statens overtagelse af garanti, at vedkommende 
 
 Stk. 2. Kommunalbestyrelsen kan påtage sig garanti efter reglen i stk. 1 ved almennyttigt boligbyggeri, til hvis opførelse kommunen har ydet støtte i medfør af § 49.
 
-Da de hidtidige bestemmelser vil have retsvirkning i en lang årrække endnu, vil man af hensyn til boligselskaberne og de myndigheder, der administrerer bestemmelserne, optage den nuværende lovs kap. VII som bilag til det særtryk, der til sin tid vil blive udsendt af lovforslaget i den vedtagne form.
-
 (*) I bemærkningerne til lov nr. 532 af 16. november 1983 (L7) er henvist til bemærkningerne til L 216, hvor der er anført følgende:
 
 Da de hidtidige bestemmelser vil have retsvirkning i en lang årrække endnu, vil man af hensyn til boligselskaberne og de myndigheder, der administrerer bestemmelserne, optage den nuværende lovs kap. VII som bilag til det særtryk, der til sin tid vil blive udsendt af lovforslaget i den vedtagne form.
 
-(* 1) Bekendtgørelsen i Lovtidende fandet sted den 15. april 1993.
+(* 1) Bekendtgørelsen i Lovtidende fandt sted den 15. april. 1993.
 
 (* 2) Vedrører § 12, § 16, stk. 3 og § 23 om de almennyttige boligselskabers egenkapitalforhold.
 
@@ -38,7 +42,7 @@ Da de hidtidige bestemmelser vil have retsvirkning i en lang årrække endnu, vi
 
 De hidtidige bestemmelser i §§ 81-83 a samt i § 85, 1. pkt. fremgår af Boligministeriets lovbekendtgørelse nr. 51 af 22. januar 1987.
 
-(* 4) Vedrører § 2, stk. 3, 2. pkt., og § 5, stk. 1 og stk. 2. Loven er forelagt EU Kommissionen.
+(* 4) Vedrører § 2, stk. 3, 2. pkt., og § 5, stk. 1 og stk. 2.
 
 (* 5) Bekendtgørelsen i Lovtidende fandt sted den 9. februar 1995.
 
@@ -47,3 +51,5 @@ De hidtidige bestemmelser i §§ 81-83 a samt i § 85, 1. pkt. fremgår af Bolig
 (* 7) Vedrører § 5, stk. 1 og stk. 2.
 
 (* 8) Bekendtgørelsen i Lovtidende fandt sted den 18. maj 1995.
+
+(* 9) Bekendtgørelsen i Lovtidende fandt sted den 28. marts 1996.
