@@ -8,6 +8,6 @@ Stk. 4. Underskud fra tidligere indkomstår kan uanset § 8, stk. 6, bringes til
 
 Stk. 5. Aktier i det modtagende selskab, som foreningen modtager i henhold til stk. 2, anses for anskaffet på det tidspunkt, hvor omdannelsen er vedtaget i alle de involverede selskaber m.v. Som anskaffelsessum anvendes værdien af de indskudte aktiver efter fradrag af foreningens gæld.
 
-Stk. 6. Reglerne i stk. 3-5 finder tilsvarende anvendelse hvis aktiver og gæld i forbindelse med omdannelsen som helhed videreoverdrages til et aktieselskab, der ejes 100 pct. af det i stk. 2 nævnte aktieselskab, og overdragelsen alene sker mod vederlag i aktier.
+Stk. 6. Reglerne i stk. 3-5 finder tilsvarende anvendelse, hvis aktiver og gæld i forbindelse med omdannelsen som helhed videreoverdrages til et aktieselskab, der ejes 100 pct. af det i stk. 2 nævnte aktieselskab, og overdragelsen alene sker mod vederlag i aktier.
 
-Stk. 7. Reglerne i ligningsloven § 15, stk. 5 og 6 finder ikke anvendelse, når underskuddet videreføres efter stk. 4 eller 6, og ændringen i aktionærkredsen sker i forbindelse med omdannelsen ved overdragelse af aktierne fra en gensidig livsforsikringsforening til et skadesforsikringsaktieselskab inden for samme koncern.
+Stk. 7. (* 9) Reglerne i ligningsloven § 15, stk. 7 og 8 finder ikke anvendelse, når underskuddet videreføres efter stk. 4 eller 6, og ændringen i aktionærkredsen sker i forbindelse med omdannelsen ved overdragelse af aktierne fra en gensidig livsforsikringsforening til et skadesforsikringsaktieselskab inden for samme koncern.
