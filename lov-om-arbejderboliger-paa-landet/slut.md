@@ -1,7 +1,9 @@
-Landbrugsministeriet, den 8. december 1987
+Landbrugsministeriet, den 5. februar 1993
 
-LAURITS TØRNÆS
+Bjørn Westh
 
-/Allan Loft
+/ Inga Steen Jensen
 
-Ingen
+(*) Ved lov nr. 418 af 13. juni 1990 er bestemmelserne om afløsningslån ophævet.
+
+(*) Jf. kapitel IX i BKG af 16. maj 1997
