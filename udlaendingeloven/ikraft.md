@@ -149,3 +149,39 @@ Stk. 1. Loven træder i kraft den 1. august 2001. § 1, nr. 8, træder i kraft d
 Stk. 2. Udlændingelovens § 25 a, stk. 1, nr. 1, § 35, stk. 2, og § 36, stk. 3, som affattet ved denne lovs § 1, nr. 1, 3 og 5, finder alene anvendelse, såfremt det forhold, der begrunder udvisningen, er begået efter lovens ikrafttræden.
 
 Stk. 3. Udlændingelovens § 36, stk. 4, som affattet ved denne lovs § 1, nr. 5, finder ikke anvendelse for udlændinge, der inden lovens ikrafttræden har indgivet ansøgning om opholdstilladelse efter udlændingelovens § 7.
+
+Lov nr. 134 af 20. marts 2002 indeholder følgende bestemmelse:
+
+§ 2
+
+§ 1, nr. 1, 2, 5 og 6, træder i kraft dagen efter bekendtgørelsen i Lovtidende. § 1, nr. 3, 4, 7 og 8, træder i kraft den 2. december 2002, medmindre ministeren for flygtninge, indvandrere og integration træffer bestemmelse om en tidligere ikrafttræden.
+
+Lov nr. 362 af 6. juni 2002 indeholder følgende bestemmelse:
+
+§ 2
+
+Stk. 1. Loven træder i kraft dagen efter bekendtgørelsen i Lovtidende.
+
+Stk. 2. Udlændingelovens § 10, stk. 3 og 4, § 22, nr. 4 og 6, § 25, § 25 a, stk. 1, nr. 1, og § 26, stk. 2, som affattet henholdsvis ændret ved denne lovs § 1, nr. 1 og 4-8, finder alene anvendelse, såfremt det forhold, der begrunder udvisningen, er begået efter lovens ikrafttræden. Såfremt det forhold, der begrunder udvisningen, er begået før lovens ikrafttræden, finder de hidtil gældende regler anvendelse.
+
+Lov nr. 365 af 6. juni 2002 indeholder følgende bestemmelse:
+
+§ 8
+
+Stk. 1. Loven træder i kraft den 1. juli 2002, jf. dog stk. 2-5.
+
+Stk. 2. Udlændingelovens § 7, §§ 9-9 e, § 19, stk. 1, nr. 1, § 19, stk. 1, nr. 5, og § 26, stk. 1, som affattet, indsat eller ændret ved denne lovs § 1, nr. 2, 3, 21, 24, 29 og 30, finder ikke anvendelse på udlændinge, der inden lovens ikrafttræden har indgivet ansøgning om eller er meddelt opholdstilladelse. På sådanne udlændinge finder de hidtil gældende regler anvendelse.
+
+Stk. 3. Udlændingelovens §§ 11 og 11 a som affattet henholdsvis indsat ved denne lovs § 1, nr. 5 og 6, finder ikke anvendelse på udlændinge, der inden den 28. februar 2002 har indgivet ansøgning om eller er meddelt opholdstilladelse. På sådanne udlændinge finder de hidtil gældende regler anvendelse.
+
+Stk. 4. Udlændingelovens § 26, stk. 1, som ændret ved denne lovs § 1, nr. 29 og 30, finder alene anvendelse ved afgørelser efter udlændingelovens §§ 22-25 b, såfremt det forhold, der begrunder udvisningen, er begået efter lovens ikrafttræden. Såfremt det forhold, der begrunder udvisningen, er begået inden lovens ikrafttræden, finder de hidtil gældende regler anvendelse.
+
+Stk. 5. (Udeladt)
+
+Lov nr. 367 af 6. juni 2002 indeholder følgende bestemmelse:
+
+§ 2
+
+Stk. 1. § 1, nr. 1-5, træder i kraft dagen efter bekendtgørelsen i Lovtidende. Tidspunktet for ikrafttræden af § 1, nr. 6, fastsættes af ministeren for flygtninge, indvandrere og integration.
+
+Stk. 2. Udlændingelovens § 33, stk. 1, 2. pkt., og stk. 3, 3. pkt., som henholdsvis ændret og indsat ved denne lovs § 1, nr. 3 og 4, finder alene anvendelse, såfremt det forhold, der begrunder udvisningen, er begået efter lovens ikrafttræden. Såfremt det forhold, der begrunder udvisningen, er begået før lovens ikrafttræden, finder de hidtil gældende regler fortsat anvendelse.
