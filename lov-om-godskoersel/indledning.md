@@ -1,5 +1,5 @@
-Lov om godskørsel
+Bekendtgørelse af lov om godskørsel
 
-VI MARGRETHE DEN ANDEN, af Guds Nåde Danmarks Dronning, gør vitterligt: Folketinget har vedtaget og Vi ved Vort samtykke stadfæstet følgende lov:
+Herved bekendtgøres lov nr. 851 af 21. december 1988 med de ændringer, der følger af lov nr. 839 af 18. december 1991.
 
 Lovens område m.v.
