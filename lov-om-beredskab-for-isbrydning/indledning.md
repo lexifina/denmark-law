@@ -1,3 +1,3 @@
-Lov om statens istjeneste.
+Bekendtgørelse af lov om Statens Istjeneste
 
-Vi Frederik den Niende, af Guds Naade Konge til Danmark, de Venders og Goters, Hertug til Slesvig, Holsten, Stormarn, Ditmarsken, Lauenborg og Oldenborg, Gør vitterligt:Folketinget har vedtaget og Vi ved Vort samtykke stadfæstet følgende lov:
+Herved bekendtgøres lov nr. 109 af 8. april 1957 om Statens Istjeneste med de ændringer, der følger af lov nr. 857 af 23. december 1987.

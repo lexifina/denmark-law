@@ -1,9 +1,7 @@
-Givet på Amalienborg, den 8. april 1957.
+Industriministeriet, den 29. september 1988
 
-Under Vor Kongelige Hånd og Segl.
+NILS WILHJELM
 
-Frederik R.
-
-Lis Groes.
+/Torben Ginnerup
 
 Ingen
