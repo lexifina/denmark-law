@@ -1,13 +1,7 @@
-§ 6 b. Regionplanmyndigheden skal tilvejebringe regionplanretningslinier for arealudlæg til butiksformål i overensstemmelse med bestemmelserne i §§ 5 c og 5 d.
+§ 6 b. Regionplanmyndigheden skal tilvejebringe regionplanretningslinjer for
 
-Stk. 2. Regionplanmyndigheden skal i forbindelse hermed
+1) beliggenheden af og de maksimale bruttoetagearealer for butikker, når butiksstørrelserne overstiger 3.000 m 2 bruttoetageareal for dagligvarebutikker eller 1.500 m 2 bruttoetageareal for udvalgsvarebutikker, og
 
-1) afgrænse den centrale del af de enkelte byer eller bydele, hvori der kan udlægges arealer til butiksformål,
+2) beliggenheden af og det maksimale bruttoetageareal for byggeri til butiksformål i bydelscentre og aflastningsområder, jf. § 5 d, stk. 1, 2. pkt., og § 5 d, stk. 2, nr. 4, når det samlede bruttoetageareal i et område overstiger 3.000 m 2 .
 
-2) fastsætte retningslinier for placering af de i § 5 d, stk. 2, nr. 1-3, nævnte arealer til butiksformål,
-
-3) afgrænse beliggenheden for de i § 5 d, stk. 2, nr. 4, nævnte arealer til butiksformål,
-
-4) fastsætte det maksimale bruttoetageareal for nybyggeri og omdannelse af eksisterende byggeri til butiksformål for hvert af de ovenfor nævnte arealer og
-
-5) fastsætte maksimale bruttoetagearealer for de enkelte butikker.
+Stk. 2. I hovedstadsområdet skal Hovedstadens Udviklingsråd yderligere fatsætte regionplanretningslinjer om beliggenheden af de centrale byområder i regionen.

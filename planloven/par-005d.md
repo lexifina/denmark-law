@@ -9,3 +9,5 @@ Stk. 2. Uden for den centrale del af en by eller bydel, jf. stk. 1, kan der dog 
 3) arealer til mindre butikker til salg af egne produkter i tilknytning til en virksomheds produktionslokaler og
 
 4) arealer til butiksformål, i det omfang det af hensyn til et bevaringsværdigt bymiljø ikke er muligt at udlægge tilstrækkelige arealer i den centrale del af byen.
+
+Stk. 3. Særlig pladskrævende varegrupper er grupper af varer, som i sig selv er store eller som kræver store udstillingsarealer, som for eksempel biler, tømmer, byggematerialer, planter og havebrugsvarer, møbler og køkkenelementer.
