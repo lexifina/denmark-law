@@ -1,5 +1,5 @@
-Finansministeriet, den 24. juni 2003
+Finansministeriet, den 11. juni 2004
 
 Thor Pedersen
 
-/Birgitte Nielsen
+/Mai-Britt Rasmussen
