@@ -1,0 +1,1 @@
+§ 23 e. Kommunalbestyrelsen kan i forbindelse med offentliggørelsen af den i § 23 a nævnte strategi foretage ændringer i kommuneplanen, der er en direkte følge af ændringer i regionplanen eller lovgivningen, når ændringen er bindende for kommuneplanlægningen og ikke giver råderum for kommuneplanlægningen.
