@@ -8,7 +8,7 @@
 
 Stk. 2. Fradrag kan alene foretages for udgifter, der er afholdt til vedligeholdelse og forbedring af de i stk. 1 nævnte boliger, der er beliggende i Bornholms Amtskommune. Fradraget indrømmes for udgifter til arbejder, der påbegyndes og udføres i perioden 1. juli 1992 til og med 31. december 1993. Fradraget kan for 1992 højst udgøre 7.500 kr. pr. bolig og for 1993 højst 15.000 kr. pr. bolig. Bebor den skattepligtige alene boligen i en del af perioden 1. juli 1992 til og med 31. december 1992 henholdsvis 1. januar 1993 til og med 31. december 1993, nedsættes nævnte beløb forholdsmæssigt.
 
-Stk. 3. (* 25) For personer som nævnt i stk. 1, nr. 1 og 2, anses følgende arbejder vedrørende ejendommen for fradragsberettigede efter stk. 1 og 2:
+Stk. 3. For personer som nævnt i stk. 1, nr. 1 og 2, anses følgende arbejder vedrørende ejendommen for fradragsberettigede efter stk. 1 og 2:
 
 1) Energibesparende foranstaltninger, herunder efterisolering, forsatsruder, termostatventiler, varmemålere, varmegenvinding samt sol- og jordvarme og lign.
 
@@ -24,7 +24,7 @@ Stk. 3. (* 25) For personer som nævnt i stk. 1, nr. 1 og 2, anses følgende arb
 
 7) Tekniske installationer, herunder elinstallationer.
 
-Stk. 4. (* 24) For personer som nævnt i stk. 1, nr. 3, anses følgende arbejder vedrørende den enkelte bolig for fradragsberettigede efter stk. 1 og 2:
+Stk. 4. For personer som nævnt i stk. 1, nr. 3, anses følgende arbejder vedrørende den enkelte bolig for fradragsberettigede efter stk. 1 og 2:
 
 1) Energibesparende foranstaltninger, herunder efterisolering, forsatsvinduer, termostatventiler, varmemålere og lign.
 

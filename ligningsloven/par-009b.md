@@ -1,4 +1,4 @@
-§ 9 B. (* 18) Følgende udgifter til befordring til og fra en arbejdsplads kan fradrages ved opgørelsen af den skattepligtige indkomst:
+§ 9 B. Følgende udgifter til befordring til og fra en arbejdsplads kan fradrages ved opgørelsen af den skattepligtige indkomst:
 
 a) Befordring mellem sædvanlig bopæl og arbejdsplads i indtil 60 arbejdsdage,
 
