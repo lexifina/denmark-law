@@ -1,3 +1,3 @@
-Lov om en kommunal tjenestemandsret
+Bekendtgørelse af lov om en kommunal tjenestemandsret
 
-VI MARGRETHE DEN ANDEN, af Guds Nåde Danmarks Dronning, gør vitterligt: Folketinget har vedtaget og Vi ved Vort samtykke stadfæstet følgende lov:
+Herved bekendtgøres lov om en kommunal tjenestemandsret, jf. lov nr. 280 af 10. juni 1981 med de ændringer, der følger af lov nr. 388 af 13. juni 1990.

@@ -1,9 +1,9 @@
-GIVET PÅ CHRISTIANSBORG SLOT, DEN 10 JUNI 1981
+Indenrigsministeriet, den 14. juni 1990
 
-Under Vor Kongelige Hånd og Segl
+Thor Pedersen
 
-MARGRETHE R
-
-/HENNING RASMUSSEN
+/ Lauritz Hvidt
 
 Ingen
+
+Lovområder = Kommuner og amtskommuner
