@@ -1,3 +1,3 @@
-§ 17 c. (* 4) Reglerne i merværdiafgiftslovens § 79, stk. 5, hvorefter spørgsmål af principiel karakter kan indbringes direkte for nævnet, finder tilsvarende anvendelse på de i § 11, stk. 2, omhandlede spørgsmål.
+§ 17 c. Reglerne i merværdiafgiftslovens § 79, stk. 5, hvorefter spørgsmål af principiel karakter kan indbringes direkte for nævnet, finder tilsvarende anvendelse på de i § 11, stk. 2, omhandlede spørgsmål.
 
 Stk. 2. Anmodning om indbringelse for nævnet af de statslige told- og skattemyndigheders afgørelser af de i § 11, stk. 2, nævnte spørgsmål skal være fremsat over for nævnet senest 3 måneder efter, at der er truffet afgørelse. Anmodning om indbringelse for nævnet af de i § 14, stk. 3, nævnte skønsmæssige ansættelser skal være fremsat over for nævnet senest 4 uger efter, at der er truffet afgørelse. Nævnet kan dog se bort fra en overskridelse af fristerne, hvis særlige forhold taler herfor.
