@@ -1,8 +1,6 @@
-Bekendtgørelse af lov om opkrævning af indkomstskat for personer m.v. (* 1) (* 13)
+Bekendtgørelse af lov om opkrævning af indkomst- og formueskat for personer m.v. (Kildeskat) (kildeskatteloven)
 
-(Kildeskat)
-
-Herved bekendtgøres lov om opkrævning af indkomstskat for personer m.v. (Kildeskat), jf. lovbekendtgørelse nr. 519 af 22. juni 1995 med de ændringer, der følger af lov nr. 1095 af 20. december 1995, lov nr. 1104 af 20. december 1995, lov nr. 228 af 7. marts 1996, lov nr. 398 af 22. maj 1996, lov nr. 401 af 22. maj 1996, lov nr. 487 af 12. juni 1996, lov nr. 988 af 22. november 1996, lov nr. 1203 af 27. december 1996, lov nr. 1204 af 27. december 1996, lov nr. 1216 af 27. december 1996, lov nr. 1217 af 27. december 1996, lov nr. 1219 af 27. december 1996, lov nr. 1223 af 27. december 1996, lov nr. 237 af 2. april 1997, lov nr. 238 af 2. april 1997 og lov nr. 440 af 10. juni 1997.
+Herved bekendtgøres lov nr. 100 af 31. marts 1967 om opkrævning af indkomst- og formueskat for personer m.v. (Kildeskat), jfr. lovbekendtgørelse nr. 402 af 19. august 1983 med de ændringer, der følger af lov nr. 433 af 14. september 1983, lov nr. 500 og 501 begge af 28. oktober 1983, lov nr. 69 af 28. februar 1984, lov nr. 129 af 28. marts 1984, lov nr. 200 af 17. maj 1984 samt lov nr. 231 og 232 begge af 23. maj 1984.
 
 ## Afsnit I
 
