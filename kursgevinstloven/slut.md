@@ -1,4 +1,4 @@
-Skatteministeriet, den 3. oktober 2002
+Skatteministeriet, den 24. september 2003
 
 Svend Erik Hovmand
 
