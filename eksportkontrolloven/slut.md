@@ -1,7 +1,7 @@
-Industriministeriet, den 11. april 1988
+Erhvervsministeriet, den 6. februar 1995
 
-NILS WILHJELM
+Mimi Jakobsen
 
-/Hendrik Boesgaard
+/ Bjarne Bitsch
 
 Ingen
