@@ -4,7 +4,7 @@
 
 2. Efter det fyldte 60. år kan en rateopsparing i pensionsøjemed kun oprettes, hvis kontohaveren på oprettelsestidspunktet er kontohaver i en anden rateopsparing i pensionsøjemed eller ejer af en rateforsikring i pensionsøjemed og afgiftspligt eller indkomstskattepligt for den pågældende konto eller police ikke er indtrådt. Oplysning om oprettelsen af en rateopsparing i pensionsøjemed som nævnt i 1. pkt. skal påføres den oprindelige konto eller police. Indbetalingerne til en konto som nævnt i 1. pkt. kan i alt højst udgøre et beløb svarende til halvdelen af den oprindelige ordnings værdi ved det fyldte 60. år samt et beløb svarende til halvdelen af de på dette tidspunkt aftalte fremtidige indbetalinger. I tilfælde, hvor den oprindelige ordning er en rateforsikring i pensionsøjemed, finder 3. pkt. tilsvarende anvendelse.
 
-3. De opsparede midler skal indsættes på indlånskonto i det pågældende pengeinstitut m.v. Med hensyn til midlernes anbringelse finder reglerne i § 12, stk. 1, nr. 1, 3. og 4. pkt., tilsvarende anvendelse.
+3. De opsparede midler skal indsættes på indlånskonto i det pågældende pengeinstitut m.v. Med hensyn til midlernes anbringelse finder reglerne i § 12, stk. 1, nr. 1, 4.-6. pkt., tilsvarende anvendelse.
 
 4. Til kontoen skal være knyttet bestemmelse om, at opsparingen med påløbne renter m.v. tilhører kontohaveren, jf. dog § 17. Endvidere skal der være truffet bestemmelse om udbetaling i tilfælde af kontohaverens død.
 
