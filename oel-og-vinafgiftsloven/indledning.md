@@ -1,9 +1,9 @@
 Bekendtgørelse af lov om afgift af øl, vin og frugtvin m.m.
 
-Herved bekendtgøres lov om afgift af øl, vin og frugtvin m.m., jf. lovbekendtgørelse nr. 848 af 22. september 1996, med de ændringer, der følger af lov nr. 275 af 15. april 1997.
+Herved bekendtgøres lov om afgift af øl, vin og frugtvin m.m., jf. lovbekendtgørelse nr. 365 af 26. maj 1997, med de ændringer, der følger af § 38 i lov nr. 1098 af 29. december 1997.
 
 ## Kapitel 1
 
-## Afgift af øl
+Afgift af øl
 
 Afgiftspligtigt vareområde og afgiftssatser
