@@ -1,0 +1,3 @@
+Lov om Ordning af Afløbsforholdene ved Nissum Fjord m.m. (* 1)
+
+Vi Christian den Tiende, af Guds Naade Konge til Danmark og Island, de Venders og Goters, Hertug til Slesvig, Holsten, Stormarn, Ditmarsken, Lauenborg og Oldenborg, Gøre vitterligt : Rigsdagen har vedtaget og Vi ved Vort Samtykke stadfæstet følgende Lov:
