@@ -1,9 +1,7 @@
-Givet på Christiansborg slot, den 23. april 1986
+Kirkeministeriet, den 31. marts 1992
 
-Under Vor Kongelige Hånd og Segl
+Torben Rechendorff
 
-MARGRETHE R.
-
-/Mette Madsen
+/ Finn Langager Larsen
 
 Ingen
