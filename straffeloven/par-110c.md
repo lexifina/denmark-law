@@ -1,3 +1,5 @@
 § 110 c. Med bøde, fængsel indtil 4 måneder eller under skærpende omstændigheder med fængsel indtil 3 år straffes den, som forsætligt eller uagtsomt overtræder bestemmelser eller forbud, som i henhold til lov måtte være givet til værn for statens forsvars- eller neutralitetsforanstaltninger.
 
 Stk. 2. Med bøde, fængsel indtil 4 måneder eller under skærpende omstændigheder med fængsel indtil 4 år straffes den, som forsætligt eller uagtsomt overtræder bestemmelser eller forbud, som i henhold til lov måtte være givet til gennemførelse af statens forpligtelser som medlem af De Forenede Nationer.
+
+Stk. 3. Med samme straf som i stk. 2 straffes den, der forsætligt eller uagtsomt overtræder bestemmelser indeholdt i eller udstedt i medfør af forordninger, som er vedtaget med hjemmel i artikel 60, 301 eller 308 i Traktaten om Oprettelse af Det Europæiske Fællesskab, og som tager sigte på helt eller delvis at afbryde eller indskrænke de finansielle eller økonomiske forbindelser med et eller flere lande uden for Den Europæiske Union eller på tilsvarende sanktioner over for enkeltpersoner, grupper af personer eller juridiske personer.
