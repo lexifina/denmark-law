@@ -8,7 +8,7 @@ Stk. 4. Udlodninger af beløb, som er skattepligtige for foreninger og selskaber
 
 Stk. 5. Udlodninger fra udloddende investeringsforeninger, jf. § 16 C, stk. 1, er skattefri i det omfang, der fremgår af stk. 6 og 7, hvis udlodningerne modtages af personer m.v., der er skattepligtige efter kildeskattelovens § 1 eller dødsboskattelovens § 1, stk. 2. Skattefriheden gælder dog ikke, hvis modtageren af udlodningen omfattes af kursgevinstlovens § 13.
 
-Stk. 6. Den skattefri del af udlodningerne efter stk. 5 opgøres som forskellen mellem på den ene side udlodningerne og på den anden side den del af udlodningerne, som hidrører fra investeringsforeningens nettoindtægter som nævnt i § 16 C, stk. 3, nr. 1-9, nedsat efter § 16 C, stk. 4, 1. og 2. pkt., stk. 5, nr. 1 og 2, og stk. 6, jf. stk. 4, 1. og 2. pkt.
+Stk. 6. Den skattefri del af udlodningerne efter stk. 5 opgøres som forskellen mellem på den ene side udlodningerne og på den anden side den del af udlodningerne, som hidrører fra investeringsforeningens nettoindtægter som nævnt i § 16 C, stk. 3, nr. 1‑9, nedsat efter § 16 C, stk. 4, 1. og 2. pkt., stk. 5, nr. 1 og 2, og stk. 6, jf. stk. 4, 1. og 2. pkt.
 
 Stk. 7. Uanset stk. 6 kan den skattefri del af udlodningerne efter stk. 5 ikke overstige den del af udlodningerne, som hidrører fra investeringsforeningens nettogevinster som nævnt i § 16 C, stk. 3, nr. 10, nedsat efter § 16 C, stk. 5, nr. 3.
 
