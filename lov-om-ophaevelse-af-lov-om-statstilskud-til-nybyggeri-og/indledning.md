@@ -1,0 +1,3 @@
+Lov om ophævelse af lov om statstilskud til nybyggeri og forbedring m.v. af erhvervsbygninger, lov om gennemførelse af energibesparende foranstaltninger i statens bygninger m.v., lov om statstilskud til energibesparende foranstaltninger vedrørende bygninger, lov om statstilskud til udnyttelse af overskudsvarme fra kraftvarmeværker m.v., lov om statstilskud til energibesparende foranstaltninger i beboelsesejendomme og lov om statstilskud til forbedring og opretning af beboelsesejendomme
+
+VI MARGRETHE DEN ANDEN, af Guds Nåde Danmarks Dronning, gør vitterligt: Folketinget har vedtaget og Vi ved Vort samtykke stadfæstet følgende lov:
