@@ -10,8 +10,8 @@ Stk. 3. Hvis lejeværdien efter stk. 1 er steget med mere end 3.500 kr. i forhol
 
 Stk. 4. Hvis lejeværdien efter stk. 2 er steget med mere end 1.000 kr. i forhold til helårslejeværdien for det forudgående indkomstår, nedsættes lejeværdien med det overskydende beløb. Nedsættelse kan dog højst ske til et beløb svarende til lejeværdien for det forudgående indkomstår forhøjet med 20 pct. og nedsat med 2.500 kr.
 
-Stk. 5. (* 15) Stk. 3 og 4 gælder kun, hvis ejendommen ved vurderingen pr. 1. januar i året forud for indkomståret har været vurderet som helt eller delvis benyttet til beboelse for ejeren.
+Stk. 5. Stk. 3 og 4 gælder kun, hvis ejendommen ved vurderingen pr. 1. januar i året forud for indkomståret har været vurderet som helt eller delvis benyttet til beboelse for ejeren.
 
 Stk. 6. Stk. 3 og 4 gælder ikke for ejerlejligheder, der i året forud for indkomståret er frigjort for lejemål.
 
-Stk. 7. (* 15) Stk. 3 og 4 gælder ikke for ejendomme, hvor der i året forud for indkomståret er foretaget ombygninger m.v., hvis forskelsværdien efter vurderingslovens § 5, stk. 3, pr. 1. januar i indkomståret overstiger forskelsværdien pr. 1. januar i ombygningsåret med mere end 100 pct. Hvis der ikke kan opgøres en forskelsværdi, træder ejerboligens ejendomsværdi i stedet for forskelsværdien. Ved opgørelsen af forskelsværdierne gælder § 15 B, stk. 7, for skattepligtige, der anvender et forskudt indkomstår.
+Stk. 7. Stk. 3 og 4 gælder ikke for ejendomme, hvor der i året forud for indkomståret er foretaget ombygninger m.v., hvis forskelsværdien efter vurderingslovens § 5, stk. 3, pr. 1. januar i indkomståret overstiger forskelsværdien pr. 1. januar i ombygningsåret med mere end 100 pct. Hvis der ikke kan opgøres en forskelsværdi, træder ejerboligens ejendomsværdi i stedet for forskelsværdien. Ved opgørelsen af forskelsværdierne gælder § 15 B, stk. 7, for skattepligtige, der anvender et forskudt indkomstår.

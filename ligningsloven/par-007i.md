@@ -1,1 +1,1 @@
-§ 7 I. (* 8) Beløb, der af staten udbetales som inflationsgaranti i forbindelse med Danmarks Skibskreditfonds udstedelse af indeksregulerede obligationer til finansiering af ny- og ombygning af skibe, er skattefri for låntager.
+§ 7 I. (* 6) Beløb, der af staten udbetales som inflationsgaranti i forbindelse med Danmarks Skibskreditfonds udstedelse af indeksregulerede obligationer til finansiering af ny- og ombygning af skibe, er skattefri for låntager.
