@@ -18,7 +18,7 @@ Loven finder tillige anvendelse på patenter, der er meddelt, eller som meddeles
 
 1) Bestemmelserne om tillægspatent og om patenters ugyldighed i patentlov af 20. december 1967 finder anvendelse på tillægspatenter og patenter, der er meddelt i henhold til nævnte lov.
 
-2) § 1, nr. 24 (* 3), gælder kun for patenter, der er meddelt på grundlag af ansøgninger, der indleveres efter lovens ikrafttræden.
+2) § 1, nr. 24 , gælder kun for patenter, der er meddelt på grundlag af ansøgninger, der indleveres efter lovens ikrafttræden.
 
 Lov nr. 153 af 11. april 1984 om ændring af patentloven indeholder følgende ikrafttrædelses- og overgangsbestemmelser:
 
@@ -26,7 +26,7 @@ Lov nr. 153 af 11. april 1984 om ændring af patentloven indeholder følgende ik
 
 Bestemmelserne i loven finder anvendelse på patentansøgninger, der ved bestemmelsernes ikrafttræden er under behandling hos patentmyndigheden. Herfra gælder følgende undtagelse:
 
-1) Bestemmelserne om deponering af kulturer af mikroorganismer finder kun anvendelse på ansøgninger, der er indleveret efter, at disse bestemmelser er trådt i kraft (* 4).
+1) Bestemmelserne om deponering af kulturer af mikroorganismer finder kun anvendelse på ansøgninger, der er indleveret efter, at disse bestemmelser er trådt i kraft .
 
 2) (Overgangsbestemmelse, udeladt).
 
@@ -36,11 +36,11 @@ Bestemmelserne i loven finder anvendelse på patentansøgninger, der ved bestemm
 
 Bestemmelserne i loven finder tillige anvendelse på patenter, der er meddelt ved bestemmelsernes ikrafttræden. Herfra gælder følgende undtagelser:
 
-1) Bestemmelserne om patenters ugyldighed i lov nr. 479 af 20. december 1967 og lov nr. 264 af 8. juni 1978 finder anvendelse på patenter, der er meddelt i henhold til nævnte love.
+1) Bestemmelserne om patenters gyldighed i lov nr. 479 af 20. december 1967 og lov nr. 264 af 8. juni 1978 finder anvendelse på patenter, der er meddelt i henhold til nævnte love.
 
-2) Bestemmelserne om deponering af kulturer af mikroorganismer finder kun anvendelse på patenter, der meddeles på grundlag af en ansøgning, der indleveres efter, at disse bestemmelser er trådt i kraft4).
+2) Bestemmelserne om deponering af kulturer af mikroorganismer finder kun anvendelse på patenter, der meddeles på grundlag af en ansøgning, der indleveres efter, at disse bestemmelser er trådt i kraft.
 
-Lov nr. 130 af 26. februar 1992 om brugsmodeller m.v. indeholder følgende ikrafttrædelsesbestemmelser (* 5).
+Lov nr. 130 af 26. februar 1992 om brugsmodeller m.v. indeholder følgende ikrafttrædelsesbestemmelser .
 
 § 52
 
@@ -50,7 +50,7 @@ Stk. 2. (Overgangsbestemmelse, udeladt).
 
 Stk. 3. (Overgangsbestemmelse, udeladt).
 
-Lov nr. 1057 af 23. december 1992 om ændring af patentloven indeholder følgende ikrafttrædelses- og overgangsbestemmelser (* 5) (* 6).
+Lov nr. 1057 af 23. december 1992 om ændring af patentloven indeholder følgende ikrafttrædelses- og overgangsbestemmelser .
 
 § 2
 
@@ -64,7 +64,7 @@ Stk. 1. Loven finder også anvendelse på patentansøgninger, der ved dens ikraf
 
 Stk. 2. Patentlovens § 21, som affattet ved denne lovs § 1, nr. 2, finder ikke anvendelse på patenter, der er meddelt før lovens ikrafttræden eller meddeles efter stk. 1, 2. pkt.
 
-Lov nr. 900 af 29. november 1995 om ændring af patentloven indeholder følgende ikrafttrædelses- og overgangsbestemmelser (* 7).
+Lov nr. 900 af 29. november 1995 om ændring af patentloven indeholder følgende ikrafttrædelses- og overgangsbestemmelser .
 
 § 2
 
@@ -74,8 +74,14 @@ Loven træder i kraft den 1. januar 1996.
 
 For ansøgninger indleveret før lovens ikrafttræden finder de hidtidige regler i patentlovens § 13, stk. 1, § 14 og § 19, stk. 2, anvendelse.
 
-Lov nr. 972 af 17. december 1997 om ændring af patentloven, lov om brugsmodeller og lov om mønstre indeholder følgende ikrafttrædelsesbestemmelse (* 8).
+Lov nr. 972 af 17. december 1997 om ændring af patentloven, lov om brugsmodeller og lov om mønstre indeholder følgende ikrafttrædelsesbestemmelse .
 
 § 4
 
 Loven træder i kraft den 1. juli 1998.
+
+Lov nr. 412 af 31. maj 2000 om ændring af patentloven, varemærkeloven, lov om brugsmodeller m.v., lov om mønstre og lov om plantenyheder indeholder følgende ikrafttrædelsesbestemmelse .
+
+§ 6
+
+Loven træder i kraft den 30. juli 2000.
