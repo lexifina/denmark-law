@@ -8,9 +8,9 @@ Stk. 4. Hvis Lønmodtagernes Dyrtidsfond har investeret i eller ydet lån til et
 
 Stk. 5. For aktiver omfattet af § 6, stk. 2, nr. 3, udgør den i stk. 1 fastsatte grænse 40 pct.
 
-Stk. 6. For risici på kredtiinstitutter under offentligt tilsyn i lande omfattet af zone A bortset fra kreditinstitutter omfattet af § 6, stk. 2, nr. 3, og på forsikringsselskaber under offentligt tilsyn i lande omfattet af zone A udgør den i stk. 1 fastsatte grænse 10 pct. For aktiver, der ikke er omfattet af § 6, stk. 2, nr. 4, må der højst foretages placeringer i overensstemmelse med grænserne, der er fastsat i stk. 1.
+Stk. 6. For risici på kreditinstitutter under offentligt tilsyn i lande omfattet af zone A bortset fra kreditinstitutter omfattet af § 6, stk. 2, nr. 3, og på forsikringsselskaber under offentligt tilsyn i lande omfattet af zone A udgør den i stk. 1 fastsatte grænse 10 pct. For aktiver, der ikke er omfattet af § 6, stk. 2, nr. 4, må der højst foretages placeringer i overensstemmelse med grænserne, der er fastsat i stk. 1.
 
-Stk. 7. For andele og beviser i et enkelt investeringsinstitut som amført under § 6, stk. 2, nr. 9, udgør den i stk. 1 fastsatte grænse 10 pct. Denne begrænsning finder dog ikke anvendelse, når det pågældende investeringsinstitut efter sine vedtægter alene kan investere i aktiver omfattet af § 6, stk. 2, nr. 1-3. I sådanne tilfælde kan investeringen tillige i forhold til bestemmelsen i § 6, stk. 5, henføres til § 6, stk. 2, nr. 1-3.
+Stk. 7. For andele og beviser i et enkelt investeringsinstitut som anført under § 6, stk. 2, nr. 7, udgør den i stk. 1 fastsatte grænse 10 pct. Denne begrænsning finder dog ikke anvendelse, når det pågældende investeringsinstitut efter sine vedtægter alene kan investere i aktiver omfattet af § 6, stk. 2, nr. 1-3. I sådanne tilfælde kan investeringen tillige i forhold til bestemmelsen i § 6, stk. 4, henføres til § 6, stk. 2, nr. 1-3.
 
 Stk. 8. Stk. 1 og 2 finder ikke anvendelse på aktiver omfattet af § 6, stk. 2, nr. 1 og 2.
 
