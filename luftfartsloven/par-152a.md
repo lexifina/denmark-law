@@ -1,0 +1,1 @@
+§ 152 a. Trafikministeren kan fastsætte regler om adgangen til at klage over afgørelser, der træffes af offentlige myndigheder efter luftfartslovgivningen, herunder om at afgørelserne ikke skal kunne påklages.
