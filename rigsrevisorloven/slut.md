@@ -1,7 +1,5 @@
-Økonomiministeriet, den 24. juni 1991
+Finansministeriet, den 7. januar 1997
 
-Anders Fogh Rasmussen
-
-/ Morten Levysohn
+Mogens Lykketoft
 
 Ingen
