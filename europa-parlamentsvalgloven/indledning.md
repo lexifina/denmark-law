@@ -1,6 +1,6 @@
 Bekendtgørelse af lov om valg af danske repræsentanter til Europa-Parlamentet
 
-Herved bekendtgøres lov om valg af danske repræsentanter til Europa-Parlamentet, jf. lovbekendtgørelse nr. 157 af 4. marts 1994 med de ændringer, der følger af § 22 i lov nr. 386 af 22. maj 1996, lov nr. 17 af 13. januar 1997 og § 3 i lov nr. 255 af 4. maj 1998.
+Herved bekendtgøres lov om valg af danske repræsentanter til Europa-Parlamentet, jf. lovbekendtgørelse nr. 730 af 9. oktober 1998 med de ændringer, der følger af § 2 i lov nr. 215 af 28. marts 2001. Den bekendtgjorte lovtekst gælder først fuldt ud fra den 1. juli 2001.
 
 ## Kapitel 1
 
