@@ -1,7 +1,5 @@
-Indenrigsministeriet, den 20. september 2001
+Indenrigs- og Sundhedsministeriet, den 11. april 2003
 
-Karen Jespersen
+Lars Løkke Rasmussen
 
 /Anne Birte Pade
-
-Lov nr. 383 af 14. juni 1995 blev bekendtgjort i Lovtidende den 15. juni 1995
