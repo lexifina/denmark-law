@@ -1,4 +1,4 @@
-§ 11 a. (* 3) Tilbagebetalingsbeløbet efter § 11, stk. 1, opgøres for den periode, som virksomheden anvender ved angivelsen af afgiftstilsvaret efter merværdiafgiftsloven. Tilbagebetalingsbeløbet for en periode omfatter afgiften efter nærværende lov af de af virksomheden i perioden modtagne leverancer af afgiftspligtig elektricitet og varme. Tilbagebetaling af afgiftsbeløbet kan dog omfatte flere perioder under et.
+§ 11 a. Tilbagebetalingsbeløbet efter § 11, stk. 1, opgøres for den periode, som virksomheden anvender ved angivelsen af afgiftstilsvaret efter merværdiafgiftsloven. Tilbagebetalingsbeløbet for en periode omfatter afgiften efter nærværende lov af de af virksomheden i perioden modtagne leverancer af afgiftspligtig elektricitet og varme. Tilbagebetaling af afgiftsbeløbet kan dog omfatte flere perioder under ét.
 
 Stk. 2. Opgørelsesperioden for tilbagebetalingsbeløb vedrørende leverancer, der både anvendes til formål, der er tilbagebetalingsberettigede efter loven, og til formål, der ikke er tilbagebetalingsberettigede, er dog kalenderåret, jf. stk. 3-5. For virksomheder, der ikke anvender kalenderåret som opgørelsesperiode, er perioden en 12-måneders-periode.
 
@@ -12,4 +12,4 @@ Stk. 6. Tilbagebetalingsbeløbet anføres på virksomhedens angivelser efter mer
 
 Stk. 7. Tilbagebetalingen sker ved, at virksomheden foretager modregning i sit afgiftstilsvar efter merværdiafgiftsloven. I det omfang tilbagebetalingen ikke kan ske ved modregning, udbetales beløbet til virksomheden efter de i merværdiafgiftslovens § 63 anførte regler.
 
-Stk. 8. Virksomheder, der leverer elektricitet og varme, skal mindst en gang årligt afgive de oplysninger, der er nødvendige ved opgørelsen af afgiften efter § 11, stk. 13. Skatteministeren kan fastsætte de nærmere regler herom.
+Stk. 8. 5) Virksomheder, der leverer elektricitet og varme, skal mindst én gang årligt afgive de oplysninger, der er nødvendige ved opgørelsen af afgiften efter § 11, stk. 14. Skatteministeren kan fastsætte de nærmere regler herom.
