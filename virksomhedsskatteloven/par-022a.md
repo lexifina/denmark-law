@@ -1,4 +1,10 @@
-§ 22 a. Skattepligtige personer, der driver selvstændig erhvervsvirksomhed, kan i stedet for at anvende virksomhedsordningen efter afsnit I vælge at beregne et kapitalafkast af de erhvervsmæssige aktiver efter reglerne i dette afsnit. Kapitalafkastet fragår i den personlige indkomst og lægges til kapitalindkomsten. § 2, stk. 2, 1.-3. pkt., og stk. 6, finder tilsvarende anvendelse.
+## Afsnit II
+
+## Kapitalafkastberegning uden anvendelse af virksomhedsordning
+
+## Kapitel 7 a
+
+§ 22 a. Skattepligtige personer, der driver selvstændig erhvervsvirksomhed, kan i stedet for at anvende virksomhedsordningen efter afsnit I vælge at beregne et kapitalafkast af de erhvervsmæssige aktiver efter reglerne i dette afsnit. Kapitalafkastet fragår i den personlige indkomst og lægges til kapitalindkomsten. § 2, stk. 2, 1.-4. pkt. , og stk. 6, finder tilsvarende anvendelse.
 
 Stk. 2. Kapitalafkastet beregnes som afkastgrundlaget efter stk. 5-7 ganget med afkastsatsen efter § 9. Er den periode, hvori den skattepligtige driver selvstændig erhvervsvirksomhed, kortere eller længere end 12 måneder, beregnes et forholdsmæssigt kapitalafkast svarende til det antal hele måneder, perioden omfatter.
 
