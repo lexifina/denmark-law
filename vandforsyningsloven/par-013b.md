@@ -1,0 +1,5 @@
+§ 13 b. Den, der udarbejder en indsatsplan efter § 13 eller § 13 a, skal inddrage alle de berørte parter i forbindelse med udarbejdelsen.
+
+Stk. 2. En indsatsplan efter § 13 a kan ikke vedtages endeligt før 12 uger efter, at amtsrådet har modtaget det færdige udkast til planen. Amtsrådet påser, at bestemmelserne i stk. 1, § 13 a, stk. 2, og yderligere retningslinjer udstedt af Miljø- og energiministeren efter § 15 eller § 16, stk. 1, er overholdt, samt at hensynet til beskyttelsen af vandressourcerne i øvrigt er tilgodeset. Hvis amtsrådet inden udløbet af den i 1. pkt. nævnte frist gør indsigelse mod udkastet, kan indsatsplanen ikke vedtages endeligt, før der er opnået enighed. Kan enighed ikke opnås mellem amtsrådet og en kommunalbestyrelse, der har udarbejdet udkast til en indsatsplan, afgøres spørgsmålet af ministeren. Kan enighed ikke opnås mellem et amtsråd og en ejer af et alment vandforsyningsanlæg, bortfalder indsatsplanen.
+
+Stk. 3. Når en indsatsplan efter § 13 eller § 13 a er vedtaget, skal de berørte grundejere og andre berørte parter have skriftlig, individuel underretning herom og om indholdet af planen.
