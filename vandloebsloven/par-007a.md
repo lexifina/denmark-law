@@ -1,0 +1,1 @@
+§ 7 a. Vandløbsmyndighedens tilladelse eller godkendelse efter denne lov kræves ikke til udførelse af foranstaltninger, som er påbudt i en fredning efter lov om naturbeskyttelse. Spørgsmål om erstatning i anledning af sådanne foranstaltninger afgøres efter reglerne i lov om naturbeskyttelse.
