@@ -6,7 +6,7 @@ Stk. 3. For personer omfattet af § 17 f, stk. 2, 1. pkt., og stk. 3, for hvem d
 
 Stk. 4. For personer omfattet af § 17 f, stk. 2, 1. pkt., og stk. 3, fordeles de samlede pensionsopsparingsbeløb ifølge årsopgørelserne og indberetningerne fra de dagpenge- og kontanthjælpsudbetalende myndigheder med tillæg af eventuelle beløb efter stk. 8 samt med fradrag af, hvad der er indbetalt for personer omfattet af stk. 2 og 3, efter forholdet mellem de for de enkelte personer indbetalte ATP-bidrag efter § 15, § 4 a og § 2 a reguleret efter stk. 5.
 
-Stk. 5. For ATP-bidrag indbetalt i henhold til § 2 a, stk. 1 og 2 samt stk. 3, for så vidt angår lønmodtagere, der modtager kursusgodtgørelse, medregnes ved fordelingen halvdelen af de i medfør af disse bestemmelser indbetalte bidrag. ATP-bidrag indbetalt i henhold til § 4 a, stk. 4 og 5, reguleres til brug for beregningen efter stk. 3 og 4 efter forholdet mellem bidrag efter § 15 og bidrag efter § 4 a, stk. 4, respektiv stk. 5.
+Stk. 5. For ATP-bidrag indbetalt i henhold til § 2 a, stk. 1 og 2 samt stk. 3, for så vidt angår lønmodtagere, der modtager godtgørelse, medregnes ved fordelingen halvdelen af de i medfør af disse bestemmelser indbetalte bidrag. ATP-bidrag indbetalt i henhold til § 4 a, stk. 4 og 5, reguleres til brug for beregningen efter stk. 3 og 4 efter forholdet mellem bidrag efter § 15 og bidrag efter § 4 a, stk. 4, respektiv stk. 5.
 
 Stk. 6. Ved modtagelse af skatteopgørelser efter den 1. november, som medfører yderligere indbetaling af pensionsopsparing vedrørende tidligere skatteår, godskrives det yderligere beløb på den pågældendes konto.
 
