@@ -1,7 +1,5 @@
-Givet på Christiansborg Slot, den 2. april 2003
+Skatteministeriet, den 27. juli 2004
 
-Under Vor Kongelige Hånd og Segl
+Svend Erik Hovmand
 
-Margrethe R.
-
-/Svend Erik Hovmand
+/Lise Bo Nielsen
