@@ -1,0 +1,5 @@
+§ 108 a. Anmodning om udstedelse af en valgbarhedsattest for en dansk statsborger, der ønsker at opstille som kandidat til kommunale valg i en af de øvrige medlemsstater i Den Europæiske Union, skal indgives til indenrigsministeren.
+
+Stk. 2. For en dansk statsborger, der er under værgemål med fratagelse af den retlige handleevne, jf. værgemålslovens § 6, kan der ikke udstedes valgbarhedsattest.
+
+Stk. 3. For en dansk statsborger, der ikke er under værgemål med fratagelse af den retlige handleevne, jf. værgemålslovens § 6, kan udstedes valgbarhedsattest med det indhold, at indenrigsministeren ikke har kendskab til, at den pågældende har fortabt sin valgbarhed til kommunale råd i Danmark. Hvis Valgbarhedsnævnet i indeværende valgperiode har truffet afgørelse om, at den pågældende ikke er valgbar til kommunale råd, jf. § 4, skal oplysning herom påføres valgbarhedsattesten tillige med oplysning om, hvornår forældelsesfristen for, at den pågældende strafbare handling kan medføre tab af valgbarhed til kommunale råd, udløber, jf. § 4, stk. 2.
