@@ -1,5 +1,3 @@
-Lov nr. 374 af 18. maj 1994 har følgende ikrafttrædelses- og overgangsbestemmelser:
-
 § 17
 
 Stk. 1. Loven træder i kraft dagen efter bekendtgørelsen i Lovtidende.
@@ -38,7 +36,7 @@ Stk. 2. Andelsbeviser eller andele i selskaber og foreninger m.v., der inden for
 
 I perioden fra og med 27. oktober 1993 og indtil udgangen af indkomståret 1993 henholdsvis indkomståret 1994 finder reglerne i §§ 20-25 anvendelse.
 
-§ 20
+§ 20 (* 29)
 
 Stk. 1. Ved en ændring som nævnt i selskabsskattelovens § 5 B, stk. 1, skal der ske en opgørelse af den formue, som er opsamlet i selskabet eller foreningen m.v. under beskatningen efter § 1, stk. 1, nr. 3 a eller 4, eller efter stk. 2, 2. pkt., eller en tilsvarende beskatning. Beløbet opgøres som handelsværdien ved overgangen fratrukket en eventuel indbetalt andelskapital. Såfremt selskabet eller foreningen tidligere har været beskattet efter andre regler i § 1, opgøres beløbet som differencen mellem handelsværdien af selskabets eller foreningens aktiver og passiver ved overgangen og handelsværdien ved indtræden af beskatning efter § 1, stk. 1, nr. 3 a eller 4, eller efter stk. 2, 2. pkt., eller en tilsvarende beskatning. Fra handelsværdierne trækkes en eventuel indbetalt andelskapital. Beløbet angives ved selvangivelsen for overgangsåret.
 
@@ -50,11 +48,9 @@ Stk. 4. Ved selvangivelsen skal selskabet eller foreningen m.v. give oplysning o
 
 Stk. 5. Ved en senere overgang som nævnt i selskabsskattelovens § 5 A ophører beskatningen af det efter stk. 1 opgjorte beløb. Beskatningen af den resterende del af beløbet indtræder dog på ny, såfremt der senere sker en overgang m.v., der er omfattet af stk. 1 eller af selskabsskattelovens § 5 B, stk. 1, som affattet ved denne lovs § 1, nr. 12, fusionsskattelovens § 12, stk. 1, nr. 3, som affattet ved denne lovs § 2, nr. 1, eller fusionsskattelovens § 14 e, som affattet ved denne lovs § 2, nr. 3.
 
-Stk. 6. Stk. 1-4 finder tilsvarende anvendelse
+Stk. 6. Stk. 1-5 finder tilsvarende anvendelse ved en fusion som nævnt i § 24, stk. 1, nr. 2.
 
-1) ved en fusion som nævnt i § 24, stk. 1, nr. 2,
-
-2) ved en omdannelse til aktieselskab i henhold til aktieselskabslovens § 135 af en indkøbsforening, en produktions- og salgsforening eller en hovedforening omfattet af selskabsskattelovens § 1, stk. 1, nr. 3 a og 4, og stk. 2, 2. pkt.
+Stk. 7. Stk. 1-4 finder tilsvarende anvendelse ved en omdannelse til aktieselskab i henhold til aktieselskabslovens § 135 af en indkøbsforening, en produktions- og salgsforening eller en hovedforening omfattet af selskabsskattelovens § 1, stk. 1, nr. 3 a og 4, og stk. 2, 2. pkt.
 
 § 21
 
@@ -84,7 +80,7 @@ Stk. 1. Bestemmelserne i fusionsskattelovens kapitel 1, bortset fra § 3, § 4 o
 
 4) ved fusion af de i selskabsskattelovens § 1, stk. 1, nr. 4, nævnte produktions- og salgsforeninger, eller
 
-5) når en af de i nr. 1 nævnte foreninger fusionerer med et eller flere af de i fusionsskattelovens § 1, stk. 1, nævnte selskaber, når den fortsættende foreninger besidder samtlige aktier eller anparter i det ophørende selskab.
+5) når en af de i nr. 1 nævnte foreninger fusionerer med et eller flere af de i fusionsskattelovens § 1, stk. 1, nævnte selskaber, når den fortsættende forening besidder samtlige aktier eller anparter i det ophørende selskab.
 
 Stk. 2. Det i stk. 1, nr. 2, anførte gælder dog kun, såfremt den modtagende forening er omfattet af selskabsskattelovens § 1, stk. 1, nr. 3.
 
