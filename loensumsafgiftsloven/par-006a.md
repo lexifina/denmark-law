@@ -1,0 +1,3 @@
+§ 6 a. (* 1) For virksomheder, der opgør afgiftsgrundlaget efter § 5, stk. 1, skal der foretages en foreløbig opgørelse og indbetaling af afgiften alene på grundlag af virksomhedens lønsum. Opgørelsesperioden for den foreløbige opgørelse er kvartalet. Den endelige opgørelse og indbetaling af afgiften på grundlag af virksomhedens samlede afgiftsgrundlag skal foretages efter reglerne i § 6 b.
+
+Stk. 2. Virksomhederne skal senest 3 måneder og 20 dage efter opgørelsesperiodens udløb til told- og skatteregionen angive virksomhedens lønsum og afgiftens størrelse. Samme dag er sidste rettidige indbetalingsdag. Angivelsen skal være underskrevet af virksomhedens ansvarlige ledelse. § 6, stk. 2, 4. pkt., og § 6, stk. 3 og 4, finder tilsvarende anvendelse.
