@@ -1,0 +1,1 @@
+§ 39 a. § 38 d, stk. 4 og 5, og § 39 finder også anvendelse i tilfælde, hvor en udenlandsk myndighed anmoder ministeren eller tilsynsmyndighederne om oplysninger som nævnt i § 38 d eller § 39 til brug for administration og kontrol af det pågældende lands lovgivning.

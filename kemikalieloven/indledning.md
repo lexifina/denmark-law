@@ -1,3 +1,3 @@
-Bekendtgørelse af lov om kemiske stoffer og produkter
+Bekendtgørelse af lov om kemiske stoffer og produkter (* 1)
 
-Hermed bekendtgøres lov om kemiske stoffer og produkter, jf. lovbekendtgørelse nr. 574 af 26. august 1987 med de ændringer, der følger af lov nr. 341 af 24. maj 1989.
+Hermed bekendtgøres lov om kemiske stoffer og produkter, jf. lovbekendtgørelse nr. 566 af 15. august 1989 med de ændringer, der følger af § 114, stk. 4, nr. 4, i lov nr. 358 af 6. juni 1991 og af lov nr. 1067 af 23. december 1992.
