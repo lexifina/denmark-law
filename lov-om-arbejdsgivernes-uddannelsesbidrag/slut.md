@@ -1,5 +1,5 @@
-Undervisningsministeriet, den 11. marts 2001
+Undervisningsministeriet, den 18. februar 2004
 
-Margrethe Vestager
+Ulla Tørnæs
 
 /Kirsten H. Petersen
