@@ -1,0 +1,1 @@
+§ 19 a. Teaterrådet følger udviklingen blandt egnsteatrene og de små storbyteatre. Teaterrådet varetager administrationen af statens bevillinger til egnsteatrene og de små storbyteatre og bistår kommuner, amtskommuner og teatre ved udarbejdelse af minimum 3-årige aftaler efter § 15, stk. 3, og § 16 b, stk. 3.
