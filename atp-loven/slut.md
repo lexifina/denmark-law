@@ -1,4 +1,4 @@
-Arbejdsministeriet, den 4. marts 1993
+Arbejdsministeriet, den 20. august 1993
 
 Jytte Andersen
 
