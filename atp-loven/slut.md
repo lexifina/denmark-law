@@ -1,8 +1,8 @@
-Arbejdsministeriet, den 27. juni 1994
+Arbejdsministeriet, den 1. maj 1995
 
 Jytte Andersen
 
-/ Søren Hess
+/ E. Edelberg
 
 Bilag A
 
