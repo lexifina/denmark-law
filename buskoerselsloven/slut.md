@@ -1,6 +1,6 @@
-Trafikministeriet, den 6. maj 1992
+Trafikministeriet, den 16. december 1996
 
-Kaj Ikast
+Jan Trøjborg
 
 / Bo Tarp
 
