@@ -1,23 +1,23 @@
-§ 2 i lov nr. 147 af 25. marts 1987 er sålydende:
+Lov nr. 147 af 25. marts 1987 om ændring af lov om støtte til de små øsamfund, der bl.a. ændrer lovens § 4 indeholder følgende ikrafttrædelsesbestemmelse:
 
-§ 2. Loven træder i kraft den 1. juli 1987 (* 1). § 1, nr. 2, om tilskud til færgedriften (* 2) og § 1, nr. 3 (* 3), træder dog først i kraft den 1. januar 1988.
+§ 2
 
-Miljøministeriet den 15. april 1987
+Loven træder i kraft den 1. juli 1987. § 1, nr. 2, om tilskud til færgedriften og § 1, nr. 3, træder dog først i kraft den 1. januar 1988.
 
-CHRISTIAN CHRISTENSEN
+Lov nr. 380 af 6. juni 1991 der i § 28 indeholder ændringer af østøttelovens §§ 4 og 5 indeholder følgende ikrafttrædelsesbestemmelse:
 
-/Peter Skov
+§ 33
 
-(* 1) Vedr. § 1, stk. 1, og § 2, stk. 1, om tilskud til færgeinvesteringer, § 3, stk. 1 og 2 sidste led, § 4, stk. 1, om tilskud til sekretariatet for »Sammenslutningen af Danske Småøer« og § 8.
+Loven træder i kraft ved bekendtgørelsen i Lovtidende og finder også anvendelse på fordringer forfaldne før lovens ikrafttræden. Loven blev offentliggjort den 7. juni 1991.
 
-(* 2) Vedr. § 2, stk. 1. Indtil den 1. januar 1988 gælder § 2, stk. 1, i lov nr. 620 af 21. december 1983 om tilskud til færgedriften.
+Lov nr. 294 af 27. april 1994 om ændring af lov om støtte til de små øsamfund, som ændrer lovens §§ 2, 4 og 5, indeholder følgende ikrafttrædelsesbestemmelse:
 
-(* 3) Vedr. § 2, stk. 2. Indtil den 1. januar 1988 gælder § 2, stk. 2, i lov nr. 620 af 21. december 1983.
+§ 2
 
-§ 2 i lov nr. 620 af 21. december 1983 er sålydende:
+Loven træder i kraft dagen efter bekendtgørelsen i Lovtidende. Loven blev offentliggjort den 28. april 1994.
 
-»§ 2. I 1984 kan det samlede tilskud, som miljøministeren kan yde efter § 1, højst udgøre 10 mill. kr.
+Lov nr. 1094 om trafikstøtte til de mindre øer, der i § 7 ophæver østøttelovens §§ 1-3, indeholder følgende ikrafttrædelsesbestemmelse:
 
-Stk. 2. Det beløb, der er nævnt i stk. 1, reguleres efter det forbrugerprisindeks for transport, der udregnes af Danmarks Statistik. Reguleringen foretages på grundlag af prisindekset for april måned.
+§ 6
 
-Beløbet forhøjes eller nedsættes med samme procent som den, hvormed prisindekset er ændret i forhold til et indeks på 211. Den nævnte procentvise ændring beregnes med een decimal.«
+Loven træder i kraft den 1. januar 1998.
