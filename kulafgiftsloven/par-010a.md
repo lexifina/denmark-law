@@ -1,13 +1,9 @@
-§ 10 a. I andre tilfælde betales afgiften i forbindelse med varemodtagelsen her i landet, medmindre varerne modtages efter reglerne i § 3. Erhvervsdrivende varemodtagere skal inden varerne afsendes fra udlandet anmelde sig hos de statslige told- og skattemyndigheder. Anmeldelsen er gældende for 5 år.
+§ 10 a. I andre tilfælde betales afgiften i forbindelse med varemodtagelsen her i landet, medmindre varerne modtages efter reglerne i § 3. Erhvervsdrivende varemodtagere skal inden varerne afsendes fra udlandet anmelde sig hos told- og skatteforvaltningen. Anmeldelsen er gældende for 5 år.
 
-Stk. 2. De i stk. 1 nævnte erhvervsdrivende varemodtagere, skal efter udløbet af hver måned og senest den 15. i den følgende måned til de statslige told- og skattemyndigheder angive mængden af de varer, virksomheden har modtaget i måneden. Andre varemodtagere skal angive ved modtagelsen. Angivelsen skal være underskrevet af varemodtageren.
+Stk. 2. De i stk. 1 nævnte erhvervsdrivende varemodtagere skal efter udløbet af hver afgiftsperiode angive mængden af de varer, virksomheden har modtaget i perioden, og indbetale afgiften heraf til told- og skatteforvaltningen. Angivelsen og betalingen sker efter reglerne i § 2, § 3 og §§ 5-8, nr. 2 og 3, i lov om opkrævning af skatter og afgifter m.v.
 
-Stk. 3. Afgiften skal indbetales til de statslige told- og skattemyndigheder senest samtidig med indsendelse af den i stk. 2 nævnte angivelse. Udgør afgiften under 50 kr., kan erhvervsdrivende undlade at indbetale beløbet.
+Stk. 3. For andre varemodtagere sker angivelsen og betalingen efter reglerne i § 9, stk. 2-4, i lov om opkrævning af skatter og afgifter m.v.
 
-Stk. 4. Betales afgiften ikke rettidigt, skal der betales 1,3 pct. i månedlig rente for hver påbegyndt måned fra den 1. i den måned, i hvilken beløbet skal betales af virksomheden, dog mindst 50 kr.
+Stk. 4. Told- og skatteforvaltningen kan pålægge en virksomhed, der gentagne gange ikke betaler afgiften rettidigt, at afgive angivelse ved varernes modtagelse. Told- og skatteforvaltningen kan endvidere pålægge virksomheden at betale afgiften ved varernes modtagelse.
 
-Stk. 5. De statslige told- og skattemyndigheder kan pålægge en virksomhed, der gentagne gange ikke betaler afgiften rettidigt, at afgive angivelse ved varernes modtagelse. De statslige told- og skattemyndigheder kan endvidere pålægge virksomheden at betale afgiften ved varernes modtagelse.
-
-Stk. 6. Bestemmelserne i lovens § 11, stk. 1 og 4, og §§ 16-19 finder tilsvarende anvendelse.
-
-Stk. 7. Skatteministeren kan fastsætte regler for angivelse og indbetaling af afgiften.
+Stk. 5. Betemmelserne i lovens § 11, stk. 1 og 5, finder tilsvarende anvendelse.
