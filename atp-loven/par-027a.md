@@ -1,5 +1,7 @@
-§ 27 a. Finanstilsynet fører tilsyn med Arbejdsmarkedets Tillægspensions anbringelse af midlerne efter §§ 26 og 26 a.
+§ 27 a. Finanstilsynet skal undersøge de af Arbejdsmarkedets Tillægspensions forhold, som Finanstilsynet fører tilsyn med, jf. § 27, stk. 1, herunder ved gennemgang af løbende indberetninger og ved inspektioner.
 
-Stk. 2. Det Finansielle Virksomhedsråd indgår i tilsynet efter stk. 1 inden for rådets kompetenceområde, jf. lov om finansiel virksomhed § 65, stk. 2.
+Stk. 2. Efter inspektion i Arbejdsmarkedets Tillægspension skal der afholdes et møde med deltagelse af Arbejdsmarkedets Tillægspensions bestyrelse, direktøren, den ansvarshavende aktuar, de eksterne revisorer og den interne revisionschef, medmindre inspektionen alene vedrører afgrænsede aktivitetsområder i virksomheden. På mødet skal Finanstilsynet meddele sine konklusioner vedrørende inspektionen.
 
-Stk. 3. Finanstilsynet kan give Arbejdsmarkedets Tillægspension påbud om inden en fastsat frist at foretage de foranstaltninger, som Finanstilsynet skønner nødvendige med henblik på, at anbringelsen af midlerne sker i overensstemmelse med §§ 26 og 26 a.
+Stk. 3. Væsentlige konklusioner skal efter et inspektionsbesøg fremsendes i form af en skriftlig rapport til virksomhedens bestyrelse, direktør, den ansvarshavende aktuar, de eksterne revisorer og den interne revisionschef. Disse skal ved underskrift på rapporten bekræfte at være gjort bekendt med denne, hvorefter den tilbagesendes til Finanstilsynet.
+
+Stk. 4. Samtidig med fremsendelse af rapporten til ledelsen sender Finanstilsynet rapporten til beskæftigelsesministeren.
