@@ -1,5 +1,5 @@
 Bekendtgørelse af lov om godskørsel
 
-Herved bekendtgøres lov nr. 851 af 21. december 1988 med de ændringer, der følger af lov nr. 839 af 18. december 1991 og lov nr. 1136 af 21. december 1994.
+Herved bekendtgøres lov om godskørsel, jf. lovbekendtgørelse nr. 259 af 12. april 1995, med de ændringer, der følger af § 32 i lov nr. 386 af 22. maj 1996 og § 2 i lov nr. 187 af 30. marts 1999.
 
 Lovens område m.v.
