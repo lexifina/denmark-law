@@ -1,7 +1,5 @@
-Indenrigsministeriet, den 6. oktober 1995
+Indenrigsministeriet, den 13. oktober 1999
 
-Birte Weiss
+Thorkild Simonsen
 
-/ Niels Jørgen Mau
-
-Ingen
+/Niels Jørgen Mau
