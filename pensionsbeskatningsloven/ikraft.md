@@ -1,63 +1,47 @@
-Lov nr. 540 af 28. december 1979, ved hvis § 1 udbetalinger m.v. efter lov om Lønmodtagernes Dyrtidsfond inddrages under loven og afgiftssatserne forhøjes til 40 pct., indeholder i § 2 følgende bestemmelse:
+Lov nr. 527 af 11. december 1985 om ændring af lov om beskatningen af pensionsordninger m.v., kildeskatteloven og skattekontrolloven, hvis § 1 ændrer pensionsbeskatningslovens §§ 1, 50 og 55, indeholder i §§ 4 og 5 følgende ikrafttrædelses- og overgangsregler:
+
+§ 4
+
+Stk. 1. Loven træder i kraft ved bekendtgørelsen i Lovtidende.
+
+Stk. 2. § 1, nr. og 2, har virkning fra den 22. oktober 1985. De hidtidige regler i pensionsbeskatningslovens § 1, stk. 3, finder dog fortsat anvendelse på aftaler efter de hidtidige regler i lovens § 1, stk. 2.
+
+Stk. 3. § 1, nr. 4, har virkning for livsforsikringer, hvor skriftlig begæring om oprettelsen ikke er fremsat over for forsikringsselskabet eller dettes repræsentant før den 22. oktober 1985. For selskaber og foreninger m.v. har § 1, nr. 4, dog virkning for livsforsikringer, hvor skriftlig begæring om oprettelsen ikke er fremsat før den 3. december 1985. For tiden fra den 22. oktober 1985, for selskaber og foreninger m.v. dog fra den 3. december 1985, til udgangen af det løbende indkomstår betales afgift efter pensionsbeskatningslovens § 50, stk. 3, som affattet i § 1, nr. 4, af præmier eller bidrag over 5.100 kr., som forfalder i det nævnte tidsrum.
+
+§ 5
+
+Ministeren for skatter og afgifter kan fastsætte regler om, at ændringer af en livsforsikring, der omfattes af pensionsbeskatningslovens § 50, stk. 1, nr. 1, og er oprettet i henhold til en skriftlig begæring, der er fremsat før den 22. oktober 1985, ikke i forhold til nævnte lovs § 50, stk. 3, som affattet i § 1, nr. 4, anses som oprettelse af en ny forsikring, såfremt ændringerne skyldes separation eller skilsmisse. Det er dog en betingelse, at ændringerne ikke medfører en forøgelse af den årlige præmiebetaling.
+
+Lov nr. 148 af 19. marts 1986 om ændring af lov om beskatningen af pensionsordninger m.v. og lov om en realrenteafgift af visse pensionskapitler m.v. (Ændring af reglerne om kapitalpension, indførelse af rateopsparing i pensionsøjemed, ophævelse af 2.000 kr.s fradraget m.v.), hvis § 1 ændrer pensionsbeskatningslovens §§ 10, 12, 16-22, 25-27, 29-30, 32, 35-36, 41, 43, 45, 48, 50-51, 53-54, 56 og 60, og indsætter ny § 11 A, § 18 A og § 21 A, indeholder i §§ 3 og 4 følgende ikrafttrædelses- og overgangsregler:
+
+§ 3
+
+Stk. 1. Loven har virkning fra og med indkomståret 1987.
+
+Stk. 2. § 1, nr. 6, 14, 32, 38, 40, 47, 49, 62, 65 og 69, og § 2, nr. 5, har dog virkning fra dagen efter bekendtgørelsen i Lovtidende. Det samme gælder bemyndigelsen i pensionsbeskatningslovens § 11 A, stk. 1, nr. 1, 1. pkt., § 11 A, stk. 1, nr. 3, 2. pkt., og § 11 A, stk. 2, som affattet ved lovens § 1, nr. 7. Det gælder endvidere for pensionsbeskatningslovens § 18 A, stk. 2, 3. pkt., som affattet ved lovens § 1, nr. 29, og pensionsbeskatningslovens § 21 A, stk. 2, som affattet ved lovens § 1, nr. 34.
+
+Stk. 3. § 2, nr. 3, har virkning fra og med afgiftsåret 1986.
+
+§ 4
+
+Er der vedrørende en kapitalforsikning i pensionsøjemed eller en opsparing i pensionsøjemed, der er oprettet før indkomståret 1987, truffet aftale om indbetalinger, der overstiger beløbsgrænsen i pensionsbeskatningslovens § 16, stk. 1, som affattet i denne lovs § 1, nr. 15, kan præmierne eller bidraget til ordningen opdeles, således at præmier eller bidrag ud over den nævnte beløbsgrænse indsættes på en rateforsikring eller rateopsparing i pensionsøjemed. De begrænsninger, der i pensionsbeskatningslovens § 8, nr. 1, og § 11 A, stk. 1, nr. 1 og 2, som affattet i denne lovs § 1, nr. 7, er fastsat vedrørende personer, der er fyldt 55 år, skal ikke gælde i disse tilfælde. Bestemmelserne i pensionsbeskatningslovens § 18, stk. 3-5, som affattet i denne lovs § 1, nr. 21-27, om fordeling af fradragsretten for kapitalindskud m.v. finder heller ikke anvendelse på indbetalinger til rateforsikring og rateopsparing i pensionsøjemed efter nærværende bestemmelse.
+
+Lov nr. 344 af 4. juni 1986 om ændring af lov om beskatningen af pensionsordninger m.v. (Ændring af reglerne om invalidesum og rateopsparing m.v.), hvis § 1 ændrer pensionsbeskatningslovens § 10, § 11 A, § 18 A og § 30, indeholder i §§ 2 og 3 følgende bestemmelser:
 
 § 2
 
-Loven træder i kraft ved bekendtgørelsen i Lovtidende og har virkning, når afgiftspligt indtræder den 1. januar 1980 eller senere.
+I lov nr. 148 af 19. marts 1986 om ændring af lov om beskatningen af pensionsordninger m.v. og lov om en realrenteafgift af visse pensionskapitaler m.v. udgår i § 3, stk. 2, 1. pkt.,: », 65«.
 
-----
+§ 3
 
-Lov nr. 112 af 27. marts 1980, hvis § 1 ændrer affattelsen af nogle overgangsbestemmelser i lov nr. 540 af 28. december 1979, indeholder i § 2 følgende bestemmelse:
+Stk. 1. Loven har virkning fra og med indkomståret 1987.
 
-§ 2
+Stk. 2. § 2 har dog virkning fra og med den 27. marts 1986.
 
-Loven træder i kraft ved bekendtgørelsen i Lovtidende og har virkning, når afgiftspligt er indtrådt den 1. januar 1980 eller senere.
+Ministeriet for skatter og afgifter, den
 
-----
+Isi Foighel
 
-Lov nr. 278 af 16. juni 1980, hvis § 6 ændrer affattelsen af § 16, stk. 2, indeholder i § 8 følgende bestemmelse:
+/ Hanne Søgaard Hansen
 
-§ 8
-
-§§ 2-6 har virkning fra og med indkomståret 1981, og § 7 har virkning fra og med lønningsåret 1981.
-
-----
-
-Lov nr. 173 af 8. april 1981 om ændring af lov om beskatningen af pensionsordninger m.v. (Om pensionskasser), hvis § 1 ændrer affattelsen af § 3, stk. 1, indeholder i § 2 følgende bestemmelse:
-
-§ 2
-
-Loven træder i kraft den 1. oktober 1981.
-
-----
-
-Lov nr. 227 af 26. maj 1982 om ændring af forskellige skattelove (Skattemæssig ligestilling af ægtefæller), hvis § 6,
-
-nr. 1 ændrer affattelsen af § 18, stk. 6, 1. pkt.,
-
-nr. 2 ændrer affattelsen af § 48, stk. 2, 2.-4. pkt.,
-
-nr. 3 ændrer beløbsgrænsen i § 50, stk. 2, 2. pkt., og ophæver 3. og 4. pkt.,
-
-nr. 4 indsætter nyt 3. pkt. i § 50, stk. 2, indeholder i § 9 følgende bestemmelse:
-
-§ 9
-
-Stk. 1. Loven har virkning fra og med indkomståret 1983.
-
-Stk. 2. - -
-
-----
-
-Lov nr. 141 af 13. april 1983 om ændring af lov om beskatningen af pensionsordninger m.v. (Rentegodtgørelse og skattefrihed for visse ydelser fra hjælpe- og understøttelsesfonde), hvis § 1,
-
-nr. 1 indsætter nyt 2. pkt. i § 18, stk. 1,
-
-nr. 2 indsætter nyt stk. 3 i § 39, hvorefter stk. 3 bliver stk. 4,
-
-nr. 3 ændrer affattelsen af § 56, stk. 1, 2. pkt., indeholder i § 2 følgende bestemmelser:
-
-§ 2
-
-Stk. 1. Loven træder i kraft dagen efter bekendtgørelsen i Lovtidende.
-
-Stk. 2. § 1, nr. 1, og § 1, nr. 3, har virkning for beløb, der udredes til en pensionsordning med løbende udbetalinger i henhold til en begæring, som den pågældende hjælpe- eller understøttelsesfond efter den 20. juni 1979 har fremsat over for forsikringsselskabet m.v. eller dettes repræsentant.
+Ingen
