@@ -1,6 +1,6 @@
-Lov om ophavsret (* 1)
+Bekendtgørelse af lov om ophavsret (* 1)
 
-VI MARGRETHE DEN ANDEN, af Guds Nåde Danmarks Dronning, gør vitterligt: Folketinget har vedtaget og Vi ved Vort samtykke stadfæstet følgende lov:
+Herved bekendtgøres lov nr. 395 af 14. juni 1995 om ophavsret med de ændringer, der følger af lov nr. 295 af 24. april 1996 og lov nr. 1207 af 27. december 1996.
 
 ## Kapitel 1
 
