@@ -1,62 +1,16 @@
-Miljøministeriet, den 4. februar 2002
+Miljøministeriet, den 18. august 2004
 
-Hans Chr. Schmidt
+Connie Hedegaard
 
-/Ole Christiansen
+/Anne-Marie Rasmussen
 
-Bilag
+Bilag 1
 
-Bilag til lov om naturbeskyttelse
+## Bilag om fortidsminder uden beskyttelseslinje
 
-Kapitel 1: Følgende fortidsmindetyper er omfattet af beskyttelsen i henhold til lovens § 12, hvis de er synlige i terrænet:
+Fortidsminder, der ikke har beskyttelseslinje i henhold til § 18, uanset om de er beskyttet efter museumsloven:
 
-1. Høje, røser.
-
-2. Stengrave, dysser, jættestuer.
-
-3. Skibssætninger.
-
-4. Ubebyggede voldsteder og værfter.
-
-5. Forsvarsanlæg.
-
-6. Ødekirkegårde.
-
-7. Ruiner.
-
-8. Runesten, bautasten.
-
-9. Sten med helleristninger.
-
-10. Kors, milepæle, vildtbanesten og lignende.
-
-Fortidsminder, der er omfattet af kapitel 1, har beskyttelseslinje i henhold til lovens § 18, stk. 1, bortset fra nr. 10. Kors, milepæle, vildtbanesten og lignende.
-
-Kapitel 2: Følgende fortidsmindetyper er kun omfattet af beskyttelsen i henhold til lovens § 12, når ejeren har modtaget meddelelse om deres tilstedeværelse:
-
-1. Mølleanlæg.
-
-2. Dæmninger.
-
-3. Bro- og vejanlæg.
-
-4. Stenvolde, stenrækker.
-
-5. Bebyggede voldsteder og værfter.
-
-6. Helligkilder.
-
-7. Kanaler.
-
-8. Anlæg ved eller i søer, åer og moser.
-
-9. Bopladser.
-
-Fortidsminder, der er omfattet af kapitel 2, har beskyttelseslinje i henhold til lovens § 18, stk. 1.
-
-Kapitel 3: Følgende fortidsmindetyper er kun omfattet af beskyttelsen i henhold til lovens § 12, når ejeren har modtaget meddelelse om deres tilstedeværelse:
-
-1. Fortidsminder omfattet af kapitel 1, som ikke er synlige i terrænet.
+1. Kors, milepæle, vildtbanesten og lignende.
 
 2. Sten og træer, hvortil der er knyttet folketro, historisk overlevering eller kulturhistorisk tradition.
 
@@ -72,4 +26,32 @@ Kapitel 3: Følgende fortidsmindetyper er kun omfattet af beskyttelsen i henhold
 
 8. Sten- og grenkast.
 
-Fortidsminder, der er omfattet af kapitel 3, har ikke beskyttelseslinje i henhold til lovens § 18, stk. 1, jf. § 18, stk. 3.
+Bilag 2
+
+## Bilag om anmeldelsespligtige aktiviteter
+
+Aktiviteter, der er omfattet af § 19 b:
+
+1) Tilplantning med juletræer og skov, flerårige energiafgrøder, levende hegn og lignende i fuglebeskyttelsesområder.
+
+2) Rydning af samt træartsskifte og plantning i løvskov.
+
+3) Ændring i tilstanden af søer, heder, moser og lignende, strandenge, strandsumpe, ferske enge og overdrev, der ikke opfylder størrelseskravet i § 3.
+
+4) Ændring i tilstanden af indlandssaltenge, kilder og væld samt vandløb, der ikke er udpeget efter § 3.
+
+5) Opdyrkning af vedvarende græsarealer i fuglebeskyttelsesområder.
+
+6) Opdyrkning, tilplantning og sandflugtsdæmpning på klitter.
+
+7) Rydning af krat af havtorn, gråris og enebær samt skov af skovfyr på klitter.
+
+8) Rydning af krat af enebær på overdrev, der ikke er omfattet af § 3.
+
+9) Væsentlig ændring inden for kort tid i græsningsintensitet, herunder ophør med græsning eller høslet.
+
+10) Væsentlig ændring i anvendelsen af husdyrgødning, herunder ændret gødskning fra handelsgødning til husdyrgødning.
+
+11) Etablering af anlæg, der er nødvendige for erhvervet, herunder veje.
+
+12) Etablering af ikkegodkendelsespligtige virksomheder i områderne, der kan medføre betydelige forstyrrelser (eksempelvis støj).
