@@ -1,0 +1,1 @@
+§ 53 a. En klage over en godkendelse meddelt i medfør af regler, der er fastsat med hjemmel i § 33, stk. 2, har ikke opsættende virkning, medmindre Miljøklagenævnet bestemmer andet. Miljøministeren kan fastsætte regler om, at visse godkendelser ikke må udnyttes inden for klagefristen, og at en klage skal have opsættende virkning.
