@@ -1,11 +1,13 @@
-Skatteministeriet, den 1. oktober 1995
+Skatteministeriet, den 6. september 1999
 
-Carsten Koch
+Ole Stavad
 
-/ Lise Bo Nielsen
+/H. K. Andersen
 
-(* 1) Denne lovbekendtgørelse indeholder bemærkninger om ikrafttrædelses- og overgangsbestemmelser for love, der er vedtaget i folketingsåret 1994-95. Bemærkninger om ikrafttrædelses- og overgangsbestemmelser for tidligere vedtagne ændringer er ikke medtaget. Bemærkninger om ikrafttrædelses- og overgangsbestemmelser for love, der er vedtaget i folketingsåret 1993-94 kan findes i lovbekendtgørelse nr. 609 af 30. juni 1994.
+Denne lovbekendtgørelse indeholder bemærkninger om ikrafttrædelses- og overgangsbestemmelser for love, der er vedtaget i folketingsårene 1995-99.
 
-(* 2) § 1, stk. 1 og 2 træder i den her anførte affattelse i kraft
+Bestemmelsen i § 1, stk. 3, i den her anførte affattelse har virkning fra og med indkomståret 1997, jf. § 27 i lov nr. 1219 af 27. december 1996.
 
-den 1. januar 1995, jf. § 2 i lov nr. 1116 af 21. december 1994.
+Bestemmelserne i § 2, stk. 1, nr. 4, § 4, stk. 5, og § 11, stk. 2, trådte i de her anførte affattelser i kraft den 1. juli 1998, jf. § 42, stk. 1, i lov nr. 980 af 17. december 1997.
+
+Ophævelsen af bestemmelsen i § 14, stk. 2, har virkning fra og med indkomståret 1997, jf. § 27 i lov nr. 1219 af 27. december 1996.
