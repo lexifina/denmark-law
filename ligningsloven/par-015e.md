@@ -1,0 +1,3 @@
+§ 15 E. For stuehuse med tilhørende grund og have til landbrugsejendomme m.v., for hvilke vurderingsrådet efter vurderingslovens § 33, stk. 4, fordeler ejendomsværdien og grundværdien på ejendommens stuehus m.v. og på den øvrige ejendom, opgøres beregningsgrundlaget som nævnt i §§ 15 B og 15 C. Ved opgørelsen skal der dog kun tages hensyn til den del af ejendomsværdien, der er henført til stuehuset m.v.
+
+Stk. 2. Ved forhøjelse efter § 15 B, stk. 3, tages der alene hensyn til de udgifter, der vedrører stuehuset m.v., og ved anvendelse af § 15 C regnes med anskaffelsessummen og eventuelle udgifter vedrørende stuehuset m.v.

@@ -1,0 +1,7 @@
+§ 18 B. Ved opgørelsen af den skattepligtige formue medregnes fast ejendom til den ved indkomstårets udgang ansatte ejendomsværdi, reguleret efter vurderingslovens § 2 A, jfr. § 14, nr. 1, i statsskatteloven, jfr. dog stk. 2-4.
+
+Stk. 2. For ejendomme, som udelukkende anvendes til erhvervsmæssig virksomhed, gives der ved opgørelsen af den skattepligtige formue for formueskattepligtige personer og dødsboer et nedslag beregnet som 30 pct. af den ved indkomstårets udgang ansatte ejendomsværdi, reguleret efter vurderingslovens § 2 A. Udlejning til beboelse anses i denne forbindelse ikke som erhvervsmæssig virksomhed.
+
+Stk. 3. For ejendomme, der både anvendes til erhvervsmæssig virksomhed og til andet formål, gives der ved opgørelsen af den skattepligtige formue for formueskattepligtige personer og dødsboer et nedslag beregnet som 30 pct. af den ved indkomstårets udgang ansatte ejendomsværdi, reguleret efter vurderingslovens § 2 A, som forholdsmæssigt kan henføres til den del af ejendommen, der anvendes erhvervsmæssigt.
+
+Stk. 4. Ved anvendelsen af reglen i stk. 2 bortses fra anden anvendelse end anvendelsen til erhvervsmæssig virksomhed, hvor denne anden anvendelse må anses for uvæsentlig i forhold til ejendommens erhvervsmæssige anvendelse. Reglen i stk. 3 finder ikke anvendelse, hvor den erhvervsmæssige anvendelse må anses for uvæsentlig i forhold til ejendommens anvendelse til andet end erhvervsmæssig virksomhed.

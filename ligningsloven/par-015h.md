@@ -1,0 +1,1 @@
+§ 15 H. Den efter § 15 G beregnede lejeværdi nedsættes eller forhøjes forholdsmæssigt, hvis ejendommen i indkomståret har tjent til bolig for ejeren i et andet omfang end forudsat ved den vurdering m.v. eller vurderingsfordeling, der efter §§ 15 B-15 F danner grundlag for lejeværdiberegningen. Der bortses dog fra uvæsentlige afvigelser.

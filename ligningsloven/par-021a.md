@@ -1,0 +1,3 @@
+§ 21 A. Ved opgørelsen af den skattepligtige formue fradrages den skattepligtiges gæld, jfr. § 13, litra a, i statsskatteloven. Gælden ansættes efter sit pålydende, jfr. dog stk. 2.
+
+Stk. 2. Hvor den fordring, der modsvarer gælden, ved formueopgørelsen kan ansættes til en kursværdi, der er forskellig fra fordringens pålydende, ansættes gælden efter en tilsvarende kurs. Ministeren for skatter og afgifter fastsætter nærmere regler for, hvorledes kursansættelsen efter 1. punktum skal gennemføres for forskellige former for gæld. Ministeren for skatter og afgifter kan i den forbindelse fastsætte regler, hvorefter realkreditinstitutter skal give underretning til låntagerne om den skattemæssige kursværdi af gælden.
