@@ -1,0 +1,3 @@
+§ 8 L. (* 11) Ved opgørelsen af den skattepligtige indkomst kan udgifter til erhvervelse af knowhow og patentrettigheder i tilknytning til den skattepligtiges erhverv efter den skattepligtiges valg enten fradrages fuldt ud i det indkomstår, hvori udgifterne er afholdt, eller afskrives efter § 15, stk. 1, i lov om særlig indkomstskat m.v.
+
+Stk. 2. Afhændes eller afstås knowhow eller patentrettigheder, hvis anskaffelsesudgift i medfør af stk. 1 er fradraget fuldt ud i den skattepligtige indkomst, skal afhændelses- eller afståelsessummen fuldt ud medregnes i den skattepligtige indkomst for det indkomstår, hvori afhændelsen eller afståelsen finder sted. I disse tilfælde finder reglerne i lov om særlig indkomstskat m.v. om beskatning af fortjeneste ikke anvendelse.
