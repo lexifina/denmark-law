@@ -1,3 +1,9 @@
-§ 15 F. For ejendomme, som indeholder een eller to selvstændige lejligheder, og som i væsentligt omfang benyttes erhvervsmæssigt, således at vurderingsrådet efter vurderingslovens § 33, stk. 5, fordeler ejendomsværdien på den del, der tjener til bolig for ejeren, og på den øvrige del af ejendommen, opgøres beregningsgrundlaget som nævnt i §§ 15 B og 15 C. Ved opgørelsen skal der dog kun tages hensyn til den del af ejendomsværdien, der er henført til ejerens bolig.
+§ 15 F. (* 14) Den lejeværdi, der beregnes for ejendommen efter § 15 E, stk. 1, nedsættes efter reglerne i § 15 E, stk. 4, for skattepligtige,
 
-Stk. 2. Ved forhøjelse efter § 15 B, stk. 3, tages der alene hensyn til de udgifter, der vedrører ejerens bolig, og ved anvendelse af § 15 C regnes med anskaffelsessummen og eventuelle udgifter vedrørende ejerens bolig.
+1) der inden udgangen af indkomståret er fyldt 60 år, og som efter lov om social pension modtager eller får forskud på førtidspension eller modtager invaliditetsydelse med bistands~ eller plejetillæg,
+
+2) der ved indkomstårets udgang modtager efterløn, jf. lov om arbejdsformidling og arbejdsløshedsforsikring m.v., eller
+
+3) hvis ægtefælle opfylder betingelserne i nr. 1 eller 2, og ægtefællerne er samlevende ved indkomstårets udløb.
+
+Stk. 2. Stk. 1 gælder også for en efterlevende ægtefælle, som ikke opfylder betingelserne i stk. 1, nr. 1 eller 2, hvis denne efter den anden ægtefælles død bliver boende i en ejendom, som har tilhørt en af ægtefællerne og før dødsfaldet omfattedes af disse regler på grund af den afdøde ægtefælles forhold. Bestemmelsen gælder dog ikke, såfremt den efterlevende ægtefælle har indgået nyt ægteskab inden indkomstårets begyndelse.
