@@ -1,4 +1,4 @@
-§ 73 E. (* 29) Skatteministeren kan fastsætte nærmere regler om henstand i forbindelse med klage over skatteansættelser.
+§ 73 E. Skatteministeren kan fastsætte nærmere regler om henstand i forbindelse med klage over skatteansættelser.
 
 ## Afsnit VIII
 
