@@ -1,9 +1,9 @@
-Givet på Christiansborg Slot, den 14. juni 1995
+Skatteministeriet, den 3. august 1998
 
-Under Vor Kongelige Hånd og Segl
+Ole Stavad
 
-MARGRETHE R.
+/John Fuhrmann
 
-/Carsten Koch
+Lov nr. 397 af 22. maj 1996 (ophævelse af afgiften af blyakkumulatorer i forbindelse med aftale om indsamling og gebyr på blyakkumulatorer) trådte i kraft den 1. juni 1996
 
-(* 1) Loven sat i kraft d. 1. april 1996, jf. bekendtgørelse nr. 138 af 12/03/1996
+Lov nr. 1098 af 29. december 1997 (Ændret klagestruktur m.v.) trådte i kraft den 1. april 1998.
