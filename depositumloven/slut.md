@@ -1,7 +1,7 @@
-Undervisnings- og Forskningsministeriet, den 27. januar 1992
+Undervisnings- og Forskningsministeriet, den 29. juli 1992
 
 Bertel Haarder
 
 / Birgitte Fink
 
-Ingen
+(* 1) Bekendtgørelsen i Lovtidende fandt sted den 28. december 1991.
