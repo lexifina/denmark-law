@@ -1,0 +1,1 @@
+§ 38 a. Med henblik på at nedsætte det samlede forbrug af godkendelsespligtige stoffer og produkter kan ministeren fastsætte regler om begrænsning i eller forbud mod anvendelse af sådanne stoffer og produkter på bestemte arealer.
