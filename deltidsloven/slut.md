@@ -1,14 +1,12 @@
-Givet på Christiansborg Slot, den 7. juni 2001
+Beskæftigelsesministeriet, den 26. september 2002
 
-Under Vor Kongelige Hånd og Segl
+Claus Hjort Frederiksen
 
-Margrethe R.
-
-/Ove Hygum
+/E. Edelberg
 
 Bilag A
 
-Landsorganisationen i Danmark Dansk Arbejdsgiverforening
+Landsorganisationen i Danmark | Dansk Arbejdsgiverforening
 
 Aftale om implementering af direktivet om deltidsarbejde
 
@@ -34,13 +32,9 @@ b. at lette udviklingen af deltidsarbejde på frivillig basis og bidrage til en 
 
 I denne aftale forstås ved
 
-1. »
+1. »deltidsansat« en ansat, hvis normale arbejdstid beregnet på en ugentlig basis eller i gennemsnit over en ansættelsesperiode på op til et år er lavere end den normale arbejdstid for en sammenlignelig fuldtidsansat,
 
-deltidsansat« en ansat, hvis normale arbejdstid beregnet på en ugentlig basis eller i gennemsnit over en ansættelsesperiode på op til et år er lavere end den normale arbejdstid for en sammenlignelig fuldtidsansat,
-
-2. »
-
-en sammenlignelig fuldtidsansat« en fuldtidsansat i samme virksomhed, der har samme type ansættelseskontrakt eller ansættelsesforhold, og som er involveret i samme eller tilsvarende arbejde/beskæftigelse. Der tages ved sammenligningen hensyn til andre forhold, der kan omfatte anciennitet, kvalifikationer/færdigheder.
+2. »en sammenlignelig fuldtidsansat« en fuldtidsansat i samme virksomhed, der har samme type ansættelseskontrakt eller ansættelsesforhold, og som er involveret i samme eller tilsvarende arbejde/beskæftigelse. Der tages ved sammenligningen hensyn til andre forhold, der kan omfatte anciennitet, kvalifikationer/færdigheder.
 
 Hvor der ikke findes nogen sammenlignelig fuldtidsansat i samme virksomhed, skal sammenligningen ske ved henvisning til den kollektive aftale, der finder anvendelse, eller hvis en sådan ikke foreligger i overensstemmelse med national lovgivning, kollektive aftaler eller praksis.
 
@@ -118,7 +112,13 @@ Med henblik på implementering af Rådets direktiv 97/81/EF af 15. december 1997
 
 København, den 2. september 1999
 
-Statsansattes Kartel Niels Juul Statstjenestemændenes Centralorganisation II Tommy Agerskov Thomsen | Finansministeriet P.M.V. E.B. Lisa Engmann
+Statsansattes Kartel | Finansministeriet
+
+Niels Juul | P.M.V.
+
+E.B.
+
+Statstjenestemændenes Centralorganisation II Tommy Agerskov Thomsen | Lisa Engmann
 
 Akademikernes Centralorganisation Svend M. Christensen
 
@@ -132,7 +132,9 @@ Parterne lægger til grund, at de pr. 1. april 1999 gældende aftaler og overens
 
 Bilag A (til bilag B)
 
-RÅDETS DIREKTIV 97/81/EF af 15. december 1997 om rammeaftalen vedrørende deltidsarbejde, der er indgået af Unice, CEEP og EFS (Bilag: Rammeaftale om deltidsarbejde) Senere ændringer: Ændret ved 398L0023 (EFT L 131 5. maj 1998, s. 10) (Bilag 2)
+RÅDETS DIREKTIV 97/81/EF af 15. december 1997
+
+om rammeaftalen vedrørende deltidsarbejde, der er indgået af Unice, CEEP og EFS (Bilag: Rammeaftale om deltidsarbejde) Senere ændringer: Ændret ved 398L0023 (EFT L 131 5. maj 1998, s. 10) (Bilag 2)
 
 RÅDET FOR DEN EUROPÆISKE UNION HAR
 
@@ -144,7 +146,7 @@ under henvisning til aftalen om social- og arbejdsmarkedspolitikken, der er knyt
 
 (3) i punkt 7 i fællesskabspagten om arbejdstagernes grundlæggende arbejdsmæssige og sociale rettigheder er det blandt andet fastsat, at »etableringen af det indre marked skal føre til en forbedring af arbejdstagernes leve- og arbejdsvilkår inden for Fællesskabet. Dette skal opnås ved indbyrdes tilnærmelse på et stadig stigende niveau af disse vilkår, bl.a. med hensyn til andre former for arbejde end tidsubegrænset arbejde, såsom tidsbegrænset arbejde, deltidsarbejde, vikararbejde og sæsonarbejde«;
 
-(4) Rådet har hverken truffet afgørelse om forslaget til direktiv vedrørende konkurrencefordrejninger i forbindelse med visse ansættelsesforhold(1) , som ændret (2) , eller om forslaget til direktiv om arbejdsvilkårene i forbindelse med visse ansættelsesforhold(3) ;
+(4) Rådet har hverken truffet afgørelse om forslaget til direktiv vedrørende konkurrencefordrejninger i forbindelse med visse ansættelsesforhold , som ændret , eller om forslaget til direktiv om arbejdsvilkårene i forbindelse med visse ansættelsesforhold ,
 
 (5) i konklusionerne fra Det Europæiske Råds møde i Essen understreges det, at det er nødvendigt at træffe foranstaltninger med henblik på at fremme beskæftigelse og lige muligheder for kvinder og mænd, og det henstilles, at der træffes foranstaltninger, som tager sigte på »fremme af vækstens evne til at øge beskæftigelsen gennem en mere fleksibel tilrettelæggelse af arbejdet, således at der både tages hensyn til arbejdstagernes ønsker og de konkurrencemæssige krav«;
 
@@ -156,7 +158,7 @@ under henvisning til aftalen om social- og arbejdsmarkedspolitikken, der er knyt
 
 (9) omtalte faglige organisationer indgik den 6. juni 1997 en rammeaftale om deltidsarbejde, og de har til Kommissionen fremsendt en fælles anmodning om, at rammeaftalen iværksættes i overensstemmelse med artikel 4, stk. 2, i aftalen om social- og arbejdsmarkedspolitikken;
 
-(10) Rådet har i sin resolution af 6. december 1994 om visse perspektiver for en social- og arbejdsmarkedspolitik for Den Europæiske Union: Bidrag til økonomisk og social konvergens i Unionen (4) anmodet arbejdsmarkedets parter om at være sig bevidst, at de selv har mulighed for at indgå overenskomster, eftersom de som regel er tættere på de sociale og arbejdsmarkedsmæssige problemer og den sociale og arbejdsmarkedsmæssige virkelighed;
+(10) Rådet har i sin resolution af 6. december 1994 om visse perspektiver for en social- og arbejdsmarkedspolitik for Den Europæiske Union: Bidrag til økonomisk og social konvergens i Unionen anmodet arbejdsmarkedets parter om at være sig bevidst, at de selv har mulighed for at indgå overenskomster, eftersom de som regel er tættere på de sociale og arbejdsmarkedsmæssige problemer og den sociale og arbejdsmarkedsmæssige virkelighed;
 
 (11) de underskrivende parter har ønsket at indgå en rammeaftale om deltidsarbejde og har opregnet de generelle principper og minimumskravene for deltidsarbejde; de har givet udtryk for, at de er villige til at skabe en generel ramme, som skal have til formål at sikre, at der ikke diskrimineres mod deltidsansatte, og medvirke til at fremme mulighederne for deltidsarbejde på et grundlag, der er acceptabelt for såvel arbejdsgiverne som arbejdstagerne;
 
@@ -220,23 +222,17 @@ J.-C. JUNCKER
 
 Formand
 
-(1) EFT C 224 af 8. 9. 1990, s. 6.
+EFT C 224 af 8. 9. 1990, s. 6.
 
-(2) EFT C 305 af 5. 12. 1990, s. 8.
+EFT C 305 af 5. 12. 1990, s. 8.
 
-(3) EFT C 224 af 8. 9. 1990, s. 4.
+EFT C 224 af 8. 9. 1990, s. 4.
 
-(4) EFT C 368 af 23. 12. 1994, s. 6.
+EFT C 368 af 23. 12. 1994, s. 6.
 
 Bilag
 
-SAMMENSLUTNINGEN AF INDUSTRI- OG ARBEJDSGIVERORGANISATIONER I EUROPA
-
-DEN EUROPÆISKE FAGLIGE SAMARBEJDSORGANISATION
-
-DET EUROPÆISKE CENTER FOR OFFENTLIG VIRKSOMHED
-
-RAMMEAFTALE OM DELTIDSARBEJDE
+SAMMENSLUTNINGEN AF INDUSTRI- OG ARBEJDSGIVERORGANISATIONER I EUROPA DEN EUROPÆISKE FAGLIGE SAMARBEJDSORGANISATION DET EUROPÆISKE CENTER FOR OFFENTLIG VIRKSOMHED RAMMEAFTALE OM DELTIDSARBEJDE
 
 Indledning
 
@@ -248,7 +244,7 @@ Denne aftale vedrører ansættelsesvilkårene for deltidsansatte, idet det erken
 
 EPS, Unice og CEEP anmoder Kommissionen om at forelægge denne rammeaftale for Rådet, således at Rådet ved en afgørelse gør disse forskrifter bindende i de medlemsstater, der er parter i aftalen om social- og arbejdsmarkedspolitikken, der er knyttet som bilag til protokol (nr. 14) om social- og arbejdsmarkedspolitikken, som igen er knyttet som bilag til traktaten om oprettelse af Det Europæiske Fællesskab.
 
-Parterne i nærværende aftale anmoder Kommissionen om i sit forslag om iværksættelse af aftalen at bede medlemsstaterne sætte de nødvendige love og administrative bestemmelser i kraft for at efterkomme Rådets afgørelse senest to år efter vedtagelsen eller sikre sig(1) , at arbejdsmarkedets parter inden udgangen af denne periode har indført de nødvendige foranstaltninger ad aftalemæssig vej. Medlemsstaterne kan om nødvendigt, for at tage hensyn til særlige vanskeligheder eller til gennemførelse ved kollektiv overenskomst, råde over maksimalt et år yderligere for at efterkomme denne afgørelse.
+Parterne i nærværende aftale anmoder Kommissionen om i sit forslag om iværksættelse af aftalen at bede medlemsstaterne sætte de nødvendige love og administrative bestemmelser i kraft for at efterkomme Rådets afgørelse senest to år efter vedtagelsen eller sikre sig , at arbejdsmarkedets parter inden udgangen af denne periode har indført de nødvendige foranstaltninger ad aftalemæssig vej. Medlemsstaterne kan om nødvendigt, for at tage hensyn til særlige vanskeligheder eller til gennemførelse ved kollektiv overenskomst, råde over maksimalt et år yderligere for at efterkomme denne afgørelse.
 
 Med forbehold af de nationale domstoles og Domstolens beføjelser anmoder parterne til denne aftale om, at ethvert spørgsmål, der vedrører fortolkningen af denne aftale på europæisk plan, i første omgang af Kommissionen henvises til parterne med henblik på afgivelse af en udtalelse herom.
 
@@ -290,27 +286,27 @@ b) at lette udviklingen af deltidsarbejde på frivillig basis og bidrage til en 
 
 I denne aftale forstås ved
 
-»deltidsansat« en ansat, hvis normale arbejdstid, beregnet på en ugentlig basis eller i gennemsnit over en ansættelsesperiode på op til et år, er lavere end den normale arbejdstid for en sammenlignelig fuldtidsansat
+1. »deltidsansat« en ansat, hvis normale arbejdstid, beregnet på en ugentlig basis eller i gennemsnit over en ansættelsesperiode på op til et år, er lavere end den normale arbejdstid for en sammenlignelig fuldtidsansat
 
-»en sammenlignelig fuldtidsansat« en fuldtidsansat i samme virksomhed, der har samme type ansættelseskontrakt eller ansættelsesforhold, og som er involveret i samme eller tilsvarende arbejde/beskæftigelse, idet der tages hensyn til andre forhold, der kan omfatte anciennitet, kvalifikationer/færdigheder. Hvor der ikke findes nogen sammenlignelig fuldtidsansat i samme virksomhed, skal sammenligningen ske ved henvisning til den kollektive aftale, der finder anvendelse, eller hvis en sådan ikke foreligger i overensstemmelse med national lovgivning, kollektive aftaler eller praksis.
+2. »en sammenlignelig fuldtidsansat« en fuldtidsansat i samme virksomhed, der har samme type ansættelseskontrakt eller ansættelsesforhold, og som er involveret i samme eller tilsvarende arbejde/beskæftigelse, idet der tages hensyn til andre forhold, der kan omfatte anciennitet, kvalifikationer/færdigheder. Hvor der ikke findes nogen sammenlignelig fuldtidsansat i samme virksomhed, skal sammenligningen ske ved henvisning til den kollektive aftale, der finder anvendelse, eller hvis en sådan ikke foreligger i overensstemmelse med national lovgivning, kollektive aftaler eller praksis.
 
 § 4: Princippet om ikkeforskelsbehandling
 
-Hvad angår ansættelsesvilkår, må deltidsansatte ikke behandles på en mindre gunstig måde end sammenlignelige fuldtidsansatte, udelukkende fordi de arbejder på deltid, medmindre forskelsbehandlingen er begrundet i objektive forhold.
+1. Hvad angår ansættelsesvilkår, må deltidsansatte ikke behandles på en mindre gunstig måde end sammenlignelige fuldtidsansatte, udelukkende fordi de arbejder på deltid, medmindre forskelsbehandlingen er begrundet i objektive forhold.
 
-Hvor det er hensigtsmæssigt, gælder princippet om pro rata temporis.
+2. Hvor det er hensigtsmæssigt, gælder princippet om pro rata temporis.
 
-Gennemførelsesbestemmelserne til efterlevelse af denne artikel defineres af medlemsstaterne og/eller arbejdsmarkedets parter under hensyntagen til fællesskabsret, national ret, kollektive aftaler og praksis.
+3. Gennemførelsesbestemmelserne til efterlevelse af denne artikel defineres af medlemsstaterne og/eller arbejdsmarkedets parter under hensyntagen til fællesskabsret, national ret, kollektive aftaler og praksis.
 
 4. Når det er berettiget af objektive grunde, kan medlemsstaterne, efter høring af arbejdsmarkedets parter i overensstemmelse med national lovgivning eller praksis, og/eller arbejdsmarkedets parter kan, hvor det er hensigtsmæssigt, gøre adgangen til særlige ansættelsesvilkår afhængig af betingelser såsom anciennitet, arbejdstid eller indtjening. Betingelser i relation til deltidsansattes adgang til særlige ansættelsesvilkår bør tages op til overvejelse med jævne mellemrum under hensyntagen til princippet om ikkeforskelsbehandling som anført i § 4, stk. 1.
 
 § 5: Muligheder for deltidsarbejde
 
-I relation til denne aftales § 1 og princippet om ikkeforskelsbehandling mellem deltids- og fuldtidsansatte
+1. I relation til denne aftales § 1 og princippet om ikkeforskelsbehandling mellem deltids- og fuldtidsansatte
 
 a. bør medlemsstaterne, efter høring af arbejdsmarkedets parter i overensstemmelse med national lovgivning eller praksis, identificere og tage op til overvejelse hindringer af juridisk eller administrativ art, der kan begrænse mulighederne for deltidsarbejde, og, hvor det er hensigtsmæssigt, fjerne disse hindringer
 
-bør arbejdsmarkedets parter, inden for deres kompetenceområde og via de i kollektive aftaler fastsatte procedurer, identificere og tage op til overvejelse hindringer, der kan begrænse mulighederne for deltidsarbejde, og, hvor det er hensigtsmæssigt, fjerne disse hindringer
+b. bør arbejdsmarkedets parter, inden for deres kompetenceområde og via de i kollektive aftaler fastsatte procedurer, identificere og tage op til overvejelse hindringer, der kan begrænse mulighederne for deltidsarbejde, og, hvor det er hensigtsmæssigt, fjerne disse hindringer
 
 2. En arbejdstagers afvisning af at blive overført fra fuldtids- til deltidsarbejde eller omvendt bør ikke i sig selv repræsentere en gyldig begrundelse for afskedigelse, uden at dette berører muligheden for afskedigelse i overensstemmelse med national lovgivning, kollektive aftaler eller praksis af andre årsager såsom dem, der måtte opstå som følge af den berørte virksomheds driftskrav.
 
@@ -328,19 +324,19 @@ e. tilvejebringelse af hensigtsmæssig information om deltidsarbejde i virksomhe
 
 § 6: Afsluttende bestemmelser
 
-Medlemsstaterne og/eller arbejdsmarkedets parter kan opretholde eller indføre bestemmelser, der er gunstigere end dem, der er fastsat i denne aftale.
+1. Medlemsstaterne og/eller arbejdsmarkedets parter kan opretholde eller indføre bestemmelser, der er gunstigere end dem, der er fastsat i denne aftale.
 
-Gennemførelsen af bestemmelserne i denne aftale udgør ikke en gyldig begrundelse for at sænke det generelle niveau for beskyttelse af arbejdstagerne på det område, der dækkes af denne aftale. Dette berører ikke medlemsstaternes og/eller arbejdsmarkedets parters ret til under hensyn til udviklingen at udarbejde afvigende love og administrative eller aftaleretlige bestemmelser og berører ikke anvendelsen af § 5, stk. 1, så længe princippet om ikkeforskelsbehandling som udtrykt i § 4, stk. 1, efterleves.
+2. Gennemførelsen af bestemmelserne i denne aftale udgør ikke en gyldig begrundelse for at sænke det generelle niveau for beskyttelse af arbejdstagerne på det område, der dækkes af denne aftale. Dette berører ikke medlemsstaternes og/eller arbejdsmarkedets parters ret til under hensyn til udviklingen at udarbejde afvigende love og administrative eller aftaleretlige bestemmelser og berører ikke anvendelsen af § 5, stk. 1, så længe princippet om ikkeforskelsbehandling som udtrykt i § 4, stk. 1, efterleves.
 
-Denne aftale berører ikke arbejdsmarkedets parters ret til på det relevante plan, herunder på europæisk plan, at indgå aftaler om tilpasning og/eller supplering af bestemmelserne heri på en måde, der tager højde for de berørte parters specifikke behov.
+3. Denne aftale berører ikke arbejdsmarkedets parters ret til på det relevante plan, herunder på europæisk plan, at indgå aftaler om tilpasning og/eller supplering af bestemmelserne heri på en måde, der tager højde for de berørte parters specifikke behov.
 
-Denne aftale gælder med forbehold for mere specifikke fællesskabsbestemmelser og i særdeleshed fællesskabsbestemmelser vedrørende ligebehandling af eller lige muligheder for mænd og kvinder.
+4. Denne aftale gælder med forbehold for mere specifikke fællesskabsbestemmelser og i særdeleshed fællesskabsbestemmelser vedrørende ligebehandling af eller lige muligheder for mænd og kvinder.
 
-Forebyggelse og behandling af tvister og klager som følge af anvendelsen af denne aftale sker i overensstemmelse med national ret, kollektive aftaler og gældende praksis.
+5. Forebyggelse og behandling af tvister og klager som følge af anvendelsen af denne aftale sker i overensstemmelse med national ret, kollektive aftaler og gældende praksis.
 
 6. De underskrivende parter tager denne aftale op til revision fem år efter datoen for Rådets afgørelse, såfremt en af aftalens parter anmoder herom.
 
-(1) Jf. artikel 2, stk. 4, i aftalen om social- og arbejdsmarkedspolitikken i traktaten om oprettelse af Det Europæiske Fællesskab.
+Jf. artikel 2, stk. 4, i aftalen om social- og arbejdsmarkedspolitikken i traktaten om oprettelse af Det Europæiske Fællesskab.
 
 Bilag C
 

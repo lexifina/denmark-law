@@ -106,11 +106,11 @@ Selv om aftalen er opsagt, er parterne dog forpligtet til at overholde dens best
 
 København den 24. juni 1999
 
-For Kommunernes Landsforening
+For Kommunernes Landsforening | For Kommunale Tjenestemænd og Overenskomstansatte
 
-Ole Andersen
+Ole Andersen | Poul Winckler
 
-Kent Lassen
+Kent Lassen | Signe F. Nielsen
 
 For Amtsrådsforeningen
 
@@ -129,12 +129,6 @@ For Frederiksberg Kommune
 Lars Due Østerbye
 
 Allan Graversen
-
-For Kommunale Tjenestemænd og Overenskomstansatte
-
-Poul Winckler
-
-Signe F. Nielsen
 
 Bilag D
 
@@ -289,3 +283,5 @@ For Forhandlingsfællesskabet for Hovedstadens Sygehusfællesskab:
 Poul Winckler / Signe F. Nielsen
 
 Loven indeholder bestemmelser, der gennemfører Rådets direktiv 97/81/EF af 15. december 1997 om rammeaftalen vedrørende deltidsarbejde, der er indgået af Unice, CEEP og EFS, jf. EF-Tidende 1998 nr. L 14, s. 9.
+
+Lov nr. 443 af 7. juni 2002 blev bekendtgjort i Lovtidende den 8. juni 2002.
