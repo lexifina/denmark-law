@@ -1,6 +1,6 @@
-Lov om vurdering af udenlandske uddannelseskvalifikationer
+Bekendtgørelse af lov om vurdering af udenlandske uddannelseskvalifikationer m.v.
 
-VI MARGRETHE DEN ANDEN, af Guds Nåde Danmarks Dronning, gør vitterligt: Folketinget har vedtaget og Vi ved Vort samtykke stadfæstet følgende lov:
+Herved bekendtgøres lov nr. 344 af 16. maj 2001 om vurdering af udenlandske uddannelseskvalifikationer med de ændringer, der følger af lov nr. 415 af 6. juni 2002.
 
 ## Kapitel 1
 

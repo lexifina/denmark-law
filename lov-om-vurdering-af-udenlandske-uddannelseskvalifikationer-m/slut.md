@@ -1,7 +1,9 @@
-Givet på Christiansborg Slot, den 16. maj 2001
+Undervisningsministeriet, den 24. januar 2003
 
-Under Vor Kongelige Hånd og Segl
+Ulla Tørnæs
 
-Margrethe R.
+/Morten Overgaard
 
-/Margrethe Vestager
+§ 8, stk. 4, indeholder ikke et nr. 8.
+
+Loven indfører nye §§ 2 a-2 b og et nyt kapitel 3 a. Loven ophæver § 5 og § 13. Loven ændrer lovens titel, overskriften til kapitel 2, § 2, § 3, § 4, § 6, § 8, § 9, § 10 og § 11.
