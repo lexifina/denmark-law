@@ -1,5 +1,5 @@
-Indenrigsministeriet, den 13. oktober 1999
+Indenrigs- og Sundhedsministeriet, den 24. marts 2003
 
-Thorkild Simonsen
+Lars Løkke Rasmussen
 
 /Niels Jørgen Mau
