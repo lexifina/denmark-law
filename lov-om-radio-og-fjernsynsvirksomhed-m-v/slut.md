@@ -1,7 +1,5 @@
-Givet på Christiansborg Slot, den 17. december 2002
+Kulturministeriet, den 10. juni 2004
 
-Under Vor Kongelige Hånd og Segl
+Brian Mikkelsen
 
-Margrethe R.
-
-/Brian Mikkelsen
+/Lars M. Banke

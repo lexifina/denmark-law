@@ -1,0 +1,1 @@
+§ 38 b. Kulturministeren kan fastsætte regler om programvirksomheden, herunder regler om, i hvilket omfang programmer af europæisk oprindelse skal indgå heri, og regler med henblik på at tilgodese hensyn til børn og unge.
