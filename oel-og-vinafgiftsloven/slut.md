@@ -1,7 +1,7 @@
-Skatteministeriet, den 26. maj 1997
+Skatteministeriet, den 3. august 1998
 
-Carsten Koch
+Ole Stavad
 
-/ Carsten Vesterø Jensen
+/John Fuhrmann
 
-(* 1) Lov nr. 275 af 15. april 1997 (forhøjelse af afgiften af øl, vin og frugtvin m.m.) trådte i kraft den 1. maj 1997.
+Lov nr. 1098 af 29. december 1997 (Ændret klagestruktur) trådte i kraft den 1. april 1998.
