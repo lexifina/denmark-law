@@ -1,7 +1,7 @@
-Forsvarsministeriet, den 7. februar 1994
+Forsvarsministeriet, den 6. juli 1998
 
 Hans Hækkerup
 
-/ Else K. Sørensen
+/ Francis Zachariae
 
 Ingen
