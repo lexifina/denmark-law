@@ -6,7 +6,7 @@ b) befordring mellem arbejdspladser og
 
 c) befordring inden for samme arbejdsplads.
 
-Stk. 2. Når der er forløbet 60 på hinanden følgende arbejdsdage, siden den pågældende sidst har været på en arbejdsplads som nævnt i stk. 1, litra a, påbegyndes en ny 60-dages-periode.
+Stk. 2. Når der er forløbet 60 på hinanden følgende arbejdsdage, siden den pågældende sidst har været på en arbejdsplads som nævnt i stk. 1, litra a, påbegyndes en ny 60‑dages‑periode.
 
 Stk. 3. Befordringsgodtgørelse medregnes ikke ved indkomstopgørelsen, såfremt godtgørelsen ikke overstiger satser, som fastsættes af Ligningsrådet. Udbetaler arbejdsgiveren ikke hel eller delvis skattefri godtgørelse, kan fradrag for befordring foretages efter § 9 C. Uanset 2. pkt. kan lønmodtagere fradrage befordringsudgifter som nævnt i stk. 1, hvis de i forbindelse med kundeopsøgende aktiviteter afholder udgifter til befordring, der vedrører flere arbejdsgivere på én gang. Fradrag efter 3. pkt. er betinget af, at eventuelle befordringsgodtgørelser efter 1. pkt. medregnes ved indkomstopgørelsen.
 

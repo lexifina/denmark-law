@@ -1,6 +1,6 @@
 § 7 O. Skattepligtige personer skal ved opgørelsen af den skattepligtige indkomst medregne følgende indkomster efter reglerne i stk. 2:
 
-1) Gave- og legatbeløb, der er ydet som et engangsbeløb af offentlige midler, legater, kulturelle fonds og lignende her i landet eller i udlandet, når gaven eller legatet udelukkende har karakter af en anerkendelse af modtagerens fortjenester, jf. dog § 7, litra v.
+1) Gave‑ og legatbeløb, der er ydet som et engangsbeløb af offentlige midler, legater, kulturelle fonds og lignende her i landet eller i udlandet, når gaven eller legatet udelukkende har karakter af en anerkendelse af modtagerens fortjenester, jf. dog § 7, litra v.
 
 2) Beløb efter § 16 G, der ved en pensionsordnings opløsning eller bortfald tilfalder arbejdsgiveren, når denne i sin skattepligtige indkomst har fradraget de af arbejdsgiveren præsterede tilskud til ordningen, medmindre beløbet beskattes efter pensionsbeskatningslovens § 24.
 

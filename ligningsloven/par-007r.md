@@ -4,7 +4,7 @@ Stk. 2. Der skal ske genbeskatning efter stk. 3 i følgende tilfælde:
 
 1) Ved udbetaling af indeståendet, uden at de frigivne beløb skal anvendes til formål som nævnt i § 2 i lov om boligopsparing.
 
-2) Efter udløbet af 10-års-perioden, jf. § 4, stk. 2, i lov om boligopsparing.
+2) Efter udløbet af 10‑års‑perioden, jf. § 4, stk. 2, i lov om boligopsparing.
 
 3) Ved opsparerens konkurs, jf. § 5, stk. 3, i lov om boligopsparing.
 

@@ -10,4 +10,4 @@ Stk. 5. Stk. 1-4 finder tilsvarende anvendelse på udgifter til plantning på le
 
 Stk. 6. Udgifter, der er fratrukket efter stk. 1-4, medregnes ikke til anskaffelsessummen ved opgørelsen af skattepligtig fortjeneste eller tab ved afståelse af fast ejendom.
 
-Stk. 7. Uanset stk. 1-3 kan udgifter til anskaffelse af maskiner, inventar og lignende driftsmidler og fast ejendom kun fradrages eller afskrives efter lov om skattemæssige afskrivninger m.v.
+Stk. 7. Uanset stk. 1‑3 kan udgifter til anskaffelse af maskiner, inventar og lignende driftsmidler og fast ejendom kun fradrages eller afskrives efter lov om skattemæssige afskrivninger m.v.

@@ -8,6 +8,6 @@ Stk. 3. Afgiftssatsen fastsættes en gang årligt og beregnes som halvdelen af m
 
 Stk. 4. Reglerne i opkrævningsloven om opkrævning, rente, gebyrer, kontrol, inddrivelse og straf m.v. finder med de i stk. 5 nævnte undtagelser anvendelse.
 
-Stk. 5. Instituttets årsregnskab for regnskabsåret forud for afgiftsåret og instituttets specifikation af hensættelseskonto for udlån og garantier for regnskabsåret forud for afgiftsåret samt angivelse af afgiftsgrundlaget og afgiftens størrelse skal indsendes til de statslige told- og skattemyndigheder senest den 1. juli i afgiftsåret. Afgiften forfalder til betaling den 1. juli i afgiftsåret med seneste rettige betalingsdag den 15. i forfaldsmåneden.
+Stk. 5. Instituttets årsregnskab for regnskabsåret forud for afgiftsåret og instituttets specifikation af hensættelseskonto for udlån og garantier for regnskabsåret forud for afgiftsåret samt angivelse af afgiftsgrundlaget og afgiftens størrelse skal indsendes til de statslige told- og skattemyndigheder senest den 1. juli i afgiftsåret. Afgiften forfalder til betaling den 1. juli i afgiftsåret med seneste rettidig betalingsdag den 15. i forfaldsmåneden.
 
 Stk. 6. De statslige told- og skattemyndigheder skal genoptage en afgiftsberegning, når den afgiftspligtige fremlægger nye oplysninger, som kan medføre en ændret afgiftsberegning.
