@@ -1,3 +1,1 @@
-§ 25 b. Reglerne om eftergivelse og henstand i merværdiafgiftslovens § 39 d finder tilsvarende anvendelse på afgift, renter, gebyrer og administrative bøder efter denne lov. Reglerne finder ligeledes anvendelse på beløb, som personer er pligtige at betale som erstatning for selskabers manglende betaling af afgiften.3)
-
-Overgangs- og ikrafttrædelsesbestemmelser
+§ 25 b. (* 5) Reglerne om eftergivelse og henstand i merværdiafgiftslovens § 83 finder tilsvarende anvendelse på afgift, renter, gebyrer og administrative bøder efter denne lov. Reglerne finder ligeledes anvendelse på beløb, som personer er pligtige at betale som erstatning for selskabers manglende betaling af afgiften.
