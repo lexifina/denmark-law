@@ -1,4 +1,4 @@
-Lov nr. 380 af 6. juni 1991, der vedrører § 31a, indeholder i §33 følgende ikrafttrædelsesbestemmelse:
+Lov nr. 380 af 6. juni 1991, der vedrører § 31a, indeholder i § 33 følgende ikrafttrædelsesbestemmelse:
 
 § 33
 
@@ -47,3 +47,17 @@ Lov nr. 334 af 16. maj 2001, som vedrører §§ 2, 6, 7, 8, 9 og 23, indeholder 
 § 2
 
 Ministeren for fødevarer, landbrug og fiskeri fastsætter tidspunktet for lovens ikrafttræden.
+
+Lov nr. 967 af 4. december 2002, som vedrører §§ 2, 6 og 9 indeholder i § 8 følgende ikrafttrædelsesbestemmelse:
+
+§ 8
+
+Loven træder i kraft den 1. januar 2003.
+
+Lov nr. 1158 af 19. december 2003, som vedrører §§ 6, 7, 8, 9, 22a og 23, indeholder i § 3 følgende ikrafttrædelsesbestemmelse:
+
+§ 3
+
+Stk. 1. Loven træder i kraft den 1. januar 2004.
+
+Stk. 2. De eksisterende fondsbestyrelser fortsætter, indtil nye bestyrelser for de enkelte fonde er udpeget.
