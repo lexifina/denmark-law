@@ -1,6 +1,6 @@
 § 5 a. For følgende køretøjer udgør afgiften 0 kr. af de første 12.100 kr. af den afgiftspligtige værdi og 60 pct. af resten:
 
-1) køretøjer med en tilladt egenvægt over 2 t, som utvivlsomt er konstrueret og indrettet til ophold og beboelse, herunder med adgang til opredning af egentlige sovepladser for mindst 4 personer,
+1) køretøjer med en egenvægt over 2 t, som utvivlsomt er konstrueret og indrettet til ophold og beboelse, herunder med adgang til opredning af egentlige sovepladser for mindst 4 personer,
 
 2) køretøjer, der utvivlsomt er konstrueret og indrettet til befordring af mere end 9 personer føreren indbefattet og har et til køretøjet svarende antal passagersæder og ikke er indrettet til andet formål end personbefordring (busser).
 
