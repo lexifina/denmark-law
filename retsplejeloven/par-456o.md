@@ -1,5 +1,5 @@
-§ 456 o. I faderskabssager foregår retsmøderne for lukkede døre. En medarbejder fra kommunen eller amtskommunen kan dog møde i retten med moderen, hvis denne ønsker det.
+§ 456 o. Anke sker ved meddelelse til byretten. Meddelelse kan ske mundtligt til retsbogen. Retten sender meddelelsen eller i de i 2. pkt. nævnte tilfælde en udskrift af retsbogen og sagens akter til landsretten.
 
-Stk. 2. Ved offentlig gengivelse af domme i faderskabssager må der ikke ske offentliggørelse af navn, stilling eller bopæl for nogen af de i dommen nævnte personer eller på anden måde offentliggørelse af de pågældendes identitet. Overtrædelse straffes med bøde eller under skærpende omstændigheder med fængsel indtil 6 måneder.
+Stk. 2. Reglerne i dette kapitel finder med de fornødne lempelser anvendelse under anke.
 
-Stk. 3. Ved forkyndelse af stævninger og domme i faderskabssager i henhold til § 159 optages moderens og barnets navn kun i bekendtgørelsen i Statstidende, såfremt retten i særlige tilfælde træffer bestemmelse herom.
+Stk. 3. Uanset ankefrister kan landsretten under anken inddrage enhver, der for byretten har været inddraget som part. Opstår der spørgsmål om inddragelse af andre mænd, kan sagen hjemvises til fornyet behandling ved byretten.

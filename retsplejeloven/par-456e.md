@@ -1,3 +1,9 @@
-§ 456 e. Retten affatter stævning i sagen og drager omsorg for stævningens forkyndelse. Såfremt der under sagens gang træffes bestemmelse om inddragelse af nye personer som sagsøgte, foretager retten ligeledes det i så henseende fornødne. Stævning kan undlades, når den pågældende møder for retten efter tilsigelse fra denne.
+§ 456 e. Sagens parter er
 
-Stk. 2. Politiet er på begæring pligtigt at yde retten bistand til sagens oplysning, herunder til fornøden eftersøgning af den opgivne fader.
+1) barnet eller dets dødsbo,
+
+2) moderen eller hendes dødsbo og
+
+3) den eller de mænd eller dødsboer, som retten efter børnelovens § 17 skal inddrage.
+
+Stk. 2. Er en part umyndig, optræder værgen på partens vegne i sagen. Parterne kan i øvrigt optræde på egen hånd uden hensyn til værgemål. Finder retten det påkrævet, at der for en part beskikkes en særlig værge, jf. værgemålslovens §§ 47-49, kan denne beskikkes af retten.

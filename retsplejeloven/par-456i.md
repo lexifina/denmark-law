@@ -1,5 +1,5 @@
-§ 456 i. Den, der afhøres som sagsøgt eller som vidne i en faderskabssag, er pligtig at afgive forklaring om, hvorvidt han har haft samleje med moderen inden for avlingstiden.
+§ 456 i. Moderen har pligt til at møde i retten og afgive forklaring om, hvem der er eller kan være barnets far, jf. børnelovens § 16. Reglerne i § 171, stk. 2, nr. 1, og §§ 177-180 finder tilsvarende anvendelse.
 
-Stk. 2. Moderen er forpligtet til at afgive forklaring om, hvem der har haft samleje med hende inden for avlingstiden.
+Stk. 2. Den eller de mænd, der er parter i sagen, har pligt til at møde i retten og dér afgive forklaring om, hvorvidt de har haft seksuelt forhold til moderen i den periode, hvor hun blev gravid. Reglerne i § 171, stk. 2, nr. 1, og §§ 177-180 finder tilsvarende anvendelse.
 
 Stk. 3. Der kan tillægges en part rejsegodtgørelse efter reglerne i § 188.
