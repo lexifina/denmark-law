@@ -1,0 +1,1 @@
+§ 559 b. § 559 a finder tilsvarende anvendelse ved udlæg i aktier eller anparter i et boligaktieselskab eller et boliganpartsselskab omfattet af kapitel III i lov om andelsboligforeninger og andre boligfællesskaber.
