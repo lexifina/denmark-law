@@ -1,7 +1,7 @@
-Industriministeriet, den 3. juni 1993
+Erhvervsministeriet, den 23. december 1994
 
-Jan Trøjborg
+Mimi Jakobsen
 
-/ Hendrik Boesgaard
+/ Gurli Martinussen
 
 Ingen
