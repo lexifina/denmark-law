@@ -1,4 +1,4 @@
-Boligministeriet, den 19. juni 1997
+Boligministeriet, den 26. februar 1998
 
 Ole Løvig Simonsen
 
@@ -16,4 +16,6 @@ Ole Løvig Simonsen
 
 (* 6) Bekendtgørelsen fandt sted i Lovtidende den 18. maj 1995.
 
-(* 7) Bekendtgørelsen fandt sted i Lovtidende den 3. april 1997.
+(* 7) Bekendtgørelsen fandt sted i Lovtidende den 3. april 1997
+
+(* 8) Stk. 2, 3 og 4 vedrører ikke byggeri omfattet af lov om boliger for ældre og personer med handicap.

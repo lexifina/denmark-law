@@ -6,7 +6,7 @@ Stk. 2. (Ophævet).
 
 Stk. 3. Amtskommunen skal yde et beløb til dækning af det i § 16, stk. 1, nævnte indskud til
 
-1) beboere i en institution opført efter bistandslovens § 112, der nedlægges eller ombygge til ældreboliger, når beboerne genhuses i ældreboliger, og
+1) beboere i en institution opført efter bistandslovens § 112, der nedlægges eller ombygges til ældreboliger, når beboerne genhuses i ældreboliger, og
 
 2) beboere, der visiteres fra en institution opført efter bistandslovens § 112 til ældreboliger.
 

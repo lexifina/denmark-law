@@ -1,4 +1,4 @@
-Lov nr. 380 af 20 maj 1992 indeholder følgende ikrafttrædelsesbestemmelse:
+Lov nr. 380 af 20. maj 1992 indeholder følgende ikrafttrædelsesbestemmelse:
 
 § 4
 
@@ -38,7 +38,9 @@ Stk. 3. § 1, nr. 3, har virkning for samtlige almennyttige boligselskabers akti
 
 Stk. 4. Uanset stk. 3 kan et boligselskab, som inden den 17. november 1994 har erhvervet aktier, anparter, garantibeviser, andele eller lignende i danske selskaber eller virksomheder eller har stiftet private selskaber eller virksomheder, der udelukkende er beskæftiget i Danmark, opretholde investeringen eller selskabet eller virksomheden i op til 5 år fra lovens ikrafttræden. Hvis boligselskabet ikke inden udløbet af denne dato afhænder investeringen eller afhænder eller opløser det private selskab eller virksomheden, finder bestemmelserne i § 18, stk. 2, 5 og 6, i lov om boligbyggeri tilsvarende anvendelse. Bestemmelsen i 1. pkt. gælder ikke for tilladte aktiviteter, jf. stk. 3.
 
-Stk. 5. Påviser boligselskabet, at den i stk. 4 nævnte afhændelse eller opløsning ikke kan finde sted, uden at selskabet påføres et økonomisk tab, kan kommunalbestyrelsen meddele dispensation herfra. §§ 5 og 6 i lov nr. 306 af 17. maj 1995 er sålydende:
+Stk. 5. Påviser boligselskabet, at den i stk. 4 nævnte afhændelse eller opløsning ikke kan finde sted, uden at selskabet påføres et økonomisk tab, kan kommunalbestyrelsen meddele dispensation herfra.
+
+§§ 5 og 6 i lov nr. 306 af 17. maj 1995 er sålydende:
 
 § 5
 
@@ -91,3 +93,23 @@ Stk. 1. Loven træder i kraft den 1. januar 1997, dog træder § 99 i kraft den 
 Stk. 1. Loven træder i kraft dagen efter bekendtgørelsen i Lovtidende, jf. dog stk. 2 (* 7).
 
 Stk. 2. Bestemmelserne i lovens § 187, stk. 1, 3 og 4, samt § 188 som affattet henholdsvis ændret ved denne lovs § 1, nr. 25-29, har virkning fra den 1. januar 1997.
+
+§§ 42 og 43 i lov nr. 980 af 17. december 1997 er sålydende:
+
+§ 42
+
+Stk. 1. Loven træder i kraft den 1. juli 1998, jf. dog stk. 2, 3 og 4. (* 8)
+
+Stk. 2. § 15 har virkning fra og med opgørelsen af kommunens eller amtskommunens folketal pr. 1. januar 1999.
+
+Stk. 3. § 32 træder i kraft den 29. juni 1998.
+
+Stk. 4. § 25, nr. 1, har virkning for indstillinger til socialministeren for 2000 og frem.
+
+Stk. 5. Den 1. juli 1998 ophæves lov om social bistand, jf. lovbekendtgørelse nr. 110 af 26. februar 1996, lov om kommunal aktivering, jf. lovbekendtgørelse nr. 36 af 26. januar 1996, lov om styrelse af sociale og visse sundhedsmæssige anliggender, jf. lovbekendtgørelse nr. 552 af 10. juli 1991, og lov om Den Sociale Ankestyrelse, jf. lovbekendtgørelse nr. 530 af 13. august 1986.
+
+§ 43
+
+Stk. 1. Loven gælder ikke for Færøerne og Grønland.
+
+Stk. 2. § 14 kan dog ved kongelig anordning helt eller delvis sættes i kraft for disse landsdele med de afvigelser, som de særlige færøske eller grønlandske forhold tilsiger. § 35 kan ved kongelig anordning sættes i kraft i Grønland med de ændringer, som følger af de særlige grønlandske forhold.
