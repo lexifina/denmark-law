@@ -1,6 +1,8 @@
 Lov nr. 277 af 9. juni 1982 (Advokater m.v. Tilsyn med eksekutorer) indeholder følgende ikrafttrædelsesbestemmelser:
 
-§ 3. (Udelades)
+§ 3
+
+(Udelades)
 
 § 4
 
@@ -88,36 +90,70 @@ Stk. 1. Ved fastsættelse af forvandlingsstraf for bøde vedrørende en lovovert
 
 Stk. 2. Loven har ikke virkning for hæftestraf eller forvandlingsstraf af hæfte, som er idømt eller fastsat før lovens ikrafttræden.
 
-Lov nr. 106 af 13. februar 2001 (Søforklaring og erstatning i forbindelse med transport af olie til søs) indeholder følgende ikrafttrædelsesbestemmelse:
+Lov nr. 461 af 7. juni 2001 (Ændringer som følge af børneloven m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
 
-§ 3
+§ 10
 
-Loven træder i kraft den 1. juli 2001.
+Stk. 1. Lovens § 2, nr. 3 og 4, og §§ 3 og 9 træder i kraft den 1. januar 2002. Lovens § 1, § 2, nr. 1 og 2, og §§ 4-8 træder i kraft den 1. juli 2002.
 
-Lov nr. 216 af 28. marts 2001 (Bevissikring ved krænkelse af immaterialrettigheder m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
+Stk. 2. § 1 har virkning for sager om faderskab til børn, der fødes den 1. juli 2002 eller senere, samt for sager, der den 1. juli 2002 eller senere genoptages efter børnelovens § 22.
 
-§ 3
+Lov nr. 145 af 25. marts 2002 om ændring af forskellige love som følge af sammenlægningen af de bornholmske kommuner indeholder følgende ikrafttrædelsesbestemmelser:
 
-Stk. 1. Loven træder i kraft den 1. april 2001. Justitsministeren fastsætter dog tidspunktet for ikrafttrædelsen af § 653, stk. 2, nr. 6, som indsat ved § 1, nr. 1.
+§ 78
 
-Stk. 2. (Udelades).
+Stk. 1. Loven træder i kraft den 1. januar 2003, jf. dog § 79, stk. 1.
 
-Lov nr. 280 af 25. april 2001 (Gennemførelse af EU-rammeafgørelse om styrkelse af beskyttelsen mod falskmøntneri, 1. tillægsprotokol til den europæiske konvention om overførelse af domfældte og FN-konventionen til bekæmpelse af terrorbombninger samt ændringer som følge af afskaffelsen af hæftestraffen m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
+Stk. 2. (Udelades)
 
-§ 11
+§ 79
 
-Stk. 1. Loven træder i kraft den 1. maj 2001.
+(Udelades)
 
-Stk. 2. (Udelades).
+Lov nr. 256 af 8. maj 2002 (Udeblivelsesdomme i straffesager, pressens adgang til domsudskrifter m.v. og politiklagenævnsmedlemmers sagsbehandling) indeholder følgende ikrafttrædelsesbestemmelse:
 
-Lov nr. 465 af 7. juni 2001 (Hæleri og anden efterfølgende medvirken samt IT-efterforskning) indeholder følgende ikrafttrædelsesbestemmelse:
+§ 2
 
-§ 3
+Stk. 1. Loven træder i kraft den 1. juli 2002.
 
-Loven træder i kraft den 1. juli 2001.
+Stk. 2. Lovens § 1, nr. 5, 6 og 9-14, finder anvendelse på sager, hvor der rejses tiltale ved 1. instans efter lovens ikrafttræden.
 
-Lov nr. 468 af 7. juni 2001 (Forvoldelse af fare for smitte med en livstruende og uhelbredelig sygdom) indeholder følgende ikrafttrædelsesbestemmelse:
+Lov nr. 258 af 8. maj 2002 (Gennemførelse af EU-retshjælpskonventionen, den 2. tillægsprotokol til Europarådets retshjælpskonvention og EU-rammeafgørelse om fælles efterforskningshold) indeholder følgende ikrafttrædelsesbestemmelse:
 
-§ 3
+§ 6
 
-Loven træder i kraft den 1. juli 2001.
+Loven træder i kraft den 1. juli 2002.
+
+Lov nr. 378 af 6. juni 2002 (Gennemførelse af FN-konventionen til bekæmpelse af finansiering af terrorisme, gennemførelse af FNs Sikkerhedsråds resolution nr. 1373 (2001) samt øvrige initiativer til bekæmpelse af terrorisme m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 7
+
+Stk. 1. Loven træder i kraft dagen efter bekendtgørelsen i Lovtidende, jf. dog stk. 2 og 3. § 5, nr. 1-6, finder anvendelse på anmodninger om udlevering, der fremsættes efter lovens ikrafttræden.
+
+Stk. 2. (Udelades)
+
+Stk. 3. Justitsministeren fastsætter tidspunktet for ikrafttrædelsen af retsplejelovens § 786, stk. 4 og 6, som affattet ved denne lovs § 2, nr. 3.
+
+Stk. 4. (Udelades)
+
+Lov nr. 380 af 6. juni 2002 (Skærpelse af straffen for voldtægt, vold, uagtsomt manddrab, uagtsom betydelig legemsbeskadigelse, forsætlig fareforvoldelse, biltyveri, grov forstyrrelse af ro og orden, menneskesmugling og menneskehandel m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 4
+
+Loven træder i kraft dagen efter bekendtgørelsen i Lovtidende.
+
+Lov nr. 381 af 6. juni 2002 (Forbedret vidnebeskyttelse) indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 2
+
+Stk. 1. Loven træder i kraft dagen efter bekendtgørelsen i Lovtidende.
+
+Stk. 2. Retsplejelovens § 748, stk. 5, § 835, stk. 2, §§ 841 og 848 som ændret henholdsvis affattet ved denne lovs § 1 finder anvendelse i sager, som ikke er endeligt afgjort ved lovens ikrafttræden.
+
+Lov nr. 382 af 6. juni 2002 (Fangeflugt og begrænsning i indsattes adgang til aktindsigt m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 4
+
+Stk. 1. Loven træder i kraft dagen efter bekendtgørelsen i Lovtidende.
+
+Stk. 2. (Udelades)
