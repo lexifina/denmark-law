@@ -1,0 +1,1 @@
+§ 14 a. Politiet yder de statslige told- og skattemyndigheder bistand til gennemførelsen af kontrollen efter § 14. Justitsministeren kan efter forhandling med skatteministeren fastsætte nærmere regler herom.
