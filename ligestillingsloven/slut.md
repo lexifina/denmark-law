@@ -1,5 +1,5 @@
-Socialministeriet, den 2. juli 2002
+Socialministeriet, den 19. december 2004
 
-Henriette Kjær
+P.M.V. Thomas Børner
 
 /Vibeke Abel
