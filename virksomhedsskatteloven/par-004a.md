@@ -4,4 +4,6 @@ Stk. 2. På det tidspunkt, hvor anvendelsen af virksomhedsordningen påbegyndes,
 
 Stk. 3. Beløb eller værdier, der overføres fra mellemregningskontoen til privatøkonomien, anses ikke for en overførsel efter § 5 og medregnes ikke ved opgørelsen af den skattepligtige indkomst. Såfremt indestående på mellemregningskontoen på noget tidspunkt bliver negativ, skal beløbet udlignes ved en overførsel efter § 5.
 
-Stk. 4. Driftsomkostninger, som den skattepligtige har afholdt af private midler, bogføres på mellemregningskontoen.
+Stk. 4. (* 6) Driftsomkostninger, som den skattepligtige har afholdt af private midler, kan bogføres på mellemregningskontoen.
+
+Stk. 5. (* 6) Beløb, der overføres til beskatning hos en medarbejdende ægtefælle, jf. § 12, kan hensættes på mellemregningskontoen med virkning fra indkomstårets begyndelse.
