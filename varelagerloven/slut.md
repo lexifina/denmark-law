@@ -1,7 +1,7 @@
-Ministeriet for Skatter og Afgifter, den 21. august 1987
+Skatteministeriet, den 22. oktober 1992
 
-ISI FOIGHEL
+Anders Fogh Rasmussen
 
-/Hanne Søgaard Hansen
+/ K. Aasberg Karlsen
 
 Ingen
