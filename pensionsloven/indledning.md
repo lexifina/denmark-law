@@ -1,5 +1,3 @@
 Bekendtgørelse af lov om social pension
 
-(Pensionsloven)
-
-Herved bekendtgøres lov om social pension, jf. lovbekendtgørelse nr. 624 af 28. september 1987 med de ændringer, der følger af lov nr. 868 af 23. december 1987, lov nr. 869 af 23. december 1987, § 1i lov nr. 128 af 12. marts 1988, § 1 i lov nr. 353 af 1. juli 1988,lov nr. 155 af 15. marts 1989, § 9 i lov nr. 196 af 29. marts 1989, § 1 i lov nr. 375 af 7. juni 1989 og § 2 i lov nr. 389 af 7. juni 1989. Den bekendtgjorte lovtekst gælder først i sin helhed fra 1. januar 1990, jf. § 23 i lov nr. 389 af 7. juni 1989.
+Herved bekendtgøres lov om social pension, jf. lovbekendtgørelse nr. 497 af 4. juli 1989 med de ændringer, der følger af § 1 i lov nr. 386 af 13. juni 1990, § 2 i lov nr. 387 af 13. juni 1990, § 1 i lov nr. 585 af 20. august 1990, § 6 i lov nr. 794 af 30. november 1990, § 30 i lov nr. 380 af 6. juni 1991, § 3 i lov nr. 399 af 6. juni 1991, § 2 i lov nr. 400 af 6. juni 1991, § 2 i lov nr. 191 af 23. marts 1992, § 1 i lov nr. 238 af 8. april 1992 og § 1 i lov nr. 259 af 17. april 1992. Den bekendtgjorte lovtekst gælder i sin helhed fra 1. januar 1993, jf. § 3 i lov nr. 238 af 8. april 1992.
