@@ -1,0 +1,1 @@
+§ 13 A. Dødsboer, for hvilke skifteretten har truffet beslutning om insolvensbehandling, jf. lov om skifte af dødsboer § 69, stk. 1, er ikke skattepligtige af konkursindkommsten, medmindre der er truffet beslutning om skattepligt efter kapitel 4.
