@@ -6,7 +6,7 @@ Stk. 3. Kommuner, amtskommuner eller andre kan maksimalt få refunderet 25 pct. 
 
 Stk. 4. Det er en betingelse for at opnå refusion efter stk. 1, at musikskolelevernes betaling for undervisningen ikke overstiger 1/3 af bruttoudgiften ved skolens drift.
 
-Stk. 5. Statens Musikråd udbetaler en foreløbig refusion i henhold til § 3 c, stk. 1. Den beregnes på grundlag af budgetter, der er godkendt af vedkommende kommunalbestyrelse eller amtsråd. Refusionen udbetales ratevis forud.
+Stk. 5. Staten udbetaler en foreløbig refusion i henhold til § 3 c, stk. 1. Den beregnes på grundlag af budgetter, der er godkendt af vedkommende kommunalbestyrelse eller amtsråd. Refusionen udbetales ratevis forud.
 
 Stk. 6. Endelig beregning af refusionen i henhold til § 3 c, stk. 3, foretages på grundlag af regnskaber. Regnskaberne skal være godkendt af vedkommende kommunalbestyrelse eller amtsråd og skal indeholde dokumentation for den samlede elevbetaling. Den endelige refusion kan dog ikke overstige den foreløbigt udbetalte refusion.
 
