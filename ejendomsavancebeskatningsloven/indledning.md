@@ -2,4 +2,4 @@ Bekendtgørelse af lov om beskatning af fortjeneste ved afståelse af fast ejend
 
 (Ejendomsavancebeskatningsloven)
 
-Herved bekendtgøres lov om beskatning af fortjeneste ved afståelse af fast ejendom, jf. lovbekendtgørelse nr. 855 af 11. september 2000, med de ændringer der følger af § 2 i lov nr. 1287 af 20. december 2000 og § 2 i lov nr. 483 af 7. juni 2001.
+Herved bekendtgøres lov om beskatning af fortjeneste ved afståelse af fast ejendom, jf. lovbekendtgørelse nr. 822 af 18. september 2001, med de ændringer der følger af § 3 i lov nr. 313 af 21. maj 2002.

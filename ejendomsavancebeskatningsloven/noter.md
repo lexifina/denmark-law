@@ -1,0 +1,3 @@
+Denne lovbekendtgørelse indeholder bemærkninger om ikrafttrædelses- og overgangsbestemmelser for love, der er vedtaget i folketingsåret 2001-2002. Bemærkninger om ikrafttrædelses- og overgangsbestemmelser for tidligere ændringer er kun medtaget i det omfang, de skønnes at have betydning.
+
+Bestemmelserne i § 6, stk. 5, 2. pkt. og 3. pkt. og § 6, stk. 7, 2. pkt., er i de her anførte affattelser trådt i kraft den 23. maj 2002, jf. § 19, stk. 1, i lov nr. 313 af 21. maj 2002. Bestemmelserne har virkning for underskud og tab, der opstår i indkomståret 2002 eller senere indkomstår, jf. § 19, stk. 3.
