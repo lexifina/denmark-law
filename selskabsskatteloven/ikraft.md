@@ -1,4 +1,4 @@
-Lov nr. 2 3 af 8. juni 1966, hvis § 1 ændrer §§ 1, 8, 9, 14-16, 18 og 19 samt indføjer § 35A, indeholder i § 2 følgende bestemmelse:
+Lov nr. 2 3 af 8. juni 1966, hvis - 1 ændrer -- 1, 8, 9, 14-16, 18 og 19 samt indføjer § 35A, indeholder i § 2 følgende bestemmelse:
 
 § 2
 
@@ -92,7 +92,9 @@ Lov nr. 238 af 12. juni 1975, hvis § 1, nr. 1, 2, 3 og 4, ændrer §§ 3, 17, 2
 
 § 2
 
-Stk. 1. Loven har virkning fra den 1. april 1975.
+Stk. 1. Loven
+
+har virkning fra den 1. april 1975.
 
 Stk. 2. § 1, nr. 2 og 3, har dog virkning fra den 1. januar 1975.
 
@@ -116,15 +118,19 @@ Lov nr. 4 4 af 20. august 1976, hvis § 1 ændrer afsnit IV og §§ 8, 13, 28, 2
 
 § 8
 
-Stk. 1. - -
+Stk. 1
+
+----
 
 Stk. 2. Skattegodtgørelse efter § 1, nr. 5, indrømmes første gang ved udlodning af udbytte, som det udbyttegivende selskab har udloddet i det indkomstår, der ligger til grund for skatteåret 1979-80.
 
-(* 6) Stk. 3. Til personer og dødsboer kan der for indkomstårene 1977 og 1978 kun indrømmes skattegodtgørelse, hvis den skattepligtige over for skattemyndighederne ved den i stk. 4 nævnte attestation selv dokumenterer, at der efter § 1, nr. 5, er knyttet godtgørelse til det modtagne udbytte. Det samme gælder for selskaber med hensyn til aktieudbytte, som er modtaget i de indkomstår, der ligger til grund for skatteårene 1978-79 og 1979-80.
+(* 7) Stk. 3. Til personer og dødsboer kan der for indkomstårene 1977 og 1978 kun indrømmes skattegodtgørelse, hvis den skattepligtige over for skattemyndighederne ved den i stk. 4 nævnte attestation selv dokumenterer, at der efter § 1, nr. 5, er knyttet godtgørelse til det modtagne udbytte. Det samme gælder for selskaber med hensyn til aktieudbytte, som er modtaget i de indkomstår, der ligger til grund for skatteårene 1978-79 og 1979-80.
 
-(* 6) Stk. 4. Skattepligtige, som efter stk. 3 mod dokumentation vil kunne opnå skattegodtgørelse, kan forlange det udbyttegivende selskabs attestation af, at det har udloddet udbyttet i det indkomstår, der ligger til grund for skatteåret 1979-80, eller et senere indkomstår. Det er dog en betingelse, at den skattepligtige på fyldestgørende måde godtgør sin identitet over for selskabet. Ministeren for skatter og afgifter fastsætter nærmere regler om denne attestation.
+(* 7) Stk. 4. Skattepligtige, som efter stk. 3 mod dokumentation vil kunne opnå skattegodtgørelse, kan forlange det udbyttegivende selskabs attestation af, at det har udloddet udbyttet i det indkomstår, der ligger til grund for skatteåret 1979-80, eller et senere indkomstår. Det er dog en betingelse, at den skattepligtige på fyldestgørende måde godtgør sin identitet over for selskabet. Ministeren for skatter og afgifter fastsætter nærmere regler om denne attestation.
 
-Stk. 5. For skatteårene 1978-79 og 1979-80 kan udbytte som nævnt i § 1, nr. 2, kun holdes uden for den skattepligtige indkomst, hvis selskabet fremlægger attestation for, at det udbyttegivende selskab har udloddet udbyttet i det indkomstår, der ligger til grund for skatteåret 1979-80, eller et senere indkomstår. Stk. 4 finder tilsvarende anvendelse.
+Stk. 5. For skatteårene 1978-79 og 1979-80 kan udbytte som nævnt i § 1, nr. 2, kun holdes uden for den skattepligtige indkomst, hvis selskabet fremlægger
+
+attestation for, at det udbyttegivende selskab har udloddet udbyttet i det indkomstår, der ligger til grund for skatteåret 1979-80, eller et senere indkomstår. Stk. 4 finder tilsvarende anvendelse.
 
 ----
 
@@ -188,24 +194,56 @@ Loven har virkning fra og med skatteåret 1980-81.
 
 ----
 
-Lov nr. 178 af 14. maj 1980 hvis § 8 har ændret affattelsen af § 3, stk. 1, nr. 9, 1. pkt. indeholder i § 7, stk. 1, følgende bestemmelse:
+Lov nr. 178 af 14. maj 1980, hvis § 8 har ændret affattelsen af § 3, stk. 1, nr. 9, 1. pkt., indeholder i § 7, stk. 1, følgende bestemmelse:
 
 § 7
 
 Loven træder i kraft ved offentliggørelsen i Lovtidende.
 
-Ministeriet for skatter og afgifter den 16. oktober 1980
+----
 
-KARL HJORTNÆS
+Lov nr. 582 af 19. december 1980, hvis § 1, nr. 1, 3 og 7 ophæver §§ 8, stk. 2, 17B, 17C og 30, stk. 5, og hvis § 1, nr. 4, 5, 6 og 8 ændrer affattelsen af §§ 23, 28, stk. 2, 29, stk. 2, og 33,
+
+indeholder i § 4 følgende bestemmelse:
+
+§ 4
+
+Loven har virkning fra og med skatteåret 1981-82.
+
+----
+
+Lov nr. 264 af 27. maj 1981, hvis § 1, nr. 1, ændrer affattelsen af § 3, stk. 1, nr. 11, hvis § 1, nr. 2, 3 og 5 indføjer § 3, stk. 1, nr. 16 og 17, og § 17A, stk. 2, og hvis § 1, nr. 4 ændrer procentsatsen i § 17A, stk. 1, indeholder i § 2 følgende bestemmelse:
+
+§ 2
+
+§ 1, nr. 1, har virkning fra den 1. oktober 1981. § 1, nr. 2, har virkning fra den 1. juli 1980. § 1, nr. 3, har virkning fra den 1. april 1980. § 1, nr. 4 og 5, har virkning fra og med indkomståret 1981.
+
+----
+
+Lov nr. 296 af 10. juli 1981, hvis § 5 ændrer affattelsen af §§ 5, stk. 4, 5A, stk. 3, 35E, stk. 1, og 35H, stk. 1, indeholder i § 8 følgende bestemmelse:
+
+§ 8
+
+Loven træder i kraft ved bekendtgørelsen i Lovtidende. Den har virkning, hvis aktieafståelsen eller forhold, der behandles efter samme regler som aktieafståelse, finder sted den 1. juli 1981 eller senere. Bestemmelserne i § 1, nr. 4 og 5, finder dog anvendelse, når skaden på den oprindelige ejendom er indtrådt den 1. januar 1981 eller senere.
+
+Ministeriet for skatter og afgifter den 20. august 1981
+
+MOGENS LYKKETOFT
+
+/ O. Skau Wogensen
 
 (* 1) Den i § 17, stk. 1, anførte skattesats finder første gang anvendelse fra og med skatteåret 1980/81, jfr. § 2 i lov nr. 539 af 28. december 1979.
 
-(* 2) Den i § 17D, stk. 1, anførte skattesats finder første gang anvendelse fra og med skatteåret 1980-81, jfr. lov nr. 539 af 28. december 1979.
+(* 2) Den i § 17A anførte procentsats finder første gang anvendelse fra og med indkomståret 1981, jfr. § 2 i lov nr. 264 af 27. maj 1981.
 
-(* 3) Den i § 18, stk. 1, anførte skattesats finder første gang anvendelse fra og med skatteåret 1980/81, jfr. § 2 i lov nr. 539 af 28. december 1979.
+(* 3) Den i § 17B, stk. 1, anførte skattesats finder første gang anvendelse fra og med skatteåret 1980/81, jfr. lov nr. 539 af 28. december 1979.
 
-(* 4) Den i §§ 19, 20 og 21 anførte skattesats finder første gang anvendelse fra og med skatteåret 1980/81, jfr. § 2 i lov nr. 539 af 28. december 1979.
+(* 4) Den i § 18, stk. 1, anførte skattesats finder første gang anvendelse fra og med skatteåret 1980/81, jfr. § 2 i lov nr. 539 af 28. december 1979.
 
-(* 5) Den i stk. 3 og stk. 4 nævnte rentesats har virkning for tiden fra og med 1. juli 1978.
+(* 5) Den i §§ 19, 20 og 21 anførte skattesats finder første gang anvendelse fra og med skatteåret 1980/81, jfr. § 2 i lov nr. 539 af 28. december 1979.
 
-(* 6) Bestemmelserne om attestation er ændret ved lov nr. 605 af 14. december 1977.
+(* 6) Den i stk. 3 og stk. 4 nævnte rentesats har virkning for tiden fra og med
+
+1. juli 1978.
+
+(* 7) Bestemmelserne om attestation er ændret ved lov nr. 605 af 14. december 1977.
