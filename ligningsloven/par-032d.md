@@ -12,4 +12,4 @@ b) Hvor en person efter bestemmelserne i en dobbeltbeskatningsoverenskomst blive
 
 c) Vedrørende dødsboer.
 
-4) (* 4) (Ophævet)
+4) (Ophævet)

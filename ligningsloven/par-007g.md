@@ -1,1 +1,1 @@
-§ 7 G. Til den skattepligtige indkomst medregnes ikke udlodning af beløb fra en andelsboligforening til andelshaverne, i det omfang beløbet hidrører fra et tilskud i henhold til byfornyelses- og boligforbedringslovens § 56, stk. 1, eller saneringslovens § 64 c.
+§ 7 G. Til den skattepligtige indkomst medregnes ikke udlodning af beløb fra en andelsboligforening til andelshaverne, i det omfang beløbet hidrører fra et tilskud i henhold til byfornyelses- og boligforbedringslovens § 56, stk. 1, eller saneringslovens § 64 c eller lov om byfornyelse § 161, stk. 1.
