@@ -1,0 +1,1 @@
+§ 33 c. Åremålsansættelse sker for et tidsrum af 3-6 år. Åremålsansættelsen kan forlænges med indtil i alt 3 år. Genansættelse efter fornyet opslag kan ske højst to gange eller i øvrigt, hvis genansættelsen er begrundet i objektive forhold.
