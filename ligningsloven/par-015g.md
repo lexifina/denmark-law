@@ -1,1 +1,1 @@
-§ 15 G.(Ophævet)
+§ 15 G. (Ophævet)
