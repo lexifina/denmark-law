@@ -8,7 +8,7 @@ Stk. 3. Der kan ikke ydes hjælp efter stk. 1 og 2 til
 
 2) udlændinge, der er statsborgere i et af de nordiske lande,
 
-3) udlændinge, der er statsborgere i et land, der er tilsluttet De Europæiske Fællesskaber, og
+3) udlændinge, der er statsborgere i et land, der er tilsluttet Den Europæiske Union, og
 
 4) udlændinge, der er omfattet af aftalen om Det Europæiske Økonomiske Samarbejdsområde.
 
