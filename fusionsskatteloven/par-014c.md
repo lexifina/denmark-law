@@ -1,4 +1,4 @@
-§ 14 c. (* 3) Bestemmelserne i kapitel 1 finder, i det omfang de er anvendelige, tilsvarende anvendelse:
+§ 14 c. Bestemmelserne i kapitel 1 finder, i det omfang de er anvendelige, tilsvarende anvendelse:
 
 1) Ved fusion af fonde omfattet af fondsbeskatningsloven.
 
