@@ -1,5 +1,1 @@
-§ 3 a. Med henblik på etablering af de i stk. 2 nævnte indkvarteringssteder kan miljøministeren efter indstilling fra indenrigsministeren fritage bygge- og anlægsarbejder og ændret anvendelse af eksisterende bebyggelse for at overholde lovens bestemmelser om tilvejebringelse af region-, kommune- og lokalplaner, bestemmelserne om tilladelse efter lovens § 35, stk. 1, samt bestemmelser i lokalplaner og de planer m.v., der er opretholdt efter § 68, stk. 2. Fritagelsen kan tidsbegrænses.
-
-Stk. 2. Bestemmelsen i stk. 1 omfatter indkvarteringssteder for asylansøgere, der tilvejebringes i henhold til udlændingelovens § 42 a, og indkvarteringssteder, der tilvejebringes i henhold til § 7 i lov om midlertidig opholdstilladelse til visse personer fra det tidligere Jugoslavien m.v.
-
-Stk. 3. Inden miljøministeren træffer beslutning efter stk. 1, indhenter ministeren en udtalelse fra vedkommende amtsråd og kommunalbestyrelse. Kommunalbestyrelsen skal forestå en oplysningsvirksomhed om projektet, inden udtalelsen afgives. Miljøministeren fastsætter en frist for amtsrådets henholdsvis kommunalbestyrelsens udtalelse.
+§ 3 a. Ophævet.
