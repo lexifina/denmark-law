@@ -1,0 +1,1 @@
+Loven indeholder bestemmelser, der gennemfører dele af Rådets direktiv 2000/43/EF af 29. juni 2000 om gennemførelse af princippet om ligebehandling af alle uanset race eller etnisk oprindelse, (EF-Tidende 2000 nr. L 180, s. 22).
