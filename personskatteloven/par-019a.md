@@ -1,4 +1,4 @@
-§ 19 a. (* 12) Den del af formueskatten, der vedrører hovedaktionæraktier i selskaber omfattet af selskabsskattelovens § 1, stk. 1, nr. 1-2, nedsættes med 60 pct., jf. stk. 2-4.
+§ 19 a. Den del af formueskatten, der vedrører hovedaktionæraktier i selskaber omfattet af selskabsskattelovens § 1, stk. 1, nr. 1-2, nedsættes med 60 pct., jf. stk. 2-4.
 
 Stk. 2. Som hovedaktionæraktier anses aktier eller anparter, der ejes af skattepligtige omfattet af aktieavancebeskatningslovens § 4, stk. 2-3, og hvor fortjeneste og tab ved afståelse opgøres efter aktieavancebeskatningslovens § 6.
 

@@ -1,5 +1,5 @@
-Bekendtgørelse af lov om indkomstskat og formueskat for personer m.v. (personskatteloven) (* 1)
+Bekendtgørelse aflov om indkomstskat og formueskat for personer m.v. (personskatteloven) (* 1)
 
-Herved bekendtgøres lov om indkomstskat og formueskat for personer m.v. (personskatteloven), jf. lovbekendtgørelse nr. 481 af 9. august 1988 med de ændringer, der følger af lov nr. 841 af 21. december 1988, lov nr. 386 af 7. juni 1989, lov nr. 387 af 7. juni 1989, og lov nr. 388 af 7. juni 1989.
+Herved bekendtgøres lov om indkomstskat og formueskat for personer m.v. (personskatteloven), jf. lovbekendtgørelse nr. 661 af 19. oktober 1989 med de ændringer, der følger af lov nr. 837 af 19. december 1989, lov nr. 888 af 29. december 1989, lov nr. 59 af 7. februar 1990, lov nr. 210 af 30. marts 1990, lov nr. 386 af 13. juni 1990, lov nr. 422 af 13. juni 1990 og lov nr. 423 af 13. juni 1990.
 
 Opgørelse af skattepligtig indkomst
