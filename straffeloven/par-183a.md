@@ -1,1 +1,1 @@
-§ 183 a. Den, som om bord i et luftfartøj, skib samt andet kollektivt transportmiddel eller godstransportmiddel ved ulovlig tvang, jf. § 260, overtager kontrollen over fartøjet eller køretøjet eller griber ind i dettes manøvrering, straffes med fængsel indtil på livstid.
+§ 183 a. Den, som ved ulovlig tvang, jf. § 260, overtager kontrollen over et luftfartøj, skib eller et andet kollektivt transportmiddel eller godstransportmiddel eller griber ind i dets manøvrering, straffes med fængsel indtil på livstid.

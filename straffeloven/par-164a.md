@@ -1,0 +1,1 @@
+§ 164 a. Den, som undlader at oplyse omstændigheder, der bestemt taler for, at en for en forbrydelse sigtet eller dømt er uskyldig, skønt dette kunne ske uden at udsætte den pågældende eller dennes nærmeste for fare for liv, helbred eller velfærd eller for forfølgning for vedkommende forbrydelse, straffes med bøde eller fængsel indtil 1 år.

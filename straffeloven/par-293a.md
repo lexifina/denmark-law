@@ -1,1 +1,1 @@
-§ 293 a. For brugstyveri af motorkøretøj straffes med bøde eller fængsel indtil 1 år og 6 måneder den, der uberettiget bruger et motorkøretøj, der tilhører en anden. Under skærpende omstændigheder, herunder navnlig i gentagelsestilfælde, kan straffen stige til fængsel i 4 år.
+§ 293 a. For brugstyveri af motorkøretøj straffes med bøde eller fængsel indtil 1 år og 6 måneder den, der uberettiget bruger et motorkøretøj, der tilhører en anden. Under særligt skærpende omstændigheder, herunder navnlig i gentagelsestilfælde, kan straffen stige til fængsel i 4 år.
