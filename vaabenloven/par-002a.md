@@ -1,4 +1,4 @@
-§ 2 a. Indehavere af jagttegn og medlemmer af skytteforeninger, der har en våbenpåtegning til glatløbede haglgeværer på medlemsbeviset, kan uanset forbudet i § 2, stk. 1, til eget brug erhverve, besidde, bære og anvende følgende genstande:
+§ 2 a. Indehavere af jagttegn og medlemmer af skytteforeninger, der har en våbenpåtegning til glatløbede haglgeværer på medlemsbeviset, kan uanset forbuddet i § 2, stk. 1, til eget brug erhverve, besidde, bære og anvende følgende genstande:
 
 1) Glatløbede haglgeværer med en pibelængde på mindst 55 cm, der højst er af kaliber 12, og som ikke kan indeholde mere end 2 haglpatroner,
 

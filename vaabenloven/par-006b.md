@@ -10,7 +10,7 @@
 
 5) tilladelser til genopladning,
 
-6) tilladelser vedrørende de eksplosivstoffer, der er omfattet af forbudet i § 1,
+6) tilladelser vedrørende de eksplosivstoffer, der er omfattet af forbuddet i § 1,
 
 7) tilladelser til blankvåben,
 
