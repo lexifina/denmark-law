@@ -1,0 +1,1 @@
+§ 42. Hvis en pensionist har tilsidesat sin oplysningspligt efter § 41 eller i øvrigt mod bedre vidende uberettiget har modtaget pension, skal pensionisten eller dennes dødsbo tilbagebetale det beløb, der er modtaget med urette.

@@ -1,11 +1,13 @@
-Socialministeriet, den 28. september 1987
+Socialministeriet, den 4. juli 1989
 
-MIMI STILLING JAKOBSEN
+Aase Olesen
 
-/Finn Mortensen
+/ Finn Mortensen
 
-1) Som affattet ved lov nr. 390 af 10. juni 1987, der træder i kraft 1. januar 1988. Indtil 1. januar 1988 har bestemmelserne følgende indhold:
+(* 1) Fradragsbeløb for grundbeløb i § 49, stk. 1, nr. 2, forhøjes fra 1. januar 1990 til 70.100 kr. for enlige og 70.100 kr. for gifte. Den 1. januar 1992 forhøjes beløbet for enlige til 71.000 kr. og for gifte til 80.000 kr. Den 1. januar 1993 forhøjes beløbet for enlige til 78.000 kr. og for gifte til 93.000 kr., jf.
 
-§ 17. Personligt tillæg kan udbetales til pensionister, hvis økonomiske forhold er ganske særlig vanskelige.
+§ 6, stk. 4, i lov nr. 128 af 12. marts 1988.
 
-Stk. 2. Personligt tillæg til varmeudgifter kan udbetales til pensionister, hvis økonomiske forhold er ganske særlig vanskelige på grund af høje varmeudgifter.
+(* 2) Fradragsbeløb for pensionstillæg i § 49, stk. 1, nr. 4, forhøjes fra 1. januar 1990 til 22.000 kr. for enlige og til 44.000 kr. for gifte. Den 1. januar 1991 forhøjes beløbene til henholdsvis 29.000 kr. og 58.000 kr. Den 1. januar 1992 forhøjes beløbene til henholdsvis 36.000 kr. og 72.000 kr. Den 1. januar 1993 forhøjes beløbene til henholdsvis 43.000 kr. og 86.000 kr., jf. § 2, stk. 3, i lov nr. 390 af 10. juni 1987, som ændret ved § 5, nr. 3 og 4, i lov nr. 128 af 12. marts 1988.
+
+(* 3) Fradragsbeløbene for personligt tillæg i § 49, stk. 1, nr. 5, dyrtidsreguleres ikke for perioden 1. januar 1989 til 1. januar 1993, jf. § 2, stk. 5, i lov nr. 390 af 10. juni 1987, som ændret ved § 5, nr. 5, i lov nr. 128 af 12. marts 1988.
