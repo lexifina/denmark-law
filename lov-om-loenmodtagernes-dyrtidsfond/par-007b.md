@@ -1,0 +1,1 @@
+§ 7 b. I det omfang omkostningerne ved overflytning overstiger omkostningerne ved udbetaling, afholdes meromkostningen af den enkelte kontohaver. Beskæftigelsesministeren fastsætter efter indstilling fra Lønmodtagernes Dyrtidsfond størrelsen af gebyrer m.v. i forbindelse med flytning af konti.
