@@ -1,7 +1,19 @@
-Lov nr. 839 af 18. december 1991 indeholder følgende bestemmelse:
+Lov nr. 386 af 22. maj 1996 indeholder følgende ikrafttrædelsesbestemmelse:
 
-§ 2. Loven træder i kraft den 1. februar 1992.
+§ 34
 
-Lov nr. 1136 af 21. december 1994 indeholder følgende bestemmelse:
+Loven træder i kraft den 1. januar 1997.
 
-§ 2. Loven træder i kraft den 1. januar 1995.
+Lov nr. 187 af 30. marts 1999 indeholder følgende ikrafttrædelsesbestemmelse :
+
+§ 5
+
+Stk. 1. Loven træder i kraft den 15. maj 1999, jf. dog stk. 2 og 3.
+
+Stk. 2. (Udelades).
+
+Stk. 3. (Udelades).
+
+Stk. 4. Tilladelser udstedt i henhold til § 1 i lov nr. 257 af 22. maj 1974 om international godstransport med motorkøretøjer m.v. forbliver i kraft efter deres indhold.
+
+Stk. 5. (Udelades).
