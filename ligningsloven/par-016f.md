@@ -1,9 +1,1 @@
-§ 16 F. (* 47) Ved erhvervelse af goodwill er erhververen berettiget til at afskrive det ydede vederlag i sin skattepligtige indkomst over en periode af 10 år med 10 pct. årligt. Afskrivning foretages på grundlag af anskaffelsessummen omregnet efter § 16 E, stk. 6.
-
-Stk. 2. (* 47) Ved erhvervelse af en rettighed af den i § 16 E, stk. 1, nr. 2 eller nr. 3, omhandlede art er erhververen berettiget til at afskrive det ydede vederlag i sin skattepligtige indkomst med lige store årlige beløb over et til rettigheden svarende åremål eller - såfremt rettigheden er tidsubegrænset - over en periode af 10 år med 10 pct. årligt. Afskrivning foretages på grundlag af anskaffelsessummen omregnet efter § 16 E, stk. 6.
-
-Stk. 3. (* 46) De i § 16 E, stk. 1, nr. 4, 5 og 6, omhandlede ydelser afskrives i yderens skattepligtige indkomst over en periode af 10 år. Udgør ydelser af denne art tilsammen mindre end 5 pct. af den samlede lønudgift i yderens virksomhed i det pågældende indkomstår, fradrages de dog fuldt ud ved opgørelsen af den skattepligtige indkomst for dette indkomstår. Afskrivning eller fradrag foretages på grundlag af godtgørelsen henholdsvis vederlaget omregnet efter § 16 E, stk. 6.
-
-Stk. 4. (* 47) (* 48) Ved overdragelser mellem en person og et selskab m.v. som nævnt i selskabsskattelovens §§ 1 og 2 eller fondsbeskatningslovens § 1 eller mellem sådanne selskaber indbyrdes, hvor den ene af parterne i overdragelsen på grund af aktiebesiddelse, vedtægtsbestemmelse, aftale eller fælles ledelse har bestemmende indflydelse på den anden parts handlemåde, nedsættes erhververens afskrivningsgrundlag efter stk. 1 med et beløb svarende til den ikke afskrivningsberettigede del af overdragerens anskaffelsessum.
-
-Stk. 5. (* 47) Erhverves de i stk. 1 og 2 omhandlede formuegoder ved gave eller arveforskud, finder bestemmelserne i § 16 E, stk. 3, 2. pkt., og stk. 4 tilsvarende anvendelse.
+§ 16 F. (Ophævet)

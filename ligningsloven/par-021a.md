@@ -1,3 +1,3 @@
-§ 21 A. (* 2) (Ophævet)
+§ 21 A. (Ophævet)
 
 §§ 22-26. (Ophævet)

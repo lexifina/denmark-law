@@ -1,4 +1,4 @@
-§ 8 P. (* 26) Fysiske personer, der ejer vindmøller eller vindmølleandele, kan ved opgørelsen af den skattepligtige indkomst en gang for alle vælge at medregne indkomst ved vindmølledriften efter reglerne i stk. 2 og 3.
+§ 8 P. Fysiske personer, der ejer vindmøller eller vindmølleandele, kan ved opgørelsen af den skattepligtige indkomst én gang for alle vælge at medregne indkomst ved vindmølledriften efter reglerne i stk. 2 og 3.
 
 Stk. 2. Af den del af bruttoindkomsten fra vindmølledriften, der overstiger 3.000 kr., medregnes 60 pct. til den skattepligtige indkomst.
 

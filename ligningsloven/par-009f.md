@@ -2,4 +2,4 @@
 
 Stk. 2. Det er en betingelse, at den skattepligtige har samme bopæl som ægtefællen ved udgangen af indkomståret, og at ægtefællen ikke for dette indkomstår har opnået skattenedsættelse gennem personfradrag efter personskattelovens § 10.
 
-Stk. 3. (* 31) Stk. 1 og 2 finder ikke anvendelse på personer, der ansøger om opholdstilladelse efter udlændingelovens § 7, samt personer omfattet af lov om midlertidig opholdstilladelse til visse personer fra det tidligere Jugoslavien m.v.
+Stk. 3. Stk. 1 og 2 finder ikke anvendelse på personer, der ansøger om opholdstilladelse efter udlændingelovens § 7, samt personer omfattet af lov om midlertidig opholdstilladelse til visse personer fra det tidligere Jugoslavien m.v. eller lov om midlertidig opholdstilladelse til nødstedte fra Kosovoprovinsen i Forbundsrepublikken Jugoslavien (Kosovonødloven).
