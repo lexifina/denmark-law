@@ -1,0 +1,7 @@
+§ 48 a. Påberåber en udlænding sig at være omfattet af § 7, træffer Udlændingestyrelsen snarest muligt afgørelse om overførsel eller tilbageførsel efter reglerne i kapitel 5 a eller om afvisning efter reglerne i kapitel 5 eller udvisning efter § 24, nr. 5, og i givet fald udsendelse.
+
+Stk. 2. Ansøgning om opholdstilladelse efter § 7 behandles ikke, før der er truffet afgørelse efter stk. 1 og udlændingen i givet fald er udrejst af landet. Udlændingen må dog ikke udsendes til et land, hvor der er risiko for forfølgelse af de grunde, der er nævnt i artikel 1 A i flygtningekonventionen af 28. juli 1951, eller hvor der ikke er beskyttelse mod videresendelse til et sådant land.
+
+Stk. 3. Indgiver en udlænding, der opholder sig i et andet EF-land, ansøgning om opholdstilladelse efter § 7, træffer Udlændingestyrelsen afgørelse om, at ansøgningen ikke behandles, førend Danmark har modtaget en anmodning om overtagelse eller tilbagetagelse.
+
+Stk. 4. Træffer Udlændingestyrelsen afgørelse om undladelse af afvisning eller udvisning eller om overførsel eller tilbageførsel efter EF-asylkonventionen og udsendelse, skal politiet gøre asylansøgeren bekendt med adgangen til at sætte sig i forbindelse med Dansk Flygtningehjælp. Indenrigsministeren kan fastsætte regler, hvorefter politiet forud for Udlændingestyrelsens afgørelse skal gøre en asylansøger, der opholder sig her i landet, bekendt med adgangen til at sætte sig i forbindelse med Dansk Flygtningehjælp.
