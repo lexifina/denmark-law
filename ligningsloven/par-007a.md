@@ -1,6 +1,6 @@
 § 7 A. Skatteministeren kan tillade, at værdien af den ret, som et selskab giver de ansatte til at tegne aktier eller andelsbeviser i selskabet, ikke skal medregnes i de ansattes skattepligtige indkomst. Hvis tilladelse gives, anses aktierne m.v. ved senere afståelse for anskaffet til den pris, som de ansatte har erhvervet dem for.
 
-(* 8) Stk. 2. Skatteministeren kan tillade, at værdien af udbytteandele eller lignende, som et selskab udlodder til de ansatte i form af aktier, ikke skal medregnes i de ansattes skattepligtige indkomst. Indkomstskattefritagelsen omfatter højst en udlodning på 6.000 kr. årligt til hver ansat. Selskabet kan ved opgørelsen af sin skattepligtige indkomst fratrække de udloddede udbytteandele som driftsudgift.
+Stk. 2. Skatteministeren kan tillade, at værdien af udbytteandele eller lignende, som et selskab udlodder til de ansatte i form af aktier, ikke skal medregnes i de ansattes skattepligtige indkomst. Indkomstskattefritagelsen omfatter højst en udlodning på 6.000 kr. årligt til hver ansat. Selskabet kan ved opgørelsen af sin skattepligtige indkomst fratrække de udloddede udbytteandele som driftsudgift.
 
 Stk. 3. Afhænder et selskab aktier m.v. af dets egen beholdning til de ansatte, skal selskabet opgøre en avance eller et tab svarende til forskellen mellem aktiernes handelsværdi på afhændelsestidspunktet og den kursværdi, hvortil selskabet har erhvervet aktierne, efter reglerne i lov om beskatning af fortjeneste ved afståelse af aktier m.v.
 
@@ -15,5 +15,3 @@ Stk. 7. Det er en betingelse for meddelelse af tilladelse efter stk. 2, at der i
 Stk. 8. Det er en betingelse for meddelelse af tilladelse efter stk. 1 og 2, at ansøgningen er forsynet med en attestation fra selskabets revisor om rigtigheden af de afgivne oplysninger.
 
 Stk. 9. Skatteministeren afgiver årligt en redegørelse til Folketinget om den i stk. 2 omhandlede medarbejderaktieordning.
-
-(* 9) § 7 B. (Ophævet).

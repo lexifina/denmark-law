@@ -2,17 +2,11 @@
 
 Stk. 2. Skatteministeren eller den, han bemyndiger dertil, kan tillade, at beløb, der udloddes i forbindelse med en nedsættelse af aktiekapitalen eller andelskapitalen i et selskab, der ikke er under likvidation, fritages for beskatning efter reglerne i stk. 1. Fortjeneste eller tab ved den pågældende udlodning behandles i så fald efter samme regler som fortjeneste eller tab ved afståelse af aktier og andelsbeviser til andre end det selskab, der har udstedt de pågældende værdipapirer.
 
-(* 8) (* 27) § 16 B. Afstår en aktionær eller andelshaver aktier, andelsbeviser og lignende værdipapirer, herunder konvertible obligationer, samt tegningsret til sådanne værdipapirer til det selskab, der har udstedt de pågældende værdipapirer, medregnes afståelsessummen i den pågældendes skattepligtige almindelige indkomst. Dette gælder ikke ved afståelse af aktier m.v., der kun kan tilbagesælges til selskabet efter § 31, stk. 2, i lov om indkomstbeskatning af aktieselskaber m.v. Det er dog en betingelse, at medarbejderaktionæren ikke er hovedaktionær i selskabet efter § 4, stk. 2-3, i lov om beskatning af fortjeneste ved afståelse af aktier m.v.
+(* 15) § 16 B. Afstår en aktionær eller andelshaver aktier, andelsbeviser og lignende værdipapirer, herunder konvertible obligationer, samt tegningsret til sådanne værdipapirer til det selskab, der har udstedt de pågældende værdipapirer, medregnes afståelsessummen i den pågældendes skattepligtige almindelige indkomst. Dette gælder ikke ved afståelse af aktier m.v., der kun kan tilbagesælges til selskabet efter § 31, stk. 2, i lov om indkomstbeskatning af aktieselskaber m.v. Det er dog en betingelse, at medarbejderaktionæren ikke er hovedaktionær i selskabet efter § 4, stk. 2-3, i lov om beskatning af fortjeneste ved afståelse af aktier m.v.
 
 Stk. 2. Afstår en aktionær eller andelshaver aktier m.v. som nævnt i stk. 1 til et selskab, forening eller fond, der er eller i det pågældende indkomstår bliver indehaver af 25 pct. eller derover (holdingselskabet) af aktiekapitalen i det selskab, der har udstedt aktierne (datterselskabet), medregnes afståelsessummen i overdragerens skattepligtige almindelige indkomst. Den del af afståelsessummen, der vederlægges med aktier i holdingselskabet, beskattes dog efter loven om beskatning af fortjeneste ved afståelse af aktier m.v.
 
-Stk. 3. Stk. 2 finder kun anvendelse for personer,
-
-1) hvis overdrageren eller dennes ægtefælle beholder aktier i datterselskabet eller i holdingselskabet,
-
-2) hvis overdrageren eller dennes ægtefælle i forbindelse med aktieafståelsen erhverver aktier i holdingselskabet eller i datterselskabet, eller
-
-3) hvis overdrageren eller dennes ægtefælle på tidspunktet for overdragelsen kan udøve en væsentlig indflydelse i et af de nævnte selskaber på grundlag af aktiebesiddelse m.v. eller på grundlag af aftale, vedtægt, fondsfundats eller lignende.
+Stk. 3. Stk. 2 finder kun anvendelse for personer, 1) hvis overdrageren eller dennes ægtefælle beholder aktier i datterselskabet eller i holdingselskabet, 2) hvis overdrageren eller dennes ægtefælle i forbindelse med aktieafståelsen erhverver aktier i holdingselskabet eller i datterselskabet, eller 3) hvis overdrageren eller dennes ægtefælle på tidspunktet for overdragelsen kan udøve en væsentlig indflydelse i et af de nævnte selskaber på grundlag af aktiebesiddelse m.v. eller på grundlag af aftale, vedtægt, fondsfundats eller lignende.
 
 Stk. 4. Har en aktionær m.v., der er skattepligtig efter stk. 2-3, inden for de 5 senest forudgående indkomstår afstået aktier i datterselskabet til holdingselskabet, medregnes afståelsessummen for disse aktier ligeledes i den skattepligtige almindelige indkomst for de pågældende indkomstår. En eventuel beskatning efter reglerne om beskatning og fortjeneste ved afståelse af aktier m.v. ophæves. Stk. 2, 2. pkt., finder tilsvarende anvendelse.
 
