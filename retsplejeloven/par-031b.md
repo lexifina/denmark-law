@@ -1,0 +1,1 @@
+§ 31 b. Anvendes der i en sag skriftlig forelæggelse eller skriftlig procedure, jf. §§ 927 b og 928 a, stk. 2 og 3, finder de afgørelser, der er truffet i medfør af denne lovs §§ 29, 30 og 31, tilsvarende anvendelse.

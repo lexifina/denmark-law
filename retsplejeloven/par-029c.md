@@ -1,0 +1,3 @@
+§ 29 c. Afgørelse om dørlukning efter § 29 træffes ved kendelse, efter at parterne og tilstedeværende personer, der er omfattet af § 172, stk. 1, 2 eller 4, har haft lejlighed til at udtale sig. Retten kan, især hvis afgørende hensyn til fremmede magter eller til sagens oplysning kræver det, ved kendelse bestemme, at også forhandling om, hvorvidt dørene skal lukkes, skal foregå for lukkede døre.
+
+Stk. 2. Kendelse om dørlukning efter stk. 1 kan afsiges i begyndelsen af retsmødet eller i løbet af dette og kan straks eller senere indskrænkes til en del af retsmødet. Kendelsen afsiges altid i et offentligt retsmøde.
