@@ -1,6 +1,8 @@
-Bekendtgørelse af lov om opkrævning af indkomst- og formueskat for personer m.v. (Kildeskat) (* 1)
+Bekendtgørelse af lov om opkrævning af indkomst- og formueskat for personer m.v. (* 1)
 
-Herved bekendtgøres lov om opkrævning af indkomst- og formueskat for personer m.v. (Kildeskat), jf. lovbekendtgørelse nr. 595 af 15. august 1991 med de ændringer, der følger af lov nr. 896 af 21. december 1991, lov nr. 182 af 23. marts 1992, lov nr. 219 af 3. april 1992, lov nr. 236 af 8. april 1992, lov nr. 347 af 14. maj 1992, lov nr. 489 af 24. juni 1992, lov nr. 491 af 24. juni 1992 og lov nr. 569 af 24. juni 1992.
+(Kildeskat)
+
+Herved bekendtgøres lov om opkrævning af indkomst- og formueskat for personer m.v. (Kildeskat), jf. lovbekendtgørelse nr. 778 af 17. september 1992 med de ændringer, der følger af lov nr. 1020 af 19. december 1992, lov nr. 1021 af 19. december 1992, lov nr. 1030 af 19. december 1992, lov nr. 1073 af 23. december 1992, lov nr. 421 af 25. juni 1993, lov nr. 426 af 25. juni 1993, lov nr. 427 af 25. juni 1993, lov nr. 428 af 25. juni 1993, lov nr. 442 af 30. juni 1993 og lov nr. 480 af 30. juni 1993.
 
 ## Afsnit I
 
