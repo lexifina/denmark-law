@@ -27,5 +27,3 @@ Stk. 3. Kun den, der har bestået juridisk kandidateksamen, kan beskikkes.
 Stk. 4. Beskikkelse som landsdommer eller dommer i en byret eller Sø- og Handelsretten kræver i reglen, at den pågældendes egnethed som dommer har været bedømt i landsretten.
 
 Stk. 5. Før nogen kan beskikkes til højesteretsdommer, skal den pågældende have godtgjort sin egnethed til at have sæde i retten ved som prøve at votere først i mindst 4 sager, af hvilke mindst den ene skal være borgerlig.
-
-Stk. 6. Til at indtræde i de ekstraordinære retter, der er nævnt i § 21, skal så vidt muligt faste dommere beskikkes. Ingen kan beskikkes, som ikke opfylder betingelsen i stk. 3.

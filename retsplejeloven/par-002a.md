@@ -1,4 +1,4 @@
-§ 2 a. I afgørelsen af sager ved Højesteret deltager, medmindre andet særligt er bestemt, mindst 5 dommere. Sagernes fordeling mellem dommerne bestemmes af præsidenten. Er i en sag de nødvendige antal højesteretsdommere ikke til rådighed, kan præsidenten tilkalde en eller flere landsdommere til at deltage i sagens behandling.
+§ 2 a. I afgørelsen af sager ved Højesteret deltager, medmindre andet særligt er bestemt, mindst 5 dommere. Sagernes fordeling mellem dommerne bestemmes af præsidenten. Er i en sag det nødvendige antal højesteretsdommere ikke til rådighed, kan præsidenten tilkalde en eller flere landsdommere til at deltage i sagens behandling.
 
 Stk. 2. Efter rettens nærmere bestemmelse kan følgende afgørelser træffes af udvalg, der består af mindst 3 dommere, og som sammensættes af præsidenten efter forhandling med rettens medlemmer:
 

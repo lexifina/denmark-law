@@ -1,1 +1,1 @@
-§ 448 b. (Ophævet).
+§ 448 b. (Ophævet)
