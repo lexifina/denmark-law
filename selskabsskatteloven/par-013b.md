@@ -1,5 +1,0 @@
-§ 13 B. Pengeinstitutter skal ved opgørelsen af den skattepligtige indkomst ikke medregne afkast af værdipapirer, der ligger til grund for puljeindlån, jf. realrenteafgiftslovens § 3, stk. 2, og stk. 3, nr. 8, eller beløb, der efter pensionsbeskatningslovens § 30 A overføres fra indlånskonti til udligning af negativt puljeafkast. Pengeinstitutter kan ikke foretage fradrag ved tilskrivning af puljeafkast til pensionsopsparernes indlånskonti.
-
-Stk. 2. Livsforsikringsselskaber skal ved opgørelsen af den skattepligtige indkomst ikke medregne præmier eller afkast af værdipapirer, der opspares i investeringsfonde tilknyttet klasse III-livsforsikringer. Livsforsikringsselskaber kan ikke foretage fradrag ved udbetaling af beløb opsparet i investeringsfonde.
-
-Stk. 3. Afkast af aktiver i puljer i et pengeinstitut eller i investeringsfonde i et livsforsikringsselskab, der overføres til dækning af administrationsomkostninger m.v., skal medregnes ved opgørelsen af pengeinstituttets eller livsforsikringsselskabets skattepligtige indkomst.
