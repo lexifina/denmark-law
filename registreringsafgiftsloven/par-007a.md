@@ -1,3 +1,3 @@
-§ 7 a. (Se bilag)(* 1)
+§ 7 a. (Ophævet).
 
 Afgiftspligtig værdi
