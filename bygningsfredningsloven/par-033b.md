@@ -5,3 +5,7 @@ Stk. 2. Miljø- og energiministeren kan fastsætte nærmere regler om fremgangsm
 Stk. 3. Hypotekbanken kan indhente de oplysninger hos skattemyndigheder og andre offentlige myndigheder om den pågældende, som er nødvendige for at varetage inddrivelsen af de skyldige beløb efter stk. 1, herunder oplysninger om indkomst- og formueforhold.
 
 Stk. 4. Hypotekbankens afgørelser efter stk. 1 - 3 kan indbringes for finansministeren. Miljø- og energiministeren kan fastsætte nærmere regler om klageadgangen, herunder om klagefrist.
+
+## Kapitel 10
+
+Straf

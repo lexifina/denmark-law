@@ -4,9 +4,19 @@ Lov nr. 250 af 23. maj 1984 om ændring af forskellige miljø- og planlægningsl
 
 Stk. 1. Loven træder i kraft den 1. august 1984.
 
-Stk. 2. (* 2) Tidspunktet for ikrafttrædelsen af § 4, nr. 1, § 5, nr. 1, § 7, nr. 5, og § 8, nr. 1, fastsættes af miljø- og energiministeren.
+Stk. 2.*) Tidspunktet for ikrafttrædelsen af § 4, nr. 1, § 5, nr. 1, § 7, nr. 5, og § 8, nr. 1, fastsættes af miljø- og energiministeren.
 
-Lov nr. 428 af 10. juni 1997, der angår § 1, stk. 3 og stk. 4, § 3, stk. 1, § 6, stk. 1, nr. 3, 4 og 5, § 6, stk. 3 og 4, § 7, stk. 2, § 8, stk. 2 og 3, § 10, stk. 1, 2. pkt., §11, stk. 4, § 20, stk. 2, 3 og 4, § 21, stk. 2, § 23, stk. 1, 4, 5 og 7, kapitel 4, kapitel 5 og kapitel 8, § 28, § 29, § 33 a, § 33 b, § 34 og § 34 a indeholder følgende ikrafttrædelses- og overgangsbestemmelser:
+Lov nr. 284 af 27. april 1994, der indføjer § 16, stk. 4 og § 19 a indeholder følgende ikrafttrædelses- og overgangsbestemmelse:
+
+§ 20
+
+Stk. 1. Loven træder i kraft den 1. juli 1994
+
+Stk. 2. Reglerne om modregning efter §§ 2, 3, 4, 12, nr. 1, 13, 14, nr. 1, 15, 16 og 17 har virkning for tilskudsbeløb m.v. i henhold til støttetilsagn, som meddeles efter lovens ikrafttræden.
+
+Stk. 3. Reglerne om lønindholdelse efter §§ 1, 5-11, 12, nr. 2, 14, nr. 2, 18 og 19 finder også anvendelse på fordringer, der er forfaldne før lovens ikrafttræden.
+
+Lov nr. 428 af 10. juni 1997, der angår § 1, stk. 3 og stk. 4, § 3, stk. 1, § 6, stk. 1, nr. 3, 4 og 5, § 6, stk. 3 og 4, § 7, stk. 2, § 8, stk. 2 og 3, § 10, stk. 1, 2. pkt., § 11, stk. 4, kapitel 4 og 5, § 20, stk. 2, 3 og 4, § 21, stk. 2, § 23, stk. 1, 4, 5 og 7, kapitel 8, § 28, § 29, § 33 a, § 33 b, § 34 og § 34 a indeholder følgende ikrafttrædelses- og overgangsbestemmelser:
 
 § 3
 
@@ -17,3 +27,9 @@ Stk. 2. Miljø- og energiministeren indtræder i samtlige rettigheder og forplig
 Stk. 3. Hvor tilsagn om støtte eller lignende til fredede eller bevaringsværdige bygninger er meddelt af Statens Bygningsfredningsfond efter bygningsfredningslovens regler inden denne lovs ikrafttræden, færdigbehandles sagen af miljø- og energiministeren efter reglerne i denne lov.
 
 Stk. 4. Ansøgninger om støtte eller lignende, der er indgivet til Statens Bygningsfredningsfond inden lovens ikrafttræden, og som ikke er færdigbehandlet, behandles af ministeren efter reglerne i denne lov.
+
+Lov nr. 480 af 7. juni 2001, der angår § 16, stk. 1, nr. 6 og 7, § 19, § 19a, § 19 b, § 21 a, § 34, stk. 1, nr.1 og § 34, stk. 2 indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 5
+
+Loven træder i kraft den 1. juli 2001.
