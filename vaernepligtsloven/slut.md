@@ -1,0 +1,9 @@
+GIVET PÅ FREDENSBORG SLOT, DEN 30. MAJ 1980
+
+Under Vor Kongelige Hånd og Segl
+
+MARGRETHE R
+
+/HENNING RASMUSSEN
+
+Ingen
