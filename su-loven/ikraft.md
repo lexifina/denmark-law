@@ -40,7 +40,7 @@ Lov nr. 1286 af 20. december 2000, hvis § 14 ændrer § 23, stk. 2, og § 26, s
 
 § 15
 
-Stk. 1. Loven træder i kraft dagen efter bekendtgørelsen i Lovtidende .
+Stk. 1. Loven træder i kraft dagen efter bekendtgørelsen i Lovtidende.
 
 Stk. 2-7. (udeladt).
 
@@ -53,3 +53,45 @@ Lov nr. 246 af 6. april 2001 , hvis § 14 ændrer § 12, stk. 2, 2. pkt., § 36,
 § 15
 
 Loven træder i kraft den 1. maj 2001.
+
+Lov nr. 416 af 6. juni 2002, hvis § 1 ændrer § 14, stk. 1, 1. pkt., og stk. 2, 1. pkt., § 25, stk. 1, 2. pkt., § 30, stk. 5, 1. pkt., og § 54, nr. 1 og 5, nyaffatter § 24, stk. 8, og § 46, stk. 4, 2. pkt., indsætter § 2, stk. 3, § 42, stk. 4, og § 57a og ophæver § 23, stk. 3, nr. 2, og stk. 5, og § 33, stk. 4, indeholder følgende ikrafttrædelsesbestemmelser m.v.:
+
+§ 3
+
+Stk. 1. Loven træder i kraft den 1. juli 2002.
+
+Stk. 2. § 1, nr. 1 , har virkning for ansøgninger om godkendelse af uddannelser i udlandet som støtteberettigende, der modtages i styrelsen efter den 1. juli 2002.
+
+Stk. 3. § 1, nr. 5 , har virkning for uddannelsessøgende, der har indgået kontrakt eller fået ændret deres kontrakt med forsvaret for en periode, der begynder den 1. oktober 2000 eller senere.
+
+Stk. 4. (udeladt).
+
+Lov nr. 394 af 28. maj 2003, hvis § 16 ændrer § 23, stk. 2, og § 26, stk. 1, indeholder følgende ikrafttrædelsesbestemmelser m.v.:
+
+§ 17
+
+Stk. 1. Loven træder i kraft dagen efter bekendtgørelse i Lovtidende.
+
+Stk. 2. § 1, nr. 6, 7 og 9, og §§ 4, 5, 11 og 13-16 har virkning for aktier, køberetter til aktier og tegningsretter til aktier, der tildeles den 1. juli 2003 eller senere, jf. dog stk. 6. For aktier, køberetter til aktier og tegningsretter til aktier, der er tildelt før den 1. juli 2003, finder de hidtil gældende regler, herunder reglerne i ligningslovens §§ 28 A-C fortsat anvendelse.
+
+Stk. 3-5. (udeladt)
+
+Stk. 6. For aktier, køberetter til aktier og tegningsretter til aktier, der er tildelt før den 1. juli 2003, og hvor tidspunktet for den ansattes beskatning af de modtagne aktier m.v. indtræder den 1. januar 2003 eller senere, kan den ansatte og det selskab, der har ydet de pågældende aktier m.v., indgå aftale om, at reglerne i ligningslovens § 7 H, som affattet ved denne lovs § 1, nr. 6, skal finde anvendelse. Indgås en sådan aftale, skal indberetning herom foretages for det kalenderår, hvor aftalen er indgået.
+
+Stk. 7-8. (udeladt)
+
+Lov nr. 401 af 28. maj 2003, hvis § 4 indsætter § 1, stk. 2, indeholder følgende ikrafttrædelsesbestemmelser m.v.:
+
+§ 7
+
+Stk. 1. Loven træder i kraft den 1. juli 2003.
+
+Stk. 2-4. (udeladt).
+
+Lov nr. 418 af 10. juni 2003, hvis § 9 indsætter § 18, stk. 1, nr. 1, indeholder følgende ikrafttrædelsesbestemmelser m.v.:
+
+§ 24
+
+Stk. 1. Loven træder i kraft den 1. juli 2003.
+
+Stk. 2-5. (udeladt).

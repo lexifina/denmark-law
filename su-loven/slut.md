@@ -1,5 +1,5 @@
-Undervisningsministeriet, den 28. juni 2001
+Undervisningsministeriet, den 11. september 2003
 
-Margrethe Vestager
+Ulla Tørnæs
 
-/Susanne Gruno
+/Helle Mortensen
