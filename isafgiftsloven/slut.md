@@ -1,25 +1,7 @@
-Skatteministeriet, den 8. september 1993
+Skatteministeriet, den 13. juli 1994
 
 Ole Stavad
 
-/ K. Hoffritz
+/ Jan Lyager Olsen
 
-(* 1) Lov nr. 700 af 22. november 1988 (gebyr for rykkerskrivelser)
-
-trådte i kraft den 30. november 1988.
-
-(* 2) Lov nr. 825 af 19. december 1989 (eftergivelse og henstand)
-
-trådte i kraft den 1. januar 1990.
-
-(* 3) Lov nr. 496 af 24. juni 1992 (afkortning af kredittider samt
-
-ændring af myndighedsbetegnelser) trådte i kraft den 1. oktober 1992.
-
-(* 4) Lov nr. 1035 af 19. december 1992 (ændringer som følge af EF's
-
-indre marked m.v.) trådte i kraft den 1. januar 1993.
-
-(* 5) Lov nr. 1073 af 23. december 1992 (forhøjelse af gebyr for
-
-erindringsskrivelser) trådte i kraft den 1. april 1993
+(* 1) Lov nr. 376 af 18. maj 1994 trådte i kraft den 20. maj 1994 og har virkning fra den 1. juli 1994. Der sker ved loven en omlægning af afgiften af soft-ice, således at der indføres afgiftspligt for konsum-is mix, der er beregnet til brug i soft-ice maskiner. De øvrige ændringer er hovedsagelig en følge af den samtidig vedtagne lov nr. 375 af 18. maj 1994 om merværdiafgift (momsloven) samt toldloven (lov nr. 1116 af 22. december 1993).
