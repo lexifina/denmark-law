@@ -1,3 +1,3 @@
 Bekendtgørelse af lov om dagpenge ved sygdom eller fødsel
 
-Herved bekendtgøres lov om dagpenge ved sygdom eller fødsel, jf. lovbekendtgørelse nr. 147 af 2. marts 2000 med de ændringer, der følger af lov nr. 1253 af 20. december 2000 (§ 8), lov nr. 1304 af 20. december 2000, lov nr. 1305 af 20. december 2000 og lov nr. 1308 af 20. december 2000. Den bekendtgjorte lovtekst gælder først fuldt ud fra den 1. januar 2002, jf. lov nr. 1304 af 20. december 2000.
+Herved bekendtgøres lov om dagpenge ved sygdom eller fødsel, jf. lovbekendtgørelse nr. 147 af 2. marts 2001 med de ændringer, der følger af § 3 i lov nr. 141 af 25. marts 2002, § 5 i lov nr. 249 af 8. maj 2002 og lov nr. 360 af 6. juni 2002.

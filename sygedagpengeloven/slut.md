@@ -1,5 +1,5 @@
-Socialministeriet, den 2. marts 2001
+Beskæftigelsesministeriet, den 11. september 2002
 
-Henrik Dam Kristensen
+Claus Hjort Frederiksen
 
-/Aksel Meyer
+/Vibeke Dalbro
