@@ -1,6 +1,6 @@
-Lov om hjemmeværnet
+Bekendtgørelse af lov om hjemmeværnet
 
-VI MARGRETHE DEN ANDEN, af Guds Nåde Danmarks Dronning, gør vitterligt: Folketinget har vedtaget og Vi ved Vort samtykke stadfæstet følgende lov:
+Hermed bekendtgøres lov nr. 123 af 27. februar 2001 om hjemmeværnet.
 
 ## Kapitel 1
 
