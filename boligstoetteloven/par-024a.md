@@ -1,6 +1,6 @@
 § 24 a. Der kan uanset § 9, stk. 1, ydes boligstøtte til:
 
-1) Personer, der har et socialt betinget behov for at bo i kollektivt bofællesskab og som anvises bolig i et kollektivt bofællesskab, af en kommunalbestyrelse, et amtsråd et almennyttigt boligselskab, jf. § 2 i lov om boligbyggeri, eller en privat organisation som udlejer.
+1) Personer, der har et socialt betinget behov for at bo i kollektivt bofællesskab og som anvises bolig i et kollektivt bofællesskab af en kommunalbestyrelse, et amtsråd, et almennyttigt boligselskab, jf. § 2 i lov om boligbyggeri, eller en privat organisation som udlejer.
 
 2) Nærtstående til personer med særlige sociale behov, jf. nr. 1, der samtidig som lejere anvises bolig i bofællesskabet.
 

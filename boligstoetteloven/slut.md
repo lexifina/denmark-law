@@ -1,6 +1,6 @@
-Boligministeriet, den 4. august 1994
+Boligministeriet, den 22. februar 1996
 
-Flemming Kofod-Svendsen
+Ole Løvig Simonsen
 
 / Hanne Victor Hansen
 
@@ -35,3 +35,13 @@ Flemming Kofod-Svendsen
 (* 15) Lovændringen vedrører § 47, stk. 7, § 75, stk. 4, 2. pkt. og § 76, stk. 1, 2. pkt.
 
 (* 16) §-tegnet foran »25 a« er fejlagtigt gledet ud i lov nr. 418 af 1. juni 1994 (§ 2, nr. 3).
+
+(* 17) Lovændringen vedrører § 60 a, § 73, stk. 1 og § 75, stk. 4, 1. pkt.
+
+(* 18) Lovændringen vedrører § 75, stk. 1, nr. 1, stk. 3, 3. og 4. pkt. og stk. 5.
+
+(* 19) Lovændringen vedrører § 13, stk. 1, nr. 2 og 4, § 39, stk. 2, 2. pkt. og stk. 3, nr. 4, § 42, stk. 3, 4. pkt., § 48 a, § 53, § 73, stk. 2, § 75 a, § 76, stk. 1-3, § 76, stk. 4, 1. pkt. og § 76, stk. 5.
+
+(* 20) Lovændringen vedrører § 24 g, stk. 2, § 31, stk. 2, § 32, stk. 1, § 33, § 34, og § 72, stk. 1, nr. 17 og 18.
+
+(* 21) Lovændringen vedrører § 11, stk. 2, § 24 d, stk. 1, 4. pkt. og stk. 2, 4. pkt., § 24 e, stk. 3, 4. pkt., § 26, stk. 3, 2. pkt., § 27, stk. 2, nr. 1 og 3 og stk. 4, § 39 a, § 55, stk. 1, 2. og 3. pkt., § 59, stk. 5, § 65 og § 75, stk. 2.
