@@ -1,3 +1,7 @@
+## Kapitel 5 b
+
+## Midlertidig pensionsopsparing
+
 § 17 b. For 1998 opkræves der en midlertidig pensionsopsparing til Arbejdsmarkedets Tillægspension på 1,0 pct. af bidragsgrundlaget efter § 8, stk. 1, litra a, b, d og e, og § 10 i lov om en arbejdsmarkedsfond for lønmodtagere m.fl. og selvstændigt erhvervsdrivende omfattet af bidragspligten efter § 7, stk. 1 og 3, i samme lov, medmindre pensionsopsparingen opgøres til 345,00 kr. eller derunder. Lov om en arbejdsmarkedsfonds regler om opkrævning, angivelse og indbetaling, periodisering, indberetning, straf, regulering m.v. finder tilsvarende anvendelse på pensionsopsparing efter 1. pkt., jf. dog stk. 2.
 
 Stk. 2. For personer, der overfor den, der udbetaler eller godskriver A-indkomst, har forevist et af vedkommende skattemyndighed udstedt frikort, jf. kildeskattelovens § 48, stk. 6, undlades indeholdelse af pensionsopsparing, i samme omfang som A-indkomst, der indgår i bidragsgrundlaget for pensionsopsparing, i henhold til frikortet udbetales eller godskrives uden indeholdelse af A-skat. Såfremt der i henhold til frikortet skal ske indeholdelse af A-skat, skal den indeholdelsespligtige foretage opgørelse og indeholdelse af pensionsopsparing efter reglerne i stk. 1, 2. pkt.
