@@ -1,11 +1,9 @@
-Skatteministeriet, den 23. august 1989
+Skatteministeriet, den 1. november 1991
 
 Anders Fogh Rasmussen
 
-/ Jan Lyager Olsen
+/ K. Hoffritz
 
-(* 1) Lov nr. 700 af 22. november 1988 (ændring af positionsnumrene i § 11 og § 11 b, indsættelse af § 18 a samt ændring af henvisning til retsplejeloven i § 22 a, stk. 4) trådte i kraft den 30. november 1988.
+(* 1) Lov nr. 825 af 19. december 1989 (forhøjelse af mindsterenten fra 10 kr. til 50 kr. og indsættelse af § 19 b) trådte i kraft den 1. januar 1990.
 
-(* 2) Lov nr. 30 af 20. januar 1989 (nedsættelse og bortfald af afgifter) trådte i kraft den 22. januar 1989.
-
-(* 3) Lov nr. 361 af 31. maj 1989 (afgiftsfritagelse for lavenergipærer og afgiftsnedsættelse for lysstofrør m.v.). trådte i kraft den 2. juni 1989.
+(* 2) Lov nr. 835 af 19. december 1989 (ophævelse af afgifterne af videooptagere, visse farvefjernsyn, vaske- og opvaskemaskiner, komfurer og ovne, tændstikker, lightere og spillekort) trådte i kraft den 1. januar 1990.
