@@ -4,7 +4,7 @@
 
 2) indgrebet må antages at være af afgørende betydning for efterforskningen, og
 
-3) efterforskningen angår en forsætlig overtrædelse af straffelovens kapitel 12 eller 13 eller en overtrædelse af straffelovens § 180, § 183, stk. 1 og 2, § 183 a, § 186, stk. 1, § 187, stk. 1, §§ 191, 192 a eller 237.
+3) efterforskningen angår en lovovertrædelse, som efter loven kan straffes med fængsel i 6 år eller derover, en forsætlig overtrædelse af straffelovens kapitel 12 eller 13 eller en overtrædelse af § 286, stk. 1, eller § 289.
 
 Stk. 2. Indgreb som nævnt i stk. 1 må ikke foretages, såfremt det efter indgrebets formål, sagens betydning og den krænkelse og ulempe, som indgrebet må antages at forvolde den eller de personer, som det rammer, ville være et uforholdsmæssigt indgreb.
 
