@@ -1,0 +1,1 @@
+§ 7 Y. Værdien af en kvote tildelt vederlagsfrit efter reglerne i lov om CO2 -kvoter og værdien af en vederlagsfrit tildelt sildekvote eller af en andel heraf medregnes ikke ved opgørelsen af modtagerens skattepligtige indkomst.
