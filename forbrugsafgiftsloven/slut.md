@@ -1,11 +1,11 @@
-Skatteministeriet, den 14. oktober 1988
+Skatteministeriet, den 23. august 1989
 
 Anders Fogh Rasmussen
 
 / Jan Lyager Olsen
 
-(* 1) Lov nr. 925 af 19. december 1986 (indsættelse af § 19 a) trådte i kraft den 1. januar 1987.
+(* 1) Lov nr. 700 af 22. november 1988 (ændring af positionsnumrene i § 11 og § 11 b, indsættelse af § 18 a samt ændring af henvisning til retsplejeloven i § 22 a, stk. 4) trådte i kraft den 30. november 1988.
 
-(* 2) Lov nr. 927 af 19. december 1986 (ændret afgift af mindre farvefjernsynsmodtagere) trådte i kraft den 19. december 1986.
+(* 2) Lov nr. 30 af 20. januar 1989 (nedsættelse og bortfald af afgifter) trådte i kraft den 22. januar 1989.
 
-(* 3) Lov nr. 184 af 9. april 1987 (ophævelse af afgiften af støvsugere og videokassettebånd) trådte i kraft den 11. april 1987.
+(* 3) Lov nr. 361 af 31. maj 1989 (afgiftsfritagelse for lavenergipærer og afgiftsnedsættelse for lysstofrør m.v.). trådte i kraft den 2. juni 1989.
