@@ -1,3 +1,3 @@
-Lov om folkekirkens kirkebygninger og kirkegårde
+Bekendtgørelse af lov om folkekirkens kirkebygninger og kirkegårde
 
-VI MARGRETHE DEN ANDEN, af Guds Nåde Danmarks Dronning, gør vitterligt: Folketinget har vedtaget og Vi ved Vort samtykke stadfæstet følgende lov:
+Herved bekendtgøres lov nr. 268 af 22. maj 1986 om folkekirkens kirkebygninger og kirkegårde som ændret ved lov nr. 287 af 29. april 1992.
