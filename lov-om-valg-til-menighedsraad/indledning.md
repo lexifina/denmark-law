@@ -1,3 +1,3 @@
-Lov om valg til menighedsråd
+Bekendtgørelse af lov om valg til menighedsråd
 
-VI MARGRETHE DEN ANDEN, af Guds Nåde Danmarks Dronning, gør vitterligt: Folketinget har vedtaget og Vi ved Vort samtykke stadfæstet følgende lov:
+Herved bekendtgøres lov nr. 616 af 21. december 1983 om valg til menighedsråd, som ændret ved lov nr. 865 af 23. december 1987
