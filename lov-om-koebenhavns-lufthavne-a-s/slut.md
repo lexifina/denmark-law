@@ -1,9 +1,5 @@
-Givet på Christiansborg Slot, den 13. juni 1990
+Trafikministeriet, den 9. juni 2000
 
-Under Vor Kongelige Hånd og Segl
+Jacob Buksti
 
-MARGRETHE R.
-
-/ Knud Østergaard
-
-Ingen
+/Niels Remmer
