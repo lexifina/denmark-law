@@ -11,3 +11,7 @@ Stk. 5. Luftfartsvæsenet skal efter anmodning bistå kommissionen i dens arbejd
 Stk. 6. Kommissionen kan genoptage en afsluttet undersøgelse, såfremt der fremkommer nyt og væsentligt materiale i sagen.
 
 Stk. 7. Trafikministeren kan på ethver tidspunkt pålægge kommissionen at foretage yderligere undersøgelser i en sag.
+
+## Kapitel 12
+
+Forskellige bestemmelser

@@ -1,5 +1,9 @@
 Bekendtgørelse af lov om luftfart
 
-Herved bekendtgøres lov om luftfart, jf. lovbekendtgørelse nr. 162 af 7. marts 1994, med de ændringer, der er en følge af lov nr. 382 af 22. maj 1996, lov nr. 385 af 22. maj 1996 og lov nr. 328 af 14. maj 1997.
+Herved bekendtgøres lov om luftfart, jf. lovbekendtgørelse nr. 373 af 4. juni 1997, med de ændringer, der følger af lov nr. 1114 af 29. december 1997 og lov nr. 346 af 17. maj 2000.
 
 Civil luftfart
+
+## Kapitel 1
+
+Indledende bestemmelser

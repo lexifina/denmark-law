@@ -6,6 +6,4 @@ Stk. 3. Trafikministeren fastsætter i fornødent omfang nærmere regler for rå
 
 ## Kapitel 5
 
-## Luftfartøjschefen og
-
-tjenesten om bord
+Luftfartøjschefen og tjenesten om bord
