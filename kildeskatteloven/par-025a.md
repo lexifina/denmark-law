@@ -1,4 +1,4 @@
-§ 25 A. (* 14) Indkomst, der vedrører en erhvervsvirksomhed, medregnes ved opgørelsen af skattepligtig indkomst, personlig indkomst og kapitalindkomst, jfr. personskattelovens §§ 2-4, hos den ægtefælle, der driver virksomheden. Endvidere påhviler formueskattepligten denne ægtefælle. Deltager begge ægtefæller i driften, medregnes indkomst og formue som nævnt i 1. og 2. pkt. hos den ægtefælle, der i overvejende grad driver virksomheden.
+§ 25 A. (* 14)Indkomst, der vedrører en erhvervsvirksomhed, medregnes ved opgørelsen af skattepligtig indkomst, personlig indkomst og kapitalindkomst, jf. personskattelovens §§ 2-4, hos den ægtefælle, der driver virksomheden. Endvidere påhviler formueskattepligten denne ægtefælle. Deltager begge ægtefæller i driften, medregnes indkomst og formue som nævnt i 1. og 2. pkt. hos den ægtefælle, der i overvejende grad driver virksomheden.
 
 Stk. 2. Kapitalafkast efter virksomhedsskattelovens § 7 medregnes dog ved opgørelsen af skattepligtig indkomst og kapitalindkomst hos den af ægtefællerne, der har rådighed over virksomheden som nævnt i § 24 A.
 
