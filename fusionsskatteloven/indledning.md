@@ -1,5 +1,5 @@
-Bekendtgørelse af lov om fusion, spaltning og tilførsel af aktiver m.v.(* 1) (* 2)
+Bekendtgørelse af lov om fusion, spaltning og tilførsel af aktiver m.v.
 
-(fusionsskatteloven)
+(Fusionsskatteloven)
 
-Herved bekendtgøres lov om fusion, spaltning og tilførsel af aktiver m.v. (fusionsskatteloven), jf. lovbekendtgørelse nr. 719 af 1. august 1994, med de ændringer, der følger af § 3 i lov nr. 1090 af 21. december 1994, § 2 i lov nr. 180 af 23. marts 1995, § 2 i lov nr. 256 af 19. april 1995 og § 3 i lov nr. 412 af 14. juni 1995.
+Herved bekendtgøres lov om fusion, spaltning og tilførsel af aktiver m.v. (fusionsskatteloven), jf. lovbekendtgørelse nr. 621 af 19. juli 1995, med de ændringer, der følger af § 112 i lov nr. 1072 af 20. december 1995, § 8 i lov nr. 399 af 22. maj 1996 og i § 11 i lov nr. 487 af 12. juni 1996.

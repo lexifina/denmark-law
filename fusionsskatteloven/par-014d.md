@@ -10,4 +10,4 @@ Stk. 5. Aktier i det modtagende selskab, som foreningen modtager i henhold til s
 
 Stk. 6. Reglerne i stk. 3-5 finder tilsvarende anvendelse, hvis aktiver og gæld i forbindelse med omdannelsen som helhed videreoverdrages til et aktieselskab, der ejes 100 pct. af det i stk. 2 nævnte aktieselskab, og overdragelsen alene sker mod vederlag i aktier.
 
-Stk. 7. (* 9) Reglerne i ligningsloven § 15, stk. 7 og 8 finder ikke anvendelse, når underskuddet videreføres efter stk. 4 eller 6, og ændringen i aktionærkredsen sker i forbindelse med omdannelsen ved overdragelse af aktierne fra en gensidig livsforsikringsforening til et skadesforsikringsaktieselskab inden for samme koncern.
+Stk. 7. Reglerne i ligningsloven § 15, stk. 7 og 8, finder ikke anvendelse, når underskuddet videreføres efter stk. 4 eller 6, og ændringen i aktionærkredsen sker i forbindelse med omdannelsen ved overdragelse af aktierne fra en gensidig livsforsikringsforening til et skadesforsikringsaktieselskab inden for samme koncern.
