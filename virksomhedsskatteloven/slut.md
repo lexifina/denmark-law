@@ -1,17 +1,17 @@
-Skatteministeriet, den 4. oktober 1999
+Skatteministeriet, den 2. januar 2002
 
-Ole Stavad
+Svend Erik Hovmand
 
 /K.-H. Ludolph
 
-Denne lovbekendtgørelse indeholder bemærkninger om ikrafttrædelses- og overgangsbestemmelser for love, der er vedtaget i perioden fra 1. oktober 1998 til 24. juni 1999. For så vidt angår ikrafttrædelses- og overgangsbestemmelser til tidligere ændringer af virksomhedsskatteloven henvises til lovbekendtgørelse nr. 640 af 21. august 1998.
+Denne lovbekendtgørelse indeholder bemærkninger om ikrafttrædelses- og overgangsbestemmelser for love, der er vedtaget i folketingsåret 1999-2000 og 2000-2001.
 
-§ 1, stk. 3, 3. pkt., er ændret ved § 5 i lov nr. 426 af 26. juni 1998 om ændring af forskellige skattelove (Ændringer som følge af lov om en kommunal og amtskommunal ejendomsværdiskat). Loven har virkning fra og med indkomståret 2000, jf. lovens § 10, stk. 2.
+Bestemmelsen i § 2, stk. 4 ophæves, hvorefter stk. 5-7 bliver til stk. 4-6, § 2, stk. 5, der bliver stk. 4, § 22 a, stk. 1, 3. og 4. pkt., i den her anførte affattelse, trådte i kraft den 22. december 1999 og har virkning fra og med indkomståret 1999. Skattepligtige, som for indkomståret 1998 har selvangivet i overensstemmelse med reglerne i kildeskattelovens § 25 A, stk. 8, og virksomhedsskattelovens § 2, stk. 4, som affattet ved lov nr. 976 af 17. december 1997, kan dog vælge at anvende § 10, nr. 1, og § 18 i nærværende lov, hvis underretning herom sker til den skatteansættende myndighed inden den 30. juni 2000, jf. § 21, stk. 20 i lov nr. 958 af 20. december 1999.
 
-§ 10, stk. 2, § 13, stk. 1, 2. pkt., § 22 b, stk. 2, 1. pkt. og § 22 b stk. 3, 1. pkt., er ændret ved § 3 i lov nr. 910 af 16. december 1998 om ændring af forskellige skattelove (Nedsættelse af skattesatsen for selskaber og fonde samt virksomhedsskatteprocenten). Loven har virkning fra og med indkomståret 1999, jf. lovens § 11, stk. 2.
+Bestemmelsen i § 3, stk. 3, § 13, stk. 1, 1. pkt., § 22 b, stk. 1, 6. pkt. og § 22 b, stk. 8, 1. pkt., samt indsættelserne i § 10, stk. 3, 3. pkt., nyt stk. 4 i § 10, efter stk. 3, hvor efter stk. 4 bliver til stk. 5 og indsættelsen af nyt stk. 6 i § 22 b, hvorefter stk. 6-10 bliver til stk. 7-11, trådte i kraft den 1. januar 2001 og har virkning fra og med indkomståret 2001, jf. § 6 stk. 1 og 2 i lov nr. 1283 af 20. december 2000.
 
-§ 10, stk. 4, er indsat ved § 3 i lov nr. 910 af 16. december 1998 om ændring af forskellige skattelove (Nedsættelse af skattesatsen for selskaber og fonde samt virksomhedsskatteprocenten). Loven har virkning fra og med indkomståret 1999, jf. lovens § 11, stk. 2.
+Bestemmelsen i § 10, stk. 2, 1. pkt., i den her anførte affattelse, trådte i kraft og har virkning fra og med indkomståret 2001, jf. § 5, stk. 1 og 2 i lov nr. 1279 af 20. december 2000.
 
-§ 16, stk. 2, og § 16 a, stk. 4, er indsat ved § 2 i lov nr. 252 af 28. april 1999 om ændring af lov om skattefri virksomhedsomdannelse, virksomhedsskatteloven, personskatteloven og fusionsskatteloven (Lempelse af betingelserne for omdannelse af virksomheder med flere ejere samt indførelse af krav om fuldt vederlag i aktier eller anparter m.v.). Loven har virkning for omdannelser, der finder sted den 1. juli 1999 eller senere, jf. lovens § 5 stk. 2.
+Indsættelserne i § 16, stk. 2, 1. pkt., og § 16 a, stk. 4, 1. pkt., trådte i kraft den 18. maj 2001, jf. § 6 i lov nr. 339 af 16. maj 2001.
 
-§ 16 a, stk. 2 og stk. 3, er ændret ved § 2 i lov nr. 252 af 28. april 1999 om ændring af lov om skattefri virksomhedsomdannelse, virksomhedsskatteloven, personskatteloven og fusionsskatteloven (Lempelse af betingelserne for omdannelse af virksomheder med flere ejere samt indførelse af krav om fuldt vederlag i aktier eller anparter m.v.). Loven har virkning for omdannelser, der finder sted den 1. januar 1999 eller senere, eller hvor omdannelsesdatoen er den 1. januar 1999 eller senere, jf. lovens § 5, stk. 1.
+Indsættelsen af nyt afsnit og ny § 22 c, trådte i kraft den 1. januar 2001 og har virkning for aktie- og anpartserhvervelser, der finder sted den 1. januar 2001 eller senere, jf. § 3 i lov nr. 1281 af 20. december 2001.
