@@ -6,13 +6,17 @@
 
 3) endelig prioritering af nyopførte ejendomme,
 
-4) endelig prioritering af ejendomme, der er udbedret eller ombygget med støtte efter § 52, stk. 2, § 54, § 54 a eller kapitel 9 a, såfremt kommunalbestyrelsen har forsynet pantebrevet med en påtegning herom,
+4) endelig prioritering af ejendomme, der er udbedret eller ombygget med støtte efter § 36, stk. 2, § 52, stk. 2 eller kapitel 9 a, såfremt kommunalbestyrelsen har forsynet pantebrevet med en påtegning herom,
 
 5) endelig prioritering af ejendomme, der er ombygget eller forbedret efter lov om sanering, lov om byfornyelse og boligforbedring eller lov om boliger for ældre og personer med handicap, såfremt kommunalbestyrelsen har forsynet pantebrevet med påtegning herom,
 
 6) endelig prioritering af ejendomme, hvor der med kommunalbestyrelsens godkendelse er optaget lån til finansiering af ekstraordinære renoveringsarbejder, såfremt kommunalbestyrelsen har forsynet pantebrevet med en påtegning herom,
 
 7) optagelse af lån til finansiering af forandringer, som kommunalbestyrelsen har godkendt i medfør af § 3 b, såfremt kommunalbestyrelsen har forsynet pantebrevet med en påtegning herom og lånet ikke skal have sikkerhed sideordnet med eller forud for statslån eller statsgaranterede lån.
+
+8) ydelse af kommunale lån til almennyttige boligafdelinger efter reglerne i § 39,
+
+9) optagelse af driftsstøttelån ydet af et realkreditinstitut, såfremt kommunalbestyrelsen har forsynet pantebrevet med en påtegning herom.
 
 Stk. 2. Ved anmeldelse til tinglysning af et pantebrev i en ejendom, der tilhører et almennyttigt boligselskab, skal dokumentet være ledsaget af et samtykke efter stk. 1, medmindre pantebrevet indeholder boligselskabets erklæring om, at betingelserne for udstedelse af pantebrevet uden samtykke er opfyldt, jf. stk. 1. Hvis samtykke eller erklæring ikke foreligger, sætter dommeren i overensstemmelse med reglerne i tinglysningsloven en frist til fremskaffelse af samtykket eller erklæringen.
 
