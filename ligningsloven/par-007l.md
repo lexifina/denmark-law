@@ -1,0 +1,1 @@
+§ 7 L. (* 53) Ved opgørelsen af den skattepligtige indkomst medregnes ikke bidrag indeholdt i medfør af § 11, stk. 10, i lov om arbejdsmarkedsfonde for personer, der er omfattet af bidragspligten efter lovens § 7, stk. 1, jf. § 8, stk. 1. 1. pkt. finder tilsvarende anvendelse på indeholdt pensionsopsparing efter § 17 b, stk. 1, i lov om Arbejdsmarkedets Tillægspension.

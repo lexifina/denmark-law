@@ -1,0 +1,3 @@
+§ 8 L. Ved opgørelsen af den skattepligtige indkomst kan udgifter omregnet efter § 16 E, stk. 6, til erhvervelse af knowhow og patentrettigheder i tilknytning til den skattepligtiges erhverv efter den skattepligtiges valg enten fradrages fuldt ud i det indkomstår, hvori udgifterne er afholdt, eller afskrives efter § 16 F, stk. 2.
+
+Stk. 2. Afhændes eller afstås knowhow eller patentrettigheder, hvis anskaffelsesudgift i medfør af stk. 1 er fradraget fuldt ud i den skattepligtige indkomst, skal afhændelses- eller afståelsessummen omregnet efter § 16 E, stk. 6, fuldt ud medregnes i den skattepligtige indkomst for det indkomstår, hvori afhændelsen eller afståelsen finder sted.
