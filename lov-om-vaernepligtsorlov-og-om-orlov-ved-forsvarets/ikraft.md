@@ -4,10 +4,8 @@ Lov nr. 910 af 8. december 1993 om ændring af lov om forsvarets personel, lov o
 
 Loven træder i kraft den 1. januar 1994.
 
-Arbejdsministeriet den 14. december 1993
+Lov nr. 444 af 7. juni 2001 om ændring af lov om retsforholdet mellem arbejdsgivere og funktionærer og lov om værnepligtsorlov og om orlov til FN-tjeneste m.v. (Ændring af timegrænse) indeholder følgende ikrafttrædelsesbestemmelse:
 
-Jytte Andersen
+§ 3
 
-/ E. Edelberg
-
-Ingen
+Loven træder i kraft dagen efter bekendtgørelse i Lovtidende.
