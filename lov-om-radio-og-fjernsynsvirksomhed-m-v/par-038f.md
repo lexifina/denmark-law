@@ -1,0 +1,1 @@
+§ 38 f. I tilfælde af inddragelse i henhold til §§ 38 d eller 38 e kan kulturministeren udstede tilladelse til et andet foretagende, som i givet fald indtræder i TV 2/DANMARK A/S rettigheder og forpligtelser i medfør af lov om radio- og fjernsynsvirksomhed og bestemmelser fastsat i medfør af loven. § 38 a, stk. 2, finder tilsvarende anvendelse.
