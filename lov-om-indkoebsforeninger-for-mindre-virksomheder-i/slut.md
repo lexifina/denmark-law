@@ -1,7 +1,7 @@
-Landbrugsministeriet, den 5. april 1989
+Landbrugsministeriet, den 3. august 1990
 
-LAURITS TØRNÆS
+Laurits Tørnæs
 
-/Dorte Wier
+/ Mogens Nagel Larsen
 
 Ingen
