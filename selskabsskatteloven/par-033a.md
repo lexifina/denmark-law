@@ -2,7 +2,7 @@
 
 Stk. 2. Hvis overdrageren er en person, finder bestemmelsen i stk. 1, 1.-3. pkt., kun anvendelse, når overdragelsen vedrører kapitalandele, der henregnes til hovedaktionæraktier efter personskattelovens § 19 a, stk. 2-4, dog således, at en ejerandel på 10 pct. af aktie- eller anpartskapitalen anses som hovedaktionæraktier. Hvis overdrageren er et selskab m.v., finder bestemmelsen i stk. 1, 1.-3. pkt., kun anvendelse, når overdragelsen vedrører kapitalandele i koncernforbundne selskaber, jf. kursgevinstlovens § 6 B, stk. 3, dog således, at der ved en ejerandel på 10 pct. af aktiekapitalen i hvert selskab anses at foreligge koncernforbundne selskaber.
 
-Stk. 3. Bestemmelsen i stk. 1 finder endvidere kun anvendelse, når overdragelsen vedrører kapitalandele i et selskab, der på overdragelsestidspunktet i det væsentlige er uden økonomisk risiko ved erhvervsmæssig aktivitet.
+Stk. 3. (* 7) Bestemmelsen i stk. 1 finder endvidere kun anvendelse, når overdragelsen vedrører kapitalandele i et selskab, der på overdragelsestidspunktet i det væsentlige er uden økonomisk risiko ved erhvervsmæssig aktivitet eller ved erhvervsmæssig aktivitet i et eller flere datterselskaber, hvori selskabet ejer mindst 25 pct. af aktiekapitalen.
 
 Stk. 4. Overpris efter stk. 1 anses at foreligge, når betalingen for kapitalandelene klart overstiger den forholdsmæssige andel af selskabets nettoværdi på overdragelsestidspunktet.
 

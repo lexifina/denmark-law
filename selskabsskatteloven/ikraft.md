@@ -18,7 +18,7 @@ Stk. 8. § 4, nr. 2, har virkning for fordringer, der udstedes fra og med den 27
 
 Stk. 9. § 1, nr. 1, § 2, nr. 2, og § 5, nr. 1, har virkning fra og med indkomståret 1995.
 
-Stk. 10. For andelskasser og sammenslutniinger af andelskasser efter kapitel 4 D i lov om banker og sparekasser m.v. udgør indkomstskatten efter selskabsskattelovens § 17, stk. 1, 15 pct. for indkomståret 1995 og 25 pct. for indkomståret 1996.
+Stk. 10. For andelskasser og sammenslutninger af andelskasser efter kapitel 4 D i lov om banker og sparekasser m.v. udgør indkomstskatten efter selskabsskattelovens § 17, stk. 1, 15 pct. for indkomståret 1995 og 25 pct. for indkomståret 1996.
 
 Stk. 11. § 1, nr. 28, har virkning fra og med indkomståret 1997. Til og med indkomståret 1996 finder selskabsskattelovens § 31, stk. 3, nr. 2, som affattet ved lovbekendtgørelse nr. 752 af 15. september 1993, anvendelse.
 
@@ -36,7 +36,7 @@ Stk. 2. Andelsbeviser eller andele i selskaber og foreninger m.v., der inden for
 
 I perioden fra og med 27. oktober 1993 og indtil udgangen af indkomståret 1993 henholdsvis indkomståret 1994 finder reglerne i §§ 20-25 anvendelse.
 
-§ 20 (* 29)
+§ 20
 
 Stk. 1. Ved en ændring som nævnt i selskabsskattelovens § 5 B, stk. 1, skal der ske en opgørelse af den formue, som er opsamlet i selskabet eller foreningen m.v. under beskatningen efter § 1, stk. 1, nr. 3 a eller 4, eller efter stk. 2, 2. pkt., eller en tilsvarende beskatning. Beløbet opgøres som handelsværdien ved overgangen fratrukket en eventuel indbetalt andelskapital. Såfremt selskabet eller foreningen tidligere har været beskattet efter andre regler i § 1, opgøres beløbet som differencen mellem handelsværdien af selskabets eller foreningens aktiver og passiver ved overgangen og handelsværdien ved indtræden af beskatning efter § 1, stk. 1, nr. 3 a eller 4, eller efter stk. 2, 2. pkt., eller en tilsvarende beskatning. Fra handelsværdierne trækkes en eventuel indbetalt andelskapital. Beløbet angives ved selvangivelsen for overgangsåret.
 
@@ -62,7 +62,7 @@ Stk. 3. Reglerne i aktieavancebeskatningslovens § 2 b finder ikke anvendelse, s
 
 § 22
 
-Ved en omddannelse som nævnt i § 20, stk. 6, finder fusionsskattelovens §§ 9, 11 og 13 tilsvarende anvendelse. Modtagne aktier anses dog ikke for omfattet af aktieavancebeskatningslovens § 2 b.
+Ved en omdannelse som nævnt i § 20, stk. 6, finder fusionsskattelovens §§ 9, 11 og 13 tilsvarende anvendelse. Modtagne aktier anses dog ikke for omfattet af aktieavancebeskatningslovens § 2 b.
 
 § 23
 

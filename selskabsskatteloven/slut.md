@@ -1,46 +1,20 @@
-Skatteministeriet, den 19. september 1995
+Skatteministeriet, den 21. oktober 1996
 
 Carsten Koch
 
-/ Lars Henry Nielsen
+/ K.-H. Ludolph
 
-(* 1) Denne lovbekendtgørelse indeholder bemærkninger om ikrafttrædelses- og overgangsbestemmelser for love, der er vedtaget i folketingsåret 1994-95. Bemærkninger om ikrafttrædelses- og overgangsbestemmelser for tidligere vedtagne ændringer i selskabsskatteloven er kun medtaget i det omfang, de skønnes at have betydning.
+(* 1) Denne lovbekendtgørelse indeholder noter til ændringer af selskabsskatteloven, der er vedtaget i folketingsåret 1995-96. Noter til tidligere ændringer af selskabsskatteloven kan findes i Skatteministeriets lovbekendtgørelse nr. 769 af 19. september 1995.
 
-(* 2) § 1, stk. 1, nr. 2 a, i den her anførte affattelse har virkning fra og med indkomståret 1995, jf. § 5 i lov nr. 1090 af 21. december 1994.
+(* 2) Ved lov nr. 1072 af 20. december 1995 om værdipapirhandel m.v. er § 3, stk. 1, nr. 18, § 35 K, stk. 1, 1. pkt., § 35 K, stk. 2 ændret, og § 35 K, stk. 1, 7. pkt., indsat. Loven trådte i kraft den 22. december 1995. Ændringen i § 35 K, stk. 1, 1. pkt., og indsættelsen af § 35 K, stk. 1, 7. pkt., har dog kun virkning for selskaber og foreninger m.v., der fra og med 22. december 1995 bliver omfattet af § 35 K.
 
-(* 3) § 1, stk. 1, nr. 2 b, § 23, stk. 2, § 24, stk. 5, og § 31, stk. 4, nr. 3, har virkning fra og med den 1. januar 1995, jf. § 10, stk. 1, i lov nr. 90 af 8. februar 1995.
+Ved samme lov er § 9, stk. 1, 1. pkt., § 13, stk. 1, nr. 2, 1. pkt., § 17, stk. 1, § 17, stk. 2, § 32, stk. 1, 1. pkt. ændret, § 1, stk. 1, nr. 2 c, § 35 J, stk. 5, § 35 K, stk. 7, § 35 N indsat og § 3, stk. 1, nr. 12 og 18 ophævet. Loven er for disse bestemmelsers vedkommende trådt i kraft den 1. januar 1996, jf. bekendtgørelse nr. 334 af 30. april 1996, og har virkning fra og med indkomståret 1997, jf. lovens § 126, stk. 3.
 
-(* 4) § 1, stk. 7, § 4, stk. 3, § 9, stk. 1, 2. pkt., § 13, stk. 1, nr. 2, 3. pkt., § 17, stk. 5, § 31, stk. 5-10, og § 32 har virkning fra indkomståret 1995. Er indkomståret 1995 for et selskab eller en forening m.v. påbegyndt før 2. november 1994, har bestemmelserne dog først virkning fra indkomståret 1996, jf. § 11, stk. 2, i lov nr. 312 af 17. maj 1995.
+Udlandslempelsen, som affattet i § 17, stk. 2, i lovbekendtgørelse nr. 873 af 23. oktober 1992, er ophævet ved lov nr. 486 af 30. juni 1993. Loven har virkning fra og med indkomståret 1994, jf. lovens § 3, stk. 2. I lovens § 4 bestemmes:
 
-(* 5) § 2, stk. 1, litra b, 2. pkt., og § 7 A i den her anførte affattelse har virkning for indkomståret 1996 og senere indkomstår, jf. § 19, stk. 1, i lov nr. 313 af 17. maj 1995. Ved lov nr. 313 af 17. maj 1995 er med ovennævnte virkningstidspunkt § 8, stk. 2, som affattet ved lovbekendtgørelse nr. 724 af 2. august 1994 ophævet.
+»Stk. 1. Godtgør et af de i selskabsskattelovens § 1, stk. 1, nr. 1-3, 5 og 5 b, nævnte selskaber og foreninger m.v., at en vis del af dets skattepligtige indkomst hidrører fra virksomhed i udlandet, nedsættes den beregnede indkomstskat med henholdsvis 6/7 for indkomståret 1994, 5/7 for indkomståret 1995, 4/7 for indkomståret 1996, 3/7 for indkomståret 1997, 2/7 for indkomståret 1998 og 1/7 for indkomståret 1999 af halvdelen af det skattebeløb, der forholdsmæssigt svarer til den nævnte del af indkomsten. Ved opgørelsen af den del af den skattepligtige indkomst, der hidrører fra virksomhed i udlandet, regnes alene med den ved nævnte virksomhed indtjente nettoindtægt. Hvor det er forbundet med betydelige praktiske vanskeligheder at opgøre, hvor stor den del af den skattepligtige indkomst der hidrører fra virksomhed i udlandet, kan Ligningsrådet tillade, at nedsættelsen beregnes på andet grundlag. Bestemmelsen finder ikke anvendelse på indtægter hidrørende fra Færøerne og Grønland.
 
-(* 6) § 2, stk. 1, litra c, § 5, stk. 5, og § 27, stk. 3, i den her anførte affattelse har virkning fra den 2. november 1994, jf. § 11, stk. 3, i lov nr. 312 af 17. maj 1995.
-
-(* 7) § 3, stk. 1, nr. 1, § 13, stk. 1, nr. 2, 1. pkt., § 17, stk. 1, og § 17, stk. 2, i den her anførte affattelse har virkning fra og med den 1. januar 1995, jf. § 10, stk. 1, i lov nr. 90 af 8. februar 1995.
-
-(* 8) § 3, stk. 3, 4. pkt., § 4, stk. 1 og 2, § 5, stk. 1-3, § 5 A, stk. 1 og 2, § 6, § 7, § 10, stk. 5, 2. pkt., § 24, stk. 1, 1. pkt., § 24, stk. 2, 1., 2. og 3. pkt., § 27, stk. 2, 1. pkt., § 28, stk. 2, § 29, stk. 1, § 29 B, stk. 5, 7. og 8. pkt., § 30, stk. 1, 1. pkt., § 30, stk. 2, § 30, stk. 4, 2. pkt., § 30 A, stk. 1, 1. pkt., § 30 A, stk. 4, § 35 K, stk. 1, 1., 2., 5. og 7. pkt., og § 35 K, stk. 2, 2. pkt., i den her anførte affattelse har virkning fra og med indkomståret 1996, jf. § 10, stk. 2, i lov nr. 180 af 23. marts 1995. I § 35 L, stk. 3, ændres »skatteår« til: »indkomstår« med virkning fra og med indkomståret 1996, jf. § 10, stk. 2, i lov nr. 180 af 23. marts 1995.
-
-(* 9) § 4 A og § 5, stk. 7, har virkning fra den 2. november 1994, jf. § 11, stk. 3, i lov nr. 312 af 17. maj 1995. § 4 A, stk. 6, har dog virkning fra den 6. april 1995, jf. § 11, stk. 5, i lov nr. 312 af 17. maj 1995.
-
-(* 10) § 10, stk. 1 og 2, § 28, stk. 3, § 29 E, og § 30 A, stk. 3, har virkning fra og med indkomståret 1996, jf. § 10, stk. 2, i lov nr. 180 af 23. marts 1995.
-
-(* 11) § 10, stk. 3, som affattet ved lovbekendtgørelse nr. 724 af 2. august 1994, er ved lov nr. 180 af 23. marts 1995 ophævet med virkning fra og med indkomståret 1996, jf. § 10, stk. 2, i lov nr. 180 af 23. marts 1995. I lovens § 10 bestemmes:
-
-»Stk. 13. For selskaber og foreninger m.v., som har været omfattet af selskabsskattelovens § 10, stk. 3, som affattet ved lovbekendtgørelse nr. 724 af 2. august 1994, og for selskaber, for hvilke Ligningsrådet efter selskabsskattelovens § 10, stk. 1, som affattet ved lovbekendtgørelse nr. 593 af 30. september 1988, har givet tilladelse til, at et andet indkomstår lægges til grund ved skatteansættelsen, forfalder skatten for indkomståret 1995 med 1/4 den 1. november i hvert af årene 1997, 1998, 1999 og 2000. Sidste rettidige betalingsdag er den 20. i forfaldsmåneden.«.
-
-(* 12) § 13, stk. 3, og § 13, stk. 4, i den her anførte affattelse har virkning fra indkomståret 1995. Er indkomståret 1995 for et selskab eller en forening m.v. påbegyndt før 2. november 1994, har bestemmelserne dog først virkning fra indkomståret 1996, jf. § 11, stk. 2, i lov nr. 312 af 17. maj 1995.
-
-(* 13) § 13 B, stk. 1, i den her anførte affattelse har virkning fra og med 1. januar 1995, jf. § 3, stk. 2, i lov nr. 425 af 14. juni 1995.
-
-(* 14) § 13 C har virkning fra og med den 18. januar 1995, jf. § 3, stk. 1, i lov nr. 256 af 19. april 1995. I lovens § 3 bestemmes:
-
-»Stk. 2. Forsikringsselskaberne kan i stedet for at anvende det i selskabsskattelovens § 13 C, som affattet ved denne lovs § 1, nævnte opgørelsestidspunkt, den 31. december 1994, vælge at opgøre de forsikringsmæssige reserver for egen regning, bortset fra bonushensættelser, og sikkerhedsfondshenlæggelser pr. 17. januar 1995.«.
-
-(* 15) Udlandslempelsen, som affattet i § 17, stk. 2, i lovbekendtgørelse nr. 873 af 23. oktober 1992, er ophævet ved lov nr. 486 af 30. juni 1993. Loven har virkning fra og med indkomståret 1994, jf. lovens § 3, stk. 2. I lovens § 4 bestemmes:
-
-»Stk. 1. Godtgør et af de i selskabsskattelovens § 1, stk. 1, nr. 1-3, 5 og 5 b, nævnte selskaber og foreninger m.v., at en vis del af dets skattepligtige indkomst hidrører fra virksomhed i udlandet, nedsættes den beregnede indkomstskat med henholdsvis 6/7 for indkomståret 1994, 5/7 for indkomståret 1995, 4/7 for indkomståret 1996, 3/7 for indkomståret 1997, 2/7 for indkomståret 1998 og 1/7 for indkomståret 1999 af halvdelen af det skattebeløb, der forholdsmæssigt svarer til den nævnte del af indkomsten. Ved opgørelsen af den del af den skattepligtige indkomst, der hidrører fra virksomhed i udlandet, regnes alene med den ved nævnte virksomhed indtjente nettoindtægt. Hvor det er forbundet med betydelige praktiske vanskeligheder at opgøre, hvor stor en del af den skattepligtige indkomst der hidrører fra virksomhed i udlandet, kan Ligningsrådet tillade, at nedsættelsen beregnes på andet grundlag. Bestemmelsen finder ikke anvendelse på indtægter hidrørende fra Færøerne og Grønland.
-
-Stk. 2. Reglerne i stk. 1 finder tilsvarende anvendelse på de af fondsbeskatningsloven omfattede fonde og foreninger.«.
+Stk. 2. Reglerne i stk. 1 finder tilsvarende anvendelse på de af fondsbeskatningsloven omfattede fonde og foreninger.«
 
 I § 10 i lov nr. 427 af 14. juni 1995 er følgende bestemt:
 
@@ -50,36 +24,50 @@ I § 4, stk. 1, ændres »§ 1, stk. 1, nr. 1-3, 5 og 5 b,» til: »§ 1, stk. 1
 
 § 10 har virkning fra og med indkomståret 1995, jf. § 11, stk. 5, i lov nr. 427 af 14. juni 1995. I lovens § 11 bestemmes:
 
-» Stk. 6. For andelsforeninger omfattet af selskabsskattelovens § 1, stk. 1, nr. 3, for brugsforeninger omfattet af selskabsskattelovens § 1, stk. 1, nr. 3 a, og for foreninger m.v. omfattet af selskabsskattelovens § 1, stk. 1, nr. 4, hvis indkomstår 1994 er påbegyndt den 27. oktober 1993 eller senere, har § 10 virkning fra og med indkomståret 1994.«.
+»Stk. 6. For andelsforeninger omfattet af selskabsskattelovens § 1, stk. 1, nr. 3, for brugsforeninger omfattet af selskabsskattelovens § 1, stk. 1, nr. 3 a, og for foreninger m.v. omfattet af selskabsskattelovens § 1, stk. 1, nr. 4, hvis indkomstår 1994 er påbegyndt den 27. oktober 1993 eller senere, har § 10 virkning fra og med indkomståret 1994.«.
 
-(* 16) § 24, stk. 1, 2. pkt., er bragt i overensstemmelse med § 2, nr. 2, i lov nr. 283 af 8. juni 1977.
+I § 115 i lov nr. 1072 af 20. december 1995 er følgende bestemt:
 
-(* 17) § 26, stk. 1, i den her anførte affattelse har virkning for indkomstår, der afsluttes 31. december 1994 eller senere, jf. § 10, stk. 3, i lov nr. 180 af 23. marts 1995.
+»I lov nr. 486 af 30. juni 1993 om ændring af lov om indkomstbeskatning af aktieselskaber m.v. (selskabsskatteloven) og lov om beskatning af fonde og visse foreninger (fondsbeskatningsloven). (Ophævelse af udlandslempelsen), som ændret ved § 10 i lov nr. 427 af 14. juni 1995 foretages følgende ændring:
 
-(* 18) § 29 A, stk. 4, og § 30 A, stk. 8, jf. dog nedenfor i den her anførte affattelse har virkning fra og med indkomståret 1995, jf. § 10, stk. 4, i lov nr. 180 af 23. marts 1995. I lovens § 10, stk. 4, bestemmes endvidere: »For indkomståret 1995 kan selskaber m.v. omfattet af selskabsskattelovens § 29 A, stk. 4, og § 30 A, stk. 8, dog indbetale acontoskat til og med den 31. marts 1995 med den i selskabsskattelovens § 29 B, stk. 6, 2. pkt., nævnte virkning.«. Med virkning fra og med indkomståret 1996 bliver § 30 A, stk. 7, til § 30 A, stk. 8, og i § 30 A, stk. 8, ændres med samme virkningstidspunkt »stk. 3-5« følgelig til: »stk. 4-6«.
+I § 4, stk. 1, ændres »§ 1, nr. 1-2 b, 3 a-5 og 5 b« til: »§ 1, stk. 1, nr. 1-2 c, 3 a-5 og 5 b«.'
 
-(* 19) § 29 B, stk. 6, 4. pkt., har virkning fra og med indkomståret 1995, jf. § 10, stk. 4, i lov nr. 180 af 23. marts 1995.
+§ 115 trådte i kraft den 1. maj 1996, jf. bekendtgørelse nr. 334 af 30. april 1996, og har virkning fra og med indkomståret 1997, jf. lovens § 126, stk. 3.
 
-(* 20) § 31, stk. 1, 5. pkt., i den her anførte affattelse har virkning fra og med den 16. juni 1995, jf. § 9, stk. 1, i lov nr. 412 af 14. juni 1995.
+(* 3) Ved lov nr. 1078 af 20. december 1995 om ændring af lov om kommunal indkomstskat, selskabsskatteloven, fondsbeskatningsloven, lov om beskatningen af pensionsordninger m.v. og ligningsloven er § 23, stk. 1, ændret. Loven trådte i kraft den 1. januar 1996.
 
-(* 21) § 31, stk. 4, nr. 2, har virkning fra og med indkomståret 1997. Til og med indkomståret 1996 finder selskabsskattelovens § 31, stk. 3, nr. 2, som affattet ved lovbekendtgørelse nr. 752 af 15. september 1993, anvendelse, jf. § 17, stk. 1, i lov nr. 374 af 18. maj 1994.
+(* 4) Ved lov nr. 1104 af 20. december 1995 om ændring af skattekontrolloven, skattestyrelsesloven, kildeskatteloven, selskabsskatteloven og fondsbeskatningsloven er overskriften til afsnit V ændret og §§ 26-29 ophævet med virkning fra og med indkomståret 1995. For selvangivelsespligtige, der har skullet selvangive for indkomståret 1995 før den 1. januar 1996, finder de hidtidige selvangivelsesregler anvendelse for indkomståret 1995.
 
-(* 22) I § 11 i lov nr. 312 af 17. maj 1995 bestemmes:
+(* 5) Ved lov nr. 306 af 24. april 1996 om ændring af forskellige skattelove er § 13 C, stk. 2, 1. pkt., ændret med virkning fra og med indkomståret 1996.
 
-» Stk. 14. For selskaber, som den 2. november 1994 opfyldte betingelserne i selskabsskattelovens § 32 som affattet ved denne lovs § 1, nr. 14, har bestemmelsen først virkning fra indkomståret 1998. Er indkomståret 1995 for et selskab eller en forening m.v. påbegyndt før 2. november 1994, har bestemmelsen dog først virkning fra indkomståret 1999.«.
+(* 6) Ved lov nr. 379 af 22. maj 1996 om fond til investeringer i vækstmarkeder m.v. er § 3, stk. 1, nr. 17 og § 31, stk. 1, 4. pkt. ændret. Loven træder i kraft efter erhvervsministerens bestemmelse.
 
-(* 23) § 35 J, stk. 3, 2. pkt., og § 35 L, stk. 2, i den her anførte affattelse har for selskaber og foreninger m.v., hvis indkomstår 1994 påbegyndes den 27. oktober 1993 eller senere, virkning fra og med indkomståret 1994. For selskaber og foreninger, hvis indkomstår 1994 er påbegyndt før den 27. oktober 1993, har bestemmelserne i den her anførte affattelse virkning fra og med indkomståret 1995, jf. 10, stk. 5, i lov nr. 180 af 23. marts 1995.
+(* 7) Ved lov nr. 399 af 22. maj 1996 om ændring af forskellige skattelove er § 1, stk. 1, nr. 5 a, ændret, § 13, stk. 6-9, indsat, og § 1, stk. 4, § 13, stk. 4, 2. og 3. pkt., samt § 13, stk. 5, 4. pkt., (som affattet ved lovbekendtgørelse nr. 769 af 19. september 1995), ophævet med virkning fra og med 1. januar 1996.
 
-(* 24) Ved lov nr. 180 af 23. marts 1995 er § 35 L, stk. 3, som affattet ved lovbekendtgørelse nr. 724 af 2. august 1994, for selskaber og foreninger m.v., hvis indkomstår 1994 er påbegyndt før den 27. oktober 1993, ophævet med virkning fra og med indkomståret 1994. For selskaber og foreninger m.v., hvis indkomster 1994 er påbegyndt før den 27. oktober 1993, er bestemmelsen ophævet med virkning fra og med indkomståret 1995, jf. § 10, stk. 5, i lov nr. 180 af 23. marts 1995. Ved samme lov ændres med ovennævnte virkningstidspunkt i § 35 L, stk. 3, »stk. 3« til: »stk. 2«, jf. § 10, stk. 5, i lov nr. 180 af 23. marts 1995.
+Et negativt beløb, som efter selskabsskattelovens § 1, stk. 4, 2. og 3. pkt., som affattet ved lovbekendtgørelse nr. 769 af 19. september 1995, ville kunne fremføres til fradrag efter den 1. januar 1996, kan fradrages efter ligningslovens § 16 C, stk. 6, i indtil det femte indkomstår efter det indkomstår, hvori det negative beløb er opstået. Dette gælder dog kun, i det omfang det negative beløb udgøres af tab som omhandlet i kursgevinstlovens § 6.
 
-(* 25) § 35 M har virkning fra og med indkomståret 1995, jf. § 5 i lov nr. 1090 af 21. december 1994.
+Ved samme lov er § 3, stk. 1, nr. 16, og § 33 A, stk. 3, ændret. Loven trådte for disse bestemmelsers vedkommende i kraft den 24. maj 1996. Ændringen af § 33 A, stk. 3, har virkning for overdragelser, hvorom der indgås bindende aftaler den 1. juli 1994 eller senere.
 
-(* 26) § 36 i den her anførte affattelse har virkning fra og med den 1. juli 1994, jf. § 10, stk. 6, i lov nr. 180 af 23. marts 1995. Til og med indkomståret 1995 gælder, jf. § 10, stk. 6, i lov nr. 180 af 23. marts 1995 følgende affattelse af § 36, stk. 1, 1. pkt.: »For selskaber og foreninger m.v, der omfattes af § 10, stk. 1, nr. 2 og 3, hvis indkomstår ikke udløber ved udgangen af et kvartal, forlænges indkomståret til udgangen af det løbende kvartal, når indkomståret udløber i perioden 1. april - 30. december.«.
+Ved samme lovs § 10 er bestemt følgende:
 
-(* 27) § 36, stk. 2, som affattet ved lovbekendtgørelse nr. 724 af 2. august 1994 er ophævet med virkning fra og med den 1. juli 1994, jf. § 10, stk. 6, i lov nr. 180 af 23. marts 1995.
+»I lov nr. 256 af 19. april 1995 om ændring af selskabsskatteloven og fusionsskatteloven. (Sikkerhedsfonde) foretages følgende ændring:
 
-(* 28) § 39 er ophævet med virkning fra og med den 26. marts 1995, jf. § 10, stk. 1, i lov nr. 180 af 23. marts 1995.
+I § 3 indsættes som stk. 3:
 
-(* 29) Overgangsbestemmelserne, §§ 19-25, i lov nr. 374 af 18. maj 1994 som ændret ved § 7 i lov nr. 180 af 23. marts 1995, er optrykt ovenfor. § 20 i den her anførte affattelse finder anvendelse i perioden fra og med 27. oktober 1993 og indtil udgangen af indkomståret 1993 henholdsvis indkomståret 1994, jf. § 10, stk. 12, i lov nr. 180 af 23. marts 1995.
+»Stk. 3. Forsikringsselskaber, der har et andet indkomstår end kalenderåret, kan endvidere i stedet for at anvende det i selskabsskattelovens § 13 C, som affattet ved denne lovs § 1, nævnte opgørelsestidspunkt, den 31. december 1994, vælge at opgøre de forsikringsmæssige reserver for egen regning bortset fra bonushensættelser og sikkerhedsfondshenlæggelser ultimo det indkomstår, der træder i stedet for kalanderåret 1994.«»
 
-Ingen
+Lovens § 10 har virkning fra og med den 18. januar 1995.
+
+(* 8) Ved lov nr. 401 af 22. maj 1996 om ændring af selskabsskatteloven, ligningsloven, aktieavancebeskatningsloven er § 30 A, stk. 1, 1. pkt., og § 30 A, stk. 2, 1. pkt., ændret, og § 30 A, stk. 1, 5. og 6. pkt., indsat med virkning fra og med indkomståret 1997.
+
+(* 9) Ved lov nr. 487 af 12. juni 1996 om ændring af forskellige skattelove er § 4 A, stk. 3, § 31, stk. 7, ændret og § 4 A, stk. 4, og § 31, stk. 8, (som affattet ved lovbekendtgørelse nr. 769 af 19. september 1995) ophævet med virkning fra og med indkomståret 1995. Er dette påbegyndt inden den 2. november 1994, har bestemmelserne først virkning fra og med indkomståret 1996.
+
+Ved samme lov er § 4 a, stk. 5, ændret med virkning fra og med den 6. april 1995.
+
+Ved samme lov er § 13, stk. 4, § 13, stk. 7, stk. 8, og stk. 9, § 17, stk. 2 og stk. 3, § 32, stk. 10 og 11, ændret samt § 5, stk. 7, 3. pkt., § 13, stk. 6, § 32, stk. 1, 3. pkt., og § 32, stk. 2, indsat med virkning fra og med indkomståret 1996. Er indkomståret 1996 påbegyndt før den 6. december 1995 har loven dog først virkning fra og med indkomståret 1997. For selskaber m.v., som den 2. november 1994 opfyldte betingelserne i selskabsskattelovens § 32, har bestemmelserne i § 32, stk. 1 og 2, som ændret henholdsvis indsat ved den nævnte lov, først virkning fra og med indkomståret 1998. Var indkomståret 1995 for et selskab eller en forening påbegyndt før den 2. november 1994, har bestemmelsen i selskabsskattelovens § 32, stk. 1 og 2, som ændret henholdsvis indsat ved den nævnte lov, dog først virkning fra og med indkomståret 1999.
+
+Ved samme lov er § 31, stk. 1, 6. pkt., indsat. Ændringen finder anvendelse i forhold til anmodninger om sambeskatning, hvor samtlige aktiver i datterselskabet ikke var erhvervet inden den 6. december 1995.
+
+I den nævnte lovs § 12, stk. 13, er bestemt følgende:
+
+»Beslutning om ophør af sambeskatning, jf. selskabsskattelovens § 31, der er meddelt ved indgivelse af selvangivelse den 6. december 1995 eller senere, kan omgøres, hvis anmodning herom er indgivet inden den 1. september 1996«.
