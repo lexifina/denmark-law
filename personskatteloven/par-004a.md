@@ -10,8 +10,6 @@
 
 Stk. 2. (* 2) Stk. 1 omfatter ikke udbytter og fortjenester vedrørende aktier som nævnt i aktieavancebeskatningslovens § 2 a samt fortjeneste og tab ved afståelse af medlemsbeviser m.v. i foreninger m.v., som er skattepligtige efter selskabsskattelovens § 1, stk. 1, nr. 6.
 
-Stk. 3. (* 2) Aktieindkomst indgår ikke i den skattepligtige
-
-indkomst.
+Stk. 3. (* 2) Aktieindkomst indgår ikke i den skattepligtige indkomst.
 
 Beregning af indkomstskat
