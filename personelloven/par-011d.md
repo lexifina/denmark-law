@@ -1,0 +1,1 @@
+§ 11 d. Forsvarsministeren fastsætter regler for ydelse af kulancemæssig godtgørelse til personel, som udsendes til udlandet med henblik på deltagelse i de i § 11 a, stk. 1, nævnte opgaver, og som mister eller får beskadiget personlige ejendele som følge af tilstedeværelse i områder under krig eller krigslignende forhold.

@@ -1,0 +1,1 @@
+§ 9 a. Kvindeligt militært personel, der er afskediget eller hjemsendt, og for hvem militær tjeneste af enhver art efter foreliggende oplysninger må anses for at være uforenelig med deres samvittighed, kan af forsvarsministeren fritages for militær tjeneste. Forsvarsministeren fastsætter nærmere regler herom.

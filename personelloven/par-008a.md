@@ -1,0 +1,1 @@
+§ 8 a. Kvindelige menige på værnepligtslignende vilkår, der er hjemsendt, har pligt til at forrette tjeneste under krig eller andre ekstraordinære forhold efter nærmere regler fastsat af forsvarsministeren.
