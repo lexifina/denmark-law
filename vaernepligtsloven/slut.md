@@ -1,4 +1,4 @@
-Indenrigs- og Sundhedsministeriet, den 17. juni 2002
+Indenrigs- og Sundhedsministeriet, den 12. december 2003
 
 Lars Løkke Rasmussen
 
