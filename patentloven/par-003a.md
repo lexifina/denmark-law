@@ -1,0 +1,7 @@
+§ 3 a. Den beskyttelse, der er knyttet til et patent på et biologisk materiale, som i kraft af opfindelsen har bestemte egenskaber, omfatter ethvert biologisk materiale, der er fremstillet ud fra dette biologiske materiale ved reproduktion eller formering i identisk eller differentieret form, og som har de samme egenskaber.
+
+Stk. 2. Den beskyttelse, der er knyttet til et patent på en fremgangsmåde til fremstilling af et biologisk materiale, som i kraft af opfindelsen har bestemte egenskaber, omfatter det biologiske materiale, der direkte fremstilles ved denne fremgangsmåde, samt ethvert biologisk materiale, der er fremstillet ud fra det direkte fremstillede biologiske materiale ved reproduktion eller formering i identisk eller differentieret form, og som har de samme egenskaber.
+
+Stk. 3. Den beskyttelse, der er knyttet til et patent på et produkt, som indeholder eller består af genetisk information, omfatter ethvert materiale, hvori produktet indgår, og hvori den genetiske information er indeholdt og udøver sin funktion, jf. dog § 1 a.
+
+Stk. 4. Beskyttelsen efter stk. 1, 2 og 3, omfatter ikke biologisk materiale, der er fremstillet ved reproduktion eller formering af et biologisk materiale, som er markedsført på en medlemsstats område af patenthaveren eller med dennes samtykke, hvis denne reproduktion eller formering er foretaget som et nødvendigt led i den anvendelse, hvortil det biologiske materiale er markedsført, forudsat at det fremstillede materiale ikke efterfølgende anvendes til yderligere reproduktion eller formering.
