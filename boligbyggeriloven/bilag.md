@@ -10,7 +10,7 @@ Stk. 2. Lånene anses for optaget på tidspunktet for obligationernes afhændels
 
 § 45. Rentesikring ydes med virkning fra ejendommens ibrugtagelse og udbetales kontant. Udbetaling sker kvartalsvis bagud pr. 31. marts, 30. juni, 30. september og 31. december, første gang dog, når det fuldførte byggeri er godkendt og da for perioden fra ejendommens ibrugtagelse til den af de nævnte datoer, der ligger nærmest forud for rentesikringens berigtigelse.
 
-Stk. 2. Når byggeriet helt eller delvis er taget i brug, kan rentesikring ydes a conto på grundlag af foreløbige oplysninger om prioritetsforrentningen.
+Stk. 2. Når byggeriet helt eller delvis er taget i brug, kan rentesikring ydes a'conto på grundlag af foreløbige oplysninger om prioritetsforrentningen.
 
 § 46. Der ydes fuld rentesikring i 4 år. Derefter sker en årlig aftrapning af rentesikringen ved at forhøje basisrenten, jf. § 44, stk. 1, med et reguleringstillæg, der fastsættes af boligministeren under hensyn til den stedfundne pris- og lønudvikling, jf. stk. 2-4.
 
@@ -38,10 +38,8 @@ Stk. 2. Det er en betingelse for statens overtagelse af garanti, at vedkommende 
 
 Stk. 2. Kommunalbestyrelsen kan påtage sig garanti efter reglen i stk. 1 ved almennyttigt boligbyggeri, til hvis opførelse kommunen har ydet støtte i medfør af § 49.
 
-(* 1) I bemærkningerne til lov nr. 532 af 16. november 1983 (L 7) er henvist til bemærkningerne til L 216, hvor der er anført følgende:
+*) I bemærkningerne til lov nr. 532 af 16. november 1983 (L 7) er henvist til bemærkningerne til L 216, hvor der er anført følgende:
 
 Da de hidtidige bestemmelser vil have retsvirkning i en lang årrække endnu, vil man af hensyn til boligselskaberne og de myndigheder, der administrerer bestemmelserne, optage den nuværende lovs kap. VII som bilag til det særtryk, der til sin tid vil blive udsendt af lovforslaget i den vedtagne form.
 
-(* 1) Vedrører §§ 81, 81 a, 82, 83 og 83 a.
-
-(* 2) Vedrører § 85, 1. pkt.
+Ingen
