@@ -1,0 +1,1 @@
+§ 16 D. Bestemmelserne i §§ 16 A og 16 B finder anvendelse på indtægter, der erhverves, og tab, der konstateres den 1. januar 1962 eller senere, og bestemmelserne træder fra nævnte dato i stedet for bestemmelserne i statsskattelovens § 4 e og § 5 a om udbytte af aktier, andelsbeviser og lignende værdipapirer samt om fortjeneste og tab på de nævnte værdipapirer.
