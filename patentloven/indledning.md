@@ -1,3 +1,3 @@
-Bekendtgørelse af Patentloven (* 8)
+Bekendtgørelse af Patentloven
 
-Herved bekendtgøres patentloven, jf. lovbekendtgørelse nr. 587 af 2. juli 1993, med de ændringer, der følger af lov nr. 900 af 29. november 1995.
+Herved bekendtgøres patentloven, jf. lovbekendtgørelse nr. 824 af 13. september 1996, med de ændringer, der følger af lov nr. 972 af 17. december 1997.

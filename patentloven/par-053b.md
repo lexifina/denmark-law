@@ -1,4 +1,4 @@
-§ 53 b. Enhver kan over for patentmyndigheden skriftligt fremsætte begæring om, at et patent, der er meddelt af patentmyndigheden eller er meddelt med virkning for Danmark efter § 75, omprøves. Med begæringen skal følge det fastsatte gebyr. Begæring kan ikke indleveres, så længe indsigelse endnu kan fremsættes, eller så længe en indsigelsessag ikke er endeligt afgjort.
+§ 53 b. Enhver kan over for patentmyndigheden fremsætte begæring om, at et patent, der er meddelt af patentmyndigheden eller er meddelt med virkning for Danmark efter § 75, omprøves. Med begæringen skal følge det fastsatte gebyr. Begæring kan ikke indleveres, så længe indsigelse endnu kan fremsættes, eller så længe en indsigelsessag ikke er endeligt afgjort.
 
 Stk. 2. Er begæring om omprøvning indleveret, skal patenthaveren gøres bekendt hermed og have lejlighed til at udtale sig om denne. Patentmyndigheden bekendtgør, at begæring om omprøvning er indleveret.
 

@@ -1,10 +1,10 @@
-Erhvervsministeriet, den 13. september 1996
+Erhvervsministeriet, den 9. juni 1998
 
-Mimi Jacobsen
+Pia Gjellerup
 
 / Mogens Kring
 
-(* 1) Patent på lægemidler har kunnet meddeles i henhold til ansøgninger indleveret fra og med 1. december 1983, jf. Industriministeriets bekendtgørelse nr. 450 af 16. december 1983.
+(* 1) 1) Patent på lægemidler har kunnet meddeles i henhold til ansøgninger indleveret fra og med 1. december 1983, jf. Industriministeriets bekendtgørelse nr. 450 af 16. december 1983.
 
 (* 2) Patent på næringsmidler og patent på fremgangsmåder ved tilvirkning af næringsmidler har kunnet meddeles i henhold til ansøgninger indleveret fra og med 1. januar 1989, eller i henhold til ansøgninger som efter patentlovens § 14 skal anses som indleveret efter denne dato, jf. Industriministeriets bekendtgørelse nr. 511 af 23. august 1988.
 
@@ -17,3 +17,5 @@ Mimi Jacobsen
 (* 6) Aftale om EF-patenter kan ifølge § 4 i lov nr. 1057 af 23. december 1992 om ændring af patentloven ratificeres på Danmarks vegne.
 
 (* 7) Loven gælder ikke for Færøerne og Grønland. Loven kan ved kongelig anordning sættes i kraft for disse landsdele med de afvigelser, som de særlige færøske og grønlandske forhold tilsiger.
+
+(* 8) Loven gælder ikke for Færøerne og Grønland. Loven kan ved kongelig anordning sættes i kraft for disse landsdele med de afvigelser, som de særlige færøske eller grønlandske forhold tilsiger.
