@@ -1,9 +1,7 @@
-Givet på Amalienborg, den 31. maj 1968.
+Finansministeriet, den 8. maj 1969.
 
-Under Vor Kongelige Hånd og Segl.
+E. Ninn-Hansen.
 
-FREDERIK R.
-
-Poul Møller.
+/ P. Bruun Nielsen.
 
 Ingen

@@ -1,3 +1,3 @@
-Lov om ikrafttræden af lov om opkrævning af indkomst- og formueskat for personer m.v. (Kildeskat).
+Bekendtgørelse af Lov om ikrafttræden af lov om opkrævning af indkomst- og formueskat for personer m.v. (Kildeskat).
 
-VI FREDERIK DEN NIENDE, af Guds Nåde Konge til Danmark, de Venders og Goters, Hertug til Slesvig, Holsten, Storman, Ditmarsken, Lauenborg og Oldenborg, gør vitterligt: Folketinget har vedtaget og Vi ved Vort samtykke stadfæstet følgende lov:
+Hermed bekendtgøres lov nr. 190 af 31. maj 1968 om ikrafttræden af lov om opkrævning af indkomst- og formueskat for personer m.v. (Kildeskat) med de ændringer, der følger af lov nr. 119 af 29. marts 1969 og lov nr. 124 af 29. marts 1969.
