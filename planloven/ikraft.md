@@ -18,4 +18,10 @@ Stk. 2. Miljøministeren fremsætter forslag om revision af planlægningslovens 
 
 § 3. Loven træder i kraft den 1. juli 1993 (* 6).
 
-Stk. 2. § 1, nr. 1 og 2 og § 2 har virkning for ansøgninger om dispensation, som meddeles efter lovens ikrafttræden.
+Stk. 2. § 1, nr. 1 og 2 og § 2 har virkning for ansøgninger om dispensation, som meddeles efter lovens ikrafttræden. § 2 i lov nr. 293 af 27. april 1994 om ændring af lov om planlægning er sålydende:
+
+§ 2. Loven træder i kraft dagen efter bekendtgørelsen i Lovtidende (* 7). § 3, stk. 1, i lov nr. 439 af 1. juni 1994 om ændring af lov om planlægning og lov om naturbeskyttelse er sålydende:
+
+§ 3. Loven træder i kraft den 1. august 1994 (* 8), jf. dog stk.
+
+2 (* 9).

@@ -1,3 +1,3 @@
 Bekendtgørelse af lov om planlægning
 
-Herved bekendtgøres lov nr. 388 af 6. juni 1991 om planlægning med de ændringer, der følger af lov nr. 9 af 3. januar 1992 om naturbeskyttelse, lov nr. 920 af 25. november 1992, lov nr. 185 af 14. april 1993, lov nr. 270 af 6. maj 1993 og lov nr. 252 af 6. maj 1993 om ændring af byggeloven og planlægningsloven. Miljøministeriets lovbekendtgørelse nr. 383 af 14. juni 1993
+Herved bekendtgøres lov om planlægning, jf. lovbekendtgørelse nr. 383 af 14. juni 1993, med de ændringer, der følger af lov nr. 293 af 27. april 1994 og lov nr. 439 af 1. juni 1994 om ændring af lov om planlægning og lov om naturbeskyttelse.
