@@ -1,7 +1,5 @@
-Landbrugs- og Fiskeriministeriet, den 15. maj 1996
+Fødevareministeriet, den 2. februar 2000
 
 Henrik Dam Kristensen
 
-/ Torben Milthers
-
-(* 1) Der vedrører §§ 1-3 samt § 6.
+/Tanja Buch-Weeke
