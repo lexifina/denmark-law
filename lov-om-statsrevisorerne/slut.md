@@ -1,11 +1,5 @@
-GIVET PÅ AMALIENBORG, DEN 26. JUNI 1975.
+Finansministeriet, den 7. januar 1997
 
-Under Vor Kongelige Hånd og Segl.
-
-MARGRETHE R.
-
--------------
-
-Per Hækkerup.
+Mogens Lykketoft
 
 Ingen
