@@ -1,5 +1,7 @@
-Handelsministeriet, den 25. oktober 1978.
+Industriministeriet, den 27. november 1989
 
-Arne Christiansen
+Nils Wilhjelm
 
-/E. Mølgaard
+/ Per Lund Thoft
+
+Ingen

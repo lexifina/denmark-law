@@ -1,3 +1,5 @@
-Bekendtgørelse af Lov om hemmelige patenter. (* 1)
+Bekendtgørelse af lov om hemmelige patenter
 
-Herved bekendtgøres lov nr. 18 af 27. januar 1960 om hemmelige patenter, som ændret ved lov nr. 215 af 31. maj 1968 og lov nr. 265 af 8. juni 1978.
+(lov om hemmelige patenter)
+
+Herved bekendtgøres lov om hemmelige patenter, jf. lovbekendtgørelse nr. 547 af 25. oktober 1978 som ændret ved lov nr. 369 af 7. juni 1989.
