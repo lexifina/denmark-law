@@ -1,3 +1,7 @@
+## Kapitel 11a
+
+## Bidrag til Arbejdsmarkedets Tillægspension
+
 § 30 a. Ved udbetaling af dagpenge efter denne lov til lønmodtagere i alderen 16-66 år indbetales det dobbelte af det bidrag, der er fastsat efter § 15, stk. 1, sammenholdt med § 2 a og § 4 a, i lov om Arbejdsmarkedets Tillægspension. Der indbetales ikke bidrag, når personen har valgt at få tillægspensionen udbetalt fra det 65. år eller senere.
 
 Stk. 2. De nærmere regler for beregningen af bidraget fastsættes af bestyrelsen for Arbejdsmarkedets Tillægspension efter principperne i § 15 i lov om Arbejdsmarkedets Tillægspension.
