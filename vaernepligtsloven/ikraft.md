@@ -23,3 +23,13 @@ Lov nr. 1056 af 23. december 1992 indeholder følgende ikrafttrædelsesbestemmel
 Lov nr. 1013 af 23. december 1998 indeholder følgende ikrafttrædelsesbestemmelse:
 
 § 3. Loven træder i kraft den 1. januar 1999.
+
+Lov nr. 145 af 25. marts 2002 indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 78. Loven træder i kraft den 1. januar 2003.
+
+Lov nr. 371 af 6. juni 2002 indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 5. Loven træder i kraft den 1. juli 2002.
+
+Stk. 2. (Overgangsbestemmelse, udeladt).

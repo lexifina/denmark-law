@@ -1,5 +1,5 @@
-Indenrigsministeriet, den 23. december 1998
+Indenrigs- og Sundhedsministeriet, den 17. juni 2002
 
-Thorkild Simonsen
+Lars Løkke Rasmussen
 
 /E. H. Petersen
