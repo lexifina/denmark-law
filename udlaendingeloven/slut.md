@@ -1,16 +1,14 @@
-Indenrigsministeriet, den 20. marts 2001
+Indenrigsministeriet, den 1. august 2001
 
 Karen Jespersen
 
 /Susanne S. Clausen
 
-De ændringer, der følger af lov nr. 410 af 10. juni 1997, blev bortset fra de ændringer, der ifølge § 3, stk. 2, i lov nr. 410 af 10. juni 1997 trådte i kraft den 12. juni 1997, jf. note 24 ved bekendtgørelse nr. 170 af 13. marts 2001 sat i kraft den 25. marts 2001.
-
 Lov nr. 574 af 19. december 1985 blev bekendtgjort i Lovtidende den 21. december 1985 og vedrører ændrede affattelser af § 46, stk. 2, og § 53, indsættelse af § 53 a og § 53 b samt en ændret affattelse af § 56.
 
 Lov nr. 686 af 17. oktober 1986 blev bekendtgjort i Lovtidende den 18. oktober 1986.
 
-§ 1, nr. 1, 3, 8 og 10, i lov nr. 686 af 17. oktober 1986 vedrører ændrede affattelser af § 7, § 31, stk. 2, § 48, stk. 2, og § 53 a, stk. 1. § 48, stk. 2, blev ophævet i forbindelse med indsættelsen af § 48 a, jf. note 7.
+§ 1, nr. 1, 3, 8 og 10, i lov nr. 686 af 17. oktober 1986 vedrører ændrede affattelser af § 7, § 31, stk. 2, § 48, stk. 2, og § 53 a, stk. 1. § 48, stk. 2, blev ophævet i forbindelse med indsættelsen af § 48 a, jf. note 6.
 
 § 1, nr. 7, i lov nr. 686 af 17. oktober 1986 vedrører en ændret affattelse af § 43, stk. 2, 1. pkt. (nu § 43, stk. 3, 1. pkt.).
 
@@ -30,9 +28,9 @@ Lov nr. 464 af 30. juni 1993 vedrører hjælp til frivillig repatriering, herund
 
 Lov nr. 382 af 14. juni 1995 blev bekendtgjort i Lovtidende den 15. juni 1995.
 
-§ 1, nr. 15, i lov nr. 382 af 14. juni 1995 vedrører en ændret affattelse af § 48, stk. 2, 7. pkt. Bestemmelsen blev ophævet i forbindelse med indsættelsen af § 48 a, jf. note 7.
+§ 1, nr. 15, i lov nr. 382 af 14. juni 1995 vedrører en ændret affattelse af § 48, stk. 2, 7. pkt. Bestemmelsen blev ophævet i forbindelse med indsættelsen af § 48 a, jf. note 6.
 
-§ 1, nr. 16, i lov nr. 382 af 14. juni 1995 vedrører indsættelse af § 48, stk. 3 og 4. Ændringen trådte i kraft den 1. januar 1996, jf. § 2 i bekendtgørelse nr. 682 af 17. august 1995. Bestemmelserne blev ophævet i forbindelse med indsættelsen af § 48 e, jf. note 7.
+§ 1, nr. 16, i lov nr. 382 af 14. juni 1995 vedrører indsættelse af § 48, stk. 3 og 4. Ændringen trådte i kraft den 1. januar 1996, jf. § 2 i bekendtgørelse nr. 682 af 17. august 1995. Bestemmelserne blev ophævet i forbindelse med indsættelsen af § 48 e, jf. note 6.
 
 § 1, nr. 18, i lov nr. 382 af 14. juni 1995 vedrører indsættelse af § 54, stk. 2. Ændringen trådte i kraft den 1. oktober 1995 og gælder for udlændinge, der indgiver ansøgning om asyl fra og med denne dato, jf. § 3 i bekendtgørelse nr. 682 af 17. august 1995.
 
@@ -50,14 +48,18 @@ Lov nr. 290 af 24. april 1996 blev bekendtgjort i Lovtidende den 25. april 1996.
 
 § 32, stk. 1, i lov nr. 473 af 12. juni 1996 om Folketingets Ombudsmand vedrører ophævelse af § 33, stk. 5, 1. pkt., og indsættelse af § 58 a.
 
-§ 1, nr. 12, 20, 28 og 29, i lov nr. 410 af 10. juni 1997 vedrører ændrede affattelser af § 28, stk. 3, § 37, stk. 5, og § 48. § 2, nr. 5, 6, 8 og 10, i lov nr. 410 af 10. juni 1997 vedrører en ændret affattelse af lov nr. 387 af 6. juni 1991, jf. note 7. Lov nr. 410 af 10. juni 1997 blev bekendtgjort i Lovtidende den 11. juni 1997.
+De ændringer, der følger af lov nr. 410 af 10. juni 1997, blev bortset fra de ændringer, der ifølge § 3, stk. 2, i lov nr. 410 af 10. juni 1997 trådte i kraft den 12. juni 1997, jf. note 24 ved bekendtgørelse nr. 170 af 13. marts 2001 sat i kraft den 25. marts 2001.
+
+§ 1, nr. 12, 20, 28 og 29, i lov nr. 410 af 10. juni 1997 vedrører ændrede affattelser af § 28, stk. 3, § 37, stk. 5, og § 48. § 2, nr. 5, 6, 8 og 10, i lov nr. 410 af 10. juni 1997 vedrører en ændret affattelse af lov nr. 387 af 6. juni 1991, jf. note 6. Lov nr. 410 af 10. juni 1997 blev bekendtgjort i Lovtidende den 11. juni 1997.
 
 Lov nr. 473 af 1. juli 1998 blev bekendtgjort i Lovtidende den 2. juli 1998.
 
-§ 1, nr. 11, 14, 21 og 35, i lov nr. 473 af 1. juli 1998 vedrører ophævelse af § 11, stk. 2, og § 19, stk. 2, indsættelse af § 11, stk. 2-8, og § 42 a, stk. 1, 2. pkt., samt en ændret affattelse af § 27, stk. 1. § 2, nr. 2, i lov nr. 473 af 1. juli 1998 vedrører en ændret affattelse af § 1, nr. 11, i lov nr. 410 af 10. juni 1997, jf. note 1.
+§ 1, nr. 11, 14, 21 og 35, i lov nr. 473 af 1. juli 1998 vedrører ophævelse af § 11, stk. 2, og § 19, stk. 2, indsættelse af § 11, stk. 2-8, og § 42 a, stk. 1, 2. pkt., samt en ændret affattelse af § 27, stk. 1. § 2, nr. 2, i lov nr. 473 af 1. juli 1998 vedrører en ændret affattelse af § 1, nr. 11, i lov nr. 410 af 10. juni 1997, jf. note 23.
 
 § 1, nr. 14, i lov nr. 473 af 1. juli 1998 vedrører ophævelse af § 19, stk. 2.
 
 § 1, nr. 3 og 36, i lov nr. 473 af 1. juli 1998 vedrører ophævelse af § 9, stk. 1, nr. 5, og § 42 a, stk. 6, nr. 1 (nu § 42 a, stk. 8, nr. 1).
 
 Lov nr. 424 af 31. maj 2000 blev bekendtgjort i Lovtidende den 2. juni 2000.
+
+Lov nr. 458 af 7. juni 2001 blev bekendtgjort i Lovtidende den 8. juni 2001.
