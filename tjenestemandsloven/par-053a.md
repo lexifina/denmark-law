@@ -1,0 +1,1 @@
+§ 53 a. Staten, (amts)kommuner og en eller flere af de i § 49 nævnte centralorganisationer kan af Tjenestemandsretten ikendes bod for overtrædelser som nævnt i § 53, stk. 1, nr. 1. Boden tilfalder den, der har anlagt sagen.
