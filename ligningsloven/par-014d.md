@@ -1,5 +1,7 @@
-§ 14 D. Den afgiftspligtige kan senest 1 måned efter, at den pågældende har fået underretning om afgiftens indeholdelse, forlange afgiftsberegningen efterprøvet af skatteankenævnet i den kommune, hvor den afgiftspligtige havde bopæl på tidspunktet for afgiftspligtens indtræden. Hvis den afgiftspligtige ikke på dette tidspunkt havde bopæl her i landet, skal klagen rettes til skatteankenævnet i den kommune, hvor det institut, der er nævnt i § 14 C, stk. 3, har forretningssted. Er udbetalingen sket til et dødsbo, kan boet forlange afgiftsberegningen efterprøvet af skatteankenævnet i den kommune, hvor afdøde havde bopæl ved sin død, eller, hvis afdøde ikke havde bopæl her i landet, af skatteankenævnet i den kommune, hvor det institut, der er nævnt i § 14 C, stk. 3, har forretningssted.
+§ 14 D. De statslige told- og skattemyndigheder fører tilsyn med afgiftsberegningen efter § 14 C.
 
-Stk. 2. Skatteankenævnets afgørelse kan senest 2 måneder fra modtagelsen af afgørelsens dato påklages til Landsskatteretten.
+Stk. 2. En afgiftsberegning efter § 14 C kan senest 3 måneder fra modtagelsen af afgørelsen påklages til de statslige told- og skattemyndigheder.
 
-Stk. 3. (* 2) I øvrigt anvendes skattestyrelseslovens regler om klage over beregninger af indkomstskat til staten tilsvarende.
+Stk. 3. Landsskatteretten påkender klager over de statslige told- og skattemyndigheders afgørelser i 1. instans efter stk. 1 og 2. Reglerne i skattestyrelseslovens kapitel 3 og 3 A finder anvendelse.
+
+Stk. 4. I øvrigt anvendes skattestyrelseslovens regler om klage over beregninger af indkomstskat til staten tilsvarende.
