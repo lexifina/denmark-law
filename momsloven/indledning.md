@@ -1,3 +1,5 @@
-Bekendtgørelse af merværdiafgiftsloven (momsloven) (* 1)
+Bekendtgørelse af merværdiafgiftsloven
 
-Herved bekendtgøres lov om merværdiafgift (momsloven), jf. lovbekendtgørelse nr. 56 af 6. februar 1996, med de ændringer, der følger af § 5 i lov nr. 1204 af 27. december 1996 (Effektivisering af det offentliges restanceinddrivelse), § 27 i lov nr. 1223 af 27. december 1996 (Ændringer som følge af dødsboskifteloven og dødsboskatteloven m.v.), § 2 i lov nr. 237 af 2. april 1997 (Fast driftssted og fiskale repræsentanter) og § 1 i lov nr. 442 af 10. juni 1997 (Telekommunikationsydelser m.v.).
+(momsloven)
+
+Herved bekendtgøres lov om merværdiafgift (momsloven), jf. lovbekendtgørelse nr. 634 af 23. juli 1997, med de ændringer, der følger af § 1 i lov nr. 890 af 3. december 1997 (afkortning af kredittiden for landbrug og fiskeri m.v.), § 2 i lov nr. 1098 af 29. december 1997 (ændret klagestruktur m.v.), lov nr. 419 af 26. juni 1998 (delvis momsfradragsret for billeasing m.v.), § 1 i lov nr. 435 af 26. juni 1998 (ændring af kredittider m.v.), § 5 i lov nr. 1056 af 23. december 1998 (tilpasning af dansk lovgivning som følge af euroens indførelse i en række andre EU-lande) og § 14 i lov nr. 166 af 24. marts 1999 (objektiveringer, justering af reglerne for beskatning ved død samt afgrænsning af told- og afgiftsområdet m.m.).
