@@ -2,4 +2,4 @@
 
 Stk. 2. Opsigelse efter ophørt uddannelse kan under særlige omstændigheder udsættes i op til et år. Opsigelse kan endvidere udsættes, hvis boligen ikke umiddelbart kan genudlejes.
 
-Stk. 3. Boligministeren fastsætter til sikring af, at boligerne til stadighed bebos af den berettigede personkreds, herunder studieaktive uddannelsessøgende, nærmere regler om, hvorledes opsigelse skal ske.
+Stk. 3. Økonomi- og erhvervsministeren fastsætter til sikring af, at boligerne til stadighed bebos af den berettigede personkreds, herunder studieaktive uddannelsessøgende, nærmere regler om, hvorledes opsigelse skal ske.

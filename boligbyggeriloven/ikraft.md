@@ -1,44 +1,44 @@
-§§ 3 og 4 i lov nr. 181 af 14. april 1993 er sålydende:
+Lov nr. 181 af 14. april 1993 indeholder følgende ikrafttrædelsesbestemmelser:
 
 § 3
 
-Stk. 1. Loven træder i kraft dagen efter bekendtgørelsen i Lovtidende, jf. dog stk. 2. (* 1)
+Stk. 1. Loven træder i kraft dagen efter bekendtgørelsen i Lovtidende, jf. dog stk. 2.
 
-Stk. 2. § 1, nr. 5-7, 9 og 14, træder i kraft den 1. juli 1994 og finder anvendelse på regnskabsår, der begynder denne dato eller senere. Overstiger et selskabs arbejdskapital ved påbegyndelsen af dette regnskabsår et fastsat maksimum herfor, jf. § 12, stk. 1, som affattet ved denne lovs § 1, nr. 5, overføres den overskydende del til dispositionsfonden. Samtidig overføres eventuelle likvide midler i selskabets byggefond bortset fra bidrag efter § 23, som ændret ved denne lovs § 1, nr. 14, og § 24, jf. lovbekendtgørelse nr. 135 af 25. februar 1992, til selskabets dispositionsfond. (* 2)
+Stk. 2. § 1, nr. 5-7, 9 og 14, træder i kraft den 1. juli 1994 og finder anvendelse på regnskabsår, der begynder denne dato eller senere. Overstiger et selskabs arbejdskapital ved påbegyndelsen af dette regnskabsår et fastsat maksimum herfor, jf. § 12, stk. 1, som affattet ved denne lovs § 1, nr. 5, overføres den overskydende del til dispositionsfonden. Samtidig overføres eventuelle likvide midler i selskabets byggefond bortset fra bidrag efter § 23, som ændret ved denne lovs § 1, nr. 14, og § 24, jf. lovbekendtgørelse nr. 135 af 25. februar 1992, til selskabets dispositionsfond.
 
 § 4
 
 Den hidtil gældende regel i § 77, stk. 2, i lov om boligbyggeri, jf. lovbekendtgørelse nr. 135 af 25. februar 1992, bevarer sin gyldighed for så vidt angår lejeaftaler, hvorved boliger er udlejet samlet ved en lejekontrakt til en institution med sociale eller almennyttige formål, hvis lejeaftalen er indgået inden lovens ikrafttræden.
 
-§ 4 i lov nr. 440 af 30. juni 1993 er sålydende:
+Lov nr. 440 af 30. juni 1993 indeholder følgende ikrafttrædelsesbestemmelser:
 
 § 4
 
-Stk. 1. Loven træder i kraft den 1. januar 1994. (* 3)
+Stk. 1. Loven træder i kraft den 1. januar 1994.
 
 Stk. 2. De hidtil gældende regler i lov om boligbyggeri, lov om boliger for ældre og personer med handicap og realkreditloven finder dog fortsat anvendelse for byggeri, hvortil der er givet tilsagn om støtte inden den 1. januar 1994.
 
-§ 3 i lov nr. 87 af 8. februar 1995 er sålydende:
+Lov nr. 87 af 8. februar 1995 indeholder følgende ikrafttrædelsesbestemmelser:
 
 § 3
 
-Stk. 1. Boligministeren fastsætter tidspunktet for lovens ikrafttræden. (* 4) Dog træder § 1, nr. 2 og 4-13, og § 2 i kraft dagen efter bekendtgørelsen i Lovtidende.5)
+Stk. 1. Boligministeren fastsætter tidspunktet for lovens ikrafttræden. Dog træder § 1, nr. 2 og 4-13, og § 2 i kraft dagen efter bekendtgørelsen i Lovtidende.
 
-Stk. 2. Bestemmelsen i § 1, nr. 4, finder anvendelse på gældende kontraktsforhold uanset indholdet i disse. (* 6)
+Stk. 2. Bestemmelsen i § 1, nr. 4, finder anvendelse på gældende kontraktsforhold uanset indholdet i disse.
 
-Stk. 3. § 1, nr. 3, har virkning for samtlige almennyttige boligselskabers aktiviteter, uanset hvornår aktiviteterne er påbegyndt. Aktiviteter, der ikke er tilladt i regler fastsat i medfør af § 5, stk. 6, i lov om boligbyggeri, skal afvikles. (* 7)
+Stk. 3. § 1, nr. 3, har virkning for samtlige almennyttige boligselskabers aktiviteter, uanset hvornår aktiviteterne er påbegyndt. Aktiviteter, der ikke er tilladt i regler fastsat i medfør af § 5, stk. 6, i lov om boligbyggeri, skal afvikles.
 
 Stk. 4. Uanset stk. 3 kan et boligselskab, som inden den 17. november 1994 har erhvervet aktier, anparter, garantibeviser, andele eller lignende i danske selskaber eller virksomheder eller har stiftet private selskaber eller virksomheder, der udelukkende er beskæftiget i Danmark, opretholde investeringen eller selskabet eller virksomheden i op til 5 år fra lovens ikrafttræden. Hvis boligselskabet ikke inden udløbet af denne dato afhænder investeringen eller afhænder eller opløser det private selskab eller virksomheden, finder bestemmelserne i § 18, stk. 2, 5 og 6, i lov om boligbyggeri tilsvarende anvendelse. Bestemmelsen i 1. pkt. gælder ikke for tilladte aktiviteter, jf. stk. 3.
 
 Stk. 5. Påviser boligselskabet, at den i stk. 4 nævnte afhændelse eller opløsning ikke kan finde sted, uden at selskabet påføres et økonomisk tab kan kommunalbestyrelsen meddele dispensation herfra.
 
-§ 5 i lov nr. 306 af 17. maj 1995 er sålydende:
+Lov nr. 306 af 17. maj 1995 indeholder følgende ikrafttrædelsesbestemmelse:
 
 § 5
 
-Stk. 1 . Loven træder i kraft dagen efter bekendtgørelsen i Lovtidende. (* 8)
+Stk. 1 . Loven træder i kraft dagen efter bekendtgørelsen i Lovtidende.
 
-§§ 4, 5 og 6 i lov nr. 361 af 14. juni 1995 er sålydende:
+Lov nr. 361 af 14. juni 1995 indeholder følgende ikrafttrædelsesbestemmelser:
 
 § 4
 
@@ -52,7 +52,7 @@ Forslag til revision af reglerne i denne lov fremsættes for Folketinget i folke
 
 Loven gælder kun for Københavns og Århus Amter.
 
-§ 4 i lov nr. 362 af 14. juni 1995 er sålydende:
+Lov nr. 362 af 14. juni 1995 indeholder følgende ikrafttrædelsesbestemmelser:
 
 § 4
 
@@ -60,7 +60,7 @@ Stk. 1. Loven træder i kraft den 1. juli 1995.
 
 Stk. 2. Regler fastsat i medfør af byggelovens § 4 A som affattet ved denne lovs § 1, nr. 2, har ikke virkning for bebyggelser, hvor byggesagsbehandlingen er påbegyndt inden den 1. juli 1995.
 
-§ 9 i lov nr. 385 af 14. juni 1995 er sålydende:
+Lov nr. 385 af 14. juni 1995 indeholder følgende ikrafttrædelsesbestemmelserer:
 
 § 9
 
@@ -80,7 +80,7 @@ Stk. 7. Statens generelle tilskud til kommunerne efter § 10 i lov om kommunal u
 
 Stk. 8. Statens generelle tilskud til amtskommunerne efter § 17 i lov om kommunal udligning og generelle tilskud til kommuner og amtskommuner nedsættes med virkning fra og med tilskudsåret 1996 med 150 mio. kr.
 
-§ 5 i lov nr. 1065 af 20. december 1995 er sålydende:
+Lov nr. 1065 af 20. december 1995 indeholder følgende ikrafttrædelsesbestemmelser:
 
 § 5
 
@@ -90,37 +90,37 @@ Stk. 2. Den ved § 2, nr. 9, affattede § 76, stk. 3, i lov om individuel boligs
 
 Stk. 3. § 3 finder anvendelse, uanset om lejeforholdet er indgået før lovens ikrafttræden.
 
-§ 4 i lov nr. 220 af 27. marts 1996 er sålydende:
+Lov nr. 220 af 27. marts 1996 indeholder følgende ikrafttrædelsesbestemmelser:
 
 § 4
 
-Stk. 1. Loven træder i kraft den 1. april 1996, jf. dog stk. 2. (* 9)
+Stk. 1. Loven træder i kraft den 1. april 1996, jf. dog stk. 2.
 
 Stk. 2. § 63, stk. 3, 1. pkt., i lov om boligbyggeri, som affattet ved denne lovs § 1, nr. 5, og § 2 træder dog i kraft dagen efter bekendtgørelsen i Lovtidende.
 
 Stk. 3. Bestemmelsen i § 63 a, stk. 2, i lov om boligbyggeri som affattet ved lovbekendtgørelse nr. 668 af 4. august 1995 bevarer sin gyldighed, for så vidt angår byggeri, hvortil der er givet tilsagn om støtte inden udgangen af 1995.
 
-§ 186 i lov nr. 374 af 22. maj 1996 er sålydende:
+Lov nr. 374 af 22. maj 1996 indeholder følgende ikrafttrædelsesbestemmelse:
 
 § 186
 
 Stk. 1. Loven træder i kraft den 1. januar 1997, dog træder § 99 i kraft den 1. august 1996.
 
-§ 2 i lov nr. 1047 af 11. december 1996 er sålydende:
+Lov nr. 1047 af 11. december 1996 indeholder følgende ikrafttrædelsesbestemmelse:
 
 § 2
 
 Stk. 1. Loven træder i kraft den 1. januar 1997.
 
-§ 4 i lov nr. 229 af 2. april 1997 er sålydende:
+Lov nr. 229 af 2. april 1997 indeholder følgende ikrafttrædelsesbestemmelser:
 
 § 4
 
-Stk. 1. Loven træder i kraft dagen efter bekendtgørelsen i Lovtidende, jf. dog stk. 2. (* 10)
+Stk. 1. Loven træder i kraft dagen efter bekendtgørelsen i Lovtidende, jf. dog stk. 2.
 
 Stk. 2. Bestemmelserne i lovens § 187, stk. 1, 3 og 4, samt § 188 som affattet henholdsvis ændret ved denne lovs § 1, nr. 25-29, har virkning fra den 1. januar 1997.
 
-§ 4 i lov nr. 380 af 10. juni 1997 er sålydende:
+Lov nr. 380 af 10. juni 1997 indeholder følgende ikrafttrædelsesbestemmelser:
 
 § 4
 
@@ -130,8 +130,22 @@ Stk. 2. For kollektive bofællesskaber, hvor boligen er taget i brug til kollekt
 
 Stk. 3. Boligstøtte kan uanset stk. 1 ydes i indtil 3 måneder, såfremt antallet af beboere, der opfylder betingelserne i § 24 a, stk. 1, nr. 1 eller 3, i lov om individuel boligstøtte, jf. lovbekendtgørelse nr. 96 af 22. februar 1996 med senere ændringer, midlertidigt er mindre end 3 som følge af en eller flere beboeres fraflytning eller død.
 
-§ 9 i lov nr. 970 af 17. december 1997 er sålyedende:
+Lov nr. 970 af 17. december 1997 indeholder følgende ikrafttrædelsesbestemmelser:
 
 § 9
 
-Loven træder i kraft den 1. januar 1998. § 1, nr. 11, 13-16, 18-21, 23-29 og 59 (* 11), § 3, nr. 10, samt § 5, nr. 2, træder dog først i kraft den 1. juli 1998.
+Loven træder i kraft den 1. januar 1998. § 1, nr. 11, 13-16, 18-21, 23-29 og 59 , § 3, nr. 10, samt § 5, nr. 2, træder dog først i kraft den 1. juli 1998.
+
+Lov nr. 1086 af 29. december 1999 indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 5
+
+Stk. 1. Loven træder i kraft den 1. januar 2000.
+
+Lov nr. 423 af 6. juni 2002 indeholder følgende ikrafttrædelsesbestemmelser:
+
+§ 4
+
+Stk. 1. Loven træder i kraft den. 1. juli 2002.
+
+Stk. 2. Forslag til revision af bestemmelserne i denne lov fremsættes i Folketinget i folketingsåret 2005-06.

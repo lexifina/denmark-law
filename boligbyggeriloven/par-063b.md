@@ -1,4 +1,4 @@
-§ 63 b. Boligministeren kan i perioden 1. april 1996 til 31. marts 1997 på statskassens vegne give tilsagn om tilskud til nedbringelse af boligafgiften i andelsboliger opført efter lov om boligbyggeri med tilsagn i perioden 1. januar 1989 til 31. december 1995. Tilsagn kan gives inden for en samlet ramme for et årligt driftstilskud på 5 mio. kr.
+§ 63 b. Økonomi- og erhvervsministeren kan i perioden 1. april 1996 til 31. marts 1997 på statskassens vegne give tilsagn om tilskud til nedbringelse af boligafgiften i andelsboliger opført efter lov om boligbyggeri med tilsagn i perioden 1. januar 1989 til 31. december 1995. Tilsagn kan gives inden for en samlet ramme for et årligt driftstilskud på 5 mio. kr.
 
 Stk. 2. Tilskud kan ydes til andelsboligforeninger, hvor der er konstateret så alvorlige økonomiske vanskeligheder, at disse vil kunne hindre foreningens videreførelse. En ejendomsformidler efter lov om omsætning af fast ejendom afgiver erklæring om, at betingelserne for tilsagn om tilskud er opfyldt.
 
@@ -10,8 +10,8 @@ Stk. 5. Andelsboligbidraget, der som følge af aftrapningen kommer til at udgør
 
 Stk. 6. Andelsboligbidraget udbetales 2 gange årligt umiddelbart forud for forfaldsdagen for terminerne for indeksbelåningen. Første udbetaling finder sted ved den førstkommende termin efter tilsagnsdatoen.
 
-Stk. 7. Boligministeren kan helt eller delvis bringe betalingen af andelsboligbidrag til ophør, såfremt andelsboligforeningens økonomi forbedres eller ændrede forhold for byggeriet taler derfor, herunder at der indtræder en stigning i handelspriserne for andelsboliger.
+Stk. 7. Økonomi- og erhvervsministeren kan helt eller delvis bringe betalingen af andelsboligbidrag til ophør, såfremt andelsboligforeningens økonomi forbedres eller ændrede forhold for byggeriet taler derfor, herunder at der indtræder en stigning i handelspriserne for andelsboliger.
 
-Stk. 8. Andelsboligforeningen skal på forlangende give boligministeren alle nødvendige oplysninger til belysning af foreningens økonomiske forhold.
+Stk. 8. Andelsboligforeningen skal på forlangende give økonomi- og erhvervsministeren alle nødvendige oplysninger til belysning af foreningens økonomiske forhold.
 
-Stk. 9. Boligministeren kan fastsætte nærmere regler om de i stk. 1-8 nævnte forhold, herunder de nærmere regler for andelsboligbidragets beregning.
+Stk. 9. Økonomi- og erhvervsministeren kan fastsætte nærmere regler om de i stk. 1-8 nævnte forhold, herunder de nærmere regler for andelsboligbidragets beregning.

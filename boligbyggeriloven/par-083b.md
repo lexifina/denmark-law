@@ -1,3 +1,7 @@
 § 83 b. Selvejende lette kollektivboliginstitutioner, hvortil der er givet tilsagn om støtte i medfør af bestemmelserne i §§ 81-83 a inden udgangen af 1987, kan med samtykke af kommunalbestyrelsen i den kommune, hvor boligerne er beliggende, sammenlægges til een institution. Kommunalbestyrelsen godkender samtidig, at meddelt offentlig støtte overføres til denne institution. Kommunalbestyrelsen kan endvidere meddele samtykke til, at en sådan boliginstitution overgår til at være en afdeling af et almennyttigt boligselskab, og at det meddelte tilsagn om offentlig støtte overføres til afdelingen.
 
-Stk. 2. Boligministeren kan fastsætte nærmere regler om de i stk. 1 nævnte forhold.
+Stk. 2. Økonomi- og erhvervsministeren kan fastsætte nærmere regler om de i stk. 1 nævnte forhold.
+
+Kapitel 12 a
+
+Kollektive bofællesskaber
