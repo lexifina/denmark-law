@@ -1,7 +1,5 @@
-Indenrigsministeriet, den 2. april 1993
+Indenrigsministeriet, den 23. december 1998
 
-Birte Weiss
+Thorkild Simonsen
 
-/ Fr. Chr. Schydt
-
-Ingen
+/E. H. Petersen
