@@ -1,0 +1,9 @@
+GIVET På CHRISTIANSBORG SLOT, DEN 4. JUNI 1986
+
+Under Vor Kongelige Hånd og Segl
+
+MARGRETHE R.
+
+/HENNING DYREMOSE
+
+Ingen
