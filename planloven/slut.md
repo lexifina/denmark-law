@@ -1,7 +1,7 @@
-Miljøministeriet, den 11. september 2002
+Miljøministeriet, den 18. august 2004
 
-Hans Chr. Schmidt
+Connie Hedegaard
 
-/Kirsten Vintersborg
+/Anne-Marie Rasmussen
 
 Bilag

@@ -38,7 +38,7 @@ Stk. 2. § 1, nr. 1 og 2 og § 2 har virkning for ansøgninger om dispensation, 
 
 §§ 2 og 3 i lov nr. 236 af 2. april 1997 er sålydende:
 
-§ 2. Loven træder i kraft dagen efter bekendtgørelsen i Lovtidende .
+§ 2. Loven træder i kraft dagen efter bekendtgørelsen i Lovtidende 0) .
 
 § 3. Indkvarteringssteder, der er etableret med fritagelse efter § 3 a, stk. 1, i lov om planlægning, jf. lovbekendtgørelse nr. 746 af 16. august 1994, som ændret ved lov nr. 311 af 17. maj 1995, kan anvendes til indkvartering af asylansøgere, personer med midlertidig opholdstilladelse i medfør af lov om midlertidig opholdstilladelse til visse personer fra det tidligere Jugoslavien m.v., personer fra det tidligere Jugoslavien, der er meddelt opholdstilladelse i medfør af udlændingelovens § 7 eller § 9, stk. 2, nr. 5, samt personer med opholdstilladelse i medfør af udlændingelovens § 9, stk. 2, nr. 6. Fritagelsen for at overholde planlovens bestemmelser om tilvejebringelse af planer m.v. gælder, uanset at bebyggelsen i en periode ikke har været anvendt til indkvartering af de nævnte personer. Ibrugtagelse af bebyggelsen til anden anvendelse er ikke omfattet af fritagelsen, men skal behandles efter planlovens bestemmelser.
 
@@ -50,7 +50,7 @@ Stk. 2. § 1, nr. 1 og 2 og § 2 har virkning for ansøgninger om dispensation, 
 
 Stk. 2. Indtil der, jf. stk. 1, er tilvejebragt regionplanretningslinier for den samlede detailhandelsstruktur i amtskommunen henholdsvis i Københavns og Frederiksberg kommuner, kan der kun kommune-, eller lokalplanlægges for butikker i områder, der er udlagt til centerformål inden for et lokal-, bydels- eller bykernecenter i henhold til en kommuneplan, der er endeligt vedtaget før lovens ikrafttræden. Der kan dog endvidere kommune- og lokalplanlægges for de arealer til butikker, der er omfattet af § 5 d, stk. 2, nr. 1 - 3, som affattet i denne lov.
 
-Stk. 3. I region-, kommune- og lokalplanlægning efter stk. 1 og 2 kan der ikke planlægges for bruttoetagearealer for de enkelte butikker på mere end 3.000 m 2 for dagligvarebutikker eller 1.000 m 2 for udvalgsvarebutikker.
+Stk. 3. I region-, kommune- og lokalplanlægning efter stk. 1 og 2 kan der ikke planlægges for bruttoetagearealer for de enkelte butikker på mere end 3.000 m2 for dagligvarebutikker eller 1.000 m2 for udvalgsvarebutikker.
 
 Stk. 4. Ved en kommuneplanrevision, der gennemføres, før der er tilvejebragt regionplanretningslinier for den samlede detailhandelsstruktur, jf. stk. 1, kan eksisterende rammer for lokalplanlægningen uanset stk. 2 opretholdes, i det omfang de er grundlag for en gældende lokalplan, byplanvedtægt eller reguleringsplan, der giver mulighed for etablering af butikker.
 
@@ -122,7 +122,7 @@ Stk. 4. Regionplanforslag i hovedstadsområdet, der ikke er endeligt vedtaget de
 
 § 3. Loven træder i kraft ugedagen efter bekendtgørelsen i Lovtidende , jf. dog stk. 2.
 
-Stk. 2. § 1, nr. 3-5 og 12-14, samt § 2 træder i kraft den 1. juli 2000 ) .
+Stk. 2. § 1, nr. 3-5 og 12-14, samt § 2 træder i kraft den 1. juli 2000 .
 
 Stk. 3. Uanset § 23 b som affattet ved denne lovs § 1, nr. 10, kan kommunalbestyrelsen udarbejde forslag til kommuneplan uden at have vedtaget og offentliggjort en strategi, hvis der efter de hidtil gældende regler er offentliggjort en beretning og indkaldt ideer, forslag m.v. med henblik på planlægningsarbejdet.
 
@@ -165,3 +165,69 @@ Stk. 3. § 2 træder i kraft den 1. januar 2003.
 § 5. Indtil der efter reglerne i lov om planlægning, som ændret ved denne lov, er tilvejebragt bestemmelser i kommuneplanens hovedstruktur og rammer for lokalplanlægningen om den samlede detailhandelsstruktur i kommunen,kan der kun kommune-og lokalplanlægges for butikker i overensstemmelse med retningslinjerne i regionplanmyndighedernes Regionplan 2001, herunder afgrænsningen af de centrale dele af byer og bydele samt aflastningsområder, jf. § 5 d, stk. 2, nr. 4, hvor der kan planlægges for butikker.
 
 Stk. 2. Regionplanmyndigheden kan godkende mindre fravigelser fra bestemmelserne i stk. 1.
+
+§ 2 i lov nr. 440 af 10. juni 2003 om ændring af lov om planlægning er sålydende:
+
+§ 2. Loven træder i kraft den 1. juli 2003 . Den har virkning for kommune- og lokalplaner, hvortil forslag er offentliggjort efter ikrafttrædelsen.
+
+§ 5 i lov nr. 1151 af 17. december 2003 om ændring af lov om vandforsyning m.v., lov om miljøbeskyttelse, lov om forurenet jord og lov om planlægninger er sålydende:
+
+§ 5. Loven træder i kraft den 22. december 2003 , jf. dog stk. 2-6.
+
+Stk. 2. (udeladt).
+
+Stk. 3. De ændringer, der følger af (udeladt) § 4, nr. 2 og 3 , træder i kraft i de enkelte amter, når der er offentliggjort en vandplan, der gælder for amtet, efter lov om miljømål m.v. for vandforekomster og internationale naturbeskyttelsesområder, jf. dog stk. 4. Hvis en del af et amt endnu ikke er dækket af en vandplan, finder de hidtil gældende regler anvendelse, for så vidt angår denne del.
+
+Stk. 4. De ændringer, der følger af § 4, nr. 2 og 3 , finder anvendelse ved udarbejdelsen af den regionplanrevision, der skal være afsluttet i 2009, jf. § 22 i lov om planlægning.
+
+Stk. 5. (udeladt).
+
+Stk. 6. Regler, der er udstedt i medfør af de bemyndigelser, der ophæves eller ændres ved denne lov, opretholdes, indtil de afløses af regler udstedt efter lov om miljømål m.v. for vandforekomster og internationale naturbeskyttelsesområder.
+
+§ 51 i lov nr. 435 af 9. juni 2004 om landbrugsejendomme er sålydende:
+
+§ 51. Loven træder i kraft den 1. september 2004 .
+
+§ 67 i lov nr. 453 af 9. juni 2004 om skove er sålydende:
+
+§ 67. Loven træder i kraft den 1. oktober 2004 .
+
+Stk. 2. (udeladt).
+
+§ 5 i lov nr. 454 af 9. juni 2004 om ændring af lov om naturbeskyttelse, lov om planlægning, lov om vandløb og museumsloven er sålydende:
+
+§ 5. Loven træder i kraft den 1. oktober 2004 .
+
+Stk. 2-5. (udeladt).
+
+§ 2 i lov nr. 455 af 9. juni 2004 om ændring af lov om planlægning er sålydende:
+
+§ 2. Loven træder i kraft den 1. juli 2004 .
+
+§ 2 i lov nr. 456 af 9. juni 2004 om ændring af lov om planlægning er sålydende:
+
+§ 2. Loven træder i kraft dagen efter bekendtgørelse i Lovtidende .
+
+§§ 6 og 19 i lov nr. 458 af 9. juni 2004 om ændring af forskellige skatte- og afgiftslove og af lov om planlægning samt ophævelse af ejerlejlighedsavancebeskatningsloven og frigørelsesafgiftsloven er sålydende:
+
+§ 6. Lov om frigørelsesafgift m.v. af fast ejendom, jf. lovbekendtgørelse nr. 577 af 7. juli 2002, ophæves.
+
+§ 19. Loven træder i kraft dagen efter bekendtgørelse i Lovtidende .
+
+Stk. 2-3. (udeladt).
+
+Stk. 4. § 4, nr. 2, 4, 7 og 8, § 5, nr. 7-10, § 6, § 11, nr. 2, 7 og 8, og §§ 13 og 18 har virkning for ejendomme, der overføres fra landzone til byzone eller sommerhusområde den 1. januar 2004 eller senere.
+
+Stk. 5. Såfremt der er ydet henstand med betaling af frigørelsesafgift efter § 6 i lov om frigørelsesafgift m.v. af fast ejendom for afståelser, der er foretaget før den 1. januar 2004, er henstanden og betingelserne for henstanden fortsat gældende. Henstandsbeløbet er rentefrit i 4 år efter forfaldsdagen og forrentes derefter med 6 pct. p.a. Renterne betales halvårsvis den 1. april og den 1. oktober for det da forløbne halvår. Renterne er fradragsberettiget ved opgørelsen af kapitalindkomsten. Henstandsbeløbet forfalder til betaling ved ejerskifte. Ved afståelse af en del af den afgiftspligtige ejendom forfalder en forholdsmæssig del af henstandsbeløbet. Henstandsbeløbet forfalder ikke ved ejerskifte, hvis erhververen er den afgiftspligtiges ægtefælle. Henstanden bortfalder, i det omfang den afgiftspligtige ejendom ikke længere benyttes som landbrug, gartneri, planteskole eller frugtplantage. Beløbet forfalder til betaling 6 måneder efter tidspunktet for den vurdering, hvor den ændrede benyttelse konstateres. Henstandsfristen udløber senest 12 år efter forfaldsdagen. Skatteministeren kan i særlige tilfælde indrømme yderligere henstand med betalingen af frigørelsesafgiften.
+
+Stk. 6. Ejere af ejendomme, der er overført eller overføres fra landzone til byzone eller sommerhusområde inden den 1. januar 2004, og som har fået henstand med betalingen af frigørelsesafgiften, kan vælge at få henstanden erstattet med beskatning af fortjenesten på afståelsestidspunktet efter reglerne i ejendomsavancebeskatningsloven. Henstandsrenter tilbagebetales dog ikke.
+
+Stk. 7-11. (udeladt).
+
+§ 4 i lov nr. 484 af 9. juni 2004 om ændring af byggeloven, lov om planlægning og lov om statens byggevirksomhed m.v. er sålydende:
+
+§ 4. (stk. 1 udeladt).
+
+Stk. 2. § 1, nr. 2-5, og § 2 træder i kraft den 1. juli 2004. (2. pkt. udeladt).
+
+Stk. 3. (udeladt).
