@@ -1,3 +1,5 @@
 Bekendtgørelse af Patentlov
 
-Herved bekendtgøres patentloven, jf. lovbekendtgørelse nr. 110 af 11. marts 1986, med de ændringer, der følger af lov nr. 854 af 23. december 1987 og lov nr. 368 af 7. juni 1989. Den bekendtgjorte lovtekst gælder først fuldt ud fra den 1. januar 1990 (jf. § 2 i lov nr. 368 af 7. juni 1989, der gengives i bekendtgørelsens slutning.
+(Patentloven)
+
+Herved bekendtgøres patentloven, jf. lovbekendtgørelse nr. 733 af 27. november 1989, med de ændringer, der følger af § 49 i lov nr. 130 af 26. februar 1992 og lov nr. 1057 af 23. december 1992. Den bekendtgjorte lovtekst gælder først fuldt ud, når aftale om EF-patenter træder i kraft. Industriministeren udfærdiger bekendtgørelse herom (jf. § 2 i lov nr. 1057 af 23. december 1992, der gengives i bekendtgørelsens slutning).

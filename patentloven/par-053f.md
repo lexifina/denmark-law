@@ -1,0 +1,1 @@
+§ 53 f. Hvis et patent er ændret i henhold til §§ 53 d eller 53 e, skal der fra det tidspunkt, hvor der sker bekendtgørelse ifølge § 53 d, stk. 4, hos patentmyndigheden kunne fås eksemplarer af det nye patentskrift med beskrivelse, tegninger og patentkrav i den ændrede form.
