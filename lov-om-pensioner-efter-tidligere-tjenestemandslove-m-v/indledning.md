@@ -1,3 +1,3 @@
-Lov om pensioner efter tidligere tjenestemandslove m.v.
+Bekendtgørelse af lov om pensioner efter tidligere tjenestemandslove m.v.
 
-VI FREDERIK DEN NIENDE, af Guds Nåde Konge til Danmark, de Venders og Goters, Hertug til Slesvig, Holsten, Stormarn, Ditmarsken, Lauenborg og Oldenborg, gør vitterligt: Folketinget har vedtaget og Vi ved Vort samtykke stadfæstet følgende lov:
+Herved bekendtgøres lov nr. 81 af 12. marts 1970 om pensioner efter tidligere tjenestemandslove m.v. med de ændringer, der følger af lov nr. 447 af 30. juni 1993.

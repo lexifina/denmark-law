@@ -1,9 +1,7 @@
-Givet på Christiansborg slot, den 12. marts 1970.
+Finansministeriet, den 9. september 1993
 
-Under Vor Kongelige Hånd og Segl.
+Mogens Lykketoft
 
-FREDERIK R.
-
-/Aage Hastrup
+/ Lene Larsen
 
 Ingen
