@@ -4,4 +4,4 @@ Stk. 2. Stk. 1 gælder ikke for lønindkomst ved tjeneste uden for riget for den
 
 Stk. 3. Stk. 1 gælder ikke i det omfang, en dobbeltbeskatningsaftale har tillagt Danmark beskatningsretten til den pågældende lønindkomst.
 
-Stk. 4. Ministeren for skatter og afgifter kan fastsætte regler om henstand med opkrævning af skatten i tilfælde, hvor det må anses for godtgjort, at stk. 1 skal anvendes.
+Stk. 4. Skatteministeren kan fastsætte regler om henstand med opkrævning af skatten i tilfælde, hvor det må anses for godtgjort, at stk. 1 skal anvendes.

@@ -1,6 +1,6 @@
-§ 15 A. Ved opgørelsen af den skattepligtige indkomst medregnes lejeværdien af bolig i egen ejendom, jfr. § 4, stk. 1, litra b, 2. pkt., i statsskatteloven.
+§ 15 A. Ved opgørelsen af den skattepligtige indkomst medregnes lejeværdien af bolig i egen ejendom, jf. § 4, stk. 1, litra b, 2. pkt., i statsskatteloven.
 
-Stk. 2. For ejendomme, der kun indeholder en selvstændig lejlighed, som tjener til bolig for ejeren, opgøres beregningsgrundlaget for lejeværdien efter §§ 15 B og 15 C.
+Stk. 2. For ejendomme, der kun indeholder een selvstændig lejlighed, som tjener til bolig for ejeren, opgøres beregningsgrundlaget for lejeværdien efter §§ 15 B og 15 C.
 
 Stk. 3. For tofamilieshuse, som tjener til bolig for ejeren, opgøres beregningsgrundlaget efter § 15 D.
 

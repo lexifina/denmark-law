@@ -1,4 +1,4 @@
-§ 15 B. For ejendomme, som kun indeholder en selvstændig lejlighed, beregnes lejeværdien på grundlag af den senest forud for indkomstårets begyndelse ansatte ejendomsværdi, reguleret efter vurderingslovens § 2 A.
+§ 15 B. For ejendomme, som kun indeholder een selvstændig lejlighed, beregnes lejeværdien på grundlag af den senest forud for indkomstårets begyndelse ansatte ejendomsværdi, reguleret efter vurderingslovens § 2 A.
 
 Stk. 2. Anvender den skattepligtige et andet indkomstår end kalenderåret (forskudt indkomstår), beregnes lejeværdien på grundlag af den ejendomsværdi, reguleret efter vurderingslovens § 2 A, der er ansat senest forud for det kalenderår, som det forskudte indkomstår træder i stedet for.
 

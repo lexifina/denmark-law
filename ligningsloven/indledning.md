@@ -1,3 +1,5 @@
-Bekendtgørelse af lov om påligningen af indkomst- og formueskat til staten (ligningsloven) (* 1)
+Bekendtgørelse af lov om påligningen af indkomst- og formueskat til staten
 
-Herved bekendtgøres lov om påligning af indkomst- og formueskat til staten, jfr. lovbekendtgørelse nr. 405 af 2. september 1985 med de ændringer og tilføjelser, der følger af lov nr. 494 af 27. november 1985, lov nr. 526 af 11. december 1985, lov nr. 532 af 11. december 1985, lov nr. 534 af 13. december 1985, lov nr. 149 af 19. marts 1986, lov nr. 150 af 19. marts 1986, lov nr. 194 af 9. april 1986, lov nr. 299 af 4. juni 1986, lov nr. 342 af 4. juni 1986 og lov nr. 345 af 4. juni 1986.
+(ligningsloven)
+
+Herved bekendtgøres lov om påligning af indkomst- og formueskat til staten (ligningsloven), jf. lovbekendtgørelse nr. 659 af 22. september 1986 med de ændringer, der følger af lov nr. 697 af 17. oktober 1986, lov nr. 767 af 12. november 1986, lov nr. 109 af 11. marts 1987, lov nr. 176 af 4. april 1987, lov nr. 280 af 13. maj 1987, lov nr. 303 af 25. maj 1987, lov nr. 310 af 25. maj 1987, lov nr. 360 af 10. juni 1987 og lov nr. 361 af 10. juni 1987.

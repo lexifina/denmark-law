@@ -2,7 +2,7 @@
 
 Stk. 2. Det samme gælder for selskaber og foreninger, der skal beskattes af vederlag som nævnt i stk. 1 efter reglerne i lov om indkomstbeskatning af aktieselskaber m.v.
 
-(* 25) § 27 B. Følgende tilskud medregnes ved opgørelsen af den skattepligtige indkomst inden for en 10 års periode, der begynder med det indkomstår, hvori den skattepligtige erhverver tilskuddet:
+(* 31) § 27 B. Følgende tilskud medregnes ved opgørelsen af den skattepligtige indkomst inden for en 10 års periode, der begynder med det indkomstår, hvori den skattepligtige erhverver tilskuddet:
 
 1) Investeringstilskud, der er ydet efter egnsudviklingslovens § 10.
 
@@ -20,11 +20,11 @@ Stk. 2. Det samme gælder for selskaber og foreninger, der skal beskattes af ved
 
 8) Tilskud, der er ydet efter §§ 2-5 og § 7 i loven fra 1984 om midlertidige statstilskud til visse strukturforbedringer m.m. inden for fiskeriet.
 
-9) Tilskud, der er ydet af Den europæiske Udviklings- og Garantifond for Landbruget i henhold til følgende forordninger fra Det europæiske økonomiske Fællesskab: a) Forordning nr. 1852/ 78 om gennemførelse af en midlertidig fælles foranstaltning til omlægning af kystfiskeriet, som senest ændret ved forordning nr. 2992/ 81, inden for det tilskudsområde, der er fastlagt i forordningens artikel 2, litra a). b) Forordning nr. 31/ 83 om gennemførelse af en midlertidig fælles foranstaltning til omlægning af kystfiskeriet og akvakulturen. c) Forordning nr. 2908/ 83 om en fælles foranstaltning til omstrukturering, modernisering og udvikling af fiskeriet og akvakulturen.
+9) Tilskud, der er ydet af Den europæiske Udviklings- og Garantifond for Landbruget i henhold til følgende forordninger fra Det europæiske økonomiske Fællesskab: a) Forordning nr. 1852/78 om gennemførelse af en midlertidig fælles foranstaltning til omlægning af kystfiskeriet, som senest ændret ved forordning nr. 2992/81, inden for det tilskudsområde, der er fastlagt i forordningens artikel 2, litra a). b) Forordning nr. 31/83 om gennemførelse af en midlertidig fælles foranstaltning til omlægning af kystfiskeriet og akvakulturen. c) Forordning nr. 2908/83 om en fælles foranstaltning til omstrukturering, modernisering og udvikling af fiskeriet og akvakulturen.
 
 10) Tilskud, der er ydet efter § 13 i lov om arbejdsmiljø til etablering af bedriftssundhedstjenester.
 
-Stk. 2. Den skattepligtige bestemmer selv, hvor stor en del af hele tilskuddet der skal medregnes i indkomsten for det enkelte år inden for 10 års perioden, jfr. dog stk. 5-8. Beløb, der er medregnet i indkomsten for et år, kan ikke senere overføres til et andet år.
+Stk. 2. Den skattepligtige bestemmer selv, hvor stor en del af hele tilskuddet der skal medregnes i indkomsten for det enkelte år inden for 10 års perioden, jf. dog stk. 5-8. Beløb, der er medregnet i indkomsten for et år, kan ikke senere overføres til et andet år.
 
 Stk. 3. Tilskudsbeløb, der endnu ikke er medregnet i den skattepligtige indkomst, skal for regnskabsførende skattepligtige opføres som en særlig passivpost i statusopgørelsen. Andre skattepligtige skal give oplysning om beløbet i selvangivelsen. Beløbet kan ikke fradrages ved opgørelsen af den skattepligtige formue.
 
@@ -32,7 +32,7 @@ Stk. 4. Kræves tilskuddet tilbagebetalt, fradrages tilbagebetalingsbeløbet for
 
 Stk. 5. Afhændes den virksomhed, hvortil der er ydet tilskud, skal tilskudsbeløb som nævnt i stk. 3 medregnes i den skattepligtige indkomst i salgsåret. Det samme gælder, hvis en overvejende del af virksomhedens aktiver afhændes.
 
-Stk. 6. Hvis et selskab eller en forening m.v., der har modtaget tilskud, opløses eller overgår til skattefri virksomhed, skal tilskudsbeløb som nævnt i stk. 3 medregnes ved opgørelsen af den skattepligtige indkomst senest ved selskabets eller foreningens ekstraordinære ansættelse, jfr. § 5, stk. 1, 2. pkt., i lov om indkomstbeskatning af aktieselskaber m.v.
+Stk. 6. Hvis et selskab eller en forening m.v., der har modtaget tilskud, opløses eller overgår til skattefri virksomhed, skal tilskudsbeløb som nævnt i stk. 3 medregnes ved opgørelsen af den skattepligtige indkomst senest ved selskabets eller foreningens ekstraordinære ansættelse, jf. § 5, stk. 1, 2. pkt., i lov om indkomstbeskatning af aktieselskaber m.v.
 
 Stk. 7. Dør en tilskudsmodtager, og skiftes boet efter ham i umiddelbar forbindelse med dødsfaldet, skal tilskudsbeløbet som nævnt i stk. 3 medregnes i afdødes eller boets skattepligtige indkomst senest for det indkomstår, hvori boets indkomstskattepligt ophører, såfremt virksomheden er omfattet af skiftet. Det samme gælder, hvor virksomheden som del af fællesboet tilfalder ægtefællen, efter at der i umiddelbar forbindelse med dødsfaldet er skiftet med enkelte arvinger.
 
