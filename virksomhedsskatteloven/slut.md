@@ -1,33 +1,243 @@
-Skatteministeriet, den 2. september 1993
+Skatteministeriet, den 1. august 1994
 
 Ole Stavad
 
-/ Lars H. Nielsen
+/ Kirsten Hvelplund
 
-(* 1) Denne lovbekendtgørelse indeholder bemærkninger om ikrafttrædelses- og overgangsbestemmelser for love, der er vedtaget i folketingsåret 1992-93. Bemærkninger om ikrafttrædelses- og overgangsbestemmelser for love, der er vedtaget i folketingsåret 1991-92, kan findes i lovbekendtgørelse nr. 780 af 18. september 1992.
+(* 1) Denne lovbekendtgørelse indeholder bemærkninger om ikrafttrædelses- og overgangsbestemmelser for love, der er vedtaget i folketingsåret 1993/94. Bemærkninger om ikrafttrædelses- og overgangsbestemmelser for tidligere vedtagne ændringer er kun medtaget i det omfang, de skønnes at have betydning.
 
-(* 2) Bestemmelserne i § 1, stk. 1 og 2, § 2, stk. 2, 3 og 4, § 7, stk. 1, § 8, stk. 1, 1. pkt., § 10, stk. 3, § 11, stk. 1, § 13, stk. 1 og 8, § 14, § 15, § 15 a, § 15 b, § 15 c, § 16, § 16 a, § 18 og § 22 a, har i den her anførte affattelse virkning fra og med indkomståret 1993, jf. § 7, stk. 2, i lov nr. 1030 af 19. december 1992.
+(* 2) § 1, stk. 2, er ændret og § 22 a, stk. 7, 2. pkt., er senest ændret ved § 13 i lov nr. 374 af 18. maj 1994. § 13 i lov nr. 374 af 18. maj 1994 har for selskaber og foreninger, hvis indkomstår 1994 påbegyndes den 27. oktober 1993 eller senere, virkning fra og med indkomståret 1994. For selskaber og foreninger, hvis indkomstår 1994 er påbegyndt før den 27. oktober 1993, har bestemmelsen virkning fra og med indkomståret 1995. Jf. lovens § 17, stk. 2.
 
-(* 3) Skattepligtige, hvis indkomstår 1993 er påbegyndt før den 1. januar 1993, kan dog vælge først at anvende bestemmelserne i § 2, stk. 3 og 4, § 7, stk. 1, § 14 og § 15, § 15 a, § 15 b, § 15 c, § 16 og 16 a, i den her anførte affattelse med virkning for indkomståret 1994, jf. § 7, stk. 3, i lov nr. 1030 af 19. december 1992.
+I lovens § 18 er der indsat følgende overgangsbestemmelse:
 
-(* 4) Bestemmelsen i § 1, stk. 3, 6. pkt., har virkning fra og med indkomståret 1994, jf. § 4, stk. 2, i lov nr. 483 af 30. juni 1993.
+»Stk. 1. For andelsbeviser eller andele i selskaber og foreninger m.v., der ved udgangen af indkomståret 1993 henholdsvis indkomståret 1994 er omfattet af aktieavancebeskatningslovens § 2 b, jf. lovbekendtgørelse nr. 753 af 15. september 1993, finder bestemmelsen fortsat anvendelse, medmindre der er tale om andelsbeviser eller andele i en andelsforening, der fra og med indkomståret 1994 henholdsvis indkomståret 1995 omfattes af aktieavancebeskatningslovens § 2 b, som affattet ved denne lovs § 3, nr. 4.
 
-(* 5) § 3, stk. 4, og § 8, stk. 2, indeholder regler om værdiansættelse af aktiver og passiver ved opgørelsen af indskudskontoen og afkastgrundlaget. I § 3, stk. 4, 4. pkt., og § 8, stk. 2, 5. pkt., der er indsat ved lov nr. 428 af 25. juni 1993, bestemmes, at i det omfang anskaffelsessummen omregnes til kontantværdi, anvendes kontantværdien. Ved lov nr. 428 af 25. juni 1993 indføres regler i ligningslovens § 16 F om afskrivning på goodwill. I konsekvens heraf er de hidtil gældende særregler om afskrivning på goodwill ved opgørelsen af indskudskontoen og afkastgrundlaget i virksomhedsskattelovens § 3, stk. 5, og § 8, stk. 3, ophævet. Lov nr. 428 af 25. juni 1993 har virkning for formuegoder, der afstås eller erhverves den 19. maj 1993 eller senere, jf. lovens § 8, stk. 2. Ifølge lovens § 8, stk. 7, indgår goodwill, der er erhvervet før 19. maj 1993, med anskaffelsessummen uden kontantomregning ved opgørelsen af indskudskontoen efter virksomhedsskattelovens § 3 og afkastgrundlaget efter virksomhedsskattelovens § 8. Anskaffelsessummen nedskrives ved opgørelsen af indskudskontoen og afkastgrundlaget med 15 pct. årligt. Reglerne i virksomhedsskattelovens § 3, stk. 4, 3. og 4. pkt., og § 8, stk. 2, 2. og 5. pkt., finder ikke anvendelse på goodwill, der er erhvervet før 19. maj 1993.
+Stk. 2. Andelsbeviser eller andele i selskaber og foreninger m.v., der inden for de seneste 10 år har været omfattet af aktieavancebeskatningslovens § 2 b, jf. lovbekendtgørelse nr. 753 af 15. september 1993, kan fortsat indgå i virksomhedsordningen, jf. virksomhedsskattelovens § 1, stk. 7, og i kapitalafkastordningen, jf. virksomhedsskattelovens § 22 a, stk. 7.«
 
-(* 6) § 5, stk. 3, og § 6, stk. 1, har i den her anførte affattelse virkning fra den 19. maj 1993, jf. § 19, stk. 1, i lov nr. 421 af 25. juni 1993.
+(* 3) § 1, stk. 3, 3. pkt., er indsat ved § 4 i lov nr. 445 af 1. juni 1994. Bestemmelsen har virkning fra og med indkomståret 1995, jf. lovens § 7, stk. 2.
 
-(* 7) Bestemmelsen i § 8, stk. 1, 2. pkt., i den her anførte affattelse har virkning fra og med den 17. maj 1992. Vælger den skattepligtige at anvende § 8, stk. 1, som affattet ved § 1, nr. 12, i lov nr. 344 af 14. maj 1992 med virkning for hele indkomståret 1992, har § 8, stk. 1, 2. pkt., dog virkning for hele indkomståret 1992, jf. § 7, stk. 4, i lov nr. 1030 af 19. december 1992.
+I lovens § 7, stk. 3, er indsat følgende overgangsbestemmelse:
 
-(* 8) Bestemmelsen i § 13, stk. 5, der er indsat ved lov nr. 1030 af 19. december 1992, og som har virkning fra og med indkomståret 1993, har i den her anførte affattelse virkning fra den 19. maj 1993, jf. § 19, stk. 1, i lov nr. 421 af 25. juni 1993.
+»Stk. 3. Når en del af en ejendom, der tjener til bolig for ejere, fra og med indkomståret 1995 ikke længere er omfattet af virksomhedsordningen, kan et beløb svarende til en del af kapitalafkastgrundlaget ved udgangen af indkomståret 1994 overføres fra indskudskontoen til mellemregningskontoen uden om den rækkefølge, der er nævnt i virksomhedsskattelovens § 5. Den nævnte del af kapitalafkastgrundlaget opgøres forholdsmæssigt på grundlag af den værdi, hvormed ejendommen indgår i kapitalafkastgrundlaget ved udgangen af indkomståret 1994, og den ikke erhvervsmæssige andel af den samlede ejendomsværdi pr. 1. januar 1995, det vil sige den samlede ejendomsværdi pr. 1. januar 1995 med fradrag af den særskilte ejendomsværdi for den resterende del af ejendommen, jf. vurderingslovens § 33 A, stk. 1. Ved beregningen af den forholdsmæssige andel ses der bort fra finansielle aktiver. Er der flere lejligheder, der bebos af ejere, fordeles den ikke erhvervsmæssige del mellem disse i forhold til ejerandele i den samlede ejendom.«
 
-(* 9) Det i § 16 og § 16 a nævnte tillæg på 25 pct. har ikke virkning for overskud, der er opsparet for indkomståret 1991 og tidligere indkomstår, jf. § 7, stk. 5, i lov nr. 1030 af 19. december 1992.
+(* 4) § 3, stk. 3, § 4, § 5, stk. 1, nr. 3, litra a, og § 10, stk. 1, har i den her anførte affattelse virkning fra og med indkomståret 1993, jf. § 9, stk. 2, i lov nr. 1115 af 22. december 1993.
 
-(* 10) Bestemmelserne i § 16 b og § 16 c har virkning for skattefri virksomhedsomdannelse, når aktieselskabet eller anpartsselskabet stiftes den 17. november 1992 eller senere, eller, hvis omdannelse sker ved overdragelse til et selskab, der allerede er registreret, når aftale om overdragelse indgås den 17. november 1992 eller senere, jf. § 7, stk. 6, i lov nr. 1030 af 19. december 1992.
+(* 5) § 3, stk. 4, og § 8, stk. 2, indeholder regler om værdiansættelse af aktiver og passiver ved opgørelsen af indkudskontoen og afkastgrundlaget. I § 3, stk. 4, 4. pkt., og § 8, stk. 2, 5. pkt., der er indsat ved lov nr. 428 af 25. juni 1993, bestemmes, at i det omfang anskaffelsessummen omregnes til kontantværdi, anvendes kontantværdien. Ved lov nr. 428 af 25. juni 1993 indføres regler i ligningslovens § 16 F om afskrivning på goodwill. I konsekvens heraf er de hidtil gældende særregler om afskrivning på goodwill ved opgørelsen af indskudskontoen og afkastgrundlaget i virksomhedsskattelovens § 3, stk. 5, og § 8, stk. 3, ophævet. Lov nr. 428 af 25. juni 1993 har virkning for formuegoder, der afstås eller erhverves den 19. maj 1993 eller senere, jf. lovens § 8, stk. 2.
 
-(* 11) Ved lov nr. 480 af 30. juni 1993 blev passivposten i § 18, stk. 3, nedsat fra 211/2 pct. til 18 pct. med virkning for overskud, der opspares i indkomståret 1996 og følgende indkomstår, jf. lovens § 10, stk. 4.
+§ 8 i lov nr. 428 af 25. juni 1993, som ændret ved § 14 i lov nr. 1117 af 22. december 1993, indeholder følgende overgangsbestemmelæser:
 
-(* 12) Ved beskatning af overskud, der er opsparet før indkomståret 1991, og af overskud, der er opsparet for indkomståret 1991, udgør den i virksomhedsskattelovens § 19, stk. 1, nævnte procent på 43 i stedet henholdsvis 25 pct. og 40 pct., jf. § 5, stk. 3, i lov nr. 344 af 14. maj 1992 som affattet ved § 3 i lov nr. 1030 af 19. december 1992. Bestemmelsen har virkning fra og med indkomståret 1992, jf. § 7, stk. 7, i lov nr. 1030 af 19. december 1992.
+»Stk. 4. Ved overdragelse af goodwill i perioden 19. maj 1993-1. januar 1996 medregnes ved overdragelse i 1993 25 pct., ved overdragelse i 1994 50 pct. og ved overdragelse i 1995 75 pct. af fortjenesten eller tabet ved opgørelsen af den skattepligtige indkomst. Tilsvarende udgør købers afskrivningsgrundlag ved erhvervelse i den pågældende periode henholdsvis 25 pct., 50 pct. og 75 pct. af anskaffelsessummen, jf. dog stk. 5.
 
-(* 13) Ved lov nr. 480 af 30. juni 1993 blev beskatningsprocenten i § 19, stk. 1, sat ned fra 43 pct. til 36 pct. med virkning for overskud, der opspares i indkomståret 1996 og følgende indkomstår, jf. lovens § 10, stk. 4.
+Stk. 5. Den kontantomregnede anskaffelsessum for goodwill, der er
 
-(* 14) Ved beregning af skat i et dødsbo efter virksomhedsskattelovens § 19, stk. 1, foretages 65.000 kr.-fradraget først i overskud, der er opsparet før indkomståret 1996. Et eventuelt resterende fradrag foretages i overskud, der er opsparet for indkomståret 1996 eller senere, jf. § 10, stk. 5, i lov nr. 480 af 25. juni 1993.
+erhvervet i perioden 18. november 1993-1. januar 1996, nedskrives ved
+
+opgørelsen af indskudskontoen efter virksomhedsskattelovens § 3,
+
+afkastgrundlaget efter virksomhedsskattelovens § 8 og
+
+kapitalafkastgrundlaget efter virksomhedsskattelovens § 22 a,
+
+stk. 5, med 10 pct. årligt.
+
+Stk. 6. For formuegoder omfattet af ligningslovens § 16 E, stk. 1,
+
+nr. 2-5, der er erhvervet før den 19. maj 1993, foretages afskrivning
+
+for den resterende periode på grundlag af den oprindelige
+
+anskaffelsessum uden kontantomregning med de i ligningslovens § 16 F
+
+indeholdte satser. Den således nedskrevne værdi benyttes som
+
+anskaffelsessum ved opgørelsen af fortjeneste eller tab efter § 16 E.
+
+Stk. 7. For goodwill, der er erhvervet før den 19. maj 1993, og
+
+hvorpå der har kunnet afskrives efter tidligere gældende regler,
+
+foretages afskrivning for den resterende del af perioden efter de
+
+dagældende regler på grundlag af den oprindelige anskaffelsessum
+
+uden kontantomregning. Den således nedskrevne værdi benyttes som
+
+anskaffelsessum ved opgørelsen af fortjeneste eller tab efter §
+
+16 E.
+
+Stk. 8. Goodwill, der er erhvervet før den 19. maj 1993, og
+
+goodwill, der erhverves ved en overdragelse, hvor reglen i stk. 9
+
+finder anvendelse, indgår med anskaffelsessummen uden
+
+kontantomregning ved opgørelsen af indskudskontoen efter
+
+virksomhedsskattelovens § 3, afkastgrundlaget efter
+
+virksomhedsskattelovens § 8 og kapitalafkastgrundlaget efter
+
+virksomhedsskattelovens § 22 a, stk. 5. Anskaffelsessummen
+
+nedskrives ved opgørelsen af indskudskontoen, afkastgrundlaget og
+
+kapitalafkastgrundlaget med 15 pct. årligt. Reglerne i
+
+virksomhedsskattelovens § 3, stk. 4, 3. og 4. pkt., og § 8, stk.
+
+2, 4. og 5. pkt., finder ikke anvendelse på de i 1. pkt. nævnte
+
+tilfælde.
+
+Stk. 9. Overdrages goodwill i tiden 19. maj 1993-1. januar 1998,
+
+behandles vederlaget skattemæssigt efter de hidtil gældende regler,
+
+såfremt vederlaget er fastsat i en bindende aftale, som er indgået i
+
+perioden 1. juli 1982-19. maj 1993, og der er ingen
+
+afskrivningsadgang for køber. Anvendelse af reglen i 1. pkt. er
+
+dog betinget af, at Ligningsrådet i henhold til anmodning om
+
+bindende forhåndsbesked indgivet inden 1. januar 1994 godkender,
+
+at der foreligger en bindende aftale om vederlagets fastsættelse.«
+
+(* 6) Anpartsindgrebet, der er gennemført ved lov nr. 425 af 25. juni
+
+1993, betyder, at indkomst ved udlejning af afskrivningsberettigede
+
+driftsmidler og skibe er omfattet af anpartsreglerne uanset antal
+
+ejere, når den skattepligtige ikke deltager i virksomhedens drift i
+
+væsentligt omfang. Indkomst ved udlejning af aktiver, som er
+
+anskaffet den 12. maj 1989 eller senere og inden 19. maj 1993, er
+
+først omfattet af de nye regler fra og med indkomståret 1994. Hvis de
+
+pågældende anparter er i virksomhedsordningen, betyder lovændringen,
+
+at anpartsvirksomheden fra og med indkomståret 1994 ikke længere kan
+
+være i virksomhedsordningen.
+
+Lov nr. 425 af 25. juni 1993, som ændret ved § 8 i lov nr. 1115 af
+
+22. december 1993, indeholder i § 5, stk. 4, følgende
+
+overgangsbestemmelse:
+
+»Stk. 4. Virksomhedsskattelovens § 15 a, stk. 1 og 2, finder
+
+tilsvarende anvendelse, når virksomhed ved udlejning af aktiver, der
+
+er anskaffet den 12. maj 1989 eller senere og inden den 19. maj 1993,
+
+og som fra og med indkomståret 1994 er omfattet af personskattelovens
+
+§ 4, stk. 1, nr. 13, jf. stk. 3, ophører med at være omfattet af
+
+virksomhedsordningen, uden at virksomheden afstås. I stedet for det
+
+kontante nettovederlag anvendes den del af kapitalafkastgrundlaget
+
+ved udløbet af indkomståret 1993, der efter forholdet mellem
+
+nettoværdien af den overførte virksomhed ved udløbet af indkomståret
+
+1993 og nettoværdien af samtlige virksomheder indskudt i
+
+virksomhedsordningen kan henføres til den overførte virksomhed.
+
+Nettoværdien af en virksomhed opgøres som det beløb, hvormed værdien
+
+af aktiverne i virksomheden overstiger værdien af passiverne i
+
+virksomheden. Overstiger værdien af passiverne værdien af aktiverne,
+
+ansættes nettoværdien af virksomheden til 0. Ved beregningen af den
+
+forholdsmæssige andel ses bort fra finansielle aktiver.«
+
+Bestemmelsen har virkning for indkomståret 1994, jf. § 9, stk. 5, i
+
+lov nr. 1115 af 22. december 1993.
+
+(* 7) Ved lov nr. 480 af 30. juni 1993 blev passivposten i § 18, stk.
+
+3, nedsat fra 211/2 pct. til 18 pct. med virkning for overskud, der
+
+opspares i indkomståret 1996 og følgende indkomstår, jf. lovens § 10,
+
+stk. 4.
+
+(* 8) Ved beskatning af overskud, der er opsparet før indkomståret
+
+1991, og af overskud, der er opsparet for indkomståret 1991, udgør
+
+den i virksomhedsskattelovens § 19, stk. 1, nævnte procent på 43 i
+
+stedet henholdsvis 25 pct. og 40 pct., jf. § 5, stk. 3, i lov nr. 344
+
+af 14. maj 1992 som affattet ved § 3 i lov nr. 1030 af 19. december
+
+1992. Bestemmelsen har virkning fra og med indkomståret 1992, jf. §
+
+7, stk. 7, i lov nr. 1030 af 19. december 1992.
+
+(* 9) Ved lov nr. 480 af 30. juni 1993 blev beskatningsprocenten i §
+
+19, stk. 1, sat ned fra 43 pct. til 36 pct. med virkning for
+
+overskud, der opspares i indkomståret 1996 og følgende indkomstår,
+
+jf. lovens § 10, stk. 4.
+
+(* 10) Ved beregning af skat i et dødsbo efter
+
+virksomhedsskattelovens § 19, stk. 1, foretages 65.000 kr.s-fradraget
+
+først i overskud, der er opsparet før indkomståret 1996. Et eventuelt
+
+resterende fradrag foretages i overskud, der er opsparet for
+
+indkomståret 1996 eller senere, jf. § 10, stk. 5, i lov nr. 480 af
+
+25. juni 1993.
+
+(* 11) Der er tale om en konsekvensændring som følge af den ændring
+
+af § 8, der blev gennemført ved lov nr. 428 af 25. juni 1993.
+
+Ændringen har virkning fra og med den 18. november 1993, jf. § 16,
+
+stk. 1, i lov nr. 1117 af 22. december 1993.
+
+(* 12) § 22 a, stk. 7, er ændret ved § 1 i lov nr. 1115 af 22.
+
+december 1993. Ændringen har virkning fra og med indkomståret 1993,
+
+jf. lovens § 9, stk. 2. Fra dette tidspunkt kan fordringer erhvervet
+
+ved salg af tjenesteydelser i forbindelse med salg af varer og gæld
+
+opstået ved køb af tjenesteydelser i forbindelse med køb af varer
+
+medregnes i kapitalafkastgrundlaget. § 22 a, stk. 7, 2. pkt., er
+
+atter ændret ved § 13 i lov nr. 374 af 18. maj 1994. Se herom i note
+
+2.
+
+(* 13) § 22 b er indsat ved lov nr. 1115 af 22. december 1993 og har
+
+virkning fra og med indkomståret 1993, jf. lovens § 9, stk. 2.
+
+(* 14) § 23 a er indsat ved lov nr. 1115 af 22. december 1993 og har
+
+virkning fra og med indkomståret 1994, jf. lovens § 9, stk. 3.
