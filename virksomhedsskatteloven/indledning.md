@@ -1,3 +1,3 @@
-Bekendtgørelse af lov om indkomstbeskatning af selvstændige erhvervsdrivende (virksomhedsskatteloven) (* 1)
+Bekendtgørelse af lov om indkomstbeskatning af selvstændige erhvervsdrivende (virksomhedsskatteloven)(* 1)
 
-Herved bekendtgøres lov om indkomstbeskatning af selvstændige erhvervsdrivende (virksomhedsskatteloven), jf. lovbekendtgørelse nr. 575 af 22. august 1989 med de ændringer, der følger af § 3 i lov nr. 217 af 10. april 1991, § 7 i lov nr. 218 af 10. april 1991 og § 3 i lov nr. 363 af 6. juni 1991.
+Herved bekendtgøres lov om indkomstbeskatning af selvstændige erhvervsdrivende (virksomhedsskatteloven), jf. lovbekendtgørelse nr. 620 af 22. august 1991 med de ændringer, der følger af § 2 i lov nr. 234 af 8. april 1992 og lov nr. 344 af 14. maj 1992.
