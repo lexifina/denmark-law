@@ -1,5 +1,7 @@
-Socialministeriet, den 23. juni 1994
+Socialministeriet, den 22. juli 1997
 
-Yvonne Herløv Andersen
+Karen Jespersen
 
 / Birthe Frederiksen
+
+Ingen
