@@ -1,91 +1,29 @@
-Lov nr. 491 af 30. juni 1993 indeholder følgende ikrafttrædelses- og overgangsbestemmelser:
+Lov nr. 437 af 26. juni 1998 indeholder følgende ikrafttrædelses- og overgangsbestemmelser:
 
-§ 2
+§ 8
 
-Stk. 1. Loven træder i kraft den 1. januar 1994, jf. dog stk. 5.
+Stk. 1. Loven træder i kraft den 1. juli 1998, jf. dog stk. 2-20.
 
-Stk. 2-5. (Udeladt).
+Stk. 2. Skatteministeren fastsætter ikrafttrædelsestidspunkterne for § 3 og § 4, nr. 1 og 2. Bestemmelserne i § 4, nr. 1 og 2, har kun gyldighed i 4 år fra ikrafttrædelsestidspunktet.
 
-Stk. 6. Afgiften svares i perioden 1. januar 1994 - 31. december 1997 efter følgende satser:
+Stk. 3-5. (Udeladt).
 
-1. Forbruget af elektricitet, der overstiger 4.000 kWh årligt i helårsboliger, der opvarmes ved elekticitet:
+Stk. 6. Afgiften efter § 6, stk. 1, nr. 1, i lov om afgift af elektricitet, som affattet ved denne lovs § 4, nr. 5, svares i perioden den 1. juli 1998 til 31. december 2001 efter følgende satser: 39,5 øre pr. kWh med tillæg af et elsparebidrag på 0,6 øre pr. kWh, i alt 40,1 øre pr. kWh i perioden 1. juli 1998-31. december 1998 41 øre pr. kWh med tillæg af et elsparebidrag på 0,6 øre pr. kWh, i alt 41,6 øre pr. kWh i perioden 1. januar 1999-31. december 1999 42,5 øre pr kWh med tillæg af et elsparebidrag på 0,6 øre pr. kWh, i alt 43,1 øre pr. kWh i perioden 1. januar 2000-31. december 2000 44 øre pr. kWh med tillæg af et elsparebidrag på 0,6 øre pr. kWh, ialt 44,6 øre pr. kWh i perioden 1. januar 2001-31. december 2001
 
-26,5 øre pr. kWh i perioden 1. januar 1994 -
+Stk. 7. Afgiften efter § 6, stk. 1, nr. 2, i lov om afgift af elektricitet, som affattet ved denne lovs § 4, nr. 6, svares i perioden den 1. juli 1998 til 31. december 2001 efter følgende satser: 46 øre pr. kWh med tillæg af et elsparebidrag på 0,6 øre pr. kWh, i alt 46,6 øre pr. kWh i perioden 1. juli 1998-31. december 1998 47,5 øre pr. kWh med tillæg af et elsparebidrag på 0,6 øre pr. kWh, i alt 48,1 øre pr. kWh i perioden 1. januar 1999-31. december 1999 49 øre pr. kWh med tillæg af et elsparebidrag på 0,6 øre pr. kWh, i alt 49,6 øre pr. kWh i perioden 1. januar 2000-31. december 2000 50,5 øre pr. kWh med tillæg af et elsparebidrag på 0,6 øre pr. kWh, i alt 51,1 øre pr. kWh i perioden 1. januar 2001-31. december 2001.
 
-31. december 1994
+Stk. 8-13. (Udeladt).
 
-29,5 øre pr. kWh i perioden 1. januar 1995 -
+Stk. 14. Nedsættelsen af den samlede tilbaggebetaling efter energiafgiftslovene ved efterfølgende nyttiggørelse af varmt vand eller varme, jf. § 11, stk. 8, 1. pkt., i lov om energiafgift af mineralolieprodukter m.v., § 8, stk. 7, 1. pkt., i lov om afgift af stenkul, brunkul og koks m.v., § 11, stk. 8, 1. pkt., i lov om afgift af elektricitet og § 10, stk. 8, 1. pkt., og stk. 10, i lov om afgift af naturgas og bygas, som affattet ved denne lovs § 1, nr. 4, § 5, nr. 13, § 4, nr. 10, og § 2, nr. 3, udgør følgende beløb i perioden 1. juli 1998-31. december 2001: 42,50 kr./GJ i perioden 1. juli 1998-31. december 1998 47,50 kr./GJ i perioden 1. januar 1999-31. december 1999 50,00 kr./GJ i perioden 1. januar 2000-31. december 2001
 
-31. december 1995
+Stk. 15. Nedsættelsen af den samlede tilbagebetaling efter energiafgiftslovene vedrørende opvarmning af rum under 100 m 2 m.v., jf. § 11, stk. 6, 3. pkt., og stk. 8, 5. pkt., i lov om energiafgift af mineralolieprodukter m.v., § 8, stk. 5, 3. pkt., og stk. 7, 5. pkt., i lov om afgift af stenkul, brunkul og koks m.v., § 11, stk. 6, 1. pkt., og stk. 8, 5. pkt., i lov om afgift af elektricitet og § 10, stk. 6, 3. pkt., stk. 8, 5. pkt., og stk. 10 i lov om afgift af naturgas og bygas, som affattet ved denne lovs § 1, nr. 3, § 5, nr. 12, § 4, nr. 9, og § 2, nr. 2, udgør følgende beløb pr. m 2 i perioden 1. juli 1998-31. december 2001: 8 kr. i perioden 1. juli 1998-31. december 1998 9 kr. i perioden 1. januar 1999-31. december 2001
 
-32,5 øre pr. kWh i perioden 1. januar 1996 -
+Stk. 16. Nedsættelsen af den samlede tilbagebetaling efter energiafgiftslovene ved efterfølgende nyttiggørelse af varmt vand eller varme, der afsættes, jf. § 11, stk. 8, 2. pkt., i lov om energiafgift af mineralolieprodukter m.v, § 8, stk. 7, 2. pkt., i lov om afgift af stenkul, brunkul og koks m.v., § 11, stk. 8, 2. pkt., i lov om afgift af elektricitet og § 10, stk. 8, 2. pkt., og stk. 10, i lov om afgift af naturgas og bygas, som affattet ved denne lovs § 1, nr. 5, § 5, nr. 14, § 4, nr. 11, og § 2, nr. 4, udgør højst følgende andele i perioden 1. juli 1998-31. december 2001: 42,5 pct. i perioden 1. juli 1998-31. december 1998 45,0 pct. i perioden 1. januar 1999-31. december 2001
 
-31. december 1996
+Stk. 17. (Udeladt).
 
-36,5 øre pr. kWh i perioden 1. januar 1997 -
+Stk. 18. Afgiftsforhøjelserne pr. 1. juli 1998 for gas- og dieselolie m.v. og naturgas finder anvendelse på afgiftspligtige varer, der fra den 1. juli 1998 udleveres til forbrug fra registrerede oplagshavere, angives til fortoldning eller modtages fra udlandet. Afgiftsforhøjelserne pr. 1. januar 1999 for benzin og stenkul m.v. finder anvendelse på afgiftspligtige varer, der fra den 1. januar 1999 udleveres til forbrug fra registrerede oplagshavere, angives til fortoldning eller modtages fra udlandet. Afgiftsforhøjelserne pr. 1. januar 1999 for elektricitet finder anvendelse på leverancer af elektricitet, der sker fra den 1. januar 1999.
 
-31. december 1997
+Stk. 19. For løbende leverancer af varer, for hvilke afregningsperioden påbegyndes inden henholdsvis den 1. juli 1998 og 1. januar 1999 og afsluttes efter de nævnte tidspunkter, beregnes den ændrede afgift af så stor en del af leverancen, som tidsrummet fra henholdsvis 1. juli 1998 og 1. januar 1999 til afregningsperiodens afslutning udgør i forhold til den samlede afregningsperiode. Med de statslige told- og skattemyndigheders tilladelse kan der foretages afrunding ved opgørelse af den brøkdel af leverancerne, hvorefter fordelingen skal foretages.
 
-2. Af anden elektricitet:
-
-30 øre pr. kWh i perioden 1. januar 1994 -
-
-31. december 1994
-
-33 øre pr. kWh i perioden 1. januar 1995 -
-
-31. december 1995
-
-36 øre pr. kWh i perioden 1. januar 1996 -
-
-31. december 1996
-
-40 øre pr. kWh i perioden 1. januar 1997 -
-
-31. december 1997
-
-Stk. 7. Afgiftsforhøjelsen pr. 1. januar 1994 finder anvendelse på leverancer af elektricitet, der sker fra den 1. januar 1994. For løbende leverancer, for hvilke afregningsperioden påbegyndes inden lovens ikrafttræden og afsluttes efter dette tidspunkt, beregnes den ændrede afgift af så stor en del af leverancen, som tidsrummet fra lovens ikrafttræden til afregningsperiodens afslutning udgør i forhold til den samlede afregningsperiode. Med de statslige told- og skattemyndigheders tilladelse kan der foretages afrunding ved opgørelse af den brøkdel af leverancer, hvorefter fordelingen skal foretages.
-
-Stk. 8. Stk. 7 finder tilsvarende anvendelse på leverancer af elektricitet, der sker fra henholdsvis 1. januar 1995, 1. januar 1996, 1. januar 1997 og 1. januar 1998.
-
-Lov nr. 418 af 14. juni 1995 som ændret ved § 5 i lov nr. 1102 af 20. december 1995 indeholder følgende ikrafttrædelses- og overgangsbestemmelser:
-
-§ 4
-
-Stk. 1. Tidspunktet for lovens ikrafttræden fastsættes af skatteministeren. Loven træder dog tidligst i kraft den 1. januar 1996.
-
-Stk. 2. Loven finder anvendelse på leverancer, der sker efter lovens ikrafttræden.
-
-Stk. 3. For løbende leverancer af varer, som ikke er tilbagebetalingsberettigede efter § 11 i lov om energiafgift af mineralolieprodukter m.v. som ændret ved denne lovs § 1, nr. 4, § 8 i lov om afgift af stenkul, brunkul og koks m.v. som ændret ved denne lovs § 2, nr. 2, og § 11 i lov om afgift af elektricitet som ændret ved denne lovs § 3, nr. 1, og for hvilke afregningsperioden påbegyndes inden lovens ikrafttræden og afsluttes efter dette tidspunkt, beregnes afgiften af så stor en del af leverancen, som tidsrummet fra lovens ikrafttræden til afregningsperiodens slutning udgør i forhold til den samlede afregningsperiode. Med de statslige told- og skattemyndigheders tilladelse kan der foretages afrunding ved opgørelse af den andel af leverancerne, som der ikke ydes tilbagebetaling for.
-
-Stk. 4. (* 3)Virksomheder, der er registreret efter merværdiafgiftsloven, kan dog i perioden fra ikrafttrædelsen til 31. december 1997 få en andel af afgiften efter lov om energiafgift af mineralolieprodukter m.v. lov om afgift af stenkul, brunkul og koks m.v. og lov om afgift af elektricitet tilbagebetalt af de i virksomheden forbrugte varer, der direkte eller indirekte er medgået til fremstilling af rumvarme eller varmt vand, herunder afgiften pr. m2 af rum, hvor en fordeling efter målere indebærer måling af varmeforbruget for et areal under 100 m2. Tilbagebetalingsandelen udgør følgende andel:
-
-70 pct. fra ikrafttrædelsen til 31. december 1996
-
-35 pct. i perioden 1. januar 1997 - 31. december 1997.
-
-Stk. 5. For løbende leverancer af varer, som ikke er tilbagebetalingsberettigede efter § 11 i lov om energiafgift af mineralolieprodukter m.v. som ændret ved denne lovs § 1, nr. 4, § 8 i lov om afgift af stenkul, brunkul og koks m.v. som ændret ved denne lovs § 2, nr. 2, og § 11 i lov om afgift af elektricitet som ændret ved denne lovs § 3, nr. 1, og for hvilke afregningsperioden påbegyndes inden henholdsvis 1. januar 1996 og 1. januar 1997 og afsluttes efter de nævnte tidspunkter, beregnes afgiften af så stor en del af leverancen, som tidsrummet fra henholdsvis 1. januar 1996 og 1. januar 1997 til afregningsperiodens slutning udgør i forhold til den samlede afregningsperiode. Stk. 3, 2. pkt., finder tilsvarende anvendelse.
-
-Stk. 6. (Udeladt).
-
-Lov nr. 1101 af 20. december 1995 indeholder følgende ikrafttrædelsesbestemmelser:
-
-§ 9
-
-Stk. 1. Skatteministeren fastsætter tidspunktet for lovens ikrafttræden, jf. dog stk. 2 og 3. Ministeren kan herunder fastsætte, at de enkelte bestemmelser i loven træder i kraft på forskellige tidspunkter. Loven har virkning fra den 1. januar 1996, jf. dog stk. 4 og 5.
-
-Stk. 2-5. (Udeladt).
-
-Lov nr. 1102 af 20. december 1995 indeholder følgende overgangsbestemmelser:
-
-§ 11
-
-Stk. 1. De statslige told- og skattemyndigheder kan tillade, at virksomhederne kan basere forholdsmæssige fordelinger og mængden af nyttiggjort procesvarme til intern rumopvarmning m.v. efter lov om energiafgift af mineralolieprodukter m.v., lov om afgift af stenkul, brunkul og koks m.v., lov om afgift af elektricitet og lov om afgift af naturgas og bygas på andet end direkte måling. Det er en betingelse herfor, at virksomheden kan godtgøre, at tekniske forhold forhindrer måling straks fra den 1. januar 1996, eller at andre ganske særlige omstændigheder gør sig gældende, samt at installeringen af de nødvendige målere foretages umiddelbart efter, at de tekniske forhold eller andre ganske særlige omstændigheder ikke længere stiller sig hindrende i vejen herfor, og senest den 1. juli 1996.
-
-Stk. 2. De statslige told- og skattemyndigheder kan tillade, at virksomhederne kan foretage de i stk. 1 nævnte opgørelser for hele 1996, når der er tale om energiforbrug, der er baseret på varm luft. Det er en forudsætning, at det kan godtgøres, at det er forbundet med ganske særlige vanskeligheder at foretage måling.
-
-Stk. 3. De statslige told- og skattemyndigheder kan tillade, at virksomhederne kan basere forholdsmæssige fordelinger og mængden af nyttiggjort varme fra de i § 9, stk. 2, i lov om kuldioxidafgift af visse energiprodukter nævnte processer til andre formål på andet end direkte måling. Det er en betingelse herfor, at virksomheden kan godtgøre, at tekniske forhold forhindrer måling straks fra den 1. januar 1996, eller at andre ganske særlige omstændigheder gør sig gældende, samt at installeringen af de nødvendige målere foretages umiddelbart efter, at de tekniske forhold ikke længere stiller sig hindrende i vejen herfor, og senest den 1. juli 1996.
-
-Stk. 4. De statslige told- og skattemyndigheder kan acceptere, at de i stk. 3 nævnte opgørelser sker for hele 1996, når der er tale om energiforbrug, der er baseret på varm luft. Det er en forudsætning for tilladelsen, at det godtgøres, at det er forbundet med ganske særlige vanskeligheder at foretage måling.
-
-Stk. 5. Opgørelser, der ikke er baseret på direkte måling, jf. stk. 1 - 4, skal foretages, så der uden for almindelig tvivl og usikkerhed ikke ydes tilbagebetaling ud over, hvad en direkte måling ville berettige til.
+Stk. 20. Stk. 8, 18 og 19 finder tilsvarende anvendelse for de efterfølgende afgiftsforhøjelser pr. 1. januar 2000, 1. januar 2001 og 1. januar 2002, jf. stk. 3-6 og 10-16.

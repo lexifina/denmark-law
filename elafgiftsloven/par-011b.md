@@ -1,4 +1,4 @@
-§ 11 b. (* 3) Elektricitet, der leveres til de i toldlovens § 4 nævnte diplomatiske repræsentationer, internationale institutioner m.v. samt de hertil knyttede personer, er fritaget for afgift.
+§ 11 b. Elektricitet, der leveres til de i toldlovens § 4 nævnte diplomatiske repræsentationer, internationale institutioner m.v. samt de hertil knyttede personer, er fritaget for afgift.
 
 Stk. 2. Afgiften godtgøres af kørestrøm, der anvendes af rutebiler og eltog til personbefordring.
 
