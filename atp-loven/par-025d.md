@@ -7,7 +7,3 @@ Stk. 3. Revisorerne har ret til at være til stede på repræsentantskabsmødet.
 Stk. 4. Finanstilsynet kan udfærdige nærmere forskrifter om revisionens gennemførelse.
 
 Stk. 5. Finanstilsynet kan pålægge revisionen at give oplysninger om Arbejdsmarkedets Tillægspensions forhold.
-
-## Kapitel 8
-
-Fondsanbringelse

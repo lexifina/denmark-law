@@ -2,7 +2,7 @@ Lov nr. 358 af 14. juni 1995 indeholder i § 2 følgende ikrafttrædelsesbestemm
 
 § 2
 
-Tidspunktet for lovens ikrafttræden fastsættes af arbejdsministeren . Loven træder dog tidligst i kraft den 1. januar 1996. Arbejdsministeren fastsætter endvidere hvilken periode for indbetalte ATP-bidrag, der første gang skal danne grundlag for det forhøjede kompensationsbeløb. For ATP-bidrag, der vedrører tiden før lovens ikrafttræden, beregnes kompensationsbeløbet efter de hidtil gældende regler.
+Tidspunktet for lovens ikrafttræden fastsættes af arbejdsministeren. Loven træder dog tidligst i kraft den 1. januar 1996. Arbejdsministeren fastsætter endvidere hvilken periode for indbetalte ATP-bidrag, der første gang skal danne grundlag for det forhøjede kompensationsbeløb. For ATP-bidrag, der vedrører tiden før lovens ikrafttræden, beregnes kompensationsbeløbet efter de hidtil gældende regler.
 
 Lov nr. 1057 af 20. december 1995 indeholder i § 10 følgende ikrafttrædelsesbestemmelse:
 
@@ -18,15 +18,15 @@ Lov nr. 1071 af 20. december 1995 indeholder i § 37 følgende bestemmelse:
 
 § 37
 
-Tidspunktet for lovens eller dele af lovens ikrafttræden fastsættes af erhvervsministeren , for så vidt angår § 42 efter drøftelse med skatteministeren.
+Tidspunktet for lovens eller dele af lovens ikrafttræden fastsættes af erhvervsministeren, for så vidt angår § 42 efter drøftelse med skatteministeren.
 
-Stk. 2.---
+Stk. 2. ---
 
-Stk. 3.---
+Stk. 3. ---
 
-Stk. 4.---
+Stk. 4. ---
 
-Stk. 5.---
+Stk. 5. ---
 
 Lov nr. 1197 af 27. december 1996 indeholder i § 2 følgende bestemmelser:
 
@@ -34,11 +34,11 @@ Lov nr. 1197 af 27. december 1996 indeholder i § 2 følgende bestemmelser:
 
 Loven træder i kraft den 1. januar 1997.
 
-Stk. 2. Loven har virkning for kompensationsbeløb, der vedrører beskæftigelse efter den 1. januar 1988. For perioden 1. januar 1988 til 1. januar 1997 udbetales dog kun kompensationsbeløb, der samlet overstiger 100,00 kr. Det samlede kompensationsbeløb udbetales af Arbejdsmarkedets Tillægspension.
+Stk. 2. Loven har virkning for kompensationsbeløb, der vedrører beskæftigelse efter den 1. januar 1988. For perioden 1. januar 1988 - 1. januar 1997 udbetales dog kun kompensationsbeløb, der samlet overstiger 100,00 kr. Det samlede kompensationsbeløb udbetales af Arbejdsmarkedets Tillægspension.
 
-Stk. 3. Kompensationsbeløb, der vedrører perioden 1. januar 1988 til 1. januar 1997, forrentes fra den dato, hvor de skulle have været udbetalt, hvis arbejdsgiveren havde været momsregistreret. Forrentningen sker indtil den dag, beløbet kan hæves, med en årlig rente, der svarer til den til enhver tid fastsatte officielle diskonto med et tillæg på 6 pct.
+Stk. 3. Kompensationsbeløb, der vedrører perioden 1. januar 1988 - 1. januar 1997, forrentes fra den dato, hvor de skulle have været udbetalt, hvis arbejdsgiveren havde været momsregistreret. Forrentningen sker indtil den dag, beløbet kan hæves, med en årlig rente, der svarer til den til enhver tid fastsatte officielle diskonto med et tillæg på 6 pct.
 
-Lov nr. 475 af 10. juni 1997 som ændret ved § 5 i lov nr. 414 af 26. juni 1998 indeholder i § 9 følgende bestemmelser:
+Lov nr. 475 af 10. juni 1997 som ændret ved § 5 i lov nr. 414 af 26. juni 1998 og § 2 i lov nr. 1051 af 23. december 1998 indeholder i § 9 følgende bestemmelser:
 
 § 9
 
@@ -54,7 +54,7 @@ Stk. 5. Personer omfattet af § 92 a i lov om forsikringsvirksomhed, § 5 f i lo
 
 Stk. 6. Personer, der i medfør af § 11 i lov om fondsmæglerselskaber nr. 1071 af 20. december 1995 varetager hverv, som ikke er omfattet af §§ 11 a - 11 d, som affattet ved denne lovs § 5, nr. 4, kan fortsætte hermed indtil udløbet af den valg- eller funktionsperiode, der var påbegyndt inden den 9. april 1997. Hvis en af bestemmelsen omfattet person efter denne dato påbegynder en valg- eller funktionsperiode i et hverv, der ikke er omfattet af §§ 11 a - 11 d i lov om fondsmæglerselskaber, skal den pågældende fratræde senest den 1. februar 1998.
 
-Stk. 7. Uanset reglerne i denne lov kan direktører, vicedirektører, underdirektører og dermed ligestillede samt filialbestyrere i finansielle institutter omfattet af denne lov varetage bestyrelseshverv i Danmarks Skibskreditfond, Dansk Eksportfinansiering, Dansk Landbrugs Realkreditfond, Dansk Udviklingsfinansiering A/S, Finansieringsinstituttet for Hoteller m.v., Finansieringsinstituttet for Industri og Håndværk A/S, Foreningen Norden, Landsbankernes Reallånefond, Totalkredit Realkreditfond, Grønlandsbanken A/S og Bornholms Erhvervsfond.
+Stk. 7. Uanset reglerne i denne lov kan direktører, vicedirektører, underdirektører og dermed ligestillede samt filialbestyrere i finansielle institutter omfattet af denne lov varetage bestyrelseshverv i Danmarks Skibskreditfond, Dansk Eksportfinansiering, Dansk Landbrugs Realkreditfond, Dansk Udviklingsfinansiering A/S, Finansieringsinstituttet for Hoteller m.v., Finansieringsinstituttet for Industri og Håndværk A/S, Foreningen Norden, Landsbankernes Reallånefond, Totalkredit Realkreditfond, Grønlandsbanken A/S, Kongeriget Danmarks Fiskeribank og Bornholms Erhvervsfond.
 
 Stk. 8. Personer omfattet af § 12 c, stk. 3, i lov om værdipapirhandel m.v., som affattet ved denne lovs § 4, nr. 3, der den 1. januar 1998 varetager hverv som interne revisions- eller vicerevisionschefer i selskaber uden for koncernen, kan fortsætte hermed indtil udløbet af den funktionsperiode, der var påbegyndt den 9. april 1997. Hvis de nævnte personer efter denne dato påbegynder en funktionsperiode som intern revisions- eller vicerevisionschef i et selskab, der ikke omfattes af § 12 c, stk. 3, skal den pågældende fratræde senest den 1. februar 1998.
 
@@ -70,7 +70,7 @@ Lov nr. 803 af 24. oktober 1997 som ændret ved § 5 i lov nr. 1081 af 29. decem
 
 § 15
 
-Loven træder i kraft dagen efter bekendtgørelsen i Lovtidende , § 8 dog først den 1. juli 1998.
+Loven træder i kraft dagen efter bekendtgørelsen i Lovtidende, § 8 dog først den 1. juli 1998.
 
 Stk. 2. For personer omfattet af bidragspligten efter lov om arbejdsmarkedsfonde § 7, stk. 1, litra a og b samt litra c, jf. § 8, stk. 1, litra e, og § 11, stk. 1, opkræves der midlertidig pensionsopsparing efter § 17 b, stk. 1, i lov om Arbejdsmarkedets Tillægspension, som affattet ved denne lovs § 1, nr. 1, af løn, vederlag m.v., der udbetales fra og med den 1. januar 1998, samt af løn, vederlag m.v., der udbetales før den 1. januar 1998, i det omfang lønnen m.v. ved indeholdelse af foreløbig skat efter kildeskatteloven henregnes til en periode efter den 31. december 1997.
 
@@ -96,19 +96,19 @@ Lov nr. 424 af 26. juni 1998 indeholder i § 9 følgende bestemmelse:
 
 § 9
 
-Loven træder i kraft dagen efter bekendtgørelsen i Lovtidende .
+Loven træder i kraft dagen efter bekendtgørelsen i Lovtidende.
 
-Stk. 2.---
+Stk. 2. ---
 
-Stk. 3.---
+Stk. 3. ---
 
-Stk. 4.---
+Stk. 4. ---
 
 Lov nr. 468 af 1. juli 1998 indeholder i § 13 følgende bestemmelser:
 
 § 13
 
-Loven træder i kraft dagen efter bekendtgørelsen i Lovtidende . Dog træder §§ 2-7 først i kraft den 1. januar 1999.
+Loven træder i kraft dagen efter bekendtgørelsen i Lovtidende. Dog træder §§ 2-7 først i kraft den 1. januar 1999.
 
 Stk. 2. Loven har virkning for opkrævning af særlig pensionsopsparing fra og med indkomståret 1999, jf. stk. 3 og 4. § 1, nr. 2-4, § 8 og § 11 har virkning for opkrævning af midlertidig pensionsopsparing fra og med indkomståret 1998. § 1, nr. 1, og § 12, nr. 1, har virkning for indbetalinger til Arbejdsmarkedets Tillægspension foretaget efter den 31. juli 1998.
 
@@ -132,7 +132,7 @@ Lov nr. 1033 af 23. december 1998 indeholder i § 5 følgende ikrafttrædelsesbe
 
 Loven træder i kraft dagen efter bekendtgørelsen i Lovtidende og har virkning fra den 1. januar 2000,---
 
-Stk. 2.---
+Stk. 2. ---
 
 Lov nr. 1055 af 23. december 1998 indeholder i § 5 følgende ikrafttrædelsesbestemmelse:
 
@@ -152,19 +152,19 @@ Lov nr. 288 af 12. maj 1999 indeholder i § 17 følgende ikrafttrædelsesbestemm
 
 Loven træder i kraft den 1. juli 1999, jf. dog stk. 2-5.
 
-Stk. 2. § 1, nr. 20, --- træder i kraft dagen efter bekendtgørelsen i Lovtidende .
+Stk. 2. § 1, nr. 20, --- træder i kraft dagen efter bekendtgørelsen i Lovtidende.
 
-Stk. 3.---
+Stk. 3. ---
 
-Stk. 4.---
+Stk. 4. ---
 
-Stk. 5.---
+Stk. 5. ---
 
 Lov nr. 1077 af 29. december 1999 indeholder i § 2 følgende ikrafttrædelsesbestemmelser:
 
 § 2
 
-Tidspunktet for lovens ikrafttræden fastsættes af arbejdsministeren .
+Tidspunktet for lovens ikrafttræden fastsættes af arbejdsministeren.
 
 Stk. 2. Nedsættelsen af kompensationsbeløbet sker første gang for det kompensationsbeløb, der udbetales på grundlag af indbetalte ATP-bidrag i perioden 23. februar - 22. maj 2000.
 
@@ -184,7 +184,7 @@ Lov nr. 1085 af 29. december 1999 indeholder i § 2 følgende ikrafttrædelsesbe
 
 § 2
 
-Tidspunktet for lovens ikrafttræden fastsættes af arbejdsministeren . Loven træder dog tidligst i kraft den 1. januar 2000.
+Tidspunktet for lovens ikrafttræden fastsættes af arbejdsministeren. Loven træder dog tidligst i kraft den 1. januar 2000.
 
 Stk. 2. Nedsættelsen af kompensationsbeløbet sker første gang for det kompensationsbeløb, der udbetales på grundlag af indbetalte ATP-bidrag i perioden 23. februar - 22. maj 2000.
 
@@ -194,9 +194,9 @@ Lov nr. 335 af 17. maj 2000 indeholder i § 3 følgende ikrafttrædelsesbestemme
 
 § 3
 
-Loven træder i kraft dagen efter bekendtgørelsen i Lovtidende .
+Loven træder i kraft dagen efter bekendtgørelsen i Lovtidende.
 
-Stk. 2.---
+Stk. 2. ---
 
 Lov nr. 390 af 30. maj 2000 indeholder i § 5 følgende ikrafttrædelsesbestemmelse:
 
@@ -204,11 +204,11 @@ Lov nr. 390 af 30. maj 2000 indeholder i § 5 følgende ikrafttrædelsesbestemme
 
 Loven træder i kraft den 1. juni 2000.
 
-Stk. 2.---
+Stk. 2. ---
 
-Stk. 3.---
+Stk. 3. ---
 
-Stk. 4.---
+Stk. 4. ---
 
 Lov nr. 397 af 31. maj 2000 indeholder i § 3 følgende ikrafttrædelsesbestemmelse:
 
@@ -220,24 +220,56 @@ Lov nr. 458 af 31. maj 2000 indeholder i § 6 følgende ikrafttrædelsesbestemme
 
 § 6
 
-Loven træder i kraft dagen efter bekendtgørelsen i Lovtidende .
+Loven træder i kraft dagen efter bekendtgørelsen i Lovtidende.
 
 Stk. 2. §§ 1 og 2, § 3, nr. 1 og 2, og § 4 har virkning fra og med indkomståret 2001.---
 
-Stk. 3.---
+Stk. 3. ---
 
-Stk. 4.---
+Stk. 4. ---
 
 Lov nr. 459 af 31. maj 2000 indeholder i § 9 følgende ikrafttrædelsesbestemmelser:
 
 § 9
 
-Loven træder i kraft dagen efter bekendtgørelsen i Lovtidende .
+Loven træder i kraft dagen efter bekendtgørelsen i Lovtidende.
 
 Stk. 2. § 1, § 2, § 3, nr. 1 og 2, § 4, § 5 og § 6, nr. 1-3, har virkning fra og med indkomståret 2001.
 
-Stk. 3.---
+Stk. 3. ---
 
-Stk. 4.---
+Stk. 4. ---
 
-Stk. 5.---
+Stk. 5. ---
+
+Lov nr. 1248 af 20. december 2000 indeholder i § 3 følgende ikrafttrædelsesbestemmelser:
+
+§ 3
+
+Loven træder i kraft den 1. januar 2001.
+
+Stk. 2. § 1, nr. 1, har virkning for kompensationsbeløb, der vedrører beskæftigelse efter den 1. januar 1988. For perioden 1. januar 1988 - 1. januar 2001 udbetales dog kun kompensationsbeløb, der samlet overstiger 100,00 kr. Det samlede kompensationsbeløb udbetales af Arbejdsmarkedets Tillægspension.
+
+Stk. 3. Kompensationsbeløb, der vedrører perioden 1. januar 1988 - 1. januar 2001, forrentes fra den dato, hvor de skulle have været udbetalt, hvis arbejdsgiveren havde været momsregistreret. Forrentningen sker indtil den dag, beløbet hæves, med en årlig rente, der svarer til den til enhver tid fastsatte officielle diskonto med et tillæg på 6 pct.
+
+Stk. 4. Nedsættelsen af kompensationsbeløbet, jf. § 1, nr. 2, sker første gang for det kompensationsbeløb, der udbetales på grundlag af ATP-bidrag modtaget i perioden 23. februar - 22. maj 2001.
+
+Stk. 5. For indbetalte ATP-bidrag, der er modtaget i perioden 23. november 2000 - 22. februar 2001, nedsættes kompensationsbeløbet til 480,00 kr. på årsbasis.
+
+Lov nr. 1253 af 20. december 2000 indeholder i § 11 følgende ikrafttrædelsesbestemmelser:
+
+§ 11
+
+Loven træder i kraft den 1. januar 2001.
+
+Stk. 2. De hidtidige regler i lov om Arbejdsmarkedets Tillægspension og i lov om en arbejdsmarkedsfond om godtgørelse ved deltagelse i arbejdsmarkedsuddannelse finder fortsat anvendelse for godtgørelse omfattet af § 68, stk. 4, i lov nr. 399 af 31. maj 2000 om arbejdsmarkedsuddannelser.
+
+Stk. 3. ---
+
+Stk. 4. ---
+
+Lov nr. 1329 af 20. december 2000 indeholder i § 6 følgende ikrafttrædelsesbestemmelse:
+
+§ 6
+
+Loven træder i kraft den 1. januar 2001.
