@@ -1,4 +1,4 @@
-§ 6 a. (* 5) Skatten efter § 5, nr. 2, beregnes med den i stk. 2 anførte procent af den personlige indkomst med tillæg af positiv kapitalindkomst eller fradrag af negativ kapitalindkomst, i det omfang det samlede beløb overstiger et bundfradrag på 105.100 kr. Bundfradraget reguleres efter § 20.
+§ 6 a. Skatten efter § 5, nr. 2, beregnes med den i stk. 2 anførte procent af den personlige indkomst med tillæg af positiv kapitalindkomst eller fradrag af negativ kapitalindkomst, i det omfang det samlede beløb overstiger et bundfradrag på 105.100 kr. Bundfradraget reguleres efter § 20.
 
 Stk. 2. For indkomståret 1994 udgør procenten 4,5. For hvert af indkomstårene 1995 og 1996 udgør procenten 5. For indkomståret 1997 og følgende indkomstår udgør procenten 6.
 
