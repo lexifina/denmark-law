@@ -1,9 +1,7 @@
-Givet på Christiansborg slot, den 29. marts 1978.
+Trafikministeriet, den 15. juni 1990
 
-Under Vor Kongelige Hånd og Segl.
+Knud Østergaard
 
-MARGRETHE R.
-
-/Kjeld Olesen.
+/ Kurt Lykstoft Larsen
 
 Ingen
