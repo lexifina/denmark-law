@@ -1,9 +1,9 @@
-Bekendtgørelse af lov om afgift af affald og råstoffer (* 5)
+Bekendtgørelse af lov om afgift af affald og råstoffer
 
-Herved bekendtgøres lov om afgift af affald og råstoffer, jf. lovbekendtgørelse nr. 882 af 17. november 1993, med de ændringer, der følger af § 18 i lov nr. 376 af 18. maj 1994.
+Herved bekendtgøres lov om afgift af affald og råstoffer, jf. lovbekendtgørelse nr. 674 af 13. juli 1994, med de ændringer, der følger af § 1 i lov nr. 1223 af 27. december 1996 og lov nr. 1224 af 27. december 1996.
 
 ## Kapitel 1
 
-## Råstoffer
+Råstoffer
 
 Afgiftspligtens omfang
