@@ -1,7 +1,5 @@
 Bekendtgørelse af lov om betalingsregler for spildevandsanlæg m.v.
 
-Hermed bekendtgøres lov nr. 863 af 23. december 1987 om betalingsregler for spildevandsanlæg, som ændret ved lov nr. 388 af 20. maj 1992.
+Herved bekendtgøres lov om betalingsregler for spildevandsanlæg m.v., jf. lovbekendtgørelse nr. 644 af 21. juli 1992, med de ændringer, der følger af lov nr. 325 af 14. maj 1997.
 
-1) Vedrørende § 1, stk. 4, § 2, § 3, stk. 3-6 og § 6, stk.
-
-1. Offentlige spildevandsanlæg
+Offentlige spildevandsanlæg

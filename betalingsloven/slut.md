@@ -1,7 +1,7 @@
-Miljøministeriet, den 21. juli 1992
+Miljø- og Energiministeriet, den 5. december 1997
 
-Per Stig Møller
+Svend Auken
 
-/ Hans Jurgen Stehr
+/ Hans Henrik Christensen
 
 Ingen
