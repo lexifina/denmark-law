@@ -2,7 +2,7 @@ Lov nr. 264 af 8. juni 1978 indeholder følgende ikrafttrædelses- og overgangsb
 
 § 2
 
-§ 5 træder i kraft ved lovens bekendtgørelse i Lovtidende. I øvrigt fastsættes tidspunktet for lovens ikrafttræden af industriministeren, der endvidere kan bestemme, at dele af loven skal træde i kraft på et senere tidspunkt. (* 2)
+§ 5 træder i kraft ved lovens bekendtgørelse i Lovtidende. I øvrigt fastsættes tidspunktet for lovens ikrafttræden af industriministeren, der endvidere kan bestemme, at dele af loven skal træde i kraft på et senere tidspunkt. (* 2) (* 2a)
 
 § 3
 
@@ -14,9 +14,9 @@ Loven finder også anvendelse på patentansøgninger, der ved dens ikrafttræden
 
 3) Bestemmelserne om kulturer af mikroorganismer finder kun anvendelse på ansøgninger, der er indleveret, efter at disse bestemmelser er trådt i kraft.
 
-4) Bestemmelserne om sammendrag og om fremlæggelsesafgift, jfr. § 1, nr. 6, 11 og 12 (* 3), finder kun anvendelse på ansøgninger, der indleveres efter lovens ikrafttræden.
+4) Bestemmelserne om sammendrag og om fremlæggelsesafgift, jf. § 1, nr. 6, 11 og 12 (* 3), finder kun anvendelse på ansøgninger, der indleveres efter lovens ikrafttræden.
 
-5) Bestemmelserne i patentlovens § 8, stk. 2, 2. pkt., jfr. denne lovs § 1, nr. 6, gælder kun for ansøgninger, der indleveres efter lovens ikrafttræden.
+5) Bestemmelserne i patentlovens § 8, stk. 2, 2. pkt., jf. denne lovs § 1, nr. 6, gælder kun for ansøgninger, der indleveres efter lovens ikrafttræden.
 
 § 4
 
@@ -32,7 +32,7 @@ Loven finder tillige anvendelse på patenter, der er meddelt, eller som meddeles
 
 § 5
 
-Patentsamarbejdestraktaten udfærdiget i Washington den 19. juni 1970 og Konvention om Samordning af visse Dele af den materielle Patentret udfærdiget i Strasbourg den 27. november 1963 kan ratificeres på Danmarks vegne.
+Patentsamarbejdstraktaten udfærdiget i Washington den 19. juni 1970 og Konvention om Samordning af visse Dele af den materielle Patentret udfærdiget i Strasbourg den 27. november 1963 kan ratificeres på Danmarks vegne.
 
 Lov nr. 153 af 11. april 1984 om ændring af patentloven indeholder følgende ikrafttrædelses- og overgangsbestemmelser:
 
@@ -48,16 +48,36 @@ Bestemmelserne i loven finder anvendelse på patentansøgninger, der ved bestemm
 
 1) Bestemmelserne om deponering af kulturer af mikroorganismer finder kun anvendelse på ansøgninger, der er indleveret efter, at disse bestemmelser er trådt i kraft.
 
-2) For patentansøgninger, der er indleveret før ikrafttrædelse af § 1, nr. 2, 4, 5, 13-17, 21 og 23 (* 10), jfr. § 2, stk. 2, forfalder årsafgifter for tidligere afgiftsår til betaling samtidig med, at der første gang skal betales årsafgift i overensstemmelse med § 1, nr. 15 (§ 41), og § 1, nr. 16 (§ 42).
+2) (overgangsbestemmelse, udeladt)
 
-3) Begæring i henhold til § 14, stk. 1, kan uanset bestemmelsen i § 1, nr. 4 (§ 14, stk. 2), fremsættes indtil 6 måneder fra ikrafttrædelse af § 1, nr. 2, 4, 5, 13-17, 21 og 23 (* 10), jfr. § 2, stk. 2, i overensstemmelse med de hidtil gældende regler.
+3) (overgangsbestemmelse, udeladt)
 
 § 4
 
 Bestemmelserne i loven finder tillige anvendelse på patenter, der er meddelt ved bestemmelsernes ikrafttræden. Herfra gælder følgende undtagelser:
 
-1) Er et patent meddelt mindre end 2 måneder før ikrafttrædelsen af § 1, nr. 2, 4, 5, 13-17, 21 og 23 (* 10), jfr. § 2, stk. 2, forfalder afgifterne for afgiftsår, der er påbegyndt før meddelelsen, i overensstemmelse med § 42 i lov nr. 479 af 20. december 1967.
+1) (overgangsbestemmelse, udeladt).
 
 2) Bestemmelserne om patenters ugyldighed i lov nr. 479 af 20. december 1967 og lov nr. 264 af 8. juni 1978 finder anvendelse på patenter, der er meddelt i henhold til nævnte love.
 
 3) Bestemmelserne om deponering af kulturer af mikroorganismer finder kun anvendelse på patenter, der meddeles på grundlag af en ansøgning, der indleveres efter, at disse bestemmelser er trådt i kraft (* 11).
+
+Lov nr. 854 af 23. december 1987 om ændring af patentloven, lov om mønstre, varemærkeloven og lov om fællesmærker indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 5
+
+Loven træder i kraft den 1. januar 1988. (* 12)
+
+Lov nr. 368 af 7. juni 1989 om ændring af patentloven (Ratifikation af Den Europæiske Patentkonvention) indeholder følgende ikrafttrædelsesbestemmelser:
+
+§ 2
+
+Loven træder i kraft den 1. januar 1990 (* 13).
+
+§ 3
+
+Beføjelser, som efter grundloven tilkommer rigets myndigheder, kan i det omfang, det er fastsat i Den Europæiske Patentkonvention, udøves af de institutioner, der er nævnt i denne konvention.
+
+§ 4
+
+Loven gælder ikke for Færøerne og Grønland.
