@@ -1,3 +1,3 @@
-Lov om bestyrelse og brug af folkekirkens kirker m.m.
+Bekendtgørelse af lov om bestyrelse og brug af folkekirkens kirker m.m.
 
-VI MARGRETHE DEN ANDEN, af Guds Nåde Danmarks Dronning, gør vitterligt: Folketinget har vedtaget og Vi ved Vort samtykke stadfæstet følgende lov:
+Herved bekendtgøres lov nr. 218 af 23. april 1986 om bestyrelse og brug af folkekirkens kirker m.m., som ændret ved lov nr. 352 af 6. juni 1991 om medlemskab af folkekirken, kirkelig betjening og sognebåndsløsning
