@@ -1,3 +1,3 @@
-Bekendtgørelse af lov om afgift af visse chlorfluorcarboner og haloner (CFC-afgift) (* 3)
+Bekendtgørelse af lov om afgift af visse chlorfluorcarboner og haloner (CFC-afgift)
 
-Herved bekendtgøres lov nr. 832 af 21. december 1988 om afgift af visse chlorfluorcarboner og haloner (CFC-afgift) med de ændringer, der følger af lov nr. 1070 af 23. december 1992.
+Herved bekendtgøres lov om afgift af visse chlorfluorcarboner og haloner (CFC-afgift), jf. lovbekendtgørelse nr. 881 af 17. november 1993, med de ændringer, der følger af § 19 i lov nr. 376 af 18. maj 1994.
