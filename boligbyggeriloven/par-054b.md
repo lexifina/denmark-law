@@ -4,4 +4,4 @@ Stk. 2. Boligministeren fastsætter nærmere regler om de i dette kapitel nævnt
 
 Kapitel 8 a
 
-(Ophævet) (* 6)
+(Ophævet)
