@@ -1,7 +1,7 @@
-Kirkeministeriet, den 27. juni 1989
+Kirkeministeriet, den 11. juni 1992
 
-TORBEN RECHENDORFF
+Torben Rechendorff
 
-/Asger Jørgensen
+/ Finn Langager Larsen
 
-Ingen
+(* 1) § 1, nr. 7, i ændringsloven har følgende ordlyd: I § 13, 2. pkt., ændres »6 pct.« til: »12 pct.«.
