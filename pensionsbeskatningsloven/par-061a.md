@@ -1,5 +1,0 @@
-§ 61 A. Skatteministeren kan bemyndige de statslige eller kommunale skattemyndigheder til at træffe afgørelser efter denne lov. Ministeren kan fastsætte regler om adgang til at klage over afgørelserne, herunder om at afgørelserne ikke kan indbringes for højere administrativ myndighed.
-
-## Afsnit V
-
-Ikrafttrædelses- og overgangsbestemmelser
