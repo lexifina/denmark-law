@@ -1,1 +1,1 @@
-§ 15 I. §§ 15 A-15 H gælder også, hvor en ejendom tjener til bolig for en skattepligtig, der ejer ejendommen i sameje med andre. Påhviler det imidlertid den skattepligtige at betale en leje til medejere, skal den beregnede lejeværdi nedsættes med lejen. Lejeværdien efter §§ 15 B-15 H skal dog mindst udgøre en så stor del af hele den beregnede lejeværdi, som svarer til den skattepligtiges andel af ejendommen.
+§ 15 I. (Ophævet)
