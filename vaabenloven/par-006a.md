@@ -1,1 +1,1 @@
-§ 6 a. Justitsministeren kan fastsætte bestemmelser, hvorefter personer, der indrejser til landet for at deltage i jagt eller skydekonkurrence, eller som udrejser herfra med sådant formål, uden tilladelse kan medføre jagt- og konkurrencevåben samt ammunition hertil.
+§ 6 a. Justitsministeren kan fastsætte bestemmelser, hvorefter personer, der indrejser til landet for at deltage i jagt eller skydekonkurrencer, eller som udrejser herfra med sådant formål, uden tilladelse kan medføre jagt- og konkurrencevåben samt ammunition hertil.
