@@ -1,0 +1,19 @@
+§ 89 A. (* 47) Personer, som ved udgangen af det kalenderår, hvori skatten betales, opfylder aldersbetingelsen for at modtage folkepension eller i henhold til lov om socialpension modtager eller får forskud på pension eller modtager invaliditetsydelse med bistands- eller plejetillæg, og personer, der på dette tidspunkt er samlevende med en ægtefælle, der opfylder en af disse betingelser, kan, hvis der i deres formue ved udgangen af det pågældende indkomstår indgår værdien af en fast ejendom, der helt eller delvis benyttes til bolig for ejeren, jfr. stk. 3, efter begæring få henstand med betaling af den del af formueskatten, der vedrører ejerboligen, efter reglerne i stk. 2-7. Henstand efter 1. pkt. kan tillige ydes til kvinder, hvis personfradrag beregnes med grundbeløb efter personskattelovens § 10, stk. 2, 2. pkt., jfr. § 26, stk. 2. Begæring skal indgives til ligningsmyndighederne senest 4 uger efter, at den skattepligtige har modtaget underretning om slutskatteberegningen.
+
+Stk. 2. (* 48) Henstandsbeløbet beregnes som forskellen mellem formueskatten af den samlede formue og en formueskat beregnet af den samlede formue med fradrag af den del af formuen, der vedrører ejerboligen. Henstandsbeløbet fragår i den slutskat, der indgår i årsopgørelsen efter §§ 60-62, jfr. § 62 A.
+
+Stk. 3. Reglerne i stk. 1 og 2 omfatter ejerboliger i faste ejendomme (herunder ejerlejligheder), som rummer en eller to selvstændige lejligheder, eller som benyttes til landbrug, gartneri, frugtplantage eller planteskole.
+
+Stk. 4. Henstandsbeløbet forrentes med en årlig rente på 6 pct. Renten beregnes fra udløbet af det kalenderår, formueskatten vedrører, og tilskrives henstandsbeløbet ved udgangen af hvert kalenderår.
+
+Stk. 5. Henstandsbeløbet forfalder til betaling ved den skattepligtiges død, jfr. dog stk. 6, samt ved afhændelse af ejendommen. Det samme gælder, hvis ejendommen ikke længere benyttes som bolig for den skattepligtige eller dennes husstand. Såfremt den skattepligtige afhænder sin ejerbolig og erhverver en ny, jfr. stk. 3, kan henstandsordningen vedrørende en tidligere ejerbolig dog forlænges, indtil den nyerhvervede bolig afhændes eller ikke længere benyttes som bolig for den skattepligtige eller dennes husstand.
+
+Stk. 6. Henstandsordningen efter de i stk. 1-5 nævnte regler kan videreføres af en efterlevende ægtefælle efter en skattepligtig som omhandlet i stk. 1, så længe den efterlevende ægtefælle hensidder i uskiftet bo eller har fået henstand med pligten til at svare arveafgift efter arveafgiftslovens § 14 A.
+
+Stk. 7. Henstand med formueskatten efter stk. 1-4 kan endvidere begæres af ejere af en fast ejendom, der er undergivet fredning i henhold til bygningsfredningsloven. Det er dog en betingelse, at den pågældende ejendom helt eller delvis benyttes til bolig for ejeren, jfr. stk. 3. Henstandsbeløbet forfalder til betaling ved den skattepligtiges død, jfr. dog stk. 6, samt ved afhændelse af ejendommen, såfremt den skattepligtige ikke på salgstidspunktet opfylder betingelsen for at opnå henstand efter stk. 1. Henstandsbeløbet forfalder ligeledes til betaling, såfremt ejendommen ikke længere benyttes som bolig for den skattepligtige eller dennes husstand.
+
+Stk. 8. Ministeren for skatter og afgifter fastsætter de nærmere regler om opgørelsen af den del af formuen, der vedrører ejerboligen, om opgørelsen af henstandsbeløbet i øvrigt, samt om henstandsordningens gennemførelse.
+
+## Afsnit X
+
+Forskudt indkomstår

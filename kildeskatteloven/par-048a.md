@@ -1,0 +1,1 @@
+§ 48 A. Ministeren for skatter og afgifter kan, når særlige grunde taler herfor, bestemme, at indeholdelse af foreløbig skat i visse arter af A-indkomst skal ske uden anvendelse af skattekort eller bikort. Ministeren fastsætter nærmere regler om indeholdelsen i disse tilfælde.
