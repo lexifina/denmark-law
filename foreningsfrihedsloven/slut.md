@@ -1,9 +1,7 @@
-GIVET PÅ CHRISTIANSBORG SLOT, DEN 9. JUNI 1982
+Arbejdsministeriet, den 13. juni 1990
 
-Under Vor Kongelige Hånd og Segl
+Knud Erik Kirkegaard
 
-MARGRETHE R.
-
-/SVEND AUKEN
+/ E. Edelberg
 
 Ingen
