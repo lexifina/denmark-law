@@ -1,4 +1,4 @@
-§ 15 C. (* 12)Hvis afdøde efterlader sig en ægtefælle og beskattes efter § 14, stk. 1-8, i dødsfaldsåret, skal boet og den længstlevende ægtefælle i opgørelsen efter § 14, stk. 3, tilkendegive, hvorledes de fordeler formuegoder og gæld imellem afdøde og den længstlevende ægtefælle.
+§ 15 C. Hvis afdøde efterlader sig en ægtefælle og beskattes efter § 14, stk. 1-8, i dødsfaldsåret, skal boet og den længstlevende ægtefælle i opgørelsen efter § 14, stk. 3, tilkendegive, hvorledes de fordeler formuegoder og gæld imellem afdøde og den længstlevende ægtefælle.
 
 Stk. 2. Fordelingen foretages efter princippet i kildeskattelovens § 24 A. Hvis boet og længstlevende ægtefælle tilkendegiver, at de ikke kan afgøre, hvem et formuegode eller en gæld vedrører, skal de ligeledes tilkendegive, om halvdelen skal medregnes hos afdøde og halvdelen hos længstlevende.
 

@@ -4,6 +4,6 @@ Stk. 2. Reglerne i stk. 1, 1.-3. pkt., gælder også, hvis et bo, der i umiddelb
 
 Stk. 3. Stk. 1, 1.-3. pkt., og stk. 2, 1. pkt., gælder også, hvis et bo, der i umiddelbar forbindelse med dødsfaldet har været genstand for skiftebehandling, udlægges til længstlevende efter skiftelovens § 57, stk. 1.
 
-Stk. 4. Udleveres et bo, der har været undergivet offentlig skiftebehandling, til privat skifte efter, at der er forløbet 15 måneder efter dødsfaldet, gælder reglerne i § 20, stk. 2-4, idet udleveringen træder i stedet for udløbet af den deer fastsatte frist på 15 måneder.
+Stk. 4. Udleveres et bo, der har været undergivet offentlig skiftebehandling, til privat skifte efter, at der er forløbet 15 måneder efter dødsfaldet, gælder reglerne i § 20, stk. 2-4, idet udleveringen træder i stedet for udløbet af den der fastsatte frist på 15 måneder.
 
 Stk. 5. Overgår et bo, der har været genstand for privat skifte, til offentlig skiftebehandling efter, at der er forløbet 15 måneder efter dødsfaldet, genindtræder boets skattepligt ikke, og arvinger og ægtefælle er fortsat skattepligtige af deres andele i boet.

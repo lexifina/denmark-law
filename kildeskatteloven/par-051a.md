@@ -1,4 +1,4 @@
-§ 51 A. (* 22)Må det forventes, at den skattepligtige vil erhverve aktieudbytte m.v., hvori der indeholdes udbytteskat efter afsnit VI, tages der ved fastsættelsen af grundlaget for opkrævning af A-skat eller B-skat hensyn hertil, således at den samlede foreløbige skat så vidt muligt kommer til at svare til den forventede slutskat. Selv om den skattepligtige ikke i øvrigt skal svare B-skat, kan et eventuelt yderligere beløb af foreløbig skat opkræves ved skattebillet.
+§ 51 A. Må det forventes, at den skattepligtige vil erhverve aktieudbytte m.v., hvori der indeholdes udbytteskat efter afsnit VI, tages der ved fastsættelsen af grundlaget for opkrævning af A-skat eller B-skat hensyn hertil, således at den samlede foreløbige skat så vidt muligt kommer til at svare til den forventede slutskat. Selv om den skattepligtige ikke i øvrigt skal svare B-skat, kan et eventuelt yderligere beløb af foreløbig skat opkræves ved skattebillet.
 
 Stk. 2. Stk. 1 finder tilsvarende anvendelse, når det må forventes, at den skattepligtige vil erhverve aktieudbytte m.v., hvortil der indrømmes skattegodtgørelse som nævnt i § 67 A, stk. 1.
 
