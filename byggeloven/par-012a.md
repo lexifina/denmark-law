@@ -1,0 +1,3 @@
+§ 12 A. Når jordbundsforholdene eller andre forhold i et område er af en sådan beskaffenhed, at de indebærer en risiko for skade på omliggende bygninger, kan kommunalbestyrelsen beslutte, at der skal kunne stilles særlige krav til bygningernes funderingsmetode i det pågældende område, herunder at bygninger ikke må udføres med kældre, og at der ikke må foretages midlertidige eller permanente sænkninger af grundvandstanden i forbindelse med et byggearbejde.
+
+Stk. 2. Kommunalbestyrelsens beslutning efter stk. 1 er bindende for ejere og indehavere af andre rettigheder over de pågældende ejendomme uden hensyn til, hvornår retten er stiftet. Kommunalbestyrelsen giver ejerne meddelelse om beslutningen og lader den tinglyse på ejendommene.
