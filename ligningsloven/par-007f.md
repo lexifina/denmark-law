@@ -2,7 +2,7 @@
 
 1) boligstøtte ydet efter lov om individuel boligstøtte samt efter § 19 i lov om boliger for ældre og personer med handicap,
 
-2) ydelsesbidrag og ydelsesstøtte efter lov om byfornyelse § 62, stk. 1 og 2, erstatning efter lov om byfornyelse § 62, stk. 3, støtte efter lov om byfornyelse § 134, stk. 1, godtgørelse efter lov om byfornyelse § 145, stk. 3, § 148, § 149, § 150, § 151, stk. 2 og 5, og § 153, stk. 1 og 3, tilskud efter lov om byfornyelse § 154, stk. 1, og § 161, stk. 1, godtgørelse efter lov om byfornyelse § 168, stk. 4 og 5, og tilskud efter lov om byfornyelse § 169, stk. 1, og § 174, stk. 4,
+2) støtte ydet efter § 37, stk. 1, 2 og 4, § 40, stk. 1 og 2, § 44, stk. 2, § 44 a, stk. 2, § 45, stk. 1, § 47, stk. 1, § 62, stk. 2 og 3, og § 74 a i lov om byfornyelse og boligforbedring og § 62, § 134, stk. 1, § 145, stk. 3, §§ 148-150, § 151, stk. 2 og 5, § 153, stk. 1 og 3, § 154, stk. 1, § 161, stk. 1, § 168, stk. 4 og 5, § 169, stk. 1, og § 174, stk. 4, i lov om byfornyelse,
 
 3) tilskud efter lov om statstilskud til omstilling af ældre boliger til kraftvarme,
 
