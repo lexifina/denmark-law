@@ -1,3 +1,7 @@
+## Kapitel 2 a
+
+## Ydelser vedrørende særlige grupper af børn
+
 § 10 a. Ved flerbørnsfødsler udbetales der for hvert barn et beløb på 5.436 kr. årligt, indtil børnene fylder 7 år (flerbørnstilskud).
 
 Stk. 2. Flerbørnstilskud udbetales kvartalsvis forud, og reglerne i § 5, stk. 1, og § 6, stk. 2, samt §§ 8-10 finder tilsvarende anvendelse ved udbetaling af flerbørnstilskud.

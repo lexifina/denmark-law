@@ -1,3 +1,3 @@
 § 22 a. Kommunalbestyrelsen udsender en gang årligt en anmodning om skriftlig bekræftelse fra modtageren af ordinært og ekstra børnetilskud, jf. § 2, nr. 1-3, og § 3, af modtagerens fortsatte status som enlig forsørger. Har kommunen ikke modtaget bekræftelsen senest en måned fra anmodningen, ophører udbetalingen af børnetilskud, jf. § 2, nr. 1-3, og § 3, fra det følgende kvartal. Udbetalingen genoptages med virkning fra kvartalet efter, at bekræftelsen er modtaget.
 
-Stk. 2 . Socialministeren kan fastsætte nærmere regler om administration i forbindelse med kommunens vurdering af modtagerens status som enlig forsørger.
+Stk. 2. Socialministeren kan fastsætte nærmere regler om administration i forbindelse med kommunens vurdering af modtagerens status som enlig forsørger.

@@ -1,5 +1,5 @@
-Socialministeriet, den 17. november 2000
+Socialministeriet, den 11. september 2002
 
-Henrik Dam Kristensen
+P.M.V. Thomas Børner
 
 /Aksel Meyer
