@@ -1,4 +1,4 @@
-§ 2a. Skatteministeren kan bestemme, at følgende virksomheder omfattet af registreringspligten kan fritages for at betale afgift:
+§ 2 a. Skatteministeren kan bestemme, at følgende virksomheder omfattet af registreringspligten kan fritages for at betale afgift:
 
 1) Religiøse samfund.
 
