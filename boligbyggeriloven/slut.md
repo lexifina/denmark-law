@@ -1,11 +1,11 @@
-Boligministeriet, den 26. maj 1988
+Boligministeriet, den 2. februar 1989
 
-FLEMMING KOFOD-SVENDSEN
+AGNETE LAUSTSEN
 
-/Hanne Victor Hansen
-
-(* 1) Vedrører §§ 81, 81 a, 82, 83 og 83 a.
-
-(* 2) Vedrører § 85, 1. pkt.
+/Bjarke Rasmussen
 
 De hidtidige bestemmelser i §§ 81-83 a samt i § 85, 1. pkt. fremgår af Boligministeriets lovbekendtgørelse nr. 51 af 22. januar 1987.
+
+Bilag
+
+Uddrag af bekendtgørelse nr. 432 af 13. juli 1982 af lov om boligbyggeri (* 1)

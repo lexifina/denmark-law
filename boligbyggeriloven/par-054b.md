@@ -4,7 +4,13 @@ Stk. 2. Realkreditinstitutter kan til de foranstaltninger, der er nævnt i §§ 
 
 Stk. 3. Bestemmelserne i kapitel 6 samt i §§ 51, stk. 2, og 61-62 finder tilsvarende anvendelse ved lån og statsgaranti, som ydes efter dette kapitel.
 
-Stk. 4. Boligministeren kan give tilsagn om rentebidrag og afdragsbidrag til indekslån til udbedring af byggeskader som nævnt i § 54, stk. 1, og til indekslån, der optages i forbindelse med udførelse af foranstaltninger som nævnt i § 54 a, stk. 1. Den nævnte støtte gives efter tilsvarende regler som i kap. 7, dog kan afdragsbidrag til lån til udbedring af byggeskader kun udgøre et beløb, der svarer til afdraget på den del af lånet, der ved lånets optagelse overstiger 77 pct. af de godkendte udbedringsudgifter.
+Stk. 4. Boligministeren kan give tilsagn om rentebidrag og afdragsbidrag til indekslån til udbedring af byggeskader som nævnt i § 54, stk. 1, og til indekslån, der optages i forbindelse med udførelse af foranstaltninger som nævnt i § 54 a, stk. 1.
+
+Stk. 5. Statsstøtte i henhold til stk. 4 gives efter tilsvarende retningslinier som i kapitel 7. Om rente- og afdragsbidrag til lån til udbedring af byggeskader gælder dog følgende:
+
+1) Tilsagn om rentebidrag omfatter 90 pct. af bidraget og er betinget af, at kommunen betaler de resterende 10 pct.
+
+2) Tilsagn om afdragsbidrag omfatter et beløb, der svarer til afdraget på den del af lånet, der ved lånets optagelse overstiger 77 pct. af de godkendte udbedringsudgifter.
 
 Kapitel 8 a
 

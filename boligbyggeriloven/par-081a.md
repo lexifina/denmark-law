@@ -1,1 +1,1 @@
-§ 81 a. (Ophævet).
+§ 81 a. (Ophævet)

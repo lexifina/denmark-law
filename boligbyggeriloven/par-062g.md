@@ -1,6 +1,6 @@
 § 62 g. Fondens midler tilvejebringes gennem bidrag, som indbetales af det enkelte byggeri, der omfattes af fonden.
 
-Stk. 2. Bidraget for det enkelte byggeri udgør 1 pct. af den inden byggeriets påbegyndelse senest godkendte anskaffelsessum. Bidraget indbetales kontant senest på byggeriets afleveringstidspunkt, ved private andelsboliger dog senest på skæringsdagen for byggeriets overgang fra anlæg til drift. Bygningsejeren er dog ikke forpligtet til at betale yderligere bidrag til fonden for udbedringsarbejder, der udføres med støtte efter reglerne i dette kapitel, jf. § 62 b, stk. 2, nr. 3.
+Stk. 2. Bidraget for det enkelte byggeri udgør 1 pct. af den inden byggeriets påbegyndelse senest godkendte anskaffelsessum. Bidraget indbetales kontant senest på byggeriets afleveringstidspunkt, ved private andelsboliger opført væsentlig i bygherrens eget regi dog senest på skæringsdagen for byggeriets overgang fra anlæg til drift. Bygningsejeren er dog ikke forpligtet til at betale yderligere bidrag til fonden for udbedringsarbejder, der udføres med støtte efter reglerne i dette kapitel, jf. § 62 b, stk. 2, nr. 3.
 
 Stk. 3. Er det nødvendigt til dækning af fondens udgifter, kan fonden efter boligministerens nærmere bestemmelse opkræve et løbende bidrag fra samtlige byggerier, der omfattes af fonden.
 

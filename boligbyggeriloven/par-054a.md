@@ -2,4 +2,4 @@
 
 Stk. 2. Lån efter stk. 1 kan ydes til byggeri, der har fået tilsagn om offentlig støtte i perioden 1. januar 1965-31. marts 1975, eller som har modtaget støtte fra Boligselskabernes Landsbyggefond eller er tilladt omprioriteret til indekslån. Tilsagn om lån kan i hvert finansår gives inden for en investeringsramme på indtil 200 mill. kr.
 
-Stk. 3. Statsgaranti for indekslån, jfr. § 54 b, stk. 2, kan ydes efter reglerne i § 51, stk. 1.
+Stk. 3. Statsgaranti for indekslån, jf. § 54 b, stk. 2, kan ydes efter reglerne i § 51, stk. 1.

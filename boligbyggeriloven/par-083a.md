@@ -1,1 +1,1 @@
-§ 83 a. (Ophævet).
+§ 83 a. (Ophævet)
