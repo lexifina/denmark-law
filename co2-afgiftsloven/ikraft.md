@@ -1,3 +1,5 @@
+Lov nr. 417 af 14. juni 1995, som ændret ved § 2 i lov nr. 1220 af 27. december 1996, indeholder følgende ikrafttrædelses- og overgangsbestemmelser:
+
 § 3
 
 Stk. 1. Skatteministeren fastsætter tidspunktet for lovens ikrafttræden. Loven træder dog tidligst i kraft den 1. januar 1996.
@@ -16,7 +18,7 @@ Stk. 4. Tilbagebetalingen efter § 9, stk. 1, som affattet ved denne lovs § 1, 
 
 20 pct. i perioden 1. januar 1999 - 31. december 1999
 
-Stk. 5. (* 2) Tilbagebetalingen efter § 9, stk. 2, som affattet ved denne lovs § 1, nr. 1, ydes dog med følgende procentdel i perioden fra lovens ikrafttræden til 31. december 1999:
+Stk. 5. Tilbagebetalingen efter § 9, stk. 2, som affattet ved denne lovs § 1, nr. 1, ydes dog med følgende procentdel i perioden fra lovens ikrafttræden til 31. december 1999:
 
 95 pct. i perioden fra lovens ikrafttræden til 31. december 1996
 
@@ -25,6 +27,8 @@ Stk. 5. (* 2) Tilbagebetalingen efter § 9, stk. 2, som affattet ved denne lovs 
 85 pct. i perioden 1. januar 1998 - 31. december 1998
 
 80 pct. i perioden 1. januar 1999 - 31. december 1999
+
+Overgangsordningen finder ikke anvendelse på elektricitet, der anvendes til vækstlys i gartnerier.
 
 Stk. 6. Tilbagebetalingen efter stk. 5 ydes efter et fradrag pr. kg fuelolie og pr. l gas- og dieselolie, der er anvendt til varmefremstilling, bortset fra olie vedrørende aktiviteter omfattet af § 66, stk. 1, i merværdiafgiftsloven eller olie brugt i olieraffinaderier. Fradraget udgør i perioden fra lovens ikrafttræden til 31. december 1999, jf. dog stk. 7:
 
@@ -42,50 +46,106 @@ Gas- og dieselolie
 
 3,7 øre pr. l i perioden fra lovens ikrafttræden til 31. december 1996
 
-2,3 øre pr. l i perioden 1. januar 1997 - 31. december 1997 1 øre pr. l i perioden 1. januar 1998 - 31. december 1998 0 øre pr. l i perioden 1. januar 1999 - 31. december 1999
+2,3 øre pr. l i perioden 1. januar 1997 - 31. december 1997
+
+1 øre pr. l i perioden 1. januar 1998 - 31. december 1998
+
+0 øre pr. l i perioden 1. januar 1999 - 31. december 1999
 
 Stk. 7. Fradraget efter stk. 6 nedsættes med ikke tilbagebetalt afgift af fuelolie efter lov om afgift af svovl. Uanset svovlafgiftens størrelse udgør fradraget dog mindst 0 øre.
 
-Stk. 8. For løbende leverancer, for hvilke afregningsperioden påbegyndes inden henholdsvis 1. januar 1996 og 1. januar 1997 og afsluttes efter de nævnte tidspunkter, beregnes afgiften af så stor en del af leverancen, som tidsrummet fra henholdsvis 1. januar 1996 og 1. januar 1997 til afregningsperiodens slutning udgør i forhold til den samlede afregningsperiode. Stk. 2, 3. pkt., finder tilsvarendse anvendelse. Lov nr. 420 af 14. juni 1995 indeholder følgende ikrafttrædelses- og overgangsbestemmelser:
+Stk. 8. For løbende leverancer, for hvilke afregningsperioden påbegyndes inden henholdsvis 1. januar 1996 og 1. januar 1997 og afsluttes efter de nævnte tidspunkter, beregnes afgiften af så stor en del af leverancen, som tidsrummet fra henholdsvis 1. januar 1996 og 1. januar 1997 til afregningsperiodens slutning udgør i forhold til den samlede afregningsperiode. Stk. 2, 3. pkt., finder tilsvarendse anvendelse.
 
-§ 3
+1) Lov nr. 1220 af 27. december 1996 (Lempelse af raffinaderiers betaling af afgift, lempelse for vækstlys m.v.) trådte i kraft den 1. januar 1997. Reglerne vedrørende lempelse af CO2-afgiften for gartnerier, optagelse af brænding af flint på proceslisten samt tilbagebetalingsprocenterne i § 3, stk. 5 i overgangsbestemmelserne, jf. lovbekendtgørelsens § 9, stk. 10-16, bilagets nr. 1 og 3, trådte i kraft den 1. oktober 1997. Bestemmelserne om lempelse for gartnerier har dog virkning fra den 1. oktober 1996, jf. bekendtgørelse nr. 755 af 24. september 1997.
 
-Stk. 1. Tidspunktet for lovens ikrafttræden fastsættes af skatteministeren. Skatteministeren kan bestemme, at § 1, nr. 4, skal træde i kraft forud for lovens øvrige bestemmelser.
+2) Lov nr. 444 af 10. juni 1997 (justering af rumvarmeafgiften m.v.) trådte i kraft den 12. juni 1997.
 
-Stk. 2. Loven finder anvendelse på afgiftspligtige varer, der efter lovens ikrafttræden udleveres fra eller forbruges i registrerede virksomheder, angives til fortoldning eller modtages fra udlandet.
+3) Lov nr. 1098 af 27. december 1997 trådte i kraft den 1. april 1998.
 
-Stk. 3. For løbende leverancer, for hvilke afregningsperioden påbegyndes inden lovens ikrafttræden og afsluttes efter dette tidspunkt, beregnes afgiften af så stor en del af leverancen, som tidsrummet fra lovens ikrafttræden til afregningsperiodens slutning udgør i forhold til den samlede afregningsperiode. Med de statslige told- og skattemyndigheders tilladelse kan der foretages afrunding ved opgørelse af den brøkdel af leverancerne, hvoraf der skal betales afgift.
+4) Lov nr. 435 af 26. juni 1998 træder i kraft den 1. januar 1999.
 
-Stk. 4. For perioden fra lovens ikrafttræden til 31. december 1996 skal virksomheder, der registreres efter § 3, nr. 4, i lov om kuldioxidafgift af visse energiprodukter som affattet ved nærværende lovs § 1, nr. 4, bortset fra kraftværker og kraftvarmeværker omfattet af bilaget til lov om afgift af naturgas og bygas, kun indbetale 60 pct. af den skyldige kuldioxidafgift af naturgas og bygas som opgjort efter reglerne i § 5, stk. 1, nr. 4, og § 6, stk. 1, i lov om kuldioxidafgift af visse energiprodukter som affattet ved nærværende lovs § 1, nr. 5 og 6.
+5) Lov nr. 437 af 26. juni 1998 om ændring af forskellige energiafgiftslove (Afgiftsforhøjelser og afgift af varme produceret ved affaldsforbrænding m.v.) trådte i kraft den 1. juli 1998.
 
-Stk. 5. For perioden 1. januar 1997 - 31. december 1997 skal de i stk. 4 nævnte virksomheder kun indbetale 80 pct. af den skyldige kuldioxidafgift af naturgas og bygas som opgjort efter de i stk. 4 nævnte regler.
+Bilag
 
-Lov nr. 1101 af 20. december 1995 indeholder følgende ikrafttrædelses- og overgangsbestemmelser:
+Liste over anvendelse af afgiftspligtige varer, der er omfattet af særlig tilbagebetaling
 
-§ 9
+1) 1) Der anvendes til opvarmning af væksthuse med et overdækket areal på mindst 200 m 2 i gartnerier og vækstlys i disse, dog bortset fra væksthuse, hvorfra der foregår detailsalg.
 
-Stk. 1. Skatteministeren fastsætter tidspunktet for lovens ikrafttræden, jf. dog stk. 2 og 3. Ministeren kan herunder fastsætte, at de enkelte bestemmelser i loven træder i kraft på forskellige tidspunkter. Loven har virkning fra den 1. januar 1996, jf. dog stk. 4 og 5.
+2) Der anvendes direkte ved inddampning og tørring af vandopløst natriumklorid.
 
-Stk. 2 og 3. (Udeladt).
+3) Der anvendes direkte ved pasteurisering, sterilisering, inddampning, homogenisering, koncentrering og tørring af mælk og mælkebaserede produkter med henblik på fremstilling af mælkebaserede produkter med et tørstofindhold på mindst 90 pct. Elektricitet anvendt direkte til opvarmning og tørring samt til drift af særlige anlæg, hvorved der som led i forarbejdningsprocessen sker en koncentration i form af f.eks. ultrafiltrering, er dog også omfattet. Koncentrering med henblik på fremstilling af de nævnte mælkebaserede produkter er omfattet, uanset om den foregår i virksomheden, som fremstiller disse produkter, eller i andre virksomheder.
 
-Stk. 4. § 1, nr. 1, § 1, nr. 5, i lov om afgift af stenkul, brunkul og koks m.v., som affattet ved denne lovs § 2, nr. 1, § 2, nr. 2, og § 5, nr. 2-5, har virkning fra den 1. januar 1995 for varer, hvoraf der er betalt afgift. Der sker ikke forrentning af godtgjort afgift for perioden fra den 1. januar 1995 til lovens ikrafttræden.
+4) Der anvendes direkte ved fremstilling af foderstoffer, fodertilsætning, herunder foderfosfat, og foderblandinger samt tørring og inddampning af vinasse, mask, roepiller og lignende varer bestemt til dyrefoder. Dette gælder dog ikke forbrug til tørring af korn og frø.
 
-Stk. 5. (Udeladt).
+5) Der anvendes direkte ved fremstilling af mel, pulver og pellets af kød eller slagteaffald, uegnet til menneskeføde, henhørende under position 2301.10 i EU's kombinerede nomenklatur bortset fra fedtegrever egnet til menneskeføde.
 
-Lov nr. 1102 af 20. december 1995 indeholder følgende ikrafttrædelses- og overgangsbestemmelser:
+6) Der anvendes direkte ved fremstilling af grøntmel, grøntpiller og andet kunsttørret grønt.
 
-§ 10
+7) Der anvendes direkte til fremstilling af pectinstoffer, pectinater og pectater samt planteslimer og gelateringsmidler, også modificerede, udvundet af vegetabilske stoffer henhørende under position 1302.20 til og med position 1302.39 i EU's kombinerede nomenklatur og modificeret stivelse henhørende under position 3505 i EU's kombinerede nomenklatur samt direkte ved fremstilling af emulgatorer bestemt til fødevarefremstilling eller til teknisk brug på basis af vegetabilske eller animalske fedt- og oliestoffer.
 
-Loven træder i kraft den 1. januar 1996.
+8) Der anvendes direkte ved destillering af alkohol og i kombination hermed fremstilling af gær, herunder efterfølgende tørring af gær.
 
-§ 11
+9) Der anvendes direkte ved tørring eller inddampning af papir- og papmasse eller andre stoffer eller produkter opløst i eller iblandet vand med et tørstofindhold på højst 40 pct. før tørring og et tørstofindhold på mindst 90 pct. efter tørring.
 
-Stk. 1. De statslige told- og skattemyndigheder kan tillade, at virksomhederne kan basere forholdsmæssige fordelinger og mængden af nyttiggjort procesvarme til intern rumopvarmning m.v. efter lov om energiafgift af mineralolieprodukter m.v., lov om afgift af stenkul, brunkul og koks m.v., lov om afgift af elektricitet og lov om afgift af naturgas og bygas på andet end direkte måling. Det er en betingelse herfor, at virksomheden kan godtgøre, at tekniske forhold forhindrer måling straks fra den 1. januar 1996, eller at andre ganske særlige omstændigheder gør sig gældende, samt at installeringen af de nødvendige målere foretages umiddelbart efter, at de tekniske forhold eller andre ganske særlige omstændigheder ikke længere stiller sig hindrende i vejen herfor, og senest den 1. juli 1996.
+10) Der anvendes direkte ved fremstilling af glas.
 
-Stk. 2. De statslige told- og skattemyndigheder kan tillade, at virksomhederne kan foretage de i stk. 1 nævnte opgørelser for hele 1996, når der er tale om energiforbrug, der er baseret på varm luft. Det er en forudsætning, at det kan godtgøres, at det er forbundet med ganske særlige vanskeligheder at foretage måling.
+11) Der anvendes direkte ved fremstilling af
 
-Stk. 3. De statslige told- og skattemyndigheder kan tillade, at virksomhederne kan basere forholdsmæssige fordelinger og mængden af nyttiggjort varme fra de i § 9, stk. 2, i lov om kuldioxidafgift af visse energiprodukter nævnte processer til andre formål på andet end direkte måling. Det er en betingelse herfor, at virksomheden kan godtgøre, at tekniske forhold forhindrer måling straks fra den 1. januar 1996, eller at andre ganske særlige omstændigheder gør sig gældende, samt at installeringen af de nødvendige målere foretages umiddelbart efter, at de tekniske forhold ikke længere stiller sig hindrende i vejen herfor, og senest den 1. juli 1996.
+a) slaggeuld, stenuld og lignende mineralsk uld, ekspanderet vermiculit, ekspanderet ler, skumslagger og lignende ekspanderede mineralske stoffer, blandinger og varer af varmeisolerende, lydisolerende eller lydabsorberende mineralske stoffer henhørende under position 6806 i EU's kombinerede nomenklatur,
 
-Stk. 4. De statslige told- og skattemyndigheder kan acceptere, at de i stk. 3 nævnte opgørelser sker for hele 1996, når der er tale om energiforbrug, der er baseret på varm luft. Det er en forudsætning for tilladelsen, at det godtgøres, at det er forbundet med ganske særlige vanskeligheder at foretage måling.
+b) glasfibre, herunder glasuld, henhørende under position 7019 i EU's kombinerede nomenklatur,
 
-Stk. 5. Opgørelser, der ikke er baseret på direkte måling, jf. stk. 1-4, skal foretages, så der uden for almindelige tvivl og usikkerhed ikke ydes tilbagebetaling ud over, hvad en direkte måling ville berettige til.
+c) spånplader, træfiberplader og krydsfiner m.v. henhørende under position 4410, 4411 og 4412 i EU's kombinerede nomenklatur og preskorkplader eller
+
+d) plader eller blokke af ekspanderet polystyren.
+
+Elektricitet anvendt ved fremstilling af de under litra a, b, c og d nævnte varer er dog også omfattet, i det omfang elektriciteten udelukkende anvendes til opvarmning og varmholdelse af disse produkter samt mellemprodukter hertil i fremstillingsprocessen eller anvendes til ventilation af lokaler, hvori disse processer foregår.
+
+12) Der anvendes direkte til keramisk brænding samt forudgående tørring af varer bestemt hertil.
+
+13) 1) Der anvendes direkte til opvarmning, inddampning, tørring eller brænding af kalk, kridt, kridtsten, marmor og andre calciumcarbonatprodukter, flint, gips, moler, bentonit og andre lerarter, ferrosulfat, kobbersulfat og calciumoxid samt gødningsstoffer med et tørstofindhold på mindst 90 pct., heraf mindst 5 pct. fosfat efter tørring. Elektricitet anvendt direkte til fremstilling af calciumcarbonatprodukter dog alene i form af opvarmning og tørring samt til drift af særlige anlæg, hvorved der som led i forarbejdningsprocessen sker en koncentration af calciumcarbonatprodukterne samt afgiftspligtige varer bortset fra elektricitet til opvarmning af gipspladehærdelokaler, er dog også omfattet.
+
+14) Der anvendes direkte ved fremstilling af vegetabilske olier, sukkerstoffer og proteiner på baggrund af olieholdige frø, nødder og frugter. Videreforarbejdning af vegetabilsk olie til teknisk eller kemisk brug er også omfattet. Forbrug af elektricitet ved ekstraktion eller presning af olie fra frugter og nødder m.v. samt ved ekstraktion af proteinstoffer fra den oliefrie kage er omfattet.
+
+15) Der anvendes direkte til fremstilling af K- sorbat.
+
+16) Der anvendes direkte ved fremstilling af fiskeolie samt fiskemel henhørende under position 2301.20 i EU's kombinerede nomenklatur på baggrund af fisk og krebsdyr, bløddyr eller andre hvirvelløse vanddyr samt affald heraf. Dette gælder dog ikke forbrug af elektricitet til fremstilling af fiskemel, efter at fiskeolien og limvand er blevet udskilt fra pressekagen, og efter at fiskeolien er blevet separeret fra solubles i produktionsprocessen. Det gælder heller ikke forbrug af elektricitet til videreforædling af fiskeolien efter at denne er blevet separeret fra solubles.
+
+17) Der anvendes direkte ved fremstilling af rør- og roesukker henhørende under position 17.01 i EU's kombinerede nomenklartur på baggrund af sukkerroer og sukkerrør.
+
+18) Der anvendes direkte ved fremstilling af stivelse henhørende under position 11.08 i EU's kombinerede nomenklatur, hvis tørstofindholdet er på mindst 80 pct.
+
+19) Der anvendes direkte til tørring og brænding af malt.
+
+20) Der anvendes direkte til frysning af vand til is henhørende under position 22.01 i EU's kombinerede nomenklatur. Det er en forudsætning, at mindst 75 pct. af den fremstillede is afsættes til uafhængige aftagere. Uafhængige aftagere er andre virksomheder end dem, som er forbundet med den pågældende virksomhed, ved at samme ejere direkte eller indirekte ejer 90 pct. eller mere af kapitalen i hver virksomhed eller direkte eller indirekte råder over 90 pct. eller mere af en eventuel stemmeværdi i hver virksomhed. Ejere som nævnt i personskattelovens § 19 a, stk. 3, anses for én og samme person.
+
+21) Der anvendes direkte til fremstilling af papir og pap på basis af retur- og affaldspapir og pap eller pulp heraf eller cellulose samt anvendes til formaling af calciumcarbonatprodukter til pulver med en diameter på højst 3 my, i det omfang pulveret er bestemt til at anvendes til fremstilling af papir. Dette gælder dog ikke afgiftspligtige varer, der anvendes til efterbehandling af papir eller pap, herunder efterfølgende fremstilling af papir og pap eller andre papir- og papprodukter på basis af færdigfremstillet papir, bortset fra coatning eller glitning. Elektricitet anvendt til fremstilling af papir og pap i andre former end ruller eller ark er dog ikke omfattet, når papiret eller pappet har andre former end æggebakker. Afgiftspligtige varer anvendt direkte til fremstilling af æggebakker af andre materialer er også omfattet.
+
+22) Der anvendes direkte til fremstilling af cellulose eller pulp af retur- og affaldspapir og pap.
+
+23) Der anvendes direkte ved fremstilling af hydrogen, argon, inaktive gasser, nitrogen, di-nitrogenmonoxyd, ozon og oxygen, herunder påfyldning af disse gasser i trykbeholdere, i det omfang gasserne anvendes i virksomhedens produktion i stedet for indkøbte gasser eller gasserne afsættes.
+
+24) Der anvendes direkte ved fremstilling af mineralske eller kemiske gødningsstoffer henhørende under kapitel 31 i EU's nomenklatur samt anvendes direkte ved fremstilling af kaliumnitrat og magnesiumsulfat henhørende under henholdsvis position 28.34.21 og position 28.33.21 i EU's kombinerede nomenklatur samt direkte ved fremstilling af salpetersyre, svovlsyre og fosforsyre, uanset om disse finder anvendelse ved gødningsfremstilling.
+
+25) Der anvendes direkte ved fremstilling af vitaminer henhørende under position 29.36 i EU's kombinerede nomenklatur.
+
+26) Der anvendes direkte ved fremstilling af enzymer henhørende under position 35.07 i EU's kombinerede nomenklatur.
+
+27) Der anvendes direkte ved fremstilling af hormoner og andre steroider, der hovedsageligt anvendes som hormoner, henhørende under position 29.37 i EU's kombinerede nomenklatur.
+
+28) Der anvendes direkte ved raffinering og destillering af mineralolieprodukter samt stenkulstjære og andre mineraltjærer samt produkter udvundet heraf.
+
+29) Der anvendes direkte til fremstilling af cement.
+
+30) Der anvendes direkte til smeltning af metaller og glas og varmholdelse af smeltede metaller og glas samt direkte til fremstilling af valsede eller kontinuert støbte slabs og knipler samt til videreforarbejdning af slabs og knipler ved varmvalsning til plader, tråd, stænger og lignende varer af jern og stål, ikke ydeligere forarbejdet ved f.eks. sandblæsning m.v., til metalvarmebehandlingsanlæg og til ventilation af lokaler, hvor smeltet metal og glas forarbejdes. Alene opvarmning af glas til over 300 grader samt varmholdelse af glas, der har været opvarmet herover i fremstillingsprocessen, betragtes som smeltning af glas samt varmholdelse af smeltet glas.
+
+31) Der anvendes direkte ved fremstilling af kemiske stoffer og produkter, når mindst 75 pct. finder anvendelse ved fremstilling af varer henhørende under position 38.08 i EU's kombinerede nomenklatur.
+
+32) Der anvendes direkte ved fremstilling af regenereret plastic i form af pellets, pulver eller granulat på baggrund af plasticaffald m.v. eller direkte ved fremstilling af gummipulver på baggrund af brugte dæk (gummiaffald).
+
+33) Elektricitet anvendt ved fremstilling af de under punkt 1-16 nævnte varer, i det omfang elektriciteten anvendes i inddampningsanlæg, hvor mindst 40 pct. af væsken fordampes ved en temperatur på under 90 pct. af væskens kogepunkt under normalt tryk, dog højst 4 kWh pr. t bortdampet væske.
+
+34) Der anvendes direkte til blanding af forskellige gummiarter med henblik på fremstilling af ubearbejdede plader, bånd eller batch af ikke vulkaniserede gummiblandinger, samt fremstilling af kalandrede transportgummibånd på basis heraf ikke yderligere forarbejdet end vulkaniseret.
+
+35) Der anvendes direkte til fremstilling af syntetiske organiske pigmenter og fremstilling af præparater i forbindelse hermed.
