@@ -5,3 +5,9 @@ Stk. 2. Justitsministeren kan endvidere fastsætte bestemmelser om fremgangsmåd
 Tredje bog. Den borgerlige retspleje
 
 Første afsnit. Almindelige bestemmelser
+
+## Kapitel 21
+
+Saglig kompetence
+
+§ 224. Borgerlige retssager behandles i 1. instans ved byret, medmindre andet er bestemt i denne eller anden lov.
