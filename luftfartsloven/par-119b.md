@@ -1,1 +1,1 @@
-§ 119 b. Ved anvendelse af reglerne i dette kapitel anses såvel den, der har indgået befordringsaftalen, som den, der udfører befordringen, som befordrere, den førstnævnte, for så vidt angår hele befordringen, og den sidstnævnte, for så vidt angår den del af befordringen, han udfører.
+§ 119 b. Ved anvendelse af reglerne i dette kapitel anses såvel den, der har indgået befordringsaftalen, som den, der udfører befordringen, som befordrere, den førstnævnte for så vidt angår hele befordringen og den sidstnævnte for så vidt angår den del af befordringen, denne befordrer udfører.

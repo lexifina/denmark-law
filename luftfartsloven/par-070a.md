@@ -1,9 +1,7 @@
-§ 70 a. Til forebyggelse af forbrydelser mod luftfartens sikkerhed kan politiet foretage eftersyn af personer og gods på flyvepladser. Eftersynet skal ske med størst mulig hensynsfuldhed og må ikke være videregående, end de kontrolmæssige formål nødvendiggør.
+§ 70 a. Trafikministeren fastsætter efter forhandling med justitsministeren bestemmelser for flyvepladsers og luftfartsselskabers udarbejdelse af sikkerhedsplaner og gennemførelse af foranstaltninger til forebyggelse af forbrydelser mod luftfartens sikkerhed. Det kan i den forbindelse pålægges flyvepladser og luftfartsselskaber at foretage eftersyn som nævnt i § 70 b, stk. 1-3.
 
-Stk. 2. Ved eftersyn af person, der ikke begrænses til den ydre beklædning, kan den pågældende kræve, at eftersynet overværes af et vidne. Eftersynet må ikke udføres eller overværes af personer af andet køn end den, der skal efterses, medmindre denne samtykker heri.
+Stk. 2. Ministeren kan fastsætte bestemmelsr for modtagelse, kontrol, opbevaring, transport og lastning af gods og forsyninger, som af fragtagenter, kurerselskaber, cateringsleverandører eller andre indleveres til luftfartsselskaber med henblik på hel eller delvis transport med luftfartøj.
 
-Stk. 3. Den, der nægter at underkaste sig eller medvirke til kontrollen, kan forbydes adgang til et luftfartøj eller til flyvepladsens område.
+Stk. 3. Politiet kan, når det findes sikkerhedsmæssigt påkrævet, bestemme, at de i stk. 1 og 2 nævnte sikkerhedsforanstaltninger midlertidigt skal intensiveres og suppleres med yderligere foranstaltninger.
 
-Stk. 4. Ministeren for offentlige arbejder kan bestemme, at eftersyn i henhold til stk. 1-3 tillige kan foretages af andre myndigheder end politiet samt af flyvepladsens personale.
-
-Stk. 5. Ministeren for offentlige arbejder kan tillade luftfartsselskaber at foretage eftersyn i henhold til stk. 1 af personer og gods, der skal befordres med selskabets luftfartøjer. Eftersyn af person skal begrænses til den ydre beklædning. Selskabet kan nægte at udføre befordring for den, der ikke underkaster sig eller medvirker til kontrollen.
+Stk. 4. Statens Luftfartsvæsen godkender de i stk. 1 nævnte sikkerhedsplaner og fører tilsyn med gennemførelsen af de i stk. 1-3 nævnte sikkerhedsforanstaltninger.
