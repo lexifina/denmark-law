@@ -1,3 +1,3 @@
-Lov om forbud mod forskelsbehandling på grund af race m.v.
+Bekendtgørelse af lov om forbud mod forskelsbehandling på grund af race m.v.
 
-VI FREDERIK DEN NIENDE, af Guds Nåde Konge til Danmark, de Venders og Goters, Hertug til Slesvig, Holsten, Stormarn, Ditmarsken, Lauenborg og Oldenborg, gør vitterligt: Folketinget har vedtaget og Vi ved Vort samtykke stadfæstet følgende lov:
+Herved bekendtgøres lov nr 289 af 9. juni 1971 om forbud mod forskelsbehandling på grund af race m.v. med de ændringer, der følger af lov nr. 357 af 3. juni 1987.

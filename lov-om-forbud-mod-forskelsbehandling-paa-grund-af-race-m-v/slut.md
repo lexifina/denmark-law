@@ -1,9 +1,7 @@
-Givet på Christiansborg slot, den 9. juni 1971.
+Justitsministeriet, den 29. september 1987
 
-Under Vor Kongelige Hånd og Segl.
+Erik Ninn-Hansen
 
-FREDERIK R.
-
-/Knud Thestrup.
+/C. C. Duus
 
 Ingen
