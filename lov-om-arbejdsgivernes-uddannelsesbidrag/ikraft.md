@@ -14,9 +14,9 @@ Lov nr. 412 af 22. maj 1996, der ændrer §§ 3, 4, 5, 15, 18, 20, 22 og 38, ind
 
 § 2
 
-Stk. 1. (* 1) Loven træder i kraft den 1. januar 1997, jf. dog stk. 2.
+Stk. 1. Loven træder i kraft den 1. januar 1997, jf. dog stk. 2.
 
-Stk. 2 . (* 2) § 1, nr. 1, 3, 5-8, 10 og 16, træder i kraft dagen efter bekendtgørelsen i Lovtidende.
+Stk. 2. § 1, nr. 1, 3, 5-8, 10 og 16, træder i kraft dagen efter bekendtgørelsen i Lovtidende
 
 Lov nr. 414 af 22. maj 1996, hvis § 3 ændrer §§ 8, 10, 13, 14 og 22 indeholder i § 4 følgende bestemmelse:
 
@@ -47,3 +47,9 @@ Lov nr. 1118 af 29. december 1997, hvis § 1 vedrører §§ 14, 14 a, 15, 18, 19
 § 2
 
 Loven træder i kraft den 1. januar 1998.
+
+Lov nr. 1324 af 20. december 2000, hvis § 1 ændrer §§ 4 og 5 og indsætter § 15 a, indeholder i § 3 følgende bestemmelse:
+
+§ 3
+
+Loven træder i kraft den 1. januar 2001. § 1, nr. 3 , har virkning for lønrefusion for skoleophold, der påbegyndes efter den 31. december 2000. § 1, nr. 4 , har virkning for delaftaler og restuddannelsesaftaler, der påbegyndes efter den 31. december 2000.
