@@ -24,11 +24,11 @@ Tidspunktet for lovens eller dele af lovens ikrafttræden fastsættes af erhverv
 
 Lov nr. 475 af 10. juni 1997 om ændring af lov om forsikringsvirksomhed, lov om banker og sparekasser m.v., realkreditloven, lov om værdipapirhandel m.v., lov om fondsmæglerselskaber, lov om tilsyn med firmapensionskasser, lov om Lønmodtagernes Dyrtidsfond og lov om Arbejdsmarkedets Tillægspension (Ledelsesregler, placeringsregler m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
 
-§ 9.
+§ 9
 
-Stk. 1. Loven træder i kraft den 1. januar 1998   .
+Stk. 1. Loven træder i kraft den 1. januar 1998   
 
-Stk. 2 Senest den 1. marts 1998 skal bestyrelsen have udarbejdet interne retningslinier ifølge    § 5 a, stk. 2, og § 5 c, stk. 1, i lov om Lønmodtagernes Dyrtidsfond, som affattet ved denne lovs § 7, nr. 1,   
+Stk. 2 . Senest den 1. marts 1998 skal bestyrelsen have udarbejdet interne retningslinier ifølge    § 5 a, stk. 2, og § 5 c, stk. 1, i lov om Lønmodtagernes Dyrtidsfond, som affattet ved denne lovs § 7, nr. 1,   
 
 Stk. 3. Bestemmelserne i    § 5 b, stk. 3, 2. pkt., § 5 c, stk. 2, § 5 d, § 5 g, stk. 3, 2. pkt., og § 8 a, stk. 9, i lov om Lønmodtagernes Dyrtidsfond, som affattet ved denne lovs § 7, nr. 1 og 2,    finder anvendelse på regnskabsår, der begynder den 1. januar 1998 eller senere.
 
@@ -52,13 +52,13 @@ Stk. 12. Personer, der lovligt før 1. januar 1998 er valgt til at forestå den 
 
 Lov nr. 490 af 1. juli 1998 om ændring af lov om forsikringsvirksomhed, lov om tilsyn med firmapensionskasser lov om Lønmodtagernes Dyrtidsfond, lov om Arbejdsmarkedets Tillægspension og lov om forsikring mod følger af arbejdsskade (Harmonisering af investeringsregler og forhøjelse af aktieloftet) indeholder følgende ikrafttrædelsesbestemmelse:
 
-§ 6.
+§ 6
 
 Loven træder i kraft den 1. august 1998 og har regnskabsmæssig virkning fra og med regnskabsåret 1998.
 
 Lov nr. 1055 af 23. december 1998 om ændring af lov om tilsyn med firmapensionskasser, lov om Arbejdsmarkedets Tillægspension, lov om Lønmodtagernes Dyrtidsfond og lov om sikring mod følger af arbejdsskade (Placeringsregler, tavshedspligt, partsbegreb, investeringspuljer m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
 
-§ 5.
+§ 5
 
 Loven træder i kraft den 1. januar 1999.
 
@@ -66,7 +66,7 @@ Lov nr. 288 af 12. maj 1999 om ændring af lov om Arbejdsmarkedets Tillægspensi
 
 § 17
 
-Stk. 1. Loven træder i kraft den 1. juli 1999,   .
+Stk. 1. Loven træder i kraft den 1. juli 1999,   
 
 Lov nr. 1329 af 20. december 2000 om ændring af lov om forsikringsvirksomhed, lov om Arbejdsmarkedets Tillægspension, lov om Lønmodtagernes Dyrtidsfond, lov om sikring mod følger af arbejdsskade og lov om tilsyn med firmapensionskasser (Administration af forsikringsbestande, fleksibelt aktieloft og arbejdsmarkedsrelaterede livsforsikringsaktieselskaber m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
 
@@ -79,3 +79,49 @@ Lov nr. 503 af 7. juni 2001 om ændring lov om forsikringsvirksomhed, lov om Arb
 § 6
 
 Stk. 1. Loven træder i kraft den 1. juli 2001,   
+
+Lov nr. 428 af 6. juni 2002, som ændrer lovens § 10, indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 19
+
+Stk. 1. Loven træder i kraft den 1. juli 2002, ---
+
+Stk. 2. ---
+
+Stk. 3. ---
+
+Stk. 4. ---
+
+Lov nr. 453 af 10. juni 2003 om finansiel virksomhed, som ændrer lovens § 10, indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 375
+
+Loven træder i kraft den 1. januar 2004, ---
+
+Stk. 2. ---
+
+Stk. 3. ---
+
+Stk. 4. ---
+
+Stk. 5. ---
+
+Lov nr. 190 af 24. marts 2004 om ændring af lov om Lønmodtagernes Dyrtidsfond, lov om Arbejdsmarkedets Tillægspension, pensionsbeskatningsloven og pensionsafkastbeskatningsloven (Ændrede udbetalingsregler og etablering af flytteret), som ændrer lovens §§ 2, 3, 5, og 6 samt indsætter lovens kapitel 4a, indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 5
+
+Stk. 1. Loven træder i kraft den 1. april 2004, jf. dog stk. 2 og 3.
+
+Stk. 2. § 7 a, stk. 1 og 2, samt § 7 b, stk. 1, 1. pkt., som affattet ved denne lovs § 1, nr. 6, --- træder i kraft den 1. juli 2005.
+
+Stk. 3. ---.
+
+Lov nr. 365 af 19. maj 2004 om ændring af lov om finansiel virksomhed, lov om Arbejdsmarkedets Tillægspension, lov om arbejdsskadesikring, lov om Lønmodtagernes Dyrtidsfond og lov om grænseoverskridende pengeoverførsler (Gennemførelse af direktiv om finansielle konglomerater, videregivelse af fortrolige oplysninger, harmonisering af lov om Arbejdsmarkedets Tillægspension, lov om arbejdsskadesikring og lov om Lønmodtagernes Dyrtidsfond med lov om finansiel virksomhed m.v.), som ændrer lovens § 2, Kapitel 3, 4, 5 og bilag A samt indsætter Kapitel 5a, indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 6
+
+Stk. 1. Loven træder i kraft den 1. juli 2004, jf. dog stk. 2 og 3.
+
+Stk. 2. Økonomi- og erhvervsministeren fastsætter tidspunktet for ikrafttræden af lovens --- § 4, nr. 4, ---.
+
+Stk. 3. ---.
