@@ -1,1 +1,1 @@
-§ 8 D. (Ophævet)
+§ 8 D. Ved opgørelsen af den skattepligtige indkomst gives der ikke fradrag for udgifter til bestikkelse som nævnt i straffelovens § 144 til en person, der er ansat, udnævnt eller valgt til tjeneste eller hverv ved lovgivende, administrative og dømmende organer, uanset om det er for Danmark, Færøerne eller Grønland eller en fremmed stat, herunder lokale myndigheder eller politiske underafdelinger, eller for en international organisation, som er dannet af stater, regeringer eller andre internationale organisationer.
