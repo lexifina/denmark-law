@@ -1,4 +1,4 @@
-§ 14 a. (* 2) Virksomheder, der fremstiller eller fra udlandet modtager afgiftspligtige varer, skal registreres hos de statslige told- og skattemyndigheder. Til de registrerede virksomheder udstedes et bevis for registreringen.
+§ 14 a. Virksomheder, der fremstiller eller fra udlandet modtager afgiftspligtige varer, skal registreres hos de statslige told- og skattemyndigheder. Til de registrerede virksomheder udstedes et bevis for registreringen.
 
 Stk. 2. Afgiften svares ved varernes udlevering fra de registrerede virksomheder.
 
