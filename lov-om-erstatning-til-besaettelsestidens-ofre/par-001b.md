@@ -1,0 +1,1 @@
+§ 1 b. Danske statsborgere, som under den tyske besættelse som søfarende har været interneret eller tilbageholdt i mindst 12 måneder i udenlandsk havn, og deres efterladte er berettigede til ydelse efter bestemmelserne i dette afsnit på samme måde som fastsat i § 1 a.
