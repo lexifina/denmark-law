@@ -1,0 +1,9 @@
+GIVET PÅ CHRISTIANSBORG SLOT, DEN 10 JUNI 1981
+
+Under Vor Kongelige Hånd og Segl
+
+MARGRETHE R
+
+/HENNING RASMUSSEN
+
+Ingen
