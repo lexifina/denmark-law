@@ -6,7 +6,7 @@
 
 Stk. 2. Tilsvarende kan beløb eftergives, som personer er pligtige at betale som erstatning for selskabers manglende indbetaling af indeholdte beløb.
 
-Stk. 3. (* 4) Ved anvendelsen af stk. 1, nr. 2, skal der navnlig lægges vægt på, om skyldneren udelukkende eller overvejende har gæld i form af skatte-, told- og afgiftsrestancer, skyldnerens interesse i eftergivelse, gældens alder, omstændighederne ved dens pådragelse og hidtidige afvikling samt skyldnerens forhold under eftergivelsessagen.
+Stk. 3. Ved anvendelsen af stk. 1, nr. 2, skal der navnlig lægges vægt på, om skyldneren udelukkende eller overvejende har gæld i form af skatte-, told- og afgiftsrestancer, skyldnerens interesse i eftergivelse, gældens alder, omstændighederne ved dens pådragelse og hidtidige afvikling samt skyldnerens forhold under eftergivelsessagen.
 
 Stk. 4. Eftergivelse kan gå ud på bortfald eller nedsættelse af skyldnerens gæld, herunder påløbne renter. I forbindelse med nedsættelse kan der træffes bestemmelse om henstand med og afdragsvis betaling af den ikke eftergivne del af gælden. I henstands- og afdragsperioden sker der ingen forrentning af gælden.
 

@@ -1,5 +1,5 @@
-§ 20 E. Hvis længstlevende eller en arving eller legatar udfører arbejde for boet, skal han indkomstbeskattes af et arbejdsvederlag, der svarer til den betaling, som det ville være muligt at opnå ved arbejde af samme art og omfang, udført for andre.
+§ 20 E. (* 14) (Ophævet)
 
 ## Afsnit III
 
-Den skattepligtige indkomst og formue
+Den skattepligtige indkomst (* 13)
