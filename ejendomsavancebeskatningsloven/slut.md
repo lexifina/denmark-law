@@ -1,25 +1,15 @@
-Skatteministeriet, den 11. september 2000
+Skatteministeriet, den 18. september 2001
 
-Ole Stavad
+Frode Sørensen
 
 /Lise Bo Nielsen
 
-Denne lovbekendtgørelse indeholder bemærkninger om ikrafttrædelses- og overgangsbestemmelser for love, der er vedtaget i folketingsåret 1999-2000. Bemærkninger om ikrafttrædelses- og overgangsbestemmelser for tidligere ændringer er kun medtaget i det omfang, de skønnes at have betydning.
+Denne lovbekendtgørelse indeholder bemærkninger om ikrafttrædelses- og overgangsbestemmelser for love, der er vedtaget i folketingsåret 2000-2001. Bemærkninger om ikrafttrædelses- og overgangsbestemmelser for tidligere ændringer er kun medtaget i det omfang, de skønnes at have betydning.
 
-Bestemmelserne i § 4, stk. 3, 4. pkt., § 5, stk.1, stk. 2, 1.-13. pkt. og stk. 3, § 5, stk. 5, nr. 2 og nr. 5, § 5, stk. 6, § 5, stk. 8, § 6, stk. 3, § 6 stk. 6, § 8, stk. 1, 1. pkt., § 8, stk. 2, 3 og 4, samt § 9 har i de her anførte affattelser virkning for afståelser, der foretages den 1. januar 2000 eller senere, jf. § 21, stk. 10, i lov nr. 958 af 20. december 1999.
+Ophævelsen af den hidtidige bestemmelse i § 1, stk. 2, og ændringen af § 6, stk. 3, 2. pkt., er trådt i kraft og har virkning fra den 22. december 2000, jf. § 3, stk. 1, i lov nr. 1287 af 20. december 2000.
 
-Indsættelsen af bestemmelserne i § 4, stk. 3, 7. pkt. og § 5, stk. 2, 14. og 15. pkt., har virkning fra og med indkomståret 2001, jf. § 9, stk. 2, i lov nr. 459 af 31. maj 2000.
+Bestemmelsen i § 4, stk. 1, i den her anførte affattelse og indsættelse af et nyt stk. 10 i § 4 er trådt i kraft den 22. december 2000, jf. § 3, stk. 1, i lov nr. 1287 af 20. december 2000. Bestemmelserne har virkning for udgifter afholdt til kunstnerisk udsmykning af en bygning den 1. januar 2001 eller senere, hvor opførelsen, ombygningen og tilbygningen af bygningen, den kunstneriske udsmykning er en del af eller knytter sig til, påbegyndes den 1. januar 2001 eller senere, jf. § 3, stk. 2, i førnævnte lov.
 
-Bestemmelserne i § 4, stk. 5, 6 og 7 i de her anførte affattelser samt indsættelsen af § 4, stk. 8 og 9, har virkning for salg, der finder sted den 1. januar 2000 eller senere, jf. § 21, stk. 8, i lov nr. 958 af 20. december 1999.
+Bestemmelserne i § 4, stk. 3, 2. pkt., § 5, stk. 2, 3. pkt., § 5, stk. 6, 3. pkt., og § 6, stk. 4, 2. pkt., i de her anførte affattelser er trådt i kraft den 9. juni 2001, jf. § 7, stk. 1, i lov nr. 483 af 7. juni 2001. Bestemmelserne har virkning fra den 1. januar 2001, jf. § 7, stk. 2, i førnævnte lov.
 
-Bestemmelsen i § 6, stk. 2, 1.-6. pkt. og 8. pkt. har i den her anførte affattelse virkning for afståelser, der foretages den 1. januar 2000 eller senere, og bestemmelsen i § 6, stk. 2, 7. pkt., har i den her anførte affattelse virkning, hvor delafståelsen er foretaget den 1. januar 2000 eller senere, jf. § 21, stk. 11, i lov nr. 958 af 20. december 1999.
-
-Bestemmelserne i § 6 A og § 6 C, har i de her anførte affattelser virkning for fortjenester, der vedrører fast ejendom som afstås den 1. januar 2000 eller senere, jf. § 21, stk. 12, i lov nr. 958 af 20. december 1999.
-
-Bestemmelsen i § 7, stk. 2, har i den her anførte affattelse virkning for erhvervelser og afståelser, der foretages fra og med den 1. januar 2000, jf. § 25, stk. 3, i lov nr. 166 af 24. marts 1999 og § 9, stk. 3, i lov nr. 459 af 31. maj 2000.
-
-Bestemmelsen i § 8, stk. 1, nr. 3 har i den her anførte affattelse virkning fra og med den 1. januar 2000, jf. § 21, stk. 13, i lov nr. 958 af 20. december 1999.
-
-Bestemmelsen i § 10, stk. 1, har i den her anførte affattelse virkning for erstatnings- forsikringssummer, der erhverves den 1. januar 2000 eller senere, jf. § 21, stk. 14, i lov nr. 958 af 20. december 1999.
-
-Bestemmelsen i § 11, stk. 1, sidste pkt., træder i kraft den 1. januar 2000, jf. § 94 i lov nr. 370 af 2. juni 1999.
+Indsættelsen af bestemmelserne i § 4, stk. 3, 7. pkt., og § 5, stk. 2, 14. og 15. pkt., er trådt i kraft den 3. juni 2000, jf. § 9, stk. 1, i lov nr. 459 af 31. maj 2000. Bestemmelserne har virkning fra og med indkomståret 2001, jf. § 9, stk. 2, i førnævnte lov.
