@@ -1,5 +1,5 @@
-Erhvervsministeriet, den 12. juli 2000
+Økonomi- og Erhvervsministeriet, den 28. juni 2002
 
-Pia Gjellerup
+Bendt Bendtsen
 
 /Kirsten Levinsen

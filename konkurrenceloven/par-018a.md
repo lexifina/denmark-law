@@ -8,7 +8,7 @@ Stk. 2. Ved videregivelse af oplysninger til myndigheder i medfør af stk. 1 ska
 
 3) kun kan videregives med udtrykkeligt samtykke fra Konkurrencestyrelsen og kun til det formål, som samtykket omfatter.
 
-Stk. 3. Erhvervsministeren kan fastsætte nærmere regler om Konkurrencestyrelsens videregivelse til udenlandske myndigheder af oplysninger, der er omfattet af Konkurrencestyrelsens tavshedspligt.
+Stk. 3. Økonomi- og erhvervsministeren kan fastsætte nærmere regler om Konkurrencestyrelsens videregivelse til udenlandske myndigheder af oplysninger, der er omfattet af Konkurrencestyrelsens tavshedspligt.
 
 ## Kapitel 7
 
