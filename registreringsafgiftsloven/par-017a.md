@@ -1,1 +1,1 @@
-§ 17 a. Såfremt det konstateres, at en virksomhed har afgivet urigtig angivelse til toldvæsenet, således at virksomheden har betalt for lidt i afgift, afkræves virksomheden det skyldige beløb til betaling senest 14 dage efter påkrav.
+§ 17 a. Såfremt det konstateres, at en virksomhed har afgivet urigtig angivelse til told- og skattevæsenet, således at virksomheden har betalt for lidt i afgift, afkræves virksomheden det skyldige beløb til betaling senest 14 dage efter påkrav.
