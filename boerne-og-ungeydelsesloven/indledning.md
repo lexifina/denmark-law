@@ -1,6 +1,6 @@
 Bekendtgørelse af lov om en børnefamilieydelse
 
-Herved bekendtgøres lov om en børnefamilieydelse, jf. lovbekendtgørelse nr. 791 af 1. oktober 1995, med de ændringer og tilføjelser, der følger af lov nr. 1219 af 27. december 1996 og lov nr. 980 af 17. december 1997.
+Herved bekendtgøres lov om en børnefamilieydelse, jf. lovbekendtgørelse nr. 701 af 6. september 1999, med de ændringer, der følger af § 4 i lov nr. 966 af 20. december 1999.
 
 ## Kapitel 1
 
