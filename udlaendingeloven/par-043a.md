@@ -32,4 +32,4 @@ Stk. 6. Hjælpen efter stk. 2 udgør 3.000 kr. pr. person over 18 år og 1.500 k
 
 Stk. 7. En udlænding kan kun modtage hjælp efter stk. 1 og 2 én gang.
 
-Stk. 8. Beløbene i stk. 5, nr. 3, og stk. 6, reguleres én gang årligt med satsreguleringsprocenten, jf. lov om en satsreguleringsprocent.
+Stk. 8. Det i stk. 5, nr. 3, angivne beløb er fastsat i 1995-niveau og reguleres fra og med 1996 én gang årligt den 1. januar efter satsreguleringsprocenten, jf. lov om en satsreguleringsprocent. Det i stk. 6 angivne beløb er fastsat i 2003-niveau og reguleres fra og med 2004 én gang årligt den 1. januar efter satsreguleringsprocenten, jf. lov om en satsreguleringsprocent.

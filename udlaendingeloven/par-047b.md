@@ -1,0 +1,1 @@
+§ 47 b. Udlændingestyrelsens afgørelser efter § 4, stk. 3-5, kan påklages til ministeren for flygtninge, indvandrere og integration. Klage har ikke opsættende virkning, medmindre særlige grunde taler derfor.
