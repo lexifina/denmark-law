@@ -1,7 +1,7 @@
-Kirkeministeriet, den 25. juni 1992
+Kirkeministeriet, den 24. januar 1996
 
-Torben Rechendorff
+Birte Weiss
 
-/ Finn Langager Larsen
+/ Niels Bjerregaard
 
 Ingen
