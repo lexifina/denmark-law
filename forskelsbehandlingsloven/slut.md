@@ -1,9 +1,5 @@
-Givet på Christiansborg Slot, den 12. juni 1996
+Beskæftigelsesministeriet, den 30. juni 2004
 
-Under Vor Kongelige Hånd og Segl
+Claus Hjort Frederiksen
 
-MARGRETHE R.
-
-/Jytte Andersen
-
-Ingen
+/E. Edelberg
