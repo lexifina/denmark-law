@@ -1,3 +1,3 @@
-Lov om graveadgang og ekspropriation m.v. til telekommunikationsformål
+Bekendtgørelse af lov om graveadgang og ekspropriation m.v. til telekommunikationsformål
 
-VI MARGRETHE DEN ANDEN, af Guds Nåde Danmarks Dronning, gør vitterligt: Folketinget har vedtaget og Vi ved Vort samtykke stadfæstet følgende lov:
+Herved bekendtgøres lov nr. 393 af 10. juni 1997 om graveadgang og ekspropriation m.v. til telekommunikationsformål med de ændringer, der følger af § 3 i lov nr. 1011 af 23. december 1998, § 7 i lov nr. 420 af 6. juni 2002 og § 2 i lov nr. 450 af 10. juni 2003.
