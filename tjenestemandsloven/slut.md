@@ -1,7 +1,7 @@
-Finansministeriet, den 2. oktober 1986
+Finansministeriet, den 5. august 1991
 
-PALLE SIMONSEN
+Henning Dyremose
 
-/Ole Nyegaard
+/ Ole Nyegaard
 
 Ingen
