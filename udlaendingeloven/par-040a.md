@@ -8,7 +8,7 @@
 
 Stk. 2. Der kan endvidere optages fingeraftryk af en udlænding, hvis dette skønnes hensigtsmæssigt med henblik på identifikation af den pågældende eller med henblik på udstedelse eller fremskaffelse af rejsedokument.
 
-Stk. 3. Fingeraftryk, der optages i medfør af stk. 1 eller 2, kan registreres i et særligt edb-register, der føres af Rigspolitichefen. Politiet og Udlændingestyrelsen kan anvende registret i forbindelse med behandlingen af udlændingesager. Indenrigsministeren fastsætter efter lovgivningen om offentlige registre forskrifter for registret.
+Stk. 3. Fingeraftryk, der optages i medfør af stk. 1 eller 2, kan registreres i et særligt edb-register, der føres af Rigspolitichefen. Politiet og Udlændingestyrelsen kan anvende registret i forbindelse med behandlingen af udlændingesager. Indenrigsministeren fastsætter efter den lovgivning, der gælder for førelsen af offentlige myndigheders registre, nærmere regler eller forskrifter for registret.
 
 Stk. 4. Fingeraftryk, der modtages fra udenlandske udlændingemyndigheder i forbindelse med behandlingen af udlændingesager, kan registreres i det i stk. 3 nævnte edb-register.
 

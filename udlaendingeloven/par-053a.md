@@ -2,7 +2,7 @@
 
 1) Nægtelse af opholdstilladelse til en udlænding, der påberåber sig at være omfattet af §§ 7 eller 8.
 
-2) Bortfald efter § 17 og inddragelse efter §§ 19 eller 20 af en opholdstilladelse, der er givet efter §§ 7 eller 8.
+2) Bortfald efter §§ 17 og 17 a og inddragelse efter §§ 19 eller 20 af en opholdstilladelse, der er givet efter §§ 7 eller 8.
 
 3) Nægtelse af udstedelse af dansk rejsedokument for flygtninge eller inddragelse af et sådant rejsedokument.
 
@@ -14,4 +14,4 @@ Stk. 3. Udlændingestyrelsen kan, efter at sagen har været forelagt for Dansk F
 
 Stk. 4. Udlændingestyrelsens afgørelser som nævnt i stk. 1 skal indeholde oplysning om reglerne i stk. 1-3.
 
-Stk. 5. Politiet kan uden udlændingens samtykke videregive oplysninger om en udlændings strafbare forhold, herunder om sigtelser for strafbare forhold, til Udlændingestyrelsen eller Flygtningenævnet, hvis den pågældende har ansøgt om opholdstilladelse efter §§ 7-8 eller eromfattet af § 42 a, stk. 5.
+Stk. 5. Politiet kan uden udlændingens samtykke videregive oplysninger om en udlændings strafbare forhold, herunder om sigtelser for strafbare forhold, til Udlændingestyrelsen eller Flygtningenævnet, hvis den pågældende har ansøgt om opholdstilladelse efter §§ 7-8 eller er omfattet af § 42 a, stk. 5.

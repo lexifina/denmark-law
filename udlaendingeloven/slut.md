@@ -1,4 +1,4 @@
-Indenrigsministeriet, den 2. februar 1999
+Indenrigsministeriet, den 26. juni 1999
 
 Thorkild Simonsen
 
