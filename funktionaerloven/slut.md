@@ -1,4 +1,4 @@
-Beskæftigelsesministeriet, den 8. september 2004
+Beskæftigelsesministeriet, den 21. januar 2005
 
 Claus Hjort Frederiksen
 
