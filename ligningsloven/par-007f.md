@@ -22,6 +22,8 @@
 
 11) tilskud til forbrugere ved køb af nye energieffektive produkter samt installation af disse som nævnt i § 1, stk. 2, nr. 2, i lov om statstilskud til produktrettede energibesparelser.
 
+12) Beløb, som sælgeren af en fast ejendom betaler til køberen til hel eller delvis dækning af præmie for ejerskifteforsikring i medfør af § 2, stk. 3, i lov om forbrugerbeskyttelse ved erhvervelse af fast ejendom m.v.
+
 Stk. 2. Den del af udgifterne, som svarer til tilskud m.v., der er skattefri efter stk. 1, kan ikke fradrages ved indkomstopgørelsen eller medregnes ved opgørelsen af grundlaget for skattemæssige afskrivninger og medregnes ikke til anskaffelsessummen ved opgørelse af skattepligtig fortjeneste eller tab ved afståelse af fast ejendom.
 
 Stk. 3. Tilskud, der er ydet til nedsættelse af lejeforhøjelsen i henhold til lov om privat byfornyelse § 6 a eller i henhold til lov om byfornyelse § 106, skal ikke medregnes til lejerens skattepligtige indkomst.
