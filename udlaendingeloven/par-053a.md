@@ -12,4 +12,4 @@ Stk. 3. Udlændingestyrelsen kan, efter at sagen har været forelagt for Dansk F
 
 Stk. 4. Udlændingestyrelsens afgørelser som nævnt i stk. 1 skal indeholde oplysning om reglerne i stk. 1-3.
 
-Stk. 5. Politiet kan uden udlændingens samtykke videregive oplysninger om en udlændings strafbare forhold, herunder om sigtelser for strafbare forhold, til Udlændingestyrelsen eller Flygtningenævnet, hvis den pågældende har ansøgt om opholdstilladelse efter §§ 7-8.
+Stk. 5. Politiet kan uden udlændingens samtykke videregive oplysninger om en udlændings strafbare forhold, herunder om sigtelser for strafbare forhold, til Udlændingestyrelsen eller Flygtningenævnet, hvis den pågældende har ansøgt om opholdstilladelse efter §§ 7-8 eller er omfattet af § 42 a, stk. 5(* 4).
