@@ -12,6 +12,6 @@ Stk. 3. Den skattepligtige fortjeneste, hvormed anskaffelsessummen efter stk. 1 
 
 Stk. 4. Stk. 1-3 finder tilsvarende anvendelse, hvis den ene ægtefælle afstår fast ejendom og den anden ægtefælle erhverver fast ejendom, når såvel den afståede som den erhvervede ejendom anvendes helt eller delvis i den ene eller den anden ægtefælles erhvervsvirksomhed. Det er en betingelse, at ægtefællerne er samlevende ved udgangen af både det indkomstår, hvori afståelsen finder sted, og det indkomstår, hvori erhvervelsen finder sted.
 
-Stk. 5. (* 6) Stk. 1-4 finder ikke anvendelse ved erhvervelse eller afståelse af fast ejendom, der er beliggende i en fremmed stat, Færøerne eller Grønland.
+Stk. 5. (* 7) Stk. 1-4 finder ikke anvendelse ved erhvervelse eller afståelse af fast ejendom, der er beliggende i en fremmed stat, Færøerne eller Grønland.
 
 Stk. 6. Såfremt § 5 A er anvendt ved opgørelsen af fortjenesten på den afståede ejendom, skal § 5 A også anvendes på den erhvervede ejendom.
