@@ -12,6 +12,6 @@ Stk. 4. Bestemmelserne i dette kapitel finder tilsvarende anvendelse:
 
 1) Ved spaltning af de i henhold til selskabsskattelovens § 1, stk. 1, nr. 5 a, beskattede investeringsforeninger, dog under forudsætning af, at den eller de modtagende investeringsforeninger beskattes i henhold til selskabsskattelovens § 1, stk. 1, nr. 5 a.
 
-2) Ved spaltning af de i henhold til selskabsskattelovens § 1, stk. 1, nr. 6, beskattede udloddende investeringsforeninger, dog under forudsætning af, at den eller de modtagende investeringsforeninger beskattes i henhold til selskabsskattelovens § 1, stk. 1, nr. 6.
+2) Ved spaltning af de i henhold til selskabsskattelovens § 1, stk. 1, nr. 6, beskattede udloddende investeringsforeninger, dog under forudsætning af, at den eller de modtagende investeringsforeninger beskattes som en udloddende investeringsforening efter selskabsskattelovens § 1, stk. 1, nr. 6.
 
 Stk. 5. Bestemmelserne i dette kapitel finder tilsvarende anvendelse ved spaltning af de i henhold til selskabsskattelovens § 1, stk. 1, nr. 2 e, beskattede elselskaber, dog under forudsætning af, at det eller de modtagende selskaber beskattes i henhold til selskabsskattelovens § 1, stk. 1, nr. 1, eller § 1, stk. 1, nr. 2 e.
