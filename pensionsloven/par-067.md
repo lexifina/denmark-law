@@ -1,0 +1,1 @@
+§ 67. Personer under 67 år med dansk indfødsret, der ved lovens ikrafttræden modtager fuld førtidspension efter § 3, stk. 3 og stk. 4, i lov om invalidepension og førtidspension m.v., har ret til at få udbetalt pension i udlandet som hidtil.

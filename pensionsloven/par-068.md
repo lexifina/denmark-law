@@ -1,0 +1,1 @@
+§ 68. Uanset bestemmelserne i § 5, stk. 1 og 2, har personer over 67 år med dansk indfødsret, som har haft fast bopæl i riget i mindst 10 år efter det fyldte 15. år, heraf mindst 5 år umiddelbart forud for det fyldte 67. år, ret til fuld folkepension, senest fra den 1. oktober 1989.
