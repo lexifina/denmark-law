@@ -1,1 +1,1 @@
-§ 9 a. Skatteministeren kan fastsætte bestemmelser og gebyr for erindringsskrivelser vedrørende betaling af afgift m.v. (* 1)
+§ 9 a. Der skal betales et gebyr på 65 kr. for erindringsskrivelser vedrørende betaling af afgift. (* 3)
