@@ -1,9 +1,7 @@
-Givet på Christiansborg Slot, den 6. juni 1991
+Kulturministeriet, den 13. februar 1997
 
-Under Vor Kongelige Hånd og Segl
+Ebbe Lundgaard
 
-MARGRETHE R.
-
-/ Grethe Rostbøll
+/ K. Groos
 
 Ingen
