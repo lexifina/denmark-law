@@ -1,0 +1,1 @@
+§ 152 d. (* 2) Bestemmelserne i §§ 152-152 c finder tilsvarende anvendelse på den, som uden at have medvirket til gerningen uberettiget skaffer sig, videregiver eller udnytter oplysninger, der er fremkommet ved en sådan overtrædelse.

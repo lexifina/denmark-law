@@ -1,0 +1,1 @@
+§ 110 e. Med bøde, hæfte eller under skærpende omstændigheder med fængsel indtil 2 år straffes den, der offentlig forhåner en fremmed nation, en fremmed stat, dens flag eller andet anerkendt nationalmærke eller De Forenede Nationers eller Det Europæiske Råds flag.

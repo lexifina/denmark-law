@@ -1,0 +1,1 @@
+§ 300 b. Med bøde, hæfte eller fængsel indtil 6 måneder straffes den, som, uden at betingelserne for at anvende § 282 foreligger, ved indgåelse af en aftale på utilbørlig måde benytter sig af modpartens økonomiske vanskeligheder eller i øvrigt af dennes underlegne stilling.

@@ -1,0 +1,1 @@
+§ 110 d. Begås nogen af de i kapitlerne 25, 26 og 27 omhandlede forbrydelser mod et fremmed statsoverhoved eller lederen af en fremmed diplomatisk mission, kan den der foreskrevne straf forhøjes med indtil det halve.
