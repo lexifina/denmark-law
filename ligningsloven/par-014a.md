@@ -1,0 +1,3 @@
+§ 14 A. (* 10) Beløb, som låntager betaler til et realkreditinstitut efter § 10 b, stk. 3, 4. pkt., i bekendtgørelse nr. 571 af 15. august 1989 af lov om realkreditinstitutter, og § 4 b i bekendtgørelse nr. 699 af 5. november 1987 af lov om et finansieringsinstitut for landbrug m.v., som ændret ved lov nr. 373 af 6. juli 1988, kan fradrages i den skattepligtige indkomst for indbetalingsåret.
+
+Stk. 2. Beløb, som udbetales fra en restgældsreguleringsfond som nævnt i § 23 g, stk. 1, i bekendtgørelse nr. 571 af 15. august 1989 af lov om realkreditinstitutter og § 4 b i bekendtgørelse nr. 699 af 5. november 1987 af lov om et finansieringsinstitut for landbrug m.v., som ændret ved lov nr. 373 af 6. juli 1988, medregnes ved opgørelsen af den skattepligtige indkomst.

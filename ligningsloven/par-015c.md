@@ -1,1 +1,1 @@
-§ 15 C. For ejendomme, for hvilke der ikke inden indkomstårets begyndelse var ansat nogen ejendomsværdi, herunder for grunden, opgøres beregningsgrundlaget som 70 pct. af anskaffelsessummen. Er der afholdt udgifter som nævnt i § 15 B, stk. 3, forhøjes det i 1. pkt. nævnte beregningsgrundlag med 80 pct. af udgifterne. Ved opgørelse af beregningsgrundlaget efter denne paragraf finder § 15 B, stk. 2, tilsvarende anvendelse for skattepligtige, der anvender forskudt indkomstår.
+§ 15 C. (* 14) (Ophævet)
