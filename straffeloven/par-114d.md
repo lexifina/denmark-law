@@ -1,0 +1,1 @@
+§ 114 d. Den, som, uden at forholdet omfattes af §§ 114-114 c, deltager i ulovlig militær organisation eller gruppe, straffes med bøde eller fængsel indtil 4 måneder eller under skærpende omstændigheder med fængsel indtil 2 år.

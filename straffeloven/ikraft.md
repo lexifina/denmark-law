@@ -22,7 +22,7 @@ Stk. 1. Loven træder i kraft den 1. juli 2000.
 
 Stk. 2. De i § 1 nævnte bestemmelser i straffelovens § 94, stk. 4, og § 97, stk. 4 og 6, gælder også for lovovertrædelser, der er begået, og retsfølger, der er pålagt, før lovens ikrafttræden. Bestemmelserne finder dog ikke anvendelse i tilfælde, hvor forældelse efter de hidtidige regler er indtrådt før lovens ikrafttræden.
 
-Lov nr. 433 af 31. maj 2000 (Ændringer som følge af straffuldbyrdelsesloven, afskaffelse af hæftestraffen og prøveløsladelse af livstidsdømte m.v.) indeholder følgende ikrafttrædelsesbestemmelser:
+Lov nr. 433 af 31. maj 2000 (Ændringer som følge af straffuldbyrdelsesloven, afskaffelse af hæftestraffen og prøveløsladelse af livstidsdømte m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
 
 § 30
 
@@ -48,28 +48,36 @@ Stk. 1. Ved fastsættelse af forvandlingsstraf for bøde vedrørende en lovovert
 
 Stk. 2. Loven har ikke virkning for hæftestraf eller forvandlingsstraf af hæfte, som er idømt eller fastsat før lovens ikrafttræden.
 
-Lov nr. 280 af 25. april 2001 (Gennemførelse af EU-rammeafgørelse om styrkelse af beskyttelsen mod falskmøntneri, 1. tillægsprotokol til den europæiske konvention om overførelse af domfældte og FN-konventionen til bekæmpelse af terrorbombninger samt ændringer som følge af afskaffelsen af hæftestraffen m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
-
-§ 11
-
-Stk. 1. Loven træder i kraft den 1. maj 2001.
-
-Stk. 2. § 1, nr. 2 og 3 , og §§ 6-8 træder dog først i kraft den 1. juli 2001.
-
-Lov nr. 465 af 7. juni 2001 (Hæleri og anden efterfølgende medvirken samt IT-efterforskning) indeholder følgende ikrafttrædelsesbestemmelse:
+Lov nr. 258 af 8. maj 2002 (Gennemførelse af EU-retshjælpskonventionen, den 2. tillægsprotokol til Europarådets retshjælpskonvention og EU-rammeafgørelse om fælles efterforskningshold) indeholder følgende bestemmelser om strafansvar og ikrafttræden:
 
 § 3
 
-Loven træder i kraft den 1. juli 2001.
+Stk. 1. Bestemmelserne i straffelovens kapitel 14 om forbrydelser mod den offentlige myndighed mv. og kapitel 16 om forbrydelser i offentlig tjeneste eller hverv mv. finder også anvendelse, når forholdet er begået mod eller af embedsmænd fra en anden stat under udførelse af opgaver i Danmark efter artikel 12 og 13 i konvention af 29. maj 2000 om gensidig retshjælp i straffesager mellem Den Europæiske Unions medlemsstater samt tilsvarende bestemmelser i andre EU-retsakter eller efter artikel 18 og 20 i 2. tillægsprotokol af 8. november 2001 til den europæiske konvention af 20. april 1959 om gensidig retshjælp i straffesager.
 
-Lov nr. 468 af 7. juni 2001 (Forvoldelse af fare for smitte med en livstruende og uhelbredelig sygdom) indeholder følgende ikrafttrædelsesbestemmelse:
+Stk. 2. Forvolder en embedsmand fra en anden medlemsstat skade under udførelse af opgaver i Danmark efter artikel 12 og 13 i konvention af 29. maj 2000 om gensidig retshjælp i straffesager mellem Den Europæiske Unions medlemsstater samt tilsvarende bestemmelser i andre EU-retsakter eller efter artikel 18 og 20 i 2. tillægsprotokol af 8. november 2001 til den europæiske konvention af 20. april 1959 om gensidig retshjælp i straffesager, som efter dansk ret medfører erstatningspligt, udbetales erstatning af justitsministeren.
 
-§ 3
+§ 6
 
-Loven træder i kraft den 1. juli 2001.
+Loven træder i kraft den 1. juli 2002.
 
-Lov nr. 469 af 7. juni 2001 (Ungdomskriminalitet) indeholder følgende ikrafttrædelsesbestemmelse:
+Lov nr. 378 af 6. juni 2002 (Gennemførelse af FN-konventionen til bekæmpelse af finansiering af terrorisme, gennemførelse af FNs Sikkerhedsråds resolution nr. 1373 (2001) samt øvrige initiativer til bekæmpelse af terrorisme mv.) indeholder følgende ikrafttrædelsesbestemmelse:
 
-§ 3
+§ 7
 
-Loven træder i kraft den 1. juli 2001.
+Stk. 1. Loven træder i kraft dagen efter bekendtgørelsen i Lovtidende, jf. dog stk. 2 og 3.
+
+Stk. 2-4. (Udelades)
+
+Lov nr. 380 af 6. juni 2002 (Skærpelse af straffen for voldtægt, vold, uagtsomt manddrab, uagtsom betydelig legemsbeskadigelse, forsætlig fareforvoldelse, biltyveri, grov forstyrrelse af ro og orden, menneskesmugling og menneskehandel mv.) indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 4
+
+Loven træder i kraft dagen efter bekendtgørelsen i Lovtidende.
+
+Lov nr. 382 af 6. juni 2002 (Fangeflugt og begrænsning i indsattes adgang til aktindsigt mv.) indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 4
+
+Stk. 1. Loven træder i kraft dagen efter bekendtgørelsen i Lovtidende.
+
+Stk. 2. (Udelades)
