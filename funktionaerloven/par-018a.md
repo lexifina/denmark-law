@@ -1,0 +1,11 @@
+§ 18 a. En forpligtelse for funktionæren til efter fratrædelsen ikke at tage ansættelse hos eller direkte eller indirekte at have erhvervsmæssig kontakt med sin tidligere arbejdsgivers kunder og andre forretningsmæssige forbindelser kan kun gøres gældende, hvis der har været en forretningsmæssig forbindelse med den pågældende kunde m.v. inden for de seneste 18 måneder før opsigelsestidspunktet. Forpligtelsen gælder endvidere kun i forhold til kunder m.v., som funktionæren selv har haft erhvervsmæssig kontakt med hos sin tidligere arbejdsgiver, og i forhold til øvrige kunder m.v., som arbejdsgiveren ved særskilt, skriftlig meddelelse inden opsigelsen har ladet været omfattet af forpligtelsen. I øvrigt finder aftalelovens § 36 anvendelse.
+
+Stk. 2. En forpligtelse efter stk. 1 kan kun gyldigt indgås, hvis funktionæren modtager en kompensation for den periode, forpligtelsen gælder, og hvis forpligtelsen og kravet på kompensation fremgår af en skriftlig kontrakt. Kompensationen skal pr. måned udgøre mindst 50 pct. af lønnen på fratrædelsestidspunktet og skal udbetales månedsvis i den periode, forpligtelsen gælder. Hvis funktionæren modtager kompensation i medfør af § 18, bortfalder retten til kompensation efter denne bestemmelse. Hvis funktionæren modtager løn i en opsigelsesperiode efter den faktiske fratræden, regnes fratrædelsen fra opsigelsesperiodens udløb. Retten til kompensation bortfalder, hvis arbejdsgiveren berettiget har bortvist funktionæren.
+
+Stk. 3. Såfremt funktionæren får andet passende arbejde, kan lønnen fra dette arbejde modregnes i funktionærens krav på kompensation efter stk. 2 for tiden efter ansættelsen.
+
+Stk. 4. Hvis funktionæren har været beskæftiget i 3 måneder eller derunder hos sin arbejdsgiver, kan en aftale efter stk. 1 ikke gøres gældende, og der skal ikke betales kompensation efter stk. 2. Hvis funktionæren har været beskæftiget i mere end 3 måneder, men højst 6 måneder hos arbejdsgiveren, kan aftalen ikke gøres gældende i længere tid end 6 måneder efter fratrædelsen.
+
+Stk. 5. En arbejdsgiver kan opsige en aftale som nævnt i stk. 2 med en måneds varsel til udløbet af en måned.
+
+Stk. 6. Stk. 1-5 finder ikke anvendelse, hvis der ved kollektiv overenskomst indgået den 15. juni 1999 eller senere er fastsat regler om indholdet af og vilkår for indgåelse af de aftaler, der er nævnt i stk. 1.
