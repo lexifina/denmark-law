@@ -1,3 +1,3 @@
-Bekendtgørelse af Lov om Kongeriget Danmarks fiskeribank
+Bekendtgørelse af lov om Kongeriget Danmarks Fiskeribank
 
-Herved bekendtgøres lov nr. 54 af 17. februar 1978 om Kongeriget Danmarks fiskeribank med de ændringer, der følger af lov nr. 90 af 17. marts 1982 og lov nr. 585 af 19. december 1985.
+Herved bekendtgøres lov om Kongeriget Danmarks Fiskeribank, jf. lovbekendtgørelse nr. 210 af 15. april 1986, med de ændringer, der følger af lov nr. 276 af 8. maj 1991 og lov nr. 380 af 6. juni 1991.
