@@ -1,4 +1,4 @@
-§ 9 a. (* 4) Den, der her til landet sælger afgiftspligtige varer fra andre EF-lande ved fjernsalg, jf. stk. 2, skal registreres efter § 47. Såfremt virksomheden ikke har filial eller lignende her i landet, skal den registreres ved en person, der er bosiddende her i landet, eller ved en virksomhed, der har forretningssted her i landet, og stille fuld sikkerhed for skyldige afgifter.
+§ 9 a. Den, der her til landet sælger afgiftspligtige varer fra andre EF-lande ved fjernsalg, jf. stk. 2, skal registreres efter § 7. Såfremt virksomheden ikke har filial eller lignende her i landet, skal den registreres ved en person, der er bosiddende her i landet, eller ved en virksomhed, der har forretningssted her i landet, og stille fuld sikkerhed for skyldige afgifter.
 
 Stk. 2. Ved fjernsalg forstås salg af varer, hvor varerne direkte eller indirekte forsendes eller transporteres af sælgeren eller på dennes vegne til en privat køber i bestemmelseslandet.
 
