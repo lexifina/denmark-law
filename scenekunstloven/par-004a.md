@@ -2,6 +2,6 @@
 
 Stk. 2. De kunstneriske chefer forestår med ansvar over for teaterchefen den daglige ledelse af henholdsvis skuespil, ballet, opera og kapel.
 
-## Kapitel 3
+Kapitel 3:
 
 Den Jyske Opera og Det Danske Teater

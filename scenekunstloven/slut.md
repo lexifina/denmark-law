@@ -1,10 +1,10 @@
-Kulturministeriet, den 23. september 1999
+Kulturministeriet, den 7. februar 2000
 
 Elsebeth Gerner Nielsen
 
-/Annelise Jensen
+/Paul Mollerup
 
-_) Kapitel 6 får herefter følgende ordlyd:
+Kapitel 6 får herefter følgende ordlyd:
 
 »Det Storkøbenhavnske Teaterfællesskab
 
