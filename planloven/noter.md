@@ -65,3 +65,27 @@ Vedrørende § 5 g, § 6, stk. 1, 2, 3, 5, 6, 7 og 8, § 6 a, stk. 1, § 6 c, st
 Vedrørende § 5 d, stk. 3, § 6, stk. 3, nr. 5, § 6, stk. 8, § 6 b, § 11, stk. 8, nr. 6, § 11 b, § 29 a, § 29 b, § 36, stk. 1, nr. 12 og 13, § 36, stk. 2, § 36, stk. 3 og 4, § 37, stk. 1, § 37, stk. 3 og 4, bekendtgjort i Lovtidende den 7. juni 2002.
 
 Vedrørende § 35, stk. 1, § 35, stk. 4-6, § 35, stk. 7, § 51, stk. 2, § 58, stk. 1, nr. 1, § 60, stk. 2, og § 60, stk. 5, 2. pkt.
+
+Vedrørende § 11, stk. 5, § 11, stk. 8, § 11 d, § 15, stk. 2, § 15, stk. 9, 15 a og § 16, stk. 7.
+
+Vedrørende § 6, stk. 2, § 6, stk. 6, § 11, stk. 2 og § 13, stk. 1.
+
+Vedrørende § 6, stk. 3, nr. 12 og 13.
+
+Vedrørende § 6, stk. 3, nr. 12 og 13.
+
+Vedrørende § 36, stk. 1, nr. 1 og 2.
+
+Vedrørende § 6, stk. 2, § 6, stk. 6, § 11, stk. 2 og § 13, stk. 1.
+
+Vedrørende § 36, stk. 1, nr. 5.
+
+Vedrørende § 5 b, stk. 2 og 3.
+
+Vedrørende § 41, stk. 2, bekendtgjort i Lovtidende den 10. juni 2004.
+
+Vedrørende §10, stk. 1, § 13, stk. 4, § 46 A, § 47 A og § 50, stk. 1, bekendtgjort i Lovtidende den 10. juni 2004.
+
+Vedrørende §10, stk. 1, § 13, stk. 4, § 46 A, § 47 A og § 50, stk. 1.
+
+Vedrørende § 21, stk. 2.
