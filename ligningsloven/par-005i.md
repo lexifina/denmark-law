@@ -1,0 +1,3 @@
+§ 5 I. (* 6) Afskrivninger eller udgifter, som efter skatteyderens valg efter de almindelige regler kan vælges fradraget i det pågældende indkomstår eller i senere indkomstår, skal fradrages ved opgørelsen af den skattepligtige indkomst fra et fast driftssted eller et udenlandsk sambeskattet datterselskab i det omfang, den skattepligtige indkomst overstiger beregningsgrundlaget for den udenlandske skat i det land, hvor det faste driftssted er beliggende eller dattersselskabet er hjemmehørende, omregnet til danske kroner ved udløbet af samme indkomstår.
+
+Stk. 2. Stk. 1 finder tilsvarende anvendelse på faste ejendomme beliggende i en fremmed stat, Færøerne eller Grønland.
