@@ -18,7 +18,9 @@
 
 9) ydelse af kommunale lån til almennyttige boligafdelinger efter reglerne i § 39,
 
-10) optagelse af driftsstøttelån ydet af et realkreditinstitut, såfremt kommunalbestyrelsen har forsynet pantebrevet med en påtegning herom.
+10) optagelse af driftsstøttelån ydet af et realkreditinstitut, såfremt kommunalbestyrelsen har forsynet pantebrevet med en påtegning herom, og
+
+11) optagelse af lån i selskabets administrationsejendomme, såfremt kommunalbestyrelsen har forsynet pantebrevet med en påtegning herom.
 
 Stk. 2. Ved anmeldelse til tinglysning af et pantebrev i en ejendom, der tilhører et almennyttigt boligselskab, skal dokumentet være ledsaget af et samtykke efter stk. 1, medmindre pantebrevet indeholder boligselskabets erklæring om, at betingelserne for udstedelse af pantebrevet uden samtykke er opfyldt, jf. stk. 1. Hvis samtykke eller erklæring ikke foreligger, sætter dommeren i overensstemmelse med reglerne i tinglysningsloven en frist til fremskaffelse af samtykket eller erklæringen.
 

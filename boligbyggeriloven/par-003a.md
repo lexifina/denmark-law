@@ -1,4 +1,4 @@
-§ 3 a. Afhændelse af en ejendom, der tilhøreret almennyttigt boligselskab, kan kun ske med boligministerens samtykke, når
+§ 3 a. Afhændelse af en ejendom, der tilhører et almennyttigt boligselskab, kan kun ske med boligministerens samtykke, når
 
 1) ejendommen omfatter boliger, medmindre afhændelse sker inden for samme selskab eller til et andet almennyttigt boligselskab, eller
 
