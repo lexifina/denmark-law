@@ -1,0 +1,9 @@
+GIVET PÅ CHRISTIANSBORG SLOT, DEN 9. JUNI 1982
+
+Under Vor Kongelige Hånd og Segl
+
+MARGRETHE R.
+
+/SVEND AUKEN
+
+Ingen
