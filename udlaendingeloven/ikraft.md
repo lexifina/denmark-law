@@ -28,7 +28,7 @@ Lov nr. 385 af 20. maj 1992 indeholder følgende bestemmelse:
 
 Stk. 1. Loven træder i kraft den 1. oktober 1992.
 
-Stk. 2. (udeladt)
+Stk. 2. (Udeladt)
 
 Stk. 3. Lovens § 1, nr. 1 og 3-37, og §§ 2-4 har virkning for sager, hvori der ved lovens ikrafttræden ikke er rejst tiltale i 1. instans.
 
@@ -40,14 +40,6 @@ Stk. 1. Loven træder i kraft dagen efter bekendtgørelsen i Lovtidende.
 
 Stk. 2. § 1, nr. 2-5, og § 2 finder dog ikke anvendelse for udlændinge, der inden lovens vedtagelse har ansøgt om opholdstilladelse eller lovligt har taget bopæl her i landet efter de hidtidige regler.
 
-Lov nr. 464 af 30. juni 1993 indeholder følgende bestemmelse:
-
-§ 4
-
-Stk. 1. Loven træder i kraft den 1. august 1993.
-
-Stk. 2. Indenrigsministeriet fremsætter forslag for Folketinget til revision af loven inden udgangen af folketingsåret 1997-98.
-
 Lov nr. 421 af 1. juni 1994 indeholder følgende bestemmelse:
 
 § 3
@@ -56,7 +48,7 @@ Stk. 1. Loven træder i kraft den 1. juli 1994.
 
 Stk. 2. Lovens § 1, nr. 14, finder ikke anvendelse på sager, hvor der forinden ikrafttrædelsen er truffet bestemmelse om sagens berammelse i Flygtningenævnet.
 
-Lov nr. 382 af 14. juni 1995 indeholder følgende bestemmelser:
+Lov nr. 382 af 14. juni 1995 indeholder følgende bestemmelse:
 
 § 3
 
@@ -69,10 +61,6 @@ Stk. 3. Indenrigsministeren fastsætter tidspunktet for ikrafttræden af § 1, n
 Stk. 4. § 1, nr. 17, 19 og 20, gælder ikke for sager, hvor der inden disse bestemmelsers ikrafttræden er truffet bestemmelse om sagens berammelse i Flygtningenævnet.
 
 Stk. 5. § 1, nr. 1 og 2, finder ikke anvendelse for udlændinge, der inden disses bestemmelsers ikrafttræden har indgivet ansøgning om opholdstilladelse.
-
-§ 4
-
-(Ophævet)
 
 Lov nr. 290 af 24. april 1996 indeholder følgende bestemmelse:
 
@@ -150,12 +138,6 @@ Stk. 2. Udlændingelovens § 25 a, stk. 1, nr. 1, § 35, stk. 2, og § 36, stk. 
 
 Stk. 3. Udlændingelovens § 36, stk. 4, som affattet ved denne lovs § 1, nr. 5, finder ikke anvendelse for udlændinge, der inden lovens ikrafttræden har indgivet ansøgning om opholdstilladelse efter udlændingelovens § 7.
 
-Lov nr. 134 af 20. marts 2002 indeholder følgende bestemmelse:
-
-§ 2
-
-§ 1, nr. 1, 2, 5 og 6, træder i kraft dagen efter bekendtgørelsen i Lovtidende. § 1, nr. 3, 4, 7 og 8, træder i kraft den 2. december 2002, medmindre ministeren for flygtninge, indvandrere og integration træffer bestemmelse om en tidligere ikrafttræden.
-
 Lov nr. 362 af 6. juni 2002 indeholder følgende bestemmelse:
 
 § 2
@@ -185,3 +167,31 @@ Lov nr. 367 af 6. juni 2002 indeholder følgende bestemmelse:
 Stk. 1. § 1, nr. 1-5, træder i kraft dagen efter bekendtgørelsen i Lovtidende. Tidspunktet for ikrafttræden af § 1, nr. 6, fastsættes af ministeren for flygtninge, indvandrere og integration.
 
 Stk. 2. Udlændingelovens § 33, stk. 1, 2. pkt., og stk. 3, 3. pkt., som henholdsvis ændret og indsat ved denne lovs § 1, nr. 3 og 4, finder alene anvendelse, såfremt det forhold, der begrunder udvisningen, er begået efter lovens ikrafttræden. Såfremt det forhold, der begrunder udvisningen, er begået før lovens ikrafttræden, finder de hidtil gældende regler fortsat anvendelse.
+
+Lov nr. 1044 af 17. december 2002 indeholder følgende bestemmelse:
+
+§ 6
+
+Stk. 1. Loven træder i kraft dagen efter bekendtgørelsen i Lovtidende.
+
+Stk. 2. Loven finder ikke anvendelse for personer, der inden lovens ikrafttræden har indgivet ansøgning om opholdstilladelse efter udlændingelovens § 7.
+
+Lov nr. 60 af 29. januar 2003 indeholder følgende bestemmelse:
+
+§ 3
+
+Stk. 1. Loven træder i kraft den 1. april 2003.
+
+Stk. 2. Loven finder ikke anvendelse for udlændinge, der inden den 1. april 2003 er meddelt opholdstilladelse eller er registreret som asylansøgere efter udlændingelovens § 48 e, stk. 1.
+
+Lov nr. 425 af den 10. juni 2003 indeholder følgende bestemmelse:
+
+§ 4
+
+Stk. 1. (Udeladt)
+
+Stk. 2. § 2 træder i kraft dagen efter bekendtgørelsen i Lovtidende.
+
+Stk. 3-4. (Udeladt)
+
+Stk. 5. Udlændingelovens § 11 og § 11 a, stk. 2 og 4, som ændret ved denne lovs § 2, nr. 3-12, finder ikke anvendelse for udlændinge, der inden den 28. februar 2002 har indgivet ansøgning om eller er meddelt opholdstilladelse. For sådanne udlændinge finder de regler, der var gældende indtil den 1. juli 2002, jf. lovbekendtgørelse nr. 711 af 1. august 2001, anvendelse.
