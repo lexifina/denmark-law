@@ -1,4 +1,4 @@
-§ 6 a. Regionplanmyndigheden skal ved revisionen af regionplanen, jf. § 22, stk. 1, tilvejebringe regionale retningslinjer for kystnærhedszonen i overensstemmelse med bestemmelserne i §§ 5a, stk. 1, og 5 b.
+§ 6 a. Regionplanmyndigheden skal ved revisionen af regionplanen henholdsvis region- og kommuneplanen for Bornholm, jf. § 22, stk. 1, tilvejebringe regionale retningslinjer for kystnærhedszonen i overensstemmelse med bestemmelserne i §§ 5a, stk. 1, og 5 b.
 
 Stk. 2. Regionplanmyndigheden skal i forbindelse hermed gennemgå de allerede godkendte eller vedtagne, uudnyttede arealreservationer i kystnærhedszonen og ophæve de reservationer, der ikke er aktuelle.
 

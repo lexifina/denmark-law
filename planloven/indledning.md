@@ -1,7 +1,3 @@
 Bekendtgørelse af lov om planlægning
 
-Herved bekendtgøres lov om planlægning, jf. lovbekendtgørelse nr. 551 af 28. juni 1999, med de ændringer, der følger af § 8 i lov nr. 355 af 2. juni 1999 om ændring af forskellige love som følge af oprettelsen af Hovedstadens Udviklingsråd som ændret ved lov nr. 110 af 15. februar 2000, lov nr. 1106 af 29. december 1999 om ændring af lov om ændring af lov om planlægning, lov nr. 110 af 15. februar 2000 om ændring af lov om planlægning og lov om ændring af forskellige love som følge af oprettelsen af Hovedstadens Udviklingsråd samt § 5 i lov nr. 447 af 31. maj 2000 om ændring af visse miljølove. Den bekendtgjorte lovtekst gælder først fuldt ud fra den 15. september 2000, jf. § 14 i lov nr. 447 af 31. maj 2000, der gengives i bekendtgørelsens slutning.
-
-## Kapitel 1
-
-Formål
+Herved bekendtgøres lov om planlægning, jf. lovbekendtgørelse nr. 518 af 11. juni 2000, med de ændringer, der følger af § 1 i lov nr. 477 af 7. juni 2001 om ændring af lov om planlægning og jordkøbsloven, § 3 i lov nr. 480 af 7. juni 2001 om ændring af lov om bygningsfredning og bevaring af bygninger og bymiljøer, lov om regionale faglige kulturmiljøråd, lov om planlægning og lov om påligningen af indkomstskat til staten, § 32 i lov nr. 145 af 25. marts 2002 om ændring af forskellige love som følge af sammenlægningen af de bornholmske kommuner og lov nr. 383 af 6. juni 2002 om ændring af lov om planlægning og lov om Hovedstadens Udviklingsråd. Den bekendtgjorte lovtekst gælder først fuldt ud fra den 1. januar 2003, jf. § 78 i lov nr. 145 af 25. marts 2002 og § 3 i lov nr. 383 af 6. juni 2002, der gengives i bekendtgørelsens slutning.
