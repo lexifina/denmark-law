@@ -1,7 +1,5 @@
-Givet i Værløse, den 14. maj 1998
+Arbejdsministeriet, den 29. januar 2001
 
-Under Vor Kongelige Hånd og Segl
+Ove Hygum
 
-MARGRETHE R.
-
-/ Ove Hygum
+/Jørgen Eckeroth
