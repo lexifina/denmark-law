@@ -1,9 +1,5 @@
-Givet på Christiansborg Slot, den 12. juni 1996
+Ministeriet for Videnskab, Teknologi og Udvikling, den 10. juli 2003
 
-Under Vor Kongelige Hånd og Segl
+Helge Sander
 
-MARGRETHE R.
-
-/Frank Jensen
-
-(* 1) Loven indeholder bestemmelser, der gennemfører Europa Parlamentets og Rådets Direktiv 95/47/EF, EFT nr. L 281 af 23.11.1995 s. 51.
+/Sune Rahn
