@@ -43,3 +43,21 @@ Stk. 3-4. (udeladt).
 Museumslov, lov nr. 473 af 7. juni 2001, som ændrer §§ 14, 65, 78 og 89 og indsætter ny § 14 a, indeholder følgende ikrafttrædelsesbestemmelse:
 
 § 41. Loven træder i kraft den 1. januar 2002. Samtidig ophæves lov om museer m.v., jf. lovbekendtgørelse nr. 739 af 17. juli 2000. Lovens § 27, stk. 4-7, har virkning fra den 1. januar 2003. Indtil den 1. januar 2003 opretholdes de hidtidige finansieringsprincipper for den arkæologiske undersøgelsesvirksomhed, jf. § 26, stk. 3, i lov om museer m.v., jf. lovbekendtgørelse nr. 739 af 17. juli 2000.
+
+Lov nr. 145 af 25. marts 2002 om ændring af forskellige love som følge af sammenlægningen af de bornholmske kommuner, som ændrer §§ 35, 46, 49 og 77, indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 78. Loven træder i kraft den 1, januar 2003, (2. led udeladt).
+
+Stk. 2. (udeladt).
+
+Lov nr. 454 af 9. juni 2004 om ændring af lov om naturbeskyttelse, lov om planlægning, lov om vandløb og museumsloven, der ændrer §§ 3, 4, 5, 6, 7, 8, 12, 13, 14, 14 a, 15, 15 a-d, 18, 21, 22, 23, 24, 25, 26, 36, 37, 38, 39, 41, 43, 45, 50, 52, 53, 60, 60 a, 64, 65, 66, 66 a, 69, 72, 74, 75, 78, 82, 87 og 89, og indsætter nyt kapitel 2 a (§§ 19 a-h), samt indsætter nye §§ 26 a, 37 a, 38 a, 43 a, 69 a og 70 a, indeholder følgende ikrafttrædelsesbestemmelse
+
+§ 5. Loven træder i kraft den 1. oktober 2004.
+
+Stk. 2. § 1, nr. 47 , træder dog først i kraft den 1. august 2006.
+
+Stk. 3. Bekendtgørelser om ikrafttræden af strandbeskyttelses- og klitfredningslinjen og af forskellige bestemmelser i naturbeskyttelsesloven, der er udstedt efter de regler, der er nævnt i § 1, nr. 7 (naturbeskyttelseslovens §§ 15 a-15 d), forbliver i kraft.
+
+Stk. 4. Fredningssager, der verserer for fredningsnævn eller Naturklagenævnet ved lovens ikrafttræden, omfattes af bestemmelserne i § 1, nr. 22 og 33 (naturbeskyttelseslovens § 37 a og § 43 a), således, at fristen regnes fra lovens ikrafttræden.
+
+Stk. 5. (udeladt).
