@@ -1,33 +1,25 @@
-§ 2
+Lov nr. 326 af 4. juni 1986, hvis § 2 ændrer affattelse af § 2 A, indeholder følgende ikrafttrædelsesbestemmelser:
 
-Denne lov træder i kraft den 1. januar 1969.
+§ 3
 
-----------
+Stk. 1. Loven træder i kraft den 1. oktober 1986.
 
-Lov nr. 117 af 29. marts 1978, hvis § 1,
+Stk. 2. (Udeladt).
 
-nr. 1, ændrer affattelsen af § 1, stk. 1,
+Stk. 3. § 2 får virkning for adoptionsbevillinger, der udstedes efter lovens ikrafttræden.
 
-nr. 2, indsætter ny § 2 A,
+Lov nr. 159 af 18. marts 1991, hvis § 1,
 
-nr. 3, ændrer affattelsen af § 5,
+nr. 1, ændrer affattelse af § 3, stk. 1, § 4, § 9 A, stk. 4, og to steder i § 10, stk. 3,
 
-nr. 4, ophæver § 7, nr. 4,
+nr. 2, ændrer affattelse af § 8, stk. 1, 2. pkt.,
 
-nr. 5, indsætter nyt § 9, stk. 2,
+nr. 3, ændrer affattelse af § 9, stk. 1, 1. pkt.,
 
-nr. 6, indsætter ny § 9 A,
+nr. 4, ændrer affattelse af § 12, stk. 1,
 
-nr. 7, ophæver § 10 A, stk. 1,
-
-nr. 8, ændrer affattelsen af § 10 og
-
-nr. 9, ændrer affattelsen af § 11,
-
-indeholder i § 2 følgende bestemmelser:
+indeholder følgende ikrafttrædelsesbestemmelse:
 
 § 2
 
-Stk. 1. Denne lov træder i kraft den 1. januar 1979.
-
-Stk. 2. Et barn, der er født den 1. januar 1961 eller senere, og som ville have erhvervet dansk indfødsret, hvis bestemmelsen i § 1, stk. 1, nr. 1, havde været gældende ved barnets fødsel, erhverver dansk indfødsret ved, at moderen afgiver skriftlig erklæring herom overfor overøvrigheden (i København magistraten) eller anden af indenrigsministeren bestemt myndighed. Erhvervelsen kan dog kun finde sted, hvis moderen på tidspunktet for erklæringens afgivelse er dansk statsborger, og barnet på dette tidspunkt er under 18 år; indtil den 30. juni 1979 kan dog sådan erklæring afgives, uanset at barnet på erklæringens tidspunkt er fyldt 18 år. Et barn, der på erklæringens tidspunkt er fyldt 15 år, skal tiltræde erklæringen. Endelig kan sådan erklæring ikke gyldigt afgives efter den 31. december 1981.
+Loven træder i kraft ugedagen efter dens stadfæstelse.
