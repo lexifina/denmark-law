@@ -1,5 +1,5 @@
-Ministeriet for Fødevarer, Landbrug og Fiskeri, den 3. november 1999
+Ministeriet for Fødevarer, Landbrug og Fiskeri, den 8. maj 2002
 
-Henrik Dam Kristensen
+Mariann Fischer Boel
 
 /Peter Anthonisen
