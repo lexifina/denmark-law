@@ -1,6 +1,6 @@
-Lov om afgift af dødsboer og gaver
+Bekendtgørelse af lov om afgift af dødsboer og gaver (boafgiftsloven)(* 1)
 
-VI MARGRETHE DEN ANDEN, af Guds Nåde Danmarks Dronning, gør vitterligt: Folketinget har vedtaget og Vi ved Vort samtykke stadfæstet følgende lov:
+Herved bekendtgøres lov om afgift af dødsboer og gaver, jf. lov nr. 426 af 14. juni 1995, med de ændringer, der følger af lov nr. 1222 af 27. december 1996.
 
 ## Afsnit I
 
