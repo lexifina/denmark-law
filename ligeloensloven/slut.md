@@ -1,7 +1,5 @@
-Arbejdsministeriet, den 17. juli 1992
+Arbejdsministeriet, den 27. september 2000
 
-Knud Erik Kirkegaard
+Ove Hygum
 
-/ A. Toft
-
-Ingen
+/E. Edelberg
