@@ -1,0 +1,23 @@
+§ 33 A. (* 29) Hvis arvinger, ægtefælle eller legatarer efter § 33, stk. 1, indtræder i boets skattemæssige stilling med hensyn til aktiver, der er udlagt til dem, skal der tages hensyn hertil ved bodelingen og arveafgiftsberegningen. I disse tilfælde skal der i tilknytning til aktiverne i den endelige boopgørelse optages passivposter til udligning af arvingens, ægtefællens eller legatarens eventuelle fremtidige skattetilsvar vedrørende disse aktiver.
+
+Ved udlæg af aktier efter § 10, stk. 3, i lov om beskatning af fortjeneste ved afståelse af aktier m.v. kan passivposter dog kun optages, såfremt afdøde på dødstidspunktet ejede mindst 25 pct. eller rådede over mere end 50 pct. af stemmeværdien af aktiekapitalen eller udlægsmodtageren i øvrigt efter udlægget er omfattet af lovens § 4.
+
+Stk. 2. (* 29) Størrelsen af disse passivposter beregnes af skattemyndigheden efter anmodning fra boet som 30 pct. af den skattepligtige fortjeneste, som ville være fremkommet, hvis boet havde solgt aktivet på skæringsdagen i den endelige boopgørelse eller på udlægstidspunktet, hvis dette ligger forud for skæringsdagen, og til den værdi, hvortil aktivet er opført i den endelige boopgørelse, jfr. dog § 16, stk. 4. Hvis fortjenesten skulle medregnes ved opgørelsen af den særlige indkomst, udgør passivposten dog kun 25 pct. af fortjenesten. Arvingerne og ægtefællen kan fastsætte en passivpost til en lavere procent end angivet i 1. eller 2. pkt., hvis de er enige herom. Er passivposten knyttet til et aktiv, der skal udlægges til en legatar, skal også denne tiltræde nedsættelsen. Ved beregningen ses der bort fra fradrag efter § 7, stk. 2 og 3, i lov om beskatning af fortjeneste ved afståelse af aktier m.v. Ministeren for skatter og afgifter fastsætter regler om boers tilvejebringelse af oplysninger til brug ved beregningen af passivposterne.
+
+Stk. 3. De omstændigheder med hensyn til anskaffelsestid, anskaffelsessum og regulering af denne samt med hensyn til spørgsmålet, om aktivet er anskaffet i spekulationshensigt eller som led i afdødes eller den længstlevende ægtefælles næringsvej, der lægges til grund for skattemyndighedens beregning efter stk. 2, anses for bindende fastslået også med henblik på arvingens, ægtefællens eller legatarens senere afskrivning på aktivet og med henblik på beskatning ved hans senere salg af aktivet.
+
+Stk. 4. Et dødsbo kan under skiftebehandlingen indhente forhåndsbesked fra skattemyndigheden om de i stk. 3 nævnte omstændigheder. Boet kan endvidere indhente forhåndsbesked om, hvorvidt faste ejendomme, der tilhører boet, før dødsfaldet kunne være solgt skattefrit efter lov om beskatning af fortjeneste ved afståelse af fast ejendom.
+
+Stk. 5. Skønner skattemyndigheden, at der ikke er tilvejebragt oplysninger, der gør det muligt at give en forsvarlig forhåndsbesked, anmoder den boet om at indsende de manglende oplysninger inden en frist på mindst 14 dage. Indsendes oplysningerne ikke rettidigt, kan skattemyndigheden afslå anmodningen om forhåndsbesked eller begrænse forhåndsbeskeden til forhold, der skønnes tilstrækkeligt oplyst.
+
+Stk. 6. En forhåndsbesked skal lægges til grund ved boets skatteansættelser, ved beregningen af passivposter efter stk. 2, ved skatteansættelsen af den, der har fået aktivet udlagt og er indtrådt i boets skattemæssige stilling efter § 33, stk. 1, samt ved skatteansættelsen af en ægtefælle, der har fået boet udleveret til hensidden i uskiftet bo.
+
+Stk. 7. For behandlingen af en anmodning om forhåndsbesked betaler boet en afgift på 200 kr., der tilfalder statskassen. Afgiften forfalder til betaling, når anmodningen indgives til skattemyndigheden. Ministeren for skatter og afgifter giver regler om fremgangsmåden ved afgiftens indbetaling.
+
+Stk. 8. En af skattemyndigheden meddelt forhåndsbesked kan kun ændres, hvis den påklages efter reglerne i skattestyrelsesloven.
+
+Stk. 9. Skattemyndighedens beregning af passivposter efter stk. 2 er bindende for boet og lodtagerne i dette, medmindre den påklages efter reglerne i skattestyrelsesloven. Skattemyndigheden kan ændre beregningen, indtil værdiansættelsen af det pågældende aktiv er blevet endelig efter § 16, stk. 4.
+
+Stk. 10. (* 30) Udlægsmodtagernes afskrivningsgrundlag pristalsreguleres ikke i det indkomstår, hvor udlægget finder sted.
+
+§ 33B. Hvis et aktiv er erhvervet ved arv fra et dødsbo, der ikke er omfattet af denne lov, benyttes den værdi, der er lagt til grund ved beregningen af arveafgift af erhvervelsen, som anskaffelsessum ved foretagelsen af skattemæssige afskrivninger eller nedskrivninger og ved beregningen af fortjeneste eller tab ved senere salg. Har erhvervelsen ikke været afgiftspligtig, anvendes aktivets værdi i handel og vandel på erhvervelsestidspunktet som anskaffelsessum.
