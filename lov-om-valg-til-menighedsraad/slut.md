@@ -1,7 +1,7 @@
-Kirkeministeriet, den 12. februar 1988
+Kirkeministeriet, den 25. juni 1992
 
-METTE MADSEN
+Torben Rechendorff
 
-/Asger Jørgensen
+/ Finn Langager Larsen
 
 Ingen
