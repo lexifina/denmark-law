@@ -1,4 +1,4 @@
-§ 16 A. (* 16) Ved opgørelsen af den skattepligtige almindelige indkomst medregnes udbytte af aktier, andelsbeviser og lignende værdipapirer. Til udbytte henregnes alt, hvad der af selskabet udloddes til aktionærer eller andelshavere, med undtagelse af friaktier og friandele samt udlodning af likvidationsprovenu foretaget i det kalenderår, hvori selskabet endeligt opløses.
+§ 16 A. Ved opgørelsen af den skattepligtige almindelige indkomst medregnes udbytte af aktier, andelsbeviser og lignende værdipapirer. Til udbytte henregnes alt, hvad der af selskabet udloddes til aktionærer eller andelshavere, med undtagelse af friaktier og friandele samt udlodning af likvidationsprovenu foretaget i det kalenderår, hvori selskabet endeligt opløses.
 
 Stk. 2. Skatteministeren kan tillade, at beløb, der udloddes i forbindelse med en nedsættelse af aktiekapitalen eller andelskapitalen i et selskab, der ikke er under likvidation, fritages for beskatning efter reglerne i stk. 1. Fortjeneste eller tab ved den pågældende udlodning behandles i så fald efter de almindelige regler om beskatning af fortjeneste eller tab ved afståelse af aktier m.v.
 
