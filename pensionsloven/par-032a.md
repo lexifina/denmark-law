@@ -24,6 +24,8 @@ Stk. 3. I indtægtsgrundlaget efter stk. 1 og 2 foretages følgende fradrag:
 
 4) Fradrag for sygedagpenge, arbejdsløshedsdagpenge, ledighedsydelse og kontanthjælp, der er udbetalt for samme periode, hvori der foretages efterbetaling af pension, jf. § 32 d, stk. 1.
 
+5) Fradrag for engangsbeløb efter § 15 d, stk. 4.
+
 Stk. 4. For en pensionist, der er gift eller samlevende med en person, som ikke modtager social pension, nedsættes ægtefællens eller samleverens indtægter, der indgår i indtægtsgrundlaget, med et fradragsbeløb, jf. § 49, stk. 1, nr. 9.
 
 Stk. 5. Ægtefællens eller samleverens indtægt opgjort efter stk. 1-4 kan højst udgøre et fastsat beløb, jf. § 49, stk. 1, nr. 11.
