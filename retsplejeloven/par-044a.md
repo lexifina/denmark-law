@@ -4,13 +4,7 @@ Stk. 2. Når det af de grunde, der er nævnt i stk. 1, skønnes nødvendigt, er 
 
 Stk. 3. Bortset fra tilfælde af forfald på grund af sygdom kan en stilling ikke holdes midlertidigt besat i mere end ét år.
 
-Stk. 4. Hvis den midlertidige beskikkelse skyldes, at dommeren udfører et andet offentligt hverv, kan etårsfristen dog forlænges i op til et år ad gangen på betingelse af,
-
-1) at ganske særlige grunde taler for det,
-
-2) at samtykke gives af præsidenten (den administrerende dommer) for vedkommende ret eller for retspræsidenters, administrerende dommeres og enkeltdommeres vedkommende af præsidenten for den nærmeste overordnede ret, og
-
-3) at en fast ansat dommer midlertidigt beskikkes i den pågældende stilling.
+Stk. 4. Etårsfristen kan dog forlænges i op til et år ad gangen, hvis ganske særlige grunde taler for det, og hvis samtykke gives af præsidenten (den administrerende dommer) for vedkommende ret eller for retspræsidenters, administrerende dommeres og enkeltdommeres vedkommende af præsidenten for den nærmeste overordnede ret.
 
 Stk. 5. Forlængelser af etårsfristen kan dog højst ske for en samlet periode på 3 år.
 
