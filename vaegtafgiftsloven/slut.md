@@ -1,21 +1,19 @@
-Skatteministeriet, den 3. april 1998
+Skatteministeriet, den 12. august 1999
 
 Ole Stavad
 
 /K. Aasberg Karlsen
 
-(* 1) Bekendtgørelse nr. 826 af 5. november 1997 (ændring af afgiftssatserne i § 4a, stk. 1, afsnit A og B) trådte i kraft den 15. november 1997. Afgiftsændringerne får virkning for det enkelte køretøj fra og med den første afgiftsperiode, der begynder den 1. januar 1998 eller senere.
+§ 16 er ændret ved lov nr. 980 af 17. december 1997, der trådte i kraft 1. juli 1998.
 
-(* 2) Lov nr. 1213 af 27. december 1996 (Udvidet brug af mandskabsvogne, plejehjemsbusser, elbiler) (ændring af § 4, stk. 3 og 6, og § 23, stk. 4) trådte i kraft den 1. januar 1997.
+Indsættelse af § 2, stk. 1, 2. pkt., stk. 2-4, ændring af § 4, stk. 1, II, A (ændret ved note 7), stk. 2, nyt stk. 4, og ændring af stk. 10, § 4 a, stk. 1, 3. pkt., § 6, stk. 2 og 5, indsættelse af § 9, stk. 1, 2. pkt., og § 11, stk. 2, ændring af § 15, stk. 1 og stk. 3, 1. pkt., ændring af § 16, § 20, § 21, § 23, stk. 1 og stk. 2, nr. 1-2, og nyt stk. 3, samt indsættelse af § 23 a, er foretaget ved lov nr. 421 af 26. juni 1998, der trådte i kraft den 28 juni 1998.
 
-(* 3) Lov nr. 361 af 2. juni 1997 (Omlægning af fradraget for sikkerhedspuder, pristalsregulering m.v.) (ændring af § 1 og indsættelse af § 3, stk. 3 og 4) trådte i kraft den 4. juni 1997.
+§ 6, stk. 5, 3. pkt., er ændret ved lov nr. 484 af 1. juli 1998, der trådte i kraft den 1. juli 1998.
 
-(* 4) Lov nr. 363 af 2. juni 1997 (Omlægning af varebilbeskatningen m.v.) (indsættelse af 2. pkt i § 2, stk. 1, indførelse af tillægsafgift for privat anvendelse i § 4, stk. 1, II A, indsættelse af nye stykker 2-3 i § 4, ændring af § 6, stk. 2 § 15, stk. 1 og 3, indsættelse af § 15 a, ændring af § 16 og § 23, stk. 2, nr. 5 og nyt nr. 6), trådte i kraft den 4. juni 1997, § 4, stk. 4, trådte i kraft den 1. januar 1998. Tillægsafgiften ophævet senere, jf. note 8.
+§ 3, stk. 1, afsnit A, og § 4, stk. 1, II, afsnit A, er ændret ved bekendtgørelse nr. 971 af 16. december 1998, der trådte i kraft den 29. december 1998 (ændret ved note 7).
 
-(* 5) Bekendtgørelse nr. 992 af 15. december 1997 (ændring af afgiftssatserne i § 3, stk. 1, afsnit A og § 4, stk. 1, II A) trådte i kraft den 31. december 1997. Afgiftssatserne har virkning for det enkelte køretøj fra og med den første afgiftsperiode, der begynder den 1. januar 1998 eller senere.
+§ 4 a, stk. 4, er ændret ved lov nr. 1056 af 23. december 1998, der trådte i kraft den 1. januar 1999.
 
-(* 6) Lov nr. 979 af 17. december 1997 (ophævelse af § 2, stk. 3, ændring af § 4, stk. 4, og § 4a, stk. 1) trådte i kraft den 19. december 1997. Bestemmelsen i § 4a, stk. 1, har virkning for det enkelte køretøj fra og med den første afgiftsperiode, der begynder den 1. januar 1998 eller senere.
+§ 3, stk. 1 A-D (ændret ved note 7) og stk. 3, § 4, stk. 1, II (ændret ved note 7), og stk. 2, er ændret ved lov nr. 325 af 28. maj 1999, der trådte i kraft den 1. juni 1999.
 
-(* 7) Lov nr. 980 af 17. december 1997 (ændring af § 16 - lov om social bistand til lov om social service) træder i kraft den 1. juli 1998.
-
-(* 8) Lov nr. 81 af 9. februar 1998 (Ophævelse af tillægsafgift for privat anvendelse) (ophævelse af § 2, stk. 1, 2. pkt., ændring af § 4, stk. 1, II, A, § 6, stk. 2, § 15, stk. 1, og ophævelse af stk. 3, 2. pkt., ophævelse af § 15a, ændring af § 16, § 23, stk. 2, nr. 5, og ophævelse af nr. 6) trådte i kraft den 11. februar 1998. Loven har virkning fra og med den 1. januar 1998.
+§ 3, stk. 1, A-D, og § 4, stk. 1, II, er ændret ved bekendtgørelse nr. 331 af 28. maj 1999, der trådte i kraft den 1. juni 1999. Afgiftssatserne har virkning for det enkelte køretøj fra og med den første afgiftsperiode, der begynder den 1. juni 1999 eller senere.
