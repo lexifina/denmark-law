@@ -1,4 +1,4 @@
-Boligministeriet, den 20. august 1993
+Boligministeriet, den 7. juni 1994
 
 Flemming Kofod-Svendsen
 
@@ -6,4 +6,4 @@ Flemming Kofod-Svendsen
 
 Bilag
 
-Uddrag af bekendtgørelse nr. 432 af 13. juli 1982 af lov om boligbyggeri(*)
+Uddrag af bekendtgørelse nr. 432 af 13. juli 1982 af lov om boligbyggeri (* 8)

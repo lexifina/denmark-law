@@ -1,6 +1,6 @@
 § 86 a. Kommunalbestyrelsen kan på statens vegne give tilsagn om ydelsesstøtte og garanti til boliger til kollektive bofællesskaber som omhandlet i stk. 3. Støtten kan gives til opførelse eller til erhvervelse og efterfølgende ombygning af eksisterende ejendomme, der anvendes til andet end beboelse. Der kan ikke ydes støtte til bofællesskaber, der etableres i tidligere institutioner efter bistandsloven.
 
-Stk. 2. Støtte i medfør af stk. 1 kan gives til indtil 500 boenheder årligt i hvert af finansårene 1994-96. Fordelingen af bofællesskaberne til kommunerne foretages af boligministeren.
+Stk. 2. Støtte i medfør af stk. 1 kan gives til indtil 500 boenheder årligt i hvert af finansårene 1994-96. Fordelingen af bofællesskaberne til kommunerne foretages af boligministeren. Meddeles der i et af årene 1994 eller 1995 ikke tilsagn om statstøtte til det i første punktum anførte antal boenheder, kan den del af det resterende antal, hvortil boligministeren efter den 30. juni i det pågældende år har reserveret en kvote, overføres til det følgende finansår.
 
 Stk. 3. Støtte kan gives til:
 

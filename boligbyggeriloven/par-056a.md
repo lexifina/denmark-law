@@ -16,4 +16,6 @@ Stk. 4. Efter en omprioritering overføres statsgarantien, den kommunale garanti
 
 Stk. 5. Ved omprioritering, der ikke pålægges af boligministeren, finder bestemmelserne i stk. 2-4 tilsvarende anvendelse.
 
-Stk. 6. Boligministeren kan fastsætte nærmere regler om de forhold, der er nævnt i stk. 1-5, herunder om bemyndigelse til Kongeriget Danmarks Hypotekbank og Finansforvaltning til at forestå en påbudt omprioritering.
+Stk. 6. Stk. 2 og 4, 1. og 2. pkt., finder tilsvarende anvendelse på konvertering af lån ydet i henhold til tidligere love om boligbyggeri, og hvor rentesikringen er aftrappet, eller hvor der alene er ydet garanti.
+
+Stk. 7. Boligministeren kan fastsætte nærmere regler om de forhold, der er nævnt i stk. 1-6, herunder om bemyndigelse til Kongeriget Danmarks Hypotekbank og Finansforvaltning til at forestå en påbudt omprioritering.
