@@ -7,3 +7,5 @@ Stk. 2. Vilkår eller påbud kan bl.a. bestå i, at de deltagende virksomheder s
 2) indrømme tredjepartsadgang eller
 
 3) foretage andre foranstaltninger, som kan fremme en effektiv konkurrence.
+
+Stk. 3. Efter godkendelsen af en fusion kan Konkurrencerådet udstede påbud, der er nødvendige for at sikre en rettidig og korrekt opfyldelse af de tilsagn, som de deltagende virksomheder har afgivet over for rådet, jf. stk. 1.

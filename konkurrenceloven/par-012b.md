@@ -1,4 +1,4 @@
-§ 12 b. En fusion, der er omfattet af denne lov, skal anmeldes til Konkurrencestyrelsen senest en uge efter aftalens indgåelse, offentliggørelse af overtagelses- eller ombytningstilbudet eller erhvervelsen af kontrol. Den første af disse begivenheder vil være afgørende for beregning af fristen efter 1. pkt.
+§ 12 b. En fusion, der er omfattet af denne lov, skal anmeldes til Konkurrencestyrelsen, efter at en fusionsaftale er indgået, et overtagelsestilbud offentliggjort eller en kontrollerende andel erhvervet, og før den gennemføres.
 
 Stk. 2. Konkurrencestyrelsen kan offentliggøre, at der er anmeldt en fusion. Offentliggørelsen omfatter navnene på deltagerne i fusionen, fusionens art og de berørte økonomiske sektorer.
 

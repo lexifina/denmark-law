@@ -1,5 +1,11 @@
-§ 23 a. Konkurrencerådet påser overholdelsen af bestemmelserne i EF-traktatens artikel 81 og artikel 82 som national kompetent myndighed i henhold til forordninger og direktiver udstedt i medfør af traktatens artikel 83 og i henhold til traktatens artikel 84. Ved udøvelse af denne kompetence som national kompetent konkurrencemyndighed anvendes EF-traktatens artikel 81, stk. 1, og artikel 82 direkte på aftaler m.v., henholdsvis misbrug af dominerende stilling, som påvirker samhandelen mellem medlemsstaterne.
+## Kapitel 9
 
-Stk. 2. Bestemmelserne i denne lovs kapitel 2, 3, 5, 6, 7 og 8 finder i øvrigt anvendelse på udøvelse af Konkurrencerådets kompetence, jf. stk. 1, i det omfang forordninger og direktiver udstedt i medfør af EF-traktatens artikel 83 ikke er til hinder herfor.
+## EU-Konkurrencereglerne
 
-Stk. 3. Konkurrencestyrelsen underretter Europa-Kommissionen, inden der træffes afgørelse efter stk. 1.
+§ 23 a. Sager efter EF-traktatens artikel 81 og 82, herunder sager, hvor der sker parallel anvendelse af denne lovs §§ 6 og 11, kan behandles af de nationale konkurrencemyndigheder, når sagen har tilknytning til Danmark. Tilknytning til Danmark foreligger, når aftaler mellem virksomheder, vedtagelser inden for en sammenslutning, samordnet praksis mellem virksomheder eller en virksomheds adfærd har skadelige virkninger på konkurrencen på det danske marked, eller når en virksomhed, der er beliggende i Danmark, er involveret i en aftale m.v., der har skadelige virkninger på konkurrencen inden for Den Europæiske Union.
+
+Stk. 2. Bestemmelserne i denne lovs kapitel 5-8 finder i øvrigt anvendelse på udøvelse af Konkurrencerådets kompetence, jf. stk. 1, i det omfang forordninger og direktiver udstedt i medfør af EF-traktatens artikel 83 ikke er til hinder herfor.
+
+Stk. 3. Den bistand, som ydes Europa-Kommissionen og andre medlemsstater i henhold til forordninger og direktiver udstedt i medfør af traktatens artikel 83, ydes af Konkurrencestyrelsen.
+
+§§ 24-26. Ophævet.
