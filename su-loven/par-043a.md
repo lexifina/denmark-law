@@ -1,0 +1,3 @@
+§ 43 a. Undervisningsministeren kan fastsætte regler om elektronisk kommunikation mellem den uddannelsessøgende eller låntageren og uddannelsesinstitutionen, styrelsen eller efter forhandling med finansministeren Finansstyrelsen. Undervisningsministeren kan herunder fastsætte regler om anvendelse af digital signatur eller anden sikker personidentifikation bl.a. i forbindelse med ansøgninger om uddannelsesstøtte, lånedokumenter og ved afgivelse af oplysninger, jf. § 39, stk. 6, nr. 2, 3 og 6.
+
+Stk. 2. Undervisningsministeren kan fastsætte regler om elektronisk kommunikation mellem uddannelsesinstitutionerne og styrelsen, herunder om anvendelse af digital signatur eller anden sikker identifikation bl.a. i forbindelse med aflevering af oplysninger efter § 43, stk. 2.
