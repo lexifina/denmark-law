@@ -9,7 +9,3 @@ Stk. 4. Aktier i det modtagende selskab, som det indskydende selskab modtager i 
 Stk. 5. I forbindelse med indgivelse af selvangivelse for det indkomstår, hvori tilførslen sker, indsender det indskydende selskab en opgørelse af anskaffelsessummen for aktierne i det modtagende selskab opgjort efter stk. 4. Den skatteansættende myndighed foretager en ansættelse af anskaffelsessummen.
 
 Stk. 6. Udgør den skattemæssige anskaffelsessum for aktierne eller anparterne efter stk. 4 et negativt beløb, medregnes det negative beløb ved opgørelsen af den skattepligtige fortjeneste eller tab ved afståelse af disse. Afstås aktierne eller anparterne til det selskab, der har udstedt disse, jf. ligningslovens § 16 B, og finder aktieavancebeskatningslovens regler om opgørelse af fortjeneste og tab ikke anvendelse, medregnes en eventuel afståelsessum samt en til den afståede del af aktie- eller anpartskapitalen svarende del af det negative beløb i det indskydende selskabs skattepligtige indkomst. Nedsættes aktie- eller anpartskapitalen, jf. ligningslovens § 16 A, og finder aktieavancebeskatningslovens regler om opgørelse af fortjeneste og tab ikke anvendelse, medregnes en eventuel udlodning samt en til nedsættelsen af aktie- eller anpartskapitalen svarende del af det negative beløb på samme måde i det indskydende selskabs skattepligtige indkomst.
-
-## Kapitel 6
-
-Andre bestemmelser

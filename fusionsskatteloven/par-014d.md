@@ -4,7 +4,7 @@ Stk. 2. Det er en betingelse for anvendelsen af reglerne, at foreningens aktiver
 
 Stk. 3. § 5, § 6, stk. 1, § 6, stk. 3-4, § 6, stk. 6, § 7, § 8 og § 10, stk. 2, finder tilsvarende anvendelse ved omdannelser efter stk. 2.
 
-Stk. 4. Underskud fra tidligere indkomstår kan uanset § 8, stk. 6, bringes til fradrag i det modtagende selskabs indkomstopgørelse efter ligningslovens § 15, og tab fra tidligere indkomstår kan uanset § 8, stk. 8, fremføres til fradrag i det modtagende selskab, hvis overdragelse efter stk. 2, sker til et af foreningen oprettet aktieselskab, hvori foreningen ejer hele aktiekapitalen.
+Stk. 4. Underskud fra tidligere indkomstår kan uanset § 8, stk. 6, bringes til fradrag i det modtagende selskabs indkomstopgørelse efter ligningslovens § 15, og tab fra tidligere indkomstår kan uanset § 8, stk. 8, fremføres til fradrag i det modtagende selskab , hvis overdragelse efter stk. 2, sker til et af foreningen oprettet aktieselskab, hvori foreningen ejer hele aktiekapitalen.
 
 Stk. 5. Aktier i det modtagende selskab, som foreningen modtager i henhold til stk. 2, anses for anskaffet på det tidspunkt, hvor omdannelsen er vedtaget i alle de involverede selskaber m.v. Som anskaffelsessum anvendes værdien af de indskudte aktiver efter fradrag af foreningens gæld.
 

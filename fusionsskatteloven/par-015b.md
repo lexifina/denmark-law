@@ -9,7 +9,3 @@ Stk. 4. Spaltes et selskab, og beskattes selskaberne efter reglerne i stk. 1 ell
 Stk. 5. I forbindelse med indgivelse af selvangivelse for det indkomstår, hvori spaltningen sker, indsender selskabsdeltagerne i det indskydende selskab en opgørelse af anskaffelsessummen for aktierne i det eller de modtagende selskaber opgjort efter stk. 4. Den skatteansættende myndighed foretager en ansættelse af anskaffelsessummen.
 
 Stk. 6. Skatteministeren kan tillade, at bestemmelserne i stk. 4, 2.-14. pkt., tilsvarende finder anvendelse, når et selskab hjemmehørende i udlandet spaltes og selskaberne ikke beskattes efter reglerne i stk. 1. Skatteministeren kan fastsætte vilkår for tilladelsen.
-
-## Kapitel 5
-
-Tilførsel af aktiver
