@@ -1,3 +1,3 @@
-Lov om ansættelse og opkrævning m.v. af skat ved kulbrinteindvinding (kulbrinteopkrævningsloven) (* 1)
+Bekendtgørelse af lov om ansættelse og opkrævning m.v. af skat ved kulbrinteindvinding (* 1)
 
-VI MARGRETHE DEN ANDEN, af Guds Nåde Danmarks Dronning, gør vitterligt: Folketinget har vedtaget og Vi ved Vort samtykke stadfæstet følgende lov:
+Herved bekendtgøres lov nr. 176 af 28. april 1982 om ansættelse og opkrævning m.v. af skat ved kulbrinteindvinding med de ændringer og tilføjelser, der følger af lov nr. 926 af 19. december 1986
