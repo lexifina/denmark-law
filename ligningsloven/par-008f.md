@@ -1,1 +1,1 @@
-§ 8 F. Ved opgørelsen af den skattepligtige indkomst kan fradrages 3 pct. af den personlige indkomst, dog højst 3.200 kr. Omfatter indkomstansættelsen en kortere periode end 1 år, er fradraget højst 1/12 af 3.200 kr. for hver måned, ved hvis begyndelse skattepligt foreligger. Beløbene på 3.200 kr. reguleres efter § 20 i lov om indkomstskat og formueskat for personer m.v. (personskatteloven). Fradraget beregnes før den personlige indkomst eventuelt er reguleret efter § 13 i nævnte lov.
+§ 8 F. (* 13) (Ophævet formulering indtil indkomståret 1994 er medtaget i noten)

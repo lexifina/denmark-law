@@ -1,4 +1,4 @@
-§ 27 B. (* 19) Reglerne i stk. 2-4 gælder for anskaffelse af afskrivningsberettigede formuegoder, når udgiften helt eller delvis er betalt ved et eller flere af følgende tilskud:
+§ 27 B. (* 34) Reglerne i stk. 2-4 gælder for anskaffelse af afskrivningsberettigede formuegoder, når udgiften helt eller delvis er betalt ved et eller flere af følgende tilskud m.v.:
 
 1) Finansieringstilskud, der er ydet til danske dagblade af Dagspressens Finansieringsinstitut.
 
@@ -23,6 +23,8 @@ b) Forordning nr. 4042/89 om forbedring af vilkårene for forarbejdning og afsæ
 6) Tilskud, der er ydet efter lov nr. 154 af 11. april 1984 om midlertidige statstilskud til visse strukturforbedringer m.v. inden for fiskeriet, samt tilskud, der er ydet efter §§ 4-7 i lov nr. 222 af 22. april 1987 om støtte til visse strukturforanstaltninger inden for fiskeriet m.v.
 
 7) Tilskud, der er ydet efter § 13 i lov om arbejdsmiljø til etablering af bedriftssundhedstjenester.
+
+8)(* 34) Beløb, bortset fra garantier, der er ydet i medfør af § 2, stk. 3, i loven om Vækstfon-den.
 
 Stk. 2. Udgifter til anskaffelse af afskrivningsberettigede formuegoder kan uanset reglerne i afskrivningsloven eller lovgivningens øvrige regler straksafskrives (fradrages) i den skattepligtige indkomst for anskaffelsesåret i det omfang, udgiften er betalt ved tilskud som nævnt i stk. 1.
 
