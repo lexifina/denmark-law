@@ -1,0 +1,3 @@
+§ 9 b. Der kan efter ansøgning gives opholdstilladelse til en udlænding, der uden for de i § 7, stk. 1 og 2, nævnte tilfælde befinder sig i en sådan situation, at væsentlige hensyn af humanitær karakter afgørende taler for at imødekomme ansøgningen.
+
+Stk. 2. Ansøgning om opholdstilladelse efter stk. 1 kan kun indgives af udlændinge, der opholder sig her i landet. Ved behandlingen af en ansøgning om opholdstilladelse efter stk. 1 kan Ministeriet for Flygtninge, Indvandrere og Integration uden ansøgerens samtykke indhente de akter, der er indgået i sagen om opholdstilladelse til ansøgeren efter § 7, fra Udlændingestyrelsen eller Flygtningenævnet.
