@@ -9,5 +9,3 @@
 Stk. 2. Stk. 1 finder tilsvarende anvendelse ved erhvervelse af aktier i selskaber, der direkte eller indirekte i væsentligt omfang ejer aktier som nævnt i stk. 1.
 
 Stk. 3. Erhvervelse for lånte midler efter stk. 1 anses for at foreligge, hvis den skattepligtige i forbindelse med erhvervelsen har optaget lån, der står i åbenbart misforhold til det kapitalbehov, som den skattepligtiges øvrige virksomhed betinger, eller hvis sammenhængen mellem erhvervelse og lånoptagelse klart fremgår af omstændighederne ved erhvervelsen. Opnåelse af usædvanlig kredit sidestilles med lånoptagelse.
-
-Stk. 4. Imod den skattepligtiges påstand kan beskatning efter stk. 1 kun gennemføres efter Ligningsrådets nærmere bestemmelse.

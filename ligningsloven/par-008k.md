@@ -4,7 +4,7 @@ Stk. 2. Ved opgørelsen af den skattepligtige indkomst kan udgifter til plantnin
 
 Stk. 3. Ved opgørelsen af den skattepligtige indkomst kan udgifter, der afholdes til anlæg af læhegn samt supplerende lægivende løvtræplantning, jf. lov om læhegn og tilskud til læplantning, fradrages fuldt ud i den skattepligtige indkomst i det indkomstår, hvori udgiften er afholdt. Tilskud til læplantning ydet efter lov om læhegn medregnes i den skattepligtige indkomst i samme indkomstår, hvori udgifter efter 1. pkt. afholdes.
 
-Stk. 4. Anskaffelsessummer og afståelsessummer for træer m.v. omfattet af stk. 1-3 omregnes til kontantværdi. Skatteministeren fastsætter de nærmere regler om omregningen af anskaffelsessummer og afståelsessummer.
+Stk. 4. Anskaffelsessummer og afståelsessummer for træer m.v. omfattet af stk. 1-3 omregnes til kontantværdi.
 
 Stk. 5. Stk. 1-4 finder tilsvarende anvendelse på udgifter til plantning på lejet eller forpagtet jord. Det gælder dog ikke adgangen til straksfradrag for udgifter, der ikke overstiger 25.000 kr. pr. år pr. ejendom, jf. stk. 1, 2. pkt., og stk. 2, 2. pkt., samt adgangen til at fratrække udgifter, der endnu ikke er fradraget ved salg af ejendommen, jf. stk. 1, 3. pkt., og stk. 2, 4. pkt. Ophører et leje- eller forpagtningsforhold, kan lejeren eller forpagteren fratrække udgifter, der endnu ikke er fradraget efter stk. 1 eller stk. 2, 1. pkt., i det år, hvori leje- eller forpagtningsforholdet ophører.
 
