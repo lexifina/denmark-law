@@ -1,9 +1,9 @@
-§ 62 f. Fondens midler tilvejebringes gennem bidrag, som indbetales af det enkelte byggeri, der omfattes af fonden.
+§ 62 f. Fondens vedtægter skal godkendes af boligministeren.
 
-Stk. 2. Bidraget for det enkelte byggeri udgør 1 pct. af den inden byggeriets påbegyndelse senest godkendte anskaffelsessum. Bidraget indbetales kontant senest på byggeriets afleveringstidspunkt.
+Stk. 2. Senest 4 måneder efter hvert regnskabsårs afslutning skal fondens årsregnskab underskrevet af bestyrelsen og attesteret af revisor indsendes til boligministeren. Boligministeren fastsætter regler for regnskabets form og indhold.
 
-Stk. 3. Er det nødvendigt til dækning af fondens udgifter, kan fonden efter boligministerens nærmere bestemmelse opkræve et løbende bidrag fra samtlige byggerier, der omfattes af fonden.
+Stk. 3. Fondens regnskaber revideres af en statsautoriseret revisor, der udpeges af boligministeren efter indstilling fra fonden. Boligministeren fastsætter regler for udøvelsen af revisors virksomhed.
 
-Stk. 4. Ved for sen indbetaling skal der tillige fra forfaldsdagen indbetales renter, der udgør den rente, der er fastsat efter § 5, stk. 1 og 2, i lov om renter ved forsinket betaling.
+Stk. 4. Samtidig med indsendelsen af fondens årsregnskab indsendes til boligministeren bestyrelsens beretning for fondens virksomhed og indvundne erfaringer i det forløbne regnskabsår. Boligministeren fastsætter regler for beretningens form og indhold.
 
-Stk. 5. Inddrivelse af bidrag og renter foretages af kommunalbestyrelsen i den kommune hvor byggeriet er beliggende. For inddrivelsen betaler bygningsejeren et gebyr til kommunalbestyrelsen. Boligministeren fastsætter regler om gebyret. Der tillægges bidragene, renterne og gebyrerne udpantningsret.
+Stk. 5. Fonden skal på forlangende give boligministeren enhver oplysning om fondens virksomhed.

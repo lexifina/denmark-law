@@ -8,6 +8,4 @@ Stk. 4. Boligministeren kan give tilsagn om rentebidrag og afdragsbidrag til ind
 
 Kapitel 8 a
 
-Udskillelse samt ejerlejlighedsopdeling
-
-af visse arealer
+Ejerlejlighedsopdeling af visse arealer

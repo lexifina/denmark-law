@@ -1,7 +1,9 @@
-§ 62 g. Bygningsejernes udgifter til udbedring af byggeskader kan efter fradrag af støtte fra fonden finansieres gennem optagelse af indekslån.
+§ 62 g. Fondens midler tilvejebringes gennem bidrag, som indbetales af det enkelte byggeri, der omfattes af fonden.
 
-Stk. 2. Fonden kan efter boligministerens nærmere bestemmelse beslutte, at fondens andel af udgiften til udbedring af byggeskader delvis finansieres gennem optagelse af indekslån i det pågældende byggeri med pantesikkerhed efter eventuelle lån efter stk. 1. Fonden betaler samtlige ydelser på lånet til det långivende realkreditinstitut på grundlag af en specificeret opgørelse fra instituttet.
+Stk. 2. Bidraget for det enkelte byggeri udgør 1 pct. af den inden byggeriets påbegyndelse senest godkendte anskaffelsessum. Bidraget indbetales kontant senest på byggeriets afleveringstidspunkt, private andelsboliger dog senest på skæringsdagen for byggeriets overgang fra anlæg til drift.
 
-Stk. 3. Boligministeren kan på statskassens vegne give tilsagn om garanti for den del af lånet, der på tidspunktet for lånets optagelse har pantesikkerhed ud over 65 pct. af ejendommens værdi, jfr. § 60, og højst inden for en lånegrænse på 90 pct. af udbedringsudgifterne. Garantien omfatter til enhver tid så stor en del af lånets restgæld og eventuelt forfaldne terminsydelser, som det oprindelige garantibeløb udgjorde af hovedstolen. Den del af restgælden, der ikke omfattes af garantien, har panteret forud for den garanterede del af restgælden.
+Stk. 3. Er det nødvendigt til dækning af fondens udgifter, kan fonden efter boligministerens nærmere bestemmelse opkræve et løbende bidrag fra samtlige byggerier, der omfattes af fonden.
 
-Stk. 4. Det er en betingelse for statens påtagelse af garanti, at kommunalbestyrelsen påtager sig forpligtelse til at godtgøre statskassen halvdelen af statens eventuelle tab som følge af garantiforpligtelsen.
+Stk. 4. Ved for sen indbetaling skal der tillige fra forfaldsdagen indbetales renter, der udgør den rente, der er fastsat efter § 5, stk. 1 og 2, i lov om renter ved forsinket betaling.
+
+Stk. 5. Inddrivelse af bidrag og renter foretages af kommunalbestyrelsen i den kommune hvor byggeriet er beliggende. For inddrivelsen betaler bygningsejeren et gebyr til kommunalbestyrelsen. Boligministeren fastsætter regler om gebyret. Der tillægges bidragene, renterne og gebyrerne udpantningsret.

@@ -1,5 +1,3 @@
-§ 62 c. Fonden yder støtte efter regler, der fastsættes af boligministeren, til dækning af indtil 95 pct. af bygningsejernes udgifter til udbedring af byggeskader. Fonden kan dog gøre støtte betinget af, at bygningsejeren forpligter sig til at stille pantesikkerhed i det pågældende byggeri efter bestemmelserne i § 60 g, stk. 2. (* 1)
+§ 62 c. Fonden skal med henblik på at vurdere bygningernes tilstand og registrere eventuelle skader inden 5 år fra afleveringen af det enkelte byggeri under fonden forestå og afholde udgiften ved gennemførelsen af et eftersyn (5 års eftersyn) af byggeriet. Boligministeren fastsætter de nærmere regler herom.
 
-Stk. 2. Dækning fra fonden kan opnås for skader, der anmeldes til fonden inden 20 år fra byggeriets aflevering. Boligministeren kan fastsætte nærmere regler herom.
-
-Stk. 3. Ansøgning om støtte indsendes til fonden gennem kommunalbestyrelsen i den kommune, hvor byggeriet ligger.
+Stk. 2. Fonden formidler indvundne erfaringer vedrørende forebyggelse af byggeskader, årsager til byggeskader og skadernes udbedring.

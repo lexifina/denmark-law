@@ -1,7 +1,9 @@
-Boligministeriet, den 3. februar 1986
+Boligministeriet, den 22. januar 1987
 
-NIELS BOLLMANN
+Thor Pedersen
 
-/Hanne Victor Hansen Bilag
+/Hanne Victor Hansen
 
-Uddrag af bekendtgørelse nr. 432 af 13. juli 1982 af lov om boligbyggeri (* 8)
+BILAG
+
+Uddrag af bekendtgørelse nr. 432 af 13. juli 1982 af lov om boligbyggeri*)
