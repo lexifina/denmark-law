@@ -1,9 +1,5 @@
-Givet på Marselisborg Slot, den 23. december 1992
+Indenrigs- og Sundhedsministeriet, den 20. august 2003
 
-Under Vor Kongelige Hånd og Segl
+Lars Løkke Rasmussen
 
-MARGRETHE R.
-
-/Thor Pedersen
-
-Ingen
+/Thomas Pihl
