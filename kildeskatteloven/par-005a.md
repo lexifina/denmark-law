@@ -1,0 +1,9 @@
+§ 5 A. Dette afsnit finder anvendelse på personer, som er skattepligtige efter kildeskattelovens § 2 eller kulbrinteskatteloven, eller som efter en indgået dobbeltbeskatningsoverenskomst er hjemmehørende i en anden stat, i Grønland eller på Færøerne. Hvis indkomst hidrørende fra personligt arbejde og fra selvstændig erhvervsvirksomhed, der kan beskattes her i landet - herunder efter en dobbeltbeskatningsoverenskomst - med tillæg af renteudgifter og kurstab på gæld, der er fradraget i denne indkomst, i et indkomstår udgør mindst 75 pct. af de efter dansk skattelovgivning opgjorte samlede indtægter med fradrag af samtlige udgifter afholdt for at erhverve indkomsten opgjort efter statsskattelovens § 6, litra a, kan den skattepligtige vælge at blive beskattet efter §§ 5 A-D. Tilsvarende gælder i et indkomstår, hvor både den danske indkomst og den samlede indkomst er negativ, hvis den skattepligtige i det seneste indkomstår med dansk positiv indkomst er blevet beskattet efter dette afsnit.
+
+Stk. 2. Arbejdsløshedsdagpenge, strejke- og lockoutgodtgørelser samt dagpenge ved sygdom og fødsel medregnes som vederlag for personligt arbejde.
+
+Stk. 3. Pensionsudbetalinger, ventepenge og lign. som nævnt i kildeskattelovens § 2, stk. 1, litra b, jf. § 43, stk. 2, litra b, c, f og g, medregnes som vederlag for personligt arbejde eller fra selvstændig erhvervsvirksomhed, såfremt personen i mindst 5 år ud af de seneste 10 år forud for pensioneringen har opfyldt betingelserne for at blive beskattet efter dette afsnit.
+
+Stk. 4. Er indkomståret kortere end 12 måneder, anvendes i stedet kalenderåret ved bedømmelsen af, om en person er omfattet af stk. 1.
+
+Stk. 5. (* 4) Stk. 1-4 finder ikke anvendelse på personer der ansøger om opholdstilladelse efter udlændingelovens § 7, samt personer omfattet af lov om midlertidig opholdstilladelse til visse personer fra det tidligere Jugoslavien m.v.
