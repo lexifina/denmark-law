@@ -4,7 +4,7 @@ Stk. 2. Kapitalafkast efter virksomhedsskattelovens § 7 medregnes dog ved opgø
 
 Stk. 3. Hvis ægtefæller, der er samlevende ved indkomstårets udgang, begge har deltaget i væsentligt omfang i driften af den ene ægtefælles eller begges erhvervsvirksomhed, kan ægtefællerne anmode om, at indtil 50 pct., dog højst et grundbeløb på 117.300 kr., af virksomhedens overskud opgjort efter stk. 4 overføres til den ægtefælle, der ikke i overvejende grad driver virksomheden, som skattepligtig indkomst og personlig indkomst hos denne, jf. dog stk. 7. Det overførte beløb må dog ikke stå i åben-bart misforhold til den medarbejdende ægtefælles arbejdsindsats i erhvervsvirksomheden. Grundbeløbet på 117.300 kr. reguleres efter personskattelovens § 20.
 
-Stk. 4. (* 2) Ved beregningen af den del af overskuddet, der efter stk. 3 overføres til den anden ægtefælle, opgøres virksomhedens overskud efter reglerne for opgørelsen af skattepligtig almindelig indkomst med tillæg af renteudgifter og kurstab på fordringer og gæld og med fradrag af rente- og udbytteindtægter, samt kursgevinster på fordringer og gæld, som indgår i opgørelsen af dette overskud.
+Stk. 4. Ved beregningen af den del af overskuddet, der efter stk. 3 overføres til den anden ægtefælle, opgøres virksomhedens overskud efter reglerne for opgørelsen af skattepligtig almindelig indkomst med tillæg af renteudgifter og kurstab på fordringer og gæld og med fradrag af rente- og udbytteindtægter, samt kursgevinster på fordringer og gæld, som indgår i opgørelsen af dette overskud.
 
 Stk. 5. Den skattepligtige indkomst og den personlige indkomst efter stk. 1 nedsættes med det beløb, der overføres til den medarbejdende ægtefælle efter stk. 3.
 

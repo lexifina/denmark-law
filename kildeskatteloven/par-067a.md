@@ -1,4 +1,4 @@
-§ 67 A. (* 2) (Ophævet)
+§ 67 A. (Ophævet)
 
 ## Afsnit VII
 

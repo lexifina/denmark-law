@@ -1,3 +1,1 @@
-§ 115 A. Skatteministeren bemyndiges til at fastsætte regler om opkrævning og afregning af indkomst- og formueskat til staten for personer m.v., folkepensionsbidrag og særlig indkomstskat, der er pålignet eller pålignes efter reglerne for skatteår forud for indkomståret 1970, samt skat af overført indkomst og skat af overskydende indkomst, der er pålignet eller pålignes i henhold til lov om ikrafttræden af lov om opkrævning af indkomst- og formueskat for personer m.v. (Kildeskat).
-
-Stk. 2. Skatteministeren bemyndiges endvidere til at fastsætte regler om udbetalingen af yderligere børnetilskud og tilbagebetalingen af for meget udbetalt børnetilskud i tilfælde, hvor der foretages ændringer af skatteansættelsen for skatteår forud for indkomståret 1970.
+§ 115 A. 4) (Ophævet)
