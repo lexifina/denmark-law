@@ -16,4 +16,4 @@ Stk. 8. En af skattemyndigheden meddelt forhåndsbesked kan kun ændres, hvis de
 
 Stk. 9. Skattemyndighedens beregning af passivposter efter stk. 2 er bindende for boet og lodtagerne i dette, medmindre den påklages efter reglerne i skattestyrelsesloven. Skattemyndigheden kan ændre beregningen, indtil værdiansættelsen af det pågældende aktiv er blevet endelig efter § 16, stk. 4.
 
-Stk. 10. Udlægsmodtagernes afskrivningsgrundlag pristalsreguleres ikke i det indkomstår, hvor udlægget finder sted.
+Stk. 10. (* 15) Udlægsmodtagernes afskrivningsgrundlag reguleres ikke i det indkomstår, hvor udlægget finder sted.

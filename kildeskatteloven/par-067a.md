@@ -4,7 +4,7 @@ Stk. 2. Har nogen, der er skattepligtig efter § 1 i lov om indkomstbeskatning a
 
 Stk. 3. Stk. 2 gælder ikke for de investeringsforeninger, der omfattes af loven om beskatning af medlemmer af investeringsforeninger.
 
-Stk. 4. 14)Uanset stk. 1-3 finder bestemmelsen i § 67, stk. 6, tilsvarende anvendelse.
+Stk. 4. (* 18) Uanset stk. 1-3 finder bestemmelsen i § 67, stk. 6, tilsvarende anvendelse.
 
 ## Afsnit VII
 
