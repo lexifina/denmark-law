@@ -1,5 +1,3 @@
-Bekendtgørelse af Lov om beskatning ved fusion af aktieselskaber m.v.
+Bekendtgørelse af lov om beskatning ved fusion af aktieselskaber m.v.
 
-(fusionsloven)
-
-Herved bekendtgøres lov nr. 647 af 19. december 1975 om beskatning ved fusion af aktieselskaber m.v., jfr. lovbekendtgørelse nr. 464 af 13. september 1978, med de ændringer og tilføjelser, der følger af lov nr. 582 af 19. december 1980 og lov nr. 296 af 10. juni 1981.
+Herved bekendtgøres lov om beskatning ved fusion af aktieselskaber m.v., jf. lovbekendtgørelse nr. 495 af 24. september 1981, med de ændringer, der følger af lov nr. 144 af 25. marts 1987 og lov nr. 311 af 25. maj 1987.
