@@ -1,5 +1,7 @@
-Økonomiministeriet, den 27. oktober 1986
+Økonomiministeriet, den 3. juni 1994
 
-ANDERS ANDERSEN
+Marianne Jelved
+
+/ Henrik Thomasen
 
 Ingen
