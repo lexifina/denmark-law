@@ -1,0 +1,1 @@
+§ 29 f. På fortidsminder og inden for en afstand af 2 m fra dem må der ikke foretages jordbehandling, gødes eller plantes. Der må heller ikke anvendes metaldetektor.

@@ -1,0 +1,3 @@
+§ 29 k. Betingelser, der knyttes til en tilladelse, er bindende for ejere og indehavere af andre rettigheder over ejendommen uden hensyn til, hvornår retten er stiftet. Myndigheden lader på ansøgerens bekostning betingelser af varig interesse tinglyse på den pågældende ejendom.
+
+Stk. 2. En tilladelse bortfalder, hvis den ikke er udnyttet inden 3 år efter, at den er meddelt, eller ikke har været udnyttet i 3 på hinanden følgende år.

@@ -1,0 +1,11 @@
+## Fortidsminder
+
+§ 29 e. Der må ikke foretages ændring i tilstanden af fortidsminder. Der må heller ikke foretages udstykning, matrikulering eller arealoverførsel, der fastlægger skel gennem fortidsminder.
+
+Stk. 2. De typer af fortidsminder, der er omfattet af beskyttelsen efter stk. 1, er optaget i bilaget til loven.
+
+Stk. 3. I bilaget til loven er fastsat, at visse typer af fortidsminder kun er omfattet af forbuddet i stk. 1, når ejeren har modtaget en meddelelse fra kulturministeren om deres tilstedeværelse. For fortidsminder under terræn eller under bygninger kan kulturministeren i forbindelse med meddelelsen bestemme, at beskyttelsen efter stk. 1 udstrækkes til ejendomsskellet.
+
+Stk. 4. Kulturministeren oplyser på begæring, hvilke beskyttede fortidsminder der findes på en ejendom, og hvilken udstrækning de har.
+
+Stk. 5. Kulturministeren kan lade en meddelelse efter stk. 3 om tilstedeværelsen af et fortidsminde tinglyse på ejendommen.

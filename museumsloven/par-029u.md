@@ -1,0 +1,15 @@
+§ 29 u. Klageberettiget er
+
+1) adressaten for afgørelsen,
+
+2) ejeren af den ejendom, som afgørelsen vedrører,
+
+3) offentlige myndigheder,
+
+4) lokale foreninger og organisationer, som har væsentlig interesse i afgørelsen,
+
+5) landsdækkende foreninger og organisationer, hvis hovedformål er beskyttelse af natur og miljø og
+
+6) landsdækkende foreninger og organisationer, som efter deres formål varetager væsentlige rekreative interesser, når afgørelsen berører sådanne interesser.
+
+Stk. 2. Ved klage efter stk. 1, nr. 5, kan Naturklagenævnet kræve, at foreningerne eller organisationerne dokumenterer deres klageberettigelse ved indsendelse af vedtægter eller på anden måde.

@@ -1,0 +1,1 @@
+§ 29 m. Kulturministeren kan pålægge kommunalbestyrelsen at tilvejebringe oplysninger, herunder kortmateriale, til brug for vurdering af forhold, der er omfattet af dette kapitel. Oplysningerne kan forlanges afgivet i en bestemt form.
