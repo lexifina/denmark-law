@@ -1,7 +1,7 @@
-Forsvarsministeriet, den 8. december 1986
+Forsvarsministeriet, den 7. februar 1994
 
-Hans Engell
+Hans Hækkerup
 
-/Else K. Sørensen
+/ Else K. Sørensen
 
 Ingen
