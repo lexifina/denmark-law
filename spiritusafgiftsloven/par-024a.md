@@ -2,12 +2,12 @@
 
 ## Kapitel 2
 
-## Dækningsafgift
+Dækningsafgift
 
-§§ 25 og 26. (Ophævet)
+§ § 25 og 26. (Ophævet)
 
 ## Kapitel 3
 
-## Fællesbestemmelser
+Fællesbestemmelser
 
 Kontrolbestemmelser
