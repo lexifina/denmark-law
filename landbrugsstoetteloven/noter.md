@@ -1,6 +1,6 @@
 Ved Amsterdam-traktaten, som trådte i kraft den 1. maj 1999, er bilagsfortegnelsen til traktaten ændret, således at landbrugsvarerne er indeholdt i bilag I i stedet for bilag II.
 
-Ved lov nr. 903 af 16. december 1998 er inddrivelsesopgaverne vedrørende statens fordringer med virkning fra 1. januar 1999 henlagt til Finansstyrelsen i stedet for Kongeriget Danmarks Hypotekbank og Finansforvaltning (Hypotekbanken).
+Ved kgl. resolution af 27. november 2001 er inddrivelsesopgaver vedrørende statens fordringer overført fra Finansministeriet (Finansstyrelsen, nu Økonomistyrelsen) til Skatteministeriet (Told- og Skattestyrelsen).
 
 Lov nr. 380 trådte i kraft den 7. juni 1991.
 
@@ -14,4 +14,4 @@ Lov nr. 349 blev sat i kraft den 1. juli 1999 ved bekendtgørelse nr. 506 af den
 
 § 1, nr. 1, i lov nr. 1267 af 20. december 2000 trådte i kraft den 22. december 2000.
 
-Lov nr. 334 af 16. maj 2001 blev sat i kraft den 8. november 2001 ved bekendtgørelse nr. 963 af 6. november 2001.
+Lov nr. 334 af 16. maj 2001 blev sat i kraft den 8. november 2001 ved bekendtgørelse nr. 963 af 6. november 2001

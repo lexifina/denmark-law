@@ -1,5 +1,5 @@
-Ministeriet for Fødevarer, Landbrug og Fiskeri, den 8. maj 2002
+Ministeriet for Fødevarer, Landbrug og Fiskeri, den 28. april 2004
 
 Mariann Fischer Boel
 
-/Peter Anthonisen
+/Anders T. Christensen
