@@ -1,1 +1,1 @@
-§ 25 b. Er en gift persons grundlag for beregning af bundskat efter § 6 for indkomståret 2000 negativt, modregnes den del af det negative beløb, der udgør negativ kapitalindkomst, i den anden ægtefælles grundlag for beregning af bundskat efter § 6. Det er en forudsætning, at ægtefællerne er samlevende ved indkomstårets udløb.
+§ 25 b. 10) (Ophævet).
