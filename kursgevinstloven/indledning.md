@@ -2,7 +2,7 @@ Bekendtgørelse af lov om skattemæssig behandling af gevinst og tab på fordrin
 
 (kursgevinstloven)
 
-Herved bekendtgøres lov om skattemæssig behandling af gevinst og tab på fordringer, gæld og finansielle kontrakter (kursgevinstloven), jf. lovbekendtgørelse nr. 644 af 5. august 1999, med de ændringer, der følger af § 2 i lov nr. 959 af 20. december 1999 og § 2 i lov nr. 348 af 17. maj 2000.
+Herved bekendtgøres lov om skattemæssig behandling af gevinst og tab på fordringer, gæld og finansielle kontrakter (kursgevinstloven), jf. lovbekendtgørelse nr. 774 af 16. august 2000, med de ændringer, der følger af § 2 i lov nr. 1030 af 22. november 2000, § 3 i lov nr. 1294 af 20. december 2000, § 8 i lov nr. 1286 af 20. december 2000 og § 3 i lov nr. 484 af 7. juni 2001.
 
 ## Kapitel 1
 
