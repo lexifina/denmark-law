@@ -1,0 +1,5 @@
+§ 35 G. Ved opgørelse af investeringsforeningens fortjeneste efter lov om beskatning af fortjeneste ved afståelse af fast ejendom træder ejendomsværdien ved den seneste vurdering forud for overgangsskatteåret i stedet for anskaffelsessummen, såfremt ejendommen er erhvervet før den 1. januar 1980. Investeringsforeningen kan dog vælge at lægge anskaffelsessummen til grund, såfremt denne dokumenteres at være højere end den i 1. pkt. nævnte værdi.
+
+Stk. 2. Har investeringsforeningen forud for overgangsskatteåret været skattepligtig af fortjeneste ved afståelse af fast ejendom, jfr. § 13, 3. pkt., i lov om særlig indkomstskat m.v., skal investeringsforeningen ved afståelse af ejendommen endvidere beskattes af den forud for overgangsskatteåret efter disse regler indtrådte fortjeneste. Ved opgørelse af denne fortjeneste lægges det efter stk. 1 som anskaffelsesudgift anvendte beløb til grund som afståelsessum.
+
+Stk. 3. De beløb, der efter stk. 1 og 2 anvendes som anskaffelssessum eller afståelsessum, omregnes til kontantværdi efter regler, der fastsættes af ministeren for skatter og afgifter.
