@@ -1,5 +1,3 @@
 Bekendtgørelse af lov om afgift af stenkul, brunkul og koks m.v.
 
-Herved bekendtgøres lov om afgift af stenkul, brunkul og koks m.v., jf. lovbekendtgørelse nr. 895 af 23. november 1995, med de ændringer, der følger af § 2 i lov nr. 1101 af 20. december 1995 og § 3 i lov nr. 1102 af 20. december 1995. De i § 1, nr. 1-3, nævnte afgiftssatser gælder først fra den 1. januar 1998, jf. de ikrafttrædelses- og overgangsbestemmelser, der er gengivet sidst i lovbekendtgørelsen.
-
-Afgiftspligtigt vareområde og afgiftens størrelse
+Herved bekendtgøres lov om afgift af stenkul, brunkul og koks m.v., jf. lovbekendtgørelse nr. 886 af 3. oktober 1996, med de ændringer, der følger af § 2 i lov nr. 444 af 10. juni 1997, § 19 i lov nr. 1098 af 29. december 1997 og § 5 i lov nr. 437 af 26. juni 1998. De i § 1, stk. 2, 4 og 5 nævnte afgiftssatser, de i § 8, stk. 5, sidste pkt., § 8, stk. 7, 1. og 5. pkt., nævnte beløb samt den i § 8, stk. 7, 2. pkt., nævnte procentsats gælder fra den 1. januar 2002, jf. de ikrafttrædelses- og overgangsbestemmelser, der er gengivet sidst i lovbekendtgørelsen.
