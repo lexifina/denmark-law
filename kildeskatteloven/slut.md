@@ -1,8 +1,8 @@
-Ministeriet for skatter og afgifter, den 6. oktober 1982
+Ministeriet for skatter og afgifter, den 19. august 1983
 
 ISI FOIGHEL
 
-/ Per Hessel
+/ Jesper Pålsson
 
 (* 1) Bestemmelsen i § 1, nr. 2, har i den her anførte affattelse virkning fra 1. januar 1980, jfr. § 5 i lov nr. 517 af 21. december 1979.
 
@@ -28,9 +28,9 @@ ISI FOIGHEL
 
 (* 12) Bestemmelserne i § 14, stk. 1, 2 og 9, har i den anførte affattelse virkning fra og med indkomståret 1983, jfr. § 9 i lov nr. 227 af 26. maj 1982.
 
-(* 13) Bestemmelserne i § 14, stk. 4 og 8, er indsat ved lov nr. 197 af 18. maj 1982, hvis § 7, stk. 1, indeholder følgende ikrafttrædelsesbestemmelse:
+(* 13) Bestemmelserne i § 14, stk. 4 og 8, er indsat ved lov nr. 197 af 18. maj 1982, hvis § 7, stk. 1, indeholder følgende ikrafttrædelsesbestemmelse: "Loven
 
-Loven har virkning for driftsmidler m.v. og skibe, der anskaffes den 1. januat 1982 eller senere, samt for forbedringsudgifter vedrørende disse driftsmidler m.v. og skibe. Loven har endvidere virkning for bygninger eller installationer, der anskaffes den 1. januar 1982 eller senere, samt for udgifter til ombygninger og forbedringer af bygninger og installationer, der afholdes den 1. januar 1982 eller senere."
+har virkning for driftsmidler m.v. og skibe, der anskaffes den 1. januat 1982 eller senere, samt for forbedringsudgifter vedrørende disse driftsmidler m.v. og skibe. Loven har endvidere virkning for bygninger eller installationer, der anskaffes den 1. januar 1982 eller senere, samt for udgifter til ombygninger og forbedringer af bygninger og installationer, der afholdes den 1. januar 1982 eller senere."
 
 (* 14) Bestemmelserne i §§ 15 og 15A er ophævet med virkning fra og med indkomståret 1983, jfr. § 9 i lov nr. 227 af 26. maj 1982.
 
@@ -42,17 +42,17 @@ Loven har virkning for driftsmidler m.v. og skibe, der anskaffes den 1. januat 1
 
 (* 18) Bestemmelserne i § 23, stk. 1, 2. pkt., og stk. 3, i den her anførte affattelse har virkning for renter, der påløber fra og med den 1. januar 1975, jfr. § 2, stk. 2, i lov nr. 264 af 22. maj 1974.
 
-(* 19) Bestemmelsen i § 24, stk. 1, nr. 2, har i den her anførte affattelse virkning fra og med indkomståret 1971, jfr. § 3, stk. 2, i lov nr. 491 af 18. december 1970.
+(* 19) Bestemmelsen i § 24, stk. 1, nr. 2, har i den her anførte affattelse virkning fra og med indkomståret 1971, jfr. § 3, stk. 2, i lov nr. 491 af 18. december 1970. Bestemmelsen
 
-Bestemmelsen i § 24, stk. 1, nr. 4, har i den her anførte affattelse virkning fra og med indkomståret 1972, jfr. § 2 i lov nr. 282 af 9. juni 1971.
+i § 24, stk. 1, nr. 4, har i den her anførte affattelse virkning fra og med indkomståret 1972, jfr. § 2 i lov nr. 282 af 9. juni 1971.
 
 (* 20) Bestemmelsen i § 24, stk. 2, har i den her anførte affattelse virkning fra og med indkomståret 1982, jfr. § 2 i lov nr. 297 af 10. juni 1981.
 
 (* 21) Bestemmelsen i § 24, stk. 4, har i den her anførte affattelse virkning fra og med indkomståret 1971, jfr. § 3, stk. 2, i lov nr. 491 af 18. december 1970.
 
-(* 22) Bestemmelsen i § 26 har i den anførte affattelse virkning fra og med indkomståret 1983, jfr. § 9 i lov nr. 227 af 26. maj 1982.
+(* 22) Bestemmelsen i § 26 har i den anførte affattelse virkning fra og med indkomståret 1983, jfr. § 9 i lov nr. 227 af 26. maj 1982 og § 3 i lov nr. 268 af 8. juni 1983.
 
-(* 23) Bestemmelsen i § 26B har virkning fra og med indkomståret 1983, jfr. § 9 i lov nr. 227 af 26. maj 1982.
+(* 23) Bestemmelsen i § 26 B har virkning fra og med indkomståret 1983, jfr. § 9 i lov nr. 227 af 26. maj 1982.
 
 (* 24) Ophævelse af § 27 har virkning fra og med indkomståret 1973, jfr. § 2, stk. 1, i lov nr. 576 af 15. december 1972.
 
@@ -62,13 +62,13 @@ Bestemmelsen i § 24, stk. 1, nr. 4, har i den her anførte affattelse virkning 
 
 (* 27) Bestemmelserne i § 31, stk. 1 og 2, og § 32, stk. 2, har i den anførte affattelse virkning for underskud, der er fremkommet ved opgørelsen af den skattepligtige indkomst for indkomståret 1976 og senere indkomstår, jfr. § 4 i lov nr. 614 af 17. december 1975.
 
-(* 28) Bestemmelsen i § 33, stk. 3, 1. pkt., har i den anførte affattelse virkning for aktieafståelser, der finder sted den 1. juli 1981 eller senere, jfr. § 8 i lov nr. 296 af 10. juni 1981. Bestemmelsen i §§ 33, stk. 3, 2. pkt., har virkning fra den 1. juli 1982, jfr. § 8 i lov nr. 246 af 9. juni 1982.
+(* 28) Bestemmelsen i § 33, stk. 3,1. pkt. har i den anførte affattelse virkning ved udlæg af aktier, der finder sted den 1. juli 1981 eller senere, jfr. § 8 i lov nr. 296 af 10. juni 1981. Ved udlæg af aktier, der er erhvervet i forbindelse med omdannelsen af en personligt ejet virksomhed efter lov om skattefri virksomhedsomdannelse, har bestemmelsen dog først virkning for omdannelser, der finder sted med udgangen af 1982 eller senere, jfr. § 3 i lov nr. 265 af 8. juni 1983. Bestemmelsen i §§ 33, stk. 3, 2. pkt., har virkning fra den 1. juli 1982, jfr. § 8 i lov nr. 246 af 9. juni 1982.
 
-(* 29) Bestemmelserne i § 33A, stk. 2, 5. pkt., og stk. 4, 2. pkt., har i den anførte affattelse virkning fra den 1. juli 1982, jfr. § 8 i lov nr. 246 af 9. juni 1982.
+(* 29) Bestemmelserne i § 33A, stk. 1 og 2, i de her anførte affattelser har virkning for afståelser af aktier, der sker den 1. januar 1984 eller senere, jfr. § 4 i lov nr. 220 af 2. juni 1983.
 
 (* 30) Bestemmelsen i § 33A, stk. 10, har virkning fra den 1. januar 1982, jfr. § 7, stk. 1, i lov nr. 197 af 18. maj 1982.
 
-(* 31) Bestemmelsen i § 35A har virkning fra og med indkomståret 1983, jfr. § 9 i lov nr. 227 af 26. maj 1982.
+(* 31) Bestemmelsen i § 35A har virkning fra og med indkomståret 1983, jfr. § 9 i lov nr. 227 af 26. maj 1982. Ved § 2 i lov nr. 268 af 8. juni 1983 er følgende bestemmelse indsat som nyt stk. 3 til § 9 i lov nr. 227 af 26. maj 1982: Ved skatteberegningen efter § 35 A i kildeskatteloven, som affattet ved § 1, nr. 14, beregnes skatten for ægtefæller, der i indkomståret 1983 har positiv formueindkomst ud over 15.000 kr. og i indkomståret 1984 positiv formueindkomst ud over 30.000 kr., og hvor hustruen har den højeste arbejdsindkomst, som om den positive formueindkomst ud over de nævnte beløbsgrænser var henført til arbejdsindkomst for manden.
 
 (* 32) Bestemmelsen i § 37, stk. 1, har i den her anførte affattelse virkning fra og med indkomståret 1981, jfr. § 8 i lov nr. 278 af 16. juni 1980.
 
@@ -76,7 +76,7 @@ Bestemmelsen i § 24, stk. 1, nr. 4, har i den her anførte affattelse virkning 
 
 (* 34) Bestemmelsen i § 37, stk. 5, har i den anførte affattelse virkning fra og med indkomståret 1982, jfr. § 6 i lov nr. 513 af 16. oktober 1981.
 
-(* 35) Bestemmelsen i § 37A har i den anførte affattelse virkning fra og med indkomståret 1983, jfr. § 9 i lov nr. 227 af 26. maj 1982.
+(* 35) Bestemmelsen i § 37A har i den anførte affattelse virkning fra og med indkomståret 1983, jfr. § 9 i lov nr. 227 af 26. maj 1982 og § 2 i lov nr. 267 af 8. juni 1983.
 
 (* 36) Bestemmelsen i § 37B i den her anførte affattelse har virkning fra og med indkomståret 1978, jfr. § 8, stk. 1, i lov nr. 283 af 8. juni 1977.
 
@@ -104,7 +104,7 @@ Bestemmelsen i § 24, stk. 1, nr. 4, har i den her anførte affattelse virkning 
 
 (* 48) Bestemmelsen i § 48, stk. 9, træder i kraft den 1. januar 1973, jfr. § 2, stk. 3, i lov nr. 576 af 15. december 1972.
 
-(* 49) Bestemmelsen i § 48 B har virkning fra den 1. juli 1982, jfr. § 8 i lov nr. 244 af 9. juni 1982.
+(* 49) Bestemmelsen i § 48B har virkning fra den 1. juli 1982, jfr. § 8 i lov nr. 244 af 9. juni 1982.
 
 (* 50) Bestemmelsen i § 50, stk. 2, har virkning fra og med indkomståret 1975, jfr. § 5, stk. 1, i lov nr. 508 af 2. oktober 1974.
 
@@ -128,7 +128,7 @@ Bestemmelsen i § 24, stk. 1, nr. 4, har i den her anførte affattelse virkning 
 
 (* 60) Bestemmelsen i § 62, stk. 1, i den her anførte affattelse har virkning fra og med indkomståret 1977, jfr. § 8, stk. 1, i lov nr. 404 af 20. august 1976. Bestemmelsen i § 62, stk. 3, i den her anførte affattelse har virkning fra og med indkomståret 1972, jfr. § 2, stk. 2, i lov nr. 576 af 15. december 1972. Bestemmelsen i § 62, stk. 4, 1. pkt. og 3. pkt., i den her anførte affattelse har virkning fra og med indkomståret 1974, jfr. § 2, stk. 3, i lov nr. 264 af 22. maj 1974. Bestemmelsen i § 62, stk. 4, 2. pkt., i den her anførte affattelse har virkning for beregningen af renter for tiden fra og med den 1. juli 1978, jfr. § 8 i lov nr. 193 af 3. maj 1978.
 
-(* 61) Bestemmelserne i § 62A, stk. 1, stk. 2 og stk. 3, 1. pkt. og 4. pkt., samt stk. 4, i den her anførte affattelse har virkning fra og med indkomståret 1974, jfr. § 2, stk. 3, i lov nr. 264 af 22. maj 1974. Bestemmelsen i § 62A, stk. 3, 2. pkt., i den her anførte affattelse har virkning for beregningen af renter for tiden fra og med den 1. juli 1978, jfr. § 8 i lov nr. 193 af 3. maj 1978. Bestemmelsen i § 62A, stk. 3, 5. pkt., i den her anførte affattelse har virkning fra og med indkomståret 1980, jfr. § 2 i lov nr. 263 af 27. maj 1981.
+(* 61) Bestemmelserne i § 62A, stk. 1, stk. 2 og stk. 3, 1. pkt. og 4. pkt., samt stk. 4, i den her anførte affattelse har virkning fra og med indkomståret 1974, jfr. § 2, stk. 3, i lov nr. 264 af 22. maj 1974. Bestemmelsen i § 62A, stk. 3, 2. pkt., i den her anførte affattelse har virkning for beregningen af renter for tiden fra og med den 1. juli 1978, jfr. § 8 i lov nr. 193 af 3. maj 1978. Bestemmelsen i § 62 A, stk. 3, 5. pkt., i den her anførte affattelse har virkning fra og med indkomståret 1980, jfr. § 2 i lov nr. 263 af 27. maj 1981.
 
 (* 62) Bestemmelserne i § 62B, stk. 2 og 3, har virkning, hvor dødsfaldet er indtrådt den 1. januar 1977 eller senere, jfr. § 2 i lov nr. 616 af 17. december 1976.
 
@@ -182,6 +182,6 @@ Bestemmelsen i § 24, stk. 1, nr. 4, har i den her anførte affattelse virkning 
 
 (* 87) Ikrafttrædelsestidspunktet er ved lov nr. 190 af 31. maj 1968 om ikrafttræden af lov om opkrævning af indkomst- og formueskat for personer m.v. (Kildeskat), jfr. lovbekendtgørelse nr. 185 af 8. maj 1969, fastsat til den 1. januar 1970.
 
-(* 88) Bestemmelsen i § 115 A træder i kraft ved bekendtgørelsen i Lovtidende af lov nr. 275 af 7. juni 1972, jfr. samme lovs § 2, stk. 4.
+(* 88) Bestemmelsen i § 115A træder i kraft ved bekendtgørelsen i Lovtidende af lov nr. 275 af 7. juni 1972, jfr. samme lovs § 2, stk. 4.
 
 (* 89) Ikrafttrædelsesåret er ved ministeriet for skatter og afgifters bekendtgørelse nr. 434 af 9. september 1975 fastsat til 1977.

@@ -42,7 +42,7 @@ Stk. 3. Det den enkelte amtskommune efter kildeskattelovens § 64, stk. 6, jfr. 
 
 ----
 
-Lov nr. 553 af 17. december 1971, hvis § 1 har ændret §§ 13, 37, 37A, 37 B og 46 og indføjet en ny paragraf, § 55A, indeholder i § 2 følgende bestemmelse:
+Lov nr. 553 af 17. december 1971, hvis § 1 har ændret §§ 13, 37, 37A, 37B og 46 og indføjet en ny paragraf, § 55A, indeholder i § 2 følgende bestemmelse:
 
 § 2
 
@@ -54,7 +54,7 @@ Stk. 3. Bestemmelserne i § 1, nr. 5 og 6, har virkning fra og med indkomståret
 
 ----
 
-Lov nr. 275 af 7. juni 1972, hvis § 1 har ændret §§ 3, 4, 37B, 40, 48, 54, 64, 66 og 79 og indføjet 3 nye paragraffer, §§ 51A, 83 og 115A, indeholder i § 2 følgende bestemmelse:
+Lov nr. 275 af 7. juni 1972, hvis § 1 har ændret §§ 3, 4, 37 B, 40, 48, 54, 64, 66 og 79 og indføjet 3 nye paragraffer, §§ 51 A, 83 og 115 A, indeholder i § 2 følgende bestemmelse:
 
 § 2
 
@@ -96,7 +96,7 @@ Lov nr. 351 af 13. juni 1973, hvis § 1 har ændret §§ 4, 23, 35, 37, 37B, 63,
 
 Stk. 1. § 1, nr. 1-7, har virkning fra og med indkomståret 1974.
 
-Stk. 2. § 1, nr. 8, har virkning for renter, der påløber fra og med den 1. juli 1973.
+Stk. 2. § 1, nr. 8, har virkning for renter, der påløber fra og med den 1. juli 1973. ¬
 
 ----
 
@@ -134,7 +134,7 @@ I kildeskattelovens § 61, som affattet ved lovbekendtgørelse nr. 599 af 23. no
 
 § 5
 
-Hvor de hidtidige bestemmelser i kildeskattelovens § 62 A, stk. 2, 2. og 3. pkt., skal anvendes for indkomstår før indkomståret 1974, forhøjes den de<r nævnte rentesats til 1 pct. med virkning for renteberegningen fra den 1. september 1974 at regne. Den efter de nævnte bestemmelser beregnede rente for tiden efter den 1. januar 1975 medregnes ikke ved opgørelsen af den skattepligtige indkomst.
+Hvor de hidtidige bestemmelser i kildeskattelovens § 62A, stk. 2, 2. og 3. pkt., skal anvendes for indkomstår før indkomståret 1974, forhøjes den deer nævnte rentesats til 1 pct. med virkning for renteberegningen fra den 1. september 1974 at regne. Den efter de nævnte bestemmelser beregnede rente for tiden efter den 1. januar 1975 medregnes ikke ved opgørelsen af den skattepligtige indkomst.
 
 ----
 
@@ -234,7 +234,7 @@ Lov nr. 193 af 3. maj 1978, hvis § 1 har ændret rentesatsen i § 62, stk. 4, �
 
 Den i § 5 i lov nr. 264 af 22. maj 1974 om ændring af kildeskatteloven, som ændret ved § 10 i lov nr. 216 af 28. april 1976, nævnte rentesats forhøjes til 1 pct. med virkning for beregningen af renter vedrørende indkomstårene 1972 og 1973 for tiden fra og med den 1. april 1978.
 
----
+----
 
 Lov nr. 517 af 21. december 1979, hvis § 1 har ændret §§ 1, 3 og 7 og indføjet § 88, indeholder i § 2 følgende bestemmelse:
 
