@@ -4,8 +4,10 @@ Stk. 2. Medlemskab af kloakforsyningen efter stk. 1 indebærer, at kommunalbesty
 
 Stk. 3. Kommunalbestyrelsens tilbud omfatter alene udførelse, drift og vedligeholdelse af et anlæg, der økonomisk svarer til det af kommunalbestyrelsen påbudte. Ønsker ejeren et mere omkostningskrævende anlæg, må ejeren selv bekoste differencen.
 
-Stk. 4. Udgifter til ledninger på egen grund og bundfældningstank samt udgifter til elektricitet og vandforsyningsvand til den valgte spildevandsløsning skal dog afholdes af ejeren af ejendommen.
+Stk. 4. Ejeren af ejendommen afholder udgifter til ledninger på egen grund frem til den valgte spildevandsløsning. Ejeren af ejendommen afholder endvidere udgifter til elektricitet og vandforsyningsvand til den valgte spildevandsløsning samt udgifter til etablering og drift af bundfældningstank, jf. dog stk. 5.
 
-Stk. 5. Tilslutningsbidrag efter stk. 2 forfalder ved kontraktens indgåelse, og vandafledningsbidrag kan opkræves fra spildevandsløsningens ibrugtagning.
+Stk. 5. Kommunalbestyrelsen er ansvarlig for tømning af bundfældningstanke i forbindelse med etablering af anlæg efter stk. 1-4.
 
-Fælles bestemmelser
+Stk. 6. Tilslutningsbidrag efter stk. 2 forfalder ved kontraktens indgåelse, og vandafledningsbidrag kan opkræves fra spildevandsløsningens ibrugtagning.
+
+Målerdata
