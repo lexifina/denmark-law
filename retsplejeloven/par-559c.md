@@ -1,0 +1,1 @@
+§ 559 c. En anmodning til fogedretten om tvangsauktion over en andel i en andelsboligforening, som anvendes til andet end beboelse, skal være skriftlig og være ledsaget af en udskrift af andelsboligbogen. I øvrigt finder § 559 a, stk. 5 og 6, tilsvarende anvendelse.
