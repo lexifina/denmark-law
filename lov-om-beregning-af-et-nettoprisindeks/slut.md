@@ -1,7 +1,5 @@
-Økonomiministeriet, den 10. juli 1990
+Økonomiministeriet, den 3. februar 1999
 
-Niels Helveg Petersen
+Marianne Jelved
 
-/ Ole Bruhn Johansen
-
-Ingen
+/Søren Brodersen
