@@ -1,9 +1,5 @@
-Givet på Christiansborg slot, den 18. juni 1969.
+Finansministeriet, den 14. juni 1988
 
-Under Vor Kongelige Hånd og Segl.
+Palle Simonsen
 
-FREDERIK R.é
-
-/Aage Hastrup.é
-
-Ingen
+/ Lene Larsen

@@ -1,0 +1,1 @@
+§ 19 a. Finansministeren kan efter indhentet udtalelse fra Lønningsrådet bestemme, at fremmede statsborgere, som har ansættelse i stillinger som professor eller lignende stillinger, der forudsætter en videnskabelig uddannelse, på tilsvarende vilkår som tjenestemænd, i pensionsmæssig henseende behandles efter reglerne i denne lov.
