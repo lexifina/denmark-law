@@ -1,3 +1,15 @@
-Lov om en garantifond for indskydere og investorer(* 1)
+Bekendtgørelse af lov om en garantifond for indskydere og investorer
 
-VI MARGRETHE DEN ANDEN, af Guds Nåde Danmarks Dronning, gør vitterligt: Folketinget har vedtaget og Vi ved Vort samtykke stadfæstet følgende lov:
+Herved bekendtgøres lov om en garantifond for indskydere og investorer, jf. lov nr. 415 af 26. juni 1998 med de ændringer, der følger af lov nr. 347 af 17. maj 2000.
+
+## Kapitel 1
+
+Garantifondens status og virksomhedsområde
+
+§ 1. Garantifonden for indskydere og investorer (Fonden) er en privat selvejende institution.
+
+Stk. 2. Fonden skal yde indskydere og investorer i de i § 3, stk. 1, og § 4 nævnte institutter dækning for tab i henhold til §§ 9-11 i tilfælde af betalingsstandsning eller konkurs.
+
+Stk. 3. Fonden kan herudover medvirke til foranstaltninger som nævnt i § 2.
+
+Stk. 4. Ved valget mellem dækning af indskydere og investorer efter stk. 2 og medvirken til foranstaltninger som nævnt i § 2 skal Fonden vælge den løsning, som skønnes at påføre Fonden færrest omkostninger.
