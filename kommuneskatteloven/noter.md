@@ -1,0 +1,1 @@
+§ 9, stk. 1, 3. pkt., i lov om kommunal indkomstskat er ophævet ved § 5 i lov nr. 460 af 31. maj 2000 (Udvidelse af DIS-ordningen samt beskatning af søfolk og luftfartspersonale i international trafik m.v.). Denne ændring er ikke indarbejdet i lovbekendtgørelsen. Skatteministeren fastsætter tidspunktet for ikrafttræden af sidstnævnte lovs §§ 2-7, jf. lovens § 8.
