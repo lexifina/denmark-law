@@ -1,3 +1,3 @@
 Bekendtgørelse af Sømandsloven
 
-Hermed bekendtgøres sømandsloven, jf. lovbekendtgørelse nr. 519 af 4. december 1985, med de ændringer, der følger af lov nr. 857 af 23. december 1987, lov nr. 163 af 23. marts 1988 og lov nr. 409 af 1. juli 1988
+Hermed bekendtgøres sømandsloven, jf. lovbekendtgørelse nr. 11 af 6. januar 1989 med de ændringer, der følger af lov nr. 271 af 2. maj 1990, lov nr. 1004 af 19. december 1992, lov nr. 911 af 8. december 1993 og lov nr. 287 af 27. april 1994.
