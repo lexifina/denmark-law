@@ -1,3 +1,3 @@
 Bekendtgørelse af lov om andelsboligforeninger og andre boligfællesskaber
 
-Hermed bekendtgøres lov om andelsboligforeninger og andre boligfællesskaber, jf. lovbekendtgørelse nr. 686 af 30. juli 1992, med de ændringer, der følger af § 3 i lov nr. 1072 af 22. december 1993, § 1 i lov nr. 335 af 10. maj 1994 og § 6 i lov nr. 445 af 1. juni 1994.
+Hermed bekendtgøres lov om andelsboligforeninger og andre boligfællesskaber, jf. lovbekendtgørelse nr. 917 af 10. november 1994, med de ændringer, der følger af § 4 i lov nr. 306 af 17. maj 1995, § 2 i lov nr. 220 af 27. marts 1996, § 7 i lov nr. 382 af 10. juni 1997 og § 1 i lov nr. 383 af 10. juni 1997.
