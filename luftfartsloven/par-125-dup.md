@@ -1,0 +1,1 @@
+§ 125. Bestemmelserne i dette kapitel finder ikke anvendelse på international luftbefordring, som udføres i henhold til reservation foretaget i overensstemmelse med tillægsprotokol til artikel 2 i Warszawa-konventionen af 12. oktober 1929 eller med artikel XXVI i Haag-protokollen af 28. september 1955.

@@ -1,0 +1,1 @@
+§ 123. Trafikministeren kan, for så vidt angår indenrigs luftfart, hvor mellemlanding uden for riget ikke er aftalt,4) gøre undtagelse fra de i § 92, stk. 1, § 92 a, stk. 1, § 93, stk. 1 og § 97 indeholdte bestemmelser om billetter, rejsegodsbeviser og luftfragtbreve.

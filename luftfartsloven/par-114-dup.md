@@ -1,0 +1,1 @@
+§ 114. Sagsøges befordrerens folk for skade, de har forårsaget under udførelsen af deres tjeneste ved en mindre grad af uagtsomhed end den i § 113 anførte, må summen af de erstatningsbeløb, som pålægges dem og befordreren, ikke overstige den for befordreren fastsatte ansvarsgrænse.

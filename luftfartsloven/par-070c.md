@@ -1,0 +1,1 @@
+§ 70 c. Politiet kan foretage eftersyn af personer, dokumenter, køretøjer og gods, der forlader flyvepladsområdet. Eftersynet skal gennemføres under iagttagelse af de i § 70 b, stk. 1, 2. pkt., og stk. 2, angivne retningslinier.

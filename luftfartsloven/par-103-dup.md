@@ -1,0 +1,1 @@
+§ 103. Indrømmer befordreren, at godset er gået tabt, eller er det ikke ankommet senest syv dage efter, at det skulle være kommet frem, kan modtageren gøre de af fragtaftalen flydende rettigheder gældende mod befordreren.
