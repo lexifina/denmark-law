@@ -10,7 +10,7 @@
 
 5. Der kan ikke aftales senere udbetaling for sidste rate end det kalenderår, hvori kontohaveren fylder 80 år. Rateudbetalingen kan tidligst påbegyndes ved kontohaverens fyldte 60. år, medmindre lavere aldersgrænse er godkendt af Ligningsrådet. Det kan dog tillige aftales, at udbetalingerne påbegyndes i tilfælde af kontohaverens død før det fyldte 60. år eller invaliditet, som efter reglerne i lov om social pension berettiger kontohaveren til at oppebære højeste eller mellemste førtidspension.
 
-6. Der kan ikke træffes bestemmelse om udbetaling efter kontohaverens død til andre end ægtefælle, herunder fraskilt ægtefælle, eller livsarvinger, herunder stedbørn og disses livsarvinger.
+6. Der kan ikke træffes bestemmelse om udbetaling efter kontohaverens død til andre end kontohaverens »nærmeste pårørende«, jf. § 5, stk. 5, i lov om visse civilretlige forhold m.v. ved pensionsopsparing i pengeinstitutter, eller kontohaverens ægtefælle, herunder fraskilt ægtefælle, eller livsarvinger, herunder stedbørn og disses livsarvinger.(* 3)
 
 Stk. 2. Før rateudbetalingen påbegyndes, vælger kontohaveren udbetalingsforløbet efter reglerne i dette stykke. Renter m.v., der tilskrives i det sidste udbetalingsår, skal senest udbetales sammen med sidste rate. Kontohaveren skal vælge et af følgende udbetalingsforløb:
 
@@ -18,7 +18,7 @@ Stk. 2. Før rateudbetalingen påbegyndes, vælger kontohaveren udbetalingsforl�
 
 2. et udbetalingsforløb med en årlig rateudbetaling, der udgør et beløb, som ved uændret rente i hele udbetalingsperioden vil give lige store årlige rater.
 
-Stk. 3. (* 3) Det beløb, der er nævnt i stk. 2, nr. 2, opgøres ved hvert kalenderårs begyndelse og beregnes som en annuitet på grundlag af ordningens værdi på dette tidspunkt og en nærmere fastsat amortisationsrente. Ved beregningen af amortisationsrenten anvendes en rentesats beregnet på grundlag af et simpelt gennemsnit opgjort med to decimaler af en af Københavns Fondsbørs dagligt udregnet effektiv obligationsrente for de seneste 20 børsdage forud for 15. december i året før udbetalingsåret. Den effektive obligationsrente opgøres med to decimaler for fastforrentede kroneobligationer i åbne serier, der noteres på Københavns Fondsbørs, bortset fra konverterbare obligationer noteret over pari samt indeksregulerede obligationer. Amortisationsrenten findes ved fra denne rentesats at fradrage rentesatsen ganget med den realrenteafgiftssats, der fastsættes efter § 10 i realrenteafgiftsloven for udbetalingsåret.
+Stk. 3. Det beløb, der er nævnt i stk. 2, nr. 2, opgøres ved hvert kalenderårs begyndelse og beregnes som en annuitet på grundlag af ordningens værdi på dette tidspunkt og en nærmere fastsat amortisationsrente. Ved beregningen af amortisationsrenten anvendes en rentesats beregnet på grundlag af et simpelt gennemsnit opgjort med to decimaler af en af Københavns Fondsbørs dagligt udregnet effektiv obligationsrente for de seneste 20 børsdage forud for 15. december i året før udbetalingsåret. Den effektive obligationsrente opgøres med to decimaler for fastforrentede kroneobligationer i åbne serier, der noteres på Københavns Fondsbørs, bortset fra konverterbare obligationer noteret over pari samt indeksregulerede obligationer. Amortisationsrenten findes ved fra denne rentesats at fradrage rentesatsen ganget med den realrenteafgiftssats, der fastsættes efter § 10 i realrenteafgiftsloven for udbetalingsåret.
 
 Stk. 4. Skatteministeren fastsætter nærmere regler om opgørelsen af ordningens værdi og kan fastsætte regler om administrationen af ordningen.
 
