@@ -1,9 +1,7 @@
-Givet på Christiansborg slot, den 21. december 1988
+Undervisnings- og Forskningsministeriet, den 27. januar 1992
 
-Under Vor Kongelige Hånd og Segl
+Bertel Haarder
 
-MARGRETHE R.
-
-/Bertel Haarder
+/ Birgitte Fink
 
 Ingen
