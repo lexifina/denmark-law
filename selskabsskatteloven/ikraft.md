@@ -1,81 +1,47 @@
-Lov nr. 244 af 9. juni 1982, hvis § 2, nr. 1, har indføjet § 2, stk. 1, litra d) og e), og hvis § 2, nr. 2, har ændret affattelsen af § 2, stk. 2, indeholder i § 8 følgende bestemmelser:
-
-§ 8
-
-Stk. 1. Loven træder i kraft dagen efter bekendtgørelsen i Lovtidende.
-
-Stk. 2. . . . § 2, stk. 1, litra d), som affattet ved denne lovs § 2, nr. 1, § 2, stk. 2, 3. pkt., som affatttet ved denne lovs § 2, nr. 2, har virkning for så vidt angår beskatning af skattegodtgørelse knyttet til udbytter, der deklareres fra og med dagen for lovens ikrafttræden.
-
-Stk. 3. . . . § 2, stk. 1, litra e), som affattet ved denne lovs § 2, nr. 1, § 2, stk. 2, 4. pkt., som affattet ved denne lovs § 2, nr. 2, har virkning fra 1. juli 1982. ----
-
-Lov nr. 246 af 9. juni 1982, hvis § 6, nr. 1 og 2, ændrer § 5, stk. 4, 2. pkt., og § 5 A, stk. 3, 2. pkt., og indføjer § 5, stk. 4, 4. pkt. og § 5 A, stk. 3, 4. pkt., og hvis § 6, nr. 3 og 4, har ændret affattelsen af § 35 D og § 35 G indeholder i § 8 følgende bestemmelser:
-
-§ 8
-
-Stk. 1. Loven træder i kraft dagen efter bekendtgørelsen i Lovtidende. Den har virkning fra den 1. juli 1982.
-
-Stk. 2. Frigørelsesafgiftslovens §§ 14 og 15, som affattet ved lovbekendtgørelse nr. 364 af 9. juli 1981, gælder fortsat for ejendomme, der er omfattet af lovens afsnit II, og for hvilke pligt til at svare frigørelsesafgift efter § 11, stk. 2, er indtrådt ved den 17. almindelige vurdering.
-
-----
-
-Lov nr. 144 af 13. april 1983, hvis § 1, nr. 1, 6, 7 og 8 har ændret affattelsen af § 3, stk. 1, nr. 7, § 17, stk. 3, 1. pkt., § 31, stk. 1, 4. pkt. og § 31, stk. 2, og hvis § 1, nr. 2, 3, 4 og 5 har indføjet § 3, stk. 1, nr. 19, § 3, stk. 7, § 13, stk. 1, nr. 3 og § 13, stk. 3, indeholder i § 4 følgende bestemmelse:
-
-§ 4
-
-§ 1, nr. 3-8, § 2 og § 3 har virkning fra og med skatteåret 1984-85, § 1, nr. 1 og 2, har virkning fra og med skatteåret 1983-84.
-
-----
-
-Lov nr. 145 af 13. april 1983, hvis § 2 har indføjet § 3, stk. 1, nr. 18, indeholder i § 3 følgende bestemmelser:
-
-§ 3
-
-Stk. 1. Loven træder i kraft dagen efter bekendtgørelsen i Lovtidende.
-
-Stk. 2. . . . § 2 har virkning fra og med skatteåret 1984-85.
-
-Stk. 3
-
-Stk. 4. Ministeren for skatter og afgifter eller den, ministeren bemyndiger dertil, kan tillade, at bedriftssundhedstjenester omfattet af § 1, stk. 1, nr. 1, 2 eller 6, i lov om indkomstbeskatning af aktieselskaber m.v. undtages fra skattepligt for skatteårene 1979-80 til og med 1983-84, såfremt de pågældende selskaber eller foreninger i de nævnte år alene har drevet bedriftssundhedstjeneste i overensstemmelse med de regler, der er fastsat i medfør af § 13, stk. 3, i lov om arbejdsmiljø, og såfremt indtægterne herved udelukkende er anvendt til de formål med bedriftssundhedstjenester, der er fastsat i de nævnte regler.
-
-Stk. 5. . . . anmodning om skattefritagelse efter stk. 4 skal indgives senest 31. maj 1984. Når særlige omstændigheder taler derfor, kan ministeren for skatter og afgifter dog indrømme tilladelse efter stk. 3 eller stk. 4, uanset at de nævnte frister er overskredet.
-
-----
-
-Lov nr. 125 af 31. marts 1985, hvis § 1 ændrer beskatningsprocenter m.v. i § 17, stk. 1, § 17 B, stk. 1, § 18, stk. 1, § 19, § 20, § 21 og § 23 indeholder i § 2 følgende bestemmelse:
+Lov nr. 107 af 11. marts 1987, hvis § 1, nr. 1, indføjer § 3, stk. 1, nr. 17 og nr. 18, og hvis § 1, nr. 2, ændrer § 9, stk. 1, indeholder i § 2 følgende bestemmelse:
 
 § 2
 
-Loven har virkning fra og med skatteåret 1986-87.
+Loven har virkning fra og med indkomståret 1987. ----------
 
-----
-
-Lov nr. 533 af 13. december 1985, hvis § 1 ændrer affattelsen af § 1, stk. 1, nr. 5a), indeholder i § 2 følgende bestemmelse:
+Lov nr. 110 af 11. marts 1987, hvis § 1, nr. 1, ændrer § 3, stk. 1, nr. 16, og hvis § 1, nr. 2, indføjer § 5, stk. 5, indeholder i § 2 følgende bestemmelser:
 
 § 2
 
-Stk. 1. Loven har virkning fra og med indkomståret 1986.
+Stk. 1. Loven træder i kraft dagen efter bekendtgørelsen i Lovtidende.
 
-Stk. 2. Loven finder ikke anvendelse på kursgevinster på fordringer, som er erhvervet før den 2. oktober 1985, medmindre der er tale om uforrentede, børsnoterede obligationer. Loven finder heller ikke anvendelse på kursgevinster på fordringer i danske kroner, som er udstedt før den 2. oktober 1985, men erhvervet den 2. oktober 1985 eller senere, hvis gevinsten realiseres efter 31. december 1986.
+Stk. 2. § 1, nr. 1, har virkning fra og med indkomståret 1987. ----------
 
-Stk. 3. For uforrentede, børsnoterede obligationer, der er erhvervet før den 2. oktober 1985, finder loven ikke anvendelse på kursgevinster, der overstiger forskellen mellem afståelsessummen og fordringens værdi pr. 31. december 1985.
-
-Stk. 4. Ved opgørelsen af den fortjeneste ved afståelse af aktier, som investeringsforeningen er forpligtet til at udlodde, træder for aktier, der er erhvervet før den 13. december 1985, kursværdien pr. 1. januar 1986 i stedet for den faktiske anskaffelsessum, medmindre denne er højere.
-
-----
-
-Lov nr. 146 af 19. marts 1986, hvis § 1, nr. 1 ændrer affattelsen af § 1, stk. 1, nr. 6, hvis § 1, nr. 2 ændrer affattelsen af § 1, stk. 3, 1. pkt., hvis § 1, nr. 3, ophæver § 1, stk. 5, hvis § 1, nr. 4 ophæver § 3, stk. 1, nr. 6), 9), 14) og 15), hvis § 1, nr. 5, ændrer affattelsen af § 3, stk. 2 og 3 og hvis § 1, nr. 6 ændrer affattelsen af § 9, stk. 1, indeholder i § 5 følgende bestemmelse:
+Lov nr. 146 af 25. marts 1987, hvis § 3, nr. 1, indføjer § 1, stk. 1, litra 2 b), hvis § 3, nr. 2, ændrer § 3, stk. 1, nr. 1, hvis § 3, nr. 3, ændrer § 13, stk. 1, nr. 2, hvis § 3, nr. 4 og 5, ændrer § 17, hvis § 3, nr. 6, indføjer § 31, stk. 2, nr. 3, og ændrer § 31, stk. 2, nr. 3 og 4, til nr. 4 og 5, og hvis § 3, nr. 7, indføjer § 35 I, indeholder i § 5 følgende bestemmelse:
 
 § 5
 
+Loven træder i kraft dagen efter bekendtgørelsen i Lovtidende og har virkning fra den 1. januar 1988. ----------
+
+Lov nr. 309 af 25. maj 1987, hvis § 2, nr. 1, 2 og 3, ændrer § 2, stk. 1, litra a), c) og e), hvis § 2, nr. 4 og 5, indføjer § 2, stk. 1, litra f) og g), hvis § 2, nr. 6, ændrer § 2, stk. 2, hvis § 2, nr. 7, ændrer § 6, stk. 1, 1. pkt., § 7, 1. pkt., § 9, stk. 1, og § 21, hvis § 2, nr. 8 og 9, ændrer § 24, stk. 2, og § 26, stk. 1, og hvis § 2, nr. 10, indføjer § 27, stk. 2, som nyt stykke og ændrer stk. 2 til stk. 3, indeholder i § 4 følgende bestemmelser:
+
+§ 4
+
+Stk. 1. Loven træder i kraft dagen efter bekendtgørelsen i Lovtidende.
+
+Stk. 2. - -
+
+Stk. 3. Kildeskattelovens § 2, stk. 1, litra b), og § 43, stk. 2, litra i), som affattet ved denne lovs § 1, nr. 3 og 13, samt selskabsskattelovens § 2, stk. 1, litra f), som affattet ved denne lovs § 2, nr. 4, har virkning for indkomst, hvortil den skattepligtige erhverver endelig ret den 18. februar 1987 eller senere.
+
+Stk. 4. Kildeskattelovens § 2, stk. 1, litra d), som affattet ved denne lovs § 1, nr. 4, og selskabsskattelovens § 2, stk. 1, litra a), som affattet ved denne lovs § 2, nr. 1, har virkning for ydelser og forpagtningsafgifter, hvortil den skattepligtige erhverver endelig ret den 18. februar 1987 eller senere.
+
+Stk. 5. Kildeskattelovens § 2, stk. 1, litra f), som affattet ved denne lovs § 1, nr. 5, og selskabsskattelovens § 2, stk. 1, litra c), som affattet ved denne lovs § 2, nr. 2, har virkning for udbytteudlodninger og aktieafståelser m.v. foretaget den 18. februar 1987 eller senere.
+
+Stk. 6. - -
+
+Stk. 7. Kildeskattelovens § 2, stk. 1, litra i), § 2, stk. 7, § 40, 3. pkt., § 41, stk. 2, 3. pkt., § 65 C, stk. 1 og 2, § 66 A, § 74, stk. 1, nr. 1, 3 og 4, som affattet ved denne lovs § 1, nr. 8, 10, 11, 12, 16, 17, 18 og 19, samt selskabsskattelovens § 2, stk. 1, litra g), og § 2, stk. 2, 5. pkt., som affattet ved denne lovs § 2, nr. 5 og 6, har virkning for royalty, der forfalder til betaling eller godskrivning den 1. januar 1988 eller senere.
+
+Stk. 8. - -
+
+Stk. 9. Personer, der ikke er omfattet af kildeskattelovens § 1, dødsboer, der behandles i udlandet, og selskaber og foreninger m.v. som nævnt i selskabsskattelovens § 1, stk. 1 og 2, der har hjemsted i udlandet, er pligtige til at svare indkomstskat af royalty, som de pågældende i perioden 18. februar til 31. december 1987 oppebærer fra kilder her i landet i henhold til en kontrakt, som er indgået i samme periode. Indkomstskatten beregnes til 30 pct. af royaltybeløbet. Indkomstskattepligten er endeligt opfyldt ved den erlagte skat. Reglerne i dette stykke gælder dog ikke for royalty, som er knyttet til et fast driftssted omfattet af kildeskattelovens § 2, stk. 1, litra d), eller selskabsskattelovens § 2, stk. 1, litra a). Skatteministeren fastsætter de nærmere regler om selvangivelse af royalty omfattet af dette stykke samt om påligning og opkrævning af indkomstskatten heraf. ----------
+
+Lov nr. 360 af 10. juni 1987, hvis § 1, nr. 1, indføjer § 31, stk. 2, som nyt stykke og hvis § 1, nr. 2, ændrer § 31, stk. 2 til stk. 3, indeholder i § 4 følgende bestemmelse:
+
+§ 4
+
 Loven har virkning fra og med indkomståret 1987.
-
-----
-
-Lov nr. 335 af 4. juni 1986, hvis § 2 indføjer § 3, stk. 1, nr. 16), indeholder i § 3 følgende bestemmelse:
-
-§ 3
-
-Stk. 1. Loven træder i kraft den 1. juli 1986.
-
-Stk. 2. - - -.
