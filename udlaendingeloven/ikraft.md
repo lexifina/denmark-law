@@ -106,7 +106,7 @@ Lov nr. 410 af 10. juni 1997 indeholder følgende bestemmelser:
 
 § 3
 
-Stk. 1. Indenrigsministeren fastsætter tidspunktet for lovens ikrafttræden. Ministeren kan bestemme, at de enkelte bestemmelser i loven træder i kraft på forskellige tidspunkter og kun træder i kraft ved bestemte grænseovergangssteder.
+Stk. 1. Indenrigsministeren fastsætter tidspunktet for lovens ikrafttræden.Ministeren kan bestemme, at de enkelte bestemmelser i loven træder i kraft på forskellige tidspunkter og kun træder i kraft ved bestemte grænseovergangssteder.
 
 Stk. 2. § 1, nr. 12, 20, 28 og 29, og § 2, nr. 5, 6, 8 og 10, træder dog i kraft dagen efter bekendtgørelsen i Lovtidende.
 
@@ -131,3 +131,11 @@ Stk. 5. Udlændingelovens § 10, stk. 1, § 19, stk. 6, §§ 22-26, § 27, stk. 
 Stk. 6. Udlændingelovens § 50, stk. 1, som affattet ved denne lovs § 1, nr. 45, og udlændingelovens § 57, stk. 1, 2. pkt., og stk. 2, som affattet ved denne lovs § 1, nr. 52, finder ikke anvendelse for udlændinge, der inden lovens ikrafttræden første gang har fremsat begæring om udvisningens ophævelse.
 
 Stk. 7. For ansøgninger om administrativ ophævelse af et indrejseforbud, der er indgivet inden lovens ikrafttræden, finder de hidtil gældende regler i udlændingelovens § 32, stk. 4, som affattet ved lovbekendtgørelse nr. 650 af 13. august 1997, fortsat anvendelse.
+
+Lov nr. 424 af 31. maj 2000 indeholder følgende bestemmelse:
+
+§ 6
+
+Stk. 1. Loven træder i kraft dagen efter bekendtgørelsen i Lovtidende.
+
+Stk. 2. Udlændingelovens § 9, stk. 1, nr. 2, stk. 2, nr. 7, stk. 4, 1. og 4. pkt., stk. 7, 1. og 3. pkt., og stk. 8-11, og § 19, stk. 1, nr. 5, 1. pkt., og nr. 6, 1. pkt., som affattet henholdsvis ændret ved denne lovs § 1, nr. 1-10 og 15, finder ikke anvendelse for udlændinge, der inden lovens ikrafttræden har indgivet ansøgning om eller er meddelt opholdstilladelse.
