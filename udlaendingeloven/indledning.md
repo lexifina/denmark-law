@@ -1,3 +1,3 @@
 Bekendtgørelse af udlændingeloven
 
-Herved bekendtgøres udlændingeloven, jf. lovbekendtgørelse nr. 894 af 27. oktober 1994, med de ændringer, der følger af lov nr. 33 af 18. januar 1995, lov nr. 34 af 18. januar 1995. (* 1) (* 2) Den bekendtgjorte tekst gælder først fuldt ud fra den 1. september 1995, jf. § 3 i lov nr. 382 af 14. juni 1995, der gengives i bekendtgørelsens slutning.
+Herved bekendtgøres udlændingeloven, jf. lovbekendtgørelse nr. 562 af 30. juni 1995, med de ændringer, der følger af lov nr. 382 af 14. juni 1995, lov nr. 290 af 24. april 1996, lov nr. 380 af 22. maj 1996, lov nr. 381 af 22. maj 1996, lov nr. 473 af 12. juni 1996 og lov nr. 1052 af 11. december 1996.(* 1)(* 2) Den bekendtgjorte tekst gælder fuldt ud fra den 1. januar 1997, jf. § 31 i lov nr. 473 af 12. juni 1996, der gengives i lovbekendtgørelsens slutning.

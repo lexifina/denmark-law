@@ -1,1 +1,0 @@
-§ 48 e. Træffer Direktoratet for Udlændinge ikke afgørelse om afvisning eller udvisning og udsendelse, gøres udlændingen bekendt med adgangen til at sætte sig i forbindelse med Dansk Flygtningehjælp.«
