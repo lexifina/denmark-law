@@ -8,8 +8,8 @@ Stk. 2. Ved et nyt aktivstof forstås et aktivstof, der ikke senest den 26. juli
 
 Stk. 3. Oplysninger om et aktivstof, der ikke er omfattet af stk. 2, kan frit lægges til grund til fordel for en senere ansøger. Dog kan supplerende oplysninger, der indsendes efter den første optagelse på EF-Listen, jf. stk. 1, ikke anvendes til fordel for en senere ansøger i en periode på fem år regnet fra afgørelsen, der er truffet på grundlag af de supplerende oplysninger.
 
-Stk. 4. Oplysninger om plantebeskyttelsesmidler, som en ansøger har indsendt i forbindelse med godkendelse af et plantebeskyttelsesmiddel, må ikke lægges til grund til fordel for en anden ansøger, medmindre
+Stk. 4. Oplysninger om plantebeskyttelsesmidler, hvor aktivstoffet eller et af aktivstofferne er optaget på EF-listen, jf. stk. 1, og som en ansøger har indsendt i forbindelse med godkendelse af et plantebeskyttelsesmiddel, må ikke lægges til grund til fordel for en anden ansøger, medmindre
 
 1) der er truffet aftale herom med den første ansøger eller
 
-2) der er gået ti år fra den første godkendelse i et land, der er medlem af De Europæiske Fællesskaber, af et plantebeskyttelsesmiddel, hvor det aktive stof er optaget på EF-Listen, jf. stk. 1.
+2) der er gået ti år fra den første godkendelse efter optagelsen i et land, der er medlem af De Europæiske Fællesskaber.
