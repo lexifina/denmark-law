@@ -2,7 +2,7 @@ Lov nr. 358 af 14. juni 1995 indeholder i § 2 følgende ikrafttrædelsesbestemm
 
 § 2
 
-Tidspunktet for lovens ikrafttræden fastsættes af arbejdsministeren. Loven træder dog tidligst i kraft den 1. januar 1996. Arbejdsministeren fastsætter endvidere hvilken periode for indbetalte ATP-bidrag, der første gang skal danne grundlag for det forhøjede kompensationsbeløb. For ATP-bidrag, der vedrører tiden før lovens ikrafttræden, beregnes kompensationsbeløbet efter de hidtil gældende regler.
+Tidspunktet for lovens ikrafttræden fastsættes af beskæftigelsesministeren. Loven træder dog tidligst i kraft den 1. januar 1996. Beskæftigelsesministeren fastsætter endvidere hvilken periode for indbetalte ATP-bidrag, der første gang skal danne grundlag for det forhøjede kompensationsbeløb. For ATP-bidrag, der vedrører tiden før lovens ikrafttræden, beregnes kompensationsbeløbet efter de hidtil gældende regler.
 
 Lov nr. 1057 af 20. december 1995 indeholder i § 10 følgende ikrafttrædelsesbestemmelse:
 
@@ -18,7 +18,7 @@ Lov nr. 1071 af 20. december 1995 indeholder i § 37 følgende bestemmelse:
 
 § 37
 
-Tidspunktet for lovens eller dele af lovens ikrafttræden fastsættes af erhvervsministeren, for så vidt angår § 42 efter drøftelse med skatteministeren.
+Tidspunktet for lovens eller dele af lovens ikrafttræden fastsættes af økonomi- og erhvervsministeren, for så vidt angår § 42 efter drøftelse med skatteministeren.
 
 Stk. 2. ---
 
@@ -42,29 +42,29 @@ Lov nr. 475 af 10. juni 1997 som ændret ved § 5 i lov nr. 414 af 26. juni 1998
 
 § 9
 
-Loven træder i kraft den 1. januar 1998. § 42 b, stk. 4, i lov om banker og sparekasser m.v., som affattet ved denne lovs § 2, nr. 17, har dog virkning for anskaffelser, der foretages fra og med den 9. april 1997. § 3, nr. 1-4, 7-12, 14 og 17, træder dog i kraft dagen efter bekendtgørelsen i Lovtidende.
+Loven træder i kraft den 1. januar 1998. - - - § 3, nr. 1-4, 7-12, 14 og 17, træder dog i kraft dagen efter bekendtgørelsen i Lovtidende.
 
-Stk. 2. Senest den 1. marts 1998 skal bestyrelsen have udarbejdet interne retningslinjer ifølge § 90, stk. 2, § 91, stk. 5, og § 91 a, stk. 1, i lov om forsikringsvirksomhed, som affattet ved denne lovs § 1, nr. 4 og 5, § 19, stk. 2, § 19 a, stk. 5, og § 19 b, stk. 1, i lov om banker og sparekasser m.v., som affattet ved denne lovs § 2, nr. 7 og 8, § 18 a, stk. 2, § 18 b, stk. 5, og § 18 c, stk. 1, i realkreditloven, som affattet ved denne lovs § 3, nr. 6, § 12, stk. 4, og § 12 b, stk. 1, i lov om værdipapirhandel m.v., som affattet ved denne lovs § 4, nr. 1 og 3, § 12, stk. 2, og § 12 b, stk. 1, i lov om fondsmæglerselskaber, som affattet ved denne lovs § 5, nr. 5 og 6, § 5 a, stk. 2, og § 5 c, stk. 1, i lov om Lønmodtagernes Dyrtidsfond, som affattet ved denne lovs § 7, nr. 1, samt § 24 c, stk. 2, og § 24 e, stk. 1, i lov om Arbejdsmarkedets Tillægspension, som affattet ved denne lovs § 8, nr. 1.
+Stk. 2. Senest den 1. marts 1998 skal bestyrelsen have udarbejdet interne retningslinjer ifølge - - - § 24 c, stk. 2, og § 24 e, stk. 1, i lov om Arbejdsmarkedets Tillægspension, som affattet ved denne lovs § 8, nr. 1.
 
-Stk. 3. Bestemmelserne i § 91, stk. 2, 2. pkt., § 91 a, stk. 2, § 92, § 92 b, stk. 5, 2. pkt., og § 124, stk. 5 og 6, i lov om forsikringsvirksomhed, som affattet ved denne lovs § 1, nr. 5 og 7, § 19 a, stk. 2, 2. pkt., § 19 b, stk. 2 og 3, § 19 d, stk. 4, 2. pkt., og § 31, stk. 6 og 7, i lov om banker og sparekasser m.v., som affattet ved denne lovs § 2, nr. 8 og 10, § 18 b, stk. 2, 2. pkt., § 18 c, stk. 2 og 3, § 18 e, stk. 4, 2. pkt., og § 89, stk. 4 og 5, i realkreditloven, som affattet ved denne lovs § 3, nr. 6 og 13, § 12 a, stk. 2, 2. pkt., § 12 b, stk. 2 og 3, § 12 d, stk. 4, 2. pkt., og § 14, stk. 2, i lov om værdipapirhandel m.v., som affattet ved denne lovs § 4, nr. 3 og 4, § 11 a, stk. 3, 2. pkt., og § 12 b, stk. 2 og 3, i lov om fondsmæglerselskaber, som affattet ved denne lovs § 5, nr. 4 og 6, § 5 b, stk. 3, 2. pkt., § 5 c, stk. 2, § 5 d, § 5 g, stk. 3, 2. pkt., og § 8 a, stk. 9, i lov om Lønmodtagernes Dyrtidsfond, som affattet ved denne lovs § 7, nr. 1 og 2, § 24 d, stk. 3, 2. pkt., § 24 e, stk. 2, § 24 f, § 24 i, stk. 3, 2. pkt., og § 25 b, stk. 9, i lov om Arbejdsmarkedets Tillægspension, som affattet ved denne lovs § 8, nr. 1 og 2, finder anvendelse på regnskabsår, der begynder den 1. januar 1998 eller senere.
+Stk. 3. Bestemmelserne i - - - § 24 d, stk. 3, 2. pkt., § 24 e, stk. 2, § 24 f, § 24 i, stk. 3, 2. pkt., og § 25 b, stk. 9, i lov om Arbejdsmarkedets Tillægspension, som affattet ved denne lovs § 8, nr. 1 og 2, finder anvendelse på regnskabsår, der begynder den 1. januar 1998 eller senere.
 
-Stk. 4. Direktører, vicedirektører, underdirektører og dermed ligestillede samt interne revisions- og vicerevisionschefer, der ved lovens ikrafttræden ejer eller driver en virksomhed i strid med § 92 a i lov om forsikringsvirksomhed, som affattet ved denne lovs § 1, nr. 5, og § 5 f i lov om Lønmodtagernes Dyrtidsfond, som affattet ved denne lovs § 7, nr. 1, og § 24 h i lov om Arbejdsmarkedets Tillægspension, som affattet ved denne lovs § 8, nr. 1, kan uanset disse bestemmelser fortsætte hermed.
+Stk. 4. Direktører, vicedirektører, underdirektører og dermed ligestillede samt interne revisions- og vicerevisionschefer, der ved lovens ikrafttræden ejer eller driver en virksomhed i strid med - - - § 24 h i lov om Arbejdsmarkedets Tillægspension, som affattet ved denne lovs § 8, nr. 1, kan uanset disse bestemmelser fortsætte hermed.
 
-Stk. 5. Personer omfattet af § 92 a i lov om forsikringsvirksomhed, § 5 f i lov om Lønmodtagernes Dyrtidsfond samt § 24 h i lov om Arbejdsmarkedets Tillægspension, der ved lovens ikrafttræden har varetaget hverv i overensstemmelse med bestemmelserne i disse love, kan uanset reglerne i § 92 a, jf. §§ 92 b - 92 g i lov om forsikringsvirksomhed, som affattet ved denne lovs § 1, nr. 5, § 5 f, jf. §§ 5 g - 5 l i lov om Lønmodtagernes Dyrtidsfond, som affattet ved denne lovs § 7, nr. 1, og § 24 h, jf. §§ 24 i - 24 n i lov om Arbejdsmarkedets Tillægspension, som affattet ved denne lovs § 8, nr. 1, fortsætte hermed indtil udløbet af den valg- eller funktionsperiode, der var påbegyndt inden den 9. april 1997. Hvis den nævnte personkreds efter denne dato påbegynder en valg- eller funktionsperiode i et hverv, der ikke er omfattet af § 92 a, jf. §§ 92 b - 92 g i lov om forsikringsvirksomhed, § 5 f, jf. §§ 5 g - 5 l i lov om Lønmodtagernes Dyrtidsfond og § 24 h, jf. §§ 24 i - 24 n i lov om Arbejdsmarkedets Tillægspension, skal den pågældende fratræde senest den 1. februar 1998.
+Stk. 5. - - -
 
-Stk. 6. Personer, der i medfør af § 11 i lov om fondsmæglerselskaber nr. 1071 af 20. december 1995 varetager hverv, som ikke er omfattet af §§ 11 a - 11 d, som affattet ved denne lovs § 5, nr. 4, kan fortsætte hermed indtil udløbet af den valg- eller funktionsperiode, der var påbegyndt inden den 9. april 1997. Hvis en af bestemmelsen omfattet person efter denne dato påbegynder en valg- eller funktionsperiode i et hverv, der ikke er omfattet af §§ 11 a - 11 d i lov om fondsmæglerselskaber, skal den pågældende fratræde senest den 1. februar 1998.
+Stk. 6. - - -
 
 Stk. 7. Uanset reglerne i denne lov kan direktører, vicedirektører, underdirektører og dermed ligestillede samt filialbestyrere i finansielle institutter omfattet af denne lov varetage bestyrelseshverv i Danmarks Skibskreditfond, Dansk Eksportfinansiering, Dansk Landbrugs Realkreditfond, Dansk Udviklingsfinansiering A/S, Finansieringsinstituttet for Hoteller m.v., Finansieringsinstituttet for Industri og Håndværk A/S, Foreningen Norden, Landsbankernes Reallånefond, Totalkredit Realkreditfond, Grønlandsbanken A/S, Kongeriget Danmarks Fiskeribank og Bornholms Erhvervsfond.
 
-Stk. 8. Personer omfattet af § 12 c, stk. 3, i lov om værdipapirhandel m.v., som affattet ved denne lovs § 4, nr. 3, der den 1. januar 1998 varetager hverv som interne revisions- eller vicerevisionschefer i selskaber uden for koncernen, kan fortsætte hermed indtil udløbet af den funktionsperiode, der var påbegyndt den 9. april 1997. Hvis de nævnte personer efter denne dato påbegynder en funktionsperiode som intern revisions- eller vicerevisionschef i et selskab, der ikke omfattes af § 12 c, stk. 3, skal den pågældende fratræde senest den 1. februar 1998.
+Stk. 8. - - -
 
 Stk. 9. Engagementer og sikkerhedsstillelser, der den 1. januar 1998 lovligt var indgået mellem den valgte revision eller en intern revisions- eller vicerevisionschef eller ansatte i Arbejdsmarkedets Tillægspension eller Lønmodtagernes Dyrtidsfond og de i §§ 1-5, 7 og 8 omhandlede institutter og selskaber, kan fortsætte til den oprindeligt aftalte udløbsdato.
 
-Stk. 10. De filialer, der allerede udøver virksomhed i henhold til § 211, stk. 1, i lov om forsikringsvirksomhed og § 6 a, stk. 1, i lov om banker og sparekasser m.v., og som omfattes af § 1, nr. 11, og § 2, nr. 1, skal anmeldes til Erhvervs- og Selskabsstyrelsen senest den 1. juli 1998. De filialer af udenlandske fondsmæglerselskaber og kredit- og finansieringsinstitutter, der ikke er organiseret som aktieselskaber, kommanditaktieselskaber eller en tilsvarende retsform, som allerede udøver virksomhed i henhold til § 6, stk. 1, i lov om fondsmæglerselskaber eller § 12, stk. 1 eller 4, i realkreditloven, og som omfattes af § 3, nr. 3, og § 5, nr. 1, skal anmeldes til Erhvervs- og Selskabsstyrelsen senest den 1. juli 1998.
+Stk. 10. - - -
 
-Stk. 11. Personer ansat i Kommunernes Revisionsafdeling kan dog uanset § 180, stk. 2, i lov om forsikringsvirksomhed som affattet ved denne lovs § 1, nr. 8, § 34, stk. 1, 2. pkt., i lov om banker og sparekasser som affattet ved denne lovs § 2, nr. 11, § 90, stk. 1, 2. pkt., i realkreditloven som affattet ved denne lovs § 3, nr. 14, § 9, stk. 1, i lov om Lønmodtagernes Dyrtidsfond som ændret ved denne lovs § 7, nr. 3, og § 25 c, stk. 1, i lov om Arbejdsmarkedets Tillægspension som ændret ved denne lovs § 8, nr. 3, fortsat udøve hvervet som medrevisor til den første ordinære generalforsamling efter udgangen af 1999, på hvilken der træffes afgørelse om godkendelse af et årsregnskab.
+Stk. 11. - - -
 
-Stk. 12. Personer, der lovligt før 1. januar 1998 er valgt til at forestå den lovpligtige revision i finansielle institutter omfattet af denne lov, men som ikke er statsautoriseret eller registreret revisor, kan fortsætte med deres hverv til den første ordinære generalforsamling efter 1. januar 1998, på hvilken der træffes afgørelse om godkendelse af et årsregnskab.
+Stk. 12. - - -
 
 Lov nr. 803 af 24. oktober 1997 som ændret ved § 5 i lov nr. 1081 af 29. december 1997 indeholder i § 15 følgende bestemmelser:
 
@@ -82,15 +82,15 @@ Lov nr. 980 af 17. december 1997 indeholder i § 42 følgende bestemmelser:
 
 § 42
 
-Loven træder i kraft den 1. juli 1998, jf. dog stk. 2, 3 og 4.
+Loven træder i kraft den 1. juli 1998 - - -.
 
-Stk. 2. § 15 har virkning fra og med opgørelsen af kommunens eller amtskommunens folketal pr. 1. januar 1999.
+Stk. 2. - - -
 
-Stk. 3. § 32 træder i kraft den 29. juni 1998.
+Stk. 3. - - -
 
-Stk. 4. § 25, nr. 1, har virkning for indstillinger til socialministeren for 2000 og frem.
+Stk. 4. - - -
 
-Stk. 5. Den 1. juli 1998 ophæves lov om social bistand, jf. lovbekendtgørelse nr. 110 af 26. februar 1996, lov om kommunal aktivering, jf. lovbekendtgørelse nr. 36 af 26. januar 1996, lov om styrelse af sociale og visse sundhedsmæssige anliggender, jf. lovbekendtgørelse nr. 552 af 10. juli 1991, og lov om Den Sociale Ankestyrelse, jf. lovbekendtgørelse nr. 530 af 13. august 1986.
+Stk. 5. - - -
 
 Lov nr. 424 af 26. juni 1998 indeholder i § 9 følgende bestemmelse:
 
@@ -164,7 +164,7 @@ Lov nr. 1077 af 29. december 1999 indeholder i § 2 følgende ikrafttrædelsesbe
 
 § 2
 
-Tidspunktet for lovens ikrafttræden fastsættes af arbejdsministeren.
+Tidspunktet for lovens ikrafttræden fastsættes af beskæftigelsesministeren.
 
 Stk. 2. Nedsættelsen af kompensationsbeløbet sker første gang for det kompensationsbeløb, der udbetales på grundlag af indbetalte ATP-bidrag i perioden 23. februar - 22. maj 2000.
 
@@ -174,7 +174,7 @@ Lov nr. 1082 af 29. december 1999 indeholder i § 3 og § 4 følgende ikrafttræ
 
 § 3
 
-Loven træder i kraft den 1. januar 2000. Arbejdsministeren fastsætter tidspunktet for, hvornår arbejdspraktik kan påbegyndes.
+Loven træder i kraft den 1. januar 2000. - - -
 
 § 4
 
@@ -184,7 +184,7 @@ Lov nr. 1085 af 29. december 1999 indeholder i § 2 følgende ikrafttrædelsesbe
 
 § 2
 
-Tidspunktet for lovens ikrafttræden fastsættes af arbejdsministeren. Loven træder dog tidligst i kraft den 1. januar 2000.
+Tidspunktet for lovens ikrafttræden fastsættes af beskæftigelsesministeren. Loven træder dog tidligst i kraft den 1. januar 2000.
 
 Stk. 2. Nedsættelsen af kompensationsbeløbet sker første gang for det kompensationsbeløb, der udbetales på grundlag af indbetalte ATP-bidrag i perioden 23. februar - 22. maj 2000.
 
@@ -273,3 +273,87 @@ Lov nr. 1329 af 20. december 2000 indeholder i § 6 følgende ikrafttrædelsesbe
 § 6
 
 Loven træder i kraft den 1. januar 2001.
+
+Lov nr. 284 af 25. april 2001 indeholder i § 8 følgende ikrafttrædelsesbestemmelser:
+
+§ 8
+
+Stk. 1. Loven træder i kraft den 1. juli 2001, jf. dog stk. --,-- og 8.
+
+Stk. 2. ---
+
+Stk. 3. ---
+
+Stk. 4. ---
+
+Stk. 5. ---
+
+Stk. 6. ---
+
+Stk. 7. ---
+
+Stk. 8. § 3, nr. 2, træder i kraft den 1. januar 2003.
+
+Lov nr. 332 af 16. maj 2001 indeholder i § 2 følgende bestemmelser:
+
+§ 2
+
+Stk. 1. Loven træder i kraft den 1. januar 2002. § 1, nr. 14, har dog virkning fra den 1. januar 2001.
+
+Stk. 2. Kun samlivsperioder fra den 1. januar 2002 medregnes i samlivskravet på 2 år efter § 14 b, stk. 2, som indsat ved § 1, nr. 12.
+
+Stk. 3. Kun medlemskab og bidrag, der vedrører tiden fra den 1. januar 2002, medregnes i karensperioderne på 2 år efter § 14 b, stk. 3, og § 14 e, stk. 3, som indsat ved § 1, nr. 12.
+
+Stk. 4. Bidrag, der vedrører tiden fra den 1. januar 2002, kan ikke danne baggrund for beregning af ydelser efter §§ 11 og 11 a.
+
+Stk. 5. Medlemmer, der er fyldt 65 år den 1. januar 2002, er ikke omfattet af lovens § 1, nr. 12 og 13.
+
+Lov nr. 503 af 7. juni 2001 indeholder i § 6 følgende ikrafttrædelsesbestemmelse:
+
+§ 6
+
+Stk. 1. Loven træder i kraft den 1. juli 2001, ---
+
+Stk. 2. ---
+
+Lov nr. 357 af 6. juni 2002 indeholder i § 6 følgende bestemmelser:
+
+§ 6
+
+Stk. 1. Loven træder i kraft den 10. juni 2002, jf. dog stk. 2, og har virkning første gang for godskrivning af indbetalte bidrag for indkomståret 2001.
+
+Stk. 2. § 1, nr. 1 og §§ 2-5 træder i kraft den 1. januar 2003, jf. dog stk. 5. Indeståender på den enkeltes konto i Den Midlertidige Pensionsopsparing, jf. det hidtil gældende kapitel 5 b, overflyttes pr. 1. januar 2003 til den pågældendes konto i Den Særlige Pensionsopsparing. Sammenlægning af kontoen i Den Midlertidige Pensionsopsparing og kontoen i Den Særlige Pensionsopsparing, jf. 1. pkt., anses uanset pensionsbeskatningslovens § 30, stk. 1, ikke for at være en disposition, der medfører, at den videreførte konto i Den Særlige Pensionsopsparing ikke længere opfylder betingelser i pensionsbeskatningslovens kapitel 1. Eventuel regulering af beløb til Den Midlertidige Pensionsopsparing for indkomståret 1998 sker efter de hidtil gældende regler, jf. lovbekendtgørelse nr. 5 af 4. januar 2001. Regulering efter 1. januar 2003 sker på pågældendes konto i Den Særlige Penionsopsparing.
+
+Stk. 3. Eventuel regulering af beløb til Den Særlige Pensionsopsparing for indkomstårene 1999 og 2000 sker efter de hidtil gældende regler, jf. lovbekendtgørelse nr. 5 af 4. januar 2001.
+
+Stk. 4. Af de beløb, der ikke har kunnet indgå i fordelingen, jf. den hidtil gældende § 17 g, stk. 8, ved godskrivningen i 2001, tilbageholder Arbejdsmarkedets Tillægspension indtil videre 30 mio. kr. til efterregulering m.v. af konti. Det resterende beløb fordeles mellem kontohaverne. Beskæftigelsesministeren fastsætter nærmere regler om fordeling mellem kontohaverne såvel af dette resterende beløb som til sin tid af det beløb, som har været reserveret til regulering m.v.
+
+Stk. 5. Afgift af engangsbeløb, der udbetales efter § 14 b, stk. 1, og § 14 e, stk. 1, i lov om Arbejdsmarkedets Tillægspension, jf. pensionsbeskatningslovens § 29 B, nr. 2, som affattet ved denne lovs § 4, nr. 1, har virkning for ydelser til ægtefæller og samlevere samt børneydelser, der udbetales ved dødsfald, der indtræffer den 1. januar 2004 eller senere.
+
+Lov nr. 403 af 6. juni 2002 indeholder i § 8 følgende ikrafttrædelsesbestemmelser:
+
+§ 8
+
+Stk. 1. Loven træder i kraft den 1. januar 2003, jf. dog stk. 2-4.
+
+Stk. 2. ---
+
+Stk. 3. § 4, nr. 1, træder i kraft dagen efter bekendtgørelse i Lovtidende og har virkning fra den 1. juli 2001.
+
+Lov nr. 428 af 6. juni 2002 indeholder i § 19 følgende ikrafttrædelsesbestemmelse:
+
+§ 19
+
+Stk. 1. Loven træder i kraft den 1. juli 2002, ---
+
+Stk. 2. ---
+
+Stk. 3. ---
+
+Stk. 4. ---
+
+Lov nr. 434 af 10. juni 2002 indeholder i § 5 følgende ikrafttrædelsesbestemmelse:
+
+§ 5
+
+Loven træder i kraft den 1. september 2002.

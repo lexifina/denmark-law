@@ -6,4 +6,4 @@ Stk. 3. Efter at revisionen er afsluttet, skal revisorerne ved påtegning på re
 
 Stk. 4. Revisorerne skal til brug for bestyrelsen føre en revisionsprotokol, der forelægges på ethvert bestyrelsesmøde. Enhver protokoltilførsel underskrives af samtlige bestyrelsesmedlemmer.
 
-Stk. 5. Findes en revisor åbenbart uegnet til sit hverv, kan arbejdsministeren afskedige den pågældende og i den afgåedes sted udpege en revisor, der fungerer, indtil nyt valg kan foretages.
+Stk. 5. Findes en revisor åbenbart uegnet til sit hverv, kan beskæftigelsesministeren afskedige den pågældende og i den afgåedes sted udpege en revisor, der fungerer, indtil nyt valg kan foretages.

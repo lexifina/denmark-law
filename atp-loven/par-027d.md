@@ -1,1 +1,1 @@
-§ 27 d. Til dækning af udgifterne ved Finanstilsynets tilsyn med Arbejdsmarkedets Tillægspension fastsætter Finanstilsynet et gebyr, der udredes af Arbejdsmarkedets Tillægspension.
+§ 27 d. Arbejdsmarkedets Tillægspension betaler afgift til Finanstilsynet. Afgiften sættes efter kapitel 7 a i lov om finansiel virksomhed.
