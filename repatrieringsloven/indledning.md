@@ -1,7 +1,3 @@
 Bekendtgørelse af repatrieringsloven
 
-Herved bekendtgøres repatrieringsloven, lov nr. 353 af 2. juni 1999, med de ændringer, der følger af § 3 i lov nr. 424 af 31. maj 2000 og § 4 i lov nr. 365 af 6. juni 2002.
-
-## Kapitel 1
-
-Formål, personkreds m.v.
+Herved bekendtgøres repatrieringsloven, jf. lovbekendtgørelse nr. 793 af 18. september 2002, med de ændringer, der følger af § 3 i lov nr. 1043 af 17. december 2002, § 3 i lov nr. 425 af 10. juni 2003, lov nr. 1157 af 19. december 2003 og § 5 i lov nr. 1165 af 19. december 2003.
