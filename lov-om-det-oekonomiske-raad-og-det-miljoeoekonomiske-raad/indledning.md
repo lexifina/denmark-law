@@ -1,5 +1,3 @@
 Bekendtgørelse af lov om økonomisk samordning
 
-(Det Økonomiske Råd)
-
-Herved bekendtgøres lov nr. 302 af 5. september 1962 om økonomisk samordning med de ændringer, der følger af lov nr. 162 af 11. maj 1966.
+Herved bekendtgøres lov om økonomisk samordning, jf. lovbekendtgørelse nr. 737 af 27. oktober 1986 om økonomisk samordning, med de ændringer, der følger af lov nr. 301 af 27. april 1994.
