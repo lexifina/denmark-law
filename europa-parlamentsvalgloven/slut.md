@@ -1,7 +1,5 @@
-Indenrigsministeriet, den 18. april 2001
+Indenrigs- og Sundhedsministeriet, den 2. februar 2004
 
-Karen Jespersen
+Lars Løkke Rasmussen
 
 /Anne Birte Pade
-
-Loven indeholder bestemmelser, der gennemfører Rådets direktiv nr. 93/109/EF, EF-Tidende 1993 L 329, s. 34.
