@@ -1,4 +1,4 @@
-Skatteministeriet, den 9. november 1995
+Skatteministeriet, den 24. september 1996
 
 Carsten Koch
 
@@ -12,7 +12,7 @@ Liste over anvendelse af afgiftspligtige varer, der er omfattet af særlig tilba
 
 2) Der anvendes direkte ved inddampning og tørring af vandopløst natriumklorid.
 
-3) Der anvendes direkte ved pasteurisering, sterilisering, inddampning, homogenisering, koncentrering og tørring af mælk og mælkebaserede produkter med henblik på fremstilling af mælkebaserede produkter med et tørstofindhold på mindst 90 pct. Elektricitet anvendt direkte til opvarmning og tørring samt til drift af særlige anlæg, hvorved der som led i forarbejdningsprocessen sker en koncentration i form af f.eks. ultrafiltrering, er dog også omfattet.
+3)(* 1) Der anvendes direkte ved pasteurisering, sterilisering, inddampning, homogenisering, koncentrering og tørring af mælk og mælkebaserede produkter med henblik på fremstilling af mælkebaserede produkter med et tørstofindhold på mindst 90 pct. Elektricitet anvendt direkte til opvarmning og tørring samt til drift af særlige anlæg, hvorved der som led i forarbejdningsprocessen sker en koncentration i form af f.eks. ultrafiltrering, er dog også omfattet. Koncentrering med henblik på fremstilling af de nævnte mælkebaserede produkter er omfattet, uanset om den foregår i virksomheden, som fremstiller disse produkter, eller i andre virksomheder.
 
 4) Der anvendes direkte ved fremstilling af foderstoffer, fodertilsætning, herunder foderfosfat, og foderblandinger samt tørring og inddampning af vinasse, mask, roepiller og lignende varer bestemt til dyrefoder. Dette gælder dog ikke forbrug til tørring af korn og frø.
 
@@ -20,7 +20,7 @@ Liste over anvendelse af afgiftspligtige varer, der er omfattet af særlig tilba
 
 6) Der anvendes direkte ved fremstilling af grøntmel, grøntpiller og andet kunsttørret grønt.
 
-7) Der anvendes direkte til fremstilling af pectinstoffer, pectinater og pectater samt planteslimer og gelateringsmidler, også modificerede, udvundet af vegetabilske stoffer henhørende under position 1302.20 til og med position 1302.39 i EU's kombinerede nomenklatur samt direkte ved fremstilling af emulgatorer bestemt til fødevarefremstilling på basis af vegetabilske eller animalske fedt- og oliestoffer.
+7)(* 1) Der anvendes direkte til fremstilling af pectinstoffer, pectinater og pectater samt planteslimer og gelateringsmidler, også modificerede, udvundet af vegetabilske stoffer henhørende under position 1302.20 til og med position 1302.39 i EU's kombinerede nomenklatur og modificeret stivelse henhørende under position 3505 i EU's kombinerede nomenklatur samt direkte ved fremstilling af emulgatorer bestemt til fødevarefremstilling eller til teknisk brug på basis af vegetabilske eller animalske fedt- og oliestoffer.
 
 8) Der anvendes direkte ved destillering af alkohol og i kombination hermed fremstilling af gær, herunder efterfølgende tørring af gær.
 
@@ -42,13 +42,13 @@ Elektricitet anvendt ved fremstilling af de under litra a, b, c og d nævnte var
 
 12) Der anvendes direkte til keramisk brænding samt forudgående tørring af varer bestemt hertil.
 
-13) der anvendes direkte til opvarmning, inddampning, tørring eller brænding af kalk, kridt, kridtsten, marmor og andre calciumcarbonatprodukter, gips, moler, bentonit og andre lerarter, ferrosulfat, kobbersulfat og calciumoxid samt gødningsstoffer med et tørstofindhold på mindst 90 pct., heraf mindst 5 pct. fosfat efter tørring. Elektricitet anvendt direkte til fremstilling af calciumcarbonatprodukter dog alene i form af opvarmning og tørring samt til drift af særlige anlæg, hvorved der som led i forarbejdningsprocessen sker en koncentration af calciumcarbonatprodukterne, er dog også omfattet.
+13)(* 1) Der anvendes direkte til opvarmning, inddampning, tørring eller brænding af kalk, kridt, kridtsten, marmor og andre calciumcarbonatprodukter, gips, moler, bentonit og andre lerarter, ferrosulfat, kobbersulfat og calciumoxid samt gødningsstoffer med et tørstofindhold på mindst 90 pct., heraf mindst 5 pct. fosfat efter tørring. Elektricitet anvendt direkte til fremstilling af calciumcarbonatprodukter dog alene i form af opvarmning og tørring samt til drift af særlige anlæg, hvorved der som led i forarbejdningsprocessen sker en koncentration af calciumcarbonatprodukterne samt afgiftspligtige varer bortset fra elektricitet til opvarmning af gipspladehærdelokaler, er dog også omfattet.
 
-14) Der anvendes direkte ved fremstilling af vegetabilske olier, sukkerstoffer og proteiner på baggrund af olieholdige frø, nødder og frugter. Videreforarbejdning af vegetabilsk olie til teknisk eller kemisk brug er også omfattet. Forbrug af elektricitet ved ekstraktion af olie fra frugter og nødder m.v. samt ved ekstraktion af proteinstoffer fra den oliefrie kage er omfattet.
+14)(* 1) Der anvendes direkte ved fremstilling af vegetabilske olier, sukkerstoffer og proteiner på baggrund af olieholdige frø, nødder og frugter. Videreforarbejdning af vegetabilsk olie til teknisk eller kemisk brug er også omfattet. Forbrug af elektricitet ved ekstraktion eller presning af olie fra frugter og nødder m.v. samt ved ekstraktion af proteinstoffer fra den oliefrie kage er omfattet.
 
 15) Der anvendes direkte til fremstilling af K-sorbat.
 
-16) Der anvendes direkte ved fremstilling af fiskeolie samt fiskemel henhørende under position 2301.20 i EU's kombinerede nomenklatur på baggrund af fisk og krebsdyr, bløddyr eller andre hvirvelløse vanddyr samt affald heraf. Dette gælder dog ikke forbrug af elektricitet til fremstilling af fiskemel, efter at fiskeolien og limvand er blevet udskilt fra pressekagen, og efter at fiskeolien er blevet separeret fra solubles i produktionspocessen. Det gælder heller ikke forbrug af elektricitet til videreforædling af fiskeolien efter at denne er blevet separeret fra solubles.
+16) Der anvendes direkte ved fremstilling af fiskeolie samt fiskemel henhørende under position 2301.20 i EU's kombinerede nomenklatur på baggrund af fisk og krebsdyr, bløddyr eller andre hvirvelløse vanddyr samt affald heraf. Dette gælder dog ikke forbrug af elektricitet til fremstilling af fiskemel, efter at fiskeolien og limvand er blevet udskilt fra pressekagen, og efter at fiskeolien er blevet separeret fra solubles i produktionsprocessen. Det gælder heller ikke forbrug af elektricitet til videreforædling af fiskeolien efter at denne er blevet separeret fra solubles.
 
 17) Der anvendes direkte ved fremstilling af rør- og roesukker henhørende under position 17.01 i EU's kombinerede nomenklartur på baggrund af sukkerroer og sukkerrør.
 
@@ -58,9 +58,37 @@ Elektricitet anvendt ved fremstilling af de under litra a, b, c og d nævnte var
 
 20) Der anvendes direkte til frysning af vand til is henhørende under position 22.01 i EU's kombinerede nomenklatur. Det er en forudsætning, at mindst 75 pct. af den fremstillede is afsættes til uafhængige aftagere. Uafhængige aftagere er andre virksomheder end dem, som er forbundet med den pågældende virksomhed, ved at samme ejere direkte eller indirekte ejer 90 pct. eller mere af kapitalen i hver virksomhed eller direkte eller indirekte råder over 90 pct. eller mere af en eventuel stemmeværdi i hver virksomhed. Ejere som nævnt i personskattelovens § 19 a, stk. 3, anses for en og samme person.
 
-21) Der anvendes direkte til fremstilling af papir og pap på basis af retur- og affaldspapir og pap eller pulp heraf eller cellulose samt anvendes til formaling af calciumcarbonatprodukter til pulver med en diameter på højst 3 my, i det omfang pulveret er bestemt til at anvendes til fremstilling af papir. Dette gælder dog ikke afgiftspligtige varer, der anvendes til efterbehandling af papir eller pap, herunder efterfølgende fremstilling af papir og pap eller andre papir- og papprodukter på basis af færdigfremstillet papir, bortset fra coatning eller glitning.
+21)(* 1) Der anvendes direkte til fremstilling af papir og pap på
 
-22) Der anvendes direkte til fremstilling af cellulose.
+basis af retur- og affaldspapir og pap eller pulp heraf eller
+
+cellulose samt anvendes til formaling af calciumcarbonatprodukter til
+
+pulver med en diameter på højst 3 my, i det omfang pulveret er
+
+bestemt til at anvendes til fremstilling af papir. Dette gælder
+
+dog ikke afgiftspligtige varer, der anvendes til efterbehandling
+
+af papir eller pap, herunder efterfølgende fremstilling af papir
+
+og pap eller andre papir- og papprodukter på basis af
+
+færdigfremstillet papir, bortset fra coatning eller glitning.
+
+Elektricitet anvendt til fremstilling af papir og pap i andre
+
+former end ruller eller ark er dog ikke omfattet, når papiret
+
+eller pappet har andre former end æggebakker. Afgiftspligtige
+
+varer anvendt direkte til fremstilling af æggebakker af andre
+
+materialer er også omfattet.
+
+22)(* 1) Der anvendes direkte til fremstilling af cellulose eller
+
+pulp af retur- og affaldspapir og pap.
 
 23) Der anvendes direkte ved fremstilling af hydrogen, argon, inaktive gasser, nitrogen, di-nitrogenmonoxyd, ozon og oxygen, herunder påfyldning af disse gasser i trykbeholdere, i det omfang gasserne anvendes i virksomhedens produktion i stedet for indkøbte gasser eller gasserne afsættes.
 
@@ -80,10 +108,30 @@ Elektricitet anvendt ved fremstilling af de under litra a, b, c og d nævnte var
 
 31) Der anvendes direkte ved fremstilling af kemiske stoffer og produkter, når mindst 75 pct. finder anvendelse ved fremstilling af varer henhørende under position 38.08 i EU's kombinerede nomenklatur.
 
-32) Der anvendes direkte ved fremstilling af regenereret plastic i form af pellets, pulver eller granulat på baggrund af plasticaffald m.v.
+32)(* 1) Der anvendes direkte ved fremstilling af regenereret plastic
 
-(* 1) Lov nr. 376 af 18. maj 1994 om ændring af forskellige afgiftslove trådte i kraft den 20. maj 1994 og havde virkning fra den 1. juli 1994. Lovens § 15, nr. 2 og 4-6 trådte i kraft den 24. december 1994, jf. bekendtgørelse nr. 1145 af 22. december 1994.
+i form af pellets, pulver eller granulat på baggrund af plasticaffald
 
-(* 2) Lov nr. 417 af 14. juni 1995 træder i kraft den 1. januar 1996, jf. bekendtgørelse nr. 823 af 26. oktober 1995. Loven vedrører ændring af reglerne for tilbagebetaling af CO2-afgift (lovbekendtgørelsens §§ 9 og 10). Se også de ovenfor gengivne ikrafttrædelses- og overgangsbestemmelser.
+m.v. eller direkte ved fremstilling af gummipulver på baggrund af
 
-(* 3) Lov nr. 420 af 14. juni 1995 træder i kraft den 1. januar 1996, jf. bekendtgørelse nr. 823 af 26. oktober 1995. Se også de ovenfor gengivne ikrafttrædelses- og overgangsbestemmelser. Ved loven indføres CO2-afgift af naturgas og bygas.
+brugte dæk (gummiaffald).
+
+33)(* 1) Elektricitet anvendt ved fremstilling af de under punkt 1-16 nævnte varer, i det omfang elektriciteten anvendes i inddampningsanlæg, hvor mindst 40 pct. af væsken fordampes ved en temperatur på under 90 pct. af væskens kogepunkt under normalt tryk, dog højst 4 kWh pr. t bortdampet væske.
+
+34)(* 1) Der anvendes direkte til blanding af forskellige gummiarter med henblik på fremstilling af ubearbejdede plader, bånd eller batch af ikke vulkaniserede gummiblandinger, samt fremstilling af kalandrede transportgummibånd på basis heraf ikke yderligere forarbejdet end vulkaniseret.
+
+35)(* 1) Der anvendes direkte til fremstilling af syntetiske
+
+organiske pigmenter og fremstilling af præparater i forbindelse
+
+hermed.
+
+(* 1) Lov nr. 1101 trådte i kraft den 10. august 1996, jf. bekendtgørelse nr. 727 af 2. august 1996 om ikrafttræden af lov om ændring af forskellige energiafgiftslove m.v. (Ændring til proceslisten i CO2-afgiftsloven m.v.).
+
+(* 2) Lov nr. 1102 trådte i kraft den 1. januar 1996, jf. de ovenfor gengivne ikrafttrædelses- og overgangsbestemmelser.
+
+(* 3) Henvisningen i § 9, stk. 4, nr. 4, skal rettelig være til § 10
+
+i lov om afgift af naturgas og bygas. Fejlen vil blive rettet ved
+
+førstkommende lejlighed.
