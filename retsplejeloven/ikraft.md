@@ -2,19 +2,17 @@ Lov nr. 224 af 31. maj 1968 (Ændringer i retskredsinddelingen m.v.) indeholder 
 
 § 4. De nuværende dommere ved Århus byret og Århus nordre herredsret forbliver undergivet præsidenten for vestre landsret med hensyn til de i retsplejelovens § 48 nævnte forhold.
 
-----
-
 §§ 2 og 3 i lov nr. 225 af 7. juni 1972 om ændring af retsplejeloven og myndighedsloven (Ændringer i rets- og politikredsinddelingen m.v.), som ændret ved lov nr. 260 af 8. juni 1979, indeholder følgende bestemmelser:
 
 § 2
 
 Stk. 1. Følgende retskredse nedlægges: Høng, Haslev, Stege, Nexø, Bogense, Kerteminde, Ærøskøbing, Løgumkloster, Ikast, Odder, Hammel, Hornslet, Vestervig, Løgstør og Nørresundby.
 
-Stk. 2. By- og herredsretterne i Odense, Kolding, Vejle, Horsens, Randers og Viborg sammenlægges til henholdsvis Odense by- og herredsret, Kolding by- og herredsret, Vejle by- og herredsret, Horsens by- og herredsret, Randers by- og herredsret og Viborg by- og herredsret.
+Stk. 2. By- og herredsretterne i Odense, Kolding, Vejle, Horsens, Randers og Viborg sammenlægges til henholdsvis Odense by- og herredsret, Kolding by- og herredsret, Vejle by- og herredsret, Horsens by- og herredsret, Randers by- og herredsret og Viborg by~ og herredsret.
 
-Stk. 3. Landets inddeling i retskredse fastsættes herefter således:
+1) Se bkg. om landets inddeling i retskredse m.v. Stk. 3. Landets inddeling i retskredse fastsættes herefter således:
 
-(Udelades) (* 3)
+(Udelades)1)
 
 § 3
 
@@ -22,7 +20,25 @@ Stk. 1. Følgende politikredse nedlægges:
 
 Skælskør, Præstø, Sakskøbing, Rødby, Odense herred, Bogense, Faaborg, Rudkøbing, Kerteminde, Aabenraa, Toftlund, Lemvig, Hasle herred, Nykøbing Mors, Hurup, Nørresundby, Nibe, Hadsund og Sæby.
 
-Stk. 2. Landets inddeling i politikredse fastsættes herefter således: 1. Københavns politikreds: Københavns kommune. 2. Frederiksberg politikreds: Frederiksberg kommune. 3. Gentofte politikreds: Gentofte kommune. 4. Lyngby politikreds: Lyngby-Taarbæk og Søllerød kommuner. 5. Gladsaxe politikreds: Ballerup-Måløv, Gladsaxe, Herlev, Ledøje-Smørum og Værløse kommuner. 6. Hvidovre politikreds: Hvidovre og Rødovre kommuner. 7. Glostrup politikreds: Brøndbyvester-Brøndbyøster, Glostrup, Herstedøster-Herstedvester, Høje-Taastrup, Sengeløse, Torslunde-Ishøj og Vallensbæk kommuner. 8. Tårnby politikreds: Dragør, Store Magleby og Tårnby kommuner. 9. Helsingør politikreds: Birkerød, Fredensborg-Humlebæk, Helsingør, Hørsholm og Karlebo kommuner.
+Stk. 2. Landets inddeling i politikredse fastsættes herefter således:
+
+1. Københavns politikreds: Københavns kommune.
+
+2. Frederiksberg politikreds: Frederiksberg kommune.
+
+3. Gentofte politikreds: Gentofte kommune.
+
+4. Lyngby politikreds: Lyngby-Taarbæk og Søllerød kommuner.
+
+5. Gladsaxe politikreds: Ballerup-Måløv, Gladsaxe, Herlev, Ledøje-Smørum og Værløse kommuner.
+
+6. Hvidovre politikreds: Hvidovre og Rødovre kommuner.
+
+7. Glostrup politikreds: Brøndbyvester-Brøndbyøster, Glostrup, Herstedøster-Herstedvester, Høje-Taastrup, Sengeløse, Torslunde-Ishøj og Vallensbæk kommuner.
+
+8. Tårnby politikreds: Dragør, Store Magleby og Tårnby kommuner.
+
+9. Helsingør politikreds: Birkerød, Fredensborg-Humlebæk, Helsingør, Hørsholm og Karlebo kommuner.
 
 10. Hillerød politikreds: Allerød, Farum, Græsted-Gilleleje, Helsinge, Hillerød, Skævinge og Slangerup kommuner.
 
@@ -124,147 +140,15 @@ Loven træder i kraft den 1. juli 1972. § 1, nr. 2 og 4, og §§ 4-7 træder i 
 
 Såfremt en nuværende dommer, der med hensyn til de i retsplejelovens § 48 nævnte forhold er undergivet vedkommende landsretspræsident, udnævnes til dommer ved Københavns byret eller by- og herredsretterne i Århus, Odense og Ålborg, forbliver han dog i den nævnte henseende undergivet landsretspræsidenten.
 
-----
-
-Lov nr. 258 af 26. maj 1976 (Udlæg og udpantning m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
-
-§ 4
-
-Stk. 1. Loven træder i kraft den 1. januar 1977, § 1, nr. 2, dog den 1. juli 1976.
-
-Stk. 2. Lovens regler finder også anvendelse ved tvangsfuldbyrdelse på grundlag af dokumenter, som er udstedt inden den 1. januar 1977.
-
-----
-
-Lov nr. 260 af 8. juni 1979 (Behandling af borgerlige sager m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
-
-§ 4
-
-Stk. 1. Loven træder i kraft den 1. januar 1980.
-
-Stk. 2. § 1, nr. 13-15, bortset fra de i disse bestemmelser indeholdte ændringer af retternes betegnelse, træder dog først i kraft efter justitsministerens bestemmelse (* 4)
-
-Stk. 3. § 1, nr. 34, får virkning med hensyn til landsretssager, som ved lovens ikrafttræden er under forberedelse ved byret. Sagsøgeren kan dog kræve sagen henvist til landsretten.
-
-Stk. 4. Forberedelsen af landsretssager, som ved lovens ikrafttræden er under forberedelse ved byret, og som efter lovens ikrafttræden fortsat er landsretssager, fortsættes ved byretten efter de hidtil gældende regler.
-
-----
-
-Lov nr. 253 af 16. juni 1980 (Advokatbistand til den forurettede) indeholder følgende ikrafttrædelsesbestemmelse:
-
-§ 2
-
-Loven træder i kraft den 1. juli 1980.
-
-----
-
-Lov nr. 257 af 27. maj 1981, hvorved § 185, stk. 2, blev indsat, indeholder følgende ikrafttrædelsesbestemmelse:
-
-§ 2
-
-Loven træder i kraft den 1. juli 1981.
-
-----
-
-Lov nr. 270 af 10. juni 1981 (Lokalnævnenes behandling af klagesager m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
-
-§ 2
-
-Stk. 1. Loven træder i kraft den 1. august 1981.
-
-Stk. 2. Bestemmelsen i § 1, nr. 5, finder anvendelse på klager, der modtages efter tidspunktet for lovens ikrafttræden.
-
-----
-
-Lov nr. 85 af 17. marts 1982 om en undersøgelse af visse forhold vedrørende post- og telegrafvæsenet, hvorved § 2 b blev indsat, indeholder følgende ikrafttrædelsesbestemmelse:
-
-§ 7. Loven træder i kraft ved bekendtgørelsen i Lovtidende (* 5)
-
-----
-
-Lov nr. 223 af 26. maj 1982 (Faderskabssager m.v.) indeholder følgende ikrafttrædelsesbestemmelser:
-
-§ 3
-
-Stk. 1. § 1, nr. 1, og § 2, nr. 1-2, 4, 6 og 7, træder i kraft den 1. juli 1982.
-
-Stk. 2. Tidspunktet for ikrafttræden af § 1, nr. 2-5, og § 2, nr. 3 og 5, fastsættes af justitsministeren (* 6).
-
-§ 4
-
-Faderskabssager, som er anlagt eller begæret genoptaget ved lovens ikrafttræden i overensstemmelse med de hidtil gældende regler i § 5, stk. 1 og 2, i lov om børns retsstilling og § 456 r, stk. 3, i lov om rettens pleje, skal anses for at være rejst rettidigt.
-
-----
-
 Lov nr. 277 af 9. juni 1982 (Advokater m.v. Tilsyn med eksekutorer) indeholder følgende ikrafttrædelsesbestemmelser:
 
-§ 3
-
-Stk. 1. Loven træder i kraft den 1. juli 1982.
-
-Stk. 2. Bestemmelserne i §§ 126 og 127 samt §§ 143-147 f som affattet i § 1, nr. 6, samt § 1, nr. 7 og 9, træder dog først i kraft den 1. juli 1983. Indtil dette tidspunkt gælder bestemmelserne i retsplejelovens §§ 133 og 134 samt §§ 139-147.
+§ 3 (udelades).
 
 § 4
 
 Stk. 1. Personer, der den 1. juli 1982 opfylder betingelserne for at få meddelt advokatbeskikkelse efter de hidtil gældende regler, kan beskikkes som advokat efter de i § 1 anførte regler, selv om de ikke opfylder kravene i retsplejelovens §§ 119, stk. 3, 4 og 6, som affattet i § 1, nr. 6.
 
 Stk. 2. Personer, som justitsministeren har beskikket som advokat, og personer, som vil kunne beskikkes som advokat efter stk. 1, omfattes ikke af bestemmelsen i § 123 som affattet i § 1, nr. 6. Ansættelse hos eller virksomhed i fællesskab med sådanne advokater kan medregnes i den tid, der er nævnt i § 123, stk. 1.
-
-----
-
-Lov nr. 627 af 8. december 1982 om ændring af lov om en værdipapircentral og af lov om rettens pleje indeholder følgende ikrafttrædelsesbestemmelse:
-
-§ 3
-
-Loven træder i kraft dagen efter bekendtgørelsen i Lovtidende (* 7).
-
-----
-
-Lov nr. 298 af 6. juni 1984 (Lægdommere i straffesager, rationalisering af sagsbehandlingen ved domstolene m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
-
-§ 2
-
-Loven træder i kraft den 1. juli 1984 og har virkning for sager, som ikke er anlagt inden lovens ikrafttræden, eller hvori der ved lovens ikrafttræden ikke er rejst tiltale i 1. instans.
-
-----
-
-Lov nr. 299 af 6. juni 1984 (Behandling af straffesager, isolation, varetægtsfængsling m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
-
-§ 3
-
-Stk. 1. Loven træder i kraft den 1. juli 1984.
-
-Stk. 2. (Udelades).
-
-----
-
-Lov nr. 226 af 6. juni 1985 (Sager om ægteskab eller forældremyndighed) indeholder følgende ikrafttrædelsesbestemmelse:
-
-§ 3
-
-Loven træder i kraft den 1. januar 1986.
-
-----
-
-Lov nr. 227 af 6. juni 1985 (Telefonaflytning m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
-
-§ 2
-
-Stk. 1. Loven træder i kraft den 1. juli 1985.
-
-Stk. 2. Tilladelser til indgreb i meddelelseshemmeligheden, som en domstol har givet inden lovens ikrafttræden, er fortsat gældende i de tidsrum, der er fastsat i tilladelserne. Efter lovens ikrafttræden finder lovens regler anvendelse på forlængelser af tidligere givne tilladelser.
-
-----
-
-Lov nr. 319 af 4. juni 1986 (Politiets anvendelse af agenter som led i efterforskningen af lovovertrædelser) indeholder følgende ikrafttrædelsesbestemmelse:
-
-§ 2
-
-Stk. 1. Loven træder i kraft den 1. juli 1986.
-
-Stk. 2. De i § 1, nr. 1 og nr. 5, nævnte bestemmelser i § 171, stk. 4, og §§ 754 a-e finder alene anvendelse på de i § 754 a nævnte foranstaltninger, der bringes til udførelse efter lovens ikrafttræden.
-
-----
 
 Lov nr. 320 af 4. juni 1986 (Aflastning af højesteret m.v., behandling af sager om veksler og checks m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
 
@@ -280,22 +164,88 @@ Stk. 4. Lovens § 1, nr. 27, finder ikke anvendelse på anmodning om tvangsfuldb
 
 Stk. 5. Lovens § 1, nr. 27, finder også anvendelse for så vidt angår dokumenter, som er udstedt inden lovens ikrafttræden.
 
-----
-
-Lov nr. 321 af 4. juni 1986 (Forbud mod anonyme vidner) indeholder følgende ikrafttrædelsesbestemmelse:
-
-§ 2
-
-Loven træder i kraft ved bekendtgørelsen i Lovtidende (* 8).
-
-----
-
 Lov nr. 324 af 4. juni 1986 (Retternes stedlige kompetence i borgerlige sager, EF-domskonventionen) indeholder følgende ikrafttrædelsesbestemmelse:
 
 § 6
 
 Stk. 1. Loven træder i kraft den 1. juli 1986 og har virkning for sager, som ikke er anlagt inden lovens ikrafttræden, jfr. dog stk. 2.
 
-Stk. 2. Tidspunktet for ikrafttræden af den i § 1, nr. 2, foreslåede affattelse af retsplejelovens § 247 fastsættes af justitsministeren.
+Stk. 2. Tidspunktet for ikrafttræden af den i § 1, nr. 2, foreslåede affattelse af retsplejelovens § 247 fastsættes af justitsministeren1).
 
-----
+1) Trådte i kraft den 1. november 1986 i henhold til bekendtgørelse nr. 724 af 22. oktober 1986.
+
+2) Bekendtgjort i Lovtidende den 20. maj 1987.
+
+Lov nr. 273 af 13. maj 1987 (Bevisfortegnelsen) indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 2
+
+Loven træder i kraft ved bekendtgørelsen i Lovtidende2).
+
+Lov nr. 385 af 10. juni 1987 (Økonomisk kriminalitet) indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 3
+
+Stk. 1. Loven træder i kraft den 1. juli 1987.
+
+Stk. 2. Lovens § 2 finder anvendelse i alle sager, der ikke er endeligt afgjort ved lovens ikrafttræden.
+
+Lov nr. 386 af 10. juni 1987 (Varetægtsfængsling i retshåndhævelsesøjemed) indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 2
+
+Loven træder i kraft den 1. juli 1987.
+
+Lov nr. 420 af 13. juli 1988 (Fri proces og retshjælp) indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 2
+
+Stk. 1. Loven træder i kraft den 15. august 1988.
+
+Stk. 2. Fra lovens ikrafttræden dækker retshjælpsforsikringer egne sagsomkostninger, såfremt forsikringstageren har fri proces. Eksisterende policer behøver ikke forsynes med påtegning herom. Forsikringstageren kan ikke opsige forsikringsaftalen på grund af en forhøjelse af præmien, der alene er begrundet med den ændring af forsikringen, der følger af 1. pkt.
+
+Lov nr. 730 af 7. december 1988 (Dørlukning og advokatbistand til den forurettede) indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 2
+
+Loven træder i kraft den 1. januar 1989.
+
+Lov nr. 731 af 7. december 1988 (Arrest og forbud, appel i fogedsager m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 4
+
+Stk. 1. Loven træder i kraft den 1. januar 1989. Retsplejelovens § 653 som affattet ved § 1, nr. 18, træder dog i kraft dagen efter bekendtgørelsen i Lovtidende (* 1).
+
+Stk. 2. Er anmodning om arrest eller forbud indgivet til fogedretten før lovens ikrafttræden, finder de hidtil gældende regler anvendelse.
+
+Lov nr. 159 af 15. marts 1989 (Arrest i skib), hvorved § 246 a, § 247, stk. 1, 2. pkt. og § 628, stk. 3, blev indsat, indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 3
+
+Stk. 1. Tidspunktet for lovens ikrafttræden fastsættes af industriministeren. (* 2)
+
+Stk. 2. Er anmodning om arrest indgivet til fogedretten før lovens ikrafttræden, finder de hidtil gældende regler anvendelse.
+
+Lov nr. 273 af 3. maj 1989 (Retternes saglige kompetence i civile sager m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 3
+
+Stk. 1. § 1 træder i kraft den 1. juli 1989.
+
+Stk. 2. Sager, der er anlagt inden dette tidspunkt, behandles efter de hidtil gældende regler.
+
+Stk. 3. Tidspunktet for ikrafttræden af § 2 fastsættes af justitsministeren (* 3).
+
+Lov nr. 331 af 24. maj 1989 (Lov om frihedsberøvelse og anden tvang i psykiatrien) indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 43
+
+Loven træder i kraft den 1. oktober 1989 og gælder for alle afgørelser og beslutninger, der træffes efter lovens ikrafttrædelse.
+
+Stk. 2. Samtidig ophæves lov nr. 118 af 13. april 1938 om sindssyge personers hospitalsophold.
+
+Lov nr. 332 af 24. maj 1989 (legemsindgreb) indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 2
+
+Loven træder i kraft den 1. juli 1989.

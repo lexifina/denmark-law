@@ -1,0 +1,1 @@
+§ 965 e. Ved afstemninger har hver dommer og hver domsmand een stemme. Hvis undtagelsesvis kun 2 dommere medvirker, har hver af disse 11/2 stemme. På samme måde har hver domsmand 11/2 stemme, hvis der undtagelsesvis kun medvirker 2 domsmænd.

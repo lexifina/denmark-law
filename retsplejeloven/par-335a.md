@@ -7,5 +7,3 @@
 3) Den anden part i sager om en advokats vederlag, der indbringes af den pågældende for at få opfyldt en afgørelse, som er truffet af en kredsbestyrelse eller af advokatnævnet.
 
 4) Den anden part i sager om en advokats vederlag, som advokaten indbringer med påstand om ændring af en kredsbestyrelses eller af advokatnævnets afgørelse til skade for den anden part.
-
-Stk. 2. Uanset bestemmelsen i § 333 betales eventuelle omkostninger til modparten af statskassen.
