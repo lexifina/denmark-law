@@ -1,9 +1,9 @@
-Givet på Christiansborg slot, den 9. juni 1982
+Justitsministeriet, den 1. februar 2000
 
-Under Vor Kongelige Hånd og Segl
+Frank Jensen
 
-MARGRETHE R.
+/Jens Kruse Mikkelsen
 
-/OLE ESPERSEN
+Lovændringen vedrører § 3, stk. 1, § 5, stk. 3, og § 5, stk. 4.
 
-Ingen
+Lovændringen vedrører § 3 a, § 4, og § 5, stk. 1.
