@@ -1,3 +1,7 @@
+## Kapitel 2 a
+
+## Planlægning i kystområderne
+
 § 5 a. Landets kystområder skal søges friholdt for bebyggelse og anlæg, som ikke er afhængige af kystnærhed.
 
 Stk. 2. Miljø- og energiministeren skal følge udviklingen og anvende beføjelserne i §§ 3, 29 og 59 til at sikre, at nationale planlægningsinteresser i kystområderne varetages efter denne lov.

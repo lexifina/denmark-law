@@ -1,56 +1,56 @@
 § 93, stk. 1, i lov nr. 9 af 3. januar 1992 om naturbeskyttelse er sålydende:
 
-§ 93. Loven træder i kraft den 1. juli 1992 (* 2).
+§ 93. Loven træder i kraft den 1. juli 1992 .
 
 §§ 2 og 3 i lov nr. 920 af 25. november 1992 om ændring af lov om planlægning er sålydende:
 
-§ 2. Loven træder i kraft den 1. januar 1993 (* 3).
+§ 2. Loven træder i kraft den 1. januar 1993 .
 
 § 3. Klagesager, der er indbragt for miljøministeren eller Planstyrelsen før 1. januar 1993, færdigbehandles af Naturklagenævnet efter reglerne i denne lov.
 
 § 3 i lov nr. 185 af 14. april 1993 om ændring af lov om planlægning m.v. er sålydende:
 
-§ 3. Loven træder i kraft den 1. maj 1993 (* 4).
+§ 3. Loven træder i kraft den 1. maj 1993 .
 
-Stk. 2. Ved lovens ikrafttræden opløses de i planlovens § 10 nævnte fonde for frigørelses- og afståelsesafgift, og fondenes midler tilfalder amtskommunerne, henholdsvis Københavns og Frederiksberg Kommuner.
+Stk. 2. Ved lovens ikrafttræden opløses de i planlovens § 10 nævnte fonde for frigørelses‑ og afståelsesafgift, og fondenes midler tilfalder amtskommunerne, henholdsvis Københavns og Frederiksberg Kommuner.
 
 Stk. 3. Lån i henhold tilsagn, der er afgivet inden lovens ikrafttræden, skal uanset stk. 2 udbetales på de i tilsagnet fastsatte vilkår.
 
 § 2 i lov nr. 270 af 6. maj 1993 om ændring af lov om planlægning er sålydende:
 
-§ 2. Loven træder i kraft dagen efter bekendtgørelsen i Lovtidende (* 5).
+§ 2. Loven træder i kraft dagen efter bekendtgørelsen i Lovtidende .
 
-Stk. 2. Miljøministeren fremsætter forslag om revision af planlægningslovens § 3 a inden udgangen af folketingsåret 1994-95.
+Stk. 2. Miljøministeren fremsætter forslag om revision af planlægningslovens § 3 a inden udgangen af folketingsåret 1994‑95.
 
 § 3 i lov nr. 252 af 6. maj 1993 om ændring af byggeloven og planlægningsloven er sålydende:
 
-§ 3. Loven træder i kraft den 1. juli 1993 (* 6).
+§ 3. Loven træder i kraft den 1. juli 1993 .
 
 Stk. 2. § 1, nr. 1 og 2 og § 2 har virkning for ansøgninger om dispensation, som meddeles efter lovens ikrafttræden.
 
 § 2 i lov nr. 293 af 27. april 1994 om ændring af lov om planlægning er sålydende:
 
-§ 2. Loven træder i kraft dagen efter bekendtgørelsen i Lovtidende (* 7).
+§ 2. Loven træder i kraft dagen efter bekendtgørelsen i Lovtidende .
 
 § 3, stk. 1, i lov nr. 439 af 1. juni 1994 om ændring af lov om planlægning og lov om naturbeskyttelse er sålydende:
 
-§ 3. Loven træder i kraft den 1. august 1994 (* 8), jf. dog stk. 2 (* 9).
+§ 3. Loven træder i kraft den 1. august 1994 , jf. dog stk. 2 .
 
 §§ 2 og 3 i lov nr. 236 af 2. april 1997 er sålydende:
 
-§ 2. Loven træder i kraft dagen efter bekendtgørelsen i Lovtidende (* 10).
+§ 2. Loven træder i kraft dagen efter bekendtgørelsen i Lovtidende .
 
 § 3. Indkvarteringssteder, der er etableret med fritagelse efter § 3 a, stk. 1, i lov om planlægning, jf. lovbekendtgørelse nr. 746 af 16. august 1994, som ændret ved lov nr. 311 af 17. maj 1995, kan anvendes til indkvartering af asylansøgere, personer med midlertidig opholdstilladelse i medfør af lov om midlertidig opholdstilladelse til visse personer fra det tidligere Jugoslavien m.v., personer fra det tidligere Jugoslavien, der er meddelt opholdstilladelse i medfør af udlændingelovens § 7 eller § 9, stk. 2, nr. 5, samt personer med opholdstilladelse i medfør af udlændingelovens § 9, stk. 2, nr. 6. Fritagelsen for at overholde planlovens bestemmelser om tilvejebringelse af planer m.v. gælder, uanset at bebyggelsen i en periode ikke har været anvendt til indkvartering af de nævnte personer. Ibrugtagelse af bebyggelsen til anden anvendelse er ikke omfattet af fritagelsen, men skal behandles efter planlovens bestemmelser.
 
 §§ 2, 3 og 4 i lov nr. 324 af 14. maj 1997 er sålydende:
 
-§ 2. Loven træder i kraft ugedagen efter bekendtgørelsen i Lovtidende (* 11). Bestemmelserne i § 1, nr. 1, 6 og 7 (* 12) samt i § 3 har virkning for planer, der vedtages endeligt efter lovens ikrafttræden. Bestemmelserne i § 1, nr. 2, 3 og 4 (* 13) har virkning for regionplanlægning fra og med regionplanrevision 2001 samt for regionplantillæg for detailhandel, hvis amtsrådet vælger at tilvejebringe regionplanretningslinier for den samlede detailhandelsstruktur i amtskommunen forud for regionplanrevision 2001. Bestemmelserne i § 1, nr. 5 og 9 (* 14), har virkning for forslag til planer, der fremsættes efter lovens ikrafttræden.
+§ 2. Loven træder i kraft ugedagen efter bekendtgørelsen i Lovtidende . Bestemmelserne i § 1, nr. 1, 6 og 7 samt i § 3 har virkning for planer, der vedtages endeligt efter lovens ikrafttræden. Bestemmelserne i § 1, nr. 2, 3 og 4 har virkning for regionplanlægning fra og med regionplanrevision 2001 samt for regionplantillæg for detailhandel, hvis amtsrådet vælger at tilvejebringe regionplanretningslinier for den samlede detailhandelsstruktur i amtskommunen forud for regionplanrevision 2001. Bestemmelserne i § 1, nr. 5 og 9 , har virkning for forslag til planer, der fremsættes efter lovens ikrafttræden.
 
-§ 3. Indtil der efter reglerne i lov om planlægning som ændret ved denne lov er tilvejebragt regionplanretningslinier for den samlede detailhandelsstruktur i amtskommunen henholdsvis i Københavns og Frederiksberg Kommuner kan der kun tilvejebringes regionplanretningslinier for detailhandelscentre, der er omfattet af § 6, stk. 3, nr. 4, jf. stk. 8, i lov om planlægning, i områder, der er udlagt til centerformål inden for et bykernecenter i henhold til en kommuneplan, der er endeligt vedtaget før lovens ikrafttræden.
+§ 3. Indtil der efter reglerne i lov om planlægning som ændret ved denne lov er tilvejebragt regionplanretningslinier for den samlede detailhandelsstruktur i amtskommunen henholdsvis i Københavns og Frederiksberg kommuner kan der kun tilvejebringes regionplanretningslinier for detailhandelscentre, der er omfattet af § 6, stk. 3, nr. 4, jf. stk. 8, i lov om planlægning, i områder, der er udlagt til centerformål inden for et bykernecenter i henhold til en kommuneplan, der er endeligt vedtaget før lovens ikrafttræden.
 
-Stk. 2. Indtil der, jf. stk. 1, er tilvejebragt regionplanretningslinier for den samlede detailhandelsstruktur i amtskommunen henholdsvis i Københavns og Frederiksberg Kommuner, kan der kun kommune-, eller lokalplanlægges for butikker i områder, der er udlagt til centerformål inden for et lokal-, bydels- eller bykernecenter i henhold til en kommuneplan, der er endeligt vedtaget før lovens ikrafttræden. Der kan dog endvidere kommune- og lokalplanlægges for de arealer til butikker, der er omfattet af § 5 d, stk. 2, nr. 1 - 3, som affattet i denne lov.
+Stk. 2. Indtil der, jf. stk. 1, er tilvejebragt regionplanretningslinier for den samlede detailhandelsstruktur i amtskommunen henholdsvis i Københavns og Frederiksberg kommuner, kan der kun kommune-, eller lokalplanlægges for butikker i områder, der er udlagt til centerformål inden for et lokal-, bydels- eller bykernecenter i henhold til en kommuneplan, der er endeligt vedtaget før lovens ikrafttræden. Der kan dog endvidere kommune- og lokalplanlægges for de arealer til butikker, der er omfattet af § 5 d, stk. 2, nr. 1 - 3, som affattet i denne lov.
 
-Stk. 3. I region-, kommune- og lokalplanlægning efter stk. 1 og 2 kan der ikke planlægges for bruttoetagearealer for de enkelte butikker på mere end 3.000 m2 for dagligvarebutikker eller 1.000 m2 for udvalgsvarebutikker.
+Stk. 3. I region-, kommune- og lokalplanlægning efter stk. 1 og 2 kan der ikke planlægges for bruttoetagearealer for de enkelte butikker på mere end 3.000 m 2 for dagligvarebutikker eller 1.000 m 2 for udvalgsvarebutikker.
 
 Stk. 4. Ved en kommuneplanrevision, der gennemføres, før der er tilvejebragt regionplanretningslinier for den samlede detailhandelsstruktur, jf. stk. 1, kan eksisterende rammer for lokalplanlægningen uanset stk. 2 opretholdes, i det omfang de er grundlag for en gældende lokalplan, byplanvedtægt eller reguleringsplan, der giver mulighed for etablering af butikker.
 
@@ -60,10 +60,44 @@ Stk. 2. Bestemmelserne i § 17, stk. 3, § 28 og § 29, stk. 3, i lov om planlæ
 
 § 3 i lov nr. 400 af 10. juni 1997 om ændring af jordkøbsloven og lov om planlægning er sålydende:
 
-§ 3. Loven træder i kraft den 1. juli 1997 (* 15).
+§ 3. Loven træder i kraft den 1. juli 1997 .
 
 Stk. 2. Reglerne for Den Sønderjyske Jordfond finder anvendelse, indtil forsøget er ophørt efter reglerne herom.
 
 § 3, stk. 1, i lov nr. 428 af 10. juni 1997 om ændring af lov om bygningsfredning og lov om planlægning er sålydende:
 
-§ 3. Loven træder i kraft den 1. december 1997 (* 16).
+§ 3. Loven træder i kraft den 1. december 1997 .
+
+§ 5 i lov nr. 478 af 1. juli 1998 er sålydende:
+
+§ 5. Loven træder i kraft den 15. juli 1998 .
+
+§ 4, stk. 1, i lov nr. 479 af 1. juli 1998 er sålydende:
+
+§ 4. Loven træder i kraft den 1. august 1998 .
+
+§§ 2-4 i lov nr. 1022 af 23. december 1998 er sålydende:
+
+§ 2. Loven træder i kraft den 1. januar 1999 .
+
+Stk. 2. Kommunalbestyrelsens forpligtelser efter § 51 a i lov om planlægning som affattet ved denne lovs § 1, nr. 1, gælder kun i forhold til personer, som efter den 20. oktober 1998 bliver registreret i CPR med bopæl i en bolig i et sommerhusområde, som den pågældende ikke lovligt kan anvende til helårsbeboelse, jf. §§ 40 og 41 i lov om planlægning.
+
+§ 3. Kommunalbestyrelsen kan meddele dispensation fra forbudet mod anvendelse af en bolig i et sommerhusområde til helårsbeboelse, jf. § 40, stk. 1, i lov om planlægning, til en person, som fra før den 21. oktober 1998 har været registreret i CPR med bopæl i en sådan bolig, og som ikke i henhold til samme lovs §§ 40 og 41 lovligt har kunnet anvende boligen til helårsbeboelse. En dispensation skal være tidsbegrænset til senest den 31. marts 2009.
+
+Stk. 2. Ansøgning om dispensation efter stk. 1 indgives til kommunalbestyrelsen senest den 30. september 1999. Kommunalbestyrelsens afgørelse efter stk. 1 skal træffes senest den 31. marts 2000.
+
+Stk. 3. En dispensation efter stk. 1 omfatter tillige ethvert medlem af indehaverens husstand.
+
+Stk. 4. En dispensation efter stk. 1 bortfalder ved fraflytning.
+
+Stk. 5. Kommunalbestyrelsens afgørelser efter stk. 1 kan ikke påklages til anden administrativ myndighed.
+
+§ 4. Kommunalbestyrelsen indsender årligt oplysninger til miljø- og energiministeren om administrationen m.v. af reglerne i §§ 40 og 41, jf. §§ 51 og 51 a i lov om planlægning og § 3.
+
+Stk. 2. Miljø- og energiministeren fastsætter nærmere regler om kommunalbestyrelsens forpligtelser efter stk. 1.
+
+Stk. 3. Miljø- og energiministeren kan fastsætte regler om kommunalbestyrelsens forpligtelser til at orientere personer, der har dispensation fra forbudet mod helårsbeboelse i medfør af § 3.
+
+§ 2 i lov nr. 368 af 2 juni 1999 er sålydende:
+
+§ 2. Loven træder i kraft den 12. juni 1999

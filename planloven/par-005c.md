@@ -1,3 +1,7 @@
+## Kapitel 2 b
+
+## Planlægning til butiksformål
+
 § 5 c. Planlægningen skal
 
 1) fremme et varieret butiksudbud i mindre og mellemstore byer samt i de enkelte bydele i de større byer,
