@@ -1,0 +1,3 @@
+§ 8 g. Supplerende beretninger, f.eks. beretninger om viden og medarbejdernes forhold (videnregnskaber), om miljøforhold (grønne regnskaber), om Lønmodtagernes Dyrtidsfonds sociale ansvar (sociale regnskaber) og om Lønmodtagernes Dyrtidsfonds etiske målsætninger og opfølgning herpå (etiske regnskaber), skal give et retvisende billede inden for rammerne af almindeligt anerkendte retningslinjer for sådanne beretninger. De skal opfylde kvalitetskravene i § 8 d, stk. 3, og med de lempelser, der følger af forholdets natur, de grundlæggende forudsætninger i § 8 e, stk. 1 og 2.
+
+Stk. 2. Af de supplerende beretninger skal fremgå de metoder og målegrundlag, efter hvilke beretningerne er udarbejdet.

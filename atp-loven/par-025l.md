@@ -1,0 +1,5 @@
+§ 25 l. Uden ugrundet ophold efter repræsentantskabets godkendelse af årsrapporten i henhold til § 22, stk. 1, dog senest 4 måneder efter regnskabsårets udløb, indsendes den reviderede og godkendte årsrapport samt udskrift af revisionsprotokollen vedrørende årsrapportens revision til Beskæftigelsesministeriet og Finanstilsynet. Har bestyrelsen oprettet en intern revision, skal den interne revisionschefs revisionsprotokol tillige indsendes.
+
+Stk. 2. Den indsendte årsrapport skal i det mindste indeholde de obligatoriske bestanddele samt den fulde revisionspåtegning. Ønsker Arbejdsmarkedets Tillægspension at få offentliggjort supplerende beretninger som nævnt i § 25 h, skal disse indsendes sammen med de obligatoriske bestanddele af årsrapporten, således at de obligatoriske bestanddele og de supplerende beretninger tilsammen fremstår som ét dokument betegnet »årsrapport«.
+
+Stk. 3. Sammen med indsendelse af årsrapporten efter stk. 1 indsendes et eksemplar af årsrapporten fra samtlige dattervirksomheder af Arbejdsmarkedets Tillægspension.

@@ -1,3 +1,15 @@
-§ 17 m. Når kontohaveren, der har indbetalt bidrag til den supplerende arbejdsmarkedspension, fylder 65 år, eller 67 år, hvis personen er født før den 1. juli 1939, anvendes indestående på kontoen med tillæg, jf. § 17 l, stk. 4. til erhvervelse af pensionsret i Arbejdsmarkedets Tillægspension, jf. § 8 b.
+## SP-basis
 
-Stk. 2. Pensionsret erhvervet efter stk. 1 medregnes ikke til opfyldelse af perioder og bidrag efter § 14 b, stk. 3, og § 14 e, stk. 3.
+§ 17 m. Arbejdsmarkedets Tillægspension administrerer og forvalter de midler, der er godskrevet de enkelte kontohaveres særskilte konti efter § 17 g, og som kontohaveren ikke har valgt at placere i investeringspuljer efter § 17 k, stk. 1, eller at flytte efter § 17 n, i SP-basis.
+
+Stk. 2. Arbejdsmarkedets Tillægspensions valg af investeringssammensætning for midler efter stk. 1 kan ske under hensyntagen til kontohavernes alder.
+
+Stk. 3. Midlerne omfattet af stk. 1 skal være anbragt i overensstemmelse med reglerne i kapitel 8, jf. dog stk. 5 og 6.
+
+Stk. 4. Arbejdsmarkedets Tillægspension administrerer og forvalter de ikke godskrevne midler efter § 17 g, stk. 2. Midlerne skal være anbragt i overensstemmelse med reglerne i kapitel 8, jf. dog stk. 5-7.
+
+Stk. 5. § 26 d, stk. 1, nr. 5, og § 26 e, stk. 1, nr. 3, finder ikke anvendelse på midler placeret i investeringsforeninger, specialforeninger og godkendte fåmandsforeninger omfattet af § 26 b, stk. 1, nr. 7.
+
+Stk. 6. § 26 d, stk. 1, nr. 1, finder ikke anvendelse på midler, der direkte eller indirekte er placeret i investeringsforeninger, specialforeninger og godkendte fåmandsforeninger, under forudsætning af, at disse foreningers beholdning af aktiver medgår ved opgørelsen af placeringen af de midler, der er omfattet af stk. 1, og at bestemmelserne i kapitel 8 med de i stk. 5 nævnte undtagelser ved denne opgørelse er overholdt.
+
+Stk. 7. Den i § 26 e, stk. 1, nr. 2, fastsatte grænse for placeringen af midlerne efter § 17 g, stk. 2, udgør 25 pct.

@@ -1,13 +1,7 @@
 ## Kapitel 7 a
 
-## Årsregnskab og revision
+## Årsrapport og revision
 
-§ 25 a. For hvert regnskabsår udarbejder bestyrelse og direktør et årsregnskab bestående af balance, resultatopgørelse, noter og femårsoversigt. Der udarbejdes endvidere årsberetning. Disse dele udgør en helhed.
+§ 25 a. For hvert regnskabsår udarbejder og aflægger bestyrelsen og direktøren en årsrapport, der i det mindste består af en ledelsespåtegning, en balance, en resultatopgørelse, noter, herunder en redegørelse for anvendt regnskabspraksis, samt en ledelsesberetning. Når en årsrapport er revideret, indgår revisionspåtegningen i denne.
 
-Stk. 2. Årsregnskab og årsberetning samt et eventuelt koncernregnskab underskrives af direktøren og bestyrelsen. Mener direktøren eller et bestyrelsesmedlem, at årsregnskabet eller årsberetningen ikke bør godkendes, eller har vedkommende andre indvendinger mod disse eller mod et eventuelt koncernregnskab, som vedkommende ønsker at gøre repræsentantskabet bekendt med, skal vedkommende gøre rede herfor i sin påtegning.
-
-Stk. 3. Regnskabsåret følger kalenderåret. Dette krav er tillige gældende for eventuelle datterselskaber.
-
-Stk. 4. Senest 10 dage efter repræsentantskabets godkendelse af årsregnskabet i henhold til § 22, stk. 1, dog senest 6 måneder efter regnskabsårets udløb, indsendes det reviderede og godkendte årsregnskab samt udskrift af revisionsprotokollen vedrørende årsregnskabets revision til Beskæftigelsesministeriet og Finanstilsynet.
-
-Stk. 5. Opfylder årsregnskabet ikke lovgivningens forskrifter, kan Finanstilsynet kræve regnskabet ændret og forelagt til fornyet behandling hos repræsentantskabet.
+Stk. 2. Årsrapporten skal udarbejdes i overensstemmelse med reglerne i dette kapitel og regler udstedt i medfør af § 25 m.

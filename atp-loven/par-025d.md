@@ -1,9 +1,5 @@
-§ 25 d. Revisorerne har altid ret til at deltage i bestyrelsesmøder under behandlingen af sager, der har betydning for revisionen eller for aflæggelsen af regnskabet.
+§ 25 d. Årsrapporten skal give et retvisende billede af Arbejdsmarkedets Tillægspension og, hvis der er udarbejdet koncernregnskab, koncernens aktiver og passiver, finansielle stilling samt resultatet.
 
-Stk. 2. Revisorerne har pligt til at deltage i bestyrelsens behandling af de pågældende sager, såfremt det ønskes af blot ét bestyrelsesmedlem.
+Stk. 2. Hvis anvendelse af bestemmelserne i denne lov eller reglerne udstedt i medfør af § 25 m ikke er tilstrækkelig til at give et retvisende billede som nævnt i stk. 1, skal der gives yderligere oplysninger i årsrapporten.
 
-Stk. 3. Revisorerne har ret til at være til stede på repræsentantskabsmødet. De skal være til stede, såfremt det begæres af bestyrelsen eller af et medlem af repræsentantskabet.
-
-Stk. 4. Finanstilsynet kan udfærdige nærmere forskrifter om revisionens gennemførelse.
-
-Stk. 5. Finanstilsynet kan pålægge revisionen at give oplysninger om Arbejdsmarkedets Tillægspensions forhold.
+Stk. 3. Hvis anvendelse af bestemmelserne i dette kapitel eller regler udstedt i medfør af § 25 m i særlige tilfælde vil stride mod kravet i stk. 1, skal de fraviges, således at dette krav opfyldes. En sådan fravigelse skal hvert år oplyses i noterne og her altid begrundes konkret og fyldestgørende med oplysning om, hvilken indvirkning, herunder så vidt muligt den beløbsmæssige indvirkning, fravigelsen har på Arbejdsmarkedets Tillægspension henholdsvis koncernens aktiver og passiver, finansielle stilling samt resultatet.

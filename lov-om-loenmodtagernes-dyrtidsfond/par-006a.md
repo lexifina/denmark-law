@@ -1,19 +1,9 @@
-§ 6 a. Der må ikke blandt Lønmodtagernes Dyrtidsfonds aktiver indgå elementer, der repræsenterer en risiko på en enkelt virksomhed, hvis værdi sammenlagt udgør mere end 2 pct. af Lønmodtagernes Dyrtidsfonds samlede aktiver. I de tilfælde, hvor den pågældende virksomhed er hjemmehørende og børsnoteret i et land omfattet af zone A, og virksomhedens egenkapital overstiger 250 mio. kr., udgør den i 1. pkt. fastsatte grænse 3 pct.
+§ 6 a. I henhold til bestemmelserne i dette kapitel opgøres aktiverne efter følgende regler:
 
-Stk. 2. Stk. 1 gælder tilsvarende i forhold til virksomheder, mellem hvilke der består en sådan forbindelse, at de udgør en samlet risiko for Lønmodtagernes Dyrtidsfond.
+1) Aktiverne opgøres og reguleres løbende i overensstemmelse med de principper, der finder anvendelse ved Lønmodtagernes Dyrtidsfonds aflæggelse af årsrapport.
 
-Stk. 3. For grunde og bygninger omfattet af § 6, stk. 2, nr. 5, og lån omfattet af § 6, stk. 2, nr. 6, finder stk. 1 og 2 tilsvarende anvendelse med den forskel, at grænsen udgør 5 pct.
+2) Der skal foretages fradrag for en eventuel behæftet del, og udlån kan kun indgå til en værdi, der fremkommer efter fradrag af forpligtelser, der kan modregnes over for låntager.
 
-Stk. 4. Hvis Lønmodtagernes Dyrtidsfond har investeret i eller ydet lån til et selskab, hvis aktiviteter alene omfatter investeringer efter § 6, stk. 2, nr. 5, finder den i stk. 3 anførte grænse anvendelse på fondens samlede engagement med selskabet.
+3) Finansielle kontrakter skal medregnes med værdien af sådanne kontrakter i aktivernes værdi.
 
-Stk. 5. For aktiver omfattet af § 6, stk. 2, nr. 3, udgør den i stk. 1 fastsatte grænse 40 pct.
-
-Stk. 6. For risici på kreditinstitutter under offentligt tilsyn i lande omfattet af zone A bortset fra kreditinstitutter omfattet af § 6, stk. 2, nr. 3, og på forsikringsselskaber under offentligt tilsyn i lande omfattet af zone A udgør den i stk. 1 fastsatte grænse 10 pct. For aktiver, der ikke er omfattet af § 6, stk. 2, nr. 4, må der højst foretages placeringer i overensstemmelse med grænserne, der er fastsat i stk. 1.
-
-Stk. 7. For andele og beviser i et enkelt investeringsinstitut som anført under § 6, stk. 2, nr. 7, udgør den i stk. 1 fastsatte grænse 10 pct. Denne begrænsning finder dog ikke anvendelse, når det pågældende investeringsinstitut efter sine vedtægter alene kan investere i aktiver omfattet af § 6, stk. 2, nr. 1-3. I sådanne tilfælde kan investeringen tillige i forhold til bestemmelsen i § 6, stk. 4, henføres til § 6, stk. 2, nr. 1-3.
-
-Stk. 8. Stk. 1 og 2 finder ikke anvendelse på aktiver omfattet af § 6, stk. 2, nr. 1 og 2.
-
-Stk. 9. Stk. 1 og 2 finder ikke anvendelse på investeringer i datterselskaber, der omfattes af § 6, stk. 3 og 4, samt på investeringer i selskaber, hvis aktivitet efter deres vedtægter er begrænset til at foretage investeringer i aktiver omfattet af § 6, stk. 2, nr. 1-3. I sidstnævnte tilfælde kan investeringen i forhold til bestemmelserne i § 6, stk. 5, 8 og 9, henføres til § 6, stk. 2, nr. 1-3.
-
-Stk. 10. Bestyrelsen fastsætter nærmere bestemmelser om Lønmodtagernes Dyrtidsfonds valutakurs- og renterisikoeksponering.
+4) Tilgodehavende uforfaldne renter af værdipapirer omfattet af § 6 b, stk. 1, nr. 1-4, 6, 8 og 10-13, medregnes i værdipapirernes værdi.

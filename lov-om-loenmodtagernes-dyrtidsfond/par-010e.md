@@ -1,0 +1,1 @@
+§ 10 e. Afgørelser truffet af Finanstilsynet i henhold til denne lov eller regler udstedt i medfør af loven kan af den, som afgørelsen retter sig til, indbringes for Erhvervsankenævnet senest 4 uger efter, at afgørelsen er meddelt den pågældende.

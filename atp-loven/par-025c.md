@@ -1,9 +1,9 @@
-§ 25 c. Arbejdsmarkedets Tillægspensions årsregnskab skal revideres af mindst 2 revisorer, hvoraf mindst én revisor skal være statsautoriseret. De øvrige revisorer skal enten være statsautoriserede eller registrerede. Repræsentantskabet udnævner revisorerne for tre år ad gangen, men kan til enhver tid trække udnævnelsen tilbage.
+§ 25 c. Når årsrapporten er udarbejdet, skal alle medlemmerne af bestyrelsen og direktøren underskrive den og datere underskriften. De skal give deres underskrift i tilknytning til en ledelsespåtegning, hvori de erklærer, at
 
-Stk. 2. Ved revisorskifte skal Arbejdsmarkedets Tillægspension og revisor give Finanstilsynet en redegørelse, hvis skiftet skyldes særlige forhold.
+1) årsrapporten er aflagt i overensstemmelse med lovgivningens krav samt eventuelle krav i vedtægter eller aftale og
 
-Stk. 3. Efter at revisionen er afsluttet, skal revisorerne ved påtegning på regnskabet bekræfte, at de har revideret dette og det eventuelle koncernregnskab.
+2) årsrapporten giver et retvisende billede af virksomhedens og, hvis der er udarbejdet koncernregnskab, koncernens aktiver og passiver, finansielle stilling samt resultatet.
 
-Stk. 4. Revisorerne skal til brug for bestyrelsen føre en revisionsprotokol, der forelægges på ethvert bestyrelsesmøde. Enhver protokoltilførsel underskrives af samtlige bestyrelsesmedlemmer.
+Stk. 2. Har ledelsen indføjet supplerende beretninger i årsrapporten, skal medlemmerne af bestyrelsen og direktøren i ledelsespåtegningen erklære, hvorvidt beretningen giver et retvisende billede inden for rammerne af almindeligt anerkendte retningslinjer for sådanne beretninger.
 
-Stk. 5. Findes en revisor åbenbart uegnet til sit hverv, kan beskæftigelsesministeren afskedige den pågældende og i den afgåedes sted udpege en revisor, der fungerer, indtil nyt valg kan foretages.
+Stk. 3. Selv om et ledelsesmedlem er helt eller delvis uenig i årsrapporten eller har indvendinger mod, at den skal godkendes med det indhold, der er besluttet, kan medlemmet ikke undlade at underskrive. Ledelsesmedlemmet kan dog tilkendegive sine indvendinger med en konkret og fyldestgørende begrundelse i tilknytning til sin underskrift og ledelsespåtegningen.

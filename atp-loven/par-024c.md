@@ -1,9 +1,9 @@
-§ 24 c. Direktører, vicedirektører, underdirektører og dermed ligestillede med ansvar for fonds-, valuta- eller kreditfunktioner samt interne revisions- og vicerevisionschefer i Arbejdsmarkedets Tillægspension må ikke for egen regning udføre eller deltage i spekulationsforretninger, jf. dog stk. 5. Det samme gælder for andre ledende medarbejdere med ansvar for fonds-, valuta- eller kreditfunktioner.
+§ 24 c. Arbejdsmarkedets Tillægspension må ikke indgå engagementer med repræsentantskabs- og bestyrelsesmedlemmer, direktøren, ansatte i tillægspensionsordningen, tillægspensionsordningens eksterne revisorer eller de interne revisions- og vicerevisionschefer.
 
-Stk. 2. Finanstilsynet fastsætter nærmere regler om, hvilke formuedispositioner der udgør spekulationsforretninger.
+Stk. 2. Uden bestyrelsens godkendelse, som skal indføres i bestyrelsens forhandlingsprotokol, må Arbejdsmarkedets Tillægspension ikke indgå engagementer med eller modtage sikkerhedsstillelse fra selskaber, hvori den i stk. 1 nævnte personkreds er direktører eller bestyrelsesmedlemmer.
 
-Stk. 3. Bestyrelsen skal for personer omfattet af stk. 1 udarbejde retningslinjer om indberetning af formuedispositioner.
+Stk. 3. De i stk. 2 nævnte engagementer skal bevilges i henhold til Arbejdsmarkedets Tillægspensions sædvanlige forretningsbetingelser og på markedsbaserede vilkår. Tillægspensionsordningens valgte revision skal i revisionsprotokollen vedrørende årsrapporten afgive erklæring om, hvorvidt kravene i 1. pkt. er opfyldt.
 
-Stk. 4. På baggrund af de foretagne indberetninger skal den valgte revision i revisionsprotokollatet vedrørende årsrapporten afgive erklæring om, hvorvidt indberetningerne har givet anledning til bemærkninger, jf. stk. 3.
+Stk. 4. Direktøren og bestyrelsen skal i særlig grad overvåge forsvarligheden og forløbet af de i stk. 2 nævnte engagementer.
 
-Stk. 5. Spekulationsforretninger i stk. 1 omfatter ikke lån i euro til finansiering af fast ejendom med registreret pant i ejendommen, såfremt ejendommen ikke anvendes til erhvervsmæssige formål.
+Stk. 5. Reglerne i stk. 2, stk. 3, 1. pkt., og stk. 4 gælder også engagementer med selskaber, hvori personer, der er knyttet til direktøren ved ægteskab, slægts- eller svogerskab i ret op- eller nedstigende linje eller som søskende, er direktører.

@@ -1,0 +1,3 @@
+§ 25 g. Arbejdsmarkedets Tillægspensions aktiver og forpligtelser skal, medmindre andet er fastsat i medfør af § 25 m, måles til dagsværdi. Aktiver og forpligtelser op- og nedskrives i overensstemmelse hermed, og op- og nedskrivninger indregnes i resultatopgørelsen, medmindre andet er fastsat i medfør af § 25 m.
+
+Stk. 2. Dagsværdien måles til den markedsværdi, der kan konstateres for aktivet eller forpligtelsen på et velfungerende marked. Hvis aktivet eller forpligtelsen ikke handles på et velfungerende marked, anvendes en anerkendt metode til beregning af dagsværdien på det pågældende aktiv eller den pågældende forpligtelse.
