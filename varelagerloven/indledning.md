@@ -1,5 +1,3 @@
-Bekendtgørelse af Lov om skattemæssig opgørelse af varelagre m.v.
+Bekendtgørelse af lov om skattemæssig opgørelse af varelagre m.v.
 
-(varelagerloven)
-
-Herved bekendtgøres lov om skattemæssig opgørelse af varelagre m.v., jfr. lovbekendtgørelse nr. 255 af 18. juni 1968 med de ændringer, der følger af lov nr. 202 af 12. april 1973.
+Herved bekendtgøres lov om skattemæssig opgørelse af varelagre m.v., jf. lovbekendtgørelse nr. 255 af 10. maj 1973 med de ændringer, der følger af lov nr. 304 af 25. maj 1987.
