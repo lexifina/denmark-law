@@ -1,1 +1,3 @@
-§ 2 A. Et udenlandsk barn, der i henhold til en af en dansk myndighed meddelt bevilling er blevet adopteret af et dansk ægtepar, som begge er danske statsborgere, eller af en ugift, dansk statsborger, og som sammen med adoptivforældrene (adoptanten) er bosat her i riget, erhverver dansk indfødsret ved, at adoptivforældrene (adoptanten), inden barnet er fyldt 7 år, overfor overøvrigheden (i København overpræsidiet) afgiver skriftlig erklæring herom. Erhvervelse af indfødsret i henhold til denne paragraf har virkning fra den dag, hvorpå bevis for indfødsretserhvervelsen udfærdiges.
+§ 2 A. Et udenlandsk barn under 12 år, der er adopteret ved en dansk adoptionsbevilling, bliver dansk statsborger ved adoptionen, hvis barnet adopteres af et ægtepar, der begge er danske statsborgere, eller af en ugift dansk statsborger, og barnet bor her i riget sammen med adoptivforældrene (adoptanten).
+
+Stk. 2. Erhvervelse af indfødsret har virkning fra den dag, bevillingen udstedes.

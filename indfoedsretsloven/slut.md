@@ -1,7 +1,7 @@
-Indenrigsministeriet, den 6. april 1978.
+Indenrigsministeriet, den 17. juni 1991
 
-Egon Jensen
+Thor Pedersen
 
-/Åge Lorentzen
+/ Torben Steffensen
 
 Ingen
