@@ -1,9 +1,7 @@
-Givet på Marselisborg Slot, den 23. december 1992
+Undervisningsministeriet, den 31. august 1993
 
-Under Vor Kongelige Hånd og Segl
+Ole Vig Jensen
 
-MARGRETHE R.
-
-/Bertel Haarder
+/ Birgitte Ammitzbøll
 
 Ingen
