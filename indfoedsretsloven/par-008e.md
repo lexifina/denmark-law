@@ -1,0 +1,1 @@
+§ 8 E. Ministeren for flygtninge, indvandrere og integration kan hos andre myndigheder indhente de oplysninger, også i elektronisk form, som er nødvendige for at behandle sager om frakendelse af dansk indfødsret i medfør af § 8 A.

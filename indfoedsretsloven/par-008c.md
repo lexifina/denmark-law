@@ -1,1 +1,1 @@
-§ 8 C. Ministeren for flygtninge, indvandrere og integration kan hos andre myndigheder indhente de oplysninger, også i elektronisk form, som er nødvendige for at behandle sager om frakendelse af dansk indfødsret i medfør af § 8 A.
+§ 8 C. En person kan ikke støtte ret på at have haft dansk indfødsret, når den pågældende er frakendt indfødsretten i medfør af § 8 A eller § 8 B. Det gælder dog ikke, i det omfang retsforholdet vedrører tiden før frakendelsen.

@@ -1,0 +1,3 @@
+§ 8 D. Sag om frakendelse af dansk indfødsret efter § 8 A indbringes for retten af anklagemyndigheden efter anmodning fra ministeren for flygtninge, indvandrere og integration. Påstand om frakendelse af indfødsret kan efter anmodning fra ministeren for flygtninge, indvandrere og integration nedlægges i forbindelse med en straffesag.
+
+Stk. 2. Rejses sag om frakendelse, uden at der samtidig nedlægges påstand om straf, indbringes sagen for byretten i den retskreds, hvor den pågældende bor eller opholder sig. Har den pågældende ikke kendt bopæl eller opholdssted her i landet, indbringes sagen for Københavns Byret. Sagen føres i strafferetsplejens former.
