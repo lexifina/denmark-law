@@ -1,5 +1,5 @@
-Statsministeriet, den 17. november 2000
+Statsministeriet, den 20. april 2004
 
-Poul Nyrup Rasmussen
+Anders Fogh Rasmussen
 
-/Karen Ejersbo Iversen
+/Sten Frimodt Nielsen
