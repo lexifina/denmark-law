@@ -1,5 +1,3 @@
-Bekendtgørelse af Lov om lige løn til mænd og kvinder
+Bekendtgørelse af lov om lige løn til mænd og kvinder
 
-(Ligelønsloven)
-
-Hermed bekendtgøres lov nr. 32 af 4. februar 1976 om lige løn til mænd og kvinder med de ændringer, der følger af lov nr. 65 af 19. februar 1986.
+Hermed bekendtgøres lov om lige løn til mænd og kvinder, jf. lovbekendtgørelse nr. 237 af 5. maj 1986, med de ændringer, der følger af lov nr. 243 af 19. april 1989.
