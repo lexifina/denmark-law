@@ -1,0 +1,1 @@
+§ 7 a. Deposita tilbagebetales efter de herom fastsatte regler. Undervisnings- og forskningsministeren kan bestemme, at uddannelsessøgende, der er indskrevet på den uddannelse, de har indbetalt depositum for, skal have det indbetalte depositum tilbagebetalt den 1. januar 1996 eller senere.
