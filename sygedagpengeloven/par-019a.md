@@ -8,4 +8,4 @@ Stk. 4. Dagpengene svarer til de dagpenge, modtageren i tilfælde af egen sygdom
 
 Stk. 5. Der kan højst ydes dagpenge i medfør af stk. 1 i 52 uger inden for de forudgående 18 kalendermåneder.
 
-Stk. 6. Socialministeren fastsætter nærmere regler om betingelserne for udbetaling af dagpenge til forældre med alvorligt syge børn under 14 år, herunder regler om, hvorledes dagpengene fordeles mellem barnets forældre.
+Stk. 6. Beskæftigelsesministeren fastsætter nærmere regler om betingelserne for udbetaling af dagpenge til forældre med alvorligt syge børn under 14 år, herunder regler om, hvorledes dagpengene fordeles mellem barnets forældre.

@@ -1,5 +1,5 @@
-Beskæftigelsesministeriet, den 11. september 2002
+Beskæftigelsesministeriet, den 28. oktober 2004
 
 Claus Hjort Frederiksen
 
-/Vibeke Dalbro
+/Lise Fangel
