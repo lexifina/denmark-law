@@ -1,9 +1,11 @@
-Givet på Christiansborg Slot, den 10. juni 1997
+Skatteministeriet, den 5. august 1998
 
-Under Vor Kongelige Hånd og Segl
+Ole Stavad
 
-MARGRETHE R.
+/Lise Bo Nielsen
 
-/ Carsten Koch
+Denne lovbekendtgørelse indeholder bemærkninger om ikrafttrædelses- og overgangsbestemmelser for love, der er vedtaget i folketingsåret 1997-1998.
 
-Ingen
+Bestemmelserne i § 8 og § 28, stk. 1, i den her anførte affattelse har virkning fra og med indkomståret 2000, jf. § 8, stk. 1, i lov nr. 430 af 26. juni 1998. For selskaber, der anvender reglerne i pensionsafkastbeskatningsloven fra og med indkomståret 1999, har loven virkning fra og med indkomståret 1999, jf. § 8, stk. 2, i lov nr. 430 af 26. juni 1998
+
+Bestemmelsen i § 35 i den her anførte affattelse har virkning fra og med den 1. juli 1998, jf. § 15 i lov nr. 414 af 26. juni 1998.
