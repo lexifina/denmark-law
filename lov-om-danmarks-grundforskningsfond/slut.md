@@ -1,7 +1,5 @@
-Forskningsministeriet, den 23. februar 1998
+Ministeriet for Videnskab, Teknologi og Udvikling, den 8. oktober 2003
 
-Jytte Hilden
+Helge Sander
 
-/ Dan Jensen
-
-Ingen
+/Jens Peter Jacobsen
