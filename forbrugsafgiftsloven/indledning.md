@@ -1,9 +1,9 @@
 Bekendtgørelse af lov om forskellige forbrugsafgifter
 
-Herved bekendtgøres lov om forskellige forbrugsafgifter, jf. lovbekendtgørelse nr. 479 af 15. juli 1986, med de ændringer, der følger af § 9 i lov nr. 925 af 19. december 1986, lov nr. 927 af 19. december 1986 og lov nr. 184 af 9. april 1987.
+Herved bekendtgøres lov om forskellige forbrugsafgifter, jf. lovbekendtgørelse nr. 617 af 14. oktober 1988, med de ændringer, der følger af § 12 i lov nr. 700 af 22. november 1988, lov nr. 30 af 20. januar 1989 og lov nr. 361 af 31. maj 1989.
 
 ## Afsnit I
 
-Afgift af fjernsynsmodtagere, videooptagere og -gengivere til
+Afgift af videooptagere til fjernsyn samt visse farvefjernsyn og
 
-fjernsyn samt visse husholdningsapparater
+husholdningsapparater. (* 2)
