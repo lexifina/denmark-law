@@ -1,7 +1,5 @@
-Givet på Christiansborg Slot, den 31. maj 2000
+Justitsministeriet, den 18. marts 2005
 
-Under Vor Kongelige Hånd og Segl
+Lene Espersen
 
-Margrethe R.
-
-/Frank Jensen
+/William Rentzmann
