@@ -1,5 +1,7 @@
-Lov om betalingsregler for spildevandsanlæg
+Bekendtgørelse af lov om betalingsregler for spildevandsanlæg m.v.
 
-VI MARGRETHE DEN ANDEN, af Guds Nåde Danmarks Dronning, gør vitterligt: Folketinget har vedtaget og Vi ved Vort samtykke stadfæstet følgende lov:
+Hermed bekendtgøres lov nr. 863 af 23. december 1987 om betalingsregler for spildevandsanlæg, som ændret ved lov nr. 388 af 20. maj 1992.
 
-Offentlige spildevandsanlæg
+1) Vedrørende § 1, stk. 4, § 2, § 3, stk. 3-6 og § 6, stk.
+
+1. Offentlige spildevandsanlæg

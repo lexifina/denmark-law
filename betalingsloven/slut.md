@@ -1,9 +1,7 @@
-Givet på Fredensborg Slot, den 23. december 1987
+Miljøministeriet, den 21. juli 1992
 
-Under Vor Kongelige Hånd og Segl
+Per Stig Møller
 
-MARGRETHE R.
-
-/Christian Christensen
+/ Hans Jurgen Stehr
 
 Ingen
