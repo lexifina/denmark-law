@@ -1,9 +1,7 @@
-Givet på Christiansborg slot, den 18. maj 1982
+Indenrigsministeriet, den 28. august 1987
 
-Under Vor Kongelige Hånd og Segl
+KNUD ENGGAARD
 
-MARGRETHE R.
-
-/HENNING RASMUSSEN
+/Marius Ibsen
 
 Ingen
