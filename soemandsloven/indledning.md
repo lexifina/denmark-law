@@ -1,3 +1,3 @@
 Bekendtgørelse af Sømandsloven
 
-Hermed bekendtgøres sømandslov nr. 420 af 13. juni 1973 med de ændringer, der følger af lov nr. 313 af 10. juni 1976, lov nr. 162 af 12. april 1978, lov nr. 228 af 23. maj 1984 og lov nr. 242 af 6. juni 1985.
+Hermed bekendtgøres sømandsloven, jf. lovbekendtgørelse nr. 519 af 4. december 1985, med de ændringer, der følger af lov nr. 857 af 23. december 1987, lov nr. 163 af 23. marts 1988 og lov nr. 409 af 1. juli 1988
