@@ -1,0 +1,1 @@
+§ 6 c. Ministeren for forskning, innovation og videregående uddannelser kan ved ydelse af tilskud til Danmarks Tekniske Universitet stille vilkår, der fremmer formålet i lov om en aktiv beskæftigelsesindsats (sociale klausuler). Ministeren for forskning, innovation og videregående uddannelser kan fastsætte nærmere regler herom.
