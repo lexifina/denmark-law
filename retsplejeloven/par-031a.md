@@ -1,0 +1,1 @@
+§ 31 a. Sker der i en sag skriftlig forelæggelse eller skriftlig procedure, jfr. §§ 927 b og 928 a, stk. 2-3, finder de i medfør af denne lovs §§ 29 eller 31 trufne beslutninger tilsvarende anvendelse herpå.

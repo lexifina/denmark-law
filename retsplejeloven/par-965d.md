@@ -1,1 +1,1 @@
-§ 965 d. Ved afstemninger har hver dommer og hver domsmand en stemme. Hvis undtagelsesvis kun 2 dommere medvirker, har hver af disse 1 1/2 stemme. På samme måde har hver domsmand 1 1/2 stemme, hvis der undtagelsesvis kun medvirker 2 domsmænd.
+§ 965 d. Bestemmelserne i §§ 927 a, 927 b og 928 a finder tilsvarende anvendelse.
