@@ -1,6 +1,6 @@
 Bekendtgørelse af Konkursskatteloven
 
-Herved bekendtgøres konkursskatteloven, jf. lovbekendtgørelse nr. 745 af 21. september 1997, med de ændringer og tilføjelser, der følger af lov nr. 440 af 10. juni 1997, lov nr. 976 af 17. december 1997, lov nr. 426 af 26. juni 1998 og lov nr. 485 af 1. juli 1998. Den bekendtgjorte lovtekst gælder først fuldt ud fra og med indkomståret 2000, jf. § 10, stk. 2, i lov nr. 426 af 26.juni 1998 (Ændringer som følge af lov om en kommunal og amtskommunal ejendomsværdiskat).
+Herved bekendtgøres konkursskatteloven, jf. lovbekendtgørelse nr. 716 af 2. oktober 1998, med den ændring, der følger af lov nr. 166 af 24. marts 1999.
 
 ## Kapitel 1
 
