@@ -4,4 +4,4 @@ Stk. 2. I forskrifter, der udstedes i medfør af § 4, stk. 2, § 9, stk. 3, § 
 
 Stk. 3. Den, der begår en af de nævnte overtrædelser med forsæt til skatteunddragelse, straffes med bøde, hæfte eller fængsel indtil 2 år.
 
-Stk. 4. (* 5) Der kan pålægges selskaber m.v. (juridiske personer) strafansvar efter reglerne i straffelovens 5. kapitel.
+Stk. 4. Der kan pålægges selskaber m.v. (juridiske personer) strafansvar efter reglerne i straffelovens 5. kapitel.
