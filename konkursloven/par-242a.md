@@ -1,0 +1,1 @@
+§ 242 a. Krav efter § 28, stk. 1 og 2, skal fremsættes over for skifteretten eller de almindelige domstole senest 3 måneder efter det tidspunkt, da skyldneren blev i stand til at gøre kravet gældende. Skifterettens afgørelse træffes ved dom. Skifteretten kan henskyde kravet til afgørelse ved de almindelige domstole.
