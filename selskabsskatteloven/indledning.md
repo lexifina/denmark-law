@@ -1,7 +1,7 @@
-Lov om indkomstbeskatning af aktieselskaber m.v.
+Bekendtgørelse af Lov om indkomstbeskatning af aktieselskaber m.v.
 
-VI FREDERIK DEN NIENDE, af Guds Nåde Konge til Danmark, de Venders og Goters, Hertug til Slesvig, Holsten, Stormarn, Ditmarsken, Lauenborg og Oldenborg, gør vitterligt: Folketinget har vedtaget og Vi ved Vort samtykke stadfæstet følgende lov:
+Herved bekendtgøres lov nr. 255 af 11. juni 1960 om indkomstbeskatning af aktieselskaber m.v., jfr. lovbekendtgørelse nr. 463 af 13. september 1978 med de ændringer, der følger af lov nr. 536 og 539 begge af 28. december 1979 og lov nr. 178 af 14. maj 1980.
 
-## Afsnit I.
+## Afsnit I
 
-Skattepligten.
+Skattepligten
