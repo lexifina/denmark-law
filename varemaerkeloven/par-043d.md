@@ -1,0 +1,1 @@
+§ 43d. Forbud, der både vedrører et nationalt varemærke og et EF-varemærke, nedlægges af Sø- og Handelsretten i København, hvis forbudet vedrørende EF-varemærket skal have virkning på enhver medlemsstats område, jf. EF-varemærkeforordningens art. 99, stk. 2. § 43 c, stk. 2-3, finder tilsvarende anvendelse.
