@@ -1,0 +1,1 @@
+§ 73 C. Reglerne i § 73 B finder tilsvarende anvendelse på personers indkomstskat til staten, amtskommunal indkomstskat, kommunal indkomstskat, kommunal og amtskommunal ejendomsværdiskat samt kirkelige afgifter. Beslutning om eftergivelse og henstand træffes efter indhentet udtalelse fra kommunalbestyrelsen i skyldnerens aktuelle bopælskommune.
