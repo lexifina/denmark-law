@@ -8,7 +8,7 @@
 
 4) Nærtstående til personer omfattet af nr. 3, der sammen med sådanne bor i et kollektivt bofællesskab.
 
-5) Personer, der bor i kollektivt bofællesskab etableret i medfør af § 3, stk. 2-4, eller § 5, stk. 3-5, i lov om almene boliger samt støttede private andelsboliger m.v. eller § 63, stk. 2, i lov om boligbyggeri, jf. lovbekendtgørelse nr. 722 af 1. august 1996 med senere ændringer.
+5) Personer, der bor i kollektivt bofællesskab etableret i medfør af § 3, stk. 2-4, § 5, stk. 3-5, eller § 160 b, stk. 6, i lov om almene boliger samt støttede private andelsboliger m.v.
 
 Stk. 2. Uanset stk. 1, nr. 2 og 4, ydes boligstøtte ikke til børn, jf. § 7, stk. 2, af personer omfattet af stk. 1, der sammen med en eller begge forældre bor i et kollektivt bofællesskab.
 

@@ -1,4 +1,4 @@
-§ 39 a. Bliver kommunalbestyrelsen vedrørende lån ydet efter § 31, stk. 2, eller § 32, stk. 1, nr. 2-4, anmodet om, at frafalde panteretten uden fuld dækning for det ydede lån, eller begæres ejendommen solgt på tvangsauktion, giver kommunalbestyrelsen straks meddelelse herom til Kongeriget Danmarks Hypotekbank og Finansforvaltning. Hypotekbanken varetager herefter såvel kommunalbestyrelsens som statskassens interesser for lånet.
+§ 39 a. Bliver kommunalbestyrelsen vedrørende lån ydet efter § 31, stk. 2, eller § 32, stk. 1, nr. 2-6, anmodet om, at frafalde panteretten uden fuld dækning for det ydede lån, eller begæres ejendommen solgt på tvangsauktion, giver kommunalbestyrelsen straks meddelelse herom til Finansstyrelsen. Finansstyrelsen varetager herefter såvel kommunalbestyrelsens som statskassens interesser for lånet.
 
 ## Kapitel 8
 
