@@ -1,0 +1,1 @@
+§ 25 a. (* 5) Negativ personlig indkomst, der vedrører indkomstår forud for indkomståret 1994, og som efter de hidtidige regler skulle have været fratrukket ved indkomstopgørelsen for indkomståret 1994 til brug for beregningerne efter § 7 og § 8, kan fratrækkes ved indkomstopgørelsen til brug for beregningerne efter §§ 6 a, 7 og 8 efter reglerne i § 13.
