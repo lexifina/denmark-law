@@ -1,3 +1,3 @@
-Lov om administration af Det Europæiske Økonomiske Fællesskabs forordninger om indførelse af europæiske økonomiske firmagrupper
+Bekendtgørelse af lov om administration af Det Europæiske Økonomiske Fællesskabs forordninger om indførelse af europæiske økonomiske firmagrupper
 
-VI MARGRETHE DEN ANDEN, af Guds Nåde Danmarks Dronning, gør vitterligt: Folketinget har vedtaget og Vi ved Vort samtykke stadfæstet følgende lov:
+Herved bekendtgøres lov om administration af Det Europæiske Økonomiske Fællesskabs forordninger om indførelse af europæiske økonomiske firmagrupper, jf. lov nr. 217 af 5. april 1989, med den ændring, der følger af lov nr. 386 af 22. maj 1996.
