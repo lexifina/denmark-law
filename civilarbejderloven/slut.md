@@ -1,9 +1,5 @@
-Givet på Christiansborg slot, 12. marts 1970.
+Finansministeriet, den 19. marts 2004
 
-Under Vor Kongelige Hånd og Segl.
+Thor Pedersen
 
-FREDERIK R.
-
-Aage Hastrup.
-
-Ingen
+/Mai-Britt Rasmussen
