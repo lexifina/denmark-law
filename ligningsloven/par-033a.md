@@ -1,0 +1,9 @@
+§ 33 A. Har en person, der er skattepligtig efter kildeskattelovens § 1, under ophold uden for riget i mindst 6 måneder uden andre afbrydelser af opholdet end ferie eller lignende af en sammenlagt varighed på højst 42 dage erhvervet lønindkomst ved personligt arbejde i tjenesteforhold, nedsættes den samlede indkomstskat med det beløb, der forholdsmæssigt falder på den udenlandske lønindkomst. Ved opgørelsen af den nævnte 6 måneders periode anses ophold om bord på et dansk skib, der er registreret i Dansk Internationalt Skibsregister, jf. § 33 C, for at være ophold uden for riget.
+
+Stk. 2. Stk. 1 gælder ikke for lønindkomst ved tjeneste uden for riget for den danske stat eller anden dansk offentlig myndighed. Stk. 1 finder dog anvendelse for lønindkomst erhvervet som led i den danske stats eller den offentlige myndigheds deltagelse i systemeksport. 2. pkt. finder ikke anvendelse, såfremt erhververen af den nævnte lønindkomst modtager udetillæg eller andre lignende ydelser, der tjener til dækning af merudgifter som følge af tjenesten i udlandet, og som ikke skal medregnes til den skattepligtige indkomst, jf. § 7, litra r.
+
+Stk. 3. Stk. 1 gælder ikke for lønindkomst ved tjeneste om bord på skibe, herunder skibe, der ligger ved land under bygning, reparation eller midlertidig oplægning, luftfartøjer eller fartøjer og installationer, der anvendes i tilknytning til efterforskning og udnyttelse af kulbrinteforekomster.
+
+Stk. 4. Har en dobbeltbeskatningsoverenskomst tillagt Danmark beskatningsretten til den i stk. 1 eller stk. 2, 2. punktum, nævnte lønindkomst, nedsættes den samlede indkomstskat med halvdelen af det beløb, der forholdsmæssigt falder på den udenlandske lønindkomst.
+
+Stk. 5. Skatteministeren kan fastsætte regler om henstand med opkrævning af skatten i tilfælde, hvor det må anses for godtgjort, at stk. 1, stk. 2, 2. punktum, eller stk. 4 skal anvendes.
