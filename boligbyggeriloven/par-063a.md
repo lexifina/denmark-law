@@ -10,6 +10,4 @@ Stk. 5. Udbetaling af ydelsesstøtte kan påbegyndes, når den samlede bebyggels
 
 Stk. 6. Ydelsesstøtte kan kun gives, hvis kommunen godtgør statens udgifter til ydelsesstøtten med et beløb på 10 pct. af udgifterne til renter samt administrations- og reservefondsbidrag på indekslånet. Kommunens betaling kan dog aldrig være større end den samlede ydelsesstøtte, jf. stk. 3.
 
-Stk. 7. Halvdelen af kommunens andel af renter samt administrations- og reservefondsbidraget på indekslånet fordeles i hovedstadsområdet mellem kommunerne i dette område efter reglerne om fordeling af boligstøtte i lov om individuel boligstøtte.
-
-Stk. 8. Boligministeren kan helt eller delvis bringe betaling af ydelsesstøtte til ophør, såfremt ejendommens økonomi forbedres eller ændrede forhold for byggeriet taler derfor, herunder en stigning i det almindelige lejeniveau.
+Stk. 7. Boligministeren kan helt eller delvis bringe betaling af ydelsesstøtte til ophør, såfremt ejendommens økonomi forbedres eller ændrede forhold for byggeriet taler derfor, herunder en stigning i det almindelige lejeniveau.

@@ -6,18 +6,16 @@ Stk. 3. Ydelsesstøtte udgør et beløb, som svarer til forskellen mellem de sam
 
 Stk. 4. Kommunen godtgør staten 20 pct. af udgifterne til ydelsesstøtten.
 
-Stk. 5. Halvdelen af kommunens andel af ydelsesstøtten fordeles i hovedstadsområdet mellem kommunerne i dette område efter reglerne om fordeling af boligstøtte i lov om individuel boligstøtte.
+Stk. 5. Ydelsesstøtte ydes efter bestemmelserne i § 72 c.
 
-Stk. 6. Ydelsesstøtte ydes efter bestemmelserne i § 72 c.
+Stk. 6. Kommunal garanti kan ydes for den del af indekslånet, som på tidspunktet for lånets optagelse har pantesikkerhed ud over 80 pct. af ejendommens værdi. Garantien beregnes efter reglerne i § 72 b.
 
-Stk. 7. Kommunal garanti kan ydes for den del af indekslånet, som på tidspunktet for lånets optagelse har pantesikkerhed ud over 80 pct. af ejendommens værdi. Garantien beregnes efter reglerne i § 72 b.
+Stk. 7. Støtte efter stk. 1 kan kun gives på betingelse af, at kommunalbestyrelsen indestår for eventuelle underskud på ungdomsboligernes fremtidige drift. Indeståelsen omfatter ikke underskud, som uden risiko for udlejningsvanskeligheder kan afvikles over en kortere årrække. Eventuelle udgifter ved indeståelse kan afholdes efter reglerne i stk. 8.
 
-Stk. 8. Støtte efter stk. 1 kan kun gives på betingelse af, at kommunalbestyrelsen indestår for eventuelle underskud på ungdomsboligernes fremtidige drift. Indeståelsen omfatter ikke underskud, som uden risiko for udlejningsvanskeligheder kan afvikles over en kortere årrække. Eventuelle udgifter ved indeståelse kan afholdes efter reglerne i stk. 9.
+Stk. 8. Kommunalbestyrelsen kan i ganske særlige, helt ekstraordinære tilfælde give tilsagn om kommunalt lån til opretning af økonomien i en ungdomsboliginstitution, der har fået tilsagn efter stk. 1. Det kommunale lån skal have oprykkende panteret efter indekslånet.
 
-Stk. 9. Kommunalbestyrelsen kan i ganske særlige, helt ekstraordinære tilfælde give tilsagn om kommunalt lån til opretning af økonomien i en ungdomsboliginstitution, der har fået tilsagn efter stk. 1. Det kommunale lån skal have oprykkende panteret efter indekslånet.
+Stk. 9. Bestemmelserne i § 70, stk. 2, gælder for kommunale lån efter stk. 8 i denne bestemmelse.
 
-Stk. 10. Bestemmelserne i § 70, stk. 2, gælder for kommunale lån efter stk. 9 i denne bestemmelse.
+Stk. 10. Boligministeren fastsætter nærmere regler for tildeling af ydelsesstøtte til udbedring af byggeskader og større renovering m.v. samt for kommunal støtte til genopretning af økonomien efter stk. 8.
 
-Stk. 11. Boligministeren fastsætter nærmere regler for tildeling af ydelsesstøtte til udbedring af byggeskader og større renovering m.v. samt for kommunal støtte til genopretning af økonomien efter stk. 9.
-
-Stk. 12. Kommunalbestyrelsens afgørelser efter stk. 1 kan ikke indbringes for anden administrativ myndighed.
+Stk. 11. Kommunalbestyrelsens afgørelser efter stk. 1 kan ikke indbringes for anden administrativ myndighed.

@@ -22,7 +22,7 @@ Stk. 4. Reguleringstillægget fastsættes inden udgangen af september måned med
 
 § 46 a. For byggerier, hvor aftrapning af rentesikring er påbegyndt inden udgangen af 1976, udregnes for det enkelte byggeri den basisrente, der svarer til rentesikringen, som er fastsat ved den senest foretagne aftrapning. Denne basisrente lægges til grund ved den førstkommende ordinære aftrapning af rentesikring samt ved beregning af de fremtidige rentesikringsydelser, jf. § 46.
 
-§ 46 b. For byggerier, hvortil der er meddelt tilsagn om statsstøtte efter lov nr. 245 af 8. juni 1967 i perioden 1. april 1974-31. marts 1975, nedsættes basisrenten for beregning af rentesikring pr. 1. januar 1980 til 5 3/4 pct. og pr. 1. januar 1981 til 5 1/2 pct. Basisrenten på 5 1/2 pct. lægges til grund ved beregning af aftrapning af rentesikring efter § 46.
+§ 46 b. For byggerier, hvortil der er meddelt tilsagn om statsstøtte efter lov nr. 245 af 8. juni 1967 i perioden 1. april 1974-31. marts 1975, nedsættes basisrenten for beregning af rentesikring pr. 1. januar 1980 til 53/4 pct. og pr. 1. januar 1981 til 51/2 pct. Basisrenten på 51/2 pct. lægges til grund ved beregning af aftrapning af rentesikring efter § 46.
 
 Stk. 2. For byggerier, hvortil der er meddelt tilsagn om statsstøtte i perioden 1. april 1973-31. marts 1974, bemyndiges boligministeren til i særlige tilfælde at nedsætte basisrenten, som anført i stk. 1, når byggeriet indgår i en samlet bebyggelse og et senere byggeafsnit er opført med støtte efter lov nr. 83 af 19. marts 1975.
 
@@ -38,44 +38,26 @@ Stk. 2. Det er en betingelse for statens overtagelse af garanti, at vedkommende 
 
 Stk. 2. Kommunalbestyrelsen kan påtage sig garanti efter reglen i stk. 1 ved almennyttigt boligbyggeri, til hvis opførelse kommunen har ydet støtte i medfør af § 49.
 
-(* 8) I bemærkningerne til lov nr. 532 af 16. november 1983 (L7) er henvist til bemærkningerne til L 216, hvor der er anført følgende:
+Da de hidtidige bestemmelser vil have retsvirkning i en lang årrække endnu, vil man af hensyn til boligselskaberne og de myndigheder, der administrerer bestemmelserne, optage den nuværende lovs kap. VII som bilag til det særtryk, der til sin tid vil blive udsendt af lovforslaget i den vedtagne form.
+
+(*) I bemærkningerne til lov nr. 532 af 16. november 1983 (L7) er henvist til bemærkningerne til L 216, hvor der er anført følgende:
 
 Da de hidtidige bestemmelser vil have retsvirkning i en lang årrække endnu, vil man af hensyn til boligselskaberne og de myndigheder, der administrerer bestemmelserne, optage den nuværende lovs kap. VII som bilag til det særtryk, der til sin tid vil blive udsendt af lovforslaget i den vedtagne form.
 
-(* 1) Vedrører § 12, § 16, stk. 3 og § 23 om de almennyttige
+(* 1) Bekendtgørelsen i Lovtidende fandet sted den 15. april 1993.
 
-boligselskabers egenkapitalforhold.
+(* 2) Vedrører § 12, § 16, stk. 3 og § 23 om de almennyttige boligselskabers egenkapitalforhold.
 
-(* 2) Vedrører §§ 30, 31, 32, 36, 42, 45, 46, 47, 48, 49, 51, 52, 53,
+(* 3) Vedrører §§ 30, 31, 32, 36, 42, 45, 46, 47, 48, 49, 51, 52, 53, 53 a, 54, 54 a, 54 b, 55, 56, 58, 60, 62 b, 65, 66, 67, 70, 72, 72 b, 72 e, 73, 73 b, 90.
 
-53 a, 54, 54 a, 54 b, 55, 56, 58, 60, 62 b, 65, 66, 67, 70, 72, 72 b,
+De hidtidige bestemmelser i §§ 81-83 a samt i § 85, 1. pkt. fremgår af Boligministeriets lovbekendtgørelse nr. 51 af 22. januar 1987.
 
-72 e, 73, 73 b, 90.
+(* 4) Vedrører § 2, stk. 3, 2. pkt., og § 5, stk. 1 og stk. 2. Loven er forelagt EU Kommissionen.
 
-De hidtidige bestemmelser i §§ 81-83 a samt i § 85, 1. pkt. fremgår
+(* 5) Bekendtgørelsen i Lovtidende fandt sted den 9. februar 1995.
 
-af Boligministeriets lovbekendtgørelse nr. 51 af 22. januar 1987.
+(* 6) Vedrører § 10, stk. 2.
 
-(* 3) Vedrører § 14, § 36, stk. 3, § 48, stk. 1, § 62 e, § 63, stk. 2
+(* 7) Vedrører § 5, stk. 1 og stk. 2.
 
-og § 67, stk. 1.
-
-(* 4) Vedrører § 3 c, stk. 1 og stk. 4, § 10, stk. 8, § 18, stk. 3, §
-
-59, § 67, stk. 1, § 86 e, stk. 2, og § 88, stk. 2. Bekendtgørelsen i
-
-Lovtidende fandt sted den 23. december 1993.
-
-(* 5) Vedrører § 10 e, stk. 4. Bekendtgørelsen i Lovtidende fandt
-
-sted den 23. december 1993.
-
-(* 6) Vedrører § 3 c, stk. 1. Bekendtgørelsen i Lovtidende fandt sted
-
-den 28. april 1994.
-
-(* 7) Vedrører § 15, stk. 7 og stk. 9, § 36, stk. 7, § 37, stk. 4, §
-
-56 a, stk. 6 og § 86 a, stk. 2. Bekendtgørelsen i Lovtidende fandt
-
-sted den 28. april 1994.
+(* 8) Bekendtgørelsen i Lovtidende fandt sted den 18. maj 1995.

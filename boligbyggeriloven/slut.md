@@ -1,9 +1,9 @@
-Boligministeriet, den 7. juni 1994
+Boligministeriet, den 4. august 1995
 
-Flemming Kofod-Svendsen
+Ole Løvig Simonsen
 
-/ Hanne Victor Hansen
+/ Inge Schouby Andersen
 
 Bilag
 
-Uddrag af bekendtgørelse nr. 432 af 13. juli 1982 af lov om boligbyggeri (* 8)
+Uddrag af bekendtgørelse nr. 432 af 13. juli 1982 af lov om boligbyggeri(*)
