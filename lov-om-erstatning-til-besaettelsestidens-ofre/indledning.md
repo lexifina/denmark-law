@@ -1,6 +1,6 @@
-Bekendtgørelse af lov om erstatning til besættelsestidens ofre (Erstatningsloven) (Besættelsestidsloven)
+Bekendtgørelse af lov om erstatning til besættelsestidens ofre
 
-Herved bekendtgøres lov om erstatning til besættelsestidens ofre, jf. lovbekendtgørelse nr. 472 af 4. august 1988 med de ændringer, der følger af lov nr. 355 af 1 juli 1988 (§2), lov nr. 196 af 29. marts 1989, lov nr. 389 af 7. juni 1989, lov nr. 250 af 25. april 1990 (§2), lov nr. 386 af 13. juni 1990 (§5), lov nr. 794 af 30. november 1990, lov nr. 399 af 6. juni 1991 og lov nr. 945 af 27. december 1991.
+Herved bekendtgøres lov om erstatning til besættelsestidens ofre, jf. lovbekendtgørelse nr. 244 af 1. april 1992 med de ændringer, der følger af lov nr. 502 af 24. juni 1992, lov nr. 278 af 6. maj 1993, lov nr. 449 af 30. juni 1993 og lov nr. 1125 af 21. december 1994. Socialministeriets bekendtgørelse nr. 136 af 23. februar 1995
 
 ## Afsnit I
 
