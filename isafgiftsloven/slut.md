@@ -1,7 +1,9 @@
-Skatteministeriet, den 13. juli 1994
+Skatteministeriet, den 3. august 1998
 
 Ole Stavad
 
-/ Jan Lyager Olsen
+/John Fuhrmann
 
-(* 1) Lov nr. 376 af 18. maj 1994 trådte i kraft den 20. maj 1994 og har virkning fra den 1. juli 1994. Der sker ved loven en omlægning af afgiften af soft-ice, således at der indføres afgiftspligt for konsum-is mix, der er beregnet til brug i soft-ice maskiner. De øvrige ændringer er hovedsagelig en følge af den samtidig vedtagne lov nr. 375 af 18. maj 1994 om merværdiafgift (momsloven) samt toldloven (lov nr. 1116 af 22. december 1993).
+Lov nr. 1098 af 29. december 1997 (Ændret klagestruktur) trådte i kraft den 1. april 1998.
+
+ov nr. 1107 af 29. december 1997 (bl.a. forhøjelse af afgiften, ophævelse af særlig kredittid) trådte ikraft den 1. januar 1998.
