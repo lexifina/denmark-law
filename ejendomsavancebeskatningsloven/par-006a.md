@@ -8,4 +8,4 @@ Stk. 2. Nedsættelse af anskaffelsessummen efter stk. 1 er betinget af, at
 
 Stk. 3. Stk. 1 og 2 finder tilsvarende anvendelse, hvis den ene ægtefælle afstår fast ejendom og den anden ægtefælle erhverver fast ejendom. Det er en betingelse, at ægtefællerne er samlevende ved udgangen af både det indkomstår, hvori afståelsen finder sted, og det indkomstår, hvori erhvervelsen finder sted.
 
-Stk. 4. Stk. 1-3 finder ikke anvendelse ved erhvervelse eller afståelse af fast ejendom, der er beliggende i en fremmed stat, Færøerne eller Grønland.
+Stk. 4. Nedsættelse af anskaffelsessummen efter stk. 1 er betinget af, at den erhvervede ejendom ikke er beliggende i en fremmed stat, på Færøerne eller i Grønland, medmindre ejeren på nedsættelsestidspunktet er skattepligtig til Danmark efter kildeskattelovens § 1, selskabsskattelovens § 1 eller fondsbeskatningslovens § 1 uden at være hjemmehørende i en fremmed stat, på Færøerne eller i Grønland i henhold til bestemmelserne i en dobbeltbeskatningsoverenskomst. Den fortjeneste, der stammer fra nedsættelse af anskaffelsessummen, er fortjeneste fra fast ejendom beliggende i den stat, hvor den afståede ejendom lå.
