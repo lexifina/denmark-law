@@ -16,21 +16,29 @@ Stk. 4. Udlejeren skal med virkning fra 1. januar 1993 foretage en nedsættelse 
 
 § 9
 
-Stk. 4. Andelsboligforeningen skal med virkning fra 1. januar 1993 foretage en nedsættelse af boligafgiften for hver enkelt andelshaver svarende til de hidtil betalte udgifter eller for ejendomme omfattet af § 9, stk. 3, det efter denne bestemmelse beregnede beløb bortset fra udgifter til administration. Andelsboligforeningen skal inden 1. oktober 1992 give andelshaveren specificerede oplysninger om størrelsen af nedsættelsen af boligafgiften og skal samtidig give kommunen meddelelse om størrelsen af boligafgiften pr. 1. januar 1993 for de enkelte andelshavere i ejendommen. § 3 i lov nr. 476 af 24. juni 1992 er sålydende:
+Stk. 4. Andelsboligforeningen skal med virkning fra 1. januar 1993 foretage en nedsættelse af boligafgiften for hver enkelt andelshaver svarende til de hidtil betalte udgifter eller for ejendomme omfattet af § 9, stk. 3, det efter denne bestemmelse beregnede beløb bortset fra udgifter til administration. Andelsboligforeningen skal inden 1. oktober 1992 give andelshaveren specificerede oplysninger om størrelsen af nedsættelsen af boligafgiften og skal samtidig give kommunen meddelelse om størrelsen af boligafgiften pr. 1. januar 1993 for de enkelte andelshavere i ejendommen.
+
+§ 3 i lov nr. 476 af 24. juni 1992 er sålydende:
 
 § 3
 
-Loven træder i kraft den 1. januar 1993. (* 3) § 3 i lov nr. 1044 af 23. december 1992 er sålydende:
+Loven træder i kraft den 1. januar 1993. (* 3)
+
+§ 3 i lov nr. 1044 af 23. december 1992 er sålydende:
 
 § 3
 
-Loven træder i kraft den 1. januar 1993. (* 4) § 5 i lov nr. 441 af 30. juni 1993 er sålydende:
+Loven træder i kraft den 1. januar 1993. (* 4)
+
+§ 5 i lov nr. 441 af 30. juni 1993 er sålydende:
 
 § 5
 
 Stk. 1. Loven træder i kraft den 1. januar 1994. (* 5)
 
-Stk. 2. § 1, nr. 5 og 18, træder dog i kraft dagen efter bekendtgørelsen i Lovtidende. (* 6) § 14 i lov nr. 449 af 30. juni 1993 er sålydende:
+Stk. 2. § 1, nr. 5 og 18, træder dog i kraft dagen efter bekendtgørelsen i Lovtidende. (* 6)
+
+§ 14 i lov nr. 449 af 30. juni 1993 er sålydende:
 
 § 14
 
@@ -50,7 +58,9 @@ Stk. 5. Nedsættelse af indkomsten efter § 8, stk. 4, 2. pkt., i lov om individ
 
 Stk. 1. Loven (* 8) træder i kraft den 1. januar 1994, jf. dog stk. 2.
 
-Stk. 2. § 1, nr. 2, træder i kraft dagen efter bekendtgørelsen i Lovtidende. (* 9) § 2 i lov nr. 110 af 14. februar 1994 er sålydende:
+Stk. 2. § 1, nr. 2, træder i kraft dagen efter bekendtgørelsen i Lovtidende. (* 9)
+
+§ 2 i lov nr. 110 af 14. februar 1994 er sålydende:
 
 § 2
 
@@ -62,7 +72,9 @@ Stk. 2. Loven har virkning fra den 1. januar 1994.
 
 § 10
 
-Loven (* 12) træder i kraft dagen efter bekendtgørelsen i Lovtidende. (* 13) § 6, stk. 1, i lov nr. 418 af 1. juni 1994 er sålydende:
+Loven (* 12) træder i kraft dagen efter bekendtgørelsen i Lovtidende. (* 13)
+
+§ 6, stk. 1, i lov nr. 418 af 1. juni 1994 er sålydende:
 
 § 6
 
@@ -87,3 +99,39 @@ Stk. 12. For lejemål, hvor lejen nedsættes efter stk. 4, 2. pkt., og hvor leje
 Stk. 13. Lejen efter § 10, stk. 1-4, i lov om individuel boligstøtte forhøjes i de i stk. 12 angivne tilfælde, uanset bestemmelsen i § 10, stk. 5, i lov om individuel boligstøtte, med det beløb, hvormed lejen nedsættes efter stk. 4, 2. pkt.
 
 Stk. 14. § 83 i lov om individuel boligstøtte gælder ikke ændringer, der følger af stk. 12 og 13.
+
+§ 3 i lov nr. 204 af 29. marts 1995 er sålydende:
+
+§ 3
+
+Stk. 1. Loven (* 17) træder i kraft den 1. juli 1995.
+
+§ 9, stk. 1, 5 og 6, i lov nr, 385 af 14. juni 1995 er sålydende:
+
+§ 9
+
+Stk. 1. Loven (* 18) træder i kraft den 1. juli 1995 og finder anvendelse fra og med indkomståret 1996, jf. dog stk. 2-6.
+
+Stk. 5. Bestemmelsen i § 5, nr. 1, finder anvendelse fra 1996.
+
+Stk. 6. Bestemmelserne i § 5, nr. 2, og §§ 6-8 finder anvendelse fra og med den udligning, der finder sted vedrørende udgifter i regnskabsåret 1995.
+
+§ 5, stk. 1-2, i lov nr. 1065 af 20. december 1995 er sålydende:
+
+§ 5
+
+Stk. 1. Loven (* 19) træder i kraft den 1. januar 1996.
+
+Stk. 2. Den ved § 2, nr. 9, affattede § 76, stk. 3, i lov om individuel boligstøtte har virkning for anvisning af boliger, der sker efter lovens ikrafttræden.
+
+§ 2 i lov nr. 1067 af 20. december 1995 er sålydende:
+
+§ 2
+
+Loven (* 20) træder i kraft den 1. januar 1996.
+
+§ 2 i lov nr. 1068 af 20. december 1995 er sålydende:
+
+§ 2
+
+Loven (* 21) træder i kraft den 1. januar 1996.
