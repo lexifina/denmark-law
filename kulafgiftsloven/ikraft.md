@@ -14,7 +14,11 @@ Stenkul (inkl. stenkulsbriketter), koks, cinders og koksgrus:
 
 950 kr. pr. t i perioden 1. januar 1997-31. december 1997.
 
-Jordoliekoks: 690 kr. pr. t i perioden 1. januar 1994-31. december 1994. 845 kr. pr. t i perioden 1. januar 1995-31. december 1995.
+Jordoliekoks:
+
+690 kr. pr. t i perioden 1. januar 1994-31. december 1994.
+
+845 kr. pr. t i perioden 1. januar 1995-31. december 1995.
 
 1.000 kr. pr. t i perioden 1. januar 1996-31. december 1996.
 
@@ -34,14 +38,22 @@ Stk. 3. Afgiftsforhøjelsen pr. 1. januar 1994 finder anvendelse på afgiftsplig
 
 Stk. 4. Stk. 3 finder tilsvarende anvendelse på afgiftspligtige varer, der udleveres fra eller forbruges i registrerede virksomheder, angives til fortoldning eller modtages fra udlandet fra henholdsvis 1. januar 1995, 1. januar 1996, 1. januar 1997 og 1. januar 1998.
 
-Stk. 5. § 1, nr. 2 og 3, samt § 2 træder dog i kraft dagen efter bekendtgørelsen i Lovtidende.
+Stk. 5-8. (Udeladt) jf. note 2. Lov nr. 418 af 14. juni 1995 indeholder følgende ikrafttrædelses- og overgangsbestemmelser:
 
-Stk. 6. § 1, nr. 4, finder anvendelse for afregning af afgiften af varer, der fra den 1. januar 1996 udleveres fra de registreringspligtige virksomheder.
+§ 4
 
-Stk. 7 og 8. (Udeladt) jf. note 4. Fra den 1. januar 1998 svares afgiften efter følgende satser:
+Stk. 1. Tidspunktet for lovens ikrafttræden fastsættes af skatteministeren. Loven træder dog tidligst i kraft den 1. januar 1996.
 
-1) stenkul (inkl. stenkulsbriketter), koks, cinders og koksgrus: 1.040 kr. pr. t,
+Stk. 2. Loven finder anvendelse på leverancer, der sker efter lovens ikrafttræden.
 
-2) jordoliekoks: 1.311 kr. pr. t og
+Stk. 3. For løbende leverancer af varer, som ikke er tilbagebetalingsberettigede efter § 11 i lov om energiafgift af mineralolieprodukter m.v. som ændret ved denne lovs § 1, nr. 4, § 8 i lov om afgift af stenkul, brunkul og koks m.v. som ændret ved denne lovs § 2, nr. 2, og § 11 i lov om afgift af elektricitet som ændret ved denne lovs § 3, nr. 1, og for hvilke afregningsperioden påbegyndes inden lovens ikrafttræden og afsluttes efter dette tidspunkt, beregnes afgiften af så stor en del af leverancen, som tidsrummet fra lovens ikrafttræden til afregningsperiodens slutning udgør i forhold til den samlede afregningsperiode. Med de statslige told- og skattemyndigheders tilladelse kan der foretages afrunding ved opgørelse af den andel af leverancerne, som der ikke ydes tilbagebetaling for.
 
-3) brunkulsbriketter og brunkul: 764 kr. pr. t.
+Stk. 4. Virksomheder, der er registreret efter merværdiafgiftsloven, kan dog i perioden fra ikrafttrædelsen til 31. december 1997 få en andel af afgiften efter lov om energiafgift af mineralolieprodukter m.v. tilbagebetalt af de i virksomheden forbrugte varer, der direkte eller indirekte er medgået til fremstilling af rumvarme eller varmt vand. Tilbagebetalingsandelen udgør følgende andel:
+
+70 pct. fra ikrafttrædelsen til 31. december 1996
+
+35 pct. i perioden 1. januar 1997 - 31. december 1997.
+
+Stk. 5. For løbende leverancer af varer, som ikke er tilbagebetalingsberettigede efter § 11 i lov om energiafgift af mineralolieprodukter m.v. som ændret ved denne lovs § 1, nr. 4, § 8 i lov om afgift af stenkul, brunkul og koks m.v. som ændret ved denne lovs § 2, nr. 2, og § 11 i lov om afgift af elektricitet som ændret ved denne lovs § 3, nr. 1, og for hvilke afregningsperioden påbegyndes inden henholdsvis 1. januar 1996 og 1. januar 1997 og afsluttes efter de nævnte tidspunkter, beregnes afgiften af så stor en del af leverancen, som tidsrummet fra henholdsvis 1. januar 1996 og 1. januar 1997 til afregningsperiodens slutning udgør i forhold til den samlede afregningsperiode. Stk. 3, 2. pkt., finder tilsvarende anvendelse.
+
+Stk. 6. (Udeladt).
