@@ -8,7 +8,7 @@
 
 Stk. 2. Der kan endvidere optages fingeraftryk af en udlænding, hvis dette skønnes hensigtsmæssigt med henblik på identifikation af den pågældende eller med henblik på udstedelse eller fremskaffelse af rejsedokument.
 
-Stk. 3. Fingeraftryk, der optages i medfør af stk. 1 eller 2, kan registreres i et særligt edb-register, der føres af Rigspolitichefen. Politiet og Udlændingestyrelsen kan anvende registret i forbindelse med behandlingen af udlændingesager. Indenrigsministeren fastsætter efter den lovgivning, der gælder for førelsen af offentlige myndigheders registre, nærmere regler eller forskrifter for registret.
+Stk. 3. Fingeraftryk, der optages i medfør af stk. 1 eller 2, kan registreres i et særligt edb-register, der føres af Rigspolitichefen. Politiet og Udlændingestyrelsen kan anvende registret i forbindelse med behandlingen af udlændingesager. Ministeren for flygtninge, indvandrere og integration fastsætter efter den lovgivning, der gælder for førelsen af offentlige myndigheders registre, nærmere regler eller forskrifter for registret.
 
 Stk. 4. Fingeraftryk, der modtages fra udenlandske udlændingemyndigheder i forbindelse med behandlingen af udlændingesager, kan registreres i det i stk. 3 nævnte edb-register.
 
@@ -16,14 +16,8 @@ Stk. 5. Fingeraftryk, der i medfør af stk. 3 og 4 er registreret i det i stk. 3
 
 Stk. 6. Fingeraftryk, der registreres i det i stk. 3 nævnte edb-register, kan til brug for identifikation af den pågældende udlænding manuelt eller elektronisk sammenholdes med fingeraftryk optaget efter retsplejelovens bestemmelser herom.
 
-Stk. 7. Søgning og videregivelse af oplysninger fra registret til politiet til brug for efterforskningen af et strafbart forhold kan foretages, hvis
+Stk. 7. Fingeraftryk, der er optaget efter retsplejelovens bestemmelser herom eller sikret som bevis i en straffesag, kan til brug for efterforskningen af et strafbart forhold manuelt eller elektronisk sammenholdes med fingeraftryk, der er registreret i det i stk. 3 nævnte edb-register.
 
-1) efterforskningen vedrører en lovovertrædelse, der efter loven kan medføre fængsel i 1 år og 6 måneder eller derover, og
+Stk. 8. Fingeraftryk, der modtages som led i en international efterlysning, kan manuelt eller elektronisk sammenholdes med fingeraftryk, der er registreret i det i stk. 3 nævnte edb-register. Oplysninger fra edb-registret kan til brug for besvarelse af en international efterlysning videregives til den internationale politisamarbejdsorganisation eller den udenlandske myndighed, der har udsendt efterlysningen.
 
-2) søgningen må antages at være af afgørende betydning for efterforskningen.
-
-Stk. 8. Søgning og videregivelse af oplysninger fra registret til politiet til brug for en international efterlysning kan foretages under de i stk. 7 nævnte betingelser.
-
-Stk. 9. Afgørelse om søgning og videregivelse af oplysninger efter stk. 7 og 8 træffes af retten ved kendelse. I kendelsen anføres de konkrete omstændigheder i sagen, hvorpå det støttes, at betingelserne for søgning er opfyldt. Kendelsen kan til enhver tid omgøres. Kendelsen kan kæres efter reglerne i retsplejelovens kapitel 85. Retsplejelovens kapitel 62 og 63 finder tilsvarende anvendelse.
-
-Stk. 10. Politiet og Udlændingestyrelsen kan uden udlændingens samtykke elektronisk eller manuelt videregive oplysninger fra registret vedrørende fingeraftryk, der i medfør af stk. 3 og 4 er registreret i edb-registret, til udenlandske udlændingemyndigheder.
+Stk. 9. Politiet og Udlændingestyrelsen kan uden udlændingens samtykke elektronisk eller manuelt videregive oplysninger fra registret vedrørende fingeraftryk, der i medfør af stk. 3 og 4 er registreret i edb-registret, til udenlandske udlændingemyndigheder.
