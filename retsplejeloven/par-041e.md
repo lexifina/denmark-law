@@ -1,0 +1,9 @@
+§ 41 e. Anmodning om aktindsigt efter §§ 41 a-41 d skal angive det dokument eller den sag, som den pågældende ønsker at blive gjort bekendt med. Anmodninger om aktindsigt i et større antal sager kan afslås, medmindre anmodningen er rimeligt begrundet, herunder når der søges aktindsigt til brug for videnskabelig forskning eller af redaktører og redaktionelle medarbejdere ved et massemedium til brug for journalistisk eller redaktionelt arbejde.
+
+Stk. 2. Anmodning om aktindsigt efter §§ 41 a-41 c og anmodning om aktindsigt i borgerlige sager efter § 41 d indgives til retten. Rettens afgørelse, der efter anmodning træffes ved kendelse, kan påkæres efter reglerne i kapitel 37. Anmodning om aktindsigt i straffesager efter § 41 d indgives til politimesteren. Politimesterens afgørelse kan påklages til den overordnede anklagemyndighed efter reglerne i kapitel 10.
+
+Stk. 3. Retten eller politimesteren afgør snarest, om en anmodning om aktindsigt kan imødekommes. Er anmodningen ikke imødekommet eller afslået inden 10 dage efter, at anmodningen er modtaget af retten eller politimesteren, skal ansøgeren underrettes om grunden hertil samt om, hvornår afgørelsen kan forventes at foreligge.
+
+Stk. 4. Hvis dokumentet indeholder oplysninger om enkeltpersoners rent private forhold eller virksomheders erhvervshemmeligheder, kan den myndighed, der behandler anmodningen om aktindsigt, bestemme, at dokumentet inden gennemsynet eller kopieringen anonymiseres, således at de pågældendes identitet ikke fremgår. I straffesager skal dokumentet inden gennemsynet eller kopieringen anonymiseres, således at medvirkende lægdommeres identitet ikke fremgår. I sager om overtrædelse af straffelovens kapitel 24 om forbrydelser mod kønssædeligheden skal dokumentet inden gennemsynet eller kopieringen anonymiseres, således at forurettedes identitet ikke fremgår.
+
+Stk. 5. Personnummer er ikke omfattet af retten til aktindsigt.

@@ -1,4 +1,4 @@
-§ 16 a. Retten i Randers består af 4 dommere. Retten på Frederiksberg samt retterne i Lyngby, Ballerup, Esbjerg, Horsens og Herning består af 3 dommere. Retterne i Gentofte, Gladsaxe, Tåstrup, Hørsholm, Frederikssund, Slagelse, Næstved, Svendborg, Haderslev, Sønderborg, Kolding, Skanderborg, Silkeborg, Viborg og Frederikshavn består af to dommere.
+§ 16 a. Retten i Randers består af 4 dommere. Retten på Frederiksberg samt retterne i Lyngby, Ballerup, Esbjerg, Horsens og Herning består af 3 dommere. Retterne i Gentofte, Gladsaxe, Glostrup, Tåstrup, Helsingør, Hørsholm, Frederikssund, Holbæk, Slagelse, Næstved, Svendborg, Haderslev, Sønderborg, Kolding, Skanderborg, Silkeborg, Viborg, Frederikshavn og Hjørring består af to dommere.
 
 Stk. 2. De i stk. 1 nævnte retter deles i afdelinger, som hver beklædes af en enkelt dommer.
 
