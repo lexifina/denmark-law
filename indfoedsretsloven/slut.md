@@ -1,11 +1,7 @@
-GIVET PÅ AMALIENBORG, DEN 27. MAJ 1950.
+Indenrigsministeriet, den 6. april 1978.
 
-Under Vor kongelige hånd og segl.
+Egon Jensen
 
-FREDERIK R.
-
-(L.S.)
-
-/J. Smørum.
+/Åge Lorentzen
 
 Ingen

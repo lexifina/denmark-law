@@ -1,3 +1,3 @@
-Lov om dansk indfødsret.
+Bekendtgørelse af Lov om dansk indfødsret.
 
-VI FREDERIK DEN NIENDE, af Guds nåde konge til Danmark, de Venders og Goters, hertug til Slesvig, Holsten, Stormarn, Ditmarsken, Lauenborg og Oldenborg, Gør vitterligt: Rigsdagen har vedtaget og Vi ved Vort samtykke stadfæstet følgende lov:
+Herved bekendtgøres lov nr. 252 af 27. maj 1950 om dansk indfødsret, jfr. lovbekendtgørelse nr. 409 af 17. december 1968, med de ændringer og tilføjelser, der følger af lov nr. 117 af 29. marts 1978.
