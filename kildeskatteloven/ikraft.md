@@ -42,7 +42,7 @@ Stk. 3. Det den enkelte amtskommune efter kildeskattelovens § 64, stk. 6, jfr. 
 
 ----
 
-Lov nr. 553 af 17. december 1971, hvis § 1 har ændret §§ 13, 37, 37A, 37B og 46 og indføjet en ny paragraf, § 55A, indeholder i § 2 følgende bestemmelse:
+Lov nr. 553 af 17. december 1971, hvis § 1 har ændret §§ 13, 37, 37A, 37 B og 46 og indføjet en ny paragraf, § 55A, indeholder i § 2 følgende bestemmelse:
 
 § 2
 
@@ -134,11 +134,11 @@ I kildeskattelovens § 61, som affattet ved lovbekendtgørelse nr. 599 af 23. no
 
 § 5
 
-Hvor de hidtidige bestemmelser i kildeskattelovens § 62A, stk. 2, 2. og 3. pkt., skal anvendes for indkomstår før indkomståret 1974, forhøjes den der nævnte rentesats til 1 pct. med virkning for renteberegningen fra den 1. september 1974 at regne. Den efter de nævnte bestemmelser beregnede rente for tiden efter den 1. januar 1975 medregnes ikke ved opgørelsen af den skattepligtige indkomst.
+Hvor de hidtidige bestemmelser i kildeskattelovens § 62 A, stk. 2, 2. og 3. pkt., skal anvendes for indkomstår før indkomståret 1974, forhøjes den de<r nævnte rentesats til 1 pct. med virkning for renteberegningen fra den 1. september 1974 at regne. Den efter de nævnte bestemmelser beregnede rente for tiden efter den 1. januar 1975 medregnes ikke ved opgørelsen af den skattepligtige indkomst.
 
 ----
 
-Lov nr. 5 8 af 2. oktober 1974, hvis § 1 har ændret afsnit IV og §§ 48, 50, 94 og 95, indeholder i § 5 følgende bestemmelse:
+Lov nr. 508 af 2. oktober 1974, hvis § 1 har ændret afsnit IV og §§ 48, 50, 94 og 95, indeholder i § 5 følgende bestemmelse:
 
 § 5
 
@@ -160,7 +160,7 @@ Lov nr. 329 af 26. juni 1975, hvis § 10 har ændret § 64, stk. 3, indeholder i
 
 § 13
 
-Stk. 1. (* 73) Kildeskattelovens § 64, stk. 3, som ændret ved nærværende lovs § 10, finder første gang anvendelse ved udbetaling af forskelsbeløb den 1. november i det år, som bestemmes af ministeren for skatter og afgifter efter forhandling med indenrigsministeren (ikrafttrædelsesåret).
+Stk. 1. (* 89) Kildeskattelovens § 64, stk. 3, som ændret ved nærværende lovs § 10, finder første gang anvendelse ved udbetaling af forskelsbeløb den 1. november i det år, som bestemmes af ministeren for skatter og afgifter efter forhandling med indenrigsministeren (ikrafttrædelsesåret).
 
 Stk. 2. Som tillæg til det beløb, der tilkommer kommunerne og amtskommunerne i medfør af kildeskattelovens § 64, stk. 3, litra a, som ændret ved nærværende lovs § 10, udbetaler staten den 1. november i ikrafttrædelsesåret det beløb, hvormed de i det foregående års april kvartal udbetalte månedlige beløb overstiger de i samme års januar kvartal udbetalte månedlige beløb. Såfremt det samlede forskelsbeløb ikke derved overskrides, forøges den nævnte kvartalsdifference med et tillæg på indtil 3 pct.
 
@@ -176,7 +176,7 @@ Lov nr. 216 af 28. april 1976, hvis § 1 har ændret §§ 62, stk. 4, 62A, stk. 
 
 § 10
 
-Den i § 5 i lov nr. 264 af 22. maj 1974 om ændring af kildeskatteloven nævnte rentesats nedsættes til 0,62 pct. med virkning for beregningen af renter vedrørende indkomstårene 1972 og 1973 for tiden fra og med den 1. juli 1976.
+Den i § 5 i lov nr. 264 af 22. maj 1974 om ændring af kildeskatteloven nævnte rentesats nedsættes til 5/8 pct. med virkning for beregningen af renter vedrørende indkomstårene 1972 og 1973 for tiden fra og med den 1. juli 1976.
 
 § 11
 
@@ -200,7 +200,7 @@ Stk. 2. § 2 og § 3, nr. 3, har virkning for ydelser, der udredes fra og med de
 
 ----
 
-Lov nr. 4 4 af 20. august 1976, hvis § 3, nr. 1-5 og 7-9, har ændret §§ 14, 37A, 55, 60, 61, 62 og 65, hvis § 3, nr. 6, har indføjet § 51A, stk. 2, og hvis § 3, nr. 10, har indføjet § 67A, indeholder i § 8 følgende bestemmelse:
+Lov nr. 404 af 20. august 1976, hvis § 3, nr. 1-5 og 7-9, har ændret §§ 14, 37A, 55, 60, 61, 62 og 65, hvis § 3, nr. 6, har indføjet § 51A, stk. 2, og hvis § 3, nr. 10, har indføjet § 67A, indeholder i § 8 følgende bestemmelse:
 
 § 8
 
@@ -234,7 +234,7 @@ Lov nr. 193 af 3. maj 1978, hvis § 1 har ændret rentesatsen i § 62, stk. 4, �
 
 Den i § 5 i lov nr. 264 af 22. maj 1974 om ændring af kildeskatteloven, som ændret ved § 10 i lov nr. 216 af 28. april 1976, nævnte rentesats forhøjes til 1 pct. med virkning for beregningen af renter vedrørende indkomstårene 1972 og 1973 for tiden fra og med den 1. april 1978.
 
-----
+---
 
 Lov nr. 517 af 21. december 1979, hvis § 1 har ændret §§ 1, 3 og 7 og indføjet § 88, indeholder i § 2 følgende bestemmelse:
 
