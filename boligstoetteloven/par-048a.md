@@ -1,0 +1,1 @@
+§ 48 a. I tilfælde, hvor husstandsindkomsten forøges med tilbagevirkende kraft efter § 39, stk. 3, i lov om social pension, skal indkomstforøgelsen indgå ved omberegning og efterregulering efter §§ 46 og 47, uanset om ansøgeren har tilsidesat sin oplysningspligt.
