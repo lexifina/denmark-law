@@ -1,15 +1,25 @@
-Lov nr. 835 af 19. december 1989 om ændring af lov om forskellige forbrugsafgifter (ophævelse af afgifterne af videooptagere, visse farvefjernsyn, vaske- og opvaskemaskiner, komfurer og ovne, tændstikker, lightere og spillekort) indeholder følgende ikrafttrædelses- og overgangsbestemmelser:
+Lov nr. 1035 af 19. december 1992 (Ændringer som følge af EF's indre marked) indeholder følgende ikrafttrædelses- og overgangsbestemmelser:
 
-§ 2 2)
+§ 9 (* 2)
 
-Loven træder i kraft den 1. januar 1990 og finder anvendelse på varer, der fra denne dato udleveres fra anmeldte virksomheder eller angives til fortoldning.
+Stk. 1. Loven træder i kraft den 1. januar 1993, jf. dog stk. 3.
 
-§ 3 2)
+Stk. 2. Loven finder anvendelse på varer, der fra og med den 1. januar 1993 udleveres fra registrerede virksomheder, angives til fortoldning eller modtages fra udlandet.
 
-Stk. 1. Virksomheder, der den 1. januar 1990 har lager af varer, der bliver afgiftsfri efter § 1, kan få godtgjort den afgift, der er betalt ved virksomhedens indkøb eller indførsel af de nævnte lagervarer. Godtgørelsen ydes kun for nye varer, der er bestemt til afsætning, og for tændstikker, cigar- og cigarettændere samt spillekort kun med det beløb, hvormed godtgørelsen overstiger 500 kr.
+Stk. 3 og 4. (Udeladt)
 
-Stk. 2. Det er en betingelse for at opnå afgiftsgodtgørelse efter stk. 1, at en specificeret opgørelse over den godtgørelse, som kræves, er toldvæsenet i hænde senest den 1. februar 1990. Toldvæsenet kan gøre godtgørelsen betinget af, at virksomheden fremlægger dokumentation for, at den afgift, der kræves godtgjort, er betalt af virksomheden.
+§ 10 (* 2)
 
-Stk. 3. Virksomheder, der ansøger om afgiftsgodtgørelse, skal give toldvæsenet adgang til at kontrollere de indsendte opgørelser ved eftersyn af lagre, forretningsbøger m.v. Virksomhedernes indehavere og de i virksomhederne beskæftigede personer skal yde toldvæsenet al fornøden vejledning og hjælp.
+Stk. 1. (Udeladt)
 
-Stk 4. Den, der forsætligt eller groft uagtsomt afgiver urigtige eller vildledende oplysninger eller fortier oplysninger til brug ved beregning af afgiftsgodtgørelse efter denne paragraf, straffes med bøde. § 22, stk. 3 og 4, og § 22 a i lov om forskellige forbrugsafgifter finder tilsvarende anvendelse.
+Stk. 2. Virksomheder, der den 1. januar 1993 har lager af kaffeekstrakt, som er afgiftsberigtiget efter lov om forskellige forbrugsafgifter, kan få afgiftsgodtgørelse af den nævnte lagerbeholdning svarende til afgiftsnedsættelsen.
+
+Stk. 3. Godtgørelse ydes kun med det beløb, hvormed godtgørelsen overstiger 200 kr.
+
+Stk. 4. Det er en betingelse for at opnå afgiftsgodtgørelse efter stk. 1 og 2, at en specificeret opgørelse over den godtgørelse, som kræves, er de statslige told- og skattemyndigheder i hænde senest den 1. februar 1993. De statslige told- og skattemyndigheder kan gøre godtgørelsen betinget af, at virksomheden fremlægger dokumentation for, at den afgift, der kræves godtgjort, er betalt af virksomheden.
+
+Stk. 5. Virksomheder, der ansøger om afgiftsgodtgørelse, skal give de statslige told- og skattemyndigheder adgang til at kontrollere de indsendte opgørelser ved eftersyn af lagre, forretningsbøger m.v. Virksomhedernes indehavere og de i virksomhederne beskæftigede personer skal yde de statslige told- og skattemyndigheder al fornøden vejledning og hjælp.
+
+Stk. 6. Den, der forsætligt eller groft uagtsomt afgiver urigtige eller vildledende oplysninger eller fortier oplysninger til brug ved beregning af afgiftsgodtgørelse, straffes med bøde, hæfte eller fængsel indtil 2 år.
+
+Stk. 7. For overtrædelser, der begås af aktieselskaber, andelsselskaber, anpartsselskaber eller lignende, kan der pålægges selskabet som sådant bødeansvar.

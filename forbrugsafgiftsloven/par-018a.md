@@ -1,1 +1,1 @@
-§ 18 a. Skatteministeren kan fastsætte bestemmelser om gebyr for erindringsskrivelser vedrørende betaling af afgift m.v.
+§ 18 a. (* 3) Der skal betales et gebyr på 65 kr. for erindringsskrivelser vedrørende betaling af afgift.

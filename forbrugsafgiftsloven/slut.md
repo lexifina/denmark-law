@@ -1,9 +1,11 @@
-Skatteministeriet, den 1. november 1991
+Skatteministeriet, den 8. september 1993
 
-Anders Fogh Rasmussen
+Ole Stavad
 
 / K. Hoffritz
 
-(* 1) Lov nr. 825 af 19. december 1989 (forhøjelse af mindsterenten fra 10 kr. til 50 kr. og indsættelse af § 19 b) trådte i kraft den 1. januar 1990.
+(* 1) Lov nr. 364 af 14. maj 1992 (forkortelse af kredittiden og ajourføring af myndighedsbetegnelser) trådte i kraft den 1. januar 1993.
 
-(* 2) Lov nr. 835 af 19. december 1989 (ophævelse af afgifterne af videooptagere, visse farvefjernsyn, vaske- og opvaskemaskiner, komfurer og ovne, tændstikker, lightere og spillekort) trådte i kraft den 1. januar 1990.
+(* 2) Lov nr. 1035 af 19. december 1992 (Ændringer som følge af EF's indre marked) trådte i kraft den 1. januar 1993.
+
+(* 3) Lov nr. 1073 af 23. december 1992 (forhøjelse af gebyr for erindringsskrivelser) trådte i kraft den 1. april 1993.
