@@ -1,1 +1,1 @@
-§ 35 E. (Ophævet)
+§ 35 E. (Ophævet).

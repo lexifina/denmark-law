@@ -1,1 +1,1 @@
-§ 35 C. (Ophævet)
+§ 35 C. (Ophævet).

@@ -1,1 +1,1 @@
-§ 35 H. (Ophævet)
+§ 35 H. (Ophævet).
