@@ -1,9 +1,7 @@
-ØKONOMI- OG BUDGETMINISTERIET, DEN 12. JANUAR 1972.
+Økonomiministeriet, den 21. december 1992
 
-Per Hækkerup.
+Thor Pedersen
 
-/Edvard Pedersen.
+/ Marianne Petersen
 
-Særlig note:
-
-(* 1) Oversat til engelsk.
+Ingen

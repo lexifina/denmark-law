@@ -1,3 +1,3 @@
-Bekendtgørelse af Lov om Danmarks Statistik.
+Bekendtgørelse af lov om Danmarks Statistik
 
-Herved bekendtgøres lov nr. 196 af 8. juni 1966 om Danmarks Statistik med de ændringer, der følger af lov nr. 540 af 17. december 1971
+Herved bekendtgøres lov om Danmarks Statistik, jf. lovbekendtgørelse nr. 15 af 12. januar 1972 med de ændringer, der følger af lov nr. 386 af 13. juni 1990 og lov nr. 1025 af 19. december 1992.
