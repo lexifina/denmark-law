@@ -1,0 +1,1 @@
+§ 14 c. Ydelsen efter § 14 b, stk. 1, nedsættes med lige store beløb fra og med det år, hvor medlemmet fylder 66 år, til og med det år, hvor medlemmet fylder 69 år, således at retten til ydelsen helt bortfalder ved medlemmets fyldte 70. år.
