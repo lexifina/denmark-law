@@ -1,9 +1,11 @@
-Givet på Christiansborg Slot, den 13. juni 1990
+Kulturministeriet, den 6. februar 1992
 
-Under Vor Kongelige Hånd og Segl
+Grethe F. Rostbøll
 
-MARGRETHE R.
+/ Bent Rasmussen
 
-/Ole Vig Jensen
+Ssærlige noter:
 
-Ingen
+(* 1) Oversat til engelsk. Oversættelsen kan fås ved henvendelse til
+
+Kulturministeriet.
