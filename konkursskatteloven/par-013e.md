@@ -6,4 +6,4 @@ Stk. 3. Afdødes ægtefælles betaling af leje til boet indtægtsføres ikke hos
 
 Stk. 4. Beløb, som nævnt i § 13 C, stk. 2, fradrages i konkursindkomsten. Det gælder dog ikke lejeværdi af fast ejendom samt kommunal og amtskommunal ejendomsværdiskat.
 
-Stk. 5. Skatten udgør 45 pct. af konkursindkomsten. Ved skattens beregning foretages et fradrag i konkursindkomsten på 45.000 kr.
+Stk. 5. Skatten udgør 45 pct. af konkursindkomsten. Ved skattens beregning foretages et fradrag i konkursindkomsten på 100.000 kr.
