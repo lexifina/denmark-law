@@ -1,0 +1,1 @@
+§ 7 V. For modtagere af uddelinger, som efter fondens eller foreningens valg fradrages på de tidspunkter, hvor de enkelte rater forfalder, jf. fondsbeskatningslovens § 4, stk. 3, 2. pkt., udskydes beskatningstidspunktet for uddelingen tilsvarende.
