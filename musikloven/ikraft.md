@@ -1,15 +1,13 @@
-Lov nr. 375 af 10. juni 1987 indeholder følgende ikrafttrædelsesbestemmelser:
+Lov nr. 407 af 13. juni 1990 indeholder følgende ikrafttrædelsesbestemmelser:
 
 § 2
 
 Loven træder i kraft dagen efter bekendtgørelsen i Lovtidende.
 
-Stk. 2. De hidtidige regler i § 5 om tilskudsberegning vedrørende landsdelsorkestre finder fortsat anvendelse ved beregning af tilskud for perioden til og med 31. december 1987.
+Stk. 2. De hidtidige regler om tilskudsberegning vedrørende landsdelsorkestre finder fortsat anvendelse ved beregningen af tilskud for perioden til og med 31. december 1990.
 
-Ministeriet for Kulturelle Anliggender, den 22. juli 1987
+Lov nr. 412 af 13. juni 1990 (musikskoler) indeholder følgende ikrafttrædelsesbestemmelse:
 
-H. P. Clausen
+§ 2
 
-/Birgit Skole
-
-Ingen
+Loven træder i kraft den 1. januar 1991.
