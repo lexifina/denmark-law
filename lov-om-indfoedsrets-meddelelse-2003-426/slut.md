@@ -1,0 +1,7 @@
+Givet på Christiansborg Slot, den 10. juni 2003
+
+Under Vor Kongelige Hånd og Segl
+
+MARGRETHE R.
+
+/Bertel Haarder
