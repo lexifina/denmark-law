@@ -1,4 +1,4 @@
-§ 53 A. (* 2) Reglerne i stk. 2-4 gælder for
+§ 53 A. Reglerne i stk. 2-4 gælder for
 
 1. livsforsikring, der ikke omfattes af kapitel 1, og
 

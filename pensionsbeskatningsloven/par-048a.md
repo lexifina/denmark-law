@@ -1,30 +1,4 @@
-§ 48 A. (* 4) Personer, der skal betale afgift efter §§ 28 eller 30
-
-af en kapitalforsikring eller opsparing i pensionsøjemed, samt
-
-personer, der skal betale afgift af en pensionsordning, der er
-
-omfattet af §§ 2, 5, 6 eller 7, eller af en rateforsikring eller
-
-rateopsparing i pensionsøjemed, skal, hvis de pågældende ikke er
-
-fuldt skattepligtige her til landet på tidspunktet for
-
-afgiftspligtens indtræden, ud over afgiften betale en
-
-tillægsafgift efter stk. 2. Tillægsafgift efter 1. pkt. betales
-
-også af fuldt skattepligtige personer, som efter bestemmelserne i
-
-en dobbeltbeskatningsoverenskomst er hjemmehørende i en fremmed
-
-stat, Færøerne eller Grønland. Der betales dog ikke
-
-tillægsafgift, når afgiftspligt indtræder efter § 29, stk. 2 og
-
-3, § 29 A eller § 29 B, eller efter at den tidligere ejer af
-
-pensionsordningen eller kontoen er afgået ved døden.
+§ 48 A. Personer, der skal betale afgift efter §§ 28 eller 30 af en kapitalforsikring eller opsparing i pensionsøjemed, samt personer, der skal betale afgift af en pensionsordning, der er omfattet af §§ 2, 5, 6 eller 7, eller af en rateforsikring eller rateopsparing i pensionsøjemed, skal, hvis de pågældende ikke er fuldt skattepligtige her til landet på tidspunktet for afgiftspligtens indtræden, ud over afgiften betale en tillægsafgift efter stk. 2. Tillægsafgift efter 1. pkt. betales også af fuldt skattepligtige personer, som efter bestemmelserne i en dobbeltbeskatningsoverenskomst er hjemmehørende i en fremmed stat, Færøerne eller Grønland. Der betales dog ikke tillægsafgift, når afgiftspligt indtræder efter § 29, stk. 2 og 3, § 29 A eller § 29 B, eller efter at den tidligere ejer af pensionsordningen eller kontoen er afgået ved døden.
 
 Stk. 2. Tillægsafgiften udgør 20 pct. af det beløb, hvoraf der efter §§ 28-31, jf. §§ 33 A og 34, beregnes afgift med 40 pct., og 25 pct. af det beløb, hvoraf der efter de samme bestemmelser beregnes afgift med 35 pct.
 
