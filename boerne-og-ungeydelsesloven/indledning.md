@@ -1,3 +1,5 @@
 Bekendtgørelse af lov om en børnefamilieydelse
 
-Herved bekendtgøres lov om en børnefamilieydelse, jf. lovbekendtgørelse nr. 692 af 9. november 1989, med de ændringer og tilføjelser, der følger af lov nr. 389 af 7. juni 1989 og lov nr. 832 af 19. december 1989.
+Herved bekendtgøres lov om en børnefamilieydelse, jf. lovbekendtgørelse nr. 163 af 4. marts 1990, med de ændringer og tilføjelser, der følger af lov nr. 360 af 6. juni 1991.
+
+Kapitel 1 Børnefamilieydelsen
