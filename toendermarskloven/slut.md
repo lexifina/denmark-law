@@ -1,13 +1,19 @@
-Givet på Amalienborg, den 12. marts 1988
+Miljøministeriet, den 18. august 2004
 
-Under Vor Kongelige Hånd og Segl
+Connie Hedegaard
 
-I Dronningens Navn:
+/Anne-Marie Rasmussen
 
-FREDERIK
+Bilag 1
 
-Kronprins
+Bilag 2
 
-/ Christian Christensen
+Bilag 3
 
-Bilag 1-7
+Bilag 4
+
+Bilag 5
+
+Bilag 6
+
+Bilag 7
