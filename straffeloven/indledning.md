@@ -1,8 +1,6 @@
-Bekendtgørelse af Borgerlig Straffelov
+BEKENDTGØRELSE AF STRAFFELOVEN
 
-(Straffeloven)
-
-Herved bekendtgøres borgerlig straffelov, jfr. lovbekendtgørelse nr. 527 af 1. november 1981, med de ændringer, der følger af lov nr. 160 af 28. april 1982, lov nr. 239 af 1. juni 1982, lov nr. 228 af 6. juni 1985, lov nr. 229 af 6. juni 1985, lov nr. 573 af 19. december 1985 og lov nr. 322 af 4. juni 1986. Lovbekendtgørelsen gælder først i sin helhed fra 1. januar 1987, idet lov nr. 573 af 19. december 1985 først træder i kraft fra 1. januar 1987.
+Herved bekendtgøres straffeloven, jf. lovbekendtgørelse nr. 607 af 6. september 1986 med de ændringer, der følger af lov nr. 357 af 3. juni 1987, lov nr. 385 af 10. juni 1987, lov nr. 272 af 3. maj 1989, lov nr. 373 af 7. juni 1989, lov nr. 396 af 13. juni 1990, lov nr. 399 af 13. juni 1990, lov nr. 793 af 27. november 1990, lov nr. 6 af 3. januar 1992, lov nr. 282 af 29. april 1992 og lov nr. 385 af 20. maj 1992.
 
 Almindelig del
 

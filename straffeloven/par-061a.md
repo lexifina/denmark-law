@@ -2,8 +2,4 @@
 
 8. kapitel
 
-§§ 62-67. (Ophævet)
-
-9. kapitel
-
-Andre retsfølger af den strafbare handling
+Samfundstjeneste

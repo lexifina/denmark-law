@@ -1,1 +1,1 @@
-§ 152 a. (* 2) Bestemmelsen i § 152 finder tilsvarende anvendelse på den, som i øvrigt er eller har været beskæftiget med opgaver, der udføres efter aftale med en offentlig myndighed. Det samme gælder den, som virker eller har virket ved telefonanlæg, der er anerkendt af det offentlige.
+§ 152 a. Bestemmelsen i § 152 finder tilsvarende anvendelse på den, som i øvrigt er eller har været beskæftiget med opgaver, der udføres efter aftale med en offentlig myndighed. Det samme gælder den, som virker eller har virket ved telefonanlæg, der er anerkendt af det offentlige.
