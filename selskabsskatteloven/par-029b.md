@@ -1,4 +1,4 @@
-§ 29 B. (* 11) Beregning af selskabets eller foreningens m.v. indkomstskat, restskat eller overskydende skat for indkomståret foretages efter stk. 2-7.
+§ 29 B. (* 13) Beregning af selskabets eller foreningens m.v. indkomstskat, restskat eller overskydende skat for indkomståret foretages efter stk. 2-7.
 
 Stk. 2. Selskabets eller foreningens m.v. indkomstskat for indkomståret udgør de i § 17, stk. 1, og §§ 19-21 nævnte procentdele af den skattepligtige indkomst.
 
