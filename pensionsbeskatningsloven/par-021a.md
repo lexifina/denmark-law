@@ -2,8 +2,8 @@
 
 Stk. 2. Indbetalinger, der i et indkomstår overstiger beløbsgrænsen i § 16, stk. 1, kan tilbagebetales eller udbetales, når særlige omstændigheder taler derfor. Tilbagebetaling eller udbetaling kan betinges af, at det tilbagebetalte beløb medtages ved opgørelsen af den skattepligtige formue fra og med det indkomstår som tilbagebetalingen vedrører.
 
-Stk. 3. (* 3) Er der foretaget indbetaling som nævnt i stk. 1 eller stk. 2, kan der ved ophævelse af ordningen tilbagebetales et beløb svarende til indbetalingen med påløbne renter i det pågældende indkomstår. De påløbne renter, der tilbagebetales afgiftsfrit, kan højst udgøre 500 kr.
+Stk. 3. Er der foretaget indbetaling som nævnt i stk. 1 eller stk. 2, kan der ved ophævelse af ordningen tilbagebetales et beløb svarende til indbetalingen med påløbne renter i det pågældende indkomstår. De påløbne renter, der tilbagebetales afgiftsfrit, kan højst udgøre 500 kr.
 
-Stk. 4. (* 6) Tilbagebetaling efter stk. 2 sker på begæring af ejeren af ordningen.
+Stk. 4. Tilbagebetaling efter stk. 2 sker på begæring af ejeren af ordningen.
 
 Stk. 5. Skatteministeren fastsætter nærmere regler om tilbagebetaling og udbetaling efter stk. 1-3.
