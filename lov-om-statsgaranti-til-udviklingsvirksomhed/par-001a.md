@@ -1,1 +1,1 @@
-§ 1 A. Erhvervsministeren kan tildele danske aktieselskaber og udenlandske selskaber med en tilsvarende selskabsform statsgaranti i henhold til denne lov. Selskaber, der opnår en sådan statsgaranti, betegnes i denne lov som udviklingsselskaber.
+§ 1 A. Selskaber, der opnår en statsgaranti i henhold til denne lov, betegnes i denne lov udviklingsselskaber.
