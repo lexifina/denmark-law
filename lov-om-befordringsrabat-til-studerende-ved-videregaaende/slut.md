@@ -1,4 +1,4 @@
-Undervisningsministeriet, den 16. juni 2000
+Undervisningsministeriet, den 28. juni 2001
 
 Margrethe Vestager
 
