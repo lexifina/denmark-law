@@ -1,0 +1,5 @@
+§ 25 a. Repræsentantskabet og bestyrelsen bør så vidt muligt have en afbalanceret sammensætning af mænd og kvinder.
+
+Stk. 2. Når der skal indstilles medlemmer efter § 21, stk. 2 og 3, og § 23, stk. 1, skal der indstilles både en mand og en kvinde. Hvis der skal indstilles flere medlemmer, skal der indstilles lige mange mænd og kvinder. Skal der indstilles et ulige antal, skal der indstilles en mere af det ene køn end af det andet. Organisationerne angiver i deres indstillinger, hvem de foretrækker, og arbejdsministeren skal følge denne indstilling, medmindre repræsentantskabet eller bestyrelsen derved ville få en kønsmæssigt skæv sammensætning. I så fald er arbejdsministeren berettiget til blandt de indstillede at udpege andre, således at repræsentantskabet og bestyrelsen så vidt muligt får en afbalanceret sammensætning af mænd og kvinder. Arbejdsministeren afgør, hvem af de indstillede der skal udpeges som medlem af repræsentantskabet og bestyrelsen.
+
+Stk. 3. Foreligger der særlige grunde, kan myndigheden eller organisationen fravige bestemmelsen i stk. 2. Myndigheden eller organisationen skal i så fald angive begrundelsen herfor.
