@@ -1,0 +1,1 @@
+§ 6 a. Ved afgørelser om erstatning efter denne lov finder dansk rets almindelige regler om skadevolderens erstatningsansvar, herunder om nedsættelse eller bortfald af erstatning på grund af skadelidtes eller afdødes medvirken til skaden eller accept af risikoen for skade, tilsvarende anvendelse.
