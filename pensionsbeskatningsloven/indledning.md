@@ -1,6 +1,6 @@
 Bekendtgørelse af lov om beskatningen af pensionsordninger m.v. (pensionsbeskatningsloven)
 
-Herved bekendtgøres lov om beskatningen af pensionsordninger m.v., jf. lovbekendtgørelse nr. 530 af 25. juni 1999, med de ændringer og tilføjelser, der følger af § 2 i lov nr. 955 af 20. december 1999, § 7 i lov nr. 956 af 20. december 1999, § 39 i lov nr. 165 af 15. marts 2000, § 1 i lov nr. 170 af 15. marts 2000 og § 1 i lov nr. 294 af 29. april 2000.
+Herved bekendtgøres lov om beskatningen af pensionsordninger m.v., jf. lovbekendtgørelse nr. 666 af 5. juli 2000, med de ændringer, der følger af § 36 i lov nr. 1029 af 22. november 2000, § 7 i lov nr. 1253 af 20. december 2000, § 1 i lov nr. 1282 af 20. december 2000, § 4 i lov nr. 1294 af 20. december 2000, § 2 i lov nr. 277 af 25. april 2001 og § 6 i lov nr. 284 af 25. april 2001.
 
 ## Afsnit I
 
