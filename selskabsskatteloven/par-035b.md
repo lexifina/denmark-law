@@ -1,1 +1,1 @@
-§ 35 B. Når en forening i henhold til § 35 A, stk. 2, beskattes efter reglerne i lovbekendtgørelse nr. 377 af 20. december 1961, kan ingen del af de i indkomståret betalte, forfaldne skatter fradrages ved opgørelsen af den skattepligtige indkomst. For brugsforeninger som nævnt i lovbekendtgørelsens § 1, stk. 1, nr. 3, udgør indkomstskatten 36 pct. af den skattepligtige indkomst som reguleret efter lovbekendtgørelsens § 18, stk. 2 og 3.
+§ 35 B. (* 23) (Ophævet)
