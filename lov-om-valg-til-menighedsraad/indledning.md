@@ -1,3 +1,3 @@
 Bekendtgørelse af lov om valg til menighedsråd
 
-Herved bekendtgøres lov nr. 616 af 21. december 1983 om valg til menighedsråd, som ændret ved lov nr. 865 af 23. december 1987
+Herved bekendtgøres lov om valg til menighedsråd, jf. lovbekendtgørelse nr. 70 af 12. februar 1988, med de ændringer, der følger af lov nr. 288 af 29. april 1992.
