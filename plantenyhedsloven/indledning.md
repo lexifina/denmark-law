@@ -1,3 +1,7 @@
 Bekendtgørelse af lov om plantenyheder
 
-Herved bekendtgøres lov om plantenyheder, jf. lov nr. 866 af 23. december 1987 med de ændringer, der følger af lov nr. 1107 af 21. december 1994 og lov nr. 1086 af 20. december 1995.
+Herved bekendtgøres lov om plantenyheder, jf. lovbekendtgørelse nr. 51 af 5. februar 1996, med de ændringer, der følger af § 5 i lov nr. 412 af 31. maj 2000.
+
+## Kapitel 1
+
+Lovens område
