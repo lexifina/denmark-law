@@ -1,3 +1,3 @@
-Lov om Københavns Lufthavne A/S
+Bekendtgørelse af lov om Københavns Lufthavne A/S
 
-VI MARGRETHE DEN ANDEN, af Guds Nåde Danmarks Dronning, gør vitterligt: Folketinget har vedtaget og Vi ved Vort samtykke stadfæstet følgende lov:
+Herved bekendtgøres lov nr. 428 af 13. juni 1990 om Københavns Lufthavne A/S med de ændringer, der følger af lov nr. 804 af 3. december 1990, lov nr. 338 af 1. maj 1996 og lov nr. 293 af 28. april 2000.
