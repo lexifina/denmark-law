@@ -1,9 +1,9 @@
-Givet på Christiansborg Slot, den 24. maj 1989
+Sundhedsministeriet, den 2. december 1998
 
-Under Vor Kongelige Hånd og Segl
+Carsten Koch
 
-MARGRETHE R.
+/Peter Bak Mortensen
 
-/H. P. Clausen
+Lovændringerne vedrører: § 2, § 3, § 4 a, § 10 a, § 13, § 20, § 21, § 24, § 25, § 30, § 32, kap. 10, § 40, § 41 a samt § 46.
 
-Ingen
+Overgangsbestemmelserne vedrører kap. 10 (§§ 34-39).
