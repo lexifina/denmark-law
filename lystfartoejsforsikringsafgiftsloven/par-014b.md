@@ -1,0 +1,1 @@
+§ 14 b. For de i § 3, stk. 3, omhandlede personer finder reglerne om eftergivelse og henstand i merværdiafgiftslovens § 39 d tilsvarende anvendelse på afgift, renter, gebyrer og administrative bøder efter denne lov. Reglerne finder ligeledes anvendelse på beløb, som personer er pligtige at betale som erstatning for selskabers manglende betaling af afgiften. (* 2)
