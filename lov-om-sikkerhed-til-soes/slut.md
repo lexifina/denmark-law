@@ -1,4 +1,4 @@
-Søfartsstyrelsen, den 21. juni 2000
+Søfartsstyrelsen, den 26. juli 2002
 
 Christian Breinholt
 
@@ -26,10 +26,12 @@ Rådets direktiv nr. 92/58/EF, EFT 1992, L 245 s. 23 om minimumsforskrifter for 
 
 Rådets direktiv nr. 92/85/EØF, EFT 1992, L 348 s. 1 om iværksættelse af foranstaltninger til forbedring af sikkerheden og sundheden under arbejdet for arbejdstagere, der er gravide, som lige har født hjemme eller som ammer (tiende særdirektiv i henhold til artikel 16, stk. 1, i direktiv 89/391/EØF).
 
-Rådets direktiv nr. 93/103/EF, EFT 1993, L 307 s. 1 om minimumsforskrifter for sikkerhed og sundhed under arbejdet om bord på fiskerfartøjer (trettende særdirektiv i henhold til artikel 16, stk. 1, i direktiv 89/391/EØF).
+Rådets direktiv nr. 93/103/EF, EFT 1993, L 307 s. 1 om minimumsforskrifter for sikkerhed og sundhed under arbejdet om bord på fiskerfartøjer (trettende særdirektiv i henhold til artikel 16, stk. 1, i direktiv 89/391/EØF)
 
-Rådets direktiv nr. 94/25/EF, EFT 1994, L 164 s. 15 om indbyrdes tilnærmelse af medlemsstaternes love og administrative bestemmelser om fritidsfartøjer.
+Rådets direktiv nr. 94/25/EF, EFT 1994, L 164 s. 15 om indbyrdes tilnærmelse af medlemsstaternes love og administrative bestemmelser om fritidsfartøjer
 
 Rådets direktiv nr. 94/57/EF, EFT 1994, L 319 s. 20 om fælles regler og standarder for organisationer, der udfører inspektion og syn af skibe, og for søfartsmyndighedernes aktiviteter i forbindelse dermed, som ændret ved Kommissionens direktiv 97/58/EF EFT 1997, L 274 s. 8.
 
 Rådets direktiv nr. 95/21 EF, EFT 1995, L 157 s. 1 om håndhævelse over for skibe, der anløber Fællesskabets havne og sejler i internationale farvande under medlemsstaternes jurisdiktion, af internationale standarder for skibes sikkerhed, for forureningsforebyggelse samt leve- og arbejdsvilkår om bord, som ændret ved Rådets direktiv 98/25/EF, EFT 1998, L 157 s. 1 og Kommissionens direktiv 98/42/EF, EFT 1998, L 133 s. 19.
+
+Loven gennemfører dele af Europa-Parlamentets og Rådets direktiv 2001/106/EF af 19. december 2001 om ændring af Rådets direktiv 95/21/EF om håndhævelse over for skibe, der anløber Fællesskabets havne og sejler i farvande under medlemsstaternes jurisdiktion, af internationale standarder for skibes sikkerhed, for forureningsforebyggelse og for leve- og arbejdsvilkår om bord (havnestatskontrol) (EF-Tidende 2002 L 19, side 17 ff).
