@@ -1,7 +1,7 @@
-§ 110 a. Med bøde, fængsel indtil 4 måneder eller under skærpende omstændigheder med fængsel indtil 3 år straffes den, som forsætligt eller uagtsomt uden behørig tilladelse
+§ 110 a. Med bøde eller fængsel indtil 3 år straffes den, som forsætligt eller uagtsomt uden behørig tilladelse
 
-1) beskriver, fotograferer eller på anden måde afbilder danske ikke almentilgængelige militære forsvarsanlæg, depoter, enheder, våben, materiel el.lign., eller som mangfoldiggør eller offentliggør sådanne beskrivelser eller afbildninger,
+1) beskriver, fotograferer eller på anden måde afbilder danske ikke almentilgængelige militære forsvarsanlæg, depoter, enheder, våben, materiel el. lign., eller som mangfoldiggør eller offentliggør sådanne beskrivelser eller afbildninger,
 
-2) optager fotografier fra luftfartøj over dansk statsområde eller offentliggør sådanne ulovligt optagne fotografier,
+2) offentliggør bestemmelser, der vedrører danske stridskræfters mobilisering og andet krigsberedskab.
 
-3) offentliggør bestemmelser, der vedrører danske stridskræfters mobilisering og andet krigsberedskab.
+Stk. 2. Med bøde straffes den, som forsætligt eller uagtsomt uden behørig tilladelse optager fotografier fra luftfartøj over dansk statsområde eller offentliggør sådanne ulovligt optagne fotografier.
