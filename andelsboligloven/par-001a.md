@@ -1,0 +1,1 @@
+§ 1 a. Denne lov finder anvendelse på boligfællesskaber, hvorved forstås andelsboligforeninger, boligaktieselskaber, boliganpartsselskaber, boligsamejer, boliginteressentskaber, boligkommanditselskaber og andre selskaber, foreninger og fællesskaber, hvor der til deltagelse er knyttet brugsret til en beboelseslejlighed.

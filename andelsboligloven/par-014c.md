@@ -1,0 +1,1 @@
+§ 14 c. Om overdragelse af en andel i et boligfællesskab som nævnt i § 14 a, stk. 1, hvor der til andelen er knyttet brugsret til en beboelseslejlighed i ejendommen, gælder reglerne i § 16 a i lov om ejerlejligheder tilsvarende.

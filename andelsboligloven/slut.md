@@ -1,6 +1,6 @@
-Boligministeriet, den 30. juli 1992
+Boligministeriet, den 10. november 1994
 
-Svend Erik Hovmand
+Ole Løvig Simonsen
 
 / Hanne Victor Hansen
 
@@ -20,4 +20,16 @@ Svend Erik Hovmand
 
 (* 8) Lovændringen vedrører § 5, stk. 8.
 
-(* 9) Lovændringen vedrører § 7 a, § 7 b, og § 11 a
+(* 9) Lovændringen vedrører § 7 a, § 7 b, og § 11 a.
+
+(* 10) Ved en fejl står der i § 9, stk. 5, 1. pkt., i lov nr. 380 af 20. maj 1992 »1. januar 1998« i stedet for som rigtigt »1. januar 1993«. Bestemmelsen svarer til § 8, stk. 5, i loven. Der vil i forbindelse med revisionen af bestemmelserne blive fremsat ændringsforslag til loven, hvori fejlen rettes.
+
+(* 11) Lovændringen vedrører § 7 a, stk. 1, nr. 9 og stk. 2.
+
+(* 12) Lovændringen vedrører § 1, stk. 1, kap. I, Kap IV, § 12, § 13, § 14, Kap. IV A, § 15, stk. 2 og 3 og § 16, stk. 1 og 2.
+
+(* 13) Bekendtgørelsen i Lovtidende fandt sted den 11. maj 1994.
+
+(* 14) Lovændringen vedrører § 14 a, stk. 3 og § 14 b, stk. 1, 1. pkt.
+
+(* 15) Bekendtgørelsen i Lovtidende fandt sted den 2. juni 1994.
