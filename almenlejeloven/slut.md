@@ -1,5 +1,5 @@
-By- og Boligministeriet, den 19. juni 2001
+Socialministeriet, den 10. september 2004
 
-Lotte Bundsgaard
+P.M.V. Thomas Børner
 
-/Anne Wallberg
+/Aksel Meyer
