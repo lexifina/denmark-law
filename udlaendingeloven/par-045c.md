@@ -1,5 +1,1 @@
 § 45 c. Udlændingestyrelsen, Ministeriet for Flygtninge, Indvandrere og Integration, Flygtningenævnet og statsamterne, jf. § 46 c, kan uden udlændingens samtykke videregive oplysninger fra en sag efter denne lov til anklagemyndigheden med henblik på anklagemyndighedens beslutning om, hvorvidt tiltale skal rejses for forbrydelser begået i eller uden for Danmark.
-
-## Kapitel 8
-
-Kompetence- og klageregler m.v.

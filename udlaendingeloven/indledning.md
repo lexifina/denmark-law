@@ -1,9 +1,3 @@
 Bekendtgørelse af udlændingeloven
 
-Herved bekendtgøres udlændingeloven, jf. lovbekendtgørelse nr. 711 af 1. august 2001, med de ændringer, der følger af lov nr. 134 af 20. marts 2002, § 2 i lov nr. 193 af 5. april 2002, lov nr. 362 af 6. juni 2002, § 1 i lov nr. 365 af 6. juni 2002 og lov nr. 367 af 6. juni 2002 .
-
-Dele af de ændringer, der følger af lov nr. 134 af 20. marts 2002 og lov nr. 367 af 6. juni 2002, er ikke indarbejdet i denne lovbekendtgørelse, da ændringerne endnu ikke er trådt i kraft. Tidspunktet for ikrafttræden fastsættes af ministeren, jf. lovenes § 2.
-
-## Kapitel 1
-
-Udlændinges indrejse og ophold i Danmark
+Herved bekendtgøres udlændingeloven, jf. lovbekendtgørelse nr. 608 af 17. juli 2002 med de ændringer, der følger af § 1, nr. 3, 4, 7 og 8, i lov nr. 134 af 20. marts 2002, § 1, nr. 6, i lov nr. 367 af 6. juni 2002, § 2 i lov nr. 1044 af 17. december 2002, § 1 i lov nr. 60 af 29. januar 2003, lov nr. 291 af den 30. april 2003, lov nr. 292 af den 30. april 2003, § 2 i lov nr. 386 af 28. maj 2003, § 3 i lov nr. 387 af 28. maj 2003 og § 2 i lov nr. 425 af 10. juni 2003.
