@@ -1,7 +1,7 @@
-Trafikministeriet, den 15. juni 1990
+Trafikministeriet, den 6. maj 1992
 
-Knud Østergaard
+Kaj Ikast
 
-/ Kurt Lykstoft Larsen
+/ Bo Tarp
 
 Ingen
