@@ -1,1 +1,1 @@
-§ 47 a. Ministeren for flygtninge, indvandrere og integration kan fastsætte nærmere regler om, at Udlændingestyrelsen og politiet kan udstede visum ved indrejsen i landet samt udstede tilbagerejsetilladelse til en udlænding, der lovligt opholder sig her i landet.
+§ 47 a. Ministeren for flygtninge, indvandrere og integration kan fastsætte nærmere regler om, at Udlændingestyrelsen og politiet i særlige tilfælde kan udstede visum ved indrejsen her i landet samt udstede tilbagerejsetilladelse til en udlænding, der lovligt opholder sig her i landet.
