@@ -1,0 +1,1 @@
+§ 2 c. De nærmere regler om bidragspligt efter bestemmelserne i § 2 a og § 2 b fastsættes af arbejdsministeren efter forhandling med socialministeren og efter indstilling fra bestyrelsen for Arbejdsmarkedets Tillægspension.

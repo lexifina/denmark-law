@@ -5,3 +5,5 @@ Stk. 2. I almindelige bestemmelser om løn- og arbejdsforhold, som en offentlig 
 Stk. 3. Arbejdsgiveren betaler bidrag efter stk. 1 og 2 for alle lønmodtagere, der er omfattet af de nævnte overenskomster, aftaler eller almindelige bestemmelser.
 
 Stk. 4. Årsbidraget i henhold til stk. 1 og 2 for et fuldtidsbeskæftiget medlem udgør 1.166,40 kr.
+
+Stk. 5. Hvis der i kollektive overenskomster og aftaler eller i almindelige bestemmelser om løn- og arbejdsforhold er indgået aftale efter stk. 1 eller truffet bestemmelse efter stk. 2, kan det aftales eller bestemmes, at bidraget i stk. 4, forhøjes med de pr. 1. januar 1996 og senere i medfør af § 15, stk. 1, fastsatte forhøjelser af årsbidraget.
