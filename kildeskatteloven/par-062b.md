@@ -1,5 +1,3 @@
-§ 62 B. Indkomst- og formueskatten af dødsboer samt restskatten og den særlige indkomstskat som følge af afsluttende ansættelse efter § 14, stk. 2, forfalder til betaling den 1. oktober efter indkomstårets udløb med betalingsfrist til den 20. i forfaldsmåneden. De nævnte skatter samt restskat og særlig indkomstskat for tiden forud for det indkomstår, hvori dødsfaldet har fundet sted, forfalder dog til betaling senest den 1. i den tredje måned efter ophør af boets indkomstskattepligt med betalingsfrist til den 20. i forfaldsmåneden. § 58, 2. pkt., gælder også for betalingen af disse skatter.
+§ 62 B. (* 17) Indkomst- og formueskatten af dødsboer samt restskatten og den særlige indkomstskat som følge af afsluttende ansættelse efter § 14, stk. 2, forfalder til betaling den 1. oktober efter indkomstårets udløb med betalingsfrist til den 20. i forfaldsmåneden.
 
 Stk. 2. Udgør afdødes restskat for året før dødsfaldet med tillæg efter § 61, stk. 2, og eventuelle skyldige renter efter § 63, stk. 1, i alt højst 300 kr., opkræves beløbet ikke.
-
-Stk. 3. Skal et dødsbo have tilbagebetalt, hvad afdøde har betalt i foreløbige formueskattebeløb, tilbagebetales beløbet kun, hvis det overstiger 25 kr.
