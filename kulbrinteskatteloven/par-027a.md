@@ -1,0 +1,11 @@
+§ 27 A. Ved opgørelsen af skattepligtig kulbrinteindkomst for de skattepligtige, der har indkomst i tilknytning til koncessioner, som overgår fra beskatning efter kapitel 3 til beskatning efter kapitel 3 A med virkning fra indkomståret 2004, gælder reglerne i stk. 2-6.
+
+Stk. 2. Skattemæssige afskrivninger foretages med udgangspunkt i den skattemæssigt nedskrevne værdi pr. 31. december 2003. For aktiver omfattet af § 7, stk. 3, foretages skattemæssige afskrivninger fra og med indkomståret 2004 på grundlag af den skattemæssigt nedskrevne værdi pr. 31. december 2003 med et beløb, som svarer til den forholdsmæssige anvendelse af aktiverne ved efterforskningsvirksomhed i tilknytning til koncessioner omfattet af kapitel 3 A.
+
+Stk. 3. Kulbrintefradrag efter § 20 C foretages med udgangspunkt i grundlaget for kulbrintefradrag efter § 16 pr. 31. december 2003 for de aktiver, der anvendes i tilknytning til koncessioner, hvorfra indkomst fra og med indkomståret 2004 beskattes efter kapitel 3 A. For de aktiver, som indgår i grundlaget efter 1. pkt., beregnes kulbrintefradrag med 10 pct. af anskaffelsessummen for den resterende del af den 10-års-periode, der begyndte med det indkomstår, hvori den skattepligtige påbegyndte afskrivning på aktiverne.
+
+Stk. 4. Uudnyttede underskud, jf. § 18, stk. 1, ved udgangen af indkomståret 2003 vedrørende felter, hvorfra indkomst fra og med indkomståret 2004 beskattes efter reglerne i kapitel 3 A, kan fradrages i den skattepligtige kulbrinteindkomst med 2,5 pct. i hvert af indkomstårene 2004 og 2005 og 6 pct. i hvert af indkomstårene 2006-2016. De resterende uudnyttede underskud bortfalder. 1. pkt. finder kun anvendelse, hvis den skattepligtige for indkomståret 2003 har foretaget maksimale skattemæssige afskrivninger på aktiver omfattet af § 7, stk. 3, og § 8.
+
+Stk. 5. Uudnyttede underskud, jf. § 19, stk. 2, ved udgangen af indkomståret 2003 fordeles mellem de koncessioner, der fra og med indkomståret 2004 omfattes af henholdsvis kapitel 3 og 3 A.
+
+Stk. 6. Fusionsskattelovens § 8, stk. 6, finder ikke anvendelse på underskud omfattet af stk. 4 og underskud under stk. 5, som kan henføres til kapitel 3 A ved udgangen af indkomståret 2003, hvis den skattepligtige er modtagende selskab i den pågældende fusion, spaltning eller tilførsel af aktiver.

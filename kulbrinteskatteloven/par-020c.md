@@ -1,0 +1,9 @@
+§ 20 C. Ved opgørelsen af kulbrinteindkomsten kan fratrækkes et beløb på 5 pct. (kulbrintefradrag) af anskaffelsessummen for aktiver, der er omfattet af § 8, stk. 1. Kulbrintefradraget indrømmes i det indkomstår, hvori den skattepligtige har påbegyndt afskrivning på aktivet, og hvert af de følgende 5 indkomstår.
+
+Stk. 2. Der indrømmes desuden et kulbrintefradrag på 5 pct. af de forundersøgelses- og efterforskningsudgifter, som efter § 7 fradrages over 5 år. Kulbrintefradraget indrømmes i det indkomstår, hvori den 5-årige fradragsordning er påbegyndt, og hvert af de følgende 5 indkomstår.
+
+Stk. 3. Afstår den skattepligtige et aktiv, der giver adgang til kulbrintefradrag, fragår afståelsessummen i grundlaget for beregning af kulbrintefradraget fra og med afståelsesåret. Der fragår dog højst et beløb svarende til anskaffelsessummen for det solgte aktiv. Erstatningssummer og forsikringssummer sidestilles med afståelsessummer.
+
+Stk. 4. Overgår et aktiv, der giver adgang til kulbrintefradrag, til anden anvendelse end den i § 8, stk. 1, nævnte, fragår et beløb svarende til aktivets skattemæssigt nedskrevne værdi i grundlaget for beregning af kulbrintefradraget fra og med det indkomstår, hvori overgangen finder sted. Overgår et aktiv til anvendelse, der omfattes af § 8, stk. 1, forhøjes grundlaget for beregning af kulbrintefradrag med aktivets skattemæssigt nedskrevne værdi fra og med det indkomstår, hvori overgangen finder sted. Tilsvarende regler finder anvendelse i tilfælde, hvor et aktiv overgår til og fra anvendelse i forbindelse med virksomhed omfattet af kapitel 3.
+
+Stk. 5. Anvendes et aktiv, der giver adgang til kulbrintefradrag, delvis i forbindelse med anden virksomhed, herunder virksomhed omfattet af kapitel 3, fragår en andel af anskaffelsessummen eller aktivets nedskrevne værdi, der forholdsmæssigt svarer til aktivets anvendelse ved anden virksomhed, i grundlaget for beregning af kulbrintefradraget.
