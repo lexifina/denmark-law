@@ -1,3 +1,3 @@
-Lov om anvendelsen af visse af De europæiske Fællesskabers retsakter om ind- og udførsel af varer
+Bekendtgørelse af lov om anvendelsen af visse af De europæiske Fællesskabers retsakter om ind- og udførsel af varer
 
-VI MARGRETHE DEN ANDEN, af Guds Nåde Danmarks Dronning, gør vitterligt: Folketinget har vedtaget og Vi ved Vort samtykke stadfæstet følgende lov:
+Hermed bekendtgøres lov nr. 109 af 28. marts 1984, som ændret ved lov nr. 855 af 23. december 1987.
