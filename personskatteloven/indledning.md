@@ -1,5 +1,5 @@
-Bekendtgørelse af lov om indkomstskat og formueskat for personer m.v. (personskatteloven) (* 1)
+Bekendtgørelse af lov om indkomstskat og formueskat for personer m.v. (personskatteloven)(* 1 )
 
-Herved bekendtgøres lov om indkomstskat og formueskat for personer m.v. (personskatteloven), jf. lovbekendtgørelse nr. 869 af 22. oktober 1992 med de ændringer, der følger af lov nr. 1030 af 19. december 1992, lov nr. 1032 af 19. december 1992, lov nr. 421 af 25. juni 1993, lov nr. 423 af 25. juni 1993, lov nr. 425 af 25. juni 1993, lov nr. 426 af 25. juni 1993, lov nr. 427 af 25. juni 1993, lov nr. 480 af 30. juni 1993, lov nr. 482 af 30. juni 1993, lov nr. 1115 af 22. december 1993 og lov nr. 1117 af 22. december 1993.
+Herved bekendtgøres lov om indkomstskat og formueskat for personer m.v. (personskatteloven), jf. lovbekendtgørelse nr. 102 af 4. februar 1994 med de ændringer, der følger af § 2 i lov nr. 175 af 16. marts 1994, § 2 i lov nr. 296 af 27. april 1994, § 4 i lov nr. 299 af 27. april 1994, § 8 i lov nr. 374 af 18. maj 1994, § 1 i lov nr. 377 af 18. maj 1994 og § 3 i lov nr. 445 af 1. juni 1994.
 
 Opgørelse af skattepligtig indkomst
