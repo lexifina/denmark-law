@@ -1,0 +1,7 @@
+§ 14 d. Styrelsen for Det Storkøbenhavnske Teaterfællesskab administrerer de af tilskudsyderne fastsatte bevillinger til Det Storkøbenhavnske Teaterfællesskab. Styrelsen fastsætter i flerårige resultataftaler størrelsen af tilskud til drift og produktion til det enkelte teaterselskab. Styrelsen fastsætter størrelsen af huslejetilskud. Styrelsen træffer beslutning om fordeling af de særligt afsatte midler til udvikling og nytænkning inden for teaterkunsten samt til kapitalindskud.
+
+Stk. 2. Styrelsen træffer beslutning om, hvilke teatre der skal indgå i Det Storkøbenhavnske Teaterfællesskab. Styrelsen kan i den forbindelse træffe beslutning om teatres indtræden eller udtræden af Det Storkøbenhavnske Teaterfællesskab.
+
+Stk. 3. Styrelsen træffer beslutning om, at driftsoverskuddet over en vis størrelse hos det enkelte teaterselskab delvis skal tilbageføres til Det Storkøbenhavnske Teaterfællesskab og indgå i de særligt afsatte midler til nytænkning og udvikling inden for teaterkunsten samt til kapitalindskud.
+
+Stk. 4. Styrelsen udpeger efter opslag og indstilling fra et ansættelsesudvalg med repræsentanter for styrelsen og det enkelte teaterselskabs bestyrelse teaterlederen eller ledelsen for de teatre, der er optaget i ordningen med henblik på tilskud til drift og produktion. Ansættelse sker normalt for perioder af 4 år med mulighed for forlængelse uden opslag i maksimalt 3 år. Det enkelte teaterselskabs bestyrelse skal indhente styrelsens godkendelse forud for eventuel afskedigelse af det pågældende teaters leder eller ledelse.
