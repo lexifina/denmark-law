@@ -1,11 +1,7 @@
-Kulturministeriet, den 6. februar 1992
+Kulturministeriet, den 22. marts 1996
 
-Grethe F. Rostbøll
+Jytte Hilden
 
-/ Bent Rasmussen
+/ Frank Rechendorff Møller
 
-Ssærlige noter:
-
-(* 1) Oversat til engelsk. Oversættelsen kan fås ved henvendelse til
-
-Kulturministeriet.
+Ingen
