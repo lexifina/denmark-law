@@ -1,0 +1,1 @@
+Loven gennemfører Rådets direktiv 2001/86/EF af 8. oktober 2001 om fastsættelse af supplerende bestemmelser til statut for det europæiske selskab (SE) for så vidt angår medarbejderindflydelse, (EF-Tidende 2001 nr. L 294 s. 22).
