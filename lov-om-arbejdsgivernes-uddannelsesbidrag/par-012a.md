@@ -1,0 +1,1 @@
+§ 12 a. Arbejdsgivernes Elevrefusion kan yde tilskud til en eller flere institutioner eller en styrelse eller anden offentlig institution under Undervisningsministeriet, som er bemyndiget til at varetage ordningens administration, eller personer, der varetager formidling af praktikpladser i udlandet, jf. også §§ 9 og 10.

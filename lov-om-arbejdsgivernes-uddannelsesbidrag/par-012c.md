@@ -1,0 +1,7 @@
+§ 12 c. Staten yder tilskud til institutioner for erhvervsrettet uddannelse og andre skoler og institutioner til praktikpladsopsøgning og vejledning af elever om praktik og beskæftigelsesmuligheder. Der ydes et tilskud pr. elev, der indgår uddannelsesaftale inden for lov om erhvervsuddannelser, herunder kombinationsaftale, eller som kommer i praktik i udlandet, jf. § 31, stk. 4, i lov om erhvervsuddannelser. Tilskuddets størrelse fastsættes på de årlige finanslove. Der ydes dog ikke tilskud for uddannelsesaftaler i henhold til § 66 f i lov om erhvervsuddannelser. Retten til tilskud bortfalder, hvis uddannelsesaftalen eller praktikken i udlandet ikke får en varighed på mindst 3 måneder.
+
+Stk. 2. Bestyrelsen for Arbejdsgivernes Elevrefusion administrerer ordningen og fastsætter nærmere regler om udbetalingen. Undervisningsministeren kan fastsætte nærmere regler om institutionernes regnskabsaflæggelse og revision.
+
+Stk. 3. Undervisningsministeren udbetaler et foreløbigt beløb til dækning af udgiften til tilskud efter stk. 1 og administrationsudgifter til Arbejdsgivernes Elevrefusion. Beløbet udbetales kvartalsvis forud. Der gennemføres en efterfølgende regulering efter årets afslutning.
+
+Stk. 4. Bestyrelsen for Arbejdsgivernes Elevrefusion udarbejder et særligt regnskab for udbetalinger i løbet af året, jf. § 24. Regnskabet revideres efter bestemmelserne i § 25.
