@@ -1,5 +1,5 @@
-§ 16 a. Retten i Randers består af 4 dommere. Retten på Frederiksberg samt retterne i Lyngby, Ballerup, Esbjerg, Horsens og Herning består af 3 dommere.
+§ 16 a. Retten i Roskilde består af 6 dommere. Retten i Randers består af 4 dommere. Retten på Frederiksberg samt retterne i Lyngby, Ballerup, Esbjerg, Horsens og Herning består af 3 dommere. Retterne i Tåstrup, Hørsholm, Svendborg og Skanderborg består af 2 dommere.
 
-Stk. 2. Retten i Randers deles i 4 afdelinger. De øvrige i stk. 1 nævnte retter deles i 3 afdelinger. Hver afdeling beklædes af en enkelt dommer.
+Stk. 2. De i stk. 1 nævnte retter deles i afdelinger, som hver beklædes af en enkelt dommer.
 
-Stk. 3. Ved hver af de i stk. 1 nævnte retter beskikker justitsministeren en af dommerne til at varetage rettens administration. Almindelige regler om forretningernes fordeling mellem afdelingerne fastsættes af den beskikkede dommer med justitsministerens billigelse. Sagernes fordeling mellem dommerne bestemmes af den beskikkede dommer efter forhandling med rettens øvrige medlemmer.
+Stk. 3. Ved de i stk. 1 nævnte retter varetages rettens administration af den dommer, der er udnævnt hertil. Almindelige regler om forretningernes fordeling mellem afdelingerne fastsættes af den administrerende dommer med Justitsministeriets godkendelse. Sagernes fordeling mellem dommerne bestemmes af den administrerende dommer efter forhandling med det eller de øvrige medlemmer af retten.
