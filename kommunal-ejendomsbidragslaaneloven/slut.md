@@ -1,7 +1,7 @@
-Indenrigsministeriet, den 28. august 1987
+Indenrigsministeriet, den 24. juni 1994
 
-KNUD ENGGAARD
+Birte Weiss
 
-/Marius Ibsen
+/ Niels Jørgen Mau
 
 Ingen
