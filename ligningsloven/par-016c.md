@@ -1,4 +1,4 @@
-§ 16 C. Ved udloddende investeringsforeninger forstås investeringsforeninger, der udsteder omsættelige beviser for medlemmernes indskud, og som inden fristen for indgivelse af selvangivelse for et indkomstår foretager en udlodning, der mindst skal udgøre det efter stk. 2-6 opgjorte beløb (minimumsudlodningen), og som ifølge deres vedtægter er forpligtet til at foretage en sådan udlodning.
+§ 16 C. Ved udloddende investeringsforeninger forstås investeringsforeninger, der udsteder omsættelige beviser for medlemmernes indskud, og som inden fristen for indgivelse af selvangivelse for et indkomstår foretager en udlodning, der mindst skal udgøre det efter stk. 2-6 opgjorte beløb (minimumsudlodningen), og som ifølge deres vedtægter er forpligtet til at foretage en sådan udlodning. En udloddende investeringsforening kan undlade at foretage udlodningen, hvis minimumsudlodningen er mindre end 1 pct. af investeringsbevisets pålydende. En udloddende investeringsforening kan endvidere nedrunde minimumsudlodningen til nærmeste beløb, som er fuldt ud deleligt med 0,25 pct. af investeringsbevisets pålydende. Beløb, der som følge af nedrundingen ikke skal udloddes, fordeles forholdsmæssigt mellem de indkomstarter, hvoraf der udloddes. Beløb efter 2. og 3. pkt., der ikke skal udloddes, overføres i stedet til minimumsudlodningen i det følgende år. Beløbene overføres til de indkomstarter, som de vedrører.
 
 Stk. 2. Minimumsudlodningen udgør summen af indkomstårets indtægter og nettobeløb som nævnt i stk. 3 med fradrag for tab og udgifter efter stk. 4-6.
 
@@ -16,7 +16,7 @@ Stk. 3. I beregningen af minimumsudlodningen indgår følgende indtægter:
 
 6) Gevinst ved afståelse af aktier efter aktieavancebeskatningslovens § 2 fratrukket tab efter aktieavancebeskatningslovens § 2, stk. 2.
 
-7) Gevinst ved afståelse af aktier efter aktieavancebeskatningslovens § 2 a.
+7) Gevinst ved afståelse af aktier efter aktieavancebeskatningslovens § 2 a uden særlig forhøjelse efter aktieavancebeskatningslovens § 6.
 
 8) Gevinst efter aktieavancebeskatningslovens § 2 d, stk. 1, ved afståelse af beviser for indskud i investeringsforeninger.
 
@@ -37,3 +37,9 @@ Stk. 5. Investeringsforeningen kan ved opgørelsen af minimumsudlodningen fradra
 Stk. 6. Er det samlede beløb, der opgøres til udlodning efter stk. 3 og 4, negativt, kan dette for investeringsforeningens fem efterfølgende indkomstår fradrages ved opgørelsen af de beløb, der skal udloddes efter stk. 3-5. Fradrag kan kun fremføres til et senere indkomstår, såfremt det ikke for et tidligere indkomstår kan rummes i det beløb, der skal udloddes. Fremførte fradrag fordeles efter reglerne i stk. 4 i det år, hvori fradrag foretages.
 
 Stk. 7. Skattepligtige efter kildeskattelovens § 1 eller dødsboskattelovens § 1, stk. 2, der har erhvervet investeringsbeviser i en pengemarkedsforening, jf. lov om investeringsforeninger og specialforeninger § 2, stk. 2, nr. 2, kan nedsætte den førstkommende skattepligtige udlodning efter erhvervelsen med tab ved afståelse af beviset. Nedsættelsesadgangen efter 1. pkt. er betinget af, at investeringsbeviset afstås i det samme indkomstår, hvori den førstkommende udlodning efter erhvervelsen finder sted, og at investeringsbeviset er omfattet af aktieavancebeskatningslovens § 2 d. Reglerne i 1. pkt. finder ikke anvendelse, såfremt tab ved afståelse af investeringsbeviset kan fradrages efter reglerne i aktieavancebeskatningslovens § 2 d, stk. 3.
+
+Stk. 8. Ved udstedelse af nye investeringsbeviser (emission) forøges de indtægter og udgifter, jf. stk. 3-6, indtil emissionstidspunktet, som skal tages i betragtning ved opgørelsen af en udloddende investeringsforenings udlodningspligt efter emissionen. Forøgelsen af de enkelte indtægter og udgifter sker efter forholdet mellem den pålydende værdi af alle andele efter emissionen og den pålydende værdi af alle andele inden emissionen.
+
+Stk. 9. Ved indløsning af investeringsbeviser nedsættes de indtægter og udgifter, jf. stk. 3-6, indtil indløsningstidspunktet, som skal tages i betragtning ved opgørelsen af en udloddende investeringsforenings udlodningspligt efter indløsningen. Nedsættelsen af de enkelte indtægter og udgifter sker efter forholdet mellem den pålydende værdi af alle andele efter indløsningen og den pålydende værdi af alle andele inden indløsningen.
+
+Stk. 10. Beløb efter stk. 1, 5. pkt., samt tab, der kan fremføres til indtægt henholdsvis fradrag ved opgørelse af foreningens udlodningspligt, efter at emission eller indløsning har fundet sted, sidestilles ved anvendelse af stk. 8 og 9 med foreningens indtægter og udgifter, selv om de hidrører fra tidligere år.
