@@ -1,3 +1,3 @@
 Bekendtgørelse af lov om naturbeskyttelse
 
-Hermed bekendtgøres lov nr. 9 af 3. januar 1992 om naturbeskyttelse med de ændringer, der følger af lov nr. 269 af 6. maj 1993 om jagt og vildtforvaltning, lov nr. 439 af 1. juni 1994 om ændring af lov om planlægning og lov om naturbeskyttelse (Beskyttelse af kystområderne) og lov nr. 19 af 13. januar 1997 om ændring af lov om naturbeskyttelse og lov om råstoffer (Ændring af klageregler).
+Hermed bekendtgøres lov om naturbeskyttelse, jf. lovbekendtgørelse nr. 835 af 1. november 1997 med de ændringer, der følger af § 2 i lov nr. 478 af 1. juli 1998, lov nr. 282 af 12. maj 1999, § 9 i lov nr. 447 af 31. maj 2000 og § 43 i lov nr. 473 af 7. juni 2001. Dele af lov nr. 439 af 1. juni 1994 og lov nr. 282 af 12. maj 1999 er endnu ikke indarbejdet i denne bekendtgørelse, idet de ikke er trådt i kraft i hele landet.
