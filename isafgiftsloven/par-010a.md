@@ -4,4 +4,4 @@ Stk. 2. Med hensyn til den i stk. 1 nævnte tilkendegivelse finder bestemmelsen 
 
 Stk. 3. Betales bøden i rette tid, eller bliver den efter vedtagelsen inddrevet eller afsonet, bortfalder videre forfølgning.
 
-Stk. 4. Når sager om de i § 10 nævnte overtrædelser indbringes for domstolene, behandles de som politisager. Retsmidlerne i retsplejelovens kapitler 72 og 73 kan anvendes i samme omfang som i statsadvokatsager.
+Stk. 4. (* 1) Når sager om de i § 10 nævnte overtrædelser indbringes for domstolene, behandles de som politisager. Retsmidlerne i retsplejelovens kapitel 73 kan anvendes i samme omfang som i statsadvokatsager.
