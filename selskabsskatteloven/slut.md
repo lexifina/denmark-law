@@ -1,5 +1,69 @@
-Skatteministeriet, den 7. oktober 1998
+Skatteministeriet, den 27. april 2000
 
 Ole Stavad
 
 /K.-H. Ludolph
+
+Denne lovbekendtgørelse indeholder bemærkninger om ikrafttrædelses- og overgangsbestemmelser for love, der er gennemført i folketingsårene 1998-99 og 1999-2000 indtil den 20. december 1999. For så vidt angår ikrafttrædelses- og overgangsbestemmelser for tidligere gennemførte ændringer i selskabsskatteloven henvises til tidligere bekendtgørelser af selskabsskatteloven, senest lovbekendtgørelse nr. 727 af 7. oktober 1998. Bemærkninger om ikrafttrædelses- og overgangsbestemmelser for tidligere ændringer i selskabsskatteloven er kun medtaget i det omfang, de skønnes at have aktuel interesse.
+
+Selskabsskatteloven er yderligere ændret ved § 35 i lov nr. 165 af 15. marts 2000 (Konsekvensændringer som følge af opkrævningsloven), der træder i kraft den 1. januar 2001, jf. § 47, stk. 1, i førnævnte lov. Disse ændringer er ikke indarbejdet i lovbekendtgørelsen. Det drejer sig om affattelse af ny § 24 i selskabsskatteloven og ændringer i § 29 A, stk. 5, 3. pkt., § 29 B, stk. 5, 10. pkt., § 30, stk. 2, 3. pkt., § 30, stk. 4, 2. pkt., og § 30, stk. 5, 3. pkt. Ændringerne i § 29 A, stk. 5, 3. pkt., § 29 B, stk. 5, 10. pkt., § 30, stk. 2, 3. pkt., § 30, stk. 4, 2. pkt., og § 30, stk. 5, 3. pkt., har virkning for renter, der påløber den 1. januar 2002 og senere. Skatteministeren kan fastsætte, at reglerne har virkning for renter, der påløber før den 1. januar 2002, jf. § 47, stk. 4, 1. og 2. pkt., i lov nr. 165 af 15. marts 2000. § 35 og § 47, stk. 1 og 4, i lov nr. 165 af 15. marts 2000 er optrykt i slutningen af lovbekendtgørelsen.
+
+§ 1, stk. 1, nr. 2, litra c, har fået den her anførte affattelse ved § 14, nr. 1, i lov nr. 958 af 20. december 1999, der trådte i kraft den 22. december 1999, jf. § 21, stk. 1, i førnævnte lov.
+
+§ 1, stk. 4, som affattet ved lovbekendtgørelse nr. 769 af 19. september 1995 er ved lov nr. 399 af 22. maj 1996 om ændring af forskellige skattelove ophævet med virkning fra og med den 1. januar 1996, jf. § 11, stk. 4, 1. pkt., i lov nr. 399 af 22. maj 1996. Et negativt beløb, som efter selskabsskattelovens § 1, stk. 4, 2. og 3. pkt., som affattet ved lovbekendtgørelse nr. 769 af 19. september 1995, ville kunne fremføres til fradrag efter den 1. januar 1996, kan fradrages efter ligningslovens § 16 C, stk. 6, i indtil det femte indkomstår efter det indkomstår, hvori det negative beløb er opstået. Dette gælder dog kun, i det omfang det negative beløb udgøres af tab som omhandlet i kursgevinstlovens § 6, jf. § 11, stk. 4, 2. og 3. pkt., i lov nr. 399 af 22. maj 1996.
+
+§ 2, stk. 1, litra c, har fået den her anførte affattelse ved § 14, nr. 2, i lov nr. 958 af 20. december 1999, der med virkning for udlodninger, der foretages den 1. januar 2000 eller senere, jf. § 21, stk. 21, i lov nr. 958 af 20. december 1999, har afløst de ved § 3 i lov nr. 838 af 2. december 1998 og § 1, nr. 2, i lov nr. 1026 af 23. december 1998 foretagne affattelser.
+
+Den tidligere § 2, stk. 5, er ved § 1, nr. 3, jf. § 10, stk. 2, i lov nr. 1026 af 23. december 1998 ophævet med virkning fra og med indkomstår, der påbegyndes den 1. januar 1999 eller senere. Den tidligere § 2, stk. 6, er herefter blevet stk. 5.
+
+Den tidligere § 3, stk. 4, er ophævet ved § 16, nr. 1, i lov nr. 166 af 24. marts 1999, der trådte i kraft den 1. januar 2000, jf. § 25, stk. 1, i førnævnte lov. De tidligere § 3, stk. 5 - 7, er herefter blevet stk. 4 - 6. Henvisningen i den gældende § 3, stk. 4, 1. pkt., til stk. 2 og 3 er en samtidig ved § 16, nr. 2, i lov nr. 166 af 24. marts 1999 sket (konsekvens)ændring.
+
+§ 3, stk. 6, har fået den her anførte affattelse ved § 16, nr. 3, i lov nr. 166 af 24. marts1999, der trådte i kraft den 1. januar 2000, jf. § 25, stk. 1, i førnævnte lov.
+
+Henvisningen i § 4, stk. 1,: »jf. dog stk. 3, 4 og 5« er indsat ved § 1, nr. 1, jf. § 3, stk. 2, i lov nr. 285 af 12. maj 1999 med virkning for selskabsstiftelser, der finder sted den 1. juli 1999 eller senere.
+
+Bestemmelserne i § 4, stk. 4 og 5, er indsat ved § 1, nr. 2, jf. § 3, stk. 2, i lov nr. 285 af 12. maj 1999 med virkning for selskabsstiftelser, der finder sted den 1. juli 1999 eller senere.
+
+Henvisningen i § 8, stk. 1,: »jf. dog § 8 A, stk. 2.« er indsat ved § 1, nr. 3, jf. § 3, stk. 3, i lov nr. 285 af 12. maj 1999 med virkning for fusioner, der endeligt vedtages den 1. juli 1999 eller senere.
+
+§ 8 A er indsat ved § 1, nr. 4, jf. § 3, stk. 3, i lov nr. 285 af 12. maj 1999 med virkning for fusioner, der endeligt vedtages den 1. juli 1999 eller senere.
+
+De tidligere § 10, stk. 2 og 3, er ved § 16, nr. 4, jf. § 25, stk. 14, i lov nr. 166 af 24. marts 1999 ophævet med virkning for selskaber m.v., der anmeldes til Erhvervs- og Selskabsstyrelsen dagen efter lovens bekendtgørelse i Lovtidende, den 25. marts 1999, eller senere, selskaber m.v., der dagen efter lovens bekendtgørelse i Lovtidende, den 25. marts 1999, eller senere omlægger indkomståret, og selskaber m.v., der dagen efter lovens bekendtgørelse i Lovtidende, den 25. marts 1999, eller senere overgår til udelukkende eller i væsentlig grad ikke at have erhvervsmæssig aktivitet. De tidligere § 10, stk. 4 - 6, er herefter blevet stk. 2 - 4. Ved lovændringen har de tidligere § 10, stk. 4 og 5, der er blevet stk. 2 og 3, samtidig fået de her anførte affattelser med virkning fra og med dagen efter lovens bekendtgørelse i Lovtidende, den 25. marts 1999, jf. § 16, nr. 5 og 6, og § 25, stk. 15, i lov nr. 166 af 24. marts 1999.
+
+§ 11, stk. 5, er indsat ved § 1, nr. 4, jf. § 10, stk. 2, i lov nr. 1026 af 23. december 1998 med virkning fra og med indkomstår, der påbegyndes den 1. januar 1999 eller senere.
+
+§ 13 er affattet ved § 1, nr. 5, jf. § 10, stk. 2, i lov nr. 1026 af 23. december 1998 med virkning fra og med indkomstår, der påbegyndes den 1. januar 1999 eller senere. I § 13, stk. 2, 1. pkt., er »efter reglerne i stk. 8-10« ved § 1, nr. 1, i lov nr. 387 af 2. juni 1999 ændret til »efter reglerne i stk. 8-13«. § 13, stk. 8 og 9, er ophævet ved § 1, nr. 2, i lov nr. 387 af 2. juni 1999 og i stedet er indsat stk. 8 - 12. § 13, stk. 10, er herefter blevet stk. 13. Disse ændringer har efter § 5, stk. 2, i førnævnte lov virkning fra og med indkomståret 1998. Ved opgørelsen over skattefri og lempelsesberettigede udbytter og avancer vedrørende indkomståret 1998 medregnes efter § 5, stk. 2, 2. pkt., i førnævnte lov udbytter omfattet af selskabsskattelovens § 17, stk. 2. I § 13, stk. 2, 1. pkt., er efter »fradrage« ved § 4, nr. 1, i lov nr. 959 af 20. december 1999 indsat: »beløb, der er medgået til skat efter pensionsafkastbeskatningsloven vedrørende det indkomstår, der svarer til indkomståret efter denne lov, samt«. I § 13, stk. 8, 1. pkt., stk. 11, 4. pkt., og stk. 13, 1. pkt., er »realrenteafgift« ved § 4, nr. 2, i lov nr. 959 af 20. december 1999 ændret til: »skat efter pensionsafkastbeskatningsloven«. § 5 i lov nr. 959 af 20. december 1999, der indeholder ikrafttrædelses- og overgangsregler, er optrykt i slutningen af lovbekendtgørelsen. Den tidligere § 13, stk. 2, som affattet i lovbekendtgørelse nr. 727 af 7. oktober 1998 havde virkning fra og med indkomståret 1998, jf. § 1, nr. 1, og § 3, stk. 1, i lov nr. 420 af 26. juni 1998. Ubenyttede underskud, der før indkomståret 1998 er opstået i forsikringsselskaber omfattet af den før indkomståret 1998 gældende bestemmelse i selskabsskattelovens § 13, stk. 2, kan ikke fradrages i overskud hos selskaber, der er sambeskattet med det pågældende forsikringsselskab, jf. § 3, stk. 4, i lov nr. 420 af 26. juni 1998. Ved opgørelsen af fortjenesten og tabet som nævnt i selskabsskattelovens § 13, stk. 8, 3. pkt., medregnes alene den del af den skattepligtige fortjeneste eller tab, der vedrører perioden efter den 1. januar 1998, jf. § 3, stk. 3, i lov nr. 420 af 26. juni 1998 og § 2 i lov nr. 387 af 2. juni 1999.
+
+Henvisningen i § 13 B, stk. 1, 1. pkt., til pensionsafkastbeskatningslovens § 2, stk. 2, og stk. 3, nr. 8, er en ændret henvisning foretaget ved § 5, nr. 1, i lov nr. 430 af 26. juni 1998. Ændringen har virkning fra og med indkomståret 2000, jf. § 8, stk. 1, i lov nr. 430 af 26. juni 1998. For selskaber, der anvender reglerne i pensionsafkastbeskatningsloven fra og med indkomståret 1999, har ændringen dog virkning fra og med indkomståret 1999, jf. § 8, stk. 2, i lov nr. 430 af 26. juni 1998.
+
+I § 10 i lov nr. 399 af 22. maj 1996 er fastsat følgende: »I lov nr. 256 af 19. april 1995 om ændring af selskabsskatteloven og fusionsskatteloven. (Sikkerhedsfonde) foretages følgende ændring: I § 3 indsættes som stk. 3:
+
+»Stk. 3. Forsikringsselskaber, der har et andet indkomstår end kalenderåret, kan endvidere i stedet for at anvende det i selskabsskattelovens § 13 C, som affattet ved denne lovs § 1, nævnte opgørelsestidspunkt, den 31. december 1994, vælge at opgøre de forsikringsmæssige reserver for egen regning bortset fra bonushensættelser og sikkerhedsfondshenlæggelser ultimo det indkomstår, der træder i stedet for kalenderåret 1994.«« Lovens § 10 har virkning fra og med den 18. januar 1995.
+
+I § 17, stk. 1, er »34 pct.« ved § 1, nr. 1, jf. § 11, stk. 2, i lov nr. 910 af 16. december 1998 ændret til: » 32 pct.« med virkning fra og med indkomståret 1999.
+
+Den tidligere § 17, stk. 2, er ved § 1, nr. 6, jf. § 10, stk. 2, i lov nr. 1026 af 23. december 1998 ophævet med virkning fra og med indkomstår, der påbegyndes den 1. januar 1999 eller senere. De tidligere § 17, stk. 3 og 4, er herefter blevet stk. 2 og 3. § 17, stk. 2, 1. pkt., er affattet ved § 1, nr. 7, jf. § 10, stk. 2, i lov nr. 1026 af 23. december 1998 med virkning fra og med indkomstår, der påbegyndes den 1. januar 1999 eller senere. Den tidligere 17, stk. 5, er ved § 1, nr. 9, jf. § 10, stk. 2, i lov nr. 1026 af 23. december 1998 ophævet med virkning fra og med indkomstår, der påbegyndes den 1. januar 1999 eller senere. Den tidligere § 17, stk. 6, er herefter blevet stk. 4.
+
+§ 19, stk. 1, er affattet ved § 1, nr. 10, jf. § 10, stk. 2, i lov nr. 1026 af 23. december 1998 med virkning fra og med indkomstår, der påbegyndes den 1. januar 1999 eller senere.
+
+I § 21 er »34 pct.« ved § 1, nr. 2, jf. § 11, stk. 2, i lov nr. 910 af 16. december 1998 ændret til: »den i § 17, stk. 1, nævnte procent« med virkning fra og med indkomståret 1999.
+
+§ 23, stk. 1, i den her anførte affattelse har virkning fra og med indkomståret 1999, jf. § 1, nr. 3, og § 11, stk. 2, i lov nr. 910 af 16. december 1998.
+
+Den tidligere § 24 er ophævet med virkning fra og med den 1. juli 1998, jf. § 3, nr. 3, og § 9, stk. 2, i lov nr. 1106 af 29. december 1997. En ny § 24 er affattet ved § 35, nr. 1, i lov nr. 165 af 15. marts 2000, der træder i kraft den 1. januar 2001, jf. § 47, stk. 1, i førnævnte lov. § 35 og § 47, stk. 1 og 4, i lov nr. 165 af 15. marts 2000 er optrykt i slutningen af lovbekendtgørelsen.
+
+Med virkning for renter, der påløber den 1. januar 2002 og senere, ændres i § 29 A, stk. 5, 3. pkt., § 29 B, stk. 5, 10. pkt., § 30, stk. 2, 3. pkt., og § 30, stk. 4, 2. pkt., »0,6 pct.« til: »renten i henhold til § 7, stk. 2, i lov om opkrævning af skatter og afgifter m.v. med tillæg af 0,4 procentpoint«, og i § 30, stk. 5, 3. pkt., ændres »en rente på 0,6 pct.« til: »rente i henhold til § 7, stk. 2, i lov om opkrævning af skatter og afgifter m.v. med tillæg af 0,4 procentpoint«, jf. § 2, nr. 1, 4, 6, 7 og 8, og § 9, stk. 3, i lov nr. 956 af 20. december 1999 samt § 35, nr. 2 og 3, og § 47, stk. 4, 1. pkt., i lov nr. 165 af 15. marts 2000. Skatteministeren kan fastsætte, at reglerne har virkning for renter, der påløber før den 1. januar 2002, dog ikke tidligere end 1. januar 2001, jf. § 9, stk. 3, i lov nr. 956 af 20. december 1999 og § 47, stk. 1, og § 47, stk. 4, 2. pkt., i lov nr. 165 af 15. marts 2000.
+
+I § 29 B, stk. 4, 3. pkt., er »11 3/4 pct.« ved § 2, nr. 2, jf. § 9, stk. 2, i lov nr. 956 af 20. december 1999 ændret til: »10 pct.« med virkning for restskat vedrørende indkomståret 2000 og efterfølgende indkomstår.
+
+I § 29 B, stk. 5, er »6 pct.« ved § 2, nr. 3, jf. § 9, stk. 2, i lov nr. 956 af 20. december 1999 to steder ændret til: »4 pct.« med virkning for overskydende skat vedrørende indkomståret 2000 og efterfølgende indkomstår.
+
+I § 29 B, stk. 6, er »1,5 pct.« ved § 2, nr. 5, jf. § 9, stk. 2, i lov nr. 956 af 20. december 1999 to steder ændret til: »1 pct.« med virkning for indbetalinger af foreløbig skat vedrørende indkomståret 2000 og efterfølgende indkomstår.
+
+I § 30 A, stk. 1, 2. pkt., er »11 3/4 pct.« ved § 2, nr. 9, jf. § 9, stk. 2, i lov nr. 956 af 20. december 1999 ændret til: »10 pct.« med virkning for restskat, overskydende skat og indbetalinger af foreløbig skat vedrørende indkomståret 2000 og efterfølgende indkomstår.
+
+§ 32, stk. 1, 2 og 4, og § 32, stk. 9, 1. pkt., er affattet ved § 1, nr. 11 - 14, jf. § 10, stk. 2, i lov nr. 1026 af 23. december 1998 med virkning fra og med indkomstår, der påbegyndes den 1. januar 1999 eller senere.
+
+Henvisningerne i §§ 35 C, 35 F, 35 K og 35 L til afskrivningsloven er ændrede henvisninger foretaget ved § 11 i lov nr. 434 af 26. juni 1998. Det samme gælder henvisningen i § 35 L, stk. 2, til ejendomsavancebeskatningslovens §§ 6 A og 6 C. Ændringerne har virkning fra og med indkomståret 1999, jf. nævnte lovs § 16, stk. 2.
+
+§ 36 er ved § 16, nr. 7, jf. § 25, stk. 14, i lov nr. 166 af 24. marts 1999 ophævet med virkning for selskaber m.v., der anmeldes til Erhvervs- og Selskabsstyrelsen dagen efter lovens bekendtgørelse i Lovtidende, den 25. marts 1999, eller senere, selskaber m.v., der dagen efter lovens bekendtgørelse i Lovtidende, den 25. marts 1999, eller senere omlægger indkomståret, og selskaber m.v., der dagen efter lovens bekendtgørelse i Lovtidende, den 25. marts 1999, eller senere overgår til udelukkende eller i væsentlig grad ikke at have erhvervsmæssig aktivitet.
