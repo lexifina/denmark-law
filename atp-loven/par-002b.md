@@ -6,4 +6,4 @@
 
 3) personer, der i medfør af §§ 74 m, 75 f, stk. 3, og 75 m, stk. 3, i lov om arbejdsløshedsforsikring m.v., modtager efterløn eller overgangsydelse uden at være medlem af en dansk arbejdsløshedskasse, og
 
-4) personer, der er omfattet af lov om delpension eller lov om social pension § 14, jf. § 13.
+4) personer, der er omfattet af lov om delpension.
