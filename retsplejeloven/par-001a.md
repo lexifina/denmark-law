@@ -1,15 +1,23 @@
-§ 1 a. Begæringer om genoptagelse af en straffesag, jf. kapitel 86, kæremål vedrørende udelukkelse af en forsvarer, jf. § 737, og sager om disciplinær forfølgning i de i §§ 49 og 55 nævnte tilfælde behandles og påkendes af Den Særlige Klageret. Klageretten består af 3 ordentlige medlemmer, der efter indstilling af justitsministeren beskikkes af kongen på 10 år. Inden for dette tidsrum kan intet medlem afsættes uden ved dom, hvorimod et medlem udtræder, når betingelserne for dets beskikkelse ikke længere er til stede; genbeskikkelse kan ikke finde sted.
+§ 1 a. Den Særlige Klageret behandler og påkender
 
-Stk. 2. De tre ordentlige medlemmer skal være en højesteretsdommer, en landsdommer og en byretsdommer; om beskikkelsen af disse medlemmer sker indstilling til justitsministeren fra henholdsvis Højesteret, landsretterne og Den Danske Dommerforening, således at der til hver af stillingerne foreslås fire personer, blandt hvilke beskikkelsen sker.
+1) begæringer om genoptagelse af en straffesag, jf. kapitel 86,
 
-Stk. 3. I sager om genoptagelse af en straffesag og i kæremål vedrørende udelukkelse af en forsvarer tiltrædes retten desuden af to personer, hvoraf den ene skal være i virksomhed som advokat og udpeges blandt fire personer, der hertil bringes i forslag af Advokatrådet, medens den anden skal være en beskikket universitetslærer i retsvidenskab eller en anden jurist med særlig videnskabelig uddannelse. På beskikkelsen af disse medlemmer, deres afgang m. v. finder reglerne i stk. 1 tilsvarende anvendelse.
+2) kæremål vedrørende udelukkelse af en forsvarer, jf. § 737,
 
-Stk. 4. For hvert af rettens medlemmer beskikker kongen efter tilsvarende regler som for vedkommende medlem en første- og en andensuppleant. For dommerne og advokaten beskikkes suppleanterne blandt de i medfør af stk. 2 og 3 indstillede. Suppleanterne tiltræder om nødvendigt retten, således at førstesuppleanten går forud for andensuppleanten.
+3) klager, der henvises efter § 48,
 
-Stk. 5. Den som medlem beskikkede højesteretsdommer udfører hvervet som klagerettens præsident.
+4) sager om suspension, disciplinærforfølgning og afsked på grund af sygdom i de i §§ 49, 49 a, 50 og 55 nævnte tilfælde,
 
-Stk. 6. Skriverforretningerne ved klageretten udføres gennem Højesterets justitskontor, jf. § 3, efter aftale mellem Højesterets præsident og klagerettens præsident.
+5) sager efter § 54 a om afsked og ændring af tjenestested og
 
-Stk. 7. Vederlag til klagerettens præsident og øvrige medlemmer fastsættes ved finansloven.
+6) sager om afsættelse af medlemmer af Domstolsstyrelsens bestyrelse, jf. § 6, stk. 3, i lov om Domstolsstyrelsen.
 
-Stk. 8. Klagerettens sæde er i København, men retten kan i særlige tilfælde, når omstændighederne taler derfor, efter præsidentens bestemmelse også sættes andetsteds.
+Stk. 2. Klageretten består af 3 medlemmer, der efter indstilling af justitsministeren beskikkes af kongen for en periode på 10 år. Rettens medlemmer kan kun afsættes ved dom. Et medlem udtræder, når betingelserne for medlemmets beskikkelse bortfalder. Genbeskikkelse kan ikke finde sted.
+
+Stk. 3. De tre medlemmer skal være en højesteretsdommer (klagerettens formand), en landsdommer og en byretsdommer. Beskikkelsen sker efter indstilling til justitsministeren fra henholdsvis Højesteret, landsretterne og Den Danske Dommerforening.
+
+Stk. 4. I sager om genoptagelse af en straffesag og i kæremål vedrørende udelukkelse af en forsvarer tiltrædes retten desuden af to personer, hvoraf den ene skal være advokat og udpeges efter indstilling fra Advokatrådet, mens den anden skal være universitetslærer i retsvidenskab eller anden jurist med særlig videnskabelig uddannelse. Stk. 2 finder tilsvarende anvendelse på beskikkelsen af disse medlemmer, deres afgang m.v. Beskikkelsen ophører senest ved udgangen af den måned, hvori den pågældende fylder 70 år.
+
+Stk. 5. For hvert af rettens medlemmer beskikker kongen efter tilsvarende regler som for vedkommende medlem en første- og andensuppleant. Suppleanterne tiltræder om nødvendigt retten, således at førstesuppleanten går forud for andensuppleanten.
+
+Stk. 6. Klagerettens sekretariatsopgaver udføres af Højesterets justitskontor, jf. § 3, efter aftale mellem Højesterets præsident og klagerettens formand.
