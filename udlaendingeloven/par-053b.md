@@ -1,0 +1,1 @@
+§ 53 b. Direktoratet for udlændinge underretter flygtningenævnet om afgørelser, som ikke har kunnet indbringes for nævnet, fordi direktoratet har truffet bestemmelse herom efter reglen i § 53 a, stk. 3. Flygtningenævnet kan bestemme, at bestemte grupper af sager skal kunne indbringes for nævnet.
