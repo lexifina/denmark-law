@@ -1,15 +1,9 @@
-Skatteministeriet, den 2. august 1993
+Skatteministeriet, den 30. juni 1994
 
 Ole Stavad
 
 / Jan Lyager Olsen
 
-(* 1) Lov nr. 700 af 22. november 1988 (indførelse af gebyr for erindringsskrivelse, ændring af pos. numre og udvidelse af råstofafgiften) trådte i karft den 30. november 1988. Udvidelse af råstofafgiften dog først den 1. marts 1989.
+(* 1) Lov nr. 376 af 18. maj 1994 trådte i kraft den 20. maj 1994 og har virkning fra den 1. juli 1994. Nærværende lovbekendtgørelses § 1, stk. 2, nr. 5, trådte i kraft den 19. maj 1994 og har virkning fra den 10. december 1993, jf. § 31, stk. 2, i lov nr. 376 af 18. maj 1994, der er gengivet i slutningen af lovbekendtgørelsen. Ved lovændringerne sker der bl.a. visse tilpasninger i det afgiftspligtige vareområde. Herudover er der foretaget ændringer som følge af den samtidig vedtagne lov nr. 375 af 18. maj 1994 om merværdiafgift (momsloven), samt toldloven, lov nr. 1116 af 22. december 1993.
 
-(* 2) Lov nr. 825 af 19. december 1989 (bestemmelser om eftergivelse og henstand i lovens § 28 b samt forhøjelse af mindsterentebeløbet fra 10 kr. til 50 kr.) trådte i kraft den 1. januar 1990
-
-(* 3) Lov nr. 496 af 24. juni 1992 (afkortning af kredittiden) trådte i kraft den 1. oktober 1992.
-
-(* 4) Lov nr. 1035 af 19. december 1992 (ændringer som følge af EF's indre marked) trådte i kraft den 1. januar 1993.
-
-(* 5) Lov nr. 1073 af 23. december 1992 (forhøjelse af gebyr for erindringsskrivelser) trådte i kraft den 1. april 1993.
+(* 2) Henvisningen i § 23, stk. 7, skal rettelig være til stk. 4-6. Fejlen vil blive rettet ved førstkommende lovændring.

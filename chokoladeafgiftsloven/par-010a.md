@@ -1,4 +1,4 @@
-§ 10 a. (* 4) I andre tilfælde svares afgiften i forbindelse med varemodtagelsen her i landet, medmindre varerne modtages efter reglerne i § 5 eller er omfattet af § 11. Erhvervsdrivende varemodtagere skal, inden varerne afsendes fra udlandet, anmelde sig hos de statslige told- og skattemyndigheder. Anmeldelsen er gældende for 5 år.
+§ 10 a. I andre tilfælde svares afgiften i forbindelse med varemodtagelsen her i landet, medmindre varerne modtages efter reglerne i § 5 eller er omfattet af § 11. Erhvervsdrivende varemodtagere skal, inden varerne afsendes fra udlandet, anmelde sig hos de statslige told- og skattemyndigheder. Anmeldelsen er gældende for 5 år.
 
 Stk. 2. De i stk. 1 nævnte erhvervsdrivende varemodtagere skal efter udløbet af hver måned og senest den 15. i den følgende måned til de statslige told- og skattemyndigheder angive mængden af de varer, virksomheden har modtaget i måneden. Andre varemodtagere skal angive ved modtagelsen. Angivelsen skal være underskrevet af varemodtageren.
 
