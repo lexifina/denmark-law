@@ -1,45 +1,29 @@
-Skatteministeriet, den 26. juli 1995
+Skatteministeriet, den 30. september 1996
 
 Carsten Koch
 
-/ Kirsten Hvelplund
+/ Henrik Ludolph
 
-(* 1) Denne lovbekendtgørelse indeholder bemærkninger om ikrafttrædelses- og overgangsbestemmelser for § 3 i lov nr. 180 af 23. marts 1995, § 10 i lov nr. 312 af 17. maj 1995, § 6 i lov nr. 313 af 17. maj 1995 og § 7 i lov nr. 412 af 14. juni 1995. Bemærkninger om ikrafttrædelses- og overgangsbestemmelser for tidligere vedtagne ændringer i fondsbeskatningsloven er kun medtaget i det omfang, de skønnes at have betydning.
+(* 1) Denne lovbekendtgørelse indeholder bemærkninger om ikrafttrædelses- og overgangsbestemmelser for § 5 i lov nr. 1104 af 20. december 1995, § 3 i lov nr. 1078 af 20. december 1995, § 5 i lov nr. 399 af 22. maj 1996 og § 6 i lov nr. 487 af 12. juni 1996. For så vidt angår ikrafttrædelses- og overgangsbestemmelser for tidligere vedtagne ændringer i fondsbeskatningsloven henvises til tidligere lovbekendtgørelser af fondsbeskatningsloven, senest lovbekendtgørelse nr. 650 af 26. juli 1995.
 
-(* 2) § 1, nr. 4, har virkning fra indkomståret 1996. Er indkomståret 1996 for en fond eller anden selvejende institution påbegyndt den 6. april 1995, har § 1, nr. 4, dog først virkning fra indkomståret 1997, jf. § 11, stk. 6, i lov nr. 312 af 17. maj 1995.
+(* 2) § 3, stk. 3, 3. pkt., i den her anførte affattelse har virkning fra og med den 1. juli 1995, jf. § 11, stk. 6, i lov nr. 399 af 22. maj 1996.
 
-(* 3) § 2, stk. 2, har i den her anførte affattelse for selskaber og foreninger m.v., hvis indkomstår 1994 påbegyndes den 27. oktober 1993 eller senere virkning fra og med indkomståret 1994. For selskaber og foreninger m.v., hvis indkomstår 1994 er påbegyndt før den 27. oktober 1993, har § 2, stk. 2, i den her anførte affattelse virkning fra og med indkomståret 1995, jf. § 10, stk. 5, i lov nr. 180 af 23. marts 1995.
+(* 3) § 3 A som indsat ved § 6, nr. 1, i lov nr. 487 af 12. juni 1996, har virkning for personer, selskaber og fonde, der foretager indskud i en udenlandsk fond eller trust den 6. december 1995 eller senere, jf. § 12, stk. 15, i lov nr. 487 af 12. juni 1996.
 
-(* 4) § 2, stk. 5, har virkning fra indkomståret 1995. Er indkomståret 1995 for en fond eller anden selvejende institution påbegyndt før den 2. november 1994, har § 2, stk. 5, dog først virkning fra indkomståret 1996, jf. § 11, stk. 2, i lov nr. 312 af 17. maj 1995.
+(* 4) § 8, stk. 2, 2. pkt., som affattet ved § 5, nr. 2, i lov nr. 399 af 22. maj 1996, har virkning fra og med indkomståret 1996, jf. § 11, stk. 7, i lov nr. 399 af 22. maj 1996.
 
-(* 5) Ved lov nr. 312 af 17. maj 1995 er »§ 1, nr. 1 og 2« ændret til: »§ 1, nr. 1, 2 og 4«. § 1, nr. 4, har virkning fra indkomståret 1996. Er indkomståret 1996 for en fond eller anden selvejende institution påbegyndt den 6. april 1995, har § 1, nr. 4, dog først virkning fra indkomståret 1997, jf. § 11, stk. 6, i lov nr. 312 af 17. maj 1995.
+(* 5) § 10, stk. 3, 2. og 3. pkt., der er ophævet ved § 5, nr. 3, i lov nr. 399 af 22. maj 1996, er ophævet med virkning fra og med den 1. januar 1996, jf. § 11, stk. 4, 1. pkt., i lov nr. 399 af 22. maj 1996, d.v.s. at § 10, stk. 3, i den her anførte affattelse første gang finder anvendelse på den udlodning, der opgøres på grundlag af investeringsforeningernes indtjening m.v. i kalenderåret 1996, og som skal foretages inden fristen for indgivelse af selvangivelse for investeringsforeningernes indkomstår 1996.
 
-(* 6) Ved lov nr. 180 af 23. marts 1995 er § 3, stk. 3, ændret, og § 4 ophævet. § 3, stk. 3, har i den her anførte affattelse virkning fra og med den 1. juli 1995, jf. § 10, stk. 9, i lov nr. 180 af 23. marts 1995, jf. dog note 7.
+(* 6) § 10, stk. 4, 5. pkt., der er ophævet ved § 5, nr. 3, i lov nr. 399 af 22. maj 1996, er ophævet med virkning fra og med den 1. januar 1996, jf. § 11, stk. 4, 1. pkt., i lov nr. 399 af 22. maj 1996, d.v.s. at § 10, stk. 4, i den her anførte affattelse første gang finder anvendelse på den udlodning, der opgøres på grundlag af investeringsforeningernes indtjening m.v. i kalenderåret 1996, og som skal foretages inden fristen for indgivelse af selvangivelse for investeringsforeningernes indkomstår 1996.
 
-(* 7) Ved lov nr. 312 af 17. maj 1995 er »§ 1, nr. 1« ændret til: »§ 1, nr. 1 og 4«. § 1, nr. 4, har virkning fra indkomståret 1996. Er indkomståret 1996 for en fond eller anden selvejende institution påbegyndt den 6. april 1995, har § 1, nr. 4, dog først virkning fra indkomståret 1997, jf. § 11, stk. 6, i lov nr. 312 af 17. maj 1995.
+(* 7) § 10, stk. 5-8, som indsat ved § 5, nr. 4, i lov nr. 399 af 22. maj 1996, har virkning fra og med den 1. januar 1996, jf. § 11, stk. 4, 1., pkt., i lov nr. 399 af 22. maj 1996, d.v.s. at § 10, stk. 5-8, første gang finder anvendelse på den udlodning, der opgøres på grundlag af investeringsforeningernes indtjening m.v. i kalenderåret 1996, og som skal foretages inden fristen for indgivelse af selvangivelse for investeringsforeningernes indkomstår 1996.
 
-(* 8) Ved lov nr. 312 af 17. maj 1995 er »§ 1, nr. 1 eller 2,» ændret til: »§ 1, nr. 1, 2 eller 4«. § 1, nr. 4, har virkning fra indkomståret 1996. Er indkomståret 1996 for en fond eller anden selvejende institution påbegyndt den 6. april 1995, har § 1, nr. 4, dog først virkning fra indkomståret 1997, jf. § 11, stk. 6, i lov nr. 312 af 17. maj 1995.
+(* 8) § 12 som indsat ved § 6, nr. 2, i lov nr. 487 af 12. juni 1996 har virkning fra og med indkomståret 1996. Var indkomståret 1996 påbegyndt før den 6. december 1995, har bestemmelsen dog først virkning fra og med indkomståret 1997, jf. § 12, stk. 2, i lov nr. 487 af 12. juni 1996.
 
-(* 9) § 4, stk. 2, 2. pkt., har virkning fra og med 1. juli 1995, jf. § 10, stk. 9, i lov nr. 180 af 23. marts 1995.
+Hvis betingelserne i § 12 som indsat ved § 6, stk. 2, i lov nr. 487 af 12. juni 1996 var opfyldt den 6. december 1995, har § 12 først virkning fra og med indkomståret 1998. Var indkomståret 1996 påbegyndt før den 6. december 1995, har bestemmelsen dog først virkning fra og med indkomståret 1999, jf. § 12, stk. 11, 3. pkt., i lov nr. 487 af 12. juni 1996.
 
-(* 10) § 4, stk. 3, har i den her anførte affattelse virkning fra og med den 1. juli 1995, jf. dog note 5.
+(* 9) § 13 har i den her anførte affattelse virkning fra og med den 1. januar 1996, jf. § 6, stk. 1, i lov nr. 1078 af 20. december 1995.
 
-(* 11) § 4, stk. 5 og 6, har i den her anførte affattelse virkning fra og med 1. juli 1995, jf. § 10, stk. 9, i lov nr. 180 af 23. marts 1995.
+(* 10) § 15, stk. 1, 1. pkt., i den her anførte affattelse har virkning fra og med indkomståret 1995. For selvangivelsespligtige, der har skullet selvangive for indkomståret 1995 før den 1. januar 1996, finder de hidtidige selvangivelsesregler anvendelse for indkomståret 1995, jf. § 6, stk. 2, i lov nr. 1104 af 20. december 1995.
 
-(* 12) § 4, stk. 8, har virkning fra og med den 1. juli 1995, jf. § 10, stk. 9, i lov nr. 180 af 23. marts 1995.
-
-(* 13) § 8, stk. 1, har i den her anførte affattelse virkning for indkomståret 1996 og senere indkomstår, jf. § 19, stk. 1, i lov nr. 313 af 17. maj 1995.
-
-(* 14) § 9, stk. 1, har i den her anførte affattelse virkning fra og med den 1. juli 1995, jf. § 10, stk. 9, i lov nr. 180 af 23. marts 1995.
-
-(* 15) Fonde og andre selvejende institutioner omfattet af § 1, nr. 4, sættes i skat i den kommune, hvor ledelsen har sæde. § 1, nr. 4, har virkning fra indkomståret 1996. Er indkomståret 1996 for en fond eller anden selvejende institution påbegyndt den 6. april 1995, har § 1, nr. 4, dog først virkning fra indkomståret 1997, jf. § 11, stk. 6, i lov nr. 312 af 17. maj 1995.
-
-(* 16) § 15, stk. 1, har i den her anførte affattelse virkning fra indkomståret 1996, jf. § 11, stk. 7, i lov nr. 312 af 17. maj 1995.
-
-(* 17) § 16, § 17, § 18, stk. 1, § 20, stk. 1, § 21, § 21 A har i den her anførte affattelse virkning fra og med indkomståret 1996, jf. § 10, stk. 2, i lov nr. 180 af 23. marts 1995 samt, for så vidt angår § 21 og § 21 A, § 9, stk. 8, i lov nr. 412 af 14. juni 1995.
-
-(* 18) § 20, stk. 2, har i den er anførte affattelse virkning fra og med indkomståret 1996, jf. § 10, stk. 2, i lov nr. 180 af 23. marts 1995 og § 19, stk. 1, i lov nr. 313 af 17. maj 1995.
-
-(* 19) § 21 B har virkning fra og med 19. maj 1993, jf. § 10, stk. 10, i lov nr. 180 af 23. marts 1995.
-
-(* 20) § 21 C har virkning fra og med indkomståret 1991, jf. § 10, stk. 11, i lov nr. 180 af 23. marts 1995.
+(* 11) § 22, 1. pkt., i den her anførte affattelse har virkning fra og med indkomståret 1996, jf. § 11, stk. 7, i lov nr. 399 af 22. maj 1996.
