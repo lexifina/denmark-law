@@ -1,5 +1,5 @@
-Indenrigsministeriet, den 30. juli 1998
+Indenrigsministeriet, den 2. februar 1999
 
 Thorkild Simonsen
 
-/Susanne S. Clausen
+/Hans B. Thomsen
