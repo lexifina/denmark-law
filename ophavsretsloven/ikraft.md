@@ -1,8 +1,8 @@
-Lov nr. 1207 af 27. december 1996 (vedrørende § 17, stk. 1-3, § 35, § 47, § 48, stk. 1 og 2, § 49, stk. 1, § 50, stk. 1, 3 og 4, § 51, stk. 1 og 3, § 52, stk. 1 og 7, § 58 a, § 65, stk. 4, § 66, stk. 2 og 3, § 67, stk. 2 og 3, § 69, stk. 3, og § 70, stk. 3) indeholder følgende ikrafttrædelsesbestemmelser m.v.:
+Lov nr. 1207 af 27. december 1996 (vedrørende § 17, stk. 1-3, § 35, § 47, § 48, stk. 1 og 2, § 49, stk. 1, § 50, stk. 1 og 3, § 50, stk. 4, (nu: § 75 a, stk. 1) § 51, stk. 1 og 3, § 52, stk. 1 og 7, § 58 a, § 65, stk. 4, § 66, stk. 2 og 3, § 67, stk. 2 og 3, § 69, stk. 3, og § 70, stk. 3) indeholder følgende ikrafttrædelsesbestemmelser m.v.:
 
 § 2
 
-Stk. 1. Loven træder i kraft den 1. januar 1997. § 1, nr. 2, 4, 5, 7, 10, 12, 13, 15, 16, 23, 24, 26 og 27, dog først den 1. januar 1998. § 50, stk. 4, i lov om ophavsret, som affattet ved denne lovs § 1, nr. 13, træder i kraft den 1. januar 1997.
+Stk. 1. Loven træder i kraft den 1. januar 1997. § 1, nr. 2, 4, 5, 7, 10, 12, 13, 15, 16, 23, 24, 26 og 27, dog først den 1. januar 1998. § 50, stk. 4, i lov om ophavsret, som affattet ved denne lovs § 1, nr. 13 , træder i kraft den 1. januar 1997.
 
 Stk. 2. Den 1. januar 1997 ophæves lov nr. 409 af 13. juni 1990 om Den Kulturelle Fond og om visse bevillinger på ophavsretsområdet.
 
@@ -14,7 +14,7 @@ Stk. 4. Bestemmelserne i § 1, nr. 19 og 21, finder anvendelse på aftaler indg�
 
 Loven gælder ikke for Færøerne og Grønland, men kan ved kgl. anordning sættes helt eller delvis i kraft for Færøerne og Grønland med de afvigelser, som de særlige færøske eller grønlandske forhold tilsiger.
 
-Lov nr. 407 af 26. juni 1998 (vedrørende § 13, stk. 1, § 13, stk. 3 og 4, § 21, stk. 2, § 23, stk. 2-4, § 28, § 36, § 50, stk. 1, § 51, stk. 1, § 52, stk. 1, § 65, stk. 4, § 66, stk. 2, § 67, stk. 2, § 69, stk. 3, § 70, stk. 3, § 71 og § 80) indeholder følgende ikrafttrædelsesbestemmelser m.v.:
+Lov nr. 407 af 26. juni 1998 (vedrørende § 13, stk. 1, 3 og 4, § 21, stk. 2, § 23, stk. 2-4, § 28, § 36, § 50, stk. 1, § 51, stk. 1, § 52, stk. 1, § 65, stk. 4, § 66, stk. 2, § 67, stk. 2, § 69, stk. 3, § 70, stk. 3, § 71 og § 80) indeholder følgende ikrafttrædelsesbestemmelser m.v.:
 
 § 2
 
@@ -30,4 +30,16 @@ Stk. 4. Er der før lovens ikrafttræden påbegyndt en eksemplarfremstilling ell
 
 Loven gælder ikke for Færøerne og Grønland, men kan ved kgl. anordning sættes helt eller delvis i kraft for Færøerne og Grønland med de afvigelser, som de særlige færøske eller grønlandske forhold tilsiger.
 
-Vedrørende denne lovbekendtgørelses § 35, § 47, stk. 1, 1. pkt., § 47, stk. 3, § 48, stk. 1, § 49, stk. 1, § 50, stk. 1, 1. pkt., § 50, stk. 3, § 51, stk. 1, § 51, stk. 3, § 66, stk. 2, 1. pkt., § 66, stk. 3, § 67, stk. 2, 1. pkt., og § 67, stk. 3. Denne lovbekendtgørelses § 50, stk. 4. Denne lovbekendtgørelses § 58 a og henvisningen hertil i § 65, stk. 4, 1. pkt.
+Lov nr. 472 af 7. juni 2001 (vedrørende § 11, stk. 3, § 12, stk. 2, nr. 3-5, § 39, stk. 3, § 50, § 65, stk. 4, § 66, stk. 2, § 67, stk. 2, § 69, stk. 3, § 70, stk. 3, § 71, stk. 5, § 75 a, § 82, og § 84, stk. 4) indeholder følgende ikrafttrædelsesbestemmelser m.v.:
+
+§ 2
+
+Stk. 1. Loven træder i kraft dagen efter bekendtgørelsen i Lovtidende.
+
+Stk. 2. For aftaler indgået før lovens ikrafttræden finder de hidtil gældende bestemmelser i ophavsretslovens § 50, jf. §§ 13 og 14, § 17, stk. 5, § 23, stk. 2, og §§ 30 og 35 fortsat anvendelse.
+
+§ 3
+
+Loven gælder ikke for Færøerne og Grønland, men kan ved kgl. anordning sættes helt eller delvis i kraft for Færøerne og Grønland med de afvigelser, som de særlige færøske eller grønlandske forhold tilsiger.
+
+Loven trådte i kraft den 9. juni 2001.
