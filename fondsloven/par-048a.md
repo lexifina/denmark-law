@@ -1,0 +1,1 @@
+§ 48 a. Forøges aktiverne i en forening som nævnt i § 2, stk. 1, fra 250.000 kr. eller derunder, jf. § 2, stk. 2, til over 250.000 kr., skal ledelsen senest 3 måneder herefter indsende vedtægt og fortegnelse over ledelsens medlemmer, jf. § 48, stk. 2, og § 49, stk. 2, til skattemyndigheden i den kommune, hvor foreningen har hjemsted.
