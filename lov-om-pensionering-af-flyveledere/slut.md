@@ -1,9 +1,7 @@
-Givet på Christiansborg slot, den 21. marts 1979
+Finansministeriet, den 31. juli 1995
 
-Under Vor Kongelige Hånd og Segl.
+Mogens Lykketoft
 
-MARGRETHE R.
-
-Knud Heinesen.
+/ Lene Larsen
 
 Ingen
