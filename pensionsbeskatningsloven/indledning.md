@@ -1,6 +1,8 @@
 Bekendtgørelse af lov om beskatningen af pensionsordninger m.v.
 
-Herved bekendtgøres lov om beskatningen af pensionsordninger m.v., jf. lovbekendtgørelse nr. 683 af 9. august 1995, med de ændringer og tilføjelser, der følger af lov nr. 1078 af 20. december 1995, lov nr. 1106 af 20. december 1995, lov nr. 293 af 24. april 1996 og lov nr. 306 af 24. april 1996.
+(Pensionsbeskatningsloven)
+
+Herved bekendtgøres lov om beskatningen af pensionsordninger m.v., jfr. lovbekendtgørelse nr. 404 af 10. august 1983, med de ændringer og tilføjelser, der følger af lov nr. 624 af 21. december 1983.
 
 ## Afsnit I
 
