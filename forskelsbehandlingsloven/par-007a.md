@@ -1,0 +1,1 @@
+§ 7 a. Hvis en person, der anser sig for krænket, jf. §§ 2-4, påviser faktiske omstændigheder, som giver anledning til at formode, at der udøves direkte eller indirekte forskelsbehandling, påhviler det modparten at bevise, at ligebehandlingsprincippet ikke er blevet krænket.

@@ -1,0 +1,3 @@
+§ 5 a. Bestemmelser i individuelle eller kollektive aftaler og overenskomster og i virksomheders interne reglementer m.v., som er i strid med forbuddet mod forskelsbehandling i §§ 2-5, er ugyldige. Dette gælder også bestemmelser i vedtægter m.v. for selvstændige erhverv og for arbejdsgiver- og lønmodtagerorganisationer.
+
+Stk. 2. Bestemmelser i aftaler og i virksomheders reglementer m.v., som vedrører mere end én arbejdsgiver, er ligeledes ugyldige, hvis de hjemler forskelsbehandling på grund af et af de i § 1, stk. 1, omfattede kriterier inden for de i §§ 2-5 nævnte områder. Dette gælder også bestemmelser i vedtægter m.v. for selvstændige erhverv.
