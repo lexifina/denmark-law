@@ -1,7 +1,7 @@
-Skatteministeriet, den 30. juni 1994
+Skatteministeriet, den 24. september 1996
 
-Ole Stavad
+Carsten Koch
 
-/ Jan Lyager Olsen
+/ Carsten Vesterø Jensen
 
-(* 1) Lov nr. 376 af 18. maj 1994 (ændringer som følge af ny momslov og toldlov) trådte i kraft den 20. maj 1994 og har virkning fra den 1. juli 1994
+(* 1) Lov nr. 400 af 22. maj 1996 (forhøjelse af afgiften af øl, vin og frugtvin og omlægning af afgiften af spiritus m.m.) trådte i kraft den 1. juli 1996
