@@ -1,3 +1,3 @@
-Bekendtgørelse af lov om fremgangsmåden ved ekspropriation vedrørende fast ejendom Ekspropriationsloven
+Bekendtgørelse af lov om fremgangsmåden ved ekspropriation vedrørende fast ejendom
 
-Herved bekendtgøres lov nr. 186 af 4. juni 1964 om fremgangsmåden ved ekspropriation vedrørende fast ejendom, jf. lovbekendtgørelse nr. 62 af 21. februar 1984, med de ændringer, der følger af lov nr. 228 af 8. maj 1991.
+Herved bekendtgøres lov om fremgangsmåden ved ekspropriation vedrørende fast ejendom, jf. lovbekendtgørelse nr. 522 af 4. juli 1991, med de ændringer, der følger af lov nr. 233 af 21. april 1999, § 3.
