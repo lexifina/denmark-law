@@ -1,7 +1,5 @@
-§ 7 a. Politiske partier, der er omfattet af § 3 i lov nr. 404 af 13. juni 1990 om private bidrag til politiske partier og offentliggørelse af politiske partiers regnskaber, skal hvert år inden den 1. marts til indenrigsministeren indsende en kopi af det seneste regnskab, som partiet efter den nævnte lov er forpligtet til at aflægge.
+§ 7 a. Har tilskudsmodtageren modtaget tilskud efter § 2 for et eller flere foregående kalenderår, er det en betingelse for at få udbetalt det fulde tilskud, jf. § 7, stk. 1, for det aktuelle kalenderår, at de udgifter, der er afholdt til politisk arbejde her i landet i det seneste kalenderår, hvor tilskud er modtaget, mindst svarer til det fulde tilskud for dette kalenderår. Dette gælder dog ikke, hvis det seneste kalenderår, hvor tilskud er modtaget, ligger forud for det kalenderår, hvor det foregående folketingsvalg blev afholdt.
 
-Stk. 2. Bestemmelsen i stk. 1 gælder ikke for partier, som ikke er berettiget til økonomisk støtte efter denne lov, eller som ikke ansøger om sådan støtte.
+Stk. 2. Svarer de udgifter, der er afholdt til politisk arbejde her i landet i det i stk. 1 nævnte seneste kalenderår, kun delvis til det fulde tilskud for dette kalenderår, fradrages et beløb svarende til det ikke anvendte tilskudsbeløb ved udbetaling af tilskud efter § 2 for det aktuelle kalenderår.
 
-Stk. 3. Indenrigsministeren påser, at det indsendte regnskab indeholder de oplysninger, der kræves efter bestemmelsen i § 3 i den i stk. 1 nævnte lov. Er dette ikke tilfældet, udsættes udbetalingen af tilskud fra staten.
-
-Støtte fra amtskommunen
+Stk. 3. Har tilskudsmodtageren modtaget tilskud efter § 2 for et eller flere foregående kalenderår, er udbetaling af tilskud for det aktuelle kalenderår, bortset fra helt særlige tilfælde, alene betinget af, at tilskudsmodtageren har indsendt en erklæring til indenrigsministeren om, hvilke udgifter der mindst er afholdt til politisk arbejde her i landet i det i stk. 1 nævnte seneste kalenderår. Erklæringen indsendes inden udgangen af det aktuelle kalenderår. § 5, stk. 2, 2. pkt., finder tilsvarende anvendelse ved indsendelse af denne erklæring.
