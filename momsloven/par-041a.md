@@ -7,5 +7,3 @@
 3) modtagne tjenesteydelser, som indebærer en forandring af guldets form, vægt eller lødighed.
 
 Stk. 2. Virksomheder, der fremstiller investeringsguld eller omdanner guld af enhver art til investeringsguld, kan som indgående afgift fradrage afgift for virksomhedens indkøb m.v. af varer og ydelser, der anvendes i forbindelse med fremstilling eller omdannelse af investeringsguld svarende til, at en efterfølgende levering af guldet var blevet pålagt afgift.
-
-Ingen fradragsret

@@ -7,7 +7,3 @@
 Stk. 2. Guldmønter, som er omfattet af den liste, som Europa-Kommissionen offentliggør i EF-Tidende, afdeling C, anses for at opfylde de kriterier, som er angivet i stk. 1 i hele det år, som den offentliggjorte liste vedrører, uanset at mønten må anses at være omsat på grund af den numismatiske værdi.
 
 Stk. 3. Skatteministeren kan fastsætte nærmere regler for regnskabsføring, herunder regler om identitetskontrol vedrørende investeringsguld.
-
-## Kapitel 19
-
-Kontrolbestemmelser

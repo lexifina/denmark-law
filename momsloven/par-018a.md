@@ -1,1 +1,1 @@
-§ 18 a.(Ophævet)
+§ 18 a. (Ophævet)
