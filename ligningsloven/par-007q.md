@@ -1,6 +1,6 @@
 § 7 Q. Til den skattepligtige indkomst medregnes ikke:
 
-1) Godtgørelse efter § 33 A i skattestyrelsesloven.
+1) Godtgørelse efter skattestyrelseslovens § 33 A samt renter efter samme lovs § 33 F, stk. 2 og 5.
 
 2) Beløb, som betales til en godtgørelsesberettiget person efter skattestyrelseslovens kapitel 3 A til dækning af dennes udgifter til sagkyndig bistand m.v. Det gælder dog ikke, i det omfang beløbet med tillæg af omkostningsgodtgørelsen og andre godtgjorte udgifter overstiger personens samlede udgifter til sagkyndig bistand m.v. i sagen, eller i det omfang beløbet ikke må anses for ydet som følge af yderens retlige interesse i sagen.
 
