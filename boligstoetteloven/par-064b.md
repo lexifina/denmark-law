@@ -1,0 +1,1 @@
+§ 64 b. Efter bestemmelserne i §§ 55 og 56, stk. 1, ydes efter ansøgning lån til forudbetaling af leje, indskud, depositum eller lignende vedrørende en beboelseslejlighed, hvortil der er sket anvisning i medfør af bestemmelserne i lov om kommunal anvisningsret. Lån kan ikke ydes til et beløb, der overstiger et halvt års leje.
