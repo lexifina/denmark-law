@@ -1,7 +1,5 @@
-Givet på Christiansborg slot, den 28. april 1982
+Skatteministeriet, den 20. november 1987
 
-Under Vor Kongelige Hånd og Segl
+ANDERS FOGH RASMUSSEN
 
-MARGRETHE R.
-
-/Mogens Lykketoft
+/H. K. Andersen
