@@ -1,7 +1,5 @@
-Miljø- og Energiministeriet, den 5. december 1997
+Miljø- og Energiministeriet, den 23. juni 2001
 
 Svend Auken
 
-/ Hans Henrik Christensen
-
-Ingen
+/Jesper Hermansen
