@@ -1,4 +1,4 @@
-Økonomi- og Erhvervsministeriet, den 25. juni 2004
+Økonomi- og Erhvervsministeriet, den 17. marts 2005
 
 Bendt Bendtsen
 
