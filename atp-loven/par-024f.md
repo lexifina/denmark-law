@@ -1,1 +1,0 @@
-§ 24 f. Den valgte revision skal én gang om året gennemgå tillægspensionsordningens interne retningslinjer vedrørende indberetning efter § 24 c, stk. 3, og afgive erklæring i revisionsprotokollen vedrørende årsregnskabet om, hvorvidt tillægspensionens forretningsgange på dette område er betryggende.

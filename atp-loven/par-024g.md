@@ -1,1 +1,0 @@
-§ 24 g. En direktør kan ikke bestride sit hverv i Arbejdsmarkedets Tillægspension, såfremt den pågældende har anmeldt betalingsstandsning, er under konkursbehandling, har indgivet begæring om gældssanering, eller der er indledt forhandling om tvangsakkord.

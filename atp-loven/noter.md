@@ -1,6 +1,6 @@
-Bestemmelsen træder i kraft 1. januar 2003, jf. § 8, stk. 8, i lov nr. 284 af 25. april 2001.
+Kapitlet er ophævet pr. 1. januar 2003, jf. lov nr. 1032 af 17. december 2002. Regulering m.v. af udbetalte beløb følger de hidtidige regler jf. lovbekendtgørelse nr. 689 af 20. august 2002.
 
-Kapitel 5 b ophæves den 1. januar 2003, jf. § 6, stk. 2, i lov nr. 357 af 6. juni 2002.
+Regulering af beløb til DMP sker efter de hidtil gældende regler, jf. § 6, stk. 2, i lov nr. 357 af 6. juni 2002.
 
 Loven er trådt i kraft den 1. januar 1996, jf. bekendtgørelse nr. 878 af 13. november 1995.
 
@@ -28,4 +28,14 @@ Loven er trådt i kraft den 3. juni 2000.
 
 Lovens § 3, nr. 2, omhandler ATP-lovens § 2 a, stk. 8.
 
+Stykket er ophævet ved lov nr. 421 af 10. juni 2003.
+
 § 4, nr. 1, som omhandler ATP-lovens § 2 b, stk. 1, nr. 4, er trådt i kraft den 8. juni 2002.
+
+Loven ophæver tillige § 6, stk. 4 i lov nr. 357 af 6. juni 2002.
+
+Loven er trådt i kraft den 6. maj 2004.
+
+Bestemmelsen var den 12. juli 2004 endnu ikke trådt i kraft.
+
+Loven er trådt i kraft den 11. juni 2004.
