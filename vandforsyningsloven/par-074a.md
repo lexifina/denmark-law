@@ -1,0 +1,1 @@
+§ 74 a. Bestemmelserne i § 73, stk. 2, og § 74, stk. 1, finder ikke anvendelse på meddelelse om standsning af virksomhed, som er påbegyndt uden fornøden tilladelse, eller meddelelse om at efterkomme en tidligere truffet afgørelse.
