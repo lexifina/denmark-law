@@ -1,9 +1,7 @@
-GIVET PÅ FREDENSBORG SLOT, DEN 30. MAJ 1980
+Indenrigsministeriet, den 2. april 1993
 
-Under Vor Kongelige Hånd og Segl
+Birte Weiss
 
-MARGRETHE R
-
-/HENNING RASMUSSEN
+/ Fr. Chr. Schydt
 
 Ingen
