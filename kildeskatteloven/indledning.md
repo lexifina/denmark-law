@@ -1,8 +1,8 @@
-Bekendtgørelse af lov om opkrævning af indkomstskat samt kommunal og amtskommunal ejendomsværdiskat for personer m.v. 1)9)
+Bekendtgørelse af lov om opkrævning af indkomstskat samt kommunal og amtskommunal ejendomsværdiskat for personer m.v.
 
 (kildeskat)
 
-Herved bekendtgøres lov om opkrævning af indkomstskat samt kommunal og amtskommunal ejendomsværdiskat for personer m.v. (kildeskat), jf. lovbekendtgørelse nr. 614 af 10. juli 1997, med de ændringer, der følger af lov nr. 1203 af 27. december 1996, lov nr. 888 af 3. december 1997, lov nr. 976 af 17. december 1997, lov nr. 977 af 17. december 1997, lov nr. 1098 af 29. december 1997, lov nr. 1104 af 29. december 1997, lov nr. 277 af 13. maj 1998, lov nr. 424 af 26. juni 1998, lov nr. 426 af 26. juni 1998, lov nr. 429 af 26. juni 1998 og lov nr. 434 af 26. juni 1998.
+Herved bekendtgøres lov om opkrævning af indkomstskat samt kommunal og amtskommunal ejendomsværdiskat for personer m.v. (kildeskat), jf. lovbekendtgørelse nr. 735 af 10. oktober 1998, med de ændringer, der følger af lov nr. 838 af 2. december 1998, lov nr. 913 af 16. december 1998, lov nr. 1026 af 23. december 1998, lov nr. 1033 af 23. december 1998, lov nr. 166 af 24. marts 1999, lov nr. 251 af 28. april 1999, lov nr. 380 af 2. juni 1999, lov nr. 381 af 2. juni 1999 og lov nr. 388 af 2. juni 1999.
 
 ## Afsnit I
 
