@@ -1,9 +1,7 @@
-Skatteministeriet, den 31. marts 1993
+Skatteministeriet, den 13. juli 1994
 
 Ole Stavad
 
-/ O. Bådum
+/ Jan Lyager Olsen
 
-(* 1) Lov nr. 364 af 14. maj 1992 § 3 (ændring af § 7, stk. 1 og af »toldvæsenet« til de »statslige told- og skattemyndigheder« trådte i kraft 1. januar 1993.
-
-(* 2) Lov nr. 1073 af 23. december 1992 (ændring af § 10 a) trådte i kraft 1. april 1993.
+(* 1) Lov nr. 376 af 18. maj 1994, § 26 (ændring af § 10, stk. 3, § 11, stk. 4, § 12, stk. 1, stk. 2 og stk. 4, § 13 og § 14 b, indsættelse af § 13 a og ophævelse af § 14 a, stk. 3) trådte i kraft den 20. maj 1994 og har virkning fra den 1. juli 1994.
