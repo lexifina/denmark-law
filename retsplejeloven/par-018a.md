@@ -1,4 +1,4 @@
-§ 18 a. Uden for det i § 9, stk. 2, nævnte område virker byretten som søret i følgende sager:
+§ 18 a. Uden for det i § 9, stk. 2, nævnte område og ved henvisning efter § 9, stk. 4, virker byretten som søret i følgende sager:
 
 1. Søsager, jfr. § 6, stk. 5.
 
