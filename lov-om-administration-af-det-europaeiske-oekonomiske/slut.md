@@ -1,15 +1,7 @@
-Givet på Christiansborg Slot, den 5. april 1989
+Erhvervsministeriet, den 17. april 1997
 
-Under Vor Kongelige Hånd og Segl
+Jan Trøjborg
 
-I Dronningens Navn:
-
-JOACHIM
-
-Prins til Danmark
-
-Rigsforstander
-
-/Nils Wilhjelm
+/ Ole Blondal
 
 Ingen
