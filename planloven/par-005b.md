@@ -9,3 +9,7 @@
 4) at ferie- og fritidsanlæg skal lokaliseres efter sammenhængende turistpolitiske overvejelser og kun i forbindelse med eksisterende bysamfund eller større ferie- og fritidsbebyggelser, og
 
 5) at offentlighedens adgang til kysten skal sikres og udbygges.
+
+Kapitel 2 b
+
+Planlægning til butiksformål
