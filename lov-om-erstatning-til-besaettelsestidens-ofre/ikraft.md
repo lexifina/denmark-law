@@ -1,45 +1,13 @@
-Lov nr. 255 af 16. juni 1980 indeholder i § 11 følgende bestemmelser:
+Loven træder i kraft den 1. juni 1992. Lov nr. 278 af 6. maj 1993 indeholder i § 3 følgende bestemmelse:
 
-§§ 1-3 og 5-6 har virkning for de reguleringer, som beregnes pr. 1.
+Stk. 1. Loven træder i kraft den 1. januar 1994.
 
-oktober 1980 og senere. § 4 har virkning for den regulering, som beregnes pr. 1. april 1981 og senere. § 10 anvendes ved regulering af indekstillæg for 1981 og senere.
+Stk. 2. Hædersgaven ydes fra ansøgningstidspunktet dog tidligst fra 1. januar 1994. Lov nr. 449 af 30. juni 1993 indeholder i § 14 følgende bestemmelse:
 
-Lov nr. 136 af 3. april 1985 indeholder i § 3 følgende bestemmelser:
+Stk. 1. Loven træder i kraft den 1. januar 1994.
 
-Stk. 1. Loven træder i kraft den 1. april 1985.
+Stk. 2-5 udelades. Lov nr. 1125 af 21. december 1994 indeholder i § 2 følgende bestemmelse:
 
-Stk. 2. Lov nr. 638 af 13. december 1978 om forhøjelse af hædersgaver ophæves.
+Stk. 1. Loven træder i kraft den 1. januar 1995.
 
-Lov nr. 389 af 10. juni 1987 indeholder i § 2 følgende bestemmelse:
-
-Loven træder i kraft den 1. juli 1987.
-
-Lov nr. 355 af 1. juli 1988 indeholder i § 8 følgende bestemmelse:
-
-§ 2 har virkning for de reguleringer, som beregnes pr. 1. april 1989 og senere.
-
-Lov nr. 196 af 29. marts 1989 indeholder i § 17 følgende bestemmelse:
-
-Loven træder i kraft den 1. juli 1989.
-
-Lov nr. 389 af 7. juni 1989 indeholder i § 23 følgende bestemmelse:
-
-Loven træder i kraft den 1. januar 1990.
-
-Lov nr. 250 af 25. april 1990 indeholder i § 12 følgende bestemmelse:
-
-Finansministeren fastsætter tidspunktet for lovens ikrafttræden.
-
-(* 21)
-
-Lov nr. 386 af 13. juni 1990 indeholder i § 31 følgende bestemmelse:
-
-Loven træder i kraft den 1. januar 1991.
-
-Lov nr. 794 af 30. november 1990 indeholder i § 8 følgende bestemmelse:
-
-Loven træder i kraft den 1. januar 1991.
-
-Lov nr. 399 af 6. juni 1991 indeholder i § 14 følgende bestemmelse:
-
-Loven træder i kraft den 1. januar 1992.
+Stk. 2. § 24, stk. 2, nr. 2, som affattet ved denne lovs § 1, nr. 2, har virkning fra den 1. januar 1994.

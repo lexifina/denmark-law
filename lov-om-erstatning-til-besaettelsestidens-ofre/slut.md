@@ -1,57 +1,33 @@
-Socialministeriet, den 1. april 1992
+Socialministeriet, den 23. februar 1995
 
-Else Winther Andersen
+Karen Jespersen
 
-/ Anne Lind Madsen
+/ Anne Mette Lolk
 
-(* 1) Lov nr. 277 af 13. maj 1987 trådte i kraft den 27. maj 1987.
+(* 1) Jf. lov nr. 277 af 13. maj 1987 som trådte i kraft den 27. maj 1987.
 
-(* 2) Lov nr. 98 af 31. marts 1931.Lovbekendtgørelse nr. 671 af 2.
+(* 2) Jf. lov nr. 502 af 24. juni 1992 som trådt i kraft den 1. juni 1992.
 
-oktober 1986.
+(* 3) Bestemmelsen(erne) anvendes ikke længere.
 
-(* 3) § 24, stk. 2 og 3 ophæves den 1. januar 1993 jf. lov nr. 945 af 27. december 1991.
+(* 4) Nu lov om social bistand, jf. lovbekendtgørelse nr. 1024 af 13. december 1994.
 
-(* 4) Jf. lov nr. 119 af 12. april 1957.
+(* 5) Bestemmelsen er bl.a. ændret som følge af skatte- og pensionsomlægningen pr. 1. januar 1994, jf. lov nr. 1125 af 21. december 1994.
 
-(* 5) Lovbekendtgørelse nr. 443 af 3. oktober 1985, som senest ændret ved lov nr. 793 af 27. november 1990.
+(* 6) Jf. lov nr. 1125 af 21. december 1994.
 
-(* 6) Nu lov om social bistand, jf. lovbekendtgørelse nr. 817 af 6.
+(* 7) § 26, stk. 4, 3. pkt., er ophævet ved lov nr. 1125 af 21. december 1994.
 
-december 1990, som senest ændret ved lov nr. 947 af 27. december 1991.
+(* 8) Jf. lovbekendtgørelse nr. 443 af 3. oktober 1985, som senest ændret ved lov nr. 793 af 27. november 1990.
 
-(* 7) Socialministeriets bekendtgørelse nr. 411 af 28. juli 1977 om regler for omsætning af rente til kapitalbeløb i h. t. lov om erstatning til besættelsestidens ofre.
-
-(* 8) Se nu § 1 i lov nr. 119 af 12. april 1957.
-
-(* 9) Jf. dog herved § 4, stk. 2, i lov nr. 119 af 12. april 1957.
+(* 9) Socialministeriets bekendtgørelse nr. 411 af 28. juli 1977 om regler for omsætning af rente til kapitalbeløb h.t. lov om erstatning til besættelsestidens ofre.
 
 (* 10) Jf. lov nr. 376 af 12. juli 1946.
 
-(* 11) Fra 1. april 1990 at regne er de beløb, der udbetales som hædersgaver, forhøjet med 575 pct., jf. lov nr. 710 af 22.
+(* 11) Fra 1. januar 1994 at regne er de beløb, der udbetales som hædersgaver, forhøjet med 625 pct., jf. lov nr. 277 af 6. maj 1993
 
-november 1989. Loven er ændret ved lov nr. 260 af 29. april 1991.
+(* 12) Jf. lov nr. 278 af 6. maj 1993.
 
-(* 12) Bestemmelsen anvendes ikke længere.
+(* 13) Bestemmelsen er ændret ved lov nr. 278 af 6. maj 1993 - Tidligere havde Erstatningsrådet tilkendelseskompetencen.
 
-(* 13) Bestemmelsen anvendes ikke længere.
-
-(* 14) Nu lov om social pension, jf. lov bkg. nr. 497 af 4. juli 1989, som senest ændret ved lov nr. 400 af 6. juni 1991.
-
-(* 15) Efter ophævelsen af bestemmelserne i forsorgslovens kapitel XV og XVI - jf. lov nr. 239 af 3. juni 1967 - og gennemførelse af en lov om børnetilskud og andre familieydelser - jf. lov nr. 236 af 3. juni 1967 - uden indtægtsgrænser, er denne henvisning uden reelt indhold.
-
-(* 16) Jf. lov nr. 376 af 12. juli 1946.
-
-(* 17) Bestemmelserne i afsnittet anvendes ikke længere.
-
-(* 18) Bestemmelserne i afsnittet, der vedrører erstatning, anvendes ikke længere.
-
-(* 19) Jf. lov nr. 376 af 12. juli 1946.
-
-(* 20) Bestemmelserne i afsnittet anvendes ikke længere.
-
-(* 21) Loven trådte i kraft den 1. juni 1990 jf. bekendtgørelse nr.
-
-346 af 29. maj 1990.
-
-Ingen
+(* 14) Nu lov om social pension, jf. lov bkg. nr. 521 af 16. juni 1994, som senest ændret ved lov nr. 1128 af 21. december 1994.
