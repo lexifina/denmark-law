@@ -1,9 +1,5 @@
-Justitsministeriet, den 14. september 1995
+Justitsministeriet, den 15. januar 1999
 
-Bjørn Westh
+Frank Jensen
 
-/ Niels Beckman
-
-(* 1) Lov nr. 159 blev stadfæstet den 18. marts 1991.
-
-(* 2) Lov nr. 1097 blev stadfæstet den 21. december 1994.
+/Niels Beckman

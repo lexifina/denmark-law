@@ -1,11 +1,11 @@
-Lov nr. 159 af 18. marts 1991 indeholder følgende ikrafttrædelsesbestemmelse:
-
-§ 2
-
-Loven træder i kraft ugedagen efter dens stadfæstelse (* 1).
-
-Lov nr. 1097 af 21. december 1994, indeholder følgende ikrafttrædelsesbestemmelse:
+Lov nr. 233 af 2. april 1997 indeholder følgende ikrafttrædelsesbestemmelse:
 
 § 4
 
-Loven træder i kraft ugedagen efter dens stadfæstelse (* 2).
+Justitsministeren fastsætter tidspunktet for lovens ikrafttræden.
+
+Lov nr. 1018 af 23. december 1998 indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 4
+
+Stk. 1. Loven træder i kraft den 1. februar 1999.
