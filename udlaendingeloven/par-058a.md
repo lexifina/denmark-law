@@ -1,1 +1,1 @@
-§ 58 a. Fortrolige oplysninger, der er modtaget fra et andet EF-lands myndigheder efter EF-asylkonventionens artikel 15, må kun videregives til de myndigheder, der er nævnt i konventionens artikel 15, stk. 5. Oplysningerne må kun anvendes til de formål, der er nævnt i konventionens artikel 15, stk. 1.
+§ 58 a. Folketingets Ombudsmands virksomhed omfatter ikke Flygtningenævnet, jf. dog § 17 i lov om Folketingets Ombudsmand.
