@@ -1,1 +1,0 @@
-§ 50 a. Kommunalbestyrelsen kan indbringe det sociale ankenævns og revaliderings- og pensionsnævnets afgørelser efter denne lov for Den Sociale Ankestyrelse. § 50, stk. 2, 2. og 3. pkt., stk. 3 og 4, finder tilsvarende anvendelse.
