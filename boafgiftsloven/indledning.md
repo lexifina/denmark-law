@@ -1,6 +1,8 @@
-Bekendtgørelse af lov om afgift af dødsboer og gaver (boafgiftsloven)
+Bekendtgørelse af lov om afgift af dødsboer og gaver
 
-Herved bekendtgøres lov om afgift af dødsboer og gaver, jf. lovbekendtgørelse nr. 642 af 2. august 1997 med de ændringer, der følger af § 4 i lov nr. 976 af 17. december 1997, § 8 i lov nr. 1098 af 29. december 1997 og § 7 i lov nr. 277 af 13. maj 1998.
+(boafgiftsloven)
+
+Herved bekendtgøres lov om afgift af dødsboer og gaver, jf. lovbekendtgørelse nr. 595 af 12. august 1998 med de ændringer, der følger af § 10 i lov nr. 910 af 16. december 1998, § 1 i lov nr. 143 af 17. marts 1999, § 2 i lov nr. 166 af 24. marts 1999, § 4 i lov nr. 383 af 2. juni 1999 og § 4 i lov nr. 386 af 2. juni 1999.
 
 ## Afsnit I
 
