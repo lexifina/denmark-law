@@ -6,6 +6,4 @@ Stk. 3. § 33 finder tilsvarende anvendelse på tilskud efter dette kapitel. §�
 
 ## Kapitel 5
 
-## Sanerings-, byfornyelses- og forbedringsboligsikring samt
-
-huslejetilskud
+Sanerings-, byfornyelses- og forbedringsboligsikring samt huslejetilskud

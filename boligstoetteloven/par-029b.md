@@ -7,3 +7,7 @@ Stk. 3. Tilskud fastsættes af kommunalbestyrelsen på ejendommens ibrugtagnings
 Stk. 4. Ved beregning af boligsikring og boligydelse efter kapitel 4 og ved beregning af boligsikring efter §§ 25-29 a opgøres boligudgiften efter § 10, stk. 1, som boligudgiften efter fradrag af huslejetilskud efter stk. 1-3.
 
 Stk. 5. Boligministeren kan fastsætte nærmere regler om beregning af tilskud efter stk. 2.
+
+## Kapitel 6
+
+Tilskud eller lån

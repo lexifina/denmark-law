@@ -2,13 +2,13 @@
 
 § 3
 
-§ 1 træder i kraft den 1. januar 1992. § 2 træder i kraft den 1. januar 1993. (* 1)
+§ 1 træder i kraft den 1. januar 1992. § 2 træder i kraft den 1. januar 1993.
 
 §§ 7, stk. 1, 8, stk. 4 og 9, stk. 4 i lov nr. 380 af 20. maj 1992 er sålydende:
 
 § 7
 
-Stk. 1. Loven træder i kraft den 1. januar 1993. (* 2)
+Stk. 1. Loven træder i kraft den 1. januar 1993.
 
 § 8
 
@@ -22,27 +22,27 @@ Stk. 4. Andelsboligforeningen skal med virkning fra 1. januar 1993 foretage en n
 
 § 3
 
-Loven træder i kraft den 1. januar 1993. (* 3)
+Loven træder i kraft den 1. januar 1993.
 
 § 3 i lov nr. 1044 af 23. december 1992 er sålydende:
 
 § 3
 
-Loven træder i kraft den 1. januar 1993. (* 4)
+Loven træder i kraft den 1. januar 1993.
 
 § 5 i lov nr. 441 af 30. juni 1993 er sålydende:
 
 § 5
 
-Stk. 1. Loven træder i kraft den 1. januar 1994. (* 5)
+Stk. 1. Loven træder i kraft den 1. januar 1994.
 
-Stk. 2. § 1, nr. 5 og 18, træder dog i kraft dagen efter bekendtgørelsen i Lovtidende. (* 6)
+Stk. 2. § 1, nr. 5 og 18, træder dog i kraft dagen efter bekendtgørelsen i Lovtidende.
 
 § 14 i lov nr. 449 af 30. juni 1993 er sålydende:
 
 § 14
 
-Stk. 1. Loven træder i kraft 1. januar 1994. (* 7)
+Stk. 1. Loven træder i kraft 1. januar 1994.
 
 Stk. 2. Arbejdsfortjeneste, jf. § 51, stk. 1, i lov om arbejdsformidling og arbejdsløshedsforsikring m.v., der hidrører fra før 1. januar 1994, og som lægges til grund for beregningen af dagpengene fra denne dato, skal nedsættes med den procent, der for lønmodtagere og selvstændige erhvervsdrivende er fastsat for de samlede arbejdsmarkedsbidrag for det år, dagpengeberegningen foretages, jf. lov om arbejdsmarkedsfonde.
 
@@ -56,15 +56,15 @@ Stk. 5. Nedsættelse af indkomsten efter § 8, stk. 4, 2. pkt., i lov om individ
 
 § 2
 
-Stk. 1. Loven (* 8) træder i kraft den 1. januar 1994, jf. dog stk. 2.
+Stk. 1. Loven træder i kraft den 1. januar 1994, jf. dog stk. 2.
 
-Stk. 2. § 1, nr. 2, træder i kraft dagen efter bekendtgørelsen i Lovtidende. (* 9)
+Stk. 2. § 1, nr. 2, træder i kraft dagen efter bekendtgørelsen i Lovtidende.
 
 § 2 i lov nr. 110 af 14. februar 1994 er sålydende:
 
 § 2
 
-Stk. 1. Loven (* 10) træder i kraft dagen efter bekendtgørelsen i Lovtidende. (* 11)
+Stk. 1. Loven træder i kraft dagen efter bekendtgørelsen i Lovtidende.
 
 Stk. 2. Loven har virkning fra den 1. januar 1994.
 
@@ -72,19 +72,19 @@ Stk. 2. Loven har virkning fra den 1. januar 1994.
 
 § 10
 
-Loven (* 12) træder i kraft dagen efter bekendtgørelsen i Lovtidende. (* 13)
+Loven træder i kraft dagen efter bekendtgørelsen i Lovtidende.
 
 § 6, stk. 1, i lov nr. 418 af 1. juni 1994 er sålydende:
 
 § 6
 
-Stk. 1. Loven (* 14) træder i kraft 1. januar 1995. Dog træder § 1, nr. 14, 15, 17, 35, 36 og 38 i kraft 1. juli 1994.
+Stk. 1. Loven træder i kraft 1. januar 1995. Dog træder § 1, nr. 14, 15, 17, 35, 36 og 38 i kraft 1. juli 1994.
 
 § 4, stk. 1-5 og stk. 12-14 i lov nr. 419 af 1. juni 1994 er sålydende:
 
 § 4
 
-Stk. 1. Loven (* 15) træder i kraft den 1. juli 1994.
+Stk. 1. Loven træder i kraft den 1. juli 1994.
 
 Stk. 2. Bestemmelserne i § 1, nr. 12, 37 og 42, § 2, nr. 1, 7, 10-14, 19, 30, 32 og 33, 36, 38-40, 42-47, 49 og 50, 61 og 62, 68, 70, 72 og 75, træder i kraft den 1. januar 1995.
 
@@ -104,13 +104,13 @@ Stk. 14. § 83 i lov om individuel boligstøtte gælder ikke ændringer, der fø
 
 § 3
 
-Stk. 1. Loven (* 17) træder i kraft den 1. juli 1995.
+Stk. 1. Loven træder i kraft den 1. juli 1995.
 
-§ 9, stk. 1, 5 og 6, i lov nr, 385 af 14. juni 1995 er sålydende:
+§ 9, stk. 1, 5 og 6, i lov nr., 385 af 14. juni 1995 er sålydende:
 
 § 9
 
-Stk. 1. Loven (* 18) træder i kraft den 1. juli 1995 og finder anvendelse fra og med indkomståret 1996, jf. dog stk. 2-6.
+Stk. 1. Loven træder i kraft den 1. juli 1995 og finder anvendelse fra og med indkomståret 1996, jf. dog stk. 2-6.
 
 Stk. 5. Bestemmelsen i § 5, nr. 1, finder anvendelse fra 1996.
 
@@ -120,7 +120,7 @@ Stk. 6. Bestemmelserne i § 5, nr. 2, og §§ 6-8 finder anvendelse fra og med d
 
 § 5
 
-Stk. 1. Loven (* 19) træder i kraft den 1. januar 1996.
+Stk. 1. Loven træder i kraft den 1. januar 1996.
 
 Stk. 2. Den ved § 2, nr. 9, affattede § 76, stk. 3, i lov om individuel boligstøtte har virkning for anvisning af boliger, der sker efter lovens ikrafttræden.
 
@@ -128,25 +128,25 @@ Stk. 2. Den ved § 2, nr. 9, affattede § 76, stk. 3, i lov om individuel boligs
 
 § 2
 
-Loven (* 20) træder i kraft den 1. januar 1996.
+Loven træder i kraft den 1. januar 1996.
 
 § 2 i lov nr. 1068 af 20. december 1995 er sålydende:
 
 § 2
 
-Loven (* 21) træder i kraft den 1. januar 1996.
+Loven træder i kraft den 1. januar 1996.
 
 § 18 i lov nr. 1048 af 11. december 1996 er sålydende:
 
 § 18
 
-Loven (* 22) træder i kraft den 1. januar 1997.
+Loven træder i kraft den 1. januar 1997.
 
 § 4, stk. 1-3, i lov nr. 380 af 10. juni 1997 er sålydende:
 
 § 4
 
-Stk. 1. Loven (* 23) træder i kraft den 1. januar 1998.
+Stk. 1. Loven træder i kraft den 1. januar 1998.
 
 Stk. 2. For kollektive bofællesskaber, hvor boligen er taget i brug til kollektivt bofællesskab før den 1. januar 1998, er det uanset § 24 b, stk. 1, i lov om individuel boligstøtte som affattes ved denne lovs § 3, nr. 2, alene en betingelse for udbetaling af boligstøtte efter § 24 a, stk. 1, i lov om individuel boligstøtte, jf. lovbekendtgørelse nr. 96 af 22. februar 1996 med senere ændringer, at det kollektive bofællesskab består af mindst 3 personer, der alle opfylder betingelserne i § 24 a, stk. 1, nr. 1, eller alle opfylder betingelserne i § 24 a, stk. 1, nr. 3.
 
@@ -156,16 +156,30 @@ Stk. 3. Boligstøtte kan uanset stk. 1 ydes i indtil 3 måneder, såfremt antall
 
 § 10
 
-Stk. 1. Loven (* 24) træder i kraft den 1. januar 1998.
+Stk. 1. Loven træder i kraft den 1. januar 1998.
 
 § 9 i lov nr. 970 af 17. december 1997 er sålydende:
 
 § 9
 
-Loven (* 25) træder i kraft den 1. januar 1998. § 1, nr. 11, 13-16, 18-21, 23-29 og 59, § 3, nr. 10, samt § 5, nr. 2 (* 26), træder dog først i kraft den 1. juli 1998.
+Loven træder i kraft den 1. januar 1998. § 1, nr. 11, 13-16, 18-21, 23-29 og 59, § 3, nr. 10, samt § 5, nr. 2 , træder dog først i kraft den 1. juli 1998.
 
 § 42, stk. 1, i lov nr. 980 af 17. december 1997 er sålydende:
 
 § 42
 
-Stk. 1. Loven (* 27) træder i kraft den 1. juli 1998, jf. dog stk. 2, 3 og 4.
+Stk. 1. Loven træder i kraft den 1. juli 1998, jf. dog stk. 2, 3 og 4.
+
+§ 58, stk. 1, i lov nr. 474 af 1. juli 1998 er sålydende:
+
+§ 58
+
+Stk. 1. Loventræder i kraft den 1. januar 1999, jf. dog stk. 2-4.
+
+§ 2, stk. 1 og 2, i lov nr. 1002 af 23. december 1998 er sålydende:
+
+§ 2
+
+Stk. 1. Loven træder i kraft den 1. januar 2000 , jf. dog stk. 2 og 5.
+
+Stk. 2. § 1, nr. 6, 70 og 71 træder i kraft den 1. marts 1999, § 1, nr. 44, træder i kraft den 1. marts 2000, og § 1, nr. 2, træder i kraft den 1. januar 2001.
