@@ -1,7 +1,5 @@
-Givet på Marselisborg Slot, den 27. december 1996
+Undervisningsministeriet, den 16. juni 2000
 
-Under Vor Kongelige Hånd og Segl
+Margrethe Vestager
 
-MARGRETHE R.
-
-/Ole Vig Jensen
+/Susanne Gruno
