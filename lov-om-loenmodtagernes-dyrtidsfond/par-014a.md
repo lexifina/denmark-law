@@ -1,0 +1,1 @@
+§ 14 a. Med bøde eller hæfte straffes, hvis ikke strengere straf er forskyldt efter anden lovgivning, overtrædelse af § 5 a, stk. 1 og 3-5, §§ 5 b, 5 d og 5 e, § 5 f, stk. 1, §§ 5 g-l, og § 8 a, stk. 9.
