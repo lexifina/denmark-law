@@ -1,9 +1,7 @@
-Givet på Christiansborg slot, den 9. juni 1982
+Ministeriet for skatter og afgifter, den 26. september 1984
 
-Under Vor Kongelige Hånd og Segl
+Isi Foighel
 
-MARGRETHE R.
+/ Ebbe Willumsen
 
-/MOGENS LYKKETOFT
-
-Ingen
+INGEN

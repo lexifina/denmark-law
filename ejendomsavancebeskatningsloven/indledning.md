@@ -1,5 +1,3 @@
-Lov om beskatning af fortjeneste ved afståelse af fast ejendom
+Bekendtgørelse af Lov om beskatning af fortjeneste ved afståelse af fast ejendom (ejendomsavancebeskatningsloven)
 
-(ejendomsavanceskatteloven)
-
-VI MARGRETHE DEN ANDEN, af Guds Nåde Danmarks Dronning, gør vitterligt: Folketinget har vedtaget og Vi ved Vort samtykke stadfæstet følgende lov:
+Herved bekendtgøres lov nr. 247 af 9. juni 1982 om beskatning af fortjeneste ved afståelse af fast ejendom, med de ændringer der følger af lov nr. 88 af 14. marts 1984.
