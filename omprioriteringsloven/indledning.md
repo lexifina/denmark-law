@@ -1,3 +1,3 @@
-Lov om visse almennyttige boligafdelingers omprioritering m.v.
+Bekendtgørelse af lov om visse almennyttige boligafdelingers omprioritering m.v.
 
-VI MARGRETHE DEN ANDEN, af Guds Nåde Danmarks Dronning, gør vitterligt: Folketinget har vedtaget og Vi ved Vort samtykke stadfæstet følgende lov:
+Herved bekendtgøres lov nr. 282 af 27. april 1994 om visse almennyttige boligafdelingers omprioritering m.v., med de ændringer, der følger af § 2 i lov nr. 1092 af 16. december 2002.
