@@ -1,19 +1,5 @@
-§ 16 B. Afstår en aktionær eller andelshaver aktier, andelsbeviser og lignende værdipapirer, herunder konvertible obligationer, samt tegningsret til sådanne værdipapirer til det selskab, der har udstedt de pågældende værdipapirer, medregnes afståelsessummen i den pågældendes skattepligtige almindelige indkomst. Dette gælder ikke ved afståelse af aktier m.v., der kun kan tilbagesælges til selskabet efter § 31, stk. 2, i lov om indkomstbeskatning af aktieselskaber m.v. Det er dog en betingelse, at medarbejderaktionæren ikke er hovedaktionær i selskabet efter § 4, stk. 2-3, i lov om beskatning af fortjeneste ved afståelse af aktier m.v.
+§ 16 B. (* 28) Afstår en aktionær eller andelshaver aktier, andelsbeviser og lignende værdipapirer, herunder konvertible obligationer, samt tegningsret til sådanne værdipapirer til det selskab, der har udstedt de pågældende værdipapirer, medregnes afståelsessummen i den pågældendes skattepligtige almindelige indkomst. Dette gælder ikke ved afståelse af aktier m.v., der kun kan tilbagesælges til selskabet efter § 31, stk. 2, i lov om indkomstbeskatning af aktieselskaber m.v. Det er dog en betingelse, at medarbejderaktionæren ikke er hovedaktionær i selskabet efter personskattelovens § 19 a, stk. 2-4.
 
-Stk. 2. Afstår en aktionær eller andelshaver aktier m.v. som nævnt i stk. 1 til et selskab, forening eller fond, der er eller i det pågældende indkomstår bliver indehaver af 25 pct. eller derover (holdingselskabet) af aktiekapitalen i det selskab, der har udstedt aktierne (datterselskabet), medregnes afståelsessummen i overdragerens skattepligtige almindelige indkomst. Den del af afståelsessummen, der vederlægges med aktier i holdingselskabet, beskattes dog efter loven om beskatning af fortjeneste ved afståelse af aktier m.v.
+Stk. 2. Skatteministeren eller den, han bemyndiger dertil, kan tillade, at afståelsessummer fritages for beskatning efter stk. 1. Fortjeneste eller tab ved afståelsen behandles i så fald efter samme regler som fortjeneste eller tab ved afståelse af aktier m.v. til andre end det i stk. 1 nævnte selskab.
 
-Stk. 3. Stk. 2 finder kun anvendelse for personer,
-
-1) hvis overdrageren eller dennes ægtefælle beholder aktier i datterselskabet eller i holdingselskabet,
-
-2) hvis overdrageren eller dennes ægtefælle i forbindelse med aktieafståelsen erhverver aktier i holdingselskabet eller i datterselskabet, eller
-
-3) hvis overdrageren eller dennes ægtefælle på tidspunktet for overdragelsen kan udøve en væsentlig indflydelse i et af de nævnte selskaber på grundlag af aktiebesiddelse m.v. eller på grundlag af aftale, vedtægt, fondsfundats eller lignende.
-
-Stk. 4. Har en aktionær m.v., der er skattepligtig efter stk. 2-3, inden for de 5 senest forudgående indkomstår afstået aktier i datterselskabet til holdingselskabet, medregnes afståelsessummen for disse aktier ligeledes i den skattepligtige almindelige indkomst for de pågældende indkomstår. En eventuel beskatning efter reglerne om beskatning og fortjeneste ved afståelse af aktier m.v. ophæves. Stk. 2, 2. pkt., finder tilsvarende anvendelse.
-
-Stk. 5. (* 16) Hvis et selskab afstår aktier, finder stk. 2 og 4 kun anvendelse, hvis en person eller dennes ægtefælle ved afståelsen havde en væsentlig indflydelse i det selskab, der afstår aktierne, og på samme tidspunkt havde en væsentlig indflydelse i holdingselskabet. Stk. 2 og 4 finder tilsvarende anvendelse, hvis aktierne afstås til den i 1. pkt. nævnte person eller dennes ægtefælle, der ved afståelsen havde en væsentlig indflydelse i det selskab, der afstår aktierne. Hvis afståelsessummen herefter skal medregnes i den skattepligtige indkomst for det selskab, der har afstået aktierne, finder selskabsskattelovens § 2, stk. 5, og § 13, stk. 1, nr. 2, og stk. 3, ikke anvendelse i de seneste 3 indkomstår forud for afståelsen.
-
-Stk. 6. Skatteministeren eller den, han bemyndiger dertil, kan tillade, at afståelsessummer fritages for beskatning efter stk. 1, 2, 4 og 5. Fortjeneste eller tab ved afståelsen behandles i så fald efter samme regler som fortjeneste eller tab ved afståelse af aktier m.v. til andre end de i stk. 1 og 2 nævnte selskaber.
-
-Stk. 7. Stk. 1-5 finder ikke anvendelse, såfremt aktier m.v. afstås til et selskab i likvidation i det kalenderår, hvori selskabet endeligt opløses.
+Stk. 3. Stk. 1 finder ikke anvendelse, såfremt aktier m.v. afstås til et selskab i likvidation i det kalenderår, hvori selskabet endeligt opløses.

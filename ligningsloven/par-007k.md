@@ -1,4 +1,4 @@
-§ 7 K. (* 8) Legater, der er betinget af, at de anvendes til studierejser i udlandet, Færøerne og Grønland, er indkomstskattefri for modtageren, i det omfang de medgår til dækning af sædvanlige udgifter til rejse mellem Danmark og studiestedet, sædvanlige meromkostninger ved opholdet på studiestedet samt dokumenterede udgifter til betaling af undervisning, deltagerafgifter og lign., herunder betaling for kurser i studiestedets sprog.
+§ 7 K. Legater, der er betinget af, at de anvendes til studierejser i udlandet, Færøerne og Grønland, er indkomstskattefri for modtageren, i det omfang de medgår til dækning af sædvanlige udgifter til rejse mellem Danmark og studiestedet, sædvanlige meromkostninger ved opholdet på studiestedet samt dokumenterede udgifter til betaling af undervisning, deltagerafgifter og lign., herunder betaling for kurser i studiestedets sprog.
 
 Stk. 2. Udbetalinger efter lov om statens uddannelsesstøtte er ikke omfattet af stk. 1 bortset fra støtte til betaling af studieafgifter efter § 5 i nævnte lov.
 

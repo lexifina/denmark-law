@@ -1,4 +1,4 @@
-§ 8 I. (* 10) Ved opgørelsen af den skattepligtige indkomst kan fradrages udgifter til undersøgelse af nye markeder med henblik på etablering af en erhvervsvirksomhed eller udvidelse af en bestående erhvervsvirksomhed .
+§ 8 I. Ved opgørelsen af den skattepligtige indkomst kan fradrages udgifter til undersøgelse af nye markeder med henblik på etablering af en erhvervsvirksomhed eller udvidelse af en bestående erhvervsvirksomhed.
 
 Stk. 2. Udgifter til undersøgelse af nye markeder, der er afholdt før etableringen af en erhvervsvirksomhed, kan kun fradrages efter stk. 1, hvis undersøgelsen er medvirkende til etablering af erhvervsvirksomheden.
 

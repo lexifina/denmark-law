@@ -1,4 +1,4 @@
-§ 8 J. (* 10) Ved opgørelsen af den skattepligtige indkomst kan fradrages udgifter til advokat og revisor, der er afholdt i forbindelse med etablering af en erhvervsvirksomhed eller udvidelse af en bestående erhvervsvirksomhed. Det samme gælder gebyrer til Erhvervs- og Selskabsstyrelsen.
+§ 8 J. Ved opgørelsen af den skattepligtige indkomst kan fradrages udgifter til advokat og revisor, der er afholdt i forbindelse med etablering af en erhvervsvirksomhed eller udvidelse af en bestående erhvervsvirksomhed. Det samme gælder gebyrer til Erhvervs- og Selskabsstyrelsen.
 
 Stk. 2. Udgifter, der er afholdt inden etableringen eller udvidelsen af erhvervsvirksomheden, kan først fradrages i det indkomstår, hvori etableringen eller udvidelsen af erhvervsvirksomheden finder sted.
 
