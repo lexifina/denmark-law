@@ -1,0 +1,1 @@
+§ 34 g. Ved forsikringsaftaler indgået ved fjernsalg har forbrugeren på ethvert tidspunkt under aftaleforholdet ret til efter anmodning at få udleveret aftalevilkårene på papir. Forbrugeren kan endvidere ændre den benyttede fjernkommunikationsteknik, medmindre det er uforeneligt med den indgåede aftale eller karakteren af den leverede ydelse.

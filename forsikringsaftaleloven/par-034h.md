@@ -1,0 +1,1 @@
+§ 34 h. Justitsministeren kan fastsætte nærmere regler om indholdet af og formen for de oplysningsforpligtelser, der følger af §§ 34 d- 34 g. Justitsministeren kan endvidere fastsætte regler om yderligere oplysninger, som selskabet skal give.
