@@ -1,26 +1,14 @@
-Trafikministeriet, den 7. marts 1994
+Trafikministeriet, den 4. juni 1997
 
-Jan Trøjborg
+Bjørn Westh
 
-/ B. Willumsen
+/ A. Thorup
 
-(* 1) Jf. lovbekendtgørelse nr. 620 af 15. september 1986, som ændret ved § 14 i lov nr. 396 af 13. juni 1990 samt ved lov nr. 1088 af 23. december 1992.
+(* 1) Jf. lovbekendtgørelse nr. 620 af 15. september 1986, som ændret ved § 14 i lov nr. 396 af 13. juni 1990, ved lov nr. 1088 af 23. december 1992 samt ved § 13 i lov nr. 1082 af 20. december 1995.
 
-(* 2) Ved lov nr. 1139 af 22. december 1993 er § 71, stk. 2, 3. og 4. punktum samt stk. 4 og 5 ændret. Ændringerne træder i kraft den 1. januar 1995. Fra dette tidspunkt har § 71 følgende ordlyd:
+(* 2) Denne version af kapitel 9 gælder indtil videre kun for indenrigs luftbefordring, hvor mellemlanding uden for riget ikke er aftalt, og for anden luftbefordring, som ikke er omfattet af Warszawa-konventionen i nogen af dens affattelser, jf. note 3.
 
-§ 71. For benyttelsen af en offentlig flyveplads kan der opkræves afgifter efter regler, der fastsættes af trafikministeren. Afgifter for benyttelse af statsejede flyvepladser bortset fra dem, der drives af Københavns Lufthavne A/S, skal godkendes af Folketingets Finansudvalg.
-
-Stk. 2. Der kan endvidere opkræves afgifter til dækning af udgifterne ved anlæg og drift af andre hjælpemidler i luftfartens tjeneste efter regler fastsat af trafikministeren. Afgift kan opkræves i forbindelse med overflyvning af dansk territorium, det åbne hav og fremmed stats territorium, når der er truffet aftale herom med vedkommende stat. Afgiften påhviler brugeren af såvel danske som udenlandske luftfartøjer ved flyvning i det område, hvor hjælpemidler kan benyttes. Hvis brugerens identitet ikke er kendt, påhviler afgiften ejeren af luftfartøjet, medmindre ejeren godtgør, hvem der var bruger.
-
-Stk. 3. Hvis de i stk. 1 og 2 nævnte afgifter ikke erlægges rettidigt, kan der tillægges 1,3 pct. månedlig rente for hver påbegyndt måned fra forfaldsdagen at regne, indtil betaling sker, dog mindst 50 kr. Endvidere kan trafikministeren fastsætte bestemmelser om gebyr for erindringsskrivelser vedrørende betalingen af de nævnte afgifter.
-
-Stk. 4. Trafikministeren kan fastsætte regler om opkrævning og inddrivelse af afgifterne, herunder af danske myndigheder, i det omfang det følger af Multilateral Agreement Relating to Route Charges, yder bistand til inddrivelse af Eurocontrols udestående afgifter.
-
-Stk. 5. Afgifterne med påløbende renter og gebyrer kan inddrives ved udpantning.
-
-(* 3) Denne version af kapitel 9 gælder indtil videre kun for indenrigs luftbefordring, hvor mellemlanding uden for riget ikke er aftalt, og for anden luftbefordring, som ikke er omfattet af Warszawa-konventionen i nogen af dens affattelser, jf. note 4.
-
-(* 4) Kapitel 9 i lovbekendtgørelse nr. 408 af 11. september 1985 gælder indtil videre for luftbefordring, som er omfattet af Warszawa-konventionen i en af dens affattelser. Kapitlet har følgende ordlyd:
+(* 3) Kapitel 9 i lovbekendtgørelse nr. 408 af 11. september 1985 gælder indtil videre for luftbefordring, som er omfattet af Warszawa-konventionen i en af dens affattelser. Kapitlet har følgende ordlyd:
 
 ## Kapitel 9
 
@@ -40,7 +28,7 @@ Befordringsdokumenter
 
 a) afgangssted og bestemmelsessted,
 
-b) mindst eet aftalt mellemlandingssted, såfremt afgangsstedet og bestemmelsesstedet ligger i samme stat og eet eller flere mellemlandingssteder i en anden stat er aftalt,
+b) mindst et aftalt mellemlandingssted, såfremt afgangsstedet og bestemmelsesstedet ligger i samme stat og et eller flere mellemlandingssteder i en anden stat er aftalt,
 
 c) at befordringen kan være underkastet Warszawa-konventionen eller en lov af tilsvarende indhold, og at konventionen eller loven i reglen begrænser befordrerens ansvar for personskade og for tab af eller skade på rejsegods.
 
@@ -56,7 +44,7 @@ Stk. 2. Tilsidesættes det krav, som er nævnt i stk. 1, kan befordreren ikke p�
 
 a) afgangssted og bestemmelsessted,
 
-b) mindst eet aftalt mellemlandingssted, såfremt afgangsstedet og bestemmelsesstedet ligger i samme stat og eet eller flere mellemlandingssteder i en anden stat er aftalt.
+b) mindst et aftalt mellemlandingssted, såfremt afgangsstedet og bestemmelsesstedet ligger i samme stat og et eller flere mellemlandingssteder i en anden stat er aftalt.
 
 c) at befordringen kan være underkastet Warszawa-konventionen eller en lov af tilsvarende indhold, og at denne konvention eller loven i reglen begrænser befordrerens ansvar for tab af eller skade på rejsegods.
 
@@ -80,7 +68,7 @@ Stk. 3. Har befordreren udfærdiget luftfragtbrevet efter afsenderens anmodning,
 
 a) afgangssted og bestemmelsessted,
 
-b) mindst eet aftalt mellemlandingssted, såfremt afgangsstedet og bestemmelsesstedet ligger i samme stat og eet eller flere mellemlandingssteder i en anden stat er aftalt,
+b) mindst et aftalt mellemlandingssted, såfremt afgangsstedet og bestemmelsesstedet ligger i samme stat og et eller flere mellemlandingssteder i en anden stat er aftalt,
 
 c) at befordringen kan være underkastet Warszawa-konventionen eller en lov af tilsvarende indhold, og at denne konvention eller loven i reglen begrænser befordrerens ansvar for tab af eller skade på gods.
 
@@ -162,7 +150,7 @@ Stk. 2. I tilfælde af, at befordringen omfattes af Warszawa-konventionen, kan e
 
 § 118. Adgangen til erstatning efter bestemmelserne i dette kapitel bortfalder, såfremt sag ikke er rejst inden to år, regnet fra luftfartøjets ankomst til bestemmelsesstedet eller fra den dag, da luftfartøjet skulle være ankommet, eller da befordringen blev afbrudt.
 
-§ 119. Skal en befordring, der efter befordringsaftalen er at anse som een befordring, udøves af flere efter hinanden følgende befordrere, er enhver af dem, når han modtager passagererne, det indskrevne rejsegods eller godset, ansvarlig for den del af befordringen, som det påhviler ham at udføre.
+§ 119. Skal en befordring, der efter befordringsaftalen er at anse som en befordring, udøves af flere efter hinanden følgende befordrere, er enhver af dem, når han modtager passagererne, det indskrevne rejsegods eller godset, ansvarlig for den del af befordringen, som det påhviler ham at udføre.
 
 Stk. 2. Ved befordring af indskrevet rejsegods eller gods kan afsenderen tillige holde sig til den første befordrer og den til dets udlevering berettigede til den sidste, selv om skaden eller forsinkelsen er indtruffet, medens godset var i en anden befordrers varetægt. Er herefter to befordrere ansvarlige, hæfter de solidarisk.
 
@@ -202,7 +190,7 @@ Stk. 2. Voldgiftsaftaler forud for skaden er kun gyldige med hensyn til godsbefo
 
 Stk. 2. Ved international luftbefordring, som falder uden for Warszawa-konventionen, kan befordreren påberåbe sig bestemmelsen om ansvarsbegrænsning i § 111, selv om befordringsdokumentet ikke indeholder den i stk. 1 omhandlede angivelse. Ved befordring af passagerer, udført af dansk lufttrafikforetagende, gælder dog § 111 a.
 
-§ 123. Trafikministeren kan, for så vidt angår indenrigs luftfart, hvor mellemlanding uden for riget ikke er aftalt, (* 5) gøre undtagelse fra de i § 92, stk. 1, § 92 a, stk. 1, § 93, stk. 1 og § 97 indeholdte bestemmelser om billetter, rejsegodsbeviser og luftfragtbreve.
+§ 123. Trafikministeren kan, for så vidt angår indenrigs luftfart, hvor mellemlanding uden for riget ikke er aftalt,4) gøre undtagelse fra de i § 92, stk. 1, § 92 a, stk. 1, § 93, stk. 1 og § 97 indeholdte bestemmelser om billetter, rejsegodsbeviser og luftfragtbreve.
 
 § 124. Ved Warszawa-konventionen forstås i denne lov den i Warszawa den 12. oktober 1929 afsluttede overenskomst om international luftbefordring, således som denne er ændret ved den i Haag den 28. september 1955 undertegnede protokol.
 
@@ -222,18 +210,14 @@ Stk. 3. Ved SDR forstås den i § 111, stk. 5, omhandlede regningsenhed.
 
 Stk. 4. Ved befordring af passagerer, udført af dansk lufttrafikforetagende, gælder dog § 111 a.
 
-§ 126 a. Bestemmelserne i §§ 119 a-119 f, § 121, stk. 2, 2. og 3. punktum, og § 126, 3. og 4. punktum (* 6), gælder kun i det omfang, de er forenelige med traktatmæssige forpligtelser over for stater, der ikke har ratificeret eller tiltrådt Guadalajara-konventionen af 18. september 1961 om international luftbefordring, der udføres af en anden befordrer end den, der har indgået befordringsaftalen.
+§ 126 a. Bestemmelserne i §§ 119 a-119 f, § 121, stk. 2, 2. og 3. punktum, og § 126, 3. og 4. punktum (* 5), gælder kun i det omfang, de er forenelige med traktatmæssige forpligtelser over for stater, der ikke har ratificeret eller tiltrådt Guadalajara-konventionen af 18. september 1961 om international luftbefordring, der udføres af en anden befordrer end den, der har indgået befordringsaftalen.
 
-(* 5) For sådan indenrigs luftfart gælder nu § 123 i den version af kapitel 9, der omhandles i note 2.
+(* 4) For sådan indenrigs luftfart gælder nu § 123 i den version af kapitel 9, der omhandles i note 3.
 
-(* 6) Henvisningen til § 126, 3. og 4. punktum, gælder § 126, stk. 1.
+(* 5) Henvisningen til § 126, 3. og 4. punktum, gælder § 126, stk. 1.
 
-(* 7) § 3, stk. 2, i lov nr. 1087 af 23. december 1992 om ændring af lov om luftfart indeholder følgende bestemmelse:
+(* 6) For Grønland gælder loven som gengivet i lovbekendtgørelse nr. 408 af 11. september 1985 som ændret ved lov nr. 117 af 11. marts 1987, lov nr. 429 af 13. juni 1990, lov nr. 837 af 18. december 1991, lov nr. 1087 af 23. december 1992 og lov nr. 328 af 14. maj 1997.
 
-»Bestemmelserne i § 1, nr. 1-4, 6 og 14, gælder ikke for Grønland.«
+(* 7) Jf. lov nr. 182 af 26. maj 1972 for Grønland om ekspropriation som ændret ved lov nr. 1013 af 19. december 1992.
 
-Dette indebærer, at lovbekendtgørelse nr. 408 af 11. september 1985, § 1, § 7, 1. pkt., § 12, stk. 1, 2. pkt., § 13, stk. 1, litra b, § 16 og kapitel 7 fortsat har gyldighed for Grønland, jf. § 158, stk. 1.
-
-(* 8) Jf. lov nr. 182 af 26. maj 1972 for Grønland om ekspropriation som ændret ved lov nr. 1013 af 19. december 1992.
-
-(* 9) Loven som gengivet i lovbekendtgørelse nr. 408 af 11. september 1985 er sat i kraft for Færøerne ved anordning nr. 130 af 3. marts 1989 med ændringer som angivet i anordningen.
+(* 8) Loven som gengivet i lovbekendtgørelse nr. 408 af 11. september 1985 er sat i kraft for Færøerne ved anordning nr. 130 af 3. marts 1989 med ændringer som angivet i anordningen.
