@@ -1,3 +1,3 @@
 Bekendtgørelse af lov om vederlag og pension m.v. for ministre
 
-Herved bekendtgøres lov nr. 194 af 5. juni 1959 om vederlag og pension m.v. for ministre med de ændringer, der følger af lov nr. 577 af 19. december 1969, § 3 i lov nr. 447 af 30. juni 1993, lov nr. 185 af 12. marts 1997 og lov nr. 1095 af 29. december 1999.
+Herved bekendtgøres lov om vederlag og pension m.v. for ministre, jf. lovbekendtgørelse nr. 1019 af 17. november 2000, med de ændringer, der følger af lov nr. 453 af 7. juni 2001, § 2 i lov nr. 1041 af 17. december 2002 og § 4 i lov nr. 996 af 9. december 2003. Den bekendtgjorte lovtekst gælder først fuldt ud ved indenrigs- og sundhedsministerens nærmere bestemmelse herom, jf. § 5, stk. 2, i lov nr. 996 af 9. december 2003, der gengives i bekendtgørelsens slutning.
