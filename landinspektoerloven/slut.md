@@ -1,7 +1,7 @@
-Boligministeriet, den 5. marts 1991
+Boligministeriet, den 18. november 1992
 
 Svend Erik Hovmand
 
-/ Tove Lense-Møller
+/ Birgit Kristiansen
 
-*) § 1 i lov nr. 138 vedrører ændring af § 1, stk. 2-5, § 3, § 4, stk. 1-5, § 5, stk. 1, § 7, § 8, stk. 2, § 9, § 10, stk. 1 og 2, § 14 og § 14 a.
+(* 1) § 1 i lov nr. 278 vedrører ændring af § 4 a, § 4 b, § 6, stk. 1 og 2, § 7, stk. 2, § 8 og § 10, stk. 3 og 4.

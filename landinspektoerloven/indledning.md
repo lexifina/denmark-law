@@ -1,3 +1,5 @@
-Bekendtgørelse af lov om landinspektørvirksomhed Landinspektørloven
+Bekendtgørelse af lov om landinspektørvirksomhed
 
-Herved bekendtgøres lov nr. 220 af 31. maj 1963 om landinspektørvirksomhed, jf. lovbekendtgørelse nr. 390 af 12. juli 1977, med de ændringer, der følger af lov nr. 138 af 7. marts 1990.
+(Landinspektørloven)
+
+Herved bekendtgøres lov nr. 220 af 31. maj 1963 om landinspektørvirksomhed, jf. lovbekendtgørelse nr. 134 af 5. marts 1991, med de ændringer, der følger af lov nr. 936 af 27. december 1991 og lov nr. 278 af 29. april 1992.
