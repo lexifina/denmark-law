@@ -1,4 +1,4 @@
-§ 63 b. Boligministeren kan i perioden 1. april 1996 til 31. marts 1997 på statskassens vegne give tilsagn om tilskud til nedbriingelse af boligafgiften i andelsboliger opført efter lov om boligbyggeri med tilsagn i perioden 1. januar 1989 til 31. december 1995. Tilsagn kan gives inden for en samlet ramme for et årligt driftstilskud på 5 mio. kr.
+§ 63 b. Boligministeren kan i perioden 1. april 1996 til 31. marts 1997 på statskassens vegne give tilsagn om tilskud til nedbringelse af boligafgiften i andelsboliger opført efter lov om boligbyggeri med tilsagn i perioden 1. januar 1989 til 31. december 1995. Tilsagn kan gives inden for en samlet ramme for et årligt driftstilskud på 5 mio. kr.
 
 Stk. 2. Tilskud kan ydes til andelsboligforeninger, hvor der er konstateret så alvorlige økonomiske vanskeligheder, at disse vil kunne hindre foreningens videreførelse. En ejendomsformidler efter lov om omsætning af fast ejendom afgiver erklæring om, at betingelserne for tilsagn om tilskud er opfyldt.
 

@@ -1,1 +1,1 @@
-§ 76 a. Til de i § 75 nævnte boliger kan kommunen eller amtskommunen, hvori boligerne er beliggende, hvert år yde et tilskud, der svarer til størrelsen af den kommunale og amtskommunale grundskyld, som ungdomsboligerne/kollegiet betaler.
+§ 76 a. Til de i § 75 nævnte boliger kan kommunen eller amtskommunen, hvori boligerne er beliggende, hvert år yde et tilskud, der svarer til størrelsen af den kommunale og amtskommunale grundskyld, som ungdomsboligerne/ kollegiet betaler.
