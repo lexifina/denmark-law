@@ -1,0 +1,1 @@
+§ 77 b. Køberen kan ikke påberåbe sig en mangel, som køberen var eller måtte være bekendt med ved aftalens indgåelse, medmindre der er holdepunkt herfor i aftalen eller sælgeren har handlet i strid med almindelig hæderlighed.
