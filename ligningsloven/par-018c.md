@@ -1,0 +1,1 @@
+§ 18 C. Ved opgørelsen af den skattepligtige formue medregnes ejendomme, som omfatter mindst 25 ha skov, til værdien opgjort efter § 18 B med et nedslag i ejendomsværdien, reguleret efter vurderingslovens § 2 A, på 40 pct. af den af vurderingsmyndighederne til skov henførte del af den således regulerede ejendomsværdi.
