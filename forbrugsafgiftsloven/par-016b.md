@@ -1,4 +1,4 @@
-§ 16 b. (* 2) De statslige told- og skattemyndigheder kan pålægge en virksomhed, der ikke betaler afgiften rettidigt, at afgive angivelse for kortere perioder end en måned.
+§ 16 b. De statslige told- og skattemyndigheder kan pålægge en virksomhed, der ikke betaler afgiften rettidigt, at afgive angivelse for kortere perioder end en måned.
 
 Stk. 2. De statslige told- og skattemyndigheder kan endvidere pålægge en virksomhed, der ikke betaler afgiften rettidigt, en kortere betalingsfrist end den i § 16, stk. 1, og § 16 a, stk. 5, nævnte.
 

@@ -1,8 +1,8 @@
-§ 16 a. (* 2) Ved indførsel af varer fra steder uden for EF eller fra visse områder, der ikke er omfattet af de pågældende EF-landes afgiftsområde, svares afgiften ved indførslen, medmindre varerne indføres efter reglerne i § 14 a. Afgiften afregnes efter reglerne i toldlovens kapitel 8, jf. dog stk. 2.
+§ 16 a. (* 1) Ved indførsel af varer fra steder uden for EF eller fra visse områder, der ikke er omfattet af de pågældende EF-landes afgiftsområde, svares afgiften ved indførslen, medmindre varerne indføres efter reglerne i § 14 a. Afgiften afregnes efter reglerne i toldlovens kapitel 4, jf. dog stk. 2.
 
-Stk. 2. For varer, der indføres af en virksomhed registreret efter § 82 i toldloven, finder reglerne i stk. 3-7 tilsvarende anvendelse.
+Stk. 2. (* 1) For varer, der indføres af en virksomhed registreret efter § 29 i toldloven, finder reglerne i stk. 3-7 tilsvarende anvendelse.
 
-Stk. 3. I andre tilfælde svares afgiften i forbindelse med varemodtagelsen her i landet, medmindre varerne modtages efter reglerne i § 14 a. Erhvervsdrivende varemodtagere skal, inden varerne afsendes fra udlandet, anmelde sig hos de statslige told- og skattemyndigheder, Anmeldelsen er gældende for 5 år.
+Stk. 3. I andre tilfælde svares afgiften i forbindelse med varemodtagelsen her i landet, medmindre varerne modtages efter reglerne i § 14 a. Erhvervsdrivende varemodtagere skal, inden varerne afsendes fra udlandet, anmelde sig hos de statslige told- og skattemyndigheder. Anmeldelsen er gældende for 5 år.
 
 Stk. 4. De i stk. 3 nævnte erhvervsdrivende varemodtagere skal efter udløbet af hver måned og senest den 15. i den følgende måned til de statslige told- og skattemyndigheder angive mængden af de varer, virksomheden har modtaget i måneden. Andre varemodtagere skal angive ved modtagelsen. Angivelsen skal være underskrevet af varemodtageren.
 

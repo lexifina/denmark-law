@@ -1,6 +1,6 @@
 Bekendtgørelse af lov om forskellige forbrugsafgifter
 
-Herved bekendtgøres lov om forskellige forbrugsafgifter, jf. lovbekendtgørelse nr. 728 af 1. november 1991, med de ændringer, der følger af § 1 i lov nr. 364 af 14. maj 1992, § 6 i lov nr. 1035 af 19. december 1992 og § 14 i lov nr. 1073 af 23. december 1992.
+Herved bekendtgøres lov om forskellige forbrugsafgifter, jf. lovbekendtgørelse nr. 720 af 8. september 1993 med de ændringer, der følger af § 10 i lov nr. 376 af 18. maj 1994.
 
 ## Afsnit I
 
