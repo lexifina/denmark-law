@@ -1,7 +1,7 @@
-Skatteministeriet, den 2. august 1989
+Skatteministeriet, den 2. december 1993
 
-Anders Fogh Rasmussen
+Ole Stavad
 
-/ Vivi Rasmussen
+/ K. Aasberg Karlsen
 
-(* 1) Indsættelsen af § 8, stk. 10, 3. pkt., har virkning for aftaler, der indgås 1. januar 1989 eller senere, jf. § 6 i lov nr. 763 af 14. december 1988.
+(* 1) Bestemmelsen i § 2, stk. 4, i den her anførte affattelse, trådte i kraft den 2. juli 1993 og har virkning fra og med indkomståret 1993, jf. lov nr. 484 af 30. juni 1993.
