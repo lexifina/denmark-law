@@ -2,9 +2,9 @@
 
 I perioden fra og med 27. oktober 1993 og indtil udgangen af indkomståret 1993 henholdsvis indkomståret 1994 finder reglerne i §§ 20-25 anvendelse.
 
-§ 20
+§ 20 (* 14)
 
-Ved en ændring som nævnt i selskabsskattelovens § 5 B, stk. 1, skal der ske en opgørelse af den formue, som er opsamlet i selskabet eller foreningen m.v. under beskatningen efter § 1, stk. 1, nr. 3 a eller 4, eller efter stk. 2, 2. pkt., eller en tilsvarende beskatning. Beløbet opgøres som handelsværdien ved overgangen fratrukket en eventuel indbetalt andelskapital. Såfremt selskabet eller foreningen tidligere har været beskattet efter andre regler i § 1, opgøres beløbet som differencen mellem handelsværdien af selskabets eller foreningens aktiver og prasiver ved overgangen og handelsværdien ved indtræden af beskatning efter § 1, stk. 1, nr. 3 a eller 4, eller efter stk. 2, 2. pkt., eller en tilsvarende beskatning. Fra handelsværdierne trækkes en eventuel indbetalt andelskapital. Beløbet angives ved selvangivelsen for overgangsåret.
+Ved en ændring som nævnt i selskabsskattelovens § 5 B, stk. 1, skal der ske en opgørelse af den formue, som er opsamlet i selskabet eller foreningen m.v. under beskatningen efter § 1, stk. 1, nr. 3 a eller 4, eller efter stk. 2, 2. pkt., eller en tilsvarende beskatning. Beløbet opgøres som handelsværdien ved overgangen fratrukket en eventuel indbetalt andelskapital. Såfremt selskabet eller foreningen tidligere har været beskattet efter andre regler i § 1, opgøres beløbet som differencen mellem handelsværdien af selskabets eller foreningens aktiver og passiver ved overgangen og handelsværdien ved indtræden af beskatning efter § 1, stk. 1, nr. 3 a eller 4, eller efter stk. 2, 2. pkt., eller en tilsvarende beskatning. Fra handelsværdierne trækkes en eventuel indbetalt andelskapital. Beløbet angives ved selvangivelsen for overgangsåret.
 
 Stk. 2. Det efter stk. 1 opgjorte beløb er skattepligtig indkomst for selskabet eller foreningen m.v. Beskatningen indtræder dog først i takt med, at selskabet eller foreningen efter overgangen foretager udlodninger som nævnt i ligningslovens § 16 A, foretager udlodning af likvidationsprovenu i det kalenderår, hvori selskabet eller foreningen m.v. endeligt opløses, eller betaler for erhvervelse af egne udstedte andelsbeviser. Udlodninger m.v., der foretages efter overgangen, anses i første række for at hidrøre fra det efter stk. 1 opgjorte beløb.
 
@@ -14,11 +14,9 @@ Stk. 4. Ved selvangivelsen skal selskabet eller foreningen m.v. give oplysning o
 
 Stk. 5. Ved en senere overgang som nævnt i selskabsskattelovens § 5 A ophører beskatningen af det efter stk. 1 opgjorte beløb. Beskatningen af den resterende del af beløbet indtræder dog på ny, såfremt der senere sker en overgang m.v., der er omfattet af stk. 1 eller af selskabsskattelovens § 5 B, stk. 1, som affattet ved denne lovs § 1, nr. 12, fusionsskattelovens § 12, stk. 1, nr. 3, som affattet ved denne lovs § 2, nr. 1, eller fusionsskattelovens § 14 e, som affattet ved denne lovs § 2, nr. 3.
 
-Stk. 6. Stk. 1-4 finder tilsvarende anvendelse
+Stk. 6. Stk. 1-5 finder tilsvarende anvendelse ved fusion som nævnt i § 24, stk. 1, nr. 2.
 
-1) ved en fusion som nævnt i § 24, stk. 1, nr. 2,
-
-2) ved en omdannelse til aktieselskab i henhold til aktieselskabslovens § 135 af en indkøbsforening, en produktions- og salgsforening eller en hovedforening omfattet af selskabsskattelovens § 1, stk. 1, nr. 3 a og 4, og stk. 2, 2. pkt.
+Stk. 7. Stk. 1-4 finder tilsvarende anvendelse ved en omdannelse til aktieselskab i henhold til aktieselskabslovens § 135 af en indkøbsforening, en produktions- og salgsforening eller en hovedforening omfattet af selskabsskattelovens § 1, stk. 1, nr. 3 a og 4, og stk. 2, 2. pkt.
 
 § 21
 
