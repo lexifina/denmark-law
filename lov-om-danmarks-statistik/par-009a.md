@@ -1,0 +1,1 @@
+§ 9 a. Erhvervsdrivende, der sælger serviceydelser til kunder i udlandet eller køber serviceydelser i udlandet, skal efter anmodning fra Danmarks Statistik afgive oplysninger om serviceydelsernes værdi og art samt om, hvilket land serviceydelserne er leveret til eller modtaget fra.
