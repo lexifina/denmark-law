@@ -8,4 +8,4 @@ Stk. 4. Indkomsten forhøjes alene efter reglerne i stk. 1-3, i det omfang pensi
 
 Stk. 5. § 19 B, stk. 6, finder tilsvarende anvendelse.
 
-Stk. 6. Ministeren for skatter og afgifter kan fastsætte regler om, at pensionskasser og forsikringsselskaber m.v. skal medvirke ved opgørelsen af de beløb, der er nævnt i stk. 1 og 3.
+Stk. 6. Skatteministeren kan fastsætte regler om, at pensionskasser og forsikringsselskaber m.v. skal medvirke ved opgørelsen af de beløb, der er nævnt i stk. 1 og 3.
