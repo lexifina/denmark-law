@@ -1,3 +1,3 @@
 § 2
 
-I lov om folkekirkens kirkebygninger og kirkegårde, jf. lovbekendtgørelse nr. 454 af 11. juni 1992, udgår i § 41 », der ligeledes afholder de udgifter, som i henhold til lov om folkekirkens økonomi § 2, stk. 1, nr. 1 og 2 påhviler kirkekassen, jf. dog nævnte lovs § 2, stk. 2«.
+Loven træder i kraft den 1. januar 1998. Bestemmelserne i § 1, nr. 8, og § 1, nr. 10-13, om oprettelse af en provstiudvalgskasse har dog først virkning for budgetlægningen vedrørende budgetår 1999. Endvidere har reglen i § 1, nr. 10, om antallet af læge medlemmer til provstiudvalget først virkning for de provstiudvalg, der vælges ved de ordinære valg til provstiudvalg i 2001 (* 4).
