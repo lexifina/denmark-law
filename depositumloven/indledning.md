@@ -1,5 +1,3 @@
 Bekendtgørelse af lov om depositum ved ungdomsuddannelser og videregående uddannelser og gebyr ved prøveforberedende enkeltfagsundervisning til højere forberedelseseksamen m.v.
 
-(Depositumloven)
-
-Herved bekendtgøres lov nr. 827 af 21. december 1988 om depositum ved ungdomsuddannelser og videregående uddannelser og gebyr ved prøveforberedende enkeltfagsundervisning til højere forberedelseseksamen med de ændringer, der følger af lov nr. 950 af 27. december 1991.
+Herved bekendtgøres lov om depositum ved ungdomsuddannelser og videregående uddannelser og gebyr ved prøveforberedende enkeltfagsundervisning til højere forberedelseseksamen, jf. lovbekendtgørelse nr. 61 af 27. januar 1992, med de ændringer, der følger af § 5 i lov nr. 353 af 14. maj 1992.
