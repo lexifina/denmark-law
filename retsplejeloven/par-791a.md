@@ -12,7 +12,7 @@ Stk. 3. Observation af personer, der befinder sig i en bolig eller andre husrum,
 
 2) indgrebet må antages at være af afgørende betydning for efterforskningen,
 
-3) efterforskningen angår en lovovertrædelse, der efter loven kan straffes med fængsel i 6 år eller derover, en forsætlig overtrædelse af straffelovens kapitler 12 eller 13 eller en overtrædelse af straffelovens §§ 124, stk. 1, 125, 127, stk. 1, 193, stk. 1, 245, 252, stk. 1, 266, 281, 286, stk. 1, 289 eller en overtrædelse af udlændingelovens § 59, stk. 3, og
+3) efterforskningen angår en lovovertrædelse, der efter loven kan straffes med fængsel i 6 år eller derover, en forsætlig overtrædelse af straffelovens kapitler 12 eller 13 eller en overtrædelse af straffelovens §§ 124, stk. 1, 125, 127, stk. 1, 193, stk. 1, 245, 252, stk. 1, 266, 281, 286, stk. 1, 289 eller en overtrædelse af udlændingelovens § 59, stk. 5, og
 
 4) efterforskningen vedrører en lovovertrædelse, som har medført eller som kan medføre fare for menneskers liv eller velfærd eller for betydelige samfundsværdier.
 

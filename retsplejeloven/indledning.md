@@ -1,8 +1,8 @@
 Bekendtgørelse af lov om rettens pleje
 
-Herved bekendtgøres lov om rettens pleje, jf. lovbekendtgørelse nr. 713 af 13. september 1999, med de ændringer, der følger af lov nr. 231 af 4. april 2000, § 1 i lov nr. 428 af 31. maj 2000 og § 2 i lov nr. 441 af 31. maj 2000.
+Herved bekendtgøres lov om rettens pleje, jf. lovbekendtgørelse nr. 857 af 12. september 2000, med de ændringer, der følger af § 2 i lov nr. 433 af 31. maj 2000, § 2 i lov nr. 106 af 13. februar 2001, § 1 i lov nr. 216 af 28. marts 2001, § 5 i lov nr. 280 af 25. april 2001, § 2 i lov nr. 465 af 7. juni 2001 og § 2 i lov nr. 468 af 7. juni 2001.
 
-De ændringer, der følger af § 2 i lov nr. 433 af 31. maj 2000 om ændring af forskellige lovbestemmelser i forbindelse med gennemførelsen af en lov om fuldbyrdelse af straf m.v. (Ændringer som følge af straffuldbyrdelsesloven, afskaffelse af hæftestraffen og prøveløsladelse af livstidsdømte m.v.) er ikke indarbejdet i denne lovbekendtgørelse, da ændringerne først træder i kraft den 1. juli 2001, jf. lovens § 30.
+De ændringer, der følger af § 1 i lov nr. 461 af 7. juni 2001 om ændring af retsplejeloven og forskellige andre love (Ændringer som følge af børneloven m.v.) er ikke indarbejdet i denne lovbekendtgørelse, da ændringerne i retsplejeloven (kapitel 42 a) først træder i kraft den 1. juli 2002, jf. lovens § 10.
 
 Første bog. Domsmagten m.m.
 

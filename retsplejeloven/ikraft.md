@@ -8,16 +8,6 @@ Stk. 1. Personer, der den 1. juli 1982 opfylder betingelserne for at få meddelt
 
 Stk. 2. Personer, som justitsministeren har beskikket som advokat, og personer, som vil kunne beskikkes som advokat efter stk. 1, omfattes ikke af bestemmelsen i § 123 som affattet i § 1, nr. 6. Ansættelse hos eller virksomhed i fællesskab med sådanne advokater kan medregnes i den tid, der er nævnt i § 123, stk. 1.
 
-Lov nr. 427 af 14. juni 1995 (Konsekvensændringer som følge af afgift af dødsboer og gaver m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
-
-§ 11
-
-Stk. 1. Loven træder i kraft den 1. juli 1995.
-
-Stk. 2. §§ 1-4, § 5, nr. 1-5 og 7, § 6, nr. 1 og 4, §§ 7, 8 og § 9, nr. 2, finder anvendelse på boer og anmeldelser vedrørende personer, som afgår ved døden efter lovens ikrafttræden.
-
-Stk. 3-6. (Udelades)
-
 Lov nr. 293 af 24. april 1996 om visse civilretlige forhold m.v. ved pensionsopsparing i pengeinstitutter indeholder følgende ikrafttrædelsesbestemmelse:
 
 § 13
@@ -42,7 +32,7 @@ Lov nr. 414 af 10. juni 1997 (Hurtigere behandling af civile sager m.v.) indehol
 
 Stk. 1. Loven træder i kraft den 1. juli 1997, jf. dog stk. 2. Retsplejelovens § 126, stk. 3, som affattet ved denne lovs § 1, nr. 6, træder dog i kraft dagen efter bekendtgørelsen i Lovtidende og har virkning med hensyn til advokatfuldmægtige, som har bestået juridisk kandidateksamen efter 1. januar 1997, og med hensyn til udgifter til deres efteruddannelse, såfremt tilmelding hertil indgives efter lovens ikrafttræden.
 
-Stk. 2. De hidtil gældende regler i retsplejelovens §§ 165, stk. 2, 219, stk. 4, 312, stk. 2, 4. pkt., 351, stk. 1, 352, stk. 1, 3. og 4. pkt., 354, stk. 5, 2. pkt., og 488, stk. 2, 2. pkt, finder dog fortsat anvendelse i sager, hvor stævningen inden lovens ikrafttræden er sendt til sagsøgte uden at være forkyndt, jf. retsplejelovens § 350, stk. 2.
+Stk. 2. De hidtil gældende regler i retsplejelovens §§ 165, stk. 2, 219, stk. 4, 312, stk. 2, 4. pkt., 351, stk. 1, 352, stk. 1, 3. og 4. pkt., 354, stk. 5, 2. pkt., og 488, stk. 2, 2. pkt., finder dog fortsat anvendelse i sager, hvor stævningen inden lovens ikrafttræden er sendt til sagsøgte uden at være forkyndt, jf. retsplejelovens § 350, stk. 2.
 
 Lov nr. 402 af 26. juni 1998 (Rekruttering af dommere, dommerfuldmægtiges ansættelsesvilkår, dommeres bierhverv og ændringer som følge af oprettelse af en domstolsstyrelse m.v.) indeholder følgende ikrafttrædelsesbestemmelser:
 
@@ -72,22 +62,62 @@ Stk. 3. Retsplejelovens § 807 d som affattet ved denne lovs § 1, nr. 22, finde
 
 Stk. 4. Fotografier, der er optaget i medfør af § 792 a, og som ved lovens ikrafttræden opbevares af politiet med henblik på senere identifikation, kan fortsat anvendes med henblik på forevisning som nævnt i retsplejelovens § 815 som affattet ved denne lovs § 1, nr. 23, uanset betingelserne i § 815, stk. 1, nr. 1 eller nr. 2, ikke er opfyldt.
 
-Lov nr. 231 af 4. april 2000 (EU-advokaters etablering her i landet m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
+Lov nr. 433 af 31. maj 2000 (Ændringer som følge af straffuldbyrdelsesloven, afskaffelse af hæftestraffen og prøveløsladelse af livstidsdømte m.v.) indeholder følgende ikrafttrædelsesbestemmelser:
 
-§ 2
+§ 30
 
-Loven træder i kraft dagen efter bekendtgørelsen i Lovtidende.
+Loven træder i kraft den 1. juli 2001.
 
-Lov nr. 428 af 31. maj 2000 (Varetægtsfængsling i isolation, varetægtsfængsling under domsforhandlingen, vidnebeskyttelse, vidneudelukkelse for præster fra andre trossamfund, afhøringer i sager ved Højesteret, behandling af retssager uden for retskredsen af lokalemæssige grunde samt klager over anklagemyndighedens sagsbehandling m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
+§ 31
+
+Stk. 1. Hvis der efter lovens ikrafttræden skal idømmes straf for en tidligere begået overtrædelse af de i §§ 1-29 nævnte love, for hvilken hæfte indtil 30 dage ville være forskyldt, idømmes fængsel med samme antal dage som hæfte.
+
+Stk. 2. Ville højere straf af hæfte end nævnt i stk. 1 være forskyldt, kan en lavere straf af fængsel idømmes, dog ikke mindre end 30 dage eller mere end 4 måneder.
+
+§ 32
+
+Stk. 1. Efter lovens ikrafttræden kan der ikke idømmes hæftestraf, selv om straffebestemmelser i anden lovgivning fortsat giver mulighed herfor.
+
+Stk. 2. Ved anvendelse af straffebestemmelser uden for de i §§ 1-29 nævnte love, hvor hæfte indgår i strafferammen, kan der i stedet for hæfte idømmes fængsel indtil 4 måneder.
+
+Stk. 3. § 31 finder tilsvarende anvendelse.
+
+§ 33
+
+Stk. 1. Ved fastsættelse af forvandlingsstraf for bøde vedrørende en lovovertrædelse, der er begået før lovens ikrafttræden, finder § 31 tilsvarende anvendelse.
+
+Stk. 2. Loven har ikke virkning for hæftestraf eller forvandlingsstraf af hæfte, som er idømt eller fastsat før lovens ikrafttræden.
+
+Lov nr. 106 af 13. februar 2001 (Søforklaring og erstatning i forbindelse med transport af olie til søs) indeholder følgende ikrafttrædelsesbestemmelse:
 
 § 3
 
-Loven træder i kraft den 1. juli 2000.
+Loven træder i kraft den 1. juli 2001.
 
-Lov nr. 441 af 31. maj 2000 (Forældelse, styrket indsats mod seksuelt misbrug af børn og unge samt IT-efterforskning) indeholder følgende ikrafttrædelsesbestemmelse:
+Lov nr. 216 af 28. marts 2001 (Bevissikring ved krænkelse af immaterialrettigheder m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
 
 § 3
 
-Stk. 1. Loven træder i kraft den 1. juli 2000.
+Stk. 1. Loven træder i kraft den 1. april 2001. Justitsministeren fastsætter dog tidspunktet for ikrafttrædelsen af § 653, stk. 2, nr. 6, som indsat ved § 1, nr. 1.
 
-Stk. 2. (Udelades)
+Stk. 2. (Udelades).
+
+Lov nr. 280 af 25. april 2001 (Gennemførelse af EU-rammeafgørelse om styrkelse af beskyttelsen mod falskmøntneri, 1. tillægsprotokol til den europæiske konvention om overførelse af domfældte og FN-konventionen til bekæmpelse af terrorbombninger samt ændringer som følge af afskaffelsen af hæftestraffen m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 11
+
+Stk. 1. Loven træder i kraft den 1. maj 2001.
+
+Stk. 2. (Udelades).
+
+Lov nr. 465 af 7. juni 2001 (Hæleri og anden efterfølgende medvirken samt IT-efterforskning) indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 3
+
+Loven træder i kraft den 1. juli 2001.
+
+Lov nr. 468 af 7. juni 2001 (Forvoldelse af fare for smitte med en livstruende og uhelbredelig sygdom) indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 3
+
+Loven træder i kraft den 1. juli 2001.
