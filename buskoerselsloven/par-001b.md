@@ -1,0 +1,1 @@
+§ 1 b. Hvis flere plejehjem, ældrecentre eller lignende institutioner er registreret som ejere af et motorkøretøj omfattet af § 1, stk. 1, kan befordring af de pågældende institutioners egne beboere samt hjemmeboende ældre, der er visiteret til aktiviteter på institutionerne, der har til formål at vedligeholde de pågældendes fysiske og psykiske færdigheder, ske uden tilladelse.
