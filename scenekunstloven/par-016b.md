@@ -6,7 +6,9 @@ Stk. 3. Statstilskuddet ydes kun, såfremt kommunen har indgået minimum 3-årig
 
 Stk. 4. Driftstilskud til det enkelte teater kan ikke overstige et maksimum, der angives på de årlige finanslove.
 
-Stk. 5. Kulturministeren fastsætter efter forhandling med Kommunernes Landsforening og Københavns og Frederiksberg Kommuner nærmere regler om ordningen for små storbyteatre
+Stk. 5. Kulturministeren fastsætter efter forhandling med Kommunernes Landsforening og Københavns og Frederiksberg Kommuner nærmere regler om ordningen for små storbyteatre.
+
+Stk. 6. Kulturministeren kan i forbindelse med indgåelse af regionale kulturaftaler fravige bestemmelserne i stk. 1-5 og i § 16.
 
 ## Kapitel 8
 
