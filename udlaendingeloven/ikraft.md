@@ -72,7 +72,7 @@ Stk. 5. § 1, nr. 1 og 2, finder ikke anvendelse for udlændinge, der inden diss
 
 § 4
 
-(ophævet)
+(Ophævet)
 
 Lov nr. 290 af 24. april 1996 indeholder følgende bestemmelse:
 
@@ -98,7 +98,7 @@ Denne lov træder i kraft den 1. januar 1997.
 
 § 32
 
-(udeladt)
+(Udeladt)
 
 Stk. 2. Klager over Flygtningenævnets afgørelser, der er indgivet til Folketingets Ombudsmand inden lovens ikrafttræden, behandles efter de hidtil gældende bestemmelser.
 
@@ -139,3 +139,13 @@ Lov nr. 424 af 31. maj 2000 indeholder følgende bestemmelse:
 Stk. 1. Loven træder i kraft dagen efter bekendtgørelsen i Lovtidende.
 
 Stk. 2. Udlændingelovens § 9, stk. 1, nr. 2, stk. 2, nr. 7, stk. 4, 1. og 4. pkt., stk. 7, 1. og 3. pkt., og stk. 8-11, og § 19, stk. 1, nr. 5, 1. pkt., og nr. 6, 1. pkt., som affattet henholdsvis ændret ved denne lovs § 1, nr. 1-10 og 15, finder ikke anvendelse for udlændinge, der inden lovens ikrafttræden har indgivet ansøgning om eller er meddelt opholdstilladelse.
+
+Lov nr. 458 af 7. juni 2001 indeholder følgende bestemmelse:
+
+§ 2
+
+Stk. 1. Loven træder i kraft den 1. august 2001. § 1, nr. 8, træder i kraft dagen efter bekendtgørelsen i Lovtidende. § 1, nr. 10-13, træder i kraft den 1. juli 2001.
+
+Stk. 2. Udlændingelovens § 25 a, stk. 1, nr. 1, § 35, stk. 2, og § 36, stk. 3, som affattet ved denne lovs § 1, nr. 1, 3 og 5, finder alene anvendelse, såfremt det forhold, der begrunder udvisningen, er begået efter lovens ikrafttræden.
+
+Stk. 3. Udlændingelovens § 36, stk. 4, som affattet ved denne lovs § 1, nr. 5, finder ikke anvendelse for udlændinge, der inden lovens ikrafttræden har indgivet ansøgning om opholdstilladelse efter udlændingelovens § 7.

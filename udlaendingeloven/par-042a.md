@@ -18,11 +18,11 @@ Stk. 5. Udlændingestyrelsen tilvejebringer og driver indkvarteringssteder for u
 
 Stk. 6. Indenrigsministeren fastsætter regler for kommunernes deltagelse i finansieringen af tilvejebringelsen og driften af indkvarteringssteder for udlændinge, der er nævnt i stk. 1 eller 2, jf. stk. 3, herunder om statens dækning af udgifterne.
 
-Stk. 7. Udlændingestyrelsen kan bestemme, at en i stk. 1 eller 2, jf. stk. 3, nævnt udlænding, uanset om den pågældende selv har tilstrækkelige midler til sit underhold, skal tage ophold efter Udlændingestyrelsens nærmere bestemmelse. En sådan udlænding må ikke gennem voldelig eller truende adfærd over for personer, der udfører opgaver med driften af et indkvarteringssted for udlændinge, lægge hindringer i vejen for udførelsen af disse personers hverv.
+Stk. 7. Udlændingestyrelsen kan bestemme, at en i stk. 1 eller 2, jf. stk. 3, nævnt udlænding, uanset om den pågældende selv har tilstrækkelige midler til sit underhold, skal tage ophold efter Udlændingestyrelsens nærmere bestemmelse. En sådan udlænding må ikke gennem voldelig eller truende adfærd over for personer, der udfører opgaver med driften af et indkvarteringssted for udlændinge, eller over for personer, der i øvrigt opholder sig på indkvarteringsstedet, lægge hindringer i vejen for udførelsen af opgaver med driften af indkvarteringsstedet eller for opretholdelsen af ro og orden på indkvarteringsstedet.
 
 Stk. 8. Udlændingestyrelsen kan bestemme, at en udlænding, der er omfattet af stk. 1 eller 2, jf. stk. 3, ikke skal have dækket sine udgifter til underhold bortset fra kost, logi og sundhedsmæssige ydelser, såfremt
 
-1) udlændingen udebliver fra en afhøring med Udlændingestyrelsen eller politiet, hvortil den pågældende er indkaldt,
+1) udlændingen uden rimelig grund udebliver fra en afhøring med Udlændingestyrelsen eller politiet, hvortil den pågældende er indkaldt,
 
 2) udlændingen har udvist voldelig eller truende adfærd over for personer, der udfører opgaver med driften af et indkvarteringssted for udlændinge, eller over for de personer, der i øvrigt opholder sig på indkvarteringsstedet,
 
