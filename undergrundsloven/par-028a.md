@@ -1,0 +1,5 @@
+§ 28 a. Tilladelser og godkendelser efter denne lov vedrørende projekter på havområdet, der må antages at påvirke miljøet i væsentlig grad, kan kun meddeles på baggrund af en vurdering af de miljømæssige konsekvenser, og efter at den berørte offentlighed og de berørte myndigheder og organisationer har haft lejlighed til at udtale sig.
+
+Stk. 2. Økonomi- og erhvervsministeren kan fastsætte nærmere regler om, hvilke projekter der er omfattet af stk. 1, og om, hvilke mindsteoplysninger og eventuelle undersøgelser der er nødvendige for, at en vurdering af de miljømæssige konsekvenser kan foretages.
+
+Stk. 3. Ministeren kan endvidere fastsætte regler om underretning og høring af den berørte offentlighed og de berørte myndigheder og organisationer.
