@@ -1,9 +1,7 @@
-Givet på Christiansborg Slot, den 14. juni 1995
+Skatteministeriet, den 3. august 1998
 
-Under Vor Kongelige Hånd og Segl
+Ole Stavad
 
-MARGRETHE R.
+/John Fuhrmann
 
-/Carsten Koch
-
-Ingen
+Lov nr. 1098 af 29. december 1997 om ændring af forskellige skatte- og afgiftslove (ændret klagestruktur m.v.) trådte i kraft den 1. april 1998.
