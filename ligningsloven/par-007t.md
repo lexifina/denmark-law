@@ -1,0 +1,1 @@
+§ 7 T. Til den skattepligtige indkomst medregnes ikke udbetalinger m.v. fra stater, fonde, organisationer m.v., såfremt de er udbetalt som følge af nazistiske overgreb mod personer under Anden Verdenskrig.
