@@ -40,7 +40,7 @@ Stk. 2. Loven har virkning for kompensationsbeløb, der vedrører beskæftigelse
 
 Stk. 3. Kompensationsbeløb, der vedrører perioden 1. januar 1988 til 1. januar 1997, forrentes fra den dato, hvor de skulle have været udbetalt, hvis arbejdsgiveren havde været momsregistreret. Forrentningen sker indtil den dag, beløbet kan hæves, med en årlig rente, der svarer til den til enhver tid fastsatte officielle diskonto med et tillæg på 6 pct.
 
-Lov nr. 475 af 10. juni 1997 indeholder i § 9 følgende bestemmelser:
+Lov nr. 475 af 10. juni 1997 som ændret ved § 5 i lov nr. 414 af 26. juni 1998 indeholder i § 9 følgende bestemmelser:
 
 § 9
 
@@ -56,7 +56,7 @@ Stk. 5. Personer omfattet af § 92 a i lov om forsikringsvirksomhed, § 5 f i lo
 
 Stk. 6. Personer, der i medfør af § 11 i lov om fondsmæglerselskaber nr. 1071 af 20. december 1995 varetager hverv, som ikke er omfattet af §§ 11 a-11 d, som affattet ved denne lovs § 5, nr. 4, kan fortsætte hermed indtil udløbet af den valg- eller funktionsperiode, der var påbegyndt inden den 9. april 1997. Hvis en af bestemmelsen omfattet person efter denne dato påbegynder en valg- eller funktionsperiode i et hverv, der ikke er omfattet af §§ 11 a-11 d i lov om fondsmæglerselskaber, skal den pågældende fratræde senest den 1. februar 1998.
 
-Stk. 7. Uanset reglerne i denne lov, kan direktører, vicedirektører, underdirektører og dermed ligestillede samt filialbestyrere i finansielle institutter omfattet af denne lov varetage bestyrelseshverv i Danmarks Skibskreditfond, Dansk Eksportfinansiering, Dansk Landbrugs Realkreditfond, Dansk Udviklingsfinansiering A/S, Finansieringsinstituttet for Hoteller m.v., Finansieringsinstituttet for Industri og Håndværk A/S, Foreningen Norden, Landsbankernes Reallånefond, Totalkredit Realkreditfond og Bornholms Erhvervsfond.
+Stk. 7. Uanset reglerne i denne lov, kan direktører, vicedirektører, underdirektører og dermed ligestillede samt filialbestyrere i finansielle institutter omfattet af denne lov varetage bestyrelseshverv i Danmarks Skibskreditfond, Dansk Eksportfinansiering, Dansk Landbrugs Realkreditfond, Dansk Udviklingsfinansiering A/S, Finansieringsinstituttet for Hoteller m.v., Finansieringsinstituttet for Industri og Håndværk A/S, Foreningen Norden, Landsbankernes Reallånefond, Totalkredit Realkreditfond, Grønlandsbanken A/S og Bornholms Erhvervsfond.
 
 Stk. 8. Personer omfattet af § 12 c, stk. 3, i lov om værdipapirhandel m.v., som affattet ved denne lovs § 4, nr. 3, der den 1. januar 1998 varetager hverv som interne revisions- eller vicerevisionschefer i selskaber uden for koncernen, kan fortsætte hermed indtil udløbet af den funktionsperiode, der var påbegyndt den 9. april 1997. Hvis de nævnte personer efter denne dato påbegynder en funktionsperiode som intern revisions- eller vicerevisionschef i et selskab, der ikke omfattes af § 12 c, stk. 3, skal den pågældende fratræde senest den 1. februar 1998.
 
@@ -68,7 +68,7 @@ Stk. 11. Personer ansat i Kommunernes Revisionsafdeling kan dog uanset § 180, s
 
 Stk. 12. Personer, der lovligt før 1. januar 1998 er valgt til at forestå den lovpligtige revision i finansielle institutter omfattet af denne lov, men som ikke er statsautoriseret eller registreret revisor, kan fortsætte med deres hverv til den første ordinære generalforsamling efter 1. januar 1998, på hvilken der træffes afgørelse om godkendelse af et årsregnskab.
 
-I lov nr. 803 af 24. oktober 1997 indeholder § 15 følgende bestemmelser:
+I lov nr. 803 af 24. oktober 1997 som ændret ved § 5, i lov nr. 1081 af 29. december 1997 indeholder § 15 følgende bestemmelser:
 
 § 15
 
@@ -78,7 +78,7 @@ Stk. 2. For personer omfattet af bidragspligten efter lov om arbejdsmarkedsfonde
 
 Stk. 3. For personer omfattet af bidragspligten efter lov om arbejdsmarkedsfonde § 7, stk. 1, litra c, jf. § 8, stk. 1, litra e, og § 11, stk. 8, og § 7, stk. 3, opkræves der midlertidig pensionsopsparing efter § 17 b, stk. 1, i lov om Arbejdsmarkedets Tillægspension, som affattet ved denne lovs § 1, nr. 1, for indkomståret 1998. For personer, hvis indkomstår 1998 er startet før den 1. november 1997, udgør pensionsopsparingen dog kun 1/12 af den for indkomståret 1998 beregnede pensionsopsparing for hver måned fra den 1. november 1997 at regne og indtil indkomstårets udløb.
 
-Stk. 4. For personer omfattet af denne lovs §§ 2-4 opkræves der midlertidig pensionsopsparing efter § 17 b, stk. 4, i lov om Arbejdsmarkedets Tillægspension, som affattet ved denne lovs § 1, nr. 1, af ydelser fra arbejdsløshedskasserne, der udbetales for uge 2 til og med uge 53 i 1998.
+Stk. 4. For personer omfattet af denne lovs §§ 2-4 opkræves der midlertidig pensionsopsparing efter § 17 b, stk. 4, i lov om Arbejdsmarkedets Tillægspension, som affattet ved denne lovs § 1, nr. 1, af ydelser fra arbejdsløshedskasserne, der udbetales i perioden fra og med den 5. januar 1998 til og med den 31. december 1998.
 
 I lov nr. 980 af 17. december 1997 indeholder § 42 følgende bestemmelse:
 
@@ -93,3 +93,103 @@ Stk. 3. § 32 træder i kraft den 29. juni 1998.
 Stk. 4. § 25, nr. 1, har virkning for indstillinger til socialministeren for 2000 og frem.
 
 Stk. 5. Den 1. juli 1998 ophæves lov om social bistand, jf. lovbekendtgørelse nr. 110 af 26. februar 1996, lov om kommunal aktivering, jf. lovbekendtgørelse nr. 36 af 26. januar 1996, lov om styrelse af sociale og visse sundhedsmæssige anliggender, jf. lovbekendtgørelse nr. 552 af 10. juli 1991, og lov om Den Sociale Ankestyrelse, jf. lovbekendtgørelse nr. 530 af 13. august 1986.
+
+Lov nr. 424 af 26. juni 1998 indeholder i § 9 følgende bestemmelse:
+
+§ 9
+
+Loven træder i kraft dagen efter bekendtgørelsen i Lovtidende,
+
+Stk. 2.
+
+Stk. 3.
+
+Stk. 4. I lov nr. 468 af 1. juli 1998 indeholder § 13 følgende bestemmelser:
+
+§ 13
+
+Stk. 1. Loven træder i kraft dagen efter bekendtgørelsen i Lovtidende. Dog træder §§ 2-7 først i kraft den 1. januar 1999.
+
+Stk. 2. Loven har virkning for opkrævning af særlig pensionsopsparing fra og med indkomståret 1999, jf. stk. 3 og 4. § 1, nr. 2-4, § 8 og § 11 har virkning for opkrævning af midlertidig pensionsopsparing fra og med indkomståret 1998. § 1, nr. 1, og § 12, nr. 1, har virkning for indbetalinger til Arbejdsmarkedets Tillægspension foretaget efter den 31. juli 1998.
+
+Stk. 3. For personer omfattet af bidragspligten efter lov om arbejdsmarkedsfonde § 7, stk. 1, litra a og b samt litra c, jf. § 8, stk. 1, litra e, og § 11, stk. 1, opkræves der særlig pensionsopsparing efter § 17 f, stk. 1, og § 17 f, stk. 2, 1. pkt., i lov om Arbejdsmarkedets Tillægspension som affattet ved denne lovs § 1, nr. 6, af løn, vederlag m.v., der udbetales fra og med den 1. januar 1999, samt af løn, vederlag m.v., der udbetales før den 1. januar 1999, i det omfang lønnen m.v. ved indeholdelse af foreløbig skat efter kildeskatteloven henregnes til en periode efter den 31. december 1998.
+
+Stk. 4. For personer omfattet af bidragspligten efter lov om arbejdsmarkedsfonde § 7, stk. 1, litra c, jf. § 8, stk. 1, litra e, og § 11, stk. 8, og § 7, stk. 3, opkræves der særlig pensionsopsparing efter § 17 f, stk. 1, og § 17 f, stk. 2, 2. pkt., i lov om Arbejdsmarkedets Tillægspension som affattet ved denne lovs § 1, nr. 6, fra og med indkomståret 1999. For personer, hvis indkomstår 1999 er startet før den 1. august 1998, udgør pensionsopsparingen dog kun 1/12 af den for indkomståret 1999 beregnede pensionsopsparing for hver måned fra den 1. august 1998 at regne og indtil indkomstårets udløb.
+
+I lov nr. 490 af 1. juli 1998 indeholder § 6 og § 7 følgende bestemmelser:
+
+§ 6
+
+Loven træder i kraft den 1. august 1998 og har regnskabsmæssig virkning fra og med regnskabsåret 1998.
+
+§ 7
+
+Loven gælder ikke for Færøerne og Grønland. §§ 1, 2 og 5 kan ved kongelig anordning sættes i kraft for Grønland med de afvigelser, som de særlige grønlandske forhold tilsiger.
+
+2) Loven er trådt i kraft den 1. januar 1996, jf. bekendtgørelse nr. 878 af 13. november 1995.
+
+3) Loven ern trådt i kraft den 1. januar 1996, jf. bekendtgørelse nr. 1132 af 20. december 1995.
+
+Bilag A
+
+Følgende lande er omfattet af zone A
+
+Australien
+
+Belgien
+
+Canada
+
+Danmark
+
+De Forende Stater (USA)
+
+Det Forenede Kongerige (Storbritannien)
+
+Finland
+
+Forbundsrepublikken Tyskland
+
+Frankrig
+
+Grækenland
+
+Irland
+
+Island
+
+Italien
+
+Japan
+
+Korea
+
+Luxembourg
+
+Mexico
+
+Nederlandene (Holland)
+
+New Zealand
+
+Norge
+
+Polen
+
+Portugal
+
+Saudi Arabien
+
+Schweiz
+
+Spanien
+
+Sverige
+
+Tjekkiet
+
+Tyrkiet
+
+Ungarn
+
+Østrig

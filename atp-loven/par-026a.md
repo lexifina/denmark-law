@@ -17,3 +17,7 @@ Stk. 8. Stk. 1 og 2 finder ikke anvendelse på aktiver omfattet af § 26, stk. 2
 Stk. 9. Stk. 1, 2 og 4 finder ikke anvendelse på investeringer i datterselskaber, der omfattes af § 26, stk. 4-6, samt på investeringer i selskaber, hvis aktivitet efter deres vedtægter er begrænset til at foretage investeringer i aktiver omfattet af § 26, stk. 2, nr. 1-3. I sidstnævnte tilfælde kan investeringen i forhold til bestemmelserne i § 26, stk. 7, 10 og 11, henføres til § 26, stk. 2, nr. 1-3.
 
 Stk. 10. Bestyrelsen fastsætter nærmere bestemmelser om Arbejdsmarkedets Tillægspensions valutakurs- og renterisikoeksponering.
+
+## Kapitel 9
+
+Tilsyn

@@ -1,3 +1,7 @@
 Bekendtgørelse af lov om Arbejdsmarkedets Tillægspension
 
-Herved bekendtgøres lov om Arbejdsmarkedets Tillægspension, jf. lovbekendtgørelse nr. 4 af 8. januar 1996, med de ændringer, der følger af lov nr. 1197 af 27. december 1996, § 8 i lov nr. 475 af 10. juni 1997, § 1 i lov nr. 803 af 24. oktober 1997 og § 1 i lov nr. 980 af 17. december 1997.
+Herved bekendtgøres lov om Arbejdsmarkedets Tillægspension, jf. lovbekendtgørelse nr. 66 af 30. januar 1998, med de ændringer, der følger af § 8 i lov nr. 424 af 26. juni 1998, § 1 i lov nr. 468 af 1. juli 1998 og § 4 i lov nr. 490 af 1. juli 1998.
+
+## Kapitel 1
+
+Indledning

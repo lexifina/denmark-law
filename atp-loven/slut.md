@@ -1,9 +1,5 @@
-Arbejdsministeriet, den 30. januar 1998
+Arbejdsministeriet, den 20. oktober 1998
 
-Jytte Andersen
+Ove Hygum
 
-/ E. Edelberg
-
-------------
-
-1) Fra 1. juli 1998 er bestemmelsen sålydende:
+/E. Edelberg
