@@ -1,3 +1,3 @@
 Bekendtgørelse af lov om folkekirkens økonomi
 
-Herved bekendtgøres lov nr. 645 af 19. december 1984 om folkekirkens økonomi med de ændringer, der følger af § 1 i lov nr. 223 af 13. april 1988 og af lov nr. 334 af 24. maj 1989
+Herved bekendtgøres lov om folkekirkens økonomi, jf. lovbekendtgørelse nr. 470 af 27. juni 1989 med de ændringer, der følger af lov nr. 286 af 29. april 1992
