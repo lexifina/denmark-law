@@ -22,7 +22,27 @@ Lov nr. 399 af 14. juni 1995, der vedrører § 6, indeholder i § 2 følgende ik
 
 Landbrugs- og fiskeriministeren fastsætter tidspunktet for lovens ikrafttræden. Loven kan dog tidligst træde i kraft den 1. januar 1996.
 
-Lov nr. 349 af 2. juni 1999, som vedrører §§ 1, 2, 4, 4a, 6, 7, 10, 12, 20, 22, 27, og 29a, indeholder i § 2 følgende ikrafttrædelsesbestemmelse:
+Lov nr. 349 af 2. juni 1999, som vedrører §§ 1, 2, 4, 4 a, 6, 7, 10, 12, 20, 22, 27, og 29 a, indeholder i § 2 følgende ikrafttrædelsesbestemmelse:
+
+§ 2
+
+Ministeren for fødevarer, landbrug og fiskeri fastsætter tidspunktet for lovens ikrafttræden.
+
+Lov nr. 1267 af 20. december 2000, som vedrører § 1 og § 5, indeholder i § 2 følgende ikrafttrædelsesbestemmelse:
+
+§ 2
+
+Stk. 1. § 1, nr. 1, træder i kraft dagen efter bekendtgørelsen i Lovtidende.
+
+Stk. 2. § 1, nr. 2, træder i kraft den 1. juli 2001.
+
+Lov nr. 279 af 25. april 2001, som vedrører § 4 a, indeholder i § 5 følgende ikrafttrædelsesbestemmelse:
+
+§ 5
+
+Loven træder i kraft den 1. juli 2001.
+
+Lov nr. 334 af 16. maj 2001, som vedrører §§ 2, 6, 7, 8, 9 og 23, indeholder i § 2 følgende ikrafttrædelsesbestemmelse:
 
 § 2
 

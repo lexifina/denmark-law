@@ -1,4 +1,4 @@
-§ 4 a. Ministeren for fødevarer, landbrug og fiskeri kan fastsætte regler om offentliggørelse med navns nævnelse af resultater af og sanktioner på grundlag af kontrol, som gennemføres i henhold til loven eller regler udstedt i medfør af loven.
+§ 4 a. Ministeren for fødevarer, landbrug og fiskeri kan fastsætte regler om offentliggørelse med navns nævnelse af resultater samt art og omfang af sanktioner på grundlag af kontrol, som gennemføres i henhold til loven eller regler udstedt i medfør af loven. Ministeren kan herunder fastsætte regler om, at klage ikke har opsættende virkning. Ministeren kan endvidere fastsætte regler om, på hvilken måde og i hvilken form kontrolresultaterne skal gøres tilgængelige for offentligheden på kontrolstedet.
 
 Stk. 2. Ministeren kan fastsætte regler om formen for og omfanget af offentliggørelse, herunder at offentliggørelse kan ske elektronisk. Ministeren kan bestemme, at visse resultater ikke skal offentliggøres.
 
