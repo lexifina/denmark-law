@@ -1,4 +1,4 @@
-Ministeriet for Videnskab, Teknologi og Udvikling, den 10. juli 2003
+Ministeriet for Videnskab, Teknologi og Udvikling, den 23. juni 2004
 
 Helge Sander
 
