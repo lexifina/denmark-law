@@ -1,6 +1,6 @@
-ARBEJDSMINISTERIET, DEN 6. OKTOBER 1982
+Arbejdsministeriet, den 21. januar 1988
 
-GRETHE FENGER MØLLER
+Henning Dyremose
 
 /E. Edelberg
 
