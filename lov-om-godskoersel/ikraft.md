@@ -23,3 +23,9 @@ Lov nr. 1121 af 29. december 1999 indeholder følgende ikrafttrædelsesbestemmel
 § 3
 
 Loven træder i kraft den 1. april 2000.
+
+Lov nr. 407 af 6. juni 2002 indeholder følgende ikrafttrædelsesbestemmelse :
+
+§ 4
+
+Loven træder i kraft den 1. juli 2002.
