@@ -1,1 +1,1 @@
-§ 24 e. (Ophævet)
+§ 24 e. Reglerne om koncernrepræsentation i lov om aktieselskaber gælder ikke for medarbejdere i virksomheder, gennem hvilke Arbejdsmarkedets Tillægspension midlertidigt driver anden virksomhed i henhold til denne lov.

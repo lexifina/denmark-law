@@ -1,3 +1,1 @@
-§ 9 b. Finanstilsynet kan udfærdige nærmere forskrifter om revisionens gennemførelse.
-
-Stk. 2. Finanstilsynet kan pålægge revisionen at give oplysninger om Lønmodtagernes Dyrtidsfonds forhold.
+§ 9 b. En ekstern revisor og en intern revisionschef skal straks meddele Finanstilsynet oplysninger om forhold, der er af afgørende betydning for Lønmodtagernes Dyrtidsfonds fortsatte aktivitet, herunder forhold som revisorerne måtte være gjort bekendt med som led i hvervet som revisor i virksomheder, som Lønmodtagernes Dyrtidsfond har snævre forbindelser med.

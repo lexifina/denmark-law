@@ -1,0 +1,1 @@
+§ 4 b. Bestyrelsen for Lønmodtagernes Dyrtidsfond skal for fondens væsentligste aktivitetsområder udfærdige skriftlige retningslinjer, hvori arbejdsdelingen mellem bestyrelsen og direktøren fastlægges.
