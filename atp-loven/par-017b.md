@@ -1,4 +1,4 @@
-## Kapitel 5 b
+## Kapitel 5 b /NREF/SN502/2)/
 
 ## Midlertidig pensionsopsparing
 
@@ -14,4 +14,4 @@ Stk. 5. Opkrævede beløb efter stk. 1 overføres af de statslige told- og skatt
 
 Stk. 6. Opkrævede beløb efter stk. 4 indbetales til Arbejdsmarkedets Tillægspension.
 
-Stk. 7. Arbejdsministeren kan efter forhandling med skatteministeren fastsætte nærmere regler til gennemførelse af reglerne i stk. 1-3 og 5.
+Stk. 7. Beskæftigelsesministeren kan efter forhandling med skatteministeren fastsætte nærmere regler til gennemførelse af reglerne i stk. 1-3 og 5.

@@ -1,3 +1,1 @@
-§ 27 c. Finanstilsynet afgiver en årlig beretning om tilsynet med Arbejdsmarkedets Tillægspension til arbejdsministeren.
-
-Stk. 2. Finanstilsynet skal endvidere på baggrund af en gennemgang af den i § 19, stk. 1, nævnte opgørelse afgive en særskilt indberetning til arbejdsministeren. Arbejdsmarkedets Tillægspension underrettes om indberetningens indhold.
+§ 27 c. Finanstilsynet afgiver til beskæftigelsesministeren en årlig beretning om tilsynet med Arbejdsmarkedets Tillægspension og en særskilt beretning baseret på en gennemgang af den ansvarshavende aktuars beretning om den aktuarmæssige status i Arbejdsmarkedets Tillægspension, jf. § 24 b, stk. 3. Arbejdsmarkedets Tillægspension underrettes om beretningens indhold.
