@@ -1,5 +1,5 @@
-Bekendtgørelse af lov om afgift af visse emballager samt visse poser af papir eller plast m.v.
+Bekendtgørelse af lov om afgift af visse emballager, poser, engangsservice og pvc-folier
 
-Herved bekendtgøres lov om afgift af visse detailsalgspakninger, jf. lovbekendtgørelse nr. 623 af 30. juni 1994, med de ændringer, der følger af § 11 i lov nr. 1098 af 29. december 1997, § 7 og 9 i lov nr. 1107 af 29. december 1997, som ændret ved § 2 i lov nr. 417 af 26. juni 1998, og lov nr. 422 af 26. juni 1998. Lovbekendtgørelsen gælder først fuldt ud fra den 1. januar 1999, jf. note 3. De indtil 1. januar 1999 gældende bestemmelser er gengivet sidst i lovbekendtgørelsen.
+Hermed bekendtgøres lov om afgift af visse emballager samt visse poser af papir eller plast m.v., jf. lovbekendtgørelse nr. 726 af 7. oktober 1998, som ændret ved lov nr. 912 af 16. december 1998, § 9 i lov nr. 380 af 2. juni 1999, § 23 i lov nr. 165 af 15. marts 2000, § 13 i lov nr. 1029 af 22. november 2000 og lov nr. 1292 af 20. december 2000. Lovbekendtgørelsen gælder først fuldt ud fra den 1. juli 2001, jf. note 4 og 5.
 
 I. Afgiftspligtigt vareområde
