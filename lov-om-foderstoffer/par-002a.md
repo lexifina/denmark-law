@@ -1,0 +1,1 @@
+§ 2a. Ministeren for fødevarer, landbrug og fiskeri kan forbyde eller begrænse dyrkningen af afgrøder, der er bestemt til fodring af dyr, i områder, der har været udsat for forurening, herunder radioaktivt nedfald. Ministeren kan forbyde salg og anvendelse af foderstoffer, der er dyrket i sådanne områder.
