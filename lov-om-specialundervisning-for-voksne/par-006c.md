@@ -6,7 +6,7 @@
 
 3) 2 medlemmer udpeget af de handicappedes organisationer.
 
-4) 2 medlemmer valgt af og blandt undervisningsinstitutionens lærere og øvrige medarbejdere. Heraf skal mindst en være lærer.
+4) 2 medlemmer valgt af og blandt undervisningsinstitutionens lærere og øvrige medarbejdere. Heraf skal mindst én være lærer.
 
 5) 1 medlem valgt af og blandt undervisningsinstitutionens deltagere.
 
