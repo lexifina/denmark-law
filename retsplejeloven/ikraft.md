@@ -1,3 +1,11 @@
+Lov nr. 201 af 18. maj 1960 (Faderskabssager) indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 2
+
+Stk. 1. Denne lov træder i kraft den 1. januar 1961. Loven gælder ikke for Færøerne og Grønland. Loven finder kun anvendelse på sager vedrørende børn, der fødes efter lovens ikrafttræden, dog at bestemmelsen i § 456 r også finder anvendelse på sager om børn født før lovens ikrafttræden, herunder sager om børn, for hvis vedkommende én eller flere mænd er anset som bidragspligtige. I øvrigt gælder for disse sager de hidtil gældende regler.
+
+Stk. 2. (Udelades)
+
 Lov nr. 277 af 9. juni 1982 (Advokater m.v. Tilsyn med eksekutorer) indeholder følgende ikrafttrædelsesbestemmelser:
 
 § 3
@@ -40,17 +48,17 @@ Lov nr. 402 af 26. juni 1998 (Rekruttering af dommere, dommerfuldmægtiges ansæ
 
 § 9
 
-(Udelades)
+Loven træder i kraft den 1. juli 1999. (2. pkt. udelades)
 
 § 10
 
-Stk. 1. Er en af de stillinger, der er nævnt i retsplejelovens § 43 a som affattet ved denne lovs § 1, nr. 12, opslået ledig inden lovens ikrafttræden, behandles stillingsansøgninger af justitsministeren efter den hidtil gældende ordning.
+Stk. 1. (Udelades)
 
 Stk. 2. Retsplejelovens § 52 som affattet ved denne lovs § 1, nr. 21, gælder også fuldmægtige, der før lovens ikrafttræden er ansat med et ansættelsesområde, der omfatter andet end domstolene.
 
 Stk. 3. Retsplejelovens § 52 som affattet ved denne lovs § 1, nr. 21, gælder ikke for fuldmægtige, der før lovens ikrafttræden er ansat med et enkelt dommerembede som ansættelsesområde.
 
-Stk. 4. Ved første beskikkelse af medlemmer til Dommerudnævnelsesrådet, jf. retsplejelovens § 43 b som affattet ved denne lovs § 1, nr. 12, beskikkes landsdommeren, byretsdommeren og advokaten samt deres suppleanter for en periode af 2 år med adgang til genbeskikkelse.
+Stk. 4. (Udelades)
 
 Lov nr. 229 af 21. april 1999 (Beslaglæggelse, edition, fotoforevisning, konfrontation, efterlysning og observation samt prøvesagsordning for advokater m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
 
@@ -118,35 +126,7 @@ Stk. 3. Justitsministeren fastsætter tidspunktet for ikrafttrædelsen af retspl
 
 Stk. 4. (Udelades)
 
-Lov nr. 381 af 6. juni 2002 (Forbedret vidnebeskyttelse) indeholder følgende ikrafttrædelsesbestemmelse:
-
-§ 2
-
-Stk. 1. Loven træder i kraft dagen efter bekendtgørelsen i Lovtidende.
-
-Stk. 2. Retsplejelovens § 748, stk. 5, § 835, stk. 2, §§ 841 og 848 som ændret henholdsvis affattet ved denne lovs § 1 finder anvendelse i sager, som ikke er endeligt afgjort ved lovens ikrafttræden.
-
-Lov nr. 228 af 2. april 2003 (Børnepornografi, seksuel udnyttelse af børn, salg af børn og gennemførelse af straffesager om seksuelt misbrug af børn m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
-
-§ 4
-
-Loven træder i kraft dagen efter bekendtgørelsen i Lovtidende.
-
-Lov nr. 229 af 2. april 2003 (Revision af regler om midlertidig beskikkelse af advokater som landsdommere eller byretsdommere m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
-
-§ 3
-
-Loven træder i kraft den 1. juli 2003.
-
-Lov nr. 436 af 10. juni 2003 (Bekæmpelse af rockerkriminalitet og anden organiseret kriminalitet) indeholder følgende ikrafttrædelsesbestemmelse:
-
-§ 3
-
-Stk. 1. Loven træder i kraft dagen efter bekendtgørelsen i Lovtidende.
-
-Stk. 2. Lovens § 2, nr. 1-3, 6, 7 og 18-26, finder anvendelse i sager, som ikke er endeligt afgjort ved lovens ikrafttræden.
-
-Lov nr. 456 af 10. juni 2003 (Forbrugerklageloven) indeholder følgende ikrafttrædelsesbestemmelse:
+Lov nr. 456 af 10. juni 2003 om forbrugerklager indeholder følgende ikrafttrædelsesbestemmelse:
 
 § 20
 
@@ -156,8 +136,72 @@ Stk. 2. (Udelades)
 
 Stk. 3. (Udelades)
 
-Lov nr. 458 af 10. juni 2003 (Samling af en række sikkerhedsopgaver i Sikkerhedsstyrelsen) indeholder følgende ikrafttrædelsesbestemmelse:
+Lov nr. 215 af 31. marts 2004 (Offentlighed i retsplejen) indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 8
+
+Stk. 1. Loven træder i kraft den 1. juli 2004.
+
+Stk. 2. Retsplejelovens § 41 b som affattet ved denne lovs § 1, nr. 15, og retsplejelovens § 1017 d som affattet ved denne lovs § 1, nr. 42, finder anvendelse på domme og kendelser, der er afsagt efter lovens ikrafttræden.
+
+Stk. 3. Retsplejelovens § 41 f, stk. 6, 1. og 3. pkt., som affattet ved denne lovs § 1, nr. 15, finder også anvendelse på dokumenter og udskrifter, der før lovens ikrafttræden er udleveret i medfør af den hidtil gældende bestemmelse i retsplejelovens § 41 a.
+
+Lov nr. 216 af 31. marts 2004 (Pant og udlæg i andelsboliger m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 4
+
+Justitsministeren fastsætter tidspunktet for lovens ikrafttræden.
+
+Lov nr. 218 af 31. marts 2004 (Ændring af strafferammer og bestemmelser om straffastsættelse m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 3
+
+Loven træder i kraft dagen efter bekendtgørelsen i Lovtidende.
+
+Lov nr. 352 af 19. maj 2004 (It-kriminalitet m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 5
+
+Loven træder i kraft den 1. juli 2004.
+
+Lov nr. 443 af 9. juni 2004 (Straffeprocessuelle tvangsindgreb over for børn under den kriminelle lavalder) indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 2
+
+Loven træder i kraft den 1. juli 2004.
+
+Lov nr. 444 af 9. juni 2004 om politiets virksomhed indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 25
+
+Loven træder i kraft den 1. august 2004.
+
+Lov nr. 446 af 9. juni 2004 (Regelforenkling på det familieretlige område m.v.) indeholder følgende ikrafttrædelsesbestemmelser:
 
 § 9
 
-Loven træder i kraft den 1. januar 2004.
+Stk. 1. Loven træder i kraft den 1. oktober 2004, jf. dog §§ 10 og 11.
+
+Stk. 2-7. (Udelades)
+
+§ 10
+
+(Udelades)
+
+§ 11
+
+(Udelades)
+
+Lov nr. 447 af 9. juni 2004 (Digital kommunikation i retsplejen, kendelser med begrænset sagsfremstilling, regler om vidneforvarede m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 5
+
+Stk. 1. Loven træder i kraft efter justitsministerens nærmere bestemmelse. Lovens § 1, nr. 1, 2, 8-11 og 13-16, træder dog i kraft den 1. juli 2004.
+
+Stk. 2. (Udelades)
+
+Lov nr. 450 af 9. juni 2004 (Forenklet inkassoproces) indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 3
+
+Loven træder i kraft den 1. januar 2005.

@@ -1,6 +1,6 @@
-Justitsministeriet, den 30. september 2003
+Justitsministeriet, den 21. september 2004
 
-Brian Mikkelsen
+Lene Espersen
 
 /Jens Røn
 
@@ -18,11 +18,13 @@ Kap. 1 a. | Procesbevillingsnævnet ............................................
 
 Kap. 2. | Retsmøder ................................................................... | §§ | 28-32 b
 
-Kap. 3. | Retsbøger .................................................................... | §§ | 33-41 a
+Kap. 3. | Retsbøger og sagens dokumenter .................................. | §§ | 33-40
+
+Kap. 3 a. | Aktindsigt ..................................................................... | §§ | 41- 41 g
 
 Kap. 4. | Dommere, justitssekretærer, fuldmægtige m.m. .............. | §§ | 42-58
 
-Kap. 5. | Tilfælde, hvor rettens personer skal eller kan vige deres sæde ............................................................................ | §§ | 60-67
+Kap. 5. | Tilfælde, hvor rettens personer skal eller kan vige deres sæde ;........................................................................ .... | §§ | 60-67
 
 Andet afsnit. Nævningers og domsmænds udtagelse
 
@@ -38,7 +40,7 @@ Kap. 9 a. | Udtagelse af domsmænd for de enkelte sager ................ | §§ 
 
 Tredje afsnit. Udtagelse af sagkyndige retsmedlemmer
 
-Kap. 9 b. | §§ | 92-94
+Kap. 9 b. | ;............................................................................ ........ | §§ | 92-94
 
 Fjerde afsnit. Anklagemyndigheden
 
@@ -46,21 +48,21 @@ Kap. 10. | Anklagemyndigheden ..................................................
 
 Femte afsnit. Politimyndigheden
 
-Kap. 11. | §§ | 108-118
+Kap. 11. | ;............................................................................ ........ | §§ | 109-118
 
 Sjette afsnit. Advokater
 
-Kap. 12. | Beskikkelse som advokat - Udøvelse af advokatvirksomhed ...................................................... | §§ | 119-130
+Kap. 12. | Beskikkelse som advokat - Udøvelse af advokatvirksomhed ........................................................................ | §§ | 119-130
 
-Kap. 13. | Advokaternes møderet for domstolene - Autoriserede advokatfuldmægtige ............................... | §§ | 131-136
+Kap. 13. | Advokaternes møderet for domstolene - Autoriserede advokatfuldmægtige ...................................................... | §§ | 131-136
 
 Kap. 14. | Ophør af retten til at udøve advokatvirksomhed ............ | §§ | 137-142
 
-Kap. 15. | Advokatsamfundet og Advokatnævnet .......................... | §§ | 143-145 a
+Kap. 15. | Advokatsamfundet og Advokatnævnet .......................... | §§ | 143- 145 a
 
-Kap. 15 a. | Salærklager .................................................................. | §§ | 146-147 a
+Kap. 15 a. | Salærklager .................................................................. | §§ | 146- 147 a
 
-Kap. 15 b. | Disciplinærsager ........................................................... | §§ | 147 b-147 f
+Kap. 15 b. | Disciplinærsager ........................................................... | §§ | 147 b- 147 g
 
 Anden bog. Fælles bestemmelser for borgerlige sager og straffesager
 
@@ -68,7 +70,7 @@ Kap. 16. | Almindelige bestemmelser om procesmåden .................. | §§ | 
 
 Kap. 17. | Forkyndelser m.v. ........................................................ | §§ | 153-165
 
-Kap. 18. | Vidner .......................................................................... | §§ | 168-191
+Kap. 18. | Vidner ;.......................................................................... | §§ | 168-191
 
 Kap. 19. | Syn og skøn ................................................................. | §§ | 196-211
 
@@ -106,15 +108,15 @@ Andet afsnit. Rettergangsmåden
 
 Kap. 32. | Almindelige bestemmelser ............................................. | §§ | 337-347
 
-Kap. 33. | Sagsforberedelse i 1. instans ......................................... | §§ | 348-361 a
+Kap. 33. | Sagsforberedelse i 1. instans ......................................... | §§ | 348- 361 a
 
-Kap. 34. | Domsforhandling i 1. instans .......................................... | §§ | 362-366 a
+Kap. 34. | Domsforhandling i 1. instans .......................................... | §§ | 362-366
 
 Kap. 35. | Genoptagelse ............................................................... | § | 367
 
-Kap. 36. | Anke ............................................................................ | §§ | 368-388
+Kap. 36. | Anke ;........................................................................ .... | §§ | 368-388
 
-Kap. 37. | Kære ........................................................................... | §§ | 389-398 a
+Kap. 37. | Kære ;........................................................................... | §§ | 389- 398 a
 
 Kap. 38. | Ekstraordinær genoptagelse og anke ............................. | § | 399
 
@@ -136,7 +138,11 @@ Kap. 43 b. | Prøvelse af beslutning om adoption uden samtykke ........ | §§ |
 
 Kap. 44. | Fremgangsmåden ved at erhverve mortifikations- eller ejendomsdom ....................................................... | §§ | 476-477
 
-Tredje afsnit. Tvangsfuldbyrdelse
+Tredje afsnit. Betalingspåkrav
+
+Kap. 44 a. | ;............................................................................ ........ | §§ | 477 a- 477 g
+
+Fjerde afsnit. Tvangsfuldbyrdelse
 
 Kap. 45. | Grundlaget for tvangsfuldbyrdelse ................................. | §§ | 478-486
 
@@ -148,7 +154,7 @@ Kap. 48. | Særregler om tvangsfuldbyrdelse af andre krav end pengekrav ........
 
 Kap. 49. | Almindelige bestemmelser for tvangsauktion .................. | §§ | 538-543
 
-Kap. 50. | Tvangsauktion over løsøre ............................................ | §§ | 544-559
+Kap. 50. | Tvangsauktion over løsøre ............................................ | §§ | 544-559 c
 
 Kap. 51. | Tvangsauktion over fast ejendom .................................. | §§ | 560-582
 
@@ -160,15 +166,13 @@ Kap. 54. | Brugeligt pant ......................................................
 
 Kap. 55. | Umiddelbare fogedforretninger ...................................... | §§ | 596-600
 
-Fjerde afsnit. (Ophævet)
-
 Femte afsnit. De foreløbige retsmidler
 
-Kap. 56. | Arrest .......................................................................... | §§ | 627-640
+Kap. 56. | Arrest ;.......................................................................... | §§ | 627-640
 
-Kap. 57. | Forbud ......................................................................... | §§ | 641-652
+Kap. 57. | Forbud ;......................................................................... | §§ | 641-652
 
-Kap. 57 a. | Bevissikring ved krænkelse af immaterialrettigheder m.v. ............................................................................. ....... | §§ | 653-653 d
+Kap. 57 a. | Bevissikring ved krænkelse af immaterialrettigheder m.v. ;............................................................................ ........ | §§ | 653-653 d
 
 Sjette afsnit. Skifte af fællesbo m.v.
 
@@ -190,7 +194,7 @@ Kap. 63. | Værneting og forening af straffesager ............................. 
 
 Kap. 64. | (Ophævet)
 
-Kap. 65. | Påtalen ......................................................................... | §§ | 718-728
+Kap. 65. | Påtalen ;......................................................................... | §§ | 718-728
 
 Kap. 66. | Sigtede og hans forsvar ................................................. | §§ | 729-741
 
@@ -208,7 +212,7 @@ Kap. 70. | Varetægtsfængsling ................................................
 
 Kap. 71. | Indgreb i meddelelseshemmeligheden, observation og dataaflæsning ................................................................ | §§ | 780-791 b
 
-Kap. 72. | Legemsindgreb ............................................................. | §§ | 792-792 f
+Kap. 72. | Legemsindgreb ............................................................. | §§ | 792- 792 f
 
 Kap. 73. | Ransagning ................................................................... | §§ | 793-800
 
@@ -218,7 +222,7 @@ Kap. 75. | Personundersøgelser ................................................
 
 Kap. 75 a. | Andre efterforskningsskridt ........................................... | §§ | 812-819
 
-Kap. 75 b. | (Ophævet)
+Kap. 75 b. | Indgreb over for personer under 15 år .......................... | §§ | 821 a- 821 g
 
 Tredje afsnit. Tiltale og domsforhandling ved landsret
 
@@ -254,17 +258,17 @@ Kap. 87. | (Ophævet)
 
 Kap. 88. | Regler om behandlingen af private straffesager ............... | §§ | 989-990
 
-Kap. 89. | Påtale af borgerlige krav under straffesager ................... | §§ | 991-996 a
+Kap. 89. | Påtale af borgerlige krav under straffesager ................... | §§ | 991- 996 a
 
 Syvende afsnit. Fuldbyrdelsen af domme i straffesager
 
-Kap. 90. | §§ | 997-1006
+Kap. 90. | ;............................................................................ ........ | §§ | 997-1006
 
 Ottende afsnit. Sagsomkostninger og rettergangsbøder i straffesager
 
-Kap. 91. | Sagsomkostninger ........................................................ | §§ | 1007-1014 a
+Kap. 91. | Sagsomkostninger ........................................................ | §§ | 1007- 1014 a
 
-Kap. 92. | Rettergangsbøder m.m. ................................................. | §§ | 1015-1017 c
+Kap. 92. | Rettergangsbøder m.m. ................................................. | §§ | 1015-1017 d
 
 Niende afsnit.
 
@@ -274,7 +278,7 @@ Tiende afsnit.
 
 Kap. 93 a. | Erstatning i anledning af strafferetlig forfølgning .............. | §§ | 1018 a-1018 h
 
-Kap. 93 b. | Behandling af klager over politipersonalet ...................... | §§ | 1019-1019 m
+Kap. 93 b. | Behandling af klager over politipersonalet ...................... | §§ | 1019- 1019 m
 
 Kap. 93 c. | Straffesager mod politipersonale ................................... | §§ | 1020-1020 i
 
@@ -282,6 +286,6 @@ Kap. 93 d. | Politiklagenævn ..................................................
 
 Femte bog. Slutnings- og overgangsbestemmelser
 
-Kap. 94. | Slutningsbestemmelser .................................................. | §§ | 1022-1023 a
+Kap. 94. | Slutningsbestemmelser .................................................. | §§ | 1022- 1023 a
 
 Kap. 95. | Overgangsbestemmelser ............................................... | §§ | 1024-1043
