@@ -1,0 +1,1 @@
+§ 14 d. Ægtefæller efter medlemmer af tillægspensionsordningen, der har ret til et beløb efter §§ 11 og 12 og samtidig har ret til et beløb efter § 14 b, har alene ret til at få udbetalt det højeste af disse beløb.
