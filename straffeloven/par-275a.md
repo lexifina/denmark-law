@@ -2,4 +2,4 @@
 
 28. kapitel
 
-Berigelsesforbrydelser
+Formueforbrydelser
