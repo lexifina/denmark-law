@@ -1,7 +1,5 @@
-Givet på Christiansborg Slot, den 31. maj 2000
+Undervisningsministeriet, den 5. oktober 2000
 
-Under Vor Kongelige Hånd og Segl
+Margrethe Vestager
 
-Margrethe R.
-
-/Margrethe Vestager
+/Lone Basse
