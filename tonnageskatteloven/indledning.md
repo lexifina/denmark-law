@@ -1,3 +1,5 @@
-Lov om beskatning af rederivirksomhed (tonnageskatteloven)
+Bekendtgørelse af lov om beskatning af rederivirksomhed
 
-VI MARGRETHE DEN ANDEN, af Guds Nåde Danmarks Dronning, gør vitterligt: Folketinget har vedtaget og Vi ved Vort samtykke stadfæstet følgende lov:
+(tonnageskatteloven)
+
+Herved bekendtgøres lov nr. 264 af 8. maj 2002 om beskatning af rederivirksomhed (tonnageskatteloven), med de ændringer, der følger af lov nr. 458 af 9. juni 2004 og lov nr. 460 af 9. juni 2004.
