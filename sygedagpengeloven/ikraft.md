@@ -4,7 +4,7 @@ Lov nr. 386 af 13. juni 1990 (Ændrede reguleringsbestemmelser) indeholder følg
 
 Loven træder i kraft den 1. januar 1991.
 
-Lov nr. 387 af 13. juni 1990 (Kontrol med udbetaling af offentlige ydelser m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
+Lov nr. 387 af 13. juni 1990 (Kontrol med udbetaling af offentlige ydelser m.v.) indeholder følgende ikrafttrædelsesbestemmelse
 
 § 6
 
@@ -44,7 +44,7 @@ Lov nr. 495 af 30. juni 1993. (ATP-bidrag af dagpenge m.v.) indeholder følgende
 
 § 2
 
-Loven træder i kraft den 1. juli 1993 og finderanvendelse på sygdomstilfælde, hvor 1. hele fraværsdag er denne dag eller senere.
+Stk. 1. Loven træder i kraft den 1. juli 1993 og finder anvendelse på sygdomstilfælde, hvor 1. hele fraværsdag er denne dag eller senere.
 
 Stk. 2. Bestemmelsen i § 1, nr. 7, om indbetaling af bidrag til Arbejdsmarkedets Tillægspension træder i kraft den 1. oktober 1993 og har virkning for beregning af dagpenge fra mandag den 4. oktober 1993.
 
@@ -60,13 +60,11 @@ Lov nr. 446 af 1. juni 1994 indeholder følgende ikrafttrædelsesbestemmelse:
 
 § 2
 
-Loven træder i kraft den 1. juli 1994.
-
-Bestemmelserne i § 1, nr. 4-6, finder anvendelse i forbindelse med fravær som følge af graviditet og fødsel efter lovens ikrafttræden.
+Stk. 1. Loven træder i kraft den 1. juli 1994. Bestemmelserne i § 1, nr. 4-6, finder anvendelse i forbindelse med fravær som følge af graviditet og fødsel efter lovens ikrafttræden.
 
 Stk. 2. Socialministeren fremsætter forslag for Folketinget om revision af dagpengelovens § 16 a inden udgangen af folketingsåret 1996-97.
 
-Lov nr.447 af 1. juni 1994 indeholder følgende ikrafttrædelsesbestemmelse:
+Lov nr. 447 af 1. juni 1994 indeholder følgende ikrafttrædelsesbestemmelse:
 
 § 2
 
@@ -82,9 +80,11 @@ Lov nr. 1057 af 20. december 1995 (Forhøjelse m.v. af ATP-bidrag af dagpenge og
 
 § 10
 
-Loven træder i kraft den 1. januar 1997.
+Stk. 1. Loven træder i kraft den 1. januar 1997. .
 
 Stk. 2. De i ...... § 5, nr. 1, anførte bidrag udgør i 1997 150 pct. af det i § 15, stk. 1, i lov om Arbejdsmarkedets Tillægspension fastsatte bidrag.
+
+.
 
 Lov nr. 1110 af 20. december 1995 (Regres for sygedagpengeydelser udbetalt af kommunen) indeholder følgende ikrafttrædelsesbestemmelse:
 
@@ -120,14 +120,116 @@ Lov nr. 1226 af 27. december 1996 (Styrkelse af opfølgningen, ændrede beregnin
 
 § 2
 
-Loven træder i kraft den 1. april 1997
+Stk. 1. Loven træder i kraft den 1. april 1997
 
-Stk. 2. Bestemmelserne i § 1, nr. 2, 2 og 9, træder dog i kraft den 30. december 1996.
+Stk. 2. Bestemmelserne i § 1, nr. 1, 2 og 9, træder dog i kraft den 30. december 1996.
 
 Stk. 3. Bestemmelsen i § 1, nr. 8, træder i kraft den 31. marts 1997 og finder anvendelse, hvor første fraværsdag er den 3. februar 1997 eller senere.
 
-Lov nr. 459 af 10. juni 1997 (Regler om fleksjob m.v.) indeholder følgende ikrattrædelsesbestemmelse:
+Lov nr. 459 af 10. juni 1997 (Regler om fleksjob m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
 
 § 3
 
 Lovens ikrafttræden fastsættes af socialministeren.
+
+Lov nr. 803 af 24. oktober 1997 (Midlertidig pensionsopsparing) indeholder følgende ikrafttrædelsesbestemmelse for ændringen af lov om dagpenge ved sygdom eller fødsel:
+
+§ 15
+
+Stk. 1. Loven træder i kraft dagen efter bekendtgørelsen i Lovtidende, .....
+
+Lov nr. 892 af 3. december 1997 (Dagpenge til forældre med alvorligt syge børn m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 3
+
+Loven træder i kraft den 1. juli 1998.
+
+Lov nr. 893 af 3. december 1997 (Private arbejdsgiveres medfinansiering af statens udgifter til sygedagpenge) indeholder følgende ikrafttrædelses- og overgangsbestemmelser:
+
+§ 3
+
+Stk. 1. Loven træder i kraft mandag den 29. december 1997 og finder anvendelse på sygefravær, hvor første fraværsdag er denne dag eller senere, jf. dog stk. 2.
+
+Stk. 2. § 1, nr. 3, træder i kraft den 1. april 1998 og finder anvendelse på personer, der denne dato eller senere er omfattet af dagpengelovens regler om varighedsbegrænsning.
+
+Stk. 3. I 1998 sker modregning af arbejdsgiverbidrag efter § 25, stk. 5, første gang ved modregning i ATP-kompensationen på grundlag af ATP-bidrag i perioden 23. februar-22. maj 1998.
+
+Lov nr. 980 af 17. december 1997 (Ændringer som følge af lov om social service, lov om aktiv socialpolitik og lov om retssikkerhed og administration på det sociale område) indeholder følgende ikrafttrædelsesbestemmelse for ændringen af lov om dagpenge ved sygdom eller fødsel:
+
+§ 42
+
+.....
+
+Stk. 3. § 32 træder i kraft den 29. juni 1998.
+
+.....
+
+Lov nr. 1111 af 29. december 1997 (Udvidelse af fædreorloven) indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 3
+
+Loven træder i kraft den 1. april 1998 og finder anvendelse i de tilfælde, hvor fødslen eller modtagelsen af barnet har fundet sted den 15. oktober 1997 eller senere.
+
+Lov nr. 264 af 7. maj 1998 (Lov om fornyelse af visse kollektive overenskomster m.v.) indeholder følgende ikrafttrædelsesbestemmelse for bl.a. ændringen af lov om dagpenge ved sygdom eller fødsel:
+
+§ 10. ..... §§ 11 og 12 træder i kraft den 1. januar 1999. .....
+
+Lov nr. 468 af 1. juli 1998 (Særlig pensionsopsparing) indeholder følgende ikrafttrædelsesbestemmelse for bl.a. ændringen af lov om dagpenge ved sygdom eller fødsel:
+
+§ 13
+
+Stk. 1. ..... Dog træder §§ 2-7 først i kraft den 1. januar 1999. .....
+
+Lov nr. 1036 af 23. december 1998 (lov om ændring af lov om social service og lov om dagpenge ved sygdom eller fødsel) indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 3
+
+Stk. 1. Loven træder i kraft den 1. januar 1999.
+
+Stk. 2. § 1, stk. 4, i lov om dagpenge ved sygdom eller fødsel, som ændret ved denne lovs § 2, nr. 1, har virkning for sygdomstilfælde, der påbegyndes den 1. januar 1999 eller senere.
+
+Lov nr. 1038 af 23. december 1998 (lov om ændring af lov om aktiv socialpolitik, lov om dagpenge ved sygdom eller fødsel og lov om social pension) indeholder følgende
+
+§ 4
+
+Loven træder i kraft den 1. januar 1999.
+
+Lov nr. 1039 af 23. december 1998 ( lov om ændring af lov om dagpenge ved sygdom eller fødsel og lov om social pension) indeholder følgende ikrafttrædelsesbestemmelse for ændringen af lov om dagpenge ved sygdom eller fødsel:
+
+§ 3
+
+Stk. 1. Loven træder i kraft den 1. januar 1999, jf. dog stk. 2.
+
+Stk 2. § 1, nr. 1-3, har virkning for sygdomstilfælde, der påbegyndes den 1. januar 1999 eller senere.
+
+Lov nr. 288 af 12. maj 1999 ( lov om ændring af lov om Arbejdsmarkedets Tillægspension, lov om Lønmodtagernes Dyrtidsfond og forskellige andre love) indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 17
+
+Loven træder i kraft den 1. juli 1999, .
+
+Lov nr. 391 af 2. juni 1999 (ændret finansiering af kommunernes udgifter til sygedagpenge efter 52 uger) indeholder følgende ikrafttrædelsesbestemnelse:
+
+§ 2
+
+Loven træder i kraft den 5. juli 1999 og har virkning for sager, hvor der den 5. juli 1999 eller senere er udbetalt sygedagpenge for mere end 52 uger.
+
+Lov nr. 393 af 2. juni 1999 (ophævelse af sondringen mellem offentlige og private arbejdsgivere m.v.) indeholder følgende ikrafttrædelsesbestemelser:
+
+§ 2
+
+Stk. 1. Loven træder i kraft den 1. januar 2000 og har virkning for sygdomstilfælde, der indtræder den 1. januar 2000 eller senere, jf. dog stk. 2.
+
+Stk. 2. § 1, nr. 6, træder i kraft dagen efter bekendtgørelse i Lovtidende.
+
+Lov nr. 1112 af 29. december 1999 (ændring af forsikringsordningen for private arbejdsgivere og forsikringsordningen for selvstændige og ændring af beskæftigelseskravet over for arbejdsgivere) indeholder følgende ikrafttrædelsesbestemmelser:
+
+§ 2
+
+Loven træder i kraft den 1. januar 2000. Bestemmelserne i § 1. nr. 1 og 2, har virkning for sygdomstilfælde, der indtræffer 1. januar 2000 eller senere.
+
+Lov nr. 1113 af 29. december 1999 (udvidelse af den fleksible barselsorlov) indeholder følgende ikrafttrædelsesbestemmelser:
+
+§ 2
+
+Loven træder i kraft den 1. januar 2000.
