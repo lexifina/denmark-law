@@ -1,8 +1,8 @@
-§ 10 a. (* 2) I andre tilfælde betales afgiften i forbindelse med varemodtagelsen her i landet, medmindre varerne modtages efter reglerne i § 3. Erhvervsdrivende varemodtagere skal inden varerne afsendes fra udlandet anmelde sig hos de statslige told- og skattemyndigheder. Anmeldelsen er gældende for 5 år.
+§ 10 a. I andre tilfælde betales afgiften i forbindelse med varemodtagelsen her i landet, medmindre varerne modtages efter reglerne i § 3. Erhvervsdrivende varemodtagere skal inden varerne afsendes fra udlandet anmelde sig hos de statslige told- og skattemyndigheder. Anmeldelsen er gældende for 5 år.
 
 Stk. 2. De i stk. 1 nævnte erhvervsdrivende varemodtagere, skal efter udløbet af hver måned og senest den 15. i den følgende måned til de statslige told- og skattemyndigheder angive mængden af de varer, virksomheden har modtaget i måneden. Andre varemodtagere skal angive ved modtagelsen. Angivelsen skal være underskrevet af varemodtageren.
 
-Stk. 3. (* 5) Afgiften skal indbetales til de statslige told- og skattemyndigheder senest samtidig med indsendelse af den i stk. 2 nævnte angivelse. Udgør afgiften under 50 kr., kan erhvervsdrivende undlade at indbetale beløbet.
+Stk. 3. Afgiften skal indbetales til de statslige told- og skattemyndigheder senest samtidig med indsendelse af den i stk. 2 nævnte angivelse. Udgør afgiften under 50 kr., kan erhvervsdrivende undlade at indbetale beløbet.
 
 Stk. 4. Betales afgiften ikke rettidigt, skal der betales 1,3 pct. i månedlig rente for hver påbegyndt måned fra den 1. i den måned, i hvilken beløbet skal betales af virksomheden, dog mindst 50 kr.
 
