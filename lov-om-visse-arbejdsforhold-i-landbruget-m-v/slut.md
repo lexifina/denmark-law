@@ -1,9 +1,11 @@
-Givet på Christiansborg Slot, den 1. juni 1994
+Beskæftigelsesministeriet, den 20. august 2002
 
-Under Vor Kongelige Hånd og Segl
+Claus Hjort Frederiksen
 
-MARGRETHE R.
+/E. Edelberg
 
-/Jytte Andersen
+Jf. lovbekendtgørelse nr. 385 af 11. maj 1994 med de ændringer, der følger af lov nr. 138 af 25. marts 2002.
 
-Ingen
+Jf. lov nr. 396 af 31. maj 2000.
+
+Lovændringen vedrører § 9.
