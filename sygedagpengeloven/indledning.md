@@ -1,5 +1,5 @@
 Bekendtgørelse af lov om dagpenge ved sygdom eller fødsel
 
-(Dagpengeloven)
+Herved bekendtgøres lov om dagpenge ved sygdom eller fødsel, jf. lovbekendtgørelse nr. 549 af 23. juni 1994 med de ændringer, der følger af lov nr. 1126 af 21. december 1994, § 5 i lov nr. 1057 af 20. december 1995, lov nr. 1110 af 20. december 1995, lov nr. 1116 af 20. december 1995, lov nr. 495 af 12. juni 1996, lov nr. 496 af 12. december 1996, lov nr. 1055 af 11. december 1996, lov nr. 1226 af 27. december 1996 og § 2 i lov nr. 459 af 10. juni 1997.
 
-Herved bekendtgøres lov nr. 852 af 20. december 1989 om dagpenge ved sygdom eller fødsel, med de ændringer, der følger af § 3 i lov nr. 386 af 13. juni 1990, § 3 i lov nr. 387 af 13. juni 1990, § 4 i lov nr. 794 af 30. november 1990, lov nr. 366 af 6. juni 1991, § 8 i lov nr. 399 af 6. juni 1991, lov nr. 1022 af 19. december 1992, lov nr. 449 af 30. juni 1993, lov nr. 495 af 30. juni 1993, lov nr. 1130 af 22. december 1993, lov nr. 446 af 1. juni 1994 og lov nr. 447 af 1. juni 1994.
+Afsnit
