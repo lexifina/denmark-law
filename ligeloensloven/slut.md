@@ -1,7 +1,7 @@
-Arbejdsministeriet, den 15. juni 1989
+Arbejdsministeriet, den 17. juli 1992
 
-Henning Dyremose
+Knud Erik Kirkegaard
 
-/ E. Edelberg
+/ A. Toft
 
 Ingen
