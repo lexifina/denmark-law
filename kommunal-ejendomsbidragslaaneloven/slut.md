@@ -1,7 +1,5 @@
-Indenrigsministeriet, den 24. juni 1994
+Indenrigs- og Sundhedsministeriet, den 20. marts 2003
 
-Birte Weiss
+Lars Løkke Rasmussen
 
-/ Niels Jørgen Mau
-
-Ingen
+/Niels Jørgen Mau
