@@ -1,3 +1,7 @@
-Lov om videregående kunstneriske uddannelsesinstitutioner under Kulturministeriet
+Bekendtgørelse af lov om videregående kunstneriske uddannelsesinstitutioner under Kulturministeriet
 
-VI MARGRETHE DEN ANDEN, af Guds Nåde Danmarks Dronning, gør vitterligt: Folketinget har vedtaget og Vi ved Vort samtykke stadfæstet følgende lov:
+Herved bekendtgøres lov nr. 289 af 27. april 1994 om videregående kunstneriske uddannelsesinstitutioner under Kulturministeriet med de ændringer, der følger af lov nr. 142 af 17. marts 1999.
+
+## Kapitel 1
+
+Almindelige bestemmelser

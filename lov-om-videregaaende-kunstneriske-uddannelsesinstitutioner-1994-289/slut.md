@@ -1,13 +1,9 @@
-Givet på Christiansborg Slot, den 27. april 1994
+Kulturministeriet, den 21. september 2000
 
-Under Vor Kongelige Hånd og Segl
+Elsebeth Gerner Nielsen
 
-I Dronningens Navn:
+/Henrik Jacobsen
 
-FREDERIK
+Lov nr. 142 af 17. marts 1999 er sat i kraft ved bekendtgørelse nr. 641 af 2. august 1999 bortset fra den ændring, der vedrører § 4 om Kunstakademiets Konservatorskole.
 
-Kronprins
-
-/Jytte Hilden
-
-Ingen
+Kunstakademiets Konservatorskole har ikke status af højere uddannelsesinstitution, idet § 1, nr. 2, i lov nr. 142 af 17. marts 1999 ikke er sat i kraft, jf. 1)
