@@ -1,4 +1,4 @@
-§ 22 a. Boligsikring beregnes i årene 2000- 2003 efter stk. 4 som en procentdel af forskellen mellem den årlige boligudgift, jf. kapitel 2, og et grænsebeløb opgjort efter stk. 2 og 3, jf. dog stk. 5 og 6.
+§ 22 a. Boligsikring beregnes i årene 2000- 2003 efter stk. 4 som en procentdel af forskellen mellem den årlige boligudgift, jf. kapitel 2 og 3, og et grænsebeløb opgjort efter stk. 2 og 3, jf. dog stk. 5 og 6.
 
 Stk. 2. Ved boligsikring beregnes i årene 2000- 2003 et grænsebeløb, der udgør:
 
@@ -20,8 +20,14 @@ Stk. 4. Den årlige boligsikring udgør:
 
 3) 2002: 66 pct. af forskellen mellem den årlige boligudgift, jf. kapitel 2, og grænsebeløbet efter stk. 2 og 3.
 
-4) 2003: 63 pct. af forskellen mellem den årlige boligudgift, jf. kapitel 2, og grænsebeløbet efter stk. 2 og 3.
+4) 2003: 63 pct. af forskellen mellem den årlige boligudgift, jf. kapitel 2 og 3, og grænsebeløbet efter stk. 2 og 3.
 
-Stk. 5. Uanset stk. 4 skal boligsikringsmodtageren dog af sin boligudgift, jf. kapitel 2, mindst selv betale 16.000 kr., jf. § 72 stk. 1, nr. 13.
+Stk. 5. Uanset stk. 4 skal boligsikringsmodtageren dog af sin boligudgift, jf. kapitel 2 og 3, mindst selv betale 16.000 kr., jf. § 72 stk. 1, nr. 13.
 
-Stk. 6. For husstande uden børn kan boligsikringen ikke overstige 15 pct. af boligudgiften, jf. kapitel 2.
+Stk. 6. For husstande uden børn kan boligsikringen ikke overstige 15 pct. af boligudgiften, jf. kapitel 2 og 3. Dette gælder dog ikke, hvis
+
+1) et husstandsmedlem modtager førtidspension,
+
+2) et husstandsmedlem er stærkt bevægelseshæmmet og boligen er egnet herfor eller
+
+3) et husstandsmedlem modtager døgnhjælp efter § 77 i lov om social service.
