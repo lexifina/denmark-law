@@ -184,7 +184,7 @@ Stk. 1. Loven træder i kraft den 1. april 2003.
 
 Stk. 2. Loven finder ikke anvendelse for udlændinge, der inden den 1. april 2003 er meddelt opholdstilladelse eller er registreret som asylansøgere efter udlændingelovens § 48 e, stk. 1.
 
-Lov nr. 425 af den 10. juni 2003 indeholder følgende bestemmelse:
+Lov nr. 425 af 10. juni 2003 indeholder følgende bestemmelse:
 
 § 4
 
@@ -195,3 +195,23 @@ Stk. 2. § 2 træder i kraft dagen efter bekendtgørelsen i Lovtidende.
 Stk. 3-4. (Udeladt)
 
 Stk. 5. Udlændingelovens § 11 og § 11 a, stk. 2 og 4, som ændret ved denne lovs § 2, nr. 3-12, finder ikke anvendelse for udlændinge, der inden den 28. februar 2002 har indgivet ansøgning om eller er meddelt opholdstilladelse. For sådanne udlændinge finder de regler, der var gældende indtil den 1. juli 2002, jf. lovbekendtgørelse nr. 711 af 1. august 2001, anvendelse.
+
+Lov nr. 1204 af 27. december 2003 indeholder følgende bestemmelse:
+
+§ 2
+
+Stk. 1. Loven træder i kraft den 1. januar 2004.
+
+Stk. 2. Udlændingelovens § 9, stk. 8, som affattet ved denne lovs § 1, nr. 2, finder ikke anvendelse for udlændinge, der inden lovens ikrafttræden har indgivet ansøgning om opholdstilladelse. For sådanne udlændinge finder den hidtil gældende bestemmelse i udlændingelovens § 9, stk. 8, anvendelse.
+
+Lov nr. 427 af 9. juni 2004 indeholder følgende bestemmelse:
+
+§ 3
+
+Stk. 1. Loven træder i kraft den 1. juli 2004, jf. dog stk. 2 og 3.
+
+Stk. 2. Udlændingelovens § 9, stk. 1, nr. 2, og stk. 10, 11, 13, 14 og 16, § 9 f og § 19, stk. 1, nr. 8, som indsat eller ændret ved denne lovs § 1, nr. 1, 6, 9, 20 og 30, finder ikke anvendelse for udlændinge, der inden lovens ikrafttræden har indgivet ansøgning om eller er meddelt opholdstilladelse. For sådanne udlændinge finder de hidtil gældende regler anvendelse.
+
+Stk. 3. Udlændingelovens § 19, stk. 5, som indsat ved denne lovs § 1, nr. 31, finder tilsvarende anvendelse for udlændinge, der inden lovens ikrafttræden er meddelt opholdstilladelse efter udlændingelovens § 9 c, stk. 1, som religiøse forkyndere eller missionærer m.v.
+
+Stk. 4. Udlændingelovens § 33, stk. 1, 2. pkt., og stk. 3, 4. pkt., som henholdsvis ændret og indsat ved denne lovs § 1, nr. 36 og 37, finder ikke anvendelse for udlændinge, der inden lovens ikrafttræden er meddelt afslag på en ansøgning om forlængelse af en opholdstilladelse, der er meddelt med henblik på midlertidigt ophold, og som efter fast praksis ikke kan forlænges yderligere. For sådanne udlændinge finder de hidtil gældende regler anvendelse.
