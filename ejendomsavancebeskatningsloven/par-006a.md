@@ -1,4 +1,4 @@
-§ 6 A.2)5) Såfremt den skattepligtige erhverver en ejendom, der er omfattet af lovens regler, med undtagelse af ejendomme, der er omfattet af § 8, kan den skattepligtige i stedet for at medregne fortjeneste ved afståelse af fast ejendom til den skattepligtige indkomst vælge at nedsætte anskaffelsessummen for den erhvervede ejendom med fortjenesten efter følgende regler:
+§ 6 A. Såfremt den skattepligtige erhverver en ejendom, der er omfattet af lovens regler, med undtagelse af ejendomme, der er omfattet af § 8, kan den skattepligtige i stedet for at medregne fortjeneste ved afståelse af fast ejendom til den skattepligtige indkomst vælge at nedsætte anskaffelsessummen for den erhvervede ejendom med fortjenesten efter følgende regler:
 
 a) Den skattepligtige skal enten have erhvervet fast ejendom i samme indkomstår, hvori den skattepligtige afstår fast ejendom, eller have erhvervet fast ejendom senest i det indkomstår, der følger efter afståelsesåret, eller have erhvervet fast ejendom i det seneste indkomstår forud for afståelsesåret.
 
