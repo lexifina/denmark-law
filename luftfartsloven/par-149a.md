@@ -1,0 +1,1 @@
+§ 149 a. Den, der i overensstemmelse med regler fastsat i medfør af § 89 b har foretaget anmeldelse om forhold, der ikke har medført et flyvehavari eller en flyvehændelse, kan ikke for det pågældende forhold straffes for overtrædelse af § 42, bestemmelser fastsat i medfør af §§ 31, 52, 54, 82 eller 83 eller bestemmelser i EF-forordninger på områder, der omfattes af loven.
