@@ -1,5 +1,5 @@
-Skatteministeriet, den 24. september 2003
+Skatteministeriet, den 21. september 2004
 
-Svend Erik Hovmand
+Kristian Jensen
 
 /Lise Bo Nielsen
