@@ -1,0 +1,5 @@
+§ 4 a. Ministeren for fødevarer, landbrug og fiskeri kan fastsætte regler om offentliggørelse med navns nævnelse af resultater af og sanktioner på grundlag af kontrol, som gennemføres i henhold til loven eller regler udstedt i medfør af loven.
+
+Stk. 2. Ministeren kan fastsætte regler om formen for og omfanget af offentliggørelse, herunder at offentliggørelse kan ske elektronisk. Ministeren kan bestemme, at visse resultater ikke skal offentliggøres.
+
+Stk. 3. Ministeren kan bestemme, at offentliggørelse skal ske på grundlag af et af ministeren oprettet edb-informationssystem vedrørende kontrolresultater. Ministeren kan på ethvert tidspunkt, herunder periodisk, videregive såvel enkeltstående oplysninger som masseoplysninger fra informationssystemet til en ubestemt kreds af modtagere. Enhver har adgang til fra informationssystemet at få meddelt oplysninger, som enten har været offentliggjort, eller som skal offentliggøres. Adgangen omfatter såvel enkeltstående oplysninger som masseoplysninger.
