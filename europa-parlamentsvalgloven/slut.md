@@ -1,7 +1,5 @@
-Indenrigsministeriet, den 4. marts 1994
+Indenrigsministeriet, den 9. oktober 1998
 
-Birte Weiss
+Thorkild Simonsen
 
-/ Anne Birte Pade
-
-(* 1) Loven indeholder bestemmelser, der gennemfører Rådets direktiv nr. 93/109/EF, EF-Tidende 1993 L 329, s. 34.
+/Anne Birte Pade
