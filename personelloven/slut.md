@@ -1,7 +1,5 @@
-Forsvarsministeriet, den 6. juli 1998
+Forsvarsministeriet, den 5. april 2001
 
-Hans Hækkerup
+Jan Trøjborg
 
-/ Francis Zachariae
-
-Ingen
+/Francis Zachariae
