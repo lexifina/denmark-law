@@ -1,15 +1,7 @@
-Givet på Christiansborg slot, den 19. marts 1986
+Skatteministeriet, den 16. august 1988
 
-Under Vor Kongelige Hånd og Segl
+ANDERS FOGH RASMUSSEN
 
-I Dronningens Navn:
+/Hanne Søgaard Hansen
 
-INGRID
-
-Dronning af Danmark
-
-Rigsforstander
-
-/ ISI FOIGHEL
-
-Ingen
+(* 1) Bestemmelsen i § 1, stk. 2, 2. pkt., har virkning fra og med indkomståret 1987, jf. § 4 i lov nr. 132 af 12. marts 1988.
