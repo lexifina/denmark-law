@@ -1,3 +1,3 @@
-§ 17 a. (Ophævet).
+§ 17 a. (Ophævet)
 
 VI. Straffebestemmelser
