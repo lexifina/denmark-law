@@ -1,1 +1,3 @@
 § 7 M. Godtgørelser, der af en forening udbetales til ulønnede bestyrelsesmedlemmer eller til frivillige, ulønnede medhjælpere, der yder bistand som led i foreningens skattefri virksomhed, er skattefri for modtageren. Skattefriheden er betinget af, at godtgørelsen udbetales til dækning af udgifter, som modtageren afholder på foreningens vegne, samt at godtgørelsen ikke overstiger satser, der fastsættes af Ligningsrådet.
+
+Stk. 2. Godtgørelser, der udbetales af hjemmeværnet til frivilligt ulønnet personel, der deltager i hjemmeværnets virksomhed, er skattefrie for modtageren, når godtgørelsen ikke overstiger satser, der fastsættes af Ligningsrådet.
