@@ -1,0 +1,3 @@
+§ 57a. Undervisningsministeren kan fastsætte regler om elektronisk kommunikation mellem den ph.d.-studerende og stipendiegiveren, herunder om anvendelse af digital signatur eller anden sikker personidentifikation, bl.a. i forbindelse med ansøgninger om SU-ph.d.-stipendium og afgivelse af oplysninger, jf. § 54, nr. 1 og 5.
+
+Stk. 2. Undervisningsministeren kan fastsætte regler om elektronisk kommunikation mellem stipendiegiveren og uddannelsesinstitutionen eller styrelsen. Undervisningsministeren kan herunder fastsætte regler om anvendelse af digital signatur eller anden sikker identifikation, bl.a. i forbindelse med afgivelse af oplysninger efter §§ 56 og 57.
