@@ -1,0 +1,1 @@
+§ 6 b. Ministeren for forskning, innovation og videregående uddannelser kan fastsætte regler om elektronisk kommunikation mellem universitetet og Ministeriet for Forskning, Innovation og Videregående Uddannelser, herunder om anvendelsen af digital signatur i forbindelse med aflevering af oplysninger efter § 6 a.
