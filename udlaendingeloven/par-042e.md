@@ -1,13 +1,9 @@
-§ 42 e. Ministeren for flygtninge, indvandrere og integration kan efter forhandling med vedkommende kommune beslutte, at bestemmelserne i lov om planlægning om region-, kommune- og lokalplaner samt om tilladelse efter lovens § 35, stk. 1, ikke finder anvendelse på ejendomme, som Udlændingestyrelsen råder over, og som anvendes til
+§ 42 e. En udlænding over 17 år, der er omfattet af § 42 a, stk. 1 eller 2, jf. stk. 3, kan deltage i aktivering i form af udførelse af andre end de i § 42 d, stk. 1, nævnte opgaver i forbindelse med driften af indkvarteringsstedet og medvirken til gennemførelsen af den i §§ 42 f og 42 g nævnte undervisning.
 
-1) modtagecenter for nyankomne udlændinge, som har indgivet ansøgning om opholdstilladelse i medfør af § 7,
+Stk. 2. En udlænding over 17 år, der er omfattet af § 42 a, stk. 1 eller 2, jf. stk. 3, og som er registreret som asylansøger efter § 48 e, stk. 1, kan endvidere deltage i aktivering i form af en af indkvarteringsoperatøren, jf. § 42 a, stk. 5, 2. pkt., tilrettelagt intern produktionsvirksomhed, særligt tilrettelagt praktik af kortere varighed og ulønnet humanitært arbejde eller andet ulønnet frivilligt arbejde. Dette gælder dog ikke, hvis udlændingen er meddelt endeligt afslag på en ansøgning om opholdstilladelse efter § 7 eller har frafaldet en sådan ansøgning, medmindre den pågældende har indgivet ansøgning om opholdstilladelse efter § 9 b og denne ansøgning har opsættende virkning, jf. § 33, stk. 4, eller den pågældende har indgivet ansøgning om genoptagelse af en afgørelse efter § 7 eller § 9 b og denne ansøgning har opsættende virkning, jf. § 33, stk. 7.
 
-2) indkvarteringssted for de i § 42 a, stk. 1 og 2, nævnte udlændinge,
+Stk. 3. En udlænding over 17 år, der er omfattet af § 42 a, stk. 1 og 2, jf. stk. 3, kan, hvis ganske særlige grunde taler derfor, deltage i særskilt tilrettelagt aktivering, som ikke er omfattet af stk. 1 og 2.
 
-3) faciliteter til brug for frihedsberøvelse i medfør af § 36 og
+Stk. 4. Indkvarteringsoperatøren, jf. § 42 a, stk. 5, 2. pkt., bestemmer, om en udlænding skal deltage i aktivering som nævnt i stk. 1-3.
 
-4) faciliteter til brug for administration i tilknytning til de i nr. 1-3 nævnte funktioner.
-
-Stk. 2. Ministeren for flygtninge, indvandrere og integration kan i forbindelse med beslutninger efter stk. 1 bestemme, at eventuelle region-, kommune- eller lokalplaner suspenderes helt eller delvis, for så vidt angår de i stk. 1 nævnte ejendomme.
-
-Stk. 3. Ministeren for flygtninge, indvandrere og integration kan i forbindelse med beslutninger efter stk. 1 bestemme, at bygningsreglementet af 1995 ikke finder anvendelse ved genanvendelse af eksisterende bygninger til de i stk. 1 angivne formål.
+Stk. 5. Ministeren for flygtninge, indvandrere og integration kan fastsætte nærmere regler om indholdet og omfanget af den i stk. 1-3 nævnte aktivering. Ministeren for flygtninge, indvandrere og integration kan ved fastsættelsen af regler i medfør af 1. pkt. fravige § 46.
