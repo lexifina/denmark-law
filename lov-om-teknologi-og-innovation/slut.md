@@ -1,0 +1,7 @@
+Givet på Christiansborg Slot, den 6. juni 2002
+
+Under Vor Kongelige Hånd og Segl
+
+Margrethe R.
+
+/Helge Sander
