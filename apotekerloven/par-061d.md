@@ -1,0 +1,3 @@
+§ 61 d. Ejere af private sygehusapoteker skal efter anmodning give Lægemiddelstyrelsen oplysninger om apotekets forhold.
+
+Stk. 2. Private sygehusapoteker skal efter regler fastsat af ministeren for sundhed og forebyggelse give ministeren for sundhed og forebyggelse oplysninger i maskinlæsbar stand om omsætning m.v. af lægemidler m.v. Ministeren for sundhed og forebyggelse kan bestemme, at de pågældende oplysninger skal gives til en anden myndighed. Ministeren for sundhed og forebyggelse eller den myndighed, som ministeren for sundhed og forebyggelse udpeger til at modtage oplysningerne, kan offentliggøre oplysningerne.
