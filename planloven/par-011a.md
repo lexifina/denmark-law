@@ -1,4 +1,4 @@
-§ 11 a. Kommunalbestyrelsen skal ved revisionen af kommuneplanen, jf. § 22, stk. 1, foretage de nødvendige ændringer af planen i overensstemmelse med bestemmelserne i §§ 5 a, stk. 1, og 5 b.
+§ 11 a. Kommunalbestyrelsen skal ved revision af kommuneplanen, jf. § 23 a, stk. 2, nr. 1 og 2, foretage de nødvendige ændringer af planen i overensstemmelse med bestemmelserne i §§ 5 a, stk. 1, og 5 b.
 
 Stk. 2. Kommunalbestyrelsen skal i forbindelse hermed gennemgå de allerede vedtagne, men ikke udnyttede arealreservationer i kommuneplanen, og ophæve de reservationer, der ikke er aktuelle.
 

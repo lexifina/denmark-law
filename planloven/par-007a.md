@@ -1,0 +1,1 @@
+§ 7 a. Det påhviler Københavns, Frederiksborg og Roskilde Amtskommuner samt Københavns og Frederiksberg Kommuner at tilvejebringe og stille de oplysninger til rådighed for Hovedstadens Udviklingsråd, som er nødvendige for regionplanlægningen, herunder for vurderingen af de miljømæssige konsekvenser i forbindelse med de i § 6 c nævnte anlæg.
