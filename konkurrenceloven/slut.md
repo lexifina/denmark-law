@@ -1,7 +1,5 @@
-Givet på Christiansborg Slot, den 10. juni 1997
+Erhvervsministeriet, den 12. juli 2000
 
-Under Vor Kongelige Hånd og Segl
+Pia Gjellerup
 
-MARGRETHE R.
-
-/ Jan Trøjborg
+/Kirsten Levinsen
