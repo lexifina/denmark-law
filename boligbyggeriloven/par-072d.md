@@ -2,4 +2,4 @@
 
 Stk. 2. Lån efter stk. 1 ydes på de i § 70, stk. 2, gældende vilkår.
 
-Stk. 3. Boligministeren kan fastsætte nærmere regler om de i stk. 1 nævnte forhold.
+Stk. 3. Økonomi- og erhvervsministeren kan fastsætte nærmere regler om de i stk. 1 nævnte forhold.
