@@ -1,7 +1,5 @@
-By- og Boligministeriet, den 18. december 2000
+By- og Boligministeriet, den 19. juni 2001
 
-Jytte Andersen
+Lotte Bundsgaard
 
 /Anne Wallberg
-
-Bekendtgørelsen i Lovtidende fandt sted den 2. juni 2000.

@@ -19,3 +19,9 @@ Lov nr. 406 af 31. maj 2000 har følgende ikrafttrædelsesbestemmelse:
 § 11
 
 Stk. 1. Loven træder i kraft den 1. januar 2001.
+
+Lov nr. 447 af 7. juni 2001 har følgende ikrafttrædelsesbestemmelse:
+
+§ 4
+
+Loven træder i kraft dagen efter bekendtgørelsen i Lovtidende.
