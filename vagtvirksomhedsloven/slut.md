@@ -1,9 +1,5 @@
-Givet på Christiansborg slot, den 22. maj 1986
+Justitsministeriet, den 16. marts 1999
 
-Under Vor Kongelige Hånd og Segl
+Frank Jensen
 
-MARGRETHE R.
-
-/ERIK NINN-HANSEN
-
-Ingen
+/Lise-Lotte Nilas
