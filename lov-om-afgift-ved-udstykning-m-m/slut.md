@@ -1,13 +1,9 @@
-Givet på Amalienborg, den 7. marts 1990
+Boligministeriet, den 22. januar 1998
 
-Under Vor Kongelige Hånd og Segl
+Ole Løvig Simonsen
 
-I Dronningens Navn:
+/ Anne Wallberg
 
-FREDERIK
+(* 1) 1) Lovændringen vedrører § 1, stk. 1, 1. pkt.
 
-Kronprins
-
-/Agnete Laustsen
-
-(* 1) Loven træder i kraft den 1. april 1991
+(* 2) Bekendtgørelsen i Lovtidende fandt sted den 18. december 1997.
