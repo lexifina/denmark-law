@@ -1,5 +1,5 @@
-Undervisningsministeriet, den 31. juli 1998
+Undervisningsministeriet, den 28. juni 2001
 
 Margrethe Vestager
 
-/Jens Kroman
+/Susanne Gruno

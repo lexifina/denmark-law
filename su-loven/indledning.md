@@ -1,3 +1,3 @@
 Bekendtgørelse af lov om statens uddannelsesstøtte
 
-Herved bekendtgøres lov om statens uddannelsesstøtte, jf. lovbekendtgørelse nr. 430 af 23. maj 1996 med de ændringer, der følger af § 39 i lov nr. 980 af 17. december 1997 og lov nr. 1117 af 29. december 1997.
+Herved bekendtgøres lov om statens uddannelsesstøtte, jf. lovbekendtgørelse nr. 558 af 31. juli 1998 med de ændringer, der følger af § 4 i lov nr. 1087 af 13. december 2000, § 14 i lov nr. 1286 af 20. december 2000 og § 14 i lov nr. 246 af 6. april 2001.
