@@ -11,3 +11,7 @@ Stk. 3. Kommunalbestyrelsen registrerer påbud efter stk. 1 og 2 i CPR samtidig 
 Stk. 4. Efterkommes et påbud efter stk. 1 eller 2 ikke rettidigt, skal kommunalbestyrelsen straks indgive anmeldelse til politiet.
 
 Stk. 5. Efterkommes et påbud efter stk. 1 eller 2 ikke rettidigt, skal kommunalbestyrelsen endvidere pålægge den pågældende daglige tvangsbøder. Undlader den pågældende herefter fortsat at efterkomme påbudet, skal kommunalbestyrelsen foretage inddrivelse af tvangsbøderne. Inddrivelsen foretages mindst hver 4. uge for påløbne, ikke betalte tvangsbøder, første gang senest 4 uger efter, at pålæggelsen af tvangsbøder er påbegyndt. Tvangsbøderne tilfalder den pågældende kommune. Der er udpantningsret for tvangsbøderne.
+
+## Kapitel 13
+
+Administrative bestemmelser m.v.
