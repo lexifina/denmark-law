@@ -1,29 +1,21 @@
-Skatteministeriet, den 13. juli 1994
+Skatteministeriet, den 22. september 1997
 
-Ole Stavad
+Carsten Koch
 
-/ Jan Lyager Olsen
+/ K. Aasberg Karlsen
 
-Bilag
+(* 1) § 2, stk. 1, nr. 7, litra c, er indsat ved lov nr. 413 af 14. juni 1995, der trådte i kraft den 1. juli 1995.
 
-Tilbagebetaling af afgift
+(* 2) § 8, stk. 5, er indsat ved lov nr. 397 af 22. maj 1996, der trådte i kraft den 1. juni 1996.
 
---------------------------------------------------------------------- 1.1.1994- 1.7.1994- 1.1.1995 30.6.1994 31.12.1994 30.6.1995 --------------------------------------------------------------------- 1. Personbiler: 6.500 kr. 4.500 kr. 2.500 kr. 2. Varebiler: 3.500 kr. 2.400 kr. 1.400 kr. ---------------------------------------------------------------------
+(* 3) § 9, stk. 1-4 og § 27, stk. 1, nr. 2, er ændret ved lov nr. 489 af 12. juni 1996, der trådte i kraft den 1. juli 1996. (§ 9, stk. 1 og 2 er senere ændret ved lov nr. 363 af 2. juni 1997). Der henvises i øvrigt til ikrafttrædelsesbestemmelserne.
 
-Stk. 2. Afgiften tilbagebetales til den registrerede ejer, såfremt køretøjet ved afmeldelsen har været registreret med den pågældende som ejer her i landet eller i udlandet i de 12 foregående måneder. Køretøjet skal endvidere være registreret her i landet eller i udlandet den 7. december 1993. Afgiften tilbagebetales dog også for køretøjer, som den 7. december 1993 eller i en periode inden for de sidste 12 måneder før afmeldelsen har været afmeldt fra registrering uden at være ejerskiftet, hvis de på ny registreres for samme ejer inden den 1. februar 1994.
+(* 4) § 31 b er indsat ved lov nr. 1204 af 27. december 1996, der trådte i kraft den 1. januar 1997. Reglerne om udpantning og lønindeholdelse finder også anvendelse på fordringer, der er forfaldne før lovens ikrafttræden.
 
-Stk. 3. Der kan ikke ske tilbagebetaling af afgift for:
+(* 5) § 2, stk. 1, nr. 6, 8 og 13, og § 27, stk. 4, er ændret ved lov nr. 1213 af 27. december 1996, der trådte i kraft den 1. januar 1997.
 
-1) Køretøjer, der efter reglerne i bekendtgørelse nr. 519 af 30. juni 1993 om registreringsafgift af motorkøretøjer m.v. ikke kan genopbygges afgiftsfrit efter en færdselsskade,
+(* 6) § 3, stk. 5 og 6 (ophævet) stk. 7, (nu stk. 5) § 4, § 5 a, stk. 1, indsættelse af nyt stk. 2, stk. 3, § 6, stk. 1, indsættelse af nyt stk. 2, og ændring af stk. 3, er ændret ved lov nr. 361 af 2. juni 1997, der trådte i kraft den 4. juni 1997. Der henvises i øvrigt til ikrafttrædelsesbestemmelserne.
 
-2) køretøjer, der efter reglerne i bekendtgørelse nr. 18 af 10. januar 1992 om registrering af motorkøretøjer m.v., med senere ændringer, afmeldes fra motorrregisteret, fordi nummerpladerne er blevet inddraget i medfør af færdselslovens § 77, og
+(* 7) § 5, § 8, stk. 1, indsættelse af stk. 6 og 7, § 9, stk. 1-2, § 15, stk. 1, § 16, stk. 2, § 22, stk. 2, § 27, stk. 1, og § 29, stk. 2, er ændret ved lov nr. 363 af 2. juni 1997, der trådte i kraft den 4. juni 1997. Der henvises i øvrigt til ikrafttrædelsesbestemmelserne.
 
-3) varebiler afgiftsberigtiget med stykafgift.
-
-Stk. 2. Tilbagebetalingsbeløbet fastsættes efter køretøjets art anført på registreringsattesten på tidspunktet for køretøjets afmeldelse.
-
-Stk. 3. Tilbagebetalte afgiftsbeløb behandles skattemæssigt som salgssummer.
-
-(* 1) Lov nr. 1121 af 22. december 1993, § 1 (indsættelse af § 7, § 7a og § 27, stk. 1, nr. 6) trådte i kraft den 1. januar 1994.
-
-(* 2) Lov nr. 376 af 18. maj 1994, § 22 (ændring af § 2, stk. 1, nr. 13, § 27, stk. 4, § 28, stk. 1, stk. 2 og stk. 4 og § 31a og ophævelse af § 31, stk. 3) trådte i kraft den 20. maj 1994 og har virkning fra den 1. juli 1994.
+(* 8) Ved en fejl henvises der til § 8, stk. 5. Henvisningen skulle have været til § 8, stk. 6. Fejlen vil blive rettet ved førstkommende lovændring.
