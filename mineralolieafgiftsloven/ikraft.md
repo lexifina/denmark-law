@@ -1,17 +1,3 @@
-7. § 35, stk. 3, affattes således:
-
-»Stk. 3. Bestemmelserne i § 1, stk. 1, nr. 12, og § 11, stk. 2, sidste pkt., træder i kraft den 1. august 1993.«
-
-8. § 35, stk. 4, ophæves.
-
-Stk. 5 bliver herefter stk. 4.
-
-9. I § 35 indsættes efter stk. 5, som bliver stk. 4, som nye stykker:
-
-»Stk. 5. Virksomheder, der med henblik på salg har en lagerbeholdning på over 3.000 l smøreolie m.v., skal senest den 15. august 1993 fremsende en opgørelse over deres samlede lagerbeholdning den 1. august 1993 til de statslige told- og skattemyndigheder.
-
-Stk. 6. Virksomheder, der er omfattet af stk. 5, og som ikke registreres efter § 3, stk. 1, eller stk. 2, 2. pkt., inden den 1. august 1993, skal senest den 1. september indbetale afgift af den i stk. 5 nævnte lagerbeholdning til de statslige told- og skattemyndigheder. Betales afgiften ikke rettidigt, finder § 17, stk. 3, tilsvarende anvendelse.« Lov nr. 489 af 30. juni 1993, som ændret ved § 2 i lov nr. 1121 af 22. december 1993, indeholder følgende ikrafttrædelses- og overgangsbestemmelser:
-
 § 2
 
 Stk. 1. Loven træder i kraft den 1. januar 1994.
@@ -20,118 +6,60 @@ Stk. 2. Afgiften svares dog i perioden 1. januar 1994-31. december 1997 efter f�
 
 Gas- og dieselolie samt petroleum, der anvendes som motorbrændstof:
 
-Ved dag- Ved
-
-temperatur 15 grader C
-
-177 øre/l 16,0 øre/l i perioden 1. januar 1994 - 31. december 1994
-
-200 øre/l 198,8 øre/l i perioden 1. januar 1995 - 31. december 1995
-
-223 øre/l 221,7 øre/l i perioden 1. januar 1996 - 31. december 1996
-
-233 øre/l 231,6 øre/l i perioden 1. januar 1997 - 31. december 1997
-
-Let dieselolie:
-
-Ved dag- Ved
-
-temperatur 15 grader C
-
-167 øre/l 166,0 øre/l i perioden 1. januar 1994 - 31. december 1994
-
-190 øre/l 188,9 øre/l i perioden 1. januar 1995 - 31. december 1995
-
-213 øre/l 211,8 øre/l i perioden 1. januar 1996 - 31. december 1996
-
-223 øre/l 221,7 øre/l i perioden 1. januar 1997 - 31. december 1997
-
-Blyholdig benzin med blyindhold over 0,013 g pr. l:
-
-Ved dag- Ved
-
-temperatur 15 grader C
-
-310 øre/l 307,4 øre/l i perioden 1. januar 1994 - 31. marts 1994
-
-315 øre/l 312,4 øre/l i perioden 1. april 1994 - 30. september 1994
-
-320 øre/l 317,3 øre/l i perioden 1. oktober 1994 - 31. december 1994
-
-355 øre/l 352,0 øre/l i perioden 1. januar 1995 - 31. marts 1995
-
-360 øre/l 357,0 øre/l i perioden 1. april 1995 - 30. september 1995
-
-365 øre/l 362,0 øre/l i perioden 1. oktober 1995 - 31. december 1995
-
-373 øre/l 369,9 øre/l i perioden 1. januar 1996 - 31. december 1996
-
-378 øre/l 374,9 øre/l i perioden 1. januar 1997 - 31. december 1997
-
-Blyfri benzin med blyindhold på højst 0,013 g pr. l:
-
-Ved dag- Ved
-
-temperatur 15 grader C
-
-245 øre/l 243,0 øre/l i perioden 1. januar 1994 - 31. marts 1994
-
-250 øre/l 247,9 øre/l i perioden 1. april 1994 - 30. september 1994
-
-255 øre/l 252,9 øre/l i perioden 1. oktober 1994 - 31. december 1994
-
-290 øre/l 287,6 øre/l i perioden 1. januar 1995 - 31. marts 1995
-
-295 øre/l 292,5 øre/l i perioden 1. april 1995 - 30. september 1995
-
-300 øre/l 297,5 øre/l i perioden 1. oktober 1995 - 31. december 1995
-
-308 øre/l 305,4 øre/l i perioden 1. januar 1996 - 31. december 1996
-
-313 øre/l 310,4 øre/l i perioden 1. januar 1997 - 31. december 1997
-
-Autogas (LPG):
-
-Ved dag- Ved
-
-temperatur 15 grader C
-
-118 øre /l - i perioden 1. januar 1994 - 31. december 1994
-
-134 øre /l - i perioden 1. januar 1995 - 31. december 1995
-
-150 øre /l - i perioden 1. januar 1996 - 31. december 1996
-
-157 øre /l - i perioden 1. januar 1997 - 31. december 1997
+Ved dag- Ved temperatur 15 grader C 177 øre/l 176,0 øre/l i perioden 1. januar 1994 - 31. december 1994 200 øre/l 198,8 øre/l i perioden 1. januar 1995 - 31. december 1995 202 øre/l 200,8 øre/l i perioden 1. januar 1996 - 31. december 1996 212 øre/l 210,7 øre/l i perioden 1. januar 1997 - 31. december 1997 Let dieselolie: Ved dag- Ved temperatur 15 grader C 167 øre/l 166,0 øre/l i perioden 1. januar 1994 - 31. december 1994 190 øre/l 188,9 øre/l i perioden 1. januar 1995 - 31. december 1995 192 øre/l 190,9 øre/l i perioden 1. januar 1996 - 31. december 1996 202 øre/l 200,8 øre/l i perioden 1. januar 1997 - 31. december 1997 Blyholdig benzin med blyindhold over 0,013 g pr. l: Ved dag- Ved temperatur 15 grader C 310 øre/l 307,4 øre/l i perioden 1. januar 1994 - 31. marts 1994 315 øre/l 312,4 øre/l i perioden 1. april 1994 - 30. september 1994 320 øre/l 317,3 øre/l i perioden 1. oktober 1994 - 31. december 1994 355 øre/l 352,0 øre/l i perioden 1. januar 1995 - 31. marts 1995 360 øre/l 357,0 øre/l i perioden 1. april 1995 - til lovens ikrafttræden 362 øre/l 359,0 øre/l fra lovens ikrafttræden til 30. september 1995 367 øre/l 363,9 øre/l i perioden 1. oktober 1995 - 31. december 1995 392 øre/l 388,7 øre/l i perioden 1. januar 1996 - 31. december 1996 397 øre/l 393,7 øre/l i perioden 1. januar 1997 - 31. december 1997 Blyfri benzin med blyindhold på højst 0,013 g pr. l: Ved dag- Ved temperatur 15 grader C 245 øre/l 243,0 øre/l i perioden 1. januar 1994 - 31. marts 1994 250 øre/l 247,9 øre/l i perioden 1. april 1994 - 30. september 1994 255 øre/l 252,9 øre/l i perioden 1. oktober 1994 - 31. december 1994 290 øre/l 287,6 øre/l i perioden 1. januar 1995 - 31. marts 1995 295 øre/l 292,5 øre/l i perioden 1. april 1995 til lovens ikrafttræden 297 øre/l 294,5 øre/l fra lovens ikrafttræden til 30. september 1995 302 øre/l 299,5 øre/l i perioden 1. oktober 1995 - 31. december 1995 327 øre/l 324,3 øre/l i perioden 1. januar 1996 - 31. december 1996 332 øre/l 329,2 øre/l i perioden 1. januar 1997 - 31. december 1997 Autogas (LPG): Ved dag- Ved temperatur 15 grader C 118 øre /l - i perioden 1. januar 1994 - 31. december 1994 134 øre /l - i perioden 1. januar 1995 - 31. december 1995 136 øre /l - i perioden 1. januar 1996 - 31. december 1996 143 øre /l - i perioden 1. januar 1997 - 31. december 1997
 
 Stk. 3. Afgiftsforhøjelsen pr. 1. januar 1995 for gas- og dieselolie, der anvendes som motorbrændstof, og let dieselolie finder anvendelse på gas- og dieselolie, der fra denne dato udleveres til forbrug fra registrerede oplagshavere, angives til fortoldning eller modtages fra udlandet. Afgiftsforhøjelsen pr. 1. januar 1994 for blyholdig og blyfri benzin finder anvendelse på benzin, der fra denne dato udleveres til forbrug fra registrerede oplagshavere, angives til fortoldning eller modtages fra udlandet. Tilsvarende finder afgiftsforhøjelsen pr. 1. januar 1995 for autogas (LPG) anvendelse på gas, der fra denne dato udleveres til forbrug fra registrerede oplagshavere, angives til fortoldning eller modtages fra udlandet.
 
 Stk. 4. Stk. 3 finder tilsvarende anvendelse for de efterfølgende i stk. 2 anførte forhøjelser af afgiften af dieselolie pr. 1. januar 1996 og pr. 1. januar 1997, af benzin pr. 1. april 1994, 1. oktober 1994, 1. januar 1995, 1. april 1995, 1. oktober 1995 og af autogas pr. 1. januar 1995, 1. januar 1996 og 1. januar 1997.
 
-Stk. 5-7. (Udeladt, jf. note 3) Fra den 1. januar 1998 svares afgiften efter
+Stk. 5-7. (Udeladt)
 
-følgende satser: Ved dagtemperatur Ved 15 grader C
+(* 3) (* 4)Lov nr. 235 af 6. april 1995, som ændret ved lov nr. 411 af 14. juni 1995, indeholder følgende ikrafttrædelses- og overgangsbestemmelser:
 
-1) Gas- og dieselolie, der anvendes som motorbrænd- stof 233 øre/l 231,6 øre/l
+§ 3
 
-2) Anden gas- og dieselolie 149 øre/l 148,1 øre/l
+Stk. 1. Loven træder i kraft dagen efter bekendtgørelsen i Lovtidende, jf. dog stk. 2 og 3.
 
-3) Let dieselolie 223 øre/l 221,7 øre/l
+Stk. 2. Skatteministeren fastsætter ikrafttrædelsestidspunktet for § 1, stk. 1, nr. 10-14, § 1, stk. 7, § 3, stk. 2, 2. pkt., § 11, stk. 2, sidste pkt., § 14, stk. 3, 3. pkt., og § 35, stk. 3, i lov om energiafgift af mineralolieprodukter m.v., som affattet ved denne lovs § 1, nr. 3-5 og nr. 7-9, der dog tidligst kan sættes i kraft dagen efter bekendtgørelsen i Lovtidende.
 
-4) Fuelolie 166 øre/kg -
+Stk. 3. Afgiften af benzin udleveret fra benzinstationer udstyret med dampretur svares fra lovens ikrafttræden til 31. december 1997 efter følgende satser:
 
-5) Fyringstjære 150 øre/kg -
+Blyholdig benzin med blyindhold over 0,013 g pr. l udleveret fra benzinstationer udstyret med dampretur:
 
-6) Petroleum, der anvendes som motorbrændstof 233 øre/l 231,6 øre/l
+Ved dag- Ved temperatur 15 grader C 359 øre/l 356,0 øre/l fra lovens ikrafttræden til 30. september 1995 364 øre/l 361,0 øre/l i perioden 1. oktober 1995 - 31. december 1995 389 øre/l 386,8 øre/l i perioden 1. januar 1996 - 31. december 1996 394 øre/l 390,7 øre/l i perioden 1. januar 1997 - 31. december 1997 Blyfri benzin med blyindhold på højst 0,013 g pr. l udleveret fra benzinstationer udstyret med dampretur: Ved dag- Ved temperatur 15 grader C 294 øre/l 291,6 øre/l fra lovens ikrafttræden til 30. september 1995 299 øre/l 296,5 øre/l i perioden 1. oktober 1995 - 31. december 1995 324 øre/l 321,3 øre/l i perioden 1. januar 1996 - 31. december 1996 329 øre/l 326,3 øre/l i perioden 1. januar 1997 - 31. december 1997
 
-7) Anden petroleum 149 øre/l 148,0 øre/l
+Stk. 4. Afgiftsdifferentieringen for benzin udleveret fra benzinstationer udstyret med dampretur finder anvendelse for benzin, der fra det af skatteministeren fastsatte ikrafttrædelsestidspunkt udleveres til forbrug fra registrerede oplagshavere, angives til fortoldning eller modtages fra udlandet.
 
-8) Blyholdig benzin (blyindhold over 0,013 g pr. l) 383 øre/l 380,0 øre/l
+Lov nr. 418 af 14. juni 1995 indeholder følgende ikrafttrædelses- og overgangsbestemmelser:
 
-9) Blyfri benzin (blyindhold højst 0,013 g pr. l) 318 øre/l 315,4 øre/l
+§ 4
 
-10) Autogas (LPG) 157 øre/l -
+Stk. 1. Tidspunktet for lovens ikrafttræden fastsættes af skatteministeren. Loven træder dog tidligst i kraft den 1. januar 1996.
 
-11) Anden flaskegas (LPG) og gas (bortset fra LPG), der fremkommer ved raffinering af mineralsk olie (raffinaderigas) 200 øre/kg -
+Stk. 2. Loven finder anvendelse på leverancer, der sker efter lovens ikrafttræden.
 
-12) Smøreolier, hydraulikolier og lign. 178 øre/l -
+Stk. 3. For løbende leverancer af varer, som ikke er tilbagebetalingsberettigede efter § 11 i lov om energiafgift af mineralolieprodukter m.v. som ændret ved denne lovs § 1, nr. 4, § 8 i lov om afgift af stenkul, brunkul og koks m.v. som ændret ved denne lovs § 2, nr. 2, og § 11 i lov om afgift af elektricitet som ændret ved denne lovs § 3, nr. 1, og for hvilke afregningsperioden påbegyndes inden lovens ikrafttræden og afsluttes efter dette tidspunkt, beregnes afgiften af så stor en del af leverancen, som tidsrummet fra lovens ikrafttræden til afregningsperiodens slutning udgør i forhold til den samlede afregningsperiode. Med de statslige told- og skattemyndigheders tilladelse kan der foretages afrunding ved opgørelse af den andel af leverancerne, som der ikke ydes tilbagebetaling for.
+
+Stk. 4. Virksomheder, der er registreret efter merværdiafgiftsloven, kan dog i perioden fra ikrafttrædelsen til 31. december 1997 få en andel af afgiften efter lov om energiafgift af mineralolieprodukter m.v. tilbagebetalt af de i virksomheden forbrugte varer, der direkte eller indirekte er medgået til fremstilling af rumvarme eller varmt vand. Tilbagebetalingsandelen udgør følgende andel:
+
+70 pct. fra ikrafttrædelsen til 31. december 1996
+
+35 pct. i perioden 1. januar 1997 - 31. december 1997.
+
+Stk. 5. For løbende leverancer af varer, som ikke er tilbagebetalingsberettigede efter § 11 i lov om energiafgift af mineralolieprodukter m.v. som ændret ved denne lovs § 1, nr. 4, § 8 i lov om afgift af stenkul, brunkul og koks m.v. som ændret ved denne lovs § 2, nr. 2, og § 11 i lov om afgift af elektricitet som ændret ved denne lovs § 3, nr. 1, og for hvilke afregningsperioden påbegyndes inden henholdsvis 1. januar 1996 og 1. januar 1997 og afsluttes efter de nævnte tidspunkter, beregnes afgiften af så stor en del af leverancen, som tidsrummet fra henholdsvis 1. januar 1996 og 1. januar 1997 til afregningsperiodens slutning udgør i forhold til den samlede afregningsperiode. Stk. 3, 2. pkt., finder tilsvarende anvendelse.
+
+Stk. 6. I perioden fra lovens ikrafttræden til og med den 31. december 1997 udgør forhøjelsen af den fulde godtgørelse af afgiften af gas i § 9, stk. 4, i lov om energiafgift af mineralolieprodukter m.v. 55 øre pr. l.
+
+Lov nr. 420 af 14. juni 1995 indeholder følgende ikrafttrædelses- og overgangsbestemmelser:
+
+§ 3
+
+Stk. 1. Tidspunktet for lovens ikrafttræden fastsættes af skatteministeren. Skatteministeren kan bestemme, at § 1, nr. 4, skal træde i kraft forud for lovens øvrige bestemmelser.
+
+Stk. 2. Loven finder anvendelse på afgiftspligtige varer, der efter lovens ikrafttræden udleveres fra eller forbruges i registrerede virksomheder, angives til fortoldning eller modtages fra udlandet.
+
+Stk. 3. For løbende leverancer, for hvilke afregningsperioden påbegyndes inden lovens ikrafttræden og afsluttes efter dette tidspunkt, beregnes afgiften af så stor en del af leverancen, som tidsrummet fra lovens ikrafttræden til afregningsperiodens slutning udgør i forhold til den samlede afregningsperiode. Med de statslige told- og skattemyndigheders tilladelse kan der foretages afrunding ved opgørelse af den brøkdel af leverancerene, hvoraf der skal betales afgift.
+
+Stk. 4. For perioden fra lovens ikrafttræden til 31. december 1996 skal virksomheder, der registreres efter § 3, nr. 4, i lov om kuldioxidafgift af visse energiprodukter som affattet ved nærværende lovs § 1, nr. 4, bortset fra kraftværker og kraftvarmeværker omfattet af bilaget til lov om afgift af naturgas og bygas, kun indbetale 60 pct. af den skyldige kuldioxidafgift af naturgas og bygas som opgjort efter reglerne i § 5, stk. 1, nr. 4, og § 6, stk. 1, i lov om kuldioxidafgift af visse energiprodukter som affattet ved nærværende lovs § 1, nr. 5 og 6.
+
+Stk. 5. For perioden 1. januar 1997 - 31. december 1997 skal de i stk. 4 nævnte virksomheder kun indbetale 80 pct. af den skyldige kuldioxidafgift af naturgas og bygas som opgjort efter de i stk. 4 nævnte regler.
