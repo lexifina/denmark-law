@@ -1,1 +1,1 @@
-§ 7 B. 3)(* 10) Deltagelse i en virksomhed som kommanditist anses ikke som etablering. Deltagelsen berettiger ikke til at hæve beløb efter § 7 til forlods afskrivning på de af virksomheden omfattede aktiver. 1. og 2. pkt. gælder dog ikke ved køb af skibe, der er omfattet af § 5, stk. 9.
+§ 7 B. (* 5) Deltagelse i en virksomhed som kommanditist anses ikke som etablering. Deltagelsen berettiger ikke til at hæve beløb efter § 7 til forlods afskrivning på de af virksomheden omfattede aktiver.
