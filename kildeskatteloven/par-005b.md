@@ -10,7 +10,7 @@
 
 5) Underholdsbidrag, jf. ligningslovens §§ 10 og 11.
 
-6) Obligatoriske udenlandske sociale bidrag, forudsat at den pågældende er omfattet af social sikringslovgivning i udlandet, jf. § 7, stk. 4 eller 5, i lov om arbejdsmarkedsfonde.
+6) Obligatoriske udenlandske sociale bidrag, forudsat at den pågældende er omfattet af social sikringslovgivning i udlandet, jf. § 7, stk. 3 eller 4, i lov om en arbejdsmarkedsfond.
 
 Stk. 2. Lønmodtagere omfattet af kildeskattelovens § 48 B, § 48 C, stk. 1, eller kulbrinteskattelovens § 21, stk. 2, kan endvidere fratrække udgifter, der vedrører indkomsterhvervelsen.
 

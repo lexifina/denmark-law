@@ -6,8 +6,4 @@ Stk. 2. Bøderne kan inddrives ved indeholdelse i løn m.v. efter reglerne herom
 
 Forskellige bestemmelser
 
-§ 80. Samlevende ægtefæller har ret til at blive gjort bekendt med hinandens selvangivelser i udfyldt stand, forinden de indsendes til ligningsmyndigheden. Hver ægtefælle kan ved henvendelse til ligningsmyndigheden begære oplysning om indholdet af selvangivelsen og om skatteansættelsen for indkomstår, i hvilke de er samlevende.
-
-Stk. 2. Enhver af ægtefællerne kan i overensstemmelse med de regler, der i øvrigt gælder herom, klage over den anden ægtefælles ansættelse eller over, at ansættelse ikke har fundet sted.
-
-§§ 81-82. (Ophævet)
+§§ 80-82. (Ophævet)
