@@ -1,0 +1,1 @@
+§ 3 A. Ved afståelse af en del af en fast ejendom forstås afståelser, hvor et areal overdrages efter reglerne om arealoverførsel, eller hvor der overdrages en del af en fast ejendom betinget af udstykning.
