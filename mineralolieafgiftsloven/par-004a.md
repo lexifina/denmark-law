@@ -1,0 +1,5 @@
+§ 4 a. 2) Virksomheder, der ikke er registreret som oplagshaver, og som både afsætter ufarvet gas- og dieselolie og gas- og dieselolie, der er farvet i henhold til bestemmelser fastsat efter § 24, stk. 1, kan blive registreret som farvningsvirksomhed hos de statslige told- og skattemyndigheder. Det er en betingelse herfor, at virksomheden afsætter mindst 500.000 l gas- og dieselolie årligt, og at denne afsætning ikke sker fra stationære detailsalgsanlæg.
+
+Stk. 2. Farvningsvirksomheder er berettiget til med henblik på videresalg at få tilført og oplagre ufarvet gas- og dieselolie, hvoraf der kun er betalt afgift efter satsen for varer omfattet af § 1, stk. 1, nr. 2, jf. dog § 4, stk. 3. Ved videresalg af ufarvet olie, hvoraf der er betalt afgift efter den i 1. pkt. nævnte afgiftssats, skal differencen mellem denne afgiftssats og satsen for varer omfattet af henholdsvis § 1, stk. 1, nr. 1 og 3, indbetales til de statslige told- og skattemyndigheder. Tilsvarende gælder, når farvet olie videresælges til anvendelse som motorbrændstof.
+
+Stk. 3. Til de registrerede farvningsvirksomheder udstedes et bevis for registreringen.
