@@ -1,1 +1,1 @@
-§ 4 B. (* 2)Ejendomme, der omfattes af § 14, stk. 5, i lov om vurdering af landets faste ejendomme, medregnes ved opgørelsen af den skattepligtige formue med ejendomsværdien efter fradrag af det differencebeløb, der er nævnt i vurderingslovens § 14, stk. 6.
+§ 4 B. (* 4) Ejendomme, der omfattes af § 14, stk. 5, i lov om vurdering af landets faste ejendomme, medregnes ved opgørelsen af den skattepligtige formue med ejendomsværdien efter fradrag af det differencebeløb, der er nævnt i vurderingslovens § 14, stk. 6.

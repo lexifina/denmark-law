@@ -1,6 +1,6 @@
-§ 15 E. (* 18) Lejeværdien for ejendommen beregnes som 2,0 pct. af den del af det efter § 15 B eller § 15 C opgjorte beregningsgrundlag, der ikke overstiger et grundbeløb på 1.200.000 kr., og 6 pct. af resten. For fritidsboliger, bortset fra sommerhuse, som efter tilladelse anvendes som helårsbolig, forhøjes de i 1. pkt. nævnte 2,0 pct. til 2,5 pct. Grundbeløbet reguleres efter personskattelovens § 20.
+§ 15 E. Lejeværdien for ejendommen beregnes som 2,0 pct. af den del af det efter § 15 B eller § 15 C opgjorte beregningsgrundlag, der ikke overstiger et grundbeløb på 1.200.000 kr., og 6 pct. af resten. For fritidsboliger, bortset fra sommerhuse, som efter tilladelse anvendes som helårsbolig, forhøjes de i 1. pkt. nævnte 2,0 pct. til 2,5 pct. Grundbeløbet reguleres efter personskattelovens § 20.
 
-Stk. 2. (* 22) Endvidere beregnes for ejendommen en lejeværdi, hvor de i stk. 1 nævnte 2,0 pct. henholdsvis 2,5 pct. nedsættes til 1,1 pct. for indkomståret 1994 og 1,0 pct. fra og med indkomståret 1995. Denne lejeværdi anvendes:
+Stk. 2. Endvidere beregnes for ejendommen en lejeværdi, hvor de i stk. 1 nævnte 2,0 pct. henholdsvis 2,5 pct. nedsættes til 1,1 pct. for indkomståret 1994 og 1,0 pct. fra og med indkomståret 1995. Denne lejeværdi anvendes:
 
 1) Hvis den skattepligtige eller den med denne samlevende ægtefælle inden udgangen af indkomståret er fyldt 67 år.
 

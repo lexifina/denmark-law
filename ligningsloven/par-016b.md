@@ -4,4 +4,4 @@ Stk. 2. Skatteministeren eller den, han bemyndiger dertil, kan tillade, at afst�
 
 Stk. 3. Stk. 1 finder ikke anvendelse, såfremt aktier m.v. afstås til et selskab i likvidation i det kalenderår, hvori selskabet endeligt opløses.
 
-Stk. 4. (* 26) Uanset stk. 1 er beløb, som er skattepligtige for foreninger og selskaber efter selskabsskattelovens § 5 B, stk. 4, og fusionsskattelovens § 12, stk. 3, skattefri for modtageren.
+Stk. 4. Uanset stk. 1 er beløb, som er skattepligtige for foreninger og selskaber efter selskabsskattelovens § 5 B, stk. 4, og fusionsskattelovens § 12, stk. 3, skattefri for modtageren.

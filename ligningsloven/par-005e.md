@@ -1,4 +1,4 @@
-§ 5 E. (* 6) Har skattepligtige omfattet af selskabsskatteloven eller fondsbeskatningsloven for lånte midler erhvervet aktier i selskaber, der er hjemmehørende i udlandet, på Færøerne eller i Grønland, herunder efter bestemmelserne i en dobbeltbeskatningsoverenskomst, kan renteudgifter, kurstab, provisioner, præmier eller andre udgifter vedrørende lånet ikke fradrages ved indkomstopgørelsen, såfremt det må antages,
+§ 5 E. Har skattepligtige omfattet af selskabsskatteloven eller fondsbeskatningsloven for lånte midler erhvervet aktier i selskaber, der er hjemmehørende i udlandet, på Færøerne eller i Grønland, herunder efter bestemmelserne i en dobbeltbeskatningsoverenskomst, kan renteudgifter, kurstab, provisioner, præmier eller andre udgifter vedrørende lånet ikke fradrages ved indkomstopgørelsen, såfremt det må antages,
 
 1) at virksomheden i sidstnævnte selskab m.v. overvejende er af finansiel karakter,
 
