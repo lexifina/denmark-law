@@ -1,0 +1,9 @@
+GIVET PÅ CHRISTIANSBORG SLOT, DEN 6. MAJ 1980
+
+Under Vor Kongelige Hånd og Segl
+
+MARGRETHE R.
+
+/HENNING RASMUSSEN
+
+Ingen
