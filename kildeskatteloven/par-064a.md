@@ -1,22 +1,8 @@
-§ 64 A. Det beløb, som den enkelte kommune og amtskommune efter § 64, stk. 2 og 7, kan forlange udbetalt af statskassen i månederne oktober-december 1983, nedsættes efter reglerne i stk. 2.
+§ 64 A. (* 23) For amtskommuner og Københavns og Frederiksberg Kommuner udsættes eventuel afregning af de forskelsbeløb, der er nævnt i § 64, stk. 4, jf. stk. 8, og som vedrører kalenderåret 1989.
 
-Stk. 2. Nedsættelsen beregnes med følgende procenter af beløbet:
+Stk. 2. Indenrigsministeren kan bestemme, at der helt eller delvis kan ske en udsættelse af eventuel afregning af de forskelsbeløb for amtskommuner og Københavns og Frederiksberg Kommuner, der er nævnt i § 64, stk. 4, jf. stk. 8, og som vedrører kalenderåret 1990.
 
-For Københavns og
-
-Frederiksberg kommuner
-
-14 pct.
-
-For øvrige kommuner
-
-12 pct.
-
-For amtskommuner
-
-17 pct.
-
-Stk. 3. De forskelsbeløb, der er nævnt i § 64, stk. 3, og som vedrører kalenderåret 1983, udbetales i deres helhed til de enkelte kommuner og amtskommuner den 1. november 1984.
+Stk. 3. Tidspunkterne for afregningen af de beløb, der er nævnt i stk. 1, bestemmes af indenrigsministeren. Det samme gælder de beløb, der er nævnt i stk. 2, hvis indenrigsministeren bestemmer, at der skal ske udsættelse af tidspunktet for afregningen af disse beløb.
 
 ## Afsnit VI
 
