@@ -2,16 +2,20 @@
 
 ## Egenkontrol, oplysnings- og undersøgelsespligt
 
-§ 38 d. Ministeren kan fastsætte regler om, at producenter eller importører af et kemisk produkt eller en anden vare, hvoraf salg eller anvendelse er reguleret i regler fastsat i henhold til kapitel 6, skal være i besiddelse af dokumentation for, at produktet eller varen opfylder de fastsatte krav (egenkontrol). Dokumentationen skal efter anmodning udleveres til ministeren.
+§ 38 d. Enhver producent eller importør af et kemisk stof eller produkt eller anden vare skal være i besiddelse af dokumentation for, at stoffet, produktet eller varen opfylder de krav, der er fastsat i denne lov, i regler fastsat i medfør heraf samt i De Europæiske Fællesskabers forordninger om de kemiske stoffer, produkter og varer, der er omfattet af loven. Miljøministeren kan fastsætte nærmere regler om kravene til dokumentationen.
 
-Stk. 2. Ministeren kan fastsætte nærmere regler om kravene til den i stk. 1 nævnte dokumentation.
+Stk. 2. Enhver producent, der sælger et kemisk stof eller produkt, og enhver importør af et kemisk stof eller produkt skal være i besiddelse af følgende oplysninger om stoffet eller produktet:
 
-Stk. 3. Ministeren kan fastsætte regler om, at ministeren i de tilfælde, hvor en producent eller importør ikke opfylder kravene til dokumentation, fastsat i medfør af stk. 1 og 2, kan påbyde denne at udføre eller lade udføre de nødvendige undersøgelser til dokumentation for, at produktet eller varen opfylder de fastsatte krav.
+1) handelsnavn eller -navne,
 
-Stk. 4. Ministeren kan fastsætte regler om, at ministeren for den ansvarliges regning kan udføre eller lade udføre de undersøgelser, hvorom der er givet påbud efter regler, fastsat i medfør af stk. 3, hvis påbudet ikke er efterkommet inden den fastsatte frist.
+2) kemisk navn,
 
-Stk. 5. Ministeren kan fastsætte regler om, at ministeren uden forudgående påbud for den ansvarliges regning kan udføre eller lade udføre de nødvendige undersøgelser til kontrol af, at produktet eller varen opfylder de fastsatte krav, hvis producenten eller importøren ikke er i besiddelse af eller undlader at udlevere dokumentation herfor, jf. stk . 1, og hvis der er grund til at antage, at produktet eller varen kan indebære alvorlig sundhedsfare eller medføre alvorlig skade på miljøet.
+3) mængden, som importeres eller sælges,
 
-Stk. 6. Ministeren kan fastsætte regler om, at producenten eller importøren efter anmodning uden vederlag skal udlevere de nødvendige prøver af produktet eller varen til gennemførelse af de i stk. 4 og 5 nævnte undersøgelser.
+4) for produkter: kemisk navn for indholdsstofferne samt vægtprocent for de indholdsstoffer, der er klassificeret som farlige eller på anden måde er reguleret.
 
-Stk. 7. Ministeren kan fastsætte regler om, at andre forhandlere af produktet eller varen end producenten eller importøren efter anmodning skal udlevere de i stk. 6 nævnte prøver af produktet eller varen for importørens eller producentens regning, hvis denne ikke selv kan opfylde udleveringspligten.
+Stk. 3. Hvis det viser sig umuligt for en importør at skaffe oplysninger, der er nævnt i stk. 2, er det tilstrækkeligt, hvis oplysninger er indsendt til det fælles register for Arbejdsministeriet og Miljøministeriet for stoffer, materialer og produkter (Produktregisteret) og importøren har fået en bekræftelse herpå fra Produktregisteret, jf. dog stk. 1, § 10, stk. 1, og § 19.
+
+Stk. 4. Oplysninger som nævnt i stk. 1-3 skal efter anmodning udleveres til ministeren eller tilsynsmyndighederne.
+
+Stk. 5. Hvis en producent eller importør ikke opfylder kravene vedrørende oplysninger i stk. 1-3, kan ministeren eller tilsynsmyndighederne forbyde import, salg eller anvendelse af stoffet, produktet eller varen eller påbyde producenten eller importøren inden en bestemt frist at udføre eller lade udføre de nødvendige undersøgelser til dokumentation for, at stoffet, produktet eller varen opfylder de fastsatte krav.
