@@ -1,9 +1,7 @@
-Givet på Amalienborg, den 20. marts 1970.
+Landbrugsministeriet, den 5. april 1989
 
-Under Vor Kongelige Hånd og Segl.
+LAURITS TØRNÆS
 
-FREDERIK R.
-
-/Peter Larsen.
+/Dorte Wier
 
 Ingen
