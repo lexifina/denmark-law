@@ -1,7 +1,7 @@
-Givet på Amalienborg, den 27. februar 2001
+Forsvarsministeriet, den 20. august 2001
 
-Under Vor Kongelige Hånd og Segl
+Jan Trøjborg
 
-I Dronningens navn Joachim Prins til Danmark Rigsforstander
+/Niels A. K. Olsen
 
-/Jan Trøjborg
+Skal rettelig være stk. 3.
