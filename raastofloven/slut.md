@@ -1,6 +1,6 @@
-Miljøministeriet, den 10. marts 1992
+Miljø- og Energiministeriet, den 28. november 1996
 
-Per Stig Møller
+Svend Auken
 
 / Ole Christiansen
 
