@@ -1,7 +1,5 @@
-Kulturministeriet, den 28. februar 1994
+Kulturministeriet, den 31. august 2000
 
-Jytte Hilden
+Elsebeth Gerner Nielsen
 
-/ Annelise Jensen
-
-Ingen
+/Jacob Green

@@ -1,7 +1,3 @@
-## Kapitel 2a
-
-## Musikskoler
-
 § 3 a. Ved en musikskole forstås en skole, der tilbyder undervisning i musik til børn og unge.
 
 Stk. 2. Musikskolen kan desuden tilbyde musikundervisning til voksne.
