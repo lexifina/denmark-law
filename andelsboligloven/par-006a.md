@@ -1,0 +1,1 @@
+§ 6 a. Der kan ikke foretages arrest og udlæg i en andel i en andelsboligforening, hvor der til andelen er knyttet retten til en bolig, når det i vedtægten for andelsboligforeningen er fastsat, at andele i andelsboligforeningens formue ikke kan gøres til genstand for arrest eller eksekution, og at andelene ikke kan pantsættes.

@@ -1,8 +1,8 @@
-Boligministeriet, den 10. november 1994
+Boligministeriet, den 9. marts 1998
 
 Ole Løvig Simonsen
 
-/ Hanne Victor Hansen
+/ Anne Wallberg
 
 (* 1) Lovændringen vedrører § 1, stk. 3, §§ 2-4, § 5, stk. 1, 2 og 9, § 6, § 7, stk. (ophævet), § 9, § 11, § 13, § 15, stk. 1 og 3, samt §§ 16-18.
 
@@ -33,3 +33,17 @@ Ole Løvig Simonsen
 (* 14) Lovændringen vedrører § 14 a, stk. 3 og § 14 b, stk. 1, 1. pkt.
 
 (* 15) Bekendtgørelsen i Lovtidende fandt sted den 2. juni 1994.
+
+(* 16) Lovændringen vedrører § 7 a og § 7 b, stk. 2-4.
+
+(* 17) Bekendtgørelsen i Lovtidende fandt sted den 18. maj 1995
+
+(* 18) Lovændringen vedrører § 5, stk. 8 og 12.
+
+(* 19) Stk. 2 vedrører ændring af lov om boligbyggeri.
+
+(* 20) Lovændringen vedrører § 5, stk. 5 og 6 og § 6, stk. 6.
+
+(* 21) Lovændringen vedrører § 6 a og § 11 a.
+
+(* 22) Bekendtgørelsen i Lovtidende fandt sted den 11. juni 1997.

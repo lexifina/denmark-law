@@ -2,7 +2,7 @@
 
 § 2
 
-Loven(* 1) træder i kraft den 1. januar 1981.
+Loven (* 1) træder i kraft den 1. januar 1981.
 
 Stk. 2. Andelsboligforeninger, der har erhvervet ejendommen efter reglerne om tilbudspligt i lov om leje eller i lov om ejerlejligheder, kan uanset den på erhvervelsestidspunktet gældende lovgivning ved generalforsamlingsbeslutning ændre vedtægtsbestemmelser om overdragelse. Det samme gælder andelsboligforeninger, der har erhvervet ejendommen efter 1. januar 1980.
 
@@ -16,27 +16,27 @@ Stk. 5. Reglen i § 16, stk. 2, i lov nr. 239 af 8. juni 1979 om andelsboligfore
 
 § 2
 
-Loven(* 2) træder i kraft ved bekendtgørelsen i Lovtidende.
+Loven (* 2) træder i kraft ved bekendtgørelsen i Lovtidende.
 
 § 2 i lov nr. 194 af 25. maj 1983 er sålydende:
 
 § 2
 
-Loven(* 3) træder i kraft den 1. juni 1983.
+Loven (* 3) træder i kraft den 1. juni 1983.
 
 § 2 i lov nr. 206 af 22. maj 1985 er sålydende:
 
 § 2
 
-Stk. 1. Loven(* 4) træder i kraft 1. januar 1986.
+Stk. 1. Loven (* 4) træder i kraft 1. januar 1986.
 
-Stk. 2. § 1, nr. 2 og 3(* 5), træder dog i kraft dagen efter bekendtgørelsen i Lovtidende.
+Stk. 2. § 1, nr. 2 og 3 (* 5), træder dog i kraft dagen efter bekendtgørelsen i Lovtidende.
 
 § 20 i lov nr. 138 af 7. marts 1990 er sålydende:
 
 § 20
 
-Stk. 1. Loven træder(* 6) i kraft den 1. april 1991. Dog træder § 18 i kraft den 1. juli 1990.
+Stk. 1. Loven (* 6) træder i kraft den 1. april 1991. Dog træder § 18 i kraft den 1. juli 1990.
 
 Stk. 2. Lov nr. 43 af 20. februar 1969 om bortfald af hartkorn og matrikelskyld ophæves.
 
@@ -44,15 +44,15 @@ Stk. 2. Lov nr. 43 af 20. februar 1969 om bortfald af hartkorn og matrikelskyld 
 
 § 2
 
-Stk. 1. Loven træder(* 7) i kraft den 1. juni 1992.
+Stk. 1. Loven (* 7) træder i kraft den 1. juni 1992.
 
-Stk. 2. § 1, nr. 6(* 8), har virkning for konverteringer, der finder sted efter den 31. marts 1992.
+Stk. 2. § 1, nr. 6 (* 8), har virkning for konverteringer, der finder sted efter den 31. marts 1992.
 
 §§ 7 og 9 i lov nr. 380 af 20. maj 1992 er sålydende:
 
 § 7
 
-Stk. 1. Loven træder(* 9) i kraft den 1. januar 1993.
+Stk. 1. Loven (* 9) træder i kraft den 1. januar 1993.
 
 Stk. 2. §§ 46 e og 46 f, stk. 1-3, stk. 4, 1. og 3. pkt., og stk. 5-6, lov om leje, som affattet ved denne lovs § 1, nr. 1, §§ 2-4, § 8, stk. 1-4 og 6, og § 9, stk. 1-4, træder dog i kraft dagen efter bekendtgørelsen i Lovtidende.
 
@@ -66,28 +66,52 @@ Stk. 3. § 7 a i lov om andelsboligforeninger og andre boligfællesskaber, som a
 
 Stk. 4. Andelsboligforeningen skal med virkning fra 1. januar 1993 foretage en nedsættelse af boligafgiften for hver enkelt andelshaver svarende til de hidtil betalte udgifter eller for ejendomme omfattet af § 9, stk. 3, det efter denne bestemmelse beregnede beløb bortset fra udgifter til administration. Andelsboligforeningen skal inden den 1. oktober 1992 give andelshaveren specificerede oplysninger om størrelsen af nedsættelsen af boligafgiften og skal samtidig give kommunen meddelelse om størrelse af boligafgiften pr. 1. januar 1993 for de enkelte andelshavere i ejendommen.
 
-Stk. 5. § 7 b, stk. 2, i lov om andelsboligforeninger og andre boligfællesskaber, som affattet ved denne lovs § 5, nr. 1, har virkning for egne fællesantenneanlæg og programforsyning udefra, som etableres efter 1. januar 1998.(* 10) For anlæg og programforsyning, som er etableret inden 1. januar 1993, og som er indrettet til modtagelse af betalingsprogrammer, skal andelsboligforeningen hurtigst muligt, dog inden 1. januar 1998, skabe mulighed for individuelt valg af programudbud i ejendommen, såfremt andelshaveren ønsker det. Ved betalingsprogrammer forstås alle programmer, hvis modtagelse og udsendelse i anlægget er betinget af andelsboligforeningens betaling herfor til programleverandøren.
+Stk. 5. § 7 b, stk. 2, i lov om andelsboligforeninger og andre boligfællesskaber, som affattet ved denne lovs § 5, nr. 1, har virkning for egne fællesantenneanlæg og programforsyning udefra, som etableres efter 1. januar 1998. (* 10) For anlæg og programforsyning, som er etableret inden 1. januar 1993, og som er indrettet til modtagelse af betalingsprogrammer, skal andelsboligforeningen hurtigst muligt, dog inden 1. januar 1998, skabe mulighed for individuelt valg af programudbud i ejendommen, såfremt andelshaveren ønsker det. Ved betalingsprogrammer forstås alle programmer, hvis modtagelse og udsendelse i anlægget er betinget af andelsboligforeningens betaling herfor til programleverandøren.
 
 § 5 i lov nr. 1072 af 22. december 1993 er sålydende:
 
 § 5
 
-Loven(* 11) træder i kraft den 1. januar 1994.
+Loven (* 11) træder i kraft den 1. januar 1994.
 
 § 2 i lov nr. 335 af 10. maj 1994 er sålydende:
 
 § 2
 
-Loven(* 12) træder i kraft dagen efter bekendtgørelsen i
-
-Lovtidende(* 13) og har virkning for aftaler om overdragelse, der
-
-indgås efter lovens ikrafttræden.
+Loven (* 12) træder i kraft dagen efter bekendtgørelsen i Lovtidende (* 13) og har virkning for aftaler om overdragelse, der indgås efter lovens ikrafttræden.
 
 § 7 i lov nr. 445 af 1. juni 1994 er sålydende:
 
 § 7
 
-Stk. 1. Loven(* 14) træder i kraft dagen efter bekendtgørelsen i Lovtidende(* 15).
+Stk. 1. Loven (* 14) træder i kraft dagen efter bekendtgørelsen i Lovtidende (* 15).
 
 Stk. 4. § 6 har virkning for aftaler om overdragelse, der indgås efter 11. maj 1994.
+
+§§ 5 og 6 i lov nr. 306 af 17. maj 1995 er sålydende:
+
+§ 5
+
+Loven (* 16) træder i kraft dagen efter bekendtgørelsen i Lovtidende (* 17).
+
+§ 6
+
+Forslag til revision af denne lov fremsættes for Folketinget i folketingsåret 1997-98.
+
+§ 4, stk. 1, i lov nr. 220 af 27. marts 1996 er sålydende:
+
+§ 4
+
+Stk. 1. Loven (* 18) træder i kraft den 1. april 1996, jf. dog stk. 2. (* 19)
+
+§ 10, stk. 1, i lov nr. 382 af 10. juni 1997 er sålydende:
+
+§ 10
+
+Stk. 1. Loven (* 20) træder i kraft den 1. januar 1998.
+
+§ 2 i lov nr. 383 af 10. juni 1997 er sålydende:
+
+§ 2
+
+Loven (* 21) træder i kraft dagen efter bekendtgørelsen i Lovtidende (* 22).
