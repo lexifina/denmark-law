@@ -1,3 +1,3 @@
-Lov om gennemførelse af dele af arbejdstidsdirektivet
+Bekendtgørelse af lov om gennemførelse af dele af arbejdstidsdirektivet
 
-VI MARGRETHE DEN ANDEN, af Guds Nåde Danmarks Dronning, gør vitterligt: Folketinget har vedtaget og Vi ved Vort samtykke stadfæstet følgende lov:
+Herved bekendtgøres lov nr. 248 af 8. maj 2002 om gennemførelse af dele af arbejdstidsdirektivet med de ændringer, der følger af lov nr. 258 af 8. april 2003.
