@@ -1,0 +1,1 @@
+§ 456 g. Retten kan, når dertil findes særlig anledning, beskikke en advokat for en part. Er der under sagen spørgsmål om, hvorvidt et barn er ægtebarn, skal der altid beskikkes advokat for barnet. Endvidere skal beskikkelse for sagsøgte altid ske, når der efter offentlig indstævning eller i tilfælde, hvor den opgivne fader er død, ikke gives møde af sagsøgte eller dødsboet.

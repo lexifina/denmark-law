@@ -1,0 +1,1 @@
+§ 150 a. Finder en almindelig domstol, at et forhold, der er indbragt for den særlige klageret, er af betydning for pådømmelsen af en for vedkommende domstol verserende sag, bliver denne sidste i det hele eller til dels at udsætte, indtil klagerettens afgørelse foreligger.

@@ -1,0 +1,1 @@
+§ 448 b. Parterne kan optræde på egen hånd, selv om de er umyndige eller under lavværgemål. Er en part umyndiggjort på grund af sindssygdom eller åndssvaghed, optræder værgen dog på partens vegne. Værgen kan kun anlægge sag med statsamtets samtykke.

@@ -1,0 +1,1 @@
+§ 770 c. Ved rettens afgørelse om isolation finder reglerne i § 764, stk. 2-4, og §§ 766-769 tilsvarende anvendelse. Ved iværksættelse af isolation må den første frist for indgrebets længde dog ikke overstige 2 uger.
