@@ -1,0 +1,1 @@
+§ 48 c. Hvis særlige hensyn af humanitær karakter taler herfor, kan Udlændingestyrelsen uanset reglerne i §§ 48 a og 48 b beslutte, at en ansøgning om opholdstilladelse efter § 7 skal behandles her i landet, hvis udlændingen ønsker dette.
