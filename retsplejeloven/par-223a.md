@@ -1,0 +1,1 @@
+§ 223 a. Justitsministeren kan fastsætte bestemmelser, hvorefter afgørelser af udenlandske domstole og myndigheder om borgerlige krav og udenlandske offentlige forlig om sådanne krav skal have bindende virkning her i riget, når anerkendelsen ikke vil være åbenbart uforenelig med landets retsorden.

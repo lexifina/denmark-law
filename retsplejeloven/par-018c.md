@@ -1,0 +1,1 @@
+§ 18 c. Bestemmelserne i § 9 a, stk. 2-4, om medvirken af sagkyndige finder tilsvarende anvendelse ved byrettens behandling af borgerlige sager, for hvis udfald anvendelsen af reglerne i kap. 5 a i lov om arbejdsformidling og arbejdsløshedsforsikring m. v. er af væsentlig betydning, og straffesager vedrørende overtrædelse af denne lovs §§ 23 b og c.

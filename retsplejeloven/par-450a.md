@@ -1,0 +1,1 @@
+§ 450 a. Retten kan bestemme, at en eller begge parter ikke må overvære den samtale med et barn, der skal finde sted efter myndighedslovens § 26. Inden sagen afgøres, skal parterne gøres bekendt med indholdet af samtalen, medmindre dette vil stride mod de hensyn, der har ført til udelukkelsen.

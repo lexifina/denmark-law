@@ -1,0 +1,1 @@
+§ 448 a. Anlægger justitsministeren eller den, han bemyndiger dertil, eller ægtefællen i et tidligere ægteskab sag til omstødelse af et ægteskab, skal sagen anlægges mod begge ægtefæller. Sagen anlægges ved en ret, hvor en af ægtefællerne kan sagsøges efter § 448 d.

@@ -1,0 +1,1 @@
+§ 456 p. Når sagen er sluttet, sender retten snarest muligt meddelelse herom til statsamtet ledsaget af en udskrift af dommen eller indgået forlig og det retsbogen tilførte samt sagens dokumenter. Det påhviler retten at drage omsorg for dommens forkyndelse.

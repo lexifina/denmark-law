@@ -1,0 +1,1 @@
+§ 456 k. Finder retten det fornødent, at der til sagens oplysning søges fremskaffet blodtypebestemmelser eller foretages andre legemlige undersøgelser af parterne, drager den omsorg for, at dette sker. De pågældende er forpligtet til at fremstille sig til undersøgelse, afgive blodprøver m.v.
