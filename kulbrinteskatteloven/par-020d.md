@@ -1,0 +1,1 @@
+§ 20 D. Ved opgørelsen af den skattepligtige kulbrinteindkomst fradrages skatter, der for det pågældende indkomstår pålignes den skattepligtige efter reglerne i kapitel 2, og som vedrører indkomst, der beskattes efter dette kapitel.

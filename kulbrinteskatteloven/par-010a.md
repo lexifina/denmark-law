@@ -1,0 +1,1 @@
+§ 10 A. Ved opgørelsen af den i § 4 nævnte skattepligtige indkomst kan fradrages beløb, som den skattepligtige afholder til fjernelse af anlæg også efter, at virksomhed med indvinding af kulbrinter er ophørt.
