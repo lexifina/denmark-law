@@ -1,4 +1,4 @@
-§ 15 H. (* 14) For skattepligtige, der har erhvervet ejendommen den 1. januar 1990 eller senere, danner den for indkomståret 1990 beregnede helårslejeværdi efter § 15 E, stk. 1 eller 2, udgangspunkt for den årlige stigning i lejeværdien efter § 15 E, stk. 3 eller 4.
+§ 15 H. For skattepligtige, der har erhvervet ejendommen den 1. januar 1990 eller senere, danner den for indkomståret 1990 beregnede helårslejeværdi efter § 15 E, stk. 1 eller 2, udgangspunkt for den årlige stigning i lejeværdien efter § 15 E, stk. 3 eller 4.
 
 Stk. 2. For skattepligtige, der har erhvervet ejendommen inden 1. januar 1990, danner den for indkomståret 1989 opgjorte helårslejeværdi udgangspunkt for den årlige stigning i lejeværdien efter § 15 E, stk. 3 eller 4.
 

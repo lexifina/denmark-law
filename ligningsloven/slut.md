@@ -1,51 +1,39 @@
-Skatteministeriet, den 20. november 1990
+Skatteministeriet, den 5. november 1991
 
 Anders Fogh Rasmussen
 
 / H. K. Andersen
 
-(* 1) Denne lovbekendtgørelse indeholder bemærkninger om ikrafttrædelses- og overgangsbestemmelser for love, der er vedtaget i folketingsåret 1989-90. Bemærkninger om ikrafttrædelses- og overgangsbestemmelser for tidligere vedtagne ændringer i ligningsloven er kun medtaget i det omfang, de skønnes at have betydning.
+(* 1) Denne lovbekendtgørelse indeholder bemærkninger om ikrafttrædelses- og overgangsbestemmelser for love, der er vedtaget i folketingsåret 1990-91. Bemærkninger om ikrafttrædelses- og overgangsbestemmelser for tidligere vedtagne ændringer i ligningsloven er kun medtaget i det omfang, de skønnes at have betydning.
 
-(* 2) Bestemmelsen i § 5, stk. 4, nr. 5, har virkning fra og med skatteåret 1991-92, jf. § 8, stk. 1, i lov nr. 889 af 29. december 1989.
+(* 2) Bestemmelsen i § 5, stk. 4, nr. 8, har i den her anførte affattelse virkning fra og med indkomståret 1991, jf. § 9, stk. 1, i lov nr. 362 af 6. juni 1991.
 
-(* 3) Bestemmelsen i § 5 C har virkning for aftaler om overdragelse af fordringer, hvor afviklingen sker den 1. januar 1990 eller senere, jf. § 11, stk. 5, i lov nr. 888 af 29. december 1989.
+(* 3) Bestemmelsen i § 7, litra j, træder i den her anførte affattelse i kraft den 12. april 1991, jf. § 4 i lov nr. 219 af 10. april 1991.
 
-(* 4) Bestemmelsen i § 7, litra j, om faste revalideringsydelser træder i kraft den 1. oktober 1990, jf. § 3, stk. 1, i lov nr. 210 af 30. marts 1990, mens bestemmelsen i § 7, litra j, om godtgørelse til forældre med alvorligt syge børn træder i kraft den 1. april 1990, jf. § 3, stk. 2, i lov nr. 210 af 30. marts 1990.
+(* 4) Bestemmelsen i § 7, litra w, har virkning fra den 1. januar 1992, jf. § 8, stk. 2, i lov nr. 391 af 6. juni 1991.
 
-(* 5) Bestemmelsen i § 7, litra p, træder i kraft den 1. april 1990, jf. § 3, stk. 2, i lov nr. 210 af 30. marts 1990.
+(* 5) Bestemmelsen i § 7, litra ø, har virkning fra og med indkomståret 1991, jf. § 4 i lov nr. 219 af 10. april 1991.
 
-(* 6) Bestemmelsen i § 7 F, stk. 1, nr. 1, har virkning for tilskud, som ydes den 1. januar 1989 og senere, jf. § 11, stk. 6, i lov nr. 888 af 29. december 1989. Bestemmelsen i § 7 F, stk. 1, nr. 2, har virkning fra og med indkomståret 1990, og bestemmelsen i § 7 F, stk. 1, nr. 3, er ophævet med virkning fra og med indkomståret 1990, jf. § 11, stk. 1, i lov nr. 888 af 29. december 1989.
+(* 6) Bestemmelsen i § 7 F, stk. 1, nr. 2, har i den her anførte affattelse virkning for ejere af ejendomme, hvor forbud mod beboelse eller ophold er meddelt den 1. januar 1983 eller senere i medfør af § 73 eller i medfør af § 12 i boligtilsynsloven, jf. § 3, stk. 2, i lov nr. 274 af 8. maj 1991.
 
-(* 7) Bestemmelsen i § 7 I har virkning for obligationer, der udstedes til finansiering af skibe, når skriftlig aftale om bygning af et skib er indgået senest den 31. december 1991 med aftalt levering senest den 31. december 1993, jf. § 2 i lov nr. 74 af 3. februar 1989.
+(* 7) Bestemmelsen i § 7 F, stk. 1, nr. 3, finder anvendelse på arbejder, der påbegyndes efter den 1. juli 1991, jf. § 12 i lov nr. 379 af 6. juni 1991.
 
-(* 8) Bestemmelsen i § 7 J har i den her anførte affattelse virkning fra og med indkomståret 1990, jf. § 8, stk. 1, i lov nr. 255 af 25. april 1990.
+(* 8) Bestemmelsen i § 7 I har virkning for obligationer, der udstedes til finansiering af skibe, når skriftlig aftale om bygning af et skib er indgået senest den 31. december 1992 med aftalt levering senest den 31. december 1994, jf. § 1 i lov nr. 120 af 1. marts 1991.
 
-(* 9) Bestemmelsen i § 12, stk. 3, 1. pkt., har i den her anførte affattelse virkning fra den 1. april 1990, jf. § 34 i lov nr. 59 af 7. februar 1990. Ved lov nr. 823 af 19. december 1989 blev bestemmelsen i § 12, stk. 3, 4. pkt., ændret, men bestemmelsen er senere ophævet med virkning fra og med den 1. april 1990, jf. § 34 i lov nr. 59 af 7. februar 1990.
+(* 9) Bestemmelsen i § 8 B, stk. 2, har i den her anførte affattelse virkning fra og med indkomståret 1991, jf. § 12 i lov nr. 218 af 10. april 1991.
 
-(* 10) Bestemmelsen i § 14 A har i den her anførte affattelse virkning fra og med indkomståret 1990, jf. § 8, stk. 1, i lov nr. 255 af 25. april 1990.
+(* 10) Bestemmelserne i § 8 G, stk. 2 og stk. 5-6, har virkning for projekter, der godkendes efter den 1. januar 1991. Bestemmelsen i § 8 G, stk. 3, har i den her anførte affattelse virkning for projekter, der godkendes efter den 1. januar 1991, jf. § 2 i lov nr. 398 af 6. juni 1991.
 
-(* 11) Bestemmelserne i § 14 D, stk. 1 og 2, har i den her anførte affattelse virkning fra den 1. april 1990, jf. § 13, stk. 1, i lov nr. 823 af 19. december 1989.
+(* 11) Bestemmelserne i § 15, stk. 2-3 og stk. 9, har virkning for frivillige akkorder, tvangsakkorder og gældssaneringer, hvor fristdagen efter konkursloven er den 27. december 1990 eller senere. For frivillige akkorder, hvor der ikke er en fristdag efter konkursloven, har bestemmelserne virkning, når aftale om frivillig akkord er indgået den 27. december 1990 eller senere, jf. § 7 i lov nr. 363 af 6. juni 1991.
 
-(* 12) Bestemmelsen i § 14 F har virkning fra og med indkomståret 1990. For så vidt angår godkendelse af vedtægter og vedtægtsændringer har bestemmelsen dog virkning fra og med den 1. januar 1990, jf. § 3, stk. 2, i lov nr. 826 af 19. december 1989.
+(* 12) Henvisningen i § 15, stk. 5, 1. pkt., til stk. 4 skal rettelig være en henvisning til stk. 6. Endvidere skal henvisningen i bestemmelsens stk. 7 til stk. 3 og 4 rettelig være en henvisning til stk. 5 og 6, og i stk. 7, nr. 2, skal henvisningen til stk. 3 rettelig være en henvisning til stk. 5. Endelig skal henvisningen i bestemmelsens stk. 8 til stk. 3 rettelig være en henvisning til stk. 5. De ændrede henvisninger skyldes en rykning af stykkerne i § 15 ved lov nr. 363 af 6. juni 1991.
 
-(* 13) Bestemmelserne i § 15, stk. 3-6, har virkning fra og med indkomståret 1988. De aktionærer, der ejede aktierne i selskabet den 24. november 1987, anses ved anvendelsen af ligningslovens § 15, stk. 3, for at eje aktierne ved begyndelsen af indkomståret 1987 og tidligere indkomstår, jf. § 2 i lov nr. 837 af 18. december 1987.
+(* 13) Bestemmelserne i § 15, stk. 6, nr. 2, og § 15, stk. 7, nr. 3, har i den her anførte affattelse virkning fra den 27. december 1990, jf. § 10, stk. 1, i lov nr. 394 af 6. juni 1991.
 
-(* 14) Bestemmelserne i § 15 A, stk. 3-6, § 15 C, § 15 D og § 15 L, stk. 2, er ophævet med virkning fra og med indkomståret 1990. Bestemmelserne i § 15 A, stk. 2, § 15 B, § 15 E, stk. 1-4, §§ 15 F-I, § 15 J, stk. 2 og 3, og § 15 K, stk. 2, har virkning fra og med indkomståret 1990, jf. § 3, stk. 2, i lov nr. 827 af 19. december 1989.
+(* 14) Bestemmelsen i § 15, stk. 6, nr. 3, har i den her anførte affattelse virkning fra og med indkomståret 1991, jf. § 12 i lov nr. 218 af 10. april 1991.
 
 (* 15) Bestemmelserne i § 15 E, stk. 5 og 7, har virkning fra og med indkomståret 1991, jf. § 3, stk. 4, i lov nr. 827 af 19. december 1989.
 
-(* 16) Bestemmelsen i § 15 E, stk. 6, gælder kun for ejerlejligheder, der frigøres for lejemål den 1. januar 1990 eller senere, jf. § 3, stk. 3, i lov nr. 827 af 19. december 1989.
+(* 16) Bestemmelsen i § 16 A, stk. 1, har i den her anførte affattelse virkning fra og med indkomståret 1991, jf. § 12 i lov nr. 218 af 10. april 1991.
 
-(* 17) Bestemmelserne i § 16 A, stk. 2 og 3, har virkning for afståelser, der finder sted den 1. januar 1990 eller senere, jf. § 11, stk. 7, i lov nr. 888 af 29. december 1989. Ved nævnte lov blev § 16 A, stk. 4, indsat, men ophævet igen med virkning fra og med den 1. april 1990, jf. § 34 i lov nr. 59 af 7. februar 1990. Bestemmelserne i § 16 A, stk. 2 og 3, blev desuden ændret ved lov nr. 59 af 7. februar 1990 med virkning fra og med den 1. april 1990, jf. § 34 i lov nr. 59 af 7. februar 1990.
-
-(* 18) Bestemmelsen i § 17 C har virkning for udgifter, der forfalder til betaling den 1. januar 1990 eller senere, jf. § 3 i lov nr. 837 af 19. december 1989.
-
-(* 19) Bestemmelsen i § 17 D har virkning fra den 1. juli 1990, jf. § 3 i lov nr. 312 af 16. maj 1990.
-
-(* 20) Bestemmelsen i § 18 A, stk. 1, har i den her anførte affattelse virkning fra og med indkomståret 1991, jf. § 31, stk. 4, i lov nr. 386 af 13. juni 1990.
-
-(* 21) Bestemmelserne i § 27, stk. 1 og 5, har virkning fra den 1. april 1990, jf. § 13, stk. 1, i lov nr. 823 af 19. december 1989.
-
-(* 22) Bestemmelsen i § 32 D, stk. 1, har virkning fra den 1. april 1990, jf. § 13, stk. 1, i lov nr. 823 af 19. december 1989. Bestemmelsen i § 32 D, stk. 4, har virkning fra den 1. maj 1990, jf. § 13, stk. 3, i lov nr. 823 af 19. december 1989.
-
-(* 23) Bestemmelsen i § 32 E har virkning fra den 1. april 1990, jf. § 34 i lov nr. 59 af 7. februar 1990.
+(* 17) Bestemmelsen i § 18 A, stk. 1, 3. pkt., har i den her anførte affattelse virkning fra og med indkomståret 1991, jf. § 14, stk. 2, i lov nr. 217 af 10. april 1991. En tidligere ændring i § 18 A, stk. 1, 3. pkt., med virkning fra og med indkomståret 1991, jf. § 31, stk. 4, i lov nr. 386 af 13. juni 1990 har herved mistet sin betydning. Henvisningerne i § 18 A til afskrivningslovens § 2, stk. 6, skal rettelig være henvisninger til afskrivningslovens § 2, stk. 5, som følge af en rykning af stykkerne i § 2 ved lov nr. 217 af 10. april 1991.

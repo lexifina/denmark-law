@@ -1,4 +1,4 @@
-§ 15 B. (* 14) Grundlaget for lejeværdiberegningen for en ejendom, som kun indeholder een selvstændig lejlighed, er den ejendomsværdi, der er ansat for ejendommen pr. 1. januar i indkomståret, reguleret efter vurderingslovens § 2 A.
+§ 15 B. Grundlaget for lejeværdiberegningen for en ejendom, som kun indeholder een selvstændig lejlighed, er den ejendomsværdi, der er ansat for ejendommen pr. 1. januar i indkomståret, reguleret efter vurderingslovens § 2 A.
 
 Stk. 2. For tofamilieshuse, for hvilke ejendomsværdien efter vurderingslovens § 33, stk. 6, fordeles på ejendommens to selvstændige lejligheder, opgøres beregningsgrundlaget som nævnt i stk. 1. Ved opgørelsen skal der dog kun tages hensyn til den del af ejendomsværdien, der er henført til ejerens lejlighed.
 

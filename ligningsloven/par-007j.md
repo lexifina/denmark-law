@@ -1,1 +1,1 @@
-§ 7 J. (* 8) Afdragsbidrag, der efter § 13 i lov om refinansiering af realkreditlån m.v. i landbrugsejendomme og §§ 2 a-2 c i bekendtgørelse nr. 572 af 15. august 1989 af lov om indeksregulerede realkreditlån m.fl. af staten ydes til jordbrugslån, er skattefri for låntager.
+§ 7 J. Afdragsbidrag, der efter § 13 i lov om refinansiering af realkreditlån m.v. i landbrugsejendomme og §§ 2 a-2 c i bekendtgørelse nr. 572 af 15. august 1989 af lov om indeksregulerede realkreditlån m.fl. af staten ydes til jordbrugslån, er skattefri for låntager.

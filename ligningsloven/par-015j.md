@@ -1,8 +1,8 @@
 § 15 J. Ved opgørelse af den skattepligtige indkomst kan ejere af ejendomme, der tjener til bolig for ejeren, og som indeholder een eller to selvstændige lejligheder, foretage et standardfradrag, jf. dog stk. 7 og § 15 K.
 
-Stk. 2. (* 14) For enfamilieshuse, for stuehuse som nævnt i § 15 B, stk. 3, for ejerboliger til skovbrugsejendomme som nævnt i § 15 B, stk. 4, samt for ejendomme som nævnt i § 15 B, stk. 5, er standardfradraget 1 pct. af det beregningsgrundlag, der benyttes ved beregningen af lejeværdien for det pågældende år, jf. dog stk. 4.
+Stk. 2. For enfamilieshuse, for stuehuse som nævnt i § 15 B, stk. 3, for ejerboliger til skovbrugsejendomme som nævnt i § 15 B, stk. 4, samt for ejendomme som nævnt i § 15 B, stk. 5, er standardfradraget 1 pct. af det beregningsgrundlag, der benyttes ved beregningen af lejeværdien for det pågældende år, jf. dog stk. 4.
 
-Stk. 3. (* 14) For ejendomme med to selvstændige lejligheder er standardfradraget 1 pct. af den ejendomsværdi, der er ansat pr. 1. januar i indkomståret, jf. dog stk. 4.
+Stk. 3. For ejendomme med to selvstændige lejligheder er standardfradraget 1 pct. af den ejendomsværdi, der er ansat pr. 1. januar i indkomståret, jf. dog stk. 4.
 
 Stk. 4. Fradraget, der beregnes særskilt for hver ejendom, udgør mindst 400 kr. pr. selvstændig lejlighed og kan ikke overstige 2.000 kr. pr. selvstændig lejlighed. Har ejendommen ikke været i den skattepligtiges besiddelse i hele det pågældende indkomstår, nedsættes det nævnte standardfradrag forholdsmæssigt.
 
