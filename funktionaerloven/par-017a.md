@@ -1,1 +1,3 @@
 § 17 a. Såfremt en funktionær, der ifølge aftale eller sædvane delvis vederlægges med tantieme, gratiale eller lignende ydelser, fratræder sin stilling i et løbende regnskabsår, tilkommer der ham en i forhold til hans ansættelsestid i regnskabsåret afpasset andel af den ydelse, han ville have fået udbetalt, dersom han havde været ansat i virksomheden ved regnskabsårets afslutning eller på det tidspunkt, ydelserne i øvrigt udbetales.
+
+Stk. 2. Stk. 1 finder ikke anvendelse på købe- eller tegningsrettigheder til aktier m.v., der er omfattet af lov om brug af køberet eller tegningsret til aktier m.v. i ansættelsesforhold.
