@@ -1,9 +1,7 @@
-GIVET PÅ CHRISTIANSBORG SLOT, DEN 21. MARTS 1979
+Beskæftigelsesministeriet, den 20. august 2002
 
-Under Vor Kongelige Hånd og Segl
+Claus Hjort Frederiksen
 
-MARGRETHE R.
+/E. Edelberg
 
-/Svend Auken
-
-Ingen
+Loven indeholder bestemmelser, der gennemfører Rådets direktiv 98/50/EF af 29. juni 1998 om ændring af direktiv 77/187/EØF om tilnærmelse af medlemsstaternes lovgivning om varetagelse af arbejdstagernes rettigheder i forbindelse med overførsel af virksomheder, bedrifter eller dele af bedrifter (EFT. 1988, nr. 201, L, s. 88).

@@ -1,5 +1,5 @@
-Lov om lønmodtageres retsstilling ved virksomhedsoverdragelse
+Bekendtgørelse af lov om lønmodtageres retsstilling ved virksomhedsoverdragelse
 
 (Virksomhedsoverdragelsesloven)
 
-VI MARGRETHE DEN ANDEN, af Guds Nåde Danmarks Dronning, gør vitterligt: Folketinget har vedtaget og Vi ved Vort samtykke stadfæstet følgende lov:
+Herved bekendtgøres lov nr. 111 af 21. marts 1979 om lønmodtageres retsstilling ved virksomhedsoverdragelse, med de ændringer, der følger af lov nr. 441 af 7. juni 2001.
