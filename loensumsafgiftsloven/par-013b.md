@@ -1,3 +1,3 @@
-§ 13 b. (* 4) Reglerne om eftergivelse og henstand i merværdiafgiftslovens § 83 finder tilsvarende anvendelse på afgift, renter, gebyrer og administrative bøder efter denne lov. Reglerne finder ligeledes anvendelse på beløb, som personer er pligtige at betale som erstatning for selskabers manglende betaling af afgift.
+§ 13 b. Reglerne om eftergivelse og henstand i merværdiafgiftslovens § 83 finder tilsvarende anvendelse på afgift, renter, gebyrer og administrative bøder efter denne lov. Reglerne finder ligeledes anvendelse på beløb, som personer er pligtige at betale som erstatning for selskabers manglende betaling af afgift.
 
 IV. Kontrolbestemmelser

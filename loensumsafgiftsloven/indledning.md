@@ -1,5 +1,5 @@
 Bekendtgørelse af lov om afgift af lønsum m.v.
 
-Herved bekendtgøres lov om afgift af lønsum m.v., jf. lovbekendtgørelse nr. 34 af 20. januar 1992, med de ændringer, der følger af § 6 i lov nr. 364 af 14. maj 1992 (afkortning af kredittider), § 2 i lov nr. 1020 af 19. december 1992 (betalingsbestemmelser), § 21 i lov nr. 1073 af 23. december 1992 (forhøjelse af gebyr for erindringsskrivelser) og § 1 i lov nr. 376 af 18. maj 1994 (konsekvensændringer m.v.).
+Herved bekendtgøres lov om afgift af lønsum m.v., jf. lovbekendtgørelse nr. 666 af 13. juli 1994 med de ændringer, der følger af § 2 i lov nr. 1114 af 21. december 1994 (Ændringer som følge af EU's udvidelse m.v.), lov nr. 423 af 14. juni 1995 (Neutralisering af nedsættelse af arbejdsmarkedsbidrag og ATP-betaling), § 6 i lov nr. 1204 af 27. december 1996 (Effektivisering af det offentliges restanceinddrivelse), § 25 i lov nr. 1223 af 27. december 1996 (Ændringer som følge af dødsboskifteloven og dødsboskatteloven m.v.) og § 2 i lov nr. 442 af 10. juni 1997 (Telekommunikationsydelser m.v.).
 
 I. Afgiftspligtige virksomheder
