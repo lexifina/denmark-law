@@ -1,0 +1,1 @@
+§ 79 b. 2) For overtrædelse af § 73, stk. 1, nr. 1og 3, §§ 76-79 og forskrifter udstedt i medfør af loven kan der pålægges selskaber m.v. (juridiske personer) strafansvar efter reglerne i straffeloven 5. kapitel.

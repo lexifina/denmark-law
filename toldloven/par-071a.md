@@ -1,4 +1,4 @@
-§ 71 a. 4) Landskatteretten påkender klager over de statslige told- og skattemyndigheders afgørelser i 1. instans af:
+§ 71 a. 2) Landskatteretten påkender klager over de statslige told- og skattemyndigheders afgørelser i 1. instans af:
 
 1) Spørgsmål om fastlæggelse af told og afgifter.
 
@@ -12,4 +12,6 @@
 
 6) Spørgsmål om godtgørelse af og fritagelse for told og afgifter.
 
-Stk. 2. 4) Reglerne i skattestyrelseslovens kapitler 3 og 3 A finder anvendelse ved klage til Landsskatteretten efter stk. 1.
+7) Spørgsmål om hæftelse for told- og afgifter i henhold til toldloven.
+
+Stk. 2. Reglerne i skattestyrelseslovens kapitler 3 og 3 A finder anvendelse ved klage til Landsskatteretten efter stk. 1.
