@@ -1,0 +1,3 @@
+§ 30 b. I forbindelse med salgs- eller anvendelsesbegrænsninger efter § 30 kan ministeren, når hensynet til at forebygge sundhedsfare eller miljøskade gør dette særligt begrundet, bestemme eller fastsætte regler om, at bestemte kemiske stoffer eller produkter kun må sælges mod rekvisition til nærmere angivne erhvervsmæssige formål eller til en nærmere angiven kreds af erhvervsmæssige brugere.
+
+Stk. 2. Ministeren kan fastsætte nærmere regler om tilsynsmyndighedernes påtegning af de i stk. 1 nævnte rekvisitioner, om rekvisitionernes indhold og form samt om, i hvilket omfang sådanne rekvisitioner skal opbevares af sælger og efter anmodning udleveres til tilsynsmyndigheden.
