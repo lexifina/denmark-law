@@ -1,9 +1,9 @@
-Givet på Christiansborg Slot, den 6. juni 1991
+Justitsministeriet, den 9. februar 1998
 
-Under Vor Kongelige Hånd og Segl
+Frank Jensen
 
-MARGRETHE R.
+/ Jens Kruse Mikkelsen
 
-/ Hans Engell
+(* 1) §§ 56-58 vedrører ændringer i andre love. 2) Lovændringen vedrører § 1, nr. 2, § 5, stk. 1, og § 32, stk. 1, 1. pkt. 3) Lovændringen vedrører § 27, stk. 3, og § 32, stk. 1.
 
 Ingen
