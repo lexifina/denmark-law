@@ -1,7 +1,19 @@
-§ 73 b. Boligministeren kan på statskassens vegne meddele tilsagn om statslån til dækning af indtil 10 pct. af de godkendte udgifter til udbedring af byggeskader, større ekstraordinære renoveringsarbejder samt i ganske særlige tilfælde til ekstraordinær opretning af økonomien i kollegier/ungdomsboliger, der har fået tilsagn om statsstøtte til opførelse efter byggestøtte-, kollegiestøtte- eller boligbyggerilovgivningen før 1. juli 1986, i det omfang udgifterne ikke dækkes ved erstatninger eller gennem forsikringer.
+§ 73 b. Boligministeren kan på statskassens vegne meddele tilsagn om ydelsesstøtte og garanti til udbedring af byggeskader og større ekstraordinære renoveringsarbejder, herunder modernisering, samt til energibesparende foranstaltninger i ungdomsboliger, der har modtaget tilsagn om støtte før 1. juli 1986 i medfør af byggestøtte-, kollegiestøtte- eller boligbyggerilovgivningen eller er godkendt efter § 67, stk. 1, nr. 8. Støtte kan ydes, i det omfang udgifterne ikke dækkes ved erstatninger, gennem forsikringer eller ved, at der ydes støtte efter lovens § 54 og § 54 a.
 
-Stk. 2. Statens lån skal have oprykkende panteret efter indekslån. Summen af stats- og indekslån kan udgøre indtil 100 pct. af de godkendte udgifter, jf. stk. 1. Statslånet er rente- og afdragsfrit, jf. § 70, stk. 2.
+Stk. 2. Udgifter til arbejdet efter stk. 1 finansieres ved optagelse af indekslån. Låntagers betaling af ydelser på indekslån sker første gang ved lånets 2. termin og udgør et beløb, som svarer til 1,20 pct. af den regulerede bogførte hovedstol. Betalingen reguleres 2 gange årligt pr. 1. januar og 1. juli efter samme retningslinier, som gælder for regulering af afdrag på lånene, jf. § 4 i lov om indeksregulerede realkreditlån. Reguleringen sker, indtil låntagers betaling svarer til de samlede ydelser på lånet.
 
-Stk. 3. Tilsagn om statslån efter stk. 1 afholdes af bevillingen til lån til boliger for unge under uddannelse m.fl.
+Stk. 3. Ydelsesstøtte udgør et beløb, som svarer til forskellen mellem de samlede ydelser på indekslånet og låntagers betaling.
 
-Stk. 4. Der ydes rentebidrag, afdragsbidrag samt garanti efter bestemmelserne i §§ 72, 72 a, 72 b og 72 c.
+Stk. 4. Ydelsesstøtte kan kun gives, hvis kommunen godtgør statens udgifter til ydelsesstøtte med et beløb på 8 pct. af udgifterne til renter samt administrations- og reservefondsbidrag på indekslånet. Kommunens betaling kan dog aldrig være større end den samlede ydelsesstøtte, jf. § 67.
+
+Stk. 5. Halvdelen af kommunens betaling af renter samt administrations- og reservefondsbidrag fordeles i hovedstadsområdet mellem kommunerne i dette område efter reglerne om fordeling af boligstøtte i lov om individuel boligstøtte.
+
+Stk. 6. Ydelsesstøtte samt garanti ydes efter bestemmelserne i §§ 72 b og 72 c. Ydelsesstøtte afholdes af bevillingen hertil efter § 67, stk. 2.
+
+Stk. 7. Tilsagn om støtte efter stk. 1 kan kun gives på betingelse af, at kommunalbestyrelsen indestår for eventuelt underskud på ungdomsboligernes fremtidige drift. Indeståelsen omfatter ikke underskud, som uden risiko for udlejningsvanskeligheder kan afvikles over en kortere årrække. Eventuelle udgifter ved indeståelsen kan afholdes efter reglerne i stk. 8.
+
+Stk. 8. Kommunalbestyrelsen kan i ganske særlige, helt ekstraordinære tilfælde give tilsagn om kommunalt lån til opretning af økonomien i en ungdomsboliginstitution, der har fået tilsagn efter stk. 1. Det kommunale lån skal have oprykkende panteret efter indekslånet.
+
+Stk. 9. Bestemmelserne i § 70, stk. 2, gælder for kommunale lån efter stk. 8 i denne bestemmelse.
+
+Stk. 10. Boligministeren fastsætter nærmere regler for tildeling af ydelsesstøtte til udbedring af byggeskader og større renovering m.v. samt for kommunal støtte til genopretning af økonomien efter stk. 8.
