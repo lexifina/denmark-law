@@ -1,3 +1,3 @@
 Bekendtgørelse af lov om tjenestemænd
 
-Hermed bekendtgøres lov om tjenestemænd, jf. lovbekendtgørelse nr. 678 af 17. september 1998, med de ændringer, der følger af § 2 i lov nr. 346 af 2. juni 1999
+Hermed bekendtgøres lov om tjenestemænd, jf. lovbekendtgørelse nr. 597 af 24. juni 2003, med de ændringer, der følger af § 1 i lov nr. 1155 af 19. december 2003 .
