@@ -1,0 +1,7 @@
+§ 29 g. Der må ikke foretages ændringer i tilstanden af fortidsminder på havbunden, hvis de befinder sig i territorialfarvandet eller på kontinentalsoklen, dog ikke ud over 24 sømil fra de basislinjer, hvorfra bredden af det ydre territorialfarvand måles.
+
+Stk. 2. Der må ikke foretages ændringer i tilstanden af vrag af skibe eller skibsladninger, der må antages at være gået tabt for mere end 100 år siden, hvis de befinder sig i de områder, der er nævnt i stk. 1, i vandløb eller i søer.
+
+Stk. 3. Kulturministeren kan bestemme, at vrag af skibe eller andre fartøjer, der er gået tabt for mindre end 100 år siden, skal være omfattet af bestemmelsen i stk. 2.
+
+Stk. 4. Kulturministeren kan i forbindelse med et anlægsarbejde eller en aktivitet på havbunden stille krav om, at den ansvarlige for anlægsarbejdet eller aktiviteten udfører en marinarkæologisk forundersøgelse.
