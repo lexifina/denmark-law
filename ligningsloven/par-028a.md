@@ -1,17 +1,1 @@
-§ 28 A. En person, der som led i et ansættelsesforhold har modtaget vederlag i form af aktier, tegningsretter til aktier eller køberetter til aktier af enten det selskab, hvor personen er ansat, eller fra et selskab, der er koncernforbundet med dette selskab, jf. kursgevinstlovens § 4, stk. 2, kan indgå en skriftlig aftale med det selskab, hvor vedkommende er ansat, eller det selskab, hvor aktien, tegningsretten eller køberetten er modtaget fra, om, at selskabet betaler en afgift, jf. stk. 3, til dækning af den skat m.v., som medarbejderen ellers skulle have betalt af det modtagne vederlag. Ved det modtagne vederlag forstås summen af værdien af de aktier m.v., som medarbejderen modtager direkte, og den afgift, som selskabet betaler, jf. § 28 B, stk. 1.
-
-Stk. 2. Det er en betingelse for anvendelse af reglerne i stk. 1, at de modtagne aktier, tegningsretter eller køberetter, er aktier i det selskab, hvor personen er medarbejder, eller i et selskab, der er koncernforbundet med dette selskab, jf. kursgevinstlovens § 4, stk. 2, eller giver ret til at tegne eller erhverve aktier i de nævnte selskaber. For tegningsretter og køberetter omfattet af § 28 er det yderligere en betingelse, at tegningsretten henholdsvis køberetten udnyttes til erhvervelse af aktier. Det er endvidere en betingelse, at den skriftlige aftale er indgået inden udløbet af det kvartal, hvori medarbejderen har erhvervet aktierne, tegningsretterne eller køberetterne. For tegningsretter og køberetter omfattet af § 28 er det en betingelse, at den skriftlige aftale er indgået inden udløbet af det kvartal, hvori medarbejderen har udnyttet tegningsretten henholdsvis køberetten.
-
-Stk. 3. Når der er indgået en skriftlig aftale mellem selskab og medarbejder om betaling af en afgift af det modtagne vederlag, jf. stk. 1, kan det selskab, der har indgået aftalen med medarbejderen, indbetale afgiften på en af følgende måder:
-
-1) Kontant.
-
-2) Ved aflevering af aktier.
-
-3) Ved deponering af aktier.
-
-Stk. 4. Hvor selskabet vælger at indbetale afgiften ved aflevering eller deponering af aktier, skal der afleveres henholdsvis deponeres aktier med en kursværdi svarende til den opgjorte afgift. De aktier, der afleveres henholdsvis deponeres, skal være i samme selskab og skal have samme rettigheder som de aktier, medarbejderen modtager eller kan erhverve i henhold til de modtagne tegningsretter eller køberetter.
-
-Stk. 5. Såfremt selskabet betaler afgift efter reglerne i stk. 3, bortfalder selskabets ret efter statsskattelovens § 6, litra a, til at fradrage den del af de udgifter, der er forbundet med ydelsen af de pågældende aktier eller køberetter, som svarer til aktiernes værdi ved medarbejderens erhvervelse henholdsvis køberetternes værdi ved medarbejderens erhvervelse eller udnyttelse. Endvidere bortfalder selskabets ret efter § 28, stk. 4, til at fradrage den del af de udgifter, der er forbundet med ydelsen af de pågældende tegningsretter, som svarer til tegningsretternes værdi ved medarbejderens udnyttelse.
-
-Stk. 6. Frigøres de deponerede aktier ved kontant betaling af kursværdien, jf. § 6 A, stk. 4, i lov om VækstFonden, anses frigørelsen for en afståelse omfattet af aktieavancebeskatningslovens regler, idet selskabet dog ikke skal medregne fortjeneste og tab ved opgørelsen af den skattepligtige indkomst. Ved opgørelse af fortjeneste eller tab efter aktieavancebeskatningslovens regler ved en senere afståelse af aktier i selskabet skal selskabet medregne kursværdien ved frigørelsen af de deponerede aktier i anskaffelsessummen.
+§ 28 A. (Ophævet)
