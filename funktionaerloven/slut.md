@@ -1,7 +1,7 @@
-Arbejdsministeriet, den 23. juli 1987
+Arbejdsministeriet, den 28. juni 1996
 
-Henning Dyremose
+Jytte Andersen
 
-/ Lis Gamborg
+/ E. Edelberg
 
 Ingen
