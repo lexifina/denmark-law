@@ -1,7 +1,5 @@
-Kirkeministeriet, den 24. januar 1996
+Kirkeministeriet, den 19. januar 2000
 
-Birte Weiss
+Margrethe Vestager
 
-/ Niels Bjerregaard
-
-Ingen
+/Niels Bjerregaard
