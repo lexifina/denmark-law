@@ -1,0 +1,1 @@
+§ 807 c. Indtil sagens afgørelse kan begæring om hel eller delvis ophævelse af beslaglæggelse fremsættes over for retten af den, der har interesse heri. Rettens afgørelse træffes ved kendelse, efter at de, som har interesse i afgørelsen, har haft adgang til at udtale sig.
