@@ -1,3 +1,7 @@
 Bekendtgørelse af lov om buskørsel
 
-Herved bekendtgøres lov nr. 115 af 29. marts 1978 med de ændringer, der følger af lov nr. 192 af 29. marts 1989, lov nr. 364 af 6. juni 1990, lov nr. 840 af 18. december 1991, lov nr. 386 af 22. maj 1996 og lov nr. 500 af 12. juni 1996.
+Herved bekendtgøres lov om buskørsel, jf. lovbekendtgørelse nr. 1270 af 16. december 1996, med de ændringer, der følger af § 36 i lov nr. 289 af 18. maj 1998 og lov nr. 399 af 2. juni 1999.
+
+## Kapitel 1
+
+Tilladelse til buskørsel
