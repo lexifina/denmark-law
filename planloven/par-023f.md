@@ -1,0 +1,1 @@
+§ 23 f. Kommunalbestyrelsen skal sikre, at der efter større ændringer af kommuneplanen tilvejebringes en oversigt over planens indhold og en sammenskrivning af de gældende bestemmelser, som offentligheden skal have adgang til at benytte.
