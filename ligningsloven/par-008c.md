@@ -1,1 +1,1 @@
-§ 8 C. (Ophævet)
+§ 8 C. Ved opgørelsen af den skattepligtige indkomst kan fradrages udlodninger efter lov om gevinstgivende spilleautomaters § 25, stk. 1, 1. pkt. Det samme gælder for overførsler efter lov om gevinstgivende spilleautomaters § 25, stk. 1, 2. pkt.
