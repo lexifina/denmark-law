@@ -1,9 +1,3 @@
-Lov om fonde og visse foreninger
+Bekendtgørelse af lov om fonde og visse foreninger
 
-(Fondsloven)
-
-(Den almindelige fondslov)
-
-(Lov om ikke-erhvervsdrivende fonde)
-
-VI MARGRETHE DEN ANDEN, af Guds Nåde Danmarks Dronning, gør vitterligt: Folketinget har vedtaget og Vi ved Vort samtykke stadfæstet følgende lov:
+Herved bekendtgøres lov nr. 300 af 6. juni 1984 om fonde og visse foreninger med de ændringer, der følger af lov nr. 350 af 6. juni 1991 og lov nr. 187 af 23. marts 1992.
