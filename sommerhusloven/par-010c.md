@@ -1,0 +1,1 @@
+§ 10 c. Betingelser, der knyttes til afgørelser truffet i medfør af § 7, er bindende for ejeren og indehavere af andre rettigheder over ejendommen uden hensyn til, hvornår retten er stiftet. Betingelserne tinglyses på ejendommen ved kommunalbestyrelsens foranstaltning. Tilladelser efter § 7 a skal ligeledes tinglyses på ejendommen ved kommunalbestyrelsens foranstaltning.
