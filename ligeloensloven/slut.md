@@ -1,4 +1,4 @@
-Arbejdsministeriet, den 27. september 2000
+Arbejdsministeriet, den 20. november 2001
 
 Ove Hygum
 
