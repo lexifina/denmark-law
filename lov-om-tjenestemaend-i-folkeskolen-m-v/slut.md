@@ -1,9 +1,5 @@
-Givet på Amalienborg, den 20. maj 1992
+Finansministeriet, den 17. september 1998
 
-Under Vor Kongelige Hånd og Segl
+Mogens Lykketoft
 
-MARGRETHE R.
-
-/Henning Dyremose
-
-Ingen
+/Birgitte Nielsen
