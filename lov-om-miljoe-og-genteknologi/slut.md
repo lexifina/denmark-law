@@ -1,9 +1,5 @@
-Givet på Christiansborg Slot, den 6. juni 1991
+Miljøministeriet, den 3. december 2002
 
-Under Vor Kongelige Hånd og Segl
+Hans Chr. Schmidt
 
-MARGRETHE R.
-
-/ Per Stig Møller
-
-Ingen
+/Hans Henrik Christensen
