@@ -1,7 +1,3 @@
-§ 11 a. (* 5) Der betales afgift af EU-varer, der efter at have
-
-været oplagt i Københavns Frihavn, på et frilager eller på et
-
-afgiftsoplag fraføres herfra.
+§ 11 a. Der betales afgift af EU-varer, der efter at have været oplagt i Københavns Frihavn, på et frilager eller på et afgiftsoplag fraføres herfra.
 
 Indførsel
