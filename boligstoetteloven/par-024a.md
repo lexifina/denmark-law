@@ -1,3 +1,7 @@
+## Kapitel 4 a
+
+## Boligstøtte til deltagere i kollektive bofællesskaber
+
 § 24 a. Der kan uanset § 9, stk. 1, ydes boligstøtte til:
 
 1) Personer, der har et socialt betinget behov for at bo i kollektivt bofællesskab og som anvises bolig i et kollektivt bofællesskab af en kommunalbestyrelse, et amtsråd, en almen boligorganisation, jf. § 1 i lov om almene boliger samt støttede private andelsboliger m.v., eller en privat organisation som udlejer.
