@@ -1,9 +1,5 @@
-Givet på Christiansborg Slot, den 14. juni 1995
+Skatteministeriet, den 9. november 1998
 
-Under Vor Kongelige Hånd og Segl
+Ole Stavad
 
-MARGRETHE R.
-
-/Carsten Koch
-
-Ingen
+/John Fuhrmann
