@@ -1,0 +1,1 @@
+§ 54 e. I retten til at lade møde ved rettergangsfuldmægtig for tjenestemandsretten gælder ingen indskrænkninger for parterne. I hvilket omfang en part er berettiget til at deltage i forhandlingerne for retten ved hjælp af flere fuldmægtige, afgør retten, ligesom retten træffer afgørelse om, hvem der foruden parterne og rettergangsfuldmægtigene bør have adgang til retsmøderne.
