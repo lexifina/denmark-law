@@ -1,1 +1,5 @@
-§ 8 F. (Ophævet)
+§ 8 F. (* 20) Ved opgørelsen af den skattepligtige indkomst kan skattepligtige personer, der driver selvstændig erhvervsvirksomhed, selskaber, som er skattepligtige efter selskabsskattelovens § 1, stk. 1, nr. 1-2 a og 3 a-6, samt § 2, stk. 1, litra a, og fonde, som er skattepligtige efter fondsbeskatningsloven, fradrage et beløb svarende til 25 pct. af de fradrags- eller afskrivningsberettigede udgifter, som afholdes til aktiviteter i tilknytning til grundforskning og anvendt forskning. Det er en betingelse for ekstrafradraget, at den pågældende aktivitet efter lov om godkendelse af visse forskningsaktiviteter på forhånd er godkendt af forskningsministeren eller den, der bemyndiges dertil. Det er endvidere en betingelse, at den pågældende aktivitet er afholdt inden for det budget, som virksomheden opstiller med henblik på at opnå godkendelse af forskningsministeren eller den, der bemyndiges dertil.
+
+Stk. 2. Ekstrafradraget efter stk. 1 berører ikke den skattepligtiges adgang til fradrag for driftsomkostninger og afskrivninger efter skattelovgivningens almindelige regler. Der indrømmes ikke ekstrafradrag for udgifter, for hvilke der gives ekstrafradrag efter § 8 G, stk. 1 eller 2.
+
+Stk. 3. Ekstrafradraget efter stk. 1 gives kun for udgifter til aktiviteter, der er godkendt inden udgangen af 1995.
