@@ -1,1 +1,5 @@
 § 27 a. Til brug for Udlændingestyrelsens og Indenrigsministeriets afgørelser om udvisning efter kapitel 4, jf. § 49, kan politiet uden udlændingens samtykke videregive oplysninger om udlændingens strafbare forhold, herunder om sigtelser for strafbare forhold, til Indenrigsministeriet eller Udlændingestyrelsen.
+
+## Kapitel 5
+
+Afvisning
