@@ -1,0 +1,1 @@
+§ 44. Rentesikring ydes af statskassen ved udbetaling af beløb til dækning af den del af ejendommens renteudgifter, der svarer til en gennemsnitlig effektiv forrentning på mere end en basisrente på 6 pct. p.a. af de optagne realkreditlån.

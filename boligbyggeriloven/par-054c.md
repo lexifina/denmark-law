@@ -1,1 +1,1 @@
-§ 54 c. (Ophævet).
+§ 54 c. (Ophævet)

@@ -1,0 +1,1 @@
+§ 48. Statsgaranti for realkreditlån, jf. § 59, kan ydes for den del af lånenes nettoprovenu, der får pantesikkerhed ud over 65 pct. af ejendommens værdi, og højst inden for en lånegrænse på 74 pct. af værdien.
