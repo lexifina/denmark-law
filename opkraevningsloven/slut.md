@@ -1,14 +1,12 @@
-Givet på Christiansborg Slot, den 15. marts 2000
+Skatteministeriet, den 28. april 2003
 
-Under Vor Kongelige Hånd og Segl
+Svend Erik Hovmand
 
-Margrethe R.
-
-/Ole Stavad
+/K.-H. Ludolph
 
 Bilag 1
 
-Liste A
+## Liste A
 
 1) Lov om energiafgift af mineralolieprodukter m.v.
 
@@ -68,11 +66,13 @@ Liste A
 
 29) Lov om afgift af lystfartøjsforsikringer.
 
-Lov om afgift af tinglysning og registrering af ejer- og panterettigheder m.v.
+30) Lov om afgift af tinglysning og registrering af ejer- og panterettigheder m.v.
 
 31) Lov om afgift af polyvinylklorid og ftalater (pvc og visse blødgøringsmidler).
 
-Liste B
+32) Lov om gevinstgivende spilleautomater.
+
+## Liste B
 
 1) Lov om en arbejdsmarkedsfond.
 
