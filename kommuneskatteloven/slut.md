@@ -1,7 +1,7 @@
-INDENRIGSMINISTERIET, DEN 24. SEPTEMBER 1984
+Indenrigsministeriet, den 25. september 1987
 
-BRITTA SCHALL HOLBERG
+THOR PEDERSEN
 
 /Marius Ibsen
 
-(* 1) Bestemmelsen i stk. 1 om størrelsen af den procent, hvormed skatten svares, har virkning fra og med indkomståret 1985.
+Ingen
