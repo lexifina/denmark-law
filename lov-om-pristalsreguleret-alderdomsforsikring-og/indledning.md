@@ -1,0 +1,1 @@
+Bekendtgørelse af lov om pristalsreguleret alderdomsforsikring og alderdomsopsparing
