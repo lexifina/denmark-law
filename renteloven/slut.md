@@ -1,11 +1,11 @@
-Justitsministeriet, den 1. september 1986
+Justitsministeriet, den 4. september 2002
 
-Erik Ninn-Hansen
+Lene Espersen
 
-/Jens Møller
+/Henrik Øe
 
-(* 1) I medfør af § 5, stk 2, i lov om renter ved forsinket betaling m.v., jf. lovbekendtgørelse nr. 583 af 1. september 1986, bestemmes, at den i lovens § 5 stk. 1, nævnte rente er den til enhver tid fastsatte officielle diskonto med et tillæg på 5 pct., jf. bekendtgørelse nr. 896 af 21/12/1990 om ændring af morarentesatsen i lov om renter ved forsinket betaling, forsikringsaftaleloven m.v.
+Lovændringen gennemfører loft over rykker- og inkassogebyrer i forbrugerforhold (nu § 9 b).
 
-Ændringen finder anvendelse i det omfang, der skal betales renter for et tidsrum efter den 1. januar 1991.
+Lovændringen vedrører § 1, stk. 2-4, § 2, § 3, stk. 2-3 og stk. 5, § 5, stk. 1-3, § 9 a og § 9 b.
 
-(* 2) Renten i lovens § 5, stk. 1 blev ændret fra 2 pct. til 6 pct. ved lov nr. 618 af 19. december 1984.
+§ 1, nr. 5, i lov nr. 379 af 6. juni 2002 indebærer en ophævelse af den rentepåkravsregel, som tidligere fulgte af rentelovens § 3, stk. 2.
