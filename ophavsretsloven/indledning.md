@@ -1,3 +1,3 @@
-Bekendtgørelse af lov om ophavsret
+Bekendtgørelse af lov om ophavsret )
 
-Herved bekendtgøres lov om ophavsret, jf. lovbekendtgørelse nr. 618 af 27. juni 2001, med de ændringer, der følger af lov nr. 1051 af 17. december 2002.
+Herved bekendtgøres lov om ophavsret, jf. lovbekendtgørelse nr. 164 af 12. marts 2003, med de ændringer, der følger af lov nr. 997 af 9. december 2003 og lov nr. 352 af 19. maj 2004.
