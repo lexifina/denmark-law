@@ -1,1 +1,0 @@
-§ 3 a. Udlændinge omfattet af § 2, stk. 2, nr. 2, som tager bopæl i hjemlandet eller det tidligere opholdsland efter at have fået tillagt folkepension, bevarer retten til at modtage folkepensionens grundbeløb fastsat på grundlag af bopælstiden her i riget, jf. § 5.

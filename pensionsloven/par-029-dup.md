@@ -1,1 +1,0 @@
-§ 29 . Ind Indtægtsgrundlaget for pensionstillæg, personlige tillæg efter § 14, stk. 2, og hel~breds~tillæg efter § 14 a opgøres på grundlag af pensionistens og en eventuel ægtefælles eller samlevers samlede indtægt. Indtægtsgrundlaget opgøres således:

@@ -1,1 +1,0 @@
-§ 4. Retten til pension er betinget af mindst 3 års fast bopæl her i riget mellem det fyldte 15. og det fyldte 65. år.

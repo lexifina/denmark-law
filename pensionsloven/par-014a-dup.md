@@ -1,1 +1,0 @@
-§ 14 a. Der ydes helbredstillæg til betaling af pensionistens egne udgifter til ydelser, som den offentlige sygesikring yder tilskud til efter lov om offentlig sygesikring, jf. dog stk. 2. Tillægget beregnes i forhold til 85 pct. af pensionistens egen andel af udgiften.

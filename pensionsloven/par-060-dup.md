@@ -1,1 +1,0 @@
-§ 60. Socialministeren kan fastsætte regler om fradrag i pensionen for beløb, som pensionisten har modtaget i pension efter udenlandsk lovgivning i det tidsrum, for hvilket der beregnes pension efter denne lov.

@@ -1,1 +1,0 @@
-§ 40. Pensionen udbetales ikke, når den ikke er hævet i et år. Udbetalingen genoptages efter anmodning herom.

@@ -1,1 +1,0 @@
-§ 36. Hvis kommunalbestyrelsen skønner, at en pensionist ikke kan administrere pensionen, afgør kommunalbestyrelsen, på hvilken måde pensionen skal udbetales. Kommunalbestyrelsen kan anmode om, at der iværksættes værgemål for pensionisten, jf. værgemålslovens § 16.

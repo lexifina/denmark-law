@@ -1,1 +1,0 @@
-§ 41. Pensionisten skal oplyse kommunalbestyrelsen om forandringer i forhold, der kan forventes at medføre ændringer af pensionen, jf. kapitel 3 i lov om retssikkerhed og administration på det sociale område.

@@ -1,1 +1,0 @@
-§ 66. Personer, der den 1. oktober 1984 har ret til pension efter lov om folkepension og lov om invalidepension og førtidspension m.v., skal modtage enten fuld pension efter denne lov eller mindst det samme antal fyrretyvendedele af fuld pension efter denne lov som hidtil, dog anvendes reglerne i kap. 6.
