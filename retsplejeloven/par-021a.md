@@ -7,3 +7,7 @@ Stk. 3. Undersøgelsen gennemføres efter reglerne i denne lov. Undersøgelsesre
 Stk. 4. Undersøgelsesrettens afgørelser kan påkæres umiddelbart til Højesteret.
 
 Stk. 5. Undersøgelsen afsluttes med en beretning. Beretningen offentliggøres af justitsministeren, medmindre ganske særlige grunde taler imod offentliggørelse.
+
+Kapitel 1 a
+
+Procesbevillingsnævnet

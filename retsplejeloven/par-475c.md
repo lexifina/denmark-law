@@ -1,4 +1,4 @@
-§ 475 c. Statsamtet og klageren betragtes som parter i sagen. Klageren optræder på egen hånd, selv om han er umyndig eller under lavværgemål.
+§ 475 c. Statsamtet og klageren betragtes som parter i sagen. Klageren optræder på egen hånd, selv om den pågældende er umyndig.(* 14)
 
 Stk. 2. Retten beskikker en advokat for klageren, medmindre han selv har antaget en advokat.
 
