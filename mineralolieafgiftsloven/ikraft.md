@@ -1,87 +1,203 @@
-§ 2
-
-Stk. 1. Loven træder i kraft den 1. januar 1994.
-
-Stk. 2. Afgiften svares dog i perioden 1. januar 1994-31. december 1997 efter følgende satser:
-
-Gas- og dieselolie samt petroleum, der anvendes som motorbrændstof:
-
-Ved dag- Ved temperatur 15 grader C 177 øre/l 176,0 øre/l i perioden 1. januar 1994 - 31. december 1994 200 øre/l 198,8 øre/l i perioden 1. januar 1995 - 31. december 1995 202 øre/l 200,8 øre/l i perioden 1. januar 1996 - 31. december 1996 212 øre/l 210,7 øre/l i perioden 1. januar 1997 - 31. december 1997 Let dieselolie: Ved dag- Ved temperatur 15 grader C 167 øre/l 166,0 øre/l i perioden 1. januar 1994 - 31. december 1994 190 øre/l 188,9 øre/l i perioden 1. januar 1995 - 31. december 1995 192 øre/l 190,9 øre/l i perioden 1. januar 1996 - 31. december 1996 202 øre/l 200,8 øre/l i perioden 1. januar 1997 - 31. december 1997 Blyholdig benzin med blyindhold over 0,013 g pr. l: Ved dag- Ved temperatur 15 grader C 392 øre/l 388,7 øre/l i perioden 1. januar 1996 - 31. december 1996 397 øre/l 393,7 øre/l i perioden 1. januar 1997 - 31. december 1997 Blyfri benzin med blyindhold på højst 0,013 g pr. l: Ved dag- Ved temperatur 15 grader C 327 øre/l 324,3 øre/l i perioden 1. januar 1996 - 31. december 1996 332 øre/l 329,2 øre/l i perioden 1. januar 1997 - 31. december 1997 Autogas (LPG): Ved dag- Ved temperatur 15 grade C 118 øre /l - i perioden 1. januar 1994 - 31. december 1994 134 øre /l - i perioden 1. januar 1995 - 31. december 1995 136 øre /l - i perioden 1. januar 1996 - 31. december 1996 143 øre /l - i perioden 1. januar 1997 - 31. december 1997
-
-Stk. 3. Afgiftsforhøjelsen pr. 1. januar 1995 for gas- og dieselolie, der anvendes som motorbrændstof, og let dieselolie finder anvendelse på gas- og dieselolie, der fra denne dato udleveres til forbrug fra registrerede oplagshavere, angives til fortoldning eller modtages fra udlandet. Afgiftsforhøjelsen pr. 1. januar 1994 for blyholdig og blyfri benzin finder anvendelse på benzin, der fra denne dato udleveres til forbrug fra registrerede oplagshavere, angives til fortoldning eller modtages fra udlandet. Tilsvarende finder afgiftsforhøjelsen pr. 1. januar 1995 for autogas (LPG) anvendelse på gas, der fra denne dato udleveres til forbrug fra registrerede oplagshavere, angives til fortoldning eller modtages fra udlandet.
-
-Stk. 4. Stk. 3 finder tilsvarende anvendelse for de efterfølgende i stk. 2 anførte forhøjelser af afgiften af dieselolie pr. 1. januar 1996 og pr. 1. januar 1997, af benzin pr. 1. april 1994, 1. oktober 1994, 1. januar 1995, 1. april 1995, 1. oktober 1995 og af autogas pr. 1. januar 1995, 1. januar 1996 og 1. januar 1997.
-
-Stk. 5-7. (Udeladt)
-
-Lov nr. 235 af 6. april 1995, som ændret ved § 3 i lov nr. 411 af 14. juni 1995, og § 6 i lov nr. 1101 af 20. december 1995, indeholder følgende ikrafttrædelses- og overgangsbestemmelser:
+Lov nr. 450 af 10. juni 1997 (afgiftsdifferentiering af benzinafgiften efter benzenindhold) indeholder følgende ikrafttrædelses- og overgangsbestemmelser:
 
 § 3
 
-Stk. 1. Loven træder i kraft dagen efter bekendtgørelsen i Lovtidende, jf. dog stk. 2 og 3.
+Stk. 1 . Skatteministeren fastsætter tidspunktet for lovens ikrafttræden, jf. dog stk. 6 og 7. Loven træder tidligst i kraft den 1. januar 1998.
 
-Stk. 2. Skatteministeren fastsætter ikrafttrædelsestidspunktet for § 1, stk. 1, nr. 10-14, § 1, stk. 7, § 3, stk. 2, 2. pkt., § 11, stk. 2, sidste pkt., § 14, stk. 3, 3. pkt., og § 35, stk. 3, i lov om energiafgift af mineralolieprodukter m.v., som affattet ved denne lovs § 1, nr. 3-5 og nr. 7-9, der dog tidligst kan sættes i kraft dagen efter bekendtgørelsen i Lovtidende.
+Stk. 2. I perioden fra lovens ikrafttræden til 31. december 1999 nedsættes afgiften af benzin med:
 
-Stk. 3. Afgiften af benzin udleveret fra benzinstationer udstyret med dampretur svares fra lovens ikrafttræden til 31. december 1997 efter følgende satser:
+1) 4 øre/l, hvis benzenindholdet er mindre end 1 pct. pr. l.
 
-Blyholdig benzin med blyindhold over 0,013 g pr. l udleveret fra benzinstationer udstyret med dampretur:
+2) 2 øre/l, hvis benzenindholdet er 1 pct. eller derover, men mindre end 2 pct. pr. l.
 
-Ved dag- Ved temperatur 15 grader C 389 øre/l 386,8 øre/l i perioden 1. januar 1996 - 31. december 1996 394 øre/l 390,7 øre/l i perioden 1. januar 1997 - 31. december 1997 Blyfri benzin med blyindhold på højst 0,013 g pr. l udleveret fra benzinstationer udstyret med dampretur: Ved dag- Ved temperatur 15 grader C 324 øre/l 321,3 øre/l i perioden 1. januar 1996 - 31. december 1996 329 øre/l 326,3 øre/l i perioden 1. januar 1997 - 31. december 1997
+Stk. 3. I perioden fra lovens ikrafttræden til 31. december 1999 forhøjes afgiften af benzin med:
 
-Stk. 4. Afgiftsdifferentieringen for benzin udleveret fra benzinstationer udstyret med dampretur finder anvendelse for benzin, der fra det af skatteministeren fastsatte ikrafttrædelsestidspunkt udleveres til forbrug fra registrerede oplagshavere, angives til fortoldning eller modtages fra udlandet.
+1) 2 øre/l, hvis benzenindholdet er 3 pct. eller derover, men mindre end 4 pct. pr. l.
 
-§ 4
+2) 4 øre/l,hvis benzenindholdet er 4 pct. eller derover pr. l.
 
-(* 2) Loven træder i kraft den 1. janur 1996, jf. dog stk. 2. Afgiftssatserne i § 1, stk. 1, nr. 1, 3, 6 og 12, i lov om energiafgift af mineralolieprodukter m.v., som affattet ved denne lovs § 1, nr. 1, finder anvendelse fra den 1. januar 1997. Afgiftssatserne i § 1, stk. 1, nr. 8 og 9, i lov om energiafgift af mineralolieprodukter m.v., som affattet ved denne lovs § 1, nr. 1, finder anvendelse fra den 1. januar 1998.
+Stk. 4. Afgiftsændringerne pr. lovens ikrafttrædelsestidspunkt og pr. 1. januar 2000 for benzin finder anvendelse på benzin, der fra de nævnte tidspunkter udleveres til forbrug fra registrerede oplagshavere, angives til fortoldning eller modtages fra udlandet.
 
-Stk. 2. Skatteministeren fastsætter ikrafttrædelsestidspunktet for § 1, stk. 1, nr. 10 og 11, i lov om energiafgift af mineralolieprodukter m.v., som affattet ved denne lovs § 1, nr. 1.
+Stk. 5. I perioden fra 1. januar 1998 til 31. december 1999 udgør forhøjelsen af den fulde godtgørelse af afgiften af gas i § 9, stk. 5, i lov om energiafgift af mineralolieprodukter m.v. 30 øre pr. l.
 
-Stk. 3. Afgiftsdifferentieringen for benzin udleveret fra benzinstationer udstyret med dampretur finder anvendelse for benzin, der fra det af skatteministeren fastsatte ikrafttrædelsestidspunkt udleveres til forbrug fra registrerede oplagshavere, angives til fortoldning eller modtages fra udlandet.
+Stk. 6. (Udeladt)
 
-Lov nr. 418 af 14. juni 1995, som ændret ved § 5 i lov nr. 1102 af 20. december 1995, indeholder følgende ikrafttrædelses- og overgangsbestemmelser:
+Lov nr. 437 af 26. juni 1998 indeholder følgende ikrafttrædelses- og overgangsbestemmelser:
 
-§ 4
+§ 8
 
-Stk. 1. Tidspunktet for lovens ikrafttræden fastsættes af skatteministeren. Loven træder dog tidligst i kraft den 1. januar 1996.
+Stk. 1. Loven træder i kraft den 1. juli 1998, jf. dog stk. 2-20.
 
-Stk. 2. Loven finder anvendelse på leverancer, der sker efter lovens ikrafttræden.
+Stk. 2. (Udeladt)
 
-Stk. 3. For løbende leverancer af varer, som ikke er tilbagebetalingsberettigede efter § 11 i lov om energiafgift af mineralolieprodukter m.v. som ændret ved denne lovs § 1, nr. 4, § 8 i lov om afgift af stenkul, brunkul og koks m.v. som ændret ved denne lovs § 2, nr. 2, og § 11 i lov om afgift af elektricitet som ændret ved denne lovs § 3, nr. 1, og for hvilke afregningsperioden påbegyndes inden lovens ikrafttræden og afsluttes efter dette tidspunkt, beregnes afgiften af så stor en del af leverancen, som tidsrummet fra lovens ikrafttræden til afregningsperiodens slutning udgør i forhold til den samlede afregningsperiode. Med de statslige told- og skattemyndigheders tilladelse kan der foretages afrunding ved opgørelse af den andel af leverancerne, som der ikke ydes tilbagebetaling for.
+Stk. 3. Afgiften efter § 1, stk. 1, nr. 2, 4, 5, 7-11 og 14-16, i lov om energiafgift af mineralolieprodukter m.v., som affattet ved denne lovs § 1, nr. 1, svares i perioden den 1. juli 1998 til 31. december 2001 efter følgende satser:
 
-Stk. 4. (* 3) Virksomheder, der er registreret efter merværdiafgiftsloven, kan dog i perioden fra ikrafttrædelsen til 31. december 1997 få en andel af afgiften efter lov om energiafgift af mineralolieprodukter m.v., lov om afgift af stenkul, brunkul og koks m.v. og lov om afgift af elektricitet tilbagebetalt af de i virksomheden forbrugte varer, der direkte eller indirekte er medgået til fremstilling af rumvarme eller varmt vand, herunder afgiften pr. (m2) af rum, hvor en fordeling efter målere indebærer måling af varmeforbruget for et areal under 100 (m2).
+Anden gas- og dieselolie:
 
-70 pct. fra ikrafttrædelsen til 31. december 1996
+Ved dagtemperatur | Ved 15° C
 
-35 pct. i perioden 1. januar 1997 - 31. december 1997.
+170 øre/l | 169,0 øre/l | i perioden 1. juli 1998-31. december 1999
 
-Stk. 5. For løbende leverancer af varer, som ikke er tilbagebetalingsberettigede efter § 11 i lov om energiafgift af mineralolieprodukter m.v. som ændret ved denne lovs § 1, nr. 4, § 8 i lov om afgift af stenkul, brunkul og koks m.v. som ændret ved denne lovs § 2, nr. 2, og § 11 i lov om afgift af elektricitet som ændret ved denne lovs § 3, nr. 1, og for hvilke afregningsperioden påbegyndes inden henholdsvis 1. januar 1996 og 1. januar 1997 og afsluttes efter de nævnte tidspunkter, beregnes afgiften af så stor en del af leverancen, som tidsrummet fra henholdsvis 1. januar 1996 og 1. januar 1997 til afregningsperiodens slutning udgør i forhold til den samlede afregningsperiode. Stk. 3, 2. pkt., finder tilsvarende anvendelse.
+173 øre/l | 171,9 øre/l | i perioden 1. januar 2000-31. december 2000
 
-Stk. 6. I perioden fra lovens ikrafttræden til og med den 31. december 1997 udgør forhøjelsen af den fulde godtgørelse af afgiften af gas i § 9, stk. 4, i lov om energiafgift af mineralolieprodukter m.v. 55 øre pr. l.
+178 øre/l | 177,0 øre/l | i perioden 1. januar 2001-31. december 2001
 
-Lov nr. 1101 af 20. december 1995 indeholder følgende ikrafttrædelses- og overgangsbestemmelser:
+Fuelolie:
 
-§ 9
+Ved dagtemperatur | Ved 15° C
 
-Stk. 1. Skatteministeren fastsætter tidspunktet for lovens ikrafttræden, jf. dog stk. 2 og 3. Ministeren kan herunder fastsætte, at de enkelte bestemmelser i loven træder i kraft på forskellige tidspunkter. Loven har virkning fra den 1. januar 1996, jf. dog stk. 4 og 5.
+191 øre/kg |  | i perioden 1. juli 1998-31. december 1999
 
-Stk. 2. (Udeladt).
+195 øre/kg |  | i perioden 1. januar 2000-31. december 2000
 
-Stk. 3. Skatteministeren undlader at sætte § 1, nr. 2, 3, 5 og 6, i kraft, såfremt Rådet godkender den af § 1, nr. 3-5 og nr. 7-9, i lov nr. 235 af 6. april 1995 om ændring af lov om energiafgift af mineralolieprodukter m.v. (Afgiftsdifferentiering i forbindelse med dampretur m.v.) omfattede lempelsesordning for benzin, der udleveres fra benzinstationer, hvor udstyr til genindvinding af dampe ved benzinpåfyldning af motorkøretøjer (dampretur) er installeret.
+200 øre/kg |  | i perioden 1. januar 2001-31. december 2001
 
-Stk. 4. § 1, nr. 1, § 1, nr. 5, i lov om afgift af stenkul, brunkul og koks m.v., som affattet ved denne lovs § 2, nr. 1, § 2, nr. 2, og § 5, nr. 2-5, har virkning fra den 1. januar 1995 for varer, hvoraf der er betalt afgift. Der sker ikke forrentning af godtgjort afgift for perioden fra den 1. januar 1995 til lovens ikrafttræden.
+Fyringstjære:
 
-Stk. 5. § 1, nr. 2, 3, 5 og 6, har virkning for benzin, der er udleveret fra en registreret virksomhed til benzinstationer udstyret med dampretur fra og med den 7. april 1995. Der sker ikke forrentning af tilskud, der ydes for benzin udleveret i perioden fra den 7. april 1995 til det af skatteministeren fastsatte ikrafttrædelsestidspunkt.
+Ved dagtemperatur | Ved 15° C
 
-Lov nr. 1102 af 20. december 1995 indeholder følgende ikrafttrædelses- og overgangsbestemmelser.
+173 øre/kg |  | i perioden 1. juli 1998-31. december 1999
 
-§ 11
+176 øre/kg |  | i perioden 1. januar 2000-31. december 2000
 
-Stk. 1. De statslige told- og skattemyndigheder kan tillade, at virksomhederne kan basere forholdsmæssige fordelinger og mængden af nyttiggjort procesvarme til intern rumopvarmning m.v. efter lov om energiafgift af mineralolieprodukter m.v., lov om afgift af stenkul, brunkul og koks m.v., lov om afgift af elektricitet og lov om afgift af naturgas og bygas på andet end direkte måling. Det er en betingelse herfor, at virksomheden kan godtgøre, at tekniske forhold forhindrer måling straks fra den 1. januar 1996, eller at andre ganske særlige omstændigheder gør sig gældende, samt at installeringen af de nødvendige målere foretages umiddelbart efter, at de tekniske forhold eller andre ganske særlige omstændigheder ikke længere stiller sig hindrende i vejen herfor, og senest den 1. juli 1996.
+181 øre/kg |  | i perioden 1. januar 2001-31. december 2001
 
-Stk. 2. De statslige told- og skattemyndigheder kan tillade, at virksomhederne kan foretage de i stk. 1 nævnte opgørelser for hele 1996, når der er tale om energiforbrug, der er baseret på varm luft. Det er en forudsætning, at det kan godtgøres, at det er forbundet med ganske særlige vanskeligheder at foretage måling.
+Anden petroleum:
 
-Stk. 3. De statslige told- og skattemyndigheder kan tillade, at virksomhederne kan basere forholdsmæssige fordelinger og mængden af nyttiggjort varme fra de i § 9, stk. 2, i lov om kuldioxidafgift af visse energiprodukter nævnte processer til andre formål på andet end direkte måling. Det er en betingelse herfor, at virksomheden kan godtgøre, at tekniske forhold forhindrer måling straks fra den 1. januar 1996, eller at andre ganske særlige omstændigheder gør sig gældende, samt at installeringen af de nødvendige målere foretages umiddelbart efter, at de tekniske forhold ikke læn gere stiller sig hindrende i vejen herfor, og senest den 1. juli 1996.
+Ved dagtemperatur | Ved 15° C
 
-Stk. 4. De statslige told- og skattemyndigheder kan acceptere, at de i stk. 3 nævnte opgørelser sker for hele 1996, når der er tale om energiforbrug, der er baseret på varm luft. Det er en forudsætning for tilladelsen, at det godtgøres, at det er forbundet med ganske særlige vanskeligheder at foretage måling.
+170 øre/kg | 169,0 øre/l | i perioden 1. juli 1998-31. december 1999
 
-Stk. 5. Opgørelser, der ikke er baseret på direkte måling, jf. stk. 1-4, skal foretages, så der uden for almindelig tvivl og usikkerhed ikke ydes tilbagebetaling ud over, hvad en direkte måling ville berettige til.
+173 øre/kg | 172,0 øre/l | i perioden 1. januar 2000-31. december 2000
+
+178 øre/kg | 177,0 øre/l | i perioden 1. januar 2001-31. december 2001
+
+Blyholdig benzin (blyindhold over 0,013 g pr. l)
+
+Ved dagtemperatur | Ved 15° C
+
+402 øre/l | 398,7 øre/l | i perioden 1. juli 1998-31. december 1998
+
+442 øre/l | 438,3 øre/l | i perioden 1. januar 1999-31. december 1999
+
+452 øre/l | 448,2 øre/l | i perioden 1. januar 2000-31. december 2000
+
+462 øre/l | 458,2 øre/l | i perioden 1. januar 2001-31. december 2001
+
+Blyfri benzin (blyindhold højst 0,013 g pr. l)
+
+Ved dagtemperatur | Ved 15° C
+
+337 øre/l | 334,2 øre/l | i perioden 1. juli 1998-31. december 1998
+
+377 øre/l | 373,9 øre/l | i perioden 1. januar 1999-31. december 1999
+
+387 øre/l | 383,8 øre/l | i perioden 1. januar 2000-31. december 2000
+
+397 øre/l | 393,7 øre/l | i perioden 1. januar 2001-31. december 2001
+
+Blyholdig benzin (blyindhold over 0,013 g pr. l) udleveret fra benzinstationer udstyret med dampretur:
+
+Ved dagtemperatur | Ved 15° C
+
+399 øre/l | 395,7 øre/l | i perioden 1. juli 1998-31. december 1998
+
+439 øre/l | 435,3 øre/l | i perioden 1. januar 1999-31. december 1999
+
+449 øre/l | 445,3 øre/l | i perioden 1. januar 2000-31. december 2000
+
+459 øre/l | 455,2 øre/l | i perioden 1. januar 2001-31. december 2001
+
+Blyfri benzin (blyindhold højst 0,013 g pr. l) udleveret fra benzinstationer udstyret med dampretur:
+
+Ved dagtemperatur | Ved 15° C
+
+334 øre/l | 331,2 øre/l | i perioden 1. juli 1998-31. december 1998
+
+374 øre/l | 370,9 øre/l | i perioden 1. januar 1999-31. december 1999
+
+384 øre/l | 380,8 øre/l | i perioden 1. januar 2000-31. december 2000
+
+394 øre/l | 390,7 øre/l | i perioden 1. januar 2001-31. december 2001
+
+Anden flaskegas (LPG) og gas (bortset fra LPG), der fremkommer ved raffinering af mineralsk olie (raffinaderigas):
+
+Ved dagtemperatur | Ved 15° C
+
+218 øre/kg |  | i perioden 1. juli 1998-31. december 1999
+
+222 øre/kg |  | i perioden 1. januar 2000-31. december 2000
+
+228 øre/kg |  | i perioden 1. januar 2001-31. december 2001
+
+Smøreolier, hydraulikolier og lign.
+
+Ved dagtemperatur | Ved 15° C
+
+201 øre/l |  | i perioden 1. juli 1998-31. december 1999
+
+204 øre/l |  | i perioden 1. januar 2000-31. december 2000
+
+209 øre/l |  | i perioden 1. januar 2001-31. december 2001
+
+Karburatorvæske
+
+Ved dagtemperatur | Ved 15° C
+
+337 øre/l |  | i perioden 1. juli 1998-31. december 1998
+
+377 øre/l |  | i perioden 1. januar 1999-31. december 1999
+
+387 øre/l |  | i perioden 1. januar 2000-31. december 2000
+
+397 øre/l |  | i perioden 1. januar 2001-31. december 2001
+
+Stk. 4-14. (udeladt)
+
+Stk. 15. Nedsættelsen af den samlede tilbagebetaling efter energiafgiftslovene vedrørende opvarmning af rum under 100 m 2 m.v., jf. § 11, stk. 6, 3. pkt., og stk. 8, 5. pkt., i lov om energiafgift af mineralolieprodukter m.v., § 8, stk. 5, 3. pkt., og stk. 7, 5. pkt., i lov om afgift af stenkul, brunkul og koks m.v. § 11, stk. 6, 1. pkt., og stk. 8, 5. pkt., i lov om afgift af elektricitet og § 10, stk. 6, 3. pkt., stk. 8, 5. pkt., og stk. 10 i lov om afgift af naturgas og bygas, som affattet ved denne lovs § 1, nr. 3, § 5, nr. 12, § 4, nr. 9, og § 2, nr. 2, udgør følgende beløb pr. m 2 i perioden 1. juli 1998-31. december 2001: 8 kr. i perioden 1. juli 1998-31. december 1998 9 kr. i perioden 1. januar 1999-31. december 2001.
+
+Stk. 16. Nedsættelsen af den samlede tilbagebetaling efter energiafgiftslovene ved efterfølgende nyttiggørelse af varmt vand eller varme, der afsættes, jf. § 11, stk. 8, 2. pkt., i lov om energiafgift af mineralolieprodukter m.v., § 8, stk. 7, 2. pkt., i lov om afgift af stenkul, brunkul og koks m.v., § 11, stk. 8, 2. pkt., i lov om afgift af elektricitet og § 10, stk. 8, 2. pkt., og stk. 10, i lov om afgift af naturgas og bygas, som affattet ved denne lovs § 1, nr. 5, § 5, nr. 14, § 4, nr. 11, og § 2, nr. 4, udgør højst følgende andele i perioden 1. juli 1998-31. december 2001: 42,5 pct. i perioden 1. juli 1998-31. december 1998. 45,0 pct. i perioden 1. januar 1999-31. december 2001.
+
+Stk. 17. (Udeladt)
+
+Stk. 18. Afgiftsforhøjelserne pr. 1. juli 1998 for gas- og dieselolie m.v. og naturgas finder anvendelse på afgiftspligtige varer, der fra den 1. juli 1998 udleveres til forbrug fra registrerede oplagshavere, angives til fortoldning eller modtages fra udlandet. Afgiftsforhøjelserne pr. 1. januar 1999 for benzin og stenkul m.v. finder anvendelse på afgiftspligtige varer, der fra den 1. januar 1999 udleveres til forbrug fra registrerede oplagshavere, angives til fortoldning eller modtages fra udlandet. Afgiftsforhøjelserne pr. 1. januar 1999 for elektricitet finder anvendelse på leverancer af elektricitet, der sker fra den 1. januar 1999.
+
+Stk. 19. For løbende leverancer af varer, for hvilke afregningsperioden påbegyndes inden henholdsvis den 1. juli 1998 og 1. januar 1999 og afsluttes efter de nævnte tidspunkter, beregnes den ændrede afgift af så stor en del af leverancen, som tidsrummet fra henholdsvis 1. juli 1998 og 1. januar 1999 til afregningsperiodens afslutning udgør i forhold til den samlede afregningsperiode. Med de statslige told- og skattemyndigheders tilladelse kan der foretages afrunding ved opgørelse af den brøkdel af leverancerne, hvorefter fordelingen skal foretages.
+
+Stk. 20. Stk. 8, 18 og 19 finder tilsvarende anvendelse for de efterfølgende afgiftsforhøjelser pr. 1. januar 2000, 1. januar 2001 og 1. januar 2002, jf. stk. 3-6 og 10-16.
+
+1) Lov nr. 1214 af 27. december 1996 (Ophævelse af afgiftsfritagelse for benzin til landbrugsformål m.v.) trådte i kraft den 1. januar 1997.
+
+2) Lov nr. 444 af 10. juni 1997 om ændring af forskellige energiafgiftslove m.v. (justering af rumvarmeafgiften m.v.) trådte i kraft den 12. juni 1997. Lovens bestemmelser om afgrænsning mellem rumvarme og proces, jf. lovbekendtgørelsens § 11, stk. 4, 2. pkt., § 11, stk. 5, nr. 5, § 11, stk. 7, § 11, stk. 8, 4.-6. pkt., og § 11, stk. 13, trådte i kraft den 1. januar 1998, jf. bekendtgørelse nr. 1076 af 23. december 1997. Bestemmelserne har virkning fra den 1. maj 1997.
+
+3) Lov nr. 450 af 10. juni 1997 (Afgiftsdifferentiering af benzinafgiften efter benzenindhold m.v.) trådte i kraft den 1. juni 1998, jf. bekendtgørelse nr. 274 af 11. maj 1998. Se i øvrigt de ovenfor gengivne ikrafttrædelses- og overgangsbestemmelser.
+
+4) Lov nr. 1098 af 29. december 1997 (Ændret klagestruktur m.v.) trådte i kraft den 1. april 1998.
+
+5) Lov nr. 1107 af 29. december 1997 (bl.a. afgift af karburatorvæske) trådte i kraft den 1. februar 1998.
+
+6) Lov nr. 435 af 26. juni 1998 om ændring af forskellige afgiftslove træder i kraft den 1. januar 1999.
+
+7) Lov nr. 437 af 26. juni 1998 trådte i kraft den 1. juli 1998, jf. de ovenfor gengivne ikrafttrædelses- og overgangsbestemmelser.
+
+Bilag
+
+Kraftværkspladser, hvor kraftværker og kraftvarmeværker ikke skal betale afgift af den del af det samlede forbrug af afgiftspligtige varer, der medgår til produktionen af elektricitet, og som indregnes i elektricitetsprisen
+
+H. C. Ørstedsværket | Enstedværket, inkl. Blok 3
+
+Svanemølleværket | Vestkraft, Esbjerg- og Herningværkerne
+
+Amagerværket | Midtkraft, Studstrup- og Århusværkerne
+
+Avedøreværket | Randersværket
+
+Kyndbyværket | Nordjyllandsværket
+
+Asnæsværket | Vendsysselværket
+
+Stigsnæsværket | Skærbækværket
+
+Masnedøværket | Østkraft, Rønneværket
+
+Fynsværket
