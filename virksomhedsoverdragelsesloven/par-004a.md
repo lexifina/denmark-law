@@ -1,0 +1,5 @@
+§ 4 a. En erhverver skal inden 5 uger efter det tidspunkt, hvor denne vidste eller burde vide, at de ansatte eller en del af de ansatte på den virksomhed, der overdrages, har været omfattet af en kollektiv overenskomst, dog tidligst 3 uger efter overtagelsen, underrette det pågældende fagforbund, såfremt denne ikke ønsker at tiltræde overenskomsten. I modsat fald anses erhververen for at have tiltrådt overenskomsten.
+
+Stk. 2. Hvis erhververen ikke tiltræder overenskomsten, skal spørgsmål om overtrædelse af de berørte lønmodtageres rettigheder og pligter i henhold til en kollektiv overenskomst, jf. § 2, stk. 1, nr. 1, afgøres ved fagretlig behandling og endeligt ved Arbejdsretten, såfremt en af parterne begærer det. I så fald er erhververen stillet, som om denne havde tiltrådt den kollektive overenskomst.
+
+Stk. 3. Hvis erhververen ikke tiltræder overenskomsten, og hvis denne i forvejen er omfattet af en overenskomst med et andet fagforbund om det pågældende arbejde, har de berørte lønmodtagere ret til gennem deres forbund at kræve forhandling med virksomhedens ledelse om løn- og ansættelsesvilkår.
