@@ -1,9 +1,7 @@
-GIVET PÅ MARSELISBORG SLOT, DEN 23 DECEMBER 1986
+Indenrigsministeriet, den 21 august 1995
 
-Under Vor Kongelige Hånd og Segl
+Birte Weiss
 
-MARGRETHE R
-
-/Knud Enggaard
+/ Anne Birte Pade
 
 Ingen

@@ -1,5 +1,5 @@
-Lov om økonomisk støtte til politiske partier m.v.
+Bekendtgørelse af lov om økonomisk støtte til politiske partier m.v.
 
-VI MARGRETHE DEN ANDEN, af Guds Nåde Danmarks Dronning, gør vitterligt: Folketinget har vedtaget og Vi ved Vort samtykke stadfæstet følgende lov:
+Herved bekendtgøres lov nr. 940 af 23. december 1986 om økonomisk støtte til politiske partier m.v., som ændret ved lov nr. 383 af 14. juni 1995.
 
-LOVENS FORMÅL
+Lovens formål
