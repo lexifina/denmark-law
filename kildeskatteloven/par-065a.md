@@ -1,0 +1,1 @@
+§ 65 A. (* 39) Af skattegodtgørelse, jfr. selskabsskattelovens § 17 A, der i henhold til en med en fremmed stat, Færøerne eller Grønland indgået overenskomst til undgåelse af dobbeltbeskatning ydes til en person eller et selskab i denne stat m.v., jfr. § 2, stk. 1, litra g), og selskabsskattelovens § 2, stk. 1, litra d), svares der en skat på 30 pct.
