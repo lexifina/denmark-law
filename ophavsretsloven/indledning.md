@@ -1,9 +1,9 @@
-Bekendtgørelse af lov om ophavsret (* 1)
+Bekendtgørelse af lov om ophavsret
 
-Herved bekendtgøres lov nr. 395 af 14. juni 1995 om ophavsret med de ændringer, der følger af lov nr. 295 af 24. april 1996 og lov nr. 1207 af 27. december 1996.
+Herved bekendtgøres lov om ophavsret, jf. lovbekendtgørelse nr. 194 af 11. marts 1997, med de ændringer, der følger af lov nr. 407 af 26. juni 1998.
 
 ## Kapitel 1
 
-## Ophavsrettens genstand og indhold
+Ophavsrettens genstand og indhold
 
 Beskyttede værker
