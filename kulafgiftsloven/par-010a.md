@@ -11,5 +11,3 @@ Stk. 5. De statslige told- og skattemyndigheder kan pålægge en virksomhed, der
 Stk. 6. Bestemmelserne i lovens § 11, stk. 1 og 4, og §§ 16-19 finder tilsvarende anvendelse.
 
 Stk. 7. Skatteministeren kan fastsætte regler for angivelse og indbetaling af afgiften.
-
-Regnskabsbestemmelser
