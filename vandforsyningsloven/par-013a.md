@@ -1,0 +1,3 @@
+§ 13 a. En kommunalbestyrelse eller ejeren af et alment vandforsyningsanlæg kan vedtage en indsatsplan for et område, hvis kommunalbestyrelsen eller ejeren af vandforsyningsanlægget finder, at retningslinjerne eller prioriteringen i vandressourceplanlægningen og regionplanen er utilstrækkelige til at sikre kommunens eller vandforsyningsanlæggets interesser, jf. dog § 13 b, stk. 2. Bestemmelserne i § 13, stk. 2 og 3, finder tilsvarende anvendelse.
+
+Stk. 2. En indsatsplan efter stk. 1 må ikke stride mod regionplanlægningen, vandressourceplanlægningen, vandforsyningsplanen eller indsatsplaner vedtaget efter § 13.
