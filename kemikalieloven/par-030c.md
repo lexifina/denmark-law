@@ -1,0 +1,5 @@
+§ 30 c. Når hensynet til miljøbeskyttelsen i øvrigt taler herfor, kan ministeren, uden at betingelserne efter § 30 er opfyldt, træffe bestemmelse eller fastsætte regler om begrænsning i eller forbud mod salg eller anvendelse af de i § 30 nævnte stoffer, produkter eller varer.
+
+Stk. 2. Salgs- eller anvendelsesbegrænsninger efter stk. 1 kan fastsættes, hvis de pågældende stoffer, produkter eller varer kan erstattes af stoffer, produkter, varer eller metoder med samme anvendelsesområder, som i væsentlig grad begrænser forureningen i forbindelse med fremstillingen, brugen eller bortskaffelsen af de pågældende stoffer, produkter eller varer, eller som i øvrigt i væsentlig grad forbedrer mulighederne for anvendelse af renere teknologi.
+
+Stk. 3. Det er endvidere en betingelse for fastsættelse af salgs- eller anvendelsesbegrænsninger efter stk. 1, at den i stk. 2 nævnte erstatning af stoffer, produkter eller varer kan ske uden væsentlige samlede meromkostninger for virksomhederne og forbrugerne.

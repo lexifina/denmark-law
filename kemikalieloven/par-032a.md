@@ -1,0 +1,3 @@
+§ 32 a. Ministeren kan i forbindelse med et forbud mod salg eller anvendelse efter § 30 eller § 38 påbyde en producent eller importør for egen regning at tilbagekalde stoffet, produktet eller varen fra forhandlere eller brugere, når det findes nødvendigt for at sikre, at stoffet, produktet eller varen ikke medfører alvorlig fare for sundheden eller alvorlig skade på miljøet.
+
+Stk. 2. Forhandlere og brugere af et kemisk stof, et produkt eller en vare, som tilbagekaldes efter stk. 1, har pligt til at aflevere stoffet, produktet eller varen til producenten eller importøren efter dennes anvisning.
