@@ -1,4 +1,4 @@
-Kulturministeriet, den 12. marts 2003
+Kulturministeriet, den 30. juni 2004
 
 Brian Mikkelsen
 

@@ -34,7 +34,7 @@ Lov nr. 472 af 7. juni 2001 om ændring af ophavsretsloven (Digital eksemplarfre
 
 § 2
 
-Stk. 1. Loven træder i kraft dagen efter bekendtgørelsen i Lovtidende .
+Stk. 1. Loven træder i kraft dagen efter bekendtgørelsen i Lovtidende. )
 
 Stk. 2. For aftaler indgået før lovens ikrafttræden finder de hidtil gældende bestemmelser i ophavsretslovens § 50, jf. §§ 13 og 14, § 17, stk. 5, § 23, stk. 2, og §§ 30 og 35 fortsat anvendelse.
 
@@ -42,14 +42,38 @@ Stk. 2. For aftaler indgået før lovens ikrafttræden finder de hidtil gældend
 
 Loven gælder ikke for Færøerne og Grønland, men kan ved kgl. anordning sættes helt eller delvis i kraft for Færøerne og Grønland med de afvigelser, som de særlige færøske eller grønlandske forhold tilsiger.
 
-Lov nr. 1051 af 17. december 2002 om ændring af ophavsretsloven (Gennemførelse af infosoc-direktivet, nye aftalelicenser m.v.) indeholder følgende ikrafttrædelsesbestemmelser m.v.:
+Lov nr. 1051 af 17. december 2002 om ændring af ophavsretsloven (Gennemførelse af infosoc-direktivet , nye aftalelicenser m.v.) indeholder følgende ikrafttrædelsesbestemmelser m.v.:
 
 § 2
 
 Stk. 1. Loven træder i kraft den 22. december 2002.
 
-Stk. 2. Bestemmelsen i § 1, nr. 35, finder ikke anvendelse på lydoptagelser, hvor beskyttelsestiden er udløbet ved lovens ikrafttræden.
+Stk. 2. Bestemmelsen i § 1, nr. 35, finder ikke anvendelse på lydoptagelser , hvor beskyttelsestiden er udløbet ved lovens ikrafttræden.
 
 § 3
 
 Loven gælder ikke for Færøerne og Grønland, men kan ved kongelig anordning sættes i kraft for disse landsdele med de afvigelser, som de særlige færøske og grønlandske forhold tilsiger.
+
+Lov nr. 997 af 9. december 2003 om ændring af ophavsretsloven (Revision af blankbåndsordningen, kopiering til privat brug m.v.) indeholder følgende ikrafttrædelsesbestemmelser m.v.:
+
+§ 2
+
+Loven træder i kraft dagen efter bekendtgørelsen i Lovtidende. )
+
+§ 3
+
+Loven gælder ikke for Færøerne eller Grønland, men kan ved kgl. anordning sættes helt eller delvist i kraft for Færøerne og Grønland med de afvigelser, som de særlige færøske og grønlandske forhold tilsiger.
+
+Lov nr. 352 af 19. maj 2004 om ændring af straffeloven, retsplejeloven, markedsføringsloven og ophavsretsloven ( It-kriminalitet m.v.), indeholder følgende ikrafttrædelsesbestemmelser m.v.:
+
+§ 5
+
+Loven træder i kraft den 1. juli 2004.
+
+§ 6
+
+Stk. 1. Loven gælder ikke for Grønland og Færøerne.
+
+Stk. 2. (Udeladt)
+
+Stk. 3. Lovens § 4 ) kan ved kongelig anordning helt eller delvis sættes i kraft for Færøerne eller Grønland med de afvigelser, som de særlige færøske eller grønlandske forhold tilsiger.
