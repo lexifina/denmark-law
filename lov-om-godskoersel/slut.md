@@ -1,9 +1,7 @@
-Givet på Christiansborg slot, den 21. december 1988
+Trafikministeriet, den 6. maj 1992
 
-Under Vor Kongelige Hånd og Segl
+Kaj Ikast
 
-MARGRETHE R.
-
-/H. P. Clausen
+/ Bo Tarp
 
 Ingen
