@@ -2,12 +2,4 @@ Bekendtgørelse af lov om indkomstbeskatning af selvstændige erhvervsdrivende
 
 (virksomhedsskatteloven)
 
-Herved bekendtgøres lov om indkomstbeskatning af selvstændige erhvervsdrivende (virksomhedsskatteloven), jf. lovbekendtgørelse nr. 764 af 4. oktober 1999 med de ændringer, der følger af § 18 i lov nr. 958 af 20. december 1999, § 2 i lov nr. 1279 af 20. december 2000, § 1 i lov nr. 1281 af 20. december 2000, § 6 i lov nr. 1283 af 20. december 2000 og § 4 i lov nr. 339 af 16. maj 2001.
-
-## Afsnit I
-
-Virksomhedsordningen
-
-## Kapitel 1
-
-Indledende bestemmelser
+Herved bekendtgøres lov om indkomstbeskatning af selvstændige erhvervsdrivende (virksomhedsskatteloven), jf. lovbekendtgørelse nr. 1 af 2. januar 2002 med de ændringer, der følger af § 1 i lov nr. 1062 af 17. december 2002, § 5 i lov nr. 290 af 15. maj 2002, § 8 i lov nr. 292 af 15. maj 2002, § 15 i lov nr. 313 af 21. maj 2002, § 8 i lov nr. 394 af 6. juni 2002 og § 437 i lov nr. 453 af 10. juni 2003.
