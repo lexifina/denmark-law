@@ -1,5 +1,3 @@
-Bekendtgørelse af lov om statsgaranti til lån til skoler og forsøgsbyggeri m.v.
+Bekendtgørelse af lov om statsgaranti til lån til forsøgsbyggeri
 
-(Statsgaranti)
-
-Herved bekendtgøres lov om statsgaranti til lån til skoler og forsøgsbyggeri m.v., jf. lov nr. 1073 af 22. december 1993, med de ændringer, der følger af § 1 i lov nr. 363 af 14. juni 1995.
+Herved bekendtgøres lov om statsgaranti til lån til forsøgsbyggeri, jf. lovbekendtgørelse nr. 723 af 4. september 1995, med de ændringer, der følger af § 1 i lov nr. 314 af 14. maj 1997.
