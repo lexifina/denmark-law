@@ -1,0 +1,5 @@
+»stk. 4« skal være »stk. 6«. Vil blive ændret ved førstkommende lovændring.
+
+Lov nr. 333 af 16. maj 2001 trådte i kraft den 4. juli 2002. Lovens nr. 1 og 2 har virkning for personer, der har pensionsrettigheder fra ansættelse i stillinger omfattet af den nordiske pensionsoverenskomst af 1. juni 2001, og som ved overenskomstens ikrafttræden den 1. marts 2002 endnu ikke er bevilget pension, jf. Finansministeriets bekendtgørelse nr. 541 af 28. juni 2002.
+
+Personer omfattet af den nordiske pensionsoverenskomst kan i en 5-årig periode regnet fra 1. marts 2002 vælge at få deres pension beregnet efter den hidtidige pensionsoverenskomst af 18. december 1973 med mindre andet følger af Rådets forordning (EF) nr. 1408/71, jf. Finansministeriets bekendtgørelse nr. 541 af 28. juni 2002.
