@@ -1,0 +1,1 @@
+§ 111 a. Ved befordring af passagerer, udført af dansk lufttrafikforetagende, er ansvaret for hver enkelt passager begrænset til 100.000 SDR. Denne grænse gælder, uanset hvor skaden er indtruffet. Der kan træffes aftale om højere ansvarsgrænser.

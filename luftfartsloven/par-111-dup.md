@@ -1,0 +1,1 @@
+§ 111. Medmindre andet følger af § 111 a, er ved befordring af passagerer befordrerens ansvar for hver enkelt begrænset til 16.600 særlige trækningsrettigheder (SDR), jfr. stk. 5. Aftale kan dog træffes om en højere ansvarsgrænse. Trafikministeren kan bekendtgøre generelle aftaler om højere ansvarsgrænser.

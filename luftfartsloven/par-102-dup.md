@@ -1,0 +1,1 @@
+§ 102. Når godset er ankommet til bestemmelsesstedet, kan modtageren, bortset fra de i § 101 nævnte tilfælde, kræve, at befordreren udleverer luftfragtbrevet og godset til ham mod betaling af de skyldige beløb og mod opfyldelse af de befordringsvilkår, der er angivet i luftfragtbrevet.

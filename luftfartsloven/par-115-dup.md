@@ -1,0 +1,1 @@
+§ 115. Modtages indskrevet rejsegods eller gods uden forbehold fra modtagerens side, formodes godset at være udleveret i god stand og i overensstemmelse med befordringsdokumentet, hvis ikke andet bevises.

@@ -1,1 +1,5 @@
 § 150 d. Uanset bestemmelserne i §§ 1 og 4, stk. 1, finder lovens bestemmelser om straf og frakendelse af ret til at gøre tjeneste på et luftfartøj også anvendelse på handlinger foretaget uden for dansk område af personer, der er indehavere af dansk certifikat, jf. § 35, med de begrænsninger, der følger af straffelovens §§ 7, 10, 10 a og 10 b.
+
+## Kapitel 14
+
+Gennemførelsesbestemmelser

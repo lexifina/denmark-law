@@ -1,0 +1,1 @@
+§ 124. Ved Warszawa-konventionen forstås i denne lov den i Warszawa den 12. oktober 1929 afsluttede overenskomst om international luftbefordring, således som denne er ændret ved den i Haag den 28. september 1955 undertegnede protokol.

@@ -1,0 +1,1 @@
+§ 107. Bliver indskrevet rejsegods eller gods beskadiget, eller går det tabt som følge af en begivenhed, der er indtruffet inden for den tid, det er i befordrerens varetægt, enten på flyveplads eller om bord i luftfartøj eller på et hvilket som helst andet sted, når landing sker uden for flyveplads, er befordreren ansvarlig derfor.
