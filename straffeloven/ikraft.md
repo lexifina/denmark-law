@@ -1,18 +1,10 @@
-Lov nr. 228 af 4. april 2000 (Grov momssvig, EU-svig og bestikkelse af udenlandske tjenestemænd m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
-
-§ 3
-
-Stk. 1. Lovens § 1 træder i kraft den 1. maj 2000.
-
-Stk. 2. Justitsministeren fastsætter ikrafttrædelsestidspunktet for lovens § 2 eller dele af denne bestemmelse.
-
 Lov nr. 438 af 31. maj 2000 (Tidsbegrænsning af foranstaltninger efter straffelovens §§ 68 og 69) indeholder følgende ikrafttrædelsesbestemmelse:
 
 § 2
 
 Stk. 1. Loven træder i kraft den 1. juli 2000.
 
-Stk. 2. Straffelovens § 68 a og § 69 a som affattet ved denne lovs § 1, nr. 1 og 3, finder anvendelse på foranstatninger efter straffelovens §§ 68 og 69, der idømmes efter lovens ikrafttræden. Det samme gælder foranstaltninger, der efter lovens ikrafttræden fastsættes efter straffelovens § 72, jf. §§ 68 og 69, og som medfører en skærpelse af foranstaltningen.
+Stk. 2. Straffelovens § 68 a og § 69 a som affattet ved denne lovs § 1, nr. 1 og 3, finder anvendelse på foranstaltninger efter straffelovens §§ 68 og 69, der idømmes efter lovens ikrafttræden. Det samme gælder foranstaltninger, der efter lovens ikrafttræden fastsættes efter straffelovens § 72, jf. §§ 68 og 69, og som medfører en skærpelse af foranstaltningen.
 
 Lov nr. 441 af 31. maj 2000 (Forældelse, styrket indsats mod seksuelt misbrug af børn og unge samt IT-efterforskning) indeholder følgende ikrafttrædelsesbestemmelse:
 
@@ -60,23 +52,27 @@ Stk. 2. Forvolder en embedsmand fra en anden medlemsstat skade under udførelse 
 
 Loven træder i kraft den 1. juli 2002.
 
-Lov nr. 378 af 6. juni 2002 (Gennemførelse af FN-konventionen til bekæmpelse af finansiering af terrorisme, gennemførelse af FNs Sikkerhedsråds resolution nr. 1373 (2001) samt øvrige initiativer til bekæmpelse af terrorisme mv.) indeholder følgende ikrafttrædelsesbestemmelse:
-
-§ 7
-
-Stk. 1. Loven træder i kraft dagen efter bekendtgørelsen i Lovtidende, jf. dog stk. 2 og 3.
-
-Stk. 2-4. (Udelades)
-
-Lov nr. 380 af 6. juni 2002 (Skærpelse af straffen for voldtægt, vold, uagtsomt manddrab, uagtsom betydelig legemsbeskadigelse, forsætlig fareforvoldelse, biltyveri, grov forstyrrelse af ro og orden, menneskesmugling og menneskehandel mv.) indeholder følgende ikrafttrædelsesbestemmelse:
+Lov nr. 228 af 2. april 2003 (Børnepornografi, seksuel udnyttelse af børn, salg af børn og gennemførelse af straffesager om seksuelt misbrug af børn m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
 
 § 4
 
 Loven træder i kraft dagen efter bekendtgørelsen i Lovtidende.
 
-Lov nr. 382 af 6. juni 2002 (Fangeflugt og begrænsning i indsattes adgang til aktindsigt mv.) indeholder følgende ikrafttrædelsesbestemmelse:
+Lov nr. 386 af 28. maj 2003 (Kvindelig omskæring) indeholder følgende ikrafttrædelsesbestemmelse:
 
-§ 4
+§ 3
+
+Loven træder i kraft dagen efter bekendtgørelsen i Lovtidende.
+
+Lov nr. 389 af 28. maj 2003 (Straf for overtrædelse af Den Europæiske Unions udenrigs- og sikkerhedspolitiske sanktioner mod tredjelande m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 3
+
+Loven træder i kraft dagen efter bekendtgørelsen i Lovtidende.
+
+Lov nr. 436 af 10. juni 2003 (Bekæmpelse af rockerkriminalitet og anden organiseret kriminalitet) indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 3
 
 Stk. 1. Loven træder i kraft dagen efter bekendtgørelsen i Lovtidende.
 

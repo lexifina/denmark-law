@@ -17,7 +17,3 @@ Stk. 2. På samme måde straffes den, der med henblik på udnyttelse af den påg
 1) rekrutterer, transporterer, overfører, huser eller efterfølgende modtager en person under 18 år eller
 
 2) yder betaling eller anden fordel for at opnå samtykke til udnyttelsen fra en person, som har myndighed over den forurettede, og den, der modtager sådan betaling eller anden fordel.
-
-27. kapitel
-
-Freds- og ærekrænkelser
