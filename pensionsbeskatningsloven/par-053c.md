@@ -1,0 +1,1 @@
+§ 53 C. § 53 A, stk. 2 og 3, finder tilsvarende anvendelse på sikkerhedsstillelse eller lignende for et løfte om pension som nævnt i § 53 A, stk. 1, nr. 6, der sker i aktiver, der ikke er omfattet af sidstnævnte bestemmelse.
