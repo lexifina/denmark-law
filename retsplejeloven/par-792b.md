@@ -1,0 +1,3 @@
+§ 792 b. Uden for de tilfælde, der er nævnt i § 792 a, stk. 1, nr. 2, kan optagelse af fingeraftryk og personfotografi med henblik på senere identifikation endvidere foretages, såfremt den pågældende med rimelig grund er mistænkt for en lovovertrædelse, der efter loven kan medføre fængsel i 1 år og 6 måneder eller derover.
+
+Stk. 2. Uden for de tilfælde, der er nævnt i § 792 a, stk. 2, nr. 1, kan udtagelse af blodprøver foretages, såfremt der er begrundet mistanke om, at den pågældende har gjort sig skyldig i en lovovertrædelse, i hvis gerningsindhold indtagelse af spiritus eller euforiserende stoffer er et led.
