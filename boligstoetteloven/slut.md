@@ -1,6 +1,6 @@
-Boligministeriet, den 23. juli 1992
+Boligministeriet, den 23. februar 1993
 
-Svend Erik Hovmand
+Flemming Kofod-Svendsen
 
 / Hanne Victor Hansen
 
@@ -9,3 +9,5 @@ Svend Erik Hovmand
 (* 2) Lovændringen vedrører § 46, stk. 3.
 
 (* 3) Lovændringen vedrører § 35, stk. 1.
+
+(* 4) Lovændringen vedrører § 47, stk. 7, § 50, stk. 2, § 53, stk. 2, § 72, stk. 1 og 2, § 73, stk. 1, 2 og 3, § 75, stk. 2 og § 82 a.

@@ -1,5 +1,3 @@
-Bekendtgørelse af lov om individuel boligstøtte (* 1)
+Bekendtgørelse aflov om individuel boligstøtte
 
-(Boligstøtteloven)
-
-Hermed bekendtgøres lov nr. 376 af 6. juni 1991 om individuel boligstøtte med de ændringer, der følger af § 2 i lov nr. 935 af 27. december 1991, § 6 i lov nr. 380 af 20. maj 1992 og § 2 i lov nr. 476 af 24. juni 1992.
+Hermed bekendtgøres lov nr. 376 af 6. juni 1991, jf. lovbekendtgørelse nr. 664 af 23. juli 1992, med de ændringer, der følger af lov nr. 1044 af 23. december 1992.
