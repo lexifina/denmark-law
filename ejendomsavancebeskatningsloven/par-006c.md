@@ -1,1 +1,3 @@
 § 6 C. Såfremt den skattepligtige ombygger, tilbygger eller nybygger på en ejendom, der er omfattet af § 6 A, kan den skattepligtige i stedet for at medregne fortjeneste ved afståelse af fast ejendom til den skattepligtige indkomst vælge at nedsætte anskaffelsessummen for ombygningen, tilbygningen eller nybygningen med fortjenesten efter reglerne i § 6 A.
+
+Stk. 2. Reglen finder ikke anvendelse på bygninger, der tjener eller har tjent som bolig for ejeren eller dennes husstand.
