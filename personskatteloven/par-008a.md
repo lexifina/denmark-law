@@ -10,6 +10,6 @@ Stk. 5. Er aktieindkomsten negativ, beregnes negativ skat med den i stk. 1 nævn
 
 Stk. 6. Er en gift persons aktieindkomst negativ, modregnes beløbet i den anden ægtefælles positive aktieindkomst. Det er en forudsætning, at ægtefællerne er samlevende ved indkomstårets udløb. Af et eventuelt resterende negativt beløb beregnes negativ skat efter stk. 5 med anvendelse af dobbelt grundbeløb. Har begge ægtefæller negativ aktieindkomst, fordeles det dobbelte grundbeløb forholdsmæssigt mellem ægtefællerne. Negativ skat, der ikke kan modregnes i den skattepligtiges slutskat, modregnes i ægtefællens slutskat.
 
-Stk. 7. (* 2) Stk. 4 finder tilsvarende anvendelse, såfremt en gift person dør og der foretages en ansættelse af afdødes og længstlevendes indkomst i dødsåret efter kildeskattelovens §§ 13 eller 20 C, stk. 1, 2. pkt. Det er en forudsætning, at ægtefællerne var samlevende ved dødsfaldet, og at den længstlevende ægtefælle ikke lever sammen med en ny ægtefælle ved udgangen af dødsåret.
+Stk. 7. Stk. 4 finder tilsvarende anvendelse, såfremt en gift person dør og der foretages en ansættelse af afdødes og længstlevendes indkomst i dødsåret efter kildeskattelovens §§ 13 eller 20 C, stk. 1, 2. pkt. Det er en forudsætning, at ægtefællerne var samlevende ved dødsfaldet, og at den længstlevende ægtefælle ikke lever sammen med en ny ægtefælle ved udgangen af dødsåret.
 
 Stk. 8. Grundbeløb i stk. 1-2 reguleres efter § 20.
