@@ -1,1 +1,0 @@
-§ 7 L. (* 19) Ved opgørelsen af den skattepligtige indkomst medregnes ikke bidrag indeholdt i medfør af § 11, stk. 10, i lov om arbejdsmarkedsfonde for personer, der er omfattet af bidragspligten efter lovens § 7, stk. 1, jf. § 8, stk. 1.

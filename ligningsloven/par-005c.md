@@ -1,5 +1,0 @@
-§ 5 C. Vederlag for vedhængende eller godskrevne renter i forbindelse med overdragelse af rentebærende fordringer medregnes ved indkomstopgørelsen hos den, der har krav på vederlaget. Vederlaget fradrages ved indkomstopgørelsen hos den, der er forpligtet til at betale vederlaget. Vederlaget medregnes, henholdsvis fradrages, ved opgørelsen af den skattepligtiges renteindtægter for det indkomstår, hvori handelen afvikles. De til vederlaget svarende vedhængende eller godskrevne renter medregnes ved opgørelsen af den skattepligtiges renteindtægter for det indkomstår, hvori de forfalder til betaling.
-
-Stk. 2. Stk. 1 gælder ikke for skattepligtige, der fordeler renteudgifter og renteindtægter på den måde, der er nævnt i § 5, stk. 5.
-
-Stk. 3. (* 6) Vederlag for vedhængende renter i forbindelse med erhvervelse af rentebærende fordringer kan ikke fradrages, såfremt renteindtægter af fordringen eller gevinster på fordringen omfattet af kursgevinstloven som følge af en dobbeltbeskatningsoverenskomst ikke skal medregnes ved opgørelse af den skattepligtige indkomst.

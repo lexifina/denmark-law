@@ -1,1 +1,0 @@
-§ 16 G. (* 13) Til den skattepligtige indkomst medregnes beløb, der ved en pensionsordnings opløsning eller bortfald tilfalder arbejdsgiveren, når denne i sin skattepligtige indkomst har fradraget de af ham præsterede tilskud til ordningen, medmindre beløbet beskattes efter pensionsbeskatningslovens § 24.

@@ -1,1 +1,0 @@
-§ 15 L. (* 4) Ved opgørelsen af den skattepligtige formue medregnes en ejerlejlighed til den ansatte ejendomsværdi, jf. § 14, nr. 1, i statsskatteloven. Ved formueopgørelsen medregnes eller fradrages endvidere værdien af lejlighedsejerens andel i formue eller gæld, der tilhører eller påhviler den i lov om ejerlejligheder omhandlede ejerforening.

@@ -1,1 +1,0 @@
-§ 5 B. Ved indtræden eller ophør af skattepligt efter kildeskattelovens § 1 af anden grund end ved død fordeles renteindtægter over den periode, de vedrører, på den måde, som er nævnt i § 5, stk. 6, ved opgørelsen af den skattepligtige indkomst og formue.

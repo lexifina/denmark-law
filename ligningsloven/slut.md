@@ -1,87 +1,161 @@
-Skatteministeriet, den 15. november 1995
+Ministeriet for skatter og afgifter, den 2. september 1985
 
-Carsten Koch
+Isi Foighel
 
-/ Lise Bo Nielsen
+/ Jens Drejer
 
-(* 1) Denne lovbekendtgørelse indeholder bemærkninger om ikrafttrædelses- og overgangsbestemmelser for love, der er vedtaget i folketingsåret 1994-95. Bemærkninger om ikrafttrædelses- og overgangsbestemmelser for tidligere vedtagne ændringer af ligningsloven er som hovedregel ikke medtaget. Bemærkninger om ikrafttrædelses- og overgangsbestemmelser for love, der er vedtaget i folketingsåret 1993-94 kan findes i lovbekendtgørelse nr. 851 af 30. september 1994.
+(* 1) Bestemmelsen i § 4, stk. 3, finder i den her anførte affattelse anvendelse ved indeksreguleringer, der sker den 1. juli 1981 eller senere, jfr. § 2 i lov nr. 262 af 27. maj 1981.
 
-(* 2) Bestemmelsen i § 4 A, stk. 2, 3. pkt., har i den her anførte affattelse virkning for overdragelser, der finder sted den 1. januar 1995 eller senere, jf. § 6, stk. 3, i lov nr. 1119 af 21. december 1995.
+(* 2) Bestemmelsen i § 4, stk. 4, finder ikke anvendelse for obligationslån, indlånsbeviser, ansvarlig indskudskapital o.lign., som den skattepligtige den 15. december 1983 var forpligtet til at indfri til overkurs, jfr. § 2, stk. 2, i lov nr. 597 af 15. december 1983.
 
-(* 3) Bestemmelserne i § 4 A, stk. 3, 2. pkt., og § 17 A, stk. 1, træder i den her anførte affattelse i kraft den 1. juli 1995 og finder anvendelse på boer og anmeldelser vedrørende personer, som afgår ved døden efter lovens ikrafttræden, jf. § 11, stk. 1 og 2, i lov nr. 427 af 14. juni 1995.
+(* 3) Bestemmelserne i § 4 A, stk. 2, 4. pkt., og § 6 er ophævet og bestemmelsen i § 4 A, stk. 3, er indsat ved lov nr. 43 af 20. februar 1985. Loven trådte i kraft den 24. februar 1985, jfr. lovens § 2, stk. 1.
 
-(* 4) Bestemmelserne i § 4 B, § 15 B, stk. 1, § 15 L, 1. pkt., § 18 B, stk. 1-3, og § 18 C har i den her anførte affattelse virkning for indkomst- og formueopgørelsen for indkomståret 1998 og senere indkomstår, jf. § 9, stk. 4, i lov nr. 378 af 18. maj 1994.
+(* 4) Bestemmelserne i § 4 A, stk. 4 og § 17 B trådte i kraft den 1. juli 1985, jfr. § 5 i lov nr. 244 af 6. juni 1985.
 
-(* 5) Indsættelse af § 5, stk. 9, har virkning for aftaler om nedsættelse af gæld, der indgås efter lovens ikrafttræden (den 16. juni 1995), jf. § 9, stk. 1 og 2, i lov nr. 412 af 14. juni 1995.
+(* 5) Bestemmelsen i § 4 B har i den her anførte affattelse virkning fra og med indkomståret 1982, jfr. § 2 i lov nr. 125 af 31. marts 1982.
 
-(* 6) Indsættelse af § 5 C, stk. 3, § 5 D, 3. pkt., og § 5 F har virkning for udgifter og tab, der vedrører tiden efter den 30. november 1994. Såfremt vedhængende renter af en fordring som nævnt i § 5 C, stk. 3, forfalder efter den 30. november 1994, fordeles vederlaget over perioden mellem erhvervelsen af fordringen og renternes forfaldstidspunkt. Udgifter i forbindelse med lån som nævnt i § 5 F, der ikke er indfriet inden den 30. november 1994, fordeles over den periode, de vedrører, jf. § 3, stk. 2, 3 og 4, i lov nr. 1121 af 21. december 1994.
+(* 6) Bestemmelsen i §§ 5, 5 A og 5 B, er indsat ved lov nr. 203 af 17. maj 1984, hvis § 2 indeholder følgende ikrafttrædelsesbestemmelse:
 
-(* 7) Indsættelse af § 6, stk. 1, sidste pkt., træder i kraft dagen efter bekendtgørelsen i Lovtidende (den 23. december 1994) og har virkning for omlægninger af kontantlån, der finder sted den 27. juni 1993 eller senere, jf. § 2 i lov nr. 1112 af 21. december 1994.
+"Stk. 1. Ligningslovens § 5, stk. 1-3 og 5, som affattet ved denne lov, finder anvendelse på fradrag for renteudgifter m.v., som vedrører gæld, der stiftes eller forlænges efter den 14. marts 1984, eller gæld, hvor de oprindeligt aftalte vilkår ændres efter denne dato.
 
-(* 8) Ophævelse af bestemmelserne i § 7, litra c og 1, træder i kraft dagen efter bekendtgørelsen i Lovtidende (den 31. marts 1995), jf. § 4, stk. 1, i lov nr. 214 af 29. marts 1995.
+Stk. 2. Ligningslovens § 5, stk. 6, som affattet ved denne lov, har virkning for renteudgifter m.v., der forfalder dagen efter bekendtgørelsen i Lovtidende eller senere.
 
-(* 9) Bestemmelsen i § 7, litra i, træder i kraft den 1. januar 1995, jf. § 4, stk. 1, i lov nr. 1128 af 21. december 1994.
+Stk. 3. Ligningslovens § 5, stk. 4, som affattet ved denne lov, har virkning for indkomståret 1985 og senere indkomstår.
 
-(* 10) Indsættelse af § 7, litra r, 2. pkt., og § 7 K, stk. 9, og § 33 A, stk. 5, der bliver stk. 4, i den her anførte affattelse samt ophævelse af § 33 A, stk. 3, har virkning fra og med indkomståret 1995, jf. § 3, stk. 2, i lov nr. 1115 af 21. december 1994.
+Stk. 4. Ligningslovens § 5, stk. 7 og 8, som affattet ved denne lov, har virkning for indkomståret 1984 og senere indkomstår. Bestemmelsen om, at renteudgifter m.v. i visse tilfælde først kan fradrages, når de betales, finder dog ikke anvendelse på renteudgifter m.v., som i indkomståret 1984 forfaldt før den 15. marts 1984. For bogførings- og regnskabspligtige, der ved indkomst- og formueopgørelsen fordeler renteudgifter m.v. over den periode, renten m.v. vedrører, og for andre skattepligtige, der har opnået tilladelse til nævnte fordeling, finder bestemmelsen om, at renteudgifter m.v. i visse tilfælde først kan fradrages, når de betales, ikke anvendelse på renter m.v., der vedrører perioden fra indkomstårets begyndelse til den 15. marts 1984.
 
-(* 11) Indsættelse af § 7, litra u, træder i kraft dagen efter bekendtgørelsen i Lovtidende (den 23. december 1994), jf. § 3, stk. 1, i lov nr. 1115 af 21. december 1994.
+Stk. 5. Ligningslovens § 5 A, som affattet ved denne lov, har virkning for indkomståret 1984 og senere indkomstår.
 
-(* 12) Bestemmelsen i § 7, litra u, træder i den her anførte affattelse i kraft dagen efter bekendtgørelsen i Lovtidende (den 16. juni 1995), jf. § 16 i lov nr. 440 af 14. juni 1995.
+Stk. 6. Ligningslovens § 5 B, som affattet ved denne lov, har virkning, når skattepligten ophører dagen efter bekendtgørelsen i Lovtidende eller senere."
 
-(* 13) Bestemmelserne i § 16 E, stk. 1, nr. 2, og stk. 6, § 16 F, stk. 3, og § 32 F i den her anførte affattelse, ophævelse af § 7, litra w, samt indsættelse af § 7 N-P, § 16 E, stk. 1, nr. 6, § 16 E, stk. 8, og § 16 G, har virkning for indkomståret 1996 og senere indkomstår. Uanset bestemmelsen i ligningslovens § 7 P som affattet ved § 2, nr. 2, i lov nr. 313 af 17. maj 1995, medregnes de nævnte indkomster for skattepligtige personer med 85 pct. ved opgørelsen af den skattepligtige indkomst i indkomstårene 1996 og 1997. For de i ligningslovens § 16 E, stk. 1, nr. 6, som affattet ved § 2, nr. 4, i lov nr. 313 af 17. maj 1995, omhandlede ydelser, der er ydet inden lovens virkningstidspunkt, foretages afskrivning for den resterende periode på grundlag af den oprindelige anskaffelsessum uden kontantomregning med de i ligningslovens § 16 F indeholdte satser, jf. § 19, stk. 1 og 2, i lov nr. 313 af 17. maj 1995.
+Loven blev bekendtgjort i Lovtidende den 19. maj 1984.
 
-(* 14) Bestemmelsen i § 7, litra æ, har virkning fra og med den 1. januar 1992, jf. § 4, stk. 2, i lov nr. 214 af 29. marts 1995.
+(* 7) Bestemmelserne i § 7 n. og 7 u. er ophævet med virkning fra 1. januar 1983, jfr. § 2, stk. 2, i lov nr. 266 af 8. juni 1983. Bestemmelsen i § 7 i. har virkning fra den 1. januar 1984, jfr. § 5, stk. 1, i lov nr. 501 af 28. oktober 1983.
 
-(* 15) Indsættelse af § 7 B træder i kraft den 16. september 1995 og har virkning for beløb, som Indskydergarantifonden udbetaler fra og med ikrafttrædelsestidspunktet, jf. bekendtgørelse nr. 753 af 15. september 1995.
+(* 8) Bestemmelsen i § 7 B er ophævet med virkning fra og med indkomståret 1986, jfr. § 2, stk. 3, i lov nr. 43 af 20. februar 1985.
 
-(* 16) Indsættelse af § 7 D, ændringen i § 27 B, stk. 1, samt ophævelse af § 27 B, stk. 1, nr. 8, og § 27 C, har virkning for tilsagn om medfinansiering i form af tilskud fra VækstFonden og medfinansiering i form af lån fra VækstFonden med betinget tilbagebetalingspligt, der gives fra lovens ikrafttrædelse. Loven træder i kraft den 5. juli 1995, jf. bekendtgørelse nr. 550 af 30. juni 1995.
+(* 9) Bestemmelsen i § 7 C har virkning fra og med indkomståret 1980, jfr. § 2 i lov nr. 531 af 10. december 1980.
 
-(* 17) § 7 F, stk. 1, nr. 3, er ophævet ved lov nr. 1086 af 21. december 1994. Loven træder i kraft dagen efter bekendtgørelsen i Lovtidende (den 22. december 1994). Ansøgninger om statstilskud til forbedringsarbejder m.v. i helårsboliger og fritidsboliger, hvortil der er meddelt tilsagn før ikrafttrædelsesdatoen, bliver dog færdigbehandlet efter de hidtil gældende regler.
+(* 10) Bestemmelsen i § 7 D er ophævet med virkning fra 12. maj 1984, jfr. § 2, stk. 1, i lov nr. 179 af 9. maj 1984.
 
-(* 18) Indsættelse af § 7 F, stk. 1, nr. 7, kan tidligst træde i kraft den 1. januar 1996, jf. § 11 i lov nr. 407 af 14. juni 1995. Miljø- og energiminsteren fastsætter tidspunktet for lovens ikrafttrædelse.
+(* 11) Bestemmelsen i § 7 E har virkning fra og med indkomståret 1981, jfr. § 3, stk. 1, i lov nr. 266 af 27. maj 1981.
 
-(* 19) Bestemmelsen i § 7 L har virkning fra og med indkomståret 1994, jf. § 4, stk. 3, i lov nr. 214 af 29. marts 1995.
+(* 12) Bestemmelserne i §§ 7 F og 7 G har virkning fra den 1. januar 1983, jfr. § 2, stk. 2, i lov nr. 266 af 8. juni 1983. § 7 G har dog virkning fra den 17. marts 1982, i det omfang beløbet hidrører fra et tilskud ydet i henhold til saneringslovens § 64 c.
 
-(* 20) Indsættelse af § 8 F og bestemmelsen i § 8 G, stk. 5, i den her anførte affattelse træder i kraft den 21. april 1995, jf. bekendtgørelse nr. 246 af 18. april 1995.
+(* 13) Bestemmelsen i § 7 H har virkning fra og med indkomståret 1984, jfr. § 3 i lov nr. 623 af 21. december 1983.
 
-(* 21) Bestemmelserne i § 8 G, stk. 1 og 2, og § 8 H, stk. 1, træder i den her anførte affattelse i kraft dagen efter bekendtgørelsen i Lovtidende (den 10. februar 1995) og har virkning fra og med den 1. januar 1995, jf. § 10, stk. 1, i lov nr. 90 af 8. februar 1995.
+(* 14) Bestemmelsen i § 8 A har i den her anførte affattelse virkning fra og med indkomståret 1983, jfr. § 9 i lov nr. 227 af 26. maj 1982.
 
-(* 22) Indsættelse af § 8 O har virkning for tilbagebetaling af skattepligtig kontanthjælp, der finder sted den 1. januar 1995 eller senere, jf. § 4, stk. 4, i lov nr. 214 af 24. marts 1995.
+(* 15) Bestemmelserne i § 8 D, stk. 1-3, er indsat ved lov nr. 648 af 19. december 1975, hvis § 2 indeholder følgende ikrafttrædelsesbestemmelse:
 
-(* 23) Bestemmelsen i § 9 C har i den her anførte affattelse virkning fra og med indkomståret 1994. Uanset ophævelsen af § 9 C, stk. 4, i den hidtil gældende formulering, jf. lovbekendtgørelse nr. 1223 af 17. december 1992, kan skattepligtige, der i indkomståret 1993 er berettigede til at foretage fradrag for befordring i egen bil efter reglerne i nævnte bestemmelse, vælge at foretage fradrag for befordring efter reglerne i bestemmelsens 2. og 3. pkt. Fradrag kan kun foretages for den strækning mellem hjem og arbejdsplads, som berettiger til fradrag i 1993, og fradraget kan højst udgøre et beløb, der svarer til fradraget i 1993. Fradraget foretages efter reglerne i ligningslovens § 9 C, stk. 1-3, dog således at daglig befordring over 150 km i 1995, 170 km i 1996 og 190 km i 1997 kan fradrages med 1,05 kr. pr. km, jf. § 2, stk. 1 og 3, i lov nr. 482 af 30. juni 1990.
+"Loven har virkning for valutakursgevinst og -tab, der konstateres fra og med den 1. januar 1976.
 
-(* 24) Bestemmelsen i § 9 C, stk. 3, træder i den her anførte affattelse i kraft den 1. januar 1995 og har virkning fra og med indkomståret 1995, jf. § 2 i lov nr. 1117 af 21. december 1994.
+Stk. 2. For lån og kreditter, der med hjemmel i valutabestemmelserne er optaget eller ydet som finanslån eller lån optaget ved emission af obligationer i udlandet, medregnes valutakursgevinst og -tab kun, hvis lånet er optaget eller ydet fra og med 1. januar 1976.
 
-(* 25) Bestemmelserne i § 9 H, stk. 1, 1. pkt., samt i § 15, stk. 9, nr. 2, træder i den her anførte affattelse i kraft den 1. juli 1995, jf. § 11, stk. 1, i lov nr. 427 af 14. juni 1995.
+Stk. 3. For andre lån og kreditter medregnes valutakursgevinst og -tab, uanset hvornår lånet er optaget eller ydet."
 
-(* 26) Bestemmelsen i § 14 E, stk. 2, 1. pkt., har i den her anførte affattelse virkning fra og med indkomståret 1996, jf. § 10, stk. 2, i lov nr. 180 af 23. marts 1995.
+Ved lov nr. 246 af 8. juni 1979 er der efter ovennævnte stk. 3 indføjet følgende stykker:
 
-(* 27) Bestemmelserne i § 14 G, stk. 1, 2. pkt., stk. 2, stk. 5, 2. pkt., stk. 6 og 7, og § 14 I, træder i den her anførte affattelse i kraft den 1. januar 1995, jf. § 6, stk. 2, i lov nr. 1113 af 21. december 1994.
+"Stk. 4. På lån af den i stk. 2 nævnte art, der er optaget eller ydet før den 1. januar 1976, kan valutakursgevinst og -tab, konstateret efter 1. januar 1976, efter begæring fra den skattepligtige medregnes ved opgørelsen af den skattepligtige indkomst. Udgør den på lånet erlagte rente et mindre beløb, end hvad der svarer til en forrentning med 16 pct. p.a., indtægtsføres forskelsbeløbet. Forrentningen på 16 pct. p.a. beregnes af restgælden opgjort på grundlag af valutakursen ved lånets hjemtagelse. Skattepligtige, der har optaget kursgaranterede lån (K-lån) i Kongeriget Danmarks Fiskeribank til delvis dækning af valutakurstab ved amortisation af udenlandske lån optaget før 1. januar 1976, skal tillige fra og med indkomståret 1978 indtægtsføre forskellen mellem 16 pct. p.a. og de i det pågældende indkomstår betalte renter af de omhandlede K-lån. Valutakursgevinst og -tab samt renteforskellen for tidligere indkomstår medregnes ved opgørelsen af den skattepligtige indkomst for det år, hvori begæringen fremsættes.
 
-(* 28) Bestemmelserne i § 15, stk. 2, § 15, stk. 7, der bliver stk. 9, samt indsættelse af § 15, stk. 4 og 5, har virkning, når nedbringelsen eller indfrielsen sker den 18. januar 1995 eller senere, jf. § 9, stk. 3, i lov nr. 412 af 14. juni 1995.
+Stk. 5. Den i stk. 4 nævnte renteforskel og eventuelle valutakursgevinster i perioden fra 1. januar 1976 til lånets eller lånenes endelige afvikling kan ikke medregnes ved indkomstopgørelsen med et beløb, der tilsammen overstiger det samlede valutakurstab på de omhandlede lån.
 
-(* 29) Bestemmelsen i § 15, stk. 5, der bliver stk. 7, stk. 7, der bliver stk. 9, nr. 1, § 15, stk. 8, der bliver stk. 10, i den her anførte affattelse, indsættelse af § 15, stk. 12, samt ophævelse af § 15, stk. 7, der bliver stk. 9, nr. 3, har virkning for aftaler om overdragelse af kapitalandele m.v. og om ændring af råden over stemmeværdien, der indgås den 18. januar 1995 eller senere, jf. § 9, stk. 4, i lov nr. 412 af 14. juni 1995.
+Stk. 6. Begæring om beskatning efter stk. 4 fremsættes over for vedkommende kommunale ligningsmyndighed. Begæringen skal fremsættes senest i forbindelse med indgivelse af selvangivelsen for det indkomstår, hvori lånet eller lånene endeligt afvikles. Er samtlige de omhandlede lån afviklet den 1. januar 1979, skal begæringen fremsættes i forbindelse med indgivelse af selvangivelsen for 1979. Ministeren for skatter og afgifter fastsætter nærmere regler om, hvilke oplysninger der skal dokumenteres, for at begæringen kan imødekommes.
 
-(* 30) Bestemmelsen i § 15, stk. 7, der bliver stk. 9, nr. 2, har i den her anførte affattelse virkning for aftale om overdragelse af kapitalandele m.v., der finder sted den 1. januar 1995 eller senere. Hvis en arving eller gavemodtager vælger, at de hidtil gældende regler i lov om afgift af arv eller gave skal finde anvendelse, jf. § 6, stk. 2, 2. pkt., i lov nr. 1119 af 21. december 1994, finder de hidtil gældende regler i ligningslovens § 15, stk. 9, nr. 2, som affattet ved lovbekendtgørelse nr. 851 af 30. september 1994, i stedet anvendelse, jf. § 9, stk. 5, i lov nr. 412 af 16. juni 1995.
+Stk. 7. Ministeren for skatter og afgifter kan i øvrigt fastsætte nærmere regler for, hvorledes de i stk. 4 nævnte valutakursgevinster og -tab samt renteforskelsbeløb skal opgøres og medregnes ved indkomstopgørelsen."
 
-(* 31) Bestemmelserne i § 16, stk. 1, 1. pkt., og § 16, stk. 3, 1. pkt., i den her anførte affattelse samt indsættelse af § 16, stk. 7-9, har virkning fra og med indkomståret 1994, jf. § 2, stk. 2, i lov nr. 216 af 29. marts 1995.
+(* 16) Bestemmelsen i § 8 E har virkning fra og med indkomståret 1979, jfr. § 2 i lov nr. 515 af 21. december 1979.
 
-(* 32) Bestemmelsen i § 16 E har virkning for formuegoder, der afstås den 19. maj 1993 eller senere med de ndf. anførte undtagelser, der følger af § 8 i lov nr. 428 af 25. juni 1993. Ved overdragelse af goodwill i perioden 19. maj 1993-1. januar 1996 medregnes ved overdragelse i 1993 25 pct., ved overdragelse i 1994 50 pct. og ved overdragelse i 1995 75 pct. af fortjenesten eller tabet ved opgørelsen af den skattepligtige indkomst. Overdrages goodwill i tiden 19. maj 1993-1. januar 1998 og er vederlaget fastsat i en bindende aftale, som er indgået i perioden 1. juli 1982-19. maj 1993, er overdragelsen skattefri efter de hidtil gældende regler. Det er en betingelse, at Ligningsrådet i henhold til anmodning om bindende forhåndsbesked indgivet inden 1. januar 1994 godkender, at der foreligger en bindende aftale om vederlagets fastsættelse.
+(* 17) Bestemmelsen i § 9 A er ophævet med virkning fra 1. januar 1980, jfr. § 5 i lov nr. 517 af 21. december 1979.
 
-(* 33) Bestemmelserne i § 16 F, stk. 1-2, 1. og 2. pkt., stk. 4 og 5, har virkning for formuegoder, der erhverves den 19. maj 1993 eller senere med de ndf. anførte undtagelser, der følger af § 8 i lov nr. 428 af 25. juni 1993. Ved erhvervelse af goodwill i perioden 19. maj 1993-1. januar 1996 udgør købers afskrivningsgrundlag afhængig af om erhvervelsen sker i 1993, 1994 eller 1995, hhv. 25 pct., 50 pct. eller 75 pct. af anskaffelsessummen. For formuegoder omfattet af ligningslovens § 16 E, stk. 1, nr. 2-5, der er erhvervet før den 19. maj 1993, foretages afskrivning for den resterende periode på grundlag af den oprindelige anskaffelsessum uden kontantomregning med de i § 16 F indeholdte satser. Den således nedskrevne værdi benyttes som anskaffelsessum ved opgørelsen af fortjeneste eller tab efter § 16 E. For goodwill, der er erhvervet før den 19. maj 1993, og hvorpå der har kunnet afskrives efter tidligere gældende regler, foretages afskrivning for den resterende del af perioden efter de dagældende regler på grundlag af den oprindelige anskaffelsessum uden kontantomregning. Overdrages goodwill i tiden 19. maj 1993-1. januar 1998, og vederlaget er fastsat i en bindende aftale, som er indgået i perioden 1. juli 1982-19. maj 1993, er der ingen afskrivningsadgang for køber, såfremt Ligningsrådet i henhold til anmodning om bindende forhåndsbesked indgivet inden 1. januar 1994 godkender, at der foreligger en bindende aftale om vederlagets fastsættelse således, at sælger ikke beskattes af vederlaget.
+(* 18) Bestemmelserne i §§ 9 C og 9 D har i den anførte affattelse virkning fra og med indkomståret 1985, jfr. § 2 i lov nr. 274 af 6. juni 1984.
 
-(* 34) De 2 henvisninger i § 18 A, stk. 1, til § 2, stk. 6, skal være til § 2, stk. 5.
+(* 19) Ved § 1, nr. 1 og 2, i lov nr. 298 af 10. juni 1981 ændredes affattelsen af bestemmelserne i § 14, stk. 1 og 6. Ved nævnte lovs § 1, nr. 3, indsattes bestemmelserne i § 14, stk. 8 og 9. Nævnte lov indeholder i § 2 følgende ikrafttrædelsesbestemmelse:
 
-(* 35) Bestemmelsen i § 32 D træder i den her anførte affattelse i kraft dagen efter bekendtgørelsen i Lovtidende (den 23. december 1994), jf. § 6, stk. 1, i lov nr. 1113 af 21. december 1994.
+"Loven har virkning for indkomståret 1982 og senere indkomstår. For indkomstårene 1982, 1983 og 1984 indrømmes dog fradrag ved opgørelsen af den skattepligtige indkomst for et beløb svarende til henholdsvis 75 pct., 50 pct. og 25 pct. af ejendomsskatter, som omfattes af § 1, nr. 3."
 
-(* 36) Indsættelse af § 33, stk. 5 og 6, har virkning fra den 2. november 1994. Er indkomståret 1995 for et selskab eller en forening m.v. påbegyndt før 2. november 1994, har loven dog først virkning fra indkomståret 1996, jf. § 11, stk. 2 og 3, i lov nr. 312 af 17. maj 1995.
+Bestemmelserne i § 14, stk. 2-5, har i den her anførte affattelse virkning fra og med indkomståret 1983, jfr. lov nr. 227 af 26. maj 1982 (som ændret ved § 2 i lov nr. 245 af 9. juni 1982).
 
-(* 37) Bestemmelsen i § 33 A, stk. 1, har i den her anførte affattelse virkning fra og med indkomståret 1995. I beregningen af, om man i 1995 har opholdt sig i Danmark i mere end 42 dage inden for en 6-måneders-periode, medregnes ikke ophold i Danmark i 1994 i forbindelse med udførelse af nødvendigt arbejde i forbindelse med udlandsopholdet, jf. § 3, stk. 3, i lov nr. 1115 af 21. december 1994.
+(* 20) Bestemmelsen i § 14 B, stk. 3 og § 14 C, stk. 1, i den her anførte affattelse har virkning fra den 12. maj 1984, jfr. § 2, stk. 1, i lov nr. 179 af 9. maj 1984.
 
-(* 38) Bestemmelsen i § 33 A, stk. 2 og stk. 4, der bliver stk. 3, har virkning fra og med indkomståret 1995. 1. pkt. finder dog ikke anvendelse for lønindkomst oppebåret fra den danske stat eller anden offentlig myndighed, hvis lønnen er fastsat i henhold til en kollektiv aftale og det ikke udtrykkeligt fremgår af denne aftale, at lønnen er fastsat under hensyn til, at den er skattefri. I så fald finder ligningslovens § 33 A ikke anvendelse, jf. § 3, stk. 4, i lov nr. 1115 af 21. december 1994.
+(* 21) Bestemmelsen i § 14 D har i den her anførte affattelse virkning fra den 19. juni 1983, jfr. § 2, stk. 1, i lov nr. 266 af 8. juni 1983.
 
-(* 39) Bestemmelsen i § 33 D træder i kraft dagen efter bekendtgørelsen i Lovtidende (den 19. maj 1995), jf. § 11, stk. 1, i lov nr. 312 af 17. maj 1995. § 33 D, stk. 3, som affattet ved lov nr. 312 af 17. maj 1995, har virkning fra indkomståret 1996. For indkomståret 1995 anvendes bestemmelsen endvidere for den forholdsmæssige del af et underskud i et fast driftssted, som svarer til den del af indkomståret 1995, som falder efter den 6. april 1995. Bestemmelsen anvendes kun i det omfang, underskud i et fast driftssted overstiger tidligere overskud eller fortjeneste i det faste driftssted fra indkomståret 1992 eller senere indkomstår, jf. § 11, stk. 11, i lov nr. 312 af 17. maj 1995.
+(* 22) Bestemmelsen i § 14 G i den her anførte affattelse har virkning fra den 12. maj 1984, jfr. § 2, stk. 1, i lov nr. 179 af 9. maj 1984.
 
-(* 40) Ophævelse af § 33 E, stk. 1 og 2, bestemmelsen i § 33 E, stk. 3, der bliver stk. 1, 1. pkt., samt indsættelse af § 33 G, stk. 4, træder i kraft dagen efter bekendtgørelsen i Lovtidende (den 19. maj 1995), jf. § 11, stk. 1, i lov nr. 312 af 17. maj 1995.
+Bestemmelsen i § 14 G, stk. 5, 2. pkt. har dog virkning for beløb, hvor betingelserne for udbetaling er opfyldt den 1. juli 1984 eller senere, jfr. § 2, stk. 2, i lov nr. 179 af 9. maj 1984.
 
-(* 41) Indsættelse af § 33 E, stk. 2, har virkning ved et udenlandsk datterselskabs udtræden af sambeskatning, hvor det sidste år under sambeskatning er indkomståret 1995 eller senere indkomstår, jf. § 11, stk. 12, i lov nr. 312 af 17. maj 1995.
+(* 23) Bestemmelsen i § 14 H er ophævet med virkning fra den 1. januar 1981, jfr. § 2, stk. 4, i lov nr. 266 af 8. juni 1983.
+
+(* 24) Bestemmelsen i § 14 I i den anførte affattelse har virkning fra den 1. januar 1983, jfr. § 2, stk. 2, i lov nr. 266 af 8. juni 1983.
+
+(* 25) Bestemmelserne i §§ 15 A-15 L i den her anførte affattelse har virkning fra og med indkomståret 1982, jfr. § 2, stk. 1, i lov nr. 125 af 31. marts 1982. Nævnte lov indeholder i § 2, stk. 2 og 3, følgende ikrafttrædelsesbestemmelser:
+
+"Stk. 2. For skattepligtige, der anvender forskudt indkomstår, har loven virkning fra og med det indkomstår, der træder i stedet for kalenderåret 1982.
+
+Stk. 3. Ejere af ejendomme, der tjener til bolig for ejeren og i overvejende grad anvendes erhvervsmæssigt, og ejere af stuehuse som nævnt i § 15 E kan i stedet for standardfradrag foretage fradrag for de driftsudgifter, der er afholdt inden udløbet af kalenderåret 1982."
+
+(* 26) Bestemmelserne i § 15 M er ophævet med virkning fra og med indkomståret 1982, jfr. § 1, nr. 4, i lov nr. 125 af 31. marts 1982.
+
+(* 27) Bestemmelserne i §§ 16, 16 C og 16 E er ophævet ved § 2 i lov nr. 296 af 10. juni 1981. I § 8 i den nævnte lov bestemmes det, at loven har virkning, hvis aktieafståelsen eller forhold, der behandles efter samme regler som aktieafståelse, finder sted den 1. juli 1981 eller senere.
+
+(* 28) Bestemmelserne i §§ 16 A, stk. 2, og 16 D har i den her anførte affattelse virkning, hvis aktieafståelsen eller forhold, der behandles efter samme regler som aktieafståelse, finder sted den 1. juli 1981 eller senere, jfr. § 8 i lov nr. 296 af 10. juni 1981.
+
+(* 29) Bestemmelsen i § 16 B i den her anførte affattelse har virkning for aktieafståelser i hele det indkomstår, der ikke er afsluttet den 4. december 1984, og i alle senere indkomstår, jfr. § 2 i lov nr. 615 af 19. december 1984.
+
+(* 30) Bestemmelsen i § 17 A, stk. 1, har i den her anførte affattelse virkning fra den 19. juni 1983, jfr. § 2, stk. 1, i lov nr. 266 af 8. juni 1983.
+
+Bestemmelsen i § 17 A, stk. 2, er indsat ved § 10 i lov nr. 202 af 18. maj 1982. I nævnte lovs § 11, stk. 1 og 3, bestemmes det, at loven har virkning for lån, der ydes til betaling af ejendomsskatter m.v. vedrørende skatteåret 1983 og følgende skatteår, og at bestemmelsen i ligningslovens § 17 A, stk. 2, tillige har virkning for renter fra og med 1. januar 1983 af lån ydet i henhold til lov om lån til betaling af ejendomsskatter for visse parcel- og rækkehuse.
+
+(* 31) Bestemmelsen i § 18 A, stk. 1, i den her anførte affattelse har virkning for anskaffelser, der foretages den 17. maj 1983 eller senere, samt for forbedringsudgifter vedrørende disse anskaffelser, jfr. § 7 i lov nr. 201 af 25. maj 1983.
+
+Den nævnte lovs § 8 indeholder følgende bestemmelse:
+
+"Stk. 1. Anskaffelsessummer og forbedringsudgifter vedrørende de før den 17. maj 1983 anskaffede automobiler og driftsmidler m.v. afskrives efter de hidtil gældende regler.
+
+Stk. 2. På de før den 17. maj 1983 anskaffede automobiler og driftsmidler m.v., jfr. stk. 1, finder de hidtil gældende regler om opgørelse af den skattepligtige formue anvendelse."
+
+Bestemmelsen i § 18 A, stk. 1, 5. pkt., er indsat ved § 4 i lov nr. 576 af 15. december 1983. Loven trådte i kraft den 18. december 1983, jfr. lovens § 5, stk. 1. Bestemmelsen i § 18 A, stk. 1, 2. pkt., er indsat ved lov nr. 614 af 19. december 1984. Loven har i § 3, stk. 1 og 2, følgende ikrafttrædelsesbestemmelser:
+
+"Stk. 1. Loven træder i kraft dagen efter bekendtgørelsen i Lovtidende.
+
+Stk. 2. Loven har virkning for skibe, hvor skriftlig aftale om erhvervelsen ikke er indgået før den 7. december 1984. Er skriftlig aftale om bygning af et skib indgået inden denne dato, og færdigbygges skibet først efter dette tidspunkt, har loven dog ikke virkning for personer, som køber skibet af bygherren." Loven blev bekendtgjort i Lovtidende den 20. december 1984.
+
+(* 32) Bestemmelserne i §§ 18 B og 18 C har i den her anførte affattelse virkning fra og med indkomståret 1982, jfr. § 2 i lov nr. 125 af 31. marts 1982. Dog har den i § 18 B, stk. 2 og 3, nævnte nedslagsprocent på 30 først virkning ved opgørelsen af den skattepligtige formue fra og med indkomståret 1983. For indkomståret 1982 anvendes en nedslagsprocent på 25, jfr. § 7, stk. 4, i lov nr. 197 af 18. maj 1982.
+
+(* 33) Bestemmelsen i § 19 i den her anførte affattelse har virkning fra og med indkomståret 1981, jfr. § 3 i lov nr. 581 af 19. december 1980.
+
+(* 34) Bestemmelsen i § 21 A har virkning for indkomståret 1981 og senere indkomstår, jfr. § 3, stk. 2, i lov nr. 224 af 18. maj 1981.
+
+(* 35) Bestemmelsen i § 27 B i den her anførte affattelse har virkning for indkomståret 1981 og senere indkomstår, jfr. § 2 i lov nr. 83 af 17. marts 1982. For de i § 27 B, stk. 1, nr. 1) og 2) nævnte tilskud har bestemmelsen dog først virkning fra den 24. marts 1982.
+
+For de i § 27 B, stk. 1, nr. (* 8) og (* 9) nævnte tilskud har bestemmelsen virkning for tilskud, der udbetales den 1. januar 1984 eller senere, jfr. § 2, stk. 1, i lov nr. 229 af 23. maj 1984.
+
+For de i § 27 B, stk. 1, nr. (* 10) nævnte tilskud har bestemmelsen virkning fra og med indkomståret 1983, jfr. § 3, stk. 2, i lov nr. 145 af 13. april 1983. § 3, stk. 3 og 5, i den nævnte lov indeholder følgende bestemmelse:
+
+"Stk. 3. Ministeren for skatter og afgifter eller den, ministeren bemyndiger dertil, kan tillade, at indkomstansættelserne for indkomstårene 1978, 1979, 1980, 1981 og 1982 ændres for modtagere af etableringstilskud efter § 13 i lov om arbejdsmiljø, således at etableringstilskud, som i medfør af de hidtil gældende regler fuldt ud er medregnet ved opgørelsen af den skattepligtige indkomst for de nævnte indkomstår, i stedet medregnes ved opgørelsen af den skattepligtige indkomst inden for en 10 års periode, der begynder med det indkomstår, hvori den skattepligtige har erhvervet tilskuddet efter reglerne i ligningslovens § 27 B.
+
+Stk. 4. -
+
+Stk. 5. Anmodning om ændringer af indkomstansættelser efter stk. 3 skal indgives senest samtidig med indgivelse af rettidig selvangivelse for indkomståret 1983, og anmodning om skattefritagelse efter stk. 4 skal indgives senest 31. maj 1984. Når særlige omstændigheder taler derfor, kan ministeren for skatter og afgifter dog indrømme tilladelse efter stk. 3 eller stk. 4, uanset at de nævnte frister er overskredet."
+
+Bestemmelsen i § 27 B, stk. 9, har virkning for tilskudsmodtagere, hvis skattepligt ophører den 1. juni 1984 eller senere, jfr. § 2, stk. 2, i lov nr. 229 af 23. maj 1984.
+
+(* 36) §§ 27 C og 27 D ophævedes med virkning fra og med indkomståret 1981 ved § 1, nr. 2, i lov nr. 83 af 17. marts 1982.
+
+(* 37) Bestemmelserne i § 28, stk. 1, 2 og 5, har i den her anførte affattelse virkning fra og med indkomståret 1978, jfr. § 2 i lov nr. 266 af 8. juni 1978.
+
+Bestemmelsen i § 28, stk. 3, har i den her anførte affattelse virkning for bygninger eller installationer, der anskaffes den 1. januar 1982 eller senere, samt for udgifter til ombygninger og forbedringer af bygninger og installationer, der afholdes den 1. januar 1982 eller senere, jfr. § 7 i lov nr. 197 af 18. maj 1982.
+
+Bestemmelsen i § 28, stk. 4, har i den her anførte affattelse virkning for indkomståret 1983 og senere indkomstår, jfr. § 2 i lov nr. 228 af 26. maj 1982.
+
+(* 38) Bestemmelsen i § 29 er ophævet med virkning fra og med indkomtåret 1983, jfr. lov nr. 227 af 26. maj 1982.
+
+(* 39) Bestemmelserne i § 33 A i den her anførte affattelse er indsat ved lov nr. 245 af 9. juni 1982. Loven har i § 3, stk. 1 og 2, følgende ikrafttrædelsesbestemmelser:
+
+"Loven træder i kraft dagen efter bekendtgørelsen i Lovtidende.
+
+Stk. 2. For personer, der har påbegyndt et arbejdsophold i udlandet før denne lovs ikrafttræden, finder den tidligere bestemmelse i § 33 A anvendelse for hele udlandsopholdet indtil den løbende kontraktperiodes udløb, dog længst for en periode af 12 måneder fra lovens ikrafttræden."
+
+Loven blev bekendtgjort i Lovtidende den 12. juni 1982.
+
+(* 40) Bestemmelsen i § 33 B har virkning fra og med indkomståret 1983, jfr. § 2 i lov nr. 203 af 25. maj 1983. Med virkning fra og med indkomståret 1985 er fradraget i §§ 33 B, stk. 3, forhøjet fra 16.000 kr. til 22.000 kr., jfr. lov nr. 43 af 20. februar 1985 § 1, stk. 5 og § 2, stk. 2.
