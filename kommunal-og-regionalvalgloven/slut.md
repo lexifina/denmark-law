@@ -1,13 +1,7 @@
-Givet på Amalienborg, den 8. marts 1989
+Indenrigsministeriet, den 4. april 1997
 
-Under Vor Kongelige Hånd og Segl
+Birte Weiss
 
-I Dronningens Navn:
+/ Anne Birte Pade
 
-JOACHIM
-
-Prins til Danmark
-
-Rigsforstander
-
-/Thor Pedersen
+(* 1) Loven indeholder bestemmelser, der gennemfører Rådets direktiv nr. 94/80/EF, EF-Tidende 1994 L 368, s. 38.
