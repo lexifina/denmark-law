@@ -1,6 +1,6 @@
-Lov om sikkerhed til søs
+Bekendtgørelse af lov om sikkerhed til søs
 
-VI MARGRETHE DEN ANDEN, af Guds Nåde Danmarks Dronning, gør vitterligt: Folketinget har vedtaget og Vi ved Vort samtykke stadfæstet følgende lov:
+Herved bekendtgøres lov nr. 900 af 16. december 1998 om sikkerhed til søs, med de ændringer, der følger af § 2 i lov nr. 316 af 5. maj 2000.
 
 ## Kapitel 1
 
