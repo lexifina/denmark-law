@@ -2,7 +2,7 @@
 
 Stk. 2. Landsbyggefonden overfører hvert år halvdelen af indbetalingerne til den fælles moderniseringsfond til en landsdispositionsfond, indtil denne udgør 300 mill. kr. Beløbet reguleres een gang årligt, første gang den 1. januar 1988, på basis af den konstaterede udvikling i byggeomkostningsindekset for montagebyggeri for juli måned. Der tilskrives landsdispositionsfonden renter svarende til Danmarks Nationalbanks diskonto.
 
-Stk. 3. Hvis landsbyggefonden i eet år yder støtte af landsdispositionsfondens midler, som overstiger indeståendet i denne fond, forøges overførelsen fra den fælles moderniseringsfond efter stk. 2 i det pågældende år og de 3 følgende år med indtil 50 pct. De øgede overførsler af midler til landsdispositionsfonden ophører dog senest, når fonden på ny udviser en positiv saldo.
+Stk. 3. Hvis landsbyggefonden i et år yder støtte af landsdispositionsfondens midler, som overstiger indeståendet i denne fond, forøges overførelsen fra den fælles moderniseringsfond efter stk. 2 i det pågældende år og de 3 følgende år med indtil 50 pct. De øgede overførsler af midler til landsdispositionsfonden ophører dog senest, når fonden på ny udviser en positiv saldo.
 
 Stk. 4. Landsbyggefonden kan af midler efter stk. 2 yde støtte til finansiering af nødvendige udbedrings-, opretnings- og vedligeholdelsesarbejder samt til miljøforbedrende og andre foranstaltninger, herunder udligning af opsamlede driftsunderskud. Støtten ydes som lån eller tilskud efter fondens nærmere bestemmelse.
 
