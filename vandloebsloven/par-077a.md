@@ -1,0 +1,1 @@
+§ 77 a. Bestemmelserne i § 76, stk. 2, og § 77, stk. 1, finder ikke anvendelse på meddelelse om standsning af arbejder, som er påbegyndt uden fornøden tilladelse eller godkendelse, eller meddelelse om at efterkomme en tidligere truffet afgørelse.
