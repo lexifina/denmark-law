@@ -1,1 +1,0 @@
-§ 14 a. Statens yder et tilskud på 50 pct. af de udgifter til skolepraktik, der er nævnt i §§ 13 og 14. Den del af tilskuddet, der vedrører de udgifter, der udbetales af Arbejdsgivernes Elevrefusion, overføres af staten til Arbejdsgivernes Elevrefusion kvartalsvis.
