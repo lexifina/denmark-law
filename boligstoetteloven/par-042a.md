@@ -4,6 +4,4 @@ Stk. 2. Retten til generhvervelse af udbetalingen af boligstøtte uden nedsætte
 
 Stk. 3. §§ 33 og 34 finder ikke anvendelse for perioder, hvor udbetalingen af den beregnede boligstøtte er reduceret efter §§ 25 b, 25 c og 25 e i lov om aktiv socialpolitik.
 
-Stk. 4. § 83 finder ikke anvendelse, for så vidt angår nedsættelsen af boligstøtten efter §§ 25 b, 25 c og 25 e i lov om aktiv socialpolitik.
-
-Stk. 5. Socialministeren kan fastsætte regler om administrationen af boligstøtten som følge af nedsættelsen af boligstøtten efter §§ 25 b, 25 c og 25 e i lov om aktiv socialpolitik.
+Stk. 4. Socialministeren kan fastsætte regler om administrationen af boligstøtten som følge af nedsættelsen af boligstøtten efter §§ 25 b, 25 c og 25 e i lov om aktiv socialpolitik.
