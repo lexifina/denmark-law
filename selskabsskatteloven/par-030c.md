@@ -1,0 +1,43 @@
+§ 30 C. I det omfang skatteansættelsen for selskabet eller foreningen m.v. forhøjes som følge af, at en erstatning som nævnt i § 30 B dækkes ved regres eller på anden måde nedbringes, skal selskabet eller foreningen m.v. tilbagebetale renter, der tidligere er modtaget i forbindelse med, at skatteansættelsen er nedsat på grund af erstatningsbetalingen.
+
+Stk. 2. Tilbagebetalte renter, der er modtaget i henhold til § 30 B, kan fradrages i den skattepligtige indkomst.
+
+Stk. 3. I de i stk. 1 nævnte tilfælde finder reglerne om beregning af rente i § 30, stk. 2, ikke anvendelse.
+
+## Afsnit VI
+
+Andre bestemmelser
+
+§ 31. Ligningsrådet kan tillade, at to eller flere aktieselskaber sambeskattes. Det er dog en betingelse herfor, at aktieselskaberne har samme regnskabsår. Hvis aktieselskaberne er hjemmehørende her i landet, kan tilladelse kun meddeles, hvis samtlige aktier i datterselskaberne ejes af moderselskabet eller af et eller flere af de datterselskaber, der inddrages under sambeskatningen. Er et eller flere af datterselskaberne hjemmehørende i udlandet, kan tilladelse meddeles, såfremt de danske aktieselskaber, der inddrages under sambeskatningen, enten selv eller sammen med Industrialiseringsfonden for Udviklingslandene, Investeringsfonden for Østlandene eller Investeringsfonden for Vækstmarkeder ejer hele den del af de udenlandske datterselskabers aktiekapital, som efter lovgivningen i det pågældende land kan ejes af aktieselskaber her i landet. Tilladelse til sambeskatning med et datterselskab kan ikke meddeles, hvis tab på fordringer mod datterselskabet er fradraget eller vil kunne fradrages efter kursgevinstlovens § 4, stk. 5, af moderselskabet eller et andet selskab, som er koncernforbundet med moderselskabet, jf. kursgevinstlovens § 4, stk. 2. Tilladelse til sambeskatning med et datterselskab, der er eller har været hjemmehørende i udlandet, kan ikke meddeles, hvis mere end 50 pct. af aktiekapitalen i datterselskabet er erhvervet fra et eller flere koncernforbundne selskaber m.v., jf. kursgevinstlovens § 4, stk. 2, medmindre moderselskabet direkte eller indirekte har ejet mere end 50 pct. af aktiekapitalen i datterselskabet i hele perioden, hvor moderselskabet har været koncernforbundet med datterselskabet, jf. kursgevinstlovens § 4, stk. 2. De nærmere vilkår for sambeskatningen - herunder bestemmelser om, hvorledes der skal gås frem i tilfælde af dennes ophævelse - fastsættes af Ligningsrådet.
+
+Stk. 2. Uanset bestemmelsen i stk. 1, 3. pkt., kan Ligningsrådet dog tillade sambeskatning, selv om et datterselskab udsteder aktier m.v., der er omfattet af § 7 A i ligningsloven. Sambeskatning kan dog kun tillades, når det ved udstedelsen af aktierne er betinget, at aktierne ved afståelse eller ved medarbejderens død tilbagesælges til selskabet, der i så fald er forpligtet til at erhverve disse.
+
+Stk. 3. For sambeskattede selskaber påhviler den samlede indkomstskat vedrørende indkomståret moderselskabet. Dette gælder også restskat, tillæg og renter. Tilsvarende tilkommer overskydende skat moderselskabet. De sambeskattede selskaber hæfter solidarisk for indkomstskat, acontoskat, restskat samt tillæg og renter vedrørende indkomståret.
+
+Stk. 4. Reglerne i stk. 1-3 finder tilsvarende anvendelse på:
+
+1) Selskaber som nævnt i § 1, stk. 1, nr. 2.
+
+2) Sparekasser, andelskasser eller sammenslutninger af andelskasser efter kapitel 4 D i lov om banker og sparekasser m.v. som nævnt i § 1, stk. 1, nr. 2 a.
+
+3) Post Danmark.
+
+4) DSB.
+
+5) Brugsforeninger som nævnt i § 1, stk. 1, nr. 3 a.
+
+6) Foreninger som nævnt i § 1, stk. 1, nr. 4.
+
+7) Gensidige forsikringsforeninger samt andre selskaber, foreninger m.v. som nævnt i § 1, stk. 1, nr. 5.
+
+8) Institutter m.v. som nævnt i § 1, stk. 1, nr. 5 b.
+
+Stk. 5. Når et udenlandsk selskab inddrages under sambeskatning, anses aktiver og passiver, som ikke i forvejen er omfattet af dansk beskatning, for anskaffet på det faktiske anskaffelsestidspunkt til handelsværdien ved begyndelsen af det første indkomstår under sambeskatningen, jf. dog stk. 6.
+
+Stk. 6. Afskrivningsberettigede aktiver anses for erhvervet på det faktiske anskaffelsestidspunkt, og de anses for erhvervet til den faktiske anskaffelsessum afskrevet maksimalt efter danske regler indtil begyndelsen af det første indkomstår under sambeskatningen. Ved denne beregning anvendes reglerne på dette tidspunkt. Dog skal aktiverne anses for erhvervet til handelsværdien ved begyndelsen af det første indkomstår under sambeskatningen, såfremt denne værdi er mindre end værdien beregnet efter 1. og 2. pkt.
+
+Stk. 7. Genvundne afskrivninger på aktiver, der anses for afskrevet forud for inddragelse under sambeskatning, kan højst udgøre det beløb, hvormed summen af foretagne afskrivninger efter indtræden i sambeskatningen overstiger det faktiske værditab efter inddragelse under sambeskatning. Fortjeneste i forhold til anskaffelsessummen kan højst medregnes med et beløb svarende til forskellen mellem salgssummen og handelsværdien på tidspunktet for inddragelse under sambeskatning. For aktiver, der afskrives efter saldometoden, ansættes afståelsessummen til den nedskrevne værdi på afståelsestidspunktet med tillæg af genvundne afskrivninger og fortjeneste efter 1. og 2. pkt.
+
+Stk. 8. Udgifter afholdt før det første indkomstår under sambeskatningen kan kun fradrages i den skattepligtige indkomst, hvis der på afholdelsestidspunktet var fradragsret for disse udgifter i medfør af § 2.
+
+Stk. 9. Et selskab anses for at være udenlandsk, hvis det er hjemmehørende i en fremmed stat, Færøerne eller Grønland, herunder efter bestemmelserne i en dobbeltbeskatningsoverenskomst.
