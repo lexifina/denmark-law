@@ -1,0 +1,1 @@
+§ 13 a. (* 1) Ubetalt afgift og rentebeløb kan inddrives ved indeholdelse i løn m.v. hos den pågældende efter reglerne for inddrivelse af personlige skatter i kildeskatteloven. Skatteministeren kan fastsætte nærmere regler om fremgangsmåden i forbindelse med lønindeholdelse, herunder om straf af bøde for overtrædelse af reglerne.
