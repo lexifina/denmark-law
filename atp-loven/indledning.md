@@ -1,3 +1,3 @@
 Bekendtgørelse af lov om Arbejdsmarkedets Tillægspension
 
-Herved bekendtgøres lov om Arbejdsmarkedets Tillægspension, jf. lovbekendtgørelse nr. 5 af 4. januar 2001, med de ændringer, der følger af § 3 i lov nr. 284 af 25. april 2001, lov nr. 332 af 16. maj 2001, § 2 i lov nr. 503 af 7. juni 2001, § 1 i lov nr. 357 af 6. juni 2002, § 4 i lov nr. 403 af 6. juni 2002, § 12 i lov nr. 428 af 6. juni 2002 og § 2 i lov nr. 434 af 10. juni 2002.
+Herved bekendtgøres lov om Arbejdsmarkedets Tillægspension, jf. lovbekendtgørelse nr. 689 af 20. august 2002, med de ændringer, der følger af § 1 i lov nr. 1032 af 17. december 2002, § 4 i lov nr. 1066 af 17. december 2002, § 2 i lov nr. 420 af 10. juni 2003, § 1 i lov nr. 421 af 10. juni 2003, § 419 i lov nr. 453 af 10. juni 2003, § 2 i lov nr. 190 af 24. marts 2004, lov nr. 308 af 4. maj 2004, § 2 i lov nr. 365 af 19. maj 2004 og § 3 i lov nr. 468 af 9. juni 2004.

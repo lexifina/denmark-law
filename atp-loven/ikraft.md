@@ -2,7 +2,7 @@ Lov nr. 358 af 14. juni 1995 indeholder i § 2 følgende ikrafttrædelsesbestemm
 
 § 2
 
-Tidspunktet for lovens ikrafttræden fastsættes af beskæftigelsesministeren. Loven træder dog tidligst i kraft den 1. januar 1996. Beskæftigelsesministeren fastsætter endvidere hvilken periode for indbetalte ATP-bidrag, der første gang skal danne grundlag for det forhøjede kompensationsbeløb. For ATP-bidrag, der vedrører tiden før lovens ikrafttræden, beregnes kompensationsbeløbet efter de hidtil gældende regler.
+Tidspunktet for lovens ikrafttræden fastsætt es af beskæftigelsesministeren. Loven træder dog tidligst i kraft den 1. januar 1996. Beskæftigelsesministeren fastsætter endvidere hvilken periode for indbetalte ATP-bidrag, der første gang skal danne grundlag for det forhøjede kompensationsbeløb. For ATP-bidrag, der vedrører tiden før lovens ikrafttræden, beregnes kompensationsbeløbet efter de hidtil gældende regler.
 
 Lov nr. 1057 af 20. december 1995 indeholder i § 10 følgende ikrafttrædelsesbestemmelse:
 
@@ -130,7 +130,7 @@ Lov nr. 1033 af 23. december 1998 indeholder i § 5 følgende ikrafttrædelsesbe
 
 § 5
 
-Loven træder i kraft dagen efter bekendtgørelsen i Lovtidende og har virkning fra den 1. januar 2000,---
+Loven træder i kraft dagen eft er bekendtgørelsen i Lovtidende og har virkning fra den 1. januar 2000,---
 
 Stk. 2. ---
 
@@ -357,3 +357,119 @@ Lov nr. 434 af 10. juni 2002 indeholder i § 5 følgende ikrafttrædelsesbestemm
 § 5
 
 Loven træder i kraft den 1. september 2002.
+
+Lov nr. 1032 af 17. december 2002, som ændrer lovens §§ 2 b og 28 samt ophæver lovens kapitel 5a, indeholder følgende ikrafttrædelsesbestemmelser:
+
+§ 7
+
+Stk. 1. Loven træder i kraft den 1. januar 2003 og har virkning første gang for de kompensationsbeløb, der skulle have været udbetalt på grundlag af ATP-bidrag, der er modtaget i perioden 23. februar  22. maj 2003.
+
+Stk. 2. ATPs Ankenævn kan efter de hidtidige regler behandle sager om beregning og udbetaling af kompensationsbeløb efter § 17 a.
+
+Lov nr. 1066 af 17. december 2002, som ændrer lovens § 2 a, indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 6
+
+Loven træder i kraft den 1. januar 2003.
+
+Lov nr. 420 af 10. juni 2003, som ændrer lovens § 2 a, indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 3
+
+Stk. 1. Loven træder i kraft den 1. juli 2003, ---
+
+Stk. 2. ---
+
+Lov nr. 421 af 10. juni 2003, som ændrer lovens kapitel 5c, 5d, § 23, § 26 a og § 29 indeholder følgende ikrafttrædelsesbetemmelser :
+
+§ 7
+
+Stk. 1. Loven træder i kraft den 1. juli 2003, jf. dog stk. 2-7.
+
+Stk. 2. § 17 f, stk. 1-5, stk. 6, 2., 3. og 6. pkt., og stk. 7, § 17 h, stk. 1-3, § 17 i, stk. 1, og § 17 j som affattet ved denne lovs § 1, nr. 1 og 4, --- træder i kraft den 1. januar 2004. § 17 k, stk. 1 og 2, § 17 l, stk. 1, 2 og 4, og § 17 n, stk. 1-4, som affattet ved denne lovs § 1, nr. 1, --- træder i kraft den 1. januar 2005.
+
+Stk. 3. § 17 f, stk. 6, 1. pkt., som affattet ved denne lovs § 1, nr. 1, finder anvendelse for ændringer af skattemæssige årsopgørelser vedrørende indkomståret 1998, der gennemføres fra og med den 1. januar 2004. § 17 f, stk. 6, 4. pkt., som affattet ved denne lovs § 1, nr. 1, finder anvendelse for ændringer af skattemæssige årsopgørelser vedrørende indkomståret 1998 for personer, hvor dødsfaldet er registreret efter den 1. september 2003.
+
+Stk. 4. § 17 f, stk. 6, 1. pkt., som affattet ved denne lovs § 1, nr. 1, har virkning for ændringer af skattemæssige årsopgørelser vedrørende indkomståret 2001 og senere indkomstår, der gennemføres fra og med den 1. januar 2004. § 17 f, stk. 6, 4. og 5. pkt., som affattet ved denne lovs § 1, nr. 1, har virkning for restancer og ændringer af skattemæssige årsopgørelser vedrørende indkomståret 2001 og senere indkomstår for personer, hvor dødsfaldet er registreret efter den 1. september 2003.
+
+Stk. 5. § 17 g, stk. 1 og 2, som affattet ved denne lovs § 1, nr. 1, har virkning første gang for godskrivning af indbetalte bidrag for indkomståret 2003. For perioden frem til 30. juni 2003 fastsætter Arbejdsmarkedets Tillægspension forrentningen af opkrævede beløb vedrørende bidragsåret 2003.
+
+Stk. 6. § 17 i, stk. 2 og 3, som affattet ved denne lovs § 1, nr. 1, har virkning for opkrævet pensionsopsparing vedrørende indkomståret 2002 og senere indkomstår for personer, hvor dødsfaldet er registreret fra og med den 1. januar 2003.
+
+Stk. 7. Ændringer i indbetalt pensionsopsparing, som følger af skattemæssige ansættelsesændringer for indkomstårene 1999 og 2000, medfører fra den 1. januar 2004 uanset kontohaverens alder ikke ændring af godskrivningen på særskilte SP-konti, men tilføres henholdsvis fradrages reguleringspuljen efter § 17 p som affattet ved denne lovs § 1, nr. 1.
+
+Stk. 8. Med ophævelsen af § 6, stk. 4, i lov nr. 357 af 6. juni 2002, jf. denne lovs § 6, overføres tilbageværende midler til reguleringspuljen efter § 17 p som affattet ved denne lovs § 1, nr. 1.
+
+Stk. 9. Arbejdsmarkedets Tillægspensions omkostninger til etablering af SP-valg og mulighed for flytning af SP-konto efter henholdsvis § 17 k og § 17 n som affattet ved denne lovs § 1, nr. 1, afholdes af kontohaverne i Særlig Pensionsopsparing. Told og Skats engangsudgifter i forbindelse med etablering af SP-valg og mulighed for flytning af SP-konto, jf. 1. pkt., afholdes tilsvarende af kontohaverne i Særlig Pensionsopsparing. Arbejdsmarkedets Tillægspension overfører den 1. juli 2003 3 mio. kr. til Told og Skat til dækning af engangsudgifterne.
+
+Stk. 10. For personer, der inden den 1. juli 1999 er fyldt 60 år, er aldersgrænsen i § 17 f, stk. 2 og 3 og stk. 6, 3. pkt., og § 17 h, stk. 4, som affattet ved denne lovs § 1, nr. 1, 66 år, i § 17 f, stk. 6, 1. pkt., og stk. 7, som affattet ved denne lovs § 1, nr. 1, 66½ år og i § 17 f, stk. 6, 2. pkt., § 17 j, stk. 1, § 17 r, stk. 5, og § 17 s, stk. 1, som affattet ved denne lovs § 1, nr. 1, 67 år.
+
+Lov nr. 453 af 10. juni 2003, som ændrer lovens §§ 27 a og 27 d, indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 375
+
+Loven træder i kraft den 1. januar 2004, ---
+
+Stk. 2. ---
+
+Stk. 3. ---
+
+Stk. 4. ---
+
+Stk. 5. ---
+
+Lov nr. 190 af 24. marts 2004, som ændrer lovens § 17 f, indeholder følgende ikrafttrædelsesbestemmelser:
+
+§ 5
+
+Stk. 1. Loven træder i kraft den 1. april 2004, jf. dog stk. 2 ---.
+
+Stk. 2. --- § 17 f, stk. 9, 1. og 2. pkt., som affattet ved denne lovs § 2 træder i kraft den 1. juli 2005.
+
+Stk. 3. ---
+
+Lov nr. 308 af 4. maj 2004, som ændrer lovens § 17 f, indeholder følgende ikrafttrædelsesbestemmelser:
+
+§ 2
+
+Stk. 1. Loven træder i kraft dagen efter bekendtgørelsen i Lovtidende.
+
+Stk. 2. Indeholdelsespligtige arbejdsgivere, arbejdsløshedskasser, arbejdsformidlingen og kommuner samt Lønmodtagernes Garantifond skal indstille opkrævningen af særlig pensionsopsparing med virkning for løn, dagpenge, godtgørelse m.v., der udbetales fra og med den 1. juni 2004.
+
+Stk. 3. Tilbagebetaling af opkrævet særlig pensionsopsparing vedrørende 2004 for personer omfattet af § 17 f, stk. 1, 1. pkt., sker ved de statslige told- og skattemyndigheders foranstaltning. Skatteministeren kan fastsætte nærmere regler for tilbagebetalingen.
+
+Stk. 4. Tilbagebetaling af opkrævet særlig pensionsopsparing vedrørende 2004 for personer omfattet af § 17 f, stk. 3, 1. pkt., jf. dog § 17 f, stk. 3, 6. pkt., som affattet ved denne lovs § 1, nr. 2, sker ved arbejdsløshedskassens, arbejdsformidlingens eller kommunens foranstaltning.
+
+Stk. 5. Tilbagebetaling af opkrævet særlig pensionsopsparing vedrørende 2004 for personer omfattet af § 17 f, stk. 3, 3. pkt., sker ved Lønmodtagernes Garantifonds foranstaltning.
+
+Stk. 6. Beskæftigelsesministeren fastsætter efter forhandling med skatteministeren regler for tilbageførsel fra Arbejdsmarkedets Tillægspension til Told- og Skattestyrelsen af acontooverført bidrag vedrørende 2004.
+
+Stk. 7. Arbejdsmarkedets Tillægspension tilbagefører overført opkrævet bidrag vedrørende 2004 for personer omfattet af § 17 f, stk. 3, 1. og 3. pkt., til arbejdsløshedskasser, arbejdsformidlingen, kommuner og Lønmodtagernes Garantifond.
+
+Stk. 8. Beskæftigelsesministeren kan fastsætte nærmere regler om tilbagebetaling og tilbageførsel af de i stk. 4, 5 og 7 nævnte beløb. Beskæftigelsesministeren fastsætter endvidere nærmere regler for fordeling af afkast af midlerne i den særskilte ventepulje for 2004 efter fradrag af omkostninger afholdt af ventepuljen.
+
+Stk. 9. Beskæftigelsesministeren kan fastsætte nærmere regler om, at indkomstafhængige tilskudsordninger ikke berøres af denne lov.
+
+Lov nr. 365 af 19. maj 2004, som ændrer lovens § 17 m, kapitel 6-9, § 32 a samt bilag B, indeholder følgende ikrafttrædelsesbestemmelser:
+
+§ 6
+
+Stk. 1. Loven træder i kraft den 1. juli 2004, jf. dog stk. 2 ---.
+
+Stk. 2. Økonomi- og erhvervsministeren fastsætter tidspunktet for ikrafttræden af lovens § 2, nr. 5, ---.
+
+Stk. 3. ---
+
+Lov nr. 468 af 9. juni 2004, som ændrer lovens § 17 f, indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 5
+
+Stk. 1. Loven træder i kraft dagen efter bekendtgørelsen i Lovtidende.
+
+Stk. 2. samt § 3 har virkning for indkomst erhvervet fra og med den 1. juli 2004.
+
+Stk. 3. ---
+
+Stk. 4. ---
+
+Stk. 5. ---
