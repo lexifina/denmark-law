@@ -1,12 +1,12 @@
-Den angivne ordlyd af § 4, stk. 1, 2. pkt., træder i kraft den 1. januar 2003, jf. § 78 i lov nr. 145 af 25. marts 2002 om ændring af forskellige love som følge af sammenlægningen af de bornholmske kommuner.
+Ved lov nr. 458 af 10. juni 2003 (Samling af en række sikkerhedsopgaver i Sikkerhedsstyrelsen) ophæves retsplejelovens § 105, stk. 3, 2. pkt. Ændringen træder i kraft den 1. januar 2004.
 
-Den angivne ordlyd af § 145, stk. 1, 3. pkt., træder i kraft den 1. januar 2003, jf. § 78 i lov nr. 145 af 25. marts 2002 om ændring af forskellige love som følge af sammenlægningen af de bornholmske kommuner.
+Den angivne ordlyd af § 335 a, nr. 1, træder i kraft den 1. januar 2004, jf. § 20, stk. 1, i lov nr. 456 af 10. juni 2003 om forbrugerklager.
+
+Den angivne ordlyd af § 361, stk. 1, 1. pkt., træder i kraft den 1. januar 2004, jf. § 20, stk. 1, i lov nr. 456 af 10. juni 2003 om forbrugerklager.
 
 Justitsministeren fastsætter tidspunktet for ikrafttrædelsen af § 786, stk. 4, jf. § 7, stk. 3, i lov nr. 378 af 6. juni 2002.
 
 Justitsministeren fastsætter tidspunktet for ikrafttrædelsen af § 786, stk. 6, jf. § 7, stk. 3, i lov nr. 378 af 6. juni 2002.
-
-Den angivne ordlyd af § 1021, stk. 4, træder i kraft den 1. januar 2003, jf. § 78 i lov nr. 145 af 25. marts 2002 om ændring af forskellige love som følge af sammenlægningen af de bornholmske kommuner.
 
 Lovændringen vedrører § 512, stk. 3, 2. pkt.
 
@@ -28,19 +28,11 @@ Lovændringen vedrører kapitel 42 a.
 
 Ikrafttrædelsesbestemmelsens stk. 1, 2. pkt., og stk. 2 vedrører kapitel 42 a.
 
-Lovændringen vedrører § 4, stk. 1, 2. pkt., § 145, stk. 1, 3. pkt., og § 1021, stk. 3 (nu stk. 4).
-
 Lovændringen vedrører § 15, stk. 1, § 41 a, stk. 2 og stk. 4, 1. pkt., § 60, stk. 3, 2. pkt., § 163, § 219 a, stk. 5, 3. pkt., § 780, stk. 1, nr. 6, § 791 a, stk. 1, nr. 2, § 847, stk. 3, nr. 4, og stk. 4, § 877, stk. 2, nr. 6, § 962, stk. 2, 3. pkt., § 987, stk. 2-4, § 988, § 991, stk. 1, 1. pkt., § 999, stk. 4, 3. pkt., og § 1021, stk. 2-9.
 
 Ikrafttrædelsesbestemmelsens stk. 2 vedrører § 163, § 219 a, stk. 5, 3. pkt., § 847, stk. 3, nr. 4, og stk. 4, § 877, stk. 2, nr. 6, § 962, stk. 2, 3. pkt., § 987, stk. 2-4, og § 988.
 
-Lovændringen vedrører § 190, § 191, stk. 1, 1. pkt., og § 783, stk. 4.
-
 Lovændringen vedrører overskriften til kapitel 71, § 786, stk. 1 og stk. 4-8, § 791 b, § 799, stk. 1, 1. pkt., og stk. 3, § 802, stk. 2, nr. 2, § 803, stk. 1, 2. pkt., § 805, stk. 3, § 806, stk. 3, 1. pkt., § 807 b, stk. 1 og 2, og § 807 d, stk. 1, 1. pkt., og stk. 2, 1. pkt.
-
-Bekendtgjort i Lovtidende den 7. juni 2002.
-
-Lovændringen vedrører § 762, stk. 2, nr. 2, § 781, stk. 1, nr. 3, § 791 a, stk. 3, nr. 3, og § 891.
 
 Bekendtgjort i Lovtidende den 7. juni 2002.
 
@@ -48,6 +40,18 @@ Lovændringen vedrører § 748, stk. 5, § 835, stk. 2, § 841 og § 848.
 
 Bekendtgjort i Lovtidende den 7. juni 2002.
 
-Lovændringen vedrører § 781, stk. 1, nr. 3, og § 791 a, stk. 3, nr. 3.
+Lovændringen vedrører § 731 a, § 741 a, stk. 1, 1. og 2. pkt., § 745 a og § 877 a.
 
-Bekendtgjort i Lovtidende den 7. juni 2002.
+Bekendtgjort i Lovtidende den 3. april 2003.
+
+Lovændringen vedrører § 505, stk. 4.
+
+Lovændringen vedrører § 29, stk. 2, nr. 2, § 29, stk. 3, § 29 a, stk. 3, § 60, stk. 2, 1. pkt., § 60, stk. 4-6, § 169, stk. 2, 3. pkt., § 181, § 731, stk. 1, litra h, § 745, § 745 a-e, § 746, stk. 2, § 748, stk. 7, § 754 a, § 754 b, stk. 2, § 781, stk. 1, nr. 3, § 788, stk. 4, 1. pkt., § 791 b, stk. 1, nr. 3, § 834, § 836 a, § 841, § 848, stk. 4-7, § 848, stk. 8, 1. og 4. pkt., samt § 848, stk. 9, 1. og 4. pkt.
+
+Bekendtgjort i Lovtidende den 11. juni 2003.
+
+Ikrafttrædelsesbestemmelsens stk. 2 vedrører § 29, stk. 2, nr. 2, § 29, stk. 3, § 29 a, stk. 3, § 169, stk. 2, 3. pkt., § 181, § 834, § 836 a, § 841, § 848, stk. 4-7, § 848, stk. 8, 1. og 4. pkt., samt § 848, stk. 9, 1. og 4. pkt.
+
+Lovændringen vedrører § 335 a, nr. 1, og § 361, stk. 1, 1. pkt.
+
+Lovændringen vedrører § 105, stk. 3.

@@ -40,7 +40,7 @@ Lov nr. 402 af 26. juni 1998 (Rekruttering af dommere, dommerfuldmægtiges ansæ
 
 § 9
 
-Loven træder i kraft den 1. juli 1999. Medlemmerne af Dommerudnævnelsesrådet kan dog beskikkes med virkning fra indtil 6 måneder før lovens ikrafttræden.
+(Udelades)
 
 § 10
 
@@ -98,18 +98,6 @@ Stk. 1. Lovens § 2, nr. 3 og 4, og §§ 3 og 9 træder i kraft den 1. januar 20
 
 Stk. 2. § 1 har virkning for sager om faderskab til børn, der fødes den 1. juli 2002 eller senere, samt for sager, der den 1. juli 2002 eller senere genoptages efter børnelovens § 22.
 
-Lov nr. 145 af 25. marts 2002 om ændring af forskellige love som følge af sammenlægningen af de bornholmske kommuner indeholder følgende ikrafttrædelsesbestemmelser:
-
-§ 78
-
-Stk. 1. Loven træder i kraft den 1. januar 2003, jf. dog § 79, stk. 1.
-
-Stk. 2. (Udelades)
-
-§ 79
-
-(Udelades)
-
 Lov nr. 256 af 8. maj 2002 (Udeblivelsesdomme i straffesager, pressens adgang til domsudskrifter m.v. og politiklagenævnsmedlemmers sagsbehandling) indeholder følgende ikrafttrædelsesbestemmelse:
 
 § 2
@@ -117,12 +105,6 @@ Lov nr. 256 af 8. maj 2002 (Udeblivelsesdomme i straffesager, pressens adgang ti
 Stk. 1. Loven træder i kraft den 1. juli 2002.
 
 Stk. 2. Lovens § 1, nr. 5, 6 og 9-14, finder anvendelse på sager, hvor der rejses tiltale ved 1. instans efter lovens ikrafttræden.
-
-Lov nr. 258 af 8. maj 2002 (Gennemførelse af EU-retshjælpskonventionen, den 2. tillægsprotokol til Europarådets retshjælpskonvention og EU-rammeafgørelse om fælles efterforskningshold) indeholder følgende ikrafttrædelsesbestemmelse:
-
-§ 6
-
-Loven træder i kraft den 1. juli 2002.
 
 Lov nr. 378 af 6. juni 2002 (Gennemførelse af FN-konventionen til bekæmpelse af finansiering af terrorisme, gennemførelse af FNs Sikkerhedsråds resolution nr. 1373 (2001) samt øvrige initiativer til bekæmpelse af terrorisme m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
 
@@ -136,12 +118,6 @@ Stk. 3. Justitsministeren fastsætter tidspunktet for ikrafttrædelsen af retspl
 
 Stk. 4. (Udelades)
 
-Lov nr. 380 af 6. juni 2002 (Skærpelse af straffen for voldtægt, vold, uagtsomt manddrab, uagtsom betydelig legemsbeskadigelse, forsætlig fareforvoldelse, biltyveri, grov forstyrrelse af ro og orden, menneskesmugling og menneskehandel m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
-
-§ 4
-
-Loven træder i kraft dagen efter bekendtgørelsen i Lovtidende.
-
 Lov nr. 381 af 6. juni 2002 (Forbedret vidnebeskyttelse) indeholder følgende ikrafttrædelsesbestemmelse:
 
 § 2
@@ -150,10 +126,38 @@ Stk. 1. Loven træder i kraft dagen efter bekendtgørelsen i Lovtidende.
 
 Stk. 2. Retsplejelovens § 748, stk. 5, § 835, stk. 2, §§ 841 og 848 som ændret henholdsvis affattet ved denne lovs § 1 finder anvendelse i sager, som ikke er endeligt afgjort ved lovens ikrafttræden.
 
-Lov nr. 382 af 6. juni 2002 (Fangeflugt og begrænsning i indsattes adgang til aktindsigt m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
+Lov nr. 228 af 2. april 2003 (Børnepornografi, seksuel udnyttelse af børn, salg af børn og gennemførelse af straffesager om seksuelt misbrug af børn m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
 
 § 4
 
+Loven træder i kraft dagen efter bekendtgørelsen i Lovtidende.
+
+Lov nr. 229 af 2. april 2003 (Revision af regler om midlertidig beskikkelse af advokater som landsdommere eller byretsdommere m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 3
+
+Loven træder i kraft den 1. juli 2003.
+
+Lov nr. 436 af 10. juni 2003 (Bekæmpelse af rockerkriminalitet og anden organiseret kriminalitet) indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 3
+
 Stk. 1. Loven træder i kraft dagen efter bekendtgørelsen i Lovtidende.
 
+Stk. 2. Lovens § 2, nr. 1-3, 6, 7 og 18-26, finder anvendelse i sager, som ikke er endeligt afgjort ved lovens ikrafttræden.
+
+Lov nr. 456 af 10. juni 2003 (Forbrugerklageloven) indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 20
+
+Stk. 1. Loven træder i kraft den 1. januar 2004 og har virkning for klager, der indgives til et klagenævn efter denne dato. § 14 træder dog i kraft den 1. juli 2003. Klager indgivet før lovens ikrafttræden behandles tilsvarende efter denne lov, dog således at §§ 16 og 17 ikke har virkning.
+
 Stk. 2. (Udelades)
+
+Stk. 3. (Udelades)
+
+Lov nr. 458 af 10. juni 2003 (Samling af en række sikkerhedsopgaver i Sikkerhedsstyrelsen) indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 9
+
+Loven træder i kraft den 1. januar 2004.

@@ -1,6 +1,6 @@
 § 335 a. Personer, der opfylder betingelserne i § 330, stk. 1, nr. 2, har fri proces i følgende tilfælde:
 
-1) Forbrugeren i sager, der indbringes af den pågældende for at få opfyldt en afgørelse, som er truffet af Forbrugerklagenævnet eller af et klage- eller ankenævn, der er godkendt af Forbrugerklagenævnet, eller et forlig, som er indgået for et af disse nævn.
+1) Forbrugeren i sager, der indbringes af den pågældende for at få opfyldt en afgørelse, som er truffet af Forbrugerklagenævnet eller af et klage- eller ankenævn, der er godkendt af økonomi- og erhvervsministeren , eller et forlig, som er indgået for et af disse nævn.
 
 2) Forbrugeren i sager, der indbringes af modparten med påstand om ændring af en af de i nr. 1 nævnte afgørelser eller forlig til skade for forbrugeren.
 
