@@ -1,0 +1,1 @@
+§ 38 a. En fredning, der indebærer gennemførelse af et naturgenopretningsprojekt, kan kun gennemføres, såfremt de myndigheder, der er ansvarlige for gennemførelsen af projektet og afholder omkostningerne forbundet hermed, kan anbefale fredningen.
