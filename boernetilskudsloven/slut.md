@@ -1,5 +1,5 @@
-Socialministeriet, den 11. september 2002
+Ministeriet for Familie- og Forbrugeranliggender, den 3. september 2004
 
-P.M.V. Thomas Børner
+P.M.V. Claes Nilas
 
 /Aksel Meyer
