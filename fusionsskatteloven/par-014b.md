@@ -1,9 +1,1 @@
-§ 14 b. Ved realkreditinstitutters omdannelse til aktieselskaber, jf. kapitel 12 i realkreditloven, finder § 5, § 6, stk. 1, § 6, stk. 3-4, § 6, stk. 6, § 7, § 8 og § 10, stk. 2, tilsvarende anvendelse.
-
-Stk. 2. Underskud fra tidligere indkomstår kan uanset § 8, stk. 6, bringes til fradrag i det modtagende selskabs indkomstopgørelse efter ligningslovens § 15, og tab fra tidligere indkomstår kan uanset § 8, stk. 8, fremføres til fradrag i det modtagende selskab , hvis realkreditinstituttets aktiver og gæld som helhed overdrages til et af realkreditinstituttet ejet eller oprettet aktieselskab, hvori instituttet ejer hele aktiekapitalen. Det er en betingelse, at aktieselskabet ikke tidligere har drevet erhvervsmæssig virksomhed.
-
-Stk. 3. En bunden fondsreserve som nævnt i § 76 a i realkreditloven, der tilføres det modtagende aktieselskab, medregnes ikke ved opgørelsen af aktieselskabets skattepligtige indkomst.
-
-Stk. 4. Aktier i det modtagende selskab, som den erhvervsdrivende fond eller foreningen modtager i henhold til realkreditlovens § 69, anses for anskaffet på det tidspunkt, hvor omdannelsen er vedtaget i alle de involverede selskaber m.v. Som anskaffelsessum anvendes værdien af de indskudte aktiver efter fradrag af realkreditinstituttets gæld.
-
-Stk. 5. Reglerne i stk. 1, 2 og 4 finder tilsvarende anvendelse på overdragelse af aktiver og gæld til et aktieselskab, som omfattes af realkreditlovens § 68, stk. 2, såfremt overdragelsen alene sker mod vederlag i aktier i dette selskab.
+§ 14 b. (Ophævet).

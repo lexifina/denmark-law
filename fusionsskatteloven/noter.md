@@ -1,11 +1,13 @@
-Denne lovbekendtgørelse indeholder bemærkninger om ikrafttrædelses- og overgangsbestemmelser for love, der er vedtaget i folketingsåret 2001-2002. Bemærkninger om ikrafttrædelses- og overgangsbestemmelser for tidligere ændringer er kun medtaget i det omfang, de skønnes at have betydning.
+Denne lovbekendtgørelse indeholder bemærkninger om ikrafttrædelses- og overgangsbestemmelser for love, der er vedtaget i folketingsåret 2002-2003. Bemærkninger om ikrafttrædelses- og overgangsbestemmelser for tidligere ændringer er kun medtaget i det omfang, de skønnes at have betydning.
 
-§ 2, stk. 1 og § 15 a, stk. 2, er ændret og trådte i kraft den 23. maj 2002 og har virkning for aktieombytning, fusion og spaltning, der foretages med henholdsvis aktieombytningsdato, fusionsdato, fusionsdato eller spaltningsdato den 1. juli 2002 eller senere, jf. § 19, stk. 7, i lov nr. 313 af 21. maj 2002.
+Bestemmelsen i § 6, stk. 5, træder i kraft den 1. januar 2004, jf. § 375, stk. 1 i lov nr. 453 af 10. juni 2003.
 
-§ 8, stk. 6, 2. og 3. pkt., er ændret og trådte i kraft den 23. maj 2002 og har virkning for underskud og tab, der opstår i indkomståret 2002 eller senere indkomstår, jf. § 19, stk. 3, i lov nr. 313 af 21. maj 2002.
+Bestemmelsen i § 8, stk. 4, er ændret og trådte i kraft den 31. maj 2003 og har virkning for aktier, køberetter til aktier og tegningsretter til aktier, der tildeles den 1. juli 2003 eller senere, jf. § 17, stk. 2, i lov nr. 394 af 28. maj 2003.
 
-§ 13, stk. 3, 2. pkt. er genindsat efter, at det ved en fejl var blevet slettet ved forrige ændring af lovbekendtgørelsen.
+Ændringerne i § 14, stk. 1, nr. 3, § 14 a, stk. 1, § 14 a, stk. 3, § 14 a, stk. 3 og 4, træder i kraft den 1. januar 2004, jf. § 375, stk. 1 i lov nr. 453 af 10. juni 2003.
 
-Indsættelse af § 14 j, trådte i kraft den 28. juni 2002, jf. bekendtgørelse nr. 455 af 16. juni 2002 om ikrafttræden af lov nr. 409 af 6. juni 2002.
+Ophævelsen af § 14 b, træder i kraft den 1. januar 2004 og har virkning for omdannelser, der finder sted den 1. januar 2004 eller senere jf. § 375, stk. 1 og 5, i lov nr. 453 af 10. juni 2003..
 
-Indsættelse af § 15 c, stk. 4, trådte i kraft den 23. maj 2002 og havde virkning fra den 1. januar 2002, jf. § 19, stk. 9, i lov nr. 313 af 21. maj 2002.
+Ændringerne i § 14 g, stk. 1, 3 og 4, træder ikraft den 1. januar 2004, jf. § 375, stk. 1, i lov nr. 453 af 10. juni 2003.
+
+Bestemmelsen i § 15 a, stk. 4, nr. 2, er ændret og trådte i kraft den 4. april 2003 og har virkning fra og med indkomståret 2003, jf. § 9, stk. 1, i lov nr. 232 af 2. april 2003.
