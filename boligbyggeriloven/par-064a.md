@@ -2,7 +2,7 @@
 
 1) opretningsarbejder i andelsboligforeninger, hvortil der er meddelt tilsagn om offentlig støtte efter den 30. juni 1986, og
 
-2) udbedring af byggeskader i andelsboligforeninger, hvortil der er meddelt tilsagn om offentlig støtte før den 1. juli 1986, og
+2) udbedring af ybggeskader i andelsboligforeninger, hvortil der er meddelt tilsagn om offentlig støtte før den 1. juli 1986, og
 
 3) ekstraordinære renoveringsarbejder i andelsboligforeninger opført med offentlig støtte efter denne lov eller tidligere boligbyggerilove.
 

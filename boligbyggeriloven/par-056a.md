@@ -8,7 +8,7 @@
 
 4) private andelsboliger.
 
-Stk. 2. Ved en omprioritering må låntageren ikke opnå et kontantprovenu. Låntageren kan ikke optage omprioriteringslån med en restløbetid, som overstiger restløbetiden på det indfriede lån.
+Stk. 2. Ved en omprioritering må låntageren ikke opnå et kontantprovenu. Låntageren kan ikke optage omprioriteringslån med en restløbetid, som overstiger retsløbetiden på det indfriede lån.
 
 Stk. 3. Efter en omprioritering videreføres rentesikringen efter de hidtil gældende regler, således at rentesikringen til omprioriteringslånene beregnes på grundlag af den basisrente, som er fastsat ved den senest foretagne aftrapning af rentesikringen til de indfriede lån. Basisrenten forhøjes efter reglerne i kapitel VII i de tidligere love om boligbyggeri, jf. lovbekendtgørelse nr. 432 af 13. juli 1982 af lov om boligbyggeri.
 

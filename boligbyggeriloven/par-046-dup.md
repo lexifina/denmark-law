@@ -1,1 +1,0 @@
-§ 46. Der ydes fuld rentesikring i 4 år. Derefter sker en årlig aftrapning af rentesikringen ved at forhøje basisrenten, jf. § 44, stk. 1, med et reguleringstillæg, der fastsættes af boligministeren under hensyn til den stedfundne pris- og lønudvikling, jf. stk. 2-4.
