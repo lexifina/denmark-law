@@ -1,0 +1,1 @@
+§ 12 a. I forbindelse med behandlingen af sager om tilbagekaldelse af en tilladelse til godskørsel for fremmed regning kan myndighederne i nødvendigt omfang videregive oplysninger om overtrædelse af bestemmelser omfattet af § 12, stk. 1, nr. 1, som en fører eller en anden, der optræder i indehaverens interesse, har begået i forbindelse med udførelse af hvervet.
