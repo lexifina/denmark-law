@@ -106,7 +106,7 @@ Lov nr. 410 af 10. juni 1997 indeholder følgende bestemmelser:
 
 § 3
 
-Stk. 1. Indenrigsministeren fastsætter tidspunktet for lovens ikrafttræden.Ministeren kan bestemme, at de enkelte bestemmelser i loven træder i kraft på forskellige tidspunkter og kun træder i kraft ved bestemte grænseovergangssteder.
+Stk. 1. Indenrigsministeren fastsætter tidspunktet for lovens ikrafttræden. Ministeren kan bestemme, at de enkelte bestemmelser i loven træder i kraft på forskellige tidspunkter og kun træder i kraft ved bestemte grænseovergangssteder.
 
 Stk. 2. § 1, nr. 12, 20, 28 og 29, og § 2, nr. 5, 6, 8 og 10, træder dog i kraft dagen efter bekendtgørelsen i Lovtidende.
 

@@ -1,0 +1,1 @@
+§ 3 a. Uanset bestemmelserne i §§ 1-3 skal udlændinge med indrejseforbud, jf. § 32, have et visum udstedt efter § 4 eller § 4 a for at indrejse og opholde sig i Danmark. Tilsvarende gælder for udlændinge, der ikke er omfattet af §§ 1-3. De i 1. og 2. pkt. nævnte udlændinge må ikke opholde sig her i landet ud over det tidsrum, der er angivet i det udstedte visum.
