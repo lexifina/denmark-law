@@ -1,1 +1,1 @@
-§ 8 b. Af CFC-indkomst svares skat med 34 pct.
+§ 8 b. Af CFC-indkomst svares skat med den sats, der er nævnt i selskabsskattelovens § 17, stk. 1.
