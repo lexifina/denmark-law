@@ -2,7 +2,7 @@
 
 Stk. 2. Årsregnskabet skal give et retvisende billede af Arbejdsmarkedets Tillægspensions aktiver og passiver, den økonomiske stilling samt resultat.
 
-Stk. 3. Finanstilsynet fastsætter regler for udarbejdelsen af årsregnskabet.
+Stk. 3. Finanstilsynet fastsætter regler for udarbejdelse af årsregnskabet, herunder regler om opgørelse og værdiansættelse af Arbejdsmarkedets Tillægspensions aktiver.
 
 Stk. 4. Finanstilsynet kan fastsætte regler for udarbejdelse af koncernregnskab.
 
@@ -12,6 +12,4 @@ Stk. 6. Finanstilsynet kan forlange de skemaer, der er nævnt under stk. 5, supp
 
 Stk. 7. De skemaer og redegørelser, der er nævnt under stk. 5 og stk. 6, indsendes efter regler fastsat af Finanstilsynet.
 
-Stk. 8. Arbejdsministeren fastsætter regler for værdiansættelse af Arbejdsmarkedets Tillægspensions aktiver.
-
-Stk. 9. I en note til årsregnskabet skal der gives oplysninger om hverv, som bestyrelsen har godkendt, jf. §§ 24 i-24 l og § 24 n. Oplysningerne, som skal vedrøre samtlige hverv i det pågældende regnskabsår, skal omfatte en angivelse af hvervet samt navnet på den pågældende, som har påtaget sig dette.
+Stk. 8. I en note til årsregnskabet skal der gives oplysninger om hverv, som bestyrelsen har godkendt, jf. §§ 24 i-24 l og § 24 n. Oplysningerne, som skal vedrøre samtlige hverv i det pågældende regnskabsår, skal omfatte en angivelse af hvervet samt navnet på den pågældende, som har påtaget sig dette.
