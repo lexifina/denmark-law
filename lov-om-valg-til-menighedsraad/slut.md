@@ -1,9 +1,7 @@
-Givet på Amalienborg, den 21. december 1983
+Kirkeministeriet, den 12. februar 1988
 
-Under Vor Kongelige Hånd og Segl
+METTE MADSEN
 
-MARGRETHE R.
-
-/ELSEBETH KOCK-PETERSEN
+/Asger Jørgensen
 
 Ingen
