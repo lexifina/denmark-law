@@ -1,4 +1,4 @@
-§ 4 a. (* 2) Udbytteindkomst omfatter det samlede beløb af:
+§ 4 a. Udbytteindkomst omfatter det samlede beløb af:
 
 1) aktieudbytte efter ligningslovens § 16 A fra selskaber, der er skattepligtige efter selskabsskattelovens § 1, stk. 1, nr. 1 og 2,
 
