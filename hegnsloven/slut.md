@@ -1,7 +1,7 @@
-Landbrugsministeriet, den 11. december 1987
+Ministeriet for Fødevarer, Landbrug og Fiskeri, den 6. august 2001
 
-LAURITZ TØRNÆS
+Ritt Bjerregaard
 
-/Henrik Wanscher
+/Bodil Ekner
 
-Ingen
+Vederlagene er senest ændret ved bekendtgørelse nr. 1079 af 11. december 1996.
