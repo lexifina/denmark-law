@@ -1,4 +1,4 @@
-§ 6 A. der må ikke foretages udstykning, matrikulering eller arealoverførsel, hvorved der vil fremkomme ejendomme med et mindre areal end 700 m2, heri ikke medregnet vejareal eller areal, der skal holdes ubebygget som følge af hjørneafskæring eller byggeliniepålæg til sikring af vejanlæg. Ved udstykninger mv. i sommerhusområder må arealet ikke være mindre end 1200 m2. Sålænge bestemmelserne om grundstørrelser i en bygningsvedtægt er gældende, finder vedtægtens mindstegrundstørrelser anvendelse i stedet for de i 1. og 2. pkt. nævnte.
+§ 6 A. Der må ikke foretages udstykning, matrikulering eller arealoverførsel, hvorved der vil fremkomme ejendomme med et mindre areal end 700 m2, heri ikke medregnet vejareal eller areal, der skal holdes ubebygget som følge af hjørneafskæring eller byggeliniepålæg til sikring af vejanlæg. Ved udstykninger mv. i sommerhusområder må arealet ikke være mindre end 1200 m2. Sålænge bestemmelserne om grundstørrelser i en bygningsvedtægt er gældende, finder vedtægtens mindstegrundstørrelser anvendelse i stedet for de i 1. og 2. pkt. nævnte.
 
 Stk. 2. Ved udstykning til bebyggelse skal kommunalbestyrelsen godkende parcellens facadelængde.
 
