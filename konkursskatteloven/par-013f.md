@@ -1,4 +1,4 @@
-§ 13 F. (* 5) Træffer skifteretten beslutning om insolvensbehandling af boet, kan underkud fra tidligere indkomstår, som efter personskattelovens § 13, stk. 1 og 2, kan fratrækkes i afdødes indkomst i det indkomstår, hvori afdøde er afgået ved døden, alene fratrækkes i konkursindkomsten.
+§ 13 F. Træffer skifteretten beslutning om insolvensbehandling af boet, kan underskud fra tidligere indkomstår, som efter personskattelovens § 13, stk. 1 og 2, kan fratrækkes i afdødes indkomst i det indkomstår, hvori afdøde er afgået ved døden, alene fratrækkes i konkursindkomsten.
 
 Stk. 2. Inden for perioden fra begyndelsen af det indkomstår, hvori skifteretten træffer beslutning om insolvensbehandling af boet, og indtil konkursens slutning kan underskud ved opgørelsen af konkursindkomsten i de enkelte indkomstår fremføres eller tilbageføres til fradrag i konkursindkomsten i de øvrige indkomstår.
 
