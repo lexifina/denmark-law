@@ -20,7 +20,7 @@ Stk. 5. Bestemmelsen i stk. 1 er ikke til hinder for, at fortrolige oplysninger 
 
 6) en parlamentarisk kommission nedsat af Folketinget,
 
-7) kommissionsdomstole eller undersøgelsesretter nedsat ved lov eller i henhold til retsplejelovens §§ 21 eller 21 a,
+7) undersøgelseskommissioner nedsat ved lov eller i henhold til lov om undersøgelseskommissioner,
 
 8) Folketingets stående udvalg vedrørende instituttets generelle økonomiske forhold som led i den parlamentariske kontrol med forvaltningen, såfremt instituttet er i betalingsstandsning eller under konkurs, når staten yder garanti eller stiller midler til rådighed for afvikling af instituttet,
 
