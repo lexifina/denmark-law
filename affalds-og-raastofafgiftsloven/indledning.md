@@ -1,6 +1,6 @@
-Lov om afgift af affald og råstoffer
+Bekendtgørelse af lov om afgift af affald og råstoffer (* 3)
 
-VI MARGRETHE DEN ANDEN, af Guds Nåde Danmarks Dronning, gør vitterligt: Folketinget har vedtaget og Vi ved Vort samtykke stadfæstet følgende lov:
+Herved bekendtgøres lov nr. 838 af 19. december 1989 om afgift af affald og råstoffer med de ændringer, der følger af lov nr. 1071 af 23. december 1992, § 23 i lov nr. 1073 af 23. december 1992 og lov nr. 493 af 30. juni 1993).
 
 ## Kapitel 1
 
