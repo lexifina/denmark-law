@@ -3,5 +3,3 @@
 Stk. 2. Den samlede afgift fordeles i forhold til den eller de perioder, hvor den afgiftspligtige har været fuldt skattepligtig til henholdsvis Danmark og Færøerne. Har den afgiftspligtige i en periode været fuldt skattepligtig til både Danmark og Færøerne, skal denne periode ved den samlede afgifts fordeling tillægges den del af riget, hvor den afgiftspligtige var hjemmehørende efter bestemmelserne i den mellem Danmark og Færøerne indgåede dobbeltbeskatningsoverenskomst. Har den afgiftspligtige i en periode hverken været fuldt skattepligtig til Danmark eller Færøerne, skal denne periode ved den samlede afgifts fordeling tillægges Danmark.
 
 Stk. 3. Skatteministeren fastsætter regler om administrationen af ordningen.
-
-Overførsel
