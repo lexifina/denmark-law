@@ -1,7 +1,7 @@
-Givet på Christiansborg slot, den 13. maj 1981
+Skatteministeriet, den 2. august 1989
 
-Under Vor Kongelige Hånd og Segl
+Anders Fogh Rasmussen
 
-MARGRETHE R
+/ Vivi Rasmussen
 
-Ingen
+(* 1) Indsættelsen af § 8, stk. 10, 3. pkt., har virkning for aftaler, der indgås 1. januar 1989 eller senere, jf. § 6 i lov nr. 763 af 14. december 1988.

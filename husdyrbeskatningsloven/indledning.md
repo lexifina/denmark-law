@@ -1,5 +1,3 @@
-Lov om den skattemæssige behandling af husdyrbesætninger
+Bekendtgørelse af lov om den skattemæssige behandling af husdyrbesætninger
 
-(husdyrbeskatningsloven, stambesætningsloven)
-
-VI MARGRETHE DEN ANDEN, af Guds Nåde Danmarks Dronning, gør vitterligt: Folketinget har vedtaget og Vi ved Vort samtykke stadfæstet følgende lov:
+Herved bekendtgøres lov om den skattemæssige behandling af husdyrbesætninger, jf. lov nr. 208 af 13. maj 1981, med den ændring, der følger af lov nr. 763 af 14. december 1988.
