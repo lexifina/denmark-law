@@ -1,9 +1,5 @@
-Givet på Christiansborg Slot, den 14. maj 1992
+Socialministeriet, den 10. februar 2004
 
-Under Vor Kongelige Hånd og Segl
+P.M.V. Thomas Børner
 
-MARGRETHE R.
-
-/Else Winther Andersen
-
-Ingen
+/Aksel Meyer
