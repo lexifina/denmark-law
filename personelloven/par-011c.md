@@ -1,0 +1,1 @@
+§ 11 c. Forsvarsministeren fastsætter regler for ydelse af kulancemæssig godtgørelse for svie og smerte til personel, som udsendes til udlandet med henblik på deltagelse i de i § 11 a, stk. 1, nævnte opgaver, og som kommer til skade under eller som følge af tjenesten.
