@@ -1,4 +1,4 @@
-§ 16. A. Kommunalbestyrelsen påser i sagsbehandlingen, at denne lov og de regler, der er fastsat med hjemmel i loven, overholdes.
+§ 16 A. Kommunalbestyrelsen påser i sagsbehandlingen, at denne lov og de regler, der er fastsat med hjemmel i loven, overholdes.
 
 Stk. 2. Kommunalbestyrelsen påser, at påbud efter loven eller de nævnte regler efterkommes, og at vilkår fastsat i tilladelser eller dispensationer overholdes.
 
