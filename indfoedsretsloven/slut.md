@@ -1,4 +1,4 @@
-Ministeriet for Flygtninge, Indvandrere og Integration, den 20. februar 2003
+Ministeriet for Flygtninge, Indvandrere og Integration, den 7. juni 2004
 
 Bertel Haarder
 
