@@ -1,0 +1,5 @@
+Lov om Forlægning af Hillerød-Frederiksværk Jernbane paa Strækningen mellem Hillerød og Skævinge
+
+Vi Christian den Tiende, af Guds Naade Konge til Danmark og Island, de Venders og Goters, Hertug til Slesvig, Holsten, Stormarn, Ditmarsken, Lauenborg og Oldenborg, Gøre vitterligt:
+
+Rigsdagen har vedtaget og Vi ved Vort Samtykke stadfæstet følgende Lov:

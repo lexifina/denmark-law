@@ -1,0 +1,1 @@
+1) Udfærdiget gennem Ministeriet for offentlige Arbejder. Se Rigsdagstidenden for 1941-42: Folket. Tid. Sp. 2018, 2030, 2039, 2052; Landst. Tid. Sp. 954, 1015, 1051; Till. A. Sp. 5419; Till. C. Sp. 1357, 2141.
