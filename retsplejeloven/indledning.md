@@ -1,19 +1,9 @@
 Bekendtgørelse af lov om rettens pleje
 
-Herved bekendtgøres lov om rettens pleje, jf. lovbekendtgørelse nr. 857 af 12. september 2000, med de ændringer, der følger af § 2 i lov nr. 433 af 31. maj 2000, § 2 i lov nr. 106 af 13. februar 2001, § 1 i lov nr. 216 af 28. marts 2001, § 5 i lov nr. 280 af 25. april 2001, § 2 i lov nr. 465 af 7. juni 2001 og § 2 i lov nr. 468 af 7. juni 2001.
+Herved bekendtgøres lov om rettens pleje, jf. lovbekendtgørelse nr. 809 af 14. september 2001, med de ændringer, der følger af § 1 i lov nr. 461 af 7. juni 2001, § 23 i lov nr. 145 af 25. marts 2002, lov nr. 256 af 8. maj 2002, § 2 i lov nr. 258 af 8. maj 2002, § 2 i lov nr. 378 af 6. juni 2002, § 2 i lov nr. 380 af 6. juni 2002, lov nr. 381 af 6. juni 2002 og § 2 i lov nr. 382 af 6. juni 2002.
 
-De ændringer, der følger af § 1 i lov nr. 461 af 7. juni 2001 om ændring af retsplejeloven og forskellige andre love (Ændringer som følge af børneloven m.v.) er ikke indarbejdet i denne lovbekendtgørelse, da ændringerne i retsplejeloven (kapitel 42 a) først træder i kraft den 1. juli 2002, jf. lovens § 10.
+Den bekendtgjorte lovtekst vedrørende § 4, stk. 1, 2. pkt., § 145, stk. 1, 3. pkt., og § 1021, stk. 4, gælder først fuldt ud fra den 1. januar 2003, jf. § 78 i lov nr. 145 af 25. marts 2002 om ændring af forskellige love som følge af sammenlægningen af de bornholmske kommuner.
 
 Første bog. Domsmagten m.m.
 
 Første afsnit. Domstolenes ordning
-
-## Kapitel 1
-
-Retterne
-
-§ 1. De almindelige domstole er Højesteret, landsretterne og byretterne samt Sø- og Handelsretten i København.
-
-Stk. 2. Denne lovs regler finder alene anvendelse på rettens pleje ved de almindelige domstole, medmindre andet er bestemt i denne eller anden lov.
-
-Stk. 3. Militære straffesager behandles efter lov om militær retspleje.
