@@ -1,5 +1,5 @@
-Forsvarsministeriet, den 5. april 2001
+Forsvarsministeriet, den 12. februar 2004
 
-Jan Trøjborg
+Svend Aage Jensby
 
-/Francis Zachariae
+/Peter Wass
