@@ -1,31 +1,9 @@
-Givet på Christiansborg Slot, den 30. juni 1993
+Skatteministeriet, den 13. juli 1994
 
-Under Vor Kongelige Hånd og Segl
+Ole Stavad
 
-MARGRETHE R.
+/ Jan Lyager Olsen
 
-/Ole Stavad
+(* 1) Den i § 3 nævnte afgiftsats gælder først fra den 1. januar 1998. Afgiftssatserne for perioden 1. januar 1994 - 31. december 1997 fremgår af lovens overgangsbestemmelser, der er gengivet i slutningen af lovbekendtgørelsen.
 
-Bilag
-
-Liste over momsregistrerede virksomheder, hvis afsætning af ydelser ikke giver adgang til tilbagebetaling af vandafgift
-
-Advokater.
-
-Arkitekter.
-
-Bureauer (bl.a. vagtbureauer, ægteskabsbureauer).
-
-Forlystelser, herunder teaterforeninger, biografforestillinger m.v.
-
-Landinspektører.
-
-Mæglere.
-
-Reklame.
-
-Revisorer.
-
-Rådgivende ingeniører.
-
-Ingen
+(* 2) Lov nr. 376 af 18. maj 1994 (hovedsagelig ændringer som følge af ny momslov og toldlov) trådte i kraft den 20. maj 1994 og har virkning fra den 1. juli 1994.
