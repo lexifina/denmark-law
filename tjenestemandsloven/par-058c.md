@@ -1,7 +1,5 @@
-§ 58 c. Finansministeren kan efter indhentet udtalelse fra Lønningsrådet bestemme, at statsborgere i de øvrige nordiske lande, der ansættes i staten eller folkekirken, ansættes på tilsvarende vilkår som tjenestemænd.
+## Kapitel 15 a
 
-Stk. 2. Finansministeren kan efter indhentet udtalelse fra Lønningsrådet bestemme, at personer, der ansættes i staten eller folkekirken i henhold til De Europæiske Fællesskabers regler om arbejdskraftens frie bevægelighed, ansættes på tilsvarende vilkår som tjenestemænd.
+## Ansættelse af personer uden dansk indfødsret
 
-4. del
-
-Ikrafttrædelses- og overgangsbestemmelser
+§ 58 c. Personer uden dansk indfødsret ansættes på tilsvarende vilkår som tjenestemænd i de tilfælde, hvor personer med indfødsret ansættes som tjenestemænd. Bestemmelserne om kongelig udnævnelse finder dog ikke anvendelse.

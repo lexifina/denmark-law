@@ -1,5 +1,9 @@
-§ 54 d. Retten kan, om det findes fornødent, lade stævning forkynde for en af parterne efter reglerne i retsplejelovens kap. 17.
+§ 54 d. Sekretæren sender snarest muligt et eksemplar af klageskriftet med bilag til indklagede og opfordrer samtidig denne til at afgive svarskrift med eventuelle bilag. Om fornødent lader sekretæren klageskriftet forkynde for indklagede efter retsplejelovens regler om forkyndelse.
 
-Stk. 2. Den, mod hvem sagen anlægges, skal møde for Tjenestemandsretten.
+Stk. 2. Svarskriftet skal indeholde
 
-Stk. 3. Udebliver indstævnte trods forkyndelse efter stk. 1, finder retsplejelovens § 354 og § 360 tilsvarende anvendelse. Udeblivelsesdom kan afsiges af formanden eller dennes stedfortræder uden tilkaldelse af rettens øvrige medlemmer.
+1) indklagedes påstand,
+
+2) en kort fremstilling af de kendsgerninger, hvorpå påstanden støttes, og
+
+3) angivelse af de dokumenter og andre beviser, indklagede vil påberåbe sig.

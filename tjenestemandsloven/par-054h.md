@@ -1,9 +1,1 @@
-§ 54 h. Domme afsagt af Tjenestemandsretten kan fuldbyrdes efter retsplejelovens regler om tvangsfuldbyrdelse af domme. Forlig indgået for Tjenestemandsretten kan fuldbyrdes efter retsplejelovens regler om fuldbyrdelse af forlig, der er indgået for en ret.
-
-3. del
-
-Forskellige bestemmelser
-
-## Kapitel 13
-
-Personlige tillæg
+§ 54 h. Dommen, der afsiges i et offentligt retsmøde ved oplæsning af domsslutningen, skal ledsages af grunde, men ikke indeholde oplysning om de forskellige meninger under afstemningen.
