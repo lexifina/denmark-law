@@ -19,3 +19,9 @@ Lov nr. 450 af 10. juni 2003 indeholder følgende ikrafttrædelsesbestemmelse:
 § 6
 
 Loven træder i kraft den 25. juli 2003.
+
+Lov nr. 225 af 31. marts 2004 indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 4
+
+Loven træder i kraft den 1. april 2004.
