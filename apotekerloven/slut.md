@@ -1,0 +1,9 @@
+GIVET PÅ AMALIENBORG, DEN 6. JUNI 1984
+
+Under Vor Kongelige Hånd og Segl
+
+MARGRETHE R.
+
+/BRITTA SCHALL HOLBERG
+
+Ingen
