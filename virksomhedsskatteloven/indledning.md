@@ -1,3 +1,13 @@
 Bekendtgørelse af lov om indkomstbeskatning af selvstændige erhvervsdrivende (virksomhedsskatteloven)
 
-Herved bekendtgøres lov nr. 144 af 19. marts 1986 om indkomstbeskatning af selvstændige erhvervsdrivende (virksomhedsskatteloven) med den ændring, der følger af lov nr. 132 af 12. marts 1988.
+Herved bekendtgøres lov om indkomstbeskatning af selvstændige erhvervsdrivende (virksomhedsskatteloven), jf. lovbekendtgørelse nr. 497 af 16. august 1988 med den ændring, der følger af § 2 i lov nr. 388 af 7. juni 1989.
+
+## Kapitel 1
+
+## Indledende bestemmelser
+
+(* 1) § 1. Skattepligtige personer, der driver selvstændig erhvervsvirksomhed, kan anvende reglerne i denne lov på indkomst fra virksomheden. Dette gælder dog ikke, hvis indkomst fra virksomheden er kapitalindkomst efter § 4, stk. 1, nr. 10, 12 eller 13, i personskatteloven.
+
+(* 2) Stk. 2. Aktier, anparter i anpartsselskaber, andelsbeviser, beviser for indskud i investeringsforeninger og lignende værdipapirer, der omfattes af § 1, stk. 1, i aktieavancebeskatningsloven, indeksobligationer og præmieobligationer indgår ikke i den selvstændige erhvervsvirksomhed, medmindre den skattepligtige driver næring med sådanne aktiver. Udlodninger efter ligningslovens § 16 A, bortset fra normal forrentning af en indbetalt medlemskapital, fra selskaber og foreninger som nævnt i aktieavancebeskatningslovens § 2 b medregnes dog til virksomhedens indkomst.
+
+Stk. 3. Aktiver, der benyttes både til erhvervsmæssige og private formål, indgår ikke i den selvstændige erhvervsvirksomhed. Dog indgår i virksomheden den erhvervsmæssige del af en ejendom, hvor der foretages en fordeling af ejendomsværdien på den del, der tjener til bolig for den skattepligtige, og på den øvrige ejendom. Anskaffelsessummen for ombygning, forbedringer m.v. af den erhvervsmæssige del af sådannne ejendomme indgår ligeledes i virksomheden. Biler og vindmøller, der benyttes både erhvervsmæssigt og privat, kan indgå i virksomheden. Endvidere kan ligningsrådet tillade, at andre aktiver, der benyttes både til erhvervsmæssige og private formål, indgår i den selvstændige erhvervsvirksomhed.
