@@ -1,9 +1,15 @@
-Skatteministeriet, den 13. juli 1994
+Skatteministeriet, den 12. september 1996
 
-Ole Stavad
+Carsten Koch
 
-/ Jan Lyager Olsen
+/ K. Aasberg Karlsen
 
-(* 1) Lov nr. 98 af 9. februar 1994, § 3 (ændring af § 3) trådte i kraft den 11. februar 1994.
+(* 1) Lov nr. 957 af 25. november 1994, § 2 (ændring af § 3, stk. 1, 2. pkt.) trådte i kraft den 1. januar 1995.
 
-(* 2) Lov nr. 376 af 18. maj 1994, § 25 (ændring af § 9, stk. 3, § 10, stk. 4, § 11, stk. 1, 2 og 4, § 12 og § 13 b, indsættelse af § 12 a, og ophævelse af § 13 a, stk. 3) trådte i kraft den 20. maj 1994 og har virkning fra den 1. juli 1994.
+(* 2) Lov nr. 1092 af 20. december 1995 (indsættelse af § 3, stk. 2-5, § 4, stk. 2, § 5 a og ændring af § 6, stk. 1, § 9, stk. 1, og § 10, stk. 1) trådte i kraft den 1. januar 1996.
+
+Opkrævning af eventuelle forskelsbeløb sker første gang for kalenderåret 1996.
+
+Opgørelser for tidligere kalenderår i henhold til § 5 a, stk. 2, kan først ske med virkning for kalenderåret 1996 eller senere.
+
+Valg af opgørelsesmetode i henhold til § 3, stk. 3, skal første gang ske senest den 1. april 1997.
