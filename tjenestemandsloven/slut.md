@@ -1,5 +1,5 @@
-Finansministeriet, den 17. september 1998
+Finansministeriet, den 24. juni 2003
 
-Mogens Lykketoft
+Thor Pedersen
 
 /Birgitte Nielsen
