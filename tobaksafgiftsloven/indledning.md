@@ -1,3 +1,3 @@
-Lov om tobaksafgifter (* 1)
+Bekendtgørelse aflov om tobaksafgifter
 
-VI MARGRETHE DEN ANDEN, af Guds Nåde Danmarks Dronning, gør vitterligt: Folketinget har vedtaget og Vi ved Vort samtykke stadfæstet følgende lov:
+Hermed bekendtgøres lov nr. 1016 af 19. december 1992 om tobaksafgifter (* 1) med de ændringer, der følger af § 10 i lov nr. 1073 af 23. december 1992 og § 6 i lov nr. 376 af 18. maj 1994.
