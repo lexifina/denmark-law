@@ -1,0 +1,11 @@
+§ 4 A. (* 9) Hvis et selskab eller en forening m.v. bliver fuldt skattepligtig efter § 1, fordi ledelsens sæde flyttes her til landet, eller hvis et selskab eller en forening m.v. efter bestemmelserne i en dobbeltbeskatningsoverenskomst bliver hjemmehørende her i landet, anses aktiver og passiver, som ikke i forvejen er omfattet af dansk beskatning, for anskaffet på det faktiske anskaffelsestidspunkt til handelsværdien på tilflytningstidspunktet, jf. dog stk. 2.
+
+Stk. 2. Afskrivningsberettigede aktiver anses for erhvervet på det faktiske anskaffelsestidspunkt, og de anses for erhvervet til den faktiske anskaffelsessum afskrevet maksimalt efter danske regler indtil tilflytningstidspunktet. Ved denne beregning anvendes reglerne på tilflytningstidspunktet. Dog skal aktiverne anses for erhvervet til handelsværdien på tilflytningstidspunktet, såfremt denne værdi er mindre end værdien beregnet efter 1. og 2. pkt.
+
+Stk. 3. Overstiger afståelsessummen for aktiver som nævnt i stk. 2, 1. og 2. pkt., den beregnede værdi på tilflytningstidspunktet, nedsættes de genvundne afskrivninger med forskelsbeløbet. For aktiver, der afskrives efter saldometoden, nedsættes afståelsessummen med forskelsbeløbet. Nedsættelsen kan ikke overstige et beløb svarende til de i stk. 2 beregnede afskrivninger.
+
+Stk. 4. Overstiger afståelsessummen for aktiver som nævnt i stk. 2, 1. og 2. pkt., den faktiske anskaffelsessum, nedsættes avancen med forskellen mellem den faktiske anskaffelsessum og handelsværdien på tilflytningstidspunktet. For aktiver, der afskrives efter saldometoden, nedsættes afståelsessummen med forskellen. Nedsættelsen efter 1. og 2. pkt. foretages alene, hvis handelsværdien på tilflytningstidspunktet er højere end den faktiske anskaffelssum, og nedsættelsen kan ikke overstige et beløb svarende til forskellen mellem den faktiske anskaffelsessum og afståelsessummen.
+
+Stk. 5. Udgifter afholdt før tilflytningstidspunktet kan kun fradrages i den skattepligtige indkomst, hvis der på afholdelsestidspunktet var fradragsret for disse udgifter i medfør af § 2.
+
+Stk. 6. Stk. 1-5 finder tilsvarende anvendelse på selskaber og foreninger m.v., der bliver skattepligtige efter § 2, og som ikke umiddelbart forinden har været skattepligtige efter § 1.

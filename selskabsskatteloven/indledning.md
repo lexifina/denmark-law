@@ -1,6 +1,6 @@
-Bekendtgørelse af lov om indkomstbeskatning af aktieselskaber m.v. (Selskabsskatteloven) (* 1)
+Bekendtgørelse af lov om indkomstbeskatning af aktieselskaber m.v. (Selskabsskatteloven)(* 1)
 
-Herved bekendtgøres lov om indkomstbeskatning af aktieselskaber m.v. (Selskabsskatteloven), jf. lovbekendtgørelse nr. 752 af 15. september 1993, med de ændringer, der følger af § 1 i lov nr. 1118 af 22. december 1993, § 1 i lov nr. 299 af 27. april 1994, § 4 i lov nr. 377 af 18. maj 1994, § 1 i lov nr. 374 af 18. maj 1994 og § 1 og § 8 i lov nr. 442 af 1. juni 1994.
+Herved bekendtgøres lov om indkomstbeskatning af aktieselskaber m.v. (Selskabsskatteloven), jf. lovbekendtgørelse nr. 724 af 2. august 1994, med de ændringer, der følger af § 2 i lov nr. 1090 af 21. december 1994, § 3 i lov nr. 90 af 8. februar 1995, § 1 i lov nr. 180 af 23. marts 1995, § 1 i lov nr. 256 af 19. april 1995, § 1 i lov nr. 312 af 17. maj 1995, § 14 i lov nr. 313 af 17. maj 1995, § 8 i lov nr. 412 af 14. juni 1995 og § 2 i lov nr. 425 af 14. juni 1995.
 
 ## Afsnit I
 
