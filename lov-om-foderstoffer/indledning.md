@@ -1,3 +1,3 @@
-Lov om foderstoffer
+Bekendtgørelse af lov om foderstoffer
 
-VI MARGRETHE DEN ANDEN, af Guds Nåde Danmarks Dronning, gør vitterligt: Folketinget har vedtaget og Vi ved Vort samtykke stadfæstet følgende lov:
+Herved bekendtgøres lov nr. 282 af 8. maj 1991 med de ændringer, der følger af lov nr. 225 af 27. marts 1996.
