@@ -1,0 +1,3 @@
+§ 43 a. Når valg til Folketinget er udskrevet, underrettes skibsførere på grønlandske skibe herom.
+
+Stk. 2. Så snart skibsføreren på et grønlandsk skib bliver bekendt med, at der er udskrevet valg til Folketinget, skal skibsføreren sørge for, at der straks foretages brevstemmeafgivning om bord. Gennemførelse af brevstemmeafgivning kan dog undlades, hvis brevstemmerne selv ved anvendelse af hurtigste forsendelsesmåde ikke kan påregnes at komme frem inden afstemningens begyndelse på valgdagen, eller hvis tvingende eller uopsættelige skibsforretninger er til hinder herfor.

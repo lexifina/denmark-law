@@ -1,0 +1,1 @@
+§ 27 a. En kandidat kan tilbagekalde en indgivet kandidatanmeldelse over for formanden for den valgbestyrelse, hvortil kandidatanmeldelsen er indleveret, senest kl. 12 elleve dage før valgdagen. En vælger, der som stiller har anbefalet en kandidat, kan ikke tilbagekalde anbefalingen, efter at kandidatanmeldelsen er indleveret til formanden for en valgbestyrelse.
