@@ -1,0 +1,1 @@
+§ 2 b. Jagttegn kan kun udstedes med samtykke fra justitsministeren eller den, han bemyndiger hertil. Justitsministeren fastsætter nærmere regler om behandlingen af sager om samtykke til udstedelse af jagttegn.
