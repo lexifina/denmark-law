@@ -1,3 +1,3 @@
 Bekendtgørelse af lov om vægtafgift af motorkøretøjer m.v.
 
-Herved bekendtgøres lov om vægtafgift af motorkøretøjer m. v., jf. lovbekendtgørelse nr. 163 af 31. marts 1993, med de ændringer, der følger af § 2 i lov nr. 98 af 9. februar 1994, § 18 i lov nr. 284 af 27. april 1994 og § 23 i lov nr. 376 af 18. maj 1994.
+Herved bekendtgøres lov om vægtafgift af motorkøretøjer m.v., jf. lovbekendtgørelse nr. 679 af 13. juli 1994 med de ændringer, der følger af § 1 i lov nr. 957 af 25. november 1994 (* 1). I bilaget er anført en kun i 1995 gældende skala for vægtafgift af større vare- og lastbiler m.v., der ikke er afgiftspligtige efter loven om afgift af vejbenyttelse.
