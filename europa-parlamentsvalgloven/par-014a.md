@@ -8,6 +8,8 @@ Stk. 2. Personer, der har valgret efter § 3, stk. 1, nr. 3, optages på valglis
 
 3) ikke har anmodet om at blive slettet af valglisten.
 
-Stk. 3. Der gives meddelelse til vedkommende myndighed i vedkommende hjemland om, hvilke personer der optages på valglisten efter stk. 1.
+Stk. 3. Der gives meddelelse til vedkommende myndighed i vedkommende hjemland om, hvilke personer der optages på valglisten efter stk. 1 og 2.
 
 Stk. 4. Indenrigsministeren fastsætter nærmere regler om optagelse på valglisten af personer, der har valgret efter § 3, stk. 1, nr. 3, samt om afgivelse af meddelelse efter stk. 3.
+
+Stk. 5. Meddelelser efter stk. 3 kan gives på grundlag af oplysningerne i Det Centrale Personregister (CPR).
