@@ -1,7 +1,7 @@
-ARBEJDSMINISTERIET, DEN 21. DECEMBER 1971.
+Arbejdsministeriet, den 6. marts 1997
 
-ERLING DINESEN.
+Jytte Andersen
 
-/K. Kampmann.
+/ Einar Edelberg
 
 Ingen
