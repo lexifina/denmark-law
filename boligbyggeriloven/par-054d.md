@@ -1,1 +1,0 @@
-§ 54 d. Ejendomme, der tilhører almennyttige boligselskaber, kan opdeles i ejerlejligheder efter bestemmelserne i lov om ejerlejligheder, såfremt beboelsesarealet og alle sædvanlige fællesfaciliteter til brug for boligtagerne efter opdelingen udgør een ejerlejlighed.

@@ -8,4 +8,4 @@ Stk. 2. Fonden omfatter
 
 3) udbedringsarbejder, der udføres med støtte fra fonden efter reglerne i dette kapitel.
 
-Stk. 3. Ved om- og tilbygninger skal bygherren foranledige, at der foretages bygningsgennemgang samt udfærdiges en rapport herom, inden der meddeles tilsagn efter § 48, § 63, § 67 eller efter lov om boliger for ældre og personer med handicap.
+Stk. 3. Ved om- og tilbygninger skal bygherren foranledige, at der foretages bygningsgennemgang samt udfærdiges en rapport herom, inden der meddeles tilsagn efter § 48, § 63, § 67 eller efter lov om boliger for ældre og personer med handicap. Boligministeren fastsætter nærmere regler herom.
