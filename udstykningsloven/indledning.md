@@ -1,3 +1,7 @@
-Lov om udstykning og anden registrering i matriklen
+Bekendtgørelse af lov om udstykning og anden registrering i matriklen
 
-VI MARGRETHE DEN ANDEN, af Guds Nåde Danmarks Dronning, gør vitterligt: Folketinget har vedtaget og Vi ved Vort samtykke stadfæstet følgende lov:
+Herved bekendtgøres lov nr. 137 af 7. marts 1990 om udstykning og anden registrering i matriklen med de ændringer, der følger af lov nr. 139 af 17. marts 1999.
+
+## Kapitel 1
+
+Definitioner

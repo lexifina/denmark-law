@@ -1,13 +1,7 @@
-Givet på Amalienborg, den 7. marts 1990
+By- og Boligministeriet, den 10. april 2000
 
-Under Vor Kongelige Hånd og Segl
+Jytte Andersen
 
-I Dronningens Navn:
+/Anne Wallberg
 
-FREDERIK
-
-Kronprins
-
-/Agnete Laustsen
-
-(* 1) Loven træder i kraft den 1. april 1991
+§ 4 i lov nr. 139 vedrører ændring af §10, stk. 2, § 13, stk. 4, § 21, stk. 1, § 41, stk. 2, § 47, stk. 1, § 47, stk. 2 og § 48, stk. 2.
