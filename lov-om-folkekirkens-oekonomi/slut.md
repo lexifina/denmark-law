@@ -1,9 +1,7 @@
-Givet på Christiansborg slot, den 19. december 1984
+Kirkeministeriet, den 27. juni 1989
 
-Under Vor Kongelige Hånd og Segl
+TORBEN RECHENDORFF
 
-MARGRETHE R.
-
-/Mette Madsen
+/Asger Jørgensen
 
 Ingen

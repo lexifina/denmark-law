@@ -1,3 +1,3 @@
-Lov om folkekirkens økonomi
+Bekendtgørelse af lov om folkekirkens økonomi
 
-VI MARGRETHE DEN ANDEN, af Guds Nåde Danmarks Dronning, gør vitterligt: Folketinget har vedtaget og Vi ved Vort samtykke stadfæstet følgende lov:
+Herved bekendtgøres lov nr. 645 af 19. december 1984 om folkekirkens økonomi med de ændringer, der følger af § 1 i lov nr. 223 af 13. april 1988 og af lov nr. 334 af 24. maj 1989
