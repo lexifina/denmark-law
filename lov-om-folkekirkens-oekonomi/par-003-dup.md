@@ -1,3 +1,0 @@
-§ 3
-
-Loven gælder ikke for Færøerne og Grønland. Loven kan ved kgl. anordning sættes i kraft for Færøerne med de afvigelser, som de særlige færøske forhold tilsiger.
