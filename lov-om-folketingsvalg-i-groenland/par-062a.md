@@ -1,0 +1,1 @@
+§ 62 a. De ikke valgte kandidater er stedfortrædere for de valgte af samme parti henholdsvis kandidatforbund i rækkefølge efter størrelsen af deres stemmetal. I tilfælde af stemmelighed foretages lodtrækning.
