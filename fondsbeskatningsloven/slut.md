@@ -1,5 +1,5 @@
-Skatteministeriet, den 20. oktober 1998
+Skatteministeriet, den 23. oktober 2004
 
-Ole Stavad
+Kristian Jensen
 
-/K.-H. Ludolph
+/Lise Bo Nielsen
