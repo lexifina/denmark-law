@@ -1,0 +1,1 @@
+§ 14 a. Det Storkøbenhavnske Teaterfællesskab drives med tilskud fra Københavns og Frederiksberg Kommuner, Københavns, Frederiksborg og Roskilde Amter og staten. Statens og amtskommunernes tilskud fastsættes i 4-årige budgetaftaler mellem tilskudsyderne.
