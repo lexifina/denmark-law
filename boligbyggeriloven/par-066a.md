@@ -1,0 +1,1 @@
+§ 66 a. Opløses en andelsboligforening, hvortil staten har ydet rentesikring eller rentebidrag, kan den ydede rentesikring eller det ydede rentebidrag kræves helt eller delvist tilbagebetalt efter boligministerens nærmere bestemmelse. Tilbagebetalingskravet påhviler de andelshavere, der er medlemmer af andelsboligforeningen på tidspunktet for foreningens opløsning.

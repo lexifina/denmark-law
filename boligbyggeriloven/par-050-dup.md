@@ -1,0 +1,1 @@
+§ 50. I almennyttigt boligbyggeri med lån efter kap. IV garanterer staten for tilbagebetaling af beboerindskud, der ikke bliver dækket ved likvidation. Kommunen godtgør statskassen halvdelen af det tab, der måtte fremkomme for staten som følge af garantiforpligtelsen.
