@@ -1,0 +1,1 @@
+§ 515 a. Efterkommes rettens pålæg efter § 478, stk. 1, 2. pkt., ikke uden lovlig grund, kan retten pålægge en bøde, medmindre der ved fremlæggelsen vil fremkomme oplysning om forhold, som en ad de nævnte personer ville være udelukket fra eller fritaget for at afgive forklaring om som vidne efter reglerne i retsplejelovens kapitel 18.
