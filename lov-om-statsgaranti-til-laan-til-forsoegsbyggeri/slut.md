@@ -1,9 +1,9 @@
-Givet på Christiansborg Slot, den 22. december 1993
+Boligministeriet, den 4. september 1995
 
-Under Vor Kongelige Hånd og Segl
+Ole Løvig Simonsen
 
-MARGRETHE R.
+/ Hanne Victor Hansen
 
-/Flemming Kofod-Svendsen
+(* 1) Bekendtgørelsen i Lovtidende fandt sted den 23. december 1993.
 
-Ingen
+(* 2) Bekendtgørelsen i Lovtidende fandt sted den 15. juni 1995. Loven

@@ -1,3 +1,5 @@
-Lov om statsgaranti til lån til skoler og forsøgsbyggeri m.v.
+Bekendtgørelse af lov om statsgaranti til lån til skoler og forsøgsbyggeri m.v.
 
-VI MARGRETHE DEN ANDEN, af Guds Nåde Danmarks Dronning, gør vitterligt: Folketinget har vedtaget og Vi ved Vort samtykke stadfæstet følgende lov:
+(Statsgaranti)
+
+Herved bekendtgøres lov om statsgaranti til lån til skoler og forsøgsbyggeri m.v., jf. lov nr. 1073 af 22. december 1993, med de ændringer, der følger af § 1 i lov nr. 363 af 14. juni 1995.
