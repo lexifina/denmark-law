@@ -1,7 +1,5 @@
-Forsvarsministeriet, den 20. august 2001
+Forsvarsministeriet, den 12. februar 2004
 
-Jan Trøjborg
+Svend Aage Jensby
 
-/Niels A. K. Olsen
-
-Skal rettelig være stk. 3.
+/Bjørn I. Bisserup
