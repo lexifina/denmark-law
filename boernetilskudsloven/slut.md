@@ -1,5 +1,5 @@
-Socialministeriet, den 25. august 1995
+Socialministeriet, den 17. november 2000
 
-Karen Jespersen
+Henrik Dam Kristensen
 
-/ Anders Lynge Madsen
+/Aksel Meyer

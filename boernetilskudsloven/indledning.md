@@ -1,5 +1,7 @@
 Bekendtgørelse af lov om børnetilskud og forskudsvis udbetaling af børnebidrag
 
-(Børnetilskudsloven)
+Herved bekendtgøres lov om børnetilskud og forskudsvis udbetaling af børnebidrag, jf. lovbekendtgørelse nr. 707 af 25. august 1995, med de ændringer, der følger af lov nr. 980 af 17. december 1997 (§ 33), lov nr. 1109 af 29. december 1997, lov nr. 914 af 16. december 1998 (§ 2), lov nr. 394 af 2. juni 1999 (§ 2) og lov nr. 966 af 20. december 1999 (§ 1).
 
-Herved bekendtgøres lov om børnetilskud og forskudsvis udbetaling af børnebidrag, jf. lovbekendtgørelse nr. 254 af 8. april 1992, med de ændringer, der følger af lov nr. 1080 af 23. december 1992, lov nr. 449 af 30. juni 1993 (§ 3), lov nr. 1133 af 22. december 1993 og lov nr. 448 af 1. juni 1994 (§ 6).
+## Kapitel 1
+
+Børnetilskud
