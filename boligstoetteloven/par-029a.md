@@ -1,0 +1,1 @@
+§ 29 a. Såfremt en husstand, der genhuses midlertidigt efter byfornyelseslovens §§ 44 eller 44 a, på genhusningstidspunktet modtager boligstøtte efter kapitel 4, 4 a eller 5 til den hidtidige bolig, kan boligstøtte efter kapitel 4, 4 a eller 5 uanset § 5 fortsat ydes til denne bolig i genhusningsperioden.
