@@ -1,6 +1,6 @@
 Bekendtgørelse af lov om indkomstbeskatning af selvstændige erhvervsdrivende (virksomhedsskatteloven) (* 1)
 
-Herved bekendtgøres lov om indkomstbeskatning af selvstændige erhvervsdrivende (virksomhedsskatteloven), jf. lovbekendtgørelse nr. 722 af 1.august 1994 med de ændringer, der følger af § 17 i lov nr. 313 af 17. maj 1995 og § 9 i lov nr. 427 af 14. juni 1995.
+Herved bekendtgøres lov om indkomstbeskatning af selvstændige erhvervsdrivende (virksomhedsskatteloven), jf. lovbekendtgørelse nr. 659 af 28. juli 1995 med de ændringer, der følger af § 3 i lov nr. 488 af 12. juni 1996, § 1 i lov nr. 1217 af 27. december 1996, § 24 i lov nr. 1219 af 27. december 1997 og § 36 i lov nr. 1223 af 27. december 1996.
 
 ## Afsnit I
 
