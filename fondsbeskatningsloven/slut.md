@@ -1,15 +1,7 @@
-Givet på Christiansborg slot, den 19. marts 1986
+Skatteministeriet, den 26. august 1988
 
-Under Vor Kongelige Hånd og Segl
+ANDERS FOGH RASMUSSEN
 
-I Dronningens Navn:
+/Lars H. Nielsen
 
-INGRID
-
-Dronning af Danmark
-
-Rigsforstander
-
-/ ISI FOIGHEL
-
-Ingen
+(* 1) Bestemmelsen i § 7, stk. 2, har virkning fra og med indkomståret 1988, jf. § 4 i lov nr. 371 af 1. juli 1988
