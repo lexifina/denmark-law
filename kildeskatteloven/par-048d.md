@@ -1,1 +1,1 @@
-§ 48 D. (* 14) Skatteministeren kan bestemme, at skat efter § 48 C, stk. 1, ikke svares af vederlag, der erhverves ved arbejde udført om bord på et dansk skib, der er registreret i Dansk Internationalt Skibsregister.
+§ 48 D. (* 15) Skatteministeren kan bestemme, at skat efter § 48 C, stk. 1, ikke svares af vederlag, der erhverves ved arbejde udført om bord på et dansk skib, der er registreret i Dansk Internationalt Skibsregister.
