@@ -1,3 +1,3 @@
-Bekendtgørelse af lov om en børnefamilieydelse
+Bekendtgørelse af lov om en børnefamilieydelse (* 1)
 
-Herved bekendtgøres lov om en børnefamilieydelse, jf. lovbekendtgørelse nr. 666 af 16. august 1993, med de ændringer og tilføjelser, der følger af lov nr. 173 af 16. marts 1994.
+Herved bekendtgøres lov om en børnefamilieydelse, jf. lovbekendtgørelse nr. 609 af 30. juni 1994, med de ændringer og tilføjelser, der følger af lov nr. 1116 af 21. december 1994.
