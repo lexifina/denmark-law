@@ -1,5 +1,5 @@
-Skatteministeriet, den 12. december 2002
+Skatteministeriet, den 4. december 2003
 
 Svend Erik Hovmand
 
-/K. Aasberg Karlsen
+/John Fuhrmann
