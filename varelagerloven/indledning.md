@@ -1,3 +1,5 @@
-Lov om skattemæssig opgørelse af varelagre m.v.
+Bekendtgørelse af Lov om skattemæssig opgørelse af varelagre m.v.
 
-VI FREDERIK DEN NIENDE, af Guds Nåde Konge til Danmark, de Venders og Goters, Hertug til Slesvig, Holsten, Stormarn, Ditmarsken, Lauenborg og Oldenborg, gør vitterligt: Folketinget har vedtaget og Vi ved Vort samtykke stadfæstet følgende lov:
+(varelagerloven)
+
+Herved bekendtgøres lov om skattemæssig opgørelse af varelagre m.v., jfr. lovbekendtgørelse nr. 255 af 18. juni 1968 med de ændringer, der følger af lov nr. 202 af 12. april 1973.

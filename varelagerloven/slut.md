@@ -1,9 +1,7 @@
-Givet på Christiansborg slot, den 3. juni 1967.
-
-Under Vor Kongelige Hånd og Segl.
-
-FREDERIK R.
+Finansministeriet, den 10. maj 1973.
 
 Henry Gruenbaum.
+
+/Thorvald Frølich.
 
 Ingen
