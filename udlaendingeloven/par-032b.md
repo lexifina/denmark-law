@@ -1,0 +1,1 @@
+§ 32 b. En afgørelse om, at en udlænding, der er meddelt afslag på en ansøgning om opholdstilladelse efter §§ 7 eller 8, ikke kan udsendes af landet, jf. § 31, skal ændres, hvis det grundlag, som er angivet i afgørelsen, ikke længere er til stede.
