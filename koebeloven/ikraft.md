@@ -1,15 +1,15 @@
-Lov nr. 409 af 30. november 1965 om ændring af købelovens § 68, stk. 2, indeholder følgende ikrafttrædelsesbestemmelse:
+Lov nr. 733 af 7. december 1988 indeholder følgende ikrafttrædelsesbestemmelse:
 
-§ 2. Loven træder i kraft den 1. december 1965.
+§ 4. Tidspunktet for lovens ikrafttræden fastsættes af justitsministeren.
 
-Lov nr. 299 af 8. juni 1977 om ændring af forskellige bestemmelser vedrørende konkurs m. v., herunder købelovens § 40, indeholder følgende ikrafttrædelsesbestemmelser:
+Lov nr. 391 af 14. juni 1995 indeholder følgende ikrafttrædelsesbestemmelse:
 
-§ 18. Loven træder i kraft den 1. april 1978.
+§ 23. Loven træder i kraft den 1. januar 1996 og har virkning for aftaler, der indgås efter ikrafttrædelsen.
 
-§ 19. Under konkurs, som er indtrådt i henhold til en begæring, der er indgivet inden denne lovs ikrafttræden, anvendes de hidtil gældende regler.
+Lov nr. 213 af 22. april 2002 indeholder følgende ikrafttrædelsesbestemmelser:
 
-Stk. 2
+§ 2
 
-Lov nr. 147 af 4. april 1979 om ændring af købeloven (Forbrugerkøb) indeholder følgende ikrafftrædelsesbestemmelse:
+Stk. 1. Loven træder i kraft dagen efter bekendtgørelsen i Lovtidende.
 
-§ 2. Loven finder anvendelse på aftaler om køb, der indgås den 1. januar 1980 eller senere.
+Stk. 2. Loven har virkning for køb, der indgås den 1. januar 2002 eller senere.
