@@ -1,3 +1,3 @@
-Bekendtgørelse af Konkursskatteloven
+Bekendtgørelse af Konkursskatteloven(* 1)
 
-Herved bekendtgøres konkursskatteloven, jf. lovbekendtgørelse nr. 780 af 25. august 1994, med de ændringer og tilføjelser, der følger af § 7 i lov nr. 90 af 8. februar 1995, § 5 i lov nr. 180 af 23. marts 1995 og § 10 i lov nr. 313 af 17. maj 1995.
+Herved bekendtgøres konkursskatteloven, jf. lovbekendtgørelse nr. 725 af 4. september 1995, med de ændringer og tilføjelser, der følger af lov nr. 1072 af 20. december 1995 og lov nr. 382 af 22. maj 1996.
