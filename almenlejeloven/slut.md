@@ -1,7 +1,5 @@
-Givet på Christiansborg Slot, den 17. december 1997
+Bolig- og byministeriet, den 11. februar 1999
 
-Under Vor Kongelige Hånd og Segl
+Jytte Andersen
 
-Margrethe R.
-
-/ Ole Løvig Simonsen
+/Anne Wallberg
