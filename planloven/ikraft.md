@@ -12,7 +12,7 @@
 
 § 3. Loven træder i kraft den 1. maj 1993 .
 
-Stk. 2. Ved lovens ikrafttræden opløses de i planlovens § 10 nævnte fonde for frigørelses- og afståelsesafgift, og fondenes midler tilfalder amtskommunerne, henholdsvis Københavns og Frederiksberg Kommuner.
+Stk. 2. Ved lovens ikrafttræden opløses de i planlovens § 10 nævnte fonde for frigørelses‑ og afståelsesafgift, og fondenes midler tilfalder amtskommunerne, henholdsvis Københavns og Frederiksberg Kommuner.
 
 Stk. 3. Lån i henhold tilsagn, der er afgivet inden lovens ikrafttræden, skal uanset stk. 2 udbetales på de i tilsagnet fastsatte vilkår.
 
@@ -50,7 +50,7 @@ Stk. 2. § 1, nr. 1 og 2 og § 2 har virkning for ansøgninger om dispensation, 
 
 Stk. 2. Indtil der, jf. stk. 1, er tilvejebragt regionplanretningslinier for den samlede detailhandelsstruktur i amtskommunen henholdsvis i Københavns og Frederiksberg kommuner, kan der kun kommune-, eller lokalplanlægges for butikker i områder, der er udlagt til centerformål inden for et lokal-, bydels- eller bykernecenter i henhold til en kommuneplan, der er endeligt vedtaget før lovens ikrafttræden. Der kan dog endvidere kommune- og lokalplanlægges for de arealer til butikker, der er omfattet af § 5 d, stk. 2, nr. 1 - 3, som affattet i denne lov.
 
-Stk. 3. I region-, kommune- og lokalplanlægning efter stk. 1 og 2 kan der ikke planlægges for bruttoetagearealer for de enkelte butikker på mere end 3.000 m2 for dagligvarebutikker eller 1.000 m2 for udvalgsvarebutikker.
+Stk. 3. I region-, kommune- og lokalplanlægning efter stk. 1 og 2 kan der ikke planlægges for bruttoetagearealer for de enkelte butikker på mere end 3.000 m 2 for dagligvarebutikker eller 1.000 m 2 for udvalgsvarebutikker.
 
 Stk. 4. Ved en kommuneplanrevision, der gennemføres, før der er tilvejebragt regionplanretningslinier for den samlede detailhandelsstruktur, jf. stk. 1, kan eksisterende rammer for lokalplanlægningen uanset stk. 2 opretholdes, i det omfang de er grundlag for en gældende lokalplan, byplanvedtægt eller reguleringsplan, der giver mulighed for etablering af butikker.
 
@@ -94,11 +94,11 @@ Stk. 5. Kommunalbestyrelsens afgørelser efter stk. 1 kan påklages til Naturkla
 
 Stk. 6. Bestemmelserne i § 58, stk. 2 og 3, § 59, § 60, stk. 3 og 5, og § 62, stk. 1, i lov om planlægning finder tilsvarende anvendelse.
 
-§ 4. Kommunalbestyrelsen indsender årligt oplysninger til miljø- og energiministeren om administrationen m.v. af reglerne i §§ 40 og 41, jf. §§ 51 og 51 a i lov om planlægning og § 3.
+§ 4. Kommunalbestyrelsen indsender årligt oplysninger til miljøministeren om administrationen m.v. af reglerne i §§ 40 og 41, jf. §§ 51 og 51 a i lov om planlægning og § 3.
 
-Stk. 2. Miljø- og energiministeren fastsætter nærmere regler om kommunalbestyrelsens forpligtelser efter stk. 1.
+Stk. 2. Miljøministeren fastsætter nærmere regler om kommunalbestyrelsens forpligtelser efter stk. 1.
 
-Stk. 3. Miljø- og energiministeren kan fastsætte regler om kommunalbestyrelsens forpligtelser til at orientere personer, der har dispensation fra forbudet mod helårsbeboelse i medfør af § 3.
+Stk. 3. Miljøministeren kan fastsætte regler om kommunalbestyrelsens forpligtelser til at orientere personer, der har dispensation fra forbudet mod helårsbeboelse i medfør af § 3.
 
 § 2 i lov nr. 368 af 2 juni 1999 om ændring af lov om planlægning er sålydende:
 
@@ -122,7 +122,7 @@ Stk. 4. Regionplanforslag i hovedstadsområdet, der ikke er endeligt vedtaget de
 
 § 3. Loven træder i kraft ugedagen efter bekendtgørelsen i Lovtidende , jf. dog stk. 2.
 
-Stk. 2. § 1, nr. 3-5 og 12-14, samt § 2 træder i kraft den 1. juli 2000 .
+Stk. 2. § 1, nr. 3-5 og 12-14, samt § 2 træder i kraft den 1. juli 2000 ) .
 
 Stk. 3. Uanset § 23 b som affattet ved denne lovs § 1, nr. 10, kan kommunalbestyrelsen udarbejde forslag til kommuneplan uden at have vedtaget og offentliggjort en strategi, hvis der efter de hidtil gældende regler er offentliggjort en beretning og indkaldt ideer, forslag m.v. med henblik på planlægningsarbejdet.
 
@@ -135,3 +135,33 @@ Stk. 2. Lovens regler om adgang til at påklage afgørelser gælder for sager, d
 Stk. 3. § 2, stk. 3, i lov om adgang til miljøoplysninger som affattet ved denne lovs § 1, nr. 4, har ikke virkning i forhold til materiale, der er indhentet før lovens ikrafttræden, såfremt den, der har indleveret materialet, ikke var eller kunne gøres forpligtet til at levere materialet og den pågældende ikke har meddelt, at han eller hun accepterer udleveringen.
 
 Stk. 4. § 2, stk. 4, i lov om adgang til aktindsigt i miljøoplysninger som affattet ved denne lovs § 1, nr. 4, har ikke virkning for oplysninger om emissioner, som er kommet i myndighedernes besiddelse før lovens ikrafttræden.
+
+§ 3 i lov nr. 477 af 7. juni 2001 om ændring af lov om planlægning og jordkøbsloven er sålydende:
+
+§ 3. Loven træder i kraft ugedagen efter bekendtgørelsen i Lovtidende .
+
+Stk. 2. Forslag til planer, der er offentliggjort før lovens ikrafttræden, færdigbehandles efter de hidtil gældende regler.
+
+§ 5 i lov nr. 480 af 7. juni 2001 er sålydende:
+
+§ 5. Loven træder i kraft den 1. juli 2001 .
+
+§ 78 i lov nr. 145 af 25. marts 2002 om ændring af forskellige love som følge af sammenlægningen af de bornholmske kommuner er sålydende:
+
+§ 78. Loven træder i kraft den 1. januar 2003 , jf. dog § 79, stk. 1.
+
+Stk. 2. Regionplanen for Bornholm og kommuneplanerne for Allinge-Gudhjem, Hasle, Nexø, Rønne og Aakirkby Kommuner opretholdes, indtil de erstattes af en region- og kommuneplan for Bornholm efter lov om planlægning som ændret ved denne lov.
+
+§§ 3-5 i lov nr. 383 af 6. juni 2002 om ændring af lov om planlægning og lov om Hovedstadens Udviklingsråd er sålydende:
+
+§ 3. Loven træder i kraft ugedagen efter bekendtgørelsen i Lovtidende , jf. dog stk. 2 og 3.
+
+Stk. 2. § 1, nr. 12-14 og 20-23, træder i kraft den 1. september 2002, på Bornholm dog først den 1. januar 2003 .
+
+Stk. 3. § 2 træder i kraft den 1. januar 2003.
+
+§ 4. Sager om tilladelse efter § 35, stk. 1, i lov om planlægning, der før 1. september 2002 er modtaget af amtsrådet eller Hovedstadens Udviklingsråd, færdigbehandles af disse myndigheder.
+
+§ 5. Indtil der efter reglerne i lov om planlægning, som ændret ved denne lov, er tilvejebragt bestemmelser i kommuneplanens hovedstruktur og rammer for lokalplanlægningen om den samlede detailhandelsstruktur i kommunen,kan der kun kommune-og lokalplanlægges for butikker i overensstemmelse med retningslinjerne i regionplanmyndighedernes Regionplan 2001, herunder afgrænsningen af de centrale dele af byer og bydele samt aflastningsområder, jf. § 5 d, stk. 2, nr. 4, hvor der kan planlægges for butikker.
+
+Stk. 2. Regionplanmyndigheden kan godkende mindre fravigelser fra bestemmelserne i stk. 1.
