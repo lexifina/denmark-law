@@ -1,13 +1,7 @@
-## Kapitel 5 d
+§ 17 l. Den enkelte kontohaver kan vælge at placere indeståendet på sin investeringskonto i investeringspuljer, jf. § 17 k, stk. 1, og § 17 m, stk. 1. Den enkelte kontohaver kan vælge første gang, når den første kontooversigt vedrørende Særlig Pensionsopsparing er modtaget.
 
-## Supplerende arbejdsmarkedspension for førtidspensionister
+Stk. 2. Kontohaverens valg foretages som en fordeling af indeståendet på kontoen mellem de ønskede investeringspuljer. Arbejdsmarkedets Tillægspension kan beslutte at indrette SP-valg således, at kontohaveren kan vælge, hvordan fremtidige bidrag skal fordeles, uden at ændre fordelingen for det eksisterende indestående. Hvis kontohaveren ikke har valgt en særskilt fordeling for fremtidige bidrag, anvendes den senest valgte fordeling efter 1. pkt. tillige, når der efterfølgende godskrives beløb på den særskilte SP-konto.
 
-§ 17 l. Indbetalinger til den supplerende arbejdsmarkedspension for førtidspensionister godskrives på særskilte konti på grundlag af indberetning fra kommunerne, jf. lov om social pension § 33 b. Arbejdsmarkedets Tillægspension kan forvalte midlerne vedrørende den supplerende arbejdsmarkedspension sammen med midlerne i Den Særlige Pensionsopsparing.
+Stk. 3. Beskæftigelsesministeren kan efter indstilling fra Arbejdsmarkedets Tillægspension fastsætte nærmere regler for valg af investeringspuljer i SP-valg, herunder minimumskrav til indestående på investeringskontoen, som en forudsætning for at kunne vælge samt et maksimum for antallet af investeringspuljer, en kontohaver kan vælge.
 
-Stk. 2. Regnskab for forvaltning og administration af de særskilte konti i den supplerende arbejdsmarkedspension indgår i den samlede opgørelse vedrørende Den Særlige Pensionsopsparing efter denne lovs kapitel 5 c. Årets resultat tilskrives én gang årligt efter reglerne i § 17 h, stk. 3.
-
-Stk. 3. Bestyrelsen kan fastsætte et særskilt administrationsgebyr i forbindelse med indbetalinger til den supplerende arbejdsmarkedspension for førtidspensionister.
-
-Stk. 4. For udbetalinger i løbet af et regnskabsår gælder den forrentning fra årets begyndelse til udbetalingstidspunktet, som bestyrelsen har fastsat efter § 17 h, stk. 5.
-
-Stk. 5. Ved dødsfald før det fyldte 65. år, eller 67. år, hvis personen er født før den 1. juli 1939, udbetales indeståendet på kontoen med tillæg til dødsboet. Socialministeren fastsætter efter indstilling fra bestyrelsen for Arbejdsmarkedets tillægspension nærmere regler for udbetaling af beløb til boet, herunder beløb, der endnu ikke er godskrevet særskilte konti.
+Stk. 4. Når Arbejdsmarkedets Tillægspension hæver beløb på kontohaverens konto til betaling af pensionsafkastskat, administrations- og handelsomkostninger og udbetaling af pension, reduceres andelen i de enkelte investeringspuljer forholdsmæssigt, medmindre der er tilstrækkelige midler til dækning heraf på kontantkontoen.
