@@ -1,0 +1,1 @@
+§ 24 a . Socialministeren kan efter forhandling med undervisningsministeren fastsætte regler om, at institutioner, der har løbende kontakt med børn under 18 år, skal give meddelelse til kommunalbestyrelsen, hvis et barn udebliver i en periode og udeblivelsen kan skyldes, at barnet ikke længere opholder sig her i landet.
