@@ -1,0 +1,1 @@
+§ 48 b. Anmoder et andet EF-land Danmark om at overtage eller tilbagetage en udlænding efter reglerne i EF-asylkonventionen, træffer Direktoratet for Udlændinge snarest muligt afgørelse vedrørende anmodningen.
