@@ -1,97 +1,73 @@
-Lov nr. 366 af 18. maj 1994 (Bekæmpelse af vold)(* 1) indeholder følgende ikrafttrædelsesbestemmelse:
+Lov nr. 403 af 26. juni 1998 (Revision af psykiatriloven m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
 
 § 4
 
-Stk. 1. Loven træder i kraft den 1. juni 1994.
+Stk. 1. Loven træder i kraft den 1. januar 1999.
 
 Stk. 2. (Udelades)
 
-Stk. 3. (Udelades)
+Lov nr. 473 af 1. juli 1998 (Tidsbegrænset opholdstilladelse, asyl, familiesammenføring og udvisning m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
 
-Lov nr. 367 af 18. maj 1994 (Hæleri med hensyn til indsmugling af særlig grov karakter og afsoningsomkostninger m.v.)(* 2) indeholder følgende ikrafttrædelsesbestemmelse:
+§ 4
+
+Stk. 1. Loven træder i kraft dagen efter bekendtgørelsen i Lovtidende , (udelades).
+
+Stk. 2-7. (Udelades)
+
+Lov nr. 141 af 17. marts 1999 (Afkriminalisering af prostitution m.v. samt kriminalisering af kunder til prostituerede under 18 år) indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 2
+
+Stk. 1. Loven træder i kraft den 1. juli 1999.
+
+Stk. 2. Loven medfører ikke, at spil, prostitution og understøttelse fra kvinder, der ernærer sig ved prostitution, anses som lovlige erhverv.
+
+Lov nr. 228 af 4. april 2000 (Grov momssvig, EU-svig og bestikkelse af udenlandske tjenestemænd m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
 
 § 3
 
-Stk. 1. Loven træder i kraft den 1. juni 1994.
+Stk. 1. Lovens § 1 træder i kraft den 1. maj 2000.
+
+Stk. 2. Justitsministeren fastsætter ikrafttrædelsestidspunktet for lovens § 2 eller dele af denne bestemmelse.
+
+Lov nr. 230 af 4. april 2000 (Udvidet brug af samfundstjeneste og betingede domme med vilkår om alkoholistbehandling for spirituskørsel) indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 2
+
+Stk. 1. Loven træder i kraft den 1. juli 2000.
+
+Lov nr. 425 af 31. maj 2000 (Skærpelse af strafniveauet for ulovlig beskæftigelse af udlændinge, Danmarks indtræden i det praktiske Schengensamarbejde, præcisering af Udlændingestyrelsens og politiets underholdsforpligtelse m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 5
+
+Stk. 1. Loven træder i kraft dagen efter bekendtgørelsen i Lovtidende , (udelades).
 
 Stk. 2. (Udelades)
 
-Lov nr. 369 af 18. maj 1994 (Rejsedommerordning, forkyndelse, udeblivelsesdomme i straffesager samt lønindeholdelse for bøder, sagsomkostninger og konfiskerede beløb m.v.)(* 3) indeholder følgende ikrafttrædelsesbestemmelse:
-
-§ 4
-
-Stk. 1. Loven træder i kraft den 1. oktober 1994, . . . (udelades).
-
-Stk. 2. § 1 og § 2, nr. 27 og 28, finder anvendelse på bøder, sagsomkostninger og konfiskation, der er fastslået ved endelig dom eller vedtagelse efter lovens ikrafttræden.(* 4)
-
-Stk. 3. (Udelades)
-
-Lov nr. 431 af 1. juni 1994 (Forvoldelse af fare for smitte med livstruende og uhelbredelig sygdom)(* 5) indeholder følgende ikrafttrædelsesbestemmelse:
-
-§ 2
-
-Loven træder i kraft den 15. juni 1994.
-
-Lov nr. 1100 af 21. december 1994 (Besiddelse af børnepornografi)(*
-
-6) indeholder følgende ikrafttrædelsesbestemmelse:
-
-§ 2
-
-Loven træder i kraft den 1. marts 1995.
-
-Lov nr. 309 af 17. maj 1995 (Racediskrimination m.v.)(* 7) indeholder følgende ikrafttrædelsesbestemmelse:
-
-§ 2
-
-Loven træder i kraft den 1. juni 1995.
-
-Lov nr. 388 af 22. maj 1996 (Datakriminalitet)(* 8) indeholder følgende ikrafttrædelsesbestemmelse:
+Lov nr. 428 af 31. maj 2000 (Varetægtsfængsling i isolation, varetægtsfængsling under domsforhandlingen, vidnebeskyttelse, vidneudelukkelse for præster fra andre trossamfund, afhøriger i sager ved Højesteret, behandling af retssager uden for retskredsen af lokalemæssige grunde samt klager over anklagemyndighedens sagsbehandling m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
 
 § 3
 
-Loven træder i kraft den 1. juli 1996.
+Loven træder i kraft den 1. juli 2000.
 
-Lov nr. 474 af 12. juni 1996 (Strafansvar for juridiske personer)(*
-
-9) indeholder følgende ikrafttrædelsesbestemmelse:
+Lov nr. 438 af 31. maj 2000 (Tidsbegrænsning af foranstaltninger efter straffelovens §§ 68 og 69) indeholder følgende ikrafttrædelsesbestemmelse:
 
 § 2
 
-Loven træder i kraft den 1. juli 1996.
+Stk. 1. Loven træder i kraft den 1. juli 2000.
 
-Lov nr. 274 af 15. april 1997 (Samfundstjeneste og forstærket indsats mod seksualforbrydelser m.v.)(* 10) indeholder følgende ikrafttrædelsesbestemmelse:
+Stk. 2. Straffelovens § 68 a og § 69 a som affattet ved denne lovs § 1, nr. 1 og 3, finder anvendelse på foranstatninger efter straffelovens §§ 68 og 69, der idømmes efter lovens ikrafttræden. Det samme gælder foranstaltninger, der efter lovens ikrafttræden fastsættes efter straffelovens § 72, jf. §§ 68 og 69, og som medfører en skærpelse af foranstaltningen.
 
-§ 4
-
-Stk. 1. Loven træder i kraft den 1. maj 1997.
-
-Stk. 2. § 1, nr. 2 og 7, og §§ 2 og 3 finder anvendelse i alle sager, der ikke er endeligt afgjort ved lovens ikrafttræden.(* 11)
-
-Lov nr. 349 af 23. maj 1997 (Styrkelse af retsstillingen for ofre for forbrydelser m.v.)(* 12) indeholder følgende ikrafttrædelsesbestemmelse:
-
-§ 4
-
-Loven træder i kraft den 1. juni 1997.
-
-Lov nr. 350 af 23. maj 1997 (Skærpelse af straffen for særlig grov vold og for besiddelse af knive og slagvåben, sikkerhedsmæssige krav til restaurationers indretning m.v.)(* 13) indeholder følgende ikrafttrædelsesbestemmelse:
-
-§ 4
-
-Loven træder i kraft dagen efter bekendtgørelsen i Lovtidende.(* 14)
-
-Lov nr. 411 af 10. juni 1997 (Styrkelse af politiets muligheder for at efterforske alvorlig kriminalitet, konfiskation, øget vidnebeskyttelse og skærpelse af straffen for våbenbesiddelse m.v.)(* 15) indeholder følgende ikrafttrædelsesbestemmelse:
-
-§ 4
-
-Stk. 1. Lovens § 1, § 2, nr. 1, 2, 5, 6 og 7, og § 3 træder i kraft dagen efter bekendtgørelsen i Lovtidende.(* 16)
-
-Stk. 2. (Udelades)
-
-Lov nr. 412 af 10. juni 1997 (Grov miljøkriminalitet)(* 17)
-
-indeholder følgende ikrafttrædelsesbestemmelse:
+Lov nr. 440 af 31. maj 2000 (Maskeringsforbud) indeholder følgende ikrafttrædelsesbestemmelse:
 
 § 2
 
-Loven træder i kraft dagen efter bekendtgørelsen i Lovtidende.(* 18)
+Loven træder i kraft dagen efter bekendtgørelsen i Lovtidende.
+
+Lov nr. 441 af 31. maj 2000 (Forældelse, styrket indsats mod seksuelt misbrug af børn og unge samt IT-efterforskning) indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 3
+
+Stk. 1. Loven træder i kraft den 1. juli 2000.
+
+Stk. 2. De i § 1 nævnte bestemmelser i straffelovens § 94, stk. 4, og § 97, stk. 4 og 6, gælder også for lovovertrædelser, der er begået, og retsfølger, der er pålagt, før lovens ikrafttræden. Bestemmelserne finder dog ikke anvendelse i tilfælde, hvor forældelse efter de hidtidige regler er indtrådt før lovens ikrafttræden.

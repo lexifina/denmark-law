@@ -1,6 +1,8 @@
 Bekendtgørelse af straffeloven
 
-Herved bekendtgøres straffeloven, jf. lovbekendtgørelse nr. 886 af 30. oktober 1992 med de ændringer, der følger af lov nr. 366 af 18. maj 1994, lov nr. 367 af 18. maj 1994, lov nr. 369 af 18. maj 1994, lov nr. 431 af 1. juni 1994, lov nr. 1100 af 21. december 1994, lov nr. 309 af 17. maj 1995, lov nr. 388 af 22. maj 1996, lov nr. 474 af 12. juni 1996, lov nr. 274 af 15. april 1997, lov nr. 349 af 23. maj 1997, lov nr. 350 af 23. maj 1997, lov nr. 411 af 10. juni 1997 og lov nr. 412 af 10. juni 1997.
+Herved bekendtgøres straffeloven, jf. lovbekendtgørelse nr. 648 af 12. august 1997, med de ændringer, der følger af § 3 i lov nr. 403 af 26. juni 1998, § 3 i lov nr. 473 af 1. juli 1998, lov nr. 141 af 17. marts 1999, § 1 i lov nr. 228 af 4. april 2000, lov nr. 230 af 4. april 2000, § 4 i lov nr. 425 af 31. maj 2000, § 2 i lov nr. 428 af 31. maj 2000, lov nr. 438 af 31. maj 2000, lov nr. 440 af 31 maj 2000 og § 1 lov nr. 441 af 31. maj 2000.
+
+De ændringer, der følger af § 1 i lov nr. 433 af 31. maj 2000 om ændring af forskellige lovbestemmelser i forbindelse med gennemførelsen af en lov om fuldbyrdelse af straf m.v. (Ændringer som følge af straffuldbyrdelsesloven, afskaffelse af hæftestraffen og prøveløsladelse af livstidsdømte m.v.) er ikke indarbejdet i denne lovbekendtgørelse, da ændringerne først træder i kraft den 1. juli 2001, jf. lovens § 30.
 
 Almindelig del
 
