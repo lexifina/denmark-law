@@ -1,3 +1,3 @@
-Bekendtgørelse af lov om fremskyndet tilbagebetaling af visse afgifter
+Bekendtgørelse af lov om fremskyndet tilbagebetaling af visse afgifter (* 1)
 
-Herved bekendtgøres lov om fremskyndet tilbagebetaling af visse afgifter, jf. lovbekendtgørelse nr. 389 af 1. juli 1982, med de ændringer, der følger af § 1 i lov nr. 139 af 13. april 1983, § 20 i lov nr. 149 af 11. april 1984 og § 26 i lov nr. 925 af 19. december 1986
+Herved bekendtgøres lov om fremskyndet tilbagebetaling af visse afgifter, jf. lovbekendtgørelse nr. 628 af 20. oktober 1988, med de ændringer, der følger af § 26 i lov nr. 700 af 22. november 1988, § 25 i lov nr. 825 af 19. december 1989, § 7 i lov nr. 1035 af 19. december 1992 og § 22 i lov nr. 1073 af 23. december 1992.

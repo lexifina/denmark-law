@@ -1,0 +1,1 @@
+§ 5 b. (* 3) Reglerne om eftergivelse og henstand i merværdiafgiftslovens § 39 d finder tilsvarende anvendelse på afgifter, renter, gebyrer og administrative bøder efter denne lov. Reglerne finder ligeledes anvendelse på beløb, som personer er pligtige at betale som erstatning for selskabers manglende betaling af afgifterne.
