@@ -1,9 +1,9 @@
-Indenrigsministeriet, den 14. juni 1990
+Indenrigsministeriet, den 18. januar 2000
 
-Thor Pedersen
+Thorkild Simonsen
 
-/ Lauritz Hvidt
+/Pernille Christensen
 
-Ingen
+Bekendtgjort i Lovtidende den 19. juni 1981.
 
-Lovområder = Kommuner og amtskommuner
+Bekendtgjort i Lovtidende den 3. juni 1999.
