@@ -1,3 +1,3 @@
-Bekendtgørelse af lov om børns retsstilling
+Bekendtgørelse af lov om børns forsørgelse
 
-Herved bekendtgøres lov om børns retsstilling, jf. lovbekendtgørelse nr. 634 af 15. september 1986 med de ændringer, der følger af § 5 i lov nr. 209 af 5. april 1989, § 17 i lov nr. 389 af 7. juni 1989 og § 6 i lov nr. 396 af 13. juni 1990.
+Herved bekendtgøres lov om børns forsørgelse, jf. lovbekendtgørelse nr. 293 af 2. maj 1995, med de ændringer, der følger af § 11 i lov nr. 389 af 14. juni 1995, § 2 i lov nr. 966 af 20. december 1999 og § 37 i lov nr. 460 af 7. juni 2001.
