@@ -12,4 +12,8 @@ Stk. 4. Andelsboligforeningen skal med virkning fra 1. januar 1993 foretage en n
 
 § 3
 
-Loven træder i kraft den 1. januar 1993. (* 3)
+Loven træder i kraft den 1. januar 1993. (* 3) § 3 i lov nr. 1044 af 23. december 1992 er sålydende:
+
+§ 3
+
+Loven træder i kraft den 1. januar 1993. (* 4)
