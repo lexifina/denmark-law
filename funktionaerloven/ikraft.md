@@ -42,7 +42,7 @@ Loven træder i kraft den 1. juli 1996.
 
 Loven gælder ikke for Færøerne og Grønland.
 
-Lov nr. 340 af 2. juni 1999 om ændring af lov om retsforholdet mellem arbejdsgivere og funktionærer (Fuld løn til gravide funktionærer under sygdom, konkurrence- og kundeklausuler) inderholder følgende ikrafttrædelsesbestemmelser:
+Lov nr. 340 af 2. juni 1999 om ændring af lov om retsforholdet mellem arbejdsgivere og funktionærer (Fuld løn til gravide funktionærer under sygdom, konkurrence- og kundeklausuler) indeholder følgende ikrafttrædelsesbestemmelser:
 
 § 2
 
@@ -69,3 +69,17 @@ Lov nr. 132 af 20. marts 2002 om ændring af lov om retsforholdet mellem arbejds
 § 2
 
 Loven træder i kraft den 1. april 2002.
+
+Lov nr. 371 af 28. maj 2003 om ændring af lov om retsforholdet mellem arbejdsgivere og funktionærer (Gennemførelse af direktivet om tidsbegrænset ansættelse), som ændrer lovens §§ 1, 2, og 3, indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 2
+
+Loven træder i kraft den 1. juni 2003.
+
+Lov nr. 310 af 5. maj 2004 om ændring af lov om retsforholdet mellem arbejdsgivere og funktionærer (Brug af aktieoptioner m.v. i ansættelsesforhold), som ændrer lovens § 17a, stk. 2, indeholder følgende ikrafttrædelsesbestemmelser:
+
+§ 2
+
+Stk. 1. Loven træder i kraft den 1. juli 2004.
+
+Stk. 2. Loven finder anvendelse på ordninger eller aftaler, der er etableret før lovens ikrafttræden, for tildelinger, der sker efter lovens ikrafttræden.
