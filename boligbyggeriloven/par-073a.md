@@ -1,6 +1,6 @@
 § 73 a. Boligministeren kan på statskassens vegne i hvert af studieårene 1984/85-1989/90 yde tilskud til nedbringelse af lejen i kollegier, der i perioden fra 1. april 1946 til 31. marts 1982 har fået tilsagn om statsstøtte til opførelse efter byggestøtte-, kollegiestøtte- eller boligbyggerilovgivningen.
 
-Stk. 2. I hvert af studieårene 1984/85-1986/87 kan der gives tilsagn om tilskud på indtil 20 mill. kr. og indtil 22 mill. kr. i hvert af studieårene 1987/88-1989/90.
+Stk. 2. I hvert af studieårene 1984/85 - 1986/87 kan der gives tilsagn om tilskud på indtil 20 mill. kr. og indtil 22 mill. kr. i hvert af studieårene 1987/88-1989/90.
 
 Stk. 3. For hvert kollegium fastsættes et tilskud for studieåret 1984-85. Tilskuddet fastsættes under hensyntagen til antallet af boliger, disses størrelse og kvalitet samt de forventede driftsudgifters størrelse og art. Der ydes tilskud med samme beløb i studieårene 1985/86 og 1986/87. Herefter forhøjes det for kollegiet fastsatte tilskud for studieåret 1984/85 med 10 pct., og det forhøjede tilskud ydes med samme beløb i hvert af studieårene 1987/88-1989/90. Boligministeren fastsætter nærmere regler for tilskuddets beregning.
 

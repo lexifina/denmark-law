@@ -1,6 +1,6 @@
-Boligministeriet, den 18. august 1987
+Boligministeriet, den 26. maj 1988
 
-Thor Pedersen
+FLEMMING KOFOD-SVENDSEN
 
 /Hanne Victor Hansen
 
@@ -8,4 +8,4 @@ Thor Pedersen
 
 (* 2) Vedrører § 85, 1. pkt.
 
-(* 3) De hidtidige bestemmelser i §§ 81-83 a samt i § 85, 1. pkt. fremgår af Boligministeriets lovbekendtgørelse nr. 51 af 22. januar 1987.
+De hidtidige bestemmelser i §§ 81-83 a samt i § 85, 1. pkt. fremgår af Boligministeriets lovbekendtgørelse nr. 51 af 22. januar 1987.
