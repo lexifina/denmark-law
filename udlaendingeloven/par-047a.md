@@ -1,0 +1,1 @@
+§ 47 a. Indenrigsministeren kan fastsætte nærmere regler om, at politiet i helt særlige tilfælde kan udstede visum ved indrejsen i landet samt udstede tilbagerejsetilladelse til en udlænding, der lovligt opholder sig her i landet.
