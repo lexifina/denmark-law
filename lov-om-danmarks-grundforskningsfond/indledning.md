@@ -1,3 +1,3 @@
-Lov om Danmarks Grundforskningsfond (* 2)
+Bekendtgørelse af Lov om Danmarks Grundforskningsfond
 
-VI MARGRETHE DEN ANDEN, af Guds Nåde Danmarks Dronning, gør vitterligt: Folketinget har vedtaget og Vi ved Vort samtykke stadfæstet følgende lov:
+Herved bekendtgøres lov nr. 409 af 6. juni 1991 om Danmarks Grundforskningsfond, som ændret ved lov nr. 1091 af 29. december 1997.

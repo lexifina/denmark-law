@@ -1,7 +1,7 @@
-Givet på Christiansborg Slot, den 6. juni 1991
+Forskningsministeriet, den 23. februar 1998
 
-Under Vor Kongelige Hånd og Segl
+Jytte Hilden
 
-MARGRETHE R.
+/ Dan Jensen
 
-/ Knud Enggaard
+Ingen
