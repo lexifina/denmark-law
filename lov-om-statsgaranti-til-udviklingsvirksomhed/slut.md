@@ -1,11 +1,5 @@
-Givet på Christiansborg Slot, den 18. maj 1994
+Erhvervsministeriet, den 28. september 1998
 
-Under Vor Kongelige Hånd og Segl
+Pia Gjellerup
 
-I Dronningens Navn:
-
-FREDERIK
-
-Kronprins
-
-/ Mimi Jakobsen
+/Lars V. Kolte
