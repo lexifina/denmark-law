@@ -1,7 +1,7 @@
-Indenrigsministeriet, den 25. september 1987
+Indenrigsministeriet, den 6. oktober 1995
 
-THOR PEDERSEN
+Birte Weiss
 
-/Marius Ibsen
+/ Niels Jørgen Mau
 
 Ingen
