@@ -1,1 +1,1 @@
-§ 5 b. (Ophævet).
+§ 5 b. (Ophævet)

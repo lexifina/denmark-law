@@ -1,8 +1,8 @@
-§ 5 a
+§ 5 a.
 
-Stk. 1. (Ophævet).
+Stk. 1. (Ophævet)
 
-Stk. 2. (Ophævet).
+Stk. 2. (Ophævet)
 
 Stk. 3. Amtskommunen skal yde et beløb til dækning af det i § 16, stk. 1, nævnte indskud til
 

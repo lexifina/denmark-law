@@ -1,21 +1,23 @@
-Boligministeriet, den 26. februar 1998
+Økonomi- og Erhvervsministeriet, den 8. august 2002
 
-Ole Løvig Simonsen
+Bendt Bendtsen
 
-/ Anne Wallberg
+/Birthe Lehmann
 
-(* 1) Lovændringen vedrører § 18 a.
+Ved kongelig resolution af 27. november og 4. december 2001 er det hidtidige By- og Boligministerium nedlagt og de under dette ministerium hørende forretninger vedrørende lov om boliger for ældre og personer med handicap er overført til Økonomi- og Erhvervsministeriet.
 
-(* 2) Lovændringen vedrører § 16, § 23, stk. 2, og § 35. Bekendtgørelsen i lovtidende fandt sted den 28. april 1993.
+Lovændringen vedrører § 18 a.
 
-(* 3) Lovændringen vedrører §§ 6-9, §§ 16-16 b, §§ 21-21 b og § 29.
+Lovændringen vedrører § 16, § 23, stk. 2, og § 35. Bekendtgørelsen i Lovtidende fandt sted den 28. april 1993.
 
-(* 4) Lovændringen vedrører § 21. Bekendtgørelsen fandt sted i Lovtidende den 23. december 1993.
+Lovændringen vedrører §§ 69, §§ 16-16 b, §§ 21-21 b og § 29.
 
-(* 5) Bekendtgørelsen fandt sted i Lovtidende den 9. februar 1995.
+Lovændringen vedrører § 21. Bekendtgørelsen i Lovtidende fandt sted den 23. december 1993.
 
-(* 6) Bekendtgørelsen fandt sted i Lovtidende den 18. maj 1995.
+Bekendtgørelsen i Lovtidende fandt sted den 9. februar 1995.
 
-(* 7) Bekendtgørelsen fandt sted i Lovtidende den 3. april 1997
+Bekendtgørelsen i Lovtidende fandt sted den 18. maj 1995.
 
-(* 8) Stk. 2, 3 og 4 vedrører ikke byggeri omfattet af lov om boliger for ældre og personer med handicap.
+Bekendtgørelsen i Lovtidende fandt sted den 3. april 1997.
+
+Stk. 2, 3 og 4 vedrører ikke byggeri omfattet af lov om boliger for ældre og personer med handicap.
