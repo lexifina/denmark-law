@@ -1,5 +1,3 @@
 Bekendtgørelse af lov om Lønmodtagernes Garantifond
 
-(LG-loven)
-
-Herved bekendtgøres lov om Lønmodtagernes Garantifond, jfr. lovbekendtgørelse nr. 562 af 19. oktober 1982 med de ændringer, der følger af lov nr. 196 af 9. april 1986. Den bekendtgjorte lovtekst gælder først fuldt ud fra den 1. januar 1987, jfr. § 2 i lov nr. 196 af 9. april 1986, der gengives i bekendtgørelsens slutning.
+Herved bekendtgøres lov om Lønmodtagernes Garantifond, jf. lovbekendtgørelse nr. 704 af 9. oktober 1986 med de ændringer, der følger af lov nr. 880 af 23. december 1987. Den bekendtgjorte lovtekst gælder først fuldt ud fra den 1. januar 1989, jf. § 2 i lov nr. 880 af 23. december 1987, der gengives i bekendtgørelsens slutning.
