@@ -1,5 +1,5 @@
-Socialministeriet, den 21. august 2002
+Socialministeriet, den 28. januar 2004
 
-P.M.V. Finn Mortensen
+P.M.V. Thomas Børner
 
 /Aksel Meyer

@@ -1,3 +1,3 @@
 Bekendtgørelse af lov om social pension
 
-Herved bekendtgøres lov om social pension, jf. lovbekendtgørelse nr. 615 af 26. juni 2001 med de ændringer, der følger af § 1, nr. 1-31 og 33-49 i lov nr. 285 af 25. april 2001, § 1 i lov nr. 343 af 28. maj 2002, § 6 i lov nr. 365 af 6. juni 2002 og §§ 1 og 2 i lov nr. 403 af 6. juni 2002. Den bekendtgjorte lovtekst gælder først fuldt ud fra den 1. januar 2003, jf. § 6 i lov nr. 285 af 25. april 2001 og § 8 i lov nr. 403 af 6. juni 2002.
+Herved bekendtgøres lov om social pension, jf. lovbekendtgørelse nr. 697 af 21. august 2002 med de ændringer, der følger af § 3 i lov nr. 1065 af 17. december 2002 , § 2 i lov nr. 1072 af 17. december 2002 , lov nr. 1073 af 17. december 2002, § 14 i lov nr. 394 af 28. maj 2003, § 57 i lov nr. 1164 af 19. december 2003, § 1 i lov nr. 1165 af 19. december 2003 og lov nr. 1220 af 27. december 2003.
