@@ -1,6 +1,6 @@
-Bekendtgørelse af lov om teater
+Bekendtgørelse af teaterlov
 
-Herved bekendtgøres Teaterloven, jf. lovbekendtgørelse nr. 217 af 22. marts 1996, med de ændringer, der følger af lov nr. 366 af 2. juni 1999.
+Herved bekendtgøres Teaterloven, jf. lovbekendtgørelse nr. 749 af 23. september 1999, med de ændringer, der følger af lov nr. 1104 af 29. december 1999.
 
 ## Kapitel 1
 
