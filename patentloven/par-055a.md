@@ -1,0 +1,1 @@
+§ 55 a. Hvis et patent erklæres helt eller delvis ugyldigt, anses patentet, i det omfang det er blevet erklæret ugyldigt, allerede fra den dag, patentansøgningen blev indleveret, ikke at have haft de virkninger, der er angivet i § 3. Hvis et patent er begrænset på begæring af patenthaveren, har ændringen først virkning fra den dag, meddelelse herom bekendtgøres.
