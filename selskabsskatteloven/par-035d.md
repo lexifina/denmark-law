@@ -2,4 +2,4 @@
 
 Stk. 2. Har sparekassen forud for overgangsskatteåret været skattepligtig af fortjeneste ved afståelse af fast ejendom, jf. § 13, 3. punktum, i lov om særlig indkomstskat m.v., skal sparekassen ved afståelse af ejendommen endvidere beskattes af den forud for overgangsskatteåret efter disse regler indtrådte fortjeneste. Ved opgørelse af denne fortjeneste lægges det efter stk. 1 som anskaffelsesudgift anvendte beløb til grund som afståelsessum.
 
-Stk. 3. De beløb, der efter stk. 1 og 2 anvendes som anskaffelsessum eller afståelsessum, omregnes til kontantværdi efter regler, der fastsættes af Skatteministeren.
+Stk. 3. De beløb, der efter stk. 1 og 2 anvendes som anskaffelsessum eller afståelsessum, omregnes til kontantværdi efter regler, der fastsættes af skatteministeren.
