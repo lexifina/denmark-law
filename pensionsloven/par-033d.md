@@ -1,0 +1,5 @@
+§ 33 d. Beløb, som indbetales til Arbejdsmarkedets Tillægspension, godskrives særskilte konti og kan forvaltes sammen med midlerne i Den Særlige Pensionsopsparing, jf. kapitel 5 d i lov om Arbejdsmarkedets Tillægspension. Rentebestemmelsen i kapitel 5 c i lov om Arbejdsmarkedets Tillægspension vedrørende for sen indbetaling af bidrag kan tillige finde anvendelse. Socialministeren kan efter indstilling fra bestyrelsen for Arbejdsmarkedets Tillægspension fastsætte regler om den supplerende arbejdsmarkedspension i Arbejdsmarkedets Tillægspension, herunder om indbetaling, om udbetaling ved dødsfald og om erhvervelse af en livsvarig pensionsret i Arbejdsmarkedets Tillægspension.
+
+Stk. 2. Ved dødsfald før det fyldte 65. år, eller 67. år, hvis personen er født før den 1. juli 1939, udbetales indeståendet på kontoen i Arbejdsmarkedets Tillægspension til boet.
+
+Stk. 3. Når kontohaveren, der har indbetalt bidrag til den supplerende arbejdsmarkedspension i Arbejdsmarkedets Tillægspension, fylder 65 år, eller 67 år, hvis personen er født før den 1. juli 1939, anvendes indeståendet på kontoen til erhvervelse af livsvarig pensionsret i Arbejdsmarkedets Tillægspension.

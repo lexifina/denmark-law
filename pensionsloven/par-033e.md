@@ -1,0 +1,3 @@
+§ 33 e. Beløb, som indbetales til et livsforsikringsselskab eller en pensionskasse, skal anvendes til erhvervelse af en livsvarig pensionsret for førtidspensionsmodtageren. Den livsvarige pensionsret udbetales fra det 65. år eller fra det 67. år, hvis personen er født før den 1. juli 1939. Den supplerende arbejdsmarkedspension kan også anvendes til en specificeret forhøjelse af en eksisterende livsvarig pensionsret.
+
+Stk. 2. Ved dødsfald før det fyldte 65. år, eller 67. år, hvis personen er født før den 1. juli 1939, udbetales værdien af den erhvervede pensionsret i et livsforsikringsselskab eller en pensionskasse til boet eller til den begunstigede ifølge pensionsaftalen.
