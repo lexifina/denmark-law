@@ -1,0 +1,3 @@
+§ 46 a. En sortsejer, der ikke kan opnå eller udnytte en plantenyhedsbeskyttelse uden at krænke et ældre patent, kan ansøge om tvangslicens til udnyttelse af opfindelsen, hvis tvangslicensen er nødvendig for udnyttelsen af den sort, der skal nyhedsbeskyttes, og mod betaling af en rimelig licensafgift. Tvangslicens meddeles kun, hvis sortsejeren godtgør, at sorten udgør et vigtigt teknisk fremskridt af væsentlig økonomisk betydning i forhold til opfindelsen.
+
+Stk. 2. Har en patenthaver efter lov om plantenyheder fået tvangslicens til at udnytte en beskyttet plantenyhed, har sortsejeren ret til på rimelige vilkår at opnå gensidig licens til udnyttelse af opfindelsen.
