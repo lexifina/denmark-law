@@ -1,3 +1,3 @@
-Bekendtgørelse af lov om skibsmåling
+Bekendtgørelse af lov af lov om skibsmåling
 
-Herved bekendtgøres lov nr. 203 af 18. maj 1977 om skibsmåling med de ændringer, der følger af lov nr. 857 af 23. december 1987.
+Herved bekendtgøres lov om skibsmåling, jf. lovbekendtgørelse nr. 581 af 29. september 1988, med de ændringer, der følger lov nr. 1005 af 19. december 1992
