@@ -1,0 +1,1 @@
+§ 144 a. Kommissionens personale, tilkaldte sagkyndige og andre, der medvirker i en undersøgelse, som foretages af kommissionen, er under ansvar efter borgerlig straffelovs § 152 og § 264 b forpligtet til over for uvedkommende at hemmeligholde, hvad de bliver vidende om i forbindelse med undersøgelsen.

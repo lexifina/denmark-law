@@ -1,0 +1,3 @@
+§ 67 a. Projekter til anlæg, der uden for de for flyvepladser godkendte planers område agtes opført i en højde af 100 m eller mere over terræn, skal anmeldes til luftfartsvæsenet. Opførelsen af anlægget må ikke påbegyndes, før der af luftfartsvæsenet er udstedt attest om, at hindringen ikke skønnes at ville frembyde fare for lufttrafikkens sikkerhed.
+
+Stk. 2. Såfremt anlægget skønnes at ville frembyde fare for lufttrafikkens sikkerhed, skal sagen af luftfartsvæsenet forelægges for ministeren for offentlige arbejder, der træffer afgørelse om, hvorvidt attesten kan udstedes. Attesten kan betinges af, at hindringen afmærkes eller dens højde nedsættes, og at udgiften herved afholdes af ejeren eller brugeren.

@@ -1,0 +1,1 @@
+§ 40 c. I virksomheder med 1-4 ansatte, der gør tjeneste som besætningsmedlemmer på luftfartøj, skal virksomhedens arbejde for arbejdsmiljø under denne tjeneste udføres ved personlig kontakt mellem arbejdsgiveren og de ansatte besætningsmedlemmer.

@@ -1,0 +1,1 @@
+§ 40 b. En arbejdsgiver skal sørge for, at de arbejdsmiljømæssige forhold under tjeneste på luftfartøj er fuldt forsvarlige, og for, at der føres effektivt tilsyn med, at arbejdet udføres på forsvarlig måde.

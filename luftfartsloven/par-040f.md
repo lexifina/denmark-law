@@ -1,0 +1,1 @@
+§ 40 f. Luftfartsvæsenet skal ved besøg i virksomheden træde i forbindelse med vedkommende sikkerhedsrepræsentanter og repræsentanter for sikkerhedsudvalget. Disse har fri adgang til at forelægge spørgsmål af arbejdsmiljømæssig art for luftfartsvæsenet.

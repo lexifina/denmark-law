@@ -1,0 +1,1 @@
+§ 150 c. Reglerne i kapitel 93 a i lov om rettens pleje finder anvendelse på krav om erstatning for frakendelse eller inddragelse af retten til at gøre tjeneste på et luftfartøj i anledning af strafforfølgning.

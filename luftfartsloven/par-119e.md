@@ -1,0 +1,1 @@
+§ 119 e. Summen af de erstatningsbeløb, som pålægges de to befordrere og deres folk, må ikke overstige det højeste erstatningsbeløb, som kan pålægges en af befordrerne. Hver enkelt er kun ansvarlig indtil den ansvarsgrænse, der gælder for ham.
