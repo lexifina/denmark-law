@@ -1,13 +1,7 @@
-Givet på Christiansborg Slot, den 7. december 1988
+Indenrigsministeriet, den 4. marts 1994
 
-Under Vor Kongelige Hånd og Segl
+Birte Weiss
 
-I Dronningens Navn:
+/ Anne Birte Pade
 
-FREDERIK
-
-Kronprins
-
-/Thor Pedersen
-
-Ingen
+(* 1) Loven indeholder bestemmelser, der gennemfører Rådets direktiv nr. 93/109/EF, EF-Tidende 1993 L 329, s. 34.

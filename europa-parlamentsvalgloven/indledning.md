@@ -1,5 +1,3 @@
-Lov om valg af danske repræsentanter til Europa-Parlamentet
+Bekendtgørelse af lov om valg af danske repræsentanter til Europa-Parlamentet (* 1)
 
-(De Europæiske Fællesskabers Forsamling)
-
-VI MARGRETHE DEN ANDEN, af Guds Nåde Danmarks Dronning, gør vitterligt: Folketinget har vedtaget og Vi ved Vort samtykke stadfæstet følgende lov:
+Herved bekendtgøres lov om valg af danske repræsentanter til Europa-Parlamentet, jf. lov nr. 746 af 7. december 1988 med de ændringer, der følger af lov nr. 1086 af 22. december 1993.
