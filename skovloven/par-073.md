@@ -1,0 +1,1 @@
+§ 73. Loven gælder ikke for Færøerne og Grønland.
