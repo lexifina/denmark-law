@@ -1,3 +1,3 @@
 Bekendtgørelse af lov om vægtafgift af motorkøretøjer m.v.
 
-Herved bekendtgøres lov om vægtafgift af motorkøretøjer m.v., jf. lovbekendtgørelse nr. 100 af 10. februar 1995 med de ændringer, der følger af § 1 i bekendtgørelse nr. 883 af 20. november 1995, § 1 i lov nr. 1093 af 20. december 1995 og § 2 i lov nr. 226 af 27. marts 1996.
+Hermed bekendtgøres lov om vægtafgift af motorkøretøjer m.v., jf. lovbekendtgørelse nr. 817 af 12. september 1996, med de ændringer, der følger af § 2 i lov nr .1213 af 27. december 1996, § 2 i lov nr. 361 af 2. juni 1997, § 2 i lov nr. 363 af 2. juni 1997, § 1 i bekendtgørelse nr. 826 af 5. november 1997, § 1 i bekendtgørelse nr. 992 af 15. december 1997, § 2 i lov nr. 979 af 17. december 1997, § 23 i lov nr. 980 af 17. december 1997 og § 1 i lov nr. 81 af 9. februar 1998.
