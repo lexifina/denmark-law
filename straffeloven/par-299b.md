@@ -1,0 +1,1 @@
+§ 299 b. Den, der for derigennem at skaffe sig eller andre uberettiget vinding eller som i øvrigt under særligt skærpende omstændigheder gør sig skyldig i ophavsretskrænkelser af særlig grov karakter, jf. ophavsretslovens § 76, stk. 2, eller ulovlig import af særlig grov karakter, jf. ophavsretslovens § 77, stk. 2, straffes med fængsel indtil 6 år.
