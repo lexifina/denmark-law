@@ -1,9 +1,5 @@
-Givet på Amalienborg, den 20. december 1989
+Socialministeriet, den 23. juni 1994
 
-Under Vor Kongelige Hånd og Segl
+Yvonne Herløv Andersen
 
-MARGRETHE R.
-
-/ Aase Olesen
-
-Ingen
+/ Birthe Frederiksen
