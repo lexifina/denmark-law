@@ -1,3 +1,7 @@
+## Kapitel 4 A
+
+## Arbejdsmiljø under tjeneste på luftfartøj
+
 § 40 a. Reglerne i dette kapitel omfatter arbejde for en arbejdsgiver udført af besætningsmedlemmer under tjeneste på luftfartøj.
 
 Stk. 2. Reglerne har til formål at skabe grundlag for et sikkert og sundt arbejdsmiljø i det omfang, dette formål ikke er varetaget ved andre regler fastsat i henhold til denne lov.

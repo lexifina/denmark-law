@@ -3,7 +3,3 @@
 Stk. 2. Arbejdstilsynet og luftfartsvæsenet deltager i rådets arbejde og møder med hver en repræsentant uden stemmeret.
 
 Stk. 3. Trafikministeren fastsætter i fornødent omfang nærmere regler for rådets virke og finansiering.
-
-## Kapitel 5
-
-Luftfartøjschefen og tjenesten om bord

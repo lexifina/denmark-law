@@ -1,12 +1,14 @@
+1) De nedenfor anførte ændringer af §§ 54 og 71, der følger af § 1, nr. 2-5, i lov nr. 1114 af 29. december 1997 (Eurocontrolkonventionen), og som trafikministeren ifølge lovens § 2, stk. 2, fastsætter tidspunktet for ikrafttræden af, er endnu ikke sat i kraft, og er derfor ikke indarbejdet i lovbekendtgørelsens tekst, idet tidspunktet for ikrafttræden af den reviderede Eurocontrolkonvention ikke kendes.
+
 § 1
 
-2. I § 54 indsættes som stk. 2 og 3:
+2. I § 54 indsættes som stk. 2 og 3 :
 
 »Stk. 2. Trafikministeren kan fastsætte de forskrifter, som er nødvendige for at gennemføre de beslutninger, som Eurocontrol i medfør af Eurocontrolkonventionen træffer for driften af et fælles europæisk lufttrafrikreguleringssystem.
 
 Stk. 3. Beføjelser, som efter grundloven tilkommer rigets myndigheder kan i det omfang, der er fastsat i artikel 19, stk. 1, i den reviderede konvention, Den Internationale Eurocontrolkonvention af 13. december 1960 vedrørende samarbejde om luftfartens sikkerhed med senere ændringer, udøves af den i bestemmelsen nævnte institution.«
 
-3. § 71, stk. 2, 3. og 4. pkt., affattes således:
+3. § 71, stk. 2, 3. og 4. pkt. , affattes således:
 
 »Afgiften påhviler ejeren og brugeren af såvel danske som udenlandske luftfartøjer ved flyvning i det område, hvor hjælpemidler kan benyttes. Ejeren og brugeren hæfter solidarisk for afgiftens betaling.«
 
@@ -16,17 +18,21 @@ Stk. 3. Beføjelser, som efter grundloven tilkommer rigets myndigheder kan i det
 
 Stk. 3-5 bliver hefter stk. 4-6.
 
-5. § 71, stk. 4, der bliver stk. 5, affattes således:
+5. § 71, stk. 4 , der bliver stk. 5, affattes således:
 
 »Stk. 5. Trafikministeren kan fastsætte regler om opkrævning og inddrivelse af afgifterne, herunder at danske myndigheder, i det omfang det følger af Annex IV til Eurocontrolkonventionen, yder bistand til inddrivelse af Eurocontrols udestående afgifter.«
 
-Jf. lovbekendtgørelse nr. 620 af 15. september 1986, som ændret ved § 14 i lov nr. 396 af 13. juni 1990, ved lov nr. 1088 af 23. december 1992 samt ved § 13 i lov nr. 1082 af 20. december 1995. Rådets forordning (EF) nr. 2027/97 af 9. oktober 1997 om luftfartsselskabers erstatningsansvar i tilfælde af ulykker har forrang for bestemmelserne i kapitel 9. Forordningen gælder for EF-luftfartsselskabers erstatningsansvar for personskade i tilfælde af ulykker om bord i et luftfartøj eller i forbindelse med ind- eller udstigning. Et EF-luftfartsselskab er et luftfartsselskab med en gyldig licens udstedt af en medlemsstat i overensstemmelse med bestemmelserne i forordning (EØF) nr. 2407/92. Denne version af luftfartslovens kapitel 9 gælder derfor kun på områder, der ikke omfattes af Rådets forordning nr. 2027/97, og i øvrigt indtil videre kun for indenrigs luftbefordring, hvor mellemlanding uden for riget ikke er aftalt, samt for anden luftbefordring, som ikke er omfattet af Warszawa-konventionen i nogen af dens affattelser, jf. note 4. Kapitel 9 i lovbekendtgørelse nr. 408 af 11. september 1985 gælder indtil videre for luftbefordring, der ikke omfattes af Rådets forordning nr. 2027/97, jf. note 3, men som er omfattet af Warszawa-konventionen i en af dens affattelser. Kapitlet har følgende ordlyd:
+2) Jf. lovbekendtgørelse nr. 620 af 15. september 1986, som ændret ved § 14 i lov nr. 396 af 13. juni 1990, ved lov nr. 1088 af 23. december 1992 samt ved § 13 i lov nr. 1082 af 20. december 1995.
 
-Kapitel 9
+3) Rådets forordning (EF) nr. 2027/97 af 9. oktober 1997 om luftfartsselskabers erstatningsansvar i tilfælde af ulykker har forrang for bestemmelserne i kapitel 9. Forordningen gælder for EF-luftfartsselskabers erstatningsansvar for personskade i tilfælde af ulykker om bord i et luftfartøj eller i forbindelse med ind- eller udstigning. Et EF-luftfartsselskab er et luftfartsselskab med en gyldig licens udstedt af en medlemsstat i overensstemmelse med bestemmelserne i forordning (EØF) nr. 2407/92. Denne version af luftfartslovens kapitel 9 gælder derfor kun på områder, der ikke omfattes af Rådets forordning nr. 2027/97, og i øvrigt indtil videre kun for indenrigs luftbefordring, hvor mellemlanding uden for riget ikke er aftalt, samt for anden luftbefordring, som ikke er omfattet af Warszawa-konventionen i nogen af dens affattelser, jf. note 4.
 
-Befordring med luftfartøj
+Kapitel 9 i lovbekendtgørelse nr. 408 af 11. september 1985 gælder indtil videre for luftbefordring, der ikke omfattes af Rådets forordning nr. 2027/97, jf. note 3, men som er omfattet af Warszawa-konventionen i en af dens affattelser. Kapitlet har følgende ordlyd:
 
-Anvendelsesområde
+## Kapitel 9
+
+## Befordring med luftfartøj
+
+## Anvendelsesområde
 
 § 90. Bestemmelserne i dette kapitel gælder befordring med luftfartøj af passagerer, rejsegods eller gods, når befordringen udføres mod betaling. Udføres befordringen af et lufttrafikforetagende, kommer loven ligeledes til anvendelse, selv om befordringen er vederlagsfri.
 
@@ -34,7 +40,7 @@ Anvendelsesområde
 
 Stk. 2. Bestemmelserne om befordringsdokumenter i §§ 92-98 finder ikke anvendelse på befordring, der udføres under usædvanlige forhold og falder uden for normal udøvelse af luftfartsvirksomhed.
 
-Befordringsdokumenter
+## Befordringsdokumenter
 
 § 92. Ved befordring af passagerer skal der udstedes billet, der skal indeholde angivelse af:
 
@@ -92,7 +98,7 @@ c) at befordringen kan være underkastet Warszawa-konventionen eller en lov af t
 
 Stk. 2. Luftfragtbrevets angivelse af godsets vægt, dimensioner, indpakning og stykketal anses som rigtige, hvis ikke andet bevises. Andre oplysninger i luftfragtbrevet om godsets mængde, rumindhold eller om dets tilstand gælder derimod ikke som bevis mod befordreren, medmindre denne i afsenderens nærværelse har undersøgt rigtigheden af disse og har bekræftet dette ved påtegning på luftfragtbrevet, eller angivelsen angår godsets synlige tilstand.
 
-Ret til at råde over godset og udlevering af godset
+## Ret til at råde over godset og udlevering af godset
 
 § 101. Mod opfyldelse af sine forpligtelser efter befordringsaftalen kan afsenderen, såfremt det kan ske uden skade for befordreren eller andre afsendere, råde over godset ved at tage det tilbage på afgangs- eller bestemmelsesflyvepladsen, standse det i tilfælde af landing undervejs, lade det udlevere på bestemmelsesstedet eller undervejs til en anden end den i luftfragtbrevet angivne modtager eller kræve det tilbagesendt til afgangsflyvepladsen. Afsenderen skal dog erstatte de dermed forbundne omkostninger. Kan afsenderens ordre ikke udføres, skal befordreren straks underrette ham herom.
 
@@ -112,7 +118,7 @@ Stk. 2. Befordreren skal, så snart godset er kommet frem, underrette modtageren
 
 Stk. 2. Befordreren er ikke pligtig at undersøge, om disse oplysninger og dokumenter er rigtige eller fuldstændige.
 
-Befordrerens ansvar
+## Befordrerens ansvar
 
 § 106. Bliver en passager dræbt, eller lider han skade på legeme eller helbred som følge af en begivenhed, der er indtruffet om bord i et luftfartøj eller under indstigning eller udstigning, er befordreren ansvarlig derfor.
 
@@ -166,9 +172,9 @@ Stk. 2. I tilfælde af, at befordringen omfattes af Warszawa-konventionen, kan e
 
 Stk. 2. Ved befordring af indskrevet rejsegods eller gods kan afsenderen tillige holde sig til den første befordrer og den til dets udlevering berettigede til den sidste, selv om skaden eller forsinkelsen er indtruffet, medens godset var i en anden befordrers varetægt. Er herefter to befordrere ansvarlige, hæfter de solidarisk.
 
-Befordring, der udføres af en anden befordrer end den, der har indgået befordringsaftalen
+## Befordring, der udføres af en anden befordrer end den, der har indgået befordringsaftalen
 
-§ 119 b. Bestemmelserne i §§ 119 b-119 f gælder, hvor befordringen helt eller delvis udføres af en anden befordrer end den, der har indgået befordringsaftalen, medmindre det bevises, at dette er sket uden sidstnævntes samtykke.
+§ 119 b. Bestemmelserne i §§ 119 b- 119 f gælder, hvor befordringen helt eller delvis udføres af en anden befordrer end den, der har indgået befordringsaftalen, medmindre det bevises, at dette er sket uden sidstnævntes samtykke.
 
 Stk. 2. Bestemmelserne i § 119 c, § 119 e og § 119 f gælder kun den del af befordringen, der udføres af en anden befordrer end den, der har indgået befordringsaftalen.
 
@@ -186,13 +192,13 @@ Stk. 2. Har den befordrer, der har indgået befordringsaftalen, påtaget sig for
 
 Stk. 2. Sagsøges en af befordrerne, og vil han, dersom han taber sagen, rejse krav mod den anden befordrer, kan han tilstævne denne uden hensyn til de almindelige regler om værneting for at gøre kravet gældende over for ham under sagen. Bestemmelserne i retsplejelovens kapitel 34 finder tilsvarende anvendelse.
 
-Sammensat befordring
+## Sammensat befordring
 
 § 120. Udføres befordringen delvis med luftfartøj og delvis med andet befordringsmiddel, gælder lovens bestemmelser kun luftbefordringen.
 
 Stk. 2. Vilkårene for de andre befordringsmåder kan optages i luftbefordringsdokumentet.
 
-Andre bestemmelser
+## Andre bestemmelser
 
 § 121. Ugyldige er forbehold i befordringsaftalen og aftaler forud for skaden, hvorved parterne fraviger bestemmelserne om den lov, der skal anvendes, eller om værnetinget.
 
@@ -208,7 +214,7 @@ Stk. 2. Ved international luftbefordring, som falder uden for Warszawa-konventio
 
 § 125. Bestemmelserne i dette kapitel finder ikke anvendelse på international luftbefordring, som udføres i henhold til reservation foretaget i overensstemmelse med tillægsprotokol til artikel 2 i Warszawa-konventionen af 12. oktober 1929 eller med artikel XXVI i Haag-protokollen af 28. september 1955.
 
-§ 126. Så længe Warszawa-konventionen af 12. oktober 1929 er gældende i forholdet mellem Danmark og andre stater, som har tilsluttet sig denne overenskomst, men som ikke har ratificeret eller tiltrådt Haag-protokollen af 28. september 1955, skal dog de i lov nr. 123 af 7. maj 1937 om befordring med luftfartøj indeholdte bestemmelser fortsat have gyldighed for befordringsaftaler, som afsluttes efter nærværende lovs ikrafttræden, og som falder ind under Warszawa-konventionen af 12. oktober 1929. Bestemmelserne i § 114 finder tilsvarende anvendelse i de nævnte tilfælde. Det samme gælder bestemmelserne i §§ 119 a-119 f og § 121, stk. 2, 2. og 3. punktum. Endvidere finder bestemmelserne i § 112, stk. 2, anvendelse, for så vidt angår befordring, der udføres af en anden befordrer end den, der har indgået befordringsaftalen. Henvisningerne i § 114 og §§ 119 a-119 f til bestemmelserne i kapitel 9 gælder i stedet de tilsvarende bestemmelser i lov nr. 123 af 7. maj 1937.
+§ 126. Så længe Warszawa-konventionen af 12. oktober 1929 er gældende i forholdet mellem Danmark og andre stater, som har tilsluttet sig denne overenskomst, men som ikke har ratificeret eller tiltrådt Haag-protokollen af 28. september 1955, skal dog de i lov nr. 123 af 7. maj 1937 om befordring med luftfartøj indeholdte bestemmelser fortsat have gyldighed for befordringsaftaler, som afsluttes efter nærværende lovs ikrafttræden, og som falder ind under Warszawa-konventionen af 12. oktober 1929. Bestemmelserne i § 114 finder tilsvarende anvendelse i de nævnte tilfælde. Det samme gælder bestemmelserne i §§ 119 a- 119 f og § 121, stk. 2, 2. og 3. punktum. Endvidere finder bestemmelserne i § 112, stk. 2, anvendelse, for så vidt angår befordring, der udføres af en anden befordrer end den, der har indgået befordringsaftalen. Henvisningerne i § 114 og §§ 119 a- 119 f til bestemmelserne i kapitel 9 gælder i stedet de tilsvarende bestemmelser i lov nr. 123 af 7. maj 1937.
 
 Stk. 2. For de befordringsaftaler, der omhandles i stk. 1, 1. punktum, gælder følgende ansvarsbegrænsninger i stedet for dem, der er angivet i § 22 i lov nr. 123 af 7. maj 1937:
 
@@ -222,14 +228,14 @@ Stk. 3. Ved SDR forstås den i § 111, stk. 5, omhandlede regningsenhed.
 
 Stk. 4. Ved befordring af passagerer, udført af dansk lufttrafikforetagende, gælder dog § 111 a.
 
-§ 126 a. Bestemmelserne i §§ 119 a-119 f, § 121, stk. 2, 2. og 3. punktum, og § 126, 3. og 4. punktum**), gælder kun i det omfang, de er forenelige med traktatmæssige forpligtelser over for stater, der ikke har ratificeret eller tiltrådt Guadalajara-konventionen af 18. september 1961 om international luftbefordring, der udføres af en anden befordrer end den, der har indgået befordringsaftalen.
+§ 126 a. Bestemmelserne i §§ 119 a- 119 f, § 121, stk. 2, 2. og 3. punktum, og § 126, 3. og 4. punktum**), gælder kun i det omfang, de er forenelige med traktatmæssige forpligtelser over for stater, der ikke har ratificeret eller tiltrådt Guadalajara-konventionen af 18. september 1961 om international luftbefordring, der udføres af en anden befordrer end den, der har indgået befordringsaftalen.
 
-For Grønland gælder loven som gengivet i lovbekendtgørelse nr. 408 af 11. september 1985 som ændret ved lov nr. 117 af 11. marts 1987, lov nr. 429 af 13. juni 1990, lov nr. 837 af 18. december 1991, lov nr. 1087 af 23. december 1992, lov nr. 328 af 14. maj 1997, lov nr. 1114 af 29. december 1997 og lov nr. 346 af 17. maj 2000. Jf. lov nr. 182 af 26. maj 1972 for Grønland om ekspropriation som ændret ved lov nr. 1013 af 19. december 1992. Loven som gengivet i lovbekendtgørelse nr. 408 af 11. september 1985, som ændret ved lov nr. 117 af 11. marts 1987, er sat i kraft for Færøerne henholdsvis ved anordning nr. 130 af 3. marts 1989 og anordning nr. 573 af 9. august 1990 med ændringer som angivet i anordningerne.
+5) For Grønland gælder loven som gengivet i lovbekendtgørelse nr. 408 af 11. september 1985 som ændret ved lov nr. 117 af 11. marts 1987, lov nr. 429 af 13. juni 1990, lov nr. 837 af 18. december 1991, lov nr. 1087 af 23. december 1992, lov nr. 328 af 14. maj 1997, lov nr. 1114 af 29. december 1997, lov nr. 346 af 17. maj 2000 og lov nr. 340 af 16. maj 2001.
 
-*)
+6) Jf. lov nr. 182 af 26. maj 1972 for Grønland om ekspropriation som ændret ved lov nr. 1013 af 19. december 1992.
 
-For sådan indenrigs luftfart gælder nu § 123 i den version af kapitel 9, der omhandles i note 4.
+7) Loven som gengivet i lovbekendtgørelse nr. 408 af 11. september 1985, som ændret ved lov nr. 117 af 11. marts 1987, er sat i kraft for Færøerne henholdsvis ved anordning nr. 130 af 3. marts 1989 og anordning nr. 573 af 9. august 1990 med ændringer som angivet i anordningerne.
 
-**)
+*) For sådan indenrigs luftfart gælder nu § 123 i den version af kapitel 9, der omhandles i note 4.
 
-Henvisningen til § 126, 3. og 4. punktum, gælder § 126, stk. 1.
+**) Henvisningen til § 126, 3. og 4. punktum, gælder § 126, stk. 1.
