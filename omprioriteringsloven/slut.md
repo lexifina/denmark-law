@@ -1,13 +1,5 @@
-Givet på Christiansborg Slot, den 27. april 1994
+Socialministeriet, den 2. februar 2005
 
-Under Vor Kongelige Hånd og Segl
+P.M.V Thomas Børner
 
-I Dronningens Navn:
-
-FREDERIK
-
-Kronprins
-
-/Flemming Kofod-Svendsen
-
-Ingen
+/Aksel Meyer
