@@ -1,6 +1,6 @@
-Justitsministeriet, den 30. september 2003
+Justitsministeriet, den 21. september 2004
 
-Brian Mikkelsen
+Lene Espersen
 
 /Anne Kristine Axelsson
 
@@ -8,7 +8,7 @@ Bilag 1
 
 ## Indholdsfortegnelse
 
-## Almindelig del
+Almindelig del
 
 1. | kapitel | Indledende bestemmelser | §§ | 1 | - | 2
 
@@ -28,7 +28,7 @@ Bilag 1
 
 9. | kapitel | Andre retsfølger af den strafbare handling | §§ | 68 | - | 79
 
-10. | kapitel | Straffens fastsættelse | §§ | 80 | - | 91
+10. | kapitel | Straffens fastsættelse | §§ | 80 | - | 89 a
 
 11. | kapitel | Ophør af den strafbare handlings retsfølger | §§ | 92 | - | 97 c
 
@@ -38,15 +38,15 @@ Særlig del
 
 13. | kapitel | Forbrydelser mod statsforfatningen og de øverste statsmyndigheder m.v. | §§ | 111 | - | 118 a
 
-14. | kapitel | Forbrydelser mod den offentlige myndighed m.v. | §§ | 119 | - | 132 a
+14. | kapitel | Forbrydelser mod den offentlige myndighed mv. | §§ | 119 | - | 132 a
 
-15. | kapitel | Forbrydelser mod den offentlige orden og fred | §§ | 133 | - | 143
+15. | kapitel | Forbrydelser mod den offentlige orden og fred | §§ | 133 | - | 142
 
 16. | kapitel | Forbrydelser i offentlig tjeneste eller hverv m.v. | §§ | 144 | - | 157
 
 17. | kapitel | Falsk forklaring og falsk anklage | §§ | 158 | - | 165
 
-18. | kapitel | Forbrydelser vedrørende penge | §§ | 166 | - | 170
+18. | kapitel | Forbrydelser vedrørende betalingsmidler | §§ | 166 | - | 170
 
 19. | kapitel | Forbrydelser vedrørende bevismidler | §§ | 171 | - | 179
 
@@ -54,7 +54,7 @@ Særlig del
 
 21. | kapitel | Forskellige almenskadelige handlinger | §§ | 193 | - | 196
 
-22. | kapitel | Betleri og skadelig erhvervsvirksomhed | §§ | 197 | - | 206
+22. | kapitel | Betleri og skadelig erhvervsvirksomhed | §§ | 197 | - | 204
 
 23. | kapitel | Forbrydelser i familieforhold | §§ | 208 | - | 215
 
@@ -64,7 +64,7 @@ Særlig del
 
 26. | kapitel | Forbrydelser mod den personlige frihed | §§ | 260 | - | 262 a
 
-27. | kapitel | Freds- og ærekrænkelser | §§ | 263 | - | 275 a
+27. | kapitel | Freds- og ærekrænkelser | §§ | 263 | - | 275
 
 28. | kapitel | Formueforbrydelser | §§ | 276 | - | 305
 
