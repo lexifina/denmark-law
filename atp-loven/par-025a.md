@@ -1,5 +1,9 @@
-§ 25 a. Repræsentantskabet og bestyrelsen bør så vidt muligt have en afbalanceret sammensætning af mænd og kvinder.
+§ 25 a. For hvert regnskabsår udarbejder bestyrelse og direktør et årsregnskab bestående af balance, resultatopgørelse, noter og femårsoversigt. Der udarbejdes endvidere årsberetning. Disse dele udgør en helhed.
 
-Stk. 2. Når der skal indstilles medlemmer efter § 21, stk. 2 og 3, og § 23, stk. 1, skal der indstilles både en mand og en kvinde. Hvis der skal indstilles flere medlemmer, skal der indstilles lige mange mænd og kvinder. Skal der indstilles et ulige antal, skal der indstilles en mere af det ene køn end af det andet. Organisationerne angiver i deres indstillinger, hvem de foretrækker, og arbejdsministeren skal følge denne indstilling, medmindre repræsentantskabet eller bestyrelsen derved ville få en kønsmæssigt skæv sammensætning. I så fald er arbejdsministeren berettiget til blandt de indstillede at udpege andre, således at repræsentantskabet og bestyrelsen så vidt muligt får en afbalanceret sammensætning af mænd og kvinder. Arbejdsministeren afgør, hvem af de indstillede der skal udpeges som medlem af repræsentantskabet og bestyrelsen.
+Stk. 2. Årsregnskab og årsberetning samt et eventuelt koncernregnskab underskrives af direktøren og bestyrelsen. Mener direktøren eller et bestyrelsesmedlem, at årsregnskabet eller årsberetningen ikke bør godkendes, eller har vedkommende andre indvendinger mod disse eller mod et eventuelt koncernregnskab, som vedkommende ønsker at gøre repræsentantskabet bekendt med, skal vedkommende gøre rede herfor i sin påtegning.
 
-Stk. 3. Foreligger der særlige grunde, kan myndigheden eller organisationen fravige bestemmelsen i stk. 2. Myndigheden eller organisationen skal i så fald angive begrundelsen herfor.
+Stk. 3. Regnskabsåret følger kalenderåret. Dette krav er tillige gældende for eventuelle datterselskaber.
+
+Stk. 4. Senest 10 dage efter repræsentantskabets godkendelse af årsregnskabet i henhold til § 22, stk. 1, dog senest 6 måneder efter regnskabsårets udløb, indsendes det reviderede og godkendte årsregnskab samt udskrift af revisionsprotokollen vedrørende årsregnskabets revision til Arbejdsministeriet og Finanstilsynet.
+
+Stk. 5. Opfylder årsregnskabet ikke lovgivningens forskrifter eller vedtægterne for Arbejdsmarkedets Tillægspension, kan Finanstilsynet kræve regnskabet ændret og forelagt til fornyet behandling hos repræsentantskabet.'

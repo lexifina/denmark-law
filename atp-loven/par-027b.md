@@ -1,0 +1,1 @@
+§ 27 b. Finanstilsynet er berettiget til at afkræve Arbejdsmarkedets Tillægspension enhver oplysning, som Finanstilsynet anser for fornøden. Finanstilsynet skal til enhver tid have adgang til at gøre sig bekendt med institutionens bøger, regnskaber og hele virksomhed.
