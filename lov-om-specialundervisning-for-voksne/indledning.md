@@ -1,3 +1,3 @@
-Bekendtgørelse af lov om specialundervisning for voksne (* 1)
+Bekendtgørelse af lov om specialundervisning for voksne og læsekurser for voksne
 
-Herved bekendtgøres lov om specialundervisning for voksne, jf. lovbekendtgørelse nr. 256 af 4. maj 1987, med de ændringer, der følger af lov nr. 280 af 8. maj 1991.
+Hermed bekendtgøres lov om specialundervisning for voksne og læsekurser for voksne, jf. lovbekendtgørelse nr. 473 af 20. juni 1991, med de ændringer, der følger af § 8 i lov nr. 208 af 28. april 1993 samt af lov nr. 320 af 17. maj 1995.
