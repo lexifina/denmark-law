@@ -1,0 +1,5 @@
+§ 2 b. Undervisningsministeren eller den institution, undervisningsministeren har bemyndiget hertil efter § 7, skal rådgive kommuner og andre myndigheder, der er ansvarlige for integration af udlændinge, om, hvilken form for afklaring af uddannelseskvalifikationer m.v. det vil være relevant at gennemføre i forhold til den enkelte udlænding.
+
+## Kapitel 3
+
+Vurderingens karakter
