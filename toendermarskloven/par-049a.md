@@ -1,0 +1,1 @@
+§ 49 a. Miljøministeren kan fastsætte regler om gebyrer til hel eller delvis dækning af myndighedernes omkostninger ved administration af loven.
