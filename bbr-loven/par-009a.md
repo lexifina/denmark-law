@@ -7,3 +7,5 @@ Stk. 3. Afgørelser, som kan påklages, skal indeholde oplysning om, til hvilken
 Stk. 4. Klage over en beslutning fritager ikke klageren for at efterkomme denne. Klagemyndigheden kan dog bestemme, at klagen skal have opsættende virkning.
 
 Stk. 5. Afgørelser, der kan påklages efter stk. 1, kan ikke indbringes for domstolene, før klageadgangen er udnyttet. Søgsmål skal være anlagt inden 6 måneder efter, at klagemyndighedens afgørelse er meddelt.
+
+Stk. 6. Henlægger økonomi- og erhvervsministeren sine beføjelser efter loven til Erhvervs- og Byggestyrelsen, kan ministeren fastsætte regler om klageadgang, herunder at klager ikke kan indbringes for anden administrativ myndighed.
