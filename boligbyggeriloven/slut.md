@@ -1,10 +1,12 @@
-Boligministeriet, den 3. februar 1986
+Boligministeriet, den 22. januar 1987
 
-NIELS BOLLMANN
+Thor Pedersen
 
-/Hanne Victor Hansen Bilag
+/Hanne Victor Hansen
 
-Uddrag af bekendtgørelse nr. 432 af 13. juli 1982 af lov om boligbyggeri (* 8)
+BILAG
+
+Uddrag af bekendtgørelse nr. 432 af 13. juli 1982 af lov om boligbyggeri*)
 
 Stk. 2. Lånene anses for optaget på tidspunktet for obligationernes afhændelse.
 
@@ -22,20 +24,12 @@ Stk. 2. Det er en betingelse for statens overtagelse af garanti, at vedkommende 
 
 Stk. 2. Kommunalbestyrelsen kan påtage sig garanti efter reglen i stk. 1 ved almennyttigt boligbyggeri, til hvis opførelse kommunen har ydet støtte i medfør af § 49.
 
-(* 1) Korrekturfejl, skal rettelig være § 62 g, stk. 2.
-
-(* 2) 2. pkt. vedrører § 63, stk. 3, § 63 a, stk. 4-6, § 81, stk. 3, og § 81 a, stk. 3-5. De bestemmelser, der først træder i kraft 1. januar 1985, er således § 63, stk. 3, § 63 a, stk. 4-6, § 67, stk. 3, § 72, stk. 2-4, § 72 b, stk. 2, § 81, stk. 3 og § 81 a, stk. 3-5.
-
-(* 3) vedrører § 77, stk. 2.
-
-(* 4) vedrører § 73 a.
-
-(* 5) vedrører § 58, stk. 1.
-
-(* 6) vedrører § 8, stk. 4, og § 26, stk. 3.
-
-(* 7) vedrører § 18, stk. 3.
-
-(* 8) I bemærkningerne til lov nr. 532 af 16. november 1983 (L 7) er henvist til bemærkningerne til L 216, hvor der er anført følgende:
+*) I bemærkningerne til lov nr. 532 af 16. november 1983 (L 7) er henvist til bemærkningerne til L 216, hvor der er anført følgende:
 
 Da de hidtidige bestemmelser vil have retsvirkning i en lang årrække endnu, vil man af hensyn til boligselskaberne og de myndigheder, der administrerer bestemmelserne, optage den nuværende lovs kap. VII som bilag til det særtryk, der til sin tid vil blive udsendt af lovforslaget i den vedtagne form.
+
+(* 1) Bekendtgørelsen i Lovtidende fandt sted den 14. juni 1986. Vedrører § 14, stk. 3-5, § 18, stk. 4 og § 69 a.
+
+(* 2) Vedrører §§ 10-10 c.
+
+(* 3) Vedrører § 10.

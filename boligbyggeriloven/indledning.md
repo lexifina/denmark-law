@@ -1,3 +1,3 @@
-Bekendtgørelse af Lov om boligbyggeri
+Bekendtgørelse af lov om boligbyggeri
 
-Herved bekendtgøres lov nr. 532 af 16. november 1983 om boligbyggeri med de ændringer der følger af lov nr. 283 af 6. juni 1984, lov nr. 248 af 6. juni 1985 og lov nr. 577 af 19. december 1985.
+Herved bekendtgøres lov om boligbyggeri, jfr. lovbekendtgørelse nr. 80 af 3. februar 1986, med de ændringer der følger af lov nr. 303 af 4. juni 1986 og lov nr. 930 af 19. december 1986.
