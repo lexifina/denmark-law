@@ -10,4 +10,6 @@ Stk. 2. Bestemmelserne i stk. 1 gælder ikke:
 
 a) handlinger, der falder ind under § 6, stk. 1, eller
 
-b) de i § 8, stk. 1, nr. 1, nævnte handlinger, medmindre strafforfølgning i domslandet er sket efter anmodning af den danske anklagemyndighed.
+b) de i § 8, stk. 1, nr. 1, nævnte handlinger,
+
+medmindre strafforfølgning i domslandet er sket efter anmodning af den danske anklagemyndighed.

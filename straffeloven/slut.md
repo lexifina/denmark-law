@@ -1,19 +1,17 @@
-Justitsministeriet, den 6. september 1986
+Justitsministeriet, den 30. oktober 1992
 
-Erik Ninn-Hansen
+Hans Engell
 
-/Elmer
+/ Johan Reimann
 
-Indholdsfortegnelse Almindelig del 1. kapitel Indledende bestemmelser §§ 1 - 2 2. - Almindelige betingelser for strafferetlige bestemmelsers anvendelse §§ 3 - 12 3. - Strafbarhedsbetingelser §§ 13 - 20 4. - Forsøg og medvirken §§ 21 - 24 5. - (Ophævet) 6. - Straffene §§ 31 - 55 7. - Betingede domme §§ 56 - 61 a 8. - (Ophævet) 9. - Andre retsfølger af den strafbare handling §§ 68 - 79 10. - Straffens fastsættelse §§ 80 - 91 11. - Ophør af den strafbare handlings retsfølger §§ 92 - 97 c Særlig del 12. - Forbrydelser mod statens selvstændighed og sikkerhed §§ 98 - 110 f 13. - Forbrydelser mod statsforfatningen og de øverste statsmyndigheder m.v. §§ 111 - 118 a 14. - Forbrydelser mod den offentlige myndighed §§ 119 - 132 a 15. - Forbrydelser mod den offentlige orden og fred §§ 133 - 143 16. - Forbrydelser i offentlig tjeneste eller hverv §§ 144 - 157 17. - Falsk forklaring og falsk anklage §§ 158 - 165 18. - Forbrydelser vedrørende penge §§ 166 - 170 19. - Forbrydelser vedrørende bevismidler §§ 171 - 179 20. - Almenfarlige forbrydelser §§ 180 - 192 21. - Forskellige almenskadelige handlinger §§ 193 - 196 22. - Betleri og skadelig erhvervsvirksomhed §§ 197 - 207 23. - Forbrydelser i familieforhold §§ 208 - 215 24. - Forbrydelser mod kønssædeligheden §§ 216 - 236 25. - Forbrydelser mod liv og legeme §§ 237 - 259 26. - Forbrydelser mod den personlige frihed §§ 260 - 262 27. - Freds- og ærekrænkelser §§ 263 - 275 a 28. - Berigelsesforbrydelser §§ 276 - 290 29. - Andre strafbare formuekrænkelser §§ 291 - 305
+Indholdsfortegnelse
 
-(* 1) Som affattet ved lov nr. 573 af 19. december 1985, der træder i kraft 1. januar 1987.
+Almindelig del
 
-(* 2) Indsat ved lov nr. 573 af 19. december 1985, der træder i kraft 1. januar 1987.
+1. kapitel Indledende bestemmelser §§ 1- 2 2. kapitel Almindelige betingelser for strafferetlige bestemmelsers anvendelse §§ 3- 12 3. kapitel Strafbarhedsbetingelser §§ 13- 20 4. kapitel Forsøg og medvirken §§ 21- 24 5. kapitel (Ophævet) 6. kapitel Straffene §§ 56- 61 a 8. kapitel Samfundstjeneste §§ 62- 67 9. kapitel Andre retsfølger af den strafbare handling §§ 80- 91 11. kapitel Ophør af den strafbare handlingsretsfølger §§ 92- 97 c Særlig del 12. kapitel Forbrydelser mod statens selvstændighed og sikkerhed §§ 98-110 f 13. kapitel Forbrydelser mod statsforfatningen og de øverste statsmyndigheder m.v. §§ 111-118 a 14. kapitel Forbrydelser mod den offentlige myndighed m.v. §§ 119-132 a 15. kapitel Forbrydelser mod den offentlige orden og fred §§ 133-143 16. kapitel Forbrydelser i offentlig tjeneste eller hverv m.v. §§ 144-157 17. kapitel Falsk forklaring og falsk anklage §§ 158-165 18. kapitel Forbrydelser vedrørende penge §§ 166-170 19. kapitel Forbrydelser vedrørende bevismidler §§ 171-179 20. kapitel Almenfarlige forbrydelser §§ 180-192 21. kapitel Forskellige almenskadelige handlinger §§ 193-196 22. kapitel Betleri og skadelig erhvervsvirksomhed §§ 197-207 23. kapitel Forbrydelser i familieforhold §§ 208-215 24. kapitel Forbrydelser mod kønssædeligheden §§ 216-236 25. kapitel Forbrydelser mod liv og legeme §§ 237-259 26. kapitel Forbrydelser mod den personlige frihed §§ 260-262 27. kapitel Freds- og ærekrænkelser §§ 263-275 a 28. kapitel Berigelsesforbrydelser §§ 276-290 29. kapitel Andre strafbare formuekrænkelser §§ 291-305
 
-(* 3) Ophævet ved lov nr. 573 af 19. december 1985, der træder i kraft 1. januar 1987.
+(* 1) Bestemmelsen i § 289 blev indsat i straffeloven ved lov nr. 550 af 22. december 1971. Toldloven er siden ændret, og den bestemmelse, som i 1971 fandtes i § 123, findes nu i toldlovens § 117.
 
-(* 4) Som affattet ved lov nr. 573 af 19. december 1985, der træder i kraft 1. januar 1987.
+(* 2) Bestemmelsen i § 215 stk. 2, trådte i kraft den 1. juli 1991, jf. bek. nr. 453 af 18. juni 1991.
 
-(* 5) Bestemmelsen i § 289 blev indsat i straffeloven ved lov nr. 550 af 22. december 1971. Toldloven er siden ændret, og den bestemmelse, som i 1971 fandtes i § 123, findes nu i toldlovens § 117.
-
-(* 6) Om en ny affattelse af § 38.
+(* 3) Om ny affattelse af § 123, der trådte i kraft den 1. maj 1992.
