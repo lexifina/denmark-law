@@ -1,4 +1,4 @@
-§ 64 A. (* 23) For amtskommuner og Københavns og Frederiksberg Kommuner udsættes eventuel afregning af de forskelsbeløb, der er nævnt i § 64, stk. 4, jf. stk. 8, og som vedrører kalenderåret 1989.
+§ 64 A. For amtskommuner og Københavns og Frederiksberg Kommuner udsættes eventuel afregning af de forskelsbeløb, der er nævnt i § 64, stk. 4, jf. stk. 8, og som vedrører kalenderåret 1989.
 
 Stk. 2. Indenrigsministeren kan bestemme, at der helt eller delvis kan ske en udsættelse af eventuel afregning af de forskelsbeløb for amtskommuner og Københavns og Frederiksberg Kommuner, der er nævnt i § 64, stk. 4, jf. stk. 8, og som vedrører kalenderåret 1990.
 

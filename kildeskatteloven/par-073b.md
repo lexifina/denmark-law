@@ -1,4 +1,4 @@
-§ 73 B. (* 28) Skatteministeren kan eftergive skattebeløb, som en person efter denne lov har været pligtig at indeholde eller opkræve, samt administrativt vedtagne bøder efter § 79, såfremt:
+§ 73 B. Skatteministeren kan eftergive skattebeløb, som en person efter denne lov har været pligtig at indeholde eller opkræve, samt administrativt vedtagne bøder efter § 79, såfremt:
 
 1) skyldneren godtgør, at denne ikke er i stand til og inden for de nærmeste år ingen udsigt har til at kunne opfylde sine gældsforpligtelser, og
 
