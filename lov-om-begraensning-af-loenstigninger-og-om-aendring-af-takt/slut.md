@@ -1,0 +1,9 @@
+GIVET PÅ CHRISTIANSBORG SLOT, DEN 27. OKTOBER 1982
+
+Under Vor Kongelige Hånd og Segl
+
+MARGRETHE R.
+
+/GRETHE FENGER MØLLER
+
+Ingen
