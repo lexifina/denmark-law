@@ -2,6 +2,6 @@
 
 Stk. 2. Bestemmelserne i stk. 1 finder ikke anvendelse på områder, hvor regler om tjenestepligt efter gennemgået uddannelse allerede måtte være fastsat ved lov eller i medfør af lov forud for denne lovs ikrafttræden.
 
-4. del
+Kapitel 15 a
 
-Ikrafttrædelses- og overgangsbestemmelser
+Nordiske statsborgere og EF-statsborgere
