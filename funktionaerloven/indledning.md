@@ -1,5 +1,5 @@
-Bekendtgørelse af Lov om retsforholdet mellem arbejdsgivere og funktionærer
+Bekendtgørelse af lov om retsforholdet mellem arbejdsgivere og funktionærer
 
 (Funktionærloven)
 
-Herved bekendtgøres lov om retsforholdet mellem arbejdsgivere og funktionærer, jfr. lovbekendtgørelse nr. 131 af 29. april 1964, med de ændringer, der følger af § 8, nr. 2, i lov nr. 333 af 18. juni 1969 og lov nr. 224 af 19. maj 1971.
+Herved bekendtgøres lov om retsforholdet mellem arbejdsgivere og funktionærer, jf. lovbekendtgørelse nr. 413 af 30. august 1971, med de ændringer, der følger af §9 i lov nr. 313 af 10. juni 1976 og §1 i lov nr. 162 af 12. april 1978.
