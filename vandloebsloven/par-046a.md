@@ -1,0 +1,1 @@
+§ 46 a. Vandløbsmyndigheden må ikke uden miljø- og energiministerens forudgående tilladelse godkende ændring eller omlægning af udpumpningsanlæg med henblik på yderligere grundvandssænkning i lavbundsområder i landzone eller sommerhusområder.
