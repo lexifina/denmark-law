@@ -1,0 +1,5 @@
+§ 7 A. (* 3) Er etablering sket efter § 5, stk. 8, kan beløb af indtil samme størrelse som den aftalte byggesum hæves fra og med det indkomstår, hvor kontrakt om bygning af skibet er indgået, til og med det indkomstår, hvori levering finder sted, dog senest i 1990. Forlods afskrivning skal foretages på byggesummen for de indkomstår, hvori beløbene hæves.
+
+Stk. 2. Bestemmelsen i stk. 1 medfører ingen ændring i grundlaget for beregningen af forskudsafskrivning på skibet efter afskrivningslovens § 14. Den samlede forlods- og forskudsafskrivning kan dog ikke overstige 100 pct. af den aftalte byggesum eller af anskaffelsessummen, hvis denne er mindre end byggesummen.
+
+Stk. 3. Ophæves eller sælges retten i henhold til en kontrakt om bygning af et skib, hvor etablering er sket i henhold til § 5, stk. 8, skal indskudsbeløb lig summen af de foretagne forlodsafskrivninger på skibet, jf. stk. 1 og 2, med tillæg af 5 pct. for hvert år fra udløbet af de indkomstår, hvori indskuddene er fradraget, og indtil udløbet af de indkomstår, hvori midlerne er hævet, medregnes i den skattepligtige indkomst for førstnævnte indkomstår.
