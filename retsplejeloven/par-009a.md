@@ -12,4 +12,4 @@ Stk. 6. Ved afgørelse af tvistigheder i konkursboer om, hvorvidt en anmeldt for
 
 Stk. 7. Sager om nedlæggelse af forbud vedrørende EF-varemærker, jf. varemærkelovens § 43 c, behandles uden tilkaldelse af sagkyndige.
 
-Stk. 8. Retten kan i alle sager tilkalde 4 sagkyndige i stedet for 2, når sagens karakter taler derfor. I sager vedrørende lov om markedsføring tilkaldes altid 4 sagkyndige under domsforhandlingen, medmindre retten efter parternes anmodning bestemmer, at der kun skal tilkaldes 2 sagkyndige, eller - i straffesager - at sagen skal behandles uden tilkaldelse af sagkyndige.
+Stk. 8. Retten kan i alle sager tilkalde 4 sagkyndige i stedet for 2, når sagens karakter taler derfor. I sager vedrørende lov om markedsføring tilkaldes altid 4 sagkyndige under domsforhandlingen, medmindre retten efter parternes anmodning bestemmer, at der kun skal tilkaldes 2 sagkyndige, eller  i straffesager  at sagen skal behandles uden tilkaldelse af sagkyndige.
