@@ -1,3 +1,3 @@
-§ 456 n. For udgifter foranlediget ved de bestemmelser, retten tager med hensyn til beskikkelse af advokat og med hensyn til sagens oplysning, såsom betaling til parter, vidner og sagkyndige, blodtypeundersøgelser m.v., gælder samme regler som for sagsøgerens udgifter i tilfælde, hvor der er meddelt denne fri proces, jf. kapitel 31.
+§ 456 n. Når faderskabet er fastslået eller sagen hævet, sender retten snarest muligt meddelelse til statsamtet. Meddelelsen skal være ledsaget af kopi af den til retsbogen fremlagte anerkendelse eller en udskrift af dommen, en udskrift af retsbogen og kopi af de i sagen fremlagte personlige attester.
 
-Stk. 2. Retten bør kun, når der er særlig anledning dertil, pålægge en part at betale sagsomkostninger.
+Stk. 2. Retten sørger for dommens forkyndelse.
