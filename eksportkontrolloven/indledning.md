@@ -1,3 +1,3 @@
 Bekendtgørelse af lov om anvendelsen af visse af De europæiske Fællesskabers retsakter om økonomiske forbindelser til tredjelande
 
-Herved bekendtgøres lov om anvendelsen af visse af De europæiske Fællesskabers retsakter om ind- og udførsel af varer, jf. lovbekendtgørelse nr. 267 af 11. april 1988 med de ændringer, der følger af lov nr. 1089 af 21. december 1994.
+Herved bekendtgøres lov om anvendelsen af visse af De europæiske Fællesskabers retsakter om økonomiske forbindelser til tredjelande, jf. lovbekendtgørelse nr. 93 af 6. februar 1995 med de ændringer, der følger af lov nr. 389 af 28. maj 2003 og lov nr. 407 af 28. maj 2003.

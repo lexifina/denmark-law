@@ -1,7 +1,5 @@
-Erhvervsministeriet, den 6. februar 1995
+Økonomi- og Erhvervsministeriet, den 25. juni 2003
 
-Mimi Jakobsen
+Bendt Bendtsen
 
-/ Bjarne Bitsch
-
-Ingen
+/Henning Steensig
