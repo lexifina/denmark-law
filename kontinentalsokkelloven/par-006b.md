@@ -1,3 +1,3 @@
-§ 6 b. Miljøministeren kan bemyndige en under ministeriet oprettet styrelse eller tilsvarende institution til at udøve de beføjelser, der i denne lov eller i regler udfærdiget i medfør af loven er tillagt miljøministeren.
+§ 6 b. Ved afgørelser efter § 6 a erstattes repræsentanter i Energiklagenævnet, der er udpeget efter indstilling fra Dansk Industri og Landbrugsraadet af 2 medlemmer med særlig sagkundskab inden for henholdsvis havmiljø og nedlægning af og transport gennem rørledninger på havbunden. Medlemmerne udpeges af transport- og energiministeren.
 
-Stk. 2. Ministeren kan fastsætte regler om adgangen til at påklage afgørelser til ministeren, der er truffet i henhold til bemyndigelse efter stk. 1, herunder at afgørelserne ikke skal kunne påklages til ministeren.
+Stk. 2. Transport- og energiministeren kan fastsætte regler om Energiklagenævnets behandling af klager efter § 6 a og om betaling af gebyr ved indbringelse af en klage for Energiklagenævnet.
