@@ -1,29 +1,33 @@
-Skatteministeriet, den 14. oktober 1988
+Skatteministeriet, den 4. november 1991
 
 Anders Fogh Rasmussen
 
-/ Jan Lyager Olsen
+/ K. Hoffritz
 
 Bilag
 
 Liste over momsregistrerede virksomheder, hvis afsætning af ydelser ikke giver adgang til tilbagebetaling af elafgift.
 
-Advokater. Landinspektører.
+Advokater.
 
-Arkitekter. Mæglere.
+Arkitekter.
 
-Bureauer (bl.a.
+Bureauer (bl.a. vagtbureauer, ægteskabsbureauer).
 
-vagtbureauer,
+Forlystelser, herunder teaterforeninger, biografforestillinger m.v.
 
-ægteskabsbureauer). Reklame.
+Landinspektører.
 
-Forlystelser, herunder Revisorer.
+Mæglere.
 
-teaterforeninger,
+Reklame.
 
-biografforestillinger m.v. Rådgivende ingeniører.
+Revisorer.
 
-(* 1) Lov nr. 694 af 17. oktober 1986 (forhøjelse af afgiftssatserne) trådte i kraft den 1. november 1986.
+Rådgivende ingeniører.
 
-(* 2) Lov nr. 925 af 19. december 1986 (indsættelse af lovens § 17 a) trådte i kraft den 1. januar 1987.
+1) Lov nr. 700 af 22. november 1988 (indsættelse af § 11, stk. 10, og § 14 a) trådte i kraft den 30. november 1988.
+
+2) Lov nr. 361 af 31. maj 1989 (forhøjelse af afgiftssatsen) er trådt i kraft med virkning fra den 1. juni 1989.
+
+3) Lov nr. 825 af 19. december 1989 (forhøjelse af mindsterentebeløbet og indsættelsen af § 17 b) trådte i kraft den 1. januar 1990.
