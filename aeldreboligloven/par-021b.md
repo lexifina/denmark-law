@@ -1,1 +1,1 @@
-§ 21 b. Til dækning af statens administrationsudgifter pålægges modtagere af støtte at betale et gebyr på 2 promille af den endeligt godkendte anskaffelsessum eksklusive gebyr. Til dækning af kommunens udgifter ved støttesagsbehandlingen kan kommunen pålægge modtagere af støtte at betale et gebyr.
+§ 21 b. (Ophævet).

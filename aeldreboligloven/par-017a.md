@@ -1,1 +1,1 @@
-§ 17 a. Kan der for et almennyttigt boligselskab, hvis afdelinger udelukkende består af ældreboliger, ikke etableres en selskabsbestyrelse efter reglerne i vedtægterne, kan kommunalbestyrelsen udpege det nødvendige antal bestyrelsesmedlemmer.
+§ 17 a. (Ophævet).
