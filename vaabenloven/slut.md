@@ -1,7 +1,5 @@
-Justitsministeriet, den 11. december 1985
+Justitsministeriet, den 11. august 1994
 
-Erik Ninn-Hansen
+Erling Olsen
 
-/ Fr. Chr. Schydt
-
-(* 1) De nævnte kapitler i lov om rettens pleje svarer til de nugældende kap. 75 b (beslaglæggelse), kap. 73 (ransagning), kap. 69 (anholdelse) og kap. 70 (varetægtsfængsling).
+/ Niels Boesen

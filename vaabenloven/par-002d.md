@@ -1,1 +1,1 @@
-§ 2 d. Tilladelser og samtykker efter denne lov eller efter bestemmelser, der er udfærdiget i medfør af loven, kan til enhver tid tilbagekaldes.
+§ 2 d. Den tilladelse, der er nævnt i § 2, stk. 1, jagttegn eller medlemsbevis til en skytteforening med våbenpåtegning, jf. § 2 a, stk. 1, eller § 2 c, skal medbringes, når våbenet bæres, og på forlangende forevises for politiet. Sammen med jagttegn eller et medlemsbevis som nævnt i 1. pkt. skal indehaveren endvidere medbringe yderligere legitimation, f.eks. kørekort eller ID-kort, og på forlangende forevise den for politiet.
