@@ -1,3 +1,7 @@
-Bekendtgørelse af teaterlov
+Bekendtgørelse af lov om teater
 
-Herved bekendtgøres lov nr. 408 af 13. juni 1990, Teaterloven, jf. lovbekendtgørelse nr. 85 af 6. februar 1992, med de ændringer, der følger af lov nr. 289 af 27. april 1994 og af lov nr. 103 af 28. februar 1996.
+Herved bekendtgøres Teaterloven, jf. lovbekendtgørelse nr. 217 af 22. marts 1996, med de ændringer, der følger af lov nr. 366 af 2. juni 1999.
+
+## Kapitel 1
+
+Formål
