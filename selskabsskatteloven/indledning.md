@@ -1,6 +1,6 @@
 Bekendtgørelse af lov om indkomstbeskatning af aktieselskaber m.v. (Selskabsskat) (* 1)
 
-Herved bekendtgøres lov om indkomstbeskatning af aktieselskaber m.v. (Selskabsskatteloven), jf. lovbekendtgørelse nr. 593 af 30. september 1988, med de ændringer, der følger af lov nr. 823 af 19. december 1989, lov nr. 888 af 29. december 1989, lov nr. 889 af 20. december 1989, lov nr. 59 af 7. februar 1990, lov nr. 250 af 25. april 1990 og lov nr. 255 af 25. april 1990.
+Herved bekendtgøres lov om indkomstbeskatning af aktieselskaber m.v. (Selskabsskatteloven), jf. lovbekendtgørelse nr. 623 af 31. august 1990, med de ændringer, der følger af lov nr. 217 af 10. april 1991, lov nr. 218 af 10. april 1991, lov nr. 362 af 6. juni 1991, lov nr. 391 af 6. juni 1991 og lov nr. 394 af 6. juni 1991.
 
 ## Afsnit I
 
