@@ -1,6 +1,6 @@
 Bekendtgørelse af lov om sikkerhed til søs
 
-Herved bekendtgøres lov nr. 900 af 16. december 1998 om sikkerhed til søs, med de ændringer, der følger af § 2 i lov nr. 316 af 5. maj 2000.
+Herved bekendtgøres lov om sikkerhed til søs, jf. lovbekendtgørelse nr. 554 af 24. juni 2000, med de ændringer, der følger af § 2 i lov nr. 277 af 8. maj 2002.
 
 ## Kapitel 1
 

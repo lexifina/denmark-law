@@ -7,3 +7,13 @@ Loven træder i kraft den 1. juli 2000.
 § 4
 
 Loven gælder ikke for Færøerne og Grønland, men kan ved kongelig anordning sættes i kraft for disse landsdele med de ændringer, der følger af de særlige færøske eller grønlandske forhold.
+
+Lov nr. 277 af 8. maj 2002 indeholder følgende ikrafttrædelsesbestemmelser:
+
+§ 3
+
+Loven træder i kraft den 30. juni 2002.
+
+§ 4
+
+Loven gælder ikke for Færøerne og Grønland, men kan ved kongelig anordning helt eller delvis sættes i kraft for Grønland med de ændringer, som de særlige grønlandske forhold tilsiger.
