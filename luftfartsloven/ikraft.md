@@ -18,4 +18,8 @@ Trafikministeriets bekendtgørelse nr. 643 af 21. september 1990 indeholder føl
 
 § 1
 
-§ 1, nr. 2, i lov om ændring af lov om luftfart træder i kraft den 1. oktober 1990.
+§ 1, nr. 2, i lov om ændring af lov om luftfart træder i kraft den 1. oktober 1990. § 2 i lov nr. 1139 af 22. december 1993 om ændring af lov om luftfart indeholder følgende bestemmelse:
+
+§ 2
+
+Loven træder i kraft den 1. januar 1995.
