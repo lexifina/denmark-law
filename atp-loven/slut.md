@@ -1,8 +1,24 @@
-Arbejdsministeriet, den 8. januar 1996
+Arbejdsministeriet, den 30. januar 1998
 
 Jytte Andersen
 
 / E. Edelberg
+
+------------
+
+1) Fra 1. juli 1998 er bestemmelsen sålydende:
+
+Stk. 1. - - - - - -
+
+Stk. 2. - - - - - -
+
+Stk. 4. Personer, der modtager ydelser i henhold til §§ 25, 36 og 52, stk. 1, i lov om aktiv socialpolitik, omfattes af ordningen.
+
+Stk. 5. Personer, der er medlemmer af en arbejdsløshedskasse for lønmodtagere, som er over 25 årr og som modtager uddannelsesgodtgørelse efter lov om en aktiv arbejdsmarkedspolitik, omfattes af ordningen.
+
+2) Loven er trådt i kraft den 1. januar 1996, jf. bekendtgørelse nr. 878 af 13. november 1995.
+
+3) Loven ern trådt i kraft den 1. januar 1996, jf. bekendtgørelse nr. 1132 af 20. december 1995.
 
 Bilag A
 
@@ -36,13 +52,19 @@ Italien
 
 Japan
 
+Korea
+
 Luxembourg
+
+Mexico
 
 Nederlandene (Holland)
 
 New Zealand
 
 Norge
+
+Polen
 
 Portugal
 
@@ -54,10 +76,10 @@ Spanien
 
 Sverige
 
+Tjekkiet
+
 Tyrkiet
 
+Ungarn
+
 Østrig
-
-(* 1) Loven er trådt i kraft den 1. januar 1996, jf. lovbekendtgørelse nr. 878 af 13. november 1995.
-
-(* 2) Loven er trådt i kraft den 1. januar 1996, jf. lovbekendtgørelse nr. 1132 af 20. december 1995.
