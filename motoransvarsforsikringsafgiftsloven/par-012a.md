@@ -1,3 +1,9 @@
-§ 12 a. Skatteministeren kan fastsætte nærmere regler om henstand med betaling af afgift i forbindelse med klager over de statslige told- og skattemyndigheders afgørelser.
+§ 12 a. Landsskatteretten påkender klager over de statslige told- og skattemyndigheders afgørelser i 1. instans af:
 
-Stk. 2. Reglerne i merværdiafgiftslovens § 80, stk. 2-5, om indbringelse af klager m.v. finder tilsvarende anvendelse på klager m.v. over afgørelser efter denne lov.
+1) Spørgsmål om afgiftspligtens omfang.
+
+2) Spørgsmål om, hvilket beløb afgiften skal beregnes af.
+
+3) Spørgsmål om skønsmæssig ansættelse efter § 9, stk. 2.
+
+Stk. 2. Reglerne i skattestyrelseslovens kapitler 3 og 3 A finder anvendelse ved klage til Landsskatteretten efter stk. 1.
