@@ -1,0 +1,1 @@
+§ 30 e. Ministeren kan bestemme eller fastsætte regler om, at kemiske stoffer og produkter, der har været gjort til genstand for forsøg med dyr for at opfylde kravene i loven, i regler fastsat i medfør af loven eller i Det Europæiske Fællesskabs forordninger om forhold omfattet af denne lov, ikke må sælges eller importeres.
