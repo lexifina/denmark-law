@@ -1,0 +1,1 @@
+§ 62 a. Kommunalbestyrelsen kan til apotekerne, også i elektronisk form, udlevere oplysninger om navn, personnummer og den personlige tillægsprocent vedrørende personer, der modtager personligt tillæg til dækning af udgifter til medicin efter § 17, stk. 1. Oplysningerne kan udleveres uden samtykke fra den enkelte.
