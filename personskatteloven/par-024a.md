@@ -1,3 +1,3 @@
-§ 24 A. (* 10) Skatteministeren kan bemyndige de statslige eller kommunale skattemyndigheder til at træffe afgørelser efter denne lov. Ministeren kan fastsætte regler om adgang til at klage over afgørelserne, herunder om at afgørelserne ikke kan indbringes for højere administrativ myndighed.
+§ 24 A. Skatteministeren kan bemyndige de statslige eller kommunale skattemyndigheder til at træffe afgørelser efter denne lov. Ministeren kan fastsætte regler om adgang til at klage over afgørelserne, herunder om at afgørelserne ikke kan indbringes for højere administrativ myndighed.
 
 Ikrafttræden m.v.
