@@ -1,7 +1,5 @@
-Justitsministeriet, den 2. maj 1995
+Justitsministeriet, den 15. maj 2003
 
-Bjørn Westh
+Lene Espersen
 
-/ C. Rosholm
-
-Ingen
+/Christian Strøyer
