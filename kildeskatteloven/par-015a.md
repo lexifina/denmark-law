@@ -1,1 +1,1 @@
-§ 15 A. (Ophævet ved lov nr. 227 af 26. maj 1982).
+§ 15 A. (Ophævet).
