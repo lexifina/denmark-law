@@ -52,28 +52,20 @@ Stk. 2. Forvolder en embedsmand fra en anden medlemsstat skade under udførelse 
 
 Loven træder i kraft den 1. juli 2002.
 
-Lov nr. 228 af 2. april 2003 (Børnepornografi, seksuel udnyttelse af børn, salg af børn og gennemførelse af straffesager om seksuelt misbrug af børn m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
-
-§ 4
-
-Loven træder i kraft dagen efter bekendtgørelsen i Lovtidende.
-
-Lov nr. 386 af 28. maj 2003 (Kvindelig omskæring) indeholder følgende ikrafttrædelsesbestemmelse:
+Lov nr. 218 af 31. marts 2004 (Ændring af strafferammer og bestemmelser om straffastsættelse) indeholder følgende ikrafttrædelsesbestemmelse:
 
 § 3
 
-Loven træder i kraft dagen efter bekendtgørelsen i Lovtidende.
+Loven træder i kraft dagen efter bekendtgørelse i Lovtidende.
 
-Lov nr. 389 af 28. maj 2003 (Straf for overtrædelse af Den Europæiske Unions udenrigs- og sikkerhedspolitiske sanktioner mod tredjelande m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
-
-§ 3
-
-Loven træder i kraft dagen efter bekendtgørelsen i Lovtidende.
-
-Lov nr. 436 af 10. juni 2003 (Bekæmpelse af rockerkriminalitet og anden organiseret kriminalitet) indeholder følgende ikrafttrædelsesbestemmelse:
+Lov nr. 219 af 31. marts 2004 (Tidlig prøveløsladelse af dømte) indeholder følgende ikrafttrædelsesbestemmelse:
 
 § 3
 
-Stk. 1. Loven træder i kraft dagen efter bekendtgørelsen i Lovtidende.
+Loven træder i kraft den 1. april 2004.
 
-Stk. 2. (Udelades)
+Lov nr. 352 af 19. maj 2004 (IT-kriminalitet mv.) indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 5
+
+Loven træder i kraft den 1. juli 2004.

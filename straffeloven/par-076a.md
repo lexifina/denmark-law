@@ -10,7 +10,7 @@ Stk. 2. Under betingelser som nævnt i stk. 1 kan der foretages hel eller delvis
 
 2) ægteskabet eller samlivsforholdet ikke bestod på tidspunktet for erhvervelsen.
 
-Stk. 3. Under betingelser som nævnt i stk. 1 kan der foretages hel eller delvis konfiskation af formuegoder overdraget til en juridiske person, som den pågældende alene eller sammen med sine nærmeste har en bestemmende indflydelse på. Det samme gælder, hvis den pågældende oppebærer en betydelig del af den juridiske persons indtægter. Konfiskation kan dog ikke ske, hvis formuegodet er overdraget til den juridiske person mere end 5 år før den strafbare handling, som danner grundlag for konfiskation efter stk. 1.
+Stk. 3. Under betingelser som nævnt i stk. 1 kan der foretages hel eller delvis konfiskation af formuegoder overdraget til en juridisk person, som den pågældende alene eller sammen med sine nærmeste har en bestemmende indflydelse på. Det samme gælder, hvis den pågældende oppebærer en betydelig del af den juridiske persons indtægter. Konfiskation kan dog ikke ske, hvis formuegodet er overdraget til den juridiske person mere end 5 år før den strafbare handling, som danner grundlag for konfiskation efter stk. 1.
 
 Stk. 4. Konfiskation efter stk. 1-3 kan ikke ske, hvis den pågældende sandsynliggør, at et formuegode er erhvervet på lovlig måde eller for lovligt erhvervede midler.
 
