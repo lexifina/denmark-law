@@ -10,18 +10,18 @@ Stk. 5. Har en udlænding, der ikke har ansøgt om opholdstilladelse i henhold t
 
 Stk. 6. Udlændingestyrelsen kan bestemme, at en udlænding, der er omfattet af stk. 1 eller 5, ikke skal have dækket sine udgifter til underhold bortset fra kost, logi og sundhedsmæssige ydelser, såfremt
 
-1) udlændingen indgiver ansøgning om asyl ved eller efter indrejsen og ikke medvirker til sagens oplysning, jf. § 40, stk. 1,
+1) udlændingen udebliver fra en afhøring med Udlændingestyrelsen eller politiet, hvortil den pågældende er indkaldt,
 
-2) udlændingen udebliver fra en afhøring med Udlændingestyrelsen eller politiet, hvortil den pågældende er indkaldt,
+2) udlændingen har udvist voldelig eller truende adfærd over for personer, der udfører opgaver med driften af et indkvarteringssted for udlændinge, eller over for de personer, der i øvrigt opholder sig på indkvarteringsstedet,
 
-3) udlændingen har udvist voldelig eller truende adfærd over for personer, der udfører opgaver med driften af et indkvarteringssted for udlændinge, eller over for de personer, der i øvrigt opholder sig på indkvarteringsstedet,
+3) udlændingen ikke efterkommer Udlændingestyrelsens bestemmelse om, at udlændingen skal tage ophold efter Udlændingestyrelsens nærmere bestemmelse, jf. § 42 a, stk. 4, 1. pkt.,
 
-4) udlændingen ikke efterkommer Udlændingestyrelsens bestemmelse om, at udlændingen skal tage ophold efter Udlændingestyrelsens nærmere bestemmelse, jf. § 42 a, stk. 4, 1. pkt.,
+4) udlændingen ikke efterkommer politiets bestemmelse om en i § 34 nævnt foranstaltning,
 
-5) udlændingen ikke efterkommer politiets bestemmelse om en i § 34 nævnt foranstaltning,
+5) udlændingen tilsidesætter et pålæg om at udføre nødvendige opgaver i forbindelse med driften af indkvarteringsstedet, jf. § 42 d, stk. 1,
 
-6) udlændingen tilsidesætter et pålæg om at udføre nødvendige opgaver i forbindelse med driften af indkvarteringsstedet, jf. § 42 d, stk. 1,
+6) udlændingen er efterlyst af politiet med henblik på forkyndelse, udrejsekontrol eller udsendelse eller
 
-7) udlændingen er efterlyst af politiet med henblik på forkyndelse, udrejsekontrol eller udsendelse eller
+7) politiet drager omsorg for udlændingens udrejse og udlændingen ikke medvirker hertil, jf. § 40, stk. 3, 1. pkt.
 
-8) politiet drager omsorg for udlændingens udrejse og udlændingen ikke medvirker hertil, jf. § 40, stk. 3, 1. pkt.
+Stk. 7. Udlændingestyrelsen skal, medmindre særlige grunde taler derimod, bestemme, at en udlænding, der indgiver ansøgning om asyl ved eller efter indrejsen og ikke medvirker til sagens oplysning, jf. § 40, stk. 1, 1. og 2. pkt., ikke skal have dækket sine udgifter til underhold bortset fra kost, logi og sundhedsmæssige ydelser.
