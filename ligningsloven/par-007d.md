@@ -1,1 +1,1 @@
-§ 7 D. (Ophævet).
+§ 7 D. (Ophævet)

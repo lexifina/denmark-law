@@ -1,1 +1,1 @@
-§ 16 C. (Ophævet).
+§ 16 C. (Ophævet)
