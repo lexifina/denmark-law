@@ -1,3 +1,5 @@
+## Frister
+
 § 36 a. De frister, der er fastsat i eller i henhold til denne lov, begynder at løbe fra og med dagen efter den dag, hvor den begivenhed, som udløser fristen, finder sted. Dette gælder ved beregning af såvel dage- som uge-, måneds- og årsfrister.
 
 Stk. 2. Er fristen angivet i uger, udløber fristen, jf. stk. 1, på ugedagen for den dag, hvor den begivenhed, som udløste fristen, fandt sted.

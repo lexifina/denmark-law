@@ -1,7 +1,5 @@
-Erhvervsministeriet, den 31. marts 1998
+Økonomi- og Erhvervsministeriet, den 11. marts 2003
 
-Pia Gjellerup
+Bendt Bendtsen
 
-/ Ole Bløndal
-
-(* 1) Lov nr. 350 af 23. maj 1997: Bekendtgjort i Lovtidende den 24. maj 1997.
+/Ole Blöndal
