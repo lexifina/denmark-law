@@ -1,7 +1,5 @@
-Arbejdsministeriet, den 6. marts 1997
+Beskæftigelsesministeriet, den 20. august 2002
 
-Jytte Andersen
+Claus Hjort Frederiksen
 
-/ Einar Edelberg
-
-Ingen
+/Einar Edelberg
