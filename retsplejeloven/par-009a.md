@@ -2,7 +2,7 @@
 
 Stk. 2. Under domsforhandling i borgerlige sager tiltrædes retten af 2 sagkyndige. Retten kan tilkalde de sagkyndige til retsmøder uden for domsforhandlingen, når den finder særlig anledning hertil, herunder navnlig i tilfælde af afhøring af parter eller vidner, afhjemling af syn og skøn eller afsigelse af kendelse om et omtvistet punkt.
 
-Stk. 3. I straffesager tiltrædes retten under domsforhandlingen og pådømmelsen af 2 sagkyndige. Tilkaldelse af sagkyndige er dog ikke nødvendig i sager, som fremmes til dom uden udfærdigelse af anklageskrift i medfør af § 925, eller i politisager, som afgøres ved dom i henhold til § 934, stk. 1, eller § 935, stk. 1, eller sluttes i henhold til § 936 eller § 937.
+Stk. 3. I straffesager tiltrædes retten under domsforhandlingen og pådømmelsen af 2 sagkyndige. Tilkaldelse af sagkyndige er dog ikke nødvendig i sager, som fremmes til dom uden udfærdigelse af anklageskrift i medfør af § 925, eller i sager, som afgøres ved dom i henhold til § 934, stk. 1, eller § 935, stk. 1, eller sluttes i henhold til § 936 eller § 937.
 
 Stk. 4. Retten kan også i øvrigt i straffesager tilkalde 2 sagkyndige.
 
