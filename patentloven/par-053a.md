@@ -1,1 +1,1 @@
-§ 53 a. Sag om ugyldigkendelse, som rejses, mens en indsigelse i henhold til § 21 eller en begæring om omprøvning i henhold til § 53 b ikke er færdigbehandlet af patentmyndigheden, kan af retten stilles i bero, indtil der er truffet endelig afgørelse af patentmyndigheden.
+§ 53 a. Sag om ugyldigkendelse, som rejses, mens en indsigelse i henhold til § 21 ikke er færdigbehandlet af patentmyndigheden, kan af retten stilles i bero, indtil der er truffet endelig afgørelse af patentmyndigheden.
