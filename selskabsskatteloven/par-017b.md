@@ -1,4 +1,4 @@
-§ 17 B. Indkomstskatten for de i § 1, stk. 1, nr. 2 a, nævnte skattepligtige sparekasser udgør 50 pct. af den skattepligtige indkomst.
+§ 17 B. (* 14) Indkomstskatten for de i § 1, stk. 1, nr. 2 a, nævnte skattepligtige sparekasser udgør 40 pct. af den skattepligtige indkomst.
 
 Stk. 2. For de i stk. 1 nævnte sparekasser finder bestemmelsen i § 17, stk. 2, tilsvarende anvendelse.
 
