@@ -1,7 +1,5 @@
-Justitsministeriet, den 15. september 1986
+Justitsministeriet, den 16. december 1991
 
-Erik Ninn-Hansen
-
-/Hans-Viggo Jensen
+Hans Engell/ Jørgen Paulsen
 
 Ingen
