@@ -1,6 +1,6 @@
 § 41 a. Personer, der er omfattet af § 172, stk. 1, 2 eller 4, kan i straffesager gennemse anklageskrift eller retsmødebegæring på rettens kontor. Efter anmodning kan de samme personer endvidere på rettens kontor få udleveret kopi af et anklageskrift eller en retsmødebegæring. Dokumenterne skal inden gennemsynet eller kopieringen anonymiseres, således at forurettedes eller vidners identitet ikke fremgår heraf. Justitsministeren fastsætter regler om, på hvilket tidspunkt gennemsyn eller udlevering kan ske.
 
-Stk. 2. De hjælpebilag og rids over gerningsstedet, som er udarbejdet af anklagemyndigheden og forsvaret, kan udlånes til de i stk. 1 nævnte personer under domsforhandlingen eller et retsmøde i medfør af § 925.
+Stk. 2. De hjælpebilag og rids over gerningsstedet, som er udarbejdet af anklagemyndigheden og forsvaret, kan udlånes til de i stk. 1 nævnte personer under domsforhandlingen eller et retsmøde i medfør af § 925 .
 
 Stk. 3. I civile sager kan et eller flere af sagens dokumenter med parternes samtykke udlånes til de i stk. 1 nævnte personer under retsmøder. Udlån kan ikke ske i sager, der er omfattet af kapitlerne 42, 42 a, 43, 43 a og 43 b.
 
