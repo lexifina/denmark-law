@@ -1,3 +1,1 @@
-§ 31 B. Boligministeren kan bemyndige en under ministeriet oprettet styrelse til at udøve de beføjelser, der i denne lov er tillagt ministeren.
-
-Stk. 2. Boligministeren kan fastsætte regler om adgangen til at påklage afgørelser, der er truffet i henhold til bemyndigelse efter stk. 1, herunder at afgørelsen ikke skal kunne indbringes for ministeren.
+§ 31 B. Ophævet.
