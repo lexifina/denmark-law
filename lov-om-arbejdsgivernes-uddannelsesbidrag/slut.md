@@ -1,4 +1,4 @@
-Undervisningsministeriet, den 19. juni 1996
+Undervisningsministeriet, den 26. januar 1998
 
 Ole Vig Jensen
 
