@@ -4,7 +4,7 @@ Stk. 2. Fonden omfatter
 
 1) byggeri, som modtager tilsagn om offentlig støtte efter § 48, kapitel 8, § 63, § 67, § 81 eller § 86 a efter den 30. juni 1986,
 
-2) byggeri, der modtager støtte efter lov om boliger for ældre og personer med handicap, og
+2) byggeri, der modtager støtte efter lov om boliger for ældre og personer med handicap, med undtagelse af kapitel 3 a, og
 
 3) udbedringsarbejder, der udføres med støtte fra fonden efter reglerne i dette kapitel.
 

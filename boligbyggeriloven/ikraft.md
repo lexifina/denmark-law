@@ -40,11 +40,11 @@ Stk. 1. Loven træder i kraft den 1. juli 1995.
 
 § 5
 
-Forslag til revision af reglerne i denne lov fremsættes for Folketinget i folketingsåret 1997-98.
+Stk. 1. Forslag til revision af reglerne i denne lov fremsættes for Folketinget i folketingsåret 1997-98.
 
 § 6
 
-Loven gælder kun for Københavns og Århus Amter. § 4 i lov nr. 362 af 14. juni 1995 er sålydende:
+Stk. 1. Loven gælder kun for Københavns og Århus Amter. § 4 i lov nr. 362 af 14. juni 1995 er sålydende:
 
 § 4
 
@@ -68,4 +68,20 @@ Stk. 6. Bestemmelserne i § 5, nr. 2, og §§ 6-8 finder anvendelse fra og med d
 
 Stk. 7. Statens generelle tilskud til kommunerne efter § 10 i lov om kommunal udligning og generelle tilskud til kommuner og amtskommuner nedsættes med virkning fra og med tilskudsåret 1996 med 300 mio. kr.
 
-Stk. 8. Statens generelle tilskud til amtskommunerne efter § 17 i lov om kommunal udligning og generelle tilskud til kommuner og amtskommuner nedsættes med virkning fra og med tilskudsåret 1996 med 150 mio. kr.
+Stk. 8. Statens generelle tilskud til amtskommunerne efter § 17 i lov om kommunal udligning og generelle tilskud til kommuner og amtskommuner nedsættes med virkning fra og med tilskudsåret 1996 med 150 mio. kr. § 5 i lov nr. 1065 af 20. december 1995 er sålydende:
+
+§ 5
+
+Stk. 1. Loven træder i kraft den 1. januar 1996.
+
+Stk. 2. Den ved § 2, nr. 9, affattede § 76, stk. 3, i lov om individuel boligstøtte har virkning for anvisning af boliger, der sker efter lovens ikrafttræden.
+
+Stk. 3. § 3 finder anvendelse, uanset om lejeforholdet er indgået før lovens ikrafttræden. § 4 i lov nr. 220 af 27. marts 1996 er sålydende:
+
+§ 4
+
+Stk. 1. Loven træder i kraft den 1. april 1996, jf. dog stk. 2.(* 9)
+
+Stk. 2. § 63, stk. 3, 1. pkt., i lov om boligbyggeri, som affattet ved denne lovs § 1, nr. 5, og § 2 træder dog i kraft dagen efter bekendtgørelsen i Lovtidende.
+
+Stk. 3. Bestemmelsen i § 63 a, stk. 2, i lov om boligbyggeri som affattet ved lovbgekendtgørelse nr. 668 af 4. august 1995 bevarer sin gyldighed, for så vidt angår byggeri, hvortil der er givet tilsagn om støtte inden udgangen af 1995.

@@ -5,3 +5,9 @@ Stk. 2. Boligministeren fastsætter nærmere regler om de i dette kapitel nævnt
 Kapitel 8 a
 
 (Ophævet)
+
+## Kapitel 9
+
+## Almindelige bestemmelser
+
+om almennyttigt byggeri med støtte

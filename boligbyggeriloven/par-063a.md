@@ -1,6 +1,6 @@
 § 63 a. Støtte efter § 63 kan kun gives, hvis låntager betaler ydelser på indekslånet i overensstemmelse med reglerne i stk. 2.
 
-Stk. 2. Låntagers betaling af ydelser på indekslån sker første gang ved lånets 2. termin og udgør et beløb, som svarer til 2,588 pct. af den regulerede bogførte hovedstol for boliger med tilsagn i 1990, 2,661 pct. for boliger med tilsagn i 1991, 2,734 pct. for boliger med tilsagn i 1992 og 2,807 pct. for boliger med tilsagn i 1993 samt tiden herefter. Betalingen reguleres 2 gange årligt pr. 1. januar og 1. juli efter samme retningslinier, som gælder for regulering af afdrag på indekslån, type IS, ifølge realkreditloven. Reguleringen sker, indtil låntagers betaling svarer til de samlede ydelser på lånet.
+Stk. 2. Låntagers betaling af ydelser på indekslån sker første gang ved lånets 2. termin og udgør et beløb, som svarer til 2,500 pct. af den regulerede bogførte hovedstol for boliger med tilsagn efter den 31. marts 1996.
 
 Stk. 3. Ydelsesstøtte udgør et beløb, som svarer til forskellen mellem de samlede ydelser på indekslånet og låntagers betaling.
 
