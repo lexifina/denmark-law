@@ -1,13 +1,15 @@
-Skatteministeriet, den 24. august 1992
+Skatteministeriet, den 31. marts 1993
 
-Anders Fogh Rasmussen
+Ole Stavad
 
 / O. Bådum
 
-(* 1) Lov nr. 700 af 22. november 1988 (ny § 9 a og ændring af § 11,
+(* 1) Lov nr. 364 af 14. maj 1992, § 4 (ændring af § 6, stk. 1 og af »toldvæsenet« til »de statslige told- og skattemyndigheder«) trådte i kraft 1. januar 1993.
 
-Tstk. 4) trådte i kraft 23. november 1988.
+(* 2) Lov nr. 495 af 24. juni 1992, § 2 (ændring af § 3) trådte i
 
-(* 2) Lov nr. 825 af 19. december 1989 (ændring af § 6, stk. 2, § 9, stk. 4 og ny § 13 b) trådte i kraft 1. januar 1990.
+kraft 1. oktober 1992.
 
-(* 3) Lov nr. 765 af 27. november 1991 (ændring af § 2, stk. 1, § 2, stk. 2, § 4, § 5, stk. 1 og stk. 2, § 7, stk. 1 og stk. 2, § 8, § 9, stk. 1, stk. 2, stk. 3 og stk. 4 og § 16, stk. 1) trådte i kraft 1. juli 1992.
+(* 3) Lov nr. 1073 af 23. december 1992, § 1 (ændring af § 9 a)
+
+trådte i kraft 1. april 1993.
