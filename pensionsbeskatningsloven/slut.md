@@ -1,15 +1,17 @@
-Skatteministeriet, den 16. august 1993
+Skatteministeriet, den 28. september 1994
 
 Ole Stavad
 
 / Carsten Vesterø Jensen
 
-(* 1) Denne lovbekendtgørelse indeholder bemærkninger om ikrafttrædelses- og overgangsbestemmelser, der er vedtaget i folketingsåret 1992-93. Bemærkninger om ikrafttrædelses- og overgangsbestemmelser for tidligere vedtagne ændringer i pensionsbeskatningsloven er kun medtaget i det omfang, de skønnes at have betydning.
+(* 1) Denne lovbekendtgørelse indeholder bemærkninger om ikrafttrædelses- og overgangsbestemmelser, der er vedtaget i folketingsåret 1993-94. Bemærkninger om ikrafttrædelses- og overgangsbestemmelser for tidligere vedtagne ændringer i pensionsbeskatningsloven er kun medtaget i det omfang, de skønnes at have betydning.
 
-(* 2) Bestemmelserne i § 4, stk. 1, § 7, stk. 1, 1. pkt., § 8, nr. 1, 1. pkt., § 9, stk. 1, § 10, stk. 1, nr. 1, 1. pkt., § 11, stk. 1, § 11 A, stk. 1, nr. 1, § 12, stk. 1, nr. 1, samt § 13, stk. 1, træder i den her anførte affattelse i kraft den 9. maj 1993, jf. § 4, stk. 1, i lov nr. 272 af 6. maj 1993.
+(* 2) Bestemmelserne i § 16, stk. 2, og § 18, stk. 2, træder i den her anførte affattelse i kraft den 2. juni 1994 og har virkning fra og med 1. januar 1994, jf. § 4, stk. 1 og 5, i lov nr. 443 af 1. juni 1994.
 
-(* 3) Bestemmelsen i § 19 D, stk. 1, har i den her anførte affattelse virkning fra den 19. maj 1993, jf. § 19, stk. 1, i lov nr. 421 af 25. juni 1993.
+(* 3) Bestemmelsen i § 16, stk. 3, træder i den her anførte affattelse i kraft den 2. juni 1994 og har virkning for 1995 og senere år, jf. § 4, stk. 1 og 2, i lov nr. 443 af 1. juni 1994.
 
-(* 4) Bestemmelserne i § 41, stk. 1 og 3, har i den her anførte affattelse virkning for overførsel, der finder sted den 7. oktober 1992 eller senere, jf. § 2, stk. 2, i lov nr. 1028 af 19. december 1992.
+(* 4) Skatteministeren fastsætter tidspunktet for ikrafttrædelsen af bestemmelserne i § 41, stk. 4-6. Loven har virkning for personer, der den 1. januar 1973 eller senere er ansat efter vedtægten for tjenestemænd i De Europæiske Fællesskaber. Afgift, tillægsafgift og indkomstskat, der er opkrævet af overførte ordninger, kan overføres til en ordning oprettet efter vedtægten for tjenestemænd i De Europæiske Fællesskaber efter anmodning fra den skattepligtige.
 
-(* 5) Bestemmelsen i § 45, stk. 2, har i den her anførte affattelse virkning fra den 1. januar 1993, jf. § 4 i lov nr. 186 af 14. april 1993.
+Skatteministeren kan fritage personer, der før den 1. januar 1973 er ansat efter vedtægten for tjenestemænd i De Europæiske Fællesskaber, for afgift, tillægsafgift og eventuel indkomstskat af overførte beløb. Ministeren fastsætter de nærmere vilkår for fritagelsen. Pensionsbeskatningslovens § 41, stk. 5 og 6, finder tilsvarende anvendelse ved sådanne fritagelser. Der henvises til § 2 i lov nr. 441 af 1. juni 1994.
+
+(* 5) Bestemmelsen i § 56, stk. 5, træder i den her anførte affattelse i kraft den 1. januar 1994 og har virkning fra og med den samme dato, jf. § 2 i lov nr. 1119 af 22. december 1993.

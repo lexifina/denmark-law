@@ -1,6 +1,6 @@
-Bekendtgørelse af lov om beskatningen af pensionsordninger m.v.(* 1)
+Bekendtgørelse af lov om beskatningen af pensionsordninger m.v. (* 1)
 
-Herved bekendtgøres lov om beskatningen af pensionsordninger m.v., jf. lovbekendtgørelse nr. 868 af 22. oktober 1992, med de ændringer og tilføjelser, der følger af lov nr. 1028 af 19. december 1992, lov nr. 186 af 14. april 1993, lov nr. 272 af 6. maj 1993 og lov nr. 421 af 25. juni 1993.
+Herved bekendtgøres lov om beskatningen af pensionsordninger m.v., jf. lovbekendtgørelse nr. 664 af 16. august 1993, med de ændringer og tilføjelser, der følger af lov nr. 1119 af 22. december 1993, lov nr. 441 af 1. juni 1994 og lov nr. 443 af 1. juni 1994.
 
 ## Afsnit I
 
