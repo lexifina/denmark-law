@@ -1,1 +1,1 @@
-§ 264 c. De i §§ 263-264 a indeholdte straffebestemmelser finder tilsvarende anvendelse på den, der uden at have medvirket til gerningen skaffer sig eller uberettiget udnytter oplysninger, som er fremkommet ved overtrædelsen.
+§ 264 c. De i §§ 263, 264 og 264 a indeholdte straffebestemmelser finder tilsvarende anvendelse på den, der uden at have medvirket til gerningen skaffer sig eller uberettiget udnytter oplysninger, som er fremkommet ved overtrædelsen.

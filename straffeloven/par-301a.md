@@ -1,0 +1,3 @@
+§ 301 a. Med bøde eller fængsel indtil 1 år og 6 måneder straffes den, der uretmæssigt skaffer sig eller videregiver koder eller andre adgangsmidler til informationssystemer, hvortil adgangen er forbeholdt betalende brugere, og som er beskyttet med kode eller anden særlig adgangsbegrænsning.
+
+Stk. 2. Sker den i stk. 1 nævnte videregivelse m.v. under særligt skærpende omstændigheder, er straffen fængsel indtil 6 år. Som særligt skærpende omstændigheder anses navnlig tilfælde, hvor videregivelse m.v. sker erhvervsmæssigt, i en videre kreds eller under omstændigheder, hvor der er særlig risiko for omfattende misbrug.

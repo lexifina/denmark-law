@@ -1,0 +1,1 @@
+§ 299 a. Med fængsel indtil 6 år straffes den, der under særligt skærpende omstændigheder gør sig skyldig i overtrædelse af markedsføringslovens § 10. Som særligt skærpende omstændigheder anses navnlig tilfælde, hvor handlingen har medført betydelig skade, eller der er fremkaldt nærliggende fare herfor.
