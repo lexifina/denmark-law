@@ -1,1 +1,0 @@
-§ 18 a. Såfremt ejeren af en arbejderbolig, der er oprettet efter 1. april 1959, overgår til andet erhverv end normalt forefaldende arbejde på landet, kan landbrugsministeren kræve, at statslånene forrentes fuldt ud. Bestemmelsen finder tilsvarende anvendelse med hensyn til ejendomme, hvor lånene er konverteret efter reglerne i § 22 a.

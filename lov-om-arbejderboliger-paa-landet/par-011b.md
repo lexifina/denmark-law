@@ -1,1 +1,0 @@
-§ 11 b. Lånebeløb, der ikke sikres efter reglen i § 11, stk. 4, skal sikres med betryggende panteret i ejendommen. Landbrugsministeren fastsætter nærmere regler for, i hvilket omfang lån efter § 11 a står tilbage for lån ydet af realkreditinstitutterne.
