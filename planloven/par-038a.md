@@ -1,0 +1,5 @@
+## Kapitel 8
+
+## Sommerhusområder
+
+§ 38 a. En ejendom i et sommerhusområde må, medmindre andet er fastsat i en lokalplan eller i en af de planer, der er opretholdt ved § 68, stk. 2, ikke benyttes til anden anvendelse end boligformål, jf. §§ 40 og 41. En anvendelse, der er lovligt påbegyndt senest den 12. juni 1999, kan dog fortsætte, men retten hertil bortfalder, når den ikke har været udnyttet i 3 på hinanden følgende år, jf. § 56, stk. 2.
