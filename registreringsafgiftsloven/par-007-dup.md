@@ -1,0 +1,1 @@
+§ 7. Afgiften af køretøjer, der er registreret her i landet eller i udlandet inden den 1. januar 1984, tilbagebetales med nedenstående beløb for køretøjer, der afmeldes fra motorregistreret i perioden 1. januar 1994 til 30. juni 1995:
