@@ -1,3 +1,3 @@
-Lov om befordringsrabat til studerende ved videregående uddannelser
+Bekendtgørelse af lov om befordringsrabat til studerende ved videregående uddannelser
 
-VI MARGRETHE DEN ANDEN, af Guds Nåde Danmarks Dronning, gør vitterligt: Folketinget har vedtaget og Vi ved Vort samtykke stadfæstet følgende lov:
+Herved bekendtgøres lov nr. 1234 af 27. december 1996 om befordringsrabat til studerende ved videregående uddannelser med de ændringer, der følger af lov nr. 235 af 21. april 1999 og lov nr. 261 af 12. april 2000.
