@@ -1,4 +1,4 @@
-§ 8 a. (* 2) Skat af udbytteindkomst, der ikke overstiger et grundbeløb på 26.400 kr., beregnes som en endelig skat på 30 pct. Indeholdt udbytteskat efter kildeskattelovens § 65 af udbytteindkomst, der ikke overstiger grundbeløbet, er endelig betaling af skatten, og udbytteskatten modregnes ikke i slutskatten efter kildeskattelovens § 67.
+§ 8 a. Skat af udbytteindkomst, der ikke overstiger et grundbeløb på 26.400 kr., beregnes som en endelig skat på 30 pct. Indeholdt udbytteskat efter kildeskattelovens § 65 af udbytteindkomst, der ikke overstiger grundbeløbet, er endelig betaling af skatten, og udbytteskatten modregnes ikke i slutskatten efter kildeskattelovens § 67.
 
 Stk. 2. Skat af udbytteindkomst, der overstiger et grundbeløb på 26.400 kr., beregnes med 45 pct. Skat af udbytteindkomst, der overstiger grundbeløbet, indgår i slutskatten, og den udbytteskat, der er indeholdt i denne del af udbyttet efter kildeskattelovens § 65, modregnes i slutskatten efter kildeskattelovens § 67.
 
