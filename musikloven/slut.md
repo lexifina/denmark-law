@@ -1,5 +1,7 @@
-Kulturministeriet, den 6. juli 1990
+Kulturministeriet, den 28. februar 1994
 
-OLE VIG JENSEN
+Jytte Hilden
 
-/Lise Roepstorff
+/ Annelise Jensen
+
+Ingen

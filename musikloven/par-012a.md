@@ -1,0 +1,1 @@
+§ 12 a. De institutioner m.v., der modtager tilskud i henhold til denne lov, skal føre og aflægge regnskab i overensstemmelse med særlige eller generelle regler herfor. Kulturministeren fastsætter de nærmere regler for regnskabsaflæggelsen.
