@@ -1,5 +1,3 @@
-Bekendtgørelse af Lov om beregning af et reguleringspristal
+Bekendtgørelse af lov om beregning af et nettoprisindeks
 
-(Pristalsloven)
-
-Herved bekendtgøres lov om beregning af et reguleringspristal, jf. lovbekendtgørelse nr. 243 af 2. juni 1971, med de ændringer, der følger af lov nr. 52 af 11. marts 1975 og lov nr. 8 af 9. januar 1980.
+Herved bekendtgøres lov om beregning af et nettoprisindeks, jf. lovbekendtgørelse nr. 134 af 8. april 1980, med de ændringer, der følger af lov nr. 354 af 1. juli 1988 og lov nr. 438 af 13. juni 1990. (Den bekendtgjorte lovtekst gælder først fra den 1. august 1990, jf. § 2 i lov nr. 438 af 13. juni 1990).

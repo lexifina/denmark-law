@@ -1,9 +1,7 @@
-ØKONOMINISTERIET, DEN 8. APRIL 1980
+Økonomiministeriet, den 10. juli 1990
 
-IVAR NØRGAARD
+Niels Helveg Petersen
 
-/Ole Bruhn Johansen
+/ Ole Bruhn Johansen
 
-Særlig note:
-
-(* 1) Oversat til engelsk.
+Ingen
