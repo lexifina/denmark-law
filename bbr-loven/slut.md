@@ -1,15 +1,7 @@
-Givet på Christiansborg slot, den 12. maj 1976.
+Boligministeriet, den 28. februar 1990
 
-Under Vor Kongelige Hånd og Segl.
+Agnete Laustsen
 
-I Dronningens navn:
-
-INGRID
-
-Dronning af Danmark.
-
-Rigsforstander.
-
-Helge Nielsen.
+/ Hanne Victor Hansen
 
 Ingen
