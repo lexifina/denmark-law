@@ -1,9 +1,9 @@
-Givet på Christiansborg slot, den 28. april 1976.
+Energiministeriet, den 27. april 1989
 
-Under Vor Kongelig Hånd og Segl.
+Jens Bilgrav-Nielsen
 
-MARGRETHE R.
+/ Jørgen Staffeldt
 
-/Erling Jensen.
+1) Loven trådte i kraft d. 14. juni 1986.
 
 Ingen
