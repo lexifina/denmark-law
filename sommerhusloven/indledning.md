@@ -1,5 +1,3 @@
-Bekendtgørelse af Lov om sommerhuse og campering m.v.
+Bekendtgørelse af lov om sommerhuse og campering m.v. Sommerhusloven/sommerhuslov
 
-(Sommerhusloven)
-
-Herved bekendtgøres lov om sommerhuse og campering m.v., jfr. lovbekendtgørelse nr. 689 af 28. december 1984, med de ændringer, der følger af lov nr. 190 af 15. maj 1985.
+Herved bekendtgøres lov om sommerhuse og campering m.v., jf. lovbekendtgørelse nr. 357 af 15. juli 1985, med de ændringer, der følger af lov nr. 192 af 29. marts 1989.

@@ -4,7 +4,7 @@ Stk. 2. Ved behandlingen af klagesager som nævnt i stk. 1 medvirker sagkyndige 
 
 1. Kommunernes Landsforening,
 
-2. Amtsrådsforeningen i Danmark og hovedstadsrådet i forening.
+2. Amtsrådsforeningen i Danmark.
 
 Stk. 3. Til behandlingen af de enkelte sager udpeger formanden 2 beskikkede medlemmer, således at der deltager en fra hver af de to grupper.
 
@@ -16,7 +16,7 @@ Stk. 6. Klage til miljøankenævnet kan indgives af:
 
 1) personer med en væsentlig individuel interesse,
 
-2) amtsrådet, i hovedstadsområdet dog hovedstadsrådet, og
+2) amtsrådet og
 
 3) vedkommende grundejerforening.
 

@@ -16,8 +16,8 @@ Stk. 5. Kommunalbestyrelsens afgørelse efter stk. 1 kan indbringes for miljøan
 
 § 13. Loven træder i kraft den 1. august 1984. (* 2)
 
-Stk. 2. - -
+Stk. 2. - - - § 3 i lov nr. 190 af 15. maj 1985 om ændring af lov om kommuneplanlægning og lov om sommerhuse og campering m.v. er sålydende:
 
-§ 3 i lov nr. 190 af 15. maj 1985 om ændring af lov om kommuneplanlægning og lov om sommerhuse og campering m.v. er sålydende:
+§ 3. Loven træder i kraft ved bekendtgørelsen i Lovtidende. (* 3) § 32 i lov nr. 192 af 29. marts 1989 om ændring af forskellige lovbestemmelser som følge af nedlæggelsen af Hovedstadsrådet er sålydende:
 
-§ 3. Loven træder i kraft ved bekendtgørelsen i Lovtidende. (* 3)
+§ 32. Loven træder i kraft den 1. januar 1990. (* 4)
