@@ -1,1 +1,1 @@
-§ 12 a. Med henblik på statistiske opgørelser over tinglysningen af sælgerpantebreve skal enhver, der til tinglysning indleverer et pantebrev, der udgør en del af berigtigelsen af købesummen i forbindelse med omsætning af fast ejendom, forsyne dokumentet med påtegningen'Sælgerpantebrev'.
+§ 12 a. Med henblik på statistiske opgørelser over tinglysningen af sælgerpantebreve skal enhver, der til tinglysning indleverer et pantebrev, der udgør en del af berigtigelsen af købesummen i forbindelse med omsætning af fast ejendom, forsyne dokumentet med påtegningen 'Sælgerpantebrev'.
