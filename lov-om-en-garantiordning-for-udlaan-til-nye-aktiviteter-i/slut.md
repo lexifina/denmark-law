@@ -1,9 +1,7 @@
-Givet på Amalienborg, den 19. december 1992
+Industriministeriet, den 3. juni 1993
 
-Under Vor Kongelige Hånd og Segl
+Jan Trøjborg
 
-MARGRETHE R.
-
-/Anne Birgitte Lundholt
+/ Hendrik Boesgaard
 
 Ingen
