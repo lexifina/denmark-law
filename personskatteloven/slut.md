@@ -1,59 +1,55 @@
-Skatteministeriet, den 1. september 1996
+Skatteministeriet, den 11. september 1997
 
 Carsten Koch
 
 / H. K. Andersen
 
-(* 1) Denne lovbekendtgørelse indeholder bemærkninger om ikrafttrædelses- og overgangsbestemmelser for love, der er vedtaget i folketingsåret 1995-96. Bemærkninger om ikrafttrædelses- og overgangsbestemmelser for tidligere ændringer af personskatteloven er kun medtaget i det omfang, de skønnes at have betydning.
+(* 1) Denne lovbekendtgørelse indeholder bemærkninger om ikrafttrædelses- og overgangsbestemmelser, der er vedtaget i folketingsåret 1996-97. Hvad angår bemærkninger om ikrafttrædelses- og overgangsbestemmelser for tidligere ændringer af personskatteloven henvises til tidligere lovbekendtgørelser af personskatteloven.
 
-(* 2) Bestemmelserne i § 2, § 4, stk. 1, nr. 5, § 4a, stk. 1, nr. 1,
+(* 2) Lovens titel er ændret ved § 15 i lov nr. 1219 af 27. december 1996 (Ændringer som følger af afskaffelse af formueskatten m.v.).
 
-2, 5, 6 og 7, § 4b, § 5, nr. 4, 5 og 6 og § 8b har i den her anførte
+(* 3) Bestemmelsen i § 4, stk. 1, nr. 8 har i den her anførte affattelse virkning fra og med indkomståret 1997, jf. § 7, stk. 2, i lov nr. 1217 af 27. december 1996 (Forenkling af virksomhedsordningen, afskaffelse af 25 pct.s tillægget m.v.).
 
-affattelse virkning fra og med indkomståret 1996, jf. § 12 i lov nr.
+(* 4) Bestemmelserne i § 4, stk. 3, 2. pkt. og § 13 a, stk. 1, 1.
 
-487 af 12. juni 1996. Er indkomståret 1996 påbegyndt før den 6.
+pkt. har i de her anførte affattelser virkning fra og med
 
-december 1995 har loven dog først virkning fra og med indkomståret
+indkomståret 1998, jf. § 12, stk. 2, i lov nr. 440 af 10. juni 1997
 
-1997.
+(Konsekvensændringer m.v. i anledning af lovrevision af
 
-(* 3) Bestemmelserne i § 4, stk. 1, nr. 4 og nr. 5, stk. 5, § 4a,
+kursgevinstloven).
 
-stk. 1, nr. 3 og § 4a, stk. 2, 2. pkt., har virkning fra og med den
+(* 5) Bestemmelsen i § 4 a, stk. 1, nr. 4, har i denne affattelse virkning for aktier afstået den 31. oktober 1996 eller senere, jf. § 4 i lov nr. 1212 af 27. december 1996 (Fradragsret for aktier modtaget som vederlag i henhold til ligningslovens § 27 E-ideaktier).
 
-1. januar 1996, jf. § 11 i lov nr. 399 af 22. maj 1996.
+(* 6) Bestemmelserne i § 4 b, stk. 2, § 5, § 9, § 19, stk. 1 og § 25
 
-(* 4) Bestemmelsen i § 4, stk. 3, trådte i kraft den 1. juni 1996,
+a, træder i de her anførte affattelser i kraft den 1. januar 1997,
 
-jf. § 126, stk. 1, i lov nr. 1072 af 20. december 1996.
+jf. § 37, stk. 1, i lov nr. 1223 af 27. december 1996 (Ændringer som
 
-(* 5) Har en skattepligtig med bagudforskudt indkomstår 1996
+følge af dødsboskifteloven og dødsboskatteloven m.v.). Det samme
 
-oppebåret udbytte i perioden mellem indkomstårets begyndelse og 1.
+gælder ophævelsen af § 8 og § 27, stk. 2, samt ændringerne i § 13,
 
-januar 1996, udgør endelig skat efter personskattelovens § 8 a, stk.
+stk. 1-4, der er en følge af ophævelsen af § 8.
 
-1, og § 15, stk. 2, 30 pct. af denne del af aktieindkomsten, jf. §
+(* 7) For så vidt angår indkomstbeskatning m.v. i forbindelse med dødsfald finder ophævelsen af § 6 a, stk. 5, § 8 a, stk. 7, § 10, stk. 6-9 og §§ 15-17 anvendelse på boer og mellemperioder vedrørende personer, som er afgået ved døden efter den 1. januar 1997, på beskatningen af efterlevende ægtefæller og modtagere af udlodning og boudlæg efter personer, som er afgået ved døden efter den 1. januar 1997 samt på skifte af uskiftet bo i den efterlevende ægtefælles levende live, når anmodning om skifte indgives efter den 1. januar 1997, jf. § 37, stk. 2, i lov nr. 1223 af 27. december 1996.
 
-19, stk. 8, 2. pkt., i lov nr. 421 af 25. juni 1993.
+(* 8) Bestemmelserne i § 13, stk. 2, 3. pkt. og 6. pkt., har virkning fra og med indkomståret 1997. Skattepligtige, hvis indkomstår 1997 er påbegyndt den 7. november 1996, kan dog vælge først at anvende disse fra og med indkomståret 1998, jf. § 7, stk. 2, i lov nr. 1217 af 27. december 1996 (Forenkling af virksomhedsordningen, afskaffelse af 25 pct.s tillæg m.v.). Bestemmelserne i § 13, stk. 4, 4. pkt. og 8. pkt., har virkning fra og med indkomståret 1997, jf. § 7, stk. 2, i lov nr. 1217 af 27. december 1996.
 
-(* 6) Bestemmelsen i § 13, stk. 6, har i den her anførte affattelse virkning for indkomståret 1996 og senere indkomstår, jf. § 19, stk. 1, i lov nr. 313 af 17. maj 1995.
+(* 9) Ved lov nr. 1217 af 27. december 1996 ændredes § 13 a, stk. 1
 
-(* 7) Bestemmelserne i § 18, stk. 3, stk. 4, stk. 5, 1. og 3. pkt.
+og 2, i overensstemmelse med, at reglerne om modregning af
 
-har virkning fra og med indkomståret 1996, jf. § 2 i lov nr. 1105 af
+virksomhedsunderskud i virksomhedsskatteloven blev forenklet. Disse
 
-20. december 1995.
+ændringer har virkning fra og med indkomståret 1997, jf. § 7 i lov
 
-(* 8) Bestemmelsen i den her anførte affattelse har virkning fra og
+nr. 1217 af 27. december 1996. Skattepligtige hvis indkomstår 1997 er
 
-med indkomståret 1996, jf. § 4 i lov nr. 488 af 12. juni 1996.
+påbegyndt den 7. november 1996, kan dog vælge først fra og med
 
-(* 9) Bestemmelsen i den her anførte affattelse har virkning fra og
+indkomståret 1998 at anvende bestemmelserne.
 
-med indkomståret 1996, jf. § 4 i lov nr. 228 af 27. marts 1996.
-
-(* 10) Ved § 1 i lov nr. 826 af 27. oktober 1995 blev skatteloftet
-
-for 1996 ændret fra 61 til 62 pct.
+(* 10) Bestemmelserne i § 18, § 19, stk. 2-8 og § 19 a er ophævet ved lov nr. 1219 af 27. december 1996. (Ændringer som følge af afskaffelse af formueskatten). Ophævelsen har virkning fra og med indkomståret 1997.
