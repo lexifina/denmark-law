@@ -1,0 +1,5 @@
+§ 14 D. Den afgiftspligtige kan senest 1 måned efter, at den pågældende har fået underretning om afgiftens indeholdelse, forlange afgiftsberegningen efterprøvet af skatteankenævnet i den kommune, hvor den afgiftspligtige havde bopæl på tidspunktet for afgiftspligtens indtræden. Hvis den afgiftspligtige ikke på dette tidspunkt havde bopæl her i landet, skal klagen rettes til skatteankenævnet i den kommune, hvor det institut, der er nævnt i § 14 C, stk. 3, har forretningssted. Er udbetalingen sket til et dødsbo, kan boet forlange afgiftsberegningen efterprøvet af skatteankenævnet i den kommune, hvor afdøde havde bopæl ved sin død, eller, hvis afdøde ikke havde bopæl her i landet, af skatteankenævnet i den kommune, hvor det institut, der er nævnt i § 14 C, stk. 3, har forretningssted.
+
+Stk. 2. Skatteankenævnets afgørelse kan senest 2 måneder fra modtagelsen af afgørelsens dato påklages til Landsskatteretten.
+
+Stk. 3. (* 2) I øvrigt anvendes skattestyrelseslovens regler om klage over beregninger af indkomstskat til staten tilsvarende.

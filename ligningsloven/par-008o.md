@@ -1,0 +1,1 @@
+§ 8 O. Skattepligtig kontanthjælp, der er tilbagebetalingspligtig efter kapitel 6 i lov om social bistand, fradrages ved opgørelsen af den skattepligtige indkomst for det indkomstår, hvori beløbet tilbagebetales.

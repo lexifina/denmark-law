@@ -1,0 +1,1 @@
+§ 8 E. Ved opgørelsen af den skattepligtige indkomst skal landbrugeres fradrag efter § 6, stk. 1, litra a, i statsskatteloven for udgifter til bjærgning og opbevaring m.v. af halm ikke begrænses under hensyn til, at halmen benyttes til fyring i anlæg, som forsyner den private bolig med varme.
