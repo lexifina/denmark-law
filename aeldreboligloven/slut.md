@@ -1,4 +1,4 @@
-Boligministeriet, den 5. september 1995
+Boligministeriet, den 24. april 1996
 
 Ole Løvig Simonsen
 
@@ -13,5 +13,3 @@ Ole Løvig Simonsen
 (* 4) Lovændringen vedrører § 21. Bekendtgørelsen fandt sted i Lovtidende den 23. december 1993.
 
 (* 5) Bekendtgørelsen fandt sted i Lovtidende den 9. februar 1995.
-
-(* 6) Bekendtgørelsen fandt sted i Lovtidende den 18. maj 1995.
