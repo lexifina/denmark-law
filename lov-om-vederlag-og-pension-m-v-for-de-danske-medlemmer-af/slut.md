@@ -1,7 +1,5 @@
-Givet på Amalienborg, den 29. december 1999
+Finansministeriet, den 19. marts 2004
 
-Under Vor Kongelige Hånd og Segl
+Thor Pedersen
 
-Margrethe R.
-
-/Mogens Lykketoft
+/Mai-Britt Rasmussen
