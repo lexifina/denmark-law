@@ -1,5 +1,5 @@
-Kirkeministeriet, den 2. december 2003
+Kirkeministeriet, den 29. juni 2004
 
 Tove Fergo
 
-/Rasmus Rex
+/Pernille Esdahl
