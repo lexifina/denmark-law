@@ -2,4 +2,6 @@
 
 Stk. 2. Ejendomme, der alene udtræder for tag- og overfladevand, kan maksimalt få 40 pct. af det i stk. 1 nævnte maksimumsbeløb tilbagebetalt. Tilbagebetalingen skal gøres betinget af etablering af alternativ bortskaffelse.
 
+Stk. 3. En ejendom, som har fået ophævet tilslutningsretten og -pligten helt eller delvist, kan ved hel eller delvis generhvervelse af retten og pligten til at aflede spildevand pålignes et tilslutningsbidrag. Tilslutningsbidraget kan ikke overstige de af kloakforsyningen afholdte udgifter i forbindelse med generhvervelsen af retten og pligten til at aflede og kan maksimalt udgøre det i § 2, stk. 2 og 3, nævnte beløb. Såfremt ejendommen ved ophævelse af tilslutningsretten og -pligten har fået tilbagebetalt et beløb efter stk. 1 og 2, skal tilslutningsbidraget dog som minimum udgøre dette beløb.
+
 Private spildevandsanlæg
