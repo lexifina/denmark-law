@@ -25,3 +25,23 @@ Stk. 1. Loven træder i kraft den 1. januar 1994.
 Stk. 2. Loven finder anvendelse på klager, der rejses over for Patientklagenævnet den 1. januar 1994 eller herefter.
 
 Stk. 3. For klager, der er indleveret til Patientklagenævnet før 1. januar 1994, men hvor Sundhedsstyrelsen endnu ikke pr. 1. januar 1994 har afgivet en udtalelse i sagen, kan Patientklagenævnet beslutte, at sagerne kan overgå til fortsat behandling i nævnet, uden at Sundhedsstyrelsen har afgivet udtalelse i sagen.
+
+Lov nr. 258 af 12. april 2000, der vedrører § 4, stk. 2, § 5, stk.1, nr.2, § 5, stk. 2-5, § 5 a, § 6, stk.1, § 8, § 10, stk. 1, §11, § 19, stk. 4, § 25 og § 26 indeholder følgende ikrafttrædelsesbestemmelse m.v.:
+
+§ 2
+
+Loven træder i kraft den 1. juli 2000.
+
+§ 3
+
+Loven gælder ikke for Færøerne og Grønland, men kan ved kongelig anordning helt eller delvis sættes i kraft for Færøerne med de afvigelser, som de særlige færøske forhold tilsiger.
+
+Lov nr. 141 af 5. marts 2001, der vedrører § 4 a, § 12, stk. 2, § 23 a, og § 23 b, indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 5
+
+Loven træder i kraft den 1. april 2001.
+
+§ 6
+
+Loven gælder ikke for Færøerne og Grønland, men kan ved kongelig anordning helt eller delvis sættes i kraft for Færøerne med de afvigelser, som de særlige færøske forhold tilsiger.
