@@ -1,7 +1,7 @@
-§ 6 a. (* 7) Skatten efter § 5, nr. 2, beregnes med den i stk. 2 anførte procent af den personlige indkomst med tillæg af positiv kapitalindkomst eller fradrag af negativ kapitalindkomst, i det omfang det samlede beløb overstiger et bundfradrag på 105.100 kr. Bundfradraget reguleres efter § 20.
+§ 6 a. Skatten efter § 5, nr. 2, beregnes med 6 pct. af den personlige indkomst med tillæg af positiv kapitalindkomst, i det omfang det samlede beløb overstiger det i stk. 2 anførte bundfradrag. Bundfradraget reguleres efter § 20.
 
-Stk. 2. For indkomståret 1994 udgør procenten 4,5. For hvert af indkomstårene 1995 og 1996 udgør procenten 5. For indkomståret 1997 og følgende indkomstår udgør procenten 6.
+Stk. 2. For indkomståret 1999 udgør bundfradraget 111.000 kr. For indkomståret 2000 udgør bundfradraget 116.650 kr. For indkomståret 2001 udgør bundfradraget 122.100 kr. For indkomståret 2002 og efterfølgende indkomstår udgør bundfradraget 127.350 kr.
 
-Stk. 3. Hvis en gift persons personlige indkomst med tillæg af positiv kapitalindkomst eller fradrag af negativ kapitalindkomst er lavere end det i stk. 1 nævnte bundfradrag, forhøjes den anden ægtefælles bundfradrag med forskelsbeløbet. Forhøjelsen kan dog højst udgøre et til bundfradraget svarende beløb. Det er en forudsætning, at ægtefællerne er samlevende ved indkomstårets udløb.
+Stk. 3. Hvis en gift person har negativ kapitalindkomst, modregnes dette beløb i den anden ægtefælles positive kapitalindkomst, inden skatten efter stk. 1 og 2 beregnes. Det er en forudsætning, at ægtefællerne er samlevende ved indkomstårets udløb.
 
-Stk. 4. Hvis en gift persons positive personlige indkomst med fradrag af negativ kapitalindkomst udgør et negativt beløb, fragår dette ved beregningen af skat efter § 5, nr. 2, for den anden ægtefælle. Stk. 3, sidste pkt., finder tilsvarende anvendelse.
+Stk. 4. Hvis en gift persons personlige indkomst med tillæg af positiv kapitalindkomst er lavere end det i stk. 2 nævnte bundfradrag, forhøjes den anden ægtefælles bundfradrag med forskelsbeløbet. Forhøjelsen kan dog højst udgøre et til bundfradraget svarende beløb. Det er en forudsætning, at ægtefællerne er samlevende ved indkomstårets udløb.
