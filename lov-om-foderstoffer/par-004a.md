@@ -1,0 +1,3 @@
+§ 4a. Betalingsforpligtelser, der er fastsat i henhold til denne lov eller ved forordning af Det Europæiske Fællesskab, og som ikke opfyldes rettidigt over for den afgiftsopkrævende myndighed, tillægges, medmindre andet er fastsat ved forordning, en årlig rente svarende til renten i henhold til rentelovens § 5. Den tillagte rente udgør dog mindst 50 kr. For erindringsskrivelser betales et gebyr på 50 kr., som reguleres i henhold til § 3 i lov om en satsreguleringsprocent.
+
+Stk. 2. Der er udpantningsret for betalingsforpligtelser fastsat efter § 1, stk. 3, nr. 11, og for renter og gebyrer fastsat efter stk. 1.
