@@ -4,6 +4,6 @@ Stk. 2. Bøderne kan inddrives ved indeholdelse i løn m.v. efter reglerne herom
 
 ## Afsnit IX
 
-Forskellige bestemmelser
+## Forskellige bestemmelser
 
 §§ 80-82. (Ophævet)
