@@ -1,1 +1,1 @@
-§ 6 B. Indvindes en fortjeneste for ejendomme omfattet af § 6 A ved modtagelse af en forsikrings- eller erstatningssum i anledning af en indtruffen skade, kan den skattepligtige i stedet for at medregne fortjenesten til den skattepligtige indkomst vælge at nedsætte anskaffelsessummen på den genopførte ejendom med fortjenesten efter reglerne i § 6 A. Genopførelsen skal finde sted i det samme indkomstår, som skaden indtræffer, eller i det nærmest følgende indkomstår.
+§ 6 B. (Ophævet).
