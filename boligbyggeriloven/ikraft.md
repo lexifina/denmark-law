@@ -22,7 +22,7 @@ Stk. 2. De hidtil gældende regler i lov om boligbyggeri, lov om boliger for æl
 
 § 3
 
-Stk. 1. Boligministeren fastsætter tidspunktet for lovens ikrafttræden. (* 4) Dog træder § 1, nr. 2 og 4-13, og § 2 i kraft dagen efter bekendtgørelsen i Lovtidende. (* 5)
+Stk. 1. Boligministeren fastsætter tidspunktet for lovens ikrafttræden. (* 4) Dog træder § 1, nr. 2 og 4-13, og § 2 i kraft dagen efter bekendtgørelsen i Lovtidende.5)
 
 Stk. 2. Bestemmelsen i § 1, nr. 4, finder anvendelse på gældende kontraktsforhold uanset indholdet i disse. (* 6)
 
@@ -36,7 +36,7 @@ Stk. 5. Påviser boligselskabet, at den i stk. 4 nævnte afhændelse eller oplø
 
 § 5
 
-Stk. 1. Loven træder i kraft dagen efter bekendtgørelsen i Lovtidende. (* 8)
+Stk. 1 . Loven træder i kraft dagen efter bekendtgørelsen i Lovtidende. (* 8)
 
 §§ 4, 5 og 6 i lov nr. 361 af 14. juni 1995 er sålydende:
 
@@ -119,3 +119,19 @@ Stk. 1. Loven træder i kraft den 1. januar 1997.
 Stk. 1. Loven træder i kraft dagen efter bekendtgørelsen i Lovtidende, jf. dog stk. 2. (* 10)
 
 Stk. 2. Bestemmelserne i lovens § 187, stk. 1, 3 og 4, samt § 188 som affattet henholdsvis ændret ved denne lovs § 1, nr. 25-29, har virkning fra den 1. januar 1997.
+
+§ 4 i lov nr. 380 af 10. juni 1997 er sålydende:
+
+§ 4
+
+Stk. 1. Loven træder i kraft den 1. januar 1998.
+
+Stk. 2. For kollektive bofællesskaber, hvor boligen er taget i brug til kollektivt bofællesskab før den 1. januar 1998, er det uanset § 24 b, stk. 1, i lov om individuel boligstøtte som affattet ved denne lovs § 3, nr. 2, alene en betingelse for udbetaling af boligstøtte efter § 24 a, stk. 1, i lov om individuel boligstøtte, jf. lovbekendtgørelse nr. 96 af 22. februar 1996 med senere ændringer, at det kollektive bofællesskab består af mindst 3 personer, der alle opfylder betingelerne i § 24 a, stk. 1, nr. 1, eller alle opfylder betingelerne i § 24 a, stk. 1, nr. 3.
+
+Stk. 3. Boligstøtte kan uanset stk. 1 ydes i indtil 3 måneder, såfremt antallet af beboere, der opfylder betingelserne i § 24 a, stk. 1, nr. 1 eller 3, i lov om individuel boligstøtte, jf. lovbekendtgørelse nr. 96 af 22. februar 1996 med senere ændringer, midlertidigt er mindre end 3 som følge af en eller flere beboeres fraflytning eller død.
+
+§ 9 i lov nr. 970 af 17. december 1997 er sålyedende:
+
+§ 9
+
+Loven træder i kraft den 1. januar 1998. § 1, nr. 11, 13-16, 18-21, 23-29 og 59 (* 11), § 3, nr. 10, samt § 5, nr. 2, træder dog først i kraft den 1. juli 1998.
