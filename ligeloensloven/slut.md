@@ -1,5 +1,7 @@
-ARBEJDSMINISTERIET, DEN 5. MAJ 1986
+Arbejdsministeriet, den 15. juni 1989
 
-HENNING DYREMOSE
+Henning Dyremose
 
-/E. Edelberg
+/ E. Edelberg
+
+Ingen
