@@ -1,3 +1,3 @@
 § 7 C. Tilskud efter lov om statstilskud til produktudvikling samt beløb, der efter lov om »Fondet til fremme af teknisk og industriel udvikling« ydes i form af tilskud eller gældsnedskrivning, medregnes ikke til den skattepligtige indkomst.
 
-(* 9) § 7 D. (Ophævet).
+(* 10) § 7 D. (Ophævet).
