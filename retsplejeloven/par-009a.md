@@ -1,4 +1,4 @@
-§ 9 a. I den enkelte sags behandling deltager præsidenten, en vicepræsident eller en dommer og efter reglerne i stk. 2-7 eventuelt tillige et antal af rettens sagkyndige medlemmer.
+§ 9 a. I den enkelte sags behandling deltager præsidenten, en vicepræsident eller en dommer og efter reglerne i stk. 2-8 eventuelt tillige et antal af rettens sagkyndige medlemmer.
 
 Stk. 2. Under domsforhandling i borgerlige sager tiltrædes retten af 2 sagkyndige. Retten kan tilkalde de sagkyndige til retsmøder uden for domsforhandlingen, når den finder særlig anledning hertil, herunder navnlig i tilfælde af afhøring af parter eller vidner, afhjemling af syn og skøn eller afsigelse af kendelse om et omtvistet punkt.
 

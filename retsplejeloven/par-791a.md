@@ -1,6 +1,6 @@
 § 791 a. Politiet kan foretage fotografering eller iagttagelse ved hjælp af kikkert eller andet apparat af personer, der befinder sig på et ikke frit tilgængeligt sted (observation), såfremt,
 
-1) indgrebet må antages at være af væsentlig betydning for efterforskningen og
+1) indgrebet må antages at være af væsentlig betydning for efterforskningen, og
 
 2) efterforskningen vedrører en lovovertrædelse, der efter loven kan medføre frihedsstraf.
 

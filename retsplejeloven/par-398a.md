@@ -20,7 +20,7 @@ Stk. 4. Når tilladelsen er givet, kan Højesteret eller den ret, der behandler 
 
 Stk. 5. Afkald på retten til ekstraordinær genoptagelse og anke er ikke bindende.
 
-Kapitel 39-41. (Ophævet).
+Kapitel 39-41. (Ophævet)
 
 ## Kapitel 42
 
