@@ -1,7 +1,5 @@
 Bekendtgørelse af lov om støtte til de små øsamfund
 
-(trafikstøtte m.v.)
-
 (Østøtteloven)
 
-Herved bekendtgøres lov nr. 620 af 21. december 1983 om støtte til de små øsamfund (trafikstøtte m.v.) med de ændringer, der følger af lov nr. 147 af 25. marts 1987. Den bekendtgjorte lovtekst gælder først fuldt ud fra 1. januar 1988 jf. § 2 i lov nr. 147 af 25. marts 1987, der gengives i bekendtgørelsens slutning.
+Herved bekendtgøres lov om støtte til de små øsamfund, jf. lovbekendtgørelse nr. 216 af 15. april 1987 med de ændringer, der følger af § 28 i lov nr. 380 af 6. juni 1991, lov nr. 294 af 27. april 1994 og § 7 i lov nr. 1094 af 29. december 1997.
