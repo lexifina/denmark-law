@@ -1,7 +1,5 @@
-Givet på Christiansborg Slot, den 31. maj 2000
+Undervisningsministeriet, den 6. juli 2003
 
-Under Vor Kongelige Hånd og Segl
+Ulla Tørnæs
 
-Margrethe R.
-
-/Margrethe Vestager
+/Ole Hvilsom Larsen
