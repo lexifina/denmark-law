@@ -1,0 +1,3 @@
+§ 2 a. Opfindelser, der er omfattet af § 1, og som tilhører en her i landet hjemmehørende person eller virksomhed eller en dansk institution, må ikke søges beskyttet ved patent i henhold til en international patentansøgning, der omfatter eller efter indleveringen ændres til at omfatte Danmark, medmindre ansøgningen indleveres gennem patentmyndigheden her i landet.
+
+Stk. 2. Træffes der bestemmelse om, at patent på opfindelsen her i landet kun kan meddeles som hemmeligt patent, kan ansøgningen ikke uden forsvarsministerens tilladelse videreføres som international ansøgning. Gives sådan tilladelse ikke, kan ansøgeren ændre ansøgningen til at angå patent alene for Danmark, idet reglerne i patentlovens kapitel III om konvertering i så fald finder tilsvarende anvendelse.

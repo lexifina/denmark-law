@@ -1,0 +1,3 @@
+§ 2
+
+Tidspunktet for lovens ikrafttræden fastsættes af handelsministeren.
