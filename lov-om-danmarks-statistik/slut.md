@@ -1,7 +1,5 @@
-Økonomiministeriet, den 21. december 1992
+Økonomiministeriet, den 22. juni 2000
 
-Thor Pedersen
+Marianne Jelved
 
-/ Marianne Petersen
-
-Ingen
+/Marianne Petersen
