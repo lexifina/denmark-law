@@ -1,1 +1,1 @@
-§ 13 b. Reglerne om eftergivelse og henstand i merværdiafgiftslovens § 39 d finder tilsvarende anvendelse på beløb, som personer er pligtige at betale som erstatning for selskabers manglende betaling af afgift efter denne lov.
+§ 13 b. Reglerne om eftergivelse og henstand i merværdiafgiftslovens § 83 finder tilsvarende anvendelse på beløb, som personer er pligtige at betale som erstatning for selskabers manglende betaling af afgift efter denne lov.(* 2)
