@@ -1,3 +1,5 @@
 § 75 a. Amtskommunen refunderer kommunens nettoudgifter til boligstøtte til beboere i ældreboliger og almene ældreboliger opført i medfør af § 5 a i den tidligere lov om boliger for ældre og personer med handicap, jf. lovbekendtgørelse nr. 316 af 24. april 1996, henholdsvis § 115, stk. 4, i lov om almene boliger samt støttede private andelsboliger m.v.
 
 Stk. 2. Tilsvarende refunderes beliggenhedskommunens nettoudgifter til boligstøtte til beboere i ældreboliger og almene ældreboliger af den kommune, der har givet tilsagn om ombygning af et plejehjem til de pågældende boliger efter § 5 b i den tidligere lov om boliger for ældre og personer med handicap eller § 115, stk. 3, i lov om almene boliger samt støttede private andelsboliger m.v.
+
+Stk. 3. Hvis en person i medfør af § 58 a i lov om almene boliger og støttede andelsboliger m.v. får anvist en bolig med amtskommunal anvisningsret i en anden kommune, kan den amtskommune, hvor boligen er beliggende, kræve sin nettoudgift til boligstøtte efter stk. 1 refunderet af den tidligere opholdsamtskommune.
