@@ -1,0 +1,5 @@
+Lov nr. 158 af 6. maj 1980, der vedrører § 3, nr. 1, indeholder følgende bestemmelse:
+
+§ 6. (* 2) Tidspunktet for lovens ikrafttræden bestemmes af justitsministeren. Loven kan sættes i kraft alene i forhold til et eller nogle af de i § 1 nævnte lande.
+
+Stk. 2. Loven anvendes også på dom, der er afsagt, og fastsættelse af faderskab, der har fundet sted, før lovens ikrafttræden, medmindre dommen eller fastsættelsen er i strid med en anden dom eller fastsættelse, der er afsagt eller har fundet sted i Danmark, Finland, Island, Norge eller Sverige før lovens ikrafttræden.
