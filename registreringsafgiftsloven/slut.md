@@ -1,13 +1,7 @@
-Skatteministeriet, den 31. marts 1993
+Skatteministeriet, den 16. august 1993
 
 Ole Stavad
 
-/ O. Bådum
+/ L. Kielgast
 
-(* 1) Lov nr. 364 af 14. maj 1992, § 5 (ændring af § 17, stk. 1, overalt i loven ændres »told- og skattevæsenet« til »de statslige told- og skattemyndigheder«) trådte i kraft 1. januar 1993.
-
-(* 2) Lov nr. 1027 af 19. december 1992 (ændring af § 3, stk. 4 og 5, og § 29, stk. 1, indsættelse af § 3, stk. 6 og 7) trådte i kraft den 1. januar 1993.
-
-(* 3) Lov nr. 1073 af 23. december 1992, § 4 (ændring af § 18, stk.
-
-4, § 19, stk. 4 og § 30, stk. 3) trådte i kraft 1. april 1993.
+(* 1) Lov nr. 429 af 25. juni 1993 (ændring af § 2, stk. 1, nr. 5, nr. 9 og nr. 14, § 3, stk. 4-6, § 4, stk. 1 og stk. 2, § 5, stk. 2, § 5 a, stk. 1, § 6, stk. 1, § 15, stk. 1, § 16, stk. 2, § 21, stk. 1, § 22, stk. 2, § 23, stk. 1 og stk. 2, § 27, stk. 1, og § 29, stk. 2, indsættelse af § 2, stk. 1, nr. 6 og nr. 15, og ophævelse af § 7) trådte i kraft den 1. juli 1993.
