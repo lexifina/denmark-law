@@ -1,5 +1,5 @@
-Kulturministeriet, den 31. august 2000
+Kulturministeriet, den 29. november 2003
 
-Elsebeth Gerner Nielsen
+Brian Mikkelsen
 
-/Jacob Green
+/Per Gade
