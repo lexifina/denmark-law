@@ -1,3 +1,3 @@
-§ 17 a. Staten udbetaler til den enkelte kommune ved begyndelsen af hver måned et beløb til foreløbig dækning af kommunens andel af afgifter af pensionsordninger m.v., hvoraf kommunerne modtager en andel i henhold til lov om beskatningen af pensionsordninger m.v.
+§ 17 a. Staten udbetaler i et budgetår til den enkelte kommune den kommunale andel af afgifter af pensionsordninger m.v., hvoraf kommunerne modtager en andel i henhold til lov om beskatning af pensionsordninger m.v., vedrørende indkomståret to år før budgetåret samt reguleringer vedrørende tidligere indkomstår.
 
-Stk. 2. Den månedlige udbetaling efter stk. 1 skal svare til en tolvtedel af det årlige beløb, der efter det for kommunen vedtagne årsbudget udgør dens indtægt ved de skatter, der er nævnt i stk. 1.
+Stk. 2. Det i stk. 1 nævnte beløb afregnes med en tolvtedel i hver måned i budgetåret.
