@@ -1,3 +1,3 @@
-Varemærkelov(* 1)
+Bekendtgørelse af Varemærkeloven
 
-VI MARGRETHE DEN ANDEN, af Guds Nåde Danmarks Dronning, gør vitterligt: Folketinget har vedtaget og Vi ved Vort samtykke stadfæstet følgende lov:
+Herved bekendtgøres varemærkeloven, jf. lov nr. 341 af 6. juni 1991 med de ændringer, der følger af lov nr. 1201 af 27. december 1996.
