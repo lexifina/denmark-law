@@ -1,3 +1,3 @@
-Lov om forbud mod privates TV-overvågning m.v.
+Bekendtgørelse af lov om forbud mod tv-overvågning mv.
 
-VI MARGRETHE DEN ANDEN, af Guds Nåde Danmarks Dronning, gør vitterligt: Folketinget har vedtaget og Vi ved Vort samtykke stadfæstet følgende lov:
+Herved bekendtgøres lov om forbud mod tv-overvågning mv., jf. lov nr. 278 af 9. juni 1982 med de ændringer, der følger af lov nr. 1016 af 23. december 1998 og lov nr. 939 af 20. december 1999.
