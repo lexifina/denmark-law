@@ -1,7 +1,7 @@
-Undervisningsministeriet, den 4. maj 1987
+Kulturministeriet, den 20. juni 1991
 
-BERTEL HAARDER
+P.M.V.
 
-/Svend Bruun
+E.B.
 
-Ingen
+Jette Lou
