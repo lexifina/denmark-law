@@ -1,33 +1,23 @@
-Skatteministeriet, den 19. juli 1995
+Skatteministeriet, den 5. november 1996
 
 Carsten Koch
 
-/ Kirsten Hvelplund
+/ K.-H. Ludolph
 
-(* 1) Loven indeholder bestemmelser, der gennemfører Rådets direktiv nr. 90/434, EF-Tidende 1990 L 225 s. 1.
+(* 1) Denne lovbekendtgørelse indeholder noter til ændringer af fusionsskatteloven, der er vedtaget efter den 1. oktober 1995. Noter til tidligere ændringer af fusionsskatteloven kan findes i Skatteministeriets lovbekendtgørelse nr. 621 af 19. juli 1995.
 
-(* 2) Denne lovbekendtgørelse indeholder bemærkninger om ikrafttrædelses- og overgangsbestemmelser for § 3 i lov nr. 1090 af 21. december 1994, § 2 i lov nr. 180 af 23. marts 1995, § 2 i lov nr. 256 af 19. april 1995 og § 3 i lov nr. 412 af 14. juni 1995. Bemærkninger om ikrafttrædelses- og overgangsbestemmelser til tidligere ændringer af fusionsskatteloven er kun medtaget i det omfang, de skønnes at have betydning.
+(* 2) Ved lov nr. 1072 af 20. december 1995 om værdipapirhandel m.v. er § 14 a, stk. 3 indsat. Loven er for denne bestemmelses vedkommende trådt i kraft den 1. maj 1996, jf. bekendtgørelse nr. 334 af 30. april 1996, og har virkning fra og med indkomståret 1988.
 
-(* 3) § 6, stk. 5, i den her anførte affattelse har virkning fra og med indkomståret 1995, jf. § 5 i lov nr. 1090 af 21. december 1994.
+Ved samme lov er § 14 h indsat. Loven er for denne bestemmelses vedkommende trådt i kraft den 1. maj 1996, jf. bekendtgørelse nr. 334 af 30. april 1996, med virkning fra og med indkomståret 1997. Ved omdannelse af Københavns Fondsbørs og Værdipapircentralen til et aktieselskab inden den 1. januar 1997 finder fusionsskattelovens § 14 h, stk. 3 tilsvarende anvendelse. Ved omdannelse af Garantifonden for Danske Optioner og Futures til et aktieselskab inden den 1. januar 1997 finder fusionsskattelovens § 14 h tilsvarende anvendelse.
 
-(* 4) § 7 i den her anførte affattelse har virkning fra og med indkomståret 1996, jf. § 10, stk. 2, i lov nr. 180 af 23. marts 1995.
+(* 3) Ved lov nr. 399 af 22. maj 1996, om ændring af forskellige skattelove (Beskatning af investeringsforeninger og deres medlemmer, afgrænsning af »tomme« selskaber, underskudsbegrænsning ved skattefri fusion) er § 8, stk. 2, § 8, stk. 4, og § 15, stk. 2, 3 og 4, § 15 b, stk. 1 og 2, samt § 15 d, stk. 2 og 3, ændret. Ændringerne har virkning for fusioner der vedtages den 6. december 1995 eller senere.
 
-(* 5) Bestemmelsen i § 8, stk. 6, finder anvendelse på fusioner, der finder sted efter den 14. januar 1987. De hidtil gældende regler finder dog anvendelse ved fusion med et datterselskab, såfremt betingelserne i selskabsskattelovens § 31, stk. 1, 3. og 4. pkt., var opfyldt den 14. januar 1987, jf. § 2 i lov nr. 144 af 25. marts 1987.
+Ved samme lov er § 8, stk. 7, ændret og har virkning for fusioner, når fusionsdatoen er den 6. december 1995 ellere senere.
 
-(* 6) § 8, stk. 7, i den her anførte affattelse har virkning fra og med 19. januar 1994, jf. § 10, stk. 7, i lov nr. 180 af 23. marts 1995.
+Ved samme lov er § 14, stk. 1, ændret og har virkning for fusioner, der vedtages dagen efter bekendtgørelsen i Lovtidende eller senere. Loven er for denne bestemmelses vedkommende trådt i kraft den 24. maj 1996.
 
-(* 7) § 12, stk. 6-8, er indsat ved lov nr. 180 af 23. marts 1995. § 12 i den her anførte affattelse har for selskaber og foreninger, hvis indkomstår 1994 påbegyndes den 27. oktober 1993 eller senere, virkning fra og med indkomståret 1994. For selskaber og foreninger, hvis indkomstår 1994 er påbegyndt før den 27. oktober 1993, har § 12 i den her anførte affattelse virkning fra og med indkomståret 1995. Jf.§ 10, stk. 5, i lov nr. 180 af 23. marts 1995.
+(* 4) Ved lov nr. 487 af 12. juni 1996 om ændring af forskellige skattelove (International sambeskatning m.v.) er § 11, stk. 1, 3. pkt., § 15, stk. 6, § 15 a, stk. 2, § 15 b, stk. 1-5 ændret.
 
-(* 8) § 14, stk. 1, har i den her anførte affattelse virkning fra og med indkomståret 1995, jf. § 5, i lov nr. 1090 af 21. december 1994.
+Ved samme lov er § 11, stk. 1, 4. pkt., og § 15 a, stk. 3, indsat. I § 15 b, stk. 1 og 2, er efter 1. pkt. indsat nye punktummer.
 
-(* 9) § 14 d, stk. 7, har i den her anførte affattelse virkning fra og med 18. januar 1995, jf. § 9, stk. 3, i lov nr. 412 af 14. juni 1995.
-
-(* 10) § 14 g har virkning fra og med indkomståret 1995, jf. § 5 i lov nr. 1090 af 21. december 1994.
-
-(* 11) § 15, stk. 3 og 4, § 15 b, stk. 1, 2. pkt., § 15 b, stk. 2, 2. pkt., § 15 d, stk. 1, § 15 d, stk. 2, 2. pkt., og § 15 d, stk. 3, 2. pkt., har i den her anførte affattelse virkning for fusioner, spaltninger og tilførsler af aktiver, der vedtages den 18. januar 1995 eller senere, jf. § 10, stk. 8, i lov nr. 180 af 23. marts 1995.
-
-(* 12) § 15 b, stk. 1, 3.-5. pkt., § 15 b, stk. 2, 3.-5. pkt., § 15 d, stk. 2, 3.-5. pkt., og § 15 d, stk. 3, 3.-5. pkt., har i den her anførte affattelse virkning for spaltninger og tilførsler af aktiver, der vedtages den 18. januar 1995 eller senere, jf. § 3 i lov nr. 256 af 19. april 1995.
-
-(* 13) § 15 b, stk. 3, har i den her anførte affattelse virkning fra og med indkomståret 1996, jf. § 10, stk. 2, i lov nr. 180 af 23. marts 1995.
-
-(* 14) Overgangsbestemmelserne, §§ 19-25, i lov nr. 374 af 18. maj 1994 som ændret ved § 7 i lov nr. 180 af 23. marts 1995, er optrykt ovenfor. § 20 i den her anførte affattelse finder anvendelse i perioden fra og med 27. oktober 1993 og indtil udgangen af indkomståret 1993 henholdsvis indkomståret 1994, jf. § 10, stk. 12, i lov nr. 180 af 23. marts 1995.
+Loven er for disse bestemmelsers vedkommende trådt i kraft den 14. juni 1996. Loven har virkning fra og med indkomståret 1996. Er indkomståret 1996 påbegyndt før den 6. december 1995, har loven dog først virkning fra og med indkomståret 1997.

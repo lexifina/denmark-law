@@ -2,7 +2,7 @@
 
 I perioden fra og med 27. oktober 1993 og indtil udgangen af indkomståret 1993 henholdsvis indkomståret 1994 finder reglerne i §§ 20-25 anvendelse.
 
-§ 20 (* 14)
+§ 20
 
 Ved en ændring som nævnt i selskabsskattelovens § 5 B, stk. 1, skal der ske en opgørelse af den formue, som er opsamlet i selskabet eller foreningen m.v. under beskatningen efter § 1, stk. 1, nr. 3 a eller 4, eller efter stk. 2, 2. pkt., eller en tilsvarende beskatning. Beløbet opgøres som handelsværdien ved overgangen fratrukket en eventuel indbetalt andelskapital. Såfremt selskabet eller foreningen tidligere har været beskattet efter andre regler i § 1, opgøres beløbet som differencen mellem handelsværdien af selskabets eller foreningens aktiver og passiver ved overgangen og handelsværdien ved indtræden af beskatning efter § 1, stk. 1, nr. 3 a eller 4, eller efter stk. 2, 2. pkt., eller en tilsvarende beskatning. Fra handelsværdierne trækkes en eventuel indbetalt andelskapital. Beløbet angives ved selvangivelsen for overgangsåret.
 
@@ -38,7 +38,7 @@ Fusionsskattelovens § 14 f, som affattet ved denne lovs § 2, nr. 3, finder til
 
 Bestemmelserne i fusionsskattelovens kapitel 1, bortset fra § 3, § 4 og § 6, finder tilsvarende anvendelse
 
-1) ved fusion af de i selskabsskattelovens § 1, stk. 1. nr. 3, eller stk. 2, 1. pkt., nævnte brugsforeninger og hovedforeninger, eller
+1) ved fusion af de i selskabsskattelovens § 1, stk. 1, nr. 3, eller stk. 2, 1. pkt., nævnte brugsforeninger og hovedforeninger, eller
 
 2) når en eller flere af de i nr. 1 nævnte brugsforeninger eller hovedforeninger fusionerer med en eller flere af de indkøbsforeninger og hovedforeninger, som er nævnt i selskabsskattelovens § 1, stk. 1, nr. 3 a, eller stk. 2, 2. pkt., eller
 
