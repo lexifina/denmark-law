@@ -1,0 +1,1 @@
+§ 71. Invaliditetstillæg udbetales til folkepensionister, som har ret til tillægget den 1. oktober 1984. Tillægget udgør 5.520 kr. årlig, jf. § 49, og indtægtsreguleres efter § 28 og § 31, stk. 1, som gældende indtil den 1. januar 2003.

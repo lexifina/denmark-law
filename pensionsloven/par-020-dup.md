@@ -1,0 +1,1 @@
+§ 20. Kommunalbestyrelsen træffer afgørelse om tilkendelse af førtidspension, når det efter en samlet faglig vurdering af de foreliggende oplysninger må anses for dokumenteret, at en person ikke kan blive selvforsørgende, jf. § 16. Kommunalbestyrelsen kan samtidig beslutte, at en sag skal genoptages til vurdering på et senere fastsat tidspunkt.

@@ -1,0 +1,5 @@
+## Kapitel 2
+
+## Folkepension
+
+§ 12. Folkepension, der består af grundbeløb og pensionstillæg, kan udbetales til personer, der er fyldt 65 år.

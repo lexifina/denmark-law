@@ -1,0 +1,1 @@
+§ 47. Krav på pension kan ikke gøres til genstand for udlæg eller andre former for retsforfølgning, medmindre der er forløbet tre måneder fra den dag, beløbet kunne kræves udbetalt. Aftaler om sådanne krav er ugyldige.

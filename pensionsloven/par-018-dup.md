@@ -1,0 +1,1 @@
+§ 18. Kommunalbestyrelsen træffer afgørelse om, at sagen overgår til behandling efter reglerne om førtidspension, når det er dokumenteret eller det på grund af særlige forhold er helt åbenbart, at pågældendes arbejdsevne ikke kan forbedres ved aktiverings-, revaliderings- og behandlingsmæssige samt andre foranstaltninger.
