@@ -1,7 +1,5 @@
-Givet på Fredensborg Slot, den 30. maj 2000
+Socialministeriet, den 2. juli 2002
 
-Under Vor Kongelige Hånd og Segl
+Henriette Kjær
 
-Margrethe R.
-
-/Jytte Andersen
+/Vibeke Abel
