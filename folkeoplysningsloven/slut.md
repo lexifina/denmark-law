@@ -1,5 +1,5 @@
-Undervisningsministeriet, den 5. oktober 2000
+Undervisningsministeriet, den 14. juni 2004
 
-Margrethe Vestager
+Ulla Tørnæs
 
-/Lone Basse
+/Jørgen Petersen
