@@ -1,8 +1,10 @@
 § 44 a. Udlændingestyrelsen videregiver uden udlændingens samtykke til kommunalbestyrelsen for den kommune, hvor udlændingen bor eller opholder sig, eller hvortil udlændingen visiteres, jf. integrationslovens § 10, stk. 1, eller flytter fra udlandet, oplysninger om,
 
-1) at udlændingen er meddelt opholdstilladelse efter §§ 6-9 e eller er fritaget for opholdstilladelse efter § 5, stk. 2, eller
+1) at udlændingen er meddelt opholdstilladelse efter §§ 6-9 e eller er fritaget for opholdstilladelse efter § 5, stk. 2,
 
-2) at udlændingens opholdstilladelse er nægtet forlænget, er bortfaldet eller er inddraget.
+2) at udlændingen er meddelt tidsubegrænset opholdstilladelse eller afslag herpå, eller
+
+3) at udlændingens opholdstilladelse er nægtet forlænget, er bortfaldet eller er inddraget.
 
 Stk. 2. I de i stk. 1, nr. 1, nævnte tilfælde videregiver Udlændingestyrelsen uden udlændingens samtykke til kommunalbestyrelsen de oplysninger vedrørende udlændingens opholdsgrundlag, som er nødvendige for kommunens administration efter integrationsloven og efter anden lovgivning, hvor opholdsgrundlaget har betydning for lovens administration. Ministeren for flygtninge, indvandrere og integration fastsætter nærmere regler om, hvilke oplysninger der videregives efter 1. pkt.
 
