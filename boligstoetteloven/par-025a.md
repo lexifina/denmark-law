@@ -2,7 +2,7 @@
 
 Stk. 2. En lejer, hvis lejlighed forbedres i henhold til en beslutning som nævnt i stk. 1, har ret til boligsikring efter stk. 1.
 
-Stk. 3. Har en lejer, der har krav på at få anvist en erstatningsbolig på grund af omstændigheder som anført i stk. 1, selv skaffet sig anden bolig, skal kommunlabestyrelsen yde boligsikring efter stk. 1, såfremt lejligheden skønnes passende efter boligtagerens økonomi og familieforhold.
+Stk. 3. Har en lejer, der har krav på at få anvist en erstatningsbolig på grund af omstændigheder som anført i stk. 1, selv skaffet sig anden bolig, skal kommunalbestyrelsen yde boligsikring efter stk. 1, såfremt lejligheden skønnes passende efter boligtagerens økonomi og familieforhold.
 
 Stk. 4. Boligsikring efter stk. 1, 1. og 2. pkt., nedsættes hvert år med 10 pct. af forskellen mellem lejen, jf. § 10, efter fradrag af boligstøtte i den lejlighed, lejeren beboede, indtil der blev anvist en erstatningsbolig, indtil lejeren skaffede sig anden bolig, eller indtil forbedringsforhøjelsen trådte i kraft, og den til enhver tid gældende leje, jf. § 10. Boligsikring efter stk. 1, 3. pkt., nedsættes med 20 pct. af forskellen hvert år.
 
