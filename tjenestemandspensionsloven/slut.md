@@ -1,5 +1,5 @@
-Finansministeriet, den 14. juni 1988
+Finansministeriet, den 5. august 1991
 
-Palle Simonsen
+Henning Dyremose
 
 / Lene Larsen
