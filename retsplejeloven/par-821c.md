@@ -1,0 +1,1 @@
+§ 821 c. Ved vurderingen af, om tilbageholdelse eller andre straffeprocessuelle indgreb over for personer under 15 år ville være et uforholdsmæssigt indgreb, skal der lægges vægt på den særlige belastning, som indgrebet på grund af den pågældendes unge alder må antages at indebære.
