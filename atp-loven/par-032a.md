@@ -1,0 +1,1 @@
+§ 32 a. Med bøde eller hæfte straffes, hvis ikke strengere straf er forskyldt efter anden lovgivning, overtrædelse af § 24 c, stk. 1 og 2, §§ 24 d-24 g, § 24 h, stk. 1, § 24 i, § 24 j, § 24 k, § 24 l, § 24 m, § 24 n, og § 25 b, stk. 9.
