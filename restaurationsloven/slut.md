@@ -1,9 +1,7 @@
-Givet på Christiansborg Slot, den 6. maj 1993
+Erhvervsministeriet, den 31. marts 1998
 
-Under Vor Kongelige Hånd og Segl
+Pia Gjellerup
 
-MARGRETHE R.
+/ Ole Bløndal
 
-/Jan Trøjborg
-
-Ingen
+(* 1) Lov nr. 350 af 23. maj 1997: Bekendtgjort i Lovtidende den 24. maj 1997.
