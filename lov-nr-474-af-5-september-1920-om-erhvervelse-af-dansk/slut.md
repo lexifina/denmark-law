@@ -1,11 +1,5 @@
-GIVET PAA MARSELISBORG, DEN 5TE SEPTEMBER 1920.
+INDENRIGSMINISTERIET, DEN 12. JUNI 1922.
 
-Under Vor Kongelige Haand og Segl.
+Kragh.
 
-CHRISTIAN R.
-
-(L.S.)
-
-/Sigurd Berg.
-
-(* 1) Udfærdiget gennem Indenrigsministeriet. Se Rigsdagstidenden for Rigsdagens overordentlige Samling 1920: Landst. Tid. Sp. 14, 29, 89, 94; Folket. Tid. Sp. 477, 543, 556; Till. A. Sp. 291; Till. B. Sp. 7; Till. C. Sp. 39, 45.
+/R. Lassen.
