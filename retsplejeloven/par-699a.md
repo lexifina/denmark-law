@@ -1,1 +1,1 @@
-§ 699 a. Sager, som hører under sø- og handelsretten i København eller under søret, og som har forbindelse med en hændelse, der har været genstand for søforklaring, kan forfølges ved den ret, for hvilken søforklaringen er afgivet.
+§ 699 a. Sager, som hører under Sø- og Handelsretten i København eller under søret, og som har forbindelse med en hændelse, der har været genstand for søforklaring, kan forfølges ved den ret, for hvilken søforklaringen er afgivet.

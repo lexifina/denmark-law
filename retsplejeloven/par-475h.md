@@ -1,3 +1,3 @@
-§ 475 h. Om salær og godtgørelse for udlæg til beskikkede advokater gælder samme regler som i tilfælde, hvor der er meddelt fri proces, jfr. kap. 31. Retten kan bestemme, at også andre udgifter skal afholdes på denne måde.
+§ 475 h. Om salær og godtgørelse for udlæg til beskikkede advokater gælder samme regler som i tilfælde, hvor der er meddelt fri proces, jf. kap. 31. Retten kan bestemme, at også andre udgifter skal afholdes på denne måde.
 
 Stk. 2. Retten bør kun, når der er særlig anledning dertil, pålægge en part helt eller delvis at betale sagsomkostninger.
