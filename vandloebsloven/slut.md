@@ -1,5 +1,5 @@
-Miljø- og Energiministeriet, den 23. juni 2001
+Miljøministeriet, den 18. august 2004
 
-Svend Auken
+Connie Hedegaard
 
-/Ole Christiansen
+/Anne-Marie Rasmussen
