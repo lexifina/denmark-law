@@ -1,0 +1,1 @@
+§ 35 N. For Københavns Fondsbørs og Værdipapircentralen finder overgangsbestemmelserne i fondsbeskatningslovens §§ 16-19 og selskabsskattelovens § 35 K, stk. 1-4, tilsvarende anvendelse ved overgang fra og med indkomståret 1997 til beskatning efter § 1, stk. 1, nr. 2 c.
