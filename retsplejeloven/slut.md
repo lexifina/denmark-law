@@ -1,143 +1,79 @@
-Justitsministeriet, den 15. august 1996
+Justitsministeriet, den 13. september 1999
 
-Bjørn Westh
+Frank Jensen
 
-/ Hanne Schmidt
+/Jens Kruse Mikkelsen
 
-(* 1) Kapitel 5 a i lov om arbejdsformidling og arbejdsløshedsforsikring m.v. er ophævet og erstattet af lov nr. 414 af 1. juni 1994 om varsling m.v. i forbindelse med afskedigelser af større omfang.
+Ved lov nr. 362 af 2. juni 1999 (Styrkelse af samarbejdet mellem retterne og pressen) foretages en række ændringer i retsplejeloven. Ændringerne træder i kraft den 1. oktober 1999. Kapitel 2 gælder således i den bekendtgjorte affattelse først fra den 1. oktober 1999.
 
-(* 2) Ved lov nr. 385 af 22. maj 1996 (Ændringer som følge af lov om skifte af dødsboer) foretages en række ændringer i retsplejeloven. Ændringerne træder i kraft den 1. januar 1997. § 14, stk. 3, gælder således i den bekendtgjorte affattelse først fra den 1. januar 1997.
+§ 41 a gælder i den bekendtgjorte affattelse først fra den 1. oktober 1999, jf. note 1.
 
-(* 3) Ved lov nr. 389 af 14. juni 1996 (Ændringer som følge af værgemålsloven) foretages en række ændringer i retsplejeloven. Ændringerne træder i kraft den 1. januar 1997. § 42, stk. 3, gælder således i den bekendtgjorte affattelse først fra den 1. januar 1997.
+§ 151, stk. 1, 4. pkt., gælder i den bekendtgjorte affattelse først fra den 1. oktober 1999, jf. note 1.
 
-(* 4) § 52 gælder i den bekendtgjorte affattelse først fra den 1. januar 1997, jf. note 3.
+§ 172, stk. 1 og 2, gælder i den bekendtgjorte affattelse først fra den 1. oktober 1999, jf. note 1.
 
-(* 5) Ved § 2, nr. 1, i lov nr. 388 af 22. maj 1996 er der indsat et nyt stk. 2 i § 781. Henvisningen i § 60, stk. 2, 1. pkt., til § 781, stk. 3, angår derfor rettelig § 781, stk. 4.
+§ 213 b, stk. 1, 2. pkt., gælder i den bekendtgjorte affattelse først fra den 1. oktober 1999, jf. note 1.
 
-(* 6) § 93, stk. 4, gælder i den bekendtgjorte affattelse først fra den 1. januar 1997, jf. note 2.
+§ 354, stk. 6, 3. pkt., gælder i den bekendtgjorte affattelse først fra den 1. oktober 1999, jf. note 1.
 
-(* 7) § 119, stk. 2, nr. 1, gælder i den bekendtgjorte affattelse først fra den 1. januar 1997, jf. note 2.
+§ 393, stk. 2, gælder i den bekendtgjorte affattelse først fra den 1. oktober 1999, jf. note 1.
 
-(* 8) Jf. nu § 163 i lov nr. 170 af 16. marts 1994, sølov, som ændret ved lov nr. 205 af 29. marts 1995.
+§ 396, stk. 1, nr. 1, gælder i den bekendtgjorte affattelse først fra den 1. oktober 1999, jf. note 1.
 
-(* 9) § 257 gælder i den bekendtgjorte affattelse først fra den 1. januar 1997, jf. note 3.
+§ 398 a gælder i den bekendtgjorte affattelse først fra den 1. oktober 1999, jf. note 1.
 
-(* 10) § 260, stk. 2, gælder i den bekendtgjorte affattelse først fra den 1. januar 1997, jf. note 2.
+§ 731, stk. 1, litra h, gælder i den bekendtgjorte affattelse først fra den 1. oktober 1999, jf. note 1.
 
-(* 11) § 448 b er ophævet med virkning fra den 1. januar 1997, jf. note 3.
+§ 968, stk. 1, 2. pkt., stk. 2 og 3, gælder i den bekendtgjorte affattelse først fra den 1. oktober 1999, jf. note 1.
 
-(* 12) § 456 f, stk. 2, gælder i den bekendtgjorte affattelse først fra den 1. januar 1997, jf. note 3.
+§ 973 a gælder i den bekendtgjorte affattelse først fra den 1. oktober 1999, jf. note 1.
 
-(* 13) Kapitel 43 gælder i den bekendtgjorte affattelse først fra den 1. januar 1997, jf. note 3.
+Lovændringen vedrører § 15, stk. 2, og § 526, stk. 5.
 
-(* 14) § 475 c, stk. 1, 2. pkt., gælder i den bekendtgjorte affattelse først fra den 1. januar 1997, jf. note 3.
+Trådte i kraft den 1. juni 1993 i henhold til bekendtgørelse nr. 296 af 10. maj 1993.
 
-(* 15) § 501, stk. 3, nr. 3, gælder i den bekendtgjorte affattelse først fra den 1. januar 1997, jf. note 3.
+Lovændringen vedrører § 14, stk. 3, 1. pkt.
 
-(* 16) Jf. nu lovbekendtgørelse nr. 886 af 23. december 1987, som ændret senest ved § 5 i lov nr. 1098 af 21. december 1994.
+Lovændringen vedrører § 512, stk. 3, 2. pkt.
 
-(* 17) § 538 a, stk. 1, er ændret ved § 123, nr. 2, i lov nr. 1072 af 20. december 1995 som ændret ved § 8, nr. 7, i lov nr. 376 af 22. maj 1996. Ændringen er således:
+Ikrafttrædelsesbestemmelsen vedrører § 512, stk. 3, 2. pkt.
 
-§ 538 a, stk. 1, 2. pkt., ophæves, og i stedet indsættes:
+Lovændringen vedrører § 14, stk. 3, § 538 b, stk. 1, § 570, stk. 2, 3. pkt., overskriften til sjette afsnit og kapitel 58, § 660 og § 663.
 
-»Værdipapirer, jf. § 2 i lov om værdipapirhandel m.v., som har kurs på en dansk eller udenlandsk fondsbørs, sælges dog gennem en værdipapirhandler, jf. § 4, stk. 3, i lov om værdipapirhandel m.v. Fogedretten kan bestemme, at værdipapirer, der har kurs på en autoriseret markedsplads, jf. § 7, nr. 2, jf. § 40, stk. 1, i lov om værdipapirhandel m.v., sælges gennem en værdipapirhandler.«
+Lovændringen vedrører § 9 a, stk. 7.
 
-Tidspunktet for ikrafttræden af ændringen fastsættes af erhvervsministeren, jf. note 58.
+Lovændringen vedrører § 115, stk. 3, 4 og 5, 2. pkt.
 
-(* 18) § 538 b, stk. 1, gælder i den bekendtgjorte affattelse først fra den 1. januar 1997, jf. note 2.
+Lovændringen vedrører § 809, stk. 2, og § 1014 a.
 
-(* 19) § 570, stk. 2, 3. pkt., gælder i den bekendtgjorte affattelse først fra den 1. januar 1997, jf. note 2.
+Ikrafttrædelsesbestemmelsen vedrører § 809, stk. 2 og § 1014 a.
 
-(* 20) Jf. nu kapitel 4 i lov nr. 170 af 16. marts 1994, sølov, som ændret ved lov nr. 205 af 29. marts 1995.
+Lovændringen vedrører § 741 a, stk. 1 og 2, og § 995 a.
 
-(* 21) Overskriften til sjette afsnit og kapitel 58 gælder i den bekendtgjorte affattelse først fra den 1. januar 1997, jf. note 2.
+Lovændringen vedrører § 32, § 60, stk. 2, 1. pkt, § 196, stk. 1, § 759, § 781, stk. 1, nr. 3, § 789, stk. 1, 2 og 3, kapitel 73, kapitel 75 a, og § 880, stk. 4.
 
-(* 22) § 660 gælder i den bekendtgjorte affattelse først fra den 1. januar 1997, jf. note 2.
+Ikrafttrædelsesbestemmelsen vedrører § 32, § 60, stk. 2, 1. pkt., § 781, stk. 1, nr. 3, og § 789, stk. 1, 2 og 3.
 
-(* 23) § 663 gælder i den bekendtgjorte affattelse først fra den 1. januar 1997, jf. note 2.
+Bekendtgjort i Lovtidende den 11. juni 1997.
 
-(* 24) § 730, stk. 1, 2. pkt., gælder i den bekendtgjorte affattelse først fra den 1. januar 1997, jf. note 2.
+Ikrafttrædelsesbestemmelsen vedrører § 196, stk. 1, § 759, kapitel 73, kapitel 75 a og § 880, stk. 4.
 
-(* 25) § 779 er ophævet med virkning fra den 1. januar 1997 ved § 31, stk. 2, i lov nr. 473 af 12. juni 1996.
+Lovændringen vedrører § 4, stk. 2, § 15, stk. 1, § 16 a, stk. 1, 3. pkt, § 17, stk. 1, § 41, stk. 5, § 126, stk. 3, § 154, stk. 2, 2. pkt, § 165, stk. 2, § 219, § 219 a, § 312, stk. 2, 4. pkt., § 345, 1. pkt., § 348, stk. 2, nr. 4, stk. 4 og stk. 5, § 349, stk. 1, 2. pkt., § 350, stk. 2, § 351, stk. 1, § 352, stk. 1, 3. og 4. pkt., § 353, § 354, stk. 5, 2. pkt., stk. 6, sidste pkt., og stk. 7, 1. pkt., § 355, stk. 1 og 4, 3. og 4. pkt., § 356 a, § 357, stk. 3, § 360, stk. 5, sidste pkt., § 363, stk. 1, nr. 1, § 365, stk. 3, 1. pkt., og stk. 4, § 372, stk. 1, 2. pkt., § 378, stk. 2, § 379, 2. pkt., § 382, stk. 1, § 383, stk. 3, § 386, stk. 1, 2. pkt. og stk. 2, 2. pkt., § 394, stk. 1, § 488, stk. 2, 2. pkt., § 586, stk. 1, og § 963, stk. 3, litra a.
 
-(* 26) Ved § 2, nr. 1, i lov nr. 288 af 22. maj 1996 er der indsat et nyt stk. 2 i § 781. Henvisningen i § 789, stk. 1 og 2, til § 781, stk. 4, angår derfor rettelig § 781, stk. 5.
+Bekendtgjort i Lovtidende den 11. juni 1997.
 
-(* 27) Ved lov nr. 227 af 6. juni 1985 er reglerne om beslaglæggelse flyttet fra kapitel 72 til kapitel 75 b. Henvisningen i § 799, stk. 5, til det foregående kapitel angår derfor rettelig kapitel 75 b.
+Lovændringen vedrører § 17 a, stk. 2, 1. pkt., § 18, stk. 2, 4. pkt., § 227, stk. 1, § 253, stk. 4, 1. pkt., § 369, stk. 3, § 389, stk. 4, § 391, stk. 3, 2.-5. pkt., § 392, stk. 1, og stk. 2, 1. pkt., og § 394, stk. 2, sidste pkt.
 
-(* 28) § 802, stk. 1, 2. pkt., gælder i den bekendtgjorte affattelse først fra den 1. januar 1997, jf. note 3.
+Ikrafttrædelsesbestemmelsen vedrører § 227, stk. 1.
 
-(* 29) § 925, stk. 1, 1. pkt., gælder i den bekendtgjorte affattelse først fra den 1. januar 1997, jf. note 3.
+Ikrafttrædelsesbestemmelsen vedrører § 253, stk. 4, 1. pkt., § 389, stk. 4, § 391, stk. 3, 2.-5. pkt., § 392, stk. 1, og stk. 2, 1. pkt., og § 394, stk. 2, sidste pkt.
 
-(* 30) § 925 a, stk. 1, 1. pkt., gælder i den bekendtgjorte affattelse først fra den 1. januar 1997, jf. note 3.
+Lovændringen vedrører § 1 a, § 3, § 4, stk. 2, § 10, § 11, stk. 1, 1. og 2. pkt., § 14, stk. 1, litra b, § 15, stk. 7, 2. pkt., § 16 a, stk. 3, 2. pkt., § 17, stk. 2, § 17 a, stk. 1, § 19, stk. 1, stk. 2 og stk. 3, 1. og 2. pkt., § 26, stk. 3, § 28, stk. 1, §§ 42-43, §§ 43 a-d, § 44, §§ 44 a-d, §§ 45-47, §§ 47 a og b, §§ 48-49, § 49 a, § 50, § 51, §§ 52-54, § 54 a, § 55, § 58, stk. 2, 2. pkt., § 87, § 93, stk. 7, § 165, stk. 1, § 188, § 348, stk. 4, § 491, stk. 2 og stk. 4, 2. pkt., og § 1043, stk. 2.
 
-(* 31) Dvs. de kollegiale retter undtagen Højesteret (§ 1043, stk. 1).
+Lovændringen vedrører § 469, stk. 1, 2. pkt. og stk. 4, 3. pkt., § 470, stk. 3, 3. pkt., § 765, stk. 5, og § 811, stk. 2.
 
-(* 32) Lovændringen vedrører § 15, stk. 2, og § 526, stk. 5.
+Lovændringen vedrører § 6 a, § 16 a, stk. 1, 3. pkt., § 17, stk. 1, § 18 c, § 124, stk. 8, § 133, stk. 3 og 5, § 139, stk. 3, 4. pkt., § 213 b, stk. 1, 1. pkt., § 219 a, stk. 6, § 501, stk. 3, nr. 4, § 628, stk. 3, § 684, stk. 1, nr. 3, § 701, stk. 2, § 722, stk. 1, nr. 2, § 731, stk. 1, litra c, § 745, stk. 3, § 748, stk. 1, 2. pkt., overskriften til kapitel 71, § 786, stk. 4, § 791 a, kapitel 74, kapitel 75 a, kapitel 75 b, § 925, stk. 6, § 1002 og § 1017 b, stk. 2.
 
-(* 33) Trådte i kraft den 1. juni 1993 i henhold til bekendtgørelse nr. 296 af 10. maj 1993.
+Lovændringen vedrører §§ 21 og 21 a.
 
-(* 34) Lovændringen vedrører kapitel 48 (§§ 528-536), kapitel 54-55 (§§ 588-600), § 686, stk. 3, nr. 3, § 689, stk. 3, nr. 2, § 794, nr. 1, § 795, nr. 1, og § 797, stk. 2, nr. 2.
-
-(* 35) Bekendtgjort i Lovtidende den 1. juli 1996. Ikrafttrædelsesbestemmelsen vedrører § 686, stk. 3, nr. 3, § 689, stk. 3, nr. 2, § 794, nr. 1, § 795, nr. 1, og § 797, stk. 2, nr. 2.
-
-(* 36) Lovændringen vedrører § 105, stk. 3.
-
-(* 37) Lovændringen vedrører § 741 a, stk. 2, § 745, stk. 4, 2. pkt., § 748, stk. 6, 3. pkt., § 762, stk. 2, nr. 2, og § 848, stk. 2, 2. pkt.
-
-(* 38) Ikrafttrædelsesbestemmelsen vedrører § 745, stk. 4, 2. pkt., § 748, stk. 6, 3. pkt., og § 848, stk. 2, 2. pkt.
-
-(* 39) Lovændringen vedrører § 4, stk. 3, § 16 a, stk. 1, 3. pkt., § 17, stk. 1, § 17 a, stk. 2, 1. pkt., § 45, § 51, § 154, stk. 2, 2. pkt., § 163, stk. 2, § 165, stk. 2, § 219, stk. 4-6, § 312, stk. 2, 4. pkt., § 348, stk. 3-5, § 349, stk. 1, 2. pkt., § 350, stk. 2 og 3, § 351, stk. 1, § 352, stk. 1, 3. pkt., § 354, stk. 5, 2. pkt., § 488, stk. 2, 2. pkt., § 731, stk. 1, litra i, § 847, § 932, stk. 2, § 962, stk. 3, 2. og 3. pkt., § 963, stk. 3, litra a, § 966, stk. 1, 3. og 4. pkt., § 987, stk. 1, 1. og 2. pkt., § 1003, § 1013, stk. 3, og § 1018 e, stk. 1, 4. pkt.
-
-(* 40) Ikrafttrædelsesbestemmelsen vedrører § 4, stk. 3, § 16 a, stk. 1, 3. pkt., § 17, stk. 1, § 45 og § 51.
-
-(* 41) Ikrafttrædelsesbestemmelsen vedrører § 1003 og § 1013, stk. 3.
-
-(* 42) Ikrafttrædelsesbestemmelsen vedrører § 17 a, stk. 2, 1. pkt., § 154, stk. 2, 2. pkt., § 163, stk. 2, § 165, stk. 2, § 219, stk. 4-6, § 312, stk. 2, 4. pkt., § 348, stk. 3-5, § 349, stk. 1, 2. pkt., § 350, stk. 2 og 3, § 351, stk. 1, § 352, stk. 1, 3. pkt., § 354, stk. 5, 2. pkt., § 488, stk. 2, 2. pkt., § 731, stk. 1, litra i, § 847, § 932, stk. 2. § 962, stk. 3, 2. pkt., § 963, stk. 3, litra a, § 966, stk. 1, 3. og 4. pkt., § 987, stk. 1, 1. og 2. pkt., og § 1018 e, stk. 1, 4. pkt.
-
-(* 43) Lovændringen vedrører § 1 a, stk. 4, § 16 a, stk. 1, 3. pkt., § 17, stk. 1, § 19, stk. 2, 2. pkt., § 135, stk. 2, 2. pkt., og § 577, stk. 1, 1. pkt.
-
-(* 44) Lovændringen vedrører § 247.
-
-(* 45) Trådte i kraft den 1. marts 1996 i henhold til bekendtgørelse nr. 67 af 12. februar 1996.
-
-(* 46) Lovændringen vedrører § 450 a, 1. pkt.
-
-(* 47) Lovændringen vedrører § 42, stk. 3, § 52, § 93, stk. 4, § 119, stk. 2, nr.1, § 257, § 260, stk. 2, § 448 b, § 456 f, stk. 2, kapitel 43 (§§ 457-466), § 475 c, stk. 1, 2. pkt., § 501, stk. 3, nr. 3, § 730, stk. 1, 2. pkt., § 802, stk. 1, 2. pkt., § 925, stk. 1, 1. pkt., og § 925 a, stk. 1, 1. pkt.
-
-(* 48) Lovændringen vedrører § 2, stk. 1, kapitel 1 a (§§ 22-27), § 368, stk. 1, 2. pkt., og stk. 2 og 5, § 371, § 372, stk. 2, § 389, stk. 2 og 3, § 391, stk. 2, § 392, stk. 2, § 394, stk. 2, § 469, stk. 4, 2. pkt., § 475, stk. 1, 4. pkt., § 503, stk. 2 og 3, § 584, stk. 2, § 584 a, § 585, § 586, stk. 2 og 4, § 661, stk. 3, § 662, stk. 3, § 665, stk. 1, 2. pkt., og stk. 3, 2. pkt., § 962, stk. 3 og 4, § 963, stk. 3, litra c, § 966, stk. 1, § 968, stk. 3, og § 973.
-
-(* 49) Lovændringen vedrører § 115, § 115 a, § 778, stk. 2, 2. og 3. pkt., § 1018 e, stk. 1, 1. og 2. pkt., og stk. 3-5, § 1018 f, stk. 1, kapitel 93 b (§§ 1019-1019 m), kapitel 93 c (§§ 1020-1020 i) og kapitel 93 d (§§ 1021-1021 h).
-
-(* 50) Ikrafttrædelsesbestemmelsen vedrører § 778, stk. 2, 2. og 3. pkt.
-
-(* 51) Ikrafttrædelsesbestemmelsen vedrører § 1018 e, stk. 1, 1. og 2. pkt., og stk. 3-5, og § 1018 f, stk. 1.
-
-(* 52) Ikrafttrædelsesbestemmelsen vedrører kapitel 93 b (§§ 1019-1019 m) og kapitel 93 d (§§ 1021-1021 h).
-
-(* 53) Ikrafttrædelsesbestemmelsen vedrører kapitel 93 c (§§ 1020-1020 i) og kapitel 93 d (§§ 1021-1021 h).
-
-(* 54) Lovændringen vedrører § 14, stk. 3, 1. pkt.
-
-(* 55) Lovændringen vedrører § 165, stk. 2, 2. pkt., og § 240, stk. 2.
-
-(* 56) Lovændringen vedrører § 526, stk. 3 og stk. 4, 3. pkt., § 538 a, stk. 1, 2. og 3. pkt., og § 557, jf. note 57 og 58.
-
-(* 57) § 123, nr. 1 og 3, hvorved §§ 526 og 557 blev ændret, trådte i kraft den 1. maj 1996 i henhold til bekendtgørelse nr. 334 af 30. april 1996.
-
-(* 58) § 123, nr. 2, der er ændret ved § 8, nr. 7, i lov nr. 376 af 22. maj 1996, og som indeholder en ændring af retsplejelovens § 538 a, stk. 1, 2. og 3. pkt., jf. note 17, er endnu ikke trådt i kraft.
-
-(* 59) Lovændringen vedrører § 4, § 15, stk. 1, 2, 4 og 6, § 16 a, stk. 1, 3. pkt., § 17, stk. 1, § 19, § 45, stk. 2, og § 702, stk. 2.
-
-(* 60) Bekendtgjort i Lovtidende den 21. december 1995.
-
-(* 61) Lovændringen vedrører § 191.
-
-(* 62) Bekendtgjort i Lovtidende den 25. april 1996.
-
-(* 63) Lovændringen vedrører § 512, stk. 3, 2. pkt.
-
-(* 64) Ikrafttrædelsesbestemmelsen vedrører § 512, stk. 3, 2. pkt.
-
-(* 65) Lovændringen vedrører § 14, stk. 3, § 538 b, stk. 1, § 570, stk. 2, 3. pkt., overskriften til sjette afsnit og kapitel 58, § 660 og § 663.
-
-(* 66) Lovændringen vedrører § 781, stk. 2 og stk. 3, 2. pkt.
+Lovændringen vedrører kapitel 2, § 41 a, § 151, stk. 1, 4. pkt., § 172, stk. 1 og 2, § 213 b, stk. 1, 2. pkt., § 354, stk. 6, 3. pkt., § 393, stk. 2, § 396, stk. 1, nr. 1, § 398 a, § 731, stk. 1, litra h, § 968, stk. 1, 2. pkt., stk. 2 og 3, og § 973 a.
