@@ -1,0 +1,1 @@
+§ 31 C. Boligministeren kan bemyndige kommunalbestyrelsen til at udøve de beføjelser, der ellers tilkommer Boligministeriet i henhold til deklarationer eller servitutter pålagt en ejendom i medfør af tidligere byggelovgivning.
