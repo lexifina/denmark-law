@@ -1,3 +1,5 @@
+## Hæftelse ved international kørsel
+
 § 16 b. Den registrerede ejer eller bruger af et motorkøretøj med en totalvægt på 3.000 kg eller derover hæfter over for føreren af køretøjet og andre personer, der er tilknyttet dennes virksomhed og efter dennes anmodning deltager i og medvirker til transportens gennemførelse, for udgifter, der opstår under kørsel i udlandet, til behandling m.v. i udlandet og hjemtransport i forbindelse med sygdom.
 
 Stk. 2. Stk. 1 finder ikke anvendelse, hvis den pågældende ved sin ansættelse svigagtigt har fortiet sygdommen, denne er selvforskyldt eller udgifterne afholdes efter
@@ -15,5 +17,3 @@ Stk. 3. Stk. 1 finder tilsvarende anvendelse på udgifter til retshjælp og lign
 Stk. 4. Den, der hæfter efter stk. 1, jf. stk. 2 og 3, skal stille sikkerhed for opfyldelsen af sine eventuelle forpligtelser, forinden et køretøj kører ud af landet.
 
 Stk. 5. Trafikministeren fastsætter nærmere regler om hæftelsen, herunder om dens omfang efter stk. 1, jf. stk. 2 og 3, og om sikkerhedsstillelsen efter stk. 4. Trafikministeren kan fastsætte regler om fritagelse for sikkerhedsstillelse ved kørsel inden for nærmere angivne områder.
-
-Straffebestemmelser
