@@ -2,19 +2,19 @@ Lov nr. 380 af 20. maj 1992 indeholder følgende ikrafttrædelsesbestemmelse:
 
 § 4
 
-Loven (* 1) træder i kraft den 1. januar 1993.
+Loven ind her træder i kraft den 1. januar 1993.
 
 Lov nr. 206 af 28. april 1993 indeholder følgende ikrafttrædelsesbestemmelse:
 
 § 2
 
-Loven (* 2) træder i kraft dagen efter bekendtgørelsen i Lovtidende.
+Loven træder i kraft dagen efter bekendtgørelsen i Lovtidende.
 
 Lov nr. 440 af 30. juni 1993 indeholder følgende ikrafttrædelsesbestemmelse:
 
 § 4
 
-Stk. 1. Loven (* 3) træder i kraft den 1. januar 1994.
+Stk. 1. Loven træder i kraft den 1. januar 1994.
 
 Stk. 2. De hidtil gældende regler i lov om boligbyggeri, lov om boliger for ældre og personer med handicap og realkreditloven finder dog fortsat anvendelse for byggeri, hvortil der er givet tilsagn om støtte inden den 1. januar 1994.
 
@@ -22,7 +22,7 @@ Lov nr. 1071 af 22. december 1993 indeholder følgende ikrafttrædelsesbestemmel
 
 § 3
 
-Stk. 1. Loven (* 4) træder i kraft den 1. januar 1994.
+Stk. 1. Loven træder i kraft den 1. januar 1994.
 
 Stk. 2. § 1, nr. 1-3, 5, 8, 12-14 og § 2 træder dog i kraft dagen efter bekendtgørelsen i Lovtidende.
 
@@ -30,7 +30,7 @@ Lov nr. 87 af 8. februar 1995 indeholder følgende ikrafttrædelsesbestemmelse:
 
 § 3
 
-Stk. 1. Boligministeren fastsætter tidspunktet for lovens ikrafttræden. Dog træder § 1, nr. 2 og 4-13, og § 2 i kraft dagen efter bekendtgørelsen i Lovtidende. (* 5)
+Stk. 1. Boligministeren fastsætter tidspunktet for lovens ikrafttræden. Dog træder § 1, nr. 2 og 4-13, og § 2 i kraft dagen efter bekendtgørelsen i Lovtidende.
 
 Stk. 2. Bestemmelsen i § 1, nr. 4, finder anvendelse på gældende kontraktsforhold uanset indholdet af disse.
 
@@ -40,17 +40,17 @@ Stk. 4. Uanset stk. 3 kan et boligselskab, som inden den 17. november 1994 har e
 
 Stk. 5. Påviser boligselskabet, at den i stk. 4 nævnte afhændelse eller opløsning ikke kan finde sted, uden at selskabet påføres et økonomisk tab, kan kommunalbestyrelsen meddele dispensation herfra.
 
-§§ 5 og 6 i lov nr. 306 af 17. maj 1995 er sålydende:
+Lov nr. 306 af 17. maj 1995 indeholder følgende ikrafttrædelsesbestemmelser:
 
 § 5
 
-Loven træder i kraft dagen efter bekendtgørelsen i Lovtidende. (* 6)
+Loven træder i kraft dagen efter bekendtgørelsen i Lovtidende.
 
 § 6
 
-Forslag til revision af denne lov fremsættes for Folketinget i folketingsåret 1997-98.
+Forslag til til revision af denne lov fremsættes for Folketinget i folketingsåret 1997-98.
 
-Lov nr. 385 af 14. juni 1995 indeholder følgende ikrafttrædelsesbestemmelse:
+Lov nr.385 af 14. juni 1995 indeholder følgende ikrafttrædelsesbestemmelse:
 
 § 9
 
@@ -70,7 +70,7 @@ Stk. 7. Statens generelle tilskud til kommunerne efter § 10 i lov om kommunal u
 
 Stk. 8. Statens generelle tilskud til amtskommunerne efter § 17 i lov om kommunal udligning og generelle tilskud til kommuner og amtskommuner nedsættes med virkning fra og med tilskudsåret 1996 med 150 mio. kr.
 
-§ 5 i lov nr. 1065 af 20. december 1995 er sålydende:
+Lov nr. 1065 af 20. december 1995 indeholder følgende ikrafttrædelsesbestemmelser:
 
 § 5
 
@@ -80,25 +80,25 @@ Stk. 2. Den ved § 2, nr. 9, affattede § 76, stk. 2, i lov om individuel boligs
 
 Stk. 3. § 3 finder anvendelse, uanset om lejeforholdet er indgået før lovens ikrafttræden.
 
-§ 186 i lov nr. 374 af 2. april 1996 er sålydende:
+Lov nr. 374 af 2. april 1996 indeholder følgende ikrafttrædelsesbestemmelse:
 
 § 186
 
 Stk. 1. Loven træder i kraft den 1. januar 1997, dog træder § 99 i kraft den 1. august 1996.
 
-§ 4 i lov nr. 229 af 2. april 1997 er sålydende:
+Lov nr. 229 af 2. april 1997 indeholder følgende ikrafttrædelsesbestemmelser:
 
 § 4
 
-Stk. 1. Loven træder i kraft dagen efter bekendtgørelsen i Lovtidende, jf. dog stk. 2 (* 7).
+Stk. 1. Loven træder i kraft dagen efter bekendtgørelsen i Lovtidende, jf. dog stk. 2 .
 
 Stk. 2. Bestemmelserne i lovens § 187, stk. 1, 3 og 4, samt § 188 som affattet henholdsvis ændret ved denne lovs § 1, nr. 25-29, har virkning fra den 1. januar 1997.
 
-§§ 42 og 43 i lov nr. 980 af 17. december 1997 er sålydende:
+Lov nr. 980 af 17. december 1997 indeholder følgende ikrafttrædelsesbestemmelser:
 
 § 42
 
-Stk. 1. Loven træder i kraft den 1. juli 1998, jf. dog stk. 2, 3 og 4. (* 8)
+Stk. 1. Loven træder i kraft den 1. juli 1998, jf. dog stk. 2, 3 og 4.
 
 Stk. 2. § 15 har virkning fra og med opgørelsen af kommunens eller amtskommunens folketal pr. 1. januar 1999.
 
@@ -113,3 +113,11 @@ Stk. 5. Den 1. juli 1998 ophæves lov om social bistand, jf. lovbekendtgørelse 
 Stk. 1. Loven gælder ikke for Færøerne og Grønland.
 
 Stk. 2. § 14 kan dog ved kongelig anordning helt eller delvis sættes i kraft for disse landsdele med de afvigelser, som de særlige færøske eller grønlandske forhold tilsiger. § 35 kan ved kongelig anordning sættes i kraft i Grønland med de ændringer, som følger af de særlige grønlandske forhold.
+
+Lov nr. 423 af 6. juni 2002 indeholder følgende ikrafttrædelsesbestemmelser:
+
+§ 4
+
+Stk. 1. Loven træder i kraft den 1. juli 2002.
+
+Stk. 2. Forslag til revision af bestemmelserne i denne lov fremsættes for Folketinget i folketingsåret 2005-06.
