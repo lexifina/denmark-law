@@ -1,5 +1,5 @@
-Justitsministeriet, den 15. januar 1999
+Ministeriet for Flygtninge, Indvandrere og Integration, den 20. februar 2003
 
-Frank Jensen
+Bertel Haarder
 
-/Niels Beckman
+/Oluf Engberg

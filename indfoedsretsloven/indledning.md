@@ -1,3 +1,3 @@
 Bekendtgørelse af lov om dansk indfødsret
 
-Herved bekendtgøres lov om dansk indfødsret, jf. lovbekendtgørelse nr. 757 af 14. september 1995, med de ændringer, der følger af § 2 i lov nr. 233 af 2. april 1997 og § 1 i lov nr. 1018 af 23. december 1998.
+Herved bekendtgøres lov om dansk indfødsret, jf. lovbekendtgørelse nr. 28 af 15. januar 1999, med de ændringer, der følger af lov nr. 1102 af 29. december 1999, § 1 i lov nr. 193 af 5. april 2002 og lov nr. 366 af 6. juni 2002.
