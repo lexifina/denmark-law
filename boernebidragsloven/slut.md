@@ -1,7 +1,7 @@
-Justitsministeriet, den 15. september 1986
+Justitsministeriet, den 2. maj 1995
 
-Erik Ninn-Hansen
+Bjørn Westh
 
-/ M. Levy
+/ C. Rosholm
 
 Ingen
