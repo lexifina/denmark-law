@@ -1,9 +1,7 @@
-Givet på Christiansborg slot, den 29. oktober 1986
+Undervisningsministeriet, den 17. september 1993
 
-Under Vor Kongelige Hånd og Segl
+Ole Vig Jensen
 
-MARGRETHE R.
+/ Merete Wanscher
 
-/BERTEL HAARDER
-
-Ingen
+(* 1) Hvorved § 1, stk. 2, indsættes, § 2, stk. 1, ændres, § 2, stk. 4, § 4, § 5, § 7, stk. 1 og 3, og § 8 ophæves og § 10, stk. 1 og 6, ændres.
