@@ -1,33 +1,31 @@
-Skatteministeriet, den 30. september 1994
+Skatteministeriet, den 9. september 1995
 
-Ole Stavad
+Carsten Koch
 
-/ Carsten Vesterø Jensen
+/ Lise Bo Nielsen
 
-(* 1) Denne lovbekendtgørelse indeholder bemærkninger om ikrafttrædelses- og overgangsbestemmelser for love, der er vedtaget efter den 1. januar 1994 i folketingsåret 1993-94. Bemærkninger om ikrafttrædelses- og overgangsbestemmelser for tidligere vedtagne ændringer i personskatteloven er som hovedregel ikke medtaget. Bemærkninger om ikrafttrædelses- og overgangsbestemmelser for love, der er vedtaget inden den 1. januar 1994 i folketingsåret 1993-94, kan findes i lovbekendtgørelse nr. 102 af 4. februar 1994.
+(* 1) Denne lovbekendtgørelse indeholder bemærkninger om ikrafttrædelses- og overgangsbestemmelser for love, der er vedtaget i folketingsåret 1994-95. Bemærkninger om ikrafttrædelses-og overgangsbestemmelser for tidligere ændringer af personskatteloven er kun medtaget i det omfang, de skønnes at have betydning.
 
-(* 2) Bestemmelsen i § 3, stk. 2, nr. 2, er ændret ved lov nr. 175 af 16. marts 1994 og lov nr. 299 af 27. april 1994. Bestemmelsen træder i den her anførte affattelse i kraft den 29. april 1994, jf. § 9, stk. 1, i lov nr. 299 af 27. april 1994. Fra den 1. januar 1994 og indtil den 29. april 1994 gælder følgende affattelse af personskattelovens § 3, stk. 2, nr. 2: »udgifter, som nævnt i ligningslovens §§ 8, stk. 1, 8 B, 8 C, 8 I, 8 J, 8 K, 8 L, 8 N, 9 B, 14, stk. 1, 14 F og 27 B, stk. 4, og overført indkomst efter kildeskattelovens § 25 A, stk. 3-5, ved selvstændig erhvervsvirksomhed, », jf. § 3, stk. 2, i lov nr. 175 af 16. marts 1994 og § 9, stk. 1, i lov nr. 299 af 27. april 1994.
+(* 2) Bestemmelserne i § 3, stk. 2, nr. 2, i den her anførte
 
-(* 3) Bestemmelsen i § 4, stk. 1, nr. 3 a, har i den her anførte affattelse virkning fra og med indkomståret 1994, jf. § 9, stk. 9, i lov nr. 299 af 27. april 1994.
+affattelse og § 3, stk.2, nr. 9, har virkning fra og med indkomståret
 
-(* 4) Bestemmelsen i § 4, stk. 1, nr. 4, er ændret ved lov nr. 299 af 27. april 1994 og lov nr. 377 af 18. maj 1994. Bestemmelsen har i den her anførte affattelse virkning for indkomst i form af udbytte, der oppebæres i indkomståret 1995 og senere indkomstår, jf. § 6, stk. 2, i lov nr. 377 af 18. maj 1994. For skattepligtige, hvis indkomstår 1995 er påbegyndt før den 1. januar 1995 har bestemmelsen i personskattelovens § 4, stk. 1, nr. 4, som affattet ved lov nr. 377 af 18. maj 1994, dog først virkning for udlodninger, der oppebæres den 1. januar 1995 eller senere, jf. § 6, stk. 3, i lov nr. 377 af 18. maj 1994. For udlodninger, der oppebæres før den 1. januar 1995 gælder følgende affattelse af bestemmelsen i personskattelovens § 4, stk. 1, nr. 4: »aktieudbytte omfattet af ligningslovens § 16 A bortset fra beløb som omfattet af § 4 a, stk. 1, nr. 1, 3 og 6,», jf. § 6, stk. 3, i lov nr. 377 af 18. maj 1994.
+1994, jf. § 4, stk. 5, i lov nr. 214 af 29. marts 1995.
 
-(* 5) Bestemmelsen i § 4, stk. 1, nr. 5, er ændret ved lov nr. 299 af 27. april 1994 og lov nr. 377 af 18. maj 1994. Bestemmelsen har i den her anførte affattelse virkning for indkomst i form af udbytte, der oppebæres i indkomståret 1995 og senere indkomstår, jf. § 6, stk. 2, i lov nr. 377 af 18. maj 1994. For perioden fra den 19. januar 1994 og indtil begyndelsen af indkomståret 1995 gælder følgende affattelse af bestemmelsen i personskattelovens § 4, stk. 1, nr. 5: »skattepligtig fortjeneste, fradragsberettigede tab og skattepligtige afståelsessummer efter aktieavancebeskatningslovens §§ 2, 2 a, 2 c, 2 d og 4 eller ligningslovens § 16 B bortset fra beløb omfattet af § 4 a, stk. 1, nr. 2 og 4,», jf. § 9, stk. 2, i lov nr. 299 af 27. april 1994 og § 6, stk. 2, i lov nr. 377 af 18. maj 1994.
+(* 3) Bestemmelsen i § 3, stk. 2, nr 10, har virkning for tilbagebetaling af skattepligtig kontanthjælp, der finder sted den 1. januar 1995 eller senere, jf. § 4, stk. 4, i lov nr. 214 af 29. marts 1995.
 
-(* 6) Bestemmelserne i § 4, stk. 1, nr. 5 b, § 4, stk. 5, § 4 a, stk. 1, nr. 4, og § 4 a, stk. 2, har i den her anførte affattelse virkning fra den 19. januar 1994, jf. § 9, stk. 2, i lov nr. 299 af 27. april 1994.
+(* 4) Bestemmelsen i § 4 a, stk. 2, 1. pkt., træder i den her anførte affattelse i kraft den 31. marts 1995, jf. § 4, stk. 1, i lov nr. 214 af 29. marts 1995.
 
-(* 7) Bestemmelsen i § 4, stk. 1, nr. 6, har i den her anførte affattelse virkning fra og med indkomståret 1995, jf. § 7, stk. 2, i lov nr. 445 af 1. juni 1994.
+(* 5) Har en skattepligtig med bagudforskudt indkomstår 1996
 
-(* 8) Bestemmelsen i § 4, stk. 4, har i den her anførte affattelse virkning fra og med indkomståret 1994 for selskaber og foreninger, hvis indkomstår 1994 påbegyndes den 27. oktober 1993 eller senere. For selskaber og foreninger, hvis indkomstår 1994 er påbegyndt før den 27. oktober 1993 har bestemmelsen virkning fra og med indkomståret 1995, jf. § 17, stk. 2, i lov nr. 374 af 18. maj 1994.
+oppebåret udbytte i perioden mellem indkomstårets begyndelse og 1.
 
-(* 9) Bestemmelserne i § 4 a, stk. 1, nr. 1 og 2, er ændret ved lov nr. 299 af 27. april 1994 og lov nr. 374 af 18. maj 1994. Ændringen som følge af lov nr. 299 af 27. april 1994, hvorved de tidligere bestemmelser i § 4 a, stk. 1, nr. 1 og 2, udvides til også at omfatte akkumulerende investeringsforeninger, jf. selskabsskattelovens § 1, stk. 1, nr. 5 a, har virkning fra den 19. januar 1994, jf. § 9, stk. 2, i nævnte lov. Ændringen som følge af lov nr. 374 af 18. maj 1994, hvorved de tidligere bestemmelser i § 4 a, stk. 1, nr. 1 og 2, som ændret ved lov nr. 299 af 27. april 1994, også vedrører foreninger, omfattet af selskabsskattelovens § 1, stk. 1, nr. 4, har virkning fra og med indkomståret 1994 for selskaber og foreninger, hvis indkomstår 1994 er påbegyndt den 27. oktober 1993 eller senere. For selskaber og foreninger, hvis indkomstår 1994 er påbegyndt før den 27. oktober 1993, har ændringen først virkning fra og med indkomståret 1995, jf. § 17, stk. 2, i nævnte lov.
+januar 1996, udgør endelig skat efter personskattelovens § 8 a, stk.
 
-(* 10) Bestemmelsen i § 4 a, stk. 1, nr. 3, er ændret ved lov nr. 299 af 27. april 1994, lov nr. 377 af 18. maj 1994 og lov nr. 374 af 18. maj 1994. § 4 a, stk. 1, nr. 3, har i den her anførte affattelse virkning for udlodninger, der oppebæres fra og med den 1. januar 1995; dog har bestemmelsen »bortset fra udbytte fra udenlandske selskaber som omhandlet i nr. 6« alene virkning for udlodninger, der oppebæres i indkomståret 1995 fra og med den 1. januar 1995 og i senere indkomstår, jf. § 4, nr. 9, og § 9, stk. 12, i lov nr. 299 af 27. april 1994, § 8, nr. 4, og § 17, stk. 6, 1. pkt., i lov nr. 374 af 18. maj 1994 og § 1, nr. 3, og § 6, stk. 2 og 3, 1. pkt., i lov nr. 377 af 18. maj 1994. For udlodninger, der oppebæres i indkomståret 1995, men før den 1. januar 1995, gælder følgende affattelse af personskattelovens § 4 a, stk. 1, nr. 3: »udlodninger fra investeringsforeninger, der udsteder omsættelige beviser for medlemmernes indskud, og som ifølge deres vedtægter er forpligtet til inden fristen for indgivelse af selvangivelse at udlodde de i indkomståret indtjente renter, udbytter, kursgevinster og aktieavancer som nævnt i selskabsskattelovens § 1, stk. 1, nr. 5 a, litra a-c. Det gælder dog kun den del af beløbet, der svarer til forholdet mellem foreningens samlede indtægt ved udbytte fra selskaber omfattet af selskabsskattelovens § 1, stk. 1, nr. 1, 2 og 4, eller udbytte fra udenlandske selskaber som omhandlet i nr. 6 og foreningens samlede udlodning,», jf. § 6, stk. 3, i lov nr. 377 af 18. maj 1994, som ændret ved § 16 i lov nr. 374 af 18. maj 1994. For udlodninger, der oppebæres i indkomståret 1994, men før 1. januar 1995, gælder personskattelovens § 4 a, stk. 1, nr. 3, i den her anførte affattelse dog kun for den del af beløbet, der svarer til forholdet mellem foreningens samlede indtægt ved udbytte fra selskaber omfattet af selskabsskattelovens § 1, stk. 1, nr. 1, 2 og 4, og foreningens samlede udlodning, jf. § 17, stk. 6, 2. pkt., i lov nr. 374 af 18. maj 1994.
+1, og § 15, stk. 2, 30 pct. af denne del af aktieindkomsten, jf. §
 
-(* 11) Bestemmelsen i § 4 a, stk. 1, nr. 5, har virkning fra den 19. januar 1994, jf. § 9, stk. 2, i lov nr. 299 af 27. april 1994.
+19, stk. 8, 2. pkt., i lov nr. 421 af 25. juni 1993.
 
-(* 12) Bestemmelserne i § 4 a, stk. 1, nr. 6 og 7, har virkning for indkomst i form af udbytte, der oppebæres i indkomståret 1995 og senere indkomstår, jf. § 6, stk. 2, i lov nr. 377 af 18. maj 1994.
+(* 6) Bestemmelserne i § 13, stk. 5, og § 15, stk. 1, har i den her anførte affattelse virkning fra og med indkomståret 1995, jf. § 11, stk. 2, i lov nr. 312 af 17. maj 1995.
 
-(* 13) Har en skattepligtig med bagudforskudt indkomstår 1996 oppebåret udbytte i perioden mellem indkomstårets begyndelse og 1. januar 1996, udgør endelig skat efter personskattelovens § 8 a, stk. 1, og § 15, stk. 2, 30 pct. af denne del af aktieindkomsten, jf. § 19, stk. 8, 2. pkt., i lov nr. 421 af 25. juni 1993.
-
-(* 14) Bestemmelsen i § 10, stk. 4, 2. pkt., træder i kraft den 30. juli 1994 og har virkning fra og med indkomståret 1995, jf. § 3 i lov nr. 296 af 27. april 1994 og Skatteministeriets bekendtgørelse nr. 654 af 13. juli 1994.
+(* 7) Bestemmelsen i § 13, stk. 6, har i den her anførte affattelse virkning for indkomståret 1996 og senere indkomstår, jf. § 19, stk. 1, i lov nr. 313 af 17. maj 1995.
