@@ -1,5 +1,5 @@
-Skatteministeriet, den 28. august 2002
+Skatteministeriet, den 19. februar 2004
 
 Svend Erik Hovmand
 
-/K.-H. Ludolph
+/Lise Bo Nielsen

@@ -1,1 +1,1 @@
-§ 35 G. (Ophævet)
+§ 35 G. (Ophævet).

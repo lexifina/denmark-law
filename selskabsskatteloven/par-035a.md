@@ -1,1 +1,1 @@
-§ 35 A. (Ophævet)
+§ 35 A. (Ophævet).
