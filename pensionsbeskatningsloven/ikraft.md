@@ -4,7 +4,7 @@ Lov nr. 527 af 11. december 1985 om ændring af lov om beskatningen af pensionso
 
 Stk. 1. Loven træder i kraft ved bekendtgørelsen i Lovtidende.
 
-Stk. 2. § 1, nr. og 2, har virkning fra den 22. oktober 1985. De hidtidige regler i pensionsbeskatningslovens § 1, stk. 3, finder dog fortsat anvendelse på aftaler efter de hidtidige regler i lovens § 1, stk. 2.
+Stk. 2. § 1, nr. 1 og 2, har virkning fra den 22. oktober 1985. De hidtidige regler i pensionsbeskatningslovens § 1, stk. 3, finder dog fortsat anvendelse på aftaler efter de hidtidige regler i lovens § 1, stk. 2.
 
 Stk. 3. § 1, nr. 4, har virkning for livsforsikringer, hvor skriftlig begæring om oprettelsen ikke er fremsat over for forsikringsselskabet eller dettes repræsentant før den 22. oktober 1985. For selskaber og foreninger m.v. har § 1, nr. 4, dog virkning for livsforsikringer, hvor skriftlig begæring om oprettelsen ikke er fremsat før den 3. december 1985. For tiden fra den 22. oktober 1985, for selskaber og foreninger m.v. dog fra den 3. december 1985, til udgangen af det løbende indkomstår betales afgift efter pensionsbeskatningslovens § 50, stk. 3, som affattet i § 1, nr. 4, af præmier eller bidrag over 5.100 kr., som forfalder i det nævnte tidsrum.
 
@@ -12,7 +12,9 @@ Stk. 3. § 1, nr. 4, har virkning for livsforsikringer, hvor skriftlig begæring
 
 Ministeren for skatter og afgifter kan fastsætte regler om, at ændringer af en livsforsikring, der omfattes af pensionsbeskatningslovens § 50, stk. 1, nr. 1, og er oprettet i henhold til en skriftlig begæring, der er fremsat før den 22. oktober 1985, ikke i forhold til nævnte lovs § 50, stk. 3, som affattet i § 1, nr. 4, anses som oprettelse af en ny forsikring, såfremt ændringerne skyldes separation eller skilsmisse. Det er dog en betingelse, at ændringerne ikke medfører en forøgelse af den årlige præmiebetaling.
 
-Lov nr. 148 af 19. marts 1986 om ændring af lov om beskatningen af pensionsordninger m.v. og lov om en realrenteafgift af visse pensionskapitler m.v. (Ændring af reglerne om kapitalpension, indførelse af rateopsparing i pensionsøjemed, ophævelse af 2.000 kr.s fradraget m.v.), hvis § 1 ændrer pensionsbeskatningslovens §§ 10, 12, 16-22, 25-27, 29-30, 32, 35-36, 41, 43, 45, 48, 50-51, 53-54, 56 og 60, og indsætter ny § 11 A, § 18 A og § 21 A, indeholder i §§ 3 og 4 følgende ikrafttrædelses- og overgangsregler:
+----------
+
+Lov nr. 148 af 19. marts 1986 om ændring af lov om beskatningen af pensionsordninger m.v. og lov om en realrenteafgift af visse pensionskapitaler m.v. (Ændring af reglerne om kapitalpension, indførelse af rateopsparing i pensionsøjemed, ophævelse af 2.000 kr.s fradraget m.v.), hvis § 1 ændrer pensionsbeskatningslovens §§ 10, 12, 16-22, 25-27, 29-30, 32, 35-36, 41, 43, 45, 48, 50-51, 53-54, 56 og 60, og indsætter ny § 11 A, § 18 A og § 21 A, indeholder i §§ 3 og 4 følgende ikrafttrædelses- og overgangsregler:
 
 § 3
 
@@ -24,7 +26,9 @@ Stk. 3. § 2, nr. 3, har virkning fra og med afgiftsåret 1986.
 
 § 4
 
-Er der vedrørende en kapitalforsikning i pensionsøjemed eller en opsparing i pensionsøjemed, der er oprettet før indkomståret 1987, truffet aftale om indbetalinger, der overstiger beløbsgrænsen i pensionsbeskatningslovens § 16, stk. 1, som affattet i denne lovs § 1, nr. 15, kan præmierne eller bidraget til ordningen opdeles, således at præmier eller bidrag ud over den nævnte beløbsgrænse indsættes på en rateforsikring eller rateopsparing i pensionsøjemed. De begrænsninger, der i pensionsbeskatningslovens § 8, nr. 1, og § 11 A, stk. 1, nr. 1 og 2, som affattet i denne lovs § 1, nr. 7, er fastsat vedrørende personer, der er fyldt 55 år, skal ikke gælde i disse tilfælde. Bestemmelserne i pensionsbeskatningslovens § 18, stk. 3-5, som affattet i denne lovs § 1, nr. 21-27, om fordeling af fradragsretten for kapitalindskud m.v. finder heller ikke anvendelse på indbetalinger til rateforsikring og rateopsparing i pensionsøjemed efter nærværende bestemmelse.
+Er der vedrørende en kapitalforsikring i pensionsøjemed eller en opsparing i pensionsøjemed, der er oprettet før indkomståret 1987, truffet aftale om indbetalinger, der overstiger beløbsgrænsen i pensionsbeskatningslovens § 16, stk. 1, som affattet i denne lovs § 1, nr. 15, kan præmierne eller bidraget til ordningen opdeles, således at præmier eller bidrag ud over den nævnte beløbsgrænse indsættes på en rateforsikring eller rateopsparing i pensionsøjemed. De begrænsninger, der i pensionsbeskatningslovens § 8, nr. 1, og § 11 A, stk. 1, nr. 1 og 2, som affattet i denne lovs § 1, nr. 7, er fastsat vedrørende personer, der er fyldt 55 år, skal ikke gælde i disse tilfælde. Bestemmelserne i pensionsbeskatningslovens § 18, stk. 3-5, som affattet i denne lovs § 1, nr. 21-27, om fordeling af fradragsretten for kapitalindskud m.v. finder heller ikke anvendelse på indbetalinger til rateforsikring og rateopsparing i pensionsøjemed efter nærværende bestemmelse.
+
+----------
 
 Lov nr. 344 af 4. juni 1986 om ændring af lov om beskatningen af pensionsordninger m.v. (Ændring af reglerne om invalidesum og rateopsparing m.v.), hvis § 1 ændrer pensionsbeskatningslovens § 10, § 11 A, § 18 A og § 30, indeholder i §§ 2 og 3 følgende bestemmelser:
 
@@ -38,10 +42,24 @@ Stk. 1. Loven har virkning fra og med indkomståret 1987.
 
 Stk. 2. § 2 har dog virkning fra og med den 27. marts 1986.
 
-Ministeriet for skatter og afgifter, den
+----------
 
-Isi Foighel
+Lov nr. 312 af 25. maj 1987 om ændring af lov om beskatningen af pensionsordninger m.v., lov om opkrævning af indkomst- og formueskat for personer m.v. (kildeskat) og lov om en realrenteafgift af visse pensionskapitaler m.v., hvis § 1 ændrer pensionsbeskatningslovens §§ 1, 12, 21 A, 28, 29, 30, 32, 40, 48, 50 og 53, og indsætter nye §§ 19 A-19 E og ny § 48 A, indeholder i § 4 følgende bestemmelser:
 
-/ Hanne Søgaard Hansen
+§ 4
 
-Ingen
+Stk. 1. Loven træder i kraft dagen efter bekendtgørelsen i Lovtidende.
+
+Stk. 2. § 1, nr. 2, 13 og 16, har virkning for ordninger, der på ikrafttrædelsesdagen eller senere vælges henført til beskatning efter § 50.
+
+Stk. 3. § 1, nr. 4, har virkning, når skattepligten ophører den 18. marts 1987 eller senere.
+
+Stk. 4. § 1, nr. 6, 8, 9 og 10, har virkning for ordninger, der ophæves i utide m.v. den 1. januar 1987 eller senere, jf. dog stk. 6.
+
+Stk. 5. § 1, nr. 7 og 11, har virkning for ordninger, der ophæves i utide m.v. den 18. marts 1987 eller senere, jf. dog stk. 6.
+
+Stk. 6. Reglen i § 1, nr. 10 og 11, hvorefter forsikringsselskabet, pengeinstituttet m.v. skal tilbageholde beløb til sikring af henholdsvis indkomstskattekravet og kravet på tillægsafgift, har virkning for ordninger, der ophæves i utide m.v. den 1. juli 1987 eller senere.
+
+Stk. 7. § 2 har virkning fra og med den 1. januar 1987.
+
+Stk. 8. I bekendtgørelse nr. 75 af 16. marts 1972 om fritagelse for tillægsskat ophæves § 1, stk. 1, nr. 2, med virkning fra og med den 18. marts 1987.
