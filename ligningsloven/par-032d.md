@@ -1,7 +1,15 @@
-§ 32 D. Den kommunale skattemyndighed fastsætter grundlaget for den foreløbige skattesvarelse efter kildeskattelovens §§ 45, stk. 3, 48, 50, 51, 52 og 53. Skattemyndighedens afgørelse kan forlanges indbragt for skatteankenævnet. Skatteministeren kan efter anmodning fra en kommunalbestyrelse bestemme, at den regionale told- og skatteforvaltning skal bistå den kommunale skattemyndighed ved varetagelsen af de opgaver, der er nævnt i 1. pkt.
+§ 32 D. (* 35) Skatteministeren fastsætter regler om:
 
-Stk. 2. Skatteministeren fastsætter regler om optagelse af mandtal over skattepligtige personer og dødsboer samt regler om, i hvilken kommune en skattepligtig person eller et skattepligtigt dødsbo skal ansættes til statsskat. Foranstående bestemmelser træder for personers og dødsboers vedkommende i stedet for bestemmelserne i lov nr. 149 af 10. april 1922 §§ 20 og 21. Med hensyn til tilfælde, hvor der i årets løb er sket ændringer i skattepligtsforholdene for en person, kan skatteministeren fastsætte særlige regler om indgivelse af selvangivelse, om skatteligning og om betaling, inddrivelse og forrentning m.v. af skat. Skatteministeren kan fastsætte regler om de samme forhold i tilfælde, hvor en person efter bestemmelserne i en dobbeltbeskatningsoverenskomst bliver hjemmehørende i en fremmed stat, Færøerne eller Grønland. For dødsboer kan skatteministeren fastsætte regler om de samme forhold, om værdifastsættelsen efter kildeskattelovens § 16, stk. 4 og 5, samt om beregning af passivposter og afgivelse af forhåndsbesked efter kildeskattelovens § 33 A.
+1) Optagelse af mandtal over skattepligtige personer og dødsboer.
 
-Stk. 3. Skatteministeren træffer bestemmelse om, hvilke myndigheder der skal varetage opgaverne i forbindelse med beregning og opkrævning af skatter og afgifter m.v., der opkræves efter kildeskattelovens bestemmelser. Der kan i den forbindelse fastsættes bestemmelser om adgangen til at påklage afgørelser om grundlaget for beregningen af indkomst- eller formueskat. Skatteministeren bestemmer endvidere, hvilke myndigheder der skal opkræve de efter kildeskattelovens bestemmelser administrativt ikendte bøder, herunder bøder efter lovens § 79.
+2) I hvilken kommune en skattepligtig person eller et skattepligtigt dødsbo skal ansættes til statsskat.
 
-Stk. 4. Den centrale told- og skatteforvaltning forestår kontrollen med, at de indeholdelsespligtige overholder de pligter, som er pålagt dem efter kildeskatteloven og øvrige skattelove m.v. (arbejdsgiverkontrollen), og fastsætter de nærmere retningslinier for kontrollens udførelse.
+3) Indgivelse af selvangivelse og skatteligning samt opkrævning, inddrivelse og forrentning m.v. af skat i følgende tilfælde:
+
+a) Hvor der for en person i årets løb er sket ændringer i skattepligtsforholdene.
+
+b) Hvor en person efter bestemmelserne i en dobbeltbeskatningsoverenskomst bliver hjemmehørende i en fremmed stat, Færøerne eller Grønland.
+
+c) Vedrørende dødsboer.
+
+4) Værdiansættelse efter kildeskattelovens § 16, stk. 4 og 5, samt beregning af passivposter og afgivelse af forhåndsbesked efter kildeskattelovens § 33 A.
