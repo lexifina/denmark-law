@@ -1,3 +1,3 @@
-Bekendtgørelse af lov om tilskud til læplantning
+Bekendtgørelse af lov om læhegn og tilskud til læplantning
 
-Herved bekendtgøres lov nr. 245 af 12. maj 1976 om tilskud til læplantning med de ændringer, der følger af lov nr. 566 af 16. november 1977, lov nr. 127 af 25. marts 1981 og lov nr. 116 af 11. marts 1987.
+Herved bekendtgøres lov nr. 812 af 21. december 1988 om læhegn med de ændringer, der følger af lov nr. 475 af 30. juni 1993 og § 11 i lov nr. 284 af 27. april 1994.
