@@ -1,7 +1,5 @@
-Givet på Marselisborg Slot, den 27. december 1996
+Skatteministeriet, den 28. september 1998
 
-Under Vor Kongelige Hånd og Segl
+Ole Stavad
 
-MARGRETHE R.
-
-/Carsten Koch
+/H.K. Andersen
