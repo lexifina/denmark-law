@@ -1,0 +1,1 @@
+§ 9 d. Efter ansøgning gives der opholdstilladelse til en udlænding, som tidligere har haft dansk indfødsret, medmindre udlændingens danske indfødsret er frakendt ved dom efter § 8 A i lov om dansk indfødsret.
