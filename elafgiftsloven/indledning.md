@@ -1,3 +1,3 @@
 Bekendtgørelse af lov om afgift af elektricitet
 
-Herved bekendtgøres lov om afgift af elektricitet, jf. lovbekendtgørelse nr. 611 af 14. oktober 1988 med de ændringer, der følger af § 22 i lov nr. 700 af 22. november 1988, § 3 i lov nr. 361 af 31. maj 1989 og § 21 i lov nr. 825 af 19. december 1989.
+Herved bekendtgøres lov om afgift af elektricitet, jf. lovbekendtgørelse nr. 734 af 4. november 1991 med de ændringer, der følger af § 3 i lov nr. 889 af 21. december 1991, som ændret ved § 2 i lov nr. 143 af 3. marts 1992, § 16 i lov nr. 1073 af 23. december 1992, lov nr. 491 af 30. juni 1993 og § 13 i lov nr. 376 af 18. maj 1994. De i § 6, stk. 1, nævnte afgiftssatser er gældende indtil den 1. januar 1995, jf. § 2 i lov nr. 491 af 30. juni 1993, der er gengivet i lovbekendtgørelsens slutning, jf. note 3. Den i § 9, stk. 1, fastsatte afregningsfrist gælder indtil den 1. januar 1995, jf. note 3.
