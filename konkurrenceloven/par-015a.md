@@ -1,0 +1,1 @@
+§ 15 a. I sager, hvor der skal foretages partshøring efter forvaltningsloven, omfatter adgangen til partshøring hele udkastet til afgørelse. Fristen for afgivelse af udtalelse skal udgøre mindst 3 uger, medmindre andet følger af forvaltningsloven eller afgørelsen vedrører denne lovs kapitel 4.
