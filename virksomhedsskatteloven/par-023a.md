@@ -1,1 +1,1 @@
-§ 23 a. (* 14) Den skattepligtige kan vælge at medregne højst 25.000 kr. af kapitalafkast, som overføres efter § 5, stk. 1, nr. 3, litra a, eller som beregnes efter § 22 a, til den personlige indkomst. Beløbet reguleres efter personskattelovens § 20.
+§ 23 a. Den skattepligtige kan vælge at medregne højst 25.000 kr. af kapitalafkast, som overføres efter § 5, stk. 1, nr. 3, litra a, eller som beregnes efter § 22 a, til den personlige indkomst. Beløbet reguleres efter personskattelovens § 20.
