@@ -1,1 +1,0 @@
-§ 33 C. Har en person, der er skattepligtig efter kildeskattelovens § 1, erhvervet lønindkomst ved tjeneste om bord på et dansk skib, der er registreret i Dansk Internationalt Skibsregister, nedsættes den samlede indkomstskat med det beløb, der forholdsmæssigt falder på denne lønindkomst. Om et skib er et dansk skib, afgøres efter reglerne i lov om særlige fradrag til sømænd m.v.
