@@ -1,3 +1,1 @@
-§ 10 b. Har selskabet efter § 10, stk. 3, truffet beslutning herom, vedligeholder afdelingen lejligheden indvendigt med hvidtning, maling, tapetsering og gulvbehandling i boperioden. De nødvendige midler tilvejebringes ved boligtagerens indbetaling af et beløb til en vedligeholdelseskonto for lejligheden. Beløbet fastsættes af selskabets ledelse efter drøftelse med afdelingsbestyrelsen til et årligt beløb pr. (m2) bruttoetageareal. Boligtageren kan forlange, at der udføres vedligeholdelse af lejligheden med hvidtning, maling, tapetsering og gulvbehandling, når det er nødvendigt og udgifterne kan dækkes af lejlighedens vedligeholdelseskonto.
-
-Stk. 2. Selskabet fastsætter regler om istandsættelse ved fraflytning. Udgiften hertil afholdes af de midler, der er hensat på en fælleskonto for afdelingen.
+§ 10 b. (Ophævet)

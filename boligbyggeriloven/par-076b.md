@@ -2,4 +2,4 @@
 
 Stk. 2. Ungdomsboliginstitutionen kan indgå aftale med kommunalbestyrelsen om at stille ledige ungdomsboliger til rådighed for kommunalbestyrelsen til løsning af unges boligsociale problemer i kommunen. Reglerne i stk. 1 om kommunens betaling af leje og garanti for opfyldelse af lejerens forpligtelse til at istandsætte boligen ved fraflytning finder tilsvarende anvendelse ved anvisninger, der sker efter aftale i henhold til 1. punktum, samt ved anvisninger, som i øvrigt foretages af kommunalbestyrelsen.
 
-Stk. 3. Bestemmelsen i stk. 1-2 gælder kun ungdomsboliger, der er opført med statsstøtte i medfør af den efter 31. december 1977 gældende boligbyggerilovgivning.
+Stk. 3. Bestemmelserne i stk. 1-2 gælder kun ungdomsboliger, der er opført med statsstøtte i medfør af den efter 31. december 1977 gældende boligbyggerilovgivning.
