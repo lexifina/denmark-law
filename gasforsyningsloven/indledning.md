@@ -1,3 +1,3 @@
-Lov om naturgasforsyning
+Bekendtgørelse af lov om naturgasforsyning
 
-VI MARGRETHE DEN ANDEN, af Guds Nåde Danmarks Dronning, gør vitterligt: Folketinget har vedtaget og Vi ved Vort samtykke stadfæstet følgende lov:
+Herved bekendtgøres lov nr. 449 af 31. maj 2000 om naturgasforsyning med de ændringer, der følger af lov nr. 481 af 7. juni 2001 og § 2 i lov nr. 316 af 22. maj 2002.
