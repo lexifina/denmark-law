@@ -1,0 +1,3 @@
+§ 2 a. Hvis en person, der anser sig for krænket, jf. § 2, påviser faktiske omstændigheder, som giver anledning til at formode, at der er udøvet direkte eller indirekte forskelsbehandling, påhviler det modparten at bevise, at ligebehandlingsprincippet ikke er blevet krænket.
+
+Stk. 2. Der foreligger indirekte forskelsbehandling, når en bestemmelse, et kriterium eller en praksis, der tilsyneladende er neutral, stiller et væsentligt større antal personer af det ene køn ringere, medmindre denne bestemmelse, dette kriterium eller denne praksis er hensigtsmæssig og nødvendig og kan begrundes i objektive ikke-kønsrelaterede faktorer.
