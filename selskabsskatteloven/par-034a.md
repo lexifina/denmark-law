@@ -3,3 +3,5 @@
 ## Afsnit VII
 
 Ikrafttrædelses- og overgangsbestemmelser
+
+§ 35. (Ophævet)
