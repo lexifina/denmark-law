@@ -1,3 +1,3 @@
-Lov om afgift ved udstykning m.m.
+Bekendtgørelse af lov om afgift ved udstykning m.m.
 
-VI MARGRETHE DEN ANDEN, af Guds Nåde Danmarks Dronning, gør vitterligt: Folketinget har vedtaget og Vi ved Vort samtykke stadfæstet følgende lov:
+Herved bekendtgøres lov nr. 139 af 7. marts 1990 om afgift ved udstykning m.m. med den ændring, der følger af lov nr. 971 af 17. december 1997.
