@@ -1,17 +1,25 @@
-Industriministeriet, den 6. januar 1989
+Søfartsstyrelsen, den 19. september 1995
 
-P.M.V.
+Hans Christensen
 
-Hans Duborg
+/ E. Vestergaard
 
-/ Torben Ginnerup
+(* 1) Nu § 142 i Sølov nr. 170 af 16. marts 1994.
 
-(* 1) Nu lovbekendtgørelse nr. 584 af 29. september 1988 om skibes sikkerhed m.v.
+(* 2) Nu lovbekendtgørelse nr. 283 af 2. maj 1995 om skibes sikkerhed m.v.
 
-(* 2) Ved bekendtgørelse nr. 607 af 29. november 1973 blev loven sat
+(* 3) Nu § 510 i Sølov nr. 170 af 16. marts 1994.
 
-i kraft den 1. februar 1974.
+(* 4) Ved bekendtgørelse nr. 607 af 29. november 1973 blev loven sat i kraft den 1. februar 1974.
 
-(* 3) Bekendtgjort i Lovtidende den 30. marts 1988.
+(* 5) Bestemmelserne er ikke sat i kraft.
 
-(* 4) Bekendtgjort i Lovtidende den 22. juli 1988.
+(* 6) Bestemmelsen ophævede Lov om mønstring af søfarende m.v.
+
+(* 7) § 10 indeholder de ændringer, som angår sømandsloven.
+
+(* 8) Bekendtgjort i Lovtidende den 9. december 1993.
+
+(* 9) Denne lov vedrører implementering af Rådets direktiv 92/85/EØF af 19. oktober 1992 om iværksættelse af foranstaltninger til forbedring af sikkerheden og sundheden under arbejdet for arbejdstagere, som er gravide, som lige har født, eller som ammer (tiende særdirektiv i henhold til artikel 16, stk. 1, i direktiv 89/391/EØF for så vidt angår arbejdstagere, der er omfattet af sømandsloven.
+
+(* 10) § 1 indeholder de ændringer, som angår sømandsloven.

@@ -8,4 +8,4 @@ Stk. 4. Under ophold på fratrædelsesstedet betaler rederen udgifterne til søm
 
 Stk. 5. Så længe tjenesteforholdet består, finder § 35 tilsvarende anvendelse for skibsansatte.
 
-4. Tjenesteforholdets ophør ved tab af skibet
+3 b. Søfarendes fritagelse for tjeneste m.v. i forbindelse med graviditet og barsel

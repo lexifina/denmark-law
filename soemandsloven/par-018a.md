@@ -1,6 +1,6 @@
 § 18 a. Sømanden har ret til at fratræde tjene-sten om bord straks og ellers i første havn eller red, skibet anløber, hvis skibet inden afgang fra havn får ordre til at sejle til et område, hvor
 
-1) der er fare for, at skibet vil blive opbragt af krigsførende, udsat for krigsskade eller en faretruende situation, der kan ligestilles hermed, eller,
+1) der er fare for, at skibet vil blive opbragt af krigsførende, udsat for krigsskade eller en faretruende situation, der kan ligestilles hermed, eller
 
 2) sådan fare er blevet væsentlig forøget.
 
