@@ -1,3 +1,3 @@
-Lov om vederlag og pension m.v. for ministre
+Bekendtgørelse af lov om vederlag og pension m.v. for ministre
 
-VI FREDERIK DEN NIENDE, af Guds Nåde Konge til Danmark, de Venders og Goters, Hertug til Slesvig, Holsten, Stormarn, Ditmarsken, Lauenborg og Oldenborg, gør vitterligt: Folketinget har vedtaget og Vi ved Vort samtykke stadfæstet følgende lov:
+Herved bekendtgøres lov nr. 194 af 5. juni 1959 om vederlag og pension m.v. for ministre med de ændringer, der følger af lov nr. 577 af 19. december 1969, § 3 i lov nr. 447 af 30. juni 1993, lov nr. 185 af 12. marts 1997 og lov nr. 1095 af 29. december 1999.

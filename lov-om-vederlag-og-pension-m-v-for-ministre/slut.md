@@ -1,9 +1,5 @@
-Givet på Christiansborg slot, den 5. juni 1959.
+Statsministeriet, den 17. november 2000
 
-Under Vor Kongelige Hånd og Segl.
+Poul Nyrup Rasmussen
 
-FREDERIK R.
-
-/H.C. Hansen
-
-Ingen
+/Karen Ejersbo Iversen
