@@ -1,9 +1,5 @@
-Givet på Christiansborg Slot, den 10. juni 1997
+Ministeriet for Videnskab, Teknologi og Udvikling, den 10. juli 2003
 
-Under Vor Kongelige Hånd og Segl
+Helge Sander
 
-MARGRETHE R.
-
-/ Jytte Hilden
-
-Ingen
+/Sune Rahn
