@@ -1,3 +1,3 @@
 Bekendtgørelse af lov om vandløb
 
-Hermed bekendtgøres lov om vandløb, jf. lovbekendtgørelse nr. 404 af 19. maj 1992, med de ændringer, der følger af § 1 i lov nr. 402 af 14. juni 1995, § 3 i lov nr. 478 af 1. juli 1998, § 11 i lov nr. 355 af 2. juni 1999, § 13 i lov nr. 447 af 31. maj 2000 og § 2 i lov nr. 466 af 7. juni 2001.
+Hermed bekendtgøres lov om vandløb, jf. lovbekendtgørelse nr. 632 af 23. juni 2001, med de ændringer, der følger af § 39 i lov nr. 145 af 25. marts 2002, lov nr. 391 af 28. maj 2003, § 17 i lov nr. 442 af 9. juni 2004 og af § 3 i lov nr. 454 af 9. juni 2004.
