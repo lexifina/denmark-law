@@ -1,1 +1,1 @@
-§ 8 O. Skattepligtig kontanthjælp, der er tilbagebetalingspligtig efter kapitel 12 i lov om aktiv socialpolitik, fradrages ved opgørelsen af den skattepligtige indkomst for det indkomstår, hvori beløbet tilbagebetales.
+§ 8 O. Skattepligtig kontanthjælp og introduktionsydelse m.v., der er tilbagebetalingspligtig efter kapitel 12 i lov om aktiv socialpolitik eller kapitel 7 i integrationsloven, fradrages ved opgørelsen af den skattepligtige indkomst for det indkomstår, hvori beløbet tilbagebetales.
