@@ -1,5 +1,1 @@
-§ 21 a. Kommunalbestyrelsens fordeling af støtte til ældreboliger skal ske på baggrund af en samlet vurdering af situationen på det lokale boligmarked og behovet for nyt støttet boligbyggeri i kommunen. Fordelingen skal ske under hensyntagen til udlejningssituationen i det område, hvor byggeriet agtes gennemført, herunder til boligbehovet inden for områder, hvor der sker nedlæggelse af lejligheder i forbindelse med byfornyelses- eller kondemneringsvirksomhed eller gennemførelse af gade- og vejanlæg og andre offentlige anlæg.
-
-Stk. 2. Kommunalbestyrelsen skal hvert år foretage en opgørelse af ledige almennyttige boliger, ungdomsboliger og ældreboliger, der påfører de pågældende bebyggelser et lejetab. Kommunalbestyrelsen skal på baggrund heraf foretage en vurdering af årsagen til ledigheden i ældreboligerne og træffe foranstaltninger til at nedbringe denne.
-
-Stk. 3. Boligministeren kan fastsætte nærmere regler om de i stk. 1 og 2 nævnte forhold.
+§ 21 a. (Ophævet).

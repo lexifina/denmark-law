@@ -1,6 +1,8 @@
-§ 5 a. Ældreboliger, der indrettes særligt med henblik på at betjene personer med vidtgående fysiske eller psykiske handicap, tilvejebringes ved nybyggeri eller ved ombygning af eksisterende institutioner, som er etableret efter bistandslovens § 112. Disse boliger kan opføres og drives af amtskommuner. Derudover kan amtsrådet tillade kommuner, almennyttige boligselskaber, selvejende institutioner og pensionskasser af være byg- og driftsherre.
+§ 5 a
 
-Stk. 2. Kommunalbestyrelsen meddeler tilsagn til ældreboliger opført efter stk. 1, og amtsrådet yder lån, ydelsesstøtte og garanti efter reglerne i § 6, stk. 1 og 6, § 7, stk. 1 og 4, og §§ 9 og 10.
+Stk. 1. (Ophævet).
+
+Stk. 2. (Ophævet).
 
 Stk. 3. Amtskommunen skal yde et beløb til dækning af det i § 16, stk. 1, nævnte indskud til
 

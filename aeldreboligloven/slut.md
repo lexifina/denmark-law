@@ -1,8 +1,8 @@
-Boligministeriet, den 24. april 1996
+Boligministeriet, den 19. juni 1997
 
 Ole Løvig Simonsen
 
-/ Hanne Victor Hansen
+/ Anne Wallberg
 
 (* 1) Lovændringen vedrører § 18 a.
 
@@ -13,3 +13,7 @@ Ole Løvig Simonsen
 (* 4) Lovændringen vedrører § 21. Bekendtgørelsen fandt sted i Lovtidende den 23. december 1993.
 
 (* 5) Bekendtgørelsen fandt sted i Lovtidende den 9. februar 1995.
+
+(* 6) Bekendtgørelsen fandt sted i Lovtidende den 18. maj 1995.
+
+(* 7) Bekendtgørelsen fandt sted i Lovtidende den 3. april 1997.
