@@ -1,0 +1,1 @@
+§ 9 d. IT- og Telestyrelsen og de tilladelsesudstedende myndigheder skal være retligt adskilt og funktionelt uafhængige af udbydere af elektroniske kommunikationsnet, elektronisk kommunikationsudstyr eller elektroniske kommunikationstjenester.
