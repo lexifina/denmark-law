@@ -1,0 +1,1 @@
+§ 23 a. Har fordringshaveren eller skyldneren lovligt forfald, eller taler ganske særlige omstændigheder i øvrigt derfor, kan skifteretten give en kort udsættelse med behandlingen af konkursbegæringen.
