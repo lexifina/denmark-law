@@ -1,4 +1,4 @@
-§ 11 a. Er skadelidtes krav på erstatning og godtgørelse fra skadevolderen afgjort ved dom, ydes erstatning efter denne lov med det beløb, som er fastsat ved dommen, jfr. dog §§ 7-10.
+§ 11 a. Er skadelidtes krav på erstatning og godtgørelse fra skadevolderen afgjort ved dom, ydes erstatning efter denne lov med det beløb, som er fastsat ved dommen, jf. dog §§ 7  10.
 
 Stk. 2. Reglen i stk. 1 gælder ikke, for så vidt skadevolderen under sagen må anses for at have anerkendt kravet eller dets størrelse.
 

@@ -1,3 +1,3 @@
-Bekendtgørelse af Lov om erstatning fra staten til ofre for forbrydelser(* 1)
+Bekendtgørelse af lov om erstatning fra staten til ofre for forbrydelser
 
-Herved bekendtgøres lov nr. 277 af 26. maj 1976 om erstatning fra staten til ofre for forbrydelser med de ændringer, der følger af lov nr. 233 af 6. juni 1985.
+Herved bekendtgøres lov om erstatning fra staten til ofre for forbrydelser, jf. lovbekendtgørelse nr. 470 af 1. november 1985, med de ændringer, der følger af § 3 i lov nr. 366 af 18. maj 1994, § 16 i lov nr. 980 af 17. december 1997, § 2 i lov nr. 463 af 7. juni 2001 og § 2 i lov nr. 35 af 21. januar 2003.
