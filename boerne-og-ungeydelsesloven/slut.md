@@ -1,15 +1,7 @@
-Givet på Christiansborg slot, den 19. marts 1986
+Skatteministeriet, den 9. november 1989
 
-Under Vor Kongelige Hånd og Segl
+Anders Fogh Rasmussen
 
-I Dronningens Navn:
-
-INGRID
-
-Dronning af Danmark
-
-Rigsforstander
-
-/ ISI FOIGHEL
+/ Carsten Vesterø Jensen
 
 Ingen

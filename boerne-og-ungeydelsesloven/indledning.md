@@ -1,3 +1,3 @@
-Lov om en børnefamilieydelse
+Bekendtgørelse af lov om en børnefamilieydelse
 
-VI MARGRETHE DEN ANDEN, af Guds Nåde Danmarks Dronning, gør vitterligt: Folketinget har vedtaget og Vi ved Vort samtykke stadfæstet følgende lov:
+Herved bekendtgøres lov om en børnefamilieydelse, jf. lov nr. 147 af 19. marts 1986, med den ændring og tilføjelse, der følger af lov nr. 375 af 7. juni 1989.
