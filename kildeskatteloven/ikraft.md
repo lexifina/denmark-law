@@ -72,11 +72,15 @@ Stk. 5. § 1, nr. 17, finder anvendelse ved enhver udbetaling af A-indkomst genn
 
 Lov nr. 417 af 15. september 1972, hvis § 1 har ændret § 24, indeholder i § 2 følgende bestemmelse:
 
+§ 2
+
 Loven har virkning fra og med indkomståret 1973.
 
 ----
 
 Lov nr. 576 af 15. december 1972, hvis § 1 har ændret §§ 23, 37A, 37B, 48, 59, 61, 62 og 65 samt ophævet § 27, indeholder i § 2 følgende bestemmelse:
+
+§ 2
 
 Stk. 1. § 1, nr. 1, 2, 3, 4 og 6, har virkning fra og med indkomståret 1973.
 
@@ -104,7 +108,7 @@ Loven anvendes første gang ved udbetaling eller modregning af forskelsbeløbet 
 
 ----
 
-Lov nr. 264 af 22. maj 1974, hvis § 1 har ændret §§ 14, 23, 37A, 37B, 55, 60, 61, 62, 62 A, 63, 64, 102 og 103, indeholder i §§ 2-5 følgende bestemmelser:
+Lov nr. 264 af 22. maj 1974, hvis § 1 har ændret §§ 14, 23, 37A, 37B, 55, 60, 61, 62, 62A, 63, 64, 102 og 103, indeholder i §§ 2-5 følgende bestemmelser:
 
 § 2
 
@@ -156,7 +160,7 @@ Lov nr. 329 af 26. juni 1975, hvis § 10 har ændret § 64, stk. 3, indeholder i
 
 § 13
 
-Stk. 1. (* 70) Kildeskattelovens § 64, stk. 3, som ændret ved nærværende lovs § 10, finder første gang anvendelse ved udbetaling af forskelsbeløb den 1. november i det år, som bestemmes af ministeren for skatter og afgifter efter forhandling med indenrigsministeren (ikrafttrædelsesåret).
+Stk. 1. (* 73) Kildeskattelovens § 64, stk. 3, som ændret ved nærværende lovs § 10, finder første gang anvendelse ved udbetaling af forskelsbeløb den 1. november i det år, som bestemmes af ministeren for skatter og afgifter efter forhandling med indenrigsministeren (ikrafttrædelsesåret).
 
 Stk. 2. Som tillæg til det beløb, der tilkommer kommunerne og amtskommunerne i medfør af kildeskattelovens § 64, stk. 3, litra a, som ændret ved nærværende lovs § 10, udbetaler staten den 1. november i ikrafttrædelsesåret det beløb, hvormed de i det foregående års april kvartal udbetalte månedlige beløb overstiger de i samme års januar kvartal udbetalte månedlige beløb. Såfremt det samlede forskelsbeløb ikke derved overskrides, forøges den nævnte kvartalsdifference med et tillæg på indtil 3 pct.
 
@@ -172,7 +176,7 @@ Lov nr. 216 af 28. april 1976, hvis § 1 har ændret §§ 62, stk. 4, 62A, stk. 
 
 § 10
 
-Den i § 5 i lov nr. 264 af 22. maj 1974 om ændring af kildeskatteloven nævnte rentesats nedsættes til 0,63 pct. med virkning for beregningen af renter vedrørende indkomstårene 1972 og 1973 for tiden fra og med den 1. juli 1976.
+Den i § 5 i lov nr. 264 af 22. maj 1974 om ændring af kildeskatteloven nævnte rentesats nedsættes til 0,62 pct. med virkning for beregningen af renter vedrørende indkomstårene 1972 og 1973 for tiden fra og med den 1. juli 1976.
 
 § 11
 
@@ -192,7 +196,7 @@ Lov nr. 217 af 28. april 1976, hvis § 3, nr. 3, har indsat § 37C, indeholder i
 
 Stk. 1. § 1, § 3, nr. 1 og 2, og §§ 4-9 har virkning for ydelser, der udredes fra og med den 1. januar 1976.
 
-Stk. 2. § 2 og § 3, nr. 3, har virkning for ydelser, der udredes fra og med den 1. april 1976. Kildeskattelovens § 37C, som affattet ved § 3, nr. 3, finder dog tilsvarende anvendelse med hensyn til understøttelser og andre lignende ydelser, der af offentlige myndigheder og institutioner er udredet i tidsrummet fra den 1. januar 1976 til og med den 31. marts 1976 i henhold til lov om offentlig forsorg, kapitel II i lov om pension og hjælp til enker m.fl., lov om revalidering, lov om mødrehjælpsinstitutioner og lov om børne- og ungdomsforsorg, og som efter de forud for den 1. januar 1976 gældende regler var af skattepligtig art. Ydelserne i det nævnte tidsrum henføres ved beregningen efter kildeskattelovens § 37C til manden. Ydelser efter lov om revalidering, bortset fra ydelser efter lovens § 7, henføres dog til hustruen, hvis de er ydet til hende.
+Stk. 2. § 2 og § 3, nr. 3, har virkning for ydelser, der udredes fra og med den 1. april 1976. Kildeskattelovens § 37C, som affattet ved § 3, nr. 3, finder dog tilsvarende anvendelse med hensyn til understøttelser og andre lignende ydelser, der af offentlige myndigheder og institutioner er udredet i tidsrummet fra den 1. januar 1976 til og med den 31. marts 1976 i henhold til lov om offentlig forsorg, kapitel II i lov om pension og hjælp til enker m. fl., lov om revalidering, lov om mødrehjælpsinstitutioner og lov om børne- og ungdomsforsorg, og som efter de forud for den 1. januar 1976 gældende regler var af skattepligtig art. Ydelserne i det nævnte tidsrum henføres ved beregningen efter kildeskattelovens § 37C til manden. Ydelser efter lov om revalidering, bortset fra ydelser efter lovens § 7, henføres dog til hustruen, hvis de er ydet til hende.
 
 ----
 
@@ -210,7 +214,7 @@ Lov nr. 614 af 17. december 1976, hvis § 2 har ændret § 31, stk. 1-2, og § 3
 
 § 4
 
-Stk. 1. -
+Stk. 1. - -
 
 Stk. 2. § 1, nr. 2, § 2 og § 3, nr. 2, har virkning for underskud, der er fremkommet ved opgørelsen af den skattepligtige indkomst for indkomståret 1976 og senere indkomstår.
 
