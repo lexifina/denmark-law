@@ -1,9 +1,7 @@
-Bekendtgørelse af Lov om mægling i arbejdsstridigheder.
+Bekendtgørelse af Lov om mægling i arbejdsstridigheder
 
-(Forligsmandsloven)
-
-Herved bekendtgøres lov nr. 5 af 18. januar 1934 om mægling i arbejdsstridigheder, jfr. lovbekendtgørelse nr. 15 af 28. januar 1958, med de ændringer, der følger af lov nr. 63 af 25. marts 1961 og lov nr. 520 af 23. december 1970.
+Hermed bekendtgøres lov nr. 5 af 18. januar 1934 om mægling i arbejdsstridigheder, jf. lovbekendtgørelse nr. 559 af 21. december 1971 med de ændringer, der følger af lov nr. 1194 af 27. december 1996
 
 I.
 
-FORLIGSMÆND.
+Forligsmænd
