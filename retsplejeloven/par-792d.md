@@ -6,6 +6,6 @@ Stk. 2. Legemsbesigtigelse, der ikke kræver afklædning, herunder optagelse af 
 
 2) indgrebet må antages at være af afgørende betydning for efterforskningen.
 
-Stk. 3. Afgørelse om legemsbesigtigelse efter stk. 2 træffes af retten ved kendelse. Bestemmelserne i § 792 c, stk. 2, 2. og 3. pkt., samt stk. 3 og 4, finder tilsvarende anvendelse. I stedet for direkte gennemtvingelse kan de i § 178 nævnte tvangsmidler anvendes til gennemførelse af legemsbesigtigelsen.
+Stk. 3. Afgørelse om legemsbesigtigelse efter stk. 2 træffes af retten ved kendelse. Bestemmelserne i § 792 c, stk. 2, 2. og 3. pkt., samt stk. 3 og stk. 4, 1. pkt., finder tilsvarende anvendelse. I stedet for direkte gennemtvingelse kan de i § 178 nævnte tvangsmidler anvendes til gennemførelse af legemsbesigtigelsen.
 
 Stk. 4. Under efterforskning på gerningsstedet i umiddelbar tilknytning til udøvelsen af en alvorlig voldsforbrydelse eller fremsættelse af trussel herom samt i andre efterforskningssituationer, hvor der er begrundet mistanke om, at nogen tilstedeværende på sin person skjuler våben, kan politiet foretage visitation af tøjet hos alle personer, der træffes på stedet, med henblik på at finde våben.
