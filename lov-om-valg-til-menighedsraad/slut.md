@@ -1,5 +1,5 @@
-Kirkeministeriet, den 19. januar 2000
+Kirkeministeriet, den 16. marts 2004
 
-Margrethe Vestager
+Tove Fergo
 
-/Niels Bjerregaard
+/Pernille Esdahl
