@@ -1,7 +1,5 @@
-Finansministeriet, den 5. august 1991
+Finansministeriet, den 17. september 1998
 
-Henning Dyremose
+Mogens Lykketoft
 
-/ Ole Nyegaard
-
-Ingen
+/Birgitte Nielsen
