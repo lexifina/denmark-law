@@ -1,4 +1,4 @@
-By- og Boligministeriet, den 27. juni 2000
+By- og Boligministeriet, den 18. december 2000
 
 Jytte Andersen
 
