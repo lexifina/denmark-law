@@ -1,21 +1,5 @@
-Denne lovbekendtgørelse indeholder bemærkninger om ikrafttrædelses- og overgangsbestemmelser for love, der er vedtaget efter 27. februar 1996.
+Denne lovbekendtgørelse indeholder bemærkninger om ikrafttrædelsesbestemmelser for love, der er vedtaget efter 20. december 2002.
 
-Lov nr. 1204 af 27. december 1996 indeholder bestemmelser om effektivisering af det offentliges restanceinddrivelse. Loven trådte i kraft den 1. januar 1997. Bestemmelserne blev ophævet ved lov nr. 165 af 15. marts 2000, se note 8.
+Kapitel 1, § 10, stk. 2, § 10 a (ny), § 11, § 11 a (ny), § 12 (ophævet), § 14, stk. 2, 3 og 4, 15, stk. 1, § 15, stk. 3 (nyt stykke), § 16, stk. 1-4 (nye stykker), § 17, § 19, § 20, stk. 1, 1. pkt., § 20, stk. 2, § 20, stk. 4 og 5 (nye stykker), § 23, stk. 3, § 23, stk. 5 og 6, § 24, § 24, stk. 2 (nyt), § 25,stk. 3, 4. pkt. (nyt), § 37, § 39, stk. 1, nr. 4, § 42, § 47, § 50, § 54, stk. 1, § 56, stk. 2, af § 71 a, stk. 1, nr. 7 (nyt nummer), § 73, stk. 1, nr. 2, § 78, nr. 1 - 4, § 79, stk. 1, nr. 2 og 3, § 79, stk. 2 og 3 (ophævet), § 79 a og 79 b (nye), § 81, stk. 1, 2. pkt., § 83, stk. 1, § 84, stk. 1 og § 84, stk. 2 (nyt) er ændret ved lov nr. 962 af 2. december 2003. Endvidere er toldkontrol til kontrol ændret overalt i loven. Loven trådte i kraft den 1. januar 2004. § 11 a trådte dog i kraft den 1. maj 2004.
 
-Lov nr. 1223 af 27. december 1996 indeholder bestemmelser om betaling af told og merværdiafgift i forbindelse med konkurs, tvangsakkord, dødsfald mv. Loven trådte i kraft 1. januar 1997.
-
-Lov nr. 1098 af 29. december 1997, indeholder bestemmelser om ændret klagestruktur. Bestemmelserne om klage finder anvendelse på afgørelser, der påklages fra og med 1. april 1998.
-
-Lov nr. 166 af 24. marts 1999, indeholder bestemmelser om afgrænsning af told- og afgiftsområdet. Loven trådte i kraft 1. januar 2000.
-
-Lov nr. 380 af 2. juni 1999, indeholder bestemmelser om myndighedernes adgang til privat ejendom uden retskendelse m.v. Loven trådte i kraft 4. juni 1999.
-
-Lov nr. 947 af 20. december 1999, indeholder bestemmelser om svigsbekæmpende foranstaltninger. Loven trådte i kraft 1. januar 2000. Det fremgår af lovens § 7, stk. 2, at de ændringer, som angår § 30 a har virkning for told- og afgiftsskyld, der er opstået efter den 1. januar 2000.
-
-Lov nr. 165 af 15. marts 2000, indeholder konsekvensændringer som følge af opkrævningsloven. Loven trådte i kraft 1. januar 2001.
-
-Lov nr. 1029 af 22. november 2000, indeholder bestemmelser om afskaffelse af hæftestraf m.v. Loven trådte i kraft 1. juli 2001.
-
-Lov nr. 482 af 7. juni 2001 indeholder bestemmelser om Danmarks tiltrædelse af Napoli II-konventionen. Lovens § 1, stk. 1, § 2, stk. 1, og § 3 trådte i kraft 9. juni 2001. Skatteministeren fastsætter tidspunktet for ikrafttrædelsen af lovens øvrige bestemmelser.
-
-Lov nr. 387 af 6. juni 2002 indeholder bestemmelser, der skal styrke bekæmpelsen af terrorismen. Loven trådte i kraft 8. juni 2002.
+§ 18, stk. 2, 2. pkt. og § 56, stk. 1, er ændret ved lov nr. 356 af 19. maj 2004, der trådte i kraft den 1. juli 2004.
