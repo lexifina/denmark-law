@@ -1,0 +1,3 @@
+§ 563 a. Rekvirenten skal tilbagekalde sin anmodning, hvis skyldneren inden auktionen betaler alle forfaldne krav, som er sikret ved rekvirentens pant i ejendommen, samt auktionssagens omkostninger.
+
+Stk. 2. Har auktionen været afholdt, og er der begæret ny auktion, skal rekvirenten tilbagekalde sin anmodning, såfremt skyldneren inden den nye auktion betaler de i stk. 1 nævnte omkostninger samt forfaldne beløb og tilkendte omkostninger til alle, som opnåede dækning ved de ved auktionen afgivne bud. Skal et pantebrev forblive indestående, hvis auktionsbudet antages , kan andre fordringshavere end rekvirenten kun kræve betaling af forfaldne ydelser og omkostninger.
