@@ -20,7 +20,7 @@ b) den skattepligtige sammen med andre ansatte ejer mindst 25 pct. af aktie- ell
 
 5) Aktierne eller anparterne er ikke omfattet af aktieavancebeskatningslovens § 2 a.
 
-6) Aktierne eller anparterne er ikke erhvervet i forbindelse med omdannelsen af en personligt ejet virksomhed efter lov om skattefri virksomhedsomdannelse eller som led i en skattefri aktieombytning efter aktieavancebeskatningsloven.
+6) Aktierne eller anparterne er ikke erhvervet i forbindelse med omdannelsen af en personligt ejet virksomhed efter lov om skattefri virksomhedsomdannelse som led i en skattefri aktieombytning efter aktieavancebeskatningsloven eller i forbindelse med anvendelse af etableringskontoindskud efter lov om indskud på etableringskonto.
 
 7) Den skattepligtige har ejet aktierne eller anparterne i mindre end 11 år.
 
