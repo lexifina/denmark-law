@@ -1,0 +1,3 @@
+§ 770 d. Rettens afgørelse om isolation træffes ved særskilt kendelse herom. Træffer retten bestemmelse om isolation, skal retten i kendelsen anføre de konkrete omstændigheder, hvorpå det støttes, at betingelserne i §§ 770 a-770 c for isolation eller fortsat isolation er opfyldt.
+
+Stk. 2. Ved rettens afgørelse om isolation finder reglerne i § 764, stk. 2-4, § 766, § 767, stk. 1, og §§ 768-769 i øvrigt tilsvarende anvendelse. Ved iværksættelse af isolation må den første frist for indgrebets længde dog ikke overstige 2 uger. Hvis arrestanten er under 18 år, kan fristen for isolation højst forlænges med 2 uger ad gangen.
