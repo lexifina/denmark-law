@@ -1,3 +1,7 @@
-Bekendtgørelse af Lov om værnepligtsorlov og om orlov til FN-tjeneste mv.
+Bekendtgørelse af lov om værnepligtsorlov og om orlov til FN-tjeneste mv.
 
-Herved bekendtgøres lov nr. 148 af 17. april 1985 om værnepligtsorlov med de ændringer, der følger af lov nr. 910 af 8. december 1993 om ændring af lov om forsvarets personel, lov om hjemmeværnet, lov om statens uddannelsesstøtte og lov om værnepligtsorlov mv.
+Herved bekendtgøres lov om værnepligtsorlov jf. lovbekendtgørelse nr. 981 af 14. december 1993 med de ændringer, der følger af lov nr. 444 af 7. juni 2001.
+
+## Kapitel 1
+
+Lovens formål og område
