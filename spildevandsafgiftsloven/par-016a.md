@@ -1,0 +1,1 @@
+§ 16 a. Dør en spildevandsudleder, der er registreret efter § 4, stk. 2, eller indehaveren af et registreret spildevandsanlæg, og udstedes der proklama efter § 81 i lov om skifte af dødsboer, skal arvingerne eller bobestyreren senest 30 dage efter bekendtgørelse af proklama foretage angivelse efter § 14 for perioden fra afgiftsperiodens begyndelse og indtil dødsdagen.
