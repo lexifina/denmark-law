@@ -1,1 +1,1 @@
-§ 31 b. Anvendes der i en sag skriftlig forelæggelse eller skriftlig procedure, jf. §§ 927 b og 928 a, stk. 2 og 3, finder de afgørelser, der er truffet i medfør af denne lovs §§ 29, 30 og 31, tilsvarende anvendelse.
+§ 31 b. Anvendes der i en sag skriftlig forelæggelse eller procedure, jf. §§ 387 og 927 b og § 928 a, stk. 2 og 3, kan retten forbyde offentlig gengivelse heraf, i det omfang der under en tilsvarende mundtlig forelæggelse eller procedure kan ske dørlukning eller nedlægges referatforbud, jf. §§ 29 og 30. §§ 29 b, 29 c, 30 a og 30 b finder tilsvarende anvendelse.
