@@ -1,0 +1,1 @@
+§ 246 a. Sager om stadfæstelse af arrest i et skib og om den fordring, for hvilken arresten er gjort, kan anlægges ved retten på det sted, hvor arresten er foretaget eller ville være foretaget, hvis den ikke var afværget ved sikkerhedsstillelse.
