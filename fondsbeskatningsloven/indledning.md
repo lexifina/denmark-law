@@ -1,3 +1,3 @@
 Bekendtgørelse af lov om beskatning af fonde og visse foreninger (Fondsbeskatningsloven) (* 1)
 
-Herved bekendtgøres lov om beskatning af fonde og visse foreninger (Fondsbeskatningsloven), jf. lovbekendtgørelse nr. 650 af 26. juli 1995 med de ændringer, der følger af § 5 i lov nr. 1104 af 20. december 1995, § 3 i lov nr. 1078 af 20. december 1995, § 5 i lov nr. 399 af 22. maj 1996 og § 6 i lov nr. 487 af 12. juni 1996.
+Herved bekendtgøres lov om beskatning af fonde og visse foreninger (Fondsbeskatningsloven), jf. lovbekendtgørelse nr. 869 af 30. september 1996 med de ændringer, der følger af § 4 i lov nr. 1219 af 27. december 1996 og § 10 i lov nr. 1223 af 27. december 1996.
