@@ -1,3 +1,3 @@
-Konkursskattelov
+Bekendtgørelse af Konkursskatteloven
 
-VI MARGRETHE DEN ANDEN, af Guds Nåde Danmarks Dronning, gør vitterligt: Folketinget har vedtaget og Vi ved Vort samtykke stadfæstet følgende lov:
+Herved bekendtgøres konkursskatteloven, jf. lov nr. 359 af 6. juni 1991, med de ændringer og tilføjelser, der følger af lov nr. 421 af 25. juni 1993.
