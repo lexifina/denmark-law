@@ -1,8 +1,8 @@
-Boligministeriet, den 16. september 1993
+Boligministeriet, den 4. august 1994
 
 Flemming Kofod-Svendsen
 
-/ Inge Schouby Andersen
+/ Hanne Victor Hansen
 
 (* 1) Lovændringens § 2 vedrører § 12, stk. 1-3, § 12 a, § 13, stk. 1 og § 83, stk. 2 og 3.
 
@@ -17,3 +17,21 @@ Flemming Kofod-Svendsen
 (* 6) Lovændringen, der træder i kraft den 2. juli 1993 vedrører § 8, stk. 1, nr. 1 og § 54, stk. 3. Ændringen af § 8, stk. 1, nr. 1, der ved lov nr. 449 af 30. juni 1993 igen er ændret med virkning fra den 1. januar 1994, jf. note 7, har følgende ordlyd: I § 8, stk. 1, indsættes efter »§§ 49 b, stk. 2«: », § 49 b, stk. 5«.
 
 (* 7) Lovændringen vedrører § 8, stk. 1, nr. 1 og stk. 4, 5, 7 og 8, § 10, stk. 2-5, § 14, stk. 1, § 17, stk. 1, nr. 4, § 21, stk. 1, 1. og 2. pkt., § 22, stk. 1, 1. og 2. pkt., § 23, stk. 1, § 24 d, stk. 2, § 24 e, stk. 3, § 25, stk. 9, § 33, § 34, § 47, stk. 7, § 72, stk. 1, 2 og 3.
+
+(* 8) Lovændringen vedrører § 10, stk. 3, 1. og 2. pkt., § 38, § 46, stk. 1, 1. og 3. pkt., § 47, stk. 1 og 2, § 59, stk. 4, § 72, stk. 1, nr. 6, § 75, stk. 3, 2., 3. og 4. pkt.
+
+(* 9) Bekendtgørelsen i Lovtidende fandt sted den 23. december 1993. Bestemmelsen vedrører § 38.
+
+(* 10) Lovændringen vedrører § 2, stk. 1, 2. pkt.
+
+(* 11) Bekendtgørelsen i Lovtidende fandt sted den 15. februar 1994.
+
+(* 12) Lovændringen vedrører § 64 a-d og § 75, stk. 4, 2. pkt.
+
+(* 13) Bekendtgørelsen i Lovtidende fandt sted den 28. april 1994.
+
+(* 14) Lovændringen vedrører § 25, stk. 8, § 25 a, § 26 og § 29 a.
+
+(* 15) Lovændringen vedrører § 47, stk. 7, § 75, stk. 4, 2. pkt. og § 76, stk. 1, 2. pkt.
+
+(* 16) §-tegnet foran »25 a« er fejlagtigt gledet ud i lov nr. 418 af 1. juni 1994 (§ 2, nr. 3).
