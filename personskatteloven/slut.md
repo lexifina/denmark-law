@@ -1,15 +1,7 @@
-Givet på Christiansborg slot, den 19. marts 1986
+Skatteministeriet, den 18. september 1987
 
-Under Vor Kongelige Hånd og Segl
+ANDERS FOGH RASMUSSEN
 
-I Dronningens Navn:
-
-INGRID
-
-Dronning af Danmark
-
-Rigsforstander
-
-/ ISI FOIGHEL
+/Erik S. M. Hansen
 
 Ingen
