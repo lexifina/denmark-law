@@ -1,3 +1,3 @@
 Bekendtgørelse af byggelov
 
-Herved bekendtgøres Byggelov, jf. lovbekendtgørelse nr. 495 af 29. juni 1990 med de ændringer, der følger af § 1 i lov nr. 252 af 6. maj 1993.
+Herved bekendtgøres Byggelov, jf. lovbekendtgørelse nr. 357 af 3. juni 1993 med de ændringer, der følger af § 1 i lov nr. 362 af 14. juni 1995.
