@@ -4,4 +4,4 @@ Stk. 2. Udgifter, der er afholdt inden etableringen eller udvidelsen af erhvervs
 
 Stk. 3. Udgifter, der må anses for tillæg til en købesum eller et fradrag i en salgssum for et aktiv, kan ikke fradrages efter stk. 1.
 
-Stk. 4. (* 14) Udgifter, der er omfattet af § 8 N, kan ikke fradrages efter stk. 1-3.
+Stk. 4. Udgifter, der er omfattet af § 8 N, kan ikke fradrages efter stk. 1-3.
