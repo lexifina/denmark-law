@@ -1,4 +1,4 @@
-§ 150 b. Anke af en dom, hvorved der er sket ubetinget frakendelse, efter at ret til at gøre tjeneste på et luftfartøj har været inddraget i medfør af § 150, stk. 5, har ikke opsættende virkning for dommens bestemmelse om frakendelse, medmindre andet bestemmes af byretten ved kendelse. I andre tilfælde kan byretten på begæring af anklagemyndigheden ved kenelse bestemme, at anke ikke skal have opsættende virkning.
+§ 150 b. Anke af en dom, hvorved der er sket ubetinget frakendelse, efter at ret til at gøre tjeneste på et luftfartøj har været inddraget i medfør af § 150, stk. 5, har ikke opsættende virkning for dommens bestemmelse om frakendelse, medmindre andet bestemmes af byretten ved kendelse. I andre tilfælde kan byretten på begæring af anklagemyndigheden ved kendelse bestemme, at anke ikke skal have opsættende virkning.
 
 Stk. 2. Afsiges der i en sag, hvor certifikatet er inddraget efter § 150, stk. 5, frifindende dom med hensyn til spørgsmålet om frakendelse, eller sker frakendelsen betinget, skal retten generhverves efter de herfor gældende regler, selv om dommen ankes.
 

@@ -1,1 +1,0 @@
-§ 92 a. Dansk lufttrafikforetagende skal i sine billetter eller almindelige befordringsvilkår tillige angive, at det ved befordring af passagerer er ansvarligt inden for den ansvarsgrænse, som er nævnt i § 111 a.

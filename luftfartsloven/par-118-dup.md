@@ -1,1 +1,0 @@
-§ 118. Adgangen til erstatning efter bestemmelserne i dette kapitel bortfalder, såfremt sag ikke er rejst inden to år, regnet fra luftfartøjets ankomst til bestemmelsesstedet eller fra den dag, da luftfartøjet skulle være ankommet, eller da befordringen blev afbrudt.

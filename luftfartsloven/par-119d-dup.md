@@ -1,1 +1,0 @@
-§ 119 d. Meddelelser, som efter bestemmelserne i dette kapitel gives til den ene befordrer, har virkning også i forhold til den anden befordrer. Ordrer fra afsenderen efter § 101 har dog kun virkning, hvis de gives til den befordrer, der har indgået befordringsaftalen.

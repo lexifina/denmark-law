@@ -1,1 +1,0 @@
-§ 98. Tages gods med befordrerens samtykke om bord i luftfartøjet, uden at luftfragtbrev er udfærdiget, eller indeholder luftfragtbrevet ikke den oplysning, som er foreskrevet i § 97 c), kan befordreren ikke påberåbe sig bestemmelsen om ansvarsbegrænsning i § 111, stk. 2.

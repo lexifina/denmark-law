@@ -1,1 +1,0 @@
-§ 93. Ved befordring af indskrevet rejsegods skal rejsegodsbevis udstedes. Såfremt rejsegodsbeviset ikke er hæftet sammen med eller indføjet i en passagerbillet, der opfylder de i § 92, stk. 1, fastsatte krav, skal det indeholde angivelse af:

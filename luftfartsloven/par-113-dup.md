@@ -1,1 +1,0 @@
-§ 113. De i § 111 og § 111 a fastsatte ansvarsgrænser skal ikke finde anvendelse, såfremt det bevises, at befordreren selv eller hans folk under udførelsen af deres tjeneste har forårsaget skaden, enten med forsæt eller groft uagtsomt, vidende om, at skade sandsynligvis ville blive forårsaget.

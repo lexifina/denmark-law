@@ -1,1 +1,0 @@
-§ 117. Erstatningssøgsmålet skal anlægges ved retten enten på det sted, hvor befordreren bor eller har sit hovedkontor eller har den forretningsafdeling, hvorigennem befordringsaftalen er blevet afsluttet, eller på bestemmelsesstedet.

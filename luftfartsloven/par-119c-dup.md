@@ -1,1 +1,0 @@
-§ 119 c. Ved bedømmelsen af en befordrers ansvar skal handlinger og undladelser af den anden befordrer eller af dennes folk under udøvelsen af deres tjeneste anses at have samme virkning som hans egne handlinger og undladelser. Den, der udfører befordringen, kan dog ikke herved pådrages ansvar ud over de i § 111 eller § 111 a fastsatte grænser.
