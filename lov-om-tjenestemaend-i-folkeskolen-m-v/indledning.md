@@ -1,3 +1,3 @@
-Lov om tjenestemænd i folkeskolen i primærkommunerne
+Bekendtgørelse af lov om tjenestemænd i folkeskolen m.v.
 
-VI MARGRETHE DEN ANDEN, af Guds Nåde Danmarks Dronning, gør vitterligt: Folketinget har vedtaget og Vi ved Vort samtykke stadfæstet følgende lov:
+Hermed bekendtgøres lov nr. 382 af 20. maj 1992 om tjenestemænd i folkeskolen i primærkommunerne med de ændringer, der følger af § 11 i lov nr. 208 af 28. april 1993.
