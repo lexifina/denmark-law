@@ -1,4 +1,4 @@
-§ 9 c. Der kan efter ansøgning gives opholdstilladelse til en udlænding, hvis ganske særlige grunde taler derfor. Medmindre særlige grunde taler derimod, betinges opholdstilladelse efter 1. pkt. som følge af en familiemæssig tilknytning til en herboende person af, at de i § 9, stk. 2-9, nævnte betingelser er opfyldt. Bestemmelserne i § 9, stk. 13-18, finder tilsvarende anvendelse.
+§ 9 c. Der kan efter ansøgning gives opholdstilladelse til en udlænding, hvis ganske særlige grunde taler derfor. Medmindre særlige grunde taler derimod, betinges opholdstilladelse efter 1. pkt. som følge af en familiemæssig tilknytning til en herboende person af, at de i § 9, stk. 2-17, nævnte betingelser er opfyldt. Bestemmelserne i § 9, stk. 19-25, finder tilsvarende anvendelse.
 
 Stk. 2. Der kan efter ansøgning gives opholdstilladelse til en udlænding, der er meddelt afslag på en ansøgning om opholdstilladelse efter § 7, hvis
 

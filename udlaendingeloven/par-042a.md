@@ -4,7 +4,7 @@ Stk. 2. Har en udlænding, der ikke er omfattet af stk. 1 eller § 43, stk. 1, e
 
 Stk. 3. Stk. 1 og 2 gælder ikke:
 
-1) Hvis udlændingen har lovligt ophold her i landet i medfør af § 1 eller § 5, stk. 2, eller i medfør af en opholdstilladelse efter § 6 eller §§ 9-9 e.
+1) Hvis udlændingen har lovligt ophold her i landet i medfør af § 1 eller § 5, stk. 2, eller i medfør af en opholdstilladelse efter § 6 eller §§ 9- 9 f.
 
 2) Hvis udlændingen har indgået ægteskab med en herboende person, medmindre særlige grunde foreligger.
 
