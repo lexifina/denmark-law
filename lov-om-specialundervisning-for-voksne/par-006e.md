@@ -1,0 +1,1 @@
+§ 6 e. For deltagelse i bestyrelsens møder kan der ydes medlemmerne diæter, erstatning for dokumenteret tabt arbejdsfortjeneste og befordringsgodtgørelse m.v. i overensstemmelse med reglerne i § 16 i lov om kommunernes styrelse.
