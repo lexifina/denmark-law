@@ -1,0 +1,1 @@
+§ 2 a. Ejere eller andelshavere i private andelsboligforeninger, der er fyldt 55 år og bor i et kollektivt bofællesskab, jf. kapitel 4 a, har efter ansøgning ret til boligstøtte efter reglerne i denne lov.
