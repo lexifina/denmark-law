@@ -1,0 +1,1 @@
+§ 191 a. Med fængsel indtil 6 år straffes den, som modtager eller skaffer sig eller andre del i en vinding, der er erhvervet ved en overtrædelse af § 191, samt den, som ved opbevaring, transport, hjælp til afhændelse eller på lignende måde virker til at sikre en anden udbytte af en sådan overtrædelse.

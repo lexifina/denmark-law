@@ -1,0 +1,1 @@
+§ 77 a. Genstande, som på grund af deres beskaffenhed i forbindelse med andre foreliggende omstændigheder må befrygtes at ville blive brugt ved en strafbar handling, kan konfiskeres, for så vidt det må anses for påkrævet for at forebygge den strafbare handling. § 75, stk. 4, finder tilsvarende anvendelse.

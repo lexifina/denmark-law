@@ -1,0 +1,1 @@
+§ 264 d. Med bøde, hæfte eller fængsel indtil 6 måneder straffes den, der uberettiget videregiver meddelelser eller billeder vedrørende en andens private forhold eller i øvrigt billeder af den pågældende under omstændigheder, der åbenbart kan forlanges unddraget offentligheden. Bestemmelsen finder også anvendelse, hvor meddelelsen eller billedet vedrører en afdød person.

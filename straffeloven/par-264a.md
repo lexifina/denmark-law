@@ -1,0 +1,1 @@
+§ 264 a. Den, som uberettiget fotograferer personer, der befinder sig på et ikke frit tilgængeligt sted, straffes med bøde, hæfte eller fængsel indtil 6 måneder. Det samme gælder den, der ved hjælp af kikkert eller andet apparat uberettiget iagttager sådanne personer.

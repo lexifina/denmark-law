@@ -1,0 +1,1 @@
+§ 266 c. Den, der, efter at en sag har fundet sin afgørelse, med hensyn til denne påny fremsætter de underkendte beskyldninger mod den samme person så hyppigt,at deres fremsættelse udarter til forfølgelse, straffes, når oplysningerne er egnet til at skade den pågældende i offentlighedens omdømme, med bøde eller hæfte.

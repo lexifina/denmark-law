@@ -1,0 +1,1 @@
+§ 152 b. (* 2) Med samme straf som efter § 152 straffes den, som udøver eller har udøvet en virksomhed eller et erhverv i medfør af offentlig beskikkelse eller anerkendelse, og som uberettiget videregiver eller udnytter oplysninger, som er fortrolige af hensyn til private interesser, og hvortil den pågældende i den forbindelse har fået kendskab.

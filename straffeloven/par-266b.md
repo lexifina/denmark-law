@@ -1,0 +1,1 @@
+§ 266 b. Den, der offentligt eller med forsæt til udbredelse i en videre kreds fremsætter udtalelse eller anden meddelelse, ved hvilken en gruppe af personer trues, forhånes eller nedværdiges på grund af sin race, hudfarve, nationale eller etniske oprindelse eller tro, straffes med bøde, hæfte eller fængsel indtil 2 år.
