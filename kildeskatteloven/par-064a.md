@@ -12,10 +12,10 @@ Om indeholdelse i aktieudbytte m.m.
 
 Stk. 2. Udbytteskat indeholdes ikke i udbytte af selskabets egne aktier eller andele. Skattemyndighederne kan forlange, at selskabet foreviser dokumentation for størrelsen af dets beholdning af egne aktier eller andele.
 
-Stk. 3. Reglerne i dette afsnit finder tilsvarende anvendelse på udlodninger og udbetalinger m.v., jf. stk. 1, foretaget af investeringsforeninger, der udsteder omsættelige beviser for medlemmernes indskud.
+Stk. 3. Reglerne i dette afsnit finder tilsvarende anvendelse på udlodninger og udbetalinger m.v., jf. stk. 1, foretaget af investeringsforeninger, der udsteder omsættelige beviser for medlemmernes indskud. Det gælder dog ikke udlodninger fra obligationsbaserede investeringsforeninger som nævnt i aktieavancebeskatningslovens § 2 d, stk. 2.
 
 Stk. 4. Skatteministeren kan fastsætte regler om, at der ikke skal indeholdes udbytteskat i udbytter, der ikke skal medregnes ved opgørelsen af modtagerens skattepligtige indkomst. § 65 C, stk. 2, finder tilsvarende anvendelse vedrørende indeholdelse af udbytteskat.
 
-Stk. 5. Der indeholdes ikke udbytteskat i udbytte, som et selskab, der er hjemmehørende i en stat, der er medlem af De Europæiske Fællesskaber, modtager i udbytte fra et selskab, der er hjemmehørende her i landet. Det er en betingelse, at det udbyttemodtagende selskab, moderselskabet, ejer mindst 25 pct. af aktiekapitalen i det udbyttegivende selskab, datterselskabet, i en sammenhængende periode på mindst et år, inden for hvilken periode udbytteudlodningstidspunktet skal ligge. Det er endvidere en betingelse, at såvel moderselskabet som datterselskabet er omfattet af begrebet selskab i en medlemsstat i artikel 2 i direktiv 90/435/EØF.
+Stk. 5. Der indeholdes ikke udbytteskat i udbytte, som et selskab, der er hjemmehørende i udlandet, modtager fra et selskab, der er hjemmehørende her i landet, når det pågældende udbytte ikke er omfattet af skattepligten, jf. selskabsskattelovens § 2, stk. 1, litra c.
 
 Stk. 6. Der skal ikke foretages indeholdelse i udbytte m.v., der er skattefrit for modtageren i henhold til ligningslovens § 16 A, stk. 4 og 8, eller § 16 B, stk. 4.
