@@ -1,3 +1,3 @@
-Bekendtgørelse af Våbenlov
+Bekendtgørelse af lov om våben og eksplosivstoffer(* 1)
 
-Herved bekendtgøres våbenloven, jfr. lovbekendtgørelse nr. 16 af 20. januar 1965, med de ændringer, der følger af § 116 i lov nr. 213 af 4. juni 1965, lov nr. 322 af 13. juni 1973 og lov nr. 297 af 6. juni 1984.
+Herved bekendtgøres lov om våben og eksplosivstoffer, jf. lovbekendtgørelse nr. 529 af 11. december 1985, med de ændringer, der følger af lov nr. 861 af 23. december 1987, § 2 i lov nr. 62 af 7. februar 1990, § 18 i lov nr. 400 af 13. juni 1990, § 2 i lov nr. 351 af 6. juni 1991, § 8 i lov nr. 386 af 20. maj 1992, lov nr. 1098 af 22. december 1993 og lov nr. 368 af 18. maj 1994. Den bekendtgjorte lovtekst gælder først fuldt ud fra den 1. januar 1995, jf. § 2, stk. 1, i lov nr. 368 af 18. maj 1994, der gengives i bekendtgørelsens slutning.
