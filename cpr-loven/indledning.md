@@ -1,7 +1,3 @@
-Lov om Det Centrale Personregister
+Bekendtgørelse af lov om Det Centrale Personregister
 
-VI MARGRETHE DEN ANDEN, af Guds Nåde Danmarks Dronning, gør vitterligt: Folketinget har vedtaget og Vi ved Vort samtykke stadfæstet følgende lov:
-
-## Kapitel 1
-
-Lovens formål og administration
+Herved bekendtgøres lov om Det Centrale Personregister, jf. lov nr. 426 af 31. maj 2000, med de ændringer, der følger af § 16 i lov nr. 409 af 6. juni 2002, lov nr. 379 af 28. maj 2003 og lov nr. 68 af 4. februar 2004 .

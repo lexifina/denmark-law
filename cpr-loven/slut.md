@@ -1,14 +1,12 @@
-Givet på Christiansborg Slot, den 31. maj 2000
+Indenrigs- og Sundhedsministeriet, den 3. marts 2004
 
-Under Vor Kongelige Hånd og Segl
+Lars Løkke Rasmussen
 
-Margrethe R.
-
-/Karen Jespersen
+/Søren H. Thomsen
 
 Bilag 1
 
-Dataindholdet i Det Centrale Personregister (CPR), jf. § 4, er følgende:
+## Dataindholdet i Det Centrale Personregister (CPR), jf. § 4, er følgende:
 
 1) Personnummeroplysninger: Personnummer, jf. § 3, henvisning mellem nyt og tidligere personnummer, der opbevares i CPR (historisk), samt ved ændring af personnummer, f.eks. ved fejl i køn og fødselsdato, jf. § 3, stk. 5.
 
@@ -24,7 +22,7 @@ c) Tidligere adresser, herunder også indrejse, udrejse, genfinding og forsvindi
 
 d) Supplerende adresse, dvs. oplysning om udenlandsadresse ved udenlandsophold på 6 måneder eller derunder, jf. § 24, stk. 3, for personer beordret til tjeneste i udlandet af den danske stat og disses husstand, jf. § 24, stk. 5 og 6, eller oplysning om kasernen ved aftjening af værnepligt, jf. § 14, stk. 2.
 
-e) Kontaktadresse, jf. § 26, stk. 3, dvs. en adresse, hvortil offentlige myndigheder og private kan sende vedkommendes post under et registreret udenlandsophold.
+e) Kontaktadresse, jf. § 26, stk. 3 og 4, dvs. en adresse, hvortil offentlige myndigheder og private kan sende vedkommendes post under et registreret udenlandsophold.
 
 f) Flyttepåbud efter lov om planlægning (sommerhuse).
 
@@ -46,13 +44,13 @@ f) Flyttepåbud efter lov om planlægning (sommerhuse).
 
 12) Eventuelle oplysninger om kommunale forhold: Kommunernes eventuelle oplysning om, at vedkommende lever adskilt fra sin ægtefælle, er et plejebarn, pensionsforhold, tidligere opholdskommune, når denne kommune har den generelle betalingsforpligtelse (lov om kommunal udligning og generelle tilskud til kommunerne og amtskommunerne, § 25, stk. 3), medlemskab af valgmenighed, når valgmenigheden og kommunen har aftalt, at kommunen opkræver kirkelige bidrag for valgmenigheden, samt angivelse af fælleshusholdning eller familiekode.
 
-13) Eventuelle oplysninger om kommunale notater: Indenrigsministeriets og kommunernes registrering af visse faktiske oplysninger af klar betydning for varetagelse af opgaverne efter folkeregistreringslovgivningen, f.eks. oplysning om, at personens opholdssted ikke kendes, eller om indsættelse eller anbringelse i en af kriminalforsorgens anstalter m.v., jf. § 15, stk. 3.
+13) Eventuelle oplysninger om kommunale notater: Indenrigs- og Sundhedsministeriets og kommunernes registrering af visse faktiske oplysninger af klar betydning for varetagelse af opgaverne efter folkeregistreringslovgivningen, f.eks. oplysning om, at personens opholdssted ikke kendes, eller om indsættelse eller anbringelse i en af kriminalforsorgens anstalter m.v., jf. § 15, stk. 3.
 
 14) Eventuelle markeringer af abonnement på personoplysninger: De myndigheder og private, som efter henholdsvis §§ 32 og 38 abonnerer på ajourførte oplysninger fra CPR for en større afgrænset kreds af personer, som er identificeret enkeltvis.
 
 15) Eventuelle valgoplysninger: Optagelse på valgliste til folketingsvalg, folkeafstemninger og valg til Europa-Parlamentet for personer, der er udrejst, samt visse særlige valgoplysninger til brug ved valg til Europa-Parlamentet.
 
-Eventuelle værgemålsoplysninger: Oplysning om, at personen er under værgemål med fratagelse af den retlige handleevne, jf. værgemålslovens § 6, samt værgens navn og dennes adresse.
+16) Eventuelle værgemålsoplysninger: Oplysning om, at personen er under værgemål med fratagelse af den retlige handleevne, jf. værgemålslovens § 6, samt værgens navn og dennes adresse.
 
 17) Eventuelt opholdsgrundlag: Oplysninger om opholdsgrundlag efter udlændingeloven eller forskrifter udstedt i medfør heraf. Tidligere registreret opholdsgrundlag bevares i CPR (historisk).
 
