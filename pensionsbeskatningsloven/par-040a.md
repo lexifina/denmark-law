@@ -1,9 +1,29 @@
-§ 40 A. Indtræder der afgiftspligt efter §§ 25-29 eller § 30, stk. 1, og er den afgiftspligtige fuldt skattepligtig til Færøerne på det tidspunkt, hvor afgiftspligten indtræder, skal afgiften fordeles mellem Danmark og Færøerne efter reglerne i stk. 2 eller 3. Er den afgiftspligtige både fuldt skattepligtig til Danmark og Færøerne på tidspunktet for afgiftspligtens indtræden, skal der dog kun ske fordeling efter stk. 2, hvis personen er hjemmehørende i Færøerne efter bestemmelserne i dobbeltbeskatningsoverenskomsten mellem Danmark og Færøerne. Det samme gælder for tillægsafgiften efter § 48 A. Det afgiftsbeløb, der fordeles til Færøerne efter stk. 2 eller stk. 3, tilfalder Færøernes landskasse.
+§ 40 A. (* 2)(* 4)(* 8) Indtræder der afgiftspligt efter §§ 25-29, §
+
+29 A, § 29 B eller § 30, stk. 1, og er den afgiftspligtige fuldt
+
+skattepligtig til Færøerne på det tidspunkt, hvor afgiftspligten
+
+indtræder, skal afgiften fordeles mellem Danmark og Færøerne
+
+efter reglerne i stk. 2 eller 3. Er den afgiftspligtige både
+
+fuldt skattepligtig til Danmark og Færøerne på tidspunktet for
+
+afgiftspligtens indtræden, skal der dog kun ske fordeling efter
+
+stk. 2, hvis personen er hjemmehørende i Færøerne efter
+
+bestemmelserne i dobbeltbeskatningsoverenskomsten mellem Danmark
+
+og Færøerne. Det samme gælder for tillægsafgiften efter § 48 A.
+
+Det afgiftsbeløb, der fordeles til Færøerne efter stk. 2 eller
+
+stk. 3, tilfalder Færøernes landskasse.
 
 Stk. 2. Den samlede afgift fordeles i forhold til den eller de perioder, hvor den afgiftspligtige har været fuldt skattepligtig til henholdsvis Danmark og Færøerne. Har den afgiftspligtige i en periode været fuldt skattepligtig til både Danmark og Færøerne, skal denne periode ved den samlede afgifts fordeling tillægges den del af riget, hvor den afgiftspligtige var hjemmehørende efter bestemmelserne i den mellem Danmark og Færøerne indgåede dobbeltbeskatningsoverenskomst. Har den afgiftspligtige i en periode hverken været fuldt skattepligtig til Danmark eller Færøerne, skal denne periode ved den samlede afgifts fordeling tillægges Danmark.
 
-Stk. 3. Er en pensionsordning, efter at den fulde skattepligt til Danmark er ophørt, valgt henført til beskatning efter § 50, skal den samlede afgift fordeles således, at Færøerne får den del af afgiften, som vedrører perioden fra den fulde skattepligts indtræden på Færøerne og frem til det tidspunkt, hvor ordningen er valgt henført til beskatning efter § 50. Den øvrige del af den samlede afgift tilfalder Danmark.
-
-Stk. 4. Skatteministeren fastsætter regler om adminstrationen af ordningen.
+Stk. 3. Skatteministeren fastsætter regler om adminstrationen af ordningen.
 
 Overførsel
