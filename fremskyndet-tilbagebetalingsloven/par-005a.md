@@ -1,5 +1,3 @@
 § 5 a. Skatteministeren kan fastsætte bestemmelser om adgangen til at klage over afgørelser efter denne lov.
 
-Stk. 2. (* 4) Ministeren kan bestemme, at afgørelser, der er truffet af Told- og Skattestyrelsen, ikke kan indbringes for højere administrativ myndighed.
-
-Stk. 3. (* 4) Ministeren kan på eget initiativ tage en afgørelse, der er truffet af de statslige told- og skattemyndigheder, op til nærmere undersøgelse og afgørelse.
+Stk. 2. Ministeren kan bestemme, at afgørelser, der er truffet af Told- og Skattestyrelsen, ikke kan indbringes for højere administrativ myndighed.
