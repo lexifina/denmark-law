@@ -1,0 +1,7 @@
+§ 7 N. (* 13) Skatteministeren kan tillade, at udbytteandele eller lignende, som en arbejdsgiver udreder til personer, der er ansat i den pågældendes virksomhed, ikke skal medregnes ved opgørelsen af modtagerens skattepligtige indkomst. En sådan tilladelse skal være betinget af, at beløbene udredes i form af obligationer udstedt af arbejdsgiveren. For så vidt de således udredede beløb for en eller flere af arbejdstagerne overstiger 1.800 kr., skal tilladelsen være betinget af, at arbejdsgiveren for den pågældende arbejdstager inden udløbet af en af skatteministeren fastsat frist til statskassen indbetaler en afgift på 45 pct. af det beløb, hvormed ydelsens værdi overstiger 1.800 kr. Afgiftsbeløbet er arbejdstagerens indkomstopgørelse uvedkommende.
+
+Stk. 2. De vilkår, på hvilke de i stk. 1 omhandlede obligationer udstedes, skal godkendes af skatteministeren.
+
+Stk. 3. Af den i stk. 1 omhandlede afgift tilfalder 1/3 den kommune, hvortil den afgiftspligtige svarer kommuneskat efter § 2 i lov om kommunal indkomstskat ved begyndelsen af det kalenderår, hvori udbytteandelen er udredet. Er den afgiftspligtige ikke pligtig at svare kommuneskat som foran omhandlet, tilfalder andelen af afgiften den kommune, hvori ansættelsen til statsskat finder sted.
+
+Stk. 4. Ved eventuel nedsættelse af afgiften eller ved delvis uerholdelighed fordeles reduktionen forholdsmæssigt på de statskassen og kommunen tilfaldende andele af afgiften.
