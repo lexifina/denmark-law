@@ -1,7 +1,5 @@
-Givet på Christiansborg Slot, den 17. maj 2000
+Ministeriet for Fødevarer, Landbrug og Fiskeri, den 29. juni 2004
 
-Under Vor Kongelige Hånd og Segl
+Mariann Fischer Boel
 
-Margrethe R.
-
-/Ritt Bjerregaard
+/Søren Sørensen
