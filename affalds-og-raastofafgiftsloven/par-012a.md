@@ -1,4 +1,4 @@
-§ 12 a. (* 1)(* 4) Miljøministeren kan yde kompensation til virksomheder eller produktioner, hvis råvaretilførsel i væsentligt omfang er baseret på genanvendelse af materialer og produkter. Kompensationen ydes til delvis dækning af de udgifter, virksomhederne eller produktionerne ved affaldsafgiften påføres ved aflevering af affald på registreringspligtigt anlæg til forbrænding eller deponering, jf. § 11.
+§ 12 a. (* 3) Miljøministeren kan yde kompensation til virksomheder eller produktioner, hvis råvaretilførsel i væsentligt omfang er baseret på genanvendelse af materialer og produkter. Kompensationen ydes til delvis dækning af de udgifter, virksomhederne eller produktionerne ved affaldsafgiften påføres ved aflevering af affald på registreringspligtigt anlæg til forbrænding eller deponering, jf. § 11.
 
 Stk. 2. Miljøministeren kan yde kompensation til kommunalbestyrelsen til hel eller delvis dækning af de udgifter, kommunalbestyrelsen påføres ved affaldsafgiften ved aflevering af olie- og kemikalieforurenet sand fra strandrensning på registreringspligtigt anlæg til forbrænding eller deponering, jf. § 11.
 

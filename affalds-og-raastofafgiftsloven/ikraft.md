@@ -2,9 +2,9 @@
 
 Stk. 1. Loven træder i kraft 1. januar 1993.
 
-Stk. 2. (* 1) Tidspunktet for ikrafttrædelsen af § 1, nr. 12, fastsættes dog af miljøministeren.
+Stk. 2. (* 3) Tidspunktet for ikrafttrædelsen af § 1, nr. 12, fastsættes dog af miljøministeren.
 
-Stk. 3. Lovens bestemmelse om kreditafkortning finder anvendelse for afregning af afgiften af råstoffer, der fra denne dato udleveres fra de registreringspligtige virksomheder, og for afregning af afgiften af affald, der fra denne dato modtages hos de registreringspligtige virksomheder.
+Stk. 3. (Udeladt)
 
 § 3
 
