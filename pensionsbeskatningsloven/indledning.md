@@ -1,6 +1,8 @@
 Bekendtgørelse af lov om beskatningen af pensionsordninger m.v.
 
-Herved bekendtgøres lov om beskatningen af pensionsordninger m.v., jfr. lovbekendtgørelse nr. 339 af 16. juli 1980, med de ændringer og tilføjelser, der følger af lov nr. 173 af 8. april 1981 og lov nr. 227 af 26. maj 1982.
+(pensionsbeskatningsloven)
+
+Herved bekendtgøres lov om beskatningen af pensionsordninger m.v., jfr. lovbekendtgørelse nr. 558 af 12. oktober 1982, med de ændringer og tilføjelser, der følger af lov nr. 141 af 13. april 1983.
 
 ## Afsnit I
 

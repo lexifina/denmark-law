@@ -1,7 +1,7 @@
-Ministeriet for skatter og afgifter, den 12. oktober 1982
+Ministeriet for skatter og afgifter, den 10. august 1983
 
 ISI FOIGHEL
 
-/ Jens Drejer
+/ JENS DREJER
 
 Ingen
