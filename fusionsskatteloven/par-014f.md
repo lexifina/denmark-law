@@ -1,0 +1,3 @@
+§ 14 f. (* 5) Ved omdannelse til aktieselskab af selskaber, brugsforeninger og foreninger omfattet af selskabsskattelovens § 1, stk. 1, nr. 2, 3 a og 4, i henhold til § 135 i aktieselskabsloven finder bestemmelserne i kapitel 1 bortset fra § 6 tilsvarende anvendelse. § 13 finder ligeledes tilsvarende anvendelse.
+
+Stk. 2. Underskud fra tidligere indkomstår kan uanset § 8, stk. 6, bringes til fradrag i det modtagende selskabs indkomstopgørelse efter ligningslovens § 15, hvis foreningens aktiver og gæld som helhed overdrages til et af foreningen ejet eller oprettet aktieselskab, hvori foreningen ejer hele aktiekapitalen. Det er en betingelse, at aktieselskabet ikke tidligere har drevet erhvervsmæssig virksomhed.

@@ -1,1 +1,7 @@
-§ 35 J. (* 5) For gensidige forsikringsforeninger, der overgår til beskatning efter § 1, stk. 1, nr. 5, finder reglerne i § 5 C, stk. 2, og fondsbeskatningslovens §§ 16-19 og § 21 A tilsvarende anvendelse.
+§ 35 J. (* 3) For gensidige forsikringsforeninger, der overgår til beskatning efter § 1, stk. 1, nr. 5, finder § 5 C, stk. 2, anvendelse med hensyn til aktiver og passiver, der både før og efter overgangen er omfattet af beskatningen. Fondsbeskatningslovens §§ 16-19 finder anvendelse på andre aktiver og passiver.
+
+Stk. 2. Stk. 1 finder tilsvarende anvendelse for foreninger, der fra og med indkomståret 1994 henholdsvis indkomståret 1995 overgår til beskatning efter § 1, stk. 1, nr. 4, fra beskatning efter § 1, stk. 1, nr. 6.
+
+Stk. 3. For foreninger, der fra og med indkomståret 1994 henholdsvis indkomståret 1995 overgår til beskatning efter § 1, stk. 1, nr. 4, fra beskatning efter § 1, stk. 1, nr. 3 a eller 4, jf. lovbekendtgørelse nr. 752 af 15. september 1993, finder fondsbeskatningslovens §§ 16-19 tilsvarende anvendelse. § 5 B, stk. 3-5, finder ligeledes tilsvarende anvendelse.
+
+Stk. 4. For andelskasser, der fra og med indkomståret 1995 overgår til beskatning efter § 1, stk. 1, nr. 2 a, fra beskatning efter § 1, stk. 1, nr. 6, finder stk. 1 tilsvarende anvendelse.
