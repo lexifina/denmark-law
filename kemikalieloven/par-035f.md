@@ -1,0 +1,1 @@
+§ 35 f. Ministeren kan i særlige tilfælde godkende, jf. § 33, at bekæmpelsesmidler, der indeholder aktivstoffer, der er omfattet af bilag 2, kan sælges og anvendes i Danmark under nærmere fastsatte vilkår. (* 2)
