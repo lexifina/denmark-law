@@ -1,6 +1,6 @@
-Bekendtgørelse afLov om beskatningen af pensionsordninger m.v.
+Bekendtgørelse af lov om beskatningen af pensionsordninger m.v.
 
-Herved bekendtgøres lov om beskatningen af pensionsordninger m.v., jfr. lovbekendtgørelse nr. 358 af 2. juli 1984, med de ændringer og tilføjelser, der følger af lov nr. 527 af 11. december 1985, lov nr. 148 af 19. marts 1986 og lov nr. 344 af 4. juni 1986.
+Herved bekendtgøres lov om beskatningen af pensionsordninger m.v., jf. lovbekendtgørelse nr. 436 af 25. juni 1986, med de ændringer og tilføjelser, der følger af lov nr. 312 af 25. maj 1987.
 
 ## Afsnit I
 

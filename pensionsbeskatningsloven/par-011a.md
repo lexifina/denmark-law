@@ -6,7 +6,7 @@
 
 3. De opsparede midler skal indsættes på indlånskonto i det pågældende pengeinstitut m.v. Med hensyn til midlernes anbringelse finder reglerne i § 12, stk. 1, nr. 1, 3.-5. pkt., tilsvarende anvendelse.
 
-4. Til kontoen skal være knyttet bestemmelse om, at opsparingen med påløbne renter m.v. tilhører kontohaveren, jfr. dog § 17. Endvidere skal der være truffet bestemmelse om udbetaling i tilfælde af kontohaverens død.
+4. Til kontoen skal være knyttet bestemmelse om, at opsparingen med påløbne renter m.v. tilhører kontohaveren, jf. dog § 17. Endvidere skal der være truffet bestemmelse om udbetaling i tilfælde af kontohaverens død.
 
 5. Der kan ikke aftales senere udbetaling for sidste rate end det kalenderår, hvori kontohaveren fylder 80 år. Rateudbetalingen kan tidligst påbegyndes ved kontohaverens fyldte 60. år, medmindre lavere aldersgrænse er godkendt af ligningsrådet. Det kan dog tillige aftales, at udbetalingerne påbegyndes i tilfælde af kontohaverens død før det fyldte 60. år eller invaliditet, som efter reglerne i lov om social pension berettiger kontohaveren til at oppebære højeste eller mellemste førtidspension.
 
