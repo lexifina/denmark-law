@@ -1,4 +1,4 @@
-§ 3 i lov nr. 935 af 27. december 1991 er sålydenden:
+§ 3 i lov nr. 935 af 27. december 1991 er sålydende:
 
 § 3
 
@@ -52,7 +52,7 @@ Stk. 4. § 83 i lov om individuel boligstøtte, jf. lovbekendtgørelse nr. 87 af
 
 Stk. 5. Nedsættelse af indkomsten efter § 8, stk. 4, 2. pkt., i lov om individuel boligstøtte med 24.500 kr., jf. lovens § 72, foretages ligeledes for personer, der den 26. april 1990 var ugifte eller separerede og havde ret til pension eller var fyldt 67 år, medmindre et nyt samlivsforhold er indledt på det nævnte tidspunkt eller senere.
 
-§ 2 i lov nr. 1068 af 22. december 1993 er sålydende:
+§ 2 i lov nr.1068 af 22. december 1993 er sålydende:
 
 § 2
 
@@ -135,3 +135,37 @@ Loven (* 20) træder i kraft den 1. januar 1996.
 § 2
 
 Loven (* 21) træder i kraft den 1. januar 1996.
+
+§ 18 i lov nr. 1048 af 11. december 1996 er sålydende:
+
+§ 18
+
+Loven (* 22) træder i kraft den 1. januar 1997.
+
+§ 4, stk. 1-3, i lov nr. 380 af 10. juni 1997 er sålydende:
+
+§ 4
+
+Stk. 1. Loven (* 23) træder i kraft den 1. januar 1998.
+
+Stk. 2. For kollektive bofællesskaber, hvor boligen er taget i brug til kollektivt bofællesskab før den 1. januar 1998, er det uanset § 24 b, stk. 1, i lov om individuel boligstøtte som affattes ved denne lovs § 3, nr. 2, alene en betingelse for udbetaling af boligstøtte efter § 24 a, stk. 1, i lov om individuel boligstøtte, jf. lovbekendtgørelse nr. 96 af 22. februar 1996 med senere ændringer, at det kollektive bofællesskab består af mindst 3 personer, der alle opfylder betingelserne i § 24 a, stk. 1, nr. 1, eller alle opfylder betingelserne i § 24 a, stk. 1, nr. 3.
+
+Stk. 3. Boligstøtte kan uanset stk. 1 ydes i indtil 3 måneder, såfremt antallet af beboere, der opfylder betingelserne i § 24 a, stk. 1, nr. 1 eller 3, i lov om individuel boligstøtte, jf. lovbekendtgørelse nr. 96 af 22. februar 1996 med senere ændringer, midlertidigt er mindre end 3 som følge af en eller flere beboeres fraflytning eller død.
+
+§ 10, stk. 1, i lov nr. 382 af 10. juni 1997 er sålydende:
+
+§ 10
+
+Stk. 1. Loven (* 24) træder i kraft den 1. januar 1998.
+
+§ 9 i lov nr. 970 af 17. december 1997 er sålydende:
+
+§ 9
+
+Loven (* 25) træder i kraft den 1. januar 1998. § 1, nr. 11, 13-16, 18-21, 23-29 og 59, § 3, nr. 10, samt § 5, nr. 2 (* 26), træder dog først i kraft den 1. juli 1998.
+
+§ 42, stk. 1, i lov nr. 980 af 17. december 1997 er sålydende:
+
+§ 42
+
+Stk. 1. Loven (* 27) træder i kraft den 1. juli 1998, jf. dog stk. 2, 3 og 4.

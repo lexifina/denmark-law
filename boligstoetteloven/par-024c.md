@@ -2,7 +2,7 @@
 
 1) Til personer omfattet af § 24 a i kollektive bofællesskaber, hvor samtlige beboere er lejere, den enkelte beboers faktiske andel af den samlede boligudgift for boligen opgjort efter §§ 10 og 11.
 
-2) Til personer omfattet af § 24 a, stk. 1, nr. 3 og 4, i kollektive bofællesskaber, hvor en eller flere beboere er andelshavere i en privat andelsboligforening, den enkelte boboers faktiske andel af den samlede boligudgift for boligen opgjort efter § 16, jf. §§ 10 og 11.
+2) Til personer omfattet af § 24 a, stk. 1, nr. 3 og 4 eller 5, i kollektive bofællesskaber, hvor en eller flere beboere er andelshavere i en privat andelsboligforening, den enkelte boboers faktiske andel af den samlede boligudgift for boligen opgjort efter § 16, jf. §§ 10 og 11.
 
 3) Til personer omfattet af § 24 a, stk. 1, nr. 3 og 4, i kollektive bofællesskaber, hvor en eller flere beboere er ejere, den enkelte beboers faktiske andel af den samlede boligudgift for boligen opgjort efter § 17.
 
