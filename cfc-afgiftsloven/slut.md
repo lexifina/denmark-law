@@ -1,7 +1,7 @@
-Skatteministeriet, den 30. juni 1994
+Skatteministeriet, den 3. august 1998
 
 Ole Stavad
 
-/ Jan Lyager Olsen
+/John Fuhrmann
 
-(* 1) Lov nr. 376 af 18. maj 1994 (hovedsagelig ændringer som følge af ny momslov og toldlov) trådte i kraft den 20. maj 1994 og har virkning fra den 1. juli 1994.
+Lov nr. 1223 af 27. december 1996 om ændring af forskellige skatte- og afgiftslove og konkursloven (ændringer som følge af dødsboskifteloven og dødsboskatteloven m.v.) trådte i kraft den 1. januar 1997.
