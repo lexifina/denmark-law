@@ -1,9 +1,7 @@
-Givet på Christiansborg Slot, den 8. maj 1991
+Landbrugs- og Fiskeriministeriet, den 15. maj 1996
 
-Under Vor Kongelige Hånd og Segl
+Henrik Dam Kristensen
 
-MARGRETHE R.
+/ Torben Milthers
 
-/ Laurits Tørnæs
-
-Ingen
+(* 1) Der vedrører §§ 1-3 samt § 6.
