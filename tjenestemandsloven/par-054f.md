@@ -1,1 +1,3 @@
-§ 54 f. Formanden eller dennes stedfortræder afgør ved kendelse de tvistigheder, som under vidneførslen eller syns- og skønsoptagelse opstår for retten.
+§ 54 f. For domsforhandlingen gælder med de fornødne tilpasninger retsplejelovens regler om domsforhandling af borgerlige sager i 1. instans.
+
+Stk. 2. Domsforhandlingen foregår for åbne døre, medmindre retsformanden undtagelsesvis af hensyn til ro og orden i retslokalet beslutter, at dørene skal lukkes.

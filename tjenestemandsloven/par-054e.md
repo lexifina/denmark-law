@@ -1,1 +1,7 @@
-§ 54 e. I retten til at lade møde ved rettergangsfuldmægtig for Tjenestemandsretten gælder ingen indskrænkninger for parterne. I hvilket omfang en part er berettiget til at deltage i forhandlingerne for retten ved hjælp af flere fuldmægtige, afgør retten, ligesom retten træffer afgørelse om, hvem der foruden parterne og rettergangsfuldmægtigene bør have adgang til retsmøderne.
+§ 54 e. Forberedelsen af sagen til eventuel domsforhandling finder sted i et eller flere forberedende retsmøder.
+
+Stk. 2. Under forberedende retsmøder beklædes retten af formanden eller dennes stedfortræder.
+
+Stk. 3. Med parternes samtykke kan retten afgøre sagen på et forberedende retsmøde. Afgørelsen kan med parternes indforståelse træffes ved beslutning.
+
+Stk. 4. De forberedende retsmøder afholdes for lukkede døre. Med parternes tiltræden kan retsformanden dog tillade andre end partsrepræsentanterne at overvære retsmøderne.
