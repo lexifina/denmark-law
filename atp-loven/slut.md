@@ -1,6 +1,6 @@
-Arbejdsministeriet, den 6. august 1992
+Arbejdsministeriet, den 4. marts 1993
 
-Knud Erik Kirkegaard
+Jytte Andersen
 
 / E. Edelberg
 
