@@ -1,5 +1,5 @@
-Skatteministeriet, den 20. december 2002
+Skatteministeriet, den 5. juli 2004
 
 Svend Erik Hovmand
 
-/Ragnhild Hjort Hargaard
+/Ulla Trolle
