@@ -176,10 +176,22 @@ Stk. 1. Loven træder i kraft den 1. juli 1998, jf. dog stk. 2, 3 og 4.
 
 Stk. 1. Loventræder i kraft den 1. januar 1999, jf. dog stk. 2-4.
 
-§ 2, stk. 1 og 2, i lov nr. 1002 af 23. december 1998 er sålydende:
+§ 2 i lov nr. 1002 af 23. december 1998 er sålydende:
 
 § 2
 
-Stk. 1. Loven træder i kraft den 1. januar 2000 , jf. dog stk. 2 og 5.
+Stk. 1. Loven træder i kraft den 1. januar 2000, jf. dog stk. 2 og 5.
 
-Stk. 2. § 1, nr. 6, 70 og 71 træder i kraft den 1. marts 1999, § 1, nr. 44, træder i kraft den 1. marts 2000, og § 1, nr. 2, træder i kraft den 1. januar 2001.
+Stk. 2. § 1, nr. 6, 70 og 71 , træder i kraft den 1. marts 1999, § 1, nr. 44 , træder i kraft den 1. marts 2000, og § 1, nr. 2, træder i kraft den 1. januar 2001 .
+
+Stk. 3. § 1, nr. 35 , finder anvendelse vedrørende ansøgninger om udbetaling af boligsikring og boligydelse efter udgangen af 1999.
+
+Stk. 4. I boligudgiften for ejere efter § 17 i lov om individuel boligstøtte som ændret ved denne lovs § 1, nr. 24-27, medregnes i 2000 tillige skat for 1999 af et beløb opgjort som lejeværdien af boligen i 1999 med fradrag af et eventuelt standardfradrag efter ligningslovens § 15 J.
+
+Stk. 5. § 41, stk. 2, i lov om individuel boligstøtte som affattet ved denne lovs § 1, nr. 53, finder anvendelse for ansøgninger om udbetaling af boligstøtte fra 1. januar 2000. Dog finder § 41, stk. 2, 3. og 4. pkt., anvendelse for tidligere indgivne ansøgninger for personer, der bliver husstandsmedlemmer efter udgangen af 1999, og for børn, der fylder 23 år efter udgangen af 1999.
+
+§ 5, stk. 1, i lov nr. 394 af 2. juni 1999 er sålydende:
+
+§ 5
+
+Stk. 1. Loven træder i kraft den 1. juli 1999.
