@@ -1,7 +1,3 @@
-Bekendtgørelse af Lov om hunde.
+Bekendtgørelse af lov om hunde
 
-Herved bekendgøres lov om hunde, jfr. lovbekendtgørelse nr. 232 af 23.juni 1962, med de ændringer, der følger af lov nr. 422 af 19. december 1966 og lov nr. 205 af 21.maj 1969.
-
-§1. Besidderen af en hund skal sørge for, at hunden , fra den er 4 måneder gammel, bærer halsbånd forsynet med et skilt, der angiver besidderens navn og adresse.
-
-Stk. 2. Justitsministeren kan fastsætte nærmere bestemmelser om udformningen af det i stk. 1 nævnte skilt.
+Herved bekendtgøres lov om hunde, jf. lovbekendtgørelse nr. 380 af 26. juni 1969, med de ændringer, der følger af lov nr. 335 af 14. maj 1992, lov nr. 1064 af 23. december 1992 og lov nr. 385 af 28. maj 2003.

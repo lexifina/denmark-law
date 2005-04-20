@@ -1,7 +1,5 @@
-Justitsministeriet, den 26.juni 1969.
+Justitsministeriet, den 12. april 2005
 
-Knud Thestrup.
+Lene Espersen
 
-/Gersing.
-
-(* 1) D.v.s. reglen i § 8, stk. 2, 2. pkt., i denne lovbekendtgørelse.
+/Anne Tønnes
