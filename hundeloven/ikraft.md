@@ -1,7 +1,19 @@
-§ 2 i lov nr. 205 af 21. maj 1969 om ændring af lov om hunde indeholder følgende bestemmelser:
+Lov nr. 335 af 14. maj 1992 indeholder følgende ikrafttrædelsesbestemmelse:
 
-,,§ 2
+§ 2
 
-Stk. 1. Loven træder i kraft den 1. januar 1970.
+Stk. 1. Loven træder i kraft den 1. januar 1993.
 
-Stk. 2. For skader, der er forvoldt efter den 1. juli 1969, anvendes den regel, der er anført i § 1, nr. 6 (* 1), dog ved siden af de øvrige regler i § 15 i lov om hunde. For sådanne skader anvendes endvidere de regler, der ved § 1, nr. 7, indsættes som §§ 9-11, i stedet for reglerne i § 16, stk. 3-7, i lov om hunde.'
+Stk. 2. Reglerne om registrering omfatter kun hunde, der er født efter lovens ikrafttræden.
+
+Lov nr. 1064 af 23. december 1992 indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 2
+
+Loven træder i kraft den 1. januar 1993. Reglerne om mærkning og registrering omfatter kun hunde, der er født efter lovens ikrafttræden.
+
+Lov nr. 385 af 28. maj 2003 indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 2
+
+Loven træder i kraft den 1. juli 2003.
