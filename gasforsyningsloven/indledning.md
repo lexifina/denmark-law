@@ -1,3 +1,3 @@
 Bekendtgørelse af lov om naturgasforsyning
 
-Herved bekendtgøres lov nr. 449 af 31. maj 2000 om naturgasforsyning med de ændringer, der følger af lov nr. 481 af 7. juni 2001 og § 2 i lov nr. 316 af 22. maj 2002.
+Herved bekendtgøres lov om naturgasforsyning, jf. lovbekendtgørelse nr. 130 af 27. februar 2003, med de ændringer, der følger af § 2 i lov nr. 494 af 9. juni 2004 og § 31 i lov nr. 1384 af 20. december 2004.
