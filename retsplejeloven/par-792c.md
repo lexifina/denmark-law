@@ -1,4 +1,4 @@
-§ 792 c. Afgørelse om legemsbesigtigelse af en sigtet og legemsundersøgelse af en sigtet i form af nærmere undersøgelse af legemets ydre, sikring af prøver herfra og udtagelse af blodprøver træffes af politiet.
+§ 792 c. Afgørelse om legemsbesigtigelse af en sigtet og legemsundersøgelse af en sigtet i form af nærmere undersøgelse af legemets ydre, sikring af prøver herfra og udtagelse af spyt- eller blodprøver træffes af politiet.
 
 Stk. 2. Afgørelse om andre legemsundersøgelser af en sigtet træffes af retten ved kendelse, jf. dog stk. 5. I kendelsen anføres de konkrete omstændigheder i sagen, hvorpå det støttes, at betingelserne for indgrebet er opfyldt. Kendelsen kan til enhver tid omgøres.
 
