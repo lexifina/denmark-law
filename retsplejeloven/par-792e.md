@@ -2,4 +2,4 @@
 
 Stk. 2. Legemsindgreb skal foretages så skånsomt, som omstændighederne tillader. Det skal herved bl.a. så vidt muligt iagttages, at et indgreb, der ellers kan føles krænkende for blufærdigheden, kun foretages af personer af samme køn som den undersøgte eller af sundhedspersonale. Kræver et sådant indgreb afklædning, må det så vidt muligt kun overværes af personer af samme køn som den undersøgte eller af sundhedspersonale.
 
-Stk. 3. Legemsundersøgelse, jf. § 792, stk. 1, nr. 2, må kun foretages under medvirken af en læge. Lægen tager stilling til, om indgrebets gennemførelse under hensyn til den hermed forbundne smerte og risiko samt den undersøgte persons tilstand er lægeligt forsvarlig.
+Stk. 3. Legemsundersøgelse, jf. § 792, stk. 1, nr. 2, må kun foretages under medvirken af en læge. Lægen tager stilling til, om indgrebets gennemførelse under hensyn til den hermed forbundne smerte og risiko samt den undersøgte persons tilstand er lægeligt forsvarlig. Spytprøve i medfør af § 792 b, stk. 1, kan udtages uden medvirken af en læge.
