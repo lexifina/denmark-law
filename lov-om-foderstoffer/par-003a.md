@@ -1,0 +1,3 @@
+§ 3 a. Ministeren for fødevarer, landbrug og fiskeri kan bestemme, at prøver udtaget med henblik på bestemte undersøgelser kan undersøges med andet formål, uanset om det er en myndighed under Ministeriet for Fødevarer, Landbrug og Fiskeri eller under Ministeriet for Familie- og Forbrugeranliggender, der har udtaget prøverne.
+
+Stk. 2. Ministeren kan endvidere bestemme, at analyseresultater opnået i forbindelse med bestemte undersøgelser kan anvendes til andre formål, uanset om det er en myndighed under Ministeriet for Fødevarer, Landbrug og Fiskeri eller under Ministeriet for Familie- og Forbrugeranliggender, der i henhold til bemyndigelse har rekvireret analyserne.
