@@ -1,4 +1,4 @@
-§ 11 C. Skønnes en overtrædelse ikke at ville medføre højere straf end bøde, kan skatteministeren tilkendegive den pågældende, at sagen kan afgøres uden retslig forfølgning, såfremt denne erkender sig skyldig i overtrædelsen og erklærer sig rede til inden for en nærmere angiven frist, der efter begæring kan forlænges, at betale en i tilkendegivelsen angivet bøde.
+§ 11 C. Skønnes en overtrædelse ikke at ville medføre højere straf end bøde, kan told- og skatteforvaltningen tilkendegive den pågældende, at sagen kan afgøres uden retslig forfølgning, såfremt denne erkender sig skyldig i overtrædelsen og erklærer sig rede til inden for en nærmere angiven frist, der efter begæring kan forlænges, at betale en i tilkendegivelsen angivet bøde.
 
 Stk. 2. Med hensyn til den i stk. 1 nævnte tilkendegivelse finder bestemmelsen om tiltalerejsning i retsplejelovens § 930, jf. § 926, tilsvarende anvendelse.
 

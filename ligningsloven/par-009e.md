@@ -2,6 +2,6 @@
 
 Stk. 2. Som eksportmedarbejdere anses efter denne bestemmelse lønmodtagere, der for en dansk arbejdsgiver udfører arbejde i udlandet med sigte på at opnå salg til udlandet af arbejdsgiverens varer og tjenesteydelser eller at opfylde sådanne aftaler. Bestemmelsen omfatter ikke medarbejdere, der forestår transport af varer m.v. eller er medlem af et selskabs direktion eller bestyrelse bortset fra medarbejdervalgte repræsentanter.
 
-Stk. 3. Fradraget opgøres på grundlag af lønindkomsten for udlandsarbejdet efter de af Ligningsrådet fastsatte anvisninger for fradrag for merudgifter ved lønarbejde i udlandet.
+Stk. 3. Fradraget opgøres på grundlag af lønindkomsten for udlandsarbejdet efter de af Skatterådet fastsatte anvisninger for fradrag for merudgifter ved lønarbejde i udlandet.
 
 Stk. 4. Den skattepligtige skal vedlægge selvangivelsen en erklæring fra arbejdsgiveren om karakteren af udlandsarbejdet, opholdenes varighed og om lønindkomsten under udlandsopholdene.

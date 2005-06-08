@@ -1,0 +1,1 @@
+§ 8 b. Miljø- og fødevareministeren kan fastsætte regler om tilsyn med, at regler udstedt i medfør af § 7, stk. 2, overholdes hos de virksomheder, der håndterer motorkøretøjer, der er afleveret til affaldsbehandling.

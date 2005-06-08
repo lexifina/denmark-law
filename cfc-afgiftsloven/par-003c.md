@@ -7,7 +7,3 @@ Stk. 3. Dækningsafgiften beregnes efter mængden af de afgiftspligtige stoffer,
 Stk. 4. Afgiften afregnes efter reglerne i toldlovens kapitel 4, jf. dog stk. 5.
 
 Stk. 5. For dækningsafgiftspligtige varer, der indføres af en virksomhed registreret efter § 29 i toldloven, finder reglerne i § 3 d tilsvarende anvendelse.
-
-## Kapitel 3
-
-Fælles bestemmelser

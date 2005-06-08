@@ -1,3 +1,1 @@
-§ 14 a. (Ophævet)
-
-VIII. Kontrolbestemmelser
+§ 14 a. (Ophævet).

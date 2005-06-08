@@ -1,1 +1,1 @@
-§ 19 c. Bestemmelserne i § 12, stk. 4, og §§ 14-18 a finder tilsvarende anvendelse på de efter § 19 b registrerede virksomheder.
+§ 19 c. Bestemmelserne i §§ 12-15 og 17 finder tilsvarende anvendelse på de efter § 19 b registrerede virksomheder.
