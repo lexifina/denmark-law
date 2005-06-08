@@ -2,6 +2,6 @@
 
 Stk. 2. Den skattepligtige kan i de tilfælde, der er nævnt i stk. 1, uden afgiftsmæssige konsekvenser vælge at ophæve ordningen. I så fald medregnes de foretagne fradrag fuldt ud og med procenttillæg som nævnt i stk. 1 i den skattepligtige indkomst for fradragsårene. Er ordningen en udloddet del efter § 30, stk. 3, kan den del af ordningen, der oprindelig blev udloddet, dog ikke ophæves uden afgiftsmæssige konsekvenser.
 
-Stk. 3. Bliver en pensionsordning med løbende udbetalinger eller en rateforsikring eller rateopsparing i pensionsøjemed ophævet efter stk. 2, skal vedkommende forsikringsselskab, pensionskasse, pengeinstitut m.v. på ophævelsestidspunktet tilbageholde 60 pct. af det beløb, der i henhold til stk. 2 kan udbetales. Det tilbageholdte beløb indbetales til Told- og Skattestyrelsen inden 3 måneder efter, at ordningen er ophævet. Den skattepligtige skal underrettes om indbetalingen.
+Stk. 3. Bliver en pensionsordning med løbende udbetalinger eller en rateforsikring eller rateopsparing i pensionsøjemed ophævet efter stk. 2, skal vedkommende forsikringsselskab, pensionskasse, pengeinstitut m.v. på ophævelsestidspunktet tilbageholde 60 pct. af det beløb, der i henhold til stk. 2 kan udbetales. Det tilbageholdte beløb indbetales til told- og skatteforvaltningen inden 3 hverdage (bankdage) efter, at ordningen er udbetalt. Den skattepligtige skal underrettes om indbetalingen.
 
 Stk. 4. Skatteministeren fastsætter de nærmere regler om adgangen til at ophæve ordningen efter stk. 2 og om administrationen efter stk. 3.
