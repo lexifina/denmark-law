@@ -1,0 +1,5 @@
+§ 66 B. 21) Reglerne i lov om opkrævning af skatter og afgifter m.v. om opkrævning af indeholdt A-skat finder tilsvarende anvendelse ved opkrævning af indeholdt renteskat med de undtagelser, der følger af bestemmelser i denne lov. Renteskat forfalder til betaling ved udbetalingen eller godskrivningen af renter og skal indbetales til told- og skatteforvaltningen senest i den følgende måned samtidig med udløbet af den indeholdelsespligtiges angivelsesfrist for indeholdt A-skat og arbejdsmarkedsbidrag. Den, der foretager udbetalingen eller godskrivningen, skal samtidig med renteskattens indbetaling give oplysning herom i en af skatteministeren foreskreven form. Indsendelse af de nævnte oplysninger kan fremtvinges ved pålæg af daglige bøder, der fastsættes af skatteministeren.
+
+Stk. 2. §§ 69 og 70 finder tilsvarende anvendelse.
+
+Stk. 3. Enhver, der hæver eller får godskrevet renter, kan, når den pågældende på fyldestgørende måde godtgør sin identitet, forlange, at den, der foretager udbetalingen eller godskrivningen, samtidig i en af skatteministeren foreskreven form attesterer den stedfundne udbetaling eller godskrivning.
