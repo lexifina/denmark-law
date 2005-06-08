@@ -4,10 +4,10 @@ Stk. 2. Passivposterne efter stk. 1 beregnes på grundlag af den lavest mulige s
 
 Stk. 3. Passivposten udgør 30 pct. af den efter stk. 2 beregnede fortjeneste, der ikke ville være aktieindkomst. Passivposten af den efter stk. 2 beregnede fortjeneste, der ville være aktieindkomst, udgør 20 pct., hvis fortjenesten vedrører unoterede aktier, og 12,5 pct., hvis fortjenesten vedrører børsnoterede aktier.
 
-Stk. 4. I det omfang konto for opsparet overskud overtages efter § 33 C, stk. 5, beregnes der af indestående med tillæg af den hertil svarende virksomhedsskat en passivpost. Der beregnes dog ikke passivpost for overskud opsparet i indkomstårene 1987-90. Passivposten udgør 9 pct. for overskud opsparet i indkomståret 1991, 12 pct. for overskud opsparet i indkomstårene 1992-98, 13,5 pct. for overskud opsparet i indkomstårene 1999-2000 og 15 pct. for overskud opsparet i indkomståret 2001 og senere indkomstår.
+Stk. 4. I det omfang konto for opsparet overskud overtages efter § 33 C, stk. 5, beregnes der af indestående med tillæg af den hertil svarende virksomhedsskat en passivpost. Der beregnes dog ikke passivpost for overskud opsparet i indkomstårene 1987-90. Passivposten udgør 9 pct. for overskud opsparet i indkomståret 1991, 12 pct. for overskud opsparet i indkomstårene 1992-1998, 13,5 pct. for overskud i indkomstårene 1999-2000, 15 pct. for overskud opsparet i indkomstårene 2001-2004 og 16,5 pct. for overskud opsparet i indkomståret 2005 og senere indkomstår.
 
-Stk. 5. I det omfang konjunkturudligningskonto overtages efter § 33 C, stk. 6, beregnes der af indestående med tillæg af den hertil svarende konjunkturudligningsskat en passivpost på 12 pct. for indkomstårene 1993-98, 13,5 pct. for indkomstårene 1999-2000 og 15 pct. for indkomståret 2001 og senere indkomstår.
+Stk. 5. 20) I det omfang konjunkturudligningskonto overtages efter § 33 C, stk. 6, beregnes der af indeståendet med tillæg af den hertil svarende konjunkturudligningsskat en passivpost på 12 pct. for indkomstårene 1993-1998, en passivpost på 13,5 pct. for indkomstårene 1999-2000, en passivpost på 15 pct. for indkomstårene 2001-2004 og en passivpost på 16,5 pct. for indkomståret 2005 og senere indkomstår.
 
 Stk. 6. Skatteministeren fastsætter regler om tilvejebringelsen af oplysninger til brug for beregningen af passivposterne.
 
-Stk. 7. Skattemyndighedens beregning af passivposter efter stk. 2-5 er bindende for både giver og modtager af en gave, medmindre den påklages efter reglerne i skattestyrelsesloven.
+Stk. 7. 21) Told- og skatteforvaltningens beregning af passivposter efter stk. 2-5 er bindende for både giver og modtager af en gave, medmindre den påklages efter reglerne i skatteforvaltningensloven.
