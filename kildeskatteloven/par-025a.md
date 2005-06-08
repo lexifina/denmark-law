@@ -14,4 +14,4 @@ Stk. 7. En lønaftale mellem ægtefæller, der begge deltager i driften af den e
 
 Stk. 8. Deltager begge ægtefæller i væsentligt og ligeligt omfang i driften af den enes eller begges erhvervsvirksomhed, og hæfter ægtefællerne i samme omfang for virksomhedens forpligtelser, kan ægtefællerne efter anmodning fordele virksomhedens resultat mellem sig, i det omfang fordelingen sagligt kan begrundes i virksomhedens drift. Ved opgørelsen af skattepligtig indkomst, personlig indkomst og kapitalindkomst fordeles virksomhedens aktiver og passiver mellem ægtefællerne efter samme forhold, som virksomhedens resultat fordeles mellem ægtefællerne.
 
-Stk. 9. Ægtefæller kan omgøre deres beslutning om at anvende reglerne i stk. 3 og 8, hvis tilkendegivelse herom sker fra begge ægtefæller til den kommunale skattemyndighed inden udløbet af den i skattestyrelseslovens § 3, stk. 1, nævnte frist.
+Stk. 9. 21) Ægtefæller kan omgøre deres beslutning om at anvende reglerne i stk. 3 og 8, hvis tilkendegivelse herom sker fra begge ægtefæller til told- og skatteforvaltningen senest den 30. juni i det andet kalenderår efter indkomstårets udløb.

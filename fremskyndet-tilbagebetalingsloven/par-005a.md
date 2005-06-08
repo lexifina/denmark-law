@@ -1,1 +1,1 @@
-§ 5 a. Skatteministeren kan bemyndige de statslige told- og skattemyndigheder til at træffe afgørelser efter denne lov. Ministeren kan i den forbindelse fastsætte regler om adgangen til at klage over afgørelserne, herunder om at afgørelserne ikke kan indbringes for højere administrativ myndighed.
+§ 5 a. (Ophævet)

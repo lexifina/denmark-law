@@ -6,4 +6,4 @@
 
 3) Kreditor i henhold til gældsinstrumentet skal have en årlig rente. Vilkårene for rentens størrelse og variation skal være fastlagt ved udstedelsen af gældsinstrumentet, og vilkårene kan efterfølgende alene ændres som følge af forhold, hvorpå såvel debitor som kreditor i henhold til gældsinstrumentet er uden indflydelse.
 
-Stk. 2 . Ved opgørelsen af den skattepligtige indkomst behandles renteindtægter af pengefordringer, der ikke forfalder til et forud aftalt tidspunkt, som renteindtægter af andre pengefordringer, såfremt betingelserne i stk. 1, nr. 1-3, er opfyldt.
+Stk. 2. Ved opgørelsen af den skattepligtige indkomst behandles renteindtægter af pengefordringer, der ikke forfalder til et forud aftalt tidspunkt, som renteindtægter af andre pengefordringer, såfremt betingelserne i stk. 1, nr. 1-3, er opfyldt.

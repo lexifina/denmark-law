@@ -1,1 +1,1 @@
-§ 29 a.1) (Ophævet)
+§ 29 a. (Ophævet)
