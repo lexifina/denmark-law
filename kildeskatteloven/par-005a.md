@@ -6,8 +6,8 @@
 
 Stk. 2. Arbejdsløshedsdagpenge, strejke- og lockoutgodtgørelser samt dagpenge ved sygdom og fødsel medregnes som vederlag for personligt arbejde.
 
-Stk. 3. Pensionsudbetalinger, ventepenge og lign. som nævnt i kildeskattelovens § 2, stk. 1, litra b, jf. § 43, stk. 2, litra b, c, f og g, medregnes som vederlag for personligt arbejde eller fra selvstændig erhvervsvirksomhed. Hvis indkomst omfattet af 1. pkt. nedsættes i henhold til en lov om indgåelse af en dobbeltbeskatningsoverenskomst eller en lov om indgåelse af en protokol om ændring af en dobbeltbeskatningsoverenskomst, gives fradrag efter dette afsnit, i det omfang de samlede fradragsberettigede udgifter overstiger nedsættelsesbeløbet.
+Stk. 3. 19) Pensionsudbetalinger, efterløn, overgangsydelse, ventepenge og lign. som nævnt i § 2, stk. 1, nr. 9-11 og 13, medregnes som vederlag for personligt arbejde eller fra selvstændig erhvervsvirksomhed. Hvis indkomst omfattet af 1. pkt. nedsættes i henhold til en lov om indgåelse af en dobbeltbeskatningsoverenskomst eller en lov om indgåelse af en protokol om ændring af en dobbeltbeskatningsoverenskomst, gives fradrag efter dette afsnit, i det omfang de samlede fradragsberettigede udgifter overstiger nedsættelsesbeløbet.
 
 Stk. 4. Er indkomståret kortere end 12 måneder, anvendes i stedet kalenderåret ved bedømmelsen af, om en person er omfattet af stk. 1.
 
-Stk. 5. Stk. 1-4 finder ikke anvendelse på personer der ansøger om opholdstilladelse efter udlændingelovens § 7, samt personer omfattet af lov om midlertidig opholdstilladelse til visse personer fra det tidligere Jugoslavien m.v. eller lov om midlertidig opholdstilladelse til nødstedte fra Kosovoprovinsen i Forbundsrepublikken Jugoslavien (Kosovonødloven).
+Stk. 5. Stk. 1-4 finder ikke anvendelse på personer der ansøger om opholdstilladelse efter udlændingelovens § 7.
