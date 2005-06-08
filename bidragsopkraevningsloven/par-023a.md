@@ -1,3 +1,3 @@
-§ 23 a. Afgørelser, der træffes af det sociale udvalg (magistraten), kan indbringes for amtsankenævnet. Afgørelser, der træffes af de kommunale myndigheder i København eller Frederiksberg, kan indbringes for den sociale ankestyrelse.
+§ 23 a. Kommunalbestyrelsens afgørelser efter denne lov kan påklages til det sociale nævn.
 
-Stk. 2. Stk. 1 gælder ikke for afgørelser efter § 4 og pålæg om tilbageholdelse efter § 5.
+Stk. 2. Statsforvaltningens afgørelse efter denne lov kan påklages til ministeren for familie- og forbrugeranliggender.
