@@ -1,0 +1,5 @@
+§ 26 A. Udarbejder eller har den skattepligtige udarbejdet skattemæssigt årsregnskab i fremmed valuta, jf. skattekontrollovens § 3 C, stk. 3-14, finder stk. 2 og 3 anvendelse.
+
+Stk. 2. Det ikkefradragsberettigede tab, jf. § 4, stk. 1, og § 16, 3.-5. pkt., opgøres på grundlag af den oprindelige anskaffelsessum henholdsvis afståelsessummen omregnet til valutakursen på tidspunktet for fordringens erhvervelse. Det herefter opgjorte tab omregnes med valutakursen på skæringstidspunktet, jf. skattekontrollovens § 3 C, stk. 8, 9, 11 og 13, for hvert skift i den skattemæssige regnskabsvaluta fra fordringens erhvervelse til fordringens afståelse.
+
+Stk. 3. Ved opgørelser efter § 26, stk. 4, af det ikkefradragsberettigede tab, jf. § 7, stk. 2, og § 19, stk. 3, anvendes gældens værdi i danske kroner ved påtagelsen henholdsvis gældens værdi i danske kroner ved frigørelsen omregnet til valutakursen ved påtagelsen. Det herefter opgjorte tab omregnes med valutakursen på skæringstidspunktet, jf. skattekontrollovens § 3 C, stk. 8, 9, 11 og 13, for hvert skift i den skattemæssige regnskabsvaluta fra påtagelsen af gælden til frigørelsen.
