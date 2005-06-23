@@ -1,5 +1,5 @@
-Økonomi- og Erhvervsministeriet, den 25. juni 2003
+Økonomi- og Erhvervsministeriet, den 14. juni 2005
 
 Bendt Bendtsen
 
-/Henning Steensig
+/Niels Erik D. Jensen
