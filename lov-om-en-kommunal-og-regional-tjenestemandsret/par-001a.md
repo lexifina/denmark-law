@@ -1,4 +1,4 @@
-§ 1 a. For den kommunale tjenestemandsrets formand, dommere og stedfortrædere gælder retsplejelovens inhabilitetsregler for dommere.
+§ 1 a. For den kommunale og regionale tjenestemandsrets formand, dommere og stedfortrædere gælder retsplejelovens inhabilitetsregler for dommere.
 
 Stk. 2. De dommere, som skal deltage i pådømmelsen af den enkelte sag, skal af egen drift påse, om der foreligger grunde, der kan medføre inhabilitet.
 
