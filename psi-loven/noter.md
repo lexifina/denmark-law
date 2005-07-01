@@ -1,0 +1,1 @@
+Loven indeholder regler, der gennemfører dele af Europa-Parlamentets og Rådets direktiv 2003/98/EF af 17. november 2003 om videreanvendelse af den offentlige sektors informationer, (EU-Tidende 2003 nr. L 345, side 90).
