@@ -26,4 +26,6 @@ Stk. 4. Anden strafferetlig retsfølge, der indebærer eller giver mulighed for 
 
 Stk. 5. Ved efterfølgende ændringer af en af de i stk. 4 nævnte retsfølger beregnes udstrækningen af tidsrummet ud fra den sidst idømte retsfølge.
 
-Stk. 6. Er udlændingen flere gange idømt betinget eller ubetinget frihedsstraf eller anden strafferetlig retsfølge, der indebærer eller giver mulighed for frihedsberøvelse, for lovovertrædelser, der ville have medført straf af denne karakter, beregnes de i stk. 1, 2 og 4 nævnte tidsrum ud fra den sidst idømte retsfølge, medmindre tidsrummet herved bliver kortere end det tidsrum, der efter stk. 1, 2 eller 4 er gældende for udlændingen efter en tidligere idømt retsfølge.
+Stk. 6. Dom til ungdomssanktion, jf. straffelovens § 74 a, er til hinder for meddelelse af tidsubegrænset opholdstilladelse i 2 år fra tidspunktet for foranstaltningens ophør.
+
+Stk. 7. Er udlændingen flere gange idømt betinget eller ubetinget frihedsstraf eller anden strafferetlig retsfølge, der indebærer eller giver mulighed for frihedsberøvelse, for lovovertrædelser, der ville have medført straf af denne karakter, beregnes de i stk. 1, 2 og 4 nævnte tidsrum ud fra den sidst idømte retsfølge, medmindre tidsrummet herved bliver kortere end det tidsrum, der efter stk. 1, 2 eller 4 er gældende for udlændingen efter en tidligere idømt retsfølge.

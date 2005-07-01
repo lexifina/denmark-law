@@ -4,9 +4,9 @@ Stk. 2. Er et barn, der er omfattet af stk. 1, fyldt 12 år, skal der, før der 
 
 Stk. 3. Statsamtet kan ændre en afgørelse efter stk. 1, hvis ændringen er bedst for barnet.
 
-Stk. 4. Statsamtets afgørelser efter stk. 1 og 3 kan påklages til justitsministeren.
+Stk. 4. Statsamtets afgørelser efter stk. 1 og 3 kan påklages til ministeren for familie- og forbrugeranliggender.
 
-Stk. 5. Justitsministeren kan fastsætte nærmere regler om statsamternes behandling af sager efter stk. 1-4.
+Stk. 5. Ministeren for familie- og forbrugeranliggender kan fastsætte nærmere regler om statsamternes behandling af sager efter stk. 1-4.
 
 Stk. 6. Hvervet som repræsentant til varetagelse af barnets interesser, jf. stk. 1, ophører, når
 
