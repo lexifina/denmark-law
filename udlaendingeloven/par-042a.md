@@ -4,7 +4,7 @@ Stk. 2. Har en udlænding, der ikke er omfattet af stk. 1 eller § 43, stk. 1, e
 
 Stk. 3. Stk. 1 og 2 gælder ikke:
 
-1) Hvis udlændingen har lovligt ophold her i landet i medfør af § 1 eller § 5, stk. 2, eller i medfør af en opholdstilladelse efter § 6 eller §§ 9- 9 f.
+1) Hvis udlændingen har lovligt ophold her i landet i medfør af § 1 eller § 5, stk. 2, eller i medfør af en opholdstilladelse efter § 6 eller §§ 9-9 f.
 
 2) Hvis udlændingen har indgået ægteskab med en herboende person, medmindre særlige grunde foreligger.
 
@@ -20,9 +20,9 @@ Stk. 6. Ministeren for flygtninge, indvandrere og integration fastsætter regler
 
 Stk. 7. Udlændingestyrelsen kan bestemme, at en i stk. 1 eller 2, jf. stk. 3, nævnt udlænding, uanset om den pågældende selv har tilstrækkelige midler til sit underhold og nødvendige sundhedsmæssige ydelser, skal tage ophold efter Udlændingestyrelsens nærmere bestemmelse. En sådan udlænding må ikke gennem voldelig eller truende adfærd over for personer, der udfører opgaver med driften af et indkvarteringssted for udlændinge, eller over for personer, der i øvrigt opholder sig på indkvarteringsstedet, lægge hindringer i vejen for udførelsen af opgaver med driften af indkvarteringsstedet eller for opretholdelsen af ro og orden på indkvarteringsstedet.
 
-Stk. 8. Udlændingestyrelsen bestemmer, medmindre særlige grunde taler derimod, at en udlænding, der er meddelt afslag på en ansøgning om opholdstilladelse efter §§ 7 eller 8, men som ikke kan udsendes af landet, jf. § 31, og en udlænding, der er udvist ved endelig dom efter §§ 22-24, og som ikke er varetægtsfængslet efter § 35, skal tage ophold på et bestemt indkvarteringssted for de i stk. 1 og 2 nævnte udlændinge. Stk. 7, 2. pkt., finder tilsvarende anvendelse.
+Stk. 8. Udlændingestyrelsen bestemmer, medmindre særlige grunde taler derimod, at en udlænding, der er meddelt afslag på en ansøgning om opholdstilladelse efter § 7 eller § 8, stk. 1 eller 2, men som ikke kan udsendes af landet, jf. § 31, og en udlænding, der er udvist ved endelig dom efter §§ 22-24, og som ikke er varetægtsfængslet efter § 35, skal tage ophold på et bestemt indkvarteringssted for de i stk. 1 og 2 nævnte udlændinge. Stk. 7, 2. pkt., finder tilsvarende anvendelse.
 
-Stk. 9. Udlændingestyrelsen kan bestemme, at en udlænding, der er omfattet af stk. 1 eller 2, jf. stk. 3, ikke skal have dækket sine udgifter til underhold, men alene skal modtage kost og logi i naturalier samt nødvendige sundhedsmæssige ydelser, såfremt
+Stk. 9. Udlændingestyrelsen kan bestemme, at en udlænding, der er omfattet af stk. 1 eller 2, jf. stk. 3, ikke får udbetalt kontante ydelser, jf. § 42 b, stk. 1, 3, 8 og 9, når den pågældende er indkvarteret på et indkvarteringssted, jf. stk. 5, hvor der er en vederlagsfri bespisningsordning, eller at udlændingen alene får udbetalt grundydelse, jf. § 42 b, stk. 1 og 2, forsørgertillæg, jf. § 42 b, stk. 3 og 7, og nedsat forsørgertillæg, jf. § 42 b, stk. 3, 6 og 7, når den pågældende er indkvarteret på et indkvarteringssted, jf. stk. 5, uden en vederlagsfri bespisningsordning, såfremt
 
 1) udlændingen uden rimelig grund udebliver fra en afhøring med Udlændingestyrelsen eller politiet, hvortil den pågældende er indkaldt,
 
@@ -36,10 +36,12 @@ Stk. 9. Udlændingestyrelsen kan bestemme, at en udlænding, der er omfattet af 
 
 6) udlændingen er efterlyst af politiet med henblik på forkyndelse, udrejsekontrol eller udsendelse.
 
-Stk. 10. Udlændingestyrelsen skal, medmindre særlige grunde taler derimod, bestemme, at en udlænding, der er omfattet af stk. 1 eller 2, jf. stk. 3, ikke skal have dækket sine udgifter til underhold, men alene skal modtage kost og logi i naturalier samt nødvendige sundhedsmæssige ydelser, såfremt
+Stk. 10. Udlændingestyrelsen skal, medmindre særlige grunde taler derimod, bestemme, at en udlænding, der er omfattet af stk. 1 eller 2, jf. stk. 3, ikke får udbetalt kontante ydelser, jf. § 42 b, stk. 1, 3, 8 og 9, når den pågældende er indkvarteret på et indkvarteringssted, jf. stk. 5, hvor der er en vederlagsfri bespisningsordning, eller at udlændingen alene får udbetalt grundydelse, jf. § 42 b, stk. 1 og 2, forsørgertillæg, jf. § 42 b, stk. 3 og 7, og nedsat forsørgertillæg, jf. § 42 b, stk. 3, 6 og 7, når den pågældende er indkvarteret på et indkvarteringssted, jf. stk. 5, uden en vederlagsfri bespisningsordning, såfremt
 
 1) udlændingen indgiver ansøgning om opholdstilladelse efter § 7 og ikke medvirker til sagens oplysning, jf. § 40, stk. 1, 1. og 2. pkt., eller
 
-2) politiet drager omsorg for udlændingens udrejse, og udlændingen ikke medvirker hertil, jf. § 40, stk. 3, 1. pkt.
+2) politiet drager omsorg for udlændingens udrejse, og udlændingen ikke medvirker hertil, jf. § 40, stk. 4, 1. pkt.
 
 Stk. 11. Udlændingestyrelsen kan til brug for en afgørelse efter stk. 9 eller 10 uden udlændingens samtykke indhente oplysninger om udlændingens helbredsforhold hos indkvarteringsoperatøren, jf. stk. 5.
+
+Stk. 12. For udlændinge omfattet af stk. 9 og 10, der er indkvarteret på et indkvarteringssted, jf. stk. 5, uden en vederlagsfri bespisningsordning, udgør forsørgertillægget pr. dag 42,73 kr. Det angivne beløb er fastsat i 2005-beløb og reguleres fra og med 2006 én gang årligt den 1. januar efter satsreguleringsprocenten, jf. lov om en satsreguleringsprocent.
