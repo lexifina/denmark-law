@@ -1,0 +1,1 @@
+§ 17 a. Overlader transportministeren sine beføjelser til at træffe afgørelser i henhold til loven eller i henhold til bestemmelser fastsat i henhold til loven til en institution under Transportministeriet, kan ministeren fastsætte regler om adgangen til at klage over afgørelserne, herunder om, at afgørelserne ikke kan indbringes for højere administrativ myndighed.
