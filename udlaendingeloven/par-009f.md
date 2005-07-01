@@ -13,3 +13,5 @@ Stk. 3. Opholdstilladelse efter stk. 1 skal betinges af, at udlændingen godtgø
 Stk. 4. Opholdstilladelse efter stk. 1 skal betinges af, at udlændingen og personer, der meddeles opholdstilladelse som følge af familiemæssig tilknytning til udlændingen, ikke modtager offentlig hjælp til forsørgelse under opholdet her i landet.
 
 Stk. 5. Opholdstilladelse efter stk. 1 kan ikke meddeles, hvis der er grund til at antage, at udlændingen vil udgøre en trussel mod den offentlige tryghed, den offentlige orden, sundheden, sædeligheden eller andres rettigheder og pligter.
+
+Stk. 6. Opholdstilladelse efter stk. 1 skal være opnået inden indrejsen. Efter indrejsen kan ansøgning herom ikke indgives, behandles eller tillægges opsættende virkning her i landet, medmindre særlige grunde taler derfor.
