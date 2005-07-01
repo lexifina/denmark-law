@@ -2,7 +2,7 @@
 
 Stk. 2. Følgende satser kan anvendes til dækning af udgifter til logi, kost og småfornødenheder i stedet for de faktiske beløb:
 
-1) Ved rejse med overnatning i Danmark eller i udlandet et grundbeløb på 320 kr. pr. døgn til kost og småfornødenheder. Ligningsrådet kan fra og med 1. januar 2001 forhøje satsen efter 1. pkt. med et grundbeløb på 100 kr. pr. døgn ved overnatning i lande, hvor leveomkostningerne er væsentligt højere end i Danmark.
+1) Ved rejse med overnatning i Danmark eller i udlandet et grundbeløb på 320 kr. pr. døgn til kost og småfornødenheder. Skatterådet kan fra og med 1. januar 2001 forhøje satsen efter 1. pkt. med et grundbeløb på 100 kr. pr. døgn ved overnatning i lande, hvor leveomkostningerne er væsentligt højere end i Danmark.
 
 2) For turistchauffører med overnatning i udlandet 150 kr. pr. døgn.
 
@@ -30,6 +30,6 @@ Stk. 8. Selvstændigt erhvervsdrivende, der på grund af afstanden mellem bopæl
 
 Stk. 9. Reglerne i stk. 1-6 finder tilsvarende anvendelse på rejsegodtgørelser, der udbetales til medlemmer af eller medhjælpere for bestyrelser, udvalg, kommissioner, råd og lignende. Bestemmelsen i stk. 7 finder tilsvarende anvendelse for lønnede medlemmer af eller medhjælpere for bestyrelser, udvalg, kommissioner, råd og lignende.
 
-Stk. 10 . Stk. 7 finder tilsvarende anvendelse for modtagere af tilskudsbevillinger til forskning, som er A-indkomst. Det er en betingelse, at den skattepligtige på grund af afstanden mellem bopæl og det sted, hvor den pågældende midlertidigt udfører et forskningsprojekt, ikke har mulighed for at overnatte på sin sædvanlige bopæl. Der kan alene foretages fradrag, i det omfang de fradragsberettigede udgifter overstiger grundbeløbet i § 9, stk. 1. § 9, stk. 4, finder tilsvarende anvendelse.
+Stk. 10. Stk. 7 finder tilsvarende anvendelse for modtagere af tilskudsbevillinger til forskning, som er A-indkomst. Det er en betingelse, at den skattepligtige på grund af afstanden mellem bopæl og det sted, hvor den pågældende midlertidigt udfører et forskningsprojekt, ikke har mulighed for at overnatte på sin sædvanlige bopæl. Der kan alene foretages fradrag, i det omfang de fradragsberettigede udgifter overstiger grundbeløbet i § 9, stk. 1. § 9, stk. 4, finder tilsvarende anvendelse.
 
-Stk. 11. Personer, der kan anvende § 33 C eller lov om særlige fradrag til sømænd eller modtager ydelser efter § 7, nr. 15, eller § 31, stk. 4, er ikke omfattet af stk. 1-9. Personer, der aftjener værnepligt, samt frivilligt personel i den periode, der er fastsat som uddannelsestid, kan ikke foretage fradrag med standardsatserne. Reglerne i stk. 1-8 finder ikke anvendelse for personer, der for et indkomstår har valgt fradrag efter § 9 G ved fangstture i det pågældende indkomstår.
+Stk. 11. Personer, der modtager ydelser efter § 7, nr. 15, eller § 31, stk. 4, er ikke omfattet af stk. 1-9. Personer, der aftjener værnepligt, samt frivilligt personel i den periode, der er fastsat som uddannelsestid, kan ikke foretage fradrag med standardsatserne. Reglerne i stk. 1-8 finder ikke anvendelse for personer, der for et indkomstår har valgt fradrag efter § 9 G ved fangstture i det pågældende indkomstår.
