@@ -10,7 +10,7 @@
 
 5) tilskud efter lov om statstilskud til omstilling af elopvarmede bygninger,
 
-6) tilskud, som i medfør af § 9, stk. 2, i lov om jordfordeling mellem landejendomme ydes til udgifter, som afholdes af lodsejerne,
+6) tilskud, som i medfør af § 9, stk. 2, i lov om jordfordeling og offentligt køb og salg af fast ejendom til jordbrugsmæssige formål m.m. (jordfordelingsloven) ydes til udgifter, som afholdes af lodsejerne,
 
 7) tilskud til bygningsejere til installationsarbejder som nævnt i § 4, stk. 1, nr. 1, i lov om Elsparefonden,
 
