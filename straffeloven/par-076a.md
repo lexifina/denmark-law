@@ -2,7 +2,7 @@
 
 1) handlingen er af en sådan karakter, at den kan give betydeligt udbytte, og
 
-2) den efter loven kan straffes med fængsel i 6 år eller derover eller er en overtrædelse af lovgivningen om euforiserende stoffer eller straffelovens § 286, stk. 1, eller § 289.
+2) den efter loven kan straffes med fængsel i 6 år eller derover eller er en overtrædelse af lovgivningen om euforiserende stoffer.
 
 Stk. 2. Under betingelser som nævnt i stk. 1 kan der foretages hel eller delvis konfiskation af formuegoder, som den pågældendes ægtefælle eller samlever har erhvervet, medmindre
 
