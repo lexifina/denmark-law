@@ -1,1 +1,1 @@
-§ 32 a. Afslag på en ansøgning om opholdstilladelse efter §§ 7-8 eller afgørelser om bortfald eller inddragelse af en sådan opholdstilladelse skal tillige indeholde afgørelse om, hvorvidt udlændingen kan udsendes, hvis denne ikke udrejser frivilligt, jf. § 31.
+§ 32 a. Afslag på en ansøgning om opholdstilladelse efter § 7 eller § 8, stk. 1 eller 2, eller afgørelser om bortfald eller inddragelse af en sådan opholdstilladelse skal tillige indeholde afgørelse om, hvorvidt udlændingen kan udsendes, hvis denne ikke udrejser frivilligt, jf. § 31.
