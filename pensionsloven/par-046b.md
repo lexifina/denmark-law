@@ -1,0 +1,1 @@
+§ 46 b. Politiet eller kriminalforsorgen skal underrette kommunen om unddragelsen, når myndigheden får formodning om, at en person, der bevidst unddrager sig strafforfølgning, jf. § 46 a, stk. 1, eller straffuldbyrdelse, jf. § 46 a, stk. 2, samtidig modtager pension. For personer med bopæl i udlandet skal Den Sociale Sikringsstyrelse underrettes.

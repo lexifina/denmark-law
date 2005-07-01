@@ -1,0 +1,1 @@
+§ 20 a. Politiet eller kriminalforsorgen skal underrette styrelsen om unddragelsen, når myndigheden får formodning om, at den person, der bevidst unddrager sig strafforfølgning eller straffuldbyrdelse, jf. § 14 a, stk. 1 og 2, samtidig modtager SVU.
