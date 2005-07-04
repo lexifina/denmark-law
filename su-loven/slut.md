@@ -1,5 +1,5 @@
-Undervisningsministeriet, den 11. september 2003
+Undervisningsministeriet, den 23. juni 2005
 
-Ulla Tørnæs
+Bertel Haarder
 
-/Helle Mortensen
+/Ole Hvilsom Larsen
