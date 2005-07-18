@@ -1,5 +1,5 @@
-Kulturministeriet, den 30. juni 2004
+Kulturministeriet, den 6. juli 2005
 
 Brian Mikkelsen
 
-/Peter Schønning
+/Martin Kyst

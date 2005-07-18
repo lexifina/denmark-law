@@ -2,7 +2,7 @@
 
 Stk. 2. Det er ikke tilladt at fremstille, importere, sprede, sælge, udleje, reklamere for salg eller udlejning af eller i kommercielt øjemed besidde indretninger, produkter eller komponenter, der
 
-1) er genstand for salgsfremme , reklame eller markedsføring med henblik på omgåelse af effektive tekniske foranstaltninger,
+1) er genstand for salgsfremme, reklame eller markedsføring med henblik på omgåelse af effektive tekniske foranstaltninger,
 
 2) kun i begrænset omfang har andet kommercielt formål eller anden kommerciel anvendelse end omgåelse af effektive tekniske foranstaltninger eller
 
