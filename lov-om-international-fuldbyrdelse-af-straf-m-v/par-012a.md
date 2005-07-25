@@ -1,0 +1,1 @@
+§ 12 a. En person, der er frihedsberøvet i udlandet som led i fuldbyrdelse af en straf m.v. idømt her i landet, og som har meddelt samtykke hertil, kan overføres til Danmark for at være til stede ved en fornyet behandling af sagen. Retsplejelovens § 191 finder tilsvarende anvendelse.
