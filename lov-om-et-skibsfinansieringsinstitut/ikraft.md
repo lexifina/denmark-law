@@ -1,3 +1,7 @@
+§ 6. Denne lov træder i kraft den 15. maj 1961.
+
+Lov nr. 1005 af 23. december 1998 indeholder følgende ikrafttrædelsesbestemmelser
+
 § 2
 
 Loven træder i kraft den 1. januar 1999.
@@ -41,3 +45,21 @@ Stk. 2-4. (Udeladt).
 Stk. 1. Bortset fra (udeladt), gælder loven ikke for Grønland og Færøerne, men kan ved kongelig anordning sættes i kraft for disse landsdele med de afvigelser, som de særlige grønlandske og færøske forhold tilsiger, jf. dog stk. 2.
 
 Stk. 2. (Udeladt).
+
+Lov nr. 453 af 10. juni 2003 indeholder følgende ikrafttrædelsesbestemmelser.
+
+§ 375
+
+Loven træder i kraft den 1. januar 2004, jf. dog stk. 2 og 3.
+
+Stk. 2-5. (Udeladt).
+
+Lov nr. 387 af 30. maj 2005 indeholder følgende ikrafttrædelsesbestemmelser.
+
+§ 6
+
+Tidspunktet for lovens ikrafttræden fastsættes af økonomi- og erhvervsministeren. Ministeren kan herunder fastsætte, at loven træder i kraft på forskellige tidspunkter.
+
+§ 7
+
+Loven gælder ikke for Grønland og Færøerne, men §§ 1, (udeladt) og 6 kan ved kongelig anordning sættes i kraft for disse landsdele med de afvigelser, som de særlige grønlandske og færøske forhold tilsiger.
