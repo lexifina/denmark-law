@@ -1,1 +1,1 @@
-§ 75 a. Henlægger erhvervsminsteren sine beføjelser efter loven til Søfartsstyrelsen, kan ministeren fastsætte regler om klageadgangen, herunder at klager ikke kan indbringes for højere administrative myndighed.
+§ 75 a. Økonomi- og erhvervsministeren kan fastsætte regler om klageadgang, herunder om, at klager over Søfartsstyrelsens afgørelser ikke kan indbringes for anden administrative myndighed.
