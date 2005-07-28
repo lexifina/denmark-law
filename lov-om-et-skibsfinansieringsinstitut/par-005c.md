@@ -1,1 +1,0 @@
-§ 5 c. Afgørelser truffet af den af vedkommende minister udnævnte tilsynsførende i henhold til loven eller forskrifter udstedt i medfør af loven kan indbringes for Erhvervsankenævnet senest 4 uger efter, at afgørelsen er meddelt.
