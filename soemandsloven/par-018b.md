@@ -7,5 +7,3 @@ Stk. 3. Stk. 2 finder ikke anvendelse, hvis der kan skaffes sømanden tilsvarend
 Stk. 4. Under ophold på fratrædelsesstedet betaler rederen udgifterne til sømandens underhold.
 
 Stk. 5. Så længe tjenesteforholdet består, finder § 35 tilsvarende anvendelse for skibsansatte.
-
-3 b. Søfarendes fritagelse for tjeneste m.v. i forbindelse med graviditet og barsel
