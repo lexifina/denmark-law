@@ -1,4 +1,4 @@
-Socialministeriet, den 7. december 2004
+Socialministeriet, den 2. august 2005
 
 P.M.V. Thomas Børner
 
