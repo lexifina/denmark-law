@@ -1,3 +1,3 @@
 Bekendtgørelse af lov om social pension
 
-Herved bekendtgøres lov om social pension, jf. lovbekendtgørelse nr. 42 af 28. januar 2004, med de ændringer, der følger af § 1 i lov nr. 319 af 5. maj 2004 og lov nr. 471 af 9. juni 2004.
+Herved bekendtgøres lov om social pension, jf. lovbekendtgørelse nr. 1219 af 7. december 2004, med de ændringer, der følger af § 2 i lov nr. 1431 af 22. december 2004, lov nr. 1449 af 22. december 2004, § 2 i lov nr. 1450 af 22. december 2004, § 1 i lov nr. 327 af 18. maj 2005, § 111 i lov nr. 428 af 6. juni 2005, § 55 i lov nr. 430 af 6. juni 2005 og § 61 i lov nr. 431 af 6. juni 2005. Lov nr. 523 af 24. juni 2005 (§ 10) og lov nr. 545 af 24. juni 2005 (§ 14) er ikke indarbejdet i denne lovbekendtgørelse, da ændringerne først træder i kraft den 1. januar 2007, jf. § 23 i lov nr. 523 af 24. juni 2005 og § 18 i lov nr. 545 af 24. juni 2005.
