@@ -1,7 +1,5 @@
-Givet på Christiansborg Slot, den 6. juni 2005
+Skatteministeriet, den 2. august 2005
 
-Under Vor Kongelige Hånd og Segl
+Kristian Jensen
 
-MARGRETHE R.
-
-/Kristian Jensen
+/Kaj-Henrik Ludolph

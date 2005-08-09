@@ -1,3 +1,3 @@
-Skatteforvaltningsloven
+Bekendtgørelse af skatteforvaltningsloven
 
-VI MARGRETHE DEN ANDEN, af Guds Nåde Danmarks Dronning, gør vitterligt: Folketinget har vedtaget og Vi ved Vort samtykke stadfæstet følgende lov:
+Hermed bekendtgøres skatteforvaltningsloven , jf. lov nr. 427 af 6. juni 2005, med den ændring, der følger af § 4 i lov nr. 544 af 24. juni 2005.
