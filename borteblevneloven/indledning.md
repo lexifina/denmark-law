@@ -1,3 +1,3 @@
 Bekendtgørelse af lov om borteblevne
 
-Herved bekendtgøres lov nr. 397 af 17. juli 1946 om borteblevne med de ændringer, der følger af § 6 i lov nr. 225 af 7. juni 1972 og § 6 i lov nr. 212 af 13. maj 1981.
+Herved bekendtgøres lov om borteblevne, jf. lovbekendtgørelse nr. 587 af 1. september 1986, med de ændringer, der følger af § 15 i lov nr. 389 af 14. juni 1995, § 10 i lov nr. 385 af 22. maj 1996 og lov nr. 451 af 13. juni 2005.

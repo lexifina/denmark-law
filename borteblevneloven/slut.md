@@ -1,7 +1,5 @@
-Justitsministeriet, den 1. september 1986
+Justitsministeriet, den 4. august 2005
 
-Erik Ninn-Hansen
+Lene Espersen
 
-/Jens Møller
-
-Ingen
+/Birgit Thostrup Christensen
