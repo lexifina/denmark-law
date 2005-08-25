@@ -1,5 +1,5 @@
-Økonomi- og Erhvervsministeriet, den 28. juni 2002
+Økonomi- og Erhvervsministeriet, den 8. august 2005
 
 Bendt Bendtsen
 
-/Kirsten Levinsen
+/Kim Sparlund
