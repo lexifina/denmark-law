@@ -1,5 +1,5 @@
-Skatteministeriet, den 22. september 2003
+Skatteministeriet, den 16. august 2005
 
-Svend Erik Hovmand
+P.M.V. Peter Loft
 
 /K.-H. Ludolph

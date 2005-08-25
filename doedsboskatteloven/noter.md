@@ -1,9 +1,21 @@
-Denne lovbekendtgørelse indeholder bemærkninger om ikrafttrædelses- og overgangsbestemmelser for love, der er vedtaget i folketingsåret 2002-2003. For så vidt angår ikrafttrædelses- og overgangsbestemmelser for tidligere vedtagne ændringer af dødsboskatteloven henvises til tidligere bekendtgørelser af dødsboskatteloven, senest lovbekendtgørelse nr. 760 af 10. september 2002.
+Denne lovbekendtgørelse indeholder bemærkninger til de ændringer af dødsboskatteloven, der er foretaget efter den 22. september 2003.
 
-Dødsboskatteloven er ændret ved § 4 i lov nr. 460 af 31. maj 2000 om ændring af lov om Dansk Internationalt Skibsregister og af forskellige skattelove (udvidelse af DIS-ordningen samt beskatning af søfolk og luftfartspersonale i international trafik m.v.). Skatteministeren fastsætter tidspunktet for ikrafttræden af lovens §§ 2-7, jf. § 8, stk. 2, hvilket endnu ikke er sket. De i loven indeholdte ændringer er derfor ikke indarbejdet i denne lovbekendtgørelse. Det drejer sig om ændringer i § 55, stk. 2, og § 56, stk. 2, hvor »§ 48 C« udgår.
+Lov nr. 151 af 15. marts 2004 (Udvidelse af etableringskontoordningen og forhøjelse af grænsen for gratisaktier og medarbejderobligationer) trådte i kraft den 17. marts 2004. Ændringen i § 22, stk. 2, har virkning for etablering af selvstændig erhvervsvirksomhed og virksomhed i selskabsform, der sker den 1. juli 2004 eller senere.
 
-Ændringerne i § 1, stk. 3, § 55, stk. 2, 1. pkt., og § 56, stk. 2, 1. pkt., trådte i kraft den 14. marts 2003 og har virkning for udbytter, der udloddes den 1. januar 2004 eller senere. Indeholdt udbytteskat af udbytter, som er udloddet inden den 1. januar 2004, og som tilbagebetales i forbindelse med årsopgørelsen for indkomståret 2002, modregnes i videst muligt omfang i ordinær acontoskat, der forfalder i november 2003, inden udbetaling, jf. § 5, stk. 1-3, i lov nr. 153 af 12. marts 2003.
+Lov nr. 221 af 31. marts 2004 (Rentebeskatningsdirektivet, rente/royaltydirektivet, koncerninterne lån, fraflytterbeskatning, omregning til helårsindkomst, bruttobeskattede personer) trådte i kraft den 2. april 2004. Ændringerne i § 51, stk. 1 og § 65, stk. 1 har virkning for skattepligtige, hvis skattepligt ophører eller skattemæssige hjemsted flyttes den 1. januar 2004 eller senere. Ændringen i § 63, stk. 2 har virkning fra og med indkomståret 2004. Efter anmodning anvendes personskattelovens § 14 som affattet ved denne lovs § 9, nr. 2, for indkomstårene 1996-2003 for en person, der er skattepligtig efter kildeskattelovens § 1 eller 2. Skattestyrelseslovens § 35, stk. 2, finder tilsvarende anvendelse, idet fristen dog først regnes fra lovens ikrafttræden. Skattestyrelseslovens § 35, stk. 4, finder tilsvarende anvendelse.
 
-I overskriften til afsnit VII udgår »tillægsskat«, ophævelse af § 86 og i § 88, stk. 1, 1. pkt., stk. 2 og stk. 3 er ændret og trådte i kraft den 1. januar 2003 og har virkning for 1) boer vedrørende personer, der afgår ved døden den 1. januar 2003 eller senere, 2) beskatningen af efterlevende ægtefæller efter personer, der afgår ved døden den 1. januar 2003 eller senere, samt 3) skifte af uskiftede boer i den efterlevende ægtefælles levende live, når anmodning om skifte indgives den 1. januar 2003 eller senere, jf. § 5, stk. 1 og 2, i lov nr. 1058 af 17. december 2002.
+Lov nr. 357 af 19. maj 2004 (Bindende ligningssvar for selskaber og hovedaktionærer m.v.) trådte i kraft den 1. juli 2004.
 
-Ændringerne i § 92, stk. 4 træder i kraft den 1. januar 2004, jf. § 4 i lov nr. 61 af 21. januar 2003.
+Lov nr. 458 af 9. juni 2004 (Forenklinger m.v.) trådte i kraft den 11. juni 2004. Ændringerne i § 27, stk. 1, 2 og § 40, stk. 5 har virkning for afståelser af ejerlejligheder, der sker den 1. januar 2004 eller senere, og hvor ejerlejligheden ikke før den 1. januar 2004 er blevet skattepligtig efter lov om beskatning af fortjeneste ved førstegangsafståelse af visse ejerlejligheder. Ændringerne i § 27, stk. 4, § 36, stk. 4, § 51, stk. 2 og § 65, stk. 2, har virkning for ejendomme, der overføres fra landzone til byzone eller sommerhusområde den 1. januar 2004 eller senere.
+
+Ved lov nr. 221 af 31. marts 2004 (Rentebeskatningsdirektivet, rente/royaltydirektivet, koncerninterne lån, fraflytterbeskatning, omregning til helårsindkomst, bruttobeskattede personer) er § 27, stk. 5, ophævet. Ved lov nr. 458 af 9. juni 2004 (Forenklinger m.v.), er § 27, stk. 2 og 4 ophævet som følge heraf.
+
+Lov nr. 325 af 18. maj 2005 (Indsats mod skatte- og afgiftsunddragelse) trådte i kraft den 20. maj 2005.
+
+Lov nr. 386 af 27. maj 2005, Lov om beskatning af søfolk, trådte i kraft den 29. maj 2005 og har virkning fra den 1. juli 2005.
+
+Lov nr. 425 af 6. juni 2005 (Forenkling af reglerne om begrænset skattepligt m.v. og anpartsreglerne) trådte i kraft den 8. juni 2005 og har virkning fra og med indkomståret 2006.
+
+Lov nr. 426 af 6. juni 2005 (Nedsættelse af selskabsskatten og globalpuljeprincip i sambeskatningen) trådte i kraft den 8. juni 2005 og har virkning fra og med indkomståret 2005.
+
+Lov nr. 428 af 6. juni 2005 (Konsekvensændringer som følge af kommunalreformen m.v.) trådte i kraft den 8. juni 2005 og har virkning fra den 1. november 2005.
