@@ -1,5 +1,5 @@
-Økonomi- og Erhvervsministeriet, den 11. marts 2003
+Økonomi- og Erhvervsministeriet, den 9. august 2005
 
 Bendt Bendtsen
 
-/Ole Blöndal
+/Victor Kjær

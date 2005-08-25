@@ -1,3 +1,3 @@
 Bekendtgørelse af lov om restaurations- og hotelvirksomhed m.v.
 
-Hermed bekendtgøres lov om restaurations- og hotelvirksomhed m.v., jf. lovbekendtgørelse nr. 203 af 31. marts 1998, som ændret ved § 46 i lov nr. 462 af 31. maj 2000 og lov nr. 1084 af 17. december 2002.
+Herved bekendtgøres lov om restaurations- og hotelvirksomhed m.v., jf. lovbekendtgørelse nr. 163 af 11. marts 2003, med de ændringer, der følger af lov nr. 366 af 19. maj 2004, lov nr. 487 af 9. juni 2004 og § 12 i lov nr. 606 af 24. juni 2005.
