@@ -1,3 +1,3 @@
 Bekendtgørelse af lov om beskatningen af pensionsordninger m.v. (pensionsbeskatningsloven)
 
-Herved bekendtgøres lov om beskatningen af pensionsordninger m.v. (pensionsbeskatningsloven), jf. lovbekendtgørelse nr. 773 af 13. september 2002, med de ændringer, der følger af § 3 i lov nr. 1066 af 17. december 2002, § 3 i lov nr. 421 af 10. juni 2003 og § 434 i lov nr. 453 af 10. juni 2003.
+Herved bekendtgøres lov om beskatningen af pensionsordninger m.v. (pensionsbeskatningsloven), jf. lovbekendtgørelse nr. 816 af 30. september 2003, med de ændringer, der følger af § 3 i lov nr. 190 af 24. marts 2004, § 1 i lov nr. 317 af 5. maj 2004, § 32 i lov nr. 451 af 9. juni 2004, § 1 i lov nr. 457 af 9. juni 2004, § 2 i lov nr. 1381 af 20. december 2004, § 7 i lov nr. 1386 af 20. december 2004, § 2 i lov nr. 1388 af 20. december 2004, § 2 i lov nr. 1413 af 22. december 2004, § 2 i lov nr. 423 af 6. juni 2005 og § 54 i lov nr. 428 af 6. juni 2005.
