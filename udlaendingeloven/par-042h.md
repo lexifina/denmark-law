@@ -4,7 +4,7 @@
 
 2) indkvarteringsoperatørernes udbetaling af kontante ydelser, jf. § 42 b, og
 
-3) varetagelse af administrationen efter §§ 42 c- 42 g.
+3) varetagelse af administrationen efter §§ 42 c-42 g.
 
 Stk. 2. Flytter en udlænding, som er omfattet af § 42 a, stk. 1 og 2, jf. stk. 3, fra et indkvarteringssted, som drives af en indkvarteringsoperatør, jf. § 42 a, stk. 5, 1. og 2. pkt., til et indkvarteringssted, som drives af en anden indkvarteringsoperatør, videregiver indkvarteringsoperatøren for det indkvarteringssted, hvorfra udlændingen flytter, uden udlændingens samtykke oplysningerne fra udlændingens kontrakt, jf. § 42 c, til indkvarteringsoperatøren for det indkvarteringssted, hvortil udlændingen flytter.
 

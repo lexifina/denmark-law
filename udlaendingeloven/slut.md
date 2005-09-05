@@ -1,5 +1,5 @@
-Ministeriet for Flygtninge, Indvandrere og Integration, den 14. juli 2004
+Ministeriet for Flygtninge, Indvandrere og Integration, den 24. august 2005
 
-Bertel Haarder
+Rikke Hvilshøj
 
-/Susanne S. Clausen
+/Oluf Engberg

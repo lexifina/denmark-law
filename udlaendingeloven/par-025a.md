@@ -1,8 +1,8 @@
 § 25 a. En udlænding, som ikke har haft lovligt ophold her i landet i længere tid end de sidste 6 måneder, kan endvidere udvises, hvis
 
-1) udlændingen uden for de i §§ 22-24 nævnte tilfælde er dømt for overtrædelse af § 42 a, stk. 7, 2. pkt., jf. § 60, stk. 1, straffelovens §§ 119, 244, 266, 276-283 eller 290, toldlovens § 73, stk. 2, jf. stk. 1, nr. 1, eller lov om våben og eksplosivstoffer eller udlændingen over for politiet har erkendt overtrædelsen eller er pågrebet under eller i umiddelbar tilknytning til udøvelsen af det strafbare forhold,
+1) udlændingen uden for de i §§ 22-24 nævnte tilfælde er dømt for overtrædelse af § 42 a, stk. 7, 2. pkt., jf. § 60, stk. 1, straffelovens §§ 119, 244, 266, 276-283 eller 290, toldlovens § 73, stk. 2, jf. stk. 1, nr. 1, eller lov om våben og eksplosivstoffer, eller udlændingen over for politiet har erkendt overtrædelsen eller er pågrebet under eller i umiddelbar tilknytning til udøvelsen af det strafbare forhold,
 
-2) udlændingen er dømt for ulovlig besiddelse af euforiserende stoffer eller udlændingen over for politiet har erkendt ulovlig besiddelse eller brug af euforiserende stoffer eller der i øvrigt foreligger en særlig bestyrket mistanke.
+2) udlændingen er dømt for ulovlig besiddelse af euforiserende stoffer, eller udlændingen over for politiet har erkendt ulovlig besiddelse eller brug af euforiserende stoffer, eller der i øvrigt foreligger en særlig bestyrket mistanke.
 
 Stk. 2. Efter indrejsen kan en udlænding, som ikke har haft lovligt ophold her i landet i længere tid end de sidste 6 måneder, desuden udvises, hvis:
 
