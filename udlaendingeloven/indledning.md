@@ -1,3 +1,3 @@
 Bekendtgørelse af udlændingeloven
 
-Herved bekendtgøres udlændingeloven jf. lovbekendtgørelse nr. 685 af 24. juli 2003 med de ændringer, der følger af lov nr. 1204 af 27. december 2003, lov nr. 283 af 26. april 2004, § 1 i lov nr. 427 af 9. juni 2004 og lov nr. 428 af 9. juni 2004.
+Herved bekendtgøres udlændingeloven jf. lovbekendtgørelse nr. 808 af 14. juli 2004 med de ændringer, der følger af lov nr. 429 af 9. juni 2004, lov nr. 324 af 18. maj 2005, lov nr. 402 af 1. juni 2005 og lov nr. 403 af 1. juni 2005. Den bekendtgjorte lovtekst indeholder ikke de ændringer, der følger af lov nr. 323 af 18. maj 2005 , § 101 i lov nr. 428 af 6. juni 2005, § 26 i lov nr. 430 af 6. juni 2005, § 32 i lov nr. 431 af 6. juni 2005, § 14 i lov nr. 523 af 24. juni 2005, § 31 i lov nr. 542 af 24. juni 2005 og § 10 i lov nr. 554 af 24. juni 2005, da lovene endnu ikke er trådt i kraft.
