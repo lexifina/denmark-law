@@ -1,9 +1,11 @@
-§ 40 A. Ved opgørelsen af den skattepligtige indkomst kan anskaffelsessummen til erhvervelse af en kvote omfattet af lov om CO2 -kvoter eller en andel af denne kvote fradrages med den forholdsmæssige andel i det indkomstår, hvori kvoten eller andelen af kvoten er anvendt i produktionen.
+§ 40 A. Ved opgørelsen af den skattepligtige indkomst kan anskaffelsessummen til erhvervelse af en kvote, der giver ret til at producere, levere, anvende, udnytte eller fange en bestemt mængde af et produkt eller en ressource eller at udlede en bestemt mængde af produkter eller ressourcer, herunder forurenende affaldsprodukter, og som kun kan bruges én gang (en engangskvote), fradrages i det indkomstår, hvori kvoten er anvendt i produktionen. Reglerne i 1. pkt. finder tilsvarende anvendelse på andele af engangskvoter, der er anvendt i produktionen.
 
-Stk. 2. Fortjeneste eller tab ved salg eller udløb af en kvote som nævnt i stk. 1 medregnes ved opgørelsen af den skattepligtige indkomst for det indkomstår, hvori en CO2 -kvote eller en andel af denne sælges eller udløber uden at være anvendt i produktionen. Fortjeneste eller tab opgøres som forskellen mellem afståelsessummen og anskaffelsessummen.
+Stk. 2. Fortjeneste eller tab ved salg eller udløb af en engangskvote eller en andel heraf medregnes ved opgørelsen af den skattepligtige indkomst for det indkomstår, hvori kvoten eller en andel heraf sælges eller udløber uden at være anvendt i produktionen. Fortjeneste eller tab opgøres som forskellen mellem afståelsessummen og anskaffelsessummen.
 
-Stk. 3. Anskaffelsessummen som nævnt i stk. 1 og 2 sættes til nul for en kvote, der er tildelt vederlagsfrit efter lov om CO2 -kvoter. Anskaffelsessummen for en købt CO2 -kvote sættes til købsprisen. Anskaffelsessummen for en andel af en købt CO2 -kvote sættes til købsprisen for hele kvoten med fradrag af eventuelt forbrug af andel som nævnt i stk. 1.
+Stk. 3. Anskaffelsessummen som nævnt i stk. 1 og 2 sættes til nul for en engangskvote eller en andel heraf, der er tildelt vederlagsfrit. Anskaffelsessummen for en købt engangskvote eller en andel heraf sættes til købssummen.
 
-Stk. 4. Afståelsessummen sættes til nul for en CO2 -kvote eller en andel af denne, der er anvendt i produktionen. Afståelsessummen for en CO2 -kvote eller en andel af denne, der udløber uden at være anvendt i produktionen, sættes ligeledes til nul.
+Stk. 4. Afståelsessummen som nævnt i stk. 2 sættes til nul for en engangskvote eller en andel heraf, der er anvendt i produktionen. Afståelsessummen for en engangskvote eller en andel heraf, der udløber uden at være anvendt i produktionen, sættes ligeledes til nul.
 
-Stk. 5. Hvis en skattepligtig ejer CO2 -kvoter med samme rettigheder, men erhvervet på forskellige tidspunkter, anses de først erhvervede kvoter for de først afståede.
+Stk. 5. Hvis en skattepligtig ejer engangskvoter eller andele af engangskvoter med samme rettigheder, men erhvervet på forskellige tidspunkter, anses de først erhvervede kvoter eller andele af kvoter for de først afståede.
+
+Stk. 6. Rettigheder, der er knyttet til andelsbeviser m.v. i foreninger omfattet af selskabsskattelovens § 1, stk. 1, nr. 3 og 4, er ikke omfattet af stk. 1-5.
