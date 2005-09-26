@@ -1,5 +1,5 @@
-Skatteministeriet, den 5. juli 2004
+Told- og skattestyrelsen, den 13. september 2005
 
-Svend Erik Hovmand
+P.M.V. Ole Kjær
 
 /Ulla Trolle

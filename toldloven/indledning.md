@@ -1,3 +1,3 @@
 Bekendtgørelse af toldloven
 
-Herved bekendtgøres toldloven, jf. lovbekendtgørelse nr. 1238 af 20. december 2002, med de ændringer, der følger af lov nr. 962 af 2. december 2003 og lov nr. 356 af 19. maj 2004
+Herved bekendtgøres toldloven, jf. lovbekendtgørelse nr. 765 af 5. juli 2004, med de ændringer, der følger af § 72 i lov nr. 428 af 6. juni 2005
