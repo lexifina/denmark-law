@@ -1,5 +1,3 @@
-Denne lovbekendtgørelse indeholder bemærkninger om ikrafttrædelsesbestemmelser for love, der er vedtaget efter 20. december 2002.
+Denne lovbekendtgørelse indeholder bemærkninger til de ændringer af toldloven, der blev gennemført ved lov nr. 428 af 6. juni 2005.
 
-Kapitel 1, § 10, stk. 2, § 10 a (ny), § 11, § 11 a (ny), § 12 (ophævet), § 14, stk. 2, 3 og 4, 15, stk. 1, § 15, stk. 3 (nyt stykke), § 16, stk. 1-4 (nye stykker), § 17, § 19, § 20, stk. 1, 1. pkt., § 20, stk. 2, § 20, stk. 4 og 5 (nye stykker), § 23, stk. 3, § 23, stk. 5 og 6, § 24, § 24, stk. 2 (nyt), § 25,stk. 3, 4. pkt. (nyt), § 37, § 39, stk. 1, nr. 4, § 42, § 47, § 50, § 54, stk. 1, § 56, stk. 2, af § 71 a, stk. 1, nr. 7 (nyt nummer), § 73, stk. 1, nr. 2, § 78, nr. 1 - 4, § 79, stk. 1, nr. 2 og 3, § 79, stk. 2 og 3 (ophævet), § 79 a og 79 b (nye), § 81, stk. 1, 2. pkt., § 83, stk. 1, § 84, stk. 1 og § 84, stk. 2 (nyt) er ændret ved lov nr. 962 af 2. december 2003. Endvidere er toldkontrol til kontrol ændret overalt i loven. Loven trådte i kraft den 1. januar 2004. § 11 a trådte dog i kraft den 1. maj 2004.
-
-§ 18, stk. 2, 2. pkt. og § 56, stk. 1, er ændret ved lov nr. 356 af 19. maj 2004, der trådte i kraft den 1. juli 2004.
+§ 68, stk. 1 (ændret), § 68, stk. 2 (nyt) og §§ 71 og 71 a (ophævet), jf. § 72 i lov nr. 428 af 6. juni 2005. Endvidere er »de statslige told- og skattemyndigheder« ændret til: »told- og skatteforvaltningen« overalt i loven. Ændringerne har virkning fra den 1. november 2005, jf. § 125, stk. 2 i lov nr. 428 af 6. juni 2005.
