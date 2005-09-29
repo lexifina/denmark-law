@@ -1,3 +1,1 @@
 § 1 a. Erstatning for fremtidige helbredelsesudgifter og andet fremtidigt tab som følge af skaden, jf. § 1, stk. 1, fastsættes til et kapitalbeløb, som højst kan udgøre den forventede gennemsnitlige årlige udgift ganget med 10. Er der tale om varige løbende udgifter, finder § 4, stk. 2, tilsvarende anvendelse.
-
-Tabt arbejdsfortjeneste
