@@ -1,5 +1,5 @@
-Skatteministeriet, den 7. oktober 2004
+Skatteministeriet, den 20. september 2005
 
-Kristian Jensen
+P.M.V. Peter Loft
 
 /Birgitte Christensen
