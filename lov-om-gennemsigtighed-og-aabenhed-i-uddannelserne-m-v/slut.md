@@ -1,7 +1,5 @@
-Givet på Christiansborg Slot, den 6. juni 2002
+Undervisningsministeriet, den 19. september 2005
 
-Under Vor Kongelige Hånd og Segl
+Bertel Haarder
 
-Margrethe R.
-
-/Ulla Tørnæs
+/Arne Andreasen
