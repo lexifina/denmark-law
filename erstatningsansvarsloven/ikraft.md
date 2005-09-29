@@ -1,20 +1,4 @@
-Lov nr. 73 af 1. februar 1995 indeholder følgende ikrafttrædelsesbestemmelse:
-
-§ 3
-
-Stk. 1. Loven træder i kraft den 31. januar 1995, jf. dog stk. 2 og 3.
-
-Stk. 2. (Udelades)
-
-Stk. 3. Reguleringen af de i § 3, § 4, stk. 1, § 7, stk. 3, og § 13, stk. 1, 2. pkt., i erstatningsansvarsloven nævnte beløb sker første gang den 1. april 1995 med udgangspunkt i de beløb, som er fastsat med virkning for skader, der indtræder i perioden 1. april 1994 - 31. marts 1995.
-
-Lov nr. 349 af 23. maj 1997 indeholder følgende ikrafttrædelsesbestemmelse:
-
-§ 4
-
-Loven træder i kraft den 1. juni 1997.
-
-Lov nr. 463 af 7. juni 2001 indeholder følgende ikrafttrædelsesbestemmelser mv.:
+Lov nr. 463 af 7. juni 2001 (Revision af regler om erstatning for personskade mv. samt nedsættelse af afgiften af ansvarsforsikringer for motorkøretøjer mv.) indeholder følgende ikrafttrædelsesbestemmelser mv.:
 
 § 4
 
@@ -26,6 +10,20 @@ Stk. 3. (Udelades)
 
 Stk. 4. (Udelades)
 
-§ 5
+Lov nr. 35 af 21. januar 2003 (Godtgørelse til efterladte ved dødsfald) indeholder følgende ikrafttrædelsesbestemmelse:
 
-En forsikringstager kan ikke opsige en forsikringsaftale på grund af en forhøjelse af præmien, som alene er begrundet med den ændring af størrelsen af erstatning for personskade og tab af forsørger, der er en følge af denne lov.
+§ 3
+
+Loven træder i kraft dagen efter bekendtgørelsen i Lovtidende og finder anvendelse på erstatningsansvar for skader, der indtræder efter lovens ikrafttræden.
+
+Lov nr. 434 af 10. juni 2003 (Nye regler i forsikringsaftaleloven om begrundelsespligt, lempelsesregel ved afgivelse af urigtige oplysninger, præmiebetaling, vejledning om acontobetaling og direkte krav ved skadevolders konkurs mv. samt ændring af rentesatsen i visse formueretlige love) indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 4
+
+Stk. 1. (Udelades)
+
+Stk. 2. (Udelades)
+
+Stk. 3. Lovens § 1, nr. 6, og § 2 træder i kraft den 1. juli 2003 og gælder for rente af krav, der kan kræves betalt denne dato eller senere.
+
+Stk. 4. (Udelades)
