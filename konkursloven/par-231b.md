@@ -1,0 +1,1 @@
+§ 231 b. Såfremt en skyldners gæld ikke i det væsentlige stammer fra erhvervsmæssig virksomhed, kan skyldneren kun under særlige omstændigheder meddeles gældssanering på andre betingelser og vilkår, end hvad der følger af reglerne om gældssanering efter kapitel 25-28.
