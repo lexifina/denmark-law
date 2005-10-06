@@ -1,3 +1,1 @@
-§ 475 h. Om salær og godtgørelse for udlæg til beskikkede advokater gælder samme regler som i tilfælde, hvor der er meddelt fri proces, jf. kapitel 31. Retten kan bestemme, at også andre udgifter skal afholdes på denne måde.
-
-Stk. 2. Retten bør kun, når der er særlig anledning dertil, pålægge en part helt eller delvis at betale sagsomkostninger.
+§ 475 h. Udgifter ved bevisførelse i henhold til § 475 e afholdes af statskassen. Retten kan pålægge en part at erstatte disse udgifter helt eller delvis, såfremt det i øvrigt pålægges parten at betale sagsomkostninger.
