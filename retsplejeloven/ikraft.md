@@ -126,7 +126,7 @@ Stk. 3. Justitsministeren fastsætter tidspunktet for ikrafttrædelsen af retspl
 
 Stk. 4. (Udelades)
 
-Lov nr. 456 af 10. juni 2003 om forbrugerklager indeholder følgende ikrafttrædelsesbestemmelse:
+Lov nr. 456 af 10. juni 2003 om forbrugerklager/NREF/SN524/24)/ indeholder følgende ikrafttrædelsesbestemmelse:
 
 § 20
 
@@ -146,52 +146,6 @@ Stk. 2. Retsplejelovens § 41 b som affattet ved denne lovs § 1, nr. 15, og ret
 
 Stk. 3. Retsplejelovens § 41 f, stk. 6, 1. og 3. pkt., som affattet ved denne lovs § 1, nr. 15, finder også anvendelse på dokumenter og udskrifter, der før lovens ikrafttræden er udleveret i medfør af den hidtil gældende bestemmelse i retsplejelovens § 41 a.
 
-Lov nr. 216 af 31. marts 2004 (Pant og udlæg i andelsboliger m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
-
-§ 4
-
-Justitsministeren fastsætter tidspunktet for lovens ikrafttræden.
-
-Lov nr. 218 af 31. marts 2004 (Ændring af strafferammer og bestemmelser om straffastsættelse m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
-
-§ 3
-
-Loven træder i kraft dagen efter bekendtgørelsen i Lovtidende.
-
-Lov nr. 352 af 19. maj 2004 (It-kriminalitet m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
-
-§ 5
-
-Loven træder i kraft den 1. juli 2004.
-
-Lov nr. 443 af 9. juni 2004 (Straffeprocessuelle tvangsindgreb over for børn under den kriminelle lavalder) indeholder følgende ikrafttrædelsesbestemmelse:
-
-§ 2
-
-Loven træder i kraft den 1. juli 2004.
-
-Lov nr. 444 af 9. juni 2004 om politiets virksomhed indeholder følgende ikrafttrædelsesbestemmelse:
-
-§ 25
-
-Loven træder i kraft den 1. august 2004.
-
-Lov nr. 446 af 9. juni 2004 (Regelforenkling på det familieretlige område m.v.) indeholder følgende ikrafttrædelsesbestemmelser:
-
-§ 9
-
-Stk. 1. Loven træder i kraft den 1. oktober 2004, jf. dog §§ 10 og 11.
-
-Stk. 2-7. (Udelades)
-
-§ 10
-
-(Udelades)
-
-§ 11
-
-(Udelades)
-
 Lov nr. 447 af 9. juni 2004 (Digital kommunikation i retsplejen, kendelser med begrænset sagsfremstilling, regler om vidneforvarede m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
 
 § 5
@@ -200,8 +154,68 @@ Stk. 1. Loven træder i kraft efter justitsministerens nærmere bestemmelse. Lov
 
 Stk. 2. (Udelades)
 
-Lov nr. 450 af 9. juni 2004 (Forenklet inkassoproces) indeholder følgende ikrafttrædelsesbestemmelse:
+Lov nr. 1436 af 22. december 2004 (Nedsættelse og omlægning af retsafgifterne i civile retssager) indeholder følgende ikrafttrædelsesbestemmelse:
 
 § 3
 
-Loven træder i kraft den 1. januar 2005.
+Loven træder i kraft den 1. januar 2005 og finder anvendelse i sager, der anlægges eller ankes efter lovens ikrafttræden.
+
+Lov nr. 366 af 24. maj 2005 (Berigelseskriminalitet rettet mod offentlige midler, kriminalitet i juridiske personer, klagebegrænsning og hvidvaskning i spillekasinoer m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 6
+
+Loven træder i kraft den 1. juli 2005, dog træder lovens §§ 4 og 5 i kraft dagen efter bekendtgørelsen i Lovtidende.
+
+Lov nr. 368 af 24. maj 2005 (Underretnings- og formkrav ved justitsministerens pålæg til anklagemyndigheden i straffesager) indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 2
+
+Loven træder i kraft dagen efter bekendtgørelsen i Lovtidende.
+
+Lov nr. 369 af 24. maj 2005 (Udvidelse af dna-profil-registerets persondel, indikationskrav ved legemsundersøgelse m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 3
+
+Stk. 1. Loven træder i kraft dagen efter bekendtgørelsen i Lovtidende.
+
+Stk. 2. (Udelades)
+
+Lov nr. 430 af 6. juni 2005 (Konsekvensændringer som følge af lov om opkrævning og inddrivelse af visse fordringer  samlingen af inddrivelsen i Skatteministeriet) indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 70
+
+Stk. 1. Loven træder i kraft dagen efter bekendtgørelsen i Lovtidende.
+
+Stk. 2. Loven har virkning fra den 1. november 2005, jf. dog stk. 3.
+
+Stk. 3. Afgørelser om inddrivelse, der inden den 1. oktober 2005 er påklaget til de hidtidige administrative klageinstanser, overgår til behandling i Landsskatteretten den 1. januar 2006, hvis de hidtidige klageinstanser ikke har færdigbehandlet klagen inden denne dato.
+
+Lov nr. 431 af 6. juni 2005 (Forenkling, harmonisering og objektivering af reglerne for inddrivelse af gæld til det offentlige m.v. samt mulighed for anvendelse af digitale lønsedler) indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 85
+
+Stk. 1. Loven træder i kraft 1. november 2005, jf. dog stk. 2.
+
+Stk. 2. (Udelades)
+
+Lov nr. 554 af 24. juni 2005 (Sagsomkostninger, retshjælp og fri proces) indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 12
+
+Stk. 1. Lovens § 1, nr. 1, 6, 8, 10, 11, 13-17, 19 og 25, §§ 3-5 og § 7, nr. 3 og 4, træder i kraft den 1. juli 2005. Lovens § 1, nr. 2-5, 7, 9, 12, 18 og 20-24, § 2, § 6, § 7, nr. 1 og 2, og §§ 8-11 træder i kraft den 1. januar 2007.
+
+Stk. 2-4. (Udelades)
+
+Stk. 5. En forsikringstager kan ikke opsige en forsikringsaftale på grund af en forhøjelse af præmien, som alene er begrundet med den ændring af størrelsen af sagsomkostningerne, der er en følge af denne lov.
+
+Lov nr. 558 af 24. juni 2005 (Forbedring af voldtægtsofres retsstilling m.v. og beskikkelse af bistandsadvokat for pårørende til afdøde i straffesager mod politipersonale) indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 2
+
+Loven træder i kraft den 1. juli 2005.
+
+Lov nr. 560 af 24. juni 2005 (Virksomhedspant)/NREF/SN541/41)/ indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 6
+
+Justitsministeren fastsætter tidspunktet for lovens ikrafttræden.

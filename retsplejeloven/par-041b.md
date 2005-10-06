@@ -1,4 +1,4 @@
-§ 41 b. Enhver kan forlange at få udleveret kopi af domme og kendelser.
+§ 41 b. Enhver kan forlange at få udleveret kopi af domme og kendelser samt af beslutninger om sagsomkostninger i borgerlige sager.
 
 Stk. 2. Retten til aktindsigt omfatter ikke
 
