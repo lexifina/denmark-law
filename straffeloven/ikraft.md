@@ -52,20 +52,26 @@ Stk. 2. Forvolder en embedsmand fra en anden medlemsstat skade under udførelse 
 
 Loven træder i kraft den 1. juli 2002.
 
-Lov nr. 218 af 31. marts 2004 (Ændring af strafferammer og bestemmelser om straffastsættelse) indeholder følgende ikrafttrædelsesbestemmelse:
+Lov nr. 364 af 24. maj 2005 (Forældelse, skærpelse af straffen for falske afsonere m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
 
-§ 3
+§ 2
 
-Loven træder i kraft dagen efter bekendtgørelse i Lovtidende.
+Stk. 1. Loven træder i kraft den 1. juli 2005.
 
-Lov nr. 219 af 31. marts 2004 (Tidlig prøveløsladelse af dømte) indeholder følgende ikrafttrædelsesbestemmelse:
+Stk. 2. § 1, nr. 6, træder dog i kraft dagen efter bekendtgørelse i Lovtidende.
 
-§ 3
+Lov nr. 366 af 24. maj 2005 (Berigelseskriminalitet rettet mod offentlige midler, kriminalitet i juridiske personer, klagebegrænsning og hvidvaskning i spillekasinoer m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
 
-Loven træder i kraft den 1. april 2004.
+§ 6
 
-Lov nr. 352 af 19. maj 2004 (IT-kriminalitet mv.) indeholder følgende ikrafttrædelsesbestemmelse:
+Loven træder i kraft den 1. juli 2005
 
-§ 5
+Lov nr. 553 af 24. juni 2005 (Lov om voldgift) indeholder følgende ikrafttrædelsesbestemmelse:
 
-Loven træder i kraft den 1. juli 2004.
+§ 40. Straffelovens § 304 a, som affattet ved denne lovs § 43, nr. 1, træder i kraft dagen efter bekendtgørelsen i Lovtidende.
+
+Lov nr. 559 af 24. juni 2005 (Skærpelse af straffen for uagtsomt manddrab og uagtsom betydelig legemsbeskadigelse i forbindelse med særlig hensynsløs kørsel) indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 2
+
+Loven træder i kraft dagen efter bekendtgørelsen i Lovtidende.
