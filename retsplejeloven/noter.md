@@ -8,31 +8,7 @@ Bestemmelsen i § 156 a træder i kraft efter justitsministerens nærmere bestem
 
 Den angivne ordlyd af § 158 (ændring af nr. 2 og 3 til: nr. 3 og 4) træder i kraft efter justitsministerens nærmere bestemmelse, jf. § 5, stk.1, i lov nr. 447 af 9. juni 2004.
 
-Den angivne ordlyd af § 495, stk.1 (indsættelse af ordene eller andele i andelsboligforeninger eller aktier eller anparter i boligaktieselskaber eller boliganpartsselskaber omfattet af kapitel III i lov om andelsboligforeninger og andre boligfællesskaber), træder i kraft på det tidspunkt, justitsministeren fastsætter, jf. § 4 i lov nr. 216 af 31. marts 2004.
-
-Den angivne ordlyd af § 509, stk. 1 (indsættelse af ordene , jf. dog stk. 2), træder i kraft på det tidspunkt, justitsministeren fastsætter, jf. § 4 i lov nr. 216 af 31. marts 2004.
-
-Justitsministeren fastsætter tidspunktet for ikrafttrædelsen af § 509, stk. 2, jf. § 4 i lov nr. 216 af 31. marts 2004.
-
-Justitsministeren fastsætter tidspunktet for ikrafttrædelsen af § 510, stk. 3, jf. § 4 i lov nr. 216 af 31. marts 2004.
-
-Justitsministeren fastsætter tidspunktet for ikrafttrædelsen af § 518, stk. 4, jf. § 4 i lov nr. 216 af 31. marts 2004.
-
-Den angivne ordlyd af § 520, stk. 2 (indsættelse af ordene eller af en bolig- eller erhvervsenhed omfattet af brugsretten i henhold til en udlagt andel i en andelsboligforening eller en udlagt aktie eller anpart i et boligaktieselskab eller et boliganpartsselskab omfattet af kapitel III i lov om andelsboligforeninger og andre boligfællesskaber), træder i kraft på det tidspunkt, justitsministeren fastsætter, jf. § 4 i lov nr. 216 af 31. marts 2004.
-
-Justitsministeren fastsætter tidspunktet for ikrafttrædelsen af § 525, stk. 4, jf. § 4 i lov nr. 216 af 31. marts 2004.
-
-Den angivne ordlyd af § 526, stk. 5 (indsættelse af ordene , eller for udlæg i andele i andelsboligforeninger m.v., der skal tinglyses efter reglerne i tinglysningslovens kapitel 6 b), træder i kraft på det tidspunkt, justitsministeren fastsætter, jf. § 4 i lov nr. 216 af 31. marts 2004.
-
-Den angivne ordlyd af § 538, stk. 1 (ændring af § 557 til: §§ 557, 559 a og 559 b), træder i kraft på det tidspunkt, justitsministeren fastsætter, jf. § 4 i lov nr. 216 af 31. marts 2004.
-
-Justitsministeren fastsætter tidspunktet for ikrafttrædelsen af § 539, 2. pkt., jf. § 4 i lov nr. 216 af 31. marts 2004.
-
-Justitsministeren fastsætter tidspunktet for ikrafttrædelsen af § 559 a, jf. § 4 i lov nr. 216 af 31. marts 2004.
-
-Justitsministeren fastsætter tidspunktet for ikrafttrædelsen af § 559 b, jf. § 4 i lov nr. 216 af 31. marts 2004.
-
-Justitsministeren fastsætter tidspunktet for ikrafttrædelsen af § 559 c, jf. § 4 i lov nr. 216 af 31. marts 2004.
+Justitsministeren fastsætter tidspunktet for ikrafttrædelsen af § 538 a, stk. 4, jf. § 6 i lov nr. 560 af 24. juni 2005.
 
 Den angivne ordlyd af § 561, stk. 1, 4. pkt., træder i kraft efter justitsministerens nærmere bestemmelse, jf. § 5, stk. 1, i lov nr. 447 af 9. juni 2004.
 
@@ -72,22 +48,34 @@ Lovændringen vedrører § 335 a, nr. 1, og § 361, stk. 1, 1. pkt.
 
 Lovændringen vedrører § 16 a, stk.1, 3. pkt., § 17, stk. 1, § 28 a, stk. 2, § 29, stk. 2 og 4, § 31 b, § 32, stk. 4, § 32 b, stk. 1, overskriften til kapitel 3, § 33, stk. 1, § 35, stk. 5, § 38, § 39, stk. 1, 2. pkt., og stk. 2, kapitel 3 a, § 60, stk. 5, § 102, stk. 2, 1. pkt., § 124, stk. 8, § 173, stk. 2, 3. pkt., § 218 a, § 219, stk. 3, § 219 a, stk. 3 og stk. 5, 1. pkt., § 255 a, § 339 a, § 354, stk. 6, 3. pkt., § 366 a, § 372, stk. 3, § 456, stk. 1, § 477, §§ 729 a-729 d, § 731, stk. 1, litra h, § 741 c, stk. 3, 1. pkt., §§ 745-745 b, § 745 d, stk. 2, § 746, stk. 2, 1. pkt., § 748, stk. 7, § 786, stk. 6, 2. pkt., og stk. 7, 2. pkt., § 836 a, § 839, stk. 2, 2. pkt., § 841, § 895, stk. 1, 4. pkt., § 964, 2. pkt., § 998, stk. 2, 3. pkt., § 1017 d, § 1018 e, stk. 6, § 1019 h, stk. 3, og § 1022.
 
-Lovændringen vedrører § 495, stk. 1, § 509, stk. 1 og 2, § 510, stk. 3, § 518, stk. 4, § 520, stk. 2, § 525, stk. 4, § 526, stk. 5, § 538, stk. 1, § 539, 2. pkt., og §§ 559 a-559 c.
-
-Lovændringen vedrører § 754 a, stk. 1, nr. 3, § 781, stk. 1, nr. 3, § 791 a, stk. 3, nr. 3, og § 791 b, stk. 1, nr. 3.
-
-Bekendtgjort i Lovtidende den 1. april 2004.
-
-Lovændringen vedrører § 720, stk. 2, 2. pkt., og § 786 a.
-
-Lovændringen vedrører § 752, stk. 2, og kapitel 75 b.
-
-Lovændringen vedrører § 108.
-
-Lovændringen vedrører § 478, stk. 1, nr. 2 og 3, § 483 og §§ 535 og 536.
-
 Lovændringen vedrører § 44 a, stk. 4, § 147 g, § 148 a, § 154, stk. 2, § 155, nr. 2, § 156 a, § 158, § 178, stk. 4-10, § 218 b, § 494, stk. 2, sidste pkt., § 497, stk. 3, § 561, stk. 1, 4. pkt., § 587, stk. 1, § 777, § 962, stk. 3, 5. pkt., og § 963, stk. 3, litra a, 2. pkt.
 
 Ikrafttrædelsesbestemmelsens § 1, 2. pkt., vedrører § 44 a, stk. 4, § 147 g, § 178, stk. 4-10, § 218 b, § 494, stk. 2, sidste pkt., § 497, stk. 3, § 587, stk. 1, § 777, § 962, stk. 3, 5. pkt., og § 963, stk. 3, litra a, 2. pkt.
 
-Lovændringen vedrører § 17 a, stk. 3, 1. pkt., kapitel 44 a, § 478, stk. 1, nr. 1, § 481 a, § 488 stk. 2, 1. pkt., og § 501, stk. 2.
+Lovændringen vedrører § 228, stk. 1, 3. pkt.
+
+Lovændringen vedrører § 98, stk. 4, § 110, stk. 2, § 754 a, stk. 1, nr. 3, § 781, stk. 1, nr. 3, § 837, stk. 1, § 1018 e, stk. 1, 4 og 6, og § 1018 f, stk. 1.
+
+Bekendtgjort i Lovtidende den 25. maj 2005. Ikrafttrædelsesbestemmelsen vedrørende lovens § 4 vedrører § 98, stk. 4, § 110, stk. 2, § 754 a, stk. 1, nr. 3, § 781, stk. 1, nr. 3, § 837, stk. 1, § 1018 e, stk. 1, 4 og 6, og § 1018 f, stk. 1.
+
+Lovændringen vedrører § 98, stk. 3, § 99, stk. 2, og § 101, stk. 2.
+
+Bekendtgjort i Lovtidende den 25. maj 2005.
+
+Lovændringen vedrører § 792, stk. 1, nr. 2, § 792 b, stk. 1, § 792 c, stk. 1, og § 792 e, stk. 3, 3. pkt.
+
+Bekendtgjort i Lovtidende den 25. maj 2005.
+
+Lovændringen vedrører § 147 g, stk. 2 og 3, § 997, stk. 1 og 2, og § 1013, stk. 3.
+
+Bekendtgjort i Lovtidende den 7. juni 2005.
+
+Lovændringen vedrører § 147 h.
+
+Lovændringen vedrører § 2 a, stk. 2, nr. 2, § 41 b, stk. 1, kapitel 30, § 336 d, § 368, stk. 5, 1. pkt., § 369, stk. 2, § 391, stk. 1, § 451, § 456 l, § 465, § 474, § 475 h, § 509, stk. 4, og § 1022 a. Disse ændringer er indarbejdet i lovbekendtgørelsen. Lovændringen vedrører endvidere § 22, stk. 2, § 23, stk. 2 og stk. 3, § 25, stk. 2, 2. pkt., § 49, stk. 4, § 54 a, stk. 3, § 128, § 139, stk. 1, § 147 e, stk. 2, § 259, stk. 3, § 260, stk. 6, kapitel 31, § 449, § 500, stk. 2, § 561, stk. 6, 3. pkt., § 741, stk. 1, 2. pkt., § 741 e, § 821 f, stk. 2, og § 995 a. Disse ændringer træder i kraft den 1. januar 2007 og er ikke indarbejdet i lovbekendtgørelsen.
+
+Ikrafttrædelsesbestemmelsens § 12, stk. 1, 1. pkt., vedrører § 2 a, stk. 2, nr. 2, § 41 b, stk. 1, kapitel 30, § 336 d, § 368, stk. 5, 1. pkt., § 369, stk. 2, § 391, stk. 1, § 451, § 456 l, § 465, § 474, § 475 h, § 509, stk. 4, og § 1022 a.
+
+Lovændringen vedrører § 741 a, § 741 b, § 741 c, stk. 1 og 2, § 841, stk. 2, og § 1020 e, stk. 2 og 3.
+
+Lovændringen vedrører § 538 a, stk. 4.

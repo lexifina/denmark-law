@@ -4,7 +4,7 @@ Stk. 2. Efter rettens nærmere bestemmelse kan følgende afgørelser træffes af
 
 1) Beslutninger og kendelser, der ikke træffes under domsforhandlingen i domssager,
 
-2) i borgerlige sager domme, hvorved anke afvises, domme i sager, hvor indstævnte møder uden at rejse indsigelse, og domme, hvorved der alene tages stilling til spørgsmål om sagsomkostninger og processuelle straffe, og
+2) i borgerlige sager domme, hvorved anke afvises, domme i sager, hvor indstævnte møder uden at rejse indsigelse, og domme, hvorved der alene tages stilling til spørgsmål om sagsomkostninger, og
 
 3) domme i kæresager.
 

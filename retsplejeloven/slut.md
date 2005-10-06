@@ -1,4 +1,4 @@
-Justitsministeriet, den 21. september 2004
+Justitsministeriet, den 27. september 2005
 
 Lene Espersen
 
@@ -6,7 +6,7 @@ Lene Espersen
 
 Bilag 1
 
-## INDHOLDSFORTEGNELSE
+INDHOLDSFORTEGNELSE
 
 Første bog. Domsmagten m.m.
 
@@ -52,7 +52,7 @@ Kap. 11. | ;....................................................................
 
 Sjette afsnit. Advokater
 
-Kap. 12. | Beskikkelse som advokat - Udøvelse af advokatvirksomhed ........................................................................ | §§ | 119-130
+Kap. 12. | Beskikkelse som advokat - Udøvelse af advokatvirksomhed ...................................................... | §§ | 119-130
 
 Kap. 13. | Advokaternes møderet for domstolene - Autoriserede advokatfuldmægtige ...................................................... | §§ | 131-136
 
@@ -62,7 +62,7 @@ Kap. 15. | Advokatsamfundet og Advokatnævnet .......................... | §§ 
 
 Kap. 15 a. | Salærklager .................................................................. | §§ | 146- 147 a
 
-Kap. 15 b. | Disciplinærsager ........................................................... | §§ | 147 b- 147 g
+Kap. 15 b. | Disciplinærsager ........................................................... | §§ | 147 b-147 h
 
 Anden bog. Fælles bestemmelser for borgerlige sager og straffesager
 
@@ -96,13 +96,13 @@ Kap. 26. | Forligsmægling .....................................................
 
 Kap. 27. | (Ophævet)
 
-Kap. 28. | Om parternes og tredjemands forpligtelse til at fremlægge synbare bevismidler .............................. | §§ | 298-301
+Kap. 28. | Om parternes og tredjemands forpligtelse til at fremlægge synbare bevismidler ...................................... | §§ | 298-301
 
 Kap. 29. | Afhøring af parter ......................................................... | §§ | 302-305
 
-Kap. 30. | Sagsomkostninger og rettergangsbøder ......................... | §§ | 311-329
+Kap. 30. | Sagsomkostninger ........................................................ | §§ | 311-322
 
-Kap. 31. | Fri proces .................................................................... | §§ | 330-336 c
+Kap. 31. | Fri proces .................................................................... | §§ | 330-336 d
 
 Andet afsnit. Rettergangsmåden
 
@@ -136,7 +136,7 @@ Kap. 43 a. | Prøvelse af administrativt bestemt frihedsberøvelse ........ | §
 
 Kap. 43 b. | Prøvelse af beslutning om adoption uden samtykke ........ | §§ | 475 a-475 i
 
-Kap. 44. | Fremgangsmåden ved at erhverve mortifikations- eller ejendomsdom ....................................................... | §§ | 476-477
+Kap. 44. | Fremgangsmåden ved at erhverve mortifikations- eller ejendomsdom ............................................................... | §§ | 476-477
 
 Tredje afsnit. Betalingspåkrav
 
@@ -146,7 +146,7 @@ Fjerde afsnit. Tvangsfuldbyrdelse
 
 Kap. 45. | Grundlaget for tvangsfuldbyrdelse ................................. | §§ | 478-486
 
-Kap. 46. | Fremgangsmåden ved udlæg og tvangsfuldbyrdelse af andre krav end pengekrav ......................................... | §§ | 487-505
+Kap. 46. | Fremgangsmåden ved udlæg og tvangsfuldbyrdelse af andre krav end pengekrav ............................................ | §§ | 487-505
 
 Kap. 47. | Udlæggets genstand og retsvirkninger ............................ | §§ | 507-527
 
