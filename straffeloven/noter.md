@@ -6,10 +6,16 @@ Lovændringen vedrører § 7, § 8, § 21, § 23, § 31, § 32, § 33, § 34, §
 
 Lovændringen vedrører § 158, stk. 1, 1. pkt.
 
-Lovændringen vedrører § 33, § 80, § 81, § 82, § 83, § 84, § 85, § 87, § 91, § 100, § 109, § 110, § 110 a, § 110 c, 110 e, § 113, § 114 d, § 117, § 119, § 123, § 124, § 125 a, § 130, § 132 a, § 133, § 136, § 137, § 138, § 140, § 141, § 143, §144, § 145, § 146, § 147, § 149, § 151, § 152, § 154, § 155, § 157, § 161, § 164, § 164 a, § 165, § 166, § 168, § 176, § 178, § 179, § 182, § 183 a, § 184, § 185, § 186, § 187, § 188, § 189, § 190, § 191, § 192, § 194, § 202, § 206, § 227, § 230, § 232, § 233, § 235, § 240, § 241, § 249, § 250, § 251, § 253, § 261, § 262, § 264, § 265, § 266, § 266 a, § 266 b, § 267, § 267 a, § 268, § 275 a, § 286, § 288, § 290, § 293 a og § 300.
+Lovændringen vedrører § 93, § 93 a, § 94, § 97 a og § 164.
 
-Loven er kundgjort i Lovtidende den 1. april 2004.
+Loven er kundgjort i Lovtidende den 25. maj 2005.
 
-Lovændringen vedrører § 40 og § 40 a.
+Lovændringen vedrører § 76 a, § 270, § 289, § 289 a, § 296, § 297 og § 302.
 
-Lovændringen vedrører § 153, § 169 a, § 171, § 172, § 175, § 193, § 263, § 263 a, § 264 c, § 286, § 291, § 293, § 299 a, § 299 b, § 301, § 301 a og § 305.
+Lovændringen vedrører § 304 a.
+
+Loven er kundgjort i Lovtidende den 25. juni 2005.
+
+Lovændringen vedrører § 241 og § 249.
+
+Loven er kundgjort i Lovtidende den 25. juni 2005.

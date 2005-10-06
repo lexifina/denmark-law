@@ -1,8 +1,8 @@
-Justitsministeriet, den 21. september 2004
+Justitsministeriet, den 27. september 2005
 
 Lene Espersen
 
-/Anne Kristine Axelsson
+/Helle Hübertz Krogsøe
 
 Bilag 1
 
