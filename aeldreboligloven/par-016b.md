@@ -1,11 +1,7 @@
 § 16 b. (Ophævet)
 
-Kapitel 3 a
+## Kapitel 3 a
 
-Servicearealer
+## Servicearealer
 
 (Ophævet)
-
-## Kapitel 4
-
-Udlejning, lejefastsættelse

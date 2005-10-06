@@ -1,0 +1,1 @@
+Ved kongelig resolution af 27. november og 4. december 2001 er det hidtidige By- og Boligministerium nedlagt og de under dette ministerium hørende forretninger vedrørende lov om boliger for ældre og personer med handicap er overført til Økonomi- og Erhvervsministeriet.
