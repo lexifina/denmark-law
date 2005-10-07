@@ -1,0 +1,1 @@
+§ 5 a. Fonden skal udveksle oplysninger med offentlige myndigheder og domstole i andre medlemsstater af EU og EØS samt disse staters garantiinstitutioner, når oplysningerne har betydning for afgørelser om udbetaling og inddrivelse.
