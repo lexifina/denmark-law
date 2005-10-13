@@ -1,20 +1,18 @@
-Givet på Christiansborg Slot, den 30. juni 1993
+Miljøministeriet, den 28. september 2005
 
-Under Vor Kongelige Hånd og Segl
+Connie Hedegaard
 
-MARGRETHE R.
-
-/Svend Auken
+/Karsten Skov
 
 Bilag 1
 
-Forhold, der skal vurderes i forbindelse med behandling af en ansøgning om tilladelse til klapning:
+## Forhold, der skal vurderes i forbindelse med behandling af en ansøgning om tilladelse til klapning:
 
-A. Beskrivelse af klapmaterialet:
+## A. Beskrivelse af klapmaterialet:
 
 1. Mængde og art af det materiale, hvortil der søges tilladelse til klapning.
 
-2. Indhold af de i bilag 1 anførte stoffer og materialer.
+2. Indhold af de i bilag 2 anførte stoffer og materialer.
 
 3. Klapmaterialets fysiske, kemiske, biokemiske og biologiske egenskaber.
 
@@ -30,7 +28,7 @@ A. Beskrivelse af klapmaterialet:
 
 9. Generelt skal det overvejes, om der er tilstrækkelig videnskabeligt grundlag med hensyn til karakterisering og sammensætning af klapmaterialet til at kunne vurdere dumpningens påvirkning af livet i havet og over for den menneskelige sundhed.
 
-B. Beskrivelse af klapplads og klapmetode:
+## B. Beskrivelse af klapplads og klapmetode:
 
 1. Geografisk position, dybde og afstand fra kyst.
 
@@ -48,7 +46,7 @@ B. Beskrivelse af klapplads og klapmetode:
 
 8. Generelt skal det overvejes, om der er tilstrækkelig videnskabeligt grundlag for en vurdering af følgerne af den ansøgte klapning.
 
-C. Almindelige overvejelser og betingelser:
+## C. Almindelige overvejelser og betingelser:
 
 1. Mulige indvirkninger på rekreative værdier (f.eks. forekomst af flydende eller strandet materiale, uklarhed, dårlig lugt, misfarvning og skumning).
 
@@ -60,9 +58,7 @@ C. Almindelige overvejelser og betingelser:
 
 Bilag 2
 
-Følgende stoffer og materialer må kun forefindes i klapmateriale
-
-i uvæsentlige mængder og koncentrationer:
+## Følgende stoffer og materialer må kun forefindes i klapmateriale i uvæsentlige mængder og koncentrationer:
 
 1. Kviksølv og kviksølvforbindelser.
 
