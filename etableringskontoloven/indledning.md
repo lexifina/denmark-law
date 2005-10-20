@@ -1,3 +1,3 @@
 Bekendtgørelse af lov om indskud på etableringskonto
 
-Herved bekendtgøres lov om indskud på etableringskonto, jf. lovbekendtgørelse nr. 722 af 27. august 2002, med de ændringer og tilføjelser, der følger af § 4 i lov nr. 394 af 28. maj 2003, § 429 i lov nr. 453 af 10. juni 2003 og § 1 i lov nr. 151 af 15. marts 2004.
+Herved bekendtgøres lov om indskud på etableringskonto, jf. lovbekendtgørelse nr. 996 af 8. oktober 2004, med de ændringer og tilføjelser, der følger af § 4 i lov nr. 425 af 6. juni 2005 og § 20 i lov nr. 428 af 6. juni 2005.
