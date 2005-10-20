@@ -1,7 +1,5 @@
-Justitsministeriet, den 15. september 1986
+Familiestyrelsen, den 10. oktober 2005
 
-Erik Ninn-Hansen
+Dorrit Sylvest Nielsen
 
-/M. Levy
-
-(* 1) Nu en af de godkendte forvaltningsafdelinger.
+/Lars Thøgersen
