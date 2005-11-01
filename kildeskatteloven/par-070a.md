@@ -1,0 +1,1 @@
+§ 70 A. Skatteministeren kan bestemme, at der for erindringsskrivelser, tilsigelser til udlægsforretninger og afgørelser om indeholdelse i løn m.v. udstedt af restanceinddrivelsesmyndigheden vedrørende ikke rettidigt betalt foreløbig skat efter § 50 og restskatter efter §§ 61 og 62 A skal betales gebyr til restanceinddrivelsesmyndigheden. Gebyret kan højst udgøre 250 kr.
