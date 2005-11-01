@@ -1,1 +1,1 @@
-§ 73 D. Skatteministeren kan i øvrigt, når forholdene i ganske særlig grad taler derfor, eftergive eller meddele henstand med skatter, som personer, selskaber, foreninger m.v. er pålignet eller har skullet indeholde. § 73 C, 2. pkt., finder tilsvarende anvendelse i disse situationer.
+§ 73 D. 21) 23) Told- og skatteforvaltningen kan i øvrigt, når forholdene i ganske særlig grad taler derfor, eftergive eller meddele henstand med skatter, som personer, selskaber, foreninger m.v. er pålignet eller har skullet indeholde.
