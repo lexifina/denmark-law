@@ -45,3 +45,25 @@ Lov nr. 1032 af 17. december 2002, som ændrer lovens § 9, indeholder følgende
 Stk. 1. Loven træder i kraft den 1. januar 2003 og har virkning første gang for de kompensationsbeløb, der skulle have været udbetalt på grundlag af ATP-bidrag, der er modtaget i perioden 23. februar  22. maj 2003.
 
 Stk. 2. ATPs Ankenævn kan efter de hidtidige regler behandle sager om beregning og udbetaling af kompensationsbeløb efter § 17 a.
+
+Lov nr. 322 af 18. maj 2005, som ændrer lovens § 1, 2, 3 og 7, indsætter § 5 a samt fodnote til lovens titel, indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 2
+
+Loven træder i kraft den 7. oktober 2005 og har virkning for tilfælde, hvor fristdagen eller det tidspunkt, der efter fondens bestemmelse træder i stedet for fristdagen, indtræder efter lovens ikrafttrædelse.
+
+Lov nr. 430 af 6. juni 2005, som ændrer lovens § 12 a, indeholder følgende ikrafttrædelsesbestemmelser:
+
+§ 70
+
+Stk. 1. Loven træder i kraft dagen efter bekendtgørelsen i Lovtidende.
+
+Stk. 2. Loven har virkning fra den 1. november 2005, jf. dog stk. 3.
+
+Stk. 3. Afgørelser om inddrivelse, der inden den 1. oktober 2005 er påklaget til de hidtidige administrative klageinstanser, overgår til behandling i Landsskatteretten den 1. januar 2006, hvis de hidtidige klageinstanser ikke har færdigbehandlet klagen inden denne dato.
+
+Lov nr. 431 af 6. juni 2005, som indsætter lovens § 12 b, indeholder følgende ikrafttrædelsesbestemmelser:
+
+§ 85
+
+Stk. 1. Loven træder i kraft den 1. november 2005.

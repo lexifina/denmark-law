@@ -1,3 +1,3 @@
 Bekendtgørelse af lov om Lønmodtagernes Garantifond
 
-Herved bekendtgøres lov om Lønmodtagernes Garantifond, jf. lovbekendtgørelse nr. 1114 af 12. december 1996 med de ændringer, der følger af lov nr. 1080 af 29. december 1999, § 1 i lov nr. 249 af 8. maj 2002 og § 2 i lov nr. 1032 af 17. december 2002.
+Herved bekendtgøres lov om Lønmodtagernes Garantifond, jf. lovbekendtgørelse nr. 994 af 7. oktober 2004 med de ændringer, der følger af lov nr. 322 af 18. maj 2005, § 5 i lov nr. 430 af 6. juni 2005 og § 5 i lov nr. 431 af 6. juni 2005.
