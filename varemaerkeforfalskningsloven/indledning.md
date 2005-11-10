@@ -1,3 +1,3 @@
-Lov om anvendelse af Det Europæiske Fællesskabs forordning om foranstaltninger med henblik på at forbyde overgang til fri omsætning, udførsel, genudførsel og henførsel under en suspensionsprocedure af varemærkeforfalskede og piratkopierede varer
+Bekendtgørelse af lov om anvendelse af Det Europæiske Fællesskabs forordning om toldmyndighedernes indgriben over for varer, der mistænkes for at krænke visse intellektuelle ejendomsrettigheder, og om de foranstaltninger, som skal træffes over for varer, der krænker sådanne rettigheder
 
-VI MARGRETHE DEN ANDEN, af Guds Nåde Danmarks Dronning, gør vitterligt: Folketinget har vedtaget og Vi ved Vort samtykke stadfæstet følgende lov:
+Herved bekendtgøres lov nr. 1091 af 20. december 1995, om anvendelse af Det Europæiske Fællesskabs forordning om toldmyndighedernes indgriben over for varer, der mistænkes for at krænke visse intellektuelle ejendomsrettigheder, og om de foranstaltninger, som skal træffes over for varer, der krænker sådanne rettigheder, med de ændringer, der følger af lov nr. 942 af 20. december 1999, lov nr. 1029 af 22. november 2000, lov nr. 461 af 9. juni 2004 og lov nr. 428 af 6. juni 2005.
