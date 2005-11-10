@@ -1,9 +1,5 @@
-Givet på Christiansborg Slot, den 20. december 1995
+Told- og Skattestyrelsen, den 20. oktober 2005
 
-Under Vor Kongelige Hånd og Segl
+Ole Kjær
 
-MARGRETHE R.
-
-/ Carsten Koch
-
-Ingen
+/Ulla Trolle
