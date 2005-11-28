@@ -1,7 +1,5 @@
-Handelsministeriet, den 1. maj 1979
+Energistyrelsen, den 18. november 2005
 
-Arne Christiansen
+Ib Larsen
 
-/N. A. Gadegaard
-
-(* 1) Ikke trådt i kraft, jfr. § 2 i lov nr. 654 af 21. december 1977, der gengives i bekendtgørelsens slutning.
+/Hanne Windemuller
