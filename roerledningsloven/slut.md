@@ -1,9 +1,5 @@
-Givet på Christiansborg slot, den 10. juni 1981
+Energistyrelsen, den 18. november 2005
 
-Under Vor Kongelige Hånd og Segl
+Ib Larsen
 
-MARGRETHE R.
-
-/POUL NIELSON
-
-Ingen
+/Hanne Windemuller
