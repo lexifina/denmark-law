@@ -1,7 +1,5 @@
-Givet på Marselisborg Slot, den 27. december 2003
+Socialministeriet, den 7. december 2005
 
-Under Vor Kongelige Hånd og Segl
+P.M.V. Thomas Børner
 
-Margrethe R.
-
-/Bendt Bendtsen
+/Aksel Meyer
