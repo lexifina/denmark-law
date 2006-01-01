@@ -1,0 +1,1 @@
+§ 7 a. Der sker endvidere afgiftsfritagelse, når en oplagshaver leverer varer til de i toldlovens § 4 omhandlede diplomatiske repræsentationer, internationale institutioner m.v. og de dertil knyttede personer.
