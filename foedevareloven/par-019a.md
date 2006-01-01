@@ -1,0 +1,9 @@
+§ 19 a. Den, som forsætligt eller uagtsomt krænker en intellektuel ejendomsrettighed inden for lovens område, skal betale
+
+1) et rimeligt vederlag til den forurettede for udnyttelsen og
+
+2) en erstatning til den forurettede for den yderligere skade, som overtrædelsen har medført.
+
+Stk. 2. Ved fastsættelse af erstatning efter stk. 1, nr. 2, skal der tages hensyn til bl.a. den forurettedes tabte fortjeneste og krænkerens uberettigede fortjeneste.
+
+Stk. 3. I sager, der omfattes af stk. 1, kan der derudover fastsættes en godtgørelse til den forurettede for ikkeøkonomisk skade.
