@@ -1,0 +1,1 @@
+§ 26 d. Bestemmelserne i §§ 26 a-26 c finder tilsvarende anvendelse ved krænkelser af plantenyheder, der er beskyttet i medfør af Rådets Forordning (EF) 2100/94 af 27. juli 1994 om EF-sortsbeskyttelse.
