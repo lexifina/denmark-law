@@ -10,6 +10,10 @@ Stk. 5. Efter udløbet af en opgørelsesperiode foretager virksomheden en endeli
 
 Stk. 6. Tilbagebetalingsbeløbet anføres på virksomhedens angivelser efter merværdiafgiftsloven. Beløbet angives i hele kroner, idet der bortses fra ørebeløb.
 
-Stk. 7. Tilbagebetalingen sker ved, at virksomheden foretager modregning i sit afgiftstilsvar efter merværdiafgiftsloven. I det omfang tilbagebetalingen ikke kan ske ved modregning, udbetales beløbet til virksomheden efter de i merværdiafgiftslovens § 63 anførte regler.
+Stk. 7. Tilbagebetalingen sker ved, at virksomheden foretager modregning i sit afgiftstilsvar efter merværdiafgiftsloven. I det omfang tilbagebetalingen ikke kan ske ved modregning, udbetales beløbet til virksomheden efter reglerne i § 12 i lov om opkrævning af skatter og afgifter m.v.
 
-Stk. 8. 5) Virksomheder, der leverer elektricitet og varme, skal mindst én gang årligt afgive de oplysninger, der er nødvendige ved opgørelsen af afgiften efter § 11, stk. 14. Skatteministeren kan fastsætte de nærmere regler herom.
+Stk. 8. Virksomheder, der leverer elektricitet og varme, skal mindst én gang årligt afgive de oplysninger, der er nødvendige ved opgørelsen af afgiften efter § 11, stk. 16. Skatteministeren kan fastsætte de nærmere regler herom.
+
+Stk. 9. 11) For virksomheder med et årligt energiforbrug inden for samme lokalitet på under 100.000 kWh elektricitet eller under 4.000 GJ varme, kan tilbagebetaling af afgift af elektricitet og kuldioxidafgift ske på baggrund af acontofakturering af afgift, før de leverancer af elektricitet eller varme, for hvilke der skal ske tilbagebetaling af afgift, har fundet sted. For andre virksomheder kan der ikke ske tilbagebetaling af afgift, før leverancen har fundet sted.
+
+Stk. 10. Såfremt tilbagebetalingsbeløbet opgøres på baggrund af fakturaer og lignende fra andre end registrerede virksomheder, kan told- og skatteforvaltningen bestemme, at der kun kan medtages fakturaer og lignende, hvor afgiften er forfaldet, jf. § 2, stk. 4, i lov om opkrævning af skatter og afgifter m.v.
