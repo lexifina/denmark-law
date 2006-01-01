@@ -1,0 +1,1 @@
+§ 13 G. 3)9) Aktieavancebeskatningslovens § 27, om forhøjelse af anskaffelsessummen ved manglende effektiv udbetaling af et udlodningspligtigt beløb fra en udloddende investeringsforening gælder for livsforsikringsselskaber, selv om den udloddende forening ikke er et investeringsinstitut i henhold til rådets direktiv nr. 85/611/EØF (UCITS-direktivet).
