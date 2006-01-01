@@ -1,0 +1,1 @@
+§ 14 a. Kulturministeren kan yde driftstilskud til statsanerkendte museer til dækning af nedgang i entréindtægter m.v. i forbindelse med indførelse af gratis adgang for børn og unge under 18 år, jf. § 14, stk. 1, nr. 15.
