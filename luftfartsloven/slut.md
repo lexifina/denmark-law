@@ -1,5 +1,7 @@
-Trafikministeriet, den 13. juni 2001
+Transport- og Energiministeriet, den 19. december 2005
 
-Jacob Buksti
+Flemming Hansen
 
-/Niels Remmer
+/Susanne Isaksen
+
+Bilag
