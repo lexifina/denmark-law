@@ -1,1 +1,1 @@
-§ 97. Luftfragtbrevet skal indeholde angivelse af:
+§ 97. Luftfragtbrevet skal indeholde angivelse af
