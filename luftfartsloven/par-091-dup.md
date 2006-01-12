@@ -1,1 +1,1 @@
-§ 91. Bestemmelserne i dette kapitel finder ikke anvendelse på postbefordring.
+§ 91. Bestemmelserne finder ikke anvendelse på postbefordring.

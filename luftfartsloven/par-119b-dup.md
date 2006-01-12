@@ -1,3 +1,1 @@
-## Befordring, der udføres af en anden befordrer end den, der har indgået befordringsaftalen
-
-§ 119 b. Bestemmelserne i §§ 119 b- 119 f gælder, hvor befordringen helt eller delvis udføres af en anden befordrer end den, der har indgået befordringsaftalen, medmindre det bevises, at dette er sket uden sidstnævntes samtykke.
+§ 119 b. Ved anvendelse af reglerne i dette bilag anses såvel den, der har indgået befordringsaftalen, som den, der udfører befordringen, som befordrere, den førstnævnte, for så vidt angår hele befordringen, og den sidstnævnte, for så vidt angår den del af befordringen, den pågældende udfører.

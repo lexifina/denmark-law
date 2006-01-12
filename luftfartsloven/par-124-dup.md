@@ -1,1 +1,1 @@
-§ 124. Ved Warszawa-konventionen forstås i denne lov den i Warszawa den 12. oktober 1929 afsluttede overenskomst om international luftbefordring, således som denne er ændret ved den i Haag den 28. september 1955 undertegnede protokol.
+§ 124. Bestemmelserne i dette bilag finder ikke anvendelse på international luftbefordring, som udføres i henhold til reservation foretaget i overensstemmelse med tillægsprotokol til artikel 2 i Warszawa-konventionen af 12. oktober 1929 eller med artikel XXVI i Haag-protokollen af 28. september 1955.

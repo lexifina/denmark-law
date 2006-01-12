@@ -1,1 +1,1 @@
-§ 123. Trafikministeren kan, for så vidt angår indenrigs luftfart, hvor mellemlanding uden for riget ikke er aftalt,*) gøre undtagelse fra de i § 92, stk. 1, § 92 a, stk. 1, § 93, stk. 1 og § 97 indeholdte bestemmelser om billetter, rejsegodsbeviser og luftfragtbreve.
+§ 123. Ved Warszawa-konventionen forstås i denne lov den i Warszawa den 12. oktober 1929 afsluttede overenskomst om international luftbefordring, således som denne er ændret ved den i Haag den 28. september 1955 undertegnede protokol.
