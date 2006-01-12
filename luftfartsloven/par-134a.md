@@ -1,0 +1,1 @@
+§ 134 a. Havarikommissionen undersøger endvidere ulykker og hændelser på jernbaneområdet, jf. lov om jernbane. Havarikommissionen benævnes herefter Havarikommissionen for Civil Luftfart og Jernbane (Havarikommissionen).
