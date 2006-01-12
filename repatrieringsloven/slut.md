@@ -1,5 +1,5 @@
-Ministeriet for Flygtninge, Indvandrere og Integration, den 15. januar 2004
+Ministeriet for Flygtninge, Indvandrere og Integration, den 5. januar 2006
 
-Bertel Haarder
+Rikke Hvilshøj
 
-/Peter S. Willadsen
+/Susanne S. Clausen
