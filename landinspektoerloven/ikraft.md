@@ -29,3 +29,7 @@ Stk. 2. Uanset § 1, nr. 3 og 6, og § 2, nr. 6, kan også Kort- og Matrikelstyr
 4) fuldførelsen af igangværende opgaver.
 
 Stk. 3. Kort- og Matrikelstyrelsen kan fastsætte regler om opkrævning og betaling for matrikulære arbejder, som matrikelmyndigheden udfører i Sønderjylland efter stk. 2. Betaling kan kræves forud.
+
+Lov nr. 1405 af 21. december 2005 § 2 indeholder følgende bestemmelse:
+
+§ 2. Loven træder i kraft den 1. april 2006.
