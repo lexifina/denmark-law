@@ -1,0 +1,1 @@
+§ 4 d. Udfører en landinspektør matrikulære arbejder eller andre arbejder, som landinspektører efter lovgivningen har eneret til at udføre, uden at være forsikret i overensstemmelse med reglen i § 4 c, stk. 1, eller reglerne fastsat i medfør af § 4 c, stk. 2, kan miljøministeren nedlægge forbud mod, at landinspektøren fortsat udfører sådanne arbejder.
