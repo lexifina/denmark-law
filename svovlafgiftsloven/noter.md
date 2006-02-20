@@ -1,17 +1,23 @@
-1) Lov nr. 1101 af 20. december 1995 om ændring af forskellige energiafgiftslove m.v. (Ændringer til proceslisten i CO2-afgiftsloven m.v.) trådte i kraft den 10. august 1996 og har virkning fra den 1. januar 1996, jf. bekendtgørelse nr. 727 af 2. august 1996. Henvisningen i § 6, stk. 4, skal rettelig være til § 2, stk. 3.
+1) Bemærkninger om bestemmelser vedtaget siden den seneste lovbekendtgørelse og som ikke længere gælder, er ikke medtaget i noterne.
 
-2) Lov nr. 1102 af 20. december 1995 om ændring af forskellige energiafgiftslove m.v. (Afgiftstekniske ændringer m.v.) trådte i kraft den 1. januar 1996. Henvisningen i lovbekendtgørelsens § 9, stk. 9. 2. pkt., skal rettelig være til stk. 1 og 7.
+7) Ændring af § 1, nr. 14, § 2, stk. 3, ophævelse af § 2, stk. 4, (stk. 5-7, bliver stk. 4-6), ændring af § 6, stk. 4, § 9, stk. 6, og indsættelse af nyt stk. 7 i § 33, trådte i kraft den 1. juli 2002, jf. lov nr. 393 af 6. juni 2002.
 
-3) Lov nr. 1220 af 27. december 1996 om ændring af forskellige energiafgiftslove m.v. (Lempelse af raffinaderiers betaling af afgift, lempelse for vækstlys m.v.) trådte i kraft den 1. januar 1997. Reglerne i lovens § 3, nr. 5-9 vedrørende bundfradrag (jf. lovbekendtgørelsens § 32, stk. 2 og 5 og § 33, stk. 2, 4, og 5) trådte dog først i kraft den 1. oktober 1997, jf. bekg. nr. 755 af 24. september 1997.
+12) Ændring af § 6, stk. 1, 2. pkt., og indsættelse af nyt stk. 4 i § 8, trådte i kraft den 23. december 2005 og har virkning fra den 1. juni 2005, jf. lov nr. 1417 af 21. december 2005.
 
-4) Lov nr. 444 af 10. juni 1997 om ændring af forskellige energiafgiftslove m.v. (Justering af rumvarmeafgiften m.v.) trådte i kraft den 12. juni 1997.
+6) Ændringen af § 8, stk. 2, nr. 2, trådte i kraft den 1. april 2001, jf. lov nr. 1297 af 20. december 2000.
 
-5) Lov nr. 1098 af 29. december 1997 (Ændret klagestruktur) trådte i kraft den 1. april 1998.
+11) Ændringen af § 9, stk. 7, trådte i kraft den 23. december 2005 og har virkning fra og med den 1. januar 2006, jf. lov nr. 1414 af 21. december 2005.
 
-6) Lov nr. 437 af 26. juni 1998 trådte i kraft den 1. juli 1998.
+4) Ændring af § 11, ophævelse af §§ 12, 13, 15 og 16, ændring af § 14, § 18, stk. 2, stk. 4, ophævelse af stk. 5 og 8 (stk. 6 og 7 bliver stk. 5 og 6), ændring af stk. 7, nu stk. 6, ændring af § 23, § 24, stk. 3, ophævelse af § 24, stk. 2, 3. pkt., ændring af § 27, § 29, stk. 1, nr. 2, 3 og 5, og § 30, trådte i kraft den 1. januar 2001, jf. lov nr. 165 af 15. marts 2000.
 
-Skatteministeriet, den 17. september 1998
+2) Ændring af § 19, stk. 1 og 6, indsættelse af § 19, stk. 7, og ændring af § 20, stk. 2, trådte i kraft den 4. juni 1999, jf. lov nr. 380 af 2. juni 1999.
 
-Ole Stavad
+10) Overalt i loven ændres »de statslige told- og skattemyndigheder« til: »told- og skatteforvaltningen«, ændring af § 19, stk. 3 og 7, ophævelse af § 22 og § 22 a, trådte i kraft den 8. juni 2005 og har virkning fra den 1. november 2005, jf. lov nr. 428 af 6. juni 2005.
 
-/John Fuhrmann
+5) Ændringen af § 29, stk. 3, trådte i kraft den 1. juli 2001, jf. lov nr. 1029 af 22. november 2000.
+
+9) Ændringen af § 29, stk. 3, trådte i kraft den 20. maj 2005, jf. lov nr. 325 af 18. maj 2005.
+
+8) Ændring af § 33, stk. 1, 3 og 7, har virkning fra den 1. november 2005, jf. lov nr. 464 af 9. juni 2004. (Mangler skatteministerens ikrafttræden – den gældende formulering af § 33, stk. 1, lyder således: »§ 33. For varer omfattet af § 1, stk. 1, nr. 5-7, med et afgiftspligtigt svovlindhold, der anvendes af registrerede virksomheder til formål nævnt i proceslisten til lov om ændring af lov om kuldioxidafgift af visse energiprodukter og lov om fremskyndet tilbagebetaling af visse afgifter. (Ændring af reglerne for tilbagebetaling), og hvor virksomheden har indgået aftale efter lov om ændring af lov om statstilskud til dækning af udgifter til kuldioxidafgift i visse virksomheder med et stort energiforbrug. (Aftaler om energieffektivisering m.v.), og hvis ovn- eller kedelanlæg er bygget eller renoveret for mindst 10 mio. kr. i perioden fra 1. januar 1976 til 1. april 1995, ydes der et særligt bundfradrag, der svarer til forskellen mellem bundfradraget for det pågældende brændsel i 1996 og det for det aktuelle år gældende almindelige bundfradrag for det pågældende brændsel efter § 32, stk. 1. For år 2000 og frem udgør det for det pågældende år gældende almindelige bundfradrag 0.«Den gældende formulering af § 33, stk. 3, lyder således: »Stk. 3. For varer omfattet af § 1, nr. 2, med et afgiftspligtigt svovlindhold ydes i perioden fra lovens ikrafttræden til 31. december 2005 et særligt bundfradrag på 0,55 vægtpct. af varens vægt eksklusive vand for virksomheder registreret efter § 3 til formål nævnt i bilag til lov om kuldioxidafgift af visse energiprodukter bortset fra formål nævnt i bilagets nr. 1 og 28, og hvor virksomheden har indgået aftale efter lov om statstilskud til dækning af kuldioxidafgift i visse virksomheder med et stort energiforbrug. Det særlige bundfradrag for varer omfattet af § 1, nr. 2, med et afgiftspligtigt svovlindhold kan overføres til andre ovn- eller kedelanlæg inden for samme geografiske område, men kan ikke overføres til andre brændsler uanset stk. 4 og 5.«Den gældende formulering af § 33, stk. 7, lyder således: »Stk. 7. Til virksomheder, der fra kraftvarmeværker og hertil knyttede blokvarmecentraler får leveret varme, som omfattes af § 1, stk. 1, nr. 2 eller 5-7, og hvor den til virksomheden fakturerede og af virksomheden betalte svovlafgift af den til brug for leverancen medgåede mængde brændsel kan dokumenteres og udgør mindst 250.000 kr. pr. år, ydes en godtgørelse svarende til det særlige bundfradrag efter stk. 1 for varer omfattet af § 1, stk. 1, nr. 5-7, og efter stk. 3 for varer omfattet af § 1, stk. 1, nr. 2, når anvendelsen sker til formål nævnt i proceslisten til kuldioxidafgiftsloven, og når virksomheden har indgået en aftale efter lov om ændring af lov om statstilskud til dækning af udgifter til kuldioxidafgift i visse virksomheder med et stort energiforbrug (aftaler om energieffektivisering m.v.). Leveres varmen kun i en del af året, nedsættes grænsen på 250.000 kr. forholdsmæssigt.«
+
+3) Indsættelsen af § 34, stk. 1, 3. pkt., trådte i kraft den 1. juli 1999, jf. lov nr. 390 af 2. juni 1999.
