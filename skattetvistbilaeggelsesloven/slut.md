@@ -1,9 +1,5 @@
-Givet på Christiansborg Slot, den 27. november 1991
+Skatteministeriet, den 21. februar 2006
 
-Under Vor Kongelige Hånd og Segl
+P.M.V. Peter Loft
 
-MARGRETHE R.
-
-/ Anders Fogh Rasmussen
-
-Ingen
+/Kaj-Henrik Ludolph
