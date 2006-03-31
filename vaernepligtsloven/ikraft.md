@@ -41,3 +41,13 @@ Stk. 2. (Overgangsbestemmelse, udeladt).
 Lov nr. 1208 af 27. december 2003 indeholder følgende ikrafttrædelsesbestemmelse:
 
 § 2. Loven træder i kraft den 1. januar 2004.
+
+Lov nr. 69 af 4. februar 2004 indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 21. Loven træder i kraft den 1. juli 2004.
+
+Lov nr. 1391 af 21. december 2005 indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 3. Loven træder i kraft den 1. januar 2006.
+
+Stk. 2. (Overgangsbestemmelse, udeladt).

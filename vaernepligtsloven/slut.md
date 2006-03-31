@@ -1,5 +1,5 @@
-Indenrigs- og Sundhedsministeriet, den 12. december 2003
+Forsvarsministeriet, den 13. marts 2006
 
-Lars Løkke Rasmussen
+Søren Gade
 
-/E. H. Petersen
+/Peter Wass
