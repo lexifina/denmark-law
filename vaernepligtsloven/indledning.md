@@ -1,3 +1,3 @@
 Bekendtgørelse af værnepligtsloven
 
-Herved bekendtgøres værnepligtsloven, jf. lovbekendtgørelse nr. 470 af 17. juni 2002, med de ændringer, der følger af lov nr. 1208 af 27. december 2003.
+Herved bekendtgøres værnepligtsloven, jf. lovbekendtgørelse nr. 1242 af 12. december 2003, med de ændringer, der følger af § 19 i lov nr. 69 af 4. februar 2004 og § 1 i lov nr. 1391 af 21. december 2005.
