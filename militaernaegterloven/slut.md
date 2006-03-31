@@ -1,5 +1,5 @@
-Indenrigsministeriet, den 23. december 1998
+Forsvarsministeriet, den 13. marts 2006
 
-Thorkild Simonsen
+Søren Gade
 
-/E. H. Petersen
+/Peter Wass
