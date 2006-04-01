@@ -1,0 +1,1 @@
+Loven indeholder bestemmelser, der implementerer artikel 3 i Rådets direktiv nr. 96/34/EF af 3. juni 1996 om den rammeaftale vedrørende forældreorlov, der er indgået af UNICE, CEEP og EFS (EF-Tidende 1996 nr. L 145, side 4), som ændret ved Rådets direktiv 97/75/EF af 15. december 1997 (EF-Tidende 1998 nr. L 10, side 24).
