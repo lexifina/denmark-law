@@ -1,0 +1,1 @@
+Loven indeholder bestemmelser, der gennemfører Europa-Parlamentets og Rådets direktiv 2004/23/EF af 31. marts 2004 om fastsættelse af standarder for kvaliteten og sikkerheden ved donation, udtagning, testning, behandling, præservering, opbevaring og distribution af humane væv og celler (EF-Tidende 2004, nr. L 102, side 48).
