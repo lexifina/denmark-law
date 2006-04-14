@@ -1,7 +1,5 @@
-Givet på Christiansborg Slot, den 28. maj 2003
+Ministeriet for Videnskab, Teknologi og Udvikling, den 21. marts 2006
 
-Under Vor Kongelige Hånd og Segl
+Helge Sander
 
-MARGRETHE R.
-
-/Helge Sander
+/René Bugge Bertramsen
