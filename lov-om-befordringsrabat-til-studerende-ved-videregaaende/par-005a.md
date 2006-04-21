@@ -1,0 +1,1 @@
+§ 5 a. Styrelsen kan til de transportansvarlige, der er nævnt i § 4, stk. 1, videregive oplysninger om den uddannelsessøgende, der er nødvendige for at yde rabat. Styrelsen kan stille de nævnte oplysninger elektronisk til rådighed for de transportansvarlige.
