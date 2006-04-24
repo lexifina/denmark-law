@@ -1,5 +1,3 @@
 Bekendtgørelse af lov om afgift af naturgas og bygas
 
-Herved bekendtgøres lov nr. 419 af 14. juni 1995 om afgift af naturgas og bygas med de ændringer, der følger af § 4 i lov nr. 1101 af 20. december 1995 og § 1 i lov nr. 1102 af 20. december 1995.
-
-Afgiftspligtigt område og afgiftens størrelse
+Herved bekendtgøres lov om afgift af naturgas og bygas, jf. lovbekendtgørelse nr. 887 af 3. oktober 1996, med de ændringer, der følger af § 1 i lov nr. 443 af 10. juni 1997, § 3 i lov nr. 444 af 10. juni 1997, § 2 i lov nr. 450 af 10. juni 1997, § 16 i lov nr. 1098 af 29. december 1997, § 4 i lov nr. 435 af 26. juni 1998, §§ 2 og 3 i lov nr. 437 af 26. juni 1998, lov nr. 1028 af 23. december 1998, § 2 i lov nr. 325 af 28. maj 1999, § 18 i lov nr. 380 af 2. juni 1999, § 3 i lov nr. 390 af 2. juni 1999, § 1 i lov nr. 945 af 20. december 1999, lov nr. 957 af 20. december 1999, § 2 i lov nr. 960 af 20. december 1999, § 2 i lov nr. 963 af 20. december 1999, § 32 i lov nr. 165 af 15. marts 2000, § 17 i lov nr. 1029 af 22. november 2000, lov nr. 1289 af 20. december 2000, § 2 i lov nr. 1297 af 20. december 2000, § 2 i lov nr. 393 af 6. juni 2002, § 2 i lov nr. 462 af 9. juni 2004, § 18 i lov nr. 325 af 18. maj 2005, § 28 i lov nr. 428 af 6. juni 2005, § 3 i lov nr. 1416 af 21. december 2005 og § 3 i lov nr. 1417 af 21. december 2005.
