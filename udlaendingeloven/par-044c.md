@@ -1,0 +1,1 @@
+§ 44 c. Kommunalbestyrelsen underretter Udlændingestyrelsen om sager, hvor kommunalbestyrelsen har kendskab til eller begrundet mistanke om, at børn sendes på genopdragelsesrejser eller andre længerevarende udlandsophold af negativ betydning for deres skolegang og integration.
