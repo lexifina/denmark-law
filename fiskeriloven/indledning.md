@@ -1,3 +1,3 @@
 Bekendtgørelse af fiskerilov
 
-Herved bekendtgøres lov nr. 281 af 12. maj 1999, fiskerilov, med de ændringer, der følger af § 10 i lov nr. 466 af 7. juni 2001, § 48 i lov nr. 145 af 25. marts 2002, lov nr. 369 af 6. juni 2002 og lov nr. 1158 af 19. december 2003.
+Herved bekendtgøres fiskerilov, jf. lovbekendtgørelse nr. 828 af 31. juli 2004, med de ændringer, der følger af lov nr. 1428 af 22. december 2004, § 2 i lov nr. 366 af 24. maj 2005, lov nr. 406 af 1. juni 2005 og § 47 i lov nr. 431 af 6. juni 2005. Ændringerne, der følger af § 1 i lov nr. 536 af 24. juni 2005, er ikke medtaget.
