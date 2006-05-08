@@ -1,5 +1,5 @@
-Kirkeministeriet, den 29. juni 2004
+Kirkeministeriet, den 28. april 2006
 
-Tove Fergo
+Bertel Haarder
 
 /Pernille Esdahl
