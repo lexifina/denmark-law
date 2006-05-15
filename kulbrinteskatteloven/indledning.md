@@ -1,3 +1,5 @@
-Bekendtgørelse af lov om beskatning af indkomst i forbindelse med kulbrinteindvinding i Danmark (kulbrinteskatteloven)
+Bekendtgørelse af lov om beskatning af indkomst i forbindelse med kulbrinteindvinding i Danmark
 
-Herved bekendtgøres lov om beskatning af indkomst i forbindelse med kulbrinteindvinding i Danmark (kulbrinteskatteloven), jf. lovbekendtgørelse nr. 739 af 20. november 1987, med de ændringer, der følger af § 17 i lov nr. 59 af 7. februar 1990, § 4 i lov nr. 217 af 10. april 1991, § 2 i lov nr. 895 af 21. december 1991, § 2 i lov nr. 344 af 14. maj 1992, § 3 i lov nr. 1021 af 19. december 1992 og § 5 i lov nr. 480 af 30. juni 1993. Lovbekendtgørelsen gælder først fuldt ud fra den 1. januar 1994, jf. note 6.
+(kulbrinteskatteloven)
+
+Herved bekendtgøres lov om beskatning af indkomst i forbindelse med kulbrinteindvinding i Danmark (kulbrinteskatteloven), jf. lovbekendtgørelse nr. 792 af 29. september 1993, med de ændringer, der følger af § 12 i lov nr. 374 af 18. maj 1994, § 11 i lov nr. 313 af 17. maj 1995, § 21 i lov nr. 1223 af 27. december 1996, § 8 i lov nr. 434 af 26. juni 1998, § 7 i lov nr. 910 af 16. december 1998, § 6 i lov nr. 313 af 21. maj 2002, § 1 i lov nr. 1216 af 27. december 2003, § 5 i lov nr. 221 af 31. marts 2004, § 9 i lov nr. 458 af 9. juni 2004, § 8 i lov nr. 425 af 6. juni 2005 og § 37 i lov nr. 428 af 6. juni 2005.
