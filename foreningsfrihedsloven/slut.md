@@ -1,7 +1,7 @@
-Arbejdsministeriet, den 13. juni 1990
+Beskæftigelsesministeriet, den 8. maj 2006
 
-Knud Erik Kirkegaard
+Claus Hjort Frederiksen
 
-/ E. Edelberg
+/E. Edelberg
 
-Ingen
+Lov nr. 359 af 26. april 2006 blev bekendtgjort i Lovtidende den 28. april 2006

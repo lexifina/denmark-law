@@ -1,3 +1,3 @@
-Bekendtgørelse af lov om beskyttelse mod afskedigelse på grund af foreningsforhold Foreningsfrihedsloven
+Bekendtgørelse af Lov om foreningsfrihed på arbejdsmarkedet
 
-Herved bekendtgøres lov nr. 285 af 9. juni 1982 om beskyttelse mod afskedigelse på grund af foreningsforhold med de ændringer, der følger af lov nr. 347 af 29. maj 1990:
+Herved bekendtgøres Lov om foreningsfrihed på arbejdsmarkedet, jf. lovbekendtgørelse nr. 443 af 13. juni 1990 med de ændringer, der følger af lov nr. 359 af 26. april 2006.
