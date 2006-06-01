@@ -1,0 +1,7 @@
+§ 24 b. En udlænding kan udvises betinget, hvis der ikke findes at være fuldt tilstrækkeligt grundlag for at udvise den pågældende efter §§ 22-24, fordi udvisning må antages at virke særlig belastende, jf. § 26, stk. 1.
+
+Stk. 2. Ved betinget udvisning skal der fastsættes en prøvetid. Prøvetiden beregnes fra tidspunktet for endelig dom i sagen eller, hvis den pågældende ikke har været til stede ved domsafsigelsen, fra dommens forkyndelse og udløber 2 år efter tidspunktet for løsladelse eller udskrivning fra hospital eller forvaring eller fra ophør af ophold i en sikret afdeling på en døgninstitution for børn og unge. Er betinget udvisning sket ved betinget dom om frihedsberøvelse eller dom til ambulant behandling med mulighed for frihedsberøvelse, udløber prøvetiden 2 år efter tidspunktet for endelig dom i sagen eller, hvis den pågældende ikke har været til stede ved domsafsigelsen, 2 år efter dommens forkyndelse.
+
+Stk. 3. En udlænding, der er idømt betinget udvisning efter stk. 1, kan udvises, hvis den pågældende i prøvetiden for den betingede udvisning begår nyt strafbart forhold, som kan give anledning til udvisning efter §§ 22-24, og der inden prøvetidens udløb foretages rettergangsskridt, medmindre en afgørelse om udvisning må antages at virke særlig belastende, jf. § 26, stk. 1.
+
+Stk. 4. Udvises en udlænding betinget, skal retten i forbindelse med dommens afsigelse vejlede udlændingen om betydningen heraf.

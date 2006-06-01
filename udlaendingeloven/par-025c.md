@@ -1,0 +1,1 @@
+§ 25 c. En udlænding med opholdstilladelse efter § 9 f kan uden for de i §§ 22-24 nævnte tilfælde udvises, hvis udlændingen er dømt for overtrædelse af bestemmelser i straffelovens kapitel 12 og 13 eller straffelovens §§ 136, 140, 266, 266 a eller 266 b.
