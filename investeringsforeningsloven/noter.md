@@ -1,3 +1,5 @@
-Denne lovbekendtgørelse indeholder bemærkninger om ikrafttrædelses- og overgangsbestemmelser for love, der er vedtaget i Folketingsåret 2003-2004.
+Denne lovbekendtgørelse indeholder bemærkninger om ikrafttrædelses- og overgangsbestemmelser for love, der er vedtaget af Folketinget i folketingsåret 2005-06.
 
-Indsættelse af ny § 17, stk. 2, i den her anførte affattelse, træder i kraft den 11. juni 2004 og har virkning fra og med det regnskabsår, som lov om beskatning af medlemmer af kontoførende investeringsforeninger har virkning fra, jf. § 20, stk. 2 og 4, i lov nr. 231 af 2. april 2003 om beskatning af medlemmer af kontoførende investeringsforeninger, jf. § 8, stk. 14, i lov nr. 457 af 9. juni 2004.
+§ 5 i den her anførte affattelse trådte i kraft den 23. december 2005 og har virkning for regnskabsår i foreningen, der begynder i 2006 eller senere, jf. § 28, stk. 1 og 4, i lov nr. 1414 af 21. december 2005.
+
+§ 18, 1. pkt., i den her anførte affattelse trådte i kraft den 23. december 2005 og har virkning fra og med 1. januar 2006, jf. § 28, stk. 1, i lov nr. 1414 af 21. december 2005.
