@@ -1,0 +1,3 @@
+§ 64 B. § 64 A, stk. 1, jf. stk. 3, finder også anvendelse på de forskelsbeløb vedrørende kalenderåret 1989, som pr. 1. januar 2007 er overført til regionerne ved § 12, stk. 4, i bekendtgørelse om fordeling af aktiver og passiver, rettigheder og pligter og ansatte som følge af opgaveflytninger den 1. januar 2007 i forbindelse med kommunalreformen.
+
+Stk. 2. § 64 A, stk. 2, jf. stk. 3, finder også anvendelse på de forskelsbeløb vedrørende kalenderåret 1990, som pr. 1. januar 2007 er overført til regionerne ved § 12, stk. 3, i bekendtgørelse om fordeling af aktiver og passiver, rettigheder og pligter og ansatte som følge af opgaveflytninger den 1. januar 2007 i forbindelse med kommunalreformen.

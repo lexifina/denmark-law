@@ -1,1 +1,1 @@
-§ 73 C. 23) Reglerne i § 73 B finder tilsvarende anvendelse på personers indkomstskat til staten, amtskommunal indkomstskat, kommunal indkomstskat, kommunal og amtskommunal ejendomsværdiskat samt kirkelige afgifter.
+§ 73 C. (Ophævet)
