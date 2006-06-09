@@ -5,3 +5,5 @@
 2) Når en af de i nr. 1 nævnte fonde fusionerer med et datterselskab, der er omfattet af selskabsskattelovens § 1, stk. 1, nr. 1, og den modtagende fond besidder samtlige aktier eller anparter i det indskydende selskab.
 
 3) Ved fusion af foreninger omfattet af fondsbeskatningsloven.
+
+Ved fusion og ved spaltning af kommunale og amtskommunale feriefonde oprettet i henhold til ferielovens § 36, stk. 3, når fusionen eller spaltningen sker i medfør af kommunalreformen.

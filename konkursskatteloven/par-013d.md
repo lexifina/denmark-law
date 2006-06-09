@@ -2,4 +2,4 @@
 
 Stk. 2. I boer for hvilke skifteretten har truffet beslutning om insolvensbehandling, påhviler pligten til at indgive selvangivelser, jf. stk. 1, bobestyreren.
 
-Stk. 3. Skatten af konkursindkomsten betales efter de regler, der gælder for indkomstskatten i det indkomstår, hvori insolvensbehandlingen sluttes. 1/3 af skatten afregnes til den primærkommune, der er berettiget til kommunal indkomstskat for det pågældende år, mens resten tilfalder staten. Ved eventuel nedsættelse eller ved eventuel uerholdelighed af skatten fordeles tabet mellem staten og kommunen i samme forhold.
+Stk. 3. Skatten af konkursindkomsten betales efter de regler, der gælder for indkomstskatten i det indkomstår, hvori insolvensbehandlingen sluttes.
