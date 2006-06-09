@@ -1,0 +1,3 @@
+§ 88 a. Hovedstadens Sygehusfællesskab foretager inden den 1. juli 2006 på grundlag af Københavns og Frederiksberg Kommuners faktiske forbrug af sygehusfællesskabets ydelser i henhold til sygehusfællesskabets regnskab for 2005 en beregning af den endelige fordeling mellem Københavns og Frederiksberg Kommuner af kommunernes bidrag til sygehusfællesskabets drift i 2005. Den af kommunerne, hvis acontobetalinger overstiger kommunens andel i forhold til beregningen, modtager et beløb af den anden kommune til udligning af forskellen.
+
+Stk. 2. Region Hovedstaden foretager inden den 1. juli 2007 på grundlag af sygehusfællesskabets regnskab for 2006 en beregning svarende til stk. 1, 1. pkt. Stk. 1, 2. pkt., finder tilsvarende anvendelse.
