@@ -8,13 +8,13 @@ Stk. 4. Ansøgning om opholdstilladelse efter stk. 2 kan kun indgives af en udl�
 
 Stk. 5. Der kan efter ansøgning gives opholdstilladelse til en udlænding, der er statsborger i Estland, Letland, Litauen, Polen, Slovakiet, Slovenien, Tjekkiet eller Ungarn,
 
-1) hvis den pågældende har indgået aftale eller fået tilbud om ordinær fuldtidsansættelse hos en herværende arbejdsgiver i henhold til en hos arbejdsgiveren gældende dansk overenskomst, der vedrører det pågældende arbejde, og hvor der som aftalepart på lønmodtagersiden mindst er tale om en lokal fagforening, som er medlem af en landsdækkende lønmodtagerorganisation,
+1) hvis den pågældende har indgået aftale eller fået tilbud om ordinær beskæftigelse mindst 30 timer om ugen hos en herværende arbejdsgiver i henhold til en hos arbejdsgiveren gældende dansk overenskomst, der vedrører det pågældende arbejde, og hvor der som aftalepart på lønmodtagersiden mindst er tale om en lokal fagforening, som er medlem af en landsdækkende lønmodtagerorganisation,
 
-2) hvis den pågældende på et arbejdsområde, hvor løn- og ansættelsesvilkårene sædvanligvis alene er reguleret i en individuel ansættelseskontrakt, har indgået aftale eller fået tilbud om ordinær fuldtidsansættelse hos en herværende arbejdsgiver som forsker, underviser, funktionær i en ledende stilling eller specialist m.v., eller
+2) hvis den pågældende på et arbejdsområde, hvor løn- og ansættelsesvilkårene sædvanligvis alene er reguleret i en individuel ansættelseskontrakt, har indgået aftale eller fået tilbud om ordinær beskæftigelse mindst 30 timer om ugen hos en herværende arbejdsgiver som forsker, underviser, funktionær i en ledende stilling eller specialist m.v., eller
 
-3) hvis den pågældende uden for de i nr. 1 og 2 nævnte tilfælde har indgået aftale eller fået tilbud om ordinær fuldtidsansættelse hos en herværende arbejdsgiver på sædvanlige løn- og ansættelsesvilkår.
+3) hvis den pågældende uden for de i nr. 1 og 2 nævnte tilfælde har indgået aftale eller fået tilbud om ordinær beskæftigelse mindst 30 timer om ugen hos en herværende arbejdsgiver på sædvanlige løn- og ansættelsesvilkår.
 
-Stk. 6. Opholdstilladelse efter stk. 5 skal betinges af, at den herværende arbejdsgiver er registreret hos de statslige told- og skattemyndigheder som indeholdelsespligtig efter kildeskatteloven. Udlændingestyrelsen kan indhente oplysning herom fra skattemyndighederne. Oplysningerne kan indhentes i elektronisk form.
+Stk. 6. Opholdstilladelse efter stk. 5 skal betinges af, at den herværende arbejdsgiver er registreret hos told- og skatteforvaltningen som indeholdelsespligtig efter kildeskatteloven. Udlændingestyrelsen kan indhente oplysning herom fra told- og skatteforvaltningen. Oplysningerne kan indhentes i elektronisk form.
 
 Stk. 7. Opholdstilladelse efter stk. 5 kan ikke gives, såfremt den herværende arbejdsgiver er omfattet af strejke, lockout eller blokade. Dette gælder dog ikke, hvis konflikten er kendt overenskomststridig eller på anden måde retsstridig.
 
@@ -24,7 +24,17 @@ Stk. 9. I sager vedrørende opholdstilladelse efter stk. 5, nr. 3, afgiver den h
 
 Stk. 10. Det regionale arbejdsmarkedsråd afgiver efter anmodning fra Udlændingestyrelsen en udtalelse om, hvorvidt de i stk. 1, 2, 5 eller 8 angivne betingelser efter det regionale arbejdsmarkedsråds opfattelse er opfyldt. Udtalelsen kan indhentes i elektronisk form.
 
-Stk. 11. Udlændingestyrelsen videregiver uden udlændingens samtykke oplysning om meddelelse af opholdstilladelse efter stk. 5 til det regionale arbejdsmarkedsråd. Udlændingestyrelsen kan i den forbindelse, herunder i elektronisk form, videregive følgende oplysninger:
+Stk. 11. Hvis en herværende arbejdsgiver har indgået en gældende dansk overenskomst, hvor der som aftalepart på lønmodtagersiden mindst er tale om en lokal fagforening, som er medlem af en landsdækkende lønmodtagerorganisation, jf. stk. 5, nr. 1, kan Udlændingestyrelsen godkende, at arbejdsgiveren ansætter statsborgere fra Estland, Letland, Litauen, Polen, Slovakiet, Slovenien, Tjekkiet eller Ungarn til at udføre nærmere angivne arbejdsfunktioner inden for overenskomstens dækningsområde efter en anmeldelse af ansættelsesforholdet til Udlændingestyrelsen. Stk. 6 og 7 finder tilsvarende anvendelse.
+
+Stk. 12. Udlændingestyrelsen kan godkende, at en herværende arbejdsgiver, der har indgået en overenskomst som nævnt i stk. 11, ansætter statsborgere fra Estland, Letland, Litauen, Polen, Slovakiet, Slovenien, Tjekkiet eller Ungarn i stillinger som omhandlet i stk. 5, nr. 2, efter en anmeldelse af ansættelsesforholdet til Udlændingestyrelsen. Det er en betingelse, at virksomheden har dokumenteret, at der er tale om arbejdsfunktioner, som falder inden for de omhandlede stillingskategorier. Stk. 6 og 7 finder tilsvarende anvendelse.
+
+Stk. 13. En udlænding, der er statsborger i Estland, Letland, Litauen, Polen, Slovakiet, Slovenien, Tjekkiet eller Ungarn, og som har indgået aftale eller fået tilbud om ansættelse under vilkår som nævnt i stk. 5, nr. 1 eller 2, hos en arbejdsgiver godkendt efter stk. 11 eller 12, opnår ved anmeldelse til Udlændingestyrelsen ret til ophold og arbejde i tiden, indtil Udlændingestyrelsen har taget stilling til, om udlændingen kan meddeles opholdstilladelse. Opholdstilladelse skal mod forevisning af legitimation afhentes af udlændingen inden 30 dage efter, at meddelelse om, at udlændingen har opnået opholdstilladelse, er sendt til udlændingen.
+
+Stk. 14. En anmeldelse efter stk. 13 skal underskrives af arbejdsgiver og arbejdstager og indeholde oplysninger som nævnt i stk. 16, nr. 1-5.
+
+Stk. 15. Udlændingestyrelsen kan inddrage en godkendelse meddelt efter stk. 11 eller 12, hvis godkendelsen er opnået ved svig, hvis betingelserne for godkendelsen ikke længere er til stede, eller hvis vilkårene for godkendelsen ikke overholdes. Udlændingestyrelsen kan til brug for en afgørelse efter 1. pkt. indhente en udtalelse fra det regionale arbejdsmarkedsråd. Udtalelsen kan indhentes i elektronisk form.
+
+Stk. 16. Udlændingestyrelsen videregiver uden udlændingens samtykke oplysning om meddelelse af opholdstilladelse efter stk. 5 og 13 til det regionale arbejdsmarkedsråd. Udlændingestyrelsen kan i den forbindelse, herunder i elektronisk form, videregive følgende oplysninger:
 
 1) Lønmodtagerens navn.
 
@@ -35,3 +45,7 @@ Stk. 11. Udlændingestyrelsen videregiver uden udlændingens samtykke oplysning 
 4) Ansættelsesforholdets begyndelsestidspunkt og dets forventede varighed, hvis der ikke er tale om tidsubestemt ansættelse.
 
 5) Den normale daglige eller ugentlige arbejdstid.
+
+Stk. 17. Ministeren for flygtninge, indvandrere og integration kan fastsætte regler om, at de i stk. 11-16 nævnte regler tillige gælder for arbejdsgivere, der ikke har indgået en gældende dansk overenskomst, hvor der som aftalepart på lønmodtagersiden mindst er tale om en lokal fagforening, som er medlem af en landsdækkende lønmodtagerorganisation, jf. stk. 5, nr. 1.
+
+Stk. 18. Ministeren for flygtninge, indvandrere og integration kan fastsætte regler om, at statsborgere fra Estland, Letland, Litauen, Polen, Slovakiet, Slovenien, Tjekkiet eller Ungarn på særlige områder er fritaget for krav om opholds- og arbejdstilladelse som nævnt i stk. 5.
