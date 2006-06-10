@@ -1,1 +1,9 @@
-§ 114 b. Den, som i øvrigt ved tilskyndelse, råd eller dåd medvirker til at fremme den kriminelle virksomhed eller det fælles formål for en gruppe eller sammenslutning, som foretager en eller flere handlinger omfattet af § 114 eller § 114 a, nr. 1 eller 2, når virksomheden eller formålet indebærer, at en eller flere handlinger af denne karakter begås, straffes med fængsel indtil 6 år.
+§ 114 b. Med fængsel indtil 10 år straffes den, som
+
+1) direkte eller indirekte yder økonomisk støtte til,
+
+2) direkte eller indirekte tilvejebringer eller indsamler midler til eller
+
+3) direkte eller indirekte stiller penge, andre formuegoder eller finansielle eller andre lignende ydelser til rådighed for
+
+en person, en gruppe eller en sammenslutning, der begår eller har til hensigt at begå handlinger omfattet af § 114 eller § 114 a.
