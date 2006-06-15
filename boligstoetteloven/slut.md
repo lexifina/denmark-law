@@ -1,5 +1,5 @@
-Socialministeriet, den 19. januar 2005
+Socialministeriet, den 2. juni 2006
 
-P.M.V Thomas Børner
+P.M.V. Thomas Børner
 
 /Aksel Meyer
