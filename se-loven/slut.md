@@ -1,10 +1,8 @@
-Givet på Amalienborg, den 19. maj 2004
+Økonomi- og Erhvervsministeriet, den 15. juni 2006
 
-Under Vor Kongelige Hånd og Segl
+Bendt Bendtsen
 
-Margrethe R.
-
-/Bendt Bendtsen
+/Ole Blöndal
 
 Bilag 1
 
@@ -14,9 +12,9 @@ RÅDET FOR DEN EUROPÆISKE UNION HAR 
 
 under henvisning til traktaten om oprettelse af Det Europæiske Fællesskab, særlig artikel 308,
 
-under henvisning til forslag fra Kommissionen (1) ,
+under henvisni ng til forslag fra Kommissionen, (1)
 
-under henvisning til udtalelse fra Europa-Parlamentet (2) ,
+under henvisning til udtalelse fra Europa-Parlamentet, (2)
 
 under henvisning til udtalelse fra Det Økonomiske og Sociale Udvalg (3) og
 
@@ -58,7 +56,7 @@ ud fra følgende betragtninger:
 
 (18) Hver medlemsstat skal i tilfælde af overtrædelse af bestemmelserne i denne forordning anvende de sanktioner, der kan pålægges aktieselskaber, som hører under vedkommende medlemsstats lovgivning.
 
-(19) Reglerne for medarbejderindflydelse i SE-selskabet fastsættes ved Rådets direktiv 2001/86/EF af 8. oktober 2001 om fastsættelse af supplerende bestemmelser til SE-statutten , for så vidt angår medarbejderindflydelse (4) . Bestemmelserne i dette direktiv udgør således et supplement til denne forordning, der hænger uløseligt sammen med denne, og skal anvendes med virkning fra samme tidspunkt som forordningen.
+(19) Reglerne for medarbejderindflydelse i SE-selskabet fastsættes ved Rådets direktiv 2001/86/EF af 8. oktober 2001 om fastsættelse af supplerende bestemmelser til SE-statutten, for så vidt angår medarbejderindflydelse (4) . Bestemmelserne i dette direktiv udgør således et supplement til denne forordning, der hænger uløseligt sammen med denne, og skal anvendes med virkning fra samme tidspunkt som forordningen.
 
 (20) Forordningen omfatter ikke andre lovområder som f.eks. skatteret, konkurrenceret , intellektuel ejendomsret, eller insolvens, hvorfor medlemsstaternes lovgivning og fællesskabslovgivningen finder anvendelse på ovennævnte og andre områder, som ikke er omfattet af forordningen.
 
@@ -118,7 +116,7 @@ b) i mindst 2 år har haft et datterselskab, som hører under en anden medlemsst
 
 1. Med henblik på anvendelsen af artikel 2, stk. 1, 2 og 3, betragtes SE-selskabet som et aktieselskab, der hører under lovgivningen i den medlemsstat, hvor SE-selskabet har sit vedtægtsmæssige hjemsted.
 
-2. Et SE-selskab kan selv stifte et eller flere datterselskaber i form af SE-selskaber. Bestemmelser i den medlemsstat, hvor SE-datterselskabet har sit vedtægtsmæssige hjemsted, om, at et aktieselskab skal have mere end én aktionær, gælder ikke for SE-datterselskabet . De nationale bestemmelser, der er vedtaget i overensstemmelse med Rådets tolvte direktiv 89/677/EØF af 21. december 1989 på selskabsrettens område om enkeltmandsselskaber med begrænset ansvar (5) , finder tilsvarende anvendelse på SE-selskaber.
+2. Et SE-selskab kan selv stifte et eller flere datterselskaber i form af SE-selskaber. Bestemmelser i den medlemsstat, hvor SE-datterselskabet har sit vedtægtsmæssige hjemsted, om, at et aktieselskab skal have mere end én aktionær, gælder ikke for SE-datterselskabet. De nationale bestemmelser, der er vedtaget i overensstemmelse med Rådets tolvte direktiv 89/677/EØF af 21. december 1989 på selskabsrettens område om enkeltmandsselskaber med begrænset ansvar (5) , finder tilsvarende anvendelse på SE-selskaber.
 
 ## Artikel 4
 
@@ -226,7 +224,7 @@ Med forbehold af bestemmelserne i denne forordning behandles et SE-selskab i hve
 
 ## Artikel 12
 
-1. Ethvert SE-selskab skal i den medlemsstat, hvori det har sit vedtægtsmæssige hjemsted, optages i det register, der er foreskrevet i denne medlemsstats lovgivning, jf. artikel 3 i Rådets første direktiv 68/151/EØF af 9. marts 1968 om samordning af de garantier, som kræves i medlemsstaterne af de i traktatens artikel 58, stk. 2, nævnte selskaber til beskyttelse af såvel selskabsdeltagernes som tredjemands interesser 6) (6) .
+1. Ethvert SE-selskab skal i den medlemsstat, hvori det har sit vedtægtsmæssige hjemsted, optages i det register, der er foreskrevet i denne medlemsstats lovgivning, jf. artikel 3 i Rådets første direktiv 68/151/EØF af 9. marts 1968 om samordning af de garantier, som kræves i medlemsstaterne af de i traktatens artikel 58, stk. 2, nævnte selskaber til beskyttelse af såvel selskabsdeltagernes som tredjemands interesser 6 (6) .
 
 2. Et SE-selskab kan ikke registreres, medmindre der er indgået en aftale om ordninger for medarbejderindflydelse i henhold til artikel 4 i direktiv 2001/86/EF, eller der er truffet afgørelse i henhold til nævnte direktivs artikel 3, stk. 6, eller forhandlingsperioden i henhold til nævnte direktivs artikel 5 er udløbet, uden at der er indgået nogen aftale.
 
@@ -376,7 +374,7 @@ c) indehavere af andre værdipapirer end aktier, hvortil der er knyttet særlige
 
 1. Fusionen og den samtidige stiftelse af SE-selskabet får virkning fra den dato, hvor SE-selskabet er registreret, jf. artikel 12.
 
-2. SE-selskabet kan først registreres, når alle formaliteterne efter artikel 25 og 26 er afsluttet.
+## 2. SE-selskabet kan først registreres, når alle formaliteterne efter artikel 25 og 26 er afsluttet.
 
 ## Artikel 28
 
@@ -490,7 +488,7 @@ For de selskaber eller andre juridiske personer, som deltager i stiftelsen, find
 
 5. Omdannelsesplanen skal offentliggøres efter reglerne i den enkelte medlemsstats lovgivning, jf. artikel 3 i direktiv 68/151/EØF, mindst en måned inden datoen for den generalforsamling, der skal tage stilling til omdannelsen.
 
-6. Inden generalforsamlingen, jf. stk. 7, attesterer en eller flere uafhængige sagkyndige, som efter de nationale bestemmelser, der er vedtaget i medfør af artikel 10 i direktiv 78/855/EØF, er udpeget eller godkendt af en retslig eller administrativ myndighed i den medlemsstat, som det selskab, der omdannes til et SE-selskab , hører under, at selskabet i overensstemmelse med direktiv 77/91/EØF (8) med de fornødne ændringer faktisk råder over aktiver, som mindst svarer til selskabskapitalen med tillæg af de reserver, som i henhold til loven eller vedtægterne ikke kan uddeles.
+6. Inden generalforsamlingen, jf. stk. 7, attesterer en eller flere uafhængige sagkyndige, som efter de nationale bestemmelser, der er vedtaget i medfør af artikel 10 i direktiv 78/855/EØF, er udpeget eller godkendt af en retslig eller administrativ myndighed i den medlemsstat, som det selskab, der omdannes til et SE-selskab , hører under, at selskabet i overensstemmelse med direktiv 77/91/EØ (8) med de fornødne ændringer faktisk råder over aktiver, som mindst svarer til selskabskapitalen med tillæg af de reserver, som i henhold til loven eller vedtægterne ikke kan uddeles.
 
 7. Generalforsamlingen i det pågældende selskab godkender omdannelsesplanen samt SE-selskabets vedtægter. Generalforsamlingens beslutning skal træffes på de betingelser, der er fastsat i de nationale bestemmelser, jf. artikel 7 i direktiv 78/855/EØF.
 
@@ -696,9 +694,9 @@ Med hensyn til opstilling af årsregnskaber og i givet fald af konsoliderede reg
 
 ## Artikel 62
 
-1. Med hensyn til opstilling af årsregnskaber og i givet fald konsoliderede regnskaber, herunder den dertil knyttede årsberetning, samt revision og offentliggørelse af regnskaberne gælder for de SE-selskaber , som er kreditinstitutter eller finansieringsinstitutter, de samme regler som i lovgivningen i den medlemsstat, hvor hjemstedet er beliggende, i medfør af Europa-Parlamentets og Rådets direktiv 2000/12/EF af 20. marts 2000 om adgang til at optage og udøve virksomhed som kreditinstitut (9) .
+1. Med hensyn til opstilling af årsregnskaber og i givet fald konsoliderede regnskaber, herunder den dertil knyttede årsberetning, samt revision og offentliggørelse af regnskaberne gælder for de SE-selskaber , som er kreditinstitutter eller finansieringsinstitutter, de samme regler som i lovgivningen i den medlemsstat, hvor hjemstedet er beliggende, i medfør af Europa-Parlamentets og Rådets direktiv 2000/12/EF af 20. marts 2000 om adgang til at optage og udøve virksomhed som kreditinstitut. (9)
 
-2. Med hensyn til opstilling af årsregnskaber og i givet fald konsoliderede regnskaber, herunder den dertil knyttede årsberetning, samt revision og offentliggørelse af regnskaberne gælder for de SE-selskaber , som er forsikringsselskaber, de samme regler som i lovgivningen i den medlemsstat, hvor hjemstedet er beliggende, i medfør af Rådets direktiv 91/674/EØF af 19. december 1991 om forsikringsselskabers årsregnskaber og konsoliderede regnskaber (10) .
+2. Med hensyn til opstilling af årsregnskaber og i givet fald konsoliderede regnskaber, herunder den dertil knyttede årsberetning, samt revision og offentliggørelse af regnskaberne gælder for de SE-selskaber , som er forsikringsselskaber, de samme regler som i lovgivningen i den medlemsstat, hvor hjemstedet er beliggende, i medfør af Rådets direktiv 91/674/EØF af 19. december 1991 om forsikringsselskabers årsregnskaber og konsoliderede regnskaber. (10)
 
 ## DEL V OPLØSNING, LIKVIDATION, KONKURSBEHANDLING OG BETALINGSSTANDSNING
 
@@ -771,3 +769,11 @@ d) at tillade, at en medlemsstat i de retsforskrifter, den udsteder i medfør af
 Denne forordning træder i kraft den 8. oktober 2004.
 
 Denne forordning er bindende i alle enkeltheder og gælder umiddelbart i hver medlemsstat.
+
+Udfærdiget i Luxembourg, den 8. oktober 2001.
+
+På Rådets vegne
+
+L. Onkelinx
+
+Formand
