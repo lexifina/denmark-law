@@ -38,7 +38,7 @@ die Aktiengesellschaft
 
 GRÆKENLAND:
 
-ανώνυμη εταιρία
+aíþíõìçåôáñßá
 
 SPANIEN:
 
@@ -50,9 +50,7 @@ la société anonyme
 
 IRLAND:
 
-public companies limited by shares
-
-public companies limited by guarantee having a share capital
+public companies limited by shares public companies limited by guarantee having a share capital
 
 ITALIEN:
 
@@ -112,9 +110,9 @@ die Gesellschaft mit beschränkter Haftung
 
 GRÆKENLAND:
 
-ανώνυμη εταιρία
+aíþíõìçåôáñßá
 
-εταιρία περιορισ μένης ευδ ύνης
+åôáñßáðåñéñéó ìÝíçò åõä ýíçò
 
 SPANIEN:
 
@@ -189,3 +187,5 @@ private companies limited by shares
 private companies limited by guarantee having a share capital.
 
 I lovens bilag gengives Rådets forordning nr. 2157/2001/EF af 8. oktober 2001 om statut for det europæiske selskab (SE) (EF-Tidende af 10. november 2001, nr. L 294 side 1). Herudover anføres i loven bestemmelser om anvendelsen af visse bestemmelser i aktieselskabslovgivningen, som efter forordningens artikel 9, stk. 1, litra c, ii, finder anvendelse på SE-selskaber. Ifølge artikel 249 i EF-traktaten gælder en forordning umiddelbart i hver medlemsstat. Gengivelsen af forordningen i lovens bilag og de anførte bestemmelser er således udelukkende begrundet i praktiske hensyn og berører ikke forordningens umiddelbare gyldighed i Danmark.
+
+Ændringen af § 7 træder i kraft den 18. august, jf. § 22 i lov nr. 454 af 22. maj 2006.
