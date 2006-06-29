@@ -1,0 +1,3 @@
+§ 4 b. Myndigheder og organer som nævnt i § 1, stk. 1 og 2, skal så vidt muligt sikre, at alle oplysninger, der indsamles af eller for dem, er ajourførte, nøjagtige og sammenlignelige.
+
+Stk. 2. Myndigheder og organer som nævnt i § 1, stk. 1 og 2, skal i sager om aktindsigt i miljøoplysninger, der er omfattet af § 3, nr. 2, efter anmodning oplyse, hvis oplysningerne er til rådighed, hvor disse kan findes, om målingsmetoder, herunder fremgangsmåder for analyser, prøveudtagninger og forbehandling af prøver, der er anvendt ved tilvejebringelse af oplysningerne eller henvise til en anvendt standardprocedure.
