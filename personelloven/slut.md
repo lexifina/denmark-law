@@ -1,5 +1,5 @@
-Forsvarsministeriet, den 12. februar 2004
+Forsvarsministeriet, den 20. juni 2006
 
-Svend Aage Jensby
+Søren Gade
 
 /Peter Wass
