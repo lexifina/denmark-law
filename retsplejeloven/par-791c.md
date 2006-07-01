@@ -1,0 +1,9 @@
+§ 791 c. Politiet kan forstyrre eller afbryde radio- eller telekommunikation i et område, hvis der er afgørende grunde til det med henblik på at forebygge, at der i det pågældende område vil blive begået en lovovertrædelse, der efter loven kan straffes med fængsel i 6 år eller derover, eller en forsætlig overtrædelse af straffelovens kapitel 12 eller 13, og som kan medføre fare for menneskers liv eller velfærd eller for betydelige samfundsværdier.
+
+Stk. 2. Indgreb som nævnt i stk. 1 må ikke foretages, såfremt det efter indgrebets formål, sagens betydning og den krænkelse og ulempe, som indgrebet må antages af forvolde den eller de personer, som indgrebet rammer, ville være et uforholdsmæssigt indgreb.
+
+Stk. 3. Indgreb efter stk. 1 sker efter rettens kendelse. I kendelsen anføres det område, som indgrebet angår, og de konkrete omstændigheder i sagen, hvorpå det støttes, at betingelserne for indgrebet er opfyldt. Kendelsen kan til enhver tid omgøres. Endvidere fastsættes det tidsrum, inden for hvilket indgrebet kan foretages. Tidsrummet kan forlænges. Forlængelsen sker ved kendelse.
+
+Stk. 4. Såfremt indgrebets øjemed ville forspildes, dersom retskendelse skulle afventes, kan politiet træffe beslutning om at foretage indgrebet. I så fald skal politiet snarest muligt og senest inden 24 timer fra indgrebets iværksættelse forelægge sagen for retten. Retten afgør ved kendelse, om indgrebet kan godkendes, og om det kan opretholdes, samt i bekræftende fald for hvilket tidsrum, jf. stk. 3, 2. og 4.-6. pkt. Burde indgrebet efter rettens opfattelse ikke have været foretaget, skal retten give meddelelse herom til Justitsministeriet.
+
+Stk. 5. I øvrigt finder reglerne i §§ 784 og 785 tilsvarende anvendelse.
