@@ -1,0 +1,1 @@
+§ 8 a. Forældre, der har udnyttet retten til fravær efter barsellovens §§ 6-14, har ret til at vende tilbage til det samme eller et tilsvarende arbejde med arbejdsvilkår, som ikke er mindre gunstige for dem, og til at nyde godt af enhver forbedring i arbejdsvilkårene, som de ville have været berettiget til under deres fravær.
