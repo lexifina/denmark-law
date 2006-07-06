@@ -1,3 +1,5 @@
 Bekendtgørelse af lov om kommunal indkomstskat
 
-Herved bekendtgøres lov om kommunal indkomstskat, jf. lovbekendtgørelse nr. 770 af 13. oktober 1999, med de ændringer, der følger af lov nr. 1097 af 29. december 1999, § 1 i lov nr. 289 af 28. april 2000, § 5 lov nr. 460 af 31. maj 2000, lov nr. 1086 af 19. december 2001, § 4 i lov nr. 145 af 25. marts 2002, § 4 i lov nr. 1062 af 17. december 2002 og § 2 i lov nr. 61 af 29. januar 2003.
+Herved bekendtgøres lov om kommunal indkomstskat, jf. lovbekendtgørelse nr. 199 af 24. marts 2003, med de ændringer, der følger af § 6 i lov nr. 1386 af 20. december 2004, lov nr. 1430 af 22. december 2004, § 22 i lov nr. 386 af 27. maj 2005, § 6 i lov nr. 425 af 6. juni 2005, § 100 i lov nr. 428 af 6. juni 2005, § 8 i lov nr. 430 af 6. juni 2005, § 4 i lov nr. 549 af 24. juni 2005, § 10 i lov nr. 404 af 8. maj 2006 og lov nr. 495 af 7. juni 2006.
+
+Den bekendtgjorte lovtekst gælder først fuldt ud fra den 1. januar 2007, jf. § 2 i lov nr. 495 af 7. juni 2006, der gengives i bekendtgørelsens slutning.

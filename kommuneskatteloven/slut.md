@@ -1,5 +1,5 @@
-Indenrigs- og Sundhedsministeriet, den 24. marts 2003
+Indenrigs- og Sundhedsministeriet, den 26. juni 2006
 
 Lars Løkke Rasmussen
 
-/Niels Jørgen Mau
+/Søren H. Thomsen
