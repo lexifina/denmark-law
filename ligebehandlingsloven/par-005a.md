@@ -1,0 +1,1 @@
+§ 5 a. Pligt til ligebehandling gælder tillige enhver, der træffer beslutning om medlemskab af og deltagelse i en lønmodtager- eller arbejdsgiverorganisation eller i organisationer, hvis medlemmer udøver et bestemt erhverv, herunder de fordele, sådanne organisationer giver medlemmerne.
