@@ -55,3 +55,15 @@ Stk. 3. Forældre, der overgår til den udvidede barselorlov efter stk. 2, får 
 Stk. 4. Beskæftigelsesministeren fastsætter nærmere regler om overgang fra børnepasningsorlov til barselorlov og modregning af perioder med børnepasningsorlov.
 
 Stk. 5. For børn født før den 1. januar 2002 finder de hidtil gældende regler om barselorlov i lov om ligebehandling af mænd og kvinder med hensyn til beskæftigelse og barselorlov m.v. samt lov om dagpenge ved sygdom eller fødsel fortsat anvendelse.
+
+Lov nr. 1385 af 21. december 2005, som ændrer fodnote til lovens titel, § 1, § 13, § 15 samt indsætter § 1 a, § 5 a, § 8 a og overskrift til kapitel 1, indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 2
+
+Loven træder i kraft dagen efter bekendtgørelsen i Lovtidende.
+
+Lov nr. 566 af 9. juni 2006, som ophæver lovens § 7, § 7 a og § 10 samt ændrer lovens titel, § 8, § 8 a, § 9 og § 16, indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 55
+
+Loven træder i kraft den 3. juli 2006.
