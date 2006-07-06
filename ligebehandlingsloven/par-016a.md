@@ -1,5 +1,1 @@
 § 16 a. Hvis en person, der anser sig for krænket, jf. §§ 2-5, 9 og § 15, stk. 1, påviser faktiske omstændigheder, som giver anledning til at formode, at der er udøvet direkte eller indirekte forskelsbehandling, påhviler det modparten at bevise, at ligebehandlingsprincippet ikke er blevet krænket.
-
-## Kapitel 7
-
-Forskellige bestemmelser
