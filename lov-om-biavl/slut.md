@@ -1,7 +1,5 @@
-Givet på Christiansborg Slot, den 22. maj 2006
+Ministeriet for Fødevarer, Landbrug og Fiskeri, den 29. juni 2006
 
-Under Vor Kongelige Hånd og Segl
+Hans Christian Schmidt
 
-I Dronningens Navn: FREDERIK Kronprins
-
-/Hans Christian Schmidt
+/Pernille Balslev-Erichsen
