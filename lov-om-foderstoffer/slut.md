@@ -1,5 +1,5 @@
-Fødevareministeriet, den 2. februar 2000
+Ministeriet for Fødevarer, Landbrug og Fiskeri, den 29. juni 2006
 
-Henrik Dam Kristensen
+Hans Christian Schmidt
 
-/Tanja Buch-Weeke
+/Pernille Balslev-Erichsen
