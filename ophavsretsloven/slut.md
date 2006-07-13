@@ -1,5 +1,5 @@
-Kulturministeriet, den 6. juli 2005
+Kulturministeriet, den 30. juni 2006
 
-Brian Mikkelsen
+Flemming Hansen
 
-/Martin Kyst
+/Peter Schønning
