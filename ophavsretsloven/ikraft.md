@@ -91,3 +91,43 @@ Stk. 3. Bekendtgørelse nr. 876 af 28. november 1997 ophæves.
 § 3
 
 Loven gælder ikke for Færøerne og Grønland, men kan ved kongelig anordning sættes helt eller delvis i kraft for Færøerne og Grønland med de afvigelser, som den særlige færøske og grønlandske forhold tilsiger.
+
+Lov nr. 1402 af 21. december 2005 om ændring af ophavsretsloven (Følgeretsvederlag) indeholder følgende ikrafttrædelsesbestemmelser m.v.:
+
+§ 2
+
+Stk. 1. Loven træder i kraft den 1. januar 2006.
+
+Stk. 2. Loven finder anvendelse på aftaler om videresalg, som indgås den 1. januar 2006 eller senere.
+
+Stk. 3. For så vidt angår aftaler om videresalg, som er indgået før den 1. januar 2006, finder de hidtil gældende regler anvendelse.
+
+Stk. 4. Bekendtgørelse nr. 274 af 18. april 1996 om beregning af følgeretsvederlag ved erhvervsmæssigt videresalg af kunstværker ophæves.
+
+§ 3
+
+Loven gælder ikke for Færøerne og Grønland, men kan ved kongelig anordning sættes helt eller delvis i kraft for Færøerne og Grønland med de afvigelser, som de særlige færøske og grønlandske forhold tilsiger.
+
+Lov nr. 1430 af 21. december 2005 om ændring af patentloven, ophavsretsloven med flere love (Implementering af EU-direktiv 2004/48/2004 om håndhævelse af intellektuelle rettigheder) indeholder følgende ikrafttrædelsesbestemmelse m.v.:
+
+§ 8
+
+Loven træder i kraft den 1. januar 2006.
+
+§ 9
+
+Stk. 1. Loven gælder ikke for Færøerne og Grønland.
+
+Stk. 2. §§ 1-3 og § 5 kan ved kongelig anordning helt eller delvis sættes i kraft for disse landsdele med de afvigelser, som de særlige færøske og grønlandske forhold tilsiger.
+
+Stk. 3. § 6 kan ved kongelig anordning helt eller delvis sættes i kraft for Grønland med de afvigelser, som de særlige grønlandske forhold tilsiger.
+
+Lov nr. 569 af 9. juni 2006 om ændring af ophavsretsloven (Tekniske foranstaltninger og revision af blankbåndsordningen) indeholder følgende ikrafttrædelsesbestemmelse m.v.:
+
+§ 2
+
+Loven træder i kraft dagen efter bekendtgørelsen i Lovtidende.
+
+§ 3
+
+Loven gælder ikke for Færøerne eller Grønland, men kan ved kongelig anordning sættes helt eller delvis i kraft for Færøerne og Grønland med de afvigelser, som de særlige færøske og grønlandske forhold tilsiger.
