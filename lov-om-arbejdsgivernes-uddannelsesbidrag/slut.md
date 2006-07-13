@@ -1,5 +1,5 @@
-Undervisningsministeriet, den 18. februar 2004
+Undervisningsministeriet, den 5. juli 2006
 
-Ulla Tørnæs
+Bertel Haarder
 
-/Kirsten H. Petersen
+/Lene Worm

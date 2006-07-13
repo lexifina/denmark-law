@@ -91,3 +91,49 @@ Stk. 5. Elever, som har påbegyndt skolepraktik inden den 1. januar 2004, bevare
 Stk. 6. Der ydes tilskud til institutioner for erhvervsrettet uddannelse og andre skoler og institutioner efter den nye sats for uddannelsesaftaler, som er indgået og påbegyndt efter den 30. september 2003, jf. § 12 c, stk. 1, 3. pkt., i lov om Arbejdsgivernes Elevrefusion som affattet ved denne lovs § 1, nr. 4. Øvrige uddannelsesaftaler berettiger til tilskud efter den hidtil gældende sats på 1.000 kr. pr. aftale.
 
 Stk. 7. (Udeladt).
+
+Lov nr. 430 af 6. juni 2005, hvis § 60 ændrer § 29, stk. 1, 1. og 2. pkt., § 29, stk. 2, og ophæver § 29, stk. 3 og 4, indeholder i § 70 følgende bestemmelse:
+
+§ 70
+
+Stk. 1. Loven træder i kraft dagen efter bekendtgørelsen i Lovtidende.
+
+Stk. 2. Loven har virkning fra den 1. november 2005, jf. dog stk. 3.
+
+Stk. 3. Afgørelser om inddrivelse, der inden den 1. oktober 2005 er påklaget til de hidtidige administrative klageinstanser, overgår til behandling i Landsskatteretten den 1. januar 2006, hvis de hidtidige klageinstanser ikke har færdigbehandlet klagen inden denne dato.
+
+Lov nr. 431 af 6. juni 2005, hvis § 72 indsætter § 29 a, indeholder i § 85 følgende bestemmelse:
+
+§ 85
+
+Stk. 1. Loven træder i kraft den 1. november 2005, jf. dog stk. 2.
+
+Stk. 2. (Udeladt).
+
+Lov nr. 593 af 24. juni 2005, hvis § 8 ændrer § 3, stk. 1, 2. pkt., indeholder i § 11 følgende bestemmelse:
+
+§ 11
+
+Stk. 1. Loven træder i kraft den 1. januar 2007.
+
+Stk. 2-5. (Udeladt).
+
+Lov nr. 595 af 24. juni 2005, hvis § 1 ændrer § 13, § 18, § 19, stk. 1, 1. pkt., § 19, stk. 2, § 20, stk. 1, 1. pkt., § 20, stk. 4, § 22, stk. 2 og Kapitel 6 og indsætter § 20, stk. 5 og ophæver § 22, stk. 1, 1. pkt. og § 38, indeholder i § 2 følgende bestemmelse:
+
+§ 2
+
+Stk. 1. Loven træder i kraft den 1. juli 2005, jf. dog stk. 2 og 3.
+
+Stk. 2. § 1, nr. 1, har virkning fra den 1. januar 2005.
+
+Stk. 3. Bidragssatsen i lov om Arbejdsgivernes Elevrefusion § 18, stk. 1, som affattet ved denne lovs § 1, nr. 3, har virkning fra og med beregning af bidrag for 1. kvartal 2006.
+
+Lov nr. 404 af 8. maj 2006, hvis § 19 indsætter § 26 a, indeholder i § 23 følgende bestemmelse:
+
+§ 23
+
+Stk. 1. § 1 træder i kraft den 1. januar 2007.
+
+Stk. 2. §§ 2-6, § 7, nr. 2, §§ 8-13, § 17, nr. 24, §§ 18-21 og § 22, nr. 1, 2 og 4 træder i kraft den 1. juni 2006.
+
+Stk. 3. (Udeladt).
