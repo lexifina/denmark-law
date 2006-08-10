@@ -1,9 +1,3 @@
-Lov nr. 358 af 14. juni 1995 indeholder i § 2 følgende ikrafttrædelsesbestemmelse:
-
-§ 2
-
-Tidspunktet for lovens ikrafttræden fastsætt es af beskæftigelsesministeren. Loven træder dog tidligst i kraft den 1. januar 1996. Beskæftigelsesministeren fastsætter endvidere hvilken periode for indbetalte ATP-bidrag, der første gang skal danne grundlag for det forhøjede kompensationsbeløb. For ATP-bidrag, der vedrører tiden før lovens ikrafttræden, beregnes kompensationsbeløbet efter de hidtil gældende regler.
-
 Lov nr. 1057 af 20. december 1995 indeholder i § 10 følgende ikrafttrædelsesbestemmelse:
 
 § 10
@@ -27,16 +21,6 @@ Stk. 3. ---
 Stk. 4. ---
 
 Stk. 5. ---
-
-Lov nr. 1197 af 27. december 1996 indeholder i § 2 følgende bestemmelser:
-
-§ 2
-
-Loven træder i kraft den 1. januar 1997.
-
-Stk. 2. Loven har virkning for kompensationsbeløb, der vedrører beskæftigelse efter den 1. januar 1988. For perioden 1. januar 1988 - 1. januar 1997 udbetales dog kun kompensationsbeløb, der samlet overstiger 100,00 kr. Det samlede kompensationsbeløb udbetales af Arbejdsmarkedets Tillægspension.
-
-Stk. 3. Kompensationsbeløb, der vedrører perioden 1. januar 1988 - 1. januar 1997, forrentes fra den dato, hvor de skulle have været udbetalt, hvis arbejdsgiveren havde været momsregistreret. Forrentningen sker indtil den dag, beløbet kan hæves, med en årlig rente, der svarer til den til enhver tid fastsatte officielle diskonto med et tillæg på 6 pct.
 
 Lov nr. 475 af 10. juni 1997 som ændret ved § 5 i lov nr. 414 af 26. juni 1998 og § 2 i lov nr. 1051 af 23. december 1998 indeholder i § 9 følgende bestemmelser:
 
@@ -116,21 +100,17 @@ Stk. 3. For personer omfattet af bidragspligten efter lov om arbejdsmarkedsfonde
 
 Stk. 4. For personer omfattet af bidragspligten efter lov om arbejdsmarkedsfonde § 7, stk. 1, litra c, jf. § 8, stk. 1, litra e, og § 11, stk. 8, og § 7, stk. 3, opkræves der særlig pensionsopsparing efter § 17 f, stk. 1, og § 17 f, stk. 2, 2. pkt., i lov om Arbejdsmarkedets Tillægspension som affattet ved denne lovs § 1, nr. 6, fra og med indkomståret 1999. For personer, hvis indkomstår 1999 er startet før den 1. august 1998, udgør pensionsopsparingen dog kun 1/12 af den for indkomståret 1999 beregnede pensionsopsparing for hver måned fra den 1. august 1998 at regne og indtil indkomstårets udløb.
 
-Lov nr. 490 af 1. juli 1998 indeholder i § 6 og § 7 følgende bestemmelser:
+Lov nr. 490 af 1. juli 1998 indeholder i § 6 og § 7 følgende bestemmelse:
 
 § 6
 
 Loven træder i kraft den 1. august 1998 og har regnskabsmæssig virkning fra og med regnskabsåret 1998.
 
-§ 7
-
-Loven gælder ikke for Færøerne og Grønland. §§ 1, 2 og 5 kan ved kongelig anordning sættes i kraft for Grønland med de afvigelser, som de særlige grønlandske forhold tilsiger.
-
 Lov nr. 1033 af 23. december 1998 indeholder i § 5 følgende ikrafttrædelsesbestemmelse:
 
 § 5
 
-Loven træder i kraft dagen eft er bekendtgørelsen i Lovtidende og har virkning fra den 1. januar 2000,---
+Loven træder i kraft dagen efter bekendtgørelsen i Lovtidende og har virkning fra den 1. januar 2000,---
 
 Stk. 2. ---
 
@@ -166,9 +146,9 @@ Lov nr. 1077 af 29. december 1999 indeholder i § 2 følgende ikrafttrædelsesbe
 
 Tidspunktet for lovens ikrafttræden fastsættes af beskæftigelsesministeren.
 
-Stk. 2. Nedsættelsen af kompensationsbeløbet sker første gang for det kompensationsbeløb, der udbetales på grundlag af indbetalte ATP-bidrag i perioden 23. februar - 22. maj 2000.
+Stk. 2. ---
 
-Stk. 3. I år 2000 nedsættes kompensationsbeløbet med en tredjedel af den årlige nedsættelse ved hver af de 3 udbetalinger efter lovens virkningstidspunkt. I år 2001 og følgende år nedsættes beløbet med en fjerdedel ved hver af de kvartårlige udbetalinger.
+Stk. 3. ---
 
 Lov nr. 1082 af 29. december 1999 indeholder i § 3 og § 4 følgende ikrafttrædelsesbestemmelser:
 
@@ -179,16 +159,6 @@ Loven træder i kraft den 1. januar 2000. - - -
 § 4
 
 Aftaler om puljejob, der er indgået mellem den ledige og arbejdsformidlingen inden den 1. januar 2000, kan dog gennemføres efter de hidtil gældende regler.
-
-Lov nr. 1085 af 29. december 1999 indeholder i § 2 følgende ikrafttrædelsesbestemmelser:
-
-§ 2
-
-Tidspunktet for lovens ikrafttræden fastsættes af beskæftigelsesministeren. Loven træder dog tidligst i kraft den 1. januar 2000.
-
-Stk. 2. Nedsættelsen af kompensationsbeløbet sker første gang for det kompensationsbeløb, der udbetales på grundlag af indbetalte ATP-bidrag i perioden 23. februar - 22. maj 2000.
-
-Stk. 3. I år 2000 nedsættes kompensationsbeløbet med en tredjedel af den årlige nedsættelse ved hver af de 3 udbetalinger efter lovens virkningstidspunkt. I år 2001 og følgende år nedsættes beløbet med en fjerdedel ved hver af de kvartårlige udbetalinger.
 
 Lov nr. 335 af 17. maj 2000 indeholder i § 3 følgende ikrafttrædelsesbestemmelse:
 
@@ -248,13 +218,13 @@ Lov nr. 1248 af 20. december 2000 indeholder i § 3 følgende ikrafttrædelsesbe
 
 Loven træder i kraft den 1. januar 2001.
 
-Stk. 2. § 1, nr. 1, har virkning for kompensationsbeløb, der vedrører beskæftigelse efter den 1. januar 1988. For perioden 1. januar 1988 - 1. januar 2001 udbetales dog kun kompensationsbeløb, der samlet overstiger 100,00 kr. Det samlede kompensationsbeløb udbetales af Arbejdsmarkedets Tillægspension.
+Stk. 2. ---
 
-Stk. 3. Kompensationsbeløb, der vedrører perioden 1. januar 1988 - 1. januar 2001, forrentes fra den dato, hvor de skulle have været udbetalt, hvis arbejdsgiveren havde været momsregistreret. Forrentningen sker indtil den dag, beløbet hæves, med en årlig rente, der svarer til den til enhver tid fastsatte officielle diskonto med et tillæg på 6 pct.
+Stk. 3. ---
 
-Stk. 4. Nedsættelsen af kompensationsbeløbet, jf. § 1, nr. 2, sker første gang for det kompensationsbeløb, der udbetales på grundlag af ATP-bidrag modtaget i perioden 23. februar - 22. maj 2001.
+Stk. 4. ---
 
-Stk. 5. For indbetalte ATP-bidrag, der er modtaget i perioden 23. november 2000 - 22. februar 2001, nedsættes kompensationsbeløbet til 480,00 kr. på årsbasis.
+Stk. 5. ---
 
 Lov nr. 1253 af 20. december 2000 indeholder i § 11 følgende ikrafttrædelsesbestemmelser:
 
@@ -454,9 +424,9 @@ Lov nr. 365 af 19. maj 2004, som ændrer lovens § 17 m, kapitel 6-9, § 32 a sa
 
 § 6
 
-Stk. 1. Loven træder i kraft den 1. juli 2004, jf. dog stk. 2 ---.
+Stk. 1. Loven træder i kraft den 1. juli 2004, jf. dog stk. 2 ---
 
-Stk. 2. Økonomi- og erhvervsministeren fastsætter tidspunktet for ikrafttræden af lovens § 2, nr. 5, ---.
+Stk. 2. Økonomi- og erhvervsministeren fastsætter tidspunktet for ikrafttræden af lovens § 2, nr. 5, ---
 
 Stk. 3. ---
 
@@ -473,3 +443,61 @@ Stk. 3. ---
 Stk. 4. ---
 
 Stk. 5. ---
+
+Lov nr. 1370 af 20. december 2004, som ændrer lovens § 17 m, § 17 r, § 23, § 26 b, § 26 c og § 28, indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 2
+
+Loven træder i kraft den 1. januar 2005.
+
+Lov nr. 1383 af 20. december 2004, som ændrer lovens § 24 d, § 26 b og § 32 a, indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 17
+
+Stk. 1. Loven træder i kraft den 1. januar 2005, ---
+
+Stk. 2. ---
+
+Stk. 3. ---
+
+Stk. 4. ---
+
+Lov nr. 411 af 1. juni 2005, som ændrer lovens § 24 b, indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 6
+
+Stk. 1. Loven træder i kraft den 1. juli 2005.
+
+Stk. 2. ---
+
+Stk. 3. ---
+
+Stk. 4. ---
+
+Lov nr. 1059 af 9. november 2005, som ændrer lovens § 4 a og § 17 f, indeholder følgende ikrafttrædelsesbestemmelser:
+
+§ 2
+
+Stk. 1. Loven træder i kraft dagen efter bekendtgørelsen i Lovtidende .
+
+Stk. 2. Ved den opgørelse af en kommunes eller amtskommunes slutskat for kalenderåret 2006, der foretages i henhold til § 16 i lov om kommunal indkomstskat, korrigeres den opgjorte slutskat for den beregnede virkning for slutskatten af de ændringer i kommunernes udskrivningsgrundlag for 2006, der er en følge af denne lovs § 1, nr. 2.
+
+Stk. 3. Den beregnede korrektion af kommunernes slutskat efter stk. 2 fastsættes af indenrigs- og sundhedsministeren på grundlag af de oplysninger, der foreligger pr. 1. maj 2008.
+
+Stk. 4. Beskæftigelsesministeren kan fastsætte nærmere regler om, at indkomstafhængige tilskudsordninger ikke berøres af denne lov.
+
+Lov nr. 116 af 27. februar 2006, som ændrer lovens § 24c, § 24 d, § 25 p og § 32 a, indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 5
+
+Loven træder i kraft den 1. marts 2006.
+
+Lov nr. 404 af 8. maj 2006, som ændrer lovens § 17 f og § 30, indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 23
+
+Stk. 1. § 1 træder i kraft den 1. januar 2007.
+
+Stk. 2. ---
+
+Stk. 3. ---

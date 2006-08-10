@@ -1,8 +1,8 @@
-Beskæftigelsesministeriet, den, den 24. august 2004
+Beskæftigelsesministeriet, den 21. juli 2006
 
 Claus Hjort Frederiksen
 
-/E. Edelberg
+/C. Tjellesen
 
 Bilag A
 
