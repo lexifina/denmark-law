@@ -18,6 +18,6 @@ Stk. 3. Ved kapitalandele i og lån ydet til en virksomhed, hvis aktiviteter ale
 
 Stk. 4. Grænsen i stk. 1, nr. 5, udgør 2 pct., hvis virksomheden ikke er hjemmehørende eller børsnoteret i et land omfattet af zone A eller virksomhedens egenkapital ikke overstiger 250 mio. kr.
 
-Stk. 5. Stk. 1, nr. 5, og stk. 3 finder ikke anvendelse på investeringer i en dattervirksomhed, der er omfattet af § 26 b, stk. 3-5, eller på investeringer i virksomheder, hvis aktivitet efter vedtægterne er begrænset til at foretage investeringer i aktiver omfattet af § 26 b, stk. 1, nr. 1-3. I sidstnævnte tilfælde kan investeringen i forhold til bestemmelserne i stk. 1, nr. 4-6, og stk. 2 samt § 26 d, stk. 1, nr. 1, 2 og 4, henføres til § 26 b, stk. 1, nr. 1-3.
+Stk. 5. Stk. 1, nr. 5, og stk. 3 finder ikke anvendelse på investeringer i en dattervirksomhed, der er omfattet af § 26 b, stk. 3-6, eller på investeringer i virksomheder, hvis aktivitet efter vedtægterne er begrænset til at foretage investeringer i aktiver omfattet af § 26 b, stk. 1, nr. 1-3. I sidstnævnte tilfælde kan investeringen i forhold til bestemmelserne i stk. 1, nr. 4-6, og stk. 2 samt § 26 d, stk. 1, nr. 1, 2 og 4, henføres til § 26 b, stk. 1, nr. 1-3.
 
 Stk. 6. Bestyrelsen fastsætter nærmere bestemmelser om Arbejdsmarkedets Tillægspensions valutakurs- og renterisikoeksponering.

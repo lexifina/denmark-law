@@ -2,7 +2,7 @@
 
 § 17 m. Arbejdsmarkedets Tillægspension administrerer og forvalter de midler, der er godskrevet de enkelte kontohaveres særskilte konti efter § 17 g, og som kontohaveren ikke har valgt at placere i investeringspuljer efter § 17 k, stk. 1, eller at flytte efter § 17 n, i SP-basis.
 
-Stk. 2. Arbejdsmarkedets Tillægspensions valg af investeringssammensætning for midler efter stk. 1 kan ske under hensyntagen til kontohavernes alder.
+Stk. 2. Arbejdsmarkedets Tillægspensions valg af investeringssammensætning for midler efter stk. 1 kan ske under hensyntagen til kontohavernes alder. Den enkelte kontohaver kan vælge en anden aldersinvesteringssammensætning end den investeringssammensætning, der svarer til kontohaverens faktiske alder på investeringstidspunktet. ATP kan fastsætte nærmere regler herom.
 
 Stk. 3. Midlerne omfattet af stk. 1 skal være anbragt i overensstemmelse med reglerne i kapitel 8, jf. dog stk. 5 og 6.
 
