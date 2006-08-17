@@ -2,7 +2,7 @@
 
 Stk. 2. Udgifter til kunstnerisk udsmykning, der kan afskrives efter andre bestemmelser i denne lov, kan ikke afskrives efter stk. 1.
 
-Stk. 3. 3) Afskrivning efter stk. 1 kan alene ske for førstegangskøb af original billedkunst. I tilfælde af tvivl om, hvorvidt den kunstneriske udsmykning kan kvalificeres som kunst, indhenter told- og skatteforvaltningen en vurdering af den kunstneriske udsmykning fra Akademiraadet.
+Stk. 3. Afskrivning efter stk. 1 kan alene ske for førstegangskøb af original billedkunst. I tilfælde af tvivl om, hvorvidt den kunstneriske udsmykning kan kvalificeres som kunst, indhenter told- og skatteforvaltningen en vurdering af den kunstneriske udsmykning fra Akademiraadet.
 
 Stk. 4. Udgifterne til kunsternisk udsmykning afskrives særskilt for den enkelte kunstneriske udsmykning.
 
