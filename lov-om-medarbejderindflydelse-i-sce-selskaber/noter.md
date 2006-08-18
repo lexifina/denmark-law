@@ -1,0 +1,1 @@
+Loven gennemfører Rådets direktiv nr. 2003/72/EF af 22. juli 2003 om supplerende bestemmelser til statutten for det europæiske andelsselskab for så vidt angår medarbejderindflydelse (EU-Tidende 2003 nr. L 207, s. 25).
