@@ -1,7 +1,3 @@
-Bekendtgørelse af lov om andelsboligforeninger og andre boligfællesskaber
+Bekendtgørelse af lov om andelsboliger og andre boligfællesskaber
 
-Hermed bekendtgøres lov om andelsboligforeninger og andre boligfællesskaber, jf. lovbekendtgørelse nr. 164 af 9. marts 1998, med de ændringer, der følger af § 3 i lov nr. 1086 af 29. december 1999, § 2 i lov nr. 404 af 31. maj 2000 og § 4 i lov nr. 406 af 31. maj 2000.
-
-## Kapitel I
-
-Lovens område
+Herved bekendtgøres lov om andelsboligforeninger og andre boligfællesskaber, jf. lovbekendtgørelse nr. 652 af 2. juli 2001, med de ændringer, der følger af § 2 i lov nr. 137 af 20. marts 2002, § 4 i lov nr. 1235 af 27. december 2003, § 3 i lov nr. 1219 af 27. december 2003, § 1 i lov nr. 204 af 29. marts 2004, § 1 i lov nr. 412 af 1. juni 2005 og § 1 i lov nr. 521 af 21. juni 2005

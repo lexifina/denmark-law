@@ -3,7 +3,3 @@
 Stk. 2. Kommunalbestyrelsen skal inden 2 uger efter modtagelse af den i stk. 1 nævnte underretning fra bestyrelsen give meddelelse til andelsboligforeningen og andelshaveren om, at kommunalbestyrelsen ønsker at indtræde som medlem af andelsboligforeningen. Gives sådan meddelelse ikke rettidigt, mister kommunalbestyrelsen retten til at overtage den pågældende bolig.
 
 Stk. 3. Såfremt kommunalbestyrelsen har givet meddelelse efter stk. 2 om erhvervelse af andelen, hæfter kommunalbestyrelsen for betaling af boligafgift m.v. med virkning fra den for overtagelsen fastsatte overtagelsesdag.
-
-## Kapitel III
-
-Boligaktieselskaber o.lign.
