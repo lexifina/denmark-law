@@ -2,27 +2,23 @@ Lov nr. 486 af 5. november 1980 indeholder følgende ikrafttrædelsesbestemmelse
 
 § 2
 
-Loven træder i kraft den 1. januar 1981.
+Loven /NREF/SN502/2)/ træder i kraft den 1. januar 1981.
 
 Stk. 2. Andelsboligforeninger, der har erhvervet ejendommen efter reglerne om tilbudspligt i lov om leje eller i lov om ejerlejligheder, kan uanset den på erhvervelsestidspunktet gældende lovgivning ændre vedtægtsbestemmelser om overdragelse. Det samme gælder andelsboligforeninger, der har erhvervet ejendommen efter 1. januar 1980.
 
-Stk. 3. Inden fem år efter lovens ikrafttræden kan en andelshaver uanset reglerne i § 5 ved overdragelse beregne sig samme pris for andelen i foreningens formue, som han selv lovligt har betalt.
-
-Stk. 4. Reglen i § 6, stk. 5, finder anvendelse ved aflæggelse af årsregnskab, første gang for det regnskabsår, der er udløbet efter lovens ikrafttræden.
-
-Stk. 5. Reglen i § 16, stk. 2, i lov nr. 239 af 8. juni 1979 om andelsboligforeninger og andre boligfællesskaber finder anvendelse på aftaler, indgået inden lovens ikrafttræden, såfremt erhververen inden lovens ikrafttæden har afgivet erklæring om udnyttelse af lejeret i overensstemmelse med denne regel.
+Stk. 3-5. (udeladt).
 
 Lov nr. 80 af 17. marts 1982 indeholder følgende ikrafttrædelsesbestemmelse:
 
 § 2
 
-Loven træder i kraft ved bekendtgørelsen i Lovtidende.
+Loven /NREF/SN503/3)/ træder i kraft ved bekendtgørelsen i Lovtidende.
 
 Lov nr. 194 af 25. maj 1983 indeholder følgende ikrafttrædelsesbestemmelse:
 
 § 2
 
-Loven træder i kraft den 1. juni 1983.
+Loven /NREF/SN504/4)/ træder i kraft den 1. juni 1983.
 
 Lov nr. 206 af 22. maj 1985 indeholder følgende ikrafttrædelsesbestemmelser:
 
@@ -38,13 +34,11 @@ Lov nr. 138 af 7. mats 1990 indeholder følgende ikrafttrædelsesbestemmelser:
 
 Stk. 1. Loven træder i kraft den 1. april 1991. Dog træder § 18 i kraft den 1. juli 1990.
 
-Stk. 2. Lov nr. 43 af 20. februar 1969 om bortfald af hartkorn og matrikelskyld ophæves.
-
 Lov nr. 379 af 20. maj 1992 indeholder følgende ikrafttrædelsesbestemmelser:
 
 § 2
 
-Stk. 1. Loven træder i kraft den 1. juni 1992.
+Stk. 1. Loven ) træder i kraft den 1. juni 1992.
 
 Stk. 2. § 1, nr. 6 , har virkning for konverteringer, der finder sted efter den 31. marts 1992.
 
@@ -53,8 +47,6 @@ Lov nr. 380 af 20. maj 1992 indeholder følgende ikrafttrædelsesbestemmelser:
 § 7
 
 Stk. 1. Loven træder i kraft den 1. januar 1993.
-
-Stk. 2. §§ 46 e og 46 f, stk. 1-3, stk. 4, 1. og 3. pkt., og stk. 5-6 , lov om leje, som affattet ved denne lovs § 1, nr. 1, §§ 2-4, § 8, stk. 1-4 og 6, og § 9, stk. 1-4, træder dog i kraft dagen efter bekendtgørelsen i Lovtidende.
 
 § 9
 
@@ -72,31 +64,29 @@ Lov nr. 1072 af 22. december 1993 indeholder følgende ikrafttrædelsesbestemmel
 
 § 5
 
-Loven træder i kraft den 1. januar 1994.
+Loven /NREF/SN512/12)/ træder i kraft den 1. januar 1994.
 
 Lov nr. 335 af 10. maj 1994 indeholder følgende ikrafttrædelsesbestemmelse:
 
 § 2
 
-Loven træder i kraft dagen efter bekendtgørelsen i Lovtidende og har virkning for aftaler om overdragelse, der indgås efter lovens ikrafttræden.
+Loven /NREF/SN513/13)/ træder i kraft dagen efter bekendtgørelsen i Lovtidende og har virkning for aftaler om overdragelse, der indgås efter lovens ikrafttræden.
 
-Lov nr. 445 af 1. juni 1994 har følgende ikrafttrædelsesbestemmelser:
+Lov nr. 445 af 1. juni 1994 indeholder følgende ikrafttrædelsesbestemmelser:
 
 § 7
 
 Stk. 1. Loven træder i kraft dagen efter bekendtgørelsen i Lovtidende .
 
-Stk. 2. § 6 har virkning for aftaler om overdragelse, der indgås efter 11. maj 1994.
+Stk. 2-3. (udeladt).
 
-Lov nr. 306 af 17. maj 1995 indeholder følgende ikrafttrædelsesbestemmelser:
+Stk. 4. § 6 har virkning for aftaler om overdragelse, der indgås efter 11. maj 1994.
+
+Lov nr. 306 af 17. maj 1995 indeholder følgende ikrafttrædelsesbestemmelse:
 
 § 5
 
-Loven træder i kraft dagen efter bekendtgørelsen i Lovtidende .
-
-§ 6
-
-Forslag til revision af denne lov fremsættes for Folketinget i folketingsåret 1997-1998 .
+Loven /NREF/SN517/17)/ træder i kraft dagen efter bekendtgørelsen i Lovtidende .
 
 Lov nr. 220 af 27. marts 1996 indeholder følgende ikrafttrædelsesbestemmelse:
 
@@ -114,22 +104,72 @@ Lov nr. 383 af 10. juni 1997 indeholder følgende ikrafttrædelsesbestemmelse:
 
 § 2
 
-Loven træder i kraft dagen efter bekendtgørelsen i Lovtidende .
+Loven /NREF/SN522/22)/ træder i kraft dagen efter bekendtgørelsen i Lovtidende .
 
 Lov nr. 1086 af 29. december 1999 indeholder følgende ikrafttrædelsesbestemmelse:
 
 § 5
 
-Loven træder i kraft den 1. januar 2000.
+Loven /NREF/SN524/24)/ træder i kraft den 1. januar 2000.
 
 Lov nr. 404 af 31. maj 2000 indeholder følgende ikrafttrædelsesbestemmelse:
 
 § 6
 
-Loven træder i kraft dagen efter bekendtgørelsen i Lovtidende .
+Loven /NREF/SN525/25)/ træder i kraft dagen efter bekendtgørelsen i Lovtidende .
 
 Lov nr. 406 af 31. maj 2000 indeholder følgende ikrafttrædelsesbestemmelse:
 
 § 11
 
-Loven træder i kraft den 1. januar 2001.
+Stk. 1. Loven træder i kraft den 1. januar 2001.
+
+Lov nr. 137 af 20. marts 2002 indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 3
+
+Loven /NREF/SN528/28)/ træder i kraft den 1. april 2002.
+
+Lov nr. 1235 af 27. december 2003 indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 9
+
+Stk. 1. Loven træder i kraft den 1. januar 2004.
+
+Stk. 2. § 5 gælder ikke for husstande i ejendomme, hvortil kommunen har hjemtaget bindende tilsagn til en byfornyelsesbeslutning inden den 1. januar 2004 eller inden denne dato har meddelt påbud efter kapitel 9 i lov m byfornyelse, jf. lovbekendtgørelse nr. 260 af 7. april 2003. Det samme gælder for husstande i kvarterløftsområder i ejendomme omfattet af en beslutning om byfornyelse i henhold til lov om byfornyelse, hvortil der er afsat midler på finanslov 2000 og hjemtaget bindende tilsagn om offentlig støtte inden den 1. januar 2009. Disse husstande er fortsat efter udgangen af 2003 berettiget til sanerings- og byfornyelsesboligsikring samt huslejetilskud efter de tidligere gældende regler.
+
+Lov nr. 1219 af 27. december 2003 indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 6
+
+Stk. 1. Loven træder i kraft den 1. januar 2004.
+
+Stk. 2. Lejere, som på tidspunktet for lovens ikrafttræden er forpligtet til at betale bidrag til ejendommens forsyning med adgang til elektroniske kommunikationstjenester, vil fortsat være forpligtet til at betale dette bidrag.
+
+Stk. 3. I lejeforhold, hvor betalingen for lejerens adgang til elektroniske kommunikationstjenester er indeholdt i lejen, skal lejen nedsættes med det beløb, som efter § 1, nr. 4, og § 2, nr. 4, overføres til betaling efter reglerne i henholdsvis kapitel VII A i lov om leje og kapitel 11 i lov om leje af almene boliger om lejerens betaling til fællesantenne og adgang til elektroniske kommunikationstjenester m.v.
+
+Lov nr. 204 af 29. marts 2004 indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 2
+
+Stk. 1. Økonomi- og erhvervsministeren fastsætter tidspunktet for lovens ikrafttræden .
+
+Stk. 2. § 5, stk. 14, 4. pkt., i lov om andelsboligforeninger og andre bofællesskaber, finder dog fortsat anvendelse for garantier, som er stillet før lovens ikrafttræden.
+
+Lov nr. 412 af 1. juni 2005 indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 4
+
+Stk. 1. Loven træder i kraft den 1. september 2005.
+
+Stk. 2. § 5, stk. 2, litra d, i lov om andelsboligforeninger og andre boligfællesskaber finder fortsat anvendelse for andelsboligforeninger, hvor det fremgår af det før den 1. september 2005 senest aflagte årsregnskab, at andelens værdi er opgjort efter denne prisfastsættelsesmetode.
+
+Lov nr. 521 af 21. juni 2005 indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 2
+
+Stk. 1. Loven træder i kraft dagen efter bekendtgørelsen i Lovtidende .
+
+Stk. 2. § 2, stk. 2, 1. pkt., jf. § 9, stk. 1, i lov om andelsboligforeninger og andre boligfællesskaber som affattet ved denne lovs § 1, nr. 1 og 4, finder anvendelse på aftaler, der er indgået efter lovens ikrafttræden, om erhvervelse af ejendomme, der efter lovens ikrafttræden er eller har været ejet af en andelsboligforening, et boligaktieselskab eller et boliganpartsselskab.
+
+Stk. 3. § 2, stk. 2, 4. pkt., i lov om andelsboligforeninger og andre boligfællesskaber som affattet ved denne lovs § 1, nr. 1, finder anvendelse på ejendomme, der efter lovens ikrafttræden er eller har været ejet af en andelsboligforening, et boligaktieselskab eller et boliganpartsselskab.
