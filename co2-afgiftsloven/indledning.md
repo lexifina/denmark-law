@@ -1,5 +1,3 @@
 Bekendtgørelse af lov om kuldioxidafgift af visse energiprodukter
 
-Herved bekendtgøres lov om kuldioxidafgift af visse energiprodukter, jf. lovbekendtgørelse nr. 856 af 24. september 1996 med de ændringer, der følger af §§ 1 og 2 i lov nr. 1220 af 27. december 1996, § 6 i lov nr. 444 af 10. juni 1997, § 20 i lov nr. 1098 af 29. december 1997, § 5 i lov nr. 435 af 26. juni 1998 og § 6 i lov nr. 437 af 26. juni 1998.
-
-Afgiftspligtigt vareområde og afgiftens størrelse
+Herved bekendtgøres lov om kuldioxidafgift af visse energiprodukter, jf. lovbekendtgørelse nr. 643 af 27. august 1998 med de ændringer, der følger af § 3 i lov nr. 325 af 28. maj 1999, § 14 i lov nr. 380 af 2. juni 1999, § 3 i lov nr. 389 af 2. juni 1999, § 1 i lov nr. 963 af 20. december 1999, § 30 i lov nr. 165 af 15. marts 2000, § 23 i lov nr. 1029 af 22. november 2000, § 5 i lov nr. 1297 af 20. december 2000, § 4 i lov nr. 393 af 6. juni 2002, § 1 i lov nr. 462 af 9. juni 2004, § 3 i lov nr. 464 af 9. juni 2004, §§ 1 og i 3 lov nr. 1391 af 20. december 2004, § 23 i lov nr. 325 af 18. maj 2005, § 38 i lov nr. 428 af 6. juni 2005, § 9 i lov nr. 1414 af 21. december 2005, § 7 i lov nr. 1417 af 21. december 2005 og § 7 i lov nr. 520 af 7. juni 2006.
