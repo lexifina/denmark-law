@@ -6,7 +6,7 @@ Stk. 3. Kontrakten fastlægger omfang og indhold af
 
 1) de nødvendige opgaver i forbindelse med driften af indkvarteringsstedet, som udlændingen har pligt til at medvirke til udførelsen af, jf. § 42 d, stk. 1,
 
-2) det introduktionskursus, som udlændingen skal deltage i, jf. § 42 f, stk. 1,
+2) det asylansøgerkursus, som udlændingen skal deltage i, jf. § 42 f, stk. 1,
 
 3) undervisning, som det er aftalt eller fastsat, jf. stk. 2, at udlændingen skal deltage i, jf. § 42 f, stk. 2-4, og
 
