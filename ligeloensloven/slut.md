@@ -1,5 +1,5 @@
-Beskæftigelsesministeriet, den 21. august 2003
+Beskæftigelsesministeriet, den 27. august 2006
 
 Claus Hjort Frederiksen
 
-/E. Edelberg
+/Lise Fangel
