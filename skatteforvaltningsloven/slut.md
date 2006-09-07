@@ -1,5 +1,5 @@
-Skatteministeriet, den 2. august 2005
+Skatteministeriet, den 28. august 2006
 
-Kristian Jensen
+P.M.V. Peter Loft
 
-/Kaj-Henrik Ludolph
+/K.-H. Ludolph
