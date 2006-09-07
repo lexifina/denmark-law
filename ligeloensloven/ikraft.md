@@ -29,3 +29,13 @@ Stk. 3. Tidspunktet for, hvornår redegørelsen efter § 6 a som affattet ved de
 § 3
 
 (Ophævet).
+
+Lov nr. 562 af 9. juni 2006, som ændrer lovens § 1, § 5 a og § 6 b, indeholder følgende ikrafttrædelsesbestemmelser:
+
+§ 2
+
+Loven træder i kraft den 1. januar 2007.
+
+§ 3
+
+§ 6 a i lov om lige løn til mænd og kvinder som indsat ved lov nr. 445 af 7. juni 2001 og ændret ved lov nr. 358 af 6. juni 2002, træder i kraft den 1. januar 2007, dog således at redegørelsen udarbejdes første gang i 2009.
