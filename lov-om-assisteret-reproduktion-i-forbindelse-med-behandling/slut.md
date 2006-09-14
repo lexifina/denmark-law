@@ -1,9 +1,5 @@
-Givet på Christiansborg Slot, den 10. juni 1997
+Indenrigs- og Sundhedsministeriet, den 4. september 2006
 
-Under Vor Kongelige Hånd og Segl
+Lars Løkke Rasmussen
 
-MARGRETHE R.
-
-/ Birte Weiss
-
-Ingen
+/John Erik Pedersen
