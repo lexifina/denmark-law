@@ -1,9 +1,5 @@
-Denne lovbekendtgørelse indeholder bemærkninger om ikrafttrædelses- og overgangsbestemmelser for love, der er vedtaget i folketingsåret 2004-2005.
+Denne lovbekendtgørelse indeholder bemærkninger om ikrafttrædelses- og overgangsbestemmelser for love, der er vedtaget i folketingsåret 2005-2006.
 
-Ændringen af § 1, stk. 1, 2. pkt. og § 22 a, stk. 7, er trådt i kraft den 8. juni 2005 og har virkning for indkomst fra en virksomhed eller en del af en virksomhed, som den skattepligtige erhverver i indkomståret 2006 eller senere indkomstår, jf. § 18 i lov nr. 425 af 6. juni 2005.
+Ændringen af § 1, stk. 2, § 22 c, stk. 2, nr. 3 b, 4 og 5, og § 22 c, stk. 4 og 6, er trådt i kraft den 23. december 2005 og har virkning fra og med den 1. januar 2006, jf. § 28, stk. 1, i lov nr. 1414 af 21. december 2005.
 
-Ny affattelse af bestemmelsen i § 1, stk. 2, er trådt i kraft den 3. juni 2005 og har virkning for indkomståret 2005 og senere indkomstår, jf. § 12 i lov nr. 407 af 1. juni 2005.
-
-Ændringerne af § 2, stk. 2, § 3, stk. 5, § 10, stk. 1, § 22 a, stk. 1, 2. pkt., og § 22 c, stk. 7, 3. pkt., er trådt i kraft den 8. juni 2005 og har virkning fra den 1. november 2005, jf. § 125 i lov nr. 428 af 6. juni 2005.
-
-Ændringen af § 10, stk. 2, er trådt i kraft den 8. juni 2005 og har virkning fra og med indkomståret 2005, jf. § 15 i lov nr. 426 af 6. juni 2005.
+Ændringen af § 22 c, stk. 2, nr. 4, 2, pkt., trådte i kraft den 10. maj 2006 og har virkning fra og med indkomståret 2006, jf. § 12, stk. 1 og 2, i lov nr. 406 af 8. maj 2006.
