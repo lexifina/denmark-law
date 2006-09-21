@@ -1,7 +1,5 @@
-Givet på Christiansborg Slot, den 9. juni 2004
+Ministeriet for Fødevarer, Landbrug og Fiskeri, den 12. september 2006
 
-Under Vor Kongelige Hånd og Segl
+Hans Christian Schmidt
 
-Margrethe R.
-
-/Mariann Fischer Boel
+/Peter Lund Andersen
