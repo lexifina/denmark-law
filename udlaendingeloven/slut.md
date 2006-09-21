@@ -1,4 +1,4 @@
-Ministeriet for Flygtninge, Indvandrere og Integration, den 24. august 2005
+Ministeriet for Flygtninge, Indvandrere og Integration, den 1. september 2006
 
 Rikke Hvilshøj
 
