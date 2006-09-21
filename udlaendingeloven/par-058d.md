@@ -1,1 +1,1 @@
-§ 58 d. Ministeren for flygtninge, indvandrere og integration fastsætter nærmere bestemmelser til gennemførelse af Schengenkonventionen og EF-asylkonventionen.
+§ 58 d. Ministeren for flygtninge, indvandrere og integration kan fastsætte nærmere bestemmelser til gennemførelse af reglerne i Schengenkonventionen, Dublinforordningen og Eurodacforordningen. Der kan i den forbindelse fastsættes bestemmelser om, at andre end Rigspolitichefen efter § 58 j, stk. 1 og 2, kan videregive oplysninger til den centrale Eurodac-enhed.

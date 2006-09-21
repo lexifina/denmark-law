@@ -12,7 +12,7 @@ Stk. 3. Personfotografi, der optages i medfør af stk. 1 eller 2, kan registrere
 
 Stk. 4. Personfotografi, der modtages fra udenlandske udlændingemyndigheder i forbindelse med behandlingen af udlændingesager, kan registreres i det i stk. 3 nævnte register.
 
-Stk. 5. Personfotografi, der i medfør af stk. 3 og 4 er registreret i det i stk. 3 nævnte register, slettes 10 år efter registreringen af personfotografiet i registret.
+Stk. 5. Personfotografi, der i medfør af stk. 3 og 4 er registreret i det i stk. 3 nævnte register, slettes 10 år efter optagelsen af personfotografiet i registret.
 
 Stk. 6. Personfotografi, der i medfør af stk. 3 og 4 er registreret i det i stk. 3 nævnte register, kan til brug for identifikation af den pågældende udlænding manuelt eller elektronisk sammenholdes med personfotografi optaget efter retsplejelovens bestemmelser herom.
 
