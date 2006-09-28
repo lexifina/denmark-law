@@ -1,3 +1,5 @@
+I lovbekendtgørelse nr. 866 af 10. august 2006 om andelsboligforeninger og andre boligfællesskaber er titlen forkert og erstattes derfor af denne lovbekendtgørelse.
+
 I lovbekendtgørelse nr. 266 af 28. marts 2006 om andelsboligforeninger og andre boligfællesskaber indeholdt § 2, stk. 2, en skrivefejl og erstattes derfor af denne lovbekendtgørelse.
 
 Lovændringen vedrører § 1, stk. 3, §§ 2-4, § 5, stk. 1, 2 og 9, § 6, § 7, stk. (ophævet), § 9, § 11, § 13, § 15, stk. 1 og 3, samt §§ 16-18.
