@@ -1,1 +1,1 @@
-§ 24 A. ) (Ophævet).
+§ 24 A. (Ophævet).
