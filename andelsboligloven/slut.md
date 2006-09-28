@@ -1,5 +1,5 @@
-Økonomi- og Erhvervsministeriet, den 10. august 2006
+Økonomi- og Erhvervsministeriet, den 19. september 2006
 
 Bendt Bendtsen
 
-/Janus Krarup
+/Henning Steensig
