@@ -60,7 +60,7 @@ Stk. 1. Loven træder i kraft den 1. juli 2005.
 
 Stk. 2. § 1, nr. 6, træder dog i kraft dagen efter bekendtgørelse i Lovtidende.
 
-Lov nr. 366 af 24. maj 2005 (Berigelseskriminalitet rettet mod offentlige midler, kriminalitet i juridiske personer, klagebegrænsning og hvidvaskning i spillekasinoer m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
+Lov nr. 366 af 24. maj 2005 (Berigelseskriminalitet rettet mod offentlige midler, kriminalitet i juridiske personer, klagebegrænsning og hvidvask i spillekasinoer m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
 
 § 6
 
@@ -68,10 +68,50 @@ Loven træder i kraft den 1. juli 2005
 
 Lov nr. 553 af 24. juni 2005 (Lov om voldgift) indeholder følgende ikrafttrædelsesbestemmelse:
 
-§ 40. Straffelovens § 304 a, som affattet ved denne lovs § 43, nr. 1, træder i kraft dagen efter bekendtgørelsen i Lovtidende.
+§ 40
+
+Straffelovens § 304 a, som affattet ved denne lovs § 43, nr. 1, træder i kraft dagen efter bekendtgørelsen i Lovtidende.
 
 Lov nr. 559 af 24. juni 2005 (Skærpelse af straffen for uagtsomt manddrab og uagtsom betydelig legemsbeskadigelse i forbindelse med særlig hensynsløs kørsel) indeholder følgende ikrafttrædelsesbestemmelse:
 
 § 2
 
 Loven træder i kraft dagen efter bekendtgørelsen i Lovtidende.
+
+Lov nr. 1389 af 21. december 2005 (Lov om markedsføring) holder følgende ikrafttrædelsesbestemmelse:
+
+§ 32
+
+Loven træder i kraft den 1. juli 2006
+
+Lov nr. 1400 af 21. december 2005 (Skærpede regler om strafudmåling for forbrydelser begået med baggrund i den forurettedes lovlige ytringer i den offentlige debat) indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 2
+
+Loven træder i kraft dagen efter bekendtgørelsen i Lovtidende.
+
+Lov nr. 474 af 31. maj 2006 (Præcisering af reglerne om retsforfølgning af udenlandske skibe, skærpelse af straffe for miljøkriminalitet m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 4
+
+Loven træder i kraft den 1. juni 2006.
+
+Lov nr. 503 af 7. juni 2006 (Masseødelæggelsesvåben m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 4
+
+Stk. 1. Loven træder i kraft den 1. juli 2006, jf. dog stk. 2.
+
+Stk. 2. § 1, nr. 4-6, træder i kraft den 30. juli 2006.
+
+Lov nr. 540 af 8. juni 2006 (Dansk straffemyndighed ved seksuel udnyttelse af børn i udlandet) indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 2
+
+Loven træder i kraft dagen efter bekendtgørelsen i Lovtidende.
+
+Lov nr. 542 af 8. juni 2006 (Styrkelse af indsatsen for at bekæmpe terrorisme m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 9
+
+Stk. 1. Loven træder i kraft dagen efter bekendtgørelsen i Lovtidende
