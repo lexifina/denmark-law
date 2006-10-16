@@ -1,1 +1,1 @@
-§ 339 a. Retsmøder under forberedelsen, hvor der ikke sker bevisførelse til brug for domsforhandlingen, holdes for lukkede døre, medmindre retten bestemmer andet.
+§ 339 a. Retsmøder under forberedelsen, hvor der ikke sker bevisførelse til brug for hovedforhandlingen, holdes for lukkede døre, medmindre retten bestemmer andet.

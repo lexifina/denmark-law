@@ -1,0 +1,1 @@
+§ 32 c. Når retten i medfør af denne lov har tilladt, at en part eller rettergangsfuldmægtig deltager i et retsmøde ved anvendelse af telekommunikation, anses den pågældende som deltager i retsmødet på samme måde som ved fremmøde i retten. Dette gælder dog ikke i de i § 760, stk. 2, og § 764, stk. 2, nævnte tilfælde.

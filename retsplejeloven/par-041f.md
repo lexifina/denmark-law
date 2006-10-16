@@ -2,7 +2,7 @@
 
 Stk. 2. Efter anmodning udleverer anklagemyndigheden kopi af anklageskrift eller retsmødebegæring til de i stk. 1 nævnte personer. § 41 b, stk. 3, nr. 1, og § 41 e, stk. 5, finder tilsvarende anvendelse. Dokumentet skal inden kopieringen anonymiseres, således at forurettedes eller vidners identitet ikke fremgår. Justitsministeren fastsætter regler om, i hvilken periode retten til aktindsigt gælder.
 
-Stk. 3. Efter anmodning udlåner retten under domsforhandlingen eller et retsmøde efter § 922 hjælpebilag og rids over gerningsstedet, som er udarbejdet af anklagemyndigheden og forsvaret, til de i stk. 1 nævnte personer, medmindre dokumentets karakter eller særlige hensyn til beskyttelse af sigtede, tiltalte, vidner eller andre taler herimod. § 41 b, stk. 3, nr. 1, og § 41 e, stk. 5, finder tilsvarende anvendelse.
+Stk. 3. Efter anmodning udlåner retten under hovedforhandlingen eller et retsmøde efter § 831 hjælpebilag og rids over gerningsstedet, som er udarbejdet af anklagemyndigheden og forsvaret, til de i stk. 1 nævnte personer, medmindre dokumentets karakter eller særlige hensyn til beskyttelse af sigtede, tiltalte, vidner eller andre taler herimod. § 41 b, stk. 3, nr. 1, og § 41 e, stk. 5, finder tilsvarende anvendelse.
 
 Stk. 4. I borgerlige sager kan et eller flere af sagens dokumenter med parternes samtykke udlånes til de i stk. 1 nævnte personer under et retsmøde.
 

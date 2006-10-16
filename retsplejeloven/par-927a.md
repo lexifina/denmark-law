@@ -1,1 +1,0 @@
-§ 927 a. Retten kan indkalde til et særligt forberedende møde med henblik på en fastlæggelse af parternes stilling til sagens faktiske og retlige omstændigheder, herunder hvilke omstændigheder der ikke bestrides, og hvilke der skal føres bevis for, samt domsforhandlingens tilrettelæggelse.
