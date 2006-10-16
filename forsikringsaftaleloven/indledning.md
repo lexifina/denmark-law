@@ -1,7 +1,3 @@
 Bekendtgørelse af lov om forsikringsaftaler
 
-Herved bekendtgøres lov nr. 129 af 15. april 1930 om forsikringsaftaler med de ændringer, der følger af lov nr. 50 af 24. februar 1960, lov nr. 179 af 24. maj 1972, lov nr. 181 af 24. maj 1972, § 12, lov nr. 212 af 26. april 1973, § 2, lov nr. 250 af 12. juni 1975, § 4, lov nr. 266 af 26. juni 1975, § 5, lov nr. 228 af 23. maj 1984, § 29 og lov nr. 618 af 19. december 1984, § 2.
-
-I. Fælles bestemmelser for alle forsikringsarter
-
-INDLEDENDE REGLER
+Herved bekendtgøres lov om forsikringsaftaler, jf. lovbekendtgørelse nr. 726 af 24. oktober 1986, med de ændringer, der følger af § 3 i lov nr. 826 af 18. december 1991, § 2 i lov nr. 262 af 6. maj 1993, § 1 i lov nr. 413 af 10. juni 1997, lov nr. 435 af 31. maj 2000, § 1 i lov nr. 434 af 10. juni 2003 og § 31 i lov nr. 451 af 9. juni 2004. De ændringer, som følger af lov nr. 539 af 8. juni 2006, er ikke indarbejdet i lovbekendtgørelsen, da loven på tidspunktet for udstedelsen af lovbekendtgørelsen ikke er trådt i kraft.
