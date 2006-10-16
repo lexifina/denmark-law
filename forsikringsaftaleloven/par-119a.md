@@ -1,0 +1,1 @@
+§ 119 a. Bestemmelsen i § 97 a om forsikringstagerens ret til at træde tilbage fra aftaler om livsforsikring gælder tilsvarende for ulykkesforsikring og sygeforsikring, der tegnes i tilknytning til livsforsikring.
