@@ -1,1 +1,1 @@
-§ 448 b. (Ophævet)
+§ 448 b. Anlægger ministeren for familie- og forbrugeranliggender eller den, ministeren bemyndiger dertil, eller ægtefællen i et tidligere ægteskab sag til omstødelse af et ægteskab, skal sagen anlægges mod begge ægtefæller. Sagen anlægges ved en ret, hvor en af ægtefællerne kan sagsøges efter § 448 d.

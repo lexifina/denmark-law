@@ -16,10 +16,10 @@ Stk. 3. Retten til aktindsigt kan begrænses, i det omfang
 
 3) ansøgerens interesse i at kunne benytte kendskab til sagens dokumenter til varetagelse af sit tarv findes at burde vige for hensynet til forebyggelse, opklaring og forfølgning af lovovertrædelser eller for særlige hensyn til beskyttelse af medsigtede, vidner eller andre.
 
-Stk. 4. Anmodning om aktindsigt indgives til politimesteren. Politimesterens afgørelse kan påklages til den overordnede anklagemyndighed efter reglerne i kapitel 10.
+Stk. 4. Anmodning om aktindsigt indgives til politidirektøren. Politidirektørens afgørelse kan påklages til den overordnede anklagemyndighed efter reglerne i kapitel 10.
 
-Stk. 5. Politimesteren afgør snarest, om en anmodning om aktindsigt kan imødekommes. Er anmodningen ikke imødekommet eller afslået inden 10 dage efter, at anmodningen er modtaget af politimesteren, skal ansøgeren underrettes om grunden hertil samt om, hvornår afgørelsen kan forventes at foreligge.
+Stk. 5. Politidirektøren afgør snarest, om en anmodning om aktindsigt kan imødekommes. Er anmodningen ikke imødekommet eller afslået inden 10 dage efter, at anmodningen er modtaget af politidirektøren, skal ansøgeren underrettes om grunden hertil samt om, hvornår afgørelsen kan forventes at foreligge.
 
-Stk. 6. Politimesteren afgør, om aktindsigt skal gives i form af gennemsyn eller udlevering af kopi.
+Stk. 6. Politidirektøren afgør, om aktindsigt skal gives i form af gennemsyn eller udlevering af kopi.
 
 Stk. 7. Personnummer er ikke omfattet af retten til aktindsigt.

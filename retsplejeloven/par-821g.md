@@ -2,4 +2,4 @@
 
 §§ 822-830. (Ophævet)
 
-Tredje afsnit. Tiltale og domsforhandling ved landsret
+Tredje afsnit. Tiltale og hovedforhandling i 1. instans

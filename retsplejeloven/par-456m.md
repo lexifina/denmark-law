@@ -1,4 +1,4 @@
-§ 456 m. Retsmøderne foregår for lukkede døre. Efter moderens ønske kan en medarbejder fra kommunen eller amtskommunen give møde med hende.
+§ 456 m. Retsmøderne foregår for lukkede døre. Efter moderens ønske kan en medarbejder fra kommunen give møde med hende.
 
 Stk. 2. Ved offentlig gengivelse af domme må der ikke ske offentliggørelse af navn, stilling eller bopæl for nogen af de i dommen nævnte personer eller på anden måde offentliggørelse af de pågældendes identitet. Overtrædelse af forbuddet straffes med bøde eller under skærpende omstændigheder med fængsel i indtil 6 måneder.
 

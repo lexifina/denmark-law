@@ -4,9 +4,9 @@ Stk. 2. Dommerne beskikkes af justitsministeren efter indstilling fra henholdsvi
 
 Stk. 3. Advokaten beskikkes af justitsministeren efter indstilling fra Advokatrådet.
 
-Stk. 4. Offentlighedsrepræsentanterne beskikkes af justitsministeren efter indstilling fra henholdsvis Amtsrådsforeningen i Danmark, Kommunernes Landsforening og Københavns og Frederiksberg Kommuner i forening og Dansk Folkeoplysnings Samråd.
+Stk. 4. Offentlighedsrepræsentanterne beskikkes af justitsministeren efter indstilling fra henholdsvis KL (Kommunernes Landsforening) og Dansk Folkeoplysnings Samråd.
 
-Stk. 5. Medlemmer af Folketinget, amtsråd og kommunalbestyrelser kan ikke være medlemmer af Dommerudnævnelsesrådet.
+Stk. 5. Medlemmer af Folketinget, regionsråd og kommunalbestyrelser kan ikke være medlemmer af Dommerudnævnelsesrådet.
 
 Stk. 6. Medlemmerne beskikkes for 4 år. Genbeskikkelse kan ikke finde sted.
 

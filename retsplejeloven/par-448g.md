@@ -1,0 +1,1 @@
+§ 448 g. Sag om forældremyndighed indbringes for retten i den retskreds, hvor barnet har bopæl. Hvis barnet ikke har bopæl her i riget, indbringes sagen for retten ved sagsøgtes hjemting. Hvis sagsøgte ikke har hjemting her i riget, indbringes sagen for retten ved sagsøgerens hjemting eller, hvis sagsøgeren ikke har hjemting her i riget, for Københavns Byret.

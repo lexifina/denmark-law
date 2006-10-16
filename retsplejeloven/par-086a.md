@@ -1,0 +1,1 @@
+§ 86 a. Nævninger deltager i afgørelsen af skyldsspørgsmålet, jf. § 891 og § 931, stk. 2, og i fastsættelsen af sanktionen, jf. § 894 og § 931, stk. 3, men deltager ikke i andre retshandlinger eller afgørelser under sagen.

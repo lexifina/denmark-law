@@ -1,1 +1,0 @@
-§ 331 a. Justitsministeren kan fastsætte regler om indholdet af en ansøgning om fri proces og om de oplysninger, som ansøgeren skal meddele. Justitsministeren kan endvidere fastsætte regler om, at der skal anvendes en særlig blanket ved ansøgningen.

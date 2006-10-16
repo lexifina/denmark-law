@@ -1,0 +1,1 @@
+§ 152 a. En part kan forlange, at retten fastsætter tidspunktet for hovedforhandlingen, hvis det er nødvendigt på grund af kravet i artikel 6 i Den Europæiske Menneskerettighedskonvention om behandling af sagen inden for en rimelig frist.

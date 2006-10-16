@@ -6,10 +6,12 @@
 
 3) præsident, vicepræsident og dommer i Sø- og Handelsretten,
 
-4) byretspræsident, administrerende byretsdommer og byretsdommer,
+4) byretspræsident og byretsdommer,
 
-5) midlertidigt beskikket dommer i henhold til § 44 b og
+5) præsident i Tinglysningsretten,
 
-6) midlertidigt beskikket dommer i henhold til § 44 c.
+6) midlertidigt beskikket dommer i henhold til § 44 b og
+
+7) midlertidigt beskikket dommer i henhold til § 44 c.
 
 Stk. 2. Rådets indstillinger skal være begrundede. Rådet kan kun indstille én ansøger til en ledig stilling. Såfremt der ikke i rådet er enighed om, hvem af ansøgerne der skal indstilles, afgøres spørgsmålet ved afstemning. Ved stemmelighed gør formandens stemme udslaget. Det skal tilkendegives i rådets indstilling, såfremt der har været uenighed om indstillingen, og de enkelte medlemmers standpunkter skal fremgå.

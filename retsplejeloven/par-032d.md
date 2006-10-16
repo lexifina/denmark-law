@@ -1,0 +1,1 @@
+§ 32 d. Skal nogen afgive forklaring i et retsmøde, må en part eller rettergangsfuldmægtig, der ikke er advokat, kun deltage i retsmødet ved anvendelse af telekommunikation med billede, såfremt fremgangsmåden i § 192 følges eller den pågældende er ledsaget af en advokat.
