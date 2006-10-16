@@ -1,57 +1,45 @@
-Lov nr. 50 af 24. februar 1960 indeholder følgende bestemmelse:
+Lov nr. 826 af 18. december 1991 indeholder følgende bestemmelse:
 
-§ 2. Forsikringsaftaleloven sættes i kraft i Grønland fra den 1. januar 1961.
+§ 4
 
-----
+Loven træder i kraft den 1. juli 1992.
 
-Lov nr. 179 af 24. maj 1972 indeholder følgende bestemmelse:
+Lov nr. 262 af 6. maj 1993 indeholder følgende bestemmelse:
 
-§ 2. Tidspunktet for lovens ikrafttræden bestemmes af justitsministeren (* 1)
+§ 3
 
-----
+Loven træder i kraft den 1. juli 1993 og finder anvendelse på aftaler indgået efter dette tidspunkt.
 
-Lov nr. 181 af 24. maj 1972 indeholder følgende bestemmelse:
+Lov nr. 413 af 10. juni 1997 indeholder følgende bestemmelse:
 
-§ 13. Loven gælder ikke for Færøerne og Grønland, men kan ved kgl. anordning sættes i kraft for disse landsdele med de afvigelser, som landsdelenes særlige forhold tilsiger.
+§ 3
 
-----
+Loven træder i kraft dagen efter bekendtgørelsen i Lovtidende.
 
-Lov nr. 212 af 26. april 1973 indeholder følgende bestemmelse:
+Lov nr. 435 af 31. maj 2000 indeholder følgende bestemmelser:
 
-§ 5. Loven gælder ikke for Færøerne og Grønland, men kan ved kgl. anordning sættes i kraft for disse landsdele med de afvigelser, som de særlige færøske og grønlandske forhold tilsiger. (* 2)
+§ 2
 
-----
+Loven træder i kraft dagen efter bekendtgørelsen i Lovtidende.
 
-Lov nr. 250 af 12. juni 1975 indeholder følgende bestemmelser:
+Stk. 2. Loven gælder aftaler, der indgås eller forlænges efter lovens ikrafttræden.
 
-§ 5. Loven gælder ikke for Færøerne og Grønland.
+Lov nr. 434 af 10. juni 2003 indeholder følgende bestemmelser:
 
-Stk. 2. §§ 1, 2 og 4, nr. 1 (* 3), 2, 3, 5 og 6, kan ved kongelig anordning sættes i kraft for Færøerne.
+§ 4
 
-Stk. 3. §§ 2 og 4, nr. 1, 2, 3, 5 og 6, kan ved kongelig anordning sættes i kraft for Grønland. (* 4)
+Loven træder i kraft den 1. juli 2004, jf. dog stk. 3 og 4.
 
-----
+Stk. 2. Lovens § 1, nr. 3,4,8,10 og 11, finder anvendelse på forsikringsbegivenheder, der indtræder efter lovens ikrafttræden, og § 1, nr. 5, på præmie, der forfalder til betaling efter lovens ikrafttræden. § 1, nr. 7, 9 og 14, finder anvendelse på skader, der indtræder efter lovens ikrafttræden.
 
-Lov nr. 266 af 26. juni 1975 indeholder følgende bestemmelser:
+Stk. 3. Lovens § 1, nr. 6, og § 2 træder i kraft den 1. juli 2003 og gælder for rente af krav, der kan kræves betalt denne dato eller senere.
 
-§ 9. Loven gælder ikke for Færøerne og Grønland.
+Stk. 4. (Udelades)
 
-Stk. 2. §§ 1-5 (* 5) og § 7 kan ved kongelig anordning sættes i kraft for Færøerne med de afvigelser, som de særlige færøske forhold tilsiger.
+Lov nr. 451 af 9. juni 2004 indeholder følgende bestemmelser.
 
-Stk. 3. §§ 1-6 kan ved kongelig anordning sættes i kraft for Grønland med de afvigelser, som de særlige grønlandske forhold tilsiger.
+§ 30. Loven træder i kraft den 1. oktober 2004.
 
-----
+Stk. 2. Loven finder anvendelse på forbrugeraftaler indgået efter lovens ikrafttræden.
 
-Lov nr. 228 af 23. maj 1984 (* 6) indeholder følgende bestemmelser:
-
-§ 28. Loven træder i kraft den 1. oktober 1984 og finder anvendelse på erstatningsansvar for skader, der indtræder efter lovens ikrafttræden.
-
-§ 32. Loven gælder ikke for Færøerne og Grønland, men kan ved kgl. anordning sættes i kraft for disse landsdele med de afvigelser, som de særlige færøske og grønlandske forhold tilsiger.
-
-----
-
-Lov nr. 618 af 19. december 1984 (* 7) indeholder følgende bestemmelser:
-
-§ 7. Loven træder i kraft den 1. januar 1985 og finder anvendelse i det omfang, der skal betales renter for et tidsrum efter lovens ikrafttræden.
-
-§ 8. Loven gælder ikke for Færøerne og Grønland, men kan ved kgl. anordning sættes i kraft for disse landsdele med de afvigelser, som de særlige færøske og grønlandske forhold tilsiger.
+Stk. 3. Lov om visse forbrugeraftaler, jf. lovbekendtgørelse nr. 886 af 23. december 1987, ophæves. Loven gælder dog fortsat for forbrugeraftaler, der er indgået inden denne lovs ikrafttræden.
