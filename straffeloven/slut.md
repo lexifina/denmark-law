@@ -1,8 +1,8 @@
-Justitsministeriet, den 27. september 2005
+Justitsministeriet, den 5. oktober 2006
 
 Lene Espersen
 
-/Helle Hübertz Krogsøe
+/Ole Hasselgaard
 
 Bilag 1
 
@@ -36,7 +36,7 @@ Særlig del
 
 12. | kapitel | Forbrydelser mod statens selvstændighed og sikkerhed | §§ | 98 | - | 110 f
 
-13. | kapitel | Forbrydelser mod statsforfatningen og de øverste statsmyndigheder m.v. | §§ | 111 | - | 118 a
+13. | kapitel | Forbrydelser mod statsforfatningen og de øverste statsmyndigheder, terrorisme m.v. | §§ | 111 | - | 118 a
 
 14. | kapitel | Forbrydelser mod den offentlige myndighed mv. | §§ | 119 | - | 132 a
 
@@ -50,7 +50,7 @@ Særlig del
 
 19. | kapitel | Forbrydelser vedrørende bevismidler | §§ | 171 | - | 179
 
-20. | kapitel | Almenfarlige forbrydelser | §§ | 180 | - | 192 a
+20. | kapitel | Almenfarlige forbrydelser | §§ | 180 | - | 192 b
 
 21. | kapitel | Forskellige almenskadelige handlinger | §§ | 193 | - | 196
 

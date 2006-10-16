@@ -19,3 +19,21 @@ Loven er kundgjort i Lovtidende den 25. juni 2005.
 Lovændringen vedrører § 241 og § 249.
 
 Loven er kundgjort i Lovtidende den 25. juni 2005.
+
+Lovændringen vedrører § 299 a.
+
+Lovændringen vedrører § 81 og § 125 a.
+
+Loven er kundgjort i Lovtidende den 22. december 2005.
+
+Lovændringen vedrører § 196.
+
+Lovændringen vedrører § 192 a.
+
+Lovændringen vedrører § 7, § 10, § 222, § 223 a, § 224, § 225, § 226, § 230 og § 235.
+
+Loven er kundgjort i Lovtidende den 9. juni 2006.
+
+Lovændringen vedrører § 110 d, § 114, § 114 a, § 114 b, § 114 c, § 114 d, § 114 e, § 180, § 181, § 183, § 183 a, § 184, § 186, § 192 a, § 192 b, § 193, § 237, § 244, § 245, § 246, § 250, § 252, § 260, § 261, § 266, § 276, § 278, § 279, § 279 a, § 281, § 288 og § 291.
+
+Loven er kundgjort i Lovtidende den 9. juni 2006.

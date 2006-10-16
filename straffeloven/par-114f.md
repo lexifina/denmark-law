@@ -1,0 +1,1 @@
+§ 114 f. Den, som, uden at forholdet omfattes af §§ 114-114 e, deltager i eller yder væsentlig økonomisk eller anden væsentlig støtte til korps, gruppe eller sammenslutning, der har til hensigt ved magtanvendelse at øve indflydelse på offentlige anliggender eller fremkalde forstyrrelse af samfundsordenen, straffes med fængsel indtil 6 år.
