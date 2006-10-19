@@ -1,0 +1,7 @@
+§ 4 a. Ministeren for fødevarer, landbrug og fiskeri yder statsgaranti for realkreditlån til jordbrugere, der opfylder betingelserne i § 10 a.
+
+Stk. 2. I lånets løbetid betaler låntagerne en risikopræmie på 0,75 pct. p.a. af lånets restgæld.
+
+Stk. 3. Den i stk. 2 omhandlede risikopræmie tilfalder statskassen.
+
+Stk. 4. Ministeren fastsætter nærmere regler om opkrævning af risikopræmien.
