@@ -1,5 +1,5 @@
-Ministeriet for Fødevarer, Landbrug og Fiskeri, den 29. juni 2004
+Ministeriet for Fødevarer, Landbrug og Fiskeri, den 9. oktober 2006
 
-Mariann Fischer Boel
+Hans Christian Schmidt
 
 /Søren Sørensen
