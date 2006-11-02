@@ -1,4 +1,4 @@
-Skatteministeriet, den 20. september 2005
+Skatteministeriet, den 24. oktober 2006
 
 P.M.V. Peter Loft
 

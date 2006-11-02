@@ -1,1 +1,1 @@
-§ 33 E. ) (Ophævet)
+§ 33 E. (Ophævet)
