@@ -11,5 +11,3 @@ a) Hvor der for en person i årets løb er sket ændringer i skattepligtsforhold
 b) Hvor en person efter bestemmelserne i en dobbeltbeskatningsoverenskomst bliver hjemmehørende i en fremmed stat, Færøerne eller Grønland.
 
 c) Vedrørende dødsboer.
-
-4) (Ophævet)
