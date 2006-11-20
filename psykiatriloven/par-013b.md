@@ -1,0 +1,3 @@
+§ 13 b. Hvis en patient, der er omfattet af § 13 a, ikke vil medvirke til indgåelse af en udskrivningsaftale, har overlægen ansvaret for, at den psykiatriske afdeling i samarbejde med de relevante myndigheder, privatpraktiserende sundhedspersoner m.fl. udarbejder en koordinationsplan for de behandlingsmæssige og sociale tilbud til patienten.
+
+Stk. 2. Indenrigs- og sundhedsministeren fastsætter regler om registrering og indberetning af koordinationsplaner til sygehusmyndigheden og Sundhedsstyrelsen. Indenrigs- og sundhedsministeren kan i den forbindelse fastsætte regler om, at indberetninger skal indeholde oplysninger om patientens identitet.
