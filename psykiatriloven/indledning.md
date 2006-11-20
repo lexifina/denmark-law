@@ -1,7 +1,3 @@
-Bekendtgørelse af lov om frihedsberøvelse og anden tvang i psykiatrien
+Bekendtgørelse af lov om anvendelse af tvang i psykiatrien
 
-Herved bekendtgøres lov nr. 331 af 24. maj 1989 om frihedsberøvelse og anden tvang i psykiatrien med de ændringer, der følger af lov nr. 386 af 14. juni 1995, § 18 i lov nr. 389 af 14. juni 1995 og § 1 i lov nr. 403 af 26. juni 1998.
-
-## Kapitel 1
-
-Lovens område m.v.
+Herved bekendtgøres lov om frihedsberøvelse og anden tvang i psykiatrien jf. lovbekendtgørelse nr. 849 af 2. december 1998 med de ændringer, der følger af lov nr. 377 af 6. juni 2002, lov nr. 1371 af 20. december 2004, § 10 i lov nr. 542 af 24. juni 2005 og lov nr. 534 af 8. juni 2006.

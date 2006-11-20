@@ -1,9 +1,5 @@
-Sundhedsministeriet, den 2. december 1998
+Indenrigs- og Sundhedsministeriet, den 1. november 2006
 
-Carsten Koch
+Lars Løkke Rasmussen
 
-/Peter Bak Mortensen
-
-Lovændringerne vedrører: § 2, § 3, § 4 a, § 10 a, § 13, § 20, § 21, § 24, § 25, § 30, § 32, kap. 10, § 40, § 41 a samt § 46.
-
-Overgangsbestemmelserne vedrører kap. 10 (§§ 34-39).
+/Lene Christensen
