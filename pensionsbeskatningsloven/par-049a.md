@@ -12,6 +12,6 @@ Stk. 6. Forinden afgiftsberegningen efter stk. 2 eller 5 afrundes det afgiftspli
 
 Stk. 7. Der svares afgift efter stk. 2 eller 5, selv om medlemmet ikke har været skattepligtigt her i landet i den periode, hvor indbetaling af bidragene til efterlønsordningen har fundet sted.
 
-Stk. 8. Når afgiftspligt indtræder som følge af en tilbagebetaling, påhviler afgiftspligten den eller dem, der efter lov om arbejdsløshedsforsikring m.v. er berettiget til tilbagebetalingen. Afgiften tilbageholdes ved tilbagebetalingen og skal indbetales til statskassen inden 3 hverdage (bankdage) efter tilbagebetalingen. Den afgiftspligtige skal underrettes om tilbageholdelsen. § 38, stk. 5 og 6, og § 39 finder tilsvarende anvendelse.
+Stk. 8. Når afgiftspligt indtræder som følge af en tilbagebetaling, påhviler afgiftspligten den eller dem, der efter lov om arbejdsløshedsforsikring m.v. er berettiget til tilbagebetalingen. Afgiften tilbageholdes ved tilbagebetalingen og skal indbetales til statskassen inden 3 hverdage (bankdage) efter tilbagebetalingen. Den afgiftspligtige skal underrettes om tilbageholdelsen. § 38, stk. 5 og 6 og § 39 finder tilsvarende anvendelse.
 
 Stk. 9. Afgiften tilfalder staten.
