@@ -1,0 +1,1 @@
+Lovændringen vedrører lovens titel, § 1, § 2, § 2 a, § 3, § 4, § 4 a, § 12, §§ 13 a-13 c, overskrift efter § 18, §§ 18 c-18 f, § 19, § 19 a, § 20, § 21, § 22, § 24, § 30, § 31, § 34, § 35, § 36, § 37, § 38, § 39 og § 46.
