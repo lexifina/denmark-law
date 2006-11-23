@@ -1,9 +1,5 @@
-Givet på Christiansborg Slot, den 13. juni 1990
+Justitsministeriet, den 24. oktober 2006
 
-Under Vor Kongelige Hånd og Segl
+Lene Espersen
 
-MARGRETHE R.
-
-/ Hans Engell
-
-Ingen
+/Jørgen Steen Sørensen
