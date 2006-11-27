@@ -1,8 +1,8 @@
-Indenrigs- og Sundhedsministeriet, den 3. marts 2004
+Indenrigs- og Sundhedsministeriet, den 20. november 2006
 
 Lars Løkke Rasmussen
 
-/Søren H. Thomsen
+/Inger Mogensen
 
 Bilag 1
 
@@ -10,7 +10,7 @@ Bilag 1
 
 1) Personnummeroplysninger: Personnummer, jf. § 3, henvisning mellem nyt og tidligere personnummer, der opbevares i CPR (historisk), samt ved ændring af personnummer, f.eks. ved fejl i køn og fødselsdato, jf. § 3, stk. 5.
 
-2) Navneoplysninger: Fornavn, mellemnavn og efternavn, eget efternavn, dvs. personens seneste efternavn erhvervet på andet grundlag end ægteskab, markering af manglende mulighed for korrekt registrering af navn, jf. § 5, stk. 3, samt adresseringsnavn, jf. § 5, stk. 4-8. Tidligere navne opbevares i CPR (historisk).
+2) Navneoplysninger: Fornavn, mellemnavn og efternavn, eget efternavn, dvs. personens seneste efternavn erhvervet på andet grundlag end ægteskab, markering af manglende mulighed for korrekt registrering af navn, jf. § 5, stk. 3, samt adresseringsnavn, jf. § 5, stk. 4-7. Tidligere navne opbevares i CPR (historisk).
 
 3) Adresseoplysninger:
 
@@ -42,7 +42,7 @@ f) Flyttepåbud efter lov om planlægning (sommerhuse).
 
 11) Eventuelle stillingsoplysninger: Eventuel stillingsangivelse, som vedkommende tidligere har anmodet om, og som pågældende kan få ændret eller slettet ved henvendelse til bopælskommunen.
 
-12) Eventuelle oplysninger om kommunale forhold: Kommunernes eventuelle oplysning om, at vedkommende lever adskilt fra sin ægtefælle, er et plejebarn, pensionsforhold, tidligere opholdskommune, når denne kommune har den generelle betalingsforpligtelse (lov om kommunal udligning og generelle tilskud til kommunerne og amtskommunerne, § 25, stk. 3), medlemskab af valgmenighed, når valgmenigheden og kommunen har aftalt, at kommunen opkræver kirkelige bidrag for valgmenigheden, samt angivelse af fælleshusholdning eller familiekode.
+12) Eventuelle oplysninger om kommunale forhold: Kommunernes eventuelle oplysning om, at vedkommende lever adskilt fra sin ægtefælle, er et plejebarn, pensionsforhold, tidligere opholdskommune, når denne kommune har den generelle betalingsforpligtelse (lov om kommunal udligning og generelle tilskud til kommuner § 29), medlemskab af valgmenighed, når valgmenigheden og kommunen har aftalt, at kommunen opkræver kirkelige bidrag for valgmenigheden, samt angivelse af fælleshusholdning eller familiekode.
 
 13) Eventuelle oplysninger om kommunale notater: Indenrigs- og Sundhedsministeriets og kommunernes registrering af visse faktiske oplysninger af klar betydning for varetagelse af opgaverne efter folkeregistreringslovgivningen, f.eks. oplysning om, at personens opholdssted ikke kendes, eller om indsættelse eller anbringelse i en af kriminalforsorgens anstalter m.v., jf. § 15, stk. 3.
 
@@ -52,6 +52,4 @@ f) Flyttepåbud efter lov om planlægning (sommerhuse).
 
 16) Eventuelle værgemålsoplysninger: Oplysning om, at personen er under værgemål med fratagelse af den retlige handleevne, jf. værgemålslovens § 6, samt værgens navn og dennes adresse.
 
-17) Eventuelt opholdsgrundlag: Oplysninger om opholdsgrundlag efter udlændingeloven eller forskrifter udstedt i medfør heraf. Tidligere registreret opholdsgrundlag bevares i CPR (historisk).
-
-18) For de i nr. 1-17 nævnte oplysninger registreres endvidere ajourføringstidspunkt, gyldighedsstart og eventuel slutdato m.m. samt den myndighed, som har godkendt eller ajourført registreringen, og eventuel særlig dokumentation for en given oplysning samt visse tekniske styredata.
+17) For de i nr. 1-16 nævnte oplysninger registreres endvidere ajourføringstidspunkt, gyldighedsstart og eventuel slutdato m.m. samt den myndighed, som har godkendt eller ajourført registreringen, og eventuel særlig dokumentation for en given oplysning samt visse tekniske styredata.
