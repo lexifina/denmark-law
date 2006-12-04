@@ -1,9 +1,3 @@
-Bekendtgørelse af lov om afgift af affald og råstoffer
+Bekendtgørelse af lov om afgift af affald og råstoffer (affalds- og råstofafgiftsloven)
 
-Herved bekendtgøres lov om afgift af affald og råstoffer, jf. lovbekendtgørelse nr. 335 af 10. maj 1997, med de ændringer, der følger af § 3 i lov nr. 1098 af 29. december 1997, lov nr. 1099 af 29. december 1997 og § 6 i lov nr. 1107 af 29. december 1997.
-
-## Kapitel 1
-
-Råstoffer
-
-Afgiftspligtens omfang
+Herved bekendtgøres lov om afgift af affald og råstoffer (affalds- og råstofafgiftsloven), jf. lovbekendtgørelse nr. 570 af 3. august 1998, med de ændringer, der følger af lov nr. 1034 af 23. december 1998, § 5 i lov nr. 380 af 2. juni 1999, § 20 i lov nr. 165 af 15. marts 2000, lov nr. 359 af 22. maj 2000, § 1 i lov nr. 1029 af 22. november 2000, § 1 i lov nr. 1295 af 20. december 2000, lov nr. 487 af 7. juni 2001, § 2 i lov nr. 1057 af 17. december 2002, § 3 i lov nr. 127 af 27. februar 2004, § 9 i lov nr. 325 af 18. maj 2005, § 1 i lov nr. 428 af 6. juni 2005, § 1 i lov nr. 1408 af 21. december 2005, § 1 i lov nr. 512 af 7. juni 2006 og § 1 i lov nr. 515 af 7. juni 2006.
