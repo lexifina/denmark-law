@@ -1,7 +1,5 @@
-Skatteministeriet, den 3. august 1998
+Skatteministeriet, den 6. december 2006
 
-Ole Stavad
+P.M.V. Peter Loft
 
 /John Fuhrmann
-
-Lov nr. 1098 af 29. december 1997 om ændring af forskellige skatte- og afgiftslove (ændret klagestruktur m.v.) trådte i kraft den 1. april 1998.
