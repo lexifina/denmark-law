@@ -1,9 +1,5 @@
-Givet på Christiansborg Slot, den 10. juni 1997
+Undervisningsministeriet, den 11. december 2006
 
-Under Vor Kongelige Hånd og Segl
+Bertel Haarder
 
-MARGRETHE R.
-
-/ Ole Vig Jensen
-
-Ingen
+/Ella Højbjerg Madsen
