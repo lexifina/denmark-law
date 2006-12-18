@@ -1,4 +1,4 @@
-Indenrigs- og Sundhedsministeriet, den 18. maj 2005
+Indenrigs- og Sundhedsministeriet, den 8. december 2006
 
 Lars Løkke Rasmussen
 
