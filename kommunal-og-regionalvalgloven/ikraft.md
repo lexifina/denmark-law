@@ -1,21 +1,17 @@
-Lov nr. 145 af 25. marts 2002, der ændrer § 19, indeholder i § 78 følgende ikrafttrædelsesbestemmelse:
+Lov nr. 537 af 24. juni 2005, der i kapitel 5 bl.a. ændrer lovens titel, overalt ændrer amtskommune til region, Amtsrådet til Regionsrådet, amtsrådsvalg til regionsrådsvalg, amtsrådsvalget til regionsrådsvalget, amtsvalgbestyrelsen til regionsvalgbestyrelsen, Amtsvalgbestyrelsen til Regionsvalgbestyrelsen samt ændrer §§ 1, 2, 3, 4-6, 6 a, 14, 17-22, 44, 45, 48, 60, 63, 65, 71, 80, 81, 89, 91-94, overskriften til kapitel 10, §§ 97-103, 105-107 og 108 a, indeholder følgende ikrafttrædelses- og overgangsbestemmelser m.v.:
 
-§ 78
+§ 85
 
-Stk. 1. Loven træder i kraft den 1. januar 2003 ( ).
+Loven træder i kraft dagen efter bekendtgørelsen i Lovtidende . § 37 og kapitel 5 træder dog i kraft den 1. januar 2007.
 
-Stk. 2. (Udeladt).
+§ 86-88. (Udeladt).
 
-Lov nr. 1209 af 27. december 2003, der ændrer §§ 3, 20, 27, 31, 74, 78 og 80, indsætter § 6 a, § 14, stk. 2, § 16, stk. 3, § 17, stk. 3 og § 78 a, indeholder i § 4 følgende ikrafttrædelsesbestemmelse:
+§ 89
 
-§ 4
+Der afholdes ikke valg til amtsrådene den 15. november 2005. Funktionsperioden for amtsrådene, hvis funktionsperiode regnes fra den 1. januar 2002, forlænges med 1 år fra den 1. januar 2006 til den 31. december 2006.
 
-Loven træder i kraft den 1. februar 2004.
+Stk. 2. Lov om kommunale og regionale valg, jf. § 79, har virkning fra og med de kommunale og regionale valg i 2009, jf. dog stk. 3. De forskrifter, der er udstedt i medfør af lov om kommunale valg om afholdelse af valg til amtsråd, finder tilsvarende anvendelse for regionale valg, medmindre indenrigs- og sundhedsministeren fastsætter andet.
 
-Lov nr. 294 af 27. april 2005, der ændrer § 70 og indsætter § 9, stk. 4, indeholder i § 4 følgende ikrafttrædelsesbestemmelse:
+Stk. 3. Kapitel 11 i lov om kommunale og regionale valg om medlemmers udtræden og stedfortræderes indtræden i valgperioden finder anvendelse for regionsrådene fra og med regionsrådenes første funktionsperiode fra den 1. januar 2007 til den 31. december 2009 og for kommunalbestyrelserne fra den 1. januar 2007.
 
-§ 4
-
-Stk. 1. Loven træder i kraft den 1. august 2005.
-
-Stk. 2. (Udeladt).
+Stk. 4. Funktionsperioden for det valgbarhedsnævn, hvis funktionsperiode regnes fra den 1. april 2002, forlænges med 1 år fra den 1. april 2006 til den 31. marts 2007. Funktionsperioden for det valgbarhedsnævn, hvis funktionsperiode regnes fra den 1. april 2007, forkortes med 1 år fra den 31. marts 2011 til den 31. marts 2010.
