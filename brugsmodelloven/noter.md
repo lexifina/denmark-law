@@ -1,0 +1,1 @@
+Loven indeholder bestemmelser, der gennemfører dele af Europa-Parlamentets og Rådets direktiv 2004/48/EF af 29. april 2004 om håndhævelsen af intellektuelle ejendomsrettigheder (EU-Tidende 2004 nr. L 195, s. 15).
