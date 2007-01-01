@@ -1,0 +1,1 @@
+§ 15 a. Regionsrådet udøver kommunalbestyrelsens beføjelser i henhold til § 3, stk. 1 og 2, § 5, § 6, stk. 1 og 2, og § 14, stk. 1, for så vidt angår de i § 1 nævnte tjenestemænd, der overgår til ansættelse i regionerne.

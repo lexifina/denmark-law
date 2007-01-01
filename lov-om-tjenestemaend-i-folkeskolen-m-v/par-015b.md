@@ -1,0 +1,1 @@
+§ 15 b. Løn- og andre ansættelsesvilkår, der gælder for tjenestemænd i regionerne, træder, for så vidt angår de i § 1 nævnte tjenestemænd, der overgår til ansættelse i regionerne, i stedet for de i § 4, stk. 1, 1. pkt., og § 8 nævnte regler for kommunale tjenestemænd.
