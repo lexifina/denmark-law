@@ -1,0 +1,1 @@
+§ 37 a. Kommunalbestyrelsen udarbejder en handleplan, jf. §§ 46 a-46 e, til gennemførelse af Natura 2000-planen inden for kommunens geografiske område på land og for den kystnære del af vanddistriktet.
