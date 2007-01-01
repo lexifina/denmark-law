@@ -10,8 +10,8 @@ Stk. 3. Bestyrerens begæring om indbringelse for domstolene skal være modtaget
 
 Stk. 4. Dørmandens eller den ansattes begæring om indbringelse for domstolene skal være modtaget hos politiet senest 4 uger efter, at afgørelsen om tilbagekaldelse er meddelt dørmanden eller den ansatte.
 
-Stk. 5. Politimesteren indbringer sager om tilbagekaldelse for retten efter reglerne i retsplejelovens kapitel 81.
+Stk. 5. Politidirektøren indbringer sager om tilbagekaldelse for retten efter reglerne i retsplejelovens kapitel 81.
 
-Stk. 6. Begæring om sagsanlæg har opsættende virkning, men retten kan ved kendelse bestemme, i hvilket omfang den pågældende under sagens behandling må udøve hvervet som bestyrer, dørmand eller ansat. Såfremt bevillingsmyndighedens eller politimesterens afgørelse ved dommen findes lovlig, kan det i denne dom bestemmes, at anke ikke har opsættende virkning.
+Stk. 6. Begæring om sagsanlæg har opsættende virkning, men retten kan ved kendelse bestemme, i hvilket omfang den pågældende under sagens behandling må udøve hvervet som bestyrer, dørmand eller ansat. Såfremt bevillingsmyndighedens eller politidirektørens afgørelse ved dommen findes lovlig, kan det i denne dom bestemmes, at anke ikke har opsættende virkning.
 
 Stk. 7. En frakendelse eller tilbagekaldelse kan ske for et tidsrum af 1 til 5 år.
