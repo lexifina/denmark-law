@@ -1,4 +1,4 @@
-§ 43c. Forbud, der skal have virkning på enhver medlemsstats område, jf. EF-varemærkeforordningens art. 99, stk. 2, nedlægges af Sø- og Handelsretten i København.
+§ 43 c. Forbud, der skal have virkning på enhver medlemsstats område, jf. EF-varemærkeforordningens art. 99, stk. 2, nedlægges af Sø- og Handelsretten.
 
 Stk. 2. Sø- og Handelsrettens afgørelser i medfør af stk. 1 kan kæres til Østre Landsret.
 
