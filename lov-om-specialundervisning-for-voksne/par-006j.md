@@ -1,0 +1,1 @@
+§ 6 j. Bestemmelserne i § 6 b, § 6 c, stk. 4-9, og §§ 6 d-6 g om styrelsesregler m.v. for kommunale undervisningsinstitutioner og § 6 m, stk. 1 og 3, om uddannelse af ledere og lærere gælder tilsvarende for de regionale undervisningsinstitutioner.
