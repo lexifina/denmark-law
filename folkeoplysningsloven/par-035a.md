@@ -1,1 +1,1 @@
-§ 35 a. Er der ikke nedsat et folkeoplysningsudvalg i henhold til § 34, udøver kommunalbestyrelsen udvalgets kompetencer efter § 5, stk. 1, 2. pkt., og stk. 8, 1. og 2. pkt., § 8, stk. 4, § 10, stk. 1, § 18, stk. 1, § 21, § 23, stk. 1 og 2, § 25, stk. 2 og 3, § 28, § 37, stk. 3-5 og 9, og § 38, stk. 1 og 2.
+§ 35 a. Ophævet.
