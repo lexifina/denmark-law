@@ -1,3 +1,5 @@
-§ 3 c. Kommunalbestyrelsen kan bestemme, at ejendomme ved ejernes foranstaltning og på disses bekostning skal forsynes med skilte med angivelse af husnummer og matrikelnummer samt belysning af husnummerskilte.
+§ 3 c. Ejere af ejendomme skal opsætte husnummerskilte, som angiver de af kommunalbestyrelsen fastsatte husnumre på en sådan måde, at disse er synlige fra det adgangsgivende vejareal.
 
-Stk. 2. Nærmere bestemmelser om udførelse og anbringelse af skilte med husnumre og matrikelnumre samt belysning af husnummerskilte kan fastsættes af kommunalbestyrelsen, for hovedlandeveje og landeveje dog kun efter forhandling med vedkommende vejbestyrelse.
+Stk. 2. Nærmere bestemmelser om udførelse og anbringelse af skilte med husnumre samt belysning af husnummerskilte kan fastsættes af kommunalbestyrelsen, for hovedlandeveje dog kun efter forhandling med Vejdirektoratet.
+
+Stk. 3. Økonomi- og erhvervsministeren kan fastsætte regler om, at kommunalbestyrelsen kan kræve, at der ved ejerens foranstaltning og på dennes bekostning skal opsættes skilte med angivelse af de fastsatte dørbetegnelser.
