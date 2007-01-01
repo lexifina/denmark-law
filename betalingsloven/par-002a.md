@@ -14,8 +14,8 @@ Stk. 7. Den maksimale grænse på 500 kr. inklusive moms pr. år for den faste d
 
 Stk. 8. Ejendomme, der afleder særlig forurenet spildevand, pålignes særbidrag, såfremt tilledningen giver anledning til særlige foranstaltninger i forbindelse med det offentlige spildevandsanlægs etablering og drift.
 
-Stk. 9. For statsveje og amtskommunale veje fastsættes med udgangspunkt i kubikmetertaksten, jf. stk. 3, et årligt vejbidrag beregnet ud fra en vandmængde på 0,12 m3 vand pr. m2 areal, hvorfra spildevandet tilledes til det offentlige spildevandsanlæg. Hvis vandafledningsbidraget er opdelt i en fast og en variabel del, jf. stk. 6, betaler statsveje og amtskommunale veje alene den variable del af bidraget beregnet ud fra den i stk. 6 nævnte variable kubikmetertakst.
+Stk. 9. For statsveje fastsættes med udgangspunkt i kubikmetertaksten, jf. stk. 3, et årligt vejbidrag beregnet ud fra en vandmængde på 0,12 m3 vand pr. m2 areal, hvorfra spildevandet tilledes til det offentlige spildevandsanlæg. Hvis vandafledningsbidraget er opdelt i en fast og en variabel del, jf. stk. 6, betaler statsveje alene den variable del af bidraget beregnet ud fra den i stk. 6 nævnte variable kubikmetertakst.
 
-Stk. 10. For kommunale veje og private fællesveje skal kommunen betale et årligt vejbidrag til kloakforsyningen på højst 8 pct. af udgifterne til kloakledningsanlæggene.
+Stk. 10. For kommunale veje og private fællesveje skal kommunen betale et årligt vejbidrag til kloakforsyningen på højst otte procent af udgifterne til kloakledningsanlæggene.
 
 Stk. 11. Vandafledningsbidrag og vejbidrag betales fra det tidspunkt, hvor en ejendom tilsluttes det offentlige spildevandsanlæg. Hvis der ikke er tale om en permanent fysisk tilslutning til det offentlige spildevandsanlæg, betales vandafledningsbidraget fra det tidspunkt, hvor afledningen til det offentlige spildevandsanlæg begyndes.
