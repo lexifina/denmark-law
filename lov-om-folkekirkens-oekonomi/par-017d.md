@@ -1,11 +1,3 @@
-§ 17 d. Provstiudvalgskassens udgifter dækkes gennem ligning på folkekirkens medlemmer i kommunen. Omfatter provstiet flere kommuner eller dele af flere kommuner, dækkes udgifter til provstiudvalgskassen gennem ligning på folkekirkens medlemmer i kommunerne.
+§ 17 d. I kommuner, der omfatter flere provstier eller dele af flere provstier, og hvor der ikke skal nedsættes budgetudvalg i medfør af § 17 c, fastsættes det samlede ligningsbeløb til kommunens kirke- og præstegårdskasser og fordelingen mellem de enkelte kirkelige kasser af provstiudvalget for det provsti, hvor flest af kommunens folkekirkemedlemmer bor. Dette provsti benævnes ligningsprovstiet. Budgetsamrådet i ligningsprovstiet kan i medfør af § 5, stk. 4, beslutte at overtage den i 1. pkt. nævnte kompetence fra ligningsprovstiet.
 
-Stk. 2. Provstiudvalget udarbejder årligt budget over provstiudvalgskassens indtægter og udgifter for det kommende regnskabsår.
-
-Stk. 3. Ligningsbeløbet til provstiudvalgskassen fastsættes af provstiudvalget.
-
-Stk. 4. Kirkeministeren fastsætter nærmere regler om udarbejdelse af budget for provstiudvalgskassen.
-
-Stk. 5. Regnskabsåret for provstiudvalgskassen er kalenderåret.
-
-Stk. 6. Provstiudvalget aflægger årligt regnskab for provstiudvalgskassen. Kirkeministeren fastsætter nærmere regler om regnskabernes aflæggelse, om revision og om stiftsøvrighedens godkendelse af regnskaberne.
+Stk. 2. De menighedsråd i kommunen, som ikke ligger i ligningsprovstiet, har ret til at deltage i budgetsamrådet i ligningsprovstiet. Disse menighedsråd har samme rettigheder og pligter ved budgetsamrådets drøftelser og eventuelle beslutninger om målsætninger for udgifter og ligning, fastsættelse af driftsrammer, anlægsbevillinger og ligningsbeløb i ligningsområdet som ligningsprovstiets menighedsråd.
