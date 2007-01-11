@@ -1,5 +1,5 @@
-Kirkeministeriet, den 28. april 2006
+Kirkeministeriet, den 3. januar 2007
 
 Bertel Haarder
 
-/Pernille Esdahl
+/Lise Marianne Hjort
