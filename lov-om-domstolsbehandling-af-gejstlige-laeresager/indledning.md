@@ -1,3 +1,3 @@
-Lov om domstolsbehandling af gejstlige læresager
+Bekendtgørelse af lov om domstolsbehandling af gejstlige læresager
 
-VI MARGRETHE DEN ANDEN, af Guds Nåde Danmarks Dronning, gør vitterligt: Folketinget har vedtaget og Vi ved Vort samtykke stadfæstet følgende lov:
+Herved bekendtgøres lov nr. 336 af 14. maj 1992 om domstolsbehandling af gejstlige læresager med de ændringer, der følger af lov nr. 1567 af 20. december 2006.
