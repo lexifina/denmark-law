@@ -18,4 +18,4 @@ Stk. 9. Tillæggene efter stk. 6 beregnes som en procentsats af den frivillige a
 
 Stk. 10. Told- og skatteforvaltningen offentliggør indkomstårets godtgørelsesprocent, restskatteprocent og procenttillæg efter stk. 6 senest den 15. januar. Hvor selskabet eller foreningen m.v. anvender et andet indkomstår end kalenderåret (forskudt indkomstår), anvendes godtgørelsesprocenten, restskatteprocenten og procenttillæggene efter stk. 6, som er beregnet på baggrund af den markedsrente, der er opgjort på baggrund af renteniveauet ultimo det kalenderår, som går forud for det kalenderår, som indkomståret træder i stedet for.
 
-Stk. 11 . Tillæg, renter og godtgørelse efter stk. 4-6 indgår ikke i den skattepligtige indkomst.
+Stk. 11. Tillæg, renter og godtgørelse efter stk. 4-6 indgår ikke i den skattepligtige indkomst.
