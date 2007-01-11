@@ -1,0 +1,1 @@
+§ 37 a. Ministeren kan fastsætte de nødvendige regler for anvendelsen her i landet af Den Europæiske Unions forordninger om bekæmpelsesmidler, herunder om hvilke myndigheder der skal administrere forordningerne.
