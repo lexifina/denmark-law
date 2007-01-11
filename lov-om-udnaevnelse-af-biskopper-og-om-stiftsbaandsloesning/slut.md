@@ -1,7 +1,5 @@
-Kirkeministeriet, den 16. juni 1994
+Kirkeministeriet, den 3. januar 2007
 
-A. O. Andersen
+Bertel Haarder
 
-/ Carsten Dalsgaard Jørgensen
-
-Ingen
+/Lise Marianne Hjort
