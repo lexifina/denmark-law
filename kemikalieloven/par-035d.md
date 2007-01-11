@@ -1,11 +1,17 @@
-§ 35 d. Ministeren kan optage andre aktivstoffer på lovens bilag 2,
+## Salgs- og anvendelsesforbud
 
-1) når midler med stoffet vurderes som uacceptabelt for sundhed og miljø, jf. § 35, stk. 1, eller
+§ 35 d. Bekæmpelsesmidler, der er opført på lovens bilag 2, liste A og B, må ikke sælges eller anvendes i Danmark.
 
-2) når det følger af international aftale eller forpligtelse.
+Stk. 2. Miljøministeren kan optage andre bekæmpelsesmidler på lovens bilag 2,
 
-Stk. 2. Ministeren kan fjerne aktivstoffer fra bilag 2,
+1) når de vurderes som uacceptable for sundhed og miljø (liste A), eller
 
-1) når det følger af international aftale eller forpligtelse, eller
+2) når det følger af EU-regulering eller international aftale eller forpligtelse (liste B).
 
-2) når der forligger nye oplysninger, der ændrer vurderingen i henhold til stk. 1, nr. 1, af stoffer, der er optaget på liste A.
+Stk. 3. Ministeren kan fjerne bekæmpelsesmidler eller aktivstoffer fra bilag 2,
+
+1) når det følger af EU-regulering eller international aftale eller forpligtelse, eller
+
+2) når der foreligger nye oplysninger, der ændrer vurderingen i henhold til stk. 2, nr. 1.
+
+Stk. 4. Når et godkendt bekæmpelsesmiddel optages på bilag 2, bortfalder godkendelsen.
