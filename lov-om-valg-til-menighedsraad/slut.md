@@ -1,5 +1,5 @@
-Kirkeministeriet, den 16. marts 2004
+Kirkeministeriet, den 3. januar 2007
 
-Tove Fergo
+Bertel Haarder
 
-/Pernille Esdahl
+/Lise Marianne Hjort
