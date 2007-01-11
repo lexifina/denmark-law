@@ -1,0 +1,3 @@
+§ 15 b. Forud for eksport af andre varer end de i § 15 a, stk. 1, nævnte, som indeholder kemiske stoffer eller produkter, der ikke er omfattet af reglerne om eksportanmeldelse i forordningen om eksport og import af farlige kemikalier, jf. forordningens bilag I, og hvis anvendelse i medfør af denne lov eller regler udstedt med hjemmel heri er forbudt eller underkastet strenge restriktioner i én eller flere kategorier, jf. § 15 a, stk. 2-4, skal eksportøren indgive en eksportanmeldelse, jf. stk. 2.
+
+Stk. 2. Miljøministeren fastsætter, hvilke kemiske stoffer og produkter der skal eksportanmeldes efter stk. 1. Denne opgørelse ajourføres mindst én gang årligt.

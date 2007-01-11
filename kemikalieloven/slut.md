@@ -1,187 +1,273 @@
-Miljø- og Energiministeriet, den 16. januar 1996
+Miljøministeriet, den 22. december 2006
 
-Svend Auken
+Connie Hedegaard
 
-/ Niels Juul Jensen
+/Ole Christiansen
 
 Bilag 1
 
-LISTE OVER STOFFER OG PRODUKTER, SOM ER OMFATTET AF LOVENS KAPITEL 71)
+## LISTE OVER STOFFER OG PRODUKTER, SOM ER OMFATTET AF LOVENS KAPITEL 7 Bekæmpelsesmidler er plantebeskyttelsesmidler og biocidmidler.
 
-1. Bekæmpelsesmidler
+## 1. Plantebeskyttelsesmidler
 
-A. Kemiske stoffer og produkter, som er bestemt til bekæmpelse af
+Ved plantebeskyttelsesmidler i kapitel 7 forstås kemiske stoffer og produkter eller mikroorganismer, der har et eller flere af følgende formål:
 
-a. plantesygdomme,
+ at beskytte planter eller planteprodukter mod skadegørere eller at forebygge sådanne skadegøreres angreb,
 
-b. træødelæggende svamp,
+ at øve indflydelse på planters livsprocesser på anden måde end som ernæring (f.eks. som vækstregulerende midler),
 
-c. uønsket plantevækst,
+ at bevare produkter, som stammer fra planter, der er uforarbejdede eller er forarbejdede ved simple metoder såsom formaling, tørring eller presning, og for hvilke der ikke findes særlige Fællesskabsbestemmelser om konserveringsmidler,
 
-d. algevækst,
+ at ødelægge uønskede planter, at ødelægge plantedele, eller at bremse eller forebygge uønsket vækst af planter.
 
-e. slimdannende organismer i papirmasse,
+## 2. Biocidmidler
 
-f. følgende laverestående dyr:
+Ved biocidmidler i kapitel 7 forstås:
 
-1. dyr, der må anses som skadelige for nytte- og kulturplanter,
+Aktive stoffer og produkter, som indeholder ét eller flere aktive stoffer i den form, hvori de overdrages til brugeren, og som er bestemt til at kunne ødelægge, hindre, uskadeliggøre, hindre virkningen af eller på anden vis bekæmpe virkningen af skadegørere kemisk eller mikrobiologisk.
 
-2. utøj hos husdyr, herunder stuefugle,
+Aktive stoffer er kemiske stoffer eller mikroorganismer, herunder vira eller svampe, med generel eller specifik virkning på eller imod skadegørere.
 
-3. skadedyr i korn, kornprodukter, foderstoffer og frø,
+Godkendelsespligten efter lovens kapitel 7 gælder kun for biocidmidler inden for de 23 produkttyper, som nævnes i bilag V i Europa- Parlamentets og Rådets direktiv 98/8/EF af 16. februar 1998 om markedsføring af biocidholdige produkter, og kun i det omfang biocidmidlerne ikke er defineret i eller falder inden for anvendelsesområdet af de direktiver (med senere ændringer), der er nævnt under afsnit 4 i dette bilag.
 
-4. tekstilskadedyr,
+## Hovedoverskrifter over de 23 produkttyper:
 
-5. skadedyr i tømmer og træværk,
+## HOVEDGRUPPE 1: Desinfektionsmidler og biocidmidler generelt
 
-6. insekter, snegle, mider og lignende og
+Produkttype 1: Biocidmidler til hygiejne for mennesker.
 
-7. regnorme og
+Produkttype 2: Desinfektionsmidler til privat brug og brug i det offentlige sundhedsvæsen og andre biocidmidler.
 
-g. følgende pattedyr: kaniner, mosegrise, muldvarpe, mus og rotter.
+Produkttype 3: Biocidmidler til veterinærhygiejne.
 
-B. Kemiske afskrækningsmidler
+Produkttype 4: Desinfektionsmidler til brug i forbindelse med levnedsmidler og fodringssteder.
 
-Kemiske stoffer og produkter, som er bestemt til at forebygge skader, der forårsages af de under A. f. og g. nævnte skadedyr samt af vildtlevende pattedyr og fugle, eller bestemt til at holde disse dyr borte fra steder, hvor de ikke er ønskede.
+Produkttype 5: Desinfektionsmidler til drikkevand.
 
-C. Kemiske plantevækstreguleringsmidler
+## HOVEDGRUPPE 2: Konserverings- og beskyttelsesmidler
 
-Kemiske stoffer og produkter, som uden at være egentlige plantenæringsstoffer eller grundforbedringsmidler er bestemt til at regulere planters vækst eller udvikling eller frøenes modning såsom
+Produkttype 6: Konserveringsmidler til anvendelse i beholdere. Konservering af industriprodukter, bortset fra levnedsmidler og foder.
 
-a. nedvisningsmidler,
+Produkttype 7: Konserveringsmidler til overfladefilm.
 
-b. respirations- og spiringshæmmere,
+Produkttype 8: Træbeskyttelsesmidler.
 
-c. vækstretarderingsstoffer,
+Produkttype 9: Beskyttelsesmidler til fibermaterialer, læder, gummi og polymeriserede materialer.
 
-d. roddannere,
+Produkttype 10: Midler til beskyttelse af byggematerialer.
 
-e. blomster- og frugtdannere,
+Produkttype 11: Konserveringsmidler til væske i køle- og processystemer.
 
-f. spiringsfremmere,
+Produkttype 12: Midler mod slim.
 
-g. blomstringssinkere,
+Produkttype 13: Konserveringsmidler til væsker, der anvendes ved metalbearbejdning.
 
-h. udtyndingsstoffer,
+## HOVEDGRUPPE 3: Skadedyrsbekæmpelse
 
-i. hold-faststoffer,
+Produkttype 14: Rodenticider.
 
-j. podehjælpere.
+Produkttype 15: Fuglebekæmpelsesmidler.
 
-D. Mikrobiologiske plantebeskyttelsesmidler
+Produkttype 16: Sneglebekæmpelsesmidler.
 
-Plantebeskyttelsesmidler, hvor aktivstoffet består af levende mikroorganismer, herunder vira, og hvor aktivstoffets virkemåde beror på mikroorganismerne selv eller på et eller flere stoffer produceret af disse.
+Produkttype 17: Fiskebekæmpelsesmidler.
 
-2. Plantebeskyttelsesmidler
+Produkttype 18: Insekticider, acaricider og produkter til bekæmpelse af andre leddyr.
 
-Ved plantebeskyttelsesmidler i kapitel 7 forstås kemiske eller mikrobiologiske stoffer og produkter, der har et eller flere af følgende formål:
+Produkttype 19: Afskræknings- og tiltrækningsmidler.
 
-- at beskytte planter eller planteprodukter mod skadegørere eller at forebygge sådanne skadegøreres angreb,
+## HOVEDGRUPPE 4: Andre biocidmidler
 
-- at øve indflydelse på planters livsprocesser på anden måde end som ernæring (fx som vækstregulerende midler),
+Produkttype 20: Konserveringsmidler til levnedsmidler eller foder.
 
-- at bevare produkter, som stammer fra planter, der er uforarbejdede eller er forarbejdede ved simple metoder såsom formaling, tørring eller presning og for hvilke der ikke findes særlige Fællesskabsbestemmelser om konserveringsmidler,
+Produkttype 21: Antifoulingsmidler.
 
-- at ødelægge uønskede planter, at ødelægge plantedele, eller at bremse eller forebygge uønsket vækst af planter.
+Produkttype 22: Balsamerings- og præserveringsvæsker.
 
----------------------------------
+Produkttype 23: Bekæmpelse af andre hvirveldyr.
 
-1) Listen er optrykt som fastsat ved bekendtgørelse nr. 768 af 23. august 1994 om bekæmpelsesmidler.
+## 3. Basisstof
+
+Et basisstof skal ikke godkendes efter kapitel 7.
+
+Et basisstof defineres som:
+
+Et stof, der er optaget i bilag I B til Europa- Parlamentets og Rådets direktiv 98/8/EF af 16. februar 1998 om markedsføring af biocidholdige produkter, og hvis væsentligste anvendelse ikke er som pesticid, men som i begrænset omfang og uden direkte at markedsføres til denne anvendelse anvendes som biocid enten direkte eller i et produkt bestående af stoffet og et ublandet fortyndingsmiddel, som ikke i sig selv er et stof, der giver anledning til bekymring.
+
+## 4. Anden EF-regulering
+
+a) Rådets direktiv 65/65/EØF af 26. januar 1965 om tilnærmelse af lovgivning om medicinske specialiteter.
+
+b) Rådets direktiv 81/851/EØF af 28. september 1981 om indbyrdes tilnærmelse af medlemsstaternes lovgivning om veterinærmedicinske præparater.
+
+c) Rådets direktiv 90/677/EØF af 13. december 1990 om udvidelse af anvendelsesområdet for direktiv 81/851/EØF om indbyrdes tilnærmelse af medlemsstaternes lovgivning om veterinærmedicinske præparater og om fastsættelse af yderligere bestemmelser for immunologiske veterinærmedicinske præparater.
+
+d) Rådets direktiv 92/73/EØF af 22. september 1992 om udvidelse af anvendelsesområdet for direktiv 65/65/EØF og 75/319/EØF om tilnærmelse af lovgivning om farmaceutiske præparater og om fastsættelse af supplerende bestemmelser for homøopatiske lægemidler.
+
+e) Rådets direktiv 92/74/EØF af 22. september 1992 om udvidelse af anvendelsesområdet for direktiv 81/851/EØF om indbyrdes tilnærmelse af lovgivning om veterinærmidler og om fastsættelse af supplerende bestemmelser for homøopatiske veterinærlægemidler.
+
+f) Rådets forordning (EØF) nr. 2309/93 af 22. juli 1993 om fastlæggelse af fællesskabsprocedurer for godkendelse og overvågning af human- og veterinærmedicinske lægemidler og om oprettelse af et europæisk agentur for lægemiddelvurdering.
+
+g) Rådets direktiv 90/385/EØF af 20. juni 1990 om indbyrdes tilnærmelse af medlemsstaternes lovgivning om aktive, implantable medicinske anordninger.
+
+h) Rådets direktiv 93/42/EØF af 14. juni 1993 om medicinske anordninger.
+
+i) Rådets direktiv 89/107/EØF af 21. december 1988 om indbyrdes tilnærmelse af medlemsstaternes lovgivning om tilsætningsstoffer, som må anvendes i levnedsmidler, Rådets direktiv 88/388/EØF af 22. juni 1988 om indbyrdes tilnærmelse af medlemsstaternes lovgivning om aromaer, som må anvendes i levnedsmidler, og om udgangsmaterialer til fremstilling af disse og Europa-Parlamentets og Rådets direktiv 95/2/EF af 20. februar 1995 om andre tilsætningsstoffer til levnedsmidler end farvestoffer og sødestoffer.
+
+j) Rådets direktiv 89/109/EØF af 21. december 1988 om indbyrdes tilnærmelse af medlemsstaternes lovgivning om materialer og genstande bestemt til at komme i berøring med levnedsmidler.
+
+k) Rådets direktiv 92/46/EØF af 16. juni 1992 om sundhedsbestemmelser for produktion af afsætning af rå mælk, varmebehandlet mælk og mælkebaserede produkter.
+
+l) Rådets direktiv 89/437/EØF af 20. juni 1989 om hygiejne- og sundhedsproblemer i forbindelse med produktion og markedsføring af æggeprodukter.
+
+m) Rådets direktiv 91/493/EØF af 22. juli 1991 om sundhedsmæssige betingelser for produktion og afsætning af fiskerivarer.
+
+n) Rådets direktiv 90/167/EØF af 26. marts 1990 om fastsættelse af betingelser for tilberedning, markedsføring og anvendelse af foderlægemidler i Fællesskabet.
+
+o) Rådets direktiv 70/524/EØF af 23. november 1970 om tilsætningsstoffer til foderstoffer, Rådets direktiv 82/471/EØF af 30. juni 1982 om visse produkter der anvendes i foderstoffer og Rådets direktiv 77/101/EØF af 23. november 1976 om markedsføring af ublandede foderstoffer.
+
+p) Rådets direktiv 76/768/EØF af 27. juli 1976 om indbyrdes tilnærmelse af medlemsstaternes lovgivning om kosmetiske midler.
+
+q) Rådets direktiv 95/5/EF af 27. februar 1995 om ændring af direktiv 92/120/EØF om betingelser for indrømmelse af midlertidige og begrænsede undtagelser fra Fællesskabets specifikke sundhedsbestemmelser for produktion og afsætning af visse produkter af animalsk oprindelse.
+
+r) Rådets direktiv 91/414/EØF af 15. juli 1991 om markedsføring af plantebeskyttelsesmidler.
 
 Bilag 2
 
-Liste A
+## Liste A
 
-Aktivstoffer, som ikke må anvendes i Danmark i bekæmpelsesmidler eller grupper heraf:
-
-Plantebeskyttelsesmidler
-
-Cyanazin
-
-Hexazinon
-
-Propachlor
-
-Paraquat
-
-Thiabendazol (til udendørs anvendelse)
-
-Lindan
-
-Atrazin
-
-Liste B
-
-Aktistoffer, som det er forbudt at markedsføre eller anvende i bekæmpelsesmidler eller grupper heraf i henhold til international forpligtelse eller aftale:
+Bekæmpelsesmidler, der ikke må sælges eller anvendes i Danmark.
 
 Plantebeskyttelsesmidler:
 
-I. Kviksølvforbindelser
+2,4-D (al efterårsanvendelse og den forårsanvendelse, der årligt afsætter mere end 100 gram aktivstof/ha på jordoverfladen).
 
-1. Mercurioxid
+Atrazin.
 
-2. Mercurichlorid (calomel)
+Captan.
 
-3. Andre uorganiske kviksølvforbindelser
+Cyanazin.
 
-4. Alkyl-kviksølvforbindelser
+Deltamethrin (til udendørs anvendelse).
 
-5. Alkoxyalkyl- og arylkviksølvforbindelser
+Diazinon (til udendørs anvendelse).
 
-II. Bestandige organiske forbindelser
+Dichlobenil.
 
-1. Aldrin
+Dichlorprop (al efterårsanvendelse og den forårsanvendelse, der årligt afsætter mere end 60 gram aktivstof/ha på jordoverfladen).
 
-2. Chlordan
+Dichlorprop-P (al efterårsanvendelse og den forårsanvendelse, der årligt afsætter mere end 60 gram aktivstof/ha på jordoverfladen).
 
-3. Dieldrin
+Dichlorvos.
 
-4. DDT
+Eddikesyre.
 
-5. Endrin
+Esfenvalerat (al udendørs anvendelse undtagen dypning og rodhalssprøjtning af nåletræer).
 
-6. HCH med under 99,0% gammaisomer
+Fenarimol.
 
-7. Heptachlor
+Fenpropimorph (dog undtagen midler på vandbasis, midler godkendt alene til purløg og midler på opløsningsmiddelbasis med en dosering på maksimalt 0,093 kg aktivstof/ha og udbragt med traktormonteret sprøjte).
 
-8. Hexachlorbenzen
+Guazatin.
 
-9. Camphechlor (Toxaphen)
+Hexazinon.
 
-III. Andre forbindelser
+Iprodion.
 
-1. Ethylenoxid
+Isoproturon.
 
-2. Nitrofen
+Lindan.
 
-3. 1,2-dibromethan
+MCPA (al efterårsanvendelse og den forårsanvendelse, der årligt afsætter mere end 100 gram aktivstof/ha på jordoverfladen).
 
-4. 1,2-dichlorethan
+Mechlorprop (al efterårsanvendelse og den forårsanvendelse, der årligt afsætter mere end 100 gram aktivstof/ha på jordoverfladen).
 
-5. Dinoseb samt acetater og salte heraf
+Mechlorprop-P (al efterårsanvendelse og den forårsanvendelse, der årligt afsætter mere end 100 gram aktivstof/ha på jordoverfladen. Desuden al anvendelse af produkter, der er klassificeret alvorligt øjenirriterende).
 
-6. Binapacryl
+Metribuzin.
 
-7. Captafol
+Paraquat.
 
-8. Dicofol, der indeholder mindre end 78% p,p'-dicofol eller over 1 g/kg DDT og hermed beslægtede forbindelser
+Propachlor.
 
-9. a) Maleinhydrazid og salte heraf, undtagen cholin-, kalium-, og natriumsalte
+Propineb.
 
-b) Cholin-, kalium- og natriumsalte af maleinhydrazid, der indeholder over 1 mg/kg frit hydrazin udtrykt som syreækvivalenter
+Thiabendazol (til udendørs anvendelse).
+
+Thiophanat-methyl (som sprøjtemiddel).
+
+Thiram (bortset fra til bejdsning af bede- og sukkerroefrø, læggekartofler og indendørs såede frøafgrøder til efterfølgende udplantning, til dypning af blomsterløg og sprøjtning af prydplanter med emulsion).
+
+Trifluralin.
+
+Vinclozolin.
+
+Ziram.
+
+Biocidmidler
+
+Dichlorvos (mod insekter).
+
+Bis(tributyltin)oxid (mod træødelæggende svamp).
+
+## Liste B
+
+Aktivstoffer, som det er forbudt at markedsføre eller anvende i bekæmpelsesmidler eller grupper heraf i henhold til international forpligtelse eller aftale:
+
+## Plantebeskyttelsesmidler:
+
+I. Kviksølvforbindelser:
+
+1. Mercurioxid.
+
+2. Mercurichlorid (calomel).
+
+3. Andre uorganiske kviksølvforbindelser.
+
+4. Alkyl-kviksølvforbindelser.
+
+5. Alkoxyalkyl- og arylkviksølvforbindelser.
+
+II. Bestandige organiske forbindelser:
+
+1. Aldrin.
+
+2. Chlordan.
+
+3. Dieldrin.
+
+4. DDT.
+
+5. Endrin.
+
+6. HCH med under 99,0% gammaisomer.
+
+7. Heptachlor.
+
+8. Hexachlorbenzen.
+
+9. Camphechlor (Toxaphen).
+
+III. Andre forbindelser:
+
+1. Ethylenoxid.
+
+2. Nitrofen.
+
+3. 1,2-dibromethan.
+
+4. 1,2-dichlorethan.
+
+5. Dinoseb samt acetater og salte heraf.
+
+6. Binapacryl.
+
+7. Captafol.
+
+8. Dicofol, der indeholder mindre end 78% p,p'-dicofol eller over 1 g/kg DDT og hermed beslægtede forbindelser.
+
+9. a) Maleinhydrazid og salte heraf, undtagen cholin-, kalium-, og natriumsalte.
+
+b) Cholin-, kalium- og natriumsalte af maleinhydrazid, der indeholder over 1 mg/kg frit hydrazin udtrykt som syreækvivalenter.
 
 10. Quintozen, der indeholder over 1 g/kg hezachlorbenzen eller over 10 g/kg pentachlorbenzen.
-
-(* 1) Indeholder bestemmelser, der gennemfører Rådets direktiv 79/117/EØF, EF-Tidende 1979 L 33 s. 36, Kommissionens direktiv 83/131, EF-Tidende 1983 L 91 s. 35, Kommissionens direktiv 85/298, EF-Tidende 1985 L 154 s. 48, Rådets direktiv nr. 86/214, EF-Tidende 1986 L 152 s. 45, Rådets direktiv nr. 86/355, EF-Tidende L 212 s. 33, Rådets direktiv nr. 87/181, EF-Tidende 1987 L 71 s. 33, Kommissionens direktiv nr. 87/477, EF-Tidende 1987 L 273 s. 40, Rådets direktiv 89/365, EF-Tidende 1989 L 159 s. 58, Kommissionens direktiv nr. 90/335, EF-Tidende 1990 L 162, s. 37, Rådets direktiv nr. 90/533, EF-Tidende 1990 L 296 s. 63, Kommissionens direktiv nr. 91/118, EF-Tidende 1991 L 92 s. 42, Rådets direktiv nr. 91/414, EF-Tidende 1991 L 230, side 1, direktiv 88/379 EF-Tidende 1988 L 187, s. 14 og direktiv 92/32 EF-Tidende 1992 L 154, s. 1.
-
-(* 2) § 35 f er identisk med dispensationsbestemmelsen i § 35 e i lov nr. 438 af 1. juni 1994. Ved en fejl i lov nr. 1087 af 20. december 1995 blev § 35 e i lov nr. 438 af 1. juni 1994 ikke ophævet. Dette vil ske ved førstkommende lovændring.
-
-(* 3) Træder i kraft ved miljø- og energiministerens bestemmelse, jf. § 2, stk. 2, 2. pkt., i lov nr. 1067 af 23. december 1992.
-
-(* 4) Ved Kgl. resolution af 28. august 1992 er bemyndigelsen f.s.a. landbrugsejendomme overført til landbrugs- og fiskeriministeren.
-
-(* 5) Industrirådet har skiftet navn til: Dansk Industri.
-
-(* 6) Danske Husmandsforeninger har skiftet navn til: Dansk Familielandbrug.
-
-(* 7) Skatteministeren har ved bekendtgørelse nr. 914 af 30. november 1995 om ikrafttræden af lov om afgift af bekæmpelsesmidler fastsat, at loven træder i kraft den 1. januar 1996.
