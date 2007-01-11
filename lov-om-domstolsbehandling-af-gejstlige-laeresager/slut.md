@@ -1,9 +1,5 @@
-Givet på Christiansborg Slot, den 14. maj 1992
+Kirkeministeriet, den 3. januar 2007
 
-Under Vor Kongelige Hånd og Segl
+Bertel Haarder
 
-MARGRETHE R.
-
-/Torben Rechendorff
-
-Ingen
+/Lise Marianne Hjort
