@@ -1,7 +1,5 @@
-Kirkeministeriet, den 31. marts 1992
+Kirkeministeriet, den 3. januar 2007
 
-Torben Rechendorff
+Bertel Haarder
 
-/ Finn Langager Larsen
-
-Ingen
+/Lise Marianne Hjort
