@@ -1,11 +1,11 @@
-Lov nr. 352 af 6. juni 1991 indeholder i § 14 følgende bestemmelser:
+Lov nr. 1566 af 20. december 2006 indeholder følgende ikrafttrædelsesbestemmelser m.v.:
 
-§ 14. Loven træder i kraft den 1. januar 1992.
+§ 8
 
-Samtidig ophæves: (Udelades).
+Stk. 1. Loven træder i kraft den 1. januar 2007.
 
-Stk. 2. I lov nr. 218 af 23. april 1986 om bestyrelse og brug af folkekirkens kirker m.m. foretages følgende ændringer:
+Stk. 2. Lov om folkekirkens økonomi § 17 a, stk. 1, og § 17 e, stk. 1, 2. pkt., som affattet ved denne lovs § 1, nr. 6, om antallet af valgte medlemmer af provstiudvalg finder første gang anvendelse ved de ordinære valg til provstiudvalg i 2009.
 
-1. I § 5, stk. 2, ændres »§ 22« til: »§ 9 i lov om medlemskab af folkekirken, kirkelig betjening og sognebåndsløsning«.
+§ 9
 
-2. Kapitel 3 ophæves.
+Loven gælder ikke for Færøerne og Grønland. Loven kan ved kongelig anordning sættes i kraft for Færøerne med de afvigelser, som de særlige færøske forhold tilsiger .
