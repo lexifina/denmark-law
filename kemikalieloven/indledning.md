@@ -1,3 +1,3 @@
-Bekendtgørelse af lov om kemiske stoffer og produkter (* 1)
+Bekendtgørelse af lov om kemiske stoffer og produkter
 
-Hermed bekendtgøres lov om kemiske stoffer og produkter, jf. lovbekendtgørelse nr. 583 af 9. juli 1993 med de ændringer, der følger af lov nr. 1111 af 22. december 1993, lov nr. 438 af 1. juni 1994 og lov nr. 1087 af 20. december 1995 og af § 45 i lov nr. 416 af 14. juni 1995 om afgift af bekæmpelsesmidler.
+Herved bekendtgøres lov om kemiske stoffer og produkter, jf. lovbekendtgørelse nr. 21 af 16. januar 1996, med de ændringer, der følger af lov nr. 424 af 10. juni 1997, § 2 i lov nr. 431 af 10. juni 1997, lov nr. 231 af 21. april 1999, lov nr. 256 af 12. april 2000, lov nr. 296 af 30. april 2003, lov nr. 441 af 10. juni 2003, lov nr. 189 af 24. marts 2004, § 1 i lov nr. 315 af 5. maj 2004, bekendtgørelse nr. 824 af 23. juli 2004, § 5 i lov nr. 1373 af 20. december 2004, § 107 i lov nr. 428 af 6. juni 2005, § 18 i lov nr. 431 af 6. juni 2005, § 5 i lov nr. 545 af 24. juni 2005, § 13 i lov nr. 564 af 24. juni 2005 og § 4 i lov nr. 571 af 9. juni 2006. Den bekendtgjorte lovtekst gælder først fuldt ud fra den 1. januar 2007.
