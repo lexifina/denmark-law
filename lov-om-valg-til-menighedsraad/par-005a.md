@@ -2,4 +2,4 @@
 
 ## Orienteringsmøder og valgbestyrelser
 
-§ 5a. Menighedsrådet afholder et offentligt møde senest 8 uger før valgdagen. På mødet redegøres for menighedsrådets arbejde i den forløbne periode og for kommende opgaver. Endvidere gennemgås reglerne for opstilling af kandidater.
+§ 5 a. Menighedsrådet afholder et offentligt møde senest 8 uger før valgdagen. På mødet redegøres for menighedsrådets arbejde i den forløbne periode og for kommende opgaver. Endvidere gennemgås reglerne for opstilling af kandidater.

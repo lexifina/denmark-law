@@ -1,9 +1,11 @@
-Lov nr. 93 af 18. februar 2004 indeholder følgende ikrafttrædelsesbestemmelser m.v.:
+Lov nr. 1566 af 20. december 2006 indeholder følgende ikrafttrædelsesbestemmelser m.v.:
 
-§ 3
+§ 8
 
-Loven træder i kraft dagen efter bekendtgørelsen i Lovtidende.
+Loven træder i kraft 1. januar 2007.
 
-§ 4
+Stk. 2. Lov om folkekirkens økonomi § 17 a, stk. 1, og § 17 e, stk. 1, 2. pkt., som affattet ved denne lovs § 1, nr. 4, om antallet af valgte medlemmer af provstiudvalg finder første gang anvendelse ved de ordinære valg til provstiudvalg i 2009.
 
-Loven gælder ikke for Færøerne og Grønland. Loven kan ved kongelig anordning sættes i kraft for Færøerne med de afvigelser, som de særlige færøske forhold tilsiger.
+§ 9
+
+Loven gælder ikke for Færøerne og Grønland. Loven kan ved kgl. anordning sættes i kraft for Færøerne med de afvigelser, som de særlige færøske forhold tilsiger.
