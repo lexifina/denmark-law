@@ -1,5 +1,5 @@
-Landbrugsministeriet, den 11. december 1987
+Ministeriet for Fødevarer, Landbrug og Fiskeri, den 19. januar 2007
 
-LAURITS TØRNÆS
+Hans Christian Schmidt
 
-/Henrik Wanscher
+/Peter Lund Andersen
