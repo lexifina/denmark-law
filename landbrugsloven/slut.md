@@ -1,4 +1,4 @@
-Ministeriet for Fødevarer, Landbrug og Fiskeri, den 12. september 2006
+Ministeriet for Fødevarer, Landbrug og Fiskeri, den 19. januar 2007
 
 Hans Christian Schmidt
 

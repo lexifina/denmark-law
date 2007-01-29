@@ -1,3 +1,5 @@
-Lovændringen vedrører § 33, stk. 3, og § 44.
+Lovens § 33, stk. 2, er ved bekendtgørelse nr. 1139 af 23. november 2006 ophævet den 2. december 2006.
 
-Lovændringen vedrører § 11, stk. 3, § 16, stk. 2, nr. 1, litra b, § 16, stk. 2, nr. 1, litra c, § 20, stk. 1, nr. 2, § 27, stk. 1, nr. 3, § 28, stk. 3, § 32, stk. 2, nr. 1, § 32, stk. 2, nr. 4, § 32, stk. 3, § 32, stk. 4, § 33, stk. 1 og § 33, stk. 2.
+Denne bekendtgørelse gengiver ikrafttrædelsesbestemmelsen i lov nr. 542 af 24. juni 2005. De bemærkninger om ikrafttrædelses- og overgangsbestemmelser for de tidligere vedtagne ændringer til loven, der fremgår af lovbekendtgørelse nr. 947 af 12. september 2006, er ikke gengivet i denne bekendtgørelse.
+
+Lovændringen vedrører § 3, stk. 1, § 3, stk. 2, § 34, stk. 1, § 35, stk. 1, og § 35, stk. 2.
