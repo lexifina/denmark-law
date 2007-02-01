@@ -1,4 +1,4 @@
-§ 42 j. Ministeren for flygtninge, indvandrere og integration kan efter forhandling med vedkommende kommune beslutte, at bestemmelserne i lov om planlægning om region-, kommune- og lokalplaner samt om tilladelse efter lovens § 35, stk. 1, ikke finder anvendelse på ejendomme, som Udlændingestyrelsen råder over, og som anvendes til
+§ 42 j. Ministeren for flygtninge, indvandrere og integration kan efter forhandling med vedkommende kommune beslutte, at bestemmelserne i lov om planlægning om region-, kommune- og lokalplaner samt om tilladelse efter lovens § 35, stk. 1, ikke finder anvendelse på ejendomme, som Udlændingeservice råder over, og som anvendes til
 
 1) modtagecenter for nyankomne udlændinge, som har indgivet ansøgning om opholdstilladelse i medfør af § 7,
 

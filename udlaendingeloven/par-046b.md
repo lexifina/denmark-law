@@ -1,1 +1,1 @@
-§ 46 b. Udenrigsministeriet bistår politiet, statsamterne, Udlændingestyrelsen, Flygtningenævnet og ministeren for flygtninge, indvandrere og integration med at indhente nærmere oplysninger til brug for behandlingen af sager eller grupper af sager efter denne lov.
+§ 46 b. Udenrigsministeriet bistår politiet, statsforvaltningerne, Udlændingeservice, Flygtningenævnet og ministeren for flygtninge, indvandrere og integration med at indhente nærmere oplysninger til brug for behandlingen af sager eller grupper af sager efter denne lov.

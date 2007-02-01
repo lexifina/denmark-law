@@ -1,6 +1,6 @@
 § 43 a. Til en udlænding, der opholder sig her i landet, og hvis ansøgning om opholdstilladelse efter § 7 er taget under behandling, kan der, hvis udlændingen ikke selv har midler hertil, ydes hjælp til rejse til et tredjeland, hvor udlændingen efter indrejsen i Danmark og inden udløbet af en fastsat udrejsefrist har opnået indrejse- og opholdstilladelse, hvis udlændingen har fået afslag på eller frafalder en ansøgning om opholdstilladelse her i landet, jf. dog stk. 3.
 
-Stk. 2. Til en udlænding, der opholder sig her i landet, og som er registreret som asylansøger efter § 48 e, stk. 1, og er meddelt afslag på opholdstilladelse efter § 7 af Udlændingestyrelsen eller Flygtningenævnet, kan der ydes hjælp til tilbagevenden til hjemlandet eller det tidligere opholdsland, hvis udlændingen medvirker til at udrejse uden ugrundet ophold, jf. dog stk. 3 og 4.
+Stk. 2. Til en udlænding, der opholder sig her i landet, og som er registreret som asylansøger efter § 48 e, stk. 1, og er meddelt afslag på opholdstilladelse efter § 7 af Udlændingeservice eller Flygtningenævnet, kan der ydes hjælp til tilbagevenden til hjemlandet eller det tidligere opholdsland, hvis udlændingen medvirker til at udrejse uden ugrundet ophold, jf. dog stk. 3 og 4.
 
 Stk. 3. Der kan ikke ydes hjælp efter stk. 1 og 2 til
 
@@ -14,7 +14,7 @@ Stk. 3. Der kan ikke ydes hjælp efter stk. 1 og 2 til
 
 Stk. 4. Der kan endvidere ikke ydes hjælp efter stk. 2 til
 
-1) udlændinge, som er meddelt afslag på en ansøgning om opholdstilladelse efter § 7 af Udlændingestyrelsen i medfør af § 53 b, stk. 1, og
+1) udlændinge, som er meddelt afslag på en ansøgning om opholdstilladelse efter § 7 af Udlændingeservice i medfør af § 53 b, stk. 1, og
 
 2) udlændinge, der er omfattet af § 10.
 
