@@ -1,0 +1,1 @@
+§ 11 d. En ansøgning om tidsubegrænset opholdstilladelse kan afvises, hvis ansøgningen ikke er vedlagt de dokumenter eller ikke indeholder de oplysninger, der er nødvendige til bedømmelse af, om tidsubegrænset opholdstilladelse kan meddeles.
