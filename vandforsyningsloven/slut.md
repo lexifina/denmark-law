@@ -1,5 +1,5 @@
-Miljø- og Energiministeriet, den 26. februar 1999
+Miljøministeriet, den 17. januar 2007
 
-Svend Auken
+Connie Hedegaard
 
-/Jesper Hermansen
+/Ole Christiansen
