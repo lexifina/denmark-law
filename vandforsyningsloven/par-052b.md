@@ -2,4 +2,4 @@
 
 Stk. 2. Vilkårene for et samarbejde efter stk. 1 aftales af de deltagende parter, jf. dog stk. 3, § 48, stk. 2, og § 53. Det kan herunder aftales, at samarbejdet skal overtage alle eller visse af de beføjelser, som ejeren af hvert enkelt vandforsyningsanlæg har efter denne lov med undtagelse af opkrævning af bidrag som nævnt i § 53.
 
-Stk. 3. Miljø- og energiministeren kan fastsætte nærmere regler for samarbejder efter stk. 1, herunder om samarbejdernes form og vilkår.
+Stk. 3. Miljøministeren kan fastsætte nærmere regler for samarbejder efter stk. 1, herunder om samarbejdernes form og vilkår.

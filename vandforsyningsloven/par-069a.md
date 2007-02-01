@@ -1,1 +1,1 @@
-§ 69 a. Miljø- og energiministeren kan fastsætte regler om, at ejeren af et vandforsyningsanlæg skal give meddelelse, hvis en indvindingsboring tages ud af drift, herunder hvis boringen lukkes, samt om årsagen hertil.
+§ 69 a. Miljøministeren kan fastsætte regler om, at ejeren af et vandforsyningsanlæg skal give meddelelse, hvis en indvindingsboring tages ud af drift, herunder hvis boringen lukkes, samt om årsagen hertil.
