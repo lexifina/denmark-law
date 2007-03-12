@@ -1,5 +1,5 @@
-Forsvarsministeriet, den 12. februar 2004
+Forsvarsministeriet, den 9. februar 2007
 
-Svend Aage Jensby
+Søren Gade
 
-/Bjørn I. Bisserup
+/Susan Nissen
