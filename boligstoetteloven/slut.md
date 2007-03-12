@@ -1,4 +1,4 @@
-Socialministeriet, den 2. juni 2006
+Socialministeriet, den 2. marts 2007
 
 P.M.V. Thomas Børner
 
