@@ -6,6 +6,6 @@ Stk. 3. De i stk. 2 nævnte grænser finder ikke anvendelse ved beregning af bol
 
 1) Personer, der får anvist en bolig i et kollektivt bofællesskab.
 
-2) Personer med varig og betydelig nedsat fysisk eller psykisk funktionsevne, der er berettiget til støtte efter § 73 i lov om social service.
+2) Personer med varig og betydelig nedsat fysisk eller psykisk funktionsevne, der er berettiget til støtte efter § 85 i lov om social service.
 
-3) Personer med særlige sociale problemer, der er berettiget til støtte efter § 73 i lov om social service, og demente med behov for et døgntilbud.
+3) Personer med særlige sociale problemer, der er berettiget til støtte efter § 85 i lov om social service, og demente med behov for et døgntilbud.
