@@ -1,7 +1,3 @@
-Lov om specialpædagogisk støtte ved videregående uddannelser
+Bekendtgørelse af lov om specialpædagogisk støtte ved videregående uddannelser
 
-VI MARGRETHE DEN ANDEN, af Guds Nåde Danmarks Dronning, gør vitterligt: Folketinget har vedtaget og Vi ved Vort samtykke stadfæstet følgende lov:
-
-## Kapitel 1
-
-Formål m.v.
+Herved bekendtgøres lov om specialpædagogisk støtte ved videregående uddannelser, jf. lov nr. 484 af 31. maj 2000, som ændret ved § 2 i lov nr. 416 af 6. juni 2002 og § 1 i lov nr. 1595 af 20. december 2006.
