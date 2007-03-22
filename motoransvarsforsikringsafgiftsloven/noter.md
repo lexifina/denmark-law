@@ -1,0 +1,1 @@
+De statslige told- og skattemyndigheder er ændret til told- og skatteforvaltningen, ændring af § 7, stk. 1, § 8, ophævelse af § 12 og § 12 a, er sket ved lov nr. 428 af 6. juni 2005, der trådte i kraft den 8. juni 2005 og har virkning fra den 1. november 2005, jf. lovens § 125, stk. 1 og 2.
