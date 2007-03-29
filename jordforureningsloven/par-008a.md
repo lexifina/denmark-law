@@ -1,0 +1,1 @@
+§ 8 a. Kommunalbestyrelsens afgørelser efter § 8 skal være i overensstemmelse med en indhentet udtalelse fra regionsrådet. Regionsrådets udtalelse skal foreligge senest fire uger efter modtagelsen af sagen fra kommunalbestyrelsen.
