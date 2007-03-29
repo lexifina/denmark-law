@@ -1,0 +1,1 @@
+§ 10 a. En mellemhandler hæfter umiddelbart over for skadelidte og senere mellemhandlere i omsætningskæden for ansvar for produktskader omfattet af § 2, i det omfang skaden skyldes fejl eller forsømmelse begået af producenten eller tidligere mellemhandlere i omsætningskæden.
