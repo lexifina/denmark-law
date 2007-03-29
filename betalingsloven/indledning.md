@@ -1,5 +1,3 @@
 Bekendtgørelse af lov om betalingsregler for spildevandsanlæg m.v.
 
-Herved bekendtgøres lov om betalingsregler for spildevandsanlæg m.v., jf. lovbekendtgørelse nr. 923 af 5. december 1997, med de ændringer, der følger af lov nr. 342 af 17. maj 2000 og § 5 i lov nr. 466 af 7. juni 2001.
-
-Lovens anvendelsesområde
+Herved bekendtgøres lov om betalingsregler for spildevandsanlæg m.v., jf. lovbekendtgørelse nr. 716 af 23. juni 2001, med de ændringer, der følger af § 23 i lov nr. 431 af 6. juni 2005, § 11 i lov nr. 564 af 24. juni 2005 og § 6 i lov nr. 1571 af 20. december 2006.
