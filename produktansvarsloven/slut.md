@@ -1,9 +1,5 @@
-Givet på Christiansborg Slot, den 7. juni 1989
+Justitsministeriet, den 20. marts 2007
 
-Under Vor Kongelige Hånd og Segl
+Lene Espersen
 
-MARGRETHE R.
-
-/H. P. Clausen
-
-Ingen
+/Lennart Houmann
