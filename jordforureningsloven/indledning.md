@@ -1,3 +1,9 @@
-Lov om forurenet jord
+Bekendtgørelse af lov om forurenet jord
 
-VI MARGRETHE DEN ANDEN, af Guds Nåde Danmarks Dronning, gør vitterligt: Folketinget har vedtaget og Vi ved Vort samtykke stadfæstet følgende lov:
+Herved bekendtgøres lov nr. 370 af 2. juni 1999 om forurenet jord med de ændringer, der følger af lov nr. 1109 af 29. december 1999, § 4 i lov nr. 447 af 31. maj 2000, § 2 i lov nr. 479 af 7. juni 2001, § 35 i lov nr. 145 af 25. marts 2002, § 3 i lov nr. 1151 af 17. december 2003, lov nr. 355 af 19. maj 2004, § 4 i lov nr. 1373 af 20. december 2004, § 8 i lov nr. 545 af 24. juni 2005, lov nr. 568 af 24. juni 2005, lov nr. 507 af 7. juni 2006, § 90 i lov nr. 538 af 8. juni 2006, § 7 i lov nr. 571 af 9. juni 2006, § 5 i lov nr. 1571 af 20. december 2006 og § 10, nr. 2, i lov nr. 1587 af 20. december 2006.
+
+Den ændring, der følger af § 3 i lov nr. 1151 af 17. december 2003 om ændring af lov om vandforsyning m.v., lov om miljøbeskyttelse, lov om forurenet jord og lov om planlægning (Ændringer som følge af lov om miljømål m.v. for vandforekomster og internationale naturbeskyttelsesområder), som vedrører lovens § 18, stk. 1, er ikke indarbejdet i lovbekendtgørelsen. Miljøministeren fastsætter tidspunktet for ikrafttrædelsen af ændringen, jf. lovens § 5, stk. 3, som ændret ved § 3 i lov nr. 570 af 24. juni 2005, hvilket endnu ikke er sket.
+
+De ændringer, der følger af § 1, nr. 10, i lov nr. 507 af 7. juni 2006 om ændring af lov om forurenet jord (Ændringer af kortlægning af forurenede arealer m.v.), som vedrører lovens § 50 a, stk. 1-6, er endvidere ikke indarbejdet i lovbekendtgørelsen, da ændringerne først træder i kraft den 1. januar 2008 eller ved ministerens bestemmelse, jf. lovens § 2, stk. 4.
+
+Den ændring, der følger af § 10, nr. 1, i lov nr. 1587 af 20. december 2006 om ændring af lov om Arbejdsmarkedets Tillægspension og forskellige andre love (Ændringer som følge af gradvis forhøjelse af efterløns- og folkepensionsalderen m.v.), som vedrører lovens § 33, stk. 1, nr. 1, er ligeledes ikke indarbejdet i lovbekendtgørelsen, da ændringen først træder i kraft den 1. juli 2009.
