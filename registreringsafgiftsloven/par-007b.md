@@ -1,6 +1,6 @@
 ## Godtgørelse af afgift
 
-§ 7 b. Afgiften af et brugt motorkøretøj, der er afgiftsberigtiget efter §§ 4, 5, 5 a eller 6, godtgøres, såfremt køretøjet afmeldes fra motorregisteret og udføres fra landet.
+§ 7 b. Afgiften af et brugt motorkøretøj, der er afgiftsberigtiget efter §§ 4, 5, 5 a eller 6, godtgøres, såfremt køretøjet afmeldes fra Køretøjsregisteret og udføres fra landet.
 
 Stk. 2. Godtgørelsesbeløbet fastsættes i medfør af § 10 således:
 
@@ -16,9 +16,9 @@ Stk. 2. Godtgørelsesbeløbet fastsættes i medfør af § 10 således:
 
 6) For hyrevogne og sygetransportkøretøjer afgiftsberigtiget efter § 6, stk. 1, som afgiften efter § 6, stk. 1.
 
-Stk 3 . I de afgiftsbeløb, der er fastsat efter stk. 2, fratrækkes 15 pct. af beløbet. Der godtgøres ikke beløb på under 4.000 kr. for motorcykler, varebiler, hyrevogne og sygetransportkøretøjer og under 7.500 kr. for personbiler, herunder autocampere og busser.
+Stk. 3. I de afgiftsbeløb, der er fastsat efter stk. 2, fratrækkes 15 pct. af beløbet. Der godtgøres ikke beløb på under 4.000 kr. for motorcykler, varebiler, hyrevogne og sygetransportkøretøjer og under 7.500 kr. for personbiler, herunder autocampere og busser.
 
-Stk. 4 . Der kan ikke godtgøres afgift for
+Stk. 4. Der kan ikke godtgøres afgift for
 
 1) køretøjer, der efter regler fastsat i medfør af § 1, stk. 3, har mistet deres afgiftsmæssige identitet,
 
@@ -30,6 +30,6 @@ Stk. 4 . Der kan ikke godtgøres afgift for
 
 5) udstyr m.v., som der ikke er betalt registreringsafgift af.
 
-Stk 5 . Afgiftsgodtgørelsen efter stk. 2 kan ikke overstige den afgift, der oprindelig er betalt, fratrukket 15 pct.
+Stk. 5. Afgiftsgodtgørelsen efter stk. 2 kan ikke overstige den afgift, der oprindelig er betalt, fratrukket 15 pct.
 
-Stk 6 . Ved fornyet tilmelding til motorregisteret af et køretøj, for hvilket der er godtgjort afgift, beregnes afgiftsbeløbet på samme måde som godtgørelsesbeløbet efter § 7 b, stk. 2, men uden nedslag i afgiftsbeløbet.
+Stk. 6. Ved fornyet tilmelding til Køretøjsregisteret af et køretøj, for hvilket der er godtgjort afgift, beregnes afgiftsbeløbet på samme måde som godtgørelsesbeløbet efter § 7 b, stk. 2, men uden nedslag i afgiftsbeløbet.
