@@ -1,5 +1,5 @@
-Skatteministeriet, den 2. december 2002
+Skatteministeriet, den 26. marts 2007
 
-Svend Erik Hovmand
+P.M.V. Peter Loft
 
-/K. Aasberg Karlsen
+/Lene Skov Henningsen
