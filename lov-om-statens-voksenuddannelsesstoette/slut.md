@@ -1,5 +1,5 @@
-Undervisningsministeriet, den 18. august 2005
+Undervisningsministeriet, den 20. marts 2007
 
 Bertel Haarder
 
-/Helle Mortensen
+/Hanna Dam
