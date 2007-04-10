@@ -89,3 +89,23 @@ Stk. 1. Loven træder i kraft dagen efter bekendtgørelsen i Lovtidende.
 Stk. 2. Loven har virkning fra den 1. november 2005, jf. dog stk. 3.
 
 Stk. 3. (udeladt)
+
+Lov nr. 523 af 24. juni 2005, hvis § 18 ændrede § 11, stk. 4 og 7, indeholder følgende ikrafttrædelses- og overgangsbestemmelser:
+
+§ 23
+
+Stk. 1. Loven træder i kraft den 1. januar 2007.
+
+Stk. 2-6. (udeladt)
+
+Lov nr. 176 af 27. februar 2007, hvis § 6 ændrede § 11, stk. 1 og 3, og § 22, stk. 5, indeholder følgende ikrafttrædelses- og overgangsbestemmelser:
+
+§ 8
+
+Stk. 1. Loven træder i kraft den 1. marts 2007, jf. dog stk. 2-7.
+
+Stk. 2. (udeladt)
+
+Stk. 3. § 1, nr. 20, 23, 24, 32, 33 og 43, § 5, nr. 9, § 6 og § 7 træder i kraft den 1. august 2007.
+
+Stk. 4-7. (udeladt)
