@@ -1,0 +1,1 @@
+§ 11 a. Efter regler fastsat af kulturministeren kan Det Danske Filminstitut yde tilskud til produktion af dansk tv-drama og tv-dokumentarprogrammer til udsendelse på andre fjernsynsforetagender end DR, de regionale TV 2-virksomheder og ikkekommercielle lokal-tv-stationer, jf. § 92 a.
