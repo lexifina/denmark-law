@@ -65,3 +65,17 @@ Stk. 6. Sager om lokal programvirksomhed, der verserer på tidspunktet for loven
 Stk. 7. Sager om tilladelse til eller registrering af lokal programvirksomhed, der verserer på tidspunktet for lovens ikrafttræden, skal færdigbehandles efter reglerne i denne lov eller bestemmelser fastsat efter loven. Andre verserende sager færdigbehandles efter de hidtil gældende regler.
 
 Stk. 8. Kulturministeren kan fastsætte nærmere regler om lempelse af vilkår i tilladelser, der er meddelt inden lovens ikrafttræden.
+
+Lov nr. 1569 af 20. december 2006 om ændring af lov om radio- og fjernsynsvirksomhed og lov om leje (Gennemførelse af medieaftale 2007- 2010 m.v.) indeholder følgende bestemmelser:
+
+§ 3
+
+Stk. 1. Loven træder i kraft den 1. januar 2007, jf. dog stk. 2 og 3.
+
+Stk. 2. Lovens § 1, nr. 6, træder i kraft den 1. januar 2011.
+
+Stk. 3. Kulturministeren fastsætter tidspunktet for ikrafttræden af lovens § 1, nr. 2.
+
+§ 4
+
+De regionale TV 2-virksomheder kan fortsat udøve anden virksomhed, der er etableret på tidspunktet for lovens ikrafttræden efter den hidtil gældende § 33, stk. 2 og 3, i lov om radio- og fjernsynsvirksomhed. Sådan virksomhed, der efter § 33, stk. 2 og 3, som affattet ved § 1, nr. 11 og 12, i denne lov, ikke må udøves, skal dog være afviklet senest den 1. januar 2011.
