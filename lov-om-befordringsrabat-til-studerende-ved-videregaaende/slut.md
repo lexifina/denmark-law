@@ -1,5 +1,5 @@
-Undervisningsministeriet, den 28. juni 2001
+Undervisningsministeriet, den 14. marts 2007
 
-Margrethe Vestager
+Bertel Haarder
 
-/Susanne Gruno
+/Hanna Dam
