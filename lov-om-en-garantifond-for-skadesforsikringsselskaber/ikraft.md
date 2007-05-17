@@ -39,3 +39,29 @@ Stk. 1. Loven gælder ikke for Færøerne og Grønland, jf. dog stk. 2 og 3.
 Stk. 2. (Udeladt).
 
 Stk. 3. §§ 2 og 5 kan ved kongelig anordning helt eller delvis sættes i kraft for Grønland med de afvigelser, som de særlige grønlandske forhold tilsiger.
+
+Lov nr. 108 af 7. februar 2007 indeholder følgende ikrafttrædelsesbestemmelser:
+
+§ 21
+
+Stk. 1. (Udeladt).
+
+Stk. 2. (Udeladt).
+
+Stk. 3. § 1, nr. 88, § 3, nr. 1, 3, 11, 24, 27, 30, 40-43, 58, 61, 62, 68, 69, 76, 81, 83, 85 og 86, § 6, nr. 1-9, § 7, § 8, nr. 3, 8 og 9, § 9, nr. 6 og 7, § 10, nr. 6, og §§ 11-15 træder i kraft den 15. februar 2007.
+
+Stk. 4-7. (Udeladt).
+
+§ 22
+
+(Udeladt).
+
+§ 23
+
+Stk. 1. (Udeladt).
+
+Stk. 2. (Udeladt).
+
+Stk. 3. §§ 7, 10-12 og 16 kan ved kongelig anordning helt eller delvis sættes i kraft for Grønland med de afvigelser, som de særlige grønlandske forhold tilsigter.
+
+Stk. 4. (Udeladt).
