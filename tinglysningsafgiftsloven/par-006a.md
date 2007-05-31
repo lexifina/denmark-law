@@ -1,0 +1,1 @@
+§ 6 a. For tinglysning af adkomstændringer ved selskabers m.v. fusion, fission, omdannelse eller tilførsel af aktiver til sådanne selskaber udgør afgiften 1.400 kr. Der skal ved anmeldelsen afgives en erklæring om, at ændringen er omfattet af 1. pkt. Skatteministeren kan fastsætte nærmere regler for udformningen af erklæringen.
