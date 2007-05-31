@@ -1,7 +1,5 @@
-Givet på Christiansborg slot, den 2. juni 1999
+Skatteministeriet, den 14. maj 2007
 
-Under Vor Kongelige Hånd og Segl
+P.M.V. Peter Loft
 
-Margrethe R.
-
-/Ole Stavad
+/Lene Skov Henningsen
