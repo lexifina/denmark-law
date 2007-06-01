@@ -1,0 +1,1 @@
+§ 122 a. Kontrolmyndigheden kan foranledige eller påbyde kassation af fangst, der er fisket i strid med regler om fiskeriets udøvelse, eller hvis indhold ikke er i overensstemmelse med regler om fangstens sammensætning.
