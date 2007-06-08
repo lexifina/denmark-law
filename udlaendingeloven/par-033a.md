@@ -1,0 +1,1 @@
+§ 33 a. Udlændinge, som samarbejder om udrejsen og indgår en kontrakt om opkvalificeringsforløb og frivillig udrejse med Udlændingeservice, jf. § 43 c, skal uanset den fastsatte udrejsefrist, jf. § 33, først udrejse, når opkvalificeringsforløbet i Danmark er afsluttet eller ophørt.
