@@ -1,0 +1,1 @@
+§ 4 f. Ejeren af et anlæg som nævnt i § 3 a, stk. 1, og § 4, stk. 1, er erstatningsansvarlig for de skader, som anlægget forvolder, selv om skaden er hændelig. Energi-, forsynings- og klimaministeren kan fastsætte nærmere regler om erstatningsansvar og forsikring.
