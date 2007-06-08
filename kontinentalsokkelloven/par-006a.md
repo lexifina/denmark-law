@@ -1,4 +1,4 @@
-§ 6 a. Enhver med en væsentlig og individuel interesse i afgørelsen kan klage til Energiklagenævnet over de miljømæssige forhold i afgørelser i henhold til § 4.
+§ 6 a. Enhver med en væsentlig og individuel interesse i afgørelsen kan klage til Energiklagenævnet over afgørelser truffet i henhold til loven eller regler udstedt i medfør af loven.
 
 Stk. 2. Lokale og landsdækkende foreninger og organisationer, der som hovedformål har beskyttelse af natur og miljø, kan klage over de i stk. 1 angivne afgørelser. Det samme gælder for lokale og landsdækkende foreninger og organisationer, som efter deres formål varetager væsentlige rekreative interesser, når en afgørelse berører sådanne interesser.
 
@@ -11,3 +11,5 @@ Stk. 5. En tilladelse må ikke udnyttes, før klagefristen er udløbet.
 Stk. 6. Klage over en tilladelse til et projekt omfattet af stk. 1 har ikke opsættende virkning, med mindre Energiklagenævnet bestemmer andet.
 
 Stk. 7. Energiklagenævnets afgørelser kan ikke påklages til anden administrativ myndighed.
+
+Stk. 8. Energiklagenævnet kan ikke prøve indstillinger omfattet af § 3 a, stk. 2. Afslag truffet i henhold til § 3 a, stk. 1, som meddeles på baggrund af en indstilling efter § 3 a, stk. 2, kan ikke indbringes for anden administrativ myndighed.

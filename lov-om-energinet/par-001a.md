@@ -1,0 +1,1 @@
+§ 1 a. Klima- og energiministeren fastsætter regler eller træffer bestemmelser med henblik på at gennemføre eller anvende internationale konventioner og EU-regler om forhold, der er omfattet af denne lov, herunder forordninger, direktiver og beslutninger om naturbeskyttelse på søterritoriet og i den eksklusive økonomiske zone.

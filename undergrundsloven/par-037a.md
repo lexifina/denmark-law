@@ -1,4 +1,4 @@
-§ 37 a. Enhver med en væsentlig og individuel interesse i afgørelsen kan klage til Energiklagenævnet over de miljømæssige forhold i afgørelser i henhold til §§ 10, 17 og 28, hvis afgørelserne tillige er omfattet af § 28 a.
+§ 37 a. Enhver med en væsentlig og individuel interesse i afgørelsen kan klage til Energiklagenævnet over de miljømæssige forhold i afgørelser i henhold til §§ 10, 17 og 28, hvis afgørelserne tillige er omfattet af §§ 28 a og 28 b.
 
 Stk. 2. Lokale og landsdækkende foreninger eller organisationer, der som hovedformål har beskyttelse af natur og miljø, kan klage over de i stk. 1 angivne afgørelser. Det samme gælder for lokale og landsdækkende foreninger og organisationer, som efter deres formål varetager væsentlige rekreative interesser, når en afgørelse berører sådanne interesser.
 

@@ -1,0 +1,3 @@
+§ 4 c. Energi-, forsynings- og klimaministeren kan pålægge ejere af anlæg som nævnt i § 3 a, stk. 1, og § 4, stk. 1, at meddele alle oplysninger, som er nødvendige for behandlingen af ansøgninger og vurderinger omfattet af §§ 3 a-4 a samt for tilsynet med anlægget. Ministeren kan herunder pålægge anlæggets ejer at foretage undersøgelser af nærmere bestemte forhold.
+
+Stk. 2. Ejere af elkabler og rørledninger til transport af kulbrinter som nævnt i § 3 a, stk. 1, skal meddele energi-, forsynings- og klimaministeren væsentlige ændringer i de oplysninger, som ejerne har meddelt ministeren. Meddelelsen skal gives, uden ugrundet ophold og senest 7 arbejdsdage efter at ejeren er blevet bekendt med ændringerne.
