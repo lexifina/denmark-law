@@ -8,7 +8,7 @@ Stk. 4. For betaling af afgift hæfter den, der stiller køretøjet til rådighe
 
 Stk. 5. Pligten til betaling af afgift og tillæg ophører ved udgangen af den måned, hvori registreringspligten i Danmark ophører eller motorkøretøjet udgår af ordningen, jf. § 1, stk. 3. Ophører registreringspligten, eller udgår motorkøretøjet af ordningen, jf. § 1, stk. 3, tilbagebetaler told- og skatteforvaltningen depositummet samt for meget betalt afgift og tillæg. Told- og skatteforvaltningen tilbagebetaler endvidere depositummet, når den samlede afgift er betalt eller der sker afgiftsberigtigelse efter stk. 6.
 
-Stk. 6. Overgår et motorkøretøj, der hidtil har været afgiftsfrit, jf. § 1, stk. 4, til en person eller virksomhed, der ikke er omfattet af § 1, stk. 4, ved salg eller anden overdragelse, forfalder resten af afgiften, medmindre afgiften af motorkøretøjet i stedet berigtiges efter reglerne i § 4, stk. 3-16.
+Stk. 6. Overgår et motorkøretøj, der hidtil har været afgiftsfrit, jf. § 1, stk. 4, til en person eller virksomhed, der ikke er omfattet af § 1, stk. 4, ved salg eller anden overdragelse, forfalder resten af afgiften, medmindre afgiften af motorkøretøjet i stedet berigtiges efter reglerne i § 4.
 
 Stk. 7. Bestemmelserne i stk. 1-6 finder tilsvarende anvendelse for motorkøretøjer, som er registreret med udenlandske nummerplader.
 
