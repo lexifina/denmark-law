@@ -1,7 +1,3 @@
-Bekendtgørelse af lov om afgift af visse ozonlagsnedbrydende stoffer og visse drivhusgasser (afgift på klorfluorkarboner, haloner, hydrofluorkarboner, perfluorkarboner og svovlhexafluorid)
+Bekendtgørelse af lov om afgift af cfc og visse industrielle drivhusgasser
 
-Herved bekendtgøres lov om afgift af visse klorfluorkarboner og haloner (CFC-afgift), jf. lovbekendtgørelse nr. 569 af 3. august 1998, med de ændringer, der følger af § 28 i lov nr. 380 af 2. juni 1999, § 22 i lov nr. 165 af 15. marts 2000, § 9 i lov nr. 1029 af 22. november 2000 og lov nr. 1288 af 20. december 2000. Lovbekendtgørelsen gælder først fuldt ud fra den 1. juli 2001, jf. note 3.
-
-## Kapitel 1
-
-Afgift af klorfluorkarboner og haloner
+Herved bekendtgøres lov om afgift af visse ozonlagsnedbrydende stoffer og visse drivhusgasser (afgift på klorfluorkarboner, haloner, hydrofluorkarboner, perfluorkarboner og svovlhexafluorid), jf. lovbekendtgørelse nr. 208 af 22. marts 2001, med de ændringer, der følger af § 2 i lov nr. 127 af 27. februar 2004, § 11 i lov nr. 325 af 18. maj 2005 og § 12 i lov nr. 428 af 6. juni 2005.
