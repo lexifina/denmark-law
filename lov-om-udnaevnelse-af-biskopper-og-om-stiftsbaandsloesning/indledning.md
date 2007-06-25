@@ -1,3 +1,3 @@
 Bekendtgørelse af lov om udnævnelse af biskopper og om stiftsbåndsløsning
 
-Herved bekendtgøres lov om udnævnelse af biskopper og om stiftsbåndsløsning, jf. lovbekendtgørelse nr. 511 af 16. juni 1994, med de ændringer, der følger af lov nr. 1566 af 20. december 2006.
+Herved bekendtgøres lov om udnævnelse af biskopper og om stiftsbåndsløsning, jf. lovbekendtgørelse nr. 3 af 3. januar 2007, med de ændringer, der følger af lov nr. 531 af 6. juni 2007.
