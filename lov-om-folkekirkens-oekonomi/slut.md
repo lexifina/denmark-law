@@ -1,4 +1,4 @@
-Kirkeministeriet, den 3. januar 2007
+Kirkeministeriet, den 6. juni 2007
 
 Bertel Haarder
 
