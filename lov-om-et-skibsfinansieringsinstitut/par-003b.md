@@ -1,0 +1,3 @@
+§ 3 b. Indehavere af kasseobligationer, skibskreditobligationer eller særligt dækkede obligationer eller långivere efter § 2 j, stk. 1, kan ikke gøre afsigelse af konkursdekret over instituttet gældende som årsag til førtidig indfrielse af betalingsforpligtelser. Afsigelse af konkursdekret over instituttet fratager ikke instituttets låntageres ret til at foretage hel eller delvis indfrielse af lån i overensstemmelse med de indfrielsesvilkår, der gælder for lånet.
+
+Stk. 2. Overholder instituttet ikke forpligtelsen i § 2 i, stk. 1, kan dette ikke af indehaverne af særligt dækkede obligationer eller af långivere efter § 2 j, stk. 1, gøres gældende som årsag til førtidig indfrielse af betalingsforpligtelser.

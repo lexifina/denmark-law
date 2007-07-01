@@ -1,0 +1,3 @@
+§ 27 a. Indehavere af obligationer, der har mistet betegnelsen særligt dækkede realkreditobligationer eller særligt dækkede obligationer, jf. § 33 d, stk. 2, og modparter på de finansielle instrumenter bevarer den konkursretlige stilling, som tildeles indehavere af særligt dækkede realkreditobligationer, særligt dækkede obligationer og finansielle modparter. Tilsvarende gælder dækning af gæld, som realkreditinstituttet har optaget til brug for at stille supplerende sikkerhed, jf. § 33 e.
+
+Stk. 2. Reglerne i §§ 27 b og 28-33 finder tilsvarende anvendelse på obligationer, der har mistet betegnelsen særligt dækkede realkreditobligationer eller særligt dækkede obligationer samt finansielle instrumenter knyttet hertil.

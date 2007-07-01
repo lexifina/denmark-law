@@ -1,0 +1,3 @@
+§ 2 g. Et kapitalcenters indtægter består af rente og lignende indtægter af pantebreve, gebyrer, indtægter vedrørende finansielle instrumenter og lignende indtægter samt afkast af kapitalcenterets aktiver og ikkebalanceførte poster.
+
+Stk. 2. Et kapitalcenters udgifter består af rente og lignende udgifter af udstedte obligationer, udgifter til administration m.v., udgifter vedrørende finansielle instrumenter, udgifter forbundet med optagelse og forrentning af hybrid kernekapital og ansvarlig lånekapital, tab og hensættelser til sandsynliggjorte tab på kapitalcenterets aktiver og ikkebalanceførte poster samt andelen af instituttets skat.
