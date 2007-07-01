@@ -17,3 +17,5 @@ Stk. 4. Påbud efter stk. 1 om tilbagebetaling af støtte kan rettes til private
 Stk. 5. Konkurrencerådets beføjelser efter stk. 1 til at påbyde offentlig støtte tilbagebetalt forældes 5 år efter, at støtten er udbetalt. Konkurrencerådet fastsætter renter i forbindelse med tilbagebetaling efter stk. 1 efter rentelovens regler herom, herunder at forrentningen kan ske fra udbetalingen af den konkurrenceforvridende støtte.
 
 Stk. 6. Konkurrencerådet kan efter anmeldelse erklære, at offentlig støtte efter de forhold, som Konkurrencerådet har kendskab til, ikke er omfattet af stk. 2, nr. 1, og at der derfor ikke er grundlag for at udstede påbud i medfør af stk. 1. Rådet kan fastsætte nærmere regler om anmeldelse, herunder om brug af særlige anmeldelsesskemaer.
+
+Stk. 7. Konkurrencerådet kan undlade at behandle en sag efter stk. 1-6, hvis den pågældende støtteordning kan påvirke samhandelen mellem medlemsstaterne i Den Europæiske Union.
