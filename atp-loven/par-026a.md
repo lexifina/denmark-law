@@ -6,4 +6,4 @@
 
 3) Har Arbejdsmarkedets Tillægspension indgået finansielle kontrakter, der reducerer risikoen for, at aktiverne ikke kan dække forpligtelserne, medregnes værdien af sådanne kontrakter i aktivernes værdi.
 
-4) Tilgodehavende uforfaldne renter af værdipapirer omfattet af § 26 b, stk. 1, nr. 1-4, 6, 8 og 10-12, medregnes i værdipapirernes værdi.
+4) Tilgodehavende uforfaldne renter af værdipapirer omfattet af § 26 b, stk. 1, nr. 1-4, 6, 8 og 10-13, medregnes i værdipapirernes værdi.
