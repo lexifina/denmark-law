@@ -1,4 +1,4 @@
-§ 477 b. Inddrivelsen indledes ved indlevering af betalingspåkrav til fogedretten i en retskreds, hvor der er værneting efter kapitel 22. Såfremt fordringshaveren anmoder om, at udlæg iværksættes uden fornyet anmodning, jf. stk. 4, nr. 2, skal betalingspåkravet dog indleveres til fogedretten i en retskreds, hvor der endvidere er værneting efter § 487, stk. 1.
+§ 477 b. Inddrivelsen indledes ved indlevering af betalingspåkrav til fogedretten i en retskreds, hvor der er værneting efter kapitel 22 og 23. Såfremt fordringshaveren anmoder om, at udlæg iværksættes uden fornyet anmodning, jf. stk. 4, nr. 2, skal betalingspåkravet dog indleveres til fogedretten i en retskreds, hvor der endvidere er værneting efter § 487, stk. 1 og stk. 2, 1. pkt.
 
 Stk. 2. Før betalingspåkravet indleveres til fogedretten, skal der til skyldneren være sendt en påkravsskrivelse, der opfylder betingelserne i § 10, stk. 2 og 3, i lov om inkassovirksomhed, og den frist, der er nævnt i § 10, stk. 3, i lov om inkassovirksomhed, skal være udløbet, jf. dog § 11 i lov om inkassovirksomhed.
 
@@ -8,15 +8,13 @@ Stk. 3. Betalingspåkravet skal indeholde
 
 2) angivelse af den ret, ved hvilken inddrivelsen indledes,
 
-3) fordringshaverens krav,
+3) fordringshaverens krav og
 
-4) en kort fremstilling af de faktiske og retlige omstændigheder, hvorpå kravet støttes, og
-
-5) en vejledning til skyldneren om retsvirkningerne af betalingspåkravet og om, hvad skyldneren bør foretage sig til varetagelse af sine interesser.
+4) en kort fremstilling af de faktiske og retlige omstændigheder, hvorpå kravet støttes.
 
 Stk. 4. Betalingspåkravet skal endvidere indeholde oplysning om,
 
-1) hvorvidt fordringshaveren ønsker betalingspåkravet forkyndt for skyldneren, såfremt udlæg er udelukket efter § 490,
+1) hvorvidt fordringshaveren ønsker betalingspåkravet forkyndt for skyldneren, såfremt udlæg er udelukket efter § 490 eller konkurslovens §§ 16, 16 a, 31, 171 eller 207,
 
 2) hvorvidt fordringshaveren ønsker, at udlæg iværksættes uden fornyet anmodning fra fordringshaveren, såfremt skyldneren ikke fremsætter indsigelser, og
 
