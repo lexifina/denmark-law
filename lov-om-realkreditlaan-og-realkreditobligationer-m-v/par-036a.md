@@ -1,0 +1,1 @@
+§ 36 a. Økonomi- og erhvervsministeren fastsætter nærmere regler om anvendelse af digital kommunikation, herunder elektronisk signatur, ved udveksling af information efter denne lov mellem borgere og virksomheder på den ene side og den offentlige forvaltning på den anden side samt om opbevaring af information.
