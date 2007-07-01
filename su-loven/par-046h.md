@@ -1,0 +1,1 @@
+§ 46 h. Styrelsen træffer den endelige administrative afgørelse efter bestemmelserne i afsnit I a, jf. dog § 46 c, stk. 3, 2. pkt. Afgørelser, som styrelsen har truffet efter § 46 a, stk. 1, § 46 d, stk. 3, og § 46 e, stk. 3 og 4, og regler fastsat i medfør heraf, kan dog indbringes for Ankenævnet for Uddannelsesstøtten efter bestemmelserne i § 46, stk. 2 og 3.
