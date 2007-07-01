@@ -1,0 +1,1 @@
+§ 127 a. Skyldneren eller en fordringshaver kan forlange, at skifteretten benytter sine beføjelser efter § 126, stk. 2, og at skifteretten fastsætter tidspunktet for afholdelse af skiftesamling efter § 143 eller § 150, hvis det er nødvendigt på grund af kravet i artikel 6 i Den Europæiske Menneskerettighedskonvention om behandling af sagen inden for en rimelig frist.
