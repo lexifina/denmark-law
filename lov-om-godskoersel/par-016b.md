@@ -16,4 +16,4 @@ Stk. 3. Stk. 1 finder tilsvarende anvendelse på udgifter til retshjælp og lign
 
 Stk. 4. Den, der hæfter efter stk. 1, jf. stk. 2 og 3, skal stille sikkerhed for opfyldelsen af sine eventuelle forpligtelser, forinden et køretøj kører ud af landet.
 
-Stk. 5. Trafikministeren fastsætter nærmere regler om hæftelsen, herunder om dens omfang efter stk. 1, jf. stk. 2 og 3, og om sikkerhedsstillelsen efter stk. 4. Trafikministeren kan fastsætte regler om fritagelse for sikkerhedsstillelse ved kørsel inden for nærmere angivne områder.
+Stk. 5. Transportministeren fastsætter nærmere regler om hæftelsen, herunder om dens omfang efter stk. 1, jf. stk. 2 og 3, og om sikkerhedsstillelsen efter stk. 4. Transportministeren kan fastsætte regler om fritagelse for sikkerhedsstillelse ved kørsel inden for nærmere angivne områder.
