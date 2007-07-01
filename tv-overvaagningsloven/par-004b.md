@@ -1,0 +1,1 @@
+§ 4 b. Politidirektøren kan meddele offentlige myndigheder eller private, som foretager eller planlægger at iværksætte tv-overvågning efter gældende lovgivning, pålæg med hensyn til kvaliteten af optagelser af billeder på videobånd, film el.lign. samt med hensyn til opbevaringen af sådanne optagelser.
