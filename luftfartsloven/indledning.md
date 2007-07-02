@@ -1,5 +1,9 @@
 Bekendtgørelse af lov om luftfart
 
-Herved bekendtgøres lov om luftfart, jf. lovbekendtgørelse nr. 543 af 13. juni 2001 , med de ændringer, der følger af lov nr. 1074 af 17. december 2002, § 2 i lov nr. 323 af 5. maj 2004, lov nr. 475 af 9. juni 2004, § 2 i lov nr. 278 af 20. april 2005 og § 13 i lov nr. 581 af 24. juni 2005.
+Herved bekendtgøres lov om luftfart, jf. lovbekendtgørelse nr. 1484 af 19. december 2005 , med de ændringer, der følger af § 97 i lov nr. 538 af 8. juni 2006, § 5 i lov nr. 542 af 8. juni 2006, lov nr. 242 af 21. marts 2007 og § 31 i lov nr. 512 af 6. juni 2007.
 
-Den bekendtgjorte lovtekst indeholder de ændringer i § 40 g, stk. 4 og § 75, stk. 7, der følger af lov nr. 581 af 24. juni 2005 (Konsekvensrettelser som følge af kommunalreformen), selvom loven først træder i kraft den 1. januar 2007 .
+Den bekendtgjorte lovtekst indeholder den ændring, jf. § 148 a, der følger af § 5 i lov nr. 542 af 8. juni 2006 (Styrkelse af indsatsen for at bekæmpe terrorisme m.v.), selvom bestemmelsen først træder i kraft på det tidspunkt, som transport- og energiministeren fastsætter efter forhandling med justitsministeren.
+
+Den bekendtgjorte lovtekst indeholder desuden den ændring, jf. § 153 a, stk. 2, der følger af lov nr. 242 af 21. marts 2007 (Lufthavnstakster, tilsyn, forsikring, tavshedspligt, lønindeholdelse for manglende betaling og internationale vedtagelser på engelsk m.v.), selvom bestemmelsen først træder i kraft på det tidspunkt, som transport- og energiministeren fastsætter.
+
+Den bekendtgjorte lovtekst indeholder endvidere den ændring, jf. § 150 f, der følger af § 31 i lov nr. 512 af 6. juni 2007 om røgfri miljøer, selvom bestemmelsen først træder i kraft den 15. august 2007.
