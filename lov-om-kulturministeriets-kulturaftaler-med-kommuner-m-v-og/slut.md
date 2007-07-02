@@ -1,7 +1,5 @@
-Givet på Amalienborg, den 29. december 1999
+Kulturministeriet, den 7. juni 2007
 
-Under Vor Kongelige Hånd og Segl
+Brian Mikkelsen
 
-Margrethe R.
-
-/Elsebeth Gerner Nielsen
+/Per Voetmann
