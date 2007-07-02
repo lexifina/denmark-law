@@ -1,1 +1,0 @@
-§ 119. Skal en befordring, der efter befordringsaftalen er at anse som en befordring, udøves af flere efter hinanden følgende befordrere, er enhver af dem, når den pågældende modtager passagererne, det indskrevne rejsegods eller godset, ansvarlig for den del af befordringen, som det påhviler den pågældende at udføre.

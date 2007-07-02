@@ -1,1 +1,0 @@
-§ 99. Afsenderen er ansvarlig for skade, som befordreren eller nogen, over for hvem denne er ansvarlig, lider som følge af, at afsenderens oplysning i luftfragtbrevet angående godset ikke har det foreskrevne indhold eller i øvrigt er urigtig eller ufuldstændig.
