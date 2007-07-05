@@ -1,9 +1,5 @@
-Givet på Christiansborg Slot, den 14. juni 1995
+Miljøministeriet, den 21. juni 2007
 
-Under Vor Kongelige Hånd og Segl
+Connie Hedegaard
 
-MARGRETHE R.
-
-/Svend Auken
-
-Ingen
+/Anne-Marie Rasmussen
