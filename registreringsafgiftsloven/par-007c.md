@@ -1,4 +1,4 @@
-§ 7 c. Afgiften godtgøres af told- og skatteforvaltningen, når køretøjets afgiftspligtige værdi, er fastslået, og told- og skatteforvaltningen har modtaget dokumentation for køretøjets afmeldelse fra Køretøjsregisteret og udførsel her fra landet.
+§ 7 c. Afgiften godtgøres af told- og skatteforvaltningen, når køretøjets afgiftspligtige værdi, er fastslået, og told- og skatteforvaltningen har modtaget dokumentation for køretøjets afmeldelse fra motorregisteret og udførsel her fra landet.
 
 Stk. 2. Afgiften udbetales senest 3 uger efter modtagelsen af dokumentation i henhold til stk. 1. Såfremt told- og skatteforvaltningen ikke kan godkende dokumentationen eller på grund af modtagerens forhold ikke kan foretage den nødvendige kontrol af køretøjets værdi på udførselstidspunktet, afbrydes fristen, indtil den nødvendige dokumentation foreligger eller kontrollen kan foretages.
 
