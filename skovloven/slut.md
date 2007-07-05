@@ -1,10 +1,8 @@
-Givet på Christiansborg Slot, den 9. juni 2004
+Miljøministeriet, den 21. juni 2007
 
-Under Vor Kongelige Hånd og Segl
+Connie Hedegaard
 
-Margrethe R.
-
-/Hans Chr. Schmidt
+/Anne-Marie Rasmussen
 
 Bilag 1
 
