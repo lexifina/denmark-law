@@ -1,5 +1,3 @@
-Lov om Domaineeiendommes Afhændelse.
+Bekendtgørelse af Lov om Domaineeiendommes Afhændelse
 
-§ 1. De Staten tilhørende saakaldte Lemdrup Sandholme i Liimfjorden skulle snarest muligt søges afhændede ved offentlig Auction.
-
-§ 2. Fremdeles bemyndiges Finansministeriet til, efterhaanden, når Leilighed gives dertil, at afhænde de Staten tilhørende mindre Domaineeiendomme, som ikke høre til Statens Bøndergods, saasom mindre steder på hidtilværende Hovedgaardstartsgrund under 2 Tdr. Hartkorn, ubebyggede Arealer under 5 Tdr. Hartkorn, små Krosteder, Søer og Damme, Rettigheder til Fiskeri og Rørskær, og andre deslige Eiendomme og Rettigheder.
+Herved bekendtgøres lov nr. 11000 af 27. januar 1852 om domaineeiendommes afhændelse med de ændringer, der følger af § 21 i lov nr. 1571 af 20. december 2006.
