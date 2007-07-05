@@ -1,7 +1,5 @@
-Givet på Marselisborg Slot, den 27. december 2003
+Finansministeriet, den 28. juni 2007
 
-Under Vor Kongelige Hånd og Segl
+Thor Pedersen
 
-Margrethe R.
-
-/Thor Pedersen
+/Charlotte Münter
