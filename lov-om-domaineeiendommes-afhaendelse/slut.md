@@ -1,7 +1,5 @@
-Givet i, den 27. januar 1852
+Miljøministeriet, den 21. juni 2007
 
-Under Vor Kongelige Hånd og Segl
+Connie Hedegaard
 
-Vi Frederik den Syvende
-
-/x
+/Anne-Marie Rasmussen
