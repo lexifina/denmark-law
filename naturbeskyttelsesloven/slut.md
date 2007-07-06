@@ -1,4 +1,4 @@
-Miljøministeriet, den 18. august 2004
+Miljøministeriet, den 21. juni 2007
 
 Connie Hedegaard
 
@@ -54,4 +54,4 @@ Aktiviteter, der er omfattet af § 19 b:
 
 11) Etablering af anlæg, der er nødvendige for erhvervet, herunder veje.
 
-12) Etablering af ikkegodkendelsespligtige virksomheder i områderne, der kan medføre betydelige forstyrrelser (eksempelvis støj).
+12) Etablering af ikke-godkendelsespligtige virksomheder i områderne, der kan medføre betydelige forstyrrelser (eksempelvis støj).
