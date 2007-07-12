@@ -1,5 +1,5 @@
-Miljøministeriet, den 3. december 2002
+Miljøministeriet, den 21. juni 2007
 
-Hans Chr. Schmidt
+Connie Hedegaard
 
-/Hans Henrik Christensen
+/Anne-Marie Rasmussen
