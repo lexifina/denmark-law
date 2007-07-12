@@ -1,12 +1,10 @@
-§ 23 a. Kommunalbestyrelsen skal inden udgangen af den første halvdel af den kommunale valgperiode offentliggøre en strategi for kommuneplanlægningen. Kommunalbestyrelsen kan i øvrigt offentliggøre en sådan strategi, når den finder det nødvendigt eller hensigtsmæssigt. Samtidig med offentliggørelsen sendes den vedtagne strategi til miljøministeren og øvrige statslige, regionale og kommunale myndigheder, hvis interesser berøres, samt til det regionale faglige kulturmiljøråd.
+§ 23 a. Kommunalbestyrelsen skal inden udgangen af den første halvdel af den kommunale valgperiode offentliggøre en strategi for kommuneplanlægningen. Kommunalbestyrelsen kan i øvrigt offentliggøre en sådan strategi, når den finder det nødvendigt eller hensigtsmæssigt. Samtidig med offentliggørelsen sendes den vedtagne strategi til miljøministeren og øvrige statslige, regionale og kommunale myndigheder, hvis interesser berøres, samt til lokale kulturmiljøråd.
 
 Stk. 2. Den i stk. 1 nævnte strategi skal indeholde oplysninger om den planlægning, der er gennemført efter den seneste revision af kommuneplanen, kommunalbestyrelsens vurdering af og strategi for udviklingen samt en beslutning om enten
 
-1) at kommuneplanen skal revideres,
+1) at kommuneplanen skal revideres i sin helhed, eller
 
-2) at der skal foretages en revision af kommuneplanens bestemmelser for særlige temaer eller områder i kommunen, eller
-
-3) at kommuneplanen vedtages for en ny 4 års periode.
+2) at der skal foretages en revision af kommuneplanens bestemmelser for særlige emner eller områder i kommunen og af, hvilke dele af kommuneplanen der genvedtages for en ny 4-års-periode.
 
 Stk. 3. Ethvert medlem af kommunalbestyrelsen, der har forlangt sin afvigende mening vedrørende den i stk. 2 nævnte revisionsbeslutning tilført kommunalbestyrelsens beslutningsprotokol, kan forlange, at den afvigende mening offentliggøres samtidig med strategien med en kort begrundelse, der affattes af medlemmet.
 
