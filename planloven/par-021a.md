@@ -1,0 +1,1 @@
+§ 21 a. Ved lavenergibebyggelse forstås bebyggelse, der på tidspunktet for ansøgningen om byggetilladelsen opfylder de energirammer for energiforbrug for lavenergibygninger, der er fastsat i bygningsreglementet.
