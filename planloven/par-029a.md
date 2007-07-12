@@ -1,1 +1,3 @@
-§ 29 a. Regionplanmyndigheden skal fremsætte indsigelse efter § 28 mod forslag til lokalplaner, kommuneplaner og ændringer til kommuneplaner for arealer i kystnærhedszonen, såfremt planforslaget er i strid med bestemmelserne i § 5 a, stk. 1, § 5 b, § 11 a eller § 16, stk. 3. Pligten gælder dog ikke, hvis forholdet er af underordnet betydning i forhold til de nationale planlægningsinteresser i kystområderne, jf. § 1.
+§ 29 a. Regionsrådet kan gøre indsigelse efter § 28 over for forslag til kommuneplaner og ændringer af kommuneplaner, hvis planforslaget er i strid med den regionale udviklingsplan.
+
+Stk. 2. Regionsrådet skal underrette miljøministeren om indsigelser efter stk. 1. Ophæver regionsrådet en indsigelse, skal miljøministeren ligeledes underrettes.
