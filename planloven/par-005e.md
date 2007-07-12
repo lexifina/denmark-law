@@ -1,1 +1,0 @@
-§ 5 e. Miljøministeren afgiver hvert andet år en redegørelse til Folketingets Miljø- og Planlægningsudvalg. Redegørelsen belyser og vurderer udviklingen i region-, kommune- og lokalplanlægningen for detailhandelsstrukturen på baggrund af bestemmelserne i §§ 1, 5 c og 5 d.

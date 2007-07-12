@@ -1,1 +1,1 @@
-§ 11 d. Et byomdannelsesområde, jf. § 11, stk. 5, nr. 4, skal afgrænses således, at det kun omfatter et område, hvor anvendelsen til miljøbelastende erhvervsformål, havneformål eller lignende aktiviteter i den langt overvejende del af området er ophørt eller under afvikling.
+§ 11 d. Et byomdannelsesområde, jf. § 11 b, stk. 1, nr. 5, skal afgrænses således, at det kun omfatter et område, hvor anvendelsen til miljøbelastende erhvervsformål, havneformål eller lignende aktiviteter i den langt overvejende del af området er ophørt eller under afvikling.
