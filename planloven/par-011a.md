@@ -1,15 +1,39 @@
-§ 11 a. Kommunalbestyrelsen skal ved revision af kommuneplanen, jf. § 23 a, stk. 2, nr. 1 og 2, foretage de nødvendige ændringer af planen i overensstemmelse med bestemmelserne i §§ 5 a, stk. 1, og 5 b.
+§ 11 a. Kommuneplanen skal indeholde retningslinjer for
 
-Stk. 2. Kommunalbestyrelsen skal i forbindelse hermed gennemgå de allerede vedtagne, men ikke udnyttede arealreservationer i kommuneplanen, og ophæve de reservationer, der ikke er aktuelle.
+1) udlægning af arealer til byzoner og sommerhusområder,
 
-Stk. 3. Kommunalbestyrelsen skal af hensyn til bl.a. turismen og friluftslivet vurdere mulighederne for at forbedre større sammenhængende sommerhusområder.
+2) beliggenheden af områder til forskellige byformål, f.eks. boligformål, erhvervsformål, blandede byfunktioner, beliggenheden af offentlige institutioner, serviceformål, byomdannelsesområder m.v.,
 
-Stk. 4. Kommunalbestyrelsen skal for de kystnære dele af byzonerne vurdere de fremtidige bebyggelsesforhold, herunder bygningshøjder, med henblik på
+3) den kommunale detailhandelsstruktur, herunder afgrænsning af bymidter, bydelscentre, lokalcentre, områder til særlig pladskrævende varer og eventuelle aflastningsområder samt fastsættelse af det maksimale bruttoetageareal til butiksformål for det enkelte område og maksimale bruttoetagearealer for de enkelte butikker i de enkelte områder, herunder også for enkeltstående butikker, jf. §§ 5 l-5 r,
 
-1) at ny bebyggelse indpasses i den kystlandskabelige helhed,
+4) beliggenheden af trafikanlæg,
 
-2) at der tages hensyn til bevaringsværdige helheder i bystrukturen og til naturinteresser på de omgivende arealer,
+5) beliggenheden af tekniske anlæg,
 
-3) at der tages hensyn til nødvendige infrastrukturanlæg, herunder havne, og
+6) beliggenheden af områder til virksomheder m.v., hvortil der af hensyn til forebyggelse af forurening må stilles særlige beliggenhedskrav,
 
-4) at offentligheden sikres adgang til kysten.
+7) beliggenheden af de i § 11 g nævnte anlæg,
+
+8) sikring af, at støjbelastede arealer ikke udlægges til støjfølsom anvendelse, medmindre den fremtidige anvendelse kan sikres mod støjgener, jf. § 15 a,
+
+9) beliggenheden af arealer til fritidsformål, herunder kolonihaveområder og andre rekreative områder,
+
+10) varetagelsen af de jordbrugsmæssige interesser, herunder udpegningen og sikringen af særlig værdifulde landbrugsområder,
+
+11) beliggenheden af skovrejsningsområder og områder, hvor skovtilplantning er uønsket,
+
+12) lavbundsarealer, herunder beliggenheden af lavbundsarealer, der kan genoprettes som vådområder,
+
+13) varetagelsen af naturbeskyttelsesinteresserne, herunder beliggenheden af naturområder med særlige naturbeskyttelsesinteresser, af økologiske forbindelser samt af potentielle naturområder og potentielle økologiske forbindelser,
+
+14) sikring af kulturhistoriske bevaringsværdier, herunder beliggenheden af værdifulde kulturmiljøer og andre væsentlige kulturhistoriske bevaringsværdier,
+
+15) sikring af landskabelige bevaringsværdier og beliggenheden af områder med landskabelig værdi, herunder større, sammenhængende landskaber,
+
+16) sikring af geologiske bevaringsværdier, herunder beliggenheden af områder med særlig geologisk værdi,
+
+17) anvendelsen af vandløb, søer og kystvande,
+
+18) arealanvendelsen i kystnærhedszonen i overensstemmelse med bestemmelserne i § 5 a, stk. 1, og § 5 b og
+
+19) realisering af regler eller beslutninger efter lovens §§ 3 og 5 j.
