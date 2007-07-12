@@ -1,11 +1,7 @@
-Givet på Marselisborg Slot, den 1. juli 1998
+Miljøministeriet, den 21. juni 2007
 
-Under Vor Kongelige Hånd og Segl
+Connie Hedegaard
 
-Margrethe R.
-
-/ Svend Auken
+/Anne-Marie Rasmussen
 
 Bilag 1
-
-Ingen
