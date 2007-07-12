@@ -1,7 +1,7 @@
-Miljøministeriet, den 18. august 2004
+Miljøministeriet, den 21. juni 2007
 
 Connie Hedegaard
 
-/Anne-Marie Rasmussen
+/ Anne Marie Rasmussen
 
-Bilag
+Bilag 1

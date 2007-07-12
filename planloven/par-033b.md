@@ -1,1 +1,1 @@
-§ 33 b. Miljøministeren giver hvert fjerde år en redegørelse for det lokale Agenda 21-arbejde i amtskommuner og kommuner til et af Folketinget nedsat udvalg. Redegørelsen skal tilvejebringes i samarbejde med de kommunale organisationer.
+§ 33 b. Miljøministeren giver hvert fjerde år en redegørelse for det lokale Agenda 21-arbejde i regioner og kommuner til et af Folketinget nedsat udvalg. Redegørelsen skal tilvejebringes i samarbejde med de kommunale organisationer.
