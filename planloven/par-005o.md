@@ -1,0 +1,1 @@
+§ 5 o. I tilknytning til tankstationer, togstationer, lufthavne, stadioner, fritliggende turistattraktioner og lign., der ligger uden for områder omfattet af § 5 m og § 5 n, kan der udlægges arealer til butikker til brug for de kunder, der i øvrigt benytter anlægget på grund af dets primære funktion.
