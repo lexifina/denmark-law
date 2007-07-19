@@ -1,5 +1,5 @@
-Økonomi- og Erhvervsministeriet, den 11. juni 2002
+Energistyrelsen, den 4. juli 2007
 
-Bendt Bendtsen
+Ib Larsen
 
-/Peter Helmer Steen
+/Anna-Grethe Hjortkjær
