@@ -1,3 +1,3 @@
 Bekendtgørelse af lov om Arbejdsgivernes Elevrefusion
 
-Herved bekendtgøres lov om Arbejdsgivernes Elevrefusion, jf. lovbekendtgørelse nr. 107 af 18. februar 2004, med de ændringer, der følger af § 60 i lov nr. 430 af 6. juni 2005, § 72 i lov nr. 431 af 6. juni 2005, § 8 i lov nr. 593 af 24. juni 2005, §§ 1 og 2 i lov nr. 595 af 24. juni 2005 og § 19 i lov nr. 404 af 8. maj 2006.
+Herved bekendtgøres lov om Arbejdsgivernes Elevrefusion, jf. lovbekendtgørelse nr. 767 af 5. juli 2006, med de ændringer, der følger af § 2 i lov nr. 1538 af 20. december 2006, lov nr. 1596 af 20. december 2006, § 38 i lov nr. 523 af 6. juni 2007, § 2 i lov nr. 561 af 6. juni 2007 og § 78 i lov nr. 562 af 6. juni 2007. Den bekendtgjorte lovtekst gælder, jf. § 3 i lov nr. 1538 af 20. december 2006, § 47 i lov nr. 523 af 6. juni 2007, og § 49, stk. 2, i lov nr. 562 af 6. juni 2007, først fuldt ud fra 1. januar 2008.

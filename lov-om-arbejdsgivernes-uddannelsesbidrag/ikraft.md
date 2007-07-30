@@ -137,3 +137,71 @@ Stk. 1. § 1 træder i kraft den 1. januar 2007.
 Stk. 2. §§ 2-6, § 7, nr. 2, §§ 8-13, § 17, nr. 24, §§ 18-21 og § 22, nr. 1, 2 og 4 træder i kraft den 1. juni 2006.
 
 Stk. 3. (Udeladt).
+
+Lov nr. 1538 af 20. december 2006, hvis § 2 nyaffatter § 20, stk. 1, § 21, stk. 3, og § 27, ændrer § 18, stk. 2, indsætter § 18, stk. 4, § 21, stk. 4, og § 26, stk. 2, og ophæver § 20, stk. 2, 4. pkt., § 23, §§ 34-37 og § 39, indeholder i § 3 følgende bestemmelse:
+
+§ 3
+
+Stk.1. Loven træder i kraft den 1. januar 2008, jf. dog stk. 2-5.
+
+Stk. 2. (Udeladt).
+
+Stk. 3. Bidrag til Arbejdsgivernes Elevrefusion efter § 20, stk. 1, som affattet ved denne lovs § 2, nr. 3, opkræves første gang med forfaldsdato den 1. juli 2008 på grundlag af indbetalte ATP-bidrag i perioden fra den 13. februar til den 22. maj 2008. Herefter beregnes bidrag på grundlag af indbetalte ATP-bidrag i en forudgående 3-måneders-periode.
+
+Stk. 4. (Udeladt).
+
+Stk. 5. § 2, nr. 9, træder i kraft den 1. januar 2007. Det i henhold til § 28 i lov om Arbejdsmarkedets Tillægspension nedsatte ankenævn behandler klager over afgørelser truffet af Arbejdsgivernes Elevrefusion, der modtages denne dato eller senere. Det i henhold til den hidtil gældende § 27 i lov om Arbejdsgivernes Elevrefusion nedsatte ankenævn nedlægges med virkning fra den 1. januar 2007, men færdigbehandler klager, der er modtaget senest den 31. december 2006, inden ankefristens udløb.
+
+Lov nr. 1596 af 20. december 2006, hvis § 1 ændrer § 18, stk. 1, 2. pkt., indeholder i §§ 2 og 3 følgende bestemmelser:
+
+§ 2
+
+Loven træder i kraft den 1. januar 2007.
+
+§ 3
+
+Bidragssatsen i § 18, stk. 1, i lov om Arbejdsgivernes Elevrefusion som ændret ved denne lovs § 1, nr. 1, har virkning fra og med beregning af bidrag fra 1. kvartal 2007.
+
+Lov nr. 523 af 6. juni 2007, hvis § 38 ophæver § 30, indeholder i §§ 47 og 48 følgende bestemmelser:
+
+§ 47
+
+Loven træder i kraft den 1. januar 2008.
+
+§ 48
+
+Stk. 1. Loven finder anvendelse også på tidligere stiftede fordringer, som ikke inden ikrafttrædelsesdagen er forældet efter de hidtil gældende regler. Forældelse indtræder dog tidligst den 1. januar 2011, medmindre fordringen inden dette tidspunkt ville være forældet såvel efter de hidtil gældende bestemmelser som efter de bestemmelser, der gælder efter lovens ikrafttræden, jf. dog stk. 7. I det sidstnævnte tilfælde anvendes det seneste tidspunkt for forældelsens indtræden.
+
+Stk. 2. Afbrydelse af forældelse, der har fundet sted før lovens ikrafttræden, har fortsat virkning som afbrydelse, selv om den ikke er sket på den efter lovens ikrafttræden foreskrevne måde.
+
+Stk. 3-8. (Udeladt).
+
+Lov nr. 561 af 6. juni 2007, hvis § 2 nyaffatter § 9, stk. 1, og § 11, stk. 1, 1. pkt., ændrer § 4, stk. 1, § 6, stk. 1, 2. pkt., § 8, stk. 1, § 9, stk. 3, § 10, stk. 1, § 11, stk. 4, § 12, § 12 c, stk. 1, og § 20, stk. 4, nr. 1, indsætter § 15, stk. 2, og ophæver § 8, stk. 3, indeholder i §§ 16 og 19 følgende bestemmelser:
+
+§ 16
+
+Stk. 1. Loven træder i kraft den 1. august 2007, (udeladt).
+
+Stk. 2. (Udeladt).
+
+§ 19
+
+Elever i landbrugsuddannelserne og de grundlæggende social- og sundhedsuddannelser, der gennemfører uddannelse efter de regler, der er nævnt i § 17, stk. 3 , eller § 18, stk. 2 , og deres praktikvirksomheder, bevarer deres hidtidige rettigheder til ydelser efter
+
+1) § 4, §§ 6-11, § 16 og § 20, stk. 4, i lov om Arbejdsgivernes Elevrefusion, jf. lovbekendtgørelse nr. 767 af 5. juli 2006,
+
+2) (Udeladt).
+
+3) (Udeladt).
+
+4) (Udeladt).
+
+Lov nr. 562 af 6. juni 2007, hvis § 78 ændrer § 22, stk. 1 og 2, og § 23 a, stk. 1, indeholder i § 49 følgende bestemmelse:
+
+§ 49
+
+Loven træder i kraft den 15. juni 2007, jf. dog stk. 2 og 3.
+
+Stk. 2. Bestemmelserne i §§ 69-79 træder i kraft den 1. januar 2008.
+
+Stk. 3-5. (Udeladt).
