@@ -1,5 +1,5 @@
-Undervisningsministeriet, den 5. juli 2006
+Undervisningsministeriet, den 20. juli 2007
 
 Bertel Haarder
 
-/Lene Worm
+/ Trine Frederiksen
