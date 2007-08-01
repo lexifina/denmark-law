@@ -1,0 +1,1 @@
+§ 26 a. Ved afgørelsen om udvisning skal der tages særligt hensyn til, om de omstændigheder, som kan begrunde udvisning, er en følge af, at udlændingen har været udsat for menneskehandel, og om dette forhold taler imod udvisning.
