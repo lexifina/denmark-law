@@ -1,5 +1,5 @@
-Undervisningsministeriet, den 23. juni 2005
+Undervisningsministeriet, den 27. juli 2007
 
 Bertel Haarder
 
-/Ole Hvilsom Larsen
+/Hanna Dam
