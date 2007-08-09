@@ -96,8 +96,6 @@ Stk. 1. Loven træder i kraft den 1. januar 2004. § 1, nr. 1, 8, 11, 16-18, 22 
 
 Stk. 2. Reguleringen efter § 12, stk. 3, i lov om statens uddannelsesstøtte af de støttesatser og beløbsgrænser, der er nævnt i samme lovs § 8, stk. 1 og 2, §§ 9 og 10, § 10 a, stk. 1, § 11, § 24, stk. 1-4 og 9, og § 25, stk. 1, 2, og 4, som affattet ved denne lovs § 1, nr. 2-9, 12-15 og 18-21, sker første gang med virkning fra den 1. januar 2004.
 
-Stk. 3. Forslag om revision af denne lovs § 1, nr. 1, 8, 11, 16-18, 22 og 23, fremsættes for Folketinget senest i folketingsåret 2006-07.
-
 Lov nr. 481 af 9. juni 2004, hvis § 1 ændrer § 1, stk. 3, § 2, stk. 1, nr. 2, § 8, stk. 2, nr. 1, § 16, stk. 6, der bliver stk. 5, § 24, stk. 3, § 25, stk. 1, 1. pkt., § 29, stk. 3, § 26, stk. 2, § 39, stk. 3, der bliver stk. 4, § 39, stk. 6, nr. 1, der bliver stk. 7, nr. 1, § 40, 1. og 2. pkt., § 42, stk. 1, 2. pkt., og § 43 a, stk. 1, 1. og 2. pkt., nyaffatter § 1, stk. 1, § 22, stk. 2, 1. pkt., indsætter § 7, stk. 3 og 4, § 10 b, § 25, stk. 2, 3. og 4. pkt., og § 39, stk. 2, og ophæver § 16, stk. 5, og § 25, stk. 2, 3. pkt., indeholder følgende ikrafttrædelsesbestemmelser m.v.:
 
 § 3
@@ -112,7 +110,7 @@ Stk. 4. § 1, nr. 5 og 11, træder i kraft den 1. juli 2004 og har virkning for 
 
 Stk. 5. § 1, nr. 10, træder i kraft den 1. januar 2005 og har virkning fra og med indkomstkontrollen for støtteåret 2005.
 
-Stk. 6. (Udeladt, vedrører anden lovgivning).
+Stk. 6. (udeladt).
 
 Lov nr. 327 af 18. maj 2005, hvis § 9 ændrer § 14, stk. 1 og 2, § 42, stk. 1, 2. pkt., og § 43 a, stk. 1, og indsætter § 2, stk. 4-7, § 24, stk. 3, nr. 6, og § 39, stk. 5, indeholder følgende ikrafttrædelsesbestemmelser m.v.:
 
@@ -122,13 +120,13 @@ Stk. 1. Loven træder i kraft den 1. juli 2005.
 
 Stk. 2. Loven har virkning for personer, som bevidst unddrager sig strafforfølgning eller straffuldbyrdelse den 1. juli 2005 eller senere.
 
-Stk. 3-4. (Udeladt, vedrører anden lovgivning).
+Stk. 3-4. (udeladt).
 
 Lov nr. 428 af 6. juni 2005, hvis § 113 nyaffatter § 26, stk. 2 og 3, og ændrer § 39, stk. 1, og § 40, stk. 1, 1. pkt., indeholder følgende ikrafttrædelsesbestemmelser m.v.:
 
 § 125
 
-Stk. 1. Loven træder i kraft dagen efter bekendtgørelsen i Lovtidende . (Udeladt, vedrører anden lovgivning).
+Stk. 1. Loven træder i kraft dagen efter bekendtgørelsen i Lovtidende . (udeladt).
 
 Stk. 2. Loven har virkning fra den 1. november 2005. (Udeladt, vedrører anden lovgivning).
 
@@ -147,3 +145,43 @@ Stk. 1. Loven træder i kraft dagen efter bekendtgørelsen i Lovtidende .
 Stk. 2. Loven har virkning fra den 1. november 2005, jf. dog stk. 3.
 
 Stk. 3. Afgørelser om inddrivelse, der inden den 1. oktober 2005 er påklaget til de hidtidige administrative klageinstanser, overgår til behandling i Landsskatteretten den 1. januar 2006, hvis de hidtidige klageinstanser ikke har færdigbehandlet klagen inden denne dato.
+
+Lov nr. 312 af 19. april 2006, hvis § 1 ændrer titlen, § 2, stk. 3, 1. pkt., § 2, stk. 8, 1. pkt., § 13, stk. 1, nr. 3, § 24, stk. 3, nr. 3, § 29, stk. 3, § 39, stk. 1, og § 45, stk. 1, nyaffatter § 2, stk. 1, nr. 1, og indsætter § 2 a, § 3, stk. 5, § 13, stk. 1, nr. 4, og § 13, stk. 3, indeholder følgende ikrafttrædelsesbestemmelser m.v.:
+
+§ 3
+
+Stk. 1. § 1, nr. 1, 6-9 og 13, og § 2 træder i kraft dagen efter bekendtgørelsen i Lovtidende .
+
+Stk. 2. § 1, nr. 2-5 og 10-12, træder i kraft den 30. april 2006 og har virkning for ansøgninger fra udenlandske statsborgere om støtte, der modtages på uddannelsesinstitutionen den 30. april 2006 og senere. For ansøgninger om støtte, der er modtaget på uddannelsesinstitutionen før den 30. april 2006, finder de hidtil gældende regler anvendelse.
+
+Lov nr. 404 af 8. maj 2006, hvis § 21 indsætter § 39, stk. 1, 2. pkt., og § 40, 2. pkt., indeholder følgende ikrafttrædelsesbestemmelser m.v.:
+
+§ 23
+
+Stk. 1. (Udeladt)
+
+Stk. 2. §§ 2-6, § 7, nr. 2, §§ 8-13, § 17, nr. 24, §§ 18-21 og § 22, nr. 1, 2 og 4, træder i kraft den 1. juni 2006.
+
+Stk. 3. (Udeladt)
+
+Lov nr. 516 af 7. juni 2006, hvis § 8 ændrer § 31, stk. 3, og ophæver § 36, stk. 3, indeholder følgende ikrafttrædelsesbestemmelser m.v.:
+
+§ 13
+
+Stk. 1. Skatteministeren fastsætter tidspunktet for lovens ikrafttræden (udeladt).
+
+Stk. 2 og 3. (udeladt).
+
+Lov nr. 1592 af 20. december 2006, der ophæver § 2 stk. stk. 3, (om lovrevision i 2006-07) i lov nr. 1225 af 27. december 2003 om ændring af lov om statens uddannelsesstøtte. (Tillæg til uddannelsessøgende i videregående uddannelser med varig funktionsnedsættelse) indeholder følgende ikrafttrædelsesbestemmelser m.v.:
+
+§ 2
+
+Loven træder i kraft den 1. januar 2007.
+
+Lov nr. 565, af 6. juni 2007 , hvis § 1 nyaffatter § 1, stk. 3, indsætter § 1, stk. 4, og § 46 a - 46 h og ændrer § 12, stk. 2, 1. pkt., indeholder følgende ikrafttrædelsesbestemmelser m.v.:
+
+§ 2
+
+Stk. 1. Loven træder i kraft den 1. juli 2007.
+
+Stk. 2. Loven finder anvendelse for studieophold og hele uddannelser på kandidatniveau i udlandet, som den uddannelsessøgende påbegynder den 1. juli 2008 eller senere.
