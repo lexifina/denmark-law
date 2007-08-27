@@ -1,0 +1,1 @@
+1) Lov om forældremyndighed og samvær, jf. lovbekendtgørelse nr. 39 af 15. januar 2007, er ophævet ved § 47, stk. 2, i lov nr. 499 af 6. juni 2007, forældreansvarslov, der træder i kraft den 1. oktober 2007, jf. lovens § 47, stk. 1. § 2, stk. 3, i lov om forældremyndighed og samvær er videreført i § 2, stk. 3, i forældreansvarsloven.

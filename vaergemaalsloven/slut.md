@@ -1,9 +1,5 @@
-Givet på Christiansborg Slot, den 14. juni 1995
+Justitsministeriet, den 20. august 2007
 
-Under Vor Kongelige Hånd og Segl
+Lene Espersen
 
-MARGRETHE R.
-
-/Bjørn Westh
-
-Ingen
+/ Torben Jensen
