@@ -34,10 +34,28 @@ Lov nr. 453 af 10. juni 2003 indeholder følgende ikrafttrædelsesbestemmelser:
 
 Loven træder i kraft den 1. januar 2004, jfr. dog stk. 2 og 3.
 
-Stk. 2-5 (Udeladt).
+Stk. 2-5
 
 § 438
 
 Loven gælder ikke for Færøerne og Grønland, men kan ved kongelig anordning sættes i kraft for disse landsdele med de afvigelser, som de særlige færøske og grønlandske forhold tilsiger, jf. dog stk. 2-4.
 
-Stk. 2-4 (Udeladt).
+Stk. 2-4
+
+Lov nr. 576 af 6. juni 2007 indeholder følgende ikrafttrædelsesbestemmelser:
+
+§ 12
+
+Loven træder i kraft den 1. juli 2007, jfr. dog stk. 2 og 3.
+
+Stk. 2-3
+
+§ 13
+
+(Udeladt).
+
+§ 14
+
+Loven gælder ikke for Færøerne og Grønland, jf. dog stk. 2 og 3.
+
+Stk. 2-3
