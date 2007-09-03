@@ -1,7 +1,3 @@
-Arkivlov
+Bekendtgørelse af arkivloven
 
-VI MARGRETHE DEN ANDEN, af Guds Nåde Danmarks Dronning, gør vitterligt: Folketinget har vedtaget og Vi ved Vort samtykke stadfæstet følgende lov:
-
-## Kapitel 1
-
-Lovens anvendelsesområde
+Herved bekendtgøres lov nr. 1050 af 17. december 2002 med de ændringer, der følger af § 1 i lov nr. 563 af 24. juni 2005 og lov nr. 532 af 6. juni 2007.
