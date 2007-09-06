@@ -1,5 +1,5 @@
-Ministeriet for Flygtninge, Indvandrere og Integration, den 1. september 2006
+Ministeriet for Flygtninge, Indvandrere og Integration, den 6. august 2007
 
 Rikke Hvilshøj
 
-/Oluf Engberg
+/Frederik Gammeltoft

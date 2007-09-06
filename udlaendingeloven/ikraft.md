@@ -10,7 +10,7 @@ Lov nr. 686 af 17. oktober 1986 indeholder følgende bestemmelse:
 
 Stk. 1. Lovens § 1, nr. 1-10 og nr. 12, træder i kraft dagen efter bekendtgørelsen i Lovtidende . § 1, nr. 1, 3, 8 og 10, finder dog ikke anvendelse for udlændinge, der forinden er indrejst i landet og har ansøgt om opholdstilladelse efter de hidtidige regler . § 1, nr. 7, finder alene anvendelse for udlændinge, der er indrejst i landet efter lovens ikrafttræden .
 
-Stk. 2. Tidspunktet for ikrafttræden af § 1, nr. 11, fastsættes af justitsministeren.
+Stk. 2. Tidspunktet for ikrafttræden af § 1, nr. 11, fastsættes af justitsministeren .
 
 Lov nr. 387 af 6. juni 1991 indeholder følgende bestemmelser:
 
@@ -296,6 +296,28 @@ Stk. 1. Loven træder i kraft den 1. november 2005, jf. dog stk. 2.
 
 Stk. 2. (Udeladt)
 
+Lov nr. 523 af 24. juni 2005 indeholder følgende bestemmelse:
+
+§ 23
+
+Stk. 1. Loven træder i kraft den 1. januar 2007.
+
+Stk. 2-6. (Udeladt)
+
+Lov nr. 542 af 24. juni 2005 indeholder følgende bestemmelse:
+
+§ 6. Loven træder i kraft den 1. januar 2007, jf. dog stk. 2.
+
+Stk. 2. § 5 træder i kraft den 1. juli 2005.
+
+Lov nr. 554 af 24. juni 2005 indeholder følgende bestemmelse:
+
+§ 12
+
+Stk. 1. Lovens § 1, nr. 1, 6, 8, 10, 11, 13-17, 19 og 25, §§ 3-5 og § 7, nr. 3 og 4, træder i kraft den 1. juli 2005. Lovens § 1, nr. 2-5, 7, 9, 12, 18 og 20-24, § 2, § 6, § 7, nr. 1 og 2, og §§ 8-11 træder i kraft den 1. januar 2007.
+
+Stk. 2-5. (Udeladt)
+
 Lov nr. 243 af 27. marts 2006 indeholder følgende bestemmelse:
 
 § 3
@@ -324,7 +346,7 @@ Stk. 6. Udlændingelovens § 59 a, stk. 1, som ændret ved denne lovs § 1, nr. 
 
 Stk. 7. Regler om betaling for genudstedelse af opholdskort fastsat efter udlændingelovens § 44, stk. 3, som indsat ved denne lovs § 1, nr. 41, finder ikke anvendelse for udlændinge, der inden lovens ikrafttræden har anmodet om at få genudstedt opholdskort.
 
-Stk. 8. Ministeren for flygtninge, indvandrere og integration fastsætter tidspunktet for ikrafttræden af udlændingelovens § 2 a, stk. 3, som indsat ved denne lovs § 1, nr. 2, og udlændingelovens § 2 b, stk. 4, § 28, stk. 6, § 38, stk. 1-3, § 39, stk. 3, og § 59, stk. 1, nr. 1, som ændret ved denne lovs § 1, nr. 3, 18, 26-28, 30 og 49.
+Stk. 8. Ministeren for flygtninge, indvandrere og integration fastsætter tidspunktet for ikrafttræden af udlændingelovens § 2 a, stk. 3, som indsat ved denne lovs § 1, nr. 2, og udlændingelovens § 2 b, stk. 4, § 28, stk. 6, § 38, stk. 1-3, § 39, stk. 3, og § 59, stk. 1, nr. 1, som ændret ved denne lovs § 1, nr. 3, 18, 26-28, 30 og 49 .
 
 Lov nr. 429 af 10. maj 2006 indeholder følgende bestemmelse:
 
@@ -332,10 +354,70 @@ Lov nr. 429 af 10. maj 2006 indeholder følgende bestemmelse:
 
 Loven træder i kraft den 1. juni 2006 og finder anvendelse for lovovertrædelser begået efter lovens ikrafttræden. For lovovertrædelser begået før lovens ikrafttræden finder de hidtil gældende regler anvendelse.
 
+Lov nr. 538 af 8. juni 2006 indeholder følgende bestemmelse:
+
+§ 105
+
+Stk. 1. Loven træder i kraft den 1. januar 2007, jf. dog stk. 2-22 og § 106.
+
+Stk. 2-19. (Udeladt)
+
+Stk. 20. Lovens § 1, nr. 32, og § 104, nr. 1 , træder i kraft den 1. juli 2006.
+
+Stk. 21-22. (Udeladt)
+
 Lov nr. 532 af 8. juni 2006 indeholder følgende bestemmelse:
 
 § 2
 
 Stk. 1. Loven træder i kraft dagen efter bekendtgørelsen i Lovtidende , jf. dog stk. 2.
 
-Stk. 2. Tidspunktet for ikrafttræden af udlændingelovens § 9 a, stk. 19, som indsat ved denne lovs § 1, nr. 4, fastsættes af ministeren for flygtninge, indvandrere og integration. Ministeren for flygtninge, indvandrere og integration kan i den forbindelse bestemme, at alene dele af § 9 a, stk. 5-18, skal finde anvendelse for statsborgere i Bulgarien og Rumænien.
+Stk. 2. Tidspunktet for ikrafttræden af udlændingelovens § 9 a, stk. 19, som indsat ved denne lovs § 1, nr. 4, fastsættes af ministeren for flygtninge, indvandrere og integration . Ministeren for flygtninge, indvandrere og integration kan i den forbindelse bestemme, at alene dele af § 9 a, stk. 5-18, skal finde anvendelse for statsborgere i Bulgarien og Rumænien.
+
+Lov nr. 89 af 30. januar 2007 indeholder følgende bestemmelse:
+
+§ 5
+
+Stk. 1. Loven træder i kraft den 1. februar 2007, jf. dog stk. 2-6.
+
+Stk. 2. Udlændingelovens § 9, stk. 3, 5, 12, 17, 22 og 23, som affattet ved denne lovs § 1, nr. 2, 3, 5, 6, 8 og 9, og § 19, stk. 1, nr. 6 og 7, som ændret ved denne lovs § 1, nr. 15, finder alene anvendelse for udlændinge, der indgiver ansøgning om opholdstilladelse efter udlændingelovens § 9, stk. 1, nr. 1-3, eller ansøgning om forlængelse af en opholdstilladelse meddelt efter udlændingelovens § 9, stk. 1, nr. 1-3, efter lovens ikrafttræden. For udlændinge, der inden lovens ikrafttræden første gang har indgivet ansøgning om opholdstilladelse efter udlændingelovens § 9, stk. 1, nr. 1-3, finder de hidtil gældende regler anvendelse ved afgørelsen af denne ansøgning.
+
+Stk. 3. Udlændingelovens § 9, stk. 19, 1. pkt., som ændret ved denne lovs § 1, nr. 7, finder ikke anvendelse for udlændinge, der inden lovens ikrafttræden har indgivet ansøgning om opholdstilladelse. For sådanne udlændinge finder de hidtil gældende regler anvendelse.
+
+Stk. 4. Udlændingelovens § 9 g som indsat ved denne lovs § 1, nr. 11, finder alene anvendelse for udlændinge, der indgiver ansøgning om opholdstilladelse efter udlændingelovens § 9, stk. 1, nr. 1-3, efter lovens ikrafttræden.
+
+Stk. 5. Udlændingelovens § 11 d som indsat ved denne lovs § 1, nr. 12, finder alene anvendelse for udlændinge, der indgiver ansøgning om tidsubegrænset opholdstilladelse efter lovens ikrafttræden.
+
+Stk. 6. Udlændingelovens § 19, stk. 1, nr. 4 og 5, som affattet ved denne lovs § 1, nr. 13 og 14, finder alene anvendelse for udlændinge, der indgiver ansøgning om opholdstilladelse efter udlændingelovens § 9, stk. 1, nr. 1-3, eller ansøgning om forlængelse af en opholdstilladelse meddelt efter udlændingelovens § 9, stk. 1, nr. 1-3, efter lovens ikrafttræden. Bestemmelserne finder endvidere kun anvendelse i sager, hvor udlændingen eller den herboende person efter lovens ikrafttræden modtager hjælp efter lov om aktiv socialpolitik eller integrationsloven. For udlændinge, der inden lovens ikrafttræden første gang har indgivet ansøgning om opholdstilladelse efter udlændingelovens § 9, stk. 1, nr. 1-3, finder de hidtil gældende regler anvendelse.
+
+Lov nr. 379 af 25. april 2007 indeholder følgende bestemmelse:
+
+§ 3
+
+Stk. 1. Loven træder i kraft den 1. maj 2007, jf. dog stk. 2.
+
+Stk. 2. Tidspunktet for ikrafttræden af udlændingelovens § 9, stk. 2, og § 9 f, stk. 4, som ændret henholdsvis affattet ved denne lovs § 1, nr. 2 og 5, fastsættes af ministeren for flygtninge, indvandrere og integration. Tidspunktet for ikrafttræden af udlændingelovens § 9 a, stk. 20, som affattet ved denne lovs § 1, nr. 4, og tidspunktet for ikrafttræden af udlændingelovens § 33, stk. 3, 1. pkt, som ændret efter denne lovs § 1, nr. 13, fastsættes af ministeren for flygtninge, indvandrere og integration.
+
+Lov nr. 504 af 6. juni 2007 indeholder følgende bestemmelse:
+
+§ 3
+
+Stk. 1. Loven træder i kraft den 1. august 2007.
+
+Stk. 2. (Udeladt).
+
+Lov nr. 505 af 6. juni 2007 indeholder følgende bestemmelse:
+
+§ 2
+
+Stk. 1. Loven træder i kraft den 1. juli 2007, jf. dog stk. 2.
+
+Stk. 2. (Udeladt)
+
+Lov nr. 507 af 6. juni 2007 indeholder følgende bestemmelse:
+
+§ 2
+
+Stk. 1. Loven træder i kraft dagen efter bekendtgørelsen i Lovtidende .
+
+Stk. 2. (Udeladt)
