@@ -1,0 +1,1 @@
+Ved kongelig resolution af 27. november 2001 er universiteter med tilhørende uddannelser overført til ministeren for videnskab, teknologi og udvikling. Administrationen vedrørende masteruddannelser varetages herefter af Universitets- og Byggestyrelsen.
