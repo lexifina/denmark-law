@@ -1,7 +1,5 @@
-Givet på Christiansborg Slot, den 31. maj 2000
+Undervisningsministeriet, den 29. august 2007
 
-Under Vor Kongelige Hånd og Segl
+Bertel Haarder
 
-Margrethe R.
-
-/Margrethe Vestager
+/Kirsten Lippert
