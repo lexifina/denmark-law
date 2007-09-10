@@ -1,7 +1,5 @@
-Økonomiministeriet, den 3. juni 1994
+Økonomi- og Erhvervsministeriet, den 21. august 2007
 
-Marianne Jelved
+Bendt Bendtsen
 
-/ Henrik Thomasen
-
-Ingen
+/Søren Bjerregaard
