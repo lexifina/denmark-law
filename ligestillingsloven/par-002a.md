@@ -1,3 +1,5 @@
-§ 2 a. Hvis en person, der anser sig for krænket, jf. § 2, påviser faktiske omstændigheder, som giver anledning til at formode, at der er udøvet direkte eller indirekte forskelsbehandling, påhviler det modparten at bevise, at ligebehandlingsprincippet ikke er blevet krænket.
+§ 2 a. Chikane som defineret i stk. 2 og sexchikane som defineret i stk. 3 betragtes som forskelsbehandling på grund af køn og er derfor forbudt. En persons afvisning af eller accept af en sådan adfærd må ikke anvendes som grundlag for en beslutning, der vedrører den pågældende.
 
-Stk. 2. Der foreligger indirekte forskelsbehandling, når en bestemmelse, et kriterium eller en praksis, der tilsyneladende er neutral, stiller et væsentligt større antal personer af det ene køn ringere, medmindre denne bestemmelse, dette kriterium eller denne praksis er hensigtsmæssig og nødvendig og kan begrundes i objektive ikke-kønsrelaterede faktorer.
+Stk. 2. Der foreligger chikane, når der udvises uønsket adfærd i relation til en persons køn med det formål eller den virkning at krænke en persons værdighed og skabe et truende, fjendtligt, nedværdigende, ydmygende eller ubehageligt klima.
+
+Stk. 3. Der foreligger sexchikane, når der udvises enhver form for uønsket verbal, ikkeverbal eller fysisk adfærd med seksuelle undertoner i relation til en persons køn med det formål eller den virkning at krænke denne persons værdighed, navnlig ved at skabe et truende, fjendtligt, nedværdigende, ydmygende eller ubehageligt klima.
