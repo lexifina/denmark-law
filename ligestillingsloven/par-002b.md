@@ -1,0 +1,1 @@
+§ 2 b. Ingen må udsættes for ugunstig behandling eller ugunstige følger som reaktion på en klage eller nogen form for retsforfølgning, der iværksættes med det formål at sikre, at princippet om ligebehandling iagttages.
