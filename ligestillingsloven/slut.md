@@ -1,5 +1,5 @@
-Socialministeriet, den 19. december 2004
+Socialministeriet, Ligestillingsafdelingen, den 19. september 2007
 
 P.M.V. Thomas Børner
 
-/Vibeke Abel
+/ Vibeke Abel
