@@ -1,0 +1,1 @@
+1) Loven indeholder bestemmelser, der gennemfører dele af Rådets direktiv 2004/113/EF af 13. december 2004 om gennemførelse af princippet om ligebehandling af mænd og kvinder i forbindelse med adgang til og levering af varer og tjenesteydelser, (EU-Tidende 2004 nr. L 373, side 37).
