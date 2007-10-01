@@ -1,0 +1,1 @@
+§ 450 c. Samtaler med børn efter forældreansvarsloven afholdes, uden at parterne er til stede, medmindre retten bestemmer andet. Retten kan anmode en børnesagkyndig om at deltage i samtalen eller om at afholde samtalen alene. Inden sagen afgøres, skal parterne gøres bekendt med hovedindholdet af samtalen, medmindre afgørende hensyn til barnet taler imod det.

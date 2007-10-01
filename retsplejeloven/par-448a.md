@@ -1,4 +1,4 @@
-§ 448 a. Sager om separation eller skilsmisse og sager om forældremyndighed indbringes for retten af statsforvaltningen, jf. dog § 456, stk. 1.
+§ 448 a. Sager om separation eller skilsmisse og sager om forældremyndighed eller barnets bopæl indbringes for retten af statsforvaltningen, jf. dog § 456, stk. 1.
 
 Stk. 2. Sagen anses for indbragt for retten, når retten har modtaget anmodning om det fra statsforvaltningen.
 
