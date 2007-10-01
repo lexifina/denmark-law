@@ -1,4 +1,4 @@
-§ 448 f. Sag om forældremyndighed kan behandles her i riget, såfremt
+§ 448 f. Sag om forældremyndighed eller barnets bopæl kan behandles her i riget, såfremt
 
 1) barnet har bopæl her,
 

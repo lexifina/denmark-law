@@ -1,0 +1,1 @@
+§ 450 b. Retten kan i sager om forældremyndighed eller barnets bopæl eller for at kunne afgøre et spørgsmål om samvær eller anden kontakt, jf. § 448, nr. 2 og 3, træffe bestemmelse om bevisførelse, herunder om at tilvejebringe børnesagkyndige erklæringer. Om nødvendigt kan retten pålægge en part at give møde og afgive forklaring efter samme regler, som gælder for vidner.
