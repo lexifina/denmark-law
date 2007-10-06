@@ -1,0 +1,1 @@
+§ 21 a. Ved købsaftaler, hvor reglerne i kapitel 1 finder anvendelse, jf. § 1, kan bestemmelser i aftalen om, at køberen ikke kan påberåbe sig fysiske mangler ved ejendommen, og andre almindelige forbehold ikke gøres gældende over for køberen, i det omfang sælgeren kunne have opnået den samme retsvirkning ved at følge den i § 2 nævnte fremgangsmåde.
