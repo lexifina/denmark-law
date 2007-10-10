@@ -1,5 +1,5 @@
-Skatteministeriet, den 22. september 2006
+Skatteministeriet, den 4. oktober 2007
 
 P.M.V. Peter Loft
 
-/Birgitte Christensen
+/ Birgitte Christensen

@@ -1,3 +1,3 @@
 Bekendtgørelse af lov om afgift af dødsboer og gaver (boafgiftsloven)
 
-Herved bekendtgøres lov om afgift af dødsboer og gaver (boafgiftsloven), jf. lovbekendtgørelse nr. 1114 af 22. november 2005 med de ændringer, der følger af § 1 i lov nr. 1414 af 21. december 2005, § 2 i lov nr. 406 af 8. maj 2006 og § 60 i lov nr. 538 af 8. juni 2006.
+Herved bekendtgøres lov om afgift af dødsboer og gaver (boafgiftsloven), jf. lovbekendtgørelse nr. 971 af 22. september 2006 med de ændringer, der følger af § 6 i lov nr. 516 af 6. juni 2007 og § 4 i lov nr. 540 af 6. juni 2007.
