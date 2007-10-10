@@ -1,7 +1,7 @@
-Denne lovbekendtgørelse indeholder noter til ændringer af boafgiftsloven, der er vedtaget i folketingsåret 2005-2006. Bemærkninger om ikrafttrædelses- og overgangsbestemmelser for tidligere ændringer af boafgiftsloven er kun medtaget i det omfang, de skønnes at have betydning.
+1) Denne lovbekendtgørelse indeholder noter til ændringer af boafgiftsloven, der er vedtaget i folketingsåret 2006-2007.
 
-Ændringen i § 13 a, stk. 3, trådte i kraft den 23. december 2005 og har virkning for udlodninger fra dødsboer, der sker den 1. januar 2006 eller senere, jf. § 28, stk. 1 og 2, i lov nr. 1414 af 21. december 2005.
+2) Indsættelsen i § 1, stk. 2, litra d, ophævelsen af § 8, stk. 3, hvorefter stk. 4 og 5 bliver stk. 3 og 4, ændringen i § 10, stk. 6, 1. pkt., § 12, stk. 1, 4. og 5. pkt., § 20, stk. 5, og indsættelsen af § 36, stk. 6, træder i kraft den 1. januar 2008 og finder anvendelse, når dødsfaldet indtræder efter lovens ikrafttræden, jf. § 10, stk. 3, i lov nr. 516 af 6. juni 2007. Lov nr. 516 af 6. juni 2007 træder i kraft den 1. januar 2008, jf. denne lovs § 9.
 
-Affattelsen af § 29, stk. 2, 5. pkt., trådte i kraft den 10. maj 2006 og har virkning fra og med indkomståret 2006, jf. § 12 i lov nr. 406 af 8. maj 2006.
+3) Indsættelsen i § 3, stk. 1, af nyt litra c, træder i kraft den 1. januar 2008 og har virkning for udbetalinger, der finder sted den 1. januar 2008 eller senere, jf. § 10, stk. 4, i lov nr. 516 af 6. juni 2007.
 
-Den bekendtgjorte lovtekst vedrørende § 42, stk. 2, er nyaffattet ved § 60 i lov nr. 538 af 8. juni 2006, og gælder først fra den 1. januar 2007, jf. § 105 i lov nr. 538 af 8. juni 2006. I lovbekendtgørelse nr. 1114 af 22. november 2005 har § 42, stk. 2, følgende ordlyd: Med hensyn til den i stk. 1 nævnte tilkendegivelse finder bestemmelsen om tiltalerejsning i retsplejelovens § 930, jf. § 926, tilsvarende anvendelse.
+4) Ændringen i § 13 a, stk. 3, 2. pkt., affattelsen af § 13 a, stk. 4, 3. pkt., og § 13 a, stk. 5, trådte i kraft den 1. juli 2007 og har virkning for indkomståret 2007 og senere indkomstår, jf. § 14, stk. 6, i lov nr. 540 af 6. juni 2007.
