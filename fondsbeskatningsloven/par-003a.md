@@ -1,6 +1,6 @@
 § 3 A. Såfremt en skattepligtig omfattet af kildeskattelovens § 1, dødsboskattelovens § 1, stk. 2, selskabsskattelovens § 1 eller fondsbeskatningslovens § 1 indskyder midler i en udenlandsk fond eller trust, som er stiftet eller oprettet i et land, hvor fonde eller truster beskattes væsentlig lavere end efter danske regler, svarer indskyderen en afgift på 20 pct. af indskuddet. Dette gælder dog kun den del af de årlige indskud, der overstiger 10.000 kr.
 
-Stk. 2. Stk.1 finder ikke anvendelse, såfremt indskyderen godtgør, at midlerne i den udenlandske fond eller trust anvendes i almenvelgørende eller på anden måde almennyttigt øjemed til fordel for en større kreds af personer.
+Stk. 2. Stk. 1 finder ikke anvendelse, såfremt indskyderen godtgør, at midlerne i den udenlandske fond eller trust anvendes i almenvelgørende eller på anden måde almennyttigt øjemed til fordel for en større kreds af personer.
 
 Stk. 3. Indskud, der foretages af udenlandske selskaber og foreninger m.v., som kontrolleres, jf. selskabsskattelovens § 32, stk. 6, af en afgiftspligtig omfattet af stk. 1, anses for foretaget af den afgiftspligtige.
 
