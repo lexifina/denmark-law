@@ -1,17 +1,13 @@
-Lov nr. 1016 af 23. december 1998 om ændring af lov om forbud mod privates tv-overvågning (Tv-overvågning af ansatte på arbejdspladsen m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
+Lov nr. 542 af 8. juni 2006 om ændring af straffeloven, retsplejeloven og forskellige andre love (Styrkelse af indsatsen for at bekæmpe terrorisme m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
 
-§ 2
+§ 9
 
-Loven træder i kraft den 1. april 1999.
+Stk. 1. Loven træder i kraft dagen efter bekendtgørelsen i Lovtidende, jf. dog stk. 2-5. § 6 finder anvendelse på anmodninger om udlevering efter Europarådets konvention om forebyggelse af terrorisme, henholdsvis FN-konventionen til bekæmpelse af nuklear terrorisme, der fremsættes efter, at den pågældende konvention er trådt i kraft mellem Danmark og vedkommende fremmede stat.
 
-Lov nr. 939 af 20. december 1999 om ændring af lov om forbud mod privates tv-overvågning m.v. (Offentlige myndigheders tv-overvågning) indeholder følgende ikrafttrædelsesbestemmelse:
+Stk. 2-5. (Udelades)
 
-§ 2
+Lov nr. 519 af 6. juni 2007 om ændring af lov om forbud mod tv-overvågning m.v. og lov om behandling af personoplysninger (Udvidelse af adgangen til tv-overvågning og styrkelse af retsbeskyttelsen ved behandling af personoplysninger i forbindelse med tv-overvågning) indeholder følgende ikrafttrædelsesbestemmelse:
 
-Loven træder i kraft den 1. januar 2000.
+§ 3
 
-Lov nr. 257 af 8. maj 2002 om ændring af lov om forbud mod tv-overvågning m.v. (Tv-overvågning af pengeautomater, vekselautomater og pengetransportbiler ) indeholder følgende ikrafttrædelsesbestemmelse:
-
-§ 2
-
-Loven træder i kraft dagen efter bekendtgørelsen i Lovtidende.
+Loven træder i kraft den 1. juli 2007.

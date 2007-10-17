@@ -1,3 +1,3 @@
-Bekendtgørelse af lov om forbud mod tv-overvågning m.v.
+Bekendtgørelse af lov om tv-overvågning
 
-Herved bekendtgøres lov om forbud mod tv-overvågning m.v., jf. lovbekendtgørelse nr. 76 af 1. februar 2000, med de ændringer, der følger af lov nr. 257 af 8. maj 2002.
+Herved bekendtgøres lov om tv-overvågning, jf. lovbekendtgørelse nr. 788 af 12. august 2005, med de ændringer, der følger af § 4 i lov nr. 542 af 8. juni 2006 og § 1 i lov nr. 519 af 6. juni 2007.
