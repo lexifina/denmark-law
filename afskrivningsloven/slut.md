@@ -1,5 +1,5 @@
-Skatteministeriet, den 8. august 2006
+Skatteministeriet, den 11. oktober 2007
 
 P.M.V. Peter Loft
 
-/Lise Bo Nielsen
+/ Lise Bo Nielsen
