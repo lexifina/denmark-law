@@ -1,1 +1,1 @@
-§ 48 C. 17) (Ophævet)
+§ 48 C. (Ophævet)

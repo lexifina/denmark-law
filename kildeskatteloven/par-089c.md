@@ -1,1 +1,1 @@
-§ 89 C. 21) (Ophævet)
+§ 89 C. (Ophævet)

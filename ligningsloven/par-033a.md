@@ -7,3 +7,5 @@ Stk. 3. Har en dobbeltbeskatningsoverenskomst for en person, der ikke er udsendt
 Stk. 4. Skatteministeren kan fastsætte regler om henstand med opkrævning af skatten.
 
 Stk. 5. Stk. 1‑4 finder tilsvarende anvendelse på dødsboer omfattet af dødsboskattelovens § 1, stk. 2.
+
+§§ 33 B-33 C. (Ophævet)

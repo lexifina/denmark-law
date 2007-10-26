@@ -1,1 +1,1 @@
-§ 73 B. 23) Reglerne om eftergivelse i opkrævningslovens §§ 15, 15 a og 15 b finder tilsvarende anvendelse på skattebeløb, som en person efter denne lov har været pligtig at indeholde, og administrativt vedtagne bøder efter § 79.
+§ 73 B. (Ophævet)

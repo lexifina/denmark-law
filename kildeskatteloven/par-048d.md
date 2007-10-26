@@ -1,1 +1,1 @@
-§ 48 D. 17 ) (Ophævet)
+§ 48 D. (Ophævet)

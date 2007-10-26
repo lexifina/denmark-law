@@ -1,1 +1,1 @@
-§ 73 D. 21) 23) Told- og skatteforvaltningen kan i øvrigt, når forholdene i ganske særlig grad taler derfor, eftergive eller meddele henstand med skatter, som personer, selskaber, foreninger m.v. er pålignet eller har skullet indeholde.
+§ 73 D. Told- og skatteforvaltningen kan, når forholdene i ganske særlig grad taler derfor, meddele henstand med skatter, som personer, selskaber, foreninger m.v. er pålignet eller har skullet indeholde.
