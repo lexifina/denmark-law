@@ -1,5 +1,5 @@
-Ministeriet for Fødevarer, Landbrug og Fiskeri, den 19. januar 2007
+Ministeriet for Fødevarer, Landbrug og Fiskeri, den 9. oktober 2007
 
-Hans Christian Schmidt
+Eva Kjer Hansen
 
-/Peter Lund Andersen
+/ Søren Sørensen

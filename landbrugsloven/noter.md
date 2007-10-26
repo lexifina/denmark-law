@@ -1,5 +1,7 @@
-Lovens § 33, stk. 2, er ved bekendtgørelse nr. 1139 af 23. november 2006 ophævet den 2. december 2006.
+1) Ved en fejl er ”erhververen” ved lov nr. 509 af 6. juni 2007 blevet ændret til ”ejeren”.
 
-Denne bekendtgørelse gengiver ikrafttrædelsesbestemmelsen i lov nr. 542 af 24. juni 2005. De bemærkninger om ikrafttrædelses- og overgangsbestemmelser for de tidligere vedtagne ændringer til loven, der fremgår af lovbekendtgørelse nr. 947 af 12. september 2006, er ikke gengivet i denne bekendtgørelse.
+2) Lovens § 33, stk. 2, er ved bekendtgørelse nr. 1139 af 23. november 2006 ophævet den 2. december 2006.
 
-Lovændringen vedrører § 3, stk. 1, § 3, stk. 2, § 34, stk. 1, § 35, stk. 1, og § 35, stk. 2.
+3) Denne bekendtgørelse gengiver ikrafttrædelsesbestemmelserne i lov nr. 509 af 6. juni 2007. De bemærkninger om ikrafttrædelses- og overgangsbestemmelser for de tidligere vedtagne ændringer i loven, der fremgår af lovbekendtgørelse nr. 60 af 19. januar 2007 er ikke gengivet i denne bekendtgørelse.
+
+4) Lovændringen vedrører § 8, § 12, stk. 3, nr.5, § 17, stk. 1, § 27, stk. 1, nr. 2, § 28, stk. 3, § 50, stk. 1, nr. 1
