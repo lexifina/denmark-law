@@ -5,3 +5,5 @@ Stk. 2. I det omfang ejeren af en hidtil fredet bygning forud for ophævelsen af
 Stk. 3. Det er en betingelse for fradrag efter stk. 1, 2. pkt., og stk. 2, 2. pkt., at bygningen er udpeget som bevaringsværdig, jf. lov om bygningsfredning og bevaring af bygninger og bymiljøer § 17 og § 19.
 
 Stk. 4. For ejendomme som nævnt i ejendomsværdiskattelovens § 4, nr. 5, foretages fradrag for de faktiske driftsudgifter, der kan henføres til den del af ejendommen, der benyttes erhvervsmæssigt. Tilsvarende gælder ejendomme af den art, der er nævnt i ejendomsværdiskattelovens § 4, nr. 5, som er beliggende i udlandet, på Færøerne eller i Grønland.
+
+§§ 15 L-15 N. (Ophævet)

@@ -1,1 +1,1 @@
-§ 89 B. 21) (Ophævet)
+§ 89 B. (Ophævet)

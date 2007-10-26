@@ -11,3 +11,5 @@ Stk. 5. Hvis summen af de fratrukne og udbetalte beløb efter stk. 3 vedrørende
 Stk. 6. Skatteministeren kan bestemme, at der for ejendomme, der er omfattet af lejelovens § 63 a eller boligreguleringslovens § 18 b, føres en særlig konto over beløb, der anvendes til ejendommens vedligeholdelse og forbedring, og over de beløb, der er nævnt i stk. 3 og 5.
 
 Stk. 7. Skatteministeren kan fastsætte bestemmelser om, at Grundejernes Investeringsfond skal give skattemyndighederne underretning om ind‑ og udbetalinger af beløb på ejendommens konto efter lejelovens § 63 a og boligreguleringslovens § 18 b samt om kontoens indestående. I denne forbindelse kan skatteministeren fastsætte bestemmelser om, at kontohaverne skal give Grundejernes Investeringsfond oplysninger om personnummer (CPR‑nr.) eller arbejdsgivernummer efter kildeskatteordningen (SE- eller cvr-nr.).
+
+§§ 14 H-14 J. (Ophævet)
