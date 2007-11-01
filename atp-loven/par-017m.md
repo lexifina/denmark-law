@@ -8,8 +8,8 @@ Stk. 3. Midlerne omfattet af stk. 1 skal være anbragt i overensstemmelse med re
 
 Stk. 4. Arbejdsmarkedets Tillægspension administrerer og forvalter de ikke godskrevne midler efter § 17 g, stk. 2. Midlerne skal være anbragt i overensstemmelse med reglerne i kapitel 8, jf. dog stk. 5-7.
 
-Stk. 5. § 26 d, stk. 1, nr. 5, og § 26 e, stk. 1, nr. 3, finder ikke anvendelse på midler placeret i investeringsforeninger, specialforeninger og godkendte fåmandsforeninger omfattet af § 26 b, stk. 1, nr. 7.
+Stk. 5. § 26 d, stk. 1, nr. 4, og § 26 e, stk. 1, nr. 3, finder ikke anvendelse på midler placeret i investeringsforeninger, specialforeninger, godkendte fåmandsforeninger og professionelle foreninger omfattet af § 26 b, stk. 1, nr. 7.
 
-Stk. 6. § 26 d, stk. 1, nr. 1, finder ikke anvendelse på midler, der direkte eller indirekte er placeret i investeringsforeninger, specialforeninger og godkendte fåmandsforeninger, under forudsætning af, at disse foreningers beholdning af aktiver medgår ved opgørelsen af placeringen af de midler, der er omfattet af stk. 1, og at bestemmelserne i kapitel 8 med de i stk. 5 nævnte undtagelser ved denne opgørelse er overholdt.
+Stk. 6. § 26 d, stk. 1, nr. 1, finder ikke anvendelse på midler, der direkte eller indirekte er placeret i investeringsforeninger, specialforeninger, godkendte fåmandsforeninger og professionelle foreninger, under forudsætning af, at disse foreningers beholdning af aktiver medgår ved opgørelsen af placeringen af de midler, der er omfattet af stk. 1, og at bestemmelserne i kapitel 8 med de i stk. 5 nævnte undtagelser ved denne opgørelse er overholdt.
 
 Stk. 7. Den i § 26 e, stk. 1, nr. 2, fastsatte grænse for placeringen af midlerne efter § 17 g, stk. 2, udgør 25 pct.
