@@ -1,5 +1,5 @@
-Finansministeriet, den 16. december 1998
+Skatteministeriet, den 22. oktober 2007
 
-Mogens Lykketoft
+Peter Loft
 
-/Hans Henrik H. Østergaard
+/ Kaj-Henrik Ludolph
