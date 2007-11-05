@@ -1,0 +1,17 @@
+§ 254 e. Retten udpeger en grupperepræsentant, hvis betingelserne i §§ 254 b og 254 c er opfyldt.
+
+Stk. 2. Retten kan i forbindelse med udpegningen af grupperepræsentanten eller efter udløbet af fristen for at tilmelde sig henholdsvis framelde sig gruppesøgsmålet, jf. stk. 6 og 8, bestemme, at grupperepræsentanten skal stille sikkerhed for de sagsomkostninger, grupperepræsentanten kan blive pålagt at betale til modparten. Sikkerhedens art og størrelse fastsættes af retten. Stilles sikkerheden ikke, og udpeges der ikke en anden grupperepræsentant, afvises sagen.
+
+Stk. 3. Retten kan senere udpege en ny grupperepræsentant, hvis det er påkrævet. I gruppesøgsmål med tilmelding, jf. stk. 6, skal retten tage stilling til, om det er påkrævet at udpege en ny grupperepræsentant, hvis mindst halvdelen af de gruppemedlemmer, der har tilmeldt sig gruppesøgsmålet, anmoder herom og anmodningen er ledsaget af et forslag til ny grupperepræsentant, der er villig til at påtage sig hvervet.
+
+Stk. 4. Retten fastlægger rammen for gruppesøgsmålet. Retten kan senere ændre rammen, hvis det er påkrævet.
+
+Stk. 5. Gruppesøgsmålet omfatter de gruppemedlemmer, der har tilmeldt sig gruppesøgsmålet, jf. stk. 6 og 7, medmindre retten bestemmer, at gruppesøgsmålet skal omfatte de gruppemedlemmer, der ikke har frameldt sig gruppesøgsmålet, jf. stk. 8.
+
+Stk. 6. Retten fastsætter en frist for ved skriftlig meddelelse at tilmelde sig gruppesøgsmålet. Retten bestemmer, hvortil tilmelding skal ske. Retten kan undtagelsesvis tillade, at tilmelding sker efter fristens udløb, hvis særlige grunde taler for det.
+
+Stk. 7. Retten kan bestemme, at tilmelding til gruppesøgsmålet skal være betinget af, at gruppemedlemmet stiller en af retten fastsat sikkerhed for sagsomkostninger, medmindre gruppemedlemmet har en retshjælpsforsikring eller anden forsikring, der dækker omkostninger ved sagen, eller gruppesøgsmålet opfylder betingelserne for fri proces efter §§ 327-329 og gruppemedlemmet opfylder de økonomiske betingelser efter § 325. Justitsministeren meddeler efter ansøgning fra grupperepræsentanten, om gruppesøgsmålet opfylder betingelserne for fri proces efter §§ 328 og 329. § 327, stk. 4, 2. og 3. pkt., § 328, stk. 5, 2. pkt., og § 329, 3. pkt., finder tilsvarende anvendelse.
+
+Stk. 8. Såfremt gruppesøgsmålet vedrører krav, hvor det er klart, at kravene på grund af deres ringe størrelse almindeligvis ikke kan forventes fremmet ved individuelle søgsmål, og det må antages, at et gruppesøgsmål med tilmelding ikke vil være en hensigtsmæssig måde at behandle kravene på, kan retten efter anmodning fra grupperepræsentanten bestemme, at gruppesøgsmålet skal omfatte de gruppemedlemmer, der ikke har frameldt sig gruppesøgsmålet. Retten fastsætter en frist for ved skriftlig meddelelse at framelde sig gruppesøgsmålet. Retten bestemmer, hvortil framelding skal ske. Retten kan undtagelsesvis tillade, at framelding sker efter fristens udløb, hvis særlige grunde taler for det.
+
+Stk. 9. De personer, hvis krav falder inden for rammen af gruppesøgsmålet, skal underrettes om de i stk. 1-8 nævnte forhold og om retsvirkningerne af at tilmelde sig henholdsvis framelde sig gruppesøgsmålet. Underretningen gives på den måde, som retten bestemmer. Retten kan bestemme, at underretningen helt eller delvis skal ske ved offentlig bekendtgørelse. Retten kan pålægge grupperepræsentanten at foretage underretningen. Udgifterne ved underretningen betales foreløbig af grupperepræsentanten.

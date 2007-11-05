@@ -1,0 +1,1 @@
+§ 254 i. Retten underretter gruppemedlemmer, der er omfattet af gruppesøgsmålet, om sagens afgørelse. Reglerne i § 254 e, stk. 9, 2. og 3. pkt., finder tilsvarende anvendelse. Retten meddeler efter anmodning gruppemedlemmer, der er omfattet af gruppesøgsmålet, en ekstraktudskrift af dommen.
