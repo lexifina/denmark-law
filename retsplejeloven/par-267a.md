@@ -1,0 +1,3 @@
+§ 267 a. Den, som uden at være omfattet af § 260, stk. 2, 3, 6, 8 og 9, samt § 136, stk. 8, i medfør af § 260, stk. 5, repræsenterer en part i sager om inddrivelse af forfaldne pengekrav efter reglerne i kapitel 44 a, i sager om mindre krav efter reglerne i kapitel 39 samt under udlægsforretninger i fogedretten, skal udvise en adfærd, som er i overensstemmelse med god skik for rettergangsfuldmægtige. Rettergangsfuldmægtigen skal udføre sit hverv grundigt, samvittighedsfuldt og i overensstemmelse med, hvad berettigede hensyn til klientens tarv tilsiger. Sagen skal fremmes med den fornødne hurtighed.
+
+Stk. 2. Justitsministeren kan fastsætte nærmere regler om god skik for rettergangsfuldmægtige.

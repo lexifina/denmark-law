@@ -1,0 +1,1 @@
+§ 267 b. Justitsministeren påser, at rettergangsfuldmægtige overholder reglerne om god skik i § 267 a og forskrifter udstedt i medfør heraf på grundlag af indberetning fra retterne og klage fra klienter eller andre, der har en retlig interesse heri.
