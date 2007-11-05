@@ -1,5 +1,5 @@
-§ 147 e. Advokaten kan forlange en afgørelse efter § 147 c, stk. 3, indbragt for retten. Retten kan stadfæste, ophæve eller ændre afgørelsen.
+§ 147 e. Advokaten eller personen, der i medfør af § 124, stk. 3, nr. 2, ejer aktier eller anparter i et advokatselskab, kan forlange en afgørelse efter § 147 c, stk. 3 eller stk. 4, indbragt for retten. Retten kan stadfæste, ophæve eller ændre afgørelsen.
 
-Stk. 2. Begæring om sagsanlæg skal fremsættes over for justitsministeren inden 4 uger efter, at afgørelsen er meddelt den pågældende. Justitsministeren anlægger herefter sag mod advokaten i den borgerlige retsplejes former.
+Stk. 2. Anmodning om sagsanlæg skal fremsættes over for justitsministeren inden 4 uger efter, at afgørelsen er meddelt den pågældende. Justitsministeren anlægger herefter sag i den borgerlige retsplejes former mod advokaten eller personen, der i medfør af § 124, stk. 3, nr. 2, ejer aktier eller anparter i et advokatselskab.
 
-Stk. 3. Begæring om sagsanlæg har opsættende virkning, men retten kan, hvis Advokatnævnet har frakendt advokaten retten til at udøve advokatvirksomhed, ved kendelse udelukke den pågældende fra at udøve sådan virksomhed, indtil sagen er endeligt afgjort. Det kan ved dommen bestemmes, at anke ikke har opsættende virkning.
+Stk. 3. Anmodning om sagsanlæg har opsættende virkning, men retten kan, hvis Advokatnævnet har frakendt advokaten retten til at udøve advokatvirksomhed eller personen, der i medfør af § 124, stk. 3, nr. 2, ejer aktier eller anparter i et advokatselskab, retten til at eje aktier eller anparter i et advokatselskab, ved kendelse udelukke den pågældende fra at udøve sådan virksomhed, indtil sagen er endeligt afgjort. Det kan ved dommen bestemmes, at anke ikke har opsættende virkning.
