@@ -1,1 +1,1 @@
-§ 266 a. Med bøde eller fængsel indtil 1 år straffes den, der, uden at forholdet omfattes af §§ 136 og 266, offentligt fremsætter udtalelser, der tilstræber at fremkalde voldshandlinger eller hærværk.
+§ 266 a. Med bøde eller fængsel indtil 1 år straffes den, der, uden at forholdet omfattes af ­§§ 136 og 266, offentligt fremsætter udtalelser, der tilstræber at fremkalde voldshandlinger eller hærværk.
