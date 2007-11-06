@@ -2,4 +2,6 @@
 
 Stk. 2. Træffer skifteretten afgørelse efter stk. 1, skal skyldneren betale løbende ydelser på de i stk. 1 nævnte pantefordringer, efterhånden som de forfalder. Med henblik på betalingen af disse ydelser kan skifteretten bestemme, at skyldneren med passende mellemrum skal indbetale nærmere fastsatte beløb på en særskilt konto i bank eller sparekasse. Tilsynet afgiver straks indberetning til skifteretten, såfremt indbetaling ikke er sket senest 7 dage efter betalingsfristen ifølge skifterettens afgørelse.
 
-Stk. 3. Skifteretten kan bestemme, at stk. 2 ikke skal gælde med hensyn til bestemte pantefordringer, som ikke kan forventes dækket af pantet.
+Stk. 3. Såfremt det må anses for nødvendigt af hensyn til betalingsstandsningens formål, kan skifteretten, når skyldneren med tilsynets samtykke fremsætter begæring herom, bestemme, at en panteret eller retsforfølgning, der vil kunne omstødes i tilfælde af konkurs, ikke skal være til hinder for, at skyldneren udskiller aktiver omfattet af panteretten eller retsforfølgningen som led i driften.
+
+Stk. 4. Skifteretten kan bestemme, at stk. 2 ikke skal gælde med hensyn til bestemte pantefordringer, som ikke kan forventes dækket af pantet.
