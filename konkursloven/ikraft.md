@@ -1,73 +1,93 @@
-Lov nr. 187 af 9. maj 1984 (Betalingsstandsning, gældssanering m.v.) (* 1), indeholder følgende ikrafttrædelsesbestemmelse:
+Lov nr. 402 af 26. juni 1998 (Rekruttering af dommere, dommerfuldmægtiges ansættelsesvilkår, dommeres bierhverv og ændringer som følge af oprettelse af en domstolsstyrelse m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 9
+
+Loven træder i kraft den 1. juli 1999. Medlemmerne af Dommerudnævnelsesrådet kan dog beskikkes med virkning fra indtil 6 måneder før lovens ikrafttræden.
+
+Lov nr. 215 af 31. marts 2004 (Offentlighed i retsplejen) indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 8
+
+Stk. 1. Loven træder i kraft den 1. juli 2004.
+
+Stk. 2-3. (Udelades)
+
+Lov nr. 216 af 31. marts 2004 (Pant og udlæg i andelsboliger m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
 
 § 4
 
-Stk. 1. Loven træder i kraft den 1. juli 1984.
+Justitsministeren fastsætter tidspunktet for lovens ikrafttræden.
 
-Stk. 2. Hvis anmeldelse om betalingsstandsning eller begæring om konkurs er indgivet til skifteretten inden lovens ikrafttræden, anvendes de hidtil gældende regler i stedet for reglerne i § 1, nr. 7-10 og 14-16.
+Lov nr. 447 af 9. juni 2004 (Digital kommunikation i retsplejen, kendelser med begrænset sagsfremstilling, regler om vidneforvarede m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
 
-Stk. 3. På modregning mellem fordringer, som begge er erhvervet inden lovens ikrafttræden, anvendes de hidtil gældende regler.
+§ 5
 
-I lov nr. 320 af 4. juni 1986 fastsættes i § 4, stk. 1, at den ændring, som angår § 252, træder i kraft den 1. juli 1986.
+Stk. 1. Loven træder i kraft efter justitsministerens nærmere bestemmelse. Lovens § 1, nr. 1, 2, 8-11 og 13-16, træder dog i kraft den 1. juli 2004.
 
-De ændringer af konkursloven, der indeholdes i § 1 i lov nr. 384 af 10. juni 1987 (Kuratorsalærer m.v.), trådte i kraft den 1. oktober 1987.
+Stk. 2. (Udelades)
 
-I lov nr. 387 af 10. juni 1987 (Gældssanering med specielt henblik på studiegæld) fastsættes i § 2, stk. 1, at den ændring, som angår konkurslovens § 197, træder i kraft den 1. juli 1987. I § 2, stk. 2, fastsættes, at hvis begæring om gældssanering er indgivet til skifteretten inden lovens ikrafttræden, anvendes de hidtil gældende regler.
+Lov nr. 365 af 24. maj 2005 (Revision af reglerne om gældssanering) indeholder følgende ikrafttrædelsesbestemmelse:
 
-De ændringer af konkursloven, der indeholdes i § 18 i lov nr. 389 af 7. juni 1989 (Ophævelse af det sociale udvalgs selvstændige kompetence m.v.), trådte i kraft den 1. januar 1990.
+§ 3
 
-De ændringer af konkursloven, der indeholdes i § 1 i lov nr. 215 af 10. april 1991 (Postspærring), trådte i kraft den 1. juli 1991.
+Stk. 1. Loven træder i kraft den 1. oktober 2005.
 
-Lov nr. 363 af 6. juni 1991 (Underskud ved tvangsakkord og gældssanering m.v. og ændringer som følge af konkurskatteloven) (* 2) indeholder følgende ikrafttrædelsesbestemmelse:
+Stk. 2. Lovens § 1 har virkning for gældssaneringer og for genoptagelse af gældssaneringssager, hvor begæring om gældssanering eller om genoptagelse af en gældssaneringssag er indgivet til skifteretten efter lovens ikrafttræden, og tvangsakkorder, hvor fristdagen er efter lovens ikrafttræden.
 
-§ 7
+Stk. 3. Lovens § 2 har virkning for konkursboer, der i medfør af konkurslovens § 144 afsluttes efter lovens ikrafttræden.
 
-Stk. 1. Loven træder i kraft dagen efter bekendtgørelsen i Lovtidende.
+Lov nr. 554 af 24. juni 2005 (Sagsomkostninger, retshjælp og fri proces) indeholder følgende ikrafttrædelsesbestemmelse:
 
-Stk. 2. Loven har virkning for frivillige akkorder, tvangsakkorder og gældssaneringer, hvor fristdagen efter konkursloven er den 27. december 1990 eller senere. For frivillige akkorder, hvor der ikke er en fristdag efter konkursloven, har loven virkning, når aftale om frivillig akkord er indgået den 27. december 1990 eller senere.
+§ 12
 
-Lov nr. 313 af 17. maj 1995 (Ophævelse af lov om særlig indkomstskat m.v. samt konsekvensændringer m.v.) (* 3) indeholder følgende ikrafttrædelsesbestemmelse:
+Stk. 1. Lovens § 1, nr. 1, 6, 8, 10, 11, 13-17, 19 og 25, §§ 3-5 og § 7, nr. 3 og 4, træder i kraft den 1. juli 2005. Lovens § 1, nr. 2-5, 7, 9, 12, 18 og 20-24, § 2, § 6, § 7, nr. 1 og 2, og §§ 8-11 træder i kraft den 1. januar 2007.
 
-§ 19
+Stk. 2-5. (Udelades)
 
-Stk. 1. Loven har virkning for indkomståret 1996 og senere indkomstår.
+Lov nr. 560 af 24. juni 2005 (Virksomhedspant) indeholder følgende ikrafttrædelsesbestemmelse:
 
-Stk. 2-4. (Udelades)
+§ 6
 
-Stk. 5. Loven har virkning for konkursboer, der afsluttes i de indkomstår, som loven har virkning for efter stk. 1.
+Justitsministeren fastsætter tidspunktet for lovens ikrafttræden.
 
-Stk. 6. § 18 har virkning for skatter, der vedrører de indkomstår, som loven har virkning for efter stk. 1.
+Lov nr. 538 af 8. juni 2006 (Politi- og domstolsreform) indeholder følgende ikrafttrædelsesbestemmelser:
 
-Lov nr. 1082 af 20. december 1995 (Ændringer som følge af oprettelsen af Procesbevillingsnævnet) (* 4) indeholder følgende ikrafttrædelsesbestemmelse:
+§ 105
 
-§ 14
+Stk. 1. Loven træder i kraft den 1. januar 2007, jf. dog stk. 2-22 og § 106.
 
-Stk. 1. Loven træder for Danmark og Grønland i kraft den 1. januar 1996. Justitsministeren fastsætter tidspunktet for lovens ikrafttræden for Færøerne.
+Stk. 2-22. (Udelades)
 
-Stk. 2. Er ansøgning om anke- eller kæretilladelse indgivet før lovens ikrafttræden, finder de hidtil gældende regler anvendelse.
+§ 106
 
-Lov nr. 382 af 22. maj 1996 (Rationalisering og modernisering af konkursbehandlingen m.v.)5) indeholder følgende ikrafttrædelsesbestemmelse:
+(Udelades)
 
-§ 10
+Lov nr. 396 af 30. april 2007 (Hurtigere behandling af konkursboer) indeholder følgende ikrafttrædelsesbestemmelse:
 
-Stk. 1. Loven træder i kraft den 1. juni 1996.
+§ 2
 
-Stk. 2. Er konkursdekretet afsagt inden lovens ikrafttræden, anvendes de hidtil gældende regler.
+Stk. 1. Loven træder i kraft den 1. juli 2007.
 
-Lov nr. 385 af 22. maj 1996 (Ændringer som følge af lov om skifte af dødsboer) (* 6) indeholder følgende ikrafttrædelsesbestemmelse:
+Stk. 2. Den hidtil gældende bestemmelse i konkurslovens § 133, stk. 1, finder fortsat anvendelse for behandlingen af konkursboer, hvor det i bestemmelsen omhandlede møde har fundet sted før lovens ikrafttræden.
 
-§ 15
+Lov nr. 518 af 6. juni 2007 (Visse ændringer af regler om forenklet inkassoproces, forbud mod mobiltelefoner m.v. i retslokaler og ophævelse af regler om rettergangsbøder) indeholder følgende ikrafttrædelsesbestemmelse:
 
-Stk. 1. Loven træder i kraft den 1. januar 1997.
+§ 4
 
-Stk. 2. Er dødsfaldet indtrådt inden lovens ikrafttræden, eller indgives begæring om skifte af uskiftet bo før lovens ikrafttræden, anvendes de hidtil gældende regler.
+Stk. 1. Loven træder i kraft den 1. juli 2007.
 
-Lov nr. 1223 af 27. december 1996 (Ændring som følge af dødsboskifteloven og dødsboskatteloven m.v.) (* 7) indeholder følgende ikrafttrædelsesbestemmelse:
+Stk. 2. (Udeladt)
 
-§ 37
+Stk. 3. Lovens § 3 finder anvendelse i sager, hvor konkursdekret er afsagt efter lovens ikrafttræden.
 
-Stk. 1. Loven træder i kraft den 1. januar 1997.
+Lov nr. 523 af 6. juni 2007 (Ændringer som følge af en ny lov om forældelse af fordringer, ophævelse af købelovens reklamationsfrister ved visse køb m.v.) indeholder følgende ikrafttrædelsesbestemmelser:
 
-Stk. 2. For så vidt angår indkomstbeskatning m.v. i forbindelse med dødsfald, finder §§ 1-3, § 4, nr. 1-5, §§ 5-16, § 17, nr. 1-6, 8, 9, 14-16, 19, 21, 22, 27 og 28, §§ 18-21, § 22, nr. 1-3, 5 og 6, § 23, nr. 2, 3, 5, 6 og 8-14, §§ 24-27, § 28, nr. 3, 5, 7 og 10, § 29, nr. 2-4 og 6, § 30, § 31, § 32, nr. 1, og §§ 33-36, anvendelse på boer og mellemperioder vedrørende personer, som er afgået ved døden efter lovens ikrafttræden, på beskatningen af efterlevende ægtefæller og modtagere af udlodning og boudlæg efter personer, som er afgået ved døden efter lovens ikrafttræden, samt på skifte af uskiftet bo i den efterlevende ægtefælles levende live, når anmodning om skifte indgives efter lovens ikrafttræden.
+§ 47
 
-Stk. 3. -4. (Udelades)
+Loven træder i kraft den 1. januar 2008.
+
+§ 48
+
+Stk. 1. Loven finder anvendelse også på tidligere stiftede fordringer, som ikke inden ikrafttrædelsesdagen er forældet efter de hidtil gældende regler. Forældelse indtræder dog tidligst den 1. januar 2011, medmindre fordringen inden dette tidspunkt ville være forældet såvel efter de hidtil gældende bestemmelser som efter de bestemmelser, der gælder efter lovens ikrafttræden, jf. dog stk. 7. I det sidstnævnte tilfælde anvendes det seneste tidspunkt for forældelsens indtræden.
+
+Stk. 2-8. (Udelades)
