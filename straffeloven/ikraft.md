@@ -44,7 +44,7 @@ Lov nr. 258 af 8. maj 2002 (Gennemførelse af EU-retshjælpskonventionen, den 2.
 
 § 3
 
-Stk. 1. Bestemmelserne i straffelovens kapitel 14 om forbrydelser mod den offentlige myndighed mv. og kapitel 16 om forbrydelser i offentlig tjeneste eller hverv mv. finder også anvendelse, når forholdet er begået mod eller af embedsmænd fra en anden stat under udførelse af opgaver i Danmark efter artikel 12 og 13 i konvention af 29. maj 2000 om gensidig retshjælp i straffesager mellem Den Europæiske Unions medlemsstater samt tilsvarende bestemmelser i andre EU-retsakter eller efter artikel 18 og 20 i 2. tillægsprotokol af 8. november 2001 til den europæiske konvention af 20. april 1959 om gensidig retshjælp i straffesager.
+Stk. 1. Bestemmelserne i straffelovens kapitel 14 om forbrydelser mod den offentlige myndighed m.v. og kapitel 16 om forbrydelser i offentlig tjeneste eller hverv m.v. finder også anvendelse, når forholdet er begået mod eller af embedsmænd fra en anden stat under udførelse af opgaver i Danmark efter artikel 12 og 13 i konvention af 29. maj 2000 om gensidig retshjælp i straffesager mellem Den Europæiske Unions medlemsstater samt tilsvarende bestemmelser i andre EU-retsakter eller efter artikel 18 og 20 i 2. tillægsprotokol af 8. november 2001 til den europæiske konvention af 20. april 1959 om gensidig retshjælp i straffesager.
 
 Stk. 2. Forvolder en embedsmand fra en anden medlemsstat skade under udførelse af opgaver i Danmark efter artikel 12 og 13 i konvention af 29. maj 2000 om gensidig retshjælp i straffesager mellem Den Europæiske Unions medlemsstater samt tilsvarende bestemmelser i andre EU-retsakter eller efter artikel 18 og 20 i 2. tillægsprotokol af 8. november 2001 til den europæiske konvention af 20. april 1959 om gensidig retshjælp i straffesager, som efter dansk ret medfører erstatningspligt, udbetales erstatning af justitsministeren.
 
@@ -64,7 +64,7 @@ Lov nr. 366 af 24. maj 2005 (Berigelseskriminalitet rettet mod offentlige midler
 
 § 6
 
-Loven træder i kraft den 1. juli 2005
+Loven træder i kraft den 1. juli 2005. (Udelades)
 
 Lov nr. 553 af 24. juni 2005 (Lov om voldgift) indeholder følgende ikrafttrædelsesbestemmelse:
 
@@ -82,15 +82,13 @@ Lov nr. 1389 af 21. december 2005 (Lov om markedsføring) holder følgende ikraf
 
 § 32
 
-Loven træder i kraft den 1. juli 2006
+Loven træder i kraft den 1. juli 2006. (Udelades)
 
 Lov nr. 1400 af 21. december 2005 (Skærpede regler om strafudmåling for forbrydelser begået med baggrund i den forurettedes lovlige ytringer i den offentlige debat) indeholder følgende ikrafttrædelsesbestemmelse:
 
 § 2
 
-Loven træder i kraft dagen efter bekendtgørelsen i Lovtidende.
-
-Lov nr. 474 af 31. maj 2006 (Præcisering af reglerne om retsforfølgning af udenlandske skibe, skærpelse af straffe for miljøkriminalitet m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
+Loven træder i kraft dagen efter bekendtgørelsen i Lovtidende. Lov nr. 474 af 31. maj 2006 (Præcisering af reglerne om retsforfølgning af udenlandske skibe, skærpelse af straffe for miljøkriminalitet m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
 
 § 4
 
@@ -114,4 +112,10 @@ Lov nr. 542 af 8. juni 2006 (Styrkelse af indsatsen for at bekæmpe terrorisme m
 
 § 9
 
-Stk. 1. Loven træder i kraft dagen efter bekendtgørelsen i Lovtidende
+Stk. 1. Loven træder i kraft dagen efter bekendtgørelsen i Lovtidende. (Udelades)
+
+Lov nr. 527 af 6. juni 2007 (Kriminalisering af at besidde mobiltelefoner i fængsler m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 4
+
+Loven træder i kraft den 1. juli 2007.

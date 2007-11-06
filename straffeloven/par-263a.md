@@ -4,7 +4,7 @@ Stk. 2. På samme måde straffes den, der uretmæssigt videregiver et større an
 
 Stk. 3. På samme måde straffes den, der uretmæssigt skaffer sig eller videregiver en kode eller andet adgangsmiddel som nævnt i stk. 1 til
 
-1) et samfundsvigtigt informationssystem, jf. § 193, eller
+1) et samfundsvigtigt informationssystem, jf. ­§ 193, eller
 
 2) et informationssystem, der behandler følsomme oplysninger, som er omfattet af § 7, stk. 1, eller § 8, stk. 1, i lov om behandling af personoplysninger, om flere personers personlige forhold.
 

@@ -1,12 +1,12 @@
-Justitsministeriet, den 5. oktober 2006
+Justitsministeriet, den 23. oktober 2007
 
 Lene Espersen
 
-/Ole Hasselgaard
+/ Jens Røn
 
 Bilag 1
 
-## Indholdsfortegnelse
+Indholdsfortegnelse
 
 Almindelig del
 
@@ -38,7 +38,7 @@ Særlig del
 
 13. | kapitel | Forbrydelser mod statsforfatningen og de øverste statsmyndigheder, terrorisme m.v. | §§ | 111 | - | 118 a
 
-14. | kapitel | Forbrydelser mod den offentlige myndighed mv. | §§ | 119 | - | 132 a
+14. | kapitel | Forbrydelser mod den offentlige myndighed m.v. | §§ | 119 | - | 132 a
 
 15. | kapitel | Forbrydelser mod den offentlige orden og fred | §§ | 133 | - | 142
 
