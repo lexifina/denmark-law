@@ -1,3 +1,3 @@
 Bekendtgørelse af lov om dyreforsøg
 
-Herved bekendtgøres lov nr. 382 af 10. juni 1987 med de ændringer, der følger af lov nr. 374 af 7. juni 1989, lov nr. 405 af 13. juni 1990, § 33 i lov nr. 386 af 6. juni 1991, § 10 i lov nr. 386 af 20. maj 1992 og lov nr. 470 af 30. juni 1993.
+Herved bekendtgøres lov om dyreforsøg, jf. lovbekendtgørelse nr. 726 af 9. september 1993, med de ændringer, der følger af lov nr. 1081 af 20. december 1995, § 21 i lov nr. 433 af 31. maj 2000, § 2 i lov nr. 315 af 5. maj 2004 og § 5 i lov nr. 550 af 24. juni 2005.
