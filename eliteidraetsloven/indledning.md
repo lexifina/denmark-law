@@ -1,3 +1,3 @@
-Lov om eliteidræt
+Bekendtgørelse af lov om eliteidræt
 
-VI MARGRETHE DEN ANDEN, af Guds Nåde Danmarks Dronning, gør vitterligt: Folketinget har vedtaget og Vi ved Vort samtykke stadfæstet følgende lov:
+Herved bekendtgøres lov nr. 288 af 26. april 2004 om eliteidræt med de ændringer, der følger af lov nr. 563 af 24. juni 2005.
