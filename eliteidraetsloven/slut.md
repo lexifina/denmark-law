@@ -1,7 +1,5 @@
-Givet på Amalienborg, den 26. april 2004
+Kulturministeriet, den 30. november 2007
 
-Under Vor Kongelige Hånd og Segl
+Brian Mikkelsen
 
-MARGRETHE R.
-
-/Brian Mikkelsen
+/ Peter Schønning
