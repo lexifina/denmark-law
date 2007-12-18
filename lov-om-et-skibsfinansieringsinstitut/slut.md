@@ -1,5 +1,5 @@
-Økonomi- og Erhvervsministeriet, den 19. juli 2005
+Økonomi- og Erhvervsministeriet, den 10. december 2007
 
 Bendt Bendtsen
 
-/Henrik Bjerre-Nielsen
+/ Henrik Bjerre-Nielsen
