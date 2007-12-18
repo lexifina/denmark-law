@@ -1,5 +1,5 @@
-Ministeriet for Videnskab, Teknologi og Udvikling, den 21. marts 2006
+Ministeriet for Videnskab, Teknologi og Udvikling, den 7. december 2007
 
 Helge Sander
 
-/René Bugge Bertramsen
+/ Helga Øregaard
