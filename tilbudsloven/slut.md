@@ -1,7 +1,5 @@
-Givet på Christiansborg Slot, den 18. maj 2005
+Økonomi- og Erhvervsministeriet, den 7. december 2007
 
-Under Vor Kongelige Hånd og Segl
+Bendt Bendtsen
 
-MARGRETHE R.
-
-/Bendt Bendtsen
+/ Kim Sparlund
