@@ -1,7 +1,5 @@
-Givet på Christiansborg Slot, den 10. juni 2003
+Økonomi- og Erhvervsministeriet, den 10. december 2007
 
-Under Vor Kongelige Hånd og Segl
+Bendt Bendtsen
 
-MARGRETHE R.
-
-/Bendt Bendtsen
+/ Henrik Bjerre-Nielsen
