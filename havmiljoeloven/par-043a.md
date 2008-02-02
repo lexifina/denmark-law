@@ -1,6 +1,6 @@
 § 43 a. Forsvarsministeren kan udstede forbud mod, at et skib anløber danske havne, såfremt
 
-1) skibet afsejler eller fortsætter sin sejlads trods et sejladsforbud efter § 43 eller
+1) skibet afsejler eller fortsætter sin sejlads trods et sejladsforbud efter § 43, eller
 
 2) skibet undlader at anløbe et reparationsværft, som udpeges efter aftale med forsvarsministeren, med henblik på at udbedre de forhold, som førte til tilbageholdelsen.
 
