@@ -2,4 +2,4 @@
 
 ## Affald
 
-§ 20 a. (Ophævet).
+§ 20 a. (Ophævet)
