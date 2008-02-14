@@ -1,5 +1,5 @@
-Arbejdsministeriet, den 29. januar 2001
+Beskæftigelsesministeriet, den 8. februar 2008
 
-Ove Hygum
+Claus Hjort Frederiksen
 
-/Jørgen Eckeroth
+/ Karen Ryder
