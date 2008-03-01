@@ -8,4 +8,4 @@ Stk. 4. Arbejdsgiveren skal give sikkerhedsrepræsentanten en efter forholdene r
 
 Stk. 5. Sikkerhedsrepræsentanten er beskyttet mod afskedigelse og anden forringelse af sine forhold på samme måde som tillidsmænd inden for vedkommende eller tilsvarende faglige område.
 
-Stk. 6. Uoverensstemmelser om beskyttelsen efter stk. 2 og 5, herunder spørgsmål om, hvilke regler der finder anvendelse, og om brud på eller fortolkning af reglerne, afgøres ved fagretlig behandling, jfr. § 22 i lov nr. 317 af 13. juni 1973 om arbejdsretten.
+Stk. 6. Uoverensstemmelser om beskyttelsen efter stk. 2 og 5, herunder spørgsmål om, hvilke regler der finder anvendelse, og om brud på eller fortolkning af reglerne, afgøres ved fagretlig behandling, jf. § 33 i lov om Arbejdsretten og faglige voldgiftsretter.
