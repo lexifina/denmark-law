@@ -25,3 +25,15 @@ Stk. 4. Beslutning om udskrivning af et bindende stiftsbidrag truffet efter § 2
 § 6
 
 Loven gælder ikke for Færøerne og Grønland. Loven kan ved kgl. anordning sættes i kraft for Færøerne med de afvigelser, som de særlige færøske forhold tilsiger.
+
+Lov nr. 75 af 13. februar 2008 indeholder følgende ikrafttrædelsesbestemmelser m.v.:
+
+§ 2
+
+Loven træder i kraft den 1. marts 2008.
+
+Stk. 2. Kirkeministeren kan for menighedsrådsvalget 2008 fastsætte regler om muligheden for elektronisk brevstemmeafgivning for vælgere, som er indehavere af en digital signatur (OCES).
+
+§ 3
+
+Loven gælder ikke for Færøerne og Grønland.

@@ -1,5 +1,5 @@
-Kirkeministeriet, den 6. juni 2007
+Kirkeministeriet, den 4. marts 2008
 
-Bertel Haarder
+Birthe Rønn Hornbech
 
-/Lise Marianne Hjort
+/ Betina Sidelmann
