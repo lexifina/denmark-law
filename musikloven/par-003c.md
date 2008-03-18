@@ -1,15 +1,17 @@
-§ 3 c. Staten yder delvis refusion af kommuners, amtskommuners eller andres udgifter til lærerlønsudgifter i forbindelse med driften af musikskoler, jf. dog stk. 4.
+§ 3 c. Staten yder delvis refusion af kommuners eller andres udgifter til lærerlønsudgifter i forbindelse med driften af musikskoler, jf. dog stk. 4.
 
-Stk. 2. Refusionsprocenten beregnes som forholdet mellem statens på finansloven fastsatte bevilling og de samlede tilskud til lærerlønsudgifter ved musikskoler fra kommuner, amtskommuner eller andre.
+Stk. 2. Refusionsprocenten beregnes som forholdet mellem statens på finansloven fastsatte bevilling og de samlede tilskud til lærerlønsudgifter ved musikskoler fra kommuner eller andre.
 
-Stk. 3. Kommuner, amtskommuner eller andre kan maksimalt få refunderet 25 pct. af udgifterne til musikskolelærerlønningerne.
+Stk. 3. Kommuner eller andre kan maksimalt få refunderet 25 pct. af udgifterne til musikskolelærerlønningerne.
 
-Stk. 4. Det er en betingelse for at opnå refusion efter stk. 1, at musikskolelevernes betaling for undervisningen ikke overstiger 1/3 af bruttoudgiften ved skolens drift.
+Stk. 4. Det er en betingelse for at opnå refusion efter stk. 1, at musikskoleelevernes betaling for undervisningen ikke overstiger 1/3 af bruttoudgiften ved skolens drift.
 
-Stk. 5. Staten udbetaler en foreløbig refusion i henhold til § 3 c, stk. 1. Den beregnes på grundlag af budgetter, der er godkendt af vedkommende kommunalbestyrelse eller amtsråd. Refusionen udbetales ratevis forud.
+Stk. 5. Staten udbetaler en foreløbig refusion i henhold til stk. 1. Den beregnes på grundlag af budgetter, der er godkendt af vedkommende kommunalbestyrelse. Refusionen udbetales ratevis forud.
 
-Stk. 6. Endelig beregning af refusionen i henhold til § 3 c, stk. 3, foretages på grundlag af regnskaber. Regnskaberne skal være godkendt af vedkommende kommunalbestyrelse eller amtsråd og skal indeholde dokumentation for den samlede elevbetaling. Den endelige refusion kan dog ikke overstige den foreløbigt udbetalte refusion.
+Stk. 6. Endelig beregning af refusion i henhold til stk. 3 foretages på grundlag af regnskaber. Regnskaberne skal være godkendt af vedkommende kommunalbestyrelse og skal indeholde dokumentation for den samlede elevbetaling. Den endelige refusion kan dog ikke overstige den foreløbigt udbetalte refusion.
 
 Stk. 7. For meget udbetalt refusion i et regnskabsår modregnes i refusionen for det følgende år.
 
-Stk. 8. Kulturministeren kan i forbindelse med indgåelse af regionale kulturaftaler fravige bestemmelserne i stk. 1-7.
+Stk. 8. Kulturministeren kan i forbindelse med indgåelse af kulturaftaler med kommuner m.v. fravige bestemmelserne i stk. 1-7.
+
+Stk. 9. Kommunen kan tilbyde børn og unge musikskoleundervisning gratis eller til nedsat betaling.
