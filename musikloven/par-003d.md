@@ -1,5 +1,5 @@
-§ 3 d. Kunstrådet kan yde støtte til musikalske grundkurser ved musikskoler.
+§ 3 d. Kunstrådet kan yde tilskud til musikalske grundkurser ved musikskoler.
 
-Stk. 2. Kunstrådet kan dække 1/3 af bruttoudgifterne i forbindelse med et musikalsk grundkursus under forudsætning af, at de resterende 2/3 dækkes af de pågældende amts- og primærkommuner.
+Stk. 2. Undervisningen på statsstøttede grundkurser er gratis for eleverne.
 
-Stk. 3. Undervisningen på statsstøttede grundkurser er gratis for eleverne.
+Stk. 3. Kulturministeren kan i samråd med Kunstrådet fastsætte regler for musikalske grundkurser.
