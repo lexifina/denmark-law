@@ -51,3 +51,41 @@ Stk. 4. Det første kunstråd med tilhørende udvalg, som udpeges, jf. § 6, bes
 § 14
 
 Loven tages op til revision i folketingsåret 2008-09.
+
+Lov nr. 1212 af 27. december 2003 indeholder følgende ikrafttrædelsesbestemmelser m.v.:
+
+§ 2
+
+Stk. 1. Loven træder i kraft den 1. januar 2004.
+
+Stk. 2. Amtsmusikudvalgene fungerer i den igangværende periode, medmindre andet bestemmes af de myndigheder, der nedsætter udvalgene.
+
+Lov nr. 561 af 24. juni 2005 indeholder følgende ikrafttrædelsesbestemmelser m.v.:
+
+§ 2
+
+Stk. 1. Loven træder i kraft den 1. januar 2007. Bestemmelserne i stk. 2-4 træder dog i kraft dagen efter lovens bekendtgørelse i Lovtidende.
+
+Stk. 2. Kulturministeren kan fastsætte nærmere regler om regnskabsaflæggelse og tilbagebetaling af lån for institutioner, som inden lovens ikrafttræden har modtaget tilskud eller lån fra en amtskommune i medfør af
+
+1) musiklovens § 2, for så vidt angår amtsmusikudvalg, og
+
+2) musiklovens § 3 d, for så vidt angår musikalske grundkurser ved musikskoler.
+
+Stk. 3. Amtsmusikudvalg, der er nedsat i medfør af musiklovens § 2, må fra dagen efter lovens bekendtgørelse i Lovtidende ikke påtage sig forpligtelser, der rækker ud over den 1. januar 2007, medmindre dette er godkendt af en kommunalbestyrelse og kommunalbestyrelsen har garanteret at overtage forpligtelserne fra denne dato.
+
+Stk. 4. Funktionsperioden for amtsmusikudvalg, der er nedsat i medfør af musiklovens § 2, og som er beskikket pr. 1. april 2006, udløber den 31. december 2006. Amtsrådet skal drage omsorg for afbeskikkelse af medlemmer af udvalgene.
+
+§ 3
+
+Loven gælder ikke for Færøerne og Grønland, men kan ved kongelig anordning sættes i kraft i Grønland med de afvigelser, som de særlige grønlandske forhold tilsiger.
+
+Lov nr. 1568 af 20. december 2006 indeholder følgende ikrafttrædelsesbestemmelser m.v.:
+
+§ 2
+
+Loven træder i kraft den 1. januar 2007.
+
+§ 3
+
+Loven gælder ikke for Færøerne og Grønland.

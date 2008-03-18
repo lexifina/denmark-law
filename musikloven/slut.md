@@ -1,5 +1,5 @@
-Kulturministeriet, den 29. november 2003
+Kulturministeriet, den 3. januar 2008
 
 Brian Mikkelsen
 
-/Per Gade
+/ Jan Opstrup Poulsen
