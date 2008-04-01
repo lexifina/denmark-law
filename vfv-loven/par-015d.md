@@ -1,0 +1,5 @@
+§ 15 d. Undervisningsministeren godkender et erhvervsakademis udbud af de videregående voksenuddannelser, der er behov for at erhvervsakademiet udbyder, jf. § 4 i lov om erhvervsakademier for videregående uddannelser. Undervisningsministeren godkender tillige en professionshøjskoles udbud af de videregående voksenuddannelser, der er behov for at professionshøjskolen udbyder, jf. § 4 i lov om erhvervsakademier for videregående uddannelser og § 4, stk. 3, i lov om professionshøjskoler for videregående uddannelser. Det er dog en betingelse, at professionshøjskolen er etableret ved en sammenlægning af en eller flere professionshøjskoler og et eller flere erhvervsakademier.
+
+Stk. 2. Er en professionshøjskole ikke omfattet af stk. 1, kan undervisningsministeren godkende dens udbud af en videregående voksenuddannelse, hvis der er et behov for udbud af uddannelsen, som ikke kan eller forventes at kunne dækkes af udbud, der er godkendt efter stk. 1.
+
+Stk. 3. En godkendelse efter stk. 1 og 2 gives tidsbegrænset til at dække behovet for udbuddet i et nærmere bestemt geografisk område af den pågældende uddannelse.
