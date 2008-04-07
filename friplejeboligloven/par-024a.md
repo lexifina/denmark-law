@@ -1,0 +1,3 @@
+§ 24 a. Har staten ydet supplerende garanti efter § 127 a i lov om almene boliger m.v., opretholdes garantien på uændrede vilkår ved omdannelse til friplejeboliger efter § 11, stk. 2, nr. 3-5.
+
+Stk. 2. Staten yder supplerende garanti for lån i friplejeboliger, som er omdannet efter § 11, stk. 2, nr. 3-5, hvortil der ydes garanti efter §§ 21-24, og som overgår til lån baseret på særligt dækkede obligationer eller særligt dækkede realkreditobligationer. Den supplerende garanti omfatter den del af restgælden, som har pantesikkerhed ud over 60 pct. af ejendommens værdi på tidspunktet for lånets overgang eller optagelse, og som ikke dækkes af anden offentlig garanti. Den del af restgælden, som ikke omfattes af en garanti, har panteret forud for den garanterede del af gælden.
