@@ -4,7 +4,7 @@ Stk. 2. Ved ansøgningen skal ansøger afgive en erklæring om, at motorkøretø
 
 Stk. 3. Told- og skatteforvaltningen kan efter ansøgning tillade, at afgiften af registreringspligtige motorkøretøjer, der er afgiftspligtige, jf. § 1, stk. 5, kan betales kvartalsvis forud med 3 pct. for hvert påbegyndt kvartal af den beregnede afgift. Ved betalingen tillægges 1,5 pct. for hvert påbegyndt kvartal af den registreringsafgift, der resterer efter den foretagne betaling. Ved betaling første gang betales desuden et depositum svarende til første kvartals afgift og tillæg til dækning af eventuelle restancer vedrørende registreringsforholdet.
 
-Stk. 4. For betaling af afgift hæfter den, der stiller køretøjet til rådighed for den herboende arbejdstager. Hæftelsen for betaling af afgift vedrørende selvstændigt erhvervsdrivende følger af § 19, stk. 2.
+Stk. 4. For betaling af afgift hæfter den, der stiller køretøjet til rådighed for den herboende arbejdstager. Hæftelsen for betaling af afgift vedrørende selvstændigt erhvervsdrivende følger af § 20, stk. 1.
 
 Stk. 5. Pligten til betaling af afgift og tillæg ophører ved udgangen af den måned, hvori registreringspligten i Danmark ophører eller motorkøretøjet udgår af ordningen, jf. § 1, stk. 3. Ophører registreringspligten, eller udgår motorkøretøjet af ordningen, jf. § 1, stk. 3, tilbagebetaler told- og skatteforvaltningen depositummet samt for meget betalt afgift og tillæg. Told- og skatteforvaltningen tilbagebetaler endvidere depositummet, når den samlede afgift er betalt eller der sker afgiftsberigtigelse efter stk. 6.
 
