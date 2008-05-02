@@ -1,0 +1,1 @@
+1) Loven indeholder bestemmelser, der gennemfører Europa-Parlamentets og Rådets direktiv 2005/32/EF af 6. juli 2005 om rammerne for fastlæggelse af krav til miljøvenligt design af energiforbrugende produkter og om ændring af Rådets direktiv 92/42/EØF og Europa-Parlamentets og Rådets direktiv 96/57/EF og 2000/55/EF, (EU-Tidende 2005 nr. L 191, side 29).
