@@ -1,0 +1,1 @@
+§ 48 a. Undervisningsministeren kan fastsætte regler om professionshøjskolens adgang til at fastsætte retningslinjer for de studerendes adfærd og for professionshøjskolens adgang til at gennemføre disciplinære foranstaltninger over for studerende, som ikke overholder de retningslinjer, som professionshøjskolen fastsætter.
