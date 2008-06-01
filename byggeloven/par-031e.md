@@ -1,0 +1,1 @@
+§ 31 E. Økonomi- og erhvervsministeren kan bemyndige kommunalbestyrelsen til at udøve de beføjelser, der tilkommer økonomi- og erhvervsministeren i henhold til deklarationer eller servitutter pålagt en ejendom i medfør af tidligere byggelovgivning.
