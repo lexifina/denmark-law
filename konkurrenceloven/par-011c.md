@@ -1,0 +1,1 @@
+§ 11 c. Økonomi- og erhvervsministeren kan fastsætte regler om gennemførelse af Kommissionens direktiv om gennemskueligheden af de økonomiske forbindelser mellem medlemsstaterne og de offentlige virksomheder og om den finansielle gennemskuelighed i bestemte virksomheder.
