@@ -1,1 +1,3 @@
-§ 31 C. Bolig- og byministeren kan bemyndige kommunalbestyrelsen til at udøve de beføjelser, der ellers tilkommer Bolig- og Byministeriet i henhold til deklarationer eller servitutter pålagt en ejendom i medfør af tidligere byggelovgivning.
+§ 31 C. Økonomi- og erhvervsministeren kan fastsætte regler om offentliggørelse med navns nævnelse af sanktioner efter § 31 A, stk. 3.
+
+Stk. 2. Økonomi- og erhvervsministeren kan fastsætte regler om videregivelse af kontrolresultater til organer i Det Europæiske Fællesskab.
