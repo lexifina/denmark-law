@@ -2,7 +2,7 @@
 
 ## Særligt dækkede realkreditobligationer og særligt dækkede obligationer
 
-§ 33 a. Realkreditinstitutter kan finansiere udlån, jf. § 2, stk. 1, ved udstedelse af særligt dækkede realkreditobligationer, hvis instituttet har tilladelse efter § 16 a, stk. 1, i lov om finansiel virksomhed.
+§ 33 a. Realkreditinstitutter kan finansiere udlån, jf. § 2, stk. 1 og 3, ved udstedelse af særligt dækkede realkreditobligationer, hvis instituttet har tilladelse efter § 16 a, stk. 1, i lov om finansiel virksomhed.
 
 Stk. 2. Ydelse af lån finansieret med særligt dækkede realkreditobligationer skal ske i særskilte serier med seriereservefond.
 
