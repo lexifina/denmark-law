@@ -1,5 +1,5 @@
-Indenrigs- og Sundhedsministeriet, den 8. december 2006
+Velfærdsministeriet, den 23. juni 2008
 
-Lars Løkke Rasmussen
+P.M.V. Kristian Wendelboe
 
-/Anne Birte Pade
+/ Nicoline Nyholm Miller
