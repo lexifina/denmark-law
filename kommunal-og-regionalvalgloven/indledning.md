@@ -1,3 +1,3 @@
 Bekendtgørelse af lov om kommunale og regionale valg
 
-Herved bekendtgøres lov om kommunale valg, jf. lovbekendtgørelse nr. 348 af 18. maj 2005 med de ændringer, der følger af § 79 i lov nr. 537 af 24. juni 2005.
+Herved bekendtgøres lov om kommunale og regionale valg, jf. lovbekendtgørelse nr. 1293 af 8. december 2006 med de ændringer, der følger af § 3 i lov nr. 222 af 8. april 2008.
