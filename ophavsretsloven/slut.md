@@ -1,5 +1,5 @@
-Kulturministeriet, den 30. juni 2006
+Kulturministeriet, den 20. juni 2008
 
-Flemming Hansen
+Brian Mikkelsen
 
-/Peter Schønning
+/ Bente Skovgaard Kristensen
