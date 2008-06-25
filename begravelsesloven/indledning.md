@@ -1,3 +1,3 @@
-Lov om begravelse og ligbrænding. (Begravelsesloven).
+Bekendtgørelse af lov om begravelse og ligbrænding
 
-VI MARGRETHE DEN ANDEN, af Guds Nåde Danmarks Dronning, gør vitterligt: Folketinget har vedtaget og Vi ved Vort samtykke stadfæstet følgende lov:
+Herved bekendtgøres lov nr. 346 af 26. juni 1975 om begravelse og ligbrænding med de ændringer, der følger af lov nr. 502 af 17. juni af 2008.

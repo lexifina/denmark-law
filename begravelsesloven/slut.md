@@ -1,9 +1,5 @@
-Givet på Amalienborg, den 26. juni 1975.
+Kirkeministeriet, den 19. juni 2008
 
-Under Vor Kongelige Hånd og Segl.
+Birthe Rønn Hornbech
 
-MARGRETHE R.
-
-Jørgen Peder Hansen
-
-Ingen
+/ Marjun Egholm
