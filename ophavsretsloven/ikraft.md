@@ -1,4 +1,4 @@
-Lov nr. 1207 af 27. december 1996 om ændring af ophavsretsloven og om ophævelse af lov om Den Kulturelle fond og om visse bevillinger på ophavsretsområdet (Eksemplarfremstilling m.v. til fordel for handicappede, kabelviderespredning af radio- og fjernsynsudsendelser, uoverdrageligt vederlagskrav ved udlejning af videogrammer og fonogrammer m.v.) indeholder følgende ikrafttrædelsesbestemmelser m.v.:
+Lov nr. 1207 af 27. december 1996 om ændring af ophavsretsloven og om ophævelse af lov om Den Kulturelle Fond og om visse bevillinger på ophavsretsområdet (Eksemplarfremstilling m.v. til fordel for handicappede, kabelviderespredning af radio- og fjernsynsudsendelser, uoverdrageligt vederlagskrav ved udlejning af videogrammer og fonogrammer m.v.) indeholder følgende ikrafttrædelsesbestemmelser m.v.:
 
 § 2
 
@@ -64,7 +64,7 @@ Loven træder i kraft dagen efter bekendtgørelsen i Lovtidende.
 
 Loven gælder ikke for Færøerne eller Grønland, men kan ved kgl. anordning sættes helt eller delvist i kraft for Færøerne og Grønland med de afvigelser, som de særlige færøske og grønlandske forhold tilsiger.
 
-Lov nr. 352 af 19. maj 2004 om ændring af straffeloven, retsplejeloven, markedsføringsloven og ophavsretsloven ( It-kriminalitet m.v.), indeholder følgende ikrafttrædelsesbestemmelser m.v.:
+Lov nr. 352 af 19. maj 2004 om ændring af straffeloven, retsplejeloven, markedsføringsloven og ophavsretsloven (It-kriminalitet m.v.), indeholder følgende ikrafttrædelsesbestemmelser m.v.:
 
 § 5
 
@@ -78,7 +78,7 @@ Stk. 2. (Udeladt)
 
 Stk. 3. Lovens § 4 kan ved kongelig anordning helt eller delvis sættes i kraft for Færøerne eller Grønland med de afvigelser, som de særlige færøske eller grønlandske forhold tilsiger.
 
-Lov nr. 1440 af 22. december 2004 om ændring af ophavsretsloven (arkiver, biblioteker og museer samt syns- og læsehandicappede m.v.), indeholder følgende ikrafttrædelsesbestemmelser m.v.:
+Lov nr. 1440 af 22. december 2004 om ændring af ophavsretsloven (Arkiver, biblioteker og museer samt syns- og læsehandicappede m.v.), indeholder følgende ikrafttrædelsesbestemmelser m.v.:
 
 § 2
 
@@ -90,7 +90,7 @@ Stk. 3. Bekendtgørelse nr. 876 af 28. november 1997 ophæves.
 
 § 3
 
-Loven gælder ikke for Færøerne og Grønland, men kan ved kongelig anordning sættes helt eller delvis i kraft for Færøerne og Grønland med de afvigelser, som den særlige færøske og grønlandske forhold tilsiger.
+Loven gælder ikke for Færøerne og Grønland, men kan ved kongelig anordning sættes helt eller delvis i kraft for Færøerne og Grønland med de afvigelser, som de særlige færøske og grønlandske forhold tilsiger.
 
 Lov nr. 1402 af 21. december 2005 om ændring af ophavsretsloven (Følgeretsvederlag) indeholder følgende ikrafttrædelsesbestemmelser m.v.:
 
@@ -127,6 +127,18 @@ Lov nr. 569 af 9. juni 2006 om ændring af ophavsretsloven (Tekniske foranstaltn
 § 2
 
 Loven træder i kraft dagen efter bekendtgørelsen i Lovtidende.
+
+§ 3
+
+Loven gælder ikke for Færøerne eller Grønland, men kan ved kongelig anordning sættes helt eller delvis i kraft for Færøerne og Grønland med de afvigelser, som de særlige færøske og grønlandske forhold tilsiger.
+
+Lov nr. 231 af 8. april 2008 om ændring af ophavsretsloven (Overdragelse af ophavsret, digitalisering af kulturarven m.v.) indeholder følgende ikrafttrædelsesbestemmelse m.v.:
+
+§ 2
+
+Stk. 1. Loven træder i kraft den 1. juli 2008.
+
+Stk. 2. § 1, nr. 17 og 18, finder alene anvendelse på aftaler, der indgås eller forlænges efter lovens ikrafttræden.
 
 § 3
 
