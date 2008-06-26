@@ -108,34 +108,16 @@
 
 55) Ikrafttrædelsesbestemmelsens stk. 5 vedrører §§ 116 og 117.
 
-56) Lovændringen vedrører § 747, § 770 b, stk. 2, § 770 c, § 770 d, stk. 1 og 3, § 770 e, 2. pkt., § 781, stk. 1, nr. 3, og § 791 a, stk. 3, nr. 3.
+56) Lovændringen vedrører § 225, stk. 3, 2. pkt., § 226, stk. 2-4, § 227, stk. 2, § 249, stk. 2-3., § 254, stk. 1, 1. pkt., og stk. 2, kapitel 23 a, § 378, stk. 4, § 400, stk. 3, og § 696, 1. pkt.
 
-57) Lovændringen vedrører § 247.
+57) Lovændringen vedrører § 32, stk. 1, 2. og 5. pkt., § 32, stk. 3, § 32 b, stk. 1, § 151, § 477 a, stk. 2, § 477, stk. 1 og 3, nr. 3 og 4, og stk. 4, nr. 1, § 477 c, stk. 1 og 3, § 477 d, stk. 1 og 3, § 501, stk. 3. nr. 4, § 785, stk. 2, § 968, stk. 3, overskriften til fjerde bog, ottende afsnit, overskriften til kapitel 92, § 1015 og § 1016.
 
-58) Ved bekendtgørelse nr. 415 af 8. maj 2007 er det bestemt, at ændringen træder i kraft den 1. juli 2007.
+58) Lovændringen vedrører § 119, stk. 2, nr. 3-5, og stk. 3-6, § 122, stk. 2, § 123, § 124, § 126, stk.3 og 5, § 127 a, stk. 2, § 129, § 132, § 133, stk. 3-5, § 135, stk. 1, § 135 a, § 136, stk. 3, § 143, stk. 1 og 3-5, § 144, § 145, stk. 1 og 2, § 146, § 147, § 147 a, § 147 b, stk. 1 og 2, § 147 c, stk. 1-2 og 4-6, § 147 d, stk. 1 og 3, § 147 e, § 147 f, stk. 1, § 260, § 267 a - § 267 d, § 316, stk. 1, 2. pkt., § 327, stk. 1, nr. 3, § 361, stk. 5, og § 408, stk. 2.
 
-59) Lovændringen vedrører § 159 a.
+59) Lovændringen vedrører § 361, stk. 4, § 490, stk. 3, og § 527.
 
-60) Ved bekendtgørelse nr. 416 af 8. maj 2007 er det bestemt, at ændringen træder i kraft den 1. juli 2007.
+60) Lovændringen vedrører § 33 a.
 
-61) Lovændringen vedrører § 538 a, stk. 1, 2. pkt., og § 557.
+61) Bekendtgjort i Lovtidende den 13. februar 2008.
 
-62) Lovændringen vedrører § 225, stk. 3, 2. pkt., § 226, stk. 2-4, § 227, stk. 2, § 249, stk. 2-3., § 254, stk. 1, 1. pkt., og stk. 2, kapitel 23 a, § 378, stk. 4, § 400, stk. 3, og § 696, 1. pkt.
-
-63) Lovændringen vedrører § 808 a.
-
-64) Bekendtgjort i Lovtidende den 2. maj 2007.
-
-65) Lovændringen vedrører § 327, stk. 1, nr. 1, § 448, nr. 2 og 3, § 448 a, stk. 1, § 448 e, § 448 f, § 448 g, § 450, stk. 2, § 450 a, § 450 b, § 450 c, § 450 d, § 451, 1. pkt., § 455, stk. 1, § 478, stk. 1, nr. 3, § 488, stk. 2, kapitel 48 a og § 596, stk. 2, 2. pkt.
-
-66) Lovændringen vedrører § 29 e, 2. pkt., § 32 b, stk. 1, § 193, § 219 a, stk. 7, § 724, stk. 1, overskriften til kapitel 66 a, § 741 a, stk. 4-6, § 741 b, stk. 1, 1. pkt., § 741 c, stk. 4 og 5, § 741 d, § 741 e, § 741 f, § 749, stk. 3, og § 845.
-
-67) Lovændringen vedrører § 32, stk. 1, 2. og 5. pkt., § 32, stk. 3, § 32 b, stk. 1, § 151, § 477 a, stk. 2, § 477, stk. 1 og 3, nr. 3 og 4, og stk. 4, nr. 1, § 477 c, stk. 1 og 3, § 477 d, stk. 1 og 3, § 501, stk. 3. nr. 4, § 785, stk. 2, § 968, stk. 3, overskriften til fjerde bog, ottende afsnit, overskriften til kapitel 92, § 1015 og § 1016.
-
-68) Lovændringen vedrører § 119, stk. 2, nr. 3-5, og stk. 3-6, § 122, stk. 2, § 123, § 124, § 126, stk.3 og 5, § 127 a, stk. 2, § 129, § 132, § 133, stk. 3-5, § 135, stk. 1, § 135 a, § 136, stk. 3, § 143, stk. 1 og 3-5, § 144, § 145, stk. 1 og 2, § 146, § 147, § 147 a, § 147 b, stk. 1 og 2, § 147 c, stk. 1-2 og 4-6, § 147 d, stk. 1 og 3, § 147 e, § 147 f, stk. 1, § 260, § 267 a - § 267 d, § 316, stk. 1, 2. pkt., § 327, stk. 1, nr. 3, § 361, stk. 5, og § 408, stk. 2.
-
-69) Lovændringen vedrører § 361, stk. 4, § 490, stk. 3, og § 527.
-
-70) Lovændringen vedrører § 792 a, stk. 2, nr. 1.
-
-71) Lovændringen vedrører § 105, stk. 4.
+62) Lovændringen vedrører § 32, stk. 4, 2. pkt. § 32, stk. 5, 2. pkt., § 41 d, stk. 2-5, § 44 b, stk. 1, § 170, stk. 1 og 2, kapitel 27, § 353, stk. 1, nr. 18-20, § 393, stk. 4, 2. pkt., og § 581.
