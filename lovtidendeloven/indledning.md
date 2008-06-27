@@ -1,5 +1,3 @@
 Bekendtgørelse af lov om udgivelsen af en Lovtidende og en Ministerialtidende
 
-(Lovtidendeloven)
-
-Herved bekendtgøres lov om udgivelsen af en Lovtidende og en Ministerialtidende, jf. lovbekendtgørelse nr. 617 af 15. september 1986 som ændret ved § 15 i lov nr. 396 af 13. juni 1990.
+Herved bekendtgøres lov om udgivelsen af en Lovtidende og en Ministerialtidende, jf. lovbekendtgørelse nr. 842 af 16. december 1991, med de ændringer, der følger af § 7 i lov nr. 552 af 24. juni 2005 og lov nr. 305 af 19. april 2006.
