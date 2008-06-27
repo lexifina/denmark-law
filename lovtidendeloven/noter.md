@@ -1,0 +1,1 @@
+1) Lov nr. 305 af 19. april 2006 trådte i kraft den 1. januar 2008, jf. bekendtgørelse nr. 1394 af 12. december 2007 om ikrafttræden af lov om ændring af lov om udgivelsen af en Lovtidende og en Ministerialtidende (Lovtidende i elektronisk form).
