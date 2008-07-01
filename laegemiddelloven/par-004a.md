@@ -1,0 +1,1 @@
+§ 4 a. Uanset § 3, stk. 1, og § 4, stk. 2, finder loven ikke anvendelse på lægemidler til avanceret terapi, der fremstilles på et hospital i Danmark specielt tilpasset en bestemt patient efter individuel anvisning af en læge.

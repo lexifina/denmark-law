@@ -1,0 +1,1 @@
+§ 46 a. Sundhedsstyrelsen kan kræve, at forhandling og udlevering af et lægemiddel, der ikke er omfattet af en markedsføringstilladelse, jf. § 7, eller andre tilladelser til salg eller udlevering af lægemidler, jf. §§ 29-32, bringes til ophør, og kan påbyde, at det trækkes tilbage fra markedet.
