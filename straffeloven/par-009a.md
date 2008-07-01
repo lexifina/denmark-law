@@ -1,0 +1,1 @@
+§ 9 a. En lovovertrædelse, der vedrører tekst-, lyd- eller billedmateriale m.v., som ved handlinger i udlandet er gjort alment tilgængeligt her i landet gennem internettet eller et lignende system til spredning af information, anses for begået i den danske stat, hvis materialet har særlig relation her til landet.
