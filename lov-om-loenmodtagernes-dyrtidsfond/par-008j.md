@@ -1,1 +1,1 @@
-§ 8 j. Årsrapporten skal revideres af Lønmodtagernes Dyrtidsfonds eksterne revisorer, jf. § 9. Revisionen omfatter ikke de supplerende beretninger, som indgår i årsrapporten, jf. § 8 g.
+§ 8 j. Årsrapporten skal revideres af Lønmodtagernes Dyrtidsfonds eksterne revisorer, jf. § 9. Revisionen omfatter ikke ledelsesberetningen og de supplerende beretninger, som indgår i årsrapporten, jf. § 8 g. Revisor skal dog afgive en udtalelse om, hvorvidt oplysningerne i ledelsesberetningen er i overensstemmelse med årsregnskabet og et eventuelt koncernregnskab.
