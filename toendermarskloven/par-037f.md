@@ -1,0 +1,3 @@
+§ 37 f. Hvis der foreligger en miljøskade eller en overhængende fare for en miljøskade, som skal behandles efter miljøskadeloven, træffer kommunalbestyrelsen afgørelse herom.
+
+Stk. 2. Miljøministeren kan fastsætte regler om, at kommunalbestyrelsen skal forelægge et udkast til afgørelse efter stk. 1 med henblik på at indhente en bindende udtalelse fra miljøministeren om, hvorvidt der foreligger en miljøskade eller en overhængende fare for en miljøskade, som skal behandles efter miljøskadeloven. Miljøministeren kan desuden fastsætte regler om, at den bindende udtalelse først kan påklages som led i en klage over en afgørelse efter miljøskadelovens kapitel 2 eller 3.

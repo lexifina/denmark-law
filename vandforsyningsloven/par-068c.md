@@ -1,0 +1,3 @@
+§ 68 c. Hvis det skal undersøges, om der foreligger en miljøskade eller en overhængende fare for en miljøskade, kan påbud efter § 67 meddeles, uanset om den ansvarlige for driften har rådighed over ejendommen, hvor der er påvist en påvirkning af vandmiljøet eller naturen. I påbuddet skal der fastsættes en pligt til retablering af ejendommen.
+
+Stk. 2. Hvis den ansvarlige for driften ikke har rådighed over ejendommen, kan kommunalbestyrelsen meddele den, der har rådighed over ejendommen, påbud om at tåle, at undersøgelser gennemføres ved den ansvarlige for driften. Påbuddet er bindende over for den, der til enhver tid har rådighed over ejendommen.

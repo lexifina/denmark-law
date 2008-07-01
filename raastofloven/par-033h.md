@@ -1,0 +1,1 @@
+§ 33 h. Hvis der foreligger en miljøskade, som påvirker eller kan påvirke et andet EU-land, træffer tilsynsmyndigheden afgørelse herom, uanset at der ikke efter § 33 g kan træffes afgørelse om, hvem der er ansvarlig for miljøskaden.

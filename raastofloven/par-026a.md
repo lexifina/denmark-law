@@ -20,4 +20,6 @@
 
 Stk. 2. Afgørelse af, om en indvinding, jf. § 23, stk. 1, må antages at kunne påvirke miljøet i væsentlig grad, og tilladelse i henhold til § 20, stk. 1, til en sådan indvinding kan tillige påklages af lokale foreninger og organisationer, hvis hovedformål er beskyttelse af natur og miljø.
 
-Stk. 3. Ved klage efter stk. 1, nr. 5 og 6, kan Naturklagenævnet kræve, at foreningerne eller organisationerne dokumenterer deres klageberettigelse ved indsendelse af vedtægter eller på anden måde.
+Stk. 3. Afgørelser efter kapitel 7 a kan påklages af den kreds af klageberettigede, som er nævnt i stk. 1, nr. 1, 4-6 og 9.
+
+Stk. 4. Ved klage efter stk. 1, nr. 5 og 6, jf. stk. 3, kan Naturklagenævnet kræve, at foreningerne eller organisationerne dokumenterer deres klageberettigelse ved indsendelse af vedtægter eller på anden måde.
