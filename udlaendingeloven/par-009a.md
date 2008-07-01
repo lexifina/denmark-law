@@ -1,40 +1,40 @@
-§ 9 a. Der kan efter ansøgning gives opholdstilladelse til en udlænding, hvis væsentlige beskæftigelsesmæssige eller erhvervsmæssige hensyn taler for at imødekomme ansøgningen, herunder hvis udlændingen har indgået aftale eller fået tilbud om ansættelse enten inden for et fagområde, hvor der er mangel på særligt kvalificeret arbejdskraft, eller hvor ansættelsen indebærer en årlig aflønning på mindst 450.000 kr. Det i 1. pkt. angivne beløb er fastsat i 2007-niveau og reguleres fra og med 2008 én gang årligt den 1. januar efter satsreguleringsprocenten, jf. lov om en satsreguleringsprocent. For arbejdstagere, der er statsborgere i Estland, Letland, Litauen, Polen, Slovakiet, Slovenien, Tjekkiet og Ungarn, finder 1. pkt. alene anvendelse, hvis der ikke kan gives de pågældende opholdstilladelse i medfør af stk. 5.
+§ 9 a. Der kan gives opholdstilladelse til en udlænding på grundlag af beskæftigelse eller selvstændig erhvervsvirksomhed, jf. stk. 2. For arbejdstagere, der er statsborgere i Bulgarien, Estland, Letland, Litauen, Polen, Rumænien, Slovakiet, Slovenien, Tjekkiet og Ungarn, finder 1. pkt. alene anvendelse, hvis de pågældende ikke er omfattet af stk. 5 eller 6.
 
-Stk. 2. Der kan efter ansøgning gives opholdstilladelse til en udlænding, hvis opholdstilladelse efter §§ 7-9 eller 9 b-9 e nægtes forlænget efter § 11, stk. 2, jf. § 19, stk. 1, eller inddrages efter § 19, stk. 1, når udlændingen er i et fast ansættelsesforhold af længere varighed eller gennem en længere periode har drevet selvstændig erhvervsvirksomhed, og beskæftigelsesmæssige eller erhvervsmæssige hensyn taler derfor.
+Stk. 2. Der kan efter ansøgning gives opholdstilladelse til en udlænding,
 
-Stk. 3. Opholdstilladelse efter stk. 1 skal være opnået inden indrejsen. Efter indrejsen kan ansøgning herom ikke indgives, behandles eller tillægges opsættende virkning her i landet, medmindre særlige grunde taler derfor.
+1) der på baggrund af et af ministeren for flygtninge, indvandrere og integration fastsat pointsystem mindst har opnået et bestemt antal point (greencardordningen), jf. stk. 15,
 
-Stk. 4. Ansøgning om opholdstilladelse efter stk. 2 kan kun indgives af en udlænding, der opholder sig her i landet. Ansøgninger, der indgives senere end 7 dage efter, at der er truffet endelig afgørelse om nægtelse af forlængelse eller om inddragelse af udlændingens opholdstilladelse efter §§ 7-9 eller 9 b-9 e, kan ikke behandles eller tillægges opsættende virkning her i landet, medmindre ganske særlige grunde taler derfor.
+2) der har indgået aftale eller fået tilbud om ansættelse inden for et fagområde, hvor der er mangel på kvalificeret arbejdskraft (positivlisten),
 
-Stk. 5. Der kan efter ansøgning gives opholdstilladelse til en udlænding, der er statsborger i Estland, Letland, Litauen, Polen, Slovakiet, Slovenien, Tjekkiet eller Ungarn,
+3) der har indgået aftale eller fået tilbud om ansættelse inden for et fagområde, hvor ansættelsen indebærer en årlig aflønning på et af ministeren for flygtninge, indvandrere og integration fastsat mindstebeløb (beløbsordningen),
 
-1) hvis den pågældende har indgået aftale eller fået tilbud om ordinær beskæftigelse mindst 30 timer om ugen hos en herværende arbejdsgiver i henhold til en hos arbejdsgiveren gældende dansk overenskomst, der vedrører det pågældende arbejde, og hvor der som aftalepart på lønmodtagersiden mindst er tale om en lokal fagforening, som er medlem af en landsdækkende lønmodtagerorganisation,
+4) der er ansat i en international koncern med afdeling i Danmark (koncernopholdstilladelse),
 
-2) hvis den pågældende på et arbejdsområde, hvor løn- og ansættelsesvilkårene sædvanligvis alene er reguleret i en individuel ansættelseskontrakt, har indgået aftale eller fået tilbud om ordinær beskæftigelse mindst 30 timer om ugen hos en herværende arbejdsgiver som forsker, underviser, funktionær i en ledende stilling eller specialist m.v., eller
+5) hvis opholdstilladelse efter §§ 7-9 eller 9 b-9 e nægtes forlænget efter § 11, stk. 2, jf. § 19, stk. 1, eller inddrages efter § 19, stk. 1, når udlændingen er i et fast ansættelsesforhold af længere varighed eller gennem en længere periode har drevet selvstændig erhvervsvirksomhed og beskæftigelsesmæssige eller erhvervsmæssige hensyn taler derfor (arbejdsmarkedstilknytning), eller
 
-3) hvis den pågældende uden for de i nr. 1 og 2 nævnte tilfælde har indgået aftale eller fået tilbud om ordinær beskæftigelse mindst 30 timer om ugen hos en herværende arbejdsgiver på sædvanlige løn- og ansættelsesvilkår.
+6) hvis væsentlige beskæftigelsesmæssige eller erhvervsmæssige hensyn i øvrigt taler for at imødekomme ansøgningen.
 
-Stk. 6. Opholdstilladelse efter stk. 5 skal betinges af, at den herværende arbejdsgiver er registreret hos told- og skatteforvaltningen som indeholdelsespligtig efter kildeskatteloven. Udlændingeservice kan indhente oplysning herom fra told- og skatteforvaltningen. Oplysningerne kan indhentes i elektronisk form.
+Stk. 3. Opholdstilladelse efter stk. 2 skal betinges af, at udlændingen og personer, der meddeles opholdstilladelse som følg af familiemæssig tilknytning til udlændingen, ikke modtager hjælp efter lov om aktiv socialpolitik. Opholdstilladelse efter stk. 2, nr. 1, skal endvidere betinges af, at udlændingens forsørgelse og forsørgelsen af personer, der meddeles opholdstilladelse som følge af familiemæssig tilknytning til udlændingen, er sikret gennem egne midler det første år af opholdet her i landet.
 
-Stk. 7. Opholdstilladelse efter stk. 5 kan ikke gives, såfremt den herværende arbejdsgiver er omfattet af strejke, lockout eller blokade. Dette gælder dog ikke, hvis konflikten er kendt overenskomststridig eller på anden måde retsstridig.
+Stk. 4. Ansøgning om opholdstilladelse efter stk. 2, nr. 1-4 og 6, kan indgives, behandles og tillægges opsættende virkning her i landet, hvis udlændingen har lovligt ophold, medmindre særlige grunde taler derimod. Hvis udlændingen ikke har lovligt ophold, kan ansøgning om opholdstilladelse efter stk. 2, nr. 1-4 og 6, ikke indgives, behandles eller tillægges opsættende virkning her i landet, medmindre særlige grunde taler derfor. Ansøgning om opholdstilladelse efter stk. 2, nr. 5, kan kun indgives af en udlænding, der opholder sig her i landet. Ansøgninger om opholdstilladelse efter stk. 2, nr. 5, der indgives senere end 7 dage efter, at der er truffet endelig afgørelse om nægtelse af forlængelse eller om inddragelse af udlændingens opholdstilladelse efter §§ 7-9 eller 9 b-9 e, kan ikke behandles eller tillægges opsættende virkning her i landet, medmindre ganske særlige grunde taler derfor.
 
-Stk. 8. Opholdstilladelse efter stk. 5, nr. 3, skal betinges af, at den indgåede ansættelsesaftale eller det fremsatte ansættelsestilbud indeholder de i § 2, stk. 2, i lov om arbejdsgiverens pligt til at underrette lønmodtageren om vilkårene for ansættelsesforholdet nævnte oplysninger.
+Stk. 5. Der kan udstedes arbejdstilladelse til en udlænding, der er statsborger i Bulgarien, Estland, Letland, Litauen, Polen, Rumænien, Slovakiet, Slovenien, Tjekkiet eller Ungarn, hvis kravene i § 6, stk. 2, ikke er opfyldt og den pågældende har indgået aftale eller fået tilbud om ordinær beskæftigelse hos en herværende arbejdsgiver, der ikke har indgået en gældende dansk overenskomst, der vedrører det pågældende arbejde, og hvor der som aftalepart på lønmodtagersiden mindst er tale om en lokal fagforening, som er medlem af en landsdækkende lønmodtagerorganisation. Beskæftigelsen skal være mindst 30 timer om ugen og ske på sædvanlige løn- og ansættelsesvilkår.
 
-Stk. 9. I sager vedrørende opholdstilladelse efter stk. 5, nr. 3, afgiver den herværende arbejdsgiver over for Udlændingeservice erklæring om, hvorvidt løn- og ansættelsesvilkårene er sædvanlige, og om, hvorvidt de i stk. 8 nævnte oplysninger er indeholdt i ansættelsesaftalen eller -tilbuddet.
+Stk. 6. Der kan udstedes arbejdstilladelse til en udlænding, der er statsborger i Bulgarien, Estland, Letland, Litauen, Polen, Rumænien, Slovakiet, Slovenien, Tjekkiet eller Ungarn, hvis kravene i § 6, stk. 3, ikke er opfyldt og den pågældende har indgået aftale eller fået tilbud om ordinær beskæftigelse som forsker, underviser, funktionær i en ledende stilling eller specialist m.v. hos en herværende arbejdsgiver, der ikke har indgået en gældende dansk overenskomst, hvor der som aftalepart på lønmodtagersiden mindst er tale om en lokal fagforening, som er medlem af en landsdækkende lønmodtagerorganisation. Beskæftigelsen skal være mindst 30 timer om ugen og være inden for et arbejdsområde, hvor løn- og ansættelsesvilkårene sædvanligvis alene er reguleret i en individuel ansættelseskontrakt.
 
-Stk. 10. Det regionale beskæftigelsesråd afgiver efter anmodning fra Udlændingeservice en udtalelse om, hvorvidt de i stk. 1, 2, 5 eller 8 angivne betingelser efter det regionale beskæftigelsesråds opfattelse er opfyldt. Udtalelsen kan indhentes i elektronisk form.
+Stk. 7. Stk. 5 og 6 finder ikke anvendelse, hvis den pågældende udlænding har haft uafbrudt tilknytning til det danske arbejdsmarked i de seneste 12 måneder. I sådanne tilfælde finder EU-reglerne, jf. § 2, stk. 4, anvendelse.
 
-Stk. 11. Hvis en herværende arbejdsgiver har indgået en gældende dansk overenskomst, hvor der som aftalepart på lønmodtagersiden mindst er tale om en lokal fagforening, som er medlem af en landsdækkende lønmodtagerorganisation, jf. stk. 5, nr. 1, kan Udlændingeservice godkende, at arbejdsgiveren ansætter statsborgere fra Estland, Letland, Litauen, Polen, Slovakiet, Slovenien, Tjekkiet eller Ungarn til at udføre nærmere angivne arbejdsfunktioner inden for overenskomstens dækningsområde efter en anmeldelse af ansættelsesforholdet til Udlændingeservice. Stk. 6 og 7 finder tilsvarende anvendelse.
+Stk. 8. Arbejdstilladelse efter stk. 5 og 6 skal betinges af, at den herværende arbejdsgiver er registreret hos told- og skatteforvaltningen som indeholdelsespligtig efter kildeskatteloven. Udlændingeservice kan indhente oplysning herom fra told- og skatteforvaltningen. Oplysningerne kan indhentes i elektronisk form.
 
-Stk. 12. Udlændingeservice kan godkende, at en herværende arbejdsgiver, der har indgået en overenskomst som nævnt i stk. 11, ansætter statsborgere fra Estland, Letland, Litauen, Polen, Slovakiet, Slovenien, Tjekkiet eller Ungarn i stillinger som omhandlet i stk. 5, nr. 2, efter en anmeldelse af ansættelsesforholdet til Udlændingeservice. Det er en betingelse, at virksomheden har dokumenteret, at der er tale om arbejdsfunktioner, som falder inden for de omhandlede stillingskategorier. Stk. 6 og 7 finder tilsvarende anvendelse.
+Stk. 9. Arbejdstilladelse efter stk. 5 skal betinges af, at den indgåede ansættelsesaftale eller det fremsatte ansættelsestilbud indeholder oplysninger, der er nævnt i § 2, stk. 2, i lov om arbejdsgiverens pligt til at underrette lønmodtageren om vilkårene for ansættelsesforholdet.
 
-Stk. 13. En udlænding, der er statsborger i Estland, Letland, Litauen, Polen, Slovakiet, Slovenien, Tjekkiet eller Ungarn, og som har indgået aftale eller fået tilbud om ansættelse under vilkår som nævnt i stk. 5, nr. 1 eller 2, hos en arbejdsgiver godkendt efter stk. 11 eller 12, opnår ved anmeldelse til Udlændingeservice ret til ophold og arbejde i tiden, indtil Udlændingeservice har taget stilling til, om udlændingen kan meddeles opholdstilladelse. Opholdstilladelse skal mod forevisning af legitimation afhentes af udlændingen inden 30 dage efter, at meddelelse om, at udlændingen har opnået opholdstilladelse, er sendt til udlændingen.
+Stk. 10. Arbejdstilladelse efter stk. 5 og 6 kan ikke gives, hvis den herværende arbejdsgiver er omfattet af strejke, lockout eller blokade. Dette gælder dog ikke, hvis konflikten er kendt overenskomststridig eller på anden måde er retsstridig.
 
-Stk. 14. En anmeldelse efter stk. 13 skal underskrives af arbejdsgiver og arbejdstager og indeholde oplysninger som nævnt i stk. 16, nr. 1-5.
+Stk. 11. I sager vedrørende arbejdstilladelse efter stk. 5 afgiver den herværende arbejdsgiver over for Udlændingeservice erklæring om, hvorvidt løn- og ansættelsesvilkårene er sædvanlige, og om, hvorvidt de oplysninger, der er nævnt i stk. 9, er indeholdt i ansættelsesaftalen eller -tilbuddet.
 
-Stk. 15. Udlændingeservice kan inddrage en godkendelse meddelt efter stk. 11 eller 12, hvis godkendelsen er opnået ved svig, hvis betingelserne for godkendelsen ikke længere er til stede, eller hvis vilkårene for godkendelsen ikke overholdes. Udlændingeservice kan til brug for en afgørelse efter 1. pkt. indhente en udtalelse fra det regionale arbejdsmarkedsråd. Udtalelsen kan indhentes i elektronisk form.
+Stk. 12. Det regionale beskæftigelsesråd afgiver efter anmodning fra Udlændingeservice en udtalelse om, hvorvidt betingelserne i stk. 2, nr. 2-6, eller stk. 5, 6 eller 9 er opfyldt. Udtalelsen kan indhentes i elektronisk form.
 
-Stk. 16. Udlændingeservice videregiver uden udlændingens samtykke oplysning om meddelelse af opholdstilladelse efter stk. 5 og 13 til det regionale arbejdsmarkedsråd. Udlændingeservice kan i den forbindelse, herunder i elektronisk form, videregive følgende oplysninger:
+Stk. 13. Udlændingeservice videregiver uden udlændingens samtykke oplysning om udstedelse af arbejdstilladelse efter stk. 5 og 6 til det regionale beskæftigelsesråd. Udlændingeservice kan i den forbindelse, herunder i elektronisk form, videregive følgende oplysninger:
 
 1) Lønmodtagerens navn.
 
@@ -44,10 +44,22 @@ Stk. 16. Udlændingeservice videregiver uden udlændingens samtykke oplysning om
 
 4) Ansættelsesforholdets begyndelsestidspunkt og dets forventede varighed, hvis der ikke er tale om tidsubestemt ansættelse.
 
-5) Den normale daglige eller ugentlige arbejdstid.
+5) Den normale daglige og ugentlige arbejdstid.
 
-Stk. 17. Ministeren for flygtninge, indvandrere og integration kan fastsætte regler om, at de i stk. 11-16 nævnte regler tillige gælder for arbejdsgivere, der ikke har indgået en gældende dansk overenskomst, hvor der som aftalepart på lønmodtagersiden mindst er tale om en lokal fagforening, som er medlem af en landsdækkende lønmodtagerorganisation, jf. stk. 5, nr. 1.
+Stk. 14. Ministeren for flygtninge, indvandrere og integration kan fastsætte regler om, at statsborgere fra Bulgarien, Estland, Letland, Litauen, Polen, Rumænien, Slovakiet, Slovenien, Tjekkiet og Ungarn har ret til ophold og arbejde i tiden, indtil Udlændingeservice har truffet afgørelse om, hvorvidt udlændingen kan meddeles arbejdstilladelse efter stk. 5 eller 6. Det er et krav, at Udlændingeservice har godkendt, at den herværende arbejdsgiver ansætter statsborgere fra disse lande efter en anmeldelse af ansættelsesforholdet til Udlændingeservice.
 
-Stk. 18. Ministeren for flygtninge, indvandrere og integration kan fastsætte regler om, at statsborgere fra Estland, Letland, Litauen, Polen, Slovakiet, Slovenien, Tjekkiet eller Ungarn på særlige områder er fritaget for krav om opholds- og arbejdstilladelse som nævnt i stk. 5.
+Stk. 15. Ministeren for flygtninge, indvandrere og integration fastsætter nærmere regler om en greencardordning, herunder pointsystemet.
 
-Stk. 19. Stk. 5-18 finder tilsvarende anvendelse for statsborgere fra Bulgarien og Rumænien.
+Stk. 16. En udlænding, der har opholdstilladelse efter stk. 2, nr. 2-4 og 6, og som har indgået aftale eller fået tilbud om et nyt ansættelsesforhold, kan efter indgivelse af ansøgning om opholdstilladelse i medfør af det nye ansættelsesforhold opholde sig her i landet og arbejde i tiden, indtil der er taget stilling til, om udlændingen kan meddeles opholdstilladelse. Ansøgning om ny opholdstilladelse skal indgives senest på det tidspunkt, hvor udlændingen påbegynder nyt arbejde.
+
+Stk. 17. En udlænding, der har opholdstilladelse efter stk. 2, nr. 2 eller 3, og som bliver uforskyldt ledig, kan gives opholdstilladelse i op til 6 måneder fra ansættelsens ophør med henblik på at søge nyt arbejde. Udlændingen skal senest umiddelbart efter, at udlændingens ansættelsesforhold er ophørt, indgive ansøgning herom. Stk. 3 og 16 finder tilsvarende anvendelse.
+
+Stk. 18. En opholdstilladelse efter stk. 2, nr. 1, kan forlænges, hvis udlændingen
+
+1) er i fast beskæftigelse af et vist omfang på tidspunktet for afgørelse om forlængelse eller
+
+2) har været i fast beskæftigelse af et vist omfang og er blevet uforskyldt ledig i indtil 3 måneder før tidspunktet for indgivelse af ansøgning om forlængelse.
+
+Stk. 19. En opholdstilladelse efter stk. 2, nr. 2, kan forlænges, uanset at fagområdet på tidspunktet for afgørelse om forlængelse ikke er omfattet af positivlisten, hvis udlændingen er i samme ansættelsesforhold, som lå til grund for meddelelse af opholdstilladelsen.
+
+Stk. 20. En opholdstilladelse efter stk. 2, nr. 3, kan forlænges, uanset at den årlige aflønning ikke opfylder mindstebeløbet på tidspunktet for afgørelse om forlængelse, hvis udlændingen er i samme ansættelsesforhold og den årlige aflønning fortsat opfylder den beløbsgrænse, som lå til grund for meddelelse af opholdstilladelsen.
