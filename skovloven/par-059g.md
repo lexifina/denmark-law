@@ -1,0 +1,1 @@
+§ 59 g. Hvis der foreligger en miljøskade, som påvirker eller kan påvirke et andet EU-land, træffer miljøministeren afgørelse herom, uanset at der ikke efter § 59 f kan træffes afgørelse om, hvem der er ansvarlig for miljøskaden.

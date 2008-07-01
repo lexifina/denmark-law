@@ -1,0 +1,3 @@
+§ 33 e. Påbud efter § 33 d kan meddeles, uanset om den ansvarlige for driften har rådighed over den ejendom eller det indvindingsmateriel, hvor der er påvist en påvirkning af naturen eller miljøet. I påbuddet skal der fastsættes en pligt til retablering af ejendommen eller indvindingsmateriellet.
+
+Stk. 2. Hvis den ansvarlige for driften ikke har rådighed over ejendommen eller indvindingsmateriellet, kan tilsynsmyndigheden meddele den, der har rådighed over ejendommen eller indvindingsmateriellet, påbud om at tåle, at undersøgelser m.v. gennemføres ved den ansvarlige for driften. Påbuddet er bindende over for den, der til enhver tid har rådighed over ejendommen eller indvindingsmateriellet.
