@@ -1,1 +1,3 @@
 § 44 e. Kommunalbestyrelsen indberetter til Udlændingeservice, hvis en udlænding, der er meddelt opholdstilladelse efter § 9 c, stk. 1, med henblik på at deltage i en uddannelse eller et kursus ved en uddannelsesinstitution her i landet, modtager offentlig hjælp til forsørgelse under sit ophold her i landet. Kommunalbestyrelsens videregivelse af oplysninger efter 1. pkt. kan ske uden udlændingens samtykke.
+
+Stk. 2. Kommunalbestyrelsen indberetter til Udlændingeservice, hvis en udlænding, der er meddelt opholdstilladelse efter § 9 a, stk. 2, eller personer, der er meddelt opholdstilladelse som følge af familiemæssig tilknytning til udlændingen, modtager hjælp efter lov om aktiv socialpolitik. Kommunalbestyrelsen oplyser Udlændingeservice om omfanget af hjælpen.
