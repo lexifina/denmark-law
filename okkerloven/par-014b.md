@@ -1,0 +1,1 @@
+§ 14 b. Miljøministeren fastsætter med henblik på gennemførelse af Det Europæiske Fællesskabs direktiver og beslutninger på naturbeskyttelsesområdet regler om, i hvilke tilfælde og på hvilke vilkår godkendelse efter §§ 2 og 3 kan meddeles.
