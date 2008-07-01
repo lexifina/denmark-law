@@ -1,0 +1,1 @@
+§ 62 a. Miljøministeren fastsætter med henblik på opfyldelse af Det Europæiske Fællesskabs direktiver og beslutninger på naturbeskyttelsesområdet regler om, i hvilke tilfælde og på hvilke vilkår tilladelser efter § 8, stk. 1 og 2, og dispensationer efter § 52, stk. 2, meddeles.
