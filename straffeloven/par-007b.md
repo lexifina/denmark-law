@@ -1,0 +1,1 @@
+§ 7 b. Når dansk straffemyndighed over for en juridisk person er betinget af dobbelt strafbarhed, omfatter det ikke et krav om, at lovgivningen på gerningsstedet hjemler strafansvar for en juridisk person.

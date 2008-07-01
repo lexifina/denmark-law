@@ -1,1 +1,1 @@
-§ 10 b. Sker der strafforfølgning mod en person, som i en anden stat er pålagt en sanktion for samme handling, skal der, i det omfang denne sanktion er fuldbyrdet, ske en tilsvarende nedsættelse af den sanktion, der pålægges her i landet.
+§ 10 b. Sker der retsforfølgning mod en person, som uden for den danske stat er pålagt en sanktion for samme handling, skal den sanktion, der pålægges her i landet, nedsættes, i det omfang den udenlandske sanktion er fuldbyrdet.

@@ -10,4 +10,4 @@ Stk. 3. Forbuddet i stk. 1 omfatter ikke
 
 Stk. 4. Justitsministeren kan dispensere fra forbuddet i stk. 1.
 
-Stk. 5. Uanset bestemmelserne i straffelovens §§ 6-9 hører overtrædelse af forbuddet i stk. 1 dog under dansk straffemyndighed, hvis handlingen er foretaget af en person, der på gerningstidspunktet havde dansk indfødsret eller var bosat i den danske stat, selv om handlingen ikke er strafbar efter lovgivningen i det pågældende statsområde.
+Stk. 5. Uanset bestemmelserne i straffelovens §§ 6-9hører overtrædelse af forbuddet i stk. 1 dog under dansk straffemyndighed, hvis handlingen er foretaget af en person, der på gerningstidspunktet havde dansk indfødsret, var bosat i den danske stat eller havde lignende fast ophold her i landet, selv om handlingen ikke er strafbar efter lovgivningen i det pågældende statsområde.
