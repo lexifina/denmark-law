@@ -1,0 +1,1 @@
+§ 921 a. Den indankede dom oplæses ved hovedforhandlingens begyndelse, medmindre retten finder det mere hensigtsmæssigt, at anklageren i stedet helt eller delvis redegør for den påankede doms indhold, eller at retten gør sig bekendt med dommens indhold på anden måde.
