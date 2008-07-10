@@ -1,7 +1,5 @@
-INDENRIGSMINISTERIET, DEN 21 JULI 1969.
+Ministeriet for Sundhed og Forebyggelse, den 1. juli 2008
 
-H.C. Toft.
+Jakob Axel Nielsen
 
-/J. Mandrup-Christensen,
-
-Ingen
+/ Lars Petersen
