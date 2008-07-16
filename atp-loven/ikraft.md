@@ -332,9 +332,9 @@ Lov nr. 1032 af 17. december 2002, som ændrer lovens §§ 2 b og 28 samt ophæv
 
 § 7
 
-Stk. 1. Loven træder i kraft den 1. januar 2003 og har virkning første gang for de kompensationsbeløb, der skulle have været udbetalt på grundlag af ATP-bidrag, der er modtaget i perioden 23. februar  22. maj 2003.
+Stk. 1. Loven træder i kraft den 1. januar 2003 og har virkning første gang for de kompensationsbeløb, der skulle have været udbetalt på grundlag af ATP-bidrag, der er modtaget i perioden 23. februar – 22. maj 2003.
 
-Stk. 2. ATPs Ankenævn kan efter de hidtidige regler behandle sager om beregning og udbetaling af kompensationsbeløb efter § 17 a.
+Stk. 2. ATP’s Ankenævn kan efter de hidtidige regler behandle sager om beregning og udbetaling af kompensationsbeløb efter § 17 a.
 
 Lov nr. 1066 af 17. december 2002, som ændrer lovens § 2 a, indeholder følgende ikrafttrædelsesbestemmelse:
 
@@ -350,7 +350,7 @@ Stk. 1. Loven træder i kraft den 1. juli 2003, ---
 
 Stk. 2. ---
 
-Lov nr. 421 af 10. juni 2003, som ændrer lovens kapitel 5c, 5d, § 23, § 26 a og § 29 indeholder følgende ikrafttrædelsesbetemmelser :
+Lov nr. 421 af 10. juni 2003, som ændrer lovens kapitel 5c, 5d, § 23, § 26 a og § 29 indeholder følgende ikrafttrædelsesbetemmelser:
 
 § 7
 
@@ -478,7 +478,7 @@ Lov nr. 1059 af 9. november 2005, som ændrer lovens § 4 a og § 17 f, indehold
 
 § 2
 
-Stk. 1. Loven træder i kraft dagen efter bekendtgørelsen i Lovtidende .
+Stk. 1. Loven træder i kraft dagen efter bekendtgørelsen i Lovtidende.
 
 Stk. 2. Ved den opgørelse af en kommunes eller amtskommunes slutskat for kalenderåret 2006, der foretages i henhold til § 16 i lov om kommunal indkomstskat, korrigeres den opgjorte slutskat for den beregnede virkning for slutskatten af de ændringer i kommunernes udskrivningsgrundlag for 2006, der er en følge af denne lovs § 1, nr. 2.
 
@@ -501,3 +501,135 @@ Stk. 1. § 1 træder i kraft den 1. januar 2007.
 Stk. 2. ---
 
 Stk. 3. ---
+
+Lov nr. 1537 af 20. december 2006, som ændrer lovens § 2 a, § 9, § 21, § 23 og § 36, indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 2
+
+Loven træder i kraft den 1. januar 2007, dog træder lovens § 1, nr. 3, først i kraft den 1. januar 2009.
+
+Lov nr. 1587 af 20. december 2006, som ændrer lovens § 2, § 5, § 9, § 15 og § 17 f, § 17 h, § 17 j, § 17 r og § 17 s, indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 19
+
+Stk. 1. Loven træder i kraft den 1. juli 2009, ---
+
+Stk. 2. ---
+
+Stk. 3. ---
+
+Stk. 4. ---
+
+Stk. 5. ---
+
+Stk. 6. ---
+
+Stk. 7. ---
+
+Lov nr. 108 af 7. februar 2007, som ændrer lovens § 17 m, § 26 b, § 26 d, § 26 e, § 27 a og § 32 a, indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 21
+
+Stk. 1. Loven træder i kraft den 1. november 2007, ---
+
+Stk. 2. ---
+
+Stk. 3. ---
+
+Stk. 4. ---
+
+Stk. 5. ---
+
+Stk. 6 .---
+
+Stk. 7. ---
+
+Lov nr. 397 af 30. april 2007, som ændrer lovens § 17 m, § 26 b og § 26 d, indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 6
+
+Stk. 1. Loven træder i kraft den 1. juli 2007, ---
+
+Stk. 2. ---
+
+Lov nr. 523 af 6. juni 2007, som ændrer lovens § 17, indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 47
+
+Loven træder i kraft den 1. januar 2008.
+
+Lov nr. 576 af 6. juni 2007, som ændrer lovens § 23 b, § 26 a, § 26 b, § 26 d, § 26 e, § 26 f og § 32 a, indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 12
+
+Stk. 1. Loven træder i kraft den 1. juli 2007, ---
+
+Stk. 2.---
+
+Stk. 3. ---
+
+Lov nr. 577 af 6. juni 2007, som ændrer lovens § 26 b, indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 12
+
+Stk. 1. Loven træder i kraft den 1. juli 2007, ---
+
+Stk. 2. ---
+
+Stk. 3. ---
+
+Stk. 4. ---
+
+Lov nr. 1235 af 24. oktober 2007, som ændrer lovens § 17 f, indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 14
+
+Stk. 1. Loven træder i kraft dagen efter bekendtgørelsen i Lovtidende og finder anvendelse fra og med indkomståret 2008, jf. dog stk. 2-4.
+
+Stk. 2. For indkomståret 2008 udgør procentsatsen i kildeskattelovens § 5 B, stk. 2, og ligningslovens § 8 M, stk. 2, og § 9 J, stk. 1, 4,0 pct. For indkomståret 2008 udgør grundbeløbet i kildeskattelovens § 5 B, stk. 2, og ligningslovens § 8 M, stk. 2, og § 9 J, stk. 2, 6.950 kr.
+
+Stk. 3. For indkomståret 2008 udgør grundbeløbet i personskattelovens § 10, stk. 1, og i ligningslovens § 9 F, stk. 1, 23.200 kr. For indkomståret 2008 udgør grundbeløbet i personskattelovens § 10, stk. 2, 17.300 kr.
+
+Stk. 4. § 11, nr. 1, har virkning fra og med indkomståret 2009.
+
+Stk. 5. Ved opgørelsen af en kommunes slutskat og kirkeskat for kalenderåret 2008 efter § 16 i lov om kommunal indkomstskat korrigeres den opgjorte slutskat for den beregnede virkning af de ændringer i udskrivningsgrundlaget for kommuneskat og kirkeskat for 2008, der er en følge af
+
+1) suspension af bidraget til Den Særlige Pensionsopsparing i 2008, jf. § 17 f, stk. 1, i lov om Arbejdsmarkedets Tillægspension som ændret ved denne lovs § 2, nr. 2,
+
+2) forhøjelsen af procentsatsen og grundbeløbet (beskæftigelsesfradraget) i 2008, jf. stk. 2,
+
+3) forhøjelsen af grundbeløbene (personfradrag) i 2008, jf. stk. 3, og
+
+4) en beregnet forhøjelse af de overførselsindkomster, der reguleres i henhold til lov om en satsreguleringsprocent, svarende til en forhøjelse af satsreguleringsprocenten med 0,3 procentpoint fra 2007 til 2008.
+
+Stk. 6. Den beregnede korrektion af kommunens og kirkens slutskat efter stk. 5 fastsættes af indenrigs- og sundhedsministeren på grundlag af de oplysninger, der foreligger pr. 1. maj 2010.
+
+Lov nr. 109 af 26. februar 2008, som ændrer lovens § 5, § 8 b, § 8 c, § 9, § 9 a, § 11, § 11 a, § 12, § 13, § 14, § 15, § 16, § 17, § 18 samt bilag A, indeholder følgende ikrafttrædelsesbestemmelser:
+
+§ 2
+
+Loven træder i kraft den 1. marts 2008. § 1, nr. 2, 3 og 9-16, har virkning fra den 1. januar 2008.
+
+§ 3
+
+Stk. 1. Uanset lov om Arbejdsmarkedets Tillægspension § 9, stk. 1, som affattet ved denne lovs § 1, nr. 3, ydes tillægspension i form af egenpension i perioden fra den 1. januar 2008 til den 30. juni 2009 efter anmodning, fra den 1. i måneden efter medlemmet har opnået sin folkepensionsalder, og udbetales månedsvis forud. Uanset lov om social pension § 12 er folkepensionsalderen i relation til beregning af tillægspensionen i perioden fra den 1. januar 2008 til den 30. juni 2009
+
+1) 65 år for medlemmer, der er født før den 1. januar 1959,
+
+2) 65 ½ år for medlemmer, der er født i perioden fra den 1. januar 1959 til den 30. juni 1959,
+
+3) 66 år for medlemmer, der er født i perioden fra den 1. juli 1959 til den 31. december 1959,
+
+4) 66 ½ år for medlemmer, der er født i perioden fra den 1. januar 1960 til den 30. juni 1960, og
+
+5) 67 år for medlemmer, der er født efter den 30. juni 1960.
+
+Stk. 2. Beskæftigelsesministeren fastsætter efter indstilling fra bestyrelsen for Arbejdsmarkedets Tillægspension nærmere regler om konvertering af pensionstilsagn fra det fyldte 67. år til folkepensionsalderen, jf. stk. 1.
+
+Stk. 3. Uanset lov om Arbejdsmarkedets Tillægspension § 9 a, stk. 1, som affattet ved denne lovs § 1, nr. 3, kan udbetaling af tillægspension indtil den 31. december 2008 ikke udskydes til ud over det fyldte 70. år.
+
+Lov nr. 183 af 12. marts 2008, som ændrer lovens § 23, § 26 b, § 26 c og 26 e, indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 2
+
+Loven træder i kraft den 1. april 2008.

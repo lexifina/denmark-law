@@ -1,12 +1,12 @@
-Beskæftigelsesministeriet, den 21. juli 2006
+Beskæftigelsesministeriet, den 8. juli 2008
 
 Claus Hjort Frederiksen
 
-/C. Tjellesen
+/ Lise Fangel
 
 Bilag A
 
-## Pensionsgrundlaget pr. 1. januar 2002
+Pensionsgrundlaget pr. 1. januar 2002-31. december 2007.
 
 For hver 100 kr. bidrag, jf. § 8 b, optjenes følgende pensionsret fra alder 67
 
@@ -64,10 +64,10 @@ fyldt alder | pensionsret v/67 år | fyldt alder | pensionsret v/67 år
 
 41 år | 12,37 kr. | 67 år | 7,15 kr.
 
-Bemærk: Tariffen er baseret på en fælles dødelighed for mænd og kvinder i forholdet M:K = 50:50 Anvendt rentesats, jf. § 8 b, stk. 2, på 2 pct.
+Bemærk: Tariffen er baseret på en fælles dødelighed for mænd og kvinder i forholdet M:K = 50:50
 
 Bilag B
 
-## Følgende lande er omfattet af zone A:
+Følgende lande er omfattet af zone A:
 
 Medlemslandene i EU, andre lande, der er fulde medlemmer af Organisationen for Økonomisk Samarbejde og Udvikling (OECD), samt andre lande, som har indgået særlige låneoverenskomster med Den Internationale Valutafond (IMF) og er tilknyttet Den Almindelige Låneoverenskomst. Et land, der som følge af manglende betalingsevne omlægger sin udenlandske statsgæld, udelukkes fra zone A i en periode på 5 år.

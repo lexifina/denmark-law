@@ -1,3 +1,3 @@
 Bekendtgørelse af lov om Arbejdsmarkedets Tillægspension
 
-Herved bekendtgøres lov om Arbejdsmarkedets Tillægspension, jf. lovbekendtgørelse nr. 887 af 24. august 2004, med de ændringer, der følger af lov nr. 1370 af 20. december 2004, § 10 i lov nr. 1383 af 20. december 2004, § 4 i lov nr. 411 af 1. juni 2005, lov nr. 1059 af 9. november 2005, § 3 i lov nr. 116 af 27. februar 2006 og § 3 i lov nr. 404 af 8. maj 2006.
+Herved bekendtgøres lov om Arbejdsmarkedets Tillægspension, jf. lovbekendtgørelse nr. 848 af 21. juli 2006, med de ændringer, der følger af lov nr. 1537 af 20. december 2006, § 1 i lov nr. 1587 af 20. december 2006, § 8 i lov nr. 108 af 7. februar 2007, § 3 i lov nr. 397 af 30. april 2007, § 20 i lov nr. 523 af 6. juni 2007, § 6 i lov nr. 576 af 6. juni 2007, § 5 i lov nr. 577 af 6. juni 2007, § 2 i lov nr. 1235 af 24. oktober 2007, lov nr. 109 af 26. februar 2008 og lov nr. 183 af 12. marts 2008.
