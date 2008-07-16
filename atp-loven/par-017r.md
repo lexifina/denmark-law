@@ -10,4 +10,4 @@ Stk. 3. Regnskab for forvaltning og administration af de særskilte konti i den 
 
 Stk. 4. Bestyrelsen kan fastsætte et særskilt administrationsgebyr i forbindelse med indbetalinger til den supplerende arbejdsmarkedspension for førtidspensionister.
 
-Stk. 5. Ved dødsfald før det fyldte 65. år udbetales indeståendet på kontoen opgjort efter § 17 h, stk. 5, til dødsboet. Socialministeren fastsætter efter indstilling fra bestyrelsen for Arbejdsmarkedets Tillægspension nærmere regler for udbetaling af beløb til boet.
+Stk. 5. Ved dødsfald før det fyldte 65. år, udbetales indeståendet på kontoen opgjort efter § 17 h, stk. 5, til dødsboet. Socialministeren fastsætter efter indstilling fra bestyrelsen for Arbejdsmarkedets Tillægspension nærmere regler for udbetaling af beløb til boet.
