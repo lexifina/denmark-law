@@ -1,4 +1,4 @@
-§ 25 e. For at de lovpligtige dele af en årsrapport kan give et retvisende billede efter § 25 d, skal reglerne i stk. 2 og 3 opfyldes.
+§ 25 e. For at årsregnskabet og koncernregnskabet kan give et retvisende billede, og for at ledelsesberetningen kan indeholde en retvisende redegørelse, jf. § 25 d, skal reglerne i stk. 2 og 3 opfyldes.
 
 Stk. 2. Årsrapporten skal udarbejdes således, at den støtter regnskabsbrugerne i deres økonomiske beslutninger. De omhandlede regnskabsbrugere er personer, virksomheder, organisationer og offentlige myndigheder m.v., hvis økonomiske beslutninger normalt må forventes at blive påvirket af en årsrapport, herunder medlemmer, kreditorer, medarbejdere, kunder, alliancepartnere, lokalsamfundet samt tilskudsgivende og fiskale myndigheder. De omhandlede beslutninger skal i det mindste vedrøre
 
