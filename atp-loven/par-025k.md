@@ -1,1 +1,1 @@
-§ 25 k. Årsrapporten skal revideres af Arbejdsmarkedets Tillægspensions eksterne revisorer, jf. § 25 p. Revisionen omfatter ikke de supplerende beretninger, som indgår i årsrapporten, jf. § 25 h.
+§ 25 k. Årsrapporten skal revideres af Arbejdsmarkedets Tillægspensions eksterne revisorer, jf. § 25 p. Revisionen omfatter ikke ledelsesberetningen og de supplerende beretninger, som indgår i årsrapporten, jf. § 25 h. Revisor skal dog afgive en udtalelse om, hvorvidt oplysningerne i ledelsesberetningen er i overensstemmelse med årsregnskabet og et eventuelt koncernregnskab.

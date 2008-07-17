@@ -2,9 +2,9 @@
 
 Stk. 2. Et medlem af bestyrelsen og direktøren kan ikke bestride hvervet eller stillingen som henholdsvis bestyrelsesmedlem og direktør i Arbejdsmarkedets Tillægspension, såfremt
 
-1) den pågældende pålægges strafansvar for overtrædelse af straffeloven, lov om Arbejdsmarkedets Tillægspension eller den finansielle lovgivning og denne overtrædelse indebærer risiko for, at hvervet eller stillingen ikke varetages på betryggende vis,
+1) den pågældende er pålagt strafansvar for overtrædelse af straffeloven, lov om Arbejdsmarkedets Tillægspension eller den finansielle lovgivning og denne overtrædelse indebærer risiko for, at hvervet eller stillingen ikke varetages på betryggende vis,
 
-2) den pågældende har anmeldt betalingsstandsning, er under konkurs, har indgivet begæring om gældssanering eller der er indledt forhandlinger om tvangsakkord,
+2) den pågældende har anmeldt betalingsstandsning, indgivet begæring om tvangsakkord, konkurs eller gældssanering, er i betalingsstandsning, under konkursbehandling, gældssanering eller tvangsakkord,
 
 3) den pågældendes økonomiske situation eller selskaber, den pågældende ejer, eller hvori den pågældende deltager i driften, har påført Arbejdsmarkedets Tillægspension tab eller risiko for tab eller
 
