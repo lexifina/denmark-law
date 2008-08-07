@@ -1,5 +1,5 @@
-Ministeriet for Flygtninge, Indvandrere og Integration, den 6. august 2007
+Ministeriet for Flygtninge, Indvandrere og Integration, den 8. juli 2008
 
-Rikke Hvilshøj
+Birthe Rønn Hornbech
 
-/Frederik Gammeltoft
+/ Vibeke Hauberg
