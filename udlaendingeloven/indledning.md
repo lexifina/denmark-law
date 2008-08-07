@@ -1,3 +1,3 @@
 Bekendtgørelse af udlændingeloven
 
-Herved bekendtgøres udlændingeloven jf. lovbekendtgørelse nr. 945 af 1. september 2006 med de ændringer, der følger af lov nr. 523 af 24. juni 2005, lov nr. 542 af 24. juni 2005, lov nr. 554 af 24. juni 2005, lov nr. 301 af 19. april 2006, lov nr. 538 af 8. juni 2006, lov nr. 532 af 8. juni 2006, lov nr. 89 af 30. januar 2007, lov nr. 379 af 25. april 2007 , lov nr. 504 af 6. juni 2007, lov nr. 505 af 6. juni 2007 og lov nr. 507 af 6. juni 2007.
+Herved bekendtgøres udlændingeloven, jf. lovbekendtgørelse nr. 1044 af 6. august 2007 med de ændringer, der følger af lov nr. 264 af 23. april 2008, lov nr. 431 af 1. juni 2008 , lov nr. 485 af 17. juni 2008 og lov nr. 486 af 17. juni 2008.

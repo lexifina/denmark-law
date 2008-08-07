@@ -372,7 +372,7 @@ Lov nr. 532 af 8. juni 2006 indeholder følgende bestemmelse:
 
 Stk. 1. Loven træder i kraft dagen efter bekendtgørelsen i Lovtidende , jf. dog stk. 2.
 
-Stk. 2. Tidspunktet for ikrafttræden af udlændingelovens § 9 a, stk. 19, som indsat ved denne lovs § 1, nr. 4, fastsættes af ministeren for flygtninge, indvandrere og integration . Ministeren for flygtninge, indvandrere og integration kan i den forbindelse bestemme, at alene dele af § 9 a, stk. 5-18, skal finde anvendelse for statsborgere i Bulgarien og Rumænien.
+Stk. 2. Tidspunktet for ikrafttræden af udlændingelovens § 9 a, stk. 19, som indsat ved denne lovs § 1, nr. 4, fastsættes af ministeren for flygtninge, indvandrere og integration. Ministeren for flygtninge, indvandrere og integration kan i den forbindelse bestemme, at alene dele af § 9 a, stk. 5-18, skal finde anvendelse for statsborgere i Bulgarien og Rumænien.
 
 Lov nr. 89 af 30. januar 2007 indeholder følgende bestemmelse:
 
@@ -396,7 +396,7 @@ Lov nr. 379 af 25. april 2007 indeholder følgende bestemmelse:
 
 Stk. 1. Loven træder i kraft den 1. maj 2007, jf. dog stk. 2.
 
-Stk. 2. Tidspunktet for ikrafttræden af udlændingelovens § 9, stk. 2, og § 9 f, stk. 4, som ændret henholdsvis affattet ved denne lovs § 1, nr. 2 og 5, fastsættes af ministeren for flygtninge, indvandrere og integration. Tidspunktet for ikrafttræden af udlændingelovens § 9 a, stk. 20, som affattet ved denne lovs § 1, nr. 4, og tidspunktet for ikrafttræden af udlændingelovens § 33, stk. 3, 1. pkt, som ændret efter denne lovs § 1, nr. 13, fastsættes af ministeren for flygtninge, indvandrere og integration.
+Stk. 2. Tidspunktet for ikrafttræden af udlændingelovens § 9, stk. 2, og § 9 f, stk. 4, som ændret henholdsvis affattet ved denne lovs § 1, nr. 2 og 5, fastsættes af ministeren for flygtninge, indvandrere og integration. Tidspunktet for ikrafttræden af udlændingelovens § 9 a, stk. 20, som affattet ved denne lovs § 1, nr. 4, og tidspunktet for ikrafttræden af udlændingelovens § 33, stk. 3, 1. pkt., som ændret efter denne lovs § 1, nr. 13, fastsættes af ministeren for flygtninge, indvandrere og integration .
 
 Lov nr. 504 af 6. juni 2007 indeholder følgende bestemmelse:
 
@@ -421,3 +421,31 @@ Lov nr. 507 af 6. juni 2007 indeholder følgende bestemmelse:
 Stk. 1. Loven træder i kraft dagen efter bekendtgørelsen i Lovtidende .
 
 Stk. 2. (Udeladt)
+
+Lov nr. 264 af 23. april 2008 indeholder følgende bestemmelse:
+
+§ 2
+
+Stk. 1. Loven træder i kraft den 1. maj 2008.
+
+Lov nr. 431 af 1. juni 2008 indeholder følgende bestemmelse:
+
+§ 2
+
+Stk. 1. Lovens § 1, nr. 1 og 3, træder i kraft dagen efter bekendtgørelsen i Lovtidende .
+
+Stk. 2. Ministeren for flygtninge, indvandrere og integration fastsætter tidspunktet for ikrafttræden af lovens § 1, nr. 2, 4 og 5.
+
+Lov nr. 485 af 17. juni 2008 indeholder følgende bestemmelse:
+
+§ 2
+
+Loven træder i kraft den 1. juli 2008.
+
+Lov nr. 486 af 17. juni 2008 indeholder følgende bestemmelse:
+
+§ 2
+
+Stk. 1. Loven træder i kraft den 1. juli 2008, jf. dog stk. 2.
+
+Stk. 2. Ministeren for flygtninge, indvandrere og integration fastsætter tidspunktet for ikrafttræden af udlændingelovens § 9 a, stk. 2, nr. 1, og stk. 15, som affattet ved denne lovs § 1, nr. 3 og 5 .
