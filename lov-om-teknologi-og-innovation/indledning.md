@@ -1,5 +1,3 @@
-Lov om teknologi og innovation
+Bekendtgørelse af lov om teknologi og innovation
 
-VI MARGRETHE DEN ANDEN, af Guds Nåde Danmarks Dronning, gør vitterligt: Folketinget har vedtaget og Vi ved Vort samtykke stadfæstet følgende lov:
-
-Teknologi og innovationsaktiviteter
+Herved bekendtgøres lov nr. 419 af 6. juni 2002 om teknologi og innovation, med de ændringer, der følger af § 39 i lov nr. 430 af 6. juni 2005, § 48 i lov nr. 431 af 6. juni 2005 og lov nr. 569 af 6. juni 2007.
