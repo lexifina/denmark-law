@@ -1,5 +1,5 @@
-Ministeriet for Videnskab, Teknologi og Udvikling, den 8. oktober 2003
+Ministeriet for Videnskab, Teknologi og Udvikling, den 13. august 2008
 
 Helge Sander
 
-/Jens Peter Jacobsen
+/ Jesper Schamburg-Müller
