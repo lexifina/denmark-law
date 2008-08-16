@@ -1,3 +1,3 @@
-Bekendtgørelse af Lov om Danmarks Grundforskningsfond
+Bekendtgørelse af lov om Danmarks Grundforskningsfond
 
-Herved bekendtgøres lov om Danmarks Grundforskningsfond, jf. lovbekendtgørelse nr. 139 af 23. februar 1998 med de ændringer, som følger af lov nr. 404 af 28. maj 2003.
+Herved bekendtgøres lov om Danmarks Grundforskningsfond, jf. lovbekendtgørelse nr. 876 af 8. oktober 2003, med de ændringer, der følger af lov nr. 553 af 17. juni 2008.
