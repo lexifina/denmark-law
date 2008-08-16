@@ -1,7 +1,5 @@
-Givet på Christiansborg Slot, den 6. juni 2002
+Ministeriet for Videnskab, Teknologi og Udvikling, den 13. august 2008
 
-Under Vor Kongelige Hånd og Segl
+Helge Sander
 
-Margrethe R.
-
-/Helge Sander
+/ Jesper Schaumburg-Müller
