@@ -1,5 +1,3 @@
-Bekendtgørelse af lov om støtte til udvikling af landdistrikterne
+Bekendtgørelse af lov om statsgaranti for lån til yngre jordbrugere m.v.
 
-(landdistriktsstøtteloven)
-
-Herved bekendtgøres lov om støtte til udvikling af landdistrikterne (landdistriktsstøtteloven), jf. lovbekendtgørelse nr. 728 af 29. juni 2004, med de ændringer, der følger af lov nr. 405 af 1. juni 2005, § 96 i lov nr. 428 af 6. juni 2005, §§ 36 og 37 i lov nr. 430 af 6. juni 2005, §§ 42 og 43 i lov nr. 431 af 6. juni 2005 og § 5 i lov nr. 536 af 24. juni 2005.
+Herved bekendtgøres lov om statsgaranti for lån til yngre jordbrugere m.v., jf. lovbekendtgørelse nr. 1015 af 9. oktober 2006, med de ændringer der følger af § 18 i lov nr. 316 af 31. marts 2007, § 30 i lov nr. 523 af 6. juni 2007 og af lov nr. 487 af 17. juni 2008.

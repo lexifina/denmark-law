@@ -1,5 +1,5 @@
-Ministeriet for Fødevarer, Landbrug og Fiskeri, den 9. oktober 2006
+Ministeriet for Fødevarer, Landbrug og Fiskeri, den 25. august 2008
 
-Hans Christian Schmidt
+Eva Kjer Hansen
 
-/Søren Sørensen
+/ Søren Sørensen
