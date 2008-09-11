@@ -1,0 +1,1 @@
+§ 1 b. Offentlige myndigheder har pligt til aktivt at tage hensyn til målsætningen om ligestilling mellem mænd og kvinder ved udformningen og gennemførelsen af love og administrative bestemmelser, politikker og aktiviteter på de områder, denne lov omhandler.
