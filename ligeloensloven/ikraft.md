@@ -20,7 +20,7 @@ Lov nr. 445 af 7. juni 2001 om ændring af lov om lige løn til mænd og kvinder
 
 § 2
 
-Stk. 1. Loven træder i kraft den 1. juli 2001. Tidspunktet for ikrafttrædelsen af § 1, nr. 3-5, fastsættes af beskæftigelsesministeren.
+Loven træder i kraft den 1. juli 2001. Tidspunktet for ikrafttrædelsen af § 1, nr. 3-5, fastsættes af beskæftigelsesministeren.
 
 Stk. 2. § 1, nr. 1 og 2, har virkning for ansættelsesforhold, der er påbegyndt før den 1. juli 2001.
 
@@ -39,3 +39,13 @@ Loven træder i kraft den 1. januar 2007.
 § 3
 
 § 6 a i lov om lige løn til mænd og kvinder som indsat ved lov nr. 445 af 7. juni 2001 og ændret ved lov nr. 358 af 6. juni 2002, træder i kraft den 1. januar 2007, dog således at redegørelsen udarbejdes første gang i 2009.
+
+Lov nr. 558 af 17. juni 2008, som ændrer lovens § 1, § 2 og § 3, indsætter § 1 a, § 1 b og § 4 a samt fodnote til lovens titel, indeholder følgende ikrafttrædelsesbestemmelser:
+
+§ 2
+
+Loven træder i kraft den 15. august 2008.
+
+§ 3
+
+Loven gælder ikke for Færøerne og Grønland.

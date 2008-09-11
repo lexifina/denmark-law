@@ -1,5 +1,5 @@
-Beskæftigelsesministeriet, den 27. august 2006
+Beskæftigelsesministeriet, den 5. september 2008
 
 Claus Hjort Frederiksen
 
-/Lise Fangel
+/ Lise Fangel
