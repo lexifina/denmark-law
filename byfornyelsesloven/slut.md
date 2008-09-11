@@ -1,5 +1,5 @@
-Socialministeriet, den 3. november 2006
+Velfærdsministeriet, den 9. september 2008
 
-P.M.V. Thomas Børner
+P.M.V. Christian Schønau
 
-/Aksel Meyer
+/ Eva Pedersen
