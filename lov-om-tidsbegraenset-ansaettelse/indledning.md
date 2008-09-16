@@ -1,3 +1,3 @@
-Lov om tidsbegrænset ansættelse
+Bekendtgørelse af lov om tidsbegrænset ansættelse
 
-VI MARGRETHE DEN ANDEN, af Guds Nåde Danmarks Dronning, gør vitterligt: Folketinget har vedtaget og Vi ved Vort samtykke stadfæstet følgende lov:
+Herved bekendtgøres lov om tidsbegrænset ansættelse, jf. lov nr. 370 af 28. maj 2003 med de ændringer, der følger af § 3 i lov nr. 1155 af 19. december 2003.

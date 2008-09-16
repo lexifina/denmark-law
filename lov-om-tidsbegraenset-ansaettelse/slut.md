@@ -1,7 +1,5 @@
-Givet på Christiansborg Slot, den 28. maj 2003
+Beskæftigelsesministeriet, den 11. september 2008
 
-Under Vor Kongelige Hånd og Segl
+Claus Hjort Frederiksen
 
-MARGRETHE R.
-
-/Claus Hjort Frederiksen
+/ Lise Fangel
