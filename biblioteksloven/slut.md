@@ -1,7 +1,5 @@
-Givet på Christiansborg Slot, den 17. maj 2000
+Kulturministeriet, den 20. august 2008
 
-Under Vor Kongelige Hånd og Segl
+Brian Mikkelsen
 
-Margrethe R.
-
-/Elsebeth Gerner Nielsen
+/ Jacob Christian Bertram
