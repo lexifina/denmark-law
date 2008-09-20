@@ -1,0 +1,1 @@
+§ 1 a. Der kan pålægges forpligtelser til offentlig tjeneste og ydes betaling herfor i overensstemmelse med cabotagesejladsforordningen (Rådets forordning om anvendelse af princippet om fri udveksling af tjenesteydelser inden for søtransport i medlemsstaterne (cabotagesejlads) ).
