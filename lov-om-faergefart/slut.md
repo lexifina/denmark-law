@@ -1,7 +1,5 @@
-Givet på Christiansborg slot, den 2. juni 1999
+Transportministeriet, den 27. august 2008
 
-Under Vor Kongelige Hånd og Segl
+Carina Christensen
 
-Margrethe R.
-
-/Sonja Mikkelsen
+/ Lasse Winterberg
