@@ -1,0 +1,3 @@
+§ 20 a. Der betales afgift efter denne lov af en varebil m.v., der i perioden fra den 25. april til og med den 27. november 2007 er omregistreret fra en tilladt totalvægt på over 2 t til en tilladt totalvægt på 2 t eller mindre, efter satserne for varebiler m.v. med en tilladt totalvægt i intervallet 2.001-2.500 kg. Dette gælder dog ikke varebiler m.v., der er afgiftsberigtiget med 50 pct. efter registreringsafgiftslovens § 5.
+
+Stk. 2. Der betales afgift efter denne lov af en bil, der afgiftsberigtiges efter § 29, stk. 1, nr. 2, i registreringsafgiftsloven, efter satserne for varebiler m.v. med en tilladt totalvægt i intervallet 2.001-2.500 kg.
