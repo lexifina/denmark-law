@@ -8,7 +8,7 @@ A | Lastbiler m.v.
 
 a) | Med 2 aksler.
 
-Totalvægt indtil 12.999 kg Afgift pr. køretøj 12 måneder |  | 226
+Totalvægt indtil 12.999 kg Afgift pr. køretøj 12 måneder | – | 226
 
 Totalvægt 13.000-13.999 kg Afgift pr. køretøj 12 måneder | 226 | 627
 
@@ -42,9 +42,9 @@ B | Last- og sættevogntog
 
 a) | Lastbil med 2 aksler
 
-1) | Påhængs- eller sættevogn med 1 aksel. Totalvægt indtil 15.999 kg Afgift pr. vogntog 12 måneder |  | 
+1) | Påhængs- eller sættevogn med 1 aksel. Totalvægt indtil 15.999 kg Afgift pr. vogntog 12 måneder | – | –
 
-Totalvægt 16.000-17.999 kg Afgift pr. vogntog 12 måneder |  | 102
+Totalvægt 16.000-17.999 kg Afgift pr. vogntog 12 måneder | – | 102
 
 Totalvægt 18.000-19.999 kg Afgift pr. vogntog 12 måneder | 102 | 233
 
@@ -102,7 +102,7 @@ Totalvægt indtil 37.999 kg Afgift pr. vogntog 12 måneder | 2.447 | 3.398
 
 Totalvægt 38.000-39.999 kg Afgift pr. vogntog 12 måneder | 3.398 | 4.700
 
-Totalvægt 40.000 kg og derover Afgift pr. vogntog 12 måneder | 4.700 | 6.905 1)
+Totalvægt 40.000 kg og derover Afgift pr. vogntog 12 måneder | 4.700 | 6.905
 
 3) | Påhængs- eller sættevogn med 3 eller flere aksler.
 
@@ -112,10 +112,10 @@ Totalvægt 38.000-39.999 kg Afgift pr. vogntog 12 måneder | 1.684 | 2.514
 
 Totalvægt 40.000 kg og derover Afgift pr. vogntog 12 måneder | 2.514 | 4.004
 
-Stk. 2. For køretøjer som nævnt i stk. 1, der registreres 1. gang eller har været afmeldt, forfalder afgiften til betaling på registreringstidspunktet og betales forud for hele perioden. I øvrigt finder § 2 om afgiftsperioder m.v. samt anmeldelse af ny ejer(bruger), § 4, stk. 1 og 2, 2. pkt., om regulering af afgiftsbeløb m.v. og § 6 om renteterminer og renteberegning i lov om afgift af vejbenyttelse tilsvarende anvendelse.
+Stk. 2. For køretøjer som nævnt i stk. 1, der registreres 1. gang eller har været afmeldt, forfalder afgiften til betaling på registreringstidspunktet og betales forud for hele perioden. I øvrigt finder § 2 om afgiftsperioder m.v. samt anmeldelse af ny ejer (bruger), § 4, stk. 1 og 2, 2. pkt., om regulering af afgiftsbeløb m.v. og § 6 om renteterminer og renteberegning i lov om afgift af vejbenyttelse tilsvarende anvendelse.
 
 Stk. 3. Såfremt et køretøj, der er afgiftspligtigt efter stk. 1, i afgiftsperioden afmeldes af motorkøretøjsregisteret eller overgår til afgiftspligt efter § 4, refunderes afgiften med 1/12 for hver hele måned, der resterer af afgiftsperioden.
 
-Stk. 4. Grundlaget for regulering efter stk. 2 er de afgiftssatser i euro, som fremgår af bilag I til Europa-Parlamentets og Rådets direktiv 1999/62/EF af 17. juni 1999. Skatteministeren offentliggør regulering af afgiftssatser ved bekendtgørelse i Lovtidende .
+Stk. 4. Grundlaget for regulering efter stk. 2 er de afgiftssatser i euro, som fremgår af bilag I til Europa-Parlamentets og Rådets direktiv 1999/62/EF af 17. juni 1999. Skatteministeren offentliggør regulering af afgiftssatser ved bekendtgørelse i Lovtidende.
 
-Stk. 5. Skatteministeren fastsætter efter forhandling med justitsministeren de nærmere regler for afgiftens tilbagebetaling som følge af anmeldelse af ny ejer(bruger).
+Stk. 5. Skatteministeren fastsætter efter forhandling med justitsministeren de nærmere regler for afgiftens tilbagebetaling som følge af anmeldelse af ny ejer (bruger).
