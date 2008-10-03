@@ -1,0 +1,1 @@
+§ 10 i. Ministeren for fødevarer, landbrug og fiskeri kan fastsætte, at der, forinden der træffes afgørelse i medfør af §§ 10 d-10 f, skal indhentes en udtalelse fra miljøministeren eller en styrelse, som miljøministeren har bemyndiget hertil, vedrørende miljø- eller naturbeskyttelsesforhold.
