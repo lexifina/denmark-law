@@ -10,8 +10,8 @@ Stk. 5. Andelsboligbidraget, der som følge af aftrapningen kommer til at udgør
 
 Stk. 6. Andelsboligbidraget udbetales 2 gange årligt umiddelbart forud for forfaldsdagen for terminerne for indeksbelåningen. Første udbetaling finder sted ved den førstkommende termin efter tilsagnsdatoen.
 
-Stk. 7. Økonomi- og erhvervsministeren kan helt eller delvis bringe betalingen af andelsboligbidrag til ophør, såfremt andelsboligforeningens økonomi forbedres eller ændrede forhold for byggeriet taler derfor, herunder at der indtræder en stigning i handelspriserne for andelsboliger.
+Stk. 7. Velfærdsministeren kan helt eller delvis bringe betalingen af andelsboligbidrag til ophør, såfremt andelsboligforeningens økonomi forbedres eller ændrede forhold for byggeriet taler derfor, herunder at der indtræder en stigning i handelspriserne for andelsboliger.
 
-Stk. 8. Andelsboligforeningen skal på forlangende give økonomi- og erhvervsministeren alle nødvendige oplysninger til belysning af foreningens økonomiske forhold.
+Stk. 8. Andelsboligforeningen skal på forlangende give velfærdsministeren alle nødvendige oplysninger til belysning af foreningens økonomiske forhold.
 
-Stk. 9. Økonomi- og erhvervsministeren kan fastsætte nærmere regler om de i stk. 1-8 nævnte forhold, herunder de nærmere regler for andelsboligbidragets beregning.
+Stk. 9. Velfærdsministeren kan fastsætte nærmere regler om de i stk. 1-8 nævnte forhold, herunder de nærmere regler for andelsboligbidragets beregning.
