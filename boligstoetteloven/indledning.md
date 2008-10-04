@@ -1,3 +1,5 @@
 Bekendtgørelse af lov om individuel boligstøtte
 
-Hermed bekendtgøres lov om individuel boligstøtte, jf. lovbekendtgørelse nr. 552 af 2. juni 2006, med de ændringer, der følger af lov nr. 574 af 24. juni 2005 (§ 3), lov nr. 1584 af 20. december 2006 (§ 11), lov nr. 1588 af 20. december 2006 (§ 2) og lov nr. 90 af 31. januar 2007 (§ 102).
+Hermed bekendtgøres lov om individuel boligstøtte, jf. lovbekendtgørelse nr. 199 af 2. marts 2007, med de ændringer, der følger af § 1 i lov nr. 324 af 30. april 2008.
+
+De ændringer der følger af lov nr. 346 af 18. april 2007, er ikke indarbejdet i denne lovbekendtgørelse, da ændringerne endnu ikke er trådt i kraft.
