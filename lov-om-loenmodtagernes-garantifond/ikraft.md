@@ -42,9 +42,9 @@ Lov nr. 1032 af 17. december 2002, som ændrer lovens § 9, indeholder følgende
 
 § 7
 
-Stk. 1. Loven træder i kraft den 1. januar 2003 og har virkning første gang for de kompensationsbeløb, der skulle have været udbetalt på grundlag af ATP-bidrag, der er modtaget i perioden 23. februar  22. maj 2003.
+Stk. 1. Loven træder i kraft den 1. januar 2003 og har virkning første gang for de kompensationsbeløb, der skulle have været udbetalt på grundlag af ATP-bidrag, der er modtaget i perioden 23. februar – 22. maj 2003.
 
-Stk. 2. ATPs Ankenævn kan efter de hidtidige regler behandle sager om beregning og udbetaling af kompensationsbeløb efter § 17 a.
+Stk. 2. ATP’s Ankenævn kan efter de hidtidige regler behandle sager om beregning og udbetaling af kompensationsbeløb efter § 17 a.
 
 Lov nr. 322 af 18. maj 2005, som ændrer lovens § 1, 2, 3 og 7, indsætter § 5 a samt fodnote til lovens titel, indeholder følgende ikrafttrædelsesbestemmelse:
 
@@ -67,3 +67,45 @@ Lov nr. 431 af 6. juni 2005, som indsætter lovens § 12 b, indeholder følgende
 § 85
 
 Stk. 1. Loven træder i kraft den 1. november 2005.
+
+Lov nr. 404 af 8. maj 2006 om ændring af forskellige love (Konsekvensændringer som følge af lov om et indkomstregister), som ændrer lovens § 2 og § 5, indeholder følgende ikrafttrædelsesbestemmelser:
+
+§ 23
+
+Stk. 1. ---.
+
+Stk. 2. §§ 2-6, § 7, nr. 2, §§ 8-13, § 17, nr. 24, §§ 18-21 og § 22, nr. 1, 2 og 4, træder i kraft den 1. juni 2006.
+
+Stk. 3. Skatteministeren fastsætter tidspunktet for ikrafttrædelsen af § 7, nr. 1, § 14, § 15, § 16, § 17, nr. 1-23, og § 22, nr. 3. Herunder kan skatteministeren fastsætte forskellige ikrafttrædelsestidspunkter for forskellige virksomheder m.v.
+
+Lov nr. 523 af 6. juni 2007 om ændring af forskellige lovbestemmelser om forældelse af fordringer m.v. (Ændringer som følge af en ny lov om forældelse af fordringer, ophævelse af købelovens reklamationsfrister ved visse køb m.v.), som ændrer lovens § 9, indeholder følgende ikrafttrædelsesbestemmelser:
+
+§ 47
+
+Loven træder i kraft den 1. januar 2008.
+
+§ 48
+
+Stk. 1. Loven finder anvendelse også på tidligere stiftede fordringer, som ikke inden ikrafttrædelsesdagen er forældet efter de hidtil gældende regler. Forældelse indtræder dog tidligst den 1. januar 2011, medmindre fordringen inden dette tidspunkt ville være forældet såvel efter de hidtil gældende bestemmelser som efter de bestemmelser, der gælder efter lovens ikrafttræden, jf. dog stk. 7. I det sidstnævnte tilfælde anvendes det seneste tidspunkt for forældelsens indtræden.
+
+Stk. 2. Afbrydelse af forældelse, der har fundet sted før lovens ikrafttræden, har fortsat virkning som afbrydelse, selv om den ikke er sket på den efter lovens ikrafttræden foreskrevne måde.
+
+Stk. 3. ---.
+
+Stk. 4. ---.
+
+Stk. 5. ---.
+
+Stk. 6. ---.
+
+Stk. 7. ---.
+
+Stk. 8. ---.
+
+§ 49
+
+Stk. 1. Loven gælder ikke for Færøerne og Grønland, jf. dog stk. 2 og 3.
+
+Stk. 2. ---.
+
+Stk. 3. §§ 1, 2, 5-9, 11, 13-15, 19, 21, 28, 44 og 45 kan ved kongelig anordning helt eller delvis sættes i kraft for Grønland med de afvigelser, som de særlige grønlandske forhold tilsiger.
