@@ -1,7 +1,5 @@
-Givet på Christiansborg Slot, den 31. marts 2004
+Ministeriet for Sundhed og Forebyggelse, den 21. oktober 2008
 
-Under Vor Kongelige Hånd og Segl
+Jakob Axel Nielsen
 
-Margrethe R.
-
-/Lars Løkke Rasmussen
+/ Hanne Nicoline Makholm
