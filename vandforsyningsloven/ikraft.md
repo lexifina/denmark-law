@@ -34,7 +34,7 @@ Lov nr. 192 af 29. marts 1989 om ændring af forskellige lovbestemmelser som fø
 
 Loven træder i kraft den 1. januar 1990.
 
-Lov nr. 358 af 6. juni 1991 om miljøbeskyttelse, hvis § 114, stk. 4, nr. 2, angår ændring af Miljøankenævnet til Miljøklagenævnet, indeholder følgende ikrafttrædelsesbestemmelse:
+Lov nr. 358 af 6. juni 1991 om miljøbeskyttelse, hvis § 114, stk. 4, nr. 2, angår ændring af »Miljøankenævnet« til »Miljøklagenævnet«, indeholder følgende ikrafttrædelsesbestemmelse:
 
 § 112
 
@@ -193,3 +193,23 @@ Lov nr. 1571 af 20. december 2006 om ændring af lov om miljøbeskyttelse, lov o
 Stk. 1. Loven træder i kraft den 1. januar 2007, jf. dog stk. 2.
 
 Stk. 2. Kommunalbestyrelsen kan indtil den 31. december 2007 fortsat overlade varetagelsen af opgaver efter lovens § 1, nr. 4, § 3, nr. 2, og § 5, nr. 4, som før 1. januar 2007 hørte under kommunalbestyrelsen, til et kommunalt fællesskab i overensstemmelse med de hidtil gældende regler.
+
+Lov nr. 172 af 12. marts 2008 om ændring af forskellige love på Miljøministeriets område m.v., som indsætter § 71 a, indeholder følgende ikrafttrædelsesbestemmelse
+
+§ 6
+
+Loven træder i kraft dagen efter bekendtgørelsen i Lovtidende.
+
+Lov nr. 507 af 17. juni 2008 om ændring af lov om ændring af lov om miljøbeskyttelse og forskellige andre love (Implementering af miljøansvarsdirektivet), som ændrer §§ 66, 67, 71, 80 og 84 og indsætter nyt kapitel 11 a (§§ 68-68 h), indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 15
+
+Stk. 1. Loven træder i kraft den 1. juli 2008, jf. dog stk. 3.
+
+Stk. 2-4. (Udeladt)
+
+Lov nr. 508 af 17. juni 2008 om ændring af lov om naturbeskyttelse, lov om jagt og vildtforvaltning og forskellige andre love (Gennemførelse af direktiver om naturbeskyttelse), som indsætter § 2, stk. 2, indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 16
+
+Loven træder i kraft den 1. juli 2008.
