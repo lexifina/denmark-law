@@ -44,7 +44,7 @@ Lov nr. 236 af 2. april 1997 om ændring af lov om planlægning (Ophævelse af �
 
 § 3. Indkvarteringssteder, der er etableret med fritagelse efter § 3 a, stk. 1, i lov om planlægning, jf. lovbekendtgørelse nr. 746 af 16. august 1994, som ændret ved lov nr. 311 af 17. maj 1995, kan anvendes til indkvartering af asylansøgere, personer med midlertidig opholdstilladelse i medfør af lov om midlertidig opholdstilladelse til visse personer fra det tidligere Jugoslavien m.v., personer fra det tidligere Jugoslavien, der er meddelt opholdstilladelse i medfør af udlændingelovens § 7 eller § 9, stk. 2, nr. 5, samt personer med opholdstilladelse i medfør af udlændingelovens § 9, stk. 2, nr. 6. Fritagelsen for at overholde planlovens bestemmelser om tilvejebringelse af planer m.v. gælder, uanset at bebyggelsen i en periode ikke har været anvendt til indkvartering af de nævnte personer. Ibrugtagelse af bebyggelsen til anden anvendelse er ikke omfattet af fritagelsen, men skal behandles efter planlovens bestemmelser.
 
-Lov nr. 324 af 14. maj 1997 om ændring af lov om planlægning (Detailhandel m.v.) , som vedrører §§ 5 c-f, 6, 6 b, 11, 11 b, 15, 16, 17, 27, 28, 29 og 29 a-b, indeholder følgende overgangs- og ikrafttrædelsesbestemmelser:
+Lov nr. 324 af 14. maj 1997 om ændring af lov om planlægning (Detailhandel m.v.), som vedrører §§ 5 c-f, 6, 6 b, 11, 11 b, 15, 16, 17, 27, 28, 29 og 29 a-b, indeholder følgende overgangs- og ikrafttrædelsesbestemmelser:
 
 § 2. Loven træder i kraft ugedagen efter bekendtgørelsen i Lovtidende . Bestemmelserne i § 1, nr. 1, 6 og 7 samt i § 3 har virkning for planer, der vedtages endeligt efter lovens ikrafttræden. Bestemmelserne i § 1, nr. 2, 3 og 4 har virkning for regionplanlægning fra og med regionplanrevision 2001 samt for regionplantillæg for detailhandel, hvis amtsrådet vælger at tilvejebringe regionplanretningslinier for den samlede detailhandelsstruktur i amtskommunen forud for regionplanrevision 2001. Bestemmelserne i § 1, nr. 5 og 9, har virkning for forslag til planer, der fremsættes efter lovens ikrafttræden.
 
@@ -258,7 +258,7 @@ Stk. 2. (udeladt)
 
 Lov nr. 571 af 24. juni 2005 om ændring af lov om planlægning (Udmøntning af kommunalreformen), som ændrer §§ 1, 2, 3, 4, 5 a, 5 e, 11, 11 a, 11 b, 11 c, 11 d, 12, 13, 16, 17, 20, 23, 23 a, 23 e, 24, 25, 27, 28, 29, 29 a, 29 b, 30, 33, 33 a, 33 b, 35, 45, 46, 51, 52, 57, 58, 59, 60, 64, indsætter nyt kapitel 2 c, indsætter ny note 1, og indsætter nye §§ 2 a, 5 h, 5 i, 5 j, 5 k, 10 a, 10 b, 11 e, 11 f, 11 g, 11 h, 11 i, 22 a, 22 b, 22 c, 54 a og 57 a, samt ophæver §§ 5 g, 6, 6 a, 6 b, 6 c, 6 d, 7, 7 a, 8, 9, 10, 22 og 23, indeholder følgende overgangs- og ikrafttrædelsesbestemmelser:
 
-§ 2. Loven træder i kraft den 1. januar 2007, jf. dog stk. 2.
+§ 2. Loven træder i kraft den 1. januar 2007, jf. dog stk. 2 og 3.
 
 Stk. 2. § 1, nr. 21 og 23, samt § 3, stk. 2 og 7, træder i kraft den 1. januar 2006, bortset fra på Bornholm. Amtsråd og Hovedstadens Udviklingsråd kan dog indtil den 1. januar 2007 tilvejebringe regionplantillæg, som fastsætter retningslinjer for større enkeltanlæg, der må antages at påvirke miljøet i væsentlig grad (VVM-pligtige anlæg).
 
@@ -292,13 +292,13 @@ Stk. 3. Kommuneplanforslag, som vedrører arealer i kommuner, som sammenlægges 
 
 Stk. 4. De i medfør af lov om planlægning udstedte regler eller beslutninger opretholdes, indtil de ophæves eller ændres i medfør af lov om planlægning som ændret ved denne lov.
 
-§ 7. Miljøministeren kan i øvrigt fastsætte overgangsregler.
+§ 7. Miljøministeren kan i øvrigt fastsætte overgangsregler .
 
 Lov nr. 520 af 7. juni 2006 om ændring af lov om elforsyning, lov om naturgasforsyning, lov om varmeforsyning, lov om Energinet Danmark, lov om planlægning, lov om kommunal udligning og generelle tilskud til kommuner og amtskommuner og lov om kuldioxidafgift af visse energiprodukter(Energispareaftalen, havvindmølleudbud, statens købepligt til regionale eltransmissionsnet og gasdistributionsnet, kommuners påbegyndelse af nye aktiviteter i relation til bestemmelserne om modregning i bloktilskud m.v.), som indsætter nye §§ 19, stk. 4 og § 20, stk. 2, nr. 3, indeholder følgende ikrafttrædelsesbestemmelse:
 
 § 9
 
-Stk. 1. Tidspunktet for lovens ikrafttræden fastsættes af transport- og energiministeren, jf. dog stk. 2. Ministeren kan fastsætte, at dele af loven træder i kraft før andre dele af loven.3)
+Stk. 1. Tidspunktet for lovens ikrafttræden fastsættes af transport- og energiministeren, jf. dog stk. 2. Ministeren kan fastsætte, at dele af loven træder i kraft før andre dele af loven .
 
 Stk. 2-6. (udeladt)
 
@@ -376,7 +376,7 @@ Lov nr. 1572 af 20. december 2006 om miljøgodkendelse m.v. af husdyrbrug, som �
 
 § 102. Loven træder i kraft den 1. januar 2007.
 
-Lov nr. 1587 af 20. december 2006om ændring af lov om Arbejdsmarkedets Tillægspension og forskellige andre love (Ændringer som følge af gradvis forhøjelse af efterløns- og folkepensionsalderen m.v.), som ændrer § 41 stk. 2, indeholder følgende ikrafttrædelsesbestemmelse:
+Lov nr. 1587 af 20. december 2006 om ændring af lov om Arbejdsmarkedets Tillægspension og forskellige andre love (Ændringer som følge af gradvis forhøjelse af efterløns- og folkepensionsalderen m.v.), som ændrer § 41 stk. 2, indeholder følgende ikrafttrædelsesbestemmelse:
 
 § 19
 
@@ -388,7 +388,7 @@ Lov nr. 533 af 6. juni 2007 om nationalparker, som vedrører og ændrer § 25, s
 
 § 37. Loven træder i kraft den 1. juli 2007.
 
-Lov nr. 535 af 6. juni 2007 om ændring af lov om planlægning (Revision af detailhandelsbestemmelserne), som ændrer §§ 11-11 b, 11 e, 13 og 22 a, ophæver kapitel 2 b og indsætter nye §§ 5 l–5 t, indeholder følgende ikrafttrædelses- og overgangsbestemmelser:
+Lov nr. 535 af 6. juni 2007 om ændring af lov om planlægning (Revision af detailhandelsbestemmelserne), som ændrer §§ 11-11 b, 11 e, 13 og 22 a, ophæver kapitel 2 b og indsætter nye §§ 5 l–5 t, og som ændrer § 7 i lov nr. 571 af 24. juni 2005 om ændring af lov om planlægning (Udmøntning af kommunalreform), indeholder følgende ikrafttrædelses- og overgangsbestemmelser:
 
 § 3
 
@@ -402,8 +402,14 @@ Stk. 2. Uanset stk. 1 kan der i bymidter, bydelscentre og aflastningsområder fa
 
 Stk. 3. Indtil der er fastsat regler om afgrænsning af bymidter og bydelscentre i overensstemmelse med lov om planlægning, jf. § 5 m, stk. 2, som indsat ved denne lovs § 1, nr. 2, kan eksisterende afgrænsninger ikke ændres.
 
-Lov nr. 537 af 6. juni 2006 om ændring af lov om planlægning (Bypolitik m.v.), som ændrer §§ 10 a, 11-11 b, 11 d, 11 e, 13, 15, 15 a, 16, 19 og 41 og indsætter nye §§ 21 a, 21 b og 58 b, indeholder følgende ikrafttrædelsesbestemmelse:
+Lov nr. 537 af 6. juni 2007 om ændring af lov om planlægning (Bypolitik m.v.), som ændrer §§ 10 a, 11-11 b, 11 d, 11 e, 13, 15, 15 a, 16, 19 og 41 og indsætter nye §§ 21 a, 21 b og 58 b, indeholder følgende ikrafttrædelsesbestemmelse:
 
 § 2
 
 Loven træder i kraft den 1. juli 2007. Dog fastsætter miljøministeren tidspunktet for ikrafttrædelsen af § 15, stk. 2, nr. 25, som indsat ved denne lovs § 1, nr. 14.
+
+Lov nr. 508 af 17. juni 2008 om ændring af lov om naturbeskyttelse, lov om jagt og vildtforvaltning og forskellige andre love (Gennemførelse af direktiver om naturbeskyttelse), som ændrer §§ 3, 17 og 27, indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 16
+
+Loven træder i kraft den 1. juli 2008.

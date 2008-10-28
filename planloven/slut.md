@@ -1,7 +1,7 @@
-Miljøministeriet, den 21. juni 2007
+Miljøministeriet, den 20. oktober 2008
 
-Connie Hedegaard
+Troels Lund Poulsen
 
-/ Anne Marie Rasmussen
+/ Niels Christensen
 
 Bilag 1

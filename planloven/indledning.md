@@ -1,3 +1,3 @@
 Bekendtgørelse af lov om planlægning
 
-Herved bekendtgøres lov om planlægning, jf. lovbekendtgørelse nr. 883 af 18. august 2004, med de ændringer, der følger af § 21 i lov nr. 430 af 6. juni 2005, § 15 i lov nr. 431 af 6. juni 2005, § 36 i lov nr. 535 af 24. juni 2005, lov nr. 571 af 24. juni 2005, § 5 i lov nr. 520 af 7. juni 2006, § 88 i lov nr. 538 af 8. juni 2006, § 12 i lov nr. 539 af 8. juni 2006, § 9 i lov nr. 1571 af 20. december 2006, § 101 i lov nr. 1572 af 20. december 2006, § 9 i lov nr. 1587 af 20. december 2006, § 39 i lov nr. 533 af 6. juni 2007, lov nr. 535 af 6. juni 2007 og lov nr. 537 af 6. juni 2007.
+Herved bekendtgøres lov om planlægning, jf. lovbekendtgørelse nr. 813 af 21. juni 2007, med de ændringer, der følger af § 6 i lov nr. 508 af 17. juni 2008.
