@@ -1,1 +1,3 @@
-Ved lov nr. 1055 af 17. december 2002 om ændring af lov om råstoffer blev daværende § 44, stk. 1, nr. 2 og 6 ophævet, og nr. 3-5 blev herefter til nr. 2-4.
+1) Loven indeholder bestemmelser, der gennemfører dele af Europa-Parlamentets og Rådets direktiv 2004/35/EF af 21. april 2004 om miljøansvar for så vidt angår forebyggelse og afhjælpning af miljøskader, (EU-Tidende 2004 nr. L 143, side 56) og dele af Europa-Parlamentets og Rådets direktiv 2006/21/EF af 15. marts 2006 om håndtering af affald fra udvindingsindustrien og om ændring af direktiv 2004/35/EF (EU-Tidende 2006 nr. L 102, side 15).
+
+2) Ved lov nr. 1055 af 17. december 2002 om ændring af lov om råstoffer blev daværende § 44, stk. 1, nr. 2 og 6 ophævet, og nr. 3-5 blev herefter til nr. 2-4.

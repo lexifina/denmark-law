@@ -94,4 +94,20 @@ Stk. 2. (Udeladt)
 
 Lov nr. 533 af 6. juni 2007 om nationalparker, som ændrer § 12, § 15 og § 26 a, har følgende ikrafttrædelsesbestemmelse:
 
-§ 37. Loven træder i kraft den 1. juli 2007.
+§ 37
+
+Loven træder i kraft den 1. juli 2007.
+
+Lov nr. 507 af 17. juni 2008 om ændring af lov om ændring af lov om miljøbeskyttelse og forskellige andre love (implementering af miljøansvarsdirektivet), som ændrer §§ 15, 26, 26 a, 33 og 44 og indsætter nyt kapitel 7 a (§§ 33a-33j), indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 15
+
+Stk. 1. Loven træder i kraft den 1. juli 2008, jf. dog stk. 3.
+
+Stk. 2-4. (Udeladt)
+
+Lov nr. 508 af 17. juni 2008 om ændring af lov om naturbeskyttelse, lov om jagt og vildtforvaltning og forskellige andre love (Gennemførelse af direktiver om naturbeskyttelse), ændrer §§ 20, 24, 26 og 41, indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 16
+
+Loven træder i kraft den 1. juli 2008.
