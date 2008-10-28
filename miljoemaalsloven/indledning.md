@@ -2,4 +2,4 @@ Bekendtgørelse af lov om miljømål m.v. for vandforekomster og internationale 
 
 (Miljømålsloven)
 
-Herved bekendtgøres lov nr. 1150 af 17. december 2003 om miljømål m.v. for vandforekomster og internationale beskyttelsesområder (miljømålsloven) med de ændringer, der følger af § 1 i lov nr. 570 af 24. juni 2005, § 9 i lov nr. 571 af 9. juni 2006 og § 4 i lov nr. 1571 af 20. december 2006. Den bekendtgjorte lovtekst gælder først fuldt ud fra den 1. januar 2007.
+Herved bekendtgøres lov om miljømål m.v. for vandforekomster og internationale naturbeskyttelsesområder (miljømålsloven), jf. lovbekendtgørelse nr. 1756 af 22. december 2006, med de ændringer, der følger af § 3 i lov nr. 508 af 17. juni 2008
