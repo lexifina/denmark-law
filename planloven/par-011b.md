@@ -22,7 +22,7 @@
 
 11) overførsel af arealer til byzone eller sommerhusområder,
 
-12) rækkefølgen for bebyggelse og ændret anvendelse af arealer til byformål, de i nr. 4 nævnte byomdannelsesområder og sommerhusområder Og
+12) rækkefølgen for bebyggelse og ændret anvendelse af arealer til byformål, de i nr. 4 nævnte byomdannelsesområder og sommerhusområder og
 
 13) anvendelsen af vandområder og udformning af anlæg på vandområder i et byomdannelsesområde inden for eller i tilknytning til en havns dækkende værker.
 
