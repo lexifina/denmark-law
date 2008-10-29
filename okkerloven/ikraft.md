@@ -16,11 +16,11 @@ Lov nr. 564 af 24. juni 2005 om ændring af lov om beskyttelse af havmiljøet, l
 
 Stk. 1. Loven træder i kraft den 1. januar 2007.
 
-Stk. 2 - 5 . (Udeladt.)
+Stk. 2 - 5. (Udeladt.)
 
 Stk. 6. Sager efter lov om okker, der ved lovens ikrafttræden ikke er færdigbehandlet i amtsrådet, overføres til kommunalbestyrelsen, jf. denne lovs § 6.
 
-Stk. 7 - 8 . (Udeladt.)
+Stk. 7 - 8. (Udeladt.)
 
 Lov nr. 1571 af 20. december 2006 om ændring af lov om miljøbeskyttelse, lov om beskyttelse af havmiljøet og forskellige andre love (Ophævelse af adgang til at overføre myndighedskompetence til kommunale fællesskaber og ændring af delegationsbestemmelser m.v. i en række love på natur- og miljøområdet), som ændrer § 14 a indeholder følgende ikrafttrædelsesbestemmelse:
 
@@ -29,3 +29,9 @@ Lov nr. 1571 af 20. december 2006 om ændring af lov om miljøbeskyttelse, lov o
 Stk. 1. Loven træder i kraft den 1. januar 2007, jf. dog stk. 2.
 
 Stk. 2. (Udeladt.)
+
+Lov nr. 508 af 17. juni 2008 om ændring af lov om naturbeskyttelse, lov om jagt og vildtforvaltning og forskellige andre love (Gennemførelse af direktiver om naturbeskyttelse), som indsætter § 14 b, indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 16
+
+Loven træder i kraft den 1. juli 2008.
