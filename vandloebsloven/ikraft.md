@@ -86,7 +86,7 @@ Stk. 5. Sager, der er under behandling ved lovens ikrafttræden, færdigbehandle
 
 Lov nr. 442 af 9. juni 2004 om retssikkerhed ved forvaltningens anvendelse af tvangsindgreb og oplysningspligter, der vedrører og ændrer § 61, stk. 2, og § 72, stk. 1, indeholder følgende ikrafttrædelsesbestemmelse:
 
-§ 24.
+§ 24
 
 Stk. 1. Loven træder i kraft den 1. januar 2005.
 
@@ -114,7 +114,7 @@ Stk. 5 - 7. (Udeladt.)
 
 Stk. 8. Klagesager om afgørelser vedrørende regulativer for offentlige vandløb efter lov om vandløb, der ved lovens ikrafttræden ikke er færdigbehandlet af Skov- og Naturstyrelsen, færdigbehandles efter de hidtil gældende regler.
 
-Lov nr. 1571 af 20. december 2006 om ændring af lov om miljøbeskyttelse, lov om beskyttelse af havmiljøet og forskellige andre love (Ophævelse af adgang til at overføre myndighedskompetence til kommunale fællesskaber og ændring af delegationsbestemmelser m.v. i en række love på natur- og miljøområdet), som ændrer § 78 og §84, indeholder følgende ikrafttrædelsesbestemmelse:
+Lov nr. 1571 af 20. december 2006 om ændring af lov om miljøbeskyttelse, lov om beskyttelse af havmiljøet og forskellige andre love (Ophævelse af adgang til at overføre myndighedskompetence til kommunale fællesskaber og ændring af delegationsbestemmelser m.v. i en række love på natur- og miljøområdet), som ændrer § 78 og § 84, indeholder følgende ikrafttrædelsesbestemmelse:
 
 § 23
 
@@ -125,3 +125,17 @@ Stk. 2. (Udeladt.)
 Lov nr. 533 af 6. juni 2007 om nationalparker, som ændrer § 84, har følgende ikrafttrædelsesbestemmelse:
 
 § 37. Loven træder i kraft den 1. juli 2007.
+
+Lov nr. 507 af 17. juni 2008 om ændring af lov om miljøbeskyttelse og forskellige andre love (Implementering af miljøansvarsdirektivet), som ændrer § 75, stk. 2, 2. pkt., § 80, stk. 1, 1. pkt., § 84, § 85, ophæver § 80, stk. 2 og indsætter § 59 a, kapitel 11 a (§§ 60 a – 60 j) og § 80 a, indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 15
+
+Stk. 1. Loven træder i kraft den 1. juli 2008, jf. dog stk. 3.
+
+Stk. 2-4. (Udeladt)
+
+Lov nr. 508 af 17. juni 2008 om ændring af lov om naturbeskyttelse, lov om jagt og vildtforvaltning og forskellige andre love (Gennemførelse af direktiver om naturbeskyttelse), som indsætter § 70 a, indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 16
+
+Loven træder i kraft den 1. juli 2008.
