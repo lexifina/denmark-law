@@ -1,6 +1,8 @@
 Lov nr. 269 af 6. maj 1993 om jagt og vildtforvaltning, som ændrer § 30, stk. 1 og 2, indeholder følgende ikrafttrædelsesbestemmelse:
 
-§ 58. Loven træder i kraft den 1. april 1994.
+§ 58
+
+Loven træder i kraft den 1. april 1994.
 
 Stk. 2-4. (Udeladt)
 
@@ -10,7 +12,7 @@ Lov nr. 439 af 1. juni 1994 om ændring af lov om planlægning og lov om naturbe
 
 Stk. 1. Loven træder i kraft den 1. august 1994, jf. dog stk. 2.
 
-Stk. 2. Miljøministeren fastsætter tidspunktet for ikrafttrædelsen af § 2, nr. 1, 2 og 4, og kan bestemme, at ikrafttrædelsen skal ske på forskellige tidspunkter i de enkelte amter.
+Stk. 2 . Miljøministeren fastsætter tidspunktet for ikrafttrædelsen af § 2, nr. 1, 2 og 4, og kan bestemme, at ikrafttrædelsen skal ske på forskellige tidspunkter i de enkelte amter.
 
 Stk. 3. I bestemmelser fastsat i medfør af stk. 2 bestemmer miljøministeren, at områder, der på ikrafttrædelsestidspunktet er omfattet af en lokalplan, kan udnyttes i overensstemmelse med lokalplanens bestemmelser uanset bestemmelserne i § 2, nr. 1 og 2. Dette skal dog ikke gælde for områder med klitdannelser inden for 100 m fra de strandbredder, der er nævnt i naturbeskyttelseslovens § 8, stk. 2, nr. 1, som affattet ved denne lovs § 2, nr. 1.
 
@@ -88,7 +90,7 @@ Lov nr. 535 af 24. juni 2005 om jordfordeling og offentligt køb og salg af fast
 
 § 28. Loven træder i kraft den 1. juli 2005, jf. dog stk. 2.
 
-Stk. 2 - 3 . (Udeladt.)
+Stk. 2 - 3. (Udeladt.)
 
 § 29. (Udeladt.)
 
@@ -145,3 +147,17 @@ Loven træder i kraft den 1. januar 2008.
 Lov nr. 533 af 6. juni 2007 om nationalparker, som ændrer § 86, har følgende ikrafttrædelsesbestemmelse:
 
 § 37. Loven træder i kraft den 1. juli 2007.
+
+Lov nr. 507 af 17. juni 2008 om ændring af lov om miljøbeskyttelse og forskellige andre love (Implementering af miljøansvarsdirektivet), som ændrer §§ 74, 78, 86, 87 og 89 og indsætter nyt kapitel 11 a (§§ 77-77 h) , indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 15
+
+Stk. 1. Loven træder i kraft den 1. juli 2008, jf. dog stk. 3.
+
+Stk. 2-4. (Udeladt)
+
+Lov nr. 508 af 17. juni 2008 om ændring af lov om naturbeskyttelse, lov om jagt og vildtforvaltning og forskellige andre love (Gennemførelse af direktiver om naturbeskyttelse)⁠, som ændrer §§ 30, 31, 50, 71 og 73 og ophæver §§ 55 a samt indsætter nye §§ 55 a, 56 a og bilag 3-5, indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 16
+
+Loven træder i kraft den 1. juli 2008.
