@@ -6,7 +6,9 @@ Loven træder i kraft den 1. april 1997.
 
 Lov nr. 442 af 9. juni 2004 om retssikkerhed ved forvaltningens anvendelse af tvangsindgreb og oplysningspligter, som ændrer § 50 indeholder følgende ikrafttrædelsesbestemmelse:
 
-§ 24. Loven træder i kraft den 1. januar 2005.
+§ 24
+
+Loven træder i kraft den 1. januar 2005.
 
 Lov nr. 431 af 6. juni 2005 om ændring af forskellige love (Forenkling, harmonisering og objektivering af reglerne for inddrivelse af gæld til det offentlige m.v. samt mulighed for anvendelse af digitale lønsedler), som ændrer § 57, indeholder følgende ikrafttrædelsesbestemmelse:
 
@@ -31,3 +33,17 @@ Lov nr. 1571 af 20. december 2006 om ændring af lov om miljøbeskyttelse, lov o
 Stk. 1. Loven træder i kraft den 1. januar 2007, jf. dog stk. 2.
 
 Stk. 2. (Udeladt).
+
+Lov nr. 507 af 17. juni 2008 om ændring af lov om ændring af lov om miljøbeskyttelse og forskellige andre love (Implementering af miljøansvarsdirektivet), som ændrer §§ 48 og 54 og indsætter nyt kapitel 8 a (§§ 53 a- 53 k), indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 15
+
+Stk. 1. Loven træder i kraft den 1. juli 2008, jf. dog stk. 3.
+
+Stk. 2-4. (Udeladt)
+
+Lov nr. 508 af 17. juni 2008 om ændring af lov om naturbeskyttelse, lov om jagt og vildtforvaltning og forskellige andre love (Gennemførelse af direktiver om naturbeskyttelse)⁠, som ændrer §§ 3, 33, 37, 46, 52 og 54 og indsætter ny § 9 a og bilag 1 og 2, indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 16
+
+Loven træder i kraft den 1. juli 2008.
