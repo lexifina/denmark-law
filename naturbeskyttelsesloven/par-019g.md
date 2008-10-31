@@ -1,6 +1,6 @@
 ## Erstatning
 
-§ 19 g. For det tab, som en afgørelse efter § 19 b eller §§ 19 d- 19 f påfører en ejer, bruger eller indehaver af andre rettigheder over ejendommen, ydes der erstatning.
+§ 19 g. For det tab, som en afgørelse efter § 19 b eller §§ 19 d-19 f påfører en ejer, bruger eller indehaver af andre rettigheder over ejendommen, ydes der erstatning.
 
 Stk. 2. Spørgsmålet om eventuel erstatning som følge af en afgørelse efter § 19 e afgøres i forbindelse med aftale efter § 19 c eller endelig afgørelse efter § 19 d.
 
