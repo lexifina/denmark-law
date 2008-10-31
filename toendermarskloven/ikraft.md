@@ -41,3 +41,17 @@ Lov nr. 1571 af 20. december 2006 om ændring af lov om miljøbeskyttelse, lov o
 Stk. 1. Loven træder i kraft den 1. januar 2007, jf. dog stk. 2.
 
 Stk. 2. (Udeladt.)
+
+Lov nr. 507 af 17. juni 2008 om ændring af lov om miljøbeskyttelse og forskellige andre love (Implementering af miljøansvarsdirektivet), som ændrer §§ 41, 44 og 50 og indsætter nyt kapitel 9a (§§ 37a-37i) og ny § 44a, indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 15
+
+Stk. 1. Loven træder i kraft den 1. juli 2008, jf. dog stk. 3.
+
+Stk. 2-4. (Udeladt)
+
+Lov nr. 508 af 17. juni 2008 om ændring af lov om naturbeskyttelse, lov om jagt og vildtforvaltning og forskellige andre love (Gennemførelse af direktiver om naturbeskyttelse), som indsætter ny § 49b, indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 16
+
+Loven træder i kraft den 1. juli 2008.
