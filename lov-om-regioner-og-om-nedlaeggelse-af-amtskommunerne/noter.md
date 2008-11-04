@@ -1,0 +1,3 @@
+1) § 2, nr.2, i lov nr. 510 af 6. juni 2007 har følgende ordlyd: ”2. § 28, stk. 1, affattes således: »Enhver region skal lade sine regnskaber revidere af en statsautoriseret eller registreret revisor. Regionens revision skal være sagkyndig og uafhængig. Regionsrådet antager regionens revision, der skal godkendes af vedkommende statsforvaltning, jf. § 30. Godkendelsen kan altid tilbagekaldes. Regionsrådets afskedigelse af revisionen kræver samtykke fra vedkommende statsforvaltning, jf. § 30.«”. Den nævnte bestemmelse træder først i kraft den 1. januar 2012, jf. § 4, stk. 3, i lov nr. 510 af 6. juni 2007. Der henvises til overgangsbestemmelserne i § 5, stk. 2 og 3 i lov nr. 510 af 6. juni 2007.
+
+2) Bekendtgjort i Lovtidende 8. juni 2006.

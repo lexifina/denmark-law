@@ -1,7 +1,5 @@
-Givet på Amalienborg, den 24. juni 2005
+Velfærdsministeriet, den 30. oktober 2008
 
-Under Vor Kongelige Hånd og Segl
+P.M.V. Christian Schønau
 
-MARGRETHE R.
-
-/Lars Løkke Rasmussen
+/ Eva Pedersen
