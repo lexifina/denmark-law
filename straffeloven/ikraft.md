@@ -14,7 +14,7 @@ Stk. 1. Loven træder i kraft den 1. juli 2000.
 
 Stk. 2. De i § 1 nævnte bestemmelser i straffelovens § 94, stk. 4, og § 97, stk. 4 og 6, gælder også for lovovertrædelser, der er begået, og retsfølger, der er pålagt, før lovens ikrafttræden. Bestemmelserne finder dog ikke anvendelse i tilfælde, hvor forældelse efter de hidtidige regler er indtrådt før lovens ikrafttræden.
 
-Lov nr. 433 af 31. maj 2000 (Ændringer som følge af straffuldbyrdelsesloven, afskaffelse af hæftestraffen og prøveløsladelse af livstidsdømte m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
+Lov nr. 433 af 31. maj 2000 (Ændringer som følge af straffuldbyrdelsesloven, afskaffelse af hæftestraffen og prøveløsladelse af livstidsdømte m.v.) indeholder følgende ikrafttrædelsesbestemmelser:
 
 § 30
 
@@ -60,62 +60,38 @@ Stk. 1. Loven træder i kraft den 1. juli 2005.
 
 Stk. 2. § 1, nr. 6, træder dog i kraft dagen efter bekendtgørelse i Lovtidende.
 
-Lov nr. 366 af 24. maj 2005 (Berigelseskriminalitet rettet mod offentlige midler, kriminalitet i juridiske personer, klagebegrænsning og hvidvask i spillekasinoer m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
-
-§ 6
-
-Loven træder i kraft den 1. juli 2005. (Udelades)
-
-Lov nr. 553 af 24. juni 2005 (Lov om voldgift) indeholder følgende ikrafttrædelsesbestemmelse:
-
-§ 40
-
-Straffelovens § 304 a, som affattet ved denne lovs § 43, nr. 1, træder i kraft dagen efter bekendtgørelsen i Lovtidende.
-
-Lov nr. 559 af 24. juni 2005 (Skærpelse af straffen for uagtsomt manddrab og uagtsom betydelig legemsbeskadigelse i forbindelse med særlig hensynsløs kørsel) indeholder følgende ikrafttrædelsesbestemmelse:
+Lov nr. 316 af 30. april 2008 (Skærpelse af straffen for ulovlig tvang i forbindelse med indgåelse af ægteskab) indeholder følgende ikrafttrædelsesbestemmelse:
 
 § 2
 
 Loven træder i kraft dagen efter bekendtgørelsen i Lovtidende.
 
-Lov nr. 1389 af 21. december 2005 (Lov om markedsføring) holder følgende ikrafttrædelsesbestemmelse:
+Lov nr. 490 af 17. juni 2008 (Dansk straffemyndighed) indeholder følgende ikrafttrædelsesbestemmelse:
 
-§ 32
+§ 8
 
-Loven træder i kraft den 1. juli 2006. (Udelades)
+Loven træder i kraft den 1. juli 2008.
 
-Lov nr. 1400 af 21. december 2005 (Skærpede regler om strafudmåling for forbrydelser begået med baggrund i den forurettedes lovlige ytringer i den offentlige debat) indeholder følgende ikrafttrædelsesbestemmelse:
+Lov nr. 494 af 17. juni 2008 (Strafskærpelse for tortur) indeholder følgende ikrafttrædelsesbestemmelse:
 
-§ 2
+§ 3
 
-Loven træder i kraft dagen efter bekendtgørelsen i Lovtidende. Lov nr. 474 af 31. maj 2006 (Præcisering af reglerne om retsforfølgning af udenlandske skibe, skærpelse af straffe for miljøkriminalitet m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
+Loven træder i kraft den 1. juli 2008.
 
-§ 4
+Lov nr. 498 af 17. juni 2008 (Skærpede sanktioner for flugtbilister) indeholder følgende ikrafttrædelsesbestemmelse:
 
-Loven træder i kraft den 1. juni 2006.
+§ 3
 
-Lov nr. 503 af 7. juni 2006 (Masseødelæggelsesvåben m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
+Loven træder i kraft dagen efter bekendtgørelsen i Lovtidende.
 
-§ 4
+Lov nr. 500 af 17. juni 2008 (Styrkelse af indsatsen mod ulovlige skydevåben og knive på offentligt tilgængelige steder) indeholder følgende ikrafttrædelsesbestemmelse:
 
-Stk. 1. Loven træder i kraft den 1. juli 2006, jf. dog stk. 2.
+§ 5
 
-Stk. 2. § 1, nr. 4-6, træder i kraft den 30. juli 2006.
+Loven træder i kraft den 1. juli 2008.
 
-Lov nr. 540 af 8. juni 2006 (Dansk straffemyndighed ved seksuel udnyttelse af børn i udlandet) indeholder følgende ikrafttrædelsesbestemmelse:
+Lov nr. 501 af 17. juni 2008 (Strafskærpelse for visse sager om seksuelt misbrug af børn) indeholder følgende ikrafttrædelsesbestemmelse:
 
 § 2
 
 Loven træder i kraft dagen efter bekendtgørelsen i Lovtidende.
-
-Lov nr. 542 af 8. juni 2006 (Styrkelse af indsatsen for at bekæmpe terrorisme m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
-
-§ 9
-
-Stk. 1. Loven træder i kraft dagen efter bekendtgørelsen i Lovtidende. (Udelades)
-
-Lov nr. 527 af 6. juni 2007 (Kriminalisering af at besidde mobiltelefoner i fængsler m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
-
-§ 4
-
-Loven træder i kraft den 1. juli 2007.

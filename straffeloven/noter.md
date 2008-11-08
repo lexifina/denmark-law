@@ -10,32 +10,20 @@
 
 6) Loven er kundgjort i Lovtidende den 25. maj 2005.
 
-7) Lovændringen vedrører § 76 a, § 270, § 289, § 289 a, § 296, § 297 og § 302.
+7) Lovændringen vedrører § 260, stk. 2.
 
-8) Lovændringen vedrører § 304 a.
+8) Loven er kundgjort i Lovtidende den 1. maj 2008.
 
-9) Loven er kundgjort i Lovtidende den 25. juni 2005.
+9) Lovændringen vedrører §§ 6-12.
 
-10) Lovændringen vedrører § 241 og § 249.
+10) Lovændringen vedrører § 93 b, § 157 a og § 157 b.
 
-11) Loven er kundgjort i Lovtidende den 25. juni 2005.
+11) Lovændringen vedrører § 253, stk. 2.
 
-12) Lovændringen vedrører § 299 a.
+12) Loven er kundgjort i Lovtidende den 18. juni 2008.
 
-13) Lovændringen vedrører § 81 og § 125 a.
+13) Lovændringen vedrører § 114 a, nr. 1 og 4-6, og § 192 a, stk. 1.
 
-14) Loven er kundgjort i Lovtidende den 22. december 2005.
+14) Lovændringen vedrører § 222, stk. 2 og 3.
 
-15) Lovændringen vedrører § 196.
-
-16) Lovændringen vedrører § 192 a.
-
-17) Lovændringen vedrører § 7 og § 10.
-
-18) Loven er kundgjort i Lovtidende den 9. juni 2006.
-
-19) Lovændringen vedrører § 110 d, § 114, § 114 a, § 114 b, § 114 c, § 114 d, § 114 e, § 183 a og § 192 a.
-
-20) Loven er kundgjort i Lovtidende den 9. juni 2006.
-
-21) Lovændringen vedrører § 124 og § 135.
+15) Loven er kundgjort i Lovtidende den 18. juni 2008.
