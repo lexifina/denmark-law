@@ -2,7 +2,7 @@
 
 Stk. 2. Indtægtsbegrænsningen i stk. 1 omfatter ikke indtægter ved forfattervirksomhed og hverv i særlige domstole. Indtægtsbegrænsningen i stk. 1 omfatter endvidere i 3 år fra tiltrædelsen af hvervet ikke indtægter ved varetagelse af hverv, hvor det ved lov er bestemt, at hvervet skal varetages af en dommer.
 
-Stk. 3. Vedkommende retspræsident (for så vidt angår retten på Bornholm præsidenten for Østre Landsret) påser, at en dommers indtægter ikke overskrider indtægtsbegrænsningen i stk. 1. Overstiger en dommers indtægter i en opgørelsesperiode det tilladte, forelægger retspræsidenten sagen for Bibeskæftigelsesnævnet. Nævnet kan herefter
+Stk. 3. Vedkommende retspræsident påser, at en dommers indtægter ikke overskrider indtægtsbegrænsningen i stk. 1. Overstiger en dommers indtægter i en opgørelsesperiode det tilladte, forelægger retspræsidenten sagen for Bibeskæftigelsesnævnet. Nævnet kan herefter
 
 1) fastsætte en lavere indtægtsgrænse for den pågældende dommer i den kommende opgørelsesperiode og
 
