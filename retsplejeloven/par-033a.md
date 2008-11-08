@@ -1,4 +1,4 @@
-§ 33 a. Domstolsstyrelsen kan efter forhandling med præsidenten (på Bornholm dommeren) bestemme, at der ved en byret gennemføres forsøg med lydoptagelse af forklaringer under hovedforhandlingen i straffesager, jf. stk. 2-6, eller af rettens gengivelse af sådanne forklaringer, jf. stk. 7. Præsidenten (på Bornholm dommeren) kan efter drøftelse med Domstolsstyrelsen fastlægge nærmere retningslinjer for forsøget.
+§ 33 a. Domstolsstyrelsen kan efter forhandling med præsidenten bestemme, at der ved en byret gennemføres forsøg med lydoptagelse af forklaringer under hovedforhandlingen i straffesager, jf. stk. 2-6, eller af rettens gengivelse af sådanne forklaringer, jf. stk. 7. Præsidenten kan efter drøftelse med Domstolsstyrelsen fastlægge nærmere retningslinjer for forsøget.
 
 Stk. 2. Hvis der sker lydoptagelse af en forklaring, optegnes indholdet af forklaringen ikke i retsbogen og behøver ikke at gengives i dommens fremstilling af sagen, jf. dog stk. 4 og 5. Retten kan dog bestemme, at indholdet af forklaringen skal optegnes i retsbogen efter lovens almindelige regler.
 
