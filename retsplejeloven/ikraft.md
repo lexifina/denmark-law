@@ -44,7 +44,7 @@ Stk. 1. Loven træder i kraft dagen efter bekendtgørelsen i Lovtidende, jf. dog
 
 Stk. 2. (Udelades)
 
-Stk. 3. Justitsministeren fastsætter tidspunktet for ikrafttrædelsen af retsplejelovens § 786, stk. 4 og 6, som affattet ved denne lovs § 2, nr. 3 .
+Stk. 3. Justitsministeren fastsætter tidspunktet for ikrafttrædelsen af retsplejelovens § 786, stk. 4 og 6, som affattet ved denne lovs § 2, nr. 3.
 
 Stk. 4. (Udelades)
 
@@ -62,7 +62,7 @@ Lov nr. 447 af 9. juni 2004 (Digital kommunikation i retsplejen, kendelser med b
 
 § 5
 
-Stk. 1. Loven træder i kraft efter justitsministerens nærmere bestemmelse. Lovens § 1, nr. 1, 2, 8-11 og 13-16, træder dog i kraft den 1. juli 2004 .
+Stk. 1. Loven træder i kraft efter justitsministerens nærmere bestemmelse. Lovens § 1, nr. 1, 2, 8-11 og 13-16, træder dog i kraft den 1. juli 2004.
 
 Stk. 2. (Udelades)
 
@@ -80,7 +80,7 @@ Lov nr. 554 af 24. juni 2005 (Sagsomkostninger, retshjælp og fri proces), som �
 
 § 12
 
-Stk. 1. Lovens § 1, nr. 1, 6, 8, 10, 11, 13-17, 19 og 25, §§ 3-5 og § 7, nr. 3 og 4, træder i kraft den 1. juli 2005. Lovens § 1, nr. 2-5, 7, 9, 12, 18 og 20-24, § 2, § 6, § 7, nr. 1 og 2, og §§ 8-11 træder i kraft den 1. januar 2007 .
+Stk. 1. Lovens § 1, nr. 1, 6, 8, 10, 11, 13-17, 19 og 25, §§ 3-5 og § 7, nr. 3 og 4, træder i kraft den 1. juli 2005. Lovens § 1, nr. 2-5, 7, 9, 12, 18 og 20-24, § 2, § 6, § 7, nr. 1 og 2, og §§ 8-11 træder i kraft den 1. januar 2007.
 
 Stk. 2. I sager efter retsplejelovens kapitel 42, hvor ansøgning om fri proces er modtaget inden den 1. oktober 2009, opfylder en ansøger, der er samlevende, uanset retsplejelovens § 325, stk. 4, som affattet ved denne lovs § 1, nr. 9, tillige de økonomiske betingelser for fri proces, hvis ansøgerens eget indtægtsgrundlag ikke overstiger indtægtsgrænsen for enlige i retsplejelovens § 325, stk. 3, jf. stk. 2, som affattet ved denne lovs § 1, nr. 9.
 
@@ -98,7 +98,7 @@ Lov nr. 1398 af 21. december 2005 (Behandlingen af større straffesager om økon
 
 Stk. 1. Loven træder i kraft den 1. januar 2006.
 
-Stk. 2. Lovens § 1, nr. 1, har virkning for sager, hvor anklageskriftet indgives efter lovens ikrafttræden .
+Stk. 2. Lovens § 1, nr. 1, har virkning for sager, hvor anklageskriftet indgives efter lovens ikrafttræden.
 
 Lov nr. 1399 af 21. december 2005 (Den Særlige Klagerets behandling af klager over dommere m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
 
@@ -106,15 +106,15 @@ Lov nr. 1399 af 21. december 2005 (Den Særlige Klagerets behandling af klager o
 
 Stk. 1. Loven træder i kraft den 1. januar 2006.
 
-Stk. 2. Lovens § 1, nr. 3 og 4, finder anvendelse på forhold, der har fundet sted efter lovens ikrafttræden .
+Stk. 2. Lovens § 1, nr. 3 og 4, finder anvendelse på forhold, der har fundet sted efter lovens ikrafttræden.
 
-Lov nr. 526 af 7. juni 2006 (Digital skibsregistrering, pant, udlæg m.v. i fiskerirettigheder, fordeling af bjærgeløn og skibes hjemsted) indeholder følgende ikrafttrædelsesbestemmelse:
+Lov nr. 526 af 7. juni 2006 (Digital skibsregistrering, pant, udlæg m.v., i fiskerirettigheder, fordeling af bjærgeløn og skibes hjemsted) indeholder følgende ikrafttrædelsesbestemmelse:
 
 § 5
 
-Stk. 1. Økonomi- og erhvervsministeren fastsætter tidspunktet for lovens ikrafttræden, jf. dog stk. 2. Ministeren kan fastsætte, at dele af loven træder i kraft på et senere tidspunkt .
+Stk. 1. Økonomi- og erhvervsministeren fastsætter tidspunktet for lovens ikrafttræden, jf. dog stk. 2. Ministeren kan fastsætte, at dele af loven træder i kraft på et senere tidspunkt.
 
-Stk. 2. § 1, nr. 25 og 27, og § 3, nr. 3-5 træder i kraft dagen efter bekendtgørelsen i Lovtidende .
+Stk. 2. § 1, nr. 25 og 27, og § 3, nr. 3-5 træder i kraft dagen efter bekendtgørelsen i Lovtidende.
 
 Stk. 3-5. (Udelades)
 
@@ -144,7 +144,7 @@ Lov nr. 538 af 8. juni 2006 (Politi- og domstolsreform) indeholder følgende ikr
 
 Stk. 1. Loven træder i kraft den 1. januar 2007, jf. dog stk. 2-22 og § 106.
 
-Stk. 2. Reglerne om retternes saglige og stedlige kompetence og om rettens sammensætning som affattet ved denne lovs § 1, nr. 3, 55, 58-60, 77, 79, 113, 115, 122 og 123, og §§ 4-6, 8, 29, 32-40, 46, 47, 75-77, 83, 84, 87-96, 98 og 102 finder anvendelse i borgerlige sager, der anlægges efter lovens ikrafttræden, eller som henvises til behandling ved byretten i medfør af stk. 8, og i straffesager, hvor der ved lovens ikrafttræden ikke er rejst tiltale i 1. instans, jf. dog stk. 6, 2. pkt .
+Stk. 2. Reglerne om retternes saglige og stedlige kompetence og om rettens sammensætning som affattet ved denne lovs § 1, nr. 3, 55, 58-60, 77, 79, 113, 115, 122 og 123, og §§ 4-6, 8, 29, 32-40, 46, 47, 75-77, 83, 84, 87-96, 98 og 102 finder anvendelse i borgerlige sager, der anlægges efter lovens ikrafttræden, eller som henvises til behandling ved byretten i medfør af stk. 8, og i straffesager, hvor der ved lovens ikrafttræden ikke er rejst tiltale i 1. instans, jf. dog stk. 6, 2. pkt.
 
 Stk. 3. Retsplejelovens kapitel 33 som affattet ved denne lovs § 1, nr. 86, finder anvendelse i sager, der anlægges efter lovens ikrafttræden, eller som henvises til behandling ved byretten i medfør af stk. 8.
 
@@ -188,7 +188,7 @@ Stk. 18. Politidirektørerne for de i § 109 nævnte politikredse kan udnævnes 
 
 Stk. 19. En forsikringstager kan ikke opsige en forsikringsaftale på grund af en ændring af forsikringsvilkårene, som alene er begrundet med indførelsen af regler om en småsagsproces, jf. retsplejelovens kapitel 39 som affattet ved denne lovs § 1, nr. 102, eller med den ændring af størrelsen af sagsomkostningerne, der er en følge af denne lov.
 
-Stk. 20. Lovens § 1, nr. 32, og § 104, nr. 1, træder i kraft den 1. juli 2006 .
+Stk. 20. Lovens § 1, nr. 32, og § 104, nr. 1, træder i kraft den 1. juli 2006.
 
 Stk. 21. Første gang der beskikkes medlemmer til Procesbevillingsnævnet i medfør af retsplejelovens § 23, stk. 2, som affattet ved § 1, nr. 3, i lov nr. 554 af 24. juni 2005, sker beskikkelsen af landsdommeren og dennes suppleant eller suppleanter for en periode på 2 år og 6 måneder. Dette medlem og dets suppleant eller suppleanter har ret til genbeskikkelse for yderligere 2 år.
 
@@ -208,13 +208,13 @@ Lov nr. 542 af 8. juni 2006 (Styrkelse af indsatsen for at bekæmpe terrorisme m
 
 Stk. 1. Loven træder i kraft dagen efter bekendtgørelsen i Lovtidende, jf. dog stk. 2-5. § 6 finder anvendelse på anmodninger om udlevering efter Europarådets konvention om forebyggelse af terrorisme, henholdsvis FN-konventionen til bekæmpelse af nuklear terrorisme, der fremsættes efter, at den pågældende konvention er trådt i kraft mellem Danmark og vedkommende fremmede stat.
 
-Stk. 2. Justitsministeren fastsætter efter forhandling med ministeren for videnskab, teknologi og udvikling tidspunktet for ikrafttrædelsen af retsplejelovens § 791 a, stk. 6, som affattet ved denne lovs § 2, nr. 8 .
+Stk. 2. Justitsministeren fastsætter efter forhandling med ministeren for videnskab, teknologi og udvikling tidspunktet for ikrafttrædelsen af retsplejelovens § 791 a, stk. 6, som affattet ved denne lovs § 2, nr. 8.
 
 Stk. 3. Retsplejelovens § 791 c som affattet ved denne lovs § 2, nr. 11, træder i kraft den 1. juli 2006.
 
 Stk. 4. Transport- og energiministeren fastsætter efter forhandling med justitsministeren tidspunktet for ikrafttrædelsen af luftfartslovens § 148 a som affattet ved denne lovs § 5, nr. 1.
 
-Stk. 5. § 3 træder i kraft den 1. januar 2007 .
+Stk. 5. § 3 træder i kraft den 1. januar 2007.
 
 Lov nr. 181 af 28. februar 2007 (Gruppesøgsmål m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
 
@@ -278,7 +278,7 @@ Lov nr. 67 af 11. februar 2008 (Forsøgsordning med lydoptagelse af forklaringer
 
 § 2
 
-Loven træder i kraft dagen efter bekendtgørelsen i Lovtidende .
+Loven træder i kraft dagen efter bekendtgørelsen i Lovtidende.
 
 Lov nr. 168 af 12. marts 2008 (Retsmægling m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
 
@@ -286,6 +286,52 @@ Lov nr. 168 af 12. marts 2008 (Retsmægling m.v.) indeholder følgende ikrafttr�
 
 Stk. 1. Loven træder i kraft den 1. april 2008, jf. dog stk. 2.
 
-Stk. 2. (Udelades).
+Stk. 2. (Udelades)
 
 Stk. 3. En forsikringstager kan ikke opsige en forsikringsaftale på grund af en ændring af forsikringsvilkårene, som alene er begrundet med indførelse af regler om retsmægling, jf. retsplejelovens kapitel 27 som affattet ved denne lovs § 1, nr. 8.
+
+Lov nr. 479 af 17. juni 2008 (Gennemførelse af Prümafgørelsen om udveksling af oplysninger om dna-profiler, fingeraftryk og køretøjer m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 6
+
+Stk. 1. Justitsministeren fastsætter tidspunktet for lovens ikrafttræden, jf. dog stk. 2, og kan herunder fastsætte, at lovens §§ 1-3 og 5 træder i kraft på forskellige tidspunkter.
+
+Stk. 2. (Udelades)
+
+Lov nr. 484 af 17. juni 2008 (Ophævelse af den generelle pligtige afgangsalder på 70 år m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 9
+
+Stk. 1. Loven træder i kraft dagen efter bekendtgørelsen i Lovtidende.
+
+Stk. 2. (Udelades)
+
+Lov nr. 490 af 17. juni 2008 (Dansk Straffemyndighed) indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 8
+
+Loven træder i kraft den 1. juli 2008.
+
+Lov nr. 493 af 17. juni 2008 (Begrænsning af langvarige sigtelser og varetægtsfængslinger m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 2
+
+Loven træder i kraft den 1. juli 2008.
+
+Lov nr. 495 af 17. juni 2008 (Justering af dommernormeringen ved byretterne m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 2
+
+Justitsministeren fastsætter tidspunktet for lovens ikrafttræden.
+
+Lov nr. 499 af 17. juni 2008 (Retshåndhævelsesarrest i visse sædelighedssager) indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 2
+
+Loven træder i kraft den 1. juli 2008.
+
+Lov nr. 500 af 17. juni 2008 (Styrkelse af indsatsen mod ulovlige skydevåben og knive på offentligt tilgængelige steder) indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 5
+
+Loven træder i kraft den 1. juli 2008.
