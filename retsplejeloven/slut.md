@@ -1,10 +1,8 @@
-Justitsministeriet, den 20. juni 2008
+Justitsministeriet, den 6. november 2008
 
-Lene Espersen
+Brian Mikkelsen
 
-/ Christina Toftegaard Nielsen
-
-Bilag 1
+/ Nikolaj Aarø-Hansen
 
 INDHOLDSFORTEGNELSE
 
@@ -20,7 +18,7 @@ Kap. 2. | Retsmøder | §§ | 28-32 d
 
 Kap. 3. | Retsbøger og sagens dokumenter | §§ | 33-39
 
-Kap. 3 a. | Aktindsigt | §§ | 41- 41 g
+Kap. 3 a. | Aktindsigt | §§ | 41-41 g
 
 Kap. 4. | Dommere, fuldmægtige m.m. | §§ | 42-59
 
@@ -58,15 +56,15 @@ Kap. 13. | Advokaternes møderet for domstolene - Autoriserede advokatfuldmægti
 
 Kap. 14. | Ophør af retten til at udøve advokatvirksomhed | §§ | 137-142
 
-Kap. 15. | Advokatsamfundet og Advokatnævnet | §§ | 143- 145 a
+Kap. 15. | Advokatsamfundet og Advokatnævnet | §§ | 143-145 a
 
-Kap. 15 a. | Salærklager | §§ | 146- 147 a
+Kap. 15 a. | Salærklager | §§ | 146-147 a
 
 Kap. 15 b. | Disciplinærsager | §§ | 147 b-147 h
 
 Anden bog. Fælles bestemmelser for borgerlige sager og straffesager
 
-Kap. 16. | Almindelige bestemmelser om procesmåden | §§ | 148- 152 a
+Kap. 16. | Almindelige bestemmelser om procesmåden | §§ | 148-152 a
 
 Kap. 17. | Forkyndelser m.v. | §§ | 153-165
 
@@ -86,7 +84,7 @@ Kap. 22. | Stedlig kompetence | §§ | 235-248
 
 Kap. 23. | Sammenlægning og adskillelse af krav | §§ | 249-254
 
-Kap. 23 a. | Gruppesøgsmål | §§ | 254 a- 254 k
+Kap. 23 a. | Gruppesøgsmål | §§ | 254 a-254 k
 
 Kap. 24. | Sagens parter | §§ | 255-259
 
@@ -118,7 +116,7 @@ Kap. 35. | Genoptagelse | § | 367
 
 Kap. 36. | Anke | §§ | 368-388
 
-Kap. 37. | Kære | §§ | 389- 398 a
+Kap. 37. | Kære | §§ | 389-398 a
 
 Kap. 38. | Ekstraordinær genoptagelse og anke | § | 399
 
@@ -136,11 +134,11 @@ Kap. 43 a. | Prøvelse af administrativt bestemt frihedsberøvelse | §§ | 468-
 
 Kap. 43 b. | Prøvelse af beslutning om adoption uden samtykke | §§ | 475 a-475 i
 
-Kap. 44. | Fremgangsmåden ved at erhverve mortifikations- eller ejendomsdom . | §§ | 476-477
+Kap. 44. | Fremgangsmåden ved at erhverve mortifikations- eller ejendomsdom | §§ | 476-477
 
 Tredje afsnit. Betalingspåkrav
 
-Kap. 44 a. | . | §§ | 477 a- 477 g
+Kap. 44 a. | §§ | 477 a-477 g
 
 Fjerde afsnit. Tvangsfuldbyrdelse
 
@@ -212,7 +210,7 @@ Kap. 70. | Varetægtsfængsling | §§ | 762-778
 
 Kap. 71. | Indgreb i meddelelseshemmeligheden, observation, dataaflæsning og forstyrrelse eller afbrydelse af radio- eller telekommunikation | §§ | 780-791 c
 
-Kap. 72. | Legemsindgreb | §§ | 792- 792 f
+Kap. 72. | Legemsindgreb | §§ | 792-792 f
 
 Kap. 73. | Ransagning | §§ | 793-800
 
@@ -222,7 +220,7 @@ Kap. 75. | Personundersøgelser | §§ | 808-811
 
 Kap. 75 a. | Andre efterforskningsskridt | §§ | 812-819
 
-Kap. 75 b. | Indgreb over for personer under 15 år | §§ | 821 a- 821 g
+Kap. 75 b. | Indgreb over for personer under 15 år | §§ | 821 a-821 g
 
 Tredje afsnit. Tiltale og hovedforhandling i 1. instans
 
@@ -258,15 +256,15 @@ Kap. 87. | (Ophævet)
 
 Kap. 88. | Regler om behandlingen af private straffesager | §§ | 989-990
 
-Kap. 89. | Påtale af borgerlige krav under straffesager | §§ | 991- 996 a
+Kap. 89. | Påtale af borgerlige krav under straffesager | §§ | 991-996 a
 
 Syvende afsnit. Fuldbyrdelsen af domme i straffesager
 
-Kap. 90. | . | §§ | 997-1006
+Kap. 90. | §§ | 997-1006
 
 Ottende afsnit. Sagsomkostninger m.v. i straffesager
 
-Kap. 91. | Sagsomkostninger | §§ | 1007- 1014 a
+Kap. 91. | Sagsomkostninger | §§ | 1007-1014 a
 
 Kap. 92. | Offentlig omtale m.v. af straffesager | §§ | 1016 a-1017 d
 
@@ -278,7 +276,7 @@ Tiende afsnit.
 
 Kap. 93 a. | Erstatning i anledning af strafferetlig forfølgning | §§ | 1018 a-1018 h
 
-Kap. 93 b. | Behandling af klager over politipersonalet | §§ | 1019- 1019 m
+Kap. 93 b. | Behandling af klager over politipersonalet | §§ | 1019-1019 m
 
 Kap. 93 c. | Straffesager mod politipersonale | §§ | 1020-1020 i
 
@@ -286,6 +284,6 @@ Kap. 93 d. | Politiklagenævn | §§ | 1021-1021 h
 
 Femte bog. Slutnings- og overgangsbestemmelser
 
-Kap. 94. | Slutningsbestemmelser | §§ | 1022- 1023 a
+Kap. 94. | Slutningsbestemmelser | §§ | 1022-1023 a
 
 Kap. 95. | Overgangsbestemmelser (Udeladt) | §§ | 1024-1043
