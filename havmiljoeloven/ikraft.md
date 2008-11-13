@@ -90,7 +90,7 @@ Lov nr. 1173 af 19. december 2003 om ændring af lov om sikkerhed til søs, lov 
 
 § 8
 
-Økonomi- og erhvervsministeren fastsætter tidspunktet for lovens ikrafttræden
+Økonomi- og erhvervsministeren fastsætter tidspunktet for lovens ikrafttræden.
 
 Stk. 2. Sager, som ved denne lovs ikrafttræden er modtaget til behandling i Tilbageholdelsesnævnet eller Besætningsnævnet, færdigbehandles af disse nævn efter de hidtil gældende regler.
 
@@ -149,3 +149,33 @@ Loven træder i kraft den 1. januar 2007.
 Lov nr. 551 af 6. juni 2007 om Metroselskabet I/S og Arealudviklingsselskabet I/S, hvis § 30 angår § 51, stk. 3, nr. 1, indeholder bl.a. følgende ikrafttrædelsesbestemmelse:
 
 § 28. Transport- og energiministeren fastsætter tidspunktet for lovens eller dele af lovens ikrafttræden.
+
+Lov nr. 172 af 12. marts 2008 om ændring af forskellige love på Miljøministeriets område m.v., som indsætter § 58 b, indeholder følgende ikrafttrædelsesbestemmelse
+
+§ 6
+
+Loven træder i kraft dagen efter bekendtgørelsen i Lovtidende.
+
+Lov nr. 173 af 12. marts 2008 om ændring af lov om miljøbeskyttelse og forskellige andre love som ændrer § 59 og indsætter § 45 b og 45 c, indeholder følgende ikrafttrædelsesbestemmelse
+
+§ 4
+
+Stk. 1. Loven træder i kraft den 1. april 2008, jf. dog stk. 2.
+
+Lov nr. 507 af 17. juni 2008 om ændring af lov om miljøbeskyttelse og forskellige andre love (Implementering af miljøansvarsdirektivet), som ændrer § 2,§ 39, § 44, § 49, § 51, § 59, § 61 og § 63 a, ophæver § 38 og indsætter § 34 a og kapitel 14 a (§§ 47 a – 47 k) , indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 15
+
+Stk. 1. Loven træder i kraft den 1. juli 2008, jf. dog stk. 3.
+
+Stk. 2. –
+
+Stk. 3. Miljøministeren fastsætter tidspunktet for ikrafttræden af § 3, nr. 5 og 16.
+
+Stk. 4. Regler fastsat i medfør af § 8, stk. 3, og § 9, stk. 5, i lov nr. 292 af 10. juni 1981 om visse havanlæg, for så vidt angår fare for forurening af havmiljøet forbliver i kraft, indtil de ophæves eller afløses af regler udstedt i medfør af lov om beskyttelse af havmiljøet.
+
+Lov nr. 508 af 17. juni 2008 om ændring af lov om naturbeskyttelse, lov om jagt og vildtforvaltning og forskellige andre love (Gennemførelse af direktiver om naturbeskyttelse), som ændrer § 26 og indsætter § 46 og § 57 a, indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 16
+
+Loven træder i kraft den 1. juli 2008.

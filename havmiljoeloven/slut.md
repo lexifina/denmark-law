@@ -1,8 +1,8 @@
-Miljøministeriet, den 7. januar 2008
+Miljøministeriet, den 20. oktober 2008
 
 Troels Lund Poulsen
 
-/ Anne-Marie Rasmussen
+/ Niels Christensen
 
 Bilag 1
 
