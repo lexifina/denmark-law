@@ -1,4 +1,4 @@
-§ 51a. Forbud eller påbud efter § 43 eller § 43 a, stk. 1 eller 2, over for skibe og platforme kan påklages til Ankenævnet for Søfartsforhold, der er nedsat i medfør af lov om sikkerhed til søs. Nævnets afgørelser kan ikke indbringes for anden administrativ myndighed.
+§ 51 a. Forbud eller påbud efter § 43 eller § 43 a, stk. 1 eller 2, over for skibe og platforme kan påklages til Ankenævnet for Søfartsforhold, der er nedsat i medfør af lov om sikkerhed til søs. Nævnets afgørelser kan ikke indbringes for anden administrativ myndighed.
 
 Stk. 2. I forbindelse med behandling af en klagesag efter stk. 1 indhenter Ankenævnet for Søfartsforhold en udtalelse om sagen fra en af miljøministeren udpeget sagkyndig.
 

@@ -1,3 +1,3 @@
 Bekendtgørelse af lov om beskyttelse af havmiljøet
 
-Herved bekendtgøres lov om beskyttelse af havmiljøet, jf. lovbekendtgørelse nr. 925 af 28. september 2005, med de ændringer, der følger af § 2 i lov nr. 545 af 24. juni 2005, § 1 i lov nr. 564 af 24. juni 2005, § 1 i lov nr. 474 af 31. maj 2006, § 3 i lov nr. 571 af 9. juni 2006, § 2 i lov nr. 1571 af 20. december 2006 og § 30 i lov nr. 551 af 6. juni 2007.
+Herved bekendtgøres lov om beskyttelse af havmiljøet, jf. lovbekendtgørelse nr. 47 af 7. januar 2008, med de ændringer, der følger af § 3 i lov nr. 172 af 12. marts 2008, § 2 i lov nr. 173 af 12. marts 2008, § 3 i lov nr. 507 af 17. juni 2008, og § 4 i lov nr. 508 af 17. juni 2008.
