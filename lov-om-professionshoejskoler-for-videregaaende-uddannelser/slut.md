@@ -1,7 +1,5 @@
-Givet på Christiansborg Slot, den 6. juni 2007
+Undervisningsministeriet, den 18. november 2008
 
-Under Vor Kongelige Hånd og Segl
+Bertel Haarder
 
-Margrethe R.
-
-/Bertel Haarder
+/ Ella Højbjerg Madsen
