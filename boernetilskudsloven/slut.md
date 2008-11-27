@@ -1,5 +1,5 @@
-Ministeriet for Familie- og Forbrugeranliggender, den 3. september 2004
+Velfærdsministeriet, den 24. november 2008
 
-P.M.V. Claes Nilas
+P.M.V. Christian Schønau
 
-/Aksel Meyer
+/ Eva Pedersen
