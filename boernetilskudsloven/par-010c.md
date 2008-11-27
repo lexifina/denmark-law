@@ -14,9 +14,9 @@ Stk. 7. Den aktuelle indtægt består af
 
 1) personlig indkomst med tillæg af positiv nettokapitalindkomst, der anvendes ved beregning af indkomstskat efter personskattelovens § 7, dog før de deri nævnte bundfradrag og fradrag for grundbeløb, og
 
-2) aktieindkomst, der beskattes efter personskattelovens § 8 a, stk. 1 og 2, bortset fra udbytteindkomst op til 5.000 kr., hvori der er indeholdt endelig udbytteskat.
+2) aktieindkomst, der beskattes efter per­sonskattelovens § 8 a, stk. 1 og 2, bortset fra udbytteindkomst op til 5.000 kr., hvori der er indeholdt endelig udbytteskat.
 
-Stk. 8. Socialministeren fastsætter regler for, hvorledes indkomster, som er omfattet af ligningslovens § 33 C, skal indgå i den aktuelle indtægt, jf. stk. 7.
+Stk. 8. Velfærdsministeren fastsætter regler for, hvorledes indkomster, som er omfattet af ligningslovens § 33 C, skal indgå i den aktuelle indtægt, jf. stk. 7.
 
 Stk. 9. Det er en forudsætning for udbetaling af tilskud, at ansøgeren over for kommunalbestyrelsen fremlægger dokumentation for de aktuelle indtægter og for deltagelse i en uddannelse, som berettiger til tilskud efter stk. 1.
 
