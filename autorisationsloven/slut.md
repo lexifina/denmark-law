@@ -1,7 +1,5 @@
-Givet på Christiansborg Slot, den 22. maj 2006
+Ministeriet for Sundhed og Forebyggelse, den 17. december 2008
 
-Under Vor Kongelige Hånd og Segl
+Jakob Axel Nielsen
 
-I Dronningens Navn: FREDERIK Kronprins
-
-/Lars Løkke Rasmussen
+/ Mogens Jørgensen
