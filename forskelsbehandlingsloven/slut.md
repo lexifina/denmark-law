@@ -1,22 +1,18 @@
-Beskæftigelsesministeriet, den, den 12. januar 2005
+Beskæftigelsesministeriet, den 16. december 2008
 
 Claus Hjort Frederiksen
 
-/E. Edelberg
+/ Lise Fangel
 
 Bilag 1
 
-## RÅDETS DIREKTIV 2000/78/EF af 27. november 2000 om generelle rammebestemmelser om ligebehandling med hensyn til beskæftigelse og erhverv
+RÅDETS DIREKTIV 2000/78/EF af 27. november 2000 om generelle rammebestemmelser om ligebehandling med hensyn til beskæftigelse og erhverv
 
-RÅDET FOR DEN EUROPÆISKE UNION HAR 
+RÅDET FOR DEN EUROPÆISKE UNION HAR —
 
 under henvisning til traktaten om oprettelse af Det Europæiske Fællesskab, særlig artikel 13,
 
-under henvisning til forslag fra Kommissionen,
-
-under henvisning til udtalelse fra Europa-Parlamentet, under henvisning til udtalelse fra Det Økonomiske og Sociale Udvalg,
-
-under henvisning til udtalelse fra Regionsudvalget, og ud fra følgende betragtninger:
+under henvisning til forslag fra Kommissionen, under henvisning til udtalelse fra Europa-Parlamentet, under henvisning til udtalelse fra Det Økonomiske og Sociale Udvalg, under henvisning til udtalelse fra Regionsudvalget, og ud fra følgende betragtninger:
 
 (1) I henhold til artikel 6 i traktaten om Den Europæiske Union bygger Unionen på principperne om frihed, demokrati og respekt for menneskerettighederne og de grundlæggende frihedsrettigheder samt retsstatsprincippet, der alle er principper, som medlemsstaterne har til fælles, og den respekterer de grundlæggende rettigheder, således som de garanteres ved den europæiske konvention til beskyttelse af menneskerettigheder og grundlæggende frihedsrettigheder, og således som de følger af medlemsstaternes fælles forfatningsmæssige traditioner, som generelle principper for fællesskabsretten.
 
@@ -90,9 +86,9 @@ under henvisning til udtalelse fra Regionsudvalget, og ud fra følgende betragtn
 
 (36) Medlemsstaterne kan overlade det til arbejdsmarkedets parter, efter en fælles anmodning fra disse, at gennemføre dette direktiv for så vidt angår bestemmelser, som henhører under kollektive overenskomster, forudsat at medlemsstaterne træffer de fornødne foranstaltninger for på et hvilket som helst tidspunkt at være i stand til at sikre de resultater, der er foreskrevet i dette direktiv.
 
-(37) I overensstemmelse med subsidiaritetsprincippet, jf. artikel 5 i EF-traktaten, kan målet for den påtænkte handling, nemlig at sikre ensartede vilkår i Fællesskabet med hensyn til beskyttelse af retten til ligestilling i relation til beskæftigelse og erhverv, ikke i tilstrækkelig grad opfyldes af medlemsstaterne, og kan derfor på grund af den påtænkte handlings omfang og virkninger bedre gennemføres på fællesskabsplan. I overensstemmelse med proportionalitetsprincippet, jf. nævnte artikel, går dette direktiv ikke ud over, hvad der er nødvendigt for at nå dette mål 
+(37) I overensstemmelse med subsidiaritetsprincippet, jf. artikel 5 i EF-traktaten, kan målet for den påtænkte handling, nemlig at sikre ensartede vilkår i Fællesskabet med hensyn til beskyttelse af retten til ligestilling i relation til beskæftigelse og erhverv, ikke i tilstrækkelig grad opfyldes af medlemsstaterne, og kan derfor på grund af den påtænkte handlings omfang og virkninger bedre gennemføres på fællesskabsplan. I overensstemmelse med proportionalitetsprincippet, jf. nævnte artikel, går dette direktiv ikke ud over, hvad der er nødvendigt for at nå dette mål —
 
-UDSTEDT FØLGENDE DIREKTIV:
+## UDSTEDT FØLGENDE DIREKTIV:
 
 ## KAPITEL I
 
@@ -118,7 +114,7 @@ b) foreligger der indirekte forskelsbehandling, hvis en tilsyneladende neutral b
 
 i) den pågældende bestemmelse, betingelse eller praksis er objektivt begrundet i et legitimt mål, og midlerne til at opfylde det er hensigtsmæssige og nødvendige, eller
 
-ii ) medmindre arbejdsgiveren eller enhver anden person eller organisation omfattet af dette direktiv, i medfør af den nationale lovgivning er nødt til at træffe passende foranstaltninger for så vidt angår personer med et bestemt handicap i henhold til principperne i artikel 5 med henblik på at afhjælpe ufordelagtige virkninger af denne bestemmelse, dette kriterium eller denne praksis.
+ii) medmindre arbejdsgiveren eller enhver anden person eller organisation omfattet af dette direktiv, i medfør af den nationale lovgivning er nødt til at træffe passende foranstaltninger for så vidt angår personer med et bestemt handicap i henhold til principperne i artikel 5 med henblik på at afhjælpe ufordelagtige virkninger af denne bestemmelse, dette kriterium eller denne praksis.
 
 3. Chikane betragtes som forskelsbehandling som defineret i stk. 1, hvis en uønsket optræden i relation til en af de i artikel 1 anførte grunde finder sted med det formål eller den virkning at krænke en persons værdighed og skabe et truende, fjendtlig, nedværdigende, ydmygende eller ubehageligt klima. I den forbindelse kan begrebet chikane defineres i overensstemmelse med medlemsstaternes nationale lovgivning og praksis.
 
@@ -204,7 +200,7 @@ c) fastsættelse af en maksimal aldersgrænse for ansættelse, som er baseret p�
 
 1. Medlemsstaterne sikrer, at enhver, der mener sig krænket, fordi princippet om ligebehandling tilsidesættes i forhold til den pågældende, kan indgive klage til retslige og/eller administrative instanser, herunder, hvor de finder det hensigtsmæssigt, til forligsinstanser, med henblik på håndhævelse af forpligtelserne i henhold til dette direktiv, selv efter at det forhold, hvori forskelsbehandlingen angiveligt har fundet sted, er ophørt.
 
-2. Medlemsstaterne sikrer, at foreninger, organisationer og andre juridiske personer, der efter kriterierne i deres nationale ret har en legitim interesse i at sikre, at dette direktivs bestemmelser overholdes, er berettigede til  enten på vegne af eller til støtte for klageren med dennes godkendelse  at indtræde som part i klagen til retslige og/eller administrative instanser med henblik på håndhævelsen af forpligtelserne i henhold til dette direktiv.
+2. Medlemsstaterne sikrer, at foreninger, organisationer og andre juridiske personer, der efter kriterierne i deres nationale ret har en legitim interesse i at sikre, at dette direktivs bestemmelser overholdes, er berettigede til — enten på vegne af eller til støtte for klageren med dennes godkendelse — at indtræde som part i klagen til retslige og/eller administrative instanser med henblik på håndhævelsen af forpligtelserne i henhold til dette direktiv.
 
 3. Stk. 1 og 2 berører ikke nationale regler om tidsfrister for anlæggelse af sager vedrørende princippet om ligebehandling.
 
@@ -224,7 +220,7 @@ c) fastsættelse af en maksimal aldersgrænse for ansættelse, som er baseret p�
 
 ## Artikel 11
 
-## Beskyttelse modrepressalier
+## Beskyttelse mod repressalier
 
 Medlemsstaterne indfører i deres retsorden de nødvendige foranstaltninger til at beskytte arbejdstagere mod afskedigelse eller anden ufordelagtig behandling fra arbejdsgiverens side som reaktion på en klage inden for virksomheden eller enhver form for retsforfølgning med det formål at sikre, at princippet om ligebehandling iagttages.
 
@@ -312,8 +308,14 @@ Dette direktiv er rettet til medlemsstaterne.
 
 Udfærdiget i Bruxelles, den 27. november 2000.
 
-## På Rådets vegne
+På Rådets vegne
 
-## É. GUIGOU
+É. GUIGOU
 
-## Formand
+Formand
+
+Links til EF direktiver, jf. note 1
+
+Direktiv 2000/43/EF Celex no. 32000L0043
+
+Direktiv 2000/78/EF Celex no. 32000L0078
