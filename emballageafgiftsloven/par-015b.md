@@ -1,0 +1,1 @@
+§ 15 b. Told- og skatteforvaltningen kan pålægge ejeren af en virksomhed eller den ansvarlige daglige ledelse heraf daglige bøder for manglende efterlevelse af påbud, som kan gives efter § 9, stk. 9 og 10. De daglige bøder skal udgøre mindst 1.000 kr. pr. dag.
