@@ -1,0 +1,1 @@
+§ 23 b. Told- og skatteforvaltningen kan pålægge ejeren af en virksomhed eller den ansvarlige daglige ledelse heraf daglige bøder for manglende efterlevelse af påbud, som kan gives efter § 12, stk. 8 og 9, og § 13, stk. 5 og 6. De daglige bøder skal udgøre mindst 1.000 kr. pr. dag.

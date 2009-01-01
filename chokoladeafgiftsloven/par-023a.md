@@ -1,0 +1,1 @@
+§ 23 a. Told- og skatteforvaltningen kan fastsætte regler om, at afgiftspligtige varer, hvoraf der i strid med reglerne i denne lov ikke er svaret afgift, skal mærkes på en særlig måde, hvis varerne efterfølgende lovliggøres.

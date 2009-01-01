@@ -1,0 +1,1 @@
+§ 18 a. Told- og skatteforvaltningen kan pålægge ejeren af en virksomhed eller den ansvarlige daglige ledelse heraf daglige bøder for manglende efterlevelse af påbud, som kan gives efter § 4 a. De daglige bøder skal udgøre mindst 1.000 kr. pr. dag.
