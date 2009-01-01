@@ -1,0 +1,1 @@
+§ 25 b. Personer, der modtager førtidspen­sion efter lov om højeste, mellemste, forhøjet almindelig eller almindelig førtidspension m.v., er berettiget til børnetilskud efter de regler, der gælder for modtagere af folkepension.
