@@ -1,0 +1,1 @@
+§ 20 a. Undervisningsministeren kan fastsætte regler om, at der i uddannelser, der omfatter lønnet praktik, kan udbetales uddannelsesstøtte med dobbelt sats i måneden før den første lønnede praktikperiode.
