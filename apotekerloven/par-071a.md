@@ -1,3 +1,1 @@
-§ 71 a. Restanceinddrivelsesmyndigheden kan med tillæg af renter og omkostninger inddrive statskassens tilgodehavende hidrørende fra en efter § 71, stk. 1, ydet statsgaranti og misligholdte lån af apotekerfonden i henhold til lov om apotekervæsenet, jf. lovbekendtgørelse nr. 513 af 24. september 1975, jf. iøvrigt denne lovs § 75, stk. 5. Restanceinddrivelsesmyndigheden kan inddrive skyldige beløb ved udpantning og ved indeholdelse i løn m. v. hos den pågældende efter reglerne om inddrivelse af personlige skatter i kildeskatteloven.
-
-Stk. 2. Ministeren for sundhed og forebyggelse kan i samråd med skatteministeren fastsætte nærmere regler om fremgangsmåden i forbindelse med lønindeholdelsen.
+§ 71 a. (Ophævet)

@@ -1,1 +1,0 @@
-§ 14 b. Reglerne om eftergivelse og henstand i opkrævningslovens § 15 finder, for så vidt angår afgifter, renter, gebyrer og administrative bøder efter denne lov, alene anvendelse for de i § 3, stk. 3, omhandlede personer.
