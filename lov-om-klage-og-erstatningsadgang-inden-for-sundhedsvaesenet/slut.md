@@ -1,7 +1,5 @@
-Givet på Amalienborg, den 24. juni 2005
+Ministeriet for Sundhed og Forebyggelse, den 21. januar 2009
 
-Under Vor Kongelige Hånd og Segl
+Jakob Axel Nielsen
 
-MARGRETHE R.
-
-/Lars Løkke Rasmussen
+/ Mogens Jørgensen
