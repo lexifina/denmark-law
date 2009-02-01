@@ -1,1 +1,1 @@
-§ 7 b. Provstiudvalget påser, at kirke- og præstegårdskassernes budget for det kommende regnskabsår er i overensstemmelse med de af provstiudvalget fastsatte rammer og bevillinger, jf. § 7, stk. 1 og 2, ligesom provstiudvalget foretager legalitetskontrol af budgetterne.
+§ 7 b. Provstiudvalget påser, at kirkekassernes budget for det kommende regnskabsår er i overensstemmelse med de af provstiudvalget fastsatte rammer og bevillinger, jf. § 7, stk. 1 og 2, ligesom provstiudvalget foretager legalitetskontrol af budgetterne.

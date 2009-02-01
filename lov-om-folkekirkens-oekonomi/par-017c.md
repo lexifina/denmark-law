@@ -12,8 +12,8 @@ Stk. 4. Det konkrete antal medlemmer fra hvert provstiudvalg fastsættes i budge
 
 Stk. 5. En af provsterne udpeges som forretningsfører og drager omsorg for udførelsen af budgetudvalgets beslutninger.
 
-Stk. 6. Bestemmelserne i § 17 b, stk. 13 og stk. 58, finder tilsvarende anvendelse for budgetudvalgene.
+Stk. 6. Bestemmelserne i § 17 b, stk. 1, stk. 3, 4 og stk. 6-9, finder tilsvarende anvendelse for budgetudvalgene.
 
 Stk. 7. Hvis der i kommunen er sogne eller dele af sogne, som ikke ligger i de provstier, der er repræsenteret i budgetudvalget, har disse sognes provstiudvalg adgang til at sende en repræsentant til budgetudvalgets møder. Repræsentanten har tale- og forslagsret.
 
-Stk. 8. Budgetudvalget fastsætter det samlede ligningsbeløb til kommunens kirke-, præstegårdskasser og til provstiudvalgskasserne samt ligningsbeløbets fordeling mellem provstierne.
+Stk. 8. Budgetudvalget fastsætter det samlede ligningsbeløb til kommunens kirkekasser og til provstiudvalgskasserne samt ligningsbeløbets fordeling mellem provstierne.
