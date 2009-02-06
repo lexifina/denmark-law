@@ -1,5 +1,5 @@
-Kirkeministeriet, den 3. januar 2007
+Kirkeministeriet, den 2. februar 2009
 
-Bertel Haarder
+Birthe Rønn Hornbech
 
-/Lise-Lotte Gümoes
+/ Eva Stilov
