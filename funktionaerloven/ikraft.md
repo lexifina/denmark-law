@@ -97,3 +97,29 @@ Lov nr. 1416 af 22. december 2004 om ændring af lov om retsforholdet mellem arb
 Stk. 1. Loven træder i kraft dagen efter bekendtgørelsen i Lovtidende.
 
 Stk. 2. Loven har virkning for afskedigelser, der foretages efter lovens ikrafttræden.
+
+Lov nr. 542 af 24. juni 2005 om regional statsforvaltning, som ændrer lovens § 11, indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 6
+
+Loven træder i kraft den 1. januar 2007,---.
+
+Stk. 2. ---.
+
+Lov nr. 566 af 9. juni 2006 om ret til orlov og dagpenge ved barsel (barselloven), som ændrer lovens § 7, indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 55
+
+Loven træder i kraft den 3. juli 2006.
+
+Stk. 2. ---.
+
+Lov nr. 312 af 30. april 2008 om ændring af lov om retsforholdet mellem arbejdsgivere og funktionærer (Administrative lettelser på funktionærrettens område), som ændrer lovens § 2, § 10, § 11 og § 13 samt ophæver lovens § 17, indeholder følgende ikrafttrædelsesbestemmelser:
+
+§ 2
+
+Loven træder i kraft den 1. juni 2008.
+
+§ 3
+
+Loven gælder ikke for Grønland, men kan ved kongelig anordning helt eller delvis sættes i kraft for Grønland med de afvigelser, som de særlige grønlandske forhold tilsiger.

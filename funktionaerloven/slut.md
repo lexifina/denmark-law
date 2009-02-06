@@ -1,5 +1,5 @@
-Beskæftigelsesministeriet, den 21. januar 2005
+Beskæftigelsesministeriet, den 3. februar 2009
 
 Claus Hjort Frederiksen
 
-/E. Edelberg
+/ Lise Fangel
