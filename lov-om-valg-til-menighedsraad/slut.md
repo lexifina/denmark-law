@@ -1,5 +1,5 @@
-Kirkeministeriet, den 4. marts 2008
+Kirkeministeriet, den 2. februar 2009
 
 Birthe Rønn Hornbech
 
-/ Betina Sidelmann
+/ Eva Stilov
