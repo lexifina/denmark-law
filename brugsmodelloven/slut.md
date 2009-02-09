@@ -1,7 +1,5 @@
-Givet på Christiansborg Slot, den 21. december 2005
+Økonomi- og Erhvervsministeriet, den 28. januar 2009
 
-Under Vor Kongelige Hånd og Segl
+Lene Espersen
 
-MARGRETHE R.
-
-/Bendt Bendtsen
+/ Jesper Kongstad
