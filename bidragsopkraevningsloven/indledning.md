@@ -1,3 +1,3 @@
-Bekendtgørelse af lov om inddrivelse af underholdsbidrag
+Bekendtgørelse af lov om opkrævning af underholdsbidrag
 
-Herved bekendtgøres med virkning fra den 1. november 2005 lov om inddrivelse af underholdsbidrag, jf. lovbekendtgørelse nr. 631 af 15. september 1986, med de ændringer, der følger af § 14 i lov nr. 389 af 7. juni 1989, § 11 i lov nr. 396 af 13. juni 1990, § 10 i lov nr. 399 af 6. juni 1991, § 7 i lov nr. 448 af 1. juni 1994, § 10 i lov nr. 1203 af 27. december 1996, § 19 i lov nr. 980 af 17. december 1997, § 15 i lov nr. 433 af 31. maj 2000, § 9 i lov nr. 461 af 7. juni 2001, § 25 i lov nr. 430 af 6. juni 2005, § 28 i lov nr. 431 af 6. juni 2005 og § 26 i lov nr. 542 af 24. juni 2005. Enkelte bestemmelser gælder dog først fuldt ud fra den 1. januar 2007, jf. § 2, stk.1, § 4, stk. 2, § 20, § 23 a, stk. 2 og § 23 b.
+Herved bekendtgøres lov om opkrævning af underholdsbidrag, jf. lovbekendtgørelse nr. 946 af 10. oktober 2005, med de ændringer, der følger af § 13 i lov nr. 1336 af 19. december 2008.
