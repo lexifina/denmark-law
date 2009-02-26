@@ -12,8 +12,16 @@ Stk. 3. Kapitel 11 i lov om kommunale og regionale valg om medlemmers udtræden 
 
 Stk. 4. Funktionsperioden for det valgbarhedsnævn, hvis funktionsperiode regnes fra den 1. april 2002, forlænges med 1 år fra den 1. april 2006 til den 31. marts 2007. Funktionsperioden for det valgbarhedsnævn, hvis funktionsperiode regnes fra den 1. april 2007, forkortes med 1 år fra den 31. marts 2011 til den 31. marts 2010.
 
-Lov nr. 222 af 8. april 2008, der ændrer § 60, stk. 1 og 2, samt § 61, indeholder i § 4 følgende ikrafttrædelsesbestemmelse:
+Lov nr. 1347 af 19. december 2008, der ændrer § 48 og 57 samt 67, indeholder i § 4 følgende ikrafttrædelsesbestemmelser. (Lovændringen angår hjælp til stemmeafgivningen.)
 
 § 4
 
-Loven træder i kraft den 1. juli 2008.
+Loven træder i kraft den 1. april 2009.
+
+§ 5
+
+…
+
+§ 6
+
+Loven gælder ikke for Færøerne og Grønland
