@@ -1,0 +1,1 @@
+§ 8 b. Justitsministeren kan fastsætte nærmere regler om afgivelse og opbevaring af kreditoplysninger efter § 8 a. Justitsministeren kan herunder navnlig fastsætte, at kreditoplysningerne skal afgives i en anden form, og at visse aftaler om henstand helt eller delvis skal undtages fra pligten til at afgive kreditoplysninger.
