@@ -1,0 +1,1 @@
+§ 43 a. Miljøministeren kan fastsætte regler om, at visse laboratorier skal etablere et system til styring af beholdninger af meget giftige eller giftige kemiske stoffer og produkter, herunder at der skal udpeges en ansvarlig for et sådant system.
