@@ -4,9 +4,11 @@
 
 2) indkvarteringssted for de i § 42 a, stk. 1 og 2, nævnte udlændinge,
 
-3) faciliteter til brug for frihedsberøvelse i medfør af § 36 og
+3) faciliteter til brug for varetægtsfængsling i medfør af § 35, stk. 1, nr. 1. og stk. 2, af personer, som har modtaget dom og afsonet eventuel idømt straf, og som alene varetægtsfængsles med henblik på at sikre en effektiv fuldbyrdelse af udvisningen,
 
-4) faciliteter til brug for administration i tilknytning til de i nr. 1-3 nævnte funktioner.
+4) faciliteter til brug for frihedsberøvelse i medfør af § 36 og
+
+5) faciliteter til brug for administration i tilknytning til de i nr. 1-4 nævnte funktioner.
 
 Stk. 2. Ministeren for flygtninge, indvandrere og integration kan i forbindelse med beslutninger efter stk. 1 bestemme, at eventuelle region-, kommune- eller lokalplaner suspenderes helt eller delvis, for så vidt angår de i stk. 1 nævnte ejendomme.
 
