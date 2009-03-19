@@ -1,3 +1,3 @@
-Lov om gødning og jordforbedringsmidler m.v.
+Bekendtgørelse af lov om gødning og jordforbedringsmidler m.v.
 
-VI MARGRETHE DEN ANDEN, af Guds Nåde Danmarks Dronning, gør vitterligt: Folketinget har vedtaget og Vi ved Vort samtykke stadfæstet følgende lov:
+Herved bekendtgøres lov nr. 318 af 31. marts 2007 om gødning og jordforbedringsmidler m.v., med de ændringer, der følger af § 51 i lov nr. 1336 af 19. december 2008.

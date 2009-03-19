@@ -1,7 +1,5 @@
-Givet på Marselisborg Slot, den 31. marts 2007
+Ministeriet for Fødevarer, Landbrug og Fiskeri, den 12. marts 2009
 
-Under Vor Kongelige Hånd og Segl
+Eva Kjer Hansen
 
-Margrethe R.
-
-/Hans Christian Schmidt
+/ Dorthe Nielsen
