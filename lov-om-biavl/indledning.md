@@ -1,3 +1,3 @@
 Bekendtgørelse af lov om biavl
 
-Herved bekendtgøres lov nr. 450 af 22. maj 2006 om biavl med de ændringer der følger af § 64 i lov nr. 538 af 8. juni 2006.
+Herved bekendtgøres lov om biavl, jf. lovbekendtgørelse nr. 759 af 29. juni 2006, med de ændringer, der følger af § 43 i lov nr. 1336 af 19. december 2008.
