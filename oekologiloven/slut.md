@@ -1,7 +1,5 @@
-Givet på Christiansborg Slot, den 17. juni 2008
+Ministeriet for Fødevarer, Landbrug og Fiskeri, den 12. marts 2009
 
-Under Vor Kongelige Hånd og Segl
+Eva Kjer Hansen
 
-MARGRETHE R.
-
-/ Eva Kjer Hansen
+/ Dorthe Nielsen
