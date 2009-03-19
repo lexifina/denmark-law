@@ -1,0 +1,1 @@
+1) Lovens §§ 1-8, §§ 12-15, § 16, stk. 1 og §§ 17-22, er trådt i kraft den 9. april 2005, jf. bekendtgørelse nr. 244 af 31. marts 2005. Lovens §§ 9-11, og § 16, stk. 2, er trådt i kraft den 17. december 2005, jf. bekendtgørelse nr. 1178 af 7. december 2005.

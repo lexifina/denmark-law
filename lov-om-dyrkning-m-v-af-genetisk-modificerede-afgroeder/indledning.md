@@ -1,3 +1,3 @@
-Lov om dyrkning m.v. af genetisk modificerede afgrøder
+Bekendtgørelse af lov om dyrkning m.v. af genetisk modificerede afgrøder
 
-VI MARGRETHE DEN ANDEN, af Guds Nåde Danmarks Dronning, gør vitterligt: Folketinget har vedtaget og Vi ved Vort samtykke stadfæstet følgende lov:
+Herved bekendtgøres lov nr. 436 af 9. juni 2004 om dyrkning m.v. af genetisk modificerede afgrøder, med de ændringer, der følger af § 9 i lov nr. 404 af 1. juni 2005 og § 45 i lov nr. 1336 af 19. december 2008.
