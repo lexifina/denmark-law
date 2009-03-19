@@ -1,5 +1,3 @@
-Økologilov
+Bekendtgørelse af økologiloven
 
-VI MARGRETHE DEN ANDEN, af Guds Nåde Danmarks Dronning, gør vitterligt:
-
-Folketinget har vedtaget og Vi ved Vort samtykke stadfæstet følgende lov:
+Herved bekendtgøres økologiloven, lov nr. 463 af 17. juni 2008, med de ændringer, der følger af § 70 i lov nr. 1336 af 19. december 2008.

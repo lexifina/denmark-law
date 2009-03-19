@@ -1,0 +1,1 @@
+Lov nr. 1336 af 19. december 2008 § 70 vedrører økologilovens § 16, stk. 3-5. Loven træder i kraft 1. januar 2009, jf. § 167. Loven er en følge af lov om inddrivelse af gæld til det offentlige, og medfører ophævelse af bestemmelser om inddrivelse i særlovgivningen.
