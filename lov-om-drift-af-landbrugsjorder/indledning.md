@@ -1,3 +1,3 @@
-Lov om drift af landbrugsjorder
+Bekendtgørelse af lov om drift af landbrugsjorder
 
-VI MARGRETHE DEN ANDEN, af Guds Nåde Danmarks Dronning, gør vitterligt: Folketinget har vedtaget og Vi ved Vort samtykke stadfæstet følgende lov:
+Herved bekendtgøres lov nr. 434 af 9. juni 2004 om drift af landbrugsjorder, med de ændringer, der følger af § 7 i lov nr. 536 af 24. juni 2005 og § 44 i lov nr. 1336 af 19. december 2008.
