@@ -1,0 +1,3 @@
+§ 1 a. Enhver, der er sikret efter denne lov, har uanset bestemmelsen i § 1, stk. 1, ret til erstatning for følgerne af terrorhandlinger, jf. straffelovens §§ 114 og 114 a, selv om skaden ikke kan anses for en følge af tjenesten eller de forhold, tjenesten er foregået under.
+
+Stk. 2. Staten har regres mod ansvarlige skadevoldere for udgifter efter stk. 1. I det omfang statens regreskrav mod skadevolderen kan tvangsfuldbyrdes efter retsplejelovens § 478, kan kravet inddrives efter reglerne i lov om fremgangsmåden ved inddrivelse af skatter og afgifter m.v. og ved indeholdelse i den pågældendes indtægter efter reglerne for inddrivelse af personlige skatter i kildeskatteloven. Pålæg om indeholdelse gives af restanceinddrivelsesmyndigheden.
