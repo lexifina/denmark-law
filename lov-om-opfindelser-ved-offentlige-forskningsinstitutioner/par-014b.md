@@ -1,0 +1,1 @@
+§ 14 b. I tilfælde, hvor institutionen har overdraget retten til en opfindelse til tredjemand, som efterfølgende opgiver at nyttiggøre retten erhvervsmæssigt, kan institutionen indgå aftale med tredjemand om at generhverve rettighederne. Institutionen kan generhverve uudnyttede ophavsrettigheder til edb-programmer efter reglerne i lov om ophavsret.
