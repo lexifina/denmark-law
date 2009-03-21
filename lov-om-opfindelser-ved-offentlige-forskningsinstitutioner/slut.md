@@ -1,7 +1,5 @@
-Givet på Christiansborg slot, den 2. juni 1999
+Ministeriet for Videnskab, Teknologi og Udvikling, den 17. marts 2009
 
-Under Vor Kongelige Hånd og Segl
+Helge Sander
 
-Margrethe R.
-
-/Jan Trøjborg
+/ Frej Sorento Dichmann
