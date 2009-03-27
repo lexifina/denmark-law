@@ -1,7 +1,5 @@
-Givet på Christiansborg Slot, den 20. december 2004
+Energistyrelsen, den 16. marts 2009
 
-Under Vor Kongelige Hånd og Segl
+Ib Larsen
 
-MARGRETHE R.
-
-/Bendt Bendtsen
+/ Flemming G. Nielsen
