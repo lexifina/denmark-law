@@ -1,0 +1,1 @@
+§ 124 b. En advokat, der udøver virksomhed i et advokatselskab, eller en anden ansat i selskabet, der i medfør af § 124 c, stk. 1, nr. 2, ejer aktier eller anparter heri, hæfter personligt sammen med selskabet for ethvert krav, der er opstået som følge af vedkommendes bistand til en klient.
