@@ -1,0 +1,1 @@
+§ 124 f. Justitsministeren fastsætter nærmere regler om udøvelse af advokatvirksomhed i selskabsform, herunder regler om omdannelse af et advokatselskab til andet formål og regler om afhændelse af aktier og anparter.

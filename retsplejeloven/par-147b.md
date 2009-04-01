@@ -2,7 +2,7 @@
 
 ## Disciplinærsager
 
-§ 147 b. Klager over, at en advokat, et advokatselskab eller en af de personer, der er nævnt i § 124, stk. 3, nr. 2, og som ejer aktier eller anparter i et advokatselskab, har tilsidesat pligter, der følger af denne lov eller af forskrifter fastsat i medfør af denne lov, kan indbringes for Advokatnævnet.
+§ 147 b. Klager over, at en advokat, et advokatselskab eller en af de personer, der er nævnt i § 124 c, stk. 1, nr. 2, og som ejer aktier eller anparter i et advokatselskab, har tilsidesat pligter, der følger af denne lov eller af forskrifter fastsat i medfør af denne lov, kan indbringes for Advokatnævnet.
 
 Stk. 2. Klager skal indgives inden 1 år efter, at klageren er blevet bekendt med det forhold, som klagen vedrører. Nævnet kan dog behandle en klage, der er indgivet senere, når fristoverskridelsen findes rimeligt begrundet.
 
