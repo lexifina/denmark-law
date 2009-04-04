@@ -1,7 +1,5 @@
-Givet på Fredensborg Slot, den 28. maj 1999
+Transportministeriet, den 11. marts 2009
 
-Under Vor Kongelige Hånd og Segl
+Lars Barfoed
 
-Margrethe R.
-
-/Sonja Mikkelsen
+/ Jakob Karlshøj
