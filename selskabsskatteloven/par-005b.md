@@ -12,6 +12,6 @@ Stk. 6. Ved en senere overgang som nævnt i § 5 A ophører beskatningen af det 
 
 Stk. 7. Det påhviler bestyrelsen for foreninger, der beskattes efter § 1, stk. 1, nr. 3, samtidig med indgivelsen af selvangivelsen at oplyse de ændringer, der i regnskabsåret er sket i foreningens virksomhed eller i dens vedtægtsbestemmelser om formål, overskudsdeling eller opløsning, ligesom bestyrelsen skal oplyse, såfremt foreningens omsætning med ikkemedlemmer udgør mere end 25 pct. af den samlede omsætning.
 
-Stk. 8. Stk. 4, 2. og 3. pkt., finder ikke anvendelse, i det omfang en forening omfattet af § 1, stk. 1, nr. 4, foretager udlodninger som nævnt i ligningslovens § 16 A, som ikke overstiger foreningens skattepligtige indkomst efter skat i det forudgående indkomstår. Foretages overskydende udlodninger eller andre udlodninger end nævnt i ligningslovens § 16 A, skal stk. 4, 2. og 3. pkt., finde anvendelse for denne del.
+Stk. 8. Stk. 4, 2. og 3. pkt., finder ikke anvendelse, i det omfang en forening omfattet af § 1, stk. 1, nr. 4, foretager udlodninger som nævnt i ligningslovens § 16 A, som ikke overstiger foreningens skattepligtige indkomst efter skat i det forudgående indkomstår. Foretages overskydende udlodning­er eller andre udlodninger end nævnt i ligningslovens § 16 A, skal stk. 4, 2. og 3. pkt., finde anvendelse for denne del.
 
 Stk. 9. Det påhviler bestyrelsen for en forening, der beskattes efter § 1, stk. 1, nr. 4, samtidig med indgivelsen af selvangivelsen at oplyse, i hvilket omfang foretagne udlodninger er omfattet af stk. 4 eller stk. 8.
