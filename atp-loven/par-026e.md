@@ -16,7 +16,7 @@
 
 Stk. 2. Kapitalandele i og lån ydet til en virksomhed eller en gruppe af indbyrdes forbundne virksomheder, hvis aktiviteter alene omfatter investeringer i aktiver omfattet af § 26 b, stk. 1, nr. 5 og 10, må samlet højst udgøre 5 pct.
 
-Stk. 3. Stk. 1, nr. 3-5, og stk. 2 finder ikke anvendelse på investeringer i en dattervirksomhed, der er omfattet af § 26 b, stk. 3-6.
+Stk. 3. Stk. 1, nr. 3-5, og stk. 2 finder ikke anvendelse på investeringer i en dattervirksomhed, der er omfattet af § 26 b, stk. 3 og 5-8.
 
 Stk. 4. Stk. 1, nr. 3-5, og stk. 2 finder ikke anvendelse på investeringer i virksomheder, investeringsinstitutter og foreninger omfattet af § 26 b, stk. 1, nr. 7, hvis aktivitet efter vedtægterne er begrænset til at foretage investeringer i aktiver omfattet af § 26 b, stk. 1, nr. 1-3. Sådanne investeringer kan i relation til grænserne fastsat i stk. 1, nr. 4-6, og stk. 2, samt § 26 d, stk. 1, nr. 1 og 3, betragtes som aktiver omfattet af § 26 b, stk. 1, nr. 1-3.
 
