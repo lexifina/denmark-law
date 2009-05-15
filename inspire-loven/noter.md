@@ -1,0 +1,1 @@
+1) Loven indeholder bestemmelser, der gennemfører dele af Europa-Parlamentets og Rådets direktiv 2007/2/EF af 14. marts 2007 om opbygning af en infrastruktur for geografisk information i Det Europæiske Fællesskab (Inspire) (EU-Tidende 2007 L 108, side 1).
