@@ -9,3 +9,13 @@ Stk. 4. Hvis indeståendet på kontoen er mindre end den månedlige rate, der sk
 Stk. 5. Personer, der er berettiget til udbetaling af pensionsopsparing efter stk. 1, kan udskyde udbetaling eller påbegyndelse af udbetaling til et senere tidspunkt, dog ikke ud over det fyldte 70. år.
 
 Stk. 6. Beløb, der ikke har kunnet udbetales senest ved kontohavers fyldte 85. år, er forældede og indgår i reguleringspuljen, jf. § 17 p, stk. 1.
+
+Stk. 7. Uanset stk. 1 kan kontohaver i perioden fra den 1. juni 2009 til den 31. december 2009 anmode Arbejdsmarkedets Tillægspension om udbetaling af det samlede indestående på den særskilte SP-konto indbetalt i medfør af § 17 f, stk. 1-3, som et engangsbeløb, jf. dog § 17 f, stk. 13.
+
+Stk. 8. Uanset stk. 1 kan en kontohaver, der har overflyttet indestående på en særskilt SP-konto indbetalt i medfør af § 17 f, stk. 1-3, til en særskilt SP-konto i et andet pensionsinstitut, i perioden fra den 1. juni 2009 til den 31. december 2009 anmode dette pensionsinstitut om at udbetale det samlede indestående på den særskilte SP-konto som et engangsbeløb, jf. dog § 17 f, stk. 13.
+
+Stk. 9. En kontohaver, til hvem udbetalingen af indeståendet på den særskilte SP-konto er påbegyndt efter stk. 1, kan i perioden fra den 1. juni 2009 til den 31. december 2009 anmode Arbejdsmarkedets Tillægspension eller det pensionsinstitut, hvortil den særskilte SP-konto måtte være overflyttet, om, at det resterende indestående på den særskilte SP-konto udbetales som et engangsbeløb, jf. dog § 17 f, stk. 13. 1. pkt. finder tilsvarende anvendelse på en kontohaver, der har udskudt udbetalingen af SP-indeståendet efter stk. 5.
+
+Stk. 10. Indestående på en særskilt SP-konto, som udbetales efter kontohavers anmodning i henhold til stk. 7-9, opgøres som værdien af den del af investeringskontoen, som hidrører fra indbetalinger i henhold til § 17 f, stk. 1-3, samt den del af indeståendet på kontantkontoen, som relaterer sig til midler indbetalt i henhold til § 17 f, stk. 1-3, med fradrag for pensionsafkastskat og omkostninger.
+
+Stk. 11. Beskæftigelsesministeren kan fastsætte nærmere regler for udbetaling og opgørelse af SP-konti m.v. efter stk. 7-10.
