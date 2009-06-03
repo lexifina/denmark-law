@@ -1,4 +1,4 @@
-§ 44 a. Radio- og tv-nævnet har følgende opgaver vedrørende TV 2/DANMARK A/S public service-programvirksomhed i henhold til kapitel 6 a:
+§ 44 a. Radio- og tv-nævnet har følgende opgaver vedrørende TV 2/DANMARK A/S’ public service-programvirksomhed i henhold til kapitel 6 a:
 
 1) Føre tilsyn med public service-programvirksomheden,
 

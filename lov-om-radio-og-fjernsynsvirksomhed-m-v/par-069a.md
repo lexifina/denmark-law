@@ -6,4 +6,4 @@ Stk. 3. Det i stk. 2 nævnte rykkergebyr kan højst udgøre 200 kr.
 
 Stk. 4. DR kan efter regler fastsat af kulturministeren indgå aftale med offentlige myndigheder om afgivelse af oplysninger, herunder i elektronisk form, som anses for nødvendige for afgørelse af sager om nedsættelse eller bortfald af licens, jf. § 69.
 
-Stk. 5. Lovens § 17, stk. 4, finder tilsvarende anvendelse for DRs afgørelser vedrørende opkrævning af afgifterne m.v.
+Stk. 5. Lovens § 17, stk. 4, finder tilsvarende anvendelse for DR’s afgørelser vedrørende opkrævning af afgifterne m.v.
