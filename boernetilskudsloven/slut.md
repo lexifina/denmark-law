@@ -1,5 +1,3 @@
-Velfærdsministeriet, den 24. november 2008
+Beskæftigelsesministeriet, den 14. maj 2009
 
-P.M.V. Christian Schønau
-
-/ Eva Pedersen
+Inger Støjberg

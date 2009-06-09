@@ -1,5 +1,3 @@
 Bekendtgørelse af lov om børnetilskud og forskudsvis udbetaling af børnebidrag
 
-Herved bekendtgøres lov om børnetilskud og forskudsvis udbetaling af børnebidrag, jf. lovbekendtgørelse nr. 909 af 3. september 2004, med de ændringer, der følger af § 27 i lov nr. 431 af 6. juni 2005 og § 27 i lov nr. 523 af 6. juni 2007.
-
-Den ændring, der følger af § 8 i lov nr. 346 af 18. april 2007, er ikke indarbejdet i denne lovbekendtgørelse, da tidspunktet for ikrafttræden endnu ikke er fastsat af skatteministeren, jf. § 11 i lov nr. 346 af 18. april 2007.
+Herved bekendtgøres lov om børnetilskud og forskudsvis udbetaling af børnebidrag, jf. lovbekendtgørelse nr. 1115 af 24. november 2008, med de ændringer, der følger af § 8 i lov nr. 346 af 18. april 2007, § 141 i lov nr. 1336 af 19. december 2008, § 4 i lov nr. 1345 af 19. december 2008, lov nr. 1410 af 27. december 2008 og § 1 i lov nr. 1411 af 27. december 2008.
