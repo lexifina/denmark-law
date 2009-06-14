@@ -6,17 +6,19 @@
 
 § 32 a. Indtægtsgrundlaget for førtidspension opgøres på grundlag af pensionistens og en eventuel ægtefælles eller samlevers samlede indtægt. Indtægtsgrundlaget opgøres således:
 
-1) Personlig indkomst med tillæg af positiv kapitalindkomst, der anvendes til beregning af indkomstskat efter personskattelovens § 7, dog før det deri nævnte bundfradrag, samt aktieindkomst, der beskattes efter personskattelovens § 8 a, stk. 1 og 2, bortset fra aktieudbytte op til 5.000 kr., hvori der er indeholdt endelig udbytteskat.
+1) Personlig indkomst med tillæg af positiv kapitalindkomst, der anvendes til beregning af indkomstskat efter personskattelovens § 7, dog før de deri nævnte grundbeløb og bundfradrag, samt aktieindkomst, der beskattes efter personskattelovens § 8 a, stk. 1 og 2, bortset fra aktieudbytte op til 5.000 kr.
 
 2) Opgørelsesperioden for indtægtsgrundlaget efter nr. 1 er det senest afsluttede indkomstår. Indtægtsgrundlaget anvendes med virkning for det andet kalenderår efter indkomstårets udløb.
 
 3) Ved opgørelsen af indtægtsgrundlaget efter nr. 1 og 2 reguleres den personlige indkomst, der indgår i indtægtsgrundlaget, efter samme regler, som gælder for den forskudsregistrering, der sker på grundlag af den seneste slutligning efter kildeskatteloven.
 
-Stk. 2. Socialministeren fastsætter regler for, hvorledes indkomster efter stk. 1, der ikke er skattepligtige her i landet, og indkomster, som er omfattet af § 5 i lov om beskatning af søfolk, skal indgå i indtægtsgrundlaget.
+4) Ved opgørelsen af indtægtsgrundlaget efter nr. 1-3 fradrages en eventuel ægtefælles eller samlevers indtægt ved personligt arbejde opgjort efter § 27, stk. 1-3, på op til i alt 30.000 kr. i et kalenderår, hvis denne modtager folkepension. Det maksimale fradrag reduceres forholdsmæssigt, hvis ægtefællen eller samleveren kun modtager folkepension i en del af året.
+
+Stk. 2. Beskæftigelsesministeren fastsætter regler for, hvorledes indkomster efter stk. 1, der ikke er skattepligtige her i landet, og indkomster, som er omfattet af § 5 i lov om beskatning af søfolk, skal indgå i indtægtsgrundlaget.
 
 Stk. 3. I indtægtsgrundlaget efter stk. 1 og 2 foretages følgende fradrag:
 
-1) Fradrag for skattepligtig social pension og fradrag for skattepligtig pension udbetalt efter lovgivningen i en anden EU/EØS-medlemsstat og omfattet af og beregnet efter forordning nr. 1408/71 samt for pension udbetalt efter lovgivningen i et land, med hvilket der er indgået overenskomst om samordning af pension. Socialministeren fastsætter regler for, hvorledes fradrag for pensioner som nævnt i 1. pkt., der ikke er skattepligtige her i landet, skal fradrages.
+1) Fradrag for skattepligtig social pension og fradrag for skattepligtig pension udbetalt efter lovgivningen i en anden EU/EØS-medlemsstat og omfattet af og beregnet efter forordning nr. 1408/71 samt for pension udbetalt efter lovgivningen i et land, med hvilket der er indgået overenskomst om samordning af pension. Beskæftigelsesministeren fastsætter regler for, hvorledes fradrag for pensioner som nævnt i 1. pkt., der ikke er skattepligtige her i landet, skal fradrages.
 
 2) Fradrag for ophørsstøtte efter lov om ophørsstøtte til jordbrugere og lov om ophørsstøtte til erhvervsfiskere.
 
