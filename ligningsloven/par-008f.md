@@ -1,1 +1,1 @@
-§ 8 F. Ophævet
+§ 8 F. (Ophævet).
