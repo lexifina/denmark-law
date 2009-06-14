@@ -1,1 +1,1 @@
-§ 17 B. Beløb, der udbetales efter lov om beskatning til kommunerne af faste ejendomme § 29 A medregnes ikke ved opgørelsen af modtagerens skattepligtige indkomst og giver ikke anledning til ændring af modtagerens indkomstansættelser for tidligere indkomstår.
+§ 17 B. Beløb, der udbetales efter lov om kommunal ejendomsskat § 29 A medregnes ikke ved opgørelsen af modtagerens skattepligtige indkomst og giver ikke anledning til ændring af modtagerens indkomstansættelser for tidligere indkomstår.
