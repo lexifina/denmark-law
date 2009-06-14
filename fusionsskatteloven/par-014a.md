@@ -1,4 +1,4 @@
-§ 14 a. Ved sparekassers omdannelse til aktieselskaber, jf. §§ 208-213 i lov om finansiel virksomhed finder § 5, § 6, stk. 1, § 6, stk. 3-6, § 7, § 8 og § 10, stk. 2, tilsvarende anvendelse.
+§ 14 a. Ved sparekassers omdannelse til aktieselskaber, jf. §§ 208-213 i lov om finansiel virksomhed, finder § 5, § 6, stk. 2-5, § 7 og § 8 tilsvarende anvendelse.
 
 Stk. 2. Underskud fra tidligere indkomstår kan uanset § 8, stk. 6, bringes til fradrag i det modtagende selskabs indkomstopgørelse efter ligningslovens § 15, og tab fra tidligere indkomstår kan uanset § 8, stk. 8, fremføres til fradrag i det modtagende selskab, hvis sparekassens aktiver og gæld som helhed overdrages til et af sparekassen oprettet aktieselskab, hvori sparekassen ejer hele aktiekapitalen.
 
