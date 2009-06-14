@@ -1,0 +1,1 @@
+§ 49 C. For personer, som modtager fratrædelsesgodtgørelser, efterbetalinger, efterløns- og pensionslignende ydelser, når disse har sammenhæng med et tidligere tjenesteforhold, lønnet tillidshverv eller erhvervsforhold her i landet, jf. § 49 A, stk. 2, nr. 11, opgør den arbejdsgiver, hvervgiver m.fl., der foretager udbetaling, bidragsgrundlaget og beregner bidragets størrelse.
