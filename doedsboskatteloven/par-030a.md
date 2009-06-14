@@ -1,0 +1,15 @@
+§ 30 a. Der opgøres et beløb, der udgør summen af skatter opgjort efter § 30 samt eventuel overført restskat m.v. efter kildeskattelovens § 61, stk. 3, og § 61 A og med fradrag af eventuelt overført beløb efter kildeskattelovens § 62 C, stk. 2, 2. pkt.
+
+Stk. 2. Afdødes negative skat efter personskattelovens § 8 a, stk. 5, der ikke har kunnet modregnes i afdødes slutskat m.v. for årene forud for dødsåret, fremføres til modregning i skatter m.v. som opgjort efter stk. 1, i det omfang beløbet kan rummes heri. Et eventuelt overskydende beløb udbetales ikke.
+
+Stk. 3. I de tilfælde, der er nævnt i §§ 24 og 25, indgår den til det beskattede opsparede overskud svarende virksomhedsskat og den til den beskattede henlæggelse til konjunkturudligning svarende konjunkturudligningsskat ved opgørelsen af de foreløbige indkomstskattebeløb som nævnt i stk. 4.
+
+Stk. 4. Foreløbige indkomstskattebeløb vedrørende indtjeningen i dødsåret, der er forfaldet før dødsfaldet, eller som skulle indeholdes af indtægter, som er indtjent før dødsfaldet, jf. § 32, stk. 2, godskrives dødsboet. Skat vedrørende indkomst, som afdøde tidligere har valgt beskattet efter kildeskattelovens §§ 48 E og 48 F, bliver dog endelig ved dødsfaldet.
+
+Stk. 5. Hvis afdøde anvendte et andet indkomstår end kalenderåret (forskudt indkomstår), regnes som foreløbige skatter i dødsåret de beløb, som forfaldt før dødsfaldet, men i det kalenderår, hvori dødsfaldet fandt sted. Endvidere medregnes indkomstskatter, som skulle indeholdes af indtægter indtjent i det nævnte tidsrum. Hvis afdøde anvendte et forskudt indkomstår, der udløb efter udgangen af det kalenderår, det trådte i stedet for (fremadforskudt indkomstår), og hvis dødsfaldet er indtruffet den 1. januar eller senere i det forskudte indkomstår, medregnes tillige de foreløbige indkomstskattebeløb, som forfaldt til betaling, eller som skulle indeholdes af indtægter, der er indtjent i kalenderåret forud for det år, hvori dødsfaldet fandt sted.
+
+Stk. 6. Hvis boet bliver insolvent som følge af dødsboskatten opgjort efter stk. 1-4, nedsættes skatten efter stk. 1-4 til et beløb svarende til boets aktiver med fradrag af alle passiver undtagen dødsboskatten. Er der foretaget acontoudlodninger før boets afslutning, forhøjes skatten efter 1. pkt. med værdien af acontoudlodningerne.
+
+Stk. 7. I det omfang foreløbige indkomstskattebeløb som nævnt i stk. 4 ikke kan rummes i skatterne opgjort efter stk. 1 og 2, udbetales de til dødsboet.
+
+Stk. 8. Var afdøde gift ved dødsfaldet, og skiftes afdødes andel af fællesboet og afdødes særbo hver for sig, opgøres skatterne efter stk. 1 og 2, jf. stk. 4, under et for begge boer tilsammen og fordeles mellem de to boer efter forholdet mellem den sum af bobeskatningsindkomst og aktieindkomst i bobeskatningsperioden, der kan henføres til hvert af de to boer. Har det ene bo negativ sum af bobeskatningsindkomst og aktieindkomst i bobeskatningsperioden, ansættes beløbet ved fordelingen mellem de to boer til 0 kr. Skatter efter stk. 3 og § 32, stk. 2, og acontoskat efter afskrivningslovens § 40 C, stk. 8-10, godskrives det bo, hvori de tilsvarende indtægter indgår.
