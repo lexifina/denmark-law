@@ -10,7 +10,7 @@
 
 4) personer, der har samme bopæl som den dømte, og som er over 18 år, meddeler samtykke til, at straffen kan fuldbyrdes på den fælles bopæl.
 
-Stk. 2. Tilladelse til strafudståelse på bopælen nægtes meddelt, hvis denne fuldbyrdelsesform som følge af den dømtes forhold ikke findes hensigtsmæssig.
+Stk. 2. Tilladelse til strafudståelse på bopælen nægtes meddelt, hvis denne fuldbyrdelsesform som følge af den dømtes forhold ikke findes hensigtsmæssig, herunder hvis der er grund til at antage, at den dømte ikke vil overholde de vilkår, som gælder for fuldbyrdelse på bopælen.
 
 Stk. 3. Kriminalforsorgen foretager til brug for afgørelsen af, om den dømte opfylder betingelserne i stk. 1, nr. 1-4, en nærmere undersøgelse af den dømtes personlige forhold, herunder vedkommendes boligforhold, beskæftigelsesforhold samt fysiske og psykiske tilstand. Hvis kriminalforsorgen finder det fornødent, kan denne i forbindelse med undersøgelsens foretagelse bestemme, at den dømte skal aflægge udåndingsprøver og urinprøver.
 
