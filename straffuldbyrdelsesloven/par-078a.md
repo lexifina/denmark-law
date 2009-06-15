@@ -4,12 +4,8 @@
 
 ## Anvendelsesområde
 
-§ 78 a. Justitsministeren eller den, der bemyndiges dertil, kan efter ansøgning fra personer, der er idømt fængselsstraf i indtil 3 måneder, meddele tilladelse til, at straffen udstås på bopælen under intensiv overvågning og kontrol efter reglerne i §§ 78 b- 78 f, såfremt
+§ 78 a. Justitsministeren eller den, der bemyndiges dertil, kan efter ansøgning fra personer, der er idømt fængselsstraf i indtil 5 måneder, meddele tilladelse til, at straffen udstås på bopælen under intensiv overvågning og kontrol efter reglerne i lovens §§ 78 b-78 f.
 
-1) den pågældende person på gerningstidspunktet ikke var fyldt 25 år eller
+Stk. 2. Tilladelse efter stk. 1 kan ikke meddeles personer, der er idømt fængselsstraf i indtil 14 dage for overtrædelse af lovgivningen om våben og eksplosivstoffer, medmindre straffen tillige er idømt for overtrædelse af anden lovgivning, og den eller de skete overtrædelser af lovgivningen om våben og eksplosivstoffer ikke har været af væsentlig betydning for straffens længde.
 
-2) straffen er idømt for overtrædelse af færdselsloven.
-
-Stk. 2. Tilladelse efter stk. 1, nr. 2, kan desuden meddeles personer, der før, samtidig med eller efter en dom for overtrædelse af færdselsloven tillige er idømt straf for overtrædelse af anden lovgivning, hvis den eller de skete overtrædelser af anden lovgivning ikke har været af væsentlig betydning for den samlede fængselsstrafs længde og længden af den samlede fængselsstraf ikke overstiger 3 måneder.
-
-Stk. 3. Justitsministeren fastsætter regler om den administrative behandling af ansøgninger om strafudståelse på bopælen under intensiv overvågning og kontrol. Justitsministeren kan i forbindelse hermed bestemme, at der kun tillægges ansøgninger indgivet inden udløbet af bestemte frister opsættende virkning, således at straffuldbyrdelsen udsættes.
+Stk. 3. Justitsministeren fastsætter regler om den administrative behandling af ansøgninger om strafudståelse på bopælen under intensiv overvågning og kontrol. Justitsministeren kan i forbindelse hermed bestemme, at der kun tillægges ansøgninger indgivet inden udløbet af bestemte frister opsættende virkning, således at straffuldbyrdelsen udsættes. En ansøgning kan dog ikke tillægges opsættende virkning, hvis politidirektøren har underrettet kriminalforsorgen om, at hensynet til politiets forebyggende virksomhed skønnes at kræve, at den dømte påbegynder straffuldbyrdelsen uden at afvente behandlingen af en sådan ansøgning.
