@@ -109,3 +109,37 @@ Stk. 2. (udeladt)
 Stk. 3. § 1, nr. 20, 23, 24, 32, 33 og 43, § 5, nr. 9, § 6 og § 7 træder i kraft den 1. august 2007.
 
 Stk. 4-7. (udeladt)
+
+Lov nr. 1587 af 20. december 2006, hvis § 17 nyaffattede § 2, nr. 1, indeholder følgende ikrafttrædelses- og overgangsbestemmelser:
+
+§ 19
+
+Stk. 1. Loven træder i kraft den 1. juli 2009, jf. dog stk. 2-7.
+
+Stk. 2-7. (Udeladt)
+
+Lov nr. 546 af 17. juni 2008, hvis § 1 indsatte § 8, stk. 1, nr. 2, ændrede § 8, stk. 2, nr. 4, ændrede § 13, stk. 1, 1. pkt., indsatte § 13, stk. 2 og ændrede § 13, stk. 4, der blev stk.5, indeholder følgende ikrafttrædelses- og overgangsbestemmelser:
+
+§ 2
+
+Loven træder i kraft den 1. juli 2008 og har virkning for ansøgninger om SVU til deltagelse i fagspecifikke kurser, der begynder efter lovens ikrafttræden.
+
+Lov nr. 1336 af 19. december 2008, hvis § 137 ophævede § 16, stk. 4 og 5 samt §§ 17 og 18, indeholder følgende ikrafttrædelses- og overgangsbestemmelser:
+
+§ 167
+
+Stk. 1. Loven træder i kraft den 1. januar 2009, jf. dog stk. 2. § 11 finder alene anvendelse på afgørelser om lønindeholdelse, der træffes efter lovens ikrafttræden.
+
+Stk. 2. (Udeladt)
+
+Lov nr. 478 af 12. juni 2009, hvis § 5 ændrede § 2, stk. 1, nr. 2, ændrede § 5, stk. 1, 1. pkt., ændrede § 9, stk. 1, ophævede kapitel 5, ændrede § 12, stk. 2, ændrede § 13, stk. 6 og ophævede § 22, stk. 5, indeholder følgende ikrafttrædelses- og overgangsbestemmelser:
+
+§ 8
+
+Stk. 1. Loven træder i kraft den 1. august 2009.
+
+Stk. 2. Ledige med ret til 6 ugers selvvalgt uddannelse, der inden lovens ikrafttræden er påbegyndt en uddannelse med godtgørelse ved deltagelse i erhvervsrettet voksen- og efteruddannelse eller med statens voksenuddannelsesstøtte, kan færdiggøre uddannelsesforløbet med godtgørelse eller støtte efter de hidtidige regler.
+
+Stk. 3. Ledige med ret til 6 ugers selvvalgt uddannelse, der inden lovens ikrafttræden har indgivet en ansøgning om statens voksenuddannelsesstøtte, jf. bekendtgørelse nr. 643 af 15. juni 2007 om statens voksenuddannelsesstøtte § 19, stk. 2, sidste pkt., til en SVU-administrator, kan deltage i den valgte uddannelse med voksenuddannelsesstøtte efter de hidtil gældende regler.
+
+Stk. 4. (Udeladt).
