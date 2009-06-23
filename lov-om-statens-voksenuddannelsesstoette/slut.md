@@ -1,5 +1,5 @@
-Undervisningsministeriet, den 20. marts 2007
+Undervisningsministeriet, den 8. juni 2009
 
 Bertel Haarder
 
-/Hanna Dam
+/ Hanna Dam
