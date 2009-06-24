@@ -1,0 +1,1 @@
+§ 21 a. Præsteembedets kapitaler overføres til kirke- og præsteembedekapitalen i det pågældende sogn. Hvis et præsteembede omfatter flere sogne, fordeles præsteembedets kapital på kirke- og præsteembedetskapitalen forholdsmæssigt efter antallet af medlemmer af folkekirken i de pågældende sogne. Den samme fordeling finder anvendelse ved salg af præsteembedets faste ejendom.
