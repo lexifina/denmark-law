@@ -1,7 +1,5 @@
-Givet på Christiansborg Slot, den 7. juni 2006
+Indenrigs- og Socialministeriet, den 19. juni 2009
 
-Under Vor Kongelige Hånd og Segl
+P.M.V. Christian Schønau
 
-I Dronningens Navn: FREDERIK Kronprins
-
-/Lars Løkke Rasmussen
+/ Dorte Lemmich Madsen
