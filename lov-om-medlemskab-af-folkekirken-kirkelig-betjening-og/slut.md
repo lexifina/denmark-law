@@ -1,9 +1,5 @@
-Givet på Christiansborg Slot, den 6. juni 1991
+Kirkeministeriet, den 17. juni 2009
 
-Under Vor Kongelige Hånd og Segl
+Birthe Rønn Hornbech
 
-MARGRETHE R.
-
-/ Torben Rechendorff
-
-Ingen
+/ Eva Stilov
