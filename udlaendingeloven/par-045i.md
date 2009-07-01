@@ -1,0 +1,1 @@
+§ 45 i. Hvis byrettens afgørelse efter § 45 d, stk. 1, nr. 3-5, går ud på at nægte opholdstilladelse efter § 7 eller § 8, stk. 1 eller 2, eller på, at udsendelse ikke vil være i strid med § 31, anses sagen for anket til landsretten, medmindre udlændingen skriftligt over for retten eller i et retsmøde giver afkald herpå. Anke efter 1. pkt. har opsættende virkning.

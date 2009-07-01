@@ -2,4 +2,4 @@
 
 Stk. 2. Til brug for Udlændingeservices afgørelse efter § 48 a, stk. 1, foretager politiet en undersøgelse med henblik på at fastlægge udlændingens identitet, nationalitet og rejserute og indhente andre nødvendige oplysninger.
 
-Stk. 3. Udlændingeservice forestår i øvrigt sagens oplysning. Udlændingeservice træffer herunder bestemmelse om udfyldelse af ansøgningsskema og afhøring af udlændingen.
+Stk. 3. Udlændingeservice forestår i øvrigt sagens oplysning, bortset fra de sager, der er omfattet af kapitel 7 b. Udlændingeservice træffer herunder bestemmelse om udfyldelse af ansøgningsskema og afhøring af udlændingen.
