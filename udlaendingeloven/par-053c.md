@@ -1,0 +1,1 @@
+§ 53 c. Forinden retten træffer afgørelse vedrørende en ansøgning om opholdstilladelse fra eller udsendelse af en udlænding efter § 45 d, stk. 1, nr. 3-5, skal Flygtningenævnet på begæring afgive en udtalelse til brug herfor.
