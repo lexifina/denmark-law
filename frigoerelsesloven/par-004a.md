@@ -1,0 +1,1 @@
+§ 4 a. Kommunalbestyrelsen kan godkende, at tinglyste tilskudsbestemmelser ifølge deklaration eller vedtægter, jf. § 1, stk. 1, samt tinglyst panteret i ejendommen, jf. § 3, stk. 4, respekterer tinglyste lån til vedligeholdelsesarbejder på ejendommen.
