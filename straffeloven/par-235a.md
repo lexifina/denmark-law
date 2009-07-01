@@ -1,0 +1,3 @@
+§ 235 a. Den, der rekrutterer eller i øvrigt medvirker til, eller som udnytter, at en person under 18 år deltager i en forestilling med utugtig optræden, straffes med bøde eller fængsel indtil 2 år eller under særlig skærpende omstændigheder med fængsel indtil 6 år. Som særlig skærpende omstændigheder anses navnlig tilfælde, hvor barnets liv udsættes for fare, hvor der anvendes grov vold, hvor der forvoldes barnet alvorlig skade, eller hvor der er tale om forestillinger af mere systematisk eller organiseret karakter.
+
+Stk. 2. Den, der som tilskuer overværer en forestilling som nævnt i stk. 1 med deltagelse af en person under 18 år, straffes med bøde eller fængsel indtil 1 år.
