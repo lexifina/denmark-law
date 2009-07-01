@@ -1,4 +1,4 @@
-§ 15 a. Dørmænd i virksomheder med alkoholbevilling skal være autoriserede. Autorisationen meddeles af politimesteren, i København af politidirektøren, i den politikreds, hvor ansøgeren bor. Har ansøgeren ikke bopæl her i riget, meddeles autorisationen af politidirektøren. En autorisation gælder for hele landet.
+§ 15 a. Dørmænd i restaurationsvirksomheder skal være autoriserede. Autorisationen meddeles af politidirektøren, i København af politidirektøren, i den politikreds, hvor ansøgeren bor. Har ansøgeren ikke bopæl her i riget, meddeles autorisationen af politidirektøren i København. En autorisation gælder for hele landet.
 
 Stk. 2. Autorisation kan meddeles en person, der
 
@@ -10,7 +10,7 @@ Stk. 2. Autorisation kan meddeles en person, der
 
 4) ikke har udvist en sådan adfærd, at der er grund til at antage, at vedkommende ikke vil udøve hvervet på forsvarlig måde.
 
-Stk. 3. Personer, som i henhold til lov om vagtvirksomhed er autoriseret til at drive vagtvirksomhed, og en vagtvirksomheds godkendte personale kan uden anden autorisation varetage hvervet som dørmand i virksomheder med alkoholbevilling.
+Stk. 3. Personer, som i henhold til lov om vagtvirksomhed er autoriseret til at drive vagtvirksomhed, og en vagtvirksomheds godkendte personale kan uden anden autorisation varetage hvervet som dørmand i restaurationsvirksomheder.
 
 Stk. 4. En autorisation som dørmand kan efter omstændighederne begrænses og betinges.
 
