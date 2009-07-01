@@ -6,4 +6,4 @@ Stk. 3. Udlændinge, der har visum til ophold af mere end 3 måneders varighed m
 
 Stk. 4. Udlændinge, der har opholdstilladelse eller tilbagerejsetilladelse udstedt af et andet Schengenland, har ret til uden ugrundet ophold at rejse gennem Danmark i medfør af Schengengrænsekodeksens artikel 5, stk. 4, litra a.
 
-Stk. 5. Udlændinge, der har opholdstilladelse udstedt af Schweiz eller Liechtenstein, og som opfylder indrejsebetingelserne i Schengengrænsekodeksens artikel 5, stk. 1, litra a, c, d og e, har ret til at rejse gennem Danmark. Gennemrejse må ikke overstige fem dage.
+Stk. 5. Udlændinge, der har opholdstilladelse udstedt af Liechtenstein, og som opfylder indrejsebetingelserne i Schengengrænsekodeksens artikel 5, stk. 1, litra a, c, d og e, har ret til at rejse gennem Danmark. Gennemrejse må ikke overstige fem dage.
