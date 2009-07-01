@@ -26,7 +26,7 @@ c) andre foreninger eller afdelinger, hvis disse foreninger i deres vedtægter h
 
 10) Ejendomme, der ikke er omfattet af nr. 5, og lån sikret ved tinglyst panteret i ejendomme, der ikke er omfattet af nr. 6.
 
-11) Kapitalandele og andre værdipapirer optaget til handel på et reguleret marked i et land inden for Den Europæiske Union eller i et land, som Fællesskabet har indgået aftale med på det finansielle område, eller tilsvarende markeder i andre lande uden for zone A.
+11) Kapitalandele og andre værdipapirer optaget til handel på et marked i lande uden for zone A, hvis markedet svarer til et reguleret marked inden for Den Europæiske Union, samt andre værdipapirer optaget til handel på et reguleret marked i et land inden for Den Europæiske Union eller i et land, som Fællesskabet har indgået aftale med på det Finansielle område, eller tilsvarende markeder i andre lande omfattet af zone A.
 
 12) Andre lån og værdipapirer, som ikke omfattes af nr. 1-11.
 
@@ -34,12 +34,24 @@ c) andre foreninger eller afdelinger, hvis disse foreninger i deres vedtægter h
 
 Stk. 2. Midlerne kan anvendes til lån til arbejdsgivere, der har indbetalt bidrag til Arbejdsmarkedets Tillægspension, dog ikke ud over 50 pct. af det indbetalte bidrag og aldrig under 500,00 kr. Lånene ydes gennem pengeinstitutter til den for disse institutter sædvanlige udlånsrente, og pengeinstitutterne er ansvarlige over for Arbejdsmarkedets Tillægspension for lånets tilbagebetaling.
 
-Stk. 3. Midlerne kan placeres i dattervirksomheder, som Arbejdsmarkedets Tillægspension ejer fuldt ud, og som har til formål at tilbyde administrative ydelser bortset fra formueforvaltning til pensionskasser og tilsvarende ordninger i livsforsikringsselskaber, der er omfattet af lov om finansiel virksomhed eller ordninger efter lov om Lønmodtagernes Dyrtidsfond. Selskabet kan endvidere tilbyde administrative ydelser til pensionsordninger, myndigheder og andre udbydere af alderdomssikring, efterløn og lign., herunder til sammenslutninger af sådanne, med henblik på information til medlemmer, kunder m.v. Et eventuelt salg af ydelser fra Arbejdsmarkedets Tillægspension til et sådant selskab skal ske efter reglerne i § 23, stk. 4.
+Stk. 3. Midlerne kan placeres i dattervirksomheder, som Arbejdsmarkedets Tillægspension ejer fuldt ud, og som har til formål at tilbyde administrative ydelser, bortset fra formueforvaltning, til
 
-Stk. 4. Midlerne kan placeres i et datterselskab, som Arbejdsmarkedets Tillægspension ejer fuldt ud, og som har til formål at levere administrative ydelser til ordninger om udligning af arbejdsgivernes udgifter i forbindelse med barsel. Et eventuelt salg af ydelser fra Arbejdsmarkedets Tillægspension til et sådant selskab skal ske efter reglerne i § 23, stk. 4.
+1) pensionskasser og tilsvarende ordninger i livsforsikringsselskaber, der er omfattet af lov om finansiel virksomhed,
 
-Stk. 5. Midlerne kan placeres i et særskilt etableret eller eksisterende datterselskab, som Arbejdsmarkedets Tillægspension ejer fuldt ud, og som har til formål at levere administrative ydelser til overenskomstbaserede kompetenceudviklings- og uddannelsesfonde og sammenslutninger af sådanne eller levere tilsvarende ydelser til administrationsvirksomheder for sådanne aftagere. Et eventuelt salg af ydelser fra Arbejdsmarkedets Tillægspension til et sådant selskab skal ske efter reglerne i § 23, stk. 4.
+2) virksomheder etableret i et land inden for Den Europæiske Union eller i et land, som Fællesskabet har indgået aftale med på det finansielle område, som driver virksomhed enten som arbejdsmarkedspensionsordning eller som arbejdsmarkedsrelateret pensionskasse, og som har opnået tilladelse til sådan virksomhed efter nationale bestemmelser fastsat efter fælles europæisk regulering,
 
-Stk. 6. Midlerne kan placeres i dattervirksomheder, som Arbejdsmarkedets Tillægspension ejer fuldt ud, og som har til formål at drive finansiel virksomhed omfattet af lov om finansiel virksomhed, bortset fra pengeinstitut-, realkreditinstitut- og forsikringsvirksomhed.
+3) pensionsordninger, myndigheder og andre udbydere af alderdomssikring, efterløn og lign. med henblik på information til medlemmer, kunder m.v.,
 
-Stk. 7. Hvis Arbejdsmarkedets Tillægspension har en dattervirksomhed, hvis aktivitet er begrænset til at foretage og forvalte investeringer omfattet af stk. 1, kan dattervirksomhedens aktiver inden for værdien af kapitalandele i og eventuelle lån til dattervirksomheden behandles som aktiver efter stk. 1. Er dattervirksomheden ikke helejet, indgår dets aktiver til en forholdsmæssig værdi svarende til den ejede andel af egenkapitalen.
+4) pensions-, opsparings- og sikringsordninger etableret af et land inden for Den Europæiske Union eller af et land, som Fællesskabet har indgået aftale med på det finansielle område, eller
+
+5) sammenslutninger af de under nr. 1-3 nævnte virksomheder eller til administrationsvirksomheder for aftagere omfattet af nr. 1-4.
+
+Stk. 4. Et eventuelt salg af ydelser fra Arbejdsmarkedets Tillægspension til en sådan dattervirksomhed, jf. stk. 3, skal ske efter reglerne i § 23, stk. 4.
+
+Stk. 5. Midlerne kan placeres i et datterselskab, som Arbejdsmarkedets Tillægspension ejer fuldt ud, og som har til formål at levere administrative ydelser til ordninger om udligning af arbejdsgivernes udgifter i forbindelse med barsel. Et eventuelt salg af ydelser fra Arbejdsmarkedets Tillægspension til et sådant selskab skal ske efter reglerne i § 23, stk. 4.
+
+Stk. 6. Midlerne kan placeres i et særskilt etableret eller eksisterende datterselskab, som Arbejdsmarkedets Tillægspension ejer fuldt ud, og som har til formål at levere administrative ydelser til overenskomstbaserede kompetenceudviklings- og uddannelsesfonde og sammenslutninger af sådanne eller levere tilsvarende ydelser til administrationsvirksomheder for sådanne aftagere. Et eventuelt salg af ydelser fra Arbejdsmarkedets Tillægspension til et sådant selskab skal ske efter reglerne i § 23, stk. 4.
+
+Stk. 7. Midlerne kan placeres i dattervirksomheder, som Arbejdsmarkedets Tillægspension ejer fuldt ud, og som har til formål at drive finansiel virksomhed omfattet af lov om finansiel virksomhed, bortset fra pengeinstitut-, realkreditinstitut- og forsikringsvirksomhed.
+
+Stk. 8. Hvis Arbejdsmarkedets Tillægspension har en dattervirksomhed, hvis aktivitet er begrænset til at foretage og forvalte investeringer omfattet af stk. 1, kan dattervirksomhedens aktiver inden for værdien af kapitalandele i og eventuelle lån til dattervirksomheden behandles som aktiver efter stk. 1. Er dattervirksomheden ikke helejet, indgår dets aktiver til en forholdsmæssig værdi svarende til den ejede andel af egenkapitalen.
