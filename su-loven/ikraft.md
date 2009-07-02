@@ -4,7 +4,7 @@ Lov nr. 322 af 29. april 1996, hvis § 1 ændrer § 24, stk. 1, § 30, stk. 5, 1
 
 Stk. 1. Loven træder i kraft dagen efter bekendtgørelsen i Lovtidende og har virkning fra den 1. januar 1996, jf. dog stk. 3 og 4.
 
-Stk. 2-4. (udeladt)
+Stk. 2-4. (Udeladt)
 
 Lov nr. 980 af 17. december 1997, hvis § 39 ændrer § 18, stk. 1, indeholder følgende ikrafttrædelsesbestemmelser m.v.:
 
@@ -12,7 +12,7 @@ Lov nr. 980 af 17. december 1997, hvis § 39 ændrer § 18, stk. 1, indeholder f
 
 Stk. 1. Loven træder i kraft den 1. juli 1998, jf. dog stk. 2, 3 og 4.
 
-Stk. 2-5. (udeladt).
+Stk. 2-5. (Udeladt).
 
 Lov nr. 1117 af 29. december 1997, hvis § 1 ændrer § 4, stk. 1, § 15, § 16, stk. 5, der bliver stk. 6, § 24, stk. 2, nr. 2-4, § 37, stk. 1 og 2, § 38, § 39, stk. 3, nr. 1, der bliver stk. 6, nr. 1, § 42, stk. 1, 2. pkt., og § 62, stk. 7, nyaffatter § 1, § 3, § 23, stk. 3, nr. 2, § 24, stk. 3, nr. 4 og 5, § 24, stk. 6, § 31, stk. 4, overskriften til kapitel 9 og afsnit II, indsætter § 16, stk. 5, § 23, stk. 5, § 31, stk. 5, § 38, stk. 2, § 39, stk. 3-5, og ophæver § 60, indeholder følgende ikrafttrædelsesbestemmelser m.v.:
 
@@ -20,27 +20,33 @@ Lov nr. 1117 af 29. december 1997, hvis § 1 ændrer § 4, stk. 1, § 15, § 16,
 
 Stk. 1. Loven træder i kraft den 1. januar 1998.
 
-Stk. 2. (udeladt).
+Stk. 2. (Udeladt).
 
 Stk. 3. Reglerne om udpantningsret i § 37, stk. 1, i lov om statens uddannelsesstøtte som ændret ved denne lovs § 1, nr. 15, og i § 6, stk. 1, i lov om statsgaranterede studielån som ændret ved denne lovs § 2, nr. 1, finder også anvendelse på fordringer, der er forfaldne inden lovens ikrafttræden.
 
-Stk. 4-6. (udeladt).
+Stk. 4-6. (Udeladt).
 
-I lov nr. 1087 af 13. december 2000, hvis § 4 ændrer § 8, stk. 1, nr. 2, og stk. 2, nr. 2, fastsættes i § 7, stk. 2, at de ændringer, som fremgår af § 4, træder i kraft den 1. januar 2001.
+Lov nr. 1087 af 13. december 2000, hvis § 4 ændrer § 8, stk. 1, nr. 2, og stk. 2, nr. 2, indeholder følgende ikrafttrædelsesbestemmelser m.v.:
+
+§ 7
+
+Stk. 1. Loven træder i kraft den 1. marts 2001, jf. dog stk. 2 og 3.
+
+Stk. 2 . (Udeladt)
 
 Lov nr. 1286 af 20. december 2000, hvis § 14 ændrer § 23, stk. 2, og § 26, stk. 1, indeholder følgende ikrafttrædelsesbestemmelser m.v.:
 
 § 15
 
-Stk. 1. Loven træder i kraft dagen efter bekendtgørelsen i Lovtidende.
+Loven træder i kraft dagen efter bekendtgørelsen i Lovtidende.
 
-Stk. 2-7. (udeladt).
+Stk. 2-7. (Udeladt).
 
-Stk. 8. § 13 og § 14, nr. 2 , har første gang virkning for opgørelse af indkomstgrundlaget for 2003 på grundlag af indkomståret 2001.
+Stk. 8. § 13 og § 14, nr. 2, har første gang virkning for opgørelse af indkomstgrundlaget for 2003 på grundlag af indkomståret 2001.
 
-Stk. 9. § 14, nr. 1 , har virkning for opgørelse af egenindkomsten for støtteåret 2001 og følgende år.
+Stk. 9. § 14, nr. 1, har virkning for opgørelse af egenindkomsten for støtteåret 2001 og følgende år.
 
-Lov nr. 246 af 6. april 2001 , hvis § 14 ændrer § 12, stk. 2, 2. pkt., § 36, stk. 2, § 39, stk. 3, og stk. 6, nr. 2, 3 og 6, og § 40, 1. og 2. pkt., og hvorved § 43 a indsættes, indeholder følgende ikrafttrædelsesbestemmelse:
+Lov nr. 246 af 6. april 2001, hvis § 14 ændrer § 12, stk. 2, 2. pkt., § 36, stk. 2, § 39, stk. 3, og stk. 6, nr. 2, 3 og 6, og § 40, 1. og 2. pkt., og hvorved § 43 a indsættes, indeholder følgende ikrafttrædelsesbestemmelse:
 
 § 15
 
@@ -52,11 +58,11 @@ Lov nr. 416 af 6. juni 2002, hvis § 1 ændrer § 14, stk. 1, 1. pkt., og stk. 2
 
 Stk. 1. Loven træder i kraft den 1. juli 2002.
 
-Stk. 2. § 1, nr. 1 , har virkning for ansøgninger om godkendelse af uddannelser i udlandet som støtteberettigende, der modtages i styrelsen efter den 1. juli 2002.
+Stk. 2. § 1, nr. 1, har virkning for ansøgninger om godkendelse af uddannelser i udlandet som støtteberettigende, der modtages i styrelsen efter den 1. juli 2002.
 
-Stk. 3. § 1, nr. 5 , har virkning for uddannelsessøgende, der har indgået kontrakt eller fået ændret deres kontrakt med forsvaret for en periode, der begynder den 1. oktober 2000 eller senere.
+Stk. 3. § 1, nr. 5, har virkning for uddannelsessøgende, der har indgået kontrakt eller fået ændret deres kontrakt med forsvaret for en periode, der begynder den 1. oktober 2000 eller senere.
 
-Stk. 4. (udeladt).
+Stk. 4. (Udeladt).
 
 Lov nr. 394 af 28. maj 2003, hvis § 16 ændrer § 23, stk. 2, og § 26, stk. 1, indeholder følgende ikrafttrædelsesbestemmelser m.v.:
 
@@ -66,11 +72,11 @@ Stk. 1. Loven træder i kraft dagen efter bekendtgørelse i Lovtidende.
 
 Stk. 2. § 1, nr. 6, 7 og 9, og §§ 4, 5, 11 og 13-16 har virkning for aktier, køberetter til aktier og tegningsretter til aktier, der tildeles den 1. juli 2003 eller senere, jf. dog stk. 6. For aktier, køberetter til aktier og tegningsretter til aktier, der er tildelt før den 1. juli 2003, finder de hidtil gældende regler, herunder reglerne i ligningslovens §§ 28 A-C fortsat anvendelse.
 
-Stk. 3-5. (udeladt)
+Stk. 3-5. (Udeladt)
 
 Stk. 6. For aktier, køberetter til aktier og tegningsretter til aktier, der er tildelt før den 1. juli 2003, og hvor tidspunktet for den ansattes beskatning af de modtagne aktier m.v. indtræder den 1. januar 2003 eller senere, kan den ansatte og det selskab, der har ydet de pågældende aktier m.v., indgå aftale om, at reglerne i ligningslovens § 7 H, som affattet ved denne lovs § 1, nr. 6, skal finde anvendelse. Indgås en sådan aftale, skal indberetning herom foretages for det kalenderår, hvor aftalen er indgået.
 
-Stk. 7-8. (udeladt).
+Stk. 7-8. (Udeladt).
 
 Lov nr. 401 af 28. maj 2003, hvis § 4 indsætter § 1, stk. 2, indeholder følgende ikrafttrædelsesbestemmelser m.v.:
 
@@ -78,7 +84,7 @@ Lov nr. 401 af 28. maj 2003, hvis § 4 indsætter § 1, stk. 2, indeholder følg
 
 Stk. 1. Loven træder i kraft den 1. juli 2003.
 
-Stk. 2-4. (udeladt).
+Stk. 2-4. (Udeladt).
 
 Lov nr. 418 af 10. juni 2003, hvis § 9 indsætter § 18, stk. 1, nr. 1, indeholder følgende ikrafttrædelsesbestemmelser m.v.:
 
@@ -86,7 +92,7 @@ Lov nr. 418 af 10. juni 2003, hvis § 9 indsætter § 18, stk. 1, nr. 1, indehol
 
 Stk. 1. Loven træder i kraft den 1. juli 2003.
 
-Stk. 2-5. (udeladt).
+Stk. 2-5. (Udeladt).
 
 Lov nr. 1225 af 27. december 2003, hvis § 1 ændrer § 8, stk. 1, nr. 1 og 2, § 8, stk. 2, nr. 1 og 2, § 9, § 10, § 11, § 22, stk. 2, 1. pkt., § 24, stk. 1-5, § 25, stk. 1, 1. og 2. pkt., § 25, stk. 2, 1. og 3. pkt., § 25, stk. 4, og § 29, stk. 3, og indsætter § 7, stk. 2, § 10 a, § 11, stk. 2, § 24, stk. 7, nr. 2, 2. pkt., § 14, stk. 9, og § 46, stk. 5, indeholder følgende ikrafttrædelsesbestemmelser m.v.:
 
@@ -110,7 +116,7 @@ Stk. 4. § 1, nr. 5 og 11, træder i kraft den 1. juli 2004 og har virkning for 
 
 Stk. 5. § 1, nr. 10, træder i kraft den 1. januar 2005 og har virkning fra og med indkomstkontrollen for støtteåret 2005.
 
-Stk. 6. (udeladt).
+Stk. 6. (Udeladt).
 
 Lov nr. 327 af 18. maj 2005, hvis § 9 ændrer § 14, stk. 1 og 2, § 42, stk. 1, 2. pkt., og § 43 a, stk. 1, og indsætter § 2, stk. 4-7, § 24, stk. 3, nr. 6, og § 39, stk. 5, indeholder følgende ikrafttrædelsesbestemmelser m.v.:
 
@@ -120,15 +126,15 @@ Stk. 1. Loven træder i kraft den 1. juli 2005.
 
 Stk. 2. Loven har virkning for personer, som bevidst unddrager sig strafforfølgning eller straffuldbyrdelse den 1. juli 2005 eller senere.
 
-Stk. 3-4. (udeladt).
+Stk. 3-4. (Udeladt).
 
 Lov nr. 428 af 6. juni 2005, hvis § 113 nyaffatter § 26, stk. 2 og 3, og ændrer § 39, stk. 1, og § 40, stk. 1, 1. pkt., indeholder følgende ikrafttrædelsesbestemmelser m.v.:
 
 § 125
 
-Stk. 1. Loven træder i kraft dagen efter bekendtgørelsen i Lovtidende . (udeladt).
+Stk. 1. Loven træder i kraft dagen efter bekendtgørelsen i Lovtidende.(Udeladt)
 
-Stk. 2. Loven har virkning fra den 1. november 2005. (Udeladt, vedrører anden lovgivning).
+Stk. 2. Loven har virkning fra den 1. november 2005. (Udeladt).
 
 Stk. 3. Følgende bekendtgørelser ophæves med virkning fra den 1. november 2005:
 
@@ -140,7 +146,7 @@ Lov nr. 430 af 6. juni 2005, hvis § 61 ændrer § 36, stk. 2 og 3, § 37, stk. 
 
 § 70
 
-Stk. 1. Loven træder i kraft dagen efter bekendtgørelsen i Lovtidende .
+Stk. 1. Loven træder i kraft dagen efter bekendtgørelsen i Lovtidende.
 
 Stk. 2. Loven har virkning fra den 1. november 2005, jf. dog stk. 3.
 
@@ -150,7 +156,7 @@ Lov nr. 312 af 19. april 2006, hvis § 1 ændrer titlen, § 2, stk. 3, 1. pkt., 
 
 § 3
 
-Stk. 1. § 1, nr. 1, 6-9 og 13, og § 2 træder i kraft dagen efter bekendtgørelsen i Lovtidende .
+Stk. 1. § 1, nr. 1, 6-9 og 13, og § 2 træder i kraft dagen efter bekendtgørelsen i Lovtidende.
 
 Stk. 2. § 1, nr. 2-5 og 10-12, træder i kraft den 30. april 2006 og har virkning for ansøgninger fra udenlandske statsborgere om støtte, der modtages på uddannelsesinstitutionen den 30. april 2006 og senere. For ansøgninger om støtte, der er modtaget på uddannelsesinstitutionen før den 30. april 2006, finder de hidtil gældende regler anvendelse.
 
@@ -168,9 +174,9 @@ Lov nr. 516 af 7. juni 2006, hvis § 8 ændrer § 31, stk. 3, og ophæver § 36,
 
 § 13
 
-Stk. 1. Skatteministeren fastsætter tidspunktet for lovens ikrafttræden (udeladt).
+Stk. 1. Skatteministeren fastsætter tidspunktet for lovens ikrafttræden (Udeladt).
 
-Stk. 2 og 3. (udeladt).
+Stk. 2 og 3. (Udeladt).
 
 Lov nr. 1592 af 20. december 2006, der ophæver § 2 stk. stk. 3, (om lovrevision i 2006-07) i lov nr. 1225 af 27. december 2003 om ændring af lov om statens uddannelsesstøtte. (Tillæg til uddannelsessøgende i videregående uddannelser med varig funktionsnedsættelse) indeholder følgende ikrafttrædelsesbestemmelser m.v.:
 
@@ -178,10 +184,54 @@ Lov nr. 1592 af 20. december 2006, der ophæver § 2 stk. stk. 3, (om lovrevisio
 
 Loven træder i kraft den 1. januar 2007.
 
-Lov nr. 565, af 6. juni 2007 , hvis § 1 nyaffatter § 1, stk. 3, indsætter § 1, stk. 4, og § 46 a - 46 h og ændrer § 12, stk. 2, 1. pkt., indeholder følgende ikrafttrædelsesbestemmelser m.v.:
+Lov nr. 565, af 6. juni 2007, hvis § 1 nyaffatter § 1, stk. 3, indsætter § 1, stk. 4, og § 46 a - 46 h og ændrer § 12, stk. 2, 1. pkt., indeholder følgende ikrafttrædelsesbestemmelser m.v.:
 
 § 2
 
 Stk. 1. Loven træder i kraft den 1. juli 2007.
 
 Stk. 2. Loven finder anvendelse for studieophold og hele uddannelser på kandidatniveau i udlandet, som den uddannelsessøgende påbegynder den 1. juli 2008 eller senere.
+
+Lov nr. 208 af 31. marts 2008, hvis § 2 indsætter § 23, stk. 3, nr. 2, og § 39, stk. 8, og ændrer § 24, stk. 8, § 42, stk. 1, 2. pkt., § 43 a, stk. 1, 2. pkt., og § 62, stk. 1. pkt., indeholder følgende ikrafttrædelsesbestemmelser m.v.:
+
+§ 9
+
+Stk. 1. Loven træder i kraft den 1. august 2008, jf. dog stk. 2-4.
+
+Stk. 2. (Udeladt)
+
+Stk. 3. § 2, nr. 1, 2 og 6, træder i kraft den 1. april 2008 og finder anvendelse for den endelige tildeling af støtte, jf. § 22 i lov om statens uddannelsesstøtte (SU-loven), for støtteåret 2007.
+
+Stk. 4. (Udeladt).
+
+Lov nr. 374 af 26. maj 2008, hvis § 1 ændrer § 8, stk. 1 og 2, § 9, § 10, § 10 a, stk. 1, § 10 b, stk. 1-3, § 11, stk. 1, § 23, stk. 1, § 24, stk. 1-3 og 6-9, § 25, stk. 1, 1. og 2. pkt., § 25, stk. 2, 1., 3. og 4. pkt., § 25, stk. 4, § 25, stk. 6, nr. 1 og 2, § 30, stk. 2, 2. pkt., og § 39, stk. 1, 2. pkt., indsætter § 22 a og nyaffatter § 24, stk. 4, og § 63, indeholder følgende ikrafttrædelsesbestemmelser m.v.:
+
+§ 2
+
+Stk. 1. Loven træder i kraft den 1. juli 2008, jf. dog stk. 2.
+
+Stk. 2. Undervisningsministeren fastsætter tidspunktet for ikrafttræden af § 1, nr. 12, 13, 15, 18, 24 og 25.
+
+Stk. 3. Reguleringen efter § 12, stk. 3, i lov om statens uddannelsesstøtte (SU-loven) af de støttesatser og beløbsgrænser, der er nævnt i samme lovs § 8, stk. 1 og 2, § 9, § 10, § 10 a, stk. 1, § 10 b, stk. 1-3, § 11, stk. 1, § 24, stk. 1-4 og 9, og § 25, stk. 2, 1., 3. og 4. pkt., og stk. 4, som affattet ved denne lovs § 1, nr. 1-11, 14, 16, 17 og 19-23, sker første gang med virkning fra den 1. januar 2009.
+
+Lov nr. 1336 af 19. december 2008, hvis § 136 ændrer § 31, stk. 3, § 34, stk. 1, og § 61, stk. 1, og ophæver § 31, stk. 4 og 5, § 36, stk. 3, kapitel 9 og § 46, stk. 1, nr. 3, indeholder følgende ikrafttrædelsesbestemmelser m.v.:
+
+§ 167
+
+Stk. 1. Loven træder i kraft den 1. januar 2009, jf. dog stk. 2. (Udeladt).
+
+Stk. 2. Skatteministeren fastsætter tidspunktet for ikrafttrædelse af § 9, § 99, nr. 3, § 103, § 109, nr. 4 og 5, § 117, nr. 4, § 118, nr. 1, § 136, nr. 1, 3 og 4, § 144, nr. 1 og 2, § 148, nr. 2, og § 149, nr. 2.
+
+Lov nr. 1408 af 27. december 2008, der ændrer § 2, stk. 3, 2. pkt., § 8, stk. 4, nr. 2, 2. pkt., § 10 a, stk. 1 og 2, § 10 b; stk. 1-3, § 11, stk. 2, § 13, stk. 3, § 22, stk. 2, § 24, stk. 5, § 24, stk. 7, nr. 2, 2. pkt., § 24, stk. 9, § 25, stk. 4, 5 og 7, § 29, stk. 3, § 39, stk. 2, 1. pkt., § 43 a, stk. 1, 2. pkt., og § 46, stk. 5, indsætter § 2, stk. 3, 3. pkt., § 7, stk. 2, § 20 a, kapitel 10 a og § 43, stk. 1. 3. pkt., nyaffatter § 12, § 13, stk. 1, nr. 1, § 20, § 24, stk. 1, § 25, stk. 8, nr. 1, § 39, stk. 9, § 42, stk. 1 og § 43, stk. 1, 2. pkt., og ophæver § 10 b, stk. 4, 2. pkt., § 41 og § 62, stk. 7, indeholder følgende ikrafttrædelsesbestemmelser m.v.:
+
+§ 2
+
+Stk. 1. Loven træder i kraft den 1. januar 2009, jf. dog stk. 2 og 3.
+
+Stk. 2. § 10 a, stk. 2, § 11, stk. 2, § 20 og § 20 a i lov om statens uddannelsesstøtte (SU-loven) som ændret henholdsvis affattet ved denne lovs § 1, nr. 7, 12 og 16, samt ophævelsen af samme lovs § 10 b, stk. 4, 2. pkt., og § 62, stk. 7, jf. denne lovs § 1, nr. 11 og 32, træder i kraft den 1. juli 2009.
+
+Stk. 3. Undervisningsministeren fastsætter tidspunktet for ikrafttrædelsen af SU-lovens § 12, §§ 38 a-38 e, § 39, stk. 9, og § 43 a, stk. 1, 2. pkt., som affattet henholdsvis ændret ved denne lovs § 1, nr. 13, 19, 25, 27 og 31, jf. dog stk. 5, samt for ophævelsen af § 41, jf. denne lovs § 1, nr. 28.
+
+Stk. 4. § 2, stk. 3, 3. pkt., i SU-loven som indsat ved denne lovs § 1, nr. 2, har virkning for ansøgninger om godkendelse af uddannelser i udlandet som støtteberettigende, der modtages i styrelsen den 1. januar 2009 eller senere.
+
+Stk. 5. Reguleringen efter SU-lovens § 12, stk. 3, sker første gang med virkning fra den 1. januar 2009 for de støttesatser og beløbsgrænser, der er nævnt i SU-lovens § 10 a, stk. 1, § 10 b, stk. 2, og § 24, stk. 1, som affattet henholdsvis ændret ved denne lovs § 1, nr. 6, 9 og 18.
