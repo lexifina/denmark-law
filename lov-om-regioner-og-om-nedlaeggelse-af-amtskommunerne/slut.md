@@ -1,4 +1,4 @@
-Velfærdsministeriet, den 30. oktober 2008
+Indenrigs- og Socialministeriet, den 3. juli 2009
 
 P.M.V. Christian Schønau
 
