@@ -1,0 +1,1 @@
+§ 17 d. Opholdskommunen har adgang til refusion fra en tidligere opholdskommune efter § 9 c i lov om retssikkerhed og administration på det sociale område.
