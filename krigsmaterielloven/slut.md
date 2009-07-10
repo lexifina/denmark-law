@@ -1,9 +1,5 @@
-Givet på Christiansborg Slot, den 13. juni 1990
+Justitsministeriet, den 7. juli 2009
 
-Under Vor Kongelige Hånd og Segl
+Brian Mikkelsen
 
-MARGRETHE R.
-
-/ Hans Engell
-
-Ingen
+/ Kira Gandrup
