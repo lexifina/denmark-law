@@ -1,5 +1,5 @@
-Beskæftigelsesministeriet, den 8. februar 2008
+Beskæftigelsesministeriet, den 7. juli 2009
 
-Claus Hjort Frederiksen
+Inger Støjberg
 
-/ Karen Ryder
+/ Torben D. Jensen

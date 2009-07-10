@@ -1,4 +1,4 @@
-Lov nr. 418 af 10. juni 2003 indeholder i § 24 indeholder følgende bestemmelser:
+Lov nr. 418 af 10. juni 2003 indeholder i § 24 følgende bestemmelser:
 
 § 24
 
@@ -23,3 +23,9 @@ Lov nr. 495 af 6. juni 2007 indeholder følgende bestemmelse:
 § 2
 
 Loven træder i kraft den 1. juli 2007.
+
+Lov nr. 483 af 12. juni 2009 indeholder i § 21 følgende bestemmelse:
+
+§ 21
+
+Loven træder i kraft den 1. august 2009.
