@@ -1,7 +1,5 @@
-Justitsministeriet, den 1. september 1986
+Justitsministeriet, den 9. juli 2009
 
-Erik Ninn-Hansen
+Brian Mikkelsen
 
-/C. C. Duus
-
-Ingen
+/ Kira Gandrup

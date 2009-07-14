@@ -1,0 +1,1 @@
+1) Lov om DSB, jf. lovbekendtgørelse nr. 757 af 6. august 1996, er ophævet ved § 30, stk. 2, i lov nr. 289 af 18. maj 1998 om jernbanevirksomhed m.v., der trådte i kraft den 21. maj 1998. § 50 i lov om DSB (om glemte og tabte genstande) er ikke videreført i lov om jernbanevirksomhed m.v.

@@ -1,3 +1,3 @@
 Bekendtgørelse af lov om hittegods
 
-Herved bekendtgøres lov nr. 146 af 23. april 1952 om hittegods med de ændringer, der følger af lov nr. 242 af 7. juni 1963.
+Herved bekendtgøres lov om hittegods, jf. lovbekendtgørelse nr. 591 af 1. september 1986, med de ændringer, der følger af lov nr. 100 af 17. februar 1998 og § 23 i lov nr. 538 af 8. juni 2006.
