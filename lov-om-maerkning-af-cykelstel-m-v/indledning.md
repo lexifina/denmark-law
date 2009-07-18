@@ -1,3 +1,3 @@
-Lov om Mærkning af Cykelstel m.v.(* 1)
+Bekendtgørelse af lov om mærkning af cykelstel m.v.
 
-Vi Frederik den Niende, af Guds Naade Konge til Danmark, de Venders og Goters, Hertug til Slesvig, Holsten, Stormarn, Ditmarsken, Lauenborg og Oldenborg, Gør Vitterligt: Rigsdagen har vedtaget og Vi ved Vort Samtykke stadfæstet følgende Lov:
+Herved bekendtgøres lov nr. 135 af 23. marts 1948 om mærkning af cykelstel m.v. med de ændringer, der følger af lov nr. 101 af 17. februar 1998 og lov nr. 1399 af 27. december 2008.
