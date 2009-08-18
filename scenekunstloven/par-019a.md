@@ -1,1 +1,1 @@
-§ 19 a. Kunstrådet følger udviklingen blandt egnsteatrene og de små storbyteatre. Kunstrådet bistår kommuner, amtskommuner og teatre ved udarbejdelsen af aftaler, der løber over minimum 3 år, jf. § 15, stk. 3, og § 16 b, stk. 3.
+§ 19 a. Kunstrådet følger udviklingen blandt egnsteatrene og de små storbyteatre. Kunstrådet bistår kommuner og teatre ved udarbejdelsen af aftaler, der løber over minimum 3 år, i henhold til § 15, stk. 3, og § 16 b, stk. 3.

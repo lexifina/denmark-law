@@ -1,1 +1,1 @@
-§ 14 a. Det Storkøbenhavnske Teaterfællesskab drives med tilskud fra Hovedstadens Udviklingsråd og staten. Statens og Udviklingsrådets tilskud fastsættes i 4-årige budgetaftaler mellem tilskudsyderne.
+§ 14 a. Staten kan yde tilskud til Københavns Teater. Statens bevilling fastsættes på de årlige finanslove.

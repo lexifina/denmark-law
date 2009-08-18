@@ -1,5 +1,5 @@
-Kulturministeriet, den 29. november 2003
+Kulturministeriet, den 23. juni 2009
 
-Brian Mikkelsen
+Carina Christensen
 
-/Henrik Jacobsen
+/ Annette Kornerup
