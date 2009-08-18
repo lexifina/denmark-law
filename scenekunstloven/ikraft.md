@@ -39,3 +39,79 @@ Stk. 4. Det første kunstråd med tilhørende udvalg, som udpeges, jf. § 6, bes
 § 14
 
 Loven tages op til revision i folketingsåret 2008-09.
+
+Lov nr. 1156 af 19. december 2003 om ændring af forskellige bestemmelser om medarbejdervalgte bestyrelsesmedlemmer indeholder følgende ikrafttrædelsesbestemmelser m.v:
+
+§ 9
+
+Loven træder i kraft dagen efter bekendtgørelsen i Lovtidende og finder anvendelse i forbindelse med afskedigelser, hvor afgørelse om afskedigelse træffes efter lovens ikrafttræden, og i forbindelse med anden ændring af forholdene, der sker efter lovens ikrafttræden.
+
+Lov nr. 519 af 21. juni 2005 om ændring af teaterloven indeholder følgende ikrafttrædelsesbestemmelser m.v.:
+
+§ 2
+
+Stk. 1. Loven træder i kraft den 1. januar 2007. Bestemmelserne i stk. 2-7 træder dog i kraft dagen efter lovens bekendtgørelse i Lovtidende.
+
+Stk. 2. Kulturministeren kan fastsætte nærmere regler om regnskabsaflæggelse og tilbagebetaling af lån for institutioner, som inden den 1. januar 2007 har modtaget tilskud eller lån fra en amtskommune i medfør af
+
+1) teaterlovens §§ 5-7 vedrørende Den Jyske Opera og Det Danske Teater,
+
+2) teaterlovens §§ 8-10 vedrørende Det Rejsende Børneteater og Opsøgende Teater,
+
+3) teaterlovens §§ 11-13 vedrørende landsdelsscenerne i Århus, Odense og Aalborg,
+
+4) teaterlovens §§ 15 og 16 vedrørende egnsteatre og
+
+5) teaterlovens § 24 vedrørende teaterabonnementsordningen.
+
+Stk. 3. Bestyrelsen for Det Rejsende Børneteater og Opsøgende Teater, jf. §§ 8-10, må ikke fra dagen efter lovens bekendtgørelse i Lovtidende påtage sig forpligtelser, der rækker ud over den 1. januar 2007, medmindre dette er godkendt af kulturministeren.
+
+Stk. 4. Funktionsperioden for bestyrelser m.v., der er nedsat inden den 1. januar 2007, udløber dagen inden den 1. januar 2007. Amtsrådene skal drage omsorg for afbeskikkelse af medlemmerne af bestyrelserne. Disse bestemmelser gælder for
+
+1) Den Jyske Opera og Det Danske Teater, jf. teaterlovens §§ 5-7,
+
+2) Det Rejsende Børneteater og Opsøgende Teater, jf. teaterlovens §§ 8-10, og
+
+3) landsdelsscenerne i Århus, Odense og Aalborg, jf. teaterlovens §§ 11-13.
+
+Stk. 5. Bestemmelserne i stk. 2-4 finder tilsvarende anvendelse på Det Storkøbenhavnske Teaterfællesskab, dog således at den relevante dato er den 1. januar 2006.
+
+Stk. 6. Uanset bestemmelsen i stk. 1 træder bestemmelserne om Hovedstadens Teater, jf. § 1, nr. 7-13, i kraft den 1. januar 2006. Med virkning fra samme dato overtager Hovedstadens Teater fra Hovedstadens Udviklingsråd (HUR) de aktiver og passiver og ansatte, der udelukkende har været knyttet til administrationen af Det Storkøbenhavnske Teaterfællesskab. Hovedstadens Teater indtræder endvidere samtidig i de rettigheder og pligter, som udelukkende har været knyttet til administrationen af Det Storkøbenhavnske Teaterfællesskab. Kulturministeriet administrerer fra den 1. januar 2006 de af HUR afsatte bevillinger til Det Storkøbenhavnske Teaterfællesskab. Beskikkelse af den første bestyrelse for Hovedstadens Teater kan ske med virkning fra den 1. juli 2005.
+
+Stk. 7. Kulturministeren kan for at sikre en så hensigtsmæssig overgang til det ny regelsæt som muligt for de tilskudsordninger, der følger sæsonåret fra den 1. juli til den 30. juni, i relation til
+
+1) Det Rejsende Børneteater og Opsøgende Teater, jf. teaterlovens §§ 8-10,
+
+2) egnsteatre, jf. teaterlovens §§ 15 og 16, og
+
+3) teaterabonnementsordningen, jf. teaterlovens § 24,
+
+fastsætte regler om, at tidspunktet den 1. januar 2007 som nævnt i stk. 1, 3 og 4 ændres til den 1. juli 2007. Kulturministeren kan i så fald fastsætte de nærmere fornødne overgangsregler herom.
+
+Lov nr. 459 af 23. maj 2007 indeholder følgende ikrafttrædelsesbestemmelser m.v.:
+
+§ 2
+
+Stk. 1. Loven træder i kraft dagen efter bekendtgørelsen i Lovtidende, jf. dog stk. 2.
+
+Stk. 2. Bestemmelsen i § 1, nr. 1, om ændring af navnet »Det Danske Teater« til: »folketeatret.dk« træder dog i kraft den 1. juli 2007.
+
+Lov nr. 460 af 23. maj 2007 indeholder følgende ikrafttrædelsesbestemmelser m.v.:
+
+§ 2
+
+Stk. 1. Loven træder i kraft dagen efter bekendtgørelsen i Lovtidende.
+
+Stk. 2. Refusion til egnsteatre, der ydes i medfør af allerede indgåede aftaler, fortsætter uændret frem til aftalens udløb. Eventuel forlængelse af indgåede aftaler betragtes i denne sammenhæng som aftalefornyelse.
+
+Stk. 3. Egnsteatre, hvor Kunstrådet ved lovens ikrafttræden har godkendt den indgåede egnsteateraftale, kan ikke fratages denne godkendelse med henvisning til § 15, stk. 1, heller ikke efter den indgåede egnsteateraftales udløb. Dette gælder dog kun, hvis det økonomiske og aktivitetsmæssige grundlag for den herefter indgåede aftale ikke reduceres i forhold til det grundlag, der gjaldt før lovens ikrafttræden.
+
+Stk. 4. Bestemmelserne i § 16, stk. 2, om egnsteaterkonsulenternes evalueringer af egnsteatrenes virksomhed finder også anvendelse for egnsteateraftaler, der er indgået inden denne lovs ikrafttræden.
+
+Stk. 5. Ved beregningen af refusionsprocenten efter § 15 a, stk. 2, medregnes ikke kommunale udgifter til driftstilskud til egnsteatre, som i overgangsfasen, jf. stk. 2, er omfattet af egnsteateraftaler med en fast refusionsprocent på 50. Ligeledes medregnes ikke den del af den statslige bevilling på finansloven, der benyttes til refusion i medfør af disse aftaler.
+
+Lov nr. 88 af 20. februar 2008 indeholder følgende ikrafttrædelsesbestemmelser m.v.:
+
+§ 2
+
+Loven træder i kraft den 1. marts 2008.

@@ -1,1 +1,1 @@
-§ 14 e. De nærmere regler om Det Storkøbenhavnske Teaterfællesskab fastsættes af kulturministeren efter forhandling med Hovedstadens Udviklingsråd.
+§ 14 e. De nærmere regler om betingelserne for tilskud til Københavns Teater fastsættes af kulturministeren.
