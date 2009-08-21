@@ -1,4 +1,4 @@
-1) § 1, nr. 2, 4 og 5, i lov nr. 431 af 1. juni 2008, som vedrører indsættelse af § 2 a, stk. 4-7, ændring af overskriften til kapitel 8 a samt ændret affattelse af § 58 d, 1. pkt., er endnu ikke trådt i kraft. Tidspunktet for ikrafttræden fastsættes af ministeren for flygtninge, indvandrere og integration. Ændringerne er derfor ikke medtaget i denne lovbekendtgørelse.
+1) § 2, nr. 1, 4, 5-7, 9-11, 13-15 og 20 i lov nr. 1398 af 27. december 2008, som vedrører indsættelse af udlændingelovens § 2 a, stk. 4-9, § 10, stk. 2, nr. 4, § 19, stk. 3, § 19, stk. 8, § 28, stk. 1, nr. 6, § 40 a, stk. 2, § 40 b, stk. 2, og § 58 g, stk. 2, er endnu ikke trådt i kraft. Tidspunktet for ikrafttræden fastsættes af ministeren for flygtninge, indvandrere og integration. Ændringerne er derfor ikke medtaget i denne lovbekendtgørelse.
 
 2) Lov nr. 574 af 19. december 1985 blev bekendtgjort i Lovtidende den 21. december 1985 og vedrørte ændrede affattelser af § 46, stk. 2, og § 53, indsættelse af § 53 a og § 53 b samt en ændret affattelse af § 56.
 
@@ -66,14 +66,20 @@
 
 34) § 1, nr. 2, i lov nr. 301 af 19. april 2006 vedrører indsættelse af stk. 3 i § 2 a. § 1, nr. 3, § 18, §§ 26-28, § 30 og § 49 i lov nr. 301 af 19. april 2006 vedrører ændret affattelse af § 2 b, stk. 4, § 28, stk. 6, § 38, stk. 1-3, § 39, stk. 3, og § 59, stk. 1, nr. 1. Ændringerne trådte i kraft den 13. oktober 2006, jf. bekendtgørelse nr. 979 af 26. september 2006.
 
-35) § 104, nr. 1, i lov nr. 538 af 8. juni 2006 vedrørte indsættelse af § 46 f i udlændingeloven. § 104, nr. 2 og 3, vedrørte ændret affattelse af udlændingelovens § 48, stk. 1.
+35) Lov nr. 532 af 8. juni 2006 blev bekendtgjort i Lovtidende den 9. juni 2006 og trådte i kraft den 10. juni 2006.
 
-36) Lov nr. 532 af 8. juni 2006 blev bekendtgjort i Lovtidende den 9. juni 2006 og trådte i kraft den 10. juni 2006.
+36) § 104, nr. 1, i lov nr. 538 af 8. juni 2006 vedrørte indsættelse af § 46 f i udlændingeloven. § 104, nr. 2 og 3, vedrørte ændret affattelse af udlændingelovens § 48, stk. 1.
 
-37) Udlændingelovens § 33, stk. 3, 1. pkt., som ændret ved lov nr. 379 af 25. april 2007, trådte i kraft den 10. oktober 2007, jf. bekendtgørelse nr. 1141 af 1. oktober 2007.
+37) § 3, stk. 2, 1. pkt., i lov nr. 379 af 25. april 2007, som vedrører indsættelse af § 9, stk. 2, og § 9 f, stk. 4, som ændret henholdsvis affattet ved denne lovs § 1, nr. 2 og 5, er endnu ikke trådt i kraft. Tidspunktet fastsættes af ministeren for flygtninge, indvandrere og integration. Ændringerne er derfor ikke medtaget i denne lovbekendtgørelse.
 
-38) Lov nr. 507 af 6. juni 2007 blev bekendtgjort i Lovtidende den 7. juni 2007 og trådte i kraft den 8. juni 2007.
+38) Udlændingelovens § 33, stk. 3, 1. pkt., som ændret ved lov nr. 379 af 25. april 2007, trådte i kraft den 10. oktober 2007, jf. bekendtgørelse nr. 1141 af 1. oktober 2007.
 
-39) Lov nr. 431 af 1. juni 2008 blev bekendtgjort i Lovtidende den 3. juni 2008.
+39) Lov nr. 507 af 6. juni 2007 blev bekendtgjort i Lovtidende den 7. juni 2007 og trådte i kraft den 8. juni 2007.
 
-40) Udlændingelovens § 9 a, stk. 2, nr. 1, og stk. 15, trådte i kraft den 1. juli 2008, jf. bekendtgørelse nr. 627 af 25. juni 2008.
+40) Lov nr. 431 af 1. juni 2008 blev bekendtgjort i Lovtidende den 3. juni 2008.
+
+41) § 1, nr. 2, 4 og 5, i lov nr. 431 af 1. juni 2008, som vedrører indsættelse af § 2 a, stk. 4-7, ændring af overskriften til kapitel 8 a samt ændret affattelse af § 58 d, 1. pkt., er endnu ikke trådt i kraft. Tidspunktet for ikrafttræden fastsættes af ministeren for flygtninge, indvandrere og integration. Ændringerne er derfor ikke medtaget i denne lovbekendtgørelse. § 1, nr. 2, i lov nr. 431 af 1. juni 2008 blev ophævet ved § 1, nr. 1, i lov nr. 1398 af 27. december 2008. Ifølge § 1, nr. 2 i lov nr. 1398 af 27. december 2008 udgår ”2” i § 2, stk. 2, i lov nr. 431 af 1. juni 2008.
+
+42) Udlændingelovens § 9 a, stk. 2, nr. 1, og stk. 15, trådte i kraft den 1. juli 2008, jf. bekendtgørelse nr. 627 af 25. juni 2008.
+
+43) Lov nr. 1397 af 27. december 2008 blev bekendtgjort i Lovtidende den 30. december 2008.
