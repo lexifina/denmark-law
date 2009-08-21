@@ -1,7 +1,5 @@
-Givet på Amalienborg, den 31. januar 2007
+Indenrigs- og Socialministeriet, den 18. august 2009
 
-Under Vor Kongelige Hånd og Segl
+P.M.V. Christian Schønau
 
-Margrethe R.
-
-/Eva Kjer Hansen
+/ Eva Pedersen
