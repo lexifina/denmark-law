@@ -1,5 +1,5 @@
-Økonomi- og Erhvervsministeriet, den 8. august 2007
+Økonomi- og Erhvervsministeriet, den 20. august 2009
 
-Bendt Bendtsen
+Lene Espersen
 
-/ Henrik Bjerre-Nielsen
+/ Ulrik Nødgaard
