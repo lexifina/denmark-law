@@ -101,3 +101,13 @@ Lov nr. 189 af 18. marts 2009 om ændring af lov om radio- og fjernsynsvirksomhe
 § 2
 
 Loven træder i kraft den 1. marts 2009.
+
+Lov nr. 426 af 30. maj 2009 om ændring af lov om radio- og fjernsynsvirksomhed (Ny ordning for udsendelse af ikkekommercielt tv, ændring af must carry-reglerne, opkrævning af licens m.v.) indeholder følgende bestemmelser:
+
+§ 2
+
+Stk. 1. Loven træder i kraft den 1. juni 2009, jf. dog stk. 2.
+
+Stk. 2. Lovens § 1, nr. 1, 2, 3, 19 og 21, træder i kraft den 1. november 2009.
+
+Stk. 3. Tilskud i henhold til tilsagn afgivet af Radio- og tv-nævnet før lovens ikrafttræden kan fortsat udbetales.
