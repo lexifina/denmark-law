@@ -1,4 +1,4 @@
-Kulturministeriet, den 27. maj 2009
+Kulturministeriet, den 26. august 2009
 
 Carina Christensen
 
