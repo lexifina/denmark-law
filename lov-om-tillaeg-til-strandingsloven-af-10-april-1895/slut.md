@@ -1,7 +1,5 @@
-Justitsministeriet, den 15. september 1986
+Justitsministeriet, den 10. august 2009
 
-Erik Ninn-Hansen
+Brian Mikkelsen
 
-/Hans-Viggo Jensen
-
-Ingen
+/ Anette Arnsted
