@@ -9,3 +9,5 @@
 5) Ved § 17, stk. 1, i lov nr. 561 af 6. juni 2007 blev lov om grundlæggende social- og sundhedsuddannelser ophævet. Ved § 17, stk. 3, blev regler fastsat i medfør af den lov opretholdt, indtil de ophæves eller afløses af nye regler, fastsat i medfør af lov om erhvervsuddannelser.
 
 6) Ved § 18, stk. 1, i lov nr. 561 af 6. juni 2007 blev lov om landbrugsuddannelser ophævet. Ved § 18, stk. 2, blev regler om uddannelsen til faglært landmand (landbrugets grunduddannelse) og landbrugets overbygningsuddannelser fastsat i medfør af den lov opretholdt, indtil de ophæves eller afløses af nye regler, fastsat i medfør af lov om erhvervsuddannelser.
+
+7) Lov nr. 484 af 17. juni 2008 blev kundgjort i Lovtidende den 18. juni 2008.

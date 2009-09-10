@@ -52,7 +52,7 @@ Lov nr. 1324 af 20. december 2000, hvis § 1 ændrer §§ 4 og 5 og indsætter �
 
 § 3
 
-Loven træder i kraft den 1. januar 2001. § 1, nr. 3 , har virkning for lønrefusion for skoleophold, der påbegyndes efter den 31. december 2000. § 1, nr. 4 , har virkning for delaftaler og restuddannelsesaftaler, der påbegyndes efter den 31. december 2000.
+Loven træder i kraft den 1. januar 2001. § 1, nr. 3, har virkning for lønrefusion for skoleophold, der påbegyndes efter den 31. december 2000. § 1, nr. 4, har virkning for delaftaler og restuddannelsesaftaler, der påbegyndes efter den 31. december 2000.
 
 Lov nr. 418 af 6. juni 2002, hvis § 50 ændrer § 22, stk. 1, 2. pkt., § 22, stk. 2, og § 23 a, stk. 1, 2. pkt., indeholder i § 39 følgende bestemmelse:
 
@@ -186,7 +186,7 @@ Stk. 2. (Udeladt).
 
 § 19
 
-Elever i landbrugsuddannelserne og de grundlæggende social- og sundhedsuddannelser, der gennemfører uddannelse efter de regler, der er nævnt i § 17, stk. 3 , eller § 18, stk. 2 , og deres praktikvirksomheder, bevarer deres hidtidige rettigheder til ydelser efter
+Elever i landbrugsuddannelserne og de grundlæggende social- og sundhedsuddannelser, der gennemfører uddannelse efter de regler, der er nævnt i § 17, stk. 3, eller § 18, stk. 2, og deres praktikvirksomheder, bevarer deres hidtidige rettigheder til ydelser efter
 
 1) § 4, §§ 6-11, § 16 og § 20, stk. 4, i lov om Arbejdsgivernes Elevrefusion, jf. lovbekendtgørelse nr. 767 af 5. juli 2006,
 
@@ -205,3 +205,29 @@ Loven træder i kraft den 15. juni 2007, jf. dog stk. 2 og 3.
 Stk. 2. Bestemmelserne i §§ 69-79 træder i kraft den 1. januar 2008.
 
 Stk. 3-5. (Udeladt).
+
+Lov nr. 484 af 17. juni 2008, hvis § 8 ophæver § 3, stk. 3, 3. pkt., indeholder i § 9 følgende bestemmelse:
+
+§ 9
+
+Stk. 1. Loven træder i kraft dagen efter bekendtgørelsen i Lovtidende.
+
+Stk. 2. (Udeladt).
+
+Lov nr. 1336 af 19. december 2008, hvis § 134 ophæver §§ 29 og 29 a, indeholder i § 167 følgende bestemmelse:
+
+§ 167
+
+Stk. 1. Loven træder i kraft den 1. januar 2009, jf. dog stk. 2. § 11 finder anvendelse på afgørelser om lønindeholdelse, der træffes efter lovens ikrafttræden.
+
+Stk. 2. (Udeladt).
+
+Lov nr. 427 af 30. maj 2009, hvis § 1 nyaffatter kapitel 6, indeholder i § 2 følgende bestemmelse:
+
+§ 2
+
+Stk. 1. Loven træder i kraft den 1. juni 2009 og finder anvendelse på uddannelsesaftaler og praktikaftaler, der er indgået efter lovens ikrafttræden. Lovforslaget kan stadfæstes straks efter vedtagelsen.
+
+Stk. 2. Der ydes i henhold til den hidtil gældende § 16 i lov om Arbejdsgivernes Elevrefusion en økonomisk præmie til arbejdsgivere for merbeskæftigelse i praktikpladser i perioden fra den 1. oktober 2008 til den 30. september 2009. Præmie ydes for aftaler, som er indgået før den 1. juni 2009 og registreret i Erhvervsskolernes Administrative System Praktik før den 30. september 2009. Præmien udgør 13.330 kr. pr. aftale.
+
+Stk. 3. Forslag om revision af kapitel 6 i lov om Arbejdsgivernes Elevrefusion som affattet ved denne lovs § 1, nr. 1, fremsættes for Folketinget senest i folketingsåret 2010-11.

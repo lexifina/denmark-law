@@ -1,5 +1,5 @@
-Undervisningsministeriet, den 20. juli 2007
+Undervisningsministeriet, den 8. september 2009
 
 Bertel Haarder
 
-/ Trine Frederiksen
+/ Karen Peytz
