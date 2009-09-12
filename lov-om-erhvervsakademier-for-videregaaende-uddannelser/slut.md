@@ -1,7 +1,5 @@
-Givet på Amalienborg, den 14. maj 2008
+Undervisningsministeriet, den 8. september 2009
 
-Under Vor Kongelige Hånd og Segl
+Bertel Haarder
 
-MARGRETHE R.
-
-/ Bertel Haarder
+/ Per Bitz Johansen
