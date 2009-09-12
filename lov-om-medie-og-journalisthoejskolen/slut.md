@@ -1,5 +1,5 @@
-Givet på Amalienborg, den 8. april 2008
+Undervisningsministeriet, den 8. september 2009
 
-MARGRETHE R.
+Bertel Haarder
 
-/ Bertel Haarder
+/ Per Bitz Johansen
