@@ -1,3 +1,3 @@
 Bekendtgørelse af lov om professionshøjskoler for videregående uddannelser
 
-Herved bekendtgøres lov nr. 562 af 6. juni 2007 om professionshøjskoler for videregående uddannelser med de ændringer, der følger af § 57 i lov nr. 346 af 14. maj 2008 og § 4 i lov nr. 543 af 17. juni 2008.
+Herved bekendtgøres lov om professionshøjskoler for videregående uddannelser, jf. lovbekendtgørelse nr. 1091 af 18. november 2008, med de ændringer, der følger af § 23 i lov nr. 516 af 12. juni 2009, § 3 i lov nr. 537 af 12. juni 2009 og § 1 i lov nr. 590 af 26. juni 2009. Den bekendtgjorte lovtekst gælder først fuldt ud efter økonomi- og erhvervsministerens bestemmelse, jf. § 25, stk. 1, i lov nr. 516 af 12. juni 2009, der er gengivet i bekendtgørelsens slutning. Den indtil da gældende bestemmelse er gengivet i note 1.
