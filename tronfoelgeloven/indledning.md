@@ -1,3 +1,3 @@
-Tronfølgelov (* 1)
+Bekendtgørelse af tronfølgeloven
 
-Vi Frederik den Niende, af Guds Nåde Konge til Danmark, de Venders og Goters, Hertug til Slesvig, Holsten, Stormarn, Ditmarsken, Lauenborg og Oldenborg, Gør vitterligt: Rigsdagen har vedtaget og Vi ved Vort samtykke stadfæstet følgende lov:
+Herved bekendtgøres tronfølgeloven, jf. lov nr. 170 af 27. marts 1953, med de ændringer der følger af lov nr. 528 af 12. juni 2009.
