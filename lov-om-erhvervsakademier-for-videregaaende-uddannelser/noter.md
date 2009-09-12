@@ -1,0 +1,1 @@
+1) Indtil ændringen i § 20 i lov nr. 516 af 12. juni 2009 er sat i kraft af økonomi- og erhvervsministeren, er bestemmelsen i § 36, stk. 8, sålydende: ” Undervisningsministeren kan fastsætte regler, hvorefter aktieselskabslovens kapitel 15 med de fornødne tilpasninger finder anvendelse på sammenlægning og spaltning.”
