@@ -1,5 +1,5 @@
-Undervisningsministeriet, den 18. november 2008
+Undervisningsministeriet, den 8. september 2009
 
 Bertel Haarder
 
-/ Ella Højbjerg Madsen
+/ Per Bitz Johansen
