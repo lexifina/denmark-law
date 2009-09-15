@@ -1,5 +1,5 @@
-Beskæftigelsesministeriet, den 15. oktober 2008
+Beskæftigelsesministeriet, den 7. september 2009
 
-Claus Hjort Frederiksen
+Inger Støjberg
 
 / Lise Fangel

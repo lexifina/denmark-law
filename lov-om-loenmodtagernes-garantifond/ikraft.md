@@ -4,7 +4,9 @@ Lov nr. 880 af 23. december 1987, der ændrer § 9 og § 13, stk. 1, indeholder 
 
 Stk. 1. Loven træder i kraft den 1. januar 1988.
 
-Stk. 2 og 3. (Overgangsbestemmelser er udeladt).
+Stk. 2. (Overgangsbestemmelse udeladt).
+
+Stk. 3. (Overgangsbestemmelse udeladt).
 
 Lov nr. 380 af 6. juni 1991, der tilføjer § 7, stk. 2 og § 12 a, indeholder følgende ikrafttrædelsesbestemmelse:
 
@@ -109,3 +111,11 @@ Stk. 1. Loven gælder ikke for Færøerne og Grønland, jf. dog stk. 2 og 3.
 Stk. 2. ---.
 
 Stk. 3. §§ 1, 2, 5-9, 11, 13-15, 19, 21, 28, 44 og 45 kan ved kongelig anordning helt eller delvis sættes i kraft for Grønland med de afvigelser, som de særlige grønlandske forhold tilsiger.
+
+Lov nr. 1336 af 19. december 2008 om Lønmodtagernes Garantifond, der indeholder ændringer vedrørende § 12a og § 12b, indeholder følgende ikrafttrædelsesbestemmelser:
+
+§ 167
+
+Stk. 1. Loven træder i kraft den 1. januar 2009, jf. dog stk. 2. § 11 finder alene anvendelse på afgørelser om lønindeholdelse, der træffes efter lovens ikrafttræden.
+
+Stk. 2. ---.
