@@ -1,3 +1,3 @@
 Bekendtgørelse af lov om Det Centrale Personregister
 
-Herved bekendtgøres lov om Det Centrale Personregister, jf. lovbekendtgørelse nr. 140 af 3. marts 2004, med de ændringer, der følger af § 9 i lov nr. 430 af 6. juni 2005, § 8 i lov nr. 431 af 6. juni 2005, § 29 i lov nr. 524 af 24. juni 2005, lov nr. 1394 af 21. december 2005, § 42 i lov nr. 499 af 7. juni 2006 og § 79 i lov nr. 538 af 8. juni 2006.
+Herved bekendtgøres lov om Det Centrale Personregister, jf. lovbekendtgørelse nr. 1134 af 20. november 2006, med de ændringer, der følger af § 4 i lov nr. 89 af 30. januar 2007, § 6 i lov nr. 500 af 6. juni 2007 og § 143 i lov nr. 1336 af 19. december 2008.

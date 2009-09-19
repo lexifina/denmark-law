@@ -1,3 +1,5 @@
-Bestemmelserne i lov nr. 1394 af 21. december 2005 § 1, nr. 3-8 og 10-14, træder først i kraft den 1. januar 2007, jf. bekendtgørelse nr. 1138 af 20. november 2006. Ikrafttrædelsen af disse bestemmelser sker samtidig med ikrafttrædelsen af den nye internordiske overenskomst om folkeregistrering, hvorved de internordiske flyttepapirer afskaffes. Dette medfører, at der i forbindelse med internordiske flytninger fortsat skal anvendes internordiske flyttepapirer til og med den 31. december 2006.
+1) Henvisningerne i lovens § 8, stk. 3, til § 25, stk. 1, i forældreansvarsloven burde rettelig have været henvisninger til § 26, stk. 1, i forældreansvarsloven.
 
-Cirkulære nr. 28 af 20. februar 1995 er med virkning fra den 1. januar 2003 afløst af cirkulære nr. 130 af 25. november 2002.
+2) Cirkulære nr. 28 af 20. februar 1995 er med virkning fra den 1. januar 2003 afløst af cirkulære nr. 130 af 25. november 2002.
+
+3) Loven er ved kongelig anordning nr. 1198 af 29. november 2006 sat i kraft for Grønland med virkning fra den 1. januar 2007.
