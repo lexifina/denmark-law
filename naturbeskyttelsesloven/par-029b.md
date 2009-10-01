@@ -1,0 +1,1 @@
+§ 29 b. Miljøministeren kan udfærdige forvaltningsplaner og iværksætte andre tiltag, herunder yde tilskud, med henblik på bevaring af de arter eller bestande af disse, der er nævnt i bilag 3 til loven.
