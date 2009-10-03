@@ -1,3 +1,3 @@
 Bekendtgørelse af lov om okker (Okkerloven)
 
-Hermed bekendtgøres lov om okker (Okkerloven), jf. lovbekendtgørelse nr. 786 af 21. juni 2007, med de ændringer, der følger af § 12 i lov nr. 508 af 17. juni 2008.
+Hermed bekendtgøres lov om okker (Okkerloven), jf. lovbekendtgørelse nr. 1033 af 20. oktober 2008, med de ændringer, der følger af § 5 i lov nr. 514 af 12. juni 2009.
