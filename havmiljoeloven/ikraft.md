@@ -58,8 +58,6 @@ Stk. 2. Lovens regler om adgang til at påklage afgørelser gælder for sager, d
 
 Lov nr. 474 af 31. maj 2000 om Københavns Havn A/S, hvis § 12 ændrer § 51, stk. 3, nr. 1, indeholder bl.a. følgende ikrafttrædelsesbestemmelse:
 
-§ 11
-
 Trafikministeren fastsætter tidspunktet for lovens ikrafttræden, herunder § 10. Ministeren kan herunder fastsætte, at lovens enkelte bestemmelser træder i kraft på forskellige tidspunkter.
 
 Lov nr. 145 af 25. marts 2002 om ændring af forskellige love som følge af sammenlægningen af de bornholmske kommuner, hvis § 36 angår § 26, stk. 1 og 5, § 49, stk. 3 og stk. 4, § 51, stk. 1 og stk. 3, og § 53 b, indeholder følgende ikrafttrædelsesbestemmelse:
@@ -112,15 +110,11 @@ Lov nr. 564 af 24. juni 2005 om ændring af lov om beskyttelse af havmiljøet, l
 
 Stk. 1. Loven træder i kraft den 1. januar 2007.
 
-Stk. 2. -
+Stk. 2. (Udeladt)
 
 Stk. 3. Sager efter lov om beskyttelse af havmiljøet, der angår tilladelser til og tilsyn med dumpning af optaget havbundsmateriale, og som ved lovens ikrafttræden ikke er færdigbehandlet i amtsrådet, overføres til miljøministeren, jf. denne lovs § 1.
 
-Stk. 4. –
-
-Stk. 5. –
-
-Stk. 6. -
+Stk. 4-6. (Udeladt)
 
 Stk. 7. Klagesager efter lov om beskyttelse af havmiljøet, der ved lovens ikrafttræden ikke er færdigbehandlet af miljøministeren, overføres til Miljøklagenævnet, jf. denne lovs § 1.
 
@@ -136,7 +130,7 @@ Lov nr. 571 af 9. juni 2006 om ændring af lov om naturbeskyttelse, lov om milj�
 
 Stk. 1. Loven træder i kraft den 1. januar 2007.
 
-Stk. 2. -
+Stk. 2. (Udeladt)
 
 Stk. 3. Sager, der pr. 1. januar 2007 er indbragt for Miljøklagenævnet, færdigbehandles efter de hidtil gældende regler.
 
@@ -148,7 +142,7 @@ Loven træder i kraft den 1. januar 2007.
 
 Lov nr. 551 af 6. juni 2007 om Metroselskabet I/S og Arealudviklingsselskabet I/S, hvis § 30 angår § 51, stk. 3, nr. 1, indeholder bl.a. følgende ikrafttrædelsesbestemmelse:
 
-§ 28. Transport- og energiministeren fastsætter tidspunktet for lovens eller dele af lovens ikrafttræden.
+Transport- og energiministeren fastsætter tidspunktet for lovens eller dele af lovens ikrafttræden.
 
 Lov nr. 172 af 12. marts 2008 om ændring af forskellige love på Miljøministeriets område m.v., som indsætter § 58 b, indeholder følgende ikrafttrædelsesbestemmelse
 
@@ -162,13 +156,13 @@ Lov nr. 173 af 12. marts 2008 om ændring af lov om miljøbeskyttelse og forskel
 
 Stk. 1. Loven træder i kraft den 1. april 2008, jf. dog stk. 2.
 
-Lov nr. 507 af 17. juni 2008 om ændring af lov om miljøbeskyttelse og forskellige andre love (Implementering af miljøansvarsdirektivet), som ændrer § 2,§ 39, § 44, § 49, § 51, § 59, § 61 og § 63 a, ophæver § 38 og indsætter § 34 a og kapitel 14 a (§§ 47 a – 47 k) , indeholder følgende ikrafttrædelsesbestemmelse:
+Lov nr. 507 af 17. juni 2008 om ændring af lov om miljøbeskyttelse og forskellige andre love (Implementering af miljøansvarsdirektivet)3), som ændrer § 2,§ 39, § 44, § 49, § 51, § 59, § 61 og § 63 a, ophæver § 38 og indsætter § 34 a og kapitel 14 a (§§ 47 a – 47 k), indeholder følgende ikrafttrædelsesbestemmelse:
 
 § 15
 
 Stk. 1. Loven træder i kraft den 1. juli 2008, jf. dog stk. 3.
 
-Stk. 2. –
+Stk. 2. (Udeladt)
 
 Stk. 3. Miljøministeren fastsætter tidspunktet for ikrafttræden af § 3, nr. 5 og 16.
 
@@ -179,3 +173,17 @@ Lov nr. 508 af 17. juni 2008 om ændring af lov om naturbeskyttelse, lov om jagt
 § 16
 
 Loven træder i kraft den 1. juli 2008.
+
+Lov nr. 1336 af 19. december 2008 om ændring af kildeskatteloven, opkrævningsloven, udpantningsloven og forskellige andre love (Konsekvensændringer som følge af lov om inddrivelse af gæld til det offentlige), som ændrer § 58 a, stk. 2, indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 167
+
+Stk. 1. Loven træder i kraft den 1. januar 2009, jf. dog stk. 2. § 11 finder alene anvendelse på afgørelser om lønindeholdelse, der træffes efter lovens ikrafttræden.
+
+Stk. 2. (Udeladt)
+
+Lov nr. 1401 af 27. december 2008 om ændring af lov om beskyttelse af havmiljøet (Nødområder for skibe og planer herfor m.v.), som ophæver § 27, 3. pkt., indsætter § 43, stk. 2, § 48 a, stk. 2 og 3, § 63 c, og ændrer fodnoten til lovens titel, § 37, § 43, stk. 2-5, § 48 a, stk. 1-3, § 49, stk. 2, § 51, stk. 3, § 52, stk. 1, § 57 a, § 59, stk. 1 og 4, § 60, § 63, stk. 1-3, indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 2
+
+Loven træder i kraft den 1. januar 2009.
