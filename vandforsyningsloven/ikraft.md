@@ -213,3 +213,43 @@ Lov nr. 508 af 17. juni 2008 om ændring af lov om naturbeskyttelse, lov om jagt
 § 16
 
 Loven træder i kraft den 1. juli 2008.
+
+Lov nr. 1336 af 19. december 2008 om ændring af kildeskatteloven, opkrævningsloven, udpantningsloven og forskellige andre love (Konsekvensændringer som følge af lov om inddrivelse af gæld til det offentlige), som ophæver § 54, stk. 1, 2. pkt., og stk. 2, og § 71 b, indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 167
+
+Stk. 1. Loven træder i kraft den 1. januar 2009, jf. dog stk. 2. § 11 finder alene anvendelse på afgørelser om lønindeholdelse, der træffes efter lovens ikrafttræden.
+
+Stk. 2. (Udeladt)
+
+Lov nr. 1402 af 27. december 2008 om ændring af lov om vandforsyning m.v. og lov om miljømål m.v. for vandforekomster og internationale naturbeskyttelsesområder (Regulering af afgift til drikkevandsbeskyttelse m.v.), som ophæver § 52 c, indsætter kapitel 4 a (§§ 24-24 j), og ændrer § 52 a, stk. 1, indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 3
+
+Stk. 1. Loven træder i kraft den 1. januar 2009.
+
+Stk. 2. Sager efter vandforsyningslovens § 52 c, stk. 4, 3. pkt., hvor anmodning om fritagelse af gebyr er modtaget inden den 1. januar 2009, færdigbehandles af kommunalbestyrelsen efter de hidtil gældende regler.
+
+Stk. 3. Reguleringerne, jf. vandforsyningslovens § 24, stk. 3, foretages første gang med virkning for 2010.
+
+Stk. 4. For året 2009 indberettes oplysningerne, jf. vandforsyningslovens § 24 d, dog senest den 15. april 2009.
+
+Stk. 5. Afgiften, jf. vandforsyningslovens § 24 f, for 2009 forfalder dog først til betaling den 1. juli 2009.
+
+Stk. 6. Afgifterne opkræves til og med 2017.
+
+Stk. 7. Fra den 1. januar 2016 udgør den samlede årlige afgift efter vandforsyningslovens § 24, stk. 1, 8,6 øre (2009-niveau). Satsen reguleres årligt efter reglerne i vandforsyningslovens § 24, stk. 3. Afgiften anvendes alene til de formål, der fremgår af vandforsyningslovens § 24, stk. 2, nr. 2, som affattet ved denne lov.
+
+Lov nr. 460 af 12. juni 2009 om ændring af lov om miljøbeskyttelse, lov om vandforsyning, lov om betalingsregler for spildevandsanlæg m.v. og forskellige andre love (Konsekvenser af lov om vandsektorens organisering og økonomiske forhold), som ophæver § 52 a, stk. 1 og 2, § 54 og § 55, stk. 4, indsætter § 1 a, § 46 a, § 52 a, stk. 1-3, og § 53, stk. 6, og ændrer § 37, stk. 1, § 46, § 47, stk. 2, § 48, stk. 1, § 52 a, stk. 3, § 53, stk. 1-3, § 53 a, stk. 1 og 2, § 55, stk. 2 og 5-8, § 66, stk. 1, § 67, stk. 1 og § 76, nr. 4, indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 16
+
+Stk. 1. Loven træder i kraft den 1. januar 2010, jf. dog stk. 2.
+
+Stk. 2. (Udeladt)
+
+Lov nr. 514 af 12. juni 2009 om ændring af lov om naturbeskyttelse, lov om jagt og vildtforvaltning og forskellige andre love (Beskyttelse af visse dyrearter m.v.), som ændrer fodnoten til lovens titel, indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 13
+
+Loven træder i kraft den 1. oktober 2009.
