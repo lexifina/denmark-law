@@ -1,1 +1,1 @@
-§ 6 c. (Ophævet)
+§ 6 c. (Ophævet).
