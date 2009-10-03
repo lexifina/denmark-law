@@ -1,3 +1,3 @@
-Lov om kommuners afståelse af vandforsyninger og spildevandsforsyninger
+Bekendtgørelse af lov om kommuners afståelse af vandforsyninger og spildevandsforsyninger
 
-VI MARGRETHE DEN ANDEN, af Guds Nåde Danmarks Dronning, gør vitterligt: Folketinget har vedtaget og Vi ved Vort samtykke stadfæstet følgende lov:
+Herved bekendtgøres lov nr. 534 af 6. juni 2007 om kommuners afståelse af vandforsyninger og spildevandforsyninger med de ændringer, der følger af § 5 i lov nr. 460 af 12. juni 2009.
