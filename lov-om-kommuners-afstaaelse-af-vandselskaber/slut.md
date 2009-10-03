@@ -1,7 +1,5 @@
-Givet på Christiansborg Slot, den 6. juni 2007
+Miljøministeriet, den 24. september 2009
 
-Under Vor Kongelige Hånd og Segl
+Troels Lund Poulsen
 
-Margrethe R.
-
-/Connie Hedegaard
+/ Niels Christensen
