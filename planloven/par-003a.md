@@ -1,1 +1,1 @@
-§ 3 a. Ophævet.
+§ 3 a. (Ophævet)
