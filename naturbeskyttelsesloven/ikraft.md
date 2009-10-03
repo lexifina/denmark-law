@@ -1,7 +1,5 @@
 Lov nr. 269 af 6. maj 1993 om jagt og vildtforvaltning, som ændrer § 30, stk. 1 og 2, indeholder følgende ikrafttrædelsesbestemmelse:
 
-§ 58
-
 Loven træder i kraft den 1. april 1994.
 
 Stk. 2-4. (Udeladt)
@@ -12,7 +10,7 @@ Lov nr. 439 af 1. juni 1994 om ændring af lov om planlægning og lov om naturbe
 
 Stk. 1. Loven træder i kraft den 1. august 1994, jf. dog stk. 2.
 
-Stk. 2 . Miljøministeren fastsætter tidspunktet for ikrafttrædelsen af § 2, nr. 1, 2 og 4, og kan bestemme, at ikrafttrædelsen skal ske på forskellige tidspunkter i de enkelte amter.
+Stk. 2. Miljøministeren fastsætter tidspunktet for ikrafttrædelsen af § 2, nr. 1, 2 og 4, og kan bestemme, at ikrafttrædelsen skal ske på forskellige tidspunkter i de enkelte amter.
 
 Stk. 3. I bestemmelser fastsat i medfør af stk. 2 bestemmer miljøministeren, at områder, der på ikrafttrædelsestidspunktet er omfattet af en lokalplan, kan udnyttes i overensstemmelse med lokalplanens bestemmelser uanset bestemmelserne i § 2, nr. 1 og 2. Dette skal dog ikke gælde for områder med klitdannelser inden for 100 m fra de strandbredder, der er nævnt i naturbeskyttelseslovens § 8, stk. 2, nr. 1, som affattet ved denne lovs § 2, nr. 1.
 
@@ -48,13 +46,13 @@ Lov nr. 447 af 31. maj 2000 om ændring af visse miljølove (Implementering af �
 
 Stk. 1. Loven træder i kraft den 15. september 2000, jf. dog stk. 2-4.
 
-Stk. 2. Lovens regler om adgang til at påklage afgørelser gælder for sager, der er afgjort i første instans efter lovens ikrafttræden. (2. pkt. udeladt).
+Stk. 2. Lovens regler om adgang til at påklage afgørelser gælder for sager, der er afgjort i første instans efter lovens ikrafttræden. (2. pkt. udeladt)
 
-Stk. 3-4. (udeladt).
+Stk. 3-4. (udeladt)
 
 Museumslov, lov nr. 473 af 7. juni 2001, som ændrer §§ 14, 65, 78 og 89 og indsætter ny § 14 a, indeholder følgende ikrafttrædelsesbestemmelse:
 
-§ 41. Loven træder i kraft den 1. januar 2002. Samtidig ophæves lov om museer m.v., jf. lovbekendtgørelse nr. 739 af 17. juli 2000. Lovens § 27, stk. 4-7, har virkning fra den 1. januar 2003. Indtil den 1. januar 2003 opretholdes de hidtidige finansieringsprincipper for den arkæologiske undersøgelsesvirksomhed, jf. § 26, stk. 3, i lov om museer m.v., jf. lovbekendtgørelse nr. 739 af 17. juli 2000.
+Loven træder i kraft den 1. januar 2002. Samtidig ophæves lov om museer m.v., jf. lovbekendtgørelse nr. 739 af 17. juli 2000. Lovens § 27, stk. 4-7, har virkning fra den 1. januar 2003. Indtil den 1. januar 2003 opretholdes de hidtidige finansieringsprincipper for den arkæologiske undersøgelsesvirksomhed, jf. § 26, stk. 3, i lov om museer m.v., jf. lovbekendtgørelse nr. 739 af 17. juli 2000.
 
 Lov nr. 145 af 25. marts 2002 om ændring af forskellige love som følge af sammenlægningen af de bornholmske kommuner, som ændrer §§ 35, 46, 49 og 77, indeholder følgende ikrafttrædelsesbestemmelse:
 
@@ -62,7 +60,7 @@ Lov nr. 145 af 25. marts 2002 om ændring af forskellige love som følge af samm
 
 Stk. 1. Loven træder i kraft den 1, januar 2003, (2. led udeladt).
 
-Stk. 2. (udeladt).
+Stk. 2. (udeladt)
 
 Lov nr. 454 af 9. juni 2004 om ændring af lov om naturbeskyttelse, lov om planlægning, lov om vandløb og museumsloven, der ændrer §§ 3, 4, 5, 6, 7, 8, 12, 13, 14, 14 a, 15, 15 a-d, 18, 21, 22, 23, 24, 25, 26, 36, 37, 38, 39, 41, 43, 45, 50, 52, 53, 60, 60 a, 64, 65, 66, 66 a, 69, 72, 74, 75, 78, 82, 87 og 89, og indsætter nyt kapitel 2 a (§§ 19 a-h), samt indsætter nye §§ 26 a, 37 a, 38 a, 43 a, 69 a og 70 a, indeholder følgende ikrafttrædelsesbestemmelse
 
@@ -76,23 +74,21 @@ Stk. 3. Bekendtgørelser om ikrafttræden af strandbeskyttelses- og klitfredning
 
 Stk. 4. Fredningssager, der verserer for fredningsnævn eller Naturklagenævnet ved lovens ikrafttræden, omfattes af bestemmelserne i § 1, nr. 22 og 33 (naturbeskyttelseslovens § 37 a og § 43 a), således, at fristen regnes fra lovens ikrafttræden.
 
-Stk. 5. (udeladt).
+Stk. 5. (udeladt)
 
-Lov nr. 431 af 6. juni 2005 om ændring af forskellige love (Forenkling, harmonisering og objektivering af reglerne for inddrivelse af gæld til det offentlige m.v. samt mulighed for anvendelse af digitale lønsedler) som ændrer § 92, indeholder følgende ikrafttrædelsesbestemmelse:
+Lov nr. 431 af 6. juni 2005 om ændring af forskellige love (Forenkling, harmonisering og objektivering af reglerne for inddrivelse af gæld til det offentlige m.v. samt mulighed for anvendelse af digitale lønsedler), som ændrer § 92, indeholder følgende ikrafttrædelsesbestemmelse:
 
 § 85
 
 Stk. 1. Loven træder i kraft den 1. november 2005, jf. dog stk. 2.
 
-Stk. 2. (Udeladt.)
+Stk. 2. (Udeladt)
 
 Lov nr. 535 af 24. juni 2005 om jordfordeling og offentligt køb og salg af fast ejendom til jordbrugsmæssige formål (jordfordelingsloven) som ændrer § 59, indeholder følgende ikrafttrædelses- og overgangsbestemmelser:
 
-§ 28. Loven træder i kraft den 1. juli 2005, jf. dog stk. 2.
+Loven træder i kraft den 1. juli 2005, jf. dog stk. 2.
 
-Stk. 2 - 3. (Udeladt.)
-
-§ 29. (Udeladt.)
+Stk. 2-3. (Udeladt)
 
 Lov nr. 567 af 24. juni 2005 om ændring af lov om naturbeskyttelse (Udmøntning af kommunalreformen), som ændrer §§ 3, 8, 15, 19 a-h, 20, 21 23, 24, 26, 26a, 29, 33, 34, 35, 46, 49, 52, 55, 58, 60, 60a, 61, 62, 63, 65, 66a, 67, 68, 73, 78, 89 og 103, og ophæver § 77, samt indsætter ny § 55a, indeholder følgende overgangs- og ikrafttrædelsesbestemmelser:
 
@@ -112,31 +108,31 @@ Stk. 6. Miljøministeren kan fastsætte nærmere regler om den fremtidige vareta
 
 Stk. 7. Miljøministeren kan i øvrigt fastsætte nærmere overgangsregler.
 
-Lov nr. 538 af 8. juni 2006 om ændring af retsplejeloven og forskellige andre love (Politi- og domstolsreform), som ændrer § 88, stk. 3 indeholder følgende overgangs- og ikrafttrædelsesbestemmelser:
+Lov nr. 538 af 8. juni 2006 om ændring af retsplejeloven og forskellige andre love (Politi- og domstolsreform), som ændrer § 88, stk. 3, indeholder følgende overgangs- og ikrafttrædelsesbestemmelser:
 
 § 105
 
 Stk. 1. Loven træder i kraft den 1. januar 2007, jf. dog stk. 2-22 og § 106.
 
-Stk. 2. - 22. (Udeladt.)
+Stk. 2. -22. (Udeladt)
 
-Lov nr. 571 af 9. juni 2006 om ændring af lov om naturbeskyttelse, lov om miljøbeskyttelse og forskellige andre love (Ændring af klagenævn og klagebestemmelser i en række love på miljøområdet), som ændrer § 80 indeholder følgende overgangs- og ikrafttrædelsesbestemmelser:
+Lov nr. 571 af 9. juni 2006 om ændring af lov om naturbeskyttelse, lov om miljøbeskyttelse og forskellige andre love (Ændring af klagenævn og klagebestemmelser i en række love på miljøområdet), som ændrer § 80, indeholder følgende overgangs- og ikrafttrædelsesbestemmelser:
 
 § 12
 
 Stk. 1. Loven træder i kraft den 1. januar 2007, jf. dog stk. 2.
 
-Stk. 2. (Udeladt.)
+Stk. 2. (Udeladt)
 
 Stk. 3. Sager, der pr. 1. januar 2007 er indbragt for Miljøklagenævnet, færdigbehandles efter de hidtil gældende regler.
 
-Lov nr. 1571 af 20. december 2006 om ændring af lov om miljøbeskyttelse, lov om beskyttelse af havmiljøet og forskellige andre love (Ophævelse af adgang til at overføre myndighedskompetence til kommunale fællesskaber og ændring af delegationsbestemmelser m.v. i en række love på natur- og miljøområdet), som ændrer § 65 og § 70 indeholder følgende overgangs- og ikrafttrædelsesbestemmelser:
+Lov nr. 1571 af 20. december 2006 om ændring af lov om miljøbeskyttelse, lov om beskyttelse af havmiljøet og forskellige andre love (Ophævelse af adgang til at overføre myndighedskompetence til kommunale fællesskaber og ændring af delegationsbestemmelser m.v. i en række love på natur- og miljøområdet), som ændrer § 65 og § 70, indeholder følgende overgangs- og ikrafttrædelsesbestemmelser:
 
 § 23
 
 Stk. 1. Loven træder i kraft den 1. januar 2007, jf. dog stk. 2.
 
-Stk. 2. (Udeladt.)
+Stk. 2. (Udeladt)
 
 Lov nr. 523 af 6. juni 2007 om ændring af forskellige lovbestemmelser om forældelse af fordringer m.v. (Ændringer som følge af en ny lov om forældelse af fordringer, ophævelse af købelovens reklamationsfrister ved visse køb m.v.), som indsætter § 55 a, har følgende ikrafttrædelsesbestemmelse:
 
@@ -146,9 +142,9 @@ Loven træder i kraft den 1. januar 2008.
 
 Lov nr. 533 af 6. juni 2007 om nationalparker, som ændrer § 86, har følgende ikrafttrædelsesbestemmelse:
 
-§ 37. Loven træder i kraft den 1. juli 2007.
+Loven træder i kraft den 1. juli 2007.
 
-Lov nr. 507 af 17. juni 2008 om ændring af lov om miljøbeskyttelse og forskellige andre love (Implementering af miljøansvarsdirektivet), som ændrer §§ 74, 78, 86, 87 og 89 og indsætter nyt kapitel 11 a (§§ 77-77 h) , indeholder følgende ikrafttrædelsesbestemmelse:
+Lov nr. 507 af 17. juni 2008 om ændring af lov om miljøbeskyttelse og forskellige andre love (Implementering af miljøansvarsdirektivet), som ændrer §§ 74, 78, 86, 87 og 89 og indsætter nyt kapitel 11 a (§§ 77-77 h), indeholder følgende ikrafttrædelsesbestemmelse:
 
 § 15
 
@@ -156,8 +152,22 @@ Stk. 1. Loven træder i kraft den 1. juli 2008, jf. dog stk. 3.
 
 Stk. 2-4. (Udeladt)
 
-Lov nr. 508 af 17. juni 2008 om ændring af lov om naturbeskyttelse, lov om jagt og vildtforvaltning og forskellige andre love (Gennemførelse af direktiver om naturbeskyttelse)⁠, som ændrer §§ 30, 31, 50, 71 og 73 og ophæver §§ 55 a samt indsætter nye §§ 55 a, 56 a og bilag 3-5, indeholder følgende ikrafttrædelsesbestemmelse:
+Lov nr. 508 af 17. juni 2008 om ændring af lov om naturbeskyttelse, lov om jagt og vildtforvaltning og forskellige andre love (Gennemførelse af direktiver om naturbeskyttelse), som ændrer §§ 30, 31, 50, 71 og 73 og ophæver §§ 55 a samt indsætter nye §§ 55 a, 56 a og bilag 3-5, indeholder følgende ikrafttrædelsesbestemmelse:
 
 § 16
 
 Loven træder i kraft den 1. juli 2008.
+
+Lov nr. 1336 af 19. december 2008 om ændring af kildeskatteloven, opkrævningsloven, udpantningsloven og forskellige andre love (Konsekvensændringer som følge af lov om inddrivelse af gæld til det offentlige), som ophæver § 92, stk. 1, 3 og 4, og ændrer § 92, stk. 2, indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 167
+
+Stk. 1. Loven træder i kraft den 1. januar 2009, jf. dog stk. 2. § 11 finder alene anvendelse på afgørelser om lønindeholdelse, der træffes efter lovens ikrafttræden.
+
+Stk. 2. (Udeladt)
+
+Lov nr. 514 af 12. juni 2009 om ændring af lov om naturbeskyttelse, lov om jagt og vildtforvaltning og forskellige andre love (Beskyttelse af visse dyrearter m.v.), som ophæver fodnote 1 og 2 til lovens titel og § 50, stk. 3-5, indsætter fodnote 1 til lovens titel, § 29 a, § 29 b, § 65, stk. 6 og 7, § 71 a og § 71 b, og ændrer § 31, stk. 2, § 50, stk. 6, § 71, stk. 4 og 5, § 89, stk. 1, nr. 1, og bilag 3 og 4, indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 13
+
+Loven træder i kraft den 1. oktober 2009.
