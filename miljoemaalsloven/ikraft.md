@@ -45,3 +45,17 @@ Lov nr. 508 af 17. juni 2008 om ændring af lov om naturbeskyttelse, lov om jagt
 § 16
 
 Loven træder i kraft den 1. juli 2008.
+
+Lov nr. 1402 af 27. december 2008 om ændring af lov om vandforsyning m.v. og lov om miljømål m.v. for vandforekomster og internationale naturbeskyttelsesområder (Regulering af afgift til drikkevandsbeskyttelse m.v.), som indsætter § 8 a og ændrer § 35 og bilag 2, del A, nr. 3, indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 3
+
+Stk. 1. Loven træder i kraft den 1. januar 2009.
+
+Stk. 2-7. (Udeladt)
+
+Lov nr. 514 af 12. juni 2009 om ændring af lov om naturbeskyttelse, lov om jagt og vildtforvaltning og forskellige andre love (Beskyttelse af visse dyrearter m.v.), som ændrer fodnoten til lovens titel, indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 13
+
+Loven træder i kraft den 1. oktober 2009.
