@@ -1,5 +1,3 @@
-Bekendtgørelse af lov om miljømål m.v. for vandforekomster og internationale naturbeskyttelsesområder
+Bekendtgørelse af lov om miljømål m.v. for vandforekomster og internationale naturbeskyttelsesområder (Miljømålsloven)
 
-(Miljømålsloven)
-
-Herved bekendtgøres lov om miljømål m.v. for vandforekomster og internationale naturbeskyttelsesområder (miljømålsloven), jf. lovbekendtgørelse nr. 1756 af 22. december 2006, med de ændringer, der følger af § 3 i lov nr. 508 af 17. juni 2008
+Herved bekendtgøres lov om miljømål m.v. for vandforekomster og internationale naturbeskyttelsesområder (miljømålsloven), jf. lovbekendtgørelse nr. 1028 af 20. oktober 2008, med de ændringer, der følger af § 2 i lov nr. 1402 af 27. december 2008 og § 8 i lov nr. 514 af 12. juni 2009.
