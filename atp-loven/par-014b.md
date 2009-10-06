@@ -11,5 +11,3 @@ Stk. 2. Som samlevende anses personer, der har fælles bopæl og kan indgå ægt
 Stk. 3. Ydelse efter stk. 1 kan udbetales til en efterlevende efter et medlem, der har været medlem af tillægspensionsordningen i sammenlagt mindst 2 år, og som derudover har betalt bidrag svarende til 2 årsbidrag i henhold til § 4 a eller § 15, stk. 1.
 
 Stk. 4. Beløbet i stk. 1 kan reguleres af bestyrelsen for Arbejdsmarkedets Tillægspension.
-
-Stk. 5. Engangsbeløb efter denne bestemmelse, der ikke er begæret udbetalt senest 5 år efter dødsfaldet, tilfalder Arbejdsmarkedets Tillægspension.

@@ -42,4 +42,8 @@
 
 22) Loven blev bekendtgjort i Lovtidende den 10. november 2005.
 
-23) Loven blev bekendtgjort i Lovtidende den 25.oktober 2007.
+23) Loven blev bekendtgjort i Lovtidende den 25. oktober 2007.
+
+24) Loven blev bekendtgjort i Lovtidende den 26. maj 2009.
+
+25) Loven blev bekendtgjort i Lovtidende den 13. juni 2009.

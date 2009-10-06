@@ -540,7 +540,7 @@ Stk. 4. ---
 
 Stk. 5. ---
 
-Stk. 6 .---
+Stk. 6. ---
 
 Stk. 7. ---
 
@@ -564,7 +564,7 @@ Lov nr. 576 af 6. juni 2007, som ændrer lovens § 23 b, § 26 a, § 26 b, § 26
 
 Stk. 1. Loven træder i kraft den 1. juli 2007, ---
 
-Stk. 2.---
+Stk. 2. ---
 
 Stk. 3. ---
 
@@ -633,3 +633,199 @@ Lov nr. 183 af 12. marts 2008, som ændrer lovens § 23, § 26 b, § 26 c og 26 
 § 2
 
 Loven træder i kraft den 1. april 2008.
+
+Lov nr. 515 af 17. juni 2008, som indsætter § 27 g, indeholder følgende ikrafttrædelsesbestemmelser:
+
+§ 10
+
+Stk. 1. Loven træder i kraft den 1. juli 2008, jf. dog stk. 2.
+
+Stk. 2. Lovens § 2, nr. 3 og 4, og § 6 træder i kraft dagen efter bekendtgørelsen i Lovtidende.
+
+§ 11
+
+Stk. 1. Lovens §§ 1-5 og 7-9 gælder ikke for Færøerne og Grønland, jf. dog stk. 2-4.
+
+Stk. 2. Lovens § 6 gælder ikke for Færøerne.
+
+Stk. 3. §§ 1, 2 og 4 kan helt eller delvis sættes i kraft for Færøerne med de afvigelser, som de særlige færøske forhold tilsiger.
+
+Stk. 4. §§ 1-5 og 9 kan helt eller delvis sættes i kraft for Grønland med de afvigelser, som de særlige grønlandske forhold tilsiger.
+
+Lov nr. 517 af 17. juni 2008, som ændrer lovens § 23 a, § 25 a, b, c, d, e, h, k, § 27 og § 32 a, indeholder følgende ikrafttrædelsesbestemmelser:
+
+§ 13
+
+Stk. 1. Loven træder i kraft den 1. juli 2008, jf. dog stk. 2-5.
+
+Stk. 2. § 11 træder i kraft den 15. august 2008.
+
+Stk. 3. § 1, nr. 17 og 20-30, § 4, nr. 3-12, § 6, nr. 6-14, § 7, nr. 3-11, § 8, nr. 3-11, og § 9, nr. 3-11, har virkning for regnskabsår, der begynder den 1. januar 2009 eller senere.
+
+Stk. 4. § 10, nr. 6, træder i kraft den 1. januar 2009.
+
+Stk. 5. § 10, nr. 6, finder ikke anvendelse på kundeforhold etableret før den 1. januar 2009.
+
+§ 14
+
+Stk. 1. Loven gælder ikke for Færøerne og Grønland, jf. dog stk. 2 og 3.
+
+Stk. 2. § 1, 2, 6, 10 og 12 kan ved kongelig anordning helt eller delvis sættes i kraft for Færøerne og Grønland med de afvigelser, som de særlige færøske og grønlandske forhold tilsiger.
+
+Stk. 3. §§ 3-5 og 9 kan ved kongelig anordning helt eller delvis sættes i kraft for Grønland med de afvigelser, som de særlige grønlandske forhold tilsiger.
+
+Lov nr. 1063 af 6. november 2008, som ændrer lovens § 17 f, indeholder følgende ikrafttrædelsesbestemmelser:
+
+§ 2
+
+Stk. 1. Lovforslaget kan stadfæstes straks efter vedtagelsen.
+
+Stk. 2. Loven træder i kraft den 8. november 2008.
+
+Stk. 3. Ved opgørelsen af en kommunes slutskat og kirkeskat for kalenderåret 2009 efter § 16 i lov om kommunal indkomstskat korrigeres den opgjorte slutskat for den beregnede virkning af de ændringer i udskrivningsgrundlaget for kommuneskat og kirkeskat for 2009, der er en følge af suspension af bidraget til Den Særlige Pensionsopsparing i 2009, jf. § 17 f, stk. 1, i lov om Arbejdsmarkedets Tillægspension som ændret ved denne lovs § 1, nr. 1.
+
+Stk. 4. Den beregnede korrektion af kommunens og kirkens slutskat efter stk. 3 fastsættes af velfærdsministeren på grundlag af de oplysninger, der foreligger pr. 1. maj 2011.
+
+Lov nr. 117 af 17. februar 2009, som ændrer lovens § 2, § 2 a, § 2 b, § 9, § 11, § 11 a, § 12, § 13, § 14 a, § 14 b, § 14 e, § 14 g, § 15, § 16, § 17, § 36 samt ophæver lovens kapitel 2 a, indeholder følgende ikrafttrædelsesbestemmelser:
+
+§ 2
+
+Stk. 1. Loven træder i kraft den 1. april 2009, jf. dog stk. 2 og 3.
+
+Stk. 2. § 2, stk. 1, litra a, § 2, stk. 2, § 14 b, stk. 3, § 14 e, stk. 3, § 15 og § 17, stk. 5, i lov om Arbejdsmarkedets Tillægspension, som affattet henholdsvis ændret ved denne lovs § 1, nr. 1-3, 18, 19, 21, 22, 25 og 27, træder i kraft den 1. januar 2010.
+
+Stk. 3. § 1, nr. 9, træder i kraft den 1. januar 2010.
+
+§ 3
+
+Uanset lov om Arbejdsmarkedets Tillægspension § 9, stk. 1, som ændret ved denne lovs § 1, nr. 10, udbetales tillægspension i form af egenpension i perioden fra den 1. april 2009 til den 30. juni 2009 månedsvis forud fra den 1. i måneden, efter at medlemmet har opnået sin folkepensionsalder. Uanset lov om social pension § 12 er folkepensionsalderen i relation til beregning af tillægspensionen i perioden fra den 1. april 2008 til den 30. juni 2009.
+
+1) 65 år for medlemmer, der er født før den 1. januar 1959,
+
+2) 65 1/2 år for medlemmer, der er født i perioden fra den 1. januar 1959 til den 30. juni 1959,
+
+3) 66 år for medlemmer, der er født i perioden fra den 1. juli 1959 til den 31. december 1959,
+
+4) 66 1/2 år for medlemmer, der er født i perioden fra den 1. januar 1960 til den 30. juni 1960, og
+
+5) 67 år for medlemmer, der er født efter den 30. juni 1960.
+
+Lov nr. 271 af 3. april 2009 om ændring af lov om Arbejdsmarkedets Tillægspension (Udvidelse af adgangen for ATP til salg af administrative ydelser), som ændrer lovens § 23, § 26 b, § 26 c og § 26 e, indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 2
+
+Loven træder i kraft den 15. april 2009.
+
+Lov nr. 387 af 25. maj 2009 om ændring af lov om Arbejdsmarkedets Tillægspension og lov om beskatning af pensionsordninger m.v. (Særlig udbetalingsmulighed for indestående i Særlig Pensionsopsparing som led i aftale om forårspakke 2.0), som ændrer lovens § 17 f, § 17 j og § 17 k, indeholder følgende ikrafttrædelsesbestemmelser:
+
+§ 3
+
+Loven træder i kraft dagen efter bekendtgørelsen i Lovtidende.
+
+§ 4
+
+Loven gælder ikke for Grønland og Færøerne.
+
+Lov nr. 392 af 25. maj 2009 om ændring af lov om finansiel virksomhed og forskellige andre love, som indsætter § 23 c, og ændrer lovens § 26 b, § 27 og § 27 b, indeholder følgende ikrafttrædelsesbestemmelser:
+
+§ 15
+
+Stk. 1. Loven træder i kraft den 1. juli 2009, jf. dog stk. 2-7.
+
+Stk. 2. ---. Lovens § 1, nr. 1, 2, 4, 30, 37-52, og § 3, nr. 7 og 8, træder i kraft den 1. januar 2010.
+
+Stk. 3. ---. Lovens § 4, nr. 4-6, 9, 11-13, 21, 27, 33, 42, 43, 45, 46 og 50, og §§ 5-7 træder i kraft den 1. januar 2010, jf. dog stk. 4.
+
+Stk. 4. ---. For afdelinger, der oprettes i tidsrummet den 1. juli 2009 til den 31. december 2009, eller for eksisterende afdelinger, der beskattes efter aktieavancebeskatningslovens § 19, træder bestemmelserne nævnt i stk. 3 i kraft den 1. juli 2009.
+
+Stk. 5. ---. Fondsmæglerselskaber, der ved lovens ikrafttræden administrerer en eller flere kollektive investeringsordninger, jf. § 115 i lov om investeringsforeninger og specialforeninger samt andre kollektive investeringsordninger m.v., kan fortsætte med at administrere disse kollektive investeringsordninger, såfremt de administrerede kollektive investeringsordninger anmeldes til Finanstilsynet inden den 1. september 2009.
+
+Stk. 6. ---. Lovens § 9 træder i kraft den 1. juni 2009. § 9 har virkning for indberetninger, der skulle have været indsendt til Finanstilsynet senest den 1. juni 2009 og efterfølgende.
+
+Stk. 7. ---. Ændringen af § 120, stk. 2, i lov om investeringsforeninger og specialforeninger samt andre kollektive investeringsordninger m.v., jf. § 4, nr. 49, træder i kraft dagen efter bekendtgørelsen i Lovtidende.
+
+§ 16
+
+Stk. 1. Lovens §§ 1-7 og 9-13 gælder ikke for Færøerne og Grønland, jf. dog stk. 3 og 4.
+
+Stk. 2. ---. § 8 gælder ikke for Færøerne.
+
+Stk. 3. ---. §§ 1-4, 9, 10 og 13 kan ved kongelig anordning helt eller delvis sættes i kraft for Grønland med de afvigelser, som de særlige grønlandske forhold tilsiger.
+
+Stk. 4. ---. §§ 1-4 kan ved kongelig anordning helt eller delvis sættes i kraft for Færøerne med de afvigelser, som de særlige færøske forhold tilsiger.
+
+Lov nr. 478 af 12. juni 2009, som ændrer lovens § 2 a, indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 8
+
+Stk. 1. Loven træder i kraft den 1. august 2009.
+
+Stk. 2. ---. Ledige med ret til 6 ugers selvvalgt uddannelse, der inden lovens ikrafttræden har påbegyndt en uddannelse med godtgørelse ved deltagelse i erhvervsrettet voksen- og efteruddannelse eller med statens voksenuddannelsesstøtte, kan færdiggøre uddannelsesforløbet med godtgørelse eller støtte efter de hidtidige regler.
+
+Stk. 3. ---. Ledige med ret til 6 ugers selvvalgt uddannelse, der inden lovens ikrafttræden har indgivet en ansøgning om statens voksenuddannelsesstøtte, jf. bekendtgørelse nr. 643 af 15. juni 2007 om statens voksenuddannelsesstøtte § 19, stk. 2, sidste pkt., til en SVU-administrator, kan deltage i den valgte uddannelse med voksenuddannelsesstøtte efter de hidtil gældende regler.
+
+Stk. 4. ---. Ved opgørelse af, om en person har udnyttet sin ret til 6 ugers selvvalgt uddannelse efter § 26 a i lov om en aktiv beskæftigelsesindsats som affattet ved denne lovs § 1, nr. 3, medregnes perioder, hvor ansøgeren har deltaget i selvvalgt uddannelse for ledige efter de hidtil gældende regler.
+
+Lov nr. 482 af 12. juni 2009 om ændring af lov om arbejdsløshedsforsikring m.v., lov om retssikkerhed og administration på det sociale område og forskellige andre love, som ændrer lovens § 2 a og § 17 f, indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 14
+
+Stk. 1. Loven træder i kraft den 1. august 2009, --- jf. dog stk. 2-6.
+
+Stk. 2. ---. §§ 23 a og 23 b i lov om kommunal udligning og generelle tilskud til kommuner som affattet ved denne lovs § 13, nr. 2, træder i kraft den 20. juni 2009.
+
+Stk. 3. ---. § 45 i lov om aktiv socialpolitik som affattet ved denne lovs § 2, nr. 2, og § 31 a, stk. 8, i integrationsloven som affattet ved denne lovs § 9, nr. 3, træder i kraft den 1. oktober 2009.
+
+Stk. 4. ---. § 77, stk. 5, nr. 2 og 3, i lov om arbejdsmiljø som ændret ved denne lovs § 7, nr. 1, træder i kraft den 29. december 2009.
+
+Stk. 5. ---. § 82 a i lov om arbejdsløshedsforsikring m.v. som affattet ved denne lovs § 1, nr. 15, denne lovs § 1, nr. 2-4, 6, 8, 9, 14 og 20-23, § 13 d, stk. 5 og 6, i lov om aktiv socialpolitik som indsat ved denne lovs § 2, nr. 1, denne lovs § 8, nr. 1 og 2, og § 25 b, stk. 5 og 6, i integrationsloven som indsat ved denne lovs § 9, nr. 1, træder i kraft den 1. januar 2010.
+
+Stk. 6. ---. § 46, stk. 1, i lov om arbejdsløshedsforsikring m.v. som ændret ved denne lovs § 1, nr. 1, træder i kraft den 25. januar 2010.
+
+Stk. 7. ---. §§ 23 a og 23 b i lov om kommunal udligning og generelle tilskud til kommuner som affattet ved denne lovs § 13, nr. 2, har virkning fra og med tilskudsåret 2010. § 82 a i lov om arbejdsløshedsforsikring m.v. som affattet ved denne lovs § 1, nr. 15, og denne lovs § 1, nr. 2-4, 6, 8, 9, 14 og 20-23, har virkning for udbetaling af dagpenge for perioder fra og med den 4. januar 2010. § 82 a, stk. 3, 3. pkt., og § 85 c, stk. 3, nr. 2, i lov om arbejdsløshedsforsikring m.v. som indsat henholdsvis affattet ved denne lovs § 1, nr. 15 og 21, har dog virkning fra den 3. januar 2011.
+
+Lov nr. 483 af 12. juni 2009 om ændring af lov om ansvaret for og styringen af den aktive beskæftigelsesindsats, lov om en aktiv beskæftigelsesindsats og forskellige andre love samt om ophævelse af lov om supplerende aktiveringstilbud til visse ledige medlemmer af en arbejdsløshedskasse, som ændrer lovens § 2 a, indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 21
+
+Stk. 1. Loven træder i kraft den 1. august 2009, ---. jf. dog stk. 2 og 3.
+
+Stk. 2. ---. § 1, nr. 39 og 40, og § 2, nr. 2, 45, 48, 50, 51, 65, 79-81, 85-89, 91, 92 og 94, træder i kraft den 1. januar 2010.
+
+Stk. 3. ---. § 2, nr. 67 og 68, træder i kraft den 1. januar 2010 og finder anvendelse for personer, der har ret og pligt til tilbud efter dette tidspunkt.
+
+Lov nr. 516 af 12. juni 2009 om ændring af årsregnskabsloven, lov om finansiel virksomhed og forskellige andre love, som ændrer lovens § 24 e, indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 25
+
+Stk. 1. Økonomi- og erhvervsministeren fastsætter tidspunktet for lovens ikrafttræden.
+
+Stk. 2. Loven gælder ikke for Grønland, jf. dog stk. 4, men kan, med undtagelse af §§ 6, 7, 13 og 15-19 ved kongelig anordning helt eller delvis sættes i kraft for Grønland med de afvigelser, som de særlige grønlandske forhold tilsiger.
+
+Stk. 3. Loven gælder ikke for Færøerne, jf. dog stk. 4, men §§ 8-10 og 12 kan ved kongelig anordning helt eller delvis sættes i kraft for Færøerne med de afvigelser, som de særlige færøske forhold tilsiger.
+
+Stk. 4. ---. § 14 gælder for Færøerne og Grønland.
+
+Lov nr. 521 af 12. juni 2009 om ændring af kildeskatteloven og forskellige andre love, som ændrer lovens § 17 f og § 17 g, indeholder følgende ikrafttrædelsesbestemmelser:
+
+§ 29
+
+Stk. 1. Loven træder i kraft dagen efter bekendtgørelsen i Lovtidende og har virkning fra indkomståret 2011, jf. dog stk. 2-10.
+
+Stk. 2. ---. § 1, nr. 5, har virkning fra indkomståret 2008.
+
+Stk. 3. ---. § 2, nr. 4, har virkning fra den 1. januar 2009.
+
+Stk. 4. ---. For indkomstårene 2009 og 2010 modregner told- og skatteforvaltningen overskydende arbejdsmarkedsbidrag i uforfalden restskat med den virkning, at beregningsgrundlaget og dermed restskattetillægget reduceres med det godskrevne bidrag. Det sker dog kun for overskydende bidrag, som kunne være indbetalt til told- og skatteforvaltningen inden fristen i kildeskattelovens § 59. Bestemmelsen i 1. og 2. pkt. finder tilsvarende anvendelse for overskydende bidrag, som er konstateret for indkomstårene 2006-2008.
+
+Stk. 5. § 21, nr. 1 og 2, og § 28 har virkning fra den 1. januar 2010. Bidragsgrundlaget som nævnt i 1. pkt. i den foreslåede affattelse i § 21, nr. 1, af § 17 f, stk. 1, i lov om Arbejdsmarkedets Tillægspension følger dog for 2010 af den hidtil gældende bestemmelse i § 17 f, stk. 1, i lov om Arbejdsmarkedets Tillægspension, ligesom henvisningen til reglerne om opkrævning m.v. i dette stykke og i den foreslåede affattelse i § 21, nr. 2, af § 17 f, stk. 2, for indkomståret 2010 følger af den hidtil gældende bestemmelse i lov om Arbejdsmarkedets Tillægspension.
+
+Stk. 6. ---. § 1, nr. 7, 9, 17, 21, 23, 31, 32, 34, 36 og 38-40, § 7, nr. 5, 6 og 12, § 8, nr. 1-7, 9-18, 20-24 og 26, og §§ 13-18, 20, 22-25 og 27 har virkning fra og med indkomståret 2010.
+
+Stk. 7. ---. For indkomståret 2010 fastsættes grundbeløbet i kildeskattelovens § 48 E, stk. 3, nr. 5, til 63.800 kr.
+
+Stk. 8. ---. For indeholdelsespligtige har loven virkning for løn, vederlag m.v., der udbetales fra og med den 1. januar 2011. 1. pkt. finder tilsvarende anvendelse for løn, vederlag m.v., der udbetales før den 1. januar 2011, i det omfang lønnen m.v. ved indeholdelse af foreløbig skat efter kildeskatteloven henregnes til en periode efter den 31. december 2010.
+
+Stk. 9. ---. § 23, stk. 3 og 4, i lov om arbejdsmarkedsbidrag om opkrævning af lønmodtagerbidrag vedrørende 1994 på grundlag af ATP-restancer samt beskæftigelsesministerens adgang til at fastsætte nærmere regler om beregning, opkrævning og betaling af bidrag på grundlag af ATP-restancer finder fortsat anvendelse.
+
+Stk. 10. ---. § 8 finder anvendelse, når en person er afgået ved døden den 1. januar 2011 eller senere, jf. dog stk. 6.
