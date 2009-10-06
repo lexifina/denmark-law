@@ -5,5 +5,3 @@
 Stk. 2. Beløbet udgør for hvert barn under 18 år én gang den pensionsret i form af egenpension og bonuspension fra det 67. år, eventuelt reguleret efter § 9, stk. 1, hvis afdøde havde påbegyndt pensionsudbetalingen før det 67. år eller udsat pensionsudbetalingen til et tidspunkt efter det 67. år, jf. § 9 a, som medlemmet havde optjent ret til ved dødsfaldet
 
 Stk. 3. Det i stk. 2 nævnte beløb udbetales til værgen for det eller de berettigede børn.
-
-Stk. 4. For engangsbeløbet efter denne bestemmelse gælder det samme som nævnt i § 11, stk. 4.
