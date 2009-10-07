@@ -1,3 +1,3 @@
 Bekendtgørelse af lov om skove
 
-Hermed bekendtgøres lov om skove, jf. lovbekendtgørelse nr. 793 af 21. juni 2007 med de ændringer, der følger af § 8 i lov nr. 507 af 17. juni 2008 og § 8 i lov nr. 508 af 17. juni 2008.
+Hermed bekendtgøres lov om skove, jf. lovbekendtgørelse nr. 1044 af 20. oktober 2008 med de ændringer, der følger af § 35 i lov nr. 1336 af 19. december 2008 og § 9 i lov nr. 514 af 12. juni 2009.
