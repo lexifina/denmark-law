@@ -1,16 +1,16 @@
 Lov nr. 9 af 3. januar 1992 om naturbeskyttelse, der, jf. lovens § 98, ændrer § 14 og § 16, stk. 2 i lov nr. 357 af 6. juni 1991 om råstoffer, indeholder følgende ikrafttrædelsesbestemmelse:
 
-§ 93. Loven træder i kraft den 1. juli 1992.
+Loven træder i kraft den 1. juli 1992.
 
 Lov nr. 484 af 12. juni 1996 om ændring af lov om råstoffer og lov om kontinentalsoklen, indeholder følgende ikrafttrædelses- og overgangsbestemmelser m.v.:
 
-§ 2. I lov om kontinentalsoklen, jf. lovbekendtgørelse nr. 182 af 1. maj 1979, som ændret ved § 46 i lov nr. 357 af 6. juni 1991, foretages følgende ændring:
+I lov om kontinentalsoklen, jf. lovbekendtgørelse nr. 182 af 1. maj 1979, som ændret ved § 46 i lov nr. 357 af 6. juni 1991, foretages følgende ændring:
 
 1. § 2, stk. 1, 2. pkt., affattes således:
 
 »Miljøministeren kan tillade udforskning og indvinding af de råstoffer, der er omfattet af lov om råstoffer, efter reglerne i lov om råstoffer.«
 
-§ 3. Loven træder i kraft den 1. januar 1997.
+Loven træder i kraft den 1. januar 1997.
 
 Stk. 2. Sager, der inden lovens ikrafttræden er indbragt for miljøministeren efter § 25 i Miljøministeriets bekendtgørelse nr. 217 af 21. marts 1994 om henlæggelse af opgaver og beføjelser til Skov- og Naturstyrelsen, færdigbehandles efter de hidtil gældende regler.
 
@@ -24,35 +24,45 @@ Stk. 6. Uanset bestemmelsen i stk. 5, 1. pkt., kan indvindingsmateriel med tilla
 
 Lov nr. 19 af 13. januar 1997 om ændring af lov om naturbeskyttelse og lov om råstoffer, som ændrer §§ 13, 14 og 16, indeholder følgende ikrafttrædelses- og overgangsbestemmelser:
 
-§ 3. Loven træder i kraft den 1. juli 1997.
+§ 3
+
+Stk. 1. Loven træder i kraft den 1. juli 1997.
 
 Stk. 2. Afgørelser, der er påklaget inden lovens ikrafttræden, færdigbehandles efter de hidtil gældende klageregler.
 
 Lov nr. 426 af 10. juni 1997 om ændring af lov om miljøbeskyttelse og lov om råstoffer, som ændrer § 10, indeholder følgende ikrafttrædelsesbestemmelse:
 
-§ 3. Loven træder i kraft den 1. juli 1997.
+§ 3
+
+Loven træder i kraft den 1. juli 1997.
 
 Lov nr. 370 af 2. juni 1999 om forurenet jord, som ændrer § 10, indeholder følgende ikrafttrædelsesbestemmelse:
 
-§ 94. Loven træder i kraft den 1. januar 2000, ---
+Loven træder i kraft den 1. januar 2000, ---
 
 Lov nr. 447 af 31. maj 2000 om ændring af visse miljølove (Implementering af Århuskonventionen m.v.), som ændrer §§ 12, 15, 26 og 26 a-b, indeholder følgende ikrafttrædelsesbestemmelse:
 
-§ 14. Loven træder i kraft den 15. september 2000, ---
+§ 14
+
+Loven træder i kraft den 15. september 2000, ---
 
 Lov nr. 145 af 25. marts 2002 om ændring af forskellige love som følge af sammenlægningen af de bornholmske kommuner, som ændrer § 42, indeholder følgende ikrafttrædelsesbestemmelse:
 
-§ 78. Loven træder i kraft den 1. januar 2003, ---
+§ 78
+
+Loven træder i kraft den 1. januar 2003, ---
 
 Lov nr. 1055 af 17. december 2002 om ændring af lov om råstoffer, som ændrer §§ 13, 20, 44, 51, 52 og 52 a, indeholder følgende ikrafttrædelsesbestemmelse:
 
-§ 2. Loven træder i kraft den 1. januar 2003, § 1, nr. 1, 3 og 4, dog først den 1. juli 2003.
+§ 2
+
+Loven træder i kraft den 1. januar 2003, § 1, nr. 1, 3 og 4, dog først den 1. juli 2003.
 
 Stk. 2. Sager om indvinding af andre råstoffer end sand, grus og sten omfattet af en anmeldelse efter § 5, stk. 1, nr. 1-3, i lov nr. 285 af 7. juni 1972 om udnyttelse af sten, grus og andre naturforekomster i jorden og på søterritoriet, hvor indvindingen er afsluttet inden den 1. juli 2003, behandles dog efter de hidtil gældende regler, ligesom afgørelser i sådanne sager bevarer deres gyldighed og overtrædelse heraf straffes efter de hidtil gældende regler.
 
 Lov nr. 442 af 9. juni 2004 om retssikkerhed ved forvaltningens anvendelse af tvangsindgreb og oplysningspligter, som ændrer §§ 32 og 44, indeholder følgende ikrafttrædelsesbestemmelse:
 
-§ 24. Loven træder i kraft den 1. januar 2005.
+Loven træder i kraft den 1. januar 2005.
 
 Lov nr. 431 af 6. juni 2005 om ændring af forskellige love (Forenkling, harmonisering og objektivering af reglerne for inddrivelse af gæld til det offentlige m.v. samt mulighed for anvendelse af digitale lønsedler), som ændrer § 45, indeholder følgende ikrafttrædelsesbestemmelse:
 
@@ -60,7 +70,7 @@ Lov nr. 431 af 6. juni 2005 om ændring af forskellige love (Forenkling, harmoni
 
 Stk. 1. Loven træder i kraft den 1. november 2005, jf. dog stk. 2.
 
-Stk. 2. (Udeladt.)
+Stk. 2. (Udeladt)
 
 Lov nr. 566 af 24. juni 2005 om ændring af lov om råstoffer (Udmøntning af kommunalreformen, for så vidt angår råstofplanlægning og -indvinding på land.), som ændrer §§ 5-7, 9-13, 17, 27, 30-32, 35-37, 42 og 44 samt indsætter nye §§ 5 a og 6 a, indeholder følgende ikrafttrædelses- og overgangsbestemmelse:
 
@@ -94,8 +104,6 @@ Stk. 2. (Udeladt)
 
 Lov nr. 533 af 6. juni 2007 om nationalparker, som ændrer § 12, § 15 og § 26 a, har følgende ikrafttrædelsesbestemmelse:
 
-§ 37
-
 Loven træder i kraft den 1. juli 2007.
 
 Lov nr. 507 af 17. juni 2008 om ændring af lov om ændring af lov om miljøbeskyttelse og forskellige andre love (implementering af miljøansvarsdirektivet), som ændrer §§ 15, 26, 26 a, 33 og 44 og indsætter nyt kapitel 7 a (§§ 33a-33j), indeholder følgende ikrafttrædelsesbestemmelse:
@@ -111,3 +119,29 @@ Lov nr. 508 af 17. juni 2008 om ændring af lov om naturbeskyttelse, lov om jagt
 § 16
 
 Loven træder i kraft den 1. juli 2008.
+
+Lov nr. 1336 af 19. december 2008 om ændring af kildeskatteloven, opkrævningsloven, udpantningsloven og forskellige andre love (Konsekvensændringer som følge af lov om inddrivelse af gæld til det offentlige), som ophæver § 45, indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 167
+
+Stk. 1. Loven træder i kraft den 1. januar 2009, jf. dog stk. 2. § 11 finder alene anvendelse på afgørelser om lønindeholdelse, der træffes efter lovens ikrafttræden.
+
+Stk. 2. (Udeladt)
+
+Lov nr. 515 af 12. juni 2009 om ændring af lov om råstoffer (Ophævelse af fartøjsgodkendelse og modernisering af efterforsknings- og indvindingstilladelser på havet m.v.), som ophæver § 10, stk. 1, nr. 4, § 19 og § 24, stk. 2, 4 og 5, indsætter § 6 a, stk. 5 og 9, § 10, stk. 2, § 20 a, § 22 a, § 26, stk. 2, § 26 a, nr. 7 og 8, og § 34, 3. pkt., og ændrer fodnoten til lovens titel, § 6 a, stk. 5-7, § 10, stk. 1-6, § 20, § 21, § 22, § 23, stk. 1, § 24, stk. 1, 3 og 6, § 26, stk. 1-4, § 26 a, stk. 1-3, § 28, stk. 1 og 2, § 29, § 41, stk. 4 og § 44, stk. 1-3, indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 2
+
+Stk. 1. Loven træder i kraft den 1. januar 2010, jf. dog stk. 2.
+
+Stk. 2. § 1, nr. 6-11, 18 og 19, træder i kraft dagen efter bekendtgørelsen i Lovtidende.
+
+Stk. 3. (Udeladt)
+
+Stk. 4. Indvindingstilladelser på baggrund af efterforskningstilladelser, som er givet før den 13. marts 2009, meddeles tidsbegrænset indtil den 31. december 2011 og uden krav om betaling af vederlag. Hvis særlige forhold gør sig gældende, kan tilladelserne forlænges med 1 år ad gangen i op til 2 år.
+
+Stk. 5. Indvindingstilladelser, der udløber den 31. december 2009, kan forlænges i op til 1 år med krav om betaling af vederlag efter § 22 a. Dette gælder ikke indvindingstilladelser med fælles adgang til indvinding.
+
+Stk. 6. Ansøgninger om efterforsknings- og indvindingstilladelse, der er modtaget efter den 13. marts 2009, behandles efter reglerne i denne lov.
+
+Stk. 7. Til råstofindvinding efter indvindingstilladelser i områder med fælles adgang til indvinding af fælles råstofressourcer må der indtil den 31. december 2009 alene anvendes indvindingsmateriel med lastekapacitet på op til 2.000 m3.
