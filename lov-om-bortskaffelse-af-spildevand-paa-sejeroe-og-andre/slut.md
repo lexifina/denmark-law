@@ -1,9 +1,5 @@
-Givet på Christiansborg Slot, den 3. januar 1992
+Miljøministeriet, den 24. september 2009
 
-Under Vor Kongelige Hånd og Segl
+Troels Lund Poulsen
 
-MARGRETHE R.
-
-/Per Stig Møller
-
-Ingen
+/ Niels Christensen
