@@ -30,4 +30,4 @@ Stk. 7. For at sikre studerendes indflydelse på ph.d.-forløbet nedsættes et p
 
 Stk. 8. Ph.d.-udvalget består af repræsentanter for det videnskabelige personale og for de ph.d.-studerende, som vælges af og blandt henholdsvis det videnskabelige personale og de ph.d.-studerende.
 
-Stk. 9. De nærmere regler om etablering af ph.d.-skoler og sammensætning af ph.d.-udvalg fastsættes i vedtægten. Universiteter kan i samarbejde oprette ph.d.-skoler med forankring på ét universitet. De nærmere regler om ph.d.-skoler oprettet som samarbejde mellem universiteter, herunder sammensætning af ph.d.-udvalg, fastsættes i vedtægterne for de deltagende universiteter.
+Stk. 9. De nærmere regler om etablering af ph.d.-skoler og sammensætning af ph.d.-udvalg fastsættes i vedtægten. Universiteter kan i samarbejde oprette ph.d.-skoler med forankring på ét universitet. De nærmere regler om ph.d.-skoler oprettet som samarbejde mellem universiteter, herunder sammensætning af ph.d.-udvalg, fastsættes i vedtægterne for de deltagende universiteter.«
