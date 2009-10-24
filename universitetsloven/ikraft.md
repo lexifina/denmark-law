@@ -41,3 +41,11 @@ Lov nr. 570 af 6. juni 2007 indeholder følgende ikrafttrædelsesbestemmelse:
 Stk. 1. § 1, nr. 1, træder i kraft den 1. februar 2008.
 
 Stk. 2. § 1, nr. 2, træder i kraft den 1. september 2007.
+
+Lov nr. 538 af 12. juni 2009 indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 2
+
+Stk. 1. Loven træder i kraft den 1. juli 2009, jf. dog stk. 2.
+
+Stk. 2. Ministeren for videnskab, teknologi og udvikling fastsætter tidspunktet for ikrafttræden af universitetslovens § 34 som ændret ved denne lovs § 1, nr. 11-13.
