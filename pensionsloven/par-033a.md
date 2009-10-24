@@ -4,7 +4,7 @@
 
 Stk. 2. Der kan ikke indbetales ATP-bidrag, hvis pensionen, jf. stk. 1, månedsvis udgør mindre end 1.000 kr.
 
-Stk. 3. Modtageren af førtidspension betaler1 /3 af ATP-bidraget, mens2 /3 af bidraget betales af kommunen. Hver bidragsandel for en måned nedrundes til nærmeste hele kronebeløb.
+Stk. 3. Modtageren af førtidspension betaler 1/3 af ATP-bidraget, mens 2/3 af bidraget betales af kommunen. Hver bidragsandel for en måned nedrundes til nærmeste hele kronebeløb.
 
 Stk. 4. ATP-bidraget fra modtageren af førtidspension indeholdes månedsvis ved udbetalingen af førtidspensionen.
 

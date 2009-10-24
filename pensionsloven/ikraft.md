@@ -1,0 +1,161 @@
+Lov nr. 914 af 16. december 1998 indeholder nedenstående ikrafttrædelses- og overgangsbestemmelser. (Lovændringen vedrører §§ 29, 31, 32, 33, 41, 47, 49 og 72 c. Lovændringen angår ændrede udbetalingsregler, ligestilling af samlevende med gifte m.v.)
+
+Information til nedenstående § 3, stk. 3: Lovens § 1, nr. 8, trådte i kraft den 1. februar 1999, jf. bekendtgørelse nr. 23 af 13. januar 1999.
+
+§ 3
+
+Stk. 1. Loven træder i kraft den 1. januar 1999, jf. dog stk. 2 og 3.
+
+Stk. 2. §§ 29, 31 og 49 i lov om social pension som ændret ved denne lovs § 1, nr. 1-6, 11 og 12, træder i kraft den 1. marts 1999.
+
+Stk. 3. Socialministeren fastsætter tidspunktet for ikrafttræden af § 1, nr. 8.
+
+Stk. 4. §§ 29, 31 og 49 i lov om social pension som ændret ved denne lovs § 1, nr. 1-6, 11 og 12, får ikke virkning for personer, der lever i et samlivsforhold, hvor den ene eller begge modtager social pension før den 1. marts 1999, medmindre de indleder et nyt samlivsforhold efter 1. marts 1999.
+
+Stk. 5. § 32 i lov om social pension som affattet ved denne lovs § 1, nr. 7, finder anvendelse for udbetaling af pension tilkendt efter lovens ikrafttræden.
+
+Stk. 6. § 33, stk. 1, som ændret ved denne lovs § 1, nr. 8, finder anvendelse på personer, der opnår ret til social pension efter lovens ikrafttræden, jf. stk. 3.
+
+Stk. 7. Til personer, som opnår ret til social pension efter lovens ikrafttræden, jf. stk. 3, og som forud har modtaget forudbetalt løn eller en forudbetalt offentlig forsørgelsesydelse, udbetales en ekstra måneds pension for den første måned, for hvilken der udbetales pension. Den ekstra måneds pension udbetales forud.
+
+Lov nr. 287 af 12. maj 1999 indeholder nedenstående ikrafttrædelses- og overgangsbestemmelser (Lovændringen vedrører §§ 2, 3, 4, 5, 6, 10, 12, 13, 14, 16, 18, 20, 28, 29, 31, 37, 44, 49, 52, 69, 70, 71, 72, 72 b og 72 c. Lovændringen angår nedsættelse af folkepensionsalderen fra 67 til 65 år m.v.)
+
+§ 2
+
+Stk. 1. Loven træder i kraft den 1. juli 1999, jf. dog stk. 2.
+
+Stk. 2. § 1, nr. 1 og 2, finder anvendelse på personer, der fylder 60 år den 1. juli 1999 eller senere.
+
+Stk. 3. Personer, der er omfattet af stk. 2, og som er bosiddende i Danmark fra før den 1. juli 1999 og frem til det fyldte 65. år, vil kunne opfylde undtagelsesbestemmelsen til kravet om dansk indfødsret, jf. lovens § 2, stk. 2, nr. 1, såfremt de ville kunne have haft 10 års bopæl her i landet ved det fyldte 67. år.
+
+Lov nr. 1309 af 20. december 2000 indeholder nedenstående ikrafttrædelsesbestemmelser. (Lovændringen vedrører §§ 17 b, 28, 29, 31, 39 a og 49. Lovændringen angår ophævelse af reglen om tillæg for fiktiv indtægt og ændring af regler for beregning af pensionstillæg til gifte m.v.)
+
+§ 2
+
+Stk. 1. Loven træder i kraft den 1. april 2001, jf. dog stk. 2.
+
+Stk. 2. § 1, nr. 3 og 4, træder i kraft den 1. januar 2001. For bortgivelse eller lignende dispositioner, der er foretaget inden den 1. januar 2001, finder de hidtil gældende regler i §§ 28 og 29 i lov om social pension dog fortsat anvendelse.
+
+Lov nr. 285 af 25. april 2001 indeholder nedenstående ikrafttrædelses- og overgangsbestemmelser. (Lovændringen vedrører §§ 1, 3, 5 og 7, kap. 2 og 3, §§ 28-32, kap. 4 a, §§ 33, 33a, 33 b, 37, 39, 39 a, 43 a, 44, 46, 47, 49, 52, 57, 59, 62, 69, 70, 71, 72, 72 b og 72 c. Lovændringen angår førtidspensionsreform.)
+
+Information til nedenstående § 6, stk. 3: Bekendtgørelsen i Lovtidende fandt sted den 26. april 2001.
+
+§ 6
+
+Stk. 1. Loven træder i kraft den 1. januar 2003, jf. dog stk. 3-8.
+
+Stk. 2. For personer, der er fyldt 60 år inden den 1. juli 1999, kan førtidspension efter de fra 1. januar 2003 gældende regler tilkendes indtil det 67. år.
+
+Stk. 3. § 1, nr. 32, træder i kraft dagen efter bekendtgørelsen i Lovtidende.
+
+Stk. 4. § 1 gælder ikke for personer, der er tilkendt førtidspension, invaliditetsydelse eller bistands- og plejetillæg, eller for hvem der er påbegyndt sag herom inden den 1. januar 2003, med undtagelse af nr. 3 og 18-21, jf. dog stk. 5, og nr. 30 og 31. For disse personer gælder fortsat de indtil da gældende regler i § 1, § 3, stk. 5, §§ 13-18, § 19, stk. 2-4, § 20 a, §§ 28-32, § 33, stk. 1 og 2, § 37, § 39, stk. 1, § 39 a, § 44, § 46, § 49, § 52, stk. 1 og 2, § 57, stk. 2 og 3, § 59, stk. 1-4, § 62, stk. 2, § 72, § 72 b og § 72 c i lov om social pension.
+
+Stk. 5. Førtidspensionister, der er omfattet af stk. 4, kan fra den 1. januar 2003 vælge på frivillig basis at være omfattet af ATP-ordningen, jf. § 33 a i lov om social pension som ændret ved denne lovs § 1, nr. 18-20, og af den supplerende pensionsordning, jf. § 33 b i lov om social pension, som affattet ved denne lovs § 1, nr. 21. Personer, som har valgt at være omfattet af den indtil 1. januar 2003 gældende bestemmelse i § 33 a i lov om social pension, overgår automatisk til på frivillig basis at være omfattet af § 33 a i lov om social pension som gældende efter 1. januar 2003.
+
+Stk. 6. For personer, der er tilkendt førtidspension, eller for hvem der er påbegyndt sag herom inden den 1. januar 2003, gælder fortsat de indtil da gældende §§ 2, 4 og 5 i lov om børnetilskud og forskudsvis udbetaling af børnebidrag.
+
+Stk. 7. § 27 a i lov om aktiv socialpolitik som affattet ved denne lovs § 4, nr. 1, finder anvendelse på personer, der er tilkendt førtidspension efter de fra den 1. januar 2003 gældende regler.
+
+Stk. 8. Personer, der er tilkendt førtidspension eller invaliditetsydelse, eller for hvem der er påbegyndt sag herom inden den 1. januar 2003, er dog uanset § 5, nr. 1 og 2, også efter udgangen af 2002 berettiget til boligydelse efter de regler i lov om individuel boligstøtte, der gælder for modtagere af folkepension.
+
+Lov nr. 394 af 28. maj 2003 indeholder nedenstående ikrafttrædelses- og overgangsbestemmelser. (Lovændringen vedrører §§ 29, og 32 a. Lovændringen angår forbedring af vilkårene for medarbejderaktieordninger.)
+
+Information til nedenstående § 17, stk. 1: Bekendtgørelsen i Lovtidende fandt sted den 30. maj 2003.
+
+§ 17
+
+Stk. 1. Loven træder i kraft dagen efter bekendtgørelsen i Lovtidende.
+
+Stk. 2. § 1, nr. 6, 7 og 9, og §§ 4, 5, 11 og 13-16 har virkning for aktier, køberetter til aktier og tegningsretter til aktier, der tildeles den 1. juli 2003 eller senere, jf. dog stk. 6. For aktier, køberetter til aktier og tegningsretter til aktier, der er tildelt før den 1. juli 2003, finder de hidtil gældende regler, herunder reglerne i ligningslovens §§ 28 A-C fortsat anvendelse.
+
+Stk. 3-5. ...
+
+Stk. 6. For aktier, køberetter til aktier og tegningsretter til aktier, der er tildelt før den 1. juli 2003, og hvor tidspunktet for den ansattes beskatning af de modtagne aktier m.v. indtræder den 1. januar 2003 eller senere, kan den ansatte og det selskab, der har ydet de pågældende aktier m.v., indgå aftale om, at reglerne i ligningslovens § 7 H, som affattet ved denne lovs § 1, nr. 6, skal finde anvendelse. Indgås en sådan aftale, skal indberetning herom foretages for det kalenderår, hvor aftalen er indgået.
+
+Stk. 7. Såfremt en anvendelse af reglerne i stk. 6 kræver ændringer i de aftaler, der er indgået ved tildelingen af aktier m.v., for at tilpasse aftalerne til en anvendelse af reglerne i ligningslovens § 7 H, anses sådanne ændringer ikke for at indebære en afståelse og erhvervelse af nye aktier, køberetter eller tegningsretter.
+
+Stk. 8. Reglerne i § 6 a, stk. 5, nr. 2, i lov om VækstFonden som affattet ved § 12, nr. 2, finder alene anvendelse for aktier, der er deponeret til betaling af afgift vedrørende april kvartal 2003 eller tidligere.
+
+Lov nr. 327 af 18. maj 2005 indeholder nedenstående ikrafttrædelses- og overgangsbestemmelser. (Lovændringen vedrører §§ 34, 46-46 b og 53. Lovændringen angår ophør af udbetaling af social pension og andre ydelser ved unddragelse af strafforfølgning eller straffuldbyrdelse.)
+
+§ 13
+
+Stk. 1. Loven træder i kraft den 1. juli 2005.
+
+Stk. 2. Loven har virkning for personer, som bevidst unddrager sig strafforfølgning eller straffuldbyrdelse den 1. juli 2005 eller senere.
+
+Stk. 3. Hvis pensionsudbetalingen ved lovens ikrafttræden er ophørt efter de hidtil gældende regler i § 46 i lov om social pension, genoptages pensionsudbetalingen ved opholdets ophør efter de hidtil gældende regler i lovens § 34.
+
+Stk. 4. Hvis pensionsudbetalingen ved lovens ikrafttræden er ophørt efter de hidtil gældende regler i § 45 i lov om højeste, mellemste, forhøjet almindelig og almindelig førtidspension m.v., genoptages pensionsudbetalingen ved opholdets ophør efter de hidtil gældende regler i lovens § 34.
+
+Lov nr. 1586 af 20. december 2006 indeholder nedenstående ikrafttrædelsesbestemmelse. (Lovændringen vedrører § § 1a, 2, 3, 5, 13, 16, 33 d, 33 e, 37, 72 e. Lovændringen angår gradvis forhøjelse af folkepensionsalderen til 67 år m.v.)
+
+§ 3
+
+Loven træder i kraft den 1. juli 2009.
+
+Lov nr. 445 af 9. juni 2008 indeholder nedenstående ikrafttrædelses- og overgangsbestemmelse. (Lovændringen vedrører §§ 15, 15 a, 15 d, 29, 32 a og 49).
+
+Lovændringen angår øget bundfradrag for folkepensionister, reduceret beskæftigelseskrav ved opsat pension og sikkerhed for ret til førtidspension.
+
+§ 3
+
+Loven træder i kraft den 1. juli 2008.
+
+§ 4
+
+Adgangen til at fradrage indtægter ved personligt arbejde efter § 29, stk. 1, nr. 4, i lov om social pension som affattet ved denne lovs § 1, nr. 4, § 32 a, stk. 1, nr. 4, som affattet ved denne lovs § 1, nr. 5, og § 26, stk. 1, 3. pkt., som affattet ved denne lovs § 2, nr. 2, gælder i 2008 alene indtægter ved personligt arbejde i perioden fra den 1. juli 2008 og op til et beløb på i alt 15.000 kr.
+
+Lov nr. 446 af 9. juni 2008 indeholder nedenstående ikrafttrædelsesbestemmelse. (Lovændringen vedrører § 72 d.)
+
+Lovændringen angår højere supplerende pensionsydelse.
+
+§ 4
+
+Loven træder i kraft den 1. juli 2008.
+
+Lov nr. 1336 af 19. december 2008 indeholder nedenstående ikrafttrædelses- og overgangsbestemmelse. (Lovændringen vedrører §§ 47 og 72 a)
+
+Lovændringen angår konsekvensændringer som følge af lov om inddrivelse af gæld til det offentlige.
+
+§ 167
+
+Loven træder i kraft den 1. januar 2009, jf. dog stk. 2. § 11 finder alene anvendelse på afgørelser om lønindeholdelse, der træffes efter lovens ikrafttræden.
+
+Stk. 2. Skatteministeren fastsætter tidspunktet for ikrafttrædelse af § 9, § 99, nr. 3, § 103, § 109, nr. 4 og 5, § 117, nr. 4, § 118, nr. 1, § 136, nr. 1, 3 og 4, § 144, nr. 1 og 2, § 148, nr. 2, og § 149, nr. 2.
+
+Lov nr. 1345 af 19. december 2008 indeholder nedenstående ikrafttrædelsesbestemmelse. (Lovændringen vedrører §§ 29 og 32 a)
+
+Lovændringen angår ligestilling af dansk og udenlandsk udbytte m.v.
+
+§ 5
+
+Loven træder i kraft den 1. januar 2009.
+
+Lov nr. 286 af 15. april 2009 indeholder nedenstående ikrafttrædelsesbestemmelse. (Lovændringen vedrører § 36)
+
+Lovændringen angår initiativer for at forhindre udsættelser af lejere som følge af manglende betaling af husleje m.v.
+
+§ 9
+
+Stk. 1. Loven træder i kraft den 1. juni 2009.
+
+Stk. 2. Lov om leje af almene boliger § 90, stk. 2, som affattet ved denne lovs § 1, nr. 1-5, og lov om leje § 93, stk. 2, som affattet ved denne lovs § 2 nr. 1-4, har virkning for påkrav, som er afgivet efter lovens ikrafttræden.
+
+Lov nr. 477 af 12. juni 2009 indeholder nedenstående ikrafttrædelsesbestemmelse. (Lovændringen vedrører §§ 31, 49 og 72 c)
+
+Lovændringen angår forhøjelse af pensionstillæg m.v.
+
+§ 3
+
+Loven træder i kraft den 1. januar 2010.
+
+Lov nr. 521 af 12. juni 2009 indeholder nedenstående ikrafttrædelses- og overgangsbestemmelse. (Lovændringen vedrører §§ 29 og 32 a)
+
+Lovændringen angår konsekvensændringer som følge af Forårspakke 2.0 m.v.
+
+§ 29
+
+Stk. 1. Loven træder i kraft dagen efter bekendtgørelsen i Lovtidende og har virkning fra indkomståret 2011, jf. dog stk. 2-10.
+
+Stk. 2. – stk. 10…

@@ -1,5 +1,5 @@
-Socialministeriet, den 29. maj 2007
+Beskæftigelsesministeriet, den 2. oktober 2009
 
-P.M.V. Thomas Børner
+Inger Støjberg
 
-/Aksel Meyer
+/ Bent Nielsen
