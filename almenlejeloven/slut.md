@@ -1,5 +1,5 @@
-Socialministeriet, den 27. februar 2007
+Indenrigs- og Socialministeriet, den 21. oktober 2009
 
-P.M.V. Thomas Børner
+P.M.V. Christian Schønau
 
-/Aksel Meyer
+/ Eva Pedersen
