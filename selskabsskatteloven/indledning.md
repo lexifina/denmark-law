@@ -2,4 +2,4 @@ Bekendtgørelse af lov om indkomstbeskatning af aktieselskaber m.v.
 
 (Selskabsskatteloven)
 
-Herved bekendtgøres lov om indkomstbeskatning af aktieselskaber m.v. (Selskabsskatteloven), jf. lovbekendtgørelse nr. 1037 af 24. august 2007, med de ændringer, der følger af § 8 i lov nr. 1534 af 19. december 2007, § 12 i lov nr. 335 af 7. maj 2008, § 2 i lov nr. 530 af 17. juni 2008, § 18 i lov nr. 1003 af 10. oktober 2008 og § 1 i lov nr. 98 af 10. februar 2009.
+Herved bekendtgøres lov om indkomstbeskatning af aktieselskaber m.v. (Selskabsskatteloven), jf. lovbekendtgørelse nr. 272 af 3. april 2009, med de ændringer, der følger af § 9 i lov nr. 460 af 12. juni 2009, § 16 i lov nr. 462 af 12. juni 2009, § 5 i lov nr. 490 af 12. juni 2009 og § 14 i lov nr. 525 af 12. juni 2009.
