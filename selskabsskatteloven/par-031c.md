@@ -1,4 +1,4 @@
-§ 31 C. Et moderselskab udgør sammen med datterselskaberne en koncern.
+§ 31C. Et moderselskab udgør sammen med datterselskaberne en koncern.
 
 Stk. 2. Et selskab, en fond, en trust eller en forening m.v. er et moderselskab, hvis det
 
@@ -28,4 +28,4 @@ Stk. 6. Et selskab kan holdes ude af sambeskatningen, hvis
 
 Stk. 7. Uanset stk. 1-6 skal moderselskaber, der ved aflæggelse af koncernregnskabet anvender de internationale regnskabsstandarder, som er nævnt i artikel 4 vedrørende børsnoterede selskabers koncernregnskaber i Rådets forordning om anvendelse af internationale regnskabsstandarder, og som efter denne standard er koncernens ultimative moderselskab, anvende koncerndefinitionen, der findes i de internationale regnskabsstandarder, som er nævnt i forordningen. Stk. 6, nr. 3, 2. pkt. finder tilsvarende anvendelse.
 
-Stk. 8. Et selskab, der tages under konkursbehandling, skal holdes ude af sambeskatningen fra og med det indkomstår, hvori konkursdekretet afsiges. Ved ophøret af sambeskatningen finder § 31 A, stk. 10, anvendelse.
+Stk. 8. Et selskab, der tages under konkursbehandling, skal holdes ude af sambeskatningen fra og med det indkomstår, hvori konkursdekretet afsiges. Ved ophøret af sam­be­skat­ning­en finder § 31 A, stk. 10, anvendelse.
