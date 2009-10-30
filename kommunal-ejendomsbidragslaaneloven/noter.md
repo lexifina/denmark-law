@@ -1,1 +1,1 @@
-§ 10 vedrører ændring i anden lovgivning (ligningsloven).
+1) § 10 vedrører ændring i anden lovgivning (ligningsloven).
