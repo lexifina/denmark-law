@@ -1,5 +1,5 @@
-Indenrigs- og Sundhedsministeriet, den 20. marts 2003
+Indenrigs- og Socialministeriet, den 26. oktober 2009
 
-Lars Løkke Rasmussen
+P.M.V. Christian Schønau
 
-/Niels Jørgen Mau
+/ Eva Pedersen
