@@ -1,3 +1,3 @@
-Lov om europæiske samarbejdsudvalg (* 1)
+Bekendtgørelse af lov om europæiske samarbejdsudvalg
 
-VI MARGRETHE DEN ANDEN, af Guds Nåde Danmarks Dronning, gør vitterligt: Folketinget har vedtaget og Vi ved Vort samtykke stadfæstet følgende lov:
+Herved bekendtgøres lov nr. 371 af 22. maj 1996 om europæiske samarbejdsudvalg med de ændringer, der følger af lov nr. 932 af 15. december 1999 og lov nr. 107 af 26. februar 2008.
