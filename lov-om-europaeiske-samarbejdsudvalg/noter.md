@@ -1,0 +1,1 @@
+1) Loven indeholder bestemmelser, der gennemfører Rådets direktiv nr. 94/45/EF af 22. september 1994, EF-Tidende 1994 L 254, side 54, Rådets direktiv nr. 97/74/EF af 15. december 1997, EF-Tidende 1998 L 10, side 22 og Rådets direktiv nr. 2006/109/EF af 20. november 2006, EF-Tidende 2006 L 363, side 416.
