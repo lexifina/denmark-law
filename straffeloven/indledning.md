@@ -1,3 +1,3 @@
 Bekendtgørelse af straffeloven
 
-Herved bekendtgøres straffeloven, jf. lovbekendtgørelse nr. 1260 af 23. oktober 2007, med de ændringer, der følger af § 1 i lov nr. 316 af 30. april 2008, § 1 i lov nr. 490 af 17. juni 2008, § 1 i lov nr. 494 af 17. juni 2008, § 2 i lov nr. 498 af 17. juni 2008, § 1 i lov nr. 500 af 17. juni 2008 og § 1 i lov nr. 501 af 17. juni 2008.
+Herved bekendtgøres straffeloven, jf. lovbekendtgørelse nr. 1068 af 6. november 2008, med de ændringer, der følger af § 7 i lov nr. 1404 af 27. december 2008, § 1 i lov nr. 319 af 28. april 2009 og § 1 i lov nr. 501 af 12. juni 2009.
