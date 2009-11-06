@@ -60,38 +60,26 @@ Stk. 1. Loven træder i kraft den 1. juli 2005.
 
 Stk. 2. § 1, nr. 6, træder dog i kraft dagen efter bekendtgørelse i Lovtidende.
 
-Lov nr. 316 af 30. april 2008 (Skærpelse af straffen for ulovlig tvang i forbindelse med indgåelse af ægteskab) indeholder følgende ikrafttrædelsesbestemmelse:
+Lov nr. 1404 af 27. december 2008 (Styrket indsats mod piratkopiering m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
 
-§ 2
+§ 9
 
-Loven træder i kraft dagen efter bekendtgørelsen i Lovtidende.
+Stk. 1. Loven træder i kraft den 1. januar 2009.
 
-Lov nr. 490 af 17. juni 2008 (Dansk straffemyndighed) indeholder følgende ikrafttrædelsesbestemmelse:
+Stk. 2-4. (Udelades)
 
-§ 8
-
-Loven træder i kraft den 1. juli 2008.
-
-Lov nr. 494 af 17. juni 2008 (Strafskærpelse for tortur) indeholder følgende ikrafttrædelsesbestemmelse:
+Lov nr. 319 af 28. april 2009 (Gennemførelse af Europarådets konvention om beskyttelse af børn mod seksuel udnyttelse og seksuelt misbrug m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
 
 § 3
 
-Loven træder i kraft den 1. juli 2008.
+Loven træder i kraft den 1. juli 2009.
 
-Lov nr. 498 af 17. juni 2008 (Skærpede sanktioner for flugtbilister) indeholder følgende ikrafttrædelsesbestemmelse:
+Lov nr. 501 af 12. juni 2009 (Styrket indsats mod bandekriminalitet m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
 
-§ 3
+§ 7
 
-Loven træder i kraft dagen efter bekendtgørelsen i Lovtidende.
+Stk. 1. Loven træder i kraft den 15. juni 2009.
 
-Lov nr. 500 af 17. juni 2008 (Styrkelse af indsatsen mod ulovlige skydevåben og knive på offentligt tilgængelige steder) indeholder følgende ikrafttrædelsesbestemmelse:
+Stk. 2. § 10, nr. 2, § 12, stk. 1, og § 78 a, stk. 3, i lov om fuldbyrdelse af straf m.v., som ændret ved denne lovs § 5, nr. 1-3, finder anvendelse på personer, der idømmes fængselsstraf efter den 15. juni 2009.
 
-§ 5
-
-Loven træder i kraft den 1. juli 2008.
-
-Lov nr. 501 af 17. juni 2008 (Strafskærpelse for visse sager om seksuelt misbrug af børn) indeholder følgende ikrafttrædelsesbestemmelse:
-
-§ 2
-
-Loven træder i kraft dagen efter bekendtgørelsen i Lovtidende.
+Stk. 3. Forvaltningslovens § 9, stk. 4, nr. 5, som affattet ved denne lovs § 6, nr. 3, gælder for dokumenter, der udarbejdes efter lovens ikrafttræden.
