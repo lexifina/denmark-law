@@ -1,0 +1,5 @@
+§ 20 a. Undervisningsministeren kan for en eller flere diplomuddannelser i ledelse fastsætte regler om, at uddannelseselementer, der er gennemført som led i en offentlig lederuddannelse på diplomniveau og certificeret, jf. stk. 2 og 3, erstatter moduler af diplomuddannelsen.
+
+Stk. 2. Undervisningsministeren nedsætter et uafhængigt råd til at forestå certificering af uddannelseselementer som led i en offentlig lederuddannelse på diplomniveau. Rådet træffer efter indstilling fra et fagligt ekspertudvalg afgørelse om certificering af et uddannelseselement. Afgørelser, som rådet træffer, kan indbringes for undervisningsministeren, når klagen vedrører retlige spørgsmål. Rådet fører tilsyn med certificerede uddannelseselementer.
+
+Stk. 3. Undervisningsministeren kan efter forhandling med finansministeren fastsætte regler om certificering, rådet og de faglige ekspertudvalg, herunder om sammensætning af rådet og de faglige ekspertudvalg, sekretariatsbetjening af rådet, rådets behandling af ansøgninger om certificering, kriterier for certificering og gebyr for behandling af ansøgning om certificering.
