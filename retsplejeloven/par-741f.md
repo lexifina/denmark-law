@@ -5,5 +5,3 @@ Stk. 2. Anklagemyndigheden underretter den forurettede om tidspunktet for hovedf
 Stk. 3. Anklagemyndigheden underretter den forurettede om en anke, hvis den forurettede har fremsat anmodning efter stk. 2. Er den forurettede afgået ved døden, underrettes den forurettedes nære pårørende om en anke, hvis vedkommende har fremsat anmodning efter stk. 2.
 
 Stk. 4. Anklagemyndigheden underretter den forurettede om en sags genoptagelse, hvis den forurettede har fremsat anmodning efter stk. 2. Er den forurettede afgået ved døden, underrettes den forurettedes nære pårørende om en sags genoptagelse, hvis vedkommende har fremsat anmodning efter stk. 2.
-
-Andet afsnit. Efterforskning, tvangsindgreb m.v.
