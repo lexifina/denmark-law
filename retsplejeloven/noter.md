@@ -1,141 +1,137 @@
-1) Bestemmelsen i § 116 a træder i kraft efter justitsministerens nærmere bestemmelse, jf. § 6, stk. 1, i lov nr. 479 af 17. juni 2008.
+1) Bestemmelsen i § 56 a træder i kraft efter justitsministerens nærmere bestemmelse, jf. § 2, stk. 2, i lov nr. 495 af 12. juni 2009.
 
-2) Bestemmelsen i § 148 a træder i kraft efter justitsministerens nærmere bestemmelse, jf. § 5, stk. 1, i lov nr. 447 af 9. juni 2004.
+2) Bestemmelsen i § 116 a træder i kraft efter justitsministerens nærmere bestemmelse, jf. § 6, stk. 1, i lov nr. 479 af 17. juni 2008.
 
-3) Bestemmelsen i § 149, stk. 7, træder i kraft efter justitsministerens nærmere bestemmelse, jf. § 106, stk. 3, 1. pkt., i lov nr. 538 af 8. juni 2006.
+3) Bestemmelsen i § 130 a træder i kraft efter justitsministerens nærmere bestemmelse, jf. § 8, stk. 2, i lov nr. 505 af 12. juni 2009.
 
-4) Bestemmelsen i § 154, stk. 2, træder i kraft efter justitsministerens nærmere bestemmelse, jf. § 5, stk. 1, i lov nr. 447 af 9. juni 2004.
+4) Bestemmelsen i § 143, stk. 6, træder i kraft efter justitsministerens nærmere bestemmelse, jf. § 8, stk. 2 i lov nr. 505 af 12. juni 2009.
 
-5) Bestemmelsen i § 155, nr. 2, træder i kraft efter justitsministerens nærmere bestemmelse, jf. § 5, stk. 1, i lov nr. 447 af 9. juni 2004.
+5) Bestemmelsen i § 148 a træder i kraft efter justitsministerens nærmere bestemmelse, jf. § 5, stk. 1, i lov nr. 447 af 9. juni 2004.
 
-6) Bestemmelsen i § 156 a træder i kraft efter justitsministerens nærmere bestemmelse, jf. § 5, stk. 1, i lov nr. 447 af 9. juni 2004.
+6) Bestemmelsen i § 154, stk. 2, træder i kraft efter justitsministerens nærmere bestemmelse, jf. § 5, stk. 1, i lov nr. 447 af 9. juni 2004.
 
-7) Den angivne ordlyd af § 158 (ændring af »nr. 2 og 3« til: »nr. 3 og 4«) træder i kraft efter justitsministerens nærmere bestemmelse, jf. § 5, stk.1, i lov nr. 447 af 9. juni 2004.
+7) Bestemmelsen i § 155, nr. 2, træder i kraft efter justitsministerens nærmere bestemmelse, jf. § 5, stk. 1, i lov nr. 447 af 9. juni 2004.
 
-8) Bestemmelserne i § 174, stk. 2 og 3, træder i kraft efter justitsministerens nærmere bestemmelse, jf. § 106, stk. 3, 1. pkt., i lov nr. 538 af 8. juni 2006.
+8) Bestemmelsen i § 156 a træder i kraft efter justitsministerens nærmere bestemmelse, jf. § 5, stk. 1, i lov nr. 447 af 9. juni 2004.
 
-9) Bestemmelserne i § 186, stk. 2, 3. pkt., og stk. 3-6, træder i kraft efter justitsministerens nærmere bestemmelse, jf. § 106, stk. 3, 1. pkt., i lov nr. 538 af 8. juni 2006.
+9) Den angivne ordlyd af § 158 (ændring af »nr. 2 og 3« til: »nr. 3 og 4«) træder i kraft efter justitsministerens nærmere bestemmelse, jf. § 5, stk.1, i lov nr. 447 af 9. juni 2004.
 
-10) Bestemmelsen i § 192 træder i kraft efter justitsministerens nærmere bestemmelse, jf. § 106, stk. 3, 1. pkt., i lov nr. 538 af 8. juni 2006.
+10) Bestemmelserne i § 186, stk. 2, 3. pkt., og stk. 3-6, træder i kraft efter justitsministerens nærmere bestemmelse, jf. § 106, stk. 3, 1. pkt., i lov nr. 538 af 8. juni 2006.
 
-11) Bestemmelsen i § 353, stk. 6, finder anvendelse på telekommunikation med billede efter justitsministerens nærmere bestemmelse, jf. § 106, stk. 3, 2. pkt., i lov nr. 538 af 8. juni 2006. Bestemmelsen finder anvendelse på telekommunikation uden billede fra den 1. januar 2007.
+11) Lov om forældremyndighed og samvær, jf. lovbekendtgørelse nr. 39 af 15. januar 2007, er ophævet ved § 47, stk. 2, i lov nr. 499 af 6. juni 2007, forældreansvarslov, der trådte i kraft den 1. oktober 2007. § 28 i lov om forældremyndighed og samvær er videreført i forældreansvarslovens § 31.
 
-12) Bestemmelserne i § 365, stk. 4 og 5, finder anvendelse på telekommunikation med billede efter justitsministerens nærmere bestemmelse, jf. § 106, stk. 3, 2. pkt., i lov nr. 538 af 8. juni 2006. Bestemmelserne finder anvendelse på telekommunikation uden billede fra den 1. januar 2007.
+12) Den angivne ordlyd af § 561, stk. 1, 4. pkt. (indførelse af mulighed for indkaldelse af skyldneren ved forkyndelse), træder i kraft efter justitsministerens nærmere bestemmelse, jf. § 5, stk. 1, i lov nr. 447 af 9. juni 2004.
 
-13) Bestemmelsen i § 378, stk. 3, finder anvendelse på telekommunikation med billede efter justitsministerens nærmere bestemmelse, jf. § 106, stk. 3, 2. pkt., i lov nr. 538 af 8. juni 2006. Bestemmelsen finder anvendelse på telekommunikation uden billede fra den 1. januar 2007.
+13) Lovændringen vedrører kapitel 42 a.
 
-14) Bestemmelsen i § 386 a finder anvendelse på telekommunikation med billede efter justitsministerens nærmere bestemmelse, jf. § 106, stk. 3, 2. pkt., i lov nr. 538 af 8. juni 2006. Bestemmelsen finder anvendelse på telekommunikation uden billede fra den 1. januar 2007.
+14) Lovændringen vedrører § 4, stk. 2, § 15, stk. 1-4, § 16, stk. 2, § 52, § 105, stk. 1, første bogs sjette afsnit, § 335 a, § 336 b, stk. 3, § 361 a, § 839, stk. 1, § 886, stk. 1, 2. pkt., og § 967, 2. pkt.
 
-15) Bestemmelsen i § 398, stk. 2, 3. pkt., finder anvendelse på telekommunikation med billede efter justitsministerens nærmere bestemmelse, jf. § 106, stk. 3, 2. pkt., i lov nr. 538 af 8. juni 2006. Bestemmelsen finder anvendelse på telekommunikation uden billede fra den 1. januar 2007.
+15) Lovændringen vedrører § 6 a, § 16 a, stk. 1, 3. pkt., § 17, stk. 1, § 18 c, § 124, stk. 8, § 133, stk. 3 og 5, § 139, stk. 3, 4. pkt., § 213 b, stk. 1, 1. pkt., § 219 a, stk. 6, § 501, stk. 3, nr. 4, § 628, stk. 3, § 684, stk. 1, nr. 3, § 701, stk. 2, § 722, stk. 1, nr. 2, § 731, stk. 1, litra c, § 745, stk. 3, § 748, stk. 1, 2. pkt., overskriften til kapitel 71, § 786, stk. 4, § 791 a, kapitel 74, kapitel 75 a, kapitel 75 b, § 925, stk. 6, § 1002 og § 1017 b, stk. 2.
 
-16) Lov om forældremyndighed og samvær, jf. lovbekendtgørelse nr. 39 af 15. januar 2007, er ophævet ved § 47, stk. 2, i lov nr. 499 af 6. juni 2007, forældreansvarslov, der trådte i kraft den 1. oktober 2007. § 28 i lov om forældremyndighed og samvær er videreført i forældreansvarslovens § 31.
+16) Lovændringen vedrører kapitel 42 a.
 
-17) Bestemmelsen i § 506 finder anvendelse på telekommunikation med billede efter justitsministerens nærmere bestemmelse, jf. § 106, stk. 3, 2. pkt., i lov nr. 538 af 8. juni 2006. Bestemmelsen finder anvendelse på telekommunikation uden billede fra den 1. januar 2007.
+17) Ikrafttrædelsesbestemmelsens stk. 1, 2. pkt., og stk. 2 vedrører kapitel 42 a.
 
-18) Den angivne ordlyd af § 561, stk. 1, 4. pkt. (indførelse af mulighed for indkaldelse af skyldneren ved forkyndelse), træder i kraft efter justitsministerens nærmere bestemmelse, jf. § 5, stk. 1, i lov nr. 447 af 9. juni 2004.
+18) Lovændringen vedrører overskriften til kapitel 71, § 786, stk. 1 og 4-8, § 791 b, § 799, stk. 1, 1. pkt., og stk. 3, § 802, stk. 2, nr. 2, § 803, stk. 1, 2. pkt., § 805, stk. 3, § 806, stk. 3, 1. pkt., § 807 b, stk. 1 og 2, og § 807 d, stk. 1, 1. pkt., og stk. 2, 1. pkt.
 
-19) Bestemmelserne i § 748, stk. 8-10, træder i kraft efter justitsministerens nærmere bestemmelse, jf. § 106, stk. 3, 1. pkt., i lov nr. 538 af 8. juni 2006.
+19) Bekendtgjort i Lovtidende den 7. juni 2002.
 
-20) Pligten for udbydere af telenet og teletjenester til at bistå politiet efter § 791 a, stk. 6, indtræder først den 1. januar 2008, hvis bistanden kræver anvendelse af teknisk udstyr og systemer, der er sat i drift inden den 1. juli 2006, jf. § 1, stk. 2, i bekendtgørelse nr. 607 af 14. juni 2007.
+20) Ved bekendtgørelse nr. 986 af 28. september 2006 er det bestemt, at ændringen træder i kraft den 15. september 2007.
 
-21) Bestemmelsen i § 831, stk. 8, træder i kraft efter justitsministerens nærmere bestemmelse, jf. § 106, stk. 3, 1. pkt., i lov nr. 538 af 8. juni 2006.
+21) Lovændringen vedrører § 16 a, stk.1, 3. pkt., § 17, stk. 1, § 28 a, stk. 2, § 29, stk. 2 og 4, § 31 b, § 32, stk. 4, § 32 b, stk. 1, overskriften til kapitel 3, § 33, stk. 1, § 35, stk. 5, § 38, § 39, stk. 1, 2. pkt., og stk. 2, kapitel 3 a, § 60, stk. 5, § 102, stk. 2, 1. pkt., § 124, stk. 8, § 173, stk. 2, 3. pkt., § 218 a, § 219, stk. 3, § 219 a, stk. 3, og stk. 5, 1. pkt., § 255 a, § 339 a, § 354, stk. 6, 3. pkt., § 366 a, § 372, stk. 3, § 456, stk. 1, § 477, §§ 729 a-729 d, § 731, stk. 1, litra h, § 741 c, stk. 3, 1. pkt., §§ 745-745 b, § 745 d, stk. 2, § 746, stk. 2, 1. pkt., § 748, stk. 7, § 786, stk. 6, 2. pkt., og stk. 7, 2. pkt., § 836 a, § 839, stk. 2, 2. pkt., § 841, § 895, stk. 1, 4. pkt., § 964, 2. pkt., § 998, stk. 2, 3. pkt., § 1017 d, § 1018 e, stk. 6, § 1019 h, stk. 3, og § 1022.
 
-22) Bestemmelsen i § 854 træder i kraft efter justitsministerens nærmere bestemmelse, jf. § 106, stk. 3, 1. pkt., i lov nr. 538 af 8. juni 2006.
+22) Lovændringen vedrører § 44 a, stk. 4, § 147 g, § 148 a, § 154, stk. 2, § 155, nr. 2, § 156 a, § 158, § 178, stk. 4-10, § 218 b, § 494, stk. 2, sidste pkt., § 497, stk. 3, § 561, stk. 1, 4. pkt., § 587, stk. 1, § 777, § 962, stk. 3, 5. pkt., og § 963, stk. 3, litra a, 2. pkt.
 
-23) Lovændringen vedrører kapitel 42 a.
+23) Ikrafttrædelsesbestemmelsens § 1, 2. pkt., vedrører § 44 a, stk. 4, § 147 g, § 178, stk. 4-10, § 218 b, § 494, stk. 2, sidste pkt., § 497, stk. 3, § 587, stk. 1, § 777, § 962, stk. 3, 5. pkt., og § 963, stk. 3, litra a, 2. pkt.
 
-24) Lovændringen vedrører § 4, stk. 2, § 15, stk. 1-4, § 16, stk. 2, § 52, § 105, stk. 1, første bogs sjette afsnit, § 335 a, § 336 b, stk. 3, § 361 a, § 839, stk. 1, § 886, stk. 1, 2. pkt., og § 967, 2. pkt.
+24) Lovændringen vedrører § 448, § 448 a, § 448 b, § 448 c, stk. 1 og 2, § 448 d, § 450, stk. 2, 1. pkt., og stk. 3, § 450 a, 1. pkt., og § 456.
 
-25) Lovændringen vedrører § 6 a, § 16 a, stk. 1, 3. pkt., § 17, stk. 1, § 18 c, § 124, stk. 8, § 133, stk. 3 og 5, § 139, stk. 3, 4. pkt., § 213 b, stk. 1, 1. pkt., § 219 a, stk. 6, § 501, stk. 3, nr. 4, § 628, stk. 3, § 684, stk. 1, nr. 3, § 701, stk. 2, § 722, stk. 1, nr. 2, § 731, stk. 1, litra c, § 745, stk. 3, § 748, stk. 1, 2. pkt., overskriften til kapitel 71, § 786, stk. 4, § 791 a, kapitel 74, kapitel 75 a, kapitel 75 b, § 925, stk. 6, § 1002 og § 1017 b, stk. 2.
+25) Lovændringen vedrører § 2 a, stk. 2, nr. 2, § 41 b, stk. 1, kapitel 30, § 336 d, § 368, stk. 5, 1. pkt., § 369, stk. 2, § 391, stk. 1, § 451, § 456 l, § 465, § 474, § 475 h, § 509, stk. 4, og § 1022 a. Disse ændringer trådte i kraft den 1. juli 2005. Lovændringen vedrører endvidere § 22, stk. 2, § 23, stk. 2 og 3, § 25, stk. 2, 2. pkt., § 49, stk. 4, § 54 a, stk. 3, § 128, § 139, stk. 1, § 147 e, stk. 2, § 259, stk. 3, § 260, stk. 6, kapitel 31, § 449, § 500, stk. 2, § 561, stk. 6, 3. pkt., § 741, stk. 1, 2. pkt., § 741 e, § 821 f, stk. 2, og § 995 a. Disse ændringer træder i kraft den 1. januar 2007.
 
-26) Lovændringen vedrører kapitel 42 a.
+26) Ikrafttrædelsesbestemmelsens § 12, stk. 1, 1. pkt., vedrører § 2 a, stk. 2, nr. 2, § 41 b, stk. 1, kapitel 30, § 336 d, § 368, stk. 5, 1. pkt., § 369, stk. 2, § 391, stk. 1, § 451, § 456 l, § 465, § 474, § 475 h, § 509, stk. 4, og § 1022 a.
 
-27) Ikrafttrædelsesbestemmelsens stk. 1, 2. pkt., og stk. 2 vedrører kapitel 42 a.
+27) Ikrafttrædelsesbestemmelsens § 12, stk. 1, 2. pkt., vedrører § 22, stk. 2, § 23, stk. 2 og 3, § 25, stk. 2, 2. pkt., § 49, stk. 4, § 54 a, stk. 3, § 128, § 139, stk. 1, § 147 e, stk. 2, § 259, stk. 3, § 260, stk. 6, kapitel 31, § 449, § 500, stk. 2, § 561, stk. 6, 3. pkt., § 741, stk. 1, 2. pkt., § 741 e, § 821 f, stk. 2, og § 995 a.
 
-28) Lovændringen vedrører overskriften til kapitel 71, § 786, stk. 1 og 4-8, § 791 b, § 799, stk. 1, 1. pkt., og stk. 3, § 802, stk. 2, nr. 2, § 803, stk. 1, 2. pkt., § 805, stk. 3, § 806, stk. 3, 1. pkt., § 807 b, stk. 1 og 2, og § 807 d, stk. 1, 1. pkt., og stk. 2, 1. pkt.
+28) Ikrafttrædelsesbestemmelsens stk. 2 er indsat ved § 3 i lov nr. 500 af 6. juni 2007, som træder i kraft den 1. oktober 2007, jf. § 7 i lov nr. 500 af 6. juni 2007.
 
-29) Bekendtgjort i Lovtidende den 7. juni 2002.
+29) Lovændringen vedrører § 18, stk. 3, § 31 b, 1. pkt., § 41 c, stk. 2, § 214, stk. 3, § 781, stk. 3, 2. pkt., § 840, stk. 2, § 877, stk. 4, § 927 c, § 928 c, § 965 d og § 968, stk. 2.
 
-30) Ved bekendtgørelse nr. 986 af 28. september 2006 er det bestemt, at ændringen træder i kraft den 15. september 2007.
+30) Ikrafttrædelsesbestemmelsens stk. 2 vedrører § 18, stk. 3, som fra 1. januar 2007 er afløst af § 12, stk. 8.
 
-31) Lovændringen vedrører § 16 a, stk.1, 3. pkt., § 17, stk. 1, § 28 a, stk. 2, § 29, stk. 2 og 4, § 31 b, § 32, stk. 4, § 32 b, stk. 1, overskriften til kapitel 3, § 33, stk. 1, § 35, stk. 5, § 38, § 39, stk. 1, 2. pkt., og stk. 2, kapitel 3 a, § 60, stk. 5, § 102, stk. 2, 1. pkt., § 124, stk. 8, § 173, stk. 2, 3. pkt., § 218 a, § 219, stk. 3, § 219 a, stk. 3, og stk. 5, 1. pkt., § 255 a, § 339 a, § 354, stk. 6, 3. pkt., § 366 a, § 372, stk. 3, § 456, stk. 1, § 477, §§ 729 a-729 d, § 731, stk. 1, litra h, § 741 c, stk. 3, 1. pkt., §§ 745-745 b, § 745 d, stk. 2, § 746, stk. 2, 1. pkt., § 748, stk. 7, § 786, stk. 6, 2. pkt., og stk. 7, 2. pkt., § 836 a, § 839, stk. 2, 2. pkt., § 841, § 895, stk. 1, 4. pkt., § 964, 2. pkt., § 998, stk. 2, 3. pkt., § 1017 d, § 1018 e, stk. 6, § 1019 h, stk. 3, og § 1022.
+31) Lovændringen vedrører § 1 a, § 49, stk. 1, 3. pkt., og § 55.
 
-32) Lovændringen vedrører § 44 a, stk. 4, § 147 g, § 148 a, § 154, stk. 2, § 155, nr. 2, § 156 a, § 158, § 178, stk. 4-10, § 218 b, § 494, stk. 2, sidste pkt., § 497, stk. 3, § 561, stk. 1, 4. pkt., § 587, stk. 1, § 777, § 962, stk. 3, 5. pkt., og § 963, stk. 3, litra a, 2. pkt.
+32) Ikrafttrædelsesbestemmelsens stk. 2 vedrører § 49, stk. 1, 3. pkt., og § 55.
 
-33) Ikrafttrædelsesbestemmelsens § 1, 2. pkt., vedrører § 44 a, stk. 4, § 147 g, § 178, stk. 4-10, § 218 b, § 494, stk. 2, sidste pkt., § 497, stk. 3, § 587, stk. 1, § 777, § 962, stk. 3, 5. pkt., og § 963, stk. 3, litra a, 2. pkt.
+33) Lovændringen vedrører § 510, stk. 1 og 4, og § 518, stk. 3.
 
-34) Lovændringen vedrører § 448, § 448 a, § 448 b, § 448 c, stk. 1 og 2, § 448 d, § 450, stk. 2, 1. pkt., og stk. 3, § 450 a, 1. pkt., og § 456.
+34) Ikrafttrædelsesbestemmelsens stk. 2 vedrører § 510, stk. 1 og 4, og § 518, stk. 3. Bekendtgjort i Lovtidende den 8. juni 2006.
 
-35) Lovændringen vedrører § 2 a, stk. 2, nr. 2, § 41 b, stk. 1, kapitel 30, § 336 d, § 368, stk. 5, 1. pkt., § 369, stk. 2, § 391, stk. 1, § 451, § 456 l, § 465, § 474, § 475 h, § 509, stk. 4, og § 1022 a. Disse ændringer trådte i kraft den 1. juli 2005. Lovændringen vedrører endvidere § 22, stk. 2, § 23, stk. 2 og 3, § 25, stk. 2, 2. pkt., § 49, stk. 4, § 54 a, stk. 3, § 128, § 139, stk. 1, § 147 e, stk. 2, § 259, stk. 3, § 260, stk. 6, kapitel 31, § 449, § 500, stk. 2, § 561, stk. 6, 3. pkt., § 741, stk. 1, 2. pkt., § 741 e, § 821 f, stk. 2, og § 995 a. Disse ændringer træder i kraft den 1. januar 2007.
+35) Lovændringen vedrører § 469, stk. 1, 2. pkt., og stk. 4, 3. pkt.
 
-36) Ikrafttrædelsesbestemmelsens § 12, stk. 1, 1. pkt., vedrører § 2 a, stk. 2, nr. 2, § 41 b, stk. 1, kapitel 30, § 336 d, § 368, stk. 5, 1. pkt., § 369, stk. 2, § 391, stk. 1, § 451, § 456 l, § 465, § 474, § 475 h, § 509, stk. 4, og § 1022 a.
+36) Lovændringen vedrører §§ 47-47 f.
 
-37) Ikrafttrædelsesbestemmelsens § 12, stk. 1, 2. pkt., vedrører § 22, stk. 2, § 23, stk. 2 og 3, § 25, stk. 2, 2. pkt., § 49, stk. 4, § 54 a, stk. 3, § 128, § 139, stk. 1, § 147 e, stk. 2, § 259, stk. 3, § 260, stk. 6, kapitel 31, § 449, § 500, stk. 2, § 561, stk. 6, 3. pkt., § 741, stk. 1, 2. pkt., § 741 e, § 821 f, stk. 2, og § 995 a.
+37) Lovændringen vedrører kapitel 1, § 28, § 31 b, 1. pkt., § 32, stk. 3, 1. pkt., §§ 32 c og 32 d, § 33, stk. 2, § 34, stk. 2, nr. 2, § 39, stk. 1, § 40, § 41 c, § 41 f, stk. 3, 1. pkt., overskriften til kapitel 4, § 42, stk. 2 og 4, § 43 a, stk. 1, nr. 4 og 5, § 44, stk. 5, § 44 a, stk. 4, § 44 c, stk. 1, § 45, stk. 2 og 3, § 48, stk. 2, § 52, stk. 1, § 53, § 54, stk. 1 og 2, § 54 a, stk. 1, 1. pkt., § 55, § 57, stk. 1, 1. pkt., § 58, stk. 2, 1. pkt., § 59, § 60, stk. 1, nr. 5 og 6, § 60, stk. 2 og 3, § 66, stk. 1, 1. pkt., § 68, § 71, nr. 6, § 74, stk. 2 og 3, § 78, 1. pkt., § 79, stk. 1 og 3, § 81, stk. 1-3, § 86 a, § 88, § 90, kapitel 9 b, § 100, stk. 2, § 101, stk. 1, 2. pkt., § 103, stk. 2, § 104, stk. 1 og 2, § 105, § 107, kapitel 11, § 121, stk. 4, 1. pkt., § 132, § 133, stk. 1, § 135, stk. 2, 1. og 2. pkt., § 136, stk. 3 og 4, § 139, stk. 1 og 3, § 147 d, stk. 1 og 3, § 147 e, stk. 1 og 3, § 147 f, stk. 2, 1. og 3. pkt., § 149, stk. 7, § 151, stk. 1, 7. pkt., § 152 a, § 174, stk. 2 og 3, § 181, 1. pkt., § 186, stk. 2, 3. pkt., og stk. 3-6, § 192, § 214, stk. 2, 1. pkt., og stk. 3-5, § 218, stk. 1-3, § 218 a, stk. 1 og 2, § 219, § 219 a, stk. 5 og 6, §§ 225-230, § 240, stk. 2, § 247, stk. 2, § 248, stk. 1, 2. pkt., § 297, § 321, stk. 1, 2. pkt., § 334, stk. 1, og stk. 5, 2. pkt., § 340, stk. 1, kapitel 33 og 34, § 367, stk. 1 og 2, § 368, stk. 3 og 5, § 369, stk. 4, § 370, § 372, stk. 1, § 378, stk. 3, § 380, stk. 1, 2. pkt., § 385, stk. 1 og 2, § 386, stk. 1 og 2, § 386 a, § 387, § 390, stk. 2, § 393, stk. 4, 2. pkt., § 394, stk. 1, § 398, stk. 2, kapitel 39, § 470, stk. 4, 3. pkt., § 475 b, stk. 2, 1. pkt., § 476, stk. 2, § 494, stk. 1, 2. pkt., § 506, § 586, stk. 1, § 597, stk. 3, § 598, stk. 2, 1. pkt., § 631, stk. 2, § 646, stk. 2, 1. pkt., § 653 d, §§ 686-691, § 694, stk. 3, 1. pkt., § 698, stk. 1, nr. 2, § 699 a, § 700, § 702, stk. 1 og 2, § 704, stk. 3, 2. pkt., § 705, § 707, § 719, stk. 2, nr. 1, § 729 a, stk. 2 og 3, § 729 b, stk. 1 og 2, § 731, stk. 1, litra d og i, og stk. 2, 1. pkt., § 735, § 741 c, stk. 1, 5. pkt., overskriften til fjerde bog, andet afsnit, § 748, stk. 8-10, § 754, stk. 2, fjerde bog, tredje og fjerde afsnit, kapitel 82-84, §§ 968 og 968 a, § 969, stk. 1, § 970, stk. 2, § 972, stk. 1 og 2, §§ 973 og 973 a, § 976, stk. 1, § 977, stk. 1 og 2, § 979, stk. 2, 2. pkt., § 983, § 984, 1. pkt., § 987, stk. 1, 2 og 4, § 988, § 990, stk. 1 og 2, § 991, stk. 1 og 3, § 993, § 999, stk. 4, § 1008, stk. 3, 2. pkt., § 1012, stk. 4, 1. pkt., § 1013, stk. 3, § 1018 e, stk. 1, 4. pkt., § 1018 f, stk. 1, 3. pkt., og § 1020 c, stk. 2.
 
-38) Ikrafttrædelsesbestemmelsens stk. 2 er indsat ved § 3 i lov nr. 500 af 6. juni 2007, som træder i kraft den 1. oktober 2007, jf. § 7 i lov nr. 500 af 6. juni 2007.
+38) Ikrafttrædelsesbestemmelsens stk. 2 vedrører kapitel 1, § 121, stk. 4, 1. pkt., § 139, stk. 1, 3. pkt., og stk. 3, 2. pkt., § 147 d, stk. 1 og 3, § 147 e, stk. 1, og stk. 3, 1. pkt., § 147 f, stk. 2, 1. og 3. pkt., §§ 225-227, § 240, stk. 2, § 686, § 687, §§ 689-691, § 705 og § 707.
 
-39) Lovændringen vedrører § 18, stk. 3, § 31 b, 1. pkt., § 41 c, stk. 2, § 214, stk. 3, § 781, stk. 3, 2. pkt., § 840, stk. 2, § 877, stk. 4, § 927 c, § 928 c, § 965 d og § 968, stk. 2.
+39) Ikrafttrædelsesbestemmelsens stk. 20 vedrører § 59.
 
-40) Ikrafttrædelsesbestemmelsens stk. 2 vedrører § 18, stk. 3, som fra 1. januar 2007 er afløst af § 12, stk. 8.
+40) Ikrafttrædelsesbestemmelsens stk. 3, 1. pkt., vedrører § 149, stk. 7, § 174, stk. 2 og 3, § 186, stk. 2, 3. pkt., og stk. 3-6, § 192, § 748, stk. 8-10, § 831, stk. 8, og § 854. Ved § 1, stk. 1, i bekendtgørelse nr. 980 af 25. september 2009 er det bestemt, at retsplejelovens § 149, stk. 7, § 174, stk. 2 og 3, § 192, § 831, stk. 8 og § 854 som affattet ved § 1, nr. 61, 64, 68 og 132, i lov nr. 538 af 8. juni 2006 træder i kraft den 1. november 2009.
 
-41) Lovændringen vedrører § 1 a, § 49, stk. 1, 3. pkt., og § 55.
+41) Ved § 1, stk. 2, i bekendtgørelse nr. 980 af 25. september 2009 er det bestemt, at ændringerne finder anvendelse på telekommunikation med billede fra den 1. november 2009.
 
-42) Ikrafttrædelsesbestemmelsens stk. 2 vedrører § 49, stk. 1, 3. pkt., og § 55.
+42) Lovændringen vedrører § 478, stk. 4.
 
-43) Lovændringen vedrører § 510, stk. 1 og 4, og § 518, stk. 3. Disse ændringer er indarbejdet i lovbekendtgørelsen. Lovændringen vedrører endvidere § 478, stk. 4, og § 488, stk. 2. Disse ændringer er ikke indarbejdet i lovbekendtgørelsen, da tidspunktet for ikrafttræden af disse ændringer fastsættes af økonomi- og erhvervsministeren.
+43) Ved bekendtgørelse nr. 762 af 20. juli 2009 er det bestemt, at ændringen træder i kraft den 8. september 2009 kl. 9.00 for så vidt angår tingbogen.
 
-44) Ikrafttrædelsesbestemmelsens stk. 1 vedrører § 478, stk. 4, og § 488, stk. 2.
+44) Lovændringen vedrører § 110 a, § 116, § 117, § 719, stk. 2, nr. 2, overskriften til kapitel 71, § 783, stk. 1, 2 og 4, § 788, stk. 4, § 791 a, stk. 5, 6 og 8, § 791 b, stk. 3, § 791 c og § 799.
 
-45) Ikrafttrædelsesbestemmelsens stk. 2 vedrører § 510, stk. 1 og 4, og § 518, stk. 3. Bekendtgjort i Lovtidende den 8. juni 2006.
+45) Bekendtgjort i Lovtidende den 9. juni 2006.
 
-46) Lovændringen vedrører § 469, stk. 1, 2. pkt., og stk. 4, 3. pkt.
+46) Ved bekendtgørelse nr. 607 af 14. juni 2007 er det bestemt, at ændringen træder i kraft den 1. juli 2007. For udbydere af telenet og teletjenester, indtræder pligten efter § 791 a, stk. 6, dog først den 1. januar 2008, hvis bistanden kræver anvendelse af teknisk udstyr og systemer, der er sat i drift inden den 1. juli 2006, jf. bekendtgørelsens § 1, stk. 2.
 
-47) Lovændringen vedrører §§ 47-47 f.
+47) Ikrafttrædelsesbestemmelsens stk. 5 vedrører §§ 116 og 117.
 
-48) Lovændringen vedrører kapitel 1, § 28, § 31 b, 1. pkt., § 32, stk. 3, 1. pkt., §§ 32 c og 32 d, § 33, stk. 2, § 34, stk. 2, nr. 2, § 39, stk. 1, § 40, § 41 c, § 41 f, stk. 3, 1. pkt., overskriften til kapitel 4, § 42, stk. 2 og 4, § 43 a, stk. 1, nr. 4 og 5, § 44, stk. 5, § 44 a, stk. 4, § 44 c, stk. 1, § 45, stk. 2 og 3, § 48, stk. 2, § 52, stk. 1, § 53, § 54, stk. 1 og 2, § 54 a, stk. 1, 1. pkt., § 55, § 57, stk. 1, 1. pkt., § 58, stk. 2, 1. pkt., § 59, § 60, stk. 1, nr. 5 og 6, § 60, stk. 2 og 3, § 66, stk. 1, 1. pkt., § 68, § 71, nr. 6, § 74, stk. 2 og 3, § 78, 1. pkt., § 79, stk. 1 og 3, § 81, stk. 1-3, § 86 a, § 88, § 90, kapitel 9 b, § 100, stk. 2, § 101, stk. 1, 2. pkt., § 103, stk. 2, § 104, stk. 1 og 2, § 105, § 107, kapitel 11, § 121, stk. 4, 1. pkt., § 132, § 133, stk. 1, § 135, stk. 2, 1. og 2. pkt., § 136, stk. 3 og 4, § 139, stk. 1 og 3, § 147 d, stk. 1 og 3, § 147 e, stk. 1 og 3, § 147 f, stk. 2, 1. og 3. pkt., § 149, stk. 7, § 151, stk. 1, 7. pkt., § 152 a, § 174, stk. 2 og 3, § 181, 1. pkt., § 186, stk. 2, 3. pkt., og stk. 3-6, § 192, § 214, stk. 2, 1. pkt., og stk. 3-5, § 218, stk. 1-3, § 218 a, stk. 1 og 2, § 219, § 219 a, stk. 5 og 6, §§ 225-230, § 240, stk. 2, § 247, stk. 2, § 248, stk. 1, 2. pkt., § 297, § 321, stk. 1, 2. pkt., § 334, stk. 1, og stk. 5, 2. pkt., § 340, stk. 1, kapitel 33 og 34, § 367, stk. 1 og 2, § 368, stk. 3 og 5, § 369, stk. 4, § 370, § 372, stk. 1, § 378, stk. 3, § 380, stk. 1, 2. pkt., § 385, stk. 1 og 2, § 386, stk. 1 og 2, § 386 a, § 387, § 390, stk. 2, § 393, stk. 4, 2. pkt., § 394, stk. 1, § 398, stk. 2, kapitel 39, § 470, stk. 4, 3. pkt., § 475 b, stk. 2, 1. pkt., § 476, stk. 2, § 494, stk. 1, 2. pkt., § 506, § 586, stk. 1, § 597, stk. 3, § 598, stk. 2, 1. pkt., § 631, stk. 2, § 646, stk. 2, 1. pkt., § 653 d, §§ 686-691, § 694, stk. 3, 1. pkt., § 698, stk. 1, nr. 2, § 699 a, § 700, § 702, stk. 1 og 2, § 704, stk. 3, 2. pkt., § 705, § 707, § 719, stk. 2, nr. 1, § 729 a, stk. 2 og 3, § 729 b, stk. 1 og 2, § 731, stk. 1, litra d og i, og stk. 2, 1. pkt., § 735, § 741 c, stk. 1, 5. pkt., overskriften til fjerde bog, andet afsnit, § 748, stk. 8-10, § 754, stk. 2, fjerde bog, tredje og fjerde afsnit, kapitel 82-84, §§ 968 og 968 a, § 969, stk. 1, § 970, stk. 2, § 972, stk. 1 og 2, §§ 973 og 973 a, § 976, stk. 1, § 977, stk. 1 og 2, § 979, stk. 2, 2. pkt., § 983, § 984, 1. pkt., § 987, stk. 1, 2 og 4, § 988, § 990, stk. 1 og 2, § 991, stk. 1 og 3, § 993, § 999, stk. 4, § 1008, stk. 3, 2. pkt., § 1012, stk. 4, 1. pkt., § 1013, stk. 3, § 1018 e, stk. 1, 4. pkt., § 1018 f, stk. 1, 3. pkt., og § 1020 c, stk. 2.
+48) Lovændringen vedrører § 225, stk. 3, 2. pkt., § 226, stk. 2-4, § 227, stk. 2, § 249, stk. 2-3, § 254, stk. 1, 1. pkt., og stk. 2, kapitel 23 a, § 378, stk. 4, § 400, stk. 3, og § 696, 1. pkt.
 
-49) Ikrafttrædelsesbestemmelsens stk. 2 vedrører kapitel 1, § 121, stk. 4, 1. pkt., § 139, stk. 1, 3. pkt., og stk. 3, 2. pkt., § 147 d, stk. 1 og 3, § 147 e, stk. 1, og stk. 3, 1. pkt., § 147 f, stk. 2, 1. og 3. pkt., §§ 225-227, § 240, stk. 2, § 686, § 687, §§ 689-691, § 705 og § 707.
+49) Lovændringen vedrører § 32, stk. 1, 2. og 5. pkt., § 32, stk. 3, § 32 b, stk. 1, § 151, § 477 a, stk. 2, § 477, stk. 1 og 3, nr. 3 og 4, og stk. 4, nr. 1, § 477 c, stk. 1 og 3, § 477 d, stk. 1 og 3, § 501, stk. 3. nr. 4, § 785, stk. 2, § 968, stk. 3, overskriften til fjerde bog, ottende afsnit, overskriften til kapitel 92, § 1015 og § 1016.
 
-50) Ikrafttrædelsesbestemmelsens stk. 20 vedrører § 59.
+50) Lovændringen vedrører § 119, stk. 2, nr. 3-5, og stk. 3-6, § 122, stk. 2, § 123, § 124, § 126, stk.3 og 5, § 127 a, stk. 2, § 129, § 132, § 133, stk. 3-5, § 135, stk. 1, § 135 a, § 136, stk. 3, § 143, stk. 1 og 3-5, § 144, § 145, stk. 1 og 2, § 146, § 147, § 147 a, § 147 b, stk. 1 og 2, § 147 c, stk. 1-2 og 4-6, § 147 d, stk. 1 og 3, § 147 e, § 147 f, stk. 1, § 260, § 267 a - § 267 d, § 316, stk. 1, 2. pkt., § 327, stk. 1, nr. 3, § 361, stk. 5, og § 408, stk. 2.
 
-51) Ikrafttrædelsesbestemmelsens stk. 3, 1. pkt., vedrører § 149, stk. 7, § 174, stk. 2 og 3, § 186, stk. 2, 3. pkt., og stk. 3-6, § 192, § 748, stk. 8-10, § 831, stk. 8, og § 854.
+51) Lovændringen vedrører § 361, stk. 4, § 490, stk. 3, og § 527.
 
-52) Lovændringen vedrører § 110 a, § 116, § 117, § 719, stk. 2, nr. 2, overskriften til kapitel 71, § 783, stk. 1, 2 og 4, § 788, stk. 4, § 791 a, stk. 5, 6 og 8, § 791 b, stk. 3, § 791 c og § 799.
+52) Lovændringen vedrører § 32, stk. 4, 2. pkt., og stk. 5, 2. pkt., § 41 d, stk. 2-5, § 44 b, stk. 1, § 170, stk. 1 og 2, kapitel 27, § 353, stk. 1, nr. 18-20, § 393, stk. 4, 2. pkt., og § 581.
 
-53) Bekendtgjort i Lovtidende den 9. juni 2006.
+53) Lovændringen vedrører § 133, stk. 4, 3. pkt., og stk. 5, 2. pkt., og § 134, stk. 1.
 
-54) Ved bekendtgørelse nr. 607 af 14. juni 2007 er det bestemt, at ændringen træder i kraft den 1. juli 2007. For udbydere af telenet og teletjenester, indtræder pligten efter § 791 a, stk. 6, dog først den 1. januar 2008, hvis bistanden kræver anvendelse af teknisk udstyr og systemer, der er sat i drift inden den 1. juli 2006, jf. bekendtgørelsens § 1, stk. 2.
+54) Lovændringen vedrører § 116 a.
 
-55) Ikrafttrædelsesbestemmelsens stk. 5 vedrører §§ 116 og 117.
+55) Lovændringen vedrører § 147 g, § 147 h, § 997, stk. 2, og § 1013, stk. 4.
 
-56) Lovændringen vedrører § 225, stk. 3, 2. pkt., § 226, stk. 2-4, § 227, stk. 2, § 249, stk. 2-3, § 254, stk. 1, 1. pkt., og stk. 2, kapitel 23 a, § 378, stk. 4, § 400, stk. 3, og § 696, 1. pkt.
+56) Lovændringen vedrører § 114, stk. 2, og § 115.
 
-57) Lovændringen vedrører § 32, stk. 1, 2. og 5. pkt., § 32, stk. 3, § 32 b, stk. 1, § 151, § 477 a, stk. 2, § 477, stk. 1 og 3, nr. 3 og 4, og stk. 4, nr. 1, § 477 c, stk. 1 og 3, § 477 d, stk. 1 og 3, § 501, stk. 3. nr. 4, § 785, stk. 2, § 968, stk. 3, overskriften til fjerde bog, ottende afsnit, overskriften til kapitel 92, § 1015 og § 1016.
+57) Lovændringen vedrører §§ 124-124 g, § 127 a, stk. 2, § 143, stk. 3, 1. og 2. pkt., § 146, stk. 1, § 147 b, stk. 1, § 147 c, stk. 1-2, 4 og 6, § 147 d, stk. 1 og 3, § 147 e, stk. 1-3, og § 139 a.
 
-58) Lovændringen vedrører § 119, stk. 2, nr. 3-5, og stk. 3-6, § 122, stk. 2, § 123, § 124, § 126, stk.3 og 5, § 127 a, stk. 2, § 129, § 132, § 133, stk. 3-5, § 135, stk. 1, § 135 a, § 136, stk. 3, § 143, stk. 1 og 3-5, § 144, § 145, stk. 1 og 2, § 146, § 147, § 147 a, § 147 b, stk. 1 og 2, § 147 c, stk. 1-2 og 4-6, § 147 d, stk. 1 og 3, § 147 e, § 147 f, stk. 1, § 260, § 267 a - § 267 d, § 316, stk. 1, 2. pkt., § 327, stk. 1, nr. 3, § 361, stk. 5, og § 408, stk. 2.
+58) Lovændringen vedrører § 185, stk. 2.
 
-59) Lovændringen vedrører § 361, stk. 4, § 490, stk. 3, og § 527.
+59) Lovændringen vedrører § 5, stk. 2, 1. pkt., § 9, stk. 12, 2. pkt., § 748, stk. 8-10, § 748 a, § 748 b, § 848, stk. 1, 2. pkt., § 916, stk. 1, 2. pkt., § 917, stk. 2, 3. pkt., § 937, stk. 1, 3. pkt., og § 972, stk. 2, 2. pkt.
 
-60) Lovændringen vedrører § 33 a.
+60) Ikrafttrædelsesbestemmelsens stk. 1 vedrører § 5, stk. 2, 1. pkt., og § 9, stk. 12, 2. pkt.
 
-61) Bekendtgjort i Lovtidende den 13. februar 2008.
+61) Ikrafttrædelsesbestemmelsens stk. 2 vedrører § 748, stk. 8-10, § 748 a, § 748 b, § 848, stk. 1, 2. pkt., § 916, stk. 1, 2. pkt., § 917, stk. 2, 3. pkt., § 937, stk. 1, 3. pkt., og § 972, stk. 2, 2. pkt. Ved § 2, stk. 1, i bekendtgørelse nr. 980 af 25. september 2009 er det bestemt, at § 748, stk. 8-10, som affattet ved § 1, nr. 103, i lov nr. 538 af 8. juni 2006 ophæves den 1. november 2009, jf. § 1, nr. 3, i lov nr. 493 af 12. juni 2009. Derudover er det ved § 2, stk. 2 og 3, i bekendtgørelse nr. 980 af 25. september bestemt, at ændringerne, jf. § 1, nr. 4 og 5, i lov nr. 493 af 12. juni 2009, træder i kraft den 1. november 2009.
 
-62) Lovændringen vedrører § 32, stk. 4, 2. pkt. § 32, stk. 5, 2. pkt., § 41 d, stk. 2-5, § 44 b, stk. 1, § 170, stk. 1 og 2, kapitel 27, § 353, stk. 1, nr. 18-20, § 393, stk. 4, 2. pkt., og § 581.
+62) Lovændringen vedrører § 475 c, stk. 1 og 2, og § 475 e, stk. 2.
 
-63) Lovændringen vedrører § 116 a.
+63) Lovændringen vedrører § 56 og § 56 a.
 
-64) Lovændringen vedrører § 1021.
+64) Lovændringen vedrører § 781, stk. 1, nr. 3, og stk. 2, og § 783, stk. 2, 1. pkt.
 
-65) Bekendtgjort i Lovtidende den 18. juni 2008.
+65) Lovændringen vedrører § 762, stk. 2, nr. 2, og § 769, stk. 2 og 3.
 
-66) Lovændringen vedrører § 985 a.
+66) Lovændringen vedrører § 488, stk. 2, 3. pkt., og § 581, stk. 2.
 
-67) Lovændringen vedrører § 718 a, § 718 b, § 724, stk. 3, § 728, 1. pkt., § 733, stk. 2, § 747, stk. 3, § 764, stk. 1 og 4, § 767, stk. 2 og 3, § 768 a, § 769, stk. 2, 2. pkt., § 843 a, § 843 b, § 849, § 871, stk. 2, nr. 3, § 884, stk. 2, nr. 1, § 903, stk. 4, 3. pkt., § 905, stk. 1 og 2, § 907, stk. 1 og 2, § 908, stk. 3, § 910, stk. 3, § 914, stk. 3, § 917, stk. 2, § 919, stk. 2, § 921 a og § 933, stk. 1.
+67) Lovændringen vedrører § 130 a og § 143, stk. 6.
 
-68) Lovændringen vedrører § 9, stk. 2 og 4-12, § 10, stk. 1, § 12, stk. 2, 1. pkt., stk. 7, 2. pkt., og stk. 8, 2. pkt., § 13, stk. 1, § 19, stk. 1, og stk. 3, 1. og 2. pkt., § 32, stk. 4, 1. pkt., § 33 a, stk. 1, 1. og 2. pkt., § 44 a, stk. 4, § 45, stk. 3, § 47 a, stk. 3, § 47 b, stk. 3, 1. pkt., § 47 c, stk. 3, 1. pkt., § 48, stk. 2, 2. pkt., § 53, § 57, stk. 1, 1. pkt., § 58, stk. 2, 1. pkt., § 79, stk. 1, § 135, stk. 2, § 273, nr. 1, § 334, stk. 1, 1. pkt., § 357, stk. 4, 1. pkt., § 735, stk. 1, 1. pkt., § 791 a, stk. 3, nr. 3, og § 791 b, stk. 1, nr. 3.
+68) Ikrafttrædelsesbestemmelsens stk. 2 vedrører § 130 a og § 143, stk. 6.
 
-69) Ved bekendtgørelse nr. 926 af 19. september 2008 er det bestemt, at ændringen træder i kraft den 1. oktober 2008.
-
-70) Lovændringen vedrører § 762, stk. 2, nr. 2.
-
-71) Lovændringen vedrører § 762, stk. 2, nr. 2, og § 799, stk. 1.
+69) Lovændringen vedrører § 478, stk. 1, nr. 7 og 8.
