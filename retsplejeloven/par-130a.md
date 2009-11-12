@@ -1,0 +1,1 @@
+§ 130 a. Justitsministeren kan efter forhandling med de færøske myndigheder fastsætte regler om, at bestemmelser om advokater i denne lov finder anvendelse på advokater beskikket af de færøske myndigheder.
