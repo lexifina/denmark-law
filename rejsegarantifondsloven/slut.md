@@ -1,9 +1,5 @@
-Givet på Christiansborg Slot, den 14. maj 1997
+Økonomi- og Erhvervsministeriet, den 8. december 2009
 
-Under Vor Kongelige Hånd og Segl
+Lene Espersen
 
-MARGRETHE R.
-
-/ Henrik Dam Kristensen
-
-Ingen
+/ Tanja Franck
