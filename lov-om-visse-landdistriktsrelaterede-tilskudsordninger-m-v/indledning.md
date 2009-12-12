@@ -1,3 +1,3 @@
 Bekendtgørelse af lov om statsgaranti for lån til yngre jordbrugere m.v.
 
-Herved bekendtgøres lov om statsgaranti for lån til yngre jordbrugere m.v., jf. lovbekendtgørelse nr. 1015 af 9. oktober 2006, med de ændringer der følger af § 18 i lov nr. 316 af 31. marts 2007, § 30 i lov nr. 523 af 6. juni 2007 og af lov nr. 487 af 17. juni 2008.
+Herved bekendtgøres lov om statsgaranti for lån til yngre jordbrugere m.v., jf. lovbekendtgørelse nr. 856 af 25. august 2008, med de ændringer der følger af § 65 i lov nr. 1336 af 19. december 2008 og af lov nr. 95 af 10. februar 2009.

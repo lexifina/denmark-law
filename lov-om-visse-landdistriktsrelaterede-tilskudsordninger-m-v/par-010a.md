@@ -1,6 +1,6 @@
 § 10 a. Låntager kan ansøge om et tillægslån, jf. § 4a, hvis låntageren
 
-1) har erhvervet førstegangsetableringsbedriften, jf. § 5, efter den 8. december 2003,
+1) har erhvervet førstegangsetableringsbedriften, jf. §§ 5 og 5 a, efter den 8. december 2003,
 
 2) ikke har indgivet ansøgning om lån inden den 8. oktober 2004, og
 
@@ -8,7 +8,7 @@
 
 Stk. 2. Låntageren er ikke forpligtet til at ansøge om maksimalt lån.
 
-Stk. 3. Udmålingsgrundlaget ved ansøgninger om lån på grundlag af erhvervelse af førstegangsetableringsbedriften efter den 1. januar 2006 udgør det beløb for værdien af betalingsrettighederne, der er fastsat i adkomstdokumentet eller i et andet dokument udstedt i forbindelse med erhvervelsen af førstegangsetableringsbedriften. I udmålingsgrundlaget kan kun indgå betalingsrettigheder, der vedrører den erhvervede førstegangsetableringsbedrift,
+Stk. 3. Udmålingsgrundlaget ved ansøgninger om lån på grundlag af erhvervelse af førstegangsetableringsbedriften efter den 1. januar 2006 udgør det beløb for værdien af betalingsrettighederne, der er fastsat i adkomstdokumentet eller i et andet dokument udstedt i forbindelse med erhvervelsen af førstegangsetableringsbedriften. I udmålingsgrundlaget kan kun indgå betalingsrettigheder, der vedrører den erhvervede førstegangsetableringsbedrift.
 
 Stk. 4. Lånet udmåles med 90 pct. af det udmålingsgrundlag, der følger af stk. 3, jf. dog stk. 5 og 6.
 
