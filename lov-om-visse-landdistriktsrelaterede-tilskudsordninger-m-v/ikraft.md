@@ -10,12 +10,12 @@ Lov nr. 316 af 31. marts 2007 om udvikling af landdistrikterne (landdistriktslov
 
 Stk. 2. Ministeren kan i forbindelse med fastsættelse af regler i medfør af § 3 bestemme, at loven eller dele af loven har virkning fra og med den 1. januar 2007.
 
-Stk. 3. Ministeren kan i forbindelse med hel eller delvis ikraftsættelse af denne lov fastsætte regler om hel eller delvis ophævelse af kapitel 1,2, 4 og 5 i lov om støtte til udvikling af landdistrikterne (landdistriktsstøtteloven), jf. lovbekendtgørelse nr. 1015 af 9. oktober 2006.
+Stk. 3. Ministeren kan i forbindelse med hel eller delvis ikraftsættelse af denne lov fastsætte regler om hel eller delvis ophævelse af kapitel 1, 2, 4 og 5 i lov om støtte til udvikling af landdistrikterne (landdistriktsstøtteloven), jf. lovbekendtgørelse nr. 1015 af 9. oktober 2006.
 
 § 17. Tilskud bevilget på grundlag af ansøgninger indgivet inden tidspunktet for lovens ikrafttræden behandles efter de hidtil gældende regler.
 
-Lov nr. 487 af 17. juni 2008 om ændring af lov om statsgaranti for lån til yngre jordbrugere (Forhøjelse af udmålingsgrundlag for statsgaranti, bemyndigelse til fastsættelse af satsen for risikopræmie m.v.) indeholder følgende ikrafttrædelsesbestemmelser:
+Lov nr. 95 af 10. februar 2009 om ændring af lov om statsgaranti for lån til yngre jordbrugere m.v. (Mulighed for at yde lån til interessentskaber og ændring af indholdet af præmien for statsgaranti m.v.) indeholder følgende ikrafttrædelsesbestemmelser:
 
 § 2
 
-Loven træder i kraft den 1. september 2008.
+Loven træder i kraft den 1. januar 2010.
