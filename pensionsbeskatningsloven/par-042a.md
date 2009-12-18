@@ -1,0 +1,1 @@
+§ 42 A. Ved hel eller delvis overførsel som nævnt i § 41 af en ordning til en nyoprettet ordning for samme person eller en ægtefælle efter udlodning i medfør af § 30, stk. 2, opretholdes aldersgrænserne for udbetaling. Tilsvarende gælder overførsel til en bestående ordning med samme aldersgrænse for udbetaling.
