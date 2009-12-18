@@ -1,0 +1,1 @@
+§ 25 a. Værker, der indgår i uddrag, der er givet adgang til efter § 90, stk. 3, i lov om radio- og fjernsynsvirksomhed samt regler udstedt i medfør af § 90, stk. 5, i samme lov, må gengives i overensstemmelse med § 90, stk. 4, i lov om radio- og fjernsynsvirksomhed samt regler udstedt i medfør af § 90, stk. 5, i samme lov.
