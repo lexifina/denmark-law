@@ -24,12 +24,6 @@ Lov nr. 145 af 25. marts 2002 om ændring af forskellige love som følge af samm
 
 Loven træder i kraft den 1. januar 2003.
 
-Lov nr. 1151 af 17. december 2003 om ændring af lov om vandforsyning m.v., lov om miljøbeskyttelse, lov om forurenet jord og lov om planlægning (Ændringer som følge af lov om miljømål m.v. for vandforekomster og internationale naturbeskyttelsesområder), hvis § 3 angår § 18, stk. 1, indeholder følgende ikrafttrædelsesbestemmelse:
-
-§ 5
-
-Stk. 3. De ændringer, der følger af § 3, træder i kraft i de enkelte amter, når der er offentliggjort en vandplan, der gælder for amtet, efter lov om miljømål m.v. for vandforekomster og internationale naturbeskyttelsesområder, jf. dog stk. 4. Hvis en del af et amt endnu ikke er dækket af en vandplan, finder de hidtil gældende regler anvendelse for så vidt angår denne del.
-
 Lov nr. 355 af 19. maj 2004 om ændring af lov om forurenet jord (Kommunal udgiftsdækning og søgsmålsfrist), der angår § 76 a og § 87, stk. 1, 1. pkt., indeholder følgende ikrafttrædelses- og overgangsbestemmelser:
 
 § 2
@@ -115,3 +109,23 @@ Lov nr. 1587 af 20. december 2006 om ændring af lov om Arbejdsmarkedets Tillæg
 Stk. 1. Loven træder i kraft den 1. juli 2009, jf. dog stk. 6.
 
 Stk. 6. § 10, nr. 2, træder i kraft den 1. januar 2007.
+
+Lov nr. 507 af 17. juni 2008 om ændring af lov om miljøbeskyttelse og forskellige andre love (Implementering af miljøansvarsdirektivet), hvis § 2 angår fodnoten til lovens titel, § 21, stk. 1, § 38 a-j, overskriften til kapital 5, § 54, stk. 1, § 56 a, § 75, stk. 1, 2. pkt., § 77, stk. 1, nr. 2, § 83 og § 88 stk. 1 og 6, indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 15
+
+Stk. 1. Loven træder i kraft den 1. juli 2008, jf. dog stk. 3.
+
+Stk. 3. (Udeladt)
+
+Lov nr. 508 af 17. juni 2008 om ændring af lov om naturbeskyttelse, lov om jagt og vildtforvaltning og forskellige andre love (Gennemførelse af direktiver om naturbeskyttelse), hvis § 7 angår § 62 a, indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 16
+
+Loven træder i kraft den 1. juli 2008.
+
+Lov nr. 514 af 12. juni 2009 om ændring af lov om naturbeskyttelse, lov om jagt og vildtforvaltning og forskellige andre love (Beskyttelse af visse dyrearter m.v.), hvis § 12 angår fodnote 1 til lovens titel, indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 13
+
+Loven træder i kraft den 1. oktober 2009.
