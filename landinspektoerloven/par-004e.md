@@ -1,0 +1,1 @@
+§ 4 e. Miljøministeren fastsætter, i det omfang det er nødvendigt for at opfylde Danmarks EU-retlige forpligtelser, regler om, hvilke oplysninger praktiserende landinspektører, landinspektørselskaber og personer og selskaber, der er omfattet af § 4, stk. 2, skal give til deres klienter om deres virksomhed.
