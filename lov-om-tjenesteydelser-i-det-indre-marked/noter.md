@@ -1,0 +1,1 @@
+1) Loven indeholder bestemmelser, der gennemfører dele af Europa-Parlamentets og Rådets direktiv nr. 2006/123/EF af 12. december 2006 om tjenesteydelser i det indre marked (EU-Tidende 2006 nr. L 376 af den 27. december 2006, s. 36).
