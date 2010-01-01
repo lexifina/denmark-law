@@ -1,1 +1,1 @@
-§ 45 j. Justitsministeren antager et antal advokater, der kan beskikkes efter § 45 e, stk. 2. Justitsministeren kan fastsætte nærmere regler om de pågældende advokater, herunder om vagtordninger, om vederlag for at stå til rådighed og om sikkerhedsmæssige spørgsmål.
+§ 45 j. Justitsministeren antager et antal advokater, der kan beskikkes efter § 45 e, stk. 2, 2. pkt. Justitsministeren kan fastsætte nærmere regler om de pågældende advokater, herunder om vagtordninger, om vederlag for at stå til rådighed og om sikkerhedsmæssige spørgsmål.

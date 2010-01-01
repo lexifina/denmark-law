@@ -18,7 +18,7 @@ Stk. 3. Fingeraftryk, der optages i medfør af stk. 1 eller 2, kan registreres i
 
 Stk. 4. Fingeraftryk, der modtages fra udenlandske udlændingemyndigheder i forbindelse med behandlingen af udlændingesager, kan registreres i det i stk. 3 nævnte edb-register.
 
-Stk. 5. Fingeraftryk, der i medfør af stk. 3 og 4 er registreret i det i stk. 3 nævnte edb-register, slettes 10 år efter optagelsen af fingeraftrykket i registret.
+Stk. 5. Fingeraftryk, der i medfør af stk. 3 og 4 er registreret i det i stk. 3 nævnte edb-register, slettes 10 år efter optagelsen af fingeraftrykket.
 
 Stk. 6. Fingeraftryk, der i medfør af stk. 3 og 4 er registreret i det i stk. 3 nævnte edb-register, kan til brug for identifikation af den pågældende udlænding manuelt eller elektronisk sammenholdes med fingeraftryk optaget efter retsplejelovens bestemmelser herom.
 
