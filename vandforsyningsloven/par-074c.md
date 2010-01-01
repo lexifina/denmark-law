@@ -1,0 +1,1 @@
+§ 74 c. Miljøministeren kan fastsætte regler om, at bestemte typer af sager skal behandles og afgøres samtidig med afgørelser efter anden relevant lovgivning. Miljøministeren kan herunder fastsætte regler om genoptagelse af sager, hvor tilladelse er meddelt.
