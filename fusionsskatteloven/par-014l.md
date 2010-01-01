@@ -1,0 +1,3 @@
+§ 14 l. Ved omdannelse af vandforsyningsselskaber henholdsvis spildevandsforsyningsselskaber omfattet af selskabsskattelovens § 1, stk. 1, nr. 2 h, til aktieselskaber, finder bestemmelserne i kapitel 1 bortset fra § 6 tilsvarende anvendelse. § 13 finder ligeledes tilsvarende anvendelse.
+
+Stk. 2. Underskud fra tidligere indkomstår kan uanset § 8, stk. 6, bringes til fradrag i det modtagende selskabs indkomstopgørelse efter ligningslovens § 15, hvis forsyningsselskabets aktiver og gæld som helhed overdrages til et af forsyningsselskabet ejet eller oprettet aktieselskab, hvori forsyningsselskabet ejer hele aktiekapitalen. Det er en betingelse, at aktieselskabet ikke tidligere har drevet erhvervsmæssig virksomhed.
