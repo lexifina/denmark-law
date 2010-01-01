@@ -1,0 +1,1 @@
+§ 5 b. Virksomheder, som ønsker at betale afgift efter § 1, stk. 1, nr. 2, eller stk. 2, nr. 2, skal fremlægge nødvendig dokumentation for, at varen opfylder betingelserne herfor. Er virksomheden ikke i stand til at fremlægge denne dokumentation, betales afgift efter henholdsvis § 1, stk. 1, nr. 1, eller stk. 2, nr. 1.
