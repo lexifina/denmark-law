@@ -1,4 +1,4 @@
-§ 14 k. Ved omdannelse af Danmarks Skibskreditfond, jf. selskabsskattelovens § 1, stk. 1, nr. 5 b, til aktieselskab i henhold til lov om et skibsfinansieringsinstitut, finder bestemmelserne i § 5, § 6, stk. 1, 3, 4 og 6, § 7, § 8, og § 10, stk. 2, tilsvarende anvendelse.
+§ 14 k. Ved omdannelse af Danmarks Skibskreditfond, jf. selskabsskattelovens § 1, stk. 1, nr. 5 b, til aktieselskab i henhold til lov om et skibsfinansieringsinstitut, finder bestemmelserne i § 5, § 6, stk. 2, 3 og 5, § 7 og § 8 tilsvarende anvendelse.
 
 Stk. 2. Underskud fra tidligere indkomstår kan uanset § 8, stk. 6, bringes til fradrag i det modtagende selskabs indkomstopgørelse efter ligningslovens § 15, og tab fra tidligere indkomstår kan uanset § 8, stk. 8, fremføres til fradrag i det modtagende selskab, hvis fondens aktiver og gæld som helhed overdrages til et aktieselskab, som ikke tidligere har drevet erhvervsmæssig virksomhed.
 
