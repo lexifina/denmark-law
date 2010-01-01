@@ -1,6 +1,6 @@
 § 10 a. Miljøministeren påser overholdelsen af denne lov og af de regler, der er fastsat med hjemmel i loven, jfr. dog stk. 2.
 
-Stk. 2. Kommunalbestyrelsen påser overholdelsen af de regler, der er fastsat med hjemmel i § 2, stk. 2, og § 3, jfr. § 1, stk. 1, nr. 3, og stk. 3.
+Stk. 2. Kommunalbestyrelsen påser overholdelsen af § 4 og af de regler, der er fastsat med hjemmel i § 2, stk. 2 og 3, og § 3, jf. § 1, stk. 1, nr. 3, og stk. 3
 
 Stk. 3. De i stk. 1 og 2 nævnte myndigheder påser, at påbud og forbud efter denne lov efterkommes, og at vilkår fastsat i tilladelser overholdes.
 
