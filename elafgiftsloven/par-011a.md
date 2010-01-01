@@ -1,4 +1,4 @@
-§ 11 a. Tilbagebetalingsbeløbet efter § 11, stk. 1, opgøres for den periode, som virksomheden anvender ved angivelsen af afgiftstilsvaret efter merværdiafgiftsloven. Tilbagebetalingsbeløbet for en periode omfatter afgiften efter nærværende lov af de af virksomheden i perioden modtagne leverancer af afgiftspligtig elektricitet og varme. Tilbagebetaling af afgiftsbeløbet kan dog omfatte flere perioder under ét.
+§ 11a. Tilbagebetalingsbeløbet efter § 11, stk. 1, opgøres for den periode, som virksomheden anvender ved angivelsen af afgiftstilsvaret efter merværdiafgiftsloven. Tilbagebetalingsbeløbet for en periode omfatter afgiften efter nærværende lov af de af virksomheden i perioden modtagne leverancer af afgiftspligtig elektricitet, kulde og varme. Tilbagebetaling af afgiftsbeløbet kan dog omfatte flere perioder under ét.
 
 Stk. 2. Opgørelsesperioden for tilbagebetalingsbeløb vedrørende leverancer, der både anvendes til formål, der er tilbagebetalingsberettigede efter loven, og til formål, der ikke er tilbagebetalingsberettigede, er dog kalenderåret, jf. stk. 3-5. For virksomheder, der ikke anvender kalenderåret som opgørelsesperiode, er perioden en 12-måneders-periode.
 
@@ -12,8 +12,8 @@ Stk. 6. Tilbagebetalingsbeløbet anføres på virksomhedens angivelser efter mer
 
 Stk. 7. Tilbagebetalingen sker ved, at virksomheden foretager modregning i sit afgiftstilsvar efter merværdiafgiftsloven. I det omfang tilbagebetalingen ikke kan ske ved modregning, udbetales beløbet til virksomheden efter reglerne i § 12 i lov om opkrævning af skatter og afgifter m.v.
 
-Stk. 8. Virksomheder, der leverer elektricitet og varme, skal mindst én gang årligt afgive de oplysninger, der er nødvendige ved opgørelsen af afgiften efter § 11, stk. 16. Skatteministeren kan fastsætte de nærmere regler herom.
+Stk. 8. Virksomheder, der leverer elektricitet, kulde og varme, skal mindst én gang årligt afgive de oplysninger, der er nødvendige ved opgørelsen af afgiften efter § 11, stk. 16. Skatteministeren kan fastsætte de nærmere regler herom.
 
-Stk. 9. 11) For virksomheder med et årligt energiforbrug inden for samme lokalitet på under 100.000 kWh elektricitet eller under 4.000 GJ varme, kan tilbagebetaling af afgift af elektricitet og kuldioxidafgift ske på baggrund af acontofakturering af afgift, før de leverancer af elektricitet eller varme, for hvilke der skal ske tilbagebetaling af afgift, har fundet sted. For andre virksomheder kan der ikke ske tilbagebetaling af afgift, før leverancen har fundet sted.
+Stk. 9. For virksomheder med et årligt energiforbrug inden for samme lokalitet på under 100.000 kWh elektricitet eller under 4.000 GJ varme kan tilbagebetaling af afgift af elektricitet og kuldioxidafgift ske på baggrund af acontofakturering af afgift, før de leverancer af elektricitet eller varme, for hvilke der skal ske tilbagebetaling af afgift, har fundet sted. For andre virksomheder kan der ikke ske tilbagebetaling af afgift, før leverancen har fundet sted.
 
 Stk. 10. Såfremt tilbagebetalingsbeløbet opgøres på baggrund af fakturaer og lignende fra andre end registrerede virksomheder, kan told- og skatteforvaltningen bestemme, at der kun kan medtages fakturaer og lignende, hvor afgiften er forfaldet, jf. § 2, stk. 4, i lov om opkrævning af skatter og afgifter m.v.
