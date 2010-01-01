@@ -10,13 +10,15 @@
 
 5) handleplaner for kommunens realisering af vandplanen og Natura 2000-planen efter §§ 31 a og 46 a i lov om miljømål m.v. for vandforekomster og internationale naturbeskyttelsesområder (miljømålsloven),
 
-6) de i råstofplanen, jf. § 5 a i lov om råstoffer, fastsatte bestemmelser, der er relevante for planlægningen af arealanvendelsen inden for kommunens geografiske område,
+6) kommuneplanens sammenhæng med den kommunale risikostyringsplan, jf. kapitel 3 i lov om vurdering og styring af oversvømmelsesrisikoen fra vandløb og søer og bekendtgørelse om vurdering og risikostyring for oversvømmelser fra havet, fjorde eller andre dele af søterritoriet,
 
-7) den fremtidige udvikling i kystnærhedszonen og de tilgrænsende vandområder,
+7) de i råstofplanen, jf. § 5 a i lov om råstoffer, fastsatte bestemmelser, der er relevante for planlægningen af arealanvendelsen inden for kommunens geografiske område,
 
-8) kommuneplanens sammenhæng med kommuneplanlægningen i nabokommunerne og
+8) den fremtidige udvikling i kystnærhedszonen og de tilgrænsende vandområder,
 
-9) kommuneplanens sammenhæng med den statslige trafikplan og trafikselskabernes trafikplan for offentlig service.
+9) kommuneplanens sammenhæng med kommuneplanlægningen i nabokommunerne og
+
+10) kommuneplanens sammenhæng med den statslige trafikplan og trafikselskabernes trafikplan for offentlig service.
 
 Stk. 2. På et kortbilag til redegørelsen skal de eksisterende og planlagte forhold i kystnærhedszonen vises, herunder hvilke områder der friholdes for bebyggelse.
 
