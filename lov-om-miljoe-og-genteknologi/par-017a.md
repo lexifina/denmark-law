@@ -1,0 +1,3 @@
+§ 17 a. De oplysninger vedrørende indesluttet anvendelse af genetisk modificerede mikroorganismer, der er omfattet af artikel 18, stk. 2, jf. stk. 4, i Europa-Parlamentets og Rådets direktiv 2009/41/EF af 6. maj 2009 om indesluttet anvendelse af genetisk modificerede mikroorganismer, skal altid udleveres, hvis der anmodes om aktindsigt i sådanne oplysninger.
+
+Stk. 2. De oplysninger vedrørende udsætning i miljøet af genetisk modificerede organismer, der er omfattet af artikel 25, stk. 4, jf. stk. 5, i Europa-Parlamentets og Rådets direktiv 2001/18/EF af 12. marts 2001 om udsætning i miljøet af genetisk modificerede organismer og om ophævelse af Rådets direktiv 90/220/EØF, skal altid udleveres, hvis der anmodes om aktindsigt i sådanne oplysninger.
