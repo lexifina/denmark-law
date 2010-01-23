@@ -1,9 +1,5 @@
-Givet på Marselisborg Slot, den 27. december 1991
+Indenrigs- og Socialministeriet, den 21. januar 2010
 
-Under Vor Kongelige Hånd og Segl
+P.M.V. Christian Schønau
 
-MARGRETHE R.
-
-/Thor Pedersen
-
-Ingen
+/ Eva Pedersen
