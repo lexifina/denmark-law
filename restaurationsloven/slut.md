@@ -1,5 +1,5 @@
-Økonomi- og Erhvervsministeriet, den 9. august 2005
+Økonomi- og Erhvervsministeriet, den 18. januar 2010
 
-Bendt Bendtsen
+Lene Espersen
 
-/Victor Kjær
+/ Niels Henrik Englev

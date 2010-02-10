@@ -54,23 +54,19 @@ Loven træder i kraft den 1. juli 2004.
 
 § 3
 
-Personer, som ved lovens ikrafttræden havde ansættelse som dørmand i en restauration med alkoholbevilling, kan fortsætte hermed indtil den 1. januar 2006 uden at skulle have autorisation til at udøve hvervet i henhold til § 15 a.
+(Udeladt)
 
 Lov nr. 487 af 9. juni 2004 indeholder følgende ikrafttrædelsesbestemmelse:
 
 § 2
 
-Ikrafttrædelsesbestemmelser m.v.
+Stk. 1. Loven træder i kraft den 1. juli 2005.
 
-Stk. 1. Loven træder i kraft den 1. juli 2005 .
+Stk. 2. Økonomi- og erhvervsministeren kan dog bestemme, at dele af loven træder i kraft på et tidligere tidspunkt. Stk. 3. Personer og selskaber m.v. (juridiske personer), der ved lovens ikrafttræden har næringsbrev, skal dog ikke opfylde kravet om prøve i § 3, stk. 1, nr. 4, og § 4, stk. 1, 2. pkt. Tilsvarende gælder personer, der ved lovens ikrafttræden er godkendt som bestyrere af et bestemt forretningssted.
 
-Stk. 2. Økonomi- og erhvervsministeren kan dog bestemme, at dele af loven træder i kraft på et tidligere tidspunkt.
+Stk. 4. Personer og selskaber m.v. (juridiske personer), der ved lovens ikrafttræden har næringsbrev til et forretningssted, skal for hvert forretningssted betale 500 kr. for optagelse i det i § 6 b omhandlede register.
 
-Stk. 3. Personer og selskaber m.v. (juridiske personer), der ved lovens ikrafttræden har næringsbrev, skal dog ikke opfylde kravet om prøve i § 3, stk. 1, nr. 4, og § 4, stk. 1, 2. pkt. Tilsvarende gælder personer, der ved lovens ikrafttræden er godkendt som bestyrere af et bestemt forretningssted.
-
-Stk. 4. Personer og selskaber m.v. (juridiske personer), der ved lovens ikrafttræden har næringsbrev til et forretningssted, skal for hvert forretningssted betale 500 kr. for optagelse i det i § 6 b omhandlede register .
-
-Stk. 5. Den i § 7, stk. 1, 5. pkt., nævnte bortfaldsgrund finder ikke anvendelse for selskaber, der allerede havde næringsbrev ved lovens ikrafttræden .
+Stk. 5. Den i § 7, stk. 1, 5. pkt., nævnte bortfaldsgrund finder ikke anvendelse for selskaber, der allerede havde næringsbrev ved lovens ikrafttræden.
 
 Stk. 6. Økonomi- og erhvervsministeren fremsætter forslag om revision af de i loven indeholdte bestemmelser i folketingsåret 2008-09.
 
@@ -81,3 +77,41 @@ Lov nr. 606 af 24. juni 2005 indeholder følgende ikrafttrædelsesbestemmelse:
 Loven træder i kraft den 1. juli 2005.
 
 Stk. 2 og 3. (Udeladt)
+
+Lov nr. 408 af 8. maj 2006 indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 13
+
+Loven træder i kraft den 1. juli 2006.
+
+Lov nr. 538 af 8. juni 2006 indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 105
+
+Stk.1. Loven træder i kraft den 1. januar 2007, jf. dog stk.2-22 og § 106.
+
+Stk. 2- 22. (Udeladt)
+
+Lov nr. 1549 af 20. december 2006 indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 4
+
+Stk. 1. (Udeladt)
+
+Stk. 2. Økonomi- og Erhvervsministeren fastsætter tidspunktet for ikrafttræden af lovens §§ 2 og 3 eller dele heraf.
+
+Stk. 3 og 4. (Udeladt)
+
+Lov nr. 391 af 25. maj 2009 indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 5
+
+Stk. 1. Loven træder i kraft den 1. juli 2009.
+
+Stk. 2. Næringsbreve udstedt efter lov om næringsbreve til visse fødevarevirksomheder eller lov om restaurations- og hotelvirksomhed m.v. er fremover gyldige næringsbreve i henhold til lov om næringsbrev til visse fødevarevirksomheder.
+
+Lov nr. 1275 af 16. december 2009 indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 2
+
+Loven træder i kraft den 1. januar 2010.
