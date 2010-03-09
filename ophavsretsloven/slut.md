@@ -1,5 +1,5 @@
-Kulturministeriet, den 20. juni 2008
+Kulturministeriet, den 27. februar 2010
 
-Brian Mikkelsen
+Per Stig Møller
 
 / Bente Skovgaard Kristensen
