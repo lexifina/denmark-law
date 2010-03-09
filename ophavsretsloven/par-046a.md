@@ -1,0 +1,1 @@
+§ 46 a. Kulturministeren kan yde rettighedshaverne kompensation for forskellen mellem provenuet for salg af blanke dvd’er i et bestemt år og for provenuet for salg af blanke dvd’er i 2005, i det omfang førstnævnte provenu er mindre i 2005.
