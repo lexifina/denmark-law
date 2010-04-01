@@ -1,11 +1,5 @@
-§ 9 a. Den, der her til landet sælger afgiftspligtige varer fra andre EU-lande ved fjernsalg, jf. stk. 2, skal registreres efter § 7. Såfremt virksomheden ikke har filial eller lignende her i landet, skal den registreres ved en person, der er bosiddende her i landet, eller ved en virksomhed, der har forretningssted her i landet, og stille fuld sikkerhed for skyldige afgifter.
+§ 9 a. Afgiftsoplag er ethvert sted, hvor en autoriseret oplagshaver som led i udøvelsen af sit erhverv fremstiller, forarbejder, oplægger, modtager eller afsender varer under afgiftssuspensionsordningen.
 
-Stk. 2. Ved fjernsalg forstås salg af varer, hvor varerne direkte eller indirekte forsendes eller transporteres af sælgeren eller på dennes vegne til en privat køber i bestemmelseslandet.
+Stk. 2. Det er en betingelse for at opnå autorisation som oplagshaver her i landet, at told- og skatteforvaltningen forinden har godkendt lokalerne, som virksomheden vil benytte til fremstilling, behandling, aftapning, opbevaring og udlevering af afgiftspligtige ubeskattede varer. Skatteministeren kan fastsætte de nærmere regler for administrationen efter 1. pkt.
 
-Stk. 3. Virksomheder, der sælger afgiftspligtige varer til andre EU-lande ved fjernsalg, skal over for told- og skatteforvaltningen dokumentere, at der inden varernes afsendelse er stillet sikkerhed for betaling af punktafgifterne over for de kompetente myndigheder i bestemmelseslandet.
-
-Stk. 4. Virksomheder, der er registreret i et andet EU-land, og som leverer afgiftspligtige varer her til landet, kan udnævne en repræsentant her i landet til at forestå varernes afgiftsberigtigelse. Repræsentanten skal være en person, der er bosiddende her i landet, eller en virksomhed, der har forretningssted her i landet. Repræsentanten skal registreres hos told- og skatteforvaltningen og stille sikkerhed for skyldige afgifter.
-
-Stk. 5. Told- og skatteforvaltningen kan, såfremt sælgeren ikke er registreret efter stk. 1, tilbageholde varer omfattet af stk. 2, indtil afgiften er betalt
-
-Stk. 6. Skatteministeren kan fastsætte regler om sikkerhedsstillelse og om den i stk. 5 nævnte tilbageholdelse af varer.
+Stk. 3. Told- og skatteforvaltningen kan tilbagekalde en virksomheds autorisation og en godkendelse af lokaler, hvis lokalerne anvendes eller indrettes på en sådan måde, at told- og skatteforvaltningens kontrol efter § 27 ikke kan udføres på rimelig måde.
