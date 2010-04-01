@@ -1,0 +1,1 @@
+§ 27 c. Told- og skatteforvaltningen kan pålægge ejeren af en virksomhed eller den ansvarlige daglige ledelse heraf daglige bøder for manglende efterlevelse af påbud, som kan gives efter § 20, stk. 11 og 12. De daglige bøder skal udgøre mindst 1.000 kr. pr. dag.
