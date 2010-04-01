@@ -1,3 +1,33 @@
-§ 20 a. Virksomheder m.v., der leverer varer til eller modtager varer fra andre EU-lande, skal udarbejde lister over sådanne leverancer m.v. med henvisning til det i § 20, stk. 4, nævnte dokument.
+## Transport af varer under afgiftssuspensionsordningen inden for EU
 
-Stk. 2. Skatteministeren fastsætter de nærmere regler for udarbejdelse og indsendelse af lister efter stk. 1.
+§ 20 a. Der kan inden for EU’s område ske transport af varer under afgiftssuspensionsordningen, herunder gennem steder uden for EU eller gennem visse områder, der ikke er omfattet af EU’s afgiftsområde. 1. pkt. omfatter transport fra et afgiftsoplag eller fra et indførselssted, hvorfra varerne er overgået til fri omsætning i EU’s toldområde, til
+
+1) et andet afgiftsoplag,
+
+2) en midlertidigt registreret varemodtager eller en registreret varemodtager i et andet EU-land,
+
+3) et sted, hvor de afgiftspligtige varer forlader EU’s område,
+
+4) en modtager, der her i landet er fritaget for afgift af varer efter § 15, stk. 1, nr. 4 eller 5, når varerne transporteres fra et andet EU-land, eller til en modtager, der i et andet EU-land er fritaget for afgift af varer på et tilsvarende grundlag, når varerne transporteres her fra landet, eller
+
+5) et direkte leveringssted i et EU-land, som en autoriseret oplagshaver eller en registreret varemodtager i det pågældende land har godkendt og udpeget over for landets myndigheder.
+
+Stk. 2. Stk. 1 finder også anvendelse på transport af
+
+1) varer, der er afgiftsfritaget eller ikke er afgiftsafregnet her i landet, idet varerne er under afgiftssuspensionsordningen, og som ikke er overgået til forbrug her i landet eller i et andet EU-land, eller
+
+2) varer, der er omfattet af nulsats i et andet EU-land, og som ikke er overgået til forbrug her i landet eller i et andet EU-land.
+
+Stk. 3. Transport af varer, jf. stk. 1, begynder,
+
+1) når varerne forlader det afgiftsoplag, hvorfra de skal afsendes, eller
+
+2) når varerne overgår til fri omsætning fra et indførselssted i EU’s toldområde.
+
+Stk. 4. Transport af varer, jf. stk. 1, ophører,
+
+1) når modtageren har fået leveret varerne efter stk. 1, nr. 1, 2, 4 eller 5, eller
+
+2) når varerne har forladt EU’s område efter stk. 1, nr. 3.
+
+Stk. 5. Skatteministeren kan fastsætte de nærmere regler for de administrative procedurer, som virksomheder og personer skal anvende ved transport af varer under afgiftssuspensionsordningen inden for EU.

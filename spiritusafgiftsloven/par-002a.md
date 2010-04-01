@@ -1,3 +1,19 @@
 ## Afgiftspligtens indtræden
 
-§ 2 a. Der betales afgift her i landet ved overgangen til forbrug, dvs. når varerne forlader en ordning under suspension af afgiften, eller ved modtagelsen, når varer fra andre EU-lande erhverves af virksomheder og personer, der ikke er berettiget til at oplægge varerne uden afgiftsberigtigelse, jf. §§ 7 og 8. Der betales ligeledes afgift ved indførsel af varer fra steder uden for EU, jf. § 18, stk. 1.
+§ 2 a. Der betales afgift her i landet ved varernes overgang til forbrug, hvorved forstås,
+
+1) når varer forlader afgiftssuspensionsordningen,
+
+2) ved modtagelsen, når varer fra andre EU-lande erhverves af virksomheder eller personer, der ikke er berettiget til at oplægge varerne uden afgiftsberigtigelse,
+
+3) når der fremstilles varer uden for afgiftssuspensionsordningen, eller
+
+4) når varer indføres her i landet fra steder uden for EU, jf. § 18, medmindre de pågældende varer umiddelbart efter indførslen henføres under afgiftssuspensionsordningen.
+
+Stk. 2. Varer anses tillige for overgået til forbrug her i landet ved uregelmæssige transaktioner med de pågældende varer efter stk. 1, nr. 1 og nr. 3 og 4, jf. § 33 b.
+
+Stk. 3. Varer, der under afgiftssuspensionsordningen transporteres fra et afgiftsoplag, anses for overgået til forbrug her i landet på tidspunktet for modtagelsen af varerne, når varetransporten sker til
+
+1) en modtager, der er fritaget for afgift af varer efter § 15, stk. 1, nr. 4 eller 5, eller
+
+2) et direkte leveringssted her i landet, som den her i landet autoriserede oplagshaver efter § 7, stk. 1-3, har godkendt og udpeget over for told- og skatteforvaltningen.
