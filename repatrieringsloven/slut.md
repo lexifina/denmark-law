@@ -1,5 +1,5 @@
-Ministeriet for Flygtninge, Indvandrere og Integration, den 5. januar 2006
+Ministeriet for Flygtninge, Indvandrere og Integration, den 6. april 2010
 
-Rikke Hvilshøj
+Birthe Rønn Hornbech
 
-/Susanne S. Clausen
+/ Nina Svanborg

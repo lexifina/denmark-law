@@ -24,7 +24,7 @@ Lov nr. 1043 af 17. december 2002 indeholder følgende ikrafttrædelsesbestemmel
 
 § 6
 
-Stk. 1. Loven træder i kraft den 1. januar 2003, jf. dog stk. 2 og 3. )
+Stk. 1. Loven træder i kraft den 1. januar 2003, jf. dog stk. 2 og 3.
 
 Stk. 2. (Udeladt)
 
@@ -87,3 +87,23 @@ Stk. 2. Loven har virkning for personer, som bevidst unddrager sig strafforfølg
 Stk. 3. (Udeladt)
 
 Stk. 4. (Udeladt)
+
+Lov nr. 404 af 8. maj 2006 indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 23
+
+Stk. 1. (Udeladt)
+
+Stk. 2. §§ 2-6, § 7, nr. 2, §§ 8-13, § 17, nr. 24, §§ 18-21 og § 22, nr. 1, 2 og 4, træder i kraft den 1. juni 2006.
+
+Lov nr. 248 af 23. marts 2010 indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 2
+
+Stk. 1. Loven træder i kraft dagen efter bekendtgørelse i Lovtidende.
+
+Stk. 2. Repatrieringslovens § 3, stk. 4, § 7, stk. 2, nr. 4, § 7, stk. 3, § 7, stk. 7, § 10, stk. 1, nr. 4, § 10, stk. 3, og § 10, stk. 6, som affattet, indsat eller ændret ved denne lovs § 1, nr. 1, 2, 3, 5, 7, 8 og 9, finder anvendelse på ansøgninger om hjælp til repatriering efter lovens § 3 og ansøgninger om reintegrationsbistand efter lovens § 10, hvis repatriering finder sted den 1. januar 2010 eller senere. Dette gælder, uanset om kommunalbestyrelsen har truffet afgørelse efter de hidtil gældende regler, jf. lovbekendtgørelse nr. 4 af 5. januar 2006, som ændret ved § 12 i lov nr. 404 af 8. maj 2006.
+
+Stk. 3. Repatrieringslovens § 13, stk. 1, som ændret ved denne lovs § 1, nr. 10, finder anvendelse for kommunale udgifter afholdt fra og med regnskabsåret 2010.
+
+Stk. 4. Ministeren for flygtninge, indvandrere og integration fremsætter forslag om revision af loven i folketingsåret 2013-14.
