@@ -1,17 +1,13 @@
-Ved Amsterdam-traktaten, som trådte i kraft den 1. maj 1999, er bilagsfortegnelsen til traktaten ændret, således at landbrugsvarerne er indeholdt i bilag I i stedet for bilag II.
+1) Ved Amsterdam-traktaten, som trådte i kraft den 1. maj 1999, er bilagsfortegnelsen til traktaten ændret, således at landbrugsvarerne er indeholdt i bilag I i stedet for bilag II.
 
-Ved kgl. resolution af 27. november 2001 er inddrivelsesopgaver vedrørende statens fordringer overført fra Finansministeriet (Finansstyrelsen, nu Økonomistyrelsen) til Skatteministeriet (Told- og Skattestyrelsen).
+2) Denne bekendtgørelse gengiver ikrafttrædelsesbestemmelserne i lov nr. 366 af 24. maj 2005, lov nr. 538 af 8. juni 2006, lov nr. 110 af 26. februar 2008, lov nr. 1336 af 19. december 2008 og lov nr. 1513 af 27. december 2009. De bemærkninger om ikrafttrædelses- og overgangsbestemmelser for de tidligere ændringer af loven, der fremgår af lovbekendtgørelse nr. 297 af 28. april 2004, samt de ændringer, der fremgår af lov nr. 430 af 6. juni 2005 og lov nr. 431 af 6. juni 2005, er ikke gengivet i denne bekendtgørelse.
 
-Lov nr. 380 trådte i kraft den 7. juni 1991.
+3) Lovændringen vedrører § 25.
 
-Lov nr. 265 trådte i kraft den 9. maj 1993.
+4) Lovændringen vedrører § 29.
 
-Lov nr. 290 trådte i kraft den 29. april 1994.
+5) Lovændringen vedrører § 4 a.
 
-Lov nr. 399 blev sat i kraft den 1. januar 1996 ved bekendtgørelse nr. 921 af den 6. december 1995.
+6) Lovændringen vedrører §§ 21, 31 a og 31 b.
 
-Lov nr. 349 blev sat i kraft den 1. juli 1999 ved bekendtgørelse nr. 506 af den 23. juni 1999.
-
-§ 1, nr. 1, i lov nr. 1267 af 20. december 2000 trådte i kraft den 22. december 2000.
-
-Lov nr. 334 af 16. maj 2001 blev sat i kraft den 8. november 2001 ved bekendtgørelse nr. 963 af 6. november 2001
+7) Lovændringen vedrører ændring af lovens titel samt §§ 1, 2, 6, 8, 9 og 22.
