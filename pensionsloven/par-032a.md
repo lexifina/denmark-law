@@ -18,7 +18,7 @@ Stk. 2. Beskæftigelsesministeren fastsætter regler for, hvorledes indkomster e
 
 Stk. 3. I indtægtsgrundlaget efter stk. 1 og 2 foretages følgende fradrag:
 
-1) Fradrag for skattepligtig social pension og fradrag for skattepligtig pension udbetalt efter lovgivningen i en anden EU/EØS-medlemsstat og omfattet af og beregnet efter forordning nr. 1408/71 samt for pension udbetalt efter lovgivningen i et land, med hvilket der er indgået overenskomst om samordning af pension. Beskæftigelsesministeren fastsætter regler for, hvorledes fradrag for pensioner som nævnt i 1. pkt., der ikke er skattepligtige her i landet, skal fradrages.
+1) Fradrag for skattepligtig social pension og fradrag for skattepligtig pension udbetalt efter lovgivningen i en anden EU/EØS-medlemsstat og omfattet af og beregnet efter forordning (EF) nr. 883/04 om koordinering af de sociale sikringsordninger samt for pension udbetalt efter lovgivningen i et land, med hvilket der er indgået overenskomst om samordning af pension. Beskæftigelsesministeren fastsætter regler for, hvorledes fradrag for pensioner som nævnt i 1. pkt., der ikke er skattepligtige her i landet, skal fradrages.
 
 2) Fradrag for ophørsstøtte efter lov om ophørsstøtte til jordbrugere og lov om ophørsstøtte til erhvervsfiskere.
 
