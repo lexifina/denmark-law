@@ -1,7 +1,1 @@
-§ 17 l. Den enkelte kontohaver kan vælge at placere indeståendet på sin investeringskonto i investeringspuljer, jf. § 17 k, stk. 1, og § 17 m, stk. 1. Den enkelte kontohaver kan vælge første gang, når den første kontooversigt vedrørende Særlig Pensionsopsparing er modtaget.
-
-Stk. 2. Kontohaverens valg foretages som en fordeling af indeståendet på kontoen mellem de ønskede investeringspuljer. Arbejdsmarkedets Tillægspension kan beslutte at indrette SP-valg således, at kontohaveren kan vælge, hvordan fremtidige bidrag skal fordeles, uden at ændre fordelingen for det eksisterende indestående. Hvis kontohaveren ikke har valgt en særskilt fordeling for fremtidige bidrag, anvendes den senest valgte fordeling efter 1. pkt. tillige, når der efterfølgende godskrives beløb på den særskilte SP-konto.
-
-Stk. 3. Beskæftigelsesministeren kan efter indstilling fra Arbejdsmarkedets Tillægspension fastsætte nærmere regler for valg af investeringspuljer i SP-valg, herunder minimumskrav til indestående på investeringskontoen, som en forudsætning for at kunne vælge samt et maksimum for antallet af investeringspuljer, en kontohaver kan vælge.
-
-Stk. 4. Når Arbejdsmarkedets Tillægspension hæver beløb på kontohaverens konto til betaling af pensionsafkastskat, administrations- og handelsomkostninger og udbetaling af pension, reduceres andelen i de enkelte investeringspuljer forholdsmæssigt, medmindre der er tilstrækkelige midler til dækning heraf på kontantkontoen.
+§ 17 l. (Ophævet)

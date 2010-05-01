@@ -1,9 +1,3 @@
 ## Udbetaling
 
-§ 17 i. Ved dødsfald udbetaler Arbejdsmarkedets Tillægspension det på den særskilte SP-konto indestående beløb til dødsboet. Er SP-kontoen flyttet til et andet pensionsinstitut, jf. § 17 n, udbetales indestående beløb på kontantkontoen dog ikke, men kontantkontoen opgøres, og beløbet overføres til SP-kontoen i det andet pensionsinstitut.
-
-Stk. 2. Opkrævet pensionsopsparing efter § 17 f, stk. 1, vedrørende det år, hvori dødsfaldet har fundet sted, udbetales ved de statslige told- og skattemyndigheders foranstaltning til dødsboet på grundlag af boets dokumentation af størrelsen af de opkrævede beløb. Opkrævet pensionsopsparing efter § 17 f, stk. 1, vedrørende året før dødsfaldet udbetales ved de statslige told- og skattemyndigheders foranstaltning, hvis dødsfaldet er registreret senest den 1. september i dødsåret. Såfremt afdødes årsopgørelse vedrørende året før dødsfaldet ikke foreligger på tidspunktet for registrering af dødsfaldet, udbetales opkrævet pensionsopsparing dog ved de statslige told- og skattemyndigheders foranstaltning uanset tidspunktet for registrering af dødsfaldet.
-
-Stk. 3. Opkrævet pensionsopsparing efter § 17 f, stk. 3, vedrørende det år, hvori dødsfaldet har fundet sted, kan udbetales til dødsboet fra Arbejdsmarkedets Tillægspension på grundlag af boets dokumentation af størrelsen af de opkrævede beløb. Opkrævet pensionsopsparing efter § 17 f, stk. 3, vedrørende året før dødsfaldet udbetales af Arbejdsmarkedets Tillægspension på grundlag af boets dokumentation eller på grundlag af indberetninger fra kommuner eller arbejdsløshedskasser, hvis dødsfaldet sker før den 1. november.
-
-Stk. 4. Beskæftigelsesministeren kan efter forhandling med skatteministeren og efter indstilling fra Arbejdsmarkedets Tillægspension fastsætte nærmere regler for udbetaling ved dødsfald, jf. stk. 1-3. Boets krav på indeståendet forældes 5 år efter kontohavers død. Beløb, der herefter er forældede, tilgår midlerne i reguleringspuljen, jf. § 17 p, stk. 1.
+§ 17 i. (Ophævet)
