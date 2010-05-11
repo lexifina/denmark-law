@@ -80,7 +80,7 @@ Stk. 3. Kulturministeren fastsætter tidspunktet for ikrafttræden af lovens § 
 
 De regionale TV 2-virksomheder kan fortsat udøve anden virksomhed, der er etableret på tidspunktet for lovens ikrafttræden efter den hidtil gældende § 33, stk. 2 og 3, i lov om radio- og fjernsynsvirksomhed. Sådan virksomhed, der efter § 33, stk. 2 og 3, som affattet ved § 1, nr. 11 og 12, i denne lov, ikke må udøves, skal dog være afviklet senest den 1. januar 2011.
 
-Lov nr. 1336 af 19. december 2008 om ændring af kildeskatteloven, opkrævningslven, udpantningsloven og forskellige andre love indeholder følgende bestemmelse:
+Lov nr. 1336 af 19. december 2008 om ændring af kildeskatteloven, opkrævningsloven, udpantningsloven og forskellige andre love indeholder følgende bestemmelse:
 
 § 167
 
@@ -111,3 +111,13 @@ Stk. 1. Loven træder i kraft den 1. juni 2009, jf. dog stk. 2.
 Stk. 2. Lovens § 1, nr. 1, 2, 3, 19 og 21, træder i kraft den 1. november 2009.
 
 Stk. 3. Tilskud i henhold til tilsagn afgivet af Radio- og tv-nævnet før lovens ikrafttræden kan fortsat udbetales.
+
+Lov nr. 1269 af 16. december 2009 om ændring af lov om radio- og fjernsynsvirksomhed og lov om ophavsret (Gennemførelse af direktivet om audiovisuelle medietjenester m.v.) indeholder følgende bestemmelser:
+
+§ 3
+
+Stk. 1. Loven træder i kraft den 18. december 2009.
+
+Stk. 2. § 90, stk. 3, i lov om radio- og fjernsynsvirksomhed som affattet ved denne lovs § 1, nr. 32, finder alene anvendelse på eneretstransmissioner, hvorom der er indgået eller forlænget aftale efter lovens ikrafttræden.
+
+Stk. 3. Foretagender, der på tidspunktet for lovens ikrafttræden udøver programvirksomhed ved hjælp af satellit, fællesantenneanlæg, jordbaserede digitale tv-sendemuligheder, kortbølgesendemuligheder eller øvrige elektroniske kommunikationsnet, og som hører under dansk myndighed, jf. § 47, stk. 1, 1. pkt., i lov om radio- og fjernsynsvirksomhed som affattet ved denne lovs § 1, nr. 18, og som ikke allerede er registreret hos Radio- og tv-nævnet, skal lade sig registrere hos nævnet senest den 1. februar 2010.
