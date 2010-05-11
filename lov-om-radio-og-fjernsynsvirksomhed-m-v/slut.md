@@ -1,5 +1,5 @@
-Kulturministeriet, den 26. august 2009
+Kulturministeriet, den 6. maj 2010
 
-Carina Christensen
+Per Stig Møller
 
-/ Lars M. Banke
+/ Lars Banke
