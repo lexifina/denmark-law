@@ -1,5 +1,5 @@
-Finansministeriet, den 17. september 1998
+Finansministeriet, den 6. maj 2010
 
-Mogens Lykketoft
+Claus Hjort Frederiksen
 
-/Birgitte Nielsen
+/ Grete Pihl
