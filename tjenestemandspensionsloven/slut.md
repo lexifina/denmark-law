@@ -1,5 +1,5 @@
-Finansministeriet, den 19. marts 2004
+Finansministeriet, den 6. maj 2010
 
-Thor Pedersen
+Claus Hjort Frederiksen
 
-/Grete Pihl
+/ Grete Pihl
