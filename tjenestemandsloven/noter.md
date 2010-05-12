@@ -1,1 +1,0 @@
-Loven indeholder bestemmelser, der gennemfører dele af Rådets direktiv 1999/70/ EF af 28. juni 1999 om rammeaftalen vedrørende tidsbegrænset ansættelse, der er indgået af EFS, Unice og CEEP (EF-Tidende 1999 nr. L 175, s. 43).
