@@ -1,0 +1,1 @@
+§ 5A. En bygherre, der som led i sit erhverv udfører byggeri, er erstatningsansvarlig efter dansk rets almindelige regler for tab som følge af, at byggeriet ikke udføres i overensstemmelse med bygningsreglementet.
