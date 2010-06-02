@@ -1,4 +1,4 @@
-Kirkeministeriet, den 17. juni 2009
+Kirkeministeriet, den 31. maj 2010
 
 Birthe Rønn Hornbech
 
