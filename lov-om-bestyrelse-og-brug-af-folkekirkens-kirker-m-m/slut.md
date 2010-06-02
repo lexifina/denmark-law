@@ -1,5 +1,5 @@
-Kirkeministeriet, den 3. januar 2007
+Kirkeministeriet, den 27. maj 2010
 
-Bertel Haarder
+Birthe Rønn Hornbech
 
-/Lise Marianne Hjort
+/ Eva Stilov
