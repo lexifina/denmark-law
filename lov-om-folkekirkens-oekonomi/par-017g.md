@@ -9,3 +9,5 @@ Stk. 4. Udgifter til samarbejde, jf. § 43 a i lov om menighedsråd, udredes af 
 Stk. 5. Udgifter til provstiudvalgsmedlemmers deltagelse i kurser m.v., der må anses af betydning for udøvelsen af hvervet som provstiudvalgsmedlem, afholdes af provstiudvalgskassen. Der vil endvidere efter kirkeministerens bestemmelse af provstiudvalgskassen kunne ydes valgte provstiudvalgsmedlemmer erstatning for dokumenteret tabt arbejdsfortjeneste i forbindelse med deltagelse i sådanne kurser m.v.
 
 Stk. 6. Udgifter til budgetudvalgets virksomhed afholdes af de deltagende provstiudvalg.
+
+Stk. 7. Tilskud til krematoriedrift i og uden for provstiet kan ydes af provstiudvalgskassen efter kirkeministerens nærmere bestemmelse.
