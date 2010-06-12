@@ -1,0 +1,3 @@
+§ 46 a. Miljøministeren kan pålægge et vandforsyningsanlæg, der er omfattet af § 2, stk. 1, i lov om vandsektorens organisering og økonomiske forhold, midlertidigt at overtage driften af et andet vandforsyningsanlæg omfattet af § 2, stk. 1, i lov om vandsektorens organisering og økonomiske forhold, såfremt sidstnævnte vandforsyningsanlæg anmelder betalingsstandsning eller tages under konkursbehandling.
+
+Stk. 2. Ved et pålæg til et vandforsyningsanlæg om midlertidig overtagelse af driften af et andet vandforsyningsanlæg skal den overtagende forsyning i økonomisk henseende holdes skadesløs i alle forhold vedrørende overtagelsespligten, herunder for alle udgifter i øvrigt ved fremskaffelse og levering af vandet, jf. § 52 a.
