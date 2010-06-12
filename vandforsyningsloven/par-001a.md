@@ -1,0 +1,1 @@
+§ 1 a. Loven har til formål at sikre hensynet til princippet om omkostningsdækning, herunder miljømæssige og ressourcerelaterede omkostninger, og prissætning med tilskyndelsesvirkning. Derudover tages der hensyn til, at de forskellige vandanvendelsessektorer yder et passende bidrag, og til princippet om, at forurener betaler.

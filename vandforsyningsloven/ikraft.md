@@ -253,3 +253,25 @@ Lov nr. 514 af 12. juni 2009 om ændring af lov om naturbeskyttelse, lov om jagt
 § 13
 
 Loven træder i kraft den 1. oktober 2009.
+
+Lov nr. 1518 af 27. december 2009 om ændring af lov om vandsektorens organisering og økonomiske forhold og forskellige andre love (Udskydelse af prisloftreguleringen til 2011 m.v.), som ændrer § 52 a, indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 5
+
+Stk. 1. Loven træder i kraft den 1. januar 2010, jf. dog stk. 2.
+
+Stk. 2. § 52 a, stk. 1, i lov om vandforsyning m.v. som affattet ved denne lovs § 3, nr. 1, og § 1, stk. 2, der bliver stk. 4, i lov om betalingsregler for spildevand m.v. som ændret ved denne lovs § 4, nr. 3, træder i kraft den 1. januar 2011.6
+
+Lov nr. 1519 af 27. december 2009 om ændring af lov om vandforsyning m.v., lov om miljøbeskyttelse, lov om naturbeskyttelse og lov om vandløb (Hjemmel til at fastsætte regler om drift af vandforsyningsanlæg og om sagsbehandling af bestemte typer af sager samt forlængelse af visse vandindvindingstilladelser og -rettigheder), som ændrer § 22, stk. 1, og § 86, stk. 2, og indsætter § 22, stk. 6, § 56 a og § 74 c, indeholder følgende ikrafttrædelses- og overgangsbestemmelser:
+
+§ 5
+
+Stk. 1. Loven træder i kraft den 1. januar 2010.
+
+Stk. 2. § 22, stk. 1, i lov om vandforsyning m.v. som affattet ved denne lovs § 1, nr. 1, finder anvendelse på tilladelser til vandindvinding, der meddeles efter lovens ikrafttræden.
+
+§ 6
+
+Stk. 1. Uanset de gældende bestemmelser i § 86, stk. 1 og 2, i lov om vandforsyning m.v. ophører rettigheder i medfør af disse bestemmelser, der efter den gældende bestemmelse i § 86, stk. 4, i lov om vandforsyning m.v. fortsat gælder den 1. januar 2010, først senest 1 år efter vedtagelsen af den første kommunale handleplan i medfør af miljømålsloven.
+
+Stk. 2. Tilladelse til vandindvinding meddelt efter kapitel 4 i lov om vandforsyning m.v., der er meddelt før den 1. januar 2010, og som udløber efter den 1. januar 2010, men inden vedtagelsen af den første kommunale handleplan i medfør af miljømålsloven, ophører først senest 1 år efter vedtagelsen af den kommunale handleplan. Dette gælder dog ikke tilladelser, der er påklaget til Miljøklagenævnet, og som ikke er afgjort den 1. januar 2010, samt tilladelser, der påklages efter dette tidspunkt.
