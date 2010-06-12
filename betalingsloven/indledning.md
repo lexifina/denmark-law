@@ -1,3 +1,3 @@
-Bekendtgørelse af lov om betalingsregler for spildevandsanlæg m.v.
+Bekendtgørelse af lov om betalingsregler for spildevandsforsyningsselskaber m.v.
 
-Herved bekendtgøres lov om betalingsregler for spildevandsanlæg m.v., jf. lovbekendtgørelse nr. 716 af 23. juni 2001, med de ændringer, der følger af § 23 i lov nr. 431 af 6. juni 2005, § 11 i lov nr. 564 af 24. juni 2005 og § 6 i lov nr. 1571 af 20. december 2006.
+Herved bekendtgøres lov om betalingsregler for spildevandsanlæg m.v., jf. lovbekendtgørelse nr. 281 af 22. marts 2007, med de ændringer, der følger af § 22 i lov nr. 1336 af 19. december 2008, § 3 i lov nr. 460 af 12. juni 2009 og § 4 i lov nr. 1518 af 27. december 2009.
