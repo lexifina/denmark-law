@@ -57,3 +57,27 @@ Lov nr. 1571 af 20. december 2006 om ændring af lov om miljøbeskyttelse, lov o
 § 23
 
 Loven træder i kraft den 1. januar 2007.
+
+Lov nr. 1336 af 19. december 2008 om ændring af lov kildeskatteloven, opkrævningsloven, udpantningsloven og forskellige andre love (Konsekvensændringer som følge af lov om inddrivelse af gæld til det offentlige), som ophæver § 10, stk. 1, 2. pkt., og stk. 2, indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 167
+
+Stk. 1. Loven træder i kraft den 1. januar 2009, jf. dog stk. 2. (…)
+
+Stk. 2. (Udeladt)
+
+Lov nr. 460 af 12. juni 2009 om ændring af lov om miljøbeskyttelse, lov om vandforsyning, lov om betalingsregler for spildevandsanlæg m.v. og forskellige andre love (Konsekvenser af lov om vandsektorens organisering og økonomiske forhold), som ophæver § 1, stk. 1 og 2, § 10, indsætter fodnote til lovens titel, § 1, stk. 1 -4 og 6, § 2, stk. 1, 3. pkt., § 2 a, stk. 3, § 3, stk. 1, 3. og 4. pkt., § 4 b, § 9, stk. 2, og ændrer lovens titel, § 1, stk. 3, § 2, stk. 1, 4 og 8, § 2 a, stk. 1 og 3-11, § 2 b, stk. 1-3, § 3, stk. 1-3, § 4, § 4 a, stk. 1, overskriften til § 5, § 5, stk. 1, 3 og 4, § 6, § 7 a, stk. 2, 3 og 5, § 7 b, stk. 1 og 2, indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 16
+
+Stk. 1. Loven træder i kraft den 1. januar 2010, jf. dog stk. 2.
+
+Stk. 2. § 5, nr. 2, og §§ 18, 19 og 20 træder i kraft den 1. juli 2009.
+
+Lov nr. 1518 af 27. december 2009 om ændring af lov om vandsektorens organisering og økonomiske forhold og forskellige andre love (Udskydelse af prisloftregulering til 2011 m.v.), som ophæver § 1, stk. 1, indsætter § 1, stk. 1-3, og ændrer § 1, stk. 2-3, § 2 b, stk. 2 og § 7 a, stk. 1, indeholder følgende ikrafttrædelsesbestemmelser:
+
+§ 5
+
+Stk. 1. Loven træder i kraft den 1. januar 2010, jf. dog stk. 2.
+
+Stk. 2. § 52 a, stk. 1, i lov om vandforsyning m.v. som affattet ved denne lovs § 3, nr. 1, og § 1, stk. 2, der bliver stk. 4, i lov om betalingsregler for spildevand m.v. som ændret ved denne lovs § 4, nr. 3, træder i kraft den 1. januar 2011. 2

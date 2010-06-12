@@ -1,5 +1,5 @@
-Miljøministeriet, den 22. marts 2007
+Miljøministeriet, den 7. juni 2010
 
-Connie Hedegaard
+Karen Ellemann
 
-/Ole Christiansen
+/ Niels Christensen
