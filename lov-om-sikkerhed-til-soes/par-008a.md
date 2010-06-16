@@ -1,0 +1,1 @@
+§ 8 a. Økonomi- og erhvervsministeren kan efter forhandling med forsvarsministeren fastsætte regler om overvågningen af danske farvande og skibes anløb af havne, herunder om pligt til at foretage indberetning til Søværnets Operative Kommando om de skibe, der besejler de i § 1, stk. 3, nævnte farvandsområder og havne, om de ombordværende og om skibenes last m.v.

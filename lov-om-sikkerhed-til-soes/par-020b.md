@@ -1,0 +1,1 @@
+§ 20 b. Søfartsstyrelsen varetager inden for rammerne af denne lov udstedelsen af foreskrevne certifikater og anden dokumentation efter lov om søfarendes ansættelsesforhold m.v. Søfartsstyrelsen kan fastsætte nærmere regler herom.
