@@ -7,3 +7,5 @@ Stk. 3. Stk. 1 finder ikke anvendelse, når et fritidsfartøj er fortøjet i hav
 Stk. 4. For spiritussejlads straffes endvidere den, som fører skib eller i øvrigt udfører arbejde om bord på et skib i en stilling af væsentlig betydning for sikkerheden efter at have indtaget spiritus eller andre rusmidler i et sådant omfang, at vedkommende er ude af stand til at udføre sin tjeneste på fuldt betryggende måde.
 
 Stk. 5. Stk. 1 finder tilsvarende anvendelse for et udenlandsk fritidsfartøj, såfremt der ville have været foreskrevet uddannelseskrav til fartøjets fører eller eventuelle styrmand, jf. stk. 2, 1. pkt., hvis fartøjet havde ført dansk flag.
+
+Stk. 6. Økonomi- og erhvervsministeren kan efter forhandling med Grønlands Selvstyre fastsætte regler om spiritussejlads i grønlandske farvande, som omfatter andre personer end dem, som er nævnt i stk. 1 og 4. Ministeren kan endvidere fastsætte, at stk. 2, stk. 3 og stk. 5 helt eller delvis ikke skal finde anvendelse i grønlandske farvande.
