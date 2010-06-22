@@ -1,3 +1,3 @@
 Bekendtgørelse af lov om begravelse og ligbrænding
 
-Herved bekendtgøres lov nr. 346 af 26. juni 1975 om begravelse og ligbrænding med de ændringer, der følger af lov nr. 502 af 17. juni af 2008.
+Herved bekendtgøres lov om begravelse og ligbrænding, jf. lovbekendtgørelse nr. 586 af 19. juni 2008 med de ændringer, der følger af § 1 i lov nr. 539 af 26. maj 2010.
