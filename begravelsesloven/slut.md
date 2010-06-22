@@ -1,5 +1,5 @@
-Kirkeministeriet, den 19. juni 2008
+Kirkeministeriet, den 16. juni 2010
 
 Birthe Rønn Hornbech
 
-/ Marjun Egholm
+/ Sofie Navntoft Pedersen
