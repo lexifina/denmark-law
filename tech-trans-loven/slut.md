@@ -1,7 +1,5 @@
-Givet på Christiansborg Slot, den 9. juni 2004
+Ministeriet for Videnskab, Teknologi og Udvikling, den 17. juni 2010
 
-Under Vor Kongelige Hånd og Segl
+Charlotte Sahl-Madsen
 
-MARGRETHE R.
-
-/Helge Sander
+/ Zacharias Balslev-Clausen
