@@ -26,7 +26,7 @@ Stk. 7. For at sikre studerendes indflydelse på ph.d.-forløbet nedsættes et p
 
 6) At godkende ansøgninger om merit og dispensation.
 
-7) At udtale sig inden for sit område om alle sager af betydning for ph.d.-uddannelse og – vejledning, som dekanen eller den, dekanen bemyndiger hertil, forelægger.
+7) At udtale sig inden for sit område om alle sager af betydning for ph.d.-uddannelse og -vejledning, som dekanen eller den, dekanen bemyndiger hertil, forelægger.
 
 Stk. 8. Ph.d.-udvalget består af repræsentanter for det videnskabelige personale og for de ph.d.-studerende, som vælges af og blandt henholdsvis det videnskabelige personale og de ph.d.-studerende.
 

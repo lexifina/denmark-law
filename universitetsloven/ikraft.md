@@ -49,3 +49,13 @@ Lov nr. 538 af 12. juni 2009 indeholder følgende ikrafttrædelsesbestemmelse:
 Stk. 1. Loven træder i kraft den 1. juli 2009, jf. dog stk. 2.
 
 Stk. 2. Ministeren for videnskab, teknologi og udvikling fastsætter tidspunktet for ikrafttræden af universitetslovens § 34 som ændret ved denne lovs § 1, nr. 11-13.
+
+Lov nr. 728 af 25. juni 2010 indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 2
+
+Stk. 1. Loven træder i kraft den 1. juli 2010.
+
+Stk. 2. § 3, stk. 7, i lov om universiteter som affattet ved denne lovs § 1, nr. 1, finder tillige anvendelse for de uddannelser, der er ansøgt om godkendelse af ved Europa-Kommissionen inden den 1. juli 2010, og som godkendes eller fortsat udbydes som led i EU-studieprogrammer om Erasmus Mundus.
+
+Stk. 3. Institutioner, virksomheder el.lign., der ved lovens ikrafttræden anvender en betegnelse i strid med § 33 a i lov om universiteter som affattet ved denne lovs § 1, nr. 5, skal senest 5 år efter dette tidspunkt ophøre med at anvende betegnelsen.
