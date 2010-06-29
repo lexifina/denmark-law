@@ -1,5 +1,5 @@
-Ministeriet for Videnskab, Teknologi og Udvikling, den 21. oktober 2009
+Ministeriet for Videnskab, Teknologi og Udvikling, den 17. juni 2010
 
-Helge Sander
+Charlotte Sahl-Madsen
 
-/ Zacharias Balslev-Clausen
+/ Helga Øregaard Dam
