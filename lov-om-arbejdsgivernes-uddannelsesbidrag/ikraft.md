@@ -16,7 +16,7 @@ Lov nr. 412 af 22. maj 1996, der ændrer §§ 3, 4, 5, 15, 18, 20, 22 og 38, ind
 
 Stk. 1. Loven træder i kraft den 1. januar 1997, jf. dog stk. 2.
 
-Stk. 2. § 1, nr. 1, 3, 5-8, 10 og 16, træder i kraft dagen efter bekendtgørelsen i Lovtidende
+Stk. 2. § 1, nr. 1, 3, 5-8, 10 og 16, træder i kraft dagen efter bekendtgørelsen i Lovtidende.
 
 Lov nr. 414 af 22. maj 1996, hvis § 3 ændrer §§ 8, 10, 13, 14 og 22 indeholder i § 4 følgende bestemmelse:
 
@@ -74,7 +74,7 @@ Stk. 3. Ansøgning om præmie efter § 15 a og tilskud efter § 17 a i lov om Ar
 
 Stk. 4. (Udeladt).
 
-Lov nr. 1228 af 27. december 2003, hvis § 1 indsætter § 1, stk. 2, § 8, stk. 3, § 15 b, § 22, stk. 3, og § 23 b, ændrer § 12 a, 12 c, stk. 1., 1. og 2. pkt., § 13, § 15, 18, stk. 2, § 19, stk. 1, 1. pkt., § 19, stk. 2, § 22, stk. 1, 1. pkt., § 22, stk. 2, og 23 a, stk. 1. 2. pkt., samt ophæver § 12 c, stk. 5, § 14 og § 18, stk. 3, indeholder i § 6 følgende bestemmelse:
+Lov nr. 1228 af 27. december 2003, hvis § 1 indsætter § 1, stk. 2, § 8, stk. 3, § 15 b, § 22, stk. 3, og § 23 b, ændrer § 12 a, 12 c, stk. 1, 1. og 2. pkt., § 13, § 15, 18, stk. 2, § 19, stk. 1, 1. pkt., § 19, stk. 2, § 22, stk. 1, 1. pkt., § 22, stk. 2, og 23 a, stk. 1, 2. pkt., samt ophæver § 12 c, stk. 5, § 14 og § 18, stk. 3, indeholder i § 6 følgende bestemmelse:
 
 § 6
 
@@ -118,7 +118,7 @@ Stk. 1. Loven træder i kraft den 1. januar 2007.
 
 Stk. 2-5. (Udeladt).
 
-Lov nr. 595 af 24. juni 2005, hvis § 1 ændrer § 13, § 18, § 19, stk. 1, 1. pkt., § 19, stk. 2, § 20, stk. 1, 1. pkt., § 20, stk. 4, § 22, stk. 2 og Kapitel 6 og indsætter § 20, stk. 5 og ophæver § 22, stk. 1, 1. pkt. og § 38, indeholder i § 2 følgende bestemmelse:
+Lov nr. 595 af 24. juni 2005, hvis § 1 ændrer § 13, § 18, § 19, stk. 1, 1. pkt., § 19, stk. 2, § 20, stk. 1, 1. pkt., § 20, stk. 4, § 22, stk. 2, og Kapitel 6 og indsætter § 20, stk. 5, og ophæver § 22, stk. 1, 1. pkt., og § 38, indeholder i § 2 følgende bestemmelse:
 
 § 2
 
@@ -212,7 +212,7 @@ Lov nr. 484 af 17. juni 2008, hvis § 8 ophæver § 3, stk. 3, 3. pkt., indehold
 
 Stk. 1. Loven træder i kraft dagen efter bekendtgørelsen i Lovtidende.
 
-Stk. 2. (Udeladt).
+Stk. 2. (Udeladt)
 
 Lov nr. 1336 af 19. december 2008, hvis § 134 ophæver §§ 29 og 29 a, indeholder i § 167 følgende bestemmelse:
 
@@ -231,3 +231,35 @@ Stk. 1. Loven træder i kraft den 1. juni 2009 og finder anvendelse på uddannel
 Stk. 2. Der ydes i henhold til den hidtil gældende § 16 i lov om Arbejdsgivernes Elevrefusion en økonomisk præmie til arbejdsgivere for merbeskæftigelse i praktikpladser i perioden fra den 1. oktober 2008 til den 30. september 2009. Præmie ydes for aftaler, som er indgået før den 1. juni 2009 og registreret i Erhvervsskolernes Administrative System Praktik før den 30. september 2009. Præmien udgør 13.330 kr. pr. aftale.
 
 Stk. 3. Forslag om revision af kapitel 6 i lov om Arbejdsgivernes Elevrefusion som affattet ved denne lovs § 1, nr. 1, fremsættes for Folketinget senest i folketingsåret 2010-11.
+
+Lov nr. 1218 af 14. december 2009, hvis § 1 nyaffatter § 16, stk. 2, 1. pkt., og § 17, stk. 2, og ændrer § 16 a, stk. 1, indeholder i §§ 3 og 4 følgende bestemmelser:
+
+§ 3
+
+Stk. 1. Loven træder i kraft den 15. december 2009.
+
+Stk. 2. Lovens § 1 finder anvendelse på uddannelsesaftaler og praktikaftaler, der indgås i perioden fra den 5. november 2009 til den 31. december 2010.
+
+Stk. 3-5. (Udeladt).
+
+Stk. 6. Nedenstående ydelser udbetales efter ansøgning fra arbejdsgiveren, når denne har ansøgt Arbejdsgivernes Elevrefusion herom senest et år efter, at arbejdsgiveren blev berettiget til disse ydelser:
+
+1) Præmie, løntilskud og bonus for uddannelsesaftaler og praktikaftaler, der er indgået i perioden fra den 1. juni 2009 til den 4. november 2009, jf. § 1, nr. 1, i lov nr. 427 af 30. maj 2009 om ændring af lov om Arbejdsgivernes Elevrefusion.
+
+2) Præmie, løntilskud og bonus for uddannelsesaftaler og praktikaftaler, der indgås i perioden fra den 5. november 2009 til den 31. december 2010, jf. denne lovs § 1, jf. stk. 2.
+
+3) Tilskud til virksomheder for uddannelsesaftaler, der indgås i perioden fra den 5. november 2009 til den 31. december 2010, med elever, der uforskyldt har mistet en uddannelsesaftale, jf. denne lovs § 2, nr. 5, jf. stk. 2.
+
+Stk. 7. Præmie for merbeskæftigelse i praktikpladser, jf. § 16 i lov om Arbejdsgivernes Elevrefusion som affattet ved lov nr. 595 af 24. juni 2005, udbetales senest den 31. december 2010. Arbejdsgivere, der er ophørt på tidspunktet for Arbejdsgivernes Elevrefusions normale udbetalinger, kan få udbetalt præmie efter ansøgning, der sendes til Arbejdsgivernes Elevrefusion senest den 31. december 2010.
+
+§ 4
+
+Undervisningsministeren fremsætter forslag om revision af kapitel 6 i lov om Arbejdsgivernes Elevrefusion og af § 66 a, stk. 4, § 66 e, stk. 2, og § 66 k, stk. 3, i lov om erhvervsuddannelser som affattet ved denne lovs § 2, nr. 2, 3 og 5, i folketingsåret 2010-11.
+
+Lov nr. 578 af 1. juni 2010, hvis § 11 ændrer § 5, stk. 2, 1. pkt., indeholder i § 9 følgende bestemmelse:
+
+§ 9
+
+Loven træder i kraft den 1. august 2010.
+
+Stk. 2. (Udeladt)

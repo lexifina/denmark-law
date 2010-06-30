@@ -1,5 +1,5 @@
-Undervisningsministeriet, den 8. september 2009
+Undervisningsministeriet, den 24. juni 2010
 
-Bertel Haarder
+Tina Nedergaard
 
 / Karen Peytz
