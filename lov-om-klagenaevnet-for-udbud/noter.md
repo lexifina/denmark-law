@@ -1,0 +1,1 @@
+1) Loven indeholder bestemmelser, der gennemfører Europa-Parlamentets og Rådets direktiv 2007/66/EF af 11. december 2007 om ændring af Rådets direktiv 89/665/EØF og 92/13/EØF for så vidt angår forbedring af effektiviteten af klageprocedurerne i forbindelse med indgåelse af offentlige kontrakter (EU-Tidende nr. L 335 af 20. december 2007, s. 31).
