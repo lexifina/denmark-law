@@ -1,0 +1,1 @@
+§ 70 a. Lægemidler, der opbevares i en besætning, kan uanset ejerforholdet beslaglægges af kontrolmyndigheden, når lægemidlet ikke lovligt kan besiddes, ikke er lovligt ordineret eller ikke er lovligt mærket eller opbevaret og besætningsejeren i øvrigt er indforstået hermed.
