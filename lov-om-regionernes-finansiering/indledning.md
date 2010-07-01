@@ -1,3 +1,3 @@
-Lov om regionernes finansiering
+Bekendtgørelse af lov om regionernes finansiering
 
-VI MARGRETHE DEN ANDEN, af Guds Nåde Danmarks Dronning, gør vitterligt: Folketinget har vedtaget og Vi ved Vort samtykke stadfæstet følgende lov:
+Herved bekendtgøres lov nr. 543 af 24. juni 2005 om regionernes finansiering med de ændringer, der følger af § 41 i lov nr. 499 af 7. juni 2006 og § 7 i lov nr. 524 af 17. juni 2008.

@@ -1,7 +1,5 @@
-Givet på Amalienborg, den 24. juni 2005
+Indenrigs- og Sundhedsministeriet, den 25. juni 2010
 
-Under Vor Kongelige Hånd og Segl
+Bertel Haarder
 
-MARGRETHE R.
-
-/Lars Løkke Rasmussen
+/ Dorte Lemmich Madsen
