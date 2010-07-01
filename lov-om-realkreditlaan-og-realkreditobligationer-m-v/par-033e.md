@@ -1,4 +1,4 @@
-§ 33 e. Realkreditinstitutter, der har fået tilladelse til at udstede særligt dækkede obligationer, kan optage lån til brug for at opfylde krav om at stille supplerende sikkerhed.
+§ 33 e. Realkreditinstitutter, der har fået tilladelse til at udstede særligt dækkede obligationer eller særligt dækkede realkreditobligationer, kan optage lån til brug for at opfylde krav om at stille supplerende sikkerhed.
 
 Stk. 2. Det skal fremgå af låneaftalen, hvilken serie eller gruppe af serier med seriereservefond lånemidlerne optaget efter stk. 1 kan henføres til.
 
