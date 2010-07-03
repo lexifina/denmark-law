@@ -1,9 +1,5 @@
-Givet på Christiansborg Slot, den 22. december 1993
+Finansministeriet, den 22. juni 2010
 
-Under Vor Kongelige Hånd og Segl
+Claus Hjort Frederiksen
 
-MARGRETHE R.
-
-/Mogens Lykketoft
-
-Ingen
+/ Mogens Pedersen
