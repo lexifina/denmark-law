@@ -1,0 +1,1 @@
+§ 190 c. Bestemmelserne i dette kapitel finder ikke anvendelse, såfremt dette ville stride mod Danmarks konventionsmæssige forpligtelser over for stater, som ikke har tilsluttet sig bunkerkonventionen.
