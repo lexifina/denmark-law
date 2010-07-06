@@ -1,5 +1,5 @@
-Søfartsstyrelsen, den 15. juni 2004
+Søfartsstyrelsen, den 1. juli 2010
 
-Jørgen Hammer Hansen
+Birgit Sølling Olsen
 
-/Kaare Christoffersen
+/ Finn Tikjøb
