@@ -1,0 +1,1 @@
+§ 46 c. Søfartsstyrelsen kan fastsætte regler om digitale dokumenter, der anvendes i forbindelse med registrering i skibsregisteret, herunder at disse skal være i en bestemt struktureret form, og at der skal anvendes bestemte digitale systemer.
