@@ -1,5 +1,5 @@
-Miljøministeriet, den 21. juni 2007
+Miljøministeriet, den 26. juni 2010
 
-Connie Hedegaard
+Karen Ellemann
 
-/Anne-Marie Rasmussen
+/ Anne-Marie Rasmussen
