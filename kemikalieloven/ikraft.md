@@ -18,9 +18,9 @@ Stk. 1. Loven træder i kraft den 1. juli 1989.
 
 Stk. 2. Regler, der er fastsat i henhold til hidtil gældende bestemmelser i loven, jf. lovbekendtgørelse nr. 574 af 26. august 1987, forbliver i kraft indtil de afløses af regler fastsat i henhold til denne lov. Overtrædelse af reglerne straffes efter hidtil gældende regler.
 
-Stk. 3. (Overgangsbestemmelse, udeladt)
+Stk. 3. Sager, der ved lovens ikrafttræden er under behandling i Miljøankenævnet, færdigbehandles efter hidtil gældende regler.
 
-Lov nr. 358 af 6. juni 1991 om miljøbeskyttelse, hvis § 114, stk. 4, nr. 4, ændrer Miljøankenævnet til Miljøklagenævnet, indeholder følgende ikrafttrædelsesbestemmelse:
+Lov nr. 358 af 6. juni 1991 om miljøbeskyttelse, hvis § 114, stk. 4, nr. 4, ændrer ”Miljøankenævnet” til ”Miljøklagenævnet”, indeholder følgende ikrafttrædelsesbestemmelse:
 
 § 112
 
@@ -44,7 +44,7 @@ Bekendtgørelse nr. 584 af 9. juli 1993 om bekæmpelsesmidler, der angår lovens
 
 Stk. 2 og 3. (Overgangsbestemmelser, udeladt)
 
-§§ 4750. (Overgangsbestemmelser, udeladt)
+§§ 47–50. (Udeladt)
 
 Lov nr. 1111 af 22. december 1993 om ændring af lov om kemiske stoffer og produkter, der angår § 15, § 25, stk. 2, § 33, stk. 4 og 5, § 35, stk. 8, § 35 a, stk. 4, §§ 60- 61 a, indeholder følgende ikrafttrædelsesbestemmelse:
 
@@ -60,27 +60,51 @@ Stk. 1. Loven træder i kraft den 1. juli 1994.
 
 Stk. 2. Import og salg af bekæmpelsesmidler, der indeholder aktivstoffer, der er anført på bilag 2, liste A, kan ske indtil 1. december 1994. Anvendelse af sådanne bekæmpelsesmidler kan ske indtil 1. juli 1995.
 
+Stk. 3. (Udeladt)
+
 Lov nr. 416 af 14. juni 1995 om afgift af bekæmpelsesmidler, hvis § 45 angår § 36 og § 59, stk. 1, nr. 6, har følgende ikrafttrædelses- og overgangsbestemmelser:
 
-§ 42.
-
-Stk. 1. Skatteministeren fastsætter tidspunktet for lovens ikrafttræden.
+§ 42. Skatteministeren fastsætter tidspunktet for lovens ikrafttræden.
 
 Stk. 2. Loven finder anvendelse på varer, der fra og med lovens ikrafttræden udleveres fra registrerede virksomheder, angives til fortoldning, modtages eller medbringes fra udlandet.
 
-Stk. 3-7. (Overgangsbestemmelser, udeladt)
+Stk. 3-7. (Udeladt)
 
-§ 45 , nr. 5. Afgift vedrørende 1995 opkræves efter de hidtil gældende regler.
+§ 45. (Udeladt)
 
-§ 46. (Overgangsbestemmelse, udeladt)
+Stk. 2. Afgift vedrørende 1995 opkræves efter de hidtil gældende regler.
 
-Lov nr. 1087 af 20. december 1995 om ændring af lov om kemiske stoffer og produkter (Forbudsprocedure), der angår § 35 d-f og § 38, har følgende ikrafttrædelses- og overgangsbestemmelser:
+§ 46. Virksomheder, der ved lovens ikrafttræden har et lager af varer, der er afgiftsberigtiget efter kapitel 7, § 36, stk. 2-6, i lov om kemiske stoffer og produkter, kan, såfremt nævnte lagerbeholdning afgiftsberigtiges efter bestemmelserne i § 42, få afgiftsgodtgørelse af den nævnte lagerbeholdning af:
+
+1) Kemiske midler til bekæmpelse af insekter, mider, snegle, utøj og regnorme og lignende laverestående dyr bortset fra midler til bekæmpelse af skadedyr i træ.
+
+2) Kemiske midler til jorddesinfektion med henblik på plantebeskyttelse.
+
+3) Kemiske midler til bekæmpelse af plantevækst eksklusive algevækst.
+
+4) Kemiske midler til bekæmpelse af plantesygdomme.
+
+5) Kemiske midler til regulering af plantevækst bortset fra egentlige plantenæringsstoffer og grundforbedringsmidler.
+
+6) Kemiske midler til afskrækkelse af insekter m.v. og vildtlevende pattedyr og fugle.
+
+Stk. 2. Det er en betingelse for at opnå afgiftsgodtgørelse efter stk. 1, at en specificeret opgørelse over den godtgørelse, som kræves, er de statslige told- og skattemyndigheder i hænde senest 15 dage efter lovens ikrafttræden. De statslige told- og skattemyndigheder kan gøre godtgørelsen betinget af, at virksomheden fremlægger dokumentation for, at den afgift, der kræves godtgjort, er betalt af virksomheden.
+
+Stk. 3. Virksomheder, der ansøger om afgiftsgodtgørelse, skal give de statslige told- og skattemyndigheder adgang til at kontrollere de indsendte opgørelser ved eftersyn af lagre, forretningsbøger m.v. Virksomhedernes indehavere og de i virksomhederne beskæftigede personer skal yde de statslige told- og skattemyndigheder al fornøden vejledning og hjælp.
+
+Stk. 4. Den, der forsætligt eller groft uagtsomt afgiver urigtige eller vildledende oplysninger eller fortier oplysninger til brug ved beregning af afgiftsgodtgørelsen, straffes med bøde, hæfte eller fængsel indtil 2 år.
+
+Stk. 5. For overtrædelser, der begås af aktieselskaber, andelsselskaber, anpartsselskaber eller lignende, kan der pålægges selskabet som sådant bødeansvar.
+
+Lov nr. 1087 af 20. december 1995 om ændring af lov om kemiske stoffer og produkter (Forbudsprocedure), der angår § 35 d-f og § 38, har følgende ikrafttrædelses- og overgangsbestemmelse:
 
 § 2
 
 Stk. 1. Loven træder i kraft dagen efter bekendtgørelsen i Lovtidende.
 
-Stk. 3. (Overgangsbestemmelser, udeladt)
+Stk. 2. (Udeladt)
+
+Stk. 3. (Udeladt)
 
 Bekendtgørelse nr. 790 af 30. august 1996 om helt eller delvist forbud mod visse bekæmpelsesmidler (Forbudsliste), der angår lovens bilag 2, liste A, har følgende ikrafttrædelses- og overgangsbestemmelser:
 
@@ -184,7 +208,9 @@ Bekendtgørelse nr. 636 af 30. juni 2003 om ændring af bilag 2, liste A, i lov 
 
 § 2
 
-Bekendtgørelsen træder i kraft den 1. august 2003.
+Stk. 1. Bekendtgørelsen træder i kraft den 1. august 2003.
+
+Stk. 2. (Udeladt)
 
 Lov nr. 189 af 24. marts 2004 om ændring af lov om kemiske stoffer og produkter (Udbud af bestemte brændstofkvaliteter), der angår overskriften til kapitel 6, § 32 c og § 59, stk. 4, indeholder følgende ikrafttrædelsesbestemmelse:
 
@@ -218,15 +244,19 @@ Lov nr. 428 af 6. juni 2005 om ændring af en række love som følge af skattefo
 
 § 125
 
-Stk. 1. Loven træder i kraft dagen efter bekendtgørelsen i Lovtidende.
+Stk. 1. Loven træder i kraft dagen efter bekendtgørelsen i Lovtidende. § 69 træder dog tidligst i kraft på det eller de tidspunkter, som skatteministeren fastsætter som ikrafttrædelsestidspunkt for lov om beskatning af søfolk eller de relevante dele af den nævnte lov, jf. lovens § 17.
 
-Stk. 2. Loven har virkning fra den 1. november 2005.
+Stk. 2. Loven har virkning fra den 1. november 2005. § 70, nr. 1, og § 104 har dog virkning fra lovens ikrafttræden.
+
+Stk. 3. (Udeladt)
 
 Lov nr. 431 af 6. juni 2005 om ændring af forskellige love (Forenkling, harmonisering og objektivering af reglerne for inddrivelse af gæld til det offentlige m.v. samt mulighed for anvendelse af digitale lønsedler), hvis § 18 angår § 64, stk. 2 og 3, indeholder følgende ikrafttrædelsesbestemmelse:
 
 § 85
 
-Stk. 1. Loven træder i kraft den 1. november 2005.
+Stk. 1. Loven træder i kraft den 1. november 2005, jf. dog stk. 2.
+
+Stk. 2. (Udeladt)
 
 Lov nr. 545 af 24. juni 2005 om ændring af forskellige love på sundhedsområdet og visse andre områder (Konsekvensrettelser som følge af kommunalreformen), hvis § 5 angår § 45, stk. 2, indeholder følgende ikrafttrædelsesbestemmelse:
 
@@ -240,10 +270,56 @@ Lov nr. 564 af 24. juni 2005 om ændring af lov om beskyttelse af havmiljøet, l
 
 Stk. 1. Loven træder i kraft den 1. januar 2007.
 
+Stk. 2-8. (Udeladt)
+
 Lov nr. 571 af 9. juni 2006 om ændring af lov om naturbeskyttelse, lov om miljøbeskyttelse og forskellige andre love (Ændring af klagenævn og klagebestemmelser i en række love på miljøområdet), hvis § 4 angår § 55, indeholder følgende ikrafttrædelses- og overgangsbestemmelser:
 
 § 12
 
 Stk. 1. Loven træder i kraft den 1. januar 2007.
 
+Stk. 2. (Udeladt)
+
 Stk. 3. Sager, der pr. 1. januar 2007 er indbragt for Miljøklagenævnet, færdigbehandles efter de hidtil gældende regler.
+
+Lov nr. 172 af 12. marts 2008 om ændring af forskellige love på Miljøministeriets område m.v. (Undtagelse fra indførelse i Lovtidende af tekniske specifikationer m.v.), hvis § 4 angår kapitel 12 a og § 58 a, indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 6
+
+Loven træder i kraft dagen efter bekendtgørelsen i Lovtidende.
+
+Lov nr. 173 af 12. marts 2008 om ændring af lov om miljøbeskyttelse og forskellige andre love (Strafskærpelse m.v.), hvis § 3 angår § 25, stk. 1, nr. 1, litra d og § 46, stk. 1 – 3, indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 4
+
+Stk. 1. Loven træder i kraft den 1. april 2008, jf. dog stk. 2.
+
+Stk. 2. (Udeladt)
+
+Lov nr. 1336 af 19. december 2008 om ændring af kildeskatteloven, opkrævningsloven, udpantningsloven og forskellige andre love (Konsekvensændringer som følge af lov om inddrivelse af gæld til det offentlige), hvis § 25 angår § 37 og § 64, indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 167
+
+Stk. 1. Loven træder i kraft den 1. januar 2009, jf. dog stk. 2. § 11 finder alene anvendelse på afgørelser om lønindeholdelse, der træffes efter lovens ikrafttræden.
+
+Stk. 2. (Udeladt)
+
+Lov nr. 97 af 10. februar 2009 om ændring af lov om kemiske stoffer og produkter og lov om miljøbeskyttelse (Forebyggelse af forsætlige skadevoldende handlinger med farlige stoffer og forlængelse af godkendelsen for visse bekæmpelsesmidler m.v.), hvis § 1 angår fodnote 2 til lovens titel, § 23, stk. 2, § 33, stk. 2 og stk. 4-9, § 33 b, § 38, stk. 2 og 3, § 42 a, § 43 a, § 59, stk. 4 og § 61, indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 3
+
+Loven træder i kraft den 1. marts 2009.
+
+Lov nr. 1383 af 21. december 2009 om ændring af lov om miljøbeskyttelse og forskellige andre love (Implementering af servicedirektivet og anerkendelsesdirektivet på Miljøministeriets område), hvis § 2 angår § 10 a, § 51 c og § 59, stk. 4, indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 7
+
+Loven træder i kraft den 28. december 2009.
+
+Lov nr. 1520 af 27. december 2009 om ændring af lov om kemiske stoffer (Forlængelse af visse databeskyttelsesperioder for biocidmidler og ophævelse af bestemmelser om anmeldelse af nye stoffer m.v.), hvis § 1 angår fodnote 1 til lovens titel, § 7, stk. 1, § 7 b, overskriften til kapitel 3, §§ 11-15, § 35 b, stk. 3 og 6, § 41, § 59, stk. 1, nr. 1 og 6, § 59 stk. 4, og § 61, indeholder følgende Overgangs- og ikrafttrædelsesbestemmelse:
+
+§ 2
+
+Stk. 1. Loven træder i kraft den 1. januar 2010.
+
+Stk. 2. De regler, der er udstedt i medfør af den gældende § 15 i lov om kemiske stoffer og produkter, forbliver i kraft, indtil de ophæves eller afløses af forskrifter udstedt i medfør af § 7 b i lov om kemiske stoffer og produkter som affattet ved denne lovs § 1, nr. 4.

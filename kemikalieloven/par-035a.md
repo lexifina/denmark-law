@@ -4,7 +4,7 @@
 
 1) der foreligger en aftale herom med den første ansøger, eller
 
-2) der er forløbet ti år fra optagelsen af det aktive stof på bilag I til Rådets direktiv 91/414/EØF af 15. juli 1991 om markedsføring af plantebeskyttelsesmidler eller fem år fra den dag, hvor der er truffet afgørelse om optagelsen på bilag I på grundlag af supplerende oplysninger. Udløber femårsperioden før tiårsperioden, forlænges beskyttelsesperioden for de supplerende oplysninger, således at den udløber sa mtid ig med tiårsperioden.
+2) der er forløbet ti år fra optagelsen af det aktive stof på bilag I til Rådets direktiv 91/414/EØF af 15. juli 1991 om markedsføring af plantebeskyttelsesmidler eller fem år fra den dag, hvor der er truffet afgørelse om optagelsen på bilag I på grundlag af supplerende oplysninger. Udløber femårsperioden før tiårsperioden, forlænges beskyttelsesperioden for de supplerende oplysninger, således at den udløber samtidig med tiårsperioden.
 
 Stk. 2. Ved et nyt aktivstof i stk. 1 forstås et aktivstof, der ikke senest den 26. juli 1993 har været solgt eller importeret som del i et plantebeskyttelsesmiddel i et land, der er medlem af Den Europæiske Union.
 
