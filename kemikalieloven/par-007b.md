@@ -1,0 +1,1 @@
+§ 7 b. Miljøministeren kan fastsætte regler til opfyldelse af fællesskabsretlige forpligtelser om salg eller import af stoffer, der er beregnet til at indgå i produkter, der skal godkendes efter kapitel 7.
