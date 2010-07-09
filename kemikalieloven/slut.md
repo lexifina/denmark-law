@@ -1,24 +1,26 @@
-Miljøministeriet, den 22. december 2006
+Miljøministeriet, den 26. juni 2010
 
-Connie Hedegaard
+Karen Ellemann
 
-/Ole Christiansen
+/ Anne-Marie Rasmussen
 
 Bilag 1
 
-## LISTE OVER STOFFER OG PRODUKTER, SOM ER OMFATTET AF LOVENS KAPITEL 7 Bekæmpelsesmidler er plantebeskyttelsesmidler og biocidmidler.
+LISTE OVER STOFFER OG PRODUKTER, SOM ER OMFATTET AF LOVENS KAPITEL 7
+
+Bekæmpelsesmidler er plantebeskyttelsesmidler og biocidmidler.
 
 ## 1. Plantebeskyttelsesmidler
 
 Ved plantebeskyttelsesmidler i kapitel 7 forstås kemiske stoffer og produkter eller mikroorganismer, der har et eller flere af følgende formål:
 
- at beskytte planter eller planteprodukter mod skadegørere eller at forebygge sådanne skadegøreres angreb,
+– at beskytte planter eller planteprodukter mod skadegørere eller at forebygge sådanne skadegøreres angreb,
 
- at øve indflydelse på planters livsprocesser på anden måde end som ernæring (f.eks. som vækstregulerende midler),
+– at øve indflydelse på planters livsprocesser på anden måde end som ernæring (f.eks. som vækstregulerende midler),
 
- at bevare produkter, som stammer fra planter, der er uforarbejdede eller er forarbejdede ved simple metoder såsom formaling, tørring eller presning, og for hvilke der ikke findes særlige Fællesskabsbestemmelser om konserveringsmidler,
+– at bevare produkter, som stammer fra planter, der er uforarbejdede eller er forarbejdede ved simple metoder såsom formaling, tørring eller presning, og for hvilke der ikke findes særlige Fællesskabsbestemmelser om konserveringsmidler,
 
- at ødelægge uønskede planter, at ødelægge plantedele, eller at bremse eller forebygge uønsket vækst af planter.
+– at ødelægge uønskede planter, at ødelægge plantedele, eller at bremse eller forebygge uønsket vækst af planter.
 
 ## 2. Biocidmidler
 
@@ -134,7 +136,7 @@ r) Rådets direktiv 91/414/EØF af 15. juli 1991 om markedsføring af plantebesk
 
 Bilag 2
 
-## Liste A
+Liste A
 
 Bekæmpelsesmidler, der ikke må sælges eller anvendes i Danmark.
 
@@ -144,15 +146,11 @@ Plantebeskyttelsesmidler:
 
 Atrazin.
 
-Captan.
-
-Cyanazin.
+Captan. Cyanazin.
 
 Deltamethrin (til udendørs anvendelse).
 
-Diazinon (til udendørs anvendelse).
-
-Dichlobenil.
+Diazinon (til udendørs anvendelse). Dichlobenil.
 
 Dichlorprop (al efterårsanvendelse og den forårsanvendelse, der årligt afsætter mere end 60 gram aktivstof/ha på jordoverfladen).
 
@@ -160,9 +158,7 @@ Dichlorprop-P (al efterårsanvendelse og den forårsanvendelse, der årligt afs�
 
 Dichlorvos.
 
-Eddikesyre.
-
-Esfenvalerat (al udendørs anvendelse undtagen dypning og rodhalssprøjtning af nåletræer).
+Eddikesyre. Esfenvalerat (al udendørs anvendelse undtagen dypning og rodhalssprøjtning af nåletræer).
 
 Fenarimol.
 
@@ -174,25 +170,17 @@ Hexazinon.
 
 Iprodion.
 
-Isoproturon.
-
-Lindan.
+Isoproturon. Lindan.
 
 MCPA (al efterårsanvendelse og den forårsanvendelse, der årligt afsætter mere end 100 gram aktivstof/ha på jordoverfladen).
 
 Mechlorprop (al efterårsanvendelse og den forårsanvendelse, der årligt afsætter mere end 100 gram aktivstof/ha på jordoverfladen).
 
-Mechlorprop-P (al efterårsanvendelse og den forårsanvendelse, der årligt afsætter mere end 100 gram aktivstof/ha på jordoverfladen. Desuden al anvendelse af produkter, der er klassificeret alvorligt øjenirriterende).
-
-Metribuzin.
-
-Paraquat.
+Mechlorprop-P (al efterårsanvendelse og den forårsanvendelse, der årligt afsætter mere end 100 gram aktivstof/ha på jordoverfladen. Desuden al anvendelse af produkter, der er klassificeret alvorligt øjenirriterende). Metribuzin. Paraquat.
 
 Propachlor.
 
-Propineb.
-
-Thiabendazol (til udendørs anvendelse).
+Propineb. Thiabendazol (til udendørs anvendelse).
 
 Thiophanat-methyl (som sprøjtemiddel).
 
@@ -206,9 +194,7 @@ Ziram.
 
 Biocidmidler
 
-Dichlorvos (mod insekter).
-
-Bis(tributyltin)oxid (mod træødelæggende svamp).
+Dichlorvos (mod insekter). Bis(tributyltin)oxid (mod træødelæggende svamp).
 
 ## Liste B
 
@@ -232,7 +218,7 @@ II. Bestandige organiske forbindelser:
 
 1. Aldrin.
 
-2. Chlordan.
+2. Clordan
 
 3. Dieldrin.
 
