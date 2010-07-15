@@ -1,0 +1,1 @@
+1) Loven gennemfører dele af Europa-Parlamentets og Rådets direktiv 2008/56/EF af 17. juni 2008 om fastlæggelse af en ramme for Fællesskabets havmiljøpolitiske foranstaltninger (havstrategirammedirektivet), EU-Tidende 2008 nr. L 164, side 19.
