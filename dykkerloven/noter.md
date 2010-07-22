@@ -1,0 +1,3 @@
+1) Loven indeholder bestemmelser, der gennemfører dele af Rådets direktiv nr. 89/48/EØF, EF-Tidende 1989 L 19 s. 16 om indførelse af en generel ordning for anerkendelse af erhvervskompetencegivende videregående uddannelser, dele af Rådets direktiv nr. 92/51 EØF, EF-Tidende 1992 L 209 s. 25 om anden generel ordning for gensidig anerkendelse af eksamensbeviser og dele af Europa-Parlamentets og Rådets direktiv 2006/123/EF af 12. december 2006 om tjenesteydelser i det indre marked (EU-Tidende nr. L 376 af 27. december 2006, s. 36-38).
+
+2) Loven trådte i kraft den 1. april 2005, jf. bekendtgørelse nr. 153 af 10. marts 2005.
