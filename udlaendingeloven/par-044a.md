@@ -43,3 +43,5 @@ Stk. 10. Udlændingeservice og statsforvaltningerne kan til brug for Arbejdsmark
 9) Fagbetegnelse.
 
 10) Start- og slutdato for ansættelsesforhold.
+
+Stk. 11. Udlændingeservice kan med henblik på at kontrollere, at en udlænding overholder betingelserne for opholdstilladelsen, opholdskortet eller registreringsbeviset, eller at en udlænding ikke arbejder eller opholder sig her i landet uden fornøden tilladelse, samkøre oplysninger fra egne registre med oplysninger fra Det Centrale Personregister, Bygnings- og Boligregistret og indkomstregisteret. Dette gælder alene for udlændinge, der har modtaget forudgående information om, at en sådan kontrol kan finde sted.
