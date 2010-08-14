@@ -1,5 +1,5 @@
-Indenrigs- og Socialministeriet, den 21. oktober 2009
+Socialministeriet, den 11. august 2010
 
-P.M.V. Christian Schønau
+P.M.V. Jesper Fisker
 
 / Eva Pedersen
