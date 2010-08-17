@@ -1,8 +1,8 @@
-§ 12 c. Konkurrencerådet træffer afgørelse om, hvorvidt en fusion, der er anmeldelsespligtig i henhold til § 12 b, stk. 1, eller som af Europa-Kommissionen er henvist til Konkurrencerådets behandling, jf. § 12, stk. 5, kan godkendes eller forbydes.
+§ 12 c. Konkurrencerådet træffer afgørelse om, hvorvidt en fusion kan godkendes eller forbydes, jf. dog stk. 7.
 
 Stk. 2. En fusion, der ikke hæmmer den effektive konkurrence betydeligt, navnlig som følge af skabelsen eller styrkelsen af en dominerende stilling, skal godkendes. En fusion, der hæmmer den effektive konkurrence betydeligt, navnlig som følge af skabelsen eller styrkelsen af en dominerende stilling, skal forbydes.
 
-Stk. 3. I det omfang, hvor oprettelsen af et joint venture, som udgør en fusion efter § 12 a, stk. 2, tillige har til formål eller til følge at samordne fortsat uafhængige virksomheders konkurrenceadfærd, vurderes denne samordning efter kriterierne i § 6, stk. 1, og § 8, stk. 1, for at fastslå, om transaktionen kan godkendes.
+Stk. 3. I det omfang, hvor oprettelsen af et joint venture, som udgør en fusion efter § 12 a, stk. 2, tillige har til formål eller til følge at samordne fortsat uafhængige virksomheders konkurrenceadfærd, vurderes denne samordning efter kriterierne i § 6, stk. 1, og § 8, stk. 1, eller EUF-traktatens artikel 101, stk. 1 og 3, for at fastslå, om transaktionen kan godkendes.
 
 Stk. 4. Ved vurderingen efter stk. 3 tager Konkurrencerådet navnlig hensyn til,
 
@@ -14,6 +14,4 @@ Stk. 5. En fusion, der er omfattet af denne lov, må ikke gennemføres, hverken 
 
 Stk. 6. Konkurrencerådet kan dispensere fra bestemmelsen i stk. 5 og kan i den forbindelse knytte vilkår eller udstede påbud med henblik på at sikre en effektiv konkurrence.
 
-Stk. 7. Hvis det på baggrund af de oplysninger, der allerede findes i Konkurrencestyrelsen, eller som afgives af en virksomhed, er åbenbart, at en planlagt fusion kan godkendes uden vilkår eller udstedelse af påbud, kan Konkurrencerådet godkende fusionen, jf. stk. 2 og 3, uden at det samtidig offentliggøres, at fusionen er anmeldt, eller at den er godkendt. Samtidig med godkendelsen fastsætter Konkurrencerådet et tidspunkt, hvor godkendelsen offentliggøres.
-
-Stk. 8. Meddeler Konkurrencerådet, at en planlagt fusion ikke kan opnå godkendelse efter proceduren i stk. 7, kan virksomheden trække anmeldelsen af fusionen tilbage eller anmode om, at der først træffes afgørelse efter andre bestemmelser i denne lovs kapitel 4, når anmeldelsespligten efter § 12 b, stk. 1, er indtrådt.
+Stk. 7. Konkurrencestyrelsen kan uanset stk. 1 efter en forenklet sagsbehandling godkende en fusion, hvis styrelsen finder, at fusionen på baggrund af de foreliggende oplysninger ikke giver anledning til indsigelser fra styrelsens side.

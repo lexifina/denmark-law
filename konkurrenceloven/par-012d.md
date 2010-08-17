@@ -1,5 +1,9 @@
-§ 12 d. Senest fire uger efter modtagelsen af en fuldstændig anmeldelse i henhold til § 12 b, stk. 1, eller § 12, stk. 5, træffer Konkurrencerådet afgørelse om en fusions godkendelse eller beslutning om særskilt undersøgelse heraf.
+§ 12 d. Senest 25 hverdage efter modtagelsen af en fuldstændig anmeldelse træffes beslutning om, hvorvidt fusionen kan godkendes, herunder om fusionen kan godkendes efter en forenklet sagsbehandling. Inden for samme frist kan der træffes beslutning om en særskilt undersøgelse af fusionen.
 
-Stk. 2. Såfremt Konkurrencerådet i henhold til stk. 1 har truffet beslutning om indledning af særskilt undersøgelse af en fusion, træffes afgørelse om godkendelse eller forbud i henhold til § 12 c, stk. 1, senest tre måneder efter modtagelsen af en fuldstændig anmeldelse.
+Stk. 2. Indledes en særskilt undersøgelse af en fusion, jf. stk. 1, 2. pkt., træffes beslutning om godkendelse af eller forbud mod fusionen senest 90 hverdage efter udløbet af den i stk. 1 nævnte frist.
 
-Stk. 3. Har Konkurrencerådet ikke truffet afgørelse inden for de frister, som fremgår af stk. 1 og 2, betragtes dette som en afgørelse om godkendelse af fusionen. Konkurrencerådet kan i ganske særlige tilfælde afbryde fristerne efter stk. 1 og 2, herunder med henblik på at indhente yderligere oplysninger, jf. § 17.
+Stk. 3. Fristen i stk. 2 forlænges med op til 20 hverdage, hvis en eller flere af de deltagende virksomheder foreslår nye eller reviderede tilsagn. Fristen forlænges kun, hvis der på tidspunktet for afgivelsen af tilsagnene er mindre end 20 hverdage tilbage til, at der efter stk. 2 skulle være truffet en afgørelse, og således, at der er samlet 20 hverdage til vurderingen af fusionen i lyset af de nye eller reviderede tilsagn.
+
+Stk. 4. Fristen i stk. 2 kan tillige forlænges efter beslutning fra Konkurrencerådet, forudsat at den eller de virksomheder, der har foretaget anmeldelsen, anmoder herom eller samtykker heri. En forlængelse kan ikke overstige 20 hverdage.
+
+Stk. 5. Er der ikke truffet afgørelse inden for de frister, der følger af stk. 1-4, betragtes dette som en afgørelse om godkendelse af fusionen.
