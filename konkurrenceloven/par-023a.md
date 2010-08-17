@@ -1,4 +1,4 @@
-§ 23 a. Den, der handler i strid med § 6 eller EF-traktatens artikel 81, stk. 1, ved at indgå en kartelaftale, opnår efter ansøgning tiltalefrafald for den bøde, vedkommende ellers ville være blevet pålagt for sin deltagelse i kartellet, hvis ansøgeren som den første henvender sig til myndighederne og fremlægger oplysninger om et kartel, som myndighederne ikke var i besiddelse af på ansøgningstidspunktet, og som,
+§ 23 a. Den, der handler i strid med § 6 eller EUF-traktatens artikel 101, stk. 1, ved at indgå en kartelaftale, opnår efter ansøgning tiltalefrafald for den bøde, vedkommende ellers ville være blevet pålagt for sin deltagelse i kartellet, hvis ansøgeren som den første henvender sig til myndighederne og fremlægger oplysninger om et kartel, som myndighederne ikke var i besiddelse af på ansøgningstidspunktet, og som,
 
 1) inden myndighederne har foretaget en kontrolundersøgelse eller ransagning vedrørende det pågældende forhold, giver myndighederne konkret anledning til at iværksætte en kontrolundersøgelse eller en ransagning eller indgive politianmeldelse vedrørende det pågældende forhold eller,
 
@@ -14,7 +14,7 @@ Stk. 2. Tiltalefrafald kan kun opnås, såfremt ansøgeren
 
 Stk. 3. Opfylder en ansøgning om tiltalefrafald ikke de i stk. 1, nr. 1 eller nr. 2, nævnte betingelser, betragtes ansøgningen som en ansøgning om strafnedsættelse, jf. stk. 4.
 
-Stk. 4. Den, der handler i strid med § 6 eller EF-traktatens artikel 81, stk. 1, ved at indgå en kartelaftale, opnår nedsættelse af den bøde, vedkommende ellers ville være blevet pålagt for sin deltagelse i kartellet, hvis ansøgeren
+Stk. 4. Den, der handler i strid med § 6 eller EUF-traktatens artikel 101, stk. 1, ved at indgå en kartelaftale, opnår nedsættelse af den bøde, vedkommende ellers ville være blevet pålagt for sin deltagelse i kartellet, hvis ansøgeren
 
 1) fremlægger oplysninger vedrørende kartellet, som repræsenterer en betydelig merværdi i forhold til de oplysninger, som myndighederne er i besiddelse af, og
 
