@@ -1,5 +1,5 @@
-Økonomi- og Erhvervsministeriet, den 21. august 2007
+Økonomi- og Erhvervsministeriet, den 13. august 2010
 
-Bendt Bendtsen
+Brian Mikkelsen
 
-/Kim Sparlund
+/ Kim Sparlund
