@@ -1,7 +1,5 @@
-Landbrugsministeriet, den 3. august 1990
+Ministeriet for Fødevarer, Landbrug og Fiskeri, den 19. august 2010
 
-Laurits Tørnæs
+Henrik Høegh
 
-/ Mogens Nagel Larsen
-
-Ingen
+/ Søren Sørensen
