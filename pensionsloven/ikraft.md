@@ -36,7 +36,7 @@ Stk. 1. Loven træder i kraft den 1. april 2001, jf. dog stk. 2.
 
 Stk. 2. § 1, nr. 3 og 4, træder i kraft den 1. januar 2001. For bortgivelse eller lignende dispositioner, der er foretaget inden den 1. januar 2001, finder de hidtil gældende regler i §§ 28 og 29 i lov om social pension dog fortsat anvendelse.
 
-Lov nr. 285 af 25. april 2001 indeholder nedenstående ikrafttrædelses- og overgangsbestemmelser. (Lovændringen vedrører §§ 1, 3, 5 og 7, kap. 2 og 3, §§ 28-32, kap. 4 a, §§ 33, 33a, 33 b, 37, 39, 39 a, 43 a, 44, 46, 47, 49, 52, 57, 59, 62, 69, 70, 71, 72, 72 b og 72 c. Lovændringen angår førtidspensionsreform.)
+Lov nr. 285 af 25. april 2001 indeholder nedenstående ikrafttrædelses- og overgangsbestemmelser. (Lovændringen vedrører §§ 1, 3, 5 og 7, kap. 2 og 3, §§ 28-32, kap. 4 a, §§ 33, 33 a, 33 b, 37, 39, 39 a, 43 a, 44, 46, 47, 49, 52, 57, 59, 62, 69, 70, 71, 72, 72 b og 72 c. Lovændringen angår førtidspensionsreform.)
 
 Information til nedenstående § 6, stk. 3: Bekendtgørelsen i Lovtidende fandt sted den 26. april 2001.
 
@@ -94,7 +94,7 @@ Lov nr. 1586 af 20. december 2006 indeholder nedenstående ikrafttrædelsesbeste
 
 Loven træder i kraft den 1. juli 2009.
 
-Lov nr. 445 af 9. juni 2008 indeholder nedenstående ikrafttrædelses- og overgangsbestemmelse. (Lovændringen vedrører §§ 15, 15 a, 15 d, 29, 32 a og 49).
+Lov nr. 445 af 9. juni 2008 indeholder nedenstående ikrafttrædelses- og overgangsbestemmelse. (Lovændringen vedrører §§ 15 a, 15 d, 29, 32 a og 49).
 
 Lovændringen angår øget bundfradrag for folkepensionister, reduceret beskæftigelseskrav ved opsat pension og sikkerhed for ret til førtidspension.
 
@@ -158,4 +158,42 @@ Lovændringen angår konsekvensændringer som følge af Forårspakke 2.0 m.v.
 
 Stk. 1. Loven træder i kraft dagen efter bekendtgørelsen i Lovtidende og har virkning fra indkomståret 2011, jf. dog stk. 2-10.
 
-Stk. 2. – stk. 10…
+Stk. 2. § 1, nr. 5, har virkning fra indkomståret 2008.
+
+Stk. 3. § 2, nr. 4, har virkning fra den 1. januar 2009.
+
+Stk. 4. For indkomstårene 2009 og 2010 modregner told- og skatteforvaltningen overskydende arbejdsmarkedsbidrag i uforfalden restskat med den virkning, at beregningsgrundlaget og dermed restskattetillægget reduceres med det godskrevne bidrag. Det sker dog kun for overskydende bidrag, som kunne være indbetalt til told- og skatteforvaltningen inden fristen i kildeskattelovens § 59. Bestemmelsen i 1. og 2. pkt. finder tilsvarende anvendelse for overskydende bidrag, som er konstateret for indkomstårene 2006-2008.
+
+Stk. 5. § 21, nr. 1 og 2, og § 28 har virkning fra den 1. januar 2010. Bidragsgrundlaget som nævnt i 1. pkt. i den foreslåede affattelse i § 21, nr. 1, af § 17 f, stk. 1, i lov om Arbejdsmarkedets Tillægspension følger dog for 2010 af den hidtil gældende bestemmelse i § 17 f, stk. 1, i lov om Arbejdsmarkedets Tillægspension, ligesom henvisningen til reglerne om opkrævning m.v. i dette stykke og i den foreslåede affattelse i § 21, nr. 2, af § 17 f, stk. 2, for indkomståret 2010 følger af den hidtil gældende bestemmelse i lov om Arbejdsmarkedets Tillægspension.
+
+Stk. 6. § 1, nr. 7, 9, 17, 21, 23, 31, 32, 34, 36 og 38-40, § 7, nr. 5, 6 og 12, § 8, nr. 1-7, 9-18, 20-24 og 26, og §§ 13-18, 20, 22-25 og 27 har virkning fra og med indkomståret 2010.
+
+Stk. 7. For indkomståret 2010 fastsættes grundbeløbet i kildeskattelovens § 48 E, stk. 3, nr. 5, til 63.800 kr.
+
+Stk. 8. For indeholdelsespligtige har loven virkning for løn, vederlag m.v., der udbetales fra og med den 1. januar 2011. 1. pkt. finder tilsvarende anvendelse for løn, vederlag m.v., der udbetales før den 1. januar 2011, i det omfang lønnen m.v. ved indeholdelse af foreløbig skat efter kildeskatteloven henregnes til en periode efter den 31. december 2010.
+
+Stk. 9. § 23, stk. 3 og 4, i lov om arbejdsmarkedsbidrag om opkrævning af lønmodtagerbidrag vedrørende 1994 på grundlag af ATP-restancer samt beskæftigelsesministerens adgang til at fastsætte nærmere regler om beregning, opkrævning og betaling af bidrag på grundlag af ATP-restancer finder fortsat anvendelse.
+
+Stk. 10. § 8 finder anvendelse, når en person er afgået ved døden den 1. januar 2011 eller senere, jf. dog stk. 6.
+
+Lov nr. 1510 af 27. december 2009 indeholder nedenstående ikrafttrædelsesbestemmelse. (Lovændringen vedrører § 49. Lovændringen angår forhøjelse af formuegrænsen for supplerende pensionsydelse og helbredstillæg.)
+
+§ 3
+
+Loven træder i kraft den 1. januar 2010
+
+Lov nr. 429 af 28. april 2010 indeholder nedenstående ikrafttrædelses- og overgangsbestemmelse. (Lovændringen vedrører §§ 3, 11, 15 d, 29, 32 a, 46 b, 55 og 62. Lovændringen angår kompetencen til at træffe afgørelse om lovvalg m.v. efter EF-forordning nr. 883/04 om koordinering af de sociale sikringsordninger m.v.)
+
+§ 20
+
+Stk. 1. Loven træder i kraft den 1. maj 2010.
+
+Stk. 2. De hidtil gældende regler i § 46, stk. 3, og §§ 86 a og 87 a i lov om arbejdsløshedsforsikring m.v. finder fortsat anvendelse i sager vedrørende dagpenge udbetalt efter artikel 69 i forordning (EØF) nr. 1408/71.
+
+Stk. 3. Henvisninger til forordning (EØF) nr. 1408/71 forbliver i kraft, og anvendelsen af denne forordning bevares i forhold til det enkelte EØS-land og Schweiz, så længe det enkelte EØS-land eller Schweiz ikke har tilsluttet sig forordning (EF) nr. 883/04.
+
+Lov nr. 699 af 25. juni 2010 indeholder følgende ikrafttrædelses- og overgangsbestemmelse. (Lovændringen vedrører § 41 a. Lovændringen angår meddelelsespligt ved længerevarende midlertidigt ophold i lande uden for EU/EØS og Schweiz samt mulighed for øget kontrol med udbetaling af social pension)
+
+§ 4
+
+Loven træder i kraft den 1. juli 2010.
