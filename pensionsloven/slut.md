@@ -1,4 +1,4 @@
-Beskæftigelsesministeriet, den 2. oktober 2009
+Beskæftigelsesministeriet, den 19. august 2010
 
 Inger Støjberg
 
