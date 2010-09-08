@@ -1,3 +1,3 @@
-Bekendtgørelse af lov om afgift efter brændstofforbrug for visse personbiler
+Bekendtgørelse af lov om afgift efter brændstofforbrug m.v. for visse person- og varebiler (brændstofforbrugsafgiftsloven)
 
-Hermed bekendtgøres lov om afgift efter brændstofforbrug for visse personbiler, jf. lovbekendtgørelse nr. 864 af 22. oktober 2002, med de ændringer, der følger af § 8 i lov nr. 127 af 27. februar 2004, § 18 i lov nr. 473 af 9. juni 2004, § 10 i lov nr. 428 af 6. juni 2005, § 40 i lov nr. 430 af 6. juni 2005, § 22 i lov nr. 309 af 19. april 2006, § 15 i lov nr. 513 af 7. juni 2006 og § 5 i lov nr. 1583 af 20. december 2006.
+Hermed bekendtgøres lov om afgift efter brændstofforbrug for visse personbiler, jf. lovbekendtgørelse nr. 217 af 12. marts 2007, med de ændringer, der følger af § 3 i lov nr. 265 af 23. april 2008, § 98 i lov nr. 1336 af 19. december 2008, § 3 i lov nr. 1338 af 19. december 2008, § 1 i lov nr. 1386 af 21. december 2009 og § 1 i lov nr. 1387 af 21. december 2009.
