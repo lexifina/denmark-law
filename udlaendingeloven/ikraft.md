@@ -2,7 +2,7 @@ Lov nr. 574 af 19. december 1985 indeholder følgende bestemmelse:
 
 § 2
 
-Loven træder i kraft dagen efter bekendtgørelsen i Lovtidendeog finder anvendelse i alle sager, der endnu ikke er afgjort af Flygtningenævnet.
+Loven træder i kraft dagen efter bekendtgørelsen i Lovtidende og finder anvendelse i alle sager, der endnu ikke er afgjort af Flygtningenævnet.
 
 Lov nr. 686 af 17. oktober 1986 indeholder følgende bestemmelse:
 
@@ -74,13 +74,13 @@ Stk. 3. § 1, nr. 9, finder alene anvendelse på personer, der indrejser i lande
 
 Lov nr. 473 af 12. juni 1996 om Folketingets Ombudsmand indeholder følgende bestemmelser:
 
-Ombudsmanden kan af egen drift optage en sag til undersøgelse.
+§ 17. Ombudsmanden kan af egen drift optage en sag til undersøgelse.
 
 Stk. 2. Ombudsmanden kan gennemføre generelle undersøgelser af en myndigheds behandling af sager.
 
-Denne lov træder i kraft den 1. januar 1997.
+§ 31. Denne lov træder i kraft den 1. januar 1997.
 
-(Udeladt)
+§ 32. (Udeladt)
 
 Stk. 2. Klager over Flygtningenævnets afgørelser, der er indgivet til Folketingets Ombudsmand inden lovens ikrafttræden, behandles efter de hidtil gældende bestemmelser.
 
@@ -306,7 +306,7 @@ Stk. 2-6. (Udeladt)
 
 Lov nr. 542 af 24. juni 2005 indeholder følgende bestemmelse:
 
-Loven træder i kraft den 1. januar 2007, jf. dog stk. 2.
+§ 6. Loven træder i kraft den 1. januar 2007, jf. dog stk. 2.
 
 Stk. 2. § 5 træder i kraft den 1. juli 2005.
 
@@ -509,3 +509,67 @@ Lov nr. 487 af 12. juni 2009 indeholder følgende bestemmelse:
 Stk. 1. Loven træder i kraft den 1. juli 2009.
 
 Stk. 2. Reglerne i udlændingelovens kapitel 7 b som affattet ved denne lovs § 1, nr. 7, finder også anvendelse ved behandlingen af sager, som før lovens ikrafttræden er anlagt ved eller indbragt for retten. En sag, som før lovens ikrafttræden er anlagt ved eller indbragt for byretten, skal ved lovens ikrafttræden henvises til fortsat behandling ved Københavns Byret, mens en sag, som før lovens ikrafttræden er anlagt ved eller henvist til landsretten, færdigbehandles af denne. Uanset udlændingelovens § 45 d, stk. 3, som affattet ved denne lovs § 1, nr. 7, har en sag anlagt ved, henvist til eller indbragt for retten før lovens ikrafttræden alene opsættende virkning, hvis dette følger af de hidtil gældende regler.
+
+Lov nr. 493 af 12. juni 2009 indeholder følgende bestemmelse:
+
+§ 3
+
+Stk. 1. (Udeladt)
+
+Stk. 2. (Udeladt)
+
+Stk. 3. Lovens § 2 træder i kraft efter ministeren for flygtninge, indvandrere og integrations nærmere bestemmelse.
+
+Lov nr. 1511 af 27. december 2009 indeholder følgende bestemmelse:
+
+§ 4
+
+Stk. 1. Loven træder i kraft den 1. januar 2010, jf. dog stk. 2 og 3
+
+Stk. 2. Lovens § 3, nr. 1, 4, 6, 10, 13, 14, 21 og 23 træder i kraft den 5. april 2010.
+
+Stk. 3. Integrationsministeren fastsætter tidspunktet for ikrafttræden af lovens § 3, nr. 2, 3, 22 og 24-26. Ministeren kan bestemme, at bestemmelserne træder i kraft på forskellige tidspunkter.
+
+Stk. 4. Udlændingelovens § 2 a, stk. 4, § 4, stk. 1, § 40, stk. 10 og 11, og § 47 c som affattet, ændret eller ophævet ved denne lovs § 3, nr. 1, 6, 13, 14 og 21, finder ikke anvendelse på ansøgninger, der er indgivet inden den 5. april 2010. For sådanne ansøgninger finder de hidtil gældende regler anvendelse.
+
+Lov nr. 400 af 21. april 2010 indeholder følgende bestemmelse:
+
+§ 3
+
+Stk. 1. Loven træder i kraft den 1. maj 2010, jf. dog stk. 2.
+
+Stk. 2. Tidspunktet for ikrafttræden af udlændingelovens § 4 a, stk. 2, § 9, stk. 2, 2. og 3. pkt., § 9, stk. 18, 4. pkt., § 9 f, stk. 4, og § 40 d som affattet ved denne lovs § 2, nr. 1-4 og 6, fastsættes af ministeren for flygtninge, indvandrere og integration.
+
+Lov nr. 571 af 31. maj 2010 indeholder følgende bestemmelse:
+
+§ 7
+
+Stk. 1. Loven træder i kraft den 1. august 2010, jf. dog stk. 2.
+
+Stk. 2. Lovens § 2, nr. 2 og § 3 træder i kraft den 15. juni 2010.
+
+Lov nr. 572 af 31. maj 2010 indeholder følgende bestemmelse:
+
+§ 2
+
+Stk. 1. Loven træder i kraft den 1. august 2010, jf. dog stk. 2 og 3.
+
+Stk. 2. Tidspunktet for ikrafttræden af udlændingelovens § 9 f, stk. 4, som affattet ved denne lovs § 1, nr. 6, fastsættes af ministeren for flygtninge, indvandrere og integration.
+
+Stk. 3. Udlændingelovens § 11, § 11 a, § 27, stk. 1, § 46, stk. 2, og § 46 a som affattet henholdsvis ændret ved denne lovs § 1, nr. 7-10, 21, 28 og 29, træder i kraft dagen efter bekendtgørelsen i Lovtidende og finder anvendelse for udlændinge, der fra og med den 26. marts 2010 indgiver ansøgning om tidsubegrænset opholdstilladelse. For udlændinge, der har indgivet ansøgning før den 26. marts 2010, finder de hidtil gældende regler anvendelse. Ophævelse af udlændingelovens §§ 11 c og 11 d, jf. denne lovs § 1, nr. 11, træder i kraft dagen efter bekendtgørelsen i Lovtidende. Ophævelsen gælder for udlændinge, der fra og med den 26. marts 2010 indgiver ansøgning om tidsubegrænset opholdstilladelse.
+
+Stk. 4. Udlændingelovens § 9, stk. 5, 1. pkt., som ændret ved denne lovs § 1, nr. 1, gælder alene i de tilfælde, hvor der efter lovens ikrafttræden indgives ansøgning om opholdstilladelse efter udlændingelovens § 9, stk. 1, nr. 1. For udlændinge, der har indgivet ansøgning før lovens ikrafttræden, finder de hidtil gældende regler anvendelse. Udlændingelovens § 9, stk. 18, § 9 a, stk. 4, § 9 b, stk. 3, § 9 c, stk. 5, § 9 f, stk. 7, og § 33, stk. 5, 1. pkt., som affattet og indsat ved denne lovs § 1, nr. 2-6 og 24, gælder alene for udlændinge, der indgiver ansøgning efter lovens ikrafttræden. For udlændinge, der har indgivet ansøgning før lovens ikrafttræden, finder de hidtil gældende regler anvendelse.
+
+Stk. 5. Udlændingelovens § 17, stk. 2, og § 44 c som indsat og affattet ved denne lovs § 1, nr. 12 og 27, gælder alene for udlændinge, der efter lovens ikrafttræden udrejser af Danmark og opholder sig uden for landet i mere end 3 måneder på genopdragelsesrejser eller andre udlandsophold af negativ betydning for deres skolegang og integration. For andre udlændinge finder de hidtil gældende regler anvendelse.
+
+Stk. 6. Udlændingelovens § 19, stk. 1, nr. 10, og § 22, nr. 6, som indsat og ændret ved denne lovs § 1, nr. 15 og 20, finder alene anvendelse for lovovertrædelser begået efter lovens ikrafttræden. For lovovertrædelser begået før lovens ikrafttræden finder de hidtil gældende regler anvendelse.
+
+Stk. 7. Udlændingelovens § 19, stk. 2, nr. 4, som indsat ved denne lovs § 1, nr. 18, gælder alene for udlændinge, der efter lovens ikrafttræden rejser til det land, hvor den myndighed, der har givet opholdstilladelsen, har fundet, at udlændingen risikerer forfølgelse omfattet af § 7.
+
+Stk. 8. Udlændingelovens § 33, stk. 3, 1. pkt., som ændret ved denne lovs § 1, nr. 22, gælder alene for udlændinge, der indgiver klage efter lovens ikrafttræden. For udlændinge, der har indgivet klage før lovens ikrafttræden, finder de hidtil gældende regler anvendelse.
+
+Lov nr. 573 af 31. maj 2010 indeholder følgende bestemmelse:
+
+§ 7
+
+Stk. 1. Loven træder i kraft den 1. juli 2010.
