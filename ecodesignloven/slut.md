@@ -1,7 +1,5 @@
-Givet på Christiansborg Slot, den 30. april 2008
+Energistyrelsen, den 15. september 2010
 
-Under Vor Kongelige Hånd og Segl
+Ib Larsen
 
-MARGRETHE R.
-
-/ Connie Hedegaard
+/ Henrik Andersen
