@@ -1,3 +1,3 @@
-Lov om visse forholdsregler i henhold til De Forenede Nationers pagt.
+Bekendtgørelse af lov om visse forholdsregler i henhold til De Forenede Nationers pagt
 
-VI FREDERIK DEN NIENDE, af Guds Nåde Konge til Danmark, de Venders og Goters, Hertug til Slesvig, Holsten, Stormarn, Ditmarsken, Lauenborg og Oldenborg, gør vitterligt: Folketinget har vedtaget og Vi ved Vort samtykke stadfæstet følgende lov:
+Herved bekendtgøres lov nr. 156 af 10. maj 1967 om visse forholdsregler i henhold til De Forenede Nationers pagt med de ændringer, der følger af § 2 i lov nr. 228 af 6. juni 1985 og § 3 i lov nr. 490 af 17. juni 2008.
