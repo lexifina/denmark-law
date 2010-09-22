@@ -1,9 +1,3 @@
-Givet på Amalienborg, den 19. december 1989
+Udenrigsministeriet, den 17. september 2010
 
-Under Vor Kongelige Hånd og Segl
-
-MARGRETHE R.
-
-/ Uffe Ellemann-Jensen
-
-Ingen
+Lene Espersen
