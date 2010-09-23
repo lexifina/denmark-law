@@ -1,7 +1,5 @@
-Lovændringen vedrører § 3, stk. 1, nr. 3 og § 14, stk. 2.
+1) Loven indeholder bestemmelser, der gennemfører dele af Europa-Parlamentets og Rådets direktiv 2003/59/EF af 15. juli 2003 om grundlæggende kvalifikationskrav og efteruddannelseskrav for førere af visse køretøjer, der benyttes til godstransport eller personbefordring ad vej, og om ændring af Rådets forordning (EØF) nr. 38/85 samt Rådets direktiv 91/439/EØF og om ophævelse af Rådets direktiv 76/914/EØF (EF-Tidende 2003 nr. L 226, side 4-17).
 
-Lovændringer vedrører § 1, stk. 1 og 2, § 2, stk. 3, § 3, stk. 1, nr. 1, § 3, stk. 2, § 4, stk. 1, § 4, stk. 2, § 4, stk. 5, § 6, stk. 4, § 7, stk. 1, § 8, § 12, § 12 a, § 13, stk. 1 og 2, § 13, stk. 3, 1. pkt., § 13, stk. 4, 1. pkt., § 13, stk. 5, 1. pkt., § 14, stk. 1, § 14, stk. 2, § 16, § 16 b, § 17, stk. 1, nr. 1 og § 17, stk. 3.
+2) Betegnelsen for trafikministeren og transport- og energiministeren er i hele lovbekendtgørelsen ændret til transportministeren som følge af kongelig resolution af 23. november 2007.
 
-Lovændringen vedrører § 1, stk. 1 og stk. 4, 2. pkt., § 6 a, § 17, stk. 1, nr. 1, 3 og 4.
-
-Lovændringen vedrører § 7, stk. 1.
+3) Den 15. april 2010 er Trafikstyrelsen og Færdselsstyrelsen sammenlagt til en fælles styrelse Trafikstyrelsen.

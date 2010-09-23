@@ -4,7 +4,7 @@
 
 1) tilladelsesindehaveren eller en chauffør ansat hos denne,
 
-2) en chauffør ansat hos en anden tiladelsesindehaver, idet der kun må ydes betaling for de med udlånet direkte forbundne omkostninger, eller
+2) en chauffør ansat hos en anden tilladelsesindehaver, idet der kun må ydes betaling for de med udlånet direkte forbundne omkostninger, eller
 
 3) en chauffør ansat hos en tilladelsesindehaver, der efter stk. 2 er godkendt til erhvervsmæssigt at udleje chauffører.
 
@@ -12,4 +12,4 @@ Stk. 2. Det kan i tilslutning til en tilladelse til godskørsel for fremmed regn
 
 Stk. 3. For godkendelse i henhold til stk. 2 finder bestemmelserne om meddelelse, fornyelse, tilbagekaldelse og bortfald af tilladelser i medfør af § 1, stk. 1, og § 4, stk. 1, 3 og 4, tilsvarende anvendelse.
 
-Stk. 4. Trafikministeren kan fastsætte regler om meddelelse af godkendelse i henhold til stk. 2.
+Stk. 4. Transportministeren kan fastsætte regler om meddelelse af godkendelse i henhold til stk. 2.
