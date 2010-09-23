@@ -1,1 +1,1 @@
-§ 18 a. Trafikministeren bemyndiges til at fravige lovens bestemmelser i forbindelse med konkrete tidsbegrænsede og afgrænsede forsøg med buskørsel under inddragelse af vedkommende tilladelsesudstedende myndigheder.
+§ 18 a. (Ophævet)
