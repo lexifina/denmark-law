@@ -15,3 +15,5 @@ Stk. 4. Reparatørvirksomheden opgør omkostningerne ved genopbygningen på grun
 Stk. 5. Hvis betingelserne for afgiftsfritagelse efter stk. 1-4 ikke er opfyldt, skal køretøjet anmeldes til afgiftsberigtigelse hos told- og skatteforvaltningen.
 
 Stk. 6. Skatteministeren fastsætter nærmere administrative regler for motorkøretøjer omfattet af stk. 1-5.
+
+Stk. 7. En registreret motorcykel, der monteres med en sidevogn, mister ikke derved sin afgiftsmæssige identitet. Det samme gælder en registreret motorcykel med sidevogn, hvor sidevognen afmonteres.
