@@ -1,3 +1,9 @@
-## Personlig hygiejne under anvendelse af tvang
+§ 18 f. Lægen kan beslutte, at der skal foretages aflåsning af døre i afdelingen, dog ikke af døre til patientstuer, over for
 
-§ 18 f. Overlægen kan beslutte, at en patient, der på grund af sin sindslidelse ikke selv er i stand til at varetage nødvendig personlig hygiejne, skal have foretaget personlig hygiejne under anvendelse af tvang, hvis dette er nødvendigt af hensyn til patienten selv eller af hensyn til medpatienter eller personale.
+1) patienter, der er frihedsberøvede efter kapitel 3, og
+
+2) patienter, for hvem der er risiko for, at de utilsigtet udsætter sig selv for væsentlig fare, jf. § 18.
+
+Stk. 2. Lægen kan endvidere beslutte, at der skal foretages aflåsning af døre, dog ikke af døre til patientstuer over for en patient, der ikke er omfattet af stk. 1, hvis patienten selv anmoder herom. På patientens anmodning skal aflåsningen straks ophæves.
+
+Stk. 3. Alle patienter på afdelingen skal straks efter, at en beslutning om aflåsning efter stk. 1 og 2 er truffet, underrettes herom.

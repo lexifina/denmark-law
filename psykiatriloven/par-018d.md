@@ -1,1 +1,11 @@
-§ 18 d. Patienten skal i forbindelse med indlæggelse på afdelingen orienteres om afdelingens indretning, herunder om forekomsten af mindre enheder på afdelingen, hvortil døren kan aflåses, hvis sådanne mindre enheder findes på afdelingen.
+## Personlig skærmning og aflåsning af døre i afdelingen
+
+§ 18 d. Ved personlig skærmning forstås i denne lov foranstaltninger, hvor et eller flere personalemedlemmer konstant befinder sig i umiddelbar nærhed af patienten.
+
+Stk. 2. Personlig skærmning, som patienten ikke samtykker til, må kun benyttes, i det omfang det er nødvendigt for at afværge, at en patient
+
+1) begår selvmord eller på anden vis udsætter sit eller andres helbred for betydelig skade eller
+
+2) forfølger eller på anden lignende måde groft forulemper medpatienter eller andre.
+
+Stk. 3. En beslutning om personlig skærmning træffes af en læge, efter at denne har tilset patienten.
