@@ -1,9 +1,1 @@
-§ 18 e. Lægen kan beslutte, at der skal foretages aflåsning af døre i afdelingen, dog ikke af døre til patientstuer, over for
-
-1) patienter, der er frihedsberøvede efter kapitel 3, og
-
-2) patienter, for hvem der er risiko for, at de utilsigtet udsætter sig selv for væsentlig fare, jf. § 18.
-
-Stk. 2. Lægen kan endvidere beslutte, at der skal foretages aflåsning af døre, dog ikke af døre til patientstuer over for en patient, der ikke er omfattet af stk. 1, hvis patienten selv anmoder herom. På patientens anmodning skal aflåsningen straks ophæves.
-
-Stk. 3. Alle patienter på afdelingen skal straks efter, at en beslutning om aflåsning efter stk. 1 og 2 er truffet, underrettes herom.
+§ 18 e. Patienten skal i forbindelse med indlæggelse på afdelingen orienteres om afdelingens indretning, herunder om forekomsten af mindre enheder på afdelingen, hvortil døren kan aflåses, hvis sådanne mindre enheder findes på afdelingen.

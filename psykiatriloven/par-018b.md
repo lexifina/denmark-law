@@ -1,4 +1,4 @@
-§ 18 b. Aflåsning af patientstuer kan i følgende tilfælde foretages af sikkerhedsmæssige grunde over for patienter, der er anbragt i Sikringsafdelingen under Psykiatrisk Center, Sygehus Vestsjælland, jf. kapitel 11:
+§ 18 b. Aflåsning af patientstuer kan i følgende tilfælde foretages af sikkerhedsmæssige grunde over for patienter, der er anbragt i Sikringsafdelingen under Retspsykiatrisk afdeling, Region Sjælland, jf. kapitel 11:
 
 1) Om natten,
 

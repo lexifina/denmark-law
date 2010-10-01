@@ -1,1 +1,1 @@
-§ 41 a. Justitsministeren kan fastsætte regler om meddelelse af tilladelse til udgang m.v. til personer, der efter § 40, stk. 1, er anbragt i Sikringsafdelingen under Psykiatrisk Center, Sygehus Vestsjælland.
+§ 41 a. Justitsministeren kan fastsætte regler om meddelelse af tilladelse til udgang m.v. til personer, der efter § 40, stk. 1, er anbragt i Sikringsafdelingen under Retspsykiatrisk afdeling, Region Sjælland.

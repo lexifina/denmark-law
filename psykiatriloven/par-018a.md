@@ -1,6 +1,6 @@
-## Aflåsning af patientstue på Sikringsafdelingen under Psykiatrisk Center, Sygehus Vestsjælland
+## Særlige tvangsforanstaltninger på Sikringsafdelingen under Retspsykiatrisk afdeling, Region Sjælland
 
-§ 18 a. Aflåsning af patientstue kan anvendes over for patienter, der er anbragt i Sikringsafdelingen under Psykiatrisk Center, Sygehus Vestsjælland, jf. kapitel 11.
+§ 18 a. Aflåsning af patientstue kan anvendes over for patienter, der er anbragt i Sikringsafdelingen under Retspsykiatrisk afdeling, Region Sjælland, jf. kapitel 11.
 
 Stk. 2. Aflåsning af patientstue kan anvendes behandlingsmæssigt med henblik på
 
@@ -12,7 +12,7 @@ Stk. 3. Aflåsning af patientstue kan tillige anvendes, i det omfang det er nød
 
 1) udsætter andre for nærliggende fare for at lide skade på legeme eller helbred,
 
-2) forfølger eller på anden lignende måde groft forulemper medpatienter eller
+2) forfølger eller på anden, lignende måde groft forulemper medpatienter eller
 
 3) øver hærværk af ikke ubetydeligt omfang.
 
