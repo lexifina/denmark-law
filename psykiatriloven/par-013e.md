@@ -1,0 +1,1 @@
+§ 13 e. Ministeren for sundhed og forebyggelse fastsætter regler om tvungen opfølgning efter udskrivning, herunder efter forhandling med justitsministeren om politiets afhentning af patienten, hvis denne ikke frivilligt møder op til medicinering, og om sundhedspersonens medvirken hertil.
