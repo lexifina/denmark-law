@@ -1,0 +1,3 @@
+§ 2 a. Overtager et datterselskab til Finansiel Stabilitet A/S et pengeinstituts virksomhed efter kapitel 4 b i lov om finansiel stabilitet, skal Fonden via afviklingsafdelingen stille en tabskaution over for Finansiel Stabilitet A/S for Finansiel Stabilitet A/S´ kapitalisering af datterselskabet, jf. § 16 e, stk. 2, i lov om finansiel stabilitet, for Finansiel Stabilitet A/S´ tildeling af likviditetsramme til datterselskabet, jf. § 16 e, stk. 3, i lov om finansiel stabilitet, og for eventuelt underskud i Finansiel Stabilitet A/S´ datterselskab som følge af afviklingen.
+
+Stk. 2. Økonomi- og erhvervsministeren kan fastsætte nærmere bestemmelser om betalingen af en risikopræmie for Fondens garantistillelse efter stk. 1.
