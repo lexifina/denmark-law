@@ -1,5 +1,5 @@
-Energistyrelsen, den 18. november 2005
+Energistyrelsen, den 6. oktober 2010
 
 Ib Larsen
 
-/Hanne Windemuller
+/ Jens Skov-Spilling

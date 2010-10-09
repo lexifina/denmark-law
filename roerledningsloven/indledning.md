@@ -1,3 +1,5 @@
 Bekendtgørelse af lov om etablering og benyttelse af en rørledning til transport af råolie og kondensat
 
-Herved bekendtgøres lov nr. 291 af 10. juni 1981 om etablering og benyttelse af en rørledning til transport af råolie og kondensat med de ændringer der følger af § 7 i lov nr. 254 af 8. juni 1983, § 1 i lov nr. 432 af 10. juni 1997, § 2 i lov nr. 74 af 12. februar 2002, § 1 i lov nr. 206 af 29. marts 2004 og § 3 i lov nr. 1427 af 22. december 2004.
+Herved bekendtgøres lov om etablering og benyttelse af en rørledning til transport af råolie og kondensat, jf. lovbekendtgørelse nr. 1100 af 18. november 2005, med de ændringer der følger af lov nr. 542 af 26. maj 2010.
+
+De ændringer, der følger af § 52 i lov nr. 718 af 25. juni 2010, er ikke indarbejdet i denne bekendtgørelse, da tidspunktet for ikrafttrædelsen af disse ændringer fastsættes af justitsministeren, jf. § 55, stk. 1, i lov nr. 718 af 25. juni 2010.
