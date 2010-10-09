@@ -1,0 +1,11 @@
+§ 3 c. Brugerne af separationsfaciliteterne har pligt til at betale DONG Oil Pipe A/S’ omkostninger i forbindelse med faciliteterne. Brugernes betaling for brug af separationsfaciliteterne skal i et regnskabsår dække omkostninger i forbindelse med faciliteterne i samme år. Omkostninger omfatter alle omkostninger relateret til driften af separationsfaciliteterne fratrukket eventuelle indtægter. Omkostninger omfatter endvidere de faktisk afholdte omkostninger til afdrag og forrentning af lån (fremmedkapital) til finansiering af separationsfaciliteterne, forrentning af den egenkaptalbinding, som investeringen i separationsfaciliteterne medfører, jf. stk. 2, og hensættelser til omkostninger til fjernelse af separationsfaciliteterne.
+
+Stk. 2. DONG Oil Pipe A/S’ binding af egenkapital til finansiering af separationsfaciliteterne forrentes med den effektive rente for de aktuelle lån til finansiering af separationsfaciliteterne i samme regnskabsår med tillæg af 3 procentpoint. Uanset den faktiske egenkapital i DONG Oil Pipe A/S fastsættes egenkapitalbindingen ved beregning af DONG Oil Pipe A/S’ omkostninger til 30 pct. af den samlede kapital, som i gennemsnit over året er bundet i separationsfaciliteterne.
+
+Stk. 3. Brugere, hvis råolie og kondensat kræver separation, og brugere, hvis råolie og kondensat ikke kræver separation, men som ønsker at få foretaget separation, betaler for separation et beløb, der opgøres som de gennemsnitlige omkostninger, jf. stk. 1, i regnskabsåret pr. ton kondensat, som er frasepareret i samme regnskabsår.
+
+Stk. 4. DONG Oil Pipe A/S kan opkræve acontobetaling for brug af separationsfaciliteterne.
+
+Stk. 5. DONG Oil Pipe A/S offentliggør den aktuelle betaling for brug af separationsfaciliteterne.
+
+Stk. 6. DONG Oil Pipe A/S aflægger særskilt regnskab for virksomhed efter § 1, stk. 2. Regnskabet revideres efter de regler, der til enhver tid er gældende for DONG Oil Pipe A/S’ samlede virksomhed. Regnskabsåret følger kalenderåret. Regnskab bilagt udtalelser fra brugerne fremsendes til klima- og energiministeren. DONG Oil Pipe A/S offentliggør regnskabet. I tilfælde af uenighed om regnskabet mellem en bruger og DONG Oil Pipe A/S træffer klima- og energiministeren afgørelse.
