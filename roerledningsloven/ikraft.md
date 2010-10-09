@@ -4,7 +4,7 @@ Lov nr. 254 af 8. juni 1983 om Dansk Olie og Naturgas A/S m.v., der vedrører §
 
 Stk. 2. (Udeladt)
 
-Lov nr. 432 af 10. juni 1997 om ændring af lov om etablering og benyttelse af en rørledning til transport af råolie og kondensat, der vedrører § 2, stk. 4, indeholder følgende ikrafttrædelsesbestemmelse:
+Lov nr. 432 af 10. juni 1997 om ændring af lov om etablering og benyttelse af en rørledning til transport af råolie og kondensat, der vedrører § 2, stk. 4, indeholder følgende ikrafttrædelsesbe-stemmelse:
 
 § 2
 
@@ -22,8 +22,14 @@ Lov nr. 206 af 29. marts 2004 om ændring af lov om etablering og benyttelse af 
 
 Loven træder i kraft dagen efter bekendtgørelsen i Lovtidende.
 
-Lov nr. 1427 af 22. december 2004 om ophævelse af lov om Dansk Olie og Naturgas A/S m.v. og anlægslov for naturgasforsyning og ændring af lov om etablering og benyttelse af en rørledning til transport af råolie og kondensat, der vedrører § 3a, indeholder følgende ikrafttrædelsesbestemmelse:
+Lov nr. 1427 af 22. december 2004 om ophævelse af lov om Dansk Olie og Naturgas A/S m.v. og anlægslov for naturgasforsyning og ændring af lov om etablering og benyttelse af en rørledning til transport af råolie og kondensat, der vedrører § 3 a, indeholder følgende ikrafttrædelsesbestemmelse:
 
 § 4
 
 Loven træder i kraft den 1. januar 2005.
+
+Lov nr. 542 af 26. maj 2010 om ændring af lov om etablering og benyttelse af en rørledning til transport af råolie og kondensat, der vedrører § 1, § 2, stk. 4, 2. pkt., § 2, stk. 5, § 2 a, § 2 b, § 3, stk. 3-6, § 3 a, stk. 1, § 3 b, § 3 c, § 3 d, § 5, stk. 1 og § 6, stk. 2, indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 2
+
+Loven træder i kraft den 1. juli 2010.
