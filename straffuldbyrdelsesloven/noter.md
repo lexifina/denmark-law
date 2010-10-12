@@ -1,25 +1,13 @@
-1) Lovændringen vedrører § 81 og § 86, stk. 2.
+) Lovændringen vedrører § 18, stk. 3, 1. pkt., og stk. 4, 2. pkt., § 45 a og § 60, stk. 5, 1. pkt. Disse ændringer trådte i kraft den 1. januar 2007. Efter bekendtgørelse nr. 9 af 16. januar 2008 om ikrafttræden af § 1, nr. 4, i lov om ændring af lov om fuldbyrdelse af straf m.v. træder lovens § 1, nr. 4, som vedrører § 123 a i lov om fuldbyrdelse af straf m.v., i kraft den 18. januar 2008.
 
-2) Lovændringen vedrører § 60 a, § 67, nr. 4-6, § 68, stk. 2, nr. 3, § 82, stk. 3, og § 95, stk. 3.
+2) Lovændringen vedrører § 78 a, stk. 1-2.
 
-3) Lovændringen vedrører § 8, stk. 4, overskriften til kapitel 7, § 20, stk. 3, § 33, stk. 2, § 33, stk. 5, § 33 a, § 75, stk. 1, §§ 78 a-78 f og § 106, stk. 2.
+3) Lovændringen vedrører § 78 a, stk. 2-3.
 
-4) Bekendtgjort i Lovtidende den 25. maj 2005.
+5) Lovændringen vedrører § 62, stk. 6.
 
-5) Lovændringen vedrører § 90, § 91, § 92, stk. 1, og § 111, stk. 1.
+6) Lovændringen vedrører § 10, nr. 2, § 12, stk. 1, 2. pkt., § 78 a, stk. 3, 3. pkt., og § 78 b, stk. 2.
 
-6) Bekendtgjort i Lovtidende den 7. juni 2005.
+7) Lovændringen vedrører § 121, stk. 1, 3. pkt.
 
-7) Lovændringen vedrører § 50, 2. pkt., og § 78 a, stk. 1 og 2.
-
-8) Bekendtgjort i Lovtidende den 20. april 2006.
-
-9) Lovændringen vedrører § 120, stk. 3, 3. pkt.
-
-10) Lovændringen vedrører § 18, stk. 3, 1. pkt., og stk. 4, 2. pkt., § 45 a og § 60, stk. 5, 1. pkt. Disse ændringer er indarbejdet i lovbekendtgørelsen. Lovændringen vedrører endvidere § 123 a. Denne ændring er ikke indarbejdet i lovbekendtgørelsen, da tidspunktet for ikrafttræden af denne ændring fastsættes af justitsministeren.
-
-11) Lovændringen vedrører § 110 a.
-
-12) Bekendtgjort i Lovtidende den 2. maj 2007.
-
-13) Lovændringen vedrører § 36, stk. 4.
+8) Lovændringen vedrører § 78 a, stk. 1.
