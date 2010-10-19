@@ -1,0 +1,1 @@
+§ 26 b. DSB tilbyder de i Combus a/s udlånte tjenestemænd, som ikke lader sig ansætte på overenskomstvilkår i busselskabet, anden passende beskæftigelse, jf. tjenestemandslovens § 12, samt afholder de hermed forbundne udgifter til omskoling og efteruddannelse eller udgifter til rådighedsløn m.v.

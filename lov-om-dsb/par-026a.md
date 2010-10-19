@@ -1,0 +1,1 @@
+§ 26 a. DSB betaler de i Combus a/s udlånte tjenestemænd, som vælger at lade sig ansætte på overenskomstvilkår i busselskabet, et engangsvederlag i form af en kontant fratrædelsesgodtgørelse eller ved opskrivning af pensionsalder eller en kombination heraf.
