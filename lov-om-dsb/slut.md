@@ -1,9 +1,5 @@
-Givet på Marselisborg, den 1. juli 1998
+Transportministeriet, den 12. oktober 2010
 
-Under Vor Kongelige Hånd og Segl
+Hans Christian Schmidt
 
-Margrethe R.
-
-/ Sonja Mikkelsen
-
-Ingen
+/ Michael Birch
