@@ -8,7 +8,9 @@
 
 4) retsstridig fremkaldelse, bestyrkelse eller udnyttelse af en vildfarelse eller
 
-5) anden utilbørlig fremgangsmåde med henblik på udnyttelse af den pågældende ved kønslig usædelighed, tvangsarbejde, slaveri eller slaverilignende forhold eller fjernelse af organer.
+5) anden utilbørlig fremgangsmåde
+
+med henblik på udnyttelse af den pågældende ved kønslig usædelighed, tvangsarbejde, slaveri eller slaverilignende forhold eller fjernelse af organer.
 
 Stk. 2. På samme måde straffes den, der med henblik på udnyttelse af den pågældende ved kønslig usædelighed, tvangsarbejde, slaveri eller slaverilignende forhold eller fjernelse af organer
 
