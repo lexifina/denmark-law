@@ -60,26 +60,38 @@ Stk. 1. Loven træder i kraft den 1. juli 2005.
 
 Stk. 2. § 1, nr. 6, træder dog i kraft dagen efter bekendtgørelse i Lovtidende.
 
-Lov nr. 1404 af 27. december 2008 (Styrket indsats mod piratkopiering m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
-
-§ 9
-
-Stk. 1. Loven træder i kraft den 1. januar 2009.
-
-Stk. 2-4. (Udelades)
-
-Lov nr. 319 af 28. april 2009 (Gennemførelse af Europarådets konvention om beskyttelse af børn mod seksuel udnyttelse og seksuelt misbrug m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
+Lov nr. 1107 af 1. december 2009 (Styrket indsats mod omfattende forstyrrelse af den offentlige orden m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
 
 § 3
 
-Loven træder i kraft den 1. juli 2009.
+Loven træder i kraft den 3. december 2009.
 
-Lov nr. 501 af 12. juni 2009 (Styrket indsats mod bandekriminalitet m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
+Lov nr. 651 af 15. juni 2010 (Skærpelse af straffen for ulovlig tvang i forbindelse med brug af ansigtstildækkende beklædning samt ansigtstildækkende beklædning under vidneforklaring) indeholder følgende ikrafttrædelsesbestemmelse:
 
-§ 7
+§ 3
 
-Stk. 1. Loven træder i kraft den 15. juni 2009.
+Loven træder i kraft den 1. juli 2010.
 
-Stk. 2. § 10, nr. 2, § 12, stk. 1, og § 78 a, stk. 3, i lov om fuldbyrdelse af straf m.v., som ændret ved denne lovs § 5, nr. 1-3, finder anvendelse på personer, der idømmes fængselsstraf efter den 15. juni 2009.
+Lov nr. 711 af 25. juni 2010 (Ungdomskriminalitet) indeholder følgende ikrafttrædelsesbestemmelse:
 
-Stk. 3. Forvaltningslovens § 9, stk. 4, nr. 5, som affattet ved denne lovs § 6, nr. 3, gælder for dokumenter, der udarbejdes efter lovens ikrafttræden.
+§ 4
+
+Loven træder i kraft den 1. juli 2010.
+
+Lov nr. 716 af 25. juni 2010 (Skærpet indsats mod vanvidskørsel, indførelse af alkolåsordning og udvidet mulighed for udenretlig vedtagelse af førerretsfrakendelse m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 3
+
+Stk. 1. Loven træder i kraft den 1. juli 2010, jf. dog stk. 2 og 3.
+
+Stk. 2-5. (Udelades)
+
+Lov nr. 718 af 25. juni 2010 (Rekonstruktion m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 55
+
+Stk. 1. Justitsministeren fastsætter tidspunktet for lovens ikrafttræden.
+
+Stk. 2-9. (Udelades)
+
+Stk. 10. Straffelovens § 283, stk. 1, nr. 2, § 300, nr. 3, og § 304, stk. 2, som affattet ved denne lovs § 11, nr. 1, 3 og 4, finder tilsvarende anvendelse på forhandling om tvangsakkord.

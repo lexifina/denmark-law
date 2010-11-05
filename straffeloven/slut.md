@@ -1,8 +1,8 @@
-Justitsministeriet, den 29. oktober 2009
+Justitsministeriet, den 26. oktober 2010
 
-Brian Mikkelsen
+Lars Barfoed
 
-/ Jens Røn
+/ Anette Arnsted
 
 Bilag
 
