@@ -76,58 +76,6 @@ Stk. 2. Retssager, der er under behandling ved lovens ikrafttræden, færdigbeha
 
 Stk. 3. (Udelades)
 
-Lov nr. 554 af 24. juni 2005 (Sagsomkostninger, retshjælp og fri proces), som ændret ved lov nr. 500 af 6. juni 2007, indeholder følgende ikrafttrædelsesbestemmelse:
-
-§ 12
-
-Stk. 1. Lovens § 1, nr. 1, 6, 8, 10, 11, 13-17, 19 og 25, §§ 3-5 og § 7, nr. 3 og 4, træder i kraft den 1. juli 2005. Lovens § 1, nr. 2-5, 7, 9, 12, 18 og 20-24, § 2, § 6, § 7, nr. 1 og 2, og §§ 8-11 træder i kraft den 1. januar 2007.
-
-Stk. 2. I sager efter retsplejelovens kapitel 42, hvor ansøgning om fri proces er modtaget inden den 1. oktober 2009, opfylder en ansøger, der er samlevende, uanset retsplejelovens § 325, stk. 4, som affattet ved denne lovs § 1, nr. 9, tillige de økonomiske betingelser for fri proces, hvis ansøgerens eget indtægtsgrundlag ikke overstiger indtægtsgrænsen for enlige i retsplejelovens § 325, stk. 3, jf. stk. 2, som affattet ved denne lovs § 1, nr. 9.
-
-Stk. 3. (Udelades)
-
-Stk. 4. Regulering efter retsplejelovens § 326 som affattet ved denne lovs § 1, nr. 9, foretages første gang pr. 1. januar 2007 med 4,0 pct. tillagt eller fratrukket tilpasningsprocenterne for 2006 og 2007.
-
-Stk. 5. Fra den 1. januar 2007 dækker retshjælpsforsikringer uden fradrag af selvrisiko, såfremt sikrede opfylder de økonomiske betingelser efter retsplejelovens § 325, og sikrede behøver ikke at ansøge om fri proces, for at retshjælpsforsikringen dækker. Eksisterende policer behøver ikke forsynes med påtegning herom.
-
-Stk. 6. En forsikringstager kan ikke opsige en forsikringsaftale på grund af en forhøjelse af præmien, som alene er begrundet med den ændring af størrelsen af sagsomkostningerne, der er en følge af denne lov.
-
-Lov nr. 1398 af 21. december 2005 (Behandlingen af større straffesager om økonomisk kriminalitet, adgang til teleoplysning i visse børsstrafferetlige sager m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
-
-§ 2
-
-Stk. 1. Loven træder i kraft den 1. januar 2006.
-
-Stk. 2. Lovens § 1, nr. 1, har virkning for sager, hvor anklageskriftet indgives efter lovens ikrafttræden.
-
-Lov nr. 1399 af 21. december 2005 (Den Særlige Klagerets behandling af klager over dommere m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
-
-§ 2
-
-Stk. 1. Loven træder i kraft den 1. januar 2006.
-
-Stk. 2. Lovens § 1, nr. 3 og 4, finder anvendelse på forhold, der har fundet sted efter lovens ikrafttræden.
-
-Lov nr. 526 af 7. juni 2006 (Digital skibsregistrering, pant, udlæg m.v., i fiskerirettigheder, fordeling af bjærgeløn og skibes hjemsted) indeholder følgende ikrafttrædelsesbestemmelse:
-
-§ 5
-
-Stk. 1. Økonomi- og erhvervsministeren fastsætter tidspunktet for lovens ikrafttræden, jf. dog stk. 2. Ministeren kan fastsætte, at dele af loven træder i kraft på et senere tidspunkt.
-
-Stk. 2. § 1, nr. 25 og 27, og § 3, nr. 3-5 træder i kraft dagen efter bekendtgørelsen i Lovtidende.
-
-Stk. 3-5. (Udelades)
-
-Stk. 6. Retsplejelovens § 510, stk. 1, som ændret ved denne lovs § 3, nr. 3, retsplejelovens § 510, stk. 4, som indsat ved denne lovs § 3, nr. 4, og retsplejelovens § 518, stk. 3, som ændret ved denne lovs § 3, nr. 5, finder alene anvendelse på retsforfølgning, der foretages efter disse bestemmelsers ikrafttræden.
-
-Lov nr. 534 af 8. juni 2006 (Revision af psykiatriloven, herunder tvangsdefinition, personlig skærmning, aflåsning af døre i afdelingen, øget lægeligt tilsyn og ekstern efterprøvelse, ændret klageadgang m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
-
-§ 3
-
-Stk. 1. Loven træder i kraft den 1. januar 2007.
-
-Stk. 2. Afgørelser fra det psykiatriske patientklagenævn ved statsamtet/Københavns Overpræsidium om tvangsindlæggelse, tvangstilbageholdelse og tilbageførsel, som er truffet inden den 1. januar 2007, skal efter anmodning fra patienten eller patientrådgiveren indbringes for retten efter reglerne i retsplejelovens kapitel 43 a. Afgørelser fra det psykiatriske patientklagenævn ved statsamtet/Københavns Overpræsidium om tvangsbehandling, tvangsfiksering, anvendelse af fysisk magt, beskyttelsesfiksering, anvendelse af personlige alarm- og pejlesystemer og særlige dørlåse samt aflåsning af patientstue på Sikringsafdelingen under Psykiatrisk Center, Sygehus Vestsjælland, som er truffet inden den 1. januar 2007, kan påklages til Sundhedsvæsenets Patientklagenævn.
-
 Lov nr. 537 af 8. juni 2006 (Dommeres bibeskæftigelse) indeholder følgende ikrafttrædelsesbestemmelse:
 
 § 2
@@ -202,28 +150,6 @@ Stk. 2. Tinglysningsretten overtager tinglysningen fra byretterne efter Domstols
 
 Stk. 3. Lovens § 1, nr. 61, 64, 66, 67, 68 og 130, og retsplejelovens § 831, stk. 8, og § 854 som affattet ved denne lovs § 1, nr. 132, træder i kraft efter justitsministerens nærmere bestemmelse. Retsplejelovens § 353, stk. 6, § 365, stk. 4 og 5, § 378, stk. 3, § 386 a, § 398, stk. 2, 3. pkt., og § 506 som affattet ved denne lovs § 1, nr. 86, 87, 92, 97, 101 og 107, finder anvendelse på telekommunikation med billede efter justitsministerens nærmere bestemmelse.
 
-Lov nr. 539 af 8. juni 2006 (Digital tinglysning) indeholder følgende ikrafttrædelsesbestemmelse:
-
-§ 13
-
-Stk. 1. Justitsministeren fastsætter tidspunktet for lovens ikrafttræden, jf. dog stk. 5 og 6.
-
-Stk. 2-6. (Udelades)
-
-Lov nr. 542 af 8. juni 2006 (Styrkelse af indsatsen for at bekæmpe terrorisme m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
-
-§ 9
-
-Stk. 1. Loven træder i kraft dagen efter bekendtgørelsen i Lovtidende, jf. dog stk. 2-5. § 6 finder anvendelse på anmodninger om udlevering efter Europarådets konvention om forebyggelse af terrorisme, henholdsvis FN-konventionen til bekæmpelse af nuklear terrorisme, der fremsættes efter, at den pågældende konvention er trådt i kraft mellem Danmark og vedkommende fremmede stat.
-
-Stk. 2. Justitsministeren fastsætter efter forhandling med ministeren for videnskab, teknologi og udvikling tidspunktet for ikrafttrædelsen af retsplejelovens § 791 a, stk. 6, som affattet ved denne lovs § 2, nr. 8.
-
-Stk. 3. Retsplejelovens § 791 c som affattet ved denne lovs § 2, nr. 11, træder i kraft den 1. juli 2006.
-
-Stk. 4. Transport- og energiministeren fastsætter efter forhandling med justitsministeren tidspunktet for ikrafttrædelsen af luftfartslovens § 148 a som affattet ved denne lovs § 5, nr. 1.
-
-Stk. 5. § 3 træder i kraft den 1. januar 2007.
-
 Lov nr. 181 af 28. februar 2007 (Gruppesøgsmål m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
 
 § 8
@@ -282,22 +208,6 @@ Stk. 2. Afbrydelse af forældelse, der har fundet sted før lovens ikrafttræden
 
 Stk. 3-8. (Udelades)
 
-Lov nr. 168 af 12. marts 2008 (Retsmægling m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
-
-§ 4
-
-Stk. 1. Loven træder i kraft den 1. april 2008, jf. dog stk. 2.
-
-Stk. 2. (Udelades)
-
-Stk. 3. En forsikringstager kan ikke opsige en forsikringsaftale på grund af en ændring af forsikringsvilkårene, som alene er begrundet med indførelse af regler om retsmægling, jf. retsplejelovens kapitel 27 som affattet ved denne lovs § 1, nr. 8.
-
-Lov nr. 313 af 30. april 2008 (Ændringer som følge af en ny retsplejelov og kriminallov for Grønland m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
-
-§ 5
-
-Loven træder i kraft den 1. januar 2010.
-
 Lov nr. 479 af 17. juni 2008 (Gennemførelse af Prümafgørelsen om udveksling af oplysninger om dna-profiler, fingeraftryk og køretøjer m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
 
 § 6
@@ -306,54 +216,6 @@ Stk. 1. Justitsministeren fastsætter tidspunktet for lovens ikrafttræden, jf. 
 
 Stk. 2. (Udelades)
 
-Lov nr. 1336 af 19. december 2008 (Konsekvensændringer som følge af lov om inddrivelse af gæld til det offentlige) indeholder følgende ikrafttrædelsesbestemmelse:
-
-§ 167
-
-Stk. 1. Loven træder i kraft den 1. januar 2009, jf. dog stk. 2. (Udelades)
-
-Stk. 2. (Udelades)
-
-Lov nr. 114 af 16. februar 2009 (Udveksling af oplysninger som led i politiets samarbejde med de sociale myndigheder og psykiatrien) indeholder følgende ikrafttrædelsesbestemmelse:
-
-§ 2
-
-Loven træder i kraft den 1. april 2009.
-
-Lov nr. 187 af 18. marts 2009 (Advokatselskabers navn, sammensætningen af advokatselskabers bestyrelse og direktion m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
-
-§ 2
-
-Loven træder i kraft den 1. april 2009.
-
-Lov nr. 319 af 28. april 2009 (Gennemførelse af Europarådets konvention om beskyttelse af børn mod seksuel udnyttelse og seksuelt misbrug m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
-
-§ 3
-
-Loven træder i kraft den 1. juli 2009.
-
-Lov nr. 493 af 12. juni 2009 (Videokommunikation ved fristforlængelser og justering af dommernormering) indeholder følgende ikrafttrædelsesbestemmelse:
-
-§ 3
-
-Stk. 1. Lovens § 1, nr. 1 og 2, træder i kraft den 1. juni 2009. Nedsættelsen af antallet af landsdommere ved Østre Landsret som fastsat ved lovens § 1, nr. 1, sker ved de to første tilfælde af ledighed i en fast stilling efter lovens ikrafttræden.
-
-Stk. 2. Lovens § 1, nr. 3-5, træder i kraft efter justitsministerens nærmere bestemmelse.
-
-Stk. 3. (Udelades)
-
-Lov nr. 494 af 12. juni 2009 (Adoption uden samtykke, stedbarnsadoption af registreret partners barn fra fødslen m.v.) indeholder følgende ikrafttrædelsesbestemmelser:
-
-§ 6
-
-Stk. 1. Loven træder i kraft den 1. oktober 2009, jf. dog stk. 2.
-
-Stk. 2. (Udelades)
-
-§ 7
-
-(Udelades)
-
 Lov nr. 495 af 12. juni 2009 (Dommeres fremtræden i retsmøder) indeholder følgende ikrafttrædelsesbestemmelse:
 
 § 2
@@ -361,26 +223,6 @@ Lov nr. 495 af 12. juni 2009 (Dommeres fremtræden i retsmøder) indeholder føl
 Stk. 1. Loven træder i kraft den 1. juli 2009, jf. dog stk. 2.
 
 Stk. 2. Justitsministeren fastsætter tidspunktet for ikrafttræden af retsplejelovens § 56 a som affattet ved denne lovs § 1, nr. 1.
-
-Lov nr. 497 af 12. juni 2009 (Udvidelse af adgangen til i retskendelser om telefonaflytning m.v. at anføre den person, som aflytningen angår) indeholder følgende ikrafttrædelsesbestemmelse:
-
-§ 2
-
-Loven træder i kraft den 1. juli 2009.
-
-Lov nr. 501 af 12. juni 2009 (Styrket indsats mod bandekriminalitet m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
-
-§ 7
-
-Stk. 1. Loven træder i kraft den 15. juni 2009.
-
-Stk. 2-3. (Udelades)
-
-Lov nr. 504 af 12. juni 2009 (Visse ændringer i forbindelse med overgangen til digital tinglysning) indeholder følgende ikrafttrædelsesbestemmelse:
-
-§ 5
-
-Loven træder i kraft den 1. juli 2009.
 
 Lov nr. 505 af 12. juni 2009 (Behandling af værgemålssager, ajourføring af regler om advokaters virksomhed, digital-, tele- og videokommunikation, afskaffelse af hæftestraffen m.v.) indeholder følgende ikrafttrædelsesbestemmelser:
 
@@ -396,12 +238,96 @@ Stk. 3. (Udelades)
 
 (Udelades)
 
-Lov nr. 517 af 12. juni 2009 (Tvangsfuldbyrdelse af klagenævnsafgørelser m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
+Lov nr. 1266 af 16. december 2009 (Dommeruddannelse, transmission af tekst under retsmøder, fri proces i sager om ægteskab eller forældremyndighed og retsafgifter i fogedsager) indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 4
+
+Stk. 1. Loven træder i kraft den 1. januar 2010, jf. dog stk. 2.
+
+Stk. 2. Retsplejelovens § 130, stk. 1, 2. pkt., som affattet ved § 1, nr. 12, i denne lov og retsplejelovens § 325, stk. 4, 3. pkt., som affattet ved § 1, nr. 14, i denne lov træder i kraft dagen efter bekendtgørelsen i Lovtidende.
+
+Lov nr. 73 af 26. januar 2010 (Omkostningsdækning i forbindelse med forbrugersager ved domstolene) indeholder følgende ikrafttrædelsesbestemmelse:
 
 § 3
 
-Stk. 1. Loven træder i kraft den 1. januar 2010.
+Stk. 1. Loven træder i kraft den 1. februar 2010.
 
-Stk. 2-3. (Udelades)
+Stk. 2. Loven finder anvendelse på sager, hvor klagen til Forbrugerklagenævnet eller et godkendt, privat klage- eller ankenævn er indgivet den 1. januar 2010 eller senere.
 
-INDHOLDSFORTEGNELSE Første bog. Domsmagten m.m. Første afsnit. Domstolenes ordning Kap. 1. Retterne §§ 1-20 b Kap. 1 a. Procesbevillingsnævnet §§ 22-27 Kap. 2. Retsmøder §§ 28-32 d Kap. 3. Retsbøger og sagens dokumenter §§ 33-39 Kap. 3 a. Aktindsigt §§ 41-41 g Kap. 4. Dommere, fuldmægtige m.m. §§ 42-59 Kap. 5. Tilfælde, hvor rettens personer skal eller kan vige deres sæde §§ 60-67 Andet afsnit. Nævningers og domsmænds udtagelse Kap. 6. Almindelige bestemmelser §§ 68-71 Kap. 7. Grundlister §§ 72-73 Kap. 8. Nævninge- og domsmandslister §§ 74-78 Kap. 9. Udtagelse af nævninger for de enkelte sager §§ 79-87 Kap. 9 a. Udtagelse af domsmænd for de enkelte sager §§ 88-91 Tredje afsnit. Udtagelse af sagkyndige retsmedlemmer Kap. 9 b. §§ 92-94 Fjerde afsnit. Anklagemyndigheden Kap. 10. Anklagemyndigheden §§ 95-107 Femte afsnit. Politimyndigheden Kap. 11. §§ 108-117 Sjette afsnit. Advokater Kap. 12. Beskikkelse som advokat - Udøvelse af advokatvirksomhed §§ 119-130 a Kap. 13. Advokaternes møderet for domstolene - Autoriserede advokatfuldmægtige §§ 131-136 Kap. 14. Ophør af retten til at udøve advokatvirksomhed §§ 137-142 Kap. 15. Advokatsamfundet og Advokatnævnet §§ 143-145 a Kap. 15 a. Salærklager §§ 146-147 a Kap. 15 b. Disciplinærsager §§ 147 b-147 f Anden bog. Fælles bestemmelser for borgerlige sager og straffesager Kap. 16. Almindelige bestemmelser om procesmåden §§ 148-152 a Kap. 17. Forkyndelser m.v. §§ 153-165 Kap. 18. Vidner §§ 168-193 Kap. 19. Syn og skøn §§ 196-211 Kap. 20. Rettens rådslagninger og afgørelser §§ 214-223 b Tredje bog. Den borgerlige retspleje Første afsnit. Almindelige bestemmelser Kap. 21. Saglig kompetence §§ 224-232 Kap. 22. Stedlig kompetence §§ 235-248 Kap. 23. Sammenlægning og adskillelse af krav §§ 249-254 Kap. 23 a. Gruppesøgsmål §§ 254 a-254 k Kap. 24. Sagens parter §§ 255-259 Kap. 25. Rettergangsfuldmægtige §§ 260-267 d Kap. 26. Forligsmægling §§ 268-270 Kap. 27. Retsmægling §§ 271-279 Kap. 28. Om parternes og tredjemands forpligtelse til at fremlægge synbare bevismidler §§ 297-301 Kap. 29. Afhøring af parter §§ 302-305 Kap. 29 a. Oplysningspligt ved krænkelse af immaterialrettigheder m.v. §§ 306-307 Kap. 30. Sagsomkostninger §§ 311-322 Kap. 31. Retshjælp og fri proces §§ 323-336 Andet afsnit. Rettergangsmåden Kap. 32. Almindelige bestemmelser §§ 337-347 Kap. 33. Sagsforberedelse i 1. instans §§ 348-361 Kap. 34. Hovedforhandling i 1. instans §§ 362-366 Kap. 35. Genoptagelse § 367 Kap. 36. Anke §§ 368-388 Kap. 37. Kære §§ 389-398 a Kap. 38. Ekstraordinær genoptagelse og anke § 399 Kap. 39. Behandling af sager om mindre krav §§ 400-410 Kap. 40-41. (Ophævet) Kap. 42. Sager om ægteskab eller forældremyndighed §§ 448-456 Kap. 42 a. Faderskabssager §§ 456 a-456 o Kap. 43. Værgemålssager §§ 457-466 Kap. 43 a. Prøvelse af administrativt bestemt frihedsberøvelse §§ 468-475 Kap. 43 b. Prøvelse af beslutning om adoption uden samtykke §§ 475 a-475 i Kap. 44. Fremgangsmåden ved at erhverve mortifikations- eller ejendomsdom §§ 476-477 Tredje afsnit. Betalingspåkrav Kap. 44 a. §§ 477 a-477 g Fjerde afsnit. Tvangsfuldbyrdelse Kap. 45. Grundlaget for tvangsfuldbyrdelse §§ 478-486 Kap. 46. Fremgangsmåden ved udlæg og tvangsfuldbyrdelse af andre krav end pengekrav §§ 487-506 Kap. 47. Udlæggets genstand og retsvirkninger §§ 507-526 Kap. 48. Særregler om tvangsfuldbyrdelse af andre krav end pengekrav §§ 528-535 Kap. 48 a. Særregler om tvangsfuldbyrdelse af forældremyndighed, barnets bopæl og samvær §§ 536-537 Kap. 49. Almindelige bestemmelser for tvangsauktion §§ 538-543 Kap. 50. Tvangsauktion over løsøre §§ 544-559 c Kap. 51. Tvangsauktion over fast ejendom §§ 560-582 Kap. 52. Tvister under tvangsauktionen § 583 Kap. 53. Appel af fogedrettens afgørelser §§ 584-587 Kap. 54. Brugeligt pant §§ 588-595 Kap. 55. Umiddelbare fogedforretninger §§ 596-600 Femte afsnit. De foreløbige retsmidler Kap. 56. Arrest §§ 627-640 Kap. 57. Forbud §§ 641-652 Kap. 57 a. Bevissikring ved krænkelse af immaterialrettigheder m.v. §§ 653-653 d Sjette afsnit. Skifte af fællesbo m.v. Kap. 58. Skifte af fællesbo m.v. §§ 654-665 Kap. 59-60. (Ophævet) Fjerde bog. Strafferetsplejen Første afsnit. Almindelige bestemmelser Kap. 61. Strafferetsplejens område §§ 683-685 Kap. 62. Saglig kompetence §§ 686-691 Kap. 63. Værneting og forening af straffesager §§ 694-709 Kap. 64. (Ophævet) Kap. 65. Påtalen §§ 718-728 Kap. 66. Sigtede og hans forsvar §§ 729-741 Kap. 66 a. Forurettede §§ 741 a-741 f Andet afsnit. Efterforskning, tvangsindgreb m.v. Kap. 67. Almindelige bestemmelser om efterforskning §§ 742-749 Kap. 68. Afhøringer og særlige efterforskningsskridt §§ 750-754 e Kap. 69. Anholdelse §§ 755-761 Kap. 70. Varetægtsfængsling §§ 762-778 Kap. 71. Indgreb i meddelelseshemmeligheden, observation, dataaflæsning og forstyrrelse eller afbrydelse af radio- eller telekommunikation §§ 780-791 c Kap. 72. Legemsindgreb §§ 792-792 f Kap. 73. Ransagning §§ 793-800 Kap. 74. Beslaglæggelse og edition §§ 801-807 d Kap. 75. Personundersøgelser §§ 808-811 Kap. 75 a. Andre efterforskningsskridt §§ 812-819 Kap. 75 b. Indgreb over for personer under 15 år §§ 821 a-821 g Tredje afsnit. Tiltale og hovedforhandling i 1. instans Kap. 76. Tilståelsessager §§ 831-832 Kap. 77. Tiltale og forberedelse af hovedforhandling i 1. instans §§ 833-850 Kap. 78. Hovedforhandling i 1. instans §§ 851-885 Kap. 79. Nævningesager §§ 886-894 Kap. 80. Straffesager, i hvilke der ikke medvirker lægdommere §§ 895-900 Kap. 81. (Ophævet) Fjerde afsnit. (Ophævet) Femte afsnit. Retsmidler mod trufne afgørelser Kap. 82. Anke til landsretten §§ 901-931 Kap. 83. Anke til Højesteret §§ 932-937 Kap. 84. (Ophævet) Kap. 85. Kære til højere ret §§ 968-974 Kap. 86. Genoptagelse §§ 975-988 Sjette afsnit. Regler om behandlingen af private straffesager og om forfølgning af borgerlige krav under straffesager Kap. 87. (Ophævet) Kap. 88. Regler om behandlingen af private straffesager §§ 989-990 Kap. 89. Påtale af borgerlige krav under straffesager §§ 991-996 a Syvende afsnit. Fuldbyrdelsen af domme i straffesager Kap. 90. §§ 997-1006 Ottende afsnit. Sagsomkostninger m.v. i straffesager Kap. 91. Sagsomkostninger §§ 1007-1014 a Kap. 92. Offentlig omtale m.v. af straffesager §§ 1016 a-1017 d Niende afsnit. Kap. 93. Særlige bestemmelser om nogle forhør m.m. § 1018 Tiende afsnit. Kap. 93 a. Erstatning i anledning af strafferetlig forfølgning §§ 1018 a-1018 h Kap. 93 b. Behandling af klager over politipersonalet §§ 1019-1019 m Kap. 93 c. Straffesager mod politipersonale §§ 1020-1020 i Kap. 93 d. Politiklagenævn §§ 1021-1021 h Femte bog. Slutnings- og overgangsbestemmelser Kap. 94. Slutningsbestemmelser §§ 1022-1023 a Kap. 95. Overgangsbestemmelser (Udeladt) §§ 1024-1043
+Lov nr. 404 af 21. april 2010 (Ny politiklageordning m.v.) indeholder følgende ikrafttrædelsesbestemmelser:
+
+§ 4
+
+Stk. 1. Lovens § 1, nr. 4-6, og §§ 2 og 3 træder i kraft den 1. juli 2010.
+
+Stk. 2. Lovens § 1, nr. 1-3 og 7-9, træder i kraft den 1. januar 2012.
+
+Stk. 3. Medlemmerne af Politiklagerådet kan beskikkes med virkning fra den 1. juli 2011. Direktøren for Politiklagemyndigheden kan udnævnes med virkning fra den 1. juli 2011. Direktøren for Politiklagemyndigheden kan med virkning fra den 1. juli 2011 ansætte personale i Politiklagemyndigheden.
+
+§ 5
+
+Stk. 1. Verserende sager den 1. januar 2012 om klager over politipersonale og anmeldelser om strafbare forhold begået af politipersonale færdigbehandles efter reglerne i denne lov. Verserende sager kan dog efter drøftelse mellem vedkommende statsadvokat og Politiklagemyndigheden færdigbehandles og afgøres af statsadvokaten efter de hidtil gældende regler.
+
+Stk. 2. Bestemmelsen i stk. 1 finder tilsvarende anvendelse på verserende undersøgelse og efterforskning, der af egen drift eller efter den hidtil gældende bestemmelse i retsplejelovens § 1020 a, stk. 2, er iværksat inden den 1. januar 2012.
+
+Stk. 3. Klager over afgørelser, der er truffet inden den 1. januar 2012, og klager over afgørelser, der efter stk. 1 og 2 er truffet efter de hidtil gældende regler, behandles efter de hidtil gældende regler.
+
+Stk. 4. De hidtidige medlemmer af politiklagenævnene kan færdiggøre sager, der efter stk. 1-3 behandles efter de hidtil gældende regler.
+
+Stk. 5. Ved den første beskikkelse af medlemmer af Politiklagerådet beskikkes advokaten og repræsentanten udpeget af Kommunernes Landsforening for en periode på 2 år.
+
+Lov nr. 533 af 26. maj 2010 (Tvungen opfølgning efter udskrivning) indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 3
+
+Stk. 1. Loven træder i kraft den 1. oktober 2010.
+
+Stk. 2. (Udelades)
+
+Lov nr. 536 af 26. maj 2010 (Tredjeinstansbevilling til en del af en sag) indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 4
+
+Stk. 1. Loven træder i kraft den 1. juli 2010.
+
+Stk. 2. Loven finder anvendelse, når ansøgning om tredjeinstansbevilling indgives til Procesbevillingsnævnet efter lovens ikrafttræden.
+
+Lov nr. 551 af 26. maj 2010 (Styrkelse af indsatsen over for kriminalitetstruede børn og unge) indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 3
+
+Loven træder i kraft den 1. juli 2010.
+
+Lov nr. 651 af 15. juni 2010 (Skærpelse af straffen for ulovlig tvang i forbindelse med brug af ansigtstildækkende beklædning samt ansigtstildækkende beklædning under vidneforklaring) indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 3
+
+Loven træder i kraft den 1. juli 2010.
+
+Lov nr. 652 af 15. juni 2010 (Gengivelse af forklaringer i straffesager og justering af landsdommernormering) indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 3
+
+Stk. 1. Loven træder i kraft den 1. juli 2010.
+
+Stk. 2. Lydoptagelser foretaget i medfør af retsplejelovens § 33 a slettes 1 år efter sagens endelige afgørelse.
+
+Lov nr. 708 af 25. juni 2010 (Betænkningstid forud for tvangsbehandling, oppegående tvangsfiksering på Sikringsafdelingen, udvidet eksternt tilsyn med tvangsfikseringer m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 3
+
+Loven træder i kraft den 1. oktober 2010.
+
+Lov nr. 711 af 25. juni 2010 (Ungdomskriminalitet) indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 4
+
+Loven træder i kraft den 1. juli 2010.
+
+Lov nr. 715 af 25. juni 2010 (Udveksling af oplysninger om dna-profiler, fingeraftryk og køretøjer med stater uden for Den Europæiske Union) indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 5
+
+Justitsministeren fastsætter tidspunktet for lovens ikrafttræden og kan herunder fastsætte, at lovens §§ 1-4 træder i kraft på forskellige tidspunkter.
+
+INDHOLDSFORTEGNELSE Første bog. Domsmagten m.m. Første afsnit. Domstolenes ordning Kap. 1. Retterne §§ 1-20 b Kap. 1 a. Procesbevillingsnævnet §§ 22-27 Kap. 2. Retsmøder §§ 28-32 d Kap. 3. Retsbøger og sagens dokumenter §§ 33-39 Kap. 3 a. Aktindsigt §§ 41-41 g Kap. 4. Dommere, fuldmægtige m.m. §§ 42-59 Kap. 5. Tilfælde, hvor rettens personer skal eller kan vige deres sæde §§ 60-67 Andet afsnit. Nævningers og domsmænds udtagelse Kap. 6. Almindelige bestemmelser §§ 68-71 Kap. 7. Grundlister §§ 72-73 Kap. 8. Nævninge- og domsmandslister §§ 74-78 Kap. 9. Udtagelse af nævninger for de enkelte sager §§ 79-87 Kap. 9 a. Udtagelse af domsmænd for de enkelte sager §§ 88-91 Tredje afsnit. Udtagelse af sagkyndige retsmedlemmer Kap. 9 b. §§ 92-94 Fjerde afsnit. Anklagemyndigheden Kap. 10. Anklagemyndigheden §§ 95-107 Femte afsnit. Politimyndigheden Kap. 11. §§ 108-117 Sjette afsnit. Advokater Kap. 12. Beskikkelse som advokat - Udøvelse af advokatvirksomhed §§ 119-130 a Kap. 13. Advokaternes møderet for domstolene - Autoriserede advokatfuldmægtige §§ 131-136 Kap. 14. Ophør af retten til at udøve advokatvirksomhed §§ 137-142 Kap. 15. Advokatsamfundet og Advokatnævnet §§ 143-145 a Kap. 15 a. Salærklager §§ 146-147 a Kap. 15 b. Disciplinærsager §§ 147 b-147 f Anden bog. Fælles bestemmelser for borgerlige sager og straffesager Kap. 16. Almindelige bestemmelser om procesmåden §§ 148-152 a Kap. 17. Forkyndelser m.v. §§ 153-165 Kap. 18. Vidner §§ 168-193 Kap. 19. Syn og skøn §§ 196-211 Kap. 20. Rettens rådslagninger og afgørelser §§ 214-223 b Tredje bog. Den borgerlige retspleje Første afsnit. Almindelige bestemmelser Kap. 21. Saglig kompetence §§ 224-232 Kap. 22. Stedlig kompetence §§ 235-248 Kap. 23. Sammenlægning og adskillelse af krav §§ 249-254 Kap. 23 a. Gruppesøgsmål §§ 254 a-254 k Kap. 24. Sagens parter §§ 255-259 Kap. 25. Rettergangsfuldmægtige §§ 260-267 d Kap. 26. Forligsmægling §§ 268-270 Kap. 27. Retsmægling §§ 271-279 Kap. 28. Om parternes og tredjemands forpligtelse til at fremlægge synbare bevismidler §§ 297-301 Kap. 29. Afhøring af parter §§ 302-305 Kap. 29 a. Oplysningspligt ved krænkelse af immaterialrettigheder m.v. §§ 306-307 Kap. 30. Sagsomkostninger §§ 311-322 Kap. 31. Retshjælp og fri proces §§ 323-336 Andet afsnit. Rettergangsmåden Kap. 32. Almindelige bestemmelser §§ 337-347 Kap. 33. Sagsforberedelse i 1. instans §§ 348-361 Kap. 34. Hovedforhandling i 1. instans §§ 362-366 Kap. 35. Genoptagelse § 367 Kap. 36. Anke §§ 368-388 Kap. 37. Kære §§ 389-398 a Kap. 38. Ekstraordinær genoptagelse og anke § 399 Kap. 39. Behandling af sager om mindre krav §§ 400-410 Kap. 40-41. (Ophævet) Kap. 42. Sager om ægteskab eller forældremyndighed §§ 448-456 Kap. 42 a. Faderskabssager §§ 456 a-456 o Kap. 43. Værgemålssager §§ 457-466 Kap. 43 a. Prøvelse af administrativt bestemt frihedsberøvelse §§ 468-475 Kap. 43 b. Prøvelse af beslutning om adoption uden samtykke §§ 475 a-475 i Kap. 44. Fremgangsmåden ved at erhverve mortifikations- eller ejendomsdom §§ 476-477 Tredje afsnit. Betalingspåkrav Kap. 44 a. §§ 477 a-477 g Fjerde afsnit. Tvangsfuldbyrdelse Kap. 45. Grundlaget for tvangsfuldbyrdelse §§ 478-486 Kap. 46. Fremgangsmåden ved udlæg og tvangsfuldbyrdelse af andre krav end pengekrav §§ 487-506 Kap. 47. Udlæggets genstand og retsvirkninger §§ 507-526 Kap. 48. Særregler om tvangsfuldbyrdelse af andre krav end pengekrav §§ 528-535 Kap. 48 a. Særregler om tvangsfuldbyrdelse af forældremyndighed, barnets bopæl og samvær §§ 536-537 Kap. 49. Almindelige bestemmelser for tvangsauktion §§ 538-543 Kap. 50. Tvangsauktion over løsøre §§ 544-559 c Kap. 51. Tvangsauktion over fast ejendom §§ 560-582 Kap. 52. Tvister under tvangsauktionen § 583 Kap. 53. Appel af fogedrettens afgørelser §§ 584-587 Kap. 54. Brugeligt pant §§ 588-595 Kap. 55. Umiddelbare fogedforretninger §§ 596-600 Femte afsnit. De foreløbige retsmidler Kap. 56. Arrest §§ 627-640 Kap. 57. Forbud §§ 641-652 Kap. 57 a. Bevissikring ved krænkelse af immaterialrettigheder m.v. §§ 653-653 d Sjette afsnit. Skifte af fællesbo m.v. Kap. 58. Skifte af fællesbo m.v. §§ 654-665 Kap. 59-60. (Ophævet) Fjerde bog. Strafferetsplejen Første afsnit. Almindelige bestemmelser Kap. 61. Strafferetsplejens område §§ 683-685 Kap. 62. Saglig kompetence §§ 686-691 Kap. 63. Værneting og forening af straffesager §§ 694-709 Kap. 64. Gengivelse af forklaringer §§ 710-714 Kap. 65. Påtalen §§ 718-728 Kap. 66. Sigtede og hans forsvar §§ 729-741 Kap. 66 a. Forurettede §§ 741 a-741 f Andet afsnit. Efterforskning, tvangsindgreb m.v. Kap. 67. Almindelige bestemmelser om efterforskning §§ 742-749 Kap. 68. Afhøringer og særlige efterforskningsskridt §§ 750-754 e Kap. 69. Anholdelse §§ 755-761 Kap. 70. Varetægtsfængsling §§ 762-778 Kap. 71. Indgreb i meddelelseshemmeligheden, observation, dataaflæsning og forstyrrelse eller afbrydelse af radio- eller telekommunikation §§ 780-791 c Kap. 72. Legemsindgreb §§ 792-792 f Kap. 73. Ransagning §§ 793-800 Kap. 74. Beslaglæggelse og edition §§ 801-807 d Kap. 75. Personundersøgelser §§ 808-811 Kap. 75 a. Andre efterforskningsskridt §§ 812-819 Kap. 75 b. Indgreb over for personer under 14 år §§ 821 a-821 g Tredje afsnit. Tiltale og hovedforhandling i 1. instans Kap. 76. Tilståelsessager §§ 831-832 Kap. 77. Tiltale og forberedelse af hovedforhandling i 1. instans §§ 833-850 Kap. 78. Hovedforhandling i 1. instans §§ 851-885 Kap. 79. Nævningesager §§ 886-894 Kap. 80. Straffesager, i hvilke der ikke medvirker lægdommere §§ 895-900 Kap. 81. (Ophævet) Fjerde afsnit. (Ophævet) Femte afsnit. Retsmidler mod trufne afgørelser Kap. 82. Anke til landsretten §§ 901-931 Kap. 83. Anke til Højesteret §§ 932-937 Kap. 84. (Ophævet) Kap. 85. Kære til højere ret §§ 968-974 Kap. 86. Genoptagelse §§ 975-988 Sjette afsnit. Regler om behandlingen af private straffesager og om forfølgning af borgerlige krav under straffesager Kap. 87. (Ophævet) Kap. 88. Regler om behandlingen af private straffesager §§ 989-990 Kap. 89. Påtale af borgerlige krav under straffesager §§ 991-996 a Syvende afsnit. Fuldbyrdelsen af domme i straffesager Kap. 90. §§ 997-1006 Ottende afsnit. Sagsomkostninger m.v. i straffesager Kap. 91. Sagsomkostninger §§ 1007-1014 a Kap. 92. Offentlig omtale m.v. af straffesager §§ 1016 a-1017 d Niende afsnit. Kap. 93. Særlige bestemmelser om nogle forhør m.m. § 1018 Tiende afsnit. Kap. 93 a. Erstatning i anledning af strafferetlig forfølgning §§ 1018 a-1018 h Kap. 93 b. Behandling af klager over politipersonalet §§ 1019-1019 m Kap. 93 c. Straffesager mod politipersonale §§ 1020-1020 i Kap. 93 d. Politiklagenævn §§ 1021-1021 h Femte bog. Slutnings- og overgangsbestemmelser Kap. 94. Slutningsbestemmelser §§ 1022-1023 a Kap. 95. Overgangsbestemmelser (Udeladt) §§ 1024-1043
