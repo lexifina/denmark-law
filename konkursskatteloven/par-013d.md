@@ -1,5 +1,0 @@
-§ 13 D. Er der truffet bestemmelse om, at konkursindkomsten er skattepligtig, skal der indgives særskilte selvangivelser for det indkomstår, hvori skifteretten træffer beslutning om insolvensbehandling af boet, for hvert af de følgende indkomstår under insolvensbehandlingen samt for perioden fra begyndelsen af det sidste indkomstår under insolvensbehandlingen og indtil insolvensbehandlingens slutning. Selvangivelserne skal indgives inden udløbet af den frist, der gælder for indgivelse af selvangivelse det indkomstår, hvori insolvensbehandlingen sluttes.
-
-Stk. 2. I boer for hvilke skifteretten har truffet beslutning om insolvensbehandling, påhviler pligten til at indgive selvangivelser, jf. stk. 1, bobestyreren.
-
-Stk. 3. Skatten af konkursindkomsten betales efter de regler, der gælder for indkomstskatten i det indkomstår, hvori insolvensbehandlingen sluttes.
