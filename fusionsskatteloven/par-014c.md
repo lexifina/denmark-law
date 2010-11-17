@@ -6,4 +6,4 @@
 
 3) Ved fusion af foreninger omfattet af fondsbeskatningsloven.
 
-Ved fusion og ved spaltning af kommunale og amtskommunale feriefonde oprettet i henhold til ferielovens § 36, stk. 3, når fusionen eller spaltningen sker i medfør af kommunalreformen.
+4) Ved fusion og ved spaltning af kommunale og amtskommunale feriefonde oprettet i henhold til ferielovens § 36, stk. 3, når fusionen eller spaltningen sker i medfør af kommunalreformen.
