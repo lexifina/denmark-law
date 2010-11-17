@@ -1,5 +1,5 @@
-Økonomi- og Erhvervsministeriet, den 4. september 2008
+Økonomi- og Erhvervsministeriet, den 15. november 2010
 
-Bendt Bendtsen
+Brian Mikkelsen
 
-/ Henrik Bjerre-Nielsen
+/ Ulrik Nødgaard

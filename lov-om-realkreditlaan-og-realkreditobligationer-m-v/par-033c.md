@@ -16,4 +16,4 @@ Stk. 8. Pantebreve i fast ejendom, der er tinglyst før den 1. juli 2007, kan li
 
 Stk. 9. For lån finansieret ved udstedelse af særligt dækkede obligationer kan kravet i § 11, stk. 1, 1. pkt., om, at låntager skal eje den faste ejendom, og kravet i § 23, stk. 1, om, at låntager hæfter personligt for lånet, fraviges.
 
-Stk. 10. Finanstilsynet kan dispensere fra stk. 6 ved lån, der ydes til fast ejendom, der er beliggende uden for Danmark, Færøerne og Grønland.
+Stk. 10. Finanstilsynet kan dispensere fra stk. 6 ved lån, der ydes til fast ejendom, der er beliggede uden for Danmark, Færøerne og Grønland.
