@@ -1,9 +1,5 @@
-Givet på Christiansborg slot, den 4. juni 1986
+Kulturministeriet, den 16. november 2010
 
-Under Vor Kongelige Hånd og Segl
+Per Stig Møller
 
-MARGRETHE R.
-
-/H. P. Clausen
-
-Ingen
+/ Katrine Tarp
