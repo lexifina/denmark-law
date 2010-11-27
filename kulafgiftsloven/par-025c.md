@@ -1,1 +1,1 @@
-§ 25 c. (Ophævet).
+§ 25c. (Ophævet).
