@@ -1,5 +1,5 @@
-Kirkeministeriet, den 31. maj 2010
+Kirkeministeriet, den 5. december 2010
 
 Birthe Rønn Hornbech
 
-/ Eva Stilov
+/ Sofie Nanvtoft Pedersen
