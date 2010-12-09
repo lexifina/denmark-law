@@ -1,11 +1,13 @@
-Denne lovbekendtgørelse indeholder bemærkninger til de ændringer af dødsboskatteloven, der er foretaget i folketingsåret 2005/2006.
+1) I denne lovbekendtgørelse indgår ændringer af dødsboskatteloven, der er vedtaget i folketingsårene 2006/07, 2007/08, 2008/09 og 2009/2010.
 
-Lov nr. 1414 af 21. december 2005 (Ændringer som følge af aktieavancebeskatningsloven) trådte i kraft den 23. december 2005. Ændringerne i § 29 har virkning for udlodninger fra dødsboer, der sker 1. januar 2006 eller senere, jf. § 28, stk. 2. i lov nr. 1414 af 21. december 2005.
+2) I det omfang en person, som er afgået ved døden den 1. juli 2008 eller senere, efterlader sig ikke udnyttede investeringsfondshenlæggelser efter lov om investeringsfonds, finder bestemmelserne om investeringsfondshenlæggelser i § 9, stk. 1, nr. 3, § 22, stk. 1, nr. 3, § 22, stk. 3, § 39, stk. 1, nr. 2, § 45, stk. 1, nr. 2, § 59, stk. 2, nr. 2, § 87, stk. 4, og § 88, stk. 4 i lov om beskatning ved dødsfald, jf. lovbekendtgørelse nr. 908 af 28. august 2006, fortsat anvendelse, jf. § 12 i lov nr. 521 af 17. juni 2008.
 
-Lov nr. 308 af 19. april 2006 (Justering af erhvervsbeskatningen) trådte i kraft den 21. april 2006.
+3) Lov nr. 521 af 12. juni 2009 (Forenkling af reglerne om opkrævning af arbejdsmarkedsbidrag og konsekvensændringer som følge af Forårspakke 2.0 m.v.) § 8, nr. 8, 19, 25 og 27 trådte i kraft den 14. juni 2009 og finder anvendelse, når en person er afgået ved døden den 1. januar 2011 eller senere.
 
-Lov nr. 511 af 7. juni 2006 (Lempelse af beskatningen af mellemperioden i ikkeskattepligtige dødsboer) trådte i kraft den 9. juni 2006 og finder anvendelse på mellemperioder, der vedrører personer, som er afgået ved døden den 15. marts eller senere.
+4) Lov nr. 459 af 12. juni 2009 (Forårspakke 2.0) § 3, nr. 3 trådte i kraft den 14. juni 2009 og finder anvendelse på boer og mellemperioder vedrørende personer, der er afgået ved døden den 1. januar 2012 eller senere, og ved skifte af uskiftede boer, når anmodning om skifte er indgivet den 1. januar 2012 eller senere. Ved dødsfald den 1. januar 2012 eller senere, og ved skifte af uskiftet bo, hvor anmodning om skifte er indgivet den 1. januar 2012 eller senere, udgør procenten 27. Ændringerne indgår ikke i denne lovbekendtgørelse.
 
-Lov nr. 514 af 7. juni 2006 (Indførelse af et sundhedsbidrag, ændringer som led i den kommunale finansieringsreform m.v.) trådte i kraft den 9. juni 2006 og har virkning fra indkomståret 2007. Ændringerne i § 92, stk. 4, har virkning for beløb, der opgøres den 1. maj i årene 2006-2008 til afregning i årene 2007-2009 efter reglerne i dødsboskattelovens § 92, stk. 4, som affattet ved lovbekendtgørelse nr. 791 af 16. august 2005, tilfalder staten, jf. § 13, stk. 1 og 4, i lov nr. 514 af 7. juni 2006.
+5) Ved udlodning med succession succederer udlodningsmodtager i den anskaffelsessum, der er lagt til grund ved beregning af passivpost efter boafgiftslovens § 13 a, når dødsfaldet er sket før 1. januar 2000. Den nuværende formulering af teksten er indsat ved lov nr. 958 af 20. december 1999 § 3 nr. 3 med virkning for dødsfald den 1. januar 2000 eller senere.
 
-Lov nr. 515 af 15. juni 2006 (Konsekvensændringer som følge af sundhedsbidraget og kommunalreformen) trådte i kraft den 9. juni 2006. Ændringerne i dødsboskattelovens § 87, stk. 2, har virkning fra den 1. november 2005, jf. § 31, stk. 1 og 4, i lov nr. 515 af 15. juni 2006.
+6) Lov nr. 723 af 25. juni 2010 (Midlertidig udligningsskat på store pensionsudbetalinger, afskaffelse af særligt ægtefællefradrag m.v.) § 1, nr. 1 og 2 trådte i kraft 27. juni 2010 og har virkning for pensionsudbetalinger, der sker fra og med indkomståret 2011. Før indkomståret 2011 indgår ikke henvisning til personskattelovens § 7 a om udligningsskat.
+
+7) Lov nr. 459 af 12. juni 2009 (Forårspakke 2.0) § 3, nr. 12, 13 og 15 har virkning fra indkomståret 2012. Ændringerne indgår ikke i denne lovbekendtgørelse.
