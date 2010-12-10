@@ -4,7 +4,7 @@ Stk. 2. Ved befordring i egen bil eller motorcykel beregnes beløbet for sædvan
 
 Stk. 3. Legater til dækning af dokumenterede udgifter i forbindelse med studierejsen i udlandet, Færøerne eller Grønland er indkomstskattefri, når de udgifter, der dækkes, er betaling af undervisning, deltagerafgifter og lign., herunder betaling for kurser i studiestedets sprog.
 
-Stk. 4. Legater er indkomstskattefri, såfremt de er betinget af, at de anvendes til dækning af omkostninger ved videnskabelige arbejder, herunder en højere uddannelsesinstitutions udgifter til ph.d.‑studerendes studier.
+Stk. 4. Legater er indkomstskattefri, såfremt de er betinget af, at de anvendes til dækning af omkostninger ved videnskabelige arbejder, herunder en højere uddannelsesinstitutions udgifter til ph.d.-studerendes studier.
 
 Stk. 5. Legater er indkomstskattefri, når de ydes til en stipendiat under midlertidigt ophold her i landet, såfremt stipendiaten, når denne påbegynder opholdet her i landet, både var statsborger og hjemmehørende i et udviklingsland. Skatterådet fastsætter, hvilke lande der efter denne bestemmelse skal anses for udviklingslande.
 

@@ -1,4 +1,4 @@
-§ 15 J. Ved opgørelsen af den skattepligtige indkomst kan ejere af ejendomme som nævnt i ejendomsværdiskattelovens § 4, nr. 1-5 og 9-11, der tjener til bolig for ejeren, alene foretage fradrag for renter af indestående prioriteter samt reservefonds- og administrationsbidrag til realkreditinstitutter. Øvrige udgifter vedrørende ejendommen kan ikke fradrages, jf. dog § 15 K.
+§ 15 J. Ved opgørelse af den skattepligtige indkomst kan ejere af ejendomme som nævnt i ejendomsværdiskattelovens § 4, nr. 1-5 og 9-11, der tjener til bolig for ejeren, alene foretage fradrag for renter af indestående prioriteter samt reservefonds- og administrationsbidrag til realkreditinstitutter. Øvrige udgifter vedrørende ejendommen kan ikke fradrages, jf. dog § 15 K.
 
 Stk. 2. Stk. 1 gælder, uanset om den skattepligtige har udlejet sin bolig i ejendommen en del af indkomståret.
 

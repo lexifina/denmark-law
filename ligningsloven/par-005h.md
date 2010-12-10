@@ -1,1 +1,1 @@
-§ 5 H. (Ophævet)
+§ 5 H. (Ophævet).

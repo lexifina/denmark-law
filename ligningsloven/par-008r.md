@@ -8,8 +8,8 @@
 
 4) Den faste ejendom skal ved første ibrugtagning efter, at der er opnået ibrugtagningstilladelse efter byggelovgivningen, mindst indeholde det antal beboelseslejligheder, der fremgår af tilsagnet.
 
-5) Ibrugtagningstilladelse til byggeriet skal foreligge senest 4 år efter, at der er givet bygetilladelse.
+5) Ibrugtagningstilladelse til byggeriet skal foreligge senest 4 år efter, at der er givet byggetilladelse.
 
-Stk. 2. Stk. 1 gælder ikke for aktieselskaber omfattet af selskabsskattelovens § 3A.
+Stk. 2. Stk. 1 gælder ikke for aktieselskaber omfattet af selskabsskattelovens § 3 A.
 
 Stk. 3. Ved opgørelse af fortjeneste og tab på fast ejendom for skattepligtige, der har fået fradrag efter stk. 1, anvendes anskaffelsessummen opgjort efter de almindelige regler fratrukket anskaffelsessummen efter stk. 1 ganget med den sats, der efter selskabsskattelovens § 17, stk. 1, gælder for det indkomstår, hvori fradraget er foretaget.

@@ -1,1 +1,1 @@
-§ 5 E. (Ophævet)
+§ 5 E. (Ophævet).

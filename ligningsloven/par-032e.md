@@ -1,1 +1,1 @@
-§ 32 E. (Ophævet)
+§ 32 E. (Ophævet).
