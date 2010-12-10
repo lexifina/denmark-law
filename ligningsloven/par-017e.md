@@ -1,1 +1,1 @@
-§ 17 E. (Ophævet)
+§ 17 E. (Ophævet).

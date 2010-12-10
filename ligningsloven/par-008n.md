@@ -1,1 +1,1 @@
-§ 8 N. (Ophævet)
+§ 8 N. (Ophævet).

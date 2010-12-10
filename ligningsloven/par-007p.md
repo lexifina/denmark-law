@@ -1,1 +1,1 @@
-§ 7 P. (Ophævet)
+§ 7 P. (Ophævet).

@@ -6,7 +6,7 @@ b) befordring mellem arbejdspladser og
 
 c) befordring inden for samme arbejdsplads.
 
-Stk. 2. Når der er forløbet 60 på hinanden følgende arbejdsdage, siden den pågældende sidst har været på en arbejdsplads som nævnt i stk. 1, litra a, påbegyndes en ny 60‑dages‑periode.
+Stk. 2. Når der er forløbet 60 på hinanden følgende arbejdsdage, siden den pågældende sidst har været på en arbejdsplads som nævnt i stk. 1, litra a, påbegyndes en ny 60-dages-periode.
 
 Stk. 3. Har den skattepligtige et kørselsmønster, der indebærer befordring til så mange forskellige arbejdspladser, at det ikke er sandsynligt, at der køres mellem sædvanlig bopæl og arbejdsplads i mere end 60 arbejdsdage inden for de forudgående 12 måneder, anses befordringen for erhvervsmæssig, jf. stk. 1. Told- og skatteforvaltningen kan dog give den skattepligtige skriftligt pålæg om med fremadrettet virkning i indtil 12 måneder ved kørselsregnskab at dokumentere, at der er tale om erhvervsmæssig befordring som nævnt i stk. 1.
 

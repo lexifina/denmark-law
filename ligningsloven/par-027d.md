@@ -1,1 +1,1 @@
-§ 27 D. (Ophævet)
+§ 27 D. (Ophævet).
