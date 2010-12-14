@@ -1,1 +1,1 @@
-§ 35 D. (Ophævet).
+§ 35D. (Ophævet).

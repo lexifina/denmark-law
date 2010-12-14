@@ -1,1 +1,1 @@
-§ 35 K. (Ophævet).
+§ 35K. (Ophævet).
