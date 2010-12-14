@@ -1,31 +1,23 @@
-§ 31C. Et moderselskab udgør sammen med datterselskaberne en koncern.
+§ 31C. Et selskab, en fond, en trust eller en forening m.v. (moderselskabet) udgør sammen med et eller flere datterselskaber en koncern. Et selskab kan kun have ét direkte moderselskab. Hvis flere selskaber opfylder et eller flere af kriterierne i stk. 2-6, er det alene det selskab, som faktisk udøver den bestemmende indflydelse over selskabets økonomiske og driftsmæssige beslutninger, der anses for at være moderselskab.
 
-Stk. 2. Et selskab, en fond, en trust eller en forening m.v. er et moderselskab, hvis det
+Stk. 2. Bestemmende indflydelse er beføjelsen til at styre et datterselskabs økonomiske og driftsmæssige beslutninger.
 
-1) besidder flertallet af stemmerettighederne i et selskab (datterselskab),
+Stk. 3. Bestemmende indflydelse i forhold til et datterselskab foreligger, når moderselskabet direkte eller indirekte gennem et datterselskab ejer mere end halvdelen af stemmerettighederne i et selskab, medmindre det i særlige tilfælde klart kan påvises, at et sådant ejerforhold ikke udgør bestemmende indflydelse.
 
-2) er selskabsdeltager og har ret til at udnævne eller afsætte et flertal af medlemmerne i et andet selskabs (datterselskabs) øverste ledelsesorgan,
+Stk. 4. Ejer et moderselskab ikke mere end halvdelen af stemmerettighederne i et selskab, foreligger der bestemmende indflydelse, hvis moderselskabet har
 
-3) er selskabsdeltager og har ret til at udøve en bestemmende indflydelse over et andet selskabs (datterselskabs) driftsmæssige og finansielle ledelse på grundlag af vedtægter eller aftale med dette,
+1) råderet over mere end halvdelen af stemmerettighederne i kraft af en aft ale med andre investorer,
 
-4) er selskabsdeltager og på grundlag af aftale med andre deltagere råder over flertallet af stemmerettighederne i et andet selskab (datterselskab) eller
+2) beføjelse til at styre de finansielle og driftsmæssige forhold i et selskab i henhold til en vedtægt eller aftale,
 
-5) besidder kapitalandele i et andet selskab (datterselskab) og udøver en bestemmende indflydelse over dettes driftsmæssige og finansielle ledelse.
+3) beføjelse til at udpege eller afsætte flertallet af medlemmerne i det øverste ledelsesorgan og dette organ besidder den bestemmende indflydelse på selskabet eller
 
-Stk. 3. Et selskab eller forening m.v., med hvilket et moderselskab har en af de i stk. 2 nævnte forbindelser, er et datterselskab. Et datterselskab kan kun have ét moderselskab.
+4) råderet over det faktiske flertal af stemmerne på generalforsamlingen eller i et tilsvarende organ og derved besidder den faktiske bestemmende indflydelse over selskabet.
 
-Stk. 4. Ved opgørelsen af stemmerettigheder og rettigheder til at udnævne eller afsætte medlemmer af ledelsesorganer medregnes rettigheder, der besiddes af moderselskabet og dets datterselskaber.
+Stk. 5. Eksistensen og virkningen af potentielle stemmerettigheder, herunder tegningsretter og købsoptioner på kapitalandele, som aktuelt kan udnyttes eller konverteres, skal tages i betragtning ved vurderingen af, om et selskab har bestemmende indflydelse.
 
-Stk. 5. Ved opgørelsen af stemmerettigheder i et datterselskab ses der bort fra stemmerettigheder, som knytter sig til aktier eller anparter, der besiddes af datterselskabet selv eller dets datterselskaber.
+Stk. 6. Ved opgørelsen af stemmerettigheder i et datterselskab ses der bort fra stemmerettigheder, som knytter sig til kapitalandele, der besiddes af datterselskabet selv eller dets datterselskaber.
 
-Stk. 6. Et selskab kan holdes ude af sambeskatningen, hvis
+Stk. 7. Et selskab skal holdes ude af sambeskatningen, hvis der er fradraget eller vil kunne fradrages tab på fordringer mod selskabet efter kursgevinstlovens § 4, stk. 5, af et koncernforbundet selskab.
 
-1) det er et datterselskab og betydelige og vedvarende hindringer i væsentlig grad begrænser moderselskabets udøvelse af sine rettigheder over datterselskabets aktiver eller ledelse,
-
-2) det er et datterselskab og de nødvendige oplysninger ikke kan indhentes inden for en rimelig frist eller uden uforholdsmæssigt store omkostninger eller
-
-3) det er et datterselskab, der ikke tidligere er indgået i sambeskatningen, og moderselskabet udelukkende besidder kapitalandelene i datterselskabet med henblik på efterfølgende at overdrage det. Hvis der er fradraget eller vil kunne fradrages tab på fordringer mod selskabet efter kursgevinstlovens § 4, stk. 5, af et koncernforbundet selskab, skal selskabet holdes ude af sambeskatningen.
-
-Stk. 7. Uanset stk. 1-6 skal moderselskaber, der ved aflæggelse af koncernregnskabet anvender de internationale regnskabsstandarder, som er nævnt i artikel 4 vedrørende børsnoterede selskabers koncernregnskaber i Rådets forordning om anvendelse af internationale regnskabsstandarder, og som efter denne standard er koncernens ultimative moderselskab, anvende koncerndefinitionen, der findes i de internationale regnskabsstandarder, som er nævnt i forordningen. Stk. 6, nr. 3, 2. pkt. finder tilsvarende anvendelse.
-
-Stk. 8. Et selskab, der tages under konkursbehandling, skal holdes ude af sambeskatningen fra og med det indkomstår, hvori konkursdekretet afsiges. Ved ophøret af sam­be­skat­ning­en finder § 31 A, stk. 10, anvendelse.
+Stk. 8. Et selskab, der tages under konkursbehandling, skal holdes ude af sambeskatningen fra og med det indkomstår, hvori konkursdekretet afsiges. Ved ophøret af sambeskatningen finder § 31 A, stk. 10, anvendelse.

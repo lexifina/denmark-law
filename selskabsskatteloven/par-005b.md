@@ -1,4 +1,4 @@
-§ 5 B. Indtræder der en sådan ændring, at et selskab eller en forening mv. overgår fra beskatning efter § 1, stk. 1, nr. 3, til beskatning efter andre regler i § 1, bortset fra § 1, stk. 1, nr. 6, får overgangen først virkning for selskabets eller foreningens mv. skattepligt fra udløbet af det pågældende indkomstår.
+§ 5B. Indtræder der en sådan ændring, at et selskab eller en forening mv. overgår fra beskatning efter § 1, stk. 1, nr. 3, til beskatning efter andre regler i § 1, bortset fra § 1, stk. 1, nr. 6, får overgangen først virkning for selskabets eller foreningens mv. skattepligt fra udløbet af det pågældende indkomstår.
 
 Stk. 2. Ved en overgang som nævnt i stk. 1 finder reglerne i § 5 D tilsvarende anvendelse.
 
@@ -12,6 +12,6 @@ Stk. 6. Ved en senere overgang som nævnt i § 5 A ophører beskatningen af det 
 
 Stk. 7. Det påhviler bestyrelsen for foreninger, der beskattes efter § 1, stk. 1, nr. 3, samtidig med indgivelsen af selvangivelsen at oplyse de ændringer, der i regnskabsåret er sket i foreningens virksomhed eller i dens vedtægtsbestemmelser om formål, overskudsdeling eller opløsning, ligesom bestyrelsen skal oplyse, såfremt foreningens omsætning med ikkemedlemmer udgør mere end 25 pct. af den samlede omsætning.
 
-Stk. 8. Stk. 4, 2. og 3. pkt., finder ikke anvendelse, i det omfang en forening omfattet af § 1, stk. 1, nr. 4, foretager udlodninger som nævnt i ligningslovens § 16 A, som ikke overstiger foreningens skattepligtige indkomst efter skat i det forudgående indkomstår. Foretages overskydende ud­lod­ning­er eller andre udlodninger end nævnt i ligningslovens § 16 A, skal stk. 4, 2. og 3. pkt., finde anvendelse for denne del.
+Stk. 8. Stk. 4, 2. og 3. pkt., finder ikke anvendelse, i det omfang en forening omfattet af § 1, stk. 1, nr. 4, foretager udlodninger som nævnt i ligningslovens § 16 A, som ikke overstiger foreningens skattepligtige indkomst efter skat i det forudgående indkomstår. Foretages overskydende udlodninger eller andre udlodninger end nævnt i ligningslovens § 16 A, skal stk. 4, 2. og 3. pkt., finde anvendelse for denne del.
 
 Stk. 9. Det påhviler bestyrelsen for en forening, der beskattes efter § 1, stk. 1, nr. 4, samtidig med indgivelsen af selvangivelsen at oplyse, i hvilket omfang foretagne udlodninger er omfattet af stk. 4 eller stk. 8.

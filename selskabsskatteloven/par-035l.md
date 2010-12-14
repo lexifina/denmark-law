@@ -1,4 +1,4 @@
-§ 35 L. For foreninger, der fra og med indkomståret 1994 henholdsvis indkomståret 1995 overgår til beskatning efter § 1, stk. 1, nr. 3, fra beskatning efter § 1, stk. 1, nr. 6, finder § 5 A tilsvarende anvendelse, jf. dog stk. 2-4.
+§ 35L. For foreninger, der fra og med indkomståret 1994 henholdsvis indkomståret 1995 overgår til beskatning efter § 1, stk. 1, nr. 3, fra beskatning efter § 1, stk. 1, nr. 6, finder § 5 A tilsvarende anvendelse, jf. dog stk. 2-4.
 
 Stk. 2. Den del af det skattepligtige beløb opgjort i henhold til § 5 A, stk. 3, der hidrører fra fortjeneste opgjort efter afskrivningslovens § 21 og ejendomsavancebeskatningsloven, medregnes dog ikke ved beskatning efter § 5 A, stk. 1. Denne fortjeneste medregnes først til den skattepligtige indkomst i det indkomstår, hvor foreningen faktisk afstår bygningen, installationen eller ejendommen. Ejendomsavancebeskatningslovens §§ 6 A og 6 C finder ikke anvendelse. Hvis foreningen på afståelsestidspunktet beskattes i henhold til § 1, stk. 1, nr. 3, skal det opgjorte beløb ganges med 2,3.
 
