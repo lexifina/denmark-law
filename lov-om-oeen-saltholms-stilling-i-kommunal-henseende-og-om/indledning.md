@@ -1,3 +1,3 @@
-Lov om Øen Saltholmens Stilling i kommunal Henseende og om Ordningen af Forholdet mellem Øens Ejere indbyrdes.(* 1)
+Bekendtgørelse af lov om øen Saltholms stilling i kommunal henseende og om ordningen af forholdet mellem øens ejere indbyrdes
 
-Vi Christian den Tiende, af Guds Naade Konge til Danmark og Island, de Venders og Goters, Hertug til Slesvig, Holsten, Stormarn, Ditmarsken, Lauenborg og Oldenborg, GØRE VITTERLIGT: Rigsdagen har vedtaget og Vi ved Vort Samtykke stadfæstet følgende Lov:
+Herved bekendtgøres lov nr. 360 af 30. juni 1919 om øen Saltholms stilling i kommunal henseende og om ordningen af forholdet mellem øens ejere indbyrdes med de ændringer, der følger af lov nr. 673 af 22. december 1919.
