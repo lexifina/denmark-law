@@ -1,3 +1,3 @@
-§ 35 a. Indenrigs- og socialministeren kan fastsætte regler om beregning af omkostningerne ved regionens egen udførelse af en opgave, som regionen beslutter at sende i udbud, (kontrolbud) og om afgivelsen af kontrolbud.
+§ 35 a. Indenrigs- og sundhedsministeren kan fastsætte regler om beregning af omkostningerne ved regionens egen udførelse af en opgave, som regionen beslutter at sende i udbud, (kontrolbud) og om afgivelsen af kontrolbud.
 
-Stk. 2. Indenrigs- og socialministeren kan fastsætte regler om, at Klagenævnet for Udbud efter reglerne i lov om Klagenævnet for Udbud og forskrifter udstedt i medfør heraf kan behandle klager vedrørende regionens overtrædelse af regler fastsat i medfør af stk. 1.
+Stk. 2. Indenrigs- og sundhedsministeren kan fastsætte regler om, at Klagenævnet for Udbud efter reglerne i lov om Klagenævnet for Udbud og forskrifter udstedt i medfør heraf kan behandle klager vedrørende regionens overtrædelse af regler fastsat i medfør af stk. 1.
