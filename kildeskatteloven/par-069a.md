@@ -1,0 +1,7 @@
+§ 69 A. Hvis en indeholdelsespligtig udbetaler rejse- eller befordringsgodtgørelser efter reglerne i ligningslovens § 9 A eller § 9 B og det efterfølgende konstateres, at betingelserne for skattefrihed i disse bestemmelser ikke er opfyldt, kan told- og skatteforvaltningen efter anmodning fra den indeholdelsespligtige tillade, at den indeholdelsespligtige betaler et beløb svarende til 56 pct. af de pågældende godtgørelser. Anmodningen skal være begrundet og indeholde en opgørelse af de pågældende godtgørelser, oplysninger om identiteten af modtagerne samt om størrelsen af de godtgørelser, de enkelte modtagere har modtaget.
+
+Stk. 2. Told- og skatteforvaltningen træffer efter anmodning afgørelse om, hvorvidt udbetalte godtgørelser som nævnt i stk. 1 er skattepligtige.
+
+Stk. 3. Betaling efter stk. 1 skal ske inden for fristen for betaling af indeholdt A-skat for den måned, der følger efter den måned, hvori tilladelsen efter stk. 1 er givet. Sker betaling ikke rettidigt, eller betales alene en del af det samlede beløb, der er givet tilladelse til betaling af, bortfalder tilladelsen.
+
+Stk. 4. Uanset skatteforvaltningslovens § 17 kan told- og skatteforvaltningen oplyse den indeholdelsespligtige om godtgørelser som omhandlet i stk. 1 udbetalt af den pågældende indeholdelsespligtige, som told- og skatteforvaltningen anser for skattepligtige, herunder om modtagerne af sådanne godtgørelser, og om der er udsendt agterskrivelser eller årsopgørelser til modtagerne, hvori godtgørelserne er medregnet.
