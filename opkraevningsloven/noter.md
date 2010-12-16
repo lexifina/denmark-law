@@ -1,9 +1,9 @@
-Indsættelsen er sket ved § 47 i lov nr. 462 af 31. maj 2000, der trådte i kraft den 1. januar 2001.
+1) Ved § 1 i lov nr. 513 af 7. juni 2006 indsættes § 1, stk. 2, 2. pkt., ophæves § 2, stk. 6, (nu stk. 7), nyaffattes § 7, stk. 1, ændres § 8, stk. 1, nr. 2 og 3, indsættes § 8, stk. 1, nr. 4, ophæves § 12, stk. 1, 3. og 4. pkt., indsættes § 12, stk. 5, og § 13, stk. 2 og nyaffattes kapitel 5 (§§ 16-16 d). Loven sættes i kraft af skatteministeren; det er ikke sket endnu. Loven finder anvendelse for krav, der har forfaldsdato efter ikrafttrædelsestidspunktet.
 
-Ændring af § 2, stk. 2, 2. pkt., stk. 4, indsættelse af nyt stk. 5, (stk. 5 og 6 bliver herefter stk. 6 og 7), ændring af § 2, stk. 7, § 7, stk. 1, § 17, stk. 1, nr. 3, og stk. 3, 1. pkt., er sket ved § 4 i lov nr. 1299 af 20. december 2000, der trådte i kraft den 1. januar 2001. § 2, stk. 5 og § 7, stk. 1, havde virkning fra og med den 1. januar 2002, jf. § 5, stk. 1.
+2) § 2, stk. 2, 2. pkt., er nyaffattet, § 2, stk. 6, 1. pkt., er ændret, og § 2, stk. 8, er indsat ved § 2 i lov nr. 521 af 12. juni 2009. Disse ændringer har virkning fra indkomståret 2011.
 
-Indsættelse af § 11 a og ændring af § 17, stk. 3, 1. pkt. (ændret ved note 1) og stk. 3, 2. pkt., er sket ved § 6 i lov nr. 461 af 31. maj 2000, der trådte i kraft den 1. januar 2001, jf. § 7, stk. 1.
+3) Ved § 9 i lov nr. 528 af 17. juni 2008 indsættes bilag 1, liste A, nr. 34. Loven sættes i kraft af skatteministeren; det er ikke sket endnu.
 
-Ændring af § 17, stk. 2 og 3, er sket ved § 33 i lov nr. 1029 af 22. november 2000, der trådte i kraft den 1. juli 2001, jf. § 58. Hvis der den 1. juli 2001 eller senere skal idømmes straf for en tidligere begået overtrædelse, for hvilken straf af hæfte indtil 30 dage ville være forskyldt, idømmes fængsel med samme antal dage som tidligere hæfte, jf. § 59.
+4) Ved § 39 i lov nr. 698 af 25. juni 2010 ophæves bilag 1, liste A, nr. 32.Loven sættes i kraft af skatteministeren; det er ikke sket endnu.
 
-Ændringen af § 11 a, stk. 4, er sket ved § 3 i lov nr. 1058 af 17. december 2002, der trådte i kraft den 1. januar 2003, jf. § 5, stk. 1.
+5) Bilag 1, liste B, nr. 1, er ophævet ved § 2 i lov nr. 521 af 12. juni 2009. Ændringen har virkning fra indkomståret 2011.

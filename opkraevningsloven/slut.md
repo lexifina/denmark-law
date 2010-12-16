@@ -1,12 +1,12 @@
-Skatteministeriet, den 28. april 2003
+Skatteministeriet, den 7. december 2010
 
-Svend Erik Hovmand
+P.M.V. Peter Loft
 
-/K.-H. Ludolph
+/ K.-H. Ludolph
 
 Bilag 1
 
-## Liste A
+Liste A
 
 1) Lov om energiafgift af mineralolieprodukter m.v.
 
@@ -72,8 +72,8 @@ Bilag 1
 
 32) Lov om gevinstgivende spilleautomater.
 
-## Liste B
+33) Lov om afgift af mineralsk fosfor i foderfosfat.
 
-1) Lov om en arbejdsmarkedsfond.
+Liste B
 
-2) Kildeskatteloven.
+1) Kildeskatteloven.
