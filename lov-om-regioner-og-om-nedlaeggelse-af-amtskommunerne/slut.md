@@ -1,5 +1,5 @@
-Indenrigs- og Socialministeriet, den 3. juli 2009
+Indenrigs- og Sundhedsministeriet, den 1. november 2010
 
-P.M.V. Christian Schønau
+Bertel Haarder
 
-/ Eva Pedersen
+/ Christian Vigh
