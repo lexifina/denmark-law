@@ -1,0 +1,3 @@
+§ 4 a. Uddannelsesstedet kan efter ansøgning i ganske særlige tilfælde træffe afgørelse om, at studerende, der har ret til rabat efter § 1, gives godtgørelse til befordring med andre befordringsmidler end offentlige befordringsmidler efter en kilometersats. Uddannelsesstedet træffer herunder afgørelse om antallet af kilometer, der kan gives godtgørelse for, mellem uddannelsesstedet og den studerendes bopæl.
+
+Stk. 2. Ministeren for forskning, innovation og videregående uddannelser kan fastsætte nærmere regler om retten til godtgørelse efter stk. 1, herunder godtgørelsens beregning, sats og årlige regulering, øvre grænse for godtgørelsen og udbetaling.
