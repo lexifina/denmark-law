@@ -4,6 +4,6 @@ Stk. 2. Revisorerne har pligt til at deltage i bestyrelsens behandling af de på
 
 Stk. 3. Revisorerne har ret til at være til stede på repræsentantskabsmødet. De skal være til stede, såfremt det begæres af bestyrelsen eller af et medlem af repræsentantskabet.
 
-Stk. 4. Finanstilsynet fastsætter regler om revisionens gennemførelse i Arbejdsmarkedets Tillægspension.
+Stk. 4. Finanstilsynet fastsætter regler om revisionens gennemførelse i Arbejdsmarkedets Tillægspension. Finanstilsynet kan tillige fastsætte regler om intern revision.
 
 Stk. 5. Finanstilsynet kan pålægge revisor, og hvis bestyrelsen efter § 25 p, stk. 4, har oprettet en intern revision tillige den interne revisionschef, at give oplysninger om forholdene i Arbejdsmarkedets Tillægspension.

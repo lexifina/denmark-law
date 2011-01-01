@@ -4,6 +4,6 @@
 
 2) personer, der modtager fleksydelse efter lov om fleksydelse,
 
-3) personer, der i medfør af § 74 o, i lov om arbejdsløshedsforsikring m.v., modtager efterløn uden at være medlem af en dansk arbejdsløshedskasse, og
+3) personer, der i medfør af § 74 o i lov om arbejdsløshedsforsikring m.v., modtager efterløn uden at være medlem af en dansk arbejdsløshedskasse, og
 
 4) personer, der er omfattet af lov om delpension.

@@ -1,4 +1,4 @@
-§ 25 c. Når årsrapporten er udarbejdet, skal alle medlemmerne af bestyrelsen og direktionen underskrive den og datere underskriften. De skal give deres underskrift i tilknytning til en ledelsespåtegning, hvor hvert enkelt medlems navn og funktion i forhold til Arbejdsmarkedets Tillægspension er tydeligt angivet, og hvori de erklærer, hvorvidt
+§ 25 c. Når årsrapporten er udarbejdet, skal alle medlemmerne af bestyrelsen og direktionen underskrive den og datere underskriften. De skal give deres underskrift i tilknytning til en ledelsespåtegning, hvor hvert enkelt medlems navn og funktion i forhold til Arbejdsmarkedets Tillægspension er tydeligt angivet, og hvori de erklærer, hvorvidt:
 
 1) årsrapporten er aflagt i overensstemmelse med lovgivningens krav og eventuelle krav i vedtægter eller aftale,
 

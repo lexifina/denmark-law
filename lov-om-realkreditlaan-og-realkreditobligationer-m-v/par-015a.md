@@ -1,0 +1,3 @@
+§ 15 a. Hvis obligationer forlænges eller ændres, som følge af at det i forbindelse med refinansiering konstateres, at der ikke er aftagere til alle de nødvendige nye obligationer, jf. § 6, skal løbetiden for lån optaget som ekstra sikkerhed i medfør af § 15, der ordinært forfalder i forlængelsesperioden, og som er knyttet til de obligationer, der forlænges eller ændres, forlænges eller ændres svarende til løbetiden på de pågældende forlængede eller ændrede obligationer.
+
+Stk. 2. Hvis instituttet optager eller har optaget nye lån til hel eller delvis erstatning for de i stk. 1 nævnte lån, kan de i stk. 1 nævnte lån dog helt eller delvis indfries til ordinært forfald.
