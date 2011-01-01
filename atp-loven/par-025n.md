@@ -1,4 +1,4 @@
-§ 25 n. Med henblik på at sikre, at Arbejdsmarkedets Tillægspensions årsrapport er i overensstemmelse med reglerne i dette kapitel og de regler, der er udstedt i medfør af § 25 m, kan Finanstilsynet
+§ 25 n. Med henblik på at sikre, at Arbejdsmarkedets Tillægspensions årsrapport er i overensstemmelse med reglerne i dette kapitel og de regler, der er udstedt i medfør af § 25 m, kan Finanstilsynet:
 
 1) yde vejledning,
 
