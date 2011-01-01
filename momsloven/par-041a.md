@@ -1,4 +1,4 @@
-§ 41 a. Når virksomhedens leverancer af guld er fritaget for afgift efter § 13, stk. 1, nr. 21, kan virksomheden som indgående afgift fradrage afgift, som kan henføres til
+§ 41 a. Når virksomhedens leverancer af guld er fritaget for afgift efter § 13, stk. 1, nr. 20, kan virksomheden som indgående afgift fradrage afgift, som kan henføres til
 
 1) levering af investeringsguld til virksomheden, når dette guld er leveret af virksomheder, der har pålagt denne leverance afgift,
 
