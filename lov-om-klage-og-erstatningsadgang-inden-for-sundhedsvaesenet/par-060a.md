@@ -1,0 +1,1 @@
+§ 60 a. Anmeldelser af erstatningskrav efter kapitel 3 og 4, der sendes til Patientombuddet, anses for indgivet til rette myndighed, jf. §§ 59 og 60, på det tidspunkt, hvor de modtages af Patientombuddet. Anmeldelserne videresendes straks til rette myndighed.

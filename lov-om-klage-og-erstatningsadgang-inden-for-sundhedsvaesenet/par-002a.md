@@ -1,0 +1,1 @@
+§ 2 a. Sundhedsvæsenets Disciplinærnævn behandler sager om sundhedsfaglig virksomhed indbragt af Sundhedsstyrelsen eller Lægemiddelstyrelsen i tilfælde, hvor vedkommende styrelse finder, at der kan være grundlag for kritik af eller sanktion over for personer omfattet af § 2, stk. 1, eller regler fastsat i medfør af § 2, stk. 2.
