@@ -1,0 +1,1 @@
+§ 67 c. Afgiftsgrundlaget for enkeltydelsen, jf. § 67 a, er rejsebureauets fortjenstmargen, hvorved forstås forskellen mellem det samlede beløb uden afgift, der skal betales af den rejsende, og rejsebureauets faktiske omkostninger til de af andre afgiftspligtige personer foretagne leveringer af varer og ydelser, når disse leveringer direkte kommer den rejsende til gode.

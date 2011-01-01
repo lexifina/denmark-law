@@ -1,0 +1,1 @@
+§ 67 b. Leveringsstedet for enkeltydelsen, jf. § 67 a, er der, hvor rejsebureauet har etableret stedet for sin økonomiske virksomhed eller har fast forretningssted, hvorfra ydelsen leveres af bureauet.
