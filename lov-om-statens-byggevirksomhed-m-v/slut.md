@@ -1,9 +1,5 @@
-givet på Christiansborg slot, den 19. maj 1971.
+Økonomi- og Erhvervsministeriet, den 16. december 2010
 
-Under Vor Kongelige Hånd og Segl.
+Brian Mikkelsen
 
-FREDEIK R.
-
-Aage Hastrup.
-
-Ingen
+/ Finn Lauritzen
