@@ -1,3 +1,3 @@
-Bekendtgørelse af Lov om brandsikring af ældre beboelsesbygninger m.v.
+Bekendtgørelse af lov om brandsikring af ældre beboelsesbygninger m.v.
 
-Herved bekendtgøres lov nr. 53 af 25. februar 1976 om brandsikring af ældre beboelsesbygninger m.v. med de ændringer, der følger af lov nr. 617 af 17. december 1976 og lov nr. 182 af 9. maj 1977.
+Herved bekendtgøres lov om brandsikring af ældre beboelsesbygninger m.v. jf. lovbekendtgørelse nr. 228 af 26. maj 1977, med de ændringer, der følger af § 153 i lov nr. 1336 af 19. december 2008.
