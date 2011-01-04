@@ -1,7 +1,5 @@
-Givet på Christiansborg Slot, den 20. december 1999
+Økonomi- og Erhvervsministeriet, den 16. december 2010
 
-Under Vor Kongelige Hånd og Segl
+Brian Mikkelsen
 
-Margrethe R.
-
-/Jytte Andersen
+/ Finn Lauritzen
