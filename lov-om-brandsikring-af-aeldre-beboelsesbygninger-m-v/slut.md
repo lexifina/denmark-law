@@ -1,7 +1,5 @@
-Boligministeriet, den 26. maj 1977.
+Økonomi- og Erhvervsministeriet, den 16. december 2010
 
-Ove Hove.
+Brian Mikkelsen
 
-/Keld Christiansen.
-
-Ingen
+/ Finn Lauritzen
