@@ -1,1 +1,1 @@
-§ 7 b. (Ophævet).
+§ 7 b. (Ophævet)

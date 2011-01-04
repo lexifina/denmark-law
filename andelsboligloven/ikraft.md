@@ -2,7 +2,7 @@ Lov nr. 486 af 5. november 1980 indeholder følgende ikrafttrædelsesbestemmelse
 
 § 2
 
-Loven /NREF/SN503/3)/ træder i kraft den 1. januar 1981.
+Loven træder i kraft den 1. januar 1981.
 
 Stk. 2. Andelsboligforeninger, der har erhvervet ejendommen efter reglerne om tilbudspligt i lov om leje eller i lov om ejerlejligheder, kan uanset den på erhvervelsestidspunktet gældende lovgivning ændre vedtægtsbestemmelser om overdragelse. Det samme gælder andelsboligforeninger, der har erhvervet ejendommen efter 1. januar 1980.
 
@@ -12,13 +12,13 @@ Lov nr. 80 af 17. marts 1982 indeholder følgende ikrafttrædelsesbestemmelse:
 
 § 2
 
-Loven /NREF/SN504/4)/ træder i kraft ved bekendtgørelsen i Lovtidende.
+Loven træder i kraft ved bekendtgørelsen i Lovtidende.
 
 Lov nr. 194 af 25. maj 1983 indeholder følgende ikrafttrædelsesbestemmelse:
 
 § 2
 
-Loven /NREF/SN505/5)/ træder i kraft den 1. juni 1983.
+Loven træder i kraft den 1. juni 1983.
 
 Lov nr. 206 af 22. maj 1985 indeholder følgende ikrafttrædelsesbestemmelser:
 
@@ -64,13 +64,13 @@ Lov nr. 1072 af 22. december 1993 indeholder følgende ikrafttrædelsesbestemmel
 
 § 5
 
-Loven /NREF/SN513/13)/ træder i kraft den 1. januar 1994.
+Loven træder i kraft den 1. januar 1994.
 
 Lov nr. 335 af 10. maj 1994 indeholder følgende ikrafttrædelsesbestemmelse:
 
 § 2
 
-Loven /NREF/SN514/14)/ træder i kraft dagen efter bekendtgørelsen i Lovtidende og har virkning for aftaler om overdragelse, der indgås efter lovens ikrafttræden.
+Loven træder i kraft dagen efter bekendtgørelsen i Lovtidende og har virkning for aftaler om overdragelse, der indgås efter lovens ikrafttræden.
 
 Lov nr. 445 af 1. juni 1994 indeholder følgende ikrafttrædelsesbestemmelser:
 
@@ -78,7 +78,7 @@ Lov nr. 445 af 1. juni 1994 indeholder følgende ikrafttrædelsesbestemmelser:
 
 Stk. 1. Loven træder i kraft dagen efter bekendtgørelsen i Lovtidende.
 
-Stk. 2-3. (udeladt).
+Stk. 2-3. (Udeladt)
 
 Stk. 4. § 6 har virkning for aftaler om overdragelse, der indgås efter 11. maj 1994.
 
@@ -86,7 +86,7 @@ Lov nr. 306 af 17. maj 1995 indeholder følgende ikrafttrædelsesbestemmelse:
 
 § 5
 
-Loven /NREF/SN518/18)/ træder i kraft dagen efter bekendtgørelsen i Lovtidende.
+Loven træder i kraft dagen efter bekendtgørelsen i Lovtidende.
 
 Lov nr. 220 af 27. marts 1996 indeholder følgende ikrafttrædelsesbestemmelse:
 
@@ -104,19 +104,19 @@ Lov nr. 383 af 10. juni 1997 indeholder følgende ikrafttrædelsesbestemmelse:
 
 § 2
 
-Loven /NREF/SN523/23)/ træder i kraft dagen efter bekendtgørelsen i Lovtidende.
+Loven træder i kraft dagen efter bekendtgørelsen i Lovtidende.
 
 Lov nr. 1086 af 29. december 1999 indeholder følgende ikrafttrædelsesbestemmelse:
 
 § 5
 
-Loven /NREF/SN525/25)/ træder i kraft den 1. januar 2000.
+Loven træder i kraft den 1. januar 2000.
 
 Lov nr. 404 af 31. maj 2000 indeholder følgende ikrafttrædelsesbestemmelse:
 
 § 6
 
-Loven /NREF/SN526/26)/ træder i kraft dagen efter bekendtgørelsen i Lovtidende.
+Loven træder i kraft dagen efter bekendtgørelsen i Lovtidende.
 
 Lov nr. 406 af 31. maj 2000 indeholder følgende ikrafttrædelsesbestemmelse:
 
@@ -128,7 +128,7 @@ Lov nr. 137 af 20. marts 2002 indeholder følgende ikrafttrædelsesbestemmelse:
 
 § 3
 
-Loven /NREF/SN529/29)/ træder i kraft den 1. april 2002.
+Loven træder i kraft den 1. april 2002.
 
 Lov nr. 1235 af 27. december 2003 indeholder følgende ikrafttrædelsesbestemmelse:
 
@@ -173,3 +173,9 @@ Stk. 1. Loven træder i kraft dagen efter bekendtgørelsen i Lovtidende.
 Stk. 2. § 2, stk. 2, 1. pkt., jf. § 9, stk. 1, i lov om andelsboligforeninger og andre boligfællesskaber som affattet ved denne lovs § 1, nr. 1 og 4, finder anvendelse på aftaler, der er indgået efter lovens ikrafttræden, om erhvervelse af ejendomme, der efter lovens ikrafttræden er eller har været ejet af en andelsboligforening, et boligaktieselskab eller et boliganpartsselskab.
 
 Stk. 3. § 2, stk. 2, 4. pkt., i lov om andelsboligforeninger og andre boligfællesskaber som affattet ved denne lovs § 1, nr. 1, finder anvendelse på ejendomme, der efter lovens ikrafttræden er eller har været ejet af en andelsboligforening, et boligaktieselskab eller et boliganpartsselskab.
+
+Lov nr. 489 af 12. juni 2009 indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 3
+
+Loven træder i kraft den 1. juli 2009.

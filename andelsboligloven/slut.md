@@ -1,5 +1,5 @@
-Økonomi- og Erhvervsministeriet, den 19. september 2006
+Økonomi- og Erhvervsministeriet, den 16. december 2010
 
-Bendt Bendtsen
+Brian Mikkelsen
 
-/Henning Steensig
+/ Finn Lauritzen
