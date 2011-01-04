@@ -1,9 +1,5 @@
-Givet på Amalienborg, den 6. juni 1985
+Økonomi- og Erhvervsministeriet, den 18. december 2010
 
-Under Vor Kongelige Hånd og Segl
+Brian Mikkelsen
 
-MARGRETHE R.
-
-/Erik Ninn-Hansen
-
-Ingen
+/ Kim Sparlund
