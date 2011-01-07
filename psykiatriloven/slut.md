@@ -1,5 +1,5 @@
-Indenrigs- og Sundhedsministeriet, den 1. november 2006
+Indenrigs- og Sundhedsministeriet, den 2. december 2010
 
-Lars Løkke Rasmussen
+Bertel Haarder
 
-/Lene Christensen
+/ Susanne Beck Petersen
