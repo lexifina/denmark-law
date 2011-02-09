@@ -1,7 +1,5 @@
-Givet på Fredensborg Slot, den 9. juni 2006
+Beskæftigelsesministeriet, den 7. februar 2011
 
-Under Vor Kongelige Hånd og Segl
+Inger Støjberg
 
-Margrethe R.
-
-/Claus Hjort Frederiksen
+/ Jens Erik Zebis
