@@ -1,5 +1,5 @@
-Velfærdsministeriet, den 24. februar 2009
+Indenrigs- og Sundhedsministeriet, den 8. februar 2011
 
-P.M.V. Christian Schønau
+Bertel Haarder
 
-/ Eva Pedersen
+/ Nicoline Nyholm Miller
