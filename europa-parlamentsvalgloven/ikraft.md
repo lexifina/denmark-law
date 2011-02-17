@@ -28,28 +28,4 @@ Stk. 3. § 12, stk. 3, 3. og 4. pkt., i lov om valg til Folketinget som affattet
 
 § 8
 
-Valgnævnet kan efter reglerne i lov om valg til Folketinget som ændret ved denne lovs § 1 og lov om valg af danske medlemmer til Europa-Parlamentet som ændret ved denne lovs § 2 tilbagekalde godkendelser af formularer til væl­ger­erklæringer for nye partier og eventuelle fornyelser af disse, der er meddelt før lovens ikrafttræden.
-
-Lov nr. 223 af 8. april 2008, der ændrer § 1 og § 2, stk. 1, indeholder følgende ikrafttrædelsesbestemmelser. (Lovændringen vedrører §§ 25 og 26. Lovændringen angår hjælp til stemmeafgivningen.)
-
-§ 2
-
-Loven træder i kraft den 1. juli 2008.
-
-§ 3
-
-Loven har virkning fra valget i 2009 til Europa-Parlamentet.
-
-Lov nr. 1347 af 19. december 2008, der ændrer § 25 og 26, indeholder følgende ikrafttrædelses- og overgangsbestemmelser m.v. (Lovændringen angår hjælp til stemmeafgivningen.)
-
-§ 4
-
-Loven træder i kraft den 1. april 2009.
-
-§ 5
-
-…
-
-§ 6
-
-Loven gælder ikke for Færøerne og Grønland.
+Valgnævnet kan efter reglerne i lov om valg til Folketinget som ændret ved denne lovs § 1 og lov om valg af danske medlemmer til Europa-Parlamentet som ændret ved denne lovs § 2 tilbagekalde godkendelser af formularer til vælgererklæringer for nye partier og eventuelle fornyelser af disse, der er meddelt før lovens ikrafttræden.
