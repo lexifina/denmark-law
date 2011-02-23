@@ -1,0 +1,1 @@
+1) Loven gennemfører Europa-Parlamentets og Rådets direktiv 2008/122/EF af 14. januar 2009 om beskyttelse af forbrugerne i forbindelse med visse aspekter ved timeshareaftaler, aftaler om længerevarende ferieprodukter, videresalgs- og bytteaftaler, EU-Tidende 2009 nr. L 33, side 10.
