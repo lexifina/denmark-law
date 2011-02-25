@@ -1,5 +1,5 @@
-Økonomi- og Erhvervsministeriet, den 20. august 2009
+Økonomi- og Erhvervsministeriet, den 22. februar 2011
 
-Lene Espersen
+Brian Mikkelsen
 
 / Ulrik Nødgaard
