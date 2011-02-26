@@ -1,5 +1,3 @@
-Bekendtgørelse af lov om indkomstskat for personer m.v.
+Bekendtgørelse af lov om indkomstskat for personer m.v. (personskatteloven)
 
-(personskatteloven)
-
-Herved bekendtgøres lov om indkomstskat for personer m.v. (personskatteloven), jf. lovbekendtgørelse nr. 1087 af 14. november 2005, med de ændringer og tilføjelser, der følger af § 16 i lov nr. 1414 af 21. december 2005, § 3 i lov nr. 405 af 8. maj 2006, § 8 i lov nr. 406 af 8. maj 2006, § 1 i lov nr. 514 af 7. juni 2006, § 17 i lov nr. 515 af 7. juni 2006 og § 2 i lov nr. 560 af 7. juni 2006.
+Herved bekendtgøres lov om indkomstskat for personer m.v. (personskatteloven), jf. lovbekendtgørelse nr. 959 af 19. september 2006, med de ændringer og tilføjelser, der følger af § 4 i lov nr. 1577 af 20. december 2006, § 109 i lov nr. 90 af 31. januar 2007, § 8 i lov nr. 343 af 18. april 2007, § 5 i lov nr. 345 af 18. april 2007, § 9 i lov nr. 540 af 6. juni 2007, § 11 i lov nr. 1235 af 24. oktober 2007, § 11 i lov nr. 335 af 7. maj 2008, lov nr. 520 af 17. juni 2008, § 4 i lov nr. 522 af 17. juni 2008, § 3 i lov nr. 1343 af 19. december 2008, § 1 i lov nr. 459 af 12. juni 2009, § 15 i lov nr. 460 af 12. juni 2009, § 15 i lov nr. 462 af 12. juni 2009, § 13 i lov nr. 525 af 12. juni 2009, § 8 i lov nr. 1278 af 16. december 2009, lov nr. 1389 af 21. december 2009, § 5 i lov nr. 723 af 25. juni 2010, § 9 i lov nr. 724 af 25. juni 2010, § 1 i lov nr. 725 af 25. juni 2010, § 2 i lov nr. 1559 af 21. december 2010 og lov nr. 1562 af 21. december 2010.
