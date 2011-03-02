@@ -242,7 +242,7 @@ Stk. 2. Lovens § 1 finder anvendelse på uddannelsesaftaler og praktikaftaler, 
 
 Stk. 3-5. (Udeladt).
 
-Stk. 6. Nedenstående ydelser udbetales efter ansøgning fra arbejdsgiveren, når denne har ansøgt Arbejdsgivernes Elevrefusion herom senest et år efter, at arbejdsgiveren blev berettiget til disse ydelser:
+Stk. 6. Nedenstående ydelser udbetales efter ansøgning fra arbejdsgiveren, når denne har ansøgt Arbejdsgivernes Elevrefusion herom, senest 1 år efter at arbejdsgiveren blev berettiget til disse ydelser:
 
 1) Præmie, løntilskud og bonus for uddannelsesaftaler og praktikaftaler, der er indgået i perioden fra den 1. juni 2009 til den 4. november 2009, jf. § 1, nr. 1, i lov nr. 427 af 30. maj 2009 om ændring af lov om Arbejdsgivernes Elevrefusion.
 
@@ -263,3 +263,35 @@ Lov nr. 578 af 1. juni 2010, hvis § 11 ændrer § 5, stk. 2, 1. pkt., indeholde
 Loven træder i kraft den 1. august 2010.
 
 Stk. 2. (Udeladt)
+
+Lov nr. 1230 af 2. november 2010, hvis § 1 nyaffatter § 16, stk. 2, § 16 a, stk. 1, § 17, stk. 2, og § 19, stk. 4, ændrer § 13, indsætter § 16, stk. 1, 2. pkt., § 16, stk. 3, § 16 a, stk. 3, § 17, stk. 3, § 17 a, § 18, stk. 1, 3. pkt., og § 41 a og ophæver § 19, stk. 2 og 3, indeholder i § 3 følgende bestemmelse:
+
+§ 3
+
+Stk. 1. Loven træder i kraft den 15. november 2010.
+
+Stk. 2. § 17, stk. 2, i lov om Arbejdsgivernes Elevrefusion som affattet ved denne lovs § 1, nr. 7, finder tilsvarende anvendelse på uddannelsesaftaler indgået fra og med den 5. november 2009, hvis prøvetiden ikke er udløbet den 15. november 2010.
+
+Stk. 3. De hidtil gældende bestemmelser i § 17, stk. 2, i lov om Arbejdsgivernes Elevrefusion som affattet ved § 1, nr. 3, i lov nr. 1218 af 14. december 2009 om ændring af lov om Arbejdsgivernes Elevrefusion og lov om erhvervsuddannelser. (Justering af præmie, løntilskud og bonus, adgang til skolepraktik og til skoleundervisning og tilskud til praktikvirksomheder) finder fortsat anvendelse på uddannelsesaftaler indgået i perioden fra den 5. november 2009 til den 31. december 2010. For så vidt angår uddannelsesaftaler indgået efter den 15. november 2010, er det en betingelse, at aftalen påbegyndes senest 3 måneder efter aftalens indgåelse.
+
+Stk. 4. Arbejdsgiveren kan kun få udbetalt bonus efter enten de bestemmelser, der er nævnt i stk. 2, eller de bestemmelser, der er nævnt i stk. 3.
+
+Stk. 5. § 16, stk. 1, 2. pkt., § 16 a, stk. 1, 2. pkt., og § 17 a i lov om Arbejdsgivernes Elevrefusion som affattet ved denne lovs § 1, nr. 2, § 1, nr. 5, og § 1, nr. 9, finder ikke anvendelse på uddannelsesaftaler og praktikaftaler indgået før den 15. november 2010.
+
+Lov nr. 1311 af 30. november 2010, hvis § 1 nyaffatter § 18, stk. 2, ændrer § 13, 4. pkt., § 16, stk. 1, 3. pkt., § 18, stk. 1, 4. pkt., og § 22, stk. 2, og indsætter § 22, stk. 3, 2. pkt., indeholder i § 2 følgende bestemmelse:
+
+§ 2
+
+Loven træder i kraft den 1. januar 2011.
+
+Lov nr. 1615 af 22. december 2010, hvis § 2 indsætter kapitel 6 a og ophæver § 17 a, indeholder i § 4 følgende bestemmelse:
+
+§ 4
+
+Stk. 1. Loven træder i kraft den 1. januar 2011.
+
+Stk. 2. (Udeladt).
+
+Stk. 3. § 17 b i lov om Arbejdsgivernes Elevrefusion som affattet ved denne lovs § 2, nr. 1, har virkning for uddannelsesaftaler indgået fra og med den 1. januar 2011, jf. dog stk. 4.
+
+Stk. 4. For mobilitetsfremmende ydelser efter §§ 8, 9, 11 og 12 i lov om Arbejdsgivernes Elevrefusion finder § 17 b i lov om Arbejdsgivernes Elevrefusion som affattet ved denne lovs § 2, nr. 1, anvendelse vedrørende elever, der optages på en skole fra og med den 1. januar 2011.
