@@ -1,7 +1,5 @@
-Givet på Christiansborg Slot, den 19. december 2007
+Skatteministeriet , den 22. februar 2011
 
-Under Vor Kongelige Hånd og Segl
+Peter Loft
 
-MARGRETHE R.
-
-/ Kristian Jensen
+/ Carsten Vesterø
