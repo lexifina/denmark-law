@@ -1,5 +1,9 @@
-Skatteministeriet, den 28. august 2006
+## Kapitel 21
 
-P.M.V. Peter Loft
+## Delingsbestemmelser (udeladt)
 
-/K.-H. Ludolph
+Skatteministeriet, den 23. februar 2011
+
+Peter Loft
+
+/ Per Hvas

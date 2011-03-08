@@ -1,3 +1,3 @@
 Bekendtgørelse af skatteforvaltningsloven
 
-Hermed bekendtgøres skatteforvaltningsloven , jf. lovbekendtgørelse nr. 758 af 2. august 2005, med de ændringer, der følger af § 2 i lov nr. 1409 af 21. december 2005, § 19 i lov nr. 1414 af 21. december 2005, § 19 i lov nr. 515 af 7. juni 2006 og § 47 i lov nr. 538 af 8. juni 2006.
+Hermed bekendtgøres skatteforvaltningsloven, jf. lovbekendtgørelse nr. 907 af 28. august 2006, med de ændringer, der følger af § 4 i lov nr. 405 af 8. maj 2006, lov nr. 1581 af 20. december 2006, § 9 i lov nr. 343 af 18.april 2007, § 1 i lov nr. 345 af 18. april 2007, § 3 i lov nr. 346 af 18. april 2007, § 37 i lov nr. 523 af 6. juni 2007, § 1 i lov nr. 527 af 17. juni 2008, § 2 i lov nr. 531 af 17. juni 2008, § 116 i lov nr. 1336 af 19. december 2008, § 1 i lov nr. 1341 af 19. december 2008, § 15 i lov nr. 525 af 12. juni 2009 og § 1 i lov nr. 545 af 26. maj 2010.
