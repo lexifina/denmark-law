@@ -1,7 +1,5 @@
-Givet på Amalienborg, den 22. april 2002
+Søfartsstyrelsen, den 4. marts 2011
 
-Under Vor Kongelige Hånd og Segl
+Lisbet Dyerberg
 
-Margrethe R.
-
-/Bendt Bendtsen
+/ Sune Rahn
