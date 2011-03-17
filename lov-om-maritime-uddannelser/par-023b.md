@@ -1,0 +1,1 @@
+§ 23 b. Søfartsstyrelsen kan indhente de nødvendige oplysninger fra uddannelsesinstitutionerne om uddannelserne, de studerende, personalet, økonomi og udstyr m.v. til brug for gennemførelse af tilsyn, kvalitetssikring og udarbejdelse af statistik.

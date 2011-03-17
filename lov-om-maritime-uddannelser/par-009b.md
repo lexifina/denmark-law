@@ -1,0 +1,1 @@
+§ 9 b. Den daglige leder ansættes af bestyrelsen. Bestyrelsen skal sikre, at uddannelsesinstitutionen til enhver tid har en daglig leder, der bidrager til fremme af uddannelsesinstitutionens formål og har de fornødne kompetencer under hensyntagen til uddannelsesinstitutionens karakter og situation.
