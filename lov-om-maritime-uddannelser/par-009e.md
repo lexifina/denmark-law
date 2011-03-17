@@ -1,0 +1,1 @@
+§ 9 e. Finansministeriet fastsætter eller aftaler løn og ansættelsesvilkår for uddannelsesinstitutionens personale, medmindre andet fastsættes eller godkendes af Finansministeriet, Personalestyrelsen.
