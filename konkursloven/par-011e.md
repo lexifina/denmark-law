@@ -1,0 +1,13 @@
+§ 11 e. På mødet med fordringshaverne drøftes forslaget til rekonstruktionsplan. Forslaget til rekonstruktionsplan kan ændres på mødet, jf. stk. 2, 2. pkt.
+
+Stk. 2. Forslaget til rekonstruktionsplan er vedtaget, medmindre et flertal af fordringshaverne stemmer imod og dette flertal repræsenterer mindst 25 pct. af det samlede kendte beløb, der ved repræsentation ville give stemmeret. Ændringsforslag til forslaget til rekonstruktionsplan er vedtaget, hvis et flertal af fordringshaverne stemmer for og dette flertal repræsenterer mindst 25 pct. af det samlede kendte beløb, der ved repræsentation ville give stemmeret. § 13 d, stk. 2 og 3, finder tilsvarende anvendelse.
+
+Stk. 3. Vedtages der ikke en rekonstruktionsplan, bestemmer skifteretten, at rekonstruktionsbehandlingen ophører, jf. dog stk. 5.
+
+Stk. 4. Skifteretten kan på mødet
+
+1) beskikke en eller flere yderligere rekonstruktører eller
+
+2) beskikke en anden tillidsmand.
+
+Stk. 5. Hvis særlige grunde taler for det, kan skifteretten efter anmodning fra rekonstruktøren og tillidsmanden udsætte drøftelsen af forslaget til rekonstruktionsplan til et senere møde, som skal holdes inden fire uger. § 11 c, § 11 d og stk. 1-4 finder tilsvarende anvendelse. Udsættelse kan ikke ske, hvis et flertal af fordringshaverne stemmer imod og dette flertal repræsenterer mindst 25 pct. af det samlede kendte beløb, der ved repræsentation ville give stemmeret. § 13 d, stk. 2 og 3, finder tilsvarende anvendelse.

@@ -1,0 +1,7 @@
+§ 13 f. Forkastes rekonstruktionsforslaget, nægtes stadfæstelse, eller stadfæster skifteretten forslaget, ophører rekonstruktionsbehandlingen, jf. dog stk. 2 og 3.
+
+Stk. 2. Ved stadfæstelse af et rekonstruktionsforslag kan skifteretten bestemme, at rekonstruktionsbehandlingen skal fortsætte, hvis det fremgår af det stadfæstede rekonstruktionsforslag, at der vil blive fremsat yderligere rekonstruktionsforslag inden for fristen i § 13, stk. 1, eller en eventuel forlænget frist, jf. § 13 a.
+
+Stk. 3. Uden for de tilfælde, der er nævnt i stk. 2, kan skifteretten ved stadfæstelse af et rekonstruktionsforslag bestemme, at rekonstruktionsbehandlingen skal fortsætte, hvis det stadfæstede rekonstruktionsforslag indeholder bestemmelse om en virksomhedsoverdragelse, som endnu ikke er tiltrådt af erhververen. Rekonstruktionsbehandlingen kan dog ikke fortsætte ud over fristen i § 13, stk. 1, eller en eventuel forlænget frist, jf. § 13 a. Skifteretten fastsætter en frist for erhververens tiltrædelse af aftalen om virksomhedsoverdragelse på højst fire uger. Når virksomhedsoverdragelsen er tiltrådt af erhververen, eller når den frist, skifteretten har fastsat, er udløbet, uden at erhververen har tiltrådt aftalen, bestemmer skifteretten, at rekonstruktionsbehandlingen ophører.
+
+Stk. 4. Stk. 2 og 3 finder ikke anvendelse, hvis det stadfæstede rekonstruktionsforslag indeholder bestemmelse om tvangsakkord.

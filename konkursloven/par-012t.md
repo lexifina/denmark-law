@@ -1,0 +1,3 @@
+§ 12 t. Skyldneren kan med rekonstruktørens samtykke opsige en aftale om et vedvarende retsforhold med sædvanligt eller rimeligt varsel, selv om længere varsel eller uopsigelighed er aftalt. Dette gælder dog ikke, hvis længere varsel er sikret mod skyldnerens fordringshavere ved tinglysning eller anden lignende offentlig registrering.
+
+Stk. 2. Når særlige grunde taler for det, kan det pålægges skyldneren at yde erstatning for medkontrahentens tab, ved at skyldneren opsiger aftalen efter stk. 1.

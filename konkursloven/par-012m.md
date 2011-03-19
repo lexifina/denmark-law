@@ -1,0 +1,1 @@
+§ 12 m. Sælges retten til at gøre omstødelse gældende, indbetales salgssummen til rekonstruktøren, der fordeler beløbet til fordringshaverne efter samme fordeling som ved rekonstruktionen, medmindre andet er bestemt ved beslutningen om salget.
