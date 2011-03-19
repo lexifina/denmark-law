@@ -1,0 +1,3 @@
+§ 14 a. Kan et afdrag på en fordring omfattet af en tvangsakkord ikke betales, fordi fordringen er omtvistet eller afhængig af en endnu ikke opfyldt betingelse, kan skifteretten bestemme, at beløbet skal indsættes på en særlig konto i et pengeinstitut.
+
+Stk. 2. Hvis det ved endelig dom bliver fastslået, at beløbet ikke skyldes, hvis sagen om berettigelsen af kravet ikke er anlagt inden en af skifteretten fastsat frist, eller hvis det viser sig, at en betingelse ikke vil blive opfyldt, hvorom skifteretten kan give attest, udloddes beløbet til de fordringshavere, hvis fordringer omfattes af tvangsakkorden uden at bortfalde ved denne, medmindre det er bestemt i akkorden, at beløbet skal tilbagebetales til skyldneren.

@@ -1,0 +1,1 @@
+§ 10 b. En virksomhedsoverdragelse kan gå ud på overdragelse til eje af skyldnerens igangværende virksomhed eller en del heraf, der bevarer sin identitet, og som udgør en økonomisk enhed, der er organiseret med henblik på udøvelse af en økonomisk aktivitet.

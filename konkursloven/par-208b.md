@@ -8,4 +8,4 @@ Stk. 4. En fordring, der er bortfaldet efter stk. 1, kan gøres gældende med de
 
 1) over for skyldneren, hvis gældssaneringen ophæves i medfør af § 229, eller
 
-2) hvis skyldnerens bo tages under konkursbehandling, hvis skyldneren får stadfæstet en tvangsakkord, eller hvis skyldneren på ny meddeles gældssanering, jf. § 230.
+2) hvis skyldnerens bo tages under konkursbehandling, hvis skyldneren får stadfæstet en rekonstruktion, der indeholder bestemmelse om tvangsakkord, eller hvis skyldneren på ny meddeles gældssanering, jf. § 230.

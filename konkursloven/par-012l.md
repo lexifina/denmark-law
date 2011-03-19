@@ -1,0 +1,1 @@
+§ 12 l. Afsiges der dom om omstødelse i en sag anlagt efter § 12 k, stk. 3 eller 4, bestemmes det i dommen, at det idømte skal betales til skifteretten, der heraf afholder sagens rimelige omkostninger og udlodder resten til fordringshaverne efter samme fordeling som ved rekonstruktionen.
