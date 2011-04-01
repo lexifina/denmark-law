@@ -12,11 +12,13 @@ Stk. 2. Til udbytte henregnes:
 
 Stk. 3. Følgende udlodninger behandles efter reglerne om beskatning af gevinst og tab ved afståelse af aktier m.v.:
 
-1) Udlodning af likvidationsprovenu foretaget i det kalenderår, hvori selskabet endeligt opløses, medmindre udlodningen er omfattet af stk. 2, nr. 2, eller
+1) Udlodning af likvidationsprovenu foretaget i det kalenderår, hvori selskabet endeligt opløses, medmindre udlodningen er omfattet af stk. 2, nr. 2, eller en af følgende betingelser er opfyldt:
 
-a) det modtagende selskab ejer mindst 10 pct. af aktiekapitalen i det selskab, der likvideres, og udlodningen omfattes af selskabsskattelovens § 2, stk. 1, litra c, eller
+a) Det modtagende selskab ejer mindst 10 pct. af aktiekapitalen i det selskab, der likvideres, og udlodningen omfattes af selskabsskattelovens § 2, stk. 1, litra c.
 
-b) det modtagende selskab ejer mindre end 10 pct. af aktiekapitalen, men er koncernforbundet med det selskab, der likvideres, jf. § 2.
+b) Det modtagende selskab ejer mindre end 10 pct. af aktiekapitalen, er skattepligtigt af udbytter, jf. selskabsskattelovens § 2, stk. 1, litra c, og har bestemmende indflydelse i det selskab, der likvideres, jf. § 2. Dette gælder dog ikke, hvis det modtagende selskab er hjemmehørende i en stat, der er medlem af EU eller EØS, og udbyttebeskatningen skulle være frafaldet eller nedsat efter bestemmelserne i direktiv 90/435/EØF eller en dobbeltbeskatningsoverenskomst med den pågældende stat, hvis der havde været tale om datterselskabsaktier.
+
+c) Den modtagende fysiske person er hjemmehørende uden for EU/EØS og har bestemmende indflydelse i det selskab, der likvideres, jf. § 2.
 
 2) Udlodning efter tilladelse fra told- og skatteforvaltningen, for så vidt angår:
 
@@ -34,6 +36,6 @@ Stk. 4. Følgende udlodninger medregnes ikke i den skattepligtige indkomst for m
 
 3) Udlodninger fra udloddende investeringsforeninger, jf. § 16 C, stk. 1, i det omfang det følger af stk. 5, hvis udlodningerne modtages af personer m.v., der er skattepligtige efter kildeskattelovens § 1 eller dødsboskattelovens § 1, stk. 2. Skattefriheden gælder dog ikke, hvis modtageren af udlodningen omfattes af kursgevinstlovens § 13.
 
-Stk. 5. Den skattefrie del af udlodningerne efter stk. 4, nr. 3, opgøres som forskellen mellem på den ene side udlodningerne og på den anden side den del af udlodningerne, som hidrører fra investeringsforeningens nettoindtægter som nævnt i § 16 C, stk. 3, nr. 1-9, nedsat efter § 16 C, stk. 4, 1.-4. pkt., stk. 5, nr. 1-3, og stk. 6, jf. stk. 4, 1.-4. pkt. Uanset 1. pkt. kan den skattefrie del af udlodningerne efter stk. 4, nr. 3, ikke overstige den del af udlodningerne, som hidrører fra investeringsforeningens nettogevinster som nævnt i § 16 C, stk. 3, nr. 10, nedsat efter § 16 C, stk. 5, nr. 4.
+Stk. 5. Den skattefrie del af udlodningerne efter stk. 4, nr. 3, opgøres som forskellen mellem på den ene side udlodningerne og på den anden side den del af udlodningerne, som hidrører fra investeringsforeningens nettoindtægter som nævnt i § 16 C, stk. 3, nr. 1-9, nedsat efter § 16 C, stk. 4, 1.-5. pkt., stk. 5, nr. 1-3, og stk. 6, jf. stk. 4, 1.-5. pkt. Uanset 1. pkt. kan den skattefrie del af udlodningerne efter stk. 4, nr. 3, ikke overstige den del af udlodningerne, som hidrører fra investeringsforeningens nettogevinster som nævnt i § 16 C, stk. 3, nr. 10, nedsat efter § 16 C, stk. 5, nr. 4.
 
 Stk. 6. En hovedaktionær som nævnt i aktieavancebeskatningslovens § 4, der modtager udbytte fra selskabet i form af, at der stilles en bil, en sommerbolig, en lystbåd eller en helårsbolig til rådighed, skal ved opgørelsen af den skattepligtige indkomst medregne værdien af godet tillagt eventuelt sparet privatforbrug i relation til godet. Godernes værdi ansættes efter reglerne i henholdsvis § 16, stk. 4, 5, 6 og 9. 1. og 2. pkt. finder dog ikke anvendelse for udbytte i form af en helårsbolig, der stilles til rådighed for en hovedaktionær som nævnt i § 16, stk. 9, sidste pkt.
