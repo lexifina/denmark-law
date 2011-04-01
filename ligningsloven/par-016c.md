@@ -8,7 +8,7 @@ Stk. 3. I beregningen af minimumsudlodningen indgår følgende indtægter:
 
 2) Indtjente udbytter efter § 16 A fratrukket indeholdt udbytteskat og tillagt tilbagebetalt udbytteskat og afståelsessummer efter § 16 B samt låntagers betaling til långiver af dennes manglende udbytte ved aktieudlån, i det omfang de nævnte indtægter ikke er omfattet af nr. 9.
 
-3) Gevinst på fordringer, jf. kursgevinstlovens § 14, stk. 1, i det omfang gevinsten ikke er omfattet af nr. 10. Gevinsten opgøres efter kursgevinstlovens § 26, stk. 4.
+3) Gevinst på fordringer, jf. kursgevinstlovens § 14, stk. 1, i det omfang gevinsten ikke er omfattet af nr. 10. Gevinsten opgøres efter kursgevinstlovens § 26, stk. 4. Dog kan foreningen vælge at opgøre gevinst på alle konti i fremmed valuta efter gennemsnitsmetoden, jf. kursgevinstlovens § 26, stk. 4. Er gennemsnitsmetoden valgt, kan foreningen ikke senere vælge at opgøre gevinst efter kursgevinstlovens § 26, stk. 5.
 
 4) Gevinst på gæld omfattet af kursgevinstlovens § 6.
 
@@ -24,17 +24,17 @@ Stk. 3. I beregningen af minimumsudlodningen indgår følgende indtægter:
 
 10) Gevinst på fordringer i danske kroner, der er erhvervet før den 27. januar 2010, og som på erhvervelsestidspunktet opfyldte mindsterentekravet efter kursgevinstlovens § 38, jf. lovbekendtgørelse nr. 1002 af 16. oktober 2009, fratrukket tab på sådanne fordringer. Dog kan tab alene fratrækkes, i det omfang tabene ikke overstiger gevinsterne.
 
-Stk. 4. I det samlede nettobeløb efter stk. 3, nr. 1-5, 7 og 8, fradrages tab på aktier omfattet af aktieavancebeskatningslovens § 19, tab på investeringsforeningsbeviser omfattet af aktieavancebeskatningslovens § 22, tab på fordringer omfattet af kursgevinstlovens § 14, stk. 1, bortset fra tab omfattet af stk. 3, nr. 10, og tab på fordringer i danske kroner, der er erhvervet før den 27. januar 2010 og som på erhvervelsestidspunktet ikke opfyldte mindsterentekravet efter kursgevinstlovens § 38, jf. lovbekendtgørelse nr. 1002 af 16. oktober 2009. For investeringsforeninger omfattet af selskabsskattelovens § 1, stk. 8, gælder dette dog ikke tab på fordringer på selskaber, med hvilke et medlem af foreningen er koncernforbundet, jf. kursgevinstlovens § 4, når fordringen også er omfattet af kursgevinstlovens § 4. Et negativt beløb opgjort efter 1. pkt. kan fradrages i nettobeløb efter stk. 3, nr. 6. Et eventuelt overskydende beløb kan herefter fradrages i indtægter efter stk. 3, nr. 9. Et eventuelt overskydende negativt beløb kan herefter fradrages i nettobeløb efter stk. 3, nr. 10.
+Stk. 4. I det samlede nettobeløb efter stk. 3, nr. 1-5, 7 og 8, fradrages tab på aktier omfattet af aktieavancebeskatningslovens § 19, tab på investeringsforeningsbeviser omfattet af aktieavancebeskatningslovens § 22, tab på fordringer omfattet af kursgevinstlovens § 14, stk. 1, bortset fra tab omfattet af stk. 3, nr. 10, og tab på fordringer i danske kroner, der er erhvervet før den 27. januar 2010 og som på erhvervelsestidspunktet ikke opfyldte mindsterentekravet efter kursgevinstlovens § 38, jf. lovbekendtgørelse nr. 1002 af 16. oktober 2009. Ved opgørelsen af tab på fordringer omfattet af kursgevinstlovens § 14, stk. 1, finder stk. 3, nr. 3, 3. og 4. pkt., tilsvarende anvendelse. For investeringsforeninger omfattet af selskabsskattelovens § 1, stk. 8, gælder dette dog ikke tab på fordringer på selskaber, med hvilke et medlem af foreningen er koncernforbundet, jf. kursgevinstlovens § 4, når fordringen også er omfattet af kursgevinstlovens § 4. Et negativt beløb opgjort efter 1. pkt. kan fradrages i nettobeløb efter stk. 3, nr. 6. Et eventuelt overskydende beløb kan herefter fradrages i indtægter efter stk. 3, nr. 9. Et eventuelt overskydende negativt beløb kan herefter fradrages i nettobeløb efter stk. 3, nr. 10.
 
 Stk. 5. Investeringsforeningen kan ved opgørelsen af minimumsudlodningen fradrage udgifter til administration, i det omfang udgifterne ikke overstiger et eventuelt positivt nettobeløb opgjort efter stk. 3 og 4. Fradraget efter 1. pkt. fordeles forholdsmæssigt mellem positive nettobeløb opgjort efter
 
-1) stk. 3, nr. 1-5, 7 og 8, nedsat efter stk. 4, 1. og 2. pkt.,
+1) stk. 3, nr. 1-5, 7 og 8, nedsat efter stk. 4, 1.-3. pkt.,
 
-2) stk. 3, nr. 6, nedsat efter stk. 4, 3. pkt.,
+2) stk. 3, nr. 6, nedsat efter stk. 4, 4. pkt.,
 
-3) stk. 3, nr. 9, nedsat efter stk. 4, 4. pkt., og
+3) stk. 3, nr. 9, nedsat efter stk. 4, 5. pkt., og
 
-4) stk. 3, nr. 10, nedsat efter stk. 4, 5. pkt.
+4) stk. 3, nr. 10, nedsat efter stk. 4, 6. pkt.
 
 Stk. 6. Er det samlede beløb, der opgøres til udlodning efter stk. 3 og 4, negativt, kan dette for investeringsforeningens følgende indkomstår fradrages ved opgørelsen af de beløb, der skal udloddes efter stk. 3-5. Fradrag kan kun fremføres til et senere indkomstår, såfremt det ikke for et tidligere indkomstår kan rummes i det beløb, der skal udloddes. Fremførte fradrag fordeles efter reglerne i stk. 4 i det år, hvori fradrag foretages.
 

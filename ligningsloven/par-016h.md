@@ -2,7 +2,7 @@
 
 1) Selskabets samlede udenlandske indkomstskat er mindre end ¾ af skatten beregnet på grundlag af satsen i selskabsskattelovens § 17, stk. 1, af selskabets samlede skattepligtige indkomst opgjort efter stk. 4 og 5 for det pågældende indkomstår.
 
-2) Selskabets CFC-indkomst, jf. stk. 4 og selskabsskattelovens § 32, stk. 5, for samme periode udgør mere end ½ af selskabets skattepligtige indkomst opgjort efter stk. 4. Ved bedømmelsen ses der bort fra skattepligtig indkomst hidrørende fra selskaber kontrolleret af selskabet, eller som selskabet har væsentlig indflydelse på, hvis selskaberne er hjemmehørende i samme land som selskabet. I stedet inddrages skattepligtig indkomst i de pågældende selskaber forholdsmæssigt efter selskabets direkte eller indirekte ejerandele.
+2) Selskabets CFC-indkomst, jf. stk. 4 og selskabsskattelovens § 32, stk. 5, for samme periode udgør mere end ½ af selskabets skattepligtige indkomst opgjort efter stk. 4. Ved bedømmelsen ses der bort fra skattepligtig indkomst hidrørende fra selskaber kontrolleret af selskabet, hvis selskaberne er hjemhørende i samme land som selskabet. I stedet inddrages skattepligtig indkomst i de pågældende selskaber forholdsmæssigt efter selskabets direkte eller indirekte ejerandele.
 
 3) Den skattepligtiges aktier, investeringsforeningsbeviser m.v. i selskabet er ikke aktier eller investeringsforeningsbeviser m.v. i investeringsselskaber efter aktieavancebeskatningslovens regler
 

@@ -4,11 +4,13 @@ Stk. 2. Gevinst og tab ved afståelse efter stk. 1 behandles i følgende tilfæl
 
 1) Ved afståelse af aktier m.v., der er omfattet af § 7 A, aktier omfattet af § 7 H, aktier erhvervet ved udnyttelse af en købe- eller tegningsret omfattet af § 7 H og aktier erhvervet ved udnyttelse af en købe- eller tegningsret omfattet af § 28, og når det ved udstedelsen af aktierne er betinget, at aktierne ved afståelse eller ved medarbejderens død tilbagesælges til selskabet, der i så fald er forpligtet til at erhverve disse. Det er dog en betingelse, at medarbejderaktionæren ikke er hovedaktionær i selskabet efter aktieavancebeskatningslovens § 4.
 
-2) Ved afståelse af aktier m.v. til et selskab i likvidation i det kalenderår, hvori selskabet endeligt opløses, medmindre
+2) Ved afståelse af aktier m.v. til et selskab i likvidation i det kalenderår, hvori selskabet endeligt opløses, medmindre en af følgende betingelser er opfyldt:
 
-a) det afstående selskab ejer mindst 10 pct. af aktiekapitalen i det selskab, der likvideres, og udlodningen omfattes af selskabsskattelovens § 2, stk. 1, litra c, eller
+a) Det afstående selskab ejer mindst 10 pct. af aktiekapitalen i det selskab, der likvideres, og udlodningen omfattes af selskabsskattelovens § 2, stk. 1, litra c.
 
-b) det afstående selskab ejer mindre end 10 pct. af aktiekapitalen, men er koncernforbundet med det selskab, der likvideres, jf. § 2.
+b) Det afstående selskab ejer mindre end 10 pct. af aktiekapitalen, er skattepligtigt af udbytter, jf. selskabsskattelovens § 2, stk. 1, litra c, og har bestemmende indflydelse i det selskab, der likvideres, jf. § 2. Dette gælder dog ikke, hvis det modtagende selskab er hjemmehørende i en stat, der er medlem af EU eller EØS, og udbytttebeskatningen skulle være frafaldet eller nedsat efter bestemmelserne i direktiv 90/435/EØF eller en dobbeltbeskatningsoverenskomst med den pågældende stat, hvis der havde været tale om datterselskabsaktier.
+
+c) Den afstående fysiske person er hjemmehørende uden for EU/EØS og har bestemmende indflydelse i det selskab, der likvideres, jf. § 2.
 
 3) Ved afståelse af aktier m.v., der er omfattet af aktieavancebeskatningslovens § 17, når det afstående selskab opfylder betingelserne for at modtage skattefrit udbytte efter selskabsskattelovens § 2, stk. 1, litra c, eller § 13, stk. 1, nr. 2.
 
