@@ -1,1 +1,1 @@
-§ 4 a. Miljøministeren kan træffe bestemmelse eller fastsætte regler om adgangen til at besidde kemiske stoffer og produkter og varer, som er reguleret i medfør af kapitel 6, eller som ikke er godkendt til anvendelse i Danmark, jf. kapitel 7.
+§ 4 a. Miljøministeren kan træffe bestemmelse eller fastsætte regler om adgangen til at besidde stoffer og blandinger og varer, som er reguleret i medfør af kapitel 6, eller som ikke er godkendt til anvendelse i Danmark, jf. kapitel 7.

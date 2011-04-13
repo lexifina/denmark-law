@@ -1,1 +1,1 @@
-§ 42 a. Miljøministeren kan fastsætte regler om indgivelse af politianmeldelse ved mistanke om tyveri af meget giftige eller giftige kemiske stoffer og produkter, herunder om formen.
+§ 42 a. Miljøministeren kan fastsætte regler om indgivelse af politianmeldelse ved mistanke om tyveri af meget giftige og giftige stoffer og blandinger samt stoffer og blandinger, der er klassificerede som akut toksiske i kategori 1, 2 eller 3 eller som specifikt målorgantoksiske efter en enkelt eksponering (STOT SE1), herunder om formen.

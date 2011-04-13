@@ -1,3 +1,5 @@
-§ 38 c. Ministeren kan fastsætte regler om, at den ansvarlige for en ejendom, hvorpå der erhvervsmæssigt anvendes bekæmpelsesmidler, skal føre journal over brugen af disse midler.
+§ 38 c. Den, der ved dom straffes for overtrædelse af regler om plantebeskyttelsesmidler efter § 59, stk. 2, eller efter bestemmelser udstedt i medfør af § 59, stk. 4, 2. pkt., eller for overtrædelse af regler om sprøjteudstyr og indretning af vaskepladser m.v. til plantebeskyttelsesmidler efter bestemmelser udstedt i medfør af § 110, stk. 3, 2. pkt., i lov om miljøbeskyttelse, kan ved dommen frakendes en autorisation, der er meddelt efter regler udstedt i medfør af § 38 b, for et nærmere tidsrum fra 1 til 5 år.
 
-Stk. 2. Ministeren kan herunder fastsætte nærmere regler om hvilke oplysninger, der skal indgå i den i stk. 1 nævnte journal.
+Stk. 2. I sager som nævnt i stk. 1 kan retten ved kendelse bestemme, at den pågældende under sagens behandling ikke må udøve den virksomhed, som kræver autorisation. Det kan i kendelsen bestemmes, at kære ikke har opsættende virkning. Afsiges der med hensyn til frakendelse af autorisation en frifindende dom i sagen, bortfalder forbuddet, selv om dommen ankes.
+
+Stk. 3. Har en autorisation efter stk. 1 været frakendt, er opnåelse af autorisation efter frakendelsestidens udløb betinget af, at vedkommende på ny opnår autorisation efter regler udstedt i medfør af § 38 b, stk. 1 og 2.

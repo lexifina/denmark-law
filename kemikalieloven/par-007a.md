@@ -1,1 +1,1 @@
-§ 7 a. Ministeren kan fastsætte regler, der er nødvendige for anvendelsen her i landet af De Europæiske Fællesskabers forordninger vedrørende de af denne lov omfattede kemiske stoffer, produkter og varer.
+§ 7 a. Ministeren kan fastsætte regler, der er nødvendige for anvendelsen her i landet af EU-forordninger vedrørende de af denne lov omfattede stoffer, blandinger og varer, herunder om, hvilke myndigheder der skal administrere forordningerne.

@@ -1,1 +1,1 @@
-§ 22 a. Ministeren kan fastsætte regler om, at et kemisk stof eller produkt ved salg skal være ledsaget af et oplysningsblad med indholdsdeklarationer, risikoangivelser, sikkerhedsforskrifter og lignende.
+§ 22 a. Ministeren kan fastsætte regler om, at et stof eller en blanding ved salg skal være ledsaget af et oplysningsblad med indholdsdeklarationer, risikoangivelser, sikkerhedsforskrifter og lignende.
