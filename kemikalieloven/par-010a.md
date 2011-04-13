@@ -2,7 +2,7 @@
 
 ## Kapitel 2 a
 
-## (Ophævet)
+(Ophævet)
 
 ## Kapitel 3
 
