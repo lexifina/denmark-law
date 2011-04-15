@@ -1,0 +1,7 @@
+§ 10 b. Nedsættelsen af tilbagebetaling af afgift efter § 10 a finder ikke anvendelse for forbrug vedrørende rumopvarmning og varmt vand i staldbygninger, forbrug omfattet af tilbagebetaling efter § 10, stk. 3 og stk. 5, nr. 3, 2.-4. pkt., og andet forbrug, når det udelukkende vedrører afgiftspligtig virksomhed efter merværdiafgiftsloven med jordbrug, husdyrbrug, gartneri, frugtavl, skovbrug, fiskeri, dambrug eller pelsdyravl. For dette forbrug nedsættes tilbagebetalingen af afgift efter § 10 med 1,8 pct., jf. dog § 10 c.
+
+Stk. 2. En forholdsmæssig del af afgiften kan henregnes under stk. 1 i de tilfælde, hvor samme anlæg forsyner såvel anvendelser omfattet af stk. 1 som andre anvendelser i virksomheden, når en sådan fordeling kan opgøres. § 10, stk. 5, nr. 4, finder tilsvarende anvendelse.
+
+Stk. 3. For nyttiggjort overskudsvarme fra varme og varer, for hvilke stk. 1 finder anvendelse, nedsættes den samlede tilbagebetaling af afgift efter § 10, stk. 9, 1. pkt., alene med 62,7 kr. pr. GJ varme. I perioden 2010-2014 er satsen som nævnt i bilag 7. Satsen reguleres efter § 32 a i lov om energiafgift af mineralolieprodukter m.v.
+
+Stk. 4. For nyttiggjort overskudsvarme vedrørende eget kraft-varme-anlæg fra varme og varer, for hvilke stk. 1 finder anvendelse, nedsættes den samlede tilbagebetaling af afgift efter § 10, stk. 9, 2. pkt., alene med 50,1 kr. pr. GJ varme. I perioden 2010-2014 er satsen som nævnt i bilag 7. Satsen reguleres efter § 32 a i lov om energiafgift af mineralolieprodukter m.v.
