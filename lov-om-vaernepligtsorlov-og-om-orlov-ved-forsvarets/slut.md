@@ -1,7 +1,5 @@
-Arbejdsministeriet, den 20. november 2001
+Beskæftigelsesministeriet, den 3. marts 2011
 
-Ove Hygum
+Inger Støjberg
 
-/E. Edelberg
-
-Lov nr. 444 af 7. juni 2001 blev bekendtgjort i Lovtidende 8. juni 2001.
+/ Lise Fangel
