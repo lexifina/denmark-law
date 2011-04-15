@@ -1,7 +1,3 @@
-Bekendtgørelse af lov om værnepligtsorlov og om orlov til FN-tjeneste mv.
+Bekendtgørelse af lov om værnepligtsorlov og om orlov ved forsvarets udsendelse af lønmodtagere til udlandet
 
-Herved bekendtgøres lov om værnepligtsorlov jf. lovbekendtgørelse nr. 981 af 14. december 1993 med de ændringer, der følger af lov nr. 444 af 7. juni 2001.
-
-## Kapitel 1
-
-Lovens formål og område
+Herved bekendtgøres lov om værnepligtsorlov og om orlov ved forsvarets udsendelse af lønmodtagere til udlandet jf. lovbekendtgørelse nr. 982 af 20. november 2001 med de ændringer, der følger af § 1 i lov nr. 1264 af 16. december 2009.
