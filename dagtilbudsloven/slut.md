@@ -1,7 +1,5 @@
-Givet på Christiansborg Slot, den 6. juni 2007
+Socialministeriet, den 11. april 2011
 
-Under Vor Kongelige Hånd og Segl
+P.M.V. Jesper Fisker
 
-Margrethe R.
-
-/Carina Christensen
+/ Dorte Bech Vizard
