@@ -1,7 +1,5 @@
-Givet på Christiansborg Slot, den 12. juni 2009
+Økonomi- og Erhvervsministeriet, den 11. april 2011
 
-Under Vor Kongelige Hånd og Segl
+Brian Mikkelsen
 
-MARGRETHE R.
-
-/ Lene Espersen
+/ Betina Hagerup
