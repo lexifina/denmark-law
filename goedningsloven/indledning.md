@@ -1,3 +1,3 @@
 Bekendtgørelse af lov om gødning og jordforbedringsmidler m.v.
 
-Herved bekendtgøres lov nr. 318 af 31. marts 2007 om gødning og jordforbedringsmidler m.v., med de ændringer, der følger af § 51 i lov nr. 1336 af 19. december 2008.
+Herved bekendtgøres gødning og jordforbedringsmidler m.v., jf. lovbekendtgørelse nr. 194 af 12. marts 2009, med de ændringer, der følger af § 8 i lov nr. 341 af 27. april 2011.
