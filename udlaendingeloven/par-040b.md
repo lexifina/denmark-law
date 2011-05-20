@@ -1,4 +1,4 @@
-§ 40 b. Der kan optages personfotografi af en udlænding, der søger om opholdstilladelse efter § 7.
+§ 40 b. Der optages personfotografi af en udlænding, som søger om opholdstilladelse efter § 7 eller om forlængelse af en opholdstilladelse, der er meddelt efter § 7 eller § 8, jf. dog stk. 11.
 
 Stk. 2. Der kan endvidere optages personfotografi af en udlænding,
 
@@ -23,3 +23,7 @@ Stk. 8. Personfotografi, der modtages som led i en international efterlysning, k
 Stk. 9. Politiet og Udlændingeservice kan uden udlændingens samtykke elektronisk eller manuelt videregive personfotografi, der i medfør af stk. 3 og 4 er registreret i det i stk. 3 nævnte register, til indenlandske og udenlandske udlændingemyndigheder i forbindelse med behandlingen af udlændingesager. Politiet kan endvidere med henblik på identifikation af udlændingen eller med henblik på udstedelse af eller fremskaffelse af rejsedokument videregive personfotografi, der i medfør af stk. 3 og 4 er registreret i det i stk. 3 nævnte register, til hjemlandets eller et andet lands repræsentation eller til internationale politisamarbejdsorganisationer.
 
 Stk. 10. Optagelse af personfotografi skal ske så skånsomt, som omstændighederne tillader det. Indgrebet kan om nødvendigt ske med den fornødne magtanvendelse.
+
+Stk. 11. Hvis udlændingen er under 18 år, optages der alene personfotografi efter stk. 1 til eventuel brug for udstedelse af et opholdskort, hvis ansøgeren er uledsaget.
+
+Stk. 12. Stk. 3-9 finder ikke anvendelse, hvis personfotografi optages efter stk. 1 til eventuel brug for udstedelse af et opholdskort.
