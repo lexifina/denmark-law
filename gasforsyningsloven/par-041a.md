@@ -2,4 +2,10 @@
 
 ## Energitilsynet
 
-§ 41 a. Transport- og energiministeren kan fastsætte nærmere regler for, hvilke opgaver Energitilsynet skal varetage. Transport- og energiministeren kan herunder fastsætte regler om Energitilsynets opgaver ved behandling af forhold vedrørende priser og betingelser, som omfattes af Europa-Parlamentets og Rådets forordning om betingelserne for adgang til naturgastransmissionsnet.
+§ 41 a. Klima-, energi- og bygningsministeren fastsætter nærmere regler for, hvilke opgaver Energitilsynet skal varetage, herunder
+
+1) overvågningsopgaver for at sikre velfungerende konkurrencebaserede gasmarkeder og
+
+2) opgaver vedrørende samarbejdet med andre landes energireguleringsmyndigheder, herunder på regionalt plan og EU-plan.
+
+Stk. 2. Klima-, energi- og bygningsministeren fastsætter regler om Energitilsynets opgaver efter Europa-Parlamentets og Rådets forordning om betingelserne for adgang til naturgastransmissionsnet.
