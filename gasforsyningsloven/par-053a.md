@@ -1,0 +1,1 @@
+§ 53 a. Udgifterne, som er forbundet med etablering og drift af et privat ankenævn på energiområdet, der er godkendt i medfør af kapitel 2 i lov om forbrugerklager, betales af selskaber omfattet af el-, naturgas- og varmeforsyningslovene. Klima-, energi- og bygningsministeren kan fastsætte regler om betaling og opkrævning.

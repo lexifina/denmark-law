@@ -1,1 +1,1 @@
-§ 10 a. Transmissions-, distributions-, lager- og LNG-selskaber vedligeholder og om- og udbygger naturgasforsyningsnettet, lagre og LNG-faciliteter i forsyningsområdet i fornødent omfang. Transport- og energiministeren kan fastsætte nærmere regler herom.
+§ 10 a. Transmissions-, distributions-, lager- og LNG-selskaber vedligeholder og om- og udbygger naturgasforsyningsnettet, lagre og LNG-faciliteter i forsyningsområdet i fornødent omfang. Klima-, energi- og bygningsministeren kan fastsætte nærmere regler herom.

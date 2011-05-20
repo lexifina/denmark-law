@@ -1,5 +1,5 @@
-§ 20 a. Priser og betingelser for benyttelse af lagre efter § 18, herunder andre hjælpefunktioner, der udbydes af lagerselskabet, fastsættes ved forhandling mellem lagerselskabet og den, der ansøger om brug af lageret. Lagerselskaber skal offentliggøre de kommercielle hovedvilkår for benyttelse af lagre efter § 18 senest en måned efter lovens ikrafttræden og herefter en gang om året.
+§ 20 a. Adgang til lagerfaciliteter, linepack og andre hjælpefunktioner udbydes af lager- og transmissionsselskaber ved forhandlet adgang, herunder ved auktion, baseret på objektive, gennemsigtige og ikkediskriminerende kriterier. Bestemmelsen omfatter alle lagerfaciliteter i Danmark og al linepack og andre hjælpefunktioner i transmissionsnettet.
 
-Stk. 2. Lagerselskaber skal hurtigst muligt indlede forhandlinger med ansøgere om benyttelse af lagre efter § 18.
+Stk. 2. Lager- og transmissionsselskaber offentliggør en gang om året deres kommercielle hovedvilkår for adgang til lagerfaciliteter, linepack og andre hjælpefunktioner. Inden fastsættelse af vilkårene høres lager- og transmissionsselskabernes brugere herom.
 
-Stk. 3. Transport- og energiministeren fastsætter regler om bilæggelse af tvister i forbindelse med forhandlinger om adgang til lagre efter § 18.
+Stk. 3. Energitilsynet fører tilsyn med, at udbudsprocedurer og hovedvilkår for adgang til lagerfaciliteter, linepack og andre hjælpefunktioner er baseret på objektive, gennemsigtige og ikkediskriminerende kriterier.
