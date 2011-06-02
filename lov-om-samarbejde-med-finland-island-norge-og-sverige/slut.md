@@ -1,9 +1,5 @@
-Givet på Amalienborg, den 31. maj 1963.
+Justitsministeriet, den 25. maj 2011
 
-Under Vor Kongelige Hånd og Segl.
+Lars Barfoed
 
-FREDERIK R.
-
-/Hans Hækkerup.
-
-Ingen
+/ Anette Arnsted
