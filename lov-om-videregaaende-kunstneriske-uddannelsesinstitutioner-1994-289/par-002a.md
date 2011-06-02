@@ -1,0 +1,1 @@
+§ 2 a. Arkitektskolen Aarhus har som højere uddannelsesinstitution til opgave på kunstnerisk og videnskabeligt grundlag at give uddannelse i arkitektur indtil det højeste niveau samt at udøve kunstnerisk udviklingsvirksomhed og på videnskabeligt grundlag at drive forskning inden for arkitektur.
