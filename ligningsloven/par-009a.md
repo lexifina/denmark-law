@@ -14,7 +14,7 @@ Stk. 3. Satserne i stk. 2, nr. 1-3, udbetales pr. døgn, og derefter kan der udb
 
 Stk. 4. Såfremt arbejdsgiveren afholder lønmodtagerens udgifter omfattet af stk. 1 efter regning, kan arbejdsgiveren til dækning af udgifter til småfornødenheder udbetale et skattefrit beløb på indtil 25 pct. af satsen i stk. 2, nr. 1, beregnet for den samlede rejse.
 
-Stk. 5. Stk. 1-4 finder kun anvendelse, når rejsen varer mindst 24 timer. Det enkelte arbejdssted, jf. stk. 1, kan ved anvendelsen af standardsatserne i stk. 2, nr. 1-3, og stk. 4 højst anses for midlertidigt i de første 12 måneder. 2. pkt. finder ikke anvendelse, når arbejdsstedet er mobilt eller i takt med arbejdets udførelse eller færdiggørelse flytter sig over en strækning på mindst 8 km.
+Stk. 5. Stk. 1-4 finder kun anvendelse, når rejsen varer mindst 24 timer. Det enkelte arbejdssted, jf. stk. 1, kan ved anvendelsen af standardsatserne i stk. 2, nr. 1-3, og stk. 4 højst anses for midlertidigt i de første 12 måneder. 2. pkt. finder ikke anvendelse, når arbejdsstedet er mobilt eller i takt med arbejdets udførelse eller færdiggørelse flytter sig over en strækning på mindst 8 km. 2. pkt. finder endvidere ikke anvendelse i forhold til godtgørelser, der udbetales i forbindelse med enkeltstående kortvarige tjenesterejser til samme midlertidige arbejdssted.
 
 Stk. 6. En ny 12-måneders-periode påbegyndes, når lønmodtageren skifter til et nyt midlertidigt arbejdssted, der ligger mindst 8 km ad normal transportvej fra det tidligere arbejdssted, eller når lønmodtageren har arbejdet i en sammenhængende periode på mindst 40 arbejdsdage på et andet arbejdssted før tilbagevenden til det tidligere midlertidige arbejdssted.
 
@@ -22,7 +22,7 @@ Stk. 7. Rejseudgifter, jf. stk. 1, kan fradrages ved indkomstopgørelsen enten m
 
 Stk. 8. Selvstændigt erhvervsdrivende, der på grund af afstanden mellem bopæl og et midlertidigt arbejdssted ikke har mulighed for at overnatte på deres sædvanlige bopæl, kan vælge at foretage fradrag med de i stk. 2 og 3 fastsatte satser i stedet for de faktiske udgifter. Fradrag med satserne i stk. 2 og 3 kan dog ikke overstige et grundbeløb på 50.000 kr. (2010-niveau) i et indkomstår.
 
-Stk. 9. Stk. 1-6 finder tilsvarende anvendelse på rejsegodtgørelser, der udbetales til medlemmer af eller medhjælpere for bestyrelser, udvalg, kommissioner, råd og lign., hvad enten de er ulønnede eller aflønnes med et vederlag, der er A-indkomst, jf. kildeskattelovens § 43, stk. 2, litra a. Stk. 7 finder tilsvarende anvendelse for medlemmer af eller medhjælpere for bestyrelser, udvalg, kommissioner, råd og lign., der modtager vederlag herfor, der er A-indkomst, jf. kildeskattelovens § 43, stk. 2, litra a.
+Stk. 9. Stk. 1-6 finder tilsvarende anvendelse på rejsegodtgørelser, der udbetales til medlemmer af eller medhjælpere for bestyrelser, udvalg, kommissioner, råd og lign. , hvad enten de er ulønnede eller aflønnes med et vederlag, der er A-indkomst, jf. kildeskattelovens § 43, stk. 2, litra a. Stk. 7 finder tilsvarende anvendelse for medlemmer af eller medhjælpere for bestyrelser, udvalg, kommissioner, råd og lign. , der modtager vederlag herfor, der er A-indkomst, jf. kildeskattelovens § 43, stk. 2, litra a.
 
 Stk. 10. Stk. 7 finder tilsvarende anvendelse for modtagere af tilskudsbevillinger til forskning, som er A-indkomst. Det er en betingelse, at den skattepligtige på grund af afstanden mellem bopæl og det sted, hvor den pågældende midlertidigt udfører et forskningsprojekt, ikke har mulighed for at overnatte på sin sædvanlige bopæl.
 
