@@ -1,0 +1,1 @@
+§ 8 T. Ved opgørelsen af den skattepligtige indkomst gives der ikke fradrag for udgifter til cigaretter, røgtobak, cigarer, cerutter, cigarillos, cigaretpapir, skrå eller snus, der er ydet som led i et ansættelsesforhold, eller som er afholdt til repræsentation eller reklame. 1. pkt. omfatter ikke vareprøver udleveret af registrerede tobaksvirksomheder til detailhandelen.
