@@ -1,0 +1,1 @@
+§ 33 a. Medlemmerne af det europæiske samarbejdsudvalg skal underrette lønmodtagerrepræsentanterne på virksomhedsniveau i en fællesskabskoncern eller, i mangel af repræsentanter, samtlige lønmodtagere om indholdet og resultatet af informations- og høringsproceduren.

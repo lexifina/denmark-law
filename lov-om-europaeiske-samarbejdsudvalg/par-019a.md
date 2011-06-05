@@ -1,0 +1,1 @@
+§ 19 a. Den praktiske tilrettelæggelse af information og høring af lønmodtagerne gennemføres på en sådan måde, at effektiviteten i proceduren sikres, og at virksomheden eller koncernen får mulighed for effektiv beslutningstagning.
