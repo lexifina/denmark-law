@@ -1,0 +1,3 @@
+§ 8 U. Studerende, som fra og med indkomståret 2011 bliver berettiget til et særligt fradrag for gæstestuderende i Danmark i medfør af dobbeltbeskatningsaftale indgået mellem Danmark og Færøerne eller Grønland, kan ved indkomstopgørelsen som et rigsfællesskabsfradrag fratrække et beløb på 36.000 kr., jf. dog stk. 2. Fradrag efter 1. pkt. gives ud over fradrag i medfør af dobbeltbeskatningsaftalen og kan ikke vælges i stedet for dette.
+
+Stk. 2. Fradrag efter stk. 1 gives i den periode, hvor betingelserne for fradrag til gæstestuderende efter de nævnte dobbeltbeskatningsaftaler er opfyldt, og med de begrænsninger, som følger af dobbeltbeskatningsaftalerne. Er betingelserne kun opfyldt i en del af et indkomstår, gives fradraget forholdsmæssigt.
