@@ -1,7 +1,5 @@
-Givet på Christiansborg Slot, den 19. april 2006
+Skatteministeriet, den 7. juni 2011
 
-Under Vor Kongelige Hånd og Segl
+P.M.V. Peter Loft
 
-MARGRETHE R.
-
-/Kristian Jensen
+/ Lene Skov Henningsen
