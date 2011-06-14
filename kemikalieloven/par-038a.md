@@ -1,1 +1,1 @@
-§ 38 a. Med henblik på at nedsætte det samlede forbrug af godkendelsespligtige stoffer og produkter kan ministeren fastsætte regler om begrænsning i eller forbud mod anvendelse af sådanne stoffer og produkter på bestemte arealer.
+§ 38 a. Miljøministeren kan med henblik på at nedsætte den samlede belastning af bekæmpelsesmidler, herunder belastningen af sundhed, miljø og natur, fastsætte regler om begrænsning i eller forbud mod anvendelse af bekæmpelsesmidler på bestemte arealer, dog ikke arealer til jordbrugsmæssige formål.
