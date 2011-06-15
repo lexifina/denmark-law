@@ -1,1 +1,1 @@
-§ 2a. Henlægger økonomi- og erhvervsministeren sine beføjelser efter loven til Erhvervs- og Boligstyrelsen, kan ministeren fastsætte regler om klageadgangen, herunder at klager ikke kan indbringes for højere administrativ myndighed.
+§ 2a. Henlægger økonomi- og erhvervsministeren sine beføjelser efter loven til Erhvervs- og Byggestyrelsen, kan ministeren fastsætte regler om klageadgangen, herunder at klager ikke kan indbringes for højere administrativ myndighed.
