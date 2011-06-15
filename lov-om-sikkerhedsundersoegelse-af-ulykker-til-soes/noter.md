@@ -1,0 +1,1 @@
+1) Loven indeholder bestemmelser, der gennemfører Europa-Parlamentets og Rådets direktiv 2009/18/EF af 23. april 2009 om de grundlæggende principper for undersøgelser af ulykker i søtransportsektoren og om ændring af Rådets direktiv 1999/35/EF og Europa-Parlamentets og Rådets direktiv 2000/59/EF, EU-Tidende 2009, nr. L 131, side 114-127.
