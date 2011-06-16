@@ -1,0 +1,5 @@
+§ 14 a. Indenrigs- og sundhedsministeren fastsætter regler om opgørelse og betaling af kommunal aktivitetsbestemt medfinansiering i medfør af §§ 13 og 14.
+
+Stk. 2. Indenrigs- og sundhedsministeren fastsætter regler om en øvre grænse for regionernes indtægter fra kommunal aktivitetsbestemt medfinansiering, jf. §§ 13 og 14, under hensyntagen til regionernes aktivitet. Hvis kommunernes betaling til en region efter §§ 13 og 14 overstiger den øvre grænse for den pågældende regions indtægter fra kommunal aktivitetsbestemt medfinansiering, tilfalder det overskydende beløb staten, jf. dog stk. 3.
+
+Stk. 3. Indenrigs- og sundhedsministeren fastsætter regler om tilbageførsel til kommunerne af midler, som i et regnskabsår er tilfaldet staten efter bestemmelserne i stk. 2, og som kan tilskrives en produktivitet, der er højere end et af indenrigs- og sundhedsministeren forudsat niveau for det pågældende år i en eller flere regioner. Beregningen af merproduktivitet foretages af Indenrigs- og Sundhedsministeriet i året efter regnskabsåret.
