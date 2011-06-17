@@ -1,7 +1,5 @@
-Givet på Amalienborg, den 24. juni 2005
+Energistyrelsen, den 16. juni 2011
 
-Under Vor Kongelige Hånd og Segl
+Ib Larsen
 
-Margrethe R.
-
-/Flemming Hansen
+/ Mette Odgaard Mylin
