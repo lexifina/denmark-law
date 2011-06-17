@@ -1,5 +1,5 @@
-Beskæftigelsesministeriet, den 28. juni 2006
+Beskæftigelsesministeriet, den 8. juni 2011
 
-Claus Hjort Frederiksen
+Inger Støjberg
 
-/E. Edelberg
+/ Lise Fangel
