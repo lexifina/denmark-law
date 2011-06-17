@@ -67,3 +67,9 @@ Lov nr. 566 af 9. juni 2006, som ophæver lovens § 7, § 7 a og § 10 samt ænd
 § 55
 
 Loven træder i kraft den 3. juli 2006.
+
+Lov nr. 182 af 8. marts 2011, som ændrer fodnoten til lovens titel og indsætter § 18, indeholder følgendede ikrafttrædelsesbestemmelse:
+
+§ 4
+
+Loven træder i kraft den 15. marts 2011.
