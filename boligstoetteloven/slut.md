@@ -1,5 +1,5 @@
-Velfærdsministeriet, den 1. oktober 2008
+Beskæftigelsesministeriet, den 14. juni 2011
 
-P.M.V. Christian Schønau
+Inger Støjberg
 
-/ Eva Pedersen
+/ Bent Nielsen
