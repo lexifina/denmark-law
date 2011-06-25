@@ -119,3 +119,45 @@ Lov nr. 1336 af 19. december 2008 om Lønmodtagernes Garantifond, der indeholder
 Stk. 1. Loven træder i kraft den 1. januar 2009, jf. dog stk. 2. § 11 finder alene anvendelse på afgørelser om lønindeholdelse, der træffes efter lovens ikrafttræden.
 
 Stk. 2. ---.
+
+Lov nr. 1509 af 27. december 2009 om ændring af lov om Lønmodtagernes Garantifond, som ændrer lovens § 3 og § 7, indeholder følgende ikrafttrædelsesbestemmelser:
+
+§ 2
+
+Loven træder i kraft den 1. januar 2010 og har virkning for tilfælde, hvor fristdagen eller det tidspunkt, der efter fondens bestemmelse træder i stedet for fristdagen, ligger efter lovens ikrafttræden.
+
+§ 3
+
+Loven gælder ikke for Færøerne og Grønland, men kan ved kongelig anordning sættes i kraft for Grønland med de afvigelser, som de grønlandske forhold tilsiger.
+
+Lov nr. 718 af 25. juni 2010 om ændring af konkursloven og forskellige andre love (Rekonstruktion m.v.), som ændrer lovens § 1, § 2 og § 3, indeholder følgende ikrafttrædelsesbestemmelser:
+
+§ 55
+
+Stk. 1. Justitsministeren fastsætter tidspunktet for lovens ikrafttræden.
+
+Stk. 2. En anmeldelse af betalingsstandsning eller udsættelse af afgørelsen om konkurs i medfør af konkurslovens § 24 inden lovens ikrafttræden bevarer sine virkninger efter lovens ikrafttræden. Uanset 1. pkt. kan en betalingsstandsning eller en udsættelse af afgørelsen om konkurs ikke forlænges efter lovens ikrafttræden.
+
+Stk. 3. --- .
+
+Stk. 4. --- .
+
+Stk. 5. Ophører en betalingsstandsning, regnes dagen for anmeldelsen dog som fristdag, hvis skifteretten inden 3 uger efter ophøret modtager begæring om rekonstruktionsbehandling, konkurs eller gældssanering. Fører en begæring om akkordforhandling ikke til stadfæstelse af tvangsakkord, regnes dagen for begæringens modtagelse dog som fristdag, hvis skifteretten, inden 3 uger efter at begæringen om akkordforhandling blev tilbagekaldt eller forkastet eller akkordforhandling ophørte, modtager begæring om rekonstruktionsbehandling, konkurs eller gældssanering.
+
+Stk. 6. --- .
+
+Stk. 7. --- .
+
+Stk. 8. Afbrydelse af forældelse kan ske efter de hidtil gældende bestemmelser i forældelseslovens §§ 17 og 20, hvis begæring om åbning af tvangsakkordforhandling er indgivet inden lovens ikrafttræden.
+
+Stk. 9. --- .
+
+Stk. 10. --- .
+
+§ 56
+
+Stk. 1. Loven gælder ikke for Færøerne og Grønland.
+
+Stk. 2. --- .
+
+Stk. 3. Lovens §§ 6-10, 14, 15, 18, 20, 21, 24, 25, 27, 28, 31, 33 og 54 kan ved kongelig anordning helt eller delvis sættes i kraft for Grønland med de afvigelser, som de grønlandske forhold tilsiger.
