@@ -1,5 +1,3 @@
-Kulturministeriet, den 29. august 2007
+Kulturministeriet, den 9. juni 2011
 
-Brian Mikkelsen
-
-/ Jane Johansen Pade
+Per Stig Møller
