@@ -1,0 +1,1 @@
+§ 40 a. Ministeren for videnskab, teknologi og udvikling kan efter forhandling med undervisningsministeren og finansministeren godkende sammenlægning af Ingeniørhøjskolen i Århus med Aarhus Universitet.
