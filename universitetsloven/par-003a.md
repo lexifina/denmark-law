@@ -1,0 +1,13 @@
+§ 3 a. Universitetet kan i samarbejde med et eller flere udenlandske universiteter udbyde hele eller dele af uddannelser efter § 3 i udlandet. Uddannelsernes enkelte dele gennemføres ved universitetet og ved et eller flere af de udenlandske universiteter. Delene, der gennemføres ved de udenlandske universiteter, kan være valgfrie eller obligatoriske. Gennemføres hele uddannelsen i udlandet, kan universitetet lade det udenlandske universitet udbyde uddannelsen, hvis det sker i samarbejde med det danske universitet.
+
+Stk. 2. Universitetet kan i samarbejde med udenlandske universiteter udbyde uddannelser efter § 4, stk. 1, nr. 2, som led i EU-studieprogrammer om Erasmus Mundus, hvor uddannelsens enkelte dele gennemføres ved universitetet og ved et eller flere af de udenlandske universiteter efter aftale mellem de pågældende universiteter (Erasmus Mundus-kandidatuddannelser).
+
+Stk. 3. Universitetet skal sørge for, at dets uddannelser efter stk. 1 og 2 bliver kvalitetssikret. Uddannelserne skal enten kvalitetssikres i Danmark efter reglerne i lov om Akkrediteringsinstitutionen for videregående uddannelser eller i udlandet efter udenlandske kvalitetssikringssystemer. Det er dog et krav, at den kvalitetssikringsinstitution, der vælges, er optaget i European Quality Assurance Register for Higher Education (EQAR) eller på anden måde anses for at være internationalt anerkendt. Vælges en udenlandsk kvalitetssikring, foretages den efterfølgende godkendelse af uddannelsen af ministeren for videnskab, teknologi og udvikling.
+
+Stk. 4. Der er ikke krav om særskilt kvalitetssikring i de tilfælde, hvor de dele, der gennemføres ved det udenlandske universitet, er valgfrie eller allerede er akkrediterede som en del af den danske uddannelse.
+
+Stk. 5. Studerende, der er optaget ved det danske universitet, er i perioden, hvor de er indskrevet på et udenlandsk universitet, omfattet af reglerne for det udenlandske universitet og ikke af denne lov. Studerende, der er optaget ved et udenlandsk universitet, er i den periode, hvor de er indskrevet ved det danske universitet, omfattet af denne lov.
+
+Stk. 6. Universitetet kan udstede dansk eksamensbevis til studerende, som i udlandet har gennemført en uddannelse efter stk. 1 eller 2. Universitetet kan udstede eksamensbevis til studerende, der har gennemført dele af deres uddannelse ved universitetet uden at have været optaget på det pågældende universitet, jf. stk. 1 og 2.
+
+Stk. 7. Ministeren fastsætter regler om udbud og gennemførelse af uddannelser efter stk. 1-6, herunder om udstedelse af eksamensbevis. Ministeren kan i den forbindelse fravige lovens bestemmelser om uddannelse og studienævn
