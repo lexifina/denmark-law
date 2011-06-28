@@ -10,7 +10,7 @@ Lov nr. 337 af 18. maj 2005 indeholder følgende ikrafttrædelsesbestemmelse:
 
 Stk. 1. Loven træder i kraft den 1. juni 2005.
 
-Stk. 2-5. (Udelades).
+Stk. 2-5. (Udelades)
 
 Lov nr. 544 af 8. juni 2006 indeholder følgende ikrafttrædelsesbestemmelse:
 
@@ -59,3 +59,15 @@ Stk. 1. Loven træder i kraft den 1. juli 2010.
 Stk. 2. § 3, stk. 7, i lov om universiteter som affattet ved denne lovs § 1, nr. 1, finder tillige anvendelse for de uddannelser, der er ansøgt om godkendelse af ved Europa-Kommissionen inden den 1. juli 2010, og som godkendes eller fortsat udbydes som led i EU-studieprogrammer om Erasmus Mundus.
 
 Stk. 3. Institutioner, virksomheder el.lign., der ved lovens ikrafttræden anvender en betegnelse i strid med § 33 a i lov om universiteter som affattet ved denne lovs § 1, nr. 5, skal senest 5 år efter dette tidspunkt ophøre med at anvende betegnelsen.
+
+Lov nr. 634 af 14. juni 2011 indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 4
+
+Stk. 1. Loven træder i kraft den 1. juli 2011, jf. dog stk. 2 og 3.
+
+Stk. 2. § 1, stk. 2, § 19, stk. 5, og § 28 i universitetsloven som affattet ved denne lovs § 1, nr. 1, 39 og 46, træder i kraft den 1. januar 2012.
+
+Stk. 3. Ministeren for videnskab, teknologi og udvikling fastsætter tidspunktet for ikrafttrædelsen af universitetslovens § 3, stk. 1, 1. og 3. pkt., § 3 a, § 19, stk. 2-4 og 11, § 20, stk. 3, 2. pkt., § 21, stk. 4, 1. pkt., og § 26, stk. 2 og stk. 4, 3. pkt., som affattet henholdsvis ændret ved denne lovs § 1, nr. 3-6, 38, 39 og 41-45.
+
+Stk. 4. Universitetets ændrede vedtægt skal være afleveret til ministerens godkendelse senest den 1. marts 2012.
