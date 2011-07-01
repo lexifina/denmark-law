@@ -1,0 +1,1 @@
+§ 70 b. I dødsboer, der behandles efter reglerne om insolvente boer, udleveres indbo og personlige effekter af beskeden værdi til arvingerne. Bobestyreren kan betinge udleveringen af, at arvingerne ryddeliggør afdødes bolig.
