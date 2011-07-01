@@ -1,4 +1,4 @@
-§ 63 c. Skibe kan i sager om udledning til luften, herunder fare for udledning til luften, i strid med loven eller forskrifter fastsat i medfør af loven tilbageholdes af politiet, miljøministeren eller den, som miljøministeren bemyndiger dertil.
+§ 63 c. Skibe kan i sager om brug af ikke funktionsdygtigt anlæg til behandling af ballastvand eller udtømning af ballastvand, herunder fare for udtømning, og om udledning til luften, herunder fare for udledning til luften, i strid med loven eller forskrifter fastsat i medfør af loven tilbageholdes af politiet, miljøministeren eller den, som miljøministeren bemyndiger dertil.
 
 Stk. 2. Tilbageholdelse kan ske, hvis det er nødvendigt for at sikre et krav på betaling af bøde, sagsomkostninger eller konfiskation, herunder værdikonfiskation, dog kun indtil de nævnte beløb er betalt eller der er stillet sikkerhed herfor. Sker dette ikke inden for 2 måneder efter sagens endelige afgørelse, kan der søges fyldestgørelse i skibet. Tilbageholdelse kan dog ikke ske, hvis den, der havde rådighed over skibet, da udledningen fandt sted, var uberettiget i besiddelse af skibet.
 
