@@ -8,7 +8,7 @@ Stk. 4. Henstandsbeløbet forrentes med en årlig rente på 6 pct. Renten beregn
 
 Stk. 5. Henstandsbeløbet forfalder til betaling ved den skattepligtiges død, jf. dog stk. 6, samt ved afhændelse af ejendommen. Det samme gælder, hvis ejendommen ikke længere benyttes som bolig for den skattepligtige eller dennes husstand. Såfremt den skattepligtige afhænder sin ejerbolig og erhverver en ny, jf. stk. 3, kan henstandsordningen vedrørende en tidligere ejerbolig dog forlænges, indtil den nyerhvervede bolig afhændes eller ikke længere benyttes som bolig for den skattepligtige eller dennes husstand.
 
-Stk. 6. Henstandsordningen efter de i stk. 1-5 nævnte regler kan videreføres af en efterlevende ægtefælle efter en skattepligtig som omhandlet i kildeskattelovens § 89 A, stk. 1, jf. lovbekendtgørelse nr. 678 af 12. august 2002.
+Stk. 6. Henstandsordningen efter de i stk. 1-5 nævnte regler kan videreføres af en længstlevende ægtefælle efter en skattepligtig som omhandlet i kildeskattelovens § 89 A, stk. 1, jf. lovbekendtgørelse nr. 678 af 12. august 2002.
 
 Stk. 7. Henstand med formueskatten efter stk. 1-4 kan endvidere begæres af ejere af en fast ejendom, der er undergivet fredning i henhold til bygningsfredningsloven. Det er dog en betingelse, at den pågældende ejendom helt eller delvis benyttes til bolig for ejeren, jf. stk. 3. Henstandsbeløbet forfalder til betaling ved den skattepligtiges død, jf. dog stk. 6, samt ved afhændelse af ejendommen, såfremt den skattepligtige ikke på salgstidspunktet opfylder betingelsen for at opnå henstand efter stk. 1. Henstandsbeløbet forfalder ligeledes til betaling, såfremt ejendommen ikke længere benyttes som bolig for den skattepligtige eller dennes husstand.
 

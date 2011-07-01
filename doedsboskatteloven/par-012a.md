@@ -1,3 +1,3 @@
-§ 12 A. Uanset om § 12 finder anvendelse, anses afdødes krav på beløb efter § 1 i lov om skattefri kompensation for forhøjede energi- og miljøafgifter for endeligt afgjort med nedsættelsen af den foreløbige skat, jf. kildeskattelovens § 42, med et sådant beløb, der er erlagt før dødsfaldet.
+§ 12 a. Uanset om § 12 finder anvendelse, anses afdødes krav på beløb efter § 1 i lov om skattefri kompensation for forhøjede energi- og miljøafgifter for endeligt afgjort med nedsættelsen af den foreløbige skat, jf. kildeskattelovens § 42, med et sådant beløb, der er erlagt før dødsfaldet.
 
 Stk. 2. Uanset om § 12 finder anvendelse, anses betalingen af afdødes arbejdsmarkedsbidrag i dødsåret for endeligt afgjort med betalingen af de foreløbige arbejdsmarkedsbidrag, der er forfaldet før dødsfaldet efter kildeskattelovens § 50, eller som efter kildeskattelovens § 49 B eller § 49 D skulle indeholdes af indkomst, som afdøde havde optjent før dødsfaldet.

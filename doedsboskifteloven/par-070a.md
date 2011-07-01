@@ -1,0 +1,3 @@
+§ 70 a. Hvis omstændighederne undtagelsesvis taler for det, kan skifteretten efter anmodning fra en fordringshaver bestemme, at konkurslovens §§ 107-109, § 110, stk. 1-3, og §§ 112-117 om boets administration samt valg af og afsættelse af bostyre, § 118, § 123, stk. 1, og §§ 124-127 om skiftesamlinger samt kreditorinformation og tilsyn, § 144, § 150, stk. 2, § 152 og § 154, stk. 1, 2. pkt., om slutning og udlodning samt § 238 og § 239 om inhabilitet og vederlag tillige skal finde anvendelse med de nødvendige ændringer.
+
+Stk. 2. Træffer skifteretten afgørelse efter stk. 1, finder denne lovs §§ 40, 45, 49, 50, 52-55 og 57 ikke anvendelse.
