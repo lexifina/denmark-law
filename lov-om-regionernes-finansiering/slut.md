@@ -1,4 +1,4 @@
-Indenrigs- og Sundhedsministeriet, den 25. juni 2010
+Indenrigs- og Sundhedsministeriet, den 27. juni 2011
 
 Bertel Haarder
 
