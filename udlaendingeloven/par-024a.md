@@ -6,6 +6,8 @@
 
 3) den fare, skade eller krænkelse, der var forbundet med den begåede kriminalitet,
 
-4) tidligere domme for strafbart forhold, eller
+4) tidligere domme for strafbart forhold,
 
-5) at kriminaliteten er begået af flere i forening.
+5) at kriminaliteten er begået af flere i forening, eller
+
+6) at kriminaliteten er særligt planlagt eller led i omfattende kriminalitet.
