@@ -1,6 +1,6 @@
-§ 40 a. Når halvdelen af straffetiden, dog mindst 4 måneder, er udstået, kan justitsministeren eller den, ministeren bemyndiger dertil, ud over de i § 38, stk. 2, nævnte tilfælde beslutte, at den dømte skal løslades på prøve, hvis hensynet til retshåndhævelsen skønnes ikke at tale imod det, og
+§ 40 a. Når halvdelen af straffetiden, dog mindst 2 måneder, er udstået, kan justitsministeren eller den, ministeren bemyndiger dertil, ud over de i § 38, stk. 2, nævnte tilfælde beslutte, at den dømte skal løslades på prøve, hvis hensynet til retshåndhævelsen skønnes ikke at tale imod det, og
 
-1) den dømte har ydet en særlig indsats for ikke på ny at begå kriminalitet, herunder ved at deltage i behandlings- eller uddannelsesforløb, eller
+1) den dømte har ydet en særlig indsats for ikke på ny at begå kriminalitet, herunder ved at deltage i behandlingsforløb, uddannelsesforløb eller arbejdstræning, eller
 
 2) den dømtes forhold taler derfor.
 
