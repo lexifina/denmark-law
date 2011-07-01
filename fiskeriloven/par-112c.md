@@ -1,13 +1,9 @@
-## Kapitel 20 a
+§ 112 c. Ministeren for fødevarer, landbrug og fiskeri kan fastsætte regler om, at kommunikation i henhold til bestemmelser i Den Europæiske Unions forordninger om en EF-ordning, der skal forebygge, afværge og standse ulovligt, urapporteret og ureguleret fiskeri, skal foregå digitalt mellem ministeren og virksomhederne.
 
-## Foranstaltninger under ulykker og katastrofer, herunder krigshandlinger m.v.
+Stk. 2. Ministeren kan fastsætte regler om digital kommunikation, jf. stk. 1, herunder om anvendelse af bestemte it-systemer, særlige digitale formater, digitale signaturer el.lign.
 
-§ 112 c. Ministeren for fødevarer, landbrug og fiskeri kan under ulykker og katastrofer, herunder krigshandlinger og andre ekstraordinære forhold, fastsætte de regler og træffe de afgørelser, der er nødvendige for at sikre befolkningens forsyning med fisk og fiskeprodukter, herunder fastsætte nærmere regler for fiskeriets udøvelse og for afsætning af fangsterne. Ministeren kan herunder fastsætte regler og træffe bestemmelse om fravigelse af de i loven fastsatte regler.
+Stk. 3. Ministeren kan fastsætte regler om, at ministeren eller den, ministeren bemyndiger dertil, kan udstede afgørelser og andre dokumenter, jf. stk. 1, uden underskrift, med maskinelt eller på tilsvarende måde gengivet underskrift eller under anvendelse af en teknik, der sikrer entydig identifikation af den, som har udstedt eller attesteret afgørelsen eller dokumentet. Sådanne afgørelser og dokumenter sidestilles med afgørelser og dokumenter med personlig underskrift.
 
-Stk. 2. Udvalget for Erhvervsfiskeri, som er nedsat i medfør af § 6 og suppleret med 1 medlem udpeget af forsvarsministeren, rådgiver ministeren under forberedelsen af de i stk. 1 nævnte regler, afgørelser og bestemmelser.
+Stk. 4. Ministeren kan fastsætte regler om, at afgørelser og andre dokumenter, der udelukkende er truffet eller udstedt på grundlag af elektronisk databehandling, kan udstedes alene med angivelse af Ministeriet for Fødevarer, Landbrug og Fiskeri eller den, ministeren bemyndiger hertil, som afsender.
 
-Stk. 3. Inden der udstedes regler, træffes afgørelser eller bestemmelser efter stk. 1, skal der i videst muligt omfang forhandles med de berørte personer eller virksomheder eller med disses organisationer om omfanget og gennemførelsen af reglerne, afgørelserne eller bestemmelserne, herunder om eventuel erstatning fra staten, jf. stk. 4.
-
-Stk. 4. Medfører en regel, afgørelse eller bestemmelse udstedt efter stk. 1 økonomisk tab for en person eller virksomhed, er staten erstatningsansvarlig efter lovgivningens almindelige regler. Erstatning kan ikke kræves, hvis de omkostninger, der er forbundet med gennemførelse af reglen eller afgørelsen, kan dækkes ved indkalkulering i vedkommende vares eller tjenesteydelses pris. De pågældende personer eller virksomheder må ikke derved stilles mindre gunstigt end andre i samme branche.
-
-Stk. 5. Erstatning fastsættes i mangel af mindelig overenskomst i overensstemmelse med regler, der fastsættes af ministeren.
+Stk. 5. En digital meddelelse anses for at være kommet frem, når den er tilgængelig for adressaten for meddelelsen.
