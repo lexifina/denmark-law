@@ -1,7 +1,5 @@
-Givet på Amalienborg, den 24. juni 2005
+Ministeriet for Fødevarer, Landbrug og Fiskeri, den 1. juli 2011
 
-Under Vor Kongelige Hånd og Segl
+Henrik Høegh
 
-Margrethe R.
-
-/Lars Barfoed
+/ Susanne Rosbach
