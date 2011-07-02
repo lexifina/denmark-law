@@ -1,0 +1,1 @@
+§ 54 a. Ministeren for fødevarer, landbrug og fiskeri kan indhente de oplysninger hos andre offentlige myndigheder, der er nødvendige for at kontrollere, at fødevarelovgivningen overholdes, bl.a. med henblik på registersamkøring og sammenstilling af oplysninger i kontroløjemed, herunder oplysninger om skatteforhold.
