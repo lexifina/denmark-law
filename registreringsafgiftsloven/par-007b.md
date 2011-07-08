@@ -1,6 +1,6 @@
 ## Godtgørelse af afgift
 
-§ 7 b. Afgiften af et brugt motorkøretøj, der er afgiftsberigtiget efter §§ 4, 5, 5 a, 6, 6 a, 6 b, 29 eller 29 a, godtgøres, såfremt køretøjet afmeldes fra motorregisteret og udføres fra landet.
+§ 7 b. Afgiften af et brugt motorkøretøj, der er afgiftsberigtiget efter §§ 4, 5, 5 a, 6, 6 a, 6 b, 29 eller 29 a, godtgøres, såfremt køretøjet afmeldes fra Køretøjsregisteret og udføres fra landet.
 
 Stk. 2. Godtgørelsesbeløbet fastsættes i medfør af § 10 således:
 
@@ -34,6 +34,6 @@ Stk. 4. Der kan ikke godtgøres afgift for
 
 Stk. 5. Afgiftsgodtgørelsen efter stk. 2 kan ikke overstige den afgift, der oprindelig er betalt, fratrukket 15 pct., dog mindst 7.500 kr. for personbiler og 4.000 kr. for varebiler og motorcykler.
 
-Stk. 6. Ved fornyet tilmelding til motorregisteret af et køretøj, for hvilket der er godtgjort afgift, beregnes afgiftsbeløbet på samme måde som godtgørelsesbeløbet efter § 7 b, stk. 2, men uden nedslag i afgiftsbeløbet.
+Stk. 6. Ved fornyet tilmelding til Køretøjsregisteret af et køretøj, for hvilket der er godtgjort afgift, beregnes afgiftsbeløbet på samme måde som godtgørelsesbeløbet efter § 7 b, stk. 2, men uden nedslag i afgiftsbeløbet.
 
 Stk. 7. Skal der indhentes synsrapport efter § 7 c, stk. 1, hæves godtgørelsesbeløbet med 300 kr. (2010-niveau). Beløbet reguleres fra 2015 efter personskattelovens § 20.
