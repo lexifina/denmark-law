@@ -1,7 +1,5 @@
-Givet på Christiansborg Slot, den 6. juni 2002
+Transportministeriet, den 6. juli 2011
 
-Under Vor Kongelige Hånd og Segl
+Hans Christian Schmidt
 
-Margrethe R.
-
-/Flemming Hansen
+/ Michael Birch
