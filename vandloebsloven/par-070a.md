@@ -6,8 +6,8 @@
 
 3) bestemmelser om vandløb kan fastsættes efter §§ 15 og 36,
 
-4) vandløbsrestaurering kan vedtages efter §§ 37 og 37 a,
+4) vandløbsrestaurering kan vedtages efter § 37,
 
-5) offentlige pumpeanlæg kan oprettes efter § 39 og
+5) offentlige pumpeanlæg kan oprettes efter § 39, og
 
 6) flodemål for opstemningsanlæg kan fastsættes efter § 49.
