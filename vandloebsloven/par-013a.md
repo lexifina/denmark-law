@@ -1,0 +1,1 @@
+§ 13 a. I offentlige vandløb, for hvilke det af vandplaner efter miljømålsloven fremgår, at der skal ske en indsats, kan vandløbsmyndigheden først ændre vedligeholdelsen, når myndigheden har indhentet godkendelse hertil hos de statslige myndigheder.
