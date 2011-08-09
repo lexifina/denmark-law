@@ -1,5 +1,5 @@
-Ministeriet for Sundhed og Forebyggelse, den 17. december 2008
+Indenrigs- og Sundhedsministeriet, den 4. august 2011
 
-Jakob Axel Nielsen
+Bertel Haarder
 
-/ Mogens Jørgensen
+/ Anne Marie Karstoft Hertzum
