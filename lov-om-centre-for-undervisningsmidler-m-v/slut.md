@@ -1,5 +1,5 @@
-Undervisningsministeriet, den 11. december 2006
+Undervisningsministeriet, den 8. august 2011
 
-Bertel Haarder
+Troels Lund Poulsen
 
-/Ella Højbjerg Madsen
+/ Jacob Sten Jensen
