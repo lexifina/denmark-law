@@ -1,0 +1,31 @@
+Lov nr. 343 af 16. maj 2001, hvis § 45 indsatte § 33, stk. 2, trådte i kraft den 1. januar 2002.
+
+Lov nr. 297 af 30. april 2003, hvis § 6 ændrede § 6, stk. 1, trådte i kraft den 1. juli 2003.
+
+Lov nr. 401 af 28. maj 2003, hvis § 2 ændrede § 16, § 25, stk. 1, og § 25, stk. 2, 2. punktum, tilføjede § 25, stk. 3, og ændrede § 26, trådte i kraft den 1. juli 2003.
+
+Lov nr. 447 af 10. juni 2003, hvis § 3 overalt i loven ændrede »lov om åben uddannelse« til »lov om åben uddannelse (erhvervsrettet voksenuddannelse) m.v.« og ændrede § 24, stk. 1, trådte i kraft den 1. januar 2004.
+
+Lov nr. 593 af 24. juni 2005, hvis § 6 ændrede § 18, stk. 2, § 24, stk. 2, 1. punktum, og § 28, trådte i kraft den 1. januar 2007.
+
+Lov nr. 556 af 6. juni 2007, hvis § 4 ændrede § 7, stk. 2, og § 15, stk. 4, indsatte § 15 a og 15 b, ophævede § 18, stk. 4, ændrede § 20 og § 21, stk. 1, indsatte § 25, stk. 4, § 30 a og § 34 a, trådte i kraft den 1. august 2007.
+
+Lov nr. 561 af 6. juni 2007, hvis § 4 ændrede § 23, stk. 1, nr. 1, trådte i kraft den 1. august 2007.
+
+Lov nr. 207 af 31. marts 2008, hvis § 40 ændrede § 12, stk. 3, og § 15, stk. 1, nr. 2, indsatte §§ 15 c – 15 h, ændrede § 16, § 25, stk. 1, 1. punktum, § 25, stk. 2, 1. og 2. punktum, og indsatte § 34 b, trådte i kraft den 1. april 2008.
+
+Lov nr. 536 af 12. juni 2009, hvis § 1 indsatte § 20 a, trådte i kraft den 15. juni 2009.
+
+Lov nr. 537 af 12. juni 2009, hvis § 2 indsatte § 15 i, trådte i kraft den 1. juli 2009.
+
+Lov nr. 140 af 9. februar 2010, hvis § 12 ændrede affattelse af § 30, stk. 2, indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 16
+
+Loven træder i kraft den 1. september 2010.
+
+Lov nr. 277 af 5. april 2011, hvis § 3 ophævede § 34 a, indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 4
+
+Loven træder i kraft dagen efter bekendtgørelse i Lovtidende.
