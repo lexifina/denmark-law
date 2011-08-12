@@ -1,5 +1,3 @@
-Lov om erhvervsakademiuddannelser og professionsbacheloruddannelser
+Bekendtgørelse af lov om erhvervsakademiuddannelser og professionsbacheloruddannelser
 
-VI MARGRETHE DEN ANDEN, af Guds Nåde Danmarks Dronning, gør vitterligt:
-
-Folketinget har vedtaget og Vi ved Vort samtykke stadfæstet følgende lov:
+Herved bekendtgøres lov nr. 207 af 31. marts 2008 om erhvervsakademiuddannelser og professionsbacheloruddannelser med de ændringer, der følger af § 1 i lov nr. 537 af 12. juni 2009, § 3 i lov nr. 590 af 26. juni 2009, § 8 i lov nr. 140 af 9. februar 2010 og § 8 i lov nr. 641 af 14. juni 2010.
