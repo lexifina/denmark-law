@@ -1,7 +1,5 @@
-Givet på Christiansborg Slot, den 31. marts 2008
+Undervisningsministeriet, den 8. august 2011
 
-Under Vor Kongelige Hånd og Segl
+Troels Lund Poulsen
 
-MARGRETHE R.
-
-/ Bertel Haarder
+/ Jacob Sten Jensen
