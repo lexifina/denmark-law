@@ -1,5 +1,5 @@
-Undervisningsministeriet, den 9. november 2009
+Undervisningsministeriet, den 8. august 2011
 
-Bertel Haarder
+Troels Lund Poulsen
 
-/ Kirsten Lippert
+/ Jacob Sten Jensen
