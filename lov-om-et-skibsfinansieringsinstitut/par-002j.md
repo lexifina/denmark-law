@@ -1,4 +1,4 @@
-§ 2 j. Instituttet kan optage lån til brug for at opfylde krav om at stille supplerende sikkerhed, jf. § 2 i, stk. 1.
+§ 2j. Instituttet kan optage lån til brug for at opfylde krav om at stille supplerende sikkerhed, jf. § 2 i, stk. 1.
 
 Stk. 2. Det skal fremgå af låneaftalen, hvilket kapitalcenter lånemidlerne optaget efter stk. 1 kan henføres til.
 
