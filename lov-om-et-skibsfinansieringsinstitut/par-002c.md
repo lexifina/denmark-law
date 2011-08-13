@@ -1,4 +1,4 @@
-§ 2 c. Økonomi- og erhvervsministeren kan tillade instituttet at udstede særligt dækkede obligationer.
+§ 2c. Økonomi- og erhvervsministeren kan tillade instituttet at udstede særligt dækkede obligationer.
 
 Stk. 2. Har instituttet tilladelse til at udstede særligt dækkede obligationer, kan tilladelsen inddrages, hvis
 
