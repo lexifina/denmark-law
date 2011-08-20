@@ -1,5 +1,5 @@
-Velfærdsministeriet, den 1. oktober 2008
+Socialministeriet, den 18. august 2011
 
-P.M.V. Christian Schønau
+P.M.V. Jesper Brask Fischer
 
-/ Eva Pedersen
+/ Dorte Bech Vizard

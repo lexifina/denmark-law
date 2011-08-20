@@ -2,4 +2,4 @@
 
 Stk. 2. Lån efter stk. 1 ydes på de i § 70, stk. 2, gældende vilkår.
 
-Stk. 3. Velfærdsministeren kan fastsætte nærmere regler om de i stk. 1 nævnte forhold.
+Stk. 3. Socialministeren kan fastsætte nærmere regler om de i stk. 1 nævnte forhold.
