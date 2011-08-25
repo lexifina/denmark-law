@@ -1,5 +1,3 @@
-Bekendtgørelse af lov om skattemæssig behandling af gevinst og tab på fordringer, gæld og finansielle kontrakter
+Bekendtgørelse af lov om skattemæssig behandling af gevinst og tab på fordringer, gæld og finansielle kontrakter (kursgevinstloven)
 
-(kursgevinstloven)
-
-Herved bekendtgøres lov om skattemæssig behandling af gevinst og tab på fordringer, gæld og finansielle kontrakter (kursgevinstloven), jf. lovbekendtgørelse nr. 140 af 5. februar 2008, med de ændringer, der følger af § 6 i lov nr. 1534 af 19. december 2007, § 9 i lov nr. 335 af 7. maj 2008, § 8 i lov nr. 521 af 17. juni 2008, § 4 i lov nr. 906 af 12. september 2008, § 11 i lov nr. 462 af 12. juni 2009 og § 11 i lov nr. 525 af 12. juni 2009.
+Herved bekendtgøres lov om skattemæssig behandling af gevinst og tab på fordringer, gæld og finansielle kontrakter (kursgevinstloven), jf. lovbekendtgørelse nr. 1002 af 26. oktober 2009, med de ændringer, der følger af § 1 i lov nr. 724 af 25. juni 2010, § 4 i lov nr. 1561 af 21. december 2010, § 3 i lov nr. 174 af 4. marts 2011, § 12 i lov nr. 221 af 21. marts 2011, § 6 i lov nr. 254 af 30. marts 2011 og § 2 i lov nr. 624 af 14. juni 2011.
