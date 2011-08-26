@@ -38,6 +38,16 @@ Stk. 1. Loven træder i kraft den 1. januar 2009, jf. dog stk. 2. § 11 finder a
 
 Stk. 2. (Udeladt)
 
+Lov nr. 283 af 15. april 2009 om digital indberetningsløsning til brug for anmeldelse af sygefravær samt anmodning om refusion af sygedagpenge og dagpenge efter barselloven, der ændrer § 38, stk. 4, § 38, stk. 6, § 40, stk. 2, § 43, stk. 3, § 59, stk. 7, indsætter ny § 38, stk. 5, ophæver § 40, stk. 3 og § 59, stk. 8 og 9, indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 17
+
+Stk. 1. (Udeladt)
+
+Stk. 2. (Udeladt)
+
+Stk. 3. Beskæftigelsesministeren fastsætter tidspunktet for ikrafttrædelse af lovens § 5 om arbejdsgiverens, den selvstændig erhvervsdrivendes og arbejdsløshedskassens forpligtelser. Beskæftigelsesministeren fastsætter samtidig tidspunktet for ikrafttrædelse af lovens § 18.
+
 Lov nr. 480 af 12. juni 2009, der indsætter §§ 7a-7c og § 36 a, ændrer § 12, § 13, § 15, § 19, § 21, § 25, stk. 1, § 26, stk. 2, § 27, stk. 1, § 31, § 36, stk. 3, § 53, stk. 2, § 62, og § 77 samt ophæver § 36, stk. 4 og 5 og § 37 (En styrket beskæftigelsesrettet indsats over for sygemeldte m.fl.) indeholder følgende ikrafttrædelses- og overgangsbestemmelser:
 
 § 5
@@ -123,3 +133,21 @@ Lov nr. 1598 af 22. december 2010, der ændrer § 62 (Ændring af refusionssatse
 Stk. 1. Loven træder i kraft den 1. januar 2011.
 
 Stk. 2. Loven har virkning for udgifter til ydelser, der vedrører perioder efter lovens ikrafttræden.
+
+Lov nr. 279 af 6. april 2011, der ændrer § 11, stk. 2, § 13, stk. 4, § 13, stk. 6, og § 15, stk. 7 samt indsætter § 15 a (Større fleksibilitet i opfølgning og indsats over for sygedagpengemodtagere) indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 2
+
+Loven træder i kraft den 1. maj 2011.
+
+Lov nr. 460 af 18. maj 2011, der ændrer § 38, stk. 6, § 43, stk. 5, § 59, stk. 6, samt ophæver § 59, stk. 5, 2. pkt. (Ændring af dispensationsbestemmelserne ved anmeldelse af sygefravær og anmodning om sygedagpengerefusion m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 2
+
+Loven træder i kraft den 1. juli 2011.
+
+Lov nr. 600 af 14. juni 2011, der ændrer § 70, stk. 1 (Skærpet kontrol med udbetaling af offentlige forsørgelsesydelser, sanktioner for uberettiget modtagelse af ydelser under ophold i udlandet m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 8
+
+Stk. 1. Loven træder i kraft den 1. juli 2011.
