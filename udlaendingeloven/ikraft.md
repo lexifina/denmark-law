@@ -573,3 +573,73 @@ Lov nr. 573 af 31. maj 2010 indeholder følgende bestemmelse:
 § 7
 
 Stk. 1. Loven træder i kraft den 1. juli 2010.
+
+Lov nr. 1542 af 21. december 2010 indeholder følgende bestemmelse:
+
+§ 2
+
+Stk. 1. Loven træder i kraft den 1. januar 2011, jf. dog stk. 2.
+
+Stk. 2. For udlændinge, der har indgivet ansøgning om visum inden lovens ikrafttræden, finder udlændingelovens § 4, stk. 2-7, § 40, stk. 11, og § 47 b som ophævet ved denne lovs § 1, nr. 7, 11 og 12, fortsat anvendelse.
+
+Lov nr. 1543 af 21. december 2010 indeholder følgende bestemmelse:
+
+§ 3
+
+Stk. 1. Loven træder i kraft den 1. januar 2011.
+
+Stk. 2. Udlændingelovens § 9 c, stk. 3, § 40 c, stk. 2, og § 56 a, stk. 1, 5. pkt., som affattet ved denne lovs § 1, nr. 1, 2 og 4, finder alene anvendelse for uledsagede mindreårige udlændinge, der indrejser i Danmark fra og med den 1. januar 2011.
+
+Stk. 3. Har Udlændingeservice før den 1. januar 2011 iværksat en eftersøgning af forældre eller andet familiemæssigt netværk til et uledsaget barn uden barnets samtykke, og er eftersøgningen ikke tilendebragt den 1. januar 2011, skal Udlændingeservice alene fortsætte eftersøgningen, hvis barnet samtykker hertil, jf. udlændingelovens § 56 a, stk. 9, som affattet ved denne lovs § 1, nr. 7.
+
+Lov nr. 1604 af 22. december 2010 indeholder følgende bestemmelse:
+
+§ 2
+
+Stk. 1. Loven træder i kraft den 1. januar 2011.
+
+Stk. 2. Loven finder alene anvendelse for ansøgninger, der indgives efter lovens ikrafttræden, klager over afslag på en ansøgning, der indgives efter lovens ikrafttræden, og ansøgninger om genoptagelse, der vedrører en ansøgning, der indgives efter lovens ikrafttræden.
+
+Lov nr. 248 af 30. marts 2011 indeholder følgende bestemmelse:
+
+§ 2
+
+Stk. 1. Loven træder i kraft den 1. april 2011.
+
+Stk. 2. Udlændingelovens § 32, stk. 4, 4. pkt., som indsat ved denne lovs § 1, nr. 5, gælder for udlændinge, der efter lovens ikrafttræden indrejser i strid med et indrejseforbud, der tidligere er meddelt i forbindelse med udvisning efter § 25 b.
+
+Stk. 3. Udlændingelovens § 58 g, nr. 1, som ændret ved denne lovs § 1, nr. 11, gælder for udlændinge, der fra lovens ikrafttræden udvises af landet i medfør af §§ 22-24 og meddeles et indrejseforbud. For udlændinge, der udvises af landet i medfør af §§ 22-24 og meddeles et indrejseforbud før lovens ikrafttræden, finder de hidtil gældende regler anvendelse.
+
+Stk. 4. Udlændingelovens § 58 g, nr. 6, som indsat ved denne lovs § 1, nr. 14, gælder for udlændinge, der udvises efter § 25 b fra og med lovens ikrafttræden.
+
+Lov nr. 463 af 18. maj 2011 indeholder følgende bestemmelse:
+
+§ 2
+
+Stk. 1. Loven træder i kraft den 20. maj 2011, jf. dog stk. 2 og 3.
+
+Stk. 2. Udlændingelovens § 40 a, stk. 1, og § 48, stk. 1, 5. pkt., som affattet ved denne lovs § 1, nr. 14 og 21, og udlændingelovens § 40 a, stk. 11 og 12, § 47 b, stk. 2, og § 48, stk. 1, 3. pkt., som indsat ved denne lovs § 1, nr. 15, 19 og 20, træder i kraft den 20. maj 2012.
+
+Stk. 3. Udlændingelovens § 4 a, stk. 2, som ændret ved denne lovs § 1, nr. 3, træder i kraft dagen efter bekendtgørelsen i Lovtidende.
+
+Lov nr. 601 af 14. juni 2011 indeholder følgende bestemmelse:
+
+§ 3
+
+Stk. 1. Loven træder i kraft den 1. juli 2011, jf. dog stk. 2.
+
+Stk. 2. Tidspunktet for ikrafttrædelse af udlændingelovens § 9, stk. 2, 2. pkt., som ændret ved dennes lov § 1, nr. 2, fastsættes af ministeren for flygtninge, indvandrere og integration. Ministeren kan i den forbindelse fastsætte overgangsregler.
+
+Stk. 3. Udlændingelovens § 9, stk. 1, nr. 1, § 9, stk. 4, 1. og 4. pkt., § 9, stk. 7, 1. pkt., § 9, stk. 12-15, § 9, stk. 30, og § 9 h, stk. 1, nr. 1 og 8, som indsat eller ændret ved denne lovs § 1, nr. 1, 3, 4, 6, 8, 18, 21 og 22, finder ikke anvendelse for udlændinge, der inden lovens ikrafttræden har indgivet ansøgning om opholdstilladelse. For sådanne udlændinge finder de hidtil gældende regler anvendelse.
+
+Lov nr. 613 af 14. juni 2011 indeholder følgende bestemmelse:
+
+§ 3
+
+Loven træder i kraft den 1. juli 2011.
+
+Lov nr. 758 af 29. juni 2011 indeholder følgende bestemmelse:
+
+§ 3
+
+Loven træder i kraft den 1. juli 2011 og finder anvendelse for lovovertrædelser begået efter lovens ikrafttræden. For lovovertrædelser begået før lovens ikrafttræden finder de hidtil gældende regler anvendelse.
