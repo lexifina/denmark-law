@@ -1,5 +1,5 @@
-Ministeriet for Flygtninge, Indvandrere og Integration, den 18. august 2010
+Ministeriet for Flygtninge, Indvandrere og Integration, den 24. august 2011
 
-Birthe Rønn Hornbech
+Søren Pind
 
 / Merete Milo
