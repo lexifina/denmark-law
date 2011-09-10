@@ -1,8 +1,10 @@
-§ 40 a. Der optages fingeraftryk af en udlænding,
+§ 40 a. Der optages fingeraftryk af en udlænding, som
 
-1) som søger om opholdstilladelse efter § 7, stk. 1 og 2, eller
+1) søger om opholdstilladelse efter § 7, stk. 1 og 2, jf. dog stk. 11,
 
-2) som pågribes i forbindelse med forsøg på ulovligt at indrejse her i landet fra et land, der ikke er tilsluttet Den Europæiske Union, og som ikke afvises, jf. § 28.
+2) pågribes i forbindelse med forsøg på ulovligt at indrejse her i landet fra et land, der ikke er tilsluttet Den Europæiske Union, og som ikke afvises, jf. § 28, eller
+
+3) søger om forlængelse af en opholdstilladelse, der er meddelt efter § 7 eller § 8, jf. dog stk. 11.
 
 Stk. 2. Der kan endvidere optages fingeraftryk af en udlænding,
 
@@ -14,7 +16,7 @@ Stk. 2. Der kan endvidere optages fingeraftryk af en udlænding,
 
 4) hvis dette skønnes hensigtsmæssigt med henblik på udstedelse eller fremskaffelse af rejsedokument til den pågældende.
 
-Stk. 3. Fingeraftryk, der optages i medfør af stk. 1 eller 2, kan registreres i et særligt edb-register, der føres af Rigspolitichefen. Politiet og Udlændingeservice kan anvende registret i forbindelse med behandlingen af udlændingesager. Rigspolitichefen er dataansvarlig myndighed for registret.
+Stk. 3. Fingeraftryk, der optages i medfør af stk. 1 eller 2, kan registreres i et særligt edb-register, der føres af Rigspolitichefen. Politiet og Udlændingestyrelsen kan anvende registret i forbindelse med behandlingen af udlændingesager. Rigspolitichefen er dataansvarlig myndighed for registret.
 
 Stk. 4. Fingeraftryk, der modtages fra udenlandske udlændingemyndigheder i forbindelse med behandlingen af udlændingesager, kan registreres i det i stk. 3 nævnte edb-register.
 
@@ -26,6 +28,10 @@ Stk. 7. Fingeraftryk, der er optaget efter retsplejelovens bestemmelser herom el
 
 Stk. 8. Fingeraftryk, der modtages som led i en international efterlysning, kan manuelt eller elektronisk sammenholdes med fingeraftryk, der er registreret i det i stk. 3 nævnte edb-register. Oplysninger fra edb-registret kan til brug for besvarelse af en international efterlysning videregives til den internationale politisamarbejdsorganisation eller den udenlandske myndighed, der har udsendt efterlysningen.
 
-Stk. 9. Politiet og Udlændingeservice kan uden udlændingens samtykke elektronisk eller manuelt videregive fingeraftryk, der i medfør af stk. 3 og 4 er registreret i det i stk. 3 nævnte edb-register, til udenlandske udlændingemyndigheder i forbindelse med behandlingen af udlændingesager. Politiet kan endvidere med henblik på identifikation af en udlænding eller med henblik på udstedelse eller fremskaffelse af rejsedokument videregive fingeraftryk, der i medfør af stk. 3 og 4 er registreret i det i stk. 3 nævnte edb-register, til hjemlandets eller et andet lands repræsentation eller til internationale politisamarbejdsorganisationer.
+Stk. 9. Politiet og Udlændingestyrelsen kan uden udlændingens samtykke elektronisk eller manuelt videregive fingeraftryk, der i medfør af stk. 3 og 4 er registreret i det i stk. 3 nævnte edb-register, til udenlandske udlændingemyndigheder i forbindelse med behandlingen af udlændingesager. Politiet kan endvidere med henblik på identifikation af en udlænding eller med henblik på udstedelse eller fremskaffelse af rejsedokument videregive fingeraftryk, der i medfør af stk. 3 og 4 er registreret i det i stk. 3 nævnte edb-register, til hjemlandets eller et andet lands repræsentation eller til internationale politisamarbejdsorganisationer.
 
 Stk. 10. Optagelse af fingeraftryk skal ske så skånsomt, som omstændighederne tillader det. Indgrebet kan om nødvendigt ske med den fornødne magtanvendelse.
+
+Stk. 11. Der optages ikke fingeraftryk efter stk. 1, nr. 1 eller 3, til eventuel brug for udstedelse af et opholdskort, hvis ansøgeren af fysiske grunde ikke er i stand til at afgive fingeraftryk. Hvis udlændingen er under 18 år, optages der alene fingeraftryk efter stk. 1, nr. 1 eller 3, til eventuel brug for udstedelse af et opholdskort, hvis ansøgeren er uledsaget og er fyldt 6 år.
+
+Stk. 12. Stk. 3-9 finder ikke anvendelse, hvis fingeraftryk optages efter stk. 1, nr. 1 eller 3, til eventuel brug for udstedelse af et opholdskort.
