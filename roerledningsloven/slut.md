@@ -1,4 +1,4 @@
-Energistyrelsen, den 6. oktober 2010
+Energistyrelsen, den 9. september 2011
 
 Ib Larsen
 

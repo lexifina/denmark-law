@@ -4,7 +4,7 @@ Lov nr. 254 af 8. juni 1983 om Dansk Olie og Naturgas A/S m.v., der vedrører §
 
 Stk. 2. (Udeladt)
 
-Lov nr. 432 af 10. juni 1997 om ændring af lov om etablering og benyttelse af en rørledning til transport af råolie og kondensat, der vedrører § 2, stk. 4, indeholder følgende ikrafttrædelsesbe-stemmelse:
+Lov nr. 432 af 10. juni 1997 om ændring af lov om etablering og benyttelse af en rørledning til transport af råolie og kondensat, der vedrører § 2, stk. 4, indeholder følgende ikrafttrædelsesbestemmelse:
 
 § 2
 
@@ -33,3 +33,11 @@ Lov nr. 542 af 26. maj 2010 om ændring af lov om etablering og benyttelse af en
 § 2
 
 Loven træder i kraft den 1. juli 2010.
+
+Lov nr. 718 af 25. juni 2010 om ændring af konkursloven og forskellige andre love, hvis § 52 vedrører § 2 a, stk. 4, indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 55
+
+Stk. 1. Justitsministeren fastsætter tidspunktet for lovens ikrafttræden.
+
+Stk. 2-10. (Udeladt)
