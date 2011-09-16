@@ -1,9 +1,7 @@
 Bekendtgørelse af lov om luftfart
 
-Herved bekendtgøres lov om luftfart, jf. lovbekendtgørelse nr. 1484 af 19. december 2005 , med de ændringer, der følger af § 97 i lov nr. 538 af 8. juni 2006, § 5 i lov nr. 542 af 8. juni 2006, lov nr. 242 af 21. marts 2007 og § 31 i lov nr. 512 af 6. juni 2007.
+Hermed bekendtgøres lov om luftfart, jf. lovbekendtgørelse nr. 731 af 21. juni 2007, med de ændringer, der følger af § 37 i lov nr. 106 af 26. februar 2008 og lov nr. 470 af 19. maj 2011.
 
-Den bekendtgjorte lovtekst indeholder den ændring, jf. § 148 a, der følger af § 5 i lov nr. 542 af 8. juni 2006 (Styrkelse af indsatsen for at bekæmpe terrorisme m.v.), selvom bestemmelsen først træder i kraft på det tidspunkt, som transport- og energiministeren fastsætter efter forhandling med justitsministeren.
+Den bekendtgjorte lovtekst vedrørende § 148 a, træder i kraft på det tidspunkt transportministeren fastsætter efter forhandling med justitsministeren, jf. § 9, stk. 4, i lov nr. 542 af 8. juni 2006 om ændring af straffeloven, retsplejeloven og forskellige andre love (Styrkelse af indsatsen for at bekæmpe terrorisme m.v.).
 
-Den bekendtgjorte lovtekst indeholder desuden den ændring, jf. § 153 a, stk. 2, der følger af lov nr. 242 af 21. marts 2007 (Lufthavnstakster, tilsyn, forsikring, tavshedspligt, lønindeholdelse for manglende betaling og internationale vedtagelser på engelsk m.v.), selvom bestemmelsen først træder i kraft på det tidspunkt, som transport- og energiministeren fastsætter.
-
-Den bekendtgjorte lovtekst indeholder endvidere den ændring, jf. § 150 f, der følger af § 31 i lov nr. 512 af 6. juni 2007 om røgfri miljøer, selvom bestemmelsen først træder i kraft den 15. august 2007.
+De ændringer af §§ 54 og 71, der følger af § 1, nr. 2-5, i lov nr. 1114 af 29. december 1997 om ændring af lov om luftfart (Promillegrænse og ændring vedrørende Eurocontrolkonvention) er ikke indarbejdet i denne lovbekendtgørelse, da ikrafttræden af disse ændringer fastsættes af transportministeren, jf. § 2, stk. 2, i lov nr. 1114 af 29. december 1997.
