@@ -2,7 +2,7 @@ Lov nr. 310 af 17. maj 1995 om ændring af lov om anvendelse af Danmarks undergr
 
 § 2
 
-Loven træder i kraft den 1. juni 1995, jf. dog stk. 2.
+Stk. 1. Loven træder i kraft den 1. juni 1995, jf. dog stk. 2.
 
 Stk. 2. Bestemmelserne i §§ 12 og 12 a, som affattet ved denne lovs § 1, nr. 5 og 6, gælder ikke for nye tilladelser til efterforskning og indvinding af kulbrinter i henhold til § 5, som meddeles inden den 31. december 2012 for de områder, hvortil eneretten bortfalder den 8. juli 2012 ved udløbet af eneretsbevillingen af 8. juli 1962 til efterforskning og indvinding af kulbrinter m.v. i Danmarks undergrund. Sådanne tilladelser skal meddeles på grundlag af objektive og ikke-diskriminerende principper.
 
@@ -10,7 +10,7 @@ Lov nr. 447 af 31. maj 2000 om ændring af visse miljølove, hvis § 6 vedrører
 
 § 14
 
-Loven træder i kraft den 15. september 2000, jf. dog stk. 2-4.
+Stk. 1. Loven træder i kraft den 15. september 2000, jf. dog stk. 2-4.
 
 Stk. 2. Lovens regler om adgang til at påklage afgørelser gælder for sager, der er afgjort i første instans efter lovens ikrafttræden. Reglerne om klage over afslag på anmodning om aktindsigt efter § 4, stk. 5, i lov om aktindsigt i miljøoplysninger som ændret ved lovens § 1, nr. 10, gælder ligeledes for afslag, der meddeles efter lovens ikrafttræden.
 
@@ -37,5 +37,27 @@ Lov nr. 548 af 6. juni 2007 om ændring af lov om anvendelse af Danmarks undergr
 § 9
 
 Stk. 1. Loven træder i kraft dagen efter bekendtgørelsen i Lovtidende.
+
+Stk. 2. (Udeladt)
+
+Lov nr. 1400 af 27. december 2008 om ændring af forskellige love på Klima- og Energiministeriets område, hvis § 2 vedrører undergrundslovens § 34 a, indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 9
+
+Loven træder i kraft den 1. januar 2009.
+
+Lov nr. 718 af 25. juni 2010 om ændring af konkursloven og forskellige andre love, hvis § 51 vedrører undergrundslovens § 30, stk. 1, nr. 3, indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 55
+
+Stk. 1. Justitsministeren fastsætter tidspunktet for lovens ikrafttræden.
+
+Stk. 2-10. (Udeladt)
+
+Lov nr. 541 af 30. maj 2011 om ændring af lov om anvendelse af Danmarks undergrund, der vedrører § 1, stk. 3, § 2 a, § 5, stk. 4, § 10, § 12 a, stk. 3, § 13, stk. 2, § 16, §§ 18 a-18 d, §§ 23-23 v, §§ 28 a, 28 b, 37 a og 37 b indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 2
+
+Stk. 1. Loven træder i kraft den 1. juni 2011.
 
 Stk. 2. (Udeladt)

@@ -1,3 +1,3 @@
-§ 37 b. Ved afgørelser i henhold til § 37 a erstattes repræsentanter i Energiklagenævnet, der er udpeget efter indstilling fra Dansk Industri og Landbrugsraadet, af 2 medlemmer med særlig sagkundskab inden for henholdsvis efterforskning og indvinding af kulbrinter og inden for havmiljø. Medlemmerne udpeges af transport- og energiministeren.
+§ 37 b. Ved afgørelser i henhold til § 37 a erstattes repræsentanter i Energiklagenævnet, der er udpeget efter indstilling fra Dansk Industri og Landbrugsraadet, af 1 medlem med særlig sagkundskab inden for efterforskning og indvinding af det pågældende råstof eller inden for den pågældende lagring eller anden anvendelse af undergrunden og 1 medlem med særlig sagkundskab inden for havmiljø. Medlemmerne udpeges af klima- og energiministeren.
 
-Stk. 2. Transport- og energiministeren kan fastsætte regler om Energiklagenævnets behandling af klager efter § 37 a og om betaling af gebyr ved indbringelse af en klage for Energiklagenævnet.
+Stk. 2. Klima- og energiministeren kan fastsætte regler om Energiklagenævnets behandling af klager efter § 37 a og om betaling af gebyr ved indbringelse af en klage for Energiklagenævnet.
