@@ -1,0 +1,1 @@
+§ 23 s. Har rettighedshaveren til en CO2-lagringslokalitet forud for eller i forbindelse med ansvarsoverdragelsen givet mangelfulde data, fortiet relevante oplysninger, udvist uagtsomhed, begået svig eller udvist forsømmelse, pålægger klima- og energiministeren den tidligere rettighedshaver at betale de omkostninger, der er påløbet efter ansvarsoverdragelsen.
