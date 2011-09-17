@@ -1,5 +1,5 @@
-Energistyrelsen, den 4. juli 2007
+Energistyrelsen, den 13. september 2011
 
 Ib Larsen
 
-/Anna-Grethe Hjortkjær
+/ Jens Skov-Spilling
