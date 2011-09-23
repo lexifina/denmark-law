@@ -1,7 +1,3 @@
 Bekendtgørelse af lov om en børne- og ungeydelse
 
-Herved bekendtgøres lov om en børne- og ungeydelse, jf. lovbekendtgørelse nr. 972 af 22. september 2006, med de ændringer, der følger af lov nr. 318 af 30. april 2008, § 102 i lov nr. 1336 af 19. december 2008, § 2 i lov nr. 1411 af 27. december 2008, § 2 i lov nr. 537 af 26. maj 2010, § 1 i lov nr. 624 af 11. juni 2010, § 3 i lov nr. 725 af 25. juni 2010, § 1, nr. 2 og 3 i lov nr. 1609 af 22. december 2010 og § 3 i lov nr. 252 af 30. marts 2011.
-
-De ændringer, der følger af § 1, nr. 1 og 4, i lov nr. 1609 af 22. december 2010 om ændring af lov om børnefamilieydelse, lov om børnetilskud og forskudsvis udbetaling af børnebidrag og lov om et indkomstregister (optjeningsprincip for børnefamilieydelse og børnetilskud, forbedret kontrol og udvidet modregningsadgang ved udbetaling af børnefamilieydelse), er ikke indarbejdet i denne lovbekendtgørelse, da disse ændringer først træder i kraft den 1. januar 2012, jf. § 5, stk. 2, i lov nr. 1609 af 22. december 2010.
-
-De ændringer, der følger af § 2 i lov nr. 275 af 5. april 2011 om ændring af dagtilbudsloven, lov om en børne- og ungeydelse og lov om friskoler og private grundskoler m.v. (obligatorisk dagtilbud for tosprogede børn omkring 3 år og standsning af børneydelsen ved forældres manglende overholdelse af sprogvurderings- og sprogstimuleringspligten m.v.) er ikke indarbejdet i denne lovbekendtgørelse, da disse ændringer først træder i kraft den 1. juli 2011, jf. § 4, stk. 1, i lov nr. 275 af 5. april 2010.
+Herved bekendtgøres lov om en børne- og ungeydelse, jf. lovbekendtgørelse nr. 339 af 15. april 2011, med de ændringer, der følger af § 1, nr. 1 og 4, i lov nr. 1609 af 22. december 2010 og § 2 i lov nr. 275 af 5. april 2011.
