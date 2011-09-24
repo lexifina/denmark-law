@@ -1,5 +1,5 @@
-Bekendtgørelse af lov om beskatning af rederivirksomhed
+Bekendtgørelse af lov om beskatning af rederivirksomhed (tonnageskatteloven)
 
-(tonnageskatteloven)
+Herved bekendtgøres lov om beskatning af rederivirksomhed, jf. lovbekendtgørelse nr. 834 af 29. august 2005, med de ændringer der følger af § 11 i lov nr. 343 af 18. april 2007, § 1, nr. 2, 3, jf. tonnageskattelovens § 10, stk. 2, nr. 9, samt 4 og 5, i lov nr. 539 af 6. juni 2007, § 11 i lov nr. 540 af 6. juni 2007, § 6 i lov nr. 530 af 17. juni 2008, § 3 i lov nr. 1341 af 19. december 2008, § 17 i lov nr. 525 af 12. juni 2009 og § 10 i lov nr. 254 af 30. marts 2011.
 
-Herved bekendtgøres lov om beskatning af rederivirksomhed, jf. lovbekendtgørelse nr. 831 af 2. august 2004, med de ændringer der følger af § 3 i lov nr. 370 af 24. maj 2005, § 4 i lov nr. 408 af 1. juni 2005, § 1 i lov nr. 409 af 1. juni 2005 og § 12 i lov nr. 426 af 6. juni 2005.
+De ændringer der følger af § 1, nr. 1 og 3, jf. tonnageskattelovens § 10, stk. 2, nr. 8, i lov nr. 539 af 6. juni 2007 træder i kraft efter skatteministerens nærmere bestemmelse. Disse ændringer er derfor ikke indarbejdet i lovteksten nedenfor, men det fremgår af noterne, hvilke paragraffer, der ændres ved denne lov.
