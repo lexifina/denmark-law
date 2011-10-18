@@ -1,5 +1,5 @@
-Kulturministeriet, den 6. maj 2010
+Kulturministeriet, den 6. oktober 2011
 
-Per Stig Møller
+Uffe Elbæk
 
-/ Lars Banke
+/ Lars M. Banke
