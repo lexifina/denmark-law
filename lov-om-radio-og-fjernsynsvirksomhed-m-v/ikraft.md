@@ -12,9 +12,7 @@ Loven træder i kraft den 1. januar 2005.
 
 Lov nr. 1439 af 22. december 2004 om pligtaflevering af offentliggjort materiale indeholder følgende bestemmelse:
 
-§ 22
-
-Stk. 1. Loven træder i kraft den 1. juli 2005.
+§ 22. Loven træder i kraft den 1. juli 2005.
 
 Stk. 2. Kulturministeren fremsætter forslag om revision af loven senest i folketingsåret 2007-08.
 
@@ -43,6 +41,8 @@ Lov nr. 563 af 24. juni 2005 om ændring af en række love på kulturområdet in
 § 10
 
 Stk. 1. Loven træder i kraft den 1. januar 2007. Bestemmelserne i stk. 2-6 træder dog i kraft dagen efter lovens bekendtgørelse i Lovtidende.
+
+Stk. 2-4. (Udelades)
 
 Stk. 5. Uanset bestemmelsen i radio- og fjernsynslovens § 64, stk. 6, fungerer nævn i kommuner, der indgår i en sammenlægning med en eller flere andre kommuner, og hvis funktionsperiode udløber senest den 30. april 2006, indtil udgangen af 2006. Med virkning fra den 1. januar 2007 nedsætter kommunalbestyrelsen eller kommunalbestyrelserne et nyt nævn.
 
@@ -88,7 +88,7 @@ Stk. 1. Loven træder i kraft den 1. januar 2009, jf. dog stk. 2. § 11 finder a
 
 Stk. 2. Skatteministeren fastsætter tidspunktet for ikrafttrædelse af § 9, § 99, nr. 3, § 103, § 109, nr. 4 og 5, § 117, nr. 4, § 118, nr. 1, § 136, nr. 1, 3 og 4, § 144, nr. 1 og 2, § 148, nr. 2, og § 149, nr. 2.
 
-Lov nr. 1404 af 27. december 2008 om ændring af varemærkeloven, straffeloven, lov om radio- og fjernsynsvirksomhed samt forskellige andre love indeholder følgende bestemmelser:
+Lov nr. 1404 af 27. december 2008 om ændring af varemærkeloven, straffeloven, lov om radio- og fjernsynsvirksomhed samt forskellige andre love indeholder følgende bestemmelse:
 
 § 9
 
@@ -102,7 +102,7 @@ Lov nr. 189 af 18. marts 2009 om ændring af lov om radio- og fjernsynsvirksomhe
 
 Loven træder i kraft den 1. marts 2009.
 
-Lov nr. 426 af 30. maj 2009 om ændring af lov om radio- og fjernsynsvirksomhed (Ny ordning for udsendelse af ikkekommercielt tv, ændring af must carry-reglerne, opkrævning af licens m.v.) indeholder følgende bestemmelser:
+Lov nr. 426 af 30. maj 2009 om ændring af lov om radio- og fjernsynsvirksomhed (Ny ordning for udsendelse af ikkekommercielt tv, ændring af must carry-reglerne, opkrævning af licens m.v.) indeholder følgende bestemmelse:
 
 § 2
 
@@ -112,7 +112,7 @@ Stk. 2. Lovens § 1, nr. 1, 2, 3, 19 og 21, træder i kraft den 1. november 2009
 
 Stk. 3. Tilskud i henhold til tilsagn afgivet af Radio- og tv-nævnet før lovens ikrafttræden kan fortsat udbetales.
 
-Lov nr. 1269 af 16. december 2009 om ændring af lov om radio- og fjernsynsvirksomhed og lov om ophavsret (Gennemførelse af direktivet om audiovisuelle medietjenester m.v.) indeholder følgende bestemmelser:
+Lov nr. 1269 af 16. december 2009 om ændring af lov om radio- og fjernsynsvirksomhed og lov om ophavsret (Gennemførelse af direktivet om audiovisuelle medietjenester m.v.) indeholder følgende bestemmelse:
 
 § 3
 
@@ -121,3 +121,21 @@ Stk. 1. Loven træder i kraft den 18. december 2009.
 Stk. 2. § 90, stk. 3, i lov om radio- og fjernsynsvirksomhed som affattet ved denne lovs § 1, nr. 32, finder alene anvendelse på eneretstransmissioner, hvorom der er indgået eller forlænget aftale efter lovens ikrafttræden.
 
 Stk. 3. Foretagender, der på tidspunktet for lovens ikrafttræden udøver programvirksomhed ved hjælp af satellit, fællesantenneanlæg, jordbaserede digitale tv-sendemuligheder, kortbølgesendemuligheder eller øvrige elektroniske kommunikationsnet, og som hører under dansk myndighed, jf. § 47, stk. 1, 1. pkt., i lov om radio- og fjernsynsvirksomhed som affattet ved denne lovs § 1, nr. 18, og som ikke allerede er registreret hos Radio- og tv-nævnet, skal lade sig registrere hos nævnet senest den 1. februar 2010.
+
+Lov nr. 1360 af 8. december 2010 om ændring af lov om radio- og fjernsynsvirksomhed (Genneførelse af medieaftale for 2011-2014 m.v.) indeholder følgende bestemmelser:
+
+§ 2
+
+Stk. 1. Loven træder i kraft den 1. januar 2011, jf. dog stk. 2.
+
+Stk. 2. Kulturministeren fastsætter tidspunktet for ikrafttræden af § 11 a i lov om radio- og fjernsynsvirksomhed som affattet ved denne lovs § 1, nr. 5.
+
+§ 3
+
+DR kan uanset § 11, stk. 5, i lov om radio- og fjernsynsvirksomhed som affattet ved denne lovs § 1, nr. 3, fortsat udøve programvirksomhed på den fjerde FM-radiokanal på grundlag af tilladelse, som før lovens ikrafttræden er meddelt eller forlænget af Radio- og tv-nævnet efter reglerne i § 11, stk. 4, i lov om radio- og fjernsynsvirksomhed, indtil en ny tilladelseshaver kan påbegynde sin virksomhed.
+
+Lov nr. 1531 af 21. december 2010 om økonomiske og administrative forhold for modtagere af driftstilskud fra Kulturministeriet indeholder følgende bestemmelse:
+
+§ 14. Loven træder i kraft den 1. januar 2011.
+
+Stk. 2-3. (Udelades)
