@@ -1,5 +1,5 @@
-Energistyrelsen, den 8. november 2006
+Energistyrelsen, den 13. oktober 2011
 
 Ib Larsen
 
-/Thomas Bastholm Bille
+/ Thomas Bastholm Bille
