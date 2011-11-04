@@ -2,7 +2,7 @@
 
 Stk. 2. Ved befordring i egen bil eller motorcykel beregnes beløbet for sædvanlige udgifter til rejse på grundlag af satsen, som Skatterådet fastsætter efter § 9 C, stk. 1, i stedet for de faktiske udgifter. For sædvanlige omkostninger til logi, kost og småfornødenheder på studiestedet i udlandet kan satserne i § 9 A, stk. 2, anvendes i stedet for de faktiske udgifter. Standardsatserne i § 9 A, stk. 2, til dækning af omkostninger til kost og småfornødenheder kan kun benyttes i de første 12 måneder af opholdet på studiestedet.
 
-Stk. 3. Legater til dækning af dokumenterede udgifter i forbindelse med studierejsen i udlandet, Færøerne eller Grønland er indkomstskattefri, når de udgifter, der dækkes, er betaling af undervisning, deltagerafgifter og lign., herunder betaling for kurser i studiestedets sprog.
+Stk. 3. Legater til dækning af dokumenterede udgifter i forbindelse med studierejsen i udlandet, Færøerne eller Grønland er indkomstskattefri, når de udgifter, der dækkes, er betaling af undervisning, deltagerafgifter og lign. , herunder betaling for kurser i studiestedets sprog.
 
 Stk. 4. Legater er indkomstskattefri, såfremt de er betinget af, at de anvendes til dækning af omkostninger ved videnskabelige arbejder, herunder en højere uddannelsesinstitutions udgifter til ph.d.-studerendes studier.
 
