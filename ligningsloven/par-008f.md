@@ -1,1 +1,1 @@
-§ 8 F. (Ophævet).
+§ 8 F. Personer, der er skattepligtige efter kildeskattelovens § 1, § 2, stk. 1, nr. 4 eller 5, eller § 5 A, kan kun fradrage renter ved opgørelsen af den skattepligtige indkomst, hvis låntager har afgivet oplysninger om identiteten af långiver efter skattekontrollovens § 7 L, eller hvis lånet er indberetningspligtigt efter andre bestemmelser i skattekontrolloven.
