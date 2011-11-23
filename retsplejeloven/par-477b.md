@@ -14,7 +14,7 @@ Stk. 3. Betalingspåkravet skal indeholde
 
 Stk. 4. Betalingspåkravet skal endvidere indeholde oplysning om,
 
-1) hvorvidt fordringshaveren ønsker betalingspåkravet forkyndt for skyldneren, såfremt udlæg er udelukket efter § 490 eller konkurslovens §§ 16, 16 a, 31, 171 eller 207,
+1) hvorvidt fordringshaveren ønsker betalingspåkravet forkyndt for skyldneren, såfremt udlæg er udelukket efter § 490 eller konkurslovens §§ 12 c, 31 eller 207,
 
 2) hvorvidt fordringshaveren ønsker, at udlæg iværksættes uden fornyet anmodning fra fordringshaveren, såfremt skyldneren ikke fremsætter indsigelser, og
 
