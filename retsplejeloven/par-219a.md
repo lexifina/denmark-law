@@ -1,8 +1,8 @@
-§ 219 a. Rettens afgørelser i straffesager træffes snarest muligt, efter at den pågældende forhandling er til ende. Ved sagens optagelse til dom eller kendelse skal retten tilkendegive, hvornår dommen eller kendelsen vil blive afsagt. Kan afsigelsen ikke finde sted samme dag, skal dom eller kendelse dog afsiges senest inden en uge og, hvor nævninge har medvirket, senest dagen efter.
+§ 219 a. Rettens afgørelser i straffesager træffes snarest muligt, efter at den pågældende forhandling er til ende. Ved sagens optagelse til dom eller kendelse skal retten tilkendegive, hvornår dommen eller kendelsen vil blive afsagt. Kan afsigelsen ikke finde sted samme dag, skal dom eller kendelse dog afsiges senest inden en uge og, hvor nævninger har medvirket, senest dagen efter.
 
 Stk. 2. Såfremt særlige omstændigheder gør det påkrævet, kan retten beslutte at fravige de i stk. 1 nævnte frister. I beslutningen skal anføres de omstændigheder, der bevirker, at fristen ikke kan overholdes. Beslutningen kan ikke kæres.
 
-Stk. 3. Dommen afsiges i et retsmøde. Hvis afsigelsen ikke finder sted samme dag, som sagen er optaget til dom, og tiltalte ikke er fængslet, kan dommen dog afsiges uden afholdelse af retsmøde. Afsiges dommen i et retsmøde, oplæses dommens konklusion.
+Stk. 3. Dommen afsiges i et retsmøde. Hvis afsigelsen ikke finder sted samme dag, som sagen er optaget til dom, og tiltalte ikke er fængslet, eller hvis sagen er behandlet efter § 896 a, kan dommen dog afsiges uden afholdelse af retsmøde. Afsiges dommen i et retsmøde, oplæses dommens konklusion.
 
 Stk. 4. Hvis tiltalte er fængslet, bør den pågældende bringes til stede ved dommens afsigelse.
 

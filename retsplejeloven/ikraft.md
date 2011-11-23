@@ -76,16 +76,6 @@ Stk. 2. Retssager, der er under behandling ved lovens ikrafttræden, færdigbeha
 
 Stk. 3. (Udelades)
 
-Lov nr. 537 af 8. juni 2006 (Dommeres bibeskæftigelse) indeholder følgende ikrafttrædelsesbestemmelse:
-
-§ 2
-
-Stk. 1. Loven træder i kraft den 1. januar 2007, jf. dog stk. 2 og 3.
-
-Stk. 2. Indtil den 1. januar 2010 udgør indtægtsbegrænsningen efter retsplejelovens § 47 b, stk. 1, som affattet ved denne lovs § 1, nr. 1, 75 pct. af dommerens løn i hovedstillingen.
-
-Stk. 3. Justitsministeren beskikker første gang offentlighedsrepræsentanter til Bibeskæftigelsesnævnet for henholdsvis 4 og 7 år, jf. retsplejelovens § 47 e, stk. 2 og 3, som affattet ved denne lovs § 1, nr. 1.
-
 Lov nr. 538 af 8. juni 2006 (Politi- og domstolsreform) indeholder følgende ikrafttrædelsesbestemmelser:
 
 § 105
@@ -160,16 +150,6 @@ Stk. 2. Retsplejelovens kapitel 23 a som affattet ved denne lovs § 1, nr. 10, f
 
 Stk. 3. (Udelades)
 
-Lov nr. 518 af 6. juni 2007 (Visse ændringer af regler om forenklet inkassoproces, forbud mod mobiltelefoner m.v. i retslokaler og ophævelse af regler om rettergangsbøder) indeholder følgende ikrafttrædelsesbestemmelse:
-
-§ 4
-
-Stk. 1. Loven træder i kraft den 1. juli 2007.
-
-Stk. 2. Lovens § 1, nr. 7-15, og § 2 finder anvendelse på betalingspåkrav, der indleveres til retten efter lovens ikrafttræden.
-
-Stk. 3. (Udelades)
-
 Lov nr. 520 af 6. juni 2007 (Revision af regler om advokaters virksomhed) indeholder følgende ikrafttrædelsesbestemmelser:
 
 § 2
@@ -238,14 +218,6 @@ Stk. 3. (Udelades)
 
 (Udelades)
 
-Lov nr. 1266 af 16. december 2009 (Dommeruddannelse, transmission af tekst under retsmøder, fri proces i sager om ægteskab eller forældremyndighed og retsafgifter i fogedsager) indeholder følgende ikrafttrædelsesbestemmelse:
-
-§ 4
-
-Stk. 1. Loven træder i kraft den 1. januar 2010, jf. dog stk. 2.
-
-Stk. 2. Retsplejelovens § 130, stk. 1, 2. pkt., som affattet ved § 1, nr. 12, i denne lov og retsplejelovens § 325, stk. 4, 3. pkt., som affattet ved § 1, nr. 14, i denne lov træder i kraft dagen efter bekendtgørelsen i Lovtidende.
-
 Lov nr. 73 af 26. januar 2010 (Omkostningsdækning i forbindelse med forbrugersager ved domstolene) indeholder følgende ikrafttrædelsesbestemmelse:
 
 § 3
@@ -276,14 +248,6 @@ Stk. 4. De hidtidige medlemmer af politiklagenævnene kan færdiggøre sager, de
 
 Stk. 5. Ved den første beskikkelse af medlemmer af Politiklagerådet beskikkes advokaten og repræsentanten udpeget af Kommunernes Landsforening for en periode på 2 år.
 
-Lov nr. 533 af 26. maj 2010 (Tvungen opfølgning efter udskrivning) indeholder følgende ikrafttrædelsesbestemmelse:
-
-§ 3
-
-Stk. 1. Loven træder i kraft den 1. oktober 2010.
-
-Stk. 2. (Udelades)
-
 Lov nr. 536 af 26. maj 2010 (Tredjeinstansbevilling til en del af en sag) indeholder følgende ikrafttrædelsesbestemmelse:
 
 § 4
@@ -291,18 +255,6 @@ Lov nr. 536 af 26. maj 2010 (Tredjeinstansbevilling til en del af en sag) indeho
 Stk. 1. Loven træder i kraft den 1. juli 2010.
 
 Stk. 2. Loven finder anvendelse, når ansøgning om tredjeinstansbevilling indgives til Procesbevillingsnævnet efter lovens ikrafttræden.
-
-Lov nr. 551 af 26. maj 2010 (Styrkelse af indsatsen over for kriminalitetstruede børn og unge) indeholder følgende ikrafttrædelsesbestemmelse:
-
-§ 3
-
-Loven træder i kraft den 1. juli 2010.
-
-Lov nr. 651 af 15. juni 2010 (Skærpelse af straffen for ulovlig tvang i forbindelse med brug af ansigtstildækkende beklædning samt ansigtstildækkende beklædning under vidneforklaring) indeholder følgende ikrafttrædelsesbestemmelse:
-
-§ 3
-
-Loven træder i kraft den 1. juli 2010.
 
 Lov nr. 652 af 15. juni 2010 (Gengivelse af forklaringer i straffesager og justering af landsdommernormering) indeholder følgende ikrafttrædelsesbestemmelse:
 
@@ -312,22 +264,88 @@ Stk. 1. Loven træder i kraft den 1. juli 2010.
 
 Stk. 2. Lydoptagelser foretaget i medfør af retsplejelovens § 33 a slettes 1 år efter sagens endelige afgørelse.
 
-Lov nr. 708 af 25. juni 2010 (Betænkningstid forud for tvangsbehandling, oppegående tvangsfiksering på Sikringsafdelingen, udvidet eksternt tilsyn med tvangsfikseringer m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
-
-§ 3
-
-Loven træder i kraft den 1. oktober 2010.
-
-Lov nr. 711 af 25. juni 2010 (Ungdomskriminalitet) indeholder følgende ikrafttrædelsesbestemmelse:
-
-§ 4
-
-Loven træder i kraft den 1. juli 2010.
-
 Lov nr. 715 af 25. juni 2010 (Udveksling af oplysninger om dna-profiler, fingeraftryk og køretøjer med stater uden for Den Europæiske Union) indeholder følgende ikrafttrædelsesbestemmelse:
 
 § 5
 
 Justitsministeren fastsætter tidspunktet for lovens ikrafttræden og kan herunder fastsætte, at lovens §§ 1-4 træder i kraft på forskellige tidspunkter.
 
-INDHOLDSFORTEGNELSE Første bog. Domsmagten m.m. Første afsnit. Domstolenes ordning Kap. 1. Retterne §§ 1-20 b Kap. 1 a. Procesbevillingsnævnet §§ 22-27 Kap. 2. Retsmøder §§ 28-32 d Kap. 3. Retsbøger og sagens dokumenter §§ 33-39 Kap. 3 a. Aktindsigt §§ 41-41 g Kap. 4. Dommere, fuldmægtige m.m. §§ 42-59 Kap. 5. Tilfælde, hvor rettens personer skal eller kan vige deres sæde §§ 60-67 Andet afsnit. Nævningers og domsmænds udtagelse Kap. 6. Almindelige bestemmelser §§ 68-71 Kap. 7. Grundlister §§ 72-73 Kap. 8. Nævninge- og domsmandslister §§ 74-78 Kap. 9. Udtagelse af nævninger for de enkelte sager §§ 79-87 Kap. 9 a. Udtagelse af domsmænd for de enkelte sager §§ 88-91 Tredje afsnit. Udtagelse af sagkyndige retsmedlemmer Kap. 9 b. §§ 92-94 Fjerde afsnit. Anklagemyndigheden Kap. 10. Anklagemyndigheden §§ 95-107 Femte afsnit. Politimyndigheden Kap. 11. §§ 108-117 Sjette afsnit. Advokater Kap. 12. Beskikkelse som advokat - Udøvelse af advokatvirksomhed §§ 119-130 a Kap. 13. Advokaternes møderet for domstolene - Autoriserede advokatfuldmægtige §§ 131-136 Kap. 14. Ophør af retten til at udøve advokatvirksomhed §§ 137-142 Kap. 15. Advokatsamfundet og Advokatnævnet §§ 143-145 a Kap. 15 a. Salærklager §§ 146-147 a Kap. 15 b. Disciplinærsager §§ 147 b-147 f Anden bog. Fælles bestemmelser for borgerlige sager og straffesager Kap. 16. Almindelige bestemmelser om procesmåden §§ 148-152 a Kap. 17. Forkyndelser m.v. §§ 153-165 Kap. 18. Vidner §§ 168-193 Kap. 19. Syn og skøn §§ 196-211 Kap. 20. Rettens rådslagninger og afgørelser §§ 214-223 b Tredje bog. Den borgerlige retspleje Første afsnit. Almindelige bestemmelser Kap. 21. Saglig kompetence §§ 224-232 Kap. 22. Stedlig kompetence §§ 235-248 Kap. 23. Sammenlægning og adskillelse af krav §§ 249-254 Kap. 23 a. Gruppesøgsmål §§ 254 a-254 k Kap. 24. Sagens parter §§ 255-259 Kap. 25. Rettergangsfuldmægtige §§ 260-267 d Kap. 26. Forligsmægling §§ 268-270 Kap. 27. Retsmægling §§ 271-279 Kap. 28. Om parternes og tredjemands forpligtelse til at fremlægge synbare bevismidler §§ 297-301 Kap. 29. Afhøring af parter §§ 302-305 Kap. 29 a. Oplysningspligt ved krænkelse af immaterialrettigheder m.v. §§ 306-307 Kap. 30. Sagsomkostninger §§ 311-322 Kap. 31. Retshjælp og fri proces §§ 323-336 Andet afsnit. Rettergangsmåden Kap. 32. Almindelige bestemmelser §§ 337-347 Kap. 33. Sagsforberedelse i 1. instans §§ 348-361 Kap. 34. Hovedforhandling i 1. instans §§ 362-366 Kap. 35. Genoptagelse § 367 Kap. 36. Anke §§ 368-388 Kap. 37. Kære §§ 389-398 a Kap. 38. Ekstraordinær genoptagelse og anke § 399 Kap. 39. Behandling af sager om mindre krav §§ 400-410 Kap. 40-41. (Ophævet) Kap. 42. Sager om ægteskab eller forældremyndighed §§ 448-456 Kap. 42 a. Faderskabssager §§ 456 a-456 o Kap. 43. Værgemålssager §§ 457-466 Kap. 43 a. Prøvelse af administrativt bestemt frihedsberøvelse §§ 468-475 Kap. 43 b. Prøvelse af beslutning om adoption uden samtykke §§ 475 a-475 i Kap. 44. Fremgangsmåden ved at erhverve mortifikations- eller ejendomsdom §§ 476-477 Tredje afsnit. Betalingspåkrav Kap. 44 a. §§ 477 a-477 g Fjerde afsnit. Tvangsfuldbyrdelse Kap. 45. Grundlaget for tvangsfuldbyrdelse §§ 478-486 Kap. 46. Fremgangsmåden ved udlæg og tvangsfuldbyrdelse af andre krav end pengekrav §§ 487-506 Kap. 47. Udlæggets genstand og retsvirkninger §§ 507-526 Kap. 48. Særregler om tvangsfuldbyrdelse af andre krav end pengekrav §§ 528-535 Kap. 48 a. Særregler om tvangsfuldbyrdelse af forældremyndighed, barnets bopæl og samvær §§ 536-537 Kap. 49. Almindelige bestemmelser for tvangsauktion §§ 538-543 Kap. 50. Tvangsauktion over løsøre §§ 544-559 c Kap. 51. Tvangsauktion over fast ejendom §§ 560-582 Kap. 52. Tvister under tvangsauktionen § 583 Kap. 53. Appel af fogedrettens afgørelser §§ 584-587 Kap. 54. Brugeligt pant §§ 588-595 Kap. 55. Umiddelbare fogedforretninger §§ 596-600 Femte afsnit. De foreløbige retsmidler Kap. 56. Arrest §§ 627-640 Kap. 57. Forbud §§ 641-652 Kap. 57 a. Bevissikring ved krænkelse af immaterialrettigheder m.v. §§ 653-653 d Sjette afsnit. Skifte af fællesbo m.v. Kap. 58. Skifte af fællesbo m.v. §§ 654-665 Kap. 59-60. (Ophævet) Fjerde bog. Strafferetsplejen Første afsnit. Almindelige bestemmelser Kap. 61. Strafferetsplejens område §§ 683-685 Kap. 62. Saglig kompetence §§ 686-691 Kap. 63. Værneting og forening af straffesager §§ 694-709 Kap. 64. Gengivelse af forklaringer §§ 710-714 Kap. 65. Påtalen §§ 718-728 Kap. 66. Sigtede og hans forsvar §§ 729-741 Kap. 66 a. Forurettede §§ 741 a-741 f Andet afsnit. Efterforskning, tvangsindgreb m.v. Kap. 67. Almindelige bestemmelser om efterforskning §§ 742-749 Kap. 68. Afhøringer og særlige efterforskningsskridt §§ 750-754 e Kap. 69. Anholdelse §§ 755-761 Kap. 70. Varetægtsfængsling §§ 762-778 Kap. 71. Indgreb i meddelelseshemmeligheden, observation, dataaflæsning og forstyrrelse eller afbrydelse af radio- eller telekommunikation §§ 780-791 c Kap. 72. Legemsindgreb §§ 792-792 f Kap. 73. Ransagning §§ 793-800 Kap. 74. Beslaglæggelse og edition §§ 801-807 d Kap. 75. Personundersøgelser §§ 808-811 Kap. 75 a. Andre efterforskningsskridt §§ 812-819 Kap. 75 b. Indgreb over for personer under 14 år §§ 821 a-821 g Tredje afsnit. Tiltale og hovedforhandling i 1. instans Kap. 76. Tilståelsessager §§ 831-832 Kap. 77. Tiltale og forberedelse af hovedforhandling i 1. instans §§ 833-850 Kap. 78. Hovedforhandling i 1. instans §§ 851-885 Kap. 79. Nævningesager §§ 886-894 Kap. 80. Straffesager, i hvilke der ikke medvirker lægdommere §§ 895-900 Kap. 81. (Ophævet) Fjerde afsnit. (Ophævet) Femte afsnit. Retsmidler mod trufne afgørelser Kap. 82. Anke til landsretten §§ 901-931 Kap. 83. Anke til Højesteret §§ 932-937 Kap. 84. (Ophævet) Kap. 85. Kære til højere ret §§ 968-974 Kap. 86. Genoptagelse §§ 975-988 Sjette afsnit. Regler om behandlingen af private straffesager og om forfølgning af borgerlige krav under straffesager Kap. 87. (Ophævet) Kap. 88. Regler om behandlingen af private straffesager §§ 989-990 Kap. 89. Påtale af borgerlige krav under straffesager §§ 991-996 a Syvende afsnit. Fuldbyrdelsen af domme i straffesager Kap. 90. §§ 997-1006 Ottende afsnit. Sagsomkostninger m.v. i straffesager Kap. 91. Sagsomkostninger §§ 1007-1014 a Kap. 92. Offentlig omtale m.v. af straffesager §§ 1016 a-1017 d Niende afsnit. Kap. 93. Særlige bestemmelser om nogle forhør m.m. § 1018 Tiende afsnit. Kap. 93 a. Erstatning i anledning af strafferetlig forfølgning §§ 1018 a-1018 h Kap. 93 b. Behandling af klager over politipersonalet §§ 1019-1019 m Kap. 93 c. Straffesager mod politipersonale §§ 1020-1020 i Kap. 93 d. Politiklagenævn §§ 1021-1021 h Femte bog. Slutnings- og overgangsbestemmelser Kap. 94. Slutningsbestemmelser §§ 1022-1023 a Kap. 95. Overgangsbestemmelser (Udeladt) §§ 1024-1043
+Lov nr. 718 af 25. juni 2010 (Rekonstruktion m.v.) indeholder følgende ikrafttrædelsesbestemmelser:
+
+§ 55
+
+Stk. 1. Justitsministeren fastsætter tidspunktet for lovens ikrafttræden.
+
+Stk. 2. En anmeldelse af betalingsstandsning eller udsættelse af afgørelsen om konkurs i medfør af konkurslovens § 24 inden lovens ikrafttræden bevarer sine virkninger efter lovens ikrafttræden. Uanset 1. pkt. kan en betalingsstandsning eller en udsættelse af afgørelsen om konkurs ikke forlænges efter lovens ikrafttræden.
+
+Stk. 3. Begæringer om åbning af tvangsakkordforhandling, der er indgivet til skifteretten før lovens ikrafttræden, færdigbehandles efter de hidtil gældende regler.
+
+Stk. 4. Begæring om rekonstruktionsbehandling kan ikke indgives af en fordringshaver, hvis skyldneren har anmeldt betalingsstandsning, afgørelsen om konkurs er udsat i medfør af konkurslovens § 24 i den hidtil gældende affattelse eller skyldneren har indgivet begæring om tvangsakkordforhandling.
+
+Stk. 5. Ophører en betalingsstandsning, regnes dagen for anmeldelsen dog som fristdag, hvis skifteretten inden 3 uger efter ophøret modtager begæring om rekonstruktionsbehandling, konkurs eller gældssanering. Fører en begæring om akkordforhandling ikke til stadfæstelse af tvangsakkord, regnes dagen for begæringens modtagelse dog som fristdag, hvis skifteretten, inden 3 uger efter at begæringen om akkordforhandling blev tilbagekaldt eller forkastet eller akkordforhandling ophørte, modtager begæring om rekonstruktionsbehandling, konkurs eller gældssanering.
+
+Stk. 6. Konkurslovens § 10 a, stk. 3, nr. 3, § 98, nr. 1, og § 200, stk. 1, nr. 3, som affattet ved denne lovs § 1, nr. 11, 25 og 32, finder anvendelse, når fristdagen ligger efter lovens ikrafttræden.
+
+Stk. 7. Konkurslovens § 10 a, stk. 3, nr. 5, som indsat ved denne lovs § 1, nr. 11, finder alene anvendelse for aftaler, der indgås efter lovens ikrafttræden.
+
+Stk. 8. Afbrydelse af forældelse kan ske efter de hidtil gældende bestemmelser i forældelseslovens §§ 17 og 20, hvis begæring om åbning af tvangsakkordforhandling er indgivet inden lovens ikrafttræden.
+
+Stk. 9. Tinglysningslovens § 47 f, stk. 4, i den hidtil gældende affattelse finder også anvendelse efter lovens ikrafttræden. Tinglysningslovens § 47 f, stk. 2, 1. pkt., som affattet ved denne lovs § 5, nr. 2, gælder endvidere ikke, hvis pantsætteren ved indledningen af rekonstruktionsbehandling er undergivet reglerne i konkurslovens kapitel 2 i den hidtil gældende affattelse, eller hvis der er åbnet tvangsakkordforhandling. Tinglysningslovens § 47 f, stk. 3, 1. pkt., gælder endvidere ikke, hvis pantsætteren ved indledningen af gældssaneringssag er undergivet reglerne i konkurslovens kapitel 2 i den hidtil gældende affattelse, eller hvis der er åbnet tvangsakkordforhandling.
+
+Stk. 10. Straffelovens § 283, stk. 1, nr. 2, § 300, nr. 3, og § 304, stk. 2, som affattet ved denne lovs § 11, nr. 1, 3 og 4, finder tilsvarende anvendelse på forhandling om tvangsakkord.
+
+Lov nr. 1549 af 21. december 2010 (Skærpede straffe for hæleri og etablering af tæt samarbejde om udveksling af oplysninger mellem kriminalforsorgen, de sociale myndigheder og politiet i forbindelse med dømtes løsladelse (KSP-samarbejdet) indeholder følgende ikrafttrædelsesbestemmelser:
+
+§ 3
+
+Stk. 1. § 1 træder i kraft den 1. januar 2011.
+
+Stk. 2. § 2 træder i kraft den 1. april 2011.
+
+Lov nr. 1552 af 21. december 2010 (Sporing af skjult udbytte og andre aktiviteter, forældelse af konfiskationskrav, hemmelig beslaglæggelse m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 3
+
+Stk. 1. Loven træder i kraft den 1. januar 2011.
+
+Stk. 2. Den i § 1 nævnte bestemmelse i straffelovens § 97 a, stk. 1, gælder også for lovovertrædelser, der er begået, og retsfølger, der er pålagt før lovens ikrafttræden. Bestemmelsen finder dog ikke anvendelse i tilfælde, hvor forældelse efter de hidtil gældende regler er indtrådt før lovens ikrafttræden.
+
+Lov nr. 292 af 11. april 2011 (Udvidet adgang til at anvende anonyme vidner) indeholder følgende ikrafttrædelsesbestemmelser:
+
+§ 2
+
+Stk. 1. Loven træder i kraft den 1. maj 2011.
+
+Stk. 2. Loven finder anvendelse i sager, som ikke er endeligt afgjort ved lovens ikrafttræden.
+
+Lov nr. 411 af 9. maj 2011 (Forenkling af bødesagsprocessen) indeholder følgende ikrafttrædelsesbestemmelser:
+
+§ 2
+
+Loven træder i kraft den 1. september 2011.
+
+Lov nr. 412 af 9. maj 2011 (Underretning ved udgang og løsladelse m.v. og udvidelse af fristen for politianmeldelse ved erstatning fra staten til ofre for forbrydelser) indeholder følgende ikrafttrædelsesbestemmelser:
+
+§ 3
+
+Stk. 1. Loven træder i kraft den 1. juli 2011
+
+Stk. 2. Lovens § 1 finder anvendelse på overtrædelser, der begås efter lovens ikrafttræden.
+
+Stk. 3. (Udelades)
+
+Lov nr. 594 af 14. juni 2011 om ægtefælleskifte m.v. indeholder følgende ikrafttrædelsesbestemmelser:
+
+§ 86. Loven træder i kraft den 1. marts 2012. §§ 70 og 71 træder dog i kraft efter justitsministerens nærmere bestemmelse.
+
+Stk. 2. Lov om skifte af fællesbo m.v., jf. lovbekendtgørelse nr. 725 af 23. oktober 1986, ophæves den 1. marts 2012.
+
+§ 87. Sager, der er indbragt for skifteretten eller de almindelige domstole inden lovens ikrafttræden, færdigbehandles efter de hidtil gældende regler.
+
+Stk. 2. Er der indgivet anmodning om separation eller skilsmisse til statsforvaltningen eller anlagt sag om ægteskabets omstødelse før lovens ikrafttræden, anvendes de hidtil gældende regler i stedet for §§ 50, 51 og 67, og § 42 i lov om ægteskabs indgåelse og opløsning anvendes i den hidtil gældende affattelse.
+
+Lov nr. 614 af 14. juni 2011 (Forhøjelse af beløbsgrænse for den forenklede inkassoproces m.v.) indeholder følgende ikrafttrædelsesbestemmelser:
+
+§ 3
+
+Loven træder i kraft den 1. oktober 2011.
