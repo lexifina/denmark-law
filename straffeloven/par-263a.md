@@ -8,4 +8,4 @@ Stk. 3. På samme måde straffes den, der uretmæssigt skaffer sig eller videreg
 
 2) et informationssystem, der behandler følsomme oplysninger, som er omfattet af § 7, stk. 1, eller § 8, stk. 1, i lov om behandling af personoplysninger, om flere personers personlige forhold.
 
-Stk. 4. Sker den i stk. 1-3 nævnte videregivelse m.v. under særligt skærpende omstændigheder, er straffen fængsel indtil 6 år. Som særligt skærpende omstændigheder anses navnlig tilfælde, hvor videregivelsen m.v. sker i særlig stort omfang eller indebærer særlig risiko for betydelig skade.
+Stk. 4. Sker den i stk. 1-3 nævnte videregivelse m.v. under særligt skærpende omstændigheder, er straffen fængsel indtil 6 år. Som særligt skærpende omstændigheder anses navnlig tilfælde, hvor videregivelsen m.v. sker i særligt stort omfang eller indebærer særlig risiko for betydelig skade.

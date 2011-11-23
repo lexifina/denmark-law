@@ -2,4 +2,4 @@
 
 Stk. 2. Ved falske elektroniske penge forstås midler, der uden at være ægte elektroniske penge er egnede til at blive brugt som sådanne.
 
-Stk. 3. Straffen kan stige til fængsel i 6 år, hvis handlingen er af særlig grov beskaffenhed, herunder navnlig på grund af den måde, den er udført på, eller på grund af beløbets størrelse.
+Stk. 3. Straffen kan stige til fængsel i 6 år, hvis handlingen er af særligt grov beskaffenhed, herunder navnlig på grund af den måde, den er udført på, eller på grund af beløbets størrelse.

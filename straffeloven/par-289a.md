@@ -4,4 +4,4 @@ Stk. 2. På samme måde straffes den, der uretmæssigt udnytter en lovligt opnå
 
 Stk. 3. Bestemmelserne i stk. 1 og 2 finder kun anvendelse, hvor anden lovgivning ikke indeholder en tilsvarende regulering.
 
-Stk. 4. Overtrædelser af stk. 1 eller stk. 2 af særlig grov karakter straffes efter § 289.
+Stk. 4. Overtrædelser af stk. 1 eller stk. 2 af særligt grov karakter straffes efter § 289.
