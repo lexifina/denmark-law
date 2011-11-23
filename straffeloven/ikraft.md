@@ -95,3 +95,31 @@ Stk. 1. Justitsministeren fastsætter tidspunktet for lovens ikrafttræden.
 Stk. 2-9. (Udelades)
 
 Stk. 10. Straffelovens § 283, stk. 1, nr. 2, § 300, nr. 3, og § 304, stk. 2, som affattet ved denne lovs § 11, nr. 1, 3 og 4, finder tilsvarende anvendelse på forhandling om tvangsakkord.
+
+Lov nr. 1549 af 21. december 2010 (Skærpede straffe for hæleri og etablering af tæt samarbejde om udveksling af oplysninger mellem kriminalforsorgen, de sociale myndigheder og politiet i forbindelse med dømtes løsladelse (KSP-samarbejdet) indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 3
+
+Stk. 1. § 1 træder i kraft den 1. januar 2011.
+
+Stk. 2. (Udelades)
+
+Lov nr. 1552 af 21. december 2010 (Sporing af skjult udbytte og andre aktiver, forældelse af konfiskationskrav, hemmelig beslaglæggelse m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 3
+
+Stk. 1. Loven træder i kraft den 1. januar 2011.
+
+Stk. 2. Den i § 1 nævnte bestemmelse i straffelovens § 97 a, stk. 1, gælder også for lovovertrædelser, der er begået, og retsfølger, der er pålagt før lovens ikrafttræden. Bestemmelsen finder dog ikke anvendelse i tilfælde, hvor forældelse efter de hidtil gældende regler er indtrådt før lovens ikrafttræden.
+
+Lov nr. 611 af 14. juni 2011 (Udvidelse af »noget for noget-ordningen« om tidlig prøveløsladelse af dømte m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 2
+
+Loven træder i kraft den 1. juli 2011.
+
+Lov nr. 760 af 29. juni 2011 (Skærpede straffe for hjemmerøveri og organiseret indbrudskriminalitet) indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 2
+
+Loven træder i kraft den 1. juli 2011.
