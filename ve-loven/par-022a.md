@@ -1,0 +1,5 @@
+§ 22 a. Klima-, energi- og bygningsministeren kan udpege områder, der reserveres til forsøg og udvikling af havvindmøller. Ministeren kan ved afgørelser om tilladelser efter § 22 og § 25 i sådanne forsøgsområder lægge vægt på særlige kriterier, herunder forsøgs- og udviklingselementer, som opstillingen forventes at indebære, inddragelse af eller medejerskab fra elforbrugere, borgere og foreninger i lokalområdet, samarbejde med kommuner samt demonstrationsværdien af opstillingen. Ministeren kan fastsætte vilkår for de forsøg m.v., der skal udføres, for samarbejdet med de lokale parter, om rapportering af resultaterne samt til de typer af vindmøller, der skal opstilles og afprøves.
+
+Stk. 2. Klima-, energi- og bygningsministerens udpegning efter stk. 1 skal offentliggøres.
+
+Stk. 3. Allerede meddelte tilladelser til opstilling af vindmøller i forsøgsområdet berøres ikke af udpegningen efter stk. 1. Verserende ansøgninger modtaget inden udpegningen bortfalder, og der udmeldes en frist på mindst 8 uger, inden for hvilken der kan indsendes ansøgning om tilladelser i forsøgsområdet.
