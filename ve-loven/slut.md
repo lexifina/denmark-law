@@ -1,5 +1,5 @@
-Givet på Marselisborg Slot, den 27. december 2008
+Energistyrelsen, den 8. november 2011
 
-MARGRETHE R.
+Ib Larsen
 
-/ Connie Hedegaard
+/ Hanne Windemuller
