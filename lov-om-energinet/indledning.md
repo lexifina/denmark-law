@@ -1,3 +1,3 @@
 Bekendtgørelse af lov om Energinet.dk
 
-Herved bekendtgøres lov nr. 1384 af 20. december 2004 om Energinet.dk med de ændringer, der følger af § 4 i lov nr. 520 af 7. juni 2006, § 6 i lov nr. 548 af 6. juni 2007, § 4 i lov nr. 503 af 17. juni 2008 og § 79 i lov nr. 1392 af 27. december 2008.
+Herved bekendtgøres lov om Energinet.dk, jf. lovbekendtgørelse nr. 224 af 16. marts 2009, med de ændringer, der følger af § 15 i lov nr. 516 af 12. juni 2009, § 5 i lov nr. 622 af 11. juni 2010 og § 4 i lov nr. 466 af 18. maj 2011.
