@@ -1,7 +1,5 @@
-Givet på Christiansborg Slot, den 9. juni 2004
+Ministeriet for Fødevarer, Landbrug og Fiskeri, den 30. november 2011
 
-Under Vor Kongelige Hånd og Segl
+Mette Gjerskov
 
-Margrethe R.
-
-/Mariann Fischer Boel
+/ Karen Lorenzen
