@@ -1,5 +1,5 @@
-Ministeriet for Sundhed og Forebyggelse, den 21. januar 2009
+Ministeriet for Sundhed og Forebyggelse, den 7. november 2011
 
-Jakob Axel Nielsen
+Astrid Krag
 
-/ Mogens Jørgensen
+/ Anne Marie Karstoft Hertzum
