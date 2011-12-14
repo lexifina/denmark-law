@@ -1,5 +1,5 @@
-Beskæftigelsesministeriet, den 22. august 2011
+Beskæftigelsesministeriet, den 12. december 2011
 
-Inger Støjberg
+Mette Frederiksen
 
 / Jens Erik Zebis

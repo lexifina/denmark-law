@@ -134,6 +134,18 @@ Stk. 1. Loven træder i kraft den 1. januar 2011.
 
 Stk. 2. Loven har virkning for udgifter til ydelser, der vedrører perioder efter lovens ikrafttræden.
 
+Lov nr. 1599 af 22. december 2010, der ændrer § 6, stk. 1, § 24, stk. 2, nr. 1 og 2, § 30, stk. 1, 1. og 2. pkt., § 40, stk. 1, § 56, stk. 1, 1. pkt., og § 61 (Udvidelse af arbejdsgiverperioden) indeholder følgende ikrafttrædelses- og overgangsbestemmelser:
+
+§ 2
+
+Loven træder i kraft den 2. januar 2012.
+
+§ 3
+
+Stk. 1. Loven finder anvendelse på sygdomstilfælde, hvor 1. fraværsdag er den 2. januar 2012 eller senere.
+
+Stk. 2. Uanset § 24, stk. 2, nr. 1 og 2, i lov om sygedagpenge som affattet ved denne lovs § 1, nr. 1, skal der ved beregningen af sygedagpengeperioden efter § 24, stk. 1, eller § 25, stk. 1, i lov om sygedagpenge, ikke medregnes de dage, der ligger før den 2. januar 2012, og for hvilke der er udbetalt sygedagpenge eller løn fra arbejdsgiveren i de første 21 kalenderdage af sygefraværsperioden eller udbetalt sygedagpenge fra kommunen i de første 21 kalenderdage af sygefraværsperioden for lønmodtagere.
+
 Lov nr. 279 af 6. april 2011, der ændrer § 11, stk. 2, § 13, stk. 4, § 13, stk. 6, og § 15, stk. 7 samt indsætter § 15 a (Større fleksibilitet i opfølgning og indsats over for sygedagpengemodtagere) indeholder følgende ikrafttrædelsesbestemmelse:
 
 § 2
