@@ -1,1 +1,1 @@
-§ 53 c. (Ophævet)
+§ 53 c. Ved anmeldelser omfattet af artikel 18 i Europa-Parlamentets og Rådets direktiv om havnestatskontrol, som vedrører forhold omfattet af denne lov eller regler udstedt i medfør heraf, må anmelders identitet ikke videregives til skibets fører, reder eller andre. Den, der som tilsynsmyndighed fører samtaler med besætningsmedlemmer, skal sikre fortrolig behandling heraf.
