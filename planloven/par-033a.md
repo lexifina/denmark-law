@@ -2,7 +2,7 @@
 
 ## Lokal Agenda 21
 
-§ 33 a. Regionsråd og kommunalbestyrelser skal inden udgangen af den første halvdel af den kommunale og regionale valgperiode offentliggøre en redegørelse for deres strategi for regionens henholdsvis kommunens bidrag til en bæredygtig udvikling i det 21. århundrede med oplysninger om, hvordan der skal arbejdes helhedsorienteret, tværfagligt og langsigtet, og hvordan befolkningen, virksomheder, organisationer og foreninger vil blive inddraget i arbejdet (lokal Agenda 21).
+§ 33 a. Regionsråd og kommunalbestyrelser skal inden udgangen af den første halvdel af den kommunale og regionale valgperiode offentliggøre en redegørelse for deres strategi for regionens henholdsvis kommunens bidrag til en bæredygtig udvikling i det 21. århundrede med oplysninger om, hvordan der skal arbejdes helhedsorienteret, tværfagligt og langsigtet, og hvordan befolkningen, virksomheder, organisationer og foreninger vil blive inddraget i arbejdet (lokal Agenda 21). Offentliggørelse kan ske udelukkende digitalt.
 
 Stk. 2. Strategien skal for regionsrådets vedkommende indeholde regionsrådets politiske målsætninger for det fremtidige arbejde inden for følgende indsatsområder:
 

@@ -1,1 +1,1 @@
-§ 2 a. Miljøministeren offentliggør hvert fjerde år en oversigt over statslige interesser i kommuneplanlægningen, herunder de interesser, der er fastlagt i medfør af denne lov og lovgivningen i øvrigt.
+§ 2 a. Miljøministeren offentliggør hvert fjerde år en oversigt over statslige interesser i kommuneplanlægningen, herunder de interesser, der er fastlagt i medfør af denne lov og lovgivningen i øvrigt. Offentliggørelse kan ske udelukkende digitalt.

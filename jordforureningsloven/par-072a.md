@@ -12,4 +12,4 @@ Stk. 6. Ejere skal underrette lejere om påbud eller regler, jf. stk. 3 og 4.
 
 Stk. 7. Regler udstedt i medfør af stk. 4 skal indeholde bestemmelser om, at kommunalbestyrelsen kan dispensere, såfremt ejeren dokumenterer, at der ikke er behov for de pålagte foranstaltninger.
 
-Stk. 8. Miljøministeren kan fastsætte regler om samarbejdet mellem kommunalbestyrelsen og regionsrådet efter stk. 1 samt regler om indholdet af lokale regler efter stk. 4 og om offentliggørelse heraf.
+Stk. 8. Miljø- og fødevareministeren kan fastsætte regler om samarbejdet mellem kommunalbestyrelsen og regionsrådet efter stk. 1 samt regler om indholdet af lokale regler efter stk. 4 og om offentliggørelse heraf, herunder om, at offentliggørelse kan ske udelukkende digitalt.
