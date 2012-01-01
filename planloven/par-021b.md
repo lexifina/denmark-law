@@ -1,8 +1,8 @@
 ## Kapitel 5 a
 
-## Udbygningsaftaler om infrastruktur
+## Aftaler om udbygning af infrastruktur samt betaling for visse kommuneplantillæg og lokalplaner
 
-§ 21 b. På opfordring fra en grundejer kan kommunalbestyrelsen indgå en udbygningsaftale med grundejeren for områder, der i kommuneplanen er udlagt til byzone, jf. § 11 a, nr. 1.
+§ 21 b. På opfordring fra en grundejer kan kommunalbestyrelsen indgå en udbygningsaftale med grundejeren for områder, der i kommuneplanen er udlagt til byzone eller sommerhusområde, jf. § 11 a, nr. 1, samt for områder i landzone.
 
 Stk. 2. Udbygningsaftaler kan indgås med henblik på at
 
@@ -12,8 +12,8 @@ Stk. 2. Udbygningsaftaler kan indgås med henblik på at
 
 3) ændre eller udvide de byggemuligheder, der fremgår af kommuneplanens rammebestemmelser eller lokalplanen for det pågældende område, på betingelse af, at grundejeren kun skal bidrage til at finansiere infrastrukturanlæg, som det ikke vil påhvile kommunen at etablere.
 
-Stk. 3. Udbygningsaftalen kan kun indeholde bestemmelser om, at grundejeren helt eller delvis skal udføre eller afholde udgifterne til de fysiske infrastrukturanlæg, som skal etableres i eller uden for området for at virkeliggøre planlægningen. Aftalen kan endvidere bestemme, at omkostningerne til udarbejdelse af kommuneplantillæg og lokalplan afholdes af grundejeren.
+Stk. 3. Udbygningsaftalen kan kun indeholde bestemmelser om, at grundejeren helt eller delvis skal udføre eller afholde udgifterne til de fysiske infrastrukturanlæg, som skal etableres i eller uden for området for at virkeliggøre planlægningen.
 
-Stk. 4. Oplysning om, at der foreligger et udkast til udbygningsaftale, skal offentliggøres samtidig med offentliggørelsen efter § 24 af forslag til kommuneplantillæg og lokalplan. § 26, stk. 1, finder tilsvarende anvendelse for oplysningerne om udkastet til udbygningsaftale.
+Stk. 4. Oplysning om, at der foreligger et udkast til udbygningsaftale, skal offentliggøres samtidig med offentliggørelsen efter § 24 af forslag til kommuneplantillæg og lokalplan. Offentliggørelse kan ske udelukkende digitalt. § 26, stk. 1, finder tilsvarende anvendelse for oplysningerne om udkastet til udbygningsaftale.
 
-Stk. 5. Kommunalbestyrelsens indgåelse af udbygningsaftalen skal vedtages samtidig med lokalplanens endelige vedtagelse, og oplysning om aftalens indgåelse skal offentligt bekendtgøres. Oplysninger om udbygningsaftalen skal være offentligt tilgængelig. § 31, stk. 1, finder tilsvarende anvendelse for udbygningsaftalen.
+Stk. 5. Kommunalbestyrelsens indgåelse af udbygningsaftalen skal vedtages samtidig med lokalplanens endelige vedtagelse, og oplysning om aftalens indgåelse skal offentligt bekendtgøres. Oplysninger om udbygningsaftalen skal være offentligt tilgængelig. Offentlig bekendtgørelse kan ske udelukkende digitalt. § 31, stk. 1, finder tilsvarende anvendelse for udbygningsaftalen.

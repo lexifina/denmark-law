@@ -4,6 +4,6 @@ Stk. 2. Afgørelse om, at der foreligger en miljøskade, kan ikke træffes, hvis
 
 Stk. 3. Afgørelse om, at der foreligger en overhængende fare for en miljøskade, kan ikke træffes, hvis den ansvarlige for den overhængende fare for en miljøskade kan godtgøre, at der foreligger forhold som nævnt i § 25 d, stk. 1, nr. 1 eller 2.
 
-Stk. 4. Tilsynsmyndigheden offentliggør afgørelsen.
+Stk. 4. Tilsynsmyndigheden offentliggør afgørelsen. Offentliggørelse kan ske udelukkende digitalt.
 
-Stk. 5. Miljøministeren kan fastsætte regler om offentliggørelse.
+Stk. 5. Miljø- og fødevareministeren kan fastsætte regler om offentliggørelse.

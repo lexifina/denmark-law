@@ -1,5 +1,5 @@
-§ 9 a. Miljøministeren hører berørte myndigheder og organisationer i spørgsmål om godkendelse af genetisk modificerede organismer til udsætning.
+§ 9 a. Miljø- og fødevareministeren hører berørte myndigheder og organisationer i spørgsmål om godkendelse af genetisk modificerede organismer til udsætning.
 
-Stk. 2. Ministeren hører offentligheden, inden der træffes afgørelse efter § 9. Ministeren fastsætter de nærmere regler herom.
+Stk. 2. Ministeren hører offentligheden, inden der træffes afgørelse efter § 9. Ministeren fastsætter nærmere regler om høring af offentligheden, herunder om, at høring kan ske udelukkende digitalt.
 
 Stk. 3. Ministeren informerer offentligheden om godkendelser efter § 9, om afgørelser efter § 17, stk. 5, samt i tilfælde, hvor nye oplysninger efter § 15, stk. 2, fører til ændringer i godkendelsen efter § 9. Ministeren fastsætter de nødvendige regler herfor, herunder om oprettelse af et register over udsætninger af genetisk modificerede organismer.

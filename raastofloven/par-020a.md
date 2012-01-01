@@ -6,4 +6,4 @@ Stk. 3. Miljøministeren kan, for så vidt angår indvinding i områder med en v
 
 Stk. 4. Det påhviler ansøgeren til en tilladelse efter § 20 at foretage de fornødne undersøgelser og miljømæssige vurderinger.
 
-Stk. 5. Miljøministeren fastsætter nærmere regler om meddelelse af tilladelse efter § 20, herunder om betingelser for og afholdelse af auktion og overbud, kriterier i forbindelse med auktion, tidsbegrænsning, eneret og fortrolig behandling af efterforsknings- og undersøgelsesdata og om tilladelsesordningen i øvrigt.
+Stk. 5. Miljøministeren fastsætter nærmere regler om meddelelse af tilladelse efter § 20, herunder om betingelser for og afholdelse af auktion og overbud, kriterier i forbindelse med auktion, tidsbegrænsning, eneret og fortrolig behandling af efterforsknings- og undersøgelsesdata, offentlig indkaldelse af ansøgninger efter § 20, stk. 2, nr. 1, herunder om, at indkaldelse kan ske udelukkende ved digital annoncering, og om tilladelsesordningen i øvrigt.

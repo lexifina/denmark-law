@@ -2,7 +2,7 @@
 
 ## Regler om tilvejebringelse
 
-§ 27 a. Forud for udarbejdelse og revision af vandplanen indkalder miljøministeren ved offentlig annoncering og med en frist på mindst seks måneder forslag m.v. Samtidig offentliggøres resumé af basisanalysen, arbejdsprogram med tidsplan og udkast til oversigt over de væsentlige vandforvaltningsmæssige opgaver, som skal løses.
+§ 27 a. Forud for udarbejdelse og revision af vandplanen indkalder miljø- og fødevareministeren ved offentlig annoncering og med en frist på mindst seks måneder forslag m.v. Offentlig annoncering kan ske udelukkende digitalt. Samtidig offentliggøres resumé af basisanalysen, arbejdsprogram med tidsplan og udkast til oversigt over de væsentlige vandforvaltningsmæssige opgaver, som skal løses.
 
 Stk. 2. Ministeren fremsender de indkomne forslag m.v. til regionsrådet, som koordinerer forslag m.v. fra kommunalbestyrelserne i regionen. De koordinerede forslag sendes til ministeren inden otte uger efter modtagelsen.
 
