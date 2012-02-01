@@ -1,1 +1,1 @@
-§ 74 a. Henlægger økonomi- og erhvervsministeren sine beføjelser efter loven til Patent- og Varemærkestyrelsen, kan ministeren fastsætte regler om klageadgangen, herunder at klager ikke kan indbringes for højere administrativ myndighed.
+§ 74 a. Henlægger erhvervs- og vækstministeren sine beføjelser efter loven til Patent- og Varemærkestyrelsen, kan ministeren fastsætte regler om klageadgangen, herunder at klager ikke kan indbringes for højere administrativ myndighed.

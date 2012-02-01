@@ -1,5 +1,5 @@
-Økonomi- og Erhvervsministeriet, den 28. januar 2009
+Erhvervs- og Vækstministeriet, den 24. januar 2012
 
-Lene Espersen
+Ole Sohn
 
 / Jesper Kongstad
