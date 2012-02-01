@@ -1,0 +1,3 @@
+1) Denne lovbekendtgørelse indeholder bemærkninger om ikrafttrædelses- og overgangsbestemmelser, der er vedtaget i folketingsåret 2011/2012. Ikrafttrædelses- og overgangsbestemmelser for tidligere vedtagne ændringer af lov om hemmelige patenter findes i lovbekendtgørelse nr. 732 af 27. november 1989. Den nedenfor angivne ændring som følge af lov nr. 1370 af 28. december 2011 om ændring af patentloven og forskellige andre love gælder ikke for Færøerne og Grønland, men kan ved kongelig anordning sættes i kraft for Færøerne og Grønland med de ændringer, som de færøske og grønlandske forhold tilsiger.
+
+2) § 11, stk. 1 i den her anførte affattelse trådte i kraft den 1. februar 2012, jf. lov nr. 1370 af 28. december 2011.
