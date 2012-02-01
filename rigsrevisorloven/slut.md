@@ -1,5 +1,5 @@
-Finansministeriet, den 7. januar 1997
+Finansministeriet, den 19. januar 2012
 
-Mogens Lykketoft
+Bjarne Corydon
 
-Ingen
+/ Mogens Pedersen
