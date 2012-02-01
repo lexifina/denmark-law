@@ -1,3 +1,3 @@
 Bekendtgørelse af lov om brugsmodeller
 
-Herved bekendtgøres lov om brugsmodeller, jf. lov nr. 1431 af 21. december 2005 med de ændringer, der følger af § 34 i lov nr. 538 af 8. juni 2006 og § 4 i lov nr. 1404 af 27. december 2008.
+Herved bekendtgøres lov om brugsmodeller, jf. lovbekendtgørelse nr. 88 af 28. januar 2009 med de ændringer, der følger af § 4 i lov nr. 1370 af 28. december 2011.
