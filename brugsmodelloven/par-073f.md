@@ -1,0 +1,5 @@
+§ 73 f. Gebyrer indbetalt i henhold til §§ 73 a-73 e tilbagebetales ikke, når betalingen er foretaget rettidigt.
+
+Stk. 2. Gebyrer, der ikke er betalt i rette tid, eller som ved fristens udløb er betalt med utilstrækkeligt beløb med den følge, at betalingen ikke kan godkendes, tilbagebetales.
+
+Stk. 3. Afviser Patent- og Varemærkestyrelsen den behandling, der er betalt for, vil der ske tilbagebetaling af gebyrer indbetalt i forbindelse med behandlingen.
