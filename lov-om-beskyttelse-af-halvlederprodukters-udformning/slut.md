@@ -1,13 +1,5 @@
-Givet på Christiansborg Slot, den 9. december 1987
+Erhvervs- og Vækstministeriet, den 24. januar 2012
 
-Under Vor Kongelige Hånd og Segl
+Ole Sohn
 
-I Dronningens Navn:
-
-FREDERIK
-
-Kronprins
-
-/Nils Wilhjelm
-
-Ingen
+/ Jesper Kongstad

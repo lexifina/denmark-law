@@ -1,3 +1,3 @@
-Lov om beskyttelse af halvlederprodukters udformning (topografi)
+Bekendtgørelse af lov om beskyttelse af halvlederprodukters udformning (topografi)
 
-VI MARGRETHE DEN ANDEN, af Guds Nåde Danmarks Dronning, gør vitterligt: Folketinget har vedtaget og Vi ved Vort samtykke stadfæstet følgende lov:
+Hermed bekendtgøres lov nr. 778 af 9. december 1987 om beskyttelse af halvlederprodukters udformning (topografi) med de ændringer, der følger af § 4 i lov nr. 1430 af 21. december 2005 og § 6 i lov nr. 1370 af 28. december 2011.
