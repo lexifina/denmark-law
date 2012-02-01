@@ -1,7 +1,5 @@
-Industriministeriet, den 27. november 1989
+Erhvervs- og Vækstministeriet, den 24. januar 2012
 
-Nils Wilhjelm
+Ole Sohn
 
-/ Per Lund Thoft
-
-Ingen
+/ Jesper Kongstad
