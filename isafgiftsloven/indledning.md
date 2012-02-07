@@ -1,3 +1,3 @@
 Bekendtgørelse af lov om afgift af konsum-is
 
-Herved bekendtgøres lov om afgift af konsum-is, jf. lovbekendtgørelse nr. 563 af 3. august 1998 med de ændringer, der følger af § 13 i lov nr. 380 af 2. juni 1999, § 17 i lov nr. 165 af 15. marts 2000, § 21 i lov nr. 1029 af 22. november 2000, § 21 i lov nr. 325 af 18. maj 2005 og § 34 i lov nr. 428 af 6. juni 2005.
+Herved bekendtgøres lov om afgift af konsum-is, jf. lovbekendtgørelse nr. 888 af 17. august 2006 med de ændringer, som følger af § 3 i lov nr. 523 af 17. juni 2008, § 81 i lov nr. 1336 af 19. december 2008, § 2 i lov nr. 524 af 12. juni 2009 og § 2 i lov nr.1383 af 28. december 2011.

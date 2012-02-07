@@ -1,1 +1,1 @@
-§ 9 a. (Ophævet)
+§ 9 a. (Ophævet).
