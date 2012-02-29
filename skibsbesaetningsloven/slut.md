@@ -1,13 +1,5 @@
-Givet på Christiansborg Slot, den 13. januar 1997
+Søfartsstyrelsen, den 27. februar 2012
 
-Under Vor Kongelige Hånd og Segl
+Christian Breinholt
 
-I Dronningens Navn:
-
-FREDERIK
-
-Kronprins
-
-/ Jan Trøjborg
-
-Ingen
+/ Thomas Karlsen
