@@ -1,8 +1,8 @@
 ## Kapitel 75 b
 
-## Indgreb over for personer under 14 år
+## Indgreb over for personer under 15 år
 
-§ 821 a. Politiet kan tilbageholde en mistænkt person under 14 år, hvis betingelserne i § 755, stk. 1, er opfyldt og tilbageholdelsens øjemed ikke kan opnås ved anvendelse af mindre indgribende foranstaltninger. § 755, stk. 2-5, samt § 758, stk. 1, og § 759 finder tilsvarende anvendelse.
+§ 821 a. Politiet kan tilbageholde en mistænkt person under 15 år, hvis betingelserne i § 755, stk. 1, er opfyldt og tilbageholdelsens øjemed ikke kan opnås ved anvendelse af mindre indgribende foranstaltninger. § 755, stk. 2-5, samt § 758, stk. 1, og § 759 finder tilsvarende anvendelse.
 
 Stk. 2. Politiet skal snarest muligt gøre den tilbageholdte bekendt med mistanken og tidspunktet for tilbageholdelsen. Af rapporten skal fremgå, at denne regel er iagttaget.
 
