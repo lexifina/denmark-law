@@ -1,4 +1,4 @@
-§ 262 a. For menneskehandel straffes med fængsel indtil 8 år den, der rekrutterer, transporterer, overfører, huser eller efterfølgende modtager en person, hvor der anvendes eller har været anvendt
+§ 262 a. For menneskehandel straffes med fængsel indtil 10 år den, der rekrutterer, transporterer, overfører, huser eller efterfølgende modtager en person, hvor der anvendes eller har været anvendt
 
 1) ulovlig tvang efter § 260,
 
@@ -10,9 +10,9 @@
 
 5) anden utilbørlig fremgangsmåde
 
-med henblik på udnyttelse af den pågældende ved kønslig usædelighed, tvangsarbejde, slaveri eller slaverilignende forhold eller fjernelse af organer.
+med henblik på udnyttelse af den pågældende ved kønslig usædelighed, tvangsarbejde, slaveri eller slaverilignende forhold, strafbare handlinger eller fjernelse af organer.
 
-Stk. 2. På samme måde straffes den, der med henblik på udnyttelse af den pågældende ved kønslig usædelighed, tvangsarbejde, slaveri eller slaverilignende forhold eller fjernelse af organer
+Stk. 2. På samme måde straffes den, der med henblik på udnyttelse af den pågældende ved kønslig usædelighed, tvangsarbejde, slaveri eller slaverilignende forhold, strafbare handlinger eller fjernelse af organer
 
 1) rekrutterer, transporterer, overfører, huser eller efterfølgende modtager en person under 18 år eller
 
