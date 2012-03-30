@@ -4,7 +4,9 @@
 
 § 21 a. Bidragspligtige institutter kan etablere frivillige ordninger, der dækker indskydere og investorer i andre tilfælde end de i § 1, stk. 2, angivne tilfælde.
 
-Stk. 2. En frivillig ordning, der etableres i henhold til stk. 1, skal anmeldes til Finanstilsynet. Anmeldelsen skal som minimum indeholde følgende:
+Stk. 2. En frivillig ordning, der etableres i henhold til stk. 1, skal anmeldes til Finanstilsynet.
+
+Anmeldelsen skal som minimum indeholde følgende:
 
 1) den frivillige ordnings navn,
 
