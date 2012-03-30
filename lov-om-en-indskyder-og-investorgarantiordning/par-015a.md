@@ -1,1 +1,1 @@
-§ 15 a . I tilfælde, hvor pengeinstitutter nævnt i § 3, stk. 1, nr. 1, overdrager deres aktiver til et datterselskab til Finansiel Stabilitet A/S oprettet efter kapitel 4 b i lov om finansiel stabilitet, dækker Fonden indskud og værdipapirer efter reglerne i §§ 9 og 11-14.
+§ 15 a. I tilfælde, hvor pengeinstitutter nævnt i § 3, stk. 1, nr. 1, overdrager deres aktiver til et datterselskab til Finansiel Stabilitet A/S oprettet efter kapitel 4 b i lov om finansiel stabilitet, dækker Fonden indskud og værdipapirer efter reglerne i §§ 9 og 11-14.
