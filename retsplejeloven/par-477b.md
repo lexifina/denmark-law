@@ -4,7 +4,7 @@ Stk. 2. Før betalingspåkravet indleveres til fogedretten, skal der til skyldne
 
 Stk. 3. Betalingspåkravet skal indeholde
 
-1) parternes navn og adresse, herunder angivelse af en postadresse i Danmark, hvortil meddelelser til fordringshaveren vedrørende sagen kan sendes, og hvor forkyndelse kan ske,
+1) parternes navn og adresse, herunder angivelse af en postadresse i Det Europæiske Økonomiske Samarbejdsområde, hvortil meddelelser til fordringshaveren vedrørende sagen kan sendes, og hvor forkyndelse kan ske,
 
 2) angivelse af den ret, ved hvilken inddrivelsen indledes,
 
