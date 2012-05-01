@@ -8,7 +8,7 @@
 
 4) byretspræsident og byretsdommer,
 
-5) præsident i Tinglysningsretten,
+5) præsident og dommer i Tinglysningsretten,
 
 6) midlertidigt beskikket dommer i henhold til § 44 b og
 
