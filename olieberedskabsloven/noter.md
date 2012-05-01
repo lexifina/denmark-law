@@ -1,0 +1,1 @@
+1) Loven indeholder bestemmelser, der gennemfører dele af Rådets direktiv 2009/119/EF af 14. september 2009 om forpligtelse for medlemsstaterne til at holde minimumslagre af råolie og/eller olieprodukter, EU-Tidende 2009, nr. L 265, side 9.
