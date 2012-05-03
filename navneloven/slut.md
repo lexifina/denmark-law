@@ -1,7 +1,5 @@
-Givet på Amalienborg, den 24. juni 2005
+Social- og Integrationsministeriet, den 1. maj 2012
 
-Under Vor Kongelige Hånd og Segl
+P.M.V. Jesper Zwisler
 
-Margrethe R.
-
-/Lars Barfoed
+/ Dorte Bech Vizard
