@@ -57,3 +57,9 @@ Lov nr. 718 af 25. juni 2010 indeholder følgende ikrafttrædelsesbestemmelse:
 Stk. 1. Justitsministeren fastsætter tidspunktet for lovens ikrafttræden.
 
 Stk. 2-10. (Udelades)
+
+Lov nr. 160 af 28. februar 2012 indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 2
+
+Loven træder i kraft den 1. april 2012.

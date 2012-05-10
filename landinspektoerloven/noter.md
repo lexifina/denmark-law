@@ -13,3 +13,5 @@
 7) § 2 i lov nr. 12 af 11. januar 2010 vedrører ændring af § 4, stk. 7, 8 og 9 samt § 14.
 
 8) Ved bekendtgørelse nr. 208 af 15. marts 2011 er det bestemt, at lov nr. 718 af 25. juni 2010 træder i kraft 1. april 2011. § 48 i lov nr. 718 af 25. juni 2010 vedrører ændring af § 1, stk. 2, nr. 2.
+
+9) § 1 i lov nr. 160 af 28. februar 2012 vedrører ændring af § 4 a, § 8, stk. 2 og 3, § 9, § 9 a, stk. 2, og § 10, stk. 1.
