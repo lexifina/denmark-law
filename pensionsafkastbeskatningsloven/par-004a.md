@@ -1,4 +1,4 @@
-§ 4 a. Livsforsikringsselskaber, pensionskasser og pensionsfonde med ordninger omfattet af § 1, stk. 1, nr. 1, kan vælge at opgøre det skattepligtige afkast efter stk. 2-10 i stedet for at opgøre det skattepligtige afkast efter § 4. Valget er bindende og træffes ved overgang til beskatning efter denne lov, jf. dog § 31, stk. 3.
+§ 4 a. Livsforsikringsselskaber, pensionskasser og pensionsfonde med ordninger omfattet af § 1, stk. 1, nr. 1 og 4, kan vælge at opgøre det skattepligtige afkast efter stk. 2-10 i stedet for at opgøre det skattepligtige afkast efter § 4. Valget er bindende og træffes ved overgang til beskatning efter denne lov, jf. dog § 31, stk. 3.
 
 Stk. 2. Det skattepligtige afkast opgøres som summen af:
 
