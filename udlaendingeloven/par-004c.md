@@ -16,7 +16,7 @@ Stk. 4. Stk. 3, nr. 3, finder ikke anvendelse, hvis
 
 2) udlændingen ansøger om opholdstilladelse efter § 9 c, stk. 1, på grundlag af en sådan familiemæssig tilknytning, der er nævnt i § 9, stk. 1, nr. 1 eller 2,
 
-3) udlændingen ansøger om opholdstilladelse efter § 9 c, stk. 1, med henblik på at studere,
+3) udlændingen ansøger om opholdstilladelse efter § 9 i, stk. 1, med henblik på at studere,
 
 4) udlændingen ansøger om opholdstilladelse efter § 9 c, stk. 4,
 

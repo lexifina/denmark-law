@@ -1,4 +1,4 @@
-§ 21 a. Udlændingeservice træffer afgørelse om, at der i en periode på 2 år fra afgørelsen herom ikke kan meddeles opholdstilladelse efter § 9 c, stk. 1, med henblik på au pair-ophold hos en værtsperson, når
+§ 21 a. Styrelsen for Fastholdelse og Rekruttering træffer afgørelse om, at der i en periode på 2 år fra afgørelsen herom ikke kan meddeles opholdstilladelse efter § 9 j, med henblik på au pair-ophold hos en værtsperson, når
 
 1) en au pair-person hos værtsfamilien har udført pligter i mere end det tidsmæssige maksimum for den meddelte tilladelse eller udfører andet end huslige opgaver for værtsfamilien,
 
