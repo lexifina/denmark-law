@@ -1,7 +1,5 @@
-Givet på Christiansborg Slot, den 28. maj 2003
+Social- og Integrationsministeriet, den 16. maj 2012
 
-Under Vor Kongelige Hånd og Segl
+P.M.V. Jesper Zwisler
 
-MARGRETHE R.
-
-/Bertel Haarder
+/ Dorte Bech Vizard
