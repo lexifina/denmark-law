@@ -16,7 +16,7 @@ Lov nr. 581 af 24. juni 2005 om ændring af lov om kystbeskyttelse, forskellige 
 
 § 15
 
-Loven træder i kraft den 1. januar 2007
+Loven træder i kraft den 1. januar 2007.
 
 Lov nr. 586 af 24. juni 2005 om ændring af lov om havne (Skibsrelaterede hjælpetjenester), der angår § 9, stk. 6, § 9 stk. 7, § 9, stk. 10, § 10, stk. 3, og § 10, stk. 4 og 5, indeholder følgende ikrafttrædelsesbestemmelse:
 
@@ -35,3 +35,13 @@ Stk. 2. (Udeladt).
 § 10
 
 Forskrifter, der er udstedt i medfør af § 14 b i lov om havne, forbliver i kraft, indtil de afløses af bestemmelser fastsat i henhold til denne lov.
+
+Lov nr. 285 af 27. marts 2012 om ændring af lov om havne indeholder følgende ikraftrædelses- og overgangsbestemmelser:
+
+§ 2
+
+Loven træder i kraft den 1. april 2012.
+
+§ 3
+
+Klage over forvaltningen af en havn indgivet før denne lovs ikrafttræden behandles i henhold til de hidtil gældende klagebestemmelser.
