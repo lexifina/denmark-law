@@ -1,0 +1,1 @@
+§ 24 d. Søfartsstyrelsen fører tilsyn med undervisningen hos kursusudbydere som nævnt i § 24 b og påser, at kursusudbyderne opfylder de krav, som følger af denne lov og regler udstedt i medfør af loven.

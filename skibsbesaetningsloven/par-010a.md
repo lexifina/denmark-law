@@ -1,0 +1,1 @@
+§ 10 a. Søfartsstyrelsen kan fastsætte regler om kvalifikationskrav til fritidssejlere og om forberedelse og indstilling til og aflæggelse af eksaminer og prøver for fritidssejlere samt betaling herfor.
