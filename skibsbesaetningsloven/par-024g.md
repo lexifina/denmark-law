@@ -1,0 +1,1 @@
+§ 24 g. Søfartsstyrelsen kan indhente de nødvendige oplysninger fra kursusudbyderne og uddannelsesinstitutionerne om undervisningen, kursusdeltagerne, personalet, økonomien og udstyret m.v. til brug for gennemførelse af Søfartsstyrelsens opgaver efter loven, herunder kvalitetssikring og udarbejdelse af statistik.

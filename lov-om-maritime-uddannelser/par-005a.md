@@ -1,0 +1,7 @@
+§ 5 a. Tilskud efter loven ydes ikke til dækning af uddannelsesinstitutionernes udgifter til betaling af afgifter i henhold til momsloven, jf. dog stk. 4.
+
+Stk. 2. Ministeren for forskning, innovation og videregående uddannelser kompenserer uddannelsesinstitutionerne for udgifter til betaling af afgifter i henhold til momsloven, som efter momsloven ikke kan fradrages ved en virksomheds opgørelse af afgiftstilsvaret (ikke fradragsberettiget købsmoms), og som uddannelsesinstitutionerne afholder ved køb af varer og tjenesteydelser, til hvilke der ydes tilskud efter loven.
+
+Stk. 3. Ministeren for forskning, innovation og videregående uddannelser fastsætter regler om kompensationen efter stk. 2 og kan herunder beslutte, at der skal etableres en acontoordning for momskompensationen til uddannelsesinstitutionerne.
+
+Stk. 4. Uanset stk. 1 kan tilskuddet til skoleskibe ydes til dækning af udgifter til betaling af afgifter i henhold til momsloven.

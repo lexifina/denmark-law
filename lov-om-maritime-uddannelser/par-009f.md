@@ -1,6 +1,6 @@
-§ 9 f. Søfartsstyrelsen kan pålægge bestyrelsen for en uddannelsesinstitution at indgå en udviklingskontrakt med styrelsen med henblik på at sikre en langsigtet strategisk udvikling til opfyldelse af nærmere fastlagte målsætninger.
+§ 9 f. Ministeren for forskning, innovation og videregående uddannelser kan pålægge bestyrelsen for en uddannelsesinstitution at indgå en udviklingskontrakt med ministeren med henblik på at sikre en langsigtet strategisk udvikling til opfyldelse af nærmere fastlagte målsætninger.
 
-Stk. 2. Søfartsstyrelsen kan pålægge bestyrelsen for en uddannelsesinstitution at indgå en indsatsaftale med styrelsen, hvis
+Stk. 2. Ministeren for forskning, innovation og videregående uddannelser kan pålægge bestyrelsen for en uddannelsesinstitution at indgå en indsatsaftale med ministeren, hvis
 
 1) kvaliteten af uddannelsesinstitutionens undervisning eller uddannelse er utilstrækkelig eller
 
