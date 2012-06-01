@@ -10,4 +10,4 @@ Stk. 2. Tilladelse efter stk. 1 kan kun meddeles, hvis
 
 2) der er foretaget en opgørelse af fangstrettigheder og forpligtelser pr. indtrædelsesdatoen i det puljefiskeri, der ansøges om tilladelse til at indtræde i, som kan godkendes af ministeren.
 
-Stk. 3. Ministeren kan fastsætte regler om indsendelse af ansøgning om indtrædelse i puljefiskeri, herunder om dokumentation for opfyldelse af betingelserne i stk. 1 og 2.«
+Stk. 3. Ministeren kan fastsætte regler om indsendelse af ansøgning om indtrædelse i puljefiskeri, herunder om dokumentation for opfyldelse af betingelserne i stk. 1 og 2.
