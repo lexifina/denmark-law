@@ -1,5 +1,5 @@
-Kulturministeriet, den 23. juni 2009
+Kulturministeriet, den 4. juni 2012
 
-Carina Christensen
+Uffe Elbæk
 
-/ Annette Kornerup
+/ Ane-Kathrine Lærkesen
