@@ -1,1 +1,1 @@
-§ 14 e. De nærmere regler om betingelserne for tilskud til Københavns Teater fastsættes af kulturministeren.
+§ 14 e. Kulturministeren fastsætter nærmere regler om betingelserne for tilskud til Det Københavnske Teatersamarbejde og de enkelte teatre i ordningen, herunder vedrørende tilskudsmodtagernes bestyrelser, organisation, ledelse og alsidighed i repertoire, og om tilskudsformer og retningslinjer for tilsyn.
