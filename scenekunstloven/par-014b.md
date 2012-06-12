@@ -1,1 +1,1 @@
-§ 14 b. Københavns Teater yder inden for den samlede tilskudsramme økonomisk støtte til de i ordningen optagne teatre i form af tilskud til drift og produktion eller huslejetilskud. Inden for tilskudsrammen afsættes desuden særlige midler til udvikling og nytænkning inden for teaterkunsten samt til kapitalindskud.
+§ 14 b. Det Københavnske Teatersamarbejde yder inden for den samlede tilskudsramme økonomisk støtte til de i ordningen optagne teatre i form af tilskud til drift og produktion. Inden for tilskudsrammen afsættes desuden særlige midler til kapitalindskud.
