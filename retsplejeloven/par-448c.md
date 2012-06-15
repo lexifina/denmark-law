@@ -10,6 +10,8 @@
 
 5) skilsmisse søges på grundlag af separation meddelt her i landet inden for de sidste fem år.
 
-Stk. 2. Sag om et ægteskabs omstødelse eller beståen kan indbringes for retten her i riget, når ægteskabet er indgået her.
+Stk. 2. Endvidere kan sag om ægteskab mellem to personer af samme køn behandles her i riget, når ægteskabet er indgået her og ingen af ægtefællerne bor i et land med en lovgivning om ægteskab mellem to personer af samme køn, der svarer til den danske.
 
-Stk. 3. Reglerne i stk. 1 og 2 kan fraviges ved overenskomst med fremmed stat.
+Stk. 3. Sag om et ægteskabs omstødelse eller beståen kan indbringes for retten her i riget, når ægteskabet er indgået her.
+
+Stk. 4. Reglerne i stk. 1-3 kan fraviges ved overenskomst med fremmed stat.
