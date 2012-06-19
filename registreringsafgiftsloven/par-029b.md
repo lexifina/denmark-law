@@ -1,1 +1,3 @@
 § 29 b. En varebil, der er afgiftsberigtiget efter § 29 eller § 29 a, afgiftsberigtiges efter § 4, hvis bilen ophører med utvivlsomt at være konstrueret og indrettet til godstransport eller have en tilladt totalvægt på ikke over 4 t. Afgiften nedsættes dog efter reglerne for brugte varebiler i § 5 med 95 pct., respektive 50 pct., af den del af varebilens afgiftspligtige værdi før ombygningen, der overstiger 16.900 kr. (2010-niveau). Beløbet reguleres efter personskattelovens § 20.
+
+§§ 30-31 b. (Ophævet).
