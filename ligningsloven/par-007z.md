@@ -13,3 +13,17 @@
 Stk. 2. Betalinger efter kildeskattelovens § 69 A kan ikke fradrages ved opgørelsen af den indeholdelsespligtiges skattepligtige indkomst.
 
 Stk. 3. Modtagere af godtgørelser, der er skattefri efter stk. 1, kan ikke foretage befordringsfradrag for befordring, der har dannet grundlag for godtgørelserne, eller for rejseudgifter m.v. efter § 9 A, stk. 7, 1. eller 3. pkt., der er godtgjort med de pågældende godtgørelser.
+
+§ 7 Å. Ved opgørelsen af den skattepligtige indkomst medregnes ikke værdien af sædvanlige ydelser, der udføres inden for privatsfæren som et udslag af almindelig hjælpsomhed, gavmildhed eller socialt engagement (familie- og vennetjenester). Ydelserne må ikke
+
+1) være af kommerciel karakter,
+
+2) indgå i organiseret byttehandel,
+
+3) bestå i forud aftalt udveksling af ydelser eller
+
+4) inkludere betaling med kontanter eller andre likvide midler.
+
+Stk. 2. Ved opgørelsen af den skattepligtige indkomst medregnes ikke vederlag til en person under 16 år som betaling for arbejde for en privat hvervgiver udført i eller i tilknytning til dennes private hjem.
+
+Stk. 3. Ved opgørelsen af den skattepligtige indkomst medregnes ikke vederlag for arbejde for en privat hvervgiver udført i eller i tilknytning til dennes private hjem til en person, der opfylder alderskravet i lov om social pension til at kunne få folkepension. Det er en betingelse, at arbejdet ikke udføres som et led i erhvervsmæssig virksomhed. Vederlag efter 1. pkt., der inden for et indkomstår overstiger et grundbeløb på 10.000 kr. (2010-niveau), medregnes dog til den skattepligtige indkomst med den del af vederlaget, der overstiger grundbeløbet. Grundbeløbet reguleres efter personskattelovens § 20.
