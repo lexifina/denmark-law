@@ -1,5 +1,5 @@
-Kirkeministeriet, den 17. juni 2009
+Ministeriet for Ligestilling og Kirke, den 19. juni 2012
 
-Birthe Rønn Hornbech
+Manu Sareen
 
-/ Eva Stilov
+/ Marjun Egholm
