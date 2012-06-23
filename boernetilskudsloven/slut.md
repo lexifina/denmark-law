@@ -1,3 +1,5 @@
-Beskæftigelsesministeriet, den 14. maj 2009
+Social- og Integrationsministeriet, den 21. juni 2012
 
-Inger Støjberg
+P.M.V. Jesper Zwisler
+
+/ Dorte Bech Vizard
