@@ -1,3 +1,1 @@
-§ 8 a. Ved salg ved ejendomsformidler af en ejendom eller ejerlejlighed, jf. § 6, skal sælger forud for annoncering af sælgers ejendom eller ejerlejlighed udlevere energimærkning til ejendomsformidleren.
-
-Stk. 2. Ved overdragelse ved ejendomsformidler af en andel, anpart eller aktie i et boligfællesskab, jf. § 8, skal overdrager forud for annoncering af boligenheden udlevere energimærkning til ejendomsformidleren.
+§ 8 a. Sælger, udlejer eller overdrager skal sikre, at der i annoncen til enhver tid synliggøres et energimærke fra en gyldig energimærkning, når der er tale om annoncering i kommercielle medier til salg, udleje eller overdragelse af en bygning, ejerlejlighed, bolig- eller erhvervsenhed, andre erhvervslokaler eller af en andel, anpart eller aktie i et boligfællesskab, hvortil der er knyttet en brugsret til en boligenhed, jf. §§ 6-8.
