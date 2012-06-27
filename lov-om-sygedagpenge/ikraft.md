@@ -48,7 +48,7 @@ Stk. 2. (Udeladt)
 
 Stk. 3. Beskæftigelsesministeren fastsætter tidspunktet for ikrafttrædelse af lovens § 5 om arbejdsgiverens, den selvstændig erhvervsdrivendes og arbejdsløshedskassens forpligtelser. Beskæftigelsesministeren fastsætter samtidig tidspunktet for ikrafttrædelse af lovens § 18.
 
-Lov nr. 480 af 12. juni 2009, der indsætter §§ 7a-7c og § 36 a, ændrer § 12, § 13, § 15, § 19, § 21, § 25, stk. 1, § 26, stk. 2, § 27, stk. 1, § 31, § 36, stk. 3, § 53, stk. 2, § 62, og § 77 samt ophæver § 36, stk. 4 og 5 og § 37 (En styrket beskæftigelsesrettet indsats over for sygemeldte m.fl.) indeholder følgende ikrafttrædelses- og overgangsbestemmelser:
+Lov nr. 480 af 12. juni 2009, som ændret ved lov nr. 50 af 25. januar 2012, der indsætter §§ 7a-7c og § 36 a, ændrer § 12, § 13, § 15, § 19, § 21, § 25, stk. 1, § 26, stk. 2, § 27, stk. 1, § 31, § 36, stk. 3, § 53, stk. 2, § 62, og § 77 samt ophæver § 36, stk. 4 og 5 og § 37 (En styrket beskæftigelsesrettet indsats over for sygemeldte m.fl.) indeholder følgende ikrafttrædelses- og overgangsbestemmelser:
 
 § 5
 
@@ -62,7 +62,7 @@ Stk. 4. § 62, stk. 3 og 6, i lov om sygedagpenge som affattet ved denne lovs §
 
 § 6
 
-I perioden fra og med den 1. januar 2010 til og med den 31. december 2011 ydes refusion til kommunen uanset bestemmelsen i § 62, stk. 4, som bliver stk. 5, i lov om sygedagpenge.
+I perioden fra og med den 1. januar 2010 til og med den 31. december 2013 ydes refusion til kommunen uanset bestemmelsen i § 62, stk. 4, som bliver stk. 5, i lov om sygedagpenge.
 
 § 7
 
@@ -118,13 +118,19 @@ Lov nr. 701 af 25. juni 2010, der ændrer § 21, stk. 3 og indsætter § 71, stk
 
 Loven træder i kraft den 1. juli 2010.
 
-Lov nr. 1539 af 21. december 2010, der ændrer § 13, stk. 1 og stk. 4, og indsætter § 13, stk. 5 og 6 (Ændring af beskæftigelseskravet, afskaffelse af ret til sygedagpenge på søgnehelligdage, m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
+Lov nr. 1539 af 21. december 2010, der ændrer § 13, stk. 1 og stk. 4, § 25, stk. 2, § 32, stk. 1, nr. 1, § 32, stk. 2, § 50, stk. 3, § 51, 1. pkt. og § 52, stk. 2 og indsætter § 13, stk. 5 og 6, § 24, stk. 3 og § 53 a (Ændring af beskæftigelseskravet, afskaffelse af ret til sygedagpenge på søgnehelligdage m.v.) indeholder følgende ikrafttrædelses- og overgangsbestemmelser:
 
 § 2
 
 Stk. 1. Loven træder i kraft den 2. juli 2012, jf. dog stk. 2.
 
 Stk. 2. § 13, stk. 1 og stk. 4-6, i lov om sygedagpenge, som affattet ved denne lovs § 1, nr. 1-3, træder i kraft den 3. januar 2011.
+
+§ 3
+
+Stk. 1. § 32, stk. 1, nr. 1, og § 32, stk. 2, i lov om sygedagpenge som ændret ved denne lovs § 1, nr. 6 og 7, finder ikke anvendelse på sygdomstilfælde, hvor 1. fraværsdag ligger før den 2. juli 2012. Disse sygdomstilfælde behandles efter de hidtil gældende regler.
+
+Stk. 2. Uanset § 24, stk. 3, i lov om sygedagpenge medregnes søgnehelligdage, der ligger før den 2. juli 2012, ved opgørelsen af sygedagpengeperioden efter § 24, stk. 1, eller § 25, stk. 1, i lov om sygedagpenge.
 
 Lov nr. 1598 af 22. december 2010, der ændrer § 62 (Ændring af refusionssatser) indeholder følgende ikrafttrædelsesbestemmelse:
 
@@ -163,3 +169,45 @@ Lov nr. 600 af 14. juni 2011, der ændrer § 70, stk. 1 (Skærpet kontrol med ud
 § 8
 
 Stk. 1. Loven træder i kraft den 1. juli 2011.
+
+Lov nr. 154 af 28. februar 2012, der indsætter § 58 a, ændrer § 21, stk. 1, nr. 1, § 21, stk. 4, § 25, § 43, stk. 1, § 52, stk. 2 samt ophæver § 7 a, stk. 1, 3. pkt., § 7 a, stk. 4 og § 7 c (Forenkling af indsatsen for syge- og barseldagpengemodtagere, aftale om ret til sygedagpenge fra 1. fraværsdag for selvstændige erhvervsdrivende ved langvarig eller kronisk lidelse m.v.), indeholder følgende ikrafttrædelses- og overgangsbestemmelser:
+
+§ 3
+
+Loven træder i kraft den 5. marts 2012.
+
+§ 4
+
+Stk. 1. En person, der under det aktuelle sygdomsforløb inden lovens ikrafttræden har anvendt fortrydelsesretten efter § 21, stk. 4, i lov om sygedagpenge, kan få genoptaget udbetalingen af sygedagpenge én gang efter lovens ikrafttræden.
+
+Stk. 2. § 1, nr. 6, finder anvendelse på sygedagpengemodtagere med en ret til udbetaling af førtidspension, som er påbegyndt den 5. marts 2012 eller senere.
+
+Stk. 3. § 1, nr. 8, finder anvendelse på sager om sygedagpenge, hvor 1. fraværsdag er den 5. marts 2012 eller senere.
+
+Lov nr. 269 af 27. marts 2012, der indsætter ny § 35, stk. 3 og 4, § 40 a og § 59, stk. 8 samt ændrer § 11, stk. 3, § 38, stk. 1-5, § 38, stk. 6, § 38, stk. 7, § 40 og § 59, stk. 2, 3 og 4 (Ændring af frister for anmeldelse af sygefravær og anmodning om sygedagpenge m.v. for bedre at udnytte den digitale indberetningsløsning (SDPI-løsningen)), indeholder følgende ikrafttrædelses- og overgangsbestemmelser:
+
+§ 2
+
+Stk. 1. Loven træder i kraft den 2. april 2012, jf. dog stk. 2.
+
+Stk. 2. Lovens § 1, nr. 1, træder i kraft den 2. juli 2012.
+
+§ 3
+
+Stk. 1. Lovens § 1, nr. 1, har virkning for udsendelse af oplysningsskemaer i sager, hvor anmeldelsen af sygefraværet sker den 2. juli 2012 eller senere.
+
+Stk. 2. § 35, stk. 3, i lov om sygedagpenge som affattet ved denne lovs § 1, nr. 3, lovens § 1, nr. 10, og § 40 a, stk. 1 og 2, i lov om sygedagpenge som affattet ved denne lovs § 1, nr. 12, har virkning for anmeldelse af sygefravær i sager, hvor 1. sygefraværsdag er den 2. april 2012 eller senere.
+
+Stk. 3. § 38, stk. 1, i lov om sygedagpenge som affattet ved denne lovs § 1, nr. 5, har virkning for lønmodtagere, som modtager en blanket til brug for anmodning om sygedagpenge fra SDPI-løsningen den 2. april 2012 eller senere.
+
+Stk. 4. § 38, stk. 3, i lov om sygedagpenge som affattet ved denne lovs § 1, nr. 5, har virkning for lønmodtagere med 1. sygefraværsdag efter den 25. marts 2012, hvis der ikke er afsendt et underretningsbrev fra SDPI-løsningen.
+
+Stk. 5. § 38, stk. 7, 2. pkt., i lov om sygedagpenge som ophævet ved denne lovs § 1, nr. 8, vil fortsat finde anvendelse for de sygedagpengesager, som ikke omfattes af § 38, stk. 1 og 3, i lov om sygedagpenge som affattet ved denne lovs § 1, nr. 5.
+
+Stk. 6. Lovens § 1, nr. 11, § 40 a, stk. 3, i lov om sygedagpenge som affattet ved denne lovs § 1, nr. 12, og lovens § 1, nr. 15, har virkning for underretningsbreve udsendt fra SDPI-løsningen den 2. april 2012 eller senere.
+
+Lov nr. 476 af 30. maj 2012, der ændrer § 13, stk. 4, og indsætter § 13 a (Mindre intensiv indsats), indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 6
+
+Loven træder i kraft den 1. juni 2012.

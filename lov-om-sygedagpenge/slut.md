@@ -1,4 +1,4 @@
-Beskæftigelsesministeriet, den 12. december 2011
+Beskæftigelsesministeriet, den 26. juni 2012
 
 Mette Frederiksen
 
