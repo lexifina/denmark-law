@@ -1,5 +1,5 @@
-Ministeriet for Videnskab, Teknologi og Udvikling, den 22. juni 2011
+Ministeriet for Forskning, Innovation og Videregående Uddannelser, den 24. juni 2012
 
-Charlotte Sahl-Madsen
+Morten Østergaard
 
-/ Helga Øregaard Dam
+/ Mette Garder Jensen
