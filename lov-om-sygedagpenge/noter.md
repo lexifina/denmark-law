@@ -3,3 +3,5 @@
 2) Gennemførelsesforordning (EF) nr. 574/72 er erstattet af Europa-Parlamentets og Rådets Forordning (EF) nr. 987/2009 af 16. september 2009 om de nærmere regler til gennemførelse af forordning (EF) nr. 883/2004 om koordinering af de sociale sikringsordninger.
 
 3) Er ved bekendtgørelse nr. 117 af 18. februar 2011 om ikrafttræden af § 5 og § 18 i lov om digital indberetningsløsning til brug for anmeldelse af sygefravær samt anmodning om refusion af sygedagpenge og dagpenge efter barselloven fastsat til 1. september 2011.
+
+4) Suspensionsperioden var oprindelig fra 1. januar 2010 til 31. december 2011. Ved lov nr. 50 af 25. januar 2012 om ændring af lov om ændring af lov om sygedagpenge, lov om en aktiv beskæftigelsesindsats, lov om aktiv socialpolitik og lov om integration af udlændinge i Danmark (En styrket beskæftigelsesrettet indsats over for sygemeldte m.fl.) skete der en forlængelse af suspensionsperioden til 31. december 2013. Ændringen har virkning fra 1. januar 2012.
