@@ -1,4 +1,4 @@
-§ 6 b. For indgivelse af ansøgning om tilladelse efter denne lov betales 840 kr. For følgende tilladelser betales dog ikke:
+§ 6 b. For indgivelse af ansøgning om tilladelse efter denne lov betales 840 kr., jf. dog stk. 7. For følgende tilladelser betales dog ikke:
 
 1) Tilladelser til ammunition,
 
@@ -29,3 +29,5 @@ Stk. 4. Såfremt indehaveren af en våbentilladelse til et bestemt våben udskif
 Stk. 5. Skifter indehaveren af en våbentilladelse navn, adresse eller skytteforening, kan der afgiftsfrit udstedes ny våbentilladelse med samme gyldighed som den oprindelige tilladelse.
 
 Stk. 6. Er en tilladelse beskadiget eller bortkommet, kan der udstedes tilladelse med samme gyldighed som den oprindelige tilladelse mod betaling af 200 kr.
+
+Stk. 7. For meddelelse af tilladelse efter denne lovs § 4 c, stk. 1, betales 5.000 kr.
