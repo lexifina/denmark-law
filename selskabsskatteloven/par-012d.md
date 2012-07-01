@@ -1,0 +1,27 @@
+§ 12 D. Hvis mere end 50 pct. af aktiekapitalen i et selskab eller andelene i en forening omfattet af § 1, stk. 1, nr. 1, 2 eller 4, eller § 2, stk. 1, litra a, eller et tilsvarende selskab m.v. omfattet af § 2 A, stk. 1, ved indkomstårets udløb ejes af andre aktionærer eller deltagere end ved begyndelsen af et tidligere indkomstår, hvori den skattepligtige indkomst udviste underskud, kan underskuddet ikke nedbringe den skattepligtige indkomst til et beløb mindre end selskabets positive nettokapitalindtægter, jf. stk. 3, med tillæg af indkomst fra udlejning af afskrivningsberettigede driftsmidler og skibe. Tilsvarende gælder, hvis andre aktionærer eller deltagere ved indkomstårets udløb end ved begyndelsen af underskudsåret råder over mere end 50 pct. af den samlede stemmeværdi.
+
+Stk. 2. Ved ændring af ejerkredsen som nævnt i stk. 1, 1. pkt., eller ændring af stemmeværdien som nævnt i stk. 1, 2. pkt., kan underskuddet endvidere ikke nedbringe den skattepligtige indkomst, hvis selskabet eller foreningen på tidspunktet for ændring i ejerforhold til kapitalandele eller andele eller for ændring af råden over stemmeværdien i det væsentlige er uden økonomisk risiko ved erhvervsmæssig aktivitet eller ved erhvervsmæssig aktivitet i et eller flere datterselskaber, hvori selskabet ejer mindst 25 pct. af aktiekapitalen. 1. pkt. finder dog ikke anvendelse, hvis selskabet eller foreningen fra stiftelsen og indtil tidspunktet for ændring i ejerforhold til kapitalandele eller andele eller for ændring af råden over stemmeværdien ikke har drevet erhvervsmæssig virksomhed.
+
+Stk. 3. Nettokapitalindtægterne opgøres som summen af
+
+1) renteindtægter og renteudgifter samt fradrag efter ligningslovens § 6,
+
+2) skattepligtige gevinster og fradragsberettigede tab efter kursgevinstloven,
+
+3) udbytte efter ligningslovens § 16 A,
+
+4) skattepligtige gevinster eller fradragsberettigede tab ved afståelse af aktier efter aktieavancebeskatningsloven og ligningslovens § 16 B og
+
+5) de i ligningslovens § 8, stk. 3, omhandlede provisioner m.v.
+
+Stk. 4. Stk. 1-3 finder ikke anvendelse
+
+1) på selskaber, hvis aktier er optaget til handel på et reguleret marked, eller
+
+2) hvis den i stk. 1 nævnte ændring i selskabets ejerkreds skyldes overdragelse af kapitalandele m.v. til personer, som er nævnt i boafgiftslovens § 1, stk. 2, litra a-f, en ægtefælle, forældres afkom eller stedforældre.
+
+Stk. 5. Hvis et selskab eller en forening omfattet af § 1, stk. 1, nr. 1, 2 eller 4, eller § 2, stk. 1, litra a, eller et tilsvarende selskab m.v. omfattet af § 2 A, stk. 1, ejer 25 pct. eller derover (moderselskabet eller moderforeningen) af aktiekapitalen i et andet selskab (datterselskabet) eller af andele i en anden forening (datterforening), anses ikke moderselskabet eller moderforeningen, men aktionærerne i moderselskabet eller deltagerne i moderforeningen ved anvendelsen af stk. 1 og 2 for at eje aktierne i datterselskabet eller andelene i datterforeningen efter deres forholdsmæssige andel af moderselskabets aktiekapital eller af moderforeningens andel.
+
+Stk. 6. Stk. 5 gælder ikke for moderselskaber, hvis aktier er optaget til handel på et reguleret marked. Et moderselskab, hvis aktier er blevet optaget til handel på et reguleret marked mellem begyndelsen af underskudsåret og afslutningen af det indkomstår, hvori underskuddet ønskes fradraget, kan dog med fremtidig virkning vælge at anvende reglerne i stk. 5, hvis aktierne i moderselskabet er noteret på navn. Hvis aktierne i et moderselskab i samme periode som nævnt i 2. pkt. ophører med at være optaget til handel på et reguleret marked, anses dette ikke for et ejerskifte ved anvendelse af stk. 1 og 2. Ved en aktieombytning, hvor et selskabs ejerkreds efter 1. pkt. skifter fra aktionærerne i et selskab, hvis aktier ikke er optaget til handel på et reguleret marked, til et selskab, hvis aktier er optaget til handel på et reguleret marked, kan sidstnævnte selskab med fremtidig virkning vælge at anvende reglerne i stk. 5, hvis aktierne er noteret på navn. Stk. 5 finder tilsvarende anvendelse for moderselskaber, hvis aktier ikke er optaget til handel på et reguleret marked, og moderforeninger, der har hjemsted i en stat, med hvilken Danmark har indgået en dobbeltbeskatningsoverenskomst, Grønland eller Færøerne eller i et land inden for Den Europæiske Union. Det gælder dog kun, hvis ejerandele i datterselskabet mellem begyndelsen af underskudsåret og afslutningen af det indkomstår, hvori underskuddet ønskes fradraget, er overdraget til enten moderselskabet efter 5. pkt. eller et andet datterselskab, hvori moderselskabet i den nævnte periode ejer mindst 25 pct. af ejerandele. 5. og 6. pkt. finder tilsvarende anvendelse for foreninger. Hvis et moderselskab eller en moderforening mellem begyndelsen af underskudsåret og afslutningen af det indkomstår, hvori underskuddet ønskes fradraget, har nedbragt sin ejerandel til mindre end 25 pct. eller forhøjet sin ejerandel til 25 pct. eller derover, anvendes reglerne i stk. 5 ved afgørelsen af, om der er sket ejerskifte efter stk. 1 og 2.
+
+Stk. 7. Begrænsningen i stk. 1, 1. pkt., hvorefter underskuddet ikke kan nedbringe den skattepligtige indkomst til et beløb mindre end selskabets positive nettokapitalindtægter, gælder ikke for underskud hidrørende fra indkomstår, hvori selskabet i hele indkomståret drev virksomhed som pengeinstitut, forsikringsselskab, investeringsforening eller realkreditinstitut eller i øvrigt udøvede næring ved køb og salg af fordringer eller drev næringsvirksomhed ved finansiering.
