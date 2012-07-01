@@ -1,6 +1,6 @@
 § 11 a. Betinget frihedsstraf er til hinder for meddelelse af tidsubegrænset opholdstilladelse i 3 år fra tidspunktet for afsigelse af endelig dom, dog altid indtil udløbet af den prøvetid, der er fastsat i dommen.
 
-Stk. 2. Ubetinget frihedsstraf er uden for de tilfælde, der er nævnt i § 11, stk. 4, nr. 2 og 3, til hinder for meddelelse af tidsubegrænset opholdstilladelse i følgende tidsrum:
+Stk. 2. Ubetinget frihedsstraf er uden for de tilfælde, der er nævnt i § 11, stk. 3, nr. 2 og 3, til hinder for meddelelse af tidsubegrænset opholdstilladelse i følgende tidsrum:
 
 1) Ubetinget frihedsstraf i under 6 måneder er til hinder for meddelelse af tidsubegrænset opholdstilladelse i 8 år fra tidspunktet for løsladelse.
 
@@ -8,7 +8,7 @@ Stk. 2. Ubetinget frihedsstraf er uden for de tilfælde, der er nævnt i § 11, 
 
 Stk. 3. Prøveløslades udlændingen, regnes de i stk. 2 nævnte tidsrum fra dette tidspunkt.
 
-Stk. 4. Anden strafferetlig retsfølge, der indebærer eller giver mulighed for frihedsberøvelse, for en lovovertrædelse, der ville have medført en betinget eller ubetinget frihedsstraf, er uden for de tilfælde, der er nævnt i § 11, stk. 4, nr. 2 og 3, til hinder for meddelelse af tidsubegrænset opholdstilladelse i følgende tidsrum:
+Stk. 4. Anden strafferetlig retsfølge, der indebærer eller giver mulighed for frihedsberøvelse, for en lovovertrædelse, der ville have medført en betinget eller ubetinget frihedsstraf, er uden for de tilfælde, der er nævnt i § 11, stk. 3, nr. 2 og 3, til hinder for meddelelse af tidsubegrænset opholdstilladelse i følgende tidsrum:
 
 1) Dom til behandling, herunder ambulant behandling med mulighed for hospitalsindlæggelse, jf. straffelovens §§ 68 og 69, er til hinder for meddelelse af tidsubegrænset opholdstilladelse i 4 år fra tidspunktet for rettens endelige bestemmelse om foranstaltningens ophævelse, dog mindst 6 år fra tidspunktet for rettens endelige bestemmelse om idømmelse af foranstaltningen, jf. stk. 5.
 
