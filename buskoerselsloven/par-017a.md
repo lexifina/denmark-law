@@ -1,0 +1,5 @@
+§ 17 a. Politiet kan tilbageholde et motorkøretøj, med hvilket der udføres buskørsel i strid med loven, bestemmelser fastsat i medfør heraf eller EU-regler om buskørsel med motorkøretøjer.
+
+Stk. 2. Tilbageholdelse kan ske, indtil forholdene er bragt i overensstemmelse med de i stk. 1 nævnte bestemmelser. Tilbageholdelse kan endvidere ske, hvis det er nødvendigt for at sikre et krav på betaling af bøde og sagsomkostninger eller for at sikre konfiskation, herunder værdikonfiskation, dog kun indtil de nævnte beløb er betalt eller der er stillet sikkerhed herfor. Sker dette ikke inden for 2 måneder efter sagens endelige afgørelse, kan der søges fyldestgørelse i motorkøretøjet. Tilbageholdelse kan dog ikke ske, hvis den, der havde rådighed over motorkøretøjet, da overtrædelsen fandt sted, var uberettiget i besiddelse af dette.
+
+Stk. 3. Retsplejelovens bestemmelser om beslaglæggelse med henblik på konfiskation finder tilsvarende anvendelse.
