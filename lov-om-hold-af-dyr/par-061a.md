@@ -1,0 +1,1 @@
+§ 61 a. Ministeren for fødevarer, landbrug og fiskeri kan fastsætte regler om, at besætningsejer og transportør for egen regning skal gennemføre egenkontrol ved transport af slagtesvin, der efter aftale mellem besætningsejer og slagteri transporteres direkte fra en svinebesætning i Danmark til et slagteri i Danmark uden øremærkning eller skinketatovering.
