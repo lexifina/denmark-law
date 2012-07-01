@@ -1,0 +1,3 @@
+§ 31 b. Har en SIKAV ikke en bestyrelse, eller undlader en SIKAV at indkalde til en generalforsamling, som skal afholdes efter loven, vedtægterne eller en generalforsamlingsbeslutning, indkaldes generalforsamlingen af Finanstilsynet efter anmodning fra et medlem af SIKAV’ens bestyrelse, den generalforsamlingsvalgte revisor eller en investor. Tilsynet kan fastsætte generalforsamlingens dagsorden.
+
+Stk. 2. En generalforsamling, som er indkaldt af Finanstilsynet, ledes af en person, som Finanstilsynet har bemyndiget dertil, og SIKAV’ens bestyrelse skal udlevere generalforsamlingsprotokollen og revisionsprotokollen. Udgifterne til generalforsamlingen udlægges af Finanstilsynet, men afholdes endeligt af SIKAV’en.
