@@ -1,0 +1,3 @@
+§ 3 b. Sundheds- og ældreministeren kan efter ansøgning fra en kommunalbestyrelse meddele konkrete tilladelser til oprettelse og drift af kommunale stofindtagelsesrum og stofindtagelsesrum drevet af selvejende institutioner med driftsoverenskomst med kommunen for personer på 18 år eller derover med en stærk afhængighed som følge af et længere og vedvarende misbrug af euforiserende stoffer.
+
+Stk. 2. Sundheds- og ældreministeren fastsætter nærmere regler om stofindtagelsesrum som nævnt i stk. 1, herunder om bl.a. hygiejniske omgivelser, overvågning ved kvalificeret personale, stofindtagelse, social- og sundhedsfaglige tilbud og afrapportering.
