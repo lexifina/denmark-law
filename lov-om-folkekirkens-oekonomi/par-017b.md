@@ -2,7 +2,7 @@
 
 Stk. 2. På det første provstiudvalgsmøde efter nyvalg afgiver de menighedsrepræsentanter, som ikke tidligere har afgivet en erklæring som foreskrevet i § 7 i lov om menighedsråd, en sådan erklæring.
 
-Stk. 3. Provstiudvalget kan beslutte at tillægge formanden honorar. Honorar kan dog kun tillægges formanden, såfremt denne er valgt medlem af provstiudvalget. Kirkeministeren kan fastsætte nærmere regler om formandshonoraret.
+Stk. 3. Provstiudvalget kan beslutte at tillægge formanden honorar. Honorar kan dog kun tillægges formanden, såfremt denne er valgt medlem af provstiudvalget. Ministeren for ligestilling og kirke kan fastsætte nærmere regler om formandshonoraret.
 
 Stk. 4. Provstiudvalgets beslutninger træffes i møder. Provstiudvalget er beslutningsdygtigt, når mindst halvdelen af medlemmerne er til stede. Beslutninger træffes ved stemmeflertal.
 
@@ -14,4 +14,4 @@ Stk. 7. Provstiudvalget fastsætter selv sin forretningsorden. Er der uenighed i
 
 Stk. 8. De i lov om menighedsråd § 46, stk. 1, nævnte regler om annullation og suspension af beslutninger finder tilsvarende anvendelse over for et provstiudvalgs beslutninger, der strider mod lovgivningen. Endvidere finder de i lov om menighedsråd § 46, stk. 2-5, og § 48 nævnte regler om pålæggelse af tvangsbøder i forbindelse med ulovlige undladelser, anlæggelse af erstatningssager ved domstolene, frafald af erstatningsanlæg mod betaling af erstatningsretlig bod samt nedsættelse eller helt bortfald af en erstatning tilsvarende anvendelse over for medlemmer af provstiudvalg, der er ansvarlige for en undladelse eller for, at en kirkekasse eller provstiudvalgskassen er påført et tab.
 
-Stk. 9. Stiftsøvrighedens afgørelser efter stk. 8, 1. pkt., kan af provstiudvalget indbringes for kirkeministeren. Stiftsøvrighedens afgørelser efter stk. 8, 2. pkt., kan af de pågældende medlemmer af provstiudvalget indbringes for kirkeministeren.
+Stk. 9. Stiftsøvrighedens afgørelser efter stk. 8, 1. pkt., kan af provstiudvalget indbringes for ministeren for ligestilling og kirke. Stiftsøvrighedens afgørelser efter stk. 8, 2. pkt., kan af de pågældende medlemmer af provstiudvalget indbringes for ministeren for ligestilling og kirke.

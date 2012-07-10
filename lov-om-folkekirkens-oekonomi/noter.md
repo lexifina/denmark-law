@@ -2,4 +2,4 @@
 
 2) Ændringslovens § 1, nr. 4, vedrører § 23 og § 23 a.
 
-3) Ændringslovens § 1 vedrører § 21 b, stk. 2.
+3) Ændringslovens § 1 vedrører § 19, stk. 1, 2. og 3. pkt., og § 20, stk. 2.
