@@ -4,4 +4,4 @@ Stk. 2. Har folkepensionen været opsat i to perioder, jf. § 15 b, stk. 3, opg�
 
 Stk. 3. Ved opsætningens ophør ved død, jf. § 15 c, stk. 4, beregnes der ikke venteprocent, og der udbetales ikke engangsbeløb efter § 15 d, stk. 4, efter ophøret.
 
-Stk. 4. Beskæftigelsesministeren fastsætter nærmere regler om opgørelsen af venteprocenten.
+Stk. 4. Social- og integrationsministeren fastsætter nærmere regler om opgørelsen af venteprocenten.

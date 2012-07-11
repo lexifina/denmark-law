@@ -1,1 +1,1 @@
-§ 72 a. (Ophævet)
+§ 72 a. (Ophævet).

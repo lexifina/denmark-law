@@ -8,4 +8,4 @@ Stk. 3. Kommunen fratrækker modtagerens bidrag ved den månedlige udbetaling af
 
 Stk. 4. Staten afholder kommunens udgifter til det supplerende pensionsbidrag efter denne lov.
 
-Stk. 5. Beskæftigelsesministeren kan fastsætte regler om den konkrete udformning og administrative tilrettelæggelse af den supplerende pensionsordning.
+Stk. 5. Social- og integrationsministeren kan fastsætte regler om den konkrete udformning og administrative tilrettelæggelse af den supplerende pensionsordning.
