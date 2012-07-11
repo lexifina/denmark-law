@@ -6,4 +6,4 @@ Stk. 3. Ved påbegyndelse og ophør af opsætningen midt i et år opgøres besk�
 
 Stk. 4. Er beskæftigelseskravet i stk. 1 eller stk. 3 ikke opfyldt i en opgørelsesperiode, ses der ved opgørelsen af venteprocenten bort fra denne periode. I stedet udbetales et engangsbeløb svarende til den berettigede folkepension for den pågældende periode, jf. dog § 15 e, stk. 3. Beløbet beregnes på grundlag af modtagerens faktiske indkomst for perioden.
 
-Stk. 5. Beskæftigelsesministeren fastsætter nærmere regler om opgørelse af beskæftigelsens omfang, herunder om personligt arbejde i selvstændig virksomhed og om kontrol heraf, samt om beregning af engangsbeløb.
+Stk. 5. Social- og integrationsministeren fastsætter nærmere regler om opgørelse af beskæftigelsens omfang, herunder om personligt arbejde i selvstændig virksomhed og om kontrol heraf, samt om beregning af engangsbeløb.

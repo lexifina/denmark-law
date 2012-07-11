@@ -1,6 +1,4 @@
-Lov nr. 914 af 16. december 1998 indeholder nedenstående ikrafttrædelses- og overgangsbestemmelser. (Lovændringen vedrører §§ 29, 31, 32, 33, 41, 47, 49 og 72 c. Lovændringen angår ændrede udbetalingsregler, ligestilling af samlevende med gifte m.v.)
-
-Information til nedenstående § 3, stk. 3: Lovens § 1, nr. 8, trådte i kraft den 1. februar 1999, jf. bekendtgørelse nr. 23 af 13. januar 1999.
+Lov nr. 914 af 16. december 1998 indeholder nedenstående ikrafttrædelses- og overgangsbestemmelser. (Lovændringen vedrører §§ 29, 31, 32, 33, 41, 47, 49 og 72 c. Lovændringen angår ændrede udbetalingsregler, ligestilling af samlevende med gifte m.v.) Information til nedenstående § 3, stk. 3: Lovens § 1, nr. 8, trådte i kraft den 1. februar 1999, jf. bekendtgørelse nr. 23 af 13. januar 1999.
 
 § 3
 
@@ -18,7 +16,7 @@ Stk. 6. § 33, stk. 1, som ændret ved denne lovs § 1, nr. 8, finder anvendelse
 
 Stk. 7. Til personer, som opnår ret til social pension efter lovens ikrafttræden, jf. stk. 3, og som forud har modtaget forudbetalt løn eller en forudbetalt offentlig forsørgelsesydelse, udbetales en ekstra måneds pension for den første måned, for hvilken der udbetales pension. Den ekstra måneds pension udbetales forud.
 
-Lov nr. 287 af 12. maj 1999 indeholder nedenstående ikrafttrædelses- og overgangsbestemmelser (Lovændringen vedrører §§ 2, 3, 4, 5, 6, 10, 12, 13, 14, 16, 18, 20, 28, 29, 31, 37, 44, 49, 52, 69, 70, 71, 72, 72 b og 72 c. Lovændringen angår nedsættelse af folkepensionsalderen fra 67 til 65 år m.v.)
+Lov nr. 287 af 12. maj 1999 indeholder nedenstående ikrafttrædelses- og overgangsbestemmelser. (Lovændringen vedrører §§ 2, 3, 4, 5, 6, 10, 12, 13, 14, 16, 18, 20, 28, 29, 31, 37, 44, 49, 52, 69, 70, 71, 72, 72 b og 72 c. Lovændringen angår nedsættelse af folkepensionsalderen fra 67 til 65 år m.v.)
 
 § 2
 
@@ -36,9 +34,7 @@ Stk. 1. Loven træder i kraft den 1. april 2001, jf. dog stk. 2.
 
 Stk. 2. § 1, nr. 3 og 4, træder i kraft den 1. januar 2001. For bortgivelse eller lignende dispositioner, der er foretaget inden den 1. januar 2001, finder de hidtil gældende regler i §§ 28 og 29 i lov om social pension dog fortsat anvendelse.
 
-Lov nr. 285 af 25. april 2001 indeholder nedenstående ikrafttrædelses- og overgangsbestemmelser. (Lovændringen vedrører §§ 1, 3, 5 og 7, kap. 2 og 3, §§ 28-32, kap. 4 a, §§ 33, 33 a, 33 b, 37, 39, 39 a, 43 a, 44, 46, 47, 49, 52, 57, 59, 62, 69, 70, 71, 72, 72 b og 72 c. Lovændringen angår førtidspensionsreform.)
-
-Information til nedenstående § 6, stk. 3: Bekendtgørelsen i Lovtidende fandt sted den 26. april 2001.
+Lov nr. 285 af 25. april 2001 indeholder nedenstående ikrafttrædelses- og overgangsbestemmelser. (Lovændringen vedrører §§ 1, 3, 5 og 7, kap. 2 og 3, §§ 28-32, kap. 4 a, §§ 33, 33 a, 33 b, 37, 39, 39 a, 43 a, 44, 46, 47, 49, 52, 57, 59, 62, 69, 70, 71, 72, 72 b og 72 c. Lovændringen angår førtidspensionsreform. ) Information til nedenstående § 6, stk. 3: Bekendtgørelsen i Lovtidende fandt sted den 26. april 2001.
 
 § 6
 
@@ -58,9 +54,7 @@ Stk. 7. § 27 a i lov om aktiv socialpolitik som affattet ved denne lovs § 4, n
 
 Stk. 8. Personer, der er tilkendt førtidspension eller invaliditetsydelse, eller for hvem der er påbegyndt sag herom inden den 1. januar 2003, er dog uanset § 5, nr. 1 og 2, også efter udgangen af 2002 berettiget til boligydelse efter de regler i lov om individuel boligstøtte, der gælder for modtagere af folkepension.
 
-Lov nr. 394 af 28. maj 2003 indeholder nedenstående ikrafttrædelses- og overgangsbestemmelser. (Lovændringen vedrører §§ 29, og 32 a. Lovændringen angår forbedring af vilkårene for medarbejderaktieordninger.)
-
-Information til nedenstående § 17, stk. 1: Bekendtgørelsen i Lovtidende fandt sted den 30. maj 2003.
+Lov nr. 394 af 28. maj 2003 indeholder nedenstående ikrafttrædelses- og overgangsbestemmelser. (Lovændringen vedrører §§ 29, og 32 a. Lovændringen angår forbedring af vilkårene for medarbejderaktieordninger. ) Information til nedenstående § 17, stk. 1: Bekendtgørelsen i Lovtidende fandt sted den 30. maj 2003.
 
 § 17
 
@@ -68,7 +62,7 @@ Stk. 1. Loven træder i kraft dagen efter bekendtgørelsen i Lovtidende.
 
 Stk. 2. § 1, nr. 6, 7 og 9, og §§ 4, 5, 11 og 13-16 har virkning for aktier, køberetter til aktier og tegningsretter til aktier, der tildeles den 1. juli 2003 eller senere, jf. dog stk. 6. For aktier, køberetter til aktier og tegningsretter til aktier, der er tildelt før den 1. juli 2003, finder de hidtil gældende regler, herunder reglerne i ligningslovens §§ 28 A-C fortsat anvendelse.
 
-Stk. 3-5. ...
+Stk. 3-5. (Udeladt).
 
 Stk. 6. For aktier, køberetter til aktier og tegningsretter til aktier, der er tildelt før den 1. juli 2003, og hvor tidspunktet for den ansattes beskatning af de modtagne aktier m.v. indtræder den 1. januar 2003 eller senere, kan den ansatte og det selskab, der har ydet de pågældende aktier m.v., indgå aftale om, at reglerne i ligningslovens § 7 H, som affattet ved denne lovs § 1, nr. 6, skal finde anvendelse. Indgås en sådan aftale, skal indberetning herom foretages for det kalenderår, hvor aftalen er indgået.
 
@@ -76,7 +70,7 @@ Stk. 7. Såfremt en anvendelse af reglerne i stk. 6 kræver ændringer i de afta
 
 Stk. 8. Reglerne i § 6 a, stk. 5, nr. 2, i lov om VækstFonden som affattet ved § 12, nr. 2, finder alene anvendelse for aktier, der er deponeret til betaling af afgift vedrørende april kvartal 2003 eller tidligere.
 
-Lov nr. 327 af 18. maj 2005 indeholder nedenstående ikrafttrædelses- og overgangsbestemmelser. (Lovændringen vedrører §§ 34, 46-46 b og 53. Lovændringen angår ophør af udbetaling af social pension og andre ydelser ved unddragelse af strafforfølgning eller straffuldbyrdelse.)
+Lov nr. 327 af 18. maj 2005 indeholder nedenstående ikrafttrædelses- og overgangsbestemmelser. (Lovændringen vedrører §§ 34, 46-46 b og 53. Lovændringen angår ophør af udbetaling af social pension og andre ydelser ved unddragelse af strafforfølgning eller straffuldbyrdelse. )
 
 § 13
 
@@ -88,15 +82,7 @@ Stk. 3. Hvis pensionsudbetalingen ved lovens ikrafttræden er ophørt efter de h
 
 Stk. 4. Hvis pensionsudbetalingen ved lovens ikrafttræden er ophørt efter de hidtil gældende regler i § 45 i lov om højeste, mellemste, forhøjet almindelig og almindelig førtidspension m.v., genoptages pensionsudbetalingen ved opholdets ophør efter de hidtil gældende regler i lovens § 34.
 
-Lov nr. 1586 af 20. december 2006 indeholder nedenstående ikrafttrædelsesbestemmelse. (Lovændringen vedrører § § 1a, 2, 3, 5, 13, 16, 33 d, 33 e, 37, 72 e. Lovændringen angår gradvis forhøjelse af folkepensionsalderen til 67 år m.v.)
-
-§ 3
-
-Loven træder i kraft den 1. juli 2009.
-
-Lov nr. 445 af 9. juni 2008 indeholder nedenstående ikrafttrædelses- og overgangsbestemmelse. (Lovændringen vedrører §§ 15 a, 15 d, 29, 32 a og 49).
-
-Lovændringen angår øget bundfradrag for folkepensionister, reduceret beskæftigelseskrav ved opsat pension og sikkerhed for ret til førtidspension.
+Lov nr. 445 af 9. juni 2008 indeholder nedenstående ikrafttrædelses- og overgangsbestemmelser. (Lovændringen vedrører §§ 15 a, 15 d, 29, 32 a og 49. Lovændringen angår øget bundfradrag for folkepensionister, reduceret beskæftigelseskrav ved opsat pension og sikkerhed for ret til førtidspension. )
 
 § 3
 
@@ -106,53 +92,7 @@ Loven træder i kraft den 1. juli 2008.
 
 Adgangen til at fradrage indtægter ved personligt arbejde efter § 29, stk. 1, nr. 4, i lov om social pension som affattet ved denne lovs § 1, nr. 4, § 32 a, stk. 1, nr. 4, som affattet ved denne lovs § 1, nr. 5, og § 26, stk. 1, 3. pkt., som affattet ved denne lovs § 2, nr. 2, gælder i 2008 alene indtægter ved personligt arbejde i perioden fra den 1. juli 2008 og op til et beløb på i alt 15.000 kr.
 
-Lov nr. 446 af 9. juni 2008 indeholder nedenstående ikrafttrædelsesbestemmelse. (Lovændringen vedrører § 72 d.)
-
-Lovændringen angår højere supplerende pensionsydelse.
-
-§ 4
-
-Loven træder i kraft den 1. juli 2008.
-
-Lov nr. 1336 af 19. december 2008 indeholder nedenstående ikrafttrædelses- og overgangsbestemmelse. (Lovændringen vedrører §§ 47 og 72 a)
-
-Lovændringen angår konsekvensændringer som følge af lov om inddrivelse af gæld til det offentlige.
-
-§ 167
-
-Loven træder i kraft den 1. januar 2009, jf. dog stk. 2. § 11 finder alene anvendelse på afgørelser om lønindeholdelse, der træffes efter lovens ikrafttræden.
-
-Stk. 2. Skatteministeren fastsætter tidspunktet for ikrafttrædelse af § 9, § 99, nr. 3, § 103, § 109, nr. 4 og 5, § 117, nr. 4, § 118, nr. 1, § 136, nr. 1, 3 og 4, § 144, nr. 1 og 2, § 148, nr. 2, og § 149, nr. 2.
-
-Lov nr. 1345 af 19. december 2008 indeholder nedenstående ikrafttrædelsesbestemmelse. (Lovændringen vedrører §§ 29 og 32 a)
-
-Lovændringen angår ligestilling af dansk og udenlandsk udbytte m.v.
-
-§ 5
-
-Loven træder i kraft den 1. januar 2009.
-
-Lov nr. 286 af 15. april 2009 indeholder nedenstående ikrafttrædelsesbestemmelse. (Lovændringen vedrører § 36)
-
-Lovændringen angår initiativer for at forhindre udsættelser af lejere som følge af manglende betaling af husleje m.v.
-
-§ 9
-
-Stk. 1. Loven træder i kraft den 1. juni 2009.
-
-Stk. 2. Lov om leje af almene boliger § 90, stk. 2, som affattet ved denne lovs § 1, nr. 1-5, og lov om leje § 93, stk. 2, som affattet ved denne lovs § 2 nr. 1-4, har virkning for påkrav, som er afgivet efter lovens ikrafttræden.
-
-Lov nr. 477 af 12. juni 2009 indeholder nedenstående ikrafttrædelsesbestemmelse. (Lovændringen vedrører §§ 31, 49 og 72 c)
-
-Lovændringen angår forhøjelse af pensionstillæg m.v.
-
-§ 3
-
-Loven træder i kraft den 1. januar 2010.
-
-Lov nr. 521 af 12. juni 2009 indeholder nedenstående ikrafttrædelses- og overgangsbestemmelse. (Lovændringen vedrører §§ 29 og 32 a)
-
-Lovændringen angår konsekvensændringer som følge af Forårspakke 2.0 m.v.
+Lov nr. 521 af 12. juni 2009 indeholder nedenstående ikrafttrædelses- og overgangsbestemmelser. (Lovændringen vedrører §§ 29 og 32 a. Lovændringen angår konsekvensændringer som følge af Forårspakke 2.0 m.v.)
 
 § 29
 
@@ -176,13 +116,7 @@ Stk. 9. § 23, stk. 3 og 4, i lov om arbejdsmarkedsbidrag om opkrævning af løn
 
 Stk. 10. § 8 finder anvendelse, når en person er afgået ved døden den 1. januar 2011 eller senere, jf. dog stk. 6.
 
-Lov nr. 1510 af 27. december 2009 indeholder nedenstående ikrafttrædelsesbestemmelse. (Lovændringen vedrører § 49. Lovændringen angår forhøjelse af formuegrænsen for supplerende pensionsydelse og helbredstillæg.)
-
-§ 3
-
-Loven træder i kraft den 1. januar 2010
-
-Lov nr. 429 af 28. april 2010 indeholder nedenstående ikrafttrædelses- og overgangsbestemmelse. (Lovændringen vedrører §§ 3, 11, 15 d, 29, 32 a, 46 b, 55 og 62. Lovændringen angår kompetencen til at træffe afgørelse om lovvalg m.v. efter EF-forordning nr. 883/04 om koordinering af de sociale sikringsordninger m.v.)
+Lov nr. 429 af 28. april 2010 indeholder nedenstående ikrafttrædelses- og overgangsbestemmelser. (Lovændringen vedrører §§ 3, 11, 15 d, 29, 32 a, 46 b, 55 og 62. Lovændringen angår kompetencen til at træffe afgørelse om lovvalg m.v. efter EF-forordning nr. 883/04 om koordinering af de sociale sikringsordninger m.v.)
 
 § 20
 
@@ -192,8 +126,64 @@ Stk. 2. De hidtil gældende regler i § 46, stk. 3, og §§ 86 a og 87 a i lov o
 
 Stk. 3. Henvisninger til forordning (EØF) nr. 1408/71 forbliver i kraft, og anvendelsen af denne forordning bevares i forhold til det enkelte EØS-land og Schweiz, så længe det enkelte EØS-land eller Schweiz ikke har tilsluttet sig forordning (EF) nr. 883/04.
 
-Lov nr. 699 af 25. juni 2010 indeholder følgende ikrafttrædelses- og overgangsbestemmelse. (Lovændringen vedrører § 41 a. Lovændringen angår meddelelsespligt ved længerevarende midlertidigt ophold i lande uden for EU/EØS og Schweiz samt mulighed for øget kontrol med udbetaling af social pension)
+Lov nr. 1603 af 22. december 2010 indeholder nedenstående ikrafttrædelses- og overgangsbestemmelser. (Lovændringen vedrører § 9. Lovændringen angår harmonisering af regler om opgørelse af bopælstid for ret til folkepension. )
 
-§ 4
+§ 2
 
-Loven træder i kraft den 1. juli 2010.
+Stk. 1. Loven træder i kraft den 1. januar 2011, jf. dog stk. 2.
+
+Stk. 2. Den hidtil gældende § 9 i lov om social pension finder fortsat anvendelse ved opgørelse af optjeningsgrundlaget for ret til folkepension for udlændinge, som er meddelt ophold i Danmark efter udlændingelovens § 7 eller § 8, som er indrejst i Danmark før lovens ikrafttræden, og som har opnået folkepensionsalderen før den 1. januar 2021.
+
+Lov nr. 1386 af 28. december 2011 indeholder nedenstående ikrafttrædelses- og overgangsbestemmelser. (Lovændringen vedrører §§ 1 a, 15 d, 17, 18, 19, 21, 29 og 33. Lovændringen angår forhøjelse af folkepensionsalder, indførelse af seniorførtidspension m.v.)
+
+§ 2
+
+Stk. 1. Loven træder i kraft den 1. januar 2012, jf. dog stk. 2.
+
+Stk. 2. § 1, nr. 2-11, træder i kraft den 1. januar 2014.
+
+Stk. 3. En sikringspligtig arbejdsgiver efter lov om arbejdsskadesikring kan ikke opsige en forsikring på grund af en forhøjelse af præmien, som er begrundet i en forøgelse af udgifterne, der er en følge af vedtagelsen af denne lov.
+
+Lov nr. 326 af 11. april 2012 indeholder nedenstående ikrafttrædelses- og overgangsbestemmelse. (Lovændringen vedrører §§ 7, 13-14 a, 15-15 f, 29, 31-32, 33-33 d, 36, 39-39 a, 41-41 a, 46, 46 b, 47, 49, 50, 52, 56 a, 57, 62-62 a og 72 d. Lovændringen angår fordeling af myndighedsansvaret mellem kommunerne og Udbetaling Danmark m.v.)
+
+§ 25
+
+Stk. 1. Loven træder i kraft den 1. oktober 2012, jf. dog stk. 2-4.
+
+Stk. 2-3. (Udeladt).
+
+Stk. 4. Lovens §§ 1-3, § 7, nr. 7, og §§ 15, 17 og 24 træder i kraft den 1. marts 2013.
+
+§ 26
+
+Stk. 1. Sager, hvor myndighedsansvaret overgår til Udbetaling Danmark efter denne lovs §§ 1-5, 9, 13 og 24, og som ved lovens ikrafttræden ikke er afgjort eller afsluttet i kommunen, behandles færdige i Udbetaling Danmark.
+
+Stk. 2. Hvis borgeren har givet samtykke til kommunen efter § 11 a, stk. 1, i lov om retssikkerhed og administration på det sociale område på et sagsområde, der efter denne lovs §§ 1-5 og 13 overføres til behandling i Udbetaling Danmark, kan Udbetaling Danmark behandle sagen uden fornyet samtykke. Hvis borgeren har givet samtykke til det sociale nævn eller beskæftigelsesankenævnet efter § 11 a, stk. 5, i lov om retssikkerhed og administration på det sociale område på et sagsområde, der efter denne lovs §§ 1-5 og 13 overføres til behandling i Udbetaling Danmark, kan Ankestyrelsen behandle sagen uden fornyet samtykke.
+
+Stk. 3. Afgørelser, der er truffet af kommunen inden lovens ikrafttræden på sagsområder, der efter denne lovs §§ 1-5, 9 og 13 overgår til Udbetaling Danmark, og som påklages efter lovens ikrafttræden for de respektive sagsområder, kan indbringes for Ankestyrelsen som første og eneste administrative klageinstans, jf. § 64 a i lov om retssikkerhed og administration på det sociale område. § 66 i lov om retssikkerhed og administration på det sociale område om pligt til at genvurdere sagen finder ikke anvendelse.
+
+Stk. 4. Sager, hvor myndighedsansvaret overgår til Udbetaling Danmark efter denne lovs §§ 1-5, 9 og 13, og som inden lovens ikrafttræden for de respektive sagsområder er indbragt for det sociale nævn eller beskæftigelsesankenævnet, og som ikke ved lovens ikrafttræden for de respektive sagsområder er afgjort, behandles færdige i Ankestyrelsen som første og eneste administrative klageinstans.
+
+Stk. 5. Afgørelser efter denne lovs §§ 1-5, 9 og 13, som inden lovens ikrafttræden for de respektive sagsområder er truffet af det sociale nævn eller beskæftigelsesankenævnet, kan påklages til Ankestyrelsen eller Ankestyrelsens Beskæftigelsesudvalg efter de hidtil gældende regler. § 66 i lov om retssikkerhed og administration på det sociale område om pligt til at genvurdere sagen finder ikke anvendelse.
+
+Stk. 6. Krav, som kommunen måtte have mod borgeren, eller krav, som borgeren måtte have mod en kommune efter lovens §§ 1-5, 9 og 13 ved lovens ikrafttræden for de respektive sagsområder, overgår til Udbetaling Danmark. Fordringer, for hvilke kommunen har påbegyndt opkrævning af tilbagebetalingskrav, forbliver dog i kommunen, medmindre fordringen opkræves ved modregning eller fradrages i en ydelse, der efter lovens ikrafttræden for de respektive sagsområder udbetales af Udbetaling Danmark, eller i tilfælde, hvor Udbetaling Danmark træffer en ny afgørelse, som vedrører samme fordring.
+
+Stk. 7-9. (Udeladt).
+
+Stk. 10. På sagsområder, hvor myndighedsansvaret overgår til Udbetaling Danmark efter denne lovs §§ 1-3 og 24, videregiver Københavns Kommune senest den 1. januar 2013 en elektronisk kopi af alle sager, hvori kommunen i perioden fra den 1. januar 2011 til den 1. marts 2012 har truffet endelig afgørelse. Udbetaling Danmark må alene bruge de pågældende sager i uddannelsesøjemed og kun i perioden fra den 1. januar 2013 til den 28. februar 2013.
+
+§ 27
+
+Stk. 1. Efter lovens ikrafttræden påhviler ansvaret for opbevaring af arkivalier og varetagelse af de arkivmæssige hensyn i sager vedrørende Udbetaling Danmarks sagsområde:
+
+1) Kommunalbestyrelsen i afsluttede og passivførte sager på sagsområder, hvor myndighedsansvaret efter lovens §§ 1-5, 13 og 24 overføres til Udbetaling Danmark, og afsluttede og passivførte sager efter lovens § 9, hvor kommunalbestyrelsen har truffet afgørelse efter lov om en børne- og ungeydelse.
+
+2) Kommunalbestyrelsen i sager, hvor der fortsat sker udbetaling på sagsområder, der efter lovens §§ 1-5, 13 og 24 skal overføres til Udbetaling Danmark, og hvor kommunalbestyrelsen har truffet afgørelse om tilkendelse af en ydelse forud for det tidspunkt, hvor sagsområdet overgår til Udbetaling Danmark, og sager efter lovens § 9, hvor kommunalbestyrelsen har truffet afgørelse efter lov om en børne- og ungeydelse, jf. dog nr. 3.
+
+3) Udbetaling Danmark i sager efter lovens §§ 4 og 9, hvor kommunalbestyrelsen har truffet afgørelse for at opfylde internationale forpligtelser, og hvor der fortsat sker udbetaling.
+
+4) Udbetaling Danmark i alle øvrige sager på sagsområder, hvor myndighedsansvaret efter lovens §§ 1-5, 9, 13 og 24 overføres til Udbetaling Danmark, og som ikke er omfattet af nr. 1 eller 2.
+
+Stk. 2. Kommunen skal efter anmodning fra Udbetaling Danmark sende en kopi af de ønskede akter fra sager, der efter stk. 1, nr. 1 eller 2, opbevares i kommunen. Kommunen har i forbindelse med anmodninger om kopi af akter fra Udbetaling Danmark uden samtykke fra borgeren ret til at gennemgå og sortere en sag, som kommunen opbevarer for Udbetaling Danmark, med henblik på at kunne imødekomme Udbetaling Danmarks anmodning. Kommunen har desuden ret til at gennemgå og sortere en sag, som kommunen opbevarer for Udbetaling Danmark, hvis sagen indeholder oplysninger, der vedrører kommunens sagsområde, og hvis kommunen har et sagligt behov for oplysningerne.
+
+Stk. 3. Social- og integrationsministeren kan efter indstilling fra bestyrelsen for Udbetaling Danmark fastsætte regler om, at Udbetaling Danmark fra 2015 skal betale et gebyr til kommunen for at varetage opgaven efter stk. 2, 1. pkt., og regler om udfasning af kommunernes arkivforpligtelse over for Udbetaling Danmark fra 2018.

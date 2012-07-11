@@ -6,4 +6,4 @@ Stk. 3. Til pensionister, der har valgt sikringsgruppe 2 efter sundhedsloven, yd
 
 Stk. 4. Der ydes desuden helbredstillæg til betaling af pensionistens egne udgifter til tandproteser, briller og fodbehandling, såfremt kommunen vurderer, at udgiften er nødvendig. Tillægget beregnes i forhold til 85 pct. af pensionistens egen andel af udgiften. Kommunen kan indgå prisaftaler med leverandører af tandproteser, briller og fodbehandling, og det er den aftalte pris, der lægges til grund for beregningen af helbredstillæg. Pensionisten kan frit vælge en anden leverandør end den eller de leverandører, kommunen har indgået prisaftale med. Har kommunen ikke indgået en prisaftale, beregnes helbredstillægget i forhold til den faktiske pris på den nødvendige udgift.
 
-Stk. 5. Beskæftigelsesministeren kan fastsætte nærmere regler om helbredstillæg, herunder hvilke udgiftstyper der er omfattet af stk. 4.
+Stk. 5. Social- og integrationsministeren kan fastsætte nærmere regler om helbredstillæg, herunder hvilke udgiftstyper der er omfattet af stk. 4.

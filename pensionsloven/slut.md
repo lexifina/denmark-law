@@ -1,5 +1,5 @@
-Beskæftigelsesministeriet, den 19. august 2010
+Social- og Integrationsministeriet, den 9. juli 2012
 
-Inger Støjberg
+P.M.V. Jesper Zwisler
 
-/ Bent Nielsen
+/ Dorte Bech Vizard

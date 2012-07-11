@@ -10,4 +10,4 @@ Stk. 4. ATP-bidraget fra modtageren af førtidspension indeholdes månedsvis ved
 
 Stk. 5. Staten afholder kommunens udgifter til ATP-bidrag efter denne lov.
 
-Stk. 6. De nærmere regler om bidragsbetaling efter stk. 1-4, herunder betingelser for ophør af bidragsbetaling, fastsættes af beskæftigelsesministeren efter indstilling fra bestyrelsen for Arbejdsmarkedets Tillægspension.
+Stk. 6. De nærmere regler om bidragsbetaling efter stk. 1-4, herunder betingelser for ophør af bidragsbetaling, fastsættes af social- og integrationsministeren efter indstilling fra bestyrelsen for Arbejdsmarkedets Tillægspension.
