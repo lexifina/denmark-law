@@ -1,0 +1,3 @@
+§ 92 c. Indehaveren af en markedsføringstilladelse skal sende en rapport om resultaterne af en ikkeinterventionssikkerhedsundersøgelse til Sundhedsstyrelsen. Hvis en undersøgelse også er gennemført i andre EU/EØS-lande, skal rapporten desuden fremsendes til de pågældende lande. Fremsendelse skal ske, senest 12 måneder efter at indsamlingen af data fra undersøgelsen er afsluttet, medmindre Sundhedsstyrelsen skriftligt har tilladt en fravigelse af denne tidsfrist.
+
+Stk. 2. Ministeren for sundhed og forebyggelse fastsætter regler om krav til indhold og fremsendelse af de i stk. 1 nævnte rapporter, herunder særskilte krav til rapporter fra ikkeinterventionssikkerhedsundersøgelse, der er et vilkår for markedsføringstilladelsen.
