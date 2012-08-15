@@ -1,0 +1,1 @@
+1) Loven indeholder bestemmelser, der gennemfører Europa-Parlamentets og Rådets direktiv 2010/53/EU af 7. juli 2010 om kvalitets- og sikkerhedsstandarder for menneskelige organer til transplantation, EU-Tidende 2010, nr. L 207, side 14-29.
