@@ -1,4 +1,4 @@
-Social- og Integrationsministeriet, den 21. juni 2012
+Social- og Integrationsministeriet, den 23. august 2012
 
 P.M.V. Jesper Zwisler
 
