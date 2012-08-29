@@ -1,7 +1,5 @@
-Givet på Christiansborg Slot, den 14. juni 2010
+Ministeriet for Børn og Undervisning, den 24. august 2012
 
-Under Vor Kongelige Hånd og Segl
+Christine Antorini
 
-MARGRETHE R.
-
-/ Tina Nedergaard
+/ Merete Vinje
