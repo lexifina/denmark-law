@@ -1,5 +1,5 @@
-Ministeriet for Flygtninge, Indvandrere og Integration, den 6. april 2010
+Social- og Integrationsministeriet, den 29. august 2012
 
-Birthe Rønn Hornbech
+P.M.V. Jesper Zwisler
 
-/ Nina Svanborg
+/ Dorte Bech Vizard
