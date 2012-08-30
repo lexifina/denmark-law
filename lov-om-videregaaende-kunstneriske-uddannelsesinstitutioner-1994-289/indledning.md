@@ -1,7 +1,3 @@
-Bekendtgørelse af lov om videregående kunstneriske uddannelsesinstitutioner under Kulturministeriet
+Bekendtgørelse af lov om videregående kunstneriske uddannelsesinstitutioner
 
-Herved bekendtgøres lov nr. 289 af 27. april 1994 om videregående kunstneriske uddannelsesinstitutioner under Kulturministeriet med de ændringer, der følger af lov nr. 142 af 17. marts 1999.
-
-## Kapitel 1
-
-Almindelige bestemmelser
+Herved bekendtgøres lov om videregående kunstneriske uddannelsesinstitutioner, jf. lovbekendtgørelse nr. 889 af 21. september 2000, med de ændringer, der følger af lov nr. 1268 af 16. december 2009, lov nr. 549 af 31. maj 2011 og § 3 i lov nr. 1373 af 28. december 2011.

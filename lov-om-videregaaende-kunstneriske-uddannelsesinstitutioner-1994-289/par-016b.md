@@ -1,1 +1,1 @@
-§ 16 b. Institutionen er forpligtet til at medvirke til gennemførsel af en evaluering af institutionens virksomhed, hvis kulturministeren beslutter at iværksætte en sådan.
+§ 16 b. Institutionen er forpligtet til at medvirke til gennemførelse af en evaluering af institutionens virksomhed, hvis ministeren for forskning, innovation og videregående uddannelser beslutter at iværksætte en sådan.
