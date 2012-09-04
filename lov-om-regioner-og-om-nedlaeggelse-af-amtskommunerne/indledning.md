@@ -1,5 +1,3 @@
 Bekendtgørelse af lov om regioner og om nedlæggelse af amtskommunerne, Hovedstadens Udviklingsråd og Hovedstadens Sygehusfællesskab (regionsloven)
 
-Herved bekendtgøres lov om regioner og om nedlæggelse af amtskommunerne, Hovedstadens Udviklingsråd og Hovedstadens Sygehusfællesskab, jf. lovbekendtgørelse nr. 693 af 3. juli 2009 med de ændringer, der følger af § 2 i lov nr. 1515 af 27. december 2009.
-
-Den ændring, der følger af § 2, nr. 2, i lov nr. 510 af 6. juni 2007, er ikke indarbejdet i denne lovbekendtgørelse, da ændringen først træder i kraft den 1. januar 2012.
+Herved bekendtgøres lov om regioner og om nedlæggelse af amtskommunerne, Hovedstadens Udviklingsråd og Hovedstadens Sygehusfællesskab, jf. lovbekendtgørelse nr. 1401 af 1. november 2010 med de ændringer, der følger af § 2, nr. 2, i lov nr. 510 af 6. juni 2007, § 2 i lov nr. 606 af 14. juni 2011, § 2 i lov nr. 387 af 24. april 2012, § 19 i lov nr. 547 af 18. juni 2012 og lov nr. 586 af 18. juni 2012.

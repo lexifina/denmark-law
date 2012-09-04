@@ -1,5 +1,5 @@
-Indenrigs- og Sundhedsministeriet, den 1. november 2010
+Økonomi- og Indenrigsministeriet, den 30. august 2012
 
-Bertel Haarder
+P.M.V. Hans B. Thomsen
 
 / Christian Vigh
