@@ -1,13 +1,23 @@
-1) § 2, nr. 2, i lov nr. 510 af 6. juni 2007 har følgende ordlyd: ”2. § 28, stk. 1, affattes således: »Enhver region skal lade sine regnskaber revidere af en statsautoriseret eller registreret revisor. Regionens revision skal være sagkyndig og uafhængig. Regionsrådet antager regionens revision, der skal godkendes af vedkommende statsforvaltning, jf. § 30. Godkendelsen kan altid tilbagekaldes. Regionsrådets afskedigelse af revisionen kræver samtykke fra vedkommende statsforvaltning, jf. § 30.«” Den nævnte bestemmelse træder først i kraft den 1. januar 2012, jf. § 4, stk. 3, i lov nr. 510 af 6. juni 2007. Der henvises til overgangsbestemmelserne i § 5, stk. 2 og 3, i lov nr. 510 af 6. juni 2007.
+1) De ændringer, der følger af § 2, nr. 1 og 3, i lov nr. 510 af 6. juni 2007, er indarbejdet i lovbekendtgørelse nr. 1401 af 1. november 2010.
 
-2) Lovændringen vedrører § 12, § 28, stk. 1, § 34, § 35, stk. 1, 2. pkt., og § 35, stk. 2, 2. pkt.
+2) Henvisningen i regionsloven § 36, stk. 1, til samme lovs § 15, stk. 2-4, er rettelig en henvisning til regionsloven § 15, stk. 1-3.
 
-3) Der henvises til note 1.
+3) Den oprindelige hovedlov, jf. lov nr. 537 af 24. juni 2005, blev bekendtgjort i Lovtidende den 25. juni 2005.
 
-4) Der henvises til note 1.
+4) Lovændringen ved § 2, nr. 2, i lov nr. 510 af 6. juni 2007 vedrører § 28, stk. 1.
 
-5) Der henvises til note 1.
+5) Der henvises til note 4.
 
-6) Lovændringen vedrører § 33, § 35, stk. 1 og stk. 3, 2. pkt.
+6) Der henvises til note 4.
 
-7) Lovændringen vedrører § 10, § 15, stk. 1 og stk. 2, § 18, stk. 3, § 20, § 23, stk. 3, og § 36, stk. 1.
+7) Lovændringen vedrører § 10, § 15, stk. 1, § 18, stk. 3, § 20, stk. 1 og 2, § 23, stk. 3, og § 36, stk. 1.
+
+8) Lovændringen vedrører § 35 b.
+
+9) Lovændringen vedrører en ophævelse af § 35 b.
+
+10) Lovændringen ved § 19 i lov nr. 547 af 18. juni 2012 vedrører § 21, stk. 5, og § 28 a.
+
+11) Lovændringen ved § 19, nr. 1, i lov nr. 547 af 18. juni 2012 vedrører § 21, stk. 5.
+
+12) Lovændringen vedrører § 36, stk. 2.
