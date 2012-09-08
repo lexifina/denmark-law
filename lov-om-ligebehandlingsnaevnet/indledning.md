@@ -1,5 +1,3 @@
-Lov om Ligebehandlingsnævnet
+Bekendtgørelse af lov om Ligebehandlingsnævnet
 
-VI MARGRETHE DEN ANDEN, af Guds Nåde Danmarks Dronning, gør vitterligt:
-
-Folketinget har vedtaget og Vi ved Vort samtykke stadfæstet følgende lov:
+Herved bekendtgøres lov om Ligebehandlingsnævnet, jf. lov nr. 387 af 27. maj 2008 med de ændringer, der følger af lov nr. 530 af 11. juni 2012.

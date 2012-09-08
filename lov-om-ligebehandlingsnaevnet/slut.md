@@ -1,7 +1,5 @@
-Givet på Amalienborg, den 27. maj 2008
+Beskæftigelsesministeriet, den 3. september 2012
 
-Under Vor Kongelige Hånd og Segl
+Mette Frederiksen
 
-MARGRETHE R.
-
-/ Claus Hjort Frederiksen
+/ Pernille Christensen
