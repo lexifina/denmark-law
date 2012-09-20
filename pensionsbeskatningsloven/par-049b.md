@@ -4,7 +4,7 @@ Stk. 2. Af kontante tilbagebetalinger af fleksydelsesbidrag efter tilkendelse af
 
 Stk. 3. Kontante tilbagebetalinger af bidrag til fleksydelsesordningen efter § 31, stk. 2, nr. 2-4, og stk. 3, i lov om fleksydelse medregnes i den skattepligtige indkomst, og beskatningen sker efter reglerne i § 49 A, stk. 3, 2.-4. pkt. Skatteministeren kan fastsætte nærmere regler om fremgangsmåden i forbindelse med kontant tilbagebetaling af fleksydelsesbidrag efter denne bestemmelse.
 
-Stk. 4. Overførsel af fleksydelsesbidrag efter § 31, stk. 1, 2. pkt., i lov om fleksydelse til en pensionsordning omfattet af kapitel 1 behandles ikke som en indbetaling til pensionsordningen.
+Stk. 4. Overførsel af fleksydelsesbidrag efter § 31, stk. 1, 2. pkt., i lov om fleksydelse til en pensionsordning omfattet af kapitel 1 behandles ikke som en indbetaling til pensionsordningen. Ved overførsel til en aldersforsikring, aldersopsparing eller supplerende engangssum svares en afgift på 30 pct. af det overførte beløb.
 
 Stk. 5. Ved overførsel af fleksydelsesbidrag efter § 31, stk. 1, 2. pkt., i lov om fleksydelse til en udenlandsk pensionsordning, der ikke er godkendt af told- og skatteforvaltningen efter § 15 C, medregnes det overførte beløb i den skattepligtige indkomst, og beskatningen sker efter reglerne i § 49 A, stk. 3, 2.-4. pkt.
 
