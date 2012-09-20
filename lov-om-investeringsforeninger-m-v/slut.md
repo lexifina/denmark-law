@@ -1,7 +1,5 @@
-Givet på Christiansborg Slot, den 18. maj 2011
+Erhvervs- og Vækstministeriet, den 17. september 2012
 
-Under Vor Kongelige Hånd og Segl
+Ole Sohn
 
-MARGRETHE R.
-
-/ Brian Mikkelsen
+/ Ulrik Nødgaard
