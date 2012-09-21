@@ -1,25 +1,29 @@
-Lov nr. 350 af 6. juni 1991, ved hvis § 1 der blev foretaget ændringer af §§ 1, 3, 6, 8, 11, 22, 23, 25, 26, 28, 32, 33, 36-38, 43, 45, 46, 48-50, 53-56 og 59, indføjet et nyt nr. 6 og 7 i § 1, stk. 2, et nyt stk. 5 i § 1, et nyt stk. 4 i § 25 og en § 48 a, samt foretaget ophævelse af kapitel 3, § 6, stk. 3, § 12, stk. 2, § 22, stk. 3, og §§ 35, 47 og 52, indeholder i §§ 5-7 følgende bestemmelser:
-
-§ 5
-
-Stk. 1. Loven træder i kraft den 1. januar 1992.
-
-Stk. 2. (Udeladt).
-
-§ 6
-
-Justitsministeren henholdsvis industriministeren fastsætter de regler, der er nødvendige til lovens gennemførelse.
+Lov nr. 442 af 1. juni 1994 (Selskabstømninger m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
 
 § 7
 
-Loven gælder ikke for Færøerne eller Grønland, men §§ 1 (* 1)-2 kan ved kongelig anordning sættes i kraft for disse landsdele med de afvigelser, som landsdelenes særlige forhold medfører.
+Stk. 1. Loven træder i kraft dagen efter bekendtgørelsen i Lovtidende.
 
-Lov nr. 187 af 23. marts 1992, ved hvis § 1 der blev foretaget ændringer af §§ 9 og 43, indeholder i §§ 2 og 3 følgende bestemmelser:
+Stk. 2-6. (Udelades)
 
-§ 2
+Lov nr. 166 af 24. marts 1999 (Objektiveringer, justering af reglerne for beskatning ved død samt afgrænsning af told- og afgiftsområdet m.m.) indeholder følgende ikrafttrædelses- og overgangsbestemmelse:
 
-Uddeling i henhold til § 1, nr. 1 (* 2), af aktiver svarende til nettokursgevinster, som skal medregnes ved opgørelsen af den skattepligtige indkomst for indkomstsåret 1991, kan foretages med skattemæssig virkning for det nævnte indkomstsår, såfremt uddelingen er foretaget senest ved fondens rettidige indgivelse af selvangivelse for indkomstsåret 1991.
+§ 25
 
-§ 3
+Stk. 1. Loven træder i kraft den 1. januar 2000, jf. dog stk. 2-17.
 
-Loven træder i kraft dagen efter bekendtgørelsen i Lovtidende. (* 3)
+Stk. 2-15. (Udelades)
+
+Stk. 16. § 23 finder anvendelse på fonde og foreninger, der oprettes dagen efter lovens bekendtgørelse i Lovtidende eller senere, og fonde og foreninger, som dagen efter lovens bekendtgørelse i Lovtidende eller senere omlægger regnskabsperioden.
+
+Stk. 17. (Udelades)
+
+Lov nr. 525 af 12. juni 2009 (Harmonisering af selskabers aktie- og udbyttebeskatning m.v.) indeholder følgende ikrafttrædelses- og overgangsbestemmelse:
+
+§ 22
+
+Stk. 1. Loven træder i kraft dagen efter bekendtgørelsen i Lovtidende.
+
+Stk. 2. Loven har virkning fra og med indkomståret 2010, jf. dog 2. pkt., stk. 3-8 og stk. 11, 2. pkt. Loven har ikke virkning for aktier, som er afstået inden den 22. april 2009.
+
+Stk. 3-19. (Udelades)
