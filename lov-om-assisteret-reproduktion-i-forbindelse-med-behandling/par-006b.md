@@ -1,0 +1,1 @@
+§ 6 b. Hvis den sundhedsperson, der er ansvarlig for behandling med assisteret reproduktion af en enlig kvinde eller et par, som ikke har bopæl her i landet, vurderer, at der er åbenbar tvivl om den enlige kvindes eller parrets evne til at drage fornøden omsorg for et barn efter fødslen, skal sundhedspersonen afvise behandling med assisteret reproduktion.
