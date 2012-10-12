@@ -6,4 +6,4 @@ Stk. 3. En udlænding over 17 år, der er omfattet af § 42 a, stk. 1 og 2, jf. 
 
 Stk. 4. Indkvarteringsoperatøren, jf. § 42 a, stk. 5, 2. pkt., bestemmer, om en udlænding skal deltage i aktivering som nævnt i stk. 1-3.
 
-Stk. 5. Ministeren for flygtninge, indvandrere og integration kan fastsætte nærmere regler om indholdet og omfanget af den i stk. 1-3 nævnte aktivering. Ministeren for flygtninge, indvandrere og integration kan ved fastsættelsen af regler i medfør af 1. pkt. fravige § 46.
+Stk. 5. Justitsministeren kan fastsætte nærmere regler om indholdet og omfanget af den i stk. 1-3 nævnte aktivering. Justitsministeren kan ved fastsættelsen af regler i medfør af 1. pkt. fravige § 46.

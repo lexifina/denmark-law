@@ -36,7 +36,7 @@
 
 19) § 1, nr. 9, i lov nr. 290 af 24. april 1996 vedrørte en ændret affattelse af § 42 a, stk. 1, 2. pkt. og indsættelse af § 42 a, stk. 1, 3. pkt.
 
-20) De ændringer, der følger af lov nr. 410 af 10. juni 1997 blev, bortset fra de ændringer, der ifølge § 3, stk. 2, i lov nr. 410 af 10. juni 1997 trådte i kraft den 12. juni 1997, jf. note 20, ved bekendtgørelse nr. 170 af 13. marts 2001, sat i kraft den 25. marts 2001.
+20) De ændringer, der følger af lov nr. 410 af 10. juni 1997 blev, bortset fra de ændringer, der ifølge § 3, stk. 2, i lov nr. 410 af 10. juni 1997 trådte i kraft den 12. juni 1997, jf. note 21, ved bekendtgørelse nr. 170 af 13. marts 2001, sat i kraft den 25. marts 2001.
 
 21) § 1, nr. 12, 20, 28 og 29 i lov nr. 410 af 10. juni 1997 vedrørte ændrede affattelser af § 28, stk. 3, § 37, stk. 5 og § 48. § 2, nr. 5, 6, 8 og 10, i lov nr. 410 af 10. juni 1997 vedrørte en ændret affattelse af lov nr. 387 af 6. juni 1991, jf. note 7. Lov nr. 410 af 10. juni 1997 blev bekendtgjort i Lovtidende den 11. juni 1997.
 
@@ -48,50 +48,58 @@
 
 25) Lov nr. 424 af 31. maj 2000 blev bekendtgjort i Lovtidende den 2. juni 2000.
 
-26) Lov nr. 362 af 6. juni 2002 blev bekendtgjort i Lovtidende den 7. juni 2002.
+26) Lov nr. 458 af 7. juni 2001 blev bekendtgjort i Lovtidende den 8. juni 2001.
 
-27) Lov nr. 367 af 6. juni 2002 blev bekendtgjort i Lovtidende den 7. juni 2002.
+27) Lov nr. 362 af 6. juni 2002 blev bekendtgjort i Lovtidende den 7. juni 2002.
 
-28) § 1, nr. 6, i lov nr. 367 af 6. juni 2002 blev ved bekendtgørelse nr. 73 af 27. januar 2003 sat i kraft den 1. marts 2003 og vedrørte indsættelse af § 59, stk. 5.
+28) Lov nr. 367 af 6. juni 2002 blev bekendtgjort i Lovtidende den 7. juni 2002.
 
-29) Lov nr. 1044 af 17. december 2002 blev bekendtgjort i Lovtidende den 18. december 2002.
+29) § 1, nr. 6, i lov nr. 367 af 6. juni 2002 blev ved bekendtgørelse nr. 73 af 27. januar 2003 sat i kraft den 1. marts 2003 og vedrørte indsættelse af § 59, stk. 5.
 
-30) Lov nr. 425 af 10. juni 2003 blev bekendtgjort i Lovtidende den 11. juni 2003.
+30) Lov nr. 1044 af 17. december 2002 blev bekendtgjort i Lovtidende den 18. december 2002.
 
-31) Lov nr. 428 af 9. juni 2004 blev bekendtgjort i Lovtidende den 10. juni 2004.
+31) Lov nr. 425 af 10. juni 2003 blev bekendtgjort i Lovtidende den 11. juni 2003.
 
-32) Lov nr. 323 af 18. maj 2005 blev sat i kraft af ministeren for flygtninge, indvandrere og integration ved bekendtgørelse nr. 235 af 17. marts 2006.
+32) Lov nr. 428 af 9. juni 2004 blev bekendtgjort i Lovtidende den 10. juni 2004.
 
-33) Lov nr. 428 af 6. juni 2005 blev bekendtgjort i Lovtidende den 7. juni 2005.
+33) Lov nr. 323 af 18. maj 2005 blev ved bekendtgørelse nr. 235 af 17. marts 2006 sat i kraft den 1. april 2006 af ministeren for flygtninge, indvandrere og integration.
 
-34) Lov nr. 430 af 6. juni 2005 blev bekendtgjort i Lovtidende den 7. juni 2005.
+34) Lov nr. 428 af 6. juni 2005 blev bekendtgjort i Lovtidende den 7. juni 2005.
 
-35) § 1, nr. 2, i lov nr. 301 af 19. april 2006 vedrører indsættelse af stk. 3 i § 2 a. § 1, nr. 3, § 18, §§ 26-28, § 30 og § 49 i lov nr. 301 af 19. april 2006 vedrører ændret affattelse af § 2 b, stk. 4, § 28, stk. 6, § 38, stk. 1-3, § 39, stk. 3, og § 59, stk. 1, nr. 1. Ændringerne trådte i kraft den 13. oktober 2006, jf. bekendtgørelse nr. 979 af 26. september 2006.
+35) Lov nr. 430 af 6. juni 2005 blev bekendtgjort i Lovtidende den 7. juni 2005.
 
-36) Lov nr. 532 af 8. juni 2006 blev bekendtgjort i Lovtidende den 9. juni 2006 og trådte i kraft den 10. juni 2006.
+36) § 1, nr. 2, i lov nr. 301 af 19. april 2006 vedrører indsættelse af stk. 3 i § 2 a. § 1, nr. 3, § 18, §§ 26-28, § 30 og § 49 i lov nr. 301 af 19. april 2006 vedrører ændret affattelse af § 2 b, stk. 4, § 28, stk. 6, § 38, stk. 1-3, § 39, stk. 3, og § 59, stk. 1, nr. 1. Ændringerne trådte i kraft den 13. oktober 2006, jf. bekendtgørelse nr. 979 af 26. september 2006.
 
-37) § 104, nr. 1, i lov nr. 538 af 8. juni 2006 vedrørte indsættelse af § 46 f i udlændingeloven. § 104, nr. 2 og 3, vedrørte ændret affattelse af udlændingelovens § 48, stk. 1.
+37) Lov nr. 532 af 8. juni 2006 blev bekendtgjort i Lovtidende den 9. juni 2006 og trådte i kraft den 10. juni 2006.
 
 38) § 104, nr. 1, i lov nr. 538 af 8. juni 2006 vedrørte indsættelse af § 46 f i udlændingeloven. § 104, nr. 2 og 3, vedrørte ændret affattelse af udlændingelovens § 48, stk. 1.
 
-39) Udlændingelovens § 33, stk. 3, 1. pkt., som ændret ved lov nr. 379 af 25. april 2007, trådte i kraft den 10. oktober 2007, jf. bekendtgørelse nr. 1141 af 1. oktober 2007.
+39) § 104, nr. 1, i lov nr. 538 af 8. juni 2006 vedrørte indsættelse af § 46 f i udlændingeloven. § 104, nr. 2 og 3, vedrørte ændret affattelse af udlændingelovens § 48, stk. 1.
 
-40) Lov nr. 431 af 1. juni 2008 blev bekendtgjort i Lovtidende den 3. juni 2008.
+40) Udlændingelovens § 33, stk. 3, 1. pkt., som ændret ved lov nr. 379 af 25. april 2007, trådte i kraft den 10. oktober 2007, jf. bekendtgørelse nr. 1141 af 1. oktober 2007.
 
-41) § 1, nr. 2, 4 og 5, i lov nr. 431 af 1. juni 2008, som vedrører indsættelse af § 2 a, stk. 4-7, ændring af overskriften til kapitel 8 a samt ændret affattelse af § 58 d, 1. pkt., er ophævet ved § 1, nr. 1 og 2, i lov nr. 1398 af 27. december 2008 samt § 1, nr. 1 og 2, i lov nr. 1511 af 27. december 2009. Bestemmelserne når således ikke at træde i kraft.
+41) Lov nr. 507 af 6. juni 2007 blev bekendtgjort i Lovtidende den 7. juni 2007.
 
-42) Udlændingelovens § 9 a, stk. 2, nr. 1, og stk. 15, trådte i kraft den 1. juli 2008, jf. bekendtgørelse nr. 627 af 25. juni 2008.
+42) Lov nr. 431 af 1. juni 2008 blev bekendtgjort i Lovtidende den 3. juni 2008.
 
-43) Lov nr. 1397 af 27. december 2008 blev bekendtgjort i Lovtidende den 30. december 2008.
+43) § 1, nr. 2, 4 og 5, i lov nr. 431 af 1. juni 2008, som vedrører indsættelse af § 2 a, stk. 4-7, ændring af overskriften til kapitel 8 a samt ændret affattelse af § 58 d, 1. pkt., er ophævet ved § 1, nr. 1 og 2, i lov nr. 1398 af 27. december 2008 samt § 1, nr. 1 og 2, i lov nr. 1511 af 27. december 2009. Bestemmelserne når således ikke at træde i kraft.
 
-44) § 2, nr. 1, i lov nr. 1398 af 27. december 2008, som vedrører § 2 a, stk. 4-9, er ophævet ved § 2, nr. 1, i lov nr. 1511 af 27. december 2009. Bestemmelsen når således ikke at træde i kraft.
+44) Udlændingelovens § 9 a, stk. 2, nr. 1, og stk. 15, trådte i kraft den 1. juli 2008, jf. bekendtgørelse nr. 627 af 25. juni 2008.
 
-45) Affattelsen af § 3, stk. 2, i lov nr. 1398 af 27. december 2008, er ændret ved § 2, nr. 2, i lov nr. 1511 af 27. december 2009.
+45) Lov nr. 1397 af 27. december 2008 blev bekendtgjort i Lovtidende den 30. december 2008.
 
-46) § 2 i lov nr. 493 af 12. juni 2009, som vedrører ændring af § 37, stk. 3 og § 37 c, stk. 4, trådte i kraft den 1. november 2009, jf. bekendtgørelse nr. 996 af 6. oktober 2009.
+46) § 2, nr. 1, i lov nr. 1398 af 27. december 2008, som vedrører § 2 a, stk. 4-9, er ophævet ved § 2, nr. 1, i lov nr. 1511 af 27. december 2009. Bestemmelsen når således ikke at træde i kraft.
 
-47) § 2 nr. 1-4 og 6 i Lov nr. 400 af 21. april 2010 blev sat i kraft af ministeren for flygtninge, indvandrere og integration ved bekendtgørelse nr. 1250 af 4. november 2010.
+47) Affattelsen af § 3, stk. 2, i lov nr. 1398 af 27. december 2008, er ændret ved § 2, nr. 2, i lov nr. 1511 af 27. december 2009.
 
-48) Lov nr. 572 af 31. maj 2010 blev bekendtgjort i Lovtidende den 1. juni 2010.
+48) § 2 i lov nr. 493 af 12. juni 2009, som vedrører ændring af § 37, stk. 3 og § 37 c, stk. 4, trådte i kraft den 1. november 2009, jf. bekendtgørelse nr. 996 af 6. oktober 2009.
 
-49) Lov nr. 463 af 18. maj 2010 blev bekendtgjort i Lovtidende den 19. maj 2011.
+49) § 2 nr. 1-4 og 6 i Lov nr. 400 af 21. april 2010 blev ved bekendtgørelse nr. 1250 af 4. november 2010 sat i kraft den 15. november 2010 af ministeren for flygtninge, indvandrere og integration.
+
+50) Lov nr. 572 af 31. maj 2010 blev bekendtgjort i Lovtidende den 1. juni 2010.
+
+51) Lov nr. 463 af 18. maj 2010 blev bekendtgjort i Lovtidende den 19. maj 2011.
+
+52) Lov nr. 566 af 18. juni 2012 blev bekendtgjort i Lovtidende den 19. juni 2012.
+
+53) Lov nr. 567 af 18. juni 2012 blev bekendtgjort i Lovtidende den 19. juni 2012.

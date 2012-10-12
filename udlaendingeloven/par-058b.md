@@ -1,6 +1,6 @@
 ## Kapitel 8 a
 
-## Videregivelse af oplysninger i medfør af reglerne i Dublinforordningen, Schengenkonventionen og Eurodac-forordningen m.v.
+## Videregivelse af oplysninger i medfør af reglerne i Dublinforordningen, Schengenkonventionen, VIS-forordningen og Eurodac-forordningen m.v.
 
 § 58 b. Ved Eurodac-forordningen forstås i denne lov Rådets forordning (EF) nr. 2725/2000 af 11. december 2000 om oprettelse af Eurodac til sammenligning af fingeraftryk med henblik på en effektiv anvendelse af Dublinkonventionen med senere ændringer.
 
