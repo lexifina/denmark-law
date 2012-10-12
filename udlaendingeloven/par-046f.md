@@ -1,1 +1,1 @@
-§ 46 f. Ministeren for flygtninge, indvandrere og integration kan fastsætte regler om krav til tolke, der anvendes af myndigheder på Ministeriet for Flygtninge, Indvandrere og Integrations område.
+§ 46 f. Justitsministeren kan fastsætte regler om krav til tolke, der anvendes af myndigheder på Justitsministeriets område.

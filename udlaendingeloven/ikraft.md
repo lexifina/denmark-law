@@ -574,6 +574,8 @@ Lov nr. 573 af 31. maj 2010 indeholder følgende bestemmelse:
 
 Stk. 1. Loven træder i kraft den 1. juli 2010.
 
+Stk. 2. (Udeladt)
+
 Lov nr. 1542 af 21. december 2010 indeholder følgende bestemmelse:
 
 § 2
@@ -640,6 +642,84 @@ Loven træder i kraft den 1. juli 2011.
 
 Lov nr. 758 af 29. juni 2011 indeholder følgende bestemmelse:
 
-§ 3
+§ 2
 
 Loven træder i kraft den 1. juli 2011 og finder anvendelse for lovovertrædelser begået efter lovens ikrafttræden. For lovovertrædelser begået før lovens ikrafttræden finder de hidtil gældende regler anvendelse.
+
+Lov nr. 833 af 6. juli 2011 indeholder følgende bestemmelse:
+
+§ 2
+
+Loven træder i kraft den 1. januar 2012.
+
+Lov nr. 326 af 11. april 2012 indeholder følgende bestemmelse:
+
+§ 25
+
+Stk. 1. Loven træder i kraft den 1. oktober 2012, jf. dog stk. 2-4.
+
+Stk. 2. (Udeladt)
+
+Stk. 3. (Udeladt)
+
+Stk. 4. (Udeladt)
+
+Lov nr. 418 af 12. maj 2012 indeholder følgende bestemmelse:
+
+§ 9
+
+Stk. 1. Loven træder i kraft den 15. maj 2012, jf. dog stk. 2.
+
+Stk. 2. § 1, nr. 90, træder i kraft den 1. december 2012.
+
+Stk. 3. § 1, nr. 3, 7-16, 18-25 og 28, finder ikke anvendelse for udlændinge, der inden lovens ikrafttræden har indgivet ansøgning om opholdstilladelse. For disse udlændinge finder de hidtil gældende regler anvendelse. Hvis der ikke efter de hidtil gældende regler kan meddeles opholdstilladelse på grundlag af ægtefællesammenføring, tager Udlændingestyrelsen samtidig stilling til, om der kan meddeles opholdstilladelse efter udlændingelovens § 9 eller § 9 c som ændret ved lovens § 1, nr. 7-16, 18-25 og 28.
+
+Stk. 4. § 1, nr. 9, 24, 25 og 62, finder ikke anvendelse for udlændinge, der er meddelt opholdstilladelse inden lovens ikrafttræden. For disse udlændinge finder de hidtil gældende regler anvendelse.
+
+Stk. 5. For udlændinge, der meddeles opholdstilladelse i perioden fra den 15. maj 2012 og indtil danskprøven på A1-niveau og danskprøven på A2-niveau, jf. udlændingelovens § 9, stk. 30 og 32, er etableret, regnes fristerne på 6 og 15 måneder, jf. udlændingelovens § 9, stk. 30, 2. og 4. pkt., og stk. 32, 2. og 3. pkt., fra tidspunktet for prøvernes etablering.
+
+Stk. 6. Afgørelser vedrørende forlængelse, bortfald og inddragelse af opholdstilladelser meddelt efter § 9 c, stk. 1, 1. pkt., træffes af Styrelsen for Fastholdelse og Rekruttering, når opholdstilladelsen er meddelt med henblik på uddannelse, au pair-ophold, praktikantophold, volontørophold, ophold ifølge en aftale mellem Danmark og en anden stat, jf. § 45, eller som følge af familiemæssig tilknytning til en udlænding med opholdstilladelse efter § 9 a, stk. 2, nr. 1-6, eller til en udlænding med opholdstilladelse med henblik på uddannelse eller praktikantophold.
+
+Lov nr. 566 af 18. juni 2012 indeholder følgende bestemmelse:
+
+§ 2
+
+Loven træder i kraft dagen efter bekendtgørelsen i Lovtidende.
+
+Lov nr. 567 af 18. juni 2012 indeholder følgende bestemmelse:
+
+§ 2
+
+Loven træder i kraft dagen efter bekendtgørelsen i Lovtidende.
+
+Lov nr. 569 af 18. juni 2012 indeholder følgende bestemmelse:
+
+§ 2
+
+Loven træder i kraft den 1. juli 2012.
+
+Lov nr. 571 af 18. juni 2012 indeholder følgende bestemmelse:
+
+§ 3
+
+Stk. 1. Loven træder i kraft den 1. januar 2013.
+
+Stk. 2. Udlændingelovens § 52 b, stk. 5, som affattet ved lovens § 1, nr. 12, finder ikke anvendelse for afgørelser truffet inden lovens ikrafttræden.
+
+Stk. 3. Verserende sager den 1. januar 2013 vedrørende afgørelser, der efter udlændingelovens § 52 b som affattet ved lovens § 1, nr. 12, kan indbringes for Udlændingenævnet, overføres til videre behandling i Udlændingenævnet.
+
+Lov nr. 572 af 18. juni 2012 indeholder følgende bestemmelse:
+
+§ 2
+
+Stk. 1. Loven træder i kraft den 1. juli 2012, jf. dog stk. 2 og 3.
+
+Stk. 2. Lovens § 1, nr. 34, træder i kraft den 1. oktober 2012.
+
+Stk. 3. Lovens § 1, nr. 32, 33 og 35-37, træder i kraft den 1. januar 2013.
+
+Stk. 4. Lovens § 1, nr. 35 og 36, finder ikke anvendelse for medlemmer af Flygtningenævnet, der er beskikket inden den 1. januar 2013. Medlemmer af Flygtningenævnet, der den 1. januar 2013 har været beskikket i mindst 8 år, har ved udløbet af indeværende beskikkelsesperiode ret til genbeskikkelse for en periode på yderligere 4 år, hvorefter genbeskikkelse ikke kan finde sted. Medlemmer af Flygtningenævnet, der den 1. januar 2013 har været beskikket i under 8 år, har ved udløbet af indeværende beskikkelsesperiode ret til genbeskikkelse for en periode på yderligere 4 år med mulighed for genbeskikkelse for endnu en periode på 4 år, hvorefter genbeskikkelse ikke kan finde sted.
+
+Stk. 5. Lovens § 1, nr. 1-5, finder ikke anvendelse for udlændinge, der er meddelt tidsubegrænset opholdstilladelse efter udlændingelovens § 11, stk. 3-6, som affattet ved lov nr. 572 af 31. maj 2010. For disse udlændinge finder de hidtil gældende regler anvendelse.
+
+Stk. 6. Lovens § 1, nr. 9-25, finder ikke anvendelse for udlændinge, der inden lovens ikrafttræden har indgivet ansøgning om tidsubegrænset opholdstilladelse. For disse udlændinge finder de hidtil gældende regler anvendelse. Hvis der ikke efter de hidtil gældende regler kan meddeles tidsubegrænset opholdstilladelse, tager Udlændingestyrelsen samtidig stilling til, om der kan meddeles tidsubegrænset opholdstilladelse efter udlændingelovens § 11, stk. 3-6, som affattet ved lovens § 1, nr. 9-25.

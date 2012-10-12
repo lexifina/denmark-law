@@ -14,4 +14,4 @@ Stk. 3. Kontrakten fastlægger omfang og indhold af
 
 Stk. 4. Det skal fremgå af kontrakten, hvilke tiltag der efter lovgivningen kan bringes i anvendelse over for udlændingen, hvis udlændingen ikke overholder sin kontrakt.
 
-Stk. 5. Ministeren for flygtninge, indvandrere og integration kan fastsætte nærmere regler om kontraktens indgåelse, indhold og udformning.
+Stk. 5. Justitsministeren kan fastsætte nærmere regler om kontraktens indgåelse, indhold og udformning.
