@@ -1,3 +1,3 @@
 Bekendtgørelse af lov om våben og eksplosivstoffer
 
-Herved bekendtgøres lov om våben og eksplosivstoffer, jf. lovbekendtgørelse nr. 1316 af 26. november 2007, med de ændringer, der følger af § 4 i lov nr. 490 af 17. juni 2008, § 3 i lov nr. 500 af 17. juni 2008 og § 3 i lov nr. 501 af 12. juni 2009.
+Herved bekendtgøres lov om våben og eksplosivstoffer, jf. lovbekendtgørelse nr. 704 af 22. juni 2009, med de ændringer, der følger af § 1 i lov nr. 538 af 26. maj 2010, § 1 i lov nr. 413 af 9. maj 2011, lov nr. 274 af 27. marts 2012 og §§ 1 og 3 i lov nr. 564 af 18. juni 2012.
