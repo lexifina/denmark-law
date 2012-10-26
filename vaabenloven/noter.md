@@ -1,3 +1,5 @@
+1) Loven indeholder bestemmelser, der gennemfører dele af Europa-Parlamentets og Rådets direktiv 2008/51/EF af 21. maj 2008 om ændring af Rådets direktiv 91/477/EØF om erhvervelse og besiddelse af våben, EU-Tidende 2008, nr. L 179, side 5, og dele af Europa-Parlamentets og Rådets direktiv 2009/43/EF af 6. maj 2009 om forenkling af vilkår og betingelser for overførsel af forsvarsrelaterede produkter inden for Fællesskabet, EU-Tidende 2009, nr. L 146, side 1.
+
 1) Dansk Handel & Service er med virkning fra 1. januar 2007 fusioneret med interesseorganisationen HTSI under navnet Dansk Erhverv.
 
 2) Ved lov nr. 490 af 17. juni 2008 om ændring af straffeloven og forskellige andre love (Dansk straffemyndighed) er gennemført en samlet revision af straffelovens almindelige bestemmelser om dansk straffemyndighed, hvorved straffelovens §§ 6-12 er ændret.
@@ -25,3 +27,11 @@
 13) Lovændringen vedrører § 1, stk. 2, § 2, stk. 1, 2. pkt., og § 10, stk. 2 og 3.
 
 14) Lovændringen vedrører § 10, stk. 2.
+
+15) Lovændringen vedrører fodnoten til lovens titel, § 1, stk. 1, § 1, stk. 1, nr. 1-10, § 1, stk. 2, litra a, § 1, stk. 4-7, § 2, stk. 4, § 3, stk. 1, § 3 a-b, § 4, stk. 2, nr. 3, § 5, stk. 1 og 4, § 6, stk. 1, nr. 1, § 7 a, stk. 1-2, § 8, stk. 1, § 9, stk. 1, og § 10, stk. 1.
+
+16) Lovændringen vedrører fodnoten til lovens titel, § 3, stk. 3, nr. 3-5, og § 6, stk. 5-9.
+
+17) Lovændringen vedrører § 10, stk. 2.
+
+18) Lovændringen vedrører § 3, stk. 3, nr. 3-6, § 4 c, § 6, § 6 b, stk. 1, 1. pkt., og § 6 b, stk. 7.
