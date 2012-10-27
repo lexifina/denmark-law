@@ -1,5 +1,5 @@
 Bekendtgørelse af lov om registrering af køretøjer
 
-Herved bekendtgøres lov nr. 309 af 19. april 2006 om registrering af køretøjer med de ændringer, der følger af § 3 i lov nr. 106 af 7. februar 2007, § 3 i lov nr. 479 af 17. juni 2008, § 115 i lov nr. 1336 af 19. december 2008, § 1 i lov nr. 1338 af 19. december 2008, § 2 i lov nr. 545 af 26. maj 2010 og § 3 i lov nr. 715 af 25. juni 2010.
+Herved bekendtgøres lov om registrering af køretøjer, jf. lovbekendtgørelse nr. 580 af 7. juni 2011, med de ændringer, der følger af § 1 i lov nr. 481 af 30. maj 2012, lov nr. 482 af 30. maj 2012 og § 5 i lov nr. 590 af 18. juni 2012.
 
-Den bekendtgjorte lovtekst vedrørende § 18 træder i kraft på det tidspunkt, justitsministeren fastsætter, jf. § 5, stk. 3, i lov nr. 1338 af 19. december 2008. Den bekendtgjorte lovtekst vedrørende § 18 a træder i kraft på det tidspunkt, justitsministeren fastsætter, jf. § 5 i lov nr. 715 af 25. juni 2010.
+Den bekendtgjorte lovtekst vedrørende § 18 træder i kraft på det tidspunkt, justitsministeren fastsætter, jf. § 8, stk. 3, i lov nr. 1338 af 19. december 2008. Den bekendtgjorte lovtekst vedrørende § 18 a træder i kraft på det tidspunkt, justitsministeren fastsætter, jf. § 5 i lov nr. 715 af 25. juni 2010. Den bekendtgjorte lovtekst vedrørende § 7, stk. 7 og 8, og § 20, stk. 1, 2. pkt., træder først i kraft den 1. januar 2013, jf. § 7, stk. 2, i lov nr. 590 af 18. juni 2012.
