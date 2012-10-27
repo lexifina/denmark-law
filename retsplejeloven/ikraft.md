@@ -134,7 +134,7 @@ Stk. 22. Arresthusene uden for København bestyres indtil den 1. januar 2008 af 
 
 § 106
 
-Stk. 1. Domstolsstyrelsen fastsætter tidspunkterne for ansættelsen af de yderligere dommere ved byretterne i medfør af retsplejelovens § 9, stk. 13, som affattet ved denne lovs § 1, nr. 3. De yderligere dommere ansættes dog senest den 1. januar 2011. Indtil Tinglysningsretten har overtaget tinglysning i bilbogen, andelsboligbogen og personbogen fra retten i Århus, kan der højst udnævnes yderligere 3 dommere ved retten i Århus i henhold til retsplejelovens § 9, stk. 13, som affattet ved denne lovs § 1, nr. 3.
+Stk. 1. Domstolsstyrelsen fastsætter tidspunkterne for ansættelsen af de yderligere dommere ved byretterne i medfør af retsplejelovens § 9, stk. 13, som affattet ved denne lovs § 1, nr. 3. De yderligere dommere ansættes dog senest den 1. januar 2011. Indtil Tinglysningsretten har overtaget tinglysning i bilbogen, andelsboligbogen og personbogen fra retten i Aarhus, kan der højst udnævnes yderligere 3 dommere ved retten i Aarhus i henhold til retsplejelovens § 9, stk. 13, som affattet ved denne lovs § 1, nr. 3.
 
 Stk. 2. Tinglysningsretten overtager tinglysningen fra byretterne efter Domstolsstyrelsens nærmere bestemmelse. Indtil Tinglysningsretten har overtaget tinglysningen fra byretterne, sker tinglysning ved de byretter, som Domstolsstyrelsen bestemmer. Byretternes afgørelser vedrørende tinglysning kan kæres til landsretten, og retsplejelovens § 19, stk. 4, som affattet ved denne lovs § 1, nr. 3, finder tilsvarende anvendelse ved byretterne.
 
@@ -270,7 +270,7 @@ Lov nr. 715 af 25. juni 2010 (Udveksling af oplysninger om dna-profiler, fingera
 
 Justitsministeren fastsætter tidspunktet for lovens ikrafttræden og kan herunder fastsætte, at lovens §§ 1-4 træder i kraft på forskellige tidspunkter.
 
-Lov nr. 718 af 25. juni 2010 (Rekonstruktion m.v.) indeholder følgende ikrafttrædelsesbestemmelser:
+Lov nr. 718 af 25. juni 2010 (Rekonstruktion m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
 
 § 55
 
@@ -294,14 +294,6 @@ Stk. 9. Tinglysningslovens § 47 f, stk. 4, i den hidtil gældende affattelse fi
 
 Stk. 10. Straffelovens § 283, stk. 1, nr. 2, § 300, nr. 3, og § 304, stk. 2, som affattet ved denne lovs § 11, nr. 1, 3 og 4, finder tilsvarende anvendelse på forhandling om tvangsakkord.
 
-Lov nr. 1549 af 21. december 2010 (Skærpede straffe for hæleri og etablering af tæt samarbejde om udveksling af oplysninger mellem kriminalforsorgen, de sociale myndigheder og politiet i forbindelse med dømtes løsladelse (KSP-samarbejdet) indeholder følgende ikrafttrædelsesbestemmelser:
-
-§ 3
-
-Stk. 1. § 1 træder i kraft den 1. januar 2011.
-
-Stk. 2. § 2 træder i kraft den 1. april 2011.
-
 Lov nr. 1552 af 21. december 2010 (Sporing af skjult udbytte og andre aktiviteter, forældelse af konfiskationskrav, hemmelig beslaglæggelse m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
 
 § 3
@@ -310,7 +302,7 @@ Stk. 1. Loven træder i kraft den 1. januar 2011.
 
 Stk. 2. Den i § 1 nævnte bestemmelse i straffelovens § 97 a, stk. 1, gælder også for lovovertrædelser, der er begået, og retsfølger, der er pålagt før lovens ikrafttræden. Bestemmelsen finder dog ikke anvendelse i tilfælde, hvor forældelse efter de hidtil gældende regler er indtrådt før lovens ikrafttræden.
 
-Lov nr. 292 af 11. april 2011 (Udvidet adgang til at anvende anonyme vidner) indeholder følgende ikrafttrædelsesbestemmelser:
+Lov nr. 292 af 11. april 2011 (Udvidet adgang til at anvende anonyme vidner) indeholder følgende ikrafttrædelsesbestemmelse:
 
 § 2
 
@@ -318,13 +310,13 @@ Stk. 1. Loven træder i kraft den 1. maj 2011.
 
 Stk. 2. Loven finder anvendelse i sager, som ikke er endeligt afgjort ved lovens ikrafttræden.
 
-Lov nr. 411 af 9. maj 2011 (Forenkling af bødesagsprocessen) indeholder følgende ikrafttrædelsesbestemmelser:
+Lov nr. 411 af 9. maj 2011 (Forenkling af bødesagsprocessen) indeholder følgende ikrafttrædelsesbestemmelse:
 
 § 2
 
 Loven træder i kraft den 1. september 2011.
 
-Lov nr. 412 af 9. maj 2011 (Underretning ved udgang og løsladelse m.v. og udvidelse af fristen for politianmeldelse ved erstatning fra staten til ofre for forbrydelser) indeholder følgende ikrafttrædelsesbestemmelser:
+Lov nr. 412 af 9. maj 2011 (Underretning ved udgang og løsladelse m.v. og udvidelse af fristen for politianmeldelse ved erstatning fra staten til ofre for forbrydelser) indeholder følgende ikrafttrædelsesbestemmelse:
 
 § 3
 
@@ -344,8 +336,68 @@ Stk. 2. Lov om skifte af fællesbo m.v., jf. lovbekendtgørelse nr. 725 af 23. o
 
 Stk. 2. Er der indgivet anmodning om separation eller skilsmisse til statsforvaltningen eller anlagt sag om ægteskabets omstødelse før lovens ikrafttræden, anvendes de hidtil gældende regler i stedet for §§ 50, 51 og 67, og § 42 i lov om ægteskabs indgåelse og opløsning anvendes i den hidtil gældende affattelse.
 
-Lov nr. 614 af 14. juni 2011 (Forhøjelse af beløbsgrænse for den forenklede inkassoproces m.v.) indeholder følgende ikrafttrædelsesbestemmelser:
+Lov nr. 614 af 14. juni 2011 (Forhøjelse af beløbsgrænse for den forenklede inkassoproces m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
 
 § 3
 
 Loven træder i kraft den 1. oktober 2011.
+
+Lov nr. 112 af 3. februar 2012 om tilhold, opholdsforbud og bortvisning indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 25. Loven træder i kraft den 1. marts 2012.
+
+Stk. 2. (Udelades)
+
+Lov nr. 156 af 28. februar 2012 (Fordeling af opgaver mellem politikredsene og statsadvokaturerne m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 2
+
+Stk. 1. Justitsministeren fastsætter tidspunktet for lovens ikrafttræden.
+
+Stk. 2. Sager, der behandles ved byretten under medvirken af nævninger eller under medvirken af domsmænd som følge af tiltaltes beslutning efter § 687, og hvor der inden lovens ikrafttræden er rejst tiltale, udføres af statsadvokaterne.
+
+Lov nr. 158 af 28. februar 2012 (Forhøjelse af den kriminelle lavalder) indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 5
+
+Stk. 1. Loven træder i kraft dagen efter bekendtgørelsen i Lovtidende.
+
+Stk. 2. Hvor det ved straffens fastsættelse skal indgå som en skærpende omstændighed, at gerningsmanden tidligere er straffet af betydning for sagen, kommer afgørelser, der er truffet i forhold til personer, for handlinger foretaget, inden de pågældende var fyldt 15 år, ikke i betragtning.
+
+Lov nr. 325 af 11. april 2012 (Adgang til, at en dommer m.fl. kan færdigbehandle sager, der er påbegyndt, før den pågældende skal fratræde på grund af alder, visse ændringer af reglerne om behandling af sager om mindre krav, udelukkelse af sigtedes adgang til at være til stede under indenretlige videoafhøringer af børn m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 6
+
+Stk. 1. Loven træder i kraft den 1. maj 2012, jf. dog stk. 2.
+
+Stk. 2. Lovens § 1, nr. 5-7, 9, 25 og 26, § 3, nr. 2, og § 5 træder i kraft dagen efter bekendtgørelsen i Lovtidende.
+
+Stk. 3. Lovens § 1, nr. 5, finder anvendelse i forhold til midlertidigt beskikkede dommere og sagkyndige retsmedlemmer, hvis beskikkelse ophører efter lovens ikrafttræden.
+
+Stk. 4. Lovens § 1, nr. 5, finder anvendelse i forhold til nævninger og domsmænd, for hvem det tidsrum, for hvilket grundlisten gælder, udløber efter lovens ikrafttræden.
+
+Stk. 5. Lovens § 1, nr. 6 og 7, finder anvendelse i forhold til dommere og fuldmægtige, der afskediges på grund af alder efter lovens ikrafttræden.
+
+Stk. 6. Lovens § 1, nr. 15 og 16, finder anvendelse i sager, der anlægges efter lovens ikrafttræden.
+
+Lov nr. 532 af 12. juni 2012 (Ægteskab mellem to personer af samme køn) indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 4
+
+Stk. 1. Loven træder i kraft den 15. juni 2012.
+
+Stk. 2. Lov om registreret partnerskab, jf. lovbekendtgørelse nr. 938 af 10. oktober 2005, ophæves, men finder fortsat anvendelse på partnerskaber, som er registreret før den 15. juni 2012.
+
+Lov nr. 600 af 18. juni 2012 (Ændringer som følge af evalueringen af forældreansvarsloven) indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 4
+
+Stk. 1. Loven træder i kraft den 1. oktober 2012.
+
+Stk. 2. Lovens § 1, nr. 12 og 16, og § 2, nr. 1, 3 og 4, finder ikke anvendelse på sager om forældremyndighed eller barnets bopæl, der er indbragt for retten inden lovens ikrafttræden. De hidtil gældende regler i forældreansvarslovens § 29, stk. 1, 2. pkt., og § 38, stk. 3, og retsplejelovens § 448, nr. 2 og 3, § 450 a, 1. pkt., og § 450 b, 1. pkt., finder fortsat anvendelse for disse sager.
+
+Stk. 3. (Udelades)
+
+Stk. 4. Lovens § 2, nr. 5, finder ikke anvendelse for sager, der er indbragt for retten inden lovens ikrafttræden, hvis retten inden dette tidspunkt har afholdt en samtale med barnet efter den hidtil gældende § 450 c i retsplejeloven eller har indkaldt barnet til en sådan samtale.
+
+Stk. 5. (Udelades)
