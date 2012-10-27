@@ -10,22 +10,24 @@
 
 6) Loven er kundgjort i Lovtidende den 25. maj 2005.
 
-7) Lovændringen vedrører § 119, stk. 3, og § 291.
+7) Lovændringen vedrører § 283, stk. 1, nr. 2, og stk. 2, § 300, nr. 3, og § 304, stk. 2.
 
-8) Lovændringen vedrører § 260.
+8) Ved bekendtgørelse nr. 208 af 15. marts 2011 er det bestemt, at ændringsloven træder i kraft den 1. april 2011.
 
-9) Lovændringen vedrører § 15, § 33, stk. 3, og § 81.
+9) Lovændringen vedrører § 97 a, stk. 1-4.
 
-10) Lovændringen vedrører § 241, 2. pkt., og § 249, 2. pkt.
+10) Lovændringen vedrører § 265 og § 275, stk. 2, 1. pkt.
 
-11) Lovændringen vedrører § 283, stk. 1, nr. 2, og stk. 2, § 300, nr. 3, og § 304, stk. 2.
+11) Lovændringen vedrører § 114 a.
 
-12) Ved bekendtgørelse nr. 208 af 15. marts 2011 er det bestemt, at ændringsloven træder i kraft den 1. april 2011.
+12) Lovændringen vedrører § 15 og § 81, nr. 10.
 
-13) Lovændringen vedrører § 290, stk. 2, og § 303.
+13) Loven er kundgjort i Lovtidende den 29. februar 2012.
 
-14) Lovændringen vedrører § 97 a, stk. 1-4.
+14) Lovændringen vedrører § 63, stk. 1, 1. pkt.
 
-15) Lovændringen vedrører § 40 a, stk. 1, og § 110 c, stk. 3.
+15) Lovændringen vedrører § 7, stk. 1, nr. 2, litra a, og § 262 a.
 
-16) Lovændringen vedrører § 286, stk. 1, og § 288, stk. 2.
+15) Loven er kundgjort i Lovtidende den 28. marts 2012.
+
+16) Lovændringen vedrører § 289.

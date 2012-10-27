@@ -60,32 +60,6 @@ Stk. 1. Loven træder i kraft den 1. juli 2005.
 
 Stk. 2. § 1, nr. 6, træder dog i kraft dagen efter bekendtgørelse i Lovtidende.
 
-Lov nr. 1107 af 1. december 2009 (Styrket indsats mod omfattende forstyrrelse af den offentlige orden m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
-
-§ 3
-
-Loven træder i kraft den 3. december 2009.
-
-Lov nr. 651 af 15. juni 2010 (Skærpelse af straffen for ulovlig tvang i forbindelse med brug af ansigtstildækkende beklædning samt ansigtstildækkende beklædning under vidneforklaring) indeholder følgende ikrafttrædelsesbestemmelse:
-
-§ 3
-
-Loven træder i kraft den 1. juli 2010.
-
-Lov nr. 711 af 25. juni 2010 (Ungdomskriminalitet) indeholder følgende ikrafttrædelsesbestemmelse:
-
-§ 4
-
-Loven træder i kraft den 1. juli 2010.
-
-Lov nr. 716 af 25. juni 2010 (Skærpet indsats mod vanvidskørsel, indførelse af alkolåsordning og udvidet mulighed for udenretlig vedtagelse af førerretsfrakendelse m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
-
-§ 3
-
-Stk. 1. Loven træder i kraft den 1. juli 2010, jf. dog stk. 2 og 3.
-
-Stk. 2-5. (Udelades)
-
 Lov nr. 718 af 25. juni 2010 (Rekonstruktion m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
 
 § 55
@@ -96,14 +70,6 @@ Stk. 2-9. (Udelades)
 
 Stk. 10. Straffelovens § 283, stk. 1, nr. 2, § 300, nr. 3, og § 304, stk. 2, som affattet ved denne lovs § 11, nr. 1, 3 og 4, finder tilsvarende anvendelse på forhandling om tvangsakkord.
 
-Lov nr. 1549 af 21. december 2010 (Skærpede straffe for hæleri og etablering af tæt samarbejde om udveksling af oplysninger mellem kriminalforsorgen, de sociale myndigheder og politiet i forbindelse med dømtes løsladelse (KSP-samarbejdet) indeholder følgende ikrafttrædelsesbestemmelse:
-
-§ 3
-
-Stk. 1. § 1 træder i kraft den 1. januar 2011.
-
-Stk. 2. (Udelades)
-
 Lov nr. 1552 af 21. december 2010 (Sporing af skjult udbytte og andre aktiver, forældelse af konfiskationskrav, hemmelig beslaglæggelse m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
 
 § 3
@@ -112,14 +78,38 @@ Stk. 1. Loven træder i kraft den 1. januar 2011.
 
 Stk. 2. Den i § 1 nævnte bestemmelse i straffelovens § 97 a, stk. 1, gælder også for lovovertrædelser, der er begået, og retsfølger, der er pålagt før lovens ikrafttræden. Bestemmelsen finder dog ikke anvendelse i tilfælde, hvor forældelse efter de hidtil gældende regler er indtrådt før lovens ikrafttræden.
 
-Lov nr. 611 af 14. juni 2011 (Udvidelse af »noget for noget-ordningen« om tidlig prøveløsladelse af dømte m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
+Lov nr. 112 af 3. februar 2012 (Lov om tilhold, opholdsforbud og bortvisning) indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 25. Loven træder i kraft den 1. marts 2012.
+
+Stk. 2. (Udelades)
+
+Lov nr. 157 af 28. februar 2012 (Gennemførelse af revideret bilag til Europarådets konvention om forebyggelse af terrorisme) indeholder følgende ikrafttrædelsesbestemmelse:
 
 § 2
 
-Loven træder i kraft den 1. juli 2011.
+Loven træder i kraft den 1. marts 2012.
 
-Lov nr. 760 af 29. juni 2011 (Skærpede straffe for hjemmerøveri og organiseret indbrudskriminalitet) indeholder følgende ikrafttrædelsesbestemmelse:
+Lov nr. 158 af 28. februar 2012 (Forhøjelse af den kriminelle lavalder) indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 5
+
+Stk. 1. Loven træder i kraft dagen efter bekendtgørelsen i Lovtidende.
+
+Stk. 2. Hvor det ved straffens fastsættelse skal indgå som en skærpende omstændighed, at gerningsmanden tidligere er straffet af betydning for sagen, kommer afgørelser, der er truffet i forhold til personer, for handlinger foretaget, inden de pågældende var fyldt 15 år, ikke i betragtning.
+
+Lov nr. 159 af 28. februar 2012 (Udvidet anvendelse af betingede domme med vilkår om samfundstjeneste m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
 
 § 2
 
-Loven træder i kraft den 1. juli 2011.
+Loven træder i kraft den 1. marts 2012.
+
+Lov nr. 275 af 27. marts 2012 (Udvidet definition af menneskehandel m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 2
+
+Loven træder i kraft dagen efter bekendtgørelsen i Lovtidende.
+
+Lov nr. 431 af 16. maj 2012 (Lov om midlertidig nedsættelse af straffen for overtrædelse af skatte- og afgiftslovgivningen vedrørende midler på udenlandske konti m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 4. Loven træder i kraft den 1. juli 2012.
