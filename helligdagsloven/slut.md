@@ -1,7 +1,5 @@
-Justitsministeriet, den 17. juni 1983
+Justitsministeriet, den 24. oktober 2012
 
-Erik Ninn-Hansen
+Morten Bødskov
 
-/ Fr. Chr. Schydt
-
-Ingen
+/ Lennart Houmann
