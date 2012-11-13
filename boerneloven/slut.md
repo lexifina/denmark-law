@@ -1,7 +1,5 @@
-Givet på Christiansborg Slot, den 7. juni 2001
+Social- og Integrationsministeriet, den 8. november 2012
 
-Under Vor Kongelige Hånd og Segl
+P.M.V. Jesper Zwisler
 
-Margrethe R.
-
-/Frank Jensen
+/ Dorte Bech Vizard
