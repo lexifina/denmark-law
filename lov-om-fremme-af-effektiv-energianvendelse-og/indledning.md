@@ -1,3 +1,3 @@
 Bekendtgørelse af lov om fremme af besparelser i energiforbruget
 
-Herved bekendtgøres lov nr. 450 af 31. maj 2000 om fremme af besparelser i energiforbruget med de ændringer, der følger af § 1 i lov nr. 584 af 24. juni 2005, § 17 i lov nr. 308 af 30. april 2008, § 6 i lov nr. 1400 af 27. december 2008 og § 1 i lov nr. 1516 af 27. december 2009.
+Herved bekendtgøres lov om fremme af besparelser i energiforbruget jf. lovbekendtgørelse nr. 1326 af 1. december 2010, med de ændringer, der følger af § 28 i lov nr. 455 af 18. maj 2011 og § 1 i lov nr. 574 af 18. juni 2012.
