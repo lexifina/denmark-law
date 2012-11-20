@@ -1,7 +1,5 @@
-Givet på Christiansborg Slot, den 15. april 2009
+Beskæftigelsesministeriet, den 14. november 2012
 
-Under Vor Kongelige Hånd og Segl
+Mette Frederiksen
 
-MARGRETHE R.
-
-/ Inger Støjberg
+/ Jens Erik Zebis

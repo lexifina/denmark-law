@@ -1,0 +1,33 @@
+Lov nr. 326 af 11. april 2012, der ændrer § 1, stk. 2 - 3, overskriften til kapitel 2, § 3, stk. 2, § 4, stk. 1, § 9, stk. 1 - 2 og § 10, stk. 1, og indsætter § 3, stk. 4 - 6 og § 4, stk. 2 samt affatter § 5 (Fordeling af myndighedsansvaret mellem kommunerne og Udbetaling Danmark m.v.), indeholder følgende ikrafttrædelses- og overgangsbestemmelser:
+
+§ 25
+
+Stk. 1. Loven træder i kraft den 1. oktober 2012, jf. dog stk. 2-4.
+
+Stk. 2. (Udeladt)
+
+Stk. 3. Lovens § 7, nr. 1, og §§ 13, 14 og 16 træder i kraft den 1. december 2012.
+
+Stk. 4. (Udeladt)
+
+§ 26
+
+Stk. 1. Sager, hvor myndighedsansvaret overgår til Udbetaling Danmark efter denne lovs §§ 1-5, 9, 13 og 24, og som ved lovens ikrafttræden ikke er afgjort eller afsluttet i kommunen, behandles færdige i Udbetaling Danmark.
+
+Stk. 2. Hvis borgeren har givet samtykke til kommunen efter § 11 a, stk. 1, i lov om retssikkerhed og administration på det sociale område på et sagsområde, der efter denne lovs §§ 1-5 og 13 overføres til behandling i Udbetaling Danmark, kan Udbetaling Danmark behandle sagen uden fornyet samtykke. Hvis borgeren har givet samtykke til det sociale nævn eller beskæftigelsesankenævnet efter § 11 a, stk. 5, i lov om retssikkerhed og administration på det sociale område på et sagsområde, der efter denne lovs §§ 1-5 og 13 overføres til behandling i Udbetaling Danmark, kan Ankestyrelsen behandle sagen uden fornyet samtykke.
+
+Stk. 3. Afgørelser, der er truffet af kommunen inden lovens ikrafttræden på sagsområder, der efter denne lovs §§ 1-5, 9 og 13 overgår til Udbetaling Danmark, og som påklages efter lovens ikrafttræden for de respektive sagsområder, kan indbringes for Ankestyrelsen som første og eneste administrative klageinstans, jf. § 64 a i lov om retssikkerhed og administration på det sociale område. § 66 i lov om retssikkerhed og administration på det sociale område om pligt til at genvurdere sagen finder ikke anvendelse.
+
+Stk. 4. Sager, hvor myndighedsansvaret overgår til Udbetaling Danmark efter denne lovs §§ 1-5, 9 og 13, og som inden lovens ikrafttræden for de respektive sagsområder er indbragt for det sociale nævn eller beskæftigelsesankenævnet, og som ikke ved lovens ikrafttræden for de respektive sagsområder er afgjort, behandles færdige i Ankestyrelsen som første og eneste administrative klageinstans.
+
+Stk. 5. Afgørelser efter denne lovs §§ 1-5, 9 og 13, som inden lovens ikrafttræden for de respektive sagsområder er truffet af det sociale nævn eller beskæftigelsesankenævnet, kan påklages til Ankestyrelsen eller Ankestyrelsens Beskæftigelsesudvalg efter de hidtil gældende regler. § 66 i lov om retssikkerhed og administration på det sociale område om pligt til at genvurdere sagen finder ikke anvendelse.
+
+Stk. 6. Krav, som kommunen måtte have mod borgeren, eller krav, som borgeren måtte have mod en kommune efter lovens §§ 1-5, 9 og 13 ved lovens ikrafttræden for de respektive sagsområder, overgår til Udbetaling Danmark. Fordringer, for hvilke kommunen har påbegyndt opkrævning af tilbagebetalingskrav, forbliver dog i kommunen, medmindre fordringen opkræves ved modregning eller fradrages i en ydelse, der efter lovens ikrafttræden for de respektive sagsområder udbetales af Udbetaling Danmark, eller i tilfælde, hvor Udbetaling Danmark træffer en ny afgørelse, som vedrører samme fordring.
+
+Stk. 7. (Udeladt)
+
+Stk. 8. (Udeladt)
+
+Stk. 9. På sagsområder, hvor myndighedsansvaret overgår til Udbetaling Danmark efter denne lovs § 13, videregiver Københavns Kommune senest den 1. oktober 2012 en elektronisk kopi af alle sager, hvori kommunen i perioden fra den 1. januar 2011 til den 1. marts 2012 har truffet endelig afgørelse. Udbetaling Danmark må alene bruge de pågældende sager i uddannelsesøjemed og kun i perioden fra den 1. oktober 2012 til den 30. november 2012.
+
+Stk. 10. (Udeladt)
