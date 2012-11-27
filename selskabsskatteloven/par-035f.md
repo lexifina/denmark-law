@@ -1,1 +1,1 @@
-§ 35F. (Ophævet).
+§ 35 F. (Ophævet).

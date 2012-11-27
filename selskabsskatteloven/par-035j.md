@@ -1,1 +1,1 @@
-§ 35J. (Ophævet).
+§ 35 J. (Ophævet).

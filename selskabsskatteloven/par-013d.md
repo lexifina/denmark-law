@@ -1,4 +1,4 @@
-§ 13D. Energinet.dk opgør en særskilt skattepligtig indkomst for de aktiviteter, der er omfattet af Energinet.dks særskilte regnskaber for elektricitetsrelaterede aktiviteter i medfør af § 12 i lov om Energinet.dk.
+§ 13 D. Energinet.dk opgør en særskilt skattepligtig indkomst for de aktiviteter, der er omfattet af Energinet.dk's særskilte regnskaber for elektricitetsrelaterede aktiviteter i medfør af § 12 i lov om Energinet.dk.
 
 Stk. 2. Energinet.dk opgør en særskilt skattepligtig indkomst for de øvrige aktiviteter, der ikke er omfattet af stk. 1.
 

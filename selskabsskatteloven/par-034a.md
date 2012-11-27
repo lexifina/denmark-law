@@ -1,1 +1,1 @@
-§ 34A. (Ophævet).
+§ 34 A. (Ophævet).

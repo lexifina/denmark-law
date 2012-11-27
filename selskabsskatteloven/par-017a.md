@@ -1,1 +1,1 @@
-§ 17A. (Ophævet).
+§ 17 A. (Ophævet).

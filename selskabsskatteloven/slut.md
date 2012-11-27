@@ -1,5 +1,5 @@
-Skatteministeriet, den 7. december 2010
+Skatteministeriet, den 14. november 2012
 
-P.M.V. Peter Loft
+P.M.V. Jens Brøchner
 
 / Lise Bo Nielsen
