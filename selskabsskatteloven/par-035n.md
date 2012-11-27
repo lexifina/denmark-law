@@ -1,1 +1,1 @@
-§ 35N. (Ophævet).
+§ 35 N. (Ophævet).
