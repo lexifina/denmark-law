@@ -1,7 +1,5 @@
-Givet på Christiansborg Slot, den 17. maj 2000
+Erhvervs- og Vækstministeriet, den 23. november 2012
 
-Under Vor Kongelige Hånd og Segl
+Annette Vilhelmsen
 
-Margrethe R.
-
-/Marianne Jelved
+/ Hanne Kristensen
