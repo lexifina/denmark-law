@@ -1,7 +1,3 @@
-Lov om stormflod og stormfald
+Bekendtgørelse af lov om stormflod og stormfald
 
-VI MARGRETHE DEN ANDEN, af Guds Nåde Danmarks Dronning, gør vitterligt: Folketinget har vedtaget og Vi ved Vort samtykke stadfæstet følgende lov:
-
-## Kapitel 1
-
-Lovens område m.v.
+Herved bekendtgøres lov nr. 349 af 17. maj 2000 om stormflod og stormfald med de ændringer, der følger af lov nr. 505 af 7. juni 2001, § 4 i lov nr. 601 af 24. juni 2005, § 43 i lov nr. 538 af 8. juni 2006, § 15 i lov nr. 108 af 7. februar 2007 og lov nr. 544 af 26. maj 2010.
