@@ -1,0 +1,7 @@
+§ 27 a. Ansøgning om optagelse til en plads i dagtilbud efter § 19, stk. 2-4, og § 21, stk. 2 og 3, skal indgives til kommunalbestyrelsen ved anvendelse af den digitale ansøgningsløsning, som kommunen stiller til rådighed (digital selvbetjening). I tilfælde, hvor kommunalbestyrelsen har delegeret optagelseskompetencen til en selvejende eller udliciteret daginstitution eller en privat dagpleje, jf. § 26, stk. 2, kan kommunalbestyrelsen efter aftale med institutionen eller dagplejen beslutte, at ansøgning skal ske digitalt til den enkelte daginstitution eller private dagpleje. Ansøgninger, der ikke indgives ved digital selvbetjening, afvises af kommunalbestyrelsen, jf. dog stk. 2 og 3.
+
+Stk. 2. Hvis kommunalbestyrelsen finder, at der foreligger særlige forhold, der gør, at borgeren ikke må forventes at kunne anvende den digitale selvbetjeningsløsning, skal kommunalbestyrelsen tilbyde, at ansøgningen kan indgives på anden måde end ved digital selvbetjening efter stk. 1. Kommunalbestyrelsen bestemmer, hvordan en ansøgning omfattet af 1. pkt. skal indgives, herunder om den skal indgives mundtligt eller skriftligt.
+
+Stk. 3. Kommunalbestyrelsen kan helt ekstraordinært ud over de i stk. 2 nævnte tilfælde undlade at afvise en ansøgning, der ikke er indgivet ved digital selvbetjening, hvis der ud fra en samlet økonomisk vurdering er klare økonomiske fordele for kommunen ved at behandle ansøgningen på anden vis end digitalt.
+
+Stk. 4. En digital ansøgning anses for at være kommet frem, når den er tilgængelig for kommunalbestyrelsen.
