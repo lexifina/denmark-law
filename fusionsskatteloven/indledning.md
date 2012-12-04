@@ -1,5 +1,5 @@
-Bekendtgørelse af lov om fusion, spaltning og tilførsel af aktiver m.v. (Fusionsskatteloven)
+Bekendtgørelse af lov om fusion, spaltning og tilførsel af aktiver m.v. (fusionsskatteloven)
 
-Herved bekendtgøres lov om fusion, spaltning og tilførsel af aktiver m.v. (fusionsskatteloven), jf. lovbekendtgørelse nr. 1286 af 8. november 2007, med de ændringer, der følger af § 6 i lov nr. 335 af 7. maj 2008, § 7 i lov nr. 527 af 17. juni 2008, § 3 i lov nr. 530 af 17. juni 2008, § 3 i lov nr. 98 af 10. februar 2009, § 11 i lov nr. 460 af 12. juni 2009, § 9 i lov nr. 462 af 12. juni 2009, § 8 i lov nr. 525 af 12. juni 2009 og § 18 i lov nr. 529 af 26. maj 2010.
+Herved bekendtgøres lov om fusion, spaltning og tilførsel af aktiver m.v. (fusionsskatteloven), jf. lovbekendtgørelse nr. 1260 af 3. november 2010, med de ændringer, der følger af § 17 i lov nr. 516 af 12. juni 2009, § 4 i lov nr. 254 af 30. marts 2011 og § 4 i lov nr. 591 af 18. juni 2012.
 
-De ændringer, der følger af § 17, nr. 1 og 2, i lov nr. 516 af 12. juni 2009, er ikke indarbejdet i denne lovbekendtgørelse, da tidspunktet for ikrafttræden af disse ændringer fastsættes af økonomi og erhvervsministeren, jf. § 25, stk. 1, i lov nr. 516 af 12. juni 2009, som ændret ved § 2 i lov nr. 159 af 16. februar 2010. Lovens bestemmelser suppleres af midlertidige bestemmelser, som er fastsat i kapitel 8 i bekendtgørelse nr. 186 af 24. februar 2010 om delvis ikrafttræden af lov om ændring af årsregnskabsloven, lov om finansiel virksomhed og forskellige andre love.
+De ændringer, der følger af § 4 i lov nr. 433 af 16. maj 2012, har virkning fra den 1. januar 2013. Disse ændringer er derfor ikke indarbejdet i denne lovbekendtgørelse, men det fremgår af noterne, hvilke paragraffer, der ændres ved denne lov.
