@@ -1,0 +1,7 @@
+§ 403 a. Bestemmelserne i Europa-Parlamentets og Rådets forordning (EF) nr. 392/2009 af 23. april 2009 om transportørers erstatningsansvar ved ulykker under søtransport af passagerer (Athenforordningen) gælder tillige for aftaler om transport af passagerer i national fart med klasse-C- og -D-passagerskibe og skibe, der medbringer højst 12 passagerer, jf. dog stk. 2.
+
+Stk. 2. Klasse-C- og -D-passagerskibe og skibe, der medbringer højst 12 passagerer, i national fart er ikke ansvarlige for passagerskader som følge af terror eller passagerskader omfattet af kravene om erstatning for handicaphjælpemidler, forskudsbetaling og oplysningspligt i den forordning, der er nævnt i stk. 1. Sådanne skibe er heller ikke omfattet af krav om certifikat for forsikring.
+
+Stk. 3. Athenforordningen nævnt i stk. 1 finder tilsvarende anvendelse på aftaler om transport af passagerer i national og international fart, som ikke er omfattet af forordningen.
+
+Stk. 4. Athenforordningen nævnt i stk. 1 finder tilsvarende anvendelse på aftaler om transport af passagerer på et skib, som anløber eller forlader dansk havn eller andet last- og lossested i Danmark eller på den danske kontinentalsokkel, eller som udfører opgaver på dansk søterritorium, og hvor skaden, som er omfattet af Athenkonventionen af 1974 angående transport af passagerer og deres bagage til søs som ændret ved protokollen af 2002 (2002-Athenkonventionen), indtræder på et af disse steder.
