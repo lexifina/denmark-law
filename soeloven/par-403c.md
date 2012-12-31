@@ -1,0 +1,1 @@
+§ 403 c. Søfartsstyrelsen kan fastsætte regler om udstedelse af certifikat for forsikring og om gebyr for udstedelse af certifikatet. Certifikatet skal opbevares om bord og på forlangende forevises myndighederne.
