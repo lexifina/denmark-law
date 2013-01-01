@@ -1,0 +1,1 @@
+§ 72 a. Sundhedsstyrelsen tilrettelægger møder med deltagelse af patient- og forbrugerorganisationer med henblik på at formidle offentlig information om foranstaltninger, der træffes for at forebygge og bekæmpe forfalskning af lægemidler.
