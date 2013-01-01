@@ -1,0 +1,5 @@
+§ 29 a. For vare- og lastmotorkøretøjer med tilladt totalvægt på ikke over 3 t, for hvilke der er taget fuldt fradrag for afgift vedrørende anskaffelse eller leje, kan der ske en afgiftsbetaling på 40 kr. pr. dag i indtil 20 dage pr. kalenderår for udtagning af køretøjet til privat brug for virksomhedens indehaver eller dennes personale eller i øvrigt til virksomheden uvedkommende formål. Der udstedes bevis for afgiftens betaling, som skal medbringes under kørsel med køretøjet den pågældende dag og efter anmodning vises til politiet eller told- og skatteforvaltningen.
+
+Stk. 2. Afgiftsbetaling efter stk. 1 kan ikke foretages for køretøjer, der er fritaget for afgift efter lov om vægtafgift af motorkøretøjer m.v. eller brændstofforbrugsafgiftsloven eller fritaget for registreringsafgift efter § 2 i lov om registreringsafgift af motorkøretøjer m.v. Dette gælder dog ikke el- eller brintdrevne køretøjer.
+
+Stk. 3. Skatteministeren kan fastsætte nærmere regler om administrationen af ordningen i stk. 1 om dagsbeviser.
