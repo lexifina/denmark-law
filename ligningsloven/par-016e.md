@@ -1,1 +1,3 @@
-§ 16 E. (Ophævet).
+§ 16 E. Hvis et selskab m.v. omfattet af selskabsskattelovens § 1, stk. 1, nr. 1 eller 2, og tilsvarende selskaber m.v. hjemmehørende i udlandet direkte eller indirekte yder lån til en fysisk person, behandles lånet efter skattelovgivningens almindelige regler om hævninger uden tilbagebetalingspligt, forudsat at der mellem långiver og låntager er en forbindelse omfattet af § 2. 1. pkt. finder ikke anvendelse på lån, der ydes som led i en sædvanlig forretningsmæssig disposition, på sædvanlige lån fra pengeinstitutter eller på lån til selvfinansiering som nævnt i selskabsloven § 206, stk. 2. 1. og 2. pkt. finder tilsvarende anvendelse på sikkerhedsstillelser og på midler, der stilles til rådighed.
+
+Stk. 2. Ved tilbagebetaling af lån m.v., der er beskattet efter stk. 1, medregnes det tilbagebetalte ikke ved opgørelsen af selskabets skattepligtige indkomst.
