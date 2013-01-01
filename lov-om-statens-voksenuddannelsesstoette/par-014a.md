@@ -12,4 +12,4 @@ Stk. 3. Bortfald af SVU sker med udgangen af den kalenderuge, hvor den uddannels
 
 Stk. 4. Efterfølges en strafforfølgning, jf. stk. 1, ikke af en domfældelse, kan ansøgeren søge om at blive stillet, som var der ikke sket bortfald af SVU, jf. stk. 1, såfremt betingelserne for tildeling i øvrigt er opfyldt. SVU udbetales dog ikke til afdødes bo, hvis personen afgår ved døden, inden der er afsagt dom i sagen.
 
-Stk. 5. Undervisningsministeren kan fastsætte nærmere regler om ophør på grund af unddragelse fra strafforfølgning, jf. stk. 1, eller om straffuldbyrdelse, jf. stk. 2, og om fravigelse af den maksimale periode med SVU som følge heraf.
+Stk. 5. Vedkommende minister, jf. § 1, kan fastsætte nærmere regler om ophør på grund af unddragelse fra strafforfølgning, jf. stk. 1, eller om straffuldbyrdelse, jf. stk. 2, og om fravigelse af den maksimale periode med SVU som følge heraf.
