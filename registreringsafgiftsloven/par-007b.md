@@ -1,6 +1,6 @@
 ## Godtgørelse af afgift
 
-§ 7 b. Afgiften af et brugt motorkøretøj, der er afgiftsberigtiget efter §§ 4, 5, 5 a, 6, 6 a, 6 b, 29 eller 29 a, godtgøres, såfremt køretøjet afmeldes fra Køretøjsregisteret og udføres fra landet.
+§ 7 b. Afgiften af et brugt motorkøretøj, der er afgiftsberigtiget efter §§ 4, 5, 5 a, 6, 29 eller 29 a, godtgøres, såfremt køretøjet afmeldes fra Køretøjsregisteret og udføres fra landet.
 
 Stk. 2. Godtgørelsesbeløbet fastsættes i medfør af § 10 således:
 
@@ -12,13 +12,9 @@ Stk. 2. Godtgørelsesbeløbet fastsættes i medfør af § 10 således:
 
 4) For autocampere og busser afgiftsberigtiget efter § 5 a, stk. 1 og 2, som afgiften efter § 5 a, stk. 1 og 2.
 
-5) For sygetransportkøretøjer afgiftsberigtiget efter § 6, som afgiften efter § 6.
+5) For hyrevogne og sygetransportkøretøjer afgiftsberigtiget efter § 6, stk. 1, som afgiften efter § 6, stk. 1.
 
-6) For taxier afgiftsberigtiget efter § 6 a, som afgiften efter § 6 a.
-
-7) For køretøjer afgiftsberigtiget efter § 6 b, som afgiften efter § 6 b.
-
-Stk. 3. I de godtgørelsesbeløb, der er fastsat efter stk. 2, fratrækkes 15 pct. af beløbet, dog mindst 7.500 kr. for personbiler og 4.000 kr. for motorcykler og varebiler.
+Stk. 3. I de godtgørelsesbeløb, der er fastsat efter stk. 2, fratrækkes 15 pct. af beløbet, dog mindst 8.500 kr. for personbiler og 4.500 kr. for motorcykler og varebiler.
 
 Stk. 4. Der kan ikke godtgøres afgift for
 
@@ -32,8 +28,8 @@ Stk. 4. Der kan ikke godtgøres afgift for
 
 5) udstyr m.v., som der ikke er betalt registreringsafgift af.
 
-Stk. 5. Afgiftsgodtgørelsen efter stk. 2 kan ikke overstige den afgift, der oprindelig er betalt, fratrukket 15 pct., dog mindst 7.500 kr. for personbiler og 4.000 kr. for varebiler og motorcykler.
+Stk. 5. Afgiftsgodtgørelsen efter stk. 2 kan ikke overstige den afgift, der oprindelig er betalt, fratrukket 15 pct., dog mindst 8.500 kr. for personbiler og 4.500 kr. for varebiler og motorcykler.
 
 Stk. 6. Ved fornyet tilmelding til Køretøjsregisteret af et køretøj, for hvilket der er godtgjort afgift, beregnes afgiftsbeløbet på samme måde som godtgørelsesbeløbet efter § 7 b, stk. 2, men uden nedslag i afgiftsbeløbet.
 
-Stk. 7. Skal der indhentes synsrapport efter § 7 c, stk. 1, hæves godtgørelsesbeløbet med 300 kr. (2010-niveau). Beløbet reguleres fra 2015 efter personskattelovens § 20.
+Stk. 7. Skal der indhentes en synsrapport efter § 7 c, stk. 1, hæves godtgørelsesbeløbet med 300 kr. Beløbet reguleres årligt med 2 pct. tillagt eller fratrukket den af finansministeren bekendtgjorte tilpasningsprocent for det pågældende finansår efter lov om en satsreguleringsprocent. Procenten beregnes med én decimal. Det således regulerede beløb afrundes opad til nærmeste kronebeløb, der er deleligt med 10. Reguleringen sker første gang med virkning for 2010.
