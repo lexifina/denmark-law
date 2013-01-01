@@ -1,0 +1,11 @@
+## Kapitel 1 a
+
+## Kommunikation
+
+§ 1 a. Erhvervsministeren kan fastsætte regler om, at skriftlig kommunikation til og fra Erhvervsstyrelsen og bevillingsmyndighederne om forhold, som er omfattet af denne lov eller af regler udstedt i medfør af denne lov, skal foregå digitalt.
+
+Stk. 2. Erhvervsministeren kan fastsætte nærmere regler om digital kommunikation, herunder om anvendelse af bestemte it-systemer, særlige digitale formater og digital signatur el.lign.
+
+Stk. 3. En digital meddelelse anses for at være kommet frem, når den er tilgængelig for adressaten for meddelelsen.
+
+Stk. 4. Erhvervsministeren kan efter forhandling med justitsministeren fastsætte regler om, at skriftlig kommunikation til og fra politimyndighederne om forhold, som er omfattet af denne lov eller af regler udstedt i medfør af denne lov, skal foregå digitalt. Stk. 2 og 3 finder tilsvarende anvendelse.
