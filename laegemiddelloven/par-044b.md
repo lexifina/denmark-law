@@ -1,0 +1,1 @@
+§ 44 b. Sundhedsstyrelsen kan give indehaveren af en tilladelse efter § 39, stk. 1 eller 2, og den, der er registreret efter § 41 b, stk. 1, påbud om at ændre opgavevaretagelse, organisation, indretning eller drift og fastsætte en frist for ændringernes gennemførelse for at sikre overholdelsen af regler udstedt i medfør af § 39 b, § 40 b, § 41 a, nr. 3, eller § 41 d.
