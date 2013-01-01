@@ -1,0 +1,3 @@
+§ 8 b. Klima-, energi- og forsyningsministeren kan fastsætte regler om, at Energistyrelsen, Teleklagenævnet og de kommunale myndigheder kan udstede afgørelser og andre dokumenter efter denne lov eller efter regler udstedt i medfør af denne lov uden underskrift, med maskinelt eller på tilsvarende måde gengivet underskrift eller under anvendelse af en teknik, der sikrer entydig identifikation af den, som har udstedt afgørelsen eller dokumentet. Sådanne afgørelser og dokumenter sidestilles med afgørelser og dokumenter med personlig underskrift.
+
+Stk. 2. Klima-, energi- og forsyningsministeren kan for ekspropriationskommissionerne, taksationskommissionerne, Vejdirektoratet og Banedanmark efter forhandling med transportministeren fastsætte regler svarende til stk. 1.

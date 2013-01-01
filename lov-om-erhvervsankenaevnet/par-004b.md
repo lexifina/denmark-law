@@ -1,0 +1,3 @@
+§ 4 b. Erhvervs- og vækstministeren kan fastsætte regler om, at Erhvervsankenævnet kan udstede afgørelser og andre dokumenter uden underskrift, med maskinelt eller på tilsvarende måde gengivet underskrift eller under anvendelse af en teknik, der sikrer entydig identifikation af den, som har udstedt afgørelsen eller dokumentet. Sådanne afgørelser og dokumenter sidestilles med afgørelser og dokumenter med personlig underskrift.
+
+Stk. 2. Erhvervs- og vækstministeren kan fastsætte regler om, at afgørelser og andre dokumenter, der udelukkende er truffet eller udstedt på grundlag af elektronisk databehandling, kan udstedes alene med angivelse af Erhvervsankenævnet som afsender.

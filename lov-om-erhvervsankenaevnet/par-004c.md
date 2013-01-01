@@ -1,0 +1,3 @@
+§ 4 c. Hvor det efter lovgivningen er krævet, at et dokument, som er udstedt af andre end Erhvervsankenævnet, skal være underskrevet, kan dette krav opfyldes ved anvendelse af en teknik, der sikrer entydig identifikation af den, som har udstedt dokumentet, jf. dog stk. 2. Sådanne dokumenter sidestilles med dokumenter med personlig underskrift.
+
+Stk. 2. Erhvervs- og vækstministeren kan fastsætte nærmere regler om fravigelse af underskriftskrav. Det kan herunder bestemmes, at krav om personlig underskrift ikke kan fraviges for visse typer af dokumenter.
