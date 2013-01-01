@@ -1,13 +1,17 @@
-§ 10 a. I andre tilfælde svares afgiften i forbindelse med varemodtagelsen her i landet, medmindre varerne modtages efter reglerne i § 5 eller er omfattet af § 11. Erhvervsdrivende varemodtagere skal, inden varerne afsendes fra udlandet, anmelde sig hos de statslige told- og skattemyndigheder. Anmeldelsen er gældende for 5 år.
+§ 10 a. I andre tilfælde svares afgiften i forbindelse med varemodtagelsen her i landet, medmindre varerne modtages efter reglerne i § 5 eller er omfattet af § 11. Erhvervsdrivende varemodtagere skal, inden varerne afsendes fra udlandet, lade sig registrere hos told- og skatteforvaltningen.
 
-Stk. 2. De i stk. 1 nævnte erhvervsdrivende varemodtagere skal efter udløbet af hver måned og senest den 15. i den følgende måned til de statslige told- og skattemyndigheder angive mængden af de varer, virksomheden har modtaget i måneden. Andre varemodtagere skal angive ved modtagelsen. Angivelsen skal være underskrevet af varemodtageren.
+Stk. 2. Told- og skatteforvaltningen kan pålægge en varemodtager at stille sikkerhed, hvis varemodtageren inden for de seneste 3 år er straffet efter § 26. Sikkerheden skal stilles for et beløb svarende til det forventede skyldige afgiftsbeløb for de kommende 12 måneder, dog mindst 20.000 kr. Sikkerheden frigives, såfremt varemodtageren inden for en 2-års-periode ikke er straffet efter § 26. Sikkerheden skal være told- og skatteforvaltningen i hænde, før forsendelsen af ubeskattede leverancer påbegyndes. Told- og skatteforvaltningen fastsætter regler for sikkerhedsstillelsen.
 
-Stk. 3. Afgiften skal indbetales til de statslige told- og skattemyndigheder senest samtidig med indsendelse af den i stk. 2 nævnte angivelse. Udgør afgiften under 50 kr., kan indbetaling af beløbet undlades.
+Stk. 3. De erhvervsdrivende varemodtagere, der er nævnt i stk. 1, skal efter udløbet af hver afgiftsperiode angive mængden af de varer, virksomheden har modtaget i perioden, og indbetale afgiften heraf til told- og skatteforvaltningen. Angivelsen og betalingen sker efter §§ 2-8 i opkrævningsloven. Afgiftsperioden er måneden.
 
-Stk. 4. Betales afgiften ikke rettidigt, skal der betales 1,3 pct. i månedlig rente for hver påbegyndt måned fra den 1. i den måned, i hvilken beløbet skal betales af virksomheden, dog mindst 50 kr.
+Stk. 4. For andre varemodtagere sker angivelsen og betalingen efter § 9, stk. 1, 3 og 4, i opkrævningsloven.
 
-Stk. 5. De statslige told- og skattemyndigheder kan pålægge en virksomhed, der gentagne gange ikke betaler afgiften rettidigt, at afgive angivelse ved varernes modtagelse. De statslige told- og skattemyndigheder kan endvidere pålægge virksomheden at betale afgiften ved varernes modtagelse.
+Stk. 5. En virksomhed, institution eller person, der ikke er registreret som varemodtager, og der som led i udøvelsen af sit erhverv modtager afgiftspligtige varer efter lovens kapitel 1, 2 eller 3 fra andre EU-lande eller tredjelande, skal inden vareafsendelsen fra et andet EU-land eller tredjeland
 
-Stk. 6. Bestemmelserne i lovens § 12, stk. 2 og 4, § 13, stk. 1, 1. og 2. pkt., § 18, § 23 og § 24 finder tilsvarende anvendelse.
+1) registreres som midlertidigt registreret varemodtager hos told- og skatteforvaltningen,
 
-Stk. 7. Skatteministeren kan fastsætte regler for angivelse og indbetaling af afgiften.
+2) anmelde varetransporten til told- og skatteforvaltningen og
+
+3) indbetale afgiften af varer, der er afgiftspligtige her i landet.
+
+Stk. 6. Told- og skatteforvaltningen kan fratage en virksomhed registreringen som varemodtager, hvis virksomheden gentagne gange ikke angiver og betaler afgiften rettidigt, eller hvis virksomheden ikke overholder regnskabsbestemmelserne i §§ 12 og 13. Generhvervelse af registreringen kan ske efter 1 år.
