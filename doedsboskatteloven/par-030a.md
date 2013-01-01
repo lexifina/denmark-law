@@ -1,4 +1,4 @@
-§ 30 a. Der opgøres et beløb, der udgør summen af skatter opgjort efter § 30 samt eventuel overført restskat m.v. efter kildeskattelovens § 61, stk. 3, og § 61 A og med fradrag af eventuelt overført beløb efter kildeskattelovens § 62 C, stk. 2, 2. pkt.
+§ 30 a. Der opgøres et beløb, der udgør summen af skatter opgjort efter § 30 samt eventuel overført restskat m.v. efter kildeskattelovens § 61, stk. 3, og § 61 A.
 
 Stk. 2. Afdødes negative skat efter personskattelovens § 8 a, stk. 5, der ikke har kunnet modregnes i afdødes slutskat m.v. for årene forud for dødsåret, fremføres til modregning i skatter m.v. som opgjort efter stk. 1, i det omfang beløbet kan rummes heri. Et eventuelt overskydende beløb udbetales ikke.
 
