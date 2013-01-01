@@ -2,4 +2,4 @@
 
 ## Forskellige bestemmelser
 
-§ 23 b. Bestyrelsen for Arbejdsgivernes Elevrefusion indsender et budget for de samlede udgifter efter denne lov til Undervisningsministeriet.
+§ 23 b. Bestyrelsen for Arbejdsgivernes Uddannelsesbidrag indsender et budget for de samlede udgifter efter denne lov til Ministeriet for Børn og Undervisning.
