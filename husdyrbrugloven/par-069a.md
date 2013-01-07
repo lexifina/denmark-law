@@ -1,0 +1,1 @@
+§ 69 a. Miljø- og fødevareministeren kan fastsætte regler om offentliggørelse, herunder udelukkende digitalt, af de i § 69, stk. 1, nævnte oplysninger. Oplysningerne kan vedrøre strafbare forhold på lovens område og kan være med navns nævnelse.

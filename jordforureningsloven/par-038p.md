@@ -1,0 +1,1 @@
+§ 38 p. Hvis driftsherren ikke har pligt til eller kun har delvis pligt til at undersøge og afhjælpe eller afværge en jord- eller grundvandsforurening efter reglerne i dette kapitel eller ikke har betalingsevne til at opfylde pligterne, kan der meddeles påbud efter reglerne i kapitel 5.
