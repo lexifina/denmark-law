@@ -1,0 +1,1 @@
+§ 45 b. Miljø- og fødevareministeren kan fastsætte regler om offentliggørelse, herunder udelukkende digital, af de i § 45 a, stk. 1, nævnte oplysninger. Oplysningerne kan vedrøre strafbare forhold på lovens område og kan være med navns nævnelse.

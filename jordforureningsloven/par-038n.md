@@ -1,0 +1,1 @@
+§ 38 n. Pligterne efter dette kapitel påhviler virksomhedens eller husdyrbrugets driftsherre på tidspunktet for driftsophør, uanset om en eventuel forurening er sket i den periode, hvor den pågældende drev virksomheden eller husdyrbruget.
