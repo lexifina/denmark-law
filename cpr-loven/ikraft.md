@@ -1,21 +1,29 @@
-Lov nr. 89 af 30. januar 2007, der ændrer § 17, stk. 1, indeholder følgende ikrafttrædelses- og overgangsbestemmelser:
+Lov nr. 1536 af 21. december 2010, der ændrer § 10, stk. 2, nr. 3 indeholder følgende ikrafttrædelses- og overgangsbestemmelser:
+
+§ 32
+
+Stk. 1. Loven træder i kraft den 1. januar 2011.
+
+Stk. 2-4. (Udeladt).
+
+Lov nr. 558 af 18. juni 2012, der ændrer § 12, stk. 3 og 7, § 21, stk. 5, og § 26, stk. 5, indeholder følgende ikrafttrædelses- og overgangsbestemmelse:
 
 § 5
 
-Stk. 1. Loven træder i kraft den 1. februar 2007, jf. dog stk. 2-6.
+Loven træder i kraft den 1. december 2012.
 
-Stk. 2-6. (Udeladt).
+Lov nr. 600 af 18. juni 2012, der ændrer § 8, stk. 3, indeholder følgende ikrafttrædelses- og overgangsbestemmelser:
 
-Lov nr. 500 af 6. juni 2007, der ændrer § 8, stk. 3, indeholder følgende ikrafttrædelses- og overgangsbestemmelse:
+§ 4
 
-§ 7
+Stk. 1. Loven træder i kraft den 1. oktober 2012.
 
-Loven træder i kraft den 1. oktober 2007.
+Stk. 2-5. (Udeladt).
 
-Lov nr. 1336 af 19. december 2008, der ophæver § 58, stk. 4 og 5, indeholder følgende ikrafttrædelses- og overgangsbestemmelser:
+Lov nr. 1251 af 18. december 2012, der ændrer §§ 3, 6, 8, 13, 16, 24, 29, 33, 38, 42, 43, 44, 51, samt bilag 1, indeholder følgende ikrafttrædelses- og overgangsbestemmelser:
 
-§ 167
+§ 3
 
-Stk. 1. Loven træder i kraft den 1. januar 2009, (…)
+Stk. 1. Loven træder i kraft den 1. januar 2013.
 
-Stk. 2. (Udeladt).
+Stk. 2. For anmeldelser af flytning efter CPR-lovens § 8, som indgives før lovens ikrafttræden, og som vedrører en flytning, der ligeledes har fundet sted før lovens ikrafttræden, skal afgørelsen træffes efter de før lovens ikrafttræden gældende regler, hvis kommunalbestyrelsens afgørelse først træffes efter lovens ikrafttræden.
