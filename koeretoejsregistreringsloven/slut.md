@@ -1,4 +1,4 @@
-Skatteministeriet, den 24. oktober 2012
+Skatteministeriet, den 9. januar 2013
 
 P.M.V. Jens Brøchner
 
