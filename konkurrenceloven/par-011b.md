@@ -8,8 +8,8 @@ Stk. 2. Hvis den i stk. 1 nævnte afregningspris er lavere eller skønnes lavere
 
 3) efterbetale et beløb til private leverandører af ydelser omfattet af frit valg, der svarer til forskellen mellem den afregningspris, som myndigheden har anvendt, og den afregningspris, som myndigheden burde have anvendt, jf. nr. 1.
 
-Stk. 3. Medmindre andet fremgår af reglerne for den pågældende frit valg-ordning, kan påbud om efterbetaling ikke angå betalinger, som ligger mere end 1 år forud for den dag, hvor Konkurrencestyrelsen påbegyndte en undersøgelse over for den pågældende offentlige myndighed.
+Stk. 3. Medmindre andet fremgår af reglerne for den pågældende frit valg-ordning, kan påbud om efterbetaling ikke angå betalinger, som ligger mere end 1 år forud for den dag, hvor Konkurrence- og Forbrugerstyrelsen påbegyndte en undersøgelse over for den pågældende offentlige myndighed.
 
 Stk. 4. Konkurrencerådet kan undlade at behandle en sag efter stk. 1-3, hvis den pågældende ordning kan påvirke samhandelen mellem medlemsstaterne i Den Europæiske Union.
 
-Stk. 5. Økonomi- og erhvervsministeren fastsætter efter forhandling med vedkommende minister regler om, hvilke ordninger om frit valg der er omfattet af Konkurrencerådets kompetence.
+Stk. 5. Erhvervs- og vækstministeren fastsætter efter forhandling med vedkommende minister regler om, hvilke ordninger om frit valg der er omfattet af Konkurrencerådets kompetence.

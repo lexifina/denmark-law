@@ -1,4 +1,4 @@
-§ 23 a. Den, der handler i strid med § 6 eller EUF-traktatens artikel 101, stk. 1, ved at indgå en kartelaftale, opnår efter ansøgning tiltalefrafald for den bøde, vedkommende ellers ville være blevet pålagt for sin deltagelse i kartellet, hvis ansøgeren som den første henvender sig til myndighederne og fremlægger oplysninger om et kartel, som myndighederne ikke var i besiddelse af på ansøgningstidspunktet, og som,
+§ 23 a. Den, der handler i strid med § 6 eller EUF-traktatens artikel 101, stk. 1, ved at indgå en kartelaftale, opnår efter ansøgning tiltalefrafald for den bøde eller fængselsstraf, vedkommende ellers ville være blevet pålagt for sin deltagelse i kartellet, hvis ansøgeren som den første henvender sig til myndighederne og fremlægger oplysninger om et kartel, som myndighederne ikke var i besiddelse af på ansøgningstidspunktet, og som,
 
 1) inden myndighederne har foretaget en kontrolundersøgelse eller ransagning vedrørende det pågældende forhold, giver myndighederne konkret anledning til at iværksætte en kontrolundersøgelse eller en ransagning eller indgive politianmeldelse vedrørende det pågældende forhold eller,
 
@@ -22,7 +22,7 @@ Stk. 4. Den, der handler i strid med § 6 eller EUF-traktatens artikel 101, stk.
 
 Stk. 5. Strafnedsættelsen for den første ansøger, der opfylder betingelserne i stk. 4, udgør 50 pct. af den bøde, vedkommende ellers ville være blevet pålagt for sin deltagelse i kartellet. For den anden ansøger, der opfylder betingelserne i stk. 4, udgør strafnedsættelsen 30 pct. For efterfølgende ansøgere, der opfylder betingelserne i stk. 4, udgør strafnedsættelsen op til 20 pct.
 
-Stk. 6. Ansøgninger om tiltalefrafald eller strafnedsættelse indgives til Konkurrencestyrelsen. I sager, hvor personer eller virksomheder er sigtede, eller hvor Statsadvokaten for Særlig Økonomisk Kriminalitet har indledt en strafferetlig efterforskning af en formodet overtrædelse i form af et kartel, kan ansøgning om straflempelse tillige indgives til Statsadvokaten for Særlig Økonomisk Kriminalitet.
+Stk. 6. Ansøgninger om tiltalefrafald eller strafnedsættelse indgives til Konkurrence- og Forbrugerstyrelsen. I sager, hvor personer eller virksomheder er sigtede, eller hvor Statsadvokaten for Særlig Økonomisk Kriminalitet har indledt en strafferetlig efterforskning af en formodet overtrædelse i form af et kartel, kan ansøgning om straflempelse tillige indgives til Statsadvokaten for Særlig Økonomisk Kriminalitet.
 
 Stk. 7. En ansøgning efter stk. 6 behandles efter følgende procedure:
 
@@ -32,9 +32,9 @@ Stk. 7. En ansøgning efter stk. 6 behandles efter følgende procedure:
 
 3) Når sagens oplysning og vurdering er endeligt gennemført, meddeler den kompetente myndighed, jf. stk. 9, om ansøgeren opfylder betingelserne i stk. 2, og meddeler i bekræftende fald tiltalefrafald eller strafnedsættelse i overensstemmelse med det foreløbige tilsagn, som ansøgeren har fået efter nr. 2.
 
-Stk. 8. Et foreløbigt tilsagn afgives af den myndighed, som har modtaget ansøgningen i overensstemmelse med stk. 6. Forinden myndigheden afgiver et foreløbigt tilsagn efter stk. 7, nr. 2, skal tilsagnet være drøftet mellem Konkurrencestyrelsen og Statsadvokaten for Særlig Økonomisk Kriminalitet. Et foreløbigt tilsagn om tiltalefrafald kan kun gives, hvis myndighederne er enige herom.
+Stk. 8. Et foreløbigt tilsagn afgives af den myndighed, som har modtaget ansøgningen i overensstemmelse med stk. 6. Forinden myndigheden afgiver et foreløbigt tilsagn efter stk. 7, nr. 2, skal tilsagnet være drøftet mellem Konkurrence- og Forbrugerstyrelsen og Statsadvokaten for Særlig Økonomisk Kriminalitet. Et foreløbigt tilsagn om tiltalefrafald kan kun gives, hvis myndighederne er enige herom.
 
-Stk. 9. Meddelelse om tiltalefrafald efter stk. 7, nr. 3, afgives af Statsadvokaten for Særlig Økonomisk Kriminalitet efter høring af Konkurrencestyrelsen. Meddelelse om strafnedsættelse efter stk. 7, nr. 3, afgives af den myndighed, der i den konkrete sag udsteder et administrativt bødeforelæg eller indbringer sagen for domstolene. Forinden en meddelelse om strafnedsættelse kan gives, skal den anden myndighed høres.
+Stk. 9. Meddelelse om tiltalefrafald efter stk. 7, nr. 3, afgives af Statsadvokaten for Særlig Økonomisk Kriminalitet efter høring af Konkurrence- og Forbrugerstyrelsen. Meddelelse om strafnedsættelse efter stk. 7, nr. 3, afgives af den myndighed, der i den konkrete sag udsteder et administrativt bødeforelæg eller indbringer sagen for domstolene. Forinden en meddelelse om strafnedsættelse kan gives, skal den anden myndighed høres.
 
 Stk. 10. Forskellige virksomheder kan ikke indgive fælles ansøgning om straflempelse, medmindre ansøgerne er koncernforbundne og ansøgningen særskilt angiver, hvilke selskaber ansøgningen skal omfatte.
 

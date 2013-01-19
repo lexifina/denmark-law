@@ -1,5 +1,5 @@
-Økonomi- og Erhvervsministeriet, den 13. august 2010
+Erhvervs- og Vækstministeriet, den 17. januar 2013
 
-Brian Mikkelsen
+Annette Vilhelmsen
 
-/ Kim Sparlund
+/ Kirsten Levinsen
