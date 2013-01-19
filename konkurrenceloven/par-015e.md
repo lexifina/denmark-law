@@ -1,0 +1,1 @@
+§ 15 e. Konkurrence- og Forbrugerstyrelsen kan offentliggøre dokumenter, der indgår i sagsbehandlingen, og hvortil der er behov for tredjemands bemærkninger. § 13, stk. 4, finder tilsvarende anvendelse ved offentliggørelsen.

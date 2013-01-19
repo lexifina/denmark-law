@@ -6,4 +6,6 @@ Stk. 3. Fristen i stk. 2 forlænges med op til 20 hverdage, hvis en eller flere 
 
 Stk. 4. Fristen i stk. 2 kan tillige forlænges efter beslutning fra Konkurrencerådet, forudsat at den eller de virksomheder, der har foretaget anmeldelsen, anmoder herom eller samtykker heri. En forlængelse kan ikke overstige 20 hverdage.
 
-Stk. 5. Er der ikke truffet afgørelse inden for de frister, der følger af stk. 1-4, betragtes dette som en afgørelse om godkendelse af fusionen.
+Stk. 5. Er der ikke truffet afgørelse inden for de frister, der følger af stk. 1-4, betragtes dette som en afgørelse om godkendelse af fusionen, jf. dog stk. 6.
+
+Stk. 6. Klager en deltagende virksomhed til Konkurrenceankenævnet over sagsbehandlingen i en fusionssag, hvori der endnu ikke er truffet afgørelse efter § 12 c, stk. 1 eller 3, afbrydes fristerne i stk. 1-4, indtil ankenævnet har truffet afgørelse i klagesagen.
