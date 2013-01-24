@@ -2,4 +2,4 @@
 
 Stk. 2. For tilbagebetalingskrav efter § 47, stk. 7, hæfter andre end ansøgeren dog kun efter stk. 1 i det omfang, de har været vidende om, at boligstøtte er oppebåret uberettiget.
 
-Stk. 3. Kommunalbestyrelsen skal skriftligt gøre alle underskrivere af ansøgningerne bekendt med reglerne i denne bestemmelse.
+Stk. 3. Udbetaling Danmark skal skriftligt gøre alle underskrivere af ansøgningerne bekendt med reglerne i denne bestemmelse.

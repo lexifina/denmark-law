@@ -1,1 +1,1 @@
-§ 75 a. (Ophævet)
+§ 75 a. (Ophævet).

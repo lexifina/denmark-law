@@ -6,6 +6,6 @@ Stk. 3. § 33 finder tilsvarende anvendelse på tilskud efter dette kapitel. §�
 
 ## Kapitel 5
 
-## (Ophævet)
+## (Ophævet).
 
-§§ 25-29 b . (Ophævet)
+§§ 25-29 b. (Ophævet).
