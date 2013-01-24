@@ -1,20 +1,20 @@
-Lov nr. 285 af 25. april 2001 indeholder nedenstående ikrafttrædelses- og overgangsbestemmelser. (Lovændringen vedrører §§ 2, 2 a, 2 b, 14, 18, 22, 22 a, 23, 30, 31, 32, 34, 35, 36, 37, 39 a, 40, 50, 72 og 75. Lovændringen angår førtidspensionsreform.)
+Lov nr. 285 af 25. april 2001 indeholder nedenstående ikrafttrædelses- og overgangsbestemmelser. (Lovændringen vedrører §§ 2, 2 a, 2 b, 14, 18, 22, 22 a, 23, 30, 31, 32, 34, 35, 36, 37, 39 a, 40, 50, 72 og 75. Lovændringen angår førtidspensionsreform. )
 
 § 6
 
 Stk. 1. Loven træder i kraft den 1. januar 2003, jf. dog stk. 3-8.
 
-Stk. 2-7. ...
+Stk. 2-7. (Udeladt).
 
 Stk. 8. Personer, der er tilkendt førtidspension eller invaliditetsydelse, eller for hvem der er påbegyndt sag herom inden den 1. januar 2003, er dog uanset § 5, nr. 1 og 2, også efter udgangen af 2002 berettiget til boligydelse efter de regler i lov om individuel boligstøtte, der gælder for modtagere af folkepension.
 
-Lov nr. 402 af 6. juni 2002 indeholder nedenstående ikrafttrædelses- og overgangsbestemmelser (Lovændringen vedrører §§ 9, 12, 13, 14, 23, 39, 64 e, 64 f, 64 g og 75. Lovændringen angår overførelse af tidssvarende plejehjem og beskyttede boliger til boliglovgivningen.)
+Lov nr. 402 af 6. juni 2002 indeholder nedenstående ikrafttrædelses- og overgangsbestemmelser (Lovændringen vedrører §§ 9, 12, 13, 14, 23, 39, 64 e, 64 f, 64 g og 75. Lovændringen angår overførelse af tidssvarende plejehjem og beskyttede boliger til boliglovgivningen. )
 
 § 7
 
 Stk. 1. Loven træder i kraft den 1. januar 2003.
 
-Stk. 2-3. …
+Stk. 2-3. (Udeladt).
 
 § 8
 
@@ -22,9 +22,9 @@ Stk. 1. Til personer, der på omdannelsestidspunktet bor i en bolig, der omdanne
 
 Stk. 2. Bestemmelsen i lov om individuel boligstøtte § 14, stk. 4 og 5, og § 23, stk. 2 og 3, som affattet ved denne lovs § 4, nr. 6-9, gælder for personer, der bor i en ustøttet plejebolig, uanset om den pågældende var anvist til boligen før lovens ikrafttræden eller før boligens omdannelse til ustøttet plejebolig efter lovens ikrafttræden.
 
-Stk. 3. …
+Stk. 3. (Udeladt).
 
-Lov nr. 1069 af 17. december 2002 indeholder nedenstående ikrafttrædelses- og overgangsbestemmelser. (Lovændringen vedrører §§ 73, stk. 1-6, 75 stk. stk. 5, 75a stk. 3, 76 og 78. Lovændringen angår udvidelse af anvendelsesområdet for lov om retssikkerhed og administration på det sociale område til at omfatte lov om individuel boligstøtte.)
+Lov nr. 1069 af 17. december 2002 indeholder nedenstående ikrafttrædelses- og overgangsbestemmelser. (Lovændringen vedrører §§ 73, stk. 1-6, 75 stk. stk. 5, 75a stk. 3, 76 og 78. Lovændringen angår udvidelse af anvendelsesområdet for lov om retssikkerhed og administration på det sociale område til at omfatte lov om individuel boligstøtte. )
 
 § 3
 
@@ -34,7 +34,7 @@ Stk. 2. Loven anvendes på afgørelser, som træffes denne dato eller senere, se
 
 Stk. 3. Aftaler indgået i medfør af § 76, stk. 3, i lov om individuel boligstøtte om mellemkommunal refusion er fortsat gældende, så længe den pågældende bor i den anviste bolig, eller indtil aftalen opsiges. Uenighed mellem kommuner om deres forpligtelser efter aftalen kan indbringes for det sociale nævn i medfør af § 61 i lov om retssikkerhed og administration på det sociale område.
 
-Lov nr. 1218 af 27. december 2003 indeholder nedenstående ikrafttrædelses- og overgangsbestemmelser. (Lovændringen vedrører §§ 8, 8 a, 10, 14, 17, 21, 21 a, 22, 22 a. 23, 24 d-e, 33-35, 42 a, 44, 46, 47, 56, 72 og 83. Lovændringen angår afrunding af indkomst, regulering af beløbsgrænser samt ændring af kompensationsordningen.)
+Lov nr. 1218 af 27. december 2003 indeholder nedenstående ikrafttrædelses- og overgangsbestemmelser. (Lovændringen vedrører §§ 8, 8 a, 10, 14, 17, 21, 21 a, 22, 22 a. 23, 24 d-e, 33-35, 42 a, 44, 46, 47, 56, 72 og 83. Lovændringen angår afrunding af indkomst, regulering af beløbsgrænser samt ændring af kompensationsordningen. )
 
 § 2
 
@@ -46,7 +46,7 @@ Stk. 3. For boligydelse og boligsikring i form af lån gælder, at den del af l�
 
 Stk. 4. For husstande, der den 1. januar 2004 er berettiget til kompensationsbeløb som følge af tidligere ændringer i lov om individuel boligstøtte, finder de hidtil gældende regler i lovens §§ 42 a og 83 fortsat anvendelse for disse ændringer.
 
-Lov nr. 1235 af 27. december 2003 indeholder nedenstående ikrafttrædelses- og overgangsbestemmelser. (Lovændringen vedrører §§ 10, Kapitel 5, 60 og 75. Lovændringen angår konsekvensændringer som følge af lov om byfornyelse og udvikling af byer.)
+Lov nr. 1235 af 27. december 2003 indeholder nedenstående ikrafttrædelses- og overgangsbestemmelser. (Lovændringen vedrører §§ 10, Kapitel 5, 60 og 75. Lovændringen angår konsekvensændringer som følge af lov om byfornyelse og udvikling af byer. )
 
 § 9
 
@@ -54,9 +54,7 @@ Stk. 1. Loven træder i kraft den 1. januar 2004.
 
 Stk. 2. § 5 gælder ikke for husstande i ejendomme, hvortil kommunen har hjemtaget bindende tilsagn til en byfornyelsesbeslutning inden den 1. januar 2004 eller inden denne dato har meddelt påbud efter kapitel 9 i lov om byfornyelse, jf. lovbekendtgørelse nr. 260 af 7. april 2003. Det samme gælder for husstande i kvarterløftsområder i ejendomme omfattet af en beslutning om byfornyelse i henhold til lov om byfornyelse, hvortil der er afsat midler på finanslov 2000 og hjemtaget bindende tilsagn om offentlig støtte inden den 1. januar 2009. Disse husstande er fortsat efter udgangen af 2003 berettiget til sanerings- og byfornyelsesboligsikring samt huslejetilskud efter de tidligere gældende regler.
 
-Lov nr. 428 af 6. juni 2005 indeholder nedenstående ikrafttrædelses- og overgangsbestemmelser. (Lovændringen vedrører §§ 74 og 80. Lovændringen angår konsekvensændringer som følge af kommunalreformen m.v.)
-
-Information til nedenstående § 125. Bekendtgørelsen i Lovtidende fandt sted den 7. juni 2005.
+Lov nr. 428 af 6. juni 2005 indeholder nedenstående ikrafttrædelses- og overgangsbestemmelser. (Lovændringen vedrører §§ 74 og 80. Lovændringen angår konsekvensændringer som følge af kommunalreformen m.v.) Information til nedenstående § 125. Bekendtgørelsen i Lovtidende fandt sted den 7. juni 2005.
 
 § 125
 
@@ -70,9 +68,7 @@ Stk. 3. Følgende bekendtgørelser ophæves med virkning fra den 1. november 200
 
 2) Bekendtgørelse nr. 520 af 25. juni 2002 om myndighedsinddeling og sagsudlægning.
 
-Lov nr. 430 af 6. juni 2005 indeholder nedenstående ikrafttrædelses- og overgangsbestemmelser. (Lovændringen vedrører § 51. Lovændringen angår konsekvensændringer som følge af lov om opkrævning og inddrivelse af visse fordringer – samlingen af inddrivelsen i Skatteministeriet.)
-
-Information til nedenstående § 70. Bekendtgørelsen i Lovtidende fandt sted den 7. juni 2005.
+Lov nr. 430 af 6. juni 2005 indeholder nedenstående ikrafttrædelses- og overgangsbestemmelser. (Lovændringen vedrører § 51. Lovændringen angår konsekvensændringer som følge af lov om opkrævning og inddrivelse af visse fordringer – samlingen af inddrivelsen i Skatteministeriet. ) Information til nedenstående § 70. Bekendtgørelsen i Lovtidende fandt sted den 7. juni 2005.
 
 § 70
 
@@ -102,39 +98,19 @@ Stk. 4. For husstande med hjemmeværende børn, der fylder 18 år den 1. januar 
 
 Stk. 5. Reglerne i §§ 33, 34 og 42 a i lov om individuel boligstøtte finder anvendelse på summen af den beregnede boligstøtte og tillægget til den beregnede boligstøtte, jf. stk. 4.
 
-Lov nr. 574 af 24. juni 2005 indeholder nedenstående ikrafttrædelses- og overgangsbestemmelser. (Lovændringen vedrører §§ 2 a, 12, 13, 14, 22, 23, 24 a, 24 f, 39, 42, 56, 59 og 75 a. Lovændringen angår konsekvensrettelser på det sociale område som følge af kommunalreformen.)
+Lov nr. 574 af 24. juni 2005 indeholder nedenstående ikrafttrædelses- og overgangsbestemmelser. (Lovændringen vedrører §§ 2 a, 12, 13, 14, 22, 23, 24 a, 24 f, 39, 42, 56, 59 og 75 a. Lovændringen angår konsekvensrettelser på det sociale område som følge af kommunalreformen. )
 
 § 8
 
 Stk. 1. Loven træder i kraft den 1. januar 2007.
 
-Stk. 2-6. ...
+Stk. 2-6. (Udeladt).
 
 Stk. 7. For personer, der har et socialt betinget behov for at bo i bofællesskab, og som inden udgangen af 2006 af et amtsråd er anvist bolig i et kollektivt bofællesskab, kan boligstøtte, så længe de bebor den pågældende bolig, ydes efter reglerne for personer omfattet af § 24 a, stk. 1, nr. 1, i lov om individuel boligstøtte. For nærtstående til sådanne personer, der samtidig er anvist bolig i bofællesskabet, kan boligstøtte tilsvarende ydes efter reglerne for personer omfattet af lovens § 24 a, stk. 1, nr. 2.
 
-Stk. 8-9. ...
+Stk. 8-9. (Udeladt).
 
-Lov nr. 1584 af 20. december 2006 indeholder nedenstående ikrafttrædelses- og overgangsbestemmelse. (Lovændringen vedrører §§ 24 d og 24 e. Lovændringen angår tekniske rettelser på det sociale område og boligområdet som følge af kommunalreformen m.v.)
-
-§ 13
-
-Loven træder i kraft den 1. januar 2007.
-
-Lov nr. 1588 af 20. december 2006 indeholder nedenstående ikrafttrædelses- og overgangsbestemmelse. (Lovændringen vedrører §§ 8 og 56. Lovændringen angår forhøjelse af den supplerende pensionsydelse og undtagelse heraf i beregningsgrundlaget for boligstøtte.)
-
-§ 3
-
-Loven træder i kraft den 1. januar 2007.
-
-Lov nr. 90 af 31. januar 2007 indeholder nedenstående ikrafttrædelses- og overgangsbestemmelser. (Lovændringen vedrører §§ 8 a, 9, 11-14, 23, 24 a, 24 b, 32, 39, 54, 56-57, 59, 61, 62, 64 a, 64 b, 64 e og 66. Lovændringen angår lov om friplejeboliger.)
-
-§ 100
-
-Stk. 1. Loven træder i kraft den 1. februar 2007.
-
-Stk. 2. ...
-
-Lov nr. 324 af 30. april 2008 indeholder følgende ikrafttrædelsesbestemmelse. (Lovændringen vedrører §§ 17, 24 g, 31, 32, 36, 37, 39 a, 40, 48 a, 51, 75 og 82 b. Lovændringen angår udbetaling af boligstøtte til nye støttemodtagere i private andelsboliger m.v. som lån.)
+Lov nr. 324 af 30. april 2008 indeholder følgende ikrafttrædelsesbestemmelse. (Lovændringen vedrører §§ 17, 24 g, 31, 32, 36, 37, 39 a, 40, 48 a, 51, 75 og 82 b. Lovændringen angår udbetaling af boligstøtte til nye støttemodtagere i private andelsboliger m.v. som lån. )
 
 § 2
 
@@ -142,35 +118,15 @@ Stk. 1. Loven træder i kraft den 1. maj 2008.
 
 Stk. 2. § 1, nr. 2-8 og 11, finder anvendelse ved ansøgninger om boligstøtte, hvor boligstøtten ydes med virkning fra den 1. juni 2008 eller senere.
 
-Lov nr. 1336 af 19. december 2008 indeholder nedenstående ikrafttrædelses- og overgangsbestemmelser. (Lovændringen vedrører §§ 49, 51 og 73. Lovændringen angår konsekvensændringer som følge af lov om inddrivelse af gæld til det offentlige.)
+Lov nr. 1336 af 19. december 2008 indeholder nedenstående ikrafttrædelses- og overgangsbestemmelser. (Lovændringen vedrører §§ 49, 51 og 73. Lovændringen angår konsekvensændringer som følge af lov om inddrivelse af gæld til det offentlige. )
 
 § 167
 
 Stk. 1. Loven træder i kraft den 1. januar 2009, jf. dog stk. 2. § 11 finder alene anvendelse på afgørelser om lønindeholdelse, der træffes efter lovens ikrafttræden.
 
-Stk. 2. …
+Stk. 2. (Udeladt).
 
-Lov nr. 1345 af 19. december 2008 indeholder nedenstående ikrafttrædelses- og overgangsbestemmelser. (Lovændringen vedrører § 8. Lovændringen angår ligestilling af dansk og udenlandsk udbytte m.v.)
-
-§ 5
-
-Stk. 1. Loven træder i kraft den 1. januar 2009.
-
-Lov nr. 1411 af 27. december 2008 indeholder nedenstående ikrafttrædelses- og overgangsbestemmelser. (Lovændringen vedrører §§ 7 og 46 a. Lovændringen angår ændrede betingelser om børns ophold her i landet m.v.)
-
-§ 5
-
-Stk. 1. Loven træder i kraft den 1. januar 2009.
-
-Lov nr. 286 af 15. april 2009 indeholder nedenstående ikrafttrædelses- og overgangsbestemmelser. (Lovændringen vedrører § 55. Lovændringen angår initiativer for at forhindre udsættelser af lejere som følge af manglende betaling af husleje m.v.)
-
-§ 9
-
-Stk. 1. Loven træder i kraft den 1. juni 2009.
-
-Stk. 2. …
-
-Lov nr. 481 af 12. juni 2009 indeholder nedenstående ikrafttrædelses- og overgangsbestemmelser. (Lovændringen vedrører §§ 9 a, 14, 22, 23 og 75. Lovændringen angår forhøjet boligstøtte til personer i anviste almene ældreboliger og lignende udlejningsboliger.)
+Lov nr. 481 af 12. juni 2009 indeholder nedenstående ikrafttrædelses- og overgangsbestemmelser. (Lovændringen vedrører §§ 9 a, 14, 22, 23 og 75. Lovændringen angår forhøjet boligstøtte til personer i anviste almene ældreboliger og lignende udlejningsboliger. )
 
 § 2
 
@@ -226,6 +182,60 @@ Lov nr. 461 af 18. maj 2011 indeholder nedenstående ikrafttrædelses- og overga
 
 Stk. 1. Loven træder i kraft den 1. juli 2011.
 
-Stk. 2-3. ….
+Stk. 2-3. (Udeladt).
 
 Stk. 4. Denne lovs § 2 finder kun anvendelse ved afgørelser, der træffes i medfør af § 2, stk. 1, nr. 2, i lov om en børne- og ungeydelse, § 57 a, stk. 7, i lov om social service, § 2 a, stk. 3, i lov om vejledning om uddannelse og erhverv samt pligt til uddannelse, beskæftigelse m.v. og § 25, stk. 5, 7, 8, 9 eller 10, eller § 42 i lov om aktiv socialpolitik, der træffes efter lovens ikrafttræden.
+
+Lov nr. 1364 af 28. december 2011 indeholder følgende ikrafttrædelsesbestemmelse. (Lovændringen vedrører §§ 8 og 42 a. Lovændringen angår ophævelse af starthjælpen, loft over kontanthjælpen, 500-kroners-nedsættelsen, 225-timers-reglen, introduktionsydelsen m.v.)
+
+§ 7
+
+Stk. 1. Loven træder i kraft den 1. januar 2012.
+
+Stk. 2-8. (Udeladt).
+
+Lov nr. 326 af 11. april 2012 indeholder følgende ikrafttrædelsesbestemmelse. (Lovændringen medfører ændringer i §§ 1, 7 a, 9 b, 10, 11, 14, 15, 23, 37, 38, 39, 39 a, 40, 41, 42, 43, 44, 46, 46 a, 47, 48 b, 49, 50, 55, 73, 73 a og 75. Lovændringen angår fordeling af myndighedsansvaret mellem kommunerne og Udbetaling Danmark mv.)
+
+§ 25
+
+Stk. 1. Loven træder i kraft den 1. oktober 2012, jf. dog stk. 2-4.
+
+Stk. 2-3. (Udeladt).
+
+Stk. 4. Lovens §§ 1-3, § 7, nr. 7, og §§ 15, 17 og 24 træder i kraft den 1. marts 2013.
+
+§ 26
+
+Stk. 1. Sager, hvor myndighedsansvaret overgår til Udbetaling Danmark efter denne lovs §§ 1-5, 9, 13 og 24, og som ved lovens ikrafttræden ikke er afgjort eller afsluttet i kommunen, behandles færdige i Udbetaling Danmark.
+
+Stk. 2. Hvis borgeren har givet samtykke til kommunen efter § 11 a, stk. 1, i lov om retssikkerhed og administration på det sociale område på et sagsområde, der efter denne lovs §§ 1-5 og 13 overføres til behandling i Udbetaling Danmark, kan Udbetaling Danmark behandle sagen uden fornyet samtykke. Hvis borgeren har givet samtykke til det sociale nævn eller beskæftigelsesankenævnet efter § 11 a, stk. 5, i lov om retssikkerhed og administration på det sociale område på et sagsområde, der efter denne lovs §§ 1-5 og 13 overføres til behandling i Udbetaling Danmark, kan Ankestyrelsen behandle sagen uden fornyet samtykke.
+
+Stk. 3. Afgørelser, der er truffet af kommunen inden lovens ikrafttræden på sagsområder, der efter denne lovs §§ 1-5, 9 og 13 overgår til Udbetaling Danmark, og som påklages efter lovens ikrafttræden for de respektive sagsområder, kan indbringes for Ankestyrelsen som første og eneste administrative klageinstans, jf. § 64 a i lov om retssikkerhed og administration på det sociale område. § 66 i lov om retssikkerhed og administration på det sociale område om pligt til at genvurdere sagen finder ikke anvendelse.
+
+Stk. 4. Sager, hvor myndighedsansvaret overgår til Udbetaling Danmark efter denne lovs §§ 1-5, 9 og 13, og som inden lovens ikrafttræden for de respektive sagsområder er indbragt for det sociale nævn eller beskæftigelsesankenævnet, og som ikke ved lovens ikrafttræden for de respektive sagsområder er afgjort, behandles færdige i Ankestyrelsen som første og eneste administrative klageinstans.
+
+Stk. 5. Afgørelser efter denne lovs §§ 1-5, 9 og 13, som inden lovens ikrafttræden for de respektive sagsområder er truffet af det sociale nævn eller beskæftigelsesankenævnet, kan påklages til Ankestyrelsen eller Ankestyrelsens Beskæftigelsesudvalg efter de hidtil gældende regler. § 66 i lov om retssikkerhed og administration på det sociale område om pligt til at genvurdere sagen finder ikke anvendelse.
+
+Stk. 6. Krav, som kommunen måtte have mod borgeren, eller krav, som borgeren måtte have mod en kommune efter lovens §§ 1-5, 9 og 13 ved lovens ikrafttræden for de respektive sagsområder, overgår til Udbetaling Danmark. Fordringer, for hvilke kommunen har påbegyndt opkrævning af tilbagebetalingskrav, forbliver dog i kommunen, medmindre fordringen opkræves ved modregning eller fradrages i en ydelse, der efter lovens ikrafttræden for de respektive sagsområder udbetales af Udbetaling Danmark, eller i tilfælde, hvor Udbetaling Danmark træffer en ny afgørelse, som vedrører samme fordring.
+
+Stk. 7. Udbetaling Danmark er ved lovens ikrafttræden for § 3 ny fordringshaver for sikkerhed for de lån i form af gældserklæringer, ejerpantebreve eller skadesløsbreve efter kapitel 7 i lov om individuel boligstøtte, som er oprettet før lovens ikrafttræden.
+
+Stk. 8-9. (Udeladt).
+
+Stk. 10. På sagsområder, hvor myndighedsansvaret overgår til Udbetaling Danmark efter denne lovs §§ 1-3 og 24, videregiver Københavns Kommune senest den 1. januar 2013 en elektronisk kopi af alle sager, hvori kommunen i perioden fra den 1. januar 2011 til den 1. marts 2012 har truffet endelig afgørelse. Udbetaling Danmark må alene bruge de pågældende sager i uddannelsesøjemed og kun i perioden fra den 1. januar 2013 til den 28. februar 2013.
+
+§ 27
+
+Stk. 1. Efter lovens ikrafttræden påhviler ansvaret for opbevaring af arkivalier og varetagelse af de arkivmæssige hensyn i sager vedrørende Udbetaling Danmarks sagsområde:
+
+1) Kommunalbestyrelsen i afsluttede og passivførte sager på sagsområder, hvor myndighedsansvaret efter lovens §§ 1-5, 13 og 24 overføres til Udbetaling Danmark, og afsluttede og passivførte sager efter lovens § 9, hvor kommunalbestyrelsen har truffet afgørelse efter lov om en børne- og ungeydelse.
+
+2) Kommunalbestyrelsen i sager, hvor der fortsat sker udbetaling på sagsområder, der efter lovens §§ 1-5, 13 og 24 skal overføres til Udbetaling Danmark, og hvor kommunalbestyrelsen har truffet afgørelse om tilkendelse af en ydelse forud for det tidspunkt, hvor sagsområdet overgår til Udbetaling Danmark, og sager efter lovens § 9, hvor kommunalbestyrelsen har truffet afgørelse efter lov om en børne- og ungeydelse, jf. dog nr. 3.
+
+3) Udbetaling Danmark i sager efter lovens §§ 4 og 9, hvor kommunalbestyrelsen har truffet afgørelse for at opfylde internationale forpligtelser, og hvor der fortsat sker udbetaling.
+
+4) Udbetaling Danmark i alle øvrige sager på sagsområder, hvor myndighedsansvaret efter lovens §§ 1-5, 9, 13 og 24 overføres til Udbetaling Danmark, og som ikke er omfattet af nr. 1 eller 2.
+
+Stk. 2. Kommunen skal efter anmodning fra Udbetaling Danmark sende en kopi af de ønskede akter fra sager, der efter stk. 1, nr. 1 eller 2, opbevares i kommunen. Kommunen har i forbindelse med anmodninger om kopi af akter fra Udbetaling Danmark uden samtykke fra borgeren ret til at gennemgå og sortere en sag, som kommunen opbevarer for Udbetaling Danmark, med henblik på at kunne imødekomme Udbetaling Danmarks anmodning. Kommunen har desuden ret til at gennemgå og sortere en sag, som kommunen opbevarer for Udbetaling Danmark, hvis sagen indeholder oplysninger, der vedrører kommunens sagsområde, og hvis kommunen har et sagligt behov for oplysningerne.
+
+Stk. 3. Social- og integrationsministeren kan efter indstilling fra bestyrelsen for Udbetaling Danmark fastsætte regler om, at Udbetaling Danmark fra 2015 skal betale et gebyr til kommunen for at varetage opgaven efter stk. 2, 1. pkt., og regler om udfasning af kommunernes arkivforpligtelse over for Udbetaling Danmark fra 2018.

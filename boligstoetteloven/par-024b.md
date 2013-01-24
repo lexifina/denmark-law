@@ -4,7 +4,7 @@
 
 2) at det kollektive bofællesskab består af mindst 5 personer og er etableret i medfør af § 3, stk. 2-4, eller § 5, stk. 3-5, i lov om almene boliger m.v. eller § 160 b, stk. 6, i lov om almene boliger samt støttede private andelsboliger m.v., jf. lovbekendtgørelse nr. 106 af 21. februar 2005, jf. § 24 a, stk. 1, nr. 5.
 
-Kommunalbestyrelsen kan uanset nr. 1 og 2 i ganske særlige tilfælde godkende, at det kollektive bofællesskab består af mindst 3 personer.
+3) Kommunalbestyrelsen kan uanset nr. 1 og 2 i ganske særlige tilfælde godkende, at det kollektive bofællesskab består af mindst 3 personer.
 
 Stk. 2. Det er tillige en betingelse, at samtlige beboere i bofællesskabet opfylder betingelserne i § 24 a, stk. 1, nr. 1 eller 2, eller i § 24 a, stk. 1, nr. 3 eller 4. Dette gælder dog ikke for de personer, der er nævnet i § 24 a, stk. 1, nr. 5.
 

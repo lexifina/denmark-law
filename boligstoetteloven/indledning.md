@@ -1,5 +1,5 @@
 Bekendtgørelse af lov om individuel boligstøtte
 
-Hermed bekendtgøres lov om individuel boligstøtte, jf. lovbekendtgørelse nr. 981 af 1. oktober 2008, med de ændringer, der følger af § 146 i lov nr. 1336 af 19. december 2008, § 3 i lov nr. 1345 af 19. december 2008, § 3 i lov nr. 1411 af 27. december 2008, § 7 i lov nr. 286 af 15. april 2009, § 1 i lov nr. 481 af 12. juni 2009, § 24 i lov nr. 521 af 12. juni 2009, § 12 i lov nr. 429 af 28. april 2010, § 3 i lov nr. 624 af 11. juni 2010 og § 2 i lov nr. 461 af 18. maj 2011.
+Hermed bekendtgøres lov om individuel boligstøtte, jf. lovbekendtgørelse nr. 663 af 14. juni 2011, med de ændringer, der følger af § 5 i lov nr. 1364 af 28. december 2011 og § 3 i lov nr. 326 af 11. april 2012.
 
-De ændringer der følger af § 10 i lov nr. 346 af 18. april 2007, er ikke indarbejdet i denne lovbekendtgørelse, da ændringerne ikke er trådt i kraft.
+Den bekendtgjorte lovtekst gælder først fuldt ud fra den 1. marts 2013, jf. § 25, stk. 4, i lov nr. 326 af 11. april 2012 om lov om ændring af forskellige love som følge af etableringen af Udbetaling Danmark og om ophævelse af lov om ændring af regler for statens udbetaling af refusion af kommunernes udgifter i henhold til den sociale pensions- og bistandslovgivning m.v. (Fordeling af myndighedsansvaret mellem kommunerne og Udbetaling Danmark m.v.).
