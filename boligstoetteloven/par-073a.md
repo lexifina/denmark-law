@@ -1,0 +1,1 @@
+§ 73 a. Udbetaling Danmarks afgørelser om boligsikring og boligydelse kan påklages til Ankestyrelsen, jf. § 64 a i lov om retssikkerhed og administration på det sociale område, jf. dog § 10, stk. 2 og 3, § 23, stk. 4, og afgørelser efter regler fastsat i medfør af § 42, stk. 2, i denne lov.
