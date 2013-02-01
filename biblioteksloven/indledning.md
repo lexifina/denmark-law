@@ -1,3 +1,3 @@
 Bekendtgørelse af lov om biblioteksvirksomhed
 
-Herved bekendtgøres lov nr. 340 af 17. maj 2000 med de ændringer, der følger af lov nr. 1049 af 17. december 2002, lov nr. 430 af 6. juni 2005, lov nr. 431 af 6. juni 2005, lov nr. 563 af 24. juni 2005 og lov nr. 346 af 18. april 2007.
+Herved bekendtgøres lov om biblioteksvirksomhed, jf. lovbekendtgørelse nr. 914 af 20. august 2008, med de ændringer, der følger af § 19 i lov nr. 1336 af 19. december 2008 og § 17 i lov nr. 1531 af 21. december 2010.

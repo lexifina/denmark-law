@@ -1,1 +1,1 @@
-1) § 12 indeholder ikrafttrædelsesbestemmelse for kildeskatteloven.
+1) § 12 indeholder ikrafttrædelsesbestemmelse for kildeskattelovens § 72, stk. 3.
