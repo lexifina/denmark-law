@@ -1,7 +1,21 @@
-§ 52 a. Enhver registreret virksomhed skal sørge for opbevaring af kopier af fakturaer, som udstedes af virksomheden selv, af virksomhedens kunde eller af en tredjeperson, og for opbevaring af kreditnotaer samt af fakturaer, som virksomheden har modtaget, jf. § 52.
+§ 52 a. Enhver afgiftspligtig person skal for levering af varer eller ydelser udstede en faktura til aftageren (kunden). Hvis hele eller en del af leverancen kræves betalt, inden leverancen er afsluttet, skal der udstedes særskilt faktura herfor.
 
-Stk. 2. En virksomhed kan opbevare udstedte eller modtagne elektroniske fakturaer i et andet land på betingelse af, at virksomheden meddeler told- og skatteforvaltningen opbevaringsstedet. Herudover skal opbevaring i et andet land af elektroniske fakturaer ske på de betingelser, som er nævnt i stk. 3 og 4.
+Stk. 2. Faktureringspligten efter stk. 1 omfatter ikke
 
-Stk. 3. Med henblik på kontrol har told- og skatteforvaltningen efter anmodning til enhver tid og uden unødig forsinkelse ret til fuld elektronisk onlineadgang, downloading og anvendelse af udstedte eller modtagne fakturaer, som en virksomhed opbevarer ad elektronisk vej i et andet land.
+1) levering af varer eller ydelser, der er afgiftsfritaget efter § 13, hvis leveringsstedet for varerne og ydelserne er her i landet efter reglerne i kapitel 4, eller
 
-Stk. 4. Opbevaring af elektroniske fakturaer kan ikke ske i et land uden for EU, med hvilket der ikke findes noget retligt instrument vedrørende gensidig bistand med en retsvirkning, der svarer til reglerne i direktiv 76/308/EØF og 77/799/EØF og forordning (EØF) nr. 218/92 og til den i stk. 3 nævnte ret til elektronisk adgang, downloading og anvendelse.
+2) levering af ydelser, der er afgiftsfritaget efter § 13, stk. 1, nr. 10 og 11, hvis leveringsstedet for ydelserne er i et andet EU-land som bestemt efter reglerne i kapitel 4.
+
+Stk. 3. Faktureringspligten anses for opfyldt, hvis den afgiftspligtige persons kunde udsteder fakturaen (afregningsbilag) over leverancer af varer eller ydelser på vegne af den afgiftspligtige person og i dennes navn. Det er et vilkår for at anvende afregningsbilag, at den afgiftspligtige person og dennes kunde forinden indgår en aftale, hvori der skal være fastlagt en fremgangsmåde, hvorefter den afgiftspligtige person skal godkende hver enkelt faktura.
+
+Stk. 4. Faktureringspligten anses også for opfyldt, hvis en tredjeperson i den afgiftspligtige persons navn og for dennes regning udsteder en faktura til aftageren af varen eller ydelsen.
+
+Stk. 5. Hvis varer bliver returneret efter fakturaens udstedelse, skal der udstedes kreditnota. Det samme gælder, hvis leverandøren efter fakturaens udstedelse giver afslag i prisen. Hvis der sker efterbetaling, skal der udstedes faktura over efterbetalingen.
+
+Stk. 6. Afgiftspligtige personer, der ikke er registreret, og afgiftspligtige personer, der leverer ikke afgiftspligtige varer eller ydelser, må ikke på fakturaen anføre afgiftsbeløb eller anden angivelse af, at fakturabeløbet indbefatter afgift. Hvis den afgiftspligtige person modtager en faktura, der er udstedt af en kunde eller af en tredjeperson, hvorpå der er anført afgiftsbeløb eller anden angivelse af, at afregningen indbefatter afgift, skal den afgiftspligtige person gøre den, der har udstedt fakturaen, opmærksom herpå og tilbagebetale modtagne afgiftsbeløb.
+
+Stk. 7. Afgiftspligtige personer, der i strid med stk. 6 på en faktura anfører afgiftsbeløb eller anden angivelse af, at fakturabeløbet indbefatter afgift, skal indbetale afgiftsbeløbet til told- og skatteforvaltningen. Det samme gælder, hvis en afgiftspligtig person på en faktura anfører afgift med et for stort beløb eller på en faktura over leverancer af varer eller ydelser, hvoraf der ikke skal betales afgift, anfører afgiftsbeløb eller anden angivelse af, at fakturabeløbet indbefatter afgift. Indbetaling kan dog undlades, hvis fejlen berigtiges over for aftageren af varerne eller ydelserne.
+
+Stk. 8. Ved prisangivelser for varer og ydelser skal det tydeligt tilkendegives, hvis prisen ikke indbefatter afgift efter denne lov.
+
+Stk. 9. Skatteministeren fastsætter de nærmere regler for krav til fakturering efter stk. 1, 3 og 4, samt regler, der fraviger fakturakravene for bestemte typer af leverancer.
