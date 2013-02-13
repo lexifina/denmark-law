@@ -1,5 +1,3 @@
-Indenrigs- og Sundhedsministeriet, den 8. februar 2011
+Økonomi- og Indenrigsministeriet, den 11. februar 2013
 
-Bertel Haarder
-
-/ Nicoline Nyholm Miller
+P.M.V. Hans B. Thomsen

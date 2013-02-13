@@ -28,4 +28,10 @@ Stk. 3. § 12, stk. 3, 3. og 4. pkt., i lov om valg til Folketinget som affattet
 
 § 8
 
-Valgnævnet kan efter reglerne i lov om valg til Folketinget som ændret ved denne lovs § 1 og lov om valg af danske medlemmer til Europa-Parlamentet som ændret ved denne lovs § 2 tilbagekalde godkendelser af formularer til vælgererklæringer for nye partier og eventuelle fornyelser af disse, der er meddelt før lovens ikrafttræden.
+Valgnævnet kan efter reglerne i lov om valg til Folketinget som ændret ved denne lovs § 1 og lov om valg af danske medlemmer til Europa-Parlamentet som ændret ved denne lovs § 2 tilbagekalde godkendelser af formularer til vælgererklæringer for nye partier og eventuelle fornyelser af disse, der er meddelt før lovens ikrafttræden
+
+Lov nr. 1252 af 18. december 2012, der ændrer §§ 11, 14 a, 15, 19 og 26, indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 6
+
+Loven træder i kraft den 1. januar 2013.
