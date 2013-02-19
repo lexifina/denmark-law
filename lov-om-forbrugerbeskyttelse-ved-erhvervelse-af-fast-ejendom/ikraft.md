@@ -1,7 +1,3 @@
-Lov nr. 234 af 2. april 1997 om forbrugeraftaler, der giver brugsret til fast ejendom på timesharebasis, indeholder følgende ikrafttrædelsesbestemmelse:
-
-§ 16. Loven træder i kraft den 15. april 1997 og har med undtagelse af §§ 4 og 5 virkning for aftaler, der indgås efter ikrafttrædelsen.
-
 Lov nr. 437 af 31. maj 2005 om ændring af lov om forbrugerbeskyttelse ved erhvervelse af fast ejendom m.v., lov om omsætning af fast ejendom og ligningsloven (Stramning af betingelserne for, at sælgeren kan undgå at hæfte for mangler m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
 
 § 4
@@ -22,10 +18,16 @@ Lov nr. 585 af 24. juni 2005 om fremme af energibesparelser i bygninger indehold
 
 Stk. 2-3. (Udelades)
 
-Lov nr. 453 af 22. maj 2006 om ændring af lov om omsætning af fast ejendom, lov om leje af erhvervslokaler m.v., lov om leje og lov om forbrugerbeskyttelse ved erhvervelse af fast ejendom m.v. (Oprettelse af et disciplinærnævn for ejendomsmæglere, skærpelse af oplysningspligt m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
+Lov nr. 1532 af 21. december 2010 om beskikkelse af bygningssagkyndige m.v. indeholder følgende ikrafttrædelsesbestemmelse:
 
-§ 6
+§ 17. Loven træder i kraft den 1. januar 2011.
 
-Stk. 1-2. (Udelades)
+Stk. 2. (Udelades)
 
-Stk. 3. §§ 2-4 træder i kraft dagen efter bekendtgørelsen i Lovtidende.
+Lov nr. 609 af 14. juni 2011 om ændring af lov om forbrugerbeskyttelse ved erhvervelse af fast ejendom m.v., lov om omsætning af fast ejendom og lov om autorisation af elinstallatører m.v. indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 4
+
+Stk. 1. Justitsministeren fastsætter tidspunktet for lovens ikrafttræden.
+
+Stk. 2. § 1, nr. 2-7 og 9-11, har kun virkning for aftaler, der indgås efter lovens ikrafttræden.
