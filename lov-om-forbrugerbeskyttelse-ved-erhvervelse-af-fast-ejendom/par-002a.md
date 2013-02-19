@@ -1,0 +1,5 @@
+§ 2 a. Ved en tilstandsrapport som nævnt i § 2, stk. 1, forstås en rapport, som indeholder resultatet af den bygningssagkyndiges bygningsgennemgang. Bygningsgennemgangen har til formål at afklare, i hvilket omfang den gennemgåede bygnings fysiske tilstand er ringere end tilstanden af tilsvarende intakte bygninger af samme alder.
+
+Stk. 2. Økonomi- og erhvervsministeren kan fastsætte regler om, at tilstandsrapporten skal indeholde yderligere oplysninger, herunder oplysning om restlevetiden på bygningens tag. Økonomi- og erhvervsministeren kan endvidere fastsætte regler om, at der med tilstandsrapporten skal udleveres en generel typebeskrivelse, der er relevant for den bygning, som tilstandsrapporten vedrører.
+
+Stk. 3. Ved en elinstallationsrapport som nævnt i § 2, stk. 1, forstås en rapport, der indeholder resultatet af gennemgangen af bygningens elinstallationer. Gennemgangen har til formål at afklare, i hvilket omfang bygningens elinstallationer er funktionsdygtige og lovlige i henhold til offentligretlige forskrifter.
