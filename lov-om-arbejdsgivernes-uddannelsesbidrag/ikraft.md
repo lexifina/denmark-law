@@ -26,7 +26,7 @@ Stk. 1. Loven træder i kraft den 1. januar 1997. Loven har tillige virkning for
 
 Stk. 2. Lov om skolepraktik i erhvervsuddannelserne, jf. lovbekendtgørelse nr. 521 af 22. juni 1995, ophæves.
 
-Stk. 3. (Udeladt).
+Stk. 3. (Udeladt)
 
 Lov nr. 1236 af 27. december 1996, hvis § 1 ændrer §§ 16, 17 a, 20, 23 a, 28 og 38, indeholder i § 2 følgende bestemmelse:
 
@@ -40,7 +40,7 @@ Lov nr. 980 af 17. december 1997, hvis § 40 ændrer § 17 a, indeholder i § 42
 
 Stk. 1. Loven træder i kraft den 1. juli 1998.
 
-Stk. 2-5. (Udeladt).
+Stk. 2-5. (Udeladt)
 
 Lov nr. 1118 af 29. december 1997, hvis § 1 vedrører §§ 14, 14 a, 15, 18, 19 og 22, indeholder i § 2 følgende bestemmelse:
 
@@ -60,7 +60,7 @@ Lov nr. 418 af 6. juni 2002, hvis § 50 ændrer § 22, stk. 1, 2. pkt., § 22, s
 
 Loven træder i kraft den 1. juli 2002, jf. dog § 40.
 
-Stk. 2-9. (Udeladt).
+Stk. 2-9. (Udeladt)
 
 Lov nr. 1081 af 17. december 2002, hvis § 1 indsætter §§ 12 b og 12 c, ophæver §§ 15 a og 17 a og ændrer § 20, stk. 4, indeholder i § 3 følgende bestemmelse:
 
@@ -72,7 +72,7 @@ Stk. 2. Der kan ikke udbetales tilskud efter § 17 a i lov om Arbejdsgivernes El
 
 Stk. 3. Ansøgning om præmie efter § 15 a og tilskud efter § 17 a i lov om Arbejdsgivernes Elevrefusion skal være modtaget af Arbejdsgivernes Elevrefusion senest den 1. maj 2003.
 
-Stk. 4. (Udeladt).
+Stk. 4. (Udeladt)
 
 Lov nr. 1228 af 27. december 2003, hvis § 1 indsætter § 1, stk. 2, § 8, stk. 3, § 15 b, § 22, stk. 3, og § 23 b, ændrer § 12 a, 12 c, stk. 1, 1. og 2. pkt., § 13, § 15, 18, stk. 2, § 19, stk. 1, 1. pkt., § 19, stk. 2, § 22, stk. 1, 1. pkt., § 22, stk. 2, og 23 a, stk. 1, 2. pkt., samt ophæver § 12 c, stk. 5, § 14 og § 18, stk. 3, indeholder i § 6 følgende bestemmelse:
 
@@ -90,7 +90,7 @@ Stk. 5. Elever, som har påbegyndt skolepraktik inden den 1. januar 2004, bevare
 
 Stk. 6. Der ydes tilskud til institutioner for erhvervsrettet uddannelse og andre skoler og institutioner efter den nye sats for uddannelsesaftaler, som er indgået og påbegyndt efter den 30. september 2003, jf. § 12 c, stk. 1, 3. pkt., i lov om Arbejdsgivernes Elevrefusion som affattet ved denne lovs § 1, nr. 4. Øvrige uddannelsesaftaler berettiger til tilskud efter den hidtil gældende sats på 1.000 kr. pr. aftale.
 
-Stk. 7. (Udeladt).
+Stk. 7. (Udeladt)
 
 Lov nr. 430 af 6. juni 2005, hvis § 60 ændrer § 29, stk. 1, 1. og 2. pkt., § 29, stk. 2, og ophæver § 29, stk. 3 og 4, indeholder i § 70 følgende bestemmelse:
 
@@ -108,7 +108,7 @@ Lov nr. 431 af 6. juni 2005, hvis § 72 indsætter § 29 a, indeholder i § 85 f
 
 Stk. 1. Loven træder i kraft den 1. november 2005, jf. dog stk. 2.
 
-Stk. 2. (Udeladt).
+Stk. 2. (Udeladt)
 
 Lov nr. 593 af 24. juni 2005, hvis § 8 ændrer § 3, stk. 1, 2. pkt., indeholder i § 11 følgende bestemmelse:
 
@@ -116,7 +116,7 @@ Lov nr. 593 af 24. juni 2005, hvis § 8 ændrer § 3, stk. 1, 2. pkt., indeholde
 
 Stk. 1. Loven træder i kraft den 1. januar 2007.
 
-Stk. 2-5. (Udeladt).
+Stk. 2-5. (Udeladt)
 
 Lov nr. 595 af 24. juni 2005, hvis § 1 ændrer § 13, § 18, § 19, stk. 1, 1. pkt., § 19, stk. 2, § 20, stk. 1, 1. pkt., § 20, stk. 4, § 22, stk. 2, og Kapitel 6 og indsætter § 20, stk. 5, og ophæver § 22, stk. 1, 1. pkt., og § 38, indeholder i § 2 følgende bestemmelse:
 
@@ -136,7 +136,7 @@ Stk. 1. § 1 træder i kraft den 1. januar 2007.
 
 Stk. 2. §§ 2-6, § 7, nr. 2, §§ 8-13, § 17, nr. 24, §§ 18-21 og § 22, nr. 1, 2 og 4 træder i kraft den 1. juni 2006.
 
-Stk. 3. (Udeladt).
+Stk. 3. (Udeladt)
 
 Lov nr. 1538 af 20. december 2006, hvis § 2 nyaffatter § 20, stk. 1, § 21, stk. 3, og § 27, ændrer § 18, stk. 2, indsætter § 18, stk. 4, § 21, stk. 4, og § 26, stk. 2, og ophæver § 20, stk. 2, 4. pkt., § 23, §§ 34-37 og § 39, indeholder i § 3 følgende bestemmelse:
 
@@ -144,11 +144,11 @@ Lov nr. 1538 af 20. december 2006, hvis § 2 nyaffatter § 20, stk. 1, § 21, st
 
 Stk.1. Loven træder i kraft den 1. januar 2008, jf. dog stk. 2-5.
 
-Stk. 2. (Udeladt).
+Stk. 2. (Udeladt)
 
 Stk. 3. Bidrag til Arbejdsgivernes Elevrefusion efter § 20, stk. 1, som affattet ved denne lovs § 2, nr. 3, opkræves første gang med forfaldsdato den 1. juli 2008 på grundlag af indbetalte ATP-bidrag i perioden fra den 13. februar til den 22. maj 2008. Herefter beregnes bidrag på grundlag af indbetalte ATP-bidrag i en forudgående 3-måneders-periode.
 
-Stk. 4. (Udeladt).
+Stk. 4. (Udeladt)
 
 Stk. 5. § 2, nr. 9, træder i kraft den 1. januar 2007. Det i henhold til § 28 i lov om Arbejdsmarkedets Tillægspension nedsatte ankenævn behandler klager over afgørelser truffet af Arbejdsgivernes Elevrefusion, der modtages denne dato eller senere. Det i henhold til den hidtil gældende § 27 i lov om Arbejdsgivernes Elevrefusion nedsatte ankenævn nedlægges med virkning fra den 1. januar 2007, men færdigbehandler klager, der er modtaget senest den 31. december 2006, inden ankefristens udløb.
 
@@ -174,7 +174,7 @@ Stk. 1. Loven finder anvendelse også på tidligere stiftede fordringer, som ikk
 
 Stk. 2. Afbrydelse af forældelse, der har fundet sted før lovens ikrafttræden, har fortsat virkning som afbrydelse, selv om den ikke er sket på den efter lovens ikrafttræden foreskrevne måde.
 
-Stk. 3-8. (Udeladt).
+Stk. 3-8. (Udeladt)
 
 Lov nr. 561 af 6. juni 2007, hvis § 2 nyaffatter § 9, stk. 1, og § 11, stk. 1, 1. pkt., ændrer § 4, stk. 1, § 6, stk. 1, 2. pkt., § 8, stk. 1, § 9, stk. 3, § 10, stk. 1, § 11, stk. 4, § 12, § 12 c, stk. 1, og § 20, stk. 4, nr. 1, indsætter § 15, stk. 2, og ophæver § 8, stk. 3, indeholder i §§ 16 og 19 følgende bestemmelser:
 
@@ -182,7 +182,7 @@ Lov nr. 561 af 6. juni 2007, hvis § 2 nyaffatter § 9, stk. 1, og § 11, stk. 1
 
 Stk. 1. Loven træder i kraft den 1. august 2007, (udeladt).
 
-Stk. 2. (Udeladt).
+Stk. 2. (Udeladt)
 
 § 19
 
@@ -190,11 +190,11 @@ Elever i landbrugsuddannelserne og de grundlæggende social- og sundhedsuddannel
 
 1) § 4, §§ 6-11, § 16 og § 20, stk. 4, i lov om Arbejdsgivernes Elevrefusion, jf. lovbekendtgørelse nr. 767 af 5. juli 2006,
 
-2) (Udeladt).
+2) (Udeladt)
 
-3) (Udeladt).
+3) (Udeladt)
 
-4) (Udeladt).
+4) (Udeladt)
 
 Lov nr. 562 af 6. juni 2007, hvis § 78 ændrer § 22, stk. 1 og 2, og § 23 a, stk. 1, indeholder i § 49 følgende bestemmelse:
 
@@ -204,7 +204,7 @@ Loven træder i kraft den 15. juni 2007, jf. dog stk. 2 og 3.
 
 Stk. 2. Bestemmelserne i §§ 69-79 træder i kraft den 1. januar 2008.
 
-Stk. 3-5. (Udeladt).
+Stk. 3-5. (Udeladt)
 
 Lov nr. 484 af 17. juni 2008, hvis § 8 ophæver § 3, stk. 3, 3. pkt., indeholder i § 9 følgende bestemmelse:
 
@@ -220,7 +220,7 @@ Lov nr. 1336 af 19. december 2008, hvis § 134 ophæver §§ 29 og 29 a, indehol
 
 Stk. 1. Loven træder i kraft den 1. januar 2009, jf. dog stk. 2. § 11 finder anvendelse på afgørelser om lønindeholdelse, der træffes efter lovens ikrafttræden.
 
-Stk. 2. (Udeladt).
+Stk. 2. (Udeladt)
 
 Lov nr. 427 af 30. maj 2009, hvis § 1 nyaffatter kapitel 6, indeholder i § 2 følgende bestemmelse:
 
@@ -240,7 +240,7 @@ Stk. 1. Loven træder i kraft den 15. december 2009.
 
 Stk. 2. Lovens § 1 finder anvendelse på uddannelsesaftaler og praktikaftaler, der indgås i perioden fra den 5. november 2009 til den 31. december 2010.
 
-Stk. 3-5. (Udeladt).
+Stk. 3-5. (Udeladt)
 
 Stk. 6. Nedenstående ydelser udbetales efter ansøgning fra arbejdsgiveren, når denne har ansøgt Arbejdsgivernes Elevrefusion herom, senest 1 år efter at arbejdsgiveren blev berettiget til disse ydelser:
 
@@ -261,6 +261,14 @@ Lov nr. 578 af 1. juni 2010, hvis § 11 ændrer § 5, stk. 2, 1. pkt., indeholde
 § 9
 
 Loven træder i kraft den 1. august 2010.
+
+Stk. 2. (Udeladt)
+
+Lov nr. 639 af 14. juni 2010, hvis § 23 nyaffatter § 15 b, indeholder i § 21 følgende bestemmelse:
+
+§ 21
+
+Loven træder i kraft den 1. juli 2011 og har virkning for ansøgninger om godtgørelse og tilskud til befordring, der modtages efter lovens ikrafttræden, og som vedrører deltagelse i erhvervsrettet voksen- og efteruddannelse, der påbegyndes efter lovens ikrafttræden.
 
 Stk. 2. (Udeladt)
 
@@ -290,8 +298,38 @@ Lov nr. 1615 af 22. december 2010, hvis § 2 indsætter kapitel 6 a og ophæver 
 
 Stk. 1. Loven træder i kraft den 1. januar 2011.
 
-Stk. 2. (Udeladt).
+Stk. 2. (Udeladt)
 
 Stk. 3. § 17 b i lov om Arbejdsgivernes Elevrefusion som affattet ved denne lovs § 2, nr. 1, har virkning for uddannelsesaftaler indgået fra og med den 1. januar 2011, jf. dog stk. 4.
 
 Stk. 4. For mobilitetsfremmende ydelser efter §§ 8, 9, 11 og 12 i lov om Arbejdsgivernes Elevrefusion finder § 17 b i lov om Arbejdsgivernes Elevrefusion som affattet ved denne lovs § 2, nr. 1, anvendelse vedrørende elever, der optages på en skole fra og med den 1. januar 2011.
+
+Lov nr. 1368 af 28. december 2011, hvis § 1 indsætter nyt 4. pkt. i § 18, stk. 1, og ændrer § 41 a, indeholder i § 4 følgende bestemmelse:
+
+§ 4
+
+Stk. 1. Loven træder i kraft den 1. januar 2012.
+
+Stk. 2. Arbejdsgivere, der har indgået en uddannelsesaftale om social- og sundhedsuddannelsens trin 2 i perioden fra den 1. juni 2009 til og med den 31. december 2011, kan opfylde betingelserne for at opnå præmie og bonus, jf. §§ 16 og 17 i lov om Arbejdsgivernes Elevrefusion, selv om aftalen ikke indeholder prøvetid. Udbetaling af præmie og bonus sker i overensstemmelse med de bestemmelser for præmie og bonus, der var gældende på tidspunktet for indgåelsen af uddannelsesaftalen.
+
+Lov nr. 272 af 27. marts 2012, hvis § 1 nyaffatter § 25, stk. 1, indeholder i § 2 følgende bestemmelse:
+
+§ 2
+
+Loven træder i kraft den 1. april 2012.
+
+Lov nr. 1347 af 21. december 2012, hvis § 1 nyaffatter lovens titel, overskriften til kapitel 5, § 13 og § 18, stk. 1, overalt i loven ændrer Elevrefusion til Uddannelsesbidrag og Elevrefusions til Uddannelsesbidrags, ændrer § 3, stk. 1, 2. pkt., § 17 b, § 22, stk. 3, 1. pkt., og § 26 a, stk. 2, 1. pkt., indsætter kapitel 4 a og kapitel 5 b og ophæver kapitel 6 og § 41 a, indeholder i § 7 følgende bestemmelse:
+
+§ 7
+
+Stk. 1. Loven træder i kraft den 1. januar 2013.
+
+Stk. 2. Loven finder anvendelse på uddannelsesaftaler indgået den 1. januar 2013 eller senere.
+
+Stk. 3. For uddannelsesaftaler indgået senest den 31. december 2012 ydes der fortsat præmie og bonus i henhold til de hidtil gældende bestemmelser i §§ 16 og 17 i lov om Arbejdsgivernes Elevrefusion, jf. § 3, stk. 2 og 4, i lov nr. 1230 af 2. november 2010. For så vidt angår uddannelsesaftaler indgået i perioden fra og med den 15. november 2010 til den 31. december 2012, er det en betingelse, at aftalen påbegyndes senest 3 måneder efter aftalens indgåelse. For uddannelsesaftaler indgået i perioden nævnt i 2. pkt. er det med hensyn til udenlandske elever en betingelse for at opnå præmie og bonus, at eleven opfylder de betingelser, der er nævnt i § 19, stk. 2 og 3, i lov om erhvervsuddannelser og § 15, stk. 5 og 6, i lov om institutioner for erhvervsrettet uddannelse.
+
+Stk. 4. For praktikaftaler indgået senest den 31. december 2012 ydes der fortsat tilskud i henhold til den hidtil gældende bestemmelse i § 16 a i lov om Arbejdsgivernes Elevrefusion. For så vidt angår praktikaftaler indgået i perioden fra og med den 15. november 2010 til den 31. december 2012, er det en betingelse, at aftalen påbegyndes senest 3 måneder efter aftalens indgåelse.
+
+Stk. 5. De ydelser, der ydes efter stk. 3 og 4 samt § 3, stk. 3, i lov nr. 1230 af 2. november 2010, dækkes af bidrag efter § 18, stk. 1, i lov om Arbejdsgivernes Uddannelsesbidrag som affattet ved denne lovs § 1, nr. 10.
+
+Stk. 6. Indbetaling af bidrag efter § 18, stk. 1, i lov om Arbejdsgivernes Uddannelsesbidrag som affattet ved denne lovs § 1, nr. 10, sker første gang den 1. juli 2013.
