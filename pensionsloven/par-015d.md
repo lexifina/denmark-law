@@ -1,6 +1,6 @@
 § 15 d. Det er en betingelse for, at en person kan optjene venteprocent, at den pågældende har haft indtægt ved personligt arbejde i mindst 1.000 timer inden for et kalenderår.
 
-Stk. 2. Kommunalbestyrelsen skal efter hvert år træffe afgørelse om, hvorvidt beskæftigelseskravet er opfyldt for det pågældende år.
+Stk. 2. Udbetaling Danmark skal efter hvert år træffe afgørelse om, hvorvidt beskæftigelseskravet er opfyldt for det pågældende år.
 
 Stk. 3. Ved påbegyndelse og ophør af opsætningen midt i et år opgøres beskæftigelseskravet forholdsmæssigt efter antallet af hele måneder, opsætningen vedrører i det pågældende år.
 

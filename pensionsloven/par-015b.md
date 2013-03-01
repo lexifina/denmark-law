@@ -1,4 +1,4 @@
-§ 15 b. Anmodning om at opsætte pensionen indgives til kommunalbestyrelsen samtidig med eller senere end ansøgning om folkepension.
+§ 15 b. Anmodning om at opsætte pensionen indgives til Udbetaling Danmark samtidig med eller senere end ansøgning om folkepension.
 
 Stk. 2. Anmodningen har virkning fra den 1. i måneden efter anmodningens indgivelse, dog tidligst fra det tidspunkt, hvor folkepension kan udbetales, jf. § 33, stk.1. Dette tidspunkt skal fremgå af sagen og meddeles den pågældende.
 
