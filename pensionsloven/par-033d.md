@@ -1,5 +1,9 @@
-§ 33 d. Beløb, som indbetales til Arbejdsmarkedets Tillægspension, godskrives særskilte konti og kan forvaltes sammen med midlerne i Den Særlige Pensionsopsparing, jf. kapitel 5 d i lov om Arbejdsmarkedets Tillægspension. Rentebestemmelsen i kapitel 5 c i lov om Arbejdsmarkedets Tillægspension vedrørende for sen indbetaling af bidrag kan tillige finde anvendelse. Social- og integrationsministeren kan efter indstilling fra bestyrelsen for Arbejdsmarkedets Tillægspension fastsætte regler om den supplerende arbejdsmarkedspension i Arbejdsmarkedets Tillægspension, herunder om indbetaling, om udbetaling ved dødsfald og om erhvervelse af en livsvarig pensionsret i Arbejdsmarkedets Tillægspension.
+§ 33 d. Bidragsbeløb, som indbetales til Arbejdsmarkedets Tillægspension, anvendes til erhvervelse af pension efter § 17 r i lov om Arbejdsmarkedets Tillægspension.
 
-Stk. 2. Ved dødsfald før folkepensionsalderen, udbetales indeståendet på kontoen i Arbejdsmarkedets Tillægspension til boet.
+Stk. 2. § 17, stk. 3, i lov om Arbejdsmarkedets Tillægspension om rente ved for sen indbetaling af bidrag kan finde anvendelse.
 
-Stk. 3. Når kontohaveren, der har indbetalt bidrag til den supplerende arbejdsmarkedspension i Arbejdsmarkedets Tillægspension, når folkepensionsalderen, anvendes indeståendet på kontoen til erhvervelse af livsvarig pensionsret i Arbejdsmarkedets Tillægspension.
+Stk. 3. Uanset § 33 c, stk. 4, kan engangsbeløbet ved død før folkepensionsalderen for en person, som har indbetalt bidrag til den supplerende arbejdsmarkedspension for førtidspensionister før den 1. januar 2013, ikke udgøre et mindre beløb end det beløb, som indestod på personens særskilte konto den 31. december 2012.
+
+Stk. 4. Udbetaling af pension sker efter reglerne for udbetaling af ATP Livslang Pension, jf. lov om Arbejdsmarkedets Tillægspension.
+
+Stk. 5. Social- og integrationsministeren kan efter indstilling fra bestyrelsen for Arbejdsmarkedets Tillægspension fastsætte regler om den supplerende arbejdsmarkedspension for førtidspensionister i Arbejdsmarkedets Tillægspension, herunder om indbetaling, udbetaling af et engangsbeløb ved dødsfald og erhvervelse af en livsvarig pensionsret i Arbejdsmarkedets Tillægspension.

@@ -1,6 +1,6 @@
 § 15 c. Folkepension kan opsættes for i alt 120 måneder.
 
-Stk. 2. Ophør af opsætning af pension sker efter anmodning til kommunalbestyrelsen med virkning fra den 1. i måneden efter anmodningen om opsætningens ophør.
+Stk. 2. Ophør af opsætning af pension sker efter anmodning til Udbetaling Danmark med virkning fra den 1. i måneden efter anmodningen om opsætningens ophør.
 
 Stk. 3. Opsætning af pension ophører uden anmodning, når pensionen har været opsat i 120 måneder.
 
