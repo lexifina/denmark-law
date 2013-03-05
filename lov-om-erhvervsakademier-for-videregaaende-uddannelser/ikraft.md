@@ -1,19 +1,35 @@
-Lov nr. 516 af 12. juni 2009, hvis § 20 ændrer affattelsen af § 36, stk. 8, har følgende ikrafttrædelsesbestemmelse:
+Lov nr. 516 af 12. juni 2009 om ændring af årsregnskabsloven, lov om finansiel virksomhed og forskellige andre love (Ændringer som følge af selskabsloven) indeholder følgende ikrafttrædelsesbestemmelse:
 
 § 25
 
-Stk1. Økonomi- og erhvervsministeren fastsætter tidspunktet for loven ikrafttræden.
+Stk. 1. Økonomi- og erhvervsministeren fastsætter tidspunktet for lovens ikrafttræden.
 
-Stk. 2-4. (Udeladt)
+Stk. 2-4. (Udelades)
 
-Lov nr. 537 af 12. juni 2009, der indsatte kapitel 2 a, har følgende ikrafttrædelsesbestemmelse:
+Lov nr. 537 af 12. juni 2009 om ændring af lov om erhvervsakademiuddannelser og professionsbacheloruddannelser og andre love (Udbud af danske erhvervsrettede videregående uddannelser i udlandet) indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 8
+
+Loven træder i kraft den 1. juli 2009.
+
+Lov nr. 590 af 26. juni 2009 om ændring af forskellige love på Undervisningsministeriets område (Fritagelse for betalingskravet på videregående uddannelser for børn af visse udenlandske arbejdstagere i Danmark) indeholder følgende ikrafttrædelsesbestemmelse:
 
 § 8
 
 Loven træder i kraft den 1. juli 2009.
 
-Lov nr. 590 af 26. juni 2009, der indsatte § 24, stk. 4, nr. 2 og stk. 5 og ændrede affattelsen af stk. 6, har følgende ikrafttrædelsesbestemmelse:
+Lov nr. 1373 af 28. december 2011 om ændring af forskellige uddannelseslove m.v. og om ophævelse af lov om uddannelse til håndarbejdslærer, lov om uddannelse til ernærings- og husholdningsøkonom og lov om sammenlægning og nedlæggelse af seminarier (Adgang til delegation af kompetence og fastsættelse af klageadgang m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 16
+
+Stk. 1. Loven træder i kraft den 1. januar 2012.
+
+Stk. 2-4. (Udelades)
+
+Lov nr. 1236 af 18. december 2012 om ændring af forskellige lovbestemmelser om sammenlægning og spaltning af uddannelsesinstitutioner m.v. og om ophævelse af lov om Det Informationsvidenskabelige Akademi (Mulighed for sammenlægning og spaltning af universiteter, uddannelses- og forskningsinstitutioner m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
 
 § 8
 
-Loven træder i kraft den 1. juli 2009.
+Stk. 1. Loven træder i kraft den 1. januar 2013, jf. dog stk. 2 og 3.
+
+Stk. 2-5. (Udelades)
