@@ -1,0 +1,7 @@
+§ 29 v. En afgørelse om foranstaltninger som alternativ til varetægtsfængsling, der er truffet i en anden medlemsstat (udstedelsesstaten), anerkendes og fuldbyrdes her i landet på anmodning fra udstedelsesstaten, hvis den person, som afgørelsen vedrører, har lovligt og sædvanligt ophold her i landet og personen efter at være blevet underrettet om foranstaltningerne har indvilget i at vende tilbage hertil, medmindre der er grundlag for at afslå anerkendelse af afgørelsen efter § 29 w, stk. 2, eller § 29 x.
+
+Stk. 2. På anmodning fra udstedelsesstaten og efter ønske fra den person, som afgørelsen vedrører, kan en afgørelse anerkendes og fuldbyrdes, selv om personen ikke på tidspunktet for anmodningen har lovligt og sædvanligt ophold her i landet, hvis det skønnes formålstjenligt af hensyn til den pågældendes mulighed for at opretholde en normal tilværelse.
+
+Stk. 3. En foranstaltning omfattet af § 29 u, som på grund af sin art ikke er forenelig med de foranstaltninger, der i henhold til dansk lovgivning kan fastsættes for en tilsvarende strafbar handling, kan tilpasses i overensstemmelse med en foranstaltning, som ville kunne fastsættes her i landet for en sådan handling. Den tilpassede foranstaltning skal ligge så tæt som muligt på den oprindelige foranstaltning, som er fastsat i udstedelsesstaten, og må ikke udgøre en skærpelse i forhold hertil.
+
+Stk. 4. Behandling af anmodninger om anerkendelse og fuldbyrdelse sker efter reglerne i kapitel 12.
