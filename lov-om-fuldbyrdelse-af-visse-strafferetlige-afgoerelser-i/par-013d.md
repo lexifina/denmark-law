@@ -1,0 +1,1 @@
+§ 13 d. En bevissikringskendelse fuldbyrdes her i landet, medmindre der er grundlag for at afslå fuldbyrdelse efter §§ 13 e-13 h. Behandlingen af anmodninger om fuldbyrdelse sker efter reglerne i kapitel 11.

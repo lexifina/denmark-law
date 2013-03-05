@@ -1,0 +1,3 @@
+§ 29 e. Fuldbyrdelse af en afgørelse om fængselsstraf eller anden frihedsberøvende foranstaltning kan afslås, hvis afgørelsen vedrører samme forhold, som den pågældende er fundet skyldig i eller frifundet for her i landet eller i en anden stat end udstedelsesstaten. Tilsvarende gælder, hvis den pågældende person er benådet her i landet for handlingen. Hvis den pågældende tidligere er dømt i en anden stat end Danmark, kan fuldbyrdelse dog kun afslås, hvis dommen er blevet fuldbyrdet, er ved at blive fuldbyrdet eller ikke længere kan fuldbyrdes efter lovgivningen i domsstaten.
+
+Stk. 2. Fuldbyrdelse kan tillige afslås, hvis tiltale er frafaldet eller påtale er opgivet her i landet for de forhold, som afgørelsen vedrører, og betingelserne for omgørelse ikke er opfyldt.

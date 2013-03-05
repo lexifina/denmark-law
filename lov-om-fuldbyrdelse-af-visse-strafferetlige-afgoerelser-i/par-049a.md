@@ -1,0 +1,1 @@
+§ 49 a. Skal afgørelsen om fuldbyrdelse af en beslaglæggelseskendelse eller bevissikringskendelse træffes af retten efter § 49, stk. 1, indbringes sagen af anklagemyndigheden for byretten på det sted, hvortil sagen har tilknytning.

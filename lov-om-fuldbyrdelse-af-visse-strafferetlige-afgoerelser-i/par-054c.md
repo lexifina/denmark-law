@@ -1,0 +1,1 @@
+§ 54 c. Når en afgørelse om fængselsstraf eller anden frihedsberøvende foranstaltning kan eller må antages at kunne fuldbyrdes her i landet efter denne lov, kan retten træffe bestemmelse om, at den domfældte skal varetægtsfængsles i overensstemmelse med retsplejelovens regler, indtil fuldbyrdelsen kan påbegyndes.
