@@ -1,0 +1,3 @@
+§ 29 q. Anerkendelse af domme og afgørelser omfattet af § 29 l kan afslås, hvis den pågældende dom vedrører samme forhold, som den domfældte tidligere er fundet skyldig i eller frifundet for her i landet eller i en anden stat end udstedelsesstaten (forbud mod dobbelt strafforfølgning). Tilsvarende gælder, hvis den pågældende er benådet her i landet for handlingen. Hvis den domfældte tidligere er dømt i en anden stat end Danmark, kan anerkendelse dog kun afslås, hvis dommen er blevet fuldbyrdet, er ved at blive fuldbyrdet eller ikke længere kan fuldbyrdes i domsstaten.
+
+Stk. 2. Anerkendelse kan tillige afslås, hvis tiltale er frafaldet eller påtale er opgivet her i landet for de forhold, som den pågældende dom vedrører, og betingelserne for omgørelse ikke er opfyldt.
