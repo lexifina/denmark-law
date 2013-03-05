@@ -1,3 +1,3 @@
-Lov om fuldbyrdelse af visse strafferetlige afgørelser i Den Europæiske Union
+Bekendtgørelse af lov om fuldbyrdelse af visse strafferetlige afgørelser i Den Europæiske Union
 
-VI MARGRETHE DEN ANDEN, af Guds Nåde Danmarks Dronning, gør vitterligt: Folketinget har vedtaget og Vi ved Vort samtykke stadfæstet følgende lov:
+Herved bekendtgøres lov nr. 1434 af 22. december 2004 om fuldbyrdelse af visse strafferetlige afgørelser i Den Europæiske Union med de ændringer, der følger af § 1 i lov nr. 347 af 14. maj 2008, § 1 i lov nr. 271 af 4. april 2011 og lov nr. 1375 af 28. december 2011.
