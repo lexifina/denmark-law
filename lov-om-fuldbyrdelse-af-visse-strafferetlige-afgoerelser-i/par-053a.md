@@ -1,0 +1,1 @@
+§ 53 a. En anmodning fra den kompetente judicielle myndighed i udstedelsesstaten om iagttagelse af særlige formelle krav eller en særlig procedure i forbindelse med fuldbyrdelse af en bevissikringskendelse skal imødekommes, i det omfang sådanne krav og procedurer ikke er i modstrid med grundlæggende principper i dansk ret.

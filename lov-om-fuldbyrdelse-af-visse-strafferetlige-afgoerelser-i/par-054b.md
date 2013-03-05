@@ -1,0 +1,1 @@
+§ 54 b. Sagen kan genoptages med henblik på ændring eller ophævelse af den efter § 54, stk. 2, afsagte dom, hvis grundlaget for dommen er ændret. Anmodning herom fremsættes over for den ret, som har afsagt dom i sagen.
