@@ -10,8 +10,8 @@ Stk. 3. For brugte køretøjer beregnes afgiften på samme måde som for nye. Be
 
 Stk. 4. Et køretøj, som er afgiftsberigtiget efter stk. 1, afgiftsberigtiges efter § 4, hvis betingelsen for den foretagne afgiftsberigtigelse ikke længere opfyldes. Afgiften nedsættes dog med 70 pct. af den del af køretøjets afgiftspligtige værdi, der overstiger 230.000 kr. Afgiften bortfalder, hvis omregistrering sker, efter at køretøjet her i landet har kørt
 
-1) mindst 3 år og mindst 210.000 km, heraf mindst 97.000 besatte kilometer, eller
+mindst 3 år og mindst 210.000 km, heraf mindst 97.000 besatte kilometer, eller
 
-2) mindst 2 år og mindst 250.000 km, heraf mindst 115.000 besatte kilometer.
+mindst 2 år og mindst 250.000 km, heraf mindst 115.000 besatte kilometer.
 
 Stk. 5. Taxameterattest og trafikbog skal føres som dokumentation for, at de i stk. 4 og 5 nævnte betingelser er opfyldt. Skatteministeren kan fastsætte særlige kontrolregler som betingelse for afgiftsfritagelsen.

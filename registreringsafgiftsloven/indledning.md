@@ -1,3 +1,3 @@
 Bekendtgørelse af lov om registreringsafgift af motorkøretøjer m.v. (registreringsafgiftsloven)
 
-Herved bekendtgøres lov om registreringsafgift af motorkøretøjer m.v. (registreringsafgiftsloven), jf. lovbekendtgørelse nr. 836 af 1. juli 2011, med de ændringer, der følger af § 2 i lov nr. 399 af 9. maj 2012, lov nr. 411 af 11. maj 2012 og § 2 i lov nr. 481 af 30. maj 2012.
+Herved bekendtgøres lov om registreringsafgift af motorkøretøjer m.v. (registreringsafgiftsloven), jf. lovbekendtgørelse nr. 615 af 7. juni 2012, med de ændringer, der følger af § 11 i lov nr. 924 af 18. september 2012, § 9 i lov nr. 1353 af 21. december 2012 og § 2 i lov nr. 1396 af 23. december 2012.
