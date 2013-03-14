@@ -1,37 +1,11 @@
-Lov nr. 366 af 24. maj 2005 indeholder følgende ikrafttrædelsesbestemmelse:
+Lov nr. 341 af 27. april 2011 indeholder følgende ikrafttrædelsesbestemmelser:
 
-§ 6
+§ 18
 
-Loven træder i kraft den 1. juli 2005, dog træder lovens §§ 4 og 5 i kraft dagen efter bekendtgørelsen i Lovtidende.
+Stk. 1. Loven træder i kraft den 1. maj 2011, jf. dog stk. 2.
 
-Lov nr. 538 af 8. juni 2006 indeholder følgende ikrafttrædelsesbestemmelser:
+Stk. 2. (Udeladt)
 
-§ 105
+§ 19
 
-Stk. 1. Loven træder i kraft den 1. januar 2007, jf. dog stk. 2-22 og § 106.
-
-Stk. 2-22. (Udelades)
-
-§ 106
-
-(Udelades)
-
-Lov nr. 110 af 26. februar 2008 indeholder følgende ikrafttrædelsesbestemmelse:
-
-§ 5
-
-Loven træder i kraft den 1. marts 2008.
-
-Lov nr. 1336 af 19. december 2008 indeholder følgende ikrafttrædelsesbestemmelse:
-
-§ 167
-
-Stk. 1. Loven træder i kraft den 1. januar 2009, jf. dog stk. 2. § 11 finder alene anvendelse på afgørelser om lønindeholdelse, der træffes efter lovens ikrafttræden.
-
-Stk. 2. (Udelades)
-
-Lov nr. 1513 af 27. december 2009 indeholder følgende ikrafttrædelsesbestemmelse:
-
-§ 3
-
-Loven træder i kraft den 1. januar 2010.
+Loven gælder ikke for Færøerne og Grønland, men §§ 1, 3, 5, 8 og 9 kan ved kongelig anordning sættes helt eller delvis i kraft for Grønland med de ændringer, som de grønlandske forhold tilsiger.
