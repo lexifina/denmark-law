@@ -1,7 +1,5 @@
-Givet på Amalienborg, den 24. juni 2005
+Ministeriet for Fødevarer, Landbrug og Fiskeri, den 8. marts 2013
 
-Under Vor Kongelige Hånd og Segl
+Mette Gjerskov
 
-MARGRETHE R.
-
-/Lene Espersen
+/ Birthe Schubart
