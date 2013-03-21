@@ -1,7 +1,5 @@
-Socialministeriet, den 12. december 1986
+Beskæftigelsesministeriet, den 14. marts 2013
 
-Mimi Stilling Jakobsen
+Mette Frederiksen
 
-/Finn Mortensen
-
-Ingen
+/ Tor Even Münter
