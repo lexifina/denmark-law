@@ -1,5 +1,5 @@
-SOCIALMINISTERIET, DEN 12. DECEMBER 1986
+Beskæftigelsesministeriet, den 14. marts 2013
 
-MIMI STILLING JAKOBSEN
+Mette Frederiksen
 
-/Finn Mortensen
+/ Tor Even Münter
