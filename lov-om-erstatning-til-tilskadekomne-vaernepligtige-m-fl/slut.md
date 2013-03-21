@@ -1,7 +1,5 @@
-Givet på Christiansborg Slot, den 10. juni 2003
+Beskæftigelsesministeriet, den 14. marts 2013
 
-Under Vor Kongelige Hånd og Segl
+Mette Frederiksen
 
-MARGRETHE R.
-
-/Claus Hjort Frederiksen
+/ Tor Even Münter
