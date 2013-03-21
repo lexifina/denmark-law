@@ -1,3 +1,3 @@
-Bekendtgørelse af Lov om tillæg til lov om erstatning til besættelsestidens ofre
+Bekendtgørelse af lov om tillæg til lov om erstatning til besættelsestidens ofre
 
-Hermed bekendtgøres lov nr. 119 af 12. april 1957 om tillæg til og ændring i lov om erstatning til besættelsestidens ofre (genoptagelse af sager om invaliditetserstatning) med de ændringer, der følger af lov nr. 613 af 20. december 1972
+Hermed bekendtgøres lov om tillæg til lov om erstatning til besættelsestidens ofre, jf. lovbekendtgørelse nr. 877 af 12. december 1986 med de ændringer, der følger af § 4 i lov nr. 196 af 29. marts 1989.
