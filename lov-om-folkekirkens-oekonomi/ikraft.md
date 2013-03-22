@@ -10,7 +10,7 @@ Stk. 3. Lov om folkekirkens økonomi § 23, stk. 1-3, som affattet ved denne lov
 
 Stk. 4. (Udelades).
 
-Lov nr. 506 af 12. juni 2009 indeholder følgende ikrafttrædelsesbestemmelser m.v.:
+Lov nr. 506 af 12. juni 2009, som ændret ved lov nr. 1393 af 23. december 2012, indeholder følgende ikrafttrædelsesbestemmelser m.v.:
 
 § 2
 
@@ -18,7 +18,7 @@ Lov nr. 506 af 12. juni 2009 indeholder følgende ikrafttrædelsesbestemmelser m
 
 § 3
 
-Ministeren for ligestilling og kirke fremsætter forslag om revision af loven i folketingsåret 2012-13.
+Ministeren for ligestilling og kirke fremsætter forslag om revision af loven senest i folketingsåret 2014-15.
 
 § 4
 
@@ -30,8 +30,20 @@ Lov nr. 455 af 25. maj 2012 indeholder følgende ikrafttrædelsesbestemmelser m.
 
 Stk. 1. Loven træder i kraft den 1. juli 2012.
 
-Stk. 2. Loven har virkning for tilskudsåret 2013.
+Stk. 2. Loven har virkning fra tilskudsåret 2013.
 
 § 3
+
+(Udelades)
+
+Lov nr. 1250 af 18. december 2012 indeholder følgende ikrafttrædelsesbestemmelser m.v.:
+
+§ 3
+
+Stk. 1. Loven træder i kraft den 1. marts 2013.
+
+Stk. 2. Funktionsperioden for de provstiudvalg, som efter de gældende regler løber fra den 1. april 2009, forlænges til den 31. oktober 2013.
+
+§ 4
 
 Loven gælder ikke for Færøerne og Grønland.
