@@ -1,4 +1,4 @@
-Ministeriet for Ligestilling og Kirke, den 6. juli 2012
+Ministeriet for Ligestilling og Kirke, den 14. marts 2013
 
 Manu Sareen
 
