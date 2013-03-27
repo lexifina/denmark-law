@@ -1,5 +1,3 @@
-Lov om etablering af den selvejende institution Udbetaling Danmark
+Bekendtgørelse af lov om etablering af den selvejende institution Udbetaling Danmark
 
-VI MARGRETHE DEN ANDEN, af Guds Nåde Danmarks Dronning, gør vitterligt:
-
-Folketinget har vedtaget og Vi ved Vort samtykke stadfæstet følgende lov:
+Herved bekendtgøres lov om etablering af den selvejende institution Udbetaling Danmark, jf. lov nr. 1594 af 22. december 2010, med de ændringer, der følger af § 33 i lov nr. 324 af 11. april 2012 og § 8 i lov nr. 326 af 11. april 2012.
