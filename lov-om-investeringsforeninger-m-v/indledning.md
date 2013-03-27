@@ -1,3 +1,3 @@
 Bekendtgørelse af lov om investeringsforeninger m.v.
 
-Herved bekendtgøres lov nr. 456 af 18. maj 2011 om investeringsforeninger m.v. med de ændringer, der følger af § 8 i lov nr. 155 af 28. februar 2012 og § 1 i lov nr. 557 af 18. juni 2012.
+Herved bekendtgøres lov om investeringsforeninger m.v., jf. lovbekendtgørelse nr. 935 af 17. september 2012, med de ændringer, der følger af § 36 i lov nr. 1231 af 18. december 2012, § 5 i lov nr. 1287 af 19. december 2012 og § 7 i lov nr. 1383 af 23. december 2012.

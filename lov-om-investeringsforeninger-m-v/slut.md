@@ -1,5 +1,5 @@
-Erhvervs- og Vækstministeriet, den 17. september 2012
+Erhvervs- og Vækstministeriet, den 20. marts 2013
 
-Ole Sohn
+Annette Vilhelmsen
 
 / Ulrik Nødgaard
