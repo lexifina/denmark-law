@@ -6,7 +6,7 @@
 
 2) identificere de enkelte afdelingers og eventuelle andelsklassers væsentlige risici og fastlægge deres risikoprofil på grundlag af den i fondsbestemmelserne fastlagte investeringspolitik.
 
-Stk. 2. På grundlag af fondsbestemmelsernes rammer og bestyrelsens risikovurdering og de enkelte afdelingers og eventuelle andelsklassers risikoprofil, skal bestyrelsen give direktionen skriftlige retningslinjer vedrørende værdipapirfonden, der som minimum skal indeholde
+Stk. 2. På grundlag af fondsbestemmelsernes rammer og bestyrelsens risikovurdering og de enkelte afdelingers og eventuelle andelsklassers risikoprofil skal bestyrelsen give direktionen skriftlige retningslinjer vedrørende værdipapirfonden, der som minimum skal indeholde
 
 1) kontrollerbare rammer for, hvilke og hvor store risici direktionen må påføre de enkelte afdelinger og eventuelle andelsklasser,
 

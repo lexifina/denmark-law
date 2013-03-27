@@ -6,7 +6,7 @@
 
 2) investeringsforvaltningsselskabets eller administrationsselskabets direktion har erklæret, at selskabet har tilstrækkelige ressourcer og kvalificerede medarbejdere til at administrere værdipapirfonden,
 
-3) investeringsforvaltningsselskabet eller administrationsselskabet skal udfører så mange af værdipapirfondens opgaver, at det ikke blot fungere som et tomt selskab, for så vidt angår den pågældende værdipapirfond,
+3) investeringsforvaltningsselskabet eller administrationsselskabet skal udføre så mange af værdipapirfondens opgaver, at det ikke blot fungerer som et tomt selskab, for så vidt angår den pågældende værdipapirfond,
 
 4) administrationsselskabet og depotselskabet har indgået en aftale om regulering af den informationsudveksling, der er nødvendig for, at depotselskabet kan udføre sine opgaver i henhold til § 106 i lov om finansiel virksomhed, når værdipapirfonden administreres af et administrationsselskab, og
 

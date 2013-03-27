@@ -1,4 +1,4 @@
-§ 216 a. SIKAV’er og værdipapirfonde, som er under tilsyn efter denne lov, betaler et gebyr ved stiftelse til Erhvervsstyrelsen. Gebyret dækker Erhvervsstyrelsens og SKAT’s omkostninger ved registrering af virksomhedsoplysninger og tildeling af CVR-nummer til SIKAV’er og SE-nummer til værdipapirfonde, afdelinger heraf og eventuelle andelsklasser i de pågældende afdelinger.
+§ 216 a. SIKAV’er og værdipapirfonde, som er under tilsyn efter denne lov, betaler et gebyr ved stiftelse til Erhvervsstyrelsen. Gebyret dækker Erhvervsstyrelsens og SKAT’s omkostninger ved registrering af virksomhedsoplysninger og tildeling af cvr-nummer til SIKAV’er og SE-nummer til værdipapirfonde, afdelinger heraf og eventuelle andelsklasser i de pågældende afdelinger.
 
 Stk. 2. SIKAV’er og værdipapirfonde betaler en årlig afgift til Erhvervsstyrelsen. Afgiften dækker Erhvervsstyrelsens og SKAT’s omkostninger ved administration af lovgivningen, herunder bl.a. registreringsopgaver i forbindelse med ændringer i virksomhedsoplysninger og SE-numre.
 

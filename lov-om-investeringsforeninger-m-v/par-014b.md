@@ -20,7 +20,7 @@
 
 9) valg og udskiftning af fondens depotselskab,
 
-10) de regler, der gælder for ændringer af fondsbestemmelser, opløsning af fonden og overflytning af, at afdelinger til en anden dansk UCITS,
+10) de regler, der gælder for ændring af fondsbestemmelser, opløsning af fonden og overflytning af afdelinger til en anden dansk UCITS,
 
 11) at det er investeringsforvaltningsselskabet eller administrationsselskabet, der har ret til at tegne værdipapirfonden i overensstemmelse med selskabets tegningsregler, og hvem der udøver stemmeretten på værdipapirer tilhørende fonden,
 
