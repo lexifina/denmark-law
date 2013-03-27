@@ -1,7 +1,5 @@
-Givet på Marselisborg Slot, den 22. december 2010
+Social- og Integrationsministeriet, den 22. marts 2013
 
-Under Vor Kongelige Hånd og Segl
+P.M.V. Jesper Zwisler
 
-MARGRETHE R.
-
-/ Inger Støjberg
+/ Lone Larsen
