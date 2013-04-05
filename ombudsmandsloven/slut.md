@@ -1,9 +1,5 @@
-Givet på Christiansborg Slot, den 12. juni 1996
+Justitsministeriet, den 22. marts 2013
 
-Under Vor Kongelige Hånd og Segl
+Morten Bødskov
 
-MARGRETHE R.
-
-/Bjørn Westh
-
-Ingen
+/ Morten N. Jakobsen
