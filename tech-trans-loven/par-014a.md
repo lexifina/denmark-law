@@ -1,0 +1,1 @@
+§ 14 a. Et universitet kan lade sig akkreditere af de amerikanske myndigheder med henblik på efter opnået akkreditering at kunne formidle visse amerikanske studielån til amerikanske statsborgere og udlændinge med permanent opholdstilladelse i Amerikas Forenede Stater på universitetets uddannelser.
