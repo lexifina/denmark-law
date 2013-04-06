@@ -1,3 +1,3 @@
 Bekendtgørelse af lov om offentlige forskningsinstitutioners kommercielle aktiviteter og samarbejde med fonde
 
-Herved bekendtgøres lov om offentlige forskningsinstitutioners kommercielle aktiviteter og samarbejde med fonde, jf. lovbekendtgørelse nr. 753 af 17. juni 2010, med de ændringer, der følger af § 2 i lov nr. 634 af 14. juni 2011.
+Herved bekendtgøres lov om offentlige forskningsinstitutioners kommercielle aktiviteter og samarbejde med fonde, jf. lovbekendtgørelse nr. 696 af 22. juni 2011, med de ændringer, der følger af lov nr. 1237 af 18. december 2012.

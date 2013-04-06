@@ -5,3 +5,5 @@
 3) Lovændringen vedrører § 1, § 10, stk. 2-4, og § 13 a.
 
 4) Lovændringen vedrører lovens titel, § 1, § 4, stk. 1, 1. pkt., § 4 a, § 5, stk. 1, § 6, § 7, stk. 1 og 2, § 8, stk. 1, nr. 1, stk. 2, 1. og 2. pkt. og stk. 3, og § 9, nr. 1.
+
+5) Lovændringen vedrører overskriften før § 13 a samt §§ 13 b-13 d og § 14 a.

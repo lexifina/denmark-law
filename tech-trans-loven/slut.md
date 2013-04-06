@@ -1,5 +1,5 @@
-Ministeriet for Videnskab, Teknologi og Udvikling, den 22. juni 2011
+Ministeriet for Forskning, Innovation og Videregående Uddannelser, den 25. marts 2013
 
-Charlotte Sahl-Madsen
+Morten Østergaard
 
-/ Thomas Voigt Lund
+/ Elizabeth Lüchau
