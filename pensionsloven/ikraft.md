@@ -62,7 +62,7 @@ Stk. 1. Loven træder i kraft dagen efter bekendtgørelsen i Lovtidende.
 
 Stk. 2. § 1, nr. 6, 7 og 9, og §§ 4, 5, 11 og 13-16 har virkning for aktier, køberetter til aktier og tegningsretter til aktier, der tildeles den 1. juli 2003 eller senere, jf. dog stk. 6. For aktier, køberetter til aktier og tegningsretter til aktier, der er tildelt før den 1. juli 2003, finder de hidtil gældende regler, herunder reglerne i ligningslovens §§ 28 A-C fortsat anvendelse.
 
-Stk. 3-5. (Udeladt).
+Stk. 3-5. (Udeladt)
 
 Stk. 6. For aktier, køberetter til aktier og tegningsretter til aktier, der er tildelt før den 1. juli 2003, og hvor tidspunktet for den ansattes beskatning af de modtagne aktier m.v. indtræder den 1. januar 2003 eller senere, kan den ansatte og det selskab, der har ydet de pågældende aktier m.v., indgå aftale om, at reglerne i ligningslovens § 7 H, som affattet ved denne lovs § 1, nr. 6, skal finde anvendelse. Indgås en sådan aftale, skal indberetning herom foretages for det kalenderår, hvor aftalen er indgået.
 
@@ -150,7 +150,7 @@ Lov nr. 326 af 11. april 2012 indeholder nedenstående ikrafttrædelses- og over
 
 Stk. 1. Loven træder i kraft den 1. oktober 2012, jf. dog stk. 2-4.
 
-Stk. 2-3. (Udeladt).
+Stk. 2-3. (Udeladt)
 
 Stk. 4. Lovens §§ 1-3, § 7, nr. 7, og §§ 15, 17 og 24 træder i kraft den 1. marts 2013.
 
@@ -168,7 +168,7 @@ Stk. 5. Afgørelser efter denne lovs §§ 1-5, 9 og 13, som inden lovens ikraftt
 
 Stk. 6. Krav, som kommunen måtte have mod borgeren, eller krav, som borgeren måtte have mod en kommune efter lovens §§ 1-5, 9 og 13 ved lovens ikrafttræden for de respektive sagsområder, overgår til Udbetaling Danmark. Fordringer, for hvilke kommunen har påbegyndt opkrævning af tilbagebetalingskrav, forbliver dog i kommunen, medmindre fordringen opkræves ved modregning eller fradrages i en ydelse, der efter lovens ikrafttræden for de respektive sagsområder udbetales af Udbetaling Danmark, eller i tilfælde, hvor Udbetaling Danmark træffer en ny afgørelse, som vedrører samme fordring.
 
-Stk. 7-9. (Udeladt).
+Stk. 7-9. (Udeladt)
 
 Stk. 10. På sagsområder, hvor myndighedsansvaret overgår til Udbetaling Danmark efter denne lovs §§ 1-3 og 24, videregiver Københavns Kommune senest den 1. januar 2013 en elektronisk kopi af alle sager, hvori kommunen i perioden fra den 1. januar 2011 til den 1. marts 2012 har truffet endelig afgørelse. Udbetaling Danmark må alene bruge de pågældende sager i uddannelsesøjemed og kun i perioden fra den 1. januar 2013 til den 28. februar 2013.
 
@@ -187,3 +187,101 @@ Stk. 1. Efter lovens ikrafttræden påhviler ansvaret for opbevaring af arkivali
 Stk. 2. Kommunen skal efter anmodning fra Udbetaling Danmark sende en kopi af de ønskede akter fra sager, der efter stk. 1, nr. 1 eller 2, opbevares i kommunen. Kommunen har i forbindelse med anmodninger om kopi af akter fra Udbetaling Danmark uden samtykke fra borgeren ret til at gennemgå og sortere en sag, som kommunen opbevarer for Udbetaling Danmark, med henblik på at kunne imødekomme Udbetaling Danmarks anmodning. Kommunen har desuden ret til at gennemgå og sortere en sag, som kommunen opbevarer for Udbetaling Danmark, hvis sagen indeholder oplysninger, der vedrører kommunens sagsområde, og hvis kommunen har et sagligt behov for oplysningerne.
 
 Stk. 3. Social- og integrationsministeren kan efter indstilling fra bestyrelsen for Udbetaling Danmark fastsætte regler om, at Udbetaling Danmark fra 2015 skal betale et gebyr til kommunen for at varetage opgaven efter stk. 2, 1. pkt., og regler om udfasning af kommunernes arkivforpligtelse over for Udbetaling Danmark fra 2018.
+
+Lov nr. 928 af 18. september 2012 indeholder nedenstående ikrafttrædelses- og overgangsbestemmelse. (Lovændringen vedrører §§ 49-49 b og 72 d. Lovændringen angår ændret regulering af forskellige indkomstoverførsler i årene 2016-2023 samt forhøjelse af den supplerende pensionsydelse og pensionstillæg til folkepensionister).
+
+§ 9
+
+Stk. 1. Loven træder i kraft den 1. januar 2013.
+
+Stk. 2. Ved opgørelsen af en kommunes slutskat og kirkeskat for indkomståret 2013 efter § 16 i lov om kommunal indkomstskat korrigeres den opgjorte slutskat for den beregnede virkning af de ændringer i udskrivningsgrundlaget for kommuneskat og kirkeskat for 2013, der følger af ændringerne af § 72 d, stk. 1, i lov om social pension som affattet ved § 7, nr. 5.
+
+Stk. 3. Den beregnede korrektion af kommunens og kirkens slutskat efter stk. 2 fastsættes af økonomi- og indenrigsministeren på grundlag af de oplysninger vedrørende indkomståret 2013, der foreligger pr. 1. maj 2015.
+
+Lov nr. 1380 af 23. december 2012 indeholder nedenstående ikrafttrædelses- og overgangsbestemmelse. (Lovændringen vedrører §§ 3, 16-19, 21, 33 b-33 e, og 49. Lovændringen angår reform af førtidspension og fleksjob, herunder indførelse af ressourceforløb, rehabiliteringsteam, fleksløntilskud m.v.)
+
+§ 21
+
+Stk. 1. Loven træder i kraft den 1. januar 2013, jf. dog stk. 2-6 og 8.
+
+Stk. 2. Beskæftigelsesministeren fastsætter tidspunktet for ikrafttræden af § 1, nr. 48, samt § 75, stk. 1, nr. 6, og § 77, stk. 2 og 3, i lov om aktiv socialpolitik som affattet ved denne lovs § 3, nr. 20.
+
+Stk. 3. Personer, der før tidspunktet for ikrafttrædelsen af stk. 2 har modtaget ledighedsydelse, skal senest 3 måneder efter ikrafttrædelsen have lagt cv i Jobnet og have en cv-samtale.
+
+Stk. 4. Beskæftigelsesministeren fastsætter tidspunktet for ikrafttræden af § 70 g i lov om en aktiv beskæftigelsesindsats som affattet ved denne lovs § 1, nr. 41, og § 1, nr. 49-51.
+
+Stk. 5. § 25 a, stk. 4, nr. 4, §§ 25 b-25 d og § 25 e, stk. 1 og 2, i lov om ansvaret for og styringen af den aktive beskæftigelsesindsats som affattet ved denne lovs § 2, nr. 4, om samarbejde mellem kommunen og regionen om sundhedsfaglig rådgivning og vurdering træder i kraft den 1. juli 2013. En kommune og en region kan vælge at indgå en samarbejdsaftale om sundhedsfaglig rådgivning og vurdering til kommunen fra en klinisk funktion i regionen som nævnt i §§ 25 b-25 d, som har virkning fra et tidspunkt, der ligger før den 1. juli 2013. Indtil en samarbejdsaftale indgås, skal kommunen sørge for, at rehabiliteringsteamet har en sundhedsfaglig repræsentant, som kan varetage en sundhedskoordinatorfunktion med sundhedsfaglig rådgivning i teamet, herunder bidrage til rehabiliteringsteamets indstilling.
+
+Stk. 6. Beskæftigelsesministeren fastsætter tidspunktet for ikrafttræden af ændringerne til § 62, stk. 1, § 63, § 66, stk. 2, og § 68 a, stk. 12 og 13, i lov om ansvaret for og styringen af den aktive beskæftigelsesindsats som affattet ved denne lovs § 2, nr. 6-8 og 10.
+
+Stk. 7. ATP kan i stedet for at underrette den skattepligtige om indbetaling af skatten samtidig med indbetalingen, jf. pensionsafkastbeskatningslovens § 23, stk. 1, 4. pkt., underrette den skattepligtige om indbetaling af skatten i forbindelse med den endelige opgørelse af den supplerende arbejdsmarkedspension for førtidspensionister i den årlige pensionsoversigt. 1. pkt. har virkning fra den 1. januar 2013 til den 30. juni 2013.
+
+Stk. 8. Lovens § 11, nr. 3 og 5, træder i kraft den 1. januar 2014.
+
+§ 22
+
+Stk. 1-9. (Udeladt)
+
+Stk. 10. § 3, stk. 5, i lov om social pension som ændret ved denne lovs § 11, nr. 1, finder ikke anvendelse for førtidspensionister, der ved lovens ikrafttræden har ret til førtidspension under fast bopæl i udlandet, så længe førtidspensionisten har uafbrudt fast bopæl i et ikke EU/EØS-land eller Schweiz. For sådanne sager finder den hidtil gældende § 3, stk. 5, i lov om social pension anvendelse.
+
+Stk. 11. §§ 16-19 i lov om social pension som affattet ved denne lovs § 11, nr. 2, finder ikke anvendelse i sager om tilkendelse af førtidspension, hvis kommunalbestyrelsen før den 1. januar 2013 har truffet afgørelse om, at sagen overgår til behandling efter reglerne om førtidspension. For sådanne sager finder de hidtil gældende regler i §§ 16-19 i lov om social pension anvendelse, indtil der er truffet endelig afgørelse i sagen.
+
+Stk. 12. Beløb, som er opsparet på særskilte konti i den supplerende arbejdsmarkedspension for førtidspensionister hos Arbejdsmarkedets Tillægspension, overføres med virkning fra den 1. januar 2013 til Arbejdsmarkedets Tillægspension til administration og forvaltning sammen med fondens øvrige formue.
+
+Stk. 13. For kontohavere, som den 31. december 2012 har en særskilt konto i den supplerende arbejdsmarkedspension for førtidspensionister hos Arbejdsmarkedets Tillægspension, anvendes kontohaverens indestående til erhvervelse af livsvarig pension i Arbejdsmarkedets Tillægspension den 1. januar 2013 efter reglerne i § 8 c i lov om Arbejdsmarkedets Tillægspension, idet der ikke før erhvervelse fradrages beløb efter § 16 i lov om Arbejdsmarkedets Tillægspension, ligesom den erhvervede pensionsret ikke omfatter ret til ydelser efter § 14 b, stk. 3, og § 14 e, stk. 3, i lov om Arbejdsmarkedets Tillægspension, jf. dog stk. 14.
+
+Stk. 14. Kontohaverens indestående efter stk. 13 opdeles i et garantibidrag, som udgør 80 pct. af indeståendet, der anvendes til erhvervelse af garanteret pension, og et bonusbidrag, som overføres til Arbejdsmarkedets Tillægspensions bonuspotentiale.
+
+Stk. 15. Garantibidraget efter stk. 14 anvendes til erhvervelse af garanteret pension den 1. januar 2013 efter en af beskæftigelsesministeren fastsat tarif, jf. stk. 16. Før erhvervelse af garanteret pension fradrages der ikke beløb efter § 16 i lov om Arbejdsmarkedets Tillægspension, ligesom den erhvervede pensionsret ikke omfatter ret til ydelser efter § 14 b, stk. 3, og § 14 e, stk. 3, i lov om Arbejdsmarkedets Tillægspension.
+
+Stk. 16. Beskæftigelsesministeren fastsætter efter indstilling fra bestyrelsen for Arbejdsmarkedets Tillægspension en tarif, jf. stk. 15. Tariffen fastsættes på grundlag af en pr. 31. december 2012 markedsværdibaseret optjeningsrente opgjort i overensstemmelse med principperne i pensionsgrundlaget i Arbejdsmarkedets Tillægspension, jf. § 18 i lov om Arbejdsmarkedets Tillægspension.
+
+Stk. 17. Kontohavere, som den 31. december 2012 har en særskilt konto i den supplerende arbejdsmarkedspension for førtidspensionister hos Arbejdsmarkedets Tillægspension, og som er født i perioden fra den 1. januar 1949 til den 31. december 1952, kan dog vælge, at erhvervelse af livsvarig pension i Arbejdsmarkedets Tillægspension først sker ved folkepensionsalderen med en værdi svarende til deres indestående på særskilt konto den 31. december 2012 tillagt en forretning frem til folkepensionsalderen. Opdeling i garantibidrag og bonusbidrag og erhvervelse af garanteret pension sker efter de regler, der er fastsat efter § 8 c i lov om Arbejdsmarkedets Tillægspension på det tidspunkt, hvor kontohaveren når folkepensionsalderen.
+
+Stk. 18. Arbejdsmarkedets Tillægspension fastsætter nærmere regler om størrelsen af renten samt principperne for forrentningen af indestående den 31. december 2012, jf. stk. 17.
+
+Stk. 19. Social- og integrationsministeren kan efter indstilling fra Arbejdsmarkedets Tillægspension fastsætte nærmere regler om overførslen den 1. januar 2013 af særskilte konti i den supplerende arbejdsmarkedspension for førtidspensionister hos Arbejdsmarkedets Tillægspension og erhvervelsen af pensionsrettigheder i ATP Livslang Pension, jf. stk. 13-17.
+
+Stk. 20. § 16, nr. 1-3, i denne lov har virkning fra og med indkomståret 2013.
+
+Stk. 21. Uanset § 14, stk. 2, nr. 4, i lov om kommunal udligning og generelle tilskud til kommuner indgår de kommunale merudgifter for kommunerne som arbejdsgivere til arbejdsskadeerstatninger ikke i fastsættelsen af statens årlige tilskud til kommunerne.
+
+Stk. 22. Uanset § 3, stk. 2, nr. 4, i lov om regionernes finansiering indgår de regionale merudgifter for regionerne som arbejdsgivere til arbejdsskadeerstatninger ikke i fastsættelsen af statens årlige tilskud til regionerne.
+
+§ 23
+
+En sikringspligtig forsikringstager kan ikke opsige en forsikring på grund af en forhøjelse af præmien, som alene er begrundet i en forøgelse af udgifterne, der er en følge af denne lov.
+
+Lov nr. 218 af 5. marts 2013 indeholder nedenstående ikrafttrædelses- og overgangsbestemmelse. (Lovændringen vedrører § 52. Loven angår frivillig overgang til førtidspension efter lov om social pension)
+
+§ 4
+
+Loven træder i kraft den 1. april 2013.
+
+§ 5
+
+Udbetaling Danmark skal senest den 31. maj 2013 give modtagere af førtidspension og modtagere af invaliditetsydelse efter lov om højeste, mellemste, forhøjet almindelig og almindelig førtidspension m.v. skriftlig meddelelse om ret til overgang til retten til førtidspension efter lov om social pension, jf. § 44, stk. 5, i lov om højeste, mellemste, forhøjet almindelig og almindelig førtidspension m.v. som affattet ved lovens § 1, nr. 2.
+
+Stk. 2. Udbetaling Danmark og kommunen skal på hver sit myndighedsområde vejlede førtidspensionister, der anmoder herom, om konsekvenser ved at overgå til førtidspension efter lov om social pension, jf. § 44, stk. 5, i lov om højeste, mellemste, forhøjet almindelig og almindelig førtidspension m.v. som affattet ved lovens § 1, nr. 2. Vejledningen skal gives på baggrund af pensionistens konkrete aktuelle forhold.
+
+Stk. 3. Personer, der har anmodet Udbetaling Danmark om overgang til ret til førtidspension efter lov om social pension, jf. § 44, stk. 5, i lov om højeste, mellemste, forhøjet almindelig og almindelig førtidspension m.v. som affattet ved lovens § 1, nr. 2, er omfattet af ret til førtidspension efter lov om social pension med virkning fra den 1. i den måned, der følger efter den nærmeste måned, efter anmodning er indgivet, jf. dog stk. 8.
+
+Stk. 4. For personer, der er overgået til førtidspension efter lov om social pension, jf. § 44, stk. 5, i lov om højeste, mellemste, forhøjet almindelig og almindelig førtidspension m.v. som affattet ved lovens § 1, nr. 2, udbetaler Udbetaling Danmark et korrektionsbeløb for perioden fra den 1. januar 2013 og indtil den 1. i den måned, hvori der er ret til førtidspension efter lov om social pension, dog længst indtil den 31. december 2013. Korrektionsbeløbet opgøres som forskellen mellem det faktisk udbetalte grundbeløb, pensionstillæg, førtidsbeløb, invaliditetsbeløb, den ekstra tillægsydelse og erhvervsudygtighedsbeløb i den måned, hvori der anmodes om overførsel af ret til førtidspension efter lov om social pension, og den første månedlige udbetaling af førtidspension efter lov om social pension, jf. stk. 3. Korrektionsbeløbet ydes for hver af de måneder, hvori der er udbetalt førtidspension efter lov om højeste, mellemste, forhøjet almindelig og almindelig førtidspension m.v. i 2013. Et negativt samlet korrektionsbeløb sættes til nul. Korrektionsbeløbet udbetales sammen med den første månedlige udbetaling af førtidspension efter lov om social pension. Korrektionsbeløbet er skattefrit.
+
+Stk. 5. Udgifter til korrektionsbeløbet, jf. stk. 4, afholdes af henholdsvis staten og kommunen. Staten og kommunen afholder udgifterne til korrektionsbeløbet med den samme forholdsmæssige procentsats, hvormed staten og kommunen hidtil har afholdt udgifterne til den pågældendes grundbeløb og pensionstillæg efter lov om højeste, mellemste, forhøjet almindelig og almindelig førtidspension m.v.
+
+Stk. 6. Udbetaling Danmarks afgørelse om korrektionsbeløb, jf. stk. 4, kan påklages til Ankestyrelsen, jf. § 64 a i lov om retssikkerhed og administration på det sociale område.
+
+Stk. 7. For personer, der efter § 44, stk. 5, i lov om højeste, mellemste, forhøjet almindelig og almindelig førtidspension m.v. som affattet ved lovens § 1, nr. 2, har ret til førtidspension efter lov om social pension, omfatter retten til at modtage pension i udlandet ikke førtidspensionens pensionstillæg.
+
+Stk. 8. Ved overgang til førtidspension efter lov om social pension, jf. § 44, stk. 5, i lov om højeste, mellemste, forhøjet almindelig og almindelig førtidspension m.v. som affattet ved lovens § 1, nr. 2, videreføres de rettigheder og pligter efter lov om højeste, mellemste, forhøjet almindelig og almindelig førtidspension m.v., der fremgår af lovens § 2, § 3, stk. 1-3, og §§ 4, 5, 8 og 9.
+
+Stk. 9. Ved overgang til førtidspension efter lov om social pension, jf. § 44, stk. 5, i lov om højeste, mellemste, forhøjet almindelig og almindelig førtidspension m.v. som affattet ved lovens § 1, nr. 2, finder § 32 b i lov om social pension om den første pensionsberegning ikke anvendelse. Pensionen fastsættes og omregnes efter § 39 i lov om social pension.
+
+Stk. 10. Ved overgang til førtidspension efter lov om social pension, jf. § 44, stk. 5, i lov om højeste, mellemste, forhøjet almindelig og almindelig førtidspension m.v. som affattet ved lovens § 1, nr. 2, udbetales førtidspension månedsvis forud, hvis førtidspensionen efter lov om højeste, mellemste, forhøjet almindelig og almindelig førtidspension m.v. blev udbetalt forud.
+
+Stk. 11. Ved overgang til førtidspension efter lov om social pension, jf. § 44, stk. 5, i lov om højeste, mellemste, forhøjet almindelig og almindelig førtidspension m.v. som affattet ved lovens § 1, nr. 2, indbetales bidrag til ATP, jf. § 33 a i lov om social pension, med virkning fra den 1. i den måned, hvor den pågældende har ret til førtidspension efter reglerne i lov om social pension.
+
+Stk. 12. Krav på tilbagebetaling af pension, jf. §§ 42 og 43 i lov om højeste, mellemste, forhøjet almindelig og almindelig førtidspension m.v., kan fratrækkes i korrektionsbeløbet, jf. stk. 4. Hvis kravet ikke kan dækkes i korrektionsbeløbet, fratrækkes det resterende krav i pensionen efter § 32 i lov om social pension.
+
+Stk. 13. Direktøren for Pensionsstyrelsen kan udøve de beføjelser, som kommunerne og Udbetaling Danmark har efter lovens § 1, nr. 2, § 2 og stk. 1-12 vedrørende førtidspension, der ydes i henhold til forordning (EF) nr. 883/04 om koordinering af de sociale sikringsordninger, førtidspension, der ydes i henhold til overenskomster med andre stater, og førtidspension, der i øvrigt ydes til personer med bopæl i udlandet, efter regler i lov om højeste, mellemste, forhøjet almindelig og almindelig førtidspension m.v. og efter lov om social pension.
