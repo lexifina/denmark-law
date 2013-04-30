@@ -1,5 +1,5 @@
-1) Ved § 16 i lov nr. 513 af 7. juni 2006 ændres § 6 og § 12. Ved § 2, nr. 4-6, i lov nr. 1337 af 19. december 2008 ændres § 4 og § 23. Ved § 3, nr. 4, i lov nr. 1386 af 21. december 2009 ændres § 4.
+1) Ved § 16 i lov nr. 513 af 7. juni 2006 ændres § 6.
 
-2) Denne affattelse af § 3, stk. 1, A, finder anvendelse på afgiftsperioder, der påbegynder den 1. januar 2013 eller senere.
+2) De i stk. 1 under A og D angivne beløb for vægtafgift gælder for afgiftsperioder, der begynder den 1. januar 2015 eller senere, dog senest påbegyndt den 31. december 2017. De i stk. 1 under A og D angivne beløb for udligningsafgift gælder for afgiftsperioder, der begynder den 1. januar 2015 eller senere, dog senest påbegyndt den 31. december 2015. Beløb for vægtafgift og udligningsafgift fra den 1. januar 2013 til den 31. december 2014 findes i § 13, stk. 56 og 57 i lov nr. 924 af 18. september 2012, som er optrykt før disse noter.
 
-3) Denne affattelse af § 4, stk. 1, II, finder anvendelse på afgiftsperioder, der påbegynder den 1. januar 2013 eller senere.
+3) De i stk. 1 under I og II, A, angivne beløb for vægtafgift og tillæg for privat anvendelse gælder for afgiftsperioder, der begynder den 1. januar 2015 eller senere, dog senest påbegyndt den 31. december 2017. De i stk. 1 under I og II, A, angivne beløb for udligningsafgift gælder for afgiftsperioder, der begynder den 1. januar 2015 eller senere, dog senest påbegyndt den 31. december 2015. Beløb for vægtafgift, udligningsafgift og tillæg for privat anvendelse fra den 1. januar 2013 til den 31. december 2014 findes i § 13, stk. 58 og 59 i lov nr. 924 af 18. september 2012, som er optrykt før disse noter.
