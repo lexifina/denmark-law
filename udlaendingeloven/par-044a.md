@@ -12,9 +12,9 @@ Stk. 3. Myndigheder og private organisationer, der har adgang til Udlændingeinf
 
 Stk. 4. Meddeles en udlænding, der bor eller opholder sig her i landet uden at have lovligt ophold i medfør af §§ 1-3 a, § 4 b eller § 5, stk. 2, eller i medfør af et registreringsbevis eller opholdskort efter § 6 eller en opholdstilladelse efter §§ 7-9 f eller 9 i-9 n, og som ikke er indkvarteret på et indkvarteringssted for de i § 42 a, stk. 1 og 2, nævnte udlændinge, afslag på en ansøgning om opholdstilladelse, videregiver Udlændingestyrelsen eller Styrelsen for Fastholdelse og Rekruttering uden udlændingens samtykke oplysninger herom til kommunalbestyrelsen for den kommune, hvor udlændingen bor eller opholder sig. Tilsvarende gælder, hvis ansøgningen om opholdstilladelse fra en udlænding som nævnt i 1. pkt. bortfalder eller frafaldes.
 
-Stk. 5. Justitsministeriet, Beskæftigelsesministeriet, Udlændingestyrelsen, Styrelsen for Fastholdelse og Rekruttering, kommunalbestyrelsen, statsforvaltningen, restanceinddrivelsesmyndigheden, jf. § 9, stk. 23, og politiet kan uden samtykke indhente de oplysninger i indkomstregisteret, som er nødvendige for udførelsen af myndighedens virksomhed eller påkrævet for en afgørelse, som myndigheden skal træffe efter udlændingeloven.
+Stk. 5. Justitsministeriet, Beskæftigelsesministeriet, Udlændingestyrelsen, Styrelsen for Fastholdelse og Rekruttering, kommunalbestyrelsen, statsforvaltningen, restanceinddrivelsesmyndigheden, jf. § 9, stk. 23, politiet og Udlændingenævnet kan uden samtykke indhente de oplysninger i indkomstregisteret, som er nødvendige for udførelsen af myndighedens virksomhed eller påkrævet for en afgørelse, som myndigheden skal træffe efter udlændingeloven.
 
-Stk. 6. Justitsministeriet, Beskæftigelsesministeriet, Udlændingestyrelsen, Styrelsen for Fastholdelse og Rekruttering kan uden samtykke fra ansøgeren og den herboende person indhente de oplysninger i Arbejdsmarkedsportalen, som er nødvendige for udførelsen af myndighedens virksomhed eller påkrævet for en afgørelse, som myndigheden skal træffe efter udlændingeloven.
+Stk. 6. Justitsministeriet, Beskæftigelsesministeriet, Udlændingestyrelsen, Udlændingenævnet, Styrelsen for Fastholdelse og Rekruttering kan uden samtykke fra ansøgeren og den herboende person indhente de oplysninger i Arbejdsmarkedsportalen, som er nødvendige for udførelsen af myndighedens virksomhed eller påkrævet for en afgørelse, som myndigheden skal træffe efter udlændingeloven.
 
 Stk. 7. De i stk. 1 og 4 nævnte oplysninger kan videregives gennem Udlændingeinformationsportalen (UIP).
 
@@ -22,7 +22,7 @@ Stk. 8. Udlændingestyrelsen og Styrelsen for Fastholdelse og Rekruttering kan s
 
 Stk. 9. Justitsministeren og beskæftigelsesministeren kan i forening efter aftale med økonomi- og indenrigsministeren fastsætte nærmere regler om, at Udlændingestyrelsen og Styrelsen for Fastholdelse og Rekruttering registrerer de i stk. 1 nævnte oplysninger i Det Centrale Personregister (CPR).
 
-Stk. 10. Udlændingestyrelsen, Styrelsen for Fastholdelse og Rekruttering og statsforvaltningerne kan til brug for Arbejdsmarkedsstyrelsens overvågning af arbejdsmarkedet videregive oplysninger om udlændinge, der er meddelt opholdstilladelse eller arbejdstilladelse efter denne lov, og oplysninger om udenlandske arbejdstagere, der har fået udstedt registreringsbevis på baggrund af beskæftigelse efter denne lov. Udlændingestyrelsen, Styrelsen for Fastholdelse og Rekruttering og statsforvaltningerne kan i den forbindelse, herunder i elektronisk form, videregive følgende oplysninger:
+Stk. 10. Udlændingestyrelsen, Styrelsen for Fastholdelse og Rekruttering og statsforvaltningen kan til brug for Arbejdsmarkedsstyrelsens overvågning af arbejdsmarkedet videregive oplysninger om udlændinge, der er meddelt opholdstilladelse eller arbejdstilladelse efter denne lov, og oplysninger om udenlandske arbejdstagere, der har fået udstedt registreringsbevis på baggrund af beskæftigelse efter denne lov. Udlændingestyrelsen, Styrelsen for Fastholdelse og Rekruttering og statsforvaltningen kan i den forbindelse, herunder i elektronisk form, videregive følgende oplysninger:
 
 1) Navn.
 
