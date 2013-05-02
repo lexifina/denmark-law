@@ -1,6 +1,6 @@
 § 42 c. Indkvarteringsoperatøren, jf. § 42 a, stk. 5, 2. pkt., udarbejder en kontrakt for en udlænding over 18 år, der er omfattet af § 42 a, stk. 1 eller 2, jf. stk. 3.
 
-Stk. 2. Kontrakten indgås mellem udlændingen og indkvarteringsoperatøren, jf. § 42 a, stk. 5, 2. pkt., på grundlag af den enkelte udlændings individuelle færdigheder og forudsætninger. Kontrakten indgås senest en uge efter udlændingens indgivelse af ansøgning om opholdstilladelse i medfør af § 7. Kan der ikke opnås enighed om kontraktens indhold, fastsættes indholdet af indkvarteringsoperatøren. Kontrakten kan løbende revideres.
+Stk. 2. Kontrakten indgås mellem udlændingen og indkvarteringsoperatøren, jf. § 42 a, stk. 5, 2. pkt., på grundlag af den enkelte udlændings individuelle færdigheder og forudsætninger, herunder eventuel beskæftigelse. Kontrakten indgås senest en uge efter udlændingens indgivelse af ansøgning om opholdstilladelse i medfør af § 7. Kan der ikke opnås enighed om kontraktens indhold, fastsættes indholdet af indkvarteringsoperatøren. Kontrakten kan løbende revideres.
 
 Stk. 3. Kontrakten fastlægger omfang og indhold af
 

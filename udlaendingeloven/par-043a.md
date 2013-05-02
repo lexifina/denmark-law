@@ -1,6 +1,6 @@
 § 43 a. Til en udlænding, der opholder sig her i landet, og hvis ansøgning om opholdstilladelse efter § 7 er taget under behandling, kan der, hvis udlændingen ikke selv har midler hertil, ydes hjælp til rejse til et tredjeland, hvor udlændingen efter indrejsen i Danmark og inden udløbet af en fastsat udrejsefrist har opnået indrejse- og opholdstilladelse, hvis udlændingen har fået afslag på eller frafalder en ansøgning om opholdstilladelse her i landet, jf. dog stk. 3.
 
-Stk. 2. Til en udlænding, der opholder sig her i landet, og som er registreret som asylansøger efter § 48 e, stk. 1, og er meddelt afslag på opholdstilladelse efter § 7 af Udlændingestyrelsen eller Flygtningenævnet, kan der ydes hjælp til tilbagevenden til hjemlandet eller det tidligere opholdsland, hvis udlændingen medvirker til at udrejse uden ugrundet ophold, jf. dog stk. 3 og 4.
+Stk. 2. Til en udlænding, der opholder sig her i landet, og som er registreret som asylansøger efter § 48 e, stk. 2, og er meddelt afslag på opholdstilladelse efter § 7 af Udlændingestyrelsen eller Flygtningenævnet, kan der ydes hjælp til tilbagevenden til hjemlandet eller det tidligere opholdsland, hvis udlændingen medvirker til at udrejse uden ugrundet ophold, jf. dog stk. 3 og 4.
 
 Stk. 3. Der kan ikke ydes hjælp efter stk. 1 og 2 til
 
@@ -32,4 +32,6 @@ Stk. 6. Hjælpen efter stk. 2 udgør 3.000 kr. pr. person over 18 år og 1.500 k
 
 Stk. 7. En udlænding kan kun modtage hjælp efter stk. 1 og 2 én gang.
 
-Stk. 8. Det i stk. 5, nr. 3, angivne beløb er fastsat i 1995-niveau og reguleres fra og med 1996 én gang årligt den 1. januar efter satsreguleringsprocenten, jf. lov om en satsreguleringsprocent. Det i stk. 6 angivne beløb er fastsat i 2003-niveau og reguleres fra og med 2004 én gang årligt den 1. januar efter satsreguleringsprocenten, jf. lov om en satsreguleringsprocent.
+Stk. 8. Udlændinge, der har fået endeligt afslag på opholdstilladelse i medfør af § 7, og for hvem der er fastsat en udrejsefrist i henhold til § 33, stk. 2, tilbydes uvildig rådgivning om mulighederne for hjemrejse, herunder om mulighederne for støtte efter stk. 2 til genetablering i det land, hvortil udlændingen udrejser. Justitsministeren kan træffe bestemmelse om, at den uvildige rådgivning skal varetages af en eller flere private organisationer.
+
+Stk. 9. Det i stk. 5, nr. 3, angivne beløb er fastsat i 1995-niveau og reguleres fra og med 1996 én gang årligt den 1. januar efter satsreguleringsprocenten, jf. lov om en satsreguleringsprocent. Det i stk. 6 angivne beløb er fastsat i 2003-niveau og reguleres fra og med 2004 én gang årligt den 1. januar efter satsreguleringsprocenten, jf. lov om en satsreguleringsprocent.
