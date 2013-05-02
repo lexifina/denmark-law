@@ -14,7 +14,7 @@ Stk. 3. En udlænding, der modtager grundydelse, jf. stk. 1, får udbetalt et fo
 
 Stk. 4. Forsørgertillægget udgør pr. dag 64,46 kr. for udlændinge, der modtager grundydelse, jf. dog stk. 5, og 23,75 kr. for udlændinge, der ikke modtager grundydelse, fordi de pågældende er indkvarteret på et indkvarteringssted, hvor der er en vederlagsfri bespisningsordning, jf. dog stk. 5.
 
-Stk. 5. Er udlændingen ikke registreret som asylansøger efter § 48 e, stk. 1, udgør forsørgertillægget pr. dag 47,50 kr. for udlændinge, der modtager grundydelse, og 6,79 kr. for udlændinge, der ikke modtager grundydelse, fordi de pågældende er indkvarteret på et indkvarteringssted, hvor der er en vederlagsfri bespisningsordning.
+Stk. 5. Er udlændingen ikke registreret som asylansøger efter § 48 e, stk. 2, udgør forsørgertillægget pr. dag 47,50 kr. for udlændinge, der modtager grundydelse, og 6,79 kr. for udlændinge, der ikke modtager grundydelse, fordi de pågældende er indkvarteret på et indkvarteringssted, hvor der er en vederlagsfri bespisningsordning.
 
 Stk. 6. Nedsat forsørgertillæg udgør pr. dag 33,93 kr. Nedsat forsørgertillæg udbetales ikke til udlændinge, der ikke modtager grundydelse, fordi de pågældende er indkvarteret på et indkvarteringssted, hvor der er en vederlagsfri bespisningsordning.
 
@@ -24,7 +24,7 @@ Stk. 8. En udlænding over 18 år, der får udgifterne til underhold og nødvend
 
 Stk. 9. Får en uledsaget udlænding under 18 år eller en udlænding under 18 år, som ikke betragtes som hørende til en af eller begge sine forældres familie, jf. stk. 3, 7. og 8. pkt., udgifterne til underhold og nødvendige sundhedsmæssige ydelser dækket af Udlændingestyrelsen efter § 42 a, stk. 1 eller 2, får udlændingen udbetalt en tillægsydelse, jf. dog stk. 12. Stk. 8, 2.-6. pkt., finder tilsvarende anvendelse.
 
-Stk. 10. Tillægsydelsen udgør pr. dag 23,75 kr. Er udlændingen ikke registreret som asylansøger efter § 48 e, stk. 1, udgør tillægsydelsen pr. dag 6,79 kr.
+Stk. 10. Tillægsydelsen udgør pr. dag 23,75 kr. Er udlændingen ikke registreret som asylansøger efter § 48 e, stk. 2, udgør tillægsydelsen pr. dag 6,79 kr.
 
 Stk. 11. Indkvarteringsoperatøren, jf. § 42 a, stk. 5, 2. pkt., udbetaler ydelser, jf. stk. 1, 3, 8 og 9, jf. dog stk. 12. Indkvarteringsoperatøren skal, medmindre særlige grunde taler derimod, beslutte, at tillægsydelse efter stk. 8 ikke udbetales, hvis udlændingen ikke har overholdt sin kontrakt, jf. § 42 c. Har en udlænding ikke overholdt sin kontrakt en eller flere dage i den periode, der ligger til grund for beregningen af tillægsydelsen, jf. stk. 8, 2. og 6. pkt., udbetales der, medmindre særlige grunde taler derimod, ikke tillægsydelse for det antal dage, hvor udlændingen ikke har overholdt sin kontrakt. Har en udlænding overholdt sin kontrakt i mindre end halvdelen af den periode, der ligger til grund for beregningen af tillægsydelsen, jf. stk. 8, 2. og 6. pkt., udbetales tillægsydelsen ikke, medmindre særlige grunde taler derimod.
 
@@ -32,4 +32,10 @@ Stk. 12. En udlænding, der får udgifterne til underhold og nødvendige sundhed
 
 Stk. 13. En udlænding, der får udgifterne til underhold og nødvendige sundhedsmæssige ydelser dækket af Udlændingestyrelsen efter § 42 a, stk. 1 eller 2, kan få udleveret naturalieydelser, herunder i form af tøj- og hygiejnepakker, såfremt den pågældende har særligt behov herfor. Justitsministeren fastsætter nærmere regler om adgangen til samt indholdet og omfanget af naturalieydelser.
 
-Stk. 14. De i stk. 2, 4-6, 10 og 12 angivne beløb er fastsat i 2003-beløb og reguleres fra og med 2004 én gang årligt den 1. januar efter satsreguleringsprocenten, jf. lov om en satsreguleringsprocent.
+Stk. 14. Hvis en udlænding, som har indgivet ansøgning om opholdstilladelse i medfør af § 7, oppebærer lønindkomst fra beskæftigelse eller lønnet praktik omfattet af § 14 a eller § 42 g, stk. 2, fradrages denne i kontante ydelser, der udbetales efter reglerne i stk. 1-13.
+
+Stk. 15. Stk. 1-13 finder ikke anvendelse for en udlænding, der er flyttet i egen bolig, jf. § 42 k, eller dennes husstand.
+
+Stk. 16. Udlændingestyrelsen fastsætter de nærmere regler for fradrag, jf. stk. 14.
+
+Stk. 17. De i stk. 2, 4-6, 10 og 12 angivne beløb er fastsat i 2003-beløb og reguleres fra og med 2004 én gang årligt den 1. januar efter satsreguleringsprocenten, jf. lov om en satsreguleringsprocent.
