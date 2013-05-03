@@ -1,3 +1,3 @@
-Bekendtgørelse af lov om digital indberetningsløsning til brug for anmeldelse af sygefravær samt anmodning om refusion af sygedagpenge og dagpenge efter barselloven
+Bekendtgørelse af lov om digital løsning til brug for anmeldelse af sygefravær og anmodning om refusion og tilskud m.v. (Nemrefusion)
 
-Herved bekendtgøres lov nr. 283 af 15. april 2009 om digital indberetningsløsning til brug for anmeldelse af sygefravær samt anmodning af refusion af sygedagpenge og dagpenge efter barselloven med de ændringer, der følger af § 14 i lov nr. 326 af 11. april 2012.
+Herved bekendtgøres lov om digital løsning til brug for anmeldelse af sygefravær og anmodning om refusion af og tilskud m.v. (Nemrefusion), jf. lovbekendtgørelse nr. 1069 af 14. november 2012 med de ændringer, der følger af § 2 i lov nr. 357 af 9. april 2013.

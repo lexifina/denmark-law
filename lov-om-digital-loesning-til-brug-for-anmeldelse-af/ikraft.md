@@ -1,4 +1,4 @@
-Lov nr. 326 af 11. april 2012, der ændrer § 1, stk. 2 - 3, overskriften til kapitel 2, § 3, stk. 2, § 4, stk. 1, § 9, stk. 1 - 2 og § 10, stk. 1, og indsætter § 3, stk. 4 - 6 og § 4, stk. 2 samt affatter § 5 (Fordeling af myndighedsansvaret mellem kommunerne og Udbetaling Danmark m.v.), indeholder følgende ikrafttrædelses- og overgangsbestemmelser:
+Lov nr. 326 af 11. april 2012, der ændrer § 1, stk. 2 - 3, overskriften til kapitel 2, § 3, stk. 2, § 4, stk. 1, § 9, stk. 1 - 2 og § 10, stk. 1, og indsætter § 3, stk. 4 - 6 og § 4, stk. 2, samt affatter § 5 (Fordeling af myndighedsansvaret mellem kommunerne og Udbetaling Danmark m.v.), indeholder følgende ikrafttrædelses- og overgangsbestemmelser:
 
 § 25
 
@@ -31,3 +31,9 @@ Stk. 8. (Udeladt)
 Stk. 9. På sagsområder, hvor myndighedsansvaret overgår til Udbetaling Danmark efter denne lovs § 13, videregiver Københavns Kommune senest den 1. oktober 2012 en elektronisk kopi af alle sager, hvori kommunen i perioden fra den 1. januar 2011 til den 1. marts 2012 har truffet endelig afgørelse. Udbetaling Danmark må alene bruge de pågældende sager i uddannelsesøjemed og kun i perioden fra den 1. oktober 2012 til den 30. november 2012.
 
 Stk. 10. (Udeladt)
+
+Lov nr. 357 af 9. april 2013, der affatter lovens titel, § 1, stk. 2, nr. 1-3, § 3 og § 5, ændrer § 1, stk. 1, § 2, § 4, stk. 1, § 9, stk. 1 og § 14, stk. 1, samt overalt i loven ændrer »SDPI-løsningen« til »Nemrefusion« (Digital kommunikation om tilskudsordninger m.v.), indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 5
+
+Loven træder i kraft den 15. april 2013.
