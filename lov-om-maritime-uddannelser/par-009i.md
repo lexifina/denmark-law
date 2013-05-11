@@ -1,1 +1,1 @@
-§ 9 i. Søfartsstyrelsen kan på vegne af uddannelsesinstitutionen anlægge retssag mod bestyrelsesmedlemmer, den daglige leder, revisorer eller andre i anledning af tab påført uddannelsesinstitutionen.
+§ 9 i. Ministeren for forskning, innovation og videregående uddannelser kan på vegne af uddannelsesinstitutionen anlægge retssag mod bestyrelsesmedlemmer, den daglige leder, revisorer eller andre i anledning af tab påført uddannelsesinstitutionen.
