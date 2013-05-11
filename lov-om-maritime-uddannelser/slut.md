@@ -1,5 +1,5 @@
-Søfartsstyrelsen, den 4. marts 2011
+Ministeriet for Forskning, Innovation og Videregående Uddannelser, den 8. maj 2013
 
-Lisbet Dyerberg
+Morten Østergaard
 
-/ Sune Rahn
+/ Pernille Olesen Mønnike
