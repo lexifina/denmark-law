@@ -2,12 +2,16 @@
 
 ## Supplerende arbejdsmarkedspension for førtidspensionister
 
-§ 17 r. Indbetalinger til den supplerende arbejdsmarkedspension for førtidspensionister godskrives på særskilte konti på grundlag af indberetning fra kommunerne, jf. lov om social pension § 33 b.
+§ 17 r. Arbejdsmarkedets Tillægspension modtager bidrag til den supplerende arbejdsmarkedspension for førtidspensionister på grundlag af indberetning fra Udbetaling Danmark, jf. § 33 b og § 33 c i lov om social pension.
 
-Stk. 2. Indbetalinger, der er godskrevet særskilte konti efter stk. 1, forvaltes af Arbejdsmarkedets Tillægspension sammen med de midler, der forvaltes efter § 17 m, stk. 1. Dog godskrives indbetalinger til den supplerende arbejdsmarkedspension for førtidspensionister direkte på den enkelte kontohavers særskilte konto.
+Stk. 2. Bidrag efter stk. 1 anvendes til erhvervelse af ret til pension af garantibidrag og bonusbidrag efter reglerne i § 8 c, idet der ikke før erhvervelse fradrages beløb efter § 16, ligesom den erhvervede pensionsret ikke omfatter ret til ydelser efter § 14 b, stk. 4, og § 14 e, stk. 3.
 
-Stk. 3. Regnskab for forvaltning og administration af de særskilte konti i den supplerende arbejdsmarkedspension indgår i den samlede opgørelse vedrørende Særlig Pensionsopsparing efter denne lovs kapitel 5 c.
+Stk. 3. Bidrag efter stk. 1 administreres og forvaltes af Arbejdsmarkedets Tillægspension sammen med fondens øvrige formue.
 
-Stk. 4. Bestyrelsen kan fastsætte et særskilt administrationsgebyr i forbindelse med indbetalinger til den supplerende arbejdsmarkedspension for førtidspensionister.
+Stk. 4. Pension med tillæg af bonuspension udbetales efter reglerne i § 9, § 9 a og § 10, når medlemmet når folkepensionsalderen, jf. § 1 a i lov om social pension.
 
-Stk. 5. Ved dødsfald før det fyldte 65. år, udbetales indeståendet på kontoen opgjort efter § 17 h, stk. 5, til dødsboet. Socialministeren fastsætter efter indstilling fra bestyrelsen for Arbejdsmarkedets Tillægspension nærmere regler for udbetaling af beløb til boet.
+Stk. 5. Arbejdsmarkedets Tillægspension kan fastsætte omkostningsprocenter og gebyrer i forbindelse med forvaltning og administration af den supplerende arbejdsmarkedspension for førtidspensionister.
+
+Stk. 6. Ved dødsfald udbetales et engangsbeløb, jf. § 33 c, stk. 4, og § 33 d, stk. 3 og 5, i lov om social pension. Arbejdsmarkedets Tillægspension fastsætter størrelsen af engangsbeløbet og størrelsen af renten samt principperne for forrentningen af beløb omfattet af § 33 c, stk. 4, i lov om social pension. Arbejdsmarkedets Tillægspension udbetaler engangsbeløbet, når Arbejdsmarkedets Tillægspension modtager meddelelse om dødsfaldet fra CPR. Hvis personen boede i udlandet på tidspunktet for dødsfaldet, sker udbetalingen efter anmodning fra det berettigede dødsbo.
+
+Stk. 7. Finanstilsynet kan fastsætte regler for udarbejdelse af noter m.v. om den supplerende arbejdsmarkedspension for førtidspensionister i årsrapporten m.v. efter § 25 m.
