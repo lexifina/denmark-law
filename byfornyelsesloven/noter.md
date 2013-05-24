@@ -1,1 +1,1 @@
-1) Da lovgivningen nu ligger i Indenrigs- og Socialministeriets departement, er bestemmelsen uden betydning.
+1) Da lovgivningen nu ligger i Ministeriet for By, Bolig og Landdistrikter er bestemmelsen uden betydning.

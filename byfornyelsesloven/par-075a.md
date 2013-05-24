@@ -4,7 +4,7 @@
 
 Stk. 2. Bestemmelsen i stk. 1 gælder ikke for ejendomme, for hvilke kommunalbestyrelsen kan meddele påbud efter § 165, stk. 1, i lov om almene boliger m.v. og § 89, stk. 2, i lov om friplejeboliger.
 
-Stk. 3. Påbud efter stk. 1 skal
+Stk. 3. Stk. 3. Påbud efter stk. 1 skal
 
 1) skriftligt meddeles ejeren og de lejere, hvis lejemål omfattes af påbuddet, og
 
