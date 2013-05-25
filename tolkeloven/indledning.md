@@ -1,5 +1,3 @@
-Lov om tolkning til personer med hørehandicap
+Bekendtgørelse af lov om tolkning til personer med hørehandicap
 
-VI MARGRETHE DEN ANDEN, af Guds Nåde Danmarks Dronning, gør vitterligt:
-
-Folketinget har vedtaget og Vi ved Vort samtykke stadfæstet følgende lov:
+Hermed bekendtgøres lov nr. 1503 af 17. december 2009 om tolkning til personer med hørehandicap med de ændringer, der følger af lov nr. 1397 af 23. december 2012.

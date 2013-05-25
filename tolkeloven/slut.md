@@ -1,7 +1,5 @@
-Givet på Marselisborg Slot, den 27. december 2009
+Social- og Integrationsministeriet, den 21. maj 2013
 
-Under Vor Kongelige Hånd og Segl
+P.M.V. Jesper Zwisler
 
-MARGRETHE R.
-
-/ Karen Ellemann
+/ Dorte Bech Vizard
