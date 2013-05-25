@@ -1,0 +1,1 @@
+§ 71 a. Der må ikke som led i handel med et apoteksforbeholdt lægemiddel, jf. § 60, stk. 1, udbetales bonus eller ydes anden økonomisk fordel til brugeren af lægemidlet. Dog må der ved salg af apoteksforbeholdte lægemidler til sygehuse udbetales bonus til sygehusejeren.
