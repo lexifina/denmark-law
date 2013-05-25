@@ -1,7 +1,5 @@
-Givet på Christiansborg Slot, den 12. december 2005
+Ministeriet for Sundhed og Forebyggelse, den 20. april 2013
 
-Under Vor Kongelige Hånd og Segl
+Astrid Krag
 
-MARGRETHE R.
-
-/Lars Løkke Rasmussen
+/ Nina Moss
