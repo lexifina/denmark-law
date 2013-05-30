@@ -1,9 +1,5 @@
-Givet på Amalienborg, den 26. juni 1975.
+Ministeriet for Forskning, Innovation og Videregående Uddannelser, den 28. maj 2013
 
-Under Vor Kongelige Hånd og Segl.
+Morten Østergaard
 
-MARGRETHE R.
-
-Ritt Bjerregaard.
-
-Ingen
+/ Jesper Schaumburg-Müller
