@@ -1,7 +1,5 @@
-Givet på Christiansborg Slot, den 20. december 2000
+Ministeriet for Forskning, Innovation og Videregående Uddannelser, den 28. maj 2013
 
-Under Vor Kongelige Hånd og Segl
+Morten Østergaard
 
-Margrethe R.
-
-/Birte Weiss
+/ Jesper Schaumburg-Müller
