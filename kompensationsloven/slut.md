@@ -1,7 +1,5 @@
-Givet på Christiansborg Slot, den 12. juni 2009
+Skatteministeriet, den 23. maj 2013
 
-Under Vor Kongelige Hånd og Segl
+P.M.V. Jens Brøchner
 
-MARGRETHE R.
-
-/ Kristian Jensen
+/ Søren Schou
