@@ -1,5 +1,5 @@
-Undervisningsministeriet, den 1. marts 2007
+Ministeriet for Forskning, Innovation og Videregående Uddannelser, den 28. maj 2013
 
-Bertel Haarder
+Morten Østergaard
 
-/Hanna Dam
+/ Jesper Schaumburg-Müller
