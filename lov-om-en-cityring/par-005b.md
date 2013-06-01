@@ -1,0 +1,1 @@
+§ 5 b. Metroselskabet I/S forestår projektering, anlæg og drift af afgreningen fra Cityringen til Nordhavnen. Driften af afgreningen til Nordhavnen foregår som en integreret del af driften på den øvrige Cityring.
