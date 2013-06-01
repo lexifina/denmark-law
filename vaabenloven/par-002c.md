@@ -1,4 +1,4 @@
-§ 2 c. Justitsministeren kan fastsætte regler om, at skytteforeninger under De Danske Skytteforeninger, skytteforeninger under Forbundet af Danske Sortkrudtsskytteforeninger, skytteforeninger under Dansk Skytte Union og skytteforeninger under Dansk Firmaidrætsforbund kan give våbenpåtegning på foreningens medlemsbeviser til skydevåben, der er optaget på Skytteforeningernes, Unionens eller Firmaidrætsforbundets skydeprogrammer.
+§ 2 c. Justitsministeren kan fastsætte regler om, at skytteforeninger under nærmere angivne organisationer kan give våbenpåtegning på foreningens medlemsbeviser til skydevåben, der er optaget på organisationernes skydeprogrammer.
 
 Stk. 2. Medlemmer af skytteforeninger, der har våbenpåtegning på medlemsbeviset efter stk. 1, kan uanset forbuddet i § 2, stk. 1, til eget brug erhverve, besidde, bære og anvende de skydevåben, der er nævnt i våbenpåtegningen, samt piber og låsestole til de nævnte skydevåben og ammunition samt aftagelige magasiner dertil.
 
