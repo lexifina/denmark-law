@@ -1,0 +1,1 @@
+§ 42 a. Vandløbsmyndighedens udgifter efter § 42 og udgifter i forbindelse med administration af offentlige pumpelag betales af bidragyderne til laget. Ved fordeling af udgifterne finder § 24, stk. 1 og 3, tilsvarende anvendelse.
