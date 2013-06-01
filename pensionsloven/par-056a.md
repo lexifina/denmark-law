@@ -2,7 +2,7 @@
 
 ## Administration mv.
 
-§ 56 a. Udbetaling Danmark varetager opgaverne vedrørende folkepension, varmetillæg, petroleumstillæg, opsat pension, supplerende pensionsydelse og øvrige tillæg efter kapitel 11. Desuden varetager Udbetaling Danmark alle opgaver vedrørende beregning og udbetaling af førtidspension.
+§ 56 a. Udbetaling Danmark varetager opgaverne vedrørende folkepension, varmetillæg, petroleumstillæg, opsat pension, supplerende pensionsydelse og øvrige tillæg efter kapitel 11. Udbetaling Danmark varetager endvidere opgaver om retten til at medtage en tilkendt folkepension eller førtidspension ved fast bopæl i udlandet og opgaver om retten til at modtage folkepension ved fast bopæl i udlandet. Desuden varetager Udbetaling Danmark alle opgaver vedrørende beregning og udbetaling af førtidspension.
 
 Stk. 2. Udbetaling Danmark træffer afgørelse om størrelsen af den personlige tillægsprocent og den likvide formue.
 
