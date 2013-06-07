@@ -1,1 +1,1 @@
-§ 48 A. (Ophævet)
+§ 48 A. (Ophævet).
