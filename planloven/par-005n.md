@@ -1,6 +1,6 @@
 § 5 n. Uden for bymidter og bydelscentre kan der
 
-1) udlægges arealer til butiksformål i et lokalcenter, som alene betjener en begrænset del af en by eller en bydel, en landsby, et sommerhusområde el. lign.,
+1) udlægges arealer til butiksformål i et lokalcenter, som alene betjener en begrænset del af en by eller en bydel, en landsby, et sommerhusområde el. lign. ,
 
 2) placeres enkeltstående butikker, der alene tjener til lokalområdets daglige forsyning,
 

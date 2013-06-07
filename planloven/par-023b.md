@@ -1,1 +1,1 @@
-§ 23 b. Når der er foretaget offentlig bekendtgørelse efter § 23 a, stk. 6, kan kommunalbestyrelsen udarbejde sådanne forslag til kommuneplan eller ændringer hertil, der er truffet beslutning om i strategien.
+§ 23 b. Når der er foretaget offentlig bekendtgørelse efter § 23 a, stk. 7, kan kommunalbestyrelsen udarbejde sådanne forslag til kommuneplan eller ændringer hertil, der er truffet beslutning om i strategien.

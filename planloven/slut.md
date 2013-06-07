@@ -1,7 +1,11 @@
-Miljøministeriet, den 24. september 2009
+Naturstyrelsen, den 27. maj 2013
 
-Troels Lund Poulsen
+Helle Pilsgaard
 
-/ Niels Christensen
+/ Oluf Engberg
 
 Bilag 1
+
+Bilag 2
+
+(Ophævet)
