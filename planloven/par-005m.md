@@ -7,3 +7,5 @@ Stk. 3. Den eksisterende afgrænsning af bymidter og bydelscentre i kommuneplane
 Stk. 4. For hovedstadsområdet fastlægger miljøministeren efter § 3, stk. 1, beliggenheden af bymidter, bydelscentre og aflastningsområder, herunder bymidter og aflastningsområder, hvori der kan etableres store butikker, jf. § 5 q, stk. 2. I det indre storbyområde i hovedstadsområdet, jf. § 5 j, stk. 2, kan der udlægges mere end én bymidte.
 
 Stk. 5. For Århus fastlægger miljøministeren efter § 3, stk. 1, beliggenheden af aflastningsområder, hvori der kan etableres store butikker, jf. § 5 q, stk. 2.
+
+Stk. 6. (Ophævet)

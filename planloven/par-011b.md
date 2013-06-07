@@ -12,7 +12,7 @@
 
 6) forsyningen med offentlig og privat service,
 
-7) områder til butiksformål, herunder rammer for det maksimale bruttoetageareal for nybyggeri og omdannelse af eksisterende bebyggelse til butiksformål, for maksimale bruttoetagearealer for de enkelte butikker og for antallet og placeringen af udvalgsvarebutikker omfattet af § 5 q, stk. 2,
+7) områder til butiksformål, herunder rammer for det maksimale bruttoetageareal for nybyggeri og omdannelse af eksisterende bebyggelse til butiksformål, for maksimale bruttoetagearealer for de enkelte butikker og for antallet og placeringen af udvalgsvarebutikker omfattet af § 5 q, stk. 2.
 
 8) institutioner og tekniske anlæg, herunder varmeforsyningsforhold,
 

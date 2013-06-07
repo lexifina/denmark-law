@@ -1,1 +1,1 @@
-§ 6 d. (Ophævet).
+§ 6 d. (Ophævet)

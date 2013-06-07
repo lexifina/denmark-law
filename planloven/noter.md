@@ -1,8 +1,8 @@
-1) Loven indeholder bestemmelser, der gennemfører dele af Rådets direktiv 79/409/EØF af 2. april 1979 om beskyttelse af vilde fugle (EF-fuglebeskyttelsesdirektivet), (EF-Tidende 1979 nr. L 103, side 1), som ændret senest ved Rådets direktiv 2006/105/EF af 20. november 2006, (EU-Tidende 2006 nr. L 363, side 368), dele af Rådets direktiv nr. 85/337/EØF af 27. juni 1985 om vurdering af visse offentlige og private projekters indvirkning på miljøet (VVM-direktivet), (EF-Tidende 1985 nr. L 175, side 40), som ændret senest ved Rådets og Europa-Parlamentets direktiv nr. 2003/35/EF om mulighed for deltagelse i forbindelse med udarbejdelse af visse planer og programmer på miljøområdet og om ændring af Rådets direktiv 85/337/EØF og 96/61/EF, for så vidt angår offentlig deltagelse og adgang til klage og domstolsprøvelse og dele af Rådets direktiv 92/43/EØF af 21. maj 1992 om bevaring af naturtyper samt vilde dyr og planter (EF-habitatdirektivet), (EF-Tidende 1992 nr. L 206, side 7), som ændret senest ved Rådets direktiv 2006/105/EF af 20. november 2006, (EU-Tidende 2006 nr. L 363, side 368).
+1) Loven indeholder bestemmelser, der gennemfører dele af Rådets direktiv 85/337/EØF af 27. juni 1985 om vurdering af visse offentlige og private projekters indvirkning på miljøet (VVM-direktivet), EF-Tidende 1985, nr. L 175, side 40, som ændret senest ved Rådets og Europa-Parlamentets direktiv 2003/35/EF om mulighed for deltagelse i forbindelse med udarbejdelse af visse planer og programmer på miljøområdet og om ændring af Rådets direktiv 85/337/EØF og 96/61/EF for så vidt angår offentlig deltagelse og adgang til klage og domstolsprøvelse, dele af Rådets direktiv 92/43/EØF af 21. maj 1992 om bevaring af naturtyper samt vilde dyr og planter (EF-habitatdirektivet), EF-Tidende 1992, nr. L 206, side 7, som ændret senest ved Rådets direktiv 2006/105/EF af 20. november 2006, EU-Tidende 2006, nr. L 363, side 368, og dele af Europa-Parlamentets og Rådets direktiv 2009/147/EF af 30. november 2009 om beskyttelse af vilde fugle, EU-Tidende 2009, nr. L 20, side 7.
 
 2) Der henvises til note 3.
 
-3) Bekendtgørelse nr. 182 af 20. februar 2008. (I medfør af § 2, 2.pkt., i lov nr. 537 af 6. juni 2007 om ændring af lov om planlægning (Bypolitik m.v.) bestemmes, at § 15, stk. 2, nr. 25, i lov om planlægning, som affattet ved ændringslovens § 1, nr. 14, træder i kraft den 17. marts 2008.).
+3) Bekendtgørelse nr. 182 af 20. februar 2008. (I medfør af § 2, 2. pkt., i lov nr. 537 af 6. juni 2007 om ændring af lov om planlægning (Bypolitik m.v.) bestemmes, at § 15, stk. 2, nr. 25, i lov om planlægning, som affattet ved ændringslovens § 1, nr. 14, træder i kraft den 17. marts 2008. ).
 
 4) Ophævelsen af Tilbudspligtnævnet er trådt i kraft den 15. december 1992, jf. Miljøministeriets bekendtgørelse nr. 947 af 3. december 1992.
 
@@ -34,8 +34,14 @@
 
 18) Loven er bekendtgjort i Lovtidende den 7. juni 2005.
 
-19) Iht. bekendtgørelse nr. 531 af 8. juni 2006 trådte loven i kraft den 15. juni 2006.
+19) I henhold til bekendtgørelse nr. 531 af 8. juni 2006 trådte loven i kraft den 15. juni 2006.
 
-20) Bekendtgørelse nr. 840 af 31. august 2009. (I medfør af § 13, stk. 6, i lov nr. 539 af 8. juni 2006 om ændring af lov om tinglysning og forskellige andre love (Digital tinglysning) bestemmes, at lovens § 12, nr. 1 og 3, træder i kraft den 8. september 2009).
+20) Bekendtgørelse nr. 840 af 31. august 2009. (I medfør af § 13, stk. 6, i lov nr. 539 af 8. juni 2006 om ændring af lov om tinglysning og forskellige andre love (Digital tinglysning) bestemmes, at lovens § 12, nr. 1 og 3, træder i kraft i følge bekendtgørelse nr. 840 af 31. august 2009.
 
 21) Bekendtgørelse nr. 182 af 20. februar 2008. (I medfør af § 2, 2.pkt., i lov nr. 537 af 6. juni 2007 om ændring af lov om planlægning (Bypolitik m.v.) bestemmes, at § 15, stk. 2, nr. 25, i lov om planlægning, som affattet ved ændringslovens § 1, nr. 14, træder i kraft den 17. marts 2008).
+
+22) Loven indeholder bestemmelser, der gennemfører dele af Europa-Parlamentets og Rådets direktiv 2007/60/EF af 23. oktober 2007 om vurdering og styring af risikoen for oversvømmelser, EU-Tidende 2007 nr. L 288, s. 27, dele af Rådets direktiv 92/43/EØF af 21. maj 1992 om bevaring af naturtyper samt vilde dyr og planter (EF-habitatdirektivet), EF-Tidende 1992 nr. L 206, side 7, som senest ændret ved Rådets direktiv 2006/105/EF af 20. november 2006, EU-Tidende nr. L 363, side 368, og dele af Rådets direktiv 79/409/EØF af 2. april 1979 om beskyttelse af vilde fugle (EF-fuglebeskyttelsesdirektivet), EF-Tidende 1979 nr. L 103, side 1, som senest ændret ved Rådets direktiv 2006/105/EF af 20. november 2006, EU-Tidende 2006 nr. L 363, side 368.
+
+23) Lov nr. 1608 af 22. december 2010 trådte i kraft den 1. januar 2011, jf. lovens § 3, stk. 1.
+
+24) Loven indeholder bestemmelser, der gennemfører dele af Europa-Parlamentets og Rådets direktiv 2000/60/EF af 23. oktober 2000 om fastlæggelse af en ramme for Fællesskabets vandpolitiske foranstaltninger (vandrammedirektivet), EF-Tidende 2000, nr. L 327, side 1.
