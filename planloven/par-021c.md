@@ -1,0 +1,1 @@
+§ 21 c. På opfordring fra en grundejer kan kommunalbestyrelsen indgå aftale med grundejeren om, at omkostningerne til udarbejdelse af kommuneplantillæg og lokalplan for udbygningsaftaler, jf. § 21 b, stk. 1-3, afholdes af grundejeren. § 21 b, stk. 4 og 5, finder tilsvarende anvendelse.
