@@ -2,4 +2,4 @@
 
 ## Klagebestemmelser
 
-§ 61 A. (Ophævet)
+§ 61 A. (Ophævet).

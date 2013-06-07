@@ -1,1 +1,1 @@
-§ 21 B. (Ophævet)
+§ 21 B. (Ophævet).
