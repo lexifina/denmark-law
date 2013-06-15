@@ -1,6 +1,6 @@
 § 8 P. Fysiske personer, der ejer vedvarende energi-anlæg eller andele i vedvarende energi-anlæg omfattet af § 2, stk. 2 eller 3, i lov om fremme af vedvarende energi, kan ved opgørelsen af den skattepligtige indkomst vælge at medregne indkomst ved driften af energi-anlægget efter reglerne i stk. 2 og 3. Valget har virkning for alle vedvarende energi-anlæg eller andele i vedvarende energi-anlæg, som den fysiske person ejer og efterfølgende erhverver, og er bindende til og med det indkomstår, hvor det sidste anlæg eller de sidste andele afstås. Ejere af vedvarende energi-anlæg, der for indkomståret 2012 ved indkomstopgørelsen har valgt ikke at anvende reglerne i stk. 2 og 3, kan ikke i senere indkomstår vælge at opgøre den skattepligtige indkomst efter stk. 2 og 3. For ejere af vedvarende energi-anlæg, hvor der senest den 19. november 2012 er indgået bindende aftale om køb af et vedvarende energi-anlæg, og hvor anlægget er nettilsluttet i indkomståret 2013 eller i indkomståret 2014, er valget ved opgørelsen af den skattepligtige indkomst for indkomståret 2013 henholdsvis indkomståret 2014 dog afgørende. Kravet i 2. pkt. om, at valget skal omfatte alle vedvarende energi-anlæg og andele i vedvarende energi-anlæg, omfatter ikke vedvarende energi-anlæg, hvor der den 20. november 2012 eller senere er indgået bindende aftale om køb af anlægget, og hvor ejeren senest den 19. november 2012 indgik bindende aftale om køb af et andet vedvarende energi-anlæg og for dette anlæg har valgt ikke at anvende stk. 2 og 3.
 
-Stk. 2. Af den del af bruttoindkomsten ved driften af det vedvarende energi-anlæg, der for hver ejer overstiger 7.000 kr., medregnes 60 pct. til den skattepligtige indkomst.
+Stk. 2. Af den del af bruttoindkomsten ved driften af det vedvarende energi-anlæg for hver ejer, der overstiger 7.000 kr., medregnes 60 pct. til den skattepligtige indkomst.
 
 Stk. 3. Såfremt bruttoindkomsten ved driften af det vedvarende energi-anlæg medregnes til den skattepligtige indkomst efter reglen i stk. 2, kan der ikke foretages fradrag for udgifter forbundet med driften af det vedvarende energi-anlæg, herunder afskrivninger.
 
@@ -10,7 +10,7 @@ Stk. 5. Bestemmelserne i stk. 1-4 omfatter:
 
 1) Vedvarende energi-anlæg, der er knyttet til en husstand, og som ikke har et erhvervsmæssigt formål, og
 
-2) vedvarende energi-anlæg og andele i vedvarende energi-anlæg, hvor anlægget eller andelenes udbudspris er fastsat efter de samme principper som udbudsprisen for vindmølleandele i § 14, stk. 3, i lov om fremme af vedvarende energi.
+2) vedvarende energi-anlæg og andele i vedvarende energi-anlæg, hvor anlægget eller andelenes udbudspris er fastsat efter de samme principper som udbudsprisen for vindmølleandele i § 14, stk. 4, i lov om fremme af vedvarende energi.
 
 Stk. 6. Ved overdragelse af vedvarende energi-anlæg eller andele i sådanne anlæg, hvor indkomsten inden overdragelsen blev beskattet efter stk. 2, skal der dog ikke fastsættes nogen udbudspris efter stk. 5, nr. 2.
 
