@@ -1,8 +1,8 @@
-Miljøministeriet, den 24. september 2009
+Naturstyrelsen, den 14. juni 2013
 
-Troels Lund Poulsen
+Helle Pilsgaard
 
-/ Hans Henrik Christensen
+/ Oluf Engberg
 
 Bilag 1
 
@@ -14,7 +14,9 @@ Aktiviteter, som skal anmeldes efter § 17
 
 3) Fremme af nåletræer i løvskov.
 
-4) Nyetablering af intensiv produktion af pyntegrønt, juletræer m.v., som forudsætter brug af hjælpestoffer (gødning og pesticider).
+4) Nyetablering af intensiv produktion af pyntegrønt, juletræer m.v., som
+
+4) forudsætter brug af hjælpestoffer (gødning og pesticider).
 
 5) Opførelse af anlæg, der er nødvendige for erhvervet, f.eks. driftsbygninger (herunder boliger, skovveje, læggepladser m.v.)
 
