@@ -63,3 +63,9 @@ Lov nr. 160 af 28. februar 2012 indeholder følgende ikrafttrædelsesbestemmelse
 § 2
 
 Loven træder i kraft den 1. april 2012.
+
+Lov nr. 1392 af 23. december 2012 indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 6
+
+Loven træder i kraft den 1. januar 2013.

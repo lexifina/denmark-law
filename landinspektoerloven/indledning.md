@@ -1,3 +1,3 @@
 Bekendtgørelse af lov om landinspektørvirksomhed
 
-Herved bekendtgøres lov om landinspektørvirksomhed, jf. lovbekendtgørelse nr. 439 af 9. maj 2011, med de ændringer, der følger af § 1 i lov nr. 160 af 28. februar 2012.
+Herved bekendtgøres lov om landinspektørvirksomhed, jf. lovbekendtgørelse nr. 400 af 3. maj 2012, med de ændringer, der følger af § 3 i lov nr. 1392 af 23. december 2012.

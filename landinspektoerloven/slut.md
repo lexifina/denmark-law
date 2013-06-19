@@ -1,5 +1,5 @@
-Miljøministeriet, den 3. maj 2012
+Geodatastyrelsen, den 17. juni 2013
 
-Ida Auken
+Kristian Møller
 
-/ Søren Christensen
+/ Pia Dahl Højgaard
