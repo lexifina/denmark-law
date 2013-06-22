@@ -1,4 +1,4 @@
-Erhvervs- og Vækstministeriet, den 17. januar 2013
+Erhvervs- og Vækstministeriet, den 18. juni 2013
 
 Annette Vilhelmsen
 
