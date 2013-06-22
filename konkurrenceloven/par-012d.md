@@ -1,4 +1,4 @@
-§ 12 d. Senest 25 hverdage efter modtagelsen af en fuldstændig anmeldelse træffes beslutning om, hvorvidt fusionen kan godkendes, herunder om fusionen kan godkendes efter en forenklet sagsbehandling. Inden for samme frist kan der træffes beslutning om en særskilt undersøgelse af fusionen.
+§ 12 d. Senest 25 hverdage efter modtagelsen af en fuldstændig anmeldelse, jf. dog § 12 h, stk. 5, 3. pkt., træffes beslutning om, hvorvidt fusionen kan godkendes, herunder om fusionen kan godkendes efter en forenklet sagsbehandling. Inden for samme frist kan der træffes beslutning om en særskilt undersøgelse af fusionen.
 
 Stk. 2. Indledes en særskilt undersøgelse af en fusion, jf. stk. 1, 2. pkt., træffes beslutning om godkendelse af eller forbud mod fusionen senest 90 hverdage efter udløbet af den i stk. 1 nævnte frist.
 
@@ -9,3 +9,5 @@ Stk. 4. Fristen i stk. 2 kan tillige forlænges efter beslutning fra Konkurrence
 Stk. 5. Er der ikke truffet afgørelse inden for de frister, der følger af stk. 1-4, betragtes dette som en afgørelse om godkendelse af fusionen, jf. dog stk. 6.
 
 Stk. 6. Klager en deltagende virksomhed til Konkurrenceankenævnet over sagsbehandlingen i en fusionssag, hvori der endnu ikke er truffet afgørelse efter § 12 c, stk. 1 eller 3, afbrydes fristerne i stk. 1-4, indtil ankenævnet har truffet afgørelse i klagesagen.
+
+Stk. 7. Klager en deltagende virksomhed til Konkurrenceankenævnet over, at der skal indgives en almindelig anmeldelse, jf. § 12 h, stk. 4, afbrydes fristerne i stk. 1-4, indtil ankenævnet har truffet afgørelse i klagesagen.
