@@ -6,7 +6,7 @@ Loven træder i kraft den 1. april 1997.
 
 Lov nr. 442 af 9. juni 2004 om retssikkerhed ved forvaltningens anvendelse af tvangsindgreb og oplysningspligter, som ændrer § 50, indeholder følgende ikrafttrædelsesbestemmelse:
 
-Loven træder i kraft den 1. januar 2005.
+§ 24. Loven træder i kraft den 1. januar 2005.
 
 Lov nr. 431 af 6. juni 2005 om ændring af forskellige love (Forenkling, harmonisering og objektivering af reglerne for inddrivelse af gæld til det offentlige m.v. samt mulighed for anvendelse af digitale lønsedler), som ændrer § 57, indeholder følgende ikrafttrædelsesbestemmelse:
 
@@ -32,7 +32,7 @@ Stk. 1. Loven træder i kraft den 1. januar 2007, jf. dog stk. 2.
 
 Stk. 2. (Udeladt)
 
-Lov nr. 507 af 17. juni 2008 om ændring af lov om ændring af lov om miljøbeskyttelse og forskellige andre love (Implementering af miljøansvarsdirektivet), som ændrer §§ 48 og 54 og indsætter nyt kapitel 8 a (§§ 53 a- 53 k), indeholder følgende ikrafttrædelsesbestemmelse:
+Lov nr. 507 af 17. juni 2008 om ændring af lov om miljøbeskyttelse og forskellige andre love (Implementering af miljøansvarsdirektivet), som ændrer §§ 48 og 54 og indsætter nyt kapitel 8 a (§§ 53 a- 53 k), indeholder følgende ikrafttrædelsesbestemmelse:
 
 § 15
 
@@ -59,3 +59,41 @@ Lov nr. 514 af 12. juni 2009 om ændring af lov om naturbeskyttelse, lov om jagt
 § 13
 
 Loven træder i kraft den 1. oktober 2009.
+
+Lov nr. 1383 af 21. december 2009 om ændring af lov om miljøbeskyttelse og forskellige andre love (Implementering af servicedirektivet og anerkendelsesdirektivet på Miljøministeriets område) som indsætter § 52 a, indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 7
+
+Loven træder i kraft den 28. december 2009.
+
+Lov nr. 484 af 11. maj 2010 om ændring af lov om naturbeskyttelse, lov om miljøbeskyttelse og forskellige andre love (Ændringer som følge af lov om Natur- og Miljøklagenævnet m.v.), som ændret ved § 2 i lov nr. 1608 af 22. december 2010, der ophæver § 53 j, stk. 4 og 5, indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 28
+
+Stk. 1. Loven træder i kraft den 1. januar 2011, jf. dog stk. 2.
+
+Stk. 2-4. (Udeladt)
+
+Stk. 5. Verserende sager i Naturklagenævnet, der ikke er færdigbehandlet ved lovens ikrafttræden, færdigbehandles efter lov om Natur- og Miljøklagenævnet af Natur- og Miljøklagenævnet med den i § 5, stk. 1, nr. 2, i lov om Natur- og Miljøklagenævnet nævnte sammensætning. I sager, hvor Naturklagenævnet har afholdt besigtigelse i en sag om fredning efter naturbeskyttelseslovens kapitel 6, sammensættes Natur- og Miljøklagenævnet med deltagelse af de nævnsmedlemmer, der deltog i besigtigelsen.
+
+Stk. 6. (Udeladt)
+
+Stk. 7. Miljøministeren kan i øvrigt fastsætte overgangsregler.
+
+Lov nr. 1273 af 21. december 2012 om ændring af lov om miljøbeskyttelse, lov om planlægning og forskellige andre love (Digital annoncering, obligatorisk digital kommunikation, afskæring af klageadgang), der ændrer § 10, stk. 2, § 33, stk. 1 og stk. 3, § 43, stk. 2, indsætter § 52 c, og ændrer § 53 f, stk. 2 indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 20
+
+Loven træder i kraft den 1. januar 2012.
+
+Lov nr. 580 af 18. juni 2012 om ændring af lov om Natur- og Miljøklagenævnet og forskellige andre love (Reform af klagesystemet på natur- og miljøområdet m.v.), der ændrer § 53 j stk. 2, indsætter stk. 3, hvorved stk. 3 bliver til stk. 4, indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 28
+
+Stk. 1. Loven træder i kraft den 1. august 2012, jf. dog stk. 2.
+
+Stk. 2. (Udeladt)
+
+Stk. 3. Loven finder anvendelse på afgørelser truffet i 1. instans efter lovens ikrafttræden.
+
+Stk. 4. (Udeladt)
