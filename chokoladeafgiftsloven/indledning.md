@@ -1,9 +1,3 @@
-Bekendtgørelse af lov om afgift af chokolade- og sukkervarer m.m.
+Bekendtgørelse af lov om afgift af chokolade- og sukkervarer m.m. (chokoladeafgiftsloven)
 
-Herved bekendtgøres lov om afgift af chokolade- og sukkervarer m.m., jf. lovbekendtgørelse nr. 616 af 30. juni 1994 med de ændringer, der følger af § 10 i lov nr. 1098 af 29. december 1997 og § 2 i lov nr. 1107 af 29. december 1997.
-
-## Kapitel 1
-
-Afgift af chokolade- og sukkervarer
-
-Afgiftspligtigt vareområde
+Herved bekendtgøres lov om afgift af chokolade- og sukkervarer m.m. (chokoladeafgiftsloven), jf. lovbekendtgørelse nr. 567 af 3. august 1998 med de ændringer, der følger af § 3 i lov nr. 166 af 24. marts 1999, § 8 i lov nr. 380 af 2. juni 1999, § 13 i lov nr. 165 af 15. marts 2000, § 10 i lov nr. 1029 af 22. november 2000, § 4 i lov nr. 1057 af 17. december 2002, § 2 i lov nr. 1059 af 17. december 2002, § 5 i lov nr. 127 af 27. februar 2004, § 12 i lov nr. 325 af 18. maj 2005, § 13 i lov nr. 428 af 6. juni 2005, § 4 i lov nr. 408 af 8. maj 2006, § 3 i lov nr. 509 af 7. juni 2006, § 1 i lov nr. 1583 af 20. december 2006, § 77 i lov nr. 1336 af 19. december 2008, § 12 i lov nr. 1344 af 19. december 2008, § 1 i lov nr. 524 af 12. juni 2009, § 5 i lov nr. 1385 af 21. december 2009, § 1 i lov nr. 1383 af 28. december 2011, § 4 i lov nr. 924 af 18. september 2012 og § 6 i lov nr. 1354 af 21. december 2012.
