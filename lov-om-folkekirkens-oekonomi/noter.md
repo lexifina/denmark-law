@@ -7,3 +7,5 @@
 4) Ændringslovens § 1 vedrører § 19, stk. 1, 2. og 3. pkt., og § 20, stk. 2.
 
 5) Ændringslovens § 2 vedrører § 17 a, stk. 1, § 17 a, stk. 2, 1. pkt., § 17 a, stk. 3-5, § 17 e, stk. 1, 2. pkt.
+
+6) Ændringslovens § 14 vedrører § 9 a, § 10, 2. pkt., § 17, stk. 3, § 19, stk. 1, 1. pkt., § 21, stk. 2, 2. pkt., og § 21, stk. 3.

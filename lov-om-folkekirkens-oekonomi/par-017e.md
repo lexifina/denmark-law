@@ -3,3 +3,5 @@
 Stk. 2. En af provsterne udpeges som forretningsfører og drager omsorg for udførelsen af udvalgets beslutninger.
 
 Stk. 3. Det fælles provstiudvalg varetager samtlige opgaver, der er henlagt til provstiudvalg.
+
+§ 17 f. Ministeren for ligestilling og kirke kan fastsætte nærmere regler om valg til provstiudvalg, budgetudvalgets sammensætning samt om provstiudvalgets og budgetudvalgets virksomhed.
