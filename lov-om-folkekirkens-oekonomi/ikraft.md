@@ -10,7 +10,7 @@ Stk. 3. Lov om folkekirkens økonomi § 23, stk. 1-3, som affattet ved denne lov
 
 Stk. 4. (Udelades).
 
-Lov nr. 506 af 12. juni 2009, som ændret ved lov nr. 1393 af 23. december 2012, indeholder følgende ikrafttrædelsesbestemmelser m.v.:
+Lov nr. 506 af 12. juni 2009, som ændret ved lov nr. 1393 af 23. december 2012, indeholder følgende ikrafttrædelsesbestemmelser m.v.
 
 § 2
 
@@ -47,3 +47,31 @@ Stk. 2. Funktionsperioden for de provstiudvalg, som efter de gældende regler l�
 § 4
 
 Loven gælder ikke for Færøerne og Grønland.
+
+Lov nr. 647 af 12. juni 2013 indeholder følgende ikrafttrædelsesbestemmelser m.v.:
+
+§ 25
+
+Loven træder i kraft den 1. juli 2013.
+
+§ 26
+
+Stk. 1. (Udelades)
+
+Stk. 2. (Udelades)
+
+Stk. 3. (Udelades)
+
+Stk. 4. (Udelades)
+
+Stk. 5. (Udelades)
+
+§ 27
+
+Stk. 1. Loven gælder ikke for Færøerne og Grønland, jf. dog stk. 2-4.
+
+Stk. 2. (Udelades)
+
+Stk. 3. (Udelades)
+
+Stk. 4. (Udelades)

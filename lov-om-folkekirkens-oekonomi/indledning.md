@@ -1,3 +1,3 @@
 Bekendtgørelse af lov om folkekirkens økonomi
 
-Herved bekendtgøres lov om folkekirkens økonomi, jf. lovbekendtgørelse nr. 782 af 6. juli 2012, med de ændringer, der følger af § 2 i lov nr. 1250 af 18. december 2012.
+Herved bekendtgøres lov om folkekirkens økonomi, jf. lovbekendtgørelse nr. 298 af 14. marts 2013, med de ændringer, der følger af § 14 i lov nr. 647 af 12. juni 2013.
