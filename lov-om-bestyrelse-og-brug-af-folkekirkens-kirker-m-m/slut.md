@@ -1,5 +1,5 @@
-Kirkeministeriet, den 27. maj 2010
+Ministeriet for Ligestilling og Kirke, den 24. juni 2013
 
-Birthe Rønn Hornbech
+Manu Sareen
 
-/ Eva Stilov
+/ Christina Hyldgaard Jacobsen
