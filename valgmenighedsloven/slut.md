@@ -1,9 +1,5 @@
-Givet på Christiansborg slot, den 24. maj 1972.
+Ministeriet for Ligestilling og Kirke, den 24. juni 2013
 
-Under vor Kongelige Hånd og Segl.
+Manu Sareen
 
-MARGRETHE R.
-
-Dorte Bennedsen.
-
-Ingen
+/ Christina Hyldgaard Jacobsen
