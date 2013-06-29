@@ -1,3 +1,3 @@
-Lov om valgmenigheder. (Valgmenighedsloven)
+Bekendtgørelse af lov om valgmenigheder (Valgmenighedsloven)
 
-VI MARGRETHE DEN ANDEN, af Guds Nåde Danmarks Dronning, gør vitterligt: Folketinget har vedtaget og Vi ved Vort samtykke stadfæstet følgende lov:
+Herved bekendtgøres lov nr. nr. 204 af 24. maj 1972 om valgmenigheder (Valgmenighedsloven) med de ændringer, der følger af § 3 i lov nr. 347 af 3. april 2013.
