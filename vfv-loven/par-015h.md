@@ -1,9 +1,5 @@
-§ 15 h. Godkendte udbud af uddannelser skal løbende akkrediteres efter en plan fastsat af undervisningsministeren.
+§ 15 h. En udbudsgodkendelse kan bortfalde, hvis uddannelses- og forskningsministeren finder, at der ikke længere er behov for, at uddannelsen udbydes af institutionen, eller hvis institutionen ikke overholder reglerne om uddannelsen eller påbud fra uddannelses- og forskningsministeren om at gennemføre konkrete foranstaltninger med henblik på overholdelse af de regler, der påhviler institutionen efter loven.
 
-Stk. 2. En udbudsgodkendelse bortfalder, såfremt udbuddet på baggrund af en akkreditering foretaget i medfør af stk. 1 ikke har opnået en positiv akkreditering eller betinget positiv akkreditering.
+Stk. 2. Uddannelses- og forskningsministeren kan pålægge en institution, der ophører med at udbyde en uddannelse, at afslutte igangværende uddannelsesforløb efter en plan godkendt af uddannelses- og forskningsministeren.
 
-Stk. 3. En udbudsgodkendelse kan endvidere bortfalde, hvis undervisningsministeren finder, at der ikke længere er behov for, at uddannelsen udbydes af institutionen, eller hvis institutionen ikke overholder reglerne om uddannelsen eller påbud fra undervisningsministeren om at gennemføre konkrete foranstaltninger med henblik på overholdelse af de regler, der påhviler institutionen efter loven.
-
-Stk. 4. Undervisningsministeren kan pålægge en institution, der ophører med at udbyde en uddannelse, at afslutte igangværende uddannelsesforløb efter en plan godkendt af undervisningsministeren.
-
-Stk. 5. Undervisningsministeren kan pålægge en institution at optage studerende, der ikke kan færdiggøre deres uddannelse som følge af, at den institution, som de studerende er optaget på, ophører eller er ophørt med at udbyde den pågældende uddannelse. Det er en betingelse, for at give påbud efter stk. 1, at institutionen er godkendt til at udbyde uddannelsen.
+Stk. 3. Uddannelses- og forskningsministeren kan pålægge en institution at optage studerende, der ikke kan færdiggøre deres uddannelse som følge af, at den institution, som de studerende er optaget på, ophører eller er ophørt med at udbyde den pågældende uddannelse. Det er en betingelse, for at give påbud efter 1. pkt., at institutionen er godkendt til at udbyde uddannelsen.
