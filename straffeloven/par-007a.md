@@ -8,7 +8,7 @@ Stk. 2. Dansk straffemyndighed efter stk. 1 er betinget af, at handlingen omfatt
 
 3) en almenfarlig forbrydelse,
 
-4) en forbrydelse mod kønssædeligheden eller incest eller
+4) en seksualforbrydelse eller incest eller
 
 5) kvindelig omskæring.
 

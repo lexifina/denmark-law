@@ -1,0 +1,1 @@
+§ 233 a. Den, der ved retsstridig fremkaldelse, bestyrkelse eller udnyttelse af en vildfarelse eller ved anden utilbørlig fremgangsmåde formår en anden til mod betaling eller løfte om betaling at have seksuelt forhold til en kunde, straffes med bøde eller fængsel indtil 2 år.
