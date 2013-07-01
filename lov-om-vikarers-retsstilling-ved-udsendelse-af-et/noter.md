@@ -1,0 +1,1 @@
+1) Loven indeholder bestemmelser, der gennemfører Europa-Parlamentets og Rådets direktiv 2008/104/EF af 19. november 2008 om vikararbejde, EU-Tidende 2008, nr. L 327, side 9. Endvidere udnyttes med loven artikel 3, stk. 9, og dele af Europa-Parlamentets og Rådets direktiv 96/71/EF af 16. december 1996 om udstationering af arbejdstagere som led i udveksling af tjenesteydelser.
