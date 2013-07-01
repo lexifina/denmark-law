@@ -4,9 +4,11 @@ Stk. 2. Der kan endvidere optages personfotografi af en udlænding,
 
 1) hvis dette skønnes hensigtsmæssigt med henblik på identifikation af den pågældende,
 
-2) hvis dette skønnes hensigtsmæssigt med henblik på udstedelse af identitetskort eller andet legitimationsdokument til den pågældende, eller
+2) hvis dette skønnes hensigtsmæssigt med henblik på udstedelse af identitetskort eller andet legitimationsdokument til den pågældende,
 
-3) hvis dette skønnes hensigtsmæssigt med henblik på udstedelse eller fremskaffelse af rejsedokument til den pågældende.
+3) hvis dette skønnes hensigtsmæssigt med henblik på udstedelse eller fremskaffelse af rejsedokument til den pågældende, eller
+
+4) hvis udlændingen er omfattet af § 58 g.
 
 Stk. 3. Personfotografi, der optages i medfør af stk. 1 eller 2, kan registreres i et særligt register, der føres af Rigspolitichefen. Politiet og Udlændingestyrelsen kan anvende registret i forbindelse med behandlingen af udlændingesager. Rigspolitichefen er dataansvarlig myndighed for registret.
 

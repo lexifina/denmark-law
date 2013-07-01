@@ -11,3 +11,7 @@ Stk. 5. Justitsministeren kan fastsætte regler om optagelse af personfotografi 
 Stk. 6. Bestemmelserne i Europa-Parlamentets og Rådets forordning om visuminformationssystemet (VIS) og udveksling af oplysninger mellem medlemsstaterne om visa til kortvarigt ophold (VIS-forordningen) med senere ændringer gælder her i landet.
 
 Stk. 7. Rådsafgørelsen om adgang til søgning i visuminformationssystemet (VIS) for de udpegede myndigheder i medlemsstaterne og for Europol med henblik på forebyggelse, afsløring og efterforskning af terrorhandlinger og andre alvorlige strafbare handlinger gælder her i landet.
+
+Stk. 8. Ved SIS II-forordningen forstås i denne lov forordning om oprettelse, drift og brug af anden generation af Schengeninformationssystemet (SIS II) med senere ændringer.
+
+Stk. 9. Ved SIS II forstås i denne lov anden generation af Schengeninformationssystemet.
