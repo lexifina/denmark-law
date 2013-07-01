@@ -2,6 +2,6 @@
 
 Stk. 2. Udlandsstipendiet til en hel uddannelse på kandidatniveau udgør den faktiske studieafgift, dog højst et beløb, der svarer til statstilskuddet eller bevillingen til danske uddannelsesinstitutioner for tilsvarende uddannelser.
 
-Stk. 3. Retten til udlandsstipendium til en hel uddannelse på kandidatniveau er betinget af, at den uddannelsessøgende ved begyndelsen af uddannelsen i udlandet har mindst fem klip eller slutlånsrater, jf. kapitel 5, til rådighed for hver uddannelsesperiode med udlandsstipendium, der svarer til 30 ECTS-point.
+Stk. 3. Retten til udlandsstipendium til en hel uddannelse på kandidatniveau af op til 2 års varighed er betinget af, at den uddannelsessøgende ved begyndelsen af uddannelsen i udlandet har mindst fem klip eller slutlånsrater, jf. kapitel 5, til rådighed for hver uddannelsesperiode, der svarer til 30 ECTS-point. Retten til udlandsstipendium til en hel uddannelse på kandidatniveau af mere end 2 års varighed er betinget af, at den uddannelsessøgende har mindst 20 klip eller slutlånsrater, jf. kapitel 5, til rådighed for uddannelsen.
 
-Stk. 4. Undervisningsministeren kan fastsætte nærmere regler om opgørelsen af den faktiske studieafgift og statstilskuddet eller bevillingen.
+Stk. 4. Ministeren for forskning, innovation og videregående uddannelser kan fastsætte nærmere regler om opgørelsen af den faktiske studieafgift og statstilskuddet eller bevillingen og kan herunder fastsætte regler om omregning af fremmed valuta til danske kroner.
