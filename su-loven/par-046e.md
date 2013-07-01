@@ -1,9 +1,15 @@
-§ 46 e. Udlandsstipendium tildeles foreløbigt, når den uddannelsessøgende opfylder betingelserne herfor.
+§ 46 e. Uddannelsessøgende, der har ret til udlandsstipendium, jf. § 46 c, stk. 1, og § 46 d, stk. 1, kan sammen med udlandsstipendiet efter ansøgning optage et udlandsstudielån som tilskud til betaling af studieafgiften til en uddannelsesinstitution i udlandet.
 
-Stk. 2. Den endelige tildeling af udlandsstipendium er betinget af, at studieafgiften er betalt til uddannelsesinstitutionen i udlandet.
+Stk. 2. Udlandsstudielånet udgør forskellen mellem den faktiske studieafgift, jf. regler fastsat i medfør af §§ 46 c og 46 d, og det beløb, der svarer til
 
-Stk. 3. For uddannelser på kandidatniveau og studieophold, der har længere varighed end 1 år, er den endelige tildeling af udlandsstipendium for det andet år af uddannelsesperioden tillige betinget af den uddannelsessøgendes studiemæssige fremdrift i udlandet.
+1) statstilskuddet eller bevillingen, som den danske uddannelsesinstitution modtager for den uddannelsessøgende, der er optaget på uddannelsen, jf. § 46 c, stk. 2, eller
 
-Stk. 4. Foreløbigt udlandsstipendium, der ikke kan tildeles endeligt, kræves tilbagebetalt efter § 31 og regler fastsat i medfør heraf.
+2) statstilskuddet eller bevillingen til danske uddannelsesinstitutioner for tilsvarende uddannelser, jf. § 46 d, stk. 2.
 
-Stk. 5. Undervisningsministeren kan fastsætte nærmere regler om betingelserne for den endelige tildeling af udlandsstipendium.
+Stk. 3. Det samlede udlandsstudielån kan højst udgøre 100.000 kr. (2013-niveau). Beløbet reguleres årligt efter § 12.
+
+Stk. 4. Den uddannelsessøgende skal angive, med hvilket beløb udlandsstudielånet skal optages.
+
+Stk. 5. Udlandsstudielånet forrentes og tilbagebetales efter §§ 33, 35 og 36 og regler fastsat i medfør heraf.
+
+Stk. 6. Ministeren for forskning, innovation og videregående uddannelser kan fastsætte nærmere regler for tildeling og udbetaling af udlandsstudielån.
