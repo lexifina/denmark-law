@@ -8,7 +8,7 @@
 
 3) den dømte på tidspunktet for fuldbyrdelsens iværksættelse eller under denne frihedsberøves af anden grund end til fuldbyrdelse af den fængselsstraf, tilladelsen vedrører, eller
 
-4) den dømte på tidspunktet for fuldbyrdelsens iværksættelse eller under denne ikke længere opfylder de i § 78 b, stk. 1, nr. 1, 2 og 4, nævnte betingelser.
+4) den dømte på tidspunktet for fuldbyrdelsens iværksættelse eller under denne ikke længere opfylder de i § 78 b, stk. 1, nr. 1-3, nævnte betingelser.
 
 Stk. 2. En tilladelse kan endvidere tilbagekaldes, hvis den dømte under fuldbyrdelsen overtræder et eller flere af de i § 78 c, stk. 1, nr. 1-8, nævnte vilkår. Det samme gælder, hvis den dømte overtræder et vilkår fastsat i medfør af § 78 c, stk. 2, eller hvis kriminalforsorgens tilsyn og kontrol med den dømte ikke kan gennemføres på grund af dennes adfærd.
 
