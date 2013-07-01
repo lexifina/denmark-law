@@ -12,9 +12,11 @@ Stk. 2. Der kan endvidere optages fingeraftryk af en udlænding,
 
 2) som ikke søger om opholdstilladelse efter § 7, stk. 1 og 2, og som skal afvises, udvises eller udrejse af landet, jf. § 30, stk. 1, såfremt der på baggrund af pågældendes dokumenter, ejendele, økonomiske midler og andre personlige forhold er bestemte grunde til at antage, at den pågældende vil indrejse på ny og ansøge om opholdstilladelse efter § 7, stk. 1 og 2,
 
-3) hvis dette skønnes hensigtsmæssigt med henblik på identifikation af den pågældende, eller
+3) hvis dette skønnes hensigtsmæssigt med henblik på identifikation af den pågældende,
 
-4) hvis dette skønnes hensigtsmæssigt med henblik på udstedelse eller fremskaffelse af rejsedokument til den pågældende.
+4) hvis dette skønnes hensigtsmæssigt med henblik på udstedelse eller fremskaffelse af rejsedokument til den pågældende, eller
+
+5) hvis udlændingen er omfattet af § 58 g.
 
 Stk. 3. Fingeraftryk, der optages i medfør af stk. 1 eller 2, kan registreres i et særligt edb-register, der føres af Rigspolitichefen. Politiet og Udlændingestyrelsen kan anvende registret i forbindelse med behandlingen af udlændingesager. Rigspolitichefen er dataansvarlig myndighed for registret.
 
