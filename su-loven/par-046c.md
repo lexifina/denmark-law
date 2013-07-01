@@ -2,4 +2,4 @@
 
 Stk. 2. Udlandsstipendiet udgør den faktiske studieafgift, dog højst et beløb, der svarer til statstilskuddet eller bevillingen, som den danske uddannelsesinstitution modtager for den uddannelsessøgende, der er optaget på uddannelsen.
 
-Stk. 3. Undervisningsministeren kan fastsætte nærmere regler om opgørelsen af den faktiske studieafgift og statstilskuddet eller bevillingen. Undervisningsministeren kan endvidere fastsætte regler om, at uddannelsesinstitutionen kan træffe den endelige administrative afgørelse om opgørelsen af udlandsstipendiets størrelse.
+Stk. 3. Ministeren for forskning, innovation og videregående uddannelser kan fastsætte nærmere regler om opgørelsen af den faktiske studieafgift og statstilskuddet eller bevillingen og kan herunder fastsætte regler om omregning af fremmed valuta til danske kroner. Ministeren for forskning, innovation og videregående uddannelser kan endvidere fastsætte regler om, at uddannelsesinstitutionen kan træffe den endelige administrative afgørelse om opgørelsen af udlandsstipendiets størrelse.
