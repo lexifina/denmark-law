@@ -268,26 +268,6 @@ Lov nr. 403 af 1. juni 2005 indeholder følgende bestemmelse:
 
 Loven træder i kraft den 1. juli 2005.
 
-Lov nr. 428 af 6. juni 2005 indeholder følgende bestemmelse:
-
-§ 125
-
-Stk. 1. Loven træder i kraft dagen efter bekendtgørelsen i Lovtidende. 2. pkt. (Udeladt)
-
-Stk. 2. Loven har virkning fra den 1. november 2005. 2. pkt. (Udeladt)
-
-Stk. 3. (Udeladt)
-
-Lov nr. 430 af 6. juni 2005 indeholder følgende bestemmelse:
-
-§ 70
-
-Stk. 1. Loven træder i kraft dagen efter bekendtgørelsen i Lovtidende.
-
-Stk. 2. Loven har virkning fra den 1. november 2005, jf. dog stk. 3.
-
-Stk. 3. (Udeladt)
-
 Lov nr. 431 af 6. juni 2005 indeholder følgende bestemmelse:
 
 § 85
@@ -303,12 +283,6 @@ Lov nr. 523 af 24. juni 2005 indeholder følgende bestemmelse:
 Stk. 1. Loven træder i kraft den 1. januar 2007.
 
 Stk. 2-6. (Udeladt)
-
-Lov nr. 542 af 24. juni 2005 indeholder følgende bestemmelse:
-
-§ 6. Loven træder i kraft den 1. januar 2007, jf. dog stk. 2.
-
-Stk. 2. § 5 træder i kraft den 1. juli 2005.
 
 Lov nr. 554 af 24. juni 2005 indeholder følgende bestemmelse:
 
@@ -346,7 +320,7 @@ Stk. 6. Udlændingelovens § 59 a, stk. 1, som ændret ved denne lovs § 1, nr. 
 
 Stk. 7. Regler om betaling for genudstedelse af opholdskort fastsat efter udlændingelovens § 44, stk. 3, som indsat ved denne lovs § 1, nr. 41, finder ikke anvendelse for udlændinge, der inden lovens ikrafttræden har anmodet om at få genudstedt opholdskort.
 
-Stk. 8. Ministeren for flygtninge, indvandrere og integration fastsætter tidspunktet for ikrafttræden af udlændingelovens § 2 a, stk. 3, som indsat ved denne lovs § 1, nr. 2, og udlændingelovens § 2 b, stk. 4, § 28, stk. 6, § 38, stk. 1-3, § 39, stk. 3, og § 59, stk. 1, nr. 1, som ændret ved denne lovs § 1, nr. 3, 18, 26-28, 30 og 49.
+Stk. 8. Ministeren for flygtninge, indvandrere og integration fastsætter tidspunktet for ikrafttræden af udlændingelovens § 2 a, stk. 3, som indsat ved denne lovs § 1, nr. 2, og udlændingelovens § 2 b, stk. 4, § 28, stk. 6, § 38, stk. 1-3, § 39, stk. 3, og § 59, stk. 1, nr. 1, som ændret ved denne lovs § 1, nr. 3, 18, 26-28, 30 og 490.
 
 Lov nr. 429 af 10. maj 2006 indeholder følgende bestemmelse:
 
@@ -404,7 +378,7 @@ Lov nr. 504 af 6. juni 2007 indeholder følgende bestemmelse:
 
 Stk. 1. Loven træder i kraft den 1. august 2007.
 
-Stk. 2. (Udeladt).
+Stk. 2. (Udeladt)
 
 Lov nr. 505 af 6. juni 2007 indeholder følgende bestemmelse:
 
@@ -472,13 +446,13 @@ Lov nr. 1397 af 27. december 2008 indeholder følgende bestemmelse:
 
 Loven træder i kraft dagen efter bekendtgørelsen i Lovtidende.
 
-Lov nr. 1398 af 27. december 2008 indeholder følgende bestemmelse:
+Lov nr. 1398 af 27. december 2008, som ændret ved § 2, nr. 2, i lov nr. 1511 af 27. december 2009, indeholder følgende bestemmelse:
 
 § 3
 
 Stk. 1. Loven træder i kraft den 1. marts 2009, jf. dog stk. 2.
 
-Stk. 2. Integrationsministeren fastsætter tidspunktet for ikrafttræden af udlændingelovens § 2 a, stk. 4-9, § 10, stk. 2, nr. 4, § 19, stk. 3, § 19, stk. 8, § 28, stk. 1, nr. 6, § 40 a, stk. 2, § 40 b, stk. 2, og § 58 g, stk. 2, som affattet ved lovens § 2, nr. 1, 4, 5-7, 9-11, 13-15 og 20.
+Stk. 2. Integrationsministeren fastsætter tidspunktet for ikrafttræden af udlændingelovens § 10, stk. 2, nr. 4, § 19, stk. 3, § 19, stk. 8, § 28, stk. 1, nr. 6, § 40 a, stk. 2, § 40 b, stk. 2, og § 58 g, stk. 2, som affattet ved lovens § 2, nr. 4-7, 9-11, 13-15 og 20.
 
 Lov nr. 313 af 28. april 2009 indeholder følgende bestemmelse:
 
@@ -547,6 +521,8 @@ Lov nr. 571 af 31. maj 2010 indeholder følgende bestemmelse:
 Stk. 1. Loven træder i kraft den 1. august 2010, jf. dog stk. 2.
 
 Stk. 2. Lovens § 2, nr. 2 og § 3 træder i kraft den 15. juni 2010.
+
+Stk. 3-4. (Udeladt)
 
 Lov nr. 572 af 31. maj 2010 indeholder følgende bestemmelse:
 
@@ -723,3 +699,51 @@ Stk. 4. Lovens § 1, nr. 35 og 36, finder ikke anvendelse for medlemmer af Flygt
 Stk. 5. Lovens § 1, nr. 1-5, finder ikke anvendelse for udlændinge, der er meddelt tidsubegrænset opholdstilladelse efter udlændingelovens § 11, stk. 3-6, som affattet ved lov nr. 572 af 31. maj 2010. For disse udlændinge finder de hidtil gældende regler anvendelse.
 
 Stk. 6. Lovens § 1, nr. 9-25, finder ikke anvendelse for udlændinge, der inden lovens ikrafttræden har indgivet ansøgning om tidsubegrænset opholdstilladelse. For disse udlændinge finder de hidtil gældende regler anvendelse. Hvis der ikke efter de hidtil gældende regler kan meddeles tidsubegrænset opholdstilladelse, tager Udlændingestyrelsen samtidig stilling til, om der kan meddeles tidsubegrænset opholdstilladelse efter udlændingelovens § 11, stk. 3-6, som affattet ved lovens § 1, nr. 9-25.
+
+Lov nr. 430 af 1. maj 2013 indeholder følgende bestemmelse:
+
+§ 4
+
+Loven træder i kraft den 2. maj 2013.
+
+Lov nr. 432 af 1. maj 2013 indeholder følgende bestemmelse:
+
+§ 2
+
+Loven træder i kraft dagen efter bekendtgørelsen i Lovtidende.
+
+Lov nr. 433 af 1. maj 2013 indeholder følgende bestemmelse:
+
+§ 2
+
+Loven træder i kraft dagen efter bekendtgørelsen i Lovtidende.
+
+Lov nr. 434 af 1. maj 2013 indeholder følgende bestemmelse:
+
+§ 4
+
+Stk. 1. Loven træder i kraft dagen efter bekendtgørelsen i Lovtidende, jf. dog stk. 2.
+
+Stk. 2. § 2, nr. 1-3 og 5, træder i kraft den 1. oktober 2013.
+
+Stk. 3. § 2, nr. 1, finder alene anvendelse for udlændinge, der meddeles opholdstilladelse efter lovens ikrafttræden.
+
+Stk. 4. § 2, nr. 4, finder alene anvendelse, hvis det forhold, der begrunder udvisningen, er begået efter lovens ikrafttræden.
+
+Lov nr. 647 af 12. juni 2013 indeholder følgende bestemmelser:
+
+§ 25
+
+Loven træder i kraft den 1. juli 2013.
+
+§ 26
+
+Stk. 1. Sager ved de fem statsforvaltninger, der ved lovens ikrafttræden ikke er færdigbehandlet, færdigbehandles af statsforvaltningen.
+
+Stk. 2. (Udeladt)
+
+Stk. 3. (Udeladt)
+
+Stk. 4. (Udeladt)
+
+Stk. 5. (Udeladt)
