@@ -19,3 +19,7 @@ Lov nr. 341 af 27. april 2011 er trådt i kraft den 1. maj 2011. Ved loven er §
 Lov nr. 603 af 14. juni 2011 er trådt i kraft den 1. juli 2011. Ved loven er § 34 a, stk. 1, 2. pkt., § 34 b og § 34 c tilføjet.
 
 Lov nr. 562 af 18. juni 2012 er trådt i kraft den 1. juli 2012. Ved loven er § 4, stk. 2 og 3, § 30 a, § 36 a, § 36 b og § 70, stk. 4, tilføjet, hvorefter stk. 4-9 er blevet stk. 5-10, og § 62 og § 70, stk. 1, nr. 3, er ændret. Overalt i loven er »Det Europæiske Fællesskab« ændret til: »Den Europæiske Union«, og »Det Europæiske Fællesskabs« er ændret til: »Den Europæiske Unions«, og overskriften til kapitel 6 er ændret.
+
+Lov nr. 1238 af 18. december 2012 er trådt i kraft den 1. januar 2013. Ved loven er § 57 ændret.
+
+Lov nr. 527 af 28. maj 2013 er trådt i kraft den 1. juli 2013. Ved loven er § 3 a, stk. 3, § 4 a og § 37, stk. 2-5 tilføjet, og § 55 og § 61 a er ændret.
