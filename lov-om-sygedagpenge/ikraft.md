@@ -48,7 +48,7 @@ Stk. 2. (Udeladt)
 
 Stk. 3. Beskæftigelsesministeren fastsætter tidspunktet for ikrafttrædelse af lovens § 5 om arbejdsgiverens, den selvstændig erhvervsdrivendes og arbejdsløshedskassens forpligtelser. Beskæftigelsesministeren fastsætter samtidig tidspunktet for ikrafttrædelse af lovens § 18.
 
-Lov nr. 480 af 12. juni 2009, som ændret ved lov nr. 50 af 25. januar 2012, der indsætter §§ 7a-7c og § 36 a, ændrer § 12, § 13, § 15, § 19, § 21, § 25, stk. 1, § 26, stk. 2, § 27, stk. 1, § 31, § 36, stk. 3, § 53, stk. 2, § 62, og § 77 samt ophæver § 36, stk. 4 og 5 og § 37 (En styrket beskæftigelsesrettet indsats over for sygemeldte m.fl.) indeholder følgende ikrafttrædelses- og overgangsbestemmelser:
+Lov nr. 480 af 12. juni 2009, som ændret ved lov nr. 50 af 25. januar 2012, der indsætter §§ 7 a-7 c og § 36 a, ændrer § 12, § 13, § 15, § 19, § 21, § 25, stk. 1, § 26, stk. 2, § 27, stk. 1, § 31, § 36, stk. 3, § 53, stk. 2, § 62, og § 77 samt ophæver § 36, stk. 4 og 5 og § 37 (En styrket beskæftigelsesrettet indsats over for sygemeldte m.fl.) indeholder følgende ikrafttrædelses- og overgangsbestemmelser:
 
 § 5
 
@@ -206,8 +206,62 @@ Stk. 5. § 38, stk. 7, 2. pkt., i lov om sygedagpenge som ophævet ved denne lov
 
 Stk. 6. Lovens § 1, nr. 11, § 40 a, stk. 3, i lov om sygedagpenge som affattet ved denne lovs § 1, nr. 12, og lovens § 1, nr. 15, har virkning for underretningsbreve udsendt fra SDPI-løsningen den 2. april 2012 eller senere.
 
+Lov nr. 326 af 11. april 2012, der affatter § 71, stk. 5, indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 25
+
+Stk. 1. Loven træder i kraft den 1. oktober 2012, jf. dog stk. 2-4.
+
+Stk. 2. Lovens § 8 og § 26, stk. 8-10, træder i kraft den 15. april 2012.
+
+Stk. 3. Lovens § 7, nr. 1, og §§ 13, 14 og 16 træder i kraft den 1. december 2012.
+
+Stk. 4. Lovens §§ 1-3, § 7, nr. 7, og §§ 15, 17 og 24 træder i kraft den 1. marts 2013.
+
 Lov nr. 476 af 30. maj 2012, der ændrer § 13, stk. 4, og indsætter § 13 a (Mindre intensiv indsats), indeholder følgende ikrafttrædelsesbestemmelse:
 
 § 6
 
 Loven træder i kraft den 1. juni 2012.
+
+Lov nr. 928 af 18. september 2012, som ændrer § 64, stk. 1, 1. pkt. og indsætter § 64 a (Ændret regulering af forskellige indkomstoverførsler i årene 2016-2023 samt forhøjelse af den supplerende pensionsydelse og pensionstillæg til folkepensionister), indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 9
+
+Stk. 1. Loven træder i kraft den 1. januar 2013.
+
+Stk. 2. …
+
+Lov nr. 1378 af 23. december 2012, som ændrer § 55, stk. 3, 1. pkt. (Forhøjelse af virksomhedernes finansieringsbidrag ved forsikringsordningen for mindre, private arbejdsgivere), indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 2
+
+Loven træder i kraft den 1. januar 2013.
+
+Lov nr. 1380 af 23. december 2012, som ændrer § 7, stk. 2, § 7, stk. 5, § 21, stk. 1, indsætter § 7, stk. 6, § 42, stk. 3 og affatter § 28 og § 49 (Reform af førtidspension og fleksjob, herunder indførelse af ressourceforløb, rehabiliteringsteam, fleksløntilskud m.v.), indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 21
+
+Stk. 1. Loven træder i kraft den 1. januar 2013, jf. dog stk. 2-6 og 8.
+
+Stk. 2. …
+
+Lov nr. 357 af 9. april 2013, som overalt i loven ændrer »SDPI-løsningen« til »Nemrefusion« og som affatter § 11, stk. 3, 2. pkt. (Digital kommunikation om tilskudsordninger m.v.), indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 5
+
+Loven træder i kraft den 15. april 2013.
+
+Lov nr. 493 af 21. maj 2013, som ændrer § 72, stk. 2, 2. pkt., og affatter § 77 (Forenkling af klagestrukturen på det sociale og beskæftigelsesmæssige område), indeholder følgende ikrafttrædelses- og overgangsbestemmelse:
+
+§ 25
+
+Loven træder i kraft den 1. juli 2013.
+
+§ 26
+
+Stk. 1. Sager, der er indbragt for de sociale nævn eller beskæftigelsesankenævnene, og som ved lovens ikrafttræden ikke er færdigbehandlet, færdigbehandles af Ankestyrelsen eller Ankestyrelsens Beskæftigelsesudvalg efter kapitel 9, 9 a og 10 i lov om retssikkerhed og administration på det sociale område, som ændret ved denne lovs § 1.
+
+Stk. 2. I sager, hvor Ankestyrelsen inden lovens ikrafttræden har modtaget en anmodning om at optage en klage til behandling efter § 59 a, stk. 2, eller § 63 i lov om retssikkerhed og administration på det sociale område, og hvor beslutning om, hvorvidt afgørelsen opfylder betingelserne for at kunne blive behandlet i Ankestyrelsen endnu ikke er truffet ved denne lovs ikrafttræden, træffes beslutningen herom efter de hidtil gældende bestemmelser i § 57, nr. 1, jf. §§ 59 a og 63 i lov om retssikkerhed og administration på det sociale område. Sager, der optages til behandling efter 1. pkt., behandles af Ankestyrelsen eller Ankestyrelsens Beskæftigelsesudvalg efter kapitel 9, 9 a og 10 i lov om retssikkerhed og administration på det sociale område, som ændret ved denne lovs § 1.
+
+Stk. 3. Sager, som Ankestyrelsen inden lovens ikrafttræden har optaget til behandling efter § 59 a, stk. 2, eller § 63 i lov om retssikkerhed og administration på det sociale område, og hvori der endnu ikke er truffet afgørelse ved denne lovs ikrafttræden, behandles af Ankestyrelsen eller Ankestyrelsens Beskæftigelsesudvalg efter kapitel 9, 9 a og 10 i lov om retssikkerhed og administration på det sociale område, som ændret ved denne lovs § 1.
