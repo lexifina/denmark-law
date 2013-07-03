@@ -15,3 +15,5 @@ Lov nr. 401 af 21. april 2010 er trådt i kraft 1. juli 2010. Ved loven er § 2,
 Lov nr. 402 af 21. april 2010 er trådt i kraft 1. juli 2010. Ved loven er § 3, stk. 1 og § 3, stk. 3, 1. og 2. pkt., ændret.
 
 Lov nr. 562 af 18. juni 2012 er trådt i kraft 1. juli 2012. Ved loven er § 11 a tilføjet og § 13, stk. 1-2, § 14, § 24, § 25, stk. 2 og § 38, stk. 1, nr. 1, ændret. Overalt i loven er »Det Europæiske Fællesskab« ændret til: »Den Europæiske Union«, og »Det Europæiske Fællesskabs« er ændret til: »Den Europæiske Unions«.
+
+Lov nr. 527 af 28. maj 2013 er trådt i kraft den 1. juli 2013. Ved loven er § 32, stk. 4 tilføjet, og § 37 og § 38, stk. 1, nr. 5, er ændret.
