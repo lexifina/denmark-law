@@ -1,7 +1,5 @@
-Givet på Christiansborg Slot, den 6. juni 2007
+Naturstyrelsen, den 3. juli 2013
 
-Under Vor Kongelige Hånd og Segl
+Helle Pilsgaard
 
-Margrethe R.
-
-/Connie Hedegaard
+/ Oluf Engberg
