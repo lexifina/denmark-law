@@ -1,1 +1,1 @@
-§ 10 c. (Ophævet).
+§ 10 c. (Ophævet)
