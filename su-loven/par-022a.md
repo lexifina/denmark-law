@@ -6,7 +6,7 @@
 
 Stk. 2. Uddannelsesstøtten nedsættes efter § 22, stk. 2, og regler fastsat i medfør heraf.
 
-Stk. 3. Undervisningsministeren kan fastsætte nærmere regler om
+Stk. 3. Ministeren for forskning, innovation og videregående uddannelser kan fastsætte nærmere regler om
 
 1) uddannelsesperioden,
 
