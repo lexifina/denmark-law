@@ -2,14 +2,14 @@
 
 Stk. 2. Den uddannelsessøgende skal angive, med hvilket beløb det disponible studielån skal udbetales.
 
-Stk. 3. Beløb efter stk. 1, der er til disposition, men ikke er udbetalt, bortfalder ved
+Stk. 3. Den uddannelsessøgende har ikke adgang til udbetaling af beløb efter stk. 1, der er frigivet til disposition, i perioder, hvor den uddannelsessøgende
 
-1) støtteårets udgang,
+1) er indskrevet ved en uddannelse, der giver ret til uddannelsesstøtte, men har orlov fra uddannelsen,
 
-2) afbrud af uddannelsen,
+2) er indskrevet ved en uddannelse, der giver ret til uddannelsesstøtte, men ikke er studieaktiv, eller
 
-3) orlov og
+3) ikke er indskrevet på og gennemgår en uddannelse, der giver ret til uddannelsesstøtte.
 
-4) inaktivitet.
+Stk. 4. Beløb efter stk. 1, der er til disposition, men ikke udbetalt, bortfalder ved støtteårets udgang.
 
-Stk. 4. Undervisningsministeren fastsætter nærmere regler om udbetaling af studielån, herunder om frister, udbetalingstidspunkter, grænse for mindsteudbetaling og meddelelse om lånebetingelser og vilkår.
+Stk. 5. Ministeren for forskning, innovation og videregående uddannelser fastsætter nærmere regler om udbetaling af studielån, herunder om frister, udbetalingstidspunkter, grænse for mindsteudbetaling og meddelelse om lånebetingelser og vilkår. Ministeren for forskning, innovation og videregående uddannelser kan endvidere fastsætte regler om, i hvilke tilfælde uddannelsessøgende i papirform kan indgive anmodning om udbetaling.
