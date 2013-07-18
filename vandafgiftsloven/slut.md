@@ -1,5 +1,9 @@
-Skatteministeriet, den 21. august 1998
+## BILAG
 
-Ole Stavad
+## (Ophævet).
 
-/John Fuhrmann
+Skatteministeriet, den 27. juni 2013
+
+P.M.V. Jens Brøchner
+
+/ Lene Skov Henningsen
