@@ -58,7 +58,7 @@ Stk. 2. Lovens regler om adgang til at påklage afgørelser gælder for sager, d
 
 Lov nr. 474 af 31. maj 2000 om Københavns Havn A/S, hvis § 12 ændrer § 51, stk. 3, nr. 1, indeholder bl.a. følgende ikrafttrædelsesbestemmelse:
 
-Trafikministeren fastsætter tidspunktet for lovens ikrafttræden, herunder § 10. Ministeren kan herunder fastsætte, at lovens enkelte bestemmelser træder i kraft på forskellige tidspunkter.
+§ 11. Trafikministeren fastsætter tidspunktet for lovens ikrafttræden, herunder § 10. Ministeren kan herunder fastsætte, at lovens enkelte bestemmelser træder i kraft på forskellige tidspunkter.
 
 Lov nr. 145 af 25. marts 2002 om ændring af forskellige love som følge af sammenlægningen af de bornholmske kommuner, hvis § 36 angår § 26, stk. 1 og 5, § 49, stk. 3 og stk. 4, § 51, stk. 1 og stk. 3, og § 53 b, indeholder følgende ikrafttrædelsesbestemmelse:
 
@@ -142,7 +142,7 @@ Loven træder i kraft den 1. januar 2007.
 
 Lov nr. 551 af 6. juni 2007 om Metroselskabet I/S og Arealudviklingsselskabet I/S, hvis § 30 angår § 51, stk. 3, nr. 1, indeholder bl.a. følgende ikrafttrædelsesbestemmelse:
 
-Transport- og energiministeren fastsætter tidspunktet for lovens eller dele af lovens ikrafttræden.
+§ 28. Transport- og energiministeren fastsætter tidspunktet for lovens eller dele af lovens ikrafttræden.
 
 Lov nr. 172 af 12. marts 2008 om ændring af forskellige love på Miljøministeriets område m.v., som indsætter § 58 b, indeholder følgende ikrafttrædelsesbestemmelse
 
@@ -187,3 +187,61 @@ Lov nr. 1401 af 27. december 2008 om ændring af lov om beskyttelse af havmiljø
 § 2
 
 Loven træder i kraft den 1. januar 2009.
+
+Lov nr. 484 af 11. maj 2010 om ændring af lov om naturbeskyttelse, lov om miljøbeskyttelse og forskellige andre love (Ændringer som følge af lov om Natur- og Miljøklagenævnet m.v.), som ændret ved § 2 i lov nr. 1608 af 22. december 2010, som ændrer § 51, stk.1, ophæver § 51, stk. 2-5 og indsætter nye stk. 2-4, § 51, stk. 6-7 bliver herefter til stk. 5 og 6, ændrer § 51, stk. 6, der bliver stk. 5, § 52, stk. 3, § 53, stk. 2, § 53 a og § 53 b, § 51, stk. 7, der bliver stk. 6, ophæves, indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 28
+
+Stk. 1. Loven træder i kraft den 1. januar 2011, jf. dog stk. 2.
+
+Stk. 2-4. (Udeladt)
+
+Stk. 5. Verserende sager i Naturklagenævnet, der ikke er færdigbehandlet ved lovens ikrafttræden, færdigbehandles efter lov om Natur- og Miljøklagenævnet af Natur- og Miljøklagenævnet med den i § 5, stk. 1, nr. 2, i lov om Natur- og Miljøklagenævnet nævnte sammensætning. I sager, hvor Naturklagenævnet har afholdt besigtigelse i en sag om fredning efter naturbeskyttelseslovens kapitel 6, sammensættes Natur- og Miljøklagenævnet med deltagelse af de nævnsmedlemmer, der deltog i besigtigelsen.
+
+Stk. 6. (Udeladt)
+
+Stk. 7. Miljøministeren kan i øvrigt fastsætte overgangsregler.
+
+I lov nr. 423 af 10. maj 2011 om ændring af lov om beskyttelse af havmiljøet og lov om miljøbeskyttelse (Gennemførelse af dele af konventionen om kontrol og behandling af skibes ballastvand (ballastvandkonventionen) og fastsættelse af regler om vurdering af virkninger på miljøet (VVM) m.v. for havbrug beliggende længere end 1 sømil fra kysten) som ophæver § 1, nr. 11, 22, 26 og 36. Indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 3
+
+Stk. 1. Loven træder i kraft den 1. juli 2011, jf. dog stk. 2 og 3.
+
+Lov nr. 632 af 14. juni 2011 om Lov om ændring af lov om Metroselskabet I/S og Arealudviklingsselskabet I/S med flere love (Flytning af containerterminal i Københavns Havn) som ændrer § 51, stk. 2 nr. 3, Indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 4
+
+Loven træder i kraft dagen efter bekendtgørelsen i Lovtidende.
+
+Lov nr. 1273 af 21. december 2011 Lov om ændring af lov om miljøbeskyttelse, lov om planlægning og forskellige andre love (Digital annoncering, obligatorisk digital kommunikation, afskæring af klageadgang)som indsætter i § 28, et 2 pkt., indsætter i § 33, stk.3, et 4.pkt., indsætter i § 42a, stk. 5, et 2. pkt., indsætter i § 42b, stk. 4, et 2. pkt., indsætter i § 47h, stk. 4, et 2. pkt. indsætter i § 49, stk. 2, et 2. pkt. Indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 20
+
+Loven træder i kraft den 1. januar 2012.
+
+§ 21
+
+Loven gælder ikke for Grønland, men § 14 kan ved kongelig anordning sættes helt eller delvis i kraft for Grønland med de ændringer, som de grønlandske forhold tilsiger.
+
+Lov nr. 1275 af 21. december 2011, Lov om ændring af lov om beskyttelse af havmiljøet (Implementering af dele af havnestatskontroldirektivet og ændring af regler om indgreb over for skibe) som ændrer § 42 a stk. 1, ophæver § 42 a stk. 1 2. pkt., ophæver § 43, indsætter § 42 b, indsætter § 42 c, ændrer § 50, indsætter § 53 C. Indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 3
+
+Loven træder i kraft den 1. januar 2012.
+
+§ 4
+
+Loven gælder ikke for Færøerne og Grønland, men § 1 kan ved kongelig anordning sættes helt eller delvis i kraft for Grønland med de ændringer, som de grønlandske forhold tilsiger.
+
+Lov nr.446 af 23. maj 2012 om ændring af lov om miljøbeskyttelse, lov om miljøgodkendelse m.v. af husdyrbrug, lov om forurenet jord og forskellige andre love, som indsætter i § 2 efter stk. 3 et nyt stk. 4. forhenværende stk. 4 bliver nu stk. 5. loven indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 7
+
+Stk. 1. Loven træder i kraft den 7. januar 2013, jf. dog stk. 2 og 3.
+
+Lov nr. 580 af 16. juni 2012 om ændring af lov om Natur- og Miljøklagenævnet og forskellige andre love (Reform af klagesystemet på natur- og miljøområdet m.v.) som ophæver § 51, stk. 5, 1. og 5. pkt., indsætter i § 51 stk. 6-8. Indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 28
+
+Stk. 1. Loven træder i kraft den 1. august 2012.
