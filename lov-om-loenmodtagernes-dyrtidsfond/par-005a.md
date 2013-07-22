@@ -4,11 +4,11 @@
 
 2) erhverve, udstede eller handle med afledte finansielle instrumenter, medmindre formålet er risikoafdækning,
 
-3) erhverve kapitalandele, bortset fra andele i investeringsforeninger, specialforeninger, hedgeforeninger og udenlandske investeringsinstitutter omfattet af lov om investeringsforeninger og specialforeninger samt andre kollektive investeringsordninger m.v., med henblik på salg af disse tidligere end 6 måneder efter erhvervelsen, eller
+3) erhverve kapitalandele, bortset fra andele i danske UCITS, kapitalforeninger og udenlandske investeringsinstitutter omfattet af § 143, stk. 1, nr. 2 og 3, i lov om investeringsforeninger m.v., med henblik på salg af disse tidligere end 6 måneder efter erhvervelsen, eller
 
 4) erhverve positioner i fremmed valuta bortset fra euro, når positionstagningen sker med henblik på andet end betaling for køb af værdipapirer, varer, tjenesteydelser, køb eller drift af fast ejendom eller til brug ved rejser.
 
-Stk. 2. Den i stk. 1 nævnte personkreds må ikke erhverve kapitalandele i selskaber, der udøver virksomhed som nævnt i stk. 1, nr. 1-4. Dette gælder dog ikke køb af aktier i pengeinstitutter, forsikringsselskaber, realkreditinstitutter, fondsmæglerselskaber samt andele i investeringsforeninger, specialforeninger, hedgeforeninger og udenlandske investeringsinstitutter omfattet af lov om investeringsforeninger og specialforeninger samt andre kollektive investeringsordninger m.v.
+Stk. 2. Den i stk. 1 nævnte personkreds må ikke erhverve kapitalandele i selskaber, der udøver virksomhed som nævnt i stk. 1, nr. 1-4. Dette gælder dog ikke køb af aktier i pengeinstitutter, forsikringsselskaber, realkreditinstitutter, fondsmæglerselskaber samt andele i danske UCITS, kapitalforeninger og udenlandske investeringsinstitutter omfattet af § 143, stk. 1, nr. 2 og 3, i lov om investeringsforeninger m.v.
 
 Stk. 3. Bestyrelsen skal tage stilling til, for hvilke ansatte der er en væsentlig risiko for konflikter mellem egne og Lønmodtagernes Dyrtidsfonds interesser, og som derfor skal være omfattet af forbuddet. Bestyrelsen skal sikre, at de pågældende er vidende herom. Straffebestemmelsen i § 14 a finder anvendelse fra det tidspunkt, hvor den pågældende har modtaget information herom.
 
@@ -22,4 +22,6 @@ Stk. 7. Forbuddet i stk. 1, nr. 2, omfatter ikke finansielle instrumenter, der e
 
 Stk. 8. Forbuddet i stk. 1, nr. 1, omfatter ikke lån til køb af medarbejderaktier samt de i stk. 7 nævnte instrumenter.
 
-Stk. 9. Interne revisions- og vicerevisionschefer må uanset stk. 1-8 ikke have økonomiske interesser i virksomheder, der er koncernforbundet med Lønmodtagernes Dyrtidsfond.
+Stk. 9. Forbuddet i stk. 1, nr. 3, omfatter ikke aktier, der er erhvervet ved udnyttelse af de i stk. 7 nævnte instrumenter.
+
+Stk. 10. Interne revisions- og vicerevisionschefer må uanset stk. 1-9 ikke have økonomiske interesser i virksomheder, der er koncernforbundet med Lønmodtagernes Dyrtidsfond.
