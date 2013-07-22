@@ -1,14 +1,14 @@
-§ 24 b. Personer, der ifølge lov eller vedtægtsbestemmelse er ansat af bestyrelsen i Arbejdsmarkedets Tillægspension, og ansatte, for hvilke der er en væsentlig risiko for konflikter mellem egne og Arbejdsmarkedets Tillægspensions interesser, må ikke for egen regning eller gennem selskaber, de kontrollerer,
+§ 24 b. Personer, der ifølge lov eller vedtægtsbestemmelse er ansat af bestyrelsen i Arbejdsmarkedets Tillægspension, og ansatte, for hvilke der er en væsentlig risiko for konflikter mellem egne og Arbejdsmarkedets Tillægspensions interesser, må ikke for egen regning eller gennem selskaber, de kontrollerer:
 
 1) optage lån eller trække på allerede bevilgede kreditter til køb af værdipapirer, når de købte værdipapirer stilles til sikkerhed for lånet eller kreditten,
 
 2) erhverve, udstede eller handle med afledte finansielle instrumenter, medmindre formålet er risikoafdækning,
 
-3) erhverve kapitalandele, bortset fra andele i investeringsforeninger, specialforeninger, hedgeforeninger og udenlandske investeringsinstitutter omfattet af lov om investeringsforeninger og specialforeninger samt andre kollektive investeringsordninger m.v., med henblik på salg af disse tidligere end 6 måneder efter erhvervelsen eller
+3) erhverve kapitalandele, bortset fra andele i danske UCITS, kapitalforeninger og udenlandske investeringsinstitutter omfattet af § 143, stk. 1, nr. 2 og 3, i lov om investeringsforeninger m.v., med henblik på salg af disse tidligere end 6 måneder efter erhvervelsen eller
 
 4) erhverve positioner i fremmed valuta bortset fra euro, når positionstagningen sker med henblik på andet end betaling for køb af værdipapirer, varer, tjenesteydelser, køb eller drift af fast ejendom eller til brug for rejser.
 
-Stk. 2. Den i stk. 1 nævnte personkreds må ikke erhverve kapitalandele i selskaber, der udøver virksomhed som nævnt i stk. 1, nr. 1-4. Dette gælder dog ikke køb af aktier i pengeinstitutter, forsikringsselskaber, realkreditinstitutter og fondsmæglerselskaber samt andele i investeringsforeninger, specialforeninger, hedgeforeninger og udenlandske investeringsinstitutter omfattet af lov om investeringsforeninger og specialforeninger samt andre kollektive investeringsordninger m.v.
+Stk. 2. Den i stk. 1 nævnte personkreds må ikke erhverve kapitalandele i selskaber, der udøver virksomhed som nævnt i stk. 1, nr. 1-4. Dette gælder dog ikke køb af aktier i pengeinstitutter, forsikringsselskaber, realkreditinstitutter og fondsmæglerselskaber samt andele i danske UCITS, kapitalforeninger og udenlandske investeringsinstitutter omfattet af § 143, stk. 1, nr. 2 og 3, i lov om investeringsforeninger m.v.
 
 Stk. 3. Bestyrelsen skal tage stilling til, for hvilke ansatte der er en væsentlig risiko for konflikter mellem egne og Arbejdsmarkedets Tillægspensions interesser, og som derfor skal være omfattet af forbuddet. Bestyrelsen skal sikre, at de pågældende er vidende herom. Straffebestemmelsen i § 32 a finder anvendelse fra det tidspunkt, hvor den pågældende har modtaget information herom.
 
