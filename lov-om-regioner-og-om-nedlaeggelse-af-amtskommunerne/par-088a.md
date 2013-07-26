@@ -1,1 +1,1 @@
-§ 88 a. (Overgangsbestemmelse, udeladt).
+§ 88 a. (Overgangsbestemmelse, udelades).
