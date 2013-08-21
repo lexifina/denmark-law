@@ -1,1 +1,1 @@
-§ 3 a. Registrerede virksomheder er berettiget til, uden at afgiften er berigtiget, fra udlandet og fra andre registrerede virksomheder at modtage ubrugte afgiftspligtige varer omfattet af § 1, nr. 1-4, og afgiftspligtige varer omfattet af § 1, nr. 5-17, § 2 a, § 2 b eller § 2 c.
+§ 3 a. Registrerede virksomheder er berettiget til, uden at afgiften er berigtiget, fra udlandet og fra andre registrerede virksomheder at modtage ubrugte afgiftspligtige varer omfattet af § 1, nr. 1-3, og afgiftspligtige varer omfattet af § 1, nr. 4-16, §§ 2 a, 2 c eller 2 d.
