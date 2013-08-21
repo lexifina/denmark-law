@@ -1,5 +1,7 @@
-## 3 c. Søfarendes ret til tjenestefrihed som følge af tvingende familiemæssige årsager
+## 3 b. Søfarendes fritagelse for tjeneste m.v. i forbindelse med graviditet og barsel
 
-§ 18 d. En søfarende har ret til tjenestefrihed uden hyre, når tvingende familiemæssige årsager gør sig gældende i tilfælde af sygdom eller ulykke, som gør den søfarendes umiddelbare tilstedeværelse påtrængende nødvendig i hjemmet (force majeure).
+§ 18 d. Erhvervs- og vækstministeren fastsætter nærmere regler om søfarendes fritagelse for tjeneste om bord på grund af graviditet og barsel.
 
-Stk. 2. Under tjenestefriheden kan den søfarende, uanset hvad der er bestemt i § 6 om fratrædelseshavn, opsige ansættelsesforholdet med det aftalte eller det i § 5 eller § 37 nævnte opsigelsesvarsel.
+Stk. 2. En søfarende, der fratræder på grund af graviditet, eller som kræver afsked efter § 9, har ret til graviditets-/barselhyre. Dette gælder kun, så længe hun ikke har andet arbejde, og højst 2 måneder fra fratrædelsestidspunktet.
+
+Stk. 3. Er den søfarendes tjenesteaftale tidsbegrænset, kan rederens pligt til at betale hyre efter stk. 2 dog ikke strækkes ud over det tidspunkt, hvor ansættelsesforholdet i henhold til aftalen ophører.

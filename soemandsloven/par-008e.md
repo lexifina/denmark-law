@@ -1,0 +1,1 @@
+§ 8 e. Det står enhver reder frit for under iagttagelse af regler udstedt i medfør af § 8 b at tilvejebringe mandskab til sit skib gennem skibets officerer eller det i rederiets faste tjeneste stående kontorpersonale, men der kan ikke stilles krav om, at den søfarende betaler vederlag for ydelsen.
