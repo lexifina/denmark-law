@@ -2,8 +2,8 @@
 
 ## På- og afmønstring
 
-§ 64 a. Økonomi- og erhvervsministeren fastsætter de nærmere regler om på- og afmønstring samt om skibsførerens til- og fratræden.
+§ 64 a. Erhvervs- og vækstministeren fastsætter de nærmere regler om på- og afmønstring samt om skibsførerens til- og fratræden.
 
-Stk. 2. Søfartsstyrelsen fører kontrol med mønstring og med, at lovgivningens forskrifter om skibes besætning overholdes.
+Stk. 2. Skibsføreren skal ved mønstringen påse, at lovgivningens forskrifter for den pågældende søfarende er opfyldt, herunder navnlig de aldersmæssige, helbredsmæssige og uddannelsesmæssige krav.
 
-Stk. 3. Skibsføreren skal ved mønstringen påse, at lovgivningens forskrifter for den pågældende søfarende er opfyldt, herunder navnlig de aldersmæssige, helbredsmæssige og uddannelsesmæssige krav.
+Stk. 3. Erhvervs- og vækstministeren kan efter aftale med vedkommende minister beslutte, at Søfartsstyrelsens beføjelser efter stk. 2 udøves af andre offentlige myndigheder, og kan fastsætte regler herom.
