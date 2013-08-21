@@ -1,15 +1,15 @@
-## 3 a. Sømandens ret til at fratræde tjenesten ved krigsfare m.v.
+## 3 a. Den søfarendes ret til at fratræde tjenesten ved krigsfare m.v. og rederens pligt til at drage omsorg for de søfarende ved fare for sørøveri
 
-§ 18 a. Sømanden har ret til at fratræde tjenesten om bord straks og ellers i første havn eller red, skibet anløber, hvis skibet inden afgang fra havn får ordre til at sejle til et område, hvor
+§ 18 a. Den søfarende har ret til at fratræde tjenesten om bord straks og ellers i første havn eller red, skibet anløber, hvis skibet inden afgang fra havn får ordre til at sejle til et område, hvor
 
 1) der er fare for, at skibet vil blive opbragt af krigsførende, udsat for krigsskade eller en faretruende situation, der kan ligestilles hermed, eller
 
 2) sådan fare er blevet væsentlig forøget.
 
-Stk. 2. Hvis skibet efter afgang fra havn får ordre til at sejle til et område som nævnt i stk. 1, nr. 1, har sømanden altid ret til at fratræde tjenesten om bord.
+Stk. 2. Hvis skibet efter afgang fra havn får ordre til at sejle til et område som nævnt i stk. 1, nr. 1, har den søfarende altid ret til at fratræde tjenesten om bord.
 
-Stk. 3. Hvis der efter skibets afgang fra sidste havn opstår en situation som nævnt i stk. 1, nr. 2, har sømanden ret til at fratræde tjenesten om bord, såfremt der af anden grund etableres forbindelse med land.
+Stk. 3. Hvis der efter skibets afgang fra sidste havn opstår en situation som nævnt i stk. 1, nr. 2, har den søfarende ret til at fratræde tjenesten om bord, såfremt der af anden grund etableres forbindelse med land.
 
 Stk. 4. Det påhviler skibsføreren ved opslag eller på anden måde at gøre besætningen bekendt med skibets rejseplan og med ændringer heri.
 
-Stk. 5. Krav om at fratræde tjenesten om bord skal fremsættes snarest efter, at sømanden har fået kundskab om forholdet.
+Stk. 5. Krav om at fratræde tjenesten om bord skal fremsættes snarest efter, at den søfarende har fået kundskab om forholdet.
