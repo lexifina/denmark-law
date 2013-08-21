@@ -1,5 +1,5 @@
-Bekendtgørelse af lov om afgift af visse emballager, poser, engangsservice og pvc-folier
+Bekendtgørelse af lov om afgift af visse emballager, poser, engangsservice og pvc-folier (emballageafgiftsloven)
 
-Hermed bekendtgøres lov om afgift af visse emballager samt visse poser af papir eller plast m.v., jf. lovbekendtgørelse nr. 726 af 7. oktober 1998, som ændret ved lov nr. 912 af 16. december 1998, § 9 i lov nr. 380 af 2. juni 1999, § 23 i lov nr. 165 af 15. marts 2000, § 13 i lov nr. 1029 af 22. november 2000 og lov nr. 1292 af 20. december 2000. Lovbekendtgørelsen gælder først fuldt ud fra den 1. juli 2001, jf. note 4 og 5.
+Herved bekendtgøres lov om afgift af visse emballager, poser, engangsservice og pvc-folier (emballageafgiftsloven), jf. lovbekendtgørelse nr. 101 af 13. februar 2001, som ændret ved § 3 i lov nr. 1057 af 17. december 2002, § 4 i lov nr. 1059 af 17. december 2002, § 2 i lov nr. 1217 af 27. december 2003, § 5 i lov nr. 1392 af 20. december 2004, § 14 i lov nr. 325 af 18. maj 2005, § 19 i lov nr. 428 af 6. juni 2005, § 3 i lov nr. 1410 af 21. december 2005, § 5 i lov nr. 408 af 8. maj 2006, § 5 i lov nr. 509 af 7. juni 2006, § 7 i lov nr. 515 af 7. juni 2006, § 1 i lov nr. 1579 af 20. december 2006, § 1 i lov nr. 523 af 17. juni 2008, § 96 i lov nr. 1336 af 19. december 2008, § 13 i lov nr. 1344 af 19. december 2008, § 3 i lov nr. 522 af 12. juni 2009, § 6 i lov nr. 1385 af 21. december 2009 og § 8 i lov nr. 1354 af 21. december 2012.
 
-I. Afgiftspligtigt vareområde
+De ændringer, der følger af § 3 i lov nr. 789 af 28. juni 2013, træder i kraft den 1. januar 2015. Disse ændringer er derfor ikke indarbejdet i lovteksten nedenfor, men det fremgår af noterne, hvilke paragraffer, der ændres ved loven.
