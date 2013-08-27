@@ -78,18 +78,6 @@ Stk. 1. Loven træder i kraft den 1. januar 2011.
 
 Stk. 2. Den i § 1 nævnte bestemmelse i straffelovens § 97 a, stk. 1, gælder også for lovovertrædelser, der er begået, og retsfølger, der er pålagt før lovens ikrafttræden. Bestemmelsen finder dog ikke anvendelse i tilfælde, hvor forældelse efter de hidtil gældende regler er indtrådt før lovens ikrafttræden.
 
-Lov nr. 112 af 3. februar 2012 (Lov om tilhold, opholdsforbud og bortvisning) indeholder følgende ikrafttrædelsesbestemmelse:
-
-§ 25. Loven træder i kraft den 1. marts 2012.
-
-Stk. 2. (Udelades)
-
-Lov nr. 157 af 28. februar 2012 (Gennemførelse af revideret bilag til Europarådets konvention om forebyggelse af terrorisme) indeholder følgende ikrafttrædelsesbestemmelse:
-
-§ 2
-
-Loven træder i kraft den 1. marts 2012.
-
 Lov nr. 158 af 28. februar 2012 (Forhøjelse af den kriminelle lavalder) indeholder følgende ikrafttrædelsesbestemmelse:
 
 § 5
@@ -98,18 +86,74 @@ Stk. 1. Loven træder i kraft dagen efter bekendtgørelsen i Lovtidende.
 
 Stk. 2. Hvor det ved straffens fastsættelse skal indgå som en skærpende omstændighed, at gerningsmanden tidligere er straffet af betydning for sagen, kommer afgørelser, der er truffet i forhold til personer, for handlinger foretaget, inden de pågældende var fyldt 15 år, ikke i betragtning.
 
-Lov nr. 159 af 28. februar 2012 (Udvidet anvendelse af betingede domme med vilkår om samfundstjeneste m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
+Lov nr. 1242 af 18. december 2012 (Revision af reglerne om forkyndelse m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
 
-§ 2
+§ 5
 
-Loven træder i kraft den 1. marts 2012.
+Stk. 1. Loven træder i kraft den 1. juli 2013, jf. dog stk. 2.
 
-Lov nr. 275 af 27. marts 2012 (Udvidet definition af menneskehandel m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
+Stk. 2-3. (Udelades)
 
-§ 2
+Lov nr. 1385 af 23. december 2012 (Indførelse af fængselsstraf i kartelsager, forhøjelse af bødeniveauet, straflempelse, ændrede sagsprocesser m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
 
-Loven træder i kraft dagen efter bekendtgørelsen i Lovtidende.
+§ 3
 
-Lov nr. 431 af 16. maj 2012 (Lov om midlertidig nedsættelse af straffen for overtrædelse af skatte- og afgiftslovgivningen vedrørende midler på udenlandske konti m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
+Loven træder i kraft den 1. marts 2013.
 
-§ 4. Loven træder i kraft den 1. juli 2012.
+Lov nr. 431 af 1. maj 2013 (Udførsel af skydevåben m.v. til civil brug til lande uden for EU, lempelse af kontrolordningen for visse hardball- og paintballvåben m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 3
+
+Stk. 1. Loven træder i kraft den 1. juni 2013, jf. dog stk. 2.
+
+Stk. 2. § 1, nr. 4, 5 og 7, og § 2 træder i kraft den 30. september 2013.
+
+Lov nr. 434 af 1. maj 2013 (Styrket indsats mod tvang i forbindelse med ægteskaber og religiøse vielser) indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 4
+
+Stk. 1. Loven træder i kraft dagen efter bekendtgørelsen i Lovtidende, jf. dog stk. 2.
+
+Stk. 2-4. (Udelades)
+
+Lov nr. 628 af 12. juni 2013 (Udvidet mulighed for prøveløsladelse og fodlænkeafsoning, SU i skoleperioder under uddannelsen til fængselsbetjent m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 4
+
+Stk. 1. Loven træder i kraft den 1. juli 2013, jf. dog stk. 2.
+
+Stk. 2. § 1, nr. 4, træder i kraft dagen efter bekendtgørelsen i Lovtidende.
+
+Stk. 3-4. (Udelades)
+
+Lov nr. 633 af 12. juni 2013 (Seksualforbrydelser) indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 5
+
+Stk. 1. Loven træder i kraft den 1. juli 2013.
+
+Stk. 2. § 1, nr. 4, finder også anvendelse på lovovertrædelser, der er begået før lovens ikrafttræden, medmindre forældelse efter de hidtil gældende regler er indtrådt før lovens ikrafttræden.
+
+Stk. 3. Straffelovens § 236, stk. 4 og 6, som affattet ved denne lovs § 1, nr. 27, finder anvendelse på lovovertrædelser, der er begået før lovens ikrafttræden, i stedet for de hidtil gældende regler.
+
+Stk. 4. Straffelovens § 236, stk. 6, som affattet ved denne lovs § 1, nr. 27, finder også anvendelse på pålæg givet før lovens ikrafttræden efter de hidtil gældende regler i straffelovens § 236. Ved afgørelsen af, om et sådant pålæg skal opretholdes, anvendes straffelovens § 236, stk. 1, 3 og 5, som affattet ved denne lovs § 1, nr. 27.
+
+Stk. 5. Straffelovens § 236, stk. 7, som affattet ved denne lovs § 1, nr. 27, finder også anvendelse på pålæg givet før lovens ikrafttræden efter de hidtil gældende regler i straffelovens § 236.
+
+Lov nr. 634 af 12. juni 2013 (Styrket indsats over for økonomisk kriminalitet) indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 13
+
+Stk. 1. Loven træder i kraft den 1. juli 2013.
+
+Stk. 2. § 1, nr. 3 og 4, finder anvendelse på konfiskationskrav, der er idømt eller vedtaget før lovens ikrafttræden, medmindre forældelse efter de hidtil gældende regler er indtrådt før lovens ikrafttræden.
+
+Stk. 3. (Udelades)
+
+Lov nr. 642 af 12. juni 2013 (Gennemførelse af bestemmelser i forordning om integritet og gennemsigtighed på engrosenergimarkederne (REMIT-forordningen) om beføjelser, sanktioner og offentliggørelse samt udrulning af fjernaflæste elmålere m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 5
+
+Stk. 1. Loven træder i kraft den 15. juni 2013, jf. dog stk. 2.
+
+Stk. 2. § 3 træder i kraft den 1. juli 2013.
