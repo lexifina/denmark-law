@@ -1,7 +1,5 @@
-Givet på Christiansborg Slot, den 6. juni 2007
+Undervisningsministeriet, den 23. august 2013
 
-Under Vor Kongelige Hånd og Segl
+Christine Antorini
 
-Margrethe R.
-
-/Bertel Haarder
+/ Merete Vinje
