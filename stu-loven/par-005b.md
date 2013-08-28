@@ -1,0 +1,1 @@
+§ 5 b. Kommunalbestyrelsens udgifter til ungdomsuddannelsen for unge med særlige behov, der gives som et tilbud efter § 32, stk. 1, nr. 2, i lov om en aktiv beskæftigelsesindsats, er ikke omfattet af statslig refusion efter reglerne om en aktiv beskæftigelsesindsats.
