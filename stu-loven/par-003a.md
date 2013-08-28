@@ -1,0 +1,1 @@
+§ 3 a. Kommunalbestyrelsen kan bemyndige en offentlig institution eller efter udbud en selvejende institution eller en privat virksomhed til at varetage en eller flere opgaver, der efter loven varetages af Ungdommens Uddannelsesvejledning. Bemyndigelse til at træffe forvaltningsafgørelser i enkeltsager kan dog ikke gives til en selvejende institution eller en privat virksomhed.
