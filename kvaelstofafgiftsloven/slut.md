@@ -1,9 +1,5 @@
-Givet på Amalienborg, den 26. juni 1998
+Skatteministeriet, den 22. august 2013
 
-Under Vor Kongelige Hånd og Segl
+P.M.V. Jens Brøchner
 
-Margrethe R.
-
-/ Ole Stavad
-
-Ingen
+/ Lene Skov Henningsen
