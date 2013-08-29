@@ -1,3 +1,0 @@
-## Befordrerens ansvar
-
-§ 106. Bliver en passager dræbt eller lider en pågældende skade på legeme eller helbred som følge af en begivenhed, der er indtruffet om bord i et luftfartøj eller under indstigning eller udstigning, er befordreren ansvarlig derfor.

@@ -1,1 +1,0 @@
-§ 90 a. Bestemmelserne gælder befordring med luftfartøj af passagerer, rejsegods eller gods, når befordringen udføres mod betaling. Udføres befordringen af et lufttrafikforetagende, kommer loven ligeledes til anvendelse, selv om befordringen er vederlagsfri.

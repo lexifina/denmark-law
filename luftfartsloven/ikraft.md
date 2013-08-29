@@ -1,4 +1,4 @@
-I lov nr. 1114 af 29. december 1997 fastsættes i § 2, at loven træder i kraft dagen efter bekendtgørelsen i Lovtidende, idet dog transportministeren fastsætter tidspunktet for ikrafttræden af de ændringer, som angår §§ 54 og 71.
+I lov nr. 1114 af 29. december 1997 fastsættes i § 2, at loven træder i kraft dagen efter bekendtgørelsen i Lovtidende, i det dog transportministeren fastsætter tidspunktet for ikrafttræden af de ændringer, som angår §§ 54 og 71.
 
 § 2 i lov nr. 346 af 17. maj 2000 om ændring af lov om luftfart indeholder følgende bestemmelse:
 
