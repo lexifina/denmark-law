@@ -28,14 +28,6 @@ Stk. 3. Repatrieringslovens § 13, stk. 1, som affattet ved denne lovs § 1, nr.
 
 Stk. 4. Ministeren for flygtninge, indvandrere og integration fremsætter forslag om revision af loven i folketingsåret 2013-14.
 
-Lov nr. 429 af 28. april 2010 indeholder nedenstående ikrafttrædelses- og overgangsbestemmelser. (Lovændringen vedrører § 13. Lovændringen angår kompetencen til at træffe afgørelse om lovvalg m.v. efter EF-forordning nr. 883/04 om koordinering af de sociale sikringsordninger m.v.)
-
-§ 20
-
-Stk. 1. Loven træder i kraft den 1. maj 2010.
-
-Stk. 2-3. (Udeladt).
-
 Lov nr. 759 af 29. juni 2011 indeholder nedenstående ikrafttrædelses- og overgangsbestemmelser. (Lovændringen vedrører §§ 3, 13 og 14. Lovændringen angår styrket kommunal vejledningspligt og indførelse af resultattilskud i forbindelse med repatriering m.v.)
 
 § 3
@@ -44,14 +36,6 @@ Stk. 1. Loven træder i kraft den 1. juli 2011.
 
 Stk. 2. Loven finder anvendelse for udlændinge, som repatrierer med støtte i medfør af repatrieringsloven den 1. juli 2011 eller senere.
 
-Lov nr. 418 af 12. maj 2012 indeholder nedenstående ikrafttrædelses- og overgangsbestemmelser. (Lovændringen vedrører § 3. Lovændringen angår ny balance i reglerne om ægtefællesammenføring, gebyr, fravigelse af persondatalovens § 7, stk. 8, i visse sager i forbindelse med overgang til elektronisk sagsbehandling, repræsentationsaftaler i medfør af visumkodeksen m.v.)
-
-§ 9
-
-Stk. 1. Loven træder i kraft den 15. maj 2012, jf. dog stk. 2.
-
-Stk. 2-6. (Udeladt).
-
 Lov nr. 437 af 21. maj 2012 indeholder nedenstående ikrafttrædelses- og overgangsbestemmelser. (Lovændringen vedrører §§ 13 og 14. Lovændringen angår afskaffelse af kommunal vejledningspligt og afskaffelse af resultattilskud i forbindelse med repatriering. )
 
 § 3
@@ -59,3 +43,25 @@ Lov nr. 437 af 21. maj 2012 indeholder nedenstående ikrafttrædelses- og overga
 Stk. 1. Loven træder i kraft den 1. juli 2012.
 
 Stk. 2. Loven finder anvendelse for udlændinge, som repatrierer med støtte i medfør af repatrieringsloven den 1. juli 2012 eller senere.
+
+Lov nr. 493 af 21. maj 2013 indeholder nedenstående ikrafttrædelses- og overgangsbestemmelser. (Lovændringen vedrører § 12. Lovændringen angår forenkling af klagestrukturen på det sociale og beskæftigelsesmæssige område. )
+
+§ 25
+
+Loven træder i kraft den 1. juli 2013.
+
+§ 26
+
+(Udeladt).
+
+Lov nr. 494 af 21. maj 2013 indeholder nedenstående ikrafttrædelses- og overgangsbestemmelser. (Lovændringen vedrører §§ 10, 10 a og 12. Lovændringen angår overførsel af Pensionsstyrelsens opgaver til Udbetaling Danmark. )
+
+§ 11
+
+Stk. 1. Loven træder i kraft den 1. juni 2013.
+
+Stk. 2. Udbetaling Danmark færdigbehandler sager på sagsområder, der som følge af lovens §§ 3-6 overføres til behandling i Udbetaling Danmark, og som ikke inden lovens ikrafttræden er endeligt afsluttet af Pensionsstyrelsen. Told- og skatteforvaltningen færdigbehandler sager, der som følge af lovens § 9 overføres til behandling i told- og skatteforvaltningen, hvis de ikke er blevet afgjort af Pensionsstyrelsen på tidspunktet for lovens ikrafttræden.
+
+Stk. 3. Udbetaling Danmark kan uden fornyet samtykke behandle sager efter stk. 2, hvis borgeren har givet samtykke til Pensionsstyrelsen efter § 11 a, stk. 1, i lov om retssikkerhed og administration på det sociale område.
+
+Stk. 4. Udbetaling Danmark overtager Pensionsstyrelsens krav mod borgeren og borgerens krav mod Pensionsstyrelsen, der måtte foreligge ved lovens ikrafttræden, i sager, der som følge af lovens §§ 3-5 overføres til Udbetaling Danmark.
