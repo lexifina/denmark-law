@@ -1,7 +1,5 @@
-Givet på Christiansborg Slot, den 6. juni 2007
+Justitsministeriet, den 28. august 2013
 
-Under Vor Kongelige Hånd og Segl
+Morten Bødskov
 
-Margrethe R.
-
-/Lene Espersen
+/ Rikke-Louise Ørum Petersen
