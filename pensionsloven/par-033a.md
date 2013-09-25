@@ -8,4 +8,4 @@ Stk. 3. Modtageren af førtidspension betaler 1/3 af ATP-bidraget, mens 2/3 af b
 
 Stk. 4. ATP-bidraget fra modtageren af førtidspension indeholdes månedsvis ved udbetalingen af førtidspensionen.
 
-Stk. 5. De nærmere regler om bidragsbetaling efter stk. 1-4, herunder betingelser for ophør af bidragsbetaling, fastsættes af social- og integrationsministeren efter indstilling fra bestyrelsen for Arbejdsmarkedets Tillægspension.
+Stk. 5. De nærmere regler om bidragsbetaling efter stk. 1-4, herunder betingelser for ophør af bidragsbetaling, fastsættes af social-, børne-og integrationsministeren efter indstilling fra bestyrelsen for Arbejdsmarkedets Tillægspension.

@@ -14,11 +14,11 @@
 
 4) Ved opgørelsen af indtægtsgrundlaget efter nr. 1-3 fradrages en eventuel ægtefælles eller samlevers indtægt ved personligt arbejde opgjort efter § 27, stk. 1-3, på op til i alt 30.000 kr. i et kalenderår, hvis denne modtager folkepension. Det maksimale fradrag reduceres forholdsmæssigt, hvis ægtefællen eller samleveren kun modtager folkepension i en del af året.
 
-Stk. 2. Social- og integrationsministeren fastsætter regler for, hvorledes indkomster efter stk. 1, der ikke er skattepligtige her i landet, og indkomster, som er omfattet af § 5 i lov om beskatning af søfolk, skal indgå i indtægtsgrundlaget.
+Stk. 2. Social-, børne-og integrationsministeren fastsætter regler for, hvorledes indkomster efter stk. 1, der ikke er skattepligtige her i landet, og indkomster, som er omfattet af § 5 i lov om beskatning af søfolk, skal indgå i indtægtsgrundlaget.
 
 Stk. 3. I indtægtsgrundlaget efter stk. 1 og 2 foretages følgende fradrag:
 
-1) Fradrag for skattepligtig social pension og fradrag for skattepligtig pension udbetalt efter lovgivningen i en anden EU/EØS-medlemsstat og omfattet af og beregnet efter forordning (EF) nr. 883/04 om koordinering af de sociale sikringsordninger samt for pension udbetalt efter lovgivningen i et land, med hvilket der er indgået overenskomst om samordning af pension. Social- og integrationsministeren fastsætter regler for, hvorledes fradrag for pensioner som nævnt i 1. pkt., der ikke er skattepligtige her i landet, skal fradrages.
+1) Fradrag for skattepligtig social pension og fradrag for skattepligtig pension udbetalt efter lovgivningen i en anden EU/EØS-medlemsstat og omfattet af og beregnet efter forordning (EF) nr. 883/04 om koordinering af de sociale sikringsordninger samt for pension udbetalt efter lovgivningen i et land, med hvilket der er indgået overenskomst om samordning af pension. Social-, børne-og integrationsministeren fastsætter regler for, hvorledes fradrag for pensioner som nævnt i 1. pkt., der ikke er skattepligtige her i landet, skal fradrages.
 
 2) Fradrag for ophørsstøtte efter lov om ophørsstøtte til jordbrugere og lov om ophørsstøtte til erhvervsfiskere.
 
