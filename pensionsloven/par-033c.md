@@ -12,4 +12,4 @@ Stk. 6. Ved opgørelsen af engangsbeløbet efter stk. 4 forrentes de indbetalte 
 
 Stk. 7. Engangsbeløbet ved dødsfald efter folkepensionsalderen aftrappes over mindst 5 år og højst 10 år fra folkepensionsalderen.
 
-Stk. 8. Social- og integrationsministeren kan fastsætte regler om, at den livsvarige pensionsret i medfør af den supplerende arbejdsmarkedspension kan udbetales som et engangsbeløb, hvis den årlige pensionsydelse er af beskeden størrelse.
+Stk. 8. Social-, børne-og integrationsministeren kan fastsætte regler om, at den livsvarige pensionsret i medfør af den supplerende arbejdsmarkedspension kan udbetales som et engangsbeløb, hvis den årlige pensionsydelse er af beskeden størrelse.

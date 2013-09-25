@@ -6,4 +6,4 @@ Stk. 2. Modtageren af førtidspension betaler 1/3 af bidraget efter stk. 1, mens
 
 Stk. 3. Udbetaling Danmark fratrækker modtagerens bidrag ved den månedlige udbetaling af pensionen med henblik på indbetaling af beløbet til Arbejdsmarkedets Tillægspension eller til et livsforsikringsselskab eller en pensionskasse efter modtagerens valg.
 
-Stk. 4. Social- og integrationsministeren kan fastsætte regler om den konkrete udformning og administrative tilrettelæggelse af den supplerende arbejdsmarkedspension.
+Stk. 4. Social-, børne-og integrationsministeren kan fastsætte regler om den konkrete udformning og administrative tilrettelæggelse af den supplerende arbejdsmarkedspension.

@@ -6,7 +6,7 @@ Stk. 1. Loven træder i kraft den 1. januar 1999, jf. dog stk. 2 og 3.
 
 Stk. 2. §§ 29, 31 og 49 i lov om social pension som ændret ved denne lovs § 1, nr. 1-6, 11 og 12, træder i kraft den 1. marts 1999.
 
-Stk. 3. Socialministeren fastsætter tidspunktet for ikrafttræden af § 1, nr. 8.
+Stk. 3. Social-, børne- og integrationsministeren fastsætter tidspunktet for ikrafttræden af § 1, nr. 8.
 
 Stk. 4. §§ 29, 31 og 49 i lov om social pension som ændret ved denne lovs § 1, nr. 1-6, 11 og 12, får ikke virkning for personer, der lever i et samlivsforhold, hvor den ene eller begge modtager social pension før den 1. marts 1999, medmindre de indleder et nyt samlivsforhold efter 1. marts 1999.
 
@@ -186,7 +186,7 @@ Stk. 1. Efter lovens ikrafttræden påhviler ansvaret for opbevaring af arkivali
 
 Stk. 2. Kommunen skal efter anmodning fra Udbetaling Danmark sende en kopi af de ønskede akter fra sager, der efter stk. 1, nr. 1 eller 2, opbevares i kommunen. Kommunen har i forbindelse med anmodninger om kopi af akter fra Udbetaling Danmark uden samtykke fra borgeren ret til at gennemgå og sortere en sag, som kommunen opbevarer for Udbetaling Danmark, med henblik på at kunne imødekomme Udbetaling Danmarks anmodning. Kommunen har desuden ret til at gennemgå og sortere en sag, som kommunen opbevarer for Udbetaling Danmark, hvis sagen indeholder oplysninger, der vedrører kommunens sagsområde, og hvis kommunen har et sagligt behov for oplysningerne.
 
-Stk. 3. Social- og integrationsministeren kan efter indstilling fra bestyrelsen for Udbetaling Danmark fastsætte regler om, at Udbetaling Danmark fra 2015 skal betale et gebyr til kommunen for at varetage opgaven efter stk. 2, 1. pkt., og regler om udfasning af kommunernes arkivforpligtelse over for Udbetaling Danmark fra 2018.
+Stk. 3. Social-, børne-og integrationsministeren kan efter indstilling fra bestyrelsen for Udbetaling Danmark fastsætte regler om, at Udbetaling Danmark fra 2015 skal betale et gebyr til kommunen for at varetage opgaven efter stk. 2, 1. pkt., og regler om udfasning af kommunernes arkivforpligtelse over for Udbetaling Danmark fra 2018.
 
 Lov nr. 928 af 18. september 2012 indeholder nedenstående ikrafttrædelses- og overgangsbestemmelse. (Lovændringen vedrører §§ 49-49 b og 72 d. Lovændringen angår ændret regulering af forskellige indkomstoverførsler i årene 2016-2023 samt forhøjelse af den supplerende pensionsydelse og pensionstillæg til folkepensionister).
 
@@ -240,7 +240,7 @@ Stk. 17. Kontohavere, som den 31. december 2012 har en særskilt konto i den sup
 
 Stk. 18. Arbejdsmarkedets Tillægspension fastsætter nærmere regler om størrelsen af renten samt principperne for forrentningen af indestående den 31. december 2012, jf. stk. 17.
 
-Stk. 19. Social- og integrationsministeren kan efter indstilling fra Arbejdsmarkedets Tillægspension fastsætte nærmere regler om overførslen den 1. januar 2013 af særskilte konti i den supplerende arbejdsmarkedspension for førtidspensionister hos Arbejdsmarkedets Tillægspension og erhvervelsen af pensionsrettigheder i ATP Livslang Pension, jf. stk. 13-17.
+Stk. 19. Social-, børne-og integrationsministeren kan efter indstilling fra Arbejdsmarkedets Tillægspension fastsætte nærmere regler om overførslen den 1. januar 2013 af særskilte konti i den supplerende arbejdsmarkedspension for førtidspensionister hos Arbejdsmarkedets Tillægspension og erhvervelsen af pensionsrettigheder i ATP Livslang Pension, jf. stk. 13-17.
 
 Stk. 20. § 16, nr. 1-3, i denne lov har virkning fra og med indkomståret 2013.
 
@@ -285,3 +285,25 @@ Stk. 11. Ved overgang til førtidspension efter lov om social pension, jf. § 44
 Stk. 12. Krav på tilbagebetaling af pension, jf. §§ 42 og 43 i lov om højeste, mellemste, forhøjet almindelig og almindelig førtidspension m.v., kan fratrækkes i korrektionsbeløbet, jf. stk. 4. Hvis kravet ikke kan dækkes i korrektionsbeløbet, fratrækkes det resterende krav i pensionen efter § 32 i lov om social pension.
 
 Stk. 13. Direktøren for Pensionsstyrelsen kan udøve de beføjelser, som kommunerne og Udbetaling Danmark har efter lovens § 1, nr. 2, § 2 og stk. 1-12 vedrørende førtidspension, der ydes i henhold til forordning (EF) nr. 883/04 om koordinering af de sociale sikringsordninger, førtidspension, der ydes i henhold til overenskomster med andre stater, og førtidspension, der i øvrigt ydes til personer med bopæl i udlandet, efter regler i lov om højeste, mellemste, forhøjet almindelig og almindelig førtidspension m.v. og efter lov om social pension.
+
+Lov nr. 493 af 21. maj 2013 indeholder nedenstående ikrafttrædelses- og overgangsbestemmelse. (Lovændringen vedrører § 50. Loven angår forenkling af klagestrukturen på det sociale og beskæftigelsesmæssige område)
+
+§ 25
+
+Loven træder i kraft den 1. juli 2013.
+
+§ 26
+
+(Udeladt).
+
+Lov nr. 494 af 21. maj 2013 indeholder nedenstående ikrafttrædelses- og overgangsbestemmelse. (Lovændringen vedrører §§ 3, 46 b, 56 a, 62 og 62 a. Lovændringen angår overførsel af Pensionsstyrelsens opgaver til Udbetaling Danmark)
+
+§ 11
+
+Stk. 1. Loven træder i kraft den 1. juni 2013.
+
+Stk. 2. Udbetaling Danmark færdigbehandler sager på sagsområder, der som følge af lovens §§ 3-6 overføres til behandling i Udbetaling Danmark, og som ikke inden lovens ikrafttræden er endeligt afsluttet af Pensionsstyrelsen. Told- og skatteforvaltningen færdigbehandler sager, der som følge af lovens § 9 overføres til behandling i told- og skatteforvaltningen, hvis de ikke er blevet afgjort af Pensionsstyrelsen på tidspunktet for lovens ikrafttræden.
+
+Stk. 3. Udbetaling Danmark kan uden fornyet samtykke behandle sager efter stk. 2, hvis borgeren har givet samtykke til Pensionsstyrelsen efter § 11 a, stk. 1, i lov om retssikkerhed og administration på det sociale område.
+
+Stk. 4. Udbetaling Danmark overtager Pensionsstyrelsens krav mod borgeren og borgerens krav mod Pensionsstyrelsen, der måtte foreligge ved lovens ikrafttræden, i sager, der som følge af lovens §§ 3-5 overføres til Udbetaling Danmark.
