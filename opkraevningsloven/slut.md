@@ -1,12 +1,12 @@
-Skatteministeriet, den 7. december 2010
+Skatteministeriet, den 23. september 2013
 
-P.M.V. Peter Loft
+P.M.V. Jens Brøchner
 
-/ K.-H. Ludolph
+/ Per Hvas
 
 Bilag 1
 
-Liste A
+## Liste A
 
 1) Lov om energiafgift af mineralolieprodukter m.v.
 
@@ -70,10 +70,12 @@ Liste A
 
 31) Lov om afgift af polyvinylklorid og ftalater (pvc og visse blødgøringsmidler).
 
-32) Lov om gevinstgivende spilleautomater.
+32) Lov om afgift af mineralsk fosfor i foderfosfat.
 
-33) Lov om afgift af mineralsk fosfor i foderfosfat.
+33) Lov om afgift af kvælstofoxider.
 
-Liste B
+34) Lov om afgift af skadesforsikringer.
+
+## Liste B
 
 1) Kildeskatteloven.
