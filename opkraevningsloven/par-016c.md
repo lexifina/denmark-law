@@ -1,0 +1,9 @@
+§ 16 c. En debetsaldo forrentes med den rente, der er fastsat i § 7, stk. 1, jf. stk. 2. Renten beregnes dagligt og tilskrives månedligt. Renten er ikke fradragsberettiget.
+
+Stk. 2. En kreditsaldo forrentes med den rentesats, der er fastsat i § 7, stk. 2. Renten beregnes fra den dag, hvor kreditsaldoen er fremkommet. Renten beregnes dagligt og tilskrives månedligt. En kreditsaldo, der overstiger 5.000 kr., forrentes ikke. Renten er ikke skattepligtig.
+
+Stk. 3. Overstiger en debetsaldo for en virksomhed 5.000 kr., skal hele beløbet indbetales straks, og told- og skatteforvaltningen udsender et rykkerbrev herom til virksomheden. Told- og skatteforvaltningen udsender ikke rykkerbreve om en debetsaldo på 5.000 kr. eller derunder. Rykkerbrev udsendes dog til ophørte virksomheder, også hvor debetsaldoen er mindre end 5.000 kr. Betales beløbet ikke inden den frist, der er fastsat i rykkerbrevet, kan beløbet overgives til inddrivelse. Et beløb, der overgives til inddrivelse, vil fremgå af skattekontoen. Der pålægges gebyr efter § 6 ved udsendelse af rykkerbrev.
+
+Stk. 4. En kreditsaldo udbetales til virksomhedens nemkonto, medmindre virksomheden har ønsket en beløbsgrænse for udbetaling af en kreditsaldo. Kreditsaldoen udbetales først, når den er på 100 kr. eller derover, medmindre virksomheden tilkendegiver at ville have ethvert beløb uanset størrelse udbetalt. Udbetaling af en kreditsaldo kan ikke ske, i det omfang virksomheden mangler at indsende angivelser for afsluttede perioder eller at indsende selvangivelse, jf. § 12, stk. 4.
+
+Stk. 5. Udbetaling af en kreditsaldo afventer forfaldne skatte- og afgiftskrav, hvis kravet har sidste rettidige betalingsfrist inden for 5 hverdage fra kreditsaldoens opståen. Opstår kreditsaldoen som følge af, at virksomhedens tilsvar for en afregningsperiode er negativt, udbetales kreditsaldoen dog senest efter fristen i § 12, stk. 2.
