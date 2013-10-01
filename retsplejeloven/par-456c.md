@@ -1,6 +1,6 @@
 § 456 c. Sagen indbringes for den byret, hvor moderen har hjemting.
 
-Stk. 2. Har moderen ikke hjemting her i landet, indbringes sagen for byretten, hvor den mand, der er part i sagen, har hjemting. Er flere mænd ved sagens indbringelse for retten parter i sagen, bestemmer justitsministeren, hvilken af de kompetente byretter sagen skal indbringes for.
+Stk. 2. Har moderen ikke hjemting her i landet, indbringes sagen for byretten, hvor den person, som i medfør af § 456 e, stk. 1, nr. 3, er part i sagen, har hjemting. Er flere personer i medfør af § 456 e, stk. 1, nr. 3, ved sagens indbringelse for retten parter i sagen, bestemmer justitsministeren, hvilken af de kompetente byretter sagen skal indbringes for.
 
 Stk. 3. Kan der ikke påvises et værneting efter stk. 1 og 2, bestemmer justitsministeren, hvilken byret sagen skal indbringes for.
 
