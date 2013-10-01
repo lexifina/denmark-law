@@ -401,3 +401,113 @@ Stk. 3. (Udelades)
 Stk. 4. Lovens § 2, nr. 5, finder ikke anvendelse for sager, der er indbragt for retten inden lovens ikrafttræden, hvis retten inden dette tidspunkt har afholdt en samtale med barnet efter den hidtil gældende § 450 c i retsplejeloven eller har indkaldt barnet til en sådan samtale.
 
 Stk. 5. (Udelades)
+
+Lov nr. 1242 af 18. december 2012 (Revision af reglerne om forkyndelse m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 5
+
+Stk. 1. Loven træder i kraft den 1. juli 2013, jf. dog stk. 2.
+
+Stk. 2. Justitsministeren fastsætter tidspunktet for ikrafttræden af § 1, nr. 7.
+
+Stk. 3. Lovens § 1, nr. 13 og 14, finder alene anvendelse i straffesager, der indledes ved retten efter lovens ikrafttræden, jf. stk. 1.
+
+Lov nr. 1387 af 23. december 2012 (Midlertidige afgørelser om forbud og påbud) indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 7
+
+Stk. 1. Loven træder i kraft den 1. juli 2013.
+
+Stk. 2. Loven finder anvendelse i forhold til anmodninger om meddelelse af forbud og påbud, der indgives til retten efter lovens ikrafttræden.
+
+Lov nr. 378 af 17. april 2013 (Styrkelse af Forbrugerombudsmandens processuelle beføjelser og håndhævelsesbeføjelser i forhold til finansielle virksomheder m.v. samt styrkelse af beskyttelsen af børn og unge i forbindelse med markedsføring af alkohol) indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 5
+
+Loven træder i kraft den 1. maj 2013.
+
+Lov nr. 428 af 1. maj 2013 (Gennemførelse af Europarådets konvention om hvidvask, efterforskning, beslaglæggelse og konfiskation af udbytte fra strafbare handlinger samt finansiering af terrorisme samt gennemførelse af den tredje og fjerde tillægsprotokol til den europæiske konvention om udlevering m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 4
+
+Stk. 1. Loven træder i kraft den 1. juli 2013.
+
+Stk. 2. (Udelades)
+
+Lov nr. 429 af 1. maj 2013 (Konkurskarantæne) indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 4
+
+Stk. 1. Justitsministeren fastsætter tidspunktet for lovens ikrafttræden.
+
+Stk. 2-3. (Udelades)
+
+Lov nr. 604 af 12. juni 2013 indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 23
+
+Loven træder i kraft den 1. januar 2014, jf. dog stk. 2.
+
+Stk. 2. Medlemmerne af Tilsynet med Efterretningstjenesterne kan beskikkes med virkning fra den 1. september 2013. Tilsynet med Efterretningstjenesterne kan antage sekretariatsbistand, jf. § 16, stk. 4, når tilsynets medlemmer er udpeget.
+
+Stk. 3. Begæringer om aktindsigt, som er indgivet før lovens ikrafttræden, afgøres efter de hidtil gældende regler.
+
+Stk. 4. Ved den første beskikkelse af medlemmer til Tilsynet med Efterretningstjenesterne, jf. § 16, udpeges 2 af medlemmerne for en periode på 2 år med ret til genbeskikkelse i 4 år. De øvrige 3 medlemmer, herunder formanden, udpeges for en periode på 4 år med ret til genbeskikkelse i 4 år.
+
+Lov nr. 622 af 12. juni 2013 (Overgang til obligatorisk digital selvbetjening for borgere, for så vidt angår ansøgning om økonomisk fripladstilskud, meddelelse om valg af læge, ansøgning om navngivning og navneændring, indgivelse af erklæring om faderskab, anmeldelse af cykeltyveri m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 17
+
+Stk. 1. Loven træder i kraft den 1. december 2013.
+
+Stk. 2. Loven finder alene anvendelse for ansøgninger, anmeldelser, anmodninger, meddelelser og erklæringer, der indgives efter lovens ikrafttræden.
+
+Lov nr. 629 af 12. juni 2013 (Udvidelse af ordning om underretning af forurettede og styrkelse af rammerne for behandling af ansøgninger om offererstatning) indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 3
+
+Loven træder i kraft den 1. juli 2013.
+
+Lov nr. 633 af 12. juni 2013 (Seksualforbrydelser) indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 5
+
+Stk. 1. Loven træder i kraft den 1. juli 2013.
+
+Stk. 2-5. (Udelades)
+
+Lov nr. 634 af 12. juni 2013 (Styrket indsats over for økonomisk kriminalitet) indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 13
+
+Stk. 1. Loven træder i kraft den 1. juli 2013.
+
+Stk. 2-3. (Udelades)
+
+Lov nr. 638 af 12. juni 2013 (Ændringer i lyset af lov om offentlighed i forvaltningen) indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 3
+
+Stk. 1. Loven træder i kraft den 1. januar 2014.
+
+Stk. 2. Lovens § 1 og § 2, nr. 2 og 6, finder ikke anvendelse på sager, der behandles efter lov om aktindsigt i miljøoplysninger. I disse sager finder de hidtil gældende regler fortsat anvendelse.
+
+Stk. 3. Anmodninger om aktindsigt, som er indgivet før lovens ikrafttræden, afgøres efter denne lov.
+
+Lov nr. 642 af 12. juni 2013 (Gennemførelse af bestemmelser i forordning om integritet og gennemsigtighed på engrosenergimarkederne (REMIT-forordningen) om beføjelser, sanktioner og offentliggørelse samt udrulning af fjernaflæste elmålere m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 5
+
+Stk. 1. Loven træder i kraft den 15. juni 2013, jf. dog stk. 2.
+
+Stk. 2. (Udelades)
+
+Lov nr. 652 af 12. juni 2013 (Medmoderskab m.v.) indeholder følgende ikrafttrædelsesbestemmelser:
+
+§ 8
+
+Loven træder i kraft den 1. december 2013, jf. dog § 9.
+
+§ 9
+
+Stk. 1-5. (Udelades)

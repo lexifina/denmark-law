@@ -2,4 +2,4 @@
 
 Stk. 2. Reglerne i dette kapitel finder med de fornødne lempelser anvendelse under anke.
 
-Stk. 3. Uanset ankefrister kan landsretten under anken inddrage enhver, der for byretten har været inddraget som part. Opstår der spørgsmål om inddragelse af andre mænd, kan sagen hjemvises til fornyet behandling ved byretten.
+Stk. 3. Uanset ankefrister kan landsretten under anken inddrage enhver, der for byretten har været inddraget som part. Opstår der spørgsmål om inddragelse af andre personer, kan sagen hjemvises til fornyet behandling ved byretten.
