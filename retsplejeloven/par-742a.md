@@ -1,0 +1,1 @@
+§ 742 a. Anmeldelse efter § 742, stk. 1, der alene vedrører tyveri af cykler og brugstyveri af cykler, skal indgives til politiet ved anvendelse af den digitale løsning, som politiet stiller til rådighed (digital selvbetjening).
