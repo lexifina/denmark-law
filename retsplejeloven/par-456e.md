@@ -4,6 +4,6 @@
 
 2) moderen eller hendes dødsbo og
 
-3) den eller de mænd eller dødsboer, som retten efter børnelovens § 17 skal inddrage.
+3) den eller de personer eller dødsboer, som retten efter børnelovens § 17 skal inddrage.
 
 Stk. 2. Er en part umyndig, optræder værgen på partens vegne i sagen. Parterne kan i øvrigt optræde på egen hånd uden hensyn til værgemål. Finder retten det påkrævet, at der for en part beskikkes en særlig værge, jf. værgemålslovens §§ 47-49, kan denne beskikkes af retten.

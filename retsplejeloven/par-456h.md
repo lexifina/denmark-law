@@ -2,7 +2,7 @@
 
 Stk. 2. Retten træffer selv bestemmelse om afhøring af parter og vidner og om tilvejebringelse af udtalelser fra sagkyndige og andre bevismidler. Retten indkalder selv parter og vidner.
 
-Stk. 3. Politiet yder retten bistand til sagens oplysning, herunder ved eftersøgning af opgivne fadermuligheder.
+Stk. 3. Politiet yder retten bistand til sagens oplysning, herunder ved eftersøgning af opgivne fader- eller medmodermuligheder.
 
 Stk. 4. Bestemmelserne i denne lov om virkningerne af en parts udeblivelse eller møde uden at rejse indsigelse gælder ikke i sager efter dette kapitel.
 
