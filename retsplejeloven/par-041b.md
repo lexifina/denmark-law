@@ -14,8 +14,12 @@ Stk. 2. Retten til aktindsigt omfatter ikke
 
 Stk. 3. Retten til aktindsigt kan begrænses, i det omfang
 
-1) det er nødvendigt til beskyttelse af væsentlige hensyn til statens sikkerhed eller forholdet til fremmede magter eller mellemfolkelige institutioner,
+1) det er af væsentlig betydning for statens sikkerhed,
 
-2) det af ganske særlige grunde er påkrævet af hensyn til forebyggelse, opklaring og forfølgning af lovovertrædelser eller
+2) fortrolighed følger af EU-retlige eller folkeretlige forpligtelser el.lign. ,
 
-3) dommen eller kendelsen indeholder oplysninger om enkeltpersoners rent private forhold eller virksomheders erhvervshemmeligheder og offentlighedens indsigt i retssager findes at burde vige for væsentlige hensyn til de pågældende, der ikke kan varetages ved anonymisering i medfør af § 41 e, stk. 4.
+3) det er nødvendigt til beskyttelse af væsentlige hensyn til forholdet til fremmede magter eller mellemfolkelige institutioner,
+
+4) det af ganske særlige grunde er påkrævet af hensyn til forebyggelse, opklaring og forfølgning af lovovertrædelser eller
+
+5) dommen eller kendelsen indeholder oplysninger om enkeltpersoners rent private forhold eller virksomheders erhvervshemmeligheder og offentlighedens indsigt i retssager findes at burde vige for væsentlige hensyn til de pågældende, der ikke kan varetages ved anonymisering i medfør af § 41 e, stk. 4.
