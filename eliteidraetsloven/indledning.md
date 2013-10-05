@@ -1,3 +1,3 @@
 Bekendtgørelse af lov om eliteidræt
 
-Herved bekendtgøres lov nr. 288 af 26. april 2004 om eliteidræt med de ændringer, der følger af lov nr. 563 af 24. juni 2005.
+Herved bekendtgøres lov om eliteidræt, jf. lovbekendtgørelse nr. 1332 af 30. november 2007, med de ændringer, der følger af § 16 i lov nr. 1531 af 21. december 2010.

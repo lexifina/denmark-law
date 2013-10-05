@@ -1,5 +1,5 @@
-Kulturministeriet, den 30. november 2007
+Kulturministeriet, den 25. september 2013
 
-Brian Mikkelsen
+Marianne Jelved
 
-/ Peter Schønning
+/ Bente Skovgaard Kristensen
