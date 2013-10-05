@@ -1,7 +1,5 @@
-Givet på Christiansborg Slot, den 10. juni 2003
+Kulturministeriet, den 23. september 2013
 
-Under Vor Kongelige Hånd og Segl
+Marianne Jelved
 
-MARGRETHE R.
-
-/Brian Mikkelsen
+/ Lars M. Banke
