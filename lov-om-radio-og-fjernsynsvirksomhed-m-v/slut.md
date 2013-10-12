@@ -1,5 +1,5 @@
-Kulturministeriet, den 6. oktober 2011
+Kulturministeriet, den 23. september 2013
 
-Uffe Elbæk
+Marianne Jelved
 
 / Lars M. Banke

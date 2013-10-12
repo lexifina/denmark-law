@@ -122,7 +122,7 @@ Stk. 2. § 90, stk. 3, i lov om radio- og fjernsynsvirksomhed som affattet ved d
 
 Stk. 3. Foretagender, der på tidspunktet for lovens ikrafttræden udøver programvirksomhed ved hjælp af satellit, fællesantenneanlæg, jordbaserede digitale tv-sendemuligheder, kortbølgesendemuligheder eller øvrige elektroniske kommunikationsnet, og som hører under dansk myndighed, jf. § 47, stk. 1, 1. pkt., i lov om radio- og fjernsynsvirksomhed som affattet ved denne lovs § 1, nr. 18, og som ikke allerede er registreret hos Radio- og tv-nævnet, skal lade sig registrere hos nævnet senest den 1. februar 2010.
 
-Lov nr. 1360 af 8. december 2010 om ændring af lov om radio- og fjernsynsvirksomhed (Genneførelse af medieaftale for 2011-2014 m.v.) indeholder følgende bestemmelser:
+Lov nr. 1360 af 8. december 2010 om ændring af lov om radio- og fjernsynsvirksomhed (Gennemførelse af medieaftale for 2011-2014 m.v.) indeholder følgende bestemmelser:
 
 § 2
 
@@ -139,3 +139,23 @@ Lov nr. 1531 af 21. december 2010 om økonomiske og administrative forhold for m
 § 14. Loven træder i kraft den 1. januar 2011.
 
 Stk. 2-3. (Udelades)
+
+Lov nr. 513 af 27. maj 2013 om ændring af lov om radio- og fjernsynsvirksomhed og lov om TV2/DANMARK A/S (Ændrede must carry-regler, DR’s adgang til sponsorering, de regionale TV 2-virksomheders dækningsområde, afskaffelse af radiolicensen, genindførelse af forbud mod produktplacering og ophævelse af finansministerens bemyndigelse til at sælge aktierne i TV 2/DANMARK A/S m.v. som led i gennemførelse af medieaftale for 2012-2014) indeholder følgende ikrafttrædelsesbestemmelser:
+
+§ 3
+
+Stk. 1. Loven træder i kraft den 1. juni 2013, jf. dog stk. 2.
+
+Stk. 2. § 1, nr. 13-15, træder i kraft den 1. juli 2013.
+
+§ 4
+
+Stk. 1. § 1, nr. 16-18, finder alene anvendelse på programmer, hvorom der er indgået eller forlænget aftale om produktion efter lovens ikrafttræden, eller indkøb af sådanne programmer efter lovens ikrafttræden.
+
+Stk. 2. § 13, stk. 1 og 2, i lov om radio- og fjernsynsvirksomhed som affattet ved denne lovs § 1, nr. 7, finder alene anvendelse på programmer, hvorom der er indgået eller forlænget aftale om sponsorering efter lovens ikrafttræden.
+
+Lov nr. 644 af 12. juni 2013 om ændring af lov om radio- og fjernsynsvirksomhed (Forbud mod fremme af terrorisme i programvirksomhed m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 2
+
+Loven træder i kraft den 1. juli 2013.

@@ -1,4 +1,4 @@
-§ 69 a. Medielicensen og radiolicensen opkræves af DR og fordeles efter ministerens nærmere bestemmelse til DR, de regionale TV 2-virksomheder og eventuelle andre medie- og filmrelaterede formål.
+§ 69 a. Medielicensen opkræves af DR og fordeles efter ministerens nærmere bestemmelse til DR, de regionale TV 2-virksomheder og eventuelle andre medie- og filmrelaterede formål.
 
 Stk. 2. Kulturministeren kan fastsætte nærmere regler om licenspligtens indtræden og ophør, om betalingsfrister og opkrævning samt om gebyrer m.v. Der påløber renter af for sent betalt licens og andre skyldige beløb. Ministeren kan i den forbindelse fastsætte regler om mindstebeløb for henholdsvis opkrævning og tilbagebetaling af licens. Renterne beregnes fra forfaldsdagen. Renter samt rykkergebyrer fastsættes efter bestemmelserne i lov om renter ved forsinket betaling m.v. Kulturministeren kan fastsætte regler om henstand og eftergivelse af restancer.
 
