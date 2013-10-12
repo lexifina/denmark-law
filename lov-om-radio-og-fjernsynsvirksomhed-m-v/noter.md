@@ -1,4 +1,4 @@
-1) Loven indeholder bestemmelser, der gennemfører dele af Europa-Parlamentets og Rådets direktiv 2010/13/EU af 10. marts 2010 om samordning af visse love og administrative bestemmelser i medlemsstaterne om udbud af audiovisuelle medietjenester (direktiv om audiovisuelle medietjenester), EU-Tidende 2010 nr. L 95, side 1.
+1) Loven indeholder bestemmelser, der gennemfører dele af Europa-Parlamentets og Rådets direktiv 2010/13/EU af 10. marts 2010 om samordning af visse love og administrative bestemmelser i medlemsstaterne om udbud af audiovisuelle medietjenester (direktiv om audiovisuelle medietjenester), EU-Tidende 2010 nr. L 95, side 1, og Europa-Parlamentets og Rådets direktiv 2002/22/EF af 7. marts 2002 om forsyningspligt og brugerrettigheder i forbindelse med elektroniske kommunikationsnet og -tjenester (forsyningsdirektivet), EU-Tidende 2002, nr. L 108, side 51, som ændret ved Europa-Parlamentets og Rådets direktiv 2009/136/EF af 25. november 2009, EU-Tidende, 2009, nr. L 337, side11.
 
 2) I henhold til lov nr. 1569 af 20. december 2006 trådte § 16, stk. 4, i kraft den 1. januar 2011.
 
