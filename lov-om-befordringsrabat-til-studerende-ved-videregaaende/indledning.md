@@ -1,3 +1,5 @@
 Bekendtgørelse af lov om befordringsrabat til studerende ved videregående uddannelser
 
-Herved bekendtgøres lov om befordringsrabat til studerende ved videregående uddannelser, jf. lovbekendtgørelse nr. 628 af 28. juni 2001, med de ændringer, der følger af § 73 i lov nr. 145 af 25. marts 2002, § 9 i lov nr. 593 af 24. juni 2005 og § 2 i lov nr. 312 af 19. april 2006.
+Herved bekendtgøres lov om befordringsrabat til studerende ved videregående uddannelser, jf. lovbekendtgørelse nr. 353 af 14. marts 2007, med de ændringer, der følger af § 33 i lov nr. 551 af 6. juni 2007, § 3 i lov nr. 208 af 31. marts 2008, § 3 i lov nr. 78 af 27. januar 2010, § 1 i lov nr. 1567 af 21. december 2010, § 3 i lov nr. 485 af 17. maj 2013, og § 2 i lov nr. 899 af 4. juli 2013.
+
+Den bekendtgjorte lovtekst vedrørende § 4 a, stk.1, 1. pkt., og § 4 a, stk. 2, gælder først fra den 1. januar 2016, jf. § 4, stk. 1, i lov nr. 899 af 4. juli 2013 om ændring af SU-loven, lov om befordringsrabat til studerende ved videregående uddannelser og lov om befordringsrabat til uddannelsessøgende i ungdomsuddannelser m.v. (Ændring af reglerne om støttetid, begrænsninger i adgangen til Statens Uddannelsesstøtte til ungdomsuddannelser, nye støttesatser for hjemmeboende, ændret satsregulering i perioden 2014-2021, øget støtte til befordringsgodtgørelse m.v.).
