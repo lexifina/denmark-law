@@ -152,9 +152,13 @@ Lov nr. 570 af 24. juni 2005 om ændring af lov om miljømål m.v. for vandforek
 
 § 4
 
-Stk. 1. Loven træder i kraft den 1. januar 2007, jf. dog stk. 6.
+Stk. 1. Loven træder i kraft den 1. januar 2007, jf. dog stk. 2-9.
+
+Stk. 2-5. (udeladt)
 
 Stk. 6. § 2, nr. 55, og § 4, stk. 5, træder i kraft dagen efter bekendtgørelsen i Lovtidende.
+
+Stk. 7-9. (udeladt)
 
 § 5
 
@@ -182,7 +186,9 @@ Lov nr. 571 af 9. juni 2006 om ændring af lov om naturbeskyttelse, lov om milj�
 
 § 12
 
-Stk. 1. Loven træder i kraft den 1. januar 2007.
+Stk. 1. Loven træder i kraft den 1. januar 2007, jf. dog stk. 2.
+
+Stk. 2. (udeladt)
 
 Stk. 3. Sager, der pr. 1. januar 2007 er indbragt for Miljøklagenævnet, færdigbehandles efter de hidtil gældende regler.
 
@@ -260,7 +266,7 @@ Lov nr. 1518 af 27. december 2009 om ændring af lov om vandsektorens organiseri
 
 Stk. 1. Loven træder i kraft den 1. januar 2010, jf. dog stk. 2.
 
-Stk. 2. § 52 a, stk. 1, i lov om vandforsyning m.v. som affattet ved denne lovs § 3, nr. 1, og § 1, stk. 2, der bliver stk. 4, i lov om betalingsregler for spildevand m.v. som ændret ved denne lovs § 4, nr. 3, træder i kraft den 1. januar 2011.6
+Stk. 2. § 52 a, stk. 1, i lov om vandforsyning m.v. som affattet ved denne lovs § 3, nr. 1, og § 1, stk. 2, der bliver stk. 4, i lov om betalingsregler for spildevand m.v. som ændret ved denne lovs § 4, nr. 3, træder i kraft den 1. januar 2011.
 
 Lov nr. 1519 af 27. december 2009 om ændring af lov om vandforsyning m.v., lov om miljøbeskyttelse, lov om naturbeskyttelse og lov om vandløb (Hjemmel til at fastsætte regler om drift af vandforsyningsanlæg og om sagsbehandling af bestemte typer af sager samt forlængelse af visse vandindvindingstilladelser og -rettigheder), som ændrer § 22, stk. 1, og § 86, stk. 2, og indsætter § 22, stk. 6, § 56 a og § 74 c, indeholder følgende ikrafttrædelses- og overgangsbestemmelser:
 
@@ -275,3 +281,73 @@ Stk. 2. § 22, stk. 1, i lov om vandforsyning m.v. som affattet ved denne lovs �
 Stk. 1. Uanset de gældende bestemmelser i § 86, stk. 1 og 2, i lov om vandforsyning m.v. ophører rettigheder i medfør af disse bestemmelser, der efter den gældende bestemmelse i § 86, stk. 4, i lov om vandforsyning m.v. fortsat gælder den 1. januar 2010, først senest 1 år efter vedtagelsen af den første kommunale handleplan i medfør af miljømålsloven.
 
 Stk. 2. Tilladelse til vandindvinding meddelt efter kapitel 4 i lov om vandforsyning m.v., der er meddelt før den 1. januar 2010, og som udløber efter den 1. januar 2010, men inden vedtagelsen af den første kommunale handleplan i medfør af miljømålsloven, ophører først senest 1 år efter vedtagelsen af den kommunale handleplan. Dette gælder dog ikke tilladelser, der er påklaget til Miljøklagenævnet, og som ikke er afgjort den 1. januar 2010, samt tilladelser, der påklages efter dette tidspunkt.
+
+Lov nr. 484 af 11. maj 2010 om ændring af lov om naturbeskyttelse, lov om miljøbeskyttelse og forskellige andre love (Ændringer som følge af lov om Natur- og Miljøklagenævnet m.v.), som ændret ved § 2 i lov nr. 1608 af 22. december 2010, som ændrer § 75, § 78, stk. 1, 2, 3, 4, 6 og 7, og ændrer § 80, stk. 5, indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 28
+
+Stk. 1. Loven træder i kraft den 1. januar 2011, jf. dog stk. 2.
+
+Stk. 2-4. (Udeladt)
+
+Stk. 5. Verserende sager i Naturklagenævnet, der ikke er færdigbehandlet ved lovens ikrafttræden, færdigbehandles efter lov om Natur- og Miljøklagenævnet af Natur- og Miljøklagenævnet med den i § 5, stk. 1, nr. 2, i lov om Natur- og Miljøklagenævnet nævnte sammensætning. I sager, hvor Naturklagenævnet har afholdt besigtigelse i en sag om fredning efter naturbeskyttelseslovens kapitel 6, sammensættes Natur- og Miljøklagenævnet med deltagelse af de nævnsmedlemmer, der deltog i besigtigelsen.
+
+Stk. 6. (Udeladt)
+
+Stk. 7. Miljøministeren kan i øvrigt fastsætte overgangsregler.
+
+Lov nr. 718 af 25. juni 2010 om ændring af konkursloven og forskellige andre love (Rekonstruktion m.v.), som ændrer § 46 a, stk. 1, indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 55
+
+Stk. 1. Justitsministeren fastsætter tidspunktet for lovens ikrafttræden.
+
+Stk. 2-10. (Udeladt)
+
+Lov nr. 1555 af 21. december 2010 om ændring af lov om varmeforsyning, lov om vandforsyning m.v., lov om miljøbeskyttelse og lov om forurenet jord (Digital adgang til oplysninger i forbindelse med ejendomshandel), som indsætter § 8 a, indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 5
+
+Loven træder i kraft den 1. januar 2011.
+
+Lov nr. 553 af 1. juni 2011 om ændring af lov om naturbeskyttelse, lov om planlægning, lov om vandløb og forskellige andre love (»Grøn Vækst«), som ændrer fodnoten til lovens titel nr. 1, indsætter ny pkt. 11 i § 52 a, stk. 1, hvorefter ptk. 11 og 12 bliver til 12 og 13, indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 8
+
+Stk. 1. Loven træder i kraft den 15. juli 2011.
+
+Stk. 2. (Udeladt)
+
+Lov nr. 1273 af 21. december 2011 om ændring af lov om miljøbeskyttelse, lov om planlægning og forskellige andre love, som ændrer § 8, stk. 2, indsætter nyt pkt. i § 16, stk. 3, § 57, stk. 2, § 68 g, stk. 2 og § 72, stk. 2, indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 20
+
+Loven træder i kraft den 1. januar 2012.
+
+Lov nr. 1384 af 28. december 2011 om ændring af brændstofforbrugsafgiftsloven, lov om forskellige forbrugsafgifter, lov om afgift af ledningsført vand, lov om vægtafgift af motorkøretøjer m.v., lov om vandforsyning m.v. og miljømålsloven (Regulering af de løbende bilafgifter og andre afgifter m.v.), som ændrer overskriften til kapitel 4a, ophæver § 24-24c og § 24e-24j med tilhørende overskrifter og ændrer § 52a, stk. 1, nr. 12, indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 7
+
+Stk. 1. Loven træder i kraft den 1. januar 2012.
+
+Stk. 2-21. (Udeladt)
+
+Lov nr. 580 af 18. juni 2012 om ændring af lov om Natur- og Miljøklagenævnet og forskellige andre love (Reform af klagesystemet på natur- og miljøområdet m.v.), som ændrer § 75, stk. 3 og indsætter nye stk. 4 og 5, indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 28
+
+Stk. 1. Loven træder i kraft den 1. august 2012, jf. dog stk. 2.
+
+Stk. 2. (Udeladt)
+
+Stk. 3. Loven finder anvendelse på afgørelser truffet i 1. instans efter lovens ikrafttræden.
+
+Stk. 4. (Udeladt)
+
+Lov nr. 492 af 21. maj 2013 om ændring af vandforsyning m.v., lov om vandløb og lov om forpligtende kommunale samarbejder og om ophævelse af lov om et kvalitetsstyringssystem for den kommunale sagsbehandling på natur- og miljøområdet, som ændrer § 63, stk. 1, § 63, stk. 3, § 72, stk. 2, 1. pkt., og § 80, stk. 1, indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 5
+
+Stk. 1. Loven træder i kraft den 1. juni 2013.
+
+Stk. 2. Vandløbsmyndigheden kan bestemme, at § 42 a i lov om vandløb som affattet ved denne lovs § 2, nr. 2, skal finde anvendelse på udgifter, som vandløbsmyndigheden har afholdt før loven ikrafttræden, hvis udgifterne vedrører forhold, begivenheder m.v., der finder sted efter lovens ikrafttræden.
