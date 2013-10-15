@@ -1,5 +1,3 @@
-## Kommunernes indberetning af oplysninger
-
 § 24 d. Kommunalbestyrelsen indberetter hvert år til databasen for grundvands-, drikkevands-, råstof-, miljø- og geotekniske data, Jupiterdatabasen, oplysninger om
 
 1) vandindvindingsanlæg, hvortil der senest den 1. januar det pågældende år er meddelt tilladelse efter § 20, og den årlige tilladte indvindingsmængde,
