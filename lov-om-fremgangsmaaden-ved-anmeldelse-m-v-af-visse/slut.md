@@ -1,7 +1,5 @@
-Givet på Christiansborg Slot, den 6. juni 2007
+Erhvervsstyrelsen, den 14. oktober 2013
 
-Under Vor Kongelige Hånd og Segl
+P.M.V. Betina Hagerup
 
-Margrethe R.
-
-/Bendt Bendtsen
+/ Søren Houen
