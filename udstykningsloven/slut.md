@@ -1,5 +1,5 @@
-Miljøministeriet, den 12. juni 2003
+Geodatastyrelsen, den 7. oktober 2013
 
-Hans Chr. Schmidt
+Kristian Møller
 
-/Birgit Kristiansen
+/ Pia Dahl Højgaard
