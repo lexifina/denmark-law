@@ -1,4 +1,4 @@
-§ 8 a. Formuetillægget efter § 8, stk.6, opgøres som en andel af støttemodtagerens og dennes husstandsmedlemmers formuer. Social- og integrationsministeren kan fastsætte nærmere regler for opgørelse af formuen. Formuetillægget beregnes efter følgende skala:
+§ 8 a. Formuetillægget efter § 8, stk.6, opgøres som en andel af støttemodtagerens og dennes husstandsmedlemmers formuer. Social-, børne- og integrationsministeren kan fastsætte nærmere regler for opgørelse af formuen. Formuetillægget beregnes efter følgende skala:
 
 1) De første 587.500 kr. medregnes ikke.
 

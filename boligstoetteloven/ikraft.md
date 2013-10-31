@@ -186,14 +186,6 @@ Stk. 2-3. (Udeladt).
 
 Stk. 4. Denne lovs § 2 finder kun anvendelse ved afgørelser, der træffes i medfør af § 2, stk. 1, nr. 2, i lov om en børne- og ungeydelse, § 57 a, stk. 7, i lov om social service, § 2 a, stk. 3, i lov om vejledning om uddannelse og erhverv samt pligt til uddannelse, beskæftigelse m.v. og § 25, stk. 5, 7, 8, 9 eller 10, eller § 42 i lov om aktiv socialpolitik, der træffes efter lovens ikrafttræden.
 
-Lov nr. 1364 af 28. december 2011 indeholder følgende ikrafttrædelsesbestemmelse. (Lovændringen vedrører §§ 8 og 42 a. Lovændringen angår ophævelse af starthjælpen, loft over kontanthjælpen, 500-kroners-nedsættelsen, 225-timers-reglen, introduktionsydelsen m.v.)
-
-§ 7
-
-Stk. 1. Loven træder i kraft den 1. januar 2012.
-
-Stk. 2-8. (Udeladt).
-
 Lov nr. 326 af 11. april 2012 indeholder følgende ikrafttrædelsesbestemmelse. (Lovændringen medfører ændringer i §§ 1, 7 a, 9 b, 10, 11, 14, 15, 23, 37, 38, 39, 39 a, 40, 41, 42, 43, 44, 46, 46 a, 47, 48 b, 49, 50, 55, 73, 73 a og 75. Lovændringen angår fordeling af myndighedsansvaret mellem kommunerne og Udbetaling Danmark mv.)
 
 § 25
@@ -238,4 +230,28 @@ Stk. 1. Efter lovens ikrafttræden påhviler ansvaret for opbevaring af arkivali
 
 Stk. 2. Kommunen skal efter anmodning fra Udbetaling Danmark sende en kopi af de ønskede akter fra sager, der efter stk. 1, nr. 1 eller 2, opbevares i kommunen. Kommunen har i forbindelse med anmodninger om kopi af akter fra Udbetaling Danmark uden samtykke fra borgeren ret til at gennemgå og sortere en sag, som kommunen opbevarer for Udbetaling Danmark, med henblik på at kunne imødekomme Udbetaling Danmarks anmodning. Kommunen har desuden ret til at gennemgå og sortere en sag, som kommunen opbevarer for Udbetaling Danmark, hvis sagen indeholder oplysninger, der vedrører kommunens sagsområde, og hvis kommunen har et sagligt behov for oplysningerne.
 
-Stk. 3. Social- og integrationsministeren kan efter indstilling fra bestyrelsen for Udbetaling Danmark fastsætte regler om, at Udbetaling Danmark fra 2015 skal betale et gebyr til kommunen for at varetage opgaven efter stk. 2, 1. pkt., og regler om udfasning af kommunernes arkivforpligtelse over for Udbetaling Danmark fra 2018.
+Stk. 3. Social-, børne- og integrationsministeren kan efter indstilling fra bestyrelsen for Udbetaling Danmark fastsætte regler om, at Udbetaling Danmark fra 2015 skal betale et gebyr til kommunen for at varetage opgaven efter stk. 2, 1. pkt., og regler om udfasning af kommunernes arkivforpligtelse over for Udbetaling Danmark fra 2018.
+
+Lov nr. 218 af 5. marts 2013 indeholder følgende ikrafttrædelsesbestemmelse. (Lovændringen vedrører § 4 a. Lovændringen angår frivillig overgang til førtidspension efter lov om social pension)
+
+§ 4
+
+Loven træder i kraft den 1. april 2013.
+
+§ 5
+
+(Udeladt).
+
+§ 6
+
+Boligsikring efter lovens § 3 ydes tidligst med virkning fra begyndelsen af den måned, der følger nærmest efter den første udbetalingsmåned for førtidspension efter lov om social pension. For personer, der modtager boligydelse, omregner Udbetaling Danmark administrativt boligydelsen til boligsikring.
+
+Lov nr. 493 af 21. maj 2013 indeholder følgende ikrafttrædelses- og overgangsbestemmelser. (Lovændringen vedrører § 73. Lovændringen angår forenkling af klagestrukturen på det sociale og beskæftigelsesmæssige område)
+
+§ 25
+
+Loven træder i kraft den 1. juli 2013.
+
+§ 26
+
+(Udeladt).
