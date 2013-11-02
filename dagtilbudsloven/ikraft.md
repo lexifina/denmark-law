@@ -18,20 +18,78 @@ Stk. 7. Forældrebestyrelsens og privatinstitutionens beslutninger truffet i med
 
 Stk. 8. Afgørelser truffet i medfør af § 4, stk. 4, i lov nr. 1098 af 30. november 2009 om lov om ændring af lov om dag-, fritids- og klubtilbud m.v. til børn og unge om, at et barn kan fritages for et sundt frokostmåltid, gælder efter den 1. januar 2011 på samme måde som en afgørelse truffet i medfør af § 16 a, stk. 3, i lov om dag-, fritids- og klubtilbud m.v. til børn og unge (dagtilbudsloven) som affattet ved denne lovs § 1, nr. 2.
 
-Lov nr. 275 af 5. april 2011 indeholder nedenstående ikrafttrædelses- og overgangsbestemmelser. (Lovændringen vedrører §§ 4, 11, 12 og 43. Lovændringen angår obligatorisk dagtilbud til tosprogede børn omkring 3 år og standsning af børneydelsen ved forældres manglende overholdelse af sprogvurderings- og sprogstimuleringspligten m.v.)
+Lov nr. 275 af 5. april 2011 indeholder nedenstående ikrafttrædelsesbestemmelse. (Lovændringen vedrører §§ 4, 11, 12 og 43. Lovændringen angår obligatorisk dagtilbud til tosprogede børn omkring 3 år og standsning af børneydelsen ved forældres manglende overholdelse af sprogvurderings- og sprogstimuleringspligten m.v.)
 
 § 4
 
 Stk. 1. Loven træder i kraft den 1. juli 2011, jf. dog stk. 2 og 3.
 
-Stk. 2. Dagtilbudslovens § 12, stk. 2 og 3, som affattet ved denne lovs § 1, nr. 8, (...) træder i kraft den 1. januar 2012.
+Stk. 2. Dagtilbudslovens § 12, stk. 2 og 3, som affattet ved denne lovs § 1, nr. 8, og § 2 træder i kraft den 1. januar 2012.
 
 Stk. 3. (Udeladt).
 
 Stk. 4. Dagtilbudslovens § 11, stk. 5, som affattet ved denne lovs § 1, nr. 3, finder ikke anvendelse for børn, der har modtaget en sprogvurdering og sprogstimulering efter dagtilbudslovens § 11, stk. 2 og 3, før den 1. juli 2011.
 
-Lov nr. 631 af 14. juni 2011 indeholder nedenstående ikrafttrædelsesbestemmelse. (Lovændringen vedrører §§ 6, 14-16, 16 a, 16 b, 17, 19, 23, 24, 26-29, 31, 32, 32 a, 35-38, 41, 48-59, 61, 66-72, 74, 80, 82, 86, 88, 92, 94. Lovændringen vedrører udlicitering af daginstitutioner, fritidshjem og klubtilbud m.v. til private leverandører.)
+Lov nr. 631 af 14. juni 2011 indeholder nedenstående ikrafttrædelsesbestemmelse. (Lovændringen vedrører §§ 6, 14-16, 16 a, 16 b, 17, 19, 23, 24, 26-29, 31, 32, 32 a, 35-38, 41, 48-59, 61, 66-72, 74, 80, 82, 86, 88, 92, 94. Lovændringen vedrører udlicitering af daginstitutioner, fritidshjem og klubtilbud m.v. til private leverandører. )
 
 § 2
 
 Loven træder i kraft den 1. august 2011.
+
+Lov nr. 558 af 18. juni 2012 indeholder nedenstående ikrafttrædelsesbestemmelse. (Lovændringen vedrører §§ 23, 27 og 27 a. Lovændringen angår overgang til obligatorisk digital selvbetjening for borgere, for så vidt angår anmeldelse af flytning, ansøgning om plads i dagtilbud, indskrivning i folkeskole og skolefritidsordning samt ansøgning om sundhedskort og EU-sygesikringskort)
+
+§ 5
+
+Stk. 1. Loven træder i kraft den 1. december 2012.
+
+Stk. 2. Loven finder alene anvendelse for ansøgninger, anmeldelser og indberetninger m.v., der indgives den 1. december 2012 og senere.
+
+§ 6
+
+Stk. 1. Loven gælder ikke for Færøerne og Grønland.
+
+Stk. 2. § 1 kan ved kongelig anordning helt eller delvis sættes i kraft for Grønland med de ændringer, som de grønlandske forhold tilsiger.
+
+Lov nr. 1230 af 18. december 2012 indeholder nedenstående ikrafttrædelsesbestemmelse. (Lovændringen vedrører § 11. Lovændringen angår ophævelse af kommunal pligt til at udarbejde en plan for sprogvurdering m.v.)
+
+§ 2
+
+Loven træder i kraft den 1. januar 2013.
+
+Lov nr. 493 af 21. maj 2012 indeholder nedenstående ikrafttrædelses- og overgangsbestemmelser. (Lovændringen vedrører § 97. Lovændringen angår forenkling af klagestrukturen på det sociale og beskæftigelsesmæssige område)
+
+§ 25
+
+Loven træder i kraft den 1. juli 2013.
+
+§ 26
+
+Stk. 1. Sager, der er indbragt for de sociale nævn eller beskæftigelsesankenævnene, og som ved lovens ikrafttræden ikke er færdigbehandlet, færdigbehandles af Ankestyrelsen eller Ankestyrelsens Beskæftigelsesudvalg efter kapitel 9, 9 a og 10 i lov om retssikkerhed og administration på det sociale område, som ændret ved denne lovs § 1.
+
+Stk. 2-3. (Udeladt).
+
+Lov nr. 622 af 12. juni 2013 indeholder nedenstående ikrafttrædelses- og overgangsbestemmelser. (Lovændringen vedrører §§ 43 a, 54 a og 63 a. Lovændringen angår overgang til obligatorisk digital selvbetjening for borgere, for så vidt angår ansøgning om økonomisk fripladstilskud, meddelelse om valg af læge, ansøgning om navngivning og navneændring, indgivelse af erklæring om faderskab, anmeldelse af cykeltyveri m.v.)
+
+§ 17
+
+Stk. 1. Loven træder i kraft den 1. december 2013.
+
+Stk. 2. Loven finder alene anvendelse for ansøgninger, anmeldelser, anmodninger, meddelelser og erklæringer, der indgives efter lovens ikrafttræden.
+
+§ 18
+
+(Udeladt).
+
+§ 19
+
+Stk. 1. Loven gælder ikke for Færøerne og Grønland.
+
+Stk. 2-3. (Udeladt).
+
+Lov nr. 894 af 4. juli 2013 indeholder nedenstående ikrafttrædelses- og overgangsbestemmelser. (Lovændringen vedrører § 87. Lovændringen angår reform af kontanthjælpssystemet, uddannelseshjælp for unge, aktivitetstillæg, gensidig forsørgelsespligt mellem samlevende, ændrede rådighedskrav og sanktioner m.v.)
+
+§ 8
+
+Stk. 1. Loven træder i kraft den 1. januar 2014, jf. dog stk. 2, 3 og 5.
+
+Stk. 2-5. (Udeladt).
