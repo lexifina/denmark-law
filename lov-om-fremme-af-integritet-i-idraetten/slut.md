@@ -1,7 +1,5 @@
-Givet på Marselisborg Slot, den 22. december 2004
+Kulturministeriet, den 19. november 2013
 
-Under Vor Kongelige Hånd og Segl
+Marianne Jelved
 
-MARGRETHE R.
-
-/Lene Espersen
+/ Bente Skovgaard Kristensen
