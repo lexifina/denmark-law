@@ -113,3 +113,43 @@ Stk. 3-6. (Udelades)
 Stk. 7. Kravene i § 10 b i lov om naturgasforsyning som affattet ved denne lovs § 2, nr. 5, skal være opfyldt, og den tilhørende certificering, jf. § 10 c i lov om naturgasforsyning som ligeledes affattet ved denne lovs § 2, nr. 5, skal være afsluttet inden den 3. marts 2012.
 
 Stk. 8-10. (Udelades)
+
+Lov nr. 575 af 18. juni 2012 om ændring af lov om elforsyning, lov om naturgasforsyning og lov om Energinet.dk (Fremme af konkurrencen på elmarkedet m.v.), hvis § 2 angår § 7, stk. 2 og 3, § 12 b, § 13, stk. 1, § 26, stk. 2, og § 28 c, stk. 1 og 2, indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 4
+
+Stk. 1. Loven træder i kraft den 1. juli 2012, jf. dog stk. 2.
+
+Stk. 2-3. (Udelades)
+
+Lov nr. 576 af 18. juni 2012 om ændring af lov om fremme af vedvarende energi, lov om elforsyning, lov om naturgasforsyning og lov om Energinet.dk (Støtte til vindmøller på land, biogas og eksisterende industrielle kraftvarmeværker samt forlængelse af puljen til nye VE-teknologier m.v.), hvis § 3 angår § 5, stk. 3, § 6, nr. 18, § 9, stk. 1, nr. 2, og stk. 4-6, § 12, stk. 1, nr. 1, § 14, stk. 1, nr. 1 og 2, stk. 2 og 3, og § 30, stk. 3, indeholder følgende ikrafttrædelsesbestemmelse, som ændret ved § 5, nr. 2, i lov nr. 641 af 12. juni 2013:
+
+§ 5
+
+Stk. 1 Klima-, energi- og bygningsministeren fastsætter tidspunktet for lovens ikrafttræden. Ministeren kan herunder fastsætte, at dele af loven træder i kraft på forskellige tidspunkter.
+
+Stk. 2. Klima-, energi- og bygningsministeren kan efter forelæggelse for et af Folketinget nedsat udvalg fastsætte, at dele af loven får virkning på forskellige tidspunkter, herunder tidspunkter efter vedtagelsen, men forud for ikrafttrædelsen.
+
+Stk. 3. (Ophævet)
+
+Lov nr. 1352 af 21. december 2012 om ændring af lov om elforsyning og lov om naturgasforsyning (Udstedelse af forsyningspligtbevillinger), hvis § 2 angår § 24, stk. 2 og 3, § 26, stk. 2, § 27, § 28 a, § 33, stk. 1, nr. 2, og § 37 b, stk. 1-6, indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 3
+
+Stk. 1. Loven træder i kraft den 1. januar 2013.
+
+Stk. 2. (Udelades)
+
+Stk. 3. Et naturgasselskab med forsyningspligt, hvis bevilling har været i udbud i medfør af § 27, stk. 1, i lov om naturgasforsyning som affattet ved denne lovs § 2, nr. 4, fremsender senest 3 måneder fra bevillingens ophør slutafregning til de forbrugere, der aftog naturgas fra selskabet ved lovens ikrafttræden. Slutafregningen skal indeholde eventuel efterregulering som følge af den gældende bagudrettede regulering af forsyningspligtpriserne. Efterfølgende regulering af slutafregningen som følge af myndigheds- eller domstolsafgørelser stiles til de forbrugere, der modtog slutafregningen, uden administrationsomkostninger for forbrugerne. I forhold til forbrugere, der ikke fortsat er kunder hos den hidtil forsyningspligtige naturgasleverandør, vil leverandøren kunne træffe aftale med distributionsselskabet om at varetage udsendelse af regulering af slutafregningen mod dækning af omkostninger for udsendelsen.
+
+Stk. 4. Et selskab, der ved lovens ikrafttræden har bevilling til forsyningspligtig virksomhed efter lov om naturgasforsyning, er indtil bevillingens udløb forpligtet til at sikre regnskabsmæssig adskillelse mellem den forsyningspligtige aktivitet og andre aktiviteter, der udøves i samme selskab.
+
+Stk. 5-7. (Udelades)
+
+Lov nr. 642 af 12. juni 2013 om ændring af lov om elforsyning, lov om naturgasforsyning, straffeloven og retsplejeloven (Gennemførelse af bestemmelser i forordning om integritet og gennemsigtighed på engrosenergimarkederne (REMIT-forordningen) om beføjelser, sanktioner og offentliggørelse samt udrulning af fjernaflæste elmålere m.v.), hvis § 2 angår § 42, stk. 1, §§ 42 b og 42 c, § 45, stk. 2 og 3, § 47 b, stk. 2, § 48, stk. 1, §§ 49 a og 49 b, og § 51, stk. 1, indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 5
+
+Stk. 1. Loven træder i kraft den 15. juni 2013, jf. dog stk. 2.
+
+Stk. 2. (Udelades)
