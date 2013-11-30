@@ -1,5 +1,5 @@
-Energistyrelsen, den 11. november 2013
+Energistyrelsen, den 25. november 2013
 
 Ib Larsen
 
-/ Hanne Windemuller
+/ Hanne Windemüller
