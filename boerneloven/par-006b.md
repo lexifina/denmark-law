@@ -1,0 +1,3 @@
+§ 6 b. En mand, som inden for de sidste 10 måneder før barnets fødsel har været gift med moderen uden at være separeret, skal snarest muligt have skriftlig meddelelse om barnets fødsel med vejledning om sin ret til at rejse faderskabssag. Det gælder dog ikke, hvis han allerede er part i sagen.
+
+Stk. 2. En kvinde, som inden for de sidste 10 måneder før barnets fødsel har været gift eller registreret partner med moderen uden at være separeret, skal snarest muligt have skriftlig meddelelse om barnets fødsel med vejledning om sin ret til at rejse medmoderskabssag. Det gælder dog ikke, hvis kvinden allerede er part i sagen.
