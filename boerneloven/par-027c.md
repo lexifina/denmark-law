@@ -1,0 +1,1 @@
+§ 27 c. I sager, der ikke er omfattet af §§ 27, 27 a, 27 b eller 28, anses en sæddonor som far til et barn, der med hans sæd er blevet til ved assisteret reproduktion, medmindre sæden er anvendt uden hans viden eller efter hans død.
