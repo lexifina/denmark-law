@@ -1,0 +1,1 @@
+§ 1 a. Justitsministeren kan fastsætte regler om, at ansøgning om pas skal indgives ved anvendelse af den digitale løsning, som pasmyndigheden anviser (digital selvbetjening). Tilsvarende gælder for materiale, herunder foto, der skal vedlægges en ansøgning om pas.
