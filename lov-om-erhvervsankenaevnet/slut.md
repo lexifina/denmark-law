@@ -1,9 +1,5 @@
-Givet på Fredensborg Slot, den 23. december 1987
+Erhvervsstyrelsen, den 10. december 2013
 
-Under Vor Kongelige Hånd og Segl
+P.M.V. Betina Hagerup
 
-MARGRETHE R.
-
-/Nils Wilhjelm
-
-Ingen
+/ Lars Bunch
