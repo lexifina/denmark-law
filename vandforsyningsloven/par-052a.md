@@ -22,7 +22,7 @@
 
 11) udgifter til dækning af en fastsat økonomisk godtgørelse, jf. § 64 c i lov om miljøbeskyttelse,
 
-12) udgifter til dækning af afgifter, jf § 3, stk. 2, i lov om afgift af ledningsført vand og § 35 i lov om miljømål m.v. for vandforekomster og internationale naturbeskyttelsesområder, og
+12) udgifter til dækning af afgifter, jf. § 3, stk. 2, i lov om afgift af ledningsført vand og § 11 b, og
 
 13) bidrag til dækning af udgifter til opgaver, der falder ind under Vandsektorens Teknologiudviklingsfond, jf. kapitel 7 i lov om vandsektorens organisering og økonomiske forhold.
 
@@ -30,4 +30,4 @@ Stk. 2. Hel eller delvis overdragelse af et alment vandforsyningsanlæg må hver
 
 Stk. 3. Stk. 1 og 2 omfatter også prisfastsættelsen for salg af vand mellem almene vandforsyningsanlæg.
 
-Stk. 4. Miljøministeren kan fastsætte nærmere regler om prisfastsættelsen efter stk. 1, herunder regler om forrentning af indskudskapital.
+Stk. 4. Energi-, forsynings- og klimaministeren kan fastsætte nærmere regler om prisfastsættelsen efter stk. 1, herunder regler om forrentning af indskudskapital.
