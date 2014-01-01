@@ -20,7 +20,7 @@ Stk. 6. Hvervet som repræsentant til varetagelse af barnets interesser, jf. stk
 
 5) barnets ægtefælle indrejser i Danmark,
 
-6) barnet indgår ægteskab, og statsforvaltningen ikke træffer afgørelse efter § 1, 2. pkt., i lov om ægteskabs indgåelse og opløsning, eller
+6) barnet indgår ægteskab, og statsforvaltningen ikke træffer afgørelse efter § 1 a, 2. pkt., i lov om ægteskabs indgåelse og opløsning, eller
 
 7) statsforvaltningen træffer beslutning herom efter stk. 3.
 
@@ -28,8 +28,8 @@ Stk. 7. Forelægger Udlændingestyrelsen en sag vedrørende opholdstilladelse ef
 
 Stk. 8. Udlændingestyrelsen beskikker en advokat for et barn, der er omfattet af stk. 1 og har fået afslag på opholdstilladelse efter § 7, medmindre barnet selv har antaget en advokat eller ganske særlige grunde taler derimod. Hvis barnet har fået udpeget en personlig repræsentant, jf. stk. 1, skal denne gøres bekendt med afgørelser om at beskikke en advokat for barnet. § 55, stk. 2-4, finder tilsvarende anvendelse. Justitsministeren kan fastsætte nærmere regler om Udlændingestyrelsens beskikkelse af advokater efter 1. pkt.
 
-Stk. 9. Udlændingestyrelsen iværksætter med samtykke fra et barn, der er omfattet af stk. 1, en eftersøgning af forældrene eller andet familiemæssigt netværk til barnet, medmindre barnet kan tage ophold på et modtage- og omsorgscenter i hjemlandet eller det tidligere opholdsland. Dette gælder dog ikke, hvis barnet er omfattet af § 2, stk. 1.
+Stk. 9. Udlændingestyrelsen skal efter ønske fra et barn, der er omfattet af stk. 1, bistå barnet med at iværksætte en eftersøgning af forældrene eller andet familiemæssigt netværk til barnet, medmindre barnet kan tage ophold på et modtage- og omsorgscenter i hjemlandet eller det tidligere opholdsland. Dette gælder dog ikke, hvis barnet er omfattet af § 2, stk. 1.
 
-Stk. 10. Udlændingestyrelsen iværksætter en eftersøgning som nævnt i stk. 9, hvis barnet har været udsat for menneskehandel, medmindre særlige grunde taler herimod. Udlændingestyrelsen iværksætter endvidere en eftersøgning som nævnt i stk. 9, hvis ganske særlige grunde i øvrigt taler herfor.
+Stk. 10. Udlændingestyrelsen skal om muligt iværksætte en eftersøgning som nævnt i stk. 9, hvis barnet har været udsat for menneskehandel, medmindre særlige grunde taler herimod. Udlændingestyrelsen skal endvidere om muligt iværksætte en eftersøgning som nævnt i stk. 9, hvis ganske særlige grunde i øvrigt taler herfor.
 
-Stk. 11. Eftersøgning af forældre eller andet familiemæssigt netværk, jf. stk. 9 og 10, kan ske i samarbejde med en eller flere organisationer, som er godkendt hertil af justitsministeren. Udlændingestyrelsen og de nævnte organisationer kan i forbindelse med eftersøgningen af barnets forældre eller andet familiemæssige netværk udveksle oplysninger om barnets personlige forhold uden samtykke fra barnet eller den personlige repræsentant.
+Stk. 11. Eftersøgning af forældre eller andet familiemæssigt netværk, jf. stk. 10, kan ske i samarbejde med en eller flere organisationer, som er godkendt hertil af justitsministeren. Udlændingestyrelsen og de nævnte organisationer kan i forbindelse med eftersøgningen af barnets forældre eller andet familiemæssige netværk udveksle oplysninger om barnets personlige forhold uden samtykke fra barnet eller den personlige repræsentant.

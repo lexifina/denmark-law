@@ -38,7 +38,7 @@ Stk. 2. For indgivelse af ansøgning om genoptagelse af en sag, hvor Udlændinge
 
 Stk. 3. Gebyr efter stk. 2, 1. pkt., tilbagebetales, hvis ansøgningen om genoptagelse imødekommes. Gebyr efter stk. 2, 2. pkt., tilbagebetales, hvis klageren får helt eller delvis medhold i klagen. Gebyr efter stk. 2, 3. pkt., tilbagebetales, hvis ansøgningen om genoptagelse imødekommes.
 
-Stk. 4. Ansøgningen afvises, hvis betingelsen i stk. 1 ikke er opfyldt. Hvis en ansøgning, der er omfattet af stk. 1, afvises på andet grundlag, jf. § 9 a, stk. 4, § 9 f, stk. 8, § 9 g, stk. 2 og 3, § 9 i, stk. 2, § 9 j, stk. 2, § 9 k, stk. 2, § 9 l, stk. 2, § 9 m, stk. 2, § 9 n, stk. 2, § 11, stk. 8, og § 47 b, skal gebyret tilbagebetales fratrukket et beløb på 750 kr.
+Stk. 4. Ansøgningen afvises, hvis betingelsen i stk. 1 ikke er opfyldt. Hvis en ansøgning, der er omfattet af stk. 1, afvises på andet grundlag, jf. § 9 a, stk. 4, § 9 f, stk. 8, § 9 g, stk. 4 og 5, § 9 i, stk. 2, § 9 j, stk. 2, § 9 k, stk. 2, § 9 l, stk. 2, § 9 m, stk. 2, § 9 n, stk. 2, § 11, stk. 8, § 47 b og regler udstedt i medfør af § 9 g, stk. 1 og 2, skal gebyret tilbagebetales fratrukket et beløb på 750 kr.
 
 Stk. 5. Ansøgningen om genoptagelse afvises, hvis betingelsen i stk. 2, 1. pkt., ikke er opfyldt. Klagen afvises, hvis betingelsen i stk. 2, 2. pkt., ikke er opfyldt. Ansøgningen om genoptagelse af klagesagen afvises, hvis betingelsen i stk. 2, 3. pkt., ikke er opfyldt.
 
