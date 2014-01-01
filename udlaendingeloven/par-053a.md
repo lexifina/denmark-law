@@ -1,14 +1,16 @@
 § 53 a. For Flygtningenævnet kan indbringes klager over afgørelser, som Udlændingestyrelsen har truffet om følgende spørgsmål, jf. dog § 53 b, stk. 1:
 
-1) Nægtelse af opholdstilladelse til en udlænding, der påberåber sig at være omfattet af § 7 eller § 8, stk. 1 eller 2, og i den forbindelse udsendelse efter § 32 a.
+1) Afvisning eller overførsel efter reglerne i kapitel 5 a.
 
-2) Bortfald efter §§ 17 og 17 a og inddragelse efter §§ 19 eller 20 af en opholdstilladelse, der er givet efter § 7 eller § 8, stk. 1 eller 2, og i den forbindelse udsendelse efter § 32 a.
+2) Nægtelse af opholdstilladelse til en udlænding, der påberåber sig at være omfattet af § 7 eller § 8, stk. 1 eller 2, og i den forbindelse udsendelse efter § 32 a.
 
-3) Nægtelse af udstedelse af dansk rejsedokument for flygtninge eller inddragelse af et sådant rejsedokument.
+3) Bortfald efter §§ 17 og 17 a og inddragelse efter §§ 19 eller 20 af en opholdstilladelse, der er givet efter § 7 eller § 8, stk. 1 eller 2, og i den forbindelse udsendelse efter § 32 a.
 
-4) Udsendelse efter § 32 b og § 49 a.
+4) Nægtelse af udstedelse af dansk rejsedokument for flygtninge eller inddragelse af et sådant rejsedokument.
 
-Stk. 2. Afslår Udlændingestyrelsen at give opholdstilladelse efter § 7 til en udlænding, der opholder sig her i landet, eller træffer Udlændingestyrelsen efter § 32 b eller § 49 a afgørelse om, at en udsendelse ikke vil være i strid med § 31, anses afgørelsen for påklaget til Flygtningenævnet. Påklage af en afgørelse som nævnt i stk. 1 har opsættende virkning.
+5) Udsendelse efter § 32 b og § 49 a.
+
+Stk. 2. Klage til Flygtningenævnet over Udlændingestyrelsens afgørelse om afvisning eller overførsel efter reglerne i kapitel 5 a, der indgives til Udlændingestyrelsen, senere end 7 dage efter at udlændingen har fået meddelelse om afgørelsen, afvises. Afslår Udlændingestyrelsen at give opholdstilladelse efter § 7 til en udlænding, der opholder sig her i landet, eller træffer Udlændingestyrelsen efter § 32 b eller § 49 a afgørelse om, at en udsendelse ikke vil være i strid med § 31, anses afgørelsen for påklaget til Flygtningenævnet. Påklage af en afgørelse som nævnt i stk. 1 har opsættende virkning.
 
 Stk. 3. Udlændingestyrelsens afgørelser som nævnt i stk. 1 skal indeholde oplysning om reglerne i stk. 1 og 2.
 
