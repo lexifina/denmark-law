@@ -1,6 +1,6 @@
 ## Kapitel 13 a
 
-## Regler for regnskab og revision for tilskudsmodtagere efter kapitel 7- 8
+## Regler for regnskab og revision for tilskudsmodtagere efter kapitel 7-7a
 
 § 31 a. Kulturministeren fastsætter nærmere administrative regler for forvaltning af tilskud, garantier og lån samt for regnskabsaflæggelse og revision.
 

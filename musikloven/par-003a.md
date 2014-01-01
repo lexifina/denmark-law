@@ -6,6 +6,6 @@
 
 Stk. 2. Musikskolen kan desuden tilbyde musikundervisning til voksne.
 
-Stk. 3. Musikskolen har til formål at udvikle og fremme elevernes evner og kundskaber gennem sine undervisningstilbud samt i øvrigt at virke til fremme af det lokale musikmiljø.
+Stk. 3. Musikskolen har til formål at udvikle og fremme elevernes musikalske evner og kundskaber gennem sine undervisningstilbud samt i øvrigt at virke til fremme af det lokale musikmiljø.
 
-Stk. 4. Kulturministeren fastsætter i samråd med Kunstrådet vejledende retningslinjer for musikskoleundervisning.
+Stk. 4. Kulturministeren fastsætter efter høring af Statens Kunstfond nærmere regler om musikskoler, herunder regler om opgaver, formål, vedtægter, læreplaner, tilsyn, samarbejde, statistik samt betingelser for refusion.
