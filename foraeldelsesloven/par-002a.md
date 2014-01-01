@@ -1,0 +1,1 @@
+§ 2 a. For fordringer, som støttes på skriftlig aftale om indskud i et selskab, regnes forældelsesfristen tidligst fra det tidspunkt, hvor selskabet beslutter at indkalde indskuddet. Uanset 1. pkt. regnes forældelsesfristen dog senest fra 10 år efter begyndelsestidspunktet i henhold til § 2.
