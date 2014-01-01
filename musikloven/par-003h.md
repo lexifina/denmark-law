@@ -1,1 +1,1 @@
-§ 3 h. Kunstrådet kan yde tilskud efter § 3 g til rytmiske spillesteder, der modtager et kommunalt tilskud til musikdriften.
+§ 3 h. Statens Kunstfond kan yde tilskud efter § 3 g til rytmiske spillesteder, der modtager et kommunalt tilskud til musikdriften.
