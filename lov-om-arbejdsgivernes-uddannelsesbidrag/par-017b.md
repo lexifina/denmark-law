@@ -1,3 +1,7 @@
+## Kapitel 6
+
+## (Ophævet)
+
 ## Kapitel 6 a
 
 ## Begrænsning af ydelser med hensyn til udenlandske elever
