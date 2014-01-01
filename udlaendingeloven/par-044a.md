@@ -14,15 +14,13 @@ Stk. 4. Meddeles en udlænding, der bor eller opholder sig her i landet uden at 
 
 Stk. 5. Justitsministeriet, Beskæftigelsesministeriet, Udlændingestyrelsen, Styrelsen for Fastholdelse og Rekruttering, kommunalbestyrelsen, statsforvaltningen, restanceinddrivelsesmyndigheden, jf. § 9, stk. 23, politiet og Udlændingenævnet kan uden samtykke indhente de oplysninger i indkomstregisteret, som er nødvendige for udførelsen af myndighedens virksomhed eller påkrævet for en afgørelse, som myndigheden skal træffe efter udlændingeloven.
 
-Stk. 6. Justitsministeriet, Beskæftigelsesministeriet, Udlændingestyrelsen, Udlændingenævnet, Styrelsen for Fastholdelse og Rekruttering kan uden samtykke fra ansøgeren og den herboende person indhente de oplysninger i Arbejdsmarkedsportalen, som er nødvendige for udførelsen af myndighedens virksomhed eller påkrævet for en afgørelse, som myndigheden skal træffe efter udlændingeloven.
+Stk. 6. De i stk. 1 og 4 nævnte oplysninger kan videregives gennem Udlændingeinformationsportalen (UIP).
 
-Stk. 7. De i stk. 1 og 4 nævnte oplysninger kan videregives gennem Udlændingeinformationsportalen (UIP).
+Stk. 7. Udlændingestyrelsen og Styrelsen for Fastholdelse og Rekruttering kan samkøre de i stk. 1, 2 og 4 nævnte oplysninger med oplysninger fra Det Centrale Personregister (CPR) med det formål at sikre kommunernes administration efter integrationsloven og efter anden lovgivning, hvor opholdsgrundlaget har betydning for lovens administration.
 
-Stk. 8. Udlændingestyrelsen og Styrelsen for Fastholdelse og Rekruttering kan samkøre de i stk. 1, 2 og 4 nævnte oplysninger med oplysninger fra Det Centrale Personregister (CPR) med det formål at sikre kommunernes administration efter integrationsloven og efter anden lovgivning, hvor opholdsgrundlaget har betydning for lovens administration.
+Stk. 8. Justitsministeren og beskæftigelsesministeren kan i forening efter aftale med økonomi- og indenrigsministeren fastsætte nærmere regler om, at Udlændingestyrelsen og Styrelsen for Fastholdelse og Rekruttering registrerer de i stk. 1 nævnte oplysninger i Det Centrale Personregister (CPR).
 
-Stk. 9. Justitsministeren og beskæftigelsesministeren kan i forening efter aftale med økonomi- og indenrigsministeren fastsætte nærmere regler om, at Udlændingestyrelsen og Styrelsen for Fastholdelse og Rekruttering registrerer de i stk. 1 nævnte oplysninger i Det Centrale Personregister (CPR).
-
-Stk. 10. Udlændingestyrelsen, Styrelsen for Fastholdelse og Rekruttering og statsforvaltningen kan til brug for Arbejdsmarkedsstyrelsens overvågning af arbejdsmarkedet videregive oplysninger om udlændinge, der er meddelt opholdstilladelse eller arbejdstilladelse efter denne lov, og oplysninger om udenlandske arbejdstagere, der har fået udstedt registreringsbevis på baggrund af beskæftigelse efter denne lov. Udlændingestyrelsen, Styrelsen for Fastholdelse og Rekruttering og statsforvaltningen kan i den forbindelse, herunder i elektronisk form, videregive følgende oplysninger:
+Stk. 9. Udlændingestyrelsen, Styrelsen for Fastholdelse og Rekruttering og statsforvaltningen kan til brug for Arbejdsmarkedsstyrelsens overvågning af arbejdsmarkedet videregive oplysninger om udlændinge, der er meddelt opholdstilladelse eller arbejdstilladelse efter denne lov, oplysninger om udlændinge, der har opnået beskæftigelse efter ordningen i § 14 a, og oplysninger om udenlandske arbejdstagere, der har fået udstedt registreringsbevis på baggrund af beskæftigelse efter denne lov. Udlændingestyrelsen, Styrelsen for Fastholdelse og Rekruttering og statsforvaltningen kan i den forbindelse, herunder i elektronisk form, videregive følgende oplysninger:
 
 1) Navn.
 
@@ -44,6 +42,6 @@ Stk. 10. Udlændingestyrelsen, Styrelsen for Fastholdelse og Rekruttering og sta
 
 10) Start- og slutdato for ansættelsesforhold.
 
-Stk. 11. Udlændingestyrelsen og Styrelsen for Fastholdelse og Rekruttering kan med henblik på at kontrollere, at en udlænding overholder betingelserne for opholdstilladelsen, registreringsbeviset eller opholdskortet, jf. § 6, eller at en udlænding ikke arbejder eller opholder sig her i landet uden fornøden tilladelse, samkøre oplysninger fra egne registre med oplysninger fra Det Centrale Personregister, Bygnings- og Boligregistret og indkomstregisteret. Dette gælder alene for udlændinge, der har modtaget forudgående information om, at en sådan kontrol kan finde sted.
+Stk. 10. Udlændingestyrelsen og Styrelsen for Fastholdelse og Rekruttering kan med henblik på at kontrollere, at betingelserne for opholds- eller arbejdstilladelsen, registreringsbeviset eller opholdskortet, jf. § 6, overholdes, eller at en udlænding ikke arbejder eller opholder sig her i landet uden fornøden tilladelse, samkøre oplysninger fra egne registre med oplysninger fra Det Centrale Personregister, Bygnings- og Boligregistret og indkomstregisteret. Dette gælder alene for berørte personer, der har modtaget forudgående information om, at en sådan kontrol kan finde sted.
 
-Stk. 12. Persondatalovens § 7, stk. 8, finder ikke anvendelse ved behandling af ansøgninger om opholdstilladelse efter §§ 7 og 8. Det samme gælder ved behandling af sager om forlængelse, inddragelse og bortfald af opholdstilladelse meddelt efter disse bestemmelser og ved behandling af sager, hvori akter vedrørende opholdstilladelse efter §§ 7 eller 8 indgår.
+Stk. 11. Persondatalovens § 7, stk. 8, finder ikke anvendelse ved behandling af ansøgninger om opholdstilladelse efter §§ 7 og 8. Det samme gælder ved behandling af sager om forlængelse, inddragelse og bortfald af opholdstilladelse meddelt efter disse bestemmelser og ved behandling af sager, hvori akter vedrørende opholdstilladelse efter §§ 7 eller 8 indgår.
