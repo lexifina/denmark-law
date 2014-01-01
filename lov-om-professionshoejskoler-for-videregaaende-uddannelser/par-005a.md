@@ -1,1 +1,1 @@
-§ 5 a. Professionshøjskolen kan dog varetage de opgaver, der er nævnt i §§ 4 og 5, og som vedrører udbud og udvikling af tekniske og merkantile professionsbacheloruddannelser og efter- og videreuddannelser i tilknytning hertil, i et partnerskab med et eller flere erhvervsakademier i den region, hvor professionshøjskolen hører hjemme, jf. § 6 i lov om erhvervsakademier for videregående uddannelser.
+§ 5 a. (Ophævet)
