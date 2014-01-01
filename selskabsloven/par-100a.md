@@ -1,0 +1,1 @@
+§ 100 a. Generalforsamlingen kan med simpelt flertal beslutte, at årsrapporten udarbejdes og aflægges på engelsk. Generalforsamlingens beslutning herom skal optages i vedtægterne. Optagelsen af generalforsamlingens beslutning i vedtægterne kræver ikke særskilt vedtagelse.
