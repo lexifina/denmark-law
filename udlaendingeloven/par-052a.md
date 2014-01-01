@@ -16,4 +16,4 @@ Stk. 8. Udlændingenævnets afgørelser kan ikke indbringes for anden administra
 
 Stk. 9. Udlændingenævnets formand kan ad hoc-beskikke 1 medlem, der er udtrådt af nævnet, til at votere i en sag, som den pågældende tidligere har deltaget i behandlingen af. Har det medlem, der tidligere har deltaget i behandlingen af en sag, forfald, kan formanden udpege eller ad hoc-beskikke et enkelt medlem, der træder i det pågældende medlems sted under sagens fortsatte behandling.
 
-Stk. 10. Justitsministeren fastsætter Udlændingenævnets forretningsorden efter forhandling med beskæftigelsesministeren.
+Stk. 10. Udlændingenævnet fastsætter selv sin forretningsorden.
