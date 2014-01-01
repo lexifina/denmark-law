@@ -8,4 +8,8 @@ Stk. 2. Afgivne tilsagn kan bortfalde, og udbetalte tilskud kan kræves tilbageb
 
 Stk. 3. Udbetalinger af tilskud kan ske forskudsmæssigt.
 
-§§ 12 b, 12 c og 12 d. (Ophævet)
+Stk. 4. Stk. 1-3 finder ikke anvendelse for tilskud, der ydes som driftstilskud.
+
+Stk. 5. Stk. 1-3 finder ikke anvendelse for tilskud, garantier m.v., der ydes i henhold til § 3.
+
+§§ 12 b-12 d. (Ophævet)
