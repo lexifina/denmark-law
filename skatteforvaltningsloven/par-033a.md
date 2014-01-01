@@ -1,0 +1,1 @@
+§ 33 a. Told- og skatteforvaltningen kan ikke afsende varsel som nævnt i § 20, stk. 1, jf. stk. 4, om foretagelse eller ændring af en vurdering af en fast ejendom senere end den 1. juli i det andet kalenderår efter vurderingsårets udløb. En ændring skal være gennemført senest den 1. oktober samme år.
