@@ -16,7 +16,7 @@ Lov nr. 1268 af 16. december 2009 om ændring af lov om videregående kunstneris
 
 Loven træder i kraft den 1. januar 2010.
 
-Lov nr. 549 af 31. maj 2011om ændring af lov om videregående kunstneriske uddannelsesinstitutioner under Kulturministeriet (Ændring af styrelse af visse uddannelsesinstitutioner samt fusion af Det Kongelige Danske Kunstakademis Arkitektskole, Danmarks Designskole og Det Kongelige Danske Kunstakademis Konservatorskole m.v.) indeholder følgende ikrafttrædelsesbestemmelser:
+Lov nr. 549 af 31. maj 2011 om ændring af lov om videregående kunstneriske uddannelsesinstitutioner under Kulturministeriet (Ændring af styrelse af visse uddannelsesinstitutioner samt fusion af Det Kongelige Danske Kunstakademis Arkitektskole, Danmarks Designskole og Det Kongelige Danske Kunstakademis Konservatorskole m.v.) indeholder følgende ikrafttrædelsesbestemmelser:
 
 § 2
 
@@ -47,3 +47,15 @@ Lov nr. 1236 af 18. december 2012 om ændring af forskellige lovbestemmelser om 
 Stk. 1. Loven træder i kraft den 1. januar 2013, jf. dog stk. 2 og 3.
 
 Stk. 2-5. (Udeladt)
+
+Lov nr. 898 af 4. juli 2013 om ændring af universitetsloven, lov om erhvervsakademiuddannelser og professionsbacheloruddannelser, lov om videregående kunstneriske uddannelsesinstitutioner, lov om maritime uddannelser og lov om statens voksenuddannelsesstøtte (SVU) (Obligatorisk tilmelding til fag og prøver svarende til et fuldt studieår, afskaffelse af muligheden for at melde fra prøver, etablering af bedre rammer for merit ved studieophold på en anden institution eller studieskift og bedre overgange mellem bachelor- og kandidatuddannelser m.v.) indeholder følgende ikrafttrædelsesbestemmelser:
+
+§ 6
+
+Stk. 1. Loven træder i kraft den 15. juli 2013, jf. dog stk. 2.
+
+Stk. 2. (Udeladt)
+
+Stk. 3. § 8, stk. 2, i universitetsloven som affattet ved denne lovs § 1, nr. 4, og lovens § 2, nr. 1, § 3, nr. 1 og 2, og § 4, nr. 1 og 2, har virkning fra den 1. juli 2014.
+
+Stk. 4. § 8, stk. 3, i universitetsloven som affattet ved denne lovs § 1, nr. 4, og lovens § 1, nr. 5, § 2, nr. 2, § 3, nr. 3, og § 4, nr. 3 og 4, har virkning for studerende, der søger om merit og forhåndsmerit for studieophold, der skal gennemføres fra studieåret 2014-15 eller senere.
