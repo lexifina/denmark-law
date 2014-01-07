@@ -1,3 +1,5 @@
 Bekendtgørelse af lov om videregående kunstneriske uddannelsesinstitutioner
 
-Herved bekendtgøres lov om videregående kunstneriske uddannelsesinstitutioner, jf. lovbekendtgørelse nr. 868 af 26. august 2012, med den ændring, der følger af § 4 i lov nr. 1236 af 18. december 2012.
+Herved bekendtgøres lov om videregående kunstneriske uddannelsesinstitutioner, jf. lovbekendtgørelse nr. 465 af 8. maj 2013, med de ændringer der følger af § 3 i lov nr. 898 af 4. juli 2013.
+
+Den bekendtgjorte lovtekst vedrørende § 10, stk. 1, nr. 1, om studerendes tilmelding til uddannelseselementer og om bachelorstuderendes tilmelding til uddannelseselementer på kandidatuddannelsen, og § 10, stk. 1, nr. 2, om studerendes tilmelding til prøver og eksamen får først virkning fra 1. juli 2014, jf. § 6, stk. 3, i lov nr. 898 af 4. juli 2013 om ændring af universitetsloven, lov om erhvervsakademiuddannelser og professionsbacheloruddannelser, lov om videregående kunstneriske uddannelsesinstitutioner, lov om maritime uddannelser og lov om statens voksenuddannelsesstøtte (SVU) (Obligatorisk tilmelding til fag og prøver svarende til et fuldt studieår, afskaffelse af muligheden for at melde fra prøver, etablering af bedre rammer for merit ved studieophold på en anden institution eller studieskift og bedre overgange mellem bachelor- og kandidatuddannelser m.v.).

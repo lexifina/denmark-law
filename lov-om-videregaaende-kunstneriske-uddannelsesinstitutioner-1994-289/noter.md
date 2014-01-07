@@ -13,3 +13,5 @@
 7) Lovændringen vedrører lovens titel, § 13, stk. 4 og § 15 a.
 
 8) Lovændringen vedrører §§ 15 b-15 c.
+
+9) Lovændringen vedrører § 10 og § 16 a, stk. 3.
