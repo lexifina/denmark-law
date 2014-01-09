@@ -1,6 +1,6 @@
 § 11 a. Skifteretten beskikker ved indledningen af rekonstruktionsbehandlingen en eller flere rekonstruktører og en regnskabskyndig tillidsmand for skyldneren. Skifteretten er ikke bundet af de forslag til rekonstruktør eller tillidsmand, der fremgår af begæringen. Er der beskikket flere rekonstruktører, varetager disse hvervet hver for sig, medmindre skifteretten bestemmer andet. Rekonstruktøren kan antage fornøden sagkyndig bistand.
 
-Stk. 2. Samtidig fastsætter skifteretten tidspunktet for et møde med fordringshaverne. Mødet skal holdes senest fire uger efter rekonstruktionsbehandlingens indledning. Skifteretten indrykker straks en bekendtgørelse i Statstidende, hvori fordringshaverne indkaldes til mødet. Hvis skyldneren er en sammenslutning, der er registreret i Erhvervs- og Selskabsstyrelsen, skal rekonstruktøren straks registrere mødeindkaldelsen i Erhvervs- og Selskabsstyrelsens it-system.
+Stk. 2. Samtidig fastsætter skifteretten tidspunktet for et møde med fordringshaverne. Mødet skal holdes senest fire uger efter rekonstruktionsbehandlingens indledning. Skifteretten indrykker straks en bekendtgørelse i Statstidende, hvori fordringshaverne indkaldes til mødet. Hvis skyldneren er en sammenslutning, der er registreret i Erhvervsstyrelsen, skal rekonstruktøren straks registrere mødeindkaldelsen i Erhvervsstyrelsens it-system.
 
 Stk. 3. Hvis rekonstruktionsbehandling indledes uden samtykke fra skyldneren, bestemmer skifteretten samtidig, at rekonstruktøren skal overtage ledelsen af virksomheden.
 

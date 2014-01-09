@@ -1,4 +1,4 @@
-§ 11 b. Rekonstruktøren skal senest en uge efter beskikkelsen sende en meddelelse om rekonstruktionsbehandlingen til samtlige kendte fordringshavere og andre, bortset fra skyldnerens ansatte, der berøres af rekonstruktionsbehandlingen, og til skifteretten. Hvis skyldneren er en sammenslutning, der er registreret i Erhvervs- og Selskabsstyrelsen, skal rekonstruktøren samtidig registrere meddelelsen i Erhvervs- og Selskabsstyrelsens it-system.
+§ 11 b. Rekonstruktøren skal senest en uge efter beskikkelsen sende en meddelelse om rekonstruktionsbehandlingen til samtlige kendte fordringshavere og andre, bortset fra skyldnerens ansatte, der berøres af rekonstruktionsbehandlingen, og til skifteretten. Hvis skyldneren er en sammenslutning, der er registreret i Erhvervsstyrelsen, skal rekonstruktøren samtidig registrere meddelelsen i Erhvervsstyrelsens it-system.
 
 Stk. 2. Meddelelsen skal vedlægges skyldnerens seneste årsrapport eller efter omstændighederne uddrag heraf. Meddelelsen skal indeholde:
 
