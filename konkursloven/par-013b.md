@@ -26,13 +26,15 @@ c) Oplysning om forhold, der vil kunne søges omstødt, om anlagte omstødelsess
 
 d) Oplysning om skyldnerens eventuelle ansvarspådragende forhold.
 
-e) Oplysning om årsagen til skyldnerens økonomiske vanskeligheder.
+e) Oplysning om eventuelle forhold, der vil kunne begrunde konkurskarantæne.
 
-f) Anslået dividende i tilfælde af skyldnerens konkurs.
+f) Oplysning om årsagen til skyldnerens økonomiske vanskeligheder.
 
-g) Forløbet af samarbejdet med skyldneren under rekonstruktionsbehandlingen.
+g) Anslået dividende i tilfælde af skyldnerens konkurs.
 
-h) En erklæring fra rekonstruktøren og tillidsmanden om, hvorvidt rekonstruktionsforslaget efter deres skøn er rimeligt og frembyder en tilstrækkelig betryggelse for forslagets opfyldelse.
+h) Forløbet af samarbejdet med skyldneren under rekonstruktionsbehandlingen.
+
+i) En erklæring fra rekonstruktøren og tillidsmanden om, hvorvidt rekonstruktionsforslaget efter deres skøn er rimeligt og frembyder en tilstrækkelig betryggelse for forslagets opfyldelse.
 
 Stk. 2. Rekonstruktionsforslaget og statusoversigten skal være tiltrådt af skyldneren.
 
