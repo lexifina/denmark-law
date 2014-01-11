@@ -1,5 +1,5 @@
-Socialministeriet, Ligestillingsafdelingen, den 19. september 2007
+Ministeriet for Ligestilling og Kirke, den 19. december 2013
 
-P.M.V. Thomas Børner
+Manu Sareen
 
-/ Vibeke Abel
+/ Mette Kaae Hansen
