@@ -1,19 +1,59 @@
-Lov nr. 574 af 24. juni 2005 indeholder nedenstående ikrafttrædelses- og overgangsbestemmelser. (Lovændringen vedrører § 5a. Lovændringen angår: Konsekvensrettelser som følge af kommunalreformen)
+Lov nr. 387 af 27. maj 2008 indeholder følgende ikrafttrædelsesbestemmelser m.v.
 
-§ 8
+§ 14. Loven træder i kraft den 1. januar 2009.
 
-Stk. 1. Loven træder i kraft den 1. januar 2007.
+Stk. 2. Formanden for nævnet udpeges første gang for en periode på 4 år.
 
-Stk. 2-9. …
+Stk. 3. Sager, der er indbragt for Ligestillingsnævnet eller Klagekomiteen for Etnisk Ligebehandling på tidspunktet for denne lovs ikrafttræden, overføres til videre behandling i nævnet.
 
-Lov nr. 452 af 22. maj 2006 indeholder nedenstående ikrafttrædelses- og overgangsbestemmelser. (Lovændringen vedrører §§ 5a, stk. 2, nr. 2, 5a, stk. 3 og 10a. Lovændringen angår: Kommunale og regionale udvalg m.v. og ændring af fristen for indsendelse af ligestillingsredegørelser).
+§§ 15-19. (Udelades)
 
-§ 2
-
-Loven træder i kraft dagen efter bekendtgørelsen i Lovtidende.
-
-Lov nr. 434 af 11. maj 2007 indeholder nedenstående ikrafttrædelses- og overgangsbestemmelser. (Lovændringen vedrører §§ 1, 1a, 2, 2a, 2b, 3a, 3b, 3c og 19, stk.1. Lovændringen angår: Definitioner af forskelsbehandling og af chikane og sexchikane m.v.)
+Lov nr. 484 af 12. juni 2009 indeholder følgende ikrafttrædelsesbestemmelse m.v.
 
 § 2
 
-Loven træder i kraft den 1. juni 2007.
+Stk. 1. Loven træder i kraft den 1. september 2009.
+
+Stk. 2. Ministeren for ligestilling fremsætter senest i folketingsåret 2010-11 forslag til revision af lovens kapitel 4.
+
+Lov nr. 182 af 8. marts 2011 indeholder følgende ikrafttrædelsesbestemmelser m.v.
+
+§ 4
+
+Loven træder i kraft den 15. marts 2011.
+
+§ 5
+
+Loven gælder ikke for Færøerne og Grønland, men § 1 kan ved kongelig anordning sættes helt eller delvis i kraft for Færøerne og Grønland med de ændringer, som de færøske eller grønlandske forhold tilsiger.
+
+Lov nr. 553 af 18. juni 2012 indeholder følgende ikrafttrædelsesbestemmelser m.v.
+
+§ 11. Loven træder i kraft den 1. januar 2013.
+
+Stk. 2. (Udelades).
+
+Stk. 3. (Udelades).
+
+Stk. 4. (Udelades).
+
+Stk. 5. (Udelades).
+
+Stk. 6. (Udelades).
+
+Stk. 7. (Udelades).
+
+Stk. 8. (Udelades).
+
+Stk. 9. (Udelades).
+
+§§ 12-15. (Udelades)
+
+Lov nr. 1288 af 19. december 2012 indeholder følgende ikrafttrædelsesbestemmelse m.v.
+
+§ 3
+
+Stk. 1. Lovens § 1, nr. 1 og 5, og § 2 træder i kraft den 21. december 2012.
+
+Stk. 2. Lovens § 1, nr. 2-4, træder i kraft den 1. april 2013.
+
+Stk. 3. Lovens § 1, nr. 5, har virkning for regnskabsår, der begynder den 1. januar 2013 eller senere.
