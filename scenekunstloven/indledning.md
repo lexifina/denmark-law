@@ -1,3 +1,3 @@
 Bekendtgørelse af lov om scenekunst
 
-Herved bekendtgøres lov om scenekunst jf. lovbekendtgørelse nr. 780 af 23. juni 2009 med de ændringer, der følger af § 18 i lov nr. 1531 af 21. december 2010 og lov nr. 445 af 23. maj 2012.
+Herved bekendtgøres lov om scenekunst, jf. lovbekendtgørelse nr. 526 af 4. juni 2012 med de ændringer, der følger af § 16 i lov nr. 458 af 8. maj 2013.
