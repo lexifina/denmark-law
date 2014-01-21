@@ -6,4 +6,4 @@ Stk. 2. Uddannelsesstøtte udbetales forud i månedlige rater, jf. dog §§ 38 c
 
 2) på uddannelsesinstitutionen eller i styrelsen, jf. regler fastsat i medfør af § 38 a, stk. 2, nr. 1.
 
-Stk. 3. Undervisningsministeren fastsætter nærmere regler om betingelserne i stk. 2.
+Stk. 3. Ministeren for forskning, innovation og videregående uddannelser fastsætter nærmere regler om betingelserne i stk. 2.

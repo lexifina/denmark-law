@@ -4,4 +4,4 @@ Stk. 2. Uddannelsessøgende, der er EU-statsborgere eller EØS-statsborgere, og 
 
 Stk. 3. Ved opgørelse af, om der er tale om 5 års sammenhængende ophold i Danmark, skal der ses bort fra midlertidige fravær, der ikke tilsammen overstiger 6 måneder om året, og fravær af længere varighed på grund af aftjening af værnepligt eller af ét fravær på højst 12 på hinanden følgende måneder af vægtige grunde som f.eks. graviditet og fødsel, alvorlig sygdom, studier eller erhvervsuddannelse eller udstationering. Ved mere end 2 års sammenhængende fravær fra Danmark opnås først ret til uddannelsesstøtte efter forløbet af et derpå følgende sammenhængende ophold på 5 år.
 
-Stk. 4. Undervisningsministeren kan fastsætte regler om udenlandske statsborgeres ret til SU til uddannelse i Danmark og udlandet.
+Stk. 4. Ministeren for forskning, innovation og videregående uddannelser kan fastsætte regler om udenlandske statsborgeres ret til SU til uddannelse i Danmark og udlandet.
