@@ -4,7 +4,7 @@ Lov nr. 322 af 29. april 1996, hvis § 1 ændrer § 24, stk. 1, § 30, stk. 5, 1
 
 Stk. 1. Loven træder i kraft dagen efter bekendtgørelsen i Lovtidende og har virkning fra den 1. januar 1996, jf. dog stk. 3 og 4.
 
-Stk. 2-4. (Udeladt)
+Stk. 2-4. (Udeladt).
 
 Lov nr. 980 af 17. december 1997, hvis § 39 ændrer § 18, stk. 1, indeholder følgende ikrafttrædelsesbestemmelser m.v.:
 
@@ -32,7 +32,7 @@ Lov nr. 1087 af 13. december 2000, hvis § 4 ændrer § 8, stk. 1, nr. 2, og stk
 
 Stk. 1. Loven træder i kraft den 1. marts 2001, jf. dog stk. 2 og 3.
 
-Stk. 2 . (Udeladt)
+Stk. 2 . (Udeladt).
 
 Lov nr. 1286 af 20. december 2000, hvis § 14 ændrer § 23, stk. 2, og § 26, stk. 1, indeholder følgende ikrafttrædelsesbestemmelser m.v.:
 
@@ -72,7 +72,7 @@ Stk. 1. Loven træder i kraft dagen efter bekendtgørelse i Lovtidende.
 
 Stk. 2. § 1, nr. 6, 7 og 9, og §§ 4, 5, 11 og 13-16 har virkning for aktier, køberetter til aktier og tegningsretter til aktier, der tildeles den 1. juli 2003 eller senere, jf. dog stk. 6. For aktier, køberetter til aktier og tegningsretter til aktier, der er tildelt før den 1. juli 2003, finder de hidtil gældende regler, herunder reglerne i ligningslovens §§ 28 A-C fortsat anvendelse.
 
-Stk. 3-5. (Udeladt)
+Stk. 3-5. (Udeladt).
 
 Stk. 6. For aktier, køberetter til aktier og tegningsretter til aktier, der er tildelt før den 1. juli 2003, og hvor tidspunktet for den ansattes beskatning af de modtagne aktier m.v. indtræder den 1. januar 2003 eller senere, kan den ansatte og det selskab, der har ydet de pågældende aktier m.v., indgå aftale om, at reglerne i ligningslovens § 7 H, som affattet ved denne lovs § 1, nr. 6, skal finde anvendelse. Indgås en sådan aftale, skal indberetning herom foretages for det kalenderår, hvor aftalen er indgået.
 
@@ -132,7 +132,7 @@ Lov nr. 428 af 6. juni 2005, hvis § 113 nyaffatter § 26, stk. 2 og 3, og ændr
 
 § 125
 
-Stk. 1. Loven træder i kraft dagen efter bekendtgørelsen i Lovtidende.(Udeladt)
+Stk. 1. Loven træder i kraft dagen efter bekendtgørelsen i Lovtidende. (Udeladt)
 
 Stk. 2. Loven har virkning fra den 1. november 2005. (Udeladt).
 
@@ -164,11 +164,11 @@ Lov nr. 404 af 8. maj 2006, hvis § 21 indsætter § 39, stk. 1, 2. pkt., og § 
 
 § 23
 
-Stk. 1. (Udeladt)
+Stk. 1. (Udeladt).
 
 Stk. 2. §§ 2-6, § 7, nr. 2, §§ 8-13, § 17, nr. 24, §§ 18-21 og § 22, nr. 1, 2 og 4, træder i kraft den 1. juni 2006.
 
-Stk. 3. (Udeladt)
+Stk. 3. (Udeladt).
 
 Lov nr. 516 af 7. juni 2006, hvis § 8 ændrer § 31, stk. 3, og ophæver § 36, stk. 3, indeholder følgende ikrafttrædelsesbestemmelser m.v.:
 
@@ -198,7 +198,7 @@ Lov nr. 208 af 31. marts 2008, hvis § 2 indsætter § 23, stk. 3, nr. 2, og § 
 
 Stk. 1. Loven træder i kraft den 1. august 2008, jf. dog stk. 2-4.
 
-Stk. 2. (Udeladt)
+Stk. 2. (Udeladt).
 
 Stk. 3. § 2, nr. 1, 2 og 6, træder i kraft den 1. april 2008 og finder anvendelse for den endelige tildeling af støtte, jf. § 22 i lov om statens uddannelsesstøtte (SU-loven), for støtteåret 2007.
 
@@ -235,3 +235,115 @@ Stk. 3. Undervisningsministeren fastsætter tidspunktet for ikrafttrædelsen af 
 Stk. 4. § 2, stk. 3, 3. pkt., i SU-loven som indsat ved denne lovs § 1, nr. 2, har virkning for ansøgninger om godkendelse af uddannelser i udlandet som støtteberettigende, der modtages i styrelsen den 1. januar 2009 eller senere.
 
 Stk. 5. Reguleringen efter SU-lovens § 12, stk. 3, sker første gang med virkning fra den 1. januar 2009 for de støttesatser og beløbsgrænser, der er nævnt i SU-lovens § 10 a, stk. 1, § 10 b, stk. 2, og § 24, stk. 1, som affattet henholdsvis ændret ved denne lovs § 1, nr. 6, 9 og 18.
+
+Lov nr. 1524 af 27. december 2009, hvis § 1 ændrer § 2, stk. 1, nr. 3, § 2, stk. 2, § 2, stk. 7, § 2, stk. 8, § 2, stk. 9, § 14, stk. 1 og 2, § 24, stk. 3, nr. 6, § 30, stk. 2, § 39, stk. 6, § 39, stk. 10 og § 42, stk. 1, indsætter § 2, stk. 3, § 38 c, stk. 4, § 38 c, stk. 5, 2. pkt., § 38 d, stk. 3, og § 38 d, stk. 4, 2. pkt., § 39, stk. 2, og nyaffatter § 38 c, stk. 3 og § 38 d, stk. 2, indeholder følgende ikrafttrædelsesbestemmelser m.v.:
+
+§ 2
+
+Stk. 1. Loven træder i kraft den 1. januar 2010.
+
+Stk. 2. § 30, stk. 2, 2. pkt., i lov om statens uddannelsesstøtte (SU-loven), som ændret ved § 1, nr. 9, i denne lov, finder anvendelse på den endelige tildeling af støtte, jf. SU-lovens kapitel 7, fra og med støtteåret 2009.
+
+Lov nr. 78 af 27. januar 2010, hvis § 1 indsætter § 1 a, § 46, stk. 1, nr. 3, og afsnit I a, indeholder følgende ikrafttrædelsesbestemmelser m.v.:
+
+§ 4
+
+Stk. 1. Loven træder i kraft den 1. februar 2010 og har gyldighed til og med den 31. januar 2011, jf. dog stk. 2. Lovforslaget kan stadfæstes straks efter vedtagelsen.
+
+Stk. 2. Loven finder anvendelse på kompetenceudvidende forløb, som den nyuddannede påbegynder i perioden fra den 1. februar 2010 til og med den 31. januar 2011.
+
+Lov nr. 581 af 1. juni 2010, hvis § 1 ændrer § 46 a, stk. 1, nr. 2 og § 46 e, stk. 3, indsætter § 46 a, stk. 2, 2. pkt. og § 46 b, stk. 3 og 4, og nyaffatter § 46 d, stk. 3. indeholder følgende ikrafttrædelsesbestemmelser m.v.:
+
+§ 2
+
+Stk. 1. Loven træder i kraft den 1. juli 2010.
+
+Stk. 2. Loven finder anvendelse for studieophold og hele uddannelser på kandidatniveau i udlandet, som den uddannelsessøgende begynder på den 1. juli 2010 eller senere, jf. dog stk. 3.
+
+Stk. 3. Der kan efter ansøgning gives udlandsstipendier til uddannelsessøgende, der inden den 1. juli 2010 er begyndt på et studieophold i udlandet på en kandidatuddannelse, der er godkendt som led i EU-studieprogrammer om Erasmus Mundus af Europa-Kommissionen, til den del af studieopholdet, der ligger efter den 1. juli 2010.
+
+Lov nr. 1567 af 21. december 2010, hvis § 3 ændrer § 23, stk. 3, nr. 2, indeholder følgende ikrafttrædelsesbestemmelser m.v.:
+
+§ 4
+
+Stk. 1. Loven træder i kraft dagen efter bekendtgørelsen i Lovtidende, jf. dog stk. 2-8. Lovforslaget kan stadfæstes straks efter vedtagelsen.
+
+Stk. 2. (udeladt)
+
+Stk. 3. § 1, nr. 8, der ophæver § 3, stk. 2 og 4, i lov om befordringsrabat til studerende ved videregående uddannelser, § 1, nr. 11, der indsætter § 4 a i lov om befordringsrabat til studerende ved videregående uddannelser, og § 3, der ændrer § 23, stk. 3, nr. 2, i lov om statens uddannelsesstøtte (SU-loven), træder i kraft den 1. juli 2011.
+
+Stk. 4-8. (Udeladt).
+
+Lov nr. 561 af 6. juni 2011, hvis § 1 ændrer § 24, stk 2, nr. 2og 3, § 24, stk. 2, nr. 4, og § 24, stk. 5, og indsætter § 24, stk. 3, nr. 3, og § 24, stk. 7, indeholder følgende ikrafttrædelsesbestemmelser m.v.:
+
+§ 2
+
+Stk. 1. Loven træder i kraft den 1. juli 2011.
+
+Stk. 2 . Loven finder anvendelse for uddannelsessøgende, der påbegynder politiets grunduddannelse den 1. juli 2011 eller senere.
+
+Lov nr. 326 af 11. april 2012, hvis § 21 ændrer § 39, stk. 3, indeholder følgende ikrafttrædelsesbestemmer m.v.:
+
+§ 25
+
+Stk. 1. Loven træder i kraft den 1. oktober 2012, jf. dog stk. 2-4
+
+Stk. 2-4
+
+Lov nr. 274 af 19. marts 2013, hvis § 1 indsætter § 41 og § 42, stk. 3, ændrer § 43, stk. 3, og § 46 h og nyaffatter § 46, indeholder følgende ikrafttrædelsesbestemmelser m.v.:
+
+§ 9
+
+Stk. 1. Loven træder i kraft den 1. april 2013.
+
+Stk. 2. Lovens § 1, nr. 2, har virkning for klager, der indbringes for Styrelsen for Videregående Uddannelser og Uddannelsesstøtte efter lovens ikrafttræden.
+
+Stk. 3. (udeladt).
+
+Lov nr. 485 af 17. maj 2013, hvis § 1 ophæver § 1 a, afsnit II a og §§ 46 e - 46 h, ændrer § 8, stk. 1, nr. 1 og 2, § 8, stk. 2, 1. og 2. pkt. § 9, § 10, § 10 a, stk. 1, § 10 b, stk. 1-3, § 11, stk. 1, § 24, stk. 1, 2, 3, 4 og 10, § 25, stk. 2, 1., 3. og 4. pkt., § 25, stk. 4, overskriften til afsnit I a, § 46 a, stk. 1, § 46 c, stk. 3, 1. pkt. og § 46 c, stk. 4, nyaffatter § 46 a, stk. 1 og 2, og indsætter §§ 46 e - 46 i, indeholder følgende ikrafttrædelsesbestemmelser m.v.:
+
+§ 4
+
+Stk. 1. Loven træder i kraft den 1. juli 2013.
+
+Stk. 2. Lovens § 1, nr. 27, finder alene anvendelse for studieophold og hele uddannelser på kandidatniveau i udlandet, som den uddannelsessøgende påbegynder efter lovens ikrafttræden.
+
+Stk. 3. Ministeren for forskning, innovation og videregående uddannelser kan fastsætte regler om, hvornår uddannelsessøgende, der har ret til udlandsstudielån efter SU-lovens § 46 e som affattet ved denne lovs § 1, nr. 27, tidligst vil kunne søge om tildeling og udbetaling af udlandsstudielånet.
+
+Lov nr. 628 af 12. juni 2013, hvis § 3 ændrer § 24, stk. 3, nr. 4, indeholder følgende ikrafttrædelsesbestemmelser m.v.:
+
+§ 4
+
+Stk. 1. Loven træder i kraft den 1. juli 2013, jf. dog stk. 2.
+
+Stk. 2-3. (udeladt).
+
+Stk. 4. § 3 har virkning for støtteåret 2013 for uddannelsessøgende, der påbegynder uddannelsen til fængselsbetjent den 1. juli 2013 eller senere.
+
+Lov nr. 894 af 4. juli 2013, hvis § 4 ændrer § 7, stk. 4, nr. 2, indeholder følgende ikrafttrædelsesbestemmelser m.v.:
+
+§ 8
+
+Stk. 1. Loven træder i kraft den 1. januar 2014, jf. dog stk. 2, 3 og 5.
+
+Stk. 2-5. (udeladt).
+
+Lov nr. 899 af 4. juli 2013, hvis § 1 ændrer § 2, stk. 9, § 8, stk. 4, § 9, § 17, stk. 1, § 21, stk. 2, 2. pkt., § 22, stk. 1, § 24, stk. 1, nr. 2, § 25, stk. 5 og 6, § 25, stk. 8, nr. 1, 2, 4 og 5, § 26, stk. 1, § 26, stk. 2, 1. og 2. pkt. § 38 c, stk. 3, og § 39, stk. 2, indsætter § 3, stk. 7, § 8, stk. 1-3, § 12, stk. 3-5, § 17, stk. 2 og 4, § 20 b, § 25, stk. 1-8, § 30, stk. 6, § 33, stk. 3, 3. pkt. § 34, stk. 3, 2. pkt., og § 34, stk. 4, 2. pkt., ophæver § 8, stk. 1 og 2, § 12, stk. 2., 3. og 4. pkt., og § 25, stk. 1-4, og nyaffatter § 13, stk. 1, nr. 3, § 13, stk. 2, § 21, stk. 1, § 24, stk. 10, § 38, § 39, stk. 1, 1. pkt. og § 39, stk. 8, indeholder følgende ikrafttrædelsesbestemmelser m.v.:
+
+§ 4
+
+Stk. 1. Loven træder i kraft den 15. juli 2013, jf. dog stk. 2-6.
+
+Stk. 2 . § 1, nr. 18, træder i kraft den 1. januar 2014.
+
+Stk. 3. § 1, nr. 9-13, 15 og 16, træder i kraft den 1. juli 2014. § 1, nr. 9, har virkning for forløb, der er igangsat den 1. juli 2014 eller senere. Uddannelsessøgende med en adgangsgivende eksamen fra 2011 vil dog have ret til statens uddannelsesstøtte efter de hidtil gældende regler, hvis de optages på den første videregående uddannelse i 2014. § 1, nr. 11-13, 15 og 16, har virkning for uddannelsessøgende, der begynder på den første videregående uddannelse den 1. juli 2014 eller senere.
+
+Stk. 4. § 1, nr. 19, træder i kraft den 1. januar 2015.
+
+Stk. 5. § 1, nr. 3-5, 17, 21-30 og 38, træder i kraft den 1. juli 2015 og har virkning for hjemmeboende, der starter en ny uddannelse den 1. juli 2014 eller senere, jf. stk. 7 og 8.
+
+Stk. 6. § 1, nr. 14, og §§ 2 og 3 træder i kraft den 1. januar 2016.
+
+Stk. 7. Fra den 1. juli 2014 til den 30. juni 2015 udgør stipendium med hjemmeboendesats, jf. SU-lovens § 8, stk. 1, nr. 1, til uddannelsessøgende, der får uddannelsesstøtte inden for klippekortet, og uddannelsessøgende, der får uddannelsesstøtte uden for klippekortet, i en periode efter den måned, hvor den uddannelsesøgende fylder 20 år, og som er begyndt på en ny uddannelse efter den 1. juli 2014, 2.479 kr. (2013-niveau).
+
+Stk. 8. Fra den 1. juli 2014 til den 30. juni 2015 udgør grundstipendiet med hjemmeboendesats, jf. SU-lovens § 8, stk. 2, nr. 1, til uddannelsessøgende, der får uddannelsesstøtte uden for klippekortet, og som er begyndt på en ny uddannelse efter den 1. juli 2014, 893 kr. (2013-niveau). I samme periode udgør det maksimale tillæg til grundstipendiet med hjemmeboendesats, jf. SU-lovens § 25, stk. 2, 1.586 kr. (2013-niveau).

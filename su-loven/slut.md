@@ -1,5 +1,5 @@
-Undervisningsministeriet, den 29. juni 2009
+Ministeriet for Forskning, Innovation og Videregående Uddannelser, den 15. januar 2014
 
-Bertel Haarder
+Morten Østergaard
 
-/ Hanna Dam
+/ Marianne Gjevert Petersen
