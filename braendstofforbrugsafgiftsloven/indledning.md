@@ -1,5 +1,5 @@
 Bekendtgørelse af lov om afgift efter brændstofforbrug m.v. for visse person- og varebiler (brændstofforbrugsafgiftsloven)
 
-Hermed bekendtgøres lov om afgift efter brændstofforbrug m.v. for visse person- og varebiler (brændstofforbrugsafgiftsloven), jf. lovbekendtgørelse nr. 637 af 20. juni 2012, med de ændringer, der følger af § 9 i lov nr. 924 af 18. september 2012 og § 8 i lov nr. 1353 af 21. december 2012.
+Hermed bekendtgøres lov om afgift efter brændstofforbrug m.v. for visse person- og varebiler (brændstofforbrugsafgiftsloven), jf. lovbekendtgørelse nr. 339 af 18. marts 2013 med de ændringer, der følger af § 15, nr. 1 og 2, i lov nr. 513 af 7. juni 2006.
 
-De ændringer, der følger af § 15 i lov nr. 513 af 7. juni 2006 om ændring af opkrævningsloven, selskabsskatteloven og forskellige andre love (Opkrævning via én skattekonto), er ikke medtaget, da disse ændringer ikke er trådt i kraft.
+Den ændring, der vedrører § 11, stk. 1, 1. pkt., og som følger af § 15, nr. 3, i lov nr. 513 af 7. juni 2006 om ændring af opkrævningsloven, selskabsskatteloven og forskellige andre love, er ikke medtaget i denne lovbekendtgørelse, da ændringen af § 11, stk. 1, 1. pkt., efterfølgende er ophævet ved § 3, nr. 14, i lov nr. 1338 af 19. december 2008 om ændring af lov om registrering af køretøjer, færdselsloven, registreringsafgiftsloven og andre love.
