@@ -1,25 +1,39 @@
-Lov nr. 1173 af 19. december 2003 indeholder følgende ikrafttrædelsesbestemmelser:
+Lov nr. 1231 af 18. december 2012 indeholder følgende ikrafttrædelsesbestemmelser:
 
-§ 8
+§ 69
 
-Stk. 1. Økonomi- og erhvervsministeren fastsætter tidspunktet for lovens ikrafttræden.
+Stk. 1. Loven træder i kraft den 1. januar 2013.
 
-Stk. 2-3. (Udeladt)
+Stk. 2. Administrative forskrifter, der er udstedt i medfør af de hidtidige bestemmelser, vedbliver at være i kraft, indtil de ændres eller ophæves.
 
-§ 9
+§ 70
 
-Loven gælder ikke for Færøerne og Grønland, men kan ved kongelig anordning sættes i kraft for Grønland med de afvigelser, som de særlige grønlandske forhold tilsiger.
+Stk. 1. §§ 1-39, 41-50 og 53-68 gælder ikke for Færøerne og Grønland, jf. dog stk. 3 og 4.
 
-Lov nr. 364 af 13. maj 2009 indeholder følgende ikrafttrædelsesbestemmelser:
+Stk. 2. (Udeladt).
 
-§ 9
+Stk. 3. (Udeladt).
 
-Lovens § 8, nr. 1-4, træder i kraft dagen efter bekendtgørelsen i Lovtidende. Lovens §§ 1-7 og § 8, nr. 5-13, træder i kraft den 28. december 2009.
+Stk. 4. §§ 1-10, 17, 18, 23, 29, 35-39, 41-44, 49, 50, 54, 58-63, 65 og 66 kan ved kongelig anordning helt eller delvis sættes i kraft for Grønland med de ændringer, som de grønlandske forhold tilsiger.
+
+Stk. 5. (Udeladt).
+
+Lov nr. 618 af 12. juni 2013 indeholder følgende ikrafttrædelsesbestemmelser:
 
 § 10
 
-Stk. 1. Loven gælder ikke for Færøerne og Grønland.
+Stk. 1. Loven træder i kraft den 1. oktober 2013, jf. dog stk. 2.
 
-Stk. 2. Lovens § 6 kan ved kongelig anordning sættes i kraft for Grønland med de afvigelser, som de særlige grønlandske forhold tilsiger.
+Stk. 2. Erhvervs- og vækstministeren fastsætter tidspunktet for ikrafttræden af § 1, nr. 6-34, og §§ 2-9. Ministeren kan herunder fastsætte, at de pågældende regler træder i kraft på forskellige tidspunkter.
 
-Stk. 3. (Udeladt)
+§ 11
+
+Stk. 1. (Udeladt).
+
+§ 12
+
+Stk. 1. Loven gælder ikke for Færøerne og Grønland, jf. dog stk. 2 og 3.
+
+Stk. 2. §§ 1-9 kan ved kongelig anordning helt eller delvis sættes i kraft for Grønland med de ændringer, som de grønlandske forhold tilsiger.
+
+Stk. 3. (Udeladt).
