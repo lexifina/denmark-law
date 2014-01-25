@@ -1,7 +1,5 @@
-Givet på Christiansborg Slot, den 25. april 1990
+Søfartsstyrelsen, den 17. januar 2014
 
-Under Vor Kongelige Hånd og Segl
+Birgit Sølling Olsen
 
-MARGRETHE R.
-
-/ Anne Birgitte Lundholt
+/ Alexander Milan
