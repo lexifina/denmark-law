@@ -1,25 +1,25 @@
-1) Stk. 2 omhandler lov om havmiljøet og sømandsloven.
+1) Loven indeholder bestemmelser, der gennemfører dele af Europa-Parlamentets og Rådets direktiv 2005/36/EF af 7. september 2005 om anerkendelse af erhvervsmæssige kvalifikationer, EU-Tidende 2005, nr. L 255, side 22. Loven indeholder endvidere bestemmelser, der gennemfører dele af Rådets direktiv 2009/13/EF af 16. februar 2009 om iværksættelse af den aftale, der er indgået mellem European Community Shipowners’ Associations (ESCA) og European Transport Workers’ Federation (ETF) om konventionen om søfarendes arbejdsforhold af 2006 og om ændring af direktiv 1999/63/EF, EU-Tidende 2009, nr. L 124, side 30-50.
 
-2) Lov nr. 1173 af 19. december 2003 trådte i kraft den 1. april 2005, jf. bekendtgørelse nr. 153 af 10. marts 2005.
+2) § 3, nr. 2 og 3, i lov nr. 493 af 12. maj 2010 trådte i kraft den 20. august 2013, jf. § 1 i bekendtgørelse nr. 6 af 9. januar 2013.
 
-3) Stk. 3 omhandler lov om måling af skibe og lov om skibsmåling.
+3) § 8 omhandler ophævelse af lov om forhyring af skibsmandskab.
 
-4) § 2 i lov nr. 1462 af 22. december 2004 trådte i kraft den 23. juni 2011, jf. bekendtgørelse nr. 665 af 20. juni 2011.
+4) Stk. 2 omhandler søloven.
 
-5) Stk. 2-22 omhandler retsplejeloven.
+5) Stk. 2, 1. pkt., omhandler lov om maritime uddannelser.
 
-6) §§ 106-109 omhandler retsplejeloven og inddelingen af nye rets- og politikredse i forbindelse med politi- og domstolsreformen.
+6) Stk. 2, 2. pkt., trådte i kraft den 11. september 2013, jf. bekendtgørelse nr. 1085 af 9. september 2013.
 
-7) Stk. 2 og 3 omhandler lov om fuldbyrdelse af straf, lov om klage- og erstatningsadgang inden for sundhedsvæsenet, lov om foranstaltninger mod smitsomme sygdomme, lov om luftfart, lov om handel med brugte genstande samt pantelånervirksomhed, lov om statsautoriserede og registrerede revisorer, lov om omsætning af fast ejendom, lov om Det Danske Klasselotteri og lov om Det Centrale Personregister.
+7) Stk. 2 omhandler lov om realkreditlån og realkreditobligationer m.v.
 
-8) § 3, nr. 4-11 i lov nr. 493 af 12. maj 2010 trådte i kraft den 15. juni 2010, jf. bekendtgørelse nr. 594 af 3. juni 2010.
+8) Stk. 3 omhandler forskellige andre love.
 
-9) § 3, nr. 1-3 i lov nr. 493 af 12. maj 2010 er ikke trådt i kraft.
+9) Stk. 5 omhandler lov om finansiel stabilitet og lov om statsligt kapitalindskud i kreditinstitutter.
 
-10) Se note 8).
+10) Stk. 2 omhandler ophævelse af lov om registreringsafgift for fritidsfartøjer.
 
-11) § 8 omhandler lov om forhyring af skibsmandskab.
+11) Stk. 3 omhandler søloven.
 
-12) Stk. 2 omhandler søloven.
+12) Stk. 4 omhandler søloven, lov om tillæg til strandingsloven af 10. april 1895, lov om sikkerhed til søs og forskellige ændringslove.
 
-13) Stk. 2 omhandler sømandsbeskatningsloven.
+13) Stk. 3 omhandler søloven.
