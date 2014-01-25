@@ -1,3 +1,3 @@
 Bekendtgørelse af lov om dykkerarbejde og dykkermateriel m.v.
 
-Herved bekendtgøres lov om dykkerarbejde og dykkermateriel m.v., jf. lovbekendtgørelse nr. 18 af 7. januar 2000 med de ændringer, der følger af § 4 i lov nr. 1173 af 19. december 2003 og § 6 i lov nr. 364 af 13. maj 2009.
+Herved bekendtgøres lov om dykkerarbejde og dykkermateriel m.v., jf. lovbekendtgørelse nr. 936 af 20. juli 2010, med de ændringer, der følger af § 62 i lov nr. 1231 af 18. december 2012 og § 2 i lov nr. 618 af 12. juni 2013.
