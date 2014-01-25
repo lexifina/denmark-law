@@ -2,4 +2,4 @@
 
 Stk. 2. Straffen kan stige til fængsel i indtil 2 år, hvis overtrædelsen er begået forsætligt eller ved grov uagtsomhed.
 
-Stk. 3. Undlader nogen rettidigt at opfylde den oplysningspligt, der påhviler dem efter § 202, stk. 4, eller efter regler udstedt i medfør heraf, kan økonomi- og erhvervsministeren som tvangsmiddel pålægge de pågældende daglige eller ugentlige bøder.
+Stk. 3. Undlader nogen rettidigt at opfylde den oplysningspligt, der påhviler dem efter § 202, stk. 4, eller efter regler udstedt i medfør heraf, kan erhvervs- og vækstministeren som tvangsmiddel pålægge de pågældende daglige eller ugentlige bøder.
