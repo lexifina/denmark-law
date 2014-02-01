@@ -1,1 +1,1 @@
-§ 55 a. Regionsrådet kan give tidsbegrænsede tilskud til projekter, der bidrager til at realisere visioner og målsætninger i den regionale udviklingsplan inden for lovens formål.
+§ 55 a. Regionsrådet kan give tidsbegrænsede tilskud til projekter, der bidrager til at realisere visioner og målsætninger i den regionale vækst- og udviklingsstrategi efter lov om erhvervsfremme og regional udvikling inden for lovens formål.

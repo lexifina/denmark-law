@@ -4,6 +4,4 @@ Stk. 2. På baggrund af en samlet vurdering af udviklingen i regionen og de hens
 
 Stk. 3. Råstofplanen må ikke stride mod regler eller beslutninger efter § 3 i lov om planlægning eller miljømålsloven.
 
-Stk. 4. Råstofplanen må ikke være i strid med den regionale udviklingsplan.
-
-Stk. 5. Kommunalbestyrelserne er bundet af råstofplanen i deres planlægning og administration.
+Stk. 4. Kommunalbestyrelserne er bundet af råstofplanen i deres planlægning og administration.
