@@ -1,7 +1,5 @@
-Givet på Amalienborg, den 3. marts 2011
+Erhvervsstyrelsen, den 7. februar 2014
 
-Under Vor Kongelige Hånd og Segl
+Betina Hagerup
 
-I Dronningens Navn: FREDERIK Kronprins
-
-/ Charlotte Sahl-Madsen
+/ Helle Bøjen Larsen
