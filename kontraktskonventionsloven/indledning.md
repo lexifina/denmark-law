@@ -1,3 +1,3 @@
-Lov om gennemførelse af konvention om, hvilken lov der skal anvendes på kontraktlige forpligtelser, m.v.
+Bekendtgørelse af lov om gennemførelse af konvention om, hvilken lov der skal anvendes på kontraktlige forpligtelser, m.v.
 
-VI MARGRETHE DEN ANDEN, af Guds Nåde Danmarks Dronning, gør vitterligt: Folketinget har vedtaget og Vi ved Vort samtykke stadfæstet følgende lov:
+Herved bekendtgøres lov nr. 188 af 9. maj 1984 om gennemførelse af konvention om, hvilken lov der skal anvendes på kontraktlige forpligtelser, m.v. med de ændringer, der følger af § 2 i lov nr. 305 af 16. maj 1990 og § 4 i lov nr. 442 af 31. maj 2000.

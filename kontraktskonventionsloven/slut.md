@@ -1,13 +1,5 @@
-Givet på Christiansborg slot, den 9. maj 1984
+Justitsministeriet, den 17. februar 2014
 
-Under Vor Kongelige Hånd og Segl
+Karen Hækkerup
 
-MARGRETHE R
-
-/Erik Ninn-Hansen
-
-Bilag
-
-Særligt noter:
-
-(* 1) Bilag udeladt.
+/ Rikke-Louise Ørum Petersen
