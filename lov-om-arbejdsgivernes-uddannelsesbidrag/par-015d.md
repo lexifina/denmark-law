@@ -5,7 +5,3 @@ Stk. 2. Løntilskuddet udgør 14 kr. i timen for den i praktikaftalen aftalte ar
 Stk. 3. Ansøgning om udbetaling af løntilskud skal indgives til Arbejdsgivernes Uddannelsesbidrag, senest 1 år efter at arbejdsgiveren har opnået ret hertil.
 
 Stk. 4. Bestyrelsen for Arbejdsgivernes Uddannelsesbidrag fastsætter nærmere regler om tilskuddets beregning, udbetaling, efterregulering, modregning og tilbagebetaling samt om administration af ordningen i øvrigt.
-
-## Kapitel 6
-
-(Ophævet)

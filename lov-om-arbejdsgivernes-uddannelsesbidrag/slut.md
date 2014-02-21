@@ -1,5 +1,5 @@
-Ministeriet for Børn og Undervisning, den 25. februar 2013
+Undervisningsministeriet, den 12. februar 2014
 
 Christine Antorini
 
-/ Nanna Hvass Jacobsen
+/ Birgitte Ammitzbøll
