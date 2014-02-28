@@ -1,5 +1,3 @@
-1) Ved § 16 i lov nr. 513 af 7. juni 2006 ændres § 6.
+1) Der gælder særlige satser for 2013 og 2014, jf. § 13 i lov nr. 924 af 18. september 2012 med senere ændringer. Bestemmelserne er gengivet sidst i denne lovbekendtgørelse.
 
-2) De i stk. 1 under A og D angivne beløb for vægtafgift gælder for afgiftsperioder, der begynder den 1. januar 2015 eller senere, dog senest påbegyndt den 31. december 2017. De i stk. 1 under A og D angivne beløb for udligningsafgift gælder for afgiftsperioder, der begynder den 1. januar 2015 eller senere, dog senest påbegyndt den 31. december 2015. Beløb for vægtafgift og udligningsafgift fra den 1. januar 2013 til den 31. december 2014 findes i § 13, stk. 56 og 57 i lov nr. 924 af 18. september 2012, som er optrykt før disse noter.
-
-3) De i stk. 1 under I og II, A, angivne beløb for vægtafgift og tillæg for privat anvendelse gælder for afgiftsperioder, der begynder den 1. januar 2015 eller senere, dog senest påbegyndt den 31. december 2017. De i stk. 1 under I og II, A, angivne beløb for udligningsafgift gælder for afgiftsperioder, der begynder den 1. januar 2015 eller senere, dog senest påbegyndt den 31. december 2015. Beløb for vægtafgift, udligningsafgift og tillæg for privat anvendelse fra den 1. januar 2013 til den 31. december 2014 findes i § 13, stk. 58 og 59 i lov nr. 924 af 18. september 2012, som er optrykt før disse noter.
+2) Der gælder særlige satser for 2013 og 2014, jf. § 13 i lov nr. 924 af 18. september 2012, med senere ændringer. Bestemmelserne er gengivet sidst i denne lovbekendtgørelse.
