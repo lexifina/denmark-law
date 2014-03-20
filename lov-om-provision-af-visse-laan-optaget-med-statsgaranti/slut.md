@@ -1,9 +1,5 @@
-Givet på Christiansborg Slot, den 22. december 1993
+Finansministeriet, den 10. marts 2014
 
-Under Vor Kongelige Hånd og Segl
+Bjarne Corydon
 
-MARGRETHE R.
-
-/Mogens Lykketoft
-
-Ingen
+/ Nikolaj Stenfalk
