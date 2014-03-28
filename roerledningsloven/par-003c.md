@@ -8,4 +8,4 @@ Stk. 4. DONG Oil Pipe A/S kan opkræve acontobetaling for brug af separationsfac
 
 Stk. 5. DONG Oil Pipe A/S offentliggør den aktuelle betaling for brug af separationsfaciliteterne.
 
-Stk. 6. DONG Oil Pipe A/S aflægger særskilt regnskab for virksomhed efter § 1, stk. 2. Regnskabet revideres efter de regler, der til enhver tid er gældende for DONG Oil Pipe A/S’ samlede virksomhed. Regnskabsåret følger kalenderåret. Regnskab bilagt udtalelser fra brugerne fremsendes til klima- og energiministeren. DONG Oil Pipe A/S offentliggør regnskabet. I tilfælde af uenighed om regnskabet mellem en bruger og DONG Oil Pipe A/S træffer klima- og energiministeren afgørelse.
+Stk. 6. DONG Oil Pipe A/S aflægger særskilt regnskab for virksomhed efter § 1, stk. 2. Regnskabet revideres efter de regler, der til enhver tid er gældende for DONG Oil Pipe A/S’ samlede virksomhed. Regnskabsåret følger kalenderåret. Regnskab bilagt udtalelser fra brugerne fremsendes til klima-, energi- og bygningsministeren. DONG Oil Pipe A/S offentliggør regnskabet. I tilfælde af uenighed om regnskabet mellem en bruger og DONG Oil Pipe A/S træffer klima-, energi- og bygningsministeren afgørelse.
