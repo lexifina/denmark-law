@@ -41,3 +41,13 @@ Lov nr. 718 af 25. juni 2010 om ændring af konkursloven og forskellige andre lo
 Stk. 1. Justitsministeren fastsætter tidspunktet for lovens ikrafttræden.
 
 Stk. 2-10. (Udeladt)
+
+Lov nr. 1636 af 26. december 2013 om ændring af kulbrinteskatteloven, lov om ansættelse og opkrævning m.v. af skat ved kulbrinteindvinding og lov om etablering og benyttelse af en rørledning til transport af råolie og kondensat, der vedrører § 2, stk. 4-6, § 3, stk. 2-5, § 3 a, § 3 d og § 6, stk. 2 og 3, indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 4
+
+Stk. 1. Loven træder i kraft den 1. januar 2014.
+
+Stk. 2. Loven har virkning for indkomståret 2014 og senere indkomstår.
+
+Stk. 3. § 2, stk. 4, i lov om etablering og benyttelse af en rørledning til transport af råolie og kondensat, jf. lovbekendtgørelse nr. 957 af 9. september 2011, der ophæves med denne lovs § 3, nr. 1, finder fortsat anvendelse for betaling af afgifter vedrørende 2013. § 3, stk. 2, i lov om etablering og benyttelse af en rørledning til transport af råolie og kondensat, jf. lovbekendtgørelse nr. 957 af 9. september 2011, der ophæves med denne lovs § 3, nr. 3, finder ligeledes fortsat anvendelse for betaling af afgifter vedrørende 2013.
