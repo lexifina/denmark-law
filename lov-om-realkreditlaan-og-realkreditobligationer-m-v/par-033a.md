@@ -6,4 +6,4 @@
 
 Stk. 2. Ydelse af lån finansieret med særligt dækkede realkreditobligationer skal ske i særskilte serier med seriereservefond.
 
-Stk. 3. Værdien af de aktiver, der dækker de udstedte særligt dækkede realkreditobligationer, skal til enhver tid mindst svare til værdien af de udstedte særligt dækkede realkreditobligationer, og pantsikkerheden for det enkelte lån skal til enhver tid overholde lånegrænsen herfor.
+Stk. 3. Værdien af de aktiver, der dækker de udstedte særligt dækkede realkreditobligationer, skal svare til værdien af de udstedte særligt dækkede realkreditobligationer, og pantsikkerheden for det enkelte lån skal overholde lånegrænsen herfor.
