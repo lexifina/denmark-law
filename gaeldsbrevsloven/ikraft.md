@@ -1,25 +1,27 @@
-Lov nr. 212 af 26. april 1973 indeholder følgende bestemmelse:
+Lov nr. 539 af 8. juni 2006 om ændring af lov om tinglysning og forskellige andre love (Digital tinglysning) indeholder følgende ikrafttrædelsesbestemmelse:
 
-§ 5. Loven gælder ikke for Færøerne og Grønland, men kan ved kgl. anordning sættes i kraft for disse landsdele med de afvigelser, som de særlige færøske og grønlandske forhold tilsiger. (* 1)
+§ 13
 
-----
+Stk. 1. Justitsministeren fastsætter tidspunktet for lovens ikrafttræden, jf. dog stk. 5 og 6.
 
-Lov nr. 250 af 12. juni 1975 indeholder følgende bestemmelse:
+Stk. 2. Justitsministeren kan bestemme, at loven træder i kraft på forskellige tidspunkter, for så vidt angår tingbogen, bilbogen, andelsboligbogen og personbogen.
 
-§ 5. Loven gælder ikke for Færøerne og Grønland.
+Stk. 3. (Udeladt)
 
-Stk. 2. §§ 1, 2 og 4, nr. 1, 2, 3, 5 og 6, kan ved kongelig anordning sættes i kraft for Færøerne.
+Stk. 4. Lovens § 2, nr. 1, finder kun anvendelse på gældsbreve, der er oprettet efter lovens ikrafttræden.
 
-Stk. 3. §§ 2 og 4, nr. 1, 2, 3, 5, og 6, kan ved kongelig anordning sættes i kraft for Grønland. (* 2)
+Stk. 5-6. (Udeladt)
 
-----
+Lov nr. 523 af 6. juni 2007 om ændring af forskellige lovbestemmelser om forældelse af fordringer m.v. (Ændringer som følge af en ny lov om forældelse af fordringer, ophævelse af købelovens reklamationsfrister ved visse køb m.v.) indeholder følgende ikrafttrædelsesbestemmelser:
 
-Lov nr. 638 af 21. december 1977 indeholder følgende bestemmelse:
+§ 47
 
-§ 11. Loven gælder ikke for Færøerne og Grønland, men kan ved kgl. anordning sættes i kraft for disse landsdele med de afvigelser, som de særlige færøske og grønlandske forhold tilsiger.
+Loven træder i kraft den 1. januar 2008.
 
-----
+§ 48
 
-Lov nr. 187 af 9. maj 1984 indeholder følgende bestemmelser:
+Stk. 1. Loven finder anvendelse også på tidligere stiftede fordringer, som ikke inden ikrafttrædelsesdagen er forældet efter de hidtil gældende regler. Forældelse indtræder dog tidligst den 1. januar 2011, medmindre fordringen inden dette tidspunkt ville være forældet såvel efter de hidtil gældende bestemmelser som efter de bestemmelser, der gælder efter lovens ikrafttræden, jf. dog stk. 7. I det sidstnævnte tilfælde anvendes det seneste tidspunkt for forældelsens indtræden.
 
-§ 5. Loven gælder ikke for Færøerne og Grønland, men §§ 1-2 kan ved kgl. anordning sættes i kraft for disse landsdele med de afvigelser, som de særlige færøske og grønlandske forhold tilsiger.
+Stk. 2. Afbrydelse af forældelse, der har fundet sted før lovens ikrafttræden, har fortsat virkning som afbrydelse, selv om den ikke er sket på den efter lovens ikrafttræden foreskrevne måde.
+
+Stk. 3-8. (Udeladt)
