@@ -1,5 +1,5 @@
-Ministeriet for Ligestilling og Kirke, den 24. juni 2013
+Kirkeministeriet, den 29. marts 2014
 
-Manu Sareen
+Marianne Jelved
 
-/ Christina Hyldgaard Jacobsen
+/ Eva Stilov
