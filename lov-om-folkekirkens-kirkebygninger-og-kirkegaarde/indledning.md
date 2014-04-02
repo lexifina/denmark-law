@@ -1,3 +1,3 @@
 Bekendtgørelse af lov om folkekirkens kirkebygninger og kirkegårde
 
-Herved bekendtgøres lov om folkekirkens kirkebygninger og kirkegårde, jf. lovbekendtgørelse nr. 7 af 3. januar 2007, med de ændringer, der følger af lov nr. 47 af 28. januar 2009.
+Herved bekendtgøres lov om folkekirkens kirkebygninger og kirkegårde, jf. lovbekendtgørelse nr. 77 af 2. februar 2009, med de ændringer, der følger af § 2 i lov nr. 269 af 25. marts 2014.
