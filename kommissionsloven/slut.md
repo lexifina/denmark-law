@@ -1,7 +1,5 @@
-Justitsministeriet, den 15. september 1986
+Justitsministeriet, den 31. marts 2014
 
-Erik Ninn-Hansen
+Karen Hækkerup
 
-/Jens Møller
-
-Ingen
+/ Rikke-Louise Ørum Petersen

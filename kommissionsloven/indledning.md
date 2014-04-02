@@ -1,7 +1,3 @@
-Bekendtgørelse af lov om kommission, handelsagentur og handelsrejsende
+Bekendtgørelse af kommissionsloven
 
-(Kommissionsloven)
-
-Herved bekendtgøres lov nr. 243 af 8. maj 1917 om kommission, handelsagentur og handelsrejsende med den ændring, der følger af § 15 i lov nr. 168 af 13. april 1938.
-
-I. Almindelige bestemmelser
+Herved bekendtgøres kommissionsloven, jf. lovbekendtgørelse nr. 636 af 15. september 1986, med de ændringer, der følger af § 3 i lov nr. 271 af 2. maj 1990, § 37 i lov nr. 272 af 2. maj 1990 og § 9 i lov nr. 718 af 25. juni 2010.
