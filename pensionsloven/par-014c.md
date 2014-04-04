@@ -6,17 +6,19 @@
 
 3) lov om sikring mod følger af arbejdsskade,
 
-4) lov om erstatning for vaccinationsskader,
+4) lov om erstatning og godtgørelse til tidligere udsendte soldater og andre statsansatte med sent diagnosticeret posttraumatisk belastningsreaktion,
 
-5) lov om patientforsikring,
+5) lov om erstatning for vaccinationsskader,
 
-6) lov om lægemiddelskader,
+6) lov om patientforsikring,
 
-7) cirkulære om statens erstatningsordninger for deltagere i praktisk erhvervsorientering,
+7) lov om lægemiddelskader,
 
-8) lov om erstatning for skadelidte værnepligtige m.fl. eller
+8) cirkulære om statens erstatningsordninger for deltagere i praktisk erhvervsorientering,
 
-9) bestemmelser for ansættelse og aflønning af personel ansat på kontrakt i Beredskabskorpset i forbindelse med humanitært hjælpearbejde.
+9) lov om erstatning for skadelidte værnepligtige m.fl. eller
+
+10) bestemmelser for ansættelse og aflønning af personel ansat på kontrakt i Beredskabskorpset i forbindelse med humanitært hjælpearbejde.
 
 Stk. 2. Der ses desuden bort fra formue, som skyldes beløb, der er udbetalt som godtgørelse for varigt mén og ikkeøkonomisk skade.
 
