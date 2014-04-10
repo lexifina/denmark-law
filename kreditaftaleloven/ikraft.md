@@ -1,10 +1,10 @@
-Lov nr. 322 af 31. maj 1991 indeholder følgende ikrafttrædelsesbestemmelse:
+Lov nr. 322 af 31. maj 1991 indeholder følgende ikrafttrædelses- og overgangsbestemmelse:
 
-§ 9
+§ 9. Loven træder i kraft dagen efter bekendtgørelsen i Lovtidende. (2. punktum udelades)
 
-Loven træder i kraft dagen efter bekendtgørelsen i Lovtidende. (Udelades)
+Stk. 2. (Udelades)
 
-Lov nr. 226 af 6. april 1994 indeholder følgende ikrafttrædelses- og overgangsbestemmelse:
+Lov nr. 226 af 6. april 1994 indeholder følgende ikrafttrædelsesbestemmelse:
 
 § 2
 
@@ -12,7 +12,7 @@ Stk. 1. Loven træder i kraft dagen efter bekendtgørelsen i Lovtidende.
 
 Stk. 2. Loven finder anvendelse på aftaler om kreditkøb, der indgås efter ikrafttrædelsen.
 
-Lov nr. 434 af 10. juni 2003 indeholder følgende ikrafttrædelses- og overgangsbestemmelse:
+Lov nr. 434 af 10. juni 2003 indeholder følgende ikrafttrædelsesbestemmelse:
 
 § 4
 
@@ -28,7 +28,7 @@ Stk. 1. Loven træder i kraft den 1. januar 2007, jf. dog stk. 2-22 og § 106.
 
 Stk. 2-22. (Udelades)
 
-Lov nr. 535 af 26. maj 2010 indeholder følgende ikrafttrædelses- og overgangsbestemmelse:
+Lov nr. 535 af 26. maj 2010 indeholder følgende ikrafttrædelsesbestemmelse:
 
 § 3
 
@@ -36,7 +36,7 @@ Stk. 1. Loven træder i kraft den 1. november 2010, jf. dog stk. 2.
 
 Stk. 2. § 19, stk. 1 og 4-7, i lov om kreditaftaler som affattet ved denne lovs § 1, nr. 12, træder i kraft den 11. juni 2010.
 
-Stk. 3. Indtil ikrafttræden af § 8 i lov om kreditaftaler som affattet ved denne lovs § 1, nr. 8, løber den periode, hvori fortrydelsesretten efter § 19, stk. 1, i lov om kreditaftaler som affattet ved denne lovs § 1, nr. 12, kan udøves, fra
+Stk. 3. Indtil ikrafttræden af § 8 i lov om kreditaftaler som affattet ved denne lovs § 1, nr. 8, løber den periode, hvori fortrydelsesretten efter § 19, stk. 1 i lov om kreditaftaler som affattet ved denne lovs § 1, nr. 12, kan udøves fra
 
 1) den dag, hvor kreditaftalen er indgået, eller
 
@@ -55,3 +55,21 @@ Stk. 8. Loven har virkning for kreditaftaler, der indgås efter lovens ikrafttr�
 Stk. 9. § 8 b, stk. 1, 2. pkt., og stk. 2, og §§ 9, 10, 27 og 33 i lov om kreditaftaler som affattet henholdsvis ændret ved denne lovs § 1, nr. 8 og 17-19, har tillige virkning for tidsubegrænsede kreditaftaler, der er indgået forud for lovens ikrafttræden.
 
 Stk. 10. Ved kreditaftaler, der er omfattet af § 8 a i lov om kreditaftaler som affattet ved denne lovs § 1, nr. 8, og hvor kreditgiveren er et realkreditinstitut, finder loven anvendelse på kreditaftaler, hvor kreditgiverens tilbud er fremsat efter lovens ikrafttræden.
+
+Lov nr. 1243 af 18. december 2012 indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 2
+
+Stk. 1. Loven træder i kraft den 1. januar 2013.
+
+Stk. 2. Loven finder alene anvendelse for kreditaftaler, der indgås efter lovens ikrafttræden.
+
+Lov nr. 1460 af 17. december 2013 indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 7
+
+Stk. 1. §§ 1-3, § 4, nr. 4, og §§ 5 og 6 træder i kraft den 13. juni 2014.
+
+Stk. 2. § 4, nr. 1-3, træder i kraft den 1. januar 2014.
+
+Stk. 3. Loven finder ikke anvendelse på forbrugeraftaler indgået før lovens ikrafttræden. For sådanne aftaler finder de hidtil gældende regler anvendelse.
