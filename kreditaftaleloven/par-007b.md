@@ -4,7 +4,7 @@
 
 Stk. 2. Oplysningerne i henhold til stk. 1 skal omfatte:
 
-1) Kredittypen
+1) Kredittypen.
 
 2) Navn og fysisk adresse på kreditgiveren og i givet fald navn og fysisk adresse på den involverede kreditformidler.
 
