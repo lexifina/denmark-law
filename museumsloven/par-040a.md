@@ -6,7 +6,7 @@
 
 3) i strid med § 29 r, stk. 1, modvirker adgangen til en ejendom,
 
-4) undlader at efterkomme forbud eller påbud, der er udstedt efter regler fastsat i medfør af kapitel 8 a ,
+4) undlader at efterkomme forbud eller påbud, der er udstedt efter regler fastsat i medfør af kapitel 8 a,
 
 5) tilsidesætter vilkår, der er fastsat i en tilladelse eller godkendelse efter kapitel 8 a eller efter regler udstedt efter kapitel 8 a.
 

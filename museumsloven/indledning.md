@@ -1,3 +1,5 @@
 Bekendtgørelse af museumsloven
 
-Herved bekendtgøres lov nr. 473 af 7. juni 2001, museumsloven med de ændringer, der følger af lov nr. 145 af 25. marts 2002, lov nr. 393 af 28. maj 2003, lov. nr. 1213 af 27. december 2003, lov nr. 454 af 9. juni 2004, lov nr. 562 af 24. juni 2005, lov nr. 1403 af 21. december 2005 og lov nr. 504 af 7. juni 2006.
+Herved bekendtgøres museumsloven, jf. lovbekendtgørelse nr. 1505 af 14. december 2006 med de ændringer, der følger af § 1 i lov nr. 1517 af 27. december 2009, § 25 i lov nr. 484 af 11. maj 2010, § 26 i lov nr. 1531 af 21. december 2010, § 26 i lov nr. 580 af 18. juni 2012, lov nr. 1391 af 23. december 2012 og § 24 i lov nr. 86 af 28. januar 2014.
+
+Den ændring, der følger § 1, nr. 20, i lov nr. 1391 af 23. december 2012, er ikke indarbejdet i denne lovbekendtgørelse, da denne ændring træder i kraft den 1. januar 2016, jf. § 2, stk. 2, i lov nr. 1391 af 23. december 2012.
