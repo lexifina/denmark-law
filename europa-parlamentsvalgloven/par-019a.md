@@ -1,9 +1,9 @@
 § 19 a. Hvis der på en kandidatliste er opført en kandidat, der er statsborger i en af de øvrige medlemsstater i Den Europæiske Union uden tillige at have dansk indfødsret, skal der samtidig med kandidatlisten indleveres en formel erklæring afgivet på en formular, der er godkendt af økonomi- og indenrigsministeren, hvori kandidaten angiver
 
-1) sit statsborgerskab og sin bopæl (adresse) i Danmark,
+1) sit statsborgerskab, sin fødselsdato, sit fødested, sin seneste adresse i hjemlandet og sin bopæl (adresse) i Danmark,
 
-2) at vedkommende ikke samtidig opstiller til valg til Europa-Parlamentet i en af de øvrige medlemsstater i Den Europæiske Union, og
+2) at vedkommende ikke samtidig opstiller til valg til Europa-Parlamentet i en af de øvrige medlemsstater i Den Europæiske Union,
 
-3) i hvilken valgkreds eller kommune vedkommende eventuelt senest var optaget på valglisten til Europa-Parlamentsvalg i hjemlandet.
+3) i hvilken valgkreds eller kommune vedkommende eventuelt senest var optaget på valglisten til Europa-Parlamentsvalg i hjemlandet, og
 
-Stk. 2. Samtidig med kandidatlisten skal der for den pågældende kandidat endvidere indleveres en attest (valgbarhedsattest) fra vedkommende myndighed i hjemlandet, hvoraf det fremgår, at vedkommende kandidat ikke har fortabt sin valgbarhed til Europa-Parlamentet i hjemlandet, eller at myndigheden ikke har kendskab til en sådan fortabelse.
+4) at vedkommende ikke har fortabt retten til at opstille i hjemlandet gennem en individuel retslig afgørelse eller en administrativ afgørelse, der kan gøres til genstand for retslig prøvelse.
