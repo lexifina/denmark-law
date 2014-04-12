@@ -1,5 +1,5 @@
-Ministeriet for Videnskab, Teknologi og Udvikling, den 13. august 2008
+Uddannelses- og Forskningsministeriet, den 10. april 2014
 
-Helge Sander
+Sofie Carsten Nielsen
 
-/ Jesper Schaumburg-Müller
+/ Charlotte Elverdam
