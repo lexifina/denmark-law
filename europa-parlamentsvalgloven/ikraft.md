@@ -1,4 +1,4 @@
-Lov nr. 222 af 8. april 2008, der ændrer § 11, indeholder følgende ikrafttrædelses- og overgangsbestemmelser m.v.:
+Lov nr. 222 af 8. april 2008 om ændring af lov om valg til Folketinget, lov om valg af danske medlemmer til Europa-Parlamentet og lov om kommunale og regionale valg (Valgnævnet, godkendelse af partinavne m.v.), hvis § 2 ændrer § 11, stk. 2-8, indeholder følgende ikrafttrædelses- og overgangsbestemmelser:
 
 § 4
 
@@ -28,10 +28,16 @@ Stk. 3. § 12, stk. 3, 3. og 4. pkt., i lov om valg til Folketinget som affattet
 
 § 8
 
-Valgnævnet kan efter reglerne i lov om valg til Folketinget som ændret ved denne lovs § 1 og lov om valg af danske medlemmer til Europa-Parlamentet som ændret ved denne lovs § 2 tilbagekalde godkendelser af formularer til vælgererklæringer for nye partier og eventuelle fornyelser af disse, der er meddelt før lovens ikrafttræden
+Valgnævnet kan efter reglerne i lov om valg til Folketinget som ændret ved denne lovs § 1 og lov om valg af danske medlemmer til Europa-Parlamentet som ændret ved denne lovs § 2 tilbagekalde godkendelser af formularer til vælgererklæringer for nye partier og eventuelle fornyelser af disse, der er meddelt før lovens ikrafttræden.
 
-Lov nr. 1252 af 18. december 2012, der ændrer §§ 11, 14 a, 15, 19 og 26, indeholder følgende ikrafttrædelsesbestemmelse:
+Lov nr. 1469 af 17. december 2013 om ændring af lov om valg af danske medlemmer til Europa-Parlamentet (Erklæring om valgbarhed m.v.), der indsætter fodnote til lovens titel og ændrer § 6, stk. 3, § 19 a, stk. 1, § 23, stk. 2-6, § 36, stk. 2, § 47 a, stk. 1-4, og ophæver § 19 a, stk. 2, indeholder følgende ikrafttrædelsesbestemmelse:
 
-§ 6
+§ 2
 
-Loven træder i kraft den 1. januar 2013.
+Loven træder i kraft den 1. januar 2014.
+
+Lov nr. 173 af 26. februar 2014 om ændring af lov om valg til Folketinget, lov om valg af danske medlemmer til Europa-Parlamentet og lov om kommunale og regionale valg (Mulighed for ændring af afstemningssted for vælgere med handicap eller nedsat førlighed), hvis § 2 ændrer § 25, stk. 1-4 indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 4
+
+Loven træder i kraft den 1. marts 2014.
