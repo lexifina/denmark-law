@@ -1,7 +1,5 @@
-Givet på Kongeskibet Dannebrog, den 21. juni 2005
+Kulturministeriet, den 2. april 2014
 
-Under Vor Kongelige Hånd og Segl
+Marianne Jelved
 
-MARGRETHE R.
-
-/Brian Mikkelsen
+/ Bente Skovgaard Kristensen
