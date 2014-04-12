@@ -2,9 +2,9 @@ Lov nr. 1035 af 17. december 2002 om ændring af lov om arbejdsløshedsforsikrin
 
 § 5
 
-Stk. 1. Loven træder i kraft den 1. januar 2003.
+Stk. 1. Loven træder i kraft den 1. januar 2003
 
-Stk. 2-4. (Udelades)
+Stk. 2. (Udelades)
 
 Lov nr. 1076 af 17. december 2002 om ændring af lov om statens voksenuddannelsesstøtte (SVU) (Bortfald af SVU til fagspecifikke kurser) indeholder følgende ikrafttrædelses- og overgangsbestemmelser:
 
@@ -173,3 +173,51 @@ Lov nr. 1349 af 21. december 2012 om ændring af lov om befordringsrabat til udd
 § 3
 
 Loven træder i kraft den 1. januar 2013.
+
+Lov nr. 274 af 19. marts 2013 om ændring af SU-loven og forskellige andre love (Konsekvensændringer som følge af lov om Ankenævnet for Statens Uddannelsesstøtteordninger) indeholder følgende ikrafttrædelses- og overgangsbestemmelser:
+
+§ 9
+
+Stk. 1. Loven træder i kraft den 1. april 2013.
+
+Stk. 2. Lovens § 1, nr. 2, har virkning for klager, der indbringes for Styrelsen for Videregående Uddannelser og Uddannelsesstøtte efter lovens ikrafttræden.
+
+Stk. 3. Bekendtgørelse nr. 1419 af 28. december 2000 om forretningsorden for Ankenævnet for Uddannelsesstøtten forbliver i kraft og udgør forretningsordenen for Ankenævnet for Statens Uddannelsesstøtteordninger, indtil bekendtgørelsen ophæves.
+
+Lov nr. 639 af 12. juni 2013 om ændring af forskellige lovbestemmelser om aktindsigt m.v. (Konsekvensændringer i lyset af lov om offentlighed i forvaltningen og af ændringer i forvaltningsloven og retsplejeloven) indeholder følgende ikrafttrædelses- og overgangsbestemmelser:
+
+§ 31
+
+Loven træder i kraft den 1. januar 2014.
+
+§ 32
+
+Stk. 1. Loven gælder ikke for Færøerne og Grønland, jf. dog stk. 2-5.
+
+Stk. 2. §§ 8, 21, 23-25 og 27-30 kan ved kongelig anordning helt eller delvis sættes i kraft for Færøerne med de ændringer, som de færøske forhold tilsiger.
+
+Stk. 3. §§ 1 og 2 kan ved kongelig anordning sættes i kraft for rigsmyndighedernes behandling af oplysninger på Færøerne med de ændringer, som de færøske forhold tilsiger.
+
+Stk. 4. §§ 1, 3, 8, 21 og 23-30 kan ved kongelig anordning helt eller delvis sættes i kraft for Grønland med de ændringer, som de grønlandske forhold tilsiger.
+
+Stk. 5. § 2 kan ved kongelig anordning sættes i kraft for rigsmyndighedernes behandling af oplysninger i Grønland med de ændringer, som de grønlandske forhold tilsiger.
+
+Lov nr. 898 af 4. juli 2013 om ændring af universitetsloven, lov om erhvervsakademiuddannelser og professionsbacheloruddannelser, lov om videregående kunstneriske uddannelsesinstitutioner, lov om maritime uddannelser og lov om statens voksenuddannelsesstøtte (SVU) (Obligatorisk tilmelding til fag og prøver svarende til et fuldt studieår, afskaffelse af muligheden for at melde fra prøver, etablering af bedre rammer for merit ved studieophold på en anden institution eller studieskift og bedre overgange mellem bachelor- og kandidatuddannelser m.v.) indeholder følgende ikrafttrædelses- og overgangsbestemmelser:
+
+§ 6
+
+Stk. 1. Loven træder i kraft den 15. juli 2013, jf. dog stk. 2.
+
+Stk. 2. Lovens § 1, nr. 1-3 og 6-11, og § 5 træder i kraft den 1. september 2014.
+
+Stk. 3. § 8, stk. 2, i universitetsloven som affattet ved denne lovs § 1, nr. 4, og lovens § 2, nr. 1, § 3, nr. 1 og 2, og § 4, nr. 1 og 2, har virkning fra den 1. juli 2014.
+
+Stk. 4. § 8, stk. 3, i universitetsloven som affattet ved denne lovs § 1, nr. 4, og lovens § 1, nr. 5, § 2, nr. 2, § 3, nr. 3, og § 4, nr. 3 og 4, har virkning for studerende, der søger om merit og forhåndsmerit for studieophold, der skal gennemføres fra studieåret 2014-15 eller senere.
+
+Lov nr. 82 af 28. januar 2014 om ændring af lov om statens voksenuddannelsesstøtte (SVU) (Målretning af SVU til videregående uddannelse) indeholder følgende ikrafttrædelses- og overgangsbestemmelser:
+
+§ 2
+
+Stk. 1. Loven træder i kraft den 1. februar 2014.
+
+Stk. 2. Loven finder ikke anvendelse for ansøgninger om SVU, der er modtaget inden lovens ikrafttræden. For sådanne ansøgninger finder de hidtil gældende regler anvendelse.
