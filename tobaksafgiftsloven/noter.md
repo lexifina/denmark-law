@@ -1,0 +1,1 @@
+1) Loven indeholder bestemmelser, der gennemfører Rådets direktiv 2008/118/EF af 16. december 2008 om den generelle ordning for punktafgifter og om ophævelse af direktiv 1992/12/EØF, EU-Tidende 2009, nr. L 9, side 12, og Rådets direktiv 2011/64/EU af 21. juni 2011 om punktafgiftsstrukturen og -satserne for forarbejdet tobak, EU-Tidende 2011, nr. L 176, side 24.

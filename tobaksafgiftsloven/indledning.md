@@ -1,7 +1,5 @@
-Bekendtgørelse af lov om tobaksafgifter
+Bekendtgørelse af lov om tobaksafgifter (tobaksafgiftsloven)
 
-Herved bekendtgøres lov om tobaksafgifter, jf. lovbekendtgørelse nr. 747 af 7. august 1996, med de ændringer, der følger af § 35 i lov nr. 1098 af 29. december 1997 og § 1 i lov nr. 1107 af 29. december 1997.
+Herved bekendtgøres lov om tobaksafgifter (tobaksafgiftsloven), jf. lovbekendtgørelse nr. 635 af 21. august 1998, med de ændringer, der følger af § 24 i lov nr. 380 af 2. juni 1999, § 3, nr. 1-3, i lov nr. 947 af 20. december 1999, § 10 i lov nr. 165 af 15. marts 2000, § 50 i lov nr. 1029 af 22. november 2000, § 2 i lov nr. 1296 af 20. december 2000, § 6 i lov nr. 1059 af 17. december 2002, § 1 i lov nr. 1063 af 17. december 2002, § 3 i lov nr. 962 af 2. december 2003, § 1 i lov nr. 1392 af 20. december 2004, § 37 i lov nr. 325 af 18. maj 2005, § 1 i lov nr. 424 af 6. juni 2005, § 71 i lov nr. 428 af 6. juni 2005, § 9 i lov nr. 408 af 8. maj 2006, § 7 i lov nr. 509 af 7. juni 2006, § 122 i lov nr. 1336 af 19. december 2008, § 28 i lov nr. 1344 af 19. december 2008, § 4 i lov nr. 524 af 12. juni 2009, § 3 i lov nr. 1385 af 21. december 2009, § 3 i lov nr. 626 af 11. juni 2010, § 9 i lov nr. 722 af 25. juni 2010, § 3 i lov nr. 1361 af 8. december 2010, § 1 i lov nr. 626 af 14. juni 2011, § 4 i lov nr. 1383 af 28. december 2011, lov nr. 278 af 27. marts 2012, § 19 i lov nr. 1354 af 21. december 2012 og § 12 i lov nr. 1634 af 26. december 2013.
 
-## Kapitel 1
-
-Afgift af cigaretter og røgtobak
+De ændringer, der følger af § 3, nr. 4-8, i lov nr. 947 af 20. december 1999, er ikke indarbejdet i denne lovbekendtgørelse, da ændringerne efterfølgende er ophævet, jf. § 10 i lov nr. 1637 af 26. december 2013.
