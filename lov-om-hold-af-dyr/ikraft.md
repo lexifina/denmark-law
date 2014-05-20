@@ -1,25 +1,101 @@
-Lov nr. 404 af 1. juni 2005 er trådt i kraft den 3. juni 2005. Ved loven er § 62 ændret.
+Lov nr. 404 af 1. juni 2005 om ændring af forskellige hjemmelsbestemmelser om delegation til andre statslige myndigheder m.v. på Fødevareministeriets og Familie- og Forbrugerministeriets områder indeholder følgende ikrafttrædelsesbestemmelse:
 
-Lov nr. 431 af 6. juni 2005 er trådt i kraft den 1. november 2005. Ved loven er § 55, stk. 4, tilføjet.
+§ 13
 
-Lov nr. 105 af 20. februar 2006 er trådt i kraft den 1. marts 2006. Ved loven er § 70, stk. 1, nr. 2, § 70, stk. 1, nr. 3 og § 70, stk. 2 ændret og § 70, stk. 4 tilføjet, hvorefter stk. 4 er blevet stk. 5.
+Loven træder i kraft dagen efter bekendtgørelsen i Lovtidende.
 
-Lov nr. 1336 af 19. december 2008 er trådt i kraft den 1. januar 2009. Ved loven er § 55, stk. 2-4, ophævet.
+Lov nr. 431 af 6. juni 2005 (Forenkling, harmonisering og objektivering af reglerne for inddrivelse af gæld til det offentlige m.v. samt mulighed for anvendelse af digitale lønsedler) indeholder følgende ikrafttrædelsesbestemmelse:
 
-Lov nr. 1272 af 16. december 2009 er trådt i kraft den 1. januar 2010. Ved loven er § 6, stk. 3 og 4, tilføjet.
+§ 85
 
-Lov nr. 401 af 21. april 2010 er trådt i kraft den 1. juli 2010. Ved loven er § 34 a tilføjet.
+Stk. 1. Loven træder i kraft den 1. november 2005, jf. dog stk. 2.
 
-Lov nr. 402 af 21. april 2010 er trådt i kraft den 1. juli 2010. Ved loven er overskriften til kapitel 10, § 48, § 52, § 53, stk. 1, § 56, stk. 1 og § 70, stk. 1, nr. 3, ændret, og § 56, stk. 5, 2. pkt., § 65 a, § 70 a og § 71, stk. 1, 2. pkt., er tilføjet.
+Stk. 2. § 52, nr. 8, har virkning for underretninger, som indeholdelsespligtige giver modtageren af A-indkomst den 1. september 2005 og senere.
 
-Lov nr. 1544 af 21. december 2010 er trådt i kraft den 1. januar 2011. Ved loven er § 3 a, § 53, stk. 4 og § 61 a, tilføjet og overskriften til kapitel 12 ændret.
+Lov nr. 105 af 20. februar 2006 (Strafskærpelse) indeholder følgende ikrafttrædelsesbestemmelse:
 
-Lov nr. 341 af 27. april 2011 er trådt i kraft den 1. maj 2011. Ved loven er § 6, stk. 3 og 4 ændret, og § 6, stk. 5-7 tilføjet.
+§ 3
 
-Lov nr. 603 af 14. juni 2011 er trådt i kraft den 1. juli 2011. Ved loven er § 34 a, stk. 1, 2. pkt., § 34 b og § 34 c tilføjet.
+Loven træder i kraft den 1. marts 2006.
 
-Lov nr. 562 af 18. juni 2012 er trådt i kraft den 1. juli 2012. Ved loven er § 4, stk. 2 og 3, § 30 a, § 36 a, § 36 b og § 70, stk. 4, tilføjet, hvorefter stk. 4-9 er blevet stk. 5-10, og § 62 og § 70, stk. 1, nr. 3, er ændret. Overalt i loven er »Det Europæiske Fællesskab« ændret til: »Den Europæiske Union«, og »Det Europæiske Fællesskabs« er ændret til: »Den Europæiske Unions«, og overskriften til kapitel 6 er ændret.
+Lov nr. 1336 af 19. december 2008 (Konsekvensændringer som følge af lov om inddrivelse af gæld til det offentlige) indeholder følgende ikrafttrædelsesbestemmelser:
 
-Lov nr. 1238 af 18. december 2012 er trådt i kraft den 1. januar 2013. Ved loven er § 57 ændret.
+§ 167
 
-Lov nr. 527 af 28. maj 2013 er trådt i kraft den 1. juli 2013. Ved loven er § 3 a, stk. 3, § 4 a og § 37, stk. 2-5 tilføjet, og § 55 og § 61 a er ændret.
+Stk. 1. Loven træder i kraft den 1. januar 2009, jf. dog stk. 2. § 11 finder alene anvendelse på afgørelser om lønindeholdelse, der træffes efter lovens ikrafttræden.
+
+Stk. 2. Skatteministeren fastsætter tidspunktet for ikrafttrædelse af § 9, § 99, nr. 3, § 103, § 109, nr. 4 og 5, § 117, nr. 4, § 118, nr. 1, § 136, nr. 1, 3 og 4, § 144, nr. 1 og 2, § 148, nr. 2, og § 149, nr. 2.
+
+Lov nr. 1272 af 16. december 2009 (Obligatorisk digital kommunikation mellem virksomheder og det offentlige, ændring af reglerne om sammensætning af Danmarks Vækstråd m.v.) indeholder følgende ikrafttrædelsesbestemmelser:
+
+§ 10
+
+Stk. 1. Loven træder i kraft den 1. januar 2010, jf. dog stk. 2.
+
+Stk. 2. Beskæftigelsesministeren fastsætter tidspunktet for ikrafttrædelsen af § 3, nr. 2.
+
+Lov nr. 401 af 21. april 2010 (Obligatorisk sundhedsrådgivning m.v.) indeholder følgende ikrafttrædelsesbestemmelser:
+
+§ 3
+
+Stk. 1. Loven træder i kraft den 1. juli 2010, jf. dog stk. 2.
+
+Stk. 2. Ministeren for fødevarer, landbrug og fiskeri fastsætter tidspunktet for ikrafttrædelsen af lovens § 1.
+
+Lov nr. 402 af 21. april 2010 (Beslaglæggelse af lægemidler m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 3
+
+Loven træder i kraft den 1. juli 2010.
+
+Lov nr. 1544 af 21. december 2010 (Uddannelseskrav til pelsdyravlere m.v., egenkontrol ved gruppevis levering af slagtesvin og forenkling af gebyropkrævning) indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 2
+
+Loven træder i kraft den 1. januar 2011.
+
+Lov nr. 341 af 27. april 2011 (Obligatorisk digital kommunikation mellem virksomheder og det offentlige, skattefritagelse af Fornyelsesfondens garantiordning m.v.) indeholder følgende ikrafttrædelsesbestemmelser:
+
+§ 18
+
+Stk. 1. Loven træder i kraft den 1. maj 2011, jf. dog stk. 2.
+
+Stk. 2. Miljøministeren fastsætter tidspunktet for ikrafttræden af § 15, nr. 1.
+
+Lov nr. 603 af 14. juni 2011(Ekstra sundhedsrådgivningsbesøg i problembesætninger, påbud om supplerende veterinærfaglig vurdering, reduktion af maksimal belægningsgrad i svinebesætninger med højt antibiotikaforbrug m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 2
+
+Loven træder i kraft den 1. juli 2011.
+
+Lov nr. 562 af 18. juni 2012 (Godkendelse af mærker til dyr, beredskab ved kemisk forurening af dyr, indberetning af laboratoriefund, ungkvæg m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 3
+
+Loven træder i kraft den 1. juli 2012.
+
+Lov nr. 1238 af 18. december 2012 (Nedlæggelse af Fødevarekontroludvalget og revisionsenheden, bistand til eksporterhverv og udlægning af administration af frivillig mærkningsordning til en privat forening m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 3
+
+Loven træder i kraft den 1. januar 2013.
+
+Lov nr. 527 af 28. maj 2013 (Uddannelseskrav i forbindelse med husdyrhold, gruppevis levering af slagtesvin, obligatorisk digital kommunikation om forhåndsanmeldelse af eksport af levende dyr m.v. og tilsyn med personer, der yder dyrlæger bistand) indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 4
+
+Loven træder i kraft den 1. juli 2013.
+
+Lov nr. 1459 af 17. december 2013 (Obligatorisk digital kommunikation, ændring af klagebestemmelser som følge af ressortoverførsel m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 17
+
+Stk. 1. Loven træder i kraft den 1. januar 2014.
+
+Stk. 2. Administrative forskrifter, der er udstedt i medfør af de hidtidige bestemmelser, vedbliver at være i kraft, indtil de ændres eller ophæves.
+
+Lov nr. 1615 af 26. december 2013 (Bemyndigelse til etablering af Veterinærfonden og henlæggelse af kompetence til at udstede identifikationsdokument for enhovede dyr til privat institution) indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 2
+
+Loven træder i kraft den 1. januar 2014.
