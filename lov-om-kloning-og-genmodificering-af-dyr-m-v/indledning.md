@@ -1,3 +1,3 @@
 Bekendtgørelse af lov om kloning og genmodificering af dyr m.v.
 
-Herved bekendtgøres lov nr. 550 af 24. juni 2005 om kloning og genmodificering af dyr m.v. med de ændringer, der følger af § 2 i lov nr. 612 af 14. juni 2011.
+Herved bekendtgøres lov om kloning og genmodificering af dyr m.v., jf. lovbekendtgørelse nr. 259 af 8. marts 2013, med de ændringer, der følger af § 15 i lov nr. 1459 af 17. december 2013.
