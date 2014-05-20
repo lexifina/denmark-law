@@ -1,7 +1,5 @@
-Givet på Christiansborg Slot, den 12. juni 2009
+Ministeriet for Fødevarer, Landbrug og Fiskeri, den 15. maj 2014
 
-Under Vor Kongelige Hånd og Segl
+Dan Jørgensen
 
-MARGRETHE R.
-
-/ Eva Kjer Hansen
+/ Birthe Schubart
