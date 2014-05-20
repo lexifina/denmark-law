@@ -1,5 +1,3 @@
-Lov om sikring af dyrepatogener
+Bekendtgørelse af lov om sikring af dyrepatogener
 
-VI MARGRETHE DEN ANDEN, af Guds Nåde Danmarks Dronning, gør vitterligt:
-
-Folketinget har vedtaget og Vi ved Vort samtykke stadfæstet følgende lov:
+Herved bekendtgøres lov nr. 465 af 12. juni 2009 om sikring af dyrepatogener med de ændringer, der følger af § 1 i lov nr. 1459 af 17. december 2013.
