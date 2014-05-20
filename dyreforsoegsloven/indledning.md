@@ -1,3 +1,3 @@
 Bekendtgørelse af lov om dyreforsøg
 
-Herved bekendtgøres lov om dyreforsøg, jf. lovbekendtgørelse nr. 1306 af 23. november 2007, med de ændringer, der følger af § 1 i lov nr. 612 af 14. juni 2011.
+Herved bekendtgøres lov om dyreforsøg, jf. lovbekendtgørelse nr. 253 af 8. marts 2013, med de ændringer, der følger af § 12 i lov nr. 1459 af 17. december 2013.
