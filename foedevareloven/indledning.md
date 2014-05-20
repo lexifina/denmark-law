@@ -1,3 +1,3 @@
 Bekendtgørelse af lov om fødevarer
 
-Herved bekendtgøres lov om fødevarer, jf. lovbekendtgørelse nr. 820 af 1. juli 2011, med de ændringer, der følger af § 1 i lov nr. 1238 af 18. december 2012.
+Herved bekendtgøres lov om fødevarer, jf. lovbekendtgørelse nr. 250 af 8. marts 2013, med de ændringer, der følger af § 9 i lov nr. 1459 af 17. december 2013.
