@@ -4,7 +4,7 @@ Stk. 2. Arbejdsgiveren og lønmodtageren udfylder i fællesskab første del af e
 
 Stk. 3. Lægen udfylder anden del af erklæringen på baggrund af en samtale med lønmodtageren og oplysningerne i den første del af erklæringen. Denne del indeholder lægens vurdering af arbejdsgiverens og lønmodtagerens beskrivelse af funktionsnedsættelse og arbejdsmuligheder, lægens forslag til skåneinitiativer og forventet varighed af den periode, hvor arbejdet skal tilpasses eller helt eller delvist fravær fra arbejdet anses for påkrævet.
 
-Stk. 4. Arbejdsgiveren kan forlange lægeerklæringen udarbejdet på et hvilket som helst tidspunkt i lønmodtagerens sygeforløb eller i tilknytning til et forløb med gentagne sygemeldinger. Erklæringen skal afgives på en blanket godkendt af Arbejdsmarkedsstyrelsen. Erklæringen betales af arbejdsgiveren.
+Stk. 4. Arbejdsgiveren kan forlange lægeerklæringen udarbejdet på et hvilket som helst tidspunkt i lønmodtagerens sygeforløb eller i tilknytning til et forløb med gentagne sygemeldinger. Erklæringen skal afgives på en blanket godkendt af Styrelsen for Arbejdsmarked og Rekruttering. Erklæringen betales af arbejdsgiveren.
 
 Stk. 5. Arbejdsgiveren skal indkalde lønmodtageren til samtalen efter stk. 2 med et rimeligt varsel. Lønmodtageren har pligt til at møde op til samtalen. Hvis lønmodtageren ikke kan møde op på grund af sygdommen, kan samtalen holdes telefonisk, hvis sygdommen tillader det. Hvis lønmodtageren ikke deltager i samtalen, bortfalder lønmodtagerens ret til sygedagpenge fra arbejdsgiveren fra og med den dag, hvor lønmodtageren skulle have deltaget i samtalen, og til og med den dag, hvor samtalen gennemføres. Dette gælder dog ikke, hvis der er en rimelig grund til, at lønmodtageren ikke deltager i samtalen.
 

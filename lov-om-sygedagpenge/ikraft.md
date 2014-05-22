@@ -1,4 +1,4 @@
-Lov nr. 1545 af 20. december 2006, der ændrer § 6, stk. 1, § 9, stk. 1, § 24, stk. 2, nr. 1, § 27, stk. 1, nr. 3, § 30, stk. 1, 1. og 2. pkt., § 31, § 32, stk. 3, § 42, stk. 2, § 53, stk. 1, § 55, stk. 2, nr. 2, § 56, stk. 1 og stk. 2, nr. 3, § 59, stk. 4, § 61, § 72, stk. 2, § 77, § 79 og § 82, stk. 4, samt indsætter § 53, stk. 2 (Ændring af regler om forlængelse af sygedagpengeperioden, sygedagpenge til delvis sygemeldte, udvidelse af arbejdsgiverperioden samt konsekvensændringer) indeholder følgende ikrafttrædelses- og overgangsbestemmelser:
+Lov nr. 1545 af 20. december 2006, der ændrer § 6, stk. 1, § 9, stk. 1, § 24, stk. 2, nr. 1, § 27, stk. 1, nr. 3, § 30, stk. 1, 1. og 2. pkt., § 31, § 32, stk. 3, § 42, stk. 2, § 53, stk. 1, § 55, stk. 2, nr. 2, § 56, stk. 1 og stk. 2, nr. 3, § 59, stk. 4, § 61, § 72, stk. 2, § 77, § 79 og § 82, stk. 4, samt indsætter § 53, stk. 2 (Ændring af regler om forlængelse af sygedagpengeperioden, sygedagpenge til delvis sygemeldte, udvidelse af arbejdsgiverperioden samt konsekvensændringer), indeholder følgende ikrafttrædelses- og overgangsbestemmelser:
 
 § 17
 
@@ -10,7 +10,7 @@ Stk. 3. § 1, nr. 4, træder i kraft den 2. april 2007 og finder anvendelse på 
 
 Stk. 4. § 1, nr. 6, træder i kraft den 2. april 2007 og finder anvendelse på personer, der modtager sygedagpenge den 2. april 2007 eller senere.
 
-Lov nr. 1587 af 20. december 2006, der ændrer § 25, stk. 1, nr. 3 (Ændringer som følge af gradvis forhøjelse af efterløns- og folkepensionsalderen m.v.) indeholder følgende ikrafttrædelsesbestemmelser:
+Lov nr. 1587 af 20. december 2006, der ændrer § 25, stk. 1, nr. 3 (Ændringer som følge af gradvis forhøjelse af efterløns- og folkepensionsalderen m.v.), indeholder følgende ikrafttrædelsesbestemmelser:
 
 § 19
 
@@ -18,19 +18,19 @@ Stk. 1. Loven træder i kraft den 1. juli 2009, jf. dog stk. 2-7.
 
 Stk. 2-7. (Udeladt)
 
-Lov nr. 523 af 6. juni 2007, der indsætter § 66, stk. 12, og ændrer § 67, stk. 4 (Ændringer som følge af en ny lov om forældelse af fordringer, ophævelse af købelovens reklamationsfrister ved visse køb m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
+Lov nr. 523 af 6. juni 2007, der indsætter § 66, stk. 12, og ændrer § 67, stk. 4 (Ændringer som følge af en ny lov om forældelse af fordringer, ophævelse af købelovens reklamationsfrister ved visse køb m.v.), indeholder følgende ikrafttrædelsesbestemmelse:
 
 § 47
 
 Loven træder i kraft den 1. januar 2008.
 
-Lov nr. 389 af 27. maj 2008, der ændrer § 6, stk. 1, § 24, stk. 2, nr. 1 og 2, § 30, stk. 1, 1. og 2. pkt., § 31, § 56, stk. 1, 1. pkt., og stk. 2, nr. 3, § 59, stk. 4, og § 61 (Udvidelse af arbejdsgiverperioden) indeholder følgende ikrafttrædelsesbestemmelse:
+Lov nr. 389 af 27. maj 2008, der ændrer § 6, stk. 1, § 24, stk. 2, nr. 1 og 2, § 30, stk. 1, 1. og 2. pkt., § 31, § 56, stk. 1, 1. pkt., og stk. 2, nr. 3, § 59, stk. 4, og § 61 (Udvidelse af arbejdsgiverperioden), indeholder følgende ikrafttrædelsesbestemmelse:
 
 § 2
 
 Loven træder i kraft den 2. juni 2008.
 
-Lov nr. 1336 af 19. december 2008, der ophæver § 45, stk. 6, § 55, stk. 5, § 71, stk. 4 og § 72, stk. 2, 2. pkt., og stk. 3 (Konsekvensændringer som følge af lov om inddrivelse af gæld til det offentlige) indeholder følgende ikrafttrædelsesbestemmelse:
+Lov nr. 1336 af 19. december 2008, der ophæver § 45, stk. 6, § 55, stk. 5, § 71, stk. 4, og § 72, stk. 2, 2. pkt., og stk. 3 (Konsekvensændringer som følge af lov om inddrivelse af gæld til det offentlige), indeholder følgende ikrafttrædelsesbestemmelse:
 
 § 167
 
@@ -38,7 +38,7 @@ Stk. 1. Loven træder i kraft den 1. januar 2009, jf. dog stk. 2. § 11 finder a
 
 Stk. 2. (Udeladt)
 
-Lov nr. 283 af 15. april 2009 om digital indberetningsløsning til brug for anmeldelse af sygefravær samt anmodning om refusion af sygedagpenge og dagpenge efter barselloven, der ændrer § 38, stk. 4, § 38, stk. 6, § 40, stk. 2, § 43, stk. 3, § 59, stk. 7, indsætter ny § 38, stk. 5, ophæver § 40, stk. 3 og § 59, stk. 8 og 9, indeholder følgende ikrafttrædelsesbestemmelse:
+Lov nr. 283 af 15. april 2009 om digital indberetningsløsning til brug for anmeldelse af sygefravær samt anmodning om refusion af sygedagpenge og dagpenge efter barselloven, der ændrer § 38, stk. 4, § 38, stk. 6, § 40, stk. 2, § 43, stk. 3, § 59, stk. 7, indsætter ny § 38, stk. 5, ophæver § 40, stk. 3, og § 59, stk. 8 og 9, indeholder følgende ikrafttrædelsesbestemmelse:
 
 § 17
 
@@ -48,7 +48,7 @@ Stk. 2. (Udeladt)
 
 Stk. 3. Beskæftigelsesministeren fastsætter tidspunktet for ikrafttrædelse af lovens § 5 om arbejdsgiverens, den selvstændig erhvervsdrivendes og arbejdsløshedskassens forpligtelser. Beskæftigelsesministeren fastsætter samtidig tidspunktet for ikrafttrædelse af lovens § 18.
 
-Lov nr. 480 af 12. juni 2009, som ændret ved lov nr. 50 af 25. januar 2012, der indsætter §§ 7 a-7 c og § 36 a, ændrer § 12, § 13, § 15, § 19, § 21, § 25, stk. 1, § 26, stk. 2, § 27, stk. 1, § 31, § 36, stk. 3, § 53, stk. 2, § 62, og § 77 samt ophæver § 36, stk. 4 og 5 og § 37 (En styrket beskæftigelsesrettet indsats over for sygemeldte m.fl.) indeholder følgende ikrafttrædelses- og overgangsbestemmelser:
+Lov nr. 480 af 12. juni 2009, som ændret ved lov nr. 50 af 25. januar 2012, der indsætter §§ 7 a-7 c og § 36 a, ændrer § 12, § 13, § 15, § 19, § 21, § 25, stk. 1, § 26, stk. 2, § 27, stk. 1, § 31, § 36, stk. 3, § 53, stk. 2, § 62 og § 77 samt ophæver § 36, stk. 4 og 5, og § 37 (En styrket beskæftigelsesrettet indsats over for sygemeldte m.fl.), indeholder følgende ikrafttrædelses- og overgangsbestemmelser:
 
 § 5
 
@@ -86,7 +86,7 @@ Stk. 9. § 31 i lov om sygedagpenge som affattet ved denne lovs § 1, nr. 17, fi
 
 Stk. 10. § 53, stk. 2, nr. 3, i lov om sygedagpenge som affattet ved denne lovs § 1, nr. 22, finder anvendelse på sygdomstilfælde, hvor arbejdsgiveren den 5. oktober 2009 eller senere oplyser, at virksomheden ikke kan tilbyde deltidsbeskæftigelse til en sygedagpengeberettiget lønmodtager.
 
-Lov nr. 483 af 12. juni 2009, der ændrer § 9, stk. 1 (Etablering af et enstrenget kommunalt beskæftigelsessystem m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
+Lov nr. 483 af 12. juni 2009, der ændrer § 9, stk. 1 (Etablering af et enstrenget kommunalt beskæftigelsessystem m.v.), indeholder følgende ikrafttrædelsesbestemmelse:
 
 § 21
 
@@ -94,7 +94,7 @@ Stk. 1. Loven træder i kraft den 1. august 2009, jf. dog stk. 2 og 3.
 
 Stk. 2-3. (Udeladt)
 
-Lov nr. 247 af 23. marts 2010, der ændrer § 7, stk. 5, 1. pkt., § 27, stk. 1, nr. 2, § 45, stk. 5, § 53, stk. 3, § 55, stk. 2, nr. 2, § 55, stk. 3, § 55, stk. 4, § 64, stk. 2, og § 69, samt ophæver § 17, stk. 3, 2. pkt. og § 67 (Ændring af reglerne om forlængelse af sygedagpengeperioden, sygedagpenge til selvstændige og ophævelse af bestemmelser om indbetaling til Særlig Pensionsopsparing (SP) m.v.) indeholder følgende ikrafttrædelses- og overgangsbestemmelser:
+Lov nr. 247 af 23. marts 2010, der ændrer § 7, stk. 5, 1. pkt., § 27, stk. 1, nr. 2, § 45, stk. 5, § 53, stk. 3, § 55, stk. 2, nr. 2, § 55, stk. 3, § 55, stk. 4, § 64, stk. 2, og § 69, samt ophæver § 17, stk. 3, 2. pkt., og § 67 (Ændring af reglerne om forlængelse af sygedagpengeperioden, sygedagpenge til selvstændige og ophævelse af bestemmelser om indbetaling til Særlig Pensionsopsparing (SP) m.v.), indeholder følgende ikrafttrædelses- og overgangsbestemmelser:
 
 § 5
 
@@ -112,19 +112,19 @@ Stk. 2. § 53, stk. 3, i lov om sygedagpenge som affattet ved denne lovs § 1, n
 
 Stk. 3. § 65, stk. 1, i lov om sygedagpenge som affattet ved denne lovs § 1, nr. 10, § 44, stk. 1, i lov om ret til orlov og dagpenge ved barsel (barselloven) som affattet ved denne lovs § 2, nr. 1, og § 79, stk. 1, i lov om aktiv socialpolitik som affattet ved denne lovs § 3, nr. 2, har virkning for bidrag, der forfalder til indbetaling den 1. maj 2010 eller senere.
 
-Lov nr. 701 af 25. juni 2010, der ændrer § 21, stk. 3 og indsætter § 71, stk. 3 (Partshøring, ændring af tilbagebetalingsregler m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
+Lov nr. 701 af 25. juni 2010, der ændrer § 21, stk. 3, og indsætter § 71, stk. 3 (Partshøring, ændring af tilbagebetalingsregler m.v.), indeholder følgende ikrafttrædelsesbestemmelse:
 
 § 3
 
 Loven træder i kraft den 1. juli 2010.
 
-Lov nr. 1539 af 21. december 2010, der ændrer § 13, stk. 1 og stk. 4, § 25, stk. 2, § 32, stk. 1, nr. 1, § 32, stk. 2, § 50, stk. 3, § 51, 1. pkt. og § 52, stk. 2 og indsætter § 13, stk. 5 og 6, § 24, stk. 3 og § 53 a (Ændring af beskæftigelseskravet, afskaffelse af ret til sygedagpenge på søgnehelligdage m.v.) indeholder følgende ikrafttrædelses- og overgangsbestemmelser:
+Lov nr. 1539 af 21. december 2010, der ændrer § 13, stk. 1, og stk. 4, § 25, stk. 2, § 32, stk. 1, nr. 1, § 32, stk. 2, § 50, stk. 3, § 51, 1. pkt. og § 52, stk. 2 og indsætter § 13, stk. 5 og 6, § 24, stk. 3 og § 53 a (Ændring af beskæftigelseskravet, afskaffelse af ret til sygedagpenge på søgnehelligdage m.v.), indeholder følgende ikrafttrædelses- og overgangsbestemmelser:
 
 § 2
 
 Stk. 1. Loven træder i kraft den 2. juli 2012, jf. dog stk. 2.
 
-Stk. 2. § 13, stk. 1 og stk. 4-6, i lov om sygedagpenge, som affattet ved denne lovs § 1, nr. 1-3, træder i kraft den 3. januar 2011.
+Stk. 2. § 13, stk. 1 og 4-6, i lov om sygedagpenge, som affattet ved denne lovs § 1, nr. 1-3, træder i kraft den 3. januar 2011.
 
 § 3
 
@@ -132,7 +132,7 @@ Stk. 1. § 32, stk. 1, nr. 1, og § 32, stk. 2, i lov om sygedagpenge som ændre
 
 Stk. 2. Uanset § 24, stk. 3, i lov om sygedagpenge medregnes søgnehelligdage, der ligger før den 2. juli 2012, ved opgørelsen af sygedagpengeperioden efter § 24, stk. 1, eller § 25, stk. 1, i lov om sygedagpenge.
 
-Lov nr. 1598 af 22. december 2010, der ændrer § 62 (Ændring af refusionssatser) indeholder følgende ikrafttrædelsesbestemmelse:
+Lov nr. 1598 af 22. december 2010, der ændrer § 62 (Ændring af refusionssatser), indeholder følgende ikrafttrædelsesbestemmelse:
 
 § 2
 
@@ -140,7 +140,7 @@ Stk. 1. Loven træder i kraft den 1. januar 2011.
 
 Stk. 2. Loven har virkning for udgifter til ydelser, der vedrører perioder efter lovens ikrafttræden.
 
-Lov nr. 1599 af 22. december 2010, der ændrer § 6, stk. 1, § 24, stk. 2, nr. 1 og 2, § 30, stk. 1, 1. og 2. pkt., § 40, stk. 1, § 56, stk. 1, 1. pkt., og § 61 (Udvidelse af arbejdsgiverperioden) indeholder følgende ikrafttrædelses- og overgangsbestemmelser:
+Lov nr. 1599 af 22. december 2010, der ændrer § 6, stk. 1, § 24, stk. 2, nr. 1 og 2, § 30, stk. 1, 1. og 2. pkt., § 40, stk. 1, § 56, stk. 1, 1. pkt., og § 61 (Udvidelse af arbejdsgiverperioden), indeholder følgende ikrafttrædelses- og overgangsbestemmelser:
 
 § 2
 
@@ -152,25 +152,25 @@ Stk. 1. Loven finder anvendelse på sygdomstilfælde, hvor 1. fraværsdag er den
 
 Stk. 2. Uanset § 24, stk. 2, nr. 1 og 2, i lov om sygedagpenge som affattet ved denne lovs § 1, nr. 1, skal der ved beregningen af sygedagpengeperioden efter § 24, stk. 1, eller § 25, stk. 1, i lov om sygedagpenge, ikke medregnes de dage, der ligger før den 2. januar 2012, og for hvilke der er udbetalt sygedagpenge eller løn fra arbejdsgiveren i de første 21 kalenderdage af sygefraværsperioden eller udbetalt sygedagpenge fra kommunen i de første 21 kalenderdage af sygefraværsperioden for lønmodtagere.
 
-Lov nr. 279 af 6. april 2011, der ændrer § 11, stk. 2, § 13, stk. 4, § 13, stk. 6, og § 15, stk. 7 samt indsætter § 15 a (Større fleksibilitet i opfølgning og indsats over for sygedagpengemodtagere) indeholder følgende ikrafttrædelsesbestemmelse:
+Lov nr. 279 af 6. april 2011, der ændrer § 11, stk. 2, § 13, stk. 4, § 13, stk. 6, og § 15, stk. 7, samt indsætter § 15 a (Større fleksibilitet i opfølgning og indsats over for sygedagpengemodtagere), indeholder følgende ikrafttrædelsesbestemmelse:
 
 § 2
 
 Loven træder i kraft den 1. maj 2011.
 
-Lov nr. 460 af 18. maj 2011, der ændrer § 38, stk. 6, § 43, stk. 5, § 59, stk. 6, samt ophæver § 59, stk. 5, 2. pkt. (Ændring af dispensationsbestemmelserne ved anmeldelse af sygefravær og anmodning om sygedagpengerefusion m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
+Lov nr. 460 af 18. maj 2011, der ændrer § 38, stk. 6, § 43, stk. 5, § 59, stk. 6, samt ophæver § 59, stk. 5, 2. pkt. (Ændring af dispensationsbestemmelserne ved anmeldelse af sygefravær og anmodning om sygedagpengerefusion m.v.), indeholder følgende ikrafttrædelsesbestemmelse:
 
 § 2
 
 Loven træder i kraft den 1. juli 2011.
 
-Lov nr. 600 af 14. juni 2011, der ændrer § 70, stk. 1 (Skærpet kontrol med udbetaling af offentlige forsørgelsesydelser, sanktioner for uberettiget modtagelse af ydelser under ophold i udlandet m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
+Lov nr. 600 af 14. juni 2011, der ændrer § 70, stk. 1 (Skærpet kontrol med udbetaling af offentlige forsørgelsesydelser, sanktioner for uberettiget modtagelse af ydelser under ophold i udlandet m.v.), indeholder følgende ikrafttrædelsesbestemmelse:
 
 § 8
 
 Stk. 1. Loven træder i kraft den 1. juli 2011.
 
-Lov nr. 154 af 28. februar 2012, der indsætter § 58 a, ændrer § 21, stk. 1, nr. 1, § 21, stk. 4, § 25, § 43, stk. 1, § 52, stk. 2 samt ophæver § 7 a, stk. 1, 3. pkt., § 7 a, stk. 4 og § 7 c (Forenkling af indsatsen for syge- og barseldagpengemodtagere, aftale om ret til sygedagpenge fra 1. fraværsdag for selvstændige erhvervsdrivende ved langvarig eller kronisk lidelse m.v.), indeholder følgende ikrafttrædelses- og overgangsbestemmelser:
+Lov nr. 154 af 28. februar 2012, der indsætter § 58 a, ændrer § 21, stk. 1, nr. 1, § 21, stk. 4, § 25, § 43, stk. 1, § 52, stk. 2 samt ophæver § 7 a, stk. 1, 3. pkt., § 7 a, stk. 4, og § 7 c (Forenkling af indsatsen for syge- og barselsdagpengemodtagere, aftale om ret til sygedagpenge fra 1. fraværsdag for selvstændige erhvervsdrivende ved langvarig eller kronisk lidelse m.v.), indeholder følgende ikrafttrædelses- og overgangsbestemmelser:
 
 § 3
 
@@ -184,7 +184,7 @@ Stk. 2. § 1, nr. 6, finder anvendelse på sygedagpengemodtagere med en ret til 
 
 Stk. 3. § 1, nr. 8, finder anvendelse på sager om sygedagpenge, hvor 1. fraværsdag er den 5. marts 2012 eller senere.
 
-Lov nr. 269 af 27. marts 2012, der indsætter ny § 35, stk. 3 og 4, § 40 a og § 59, stk. 8 samt ændrer § 11, stk. 3, § 38, stk. 1-5, § 38, stk. 6, § 38, stk. 7, § 40 og § 59, stk. 2, 3 og 4 (Ændring af frister for anmeldelse af sygefravær og anmodning om sygedagpenge m.v. for bedre at udnytte den digitale indberetningsløsning (SDPI-løsningen)), indeholder følgende ikrafttrædelses- og overgangsbestemmelser:
+Lov nr. 269 af 27. marts 2012, der indsætter ny § 35, stk. 3 og 4, § 40 a og § 59, stk. 8, samt ændrer § 11, stk. 3, § 38, stk. 1-5, § 38, stk. 6, § 38, stk. 7, § 40 og § 59, stk. 2, 3 og 4 (Ændring af frister for anmeldelse af sygefravær og anmodning om sygedagpenge m.v. for bedre at udnytte den digitale indberetningsløsning (SDPI-løsningen)), indeholder følgende ikrafttrædelses- og overgangsbestemmelser:
 
 § 2
 
@@ -224,13 +224,13 @@ Lov nr. 476 af 30. maj 2012, der ændrer § 13, stk. 4, og indsætter § 13 a (M
 
 Loven træder i kraft den 1. juni 2012.
 
-Lov nr. 928 af 18. september 2012, som ændrer § 64, stk. 1, 1. pkt. og indsætter § 64 a (Ændret regulering af forskellige indkomstoverførsler i årene 2016-2023 samt forhøjelse af den supplerende pensionsydelse og pensionstillæg til folkepensionister), indeholder følgende ikrafttrædelsesbestemmelse:
+Lov nr. 928 af 18. september 2012, som ændrer § 64, stk. 1, 1. pkt., og indsætter § 64 a (Ændret regulering af forskellige indkomstoverførsler i årene 2016-2023 samt forhøjelse af den supplerende pensionsydelse og pensionstillæg til folkepensionister), indeholder følgende ikrafttrædelsesbestemmelse:
 
 § 9
 
 Stk. 1. Loven træder i kraft den 1. januar 2013.
 
-Stk. 2. …
+Stk. 2. - - -
 
 Lov nr. 1378 af 23. december 2012, som ændrer § 55, stk. 3, 1. pkt. (Forhøjelse af virksomhedernes finansieringsbidrag ved forsikringsordningen for mindre, private arbejdsgivere), indeholder følgende ikrafttrædelsesbestemmelse:
 
@@ -238,13 +238,13 @@ Lov nr. 1378 af 23. december 2012, som ændrer § 55, stk. 3, 1. pkt. (Forhøjel
 
 Loven træder i kraft den 1. januar 2013.
 
-Lov nr. 1380 af 23. december 2012, som ændrer § 7, stk. 2, § 7, stk. 5, § 21, stk. 1, indsætter § 7, stk. 6, § 42, stk. 3 og affatter § 28 og § 49 (Reform af førtidspension og fleksjob, herunder indførelse af ressourceforløb, rehabiliteringsteam, fleksløntilskud m.v.), indeholder følgende ikrafttrædelsesbestemmelse:
+Lov nr. 1380 af 23. december 2012, som ændrer § 7, stk. 2, § 7, stk. 5, § 21, stk. 1, indsætter § 7, stk. 6, § 42, stk. 3, og affatter § 28 og § 49 (Reform af førtidspension og fleksjob, herunder indførelse af ressourceforløb, rehabiliteringsteam, fleksløntilskud m.v.), indeholder følgende ikrafttrædelsesbestemmelse:
 
 § 21
 
 Stk. 1. Loven træder i kraft den 1. januar 2013, jf. dog stk. 2-6 og 8.
 
-Stk. 2. …
+Stk. 2. - - -
 
 Lov nr. 357 af 9. april 2013, som overalt i loven ændrer »SDPI-løsningen« til »Nemrefusion« og som affatter § 11, stk. 3, 2. pkt. (Digital kommunikation om tilskudsordninger m.v.), indeholder følgende ikrafttrædelsesbestemmelse:
 
@@ -265,3 +265,19 @@ Stk. 1. Sager, der er indbragt for de sociale nævn eller beskæftigelsesankenæ
 Stk. 2. I sager, hvor Ankestyrelsen inden lovens ikrafttræden har modtaget en anmodning om at optage en klage til behandling efter § 59 a, stk. 2, eller § 63 i lov om retssikkerhed og administration på det sociale område, og hvor beslutning om, hvorvidt afgørelsen opfylder betingelserne for at kunne blive behandlet i Ankestyrelsen endnu ikke er truffet ved denne lovs ikrafttræden, træffes beslutningen herom efter de hidtil gældende bestemmelser i § 57, nr. 1, jf. §§ 59 a og 63 i lov om retssikkerhed og administration på det sociale område. Sager, der optages til behandling efter 1. pkt., behandles af Ankestyrelsen eller Ankestyrelsens Beskæftigelsesudvalg efter kapitel 9, 9 a og 10 i lov om retssikkerhed og administration på det sociale område, som ændret ved denne lovs § 1.
 
 Stk. 3. Sager, som Ankestyrelsen inden lovens ikrafttræden har optaget til behandling efter § 59 a, stk. 2, eller § 63 i lov om retssikkerhed og administration på det sociale område, og hvori der endnu ikke er truffet afgørelse ved denne lovs ikrafttræden, behandles af Ankestyrelsen eller Ankestyrelsens Beskæftigelsesudvalg efter kapitel 9, 9 a og 10 i lov om retssikkerhed og administration på det sociale område, som ændret ved denne lovs § 1.
+
+Lov nr. 1610 af 26. december 2013, som ændrer § 32, stk. 1, § 32, stk. 2, § 33, nr. 3, § 35, § 38, stk. 4, § 51, 1. pkt., § 53, stk. 2, nr. 2, og affatter § 40 a, stk. 1, (Midlertidig arbejdsmarkedsydelse, indsatsen for modtagere af midlertidig arbejdsmarkedsydelse, sikring af ret til syge- og barselsdagpenge, målretning af danskuddannelsestilbud m.v.), indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 14
+
+Stk. 1. Loven træder i kraft den 30. december 2013, jf. dog stk. 2.
+
+Stk. 2. § 2 træder i kraft den 1. januar 2014.
+
+Stk. 3. § 2, stk. 1, i lov om danskuddannelse til voksne udlændinge m.fl., som affattet ved denne lovs § 5, nr. 1, finder ikke anvendelse for udlændinge, som er henvist til danskuddannelse før lovens ikrafttræden. For sådanne udlændinge gælder de hidtidige regler.
+
+Lov nr. 1611 af 26. december 2013, som ophæver § 62, stk. 7 (Ophævelse af refusionsbestemmelse ved manglende opfølgning), indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 2
+
+Loven træder i kraft den 1. januar 2014.
