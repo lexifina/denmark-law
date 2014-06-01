@@ -6,7 +6,7 @@ Stk. 3. Bestemmende indflydelse i forhold til et datterselskab foreligger, når 
 
 Stk. 4. Ejer et moderselskab ikke mere end halvdelen af stemmerettighederne i et selskab, foreligger der bestemmende indflydelse, hvis moderselskabet har
 
-1) råderet over mere end halvdelen af stemmerettighederne i kraft af en aftale med andre investorer,
+1) råderet over mere end halvdelen af stemmerettighederne i kraft af en aft ale med andre investorer,
 
 2) beføjelse til at styre de finansielle og driftsmæssige forhold i et selskab i henhold til en vedtægt eller aftale,
 
@@ -18,6 +18,6 @@ Stk. 5. Eksistensen og virkningen af potentielle stemmerettigheder, herunder teg
 
 Stk. 6. Ved opgørelsen af stemmerettigheder i et datterselskab ses der bort fra stemmerettigheder, som knytter sig til kapitalandele, der besiddes af datterselskabet selv eller dets datterselskaber.
 
-Stk. 7. Et selskab skal holdes ude af sambeskatningen, hvis der er fradraget eller vil kunne fradrages tab på fordringer mod selskabet efter kursgevinstlovens § 4, stk. 5, af et koncernforbundet selskab.
+Stk. 7. Opnås bestemmende indflydelse over et eller flere selskaber m.v. via koncernforbindelsen i kursgevinstlovens § 4, stk. 5, skal disse selskaber m.v. ikke anses for det overtagende selskabs datterselskaber i relation til stk.1.
 
 Stk. 8. Et selskab, der tages under konkursbehandling, skal holdes ude af sambeskatningen fra og med det indkomstår, hvori konkursdekretet afsiges. Ved ophøret af sambeskatningen finder § 31 A, stk. 10, anvendelse.
