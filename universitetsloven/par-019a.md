@@ -1,0 +1,9 @@
+§ 19 a. Tilskud til universitetets udbud af valgfrie og obligatoriske forløb samt gensidige udvekslingsaftaler i udlandet ydes til den del af uddannelsen, der gennemføres i Danmark, så der kun udbetales tilskud for indgående studerendes aktivitet svarende til værdien af den aktivitet, de udgående studerende får merit for.
+
+Stk. 2. Tilskud til universitetets udbud af valgfrie og obligatoriske forløb i udlandet alene eller med et eller flere samarbejdsuniversiteter efter § 3 a, stk. 1, ydes ud fra takster på de årlige finanslove og antal årsstuderende for den del af uddannelsen, der gennemføres i Danmark. I de tilfælde, hvor der er krav om gensidig udveksling, udløser de studerende optaget på det udenlandske universitet tilskud for den del af uddannelsen, der gennemføres i Danmark, hvis de er udvekslet med studerende optaget på det danske universitet efter aftale mellem et dansk universitet og et universitet i udlandet.
+
+Stk. 3. Optjent merit for studerende, der, mens de er optaget på det danske universitet, tager på selvarrangerede ophold på et universitet i udlandet og ikke er omfattet af en gensidig udvekslingsaftale, jf. stk. 1, kan indgå i beregningen af tilskud. Ved beregningen af tilskud, jf. stk. 1, indgår ikke merit for studerende, der finansieres via udlandsstipendieordningen, jf. SU-lovens afsnit I a.
+
+Stk. 4. Tilskud til universitetets udbud af godkendte uddannelser i udlandet efter § 3 a, stk. 2, ydes ud fra takster på de årlige finanslove og antal årsstuderende for den del af uddannelsen, der gennemføres i Danmark.
+
+Stk. 5. Universitetet kan anvende egne midler til at afholde udgifter vedrørende studerende, der ikke udløser tilskud efter stk. 1, i de tilfælde, hvor studerende optaget på et universitet i udlandet er omfattet af en aftale og tager dele af deres uddannelse på et dansk universitet i Danmark.
