@@ -12,6 +12,8 @@ Stk. 5. Ud over de i stk. 2 og 3 nævnte pristillæg ydes et pristillæg på 26 
 
 Stk. 6. Summen af pristillæg og markedspris som nævnt i stk. 2 og pristillæg som nævnt i stk. 3 indeksreguleres den 1. januar hvert år fra 2013 på grundlag af 60 pct. af stigningerne i nettoprisindekset i det foregående kalenderår i forhold til 2007.
 
-Stk. 7. Det er en betingelse for tildeling af pristillægget, at ansøgeren opfylder de krav om adgangen til og dokumentationen for at modtage tilskud, som fremgår af regler udstedt efter § 50, stk. 5, og § 50 a.
+Stk. 7. Ejere af elproduktionsanlæg med en installeret effekt på 6 kW eller derunder, som er nettilsluttet den 20. november 2012 eller senere, og som alene anvender gasser omfattet af stk. 1, kan i stedet for at modtage pristillæg efter stk. 2 vælge at modtage pristillæg, som fastsættes således, at dette og den efter § 51, stk. 2, nr. 1, fastsatte markedspris tilsammen udgør 130 øre pr. kWh. For elektricitet fremstillet på anlæg nettilsluttet den 1. januar 2014 eller senere fastsættes pristillægget, som kan vælges, på samme måde, dog således, at det fastsatte pristillæg nedsættes årligt med 14 øre pr. kWh fra og med den 1. januar 2014 og til og med den 1. januar 2018. Pristillægget ydes i 10 år fra nettilslutningstidspunktet med det på nettilslutningstidspunktet gældende pristillæg efter 1. eller 2. pkt. Anmodning om valg af pristillæg skal indgives inden nettilslutning af anlægget.
+
+Stk. 8. Det er en betingelse for tildeling af pristillægget, at ansøgeren opfylder de krav om adgangen til og dokumentationen for at modtage tilskud, som fremgår af regler udstedt efter § 50, stk. 5, og § 50 a.
 
 § 43 b-43 d. (Udelades)
