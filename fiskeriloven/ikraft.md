@@ -1,107 +1,15 @@
-Lov nr. 466 af 7. juni 2001 indeholder følgende ikrafttrædelsesbestemmelse:
+Lov nr. 1336 af 19. december 2008 om ændring af kildeskatteloven, opkrævningsloven, udpantningsloven og forskellige andre love, § 47. Ændringsloven trådte i kraft den 1. januar 2009. Ændringsloven ophævede fiskerilovens § 116 (adgang til lønindeholdelse).
 
-§ 17
+Lov nr. 1513 af 27. december 2009 om ændring af lov om administration af Det Europæiske Fællesskabs forordninger om markedsordninger for landbrugsvarer m.v. og lov om fiskeri og fiskeopdræt (fiskeriloven), § 2. Ændringsloven trådte i kraft den 1. januar 2010. Ændringsloven indsatte to nye stk. i fiskerilovens § 105 (offentliggørelse af budgetter og regnskaber m.v. for fonde samt evaluering).
 
-Stk. 1. Loven træder i kraft den 1. juli 2001.
+Lov nr. 718 af 25. juni 2010 om ændring af konkursloven og forskellige andre love, § 53. Ændringsloven trådte i kraft 1. april 2011. Ændringsloven ændrede fiskerilovens § 89 (om konkurslovens regler om rekonstruktion).
 
-Stk. 2. (Udeladt).
+Lov nr. 604 af 14. juni 2011 om ændring af lov om fødevarer, fiskeriloven og lov om næringsbrev til visse fødevarevirksomheder, § 2. Ændringsloven trådte i kraft 1. juli 2011. Ændringsloven indførte betegnelsen "Den Europæiske Union" overalt i fiskeriloven. Derudover vedrørte ændringsloven fiskerilovens §§ 112 c, 112 d, 114 a og 115 (om digitalkommunikation, gebyr for IUU-kontrol og gebyr for erindringsskrivelser).
 
-Lov nr. 145 af 25. marts 2002 indeholder følgende ikrafttrædelsesbestemmelser:
+Lov nr. 388 af 2. maj 2012 om ændring af fiskeriloven. Ændringsloven trådte i kraft den 1. juni 2012 (om kvote for laksefiskeri, EU-pointsystem, straffemyndighed for visse eksterritoriale overtrædelser m.v.).
 
-§ 78
+Lov nr. 446 af 23. maj 2012 om ændring af lov om miljøbeskyttelse, lov om miljøgodkendelse m.v. af husdyrbrug, lov om forurenet jord og forskellige andre love, § 6. Ændringslovens § 6 trådte i kraft 1. juli 2012. Ændringsloven ophævede fiskerilovens § 47 (afgiftning af ferskvandsdambrug) samt ændrede § 49 og § 130.
 
-Stk. 1. Loven træder i kraft den 1. januar 2003, jf. dog § 79, stk. 1.
+Lov nr. 1148 af 11. december 2012 om ændring af fiskeriloven. Ændringsloven trådte i kraft den 15. december 2012 (fiskerilicens til visse uddannelsesinstitutioner).
 
-Stk. 2. (Udeladt).
-
-§ 79
-
-(Udeladt).
-
-Lov nr. 369 af 6. juni 2002 indeholder følgende ikrafttrædelsesbestemmelse:
-
-§ 2
-
-Tidspunktet for lovens eller dele af lovens ikrafttræden fastsættes af ministeren for fødevarer, landbrug og fiskeri.
-
-Lov nr. 1158 af 19. december 2003 indeholder følgende ikrafttrædelsesbestemmelse:
-
-§ 3
-
-Stk. 1. Loven træder i kraft den 1. januar 2004.
-
-Stk. 2. (Overgangsbestemmelse, udeladt).
-
-Lov nr. 1428 af 22. december 2004 indeholder følgende ikrafttrædelsesbestemmelse:
-
-§ 2
-
-Loven træder i kraft den 1. januar 2005.
-
-Lov nr. 366 af 24. maj 2005 indeholder følgende ikrafttrædelsesbestemmelse:
-
-§ 6
-
-Loven træder i kraft den 1. juli 2005, dog træder lovens §§ 4 og 5 i kraft dagen efter bekendtgørelsen i Lovtidende.
-
-Lov nr. 406 af 1. juni 2005 indeholder følgende ikrafttrædelsesbestemmelse:
-
-§ 2
-
-Loven træder i kraft den 1. juli 2005.
-
-Lov nr. 431 af 6. juni 2005 indeholder følgende ikrafttrædelsesbestemmelser:
-
-§ 85
-
-Stk. 1. Loven træder i kraft den 1. november 2005, jf. dog stk. 2.
-
-Stk. 2. (Udeladt).
-
-§ 86
-
-(Udeladt).
-
-Lov nr. 536 af 24. juni 2005 indeholder følgende ikrafttrædelsesbestemmelse:
-
-§ 8
-
-Loven træder i kraft den 1. januar 2007.
-
-Lov nr. 538 af 8. juni 2006 indeholder følgende ikrafttrædelsesbestemmelser:
-
-§ 105
-
-Stk. 1. Loven træder i kraft den 1. januar 2007, jf. dog stk. 2-22 og § 106.
-
-Stk. 2-22
-
-§§ 106-110
-
-(Udeladt).
-
-Lov nr. 317 af 31. marts 2007 indeholder følgende ikrafttrædelsesbestemmelse:
-
-§ 2
-
-Stk. 1. Loven træder i kraft den 1. juni 2007, jf. dog stk. 2 og 3.
-
-Stk. 2. § 36 a, stk. 1-3, § 36 c, stk. 1, og § 36 d, stk. 1, som affattet ved denne lovs § 1, nr. 9, træder i kraft den 1. januar 2008.
-
-Stk. 3. Ministeren fastsætter tidspunktet for ikrafttræden af § 1, nr. 6.
-
-Stk. 4. (Udeladt).
-
-Lov nr. 489 af 17. juni 2008 indeholder følgende ikrafttrædelsesbestemmelse:
-
-§ 2
-
-Loven træder i kraft den 1. juli 2008.
-
-Lov nr. 507 af 17. juni 2008 indeholder følgende ikrafttrædelsesbestemmelser:
-
-§ 15
-
-Stk. 1. Loven træder i kraft den 1. juli 2008, jf. dog stk. 3.
-
-Stk. 3. (Udeladt).
+Lov nr. 310 af 29. marts 2014 om ændring af lov om forskningsrådgivning m.v. og forskellige andre love og om ophævelse af lov om Højteknologifonden, § 9. Ændringsloven trådte i kraft den 1. april 2014. Ændringsloven ajourførte navnet på Det Frie Forskningsråd.
