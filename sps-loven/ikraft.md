@@ -1,10 +1,10 @@
-Lov nr. 416 af 6. juni 2002 om ændring af lov om statens uddannelsesstøtte og lov omspecialpædagogisk støtte ved videregående uddannelser (Den Internationale Brigade, støtte til uddannelse i udlandet m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
+Lov nr. 416 af 6. juni 2002 om ændring af lov om statens uddannelsesstøtte og lov om specialpædagogisk støtte ved videregående uddannelser (Den Internationale Brigade, støtte til uddannelse i udlandet m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
 
 § 3
 
 Stk. 1. Loven træder i kraft den 1. juli 2002.
 
-Stk. 2-3. (Udelades).
+Stk. 2-3. (Udelades)
 
 Stk. 4. § 2, nr. 1, har virkning for ansøgninger om specialpædagogisk støtte til uddannelser i udlandet, der modtages i styrelsen efter den 1. juli 2002.
 
@@ -24,13 +24,13 @@ Stk. 1. Loven træder i kraft den 1. februar 2010 og har gyldighed til og med de
 
 Stk. 2. Loven finder anvendelse på kompetenceudvidende forløb, som den nyuddannede påbegynder i perioden fra den 1. februar 2010 til og med den 31. januar 2011.
 
-Lov nr. 1373 af 28. december 2011 om ændring af forskellige uddannelseslove m.v. og om ophævelse af lov om uddannelse til håndarbejdslærer, lov om uddannelse til ernærings- og husholdningsøkonom og lov om sammenlægning og nedlæggelse af seminarier (Adgang til delegation af kompetence og fastsættelse af klageadgang m.v.) indeholder følgende ikrafttrædelsesbetsemmelse:
+Lov nr. 1373 af 28. december 2011 om ændring af forskellige uddannelseslove m.v. og om ophævelse af lov om uddannelse til håndarbejdslærer, lov om uddannelse til ernærings- og husholdningsøkonom og lov om sammenlægning og nedlæggelse af seminarier (Adgang til delegation af kompetence og fastsættelse af klageadgang m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
 
 § 16
 
 Stk. 1. Loven træder i kraft den 1. januar 2012.
 
-Stk. 2-4. (Udelades).
+Stk. 2-4. (Udelades)
 
 Lov nr. 514 af 4. juni 2012 om ændring af lov om institutioner for almengymnasiale uddannelser og almen voksenuddannelse m.v., lov om institutioner for erhvervsrettet uddannelse og lov om specialpædagogisk støtte ved videregående uddannelser (Digital kommunikation i sager om specialpædagogisk støtte) indeholder følgende ikrafttrædelsesbestemmelse:
 
@@ -44,7 +44,7 @@ Lov nr. 274 af 19. marts 2013 om ændring af SU-loven og forskellige andre love 
 
 Stk. 1. Loven træder i kraft den 1. april 2013.
 
-Stk. 2-3. (Udelades).
+Stk. 2-3. (Udelades)
 
 Lov nr. 485 af 17. maj 2013 om ændring af SU-loven, lov om specialpædagogisk støtte ved videregående uddannelser og lov om befordringsrabat til studerende ved videregående uddannelser (Forenkling af udlandsstipendieordningen, udlandsstudielån, ophævelse af bestemmelser om støtte til særlige kompetenceudvidende forløb m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
 
@@ -52,4 +52,20 @@ Lov nr. 485 af 17. maj 2013 om ændring af SU-loven, lov om specialpædagogisk s
 
 Stk. 1. Loven træder i kraft den 1. juli 2013.
 
-Stk. 2-3. (Udelades).
+Stk. 2-3. (Udelades)
+
+Lov nr. 639 af 12. juni 2013 om ændring af forskellige lovbestemmelser om aktindsigt m.v. (Konsekvensændringer i lyset af lov om offentlighed i forvaltningen og af ændringer i forvaltningsloven og retsplejeloven) indeholder følgende ikrafttrædelsesbestemmelser:
+
+§ 31
+
+Loven træder i kraft den 1. januar 2014.
+
+§ 32
+
+Stk. 1-5. (Udelades)
+
+Lov nr. 521 af 26. maj 2014 om ændring af SU-loven og lov om specialpædagogisk støtte ved videregående uddannelser (Uddannelsesstøtte til uddannelse i udlandet m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 3
+
+Loven træder i kraft den 1. juli 2014.

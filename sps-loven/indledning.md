@@ -1,5 +1,5 @@
 Bekendtgørelse af lov om specialpædagogisk støtte ved videregående uddannelser
 
-Herved bekendtgøres lov om specialpædagogisk støtte ved videregående uddannelser, jf. lovbekendtgørelse nr. 210 af 1. marts 2007, med de ændringer, der følger af § 2 i lov nr. 78 af 27. januar 2010, § 12 i lov nr. 1373 af 28. december 2011, § 3 i lov nr. 514 af 4. juni 2012 og § 3 i lov nr. 274 af 19. marts 2013.
+Herved bekendtgøres lov om specialpædagogisk støtte ved videregående uddannelser, jf. lovbekendtgørelse nr. 539 af 28. maj 2013, med de ændringer, der følger af § 20 i lov nr. 639 af 12. juni 2013 og § 2 i lov nr. 521 af 26. maj 2014.
 
-Den bekendtgjorte lovtekst vedrørende § 3, stk. 2, nr. 3, § 4, stk. 1, nr. 3-5, og § 12, stk. 1, træder i kraft den 1. juli 2013, jf. § 4, stk. 1, i lov nr. 485 af 17. maj 2013 om ændring af SU-loven, lov om specialpædagogisk støtte ved videregående uddannelser og lov om befordringsrabat til studerende ved videregående uddannelser (Forenkling af udlandsstipendieordningen, udlandsstudielån, ophævelse af bestemmelser om støtte til særlige kompetenceudvidende forløb m.v.).
+Den bekendtgjorte lovtekst vedrørende § 1, stk. 2, § 2, stk. 2 og 4, § 5, nr. 2, § 9, stk. 1, § 10, stk. 1, 1. pkt., og stk. 4-6, § 11, § 12, stk. 1-5, § 13, stk. 1 og 2, § 14, § 15, stk. 1, 1. pkt., og stk. 2, §§ 16 og 17, § 17 a, stk. 1, og § 18, stk. 4, træder i kraft den 1. juli 2014, jf. § 3 i lov nr. 521 af 26. maj 2014 om ændring af SU-loven og lov om specialpædagogisk støtte ved videregående uddannelser (Uddannelsesstøtte til uddannelse i udlandet m.v.).
