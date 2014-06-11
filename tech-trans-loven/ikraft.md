@@ -18,8 +18,16 @@ Stk. 1. Loven træder i kraft den 1. juli 2011, jf. dog stk. 2 og 3.
 
 Stk. 2-4. (Udelades)
 
-Lov nr. 1237 af 18. december 2012 om ændring af lov om offentlige forskningsinstitutioners kommercielle aktiviteter og samarbejde med fonde. (Mulighed for universiteterne for at formidle visse boliger og studielån i forbindelse med internationale uddannelsessamarbejder) indeholder følgende ikrafttrædelsesbestemmelse:
+Lov nr. 1237 af 18. december 2012 om ændring af lov om offentlige forskningsinstitutioners kommercielle aktiviteter og samarbejde med fonde (Mulighed for universiteterne for at formidle visse boliger og studielån i forbindelse med internationale uddannelsessamarbejder) indeholder følgende ikrafttrædelsesbestemmelse:
 
 § 2
 
 Loven træder i kraft den 1. januar 2013.
+
+Lov nr. 309 af 29. marts 2014 om ændring af lov om teknologi og innovation og lov om offentlige forskningsinstitutioners kommercielle aktiviteter og samarbejde med fonde (Ændringer som følge af lov om Danmarks Innovationsfond m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 3
+
+Stk. 1. Loven træder i kraft den 1. april 2014.
+
+Stk. 2-3. (Udelades)
