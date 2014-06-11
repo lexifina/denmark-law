@@ -1,5 +1,5 @@
-Ministeriet for Forskning, Innovation og Videregående Uddannelser, den 25. marts 2013
+Uddannelses- og Forskningsministeriet, den 1. juni 2014
 
-Morten Østergaard
+Sofie Carsten Nielsen
 
-/ Elizabeth Lüchau
+/ Jesper Schaumburg-Müller

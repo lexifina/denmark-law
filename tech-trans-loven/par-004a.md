@@ -16,4 +16,4 @@ Stk. 6. Det eller de deltagende universiteter skal anvende indtægter i form af 
 
 Stk. 7. Universitetet skal i årsrapporten redegøre for indskud og erhvervelse efter stk. 1 og for det økonomiske mellemværende mellem det eller de deltagende universiteter og de aktieselskaber, som universitetet har ejerandele i.
 
-Stk. 8. Ministeren for forskning, innovation og videregående uddannelser kan med de bevilgende myndigheders godkendelse regulere beløbsrammerne i stk. 2.
+Stk. 8. Uddannelses- og forskningsministeren kan med de bevilgende myndigheders godkendelse regulere beløbsrammerne i stk. 2.
