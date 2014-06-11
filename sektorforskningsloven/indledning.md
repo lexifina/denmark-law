@@ -1,3 +1,3 @@
-Lov om sektorforskningsinstitutioner
+Bekendtgørelse af lov om sektorforskningsinstitutioner
 
-VI MARGRETHE DEN ANDEN, af Guds Nåde Danmarks Dronning, gør vitterligt: Folketinget har vedtaget og Vi ved Vort samtykke stadfæstet følgende lov:
+Herved bekendtgøres lov nr. 326 af 5. maj 2004 om sektorforskningsinstitutioner med de ændringer, der følger af § 3 i lov nr. 310 af 29. marts 2014.
