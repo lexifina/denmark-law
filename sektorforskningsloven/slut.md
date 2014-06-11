@@ -1,7 +1,5 @@
-Givet på Amalienborg, den 5. maj 2004
+Uddannelses- og Forskningsministeriet, den 1. juni 2014
 
-Under Vor Kongelige Hånd og Segl
+Sofie Carsten Nielsen
 
-Margrethe R.
-
-/Helge Sander
+/ Jesper Schaumburg-Müller
