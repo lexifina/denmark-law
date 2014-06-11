@@ -1,5 +1,5 @@
-Ministeriet for Forskning, Innovation og Videregående Uddannelser, den 28. maj 2013
+Uddannelses- og Forskningsministeriet, den 1. juni 2014
 
-Morten Østergaard
+Sofie Carsten Nielsen
 
 / Jesper Schaumburg-Müller
