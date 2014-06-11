@@ -2,9 +2,9 @@
 
 ## Klage
 
-§ 5 a. Undervisningsministeren nedsætter et klagenævn, Kvalifikationsnævnet.
+§ 5 a. Uddannelses- og forskningsministeren nedsætter et klagenævn, Kvalifikationsnævnet.
 
-Stk. 2. Personer med udenlandske uddannelseskvalifikationer, der har søgt optagelse på, er optaget på eller er indskrevet ved en uddannelse, der udbydes efter regler fastsat af undervisningsministeren, ministeren for videnskab, teknologi og udvikling eller kulturministeren, kan indbringe en institutions afgørelse af, om kvalifikationerne kan erstatte dele af den pågældende uddannelse, for Kvalifikationsnævnet.
+Stk. 2. Personer med udenlandske uddannelseskvalifikationer, der har søgt optagelse på, er optaget på eller er indskrevet ved en uddannelse, der udbydes efter regler fastsat af undervisningsministeren, uddannelses- og forskningsministeren eller kulturministeren, kan indbringe en institutions afgørelse af, om kvalifikationerne kan erstatte dele af den pågældende uddannelse, for Kvalifikationsnævnet.
 
 Stk. 3. Personer med danske uddannelseskvalifikationer, der har søgt optagelse på, er optaget på eller er indskrevet ved en uddannelse, der udbydes efter regler fastsat af undervisningsministeren eller kulturministeren, kan indbringe en institutions afgørelse af, om kvalifikationerne kan erstatte dele af den pågældende uddannelse, for Kvalifikationsnævnet.
 
@@ -16,4 +16,4 @@ Stk. 6. Kvalifikationsnævnet kan i særlige tilfælde se bort fra overskridelse
 
 Stk. 7. Klagen stiles til Kvalifikationsnævnet og sendes til den uddannelsesinstitution, der har truffet afgørelsen. Hvis institutionen fastholder afgørelsen, sender institutionen klagen til Kvalifikationsnævnet med en udtalelse. Kvalifikationsnævnet træffer den endelige administrative afgørelse.
 
-Stk. 8. Undervisningsministeren fastsætter regler om nævnets sammensætning, virksomhed, sagsbehandling af klager og forretningsorden.
+Stk. 8. Uddannelses- og forskningsministeren fastsætter regler om nævnets sammensætning, virksomhed, sagsbehandling af klager og forretningsorden.

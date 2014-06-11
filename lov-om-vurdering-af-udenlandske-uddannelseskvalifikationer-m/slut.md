@@ -1,5 +1,5 @@
-Undervisningsministeriet, den 13. april 2007
+Uddannelses- og Forskningsministeriet, den 1. juni 2014
 
-Bertel Haarder
+Sofie Carsten Nielsen
 
-/Anne Stærk
+/ Jesper Schaumburg-Müller
