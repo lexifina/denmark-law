@@ -1,13 +1,5 @@
-Givet på Christiansborg Slot, den 16. maj 1990
+Uddannelses- og Forskningsministeriet, den 1. juni 2014
 
-Under Vor Kongelige Hånd og Segl
+Sofie Carsten Nielsen
 
-I Dronningens Navn:
-
-FREDERIK
-
-Kronprins
-
-/ Bertel Haarder
-
-Ingen
+/ Jesper Schaumburg-Müller
