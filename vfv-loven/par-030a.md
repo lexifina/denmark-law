@@ -6,4 +6,4 @@ Stk. 3. Kvalifikationsnævnet træffer den endelige administrative afgørelse.
 
 Stk. 4. Kvalifikationsnævnet kan i særlige tilfælde se bort fra overskridelse af fristen i stk. 1.
 
-Stk. 5. Undervisningsministeren kan fastsætte regler om uddannelsesinstitutionernes behandling af klager.
+Stk. 5. Uddannelses- og forskningsministeren kan fastsætte regler om uddannelsesinstitutionernes behandling af klager.
