@@ -1,0 +1,3 @@
+§ 14 a. Transportministeren kan fastsætte regler om forurening og gener fra anlægget af Cityringen. Transportministeren kan herunder fastsætte regler om Metroselskabet I/S’ eller Metroselskabet I/S’ entreprenørers egenkontrol og om tilsyn og håndhævelse, herunder at afgørelser om tilsyn og håndhævelse af regler fastsat efter denne bestemmelse ikke kan indbringes for anden administrativ myndighed.
+
+Stk. 2. Miljøbeskyttelsesloven og regler udstedt og afgørelser truffet i medfør heraf finder ikke anvendelse på forurening og gener fra de dele af anlægget af Cityringen, der omfattes af regler udstedt efter stk. 1.
