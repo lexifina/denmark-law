@@ -1,4 +1,4 @@
-§ 5 a. Styrelsen kan hos uddannelsesstederne indhente oplysninger om indskrivning m.v., der er nødvendige for at træffe afgørelse om ret til rabat.
+§ 5 a. Styrelsen kan hos uddannelsesstederne indhente oplysninger om indskrivning m.v., der er nødvendige for at træffe afgørelse om ret til rabat, herunder indskrivningsoplysninger om studerende, der er indskrevet på en støtteberettigende uddannelse, men som ikke har søgt befordringsrabat. Oplysningerne skal gives i en form, der er egnet til elektronisk databehandling.
 
 Stk. 2. Det Centrale Personregister stiller personadresseoplysninger til rådighed for styrelsen om de uddannelsessøgende, der søger om ret til rabat. Oplysningerne skal gives i en form, der er egnet til elektronisk databehandling.
 
