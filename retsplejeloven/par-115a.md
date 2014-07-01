@@ -1,0 +1,1 @@
+§ 115 a. Politiet kan videregive fortrolige oplysninger vedrørende personer, der er fyldt 18 år, til forældre eller andre, herunder familiemedlemmer, der har lignende tætte relationer til den pågældende person, hvis videregivelsen må anses for nødvendig som led i en kriminalitetsforebyggende indsats over for personen.
