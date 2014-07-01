@@ -1,0 +1,5 @@
+§ 43 b. I en forsøgsperiode fra den 1. juli 2014 til og med den 30. juni 2016 skal kommunalbestyrelsen, når pensionisten afviser at deltage i lægebehandling, der ud fra en sundhedsfaglig vurdering må antages at kunne forbedre den pågældendes arbejdsevne, indhente en vurdering fra regionens kliniske funktion, jf. §§ 25 b og 25 c i lov om ansvaret for og styringen af den aktive beskæftigelsesindsats, af, om en anden behandling kan anbefales.
+
+Stk. 2. Har regionens kliniske funktion vurderet, om der kan anbefales en anden behandling, jf. stk. 1, kan det i forsøgsperioden ikke tillægges betydning for pensionistens ret til førtidspension, at den pågældende afviser at deltage i lægebehandling, herunder en lægebehandling, som måtte være anbefalet af regionens kliniske funktion.
+
+Stk. 3. Ønsker pensionisten ikke at medvirke til, at sagen forelægges regionens kliniske funktion, træffer kommunalbestyrelsen afgørelse i sagen efter § 43 a.
