@@ -1,0 +1,1 @@
+§ 43 c. En pensionist, der har fået behandlet en sag om førtidspension efter § 18 a, kan ikke efter forsøgsperiodens udløb få førtidspensionen inddraget efter § 43 a, stk. 2, medmindre forholdene, der har ligget til grund for tilkendelsen, er ændret.
