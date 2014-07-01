@@ -2,7 +2,7 @@
 
 Stk. 2. Såfremt særlige omstændigheder gør det påkrævet, kan retten beslutte at fravige de i stk. 1 nævnte frister. I beslutningen skal anføres de omstændigheder, der bevirker, at fristen ikke kan overholdes. Beslutningen kan ikke kæres.
 
-Stk. 3. Dommen afsiges i et retsmøde. Hvis afsigelsen ikke finder sted samme dag, som sagen er optaget til dom, og tiltalte ikke er fængslet, eller hvis sagen er behandlet efter § 896 a, kan dommen dog afsiges uden afholdelse af retsmøde. Afsiges dommen i et retsmøde, oplæses dommens konklusion.
+Stk. 3. Dommen afsiges i et retsmøde. Er tiltalte ikke fængslet, kan dommen dog afsiges uden afholdelse af retsmøde, hvis afsigelsen ikke finder sted samme dag, som sagen er optaget til dom, eller hvis sagen er behandlet efter § 930 a. Dommen kan endvidere afsiges uden afholdelse af retsmøde, hvis sagen er behandlet efter § 896 a.
 
 Stk. 4. Hvis tiltalte er fængslet, bør den pågældende bringes til stede ved dommens afsigelse.
 

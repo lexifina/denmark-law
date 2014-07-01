@@ -1,0 +1,1 @@
+§ 353 a. Retten kan bestemme, at hovedforhandlingen skal foregå i tilslutning til et forberedende møde, hvis parterne samtykker heri, sagen findes tilstrækkeligt oplyst og også i øvrigt er egnet til straks at hovedforhandles, herunder at begge parter af retten skønnes at have tilstrækkelig mulighed for at varetage deres interesser.

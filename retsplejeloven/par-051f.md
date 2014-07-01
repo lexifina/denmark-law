@@ -1,0 +1,1 @@
+§ 51 f. Sager om afsked uden ansøgning før tilkaldeperiodens udløb af en pensioneret dommer, som er tilkaldt efter § 51 e, indbringes af Domstolsstyrelsen for Den Særlige Klageret. § 54 a finder i den forbindelse tilsvarende anvendelse.

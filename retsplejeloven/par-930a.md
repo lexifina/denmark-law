@@ -1,0 +1,1 @@
+§ 930 a. Retten kan med parternes samtykke bestemme, at ankesagen afgøres uden mundtlig hovedforhandling, når parterne nedlægger samstemmende påstande. Retten træffer i så fald bestemmelse om parternes udveksling af skriftlige procedureindlæg.
