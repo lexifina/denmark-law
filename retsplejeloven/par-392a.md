@@ -1,0 +1,5 @@
+§ 392 a. Kendelser og beslutninger, der afsiges af Sø- og Handelsretten efter reglerne i § 253, kan kæres til landsretten, hvis afgørelsen kan fuldbyrdes eller Procesbevillingsnævnet har tilladt, at afgørelsen indbringes særskilt. Sådan tilladelse kan gives, hvis der foreligger særlige grunde, jf. § 253, stk. 4. Kære sker til den landsret, i hvis kreds sagen skulle have været anlagt efter reglerne i kapitel 22, hvis sagen ikke var blevet anlagt ved Sø- og Handelsretten.
+
+Stk. 2. I andre tilfælde kan Sø- og Handelsrettens kendelser og beslutninger kæres til landsretten med Procesbevillingsnævnets tilladelse. Sådan tilladelse kan gives, hvis kæren vedrører spørgsmål af principiel karakter. Kære sker til den landsret, i hvis kreds sagen skulle have været anlagt efter reglerne i kapitel 22, hvis sagen ikke var blevet anlagt ved Sø- og Handelsretten.
+
+Stk. 3. Ansøgning om kæretilladelse efter stk. 1 og 2 skal indgives til Procesbevillingsnævnet, inden 2 uger efter at afgørelsen er truffet. Procesbevillingsnævnet kan dog undtagelsesvis give tilladelse efter stk. 2, hvis ansøgning indgives senere, men inden 6 måneder efter at afgørelsen er truffet.
