@@ -1,0 +1,1 @@
+§ 4 a. Skolen skal sikre, at undervisningen i fag på gymnasialt niveau så vidt muligt knyttes an til den konkrete elevgruppes erhvervsuddannelser, herunder at opgaver, projekter m.v. i rimeligt omfang giver mulighed for at inddrage viden, begreber og indhold fra den enkelte elevs uddannelse.
