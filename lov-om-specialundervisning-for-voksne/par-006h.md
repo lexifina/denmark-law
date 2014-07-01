@@ -2,14 +2,14 @@
 
 ## Styrelsesregler m.v. for regionale undervisningsinstitutioner med specialundervisning for voksne
 
-§ 6 h. Regionsrådet har det overordnede ansvar for de regionale undervisningsinstitutioner.
+§ 6 h. Regionsrådet har det overordnede ansvar for regionens undervisningsinstitutioner, jf. § 1, stk. 2 og 3.
 
-Stk. 2. Regionsrådet har ansvaret for at tilpasse kapaciteten på og sammensætningen af regionens undervisningstilbud, herunder oprettelse af nye undervisningsinstitutioner. Regionsrådet har desuden ansvaret for udviklingen af regionens undervisningstilbud, herunder den faglige udvikling af indholdet af undervisningstilbuddet.
+Stk. 2. Regionsrådet har ansvaret for at tilpasse kapaciteten på og sammensætningen af regionens undervisningstilbud.
 
-Stk. 3. Kommunalbestyrelsen udarbejder en årlig redegørelse for kommunens forventede brug af pladser ved de regionale undervisningsinstitutioner i det kommende år og i de 3 næste år. På baggrund af kommunalbestyrelsernes redegørelser sørger regionsrådet for, at der senest den 15. oktober året før indgås en årlig rammeaftale med kommunalbestyrelserne, som danner grundlag for tilpasningen af regionens undervisningsinstitutioner. Rammeaftalen drøftes og suppleres efter behov.
+Stk. 3. Kommunalbestyrelserne i regionen og regionsrådet indgår årligt en rammeaftale om faglig udvikling, styring og koordinering af regionens undervisningsinstitutioner.
 
-Stk. 4. Kommunalbestyrelserne inden for regionen er forpligtet til at samarbejde om at tilvejebringe de nødvendige tilbud inden for specialundervisningsområdet. Dette kan ske ved, at kommunalbestyrelsens årlige redegørelse også kan indeholde en redegørelse for kommunens forventede brug af pladser i andre kommuners specialundervisningstilbud i regionen i det kommende år og i de næste 3 år. Eventuelle redegørelser indgår som et bilag til rammeaftalen.
+Stk. 4. Kommunalbestyrelserne i regionen udarbejder rammeaftalen. Rammeaftalen offentliggøres på regionens og kommunernes hjemmesider.
 
-Stk. 5. Regionsrådene koordinerer indbyrdes kapaciteten på og sammensætningen af regionernes undervisningsinstitutioner.
+Stk. 5. Kommunalbestyrelserne i regionen er forpligtet til at samarbejde om at tilvejebringe de nødvendige tilbud inden for specialundervisningsområdet.
 
-Stk. 6. Undervisningsministeren fastsætter nærmere regler om den årlige redegørelse, rammeaftalen og regionernes koordinering m.v.
+Stk. 6. Undervisningsministeren fastsætter nærmere regler om rammeaftalen, herunder krav til aftalens indhold, tidsfrist for indgåelse af aftalen og koordinering af kapacitet og sammensætning af de regionale undervisningsinstitutioner.
