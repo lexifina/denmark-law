@@ -2,6 +2,8 @@
 
 Stk. 2. I byretsdomme i borgerlige sager, der ikke har været undergivet kollegial behandling i medfør af § 12, stk. 3, kan sagsfremstillingen begrænses til en kort angivelse af parternes anbringender, såfremt der samtidig gives en udførlig begrundelse for afgørelsen. Det skal i givet fald fremgå af dommen, at dommen ikke indeholder en fuldstændig sagsfremstilling.
 
-Stk. 3. Ankes en dom, der er affattet efter reglen i stk. 2, skal retten afgive en supplerende redegørelse for sagen. Redegørelsen indsendes til landsretten snarest muligt efter, at retten har fået meddelelse om anken. Samtidig sendes en kopi af redegørelsen til parterne. Redegørelsen anses som et bilag til dommen og optages endvidere i retsbogen.
+Stk. 3. I byretsdomme i borgerlige sager, der har været undergivet kollegial behandling, kan sagsfremstillingen forkortes, hvis retten finder det forsvarligt. Det skal i givet fald fremgå af dommen, at dommen ikke indeholder en fuldstændig sagsfremstilling.
 
-Stk. 4. Hvis indholdet af en forklaring i en straffesag ikke optages i retsbogen, jf. § 712, stk. 1, kan gengivelse af forklaringen i dommens fremstilling af sagen undlades.
+Stk. 4. Ankes en dom, der er affattet efter reglen i stk. 2, skal retten afgive en supplerende redegørelse for sagen. Redegørelsen indsendes til landsretten snarest muligt efter, at retten har fået meddelelse om anken. Samtidig sendes en kopi af redegørelsen til parterne. Redegørelsen anses som et bilag til dommen og optages endvidere i retsbogen.
+
+Stk. 5. Hvis indholdet af en forklaring i en straffesag ikke optages i retsbogen, jf. § 712, stk. 1, kan gengivelse af forklaringen i dommens fremstilling af sagen undlades.

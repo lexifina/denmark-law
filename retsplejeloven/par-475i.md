@@ -1,4 +1,4 @@
-§ 475 i. Ankefristen er 4 uger ved anke til landsret og 8 uger ved anke til Højesteret. Der kan ikke i medfør af § 372, stk. 2, meddeles tilladelse til at anke dommen efter ankefristens udløb.
+§ 475 i. Ankefristen er 4 uger ved anke til landsret og 4 uger ved anke til Højesteret. Der kan ikke i medfør af § 372, stk. 2, meddeles tilladelse til at anke dommen efter ankefristens udløb.
 
 Stk. 2. Anke til landsret sker ved meddelelse til byretten. Meddelelsen kan ske mundtligt til retsbogen. Retten sender meddelelsen og sagens akter til landsretten.
 

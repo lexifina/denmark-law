@@ -1,0 +1,5 @@
+§ 368 a. Landsretten kan afvise at behandle en sag i 2. instans, hvis der ikke er udsigt til, at sagen vil få et andet udfald end i byretten, og sagen ikke er af principiel karakter eller andre grunde ikke i øvrigt taler for, at sagen skal behandles af landsretten. Landsretten kan dog ikke afvise en sag, som er indbragt efter tilladelse fra Procesbevillingsnævnet.
+
+Stk. 2. Hvis landsretten overvejer at afvise en ankesag efter stk. 1, underrettes parterne herom. Parterne kan herefter inden 2 uger efter at have modtaget meddelelsen give retten og den anden part underretning om deres bemærkninger, hvorefter retten træffer afgørelse.
+
+Stk. 3. Retten træffer ved dom afgørelse om afvisning på det indkomne skriftlige grundlag. Hvor særlige grunde taler derfor, kan retten bestemme, at der skal foretages mundtlig forhandling. Retten kan tillade, at en part eller rettergangsfuldmægtig deltager i den mundtlige forhandling ved anvendelse af telekommunikation, medmindre sådan deltagelse er uhensigtsmæssig.
