@@ -1,4 +1,4 @@
-§ 6 b. Politiet kan beslutte at anbringe hunden i pension, indtil der er truffet afgørelse § 1b, stk. 1, eller § 6, stk. 2, nr. 4. eller stk. 4 eller 5, om aflivning af hunden, og hvis der træffes afgørelse om, at hunden skal aflives, indtil afgørelsen kan fuldbyrdes.
+§ 6 b. Politiet kan beslutte at anbringe hunden i pension, indtil der er truffet afgørelse efter § 1b, stk. 1, eller § 6, stk. 2, nr. 4, eller stk. 4 eller 5, om aflivning af hunden, og hvis der træffes afgørelse om, at hunden skal aflives, indtil afgørelsen kan fuldbyrdes. Politiet kan også anbringe hunden i pension under sagens behandling, hvis politiets eller Rigspolitiets afgørelser indbringes for domstolene, jf. § 6 c, stk. 3.
 
 Stk. 2. Politiet har, hvis det skønnes nødvendigt, mod behørig legitimation uden retskendelse adgang til hundehold med henblik på gennemførelse af en beslutning truffet efter stk. 1. Politiet kan om fornødent tage en sagkyndig med.
 
