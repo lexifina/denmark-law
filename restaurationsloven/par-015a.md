@@ -1,10 +1,10 @@
-§ 15 a. Dørmænd i restaurationsvirksomheder skal være autoriserede. Autorisationen meddeles af politidirektøren, i København af politidirektøren, i den politikreds, hvor ansøgeren bor. Har ansøgeren ikke bopæl her i riget, meddeles autorisationen af politidirektøren i København. En autorisation gælder for hele landet.
+§ 15 a. Dørmænd i restaurationsvirksomheder skal være autoriserede. Autorisation meddeles af politiet og gælder for hele landet.
 
 Stk. 2. Autorisation kan meddeles en person, der
 
 1) er fyldt 18 år,
 
-2) opfylder de krav til uddannelse, som Erhvervs- og Selskabsstyrelsen fastsætter, jf. § 15 b, stk. 3,
+2) opfylder de krav til uddannelse, som Erhvervsstyrelsen fastsætter, jf. § 15 b, stk. 3,
 
 3) ikke er dømt for strafbart forhold, der indebærer en nærliggende fare for misbrug af hvervet, jf. straffelovens § 78, stk. 2, og
 
