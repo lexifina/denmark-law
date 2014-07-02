@@ -1,1 +1,1 @@
-§ 7 c. (Ophævet.)
+§ 7 c. (Ophævet)
