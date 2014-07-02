@@ -230,7 +230,7 @@ Lov nr. 928 af 18. september 2012, som ændrer § 64, stk. 1, 1. pkt., og indsæ
 
 Stk. 1. Loven træder i kraft den 1. januar 2013.
 
-Stk. 2. - - -
+Stk. 2. (Udeladt)
 
 Lov nr. 1378 af 23. december 2012, som ændrer § 55, stk. 3, 1. pkt. (Forhøjelse af virksomhedernes finansieringsbidrag ved forsikringsordningen for mindre, private arbejdsgivere), indeholder følgende ikrafttrædelsesbestemmelse:
 
@@ -244,7 +244,7 @@ Lov nr. 1380 af 23. december 2012, som ændrer § 7, stk. 2, § 7, stk. 5, § 21
 
 Stk. 1. Loven træder i kraft den 1. januar 2013, jf. dog stk. 2-6 og 8.
 
-Stk. 2. - - -
+Stk. 2. (Udeladt)
 
 Lov nr. 357 af 9. april 2013, som overalt i loven ændrer »SDPI-løsningen« til »Nemrefusion« og som affatter § 11, stk. 3, 2. pkt. (Digital kommunikation om tilskudsordninger m.v.), indeholder følgende ikrafttrædelsesbestemmelse:
 
@@ -281,3 +281,27 @@ Lov nr. 1611 af 26. december 2013, som ophæver § 62, stk. 7 (Ophævelse af ref
 § 2
 
 Loven træder i kraft den 1. januar 2014.
+
+Lov nr. 720 af 25. juni 2014, som ændrer § 7, stk. 5, § 8, stk. 3, § 10, stk. 2, § 11, stk. 2, § 11, stk. 3, 1. pkt., § 14, § 21, stk. 1, nr. 2, § 24, stk. 2 -3, § 25, stk. 3, § 27, stk. 1, § 31, stk. 2, § 32, stk. 1, nr. 1-3, § 32, stk. 2, § 32, stk. 2, nr. 6 og 7, § 33, nr. 2, § 35, stk. 3 og 4, § 36, stk. 2, 1. pkt., § 36, stk. 3, § 40 a, stk. 1, § 41 og § 43, stk. 1, § 45, stk. 2 og 4, § 55, stk. 1, 1. pkt., § 56, stk. 1, 1. pkt., § 62, stk. 3, affatter § 12, § 13, § 15, stk. 5, overskriften til kapitel 8, § 32, stk. 3, § 38, stk. 3, 2. pkt., § 47, § 80, indsætter kapitel 5 b, §§ 11 a og b, §§ 13 a-d, § 15, stk. 1-2, § 21, stk. 1, nr. 1, § 21 a, § 24, stk. 1-2, § 27, stk. 3, og § 32, stk. 4 og 5, § 33, stk. 3, § 40, stk. 4, § 40 a, stk. 2, § 53 a, stk. 2, samt ophæver § 10, stk. 1, 2. pkt., § 13 a, § 15, stk. 1 og 7, § 15 a, § 16, § 24, stk. 1, § 26, § 28, og § 32, stk. 2, nr. 8 (Ny sygedagpengemodel med tidlig opfølgning og indsats, jobafklaringsforløb, arbejdsløshedsdagpenge under sygdom m.v.), indeholder følgende ikrafttrædelses- og overgangsbestemmelser:
+
+§ 12
+
+Stk. 1. Loven træder i kraft den 1. juli 2014, jf. dog stk. 2 og 3.
+
+Stk. 2. Stk. 2. § 2, nr. 41-43, træder i kraft den 1. januar 2015.
+
+Stk. 3. § 1, nr. 1, 3-18, 31-39 og 41-58, § 2, nr. 31, § 4, nr. 1, 2, 4, 10, 12 og 14, og §§ 5 og 11 træder i kraft den 5. januar 2015.
+
+§ 13
+
+Stk. 1. § 1, nr. 22-29, finder anvendelse på sygedagpengemodtagere med første fraværsdag den 1. juli 2014 eller senere. Bestemmelserne finder ligeledes anvendelse på sygedagpengemodtagere, der den 1. juli 2014 har modtaget sygedagpenge fra kommunen i 22 uger eller derunder i de 9 forudgående kalendermåneder.
+
+Stk. 2. For sygedagpengemodtagere, der den 1. juli 2014 har modtaget sygedagpenge fra kommunen i mere end 22 uger i de 9 forudgående kalendermåneder, finder reglerne i § 1, nr. 22-29, anvendelse, dog med den varighedsbegrænsning, der følger af den gældende § 24, stk. 1, i lov om sygedagpenge. Udbetalingen af sygedagpenge ophører således i disse tilfælde efter udløbet af en kalendermåned, når der er udbetalt sygedagpenge fra kommunen, herunder nedsatte sygedagpenge eller løn under sygdom, for mere end 52 uger i de 18 forudgående kalendermåneder, jf. dog § 25 i lov om sygedagpenge. I disse tilfælde vil udbetalingen af sygedagpenge ved en forlængelse efter lovens § 27, stk. 1, nr. 2, når det anses for nødvendigt at gennemføre virksomhedspraktik eller andre afklarende foranstaltninger med henblik på at klarlægge den sygemeldtes arbejdsevne, kun kunne ske i op til 39 uger, og en forlængelse efter lovens § 27, stk. 1, nr. 3, når den sygemeldte er under eller venter på lægebehandling og den pågældende efter en lægelig vurdering skønnes at ville kunne genoptage erhvervsmæssig beskæftigelse inden for denne periode, vil kun kunne ske i op til 104 uger.
+
+Stk. 3. Beskæftigelsesministeren offentliggør den 1. juli 2014 et foreløbigt driftsloft for 2015 for modtagere af dagpenge, kontanthjælp og uddannelseshjælp og et foreløbigt driftsloft for 2015 for revalidender og modtagere af sygedagpenge og ledighedsydelse, jf. § 118, stk. 4, og § 118 a, stk. 2, i lov om en aktiv beskæftigelsesindsats som affattet ved § 2, nr. 42 og 43.
+
+Stk. 4. Ny visitation og opfølgning i sygedagpengesager efter § 1, nr. 10-17, finder anvendelse, første gang der den 5. januar 2015 eller senere skal følges op.
+
+Stk. 5. § 5 finder anvendelse på sygdomsforløb, der påbegyndes den 5. januar 2015 eller senere.
+
+Stk. 6. § 1, nr. 53, finder anvendelse for sygedagpengemodtagere med første fraværsdag den 5. januar 2015 eller senere. For sygedagpengemodtagere med første fraværsdag før den 5. januar 2015 beregnes sygedagpengene efter den gældende § 47 i lov om sygedagpenge. Eventuel omberegning efter den 5. januar 2015 vurderes og foretages efter § 1, nr. 53.
