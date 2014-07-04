@@ -1,4 +1,4 @@
-§ 1a. Det er instituttets formål at drive skibsfinansieringsvirksomhed. Ved denne virksomhed forstås finansiering og dertil knyttede finansielle ydelser i forbindelse med
+§ 1 a. Det er instituttets formål at drive skibsfinansieringsvirksomhed. Ved denne virksomhed forstås finansiering og dertil knyttede finansielle ydelser i forbindelse med
 
 1) nybygning og ombygning af skibe samt
 

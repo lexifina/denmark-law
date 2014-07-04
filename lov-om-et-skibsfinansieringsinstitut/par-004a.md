@@ -1,1 +1,1 @@
-§ 4a. (Ophævet).
+§ 4 a. (Ophævet).
