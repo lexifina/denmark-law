@@ -1,4 +1,4 @@
-§ 2h. Kapitalcenterets midler skal holdes adskilt fra øvrige midler i instituttet.
+§ 2 h. Kapitalcenterets midler skal holdes adskilt fra øvrige midler i instituttet.
 
 Stk. 2. Der skal overføres midler til et kapitalcenter fra instituttet i øvrigt, hvis det er nødvendigt for at opfylde solvenskravet til kapitalcenteret, medmindre en sådan overførsel medfører, at instituttet i øvrigt ikke længere vil kunne opfylde solvenskravet.
 

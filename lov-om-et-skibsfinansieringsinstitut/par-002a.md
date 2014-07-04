@@ -1,1 +1,1 @@
-§ 2a. Instituttet kan udstede skibskreditobligationer.
+§ 2 a. Instituttet kan udstede skibskreditobligationer.

@@ -1,5 +1,5 @@
-Økonomi- og Erhvervsministeriet, den 8. august 2011
+Erhvervs- og Vækstministeriet, den 25. juni 2014
 
-Brian Mikkelsen
+Henrik Sass Larsen
 
 / Ulrik Nødgaard

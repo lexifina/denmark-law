@@ -1,4 +1,4 @@
-§ 3c. Konkursboet kan ikke erlægge en ydelse til opfyldelse af krav fra indehavere af kasseobligationer, skibskreditobligationer eller særligt dækkede obligationer på et tidligere tidspunkt, end instituttet var berettiget til at frigøre sig ved erlæggelse af ydelsen.
+§ 3 c. Konkursboet kan ikke erlægge en ydelse til opfyldelse af krav fra indehavere af kasseobligationer, skibskreditobligationer eller særligt dækkede obligationer på et tidligere tidspunkt, end instituttet var berettiget til at frigøre sig ved erlæggelse af ydelsen.
 
 Stk. 2. Konkursboet kan ikke opsige låneaftaler sikret ved pant i skibe i videre omfang, end det tilkom instituttet.
 
