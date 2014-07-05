@@ -1,3 +1,3 @@
 Bekendtgørelse af lov om beskatning af indkomst i forbindelse med kulbrinteindvinding i Danmark (kulbrinteskatteloven)
 
-Herved bekendtgøres lov om beskatning af indkomst i forbindelse med kulbrinteindvinding i Danmark (kulbrinteskatteloven), jf. lovbekendtgørelse nr. 412 af 3. maj 2006, med de ændringer, som følger af § 11 i lov nr. 515 af 7. juni 2006, § 4 i lov nr. 98 af 10. februar 2009, § 9 i lov nr. 521 af 12. juni 2009 og lov nr. 1277 af 16. december 2009.
+Herved bekendtgøres lov om beskatning af indkomst i forbindelse med kulbrinteindvinding i Danmark (kulbrinteskatteloven), jf. lovbekendtgørelse nr. 971 af 20. september 2011, med de ændringer, som følger af § 7 i lov nr. 591 af 18. juni 2012, § 6 i lov nr. 792 af 28. juni 2013, § 1 i lov nr. 1636 af 26. december 2013 og § 16 i lov nr. 527 af 28. maj 2014.
