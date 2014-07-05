@@ -1,4 +1,4 @@
-Lov nr. 538 af 8. juni 2006 indeholder nedenstående ikrafttrædelses- og overgangsbestemmelser. (Lovændringen vedrører §§ 46, 77, 78 og 92. Lovændringen angår politi- og domstolsreform. )
+Lov nr. 538 af 8. juni 2006 indeholder nedenstående ikrafttrædelses- og overgangsbestemmelser. (Lovændringen vedrører §§ 46, 77, 78 og 92. Lovændringen angår politi- og domstolsreform.)
 
 § 105
 
@@ -28,7 +28,7 @@ Lov nr. 436 af 29. maj 2008 indeholder nedenstående ikrafttrædelses- og overga
 
 Loven træder i kraft den 1. juli 2008.
 
-Lov nr. 1336 af 19. december 2008 indeholder nedenstående ikrafttrædelses- og overgangsbestemmelser. (Lovændringen vedrører §§ 55, 99, 103 og 103 a. Lovændringen angår konsekvensændringer som følge af lov om inddrivelse af gæld til det offentlige. )
+Lov nr. 1336 af 19. december 2008 indeholder nedenstående ikrafttrædelses- og overgangsbestemmelser. (Lovændringen vedrører §§ 55, 99, 103 og 103 a. Lovændringen angår konsekvensændringer som følge af lov om inddrivelse af gæld til det offentlige.)
 
 § 167
 
@@ -51,3 +51,11 @@ Stk. 1. Loven træder i kraft den 1. januar 2013, jf. dog stk. 2.
 Stk. 2. § 94, stk. 2, 4. og 5. pkt., i lov om byfornyelse og udvikling af byer som affattet ved denne lovs § 1, nr. 17, træder først i kraft den 1. januar 2014.
 
 Stk. 3. I 2013 kan 40 mio. kr. af den i § 93 i lov om byfornyelse og udvikling af byer nævnte udgiftsramme anvendes til bygningsfornyelse i områder som nævnt i lov om byfornyelse og udvikling af byer § 3 som affattet ved denne lovs § 1, nr. 1. Midlerne fordeles med højst 10 mio. kr. til byområder som nævnt i lov om byfornyelse og udvikling af byer § 3, nr. 1, som affattet ved denne lovs § 1, nr. 1. Resterende midler fordeles i prioriteret rækkefølge til områder som nævnt i lov om byfornyelse og udvikling af byer § 6, stk. 2, nr. 2-4, og stk. 3, som affattet ved denne lovs § 1, nr. 3.
+
+Lov nr. 439 af 6. maj 2014 indeholder nedenstående ikrafttrædelses- og overgangsbestemmelser. (Lovændringen vedrører kapitel 6 a. Lovændringen angår aftalt grøn byfornyelse).
+
+§ 6
+
+Stk. 1. Loven træder i kraft den 1. juli 2014, jf. dog stk. 2
+
+Stk. 2-4. (Udelades)
