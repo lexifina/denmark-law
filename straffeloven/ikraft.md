@@ -86,46 +86,6 @@ Stk. 1. Loven træder i kraft dagen efter bekendtgørelsen i Lovtidende.
 
 Stk. 2. Hvor det ved straffens fastsættelse skal indgå som en skærpende omstændighed, at gerningsmanden tidligere er straffet af betydning for sagen, kommer afgørelser, der er truffet i forhold til personer, for handlinger foretaget, inden de pågældende var fyldt 15 år, ikke i betragtning.
 
-Lov nr. 1242 af 18. december 2012 (Revision af reglerne om forkyndelse m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
-
-§ 5
-
-Stk. 1. Loven træder i kraft den 1. juli 2013, jf. dog stk. 2.
-
-Stk. 2-3. (Udelades)
-
-Lov nr. 1385 af 23. december 2012 (Indførelse af fængselsstraf i kartelsager, forhøjelse af bødeniveauet, straflempelse, ændrede sagsprocesser m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
-
-§ 3
-
-Loven træder i kraft den 1. marts 2013.
-
-Lov nr. 431 af 1. maj 2013 (Udførsel af skydevåben m.v. til civil brug til lande uden for EU, lempelse af kontrolordningen for visse hardball- og paintballvåben m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
-
-§ 3
-
-Stk. 1. Loven træder i kraft den 1. juni 2013, jf. dog stk. 2.
-
-Stk. 2. § 1, nr. 4, 5 og 7, og § 2 træder i kraft den 30. september 2013.
-
-Lov nr. 434 af 1. maj 2013 (Styrket indsats mod tvang i forbindelse med ægteskaber og religiøse vielser) indeholder følgende ikrafttrædelsesbestemmelse:
-
-§ 4
-
-Stk. 1. Loven træder i kraft dagen efter bekendtgørelsen i Lovtidende, jf. dog stk. 2.
-
-Stk. 2-4. (Udelades)
-
-Lov nr. 628 af 12. juni 2013 (Udvidet mulighed for prøveløsladelse og fodlænkeafsoning, SU i skoleperioder under uddannelsen til fængselsbetjent m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
-
-§ 4
-
-Stk. 1. Loven træder i kraft den 1. juli 2013, jf. dog stk. 2.
-
-Stk. 2. § 1, nr. 4, træder i kraft dagen efter bekendtgørelsen i Lovtidende.
-
-Stk. 3-4. (Udelades)
-
 Lov nr. 633 af 12. juni 2013 (Seksualforbrydelser) indeholder følgende ikrafttrædelsesbestemmelse:
 
 § 5
@@ -150,10 +110,48 @@ Stk. 2. § 1, nr. 3 og 4, finder anvendelse på konfiskationskrav, der er idømt
 
 Stk. 3. (Udelades)
 
-Lov nr. 642 af 12. juni 2013 (Gennemførelse af bestemmelser i forordning om integritet og gennemsigtighed på engrosenergimarkederne (REMIT-forordningen) om beføjelser, sanktioner og offentliggørelse samt udrulning af fjernaflæste elmålere m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
+Lov nr. 1620 af 26. december 2013 (Forhøjet strafferamme for grov dopingkriminalitet) indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 2
+
+Loven træder i kraft den 1. januar 2014.
+
+Lov nr. 168 af 26. februar 2014 (Gennemførelse af Europarådets konvention til forebyggelse og bekæmpelse af vold mod kvinder og vold i hjemmet) indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 2
+
+Stk. 1. Loven træder i kraft den 1. juni 2014.
+
+Stk. 2. § 1 finder også anvendelse på lovovertrædelser, der er begået før lovens ikrafttræden, medmindre forældelse efter de hidtil gældende regler er indtrådt før lovens ikrafttræden.
+
+Lov nr. 403 af 28. april 2014 (Indførelse af regler, der giver pensionskunder ret til at få den samlede økonomiske værdi af deres pensionsordning overført i forbindelse med visse tilfælde af omvalg, direktørers og andre ledende medarbejderes mulighed for at deltage i ledelsen eller driften af anden erhvervsvirksomhed, krav til sammensætningen af bestyrelsen i en fond eller forening, der ejer et realkreditaktieselskab, ændring af reglerne om straf for overtrædelse af CO2-auktionerings-forordningen, regulering af CO2-kvotebydere, ændringer af reglerne om forvaltere af alternative investeringsfondes muligheder for at markedsføre alternative investeringsfonde, herunder undtagelse af markedsføring af andele i fondene til medarbejdere og visse detailinvestorer fra kravet om særlig markedsføringstilladelse og indførelse af mulighed for, at forvaltere fra tredjelande kan markedsføre fonde til detailinvestorer, ændring af grænsen for tilbudspligten i værdipapirhandelsloven samt bedre sikring af mindre aktionærers rettigheder, forbud mod brug af variabel løn, der er afhængig af opnåelse af et bestemt salgsmål til detailkunder, ændring af reglerne om tilsyn med fælles datacentraler, tilsyn med depositarer for alternative investeringsfonde m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 22
+
+Stk. 1. Loven træder i kraft den 15. maj 2014, jf. dog stk. 2-4.
+
+Stk. 2-8. (Udelades)
+
+Lov nr. 516 af 26. maj 2014 (Ændring af reglerne om afvisning m.v. til gennemførelse af direktiv 2008/115/EF om fælles standarder og procedurer i medlemsstaterne for tilbagesendelse af tredjelandsstatsborgere med ulovligt ophold (udsendelsesdirektivet) m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 3
+
+Stk. 1. Loven træder i kraft den 1. januar 2015.
+
+Stk. 2. (Udelades)
+
+Lov nr. 733 af 25. juni 2014 (Initiativer mod rocker- og bandekriminalitet m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 6
+
+Loven træder i kraft den 1. juli 2014
+
+Lov nr. 739 af 25. juni 2014 (Reorganisering af kriminalforsorgen, herunder begrænsning af klageadgangen) indeholder følgende ikrafttrædelsesbestemmelser:
 
 § 5
 
-Stk. 1. Loven træder i kraft den 15. juni 2013, jf. dog stk. 2.
+Justitsministeren fastsætter tidspunktet for lovens ikrafttræden.
 
-Stk. 2. § 3 træder i kraft den 1. juli 2013.
+§ 6
+
+Sager, hvori der er truffet afgørelse af en institution inden lovens ikrafttræden, kan påklages til Direktoratet for Kriminalforsorgen efter de hidtil gældende regler. Direktoratet for Kriminalforsorgens afgørelse i sager, der er påklaget efter 1. pkt., kan ikke påklages til Justitsministeriet.
