@@ -14,6 +14,6 @@ Stk. 6. Til brug for Styrelsen for Fastholdelse og Rekrutterings afgørelser om 
 
 2) Uddannelser og kurser inden for grund- og ungdomsuddannelser, der uden godkendelse fra en statslig myndighed udbydes på en statsligt godkendt uddannelsesinstitution, der er under statsligt tilsyn.
 
-3) Kurser på folkehøjskoler m.v. godkendt efter lov om folkehøjskoler, efterskoler, husholdningsskoler og håndarbejdsskoler (frie kostskoler), som gennemføres uden tilskud efter loven.
+3) Kurser på folkehøjskoler m.v. godkendt efter lov om folkehøjskoler og lov om efterskoler, husholdningsskoler og håndarbejdsskoler, som gennemføres uden tilskud efter loven.
 
-Stk. 7. Ministeren for forskning, innovation og videregående uddannelser fastsætter nærmere regler om Danmarks Evalueringsinstituts udtalelser efter stk. 6, herunder om anmodninger og om den anmodende institutions betaling til dækning af Danmarks Evalueringsinstituts udgifter i forbindelse med udtalelser.
+Stk. 7. Undervisningsministeren fastsætter nærmere regler om Danmarks Evalueringsinstituts udtalelser efter stk. 6, herunder om anmodninger og om den anmodende institutions betaling til dækning af Danmarks Evalueringsinstituts udgifter i forbindelse med udtalelser.
