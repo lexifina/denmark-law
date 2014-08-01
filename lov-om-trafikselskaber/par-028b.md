@@ -1,0 +1,1 @@
+§ 28 b. Transportministeren kan fastsætte regler med henblik på opfyldelse og anvendelse af retsakter fastsat af Den Europæiske Union om forhold, der er omfattet af denne lov. Transportministeren kan herunder fastsætte regler om klageadgang, gebyrer og meddelelse af påbud og forbud og om oplysningspligter.

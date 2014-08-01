@@ -10,4 +10,4 @@ Stk. 5. Trafikselskabet på Sjælland, Metroselskabet I/S og de jernbanevirksomh
 
 Stk. 6. Taksterne, som trafikselskabet fastsætter eller indgår aftaler med jernbanevirksomhederne om, må i gennemsnit ikke stige mere end pris- og lønudviklingen. Transportministeren kan fastsætte nærmere regler herom.
 
-Stk. 7. I det omfang kontrakter om udførelse af offentlig servicetrafik med jernbane indeholder bestemmelser, hvorefter indtægterne skal tilfalde staten, udøver Trafikstyrelsen de kompetencer, der er tillagt jernbanevirksomhederne efter stk. 1-3, 5 og 6.
+Stk. 7. I det omfang kontrakter om udførelse af offentlig servicetrafik med jernbane indeholder bestemmelser, hvorefter indtægterne skal tilfalde staten, udøver transportministeren de kompetencer, der er tillagt jernbanevirksomhederne efter stk. 1-3, 5 og 6.
