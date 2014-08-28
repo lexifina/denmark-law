@@ -1,35 +1,11 @@
-Lov nr. 516 af 12. juni 2009 om ændring af årsregnskabsloven, lov om finansiel virksomhed og forskellige andre love (Ændringer som følge af selskabsloven) indeholder følgende ikrafttrædelsesbestemmelse:
+Lov nr. 1614 af 26. december 2013 om ændring af lov om erhvervsakademier for videregående uddannelser, lov om professionshøjskoler for videregående uddannelser, lov om medie- og journalisthøjskolen og lov om friplads og stipendium til visse udenlandske studerende ved erhvervsakademiuddannelser og professionsbacheloruddannelser (Ændringer som følge af evaluering af erhvervsakademistrukturen m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
 
-§ 25
+§ 5
 
-Stk. 1. Økonomi- og erhvervsministeren fastsætter tidspunktet for lovens ikrafttræden.
+Stk. 1. Loven træder i kraft den 1. januar 2014.
 
-Stk. 2-4. (Udelades)
+Stk. 2. Ved hvert erhvervsakademi nedsættes et midlertidigt vedtægtsudvalg, der fastsætter vedtægtens regler for sammensætningen af de nye bestyrelser, jf. § 11 i lov om erhvervsakademier for videregående uddannelser.
 
-Lov nr. 537 af 12. juni 2009 om ændring af lov om erhvervsakademiuddannelser og professionsbacheloruddannelser og andre love (Udbud af danske erhvervsrettede videregående uddannelser i udlandet) indeholder følgende ikrafttrædelsesbestemmelse:
+Stk. 3. Vedtægtsudvalget, jf. stk. 2, sammensættes af formanden for den siddende bestyrelse, 1 medarbejderrepræsentant og 1 studenterrepræsentant fra den siddende bestyrelse og 2 eksterne parter, der udpeges af ministeren for forskning, innovation og videregående uddannelser efter indstilling fra formanden.
 
-§ 8
-
-Loven træder i kraft den 1. juli 2009.
-
-Lov nr. 590 af 26. juni 2009 om ændring af forskellige love på Undervisningsministeriets område (Fritagelse for betalingskravet på videregående uddannelser for børn af visse udenlandske arbejdstagere i Danmark) indeholder følgende ikrafttrædelsesbestemmelse:
-
-§ 8
-
-Loven træder i kraft den 1. juli 2009.
-
-Lov nr. 1373 af 28. december 2011 om ændring af forskellige uddannelseslove m.v. og om ophævelse af lov om uddannelse til håndarbejdslærer, lov om uddannelse til ernærings- og husholdningsøkonom og lov om sammenlægning og nedlæggelse af seminarier (Adgang til delegation af kompetence og fastsættelse af klageadgang m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
-
-§ 16
-
-Stk. 1. Loven træder i kraft den 1. januar 2012.
-
-Stk. 2-4. (Udelades)
-
-Lov nr. 1236 af 18. december 2012 om ændring af forskellige lovbestemmelser om sammenlægning og spaltning af uddannelsesinstitutioner m.v. og om ophævelse af lov om Det Informationsvidenskabelige Akademi (Mulighed for sammenlægning og spaltning af universiteter, uddannelses- og forskningsinstitutioner m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
-
-§ 8
-
-Stk. 1. Loven træder i kraft den 1. januar 2013, jf. dog stk. 2 og 3.
-
-Stk. 2-5. (Udelades)
+Stk. 4. Ministeren for forskning, innovation og videregående uddannelser kan fastsætte nærmere regler om nedsættelse af det midlertidige vedtægtsudvalg og vedtægtsudvalgets opgaver, jf. stk. 2 og 3.
