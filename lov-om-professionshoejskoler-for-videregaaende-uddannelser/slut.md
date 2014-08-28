@@ -1,5 +1,5 @@
-Ministeriet for Forskning, Innovation og Videregående Uddannelser, den 27. februar 2013
+Uddannelses- og Forskningsministeriet, den 25. august 2014
 
-Morten Østergaard
+Sofie Carsten Nielsen
 
 / Marianne Madsen
