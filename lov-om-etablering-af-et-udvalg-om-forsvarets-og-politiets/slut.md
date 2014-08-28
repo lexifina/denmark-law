@@ -1,9 +1,5 @@
-Givet på Marselisborg Slot, den 6. juli 1988
+Justitsministeriet, den 26. august 2014
 
-Under Vor Kongelige Hånd og Segl
+Karen Hækkerup
 
-MARGRETHE R.
-
-/Erik Ninn-Hansen
-
-Ingen
+/ Rikke-Louise Ørum Petersen

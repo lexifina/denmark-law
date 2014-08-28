@@ -1,3 +1,3 @@
-Lov om etablering af et udvalg om forsvarets og politiets efterretningstjenester
+Bekendtgørelse af lov om etablering af et udvalg om forsvarets og politiets efterretningstjenester
 
-VI MARGRETHE DEN ANDEN, af Guds Nåde Danmarks Dronning, gør vitterligt: Folketinget har vedtaget og Vi ved Vort samtykke stadfæstet følgende lov:
+Herved bekendtgøres lov nr. 378 af 6. juli 1988 om etablering af et udvalg om forsvarets og politiets efterretningstjenester med de ændringer, der følger af lov nr. 632 af 12. juni 2013.
