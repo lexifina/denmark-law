@@ -1,7 +1,5 @@
-Givet i Jagthuset, Trendskov, den 1. april 2006
+Ministeriet for Sundhed og Forebyggelse, den 21. august 2014
 
-Under Vor Kongelige Hånd og Segl
+Nick Hækkerup
 
-Margrethe R.
-
-/Lars Løkke Rasmussen
+/ Kirstine F. Hindsberger
