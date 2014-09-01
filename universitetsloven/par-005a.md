@@ -1,0 +1,1 @@
+§ 5 a. Efter at de studerende er optaget på en kandidatuddannelse, kan universitetet udbyde supplerende uddannelsesaktivitet, med henblik på at de studerende erhverver de nødvendige faglige forudsætninger for fortsat optagelse på uddannelsen.
