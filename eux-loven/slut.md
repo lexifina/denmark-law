@@ -1,7 +1,5 @@
-Givet i København, den 1. juni 2010
+Undervisningsministeriet, den 1. september 2014
 
-Under Vor Kongelige Hånd og Segl
+Christine Antorini
 
-MARGRETHE R.
-
-/ Tina Nedergaard
+/ Mads Bentzen
