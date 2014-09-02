@@ -1,3 +1,5 @@
 Bekendtgørelse af lov om universiteter (universitetsloven)
 
-Herved bekendtgøres lov om universiteter (universitetsloven), jf. lovbekendtgørelse nr. 652 af 24. juni 2012, med de ændringer, der følger af § 1 i lov nr. 1236 af 18. december 2012.
+Herved bekendtgøres lov om universiteter (universitetsloven), jf. lovbekendtgørelse nr. 367 af 25. marts 2013, med de ændringer, der følger af § 1 i lov nr. 623 af 12. juni 2013, § 1, nr. 1-5, i lov nr. 898 af 4. juli 2013, § 1 i lov nr. 520 af 26. maj 2014 og § 1 i lov nr. 750 af 25. juni 2014.
+
+De ændringer, der følger af § 1, nr. 6-11, i lov nr. 898 af 4. juli 2013 om ændring af universitetsloven, lov om erhvervsakademiuddannelser og professionsbacheloruddannelser, lov om videregående kunstneriske uddannelsesinstitutioner, lov om maritime uddannelser og lov om statens voksenuddannelsesstøtte (SVU) (Obligatorisk tilmelding til fag og prøver svarende til et fuldt studieår, afskaffelse af muligheden for at melde fra prøver, etablering af bedre rammer for merit ved studieophold på en anden institution eller studieskift og bedre overgange mellem bachelor- og kandidatuddannelser m.v.), er ikke indarbejdet i denne lovbekendtgørelse, da ændringerne efterfølgende er ophævet, jf. § 6, nr. 1, i lov nr. 750 af 25. juni 2014.
