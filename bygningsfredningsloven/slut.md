@@ -1,3 +1,5 @@
-Kulturministeriet, den 9. juni 2011
+Kulturministeriet, den 28. august 2014
 
-Per Stig Møller
+Marianne Jelved
+
+/ Katrine Tarp
