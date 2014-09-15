@@ -1,0 +1,1 @@
+§ 9 a. En gang årligt opgøres en rentekorrektionssats. Ved opgørelsen af satsen finder § 9, 2.-5. pkt., anvendelse. Den herved opgjorte sats oprundes derefter til nærmeste hele procentsats. Satsen kan ikke være mindre end 0 pct.
