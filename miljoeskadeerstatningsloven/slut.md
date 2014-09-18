@@ -1,16 +1,14 @@
-Givet på Christiansborg Slot, den 6. april 1994
+Justitsministeriet, den 9. september 2014
 
-Under Vor Kongelige Hånd og Segl
+Karen Hækkerup
 
-MARGRETHE R.
-
-/Erling Olsen
+/ Thomas Klyver
 
 Bilag
 
 Offentlig og erhvervsmæssig aktivitet, der er omfattet af lov om erstatning for miljøskader
 
-A. Fremstilling, forarbejdning, overfladebehandling af jern, stål, metal, træ og plast.
+## A. Fremstilling, forarbejdning, overfladebehandling af jern, stål, metal, træ og plast.
 
 1. Jernværker, stålværker, metalværker, stålvalseværker.
 
@@ -28,7 +26,7 @@ A. Fremstilling, forarbejdning, overfladebehandling af jern, stål, metal, træ 
 
 8. Elektroniske virksomheder for fremstilling af transformatorer eller trykte kredsløb.
 
-B. Forarbejdning af visse råstoffer m.v.
+## B. Forarbejdning af visse råstoffer m.v.
 
 1. Cementfabrikker, kalkværker, kridtværker og molerværker.
 
@@ -40,7 +38,7 @@ B. Forarbejdning af visse råstoffer m.v.
 
 5. Fremstilling af bygningselementer af overvejende mineralske råmaterialer.
 
-C. Indvinding og behandling af mineralolie, mineralolieprodukter, asfalt og naturgas.
+## C. Indvinding og behandling af mineralolie, mineralolieprodukter, asfalt og naturgas.
 
 1. Anlæg for indvinding eller raffinering af mineralolie, herunder på de kystnære dele af søterritoriet.
 
@@ -54,7 +52,7 @@ C. Indvinding og behandling af mineralolie, mineralolieprodukter, asfalt og natu
 
 6. Tjæredestillationsanlæg.
 
-D. Kemisk fabrikation, limfabrikation m.v.
+## D. Kemisk fabrikation, limfabrikation m.v.
 
 1. Anlæg for fremstilling af organiske eller uorganiske produkter, mellemprodukter eller kemiske stoffer og oplag af disse, hvis oplaget eller driften af anlægget skønnes at indebære risiko for væsentlig forurening i omgivelserne, herunder i forbindelse med uheld.
 
@@ -76,7 +74,7 @@ D. Kemisk fabrikation, limfabrikation m.v.
 
 10. Fremstilling af skumplast og andre polymere materialer, når produktionskapaciteten er 100 kg/dag eller derover.
 
-E. Oparbejdning af vegetabilske råvarer, foderstofproduktion og trykkerier.
+## E. Oparbejdning af vegetabilske råvarer, foderstofproduktion og trykkerier.
 
 1. Cellulosefabrikker, papirfabrikker og papfabrikker.
 
@@ -96,7 +94,7 @@ E. Oparbejdning af vegetabilske råvarer, foderstofproduktion og trykkerier.
 
 9. Møllerier.
 
-F. Oparbejdning af animalske råvarer.
+## F. Oparbejdning af animalske råvarer.
 
 1. Slagterier med årlig slagtning af 10.000 tons kreaturer og/eller svin eller 5.000 tons fjerkræ.
 
@@ -112,7 +110,7 @@ F. Oparbejdning af animalske råvarer.
 
 7. Anlæg for tørring eller formaling af østersskaller.
 
-G. Kraft- og varmeproduktion.
+## G. Kraft- og varmeproduktion.
 
 1. Kraftværker og varmeproducerende anlæg med en indfyret effekt på mere end 50 MW, herunder gasturbine- og gasmotoranlæg.
 
@@ -120,19 +118,19 @@ G. Kraft- og varmeproduktion.
 
 3. Kraft- eller varmeproducerende anlæg med en indfyret effekt på mellem 5 og 50 MW, herunder gasturbine- og gasmotoranlæg.
 
-H. Motorbaner og flyvepladser.
+## H. Motorbaner og flyvepladser.
 
 1. Motorbaner og knallertbaner samt køretekniske anlæg bortset fra lukkede øvelsespladser, der udelukkende benyttes til den indledende praktiske køreundervisning.
 
 2. Lufthavne og flyvepladser.
 
-I. Ejendomme med opbevaring af husdyrgødning samt dambrug.
+## I. Ejendomme med opbevaring af husdyrgødning samt dambrug.
 
 1. Ejendomme med en samlet opbevaringskapacitet for flydende husdyrgødning på 3.750 kubikmeter.
 
 2. Saltvands- og ferskvandsdambrug - bortset fra åledambrug med fuld recirkulering.
 
-J. Anden særlig forurenende aktivitet.
+## J. Anden særlig forurenende aktivitet.
 
 1. Industriel fremstilling af protein, pektin eller enzymer.
 
@@ -148,11 +146,11 @@ J. Anden særlig forurenende aktivitet.
 
 7. Autoværksteder m.v. som nævnt i § 1 i bekendtgørelse nr. 793 af 13. december 1989 om miljøkrav i forbindelse med etablering og drift af autoværksteder m.v.
 
-8. Virksomheder med tilladelse fra amtsrådet til at udlede spildevand til vandløb, søer eller havet, jf. miljøbeskyttelseslovens § 28, stk. 1 (lov nr. 358 af 6. juni 1991 om miljøbeskyttelse).
+8. Virksomheder med tilladelse efter miljøbeskyttelseslovens § 28 til udledning af spildevand fra anlæg med en kapacitet på mere end 30 personækvivalenter eller spildevand, som indeholder andre stoffer, end hvad der sædvanligt forekommer i husspildevand, eller som har en væsentlig anden sammensætning.
 
 9. Virksomheder, herunder udlejningsejendomme, der har nedgravede olietanke, jf. § 1, stk. 1, i olietankbekendtgørelsen (bekendtgørelse nr. 386 af 21. august 1980 om kontrol med oplag af olie m.v.), med et rumindhold på 6.000 liter eller derover.
 
-K. Affald. Oplagring, deponering, behandling, destruktion, genbrug m.v.
+## K. Affald. Oplagring, deponering, behandling, destruktion, genbrug m.v.
 
 1. Anlæg for oparbejdning eller destruktion af affald af kemikalier, opløsningsmidler eller rensemidler og anlæg for destruktion af affald fra kemisk industri.
 
@@ -171,5 +169,3 @@ K. Affald. Oplagring, deponering, behandling, destruktion, genbrug m.v.
 8. Komposteringsanlæg i øvrigt med kapacitet for tilførsel af organisk affald på 100 tons årlig eller derover - bortset fra husdyrgødning.
 
 9. Affaldsforbrændingsanlæg.
-
-Ingen
