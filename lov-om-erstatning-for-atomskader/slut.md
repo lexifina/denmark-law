@@ -1,15 +1,5 @@
-Givet på Amalienborg, den 19. juni 1974.
+Justitsministeriet, den 9. september 2014
 
-Under Vor Kongelige Hånd og Segl.
+Karen Hækkerup
 
-I Dronningens navn:
-
-INGRID.
-
-Dronning af Danmark.
-
-Rigsforstander.
-
-/Nathalie Lind.
-
-Ingen
+/ Thomas Klyver
