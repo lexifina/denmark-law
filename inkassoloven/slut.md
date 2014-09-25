@@ -1,9 +1,5 @@
-Givet på Christiansborg Slot, den 14. maj 1997
+Justitsministeriet, den 19. september 2014
 
-Under Vor Kongelige Hånd og Segl
+Karen Hækkerup
 
-MARGRETHE R.
-
-/ Frank Jensen
-
-Ingen
+/ Thomas Klyver
