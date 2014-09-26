@@ -1,7 +1,5 @@
-Givet på Amalienborg, den 30. januar 2007
+Beskæftigelsesministeriet, den 23. september 2014
 
-Under Vor Kongelige Hånd og Segl
+Mette Frederiksen
 
-Margrethe R.
-
-/Claus Hjort Frederiksen
+/ Charlotte Fuglsang
