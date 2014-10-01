@@ -4,9 +4,9 @@ Stk. 2. Til udbytte henregnes:
 
 1) Alt, hvad der af selskabet udloddes til aktuelle aktionærer eller andelshavere, jf. dog stk. 3.
 
-2) Udlodning af likvidationsprovenu for tiden fra begyndelsen af det indkomstår, i hvilket ophør sker, til ophørstidspunktet fra et investeringsinstitut med minimumsbeskatning, der er omfattet af aktieavancebeskatningslovens § 21, i det omfang udlodningen ikke overstigerminimumsindkomsten, jf. § 16 C, stk. 3.
+2) Udlodning af likvidationsprovenu for tiden fra begyndelsen af det indkomstår, i hvilket ophør sker, til ophørstidspunktet fra et investeringsinstitut med minimumsbeskatning, der er omfattet af aktieavancebeskatningslovens § 21, i det omfang udlodningen ikke overstiger minimumsindkomsten, jf. § 16 C, stk. 3.
 
-3) Den del af minimumsindkomsten, jf. § 16 C, stk. 3, der ikke udloddes.
+3) Den del af minimumsindkomsten efter § 16 C, stk. 3, der ikke udloddes.
 
 4) Udbytteskat, der tilbagebetales fra en fremmed stat, Færøerne eller Grønland vedrørende aktier, der tilhører et selskab, et investeringsinstitut med minimumsbeskatning eller en investeringsforening bortset fra en kontoførende investeringsforening, og som ikke tilfalder selskabet, instituttet eller investeringsforeningen.
 
