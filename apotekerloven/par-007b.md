@@ -1,3 +1,3 @@
-§ 7 b. En apoteker kan oprette og nedlægge medicinudleveringssteder inden for apotekets naturlige forsyningsområde. Apotekeren skal underrette Lægemiddelstyrelsen om oprettelse og nedlæggelse af medicinudleveringssteder.
+§ 7 b. En apoteker kan oprette og nedlægge medicinudleveringssteder. Apotekeren skal underrette Sundhedsstyrelsen om oprettelse og nedlæggelse af medicinudleveringssteder inden for en af Sundhedsstyrelsen fastsat frist.
 
-Stk. 2. Lægemiddelstyrelsen kan give påbud om oprettelse, flytning eller nedlæggelse af et medicinudleveringssted, hvis strukturmæssige eller lægemiddelforsyningsmæssige hensyn taler for det.
+Stk. 2. Sundhedsstyrelsen kan give påbud om oprettelse eller flytning af et medicinudleveringssted, hvis lægemiddelforsyningsmæssige hensyn taler for det.
