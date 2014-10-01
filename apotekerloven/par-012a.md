@@ -1,4 +1,4 @@
-§ 12 a. En apoteker, der ønsker at forhandle lægemidler til produktionsdyr til forbrugerne, skal give Lægemiddelstyrelsen meddelelse herom.
+§ 12 a. En apoteker, der ønsker at forhandle lægemidler til produktionsdyr til forbrugerne, skal give Sundhedsstyrelsen meddelelse herom.
 
 Stk. 2. En apoteker, der har givet meddelelse efter stk. 1, har pligt til:
 
@@ -16,4 +16,4 @@ Stk. 3. En apoteker, der har givet meddelelse efter stk. 1, skal i henhold til r
 
 Stk. 4. Hvis apotekeren dør, omfatter pligten i stk. 3, nr. 2, dennes bo.
 
-Stk. 5. Hvis Lægemiddelstyrelsen midlertidigt overtager driften af et apotek i medfør af § 19, kan styrelsen uanset stk. 3, nr. 2, på den afgående apotekers vegne og på dennes regning afvikle apotekets aktiviteter i forbindelse med forhandling af lægemidler til produktionsdyr.
+Stk. 5. Hvis Sundhedsstyrelsen midlertidigt overtager driften af et apotek i medfør af § 19, kan styrelsen uanset stk. 3, nr. 2, på den afgående apotekers vegne og på dennes regning afvikle apotekets aktiviteter i forbindelse med forhandling af lægemidler til produktionsdyr.
