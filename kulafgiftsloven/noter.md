@@ -1,3 +1,5 @@
-1) Bemærkninger om bestemmelser vedtaget siden den seneste lovbekendtgørelse, men som ikke længere gælder, er ikke medtaget i noterne.
+1) § 7 b er ændret ved § 3, nr. 13, i lov nr. 1564 af 21. december 2010. Ændringen er sat i kraft, for så vidt angår indsættelsen af § 7 b, stk. 1, 1. og 3.-7. pkt., stk. 2 og 4, jf. § 9 i bekendtgørelse nr. 998 af 25. oktober 2011.
 
-2) § 7, stk. 3, § 7 b og overskriften til bilag 4 ændres/indsættes med § 3, nr. 2-4, i lov nr. 722 af 25. juni 2010. Bestemmelserne sættes i kraft af skatteministeren; det er ikke sket endnu.
+2) § 7 b er ændret ved § 3, nr. 14, i lov nr. 1564 af 21. december 2010. Bestemmelsen sættes i kraft af skatteministeren; dette er ikke sket endnu.
+
+3) Bilag 6 er ændret ved § 5, nr. 3, i lov nr. 903 af 4. juli 2013. Bestemmelsen træder i kraft den 1. januar 2015.
