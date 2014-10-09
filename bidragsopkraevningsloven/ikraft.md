@@ -1,10 +1,10 @@
-Lov nr. 326 af 11. april 2012 indeholder nedenstående ikrafttrædelses- og overgangsbestemmelser. (Lovændringen vedrører §§ 2, 19, 23 a og 23 b. Lovændringen angår fordeling af myndighedsansvaret mellem kommunerne og Udbetaling Danmark m.v.)
+Lov nr. 326 af 11. april 2012 (Fordeling af myndighedsansvaret mellem kommunerne og Udbetaling Danmark m.v.) indeholder følgende ikrafttrædelsesbestemmelser:
 
 § 25
 
 Stk. 1. Loven træder i kraft den 1. oktober 2012, jf. dog stk. 2-4.
 
-Stk. 2-4. (Udeladt)
+Stk. 2-4. (Udelades)
 
 § 26
 
@@ -20,13 +20,7 @@ Stk. 5. Afgørelser efter denne lovs §§ 1-5, 9 og 13, som inden lovens ikraftt
 
 Stk. 6. Krav, som kommunen måtte have mod borgeren, eller krav, som borgeren måtte have mod en kommune efter lovens §§ 1-5, 9 og 13 ved lovens ikrafttræden for de respektive sagsområder, overgår til Udbetaling Danmark. Fordringer, for hvilke kommunen har påbegyndt opkrævning af tilbagebetalingskrav, forbliver dog i kommunen, medmindre fordringen opkræves ved modregning eller fradrages i en ydelse, der efter lovens ikrafttræden for de respektive sagsområder udbetales af Udbetaling Danmark, eller i tilfælde, hvor Udbetaling Danmark træffer en ny afgørelse, som vedrører samme fordring.
 
-Stk. 7. (Udeladt)
-
-Stk. 8. På sagsområder, hvor myndighedsansvaret overgår til Udbetaling Danmark efter denne lovs §§ 4, 5 og 9, videregiver Københavns Kommune senest den 1. august 2012 en elektronisk kopi af alle sager, hvori kommunen i perioden fra den 1. januar 2011 til den 1. marts 2012 har truffet endelig afgørelse. Udbetaling Danmark må alene bruge de pågældende sager i uddannelsesøjemed og kun i perioden fra den 1. august 2012 til den 30. september 2012.
-
-Stk. 9. (Udeladt)
-
-Stk. 10. (Udeladt)
+Stk. 7-10. (Udelades)
 
 § 27
 
@@ -36,10 +30,22 @@ Stk. 1. Efter lovens ikrafttræden påhviler ansvaret for opbevaring af arkivali
 
 2) Kommunalbestyrelsen i sager, hvor der fortsat sker udbetaling på sagsområder, der efter lovens §§ 1-5, 13 og 24 skal overføres til Udbetaling Danmark, og hvor kommunalbestyrelsen har truffet afgørelse om tilkendelse af en ydelse forud for det tidspunkt, hvor sagsområdet overgår til Udbetaling Danmark, og sager efter lovens § 9, hvor kommunalbestyrelsen har truffet afgørelse efter lov om en børne- og ungeydelse, jf. dog nr. 3.
 
-3) Udbetaling Danmark i sager efter lovens §§ 4 og 9, hvor kommunalbestyrelsen har truffet afgørelse for at opfylde internationale forpligtelser, og hvor der fortsat sker udbetaling.
+3) (Udelades)
 
 4) Udbetaling Danmark i alle øvrige sager på sagsområder, hvor myndighedsansvaret efter lovens §§ 1-5, 9, 13 og 24 overføres til Udbetaling Danmark, og som ikke er omfattet af nr. 1 eller 2.
 
 Stk. 2. Kommunen skal efter anmodning fra Udbetaling Danmark sende en kopi af de ønskede akter fra sager, der efter stk. 1, nr. 1 eller 2, opbevares i kommunen. Kommunen har i forbindelse med anmodninger om kopi af akter fra Udbetaling Danmark uden samtykke fra borgeren ret til at gennemgå og sortere en sag, som kommunen opbevarer for Udbetaling Danmark, med henblik på at kunne imødekomme Udbetaling Danmarks anmodning. Kommunen har desuden ret til at gennemgå og sortere en sag, som kommunen opbevarer for Udbetaling Danmark, hvis sagen indeholder oplysninger, der vedrører kommunens sagsområde, og hvis kommunen har et sagligt behov for oplysningerne.
 
-Stk. 3. Social- og integrationsministeren kan efter indstilling fra bestyrelsen for Udbetaling Danmark fastsætte regler om, at Udbetaling Danmark fra 2015 skal betale et gebyr til kommunen for at varetage opgaven efter stk. 2, 1. pkt., og regler om udfasning af kommunernes arkivforpligtelse over for Udbetaling Danmark fra 2018.
+Stk. 3. Ministeren for børn, ligestilling, integration og sociale forhold kan efter indstilling fra bestyrelsen for Udbetaling Danmark fastsætte regler om, at Udbetaling Danmark fra 2015 skal betale et gebyr til kommunen for at varetage opgaven efter stk. 2, 1. pkt., og regler om udfasning af kommunernes arkivforpligtelse over for Udbetaling Danmark fra 2018.
+
+Lov nr. 647 af 12. juni 2013 (Ændret organisering af statsforvaltningerne, regelforenklinger og omkostningsdækkende egenbetaling på det familieretlige område m.v.) indeholder følgende ikrafttrædelsesbestemmelser:
+
+§ 25
+
+Loven træder i kraft den 1. juli 2013.
+
+§ 26
+
+Stk. 1. Sager ved de fem statsforvaltninger, der ved lovens ikrafttræden ikke er færdigbehandlet, færdigbehandles af statsforvaltningen.
+
+Stk. 2-5. (Udelades)

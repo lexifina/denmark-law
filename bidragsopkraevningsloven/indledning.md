@@ -1,3 +1,3 @@
 Bekendtgørelse af lov om opkrævning af underholdsbidrag
 
-Herved bekendtgøres lov om opkrævning af underholdsbidrag, jf. lovbekendtgørelse nr. 137 af 17. februar 2009, med de ændringer, der følger af § 5 i lov nr. 326 af 11. april 2012.
+Herved bekendtgøres lov om opkrævning af underholdsbidrag, jf. lovbekendtgørelse nr. 275 af 12. marts 2013, med de ændringer, der følger af § 21 i lov nr. 647 af 12. juni 2013.
