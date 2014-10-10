@@ -1,4 +1,4 @@
-Lov nr. 523 af 6. juni 2007 indeholder nedenstående ikrafttrædelses- og overgangsbestemmelser. (Lovændringen vedrører § 18. Lovændringen angår ændringer som følge af en ny lov om forældelse af fordringer, ophævelse af købelovens reklamationsfrister ved visse køb m.v.)
+Lov nr. 523 af 6. juni 2007 (Ændringer som følge af en ny lov om forældelse af fordringer, ophævelse af købelovens reklamationsfrister ved visse køb m.v.) indeholder følgende ikrafttrædelsesbestemmelser:
 
 § 47
 
@@ -10,9 +10,9 @@ Stk. 1. Loven finder anvendelse også på tidligere stiftede fordringer, som ikk
 
 Stk. 2. Afbrydelse af forældelse, der har fundet sted før lovens ikrafttræden, har fortsat virkning som afbrydelse, selv om den ikke er sket på den efter lovens ikrafttræden foreskrevne måde.
 
-Stk. 3-8. (Udeladt).
+Stk. 3-8. (Udelades)
 
-Lov nr. 1609 af 22. december 2010 indeholder nedenstående ikrafttrædelses- og overgangsbestemmelser. (Lovændringen vedrører §§ 5 a og 10 a. Lovændringen angår optjeningsprincip for børnefamilieydelse og børnetilskud, forbedret kontrol og udvidet modregningsadgang ved udbetaling af børnefamilieydelse. )
+Lov nr. 1609 af 22. december 2010 (Optjeningsprincip for børnefamilieydelse og børnetilskud, forbedret kontrol og udvidet modregningsadgang ved udbetaling af børnefamilieydelse) indeholder følgende ikrafttrædelsesbestemmelse:
 
 § 5
 
@@ -22,13 +22,13 @@ Stk. 2. Det i § 1, nr. 1, indsatte § 2, nr. 7, i lov om en børnefamilieydelse
 
 Stk. 3. § 1, nr. 2 og 3, har virkning fra den 1. januar 2011.
 
-Lov nr. 326 af 11. april 2012 indeholder nedenstående ikrafttrædelses- og overgangsbestemmelser. (Lovændringen vedrører §§ 4, 5, 6, 8, 10, 10 b, 10 c, 11, 15, 18, 19, 22, 22 a, 24, 24 a og 24 b. Lovændringen angår fordeling af myndighedsansvaret mellem kommunerne og Udbetaling Danmark m.v.)
+Lov nr. 326 af 11. april 2012 (Fordeling af myndighedsansvaret mellem kommunerne og Udbetaling Danmark m.v.) indeholder følgende ikrafttrædelsesbestemmelser:
 
 § 25
 
 Stk. 1. Loven træder i kraft den 1. oktober 2012, jf. dog stk. 2-4.
 
-Stk. 2-4. (Udeladt).
+Stk. 2-4. (Udelades)
 
 § 26
 
@@ -44,11 +44,11 @@ Stk. 5. Afgørelser efter denne lovs §§ 1-5, 9 og 13, som inden lovens ikraftt
 
 Stk. 6. Krav, som kommunen måtte have mod borgeren, eller krav, som borgeren måtte have mod en kommune efter lovens §§ 1-5, 9 og 13 ved lovens ikrafttræden for de respektive sagsområder, overgår til Udbetaling Danmark. Fordringer, for hvilke kommunen har påbegyndt opkrævning af tilbagebetalingskrav, forbliver dog i kommunen, medmindre fordringen opkræves ved modregning eller fradrages i en ydelse, der efter lovens ikrafttræden for de respektive sagsområder udbetales af Udbetaling Danmark, eller i tilfælde, hvor Udbetaling Danmark træffer en ny afgørelse, som vedrører samme fordring.
 
-Stk. 7. (Udeladt).
+Stk. 7. (Udelades)
 
 Stk. 8. På sagsområder, hvor myndighedsansvaret overgår til Udbetaling Danmark efter denne lovs §§ 4, 5 og 9, videregiver Københavns Kommune senest den 1. august 2012 en elektronisk kopi af alle sager, hvori kommunen i perioden fra den 1. januar 2011 til den 1. marts 2012 har truffet endelig afgørelse. Udbetaling Danmark må alene bruge de pågældende sager i uddannelsesøjemed og kun i perioden fra den 1. august 2012 til den 30. september 2012.
 
-Stk. 9-10. (Udeladt).
+Stk. 9-10. (Udelades)
 
 § 27
 
@@ -64,4 +64,26 @@ Stk. 1. Efter lovens ikrafttræden påhviler ansvaret for opbevaring af arkivali
 
 Stk. 2. Kommunen skal efter anmodning fra Udbetaling Danmark sende en kopi af de ønskede akter fra sager, der efter stk. 1, nr. 1 eller 2, opbevares i kommunen. Kommunen har i forbindelse med anmodninger om kopi af akter fra Udbetaling Danmark uden samtykke fra borgeren ret til at gennemgå og sortere en sag, som kommunen opbevarer for Udbetaling Danmark, med henblik på at kunne imødekomme Udbetaling Danmarks anmodning. Kommunen har desuden ret til at gennemgå og sortere en sag, som kommunen opbevarer for Udbetaling Danmark, hvis sagen indeholder oplysninger, der vedrører kommunens sagsområde, og hvis kommunen har et sagligt behov for oplysningerne.
 
-Stk. 3. Social- og integrationsministeren kan efter indstilling fra bestyrelsen for Udbetaling Danmark fastsætte regler om, at Udbetaling Danmark fra 2015 skal betale et gebyr til kommunen for at varetage opgaven efter stk. 2, 1. pkt., og regler om udfasning af kommunernes arkivforpligtelse over for Udbetaling Danmark fra 2018.
+Stk. 3. Ministeren for børn, ligestilling, integration og sociale forhold kan efter indstilling fra bestyrelsen for Udbetaling Danmark fastsætte regler om, at Udbetaling Danmark fra 2015 skal betale et gebyr til kommunen for at varetage opgaven efter stk. 2, 1. pkt., og regler om udfasning af kommunernes arkivforpligtelse over for Udbetaling Danmark fra 2018.
+
+Lov nr. 1398 af 23. december 2012 (Særligt børnetilskud til selvvalgte eneforsørgere og tilpasning af optjeningsprincippet for ret til børne- og ungeydelse og børnetilskud) indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 3
+
+Stk. 1. Loven træder i kraft den 1. januar 2013, jf. dog stk. 2.
+
+Stk. 2. § 1, nr. 1-3, træder i kraft den 1. januar 2014.
+
+Lov nr. 894 af 4. juli 2013 (Reform af kontanthjælpssystemet, uddannelseshjælp for unge, aktivitetstillæg, gensidig forsørgelsespligt mellem samlevende, ændrede rådighedskrav og sanktioner m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 8
+
+Stk. 1. Loven træder i kraft den 1. januar 2014, jf. dog stk. 2, 3 og 5.
+
+Stk. 2. Beskæftigelsesministeren fastsætter tidspunktet for ikrafttrædelsen af § 1, nr. 27, og § 13 a, stk. 4, 2. og 3. pkt., i lov om aktiv socialpolitik som affattet ved denne lovs § 1, nr. 28, § 1, nr. 63, og § 98 b i lov om aktiv socialpolitik som affattet ved denne lovs § 1, nr. 105.
+
+Stk. 3. § 1, nr. 33, 35 og 51, træder i kraft den 1. oktober 2013 og har virkning fra den 1. januar 2014. For personer, der modtager kontanthjælp, finder de hidtil gældende regler anvendelse indtil den 31. december 2013.
+
+Stk. 4. Kommunen skal i perioden fra den 1. oktober til den 31. december 2013 træffe afgørelse om, hvorvidt en person, der ikke er fyldt 30 år den 1. januar 2014, og som modtager kontanthjælp i perioden fra den 1. oktober til og med den 31. december 2013, fra den 1. januar 2014 skal modtage uddannelseshjælp eller kontanthjælp, samt om, hvilken sats hjælpen skal ydes med, herunder om den pågældende har ret til særlig støtte, hvis personen fortsat opfylder betingelserne for at modtage hjælp den 1. januar 2014.
+
+Stk. 5. § 1, nr. 106, træder i kraft dagen efter bekendtgørelsen i Lovtidende og har virkning fra den 1. januar 2013.
