@@ -1,5 +1,5 @@
-Social- og Integrationsministeriet, den 23. august 2012
+Ministeriet for Børn, Ligestilling, Integration og Sociale Forhold, den 7. oktober 2014
 
-P.M.V. Jesper Zwisler
+P.M.V. Nina Eg Hansen
 
-/ Dorte Bech Vizard
+/ Lone Larsen
