@@ -4,13 +4,13 @@ Stk. 2. Udgifter til kunstnerisk udsmykning, der kan afskrives efter andre beste
 
 Stk. 3. Afskrivning efter stk. 1 kan alene ske for førstegangskøb af original billedkunst. I tilfælde af tvivl om, hvorvidt den kunstneriske udsmykning kan kvalificeres som kunst, indhenter told- og skatteforvaltningen en vurdering af den kunstneriske udsmykning fra Akademiraadet.
 
-Stk. 4. Udgifterne til kunsternisk udsmykning afskrives særskilt for den enkelte kunstneriske udsmykning.
+Stk. 4. Udgifterne til kunstnerisk udsmykning afskrives særskilt for den enkelte kunstneriske udsmykning.
 
 Stk. 5. Såfremt den kunstneriske udsmykning fjernes fra den bygning, den er indføjet i eller knytter sig til efter stk. 1, 2. pkt., sidestilles dette med salg efter stk. 9.
 
 Stk. 6. Afskrivninger kan ikke foretages i det indkomstår, hvor den kunstneriske udsmykning sælges, nedrives eller bortskaffes på anden vis. Ophører bygningen, den kunstneriske udsmykning er indføjet i eller knytter sig til efter stk. 1, 2. pkt., med udelukkende at være anvendt erhvervsmæssigt, bortfalder afskrivningsretten, fra og med det indkomstår, hvor den rent erhvervsmæssige benyttelse ophører.
 
-Stk. 7. Hvis der sker en skade på den kunstneriske udsmykning, der ikke kan udbedres ved normal vedligeholde, reguleres afskrivningen af den kunstneriske udsmykning efter reglerne i § 23.
+Stk. 7. Hvis der sker en skade på den kunstneriske udsmykning, der ikke kan udbedres ved normal vedligeholdelse, reguleres afskrivningen af den kunstneriske udsmykning efter reglerne i § 23.
 
 Stk. 8. Såfremt den skattepligtige ved en skade på den kunstneriske udsmykning har modtaget en erstatnings- eller forsikringssum og foretager genopførelse af den kunstneriske udsmykning anvendes reglerne i § 24, stk. 1-5.
 
