@@ -1,13 +1,13 @@
-§ 4 a. Et medlem af bestyrelsen og direktøren i Lønmodtagernes Dyrtidsfond skal have fyldestgørende erfaring til at udøve hvervet eller stillingen.
+§ 4 a. Et medlem af bestyrelsen eller direktøren i Lønmodtagernes Dyrtidsfond skal have fyldestgørende erfaring til at udøve sit hverv eller varetage sin stilling i fonden.
 
-Stk. 2. Et medlem af bestyrelsen og direktøren kan ikke bestride hvervet eller stillingen som henholdsvis bestyrelsesmedlem og direktør i Lønmodtagernes Dyrtidsfond, såfremt
+Stk. 2. Et medlem af bestyrelsen eller direktøren skal opfylde følgende:
 
-1) den pågældende pålægges strafansvar for overtrædelse af straffeloven, lov om Lønmodtagernes Dyrtidsfond eller den finansielle lovgivning og denne overtrædelse indebærer risiko for, at hvervet eller stillingen ikke varetages på betryggende vis,
+1) Må ikke være pålagt eller blive pålagt strafansvar for overtrædelse af denne lov, straffeloven, den finansielle lovgivning eller anden relevant lovgivning, hvis overtrædelsen indebærer risiko for, at vedkommende ikke kan varetage sit hverv eller sin stilling på betryggende måde.
 
-2) den pågældende har anmeldt betalingsstandsning, er under konkurs, har indgivet begæring om gældssanering eller der er indledt forhandlinger om tvangsakkord,
+2) Må ikke have indgivet begæring om rekonstruktionsbehandling, konkurs eller gældssanering eller være under rekonstruktionsbehandling, konkursbehandling eller gældssanering.
 
-3) den pågældendes økonomiske situation eller selskaber, den pågældende ejer, eller hvori den pågældende deltager i driften, har påført Lønmodtagernes Dyrtidsfond tab eller risiko for tab eller
+3) Må ikke på grund af sin økonomiske situation eller via et selskab, som vedkommende ejer, deltager i driften af eller har en væsentlig indflydelse på, have påført eller påføre Lønmodtagernes Dyrtidsfond tab eller risiko for tab.
 
-4) den pågældende har udvist en sådan adfærd, at der er grund til at antage, at den pågældende ikke vil varetage hvervet eller stillingen på forsvarlig måde.
+4) Må ikke have udvist eller udvise en adfærd, hvor der er grund til at antage, at vedkommende ikke vil varetage hvervet eller stillingen på forsvarlig måde. Ved vurderingen af, om et medlem af bestyrelsen eller direktionen udviser eller har udvist en uforsvarlig adfærd, skal der lægges vægt på hensynet til at opretholde tilliden til den finansielle sektor.
 
-Stk. 3. Medlemmer af bestyrelsen og direktøren har pligt til at give Finanstilsynet oplysninger om de i stk. 2 angivne forhold.
+Stk. 3. Medlemmer af bestyrelsen eller direktøren meddeler Finanstilsynet oplysninger om forhold nævnt i stk. 2 i forbindelse med deres tiltræden, og hvis forholdene efterfølgende ændres.
