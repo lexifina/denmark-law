@@ -1,13 +1,15 @@
-§ 23 a. Et medlem af bestyrelsen og direktøren i Arbejdsmarkedets Tillægspension skal have fyldestgørende erfaring til at udøve hvervet eller stillingen.
+§ 23 a. Et medlem af bestyrelsen eller direktøren i Arbejdsmarkedets
 
-Stk. 2. Et medlem af bestyrelsen og direktøren kan ikke bestride hvervet eller stillingen som henholdsvis bestyrelsesmedlem og direktør i Arbejdsmarkedets Tillægspension, såfremt
+Tillægspension skal have fyldestgørende erfaring til at udøve sit hverv eller varetage sin stilling.
 
-1) den pågældende er pålagt strafansvar for overtrædelse af straffeloven, lov om Arbejdsmarkedets Tillægspension eller den finansielle lovgivning og denne overtrædelse indebærer risiko for, at hvervet eller stillingen ikke varetages på betryggende vis,
+Stk. 2. Et medlem af bestyrelsen eller direktøren skal opfylde følgende:
 
-2) den pågældende har anmeldt betalingsstandsning, indgivet begæring om tvangsakkord, konkurs eller gældssanering, er i betalingsstandsning, under konkursbehandling, gældssanering eller tvangsakkord,
+1) Må ikke være pålagt eller blive pålagt strafansvar for overtrædelse af denne lov, straffeloven, den finansielle lovgivning eller anden relevant lovgivning, hvis overtrædelsen indebærer risiko for, at vedkommende ikke kan varetage sit hverv eller sin stilling på betryggende måde.
 
-3) den pågældendes økonomiske situation eller selskaber, den pågældende ejer, eller hvori den pågældende deltager i driften, har påført Arbejdsmarkedets Tillægspension tab eller risiko for tab eller
+2) Må ikke have indgivet begæring om rekonstruktionsbehandling, konkurs eller gældssanering eller være under rekonstruktionsbehandling, konkursbehandling eller gældssanering.
 
-4) den pågældende har udvist en sådan adfærd, at der er grund til at antage, at den pågældende ikke vil varetage hvervet eller stillingen på forsvarlig måde.
+3) Må ikke på grund af sin økonomiske situation eller via et selskab, som vedkommende ejer, deltager i driften af eller har en væsentlig indflydelse på, have påført eller påføre Arbejdsmarkedets Tillægspension tab eller risiko for tab.
 
-Stk. 3. Medlemmer af bestyrelsen og direktøren har pligt til at give Finanstilsynet oplysninger om de i stk. 2 angivne forhold.
+4) Må ikke have udvist eller udvise en adfærd, hvor der er grund til at antage, at vedkommende ikke vil varetage hvervet eller stillingen på forsvarlig måde. Ved vurderingen af, om et medlem af bestyrelsen eller direktionen udviser eller har udvist en uforsvarlig adfærd, skal der lægges vægt på hensynet til at opretholde tilliden til den finansielle sektor.
+
+Stk. 3. Medlemmerne af bestyrelsen og direktøren skal meddele Finanstilsynet oplysninger om forhold som nævnt i stk. 1 og 2 i forbindelse med deres indtræden i Arbejdsmarkedets Tillægspensions ledelse og om forhold som nævnt i stk. 2, hvis forholdene efterfølgende ændres.
