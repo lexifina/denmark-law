@@ -1,1 +1,1 @@
-§ 27a. (Ophævet).
+§ 27 a. (Ophævet)
