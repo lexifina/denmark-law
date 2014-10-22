@@ -1,3 +1,3 @@
 Bekendtgørelse af lov om tilbageholdelse af stofmisbrugere i behandling
 
-Herved bekendtgøres lov om tilbageholdelse af stofmisbrugere i behandling, jf. lovbekendtgørelse nr. 190 af 27. februar 2007, med de ændringer, der følger af § 2 i lov nr. 542 af 6. juni 2007.
+Herved bekendtgøres lov om tilbageholdelse af stofmisbrugere i behandling, jf. lovbekendtgørelse nr. 170 af 22. februar 2010, med de ændringer, der følger af § 8 i lov nr. 493 af 21. maj 2013.
