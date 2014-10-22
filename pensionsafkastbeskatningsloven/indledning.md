@@ -1,5 +1,3 @@
 Bekendtgørelse af pensionsafkastbeskatningsloven
 
-Herved bekendtgøres pensionsafkastbeskatningsloven, lov nr. 1535 af 19. december 2007, med de ændringer, der følger af lov nr. 221 af 8. april 2008, § 1 i lov nr. 1339 af 19. december 2008, § 22 i lov nr. 1344 af 19. december 2008, § 13 i lov nr. 462 af 12. juni 2009, § 4 i lov nr. 1263 af 16. december 2009, § 1 i lov nr. 1278 af 16. december 2009, § 8 i lov nr. 724 af 25. juni 2010 og § 1, nr. 1-30 og 32-35, i lov nr. 1561 af 21. december 2010.
-
-Den ændring, der følger af § 1, nr. 31 i lov nr. 1561 af 21. december 2010, har virkning fra og med den 1. juli 2011. Denne ændring er derfor ikke indarbejdet i lovteksten nedenfor, men det fremgår af noten, hvilken paragraf, der ændres ved denne lov.
+Herved bekendtgøres pensionsafkastbeskatningsloven, jf. lovbekendtgørelse nr. 170 af 22. februar 2011 med de ændringer, der følger af § 1, nr. 31, i lov nr. 1561 af 21. december 2010, § 3 i lov nr. 599 af 14. juni 2011, § 1 i lov nr. 1378 af 28. december 2011, § 2 i lov nr. 398 af 9. maj 2012, § 6 i lov nr. 922 af 18. september 2012, § 2 i lov nr. 1227 af 18. december 2012, § 15 i lov nr. 1354 af 21. december 2012, § 16 i lov nr. 1380 af 23. december 2012, § 7 i lov nr. 649 af 12. juni 2013 og § 1 i lov nr. 1500 af 18. december 2013.
