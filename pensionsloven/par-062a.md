@@ -1,1 +1,1 @@
-§ 62 a. (Ophævet).
+§ 62 a. (Ophævet)
