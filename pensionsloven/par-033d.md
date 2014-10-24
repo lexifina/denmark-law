@@ -6,4 +6,4 @@ Stk. 3. Uanset § 33 c, stk. 4, kan engangsbeløbet ved død før folkepensionsa
 
 Stk. 4. Udbetaling af pension sker efter reglerne for udbetaling af ATP Livslang Pension, jf. lov om Arbejdsmarkedets Tillægspension.
 
-Stk. 5. Social-, børne-og integrationsministeren kan efter indstilling fra bestyrelsen for Arbejdsmarkedets Tillægspension fastsætte regler om den supplerende arbejdsmarkedspension for førtidspensionister i Arbejdsmarkedets Tillægspension, herunder om indbetaling, udbetaling af et engangsbeløb ved dødsfald og erhvervelse af en livsvarig pensionsret i Arbejdsmarkedets Tillægspension.
+Stk. 5. Ministeren for børn, ligestilling, integration og sociale forhold kan efter indstilling fra bestyrelsen for Arbejdsmarkedets Tillægspension fastsætte regler om den supplerende arbejdsmarkedspension for førtidspensionister i Arbejdsmarkedets Tillægspension, herunder om indbetaling, udbetaling af et engangsbeløb ved dødsfald og erhvervelse af en livsvarig pensionsret i Arbejdsmarkedets Tillægspension.
