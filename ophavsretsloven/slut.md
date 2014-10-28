@@ -1,5 +1,5 @@
-Kulturministeriet, den 27. februar 2010
+Kulturministeriet, den 23. oktober 2014
 
-Per Stig Møller
+Marianne Jelved
 
 / Bente Skovgaard Kristensen
