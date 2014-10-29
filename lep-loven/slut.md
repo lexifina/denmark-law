@@ -1,5 +1,5 @@
-Ministeriet for Forskning, Innovation og Videregående Uddannelser, den 8. maj 2013
+Uddannelses- og Forskningsministeriet, den 23. oktober 2014
 
-Morten Østergaard
+Sofie Carsten Nielsen
 
-/ Kirsten Lippert
+/ Marianne Gjevert Petersen
