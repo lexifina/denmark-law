@@ -1,57 +1,21 @@
-Lov nr. 537 af 12. juni 2009 indeholder følgende ikrafttrædelsesbestemmelse:
+Lov nr. 623 af 12. juni 2013 (Konsekvensændringer som følge af lov om akkreditering af videregående uddannelsesinstitutioner) indeholder følgende ikrafttrædelsesbestemmelse:
 
-§ 8
+§ 5
 
-Loven træder i kraft den 1. juli 2009.
+Loven træder i kraft den 1. juli 2013.
 
-Lov nr. 590 af 26. juni 2009 indeholder følgende ikrafttrædelsesbestemmelse:
+Lov nr. 898 af 4. juli 2013 (Obligatorisk tilmelding til fag og prøver svarende til et fuldt studieår, afskaffelse af muligheden for at melde fra prøver, etablering af bedre rammer for merit ved studieophold på en anden institution eller studieskift og bedre overgange mellem bachelor- og kandidatuddannelser m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
 
-§ 8
+§ 6
 
-Loven træder i kraft den 1. juli 2009.
+Stk. 1. Loven træder i kraft den 15. juli 2013, jf. dog stk. 2.
 
-Lov nr. 140 af 9. februar 2010 indeholder følgende ikrafttrædelsesbestemmelse:
+Stk. 2-4. (Udelades)
 
-§ 16
+Lov nr. 750 af 25. juni 2014 (Initiativer for særlig talentfulde studerende) indeholder følgende ikrafttrædelsesbestemmelse:
 
-Loven træder i kraft den 1. september 2010.
+§ 7
 
-Lov nr. 641 af 14. juni 2010 indeholder følgende ikrafttrædelsesbestemmelse:
+Stk. 1. Loven træder i kraft den 1. juli 2014, jf. dog stk. 2.
 
-§ 9
-
-Stk. 1. Loven træder i kraft den 1. august 2010, jf. dog stk. 2.
-
-Stk. 2. (Udeladt)
-
-Stk. 3. (Udeladt)
-
-Lov nr. 1372 af 28. december 2011 indeholder følgende ikrafttrædelsesbestemmelse:
-
-§ 4
-
-Stk. 1. Loven træder i kraft den 1. januar 2012.
-
-Stk. 2. (Udeladt)
-
-Lov nr. 1373 af 28. december 2011 indeholder følgende ikrafttrædelsesbestemmelse:
-
-§ 16
-
-Stk. 1. Loven træder i kraft den 1. januar 2012.
-
-Stk. 2. (Udeladt)
-
-Stk. 3. (Udeladt)
-
-Stk. 4. (Udeladt)
-
-Lov nr. 1235 af 18. december 2012 indeholder følgende ikrafttrædelsesbestemmelse:
-
-§ 4
-
-Stk. 1. Loven træder i kraft den 1. juni 2013.
-
-Stk. 2. (Udeladt)
-
-Stk. 3. (Udeladt)
+Stk. 2. (Udelades)

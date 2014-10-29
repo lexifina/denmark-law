@@ -1,15 +1,7 @@
 1) Lovens korrekte titel er lov om erhvervsakademier for videregående uddannelser.
 
-2) Lovændringen vedrører kapitel 4 a.
+2) Lovændringen vedrører overskriften til kapitel 4, §§ 11-15, § 16, stk. 3 og 5, § 17, § 17 a, stk. 1 og 2, og § 39, stk. 6.
 
-3) Lovændringen vedrører§ 35, stk. 1, nr. 2, og stk. 2, og § 35, stk. 3.
+3) Lovændringen vedrører § 22, stk. 1, nr. 4, og § 23.
 
-4) Lovændringen vedrører§ 30.
-
-5) Lovændringen vedrører overskrift til kapitel 6 og § 24.
-
-6) Lovændringen vedrører§ 13, stk. 3 – 5.
-
-7) Lovændringen vedrører overskrift til kapitel 7 og § 31 a.
-
-8) Lovændringen vedrører § 26, stk. 1, § 26, stk. 3, og § 31, stk. 2 og 3.
+4) Lovændringen vedrører § 7 a og § 22, stk. 1.
