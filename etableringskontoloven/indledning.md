@@ -1,3 +1,3 @@
-Bekendtgørelse af lov om indskud på etableringskonto
+Bekendtgørelse af lov om indskud på etableringskonto og iværksætterkonto
 
-Herved bekendtgøres lov om indskud på etableringskonto, jf. lovbekendtgørelse nr. 951 af 12. oktober 2005, med de ændringer, der følger af § 4 i lov nr. 1414 af 21. december 2005, § 4 i lov nr. 514 af 7. juni 2006 og § 50 i lov nr. 538 af 8. juni 2006.
+Herved bekendtgøres lov om indskud på etableringskonto og iværksætterkonto, jf. lovbekendtgørelse nr. 1012 af 5. oktober 2006, med de ændringer, der følger af § 5 i lov nr. 1580 af 20. december 2006, § 12 i lov nr. 1587 af 20. december 2006, lov nr. 90 af 20. februar 2008, § 5 i lov nr. 521 af 17. juni 2008, § 1 i lov nr. 1343 af 19. december 2008, § 7 i lov nr. 462 af 12. juni 2009, § 15 i lov nr. 521 af 12. juni 2009, § 6 i lov nr. 525 af 12. juni 2009, § 6 i lov nr. 1278 af 16. december 2009, § 5 i lov nr. 724 af 25. juni 2010, § 1 i lov nr. 174 af 4. marts 2011, § 10 i lov nr. 221 af 21. marts 2011, § 5 i lov nr. 1380 af 28. december 2011, § 10 i lov nr. 118 af 7. februar 2012 og § 5 i lov nr. 1394 af 23. december 2012.
