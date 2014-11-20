@@ -1,55 +1,55 @@
-Lov nr. 366 af 18. maj 1994 (Ændring af straffeloven, retsplejeloven og offererstatningsloven (Bekæmpelse af vold)) indeholder følgende ikrafttrædelsesbestemmelser:
+Lov nr. 516 af 7. juni 2006 (Lov om ændring af lov om opkrævning og inddrivelse af visse fordringer og forskellige andre love) indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 13
+
+Stk. 1. Skatteministeren fastsætter tidspunktet for lovens ikrafttræden, jf. dog stk. 2.
+
+Stk. 2. § 12 træder i kraft den 1. juli 2006.
+
+Stk. 3. (Udelades)
+
+Lov nr. 711 af 25. juni 2010 (Lov om ændring af straffeloven, retsplejeloven og lov om erstatning fra staten til ofre for forbrydelser) indeholder følgende ikrafttrædelsesbestemmelse:
 
 § 4
 
-Stk. 1. Loven træder i kraft den 1. juni 1994.
+Loven træder i kraft den 1. juli 2010.
 
-Stk. 2. § 2, nr. 2 og 4, finder anvendelse i alle sager, som ikke er endeligt afgjort ved lovens ikrafttræden.
-
-Stk. 3. § 3 finder anvendelse på skader, der forvoldes ved handlinger begået efter lovens ikrafttræden.
-
-§ 5
-
-Lovens §§ 1 og 3 gælder ikke for Færøerne og § 3 ikke for Grønland, men kan ved kongelig anordning helt eller delvis sættes i kraft for disse landsdele med de afvigelser, som de særlige færøske og grønlandske forhold tilsiger.
-
-Lov nr. 980 af 17. december 1997 (Ændringer som følge af lov om social service, lov om aktiv socialpolitik og lov om retssikkerhed og administration på det sociale område) indeholder følgende ikrafttrædelsesbestemmelser:
-
-§ 42
-
-Stk. 1. Loven træder i kraft den 1. juli 1998, jf. dog stk. 2, 3 og 4.
-
-Stk. 2-5. (Udelades).
-
-§ 43
-
-Stk. 1. Loven gælder ikke for Færøerne og Grønland
-
-Stk. 2. (Udelades).
-
-Lov nr. 463 af 7. juni 2001 (Ændring af lov om erstatningsansvar, lov om erstatning fra staten til ofre for forbrydelser og lov om afgift af ansvarsforsikring for motorkøretøjer mv. (Revision af reglerne om erstatning for personskader m.v. samt nedsættelse af afgiften af ansvarsforsikringer for motorkøretøjer m.v.)) indeholder følgende ikrafttrædelsesbestemmelser:
-
-§ 4
-
-Stk. 1. Loven træder i kraft den 1. juli 2002. Lovens § 1, nr. 15, og § 2, nr. 2-4, træder dog i kraft den 1. januar 2002. Ved ikrafttrædelsen den 1. juli 2002 reguleres erstatnings- og godtgørelsesbeløbene i overensstemmelse med § 1, nr. 11, pr. 1. januar 2002.
-
-Stk. 2. Lovens §§ 1 og 2 finder anvendelse på erstatningsansvar for skader, der indtræder efter lovens ikrafttræden.
-
-Stk. 3-4. (Udelades).
-
-§ 5
-
-En forsikringstager kan ikke opsige en forsikringsaftale på grund af en forhøjelse af præmien, som alene er begrundet med den ændring af størrelsen af erstatning for personskade og tab af forsørger, der er en følge af denne lov.
-
-§ 6
-
-Loven gælder ikke for Færøerne og Grønland, men §§ 1, 2 og 5 kan ved kongelig anordning sættes i kraft for disse landsdele med de afvigelser, som de særlige færøske og grønlandske forhold tilsiger.
-
-Lov nr. 35 af 21. januar 2003 (Ændring af lov om erstatningsansvar og lov om erstatning fra staten til ofre for forbrydelser (Godtgørelse til efterladte ved dødsfald)) indeholder følgende ikrafttrædelsesbestemmelser:
+Lov nr. 412 af 9. maj 2011 (Lov om ændring af retsplejeloven og lov om erstatning fra staten til ofre for forbrydelser) indeholder følgende ikrafttrædelsesbestemmelse:
 
 § 3
 
-Loven træder i kraft dagen efter bekendtgørelsen i Lovtidende og finder anvendelse på erstatningsansvar for skader, der indtræder efter lovens ikrafttræden.
+Stk. 1. Loven træder i kraft den 1. juli 2011.
 
-§ 4
+Stk. 2. (Udelades)
 
-Loven gælder ikke for Færøerne og Grønland, men kan ved kongelig anordning sættes i kraft for disse landsdele med de afvigelser, som de særlige færøske og grønlandske forhold tilsiger.
+Stk. 3. Lovens § 2, nr. 2, finder anvendelse på skader, der forvoldes ved overtrædelser, der begås efter lovens ikrafttræden.
+
+Lov nr. 112 af 3. februar 2012 (Lov om tilhold, opholdsforbud og bortvisning) indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 25. Loven træder i kraft den 1. marts 2012.
+
+Stk. 2. (Udelades)
+
+Lov nr. 158 af 28. februar 2012 (Lov om ændring af straffeloven, retsplejeloven, lov om erstatning fra staten til ofre for forbrydelser og færdselsloven) indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 5
+
+Stk. 1. Loven træder i kraft dagen efter bekendtgørelsen i Lovtidende.
+
+Stk. 2. (Udelades)
+
+Lov nr. 325 af 11. april 2012 (Lov om ændring af retsplejeloven, lov om erstatning fra staten til ofre for forbrydelser, lov om retsafgifter og lov om Haagerbørnebeskyttelseskonventionen) indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 6
+
+Stk. 1. Loven træder i kraft den 1. maj 2012, jf. dog stk. 2.
+
+Stk. 2. Lovens § 1, nr. 5-7, 9, 25 og 26, § 3, nr. 2, og § 5 træder i kraft dagen efter bekendtgørelsen i Lovtidende.
+
+Stk. 3-6. (Udelades)
+
+Lov nr. 629 af 12. juni 2013 (Lov om ændring af retsplejeloven og lov om erstatning fra staten til ofre for forbrydelser) indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 3
+
+Loven træder i kraft den 1. juli 2013.
