@@ -1,10 +1,8 @@
-Givet på Christiansborg Slot, den 7. december 1988
+Justitsministeriet, den 21. november 2014
 
-Under Vor Kongelige Hånd og Segl
+Mette Frederiksen
 
-I Dronningens navn Frederik, Kronprins
-
-/Erik Ninn Hansen
+/ Thomas Klyver
 
 Bilag
 
@@ -20,7 +18,7 @@ som anser at vedtagelsen af ensartede regler, som regulerer aftaler om internati
 
 er blevet enige om følgende:
 
-## DEL 1
+## DEL I.
 
 KONVENTIONENS ANVENDELSESOMRÅDE OG ALMINDELIGE BESTEMMELSER
 
@@ -78,7 +76,7 @@ Artikel 6
 
 Parterne kan ved deres aftale udelukke anvendelsen af denne konvention, ligesom de, bortset fra reglerne i artikel 12, kan fravige eller ændre virkningen af en hvilken som helst af dens bestemmelser.
 
-## Kapitel 11
+## Kapitel II
 
 Almindelige bestemmelser
 
@@ -122,7 +120,7 @@ Artikel 13
 
 Ved anvendelsen af denne konvention omfatter udtrykket »skriftligt« også telegram og telex.
 
-## DEL 11
+## DEL II
 
 AFTALENS INDGÅELSE
 
@@ -266,9 +264,9 @@ Artikel 34
 
 Skal sælger overgive dokumenter vedrørende varen, er han forpligtet til at overgive dem på det tidspunkt, på det sted og i den form aftalen fastsætter. Har sælger overgivet dokumenter før det fastsatte tidspunkt, kan han indtil dette tidspunkt afhjælpe fejl og mangler i dokumenterne, såfremt udøvelsen af denne ret ikke medfører urimelig ulempe eller omkostning for køber. Køber bevarer dog sin ret til at kræve skadeserstatning efter bestemmelsen i denne konvention.
 
-## Afsnit 11
+## Afsnit II
 
-Varens kontraktmærssighed (mangler) og tredjemands krav
+Varens kontraktmæssighed (mangler) og tredjemands krav
 
 Artikel 35
 
@@ -418,7 +416,7 @@ Artikel 52
 
 2. Leverer sælger mere end aftalt, kan køber tage imod levering af den overskydende mængde eller afvise denne. Modtager køber den overskydende mængde eller en del af den, skal han betale den aftalte pris for det for meget leverede.
 
-## Kapitel IIII
+## Kapitel III
 
 Købers pligter
 

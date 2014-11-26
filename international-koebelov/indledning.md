@@ -1,3 +1,3 @@
-International købelov
+Bekendtgørelse af international købelov
 
-VI MARGRETHE DEN ANDEN, af Guds Nåde Danmarks Dronning, gør vitterligt: Folketinget har vedtaget og Vi ved Vort samtykke stadfæstet følgende lov:
+Herved bekendtgøres international købelov, lov nr. 733 af 7. december 1988, med den ændring, der følger af § 1 i lov nr. 1376 af 28. december 2011.
