@@ -1,0 +1,1 @@
+§ 2 g. Justitsministeren kan fastsætte regler om, at anmeldelser og ansøgninger, som efter denne lov eller bestemmelser udfærdiget i medfør heraf indgives til politiet, skal indgives ved anvendelse af den digitale løsning, som politiet anviser (digital selvbetjening).
