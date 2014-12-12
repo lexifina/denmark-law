@@ -36,28 +36,6 @@ Stk. 1. Lovens § 2, nr. 3 og 4, og §§ 3 og 9 træder i kraft den 1. januar 20
 
 Stk. 2. § 1 har virkning for sager om faderskab til børn, der fødes den 1. juli 2002 eller senere, samt for sager, der den 1. juli 2002 eller senere genoptages efter børnelovens § 22.
 
-Lov nr. 378 af 6. juni 2002 (Gennemførelse af FN-konventionen til bekæmpelse af finansiering af terrorisme, gennemførelse af FN’s Sikkerhedsråds resolution nr. 1373 (2001) samt øvrige initiativer til bekæmpelse af terrorisme m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
-
-§ 7
-
-Stk. 1. Loven træder i kraft dagen efter bekendtgørelsen i Lovtidende, jf. dog stk. 2 og 3. § 5, nr. 1-6, finder anvendelse på anmodninger om udlevering, der fremsættes efter lovens ikrafttræden.
-
-Stk. 2. (Udelades)
-
-Stk. 3. Justitsministeren fastsætter tidspunktet for ikrafttrædelsen af retsplejelovens § 786, stk. 4 og 6, som affattet ved denne lovs § 2, nr. 3.
-
-Stk. 4. (Udelades)
-
-Lov nr. 215 af 31. marts 2004 (Offentlighed i retsplejen) indeholder følgende ikrafttrædelsesbestemmelse:
-
-§ 8
-
-Stk. 1. Loven træder i kraft den 1. juli 2004.
-
-Stk. 2. Retsplejelovens § 41 b som affattet ved denne lovs § 1, nr. 15, og retsplejelovens § 1017 d som affattet ved denne lovs § 1, nr. 42, finder anvendelse på domme og kendelser, der er afsagt efter lovens ikrafttræden.
-
-Stk. 3. Retsplejelovens § 41 f, stk. 6, 1. og 3. pkt., som affattet ved denne lovs § 1, nr. 15, finder også anvendelse på dokumenter og udskrifter, der før lovens ikrafttræden er udleveret i medfør af den hidtil gældende bestemmelse i retsplejelovens § 41 a.
-
 Lov nr. 447 af 9. juni 2004 (Digital kommunikation i retsplejen, kendelser med begrænset sagsfremstilling, regler om vidneforvarede m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
 
 § 5
@@ -66,89 +44,31 @@ Stk. 1. Loven træder i kraft efter justitsministerens nærmere bestemmelse. Lov
 
 Stk. 2. (Udelades)
 
-Lov nr. 525 af 24. juni 2005 (Udmøntning af kommunalreformen på det familieretlige område), som ændret ved § 3 i lov nr. 483 af 7. juni 2006, indeholder følgende ikrafttrædelsesbestemmelse:
-
-§ 5
-
-Stk. 1. Loven træder i kraft den 1. januar 2007.
-
-Stk. 2. Retssager, der er under behandling ved lovens ikrafttræden, færdigbehandles efter de hidtil gældende regler.
-
-Stk. 3. (Udelades)
-
 Lov nr. 538 af 8. juni 2006 (Politi- og domstolsreform) indeholder følgende ikrafttrædelsesbestemmelser:
 
 § 105
 
 Stk. 1. Loven træder i kraft den 1. januar 2007, jf. dog stk. 2-22 og § 106.
 
-Stk. 2. Reglerne om retternes saglige og stedlige kompetence og om rettens sammensætning som affattet ved denne lovs § 1, nr. 3, 55, 58-60, 77, 79, 113, 115, 122 og 123, og §§ 4-6, 8, 29, 32-40, 46, 47, 75-77, 83, 84, 87-96, 98 og 102 finder anvendelse i borgerlige sager, der anlægges efter lovens ikrafttræden, eller som henvises til behandling ved byretten i medfør af stk. 8, og i straffesager, hvor der ved lovens ikrafttræden ikke er rejst tiltale i 1. instans, jf. dog stk. 6, 2. pkt.
-
-Stk. 3. Retsplejelovens kapitel 33 som affattet ved denne lovs § 1, nr. 86, finder anvendelse i sager, der anlægges efter lovens ikrafttræden, eller som henvises til behandling ved byretten i medfør af stk. 8.
-
-Stk. 4. Retsplejelovens §§ 370 og 390 som affattet henholdsvis ændret ved denne lovs § 1, nr. 90 og 100, finder anvendelse på aftaler om at udelukke anke, der er indgået efter lovens ikrafttræden.
-
-Stk. 5. Retsplejelovens kapitel 39 som affattet ved denne lovs § 1, nr. 102, finder anvendelse i sager, der anlægges efter den 1. januar 2008.
-
-Stk. 6. Retsplejelovens fjerde bog, tredje afsnit, og kapitel 82 og 83 som affattet ved denne lovs § 1, nr. 132 og 133, finder anvendelse i straffesager, hvor der ved lovens ikrafttræden ikke er rejst tiltale i 1. instans, eller som genoptages efter lovens ikrafttræden. Sager, der i medfør af retsplejelovens § 686, stk. 4 og 5, som affattet ved denne lovs § 1, nr. 113, behandles under medvirken af nævninger, og hvor tiltale i 1. instans rejses inden den 1. januar 2008, eller som genoptages inden denne dato, behandles dog efter de hidtil gældende regler.
+Stk. 2-6. (Udelades)
 
 Stk. 7. Genoptages en sag, der er behandlet efter de hidtil gældende regler under medvirken af nævninger, efter den 1. januar 2008, finder en fuldstændig ny hovedforhandling sted for byretten. Det afgøres efter retsplejelovens §§ 686 og 687 som affattet ved denne lovs § 1, nr. 113, om lægdommere skal medvirke ved byrettens behandling af sagen.
 
-Stk. 8. Borgerlige sager i 1. instans, der ved lovens ikrafttræden verserer ved landsret, kan efter høring af parterne henvises til fortsat behandling ved byret, såfremt sagen
-
-1) er anlagt efter den 1. juli 2006,
-
-2) er anlagt ved landsretten eller er henvist til landsretten i medfør af den hidtil gældende regel i retsplejelovens § 227, stk. 1,
-
-3) ikke er af principiel karakter og
-
-4) må antages at kunne afgøres væsentligt hurtigere ved byretten.
-
-Stk. 9. Nævninge- og domsmandslister for hver landsretsnævningekreds og hver byretskreds i landsretsnævningekredsen, jf. retsplejelovens §§ 68 og 74 som affattet henholdsvis ændret ved denne lovs § 1, nr. 35, 37 og 38, dannes første gang for et tidsrum af 1 år regnet fra den 1. januar 2007.
+Stk. 8-9. (Udelades)
 
 Stk. 10. Advokater, der ved en byret er antaget til at udføre sager for parter, der har fri proces, jf. retsplejelovens § 336, eller til at beskikkes som offentlig forsvarer, jf. retsplejelovens § 733, anses fra lovens ikrafttræden som antaget ved byretten i den retskreds, hvori den hidtidige retskreds indgår. Advokater, der er antaget ved retten i Tårnby, anses dog ikke for antaget ved Københavns Byret. Såfremt den hidtidige retskreds deles mellem flere retskredse, anses advokaten for antaget ved retten i den retskreds, i hvilken advokaten har kontor, eller hvortil advokaten i mangel heraf har sin nærmeste tilknytning. Advokater, der er antaget ved Københavns Byret, anses dog som antaget ved både Københavns Byret og retten på Frederiksberg. I tvivlstilfælde afgør justitsministeren, ved hvilken ret en advokat skal anses for antaget.
 
-Stk. 11. Reglerne i stk. 10, 1. og 3.-5. pkt., finder tilsvarende anvendelse på autoriserede bobestyrere, jf. dødsboskiftelovens § 11, og auktionsledere, jf. § 3 i lov om offentlig auktion ved auktionsledere.
-
-Stk. 12. Sager, der ved lovens ikrafttræden verserer ved en byret, overgår til behandling ved byretten i den retskreds, hvori den hidtidige retskreds indgår. Såfremt den hidtidige retskreds deles mellem flere retskredse, overgår sagen til behandling ved den stedligt kompetente byret.
-
-Stk. 13. Genoptagelse og fornyet behandling efter hjemvisning sker ved byretten i den retskreds, hvortil det hidtidige hovedtingsted for den ret, der har truffet afgørelse i sagen, nu hører.
-
-Stk. 14. Nedsættelsen af antallet af landsdommere ved Østre Landsret, jf. retsplejelovens § 5, stk. 2, som affattet ved denne lovs § 1, nr. 3, sker ved de tre første tilfælde af ledighed i en fast stilling efter lovens ikrafttræden.
+Stk. 11-14. (Udelades)
 
 Stk. 15. Retsplejelovens regler om fuldmægtige ved domstolene finder tilsvarende anvendelse med hensyn til justitssekretærer, der er udnævnt før lovens ikrafttræden.
 
-Stk. 16. Med virkning fra dagen efter lovens bekendtgørelse i Lovtidende og indtil den 1. januar 2007 kan der ske midlertidig beskikkelse efter retsplejelovens § 44 a i tilfælde af ledighed i en stilling som dommer ved en af de retter, der er omfattet af retsplejelovens § 17, stk. 4 (bortset fra retten i Rønne), eller i en stilling som administrerende byretsdommer.
-
-Stk. 17. Præsidenterne for retterne i Hjørring, Randers, Viborg, Holstebro, Herning, Horsens, Kolding, Esbjerg, Sønderborg, Svendborg, Nykøbing Falster, Næstved, Holbæk, Hillerød, Helsingør, Lyngby og Glostrup og retten på Frederiksberg kan udnævnes indtil 6 måneder før lovens ikrafttræden.
-
-Stk. 18. Politidirektørerne for de i § 109 nævnte politikredse kan udnævnes indtil 6 måneder før lovens ikrafttræden.
-
-Stk. 19. En forsikringstager kan ikke opsige en forsikringsaftale på grund af en ændring af forsikringsvilkårene, som alene er begrundet med indførelsen af regler om en småsagsproces, jf. retsplejelovens kapitel 39 som affattet ved denne lovs § 1, nr. 102, eller med den ændring af størrelsen af sagsomkostningerne, der er en følge af denne lov.
-
-Stk. 20. Lovens § 1, nr. 32, og § 104, nr. 1, træder i kraft den 1. juli 2006.
-
-Stk. 21. Første gang der beskikkes medlemmer til Procesbevillingsnævnet i medfør af retsplejelovens § 23, stk. 2, som affattet ved § 1, nr. 3, i lov nr. 554 af 24. juni 2005, sker beskikkelsen af landsdommeren og dennes suppleant eller suppleanter for en periode på 2 år og 6 måneder. Dette medlem og dets suppleant eller suppleanter har ret til genbeskikkelse for yderligere 2 år.
-
-Stk. 22. Arresthusene uden for København bestyres indtil den 1. januar 2008 af politidirektørerne.
+Stk. 16-22. (Udelades)
 
 § 106
 
-Stk. 1. Domstolsstyrelsen fastsætter tidspunkterne for ansættelsen af de yderligere dommere ved byretterne i medfør af retsplejelovens § 9, stk. 13, som affattet ved denne lovs § 1, nr. 3. De yderligere dommere ansættes dog senest den 1. januar 2011. Indtil Tinglysningsretten har overtaget tinglysning i bilbogen, andelsboligbogen og personbogen fra retten i Aarhus, kan der højst udnævnes yderligere 3 dommere ved retten i Aarhus i henhold til retsplejelovens § 9, stk. 13, som affattet ved denne lovs § 1, nr. 3.
+Stk. 1-2. (Udelades)
 
-Stk. 2. Tinglysningsretten overtager tinglysningen fra byretterne efter Domstolsstyrelsens nærmere bestemmelse. Indtil Tinglysningsretten har overtaget tinglysningen fra byretterne, sker tinglysning ved de byretter, som Domstolsstyrelsen bestemmer. Byretternes afgørelser vedrørende tinglysning kan kæres til landsretten, og retsplejelovens § 19, stk. 4, som affattet ved denne lovs § 1, nr. 3, finder tilsvarende anvendelse ved byretterne.
-
-Stk. 3. Lovens § 1, nr. 61, 64, 66, 67, 68 og 130, og retsplejelovens § 831, stk. 8, og § 854 som affattet ved denne lovs § 1, nr. 132, træder i kraft efter justitsministerens nærmere bestemmelse. Retsplejelovens § 353, stk. 6, § 365, stk. 4 og 5, § 378, stk. 3, § 386 a, § 398, stk. 2, 3. pkt., og § 506 som affattet ved denne lovs § 1, nr. 86, 87, 92, 97, 101 og 107, finder anvendelse på telekommunikation med billede efter justitsministerens nærmere bestemmelse.
-
-Lov nr. 181 af 28. februar 2007 (Gruppesøgsmål m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
-
-§ 8
-
-Stk. 1. Loven træder i kraft den 1. januar 2008.
-
-Stk. 2. Retsplejelovens kapitel 23 a som affattet ved denne lovs § 1, nr. 10, finder anvendelse i sager, der anlægges efter lovens ikrafttræden.
-
-Stk. 3. (Udelades)
+Stk. 3. Lovens § 1, nr. 61, 64, 66, 67, 68 og 130, og retsplejelovens § 831, stk. 8, og § 854 som affattet ved denne lovs § 1, nr. 132, træder i kraft efter justitsministerens nærmere bestemmelse. (Udelades)
 
 Lov nr. 520 af 6. juni 2007 (Revision af regler om advokaters virksomhed) indeholder følgende ikrafttrædelsesbestemmelser:
 
@@ -174,20 +94,6 @@ Stk. 6. Klager over vederlag, som en advokat eller et advokatselskab har forlang
 
 Stk. 7. Ændringen af retsplejelovens § 143, stk. 1, som affattet ved lovforslagets § 1, nr. 20, medfører ikke ophørsbeskatning efter fondsbeskatningslovens § 2, stk. 1, jf. selskabsskattelovens § 5, stk. 4.
 
-Lov nr. 523 af 6. juni 2007 (Ændringer som følge af en ny lov om forældelse af fordringer, ophævelse af købelovens reklamationsfrister ved visse køb m.v.) indeholder følgende ikrafttrædelsesbestemmelser:
-
-§ 47
-
-Loven træder i kraft den 1. januar 2008.
-
-§ 48
-
-Stk. 1. Loven finder anvendelse også på tidligere stiftede fordringer, som ikke inden ikrafttrædelsesdagen er forældet efter de hidtil gældende regler. Forældelse indtræder dog tidligst den 1. januar 2011, medmindre fordringen inden dette tidspunkt ville være forældet såvel efter de hidtil gældende bestemmelser som efter de bestemmelser, der gælder efter lovens ikrafttræden, jf. dog stk. 7. I det sidstnævnte tilfælde anvendes det seneste tidspunkt for forældelsens indtræden.
-
-Stk. 2. Afbrydelse af forældelse, der har fundet sted før lovens ikrafttræden, har fortsat virkning som afbrydelse, selv om den ikke er sket på den efter lovens ikrafttræden foreskrevne måde.
-
-Stk. 3-8. (Udelades)
-
 Lov nr. 479 af 17. juni 2008 (Gennemførelse af Prümafgørelsen om udveksling af oplysninger om dna-profiler, fingeraftryk og køretøjer m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
 
 § 6
@@ -195,14 +101,6 @@ Lov nr. 479 af 17. juni 2008 (Gennemførelse af Prümafgørelsen om udveksling a
 Stk. 1. Justitsministeren fastsætter tidspunktet for lovens ikrafttræden, jf. dog stk. 2, og kan herunder fastsætte, at lovens §§ 1-3 og 5 træder i kraft på forskellige tidspunkter.
 
 Stk. 2. (Udelades)
-
-Lov nr. 495 af 12. juni 2009 (Dommeres fremtræden i retsmøder) indeholder følgende ikrafttrædelsesbestemmelse:
-
-§ 2
-
-Stk. 1. Loven træder i kraft den 1. juli 2009, jf. dog stk. 2.
-
-Stk. 2. Justitsministeren fastsætter tidspunktet for ikrafttræden af retsplejelovens § 56 a som affattet ved denne lovs § 1, nr. 1.
 
 Lov nr. 505 af 12. juni 2009 (Behandling af værgemålssager, ajourføring af regler om advokaters virksomhed, digital-, tele- og videokommunikation, afskaffelse af hæftestraffen m.v.) indeholder følgende ikrafttrædelsesbestemmelser:
 
@@ -218,14 +116,6 @@ Stk. 3. (Udelades)
 
 (Udelades)
 
-Lov nr. 73 af 26. januar 2010 (Omkostningsdækning i forbindelse med forbrugersager ved domstolene) indeholder følgende ikrafttrædelsesbestemmelse:
-
-§ 3
-
-Stk. 1. Loven træder i kraft den 1. februar 2010.
-
-Stk. 2. Loven finder anvendelse på sager, hvor klagen til Forbrugerklagenævnet eller et godkendt, privat klage- eller ankenævn er indgivet den 1. januar 2010 eller senere.
-
 Lov nr. 404 af 21. april 2010 (Ny politiklageordning m.v.) indeholder følgende ikrafttrædelsesbestemmelser:
 
 § 4
@@ -234,7 +124,7 @@ Stk. 1. Lovens § 1, nr. 4-6, og §§ 2 og 3 træder i kraft den 1. juli 2010.
 
 Stk. 2. Lovens § 1, nr. 1-3 og 7-9, træder i kraft den 1. januar 2012.
 
-Stk. 3. Medlemmerne af Politiklagerådet kan beskikkes med virkning fra den 1. juli 2011. Direktøren for Politiklagemyndigheden kan udnævnes med virkning fra den 1. juli 2011. Direktøren for Politiklagemyndigheden kan med virkning fra den 1. juli 2011 ansætte personale i Politiklagemyndigheden.
+Stk. 3. (Udelades)
 
 § 5
 
@@ -255,14 +145,6 @@ Lov nr. 536 af 26. maj 2010 (Tredjeinstansbevilling til en del af en sag) indeho
 Stk. 1. Loven træder i kraft den 1. juli 2010.
 
 Stk. 2. Loven finder anvendelse, når ansøgning om tredjeinstansbevilling indgives til Procesbevillingsnævnet efter lovens ikrafttræden.
-
-Lov nr. 652 af 15. juni 2010 (Gengivelse af forklaringer i straffesager og justering af landsdommernormering) indeholder følgende ikrafttrædelsesbestemmelse:
-
-§ 3
-
-Stk. 1. Loven træder i kraft den 1. juli 2010.
-
-Stk. 2. Lydoptagelser foretaget i medfør af retsplejelovens § 33 a slettes 1 år efter sagens endelige afgørelse.
 
 Lov nr. 715 af 25. juni 2010 (Udveksling af oplysninger om dna-profiler, fingeraftryk og køretøjer med stater uden for Den Europæiske Union) indeholder følgende ikrafttrædelsesbestemmelse:
 
@@ -294,14 +176,6 @@ Stk. 9. Tinglysningslovens § 47 f, stk. 4, i den hidtil gældende affattelse fi
 
 Stk. 10. Straffelovens § 283, stk. 1, nr. 2, § 300, nr. 3, og § 304, stk. 2, som affattet ved denne lovs § 11, nr. 1, 3 og 4, finder tilsvarende anvendelse på forhandling om tvangsakkord.
 
-Lov nr. 1552 af 21. december 2010 (Sporing af skjult udbytte og andre aktiviteter, forældelse af konfiskationskrav, hemmelig beslaglæggelse m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
-
-§ 3
-
-Stk. 1. Loven træder i kraft den 1. januar 2011.
-
-Stk. 2. Den i § 1 nævnte bestemmelse i straffelovens § 97 a, stk. 1, gælder også for lovovertrædelser, der er begået, og retsfølger, der er pålagt før lovens ikrafttræden. Bestemmelsen finder dog ikke anvendelse i tilfælde, hvor forældelse efter de hidtil gældende regler er indtrådt før lovens ikrafttræden.
-
 Lov nr. 292 af 11. april 2011 (Udvidet adgang til at anvende anonyme vidner) indeholder følgende ikrafttrædelsesbestemmelse:
 
 § 2
@@ -310,17 +184,11 @@ Stk. 1. Loven træder i kraft den 1. maj 2011.
 
 Stk. 2. Loven finder anvendelse i sager, som ikke er endeligt afgjort ved lovens ikrafttræden.
 
-Lov nr. 411 af 9. maj 2011 (Forenkling af bødesagsprocessen) indeholder følgende ikrafttrædelsesbestemmelse:
-
-§ 2
-
-Loven træder i kraft den 1. september 2011.
-
 Lov nr. 412 af 9. maj 2011 (Underretning ved udgang og løsladelse m.v. og udvidelse af fristen for politianmeldelse ved erstatning fra staten til ofre for forbrydelser) indeholder følgende ikrafttrædelsesbestemmelse:
 
 § 3
 
-Stk. 1. Loven træder i kraft den 1. juli 2011
+Stk. 1. Loven træder i kraft den 1. juli 2011.
 
 Stk. 2. Lovens § 1 finder anvendelse på overtrædelser, der begås efter lovens ikrafttræden.
 
@@ -336,18 +204,6 @@ Stk. 2. Lov om skifte af fællesbo m.v., jf. lovbekendtgørelse nr. 725 af 23. o
 
 Stk. 2. Er der indgivet anmodning om separation eller skilsmisse til statsforvaltningen eller anlagt sag om ægteskabets omstødelse før lovens ikrafttræden, anvendes de hidtil gældende regler i stedet for §§ 50, 51 og 67, og § 42 i lov om ægteskabs indgåelse og opløsning anvendes i den hidtil gældende affattelse.
 
-Lov nr. 614 af 14. juni 2011 (Forhøjelse af beløbsgrænse for den forenklede inkassoproces m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
-
-§ 3
-
-Loven træder i kraft den 1. oktober 2011.
-
-Lov nr. 112 af 3. februar 2012 om tilhold, opholdsforbud og bortvisning indeholder følgende ikrafttrædelsesbestemmelse:
-
-§ 25. Loven træder i kraft den 1. marts 2012.
-
-Stk. 2. (Udelades)
-
 Lov nr. 156 af 28. februar 2012 (Fordeling af opgaver mellem politikredsene og statsadvokaturerne m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
 
 § 2
@@ -355,14 +211,6 @@ Lov nr. 156 af 28. februar 2012 (Fordeling af opgaver mellem politikredsene og s
 Stk. 1. Justitsministeren fastsætter tidspunktet for lovens ikrafttræden.
 
 Stk. 2. Sager, der behandles ved byretten under medvirken af nævninger eller under medvirken af domsmænd som følge af tiltaltes beslutning efter § 687, og hvor der inden lovens ikrafttræden er rejst tiltale, udføres af statsadvokaterne.
-
-Lov nr. 158 af 28. februar 2012 (Forhøjelse af den kriminelle lavalder) indeholder følgende ikrafttrædelsesbestemmelse:
-
-§ 5
-
-Stk. 1. Loven træder i kraft dagen efter bekendtgørelsen i Lovtidende.
-
-Stk. 2. Hvor det ved straffens fastsættelse skal indgå som en skærpende omstændighed, at gerningsmanden tidligere er straffet af betydning for sagen, kommer afgørelser, der er truffet i forhold til personer, for handlinger foretaget, inden de pågældende var fyldt 15 år, ikke i betragtning.
 
 Lov nr. 325 af 11. april 2012 (Adgang til, at en dommer m.fl. kan færdigbehandle sager, der er påbegyndt, før den pågældende skal fratræde på grund af alder, visse ændringer af reglerne om behandling af sager om mindre krav, udelukkelse af sigtedes adgang til at være til stede under indenretlige videoafhøringer af børn m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
 
@@ -442,11 +290,9 @@ Stk. 1. Justitsministeren fastsætter tidspunktet for lovens ikrafttræden.
 
 Stk. 2-3. (Udelades)
 
-Lov nr. 604 af 12. juni 2013 indeholder følgende ikrafttrædelsesbestemmelse:
+Lov nr. 604 af 12. juni 2013 om Politiets Efterretningstjeneste (PET) indeholder følgende ikrafttrædelsesbestemmelse:
 
-§ 23
-
-Loven træder i kraft den 1. januar 2014, jf. dog stk. 2.
+§ 23. Loven træder i kraft den 1. januar 2014, jf. dog stk. 2.
 
 Stk. 2. Medlemmerne af Tilsynet med Efterretningstjenesterne kan beskikkes med virkning fra den 1. september 2013. Tilsynet med Efterretningstjenesterne kan antage sekretariatsbistand, jf. § 16, stk. 4, når tilsynets medlemmer er udpeget.
 
@@ -511,3 +357,57 @@ Loven træder i kraft den 1. december 2013, jf. dog § 9.
 § 9
 
 Stk. 1-5. (Udelades)
+
+Lov nr. 1460 af 17. december 2013 (Ændringer som følge af forslag til ny forbrugeraftalelov m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 7
+
+Stk. 1. §§ 1-3, § 4, nr. 4, og §§ 5 og 6 træder i kraft den 13. juni 2014.
+
+Stk. 2. (Udelades)
+
+Stk. 3. Loven finder ikke anvendelse på forbrugeraftaler indgået før lovens ikrafttræden. For sådanne aftaler finder de hidtil gældende regler anvendelse.
+
+Lov nr. 1621 af 26. december 2013 (Sikkerhed i retssale) indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 2
+
+Justitsministeren fastsætter tidspunktet for lovens ikrafttræden og kan herunder fastsætte, at lovens § 1 træder i kraft på forskellige tidspunkter.
+
+Lov nr. 84 af 28. januar 2014 (Sagstilgangen til Højesteret m.v.) indeholder følgende ikrafttrædelsesbestemmelse.
+
+§ 5
+
+Stk. 1. Loven træder i kraft den 1. februar 2014.
+
+Stk. 2. Loven finder alene anvendelse på afgørelser, der træffes efter lovens ikrafttræden. For afgørelser truffet før lovens ikrafttræden finder de hidtil gældende regler anvendelse.
+
+Stk. 3. Reglerne om retternes saglige kompetence som ændret ved denne lovs § 1, nr. 3-11, finder anvendelse i sager, der anlægges efter lovens ikrafttræden.
+
+Lov nr. 551 af 2. juni 2014 om en fælles patentdomstol m.v. indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 3. Erhvervs- og vækstministeren fastsætter tidspunktet for lovens ikrafttræden.
+
+Stk. 2. Sager, som på tidspunktet for lovens ikrafttræden er under behandling af en dansk domstol, færdigbehandles af vedkommende danske domstol.
+
+Stk. 3. Retsplejelovens § 225 a, stk. 2, som affattet ved denne lovs § 4, nr. 2, har virkning i 7 år fra ikrafttræden af aftalen.
+
+Stk. 4. Erhvervs- og vækstministeren kan efter forhandling med justitsministeren forlænge perioden nævnt i stk. 3 med op til 7 år.
+
+Lov nr. 737 af 5. juni 2014 (Revision af reglerne om behandling af civile sager og syn og skøn, forhøjelse af beløbsgrænse for anke, indførelse af deltidsordning for dommere m.v., medieannoncering af tvangsauktioner, tvangsfuldbyrdelse af digitale lånedokumenter, skriftlig behandling af anke i straffesager med samstemmende påstande m.v.) indeholder følgende ikrafttrædelsesbestemmelser:
+
+§ 12
+
+Stk. 1. Loven træder i kraft den 1. juli 2014, jf. dog stk. 2.
+
+Stk. 2. Lovens § 1, nr. 18, 31 og 79-81, og § 3, nr. 1, træder i kraft den 1. januar 2015.
+
+Stk. 3. Lovens § 1, nr. 29, 54-66, 68-72, 74, 75 og 82-86, § 3, nr. 2, § 5 og § 11 finder alene anvendelse på afgørelser, der træffes af retten efter lovens ikrafttræden. For afgørelser truffet af retten før lovens ikrafttræden finder de hidtil gældende regler anvendelse.
+
+Stk. 4. (Udelades)
+
+Lov nr. 739 af 25. juni 2014 (Reorganisering af kriminalforsorgen, herunder begrænsning af klageadgangen) indeholder følgende ikrafttrædelsesbestemmelse.
+
+§ 5
+
+Justitsministeren fastsætter tidspunktet for lovens ikrafttræden.
