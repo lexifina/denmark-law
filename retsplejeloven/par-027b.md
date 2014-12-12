@@ -1,0 +1,1 @@
+§ 27 b. Domstolsstyrelsen etablerer en eller flere retsbygninger med særligt sikrede retssale, hvor landsretterne og byretterne kan sættes i medfør af § 8, stk. 4 og 6, og § 13, stk. 3 og 5, når sikkerhedsmæssige grunde tilsiger det.
