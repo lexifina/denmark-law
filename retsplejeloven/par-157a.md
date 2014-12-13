@@ -1,4 +1,4 @@
-§ 157 a. Brevforkyndelse for selskaber, foreninger, fonde og boer m.v. (juridiske personer) kan ske for et direktionsmedlem, et bestyrelsesmedlem eller en anden, som har ansvar for den juridiske persons anliggender, på den juridiske persons postadresse. Forkyndelse kan endvidere ske for den juridiske persons ansatte på den juridiske persons postadresse.
+§ 157 a. Brevforkyndelse, digital forkyndelse og forenklet digital forkyndelse for selskaber, foreninger, fonde og boer m.v. (juridiske personer) kan ske for et direktionsmedlem, et bestyrelsesmedlem eller en anden, som har ansvar for den juridiske persons anliggender, på den juridiske persons postadresse eller digitale adresse. Forkyndelse kan endvidere ske for den juridiske persons ansatte på den juridiske persons postadresse eller digitale adresse.
 
 Stk. 2. For postforkyndelse og stævningsmandsforkyndelse for selskaber, foreninger, fonde og boer m.v. (juridiske personer) gælder følgende regler:
 
