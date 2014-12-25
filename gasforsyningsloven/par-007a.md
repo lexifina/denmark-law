@@ -1,4 +1,4 @@
-§ 7 a. Klima-, energi- og bygningsministeren fastsætter regler med henblik på at forpligte naturgasleverandører og distributionsselskaber til at sikre en række grundlæggende forbrugerrettigheder i forbindelse med aftaler mellem forbrugere og disse virksomheder.
+§ 7 a. Energi-, forsynings- og klimaministeren fastsætter regler med henblik på at forpligte naturgasleverandører og distributionsselskaber til at sikre en række grundlæggende forbrugerrettigheder i forbindelse med aftaler mellem forbrugere og disse virksomheder.
 
 Stk. 2. Regler efter stk. 1 kan bl.a. omfatte bestemmelser om følgende:
 
