@@ -6,7 +6,7 @@ Stk. 2. Beskæftigelsestilskuddet består af:
 
 2) Et merudgiftsbehov, der for kommunerne under et beregnes som forskellen mellem kommunernes grundtilskud og de skønnede kommunale nettoudgifter for tilskudsåret. Merudgiftsbehovet fordeles på kommunerne i forhold til ledigheden i året 2 år før tilskudsåret.
 
-Stk. 3. Beskæftigelsestilskuddet omfatter kommunernes nettoudgifter til arbejdsløshedsdagpenge, uddannelsesydelse, løntilskud til arbejdsgivere, der ansætter forsikrede ledige i løntilskudsjob, personlig assistance til handicappede, befordringsgodtgørelse til forsikrede ledige og hjælpemidler bortset fra undervisningsmaterialer til forsikrede ledige og beskæftigede.
+Stk. 3. Beskæftigelsestilskuddet omfatter kommunernes nettoudgifter til arbejdsløshedsdagpenge, løntilskud til arbejdsgivere, der ansætter forsikrede ledige i løntilskudsjob, personlig assistance til handicappede, befordringsgodtgørelse til forsikrede ledige og hjælpemidler bortset fra undervisningsmaterialer til forsikrede ledige og beskæftigede samt kommunernes nettoudgifter til den midlertidige arbejdsmarkedsydelse, befordringsgodtgørelse og tilskud til arbejdsgivere, der ansætter modtagere af den midlertidige arbejdsmarkedsydelse i løntilskudsjob.
 
 Stk. 4. Økonomi- og indenrigsministeren fastsætter efter forhandling med beskæftigelsesministeren regler om beregningsgrundlaget for opgørelsen af de kommunale nettoudgifter omfattet af beskæftigelsestilskuddet.
 
