@@ -1,0 +1,1 @@
+§ 7 b. Skatteministeren kan fastsætte regler om, hvordan virksomheder verificerer og dokumenterer energiindholdet (GJ) for varer, som er omfattet af bilag 1, nr. 17 eller 18, når afgiften i henhold til § 1, stk. 4, skal opgøres efter den forbrugte mængde varer.
