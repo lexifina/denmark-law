@@ -16,15 +16,17 @@ Stk. 4. Stk. 3, nr. 3, finder ikke anvendelse, hvis
 
 2) udlændingen ansøger om opholdstilladelse efter § 9 c, stk. 1, på grundlag af en sådan familiemæssig tilknytning, der er nævnt i § 9, stk. 1, nr. 1 eller 2,
 
-3) udlændingen ansøger om opholdstilladelse efter § 9 i, stk. 1, med henblik på at studere,
+3) udlændingen ansøger om opholdstilladelse efter § 9 i, stk. 1, med henblik på at studere eller § 9 i, stk. 2, med henblik på at deltage i en ph.d.-uddannelse,
 
 4) udlændingen ansøger om opholdstilladelse efter § 9 c, stk. 4,
 
-5) udlændingen ansøger om opholdstilladelse efter § 9 a, stk. 2, nr. 1-4 eller 6,
+5) udlændingen ansøger om opholdstilladelse efter § 9 a, stk. 2, nr. 1-11 eller 13,
 
-6) udlændingen efter indgivelsen af ansøgningen om opholdstilladelse udrejser af Schengenlandene i overensstemmelse med det udstedte visums gyldighed eller
+6) udlændingen ansøger om opholdstilladelse efter § 9 p, stk. 1, 1. pkt.,
 
-7) hensyn af humanitær karakter afgørende taler derimod.
+7) udlændingen efter indgivelsen af ansøgningen om opholdstilladelse udrejser af Schengenlandene i overensstemmelse med det udstedte visums gyldighed eller
+
+8) hensyn af humanitær karakter afgørende taler derimod.
 
 Stk. 5. Stk. 4 finder ikke anvendelse, hvis der er bestemte grunde til at antage, at det afgørende formål med ansøgningen er at forlænge opholdet her i landet, og det er åbenbart, at ansøgningen ikke kan føre til meddelelse af opholdstilladelse.
 

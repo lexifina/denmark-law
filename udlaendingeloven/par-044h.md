@@ -1,0 +1,1 @@
+§ 44 h. De faglige lønmodtagerorganisationer indberetter til Styrelsen for International Rekruttering og Integration, når en virksomhed omfattes af en lovlig arbejdskonflikt, og når en lovlig arbejdskonflikt, som lønmodtagerorganisationen tidligere har indberettet til styrelsen, ophører eller udvides.
