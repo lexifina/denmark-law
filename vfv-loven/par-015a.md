@@ -1,4 +1,4 @@
-§ 15 a. Individuel kompetencevurdering har til formål at give ansøgeren anerkendelse af dennes samlede viden, færdigheder og kompetencer (realkompetencer) i forhold til en videregående voksenuddannelse eller en diplomuddannelse. Anerkendelse af kompetence sker på baggrund af afklaring, dokumentation og vurdering af deltagerens individuelle kompetencer i forhold til adgangskrav til uddannelsen eller målbeskrivelserne i uddannelsesreglerne.
+§ 15 a. Individuel kompetencevurdering har til formål at give ansøgeren anerkendelse af dennes samlede viden, færdigheder og kompetencer (realkompetencer) i forhold til en akademiuddannelse eller en diplomuddannelse. Anerkendelse af kompetence sker på baggrund af afklaring, dokumentation og vurdering af deltagerens individuelle kompetencer i forhold til adgangskrav til uddannelsen eller målbeskrivelserne i uddannelsesreglerne.
 
 Stk. 2. Anerkendelse af realkompetencer gives af den institution, der har gennemført kompetencevurderingen efter ansøgerens anmodning, jf. dog stk. 6 og § 15 b, stk. 3.
 

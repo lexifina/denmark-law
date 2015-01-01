@@ -2,7 +2,7 @@
 
 ## Udbud i udlandet
 
-§ 15 i. Uddannelses- og forskningsministeren godkender et erhvervsakademis, en professionshøjskoles, en ingeniørhøjskoles og Danmarks Medie- og Journalisthøjskoles udbud i udlandet af uddannelser, som institutionen efter lov om akkreditering af videregående uddannelsesinstitutioner kan godkendes til at udbyde i Danmark.
+§ 15 i. Uddannelses- og forskningsministeren godkender et erhvervsakademis, en professionshøjskoles, en maritim uddannelsesinstitutions, en videregående kunstnerisk uddannelsesinstitutions og Danmarks Medie- og Journalisthøjskoles udbud i udlandet af uddannelser, som institutionen efter lov om akkreditering af videregående uddannelsesinstitutioner kan godkendes til at udbyde i Danmark.
 
 Stk. 2. Godkendelse kan kun gives, hvis Akkrediteringsrådet har akkrediteret institutionen eller udbuddet positivt.
 
