@@ -1,0 +1,1 @@
+§ 8 b. Ministeren kan kræve personoplysninger fra universitetet om studerende og færdiguddannede til brug for indsamling af oplysninger om studerendes vurdering af uddannelseskvaliteten på egne uddannelser og færdiguddannedes vurdering af deres uddannelses relevans i forhold til deres beskæftigelse.

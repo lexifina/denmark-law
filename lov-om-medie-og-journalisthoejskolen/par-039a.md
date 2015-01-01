@@ -1,0 +1,1 @@
+§ 39 a. Uddannelses- og forskningsministeren kan kræve personoplysninger fra højskolen om studerende og færdiguddannede til brug for indsamling af oplysninger om studerendes vurdering af uddannelseskvaliteten på egne uddannelser og færdiguddannedes vurdering af deres uddannelses relevans i forhold til deres beskæftigelse.

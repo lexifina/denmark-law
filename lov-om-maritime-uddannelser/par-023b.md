@@ -1,1 +1,3 @@
-§ 23 b. Ministeren for forskning, innovation og videregående uddannelser kan indhente de nødvendige oplysninger fra uddannelsesinstitutionerne om uddannelserne, de studerende, personalet, økonomi og udstyr m.v. til brug for gennemførelse af tilsyn, kvalitetssikring og udarbejdelse af statistik.
+§ 23 b. Uddannelses- og forskningsministeren kan indhente de nødvendige oplysninger fra uddannelsesinstitutionerne om uddannelserne, de studerende, personalet, økonomi og udstyr m.v. til brug for gennemførelse af tilsyn, kvalitetssikring og udarbejdelse af statistik.
+
+Stk. 2. Uddannelses- og forskningsministeren kan kræve personoplysninger fra uddannelsesinstitutionen om studerende, elever og færdiguddannede til brug for indsamling af oplysninger om studerendes og elevers vurdering af uddannelseskvaliteten på egne uddannelser og færdiguddannedes vurdering af deres uddannelses relevans i forhold til deres beskæftigelse.
