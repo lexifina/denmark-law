@@ -1,1 +1,1 @@
-§ 22a. (Ophævet).
+§ 22 a. (Ophævet)

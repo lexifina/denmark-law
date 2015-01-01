@@ -1,1 +1,1 @@
-§ 21 b. Told- og skatteforvaltningen kan pålægge ejeren af en virksomhed eller den ansvarlige daglige ledelse heraf daglige bøder for manglende efterlevelse af påbud, som kan gives efter § 18, stk. 10 og 11. De daglige bøder skal udgøre mindst 1.000 kr. pr. dag.
+§ 21 b. Told- og skatteforvaltningen kan pålægge ejeren af en virksomhed eller den ansvarlige daglige ledelse heraf daglige bøder for manglende efterlevelse af påbud, som kan gives efter § 18, stk. 11 og 12. De daglige bøder skal udgøre mindst 1.000 kr. pr. dag.
