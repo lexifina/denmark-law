@@ -1,0 +1,1 @@
+§ 14 a. Uddannelsesinstitutionen kan påtage sig forsikringsansvaret for udenlandske gæsteforskere og ikkeindskrevne gæste-ph.d.-studerende, der som led i deres ophold ved institutionen pådrager sig skade eller påfører skade på ting eller andre personer.
