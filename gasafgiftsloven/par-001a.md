@@ -1,0 +1,1 @@
+§ 1 a. Af en blanding af gasser, som er afgiftspligtige efter denne lov, eller en blanding af disse gasser og andre produkter betales der afgift af hele blandingen efter satsen for den gas, der har den højeste afgiftssats efter denne lov.
