@@ -2,10 +2,12 @@
 
 ## Flytning til et andet pensionsinstitut
 
-§ 7 a. Kontohaveren kan vælge at flytte hele sit indestående til et andet pensionsinstitut. Lønmodtagernes Dyrtidsfond kan afvise flytning af indeståendet, hvis der ikke er dækning for omkostningerne forbundet med flytningen.
+§ 7 a. Kontohaveren kan vælge at flytte hele sit indestående til et andet pensionsinstitut, jf. stk. 2. Lønmodtagernes Dyrtidsfond kan afvise flytning af indeståendet, hvis der ikke er dækning for omkostningerne forbundet med flytningen.
 
-Stk. 2. Lønmodtagernes Dyrtidsfond skal på anmodning fra kontohaveren via det modtagende pensionsinstitut flytte hele indeståendet senest 3 måneder efter den uge, hvor anmodningen er modtaget. Overflyttede beløb kan ikke senere flyttes tilbage til Lønmodtagernes Dyrtidsfond.
+Stk. 2. Indeståendet på en LD-opsparing i Lønmodtagernes Dyrtidsfond kan flyttes til en pensionsordning som nævnt i pensionsbeskatningslovens § 41, stk. 1, nr. 7. Indeståendet på en LD-aldersopsparing, jf. § 2 a, kan flyttes til en pensionsordning som nævnt i pensionsbeskatningslovens §§ 10 A og 12 A og § 29 A, stk. 1, 3. pkt.
 
-Stk. 3. Beskæftigelsesministeren fastsætter nærmere regler om opgørelse af konti, overførsel af indestående på konti m.v. ved overflytning til et andet pensionsinstitut.
+Stk. 3. Lønmodtagernes Dyrtidsfond skal på anmodning fra kontohaveren via det modtagende pensionsinstitut flytte hele indeståendet senest 3 måneder efter den uge, hvor anmodningen er modtaget. Overflyttede beløb kan ikke senere flyttes tilbage til Lønmodtagernes Dyrtidsfond.
 
-Stk. 4. Beskæftigelsesministeren fastsætter nærmere regler om krav til de modtagende pensionsinstitutter, herunder om information, tekniske krav og rådgivning i forbindelse med flytning.
+Stk. 4. Beskæftigelsesministeren fastsætter nærmere regler om opgørelse af konti, overførsel af indestående på konti m.v. ved overflytning til et andet pensionsinstitut.
+
+Stk. 5. Beskæftigelsesministeren fastsætter nærmere regler om krav til de modtagende pensionsinstitutter, herunder om information, tekniske krav og rådgivning i forbindelse med flytning.
