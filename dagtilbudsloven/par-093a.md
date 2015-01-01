@@ -1,0 +1,1 @@
+§ 93 a. Tilbagebetaling af for meget tildelt økonomisk fripladstilskud og efterbetaling af for lidt tildelt økonomisk fripladstilskud, jf. § 43, stk. 1, nr. 2, § 63, nr. 2, og § 76, stk. 1, nr. 1, skal uanset § 93, stk. 1, ske som følge af indtægtsregulering, jf. bestemmelser fastsat i medfør af §§ 44, 64 og 77.
