@@ -1,0 +1,3 @@
+§ 66 i. En afgiftspligtig person, der anvender en særordning, kan ophøre med at anvende ordningen, uanset om vedkommende fortsat leverer ydelser, der kan omfattes af ordningen. Er Danmark identifikationsmedlemsland, skal underretning om ophøret ske til told- og skatteforvaltningen senest 15 dage før udløbet af kvartalet inden det kvartal, som ophøret ønskes at have effekt fra. Ophøret får virkning fra den første dag i det efterfølgende kvartal.
+
+Stk. 2. Hvis en afgiftspligtig person ophører med at anvende en særordning i overensstemmelse med stk. 1, udelukkes denne fra at anvende den pågældende ordning i 2 kvartaler regnet fra ophørsdatoen.

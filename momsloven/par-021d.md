@@ -16,10 +16,4 @@
 
 8) Adgang til et naturgassystem på EU's område eller til ethvert net, der er forbundet med et sådant system, til elektricitetssystemer eller til varme- eller kuldenet, transmission eller distribution gennem disse systemer eller net og andre dermed direkte forbundne ydelser.
 
-9) Teleydelser.
-
-10) Radio- og tv-sprednings-ydelser.
-
-11) Elektronisk leverede ydelser som omfattet af § 21 c.
-
-Stk. 2. For de ydelser, der er nævnt i stk. 1, nr. 1-10, anses leveringsstedet dog for at være her i landet, såfremt ydelsen faktisk benyttes eller udnyttes her i landet.
+Stk. 2. For de ydelser, der er nævnt i stk. 1, anses leveringsstedet dog for at være her i landet, såfremt ydelsen faktisk benyttes eller udnyttes her i landet.
