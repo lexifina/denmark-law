@@ -12,4 +12,4 @@ Stk. 6. Ved afhændelse af fast ejendom erhvervet før den 1. januar 1998 beskat
 
 Stk. 7. Ved afhændelse af fast ejendom erhvervet den 1. januar 1998 eller senere tillægges foretagne afskrivninger den skattepligtige indkomst efter stk. 1.
 
-Stk. 8. Opgøres det skattepligtige afkast af en andel i en juridisk person efter stk. 1, finder § 13, stk. 3-9, ikke anvendelse.
+Stk. 8. Opgøres det skattepligtige afkast af en andel i en juridisk person efter stk. 1, finder § 13, stk. 4-10, ikke anvendelse.
