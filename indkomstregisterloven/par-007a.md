@@ -1,0 +1,7 @@
+§ 7 A. Virksomheder, der yder lån eller formidler lån, kan efter samtykke fra den registrerede få adgang til oplysninger i indkomstregisteret, som er nødvendige til brug for konkrete kreditgivningssituationer.
+
+Stk. 2. Finansielle virksomheder, som er omfattet af regler om redelig forretningsskik og god praksis for de finansielle virksomheder udstedt i medfør af § 43, stk. 2, i lov om finansiel virksomhed, kan efter samtykke fra den registrerede få adgang til oplysninger i indkomstregisteret, som er nødvendige til brug for rådgivning af den registrerede i overensstemmelse med reglerne om redelig forretningsskik og god praksis.
+
+Stk. 3. Finansielle virksomheder kan desuden efter samtykke fra den registrerede få adgang til oplysninger i indkomstregisteret, som er nødvendige til efterlevelse af bekendtgørelse om ledelse og styring af pengeinstitutter m.fl., med hensyn til at der skal tilvejebringes opdaterede oplysninger om den registrerede. Adgang til oplysningerne forudsætter, at den registrerede er kunde i den finansielle virksomhed.
+
+Stk. 4. Adgang efter stk. 1-3 forudsætter, at virksomheden har indgået en aftale med told- og skatteforvaltningen om adgangen. Sådanne aftaler skal indeholde bestemmelser om betaling fra virksomheden i overensstemmelse med lov om videreanvendelse af den offentlige sektors informationer.
