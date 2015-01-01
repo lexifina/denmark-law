@@ -1,0 +1,1 @@
+1) Loven indeholder bestemmelser, der gennemfører dele af Europa-Parlamentets og Rådets direktiv 2003/4/EF af 28. januar 2003 om offentlig adgang til miljøoplysninger og om ophævelse af Rådets direktiv 90/313/EØF, EF-Tidende 2003, nr. L 41, side 26.
