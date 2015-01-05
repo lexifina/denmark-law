@@ -1,5 +1,3 @@
-## Aftale om ret til sygedagpenge i de første 2 uger af sygeperioden for selvstændige erhvervsdrivende ved langvarig eller kronisk sygdom
-
 § 58 a. En selvstændig erhvervsdrivende, der ikke har tegnet forsikring efter § 45, kan ved aftale med kommunen opnå ret til sygedagpenge fra kommunen i de første 2 uger af sygeperioden, jf. § 41, 1. pkt.
 
 Stk. 2. En aftale efter stk. 1 kan indgås, når den selvstændige erhvervsdrivendes sygdomsrisiko er væsentlig forøget på grund af en langvarig eller kronisk lidelse og fraværet på grund af lidelsen skønnes at medføre mindst 10 fraværsdage inden for 1 år.
