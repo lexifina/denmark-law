@@ -1,7 +1,7 @@
-§ 13 a. Sygemeldte, der inden for de næste 6 uger forventes fuldt raskmeldt og på vej tilbage i job eller forventes at gå på barsel, skal ikke møde personligt op til opfølgningssamtaler efter § 13, stk. 4, 1. pkt. Opfølgningen sker i stedet telefonisk, digitalt eller ved brev. Sygemeldte skal heller ikke deltage i tilbud efter § 15 og § 15 a. Sygemeldte, som allerede deltager i tilbud, har ret til at færdiggøre tilbuddet.
+§ 13 a. I sager, der er visiteret til kategori 1 efter § 12, stk. 1, nr. 1, skal kommunen iværksætte en opfølgning med opfølgningssamtale og revisitation til kategori 2 eller 3 efter § 12, stk. 1, nr. 2 og 3, hvis sygefraværsperioden varer længere end 8 uger. En efterfølgende opfølgning sker i henhold til revisitationen, jf. §§ 12 og 13 b-13 d.
 
-Stk. 2. Uanset stk. 1 kan kommunen ud fra en konkret vurdering beslutte, at en sygemeldt fortsat skal møde personligt op til opfølgningssamtaler og deltage i tilbud efter § 15 og § 15 a, hvis jobcenteret vurderer, at
+Stk. 2. For sygemeldte, der er visiteret til kategori 1 efter § 12, stk. 1, nr. 1, fastlægger den enkelte kommune, hvornår og hvordan opfølgningen skal finde sted, og hvad indholdet skal være, jf. dog stk. 4.
 
-1) der er tale om misbrug af eller spekulation i muligheden for at blive undtaget fra at deltage i tilbud og møde personligt op til opfølgningssamtaler eller
+Stk. 3. Tilbyder kommunen den sygemeldte aktive tilbud efter kapitel 10 og 11 i lov om en aktiv beskæftigelsesindsats som led i opfølgningen, jf. stk. 2, er det frivilligt for den sygemeldte at deltage i tilbuddet.
 
-2) det fortsat vil være til fordel for den sygemeldte at være omfattet af den almindelige opfølgning og dermed møde personligt op til opfølgningssamtaler og deltage i tilbud.
+Stk. 4. En sygemeldt, der er visiteret til kategori 1 efter § 12, stk. 1, nr. 1, og som er ledig og medlem af en arbejdsløshedskasse, skal fortsat deltage i kontaktforløb og tilbud efter de regler i kapitel 7 og 9 b-12 i lov om en aktiv beskæftigelsesindsats, som gælder for ledige, der modtager arbejdsløshedsdagpenge efter lov om arbejdsløshedsforsikring m.v. Der skal dog tages hensyn til den sygemeldtes helbredssituation.
