@@ -1,7 +1,3 @@
 Bekendtgørelse af lov om social pension
 
-Herved bekendtgøres lov om social pension, jf. lovbekendtgørelse nr. 1116 af 23. september 2013, med de ændringer, der følger af § 1, nr. 2 og 10-11, i lov nr. 1386 af 28. december 2011, § 11, nr. 3 og 5, i lov nr. 1380 af 23. december 2012, § 9 i lov nr. 336 af 2. april 2014 og § 8 i lov nr. 720 af 25. juni 2014.
-
-De ændringer, der følger af § 1, nr. 3-9, i lov nr. 1386 af 28. december 2011 om ændring af lov om social pension (Forhøjelse af folkepensionsalder, indførelse af seniorførtidspension m.v.) er ikke indarbejdet i denne lovbekendtgørelse, da ændringerne efterfølgende er ophævet ved § 18, nr. 1, i lov nr. 1380 af 23. december 2012 om ændring af lov om en aktiv beskæftigelsesindsats, lov om aktiv socialpolitik, lov om social pension og forskellige andre love (Reform af førtidspension og fleksjob, herunder indførelse af ressourceforløb, rehabiliteringsteam, fleksløntilskud m.v.).
-
-De ændringer, der følger af § 1 i lov nr. 574 af 10. juni 2014 om ændring af lov om social pension, lov om højeste, mellemste, forhøjet almindelig og almindelig førtidspension m.v., lov om individuel boligstøtte og lov om børnetilskud og forskudsvis udbetaling af børnebidrag (Anvendelse af indkomstregisteret ved indtægtsregulering af social pension og boligstøtte m.v.), er ikke indarbejdet i denne lovbekendtgørelse, da disse ændringer træder i kraft den 1. januar 2015, jf. § 5, stk. 1, i lov nr. 574 af 10. juni 2014.
+Herved bekendtgøres lov om social pension, jf. lovbekendtgørelse nr. 1137 af 20. oktober 2014, med de ændringer, der følger af § 1 i lov nr. 574 af 10. juni 2014, § 62 i lov nr. 1482 af 23. december 2014, § 4 i lov nr. 1523 af 27. december 2014 og § 1 i lov nr. 1527 af 27. december 2014.

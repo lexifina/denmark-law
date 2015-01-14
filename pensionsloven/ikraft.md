@@ -32,7 +32,7 @@ Lov nr. 1309 af 20. december 2000 (Ophævelse af reglen om tillæg for fiktiv in
 
 Stk. 1. Loven træder i kraft den 1. april 2001, jf. dog stk. 2.
 
-Stk. 2. § 1, nr. 3 og 4, træder i kraft den 1. januar 2001. For bortgivelse eller lignende dispositioner, der er foretaget inden den 1. januar 2001, finder de hidtil gældende regler i §§ 28 og 29 i lov om social pension dog fortsat anvendelse.
+Stk. 2. (Udelades)
 
 Lov nr. 285 af 25. april 2001 (Førtidspensionsreform) indeholder følgende ikrafttrædelsesbestemmelse. Information til nedenstående § 6, stk. 3: Bekendtgørelsen i Lovtidende fandt sted den 26. april 2001.
 
@@ -40,7 +40,7 @@ Lov nr. 285 af 25. april 2001 (Førtidspensionsreform) indeholder følgende ikra
 
 Stk. 1. Loven træder i kraft den 1. januar 2003, jf. dog stk. 3-8.
 
-Stk. 2. For personer, der er fyldt 60 år inden den 1. juli 1999, kan førtidspension efter de fra 1. januar 2003 gældende regler tilkendes indtil det 67. år.
+Stk. 2. (Udelades)
 
 Stk. 3. § 1, nr. 32, træder i kraft dagen efter bekendtgørelsen i Lovtidende.
 
@@ -90,7 +90,7 @@ Loven træder i kraft den 1. juli 2008.
 
 § 4
 
-Adgangen til at fradrage indtægter ved personligt arbejde efter § 29, stk. 1, nr. 4, i lov om social pension som affattet ved denne lovs § 1, nr. 4, § 32 a, stk. 1, nr. 4, som affattet ved denne lovs § 1, nr. 5, og § 26, stk. 1, 3. pkt., som affattet ved denne lovs § 2, nr. 2, gælder i 2008 alene indtægter ved personligt arbejde i perioden fra den 1. juli 2008 og op til et beløb på i alt 15.000 kr.
+(Udelades)
 
 Lov nr. 521 af 12. juni 2009 (Forenkling af reglerne om opkrævning af arbejdsmarkedsbidrag og konsekvensændringer som følge af Forårspakke 2.0 m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
 
@@ -122,7 +122,7 @@ Lov nr. 429 af 28. april 2010 (Kompetencen til at træffe afgørelse om lovvalg 
 
 Stk. 1. Loven træder i kraft den 1. maj 2010.
 
-Stk. 2. De hidtil gældende regler i § 46, stk. 3, og §§ 86 a og 87 a i lov om arbejdsløshedsforsikring m.v. finder fortsat anvendelse i sager vedrørende dagpenge udbetalt efter artikel 69 i forordning (EØF) nr. 1408/71.
+Stk. 2. (Udelades)
 
 Stk. 3. Henvisninger til forordning (EØF) nr. 1408/71 forbliver i kraft, og anvendelsen af denne forordning bevares i forhold til det enkelte EØS-land og Schweiz, så længe det enkelte EØS-land eller Schweiz ikke har tilsluttet sig forordning (EF) nr. 883/04.
 
@@ -204,15 +204,7 @@ Lov nr. 1380 af 23. december 2012 (Reform af førtidspension og fleksjob, herund
 
 Stk. 1. Loven træder i kraft den 1. januar 2013, jf. dog stk. 2-6 og 8.
 
-Stk. 2. Beskæftigelsesministeren fastsætter tidspunktet for ikrafttræden af § 1, nr. 48, samt § 75, stk. 1, nr. 6, og § 77, stk. 2 og 3, i lov om aktiv socialpolitik som affattet ved denne lovs § 3, nr. 20.
-
-Stk. 3. Personer, der før tidspunktet for ikrafttrædelsen af stk. 2 har modtaget ledighedsydelse, skal senest 3 måneder efter ikrafttrædelsen have lagt cv i Jobnet og have en cv-samtale.
-
-Stk. 4. Beskæftigelsesministeren fastsætter tidspunktet for ikrafttræden af § 70 g i lov om en aktiv beskæftigelsesindsats som affattet ved denne lovs § 1, nr. 41, og § 1, nr. 49-51.
-
-Stk. 5. § 25 a, stk. 4, nr. 4, §§ 25 b-25 d og § 25 e, stk. 1 og 2, i lov om ansvaret for og styringen af den aktive beskæftigelsesindsats som affattet ved denne lovs § 2, nr. 4, om samarbejde mellem kommunen og regionen om sundhedsfaglig rådgivning og vurdering træder i kraft den 1. juli 2013. En kommune og en region kan vælge at indgå en samarbejdsaftale om sundhedsfaglig rådgivning og vurdering til kommunen fra en klinisk funktion i regionen som nævnt i §§ 25 b-25 d, som har virkning fra et tidspunkt, der ligger før den 1. juli 2013. Indtil en samarbejdsaftale indgås, skal kommunen sørge for, at rehabiliteringsteamet har en sundhedsfaglig repræsentant, som kan varetage en sundhedskoordinatorfunktion med sundhedsfaglig rådgivning i teamet, herunder bidrage til rehabiliteringsteamets indstilling.
-
-Stk. 6. Beskæftigelsesministeren fastsætter tidspunktet for ikrafttræden af ændringerne til § 62, stk. 1, § 63, § 66, stk. 2, og § 68 a, stk. 12 og 13, i lov om ansvaret for og styringen af den aktive beskæftigelsesindsats som affattet ved denne lovs § 2, nr. 6-8 og 10.
+Stk. 2-6. (Udelades)
 
 Stk. 7. ATP kan i stedet for at underrette den skattepligtige om indbetaling af skatten samtidig med indbetalingen, jf. pensionsafkastbeskatningslovens § 23, stk. 1, 4. pkt., underrette den skattepligtige om indbetaling af skatten i forbindelse med den endelige opgørelse af den supplerende arbejdsmarkedspension for førtidspensionister i den årlige pensionsoversigt. 1. pkt. har virkning fra den 1. januar 2013 til den 30. juni 2013.
 
@@ -308,7 +300,7 @@ Stk. 3. Udbetaling Danmark kan uden fornyet samtykke behandle sager efter stk. 2
 
 Stk. 4. Udbetaling Danmark overtager Pensionsstyrelsens krav mod borgeren og borgerens krav mod Pensionsstyrelsen, der måtte foreligge ved lovens ikrafttræden, i sager, der som følge af lovens §§ 3-5 overføres til Udbetaling Danmark.
 
-Lov nr. 336 af 2. april 2014 om erstatning og godtgørelse til tidligere udsendte soldater og andre statsansatte med sent diagnosticeret posttraumatisk belastningsreaktion indeholder følgende ikrafttrædelsesbestemmelse:
+Lov nr. 336 af 2. april 2014 (Erstatning og godtgørelse til tidligere udsendte soldater og andre statsansatte med sent diagnosticeret posttraumatisk belastningsreaktion) indeholder følgende ikrafttrædelsesbestemmelse:
 
 § 7. Loven træder i kraft dagen efter bekendtgørelsen i Lovtidende.
 
@@ -323,3 +315,51 @@ Lov nr. 720 af 25. juni 2014 (Ny sygedagpengemodel med tidlig opfølgning og ind
 Stk. 1. Loven træder i kraft den 1. juli 2014, jf. dog stk. 2 og 3.
 
 Stk. 2-3. (Udelades)
+
+Lov nr. 574 af 10. juni 2014 (Anvendelse af indkomstregisteret ved indtægtsregulering af social pension og boligstøtte m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 5
+
+Stk. 1. Loven træder i kraft den 1. januar 2015, jf. dog stk. 2.
+
+Stk. 2. (Udelades)
+
+Stk. 3. § 1, nr. 12, finder første gang anvendelse for pension udbetalt for 2015.
+
+Stk. 4. (Udelades)
+
+Stk. 5. §§ 1, 2 og 4 finder ikke anvendelse for oplysninger, som Udbetaling Danmark og kommunalbestyrelsen modtager om ændringer, der ville have medført en omregning af pensionen i 2014 efter de hidtil gældende regler. For sådanne oplysninger gælder, at pensionen i 2014 omregnes efter de hidtil gældende regler.
+
+Stk. 6-8. (Udelades)
+
+Stk. 9. Der kan ske en efterbetaling af boligstøtte ved efterregulering af boligstøtte i 2016 for kalenderåret 2015 som følge af efterregulering af pension efter § 39 b i lov om social pension eller § 38 a i lov om højeste, mellemste, forhøjet almindelig og almindelig førtidspension m.v., hvis den samlede efterbetaling af boligstøtte er mindst 250 kr.
+
+Lov nr. 1482 af 23. december 2014 om organisering og understøttelse af beskæftigelsesindsatsen m.v. indeholder følgende ikrafttrædelses- og overgangsbestemmelser:
+
+§ 56
+
+Stk. 1. Loven træder i kraft den 1. januar 2015, jf. dog stk. 2 og 3.
+
+Stk. 2-3. (Udelades)
+
+Stk. 4. Lov om ansvaret for og styringen af den aktive beskæftigelsesindsats, jf. lovbekendtgørelse nr. 1177 af 5. november 2014, ophæves.
+
+§ 57-69
+
+(Udelades)
+
+Lov nr. 1523 af 27. december 2014 (Anvendelse af indkomstregisteret ved indtægtsregulering af økonomisk fripladstilskud m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 6
+
+Stk. 1. Loven træder i kraft den 1. januar 2015, jf. dog stk. 2 og 3.
+
+Stk. 2-3. (Udelades)
+
+Lov nr. 1527 af 27. december 2014 (Genindførelse af tidligere gældende regler for optjening af ret til folkepension for flygtninge) indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 2
+
+Stk. 1. Loven træder i kraft den 1. januar 2015.
+
+Stk. 2. Udlændinge, der er indrejst i Danmark i perioden fra den 1. januar 2011 til den 31. december 2014, som er meddelt ophold i Danmark efter udlændingelovens § 7 eller § 8, og som inden lovens ikrafttræden er tilkendt folkepension, har uden ansøgning med virkning fra den 1. januar 2015 ret til at få fastsat den tilkendte folkepension på baggrund af en opgørelse af bopælstid efter § 1, nr. 1.
