@@ -1,14 +1,12 @@
-Givet på Amalienborg, den 19. december 2008
+Skatteministeriet, den 12. januar 2015
 
-Under Vor Kongelige Hånd og Segl
+P.M.V. Jens Brøchner
 
-MARGRETHE R.
-
-/ Kristian Jensen
+/ Camilla Christensen
 
 Bilag 1
 
-Fordringer, der kan inddrives ved lønindeholdelse, jf. § 10, og fordringer, der kan inddrives ved udpantning, jf. § 11:
+## Fordringer, der kan inddrives ved lønindeholdelse, jf. § 10, og fordringer, der kan inddrives ved udpantning, jf. § 11:
 
 1) Stats- og kommuneskatter samt afgifter og ydelser, som ifølge lov tilkommer stat, kommune, kirker, anerkendte trossamfund, offentlige stiftelser eller embeder og bestillinger, herunder skattebeløb, som en indeholdelsespligtig har været forpligtet til at indeholde eller opkræve, samt parafiskale udgifter.
 
@@ -20,7 +18,7 @@ Fordringer, der kan inddrives ved lønindeholdelse, jf. § 10, og fordringer, de
 
 5) Told.
 
-6) Krav vedrørende retsafgift, tinglysningsafgift, registreringsafgift, stempelafgift, bo- og gaveafgifter, vægtafgift og lignende afgifter.
+6) Krav vedrørende retsafgift, tinglysningsafgift, registreringsafgift, skadesforsikringsafgift, bo- og gaveafgifter, vægtafgift og lignende afgifter.
 
 7) Underholdsbidrag.
 
@@ -38,7 +36,7 @@ Fordringer, der kan inddrives ved lønindeholdelse, jf. § 10, og fordringer, de
 
 14) Udgifter til foranstaltninger og arbejder, som det offentlige har foretaget på den forpligtedes vegne eller for den forpligtedes regning.
 
-15) Bøder, tvangsbøder, administrative bøder, konfiskationer og kontrolafgifter, herunder parkeringsafgifter.
+15) Bøder, tvangsbøder, administrative bøder, offerbidrag, konfiskationer og kontrolafgifter, herunder parkeringsafgifter.
 
 16) Misligholdte statslån og kommunale lån.
 
@@ -52,7 +50,7 @@ Fordringer, der kan inddrives ved lønindeholdelse, jf. § 10, og fordringer, de
 
 21) Krav, der modtages til inddrivelse fra udlandet.
 
-22) Krav vedrørende ubetalt præmie og refu­sionskrav efter lov om arbejdsskadesikring.
+22) Krav vedrørende ubetalt præmie og refusionskrav efter lov om arbejdsskadesikring.
 
 23) Præmiebetaling og refusion fra arbejdsgiver på forskudsvis udbetalte beløb efter lov om sygedagpenge.
 
@@ -71,3 +69,11 @@ Fordringer, der kan inddrives ved lønindeholdelse, jf. § 10, og fordringer, de
 30) Udgifter til en sags behandling ved et privat ankenævn, der er etableret ved lov, og ved nævn, der nedsættes af en minister, samt gebyr til finansiering af disciplinærnævnet, som opkræves hos registrerede ejendomsmæglere.
 
 31) Afgifter, gebyrer, drifts- og etableringsudgifter, administrationsomkostninger og omkostninger til tilsyn og kontrol, som en myndighed har krav på at få dækket.
+
+32) Krav på tilbagebetaling af omkostningsgodtgørelse efter skatteforvaltningslovens kapitel 19.
+
+33) Biblioteksgebyrer.
+
+34) Bibliotekers krav på erstatning for udlånsmateriale, som skyldner har beskadiget eller ikke har afleveret efter sit hjemlån. Det er dog en betingelse, at skyldner skriftligt har anerkendt kravet, medmindre kravet vedrører erstatning for udlånsmateriale, der ikke er afleveret af skyldner, og det pågældende bibliotek tilbyder en kvittering ved aflevering af lånte materialer.
+
+35) Fordringer, der udspringer af en garanti, som fordringshaver har stillet for en boligtagers kontraktmæssige forpligtelser over for ejendommens ejer til at istandsætte boligen ved fraflytning.
