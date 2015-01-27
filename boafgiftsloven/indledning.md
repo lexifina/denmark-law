@@ -1,5 +1,3 @@
-Bekendtgørelse af lov om dødsboer og gaver
+Bekendtgørelse af lov om afgift af dødsboer og gaver (boafgiftsloven)
 
-(boafgiftsloven)
-
-Herved bekendtgøres lov om afgift af dødsboer og gaver (boafgiftsloven), jf. lovbekendtgørelse nr. 1159 af 4. oktober 2007 med de ændringer, der følger af § 4 i lov nr. 521 af 17. juni 2008, § 78 i lov nr. 1336 af 19. december 2008, § 10 i lov nr. 1344 af 19. december 2008, § 13 i lov nr. 521 af 12. juni 2009 og § 6 i lov nr. 221 af 21. marts 2011.
+Herved bekendtgøres lov om afgift af dødsboer og gaver (boafgiftsloven), jf. lovbekendtgørelse nr. 327 af 2. april 2012, med de ændringer, der følger af § 5 i lov nr. 1354 af 21. december 2012 og § 3 i lov nr. 792 af 28. juni 2013.
