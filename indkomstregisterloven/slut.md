@@ -1,7 +1,5 @@
-Givet på Christiansborg Slot, den 8. maj 2006
+Skatteministeriet, den 12. januar 2015
 
-Under Vor Kongelige Hånd og Segl
+P.M.V. Jens Brøchner
 
-Margrethe R.
-
-/Kristian Jensen
+/ Camilla Christensen
