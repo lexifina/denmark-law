@@ -1,5 +1,5 @@
-Ministeriet for Forskning, Innovation og Videregående Uddannelser, den 11. december 2013
+Uddannelses- og Forskningsministeriet, den 26. januar 2015
 
-Morten Østergaard
+Sofie Carsten Nielsen
 
 / Pernille Olesen Mønnike
