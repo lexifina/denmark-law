@@ -1,1 +1,21 @@
 1) Ved kongelig resolution af 14. december 2011 blev ressortansvaret for sager vedrørende dyreværn, dyrevelfærd for produktionsdyr, kæle- og hobbydyr samt eksotiske dyr, slagtning og aflivning af dyr, transport af dyr og avl af dyr m.v. overført fra justitsministeren til ministeren for fødevarer, landbrug og fiskeri. Overalt i lovbekendtgørelsen er »Justitsministeren« ændret til: »Ministeren for fødevarer, landbrug og fiskeri«.
+
+2) Lovændringen vedrører ændring af § 1, § 6 og § 12.
+
+3) Lovændringen vedrører ændring af § 1, § 3 og § 12.
+
+4) Lovændringen vedrører tilføjelse af § 1, stk. 3, ændring af § 6, tilføjelse af §§ 6 a-6 d, ændring af § 12, tilføjelse af §§ 12 a-12 c og ændring af § 14.
+
+5) Lovændringen vedrører ændring af § 1, stk. 1 og 3, tilføjelse af § 1 a og § 1b, ophævelse af § 3, stk. 2 og 3, og indsættelse af nyt stk. 2, hvorefter stk. 4-6 bliver stk. 3-5, og ændring af § 3, stk. 6, der er blevet stk. 5, og af § 6, stk. 2, 3 og 4, ophævelse af § 6, stk. 5, og indsættelse af nye stk. 5-6, ændring af stk. 6, der bliver stk. 7, og af § 6 a, stk. 1 og 2, § 6 b, stk. 1 og 2, samt § 6 c, stk. 1 og 2. Ændringen vedrørte endvidere ophævelse af § 7, ændring af § 8, stk. 3, § 12 og § 12 a, stk. 1, nr. 2 og 3, og indsættelse af nr. 5 i § 12, stk. 2, samt ændring af § 12 c.
+
+6) Ved gentagne overtrædelser kan politidirektøren træffe afgørelse om at lade hunden aflive, jf. note 7.
+
+7) Lovændringen vedrører indsættes af § 1 b, stk. 5, ændring af § 3, indsættelse af §§ 3 a og 3 b, indsættelse af § 4, stk. 2, ændring af § 6, stk. 5 og § 6 a, stk. 1 og 2, indsættelse af et nyt stk. 3 i § 6 a, hvorefter stk. 3 bliver stk. 4, ændring af § 6 b, stk. 1, indsættelse af § 6 c, stk. 3, ændring af § 12, stk. 1 og 2, og § 12 a, stk. 1, og ophævelse af § 12 c.
+
+Lovændringen indeholder endvidere i § 2 følgende bestemmelse: I lov nr. 717 af 25. juni 2010 om ændring af lov om hunde og dyreværnsloven (Forbud mod besiddelse m.v. af visse hunde, båndpligt, aflivning af hunde, der skambider, midlertidig frakendelse af retten til at have med dyr at gøre m.v.) foretages følgende ændring:
+
+1. I § 3 indsættes efter stk. 5 som nyt stykke:
+
+»Stk. 6. Ved gentagne overtrædelser af stk. 4, 3. pkt., kan politidirektøren træffe afgørelse om at lade hunden aflive. Politidirektøren afholder omkostningerne ved at lade en hund aflive, men kan kræve beløbet refunderet af besidderen«.
+
+Stk. 6 bliver herefter stk. 7.
