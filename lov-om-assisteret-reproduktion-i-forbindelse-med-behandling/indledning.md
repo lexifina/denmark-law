@@ -1,5 +1,3 @@
-Bekendtgørelse af lov om kunstig befrugtning i forbindelse med lægelig behandling, diagnostik og forskning m.v.
+Bekendtgørelse af lov om assisteret reproduktion i forbindelse med behandling, diagnostik og forskning m.v.
 
-Herved bekendtgøres lov nr. 460 af 10. juni 1997 om kunstig befrugtning i forbindelse med lægelig behandling, diagnostik og forskning m.v. med de ændringer, der følger af lov nr. 427 af 10. juni 2003, § 13 i lov nr. 69 af 4. februar 2004, lov nr. 240 af 5. april 2004 og lov nr. 535 af 8. juni 2006.
-
-Den bekendtgjorte lovtekst gælder først fuldt ud fra den 1. januar 2007, jf. § 2 i lov nr. 535 af 8. juni 2006.
+Herved bekendtgøres lov om kunstig befrugtning i forbindelse med lægelig behandling, diagnostik og forskning m.v., jf. lovbekendtgørelse nr. 923 af 4. september 2006, med de ændringer, der følger af § 1 i lov nr. 1546 af 21. december 2010, § 47 i lov nr. 593 af 14. juni 2011, § 1 i lov nr. 602 af 18. juni 2012, § 1 i lov nr. 1313 af 27. november 2013 og § 2 i lov nr. 744 af 25. juni 2014.
