@@ -1,5 +1,5 @@
-Indenrigs- og Sundhedsministeriet, den 4. september 2006
+Ministeriet for Sundhed og Forebyggelse, den 19. januar 2015
 
-Lars Løkke Rasmussen
+Nick Hækkerup
 
-/John Erik Pedersen
+/ Lene Brøndum Jensen
