@@ -1,1 +1,1 @@
-§ 42 a. (Ophævet).
+§ 42 a. (Ophævet)
