@@ -1,0 +1,1 @@
+§ 26 f. Københavns Kommune og Udviklingsselskabet By & Havn I/S afholder efter aftale med transportministeren alle udgifter til de opgaver, der er nævnt i § 26 e, stk. 1, herunder omkostninger i forbindelse med pålæg og offentliggørelse af vejbyggelinjer, overtagelse af arealer eller andre erstatninger i medfør af dette kapitel.
