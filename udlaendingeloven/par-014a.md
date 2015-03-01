@@ -18,11 +18,13 @@ Stk. 2. Stk. 1 gælder ikke for
 
 4) udlændinge, der er omfattet af udelukkelsesgrundene i flygtningekonventionen af 28. juli 1951,
 
-5) udlændinge, hvis ansøgning om opholdstilladelse efter § 7 behandles efter § 53 b, og
+5) udlændinge, hvis opholdstilladelse er bortfaldet i medfør af § 21 b, stk. 1,
 
-6) udlændinge under 18 år, medmindre Udlændingestyrelsen efter en konkret vurdering finder, at hensynet til den mindreåriges tarv taler derfor.
+6) udlændinge, hvis ansøgning om opholdstilladelse efter § 7 behandles efter § 53 b, og
 
-Stk. 3. Udlændingestyrelsen indgår en kontrakt om beskæftigelsen med udlændingen. Det skal indgå i kontrakten som et vilkår, at udlændingen medvirker til oplysning af sin sag om opholdstilladelse i medfør af § 7, jf. § 40, stk. 1, 1. og 2. pkt., og efter afslag på eller frafald af ansøgningen om opholdstilladelse medvirker til udrejsen uden ugrundet ophold, jf. § 40, stk. 4, 1. pkt. Udlændingestyrelsen vejleder i forbindelse med indgåelse af kontrakten udlændingen mundtligt og skriftligt om vilkårene for beskæftigelsen, herunder navnlig kravet om medvirken.
+7) udlændinge under 18 år, medmindre Udlændingestyrelsen efter en konkret vurdering finder, at hensynet til den mindreåriges tarv taler derfor.
+
+Stk. 3. Udlændingestyrelsen indgår en kontrakt om beskæftigelsen med udlændingen. Det skal indgå i kontrakten som et vilkår, at udlændingen medvirker til oplysning af sin sag om opholdstilladelse i medfør af § 7, jf. § 40, stk. 1, 1. og 2. pkt., og efter afslag på eller frafald af ansøgningen om opholdstilladelse medvirker til udrejsen uden ugrundet ophold, jf. § 40, stk. 5, 1. pkt. Udlændingestyrelsen vejleder i forbindelse med indgåelse af kontrakten udlændingen mundtligt og skriftligt om vilkårene for beskæftigelsen, herunder navnlig kravet om medvirken.
 
 Stk. 4. Udlændingestyrelsen træffer, medmindre helt særlige grunde taler derimod, afgørelse om, at en udlænding, som har taget beskæftigelse efter denne bestemmelse og ikke længere opfylder betingelserne herfor eller ikke overholder vilkårene i den indgåede kontrakt, jf. stk. 3, ikke længere har ret til at tage beskæftigelse.
 
