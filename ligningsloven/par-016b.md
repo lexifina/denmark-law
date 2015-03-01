@@ -24,6 +24,6 @@ d) Det afstående selskab ejer skattefri porteføljeaktier, jf. aktieavancebeska
 
 Stk. 3. Ved en aktionærs afståelse af aktier, der er optaget til handel på et reguleret marked, til det selskab, der har udstedt dem, kan sælger, når afståelsen ikke er omfattet af stk. 2, nr. 2-4, overfor told- og skatteforvaltningen tilkendegive, at salget er omfattet af stk. 1. Det er en betingelse, at tilkendegivelsen fremkommer inden selvangivelsesfristens udløb for det år, hvor afståelsen sker.
 
-Stk. 4. Stk. 1 omfatter ikke tegningsretter til aktier omfattet af § 28, der afstås ved tilbagesalg til det udstedende selskab.
+Stk. 4. Stk. 1 omfatter ikke tegningsretter, der er omfattet af § 28.
 
 Stk. 5. Uanset stk. 1 er beløb, som er skattepligtige for foreninger og selskaber efter selskabsskattelovens § 5 B, stk. 4, og fusionsskattelovens § 12, stk. 3, skattefrie for modtageren.
