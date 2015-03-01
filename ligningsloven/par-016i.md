@@ -18,6 +18,6 @@ Stk. 6. Hvis aktieindkomsten efter stk. 4 for et indkomstår udviser underskud, 
 
 Stk. 7. Ved opgørelsen af den skattepligtiges indkomst medregnes den del af selskabets aktieindkomst, der svarer til den gennemsnitlige direkte eller indirekte andel af selskabets samlede aktiekapital, som den skattepligtige har ejet i indkomståret. Der medregnes dog kun aktieindkomst optjent af selskabet i den del af selskabets indkomstår, hvor den skattepligtige har kontrol over selskabet.
 
-Stk. 8. Der gives nedslag efter § 33, stk. 1 og 6, for selskabets danske og udenlandske skatter samt skatter på selskabets indkomst som følge af § 16 H og selskabsskattelovens § 32. Nedslaget skal dog ikke kunne overstige den del af de samlede danske og udenlandske skatter, der forholdsmæssigt falder på selskabets aktieindkomst efter stk. 4.
+Stk. 8. Der gives nedslag efter § 33, stk. 1 og 7, for selskabets danske og udenlandske skatter samt skatter på selskabets indkomst som følge af § 16 H og selskabsskattelovens § 32. Nedslaget skal dog ikke kunne overstige den del af de samlede danske og udenlandske skatter, der forholdsmæssigt falder på selskabets aktieindkomst efter stk. 4.
 
 Stk. 9. For skattepligtige omfattet af stk. 1 medregnes udbytte fra selskaber m.v. omfattet af stk. 1 ikke til den skattepligtige indkomst, i det omfang udbyttet ikke overstiger den skat, som den skattepligtige skal betale af indkomsten i selskabet.
