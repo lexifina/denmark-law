@@ -1,9 +1,5 @@
-Givet på Christiansborg Slot, den 14. maj 1997
+Kulturministeriet, den 13. februar 2015
 
-Under Vor Kongelige Hånd og Segl
+Marianne Jelved
 
-MARGRETHE R.
-
-/ Ebbe Lundgaard
-
-Ingen
+/ Katrine Tarp
