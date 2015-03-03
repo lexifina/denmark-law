@@ -1,3 +1,3 @@
-Lov om Dansk Sprognævn
+Bekendtgørelse af lov om Dansk Sprognævn
 
-VI MARGRETHE DEN ANDEN, af Guds Nåde Danmarks Dronning, gør vitterligt: Folketinget har vedtaget og Vi ved Vort samtykke stadfæstet følgende lov:
+Herved bekendtgøres lov nr. 320 af 14. maj 1997 om Dansk Sprognævn med de ændringer, der følger af lov nr. 1171 af 10. december 2008 og lov nr. 517 af 26. maj 2014.
