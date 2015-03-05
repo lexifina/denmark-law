@@ -1,6 +1,6 @@
 § 11 b. Rammer for indholdet af lokalplaner fastsættes for de enkelte dele af kommunen med hensyn til
 
-1) fordelingen af bebyggelsen efter art og anvendelsesformål,
+1) fordelingen af bebyggelsen efter art og anvendelsesformål, herunder almene boliger, jf. lov om almene boliger m.v., i områder, der ikke anvendes til eller er lokalplanlagt til boligformål,
 
 2) områder for blandede byfunktioner,
 
@@ -12,7 +12,7 @@
 
 6) forsyningen med offentlig og privat service,
 
-7) områder til butiksformål, herunder rammer for det maksimale bruttoetageareal for nybyggeri og omdannelse af eksisterende bebyggelse til butiksformål, for maksimale bruttoetagearealer for de enkelte butikker og for antallet og placeringen af udvalgsvarebutikker omfattet af § 5 q, stk. 2.
+7) områder til butiksformål, herunder rammer for det maksimale bruttoetageareal for nybyggeri og omdannelse af eksisterende bebyggelse til butiksformål, for maksimale bruttoetagearealer for de enkelte butikker og for antallet og placeringen af udvalgsvarebutikker omfattet af § 5 q, stk. 2,
 
 8) institutioner og tekniske anlæg, herunder varmeforsyningsforhold,
 
@@ -26,4 +26,4 @@
 
 13) anvendelsen af vandområder og udformning af anlæg på vandområder i et byomdannelsesområde inden for eller i tilknytning til en havns dækkende værker.
 
-Stk. 2. Kommuneplanen kan indeholde retningslinjer for andre forhold end nævnt i stk. 1 og § 11 a, der kan være af betydning for arealanvendelsen og bebyggelsen, herunder beliggenheden af arealer til lokalisering af landbrugets driftsbygninger og driftsanlæg inden for de udpegede særlig værdifulde landbrugsområder, jf. § 11 a, nr. 10.
+Stk. 2. Kommuneplanen kan indeholde retningslinjer for andre forhold end nævnt i stk. 1 og § 11 a, stk. 1, der kan være af betydning for arealanvendelsen og bebyggelsen, herunder beliggenheden af arealer til lokalisering af landbrugets driftsbygninger og driftsanlæg inden for de udpegede særlig værdifulde landbrugsområder, jf. § 11 a, stk. 1, nr. 9.
