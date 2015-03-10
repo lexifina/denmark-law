@@ -1,3 +1,3 @@
 Bekendtgørelse af lov om afgift af bekæmpelsesmidler
 
-Herved bekendtgøres lov om afgift af bekæmpelsesmidler, jf. lovbekendtgørelse nr. 798 af 9. november 1998 med de ændringer, der følger af § 7 i lov nr. 1056 af 23. december 1998, § 7 i lov nr. 380 af 2. juni 1999, § 21 i lov nr. 165 af 15. marts 2000, § 6 i lov nr. 1029 af 22. november 2000, § 40 i lov nr. 325 af 18. maj 2005 og § 8 i lov nr. 428 af 6. juni 2005.
+Herved bekendtgøres lov om afgift af bekæmpelsesmidler, jf. lovbekendtgørelse nr. 57 af 30. januar 2008, med de ændringer, der følger af § 75 i lov nr. 1336 af 19. december 2008, § 9 i lov nr. 1344 af 19. december 2008, § 4 i lov nr. 294 af 11. april 2011, lov nr. 594 af 18. juni 2012, § 2 i lov nr. 277 af 19. marts 2013, § 9 i lov nr. 1634 af 26. december 2013, § 3 i lov nr. 554 af 2. juni 2014 og § 2 i lov nr. 1532 af 27. december 2014.
