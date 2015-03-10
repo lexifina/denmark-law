@@ -1,0 +1,1 @@
+§ 27 a. Virksomheder, der forhandler eller anvender bekæmpelsesmidler, må ikke modtage afgiftspligtige varer, der ikke er pakket og mærket efter reglerne i § 4. Virksomheden er forpligtet til, såfremt varerne er leveret, uden at disse forskrifter er overholdt, omgående at give told- og skatteforvaltningen meddelelse herom.
