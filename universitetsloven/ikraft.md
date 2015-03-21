@@ -31,3 +31,13 @@ Lov nr. 750 af 25. juni 2014 om ændring af universitetsloven og forskellige and
 Stk. 1. Loven træder i kraft den 1. juli 2014, jf. dog stk. 2.
 
 Stk. 2. § 1, nr. 7 og 11, træder i kraft den 1. september 2014.
+
+Lov nr. 1377 af 16. december 2014 om ændring af universitetsloven og forskellige andre love (Gennemsigtighed i valg af uddannelse, forsikring af gæsteforskere, krav til oversættelse af eksamensbeviser og midlertidig overgangsordning om supplering mellem bacheloruddannelse og kandidatuddannelse) indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 8
+
+Stk. 1. Loven træder i kraft den 1. januar 2015.
+
+Stk. 2. Lovens § 1, nr. 1, 4 og 5, har virkning fra den 1. september 2014.
+
+Stk. 3. Lovens § 1, nr. 1, 4 og 5, har gyldighed til og med den 31. august 2016.
