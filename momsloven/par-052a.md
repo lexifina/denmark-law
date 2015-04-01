@@ -19,3 +19,7 @@ Stk. 7. Afgiftspligtige personer, der i strid med stk. 6 på en faktura anfører
 Stk. 8. Ved prisangivelser for varer og ydelser skal det tydeligt tilkendegives, hvis prisen ikke indbefatter afgift efter denne lov.
 
 Stk. 9. Skatteministeren fastsætter de nærmere regler for krav til fakturering efter stk. 1, 3 og 4, samt regler, der fraviger fakturakravene for bestemte typer af leverancer.
+
+Stk. 10. Skatteministeren kan fastsætte nærmere regler om lempelse af faktureringspligt efter denne lov.
+
+Stk. 11. Skatteministeren kan fastsætte nærmere regler om fritagelse for faktureringspligt for virksomheder, der er tilmeldt særordningen i kapitel 16.
