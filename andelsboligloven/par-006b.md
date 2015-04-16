@@ -8,6 +8,6 @@ Stk. 4. Andelshaveren skal give andelsboligforeningen og de i tvangssalget øvri
 
 Stk. 5. Uden andelshaverens tiltræden kan købers overtagelse af den til andelen knyttede brugsret ikke ske tidligere end den første i den måned, der følger 3 måneder efter det tidspunkt, da underretning om fogedrettens salgsbeslutning kom frem til foreningen og andelshaveren. Andelsboligforeningen skal underrette andelshaveren om overtagelsesdagen senest 4 uger før den aftalte overtagelsesdag, og andelshaveren har da pligt til at fraflytte og ryddeliggøre lejligheden senest 2 uger før overtagelsesdagen.
 
-Stk. 6. Andelsboligforeningen kan modregne sine rimelige udgifter ved salget i overdragelsessummen. § 6, stk. 7, finder tilsvarende anvendelse.
+Stk. 6. Andelsboligforeningen kan modregne sine rimelige udgifter ved salget i overdragelsessummen. § 6, stk. 10, finder tilsvarende anvendelse.
 
 Stk. 7. Er salget af andelen til den pris, der er den højst tilladte i henhold til § 5 og foreningens vedtægter, ikke sket inden 15 uger eller en af fogedretten fastsat længere frist fra det tidspunkt, da underretning om fogedrettens salgsbeslutning kom frem til foreningen og andelshaveren, kan udlægshaveren forlange andelen solgt gennem fogedretten på tvangsauktion, jf. retsplejelovens § 559 a.
