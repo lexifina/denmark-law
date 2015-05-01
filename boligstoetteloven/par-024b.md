@@ -1,8 +1,8 @@
-§ 24 b. Det er en betingelse for udbetaling af boligstøtte efter § 24 a, stk. 1,
+§ 24 b. Det er en betingelse for udbetaling af boligstøtte efter § 24 a, stk. 1, nr. 1-5,
 
 1) at det kollektive bofællesskab består af mindst 5 personer, der alle opfylder betingelserne i § 24 a, stk. 1, nr. 1, eller alle opfylder betingelserne i § 24 a, stk. 1, nr. 3, eller
 
-2) at det kollektive bofællesskab består af mindst 5 personer og er etableret i medfør af § 3, stk. 2-4, eller § 5, stk. 3-5, i lov om almene boliger m.v. eller § 160 b, stk. 6, i lov om almene boliger samt støttede private andelsboliger m.v., jf. lovbekendtgørelse nr. 106 af 21. februar 2005, jf. § 24 a, stk. 1, nr. 5.
+2) at det kollektive bofællesskab består af mindst 5 personer og er etableret i medfør af§ 3, stk. 2 og 4-6, eller § 5, stk. 3-5, i lov om almene boliger m.v. eller § 160 b, stk. 6, i lov om almene boliger samt støttede private andelsboliger m.v., jf. lovbekendtgørelse nr. 106 af 21. februar 2005, jf. § 24 a, stk. 1, nr. 5.
 
 Kommunalbestyrelsen kan uanset nr. 1 og 2 i ganske særlige tilfælde godkende, at det kollektive bofællesskab består af mindst 3 personer.
 
@@ -15,3 +15,5 @@ Stk. 4. Såfremt kommunalbestyrelsen har godkendt, at det kollektive bofællessk
 Stk. 5. Det er en betingelse for udbetaling af boligstøtte efter stk. 1-3, at den fælles bolig har mindst et beboelsesrum mere end antallet af beboere.
 
 Stk. 6. Der kan ikke efter stk. 1 ydes boligstøtte til lejere i bofællesskaber, der etableres i tidligere boformer omfattet af lov om social service, medmindre der er foretaget en gennemgribende ombygning, der har medført, at boligerne er blevet væsentlig bedre egnede til bofællesskaber for personer med særlige sociale behov.
+
+Stk. 7. Kommunalbestyrelsen kan uanset stk. 1 ikke godkende, at kollektive bofællesskaber i medfør af § 3, stk. 4-6, i lov om almene boliger m.v., der er omfattet af § 24 a, stk. 1, nr. 5, består af mindst tre personer, jf. dog stk. 3.

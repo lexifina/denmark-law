@@ -12,7 +12,9 @@
 
 4) Nærtstående til personer omfattet af nr. 3, der sammen med sådanne bor i et kollektivt bofællesskab.
 
-5) Personer, der bor i kollektivt bofællesskab etableret i medfør af § 3, stk. 2-4, eller § 5, stk. 3-5, i lov om almene boliger m.v. eller § 160 b, stk. 6, i lov om almene boliger samt støttede private andelsboliger m.v., jf. lovbekendtgørelse nr. 106 af 21. februar 2005.
+5) Personer, der bor i kollektivt bofællesskab, der består af mindst fem personer etableret i medfør af § 3, stk. 2 og 4-6eller § 5, stk. 3-5, i lov om almene boliger m.v. eller § 160 b, stk. 6, i lov om almene boliger samt støttede private andelsboliger m.v., jf. lovbekendtgørelse nr. 106 af 21. februar 2005.
+
+6) Personer, der bor i et kollektivt bofællesskab i medfør af § 3, stk. 4-6, i lov om almene boliger m.v., som består af tre eller fire personer, jf. § 24 h.
 
 Stk. 2. Uanset stk. 1, nr. 2 og 4, ydes boligstøtte ikke til børn, jf. § 7, stk. 2, af personer omfattet af stk. 1, der sammen med en eller begge forældre bor i et kollektivt bofællesskab.
 
