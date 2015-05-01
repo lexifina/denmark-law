@@ -1,0 +1,1 @@
+§ 11 c. Institutioner, der udbyder videregående maritime uddannelser af mere end 18 måneders varighed, skal tilrettelægge den enkelte uddannelse således, at den studerende inden for den normerede studietid har mulighed for at gennemføre dele af uddannelsen i udlandet.

@@ -1,0 +1,3 @@
+§ 11 d. En institution kan efter aftale med en eller flere udenlandske institutioner tilrettelægge den enkelte uddannelse således, at dele af uddannelsen kan gennemføres ved anerkendte udenlandske institutioner.
+
+Stk. 2. Uddannelses- og forskningsministeren kan fastsætte nærmere regler om de aftaler, som institutionen kan indgå efter stk. 1.

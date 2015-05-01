@@ -1,0 +1,15 @@
+§ 10 a. Bestyrelsen skal forvalte uddannelsesinstitutionens midler, så de bliver til størst mulig gavn for institutionens formål.
+
+Stk. 2. Bestyrelsen skal udarbejde en flerårig plan for vedligeholdelse af uddannelsesinstitutionens bygninger m.v., som forpligter institutionen til vedligeholdelse på et forsvarligt niveau og til at sikre en forsvarlig standard af udstyr m.v. til de tilskudsberettigede aktiviteter.
+
+Stk. 3. Bestyrelsen skal under størst mulig hensyntagen til sikkerheden anbringe de likvide midler på en eller flere af følgende måder:
+
+1) I fondsaktiver eller gældsbreve, for hvilke den danske stat eller en dansk kommune står som udsteder eller garant.
+
+2) I fondsaktiver udstedt af danske realkreditinstitutter, KommuneKredit eller andre danske finansieringsinstitutter under offentligt tilsyn.
+
+3) Som indestående i pengeinstitutter hjemmehørende i Danmark eller i et andet land inden for Det Europæiske Økonomiske Samarbejdsområde (EØS).
+
+4) I værdipapirer fra et EU-/EØS-medlemsland bortset fra aktier og investeringsforeningsbeviser, som efter deres art og sikkerhed kan sidestilles med de aktiver, der er nævnt i nr. 1 og 2.
+
+Stk. 4. Bestyrelsen kan uanset stk. 3 under størst mulig hensyntagen til sikkerheden i fornødent omfang anbringe likvide midler i andelsbeviser med begrænset hæftelse eller i aktier i det pengeinstitut, som institutionen bruger som sin sædvanlige bankforbindelse, og i andelsbeviser med begrænset hæftelse i forsyningsvirksomheder m.v., hvis institutionen derved opnår økonomiske fordele. Andelene og aktierne skal afhændes, hvis institutionen skifter pengeinstitut eller ikke længere opnår den forudsatte fordel.

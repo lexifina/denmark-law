@@ -1,0 +1,1 @@
+§ 12 b. Uddannelses- og forskningsministeren kan fastsætte antallet af studiepladser for uddannelser omfattet af denne lov.
