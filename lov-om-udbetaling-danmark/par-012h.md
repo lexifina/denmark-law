@@ -1,0 +1,5 @@
+## Kapitel 3 c
+
+## Udveksling af oplysninger om dansk eller udenlandsk social sikring
+
+§ 12 h. Kommuner, regioner og Styrelsen for Patientsikkerhed har adgang til oplysninger fra Udbetaling Danmark om, hvorvidt en person er omfattet af dansk eller udenlandsk social sikring, jf. Europa-Parlamentets og Rådets forordning (EF) nr. 883/2004 om koordinering af de sociale sikringsordninger med senere ændringer eller afgørelse nr. 1/2012 vedtaget af Det Blandede Udvalg nedsat i henhold til aftalen mellem Det Europæiske Fællesskab og dets medlemsstater på den ene side og Det Schweiziske Forbund på den anden side om fri bevægelighed for personer af 31. marts 2012 om erstatning af bilag II til aftalen om koordinering af de sociale sikringsordninger eller Det Blandede EØS-udvalgs afgørelse nr. 76/2011 af 1. juli 2011 om ændring af bilag VI (social sikring) og protokol 37 til EØS-aftalen. Myndighederne, som er nævnt i 1. pkt., har adgang til oplysninger om sikringsland og oplysninger til brug for mellemstatslig refusion af udgifter til pleje- og sundhedsydelser og sygeforsikring af personer, der bor eller opholder sig i et andet land end sikringslandet.
