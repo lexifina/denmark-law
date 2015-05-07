@@ -1,0 +1,1 @@
+§ 318 i. Det centrale ledelsesorgan skal på generalforsamlingen, hvor der skal træffes beslutning om gennemførelse af en grænseoverskridende flytning, oplyse om begivenheder af væsentlig betydning, herunder væsentlige ændringer i aktiver og forpligtelser, der er indtruffet i tiden mellem flytteplanens underskrivelse og generalforsamlingen.

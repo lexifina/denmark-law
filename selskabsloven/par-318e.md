@@ -1,0 +1,11 @@
+## Mulighed for kreditorerne for at anmelde deres krav
+
+§ 318 e. Hvis vurderingsmændene i deres erklæring om kreditorernes stilling, jf. § 318 d, finder, at kreditorerne i kapitalselskabet ikke er tilstrækkeligt sikrede efter flytningen, eller hvis der ikke er udarbejdet en erklæring fra en vurderingsmand om kreditorernes stilling, kan kreditorer, hvis fordringer er stiftet forud for Erhvervsstyrelsens offentliggørelse i medfør af § 318 f, stk. 4, senest 4 uger efter offentliggørelsen anmelde deres fordringer. Fordringer, for hvilke der er stillet betryggende sikkerhed, kan dog ikke anmeldes.
+
+Stk. 2. Anmeldte fordringer, der er forfaldne, kan forlanges indfriet, og for anmeldte fordringer, der er uforfaldne, kan forlanges betryggende sikkerhed.
+
+Stk. 3. Medmindre andet godtgøres, er sikkerhedsstillelse efter stk. 2 ikke fornøden, hvis indfrielse af fordringerne er sikret ved en ordning i henhold til lov.
+
+Stk. 4. Er der mellem kapitalselskabet og anmeldte kreditorer uenighed om, hvorvidt der skal stilles sikkerhed, eller om, hvorvidt en tilbudt sikkerhed er tilstrækkelig, kan begge parter, senest 2 uger efter at fordringen er anmeldt, indbringe sagen for skifteretten på selskabets hjemsted til afgørelse af spørgsmålet.
+
+Stk. 5. Kreditor kan ikke med bindende virkning ved den aftale, der ligger til grund for fordringen, frasige sig retten til at forlange sikkerhed efter stk. 2.
