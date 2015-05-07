@@ -1,0 +1,1 @@
+§ 318 j. Generalforsamlingen kan gøre vedtagelsen af en grænseoverskridende flytning betinget af, at generalforsamlingen efterfølgende godkender de fastlagte retningslinjer for medarbejdernes medbestemmelse.
