@@ -1,23 +1,33 @@
-Lov nr. 294 af 11. april 2011, hvis § 3 ændrer § 1, stk. 2, nr. 3, litra e, indeholder blandt andet følgende ikrafttrædelsesbestemmelse:
+Lov nr. 639 af 12. juni 2013, hvis § 10 ændrer § 7, stk. 5, indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 31
+
+Loven træder i kraft den 1. januar 2014.
+
+Lov nr. 651 af 12. juni 2013, hvis § 4 ændrer § 1, stk. 2, nr. 2, litra c, og § 1, stk. 2, nr. 4, litra a og b, indeholder følgende ikrafttrædelsesbestemmelse:
 
 § 5
 
-Stk. 1. Loven træder i kraft den 14. juni 2011, jf. dog stk. 2.
+Loven træder i kraft den 1. januar 2014.
 
-Stk. 2. (Udelades).
+Lov nr. 895 af 4. juli 2013, hvis § 8 ændrer § 1, stk. 2, nr. 1, litra a, indeholder følgende ikrafttrædelsesbestemmelse:
 
-Stk. 3. (Udelades).
+§ 9
 
-Lov nr. 587 af 18. juni 2012, hvis § 1 indsætter § 11 a, indeholder følgende ikrafttrædelsesbestemmelse:
+Stk. 1. Loven træder i kraft den 1. januar 2014 […].
+
+Stk. 2-4. (Udelades).
+
+Lov nr. 576 af 10. juni 2014, hvis § 2 ændrer § 1, stk. 2, nr. 4, litra a, indeholder følgende ikrafttrædelsesbestemmelse:
 
 § 3
 
-Loven træder i kraft den 1. juli 2012.
+Loven træder i kraft den 1. oktober 2014.
 
-Lov nr. 492 af 21. maj 2013, hvis § 4 ændrer § 1, stk. 2, nr. 3, litra o, og ophæver § 1, stk. 2, nr. 3, litra p, indeholder følgende ikrafttrædelsesbestemmelse:
+Lov nr. 1482 af 23. december 2014, hvis § 68 ændrer § 1, stk. 2, nr. 1, litra a, og § 12, stk. 1 og 2, og ophæver § 12, stk. 3-5, indeholder følgende ikrafttrædelsesbestemmelse:
 
-§ 5
+§ 56
 
-Stk. 1. Loven træder i kraft den 1. juni 2013.
+Stk. 1. Loven træder i kraft den 1. januar 2015, […].
 
-Stk. 2. (Udelades).
+Stk. 2-4. (Udelades).
