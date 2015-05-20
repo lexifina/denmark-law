@@ -1,0 +1,1 @@
+§ 21 a. Oplysninger i Dansk AlmenMedicinsk Database (DAMD) om enkeltpersoners helbredsmæssige eller øvrige rent private forhold og andre fortrolige oplysninger, der ikke er opnået tilladelse til indsamling af, skal ikke afleveres til Rigsarkivet.
