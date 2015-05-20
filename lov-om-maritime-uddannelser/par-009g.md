@@ -1,4 +1,4 @@
-§ 9 g. Ministeren for forskning, innovation og videregående uddannelser kan meddele en uddannelsesinstitutions bestyrelse et påbud, hvis
+§ 9 g. Uddannelses- og forskningsministeren kan meddele en uddannelsesinstitutions bestyrelse et påbud, hvis
 
 1) uddannelsesinstitutionen ikke overholder denne lov eller regler fastsat i medfør af loven,
 
@@ -12,4 +12,4 @@ Stk. 2. Hvis en uddannelsesinstitutions bestyrelse ikke efterkommer et påbud fr
 
 2) at bestyrelsen eller dele heraf skal træde tilbage, således at en ny bestyrelse eller et eller flere nye bestyrelsesmedlemmer skal udpeges efter reglerne i uddannelsesinstitutionens vedtægt.
 
-Stk. 3. Hvis ministeren for forskning, innovation og videregående uddannelser i medfør af stk. 2, nr. 2, beslutter, at hele eller dele af bestyrelsen skal træde tilbage, kan ministeren indsætte en midlertidig bestyrelse eller et eller flere nye bestyrelsesmedlemmer, indtil der er udpeget en ny bestyrelse eller et eller flere nye bestyrelsesmedlemmer efter reglerne i institutionens vedtægt.
+Stk. 3. Hvis uddannelses- og forskningsministeren i medfør af stk. 2, nr. 2, beslutter, at hele eller dele af bestyrelsen skal træde tilbage, kan ministeren indsætte en midlertidig bestyrelse eller et eller flere nye bestyrelsesmedlemmer, indtil der er udpeget en ny bestyrelse eller et eller flere nye bestyrelsesmedlemmer efter reglerne i institutionens vedtægt.
