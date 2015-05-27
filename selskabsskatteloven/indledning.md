@@ -1,5 +1,3 @@
-Bekendtgørelse af lov om indkomstbeskatning af aktieselskaber m.v. (Selskabsskatteloven)
+Bekendtgørelse af lov om indkomstbeskatning af aktieselskaber m.v.
 
-Herved bekendtgøres lov om indkomstbeskatning af aktieselskaber m.v. (Selskabsskatteloven), jf. lovbekendtgørelse nr. 1082 af 14. november 2012, med de ændringer, der følger af § 2 i lov nr. 513 af 7. juni 2006, § 1, nr. 1, 2 og 4-7, i lov nr. 1381 af 28. december 2011, § 10 i lov nr. 433 af 16. maj 2012, § 2 i lov nr. 923 af 18. september 2012, § 2 i lov nr. 1254 af 18. december 2012, § 17 i lov nr. 1354 af 21. december 2012, § 1 i lov nr. 1394 af 23. december 2012, § 17 i lov nr. 600 af 12. juni 2013, § 1 i lov nr. 792 af 28. juni 2013, § 2 i lov nr. 1347 af 3. december 2013, § 2 i lov nr. 1562 af 20. december 2013, § 6 i lov nr. 1637 af 26. december 2013, lov nr. 170 af 26. februar 2014, § 2 i lov nr. 274 af 26, marts 2014, § 2 i lov nr. 528 af 28. maj 2014, § 6 i lov nr. 1286 af 9. december 2014, § 5 i lov nr. 1374 af 16. december 2014 og § 4 i lov nr. 1375 af 16. december 2014.
-
-De ændringer, der følger af § 4 i lov nr. 624 af 14. juni 2011, er ikke indarbejdet i denne lovbekendtgørelse, da ændringen efterfølgende er ophævet, jf. § 6 i lov nr. 1255 af 18. december 2012.
+Herved bekendtgøres lov om indkomstbeskatning af aktieselskaber m.v., jf. lovbekendtgørelse nr. 149 af 9. januar 2015, med de ændringer, der følger af § 3 i lov nr. 202 af 27. februar 2015, § 5 i lov nr. 540 af 29. april 2015 og § 3 i lov nr. 581 af 4. maj 2015.
