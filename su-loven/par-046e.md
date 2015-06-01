@@ -10,6 +10,6 @@ Stk. 3. Det samlede udlandsstudielån kan højst udgøre 100.000 kr. (2013-nivea
 
 Stk. 4. Den uddannelsessøgende skal angive, med hvilket beløb udlandsstudielånet skal optages.
 
-Stk. 5. Udlandsstudielånet forrentes og tilbagebetales efter §§ 33, 35 og 36 og regler fastsat i medfør heraf.
+Stk. 5. Udlandsstudielånet forrentes og tilbagebetales efter §§ 33, 35, 36 og 38 og regler fastsat i medfør heraf.
 
-Stk. 6. Ministeren for forskning, innovation og videregående uddannelser kan fastsætte nærmere regler for tildeling og udbetaling af udlandsstudielån.
+Stk. 6. Uddannelses- og forskningsministeren kan fastsætte nærmere regler for tildeling og udbetaling af udlandsstudielån.
