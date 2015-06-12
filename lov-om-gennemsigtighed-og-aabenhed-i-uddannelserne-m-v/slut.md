@@ -1,5 +1,5 @@
-Undervisningsministeriet, den 19. september 2005
+Undervisningsministeriet, den 10. juni 2015
 
-Bertel Haarder
+P.M.V. Per Hansen Afdelingschef
 
-/Arne Andreasen
+/ Kira Gandrup
