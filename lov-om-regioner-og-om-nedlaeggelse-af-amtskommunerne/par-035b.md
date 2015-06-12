@@ -1,1 +1,1 @@
-§ 35 b. (Ophævet).
+§ 35 b. (Ophævet)
