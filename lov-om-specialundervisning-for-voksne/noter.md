@@ -1,3 +1,3 @@
-1) Loven er bekendtgjort i Lovtidende den 29. april 1993.
+1) Lovændringen vedrører § 6 h.
 
-2) Loven er bekendtgjort i Lovtidende den 17. maj 1995.
+2) Lovændringen vedrører § 1, stk. 2, § 1 b, § 4, stk. 1, 2. pkt., § 5, stk. 4, § 6 h, stk. 2, og kapitel 5 b.
