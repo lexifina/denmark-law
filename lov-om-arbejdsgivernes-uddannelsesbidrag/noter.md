@@ -1,13 +1,13 @@
-1) Det vil sige den nye affattelse af § 4, stk. 1, § 5, § 14 a, § 17 a, § 18, stk. 1, § 18, stk. 3, § 20, stk. 3, § 22, stk. 1, 1. pkt., § 23 a og § 38, stk. 2.
+1) Lovændringen vedrører § 4, stk. 5 (§ 4, stk. 5, var i 2000 § 4, stk. 3), § 5 og § 15 a.
 
-2) Det vil sige den nye affattelse af § 3, § 4, stk. 3, § 7 a, § 11, stk. 4, § 12 a, § 14, stk. 2, § 15 og § 20, stk. 2, 4. pkt.
+2) Lovændringen vedrører § 30.
 
-3) Det vil sige den nye affattelse af § 5, stk. 2.
+3) Lovændringen vedrører § 4, stk. 1, § 6, stk. 1, 2. pkt., § 8, § 9, stk. 1 og 3, § 10, stk. 1, § 11, stk. 1, 1. pkt., og stk. 4, § 12, § 12 c, stk. 1, § 15, stk. 2, og § 20, stk. 4, nr. 1.
 
-4) Det vil sige § 15 a.
+4) Lovændringen vedrører § 15 b.
 
-5) Ved § 17, stk. 1 i lov nr. 561 af 6. juni 2007 blev lov om grundlæggende social- og sundhedsuddannelser ophævet. Ved § 17, stk. 3, blev regler fastsat i medfør af den lov opretholdt, indtil de ophæves eller afløses af nye regler, fastsat i medfør af lov om erhvervsuddannelser.
+5) Lovændringen vedrører lovens titel, § 3, stk. 1, 2. pkt., kapitel 4 a, overskriften til kapitel 5, § 13, kapitel 5 b, kapitel 6, § 17 b, § 18, stk. 1, § 22, stk. 3, 1. pkt., § 26 a, stk. 2, 1. pkt., og § 41 a.
 
-6) Ved § 18, stk. 1, i lov nr. 561 af 6. juni 2007 blev lov om landbrugsuddannelser ophævet. Ved § 18, stk. 2, blev regler om uddannelsen til faglært landmand (landbrugets grunduddannelse) og landbrugets overbygningsuddannelser fastsat i medfør af den lov opretholdt, indtil de ophæves eller afløses af nye regler, fastsat i medfør af lov om erhvervsuddannelser.
+6) Lovændringen vedrører § 4, stk. 2 og 4, § 5, stk. 2, 1. pkt., § 6, stk. 1, 2. pkt., § 7 a, stk. 1, 1. pkt., § 9, stk. 1, § 11, stk. 1, 1. pkt., og § 18, stk. 1, 2. pkt., og stk. 2, 1. og 2. pkt.
 
-7) Lov nr. 484 af 17. juni 2008 blev kundgjort i Lovtidende den 18. juni 2008.
+7) Lovændringen vedrører kapitel 2 a, overskriften til kapitel 3, § 7 a, stk. 1, § 18, stk. 1, 1. pkt., og § 18, stk. 1, 2. og 3. pkt.
