@@ -1,3 +1,7 @@
+## Kapitel 5 b
+
+## (Ophævet)
+
 ## Kapitel 6
 
 ## Fælles bestemmelser om forsøg, medarbejderuddannelse, klage m.v.
