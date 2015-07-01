@@ -1,0 +1,1 @@
+§ 15 a. Antages beboerindskud efter §§ 12-15 ikke at kunne dække eventuelle lejerestancer og istandsættelse ved fraflytning, kan huslejenævnet tillade, at beboerindskuddet forhøjes ved genudlejning, dog kun til et beløb svarende til 3 måneders husleje.
