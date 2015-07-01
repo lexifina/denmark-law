@@ -1,8 +1,8 @@
 § 50 e. Det er en betingelse for aftalens gyldighed, at
 
-1) aftalen er indgået på en af Ministeriet for By, Bolig og Landdistrikter udarbejdet aftaleblanket,
+1) aftalen er indgået på en af Udlændinge-, Integrations- og Boligministeriet udarbejdet aftaleblanket,
 
-2) lejerne fra udlejer før aftalens indgåelse modtager huslejenævnets afgørelse om forhåndsgodkendelse af lejeforhøjelsen for det enkelte lejemål efter § 25 e i lov om midlertidig regulering af boligforholdene eller § 59 e i lov om leje som følge af gennemførelse af de energibesparende arbejder,
+2) lejerne fra udlejer før aftalens indgåelse modtager huslejenævnets afgørelse om forhåndsgodkendelse af lejeforhøjelsen for det enkelte lejemål efter § 59 a, stk. 6 i lov om leje som følge af gennemførelse af de energibesparende arbejder,
 
 3) lejerne fra udlejer før aftalens indgåelse modtager en skriftlig erklæring udarbejdet af et certificeret energimærkningsfirma om de energimæssige konsekvenser af aftalen,
 
