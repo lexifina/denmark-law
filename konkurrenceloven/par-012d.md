@@ -1,10 +1,10 @@
-§ 12 d. Senest 25 hverdage efter modtagelsen af en fuldstændig anmeldelse, jf. dog § 12 h, stk. 5, 3. pkt., træffes beslutning om, hvorvidt fusionen kan godkendes, herunder om fusionen kan godkendes efter en forenklet sagsbehandling. Inden for samme frist kan der træffes beslutning om en særskilt undersøgelse af fusionen.
+§ 12 d. Senest 25 hverdage efter modtagelsen af en fuldstændig anmeldelse, jf. dog § 12 h, stk. 5, 3. pkt., træffes beslutning om, hvorvidt fusionen kan godkendes, herunder om fusionen kan godkendes efter en forenklet sagsbehandling. Fristen i 1. pkt. kan forlænges til 35 hverdage, hvis en eller flere af de deltagende virksomheder foreslår tilsagn, herunder reviderede tilsagn. Inden for fristen i 1. eller 2. pkt. kan der træffes beslutning om en særskilt undersøgelse af fusionen.
 
-Stk. 2. Indledes en særskilt undersøgelse af en fusion, jf. stk. 1, 2. pkt., træffes beslutning om godkendelse af eller forbud mod fusionen senest 90 hverdage efter udløbet af den i stk. 1 nævnte frist.
+Stk. 2. Indledes en særskilt undersøgelse af en fusion, jf. stk. 1, 3. pkt., træffes beslutning om godkendelse af eller forbud mod fusionen senest 90 hverdage fra beslutningen om at indlede en særskilt undersøgelse.
 
-Stk. 3. Fristen i stk. 2 forlænges med op til 20 hverdage, hvis en eller flere af de deltagende virksomheder foreslår nye eller reviderede tilsagn. Fristen forlænges kun, hvis der på tidspunktet for afgivelsen af tilsagnene er mindre end 20 hverdage tilbage til, at der efter stk. 2 skulle være truffet en afgørelse, og således, at der er samlet 20 hverdage til vurderingen af fusionen i lyset af de nye eller reviderede tilsagn.
+Stk. 3. Fristen i stk. 2 forlænges med op til 20 hverdage, hvis en eller flere af de deltagende virksomheder foreslår tilsagn, herunder reviderede tilsagn. Fristen forlænges kun, hvis der på tidspunktet for afgivelsen af tilsagnene er mindre end 20 hverdage tilbage til, at der efter stk. 2 skulle være truffet en afgørelse, og således, at der er samlet 20 hverdage til vurderingen af fusionen i lyset af tilsagnene.
 
-Stk. 4. Fristen i stk. 2 kan tillige forlænges efter beslutning fra Konkurrencerådet, forudsat at den eller de virksomheder, der har foretaget anmeldelsen, anmoder herom eller samtykker heri. En forlængelse kan ikke overstige 20 hverdage.
+Stk. 4. Fristen i stk. 2 kan tillige forlænges efter beslutning fra Konkurrence- og Forbrugerstyrelsen, forudsat at den eller de virksomheder, der har foretaget anmeldelsen, anmoder herom eller samtykker heri. En forlængelse kan ikke overstige 20 hverdage.
 
 Stk. 5. Er der ikke truffet afgørelse inden for de frister, der følger af stk. 1-4, betragtes dette som en afgørelse om godkendelse af fusionen, jf. dog stk. 6.
 

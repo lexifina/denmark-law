@@ -2,7 +2,7 @@
 
 ## Konkurrenceforvridende støtte
 
-§ 11 a. Konkurrencerådet kan udstede påbud om, at støtte, der er ydet ved hjælp af offentlige midler til fordel for bestemte former for erhvervsvirksomhed, skal bringes til ophør eller skal tilbagebetales.
+§ 11 a. Konkurrence- og Forbrugerstyrelsen kan udstede påbud om, at støtte, der er ydet ved hjælp af offentlige midler til fordel for bestemte former for erhvervsvirksomhed, skal bringes til ophør eller skal tilbagebetales.
 
 Stk. 2. Påbud efter stk. 1 kan udstedes, når støtten
 
@@ -10,15 +10,15 @@ Stk. 2. Påbud efter stk. 1 kan udstedes, når støtten
 
 2) ikke er lovlig i henhold til offentlig regulering.
 
-Stk. 3. Afgørelse af, om ydet støtte er lovlig i henhold til offentlig regulering, træffes af vedkommende minister, henholdsvis af den pågældende kommunale tilsynsmyndighed, medmindre andet følger af anden lovgivning. Afgørelse af, hvorvidt en ydet støtte er lovlig i henhold til offentlig regulering, skal træffes senest fire uger fra modtagelsen af rådets anmodning. Konkurrencerådet kan forlænge fristen.
+Stk. 3. Afgørelse af, om ydet støtte er lovlig i henhold til offentlig regulering, træffes af vedkommende minister, henholdsvis af den pågældende kommunale tilsynsmyndighed, medmindre andet følger af anden lovgivning. Afgørelse af, hvorvidt en ydet støtte er lovlig i henhold til offentlig regulering, skal træffes senest fire uger fra modtagelsen af styrelsens anmodning. Konkurrence- og Forbrugerstyrelsen kan forlænge fristen.
 
 Stk. 4. Påbud efter stk. 1 om tilbagebetaling af støtte kan rettes til private erhvervsvirksomheder, selvejende institutioner samt helt eller delvis offentligt ejede virksomheder, der drives i selskabsform. Erhvervs- og vækstministeren kan fastsætte nærmere regler om, at påbud efter stk. 1 om tilbagebetaling af støtte også kan rettes til nærmere bestemte helt eller delvis offentligt ejede virksomheder, der drives i selskabslignende form.
 
-Stk. 5. Konkurrencerådets beføjelser efter stk. 1 til at påbyde offentlig støtte tilbagebetalt forældes 5 år efter, at støtten er udbetalt. Konkurrencerådet fastsætter renter i forbindelse med påbud om tilbagebetaling efter stk. 1 af ulovlig støtte. Forrentning skal ske med den i henhold til EU’s statsstøtteregler til enhver tid fastsatte rentesats, der anvendes ved tilbagebetaling af statsstøtte. Konkurrencerådet kan fastsætte, at renter tilskrives med renters rente fra den dato, hvor den ulovlige støtte første gang blev stillet til rådighed for modtageren, og indtil datoen for tilbagebetalingen af støtten. Renter, der er påløbet i det foregående år, tilskrives renter hvert efterfølgende år.
+Stk. 5. Konkurrence- og Forbrugerstyrelsens beføjelser efter stk. 1 til at påbyde offentlig støtte tilbagebetalt forældes 5 år efter, at støtten er udbetalt. Konkurrence- og Forbrugerstyrelsen fastsætter renter i forbindelse med påbud om tilbagebetaling efter stk. 1 af ulovlig støtte. Forrentning skal ske med den i henhold til EU’s statsstøtteregler til enhver tid fastsatte rentesats, der anvendes ved tilbagebetaling af statsstøtte. Konkurrence- og Forbrugerstyrelsen kan fastsætte, at renter tilskrives med renters rente fra den dato, hvor den ulovlige støtte første gang blev stillet til rådighed for modtageren, og indtil datoen for tilbagebetalingen af støtten. Renter, der er påløbet i det foregående år, tilskrives renter hvert efterfølgende år.
 
-Stk. 6. Konkurrencerådet kan efter anmeldelse erklære, at offentlig støtte efter de forhold, som Konkurrencerådet har kendskab til, ikke er omfattet af stk. 2, nr. 1, og at der derfor ikke er grundlag for at udstede påbud i medfør af stk. 1. Rådet kan fastsætte nærmere regler om anmeldelse, herunder om brug af særlige anmeldelsesskemaer.
+Stk. 6. Konkurrence- og Forbrugerstyrelsen kan efter anmeldelse erklære, at offentlig støtte efter de forhold, som Konkurrence- og Forbrugerstyrelsen har kendskab til, ikke er omfattet af stk. 2, nr. 1, og at der derfor ikke er grundlag for at udstede påbud i medfør af stk. 1. Styrelsen kan fastsætte nærmere regler om anmeldelse, herunder om brug af særlige anmeldelsesskemaer.
 
-Stk. 7. Konkurrencerådet kan undlade at behandle en sag efter stk. 1-6, hvis den pågældende støtteordning kan påvirke samhandelen mellem medlemsstaterne i Den Europæiske Union.
+Stk. 7. Konkurrence- og Forbrugerstyrelsen kan undlade at behandle en sag efter stk. 1-6, hvis den pågældende støtteordning kan påvirke samhandelen mellem medlemsstaterne i Den Europæiske Union.
 
 Stk. 8. Påbud om, at støtte skal bringes til ophør, jf. stk. 1, kan udstedes, uanset hvornår beslutningen om at yde den pågældende støtte er truffet.
 
