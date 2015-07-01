@@ -1,0 +1,1 @@
+§ 20 c. Ved oprensnings- og uddybningsmaterialer forstås havbundsmateriale, der fremkommer ved oprensning eller uddybning af havne og sejlrender, eller når der i andre tilfælde er brug for oprensning eller uddybning på søterritoriet.
