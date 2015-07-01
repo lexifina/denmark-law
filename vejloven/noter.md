@@ -1,0 +1,1 @@
+1) Loven indeholder bestemmelser, der gennemfører dele af Europa-Parlamentets og Rådets direktiv 2014/61/EU af 15. maj 2014 om foranstaltninger for at reducere omkostninger ved etablering af højhastighedsnet til elektronisk kommunikation, EU-Tidende 2014, nr. L 155, side 1.
