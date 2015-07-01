@@ -1,4 +1,4 @@
-§ 18 a. Konkurrence- og Forbrugerstyrelsen kan til andre landes konkurrencemyndigheder under forbehold om gensidighed videregive oplysninger, som er omfattet af Konkurrence- og Forbrugerstyrelsens tavshedspligt, og som er nødvendige for at fremme håndhævelsen af disse landes konkurrencelovgivning, herunder med henblik på at opfylde Danmarks bilaterale eller multilaterale forpligtelser.
+§ 18 a. Konkurrence- og Forbrugerstyrelsen kan til andre konkurrencemyndigheder under forbehold om gensidighed videregive oplysninger, som er omfattet af Konkurrence- og Forbrugerstyrelsens tavshedspligt, og som er nødvendige for at fremme håndhævelsen af disse myndigheders konkurrencelovgivning, herunder med henblik på at opfylde Danmarks bilaterale eller multilaterale forpligtelser.
 
 Stk. 2. Ved videregivelse af oplysninger til myndigheder i medfør af stk. 1 skal Konkurrence- og Forbrugerstyrelsen betinge videregivelsen af, at oplysningerne
 

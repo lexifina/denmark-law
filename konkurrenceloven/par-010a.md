@@ -2,7 +2,7 @@
 
 ## Dominerende virksomheders samhandelsbetingelser
 
-§ 10 a. Konkurrencerådet kan påbyde en dominerende virksomhed at indsende sine generelle samhandelsbetingelser til Konkurrence- og Forbrugerstyrelsen, når
+§ 10 a. Konkurrence- og Forbrugerstyrelsen kan påbyde en dominerende virksomhed at indsende sine generelle samhandelsbetingelser, når
 
 1) der foreligger en ikke ubegrundet klage fra en konkurrent,
 
@@ -16,11 +16,11 @@ Stk. 2. Påbud efter stk. 1 gælder i 2 år fra det tidspunkt, hvor afgørelsen 
 
 Stk. 3. Ved »samhandelsbetingelser« forstås det til enhver tid gældende grundlag, hvorefter en virksomhed generelt fastsætter sine priser, rabatter, markedsføringstilskud og gratisydelser samt vilkårene for, at virksomheden vil kunne yde disse økonomiske fordele over for sine handelspartnere.
 
-Stk. 4. Virksomheder, der har indsendt samhandelsbetingelser efter stk. 1, kan anmode Konkurrencerådet om at få disse vurderet. Konkurrencerådet træffer afgørelse inden for 6 måneder. Fristen løber fra det tidspunkt, hvor Konkurrence- og Forbrugerstyrelsen har modtaget de oplysninger fra virksomheden, der er nødvendige for at vurdere samhandelsbetingelserne. Har Konkurrencerådet ikke truffet afgørelse inden for denne frist, betragtes samhandelsbetingelserne som godkendt.
+Stk. 4. Virksomheder, der har indsendt samhandelsbetingelser efter stk. 1, kan anmode Konkurrence- og Forbrugerstyrelsen om at få disse vurderet. Konkurrence- og Forbrugerstyrelsen træffer afgørelse inden for 6 måneder. Fristen løber fra det tidspunkt, hvor Konkurrence- og Forbrugerstyrelsen har modtaget de oplysninger fra virksomheden, der er nødvendige for at vurdere samhandelsbetingelserne. Har Konkurrence- og Forbrugerstyrelsen ikke truffet afgørelse inden for denne frist, betragtes samhandelsbetingelserne som godkendt.
 
-Stk. 5. Konkurrencerådet kan undlade at træffe afgørelse, hvis afgørelsen kan have betydning for, om en eller flere virksomheder misbruger en dominerende stilling på fællesmarkedet eller en væsentlig del heraf, og samhandelen mellem medlemsstaterne i Den Europæiske Union mærkbart kan påvirkes heraf.
+Stk. 5. Konkurrence- og Forbrugerstyrelsen kan undlade at træffe afgørelse, hvis afgørelsen kan have betydning for, om en eller flere virksomheder misbruger en dominerende stilling på fællesmarkedet eller en væsentlig del heraf, og samhandelen mellem medlemsstaterne i Den Europæiske Union mærkbart kan påvirkes heraf.
 
-Stk. 6. Såfremt samhandelsbetingelserne er i strid med § 11, stk. 1, eller administreres i strid med § 11, stk. 1, kan Konkurrencerådet udstede påbud om, at en eller flere af bestemmelserne i samhandelsbetingelserne skal ophæves eller ændres. Såfremt samhandelsbetingelserne er udformet på en sådan måde, at Konkurrencerådet ikke har et tilstrækkeligt beslutningsgrundlag til at kunne vurdere, om samhandelsbetingelserne er i strid med § 11, stk. 1, kan Konkurrencerådet udstede påbud om, at en eller flere af bestemmelserne skal præciseres.
+Stk. 6. Såfremt samhandelsbetingelserne er i strid med § 11, stk. 1, eller administreres i strid med § 11, stk. 1, kan Konkurrence- og Forbrugerstyrelsen udstede påbud om, at en eller flere af bestemmelserne i samhandelsbetingelserne skal ophæves eller ændres. Såfremt samhandelsbetingelserne er udformet på en sådan måde, at Konkurrence- og Forbrugerstyrelsen ikke har et tilstrækkeligt beslutningsgrundlag til at kunne vurdere, om samhandelsbetingelserne er i strid med § 11, stk. 1, kan Konkurrence- og Forbrugerstyrelsen udstede påbud om, at en eller flere af bestemmelserne skal præciseres.
 
 Stk. 7. Anvender en dominerede virksomhed, der har fået et påbud efter stk. 1, over for handelspartnere på det danske marked priser, rabatter, økonomiske fordele eller øvrige vilkår, som i ikke ubetydelige grad afviger fra eller ikke fremgår af de samhandelsbetingelser, der er indsendt til Konkurrence- og Forbrugerstyrelsen, kan dette tillægges betydning i forhold til den almindelige bevisførelse i en sag efter § 11.
 

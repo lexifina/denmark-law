@@ -16,4 +16,4 @@ Stk. 4. Der foreligger ikke en fusion i henhold til stk. 1,
 
 3) når de i stk. 1, nr. 2, nævnte transaktioner gennemføres af holdingselskaber som defineret i årsregnskabsdirektivet, dog med den begrænsning, at de stemmerettigheder, der er knyttet til de andele, de er i besiddelse af, navnlig i forbindelse med udnævnelse af medlemmer af ledelsesorganerne og tilsynsorganerne i de virksomheder, hvor de har andele, kun benyttes til at bevare den fulde værdi af disse investeringer og ikke til direkte eller indirekte at bestemme den konkurrencemæssige adfærd i disse virksomheder.
 
-Stk. 5. Konkurrencerådet kan efter anmodning forlænge fristen i stk. 4, nr. 1, hvis kreditinstituttet, den finansielle virksomhed eller forsikringsselskabet godtgør, at der ikke har været rimelig mulighed for at foretage afhændelsen inden for den fastsatte frist.
+Stk. 5. Konkurrence- og Forbrugerstyrelsen kan efter anmodning forlænge fristen i stk. 4, nr. 1, hvis kreditinstituttet, den finansielle virksomhed eller forsikringsselskabet godtgør, at der ikke har været rimelig mulighed for at foretage afhændelsen inden for den fastsatte frist.
