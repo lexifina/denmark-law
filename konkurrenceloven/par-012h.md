@@ -14,6 +14,8 @@ Stk. 7. Et allerede betalt gebyr efter stk. 2-4 tilbagebetales ikke, medmindre
 
 1) en anmeldt transaktion ikke er anmeldelsespligtig,
 
-2) en anmeldelse trækkes tilbage, før anmeldelsen er fuldstændig, eller
+2) en anmeldelse trækkes tilbage, før anmeldelsen er fuldstændig,
 
-3) en anmeldelse trækkes tilbage, før der er truffet afgørelse efter § 12 c, stk. 1 eller 7, og tilbagekaldelsen skyldes, at en anden dansk myndighed har givet afslag på tilladelse til sammenlægning af virksomheder, der indgår i den anmeldte fusion.
+3) en anmeldelse trækkes tilbage, før der er truffet afgørelse efter § 12 c, stk. 1 eller 7, og tilbagekaldelsen skyldes, at en anden dansk myndighed har givet afslag på tilladelse til sammenlægning af virksomheder, der indgår i den anmeldte fusion, eller
+
+4) Erhvervsstyrelsen ikke havde grundlag for at henvise en fusion til Konkurrence- og Forbrugerstyrelsen, jf. § 12, stk. 1, nr. 3.
