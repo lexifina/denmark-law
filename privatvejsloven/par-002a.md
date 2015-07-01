@@ -1,0 +1,1 @@
+§ 2 a. Vejmyndigheden for en offentlig sti kan bestemme, at en privat fællesvej skal have status som offentlig sti, men i øvrigt bibeholdes som privat fællesvej. Vejmyndigheden for den offentlige sti afholder en forholdsmæssig andel af udgifterne til den private fællesvejs vedligeholdelse.

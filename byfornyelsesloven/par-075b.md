@@ -8,4 +8,4 @@ Stk. 4. For øvrige ejendomme udgør de værdiforøgende udgifter den del af de 
 
 Stk. 5. §§ 18 og 29 finder tilsvarende anvendelse på erstatning efter stk. 1-4.
 
-Stk. 6. Erstatningsfastsættelse efter stk. 1 og § 75 a, stk. 4, nr. 2, kan af ejeren indbringes for de taksationsmyndigheder, der er nævnt i lov om offentlige veje, inden 6 uger efter at afgørelsen er meddelt ejeren. Ved sagens behandling for taksationsmyndighederne finder reglerne i lov om offentlige veje § 51, stk. 2, §§ 53-55 og § 66 tilsvarende anvendelse.
+Stk. 6. Erstatningsfastsættelse efter stk. 1 og § 75 a, stk. 4, nr. 2, kan af ejeren indbringes for de taksationsmyndigheder, der er nævnt i lov om offentlige veje, inden 6 uger efter at afgørelsen er meddelt ejeren. Ved sagens behandling for taksationsmyndighederne finder reglerne i lov om offentlige veje § 103, stk. 2, §§ 114-118 og § 122 tilsvarende anvendelse.
