@@ -1,6 +1,6 @@
-§ 43 a. Den apoteker, der inden for rammerne af sin apotekerbevilling ønsker at forhandle lægemidler online til brugerne, skal give Sundhedsstyrelsen meddelelse herom, før forhandlingen påbegyndes.
+§ 43 a. Den apoteker, der inden for rammerne af sin apotekerbevilling ønsker at forhandle lægemidler online til brugerne, og den apoteker, der har opnået bevilling til alene at drive apoteksvirksomhed online, skal give Sundhedsstyrelsen meddelelse herom, før forhandlingen påbegyndes.
 
-Stk. 2. Sundhedsstyrelsen fastsætter regler om de særlige, supplerende forpligtelser, der påhviler apotekere, der har givet meddelelse efter stk. 1, herunder regler om:
+Stk. 2. Sundhedsstyrelsen fastsætter regler om de særlige, supplerende forpligtelser, der påhviler apotekere, der er nævnt i stk. 1, herunder regler om:
 
 1) De oplysninger, som skal ledsage meddelelsen, og om pligt til at underrette Sundhedsstyrelsen om eventuelle ændringer af disse oplysninger.
 
