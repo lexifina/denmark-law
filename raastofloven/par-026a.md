@@ -16,7 +16,7 @@
 
 8) Danmarks Rederiforening,
 
-9) Foreningen af Danske Ral- og Sandsugere,
+9) Danske Råstoffer,
 
 10) Danmarks Fiskeriforening og
 
