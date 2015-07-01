@@ -4,7 +4,7 @@ Stk. 2. Ansøgningen fremsendes til kommunalbestyrelsen bilagt
 
 1) den skriftlige erklæring fra et certificeret energimærkningsfirma om de energimæssige konsekvenser af projektet, jf. § 50 e, stk. 1, nr. 3, og
 
-2) huslejenævnets afgørelse om forhåndsgodkendelse af lejeforhøjelsen for det enkelte lejemål efter § 25 e i lov om midlertidig regulering af boligforholdene eller § 59 e i lov om leje som følge af gennemførelse af de energibesparende arbejder, jf. § 50 e, stk. 1, nr. 2, eller dokumentation for, at aftalen efter § 50 a er tiltrådt af samtlige lejere.
+2) huslejenævnets afgørelse om forhåndsgodkendelse af lejeforhøjelsen for det enkelte lejemål efter § 59 a, stk. 6 i lov om leje som følge af gennemførelse af de energibesparende arbejder, jf. § 50 e, stk. 1, nr. 2, eller dokumentation for, at aftalen efter § 50 a er tiltrådt af samtlige lejere.
 
 Stk. 3. Kommunalbestyrelsen kan stille krav om oplysninger vedrørende projektet og ejendommen, som er relevante for behandlingen af ansøgningen.
 
