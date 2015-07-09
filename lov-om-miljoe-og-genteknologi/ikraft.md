@@ -10,7 +10,7 @@ Lov nr. 145 af 25. marts 2002 om ændring af forskellige love som følge af samm
 
 § 78
 
-Loven træder i kraft den 1. januar 2003, jf. dog § 79, stk. 1.
+Stk. 1. Loven træder i kraft den 1. januar 2003, jf. dog § 79, stk. 1.
 
 Stk. 2. (Udeladt)
 
@@ -18,7 +18,7 @@ Lov nr. 384 af 6. juni 2002 om ændring af lov om miljø og genteknologi, der æ
 
 § 2
 
-Loven træder i kraft den 17. oktober 2002.
+Stk. 1. Loven træder i kraft den 17. oktober 2002.
 
 Stk. 2. Regler udstedt i medfør af de hidtil gældende bestemmelser forbliver i kraft, indtil de ophæves eller der udstedes nye regler efter denne lov.
 
@@ -28,7 +28,7 @@ Lov nr. 436 af 9. juni 2004 om dyrkning m.v. af genetisk modificerede afgrøder,
 
 § 21
 
-Tidspunktet for lovens eller dele af lovens ikrafttræden fastsættes af ministeren for fødevarer, landbrug og fiskeri.
+Stk. 1. Tidspunktet for lovens eller dele af lovens ikrafttræden fastsættes af ministeren for fødevarer, landbrug og fiskeri.
 
 Stk. 2. § 13, stk. 3, i lov om miljø og genteknologi, jf. lovbekendtgørelse nr. 981 af 3. december 2002, ophæves.
 
@@ -36,7 +36,7 @@ Lov nr. 440 af 9. juni 2004 om Det Etiske Råd, som ændrer § 9 a, indeholder f
 
 § 11
 
-Loven træder i kraft den 1. januar 2005, jf. dog stk. 3.
+Stk. 1. Loven træder i kraft den 1. januar 2005, jf. dog stk. 3.
 
 Stk. 2-3. (Udeladt)
 
@@ -62,7 +62,7 @@ Lov nr. 545 af 24. juni 2005 om ændring af forskellige love på sundhedsområde
 
 § 18
 
-Stk. 1. Loven træder i kraft den 1. januar 2007.
+Loven træder i kraft den 1. januar 2007.
 
 Lov nr. 565 af 24. juni 2005 om ændring af lov om miljø og genteknologi (Konsekvensrettelser som følge af kommunalreformen), som ændrer §§ 18, 20, 25, 27, 29, 30, 34, og ophæver § 28 og § 32, indeholder følgende ikrafttrædelses- og overgangsbestemmelser:
 
@@ -127,3 +127,45 @@ I lov nr. 1270 af 16. december 2009 om ændring af lov om miljø og genteknologi
 § 2
 
 Loven træder i kraft den 1. januar 2010.
+
+Lov nr. 484 af 11. maj 2010 om ændring af lov om naturbeskyttelse, lov om miljøbeskyttelse og forskellige andre love (Ændringer som følge af lov om Natur- og Miljøklagenævnet m.v.), som ændret ved § 2 i lov nr. 1608 af 22. december 2010, hvis § 20 angår § 30, stk. 5, to steder i § 31, stk. 3, § 31, stk. 4, 6, 7, to steder i § 31, stk. 8, og § 34, indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 28
+
+Stk. 1. Loven træder i kraft den 1. januar 2011, jf. dog stk. 2.
+
+Stk. 2-3. (Udeladt)
+
+Stk. 4. Verserende sager i Miljøklagenævnet, der ikke er færdigbehandlet ved lovens ikrafttræden, færdigbehandles efter lov om Natur- og Miljøklagenævnet af Natur- og Miljøklagenævnet med den i § 5, stk. 1, nr. 1, i lov om Natur- og Miljøklagenævnet nævnte sammensætning. I sager, hvor der efter de hidtil gældende regler er udtaget sagkyndige til behandling af den pågældende sag, sammensættes Natur- og Miljøklagenævnet med deltagelse af disse.
+
+Stk. 5-6. (Udeladt)
+
+Stk. 7. Miljøministeren kan i øvrigt fastsætte overgangsregler.
+
+Lov nr. 1273 af 21. december 2011 om ændring af lov om miljøbeskyttelse, lov om planlægning og forskellige andre love (Digital annoncering, obligatorisk digital kommunikation, afskæring af klageadgang), hvis § 6 angår § 9 a, stk. 2, § 13, stk. 3, § 25 f, stk. 4, og § 26, stk. 3, indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 20
+
+Loven træder i kraft den 1. januar 2012.
+
+Lov nr. 580 af 18. juni 2012 om ændring af lov om Natur- og Miljøklagenævnet og forskellige andre love (Reform af klagesystemet på natur- og miljøområdet mv.), hvis § 9 angår § 31, stk. 8, og § 32, indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 28
+
+Stk. 1. Loven træder i kraft den 1. august 2012, jf. dog stk. 2.
+
+Stk. 2. (Udeladt)
+
+Stk. 3. Loven finder anvendelse på afgørelser truffet i 1. instans efter lovens ikrafttræden.
+
+Stk. 4. (Udeladt)
+
+Lov nr. 86 af 28. januar 2014 om ændring af lov om Natur- og Miljøklagenævnet og forskellige andre love (Obligatorisk digital selvbetjening ved indgivelse af klage samt obligatorisk videresendelse af klage over lokalplan til Natur- og Miljøklagenævnet m.v.), hvis § 8 angår § 32, stk. 1, og § 32, stk. 4-5, indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 26
+
+Stk. 1. Loven træder i kraft den 1. februar 2014, jf. dog stk. 2.
+
+Stk. 2. Miljøministeren fastsætter tidspunktet for ikrafttræden af §§ 1-6, § 7, nr. 2 og 3, og §§ 8-25.
+
+Stk. 3. Loven finder ikke anvendelse for klager over afgørelser, der træffes, før loven træder i kraft. For sådanne klager finder de hidtidige regler anvendelse.

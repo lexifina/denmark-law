@@ -1,3 +1,13 @@
 1) Loven indeholder bestemmelser, der gennemfører dele af Rådets direktiv 79/409/EØF af 2. april 1979 om beskyttelse af vilde fugle (EF-fuglebeskyttelsesdirektivet), EF-Tidende 1979 nr. L 103, side 1, som ændret senest ved Rådets direktiv 2006/105/EF af 20. november 2006, EU-Tidende 2006 nr. L 363, side 368, dele af Rådets direktiv 92/43/EØF af 21. maj 1992 om bevaring af naturtyper samt vilde dyr og planter (EF-habitatdirektivet), EF-Tidende 1992 nr. L 206, side 7, som ændret senest ved Rådets direktiv 2006/105/EF af 20. november 2006, EU-Tidende 2006 nr. L 363, side 368, dele af Europa-Parlamentets og Rådets direktiv 2001/18/EF af 12. marts 2001 om udsætning i miljøet af genetisk modificerede organismer og om ophævelse af Rådets direktiv 90/220/EØF, EF-Tidende 2001 nr. L 106, side 1, dele af Europa-Parlamentets og Rådets direktiv 2004/35/EF af 21. april 2004 om miljøansvar, for så vidt angår forebyggelse og afhjælpning af miljøskader, EU-Tidende 2004 nr. L 143, side 56, og dele af Europa-Parlamentets og Rådets direktiv 2009/41/EF af 6. maj 2009 om indesluttet anvendelse af genetisk modificerede mikroorganismer, EU-Tidende 2009 nr. L 125, side 75.
 
-2) Loven trådte i kraft den 9. april 2005, jf. bekendtgørelse nr. 224 af 31. marts 2005.
+2) Danmarks Havfiskeriforening og Dansk Fiskeriforening er fusioneret og har ændret navn til Danmarks Fiskeriforening Producent Organisation.
+
+3) Forbrugerrådet har ændret navn til Forbrugerrådet Tænk.
+
+4) Danmarks Miljøundersøgelser blev nedlagt i 2011 og hører nu under Aarhus Universitet.
+
+5) Loven trådte i kraft den 9. april 2005, jf. bekendtgørelse nr. 224 af 31. marts 2005.
+
+6) Lov nr. 1608 af 22. december 2010, der i § 2 indeholder en ændring af ikrafttrædelsesbestemmelsen i lov nr. 484 af 11. maj 2010, trådte i kraft den 1. januar 2011, jf. lovens § 3, stk. 1.
+
+7) Loven trådte i kraft den 28. januar 2015, jf. bekendtgørelse nr. 57 af 23. januar 2015.
