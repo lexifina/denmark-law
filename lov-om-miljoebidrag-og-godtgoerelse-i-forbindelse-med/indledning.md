@@ -1,7 +1,5 @@
-Lov om miljøbidrag og godtgørelse i forbindelse med ophugning og skrotning af biler
+Bekendtgørelse af lov om miljøbidrag og godtgørelse i forbindelse med ophugning og skrotning af biler
 
-VI MARGRETHE DEN ANDEN, af Guds Nåde Danmarks Dronning, gør vitterligt: Folketinget har vedtaget og Vi ved Vort samtykke stadfæstet følgende lov:
+Herved bekendtgøres lov nr. 372 af 2. juni 1999 om miljøbidrag og godtgørelse i forbindelse med ophugning og skrotning af biler med de ændringer, der følger af lov nr. 385 af 6. juni 2002, § 106 i lov nr. 428 af 6. juni 2005, lov nr. 1629 af 26. december 2013 og § 1, nr. 1-6 og 8, i lov nr. 177 af 24. februar 2015.
 
-## Kapitel 1
-
-Formål m.v.
+Den ændring, der følger af § 1, nr. 7, i lov nr. 177 af 24. februar 2015 om ændring af lov om miljøbidrag og godtgørelse i forbindelse med ophugning og skrotning af biler og lov om miljøbeskyttelse (Obligatorisk digital kommunikation, ændringer i administrationsordningen for udbetaling af skrotningsgodtgørelse og nedsættelse af betalingssats for indsamling af bærbare batterier m.v.), og som vedrører § 8, stk. 2, er ikke indarbejdet i denne lovbekendtgørelse, da ændringen endnu ikke er trådt i kraft. Tidspunktet for ikrafttrædelse fastsættes af miljø- og fødevareministeren.
