@@ -1,7 +1,5 @@
-Givet på Christiansborg slot, den 2. juni 1999
+Miljøstyrelsen, den 3. juli 2015
 
-Under Vor Kongelige Hånd og Segl
+Michel Schilling
 
-Margrethe R.
-
-/Svend Auken
+/ Peter Østergård Have
