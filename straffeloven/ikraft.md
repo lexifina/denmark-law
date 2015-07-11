@@ -36,9 +36,7 @@ Stk. 3. § 31 finder tilsvarende anvendelse.
 
 § 33
 
-Stk. 1. Ved fastsættelse af forvandlingsstraf for bøde vedrørende en lovovertrædelse, der er begået før lovens ikrafttræden, finder § 31 tilsvarende anvendelse.
-
-Stk. 2. Loven har ikke virkning for hæftestraf eller forvandlingsstraf af hæfte, som er idømt eller fastsat før lovens ikrafttræden.
+(Udelades)
 
 Lov nr. 258 af 8. maj 2002 (Gennemførelse af EU-retshjælpskonventionen, den 2. tillægsprotokol til Europarådets retshjælpskonvention og EU-rammeafgørelse om fælles efterforskningshold) indeholder følgende bestemmelser om strafansvar og ikrafttræden:
 
@@ -110,12 +108,6 @@ Stk. 2. § 1, nr. 3 og 4, finder anvendelse på konfiskationskrav, der er idømt
 
 Stk. 3. (Udelades)
 
-Lov nr. 1620 af 26. december 2013 (Forhøjet strafferamme for grov dopingkriminalitet) indeholder følgende ikrafttrædelsesbestemmelse:
-
-§ 2
-
-Loven træder i kraft den 1. januar 2014.
-
 Lov nr. 168 af 26. februar 2014 (Gennemførelse af Europarådets konvention til forebyggelse og bekæmpelse af vold mod kvinder og vold i hjemmet) indeholder følgende ikrafttrædelsesbestemmelse:
 
 § 2
@@ -123,28 +115,6 @@ Lov nr. 168 af 26. februar 2014 (Gennemførelse af Europarådets konvention til 
 Stk. 1. Loven træder i kraft den 1. juni 2014.
 
 Stk. 2. § 1 finder også anvendelse på lovovertrædelser, der er begået før lovens ikrafttræden, medmindre forældelse efter de hidtil gældende regler er indtrådt før lovens ikrafttræden.
-
-Lov nr. 403 af 28. april 2014 (Indførelse af regler, der giver pensionskunder ret til at få den samlede økonomiske værdi af deres pensionsordning overført i forbindelse med visse tilfælde af omvalg, direktørers og andre ledende medarbejderes mulighed for at deltage i ledelsen eller driften af anden erhvervsvirksomhed, krav til sammensætningen af bestyrelsen i en fond eller forening, der ejer et realkreditaktieselskab, ændring af reglerne om straf for overtrædelse af CO2-auktionerings-forordningen, regulering af CO2-kvotebydere, ændringer af reglerne om forvaltere af alternative investeringsfondes muligheder for at markedsføre alternative investeringsfonde, herunder undtagelse af markedsføring af andele i fondene til medarbejdere og visse detailinvestorer fra kravet om særlig markedsføringstilladelse og indførelse af mulighed for, at forvaltere fra tredjelande kan markedsføre fonde til detailinvestorer, ændring af grænsen for tilbudspligten i værdipapirhandelsloven samt bedre sikring af mindre aktionærers rettigheder, forbud mod brug af variabel løn, der er afhængig af opnåelse af et bestemt salgsmål til detailkunder, ændring af reglerne om tilsyn med fælles datacentraler, tilsyn med depositarer for alternative investeringsfonde m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
-
-§ 22
-
-Stk. 1. Loven træder i kraft den 15. maj 2014, jf. dog stk. 2-4.
-
-Stk. 2-8. (Udelades)
-
-Lov nr. 516 af 26. maj 2014 (Ændring af reglerne om afvisning m.v. til gennemførelse af direktiv 2008/115/EF om fælles standarder og procedurer i medlemsstaterne for tilbagesendelse af tredjelandsstatsborgere med ulovligt ophold (udsendelsesdirektivet) m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
-
-§ 3
-
-Stk. 1. Loven træder i kraft den 1. januar 2015.
-
-Stk. 2. (Udelades)
-
-Lov nr. 733 af 25. juni 2014 (Initiativer mod rocker- og bandekriminalitet m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
-
-§ 6
-
-Loven træder i kraft den 1. juli 2014
 
 Lov nr. 739 af 25. juni 2014 (Reorganisering af kriminalforsorgen, herunder begrænsning af klageadgangen) indeholder følgende ikrafttrædelsesbestemmelser:
 
@@ -155,3 +125,13 @@ Justitsministeren fastsætter tidspunktet for lovens ikrafttræden.
 § 6
 
 Sager, hvori der er truffet afgørelse af en institution inden lovens ikrafttræden, kan påklages til Direktoratet for Kriminalforsorgen efter de hidtil gældende regler. Direktoratet for Kriminalforsorgens afgørelse i sager, der er påklaget efter 1. pkt., kan ikke påklages til Justitsministeriet.
+
+Lov nr. 152 af 18. februar 2015 (Samfundstjeneste m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 4
+
+Stk. 1. Loven træder i kraft den 1. maj 2015, jf. dog stk. 3.
+
+Stk. 2. Loven finder anvendelse på domme, der afsiges efter lovens ikrafttræden. Dette gælder, selv om det strafbare forhold er begået før lovens ikrafttræden.
+
+Stk. 3. (Udelades)
