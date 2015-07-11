@@ -24,14 +24,10 @@
 
 13) Lovændringen vedrører § 79, stk. 2, 2. pkt., § 93, stk. 2, nr. 1, § 97 a, stk. 1 og 4, § 122, § 131, § 296, stk. 2, § 299, § 299 d og § 304 a, stk. 1.
 
-14) Lovændringen vedrører § 191 a.
+14) Lovændringen vedrører § 94, stk. 4.
 
-15) Lovændringen vedrører § 94, stk. 4.
+15) Lovændringen vedrører § 38, stk. 2, 2. pkt., § 40, stk. 2, § 41, stk. 1, og § 44.
 
-16) Lovændringen vedrører § 299 d, stk. 1.
+16) Ved bekendtgørelse nr. 388 af 9. april 2015 er det bestemt, at ændringsloven træder i kraft den 6. maj 2015.
 
-17) Lovændringen vedrører § 125 a.
-
-18) Lovændringen vedrører § 38, stk. 4 og 5, § 39, stk. 3, § 40 a, stk. 3, 4 og 7, § 41, stk. 2, 3 og 5, § 42, stk. 2, § 81 a og § 192 a, stk. 3.
-
-19) Lovændringen vedrører § 38, stk. 2, 2. pkt., § 40, stk. 2, § 41, stk. 1, og § 44.
+17) Lovændringen vedrører overskriften til 7. kapitel, § 56, stk. 1 og 2, § 60, stk. 1, nr. 2 og 3, § 62, stk. 2, § 63, stk. 1, 2. pkt., § 63, stk. 3, 2. pkt., § 63, stk. 4, 3. pkt., § 64, 2. pkt., § 66, stk. 3, 2. pkt., § 67, stk. 2, 2. pkt., og § 86, stk. 3 og 4.
