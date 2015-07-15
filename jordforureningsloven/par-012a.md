@@ -10,6 +10,4 @@ Stk. 2. Regionsrådet skal revidere nuanceringen af kortlægningen, når der for
 
 Stk. 3. Kortlægningen af andre ejendomme end boligejendomme, der er kortlagt på vidensniveau 2, og som overgår til boliganvendelse, samt kortlægning af boligejendomme, som den 1. januar 2007 er kortlagt på vidensniveau 2, skal efter skriftlig anmodning fra ejeren nuanceres efter stk. 1.
 
-Stk. 4. Regionsrådet skal underrette ejeren, kommunalbestyrelsen og told- og skatteforvaltningen om en nuancering af kortlægningen efter stk. 1-3. Grundlaget for nuanceringen af kortlægningen skal oplyses, herunder i hvilket omfang der kan forventes at ske en revision af nuanceringen af kortlægningen. Underretning om en nuancering af kortlægningen efter stk. 1 skal ske samtidig med underretningen om kortlægningen efter § 12. Ejere skal underrette lejere om en nuancering af kortlægningen efter stk. 1-3.
-
-Stk. 5. Oplysning om nuancering af kortlægningen skal ikke indføres i matrikelregisteret efter § 14, medmindre miljøministeren fastsætter regler herom i medfør af § 15, nr. 7.
+Stk. 4. Regionsrådet skal underrette ejeren, kommunalbestyrelsen og SKAT om en nuancering af kortlægningen efter stk. 1-3. Grundlaget for nuanceringen af kortlægningen skal oplyses, herunder i hvilket omfang der kan forventes at ske en revision af nuanceringen af kortlægningen. Underretning om en nuancering af kortlægningen efter stk. 1 skal ske samtidig med underretningen om kortlægningen efter § 12. Ejere skal underrette lejere om en nuancering af kortlægningen efter stk. 1-3.
