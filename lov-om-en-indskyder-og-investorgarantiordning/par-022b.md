@@ -1,8 +1,12 @@
-## Kapitel 8b
+## Kapitel 8 a
+
+## (Ophævet)
+
+## Kapitel 8 b
 
 ## Kommunikation
 
-§ 22 b. Erhvervs- og vækstministeren kan fastsætte regler om, at skriftlig kommunikation til og fra Finanstilsynet om forhold, som er omfattet af denne lov eller regler udstedt i medfør af denne lov, skal foregå digitalt.
+§ 22 b. Erhvervs- og vækstministeren kan fastsætte regler om, at skriftlig kommunikation til og fra erhvervs- og vækstministeren, Finansiel Stabilitet og Finanstilsynet om forhold, som er omfattet af denne lov eller regler udstedt i medfør af denne lov, skal foregå digitalt.
 
 Stk. 2. Erhvervs- og vækstministeren kan fastsætte nærmere regler om digital kommunikation, herunder om anvendelse af bestemte it-systemer, særlige digitale formater og digital signatur el.lign.
 
