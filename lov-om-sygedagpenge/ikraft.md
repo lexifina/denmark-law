@@ -46,7 +46,7 @@ Stk. 1. (Udelades)
 
 Stk. 2. (Udelades)
 
-Stk. 3. Beskæftigelsesministeren fastsætter tidspunktet for ikrafttrædelse af lovens § 5 om arbejdsgiverens, den selvstændig erhvervsdrivendes og arbejdsløshedskassens forpligtelser. Beskæftigelsesministeren fastsætter samtidig tidspunktet for ikrafttrædelse af lovens § 18.
+Stk. 3. Beskæftigelsesministeren fastsætter tidspunktet for ikrafttrædelse af lovens § 5 om arbejdsgiverens, den selvstændigt erhvervsdrivendes og arbejdsløshedskassens forpligtelser. Beskæftigelsesministeren fastsætter samtidig tidspunktet for ikrafttrædelse af lovens § 18.
 
 Lov nr. 480 af 12. juni 2009, som ændret ved lov nr. 50 af 25. januar 2012 (En styrket beskæftigelsesrettet indsats over for sygemeldte m.fl.), indeholder følgende ikrafttrædelses- og overgangsbestemmelser:
 
@@ -184,7 +184,7 @@ Stk. 1. En person, der under det aktuelle sygdomsforløb inden lovens ikrafttræ
 
 Stk. 2. § 1, nr. 6, finder anvendelse på sygedagpengemodtagere med en ret til udbetaling af førtidspension, som er påbegyndt den 5. marts 2012 eller senere.
 
-Stk. 3. § 1, nr. 8, finder anvendelse på sager om sygedagpenge, hvor1. fraværsdag er den 5. marts 2012 eller senere.
+Stk. 3. § 1, nr. 8, finder anvendelse på sager om sygedagpenge, hvor 1. fraværsdag er den 5. marts 2012 eller senere.
 
 Lov nr. 269 af 27. marts 2012 (Ændring af frister for anmeldelse af sygefravær og anmodning om sygedagpenge m.v. for bedre at udnytte den digitale indberetningsløsning (SDPI-løsningen)), indeholder følgende ikrafttrædelses- og overgangsbestemmelser:
 
@@ -290,7 +290,7 @@ Lov nr. 720 af 25. juni 2014 (Ny sygedagpengemodel med tidlig opfølgning og ind
 
 Stk. 1. Loven træder i kraft den 1. juli 2014, jf. dog stk. 2 og 3.
 
-Stk. 2. Stk. 2. § 2, nr. 41-43, træder i kraft den 1. januar 2015.
+Stk. 2. § 2, nr. 41-43, træder i kraft den 1. januar 2015.
 
 Stk. 3. § 1, nr. 1, 3-18, 31-39 og 41-58, § 2, nr. 31, § 4, nr. 1, 2, 4, 10, 12 og 14, og §§ 5 og 11 træder i kraft den 5. januar 2015.
 
@@ -308,7 +308,7 @@ Stk. 5. § 5 finder anvendelse på sygdomsforløb, der påbegyndes den 5. januar
 
 Stk. 6. § 1, nr. 53, finder anvendelse for sygedagpengemodtagere med første fraværsdag den 5. januar 2015 eller senere. For sygedagpengemodtagere med første fraværsdag før den 5. januar 2015 beregnes sygedagpengene efter den gældende § 47 i lov om sygedagpenge. Eventuel omberegning efter den 5. januar 2015 vurderes og foretages efter § 1, nr. 53.
 
-Lov nr. 1482 af d. 23. december 2014 (Lov om organisering og understøttelse af beskæftigelsesindsatsen m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
+Lov nr. 1482 af 23. december 2014 (Lov om organisering og understøttelse af beskæftigelsesindsatsen m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
 
 § 56. Loven træder i kraft den 1. januar 2015, jf. dog stk. 2 og 3.
 
@@ -318,7 +318,7 @@ Stk. 3. § 20, stk. 1, nr. 4, træder i kraft den 1. juli 2015.
 
 Stk. 4. Lov om ansvaret for og styringen af den aktive beskæftigelsesindsats, jf. lovbekendtgørelse nr. 1177 af 5. november 2014, ophæves.
 
-Lov nr. 1486 af d. 23. december 2014 (Reform af beskæftigelsesindsatsen, et fælles og intensiveret kontaktforløb, uddannelsesløft, styrket rådighed og målretning af virksomhedsrettede tilbud m.v.) indeholder følgende ikrafttrædelsesbestemmelse m.v.:
+Lov nr. 1486 af 23. december 2014 (Reform af beskæftigelsesindsatsen, et fælles og intensiveret kontaktforløb, uddannelsesløft, styrket rådighed og målretning af virksomhedsrettede tilbud m.v.) indeholder følgende ikrafttrædelsesbestemmelse m.v.:
 
 § 9
 
@@ -337,3 +337,11 @@ Stk. 5. (Udelades)
 Stk. 1-12. (Udelades)
 
 Stk. 13. § 4, nr. 1, finder anvendelse for personer, der ved første fraværsdag den 1. juli 2014 eller senere ville have haft ret til sygedagpenge, hvis de ikke var omfattet af tidsbegrænsningen i § 24, stk. 1, i lov om sygedagpenge. Hvis kommunen træffer afgørelse om, at en sygemeldt ikke har ret til sygedagpenge fra første fraværsdag, og personen derfor kan modtage ressourceforløbsydelse under et jobafklaringsforløb, jf. denne lovs § 1, nr. 64, og § 69 j i lov om aktiv socialpolitik, fra den 1. juli 2014 eller senere, vil en arbejdsgiver, der har udbetalt løn i perioden, have ret til refusion efter denne lovs § 3, nr. 15 og 16. Der ses bort fra arbejdsgiverens normale frist for anmodning om refusion for udbetalt løn efter § 69, stk. 1-3, i lov om aktiv socialpolitik, som er fastsat i § 2 i bekendtgørelse om arbejdsgiveres anmodning om refusion og tilbagebetaling af refusion i forbindelse med medarbejderes deltagelse i et jobafklaringsforløb m.v.
+
+Lov nr. 742 af 1. juni 2015 (Overgang til obligatorisk digital selvbetjening, for så vidt angår anmodning om sygedagpenge, afgivelse af samtykke til udstedelse af børneattest og straffeattest til offentlig brug, ansøgning og meddelelser m.v. om personligt tillæg og helbredstillæg, indgivelse af klager til Patientombuddet, Sundhedsvæsenets Disciplinærnævn og Ankenævnet for Patienterstatningen, ansøgning om udstedelse af personcertifikater på luftfartsområdet, anmodning om behandling af klager fra flypassagerer, ansøgning om chaufføruddannelsesbeviser m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 13
+
+Stk. 1. Loven træder i kraft den 1. december 2015.
+
+Stk. 2. Loven finder alene anvendelse for ansøgninger, anmodninger, meddelelser og klager m.v., der indgives efter lovens ikrafttræden.
