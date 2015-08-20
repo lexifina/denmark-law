@@ -1,3 +1,3 @@
 Bekendtgørelse af lov om skattemæssige afskrivninger (afskrivningsloven)
 
-Herved bekendtgøres lov om skattemæssige afskrivninger (afskrivningsloven), jf. lovbekendtgørelse nr. 1191 af 11. oktober 2007, med de ændringer, der følger af § 3 i lov nr. 1235 af 24. oktober 2007, § 1 i lov nr. 335 af 7. maj 2008, § 3 i lov nr. 521 af 17. juni 2008, § 5 i lov nr. 462 af 12. juni 2009, § 4 i lov nr. 521 af 12. juni 2009, § 2 i lov nr. 525 af 12. juni 2009, § 2 i lov nr. 724 af 25. juni 2010, § 8 i lov nr. 221 af 21. marts 2011, § 2 i lov nr. 1382 af 28. december 2011, lov nr. 592 af 18. juni 2012, § 3 i lov nr. 1394 af 23. december 2012 og § 20 i lov nr. 1604 af 26. december 2013.
+Herved bekendtgøres lov om skattemæssige afskrivninger (afskrivningsloven), jf. lovbekendtgørelse nr. 1106 af 9. september 2014, med de ændringer, der følger af § 5 i lov nr. 202 af 27. februar 2015.
