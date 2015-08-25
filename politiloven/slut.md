@@ -1,7 +1,5 @@
-Givet på Christiansborg Slot, den 9. juni 2004
+Justitsministeriet, den 20. august 2015
 
-Under Vor Kongelige Hånd og Segl
+Søren Pind
 
-Margrethe R.
-
-/Lene Espersen
+/ Esben Haugland
