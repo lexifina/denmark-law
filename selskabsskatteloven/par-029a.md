@@ -8,4 +8,4 @@ Stk. 4. Selskaber og foreninger m.v., som har været skattepligtige i to indkoms
 
 Stk. 5. Ordinær acontoskat forfalder til betaling i 2 rater henholdsvis den 1. marts og den 1. november i indkomståret. Sidste rettidige indbetalingsdag er den 20. i forfaldsmåneden. Betales beløbet ikke rettidigt, forrentes det efter § 7, stk. 1, jf. stk. 2, i opkrævningsloven. Forrentningen tilfalder statskassen.
 
-Stk. 6. Selskaber og foreninger m.v. kan frivilligt betale yderligere acontoskat. Betaling af frivillig acontoskat skal ske senest henholdsvis den 20. marts og den 20. november i indkomståret.
+Stk. 6. Selskaber og foreninger m.v. kan frivilligt betale yderligere acontoskat. Betaling af frivillig acontoskat skal ske senest henholdsvis den 20. marts og den 20. november i indkomståret samt den 1. februar i året efter indkomståret.
