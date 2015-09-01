@@ -1,4 +1,4 @@
-§ 16 a. Ind- og udbetalinger af skatter og afgifter m.v. omfattet af § 16, stk. 1 og 2, modregnes automatisk efter et saldoprincip. Meddelelse om modregning fremgår af skattekontoen.
+§ 16 a. Ind- og udbetalinger af skatter og afgifter m.v. omfattet af § 16, modregnes automatisk efter et saldoprincip. Meddelelse om modregning fremgår af skattekontoen.
 
 Stk. 2. Overstiger den samlede sum af registrerede forfaldne krav på virksomhedens konto den samlede sum af registrerede og forfaldne tilgodehavender til virksomheden, udgør forskellen (debetsaldoen) det samlede beløb, som virksomheden skylder told- og skatteforvaltningen. Er den samlede sum af registrerede og forfaldne krav på indbetalinger fra virksomheden derimod mindre end de registrerede og forfaldne krav på udbetalinger til virksomheden, udgør forskellen (kreditsaldoen) virksomhedens samlede tilgodehavende fra told- og skatteforvaltningen.
 
