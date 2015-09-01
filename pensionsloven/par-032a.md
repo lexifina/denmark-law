@@ -16,19 +16,19 @@
 
 5) Den registrerede indkomst er summen af indkomsten i opgørelsesperioden ifølge indkomstregisteret og øvrige indkomster ifølge enten forskudsopgørelsen eller oplysninger fra borgeren. Overstiger den registrerede indkomst i opgørelsesperioden indtægtsgrundlaget opgjort efter nr. 4, opgøres indtægtsgrundlaget efter nr. 1 og 3 hver måned på grundlag af den registrerede indkomst i opgørelsesperioden.
 
-6) Ved opgørelsen af indtægtsgrundlaget efter nr. 1-5 fradrages en eventuel ægtefælles eller samlevers indtægt ved personligt arbejde opgjort efter § 27, stk. 1-5, på op til i alt 30.000 kr. i et kalenderår, hvis denne modtager folkepension. Det maksimale fradrag reduceres forholdsmæssigt, hvis ægtefællen eller samleveren kun modtager folkepension i en del af året.
+6) Ved opgørelsen af indtægtsgrundlaget efter nr. 1-3 fradrages en eventuel ægtefælles eller samlevers indtægt ved personligt arbejde opgjort efter § 27, stk. 1-5, på op til i alt 30.000 kr. i et kalenderår, hvis denne modtager folkepension. Det maksimale fradrag reduceres forholdsmæssigt, hvis ægtefællen eller samleveren kun modtager folkepension i en del af året.
 
-Stk. 2. Ministeren for børn, ligestilling, integration og sociale forhold fastsætter regler for, hvorledes indkomster efter stk. 1, der ikke er skattepligtige her i landet, og indkomster, som er omfattet af § 5 i lov om beskatning af søfolk, skal indgå i indtægtsgrundlaget.
+Stk. 2. Beskæftigelsesministeren fastsætter regler for, hvorledes indkomster efter stk. 1, der ikke er skattepligtige her i landet, og indkomster, som er omfattet af § 5 i lov om beskatning af søfolk, skal indgå i indtægtsgrundlaget.
 
 Stk. 3. I indtægtsgrundlaget efter stk. 1 og 2 foretages følgende fradrag:
 
-1) Fradrag for skattepligtig social pension og fradrag for skattepligtig pension udbetalt efter lovgivningen i en anden EU/EØS-medlemsstat og omfattet af og beregnet efter forordning (EF) nr. 883/04 om koordinering af de sociale sikringsordninger samt for pension udbetalt efter lovgivningen i et land, med hvilket der er indgået overenskomst om samordning af pension. Ministeren for børn, ligestilling, integration og sociale forhold fastsætter regler for, hvorledes fradrag for pensioner som nævnt i 1. pkt., der ikke er skattepligtige her i landet, skal fradrages.
+1) Fradrag for skattepligtig social pension og fradrag for skattepligtig pension udbetalt efter lovgivningen i en anden EU/EØS-medlemsstat og omfattet af og beregnet efter forordning (EF) nr. 883/04 om koordinering af de sociale sikringsordninger samt for pension udbetalt efter lovgivningen i et land, med hvilket der er indgået overenskomst om samordning af pension. Beskæftigelsesministeren fastsætter regler for, hvorledes fradrag for pensioner som nævnt i 1. pkt., der ikke er skattepligtige her i landet, skal fradrages.
 
 2) Fradrag for ophørsstøtte efter lov om ophørsstøtte til jordbrugere og lov om ophørsstøtte til erhvervsfiskere.
 
 3) Fradrag for hjælp efter § 27 a og efterlevelseshjælp efter § 85 a i lov om aktiv socialpolitik.
 
-4) Fradrag for sygedagpenge, arbejdsløshedsdagpenge, ledighedsydelse, ressourceforløbsydelse, uddannelseshjælp og kontanthjælp, der er udbetalt for samme periode, hvori der foretages efterbetaling af pension, jf. § 32 d, stk. 1.
+4) Fradrag for sygedagpenge, arbejdsløshedsdagpenge, midlertidig arbejdsmarkedsydelse, kontantydelse, integrationsydelse, ledighedsydelse, ressourceforløbsydelse, uddannelseshjælp og kontanthjælp, der er udbetalt for samme periode, hvori der foretages efterbetaling af pension, jf. § 32 d, stk. 1.
 
 5) Fradrag for engangsbeløb efter § 15 d, stk. 4.
 
@@ -42,4 +42,4 @@ Stk. 6. Den samlede opgjorte indtægt efter stk. 1-5 afrundes nedad til nærmest
 
 Stk. 7. Den opgjorte indtægt efter stk. 6 nedsættes med et fradrag, jf. § 49, stk. 1, nr. 10.
 
-Stk. 8. Ministeren for børn, ligestilling, integration og sociale forhold kan fastsætte regler om, at fordelingen, jf. stk. 1, nr. 3, kan fraviges, når det drejer sig om indkomster og udgifter ved selvstændig erhvervsvirksomhed.
+Stk. 8. Beskæftigelsesministeren kan fastsætte regler om, at fordelingen, jf. stk. 1, nr. 3, kan fraviges, når det drejer sig om indkomster og udgifter ved selvstændig erhvervsvirksomhed.
