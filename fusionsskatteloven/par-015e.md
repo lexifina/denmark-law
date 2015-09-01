@@ -2,4 +2,4 @@
 
 ## Andre bestemmelser
 
-§ 15 e. (Ophævet).
+§ 15 e. (Ophævet)
