@@ -1,12 +1,18 @@
-Miljøministeriet, den 14. juni 2006
+Miljøstyrelsen, den 18. august 2015
 
-Connie Hedegaard
+Michel Schilling
+
+/ Peter Østergård Have
 
 Bilag 1
 
-## EUROPA-PARLAMENTETS OG RÅDETS DIREKTIV 2003/4/EF af 28. januar 2003 om offentlig adgang til miljøoplysninger og om ophævels e af Rådets direktiv 90/313/EØF
+EUROPA-PARLAMENTETS OG RÅDETS DIREKTIV 2003/4/EF
 
-EUROPA-PARLAMENTET OG RÅDET FOR DEN EUROPÆISKE UNION HAR 
+## af 28. januar 2003
+
+## om offentlig adgang til miljøoplysninger og om ophævelse af Rådets direktiv 90/313/EØF
+
+EUROPA-PARLAMENTET OG RÅDET FOR DEN EUROPÆISKE UNION HAR —
 
 under henvisning til traktaten om oprettelse af Det Europæiske Fællesskab, særlig artikel 175, stk. 1,
 
@@ -66,7 +72,7 @@ ud fra følgende betragtninger:
 
 (23) Målene for dette direktiv kan ikke i tilstrækkelig grad opfyldes af medlemsstaterne og kan derfor på grund af handlingens omfang bedre gennemføres på fællesskabsplan. Fællesskabet kan derfor træffe foranstaltninger i overensstemmelse med subsidiaritetsprincippet, jf. traktatens artikel 5. I overensstemmelse med proportionalitetsprincippet, jf. nævnte artikel, går dette direktiv ikke ud over, hvad der er nødvendigt for at nå disse mål.
 
-(24) Bestemmelserne i dette direktiv berører ikke en medlemsstats ret til at opretholde eller indføre foranstaltninger, der giver bredere adgang til oplysninger, end direktivet kræver 
+(24) Bestemmelserne i dette direktiv berører ikke en medlemsstats ret til at opretholde eller indføre foranstaltninger, der giver bredere adgang til oplysninger, end direktivet kræver —
 
 UDSTEDT FØLGENDE DIREKTIV:
 
@@ -150,11 +156,11 @@ b) der forefindes offentligt tilgængelige oversigter over offentlige myndighede
 
 c) der udformes konkrete ordninger med henblik på at sikre, at retten til adgang til miljøoplysninger kan udøves effektivt, såsom
 
- udpegelse af informationsmedarbejdere
+– udpegelse af informationsmedarbejdere
 
- etablering og vedligeholdelse af faciliteter, hvor de ønskede oplysninger kan konsulteres
+– etablering og vedligeholdelse af faciliteter, hvor de ønskede oplysninger kan konsulteres
 
- registre eller oversigter over miljøoplysninger, som offentlige myndigheder eller informationskontorer er i besiddelse af, med klar angivelse af, hvor disse oplysninger kan findes.
+– registre eller oversigter over miljøoplysninger, som offentlige myndigheder eller informationskontorer er i besiddelse af, med klar angivelse af, hvor disse oplysninger kan findes.
 
 Medlemsstaterne sikrer, at de offentlige myndigheder informerer offentligheden fyldestgørende om dens rettigheder i henhold til dette direktiv og i passende omfang giver oplysninger, råd og vejledning med henblik herpå.
 
@@ -196,7 +202,7 @@ h) beskyttelsen af det miljø, oplysningerne vedrører, som f.eks. sjældne arte
 
 De i stk. 1 og 2 nævnte grunde til afslag på anmodning om oplysninger skal fortolkes restriktivt under hensyntagen til samfundets interesse i, at oplysningerne offentliggøres i det konkrete tilfælde. I hver enkelt tilfælde skal de offentlige interesser, der varetages ved udlevering, afvejes over for de interesser, der varetages ved at afslå udlevering. Medlemsstaterne kan ikke i henhold til stk. 2, litra a), d), f), g) og h), fastsætte, at en anmodning kan afslås, hvis anmodningen gælder oplysninger om emissioner til miljøet.
 
-Inden for disse rammer og for så vidt angår anvendelsen af litra f) sikrer medlemsstaterne, at kravene i Europa-Parlamentets og Rådets direktiv 95/46/EF af 24. oktober 1995 om beskyttelse af fysiske personer i forbindelse med behandling af personoplysninger og om fri udveksling af sådanne oplysninger overholdes.
+Inden for disse rammer og for så vidt angår anvendelsen af litra f) sikrer medlemsstaterne, at kravene i Europa-Parlamentets og Rådets direktiv 95/46/EF af 24. oktober 1995 om beskyttelse af fysiske personer i forbindelse med behandling af personoplysninger og om fri udveksling af sådanne oplysninger7) overholdes.
 
 3. Fastsætter en medlemsstat undtagelser, kan den udarbejde en offentligt tilgængelig liste over de kriterier, den kompetente myndighed kan inddrage, når den tager stilling til en anmodning.
 
@@ -324,64 +330,4 @@ Udfærdiget i Bruxelles, den 28. januar 2003.
 
 ## SAMMENLIGNINGSTABEL
 
-Direktiv 90/313/EØF | Dette direktiv
-
-Artikel 1 | Artikel 1, litra a) Artikel 1, litra b)
-
-Artikel 2, litra a) | Artikel 2, nr. 1
-
-Artikel 2, litra b) | Artikel 2, nr. 2
-
- | Artikel 2, nr. 3
-
- | Artikel 2, nr. 4
-
- | Artikel 2, nr. 5
-
- | Artikel 2, nr. 6
-
-Artikel 3, stk. 1 | Artikel 3, stk. 1 + artikel 3, stk. 5
-
-Artikel 3, stk. 2 | Artikel 4, stk. 2 + artikel 4, stk. 4
-
-Artikel 3, stk. 3 | Artikel 4, stk. 1, litra b), c), d) og e)
-
-Artikel 3, stk. 4 | Artikel 3, stk. 2 + artikel 4, stk. 5
-
- | Artikel 4, stk. 1, litra a)
-
- | Artikel 3, stk. 3
-
- | Artikel 3, stk. 4
-
-Artikel 4 | Artikel 6, stk. 1 + artikel 6, stk. 2
-
- | Artikel 6, stk. 3
-
-Artikel 5 | Artikel 5, stk. 1
-
- | Artikel 5, stk. 2
-
- | Artikel 5, stk. 3
-
-Artikel 6 | Artikel 2, nr. 2, litra c) + artikel 3, stk. 1
-
-Artikel 7 | Artikel 7, stk. 1, 2 og 3
-
- | Artikel 7, stk. 4
-
- | Artikel 7, stk. 5
-
- | Artikel 7, stk. 6
-
- | Artikel 8
-
-Artikel 8 | Artikel 9
-
-Artikel 9 | Artikel 10
-
-Artikel 10 | Artikel 13
-
- | Artikel 11
-
- | Artikel 12
+Direktiv 90/313/EØF Dette direktiv Artikel 1 Artikel 1, litra a) Artikel 1, litra b) Artikel 2, litra a) Artikel 2, nr. 1 Artikel 2, litra b) Artikel 2, nr. 2 – Artikel 2, nr. 3 – Artikel 2, nr. 4 – Artikel 2, nr. 5 – Artikel 2, nr. 6 Artikel 3, stk. 1 Artikel 3, stk. 1 + artikel 3, stk. 5 Artikel 3, stk. 2 Artikel 4, stk. 2 + artikel 4, stk. 4 Artikel 3, stk. 3 Artikel 4, stk. 1, litra b), c), d) og e) Artikel 3, stk. 4 Artikel 3, stk. 2 + artikel 4, stk. 5 – Artikel 4, stk. 1, litra a) – Artikel 3, stk. 3 – Artikel 3, stk. 4 Artikel 4 Artikel 6, stk. 1 + artikel 6, stk. 2 – Artikel 6, stk. 3 Artikel 5 Artikel 5, stk. 1 – Artikel 5, stk. 2 – Artikel 5, stk. 3 Artikel 6 Artikel 2, nr. 2, litra c) + artikel 3, stk. 1 Artikel 7 Artikel 7, stk. 1, 2 og 3 – Artikel 7, stk. 4 – Artikel 7, stk. 5 – Artikel 7, stk. 6 – Artikel 8 Artikel 8 Artikel 9 Artikel 9 Artikel 10 Artikel 10 Artikel 13 – Artikel 11 – Artikel 12
