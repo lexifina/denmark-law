@@ -1,5 +1,5 @@
-Ministeriet for By, Bolig og Landdistrikter, den 3. juli 2014
+Udlændinge-, Integrations- og Boligministeriet, den 31. august 2015
 
-Carsten Hansen
+Inger Støjberg
 
-/ Christian Lützen
+/ Birgitte Lundblad
