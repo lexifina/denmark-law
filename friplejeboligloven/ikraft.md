@@ -1,23 +1,107 @@
-Lov nr. 490 af 12. juni 2009, der ændrer § 12, stk. 2, §§ 44 og 45, § 47, stk. 2, og § 63, indeholder følgende ikrafttrædelses- og overgangsbestemmelser:
+Lov nr. 490 af 12. juni 2009 (Finansiering) indeholder følgende ikrafttrædelses- og overgangsbestemmelse:
 
 § 6
 
 Stk. 1. Loven træder i kraft den 1. januar 2010, jf. dog stk. 2.
 
-Stk. 2. (...) § 12, stk. 2, §§ 44 og 45, § 47, stk. 2, og § 63 i lov om friplejeboliger som ændret henholdsvis affattet ved § 3, nr. 1-4, træder i kraft den 1. juli 2009.
+Stk. 2. § 16, stk. 4, § 20, stk. 1, nr. 7 og 9, § 27, stk. 1-3, § 30 a, stk. 1, § 45, stk. 2, § 73, stk. 3, § 80 a, stk. 1 og 2, § 80 c, § 89 a, stk. 2, § 91, stk. 3 og 5, § 98 a, stk. 4, § 98 b, stk. 3, § 100, stk. 2, § 109, stk. 1 og 5, § 115, stk. 1, 2, 5 og 10, §§ 115 a og 116, § 117, stk. 2 og 3, §§ 118, 118 a og 121, § 125, stk. 1, § 129, stk. 1, 3 og 4, § 129 a, § 136, stk. 1, § 157, stk. 4, og § 167, stk. 2, i lov om almene boliger m.v. som ændret henholdsvis affattet ved § 1, nr. 18, 22, 23, 28-30, 32, 46, 60, 64, 65, 67-69, 74, 78-94 og 100, samt § 12, stk. 2, §§ 44 og 45, § 47, stk. 2, og § 63 i lov om friplejeboliger som ændret henholdsvis affattet ved § 3, nr. 1-4, træder i kraft den 1. juli 2009.
 
-Stk. 3. For tilsagn til almene boliger, der meddeles i perioden fra den 1. juli 2009 til og med den 31. december 2010, forhøjes de lån, som er nævnt i § 118, stk. 1, 1. pkt., og stk. 2, 1. pkt., i lov om almene boliger m.v. til 91 pct., samtidig med at den kommunale grundkapital, der er nævnt i § 118, stk. 1, og den regionale grundkapital, der er nævnt i § 118, stk. 2, i samme lov nedsættes til 7 pct. 1. pkt. finder tilsvarende anvendelse for tilsagn til plejeboliger, som meddeles i perioden den 1. januar 2009 til og med den 30. juni 2009.
-
-Stk. 4. (Udeladt).
+Stk. 3-4. (Udelades)
 
 Stk. 5. For byggeri med tilsagn om støtte eller godkendelse efter § 10 og § 11, stk. 1 og 2, i lov om friplejeboliger, hvor byggeriets skæringsdag ligger efter den 30. juni 2007, kan indenrigs- og socialministeren godkende, at § 12, stk. 2, §§ 44 og 45, § 47, stk. 2, og § 63 i lov om friplejeboliger som affattet henholdsvis ændret ved § 3, nr. 1-4, finder tilsvarende anvendelse med virkning fra den 1. januar 2010 og frem. Er der optaget lån før denne dato, beregnes låntagers betaling pr. 1. januar 2010 efter § 12, stk. 2, § 44 eller § 45 som ændret ved denne lov § 3, nr. 1 og 2, fra tidspunktet for lånets optagelse. Ansøgning om godkendelse indsendes til Indenrigs- og Socialministeriet inden den 1. oktober 2009.
 
-Stk. 6-8. (Udeladt).
+Stk. 6-8. (Udelades)
 
-Lov nr. 429 af 28. april 2010 indeholder nedenstående ikrafttrædelsesbestemmelse. (Lovændringen vedrører §§ 16 og 19. Lovændringen angår kompetencen til at træffe afgørelser om lovvalg m.v. efter EF-forordning nr. 883/04 om koordinering af de sociale sikringsordninger m.v.)
+Lov nr. 429 af 28. april 2010 (Kompetencen til at træffe afgørelser om lovvalg m.v. efter EF-forordning nr. 883/04 om koordinering af de sociale sikringsordninger m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
 
 § 20
 
 Stk. 1. Loven træder i kraft den 1. maj 2010.
 
-Stk. 2-3. (Udeladt)
+Stk. 2-3. (Udelades)
+
+Lov nr. 326 af 11. april 2012 (Fordeling af myndighedsansvaret mellem kommunerne og Udbetaling Danmark) indeholder følgende ikrafttrædelses- og overgangsbestemmelser:
+
+§ 25
+
+Stk. 1. Loven træder i kraft den 1. oktober 2012, jf. dog stk. 2-4.
+
+Stk. 2-4. (Udelades)
+
+§ 26
+
+Stk. 1. Sager, hvor myndighedsansvaret overgår til Udbetaling Danmark efter denne lovs §§ 1-5, 9, 13 og 24, og som ved lovens ikrafttræden ikke er afgjort eller afsluttet i kommunen, behandles færdige i Udbetaling Danmark.
+
+Stk. 2-10. (Udelades)
+
+§ 27
+
+Stk. 1. Efter lovens ikrafttræden påhviler ansvaret for opbevaring af arkivalier og varetagelse af de arkivmæssige hensyn i sager vedrørende Udbetaling Danmarks sagsområde:
+
+1) Kommunalbestyrelsen i afsluttede og passivførte sager på sagsområder, hvor myndighedsansvaret efter lovens §§ 1-5, 13 og 24 overføres til Udbetaling Danmark, og afsluttede og passivførte sager efter lovens § 9, hvor kommunalbestyrelsen har truffet afgørelse efter lov om en børne- og ungeydelse.
+
+2) Kommunalbestyrelsen i sager, hvor der fortsat sker udbetaling på sagsområder, der efter lovens §§ 1-5, 13 og 24 skal overføres til Udbetaling Danmark, og hvor kommunalbestyrelsen har truffet afgørelse om tilkendelse af en ydelse forud for det tidspunkt, hvor sagsområdet overgår til Udbetaling Danmark, og sager efter lovens § 9, hvor kommunalbestyrelsen har truffet afgørelse efter lov om en børne- og ungeydelse, jf. dog nr. 3.
+
+3) (Udelades)
+
+4) Udbetaling Danmark i alle øvrige sager på sagsområder, hvor myndighedsansvaret efter lovens §§ 1-5, 9, 13 og 24 overføres til Udbetaling Danmark, og som ikke er omfattet af nr. 1 eller 2.
+
+Stk. 2. Kommunen skal efter anmodning fra Udbetaling Danmark sende en kopi af de ønskede akter fra sager, der efter stk. 1, nr. 1 eller 2, opbevares i kommunen. Kommunen har i forbindelse med anmodninger om kopi af akter fra Udbetaling Danmark uden samtykke fra borgeren ret til at gennemgå og sortere en sag, som kommunen opbevarer for Udbetaling Danmark, med henblik på at kunne imødekomme Udbetaling Danmarks anmodning. Kommunen har desuden ret til at gennemgå og sortere en sag, som kommunen opbevarer for Udbetaling Danmark, hvis sagen indeholder oplysninger, der vedrører kommunens sagsområde, og hvis kommunen har et sagligt behov for oplysningerne.
+
+Stk. 3. Social- og integrationsministeren kan efter indstilling fra bestyrelsen for Udbetaling Danmark fastsætte regler om, at Udbetaling Danmark fra 2015 skal betale et gebyr til kommunen for at varetage opgaven efter stk. 2, 1. pkt., og regler om udfasning af kommunernes arkivforpligtelse over for Udbetaling Danmark fra 2018.
+
+Lov nr. 1097 af 28. november 2012 (Nedsættelse af kapitalindskuddet i friplejeboliger) indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 3
+
+Loven træder i kraft den 1. december 2012.
+
+Lov nr. 493 af 21. maj 2013 (Forenkling af klagestrukturen på det sociale og beskæftigelsesmæssige område) indeholder følgende ikrafttrædelses- og overgangsbestemmelser:
+
+§ 25
+
+Loven træder i kraft den 1. juli 2013.
+
+§ 26
+
+Stk. 1. Sager, der er indbragt for de sociale nævn eller beskæftigelsesankenævnene, og som ved lovens ikrafttræden ikke er færdigbehandlet, færdigbehandles af Ankestyrelsen eller Ankestyrelsens Beskæftigelsesudvalg efter kapitel 9, 9 a og 10 i lov om retssikkerhed og administration på det sociale område, som ændret ved denne lovs § 1.
+
+Stk. 2. (Udelades)
+
+Stk. 3. Sager, som Ankestyrelsen inden lovens ikrafttræden har optaget til behandling efter § 59 a, stk. 2, eller § 63 i lov om retssikkerhed og administration på det sociale område, og hvori der endnu ikke er truffet afgørelse ved denne lovs ikrafttræden, behandles af Ankestyrelsen eller Ankestyrelsens Beskæftigelsesudvalg efter kapitel 9, 9 a og 10 i lov om retssikkerhed og administration på det sociale område, som ændret ved denne lovs § 1.
+
+Lov nr. 722 af 25. juni 2014 (Ændring af ressortansvar for regler om statsrefusion) indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 12
+
+Stk. 1. Loven træder i kraft den 1. juli 2014, jf. dog stk. 2 og 3.
+
+Stk. 2-3. (Udelades)
+
+Lov nr. 527 af 29. april 2015 (Ændret adgang til markedet, ophævelse af kravet om genudbud, ændring af afregningssystemet, pantsætningsforbud, forenklinger m.v.) indeholder følgende ikrafttrædelsesbestemmelser:
+
+§ 5
+
+Loven træder i kraft den 1. juli 2015.
+
+§ 6
+
+Stk. 1. § 13, stk. 1, i lov om friplejeboliger som ændret ved denne lovs § 1, nr. 13, finder også anvendelse på friplejeboliger, hvortil der er givet tilsagn om støtte efter § 10, stk. 1, jf. lovbekendtgørelse nr. 897 af 17. august 2011.
+
+Stk. 2. § 14, stk. 2, og § 36, stk. 2, i lov om friplejeboliger som affattet ved denne lovs § 1, nr. 16 og 37, finder anvendelse på lejeaftaler indgået efter lovens ikrafttræden.
+
+Stk. 3. § 1, nr. 51, finder anvendelse på forbedringer, der påbegyndes udført den 1. juli 2015 eller senere.
+
+Stk. 4. Lejeforhøjelse efter § 47 a i lov om leje kan tidligst kræves med virkning fra 1 år efter ikrafttrædelsen af seneste lejeforhøjelse efter reglerne om balanceleje, jf. § 48 i lov om friplejeboliger. Er lejeaftalen indgået inden lovens ikrafttræden, kan lejeforhøjelse efter § 47 a i lov om leje kræves, selv om der ikke er taget forbehold herom ved aftalt uopsigelighed.
+
+Stk. 5. § 65 a i lov om friplejeboliger, jf. denne lovs § 1, nr. 61, gælder ikke for pant givet før lovens ikrafttræden.
+
+Stk. 6. § 65 a i lov om friplejeboliger, jf. denne lovs § 1, nr. 61, gælder endvidere ikke for pant givet i forbindelse med konvertering eller omprioritering af lån med pant i ejendommen, der er ydet før lovens ikrafttræden, og for pant givet i forbindelse med udnyttelse af ejerpant, der er etableret før lovens ikrafttræden.
+
+Stk. 7. Ved afhændelse af friplejeboliger, jf. § 1, nr. 66, inden for den periode, hvor friplejeboligleverandøren efter § 66 i lov om friplejeboliger, jf. lovbekendtgørelse nr. 897 af 17. august 2011, er berettiget til at oppebære den pris for ydelser efter kapitel 16 i lov om social service, som der er opnået kvote på grundlag af, overgår den nye leverandør til afregning efter § 1, nr. 33.
+
+Stk. 8. Friplejeboligleverandører, der har etableret friplejeboliger ved kvotetildeling efter § 10 eller § 11 i lov om friplejeboliger, jf. lovbekendtgørelse nr. 897 af 17. august 2011, kan vælge at overgå til afregning efter § 1, nr. 33, før udløbet af den 10-årige periode, som er fastsat i § 66 i lov om friplejeboliger, jf. lovbekendtgørelse nr. 897 af 17. august 2011. Friplejeboligleverandøren skal sende en meddelelse herom til Ministeriet for By, Bolig og Landdistrikter med angivelse af, fra hvilken dato leverandøren overgår til det nye afregningssystem.
+
+Stk. 9. Friplejeboligleverandører, der indgår aftale med kommunalbestyrelsen om, at denne får anvisningsret til boliger i friplejeboligbebyggelsen, jf. § 1, nr. 1, skal for alle boliger i bebyggelsen overgå til afregning efter § 1, nr. 33.
+
+Stk. 10. Friplejeboligleverandører, der er certificeret til at levere rehabiliteringsforløb, jf. § 83 a i lov om social service, og som ikke er overgået til afregning efter § 1, nr. 33, afregnes for levering af rehabiliteringsforløb efter § 83 a i lov om social service i henhold til §§ 1-3 i bekendtgørelse nr. 751 af 3. juli 2008 om afregning mellem friplejeboligleverandøren og kommunalbestyrelsen og om procedurer for velfærdsministerens meddelelse af tilsagn om kvotetildeling, herunder til de priser for personlig og praktisk hjælp efter §§ 83 og 87 i lov om social service, som de har budt ind med i forbindelse med kvotetildelingen, indtil de overgår til afregning efter § 1, nr. 33.
