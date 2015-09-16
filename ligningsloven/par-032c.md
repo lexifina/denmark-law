@@ -1,1 +1,1 @@
-§ 32 C. (Ophævet).
+§ 32 C. (Ophævet)

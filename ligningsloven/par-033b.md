@@ -1,1 +1,1 @@
-§ 33 B. (Ophævet).
+§ 33 B. (Ophævet)

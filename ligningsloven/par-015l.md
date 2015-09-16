@@ -1,1 +1,1 @@
-§ 15 L. (Ophævet).
+§ 15 L. (Ophævet)

@@ -1,1 +1,1 @@
-§ 32 B. (Ophævet).
+§ 32 B. (Ophævet)

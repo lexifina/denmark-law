@@ -1,1 +1,1 @@
-§ 28 B. (Ophævet).
+§ 28 B. (Ophævet)

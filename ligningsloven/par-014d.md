@@ -1,1 +1,1 @@
-§ 14 D. (Ophævet).
+§ 14 D. (Ophævet)

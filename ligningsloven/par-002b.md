@@ -1,1 +1,1 @@
-§ 2 B. (Ophævet).
+§ 2 B. (Ophævet)

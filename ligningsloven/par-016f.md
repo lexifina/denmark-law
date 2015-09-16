@@ -1,1 +1,1 @@
-§ 16 F. (Ophævet).
+§ 16 F. (Ophævet)

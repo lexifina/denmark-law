@@ -1,1 +1,1 @@
-§ 28 C. (Ophævet).
+§ 28 C. (Ophævet)

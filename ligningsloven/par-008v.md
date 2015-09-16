@@ -10,11 +10,11 @@ Stk. 2. Fradraget er betinget af,
 
 4) at den skattepligtige foretager indberetning af det fradragsberettigede beløb til skattemyndighederne med angivelse af, hvem der har udført arbejdet, og
 
-5) at arbejdet vedrørende en helårsbolig er udført i perioden fra og med den 1. juni 2011 til og med den 31. december 2014, og at arbejdet vedrørende en fritidsbolig er udført i perioden fra og med den 22. april 2013 til og med den 31. december 2014.
+5) at arbejdet vedrørende en helårsbolig er udført i perioden fra og med den 1. juni 2011 til og med den 31. december 2015, og at arbejdet vedrørende en fritidsbolig er udført i perioden fra og med den 22. april 2013 til og med den 31. december 2015.
 
 Stk. 3. For arbejde vedrørende en fritidsbolig finder stk. 1, 2 og 4-9 tilsvarende anvendelse for ægtefællen til ejeren af en fritidsbolig, jf. stk. 2, nr. 2, under forudsætning af at ægtefællerne var gift og samlevende på det tidspunkt, hvor det fradragsberettigede arbejde blev udført.
 
-Stk. 4. Fradraget henføres til det indkomstår, hvor betalingen for arbejdet er sket. Fradraget henføres dog til det indkomstår, hvor arbejdet er udført, hvis betaling for arbejdet er sket inden for 2 måneder efter indkomstårets udløb. Der kan ikke foretages fradrag for arbejde, der betales den 1. marts 2015 eller senere.
+Stk. 4. Fradraget henføres til det indkomstår, hvor betalingen for arbejdet er sket. Fradraget henføres dog til det indkomstår, hvor arbejdet er udført, hvis betaling for arbejdet er sket inden for 2 måneder efter indkomstårets udløb. Der kan ikke foretages fradrag for arbejde, der betales den 1. marts 2016 eller senere.
 
 Stk. 5. De fradragsberettigede udgifter kan årligt højst udgøre 15.000 kr. pr. person.
 

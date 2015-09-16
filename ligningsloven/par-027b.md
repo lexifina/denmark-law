@@ -1,1 +1,1 @@
-§ 27 B. (Ophævet).
+§ 27 B. (Ophævet)

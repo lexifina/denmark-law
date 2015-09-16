@@ -1,1 +1,1 @@
-§ 18 C. (Ophævet).
+§ 18 C. (Ophævet)

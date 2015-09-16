@@ -1,1 +1,1 @@
-§ 27 C. (Ophævet).
+§ 27 C. (Ophævet)

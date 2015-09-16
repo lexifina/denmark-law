@@ -1,1 +1,1 @@
-§ 7 A. (Ophævet).
+§ 7 A. (Ophævet)

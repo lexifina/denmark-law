@@ -1,1 +1,1 @@
-§ 8 G. (Ophævet).
+§ 8 G. (Ophævet)

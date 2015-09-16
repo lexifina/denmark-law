@@ -1,1 +1,1 @@
-§ 4 B. (Ophævet).
+§ 4 B. (Ophævet)
