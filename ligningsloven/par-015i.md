@@ -1,1 +1,1 @@
-§ 15 I. (Ophævet).
+§ 15 I. (Ophævet)

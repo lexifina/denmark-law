@@ -1,1 +1,1 @@
-§ 14 E. (Ophævet).
+§ 14 E. (Ophævet)

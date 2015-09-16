@@ -1,1 +1,1 @@
-§ 14 C. (Ophævet).
+§ 14 C. (Ophævet)

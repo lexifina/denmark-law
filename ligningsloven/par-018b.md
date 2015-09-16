@@ -1,1 +1,1 @@
-§ 18 B. (Ophævet).
+§ 18 B. (Ophævet)

@@ -1,1 +1,1 @@
-§ 8 Q. (Ophævet).
+§ 8 Q. (Ophævet)

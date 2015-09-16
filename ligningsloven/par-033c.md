@@ -1,1 +1,1 @@
-§ 33 C. (Ophævet).
+§ 33 C. (Ophævet)

@@ -1,1 +1,1 @@
-§ 15 M. (Ophævet).
+§ 15 M. (Ophævet)

@@ -1,1 +1,1 @@
-§ 15 D. (Ophævet).
+§ 15 D. (Ophævet)
