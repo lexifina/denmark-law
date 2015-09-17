@@ -157,3 +157,39 @@ Lov nr. 1284 af 9. december 2014 indeholder følgende bestemmelser om ikrafttræ
 § 49. (Udelades)
 
 § 50. Loven gælder ikke for Færøerne og Grønland, men kan ved kongelig anordning helt eller delvis sættes i kraft for Grønland med de ændringer, som de grønlandske forhold tilsiger.
+
+Lov nr. 738 af 1. juni 2015 indeholder følgende bestemmelser om ikrafttræden m.v.:
+
+§ 7
+
+Stk. 1. Loven træder i kraft den 1. juli 2015, jf. dog stk. 2.
+
+Stk. 2-7. (Udelades)
+
+§ 8
+
+(Udelades)
+
+§ 9
+
+Stk. 1. Loven gælder ikke for Færøerne og Grønland, jf. dog stk. 2 og 3.
+
+Stk. 2. Loven kan ved kongelig anordning helt eller delvis sættes i kraft for Grønland med de ændringer, som de grønlandske forhold tilsiger.
+
+Stk. 3. (Udelades)
+
+Lov nr. 739 af 1. juni 2015 indeholder følgende bestemmelser om ikrafttræden m.v.:
+
+§ 5
+
+Stk. 1. Loven træder i kraft den 1. juli 2015.
+
+Stk. 2. Selskaber, som forud for lovens ikrafttræden har vedtaget bemyndigelser i henhold til selskabslovens § 155, stk. 1 og 2, som indeholder mulighed for udstedelse af ihændehaveraktier, kan udnytte disse bemyndigelser efter deres indhold frem til den 1. juli 2016.
+
+Stk. 3. Ihændehaveraktier, som inden denne lovs ikrafttræden er udstedt i henhold til den hidtil gældende selskabslovs § 48, stk. 2, 3. pkt., eller som udstedes efter bemyndigelser nævnt i stk. 2, kan fortsat eksistere efter lovens ikrafttræden.
+
+§ 6
+
+Stk. 1. Loven gælder ikke for Færøerne og Grønland, jf. dog stk. 2.
+
+Stk. 2. Lovens §§ 1-3 kan ved kongelig anordning helt eller delvis sættes i kraft for Grønland med de ændringer, som de grønlandske forhold tilsiger.
