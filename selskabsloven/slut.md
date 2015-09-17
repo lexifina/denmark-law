@@ -1,5 +1,5 @@
-Erhvervs- og Vækstministeriet, den 28. april 2015
+Erhvervsstyrelsen, den 14. september 2015
 
-Henrik Sass Larsen
+P.M.V. Victor Kjær
 
-/ Victor Kjær
+/ Lars Bunch
