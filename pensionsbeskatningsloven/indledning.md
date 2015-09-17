@@ -1,5 +1,3 @@
 Bekendtgørelse af lov om beskatningen af pensionsordninger m.v. (pensionsbeskatningsloven)
 
-Herved bekendtgøres lov om beskatningen af pensionsordninger m.v. (pensionsbeskatningsloven), jf. lovbekendtgørelse nr. 1246 af 15. oktober 2010 med de ændringer, der følger af § 2 i lov nr. 1561 af 21. december 2010, § 13 i lov nr. 221 af 21. marts 2011, § 4 i lov nr. 599 af 14. juni 2011, § 2 i lov nr. 1365 af 28. december 2011, § 2 i lov nr. 1378 af 28. december 2011, § 3 i lov nr. 1380 af 28. december 2011, § 3 i lov nr. 398 af 9. maj 2012, § 1 i lov nr. 922 af 18. september 2012, § 1 i lov nr. 923 af 18. september 2012, § 16 i lov nr. 1354 af 21. december 2012 og § 17 i lov nr. 1380 af 23. december 2012.
-
-De ændringer, der følger af § 6 i lov nr. 513 af 7. juni 2006 om ændring af opkrævningsloven, selskabsskatteloven og forskellige andre love, er ikke indarbejdet i denne lovbekendtgørelse, da tidspunktet for ikrafttræden af disse ændringer fastsættes af skatteministeren, jf. § 18, stk. 1, i lov nr. 513 af 7. juni 2006.
+Herved bekendtgøres lov om beskatningen af pensionsordninger m.v. (pensionsbeskatningsloven), jf. lovbekendtgørelse nr. 586 af 24. maj 2013 med de ændringer, der følger af § 6 i lov nr. 513 af 7. juni 2006, § 5 i lov nr. 1460 af 17. december 2013, § 2 i lov nr. 1500 af 18. december 2013 og § 1 i lov nr. 1531 af 27. december 2014.

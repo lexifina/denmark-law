@@ -14,7 +14,7 @@
 
 5) syge- og ulykkesforsikring, der ejes af den forsikrede,
 
-6) livsforsikring, der omfattes af nr. 1, eller pensionskasseordning, der omfattes af nr. 3, men som er stillet til sikkerhed for et løfte om pension (pensionstilsagn) afgivet over for en direktør eller dennes efterladte i forbindelse med et ansættelsesforhold, samt garantiforsikring el. lign. , som er oprettet med en direktør eller dennes efterladte som berettiget til ydelser fra forsikringen som sikkerhed for et tilsvarende løfte om pension,
+6) livsforsikring, der omfattes af nr. 1, eller pensionskasseordning, der omfattes af nr. 3, men som er stillet til sikkerhed for et løfte om pension (pensionstilsagn) afgivet over for en direktør eller dennes efterladte i forbindelse med et ansættelsesforhold, samt garantiforsikring el. lign., som er oprettet med en direktør eller dennes efterladte som berettiget til ydelser fra forsikringen som sikkerhed for et tilsvarende løfte om pension,
 
 7) pensionsordning oprettet i pengeinstitutter eller kreditinstitutter, der ikke omfattes af kapitel 1,
 
