@@ -1,7 +1,5 @@
-Givet på Christiansborg Slot, den 20. december 2006
+Beskæftigelsesministeriet, den 15. september 2015
 
-Under Vor Kongelige Hånd og Segl
+Jørn Neergaard Larsen
 
-Margrethe R.
-
-/Claus Hjort Frederiksen
+/ Christian Solgaard
