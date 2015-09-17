@@ -12,6 +12,6 @@ Stk. 6. Forinden afgiftsberegningen efter stk. 2 afrundes det afgiftspligtige be
 
 Stk. 7. Der svares afgift efter stk. 2, selv om medlemmet ikke har været skattepligtigt her i landet i den periode, hvor indbetaling af bidragene til efterlønsordningen har fundet sted.
 
-Stk. 8. Når afgiftspligt indtræder som følge af kontant udbetaling, påhviler afgiftspligten den eller dem, der efter lov om arbejdsløshedsforsikring m.v. er berettiget til den kontante udbetaling. Afgiften tilbageholdes ved den kontante udbetaling og skal indbetales til statskassen inden 3 hverdage (bankdage) efter den kontante udbetaling. Den afgiftspligtige skal underrettes om tilbageholdelsen. § 38, stk. 5, og § 39 finder tilsvarende anvendelse.
+Stk. 8. Når afgiftspligt indtræder som følge af kontant udbetaling, påhviler afgiftspligten den eller dem, der efter lov om arbejdsløshedsforsikring m.v. er berettiget til den kontante udbetaling. Afgiften tilbageholdes ved den kontante udbetaling og skal indbetales til statskassen inden 3 hverdage (bankdage) efter den kontante udbetaling. Den afgiftspligtige skal underrettes om tilbageholdelsen. § 38, stk. 6 og 7, og § 39 finder tilsvarende anvendelse.
 
 Stk. 9. Afgiften tilfalder staten.
