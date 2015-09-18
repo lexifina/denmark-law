@@ -1,7 +1,5 @@
-§ 5 a. Når en kunde har indgået en aftale om en rejseydelse til privat brug, jf. § 2, stk. 1, nr. 4 og 5, er kunden dækket, såfremt kunden har valgt dækning hos Rejsegarantifonden, jf. § 9.
+§ 5 a. Når en kunde har indgået en aftale om en rejseydelse, der udelukkende omfatter flytransport, jf. § 2, stk. 1, nr. 4, er kunden dækket i henhold til stk. 2 og 3, såfremt rejsen er påbegyndt, og kunden har et gyldigt hjemrejsedokument til en dansk lufthavn. Indenrigsflyvninger og rejseydelser omfattet af § 2, stk. 1, nr. 1-3, er ikke omfattet af bestemmelsen. Rejsegarantifonden skal tilbagebetale flykonkursbidrag, der er opkrævet fra indenrigsflyvninger til udbydere af flyrejser og flykonkursbidrag, der er opkrævet fra flytransport, som efterfølgende er anvendt som element i en af de § 2, stk. 1, nr. 1-3 nævnte rejseydelser, til rejseudbyderne.
 
-Stk. 2. Det skal tydeligt fremgå af rejsebeviset, om kunden har valgt dækning hos Rejsegarantifonden eller ej.
+Stk. 2. Medfører en udbyder af flytransports økonomiske forhold, at der ikke er sikret kunden passende hjemtransport, skal fonden inden rimelig tid sørge herfor.
 
-Stk. 3. Medfører en rejseudbyders økonomiske forhold, at der ikke er sikret kunden passende hjemtransport, skal fonden inden rimelig tid sørge herfor.
-
-Stk. 4. Fonden kan endvidere yde kunden en rimelig godtgørelse for tab, der skyldes en rejseudbyders økonomiske forhold.
+Stk. 3. Fonden kan endvidere yde en kunde en godtgørelse for en ikkepåbegyndte forudbetalt rejse fra en dansk lufthavn til en udenlandsk destination, forudsat at der er tilstrækkelige midler i flyrejsefondskassen efter afholdelse af de i stk. 2 omtalte udgifter. Såfremt der ikke er tilstrækkelige midler i flyrejsefondskassen til at dække ikkepåbegyndte forudbetalte rejser fuldt ud, foretages en forholdsmæssig økonomisk dækning af kundens tab. Godtgørelsen fratrækkes 1.000 kr. pr. rejse.
