@@ -38,7 +38,7 @@ Stk. 2. Oplysningerne i henhold til stk. 1 skal omfatte:
 
 15) Hvorvidt en fortrydelsesret finder anvendelse eller ej.
 
-16) Retten til førtidig tilbagebetaling og, hvor det er relevant, oplysninger om kreditgiverens ret til kompensation og om, hvordan denne kompensation fastsættes i overensstemmelse med § 26.
+16) Retten til førtidig tilbagebetaling og, hvor det er relevant, oplysninger om kreditgiverens ret til kompensation og om, hvordan denne kompensation fastsættes i overensstemmelse med § 26 eller § 26 a.
 
 17) Forbrugerens ret til omgående underretning uden omkostninger i henhold til § 7 c, stk. 3, om resultatet af databasesøgninger, der er foretaget med henblik på vurdering af den pågældendes kreditværdighed.
 
@@ -48,7 +48,7 @@ Stk. 2. Oplysningerne i henhold til stk. 1 skal omfatte:
 
 Stk. 3. Eventuelle supplerende oplysninger fra kreditgiveren til forbrugeren gives i et særskilt dokument, der som bilag kan tilknyttes formularen i lovens bilag 2.
 
-Stk. 4. Ved anvendelse af taletelefoni skal beskrivelsen af den finansielle tjenesteydelse med forbrugerens samtykke alene omfatte tjenesteydelsens karakter og væsentligste egenskaber, dog mindst de oplysninger, der fremgår af stk. 2, nr. 3-6 og 8, samt de årlige omkostninger i procent illustreret ved et repræsentativt eksempel og det samlede beløb, som skal betales af forbrugeren.
+Stk. 4. Ved anvendelse af taletelefoni skal beskrivelsen af den finansielle tjenesteydelse med forbrugerens samtykke alene omfatte tjenesteydelsens karakter og væsentligste egenskaber, dog mindst de oplysninger, der fremgår af stk. 2, nr. 3-6 og 8, samt de årlige omkostninger i procent illustreret ved et repræsentativt eksempel og det samlede beløb, som skal betales af forbrugeren. Er der tale om en finansiel tjenesteydelse, der sikres ved pant eller anden rettighed knyttet til fast ejendom, skal beskrivelsen af den finansielle tjenesteydelses karakter og væsentligste egenskaber i stedet mindst indeholde de oplysninger, der fremgår af del A, afsnit 3-6, i oplysningsskemaet ESIS i denne lovs bilag 5.
 
 Stk. 5. Hvis aftalen på forbrugerens anmodning er indgået ved anvendelse af en fjernkommunikationsteknik, som ikke gør det muligt at give oplysningerne i overensstemmelse med stk. 1 og 2, navnlig i det tilfælde, der er omhandlet i stk. 4, skal kreditgiveren give forbrugeren de pågældende oplysninger i komplet form ved brug af formularen i lovens bilag 2 umiddelbart efter kreditaftalens indgåelse.
 
@@ -60,4 +60,4 @@ Stk. 8. Kreditgiveren og i givet fald kreditformidleren skal give forbrugeren fy
 
 Stk. 9. Stk. 1-8 finder ikke anvendelse på leverandører af varer eller tjenesteydelser, der accessorisk optræder som kreditformidlere. I disse tilfælde skal kreditgiveren sikre, at forbrugeren forud for aftaleindgåelsen modtager oplysningerne efter stk. 1-8.
 
-Stk. 10. For så vidt angår lån mod pant i fast ejendom, der ydes på baggrund af obligationsudstedelse, kan kreditgiveren i stedet for formularen i lovens bilag 2 anvende et andet oplysningsskema, som er godkendt af justitsministeren.
+Stk. 10. For så vidt angår kreditaftaler, der sikres ved pant eller anden rettighed knyttet til fast ejendom, skal kreditgiveren eller i givet fald kreditformidleren i stedet for formularen i denne lovs bilag 2 anvende oplysningsskemaet ESIS i denne lovs bilag 5. Skemaet skal gives, efter at forbrugeren har afgivet de nødvendige oplysninger om sine behov, sin finansielle situation og sine præferencer i overensstemmelse med § 7 c.
