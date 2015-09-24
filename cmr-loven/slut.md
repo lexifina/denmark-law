@@ -1,7 +1,5 @@
-Justitsministeriet, den 9. september 1986
+Justitsministeriet, den 18. september 2015
 
-Erik Ninn-Hansen
+Søren Pind
 
-/Jens Møller
-
-Ingen
+/ Mette Johansen
