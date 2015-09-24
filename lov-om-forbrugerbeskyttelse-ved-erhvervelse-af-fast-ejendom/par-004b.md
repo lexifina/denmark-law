@@ -1,3 +1,3 @@
-§ 4 b. Økonomi- og erhvervsministeren kan henlægge sine beføjelser i medfør af denne lov til en styrelse under økonomi- og erhvervsministeren.
+§ 4 b. Erhvervs- og vækstministeren kan henlægge sine beføjelser i medfør af denne lov til en styrelse under erhvervs- og vækstministeren.
 
-Stk. 2. Henlægger økonomi- og erhvervsministeren sine beføjelser efter denne lov til en styrelse under økonomi- og erhvervsministeren, jf. stk. 1, kan ministeren fastsætte regler om klageadgang, herunder at klager ikke kan indbringes for anden administrativ myndighed.
+Stk. 2. Henlægger erhvervs- og vækstministeren sine beføjelser efter denne lov til en styrelse under erhvervs- og vækstministeren, jf. stk. 1, kan ministeren fastsætte regler om klageadgang, herunder at klager ikke kan indbringes for anden administrativ myndighed.
