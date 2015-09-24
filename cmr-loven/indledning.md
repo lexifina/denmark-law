@@ -1,3 +1,3 @@
-Bekendtgørelse af lov om internationale fragtaftaler
+Bekendtgørelse af lov om fragtaftaler ved international vejtransport
 
-Herved bekendtgøres lov nr. 47 af 10. marts 1965 om fragtaftaler ved international vejtransport med de ændringer, der følger af § 3 i lov nr. 645 af 13. december 1978.
+Herved bekendtgøres lov om fragtaftaler ved international vejtransport, jf. lovbekendtgørelse nr. 602 af 9. september 1986, med de ændringer, der følger af § 2 i lov nr. 1246 af 18. december 2012.
