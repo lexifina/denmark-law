@@ -12,7 +12,7 @@ Lov nr. 105 af 20. februar 2006 (Strafskærpelse) indeholder følgende ikrafttr�
 
 Loven træder i kraft den 1. marts 2006.
 
-Lov nr. 1557 af 20. december 2006 (Gennemsigtighed ved rabatordninger m.v. på medicinområdet, liberalisering af dele af lægemiddeldistributionen samt forbedring af dyrevelfærd og fødevaresikkerhed) indeholdt følgende ikrafttrædelsesbestemmelse:
+Lov nr. 1557 af 20. december 2006 (Gennemsigtighed ved rabatordninger m.v. på medicinområdet, liberalisering af dele af lægemiddeldistributionen samt forbedring af dyrevelfærd og fødevaresikkerhed) indeholder følgende ikrafttrædelsesbestemmelse:
 
 § 4
 
@@ -34,7 +34,7 @@ Stk. 1. Loven træder i kraft den 1. juni 2009.
 
 Stk. 2. (Udelades)
 
-Lov nr. 411 af 28. maj 2009 (Dyrlægers forpligtelser i forbindelse med egenkontrol med dyrevelfærd i landbrugsbesætninger) indeholdt følgende ikrafttrædelsesbestemmelse:
+Lov nr. 411 af 28. maj 2009 (Dyrlægers forpligtelser i forbindelse med egenkontrol med dyrevelfærd i landbrugsbesætninger) indeholder følgende ikrafttrædelsesbestemmelse:
 
 § 2
 
@@ -73,3 +73,11 @@ Lov nr. 1459 af 17. december 2013 (Obligatorisk digital kommunikation, ændring 
 Stk. 1. Loven træder i kraft den 1. januar 2014.
 
 Stk. 2. Administrative forskrifter, der er udstedt i medfør af de hidtidige bestemmelser, vedbliver at være i kraft, indtil de ændres eller ophæves.
+
+Lov nr. 533 af 29. april 2015 (Forbud mod seksuel omgang eller seksuelle handlinger med dyr, forbud mod salg af hunde på markeder, avl af familie- og hobbydyr, ændret rådsstruktur m.v.) indeholder følgende ikrafttrædelsesbestemmelser:
+
+§ 3
+
+Stk. 1. Loven træder i kraft den 1. juli 2015, jf. dog stk. 2.
+
+Stk. 2. § 1, nr. 5-8, og § 2 træder i kraft den 1. januar 2016.
