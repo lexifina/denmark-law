@@ -1,0 +1,1 @@
+1) Loven indeholder bestemmelser, der gennemfører Europa-Parlamentets og Rådets direktiv 2013/11/EU af 21. maj 2013 om alternativ tvistbilæggelse i forbindelse med tvister på forbrugerområdet og om ændring af forordning (EF) nr. 2006/2004 og direktiv 2009/22/EF (direktiv om ATB på forbrugerområdet), EU-Tidende 2013, nr. L 165, side 63.
