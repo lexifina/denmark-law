@@ -1,5 +1,5 @@
-Ministeriet for Fødevarer, Landbrug og Fiskeri, den 15. maj 2014
+Miljø- og Fødevareministeriet, den 12. september 2015
 
-Dan Jørgensen
+Eva Kjer Hansen
 
-/ Birthe Schubart
+/ Birthe Schubart Haabegaard
