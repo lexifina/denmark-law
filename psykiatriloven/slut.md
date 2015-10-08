@@ -1,5 +1,5 @@
-Indenrigs- og Sundhedsministeriet, den 2. december 2010
+Sundheds- og Ældreministeriet, den 29. september 2015
 
-Bertel Haarder
+Sophie Løhde
 
-/ Susanne Beck Petersen
+/ Lise Wied Kirkegaard
