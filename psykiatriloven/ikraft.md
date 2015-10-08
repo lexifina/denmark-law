@@ -1,23 +1,31 @@
-Lov nr. 533 af 26. maj 2010 (tvungen opfølgning efter udskrivning) indeholder følgende ikrafttrædelses- og overgangsbestemmelser:
+Lov nr. 647 af 12. juni 2013 (Ændret organisering af statsforvaltningerne, regelforenklinger og omkostningsdækkende egenbetaling på det familieretlige område m.v.) indeholder følgende ikrafttrædelses- og overgangsbestemmelser:
 
-§ 3
+§ 25
 
-Stk. 1. Loven træder i kraft den 1. oktober 2010.
+Loven træder i kraft den 1. juli 2013.
 
-Stk. 2. Tvungen opfølgning efter udskrivning efter § 13 i lov om anvendelse af tvang i psykiatrien som affattet ved denne lovs § 1, nr. 1, kan iværksættes over for patienter, i forhold til hvilke der den 1. oktober 2010 eller senere træffes beslutning om tvungen opfølgning efter udskrivning. Dette gælder, uanset om betingelserne i § 13 d, stk. 1, nr. 1-4, i lov om anvendelse af tvang i psykiatrien som affattet ved denne lovs § 1, nr. 1, er opfyldt før den 1. oktober 2010.
+§ 26
 
-Lov nr. 708 af 25. juni 2010 (Betænkningstid forud for tvangsbehandling, oppegående tvangsfiksering på Sikringsafdelingen, udvidet eksternt tilsyn med tvangsfikseringer m.v.) indeholder følgende ikrafttrædelsesbestemmelse):
+Stk. 1. Sager ved de fem statsforvaltninger, der ved lovens ikrafttræden ikke er færdigbehandlet, færdigbehandles af statsforvaltningen.
 
-§ 3
+Stk. 2-5. (Udelades)
 
-Loven træder i kraft den 1. oktober 2010.
+§ 27
 
-Lov nr. 706 af 25. juni 2010 (Et nyt patientklagesystem, mulighed for at klage over sundhedsvæsenets sundhedsfaglige virksomhed, forenkling af regler om tilsynsforanstaltninger m.v.) indeholder følgende ikrafttrædelses- og overgangsbestemmelser:
+Stk. 1. Loven gælder ikke for Færøerne og Grønland, jf. dog stk. 2-4.
 
-§ 8
+Stk. 2. (Udelades)
 
-Stk. 1. Loven træder i kraft den 1. januar 2011, jf. dog stk. 2 og 3.
+Stk. 3. Lovens § 17 kan ved kongelig anordning helt eller delvis sættes i kraft for Færøerne med de ændringer, som de færøske forhold tilsiger.
 
-Stk. 2-6. (Udeladt)
+Stk. 4. (Udelades)
 
-Stk. 7. Klager over de psykiatriske patientklagenævns afgørelser, der er indgivet til Sundhedsvæsenets Patientklagenævn før lovens ikrafttræden, færdigbehandles af Det Psykiatriske Ankenævn.
+Lov nr. 579 af 4. maj 2015 (Fastlæggelse af mindreårige psykiatriske patienters retsstilling, indførelse af ny formålsbestemmelse, skærpede kriterier for tvangsfiksering, ændring af kriterierne for åbning og kontrol af post, undersøgelse af patientstuer og ejendele samt kropsvisitation m.v.) indeholder følgende ikrafttrædelses- og overgangsbestemmelser:
+
+§ 4
+
+Loven træder i kraft den 1. juni 2015.
+
+§ 5
+
+Loven gælder ikke for Færøerne og Grønland, men § 1 kan ved kongelig anordning helt eller delvis sættes i kraft for Færøerne med de ændringer, som de færøske forhold tilsiger.
