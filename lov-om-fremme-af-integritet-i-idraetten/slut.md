@@ -1,5 +1,5 @@
-Kulturministeriet, den 31. januar 2015
+Kulturministeriet, den 7. oktober 2015
 
-Marianne Jelved
+Bertel Haarder
 
-/ Bente Skovgaard Kristensen
+/ Per Nylykke
