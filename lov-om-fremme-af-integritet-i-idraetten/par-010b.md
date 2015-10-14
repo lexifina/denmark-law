@@ -1,0 +1,5 @@
+§ 10 b. Den, som forsætligt uberettiget yder, lover eller tilbyder nogen, der deltager i eller varetager hverv i forbindelse med en idrætskonkurrence på højere niveau her i landet eller i udlandet, gave eller anden fordel for at formå den pågældende til at gøre eller undlade noget, som kan få indflydelse på idrætskonkurrencen, straffes med bøde eller fængsel indtil 1 år, medmindre det er omfattet af straffelovens § 279.
+
+Stk. 2. På samme måde straffes den, der som deltager i eller i varetagelsen af et hverv i forbindelse med en sådan idrætskonkurrence forsætligt uberettiget modtager, fordrer eller lader sig tilsige gave eller anden fordel for at gøre eller undlade noget, som kan få indflydelse på idrætskonkurrencen, medmindre det er omfattet af straffelovens § 279.
+
+Stk. 3. Straffen kan stige til fængsel indtil 2 år, når forholdet er af særlig grov beskaffenhed, navnlig på grund af udførelsesmåden, eller fordi gerningen er udført af flere i forening, eller som følge af omfanget af den pågældende gave eller fordel.
