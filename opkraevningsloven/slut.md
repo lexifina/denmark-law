@@ -1,4 +1,4 @@
-Skatteministeriet, den 28. maj 2014
+Skatteministeriet, den 30. september 2015
 
 P.M.V. Jens Brøchner
 
@@ -50,7 +50,7 @@ Bilag 1
 
 21) Lov om afgift af visse flyrejser.
 
-22) Lov om afgift af naturgas og bygas.
+22) Lov om afgift af naturgas og bygas m.v.
 
 23) Lov om afgift af spildevand.
 
