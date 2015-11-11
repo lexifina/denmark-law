@@ -1,7 +1,5 @@
-Givet på Christiansborg Slot, den 21. december 2010
+Transport- og Bygningsministeriet, den 4. november 2015
 
-Under Vor Kongelige Hånd og Segl
+Hans Christian Schmidt
 
-MARGRETHE R.
-
-/ Hans Christian Schmidt
+/ Sysser Davidsen
