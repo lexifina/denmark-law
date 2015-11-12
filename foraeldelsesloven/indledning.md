@@ -1,3 +1,3 @@
 Bekendtgørelse af lov om forældelse af fordringer (forældelsesloven)
 
-Herved bekendtgøres lov nr. 522 af 6. juni 2007 om forældelse af fordringer (forældelsesloven) med de ændringer, der følger af § 11 i lov nr. 1336 af 19. december 2008, § 6 i lov nr. 718 af 25. juni 2010 og lov nr. 421 af 10. maj 2011.
+Herved bekendtgøres lov om forældelse af fordringer (forældelsesloven), jf. lovbekendtgørelse nr. 1063 af 28. august 2013, med de ændringer, der følger af lov nr. 1622 af 26. december 2013 og § 5 i lov nr. 1500 af 23. december 2014.

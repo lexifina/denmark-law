@@ -1,4 +1,4 @@
-1) Lovændringen vedrører § 18, stk. 4 og § 19, stk. 6, 2. pkt.
+1) Lovændringen vedrører § 18, stk. 4, og § 19, stk. 6, 2. pkt.
 
 2) Lovændringen vedrører § 17, stk. 1, nr. 1 og 3, og stk. 3, § 20, stk. 3 og stk. 4, 2. pkt.
 
@@ -7,3 +7,7 @@
 4) Lovændringen vedrører § 3, stk. 3, nr. 1, og stk. 4.
 
 5) Bekendtgørelsen i Lovtidende fandt sted den 11. maj 2011.
+
+6) Lovændringen vedrører § 2 a og § 3, stk. 3, nr. 2-4.
+
+7) Lovændringen vedrører § 18, stk. 4, og § 19, stk. 6.
