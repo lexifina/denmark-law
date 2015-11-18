@@ -356,7 +356,7 @@ Loven træder i kraft den 1. december 2013, jf. dog § 9.
 
 § 9
 
-Stk. 1-5. (Udelades)
+(Udelades)
 
 Lov nr. 1460 af 17. december 2013 (Ændringer som følge af forslag til ny forbrugeraftalelov m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
 
@@ -374,7 +374,7 @@ Lov nr. 1621 af 26. december 2013 (Sikkerhed i retssale) indeholder følgende ik
 
 Justitsministeren fastsætter tidspunktet for lovens ikrafttræden og kan herunder fastsætte, at lovens § 1 træder i kraft på forskellige tidspunkter.
 
-Lov nr. 84 af 28. januar 2014 (Sagstilgangen til Højesteret m.v.) indeholder følgende ikrafttrædelsesbestemmelse.
+Lov nr. 84 af 28. januar 2014 (Sagstilgangen til Højesteret m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
 
 § 5
 
@@ -394,7 +394,7 @@ Stk. 3. Retsplejelovens § 225 a, stk. 2, som affattet ved denne lovs § 4, nr. 
 
 Stk. 4. Erhvervs- og vækstministeren kan efter forhandling med justitsministeren forlænge perioden nævnt i stk. 3 med op til 7 år.
 
-Lov nr. 737 af 5. juni 2014 (Revision af reglerne om behandling af civile sager og syn og skøn, forhøjelse af beløbsgrænse for anke, indførelse af deltidsordning for dommere m.v., medieannoncering af tvangsauktioner, tvangsfuldbyrdelse af digitale lånedokumenter, skriftlig behandling af anke i straffesager med samstemmende påstande m.v.) indeholder følgende ikrafttrædelsesbestemmelser:
+Lov nr. 737 af 25. juni 2014 (Revision af reglerne om behandling af civile sager og syn og skøn, forhøjelse af beløbsgrænse for anke, indførelse af deltidsordning for dommere m.v., medieannoncering af tvangsauktioner, tvangsfuldbyrdelse af digitale lånedokumenter, skriftlig behandling af anke i straffesager med samstemmende påstande m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
 
 § 12
 
@@ -406,8 +406,40 @@ Stk. 3. Lovens § 1, nr. 29, 54-66, 68-72, 74, 75 og 82-86, § 3, nr. 2, § 5 og
 
 Stk. 4. (Udelades)
 
-Lov nr. 739 af 25. juni 2014 (Reorganisering af kriminalforsorgen, herunder begrænsning af klageadgangen) indeholder følgende ikrafttrædelsesbestemmelse.
+Lov nr. 739 af 25. juni 2014 (Reorganisering af kriminalforsorgen, herunder begrænsning af klageadgangen) indeholder følgende ikrafttrædelsesbestemmelse:
 
 § 5
 
 Justitsministeren fastsætter tidspunktet for lovens ikrafttræden.
+
+Lov nr. 176 af 24. februar 2015 (Styrket indsats mod rekruttering til væbnede konflikter i udlandet m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 4
+
+Stk. 1. Loven træder i kraft den 1. marts 2015.
+
+Stk. 2-3. (Udelades)
+
+Lov nr. 270 af 25. marts 2015 (Imødegåelse af samarbejdschikane m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 3
+
+Stk. 1. Loven træder i kraft den 1. oktober 2015.
+
+Stk. 2-5. (Udelades)
+
+Lov nr. 524 af 29. april 2015 om alternativ tvistløsning i forbindelse med forbrugerklager (forbrugerklageloven) indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 45. Loven træder i kraft den 1. oktober 2015, jf. dog stk. 2.
+
+Stk. 2-3. (Udelades)
+
+Lov nr. 740 af 1. juni 2015 (Lempelse af dispensationsadgang for detailsalg på helligdage, afskaffelse af maksimalpriser i huseftersynsordningen, minimumsbeskyttelse af visse personkategorier om bord på skibe, afskaffelse af indberetningspligten for kommuners og regioners deltagelse i selskaber og afskaffelse af beskikkelsesordning for translatører og tolke samt for dispachører m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 9
+
+Stk. 1. Loven træder i kraft dagen efter bekendtgørelsen i Lovtidende, jf. dog stk. 2 og 3.
+
+Stk. 2. (Udelades)
+
+Stk. 3. §§ 2, 3, 5, 7 og 8 træder i kraft den 1. januar 2016.
