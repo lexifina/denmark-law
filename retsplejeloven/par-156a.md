@@ -1,1 +1,1 @@
-§ 156 a. Ved telefonforkyndelse anses meddelelsen for forkyndt, hvis personen vedkender sig at være den person, der skal ske forkyndelse for, og personen må antages at have forstået telefonsamtalen. Forkyndelsen anses for sket den dag, meddelelsen telefonisk gives den pågældende.
+§ 156 a. Ved telefonforkyndelse anses meddelelsen for forkyndt, hvis personen vedkender sig at være den person, der skal ske forkyndelse for, og personen må antages at have forstået telefonsamtalen. Forkyndelsen anses for sket, den dag meddelelsen telefonisk gives den pågældende.
