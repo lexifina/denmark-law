@@ -1,9 +1,5 @@
-## Kapitel 21
+Skatteministeriet, den 12. november 2015
 
-## Delingsbestemmelser (udeladt)
-
-Skatteministeriet, den 23. februar 2011
-
-Peter Loft
+P.M.V. Jens Brøchner
 
 / Per Hvas
