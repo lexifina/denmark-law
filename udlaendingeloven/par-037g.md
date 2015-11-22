@@ -1,0 +1,1 @@
+§ 37 g. Udlændinge-, integrations- og boligministeren kan i særlige tilfælde bestemme, at politiet og Udlændingestyrelsen mod vederlag kan gøre brug af ejendomme, som er ejet af forvaltningsmyndigheder, hvis det er nødvendigt for varetagelsen af opgaver efter denne lov.
