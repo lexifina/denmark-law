@@ -1,0 +1,1 @@
+§ 37 h. Udlændingestyrelsen kan i særlige tilfælde pålægge den kommune, hvor der etableres et indkvarteringssted, jf. § 42 a, stk. 5, 1. pkt., at være indkvarteringsoperatør. Pålægget skal indeholde de nærmere betingelser for kommunens varetagelse af operatøransvaret.

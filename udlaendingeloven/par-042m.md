@@ -1,0 +1,5 @@
+§ 42 m. Indkvarteringsoperatøren, jf. § 42 a, stk. 5, 2. pkt., kan bestemme, at personer, som ønsker adgang til et indkvarteringssted med adgangskontrol, skal lade det tøj, som vedkommende er iført ved fremmødet, visitere og lade medbragte effekter undersøge, når ordens- eller sikkerhedsmæssige hensyn taler derfor. Indkvarteringsoperatøren kan bestemme, at en sådan adgangskontrol ikke omfatter personer, som ønsker adgang til indkvarteringsstedet som led i udøvelsen af deres erhverv.
+
+Stk. 2. Afvises en udlænding, som er indkvarteret på indkvarteringsstedet, som følge af at vedkommende nægter at lade sit tøj visitere eller lade medbragte effekter undersøge, jf. stk. 1, kan Udlændingestyrelsen pålægge udlændingen at tage ophold på et indkvarteringssted efter Udlændingestyrelsens nærmere bestemmelse.
+
+Stk. 3. Udlændinge-, integrations- og boligministeren fastsætter nærmere regler om gennemførelsen af adgangskontrollen efter stk. 1, herunder om visitation og undersøgelse af medbragte effekter.
