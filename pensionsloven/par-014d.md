@@ -1,0 +1,9 @@
+§ 14 d. Ansøgninger og meddelelser m.v. om personligt tillæg efter § 14, stk. 1, og om helbredstillæg efter § 14 a, stk. 1 og 4, skal indgives til kommunalbestyrelsen ved anvendelse af den digitale løsning, som kommunen stiller til rådighed (digital selvbetjening). Ansøgninger eller meddelelser m.v., der ikke indgives ved digital selvbetjening, afvises af kommunalbestyrelsen, jf. dog stk. 2 og 3.
+
+Stk. 2. Hvis kommunalbestyrelsen finder, at der foreligger særlige forhold, der gør, at borgeren ikke må forventes at kunne anvende digital selvbetjening, skal kommunalbestyrelsen tilbyde, at ansøgningen eller meddelelsen m.v. kan indgives på anden måde end ved digital selvbetjening efter stk. 1.
+
+Stk. 3. Kommunalbestyrelsen kan ud over de i stk. 2 nævnte tilfælde undlade at afvise en ansøgning eller meddelelse m.v., der ikke er indgivet ved digital selvbetjening, hvis der ud fra en samlet økonomisk vurdering er klare fordele ved at modtage ansøgningen eller meddelelsen m.v. på en anden måde end digitalt. Kommunalbestyrelsen kan endvidere undlade at afvise en meddelelse, der ikke er indgivet ved digital selvbetjening, hvis det efter sagens karakter er hensigtsmæssigt at modtage meddelelsen på anden måde end digitalt.
+
+Stk. 4. En digital ansøgning eller meddelelse m.v. anses for at være kommet frem, når den er tilgængelig for kommunalbestyrelsen.
+
+Stk. 5. Ministeren for børn, ligestilling, integration og sociale forhold kan fastsætte nærmere regler om, at kommunalbestyrelsens afgørelser om digital selvbetjening efter stk. 2 også skal gælde for ansøgninger og meddelelser m.v. på andre nærmere angivne sagsområder, og regler om, at kommunalbestyrelsen skal give Udbetaling Danmark besked, hvis kommunalbestyrelsen har truffet afgørelse om digital selvbetjening efter stk. 2 og afgørelsen har betydning for andre ansøgninger og meddelelser m.v. på sagsområder, der hører under Udbetaling Danmark.
