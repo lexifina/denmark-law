@@ -1,5 +1,5 @@
 Bekendtgørelse af lov om kreditaftaler
 
-Herved bekendtgøres lov om kreditaftaler, jf. lovbekendtgørelse nr. 761 af 11. juni 2011, med de ændringer, der følger af lov nr. 1243 af 18. december 2012 og § 4 i lov nr. 1460 af 17. december 2013.
+Herved bekendtgøres lov om kreditaftaler, jf. lovbekendtgørelse nr. 347 af 2. april 2014, med de ændringer, der følger af § 6 i lov nr. 737 af 25. juni 2014 og § 3 i lov nr. 532 af 29. april 2015.
 
-Den angivne ordlyd af § 19, stk. 6, træder i kraft den 13. juni 2014, jf. § 7, stk. 1, i lov nr. 1460 af 17. december 2013 om ændring af købeloven og forskellige andre love.
+Den bekendtgjorte lovtekst vedrørende fodnoten til lovens titel, § 7 d, § 9, stk. 4, og 26 a, træder i kraft den 21. marts 2016, jf. § 16, stk. 8, i lov nr. 532 af 29. april 2015 om ændring af lov om værdipapirhandel m.v., lov om finansiel virksomhed, lov om kreditaftaler, lov om finansielle rådgivere, lov om pantebrevsselskaber, lov om realkreditlån og realkreditobligationer m.v. og forskellige andre love.
