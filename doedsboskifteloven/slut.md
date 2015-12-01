@@ -1,9 +1,5 @@
-Givet på Christiansborg Slot, den 22. maj 1996
+Justitsministeriet, den 26. november 2015
 
-Under Vor Kongelige Hånd og Segl
+Søren Pind
 
-MARGRETHE R.
-
-/Bjørn Westh
-
-Ingen
+/ Nicolai Holm Larsen
