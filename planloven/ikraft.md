@@ -4,7 +4,7 @@ Lov nr. 9 af 3. januar 1992 om naturbeskyttelse, som vedrører §§ 36, stk. 1, 
 
 Stk. 1. Loven træder i kraft den 1. juli 1992.
 
-Stk. 2-3. (Udeladt)
+Stk. 2-3. (Udelades)
 
 Lov nr. 920 af 25. november 1992 om ændring af lov om planlægning, der vedrører §§ 35, 40, 51, 58, 58 a, 60, 61 og 67, indeholder følgende overgangs- og ikrafttrædelsesbestemmelser:
 
@@ -52,9 +52,9 @@ Lov nr. 439 af 1. juni 1994 om ændring af lov om planlægning og lov om naturbe
 
 § 3
 
-Stk. 1. Loven træder i kraft den 1. august 1994, jf. dog stk. 2.
+Stk. Loven træder i kraft den 1. august 1994, jf. dog stk. 2.
 
-Stk. 2-5. (Udeladt)
+Stk. 2-5. (Udelades)
 
 Lov nr. 236 af 2. april 1997 om ændring af lov om planlægning (Ophævelse af § 3 a om etablering af indkvarteringssteder for asylansøgere m.v.), der ændrer § 19 stk. 3 og § 57, og ophæver § 3 a, indeholder følgende overgangs- og ikrafttrædelsesbestemmelse:
 
@@ -70,17 +70,17 @@ Lov nr. 324 af 14. maj 1997 om ændring af lov om planlægning (Detailhandel m.v
 
 § 2
 
-Loven træder i kraft ugedagen efter bekendtgørelsen i Lovtidende. Bestemmelserne i § 1, nr. 1, 6 og 7 samt i § 3 har virkning for planer, der vedtages endeligt efter lovens ikrafttræden. Bestemmelserne i § 1, nr. 2, 3 og 4 har virkning for regionplanlægning fra og med regionplanrevision 2001 samt for regionplantillæg for detailhandel, hvis amtsrådet vælger at tilvejebringe regionplanretningslinier for den samlede detailhandelsstruktur i amtskommunen forud for regionplanrevision 2001. Bestemmelserne i § 1, nr. 5 og 9, har virkning for forslag til planer, der fremsættes efter lovens ikrafttræden.
+Loven træder i kraft ugedagen efter bekendtgørelsen i Lovtidende. Bestemmelserne i § 1, nr. 1, 6 og 7 samt i § 3 har virkning for planer, der vedtages endeligt efter lovens ikrafttræden. Bestemmelserne i § 1, nr. 2, 3 og 4 har virkning for regionplanlægning fra og med regionplanrevision 2001 samt for regionplantillæg for detailhandel, hvis amtsrådet vælger at tilvejebringe regionplanretningslinjer for den samlede detailhandelsstruktur i amtskommunen forud for regionplanrevision 2001. Bestemmelserne i § 1, nr. 5 og 9, har virkning for forslag til planer, der fremsættes efter lovens ikrafttræden.
 
 § 3
 
-Stk. 1. Indtil der efter reglerne i lov om planlægning som ændret ved denne lov er tilvejebragt regionplanretningslinier for den samlede detailhandelsstruktur i amtskommunen henholdsvis i Københavns og Frederiksberg kommuner kan der kun tilvejebringes regionplanretningslinier for detailhandelscentre, der er omfattet af § 6, stk. 3, nr. 4, jf. stk. 8, i lov om planlægning, i områder, der er udlagt til centerformål inden for et bykernecenter i henhold til en kommuneplan, der er endeligt vedtaget før lovens ikrafttræden.
+Stk. 1. Indtil der efter reglerne i lov om planlægning som ændret ved denne lov er tilvejebragt regionplanretningslinjer for den samlede detailhandelsstruktur i amtskommunen henholdsvis i Københavns og Frederiksberg kommuner kan der kun tilvejebringes regionplanretningslinjer for detailhandelscentre, der er omfattet af § 6, stk. 3, nr. 4, jf. stk. 8, i lov om planlægning, i områder, der er udlagt til centerformål inden for et bykernecenter i henhold til en kommuneplan, der er endeligt vedtaget før lovens ikrafttræden.
 
-Stk. 2. Indtil der, jf. stk. 1, er tilvejebragt regionplanretningslinier for den samlede detailhandelsstruktur i amtskommunen henholdsvis i Københavns og Frederiksberg kommuner, kan der kun kommune-, eller lokalplanlægges for butikker i områder, der er udlagt til centerformål inden for et lokal-, bydels- eller bykernecenter i henhold til en kommuneplan, der er endeligt vedtaget før lovens ikrafttræden. Der kan dog endvidere kommune- og lokalplanlægges for de arealer til butikker, der er omfattet af § 5 d, stk. 2, nr. 1 - 3, som affattet i denne lov.
+Stk. 2. Indtil der, jf. stk. 1, er tilvejebragt regionplanretningslinjer for den samlede detailhandelsstruktur i amtskommunen henholdsvis i Københavns og Frederiksberg kommuner, kan der kun kommune-, eller lokalplanlægges for butikker i områder, der er udlagt til centerformål inden for et lokal-, bydels- eller bykernecenter i henhold til en kommuneplan, der er endeligt vedtaget før lovens ikrafttræden. Der kan dog endvidere kommune- og lokalplanlægges for de arealer til butikker, der er omfattet af § 5 d, stk. 2, nr. 1 - 3, som affattet i denne lov.
 
 Stk. 3. I region-, kommune- og lokalplanlægning efter stk. 1 og 2 kan der ikke planlægges for bruttoetagearealer for de enkelte butikker på mere end 3.000 m2 for dagligvarebutikker eller 1.000 m2 for udvalgsvarebutikker.
 
-Stk. 4. Ved en kommuneplanrevision, der gennemføres, før der er tilvejebragt regionplanretningslinier for den samlede detailhandelsstruktur, jf. stk. 1, kan eksisterende rammer for lokalplanlægningen uanset stk. 2 opretholdes, i det omfang de er grundlag for en gældende lokalplan, byplanvedtægt eller reguleringsplan, der giver mulighed for etablering af butikker.
+Stk. 4. Ved en kommuneplanrevision, der gennemføres, før der er tilvejebragt regionplanretningslinjer for den samlede detailhandelsstruktur, jf. stk. 1, kan eksisterende rammer for lokalplanlægningen uanset stk. 2 opretholdes, i det omfang de er grundlag for en gældende lokalplan, byplanvedtægt eller reguleringsplan, der giver mulighed for etablering af butikker.
 
 § 4
 
@@ -102,7 +102,7 @@ Lov nr. 428 af 10. juni 1997 om ændring af lov om bygningsfredning og lov om pl
 
 Stk. 1. Loven træder i kraft den 1. december 1997.
 
-Stk. 2-4. (Udeladt)
+Stk. 2-4. (Udelades)
 
 Lov nr. 478 af 1. juli 1998 om ændring af lov om miljøbeskyttelse, lov om naturbeskyttelse, lov om vandløb og lov om planlægning(* 1) (Justering af harmonikravene og genopretning af vådområder i overensstemmelse med aftalen om Vandmiljøplan II), som vedrører §§ 6, stk. 3, nr. 9, indeholder følgende ikrafttrædelsesbestemmelse:
 
@@ -116,7 +116,7 @@ Lov nr. 479 af 1. juli 1998 om ændring af lov om vandforsyning m.v., lov om mil
 
 Stk. 1. Loven træder i kraft den 1. august 1998.
 
-Stk. 2. (Udeladt)
+Stk. 2. (Udelades)
 
 Lov nr. 1022 af 23. december 1998 om ændring af lov om planlægning, som vedrører §§ 51 a, 64, stk. 2, indeholder følgende overgangs- og ikrafttrædelsesbestemmelser:
 
@@ -128,7 +128,7 @@ Stk. 2. Kommunalbestyrelsens forpligtelser efter § 51 a i lov om planlægning s
 
 § 3
 
-Stk. 1. Kommunalbestyrelsen kan meddele dispensation fra forbudet mod anvendelse af en bolig i et sommerhusområde til helårsbeboelse, jf. § 40, stk. 1, i lov om planlægning, til en person, som fra før den 21. oktober 1998 har været registreret i CPR med bopæl i en sådan bolig, og som ikke i henhold til samme lovs §§ 40 og 41 lovligt har kunnet anvende boligen til helårsbeboelse. En dispensation skal være tidsbegrænset til senest den 31. marts 2009.
+Stk. 1. Kommunalbestyrelsen kan meddele dispensation fra forbuddet mod anvendelse af en bolig i et sommerhusområde til helårsbeboelse, jf. § 40, stk. 1, i lov om planlægning, til en person, som fra før den 21. oktober 1998 har været registreret i CPR med bopæl i en sådan bolig, og som ikke i henhold til samme lovs §§ 40 og 41 lovligt har kunnet anvende boligen til helårsbeboelse. En dispensation skal være tidsbegrænset til senest den 31. marts 2009.
 
 Stk. 2. Ansøgning om dispensation efter stk. 1 indgives til kommunalbestyrelsen senest den 30. september 1999. Kommunalbestyrelsens afgørelse efter stk. 1 skal træffes senest den 31. marts 2000.
 
@@ -142,7 +142,7 @@ Stk. 6. Bestemmelserne i § 58, stk. 2 og 3, § 59, § 60, stk. 3 og 5, og § 62
 
 § 4
 
-Stk. 1 Kommunalbestyrelsen indsender årligt oplysninger til miljøministeren om administrationen m.v. af reglerne i §§ 40 og 41, jf. §§ 51 og 51 a i lov om planlægning og § 3.
+Stk. 1. Kommunalbestyrelsen indsender årligt oplysninger til miljøministeren om administrationen m.v. af reglerne i §§ 40 og 41, jf. §§ 51 og 51 a i lov om planlægning og § 3.
 
 Stk. 2. Miljøministeren fastsætter nærmere regler om kommunalbestyrelsens forpligtelser efter stk. 1.
 
@@ -248,13 +248,13 @@ Lov nr. 1151 af 17. december 2003 om ændring af lov om vandforsyning m.v., lov 
 
 Stk. 1. Loven træder i kraft den 22. december 2003, jf. dog stk. 2-6.
 
-Stk. 2. (Udeladt)
+Stk. 2. (Udelades)
 
-Stk. 3. De ændringer, der følger af (udeladt) § 4, nr. 2 og 3, træder i kraft i de enkelte amter, når der er offentliggjort en vandplan, der gælder for amtet, efter lov om miljømål m.v. for vandforekomster og internationale naturbeskyttelsesområder, jf. dog stk. 4. Hvis en del af et amt endnu ikke er dækket af en vandplan, finder de hidtil gældende regler anvendelse, for så vidt angår denne del.
+Stk. 3. De ændringer, der følger af (udelades) § 4, nr. 2 og 3, træder i kraft i de enkelte amter, når der er offentliggjort en vandplan, der gælder for amtet, efter lov om miljømål m.v. for vandforekomster og internationale naturbeskyttelsesområder, jf. dog stk. 4. Hvis en del af et amt endnu ikke er dækket af en vandplan, finder de hidtil gældende regler anvendelse, for så vidt angår denne del.
 
 Stk. 4. De ændringer, der følger af § 4, nr. 2 og 3, finder anvendelse ved udarbejdelsen af den regionplanrevision, der skal være afsluttet i 2009, jf. § 22 i lov om planlægning.
 
-Stk. 5. (Udeladt)
+Stk. 5. (Udelades)
 
 Stk. 6. Regler, der er udstedt i medfør af de bemyndigelser, der ophæves eller ændres ved denne lov, opretholdes, indtil de afløses af regler udstedt efter lov om miljømål m.v. for vandforekomster og internationale naturbeskyttelsesområder.
 
@@ -266,7 +266,7 @@ Lov nr. 453 af 9. juni 2004 om skove, som vedrører § 6, 11 og 13, indeholder f
 
 § 67. Loven træder i kraft den 1. oktober 2004.
 
-Stk. 2. (Udeladt)
+Stk. 2. (Udelades)
 
 Lov nr. 454 af 9. juni 2004 om ændring af lov om naturbeskyttelse, lov om planlægning, lov om vandløb og museumsloven, som vedrører § 36, stk. 1, nr. 5, indeholder følgende ikrafttrædelsesbestemmelse:
 
@@ -274,7 +274,7 @@ Lov nr. 454 af 9. juni 2004 om ændring af lov om naturbeskyttelse, lov om planl
 
 Stk. 1. Loven træder i kraft den 1. oktober 2001.
 
-Stk. 2-5. (Udeladt)
+Stk. 2-5. (Udelades)
 
 Lov nr. 455 af 9. juni 2004 om ændring af lov om planlægning (Udvidelse af eksisterende sommerhusområder i kystnærhedszonen og udlæg af nye sommerhusområder på de små øer), som vedrører § 5 b, stk. 2 og 3, indeholder følgende ikrafttrædelsesbestemmelse:
 
@@ -294,7 +294,7 @@ Lov nr. 458 af 9. juni 2004 om ændring af forskellige skatte- og afgiftslove og
 
 Stk. 1. Loven træder i kraft dagen efter bekendtgørelse i Lovtidende.
 
-Stk. 2-3. (Udeladt)
+Stk. 2-3. (Udelades)
 
 Stk. 4. § 4, nr. 2, 4, 7 og 8, § 5, nr. 7-10, § 6, § 11, nr. 2, 7 og 8, og §§ 13 og 18 har virkning for ejendomme, der overføres fra landzone til byzone eller sommerhusområde den 1. januar 2004 eller senere.
 
@@ -302,17 +302,17 @@ Stk. 5. Såfremt der er ydet henstand med betaling af frigørelsesafgift efter �
 
 Stk. 6. Ejere af ejendomme, der er overført eller overføres fra landzone til byzone eller sommerhusområde inden den 1. januar 2004, og som har fået henstand med betalingen af frigørelsesafgiften, kan vælge at få henstanden erstattet med beskatning af fortjenesten på afståelsestidspunktet efter reglerne i ejendomsavancebeskatningsloven. Henstandsrenter tilbagebetales dog ikke.
 
-Stk. 7-11. (Udeladt)
+Stk. 7-11. (Udelades)
 
 Lov nr. 484 af 9. juni 2004 om ændring af byggeloven, lov om planlægning og lov om statens byggevirksomhed m.v. (Handicaptilgængelighed og adgang til at iværksætte undersøgelser af alvorlige ulykker i byggeriet), som vedrører §§ 21, stk. 2, indeholder følgende ikrafttrædelsesbestemmelse:
 
 § 4
 
-Stk. 1. (Udeladt)
+Stk. 1. (Udelades)
 
-Stk. 2. § 1, nr. 2-5, og § 2 træder i kraft den 1. juli 2004. (2. pkt. udeladt).
+Stk. 2. § 1, nr. 2-5, og § 2 træder i kraft den 1. juli 2004. (2. pkt. udelades).
 
-Stk. 3. (Udeladt)
+Stk. 3. (Udelades)
 
 Lov nr. 430 af 6. juni 2005 om ændring af forskellige love og om ophævelse af lov om kommunalt samarbejde om opkrævning og inddrivelse (Konsekvensændringer som følge af lov om opkrævning og inddrivelse af visse fordringer samlingen af inddrivelsen i Skatteministeriet), som ændrer § 51 a, indeholder følgende ikrafttrædelsesbestemmelse:
 
@@ -332,13 +332,13 @@ Stk. 1. Loven træder i kraft den 1. november 2005, jf. dog stk. 2.
 
 Stk. 2. § 52, nr. 8, har virkning for underretninger, som indeholdelsespligtige giver modtageren af A-indkomst den 1. september 2005 og senere.
 
-Lov nr. 535 af 24. juni 2005 om jordfordeling og offentligt køb og salg af fast ejendom til jordbrugsmæssige formål (jordfordelingsloven), som ændrer § 36, indeholder følgende ikraftttrædelsesbestemmelse:
+Lov nr. 535 af 24. juni 2005 om jordfordeling og offentligt køb og salg af fast ejendom til jordbrugsmæssige formål (jordfordelingsloven), som ændrer § 36, indeholder følgende ikrafttrædelsesbestemmelse:
 
 § 28
 
 Stk. 1. Loven træder i kraft den 1. juli 2005, jf. dog stk. 2.
 
-Stk. 2. (Udeladt)
+Stk. 2. (Udelades)
 
 Lov nr. 571 af 24. juni 2005 om ændring af lov om planlægning (Udmøntning af kommunalreformen), som ændrer §§ 1, 2, 3, 4, 5 a, 5 e, 11, 11 a, 11 b, 11 c, 11 d, 12, 13, 16, 17, 20, 23, 23 a, 23 e, 24, 25, 27, 28, 29, 29 a, 29 b, 30, 33, 33 a, 33 b, 35, 45, 46, 51, 52, 57, 58, 59, 60, 64, indsætter nyt kapitel 2 c, indsætter ny note 1, og indsætter nye §§ 2 a, 5 h, 5 i, 5 j, 5 k, 10 a, 10 b, 11 e, 11 f, 11 g, 11 h, 11 i, 22 a, 22 b, 22 c, 54 a og 57 a, samt ophæver §§ 5 g, 6, 6 a, 6 b, 6 c, 6 d, 7, 7 a, 8, 9, 10, 22 og 23, indeholder følgende overgangs- og ikrafttrædelsesbestemmelser:
 
@@ -394,9 +394,9 @@ Lov nr. 520 af 7. juni 2006 om ændring af lov om elforsyning, lov om naturgasfo
 
 § 9
 
-Stk. 1. Tidspunktet for lovens ikrafttræden fastsættes af transport- og energiministeren, jf. dog stk. 2. Ministeren kan fastsætte, at dele af loven træder i kraft før andre dele af loven.
+Stk. Tidspunktet for lovens ikrafttræden fastsættes af transport- og energiministeren, jf. dog stk. 2. Ministeren kan fastsætte, at dele af loven træder i kraft før andre dele af loven.
 
-Stk. 2-6. (Udeladt)
+Stk. 2-6. (Udelades)
 
 Lov nr. 538 af 8. juni 2006 om ændring af retsplejeloven og forskellige andre love (Politi- og domstolsreform), som ophæver § 62, stk. 5, indeholder følgende ikrafttrædelsesbestemmelse:
 
@@ -412,7 +412,7 @@ Stk. 4. Retsplejelovens §§ 370 og 390 som affattet henholdsvis ændret ved den
 
 Stk. 5. Retsplejelovens kapitel 39 som affattet ved denne lovs § 1, nr. 102, finder anvendelse i sager, der anlægges efter den 1. januar 2008.
 
-Stk. 6-7. (Udeladt)
+Stk. 6-7. (Udelades)
 
 Stk. 8. Borgerlige sager i 1. instans, der ved lovens ikrafttræden verserer ved landsret, kan efter høring af parterne henvises til fortsat behandling ved byret, såfremt sagen
 
@@ -424,15 +424,15 @@ Stk. 8. Borgerlige sager i 1. instans, der ved lovens ikrafttræden verserer ved
 
 4) må antages at kunne afgøres væsentligt hurtigere ved byretten.
 
-Stk. 9-12. (Udeladt)
+Stk. 9-12. (Udelades)
 
 Stk. 13. Genoptagelse og fornyet behandling efter hjemvisning sker ved byretten i den retskreds, hvortil det hidtidige hovedtingsted for den ret, der har truffet afgørelse i sagen, nu hører.
 
-Stk. 14-22. (Udeladt)
+Stk. 14-22. (Udelades)
 
 § 106
 
-(Udeladt)
+(Udelades)
 
 Lov nr. 539 af 8. juni 2006 om ændring af lov om tinglysning og forskellige andre love (Digital tinglysning), som vedrører og ændrer § 31, stk. 2, § 31a, § 33, stk. 4 og 54 b, indeholder følgende ikrafttrædelsesbestemmelse:
 
@@ -458,7 +458,7 @@ Stk. 1. Loven træder i kraft den 1. januar 2007, jf. dog stk. 2.
 
 Stk. 2. § 11 træder i kraft den 1. juli 2006.
 
-Stk. 3. (Udeladt)
+Stk. 3. (Udelades)
 
 Lov nr. 1571 af 20. december 2006 om ændring af lov om miljøbeskyttelse, lov om beskyttelse af havmiljøet og forskellige andre love (Ophævelse af adgang til at overføre myndighedskompetence til kommunale fællesskaber og ændring af delegationsbestemmelser m.v. i en række love på natur- og miljøområdet), som vedrører og ændrer § 52, stk. 3-5, indeholder følgende ikrafttrædelsesbestemmelse:
 
@@ -466,7 +466,7 @@ Lov nr. 1571 af 20. december 2006 om ændring af lov om miljøbeskyttelse, lov o
 
 Stk. 1. Loven træder i kraft den 1. januar 2007, jf. dog stk. 2.
 
-Stk. 2. (Udeladt)
+Stk. 2. (Udelades)
 
 Lov nr. 1572 af 20. december 2006 om miljøgodkendelse m.v. af husdyrbrug, som ændrer § 1, nr. 14 i lov nr. 571 af 24. juni 2005, indeholder følgende ikrafttrædelsesbestemmelse:
 
@@ -478,7 +478,7 @@ Lov nr. 1587 af 20. december 2006 om ændring af lov om Arbejdsmarkedets Tillæg
 
 Stk. 1. Loven træder i kraft den 1. juli 2009, jf. dog stk. 2-7.
 
-Stk. 2-7. (Udeladt)
+Stk. 2-7. (Udelades)
 
 Lov nr. 533 af 6. juni 2007 om nationalparker, som vedrører og ændrer § 25, stk. 1, § 28, stk. 4, § 29 c og § 59, stk. 1, indeholder følgende ikrafttrædelsesbestemmelse:
 
@@ -516,7 +516,7 @@ Lov nr. 1336 af 19. december 2008 om ændring af kildeskatteloven, opkrævningsl
 
 Stk. 1. Loven træder i kraft den 1. januar 2009, jf. dog stk. 2. § 11 finder alene anvendelse på afgørelser om lønindeholdelse, der træffes efter lovens ikrafttræden.
 
-Stk. 2. (Udeladt)
+Stk. 2. (Udelades)
 
 Lov nr. 512 af 12. juni 2009 om ændring af lov om planlægning (Begrænsning i adgangen til ekspropriation, opførelse af mindre bygninger i landzone m.v.), som ophæver § 28, stk. 4, og ændrer § 5 a, stk. 4, § 5 h, § 11 b, stk. 1, nr. 12, § 19, stk. 3, § 28, stk. 1-3, § 29, stk. 1-3, § 29 a, stk. 1, og § 29 c, § 29 a, stk. 1, § 36, stk. 1, nr. 7, § 47, stk. 1, § 50, stk. 1, § 51, stk. 2, § 56, stk. 1 og 2, indeholder følgende ikrafttrædelsesbestemmelse:
 
@@ -566,15 +566,15 @@ Lov nr. 484 af 11. maj 2010 om ændring af lov om naturbeskyttelse, lov om milj�
 
 Stk. 1. Loven træder i kraft den 1. januar 2011, jf. dog stk. 2.
 
-Stk. 2-4. (Udeladt)
+Stk. 2-4. (Udelades)
 
 Stk. 5. Verserende sager i Naturklagenævnet, der ikke er færdigbehandlet ved lovens ikrafttræden, færdigbehandles efter lov om Natur- og Miljøklagenævnet af Natur- og Miljøklagenævnet med den i § 5, stk. 1, nr. 2, i lov om Natur- og Miljøklagenævnet nævnte sammensætning. I sager, hvor Naturklagenævnet har afholdt besigtigelse i en sag om fredning efter naturbeskyttelseslovens kapitel 6, sammensættes Natur- og Miljøklagenævnet med deltagelse af de nævnsmedlemmer, der deltog i besigtigelsen.
 
-Stk. 6. (Udeladt)
+Stk. 6. (Udelades)
 
 Stk. 7. Miljøministeren kan i øvrigt fastsætte overgangsregler.
 
-Lov nr. 424 af 10. maj 2011 om ændring af lov om planlægning (Revision af detailhandelsbestemmelser, lokal fleksibilitet i kystnærhedszonen, i landzonen for kommuner i yderområder og på ikkebrofaste øer m.v.), som ændrer § 5 m, § 5 p, stk. 3, § 5 q, § 5 r, stk. 2, § 11 b, stk. 1, § 11 e, stk. 5, indsætter kapitel 2 e, § 15, stk. 10, § 35 a og bilag 2, indeholder følgende ikrafttrædelsesbestemmelse:
+Lov nr. 424 af 10. maj 2011 om ændring af lov om planlægning (Revision af detailhandelsbestemmelser, lokal fleksibilitet i kystnærhedszonen, i landzonen for kommuner i yderområder og på ikke brofaste øer m.v.), som ændrer § 5 m, § 5 p, stk. 3, § 5 q, § 5 r, stk. 2, § 11 b, stk. 1, § 11 e, stk. 5, indsætter kapitel 2 e, § 15, stk. 10, § 35 a og bilag 2, indeholder følgende ikrafttrædelsesbestemmelse:
 
 § 2
 
@@ -600,7 +600,7 @@ Lov nr. 550 af 18. juni 2012 om frikommuner, der ændrer § 13, stk. 7 og § 34,
 
 § 30
 
-Loven træder i kraft den 1. juli 2012.
+Stk. 1. Loven træder i kraft den 1. juli 2012.
 
 Stk. 2. Forsøg efter denne lov skal være iværksat senest den 31. december 2013.
 
@@ -616,11 +616,11 @@ Lov nr. 580 af 18. juni 2012 om ændring af lov om Natur- og Miljøklagenævnet 
 
 Stk. 1. Loven træder i kraft den 1. august 2012, jf. dog stk. 2.
 
-Stk. 2. (Udeladt)
+Stk. 2. (Udelades)
 
 Stk. 3. Loven finder anvendelse på afgørelser truffet i 1. instans efter lovens ikrafttræden.
 
-Stk. 4. (Udeladt)
+Stk. 4. (Udelades)
 
 Lov nr. 358 af 9. april 2013 om ændring af lov om planlægning (Nye muligheder i landdistrikterne for erhverv og helårsboliger, ændring af regler om planlægning i kystområder og til butiksformål, ophævelse af tilvejebringelses- og tilslutningspligt til fællesantenneanlæg og opsætning af panelantenner og teknikskabe i landzone), som ændrer § 5 m, stk. 4, 5 q, stk. 1-2, § 11 b, stk. 1, nr. 7, § 11 e, stk. 5, § 23 a, stk. 6 og indsætter § 15, stk. 11, § 36, stk. 1, nr. 14-15 samt ophæver § 5 m, stk. 6, § 5 q, stk. 3, kapitel 2 e, § 35 a og bilag 2, indeholder følgende ikrafttrædelsesbestemmelse:
 
@@ -637,3 +637,125 @@ Stk. 4. § 1, nr. 6, finder ikke anvendelse for ansøgninger om tilladelse til p
 Stk. 5. § 1, nr. 6, og § 1, nr. 12, finder ikke anvendelse for ansøgninger om landzonetilladelse modtaget i en kommune før lovens ikrafttræden.
 
 Stk. 6. Regler og beslutninger, der er udstedt i medfør af § 5 m, stk. 4 og 6, § 5 q, stk. 2 og 3, § 5 u og § 5 v i lov om planlægning som ophævet, affattet eller ændret ved denne lovs § 1, nr. 1, 2 og 4-6, forbliver i kraft, indtil de ophæves eller afløses af regler og beslutninger udstedt i medfør af lov om planlægning som ændret ved denne lov.
+
+Lov nr. 1630 af 26. december 2013 om ændring af lov om vandløb, lov om naturbeskyttelse og lov om planlægning, som ændrer i fodnoten til lovens titel, § 3, stk. 3, § 5 a, stk. 3 og 4, § 5 n, stk. 1, nr. 3, § 5 p, stk. 4, § 11 b, stk. 2, § 11 h, stk. 1, 3. pkt., § 11 h, stk. 2, nr. 4, der bliver til nr. 2, § 11 g, stk. 1 og 2, § 51, stk. 2, § 54 b, stk. 2, § 58, stk. 1, nr. 3 og § 64, stk. 2 og indsætter § 11 g, stk. 2, 2. og 4. pkt., § 15 a, stk. 4 samt ophæver § 11 a, nr. 7, § 11 e, stk. 3, § 11 g, stk. 3, § 11 h, stk. 2, nr. 2 og 3, § 16, stk. 5 indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 4
+
+Stk. 1. Loven træder i kraft den 1. januar 2014.
+
+Stk. 2. Loven finder ikke anvendelse ved Natur- og Miljøklagenævnets behandling af klager over afgørelser efter lov om planlægning eller regler udstedt i medfør heraf truffet før lovens ikrafttræden. For sådanne klager finder de hidtil gældende regler anvendelse.
+
+Stk. 3. Loven finder ikke anvendelse for skriftlige anmeldelser af projekter omfattet af §§ 11 g-11 i i lov om planlægning og regler udstedt i medfør heraf indgivet før lovens ikrafttræden. For sådanne anmeldelser finder de hidtil gældende regler anvendelse.
+
+Lov nr. 1631 af 26. december 2013 om ændring af lov om vandforsyning m.v., lov om vurdering og styring af oversvømmelsesrisikoen fra vandløb og søer og forskellige andre love, som ændrer i § 11, stk. 4, nr. 4, der bliver nr. 5, § 11 e, stk. 1, nr. 4 og 5, der bliver nr. 6, § 13, stk. 1, nr. 4 og indsætter § 11, stk. 4, nr. 4, § 11 e, stk. 1, nr. 5 og § 13, stk. 1, nr. 5 indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 17
+
+Stk. 1. Loven træder i kraft dagen efter bekendtgørelsen i Lovtidende, jf. dog stk. 2.
+
+Stk. 2. Miljøministeren fastsætter tidspunktet for ikrafttræden af §§ 2 og 3, § 4, nr. 2, §§ 5-11, § 12, nr. 1, 3, 4 og 6, § 13, § 14, nr. 1 og 2 og 4-8, og §§ 15 og 16. Ministeren kan herunder bestemme, at ændringerne træder i kraft på forskellige tidspunkter.
+
+Stk. 3. De hidtil gældende regler opretholdes og finder anvendelse på vandplaner og handleplaner opretholdt efter § 42, stk. 1, i lov om vandplanlægning.
+
+Lov nr. 86 af 28. januar 2014 om ændring af lov om Natur- og Miljøklagenævnet og forskellige andre love, som ændrer i § 60, stk. 2, 2. pkt., der bliver 4. pkt., og indsætter § 60, stk. 2. 1. pkt., § 60, stk. 5 – 7 samt ophæver § 60, stk. 2, 1. pkt. indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 26
+
+Stk. 1. Loven træder i kraft den 1. februar 2014, jf. dog stk. 2.
+
+Stk. 2. Miljøministeren fastsætter tidspunktet for ikrafttræden af §§ 1-6, § 7, nr. 2 og 3, og §§ 8-25.
+
+Stk. 3. Loven finder ikke anvendelse for klager over afgørelser, der træffes, før loven træder i kraft. For sådanne klager finder de hidtidige regler anvendelse.
+
+Lov nr. 80 af 28. januar 2014 om ændring af lov om erhvervsfremme og forskellige andre love, som ændrer i § 1, stk. 2, nr. 1, § 2, stk. 2, 1. og 2. pkt., § 3, stk. 4 og 5, § 4, stk. 1, § 11 e, stk. 1, nr. 2, § 24, stk. 1, 2 og 3, § 27, stk. 1 og 2, § 28, stk. 1, § 29, stk. 2, § 29 a, stk. 1, § 29 b, stk. 3, § 30, stk. 1, § 57 a, stk. 2, § 58, stk. 1, nr. 3, 4 og 5 og ophæver § 5 k, kapitel 3, § 11, stk. 4, nr. 1, § 22 a, stk. 2, § 22 b, stk. 1, § 22 c, § 25, stk. 2 og § 58, stk. 2 indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 11
+
+Stk. 1. Loven træder i kraft den 1. februar 2014.
+
+Stk. 2. Den regionale vækst- og udviklingsstrategi skal udarbejdes af de nytiltrådte regionsråd første gang i den valgperiode, der indledes i 2014.
+
+Stk. 3. Loven finder ikke anvendelse på ansøgninger indgivet i henhold til lov om erhvervsfremme før lovens ikrafttræden. For sådanne ansøgninger finder de hidtil gældende regler anvendelse.
+
+Stk. 4. De regionale erhvervsudviklingsstrategier, jf. § 10 i lov om erhvervsfremme, forbliver i kraft indtil vedtagelsen af regionale vækst- og udviklingsstrategier, jf. § 8 a, stk. 1, i lov om erhvervsfremme og regional udvikling som affattet ved denne lovs § 1, nr. 10.
+
+Stk. 5. De regionale udviklingsplaner, jf. § 10 a, stk. 1, og § 10 b, stk. 1, i lov om planlægning, forbliver i kraft indtil vedtagelsen af regionale vækst- og udviklingsstrategier, jf. § 8 a, stk. 1, i lov om erhvervsfremme og regional udvikling som affattet ved denne lovs § 1, nr. 10.
+
+Stk. 6. Loven finder ikke anvendelse på ansøgninger indgivet i henhold til naturbeskyttelseslovens § 55 a før lovens ikrafttræden. For sådanne ansøgninger finder de hidtil gældende regler anvendelse.
+
+Stk. 7. Loven finder ikke anvendelse på ansøgninger, der indgives i henhold til naturbeskyttelseslovens § 55 a før regionsrådets vedtagelse af en regional vækst- og udviklingsstrategi i henhold til § 8 a, stk. 1, i lov om erhvervsfremme og regional udvikling som affattet ved denne lovs § 1, nr. 10. For sådanne ansøgninger finder de hidtil gældende regler anvendelse.
+
+Stk. 8. Loven finder ikke anvendelse på ansøgninger indgivet i henhold til miljøbeskyttelseslovens § 18 a før lovens ikrafttræden. For sådanne ansøgninger finder de hidtil gældende regler anvendelse.
+
+Stk. 9. Loven finder ikke anvendelse på ansøgninger, der indgives i henhold til miljøbeskyttelseslovens § 18 a før regionsrådets vedtagelse af en regional vækst- og udviklingsstrategi i henhold til § 8 a, stk. 1, i lov om erhvervsfremme og regional udvikling som affattet ved denne lovs § 1, nr. 10. For sådanne ansøgninger finder de hidtil gældende regler anvendelse.
+
+Stk. 10. Loven finder ikke anvendelse på råstofplaner efter lov om råstoffer indtil regionsrådets vedtagelse af en regional vækst- og udviklingsstrategi i henhold til § 8 a, stk. 1, i lov om erhvervsfremme og regional udvikling som affattet ved denne lovs § 1, nr. 10. For sådanne råstofplaner finder de hidtil gældende regler anvendelse indtil regionsrådets vedtagelse af en regional vækst- og udviklingsstrategi i henhold til § 8 a, stk. 1, i lov om erhvervsfremme og regional udvikling som affattet ved denne lovs § 1, nr. 10.
+
+Stk. 11. Loven finder ikke anvendelse på nationalparkplaner efter lov om nationalparker indtil regionsrådets vedtagelse af en regional vækst- og udviklingsstrategi i henhold til § 8 a, stk. 1, i lov om erhvervsfremme og regional udvikling som affattet ved denne lovs § 1, nr. 10. For sådanne nationalparkplaner finder de hidtil gældende regler anvendelse indtil regionsrådets vedtagelse af en regional vækst- og udviklingsstrategi i henhold til § 8 a, stk. 1, i lov om erhvervsfremme og regional udvikling som affattet ved denne lovs § 1, nr. 10.
+
+Lov nr. 742 af 25. juni 2014 om ændring af lov om miljøbeskyttelse og lov om planlægning, som ændrer i § 5 a, stk. 3, § 11 g, stk. 3, § 11 i og § 58, stk. 1, nr. 3 indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 3
+
+Stk. 1. Loven træder i kraft den 1. juli 2014, jf. dog stk. 2.
+
+Stk. 2. Miljøministeren fastsætter tidspunktet for ikrafttræden af § 2, nr. 1.
+
+Lov nr. 1529 af 27. december 2014 om ændring af lov om planlægning og lov om naturbeskyttelse, som ændrer i § 11 g, § 11 h, § 35, stk. 3, § 56, stk. 1, § 58, stk. 1, nr. 1, og indsætter § 5 samt ophæver § 15, stk. 2, nr. 22 indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 3
+
+Stk. 1. Loven træder i kraft den 1. januar 2015.
+
+Stk. 2. § 1, nr. 5, finder ikke anvendelse på lokalplanforslag, der indeholder krav om lavenergibebyggelse, som er eller har været i offentlig høring på tidspunktet for lovens ikrafttræden. For sådanne lokalplanforslag finder de hidtil gældende regler anvendelse.
+
+Lov nr. 1530 af 27. december 2014 om ændring af lov om planlægning og byggeloven, som indsætter § 40 a indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 3
+
+Loven træder i kraft den 1. januar 2015.
+
+Lov nr. 1520 af 27. december 2014 om offentlige veje m.v., som ændrer i § 47, stk. 3 og § 50, stk. 2 indeholder følgende ikrafttrædelsesbestemmelser:
+
+§ 139
+
+Stk. 1. Loven træder i kraft den 1. juli 2015, jf. dog stk. 2.
+
+Stk. 2. Kapitel 8 og § 90, stk. 4, træder i kraft dagen efter bekendtgørelsen i Lovtidende.
+
+Lov nr. 179 af 24. februar 2015 om ændring af lov om planlægning og lov om naturbeskyttelse, som ændrer i § 5 a, stk. 3, § 11, stk. 2, nr. 2, § 11 b, stk. 2, § 11 e, stk. 1, § 21 b, stk. 1, og indsætter § 11 a, nr. 12 som nyt nummer og § 11 a stk. 2 – 5 indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 5
+
+Stk. 1. Loven træder i kraft den 1. marts 2015, jf. dog stk. 2 og 3.
+
+Stk. 2. § 2, nr. 2-6, træder i kraft den 1. september 2017.
+
+Stk. 3. Miljøministeren fastsætter tidspunktet for ikrafttrædelsen af § 1, nr. 2 og 8.
+
+Stk. 4. Kommunalbestyrelsen skal ved førstkommende revision af kommuneplanen, der sker på baggrund af strategien for kommuneplanlægningen i henhold til § 23 a i lov om planlægning, vedtage retningslinjer for udpegning af eksisterende og potentielle naturområder, som skal indgå i Grønt Danmarkskort, og for prioritering af kommunalbestyrelsens naturindsats inden for de områder, som skal indgå i Grønt Danmarkskort efter § 11 a, stk. 1, nr. 13, i lov om planlægning, jf. denne lovs § 1, nr. 4.
+
+Lov nr. 221 af 3. marts 2015 om ændring af lov om planlægning og lov om almene boliger m.v., som ændrer i § 1, stk. 2, nr. 4 og 5, § 11 a, nr. 2, § 11 b, stk. 1, nr. 1, § 15, stk. 5 og 10, § 15 a, stk. 1, § 26, stk. 2, § 49, stk. 3 og indsætter § 1, stk. 2, nr. 6, § 15, stk. 2, nr. 9 som nyt nummer og § 48, stk. 4 indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 3
+
+Stk. 1. Loven træder i kraft dagen efter bekendtgørelsen i Lovtidende.
+
+Stk. 2. Ministeren for by, bolig og landdistrikter fremsætter forslag om revision af loven i folketingsåret 2024-25.
+
+Lov nr. 537 af 29. april 2015 om ændring af lov om miljøbeskyttelse og lov om planlægning, som indsætter § 11 h, stk. 3 og 4 indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 3
+
+Stk. 1. Loven træder i kraft den 1. maj 2015.
+
+Stk. 2. Regler udstedt i medfør af § 35, stk. 2, 2. pkt., i lov om miljøbeskyttelse forbliver i kraft, indtil de ophæves eller erstattes af regler udstedt i medfør af § 89 b i lov om miljøbeskyttelse som affattet ved denne lovs § 1, nr. 3.
+
+Lov nr. 539 af 29. april 2015 om ændring af lov om planlægning, som ændrer i § 3, stk. 3, § 12, stk. 1, § 13, stk. 2, § 18, § 19, stk. 1, § 35, stk. 1, 1. pkt. og indsætter kapitel 2 e indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 2
+
+Stk. 1. Loven træder i kraft dagen efter bekendtgørelsen i Lovtidende.
+
+Stk. 2. Miljøministeren fremsætter forslag om revision af loven i folketingsåret 2017-18.

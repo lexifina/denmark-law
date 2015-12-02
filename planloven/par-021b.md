@@ -2,7 +2,7 @@
 
 ## Aftaler om udbygning af infrastruktur samt betaling for visse kommuneplantillæg og lokalplaner
 
-§ 21 b. På opfordring fra en grundejer kan kommunalbestyrelsen indgå en udbygningsaftale med grundejeren for områder, der i kommuneplanen er udlagt til byzone eller sommerhusområde, jf. § 11 a, nr. 1, samt for områder i landzone.
+§ 21 b. På opfordring fra en grundejer kan kommunalbestyrelsen indgå en udbygningsaftale med grundejeren for områder, der i kommuneplanen er udlagt til byzone eller sommerhusområde, jf. § 11 a, stk. 1, nr. 1, samt for områder i landzone.
 
 Stk. 2. Udbygningsaftaler kan indgås med henblik på at
 

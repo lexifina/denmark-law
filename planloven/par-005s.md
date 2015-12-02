@@ -1,1 +1,1 @@
-§ 5 s. Miljøministeren afgiver hvert fjerde år en redegørelse til et af Folketinget nedsat udvalg. Redegørelsen belyser og vurderer udviklingen i kommune- og lokalplanlægningen for detailhandelsstrukturen på baggrund af §§ 1 og 5 l-5 r.
+§ 5 s. Erhvervs- og vækstministeren afgiver hvert fjerde år en redegørelse til et af Folketinget nedsat udvalg. Redegørelsen belyser og vurderer udviklingen i kommune- og lokalplanlægningen for detailhandelsstrukturen på baggrund af §§ 1 og 5 l-5 r.
