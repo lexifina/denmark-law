@@ -1,4 +1,4 @@
-§ 46 A. Tilbageføres en ejendom eller en del af en ejendom til landzone efter § 45, tilbagebetales frigørelsesafgiften til ejeren, såfremt den pågældende ejer også var ejer af ejendommen henholdsvis den overførte del på overførselstidspunktet.
+§ 46 a. Tilbageføres en ejendom eller en del af en ejendom til landzone efter § 45, tilbagebetales frigørelsesafgiften til ejeren, såfremt den pågældende ejer også var ejer af ejendommen henholdsvis den overførte del på overførselstidspunktet.
 
 Stk. 2. Er den tilbageførte ejendom eller en del af denne overdraget til en person, der på tidspunktet for overdragelsen tilhørte den personkreds, der var angivet i den dagældende bestemmelse i § 7, stk. 2, i lov om frigørelsesafgift m.v. af fast ejendom, tilbagebetales frigørelsesafgiften til den pågældende, såfremt denne stadig er ejer på tidspunktet for ejendommens tilbageførsel.
 

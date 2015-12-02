@@ -26,4 +26,4 @@ Stk. 3. Strategien skal for kommunalbestyrelsens vedkommende indeholde kommunalb
 
 5) fremme af et samspil mellem beslutningerne vedrørende miljømæssige, trafikale, erhvervsmæssige, sociale, sundhedsmæssige, uddannelsesmæssige, kulturelle og økonomiske forhold.
 
-Stk. 4. Den i stk. 1 nævnte redegørelse skal samtidig med offentliggørelsen sendes til miljøministeren.
+Stk. 4. Den i stk. 1 nævnte redegørelse skal samtidig med offentliggørelsen sendes til erhvervs- og vækstministeren.
