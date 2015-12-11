@@ -10,4 +10,4 @@ Stk. 5. For andre varemodtagere sker angivelsen og betalingen efter reglerne i �
 
 Stk. 6. Told- og skatteforvaltningen kan pålægge en virksomhed, der gentagne gange ikke betaler afgiften rettidigt, at afgive angivelse ved varernes modtagelse. Told- og skatteforvaltningen kan endvidere pålægge virksomheden at betale afgiften ved varernes modtagelse.
 
-Stk. 7. 3) Bestemmelserne i lovens § 15, stk. 2 og 3, finder tilsvarende anvendelse.
+Stk. 7. Bestemmelserne i lovens § 15, stk. 2 og 3, finder tilsvarende anvendelse.
