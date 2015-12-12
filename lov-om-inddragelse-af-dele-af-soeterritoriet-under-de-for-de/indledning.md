@@ -1,3 +1,3 @@
-Lov om Inddragelse af Dele af Søterritoriet under de for de Ferske Vande gældende Retsregler. (* 1)
+Bekendtgørelse af lov om inddragelse af dele af søterritoriet under de for de ferske vande gældende retsregler
 
-Vi Christian den Tiende, af Guds Naade Konge til Danmark og Island, de Venders og Goters, Hertug til Slesvig, Holsten, Stormarn, Ditmarsken, Lauenborg og Oldenborg, Gøre vitterligt: Rigsdagen har vedtaget og Vi ved Vort Samtykke stadfæstet følgende Lov:
+Herved bekendtgøres lov nr. 146 af 7. maj 1937 om inddragelse af dele af søterritoriet under de for de ferske vande gældende retsregler med de ændringer, der følger af § 7 i lov nr. 466 af 7. juni 2001 og § 14 i lov nr. 564 af 24. juni 2005.
