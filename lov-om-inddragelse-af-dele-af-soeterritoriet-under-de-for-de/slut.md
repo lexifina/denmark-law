@@ -1,13 +1,5 @@
-Givet paa Christiansborg, den 7. Maj 1937.
+Naturstyrelsen, den 8. december 2015
 
-Under Vor Kongelige Haand og Segl.
+Oluf Engberg
 
-Christian R.
-
-(L.S.)
-
--------
-
-Kr. Bording.
-
-(* 1) Udfærdiget gennem Ministeriet for Landbrug og Fiskeri. Se Rigsdagstidenden for 1936-37: Landst. Tid. Sp. 19, 27, 1276, 1343; Folket. Tid. Sp. 5177, 5799, 6093; Till. A. Sp. 2465; Till. B. Sp. 731, 2199; Till. C. Sp. 427, 1777.
+/ Anne-Marie Vægter Rasmussen
