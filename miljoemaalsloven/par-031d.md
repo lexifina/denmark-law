@@ -4,4 +4,4 @@ Stk. 2. En indsigelse efter stk. 1 skal være begrundet.
 
 Stk. 3. Såfremt der ikke kan opnås enighed blandt de berørte kommunalbestyrelser, jf. stk. 1, om den nærmere udformning af handleplanen for kommunen, skal regionsrådet efter anmodning indkalde til mægling.
 
-Stk. 4. Såfremt der ikke kan opnås enighed, skal regionsrådet forelægge sagen for miljøministeren, som herefter træffer afgørelse.
+Stk. 4. Såfremt der ikke kan opnås enighed, skal regionsrådet forelægge sagen for miljø- og fødevareministeren, som herefter træffer afgørelse.
