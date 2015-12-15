@@ -6,4 +6,4 @@ Stk. 3. Offentlige myndigheder samt koncessionerede og tilsvarende virksomheder 
 
 Stk. 4. Der skal gives kommunalbestyrelsen lejlighed til at udtale sig, inden en statslig myndighed eller en koncessioneret eller tilsvarende virksomhed træffer beslutning om beliggenheden eller udførelsen af større anlæg eller institutioner inden for kommunen.
 
-Stk. 5. Efter anmodning fra erhvervs- og vækstministeren henholdsvis kommunalbestyrelsen skal myndigheder, private virksomheder samt koncessionerede og tilsvarende virksomheder give de oplysninger og foretage de undersøgelser, der er nødvendige for en vurdering af de miljømæssige konsekvenser, når de påtænker at etablere de i § 11 g omhandlede anlæg.
+Stk. 5. Efter anmodning fra miljø- og fødevareministeren henholdsvis kommunalbestyrelsen skal myndigheder, private virksomheder samt koncessionerede og tilsvarende virksomheder give de oplysninger og foretage de undersøgelser, der er nødvendige for en vurdering af de miljømæssige konsekvenser, når de påtænker at etablere de i § 11 g omhandlede anlæg.
