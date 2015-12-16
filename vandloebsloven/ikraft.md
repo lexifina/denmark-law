@@ -4,7 +4,7 @@ Lov nr. 250 af 23. maj 1984 om ændring af forskellige miljø- og planlægningsl
 
 Stk. 1. Loven træder i kraft den 1. august 1984.
 
-Stk. 2. (Udeladt)
+Stk. 2. (Udelades)
 
 Lov nr. 138 af 7. marts 1990 om ændring af forskellige lovbestemmelser (Konsekvensændringer som følge af lov om udstykning og anden registrering i matriklen), der ændrer § 67, stk. 1 og 3, indeholder følgende ikrafttrædelsesbestemmelse:
 
@@ -12,15 +12,13 @@ Lov nr. 138 af 7. marts 1990 om ændring af forskellige lovbestemmelser (Konsekv
 
 Stk. 1. Loven træder i kraft den 1. april 1991.
 
-Stk. 2. (Udeladt)
+Stk. 2. (Udelades)
 
 Lov nr. 9 af 3. januar 1992 om naturbeskyttelse, der vedrører og ændrer § 7 a og § 69, indeholder følgende ikrafttrædelsesbestemmelse:
 
-§ 93
+§ 93. Loven træder i kraft den 1. juli 1992.
 
-Loven træder i kraft den 1. juli 1992.
-
-Stk. 2-3. (Udeladt)
+Stk. 2-3. (Udelades)
 
 Lov nr. 402 af 14. juni 1995 om ændring af vandløbsloven og vandforsyningsloven, der vedrører § 37 a, indeholder følgende ikrafttrædelsesbestemmelse:
 
@@ -40,7 +38,7 @@ Lov nr. 355 af 2. juni 1999 om ændring af forskellige love som følge af oprett
 
 Stk. 1. Loven træder i kraft den 1. juli 2000.
 
-Stk. 2-4. (Udeladt)
+Stk. 2-4. (Udelades)
 
 Lov nr. 447 af 31. maj 2000 om ændring af visse miljølove (Implementering af Århuskonventionen m.v.), der ændrer § 75, stk. 2, og § 84, stk. 2-5, indeholder følgende ikrafttrædelsesbestemmelse:
 
@@ -50,7 +48,7 @@ Stk. 1. Loven træder i kraft den 15. september 2000, jf. dog stk. 2-4.
 
 Stk. 2. Lovens regler om adgang til at påklage afgørelser gælder for sager, der er afgjort i første instans efter lovens ikrafttræden.
 
-Stk. 3-4. (Udeladt)
+Stk. 3-4. (Udelades)
 
 Lov nr. 466 af 7. juni 2001 om ophævelse af lov om landvæsensretter og om ændring af forskellige love som følge af nedlæggelsen af landvæsensretterne (Overførsel af landvæsensretternes sager til andre myndigheder), der ændrer § 7, stk. 5, § 41, § 57, stk. 1, 1. pkt., § 65, stk. 2, 2. pkt., § 67, stk.2, § 68, stk. 4, § 72, § 73 og § 85, stk. 3, samt ophæver § 71, stk. 2, § 74, stk. 2 og 3, og § 80, stk. 1, 2. pkt., indeholder følgende ikrafttrædelsesbestemmelse:
 
@@ -66,7 +64,7 @@ Lov nr. 145 af 25. marts 2002 om ændring af forskellige love som følge af samm
 
 Stk. 1. Loven træder i kraft den 1. januar 2003,
 
-Stk. 2. (Udeladt)
+Stk. 2. (Udelades)
 
 Lov nr. 391 af 28. maj 2003 om ændring af lov om vandløb m.v., der vedrører og ændrer § 2, stk. 3 og 4, § 7, stk. 1, 2. pkt., § 9, stk. 3, § 12, stk. 2 og 3, § 22, stk. 2, § 24, stk. 3, § 31, stk. 2, 2. og 3. pkt., overskriften til Kapitel 9, § 40, stk. 2, § 63, 2. og 3. pkt., § 73, stk. 1, 1. pkt., overskriften til Kapitel 14, § 80, stk. 1, og § 85, stk. 1, nr. 1, indeholder følgende ikrafttrædelses- og overgangsbestemmelse:
 
@@ -88,17 +86,15 @@ Stk. 5. Sager, der er under behandling ved lovens ikrafttræden, færdigbehandle
 
 Lov nr. 442 af 9. juni 2004 om retssikkerhed ved forvaltningens anvendelse af tvangsindgreb og oplysningspligter, der vedrører og ændrer § 61, stk. 2, og § 72, stk. 1, indeholder følgende ikrafttrædelsesbestemmelse:
 
-§ 24
+§ 24. Loven træder i kraft den 1. januar 2005.
 
-Loven træder i kraft den 1. januar 2005.
-
-Lov nr. 454 af 9. juni 2004 om ændring af lov om naturbeskyttelse, lov om planlægning, lov om vandløb og museumsloven, der vedrører og ændrer § 7 a, indeholder følgende ikrafttrædelsesbestemmelse:
+Lov nr. 454 af 9. juni 2004 om ændring af lov om naturbeskyttelse, lov om planlægning, lov om vandløb og museumsloven (Internationale naturbeskyttelsesområder, offentlighedens adgang til naturen, fredning, beskyttelseslinjer, fortidsminder m.v.), der vedrører og ændrer § 7 a, indeholder følgende ikrafttrædelsesbestemmelse:
 
 § 5
 
 Stk. 1. Loven træder i kraft den 1. oktober 2004.
 
-Stk. 2-5. (Udeladt)
+Stk. 2-5. (Udelades)
 
 Lov nr. 564 af 24. juni 2005 om ændring af lov om beskyttelse af havmiljøet, lov om vandløb, lov om sommerhuse og campering m.v. og forskellige andre love (Udmøntning af kommunalreformen i en række love på natur- og miljøområdet), som ændrer §§ 2, 4, 7, 8, 9, 12, 30, 37, 37a, 38, 39, 40, 42, 43, 44, 53, 57, 58, 61, 65, 69, 70, 78, 79, 80, 84 og 88 samt indsætter ny § 12 a, indeholder følgende overgangs- og ikrafttrædelsesbestemmelse:
 
@@ -108,11 +104,11 @@ Stk. 1. Loven træder i kraft den 1. januar 2007.
 
 Stk. 2. § 2, nr. 22, træder i kraft i det enkelte vanddistrikt ved ikrafttrædelsen af en vandplan efter lov om miljømål m.v. for vandforekomster og internationale naturbeskyttelsesområder (miljømålsloven), der gælder for vanddistriktet.
 
-Stk. 3. (Udeladt)
+Stk. 3. (Udelades)
 
 Stk. 4. Sager efter lov om vandløb, der ved lovens ikrafttræden ikke er færdigbehandlet i amtsrådet, overføres til kommunalbestyrelsen, jf. denne lovs § 2.
 
-Stk. 5-7. (Udeladt)
+Stk. 5-7. (Udelades)
 
 Stk. 8. Klagesager om afgørelser vedrørende regulativer for offentlige vandløb efter lov om vandløb, der ved lovens ikrafttræden ikke er færdigbehandlet af Skov- og Naturstyrelsen, færdigbehandles efter de hidtil gældende regler.
 
@@ -122,7 +118,7 @@ Lov nr. 1571 af 20. december 2006 om ændring af lov om miljøbeskyttelse, lov o
 
 Stk. 1. Loven træder i kraft den 1. januar 2007, jf. dog stk. 2.
 
-Stk. 2. (Udeladt)
+Stk. 2. (Udelades)
 
 Lov nr. 533 af 6. juni 2007 om nationalparker, som ændrer § 84, har følgende ikrafttrædelsesbestemmelse:
 
@@ -136,7 +132,7 @@ Lov nr. 507 af 17. juni 2008 om ændring af lov om miljøbeskyttelse og forskell
 
 Stk. 1. Loven træder i kraft den 1. juli 2008, jf. dog stk. 3.
 
-Stk. 2-4. (Udeladt)
+Stk. 2-4. (Udelades)
 
 Lov nr. 508 af 17. juni 2008 om ændring af lov om naturbeskyttelse, lov om jagt og vildtforvaltning og forskellige andre love (Gennemførelse af direktiver om naturbeskyttelse), som indsætter § 70 a, indeholder følgende ikrafttrædelsesbestemmelse:
 
@@ -150,7 +146,7 @@ Lov nr. 1336 af 19. december 2008 om ændring af kildeskatteloven, opkrævningsl
 
 Stk. 1. Loven træder i kraft den 1. januar 2009, jf. dog stk. 2. § 11 finder alene anvendelse på afgørelser om lønindeholdelse, der træffes efter lovens ikrafttræden.
 
-Stk. 2. (Udeladt)
+Stk. 2. (Udelades)
 
 Lov nr. 514 af 12. juni 2009 om ændring af lov om naturbeskyttelse, lov om jagt og vildtforvaltning og forskellige andre love (Beskyttelse af visse dyrearter m.v.), som ændrer fodnoten til lovens titel, indeholder følgende ikrafttrædelsesbestemmelse:
 
@@ -162,15 +158,7 @@ Lov nr. 1519 af 27. december 2009 om ændring af lov om vandforsyning m.v., lov 
 
 § 5
 
-Stk. 1. Loven træder i kraft den 1. januar 2010.
-
-Lov nr. 293 af 11. april 2011 om ændring af lov om vandløb (Nedklassifikation af vandløb), som ændrer § 10, indeholder følgende ikrafttrædelsesbestemmelse:
-
-§ 2
-
-Stk. 1. Loven træder i kraft dagen efter bekendtgørelsen i Lovtidende.
-
-Stk. 2. (Udeladt)
+Loven træder i kraft den 1. januar 2010.
 
 Lov nr. 484 af 11. maj 2010 om ændring af lov om naturbeskyttelse, lov om miljøbeskyttelse og forskellige andre love (Ændringer som følge af lov om Natur- og Miljøklagenævnet m.v.), som ændret ved § 2 i lov nr. 1608 af 22. december 2010, som ændrer § 70, stk. 2, og § 84, stk. 5, og ophæver § 80 a og ophæver § 83, indeholder følgende ikrafttrædelsesbestemmelse:
 
@@ -178,13 +166,21 @@ Lov nr. 484 af 11. maj 2010 om ændring af lov om naturbeskyttelse, lov om milj�
 
 Stk. 1. Loven træder i kraft den 1. januar 2011, jf. dog stk. 2.
 
-Stk. 2-4. (Udeladt)
+Stk. 2-4. (Udelades)
 
 Stk. 5. Verserende sager i Naturklagenævnet, der ikke er færdigbehandlet ved lovens ikrafttræden, færdigbehandles efter lov om Natur- og Miljøklagenævnet af Natur- og Miljøklagenævnet med den i § 5, stk. 1, nr. 2, i lov om Natur- og Miljøklagenævnet nævnte sammensætning. I sager, hvor Naturklagenævnet har afholdt besigtigelse i en sag om fredning efter naturbeskyttelseslovens kapitel 6, sammensættes Natur- og Miljøklagenævnet med deltagelse af de nævnsmedlemmer, der deltog i besigtigelsen.
 
-Stk. 6. (Udeladt)
+Stk. 6. (Udelades)
 
 Stk. 7. Miljøministeren kan i øvrigt fastsætte overgangsregler.
+
+Lov nr. 293 af 11. april 2011 om ændring af lov om vandløb (Nedklassifikation af vandløb), som ændrer § 10, indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 2
+
+Stk. 1. Loven træder i kraft dagen efter bekendtgørelsen i Lovtidende.
+
+Stk. 2. (Udelades)
 
 Lov nr. 553 af 1. juni 2011 om ændring af lov om naturbeskyttelse, lov om planlægning, lov om vandløb og forskellige andre love (Grøn Vækst), som ændrer fodnoten til lovens titel, § 12, stk. 1, nr. 2, § 27, stk. 1, § 37, § 57, stk. 1, § 70 a, nr. 4, § 78, stk. 2 og 3, og § 85, stk. 1, nr. 1, og indsætter § 12, stk. 2, § 13 a, § 36 a og § 70 c, indeholder følgende ikrafttrædelsesbestemmelse:
 
@@ -192,7 +188,7 @@ Lov nr. 553 af 1. juni 2011 om ændring af lov om naturbeskyttelse, lov om planl
 
 Stk. 1. Loven træder i kraft den 15. juli 2011.
 
-Stk. 2. (Udeladt)
+Stk. 2. (Udelades)
 
 Lov nr. 1273 af 21. december 2011 Lov om ændring af lov om miljøbeskyttelse, lov om planlægning og forskellige andre love (Digital annoncering, obligatorisk digital kommunikation, afskæring af klageadgang), som ændrer § 14, § 26, § 52, § 60 i, stk. 2, og § 75, stk. 2, indeholder følgende ikrafttrædelsesbestemmelse:
 
@@ -208,9 +204,9 @@ Stk. 1. Loven træder i kraft den 1. august 2012, jf. dog stk. 2.
 
 Stk. 2. § 17, nr. 1 og 2 træder i kraft dagen efter bekendtgørelsen i Lovtidende.
 
-Stk. 3-4. (Udeladt)
+Stk. 3-4. (Udelades)
 
-Lov nr. 61 af 29. januar 2013 om betalingsregler for spildevandsforsyningsselskaber m.v. og lov om vandløb, som indsætter et stk. 4 i § 24, og indsætter et stk. 3 i § 31, og indsætter et stk. 4 i § 35, indeholder følgende ikrafttrædelsesbestemmelse:
+Lov nr. 61 af 29. januar 2013 om betalingsregler for spildevandsforsyningsselskaber m.v. og lov om vandløb (Spildevandsforsyningsselskabers opkrævning af bidrag til selskabernes medfinansiering af kommunale og private projekter vedrørende tag- og overfladevand), som indsætter et stk. 4 i § 24, og indsætter et stk. 3 i § 31, og indsætter et stk. 4 i § 35, indeholder følgende ikrafttrædelsesbestemmelse:
 
 § 3
 
@@ -223,3 +219,35 @@ Lov nr. 492 af 21. maj 2013 om ændring af lov om vandforsyning m.v., lov om van
 Stk. 1. Loven træder i kraft den 1. juni 2013.
 
 Stk. 2. Vandløbsmyndigheden kan bestemme, at § 42 a i lov om vandløb som affattet ved denne lovs § 2, nr. 2, skal finde anvendelse på udgifter, som vandløbsmyndigheden har afholdt før lovens ikrafttræden, hvis udgifterne vedrører forhold, begivenheder m.v., der finder sted efter lovens ikrafttræden.
+
+Lov nr. 1461 af 17. december 2013 om ophævelse af Lov om Udnyttelse af Vandkraften i Gudenaa og om ændring af lov om vandløb, der ændrer i § 12, stk. 1, nr. 2, § 27, stk. 1, og § 80, stk. 1, 1. pkt., og indsætter § 12, stk. 3, § 37 a og § 82, stk. 4, 2. pkt., indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 3
+
+Loven træder i kraft den 8. januar 2014.
+
+Lov nr. 1630 af 26. december 2013 om ændring af lov om vandløb, lov om naturbeskyttelse og lov om planlægning (Klassifikation af private og offentlige vandløb, ophævelse af krav om dispensation i en række tilfælde til opførelse af bebyggelse inden for skovbyggelinjen og forenkling af VVM-processen m.v.), der nyaffatter lovens §§ 10-11 og ændrer § 12, stk. 4, indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 4
+
+Stk. 1. Loven træder i kraft den 1. januar 2014.
+
+Stk. 2. (Udelades)
+
+Stk. 3. (Udelades)
+
+Lov nr. 86 af 28. januar 2014 om ændring af lov om Natur- og Miljøklagenævnet og forskellige andre love (Obligatorisk digital selvbetjening ved indgivelse af klage mv.), der ændrer lovens § 82, stk. 1, og § 82, stk. 7 og 8, og indsætter § 82, stk. 4 og 5, indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 26
+
+Stk. 1. (Udelades)
+
+Stk. 2. Miljøministeren fastsætter tidspunktet for ikrafttræden af §§ 1-6, § 7, nr. 2 og 3, og §§ 8-25.
+
+Stk. 3. Loven finder ikke anvendelse for klager over afgørelser, der træffes, før loven træder i kraft. For sådanne klager finder de hidtidige regler anvendelse.
+
+Lov nr. 1520 af 27. december 2014 om offentlige veje m.v., der ændrer lovens § 22, stk. 2, § 24, stk. 3, § 31, stk. 2, § 35, stk. 3, § 41, § 63, § 65, stk. 2, § 67, stk. 2, § 68, stk. 4, § 71, § 72, stk. 1 og 2, og § 73, stk. 1, indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 139. Loven træder i kraft den 1. juli 2015, jf. dog stk. 2.
+
+Stk. 2. (Udelades)

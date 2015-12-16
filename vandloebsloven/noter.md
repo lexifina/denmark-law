@@ -2,10 +2,12 @@
 
 2) Loven trådte i kraft den 1. november 1983, jf. bekendtgørelse nr. 420 af 7. september 1983.
 
-3) Lov nr. 293 af 11. april 2011 trådte i kraft den 13. april 2011.
+3) Lov nr. 1608 af 22. december 2010 trådte i kraft den 1. januar 2011, jf. lovens § 3, stk.1.
 
-4) Lov nr. 1608 af 22. december 2010 trådte i kraft den 1. januar 2011, jf. lovens § 3, stk. 1.
+4) Lov nr. 293 af 11. april 2011 trådte i kraft den 13. april 2011.
 
 5) Lov nr. 580 af 18. juni 2012 trådte i kraft den 20. juni 2012.
 
 6) Lov nr. 61 af 29. januar 2013 trådte i kraft den 31. januar 2013.
+
+7) Bestemmelsen i § 16, i lov nr. 86 af 28. november 2014 trådte i kraft den 28. januar 2015, jf. bekendtgørelse nr. 57 af 23. januar 2015.
