@@ -1,3 +1,5 @@
 Bekendtgørelse af lov om vandforsyning m.v.
 
-Herved bekendtgøres lov om vandforsyning m.v., jf. lovbekendtgørelse nr. 635 af 7. juni 2010, med de ændringer, der følger af § 13 i lov nr. 484 af 11. maj 2010, § 46 i lov nr. 718 af 25. juni 2010, § 2 i lov nr. 1555 af 21. december 2010, § 7 i lov nr. 553 af 1. juni 2011, § 10 i lov nr. 1273 af 21. december 2011, § 4 i lov nr. 1384 af 28. december 2011, § 12 i lov nr. 580 af 18. juni 2012 og § 1 i lov nr. 492 af 21. maj 2013.
+Herved bekendtgøres lov om vandforsyning m.v., jf. lovbekendtgørelse nr. 1199 af 30. september 2013, med de ændringer, der følger af § 1 i lov nr. 1631 af 26. december 2013, § 11 i lov nr. 86 af 28. januar 2014, § 144 i lov nr. 1520 af 27. december 2014 og § 1 i lov nr. 538 af 29. april 2015.
+
+Den bekendtgjorte lovtekst vedrørende § 2, stk. 2, nr. 4, § 11, stk. 2 og 3, § 11 b, stk. 2, § 32, stk. 1, 1. og 4. pkt., § 32, stk. 2, 1. og 2. pkt., § 33, stk. 2, 2. pkt., § 38, 1. pkt., og § 81 træder i kraft den 1. januar 2016, jf. § 3 i lov nr. 538 af 29. april 2015 om ændring af lov om vandforsyning m.v. og lov om afgift af ledningsført vand (Grundvandskortlægning efter 2015 og nedsættelse og forlængelse af bidrag til drikkevandsbeskyttelse m.v.).

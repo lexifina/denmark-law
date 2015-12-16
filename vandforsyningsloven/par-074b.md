@@ -1,1 +1,1 @@
-§ 74 b. Miljøministeren kan på eget initiativ tage en afgørelse, der er truffet af kommunalbestyrelsen, op til nærmere undersøgelse og afgørelse.
+§ 74 b. Miljø- og fødevareministeren eller energi-, forsynings- og klimaministeren kan på eget initiativ tage en afgørelse, der er truffet af kommunalbestyrelsen, op til nærmere undersøgelse og afgørelse.

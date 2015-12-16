@@ -6,7 +6,7 @@ Stk. 3. En indsigelse efter stk. 2 skal være begrundet.
 
 Stk. 4. Såfremt der ikke kan opnås enighed blandt de berørte kommunalbestyrelser om den nærmere udformning af indsatsplanen for kommunen, skal regionsrådet efter anmodning indkalde til mægling.
 
-Stk. 5. Såfremt der ikke kan opnås enighed, skal regionsrådet forelægge sagen for miljøministeren, som herefter træffer afgørelse.
+Stk. 5. Såfremt der ikke kan opnås enighed, skal regionsrådet forelægge sagen for miljø- og fødevareministeren, som herefter træffer afgørelse.
 
 Stk. 6. En indsatsplan udarbejdet af ejeren af et alment vandforsyningsanlæg efter § 13 a kan ikke vedtages endeligt før 12 uger efter, at kommunalbestyrelsen har modtaget det færdige udkast til planen. Kommunalbestyrelsen påser, at bestemmelserne i stk. 1, § 13 a, stk. 2, og yderligere retningslinjer udstedt af ministeren efter § 15 eller § 16, stk. 1, er overholdt, samt at hensynet til beskyttelsen af vandressourcerne i øvrigt er tilgodeset. Hvis kommunalbestyrelsen inden udløbet af den i 1. pkt. nævnte frist gør indsigelse mod udkastet, kan indsatsplanen ikke vedtages endeligt, før der er opnået enighed. Kan enighed ikke opnås mellem en kommunalbestyrelse og en ejer af et alment vandforsyningsanlæg, bortfalder indsatsplanen.
 
