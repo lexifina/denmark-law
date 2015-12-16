@@ -1,8 +1,8 @@
-Naturstyrelsen, den 3. juli 2013
+Naturstyrelsen, den 8. december 2015
 
-Helle Pilsgaard
+Oluf Engberg
 
-/ Oluf Engberg
+/ Anne-Marie Vægter Rasmussen
 
 Bilag 1
 
@@ -15,6 +15,8 @@ Fortidsminder, der ikke har beskyttelseslinje i henhold til § 18, uanset om de 
 Bilag 2
 
 Bilag om anmeldelsespligtige aktiviteter
+
+## Overskrift til formateret tekst
 
 Aktiviteter, der er omfattet af § 19 b:
 
