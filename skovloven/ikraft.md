@@ -6,7 +6,7 @@ Stk. 1. Loven træder i kraft dagen efter bekendtgørelsen i Lovtidende.
 
 Stk. 2. Loven har virkning fra den 1. november 2005, jf. dog stk. 3.
 
-Stk. 3. (Udeladt)
+Stk. 3. (Udelades)
 
 Lov nr. 431 af 6. juni 2005 om ændring af forskellige love (Forenkling, harmonisering og objektivering af reglerne for inddrivelse af gæld til det offentlige m.v. samt mulighed for anvendelse af digitale lønsedler), som ændrer §§ 40, 54 og 58, indeholder følgende ikrafttrædelsesbestemmelse:
 
@@ -14,15 +14,15 @@ Lov nr. 431 af 6. juni 2005 om ændring af forskellige love (Forenkling, harmoni
 
 Stk. 1. Loven træder i kraft den 1. november 2005, jf. dog stk. 2.
 
-Stk. 2. (Udeladt)
+Stk. 2. (Udelades)
 
 Lov nr. 564 af 24. juni 2005 om ændring af lov om beskyttelse af havmiljøet, lov om vandløb, lov om sommerhuse og campering m.v. og forskellige andre love (Udmøntning af kommunalreformen i en række love på natur- og miljøområdet), som ændrer § 14 og § 28, indeholder følgende ikrafttrædelsesbestemmelse:
 
 § 16
 
-Stk. 1. Loven træder i kraft den 1. januar 2007.
+Stk. Loven træder i kraft den 1. januar 2007.
 
-Stk. 2-8. (Udeladt)
+Stk. 2-8. (Udelades)
 
 Lov nr. 1571 af 20. december 2006 om ændring af lov om miljøbeskyttelse, lov om beskyttelse af havmiljøet og forskellige andre love (Ophævelse af adgang til at overføre myndighedskompetence til kommunale fællesskaber og ændring af delegationsbestemmelser m.v. i en række love på natur- og miljøområdet), som ændrer § 43 og § 61, indeholder følgende ikrafttrædelsesbestemmelse:
 
@@ -30,9 +30,9 @@ Lov nr. 1571 af 20. december 2006 om ændring af lov om miljøbeskyttelse, lov o
 
 Stk. 1. Loven træder i kraft den 1. januar 2007, jf. dog stk. 2.
 
-Stk. 2. (Udeladt)
+Stk. 2. (Udelades)
 
-Lov nr. 523 af 6. juni 2007 om ændring af forskellige lovbestemmelser om forældelse af fordringer m.v., som indsætter § 58 a, indeholder følgende ikrafttrædelsesbestemmelse:
+Lov nr. 523 af 6. juni 2007 om ændring af forskellige lovbestemmelser om forældelse af fordringer m.v. (Ændringer som følge af en ny lov om forældelse af fordringer, ophævelse af købelovens reklamationsfrister ved visse køb m.v.), som indsætter § 58 a, indeholder følgende ikrafttrædelsesbestemmelse:
 
 § 47
 
@@ -46,9 +46,9 @@ Lov nr. 507 af 17. juni 2008 om ændring af lov om miljøbeskyttelse og forskell
 
 § 15
 
-Stk. 1. Loven træder i kraft den 1. juli 2008, jf. dog stk. 3.
+Stk. Loven træder i kraft den 1. juli 2008, jf. dog stk. 3.
 
-Stk. 2-4. (Udeladt)
+Stk. 2-4. (Udelades)
 
 Lov nr. 508 af 17. juni 2008 om ændring af lov om naturbeskyttelse, lov om jagt og vildtforvaltning og forskellige andre love (Gennemførelse af direktiver om naturbeskyttelse), som indsætter § 46, stk. 4, indeholder følgende ikrafttrædelsesbestemmelse:
 
@@ -62,7 +62,7 @@ Lov nr. 1336 af 19. december 2008 om ændring af kildeskatteloven, opkrævningsl
 
 Stk. 1. Loven træder i kraft den 1. januar 2009, jf. dog stk. 2. § 11 finder alene anvendelse på afgørelser om lønindeholdelse, der træffes efter lovens ikrafttræden.
 
-Stk. 2. (Udeladt)
+Stk. 2. (Udelades)
 
 Lov nr. 514 af 12. juni 2009 om ændring af lov om naturbeskyttelse, lov om jagt og vildtforvaltning og forskellige andre love (Beskyttelse af visse dyrearter m.v.), som ændrer fodnote 1 til lovens titel, indeholder følgende ikrafttrædelsesbestemmelse:
 
@@ -76,36 +76,46 @@ Lov nr. 484 af 11. maj 2010 om ændring af lov om naturbeskyttelse, lov om milj�
 
 Stk. 1. Loven træder i kraft den 1. januar 2011, jf. dog stk. 2.
 
-Stk. 2-4. (Udeladt)
+Stk. 2-4. (Udelades)
 
 Stk. 5. Verserende sager i Naturklagenævnet, der ikke er færdigbehandlet ved lovens ikrafttræden, færdigbehandles efter lov om Natur- og Miljøklagenævnet af Natur- og Miljøklagenævnet med den i § 5, stk. 1, nr. 2, i lov om Natur- og Miljøklagenævnet nævnte sammensætning. I sager, hvor Naturklagenævnet har afholdt besigtigelse i en sag om fredning efter naturbeskyttelseslovens kapitel 6, sammensættes Natur- og Miljøklagenævnet med deltagelse af de nævnsmedlemmer, der deltog i besigtigelsen.
 
-Stk. 6. (Udeladt)
+Stk. 6. (Udelades)
 
 Stk. 7. Miljøministeren kan i øvrigt fastsætte overgangsregler.
 
-Lov nr. 341 af 27. april 2011 om ændring af årsregnskabsloven og forskellige andre love (Obligatorisk digital kommunikation mellem virksomheder og det offentlige, skattefritagelse af Fornyelsesfondens garantiordning m.v.) der indsætter § 29 a indeholder følgende ikrafttrædelsesbestemmelse;
+Lov nr. 341 af 27. april 2011 om ændring af årsregnskabsloven og forskellige andre love (Obligatorisk digital kommunikation mellem virksomheder og det offentlige, skattefritagelse af Fornyelsesfondens garantiordning m.v.) der indsætter § 29 a indeholder følgende ikrafttrædelsesbestemmelse:
 
 § 18
 
 Stk. 1. Loven træder i kraft den 1. maj 2011, jf. dog stk. 2.
 
-Stk. 2. (Udeladt)
+Stk. 2. (Udelades)
 
-Lov nr. 1273 af 21. december 2012 om ændring af lov om miljøbeskyttelse, lov om planlægning og forskellige andre love (Digital annoncering, obligatorisk digital kommunikation, afskæring af klageadgang), der ændrer § 16 og § 59 f, indeholder følgende ikrafttrædelsesbestemmelse:
+Lov nr. 1273 af 21. december 2011 om ændring af lov om miljøbeskyttelse, lov om planlægning og forskellige andre love (Digital annoncering, obligatorisk digital kommunikation, afskæring af klageadgang), der ændrer § 16 og § 59 f, indeholder følgende ikrafttrædelsesbestemmelse:
 
 § 20
 
 Loven træder i kraft den 1. januar 2012.
 
-Lov nr. 580 af 18. juni 2012 om ændring af lov om Natur- og Miljøklagenævnet og forskellige andre love (Reform af klagesystemet på natur- og miljøområdet m.v.), der ændrer § 63, indeholder følgende ikrafttrædelsesbestemmelser:
+Lov nr. 580 af 18. juni 2012 om ændring af lov om Natur- og Miljøklagenævnet og forskellige andre love (Reform af klagesystemet på natur- og miljøområdet m.v.), der ændrer § 63, indeholder følgende ikrafttrædelsesbestemmelse:
 
 § 28
 
 Stk. 1. Loven træder i kraft den 1. august 2012, jf. dog stk. 2.
 
-Stk. 2. (Udeladt)
+Stk. 2. (Udelades)
 
 Stk. 3. Loven finder anvendelse på afgørelser truffet i 1. instans efter lovens ikrafttræden.
 
-Stk. 4. (Udeladt)
+Stk. 4. (Udelades)
+
+Lov nr. 86 af 28. januar 2014 om ændring af lov om Natur- og Miljøklagenævnet og forskellige andre love (Obligatorisk digital selvbetjening ved indgivelse af klage m.v.), der ændrer § 63, indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 26
+
+Stk. 1. (Udelades)
+
+Stk. 2. Miljøministeren fastsætter tidspunktet for ikrafttræden af §§ 1-6, § 7, nr. 2 og 3, og §§ 8-25.
+
+Stk. 3. Loven finder ikke anvendelse for klager over afgørelser, der træffes, før loven træder i kraft. For sådanne klager finder de hidtidige regler anvendelse.
