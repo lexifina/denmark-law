@@ -1,3 +1,5 @@
 Bekendtgørelse af lov om vurdering og styring af oversvømmelsesrisikoen fra vandløb og søer
 
-Hermed bekendtgøres lov nr. 1505 af 27. december 2009 om vurdering og styring af oversvømmelsesrisikoen fra vandløb og søer med de ændringer, der følger af § 23 i lov nr. 484 af 11. maj 2010, § 12 lov nr. 1273 af 21. december 2011, § 14 i lov nr. 580 af 18. juni 2012 og § 3 i lov nr. 1149 af 11. december 2012.
+Herved bekendtgøres lov om vurdering og styring af oversvømmelsesrisikoen fra vandløb og søer, jf. lovbekendtgørelse nr. 950 af 3. juli 2013, med de ændringer, der følger af § 13 i lov nr. 86 af 28. januar 2014.
+
+De ændringer, der følger af § 2 i lov nr. 1631 af 26. december 2013 om ændring af lov om vandforsyning m.v., lov om vurdering og styring af oversvømmelsesrisikoen fra vandløb og søer og forskellige andre love (Konsekvensændringer som følge af lov om vandplanlægning), er ikke indarbejdet i denne lovbekendtgørelse, da tidspunktet for ikrafttræden af denne ændring fastsættes af miljø- og fødevareministeren, jf. § 17, stk. 2, i lov nr. 1631 af 26. december 2013.
