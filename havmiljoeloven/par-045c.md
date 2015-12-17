@@ -1,1 +1,1 @@
-§ 45 c. Miljøministeren kan fastsætte regler om tilsynsmyndighedens udøvelse af tilsynsvirksomhed.
+§ 45 c. Miljø- og fødevareministeren kan fastsætte regler om tilsynsmyndighedens udøvelse af tilsynsvirksomhed og om offentliggørelse af oplysninger om udøvelse af tilsynsvirksomheden, herunder om myndighedens organisering og opgaver.

@@ -1,4 +1,4 @@
-§ 57 a. Miljøministeren fastsætter med henblik på opfyldelse af De Europæiske Fællesskabers direktiver og beslutninger på naturbeskyttelsesområdet regler om, i hvilke tilfælde og på hvilke vilkår
+§ 57 a. Miljø- og fødevareministeren fastsætter med henblik på opfyldelse af De Europæiske Fællesskabers direktiver og beslutninger på naturbeskyttelsesområdet regler om, i hvilke tilfælde og på hvilke vilkår
 
 1) meddelelse om ikke-VVM-pligt kan gives efter § 24 a, stk. 1, nr. 1,
 
