@@ -1,8 +1,8 @@
-Naturstyrelsen, den 3. juli 2013
+Naturstyrelsen, den 10. december 2015
 
-Helle Pilsgaard
+Oluf Engberg
 
-/ Oluf Engberg
+/ Anne-Marie Vægter Rasmussen
 
 Bilag 1
 
@@ -100,4 +100,4 @@ Følgende stoffer og materialer må kun forefindes i klapmateriale i uvæsentlig
 
 20. Materialer i enhver tilstandsform (fast, flydende, gasformig eller levende tilstand) fremstillet til biologisk og kemisk krigsførelse.
 
-21. De af miljøministeren nærmere specificerede stoffer, som efter klapning i havet antages at kunne være kræftfremkaldende.
+21. De af miljø- og fødevareministeren nærmere specificerede stoffer, som efter klapning i havet antages at kunne være kræftfremkaldende.
