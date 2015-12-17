@@ -14,15 +14,15 @@ Lov nr. 431 af 6. juni 2005 om ændring af forskellige love (Forenkling, harmoni
 
 Stk. 1. Loven træder i kraft den 1. november 2005, jf. dog stk. 2.
 
-Stk. 2. (Udeladt)
+Stk. 2. (Udelades)
 
 Lov nr. 564 af 24. juni 2005 om ændring af lov om beskyttelse af havmiljøet, lov om vandløb, lov om sommerhuse og campering m.v. og forskellige andre love (Udmøntning af kommunalreformen i en række love på natur- og miljøområdet), som ændrer § 54, indeholder følgende ikrafttrædelsesbestemmelse:
 
 § 16
 
-Stk. 1. Loven træder i kraft den 1. januar 2007.
+Stk. Loven træder i kraft den 1. januar 2007.
 
-Stk. 2-8. (Udeladt)
+Stk. 2-8. (Udelades)
 
 Lov nr. 1571 af 20. december 2006 om ændring af lov om miljøbeskyttelse, lov om beskyttelse af havmiljøet og forskellige andre love (Ophævelse af adgang til at overføre myndighedskompetence til kommunale fællesskaber og ændring af delegationsbestemmelser m.v. i en række love på natur- og miljøområdet), som ændrer § 49, indeholder følgende ikrafttrædelsesbestemmelse:
 
@@ -30,15 +30,15 @@ Lov nr. 1571 af 20. december 2006 om ændring af lov om miljøbeskyttelse, lov o
 
 Stk. 1. Loven træder i kraft den 1. januar 2007, jf. dog stk. 2.
 
-Stk. 2. (Udeladt)
+Stk. 2. (Udelades)
 
-Lov nr. 507 af 17. juni 2008 om ændring af lov om miljøbeskyttelse og forskellige andre love (Implementering af miljøansvarsdirektivet), som ændrer §§ 48 og 54 og indsætter nyt kapitel 8 a (§§ 53 a- 53 k), indeholder følgende ikrafttrædelsesbestemmelse:
+Lov nr. 507 af 17. juni 2008 om ændring af lov om miljøbeskyttelse og forskellige andre love (Implementering af miljøansvarsdirektivet), som ændrer §§ 48 og 54 og indsætter nyt kapitel 8 a (§§ 53 a-53 k), indeholder følgende ikrafttrædelsesbestemmelse:
 
 § 15
 
-Stk. 1. Loven træder i kraft den 1. juli 2008, jf. dog stk. 3.
+Stk. Loven træder i kraft den 1. juli 2008, jf. dog stk. 3.
 
-Stk. 2-4. (Udeladt)
+Stk. 2-4. (Udelades)
 
 Lov nr. 508 af 17. juni 2008 om ændring af lov om naturbeskyttelse, lov om jagt og vildtforvaltning og forskellige andre love (Gennemførelse af direktiver om naturbeskyttelse), som ændrer §§ 3, 33, 37, 46, 52 og 54 og indsætter ny § 9 a og bilag 1 og 2, indeholder følgende ikrafttrædelsesbestemmelse:
 
@@ -52,7 +52,7 @@ Lov nr. 1336 af 19. december 2008 om ændring af kildeskatteloven, opkrævningsl
 
 Stk. 1. Loven træder i kraft den 1. januar 2009, jf. dog stk. 2. § 11 finder alene anvendelse på afgørelser om lønindeholdelse, der træffes efter lovens ikrafttræden.
 
-Stk. 2. (Udeladt)
+Stk. 2. (Udelades)
 
 Lov nr. 514 af 12. juni 2009 om ændring af lov om naturbeskyttelse, lov om jagt og vildtforvaltning og forskellige andre love (Beskyttelse af visse dyrearter m.v.), som ophæver fodnote 1 og 2 til lovens titel, indsætter fodnote 1 til lovens titel, § 6, stk. 3-5, § 6 a, § 9 a, stk. 4, § 15, stk. 3, § 52, stk. 4, nr. 2, og § 52 a, og ændrer § 6, stk. 3 og 4, § 7, § 46, stk. 2, § 52, stk. 4, nr. 1, § 52, stk. 4, nr. 2 og 3, og § 54, stk. 1, nr. 1, indeholder følgende ikrafttrædelsesbestemmelse:
 
@@ -72,15 +72,15 @@ Lov nr. 484 af 11. maj 2010 om ændring af lov om naturbeskyttelse, lov om milj�
 
 Stk. 1. Loven træder i kraft den 1. januar 2011, jf. dog stk. 2.
 
-Stk. 2-4. (Udeladt)
+Stk. 2-4. (Udelades)
 
 Stk. 5. Verserende sager i Naturklagenævnet, der ikke er færdigbehandlet ved lovens ikrafttræden, færdigbehandles efter lov om Natur- og Miljøklagenævnet af Natur- og Miljøklagenævnet med den i § 5, stk. 1, nr. 2, i lov om Natur- og Miljøklagenævnet nævnte sammensætning. I sager, hvor Naturklagenævnet har afholdt besigtigelse i en sag om fredning efter naturbeskyttelseslovens kapitel 6, sammensættes Natur- og Miljøklagenævnet med deltagelse af de nævnsmedlemmer, der deltog i besigtigelsen.
 
-Stk. 6. (Udeladt)
+Stk. 6. (Udelades)
 
 Stk. 7. Miljøministeren kan i øvrigt fastsætte overgangsregler.
 
-Lov nr. 1273 af 21. december 2012 om ændring af lov om miljøbeskyttelse, lov om planlægning og forskellige andre love (Digital annoncering, obligatorisk digital kommunikation, afskæring af klageadgang), der ændrer § 10, stk. 2, § 33, stk. 1 og stk. 3, § 43, stk. 2, indsætter § 52 c, og ændrer § 53 f, stk. 2 indeholder følgende ikrafttrædelsesbestemmelse:
+Lov nr. 1273 af 21. december 2011 om ændring af lov om miljøbeskyttelse, lov om planlægning og forskellige andre love (Digital annoncering, obligatorisk digital kommunikation, afskæring af klageadgang), der ændrer § 10, stk. 2, § 33, stk. 1 og stk. 3, § 43, stk. 2, indsætter § 52 c, og ændrer § 53 f, stk. 2, indeholder følgende ikrafttrædelsesbestemmelse:
 
 § 20
 
@@ -92,8 +92,32 @@ Lov nr. 580 af 18. juni 2012 om ændring af lov om Natur- og Miljøklagenævnet 
 
 Stk. 1. Loven træder i kraft den 1. august 2012, jf. dog stk. 2.
 
-Stk. 2. (Udeladt)
+Stk. 2. (Udelades)
 
 Stk. 3. Loven finder anvendelse på afgørelser truffet i 1. instans efter lovens ikrafttræden.
 
-Stk. 4. (Udeladt)
+Stk. 4. (Udelades)
+
+Lov nr. 86 af 28. januar 2014 om ændring af lov om Natur- og Miljøklagenævnet og forskellige andre love (Obligatorisk digital selvbetjening ved indgivelse af klage samt obligatorisk videresendelse af klage over lokalplan til Natur- og Miljøklagenævnet), der ændrer § 53 j, stk. 2, 1.pkt., indsætter ny § 53 j, stk. 4 og 5, indeholder følgende ikrafttrædelses- og overgangsbestemmelse:
+
+§ 26
+
+Stk. 1. (Udelades)
+
+Stk. 2. Miljøministeren fastsætter tidspunktet for ikrafttræden af §§ 1-6, § 7, nr. 2 og 3, og §§ 8-25.
+
+Stk. 3. Loven finder ikke anvendelse for klager over afgørelser, der træffes, før loven træder i kraft. For sådanne klager finder de hidtidige regler anvendelse.
+
+Lov nr. 736 af 25. juni 2014 om ændring af lov om tv-overvågning, lov om sikkerhed ved bestemte idrætsbegivenheder, lov om restaurationsvirksomhed og alkoholbevilling m.v. og forskellige andre love (Samling af visse af politiets opgaver i opgavefællesskaber og bortsals af hittegods ved offentligt tilgængelig internetauktion m.v.), der indsætter ny § 49, stk. 6, indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 13
+
+Stk. 1. (Udelades)
+
+Stk. 2. §§ 1-4, § 5, nr. 1, og §§ 6-11 træder i kraft den 1. juli 2014.
+
+Lov nr. 1373 af 16. december 2014 om ændring af lov om jagt og vildtforvaltning (Styrkelse af vildtudbytteindberetning m.v.), der ændrer § 41, stk. 2, § 43, stk. 2, § 54, stk. 1, nr. 1 og § 55, stk. 2, 2. pkt., indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 2
+
+Loven træder i kraft den 1. januar 2015.
