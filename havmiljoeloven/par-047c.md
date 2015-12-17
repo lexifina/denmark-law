@@ -16,6 +16,8 @@ Stk. 3. Pligten efter stk. 1 gælder endvidere, hvis en hvilken som helst anden 
 
 Stk. 4. Pligten efter stk. 1 gælder også, hvis andre erhvervsmæssige aktiviteter end dem, der er omfattet af stk. 1 og 3, forårsager en miljøskade eller en overhængende fare for en miljøskade på beskyttede arter og internationale naturbeskyttelsesområder som fastlagt i §§ 7, 10 og 11 i miljøskadeloven og miljøskaden eller den overhængende fare for en miljøskade skyldes uforsvarlig adfærd udvist af den pågældende.
 
-Stk. 5. Pligterne efter stk. 1, 3 og 4 gælder, selv om der endnu ikke er truffet afgørelse efter § 47 h.
+Stk. 5. Ud over pligten i stk. 1 skal den ansvarlige for driften af en platform og en rørledning ved olie- og kemikalieforurening af havet straks iværksætte den interne beredskabsplan, som er påbudt eller reguleret af regler udstedt i medfør af § 34 a, stk. 3.
 
-Stk. 6. Tilsynsmyndigheden påser, at pligterne efter stk. 1, 3 og 4 opfyldes, selv om der endnu ikke er truffet afgørelse efter § 47 h.
+Stk. 6. Pligterne efter stk. 1, 3, 4 og 5 gælder, selv om der endnu ikke er truffet afgørelse efter § 47 h.
+
+Stk. 7. Tilsynsmyndigheden påser, at pligterne efter stk. 1, 3, 4 og 5 opfyldes, selv om der endnu ikke er truffet afgørelse efter § 47 h.
