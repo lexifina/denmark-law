@@ -1,12 +1,12 @@
-Naturstyrelsen, den 3. juli 2013
+Naturstyrelsen, den 10. december 2015
 
-Helle Pilsgaard
+Oluf Engberg
 
-/ Oluf Engberg
+/ Anne-Marie Vægter Rasmussen
 
 Bilag 1
 
-## Kort over faren for oversvømmelse skal vise de geografiske områder, der vil kunne blive oversvømmet, efter følgende scenarier:
+Kort over faren for oversvømmelse skal vise de geografiske områder, der vil kunne blive oversvømmet, efter følgende scenarier:
 
 a) Ringe sandsynlighed for oversvømmelse eller ekstreme hændelser.
 
@@ -36,7 +36,7 @@ d) Andre nyttige oplysninger, såsom angivelse af områder, hvor der kan forekom
 
 Bilag 2
 
-## Udarbejdelse af risikostyringsplaner:
+Udarbejdelse af risikostyringsplaner:
 
 I risikostyringsplaner fastsættes passende mål for styring af oversvømmelsesrisiciene for de udpegede risikoområder med særlig vægt på at mindske de potentielle negative følger af oversvømmelser for menneskers sundhed, miljø, kulturarv og økonomiske aktiviteter og, hvis dette anses for relevant, med sigte på ikkestrukturelle initiativer (f.eks. friholdelse af arealer til brug for oversvømmelse) eller nedbringelse af sandsynligheden for oversvømmelse.
 
