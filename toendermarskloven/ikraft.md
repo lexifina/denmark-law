@@ -1,4 +1,4 @@
-Lov nr. 1110 af 21. december 1994 om ændring af lov om beskyttelse af de ydre koge i Tøndermarsken, der ophæver § 14, stk. 2, og vedrører og ændrer § 20, § 37, stk. 1 og 2, § 38, stk. 2-4 § 40, § 47 og § 50, stk. 1, nr. 1, indeholder følgende ikrafttrædelsesbestemmelse:
+Lov nr. 1110 af 21. december 1994 om ændring af lov om beskyttelse af de ydre koge i Tøndermarsken, der ophæver § 14, stk. 2, og vedrører og ændrer § 20, § 37, stk. 1 og 2, § 38, stk. 2-4, § 40, § 47 og § 50, stk. 1, nr. 1, indeholder følgende ikrafttrædelsesbestemmelse:
 
 § 2
 
@@ -20,9 +20,9 @@ Lov nr. 535 af 24. juni 2005 om jordfordeling og offentligt køb og salg af fast
 
 § 28
 
-Loven træder i kraft den 1. juli 2005, jf. dog stk. 2.
+Stk. Loven træder i kraft den 1. juli 2005, jf. dog stk. 2.
 
-Stk. 2. (Udeladt)
+Stk. 2. (Udelades)
 
 Lov nr. 564 af 24. juni 2005 om ændring af lov om beskyttelse af havmiljøet, lov om vandløb, lov om sommerhuse og campering m.v. og forskellige andre love (Udmøntning af kommunalreformen i en række love på natur- og miljøområdet), som ændrer §§ 1, 10 12, 15, 23, 24, 26, 31, 33, 34, 36, 37, 38, 40, 44, 45, 46 og 47, indeholder følgende overgangs- og ikrafttrædelsesbestemmelse:
 
@@ -30,11 +30,11 @@ Lov nr. 564 af 24. juni 2005 om ændring af lov om beskyttelse af havmiljøet, l
 
 Stk. 1. Loven træder i kraft den 1. januar 2007.
 
-Stk. 2-4. (Udeladt)
+Stk. 2-4. (Udelades)
 
 Stk. 5. Sager efter lov om beskyttelse af de ydre koge i Tøndermarsken, der ved lovens ikrafttræden ikke er færdigbehandlet i amtsrådet, overføres til kommunalbestyrelsen, jf. denne lovs § 4.
 
-Stk. 6-8. (Udeladt)
+Stk. 6-8. (Udelades)
 
 Lov nr. 1571 af 20. december 2006 om ændring af lov om miljøbeskyttelse, lov om beskyttelse af havmiljøet og forskellige andre love (Ophævelse af adgang til at overføre myndighedskompetence til kommunale fællesskaber og ændring af delegationsbestemmelser m.v. i en række love på natur- og miljøområdet), som ændrer § 45 og § 48, indeholder følgende ikrafttrædelsesbestemmelse:
 
@@ -42,7 +42,7 @@ Lov nr. 1571 af 20. december 2006 om ændring af lov om miljøbeskyttelse, lov o
 
 Stk. 1. Loven træder i kraft den 1. januar 2007, jf. dog stk. 2.
 
-Stk. 2. (Udeladt)
+Stk. 2. (Udelades)
 
 Lov nr. 507 af 17. juni 2008 om ændring af lov om miljøbeskyttelse og forskellige andre love (Implementering af miljøansvarsdirektivet), som ændrer §§ 41, 44 og 50 og indsætter nyt kapitel 9 a (§§ 37 a-37 i) og ny § 44 a, indeholder følgende ikrafttrædelsesbestemmelse:
 
@@ -50,7 +50,7 @@ Lov nr. 507 af 17. juni 2008 om ændring af lov om miljøbeskyttelse og forskell
 
 Stk. 1. Loven træder i kraft den 1. juli 2008, jf. dog stk. 3.
 
-Stk. 2-4. (Udeladt)
+Stk. 2-4. (Udelades)
 
 Lov nr. 508 af 17. juni 2008 om ændring af lov om naturbeskyttelse, lov om jagt og vildtforvaltning og forskellige andre love (Gennemførelse af direktiver om naturbeskyttelse), som indsætter ny § 49 b, indeholder følgende ikrafttrædelsesbestemmelse:
 
@@ -70,28 +70,44 @@ Lov nr. 484 af 11. maj 2010 om ændring af lov om naturbeskyttelse, lov om milj�
 
 Stk. 1. Loven træder i kraft den 1. januar 2011, jf. dog stk. 2.
 
-Stk. 2-4. (Udeladt)
+Stk. 2-4. (Udelades)
 
 Stk. 5. Verserende sager i Naturklagenævnet, der ikke er færdigbehandlet ved lovens ikrafttræden, færdigbehandles efter lov om Natur- og Miljøklagenævnet af Natur- og Miljøklagenævnet med den i § 5, stk. 1, nr. 2, i lov om Natur- og Miljøklagenævnet nævnte sammensætning. I sager, hvor Naturklagenævnet har afholdt besigtigelse i en sag om fredning efter naturbeskyttelseslovens kapitel 6, sammensættes Natur- og Miljøklagenævnet med deltagelse af de nævnsmedlemmer, der deltog i besigtigelsen.
 
-Stk. 6. (Udeladt)
+Stk. 6. (Udelades)
 
 Stk. 7. Miljøministeren kan i øvrigt fastsætte overgangsregler.
 
-Lov nr. 1273 af 21. december 2011 om ændring af lov om miljøbeskyttelse, lov om planlægning og forskellige andre love (Digital annoncering, obligatorisk digital kommunikation, afskæring af klageadgang), som ændrer § 37 h stk. 2, § 39 stk. 2 og § 44 stk. stk. 7 indeholder følgende ikrafttrædelsesbestemmelse:
+Lov nr. 1273 af 21. december 2011 om ændring af lov om miljøbeskyttelse, lov om planlægning og forskellige andre love (Digital annoncering, obligatorisk digital kommunikation, afskæring af klageadgang), som ændrer § 37 h stk. 2, § 39 stk. 2, og § 44, stk. 7, indeholder følgende ikrafttrædelsesbestemmelse:
 
 § 20
 
 Loven træder i kraft den 1. januar 2012.
 
-Lov nr. 580 af 18. juni 2012 om ændring af lov om Natur- og Miljøklagenævnet og forskellige andre love (Reform af klagesystemet på natur- og miljøområdet m.v.), der ændrer § 44 stk. 9 og indsætter stk. 10 og 11, indeholder følgende ikrafttrædelsesbestemmelse:
+Lov nr. 580 af 18. juni 2012 om ændring af lov om Natur- og Miljøklagenævnet og forskellige andre love (Reform af klagesystemet på natur- og miljøområdet m.v.), der ændrer § 44, stk. 9, og indsætter stk. 10 og 11, indeholder følgende ikrafttrædelsesbestemmelse:
 
 § 28
 
 Stk. 1. Loven træder i kraft den 1. august 2012, jf. dog stk. 2.
 
-Stk. 2. (Udeladt)
+Stk. 2. (Udelades)
 
 Stk. 3. Loven finder anvendelse på afgørelser truffet i 1. instans efter lovens ikrafttræden.
 
-Stk. 4. (Udeladt)
+Stk. 4. (Udelades)
+
+Lov nr. 86 af 28. januar 2014 om ændring af lov om Natur- og Miljøklagenævnet og forskellige andre love (Obligatorisk digital selvbetjening ved indgivelse af klage samt obligatorisk videresendelse af klage over lokalplan til Natur- og Miljøklagenævnet m.v.), der ændrer § 44, stk. 9, og indsætter stk. 12 og 13, indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 26
+
+Stk. 1. (Udelades)
+
+Stk. 2. Miljøministeren fastsætter tidspunktet for ikrafttræden af §§ 1-6, § 7, nr. 2 og 3, og §§ 8-25.
+
+Stk. 3. Loven finder ikke anvendelse for klager over afgørelser, der træffes, før loven træder i kraft. For sådanne klager finder de hidtidige regler anvendelse.
+
+Lov nr. 1520 af 27/12/2014 om offentlige veje m.v., der ændrer § 29, stk. 3, og 33, stk. 2, indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 139. Loven træder i kraft den 1. juli 2015, jf. dog stk. 2.
+
+Stk. 2. (Udelades)
