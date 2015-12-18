@@ -1,9 +1,5 @@
-Givet på Christiansborg slot, den 22. maj 1986
+Miljø- og Fødevareministeriet, den 14. december 2015
 
-Under Vor Kongelige Hånd og Segl
+Eva Kjer Hansen
 
-MARGRETHE R.
-
-/BRITTA SCHALL HOLBERG
-
-Ingen
+/ Jette Petersen
