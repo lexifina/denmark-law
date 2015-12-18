@@ -1,5 +1,5 @@
-Lov om høstpant
+Bekendtgørelse af lov om høstpant
 
-(høstpantebrevsloven)
+(Høstpantebrevsloven)
 
-VI MARGRETHE DEN ANDEN, af Guds Nåde Danmarks Dronning, gør vitterligt: Folketinget har vedtaget og Vi ved Vort samtykke stadfæstet følgende lov:
+Herved bekendtgøres lov nr. 271 af 22. maj 1986 om høstpant med de ændringer, der følger af § 5 i lov nr. 560 af 24. juni 2005 og § 6 i lov nr. 539 af 8. juni 2006.
