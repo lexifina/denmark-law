@@ -1,7 +1,5 @@
-Givet på Marselisborg Slot, den 27. december 2009
+Miljø- og Fødevareministeriet, den 14. december 2015
 
-Under Vor Kongelige Hånd og Segl
+Eva Kjer Hansen
 
-MARGRETHE R.
-
-/ Eva Kjer Hansen
+/ Jette Petersen
