@@ -1,5 +1,3 @@
-Lov om Grønt Udviklings- og Demonstrationsprogram
+Bekendtgørelse af lov om Grønt Udviklings- og Demonstrationsprogram
 
-VI MARGRETHE DEN ANDEN, af Guds Nåde Danmarks Dronning, gør vitterligt:
-
-Folketinget har vedtaget og Vi ved Vort samtykke stadfæstet følgende lov:
+Herved bekendtgøres lov nr. 1502 af 27. december 2009 om Grønt Udviklings- og Demonstrationsprogram med de ændringer, der følger af § 11 i lov nr. 310 af 29. marts 2014.
