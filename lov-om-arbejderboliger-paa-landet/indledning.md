@@ -1,17 +1,3 @@
 Bekendtgørelse af lov om arbejderboliger på landet
 
-Herved bekendtgøres lov om opførelse af arbejderboliger på landet, jf. lovbekendtgørelse nr. 48 af 5. februar 1993 med de ændringer, der følger af lov nr. 321 af 14. maj 1997.
-
-Kapitel I (Ophævet)
-
-Kapitel II (Ophævet)
-
-## Kapitel III
-
-## Bestemmelser vedrørende arbejderboliger, der er oprettet i henhold
-
-til de før 1. april 1971 gældende love om opførelse af arbejderboliger på landet
-
-A. Bestemmelser om jordrente
-
-Særlige bestemmelser for jordrentelodder
+Herved bekendtgøres lov om arbejderboliger på landet, jf. lovbekendtgørelse nr. 344 af 16. maj 1997, med de ændringer, der følger af § 28 i lov nr. 430 af 6. juni 2005, § 34 i lov nr. 431 af 6. juni 2005, lov nr. 111 af 26. februar 2008, § 42 i lov nr. 1336 af 19. december 2008 og § 5 i lov nr. 1392 af 23. december 2012.
