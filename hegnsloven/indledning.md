@@ -2,4 +2,4 @@ Bekendtgørelse af lov om hegn
 
 (Hegnsloven)
 
-Herved bekendtgøres lov om hegn, jf. lovbekendtgørelse nr. 717 af 6. august 2001 med de ændringer, der følger af § 46 i lov nr. 431 af 6. juni 2005, § 34 i lov nr. 542 af 24. juni 2005 og § 63 i lov nr. 538 af 8. juni 2006.
+Herved bekendtgøres lov om hegn, jf. lovbekendtgørelse nr. 59 af 19. januar 2007, med de ændringer, der følger af § 4 i lov nr. 484 af 17. juni 2008 og § 52 i lov nr. 1336 af 19. december 2008.
