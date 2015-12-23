@@ -8,9 +8,9 @@ Stk. 2. For arealer i byzone, hvor der ikke er en lokalplan eller en plan m.v. o
 
 Stk. 3. For arealer i landzone, der ifølge kommuneplanens rammer pr. 1. januar 2015 kan overføres til byzone, eller som ligger i en landsby, kan kommunalbestyrelsen uden tilvejebringelse af en lokalplan efter § 13, stk. 2, meddele tilladelse til ændret anvendelse af eksisterende bebyggelse og til bygge- eller anlægsarbejder med henblik på etablering af midlertidige opholdssteder til nyankomne flygtninge, jf. integrationslovens § 12, stk. 6. Ved afgørelse efter 1. pkt. finder § 35, stk. 1, ikke anvendelse.
 
-Stk. 4. Kommunalbestyrelsen kan ikke meddele dispensation efter stk. 1 eller tilladelse efter stk. 1-3, der muliggør etablering af et opholdssted på et støjbelastet areal, medmindre opholdsstedet kan sikres mod støjgener. Kommunalbestyrelsen kan stille vilkår om etablering af afskærmningsforanstaltninger.
+Stk. 4. Etableres der midlertidige opholdssteder til flygtninge efter stk. 1-3 på et støjbelastet areal, kan kommunalbestyrelsen stille vilkår om etablering af afskærmningsforanstaltninger.
 
-Stk. 5. Kommunalbestyrelsen kan ikke meddele dispensation efter stk. 1 eller tilladelse efter stk. 1-3, der muliggør etablering af et opholdssted på et areal, hvor planlægning for etablering af et opholdssted til flygtninge vil stride mod regler eller beslutninger efter §§ 3 og 5 j eller offentliggjorte forslag til regler efter §§ 3 og 5 j, jf. § 22 a, stk. 1.
+Stk. 5. Erhvervsministeren kan i særlige tilfælde meddele kommunalbestyrelsen tilladelse til, at regler eller beslutninger efter §§ 3 og 5 j eller offentliggjorte forslag til regler efter §§ 3 og 5 j, jf. § 22 a, stk. 1, ikke finder anvendelse på arealer, hvor kommunalbestyrelsen kan meddele dispensation efter stk. 1 eller tilladelse efter stk. 1-3.
 
 Stk. 6. Dispensationer efter stk. 1 og tilladelser efter stk. 1-3 kan først meddeles, når der er forløbet 2 uger, efter at kommunalbestyrelsen har givet skriftlig orientering om ansøgningen efter reglerne i § 20.
 
