@@ -6,18 +6,6 @@ Stk. 1. Loven træder i kraft den 1. oktober 2012.
 
 Stk. 2. Lovens § 2 og § 3, nr. 2, finder anvendelse på børn, der er blevet til ved kunstig befrugtning, der er gennemført efter lovens ikrafttræden.
 
-Lov nr. 647 af 12. juni 2013 (Organisering af statsforvaltningerne) indeholder nedenstående ikrafttrædelsesbestemmelser:
-
-§ 25
-
-Loven træder i kraft den 1. juli 2013.
-
-§ 26
-
-Stk. 1. Sager ved de fem statsforvaltninger, der ved lovens ikrafttræden ikke er færdigbehandlet, færdigbehandles af statsforvaltningen.
-
-Stk. 2-5. (Udelades)
-
 Lov nr. 1313 af 27. november 2013 (Assisteret reproduktion som terminologi, dispensationsmulighed vedrørende opbevaringstid for æg, samtykke til behandling samt udvidelse af kredsen af ansvarlige for indberetning af alvorlige uønskede hændelser og bivirkninger i form af genetisk sygdom m.v.) indeholder nedenstående ikrafttrædelsesbestemmelse:
 
 § 7
@@ -32,16 +20,18 @@ Stk. 4. Børnelovens §§ 27 c og 28 som affattet ved denne lovs § 3, nr. 2, fi
 
 Stk. 5. De hidtil gældende bestemmelser i børnelovens §§ 27 og 28 finder fortsat anvendelse på børn, der er blevet til ved kunstig befrugtning, der er foretaget før lovens ikrafttræden.
 
-Lov nr. 485 af 21. maj 2014 (Simpel vold og seksuelle overgreb som skilsmissegrund m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
+Lov nr. 1741 af 22. december 2015 (Ankestyrelsen som familieretlig klagemyndighed m.v.) indeholder følgende ikraftrædelsesbestemmelser:
 
-§ 3
+§ 12
 
-Loven træder i kraft den 1. juli 2014.
+Loven træder i kraft den 1. januar 2016.
 
-Lov nr. 552 af 2. juni 2014 (Overgang til obligatorisk digital selvbetjening, for så vidt angår ansøgning om byggetilladelse, ansøgning om forældremyndighed, barnets bopæl, samvær m.v., anmodning om separation og skilsmisse, ansøgning om børne- og ægtefællebidrag, ansøgning om lån til beboerindskud, ansøgning om parkeringslicens og anmodning om attestationer efter lov om Det Centrale Personregister m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
+§ 13
 
-§ 16
+Stk. 1. Sager, der er under behandling hos social- og indenrigsministeren efter en af de i §§ 1-8, 10 og 11 nævnte love, hvor Ankestyrelsen efter denne lovs ikrafttræden behandler sådanne sager, og hvor sagerne ikke er færdigbehandlet ved lovens ikrafttræden, færdigbehandles af Ankestyrelsen.
 
-Stk. 1. Loven træder i kraft den 1. december 2014.
+Stk. 2. Anmodning om genoptagelse af afgørelser, herunder afgørelser om aktindsigt og afgørelser om sagsbehandlingen, der er truffet af social- og indenrigsministeren i sager efter en af de i §§ 1-8, 10 og 11 nævnte love, og hvor Ankestyrelsen efter denne lovs ikrafttræden træffer afgørelse i sådanne sager, indgives til og behandles af Ankestyrelsen.
 
-Stk. 2. Loven finder alene anvendelse for ansøgninger, anmeldelser, meddelelser, anmodninger og erklæringer, der indgives efter lovens ikrafttræden.
+Stk. 3. Stk. 2 finder tilsvarende anvendelse på alle andre former for henvendelser i de sager, der er nævnt i stk. 2.
+
+Stk. 4 Anmodning om aktindsigt i sager, som social- og indenrigsministeren har behandlet efter en af de i §§ 1-8, 10 og 11 nævnte love, og hvor Ankestyrelsen efter denne lovs ikrafttræden behandler sådanne sager, indgives til og behandles af Ankestyrelsen.
