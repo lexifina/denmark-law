@@ -1,21 +1,21 @@
-Lov nr. 523 af 6. juni 2007 om ændring af forskellige lovbestemmelser om forældelse af fordringer m.v. (Ændringer som følge af en ny lov om forældelse af fordringer, ophævelse af købelovens reklamationsfrister ved visse køb m.v.), indeholder i § 30 bestemmelser, som vedrører § 23 b. Loven indeholder i § 47 følgende ikrafttrædelsesbestemmelse:
+I lov nr. 341 af 27. april 2011 om ændring af årsregnskabsloven og forskellige andre love (Obligatorisk digital kommunikation mellem virksomheder og det offentlige, skattefritagelse af Fornyelsesfondens garantiordning m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
 
-§ 47
+§ 18
 
-Loven træder i kraft den 1. januar 2008.
+Stk. 1. Loven træder i kraft den 1. maj 2011, jf. dog stk. 2.
 
-Lov nr. 316 af 31. marts 2007 om udvikling af landdistrikterne (landdistriktsloven) indeholder i kapitel 5 følgende ikrafttrædelsesbestemmelser m.v.:
+Stk. 2. (Udeladt)
 
-§ 16. Ministeren for fødevarer, landbrug og fiskeri fastsætter tidspunktet for lovens eller dele af lovens ikrafttræden.
-
-Stk. 2. Ministeren kan i forbindelse med fastsættelse af regler i medfør af § 3 bestemme, at loven eller dele af loven har virkning fra og med den 1. januar 2007.
-
-Stk. 3. Ministeren kan i forbindelse med hel eller delvis ikraftsættelse af denne lov fastsætte regler om hel eller delvis ophævelse af kapitel 1, 2, 4 og 5 i lov om støtte til udvikling af landdistrikterne (landdistriktsstøtteloven), jf. lovbekendtgørelse nr. 1015 af 9. oktober 2006.
-
-§ 17. Tilskud bevilget på grundlag af ansøgninger indgivet inden tidspunktet for lovens ikrafttræden behandles efter de hidtil gældende regler.
-
-Lov nr. 95 af 10. februar 2009 om ændring af lov om statsgaranti for lån til yngre jordbrugere m.v. (Mulighed for at yde lån til interessentskaber og ændring af indholdet af præmien for statsgaranti m.v.) indeholder følgende ikrafttrædelsesbestemmelser:
+Lov nr. 602 af 14. juni 2011 om ændring af lov om statsgaranti for lån til yngre jordbrugere m.v. (Nedlæggelse af ordningen med statsgaranti for lån til yngre jordbrugere) indeholder følgende ikrafttrædelses- og overgangsbestemmelser:
 
 § 2
 
-Loven træder i kraft den 1. januar 2010.
+Stk. 1. Loven træder i kraft den 1. januar 2012.
+
+Stk. 2. Ansøgning om statsgaranti for lån, supplerende lån og tillægslån i medfør af lov om statsgaranti for lån til yngre jordbrugere m.v. skal være indgivet til Økonomistyrelsen senest den 31. december 2011. Ansøgning om statsgaranti for supplerende lån i medfør af lovbekendtgørelse nr. 728 af 29. juni 2004, lovbekendtgørelse nr. 1015 af 9. oktober 2006 og lovbekendtgørelse nr. 856 af 25. august 2008 skal være indgivet til Økonomistyrelsen senest den 31. december 2011. Ansøgning om statsgaranti for tillægslån i medfør af lovbekendtgørelse nr. 856 af 25. august 2008 skal være indgivet til Økonomistyrelsen senest den 31. december 2011.
+
+Stk. 3. Ansøgninger om statsgaranti for lån, supplerende lån og tillægslån til yngre jordbrugere, der er modtaget inden lovens ikrafttræden, færdigbehandles efter de hidtil gældende regler, herunder bekendtgørelser udstedt i medfør af lov om støtte til udvikling af landdistrikterne eller lov om statsgaranti for lån til yngre jordbrugere m.v.
+
+Stk. 4. De hidtil gældende love og bekendtgørelser om statsgaranti for lån til yngre jordbrugere finder fortsat anvendelse for statsgarantier, der ydes eller er ydet for lån, supplerende lån og tillægslån, jf. dog stk. 2.
+
+Stk. 5. Ministeren for fødevarer, landbrug og fiskeri kan, indtil ordningen med garanti for lån til yngre jordbrugere er fuldt udfaset, fastsætte regler i henhold til de hidtil gældende regler i lov om statsgaranti for lån til yngre jordbrugere m.v.
