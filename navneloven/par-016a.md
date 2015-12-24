@@ -1,4 +1,4 @@
-§ 16 a. Ansøgning om navngivning og navneændring, jf. § 16, stk. 1, skal indgives til personregisterføreren ved anvendelse af den digitale løsning, som Ministeriet for Ligestilling og Kirke stiller til rådighed (digital selvbetjening). Ansøgninger, der ikke indgives ved digital selvbetjening, afvises af personregisterføreren, jf. dog stk. 2 og 3.
+§ 16 a. Ansøgning om navngivning og navneændring, jf. § 16, stk. 1, skal indgives til personregisterføreren ved anvendelse af den digitale løsning, som Kirkeministeriet stiller til rådighed (digital selvbetjening). Ansøgninger, der ikke indgives ved digital selvbetjening, afvises af personregisterføreren, jf. dog stk. 2 og 3.
 
 Stk. 2. Hvis der foreligger særlige forhold, der gør, at borgeren ikke må forventes at kunne anvende digital selvbetjening, skal personregisterføreren tilbyde, at ansøgningen kan indgives på anden måde end ved digital selvbetjening efter stk. 1. Personregisterføreren bestemmer, hvordan en ansøgning omfattet af 1. pkt. skal indgives, herunder om den skal indgives mundtligt eller skriftligt.
 
