@@ -1,19 +1,15 @@
-Lov nr. 622 af 12. juni 2013 (Overgang til obligatorisk digital selvbetjening for borgere, for så vidt angår ansøgning om økonomisk fripladstilskud, meddelelse om valg af læge, ansøgning om navngivning og navneændring, indgivelse af erklæring om faderskab, anmeldelse af cykeltyveri m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
+Lov nr. 1741 af 22. december 2015 (Ankestyrelsen som familieretlig klagemyndighed m.v.) indeholder følgende ikrafttrædelsesbestemmelser:
 
-§ 17
+§ 12
 
-Stk. 1. Loven træder i kraft den 1. december 2013.
+Loven træder i kraft den 1. januar 2016.
 
-Stk. 2. Loven finder alene anvendelse for ansøgninger, anmeldelser, anmodninger, meddelelser og erklæringer, der indgives efter lovens ikrafttræden.
+§ 13
 
-Lov nr. 647 af 12. juni 2013 (Ændret organisering af statsforvaltningerne, regelforenklinger og omkostningsdækkende egenbetaling på det familieretlige område m.v.) indeholder følgende ikrafttrædelsesbestemmelser:
+Stk. 1. Sager, der er under behandling hos social- og indenrigsministeren efter en af de i §§ 1-8, 10 og 11 nævnte love, hvor Ankestyrelsen efter denne lovs ikrafttræden behandler sådanne sager, og hvor sagerne ikke er færdigbehandlet ved lovens ikrafttræden, færdigbehandles af Ankestyrelsen.
 
-§ 25
+Stk. 2. Anmodning om genoptagelse af afgørelser, herunder afgørelser om aktindsigt og afgørelser om sagsbehandlingen, der er truffet af social- og indenrigsministeren i sager efter en af de i §§ 1-8, 10 og 11 nævnte love, og hvor Ankestyrelsen efter denne lovs ikrafttræden træffer afgørelse i sådanne sager, indgives til og behandles af Ankestyrelsen.
 
-Loven træder i kraft den 1. juli 2013.
+Stk. 3. Stk. 2 finder tilsvarende anvendelse på alle andre former for henvendelser i de sager, der er nævnt i stk. 2.
 
-§ 26
-
-Stk. 1. Sager ved de fem statsforvaltninger, der ved lovens ikrafttræden ikke er færdigbehandlet, færdigbehandles af statsforvaltningen.
-
-Stk. 2-5. (Udelades)
+Stk. 4. Anmodning om aktindsigt i sager, som social- og indenrigsministeren har behandlet efter en af de i §§ 1-8, 10 og 11 nævnte love, og hvor Ankestyrelsen efter denne lovs ikrafttræden behandler sådanne sager, indgives til og behandles af Ankestyrelsen.
