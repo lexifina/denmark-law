@@ -1,4 +1,4 @@
-§ 17 a. Ved indgivelse af ansøgning om ændring af bidrag betales et gebyr, jf. dog stk. 2. Gebyrets størrelse fastsættes og reguleres af ministeren for børn, ligestilling, integration og sociale forhold, jf. stk. 4.
+§ 17 a. Ved indgivelse af ansøgning om ændring af bidrag betales et gebyr, jf. dog stk. 2. Gebyrets størrelse fastsættes og reguleres af social- og indenrigsministeren, jf. stk. 4.
 
 Stk. 2. Der betales ikke gebyr efter stk. 1, hvis
 
@@ -10,4 +10,4 @@ Stk. 3. Søger en part om ændring af bidrag, jf. stk. 1, til flere børn i en s
 
 Stk. 4. Størrelsen af gebyret efter stk. 1 fastsættes således, at det svarer til omkostningerne ved statsforvaltningens behandling af en ansøgning om ændring af bidrag.
 
-Stk. 5. Ministeren for børn, ligestilling, integration og sociale forhold kan fastsætte regler om betaling af gebyr.
+Stk. 5. Social- og indenrigsministeren kan fastsætte regler om betaling af gebyr.
