@@ -16,41 +16,15 @@ Loven træder i kraft den 1. juli 2013.
 
 § 26
 
-Stk. 1. Sager ved de fem statsforvaltninger, der ved lovens ikrafttræden ikke er færdigbehandlet, færdigbehandles af statsforvaltningen.
+Stk. 1. (Udelades)
 
-Stk. 2-3. (Udelades)
+Stk. 2. (Udelades)
 
-Stk. 4. Lovens § 18, nr. 1, og § 20, nr. 3, finder kun anvendelse på anmodninger, som statsforvaltningen modtager efter lovens ikrafttræden.
+Stk. 3. (Udelades)
+
+Stk. 4. (Udelades)
 
 Stk. 5. Lovens § 18, nr. 2, § 19, nr. 1, og § 20, nr. 7, finder kun anvendelse for afgørelser, som statsforvaltningen træffer efter lovens ikrafttræden.
-
-Lov nr. 652 af 12. juni 2013 (Medmoderskab m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
-
-§ 8
-
-Loven træder i kraft den 1. december 2013, jf. dog § 9.
-
-§ 9
-
-(Udelades)
-
-Lov nr. 1313 af 27. november 2013 (Assisteret reproduktion som terminologi, dispensationsmulighed vedrørende opbevaringstid for æg, samtykke til behandling samt udvidelse af kredsen af ansvarlige for indberetning af alvorlige uønskede hændelser og bivirkninger i form af genetisk sygdom m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
-
-§ 7
-
-Stk. 1. Loven træder i kraft den 1. december 2013, jf. dog stk. 2-5.
-
-Stk. 2. § 3, nr. 1, og § 4 træder i kraft den 2. december 2013.
-
-Stk. 3-5. (Udelades)
-
-Lov nr. 552 af 2. juni 2014 (Overgang til obligatorisk digital selvbetjening, for så vidt angår ansøgning om byggetilladelse, ansøgning om forældremyndighed, barnets bopæl, samvær m.v., anmodning om separation og skilsmisse, ansøgning om børne- og ægtefællebidrag, ansøgning om lån til beboerindskud, ansøgning om parkeringslicens og anmodning om attestationer efter lov om Det Centrale Personregister m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
-
-§ 16
-
-Stk. 1. Loven træder i kraft den 1. december 2014.
-
-Stk. 2. Loven finder alene anvendelse for ansøgninger, anmeldelser, meddelelser, anmodninger og erklæringer, der indgives efter lovens ikrafttræden.
 
 Lov nr. 575 af 10. juni 2014 (Regelforenklinger og effektiviseringer på børnebidragsområdet) indeholder følgende ikrafttrædelsesbestemmelse:
 
@@ -59,3 +33,19 @@ Lov nr. 575 af 10. juni 2014 (Regelforenklinger og effektiviseringer på børneb
 Stk. 1. Loven træder i kraft den 1. juli 2014.
 
 Stk. 2. Loven finder ikke anvendelse på ansøgninger om bidrag efter §§ 14, 15 og 19 i lov om børns forsørgelse, som er indgivet til statsforvaltningen inden lovens ikrafttræden. For sådanne ansøgninger finder de hidtil gældende regler anvendelse.
+
+Lov nr. 1741 af 22. december 2015 (Ankestyrelsen som familieretlig klagemyndighed m.v.) indeholder følgende ikrafttrædelsesbestemmelser:
+
+§ 12
+
+Loven træder i kraft den 1. januar 2016.
+
+§ 13
+
+Stk. 1. Sager, der er under behandling hos social- og indenrigsministeren efter en af de i §§ 1-8, 10 og 11 nævnte love, hvor Ankestyrelsen efter denne lovs ikrafttræden behandler sådanne sager, og hvor sagerne ikke er færdigbehandlet ved lovens ikrafttræden, færdigbehandles af Ankestyrelsen.
+
+Stk. 2. Anmodning om genoptagelse af afgørelser, herunder afgørelser om aktindsigt og afgørelser om sagsbehandlingen, der er truffet af social- og indenrigsministeren i sager efter en af de i §§ 1-8, 10 og 11 nævnte love, og hvor Ankestyrelsen efter denne lovs ikrafttræden træffer afgørelse i sådanne sager, indgives til og behandles af Ankestyrelsen.
+
+Stk. 3 Stk. 2 finder tilsvarende anvendelse på alle andre former for henvendelser i de sager, der er nævnt i stk. 2.
+
+Stk. 4 Anmodning om aktindsigt i sager, som social- og indenrigsministeren har behandlet efter en af de i §§ 1-8, 10 og 11 nævnte love, og hvor Ankestyrelsen efter denne lovs ikrafttræden behandler sådanne sager, indgives til og behandles af Ankestyrelsen.
