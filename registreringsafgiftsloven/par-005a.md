@@ -4,4 +4,4 @@ Stk. 2. Køretøjer, der er konstrueret og indrettet til ophold og beboelse, afg
 
 Stk. 3. Den afgiftspligtige værdi efter stk. 1 forhøjes med 7.450 kr. for nye køretøjer, der ikke er forsynet med sikkerhedspude, og med 3.725 kr. for nye køretøjer, der er forsynet med kun én sikkerhedspude.
 
-Stk. 4. Et køretøj, som er berigtiget med afgift efter stk. 1 og 2, afgiftsberigtiges efter § 4, når betingelserne for den foretagne afgiftsberigtigelse ikke længere er opfyldt. Afgiften nedsættes dog med 60 pct. af den del af køretøjets afgiftspligtige værdi, der overstiger 12.100 kr.
+Stk. 4. Et køretøj, som er berigtiget med afgift efter stk. 1 og 2, afgiftsberigtiges efter § 4, når betingelserne for den foretagne afgiftsberigtigelse ikke længere er opfyldt. Afgiften nedsættes dog med 60 pct. af den del af køretøjets afgiftspligtige værdi, der overstiger 12.100 kr. Nedsættelserne efter 2. pkt. kan ikke overstige den afgift, der oprindelig er betalt.
