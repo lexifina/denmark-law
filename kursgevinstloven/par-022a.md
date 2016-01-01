@@ -1,0 +1,13 @@
+§ 22 A. En skattepligtig gevinst omfattet af § 22, stk. 1, beskattes efter reglerne i stk. 2, hvis
+
+1) lånet er ydet af et selskab, en person eller et dødsbo, der driver næringsvirksomhed ved finansiering, med sikkerhed i fast ejendom eller skibe,
+
+2) lånet er inkonverterbart og direkte baseret på obligationer optaget til handel på et reguleret marked,
+
+3) lånets rente ved stiftelsen udgør 0 pct. og
+
+4) lånets rente ikke i obligationernes løbetid kan blive mindre end 0 pct.
+
+Stk. 2. Debitor skal for hvert indkomstår, indtil debitor bliver frigjort fra gælden, medregne en renteindtægt svarende til, at gevinsten udgjorde en fast negativ rente på lånet i perioden fra lånets stiftelse til det førstkommende tidspunkt af enten obligationernes udløb eller lånets udløb. Renteindtægten beregnes ud fra den aftalte afdragsprofil ved stiftelsen. Har debitor i perioder afdragsfrihed, foretages beregningen med denne forudsætning, hvis perioderne er fastlagt ved stiftelsen.
+
+Stk. 3. Indberettes den skattepligtige renteindtægt efter stk. 2 ikke efter skattekontrollovens § 8 P for det indkomstår, hvori lånet er stiftet, kan debitor vælge, at beskatningen af gevinsten omfattet af stk. 1 i stedet skal ske efter § 22, stk. 1.
