@@ -1,0 +1,1 @@
+§ 22 a. Skatteministeren kan fastsætte regler om turneringerne og afviklingen af disse, herunder regler for udformningen og indlevering af regnskaber, kontrolforanstaltninger, der er nødvendige for lovens gennemførelse, informationsforpligtelser og spillemyndighedens mærkningsordninger, herunder at de kan gøres obligatoriske.
