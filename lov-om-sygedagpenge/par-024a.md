@@ -1,4 +1,4 @@
-§ 24 a. Personer, der på første fraværsdag ville have haft ret til sygedagpenge fra kommunen, men er omfattet af tidsbegrænsningen i § 24, stk. 1, har ret til at få et jobafklaringsforløb med ressourceforløbsydelse, jf. kapitel 12 b i lov om en aktiv beskæftigelsesindsats.
+§ 24 a. Personer, der på første fraværsdag ville have haft ret til sygedagpenge fra kommunen, men er omfattet af tidsbegrænsningen i § 24, stk. 1, har ret til at få et jobafklaringsforløb med ressourceforløbsydelse, jf. kapitel 12 b i lov om en aktiv beskæftigelsesindsats, jf. dog stk. 6.
 
 Stk. 2. For lønmodtagere er der ret til et jobafklaringsforløb med ressourceforløbsydelse, jf. kapitel 12 b i lov om en aktiv beskæftigelsesindsats, fra første fraværsdag efter udløbet af arbejdsgiverperioden i § 30, stk. 1, jf. dog stk. 3 og 4.
 
@@ -15,3 +15,7 @@ Stk. 3. I følgende tilfælde er der ret til et jobafklaringsforløb med ressour
 Stk. 4. Personer, der er omfattet af flere bestemmelser i stk. 2 og 3, har ret til et jobafklaringsforløb med ressourceforløbsydelse fra det tidligste tidspunkt.
 
 Stk. 5. For selvstændige erhvervsdrivende er der ret til et jobafklaringsforløb med ressourceforløbsydelse fra første fraværsdag.
+
+Stk. 6. I perioden fra den 1. januar 2016 til og med den 31. december 2017 kan en person, der er omfattet af stk. 1, i stedet for et jobafklaringsforløb med ressourceforløbsydelse vælge at modtage sygedagpenge fra kommunen, hvis en læge vurderer, at personen har en livstruende, alvorlig sygdom.
+
+Stk. 7. Retten til sygedagpenge efter stk. 6 indtræder for lønmodtagere efter reglerne i § 33. For selvstændige erhvervsdrivende indtræder retten til sygedagpenge fra første fraværsdag.

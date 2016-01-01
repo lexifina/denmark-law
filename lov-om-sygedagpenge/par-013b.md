@@ -8,8 +8,12 @@ Stk. 4. Opfølgningen kan dog ske telefonisk, digitalt eller skriftligt, når
 
 1) den sygemeldte har genoptaget arbejdet delvis,
 
-2) den sygemeldte deltager i tilbud efter lov om en aktiv beskæftigelsesindsats eller
+2) den sygemeldte forventes at være fuldt raskmeldt og på vej tilbage i arbejde inden for 4 uger,
 
-3) sygdommen er til hinder for en individuel samtale.
+3) den sygemeldte forventes at gå på barsel inden for 4 uger,
+
+4) den sygemeldte deltager i tilbud efter lov om en aktiv beskæftigelsesindsats eller
+
+5) sygdommen er til hinder for en individuel samtale.
 
 Stk. 5. Hvis der er tale om alvorlig sygdom, hvor kontakt til den sygemeldte ikke er hensigtsmæssig eller mulig på grund af den sygemeldtes helbredssituation, foregår opfølgningen uden kontakt til den sygemeldte (standby). Ved vurdering af, om en sygdom er alvorlig, indgår navnlig, om sygdommen er livstruende.
