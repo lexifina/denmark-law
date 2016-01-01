@@ -1,4 +1,4 @@
-§ 255 a. En part kan forlange at få udleveret kopi af dokumenter, der vedrører sagen, herunder indførsler i retsbøgerne, medmindre andet er bestemt.
+§ 255 a. En part kan forlange at få adgang til dokumenter, der vedrører sagen, herunder indførsler i retsbøgerne, medmindre andet er bestemt.
 
 Stk. 2. Retten til aktindsigt omfatter ikke interne dokumenter. Som interne dokumenter anses
 
