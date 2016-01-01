@@ -2,4 +2,6 @@
 
 Stk. 2. Fortrolige oplysninger, herunder oplysninger om enkeltpersoners rent private forhold, må, i det omfang det følger af reglerne i Dublinforordningen, videregives til myndighederne i et andet land, der er tilknyttet Dublinforordningen. Oplysninger som nævnt i 1. pkt. må, i det omfang det følger af Schengenkonventionen, videregives til myndighederne i et andet Schengenland.
 
-Stk. 3. Datatilsynet fører her i landet tilsyn med behandlingen og anvendelsen af de oplysninger, der er modtaget efter reglerne i Dublinforordningen.
+Stk. 3. Personoplysninger, som modtages fra det centrale Eurodac-system i medfør af Eurodac-forordningen, må ikke videregives eller stilles til rådighed for internationale organisationer, private institutioner eller lande, der ikke er tilsluttet Den Europæiske Union.
+
+Stk. 4. Datatilsynet fører her i landet tilsyn med behandlingen og anvendelsen af de oplysninger, der er modtaget efter reglerne i Dublinforordningen.
