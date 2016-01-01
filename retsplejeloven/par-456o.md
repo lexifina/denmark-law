@@ -1,4 +1,4 @@
-§ 456 o. Anke sker ved meddelelse til byretten. Meddelelse kan ske mundtligt til retsbogen. Retten sender meddelelsen eller i de i 2. pkt. nævnte tilfælde en udskrift af retsbogen og sagens akter til landsretten.
+§ 456 o. Anke sker ved meddelelse til byretten. Meddelelse kan ske mundtligt til retsbogen. Retten sender meddelelsen eller i de i 2. pkt. nævnte tilfælde en kopi af retsbogen og sagens akter til landsretten.
 
 Stk. 2. Reglerne i dette kapitel finder med de fornødne lempelser anvendelse under anke.
 
