@@ -1,0 +1,1 @@
+§ 14 a. Er der under en klagesag nedlagt påstand om annullering af en tildelingsbeslutning, kan Klagenævnet for Udbud efter påstand fra klageren eller indklagede afgive en ikkebindende foreløbig udtalelse om, at der foreligger særlige forhold, der tilsiger, at kontrakten videreføres, jf. udbudslovens § 185, stk. 2.
