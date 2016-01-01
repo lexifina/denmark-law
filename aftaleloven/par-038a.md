@@ -1,3 +1,5 @@
+## IV. Særlige regler om forbrugeraftaler
+
 § 38 a. Bestemmelserne i dette kapitel finder anvendelse på forbrugeraftaler, herunder vilkår i forbrugeraftaler.
 
 Stk. 2. Ved en forbrugeraftale forstås i denne lov en aftale, som en erhvervsdrivende indgår som led i sit erhverv, når den anden part (forbrugeren) hovedsagelig handler uden for sit erhverv. Den erhvervsdrivende har bevisbyrden for, at en aftale ikke er en forbrugeraftale.
