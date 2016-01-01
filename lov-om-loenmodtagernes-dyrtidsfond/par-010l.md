@@ -1,0 +1,1 @@
+§ 10 l. Erhvervs- og vækstministeren kan fastsætte regler om Lønmodtagernes Dyrtidsfonds pligt til at offentliggøre oplysninger om Finanstilsynets vurdering af Lønmodtagernes Dyrtidsfond og om, at Finanstilsynet kan offentliggøre oplysningerne før Lønmodtagernes Dyrtidsfond.
