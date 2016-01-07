@@ -1,5 +1,3 @@
-Lov om Forsvarets Efterretningstjeneste (FE)
+Bekendtgørelse af lov om Forsvarets Efterretningstjeneste (FE)
 
-VI MARGRETHE DEN ANDEN, af Guds Nåde Danmarks Dronning, gør vitterligt:
-
-Folketinget har vedtaget og Vi ved Vort samtykke stadfæstet følgende lov:
+Herved bekendtgøres lov nr. 602 af 12. juni 2013 om Forsvarets Efterretningstjeneste (FE) med de ændringer, der følger af § 3 i lov nr. 1624 af 26. december 2013 og lov nr. 1571 af 15. december 2015.

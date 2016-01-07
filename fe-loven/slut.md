@@ -1,7 +1,5 @@
-Givet på Christiansborg Slot, den 12. juni 2013
+Forsvarsministeriet, den 4. januar 2016
 
-Under Vor Kongelige Hånd og Segl
+Peter Christensen
 
-MARGRETHE R.
-
-/ Nick Hækkerup
+/ Thomas Kvistholm Thrane
