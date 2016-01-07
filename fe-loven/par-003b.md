@@ -1,0 +1,1 @@
+§ 3 b. Inden retten træffer afgørelse efter § 3 a, skal der beskikkes en advokat for den, som indgrebet vedrører, og advokaten skal have lejlighed til at udtale sig. Advokaten beskikkes fra den særlige kreds af advokater, som er nævnt i retsplejelovens § 784, stk. 2.
