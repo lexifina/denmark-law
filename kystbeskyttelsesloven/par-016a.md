@@ -1,4 +1,4 @@
-§ 16 a. På søterritoriet må der kun efter tilladelse fra transportministeren
+§ 16 a. På søterritoriet må der kun efter tilladelse fra miljø- og fødevareministeren
 
 1) foretages inddæmning eller opfyldning,
 

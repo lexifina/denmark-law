@@ -1,3 +1,5 @@
 Bekendtgørelse af lov om kystbeskyttelse
 
-Herved bekendtgøres lov om kystbeskyttelse, jf. lovbekendtgørelse nr. 243 af 5. april 1994, med de ændringer, der følger af lov nr. 469 af 10. juni 1997, § 54 i lov nr. 145 af 25. marts 2002, § 1 i lov nr. 581 af 24. juni 2005, lov nr. 311 af 19. april 2006 og § 7 i lov nr. 548 af 6. juni 2007.
+Herved bekendtgøres lov om kystbeskyttelse, jf. lovbekendtgørelse nr. 267 af 11. marts 2009, med de ændringer, der følger af § 159 i lov nr. 1520 af 27. december 2014 og § 2 i lov nr. 178 af 24. februar 2015.
+
+Den bekendtgjorte lovtekst vedrørende § 18 og § 18 a træder i kraft på det tidspunkt, miljø- og fødevareministeren fastsætter, jf. § 4, stk. 2, i lov nr. 178 af 24. februar 2015 ændring af lov om råstoffer, lov om kystbeskyttelse og lov om havstrategi (Ændringer af auktionsordningen og andre regler om indvinding af råstoffer på havet som følge af regeringens konkurrencepolitiske udspil og evaluering af råstofloven, ændringer som følge af overførelse af kystbeskyttelsesloven til Miljøministeriet og præcisering af gennemførelse af havstrategirammedirektivet m.v.).
