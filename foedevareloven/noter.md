@@ -1,4 +1,4 @@
-1) Loven indeholder bestemmelser, der gennemfører dele af Europa-Parlamentets og Rådets direktiv 2004/48/EF af 29. april 2004 om håndhævelsen af intellektuelle ejendomsrettigheder, EU-Tidende 2004, nr. L 195, s. 15.
+1) Loven indeholder bestemmelser, der gennemfører dele af Europa-Parlamentets og Rådets direktiv 2004/48/EF af 29. april 2004 om håndhævelsen af intellektuelle ejendomsrettigheder, EU-Tidende 2004, nr. L 157, s. 45.
 
 2) Lovændringen vedrører indsættelse af fodnote til lovens titel og §§ 19 a - 19 c.
 
@@ -23,3 +23,7 @@
 11) Lovændringen vedrørte ændring af »Myndigheder« til »Laboratorier« i § 2, stk. 1, nr. 5, indsættelse af § 20, stk. 4, ændring af § 44, stk. 1 og indsættelse af § 44, stk. 2. Ændringen vedrørte endvidere ændring af § 45, stk. 7, 2. pkt. af »stk. 9« til »stk. 11«, indsættelse i § 45 af stk. 8 og 9, hvorved stk. 8 - 10 er blevet til stk. 10 - 12, ændring af § 45, stk. 8, der er blevet til stk. 10, og ophævelse af § 55.
 
 12) Lovændringen vedrører indsættelse af 2. pkt. i § 58, stk. 1 og indsættelse af kapitel 15 a.
+
+13) Lovændringen vedrører ændring af § 45, stk. 5, ændring af takster anført i § 45, stk. 6, 1. pkt., ophævelse af § 45, stk. 7, hvorefter stk. 8-12, bliver stk. 7-11. Overskriften til kapitel 13 ændres, og der indsættes et kapitel 13 a, der omfatter § 56 b og den nye § 56 c.
+
+14) § 1, nr. 2 i lov nr. 1882 af 29. december 2015 vedrører ændringen af § 45, stk. 5.

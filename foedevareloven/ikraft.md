@@ -4,7 +4,7 @@ Lov nr. 1430 af 21. december 2005 (Implementering af EF-direktiv 2004/48/EF om h
 
 Loven træder i kraft den 1. januar 2006.
 
-Lov nr. 1549 af 20. december 2006 (Strafskærpelse, næringsbrev til fødevarevirksomheder og inddragelse heraf, udveksling af oplysninger m.v.) indeholder følgende ikrafttrædelsesbestemmelser:
+Lov nr. 1549 af 20. december 2006 (Strafskærpelse, næringsbrev til fødevarevirksomheder og inddragelse heraf, udveksling af oplysninger m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
 
 § 4
 
@@ -22,7 +22,7 @@ Lov nr. 110 af 26. februar 2008 (Fødevarekontrol og sanktionsmuligheder m.v.) i
 
 Loven træder i kraft den 1. marts 2008.
 
-Lov nr. 538 af 17. juni 2008 (Friere sygehusvalg, kontaktpersoner på sygehusene, udvidet adgang til Medicinprofilen og nationalt forebyggelsesråd m.v.) indeholder følgende ikrafttrædelsesbestemmelser:
+Lov nr. 538 af 17. juni 2008 (Friere sygehusvalg, kontaktpersoner på sygehusene, udvidet adgang til Medicinprofilen og nationalt forebyggelsesråd m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
 
 § 4
 
@@ -34,7 +34,7 @@ Stk. 3. (Udelades)
 
 Stk. 4. (Udelades)
 
-Lov nr. 1336 af 19. december 2008 (Konsekvensændringer som følge af lov om inddrivelse af gæld til det offentlige) indeholder følgende ikrafttrædelsesbestemmelser:
+Lov nr. 1336 af 19. december 2008 (Konsekvensændringer som følge af lov om inddrivelse af gæld til det offentlige) indeholder følgende ikrafttrædelsesbestemmelse:
 
 § 167
 
@@ -79,3 +79,11 @@ Lov nr. 1459 af 17. december 2013 (Obligatorisk digital kommunikation, ændring 
 Stk. 1. Loven træder i kraft den 1. januar 2014.
 
 Stk. 2. Administrative forskrifter, der er udstedt i medfør af de hidtidige bestemmelser, vedbliver at være i kraft, indtil de ændres eller ophæves.
+
+Lov nr. 1882 af 29. december 2015 (Ændret finansiering af kontrolkampagner og kosttilskudskontrol og indførelse af mulighed for rekvireret vejledning) indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 2
+
+Stk. 1. Loven træder i kraft den 1. januar 2016.
+
+Stk. 2. § 1, nr. 2, har virkning fra den 1. januar 2015.
