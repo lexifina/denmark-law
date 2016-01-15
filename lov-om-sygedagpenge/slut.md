@@ -1,4 +1,4 @@
-Beskæftigelsesministeriet, den 12. august 2015
+Beskæftigelsesministeriet, den 13. januar 2016
 
 Jørn Neergaard Larsen
 
