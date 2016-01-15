@@ -1,4 +1,4 @@
-Lov nr. 1545 af 20. december 2006 (Ændring af regler om forlængelse af sygedagpengeperioden, sygedagpenge til delvis sygemeldte, udvidelse af arbejdsgiverperioden samt konsekvensændringer), indeholder følgende ikrafttrædelses- og overgangsbestemmelser:
+Lov nr. 1545 af 20. december 2006 (Ændring af regler om forlængelse af sygedagpengeperioden, sygedagpenge til delvis sygemeldte, udvidelse af arbejdsgiverperioden samt konsekvensændringer) indeholder følgende ikrafttrædelses- og overgangsbestemmelse:
 
 § 17
 
@@ -10,7 +10,7 @@ Stk. 3. § 1, nr. 4, træder i kraft den 2. april 2007 og finder anvendelse på 
 
 Stk. 4. § 1, nr. 6, træder i kraft den 2. april 2007 og finder anvendelse på personer, der modtager sygedagpenge den 2. april 2007 eller senere.
 
-Lov nr. 1587 af 20. december 2006 (Ændringer som følge af gradvis forhøjelse af efterløns- og folkepensionsalderen m.v.), indeholder følgende ikrafttrædelsesbestemmelser:
+Lov nr. 1587 af 20. december 2006 (Ændringer som følge af gradvis forhøjelse af efterløns- og folkepensionsalderen m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
 
 § 19
 
@@ -18,19 +18,19 @@ Stk. 1. Loven træder i kraft den 1. juli 2009, jf. dog stk. 2-7.
 
 Stk. 2-7. (Udelades)
 
-Lov nr. 523 af 6. juni 2007 (Ændringer som følge af en ny lov om forældelse af fordringer, ophævelse af købelovens reklamationsfrister ved visse køb m.v.), indeholder følgende ikrafttrædelsesbestemmelse:
+Lov nr. 523 af 6. juni 2007 (Ændringer som følge af en ny lov om forældelse af fordringer, ophævelse af købelovens reklamationsfrister ved visse køb m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
 
 § 47
 
 Loven træder i kraft den 1. januar 2008.
 
-Lov nr. 389 af 27. maj 2008 (Udvidelse af arbejdsgiverperioden), indeholder følgende ikrafttrædelsesbestemmelse:
+Lov nr. 389 af 27. maj 2008 (Udvidelse af arbejdsgiverperioden) indeholder følgende ikrafttrædelsesbestemmelse:
 
 § 2
 
 Loven træder i kraft den 2. juni 2008.
 
-Lov nr. 1336 af 19. december 2008 (Konsekvensændringer som følge af lov om inddrivelse af gæld til det offentlige), indeholder følgende ikrafttrædelsesbestemmelse:
+Lov nr. 1336 af 19. december 2008 (Konsekvensændringer som følge af lov om inddrivelse af gæld til det offentlige) indeholder følgende ikrafttrædelsesbestemmelse:
 
 § 167
 
@@ -38,17 +38,15 @@ Stk. 1. Loven træder i kraft den 1. januar 2009, jf. dog stk. 2. § 11 finder a
 
 Stk. 2. (Udelades)
 
-Lov nr. 283 af 15. april 2009 (digital indberetningsløsning til brug for anmeldelse af sygefravær samt anmodning om refusion af sygedagpenge og dagpenge efter barselloven), indeholder følgende ikrafttrædelsesbestemmelse:
+Lov nr. 283 af 15. april 2009 (digital indberetningsløsning til brug for anmeldelse af sygefravær samt anmodning om refusion af sygedagpenge og dagpenge efter barselloven) indeholder følgende ikrafttrædelsesbestemmelse:
 
 § 17
 
-Stk. 1. (Udelades)
-
-Stk. 2. (Udelades)
+Stk. 1-2. (Udelades)
 
 Stk. 3. Beskæftigelsesministeren fastsætter tidspunktet for ikrafttrædelse af lovens § 5 om arbejdsgiverens, den selvstændigt erhvervsdrivendes og arbejdsløshedskassens forpligtelser. Beskæftigelsesministeren fastsætter samtidig tidspunktet for ikrafttrædelse af lovens § 18.
 
-Lov nr. 480 af 12. juni 2009, som ændret ved lov nr. 50 af 25. januar 2012 (En styrket beskæftigelsesrettet indsats over for sygemeldte m.fl.), indeholder følgende ikrafttrædelses- og overgangsbestemmelser:
+Lov nr. 480 af 12. juni 2009 (En styrket beskæftigelsesrettet indsats over for sygemeldte m.fl.), som ændret ved lov nr. 50 af 25. januar 2012, indeholder følgende ikrafttrædelses- og overgangsbestemmelser:
 
 § 5
 
@@ -86,7 +84,7 @@ Stk. 9. § 31 i lov om sygedagpenge som affattet ved denne lovs § 1, nr. 17, fi
 
 Stk. 10. § 53, stk. 2, nr. 3, i lov om sygedagpenge som affattet ved denne lovs § 1, nr. 22, finder anvendelse på sygdomstilfælde, hvor arbejdsgiveren den 5. oktober 2009 eller senere oplyser, at virksomheden ikke kan tilbyde deltidsbeskæftigelse til en sygedagpengeberettiget lønmodtager.
 
-Lov nr. 483 af 12. juni 2009 (Etablering af et enstrenget kommunalt beskæftigelsessystem m.v.), indeholder følgende ikrafttrædelsesbestemmelse:
+Lov nr. 483 af 12. juni 2009 (Etablering af et enstrenget kommunalt beskæftigelsessystem m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
 
 § 21
 
@@ -94,7 +92,7 @@ Stk. 1. Loven træder i kraft den 1. august 2009, jf. dog stk. 2 og 3.
 
 Stk. 2-3. (Udelades)
 
-Lov nr. 247 af 23. marts 2010 (Ændring af reglerne om forlængelse af sygedagpengeperioden, sygedagpenge til selvstændige og ophævelse af bestemmelser om indbetaling til Særlig Pensionsopsparing (SP) m.v.), indeholder følgende ikrafttrædelses- og overgangsbestemmelser:
+Lov nr. 247 af 23. marts 2010 (Ændring af reglerne om forlængelse af sygedagpengeperioden, sygedagpenge til selvstændige og ophævelse af bestemmelser om indbetaling til Særlig Pensionsopsparing (SP) m.v.) indeholder følgende ikrafttrædelses- og overgangsbestemmelser:
 
 § 5
 
@@ -112,13 +110,13 @@ Stk. 2. § 53, stk. 3, i lov om sygedagpenge som affattet ved denne lovs § 1, n
 
 Stk. 3. § 65, stk. 1, i lov om sygedagpenge som affattet ved denne lovs § 1, nr. 10, § 44, stk. 1, i lov om ret til orlov og dagpenge ved barsel (barselloven) som affattet ved denne lovs § 2, nr. 1, og § 79, stk. 1, i lov om aktiv socialpolitik som affattet ved denne lovs § 3, nr. 2, har virkning for bidrag, der forfalder til indbetaling den 1. maj 2010 eller senere.
 
-Lov nr. 701 af 25. juni 2010 (Partshøring, ændring af tilbagebetalingsregler m.v.), indeholder følgende ikrafttrædelsesbestemmelse:
+Lov nr. 701 af 25. juni 2010 (Partshøring, ændring af tilbagebetalingsregler m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
 
 § 3
 
 Loven træder i kraft den 1. juli 2010.
 
-Lov nr. 1539 af 21. december 2010 (Ændring af beskæftigelseskravet, afskaffelse af ret til sygedagpenge på søgnehelligdage m.v.), indeholder følgende ikrafttrædelses- og overgangsbestemmelser:
+Lov nr. 1539 af 21. december 2010 (Ændring af beskæftigelseskravet, afskaffelse af ret til sygedagpenge på søgnehelligdage m.v.) indeholder følgende ikrafttrædelses- og overgangsbestemmelser:
 
 § 2
 
@@ -132,7 +130,7 @@ Stk. 1. § 32, stk. 1, nr. 1, og § 32, stk. 2, i lov om sygedagpenge som ændre
 
 Stk. 2. Uanset § 24, stk. 3, i lov om sygedagpenge medregnes søgnehelligdage, der ligger før den 2. juli 2012, ved opgørelsen af sygedagpengeperioden efter § 24, stk. 1, eller § 25, stk. 1, i lov om sygedagpenge.
 
-Lov nr. 1598 af 22. december 2010 (Ændring af refusionssatser), indeholder følgende ikrafttrædelsesbestemmelse:
+Lov nr. 1598 af 22. december 2010 (Ændring af refusionssatser) indeholder følgende ikrafttrædelsesbestemmelse:
 
 § 2
 
@@ -140,7 +138,7 @@ Stk. 1. Loven træder i kraft den 1. januar 2011.
 
 Stk. 2. Loven har virkning for udgifter til ydelser, der vedrører perioder efter lovens ikrafttræden.
 
-Lov nr. 1599 af 22. december 2010 (Udvidelse af arbejdsgiverperioden), indeholder følgende ikrafttrædelses- og overgangsbestemmelser:
+Lov nr. 1599 af 22. december 2010 (Udvidelse af arbejdsgiverperioden) indeholder følgende ikrafttrædelses- og overgangsbestemmelser:
 
 § 2
 
@@ -152,19 +150,19 @@ Stk. 1. Loven finder anvendelse på sygdomstilfælde, hvor 1. fraværsdag er den
 
 Stk. 2. Uanset § 24, stk. 2, nr. 1 og 2, i lov om sygedagpenge som affattet ved denne lovs § 1, nr. 1, skal der ved beregningen af sygedagpengeperioden efter § 24, stk. 1, eller § 25, stk. 1, i lov om sygedagpenge, ikke medregnes de dage, der ligger før den 2. januar 2012, og for hvilke der er udbetalt sygedagpenge eller løn fra arbejdsgiveren i de første 21 kalenderdage af sygefraværsperioden eller udbetalt sygedagpenge fra kommunen i de første 21 kalenderdage af sygefraværsperioden for lønmodtagere.
 
-Lov nr. 279 af 6. april 2011 (Større fleksibilitet i opfølgning og indsats over for sygedagpengemodtagere), indeholder følgende ikrafttrædelsesbestemmelse:
+Lov nr. 279 af 6. april 2011 (Større fleksibilitet i opfølgning og indsats over for sygedagpengemodtagere) indeholder følgende ikrafttrædelsesbestemmelse:
 
 § 2
 
 Loven træder i kraft den 1. maj 2011.
 
-Lov nr. 460 af 18. maj 2011 (Ændring af dispensationsbestemmelserne ved anmeldelse af sygefravær og anmodning om sygedagpengerefusion m.v.), indeholder følgende ikrafttrædelsesbestemmelse:
+Lov nr. 460 af 18. maj 2011 (Ændring af dispensationsbestemmelserne ved anmeldelse af sygefravær og anmodning om sygedagpengerefusion m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
 
 § 2
 
 Loven træder i kraft den 1. juli 2011.
 
-Lov nr. 600 af 14. juni 2011 (Skærpet kontrol med udbetaling af offentlige forsørgelsesydelser, sanktioner for uberettiget modtagelse af ydelser under ophold i udlandet m.v.), indeholder følgende ikrafttrædelsesbestemmelse:
+Lov nr. 600 af 14. juni 2011 (Skærpet kontrol med udbetaling af offentlige forsørgelsesydelser, sanktioner for uberettiget modtagelse af ydelser under ophold i udlandet m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
 
 § 8
 
@@ -172,7 +170,7 @@ Stk. 1. Loven træder i kraft den 1. juli 2011.
 
 Stk. 2. (Udelades)
 
-Lov nr. 154 af 28. februar 2012 (Forenkling af indsatsen for syge- og barseldagpengemodtagere, aftale om ret til sygedagpenge fra 1. fraværsdag for selvstændige erhvervsdrivende ved langvarig eller kronisk lidelse m.v.), indeholder følgende ikrafttrædelses- og overgangsbestemmelser:
+Lov nr. 154 af 28. februar 2012 (Forenkling af indsatsen for syge- og barseldagpengemodtagere, aftale om ret til sygedagpenge fra 1. fraværsdag for selvstændige erhvervsdrivende ved langvarig eller kronisk lidelse m.v.) indeholder følgende ikrafttrædelses- og overgangsbestemmelser:
 
 § 3
 
@@ -186,7 +184,7 @@ Stk. 2. § 1, nr. 6, finder anvendelse på sygedagpengemodtagere med en ret til 
 
 Stk. 3. § 1, nr. 8, finder anvendelse på sager om sygedagpenge, hvor 1. fraværsdag er den 5. marts 2012 eller senere.
 
-Lov nr. 269 af 27. marts 2012 (Ændring af frister for anmeldelse af sygefravær og anmodning om sygedagpenge m.v. for bedre at udnytte den digitale indberetningsløsning (SDPI-løsningen)), indeholder følgende ikrafttrædelses- og overgangsbestemmelser:
+Lov nr. 269 af 27. marts 2012 (Ændring af frister for anmeldelse af sygefravær og anmodning om sygedagpenge m.v. for bedre at udnytte den digitale indberetningsløsning (SDPI-løsningen)) indeholder følgende ikrafttrædelses- og overgangsbestemmelser:
 
 § 2
 
@@ -226,7 +224,7 @@ Lov nr. 476 af 30. maj 2012 (Mindre intensiv indsats, udvidelse af Beskæftigels
 
 Loven træder i kraft den 1. juni 2012.
 
-Lov nr. 928 af 18. september 2012 (Ændret regulering af forskellige indkomstoverførsler i årene 2016-2023 samt forhøjelse af den supplerende pensionsydelse og pensionstillæg til folkepensionister), indeholder følgende ikrafttrædelsesbestemmelse:
+Lov nr. 928 af 18. september 2012 (Ændret regulering af forskellige indkomstoverførsler i årene 2016-2023 samt forhøjelse af den supplerende pensionsydelse og pensionstillæg til folkepensionister) indeholder følgende ikrafttrædelsesbestemmelse:
 
 § 9
 
@@ -234,13 +232,13 @@ Stk. 1. Loven træder i kraft den 1. januar 2013.
 
 Stk. 2. (Udelades)
 
-Lov nr. 1378 af 23. december 2012 (Forhøjelse af virksomhedernes finansieringsbidrag ved forsikringsordningen for mindre, private arbejdsgivere), indeholder følgende ikrafttrædelsesbestemmelse:
+Lov nr. 1378 af 23. december 2012 (Forhøjelse af virksomhedernes finansieringsbidrag ved forsikringsordningen for mindre, private arbejdsgivere) indeholder følgende ikrafttrædelsesbestemmelse:
 
 § 2
 
 Loven træder i kraft den 1. januar 2013.
 
-Lov nr. 1380 af 23. december 2012 (Reform af førtidspension og fleksjob, herunder indførelse af ressourceforløb, rehabiliteringsteam, fleksløntilskud m.v.), indeholder følgende ikrafttrædelsesbestemmelse:
+Lov nr. 1380 af 23. december 2012 (Reform af førtidspension og fleksjob, herunder indførelse af ressourceforløb, rehabiliteringsteam, fleksløntilskud m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
 
 § 21
 
@@ -248,13 +246,13 @@ Stk. 1. Loven træder i kraft den 1. januar 2013, jf. dog stk. 2-6 og 8.
 
 Stk. 2. (Udelades)
 
-Lov nr. 357 af 9. april 2013 (Digital kommunikation om tilskudsordninger m.v.), indeholder følgende ikrafttrædelsesbestemmelse:
+Lov nr. 357 af 9. april 2013 (Digital kommunikation om tilskudsordninger m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
 
 § 5
 
 Loven træder i kraft den 15. april 2013.
 
-Lov nr. 493 af 21. maj 2013 (Forenkling af klagestrukturen på det sociale og beskæftigelsesmæssige område), indeholder følgende ikrafttrædelses- og overgangsbestemmelse:
+Lov nr. 493 af 21. maj 2013 (Forenkling af klagestrukturen på det sociale og beskæftigelsesmæssige område) indeholder følgende ikrafttrædelses- og overgangsbestemmelser:
 
 § 25
 
@@ -268,7 +266,7 @@ Stk. 2. I sager, hvor Ankestyrelsen inden lovens ikrafttræden har modtaget en a
 
 Stk. 3. Sager, som Ankestyrelsen inden lovens ikrafttræden har optaget til behandling efter § 59 a, stk. 2, eller § 63 i lov om retssikkerhed og administration på det sociale område, og hvori der endnu ikke er truffet afgørelse ved denne lovs ikrafttræden, behandles af Ankestyrelsen eller Ankestyrelsens Beskæftigelsesudvalg efter kapitel 9, 9 a og 10 i lov om retssikkerhed og administration på det sociale område, som ændret ved denne lovs § 1.
 
-Lov nr. 1610 af 26. december 2013 (Midlertidig arbejdsmarkedsydelse, indsatsen for modtagere af midlertidig arbejdsmarkedsydelse, sikring af ret til syge- og barseldagpenge, målretning af danskuddannelsestilbud m.v.), indeholder følgende ikrafttrædelsesbestemmelse:
+Lov nr. 1610 af 26. december 2013 (Midlertidig arbejdsmarkedsydelse, indsatsen for modtagere af midlertidig arbejdsmarkedsydelse, sikring af ret til syge- og barseldagpenge, målretning af danskuddannelsestilbud m.v.) indeholder følgende ikrafttrædelses- og overgangsbestemmelse:
 
 § 14
 
@@ -278,13 +276,13 @@ Stk. 2. § 2 træder i kraft den 1. januar 2014.
 
 Stk. 3. § 2, stk. 1, i lov om danskuddannelse til voksne udlændinge m.fl., som affattet ved denne lovs § 5, nr. 1, finder ikke anvendelse for udlændinge, som er henvist til danskuddannelse før lovens ikrafttræden. For sådanne udlændinge gælder de hidtidige regler.
 
-Lov nr. 1611 af 26. december 2013 (Ophævelse af refusionsbestemmelse ved manglende opfølgning), indeholder følgende ikrafttrædelsesbestemmelse:
+Lov nr. 1611 af 26. december 2013 (Ophævelse af refusionsbestemmelse ved manglende opfølgning) indeholder følgende ikrafttrædelsesbestemmelse:
 
 § 2
 
 Loven træder i kraft den 1. januar 2014.
 
-Lov nr. 720 af 25. juni 2014 (Ny sygedagpengemodel med tidlig opfølgning og indsats, jobafklaringsforløb, arbejdsløshedsdagpenge under sygdom m.v.), indeholder følgende ikrafttrædelses- og overgangsbestemmelser:
+Lov nr. 720 af 25. juni 2014 (Ny sygedagpengemodel med tidlig opfølgning og indsats, jobafklaringsforløb, arbejdsløshedsdagpenge under sygdom m.v.) indeholder følgende ikrafttrædelses- og overgangsbestemmelser:
 
 § 12
 
@@ -318,7 +316,7 @@ Stk. 3. § 20, stk. 1, nr. 4, træder i kraft den 1. juli 2015.
 
 Stk. 4. Lov om ansvaret for og styringen af den aktive beskæftigelsesindsats, jf. lovbekendtgørelse nr. 1177 af 5. november 2014, ophæves.
 
-Lov nr. 1486 af 23. december 2014 (Reform af beskæftigelsesindsatsen, et fælles og intensiveret kontaktforløb, uddannelsesløft, styrket rådighed og målretning af virksomhedsrettede tilbud m.v.) indeholder følgende ikrafttrædelsesbestemmelse m.v.:
+Lov nr. 1486 af 23. december 2014 (Reform af beskæftigelsesindsatsen, et fælles og intensiveret kontaktforløb, uddannelsesløft, styrket rådighed og målretning af virksomhedsrettede tilbud m.v.) indeholder følgende ikrafttrædelses- og overgangsbestemmelser:
 
 § 9
 
@@ -345,3 +343,35 @@ Lov nr. 742 af 1. juni 2015 (Overgang til obligatorisk digital selvbetjening, fo
 Stk. 1. Loven træder i kraft den 1. december 2015.
 
 Stk. 2. Loven finder alene anvendelse for ansøgninger, anmodninger, meddelelser og klager m.v., der indgives efter lovens ikrafttræden.
+
+Lov nr. 994 af 30. august 2015 om kommunernes finansiering af visse offentlige ydelser udbetalt af kommunerne, Udbetaling Danmark og arbejdsløshedskasserne indeholder følgende ikrafttrædelses- og overgangsbestemmelse:
+
+§ 29. Loven træder i kraft den 4. januar 2016, jf. dog stk. 2.
+
+Stk. 2. Beskæftigelsesministeren fastsætter tidspunktet for ikrafttræden af §§ 8, 11-14, 16, 18 og 19. Beskæftigelsesministeren kan i den forbindelse fastsætte regler om overgang fra opgørelse efter §§ 27 og 28 til opgørelse i Ydelsesrefusion.
+
+Stk. 3. Loven har tillige virkning for kommunernes refusion af udgifter til ydelser efter § 3, stk. 1, nr. 7, der vedrører perioden fra og med den 28. december 2015 til og med den 3. januar 2016, og refusion og medfinansiering af udgifter til ydelser efter § 3, stk. 1, nr. 4-6 og 8-13, der vedrører perioden fra og med den 1. januar 2016 til og med den 3. januar 2016. Kommunernes udgifter til ydelserne refunderes eller medfinansieres med den procentsats efter § 5, som gælder for perioden fra og med den 4. januar 2016 til og med den 10. januar 2016.
+
+Lov nr. 1569 af 15. december 2015 (Ændring af investeringsregler som følge af solvens II, undtagelse af investeringsdel fra lov om offentlighed i forvaltningen, fritagelse for betaling af finansieringsbidrag m.v.) indeholder følgende ikrafttrædelses- og overgangsbestemmelser:
+
+§ 9
+
+Stk. 1. Loven træder i kraft den 1. juli 2016, jf. dog stk. 2.
+
+Stk. 2. § 1, nr. 15, og § 2, nr. 2 og 14, træder i kraft den 1. januar 2016.
+
+§ 10
+
+Stk. 1. §§ 4-8 har virkning for pligt til betaling af finansieringsbidrag, der er indtrådt den 1. juli 2014 eller senere.
+
+Stk. 2. Det er en betingelse for, at der kan gives fritagelse for pligt til at betale finansieringsbidrag, jf. §§ 4-8, for perioden fra den 1. juli 2014 til og med den 30. juni 2016, at der er indgivet ansøgning herom til Arbejdsmarkedets Tillægspension inden den 30. september 2016. Indbetalte bidrag tilbagebetales med det indbetalte beløb.
+
+Lov nr. 1868 af 29. december 2015 (Midlertidig periode med ret til sygedagpenge ved livstruende, alvorlig sygdom m.v.) indeholder følgende ikrafttrædelses- og overgangsbestemmelser:
+
+§ 6
+
+Loven træder i kraft den 1. januar 2016.
+
+§ 7
+
+§ 24 b, stk. 1, i lov om sygedagpenge som affattet ved denne lovs § 1, nr. 6, finder anvendelse for en person i et jobafklaringsforløb, som før den 1. januar 2016 af en læge har fået konstateret en livstruende, alvorlig sygdom, hvis personen den 1. januar 2016 opfylder beskæftigelseskravet for ret til sygedagpenge fra kommunen, jf. §§ 32, 34 eller 42 i lov om sygedagpenge, og af en læge vurderes fortsat at have en livstruende, alvorlig sygdom. Personen skal anmode om sygedagpenge senest den 1. marts 2016 for at overgå til at modtage sygedagpenge med virkning fra den 1. januar 2016.
