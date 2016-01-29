@@ -1,7 +1,5 @@
-Givet på Marselisborg Slot, den 27. december 2009
+Skatteministeriet, den 22. januar 2016
 
-Under Vor Kongelige Hånd og Segl
+P.M.V. Jens Brøchner
 
-MARGRETHE R.
-
-/ Brian Mikkelsen
+/ Jeanette Rose Hansen
