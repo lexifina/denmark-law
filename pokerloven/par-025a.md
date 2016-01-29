@@ -1,0 +1,1 @@
+§ 25 a. Klager over afgørelser truffet af tilsynsmyndigheden afgøres af Landsskatteretten, medmindre andet følger af regler udstedt i medfør af skatteforvaltningslovens § 35 b, stk. 3. Klager efter 1. pkt. har ikke opsættende virkning.
