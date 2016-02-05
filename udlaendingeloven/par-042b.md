@@ -2,21 +2,21 @@
 
 Stk. 2. Grundydelsen udgør pr. dag
 
-1) 32,23 kr. for udlændinge, der samlever i ægteskab eller samlivsforhold,
+1) 39,05 kr. for udlændinge, der samlever i ægteskab eller samlivsforhold,
 
-2) 40,71 kr. for udlændinge over 18 år, der ikke samlever i ægteskab eller samlivsforhold,
+2) 49,32 kr. for udlændinge over 18 år, der ikke samlever i ægteskab eller samlivsforhold,
 
-3) 40,71 kr. for uledsagede udlændinge under 18 år og
+3) 49,32 kr. for uledsagede udlændinge under 18 år og
 
-4) 40,71 kr. for udlændinge under 18 år, som uden for de i nr. 1 nævnte tilfælde ikke betragtes som hørende til en af eller begge sine forældres familie, jf. stk. 3, 7. og 8. pkt.
+4) 49,32 kr. for udlændinge under 18 år, som uden for de i nr. 1 nævnte tilfælde ikke betragtes som hørende til en af eller begge sine forældres familie, jf. stk. 3, 7. og 8. pkt.
 
 Stk. 3. En udlænding, der modtager grundydelse, jf. stk. 1, får udbetalt et forsørgertillæg, hvis udlændingen har forsørgelsespligt over for et barn under 18 år. Tilsvarende gælder for en udlænding, som ikke modtager grundydelse, fordi den pågældende er indkvarteret på et indkvarteringssted, hvor der er en vederlagsfri bespisningsordning, jf. stk. 1, jf. dog stk. 12. Der kan kun udbetales ét forsørgertillæg pr. barn. Der kan højst udbetales to forsørgertillæg pr. familie. Har udlændingen forsørgelsespligt over for mere end to børn under 18 år, får udlændingen udbetalt et nedsat forsørgertillæg pr. barn ud over to børn, jf. dog stk. 12. 3. og 4. pkt. finder tilsvarende anvendelse. Til en familie medregnes udlændingen, dennes ægtefælle eller samlever og dennes eller ægtefællens eller samleverens børn under 18 år. Bor et barn under 18 år ikke sammen med en af eller begge sine forældre, samlever barnet i ægteskab eller samlivsforhold, eller har barnet selv forsørgelsespligt over for et barn under 18 år, betragtes det ikke som hørende til en af eller begge sine forældres familie.
 
-Stk. 4. Forsørgertillægget udgør pr. dag 64,46 kr. for udlændinge, der modtager grundydelse, jf. dog stk. 5, og 23,75 kr. for udlændinge, der ikke modtager grundydelse, fordi de pågældende er indkvarteret på et indkvarteringssted, hvor der er en vederlagsfri bespisningsordning, jf. dog stk. 5.
+Stk. 4. Forsørgertillægget udgør pr. dag 78,09 kr. for udlændinge, der modtager grundydelse, jf. dog stk. 5, og 28,78 kr. for udlændinge, der ikke modtager grundydelse, fordi de pågældende er indkvarteret på et indkvarteringssted, hvor der er en vederlagsfri bespisningsordning, jf. dog stk. 5.
 
-Stk. 5. Er udlændingen ikke registreret som asylansøger efter § 48 e, stk. 2, udgør forsørgertillægget pr. dag 47,50 kr. for udlændinge, der modtager grundydelse, og 6,79 kr. for udlændinge, der ikke modtager grundydelse, fordi de pågældende er indkvarteret på et indkvarteringssted, hvor der er en vederlagsfri bespisningsordning.
+Stk. 5. Er udlændingen ikke registreret som asylansøger efter § 48 e, stk. 2, udgør forsørgertillægget pr. dag 57,55 kr. for udlændinge, der modtager grundydelse, og 8,23 kr. for udlændinge, der ikke modtager grundydelse, fordi de pågældende er indkvarteret på et indkvarteringssted, hvor der er en vederlagsfri bespisningsordning.
 
-Stk. 6. Nedsat forsørgertillæg udgør pr. dag 33,93 kr. Nedsat forsørgertillæg udbetales ikke til udlændinge, der ikke modtager grundydelse, fordi de pågældende er indkvarteret på et indkvarteringssted, hvor der er en vederlagsfri bespisningsordning.
+Stk. 6. Nedsat forsørgertillæg udgør pr. dag 41,11 kr. Nedsat forsørgertillæg udbetales ikke til udlændinge, der ikke modtager grundydelse, fordi de pågældende er indkvarteret på et indkvarteringssted, hvor der er en vederlagsfri bespisningsordning.
 
 Stk. 7. Det er en betingelse for udbetaling af forsørgertillæg og nedsat forsørgertillæg, at det barn, som udlændingen har forsørgelsespligt over for, betragtes som hørende til udlændingens familie, jf. stk. 3, 7. og 8. pkt. Bor barnet sammen med begge forældre, udbetales forsørgertillæg og nedsat forsørgertillæg til barnets moder. Forsørgertillæg og nedsat forsørgertillæg forudbetales hver 14. dag. Udlændingestyrelsen bestemmer ud fra status i udlændingens sag på en given skæringsdato umiddelbart forud for udbetalingsdatoen, hvorvidt og efter hvilken sats udlændingen får udbetalt forsørgertillæg eller nedsat forsørgertillæg, jf. 1. og 2. pkt. og stk. 3-6. Forsørgertillæg og nedsat forsørgertillæg reguleres ikke som følge af ændringer i udlændingens sagsstatus, der indtræder efter skæringsdatoen. Tillægget kan, hvis særlige grunde taler derfor, udbetales for kortere perioder ad gangen.
 
@@ -24,13 +24,13 @@ Stk. 8. En udlænding over 18 år, der får udgifterne til underhold og nødvend
 
 Stk. 9. Får en uledsaget udlænding under 18 år eller en udlænding under 18 år, som ikke betragtes som hørende til en af eller begge sine forældres familie, jf. stk. 3, 7. og 8. pkt., udgifterne til underhold og nødvendige sundhedsmæssige ydelser dækket af Udlændingestyrelsen efter § 42 a, stk. 1 eller 2, får udlændingen udbetalt en tillægsydelse, jf. dog stk. 12. Stk. 8, 2.-6. pkt., finder tilsvarende anvendelse.
 
-Stk. 10. Tillægsydelsen udgør pr. dag 23,75 kr. Er udlændingen ikke registreret som asylansøger efter § 48 e, stk. 2, udgør tillægsydelsen pr. dag 6,79 kr.
+Stk. 10. Tillægsydelsen udgør pr. dag 28,78 kr. Er udlændingen ikke registreret som asylansøger efter § 48 e, stk. 2, udgør tillægsydelsen pr. dag 8,23 kr.
 
 Stk. 11. Indkvarteringsoperatøren, jf. § 42 a, stk. 5, 2. pkt., udbetaler ydelser, jf. stk. 1, 3, 8 og 9, jf. dog stk. 12. Indkvarteringsoperatøren skal, medmindre særlige grunde taler derimod, beslutte, at tillægsydelse efter stk. 8 ikke udbetales, hvis udlændingen ikke har overholdt sin kontrakt, jf. § 42 c. Har en udlænding ikke overholdt sin kontrakt en eller flere dage i den periode, der ligger til grund for beregningen af tillægsydelsen, jf. stk. 8, 2. og 6. pkt., udbetales der, medmindre særlige grunde taler derimod, ikke tillægsydelse for det antal dage, hvor udlændingen ikke har overholdt sin kontrakt. Har en udlænding overholdt sin kontrakt i mindre end halvdelen af den periode, der ligger til grund for beregningen af tillægsydelsen, jf. stk. 8, 2. og 6. pkt., udbetales tillægsydelsen ikke, medmindre særlige grunde taler derimod.
 
-Stk. 12. En udlænding, der får udgifterne til underhold og nødvendige sundhedsmæssige ydelser dækket af Udlændingestyrelsen efter § 42 a, stk. 1 eller 2, og som er indkvarteret på et indkvarteringssted, jf. § 42 a, stk. 5, hvor der er en vederlagsfri bespisningsordning, får ikke udbetalt kontante ydelser, jf. stk. 1, 3, 8 og 9, såfremt udlændingens ansøgning om opholdstilladelse efter § 7 som følge af udlændingens nationalitet, og fordi der ikke er generelle udsendelseshindringer til udlændingens hjemland, er udtaget til behandling efter den i § 53 b, stk. 1, nævnte procedure. Er en udlænding som nævnt i 1. pkt. indkvarteret på et indkvarteringssted, jf. § 42 a, stk. 5, uden en vederlagsfri bespisningsordning, får den pågældende udbetalt grundydelse, jf. stk. 1 og 2, forsørgertillæg, jf. stk. 3 og 7, og nedsat forsørgertillæg, jf. stk. 3, 6 og 7. For udlændinge omfattet af 2. pkt. udgør forsørgertillægget pr. dag 40,71 kr.
+Stk. 12. En udlænding, der får udgifterne til underhold og nødvendige sundhedsmæssige ydelser dækket af Udlændingestyrelsen efter § 42 a, stk. 1 eller 2, og som er indkvarteret på et indkvarteringssted, jf. § 42 a, stk. 5, hvor der er en vederlagsfri bespisningsordning, får ikke udbetalt kontante ydelser, jf. stk. 1, 3, 8 og 9, såfremt udlændingens ansøgning om opholdstilladelse efter § 7 som følge af udlændingens nationalitet, og fordi der ikke er generelle udsendelseshindringer til udlændingens hjemland, er udtaget til behandling efter den i § 53 b, stk. 1, nævnte procedure. Er en udlænding som nævnt i 1. pkt. indkvarteret på et indkvarteringssted, jf. § 42 a, stk. 5, uden en vederlagsfri bespisningsordning, får den pågældende udbetalt grundydelse, jf. stk. 1 og 2, forsørgertillæg, jf. stk. 3 og 7, og nedsat forsørgertillæg, jf. stk. 3, 6 og 7. For udlændinge omfattet af 2. pkt. udgør forsørgertillægget pr. dag 49,32 kr.
 
-Stk. 13. En udlænding, der får udgifterne til underhold og nødvendige sundhedsmæssige ydelser dækket af Udlændingestyrelsen efter § 42 a, stk. 1 eller 2, kan få udleveret naturalieydelser, herunder i form af tøj- og hygiejnepakker, såfremt den pågældende har særligt behov herfor. Justitsministeren fastsætter nærmere regler om adgangen til samt indholdet og omfanget af naturalieydelser.
+Stk. 13. En udlænding, der får udgifterne til underhold og nødvendige sundhedsmæssige ydelser dækket af Udlændingestyrelsen efter § 42 a, stk. 1 eller 2, kan få udleveret naturalieydelser, herunder i form af tøj- og hygiejnepakker, såfremt den pågældende har særligt behov herfor. Udlændinge-, integrations- og boligministeren fastsætter nærmere regler om adgangen til samt indholdet og omfanget af naturalieydelser.
 
 Stk. 14. Hvis en udlænding, som har indgivet ansøgning om opholdstilladelse i medfør af § 7, oppebærer lønindkomst fra beskæftigelse eller lønnet praktik omfattet af § 14 a eller § 42 g, stk. 2, fradrages denne i kontante ydelser, der udbetales efter reglerne i stk. 1-13.
 
@@ -38,4 +38,4 @@ Stk. 15. Stk. 1-13 finder ikke anvendelse for en udlænding, der er flyttet i eg
 
 Stk. 16. Udlændingestyrelsen fastsætter de nærmere regler for fradrag, jf. stk. 14.
 
-Stk. 17. De i stk. 2, 4-6, 10 og 12 angivne beløb er fastsat i 2003-beløb og reguleres fra og med 2004 én gang årligt den 1. januar efter satsreguleringsprocenten, jf. lov om en satsreguleringsprocent.
+Stk. 17. De i stk. 2, 4-6, 10 og 12 angivne beløb er fastsat i 2016-beløb og reguleres fra og med 2017 én gang årligt den 1. januar efter satsreguleringsprocenten, jf. lov om en satsreguleringsprocent.
