@@ -32,6 +32,6 @@ Stk. 6. Hjælpen efter stk. 2 udgør 3.000 kr. pr. person over 18 år og 1.500 k
 
 Stk. 7. En udlænding kan kun modtage hjælp efter stk. 1 og 2 én gang.
 
-Stk. 8. Udlændinge, der har fået endeligt afslag på opholdstilladelse i medfør af § 7, og for hvem der er fastsat en udrejsefrist i henhold til § 33, stk. 2, tilbydes uvildig rådgivning om mulighederne for hjemrejse, herunder om mulighederne for støtte efter stk. 2 til genetablering i det land, hvortil udlændingen udrejser. Justitsministeren kan træffe bestemmelse om, at den uvildige rådgivning skal varetages af en eller flere private organisationer.
+Stk. 8. Udlændinge, der har fået endeligt afslag på opholdstilladelse i medfør af § 7, og for hvem der er fastsat en udrejsefrist i henhold til § 33, stk. 2, tilbydes uvildig rådgivning om mulighederne for hjemrejse, herunder om mulighederne for støtte efter stk. 2 til genetablering i det land, hvortil udlændingen udrejser. Udlændinge-, integrations- og boligministeren kan træffe bestemmelse om, at den uvildige rådgivning skal varetages af en eller flere private organisationer.
 
 Stk. 9. Det i stk. 5, nr. 3, angivne beløb er fastsat i 1995-niveau og reguleres fra og med 1996 én gang årligt den 1. januar efter satsreguleringsprocenten, jf. lov om en satsreguleringsprocent. Det i stk. 6 angivne beløb er fastsat i 2003-niveau og reguleres fra og med 2004 én gang årligt den 1. januar efter satsreguleringsprocenten, jf. lov om en satsreguleringsprocent.
