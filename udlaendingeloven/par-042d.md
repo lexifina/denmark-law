@@ -2,4 +2,4 @@
 
 Stk. 2. Udlændingestyrelsen eller indkvarteringsoperatøren, jf. § 42 a, stk. 5, 2. pkt., kan meddele en udlænding pålæg om at udføre de i stk. 1 nævnte opgaver. Udlændingestyrelsen kan bestemme, at en udlænding, der tilsidesætter et meddelt pålæg, skal tage ophold efter Udlændingestyrelsens nærmere bestemmelse.
 
-Stk. 3. Justitsministeren fastsætter nærmere regler om udførelsen af de i stk. 1 nævnte opgaver.
+Stk. 3. Udlændinge-, integrations- og boligministeren fastsætter nærmere regler om udførelsen af de i stk. 1 nævnte opgaver.
