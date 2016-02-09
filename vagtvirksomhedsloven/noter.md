@@ -5,3 +5,9 @@
 3) Ændringslovens § 21 vedrører § 12 a, stk. 2.
 
 4) Ændringslovens § 2 vedrører § 4, stk. 1, 3. pkt.
+
+5) Ændringslovens § 14 vedrører § 3, stk. 1, nr. 4, og § 17, stk. 2, 1. pkt.
+
+6) Loven trådte efter justitsministerens bestemmelse i kraft den 1. april 2011, jf. bekendtgørelse nr. 208 af 15. marts 2011.
+
+7) Ændringslovens § 7 vedrører § 13, stk. 1.
