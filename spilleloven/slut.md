@@ -1,7 +1,5 @@
-Givet i København, den 1. juli 2010
+Skatteministeriet, den 22. januar 2016
 
-Under Vor Kongelige Hånd og Segl
+P.M.V. Jens Brøchner
 
-MARGRETHE R.
-
-/ Troels Lund Poulsen
+/ Jeanette Rose Hansen
