@@ -1,4 +1,4 @@
-§ 8 V. Ved opgørelsen af den skattepligtige indkomst kan fradrages udgifter, der er betalt og dokumenteret, til arbejdsløn til hjælp og istandsættelse i hjemmet eller i en fritidsbolig, jf. stk. 2-9. Installation, reparation eller udskiftning af biokedelanlæg og husstandsvindmøller anses som istandsættelse i hjemmet eller i en fritidsbolig. Installation, reparation eller udskiftning af oliefyr anses ikke som istandsættelse i hjemmet eller i en fritidsbolig.
+§ 8 V. Ved opgørelsen af den skattepligtige indkomst kan fradrages udgifter, der er betalt og dokumenteret, til arbejdsløn for serviceydelser, grøn istandsættelse og tilslutning til bredbånd i hjemmet eller i en fritidsbolig, jf. stk. 2-9 og bilag 1.
 
 Stk. 2. Fradraget er betinget af,
 
@@ -10,15 +10,15 @@ Stk. 2. Fradraget er betinget af,
 
 4) at den skattepligtige foretager indberetning af det fradragsberettigede beløb til skattemyndighederne med angivelse af, hvem der har udført arbejdet, og
 
-5) at arbejdet vedrørende en helårsbolig er udført i perioden fra og med den 1. juni 2011 til og med den 31. december 2015, og at arbejdet vedrørende en fritidsbolig er udført i perioden fra og med den 22. april 2013 til og med den 31. december 2015.
+5) at arbejdet er udført i perioden fra og med den 1. januar 2016 til og med den 31. december 2017.
 
 Stk. 3. For arbejde vedrørende en fritidsbolig finder stk. 1, 2 og 4-9 tilsvarende anvendelse for ægtefællen til ejeren af en fritidsbolig, jf. stk. 2, nr. 2, under forudsætning af at ægtefællerne var gift og samlevende på det tidspunkt, hvor det fradragsberettigede arbejde blev udført.
 
-Stk. 4. Fradraget henføres til det indkomstår, hvor betalingen for arbejdet er sket. Fradraget henføres dog til det indkomstår, hvor arbejdet er udført, hvis betaling for arbejdet er sket inden for 2 måneder efter indkomstårets udløb. Der kan ikke foretages fradrag for arbejde, der betales den 1. marts 2016 eller senere.
+Stk. 4. Fradraget henføres til det indkomstår, hvor betalingen for arbejdet er sket. Fradraget henføres dog til det indkomstår, hvor arbejdet er udført, hvis betaling for arbejdet er sket inden for 2 måneder efter indkomstårets udløb. Der kan ikke foretages fradrag for arbejde, der betales den 1. marts 2018 eller senere. For arbejde udført i 2016, som betales fra og med den 1. januar 2018 til og med den 28. februar 2018, henføres fradraget til indkomståret 2017 for personer, hvis indkomstår følger kalenderåret.
 
-Stk. 5. De fradragsberettigede udgifter kan årligt højst udgøre 15.000 kr. pr. person.
+Stk. 5. De fradragsberettigede udgifter til serviceydelser kan årligt højst udgøre 6.000 kr. pr. person, og de samlede fradragsberettigede udgifter til grøn istandsættelse og tilslutning til bredbånd kan højst udgøre 12.000 kr. pr. person.
 
-Stk. 6. Der kan ikke foretages fradrag for udgifter til arbejde, som der er ydet tilskud til efter andre offentlige støtteordninger, herunder efter reglerne i lov om hjemmeservice. Tilsvarende gælder udgifter til børnepasning, der er skattefritaget hos modtageren efter § 7 Æ, og udgifter, som er fradraget ved opgørelsen af den skattepligtige indkomst efter andre regler i skattelovgivningen. Ejeren af en fritidsbolig, jf. stk. 2, nr. 2, kan heller ikke foretage fradrag for udgifter til arbejdsløn for arbejde i form af rengøring, vask, opvask, strygning, vinduespudsning, børnepasning og havearbejde vedrørende fritidsboligen, hvis ejeren i løbet af indkomståret har udlejet fritidsboligen.
+Stk. 6. Der kan ikke foretages fradrag for udgifter til arbejde, hvortil der er ydet tilskud efter andre offentlige støtteordninger, herunder efter reglerne i lov om hjemmeservice, til arbejde vedrørende etablering af elproduktion fra vedvarende energi-anlæg omfattet af §§ 41 og 47 i lov om fremme af vedvarende energi, hvis der modtages offentlig driftsstøtte til disse anlæg, eller til arbejde vedrørende afmontering af brændeovne og pejseindsatse, hvis der modtages offentligt tilskud til skrotning af disse. Tilsvarende gælder udgifter til børnepasning, der er skattefritaget hos modtageren efter § 7 Æ, og udgifter, som er fradraget ved opgørelsen af den skattepligtige indkomst efter andre regler i skattelovgivningen. Ejeren af en fritidsbolig, jf. stk. 2, nr. 2, kan heller ikke foretage fradrag for udgifter til arbejdsløn for arbejde i form af rengøring, vask, opvask, strygning, vinduespudsning, børnepasning og havearbejde vedrørende fritidsboligen, hvis ejeren i løbet af indkomståret har udlejet fritidsboligen.
 
 Stk. 7. Der kan ikke foretages fradrag for udgifter til arbejde udført af personer, der har fast bopæl i den helårsbolig, hvor arbejdet udføres. Der kan heller ikke foretages fradrag for udgifter til arbejde i en fritidsbolig udført af en person, der ejer fritidsboligen, jf. stk. 2, nr. 2, eller af en person, der har fast bopæl i samme helårsbolig som ejeren eller en af ejerne af fritidsboligen.
 
