@@ -1,7 +1,5 @@
-Givet på Christiansborg Slot, den 17. december 2002
+Sundheds- og Ældreministeriet, den 15. februar 2016
 
-Under Vor Kongelige Hånd og Segl
+Sophie Løhde
 
-Margrethe R.
-
-/Lars Løkke Rasmussen
+/ Anna Skat Nielsen
