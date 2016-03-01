@@ -1,5 +1,5 @@
-Ministeriet for Børn, Ligestilling, Integration og Sociale Forhold, den 18. februar 2015
+Beskæftigelsesministeriet, den 24. februar 2016
 
-P.M.V. Nina Eg Hansen
+Jørn Neergaard Larsen
 
-/ Steffen Juul
+/ Bent Nielsen
