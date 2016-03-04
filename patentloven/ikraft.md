@@ -1,13 +1,15 @@
-Lov nr. 579 af 1. juni 2010 om ændring af lov om finansiel virksomhed, lov om realkreditlån og realkreditobligationer m.v., lov om Danmarks Nationalbank og forskellige andre love indeholder følgende ikrafttrædelses- og overgangsbestemmelser:
+Lov nr. 639 af 12. juni 2013 (Konsekvensændringer i lyset af lov om offentlighed i forvaltningen og af ændringer i forvaltningsloven og retsplejeloven) indeholder følgende ikrafttrædelsesbestemmelse:
 
-§ 21
+§ 31
 
-Stk.1. Loven træder i kraft den 1. juli 2010, jf. dog stk. 2-6.
+Loven træder i kraft den 1. januar 2014.
 
-Stk. 2-6. (Overgangsbestemmelser, udeladt).
+Lov nr. 309 af 28. marts 2015 (Styrket indsats mod piratkopiering ved etablering af en håndhævelsesenhed m.v.) indeholder følgende ikrafttrædelses- og overgangsbestemmelse:
 
-Lov nr. 1370 af 28. december 2011 om ændring af patentloven og forskellige andre love indeholder følgende ikrafttrædelses- og overgangsbestemmelser:
+§ 5
 
-§ 9
+Stk. 1. Loven træder i kraft den 1. april 2015, jf. dog stk. 2.
 
-Loven træder i kraft den 1. februar 2012.
+Stk. 2. Erhvervs- og vækstministeren fastsætter tidspunktet for ikrafttrædelsen af §§ 1 og 2, § 3, nr. 1 og 7, og § 4.
+
+Stk. 3. § 3, nr. 2, 4 og 6, finder ikke anvendelse på materiale, der bliver indgivet før lovens ikrafttræden. For sådant materiale finder de hidtil gældende regler anvendelse.
