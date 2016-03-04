@@ -1,5 +1,5 @@
-Erhvervs- og Vækstministeriet, den 24. januar 2012
+Erhvervs- og Vækstministeriet, den 1. marts 2016
 
-Ole Sohn
+Troels Lund Poulsen
 
 / Jesper Kongstad
