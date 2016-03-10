@@ -1,7 +1,5 @@
-Givet på Marselisborg Slot, den 29. marts 2010
+Ministeriet for Børn, Undervisning og Ligestilling, den 8. marts 2016
 
-Under Vor Kongelige Hånd og Segl
+P.M.V. Per Hansen Afdelingschef
 
-MARGRETHE R.
-
-/ Tina Nedergaard
+/ Kira Gandrup
