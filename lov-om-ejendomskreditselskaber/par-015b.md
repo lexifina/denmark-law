@@ -1,0 +1,1 @@
+§ 15 b. Erhvervs- og vækstministeren kan fastsætte regler om ejendomskreditselskabers pligt til at offentliggøre oplysninger om Finanstilsynets vurdering af ejendomskreditselskaber og om, at Finanstilsynet kan offentliggøre oplysningerne før ejendomskreditselskabet.
