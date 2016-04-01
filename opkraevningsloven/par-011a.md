@@ -1,1 +1,1 @@
-§ 11 a. (Ophævet)
+§ 11 a. Told- og skatteforvaltningen kan nægte at registrere og kan inddrage registreringen efter skatte- og afgiftslove, hvor opkrævningen reguleres efter denne lov, for en person, der er pålagt en konkurskarantæne efter konkurslovens § 159, 2. pkt., medmindre personen over for told- og skatteforvaltningen godtgør, at vedkommende ikke deltager i og ikke forventes at skulle deltage i ledelsen af den omhandlede erhvervsvirksomhed.
