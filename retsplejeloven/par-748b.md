@@ -2,8 +2,4 @@
 
 Stk. 2. Deltager sigtede i et retsmøde om fristforlængelse ved anvendelse af telekommunikation med billede, skal forsvareren deltage i retsmødet på samme sted som sigtede, medmindre retten finder det ubetænkeligt, at forsvareren i stedet møder frem i retten eller deltager ved anvendelse af telekommunikation med billede fra et andet sted end sigtede. Deltager sigtede ikke i et retsmøde om fristforlængelse, kan retten tillade, at forsvareren deltager i retsmødet ved anvendelse af telekommunikation med billede, hvis det er forsvarligt.
 
-Stk. 3. Deltager sigtede i et retsmøde om fristforlængelse ved anvendelse af telekommunikation med billede, eller deltager sigtede ikke i et retsmøde om fristforlængelse, kan retten tillade, at anklageren deltager i retsmødet ved anvendelse af telekommunikation med billede, hvis
-
-1) anklagerens deltagelse ved anvendelse af telekommunikation med billede er forsvarlig og
-
-2) der i øvrigt foreligger særlige grunde.
+Stk. 3. Deltager sigtede i et retsmøde om fristforlængelse ved anvendelse af telekommunikation med billede, eller deltager sigtede ikke i et retsmøde om fristforlængelse, deltager anklageren i retsmødet ved anvendelse af telekommunikation med billede, medmindre retten undtagelsesvis bestemmer andet.
