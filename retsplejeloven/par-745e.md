@@ -1,3 +1,19 @@
-§ 745 e. Kan politiets afhøring af et barn, når afhøringen optages på video (videoafhøring), formodes at ville finde anvendelse som bevis under hovedforhandlingen, skal forsvareren være til stede under videoafhøringen.
+§ 745 e. Politiets afhøring af en person kan optages på video med henblik på anvendelse af optagelsen som bevis under hovedforhandlingen efter § 872 (videoafhøring) i følgende tilfælde:
 
-Stk. 2. Den, der er mistænkt eller sigtet, har ikke adgang til at overvære videoafhøringen. Den pågældende skal snarest muligt have adgang til sammen med sin forsvarer at gennemse videooptagelsen hos politiet. En begæring fra den, der er mistænkt eller sigtet, eller dennes forsvarer om, at der foretages genafhøring af barnet, skal fremsættes snarest muligt herefter.
+1) Personen er under 13 år.
+
+2) Personen er under 15 år, og efterforskningen vedrører en overtrædelse af
+
+a) straffelovens § 210 eller kapitel 24 eller
+
+b) straffelovens §§ 237 eller 244-246, hvor personen eller en af dennes nærmeste er forurettet og den, der er mistænkt, er en af personens nærmeste.
+
+3) Personen er under 18 år, og særlige omstændigheder taler for videoafhøring.
+
+4) Personen er 18 år eller derover og har en alvorlig psykisk lidelse eller væsentlig funktionsnedsættelse, og særlige omstændigheder taler for videoafhøring.
+
+Stk. 2. Forsvareren skal være til stede under videoafhøringen.
+
+Stk. 3. Den, der er mistænkt, har ikke adgang til at overvære videoafhøringen. Den pågældende skal snarest muligt have adgang til sammen med sin forsvarer at gennemse videooptagelsen hos politiet. En begæring fra den, der er mistænkt, eller dennes forsvarer om, at der foretages genafhøring af personen, skal fremsættes snarest muligt herefter.
+
+Stk. 4. Vil den, der er mistænkt, eller forsvareren modsætte sig, at videoafhøringen anvendes som bevis under hovedforhandlingen, skal den pågældende senest 4 uger efter videoafhøringens foretagelse indbringe spørgsmålet for retten. Retten kan se bort fra en fristoverskridelse, der må anses for undskyldelig.
