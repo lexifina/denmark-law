@@ -1,0 +1,1 @@
+1) Loven indeholder bestemmelser, der gennemfører dele af Europa-Parlamentets og Rådets direktiv 2014/26/EU af 26. februar 2014 om kollektiv forvaltning af ophavsret og beslægtede rettigheder samt multiterritoriale licenser for rettigheder til musikværker med henblik på onlineanvendelse i det indre marked, EU-Tidende 2014, nr. L 84, side 72.
