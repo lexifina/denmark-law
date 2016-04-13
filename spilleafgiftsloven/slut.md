@@ -1,7 +1,5 @@
-Givet på Christiansborg Slot, den 25. juni 2010
+Skatteministeriet, den 7. april 2016
 
-Under Vor Kongelige Hånd og Segl
+P.M.V. Jens Brøchner
 
-MARGRETHE R.
-
-/ Troels Lund Poulsen
+/ Jeanette Rose Hansen

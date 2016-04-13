@@ -1,5 +1,3 @@
-Lov om afgifter af spil
+Bekendtgørelse af lov om afgifter af spil
 
-VI MARGRETHE DEN ANDEN, af Guds Nåde Danmarks Dronning, gør vitterligt:
-
-Folketinget har vedtaget og Vi ved Vort samtykke stadfæstet følgende lov:
+Herved bekendtgøres lov nr. 698 af 25. juni 2010 om afgifter af spil med de ændringer, der følger af § 53 i lov nr. 223 af 22. marts 2011, § 2 i lov nr. 1573 af 15. december 2015 og § 2 i lov nr. 1574 af 15. december 2015.
