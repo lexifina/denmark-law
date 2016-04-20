@@ -1,7 +1,5 @@
-Givet på Fredensborg Slot, den 9. juni 2006
+Søfartsstyrelsen, den 12. april 2016
 
-Under Vor Kongelige Hånd og Segl
+Troels Blicher Danielsen
 
-Margrethe R.
-
-/Søren Gade
+/ Anders Fredrik Mihle
