@@ -442,7 +442,7 @@ Stk. 4. § 1, nr. 9, 24, 25 og 62, finder ikke anvendelse for udlændinge, der e
 
 Stk. 5. For udlændinge, der meddeles opholdstilladelse i perioden fra den 15. maj 2012 og indtil danskprøven på A1-niveau og danskprøven på A2-niveau, jf. udlændingelovens § 9, stk. 30 og 32, er etableret, regnes fristerne på 6 og 15 måneder, jf. udlændingelovens § 9, stk. 30, 2. og 4. pkt., og stk. 32, 2. og 3. pkt., fra tidspunktet for prøvernes etablering.
 
-Stk. 6. Afgørelser vedrørende forlængelse, bortfald og inddragelse af opholdstilladelser meddelt efter § 9 c, stk. 1, 1. pkt., træffes af Styrelsen for Fastholdelse og Rekruttering, når opholdstilladelsen er meddelt med henblik på uddannelse, au pair-ophold, praktikantophold, volontørophold, ophold ifølge en aftale mellem Danmark og en anden stat, jf. § 45, eller som følge af familiemæssig tilknytning til en udlænding med opholdstilladelse efter § 9 a, stk. 2, nr. 1-6, eller til en udlænding med opholdstilladelse med henblik på uddannelse eller praktikantophold.
+Stk. 6. Afgørelser vedrørende forlængelse, bortfald og inddragelse af opholdstilladelser meddelt efter § 9 c, stk. 1, 1. pkt., træffes af Styrelsen for International Rekruttering og Integration, når opholdstilladelsen er meddelt med henblik på uddannelse, au pair-ophold, praktikantophold, volontørophold, ophold ifølge en aftale mellem Danmark og en anden stat, jf. § 45, eller som følge af familiemæssig tilknytning til en udlænding med opholdstilladelse efter § 9 a, stk. 2, nr. 1-6, eller til en udlænding med opholdstilladelse med henblik på uddannelse eller praktikantophold.
 
 Lov nr. 566 af 18. juni 2012 indeholder følgende bestemmelse:
 
@@ -623,3 +623,131 @@ Stk. 3. Ved behandlingen af sager, der genoptages efter stk. 2, finder udlændin
 Stk. 4. Hvis en sag genoptages efter stk. 2, finder udlændingelovens § 9, stk. 21, ikke anvendelse.
 
 Stk. 5. En anmodning om genoptagelse, jf. stk. 2, kan tillægges opsættende virkning med hensyn til udrejsefristen, hvis særlige grunde taler derfor.
+
+Lov nr. 1488 af 23. december 2014 indeholder følgende bestemmelse:
+
+§ 4
+
+Stk. 1. Loven træder i kraft den 1. januar 2015, jf. dog stk. 2.
+
+Stk. 2. § 1, nr. 10, og udlændingelovens § 9 a, stk. 17, som indsat ved denne lovs § 1, nr. 19, træder i kraft den 1. april 2015.
+
+Stk. 3. § 1, nr. 7, 8, 12, 13, 16, 18, 31, 38, 39, 43, 44, 45, 49, 53, 66, 70 og 71, finder ikke anvendelse for udlændinge, der inden lovens ikrafttræden har indgivet ansøgning om opholdstilladelse. For disse udlændinge finder de hidtil gældende regler anvendelse, jf. dog stk. 4-7.
+
+Stk. 4. Ophævelsen af § 9 a, stk. 2, nr. 4, jf. lovens § 1, nr. 8, finder ikke anvendelse for udlændinge, der søger koncernopholdstilladelse efter § 9 a, stk. 2, nr. 4, i perioden fra den 1. januar til den 31. marts 2015, og for udlændinge, der søger forlængelse af en koncernopholdstilladelse meddelt efter § 9 a, stk. 2, nr. 4. For disse udlændinge finder de hidtil gældende regler anvendelse. Virksomheder, der søger om koncerngodkendelse eller forlængelse af en koncerngodkendelse efter lovens ikrafttræden og inden den 1. april 2015, kan få en koncerngodkendelse eller få forlænget en koncerngodkendelse frem til den 31. marts 2015.
+
+Stk. 5. Udlændingelovens § 9 a, stk. 4, 3. pkt., § 9 h, stk. 8, 1.-3. pkt., § 9 i, stk. 3, 2. pkt., § 9 j, stk. 2, 2. pkt., § 9 k, stk. 2, 2. pkt., § 9 l, stk. 2, 2. pkt., § 9 m, stk. 2, 2. pkt., og § 9 n, stk. 2, 2. pkt., som affattet ved denne lovs § 1, nr. 13, 31, 38 og 43, finder anvendelse for afgørelser truffet efter lovens ikrafttræden.
+
+Stk. 6. Udlændingelovens § 9 a, stk. 12, som affattet ved denne lovs § 1, nr. 18, finder ikke anvendelse for udlændinge, der har opholdstilladelse på tidspunktet for lovens ikrafttræden, og som første gang søger forlængelse af opholdstilladelsen efter lovens ikrafttræden. I disse tilfælde finder de hidtil gældende regler anvendelse. Ved efterfølgende ansøgninger om forlængelse af opholdstilladelsen skal udlændingen opfylde betingelserne i udlændingelovens § 9 a, stk. 12, som affattet ved denne lovs § 1, nr. 18.
+
+Stk. 7. Udlændingelovens § 17, stk. 5, som ændret ved denne lovs § 1, nr. 49, finder anvendelse på afgørelser truffet efter lovens ikrafttræden, for så vidt angår udlændinge, der har søgt opholdstilladelse eller forlængelse af opholdstilladelse med henblik på at forske på et universitet eller en virksomhed i Danmark eller med henblik på at følge en fællesuddannelse.
+
+Lov nr. 1539 af 27. december 2014 indeholder følgende bestemmelse:
+
+§ 11
+
+Stk. 1. Loven træder i kraft den 1. januar 2015.
+
+Stk. 2. (Udeladt)
+
+Lov nr. 1500 af 23. december 2014 indeholder følgende bestemmelse:
+
+§ 7
+
+Stk. 1. Loven træder i kraft den 1. januar 2015.
+
+Stk. 2-7. (Udeladt)
+
+Lov nr. 153 af 18. februar 2015 indeholder følgende bestemmelse:
+
+§ 2
+
+Stk. 1. Loven træder i kraft dagen efter bekendtgørelsen i Lovtidende.
+
+Stk. 2. Loven finder ikke anvendelse på ansøgninger om opholdstilladelse efter udlændingelovens § 7 indgivet før den 14. november 2014. For sådanne ansøgninger finder de hidtil gældende regler anvendelse.
+
+Lov nr. 176 af 24. februar 2015 indeholder følgende bestemmelse:
+
+§ 4
+
+Stk. 1. Loven træder i kraft den 1. marts 2015.
+
+Stk. 2. (Udeladt)
+
+Stk. 3. Udlændingelovens § 21 b, stk. 1, som affattet ved denne lovs § 2, nr. 4, finder alene anvendelse, hvis de forhold, der begrunder bortfald af en opholdstilladelse eller opholdsret, indtræder efter lovens ikrafttræden.
+
+Lov nr. 271 af 25. marts 2015 indeholder følgende bestemmelse:
+
+§ 2
+
+Loven træder i kraft den 1. april 2015.
+
+Lov nr. 394 af 14. april 2015 indeholder følgende bestemmelse:
+
+§ 2
+
+Stk. 1. Loven træder i kraft den 1. juni 2015.
+
+Stk. 2. § 1, nr. 1, finder ikke anvendelse i sager, hvor der før lovens ikrafttræden er indgivet ansøgning om opholdstilladelse efter udlændingelovens § 9, stk. 1, nr. 1-3, eller § 9 c, stk. 1, og hvor det godtgøres, at der rådes over egen bolig efter udlændingelovens § 9, stk. 6, stk. 15, 3. pkt., eller stk. 20, 3. pkt., eller § 19, stk. 1, nr. 6, 1. pkt., eller nr. 7, 1. pkt. For sådanne sager finder de hidtil gældende regler anvendelse.
+
+Stk. 3. Lovens § 1, nr. 2-5, finder anvendelse, hvis det strafbare forhold er begået den 1. juni 2015 eller senere. Hvis det strafbare forhold er begået før den 1. juni 2015, finder de hidtil gældende regler anvendelse.
+
+Lov nr. 685 af 27. maj 2015 indeholder følgende bestemmelse:
+
+§ 3
+
+Stk. 1. Loven træder i kraft den 1. juli 2015.
+
+Stk. 2. Denne lovs § 1, nr. 4, og § 2, nr. 2, finder ikke anvendelse for udlændinge, der inden lovens ikrafttræden har indgivet ansøgning om opholdstilladelse. For disse udlændinge finder de hidtil gældende regler anvendelse.
+
+Stk. 3. Denne lovs § 1, nr. 9, finder anvendelse på forhold, der er indtruffet efter lovens ikrafttræden, i sager, hvor den pågældende au pair-person har indgivet ansøgning om opholdstilladelse den 1. juli 2015 eller derefter.
+
+Stk. 4. (Udeladt)
+
+Lov nr. 1273 af 20. november 2015 indeholder følgende bestemmelse:
+
+§ 2
+
+Stk. 1. Loven træder i kraft dagen efter bekendtgørelsen i Lovtidende, jf. dog stk. 2.
+
+Stk. 2. Udlændingelovens §§ 37 h, 37 i og 37 k som affattet ved denne lovs § 1, nr. 12, ophæves den 1. december 2019.
+
+Stk. 3. Lovforslaget kan stadfæstes straks efter dets vedtagelse.
+
+Lov nr. 1575 af 15. december 2015 indeholder følgende bestemmelse:
+
+§ 2
+
+Loven træder i kraft den 1. januar 2016.
+
+Lov nr. 1499 af 11. december 2015 indeholder følgende bestemmelse:
+
+§ 2
+
+Stk. 1. Loven træder i kraft dagen efter bekendtgørelsen i Lovtidende.
+
+Stk. 2. Lovforslaget kan stadfæstes straks efter dets vedtagelse.
+
+Lov nr. 1741 af 22. december 2015 indeholder følgende bestemmelse:
+
+§ 12
+
+Loven træder i kraft den 1. januar 2016.
+
+Lov nr. 102 af 3. februar 2016 indeholder følgende bestemmelse:
+
+§ 2
+
+Stk. 1. Loven træder i kraft dagen efter bekendtgørelsen i Lovtidende, jf. dog stk. 2.
+
+Stk. 2. § 1, nr. 12, 16-24, 26, 100-102, 104 og 105, træder i kraft den 1. marts 2016.
+
+Stk. 3. § 1, nr. 10, 27-52 og 59, finder ikke anvendelse for ansøgninger om tidsubegrænset opholdstilladelse, der indgives før lovforslagets fremsættelse. For sådanne ansøgninger finder de hidtil gældende regler anvendelse.
+
+Stk. 4. § 1, nr. 12, 16-24, 26, 100-102, 104 og 105, finder ikke anvendelse for ansøgninger, der indgives før lovens ikrafttræden, klager over afslag, der vedrører en ansøgning, som indgives før lovens ikrafttræden, og ansøgninger om genoptagelse, der vedrører en ansøgning, der indgives før lovens ikrafttræden, jf. stk. 2. For sådanne ansøgninger og klager finder de hidtil gældende regler anvendelse.
+
+Stk. 5. Udlændingelovens § 19, stk. 3, 2. pkt., som affattet ved § 1, nr. 58, gælder alene for udlændinge, der efter lovens ikrafttræden rejser til det land, hvor den myndighed, der har givet opholdstilladelsen, har fundet, at udlændingen risikerer forfølgelse omfattet af udlændingelovens § 7 og § 8, stk. 1 og 2, jf. udlændingelovens § 19, stk. 2, nr. 4.
+
+Stk. 6. § 1, nr. 72, 77, 79, 94 og 95, finder ikke anvendelse i tilfælde, hvor der forud for lovens ikrafttræden er meddelt tilladelse efter den hidtil gældende bestemmelse i udlændingelovens § 42 a, stk. 8, eller hvor der er meddelt tilladelse til selvstændig bolig for familier med børn efter den hidtil gældende bestemmelse i udlændingelovens § 42 l. For sådanne tilladelser finder de hidtil gældende regler anvendelse.
+
+Stk. 7. § 1, nr. 84-90 og 92, finder anvendelse på udbetaling af grundydelse og forsørgertillæg, der følger førstkommende skæringsdato, jf. udlændingelovens § 42 b, stk. 1, 3. pkt., og § 42 b, stk. 7, 4. pkt., efter lovens ikrafttræden. § 1, nr. 91, finder anvendelse på udbetaling af tillægsydelse fra første hele periode på 14 dage, der ligger til grund for beregning af tillægsydelsen, og som følger efter lovens ikrafttræden.
