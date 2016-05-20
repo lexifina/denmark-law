@@ -243,3 +243,13 @@ Stk. 1. (Udeladt)
 Stk. 2. Regler, der er fastsat i henhold til hidtil gældende regler, forbliver i kraft, indtil de ophæves eller afløses af regler fastsat med hjemmel i denne lov.
 
 Stk. 3. Sager, der ved lovens ikrafttræden verserer for en kommune, eller som er indbragt for Vejdirektoratet, transportministeren eller taksationsmyndighederne, færdigbehandles efter de hidtil gældende regler.
+
+Lov nr. 132 af 16. februar 2016 om ændring af lov om vandsektorens organisering og økonomiske forhold, lov om vandforsyning m.v., lov om betalingsregler for spildevandsforsyningsselskaber m.v. og forskellige andre love (Opfølgning på politisk forlig om en ny og forbedret regulering af den danske vandsektor), indholder følgende ikrafttrædelsesbestemmelse:
+
+§ 17
+
+Stk. 1. Loven træder i kraft den 1. marts 2016, jf. dog stk. 2.
+
+Stk. 2. (Udeladt)
+
+Stk. 3. (Udeladt)
