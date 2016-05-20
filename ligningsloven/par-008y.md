@@ -2,6 +2,6 @@
 
 Stk. 2. Er der i et indkomstår foretaget fradrag for en udgift, hvor fradraget ikke opfylder betingelserne i stk. 1, skal det tidligere fratrukne beløb reguleres tilbage, når betalingen sker i indkomståret. Hvis betaling sker efter udløbet af indkomståret, medtages beløbet som indtægt i det indkomstår, hvor betalingen sker.
 
-Stk. 3. Hvis en virksomhed ikke har mulighed for at betale via et pengeinstitut eller betalingsinstitut som anført i stk. 1, kan virksomheden opnå sit fradrag ved på told- og skatteforvaltningens hjemmeside at indberette oplysninger om det foretagne køb, herunder fakturaoplysninger, der entydigt identificerer leverandøren, og betalingen heraf. Denne indberetning skal foretages senest 14 dage efter betalingen, dog senest 1 måned efter fakturaens modtagelse.
+Stk. 3. Hvis en virksomhed ikke har mulighed for at betale via et pengeinstitut eller betalingsinstitut som anført i stk. 1, kan virksomheden opnå sit fradrag ved på told- og skatteforvaltningens hjemmeside at indberette oplysninger om det foretagne køb, herunder fakturaoplysninger, der entydigt identificerer leverandøren, og betalingen heraf. Denne indberetning skal foretages senest i forbindelse med virksomhedens selvangivelsesfrist for det indkomstår, hvori købet er foretaget.
 
 Stk. 4. Skatteministeren kan fastsætte nærmere regler om andre betalingsmåder, som sidestilles med betaling via pengeinstitut, og om krav til dokumentation.
