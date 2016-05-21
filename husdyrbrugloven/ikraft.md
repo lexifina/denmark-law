@@ -95,3 +95,13 @@ Stk. 1. Loven træder i kraft den 1. februar 2014, jf. dog stk. 2.
 Stk. 2. Miljøministeren fastsætter tidspunktet for ikrafttræden af §§ 1-6, § 7, nr.- 2 og 3, og §§ 8-25.
 
 Stk. 3. Loven finder ikke anvendelse for klager over afgørelser, der træffes, før loven træder i kraft. For sådanne klager finder de hidtidige regler anvendelse.
+
+Lov nr. 132 af 16. februar 2016 om ændringer af lov om vandsektorens organisering og økonomiske forhold, lov om vandforsyning m.v., lov om betalingsregler for spildevandsforsyningsselskaber m.v. og forskellige andre love (Opfølgning på politisk forlig om en ny og forbedret regulering af den danske vandsektor), indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 17
+
+Stk. 1. Loven træder i kraft den 1. marts 2016, jf. dog stk. 2.
+
+Stk. 2. (Udeladt)
+
+Stk. 3. (Udeladt)
