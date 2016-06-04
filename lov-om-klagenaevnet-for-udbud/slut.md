@@ -1,7 +1,5 @@
-Givet på Amalienborg, den 12. maj 2010
+Erhvervs- og Vækstministeriet, den 2. juni 2016
 
-Under Vor Kongelige Hånd og Segl
+Troels Lund Poulsen
 
-MARGRETHE R.
-
-/ Brian Mikkelsen
+/ Jakob Hald
