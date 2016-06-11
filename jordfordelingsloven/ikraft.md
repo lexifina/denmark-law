@@ -1,59 +1,35 @@
-Lov nr. 536 af 24. juni 2005 om ændring af jordfordelingsloven, landdistriktsstøtteloven, lov om drift af landbrugsjorder og forskellige andre love på Fødevareministeriets område (Udmøntning af kommunalreformen, for så vidt angår miljøvenlige jordbrugsforanstaltninger, samt konsekvensrettelser som følge af kommunalreformen) indeholder følgende ikrafttrædelsesbestemmelse:
+Lov nr. 132 af 16. februar 2016 (Opfølgning på politisk forlig om en ny og forbedret regulering af den danske vandsektor) indeholder følgende ikrafttrædelses- og overgangsbestemmelse:
 
-§ 8
+§ 17
 
-Loven træder i kraft den 1. januar 2007.
+Stk. 1. Loven træder i kraft den 1. marts 2016, jf. dog stk. 2.
 
-Lov nr. 538 af 8. juni 2006 om ændring af retsplejeloven og forskellige andre love (Politi- og domstolsreform) indeholder følgende ikrafttrædelsesbestemmelser:
+Stk. 2. (Udelades)
 
-§ 105
+Stk. 3. (Udelades)
 
-Stk. 1. Loven træder i kraft den 1. januar 2007, jf. dog stk. 2-22 og § 106.
+Lov nr. 628 af 8. juni 2016 (Overførsel af opgaver fra Statens Administrations Finansservicecenter m.fl. til Udbetaling Danmark m.v.) indeholder følgende ikrafttrædelses- og overgangsbestemmelser:
 
-Stk. 2-22. (Udeladt)
+§ 54
 
-§ 106
+Stk. 1. Loven træder i kraft den 1. oktober 2016, jf. dog stk. 2 og 3.
 
-(Udeladt)
+Stk. 2. (Udelades)
 
-§ 107
+Stk. 3. (Udelades)
 
-(Udeladt)
+§ 55
 
-Lov nr. 1553 af 20. december 2006om ændring af lov om jordfordeling og offentligt køb og salg af fast ejendom til jordbrugsmæssige formål m.m. (jordfordelingsloven) (Ny organisering af jordkøbsnævn) indeholder følgende ikrafttrædelsesbestemmelse:
+Stk. 1. Loven finder ikke anvendelse for klager over afgørelser truffet af ressortministerierne eller Statens Administration inden lovens ikrafttræden. For sådanne klager finder de hidtil gældende regler anvendelse.
 
-§ 2
+Stk. 2. Udbetaling Danmark kan i perioden fra den 1. oktober 2016 til den 31. december 2016 foretage de dispositioner og regnskabsmæssige registreringer, der er nævnt i tekstanmærkning nr. 102 til § 7 på finansloven for 2016, for så vidt angår de udlån og garantier m.v., som Udbetaling Danmark administrerer i henhold til denne lov.
 
-Loven træder i kraft den 1. januar 2007.
+Stk. 3. Ressortministeriernes betaling for varetagelse af opgaver, der overføres til Udbetaling Danmark ved denne lov, sker for perioden fra den 1. oktober 2016 til den 31. december 2016 efter reglerne på finansloven for 2016. Statens Administration foretager en samlet afregning til Udbetaling Danmark af denne betaling og gebyrer fra den 1. oktober 2016 til den 31. december 2016.
 
-Lov nr. 1336 af 19. december 2008 om ændring af kildeskatteloven, opkrævningsloven, udpantningsloven og forskellige andre love (Konsekvensændringer som følge af lov om inddrivelse af gæld til det offentlige) indeholder følgende ikrafttrædelsesbestemmelse:
+§ 56
 
-§ 167
+Stk. 1. Lovens §§ 1-10, 19-21, 23-28, 30-38 og 41-53 gælder ikke for Færøerne og Grønland, jf. dog stk. 2 og 3.
 
-Stk. 1. Loven træder i kraft den 1. januar 2009, jf. dog stk. 2. § 11 finder alene anvendelse på afgørelser om lønindeholdelse, der træffes efter lovens ikrafttræden.
+Stk. 2. (Udelades)
 
-Stk. 2. (Udeladt)
-
-Lov nr. 244 af 22. marts 2010 om ændring af lov om jordfordeling og offentligt køb og salg af fast ejendom til jordbrugsmæssige formål m.m. (jordfordelingsloven) og lov om påligningen af indkomstskat til staten (ligningsloven) (Forenkling af kendelsessystemet ved jordfordelinger m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
-
-§ 3
-
-Stk. 1. Loven træder i kraft den 1. juli 2010 og har virkning for jordfordelingssager, hvor anmodning om rejsning af en jordfordelingssag er modtaget efter lovens ikrafttræden.
-
-Stk. 2. (Udeladt)
-
-Lov nr. 1240 af 18. december 2012 om ændring af lov om landbrugsejendomme og jordfordelingsloven (Nedlæggelse af jordbrugskommissionerne og oprettelse af nye jordfordelingskommissioner m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
-
-§ 3
-
-Stk. 1. Loven træder i kraft den 1. januar 2013, jf. dog stk. 2.
-
-Stk. 2. Ministeren for fødevarer, landbrug og fiskeri fastsætter tidspunktet for ikrafttræden af § 1, nr. 2, 30 og 32, og § 2. Ministeren kan herunder fastsætte, at loven træder i kraft på forskellige tidspunkter.
-
-Stk. 3. Lovens § 1, nr. 11, 12 og 23-27, finder ikke anvendelse på retshandler, der er indgået før den 1. januar 2013. For disse retshandler finder de hidtil gældende regler anvendelse.
-
-Lov nr. 1520 af 27. december 2014 om offentlige veje m.v. indeholder følgende ikrafttrædelsesbestemmelse:
-
-§ 139. Loven træder i kraft den 1. juli 2015, jf. dog stk. 2.
-
-Stk. 2. (Udeladt)
+Stk. 3. (Udelades)
