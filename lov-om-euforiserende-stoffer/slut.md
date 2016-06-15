@@ -1,5 +1,5 @@
-Ministeriet for Sundhed og Forebyggelse, den 1. juli 2008
+Sundheds- og Ældreministeriet, den 13. juni 2016
 
-Jakob Axel Nielsen
+Sophie Løhde
 
 / Lars Petersen
