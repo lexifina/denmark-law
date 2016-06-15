@@ -1,3 +1,5 @@
 Bekendtgørelse af lov om euforiserende stoffer
 
-Herved bekendtgøres lov om euforiserende stoffer, jf. lovbekendtgørelse nr. 391 af 21. juli 1969, med de ændringer, der følger af lov nr. 296 af 9. juni 1971, lov nr. 160 af 28. april 1982, lov nr. 1054 af 11. december 1996, lov nr. 445 af 9. juni 2004, lov nr. 526 af 6. juni 2007 og lov nr. 535 af 17. juni 2008.
+Herved bekendtgøres lov om euforiserende stoffer, jf. lovbekendtgørelse nr. 748 af 1. juli 2008, med de ændringer, der følger af lov nr. 163 af 28. februar 2012, lov nr. 606 af 18. juni 2012 og lov nr. 382 af 27. april 2016.
+
+Den bekendtgjorte lovtekst vedrørende § 3 b, stk. 2, træder i kraft den 1. juli 2016, jf. § 2 i lov nr. 382 af 27. april 2016 om ændring af lov om euforiserende stoffer (Assisteret stofindtagelse i stofindtagelsesrum).
