@@ -1,5 +1,5 @@
-Ministeriet for Børn, Undervisning og Ligestilling, den 8. marts 2016
+Ministeriet for Børn, Undervisning og Ligestilling, den 15. juni 2016
 
-P.M.V. Per Hansen Afdelingschef
+P.M.V. Ole Hvilsom Larsen Kontorchef
 
-/ Kira Gandrup
+/ Henrik Thode
