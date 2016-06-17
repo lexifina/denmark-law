@@ -1,0 +1,1 @@
+§ 50 d. Erhvervsstyrelsen kan fastsætte regler om, at skriftlig kommunikation til og fra Revisorrådet og Revisornævnet om forhold, som er omfattet af denne lov eller af regler udstedt i medfør af denne lov, skal foregå digitalt. § 50 a, stk. 2 og 3, og § 50 b finder tilsvarende anvendelse.
