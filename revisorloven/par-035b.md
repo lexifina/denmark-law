@@ -1,0 +1,3 @@
+§ 35 b. Erhvervsstyrelsen kan offentliggøre resultatet af kvalitetskontrollen, hvis det i forbindelse med en opfølgende kvalitetskontrol, jf. § 35 a, stk. 1, nr. 2, konstateres, at der ikke er fulgt op på henstillinger fra forrige kvalitetskontrol. Styrelsen kan endvidere offentliggøre resultatet af kvalitetskontrollen for revisionsvirksomheder, der udfører revision af regnskaber aflagt af virksomheder af interesse for offentligheden. Styrelsen kan bestemme, i hvilken form offentliggørelsen skal ske. Offentliggørelsen sker på styrelsens hjemmeside.
+
+Stk. 2. Erhvervsstyrelsen udgiver årligt en redegørelse om styrelsens arbejde med kvalitetskontrollen.
