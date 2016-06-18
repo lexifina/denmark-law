@@ -1,7 +1,3 @@
-Givet på Christiansborg Slot, den 16. december 2014
+Kulturministeriet, den 14. juni 2016
 
-Under Vor Kongelige Hånd og Segl
-
-MARGRETHE R.
-
-/ Marianne Jelved
+Bertel Haarder
