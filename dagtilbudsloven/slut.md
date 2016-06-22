@@ -1,5 +1,5 @@
-Ministeriet for Børn, Ligestilling, Integration og Sociale Forhold, den 20. februar 2015
+Ministeriet for Børn, Undervisning og Ligestilling, den 20. juni 2016
 
-P.M.V. Nina Eg Hansen
+P.M.V. Ole Hvilsom Larsen Kontorchef
 
-/ Anita Hørby
+/ Kira Gandrup
