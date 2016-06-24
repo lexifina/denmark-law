@@ -1,7 +1,23 @@
-Lov nr. 573 af 7. juni 2011, hvis § 1 overalt i loven ændrer ”godtgørelse eller tilskud til befordring” til ”godtgørelse og tilskud til befordring”, og som ændrer § 1, § 2, stk. 2, § 3, stk. 1 og 2, § 5, stk. 1, stk. 2, 2. pkt., og stk. 3, § 8, stk. 3, og § 18, stk. 3, samt indsætter nyt § 5, stk. 4, § 7, stk. 2 og 3, § 8, stk. 3 og § 19, stk. 5, indeholder følgende ikrafttrædelsesbestemmelser:
+Lov nr. 1569 af 15. december 2015 (Ændring af investeringsregler som følge af solvens II, undtagelse af investeringsdel fra lov om offentlighed i forvaltningen, fritagelse for betaling af finansieringsbidrag m.v.) indeholder følgende ikrafttrædelsesbestemmelser:
 
-§ 3
+§ 9
 
-Stk. 1. Ministeren for børn og undervisning fastsætter tidspunktet for lovens ikrafttræden, jf. dog stk. 2.
+Stk. 1. Loven træder i kraft den 1. juli 2016, jf. dog stk. 2.
 
-Stk. 2. § 1, nr. 10 og 13, træder i kraft dagen efter bekendtgørelsen i Lovtidende.
+Stk. 2. (Udelades)
+
+§ 10
+
+Stk. 1. §§ 4-8 har virkning for pligt til betaling af finansieringsbidrag, der er indtrådt den 1. juli 2014 eller senere.
+
+Stk. 2. Det er en betingelse for, at der kan gives fritagelse for pligt til at betale finansieringsbidrag, jf. §§ 4-8, for perioden fra den 1. juli 2014 til og med den 30. juni 2016, at der er indgivet ansøgning herom til Arbejdsmarkedets Tillægspension inden den 30. september 2016. Indbetalte bidrag tilbagebetales med det indbetalte beløb.
+
+Lov nr. 624 af 8. juni 2016 (Fleksibelt og indkomstbaseret dagpengesystem, månedsudbetaling af dagpenge m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 14
+
+Stk. 1. (Udelades)
+
+Stk. 2. § 1, nr. 4-10, 14-16, 18, 19, 21-28, 30-33, 37, 38, 41-43, 50, 52-56, 62-65, 67-69, 71, 73-75, 77-84, 86, 87, 90, 91, 95, 98-103 og 109-112, og § 13 træder i kraft den 1. juli 2017.
+
+Stk. 3.-4. (Udelades)
