@@ -1,5 +1,5 @@
-Ministeriet for Børn og Undervisning, den 24. august 2012
+Ministeriet for Børn, Undervisning og Ligestilling, den 22. juni 2016
 
-Christine Antorini
+P.M.V. Ole Hvilsom Larsen Kontorchef
 
-/ Merete Vinje
+/ Kira Gandrup
