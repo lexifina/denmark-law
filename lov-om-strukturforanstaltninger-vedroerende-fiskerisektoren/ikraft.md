@@ -1,59 +1,25 @@
-Lov nr. 420 af 31. maj 2000 om ændring af lov om strukturforanstaltninger vedrørende fiskerisektoren (Ændring af EU-medfinansierede tilskudsordninger og ordningen for yngre fiskere) indeholder følgende ikrafttrædelsesbestemmelse:
+Lov nr. 628 af 8. juni 2016 (Overførsel af opgaver fra Statens Administrations Finansservicecenter m.fl. til Udbetaling Danmark m.v.) indeholder følgende ikrafttrædelses- og overgangsbestemmelser:
 
-§ 2
+§ 54
 
-Tidspunktet for lovens eller dele af lovens ikrafttræden fastsættes af ministeren for fødevarer, landbrug og fiskeri.
+Stk. 1. Loven træder i kraft den 1. oktober 2016, jf. dog stk. 2 og 3.
 
-Lov nr. 967 af 4. december 2002 om ændring af lov om administration af Det Europæiske Fællesskabs forordninger om markedsordninger for landbrugsvarer m.v. med flere love (Sanering af nævn og udvalg i Ministeriet for Fødevarer, Landbrug og Fiskeri m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
+Stk. 2. (Udelades)
 
-§ 8
+Stk. 3. (Udelades)
 
-Loven træder i kraft den 1. januar 2003.
+§ 55
 
-Lov nr. 430 af 6. juni 2005 om ændring af forskellige love og om ophævelse af lov om kommunalt samarbejde om opkrævning og inddrivelse (Konsekvensændringer som følge af lov om opkrævning og inddrivelse af visse fordringer – samlingen af inddrivelsen i Skatteministeriet) indeholder følgende ikrafttrædelsesbestemmelse:
+Stk. 1. Loven finder ikke anvendelse for klager over afgørelser truffet af ressortministerierne eller Statens Administration inden lovens ikrafttræden. For sådanne klager finder de hidtil gældende regler anvendelse.
 
-§ 70
+Stk. 2. Udbetaling Danmark kan i perioden fra den 1. oktober 2016 til den 31. december 2016 foretage de dispositioner og regnskabsmæssige registreringer, der er nævnt i tekstanmærkning nr. 102 til § 7 på finansloven for 2016, for så vidt angår de udlån og garantier m.v., som Udbetaling Danmark administrerer i henhold til denne lov.
 
-Stk. 1. Loven træder i kraft dagen efter bekendtgørelsen i Lovtidende.
+Stk. 3. Ressortministeriernes betaling for varetagelse af opgaver, der overføres til Udbetaling Danmark ved denne lov, sker for perioden fra den 1. oktober 2016 til den 31. december 2016 efter reglerne på finansloven for 2016. Statens Administration foretager en samlet afregning til Udbetaling Danmark af denne betaling og gebyrer fra den 1. oktober 2016 til den 31. december 2016.
 
-Stk. 2. Loven har virkning fra den 1. november 2005, jf. dog stk. 3.
+§ 56
 
-Stk. 3. Afgørelser om inddrivelse, der inden den 1. oktober 2005 er påklaget til de hidtidige administrative klageinstanser, overgår til behandling i Landsskatteretten den 1. januar 2006, hvis de hidtidige klageinstanser ikke har færdigbehandlet klagen inden denne dato.
+Stk. 1. Lovens §§ 1-10, 19-21, 23-28, 30-38 og 41-53 gælder ikke for Færøerne og Grønland, jf. dog stk. 2 og 3.
 
-Lov nr. 431 af 6. juni 2005 om ændring af forskellige love (Forenkling, harmonisering og objektivering af reglerne for inddrivelse af gæld til det offentlige m.v. samt mulighed for anvendelse af digitale lønsedler) indeholder følgende ikrafttrædelsesbestemmelse:
+Stk. 2. (Udelades)
 
-§ 85
-
-Stk. 1. Loven træder i kraft den 1. november 2005, jf. dog stk. 2.
-
-Stk. 2. (Udeladt)
-
-Lov nr. 278 af 5. april 2006 om ændring af lov om strukturforanstaltninger vedrørende fiskerisektoren (Statslig medfinansiering af investeringer i private fiskerihavne) indeholder følgende ikrafttrædelsesbestemmelse:
-
-§ 2
-
-Loven træder i kraft dagen efter bekendtgørelsen i Lovtidende.
-
-Lov nr. 538 af 8. juni 2006 om ændring af retsplejeloven og forskellige andre love (Politi- og domstolsreform) indeholder følgende ikrafttrædelses- og overgangsbestemmelser:
-
-§ 105
-
-Stk. 1. Loven træder i kraft den 1. januar 2007, jf. dog stk. 2-22 og § 106.
-
-Stk. 2-22. (Udeladt)
-
-§ 106
-
-(Udeladt)
-
-§ 107
-
-(Udeladt)
-
-Lov nr. 1336 af 19. december 2008 om ændring af kildeskatteloven, opkrævningsloven, udpantningsloven og forskellige andre love (Konsekvensændringer som følge af lov om inddrivelse af gæld til det offentlige) indeholder følgende ikrafttrædelsesbestemmelse:
-
-§ 167
-
-Stk. 1. Loven træder i kraft den 1. januar 2009, jf. dog stk. 2. § 11 finder alene anvendelse på afgørelser om lønindeholdelse, der træffes efter lovens ikrafttræden.
-
-Stk. 2. (Udeladt)
+Stk. 3. (Udelades)
