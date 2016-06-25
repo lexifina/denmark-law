@@ -1,3 +1,5 @@
 Bekendtgørelse af lov om strukturforanstaltninger vedrørende fiskerisektoren
 
-Herved bekendtgøres lov om strukturforanstaltninger vedrørende fiskerisektoren, jf. lovbekendtgørelse nr. 316 af 3. maj 2001, med de ændringer, der følger af § 2 i lov nr. 967 af 4. december 2002, § 33 i lov nr. 430 af 6. juni 2005, § 39 i lov nr. 431 af 6. juni 2005, lov nr. 278 af 5. april 2006, § 69 i lov nr. 538 af 8. juni 2006 og § 62 i lov nr. 1336 af 19. december 2008.
+Herved bekendtgøres lov om strukturforanstaltninger vedrørende fiskerisektoren, jf. lovbekendtgørelse nr. 1846 af 14. december 2015, med de ændringer, der følger af § 33 i lov nr. 628 af 8. juni 2016.
+
+Den bekendtgjorte lovtekst vedrørende §§ 9 og 10 træder i kraft den 1. oktober 2016, jf. § 54, stk. 1, i lov nr. 628 af 8. juni 2016 om ændring af lov om Udbetaling Danmark og forskellige andre love (Overførsel af opgaver fra Statens Administrations Finansservicecenter m.fl. til Udbetaling Danmark m.v.).
