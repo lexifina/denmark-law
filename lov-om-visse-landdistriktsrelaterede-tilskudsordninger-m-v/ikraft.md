@@ -1,21 +1,25 @@
-I lov nr. 341 af 27. april 2011 om ændring af årsregnskabsloven og forskellige andre love (Obligatorisk digital kommunikation mellem virksomheder og det offentlige, skattefritagelse af Fornyelsesfondens garantiordning m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
+Lov nr. 628 af 8. juni 2016 (Overførsel af opgaver fra Statens Administrations Finansservicecenter m.fl. til Udbetaling Danmark m.v.) indeholder følgende ikrafttrædelses- og overgangsbestemmelser:
 
-§ 18
+§ 54
 
-Stk. 1. Loven træder i kraft den 1. maj 2011, jf. dog stk. 2.
+Stk. 1. Loven træder i kraft den 1. oktober 2016, jf. dog stk. 2 og 3.
 
-Stk. 2. (Udeladt)
+Stk. 2. (Udelades)
 
-Lov nr. 602 af 14. juni 2011 om ændring af lov om statsgaranti for lån til yngre jordbrugere m.v. (Nedlæggelse af ordningen med statsgaranti for lån til yngre jordbrugere) indeholder følgende ikrafttrædelses- og overgangsbestemmelser:
+Stk. 3. (Udelades)
 
-§ 2
+§ 55
 
-Stk. 1. Loven træder i kraft den 1. januar 2012.
+Stk. 1. Loven finder ikke anvendelse for klager over afgørelser truffet af ressortministerierne eller Statens Administration inden lovens ikrafttræden. For sådanne klager finder de hidtil gældende regler anvendelse.
 
-Stk. 2. Ansøgning om statsgaranti for lån, supplerende lån og tillægslån i medfør af lov om statsgaranti for lån til yngre jordbrugere m.v. skal være indgivet til Økonomistyrelsen senest den 31. december 2011. Ansøgning om statsgaranti for supplerende lån i medfør af lovbekendtgørelse nr. 728 af 29. juni 2004, lovbekendtgørelse nr. 1015 af 9. oktober 2006 og lovbekendtgørelse nr. 856 af 25. august 2008 skal være indgivet til Økonomistyrelsen senest den 31. december 2011. Ansøgning om statsgaranti for tillægslån i medfør af lovbekendtgørelse nr. 856 af 25. august 2008 skal være indgivet til Økonomistyrelsen senest den 31. december 2011.
+Stk. 2 Udbetaling Danmark kan i perioden fra den 1. oktober 2016 til den 31. december 2016 foretage de dispositioner og regnskabsmæssige registreringer, der er nævnt i tekstanmærkning nr. 102 til § 7 på finansloven for 2016, for så vidt angår de udlån og garantier m.v., som Udbetaling Danmark administrerer i henhold til denne lov.
 
-Stk. 3. Ansøgninger om statsgaranti for lån, supplerende lån og tillægslån til yngre jordbrugere, der er modtaget inden lovens ikrafttræden, færdigbehandles efter de hidtil gældende regler, herunder bekendtgørelser udstedt i medfør af lov om støtte til udvikling af landdistrikterne eller lov om statsgaranti for lån til yngre jordbrugere m.v.
+Stk. 3. Ressortministeriernes betaling for varetagelse af opgaver, der overføres til Udbetaling Danmark ved denne lov, sker for perioden fra den 1. oktober 2016 til den 31. december 2016 efter reglerne på finansloven for 2016. Statens Administration foretager en samlet afregning til Udbetaling Danmark af denne betaling og gebyrer fra den 1. oktober 2016 til den 31. december 2016.
 
-Stk. 4. De hidtil gældende love og bekendtgørelser om statsgaranti for lån til yngre jordbrugere finder fortsat anvendelse for statsgarantier, der ydes eller er ydet for lån, supplerende lån og tillægslån, jf. dog stk. 2.
+§ 56
 
-Stk. 5. Ministeren for fødevarer, landbrug og fiskeri kan, indtil ordningen med garanti for lån til yngre jordbrugere er fuldt udfaset, fastsætte regler i henhold til de hidtil gældende regler i lov om statsgaranti for lån til yngre jordbrugere m.v.
+Stk. 1. Lovens §§ 1-10, 19-21, 23-28, 30-38 og 41-53 gælder ikke for Færøerne og Grønland, jf. dog stk. 2 og 3.
+
+Stk. 2. (Udelades)
+
+Stk. 3. (Udelades)
