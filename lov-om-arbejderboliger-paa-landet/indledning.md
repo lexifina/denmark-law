@@ -1,3 +1,5 @@
 Bekendtgørelse af lov om arbejderboliger på landet
 
-Herved bekendtgøres lov om arbejderboliger på landet, jf. lovbekendtgørelse nr. 344 af 16. maj 1997, med de ændringer, der følger af § 28 i lov nr. 430 af 6. juni 2005, § 34 i lov nr. 431 af 6. juni 2005, lov nr. 111 af 26. februar 2008, § 42 i lov nr. 1336 af 19. december 2008 og § 5 i lov nr. 1392 af 23. december 2012.
+Herved bekendtgøres lov om arbejderboliger på landet, jf. lovbekendtgørelse nr. 1747 af 14. december 2015, med de ændringer, der følger af § 27 i lov nr. 628 af 8. juni 2016.
+
+Den bekendtgjorte lovtekst vedrørende § 68 træder i kraft den 1. oktober 2016, jf. § 54, stk. 1, i lov nr. 628 af 8. juni 2016 om ændring af lov om Udbetaling Danmark og forskellige andre love (Overførsel af opgaver fra Statens Administrations Finansservicecenter m.fl. til Udbetaling Danmark m.v.).
