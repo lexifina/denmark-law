@@ -1,3 +1,5 @@
 Bekendtgørelse af lov om Kongeriget Danmarks Fiskeribank
 
-Herved bekendtgøres lov om Kongeriget Danmarks Fiskeribank, jf. lovbekendtgørelse nr. 92 af 8. februar 2001, med de ændringer, der følger af § 29 i lov nr. 430 af 6. juni 2005, § 35 i lov nr. 431 af 6. juni 2005, lov nr. 1393 af 21. december 2005 og § 55 i lov nr. 1336 af 19. december 2008.
+Herved bekendtgøres lov om Kongeriget Danmarks Fiskeribank, jf. lovbekendtgørelse nr. 1848 af 14. december 2015, med de ændringer, der følger af § 29 i lov nr. 628 af 8. juni 2016.
+
+Den bekendtgjorte lovtekst vedrørende §§ 8 a og 8 b træder i kraft den 1. oktober 2016, jf. § 54, stk. 1, i lov nr. 628 af 8. juni 2016 om ændring af lov om Udbetaling Danmark og forskellige andre love (Overførsel af opgaver fra Statens Administrations Finansservicecenter m.fl. til Udbetaling Danmark m.v.).

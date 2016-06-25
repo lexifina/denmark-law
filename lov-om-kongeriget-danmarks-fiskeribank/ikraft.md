@@ -1,53 +1,25 @@
-Lov nr. 401 af 14. juni 1995 ændring af lov om Kongeriget Danmarks Fiskeribank (Fiskeribankloven) indeholder følgende ikrafttrædelsesbestemmelse:
+Lov nr. 628 af 8. juni 2016 (Overførsel af opgaver fra Statens Administrations Finansservicecenter m.fl. til Udbetaling Danmark m.v.) indeholder følgende ikrafttrædelsesbestemmelser:
 
-§ 2
+§ 54
 
-Landbrugs- og fiskeriministeren fastsætter tidspunktet for lovens ikrafttræden.
+Stk. 1. Loven træder i kraft den 1. oktober 2016, jf. dog stk. 2 og 3.
 
-Lov nr. 903 af 16. december 1998 om afvikling af Kongeriget Danmarks Hypotekbank og Finansforvaltning indeholder følgende ikrafttrædelsesbestemmelse:
+Stk. 2. (Udelades)
 
-§ 10 Loven træder i kraft den 1. januar 1999.
+Stk. 3. (Udelades)
 
-Stk. 2. (Udeladt)
+§ 55
 
-Stk. 3. (Udeladt)
+Stk. 1. Loven finder ikke anvendelse for klager over afgørelser truffet af ressortministerierne eller Statens Administration inden lovens ikrafttræden. For sådanne klager finder de hidtil gældende regler anvendelse.
 
-Lov nr. 422 af 31. maj 2000 om ændring af lov om Kongeriget Danmarks Fiskeribank indeholder følgende ikrafttrædelsesbestemmelse:
+Stk. 2. Udbetaling Danmark kan i perioden fra den 1. oktober 2016 til den 31. december 2016 foretage de dispositioner og regnskabsmæssige registreringer, der er nævnt i tekstanmærkning nr. 102 til § 7 på finansloven for 2016, for så vidt angår de udlån og garantier m.v., som Udbetaling Danmark administrerer i henhold til denne lov.
 
-§ 3
+Stk. 3. Ressortministeriernes betaling for varetagelse af opgaver, der overføres til Udbetaling Danmark ved denne lov, sker for perioden fra den 1. oktober 2016 til den 31. december 2016 efter reglerne på finansloven for 2016. Statens Administration foretager en samlet afregning til Udbetaling Danmark af denne betaling og gebyrer fra den 1. oktober 2016 til den 31. december 2016.
 
-Tidspunktet for lovens eller dele af lovens ikrafttræden fastsættes af ministeren for fødevarer, landbrug og fiskeri.
+§ 56
 
-Lov nr. 430 af 6. juni 2005 om ændring af forskellige love og om ophævelse af lov om kommunalt samarbejde om opkrævning og inddrivelse (Konsekvensændringer som følge af lov om opkrævning og inddrivelse af visse fordringer – samlingen af inddrivelsen i Skatteministeriet) indeholder følgende ikrafttrædelses- og overgangsbestemmelse:
+Stk. 1. Lovens §§ 1-10, 19-21, 23-28, 30-38 og 41-53 gælder ikke for Færøerne og Grønland, jf. dog stk. 2 og 3.
 
-§ 70
+Stk. 2. (Udelades)
 
-Stk. 1. Loven træder i kraft dagen efter bekendtgørelsen i Lovtidende.
-
-Stk. 2. Loven har virkning fra den 1. november 2005, jf. dog stk. 3.
-
-Stk. 3. Afgørelser om inddrivelse, der inden den 1. oktober 2005 er påklaget til de hidtidige administrative klageinstanser, overgår til behandling i Landsskatteretten den 1. januar 2006, hvis de hidtidige klageinstanser ikke har færdigbehandlet klagen inden denne dato.
-
-Lov nr. 431 af 6. juni 2005 om ændring af forskellige love (Forenkling, harmonisering og objektivering af reglerne for inddrivelse af gæld til det offentlige m.v. samt mulighed for anvendelse af digitale lønsedler) indeholder følgende ikrafttrædelses- og overgangsbestemmelse:
-
-§ 85
-
-Stk. 1. Loven træder i kraft den 1. november 2005, jf. dog stk. 2.
-
-Stk. 2. (Udeladt)
-
-Lov nr. 1393 af 21. december 2005 om ændring af lov om Kongeriget Danmarks Fiskeribank (Afvikling og nedlæggelse m.v. af Kongeriget Danmarks Fiskeribank) indeholder følgende irkafttrædelsesbestemmelse:
-
-§ 2
-
-Stk. 1. § 1, nr. 2, træder i kraft den 1. januar 2006.
-
-Stk. 2. Ministeren for fødevarer, landbrug og fiskeri fastsætter datoen for lovens ikrafttrædelse i øvrigt.
-
-Lov nr. 1336 af 19. december 2008 om ændring af kildeskatteloven, opkrævningsloven, udpantningsloven og forskellige andre love (Konsekvensændringer som følge af lov om inddrivelse af gæld til det offentlige) indeholder følgende ikrafttrædelsesbestemmelse:
-
-§ 167
-
-Stk. 1. Loven træder i kraft den 1. januar 2009, jf. dog stk. 2. § 11 finder alene anvendelse på afgørelser om lønindeholdelse, der træffes efter lovens ikrafttræden.
-
-Stk. 2. (Udeladt)
+Stk. 3. (Udelades)
