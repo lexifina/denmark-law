@@ -1,7 +1,5 @@
-Givet på Fredensborg Slot, den 11. juni 2012
+Finansministeriet, den 13. juni 2016
 
-Under Vor Kongelige Hånd og Segl
+Claus Hjort Frederiksen
 
-MARGRETHE R.
-
-/ Bjarne Corydon
+/ Lars Frelle-Petersen
