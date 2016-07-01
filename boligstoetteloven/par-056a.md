@@ -5,3 +5,5 @@ Stk. 2. Har kommunalbestyrelsen eller regionsrådet efter § 51, stk. 2, i lov o
 Stk. 3. Lån ydes til en ligelig andel af det samlede beboerindskud til de personer i bofællesskabet, der opfylder betingelserne i § 24 a, stk. 1, nr. 1-5. Lån ydes til en forholdsmæssig del af beboerindskuddet til de personer, der bor i kollektive bofællesskaber, der er omfattet af § 24 a, stk. 1, nr. 6.
 
 Stk. 4. Det er en betingelse for udbetaling af lån til betaling af beboerindskud, at det kollektive bofællesskab opfylder betingelserne i §§ 24 b og 24 h.
+
+Stk. 5. Lån efter reglerne i § 56, stk. 2, ydes uanset stk. 1 og 3-4 til to personer, der bor i kollektive bofællesskaber i medfør af § 3, stk. 4-6, i lov om almene boliger m.v. Lån ydes til betaling af den enkelte lejers forholdsmæssige del af beboerindskuddet.
