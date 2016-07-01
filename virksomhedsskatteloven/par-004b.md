@@ -1,0 +1,11 @@
+## Kapitel 2 b
+
+## Sikkerhedsstillelser
+
+§ 4 b. Stilles aktiver, der indgår i virksomhedsordningen, til sikkerhed for gæld, der ikke indgår i virksomhedsordningen, anses den skattepligtige for at have gjort brug af værdier i virksomhedsordningen svarende til det laveste beløb af enten gældens kursværdi eller aktivernes handelsværdi i det indkomstår, hvori der stilles sikkerhed, jf. dog stk. 2-4. Beløbet i 1. pkt. anses for overført fra virksomhedsordningen til privatøkonomien. Beløbet opgøres på det tidspunkt, hvor aktiverne stilles til sikkerhed, eller på det tidspunkt, hvor den skattepligtiges tilvalg af virksomhedsordningen har virkning fra, hvis den skattepligtige forud for tilvalget af virksomhedsordningen har stillet virksomhedens aktiver til sikkerhed for gæld, der ikke indskydes i virksomhedsordningen samtidig med virksomhedens aktiver.
+
+Stk. 2. Stk. 1 finder ikke anvendelse for sikkerhedsstillelse, der er foretaget som led i en sædvanlig forretningsmæssig disposition.
+
+Stk. 3. Stk. 1 finder ikke anvendelse for gæld med pant i fast ejendom omfattet af § 1, stk. 3, 2. og 3. pkt., i det omfang gældens kursværdi ikke overstiger ejendomsværdien med tillæg af udgifter til forbedringer, som er foretaget efter fastsættelsen af ejendomsværdien, eller den kontante anskaffelsessum for den del af ejendommen, der tjener til bolig for den skattepligtige. Vurderingen efter 1. pkt. foretages på det tidspunkt, hvor der gives pant i den faste ejendom, eller på det tidspunkt, hvor den skattepligtiges tilvalg af virksomhedsordningen har virkning fra, hvis den skattepligtige forud for tilvalget af virksomhedsordningen har givet pant i ejendommen for gæld, der ikke indskydes i virksomhedsordningen samtidig med ejendommen. Stk. 1 finder ikke anvendelse for gæld med pant i fast ejendom omfattet af § 1, stk. 3, 2. og 3. pkt., hvis gælden kan henføres til omlægning af gæld, der er undtaget efter 1. pkt., og kursværdien af gælden ikke overstiger kursværdien af den gæld, der er omlagt.
+
+Stk. 4. Stk. 1 finder ikke anvendelse for gæld med pant i fast ejendom, der tidligere har tjent til bolig for den skattepligtige, hvis gælden indskydes i virksomhedsordningen i samme indkomstår som ejendommen.

@@ -18,7 +18,7 @@
 
 9) beløb, som sælgeren af en fast ejendom betaler til køberen til hel eller delvis dækning af præmie for ejerskifteforsikring i medfør af § 2, stk. 3, i lov om forbrugerbeskyttelse ved erhvervelse af fast ejendom m.v.,
 
-10) tilskud, som ydes for at sikre realisering af dokumenterbare energibesparelser, jf. § 22, stk. 1, nr. 7, i lov om elforsyning, § 14, stk. 1, nr. 4, i lov om naturgasforsyning og § 28 b, stk. 1, i lov om varmeforsyning, og
+10) tilskud, som ydes for at sikre realisering af dokumenterbare energibesparelser, jf. § 22, stk. 1, nr. 5, i lov om elforsyning, § 14, stk. 1, nr. 4, i lov om naturgasforsyning og § 28 b, stk. 1, i lov om varmeforsyning, og
 
 11) tilskud efter lov om statstilskud til renoverings- og bygningsarbejder og energibesparende materialer i helårsboliger.
 
