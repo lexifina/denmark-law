@@ -1,0 +1,3 @@
+§ 7 b. Styrelsen for Patientsikkerhed fratager en sundhedsperson dennes autorisation her i landet, hvis den pågældende sundhedspersons udenlandske autorisation vedrørende samme erhverv bliver frataget administrativt eller ved dom i udlandet, jf. dog stk. 2. Tilsvarende gælder i de tilfælde, hvor vedkommende i øvrigt i udlandet administrativt eller ved dom bliver begrænset i sin ret til at udøve det erhverv, som er omfattet af den danske autorisation.
+
+Stk. 2. Der skal ikke ske fratagelse af autorisationen her i landet, hvis de forhold, som har begrundet autorisationsfratagelsen i udlandet, er af en sådan karakter, at disse forhold udført her i landet åbenbart ikke ville have medført en fratagelse.

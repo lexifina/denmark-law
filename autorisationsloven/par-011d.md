@@ -1,0 +1,9 @@
+## Generhvervelse af fraskrevet autorisation og ophævelse af frivilligt indskrænket virksomhedsområde
+
+§ 11 d. En fraskrevet autorisation, jf. § 10 d, stk. 1, generhverves, når en fastsat frist for fraskrivelsen er udløbet. En fraskrevet autorisation kan inden for en fastsat frist generhverves efter ansøgning til Styrelsen for Patientsikkerhed, hvis styrelsen vurderer, at generhvervelse ikke er forbundet med fare for patientsikkerheden. Tilsvarende gælder, hvis autorisationen er fraskrevet for en ikke nærmere bestemt periode.
+
+Stk. 2. En indskrænkning af virksomhedsområde, jf. § 10 d, stk. 2, ophører, når fristen for indskrænkningen er udløbet. Indskrænkningen af virksomhedsområdet kan inden for en fastsat frist ophæves helt eller delvis efter ansøgning til Styrelsen for Patientsikkerhed, hvis styrelsen vurderer, at generhvervelse ikke er forbundet med fare for patientsikkerheden. Tilsvarende gælder, hvis indskrænkningen ikke gælder for en nærmere bestemt periode.
+
+Stk. 3. Afslag efter stk. 1 på generhvervelse af fraskrevet autorisation eller ophævelse af frivillig indskrænkning af virksomhedsområde efter stk. 2 kan forlanges indbragt for domstolene. Har en person ved dom fået afslag på generhvervelse af fraskrevet autorisationen eller ophævelse af frivillig indskrænkning af virksomhedsområde, skal der forløbe mindst 1 år, før personen kan forlange sagen prøvet på ny ved domstolene. Styrelsen for Patientsikkerheds afgørelse skal indeholde oplysning om adgangen til at begære domstolsprøvelse og om fristen herfor.
+
+Stk. 4. Begæring om domstolsprøvelse efter stk. 3 skal fremsættes over for Styrelsen for Patientsikkerhed, senest 3 uger efter at afgørelsen er meddelt den pågældende. Styrelsen for Patientsikkerhed anlægger sag mod den pågældende i den borgerlige retsplejes former.
