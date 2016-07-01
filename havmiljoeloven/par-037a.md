@@ -1,0 +1,1 @@
+§ 37 a. Kommunalbestyrelsen kan henlægge sine beføjelser og pligter efter dette kapitel til beredskabskommissionen, jf. beredskabslovens § 9, stk. 2, eller den fælles beredskabskommission, jf. beredskabslovens § 10, stk. 2.
