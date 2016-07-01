@@ -7,3 +7,5 @@ Stk. 3. Finanstilsynet kan til enhver tid mod behørig legitimation uden retsken
 Stk. 4. I det omfang det er nødvendigt for bedømmelse af Lønmodtagernes Dyrtidsfonds økonomiske stilling, kan Finanstilsynet indhente oplysninger og til enhver tid mod behørig legitimation uden retskendelse få adgang til de virksomheder, med hvilke Lønmodtagernes Dyrtidsfond har særlig direkte eller indirekte forbindelse.
 
 Stk. 5. Finanstilsynet kan kræve alle oplysninger, herunder regnskaber og regnskabsmateriale, udskrift af bøger, andre forretningspapirer og elektronisk lagrede data, som skønnes nødvendige for Finanstilsynets virksomhed.
+
+Stk. 6. Finanstilsynet kan efter forhandling med beskæftigelsesministeren fastsætte nærmere regler for den information om Lønmodtagernes Dyrtidsfonds finansielle situation, som Lønmodtagernes Dyrtidsfond skal indsende til Finanstilsynet, og for den information, som Lønmodtagernes Dyrtidsfond skal offentliggøre.
