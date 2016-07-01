@@ -1,0 +1,9 @@
+§ 9 k. Indehavere af brugsretten til eksisterende bygningsintern fysisk infrastruktur skal imødekomme enhver rimelig anmodning fra udbydere af offentlige højhastighedsnet til elektronisk kommunikation om adgang til eksisterende bygningsintern fysisk infrastruktur med henblik på etablering af offentlige højhastighedsnet til elektronisk kommunikation i tilfælde, hvor duplikering er teknisk umuligt eller økonomisk ineffektivt. En anmodning skal indgives skriftligt og angive, hvilken bygningsintern fysisk infrastruktur der anmodes om adgang til.
+
+Stk. 2. En anmodning, der ikke er rimelig, kan afvises. Afvisning skal ske skriftligt og meddeles den udbyder, der anmoder om adgang, snarest muligt og senest 2 måneder efter datoen for modtagelsen af anmodningen.
+
+Stk. 3. Adgang til eksisterende bygningsintern fysisk infrastruktur, jf. stk. 1, gives på rimelige og ikkediskriminerende vilkår og betingelser, herunder hvad angår en eventuel pris, og skal skriftligt meddeles den udbyder, der anmoder om adgang, senest 2 måneder efter modtagelsen af anmodningen.
+
+Stk. 4. Adgang, jf. stk. 1, gives, efterhånden som anmodninger herom modtages. I tilfælde af modtagelse af flere anmodninger på samme dag, hvor der i den bygningsinterne fysiske infrastruktur er begrænset kapacitet, gives adgang efter lodtrækning.
+
+Stk. 5. Stk. 1 finder ikke anvendelse i tilfælde, hvor adgang til et eksisterende net, der er tilsluttet en slutbrugers område, og som er egnet til udbud af elektroniske kommunikationstjenester over offentlige højhastighedsnet til elektronisk kommunikation, er sikret enten på objektive, gennemsigtige, forholdsmæssige og ikkediskriminerende vilkår og betingelser ved en afgørelse truffet i medfør af afsnit IV i lov om elektroniske kommunikationsnet og -tjenester eller ved regler fastsat i medfør af afsnit IV eller V i lov om elektroniske kommunikationsnet og -tjenester.
