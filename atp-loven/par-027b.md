@@ -7,3 +7,5 @@ Stk. 3. Finanstilsynet kan til enhver tid mod behørig legitimation uden retsken
 Stk. 4. I det omfang det er nødvendigt for bedømmelse af Arbejdsmarkedets Tillægspensions økonomiske stilling, kan Finanstilsynet indhente oplysninger og til enhver tid mod behørig legitimation uden retskendelse få adgang til de virksomheder, med hvilke Arbejdsmarkedets Tillægspension har særlig direkte eller indirekte forbindelse.
 
 Stk. 5. Finanstilsynet kan kræve alle oplysninger, herunder regnskaber og regnskabsmateriale, udskrift af bøger, andre forretningspapirer og elektronisk lagrede data, som skønnes nødvendige for Finanstilsynets virksomhed.
+
+Stk. 6. Finanstilsynet kan efter forhandling med beskæftigelsesministeren fastsætte nærmere regler for den information om Arbejdsmarkedets Tillægspensions finansielle situation, som Arbejdsmarkedets Tillægspension skal indsende til Finanstilsynet, og for den information, som Arbejdsmarkedets Tillægspension skal offentliggøre.

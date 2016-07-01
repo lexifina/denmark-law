@@ -1,5 +1,0 @@
-§ 17 j. Indeståender i Særlig Pensionsopsparing (SP), som det ikke har været muligt at udbetale på grund af kontohaverens forhold, overføres pr. 1. oktober 2010 til Arbejdsmarkedets Tillægspension til forvaltning. Arbejdsmarkedets Tillægspension indestår herefter for SP's forpligtelser i forhold til kontohaveren og foretager den nødvendige administration. Krav på de overførte indeståender forældes efter 5 år, jf. § 36, stk. 2, regnet fra den 30. april 2010.
-
-Stk. 2. En kontohaver eller boet efter en afdød kontohaver, der kan dokumentere et krav på et indestående, kan i perioden fra den 1. maj 2010 til den 1. maj 2015 henvende sig til Arbejdsmarkedets Tillægspension og få udbetalt tilgodehavendet.
-
-Stk. 3. Overførte indeståender som nævnt i stk. 1, som kontohaver eller boet efter en kontohaver ikke senest den 30. april 2015 har anmodet om at få udbetalt, tilfalder Arbejdsmarkedets Tillægspension.
