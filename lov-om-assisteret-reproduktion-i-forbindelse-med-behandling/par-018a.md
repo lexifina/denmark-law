@@ -1,0 +1,1 @@
+§ 18 a. Den behandlende sundhedsperson skal sikre, at der sker destruktion af kvindens ægtefælles eller partners opbevarede sæd i tilfælde af dennes død, medmindre der foreligger et skriftligt samtykke fra manden efter § 23, stk. 3, 2. pkt.
