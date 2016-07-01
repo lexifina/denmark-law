@@ -12,13 +12,15 @@
 
 6) tilladelser vedrørende de eksplosivstoffer, der er omfattet af forbuddet i § 1,
 
-7) tilladelser til blankvåben,
+7) tilladelser til handlende,
 
-8) tilladelser til handlende,
+8) tilladelser til signalvåben og kombinerede gas- og signalvåben,
 
-9) tilladelser til signalvåben og kombinerede gas- og signalvåben,
+9) tilladelser til salutkanoner,
 
-10) tilladelser til tilskudsberettigede museer i henhold til museumsloven.
+10) tilladelser til tilskudsberettigede museer i henhold til museumsloven og
+
+11) tilladelser til udenlandske embedsmænd, der udfører opgaver i Danmark efter artikel 17 og 18 i Rådets afgørelse 2008/616/RIA af 23. juni 2008 om gennemførelse af afgørelse 2008/615/RIA om intensivering af det grænseoverskridende samarbejde, navnlig om bekæmpelse af terrorisme og grænseoverskridende kriminalitet.
 
 Stk. 2. Afgiften nedsættes til det halve, hvis ansøgeren i forvejen har en våbentilladelse, for hvilken der er betalt fuld afgift.
 
