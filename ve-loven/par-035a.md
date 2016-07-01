@@ -10,4 +10,4 @@ Stk. 2. Der ydes pristillæg til vindmøller omfattet af stk. 1 for summen af en
 
 Stk. 3. Pristillægget efter stk. 2 udgør 25 øre pr. kWh, dog således at pristillægget og den efter § 51, stk. 2, nr. 2, fastsatte markedspris tilsammen ikke overstiger 58 øre pr. kWh.
 
-Stk. 4. Der ydes en godtgørelse på 2,3 øre pr. kWh for balanceringsomkostninger til elektricitet fra vindmøller omfattet af stk. 1.
+Stk. 4. Der ydes en godtgørelse på 1,8 øre pr. kWh for balanceringsomkostninger til elektricitet fra vindmøller omfattet af stk. 1. Godtgørelsen ydes i 20 år fra tidspunktet for nettilslutning.
