@@ -1,0 +1,5 @@
+## Afgørelse med vilkår
+
+§ 9 a. Styrelsen for Patientsikkerhed kan undlade at indbringe en sag om autorisationsfratagelse, jf. § 7, nr. 1 og 2, og indskrænkning af virksomhedsområde, jf. § 8, stk. 2, for domstolene og undlade at træffe afgørelse om midlertidig autorisationsfratagelse, jf. § 9, stk. 1, jf. § 7, nr. 1 og 2, eller midlertidig indskrænkning af virksomhedsområde, jf. § 9, stk. 2, jf. § 7, nr. 1 og 2, på vilkår af at den pågældende autoriserede sundhedsperson i en nærmere fastsat periode overholder betingelser om behandling, kontrolforanstaltninger m.v. Styrelsen for Patientsikkerhed kan forlænge den fastsatte periode.
+
+Stk. 2. Ved manglende overholdelse af vilkår, jf. stk. 1, kan Styrelsen for Patientsikkerhed genoptage sagen om autorisationsfratagelse, jf. § 7, nr. 1 og 2, indskrænkning af virksomhedsområde, jf. § 8, stk. 2, midlertidig autorisationsfratagelse, jf. § 9, stk. 1, jf. § 7, nr. 1 og 2, eller midlertidig indskrænkning af virksomhedsområde, jf. § 9, stk. 2, jf. § 7, nr. 1 og 2.
