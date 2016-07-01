@@ -2,4 +2,4 @@
 
 Stk. 2. Med fængsel indtil 6 år straffes den, som hverver en person til at begå eller fremme handlinger omfattet af § 114 b eller til at slutte sig til en gruppe eller sammenslutning for at fremme, at gruppen eller sammenslutningen begår handlinger af denne karakter.
 
-Stk. 3. Med fængsel indtil 6 år straffes den, som lader sig hverve til at begå handlinger omfattet af § 114 eller § 114 a.
+Stk. 3. Med fængsel indtil 6 år straffes den, som lader sig hverve til at begå handlinger omfattet af § 114 eller § 114 a. Er den pågældende tilsluttet en væbnet styrke, kan straffen stige til fængsel indtil 10 år eller under særligt skærpende omstændigheder til fængsel indtil 16 år. Som særligt skærpende omstændigheder anses navnlig tilfælde, hvor den pågældende har deltaget i kamphandlinger.
