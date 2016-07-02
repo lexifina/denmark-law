@@ -1,5 +1,7 @@
 Bekendtgørelse af lov om sygedagpenge
 
-Herved bekendtgøres lov om sygedagpenge, jf. lovbekendtgørelse nr. 938 af 12. august 2015, med de ændringer, der følger af § 1 i lov nr. 742 af 1. juni 2015, § 34 i lov nr. 994 af 30. august 2015, § 5 i lov nr. 1569 af 15. december 2015 og § 1 i lov nr. 1868 af 29. december 2015.
+Herved bekendtgøres lov om sygedagpenge, jf. lovbekendtgørelse nr. 48 af 13. januar 2016, med de ændringer, der følger af § 1 i lov nr. 625 af 8. juni 2016 og § 5 i lov nr. 628 af 8. juni 2016.
 
-Den bekendtgjorte lovtekst vedrørende § 66, stk. 3, 1. pkt., stk. 4, 6, 7 og 15, træder i kraft den 1. juli 2016, jf. § 9, stk. 1, i lov nr. 1569 af 15. december 2015 om ændring af lov om Arbejdsmarkedets Tillægspension, lov om Lønmodtagernes Dyrtidsfond, lov om arbejdsløshedsforsikring m.v. og forskellige andre love (Ændring af investeringsregler som følge af solvens II, undtagelse af investeringsdel fra lov om offentlighed i forvaltningen, fritagelse for betaling af finansieringsbidrag m.v.).
+Den bekendtgjorte lovtekst vedrørende § 45, stk. 5, § 45 stk. 6, 2. pkt., § 55, stk. 3, 1. pkt. og 2. pkt., § 55, stk. 4, og § 55 stk. 5, 2. pkt., træder i kraft den 1. oktober 2016, jf. § 54, stk. 1, i lov nr. 628 af 8. juni 2016 om ændring af lov om Udbetaling Danmark og forskellige andre love (Overførsel af opgaver fra Statens Administrations Finansservicecenter m.fl. til Udbetaling Danmark m.v.).
+
+De ændringer, der følger af § 5 i lov nr. 624 af 8. juni 2016, er ikke indarbejdet i denne lovbekendtgørelse, da disse ændringer træder i kraft den 2. januar 2017, jf. § 14 i lov nr. 624 af 8. juni 2016.
