@@ -1,3 +1,3 @@
 Bekendtgørelse af lov om Arbejdsgivernes Uddannelsesbidrag
 
-Herved bekendtgøres lov om Arbejdsgivernes Uddannelsesbidrag, jf. lovbekendtgørelse nr. 148 af 12. februar 2014, med de ændringer, der følger af § 4 i lov nr. 634 af 16. juni 2014 og § 1 i lov nr. 1538 af 27. december 2014.
+Herved bekendtgøres lov om Arbejdsgivernes Uddannelsesbidrag, jf. lovbekendtgørelse nr. 784 af 15. juni 2015, med den ændring, der følger af § 19 i lov nr. 623 af 8. juni 2016.

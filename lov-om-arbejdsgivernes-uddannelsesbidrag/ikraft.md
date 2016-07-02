@@ -2,7 +2,7 @@ Lov nr. 1324 af 20. december 2000 (Fremskaffelse af flere uddannelsesaftaler) in
 
 § 3
 
-Loven træder i kraft den 1. januar 2001. § 1, nr. 3, har virkning for lønrefusion for skoleophold, der påbegyndes efter den 31. december 2000. § 1, nr. 4 har virkning for delaftaler og restuddannelsesaftaler, der påbegyndes efter den 31. december 2000.
+Loven træder i kraft den 1. januar 2001. § 1, nr. 3, har virkning for lønrefusion for skoleophold, der påbegyndes efter den 31. december 2000. § 1, nr. 4, har virkning for delaftaler og restuddannelsesaftaler, der påbegyndes efter den 31. december 2000.
 
 Lov nr. 523 af 6. juni 2007 (Ændringer som følge af en ny lov om forældelse af fordringer, ophævelse af købelovens reklamationsfrister ved visse køb m.v.) indeholder følgende ikrafttrædelsesbestemmelser:
 
@@ -42,12 +42,6 @@ Elever i landbrugsuddannelserne og de grundlæggende social- og sundhedsuddannel
 
 4) (Udelades)
 
-Lov nr. 639 af 14. juni 2010 om godtgørelse og tilskud til befordring ved deltagelse i erhvervsrettet voksen- og efteruddannelse indeholder følgende ikrafttrædelsesbestemmelse:
-
-§ 21. Loven træder i kraft den 1. juli 2011 og har virkning for ansøgninger om godtgørelse og tilskud til befordring, der modtages efter lovens ikrafttræden, og som vedrører deltagelse i erhvervsrettet voksen- og efteruddannelse, der påbegyndes efter lovens ikrafttræden.
-
-Stk. 2. (Udelades)
-
 Lov nr. 1347 af 21. december 2012 (Finansieringsomlægning af skolepraktikydelse, omlægning af arbejdsgiverbidrag, ophævelse af præmie, løntilskud og bonus samt nye, midlertidige tilskudsordninger) indeholder følgende ikrafttrædelses- og overgangsbestemmelse:
 
 § 7
@@ -82,7 +76,7 @@ Stk. 5. (Udelades)
 
 Stk. 1-10. (Udelades)
 
-Stk. 11. For perioden fra den 1. august 2015 til den 31. juli 2021 overfører Arbejdsgivernes Uddannelsesbidrag et beløb til staten til dækning af udgifter for den overgangsordning for elever, der er nævnt i stk. 8, 3. pkt. Undervisningsministeren beregner årligt beløbets størrelse og fastsætter betalingstidspunkterne.
+Stk. 11. For perioden fra den 1. august 2015 til den 31. juli 2021 overfører Arbejdsgivernes Uddannelsesbidrag et beløb til staten til dækning af udgifter for den overgangsordning for elever, der er nævnt i stk. 8, 3. pkt. Ministeren for børn, undervisning og ligestilling beregner årligt beløbets størrelse og fastsætter betalingstidspunkterne.
 
 Stk. 12-14. (Udelades)
 
@@ -95,3 +89,7 @@ Stk. 1. Loven træder i kraft den 1. januar 2015, jf. dog stk. 2.
 Stk. 2. § 2 træder i kraft den 31. december 2014.
 
 Stk. 3. § 1, nr. 1, finder anvendelse for elevers ophold på kostafdelinger, der påbegyndes den 1. januar 2015 eller senere.
+
+Lov nr. 623 af 8. juni 2016 om integrationsgrunduddannelse (igu) indeholder følgende ikrafttrædelses- og overgangsbestemmelse:
+
+§ 15. Loven træder i kraft den 1. juli 2016.
