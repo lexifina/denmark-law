@@ -1,6 +1,6 @@
 § 299 d. Med fængsel indtil 6 år straffes den, der under særligt skærpende omstændigheder gør sig skyldig i
 
-1) overtrædelse af værdipapirhandelslovens § 35, stk. 1, eller § 39, stk. 1,
+1) overtrædelse af artikel 14, litra a og b, eller artikel 15 i Europa-Parlamentets og Rådets forordning (EU) nr. 596/2014 af 16. april 2014 om markedsmisbrug (forordningen om markedsmisbrug),
 
 2) overtrædelse af artikel 3, stk. 1, litra a eller c, eller artikel 5 i Europa-Parlamentets og Rådets forordning nr. 1227/2011/EU af 25. oktober 2011 om integritet og gennemsigtighed på engrosenergimarkederne eller
 
