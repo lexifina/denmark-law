@@ -135,3 +135,47 @@ Stk. 1. Loven træder i kraft den 1. maj 2015, jf. dog stk. 3.
 Stk. 2. Loven finder anvendelse på domme, der afsiges efter lovens ikrafttræden. Dette gælder, selv om det strafbare forhold er begået før lovens ikrafttræden.
 
 Stk. 3. (Udelades)
+
+Lov nr. 1880 af 29. december 2015 (Tilslutning til fjendtlig væbnet styrke) indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 2
+
+Loven træder i kraft dagen efter bekendtgørelsen i Lovtidende.
+
+Lov nr. 170 af 27. februar 2016 (Kriminalisering af uretmæssig besiddelse af mobiltelefon og lignende kommunikationsudstyr i varetægtssurrogat) indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 2
+
+Loven træder i kraft den 1. marts 2016.
+
+Lov nr. 632 af 8. juni 2016 (Ændringer som følge af forordningen om markedsmisbrug samt gennemførelse af regler om provisionsbetalinger m.v. fra tredjeparter og oplysninger om omkostninger m.v. i direktivet om markeder for finansielle instrumenter (MiFID II)) indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 6
+
+Stk. 1. Loven træder i kraft den 3. juli 2016, jf. dog stk. 2.
+
+Stk. 2. (Udelades)
+
+Lov nr. 635 af 8. juni 2016 (Skærpelse af straffen for voldtægt og for samleje med et barn under 15 år ved udnyttelse af fysisk eller psykisk overlegenhed) indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 2
+
+Loven træder i kraft den 1. juli 2016.
+
+Lov nr. 636 af 8. juni 2016 (Skærpelse af straffen for falsk anklage) indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 2
+
+Loven træder i kraft den 1. juli 2016.
+
+Lov nr. 641 af 8 juni 2016 (Styrket indsats mod mobiltelefoner i fængsler m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 4
+
+Loven træder i kraft den 1. august 2016.
+
+Lov nr. 642 af 8. juni 2016 (Væbnede konflikter i udlandet m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 3
+
+Loven træder i kraft den 1. juli 2016.

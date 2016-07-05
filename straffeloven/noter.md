@@ -31,3 +31,19 @@
 16) Ved bekendtgørelse nr. 388 af 9. april 2015 er det bestemt, at ændringsloven træder i kraft den 6. maj 2015.
 
 17) Lovændringen vedrører overskriften til 7. kapitel, § 56, stk. 1 og 2, § 60, stk. 1, nr. 2 og 3, § 62, stk. 2, § 63, stk. 1, 2. pkt., § 63, stk. 3, 2. pkt., § 63, stk. 4, 3. pkt., § 64, 2. pkt., § 66, stk. 3, 2. pkt., § 67, stk. 2, 2. pkt., og § 86, stk. 3 og 4.
+
+18) Lovændringen vedrører overskriften til 12. kapitel, § 101 a og § 102, stk. 1.
+
+19) Loven er bekendtgjort i Lovtidende den 30. december 2015.
+
+20) Lovændringen vedrører § 124, stk. 4, 3. pkt.
+
+21) Lovændringen vedrører § 299 d, stk. 1, nr. 1.
+
+22) Lovændringen vedrører § 216, stk. 4, og § 222.
+
+23) Lovændringen vedrører § 95, 1. pkt., § 97 b, stk. 3, og § 164, stk. 4.
+
+24) Lovændringen vedrører § 124.
+
+25) Lovændringen vedrører § 114 c, stk. 3, 2. og 3. pkt., § 114 e, 2. og 3. pkt., § 114 i, § 114 j og § 128.
