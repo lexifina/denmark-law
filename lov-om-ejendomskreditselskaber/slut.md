@@ -1,7 +1,5 @@
-Givet på Christiansborg Slot, den 25. juni 2010
+Erhvervs- og Vækstministeriet, den 5. juli 2016
 
-Under Vor Kongelige Hånd og Segl
+Troels Lund Poulsen
 
-MARGRETHE R.
-
-/ Brian Mikkelsen
+/ Jesper Berg
