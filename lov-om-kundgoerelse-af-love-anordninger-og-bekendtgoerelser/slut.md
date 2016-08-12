@@ -1,13 +1,5 @@
-Givet på Christiansborg Slot, den 6. december 1989
+Justitsministeriet, den 10. august 2016
 
-Under Vor Kongelige Hånd og Segl
+Søren Pind
 
-I Dronningens Navn:
-
-FREDERIK
-
-Kronprins
-
-/Hans Engell
-
-Ingen
+/ Thomas Klyver
