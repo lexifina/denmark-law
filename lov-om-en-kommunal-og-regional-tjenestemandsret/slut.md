@@ -1,9 +1,5 @@
-Indenrigsministeriet, den 18. januar 2000
+Social- og Indenrigsministeriet, den 23. august 2016
 
-Thorkild Simonsen
+P.M.V. Hans B. Thomsen
 
-/Pernille Christensen
-
-Bekendtgjort i Lovtidende den 19. juni 1981.
-
-Bekendtgjort i Lovtidende den 3. juni 1999.
+/ Christina Ekmann
