@@ -1,5 +1,5 @@
-Kirkeministeriet, den 29. marts 2014
+Kirkeministeriet, den 1. september 2016
 
-Marianne Jelved
+Bertel Haarder
 
-/ Eva Stilov
+/ Christina Hyldgaard Jacobsen
