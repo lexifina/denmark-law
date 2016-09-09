@@ -4,4 +4,4 @@
 
 Stk. 2. Udbetalingen genoptages, når tillægsmodtageren har meddelt nærmere angivne oplysninger om det pågældende forhold.
 
-Stk. 3. Klima-, energi- og bygningsministeren kan fastsætte nærmere regler om betingelser og frister for tilbageholdelse og genoptagelse af pristillæg og andre ydelser.
+Stk. 3. Energi-, forsynings- og klimaministeren kan fastsætte nærmere regler om betingelser og frister for tilbageholdelse og genoptagelse af pristillæg og andre ydelser.

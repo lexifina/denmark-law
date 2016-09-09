@@ -1,5 +1,5 @@
-Energistyrelsen, den 25. november 2013
+Energistyrelsen, den 6. september 2016
 
-Ib Larsen
+Martin Hansen Vicedirektør
 
-/ Hanne Windemüller
+/ Jane Glindvad Kristensen

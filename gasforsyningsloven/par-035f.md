@@ -2,4 +2,4 @@
 
 Stk. 2. Energinet.dk kan med frigørende virkning udbetale pristillæg og beløb til berigtigelse af for lidt udbetalt pristillæg til den, der er anmeldt som ejer af et anlæg som nævnt i stk. 1 i den periode, som udbetalingen vedrører, medmindre ejeren har anmeldt, at udbetaling skal ske til en anden.
 
-Stk. 3. Klima-, energi- og bygningsministeren kan fastsætte nærmere regler om anmeldelse og udbetaling efter stk. 1 og 2.
+Stk. 3. Energi-, forsynings- og klimaministeren kan fastsætte nærmere regler om anmeldelse og udbetaling efter stk. 1 og 2.
