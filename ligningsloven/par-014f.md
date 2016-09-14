@@ -3,17 +3,3 @@
 Stk. 2. Et flertal af fondsbestyrelsens medlemmer skal vælges af og blandt de af virksomhedens ansatte, der kan nyde godt af fondens virke.
 
 Stk. 3. Bidrag til fonde efter stk. 1 kan ikke fradrages efter reglerne i § 12, stk. 2.
-
-§ 14 g. Ejeren af en udlejningsejendom skal ikke medregne den del af lejeindtægten, der svarer til beløb, der skal afsættes efter lejelovens § 63 a eller efter boligreguleringslovens § 18 b, ved opgørelsen af den skattepligtige indkomst. Det samme gælder for godtgørelser, der efter § 4 i lov om kommunal anvisningsret afsættes på ejendommens konto i Grundejernes Investeringsfond efter boligreguleringslovens § 18 b.
-
-Stk. 2. Renter af beløb, der er bundet efter lejelovens § 63 a eller boligreguleringslovens § 18 b, medregnes ikke ved opgørelsen af den skattepligtige indkomst.
-
-Stk. 3. Beløb til vedligeholdelse og forbedring af ejendommen, som fradrages i den årlige indbetaling til ejendommens konto i Grundejernes Investeringsfond efter boligreguleringslovens § 22 a, stk. 2, og udgifter, der afholdes af beløb, der udbetales af kontoen efter lejelovens § 63 e eller boligreguleringslovens § 22 b, kan ikke fradrages ved opgørelsen af den skattepligtige indkomst eller medregnes ved opgørelsen af grundlaget for skattemæssige afskrivninger og til anskaffelsessummen ved opgørelse af skattepligtig fortjeneste ved afståelse af ejendommen. Udgifter til vedligeholdelse og forbedring af ejendommen anses for fortrinsvis at være afholdt af de beløb, der er nævnt i 1. pkt.
-
-Stk. 4. Hvis de samlede udgifter til vedligeholdelse og forbedring af en udlejningsejendom, som ejeren har afholdt i et indkomstår, overstiger summen af de fratrukne og udbetalte beløb efter stk. 3 vedr. samme indkomstår, anses de i stk. 3 nævnte beløb for fortrinsvis at være anvendt til forbedring af ejendommen.
-
-Stk. 5. Hvis summen af de fratrukne og udbetalte beløb efter stk. 3 vedr. et indkomstår overstiger de samlede udgifter til vedligeholdelse og forbedring af ejendommen i samme indkomstår, medregnes det overskydende beløb i ejerens skattepligtige indkomst for dette indkomstår. Beløb, der udbetales efter lejelovens § 63 f, eller boligreguleringslovens § 22 e, medregnes i ejerens skattepligtige indkomst i det indkomstår, hvori beløbet kan kræves udbetalt. Det beløb, der herefter kommer til beskatning efter 1. og 2. pkt., nedsættes dog først med et beløb svarende til de udgifter, der er afholdt til forbedring af ejendommen efter den 1. januar 1983, i det omfang disse i de enkelte indkomstår har oversteget summen af de i stk. 3 nævnte beløb og ikke i tidligere indkomstår er anvendt til nedsættelse af de beløb, der kommer til beskatning efter 1. og 2. pkt. i disse eller senere indkomstår.
-
-Stk. 6. Skatteministeren kan bestemme, at der for ejendomme, der er omfattet af lejelovens § 63 a eller boligreguleringslovens § 18 b, føres en særlig konto over beløb, der anvendes til ejendommens vedligeholdelse og forbedring, og over de beløb, der er nævnt i stk. 3 og 5.
-
-Stk. 7. Skatteministeren kan fastsætte bestemmelser om, at Grundejernes Investeringsfond skal give skattemyndighederne underretning om ind- og udbetalinger af beløb på ejendommens konto efter lejelovens § 63 a og boligreguleringslovens § 18 b samt om kontoens indestående. I denne forbindelse kan skatteministeren fastsætte bestemmelser om, at kontohaverne skal give Grundejernes Investeringsfond oplysninger om personnummer (CPR-nr.) eller arbejdsgivernummer efter kildeskatteordningen (SE- eller cvr-nr.).
