@@ -1,1 +1,1 @@
-§ 14a. (Ophævet).
+§ 14 a. (Ophævet)
