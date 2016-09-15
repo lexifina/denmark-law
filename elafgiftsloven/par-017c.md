@@ -1,1 +1,1 @@
-§ 17c. (Ophævet).
+§ 17 c. (Ophævet)

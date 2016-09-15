@@ -1,1 +1,1 @@
-§ 17d. (Ophævet).
+§ 17 d. (Ophævet)
