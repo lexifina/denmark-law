@@ -1,5 +1,5 @@
-Lov om godkendte revisorer og revisionsvirksomheder (revisorloven)
+Bekendtgørelse af lov om godkendte revisorer og revisionsvirksomheder (revisorloven)
 
-VI MARGRETHE DEN ANDEN, af Guds Nåde Danmarks Dronning, gør vitterligt:
+Herved bekendtgøres lov om godkendte revisorer og revisionsvirksomheder (revisorloven), jf. lov nr. 468 af 17. juni 2008, med de ændringer, der følger af § 6 i lov nr. 133 af 24. februar 2009, § 3 i lov nr. 516 af 12. juni 2009, § 24 i lov nr. 718 af 25. juni 2010, § 8 i lov nr. 1231 af 18. december 2012, § 2 i lov nr. 1232 af 18. december 2012, § 1 i lov nr. 617 af 12. juni 2013, § 11 i lov nr. 634 af 12. juni 2013, § 20 i lov nr. 403 af 28. april 2014, § 10 i lov nr. 1490 af 23. december 2014, § 4 i lov nr. 1563 af 15. december 2015, § 14 i lov nr. 395 af 2. maj 2016 og § 1 i lov nr. 631 af 8. juni 2016.
 
-Folketinget har vedtaget og Vi ved Vort samtykke stadfæstet følgende lov:
+Den bekendtgjorte lovtekst vedrørende overskriften til kapitel 6, §§ 28 og 28 a træder i kraft den 1. januar 2017, jf. § 12, stk. 2, i lov nr. 631 af 8. juni 2016 om ændring af revisorloven og forskellige andre love (Gennemførelse af ændringer i revisordirektivet og valgmuligheder i forordningen om særlige krav til revision af virksomheder af interesse for offentligheden).
