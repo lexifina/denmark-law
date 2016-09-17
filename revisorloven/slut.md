@@ -1,5 +1,5 @@
-Givet på Christiansborg Slot, den 17. juni 2008
+Erhvervsstyrelsen, den 9. september 2016
 
-MARGRETHE R.
+P.M.V. Victor Kjær
 
-/ Bendt Bendtsen
+/ Susanne Thorhauge
