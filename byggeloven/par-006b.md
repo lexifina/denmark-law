@@ -1,1 +1,1 @@
-§ 6 B. (Ophævet).
+§ 6 B. (Ophævet)
