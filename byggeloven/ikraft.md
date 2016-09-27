@@ -1,134 +1,12 @@
-Lov nr. 278 af 8. juni 1977 indeholder følgende ikrafttrædelsesbestemmelse:
+Lov nr. 575 af 6. juni 2007 (Byggeskadeforsikring m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
 
-§ 2
+§ 4.
 
-Loven træder i kraft den 1. juli 1978.
-
-Lov nr. 205 af 23. maj 1979 indeholder følgende ikrafttrædelsesbestemmelse:
-
-§ 2
-
-Loven træder i kraft ved bekendtgørelsen i Lovtidende.
-
-Lov nr. 66 af 10. marts 1982 indeholder følgende ikrafttrædelsesbestemmelse:
-
-§ 2
-
-Loven træder i kraft den 1. maj 1982.
-
-Lov nr. 193 af 9. maj 1984 indeholder følgende ikrafttrædelsesbestemmelse:
-
-§ 2
-
-Loven træder i kraft den 1. august 1984.
-
-Stk. 2. § 1, nr. 6, har virkning for afgørelser, der meddeles efter lovens ikrafttræden. Byggelovens § 16 A, stk. 4, som affattet ved denne lovs § 1, nr. 5, finder anvendelse på meddelelser, som afgives efter lovens ikrafttræden, og stk. 5 på påbud, der afgives efter dette tidspunkt.
-
-Lov nr. 322 af 24. maj 1989 indeholder bl.a. følgende ikrafttrædelsesbestemmelse:
-
-§ 5
-
-Loven træder i kraft den 1. juli 1989.
-
-Lov nr. 138 af 7. marts 1990 indeholder bl.a. følgende ikrafttrædelsesbestemmelse:
-
-§ 20
-
-Loven træder i kraft den 1. april 1991.
-
-Lov nr. 270 af 2. maj 1990 indeholder bl.a. følgende ikrafttrædelsesbestemmelse:
-
-§ 4
-
-Loven træder i kraft den 1. juli 1990, jf. dog stk. 2.
-
-Stk. 2. Tidspunktet for ikrafttrædelsen af § 1, nr. 7, og § 2 fastsættes af boligministeren.
-
-Lov nr. 252 af 6. maj 1993 indeholder følgende ikrafttrædelsesbestemmelse:
-
-§ 3
-
-Loven træder i kraft den 1. juli 1993.
-
-Stk. 2. § 1, nr. 3 og 4, og § 2 har virkning for ansøgninger om dispensation, som meddeles efter lovens ikrafttræden.
-
-Lov nr. 362 af 14. juni 1995 indeholder følgende ikrafttrædelsesbestemmelse:
-
-§ 4
-
-Loven træder i kraft den 1. juli 1995.
-
-Stk. 2. Regler fastsat i medfør af byggelovens § 4 A som affattet ved denne lovs § 1, nr. 2, har ikke virkning for bebyggelse, hvor byggesagsbehandlingen er påbegyndt inden den 1. juli 1995.
-
-Lov nr. 485 af 12. juni 1996 om fremme af energi- og vandbesparelser i bygninger indeholder følgende ikrafttrædelsesbestemmelse:
-
-§ 17
-
-Loven træder i kraft den 1. januar 1997.
-
-Lov nr. 1083 af 29. december 1997 indeholder følgende ikrafttrædelsesbestemmelse:
-
-§ 2
-
-Loven træder i kraft den 1. april 1998.
-
-Stk. 2. § 1, nr. 2, har virkning for afgørelser, der træffes efter lovens ikrafttræden.
-
-Lov nr. 228 af 31. marts 2001 indeholder følgende ikrafttrædelsesbestemmelse:
-
-§ 2
-
-Loven træder i kraft den 1. april 2001, jf. dog stk. 2.
-
-Stk. 2. § 1, nr. 5, 6, 9 og 10, træder i kraft den 1. oktober 2001.
-
-Stk. 3. Regler fastsat i medfør af byggelovens § 8, stk. 1, som affattet ved denne lovs § 1, nr. 6, finder anvendelse på ansøgninger, der indgives efter det i stk. 2 fastsatte ikrafttrædelsestidspunkt for § 1, nr. 5, 6, 9 og 10.
-
-Stk. 4. § 1, nr. 8, finder anvendelse på ansøgninger om dispensation, som indgives den 1. april 2001 eller derefter. For ansøgninger, der indgives inden 1. april 2001, anvendes de hidtil gældende regler.
-
-Lov nr. 1088 af 17. december 2002 indeholder bl.a. følgende ikrafttrædelsesbestemmelse:
-
-§ 4
-
-§ 1 og § 2, nr. 2 og 3, træder i kraft den 1. januar 2003. § 2, nr. 1 og 4, og § 3 træder i kraft den 1. april 2003.
-
-Stk. 2. (Udeladt)
-
-Stk. 3. § 2, nr. 1, og § 3 finder anvendelse på klager, der indgives den 1. april 2003 eller derefter. For klager, der indgives inden den 1. april 2003, anvendes de hidtil gældende regler.
-
-Lov nr. 484 af 9. juni 2004 indeholder bl.a. følgende ikrafttrædelsesbestemmelse:
-
-§ 4
-
-§ 1, nr. 1, træder i kraft den 1. januar 2005.
-
-Stk. 2. § 1, nr. 2-5, og § 2 træder i kraft den 1. juli 2004. § 1, nr. 3 og 5, finder anvendelse på ulykker, der indtræffer efter den 1. juli 2004.
-
-Lov nr. 431 af 6. juni 2005 indeholder bl.a. følgende ikrafttrædelsesbestemmelse:
-
-§ 85
-
-Loven træder i kraft den 1. november 2005, jf. dog stk. 2
-
-Stk. 2. (Udeladt)
-
-Lov nr. 542 af 24. juni 2005 indeholder bl.a. følgende ikrafttrædelsesbestemmelse:
-
-§ 6
-
-Loven træder i kraft den 1. januar 2007, jf. dog stk. 2.
-
-Stk. 2. (Udeladt)
-
-Lov nr. 575 af 6. juni 2007 indeholder følgende ikrafttrædelsesbestemmelse:
-
-§ 4
-
-Loven træder i kraft den 1. april 2008.
+Stk. 1. Loven træder i kraft den 1. april 2008.
 
 Stk. 2. § 1, nr. 3-8, finder anvendelse på bebyggelse, hvor kommunalbestyrelsen modtager en ansøgning om byggetilladelse den 1. april 2008 eller senere.
 
-Lov nr. 514 af 17. juni 2008 indeholder følgende ikrafttrædelsesbestemmelse:
+Lov nr. 514 af 17. juni 2008 (Afbureaukratisering af byggesagsbehandling og markedskontrol med byggevarer) indeholder følgende ikrafttrædelsesbestemmelse:
 
 § 2
 
@@ -140,20 +18,86 @@ Stk. 2. § 1, nr. 10, træder i kraft den 1. juni 2008.
 
 Loven gælder for ansøgninger og anmeldelsessager, der er modtaget hos kommunalbestyrelsen efter den 1. januar 2009.
 
-Lov nr. 1336 af 19. december 2008 indeholder bl.a. følgende ikrafttrædelsesbestemmelse:
+Lov nr. 1336 af 19. december 2008 (Konsekvensændringer som følge af lov om inddrivelse af gæld til det offentlige) indeholder følgende ikrafttrædelsesbestemmelse:
 
 § 167
 
-Loven træder i kraft den 1. januar 2009, jf. dog stk. 2. § 11 finder alene anvendelse på afgørelser om lønindeholdelse, der træffes efter lovens ikrafttræden.
+Stk. 1. Loven træder i kraft den 1. januar 2009, jf. dog stk. 2. § 11 finder alene anvendelse på afgørelser om lønindeholdelse, der træffes efter lovens ikrafttræden.
 
-Lov nr. 1404 af 27. december 2008 indeholder bl.a. følgende ikrafttrædelsesbestemmelse:
+Stk. 2. (Udelades)
+
+Lov nr. 1404 af 27. december 2008 (Styrket indsats mod piratkopiering m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
 
 § 9
 
-Loven træder i kraft den 1. januar 2009.
+Stk. 1. Loven træder i kraft den 1. januar 2009.
 
-Lov nr. 158 af 16. februar 2010 indeholder følgende ikrafttrædelsesbestemmelse:
+Stk. 2-4. (Udelades)
+
+Lov nr. 158 af 16. februar 2010 (Energikrav til bygningsdele) indeholder følgende ikrafttrædelsesbestemmelse:
 
 § 2
 
 Loven træder i kraft den 1. juni 2010.
+
+Lov nr. 389 af 2. maj 2012 (Fremrykning af pligten til energimærkning af bygninger, annoncering af energimærket ved salg og udleje, sanktioner og godkendelsesordning for installatører og montører af små VE-anlæg, styrkelse af dataindsamling om energiforbrug, ophævelse af monopol på udstedelse af VA-godkendelser og omfanget af pligten til at tegne en byggeskadeforsikring m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 4
+
+Stk. 1. Loven træder i kraft den 1. juli 2012.
+
+Stk. 2-5. (Udelades)
+
+Lov nr. 577 af 18. juni 2012 (Biomassebaseret varmeproduktion på centrale kraftvarme-anlæg og udvalgte barmarksværker, undtagelse af forbrænding af farligt affald fra prisloftbestemmelserne og forbud mod installation af olie- og naturgasfyr til bygningsopvarmning m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 4
+
+Stk. 1. Loven træder i kraft dagen efter bekendtgørelsen i Lovtidende, jf. dog stk. 2.
+
+Stk. 2. (Udelades)
+
+Lov nr. 640 af 12. juni 2013 (Indførelse af mål for sagsbehandlingstiden for byggesager (servicemål), indførelse af en certificeringsordning for transportable konstruktioner, øget mulighed for indhentning af oplysninger i forhold til forebyggelse af ulykker i bygninger m.v. og udvidet registrering af varmeinstallationer m.v. i medfør af lov om bygnings- og boligregistrering m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 3
+
+Stk. 1. Loven træder i kraft den 1. juli 2013, jf. dog stk. 2.
+
+Stk. 2. § 1, nr. 8, træder i kraft den 1. januar 2015.
+
+Lov nr. 346 af 8. april 2014 (Ændring af byggelovens dispensationsbestemmelse i forbindelse med kravet om etablering af parkeringspladser på egen grund m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 2
+
+Stk. 1. Loven træder i kraft den 1. juni 2014, jf. dog stk. 2.
+
+Stk. 2. § 1, nr. 3 og 4, træder i kraft den 1. november 2014.
+
+Lov nr. 552 af 2. juni 2014 (Overgang til obligatorisk digital selvbetjening, for så vidt angår ansøgning om byggetilladelse, ansøgning om forældremyndighed, barnets bopæl, samvær m.v., anmodning om separation og skilsmisse, ansøgning om børne- og ægtefællebidrag, ansøgning om lån til beboerindskud, ansøgning om parkeringslicens og anmodning om attestationer efter lov om Det Centrale Personregister m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 16
+
+Stk. 1. Loven træder i kraft den 1. december 2014.
+
+Stk. 2. Loven finder alene anvendelse for ansøgninger, anmeldelser, meddelelser, anmodninger og erklæringer, der indgives efter lovens ikrafttræden.
+
+Lov nr. 1530 af 27. december 2014 (Helårsbeboelse i sommerhuse i sommerhusområder på de 27 små øer) indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 3
+
+Loven træder i kraft den 1. januar 2015.
+
+Lov nr. 745 af 1. juni 2015 (Kommuners adgang til varetagelse af varmeforsyningsvirksomhed samt bygningsopvarmning baseret på vedvarende energi m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 3
+
+Stk. 1. Loven træder i kraft den 1. juli 2015, jf. dog stk. 2 og 3.
+
+Stk. 2. (Udelades)
+
+Stk. 3. § 2 træder i kraft den 1. januar 2016.
+
+Lov nr. 386 af 27. april 2016 (Indførelse af certificeringsordning for dokumentation af tekniske forhold, undtagelse af udlejningsejendomme for byggeskadeforsikring m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 2
+
+Loven træder i kraft den 1. juli 2016.

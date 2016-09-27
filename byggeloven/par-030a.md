@@ -1,1 +1,1 @@
-§ 30 A. Økonomi- og erhvervsministeren kan fastsætte nærmere regler om anerkendelsesordningen for statikere.
+§ 30 A. Transport- og bygningsministeren kan fastsætte nærmere regler om anerkendelsesordningen for statikere.

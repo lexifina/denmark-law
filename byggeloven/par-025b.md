@@ -10,4 +10,4 @@ Stk. 5. Hvis der er panthavere eller indehavere af andre tinglige rettigheder i 
 
 Stk. 6. Hvis et forsikringsselskab har ydet erstatning til dækning af en byggeskade, jf. stk. 2, der tillige helt eller delvis er dækket af en anden tingsforsikring, kan forsikringsselskabet ikke kræve refusion af det pågældende forsikringsselskab inden for tingsforsikringens forsikringssum.
 
-Stk. 7. Økonomi- og erhvervsministeren kan fastsætte regler om forsikringsaftalens dækningsomfang.
+Stk. 7. Transport- og bygningsministeren kan fastsætte regler om forsikringsaftalens dækningsomfang.

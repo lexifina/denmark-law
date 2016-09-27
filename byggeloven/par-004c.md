@@ -1,1 +1,1 @@
-§ 4 C. Økonomi- og erhvervsministeren kan fastsætte nærmere regler om, at bygningsreglementets tekniske bestemmelser finder anvendelse ved ombygninger og andre forandringer i bestående bebyggelse omfattet af § 2, stk. 1, litra e.
+§ 4 C. Transport- og bygningsministeren kan fastsætte nærmere regler om, at bygningsreglementets tekniske bestemmelser finder anvendelse ved ombygninger og andre forandringer i bestående bebyggelse omfattet af § 2, stk. 1, litra e.
