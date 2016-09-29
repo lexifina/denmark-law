@@ -4,7 +4,7 @@ Lov nr. 1336 af 19. december 2008 om ændring af kildeskatteloven, opkrævningsl
 
 Stk. 1. Loven træder i kraft den 1. januar 2009, jf. dog stk. 2. § 11 finder alene anvendelse på afgørelser om lønindeholdelse, der træffes efter lovens ikrafttræden.
 
-Stk. 2. (Udeladt)
+Stk. 2. (Udelades)
 
 Lov nr. 484 af 11. maj 2010 om ændring af lov om naturbeskyttelse, lov om miljøbeskyttelse og forskellige andre love (Ændringer som følge af lov om Natur- og Miljøklagenævnet m.v.), som ændret ved § 2 i lov nr. 1608 af 22. december 2010, hvis § 21 angår § 50, § 52, stk. 1, og §§ 53-54, indeholder følgende ikrafttrædelses- og overgangsbestemmelse:
 
@@ -12,13 +12,13 @@ Lov nr. 484 af 11. maj 2010 om ændring af lov om naturbeskyttelse, lov om milj�
 
 Stk. 1. Loven træder i kraft den 1. januar 2011, jf. dog stk. 2.
 
-Stk. 2-3. (Udeladt)
+Stk. 2-3. (Udelades)
 
 Stk. 4. Verserende sager i Miljøklagenævnet, der ikke er færdigbehandlet ved lovens ikrafttræden, færdigbehandles efter lov om Natur- og Miljøklagenævnet af Natur- og Miljøklagenævnet med den i § 5, stk. 1, nr. 1, i lov om Natur- og Miljøklagenævnet nævnte sammensætning. I sager, hvor der efter de hidtil gældende regler er udtaget sagkyndige til behandling af den pågældende sag, sammensættes Natur- og Miljøklagenævnet med deltagelse af disse.
 
 Stk. 5. Verserende sager i Naturklagenævnet, der ikke er færdigbehandlet ved lovens ikrafttræden, færdigbehandles efter lov om Natur- og Miljøklagenævnet med den i § 5, stk. 1, nr. 2, i lov om Natur- og Miljøklagenævnet nævnte sammensætning. I sager, hvor Naturklagenævnet har afholdt besigtigelse i en sag om fredning efter naturbeskyttelseslovens kapitel 6, sammensættes Natur- og Miljøklagenævnet med deltagelse af de nævnsmedlemmer, der deltog i besigtigelsen.
 
-Stk. 6. (Udeladt)
+Stk. 6. (Udelades)
 
 Stk. 7. Miljøministeren kan i øvrigt fastsætte overgangsregler.
 
@@ -34,7 +34,7 @@ Lov nr. 446 af 23. maj 2012 om ændring af lov om miljøbeskyttelse, lov om milj
 
 Stk. 1. Loven træder i kraft den 7. januar 2013, jf. dog stk. 2 og 3.
 
-Stk. 2-3. (Udeladt)
+Stk. 2-3. (Udelades)
 
 Lov nr. 580 af 18. juni 2012 om ændring af lov om Natur- og Miljøklagenævnet og forskellige andre love (Reform af klagesystemet på natur- og miljøområdet m.v.), hvis § 10 angår § 52, indeholder følgende ikrafttrædelses- og overgangsbestemmelse:
 
@@ -42,11 +42,21 @@ Lov nr. 580 af 18. juni 2012 om ændring af lov om Natur- og Miljøklagenævnet 
 
 Stk. 1. Loven træder i kraft den 1. august 2012, jf. dog stk. 2.
 
-Stk. 2. (Udeladt)
+Stk. 2. (Udelades)
 
 Stk. 3. Loven finder anvendelse på afgørelser truffet i 1. instans efter lovens ikrafttræden.
 
 Stk. 4. Verserende klagesager over afgørelser påklaget af ministeren efter § 84, stk. 1, nr. 2, i lov om miljøgodkendelse m.v. af husdyrbrug færdigbehandles af Natur- og Miljøklagenævnet.
+
+Lov nr. 1631 af 26. december 2013 om ændring af lov om vandforsyning m.v., lov om vurdering og styring af oversvømmelsesrisikoen fra vandløb og søer og forskellige andre love, hvis § 11 angår § 8, stk. 1 og 2 og § 15, stk. 1, indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 17
+
+Stk. 1. Loven træder i kraft dagen efter bekendtgørelsen i Lovtidende, jf. dog stk. 2.
+
+Stk. 2. Miljøministeren fastsætter tidspunktet for ikrafttræden af §§ 2 og 3, § 4, nr. 2, §§ 5-11, § 12, nr. 1, 3, 4 og 6, § 13, § 14, nr. 1 og 2 og 4-8, og §§ 15 og 16. Ministeren kan herunder bestemme, at ændringerne træder i kraft på forskellige tidspunkter.
+
+Stk. 3. De hidtil gældende regler opretholdes og finder anvendelse på vandplaner og handleplaner opretholdt efter § 42, stk. 1, i lov om vandplanlægning.
 
 Lov nr. 86 af 28. januar 2014 om ændring af lov om Natur- og Miljøklagenævnet og forskellige andre love (Obligatorisk digital selvbetjening ved indgivelse af klage samt obligatorisk videresendelse af klage over lokalplan til Natur- og Miljøklagenævnet m.v.), hvis § 9 angår § 52, indeholder følgende ikrafttrædelses- og overgangsbestemmelse:
 
@@ -58,7 +68,7 @@ Stk. 2. Miljøministeren fastsætter tidspunktet for ikrafttræden af §§ 1-6, 
 
 Stk. 3. Loven finder ikke anvendelse for klager over afgørelser, der træffes, før loven træder i kraft. For sådanne klager finder de hidtidige regler anvendelse.
 
-Lov nr. 1499 af 23. december 2014 om ændring af lov om sikkerhed m.v. for offshoreanlæg til efterforskning, produktion og transport af kulbrinter, lov om beskyttelse af havmiljøet og miljøskadeloven (Gennemførelse af offshoresikkerhedsdirektivet m.v.), hvis § 4, nr. 1, angår fodnoten til lovens titel, indeholder følgende ikrafttrædelsesbestemmelse:
+Lov nr. 1499 af 23. december 2014 om ændring af lov om sikkerhed m.v. for offshoreanlæg til efterforskning, produktion og transport af kulbrinter, lov om beskyttelse af havmiljøet og miljøskadeloven (Gennemførelse af offshoresikkerhedsdirektivet m.v.), hvis § 4, angår fodnoten til lovens titel og § 8, stk. 1, indeholder følgende ikrafttrædelsesbestemmelse:
 
 § 6
 
@@ -72,4 +82,4 @@ Lov nr. 1520 af 27. december 2014 om offentlige veje m.v., hvis § 150 angår §
 
 Stk. 1. Loven træder i kraft den 1. juli 2015, jf. dog stk. 2.
 
-Stk. 2. (Udeladt)
+Stk. 2. (Udelades)
