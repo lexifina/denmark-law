@@ -30,7 +30,7 @@ Lov nr. 1151 af 17. december 2003 om ændring af lov om vandforsyning m.v., lov 
 
 Stk. 1. Loven træder i kraft den 22. december 2003, jf. dog stk. 2-6
 
-Stk. 2. (Udeladt)
+Stk. 2. (Udelades)
 
 Stk. 3. De ændringer, der følger af § 1, nr. 6-11 og 19, § 2, § 3 og § 4, nr. 2 og 3, træder i kraft i de enkelte amter, når der er offentliggjort en vandplan, der gælder for amtet, efter lov om miljømål m.v. for vandforekomster og internationale naturbeskyttelsesområder, jf. dog stk. 4. Hvis en del af et amt endnu ikke er dækket af en vandplan, finder de hidtil gældende regler anvendelse, for så vidt angår denne del.
 
@@ -102,7 +102,7 @@ Lov nr. 571 af 9. juni 2006 om ændring af lov om naturbeskyttelse, lov om milj�
 
 Stk. 1. Loven træder i kraft den 1. januar 2007.
 
-Stk. 2. (Udeladt)
+Stk. 2. (Udelades)
 
 Stk. 3. Sager, der pr. 1. januar 2007 er indbragt for Miljøklagenævnet, færdigbehandles efter de hidtil gældende regler.
 
@@ -120,7 +120,7 @@ Lov nr. 1587 af 20. december 2006 om ændring af lov om Arbejdsmarkedets Tillæg
 
 Stk. 1. Loven træder i kraft den 1. juli 2009, jf. dog stk. 6.
 
-Stk. 2-5. (Udeladt)
+Stk. 2-5. (Udelades)
 
 Stk. 6. § 10, nr. 2, træder i kraft den 1. januar 2007.
 
@@ -130,7 +130,7 @@ Lov nr. 507 af 17. juni 2008 om ændring af lov om miljøbeskyttelse og forskell
 
 Stk. 1. Loven træder i kraft den 1. juli 2008, jf. dog stk. 3.
 
-Stk. 2-3. (Udeladt)
+Stk. 2-3. (Udelades)
 
 Lov nr. 508 af 17. juni 2008 om ændring af lov om naturbeskyttelse, lov om jagt og vildtforvaltning og forskellige andre love (Gennemførelse af direktiver om naturbeskyttelse), hvis § 7 angår § 62 a, indeholder følgende ikrafttrædelsesbestemmelse:
 
@@ -152,11 +152,11 @@ Stk. 1. Loven træder i kraft den 1. januar 2011, jf. dog stk. 2.
 
 Stk. 2. § 5, stk. 2, nr. 2, § 9 ø, stk. 1, nr. 1, § 51, stk. 5, § 56, stk. 3, og § 110, stk. 3, i lov om miljøbeskyttelse som affattet henholdsvis ændret ved denne lovs § 2, nr. 1, 2, 5, 6 og 10, § 96 i lov om forurenet jord som affattet ved denne lovs § 16, nr. 4, og § 75, stk. 3, i lov om miljøgodkendelse m.v. af husdyrbrug som ændret ved denne lovs § 18, nr. 2, træder i kraft den 1. juli 2010.
 
-Stk. 3. (Udeladt)
+Stk. 3. (Udelades)
 
 Stk. 4. Verserende sager i Miljøklagenævnet, der ikke er færdigbehandlet ved lovens ikrafttræden, færdigbehandles efter lov om Natur- og Miljøklagenævnet af Natur- og Miljøklagenævnet med den i § 5, stk. 1, nr. 1, i lov om Natur- og Miljøklagenævnet nævnte sammensætning. I sager, hvor der efter de hidtil gældende regler er udtaget sagkyndige til behandling af den pågældende sag, sammensættes Natur- og Miljøklagenævnet med deltagelse af disse.
 
-Stk. 5 og 6. (Udeladt)
+Stk. 5 og 6. (Udelades)
 
 Stk. 7. Miljøministeren kan i øvrigt fastsætte overgangsregler.
 
@@ -178,7 +178,7 @@ Lov nr. 446 af 23. maj 2012 om lov om ændring af lov om miljøbeskyttelse, lov 
 
 Stk. 1. Loven træder i kraft den 7. januar 2013, jf. dog stk. 2 og 3.
 
-Stk. 2 og 3. (Udeladt)
+Stk. 2 og 3. (Udelades)
 
 § 8
 
@@ -192,11 +192,11 @@ Lov nr. 580 af 18. juni 2012 om ændring af lov om Natur- og Miljøklagenævnet 
 
 Stk. 1. Loven træder i kraft den 1. august 2012, jf. dog stk. 2.
 
-Stk. 2. (Udeladt)
+Stk. 2. (Udelades)
 
 Stk. 3. Loven finder anvendelse på afgørelser truffet i 1. instans efter lovens ikrafttræden.
 
-Stk. 4. (Udeladt)
+Stk. 4. (Udelades)
 
 Lov nr. 490 af 21. maj 2013 om ændring af lov om forurenet jord (Offentlig indsats over for jordforurening, der kan have skadelig virkning på vand eller natur, og nedlæggelse af Depotrådet m.v.), hvis § 1 angår fodnoten til lovens titel, § 1, stk. 1, § 2, stk. 1, § 3 stk. 3, § 6, stk. 2, ny § 6, stk. 3, § 8, stk. 4, § 12 a, stk. 5, § 14, stk. 1, § 14, stk. 3, § 14, stk. 4, § 15, § 17, ny § 18 og § 19, § 20, § 21, stk. 3, § 24, § 30, stk. 6, § 49, stk. 5, § 50, stk. 1, § 61 stk. 5-7 og § 64 a, stk. 1, indeholder følgende ikrafttrædelsesbestemmelser:
 
@@ -216,7 +216,7 @@ Stk. 1. Loven træder i kraft dagen efter bekendtgørelsen i Lovtidende, jf. dog
 
 Stk. 2. Miljøministeren fastsætter tidspunktet for ikrafttræden af §§ 2 og 3, § 4, nr. 2, §§ 5-11, § 12, nr. 1, 3, 4 og 6, § 13, § 14, nr. 1 og 2 og 4-8, og §§ 15 og 16. Ministeren kan herunder bestemme, at ændringerne træder i kraft på forskellige tidspunkter.
 
-Stk. 3. (Udeladt)
+Stk. 3. (Udelades)
 
 Lov nr. 86 af 28. januar 2014 om ændring af lov om Natur- og Miljøklagenævnet og forskellige andre love (Obligatorisk digital selvbetjening ved indgivelse af klage samt obligatorisk videresendelse af klage over lokalplan til Natur- og Miljøklagenævnet m.v.), hvis § 7 angår § 2, stk. 1 og § 77, indeholder følgende ikrafttrædelses- og overgangsbestemmelser:
 
@@ -234,11 +234,11 @@ Lov nr. 1520 af 27. december 2014 om offentlige veje m.v., hvis § 149 angår §
 
 Stk. 1. Loven træder i kraft den 1. juli 2015, jf. dog stk. 2.
 
-Stk. 2. (Udeladt)
+Stk. 2. (Udelades)
 
 § 140
 
-Stk. 1. (Udeladt)
+Stk. 1. (Udelades)
 
 Stk. 2. Regler, der er fastsat i henhold til hidtil gældende regler, forbliver i kraft, indtil de ophæves eller afløses af regler fastsat med hjemmel i denne lov.
 
@@ -250,6 +250,32 @@ Lov nr. 132 af 16. februar 2016 om ændring af lov om vandsektorens organisering
 
 Stk. 1. Loven træder i kraft den 1. marts 2016, jf. dog stk. 2.
 
-Stk. 2. (Udeladt)
+Stk. 2. (Udelades)
 
-Stk. 3. (Udeladt)
+Stk. 3. (Udelades)
+
+Lov nr. 628 af 8. juni 2016 om ændring af lov om Udbetaling Danmark og forskellige andre love, hvis § 36 angår § 33, stk. 3, § 36 a og § 37, stk. 1, indeholder følgende ikrafttrædelses- og overgangsbestemmelser:
+
+§ 54
+
+Stk. 1. Loven træder i kraft den 1. oktober 2016, jf. dog stk. 2 og 3.
+
+Stk. 2. (Udelades)
+
+Stk. 3. (Udelades)
+
+§ 55
+
+Stk. 1. Loven finder ikke anvendelse for klager over afgørelser truffet af ressortministerierne eller Statens Administration inden lovens ikrafttræden. For sådanne klager finder de hidtil gældende regler anvendelse.
+
+Stk. 2. Udbetaling Danmark kan i perioden fra den 1. oktober 2016 til den 31. december 2016 foretage de dispositioner og regnskabsmæssige registreringer, der er nævnt i tekstanmærkning nr. 102 til § 7 på finansloven for 2016, for så vidt angår de udlån og garantier m.v., som Udbetaling Danmark administrerer i henhold til denne lov.
+
+Stk. 3. Ressortministeriernes betaling for varetagelse af opgaver, der overføres til Udbetaling Danmark ved denne lov, sker for perioden fra den 1. oktober 2016 til den 31. december 2016 efter reglerne på finansloven for 2016. Statens Administration foretager en samlet afregning til Udbetaling Danmark af denne betaling og gebyrer fra den 1. oktober 2016 til den 31. december 2016.
+
+§ 56
+
+Stk. 1. Lovens §§ 1-10, 19-21, 23-28, 30-38 og 41-53 gælder ikke for Færøerne og Grønland, jf. dog stk. 2 og 3.
+
+Stk. 2. (Udelades)
+
+Stk. 3. (Udelades)
