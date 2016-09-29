@@ -1,0 +1,1 @@
+§ 36 a. Udbetaling Danmark varetager den økonomiske administration af den årlige bevilling på finansloven og provenu fra egenbetaling efter værditabsordningen, jf. dette kapitel, og sikrer, at disponering og udbetaling sker inden for de bevillinger, der er afsat på finansloven.
