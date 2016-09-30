@@ -38,29 +38,23 @@ Stk. 3. Loven finder anvendelse på afgørelser truffet i 1. instans efter loven
 
 Stk. 4. (Udelades)
 
+Lov nr. 1631 af 26. december 2013 om ændring af lov om vandforsyning m.v., lov om vurdering og styring af oversvømmelsesrisikoen fra vandløb og søer og forskellige andre love (Konsekvensændringer som følge af lov om vandplanlægning), der ændrer § 19, nr. 1 og § 19, nr. 2-4, indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 17
+
+Stk. 1. (Udelades)
+
+Stk. 2. Miljøministeren fastsætter tidspunktet for ikrafttræden af §§ 2 og 3, § 4, nr. 2, §§ 5-11, § 12, nr. 1, 3, 4 og 6, § 13, § 14, nr. 1 og 2 og 4-8, og §§ 15 og 16. Ministeren kan herunder bestemme, at ændringerne træder i kraft på forskellige tidspunkter.
+
+Stk 3. (Udelades)
+
 Lov nr. 80 af 28. januar 2014 om ændring af lov om erhvervsfremme og forskellige andre love (Ny regional vækst- og udviklingsstrategi, udvidelse af Danmarks Vækstråds opgaver m.v.), der ændrer § 19, stk. 1, nr. 3, indeholder følgende ikrafttrædelsesbestemmelse:
 
 § 11
 
 Stk. 1. Loven træder i kraft den 1. februar 2014.
 
-Stk. 2. (Udelades)
-
-Stk. 3. (Udelades)
-
-Stk. 4. (Udelades)
-
-Stk. 5. (Udelades)
-
-Stk. 6. (Udelades)
-
-Stk. 7. (Udelades)
-
-Stk. 8. (Udelades)
-
-Stk. 9. (Udelades)
-
-Stk. 10. (Udelades)
+Stk. 2-10. (Udelades)
 
 Stk. 11. Loven finder ikke anvendelse på nationalparkplaner efter lov om nationalparker indtil regionsrådets vedtagelse af en regional vækst- og udviklingsstrategi i henhold til § 8 a, stk. 1, i lov om erhvervsfremme og regional udvikling som affattet ved denne lovs § 1, nr. 10. For sådanne nationalparkplaner finder de hidtil gældende regler anvendelse indtil regionsrådets vedtagelse af en regional vækst- og udviklingsstrategi i henhold til § 8 a, stk. 1, i lov om erhvervsfremme og regional udvikling som affattet ved denne lovs § 1, nr. 10.
 
