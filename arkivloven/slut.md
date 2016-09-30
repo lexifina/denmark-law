@@ -1,5 +1,5 @@
-Kulturministeriet, den 21. august 2007
+Kulturministeriet, den 28. september 2016
 
-Brian Mikkelsen
+Bertel Haarder
 
-/Anne Mette Risager
+/ Bertel Haarder
