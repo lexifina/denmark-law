@@ -1,1 +1,1 @@
-§ 43 a. (ophævet)
+§ 43 a. (Ophævet)
