@@ -38,13 +38,13 @@ Lov nr. 426 af 10. juni 1997 om ændring af lov om miljøbeskyttelse og lov om r
 
 § 3
 
-Stk. Loven træder i kraft den 1. juli 1997.
+Stk. 1. Loven træder i kraft den 1. juli 1997, jf. dog stk. 2.
 
 Stk. 2-3. (Udelades)
 
 Lov nr. 370 af 2. juni 1999 om forurenet jord, som ændrer § 10, indeholder følgende ikrafttrædelsesbestemmelse:
 
-§ 94. Loven træder i kraft den 1. januar 2000.
+§ 94. Loven træder i kraft den 1. januar 2000, jf. dog stk. 2.
 
 Stk. 2-4. (Udelades)
 
@@ -52,7 +52,7 @@ Lov nr. 447 af 31. maj 2000 om ændring af visse miljølove (Implementering af �
 
 § 14
 
-Stk. 1. Loven træder i kraft den 15. september 2000.
+Stk. 1. Loven træder i kraft den 15. september 2000, jf. dog stk. 2-4.
 
 Stk. 2-4. (Udelades)
 
@@ -174,6 +174,16 @@ Stk. 3. Loven finder anvendelse på afgørelser truffet i 1. instans efter loven
 
 Stk. 4. (Udelades)
 
+Lov nr. 1631 af 26. december 2013 om ændring af lov om vandforsyning m.v., lov om vurdering og styring af oversvømmelsesrisikoen fra vandløb og søer og forskellige andre love (Konsekvensændringer som følge af lov om vandplanlægning), som ændrer § 5 a, stk. 3, indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 17
+
+Stk. 1. (Udelades)
+
+Stk. 2. Miljøministeren fastsætter tidspunktet for ikrafttræden af §§ 2 og 3, § 4, nr. 2, §§ 5-11, § 12, nr. 1, 3, 4 og 6, § 13, § 14, nr. 1 og 2 og 4-8, og §§ 15 og 16. Ministeren kan herunder bestemme, at ændringerne træder i kraft på forskellige tidspunkter.
+
+Stk. 3. (Udelades)
+
 Lov nr. 86 af 28. januar 2014 om ændring af lov om Natur- og Miljøklagenævnet og forskellige andre love (Obligatorisk digital selvbetjening ved indgivelse af klage samt obligatorisk videresendelse af klage over lokalplan til Natur- og Miljøklagenævnet m.v.), som ændrer § 16, stk. 2, 1. pkt., indsætter § 16, stk. 5 og 6, ændrer § 26 b, stk. 2, 1. pkt. indsætter § 26 b, stk. 5 og 6, og ændrer § 26 b, stk. 7, og § 44, stk. 1, nr. 1, indeholder følgende ikrafttrædelsesbestemmelse:
 
 § 26
@@ -190,21 +200,7 @@ Lov nr. 80 af 28. januar 2014 om ændring af lov om erhvervsfremme og forskellig
 
 Stk. 1. Loven træder i kraft den 1. februar 2014.
 
-Stk. 2. (Udelades)
-
-Stk. 3. (Udelades)
-
-Stk. 4. (Udelades)
-
-Stk. 5. (Udelades)
-
-Stk. 6. (Udelades)
-
-Stk. 7. (Udelades)
-
-Stk. 7. (Udelades)
-
-Stk. 9. (Udelades)
+Stk. 2-9. (Udelades)
 
 Stk. 10. Loven finder ikke anvendelse på råstofplaner efter lov om råstoffer indtil regionsrådets vedtagelse af en regional vækst- og udviklingsstrategi i henhold til § 8 a, stk. 1, i lov om erhvervsfremme og regional udvikling som affattet ved denne lovs § 1, nr. 10. For sådanne råstofplaner finder de hidtil gældende regler anvendelse indtil regionsrådets vedtagelse af en regional vækst- og udviklingsstrategi i henhold til § 8 a, stk. 1, i lov om erhvervsfremme og regional udvikling som affattet ved denne lovs § 1, nr. 10.
 
