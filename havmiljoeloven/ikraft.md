@@ -26,7 +26,9 @@ Lov nr. 317 af 3. juni 1998 om ændring af lov om mineralske råstoffer i Grønl
 
 § 4
 
-Loven træder i kraft den 1. juli 1998.
+Stk. 1. Loven træder i kraft den 1. juli 1998.
+
+Stk. 2-4. (Udelades)
 
 Lov nr. 902 af 16. december 1998 om ændring af sømandsloven, lov om skibes besætning og lov om beskyttelse af havmiljøet (Ændringer som følge af lov om sikkerhed til søs, fravigelse af krav om indfødsret, koordinationsudvalg for skibsrelaterede miljøspørgsmål), hvis § 3 ændrer § 10, § 15, § 16, § 20 a, § 37, § 46, § 47 a, § 59, stk. 1, og § 61 indeholder følgende ikrafttrædelses- og overgangsbestemmelser:
 
@@ -52,19 +54,25 @@ Lov nr. 447 af 31. maj 2000 om ændring af visse miljølove (Implementering af �
 
 § 14
 
-Stk. 1. Loven træder i kraft den 15. september 2000, jf. dog stk. 2.
+Stk. 1. Loven træder i kraft den 15. september 2000, jf. dog stk. 2-4.
 
-Stk. 2. Lovens regler om adgang til at påklage afgørelser gælder for sager, der er afgjort i første instans efter lovens ikrafttræden.
+Stk. 2. Lovens regler om adgang til at påklage afgørelser gælder for sager, der er afgjort i første instans efter lovens ikrafttræden. Reglerne om klage over afslag på anmodning om aktindsigt efter § 4, stk. 5, i lov om aktindsigt i miljøoplysninger som ændret ved lovens § 1, nr. 10, gælder ligeledes for afslag, der meddeles efter lovens ikrafttræden.
+
+Stk. 3-4. (Udelades)
 
 Lov nr. 474 af 31. maj 2000 om Københavns Havn A/S, hvis § 12 ændrer § 51, stk. 3, nr. 1, indeholder bl.a. følgende ikrafttrædelsesbestemmelse:
 
 § 11. Trafikministeren fastsætter tidspunktet for lovens ikrafttræden, herunder § 10. Ministeren kan herunder fastsætte, at lovens enkelte bestemmelser træder i kraft på forskellige tidspunkter.
 
+Stk. 2-3. (Udelades)
+
 Lov nr. 145 af 25. marts 2002 om ændring af forskellige love som følge af sammenlægningen af de bornholmske kommuner, hvis § 36 angår § 26, stk. 1 og 5, § 49, stk. 3 og stk. 4, § 51, stk. 1 og stk. 3, og § 53 b, indeholder følgende ikrafttrædelsesbestemmelse:
 
 § 78
 
-Loven træder i kraft den 1. januar 2003.
+Stk. 1. Loven træder i kraft den 1. januar 2003, jf. dog § 79, stk. 1.
+
+Stk. 2. (Udelades)
 
 Lov nr. 261 af 8. maj 2002 om ændring af lov om beskyttelse af havmiljøet, der ændrer § 24, stk. 1, § 30, stk. 3, § 32, stk. 2, § 34, § 35, stk. 4 og 6, § 38, stk. 1-4, § 42, stk. 1 og 3, § 43, stk. 1 og 3, § 43 a, stk. 1-5, § 44, stk. 2 og 3, § 45, stk. 1-3, § 51, stk. 1, § 55, stk. 1, § 55 a, § 59, stk. 3, § 61, stk. 1 og bilag 1, litra A, nr. 2, indeholder følgende ikrafttrædelsesbestemmelse:
 
@@ -88,9 +96,11 @@ Lov nr. 1173 af 19. december 2003 om ændring af lov om sikkerhed til søs, lov 
 
 § 8
 
-Stk. Økonomi- og erhvervsministeren fastsætter tidspunktet for lovens ikrafttræden.
+Stk. 1. Økonomi- og erhvervsministeren fastsætter tidspunktet for lovens ikrafttræden.
 
 Stk. 2. Sager, som ved denne lovs ikrafttræden er modtaget til behandling i Tilbageholdelsesnævnet eller Besætningsnævnet, færdigbehandles af disse nævn efter de hidtil gældende regler.
+
+Stk. 3. (Udelades)
 
 Lov nr. 1373 af 20. december 2004 om ændring af en række love på miljøområdet (Ændring af håndhævelsesbestemmelser m.v., herunder som opfølgning på lov om retssikkerhed ved forvaltningens anvendelse af tvangsindgreb og oplysningspligter), hvis § 2 ændrer § 42, stk. 1, § 45, stk. 2, § 45 a, § 50, stk. 1, nr. 2, § 51, stk. 1-10, § 53 b, § 53 c, § 59, stk. 1 og § 63, stk. 1, 3. pkt., indeholder følgende ikrafttrædelsesbestemmelse:
 
@@ -138,7 +148,9 @@ Lov nr. 1571 af 20. december 2006 om ændring af lov om miljøbeskyttelse, lov o
 
 § 23
 
-Loven træder i kraft den 1. januar 2007.
+Stk. 1. Loven træder i kraft den 1. januar 2007, jf. dog stk. 2.
+
+Stk. 2. (Udelades)
 
 Lov nr. 551 af 6. juni 2007 om Metroselskabet I/S og Arealudviklingsselskabet I/S, hvis § 30 angår § 51, stk. 3, nr. 1, indeholder bl.a. følgende ikrafttrædelsesbestemmelse:
 
@@ -154,7 +166,9 @@ Lov nr. 173 af 12. marts 2008 om ændring af lov om miljøbeskyttelse og forskel
 
 § 4
 
-Loven træder i kraft den 1. april 2008, jf. dog stk. 2.
+Stk. 1. Loven træder i kraft den 1. april 2008, jf. dog stk. 2.
+
+Stk. 2. (Udelades)
 
 Lov nr. 507 af 17. juni 2008 om ændring af lov om miljøbeskyttelse og forskellige andre love (Implementering af miljøansvarsdirektivet), som ændrer § 2,§ 39, § 44, § 49, § 51, § 59, § 61 og § 63 a, ophæver § 38 og indsætter § 34 a og kapitel 14 a (§§ 47 a – 47 k), indeholder følgende ikrafttrædelsesbestemmelse:
 
@@ -206,7 +220,9 @@ I lov nr. 423 af 10. maj 2011 om ændring af lov om beskyttelse af havmiljøet o
 
 § 3
 
-Loven træder i kraft den 1. juli 2011, jf. dog stk. 2 og 3.
+Stk. 1. Loven træder i kraft den 1. juli 2011, jf. dog stk. 2 og 3.
+
+Stk. 2-3. (Udelades)
 
 Lov nr. 632 af 14. juni 2011 om ændring af lov om Metroselskabet I/S og Arealudviklingsselskabet I/S med flere love (Flytning af containerterminal i Københavns Havn), som ændrer § 51, stk. 2 nr. 3, indeholder følgende ikrafttrædelsesbestemmelse:
 
@@ -238,15 +254,19 @@ Lov nr. 446 af 23. maj 2012 om ændring af lov om miljøbeskyttelse, lov om milj
 
 § 7
 
-Loven træder i kraft den 7. januar 2013, jf. dog stk. 2 og 3.
+Stk. 1. Loven træder i kraft den 7. januar 2013, jf. dog stk. 2 og 3.
+
+Stk. 2-3. (Udelades)
 
 Lov nr. 580 af 16. juni 2012 om ændring af lov om Natur- og Miljøklagenævnet og forskellige andre love (Reform af klagesystemet på natur- og miljøområdet m.v.) som ophæver § 51, stk. 5, 1. og 5. pkt., indsætter i § 51 stk. 6-8, indeholder følgende ikrafttrædelsesbestemmelse:
 
 § 28
 
-Loven træder i kraft den 1. august 2012.
+Stk. 1. Loven træder i kraft den 1. august 2012, jf. dog stk. 2.
 
-Lov nr. 1499 af 23. december 2014 om ændring af lov om sikkerhed m.v. for offshoreanlæg til efterforskning, produktion og transport af kulbrinter, lov om beskyttelse af havmiljøet og miljøskadeloven (Gennemførelse af offshoresikkerhedsdirektivet m.v.), der ændrer fodnoten til lovens titel, indsætter § 33, stk. 4, ændrer § 34 a, stk. 1, indsætter § 34 b, ændrer overskriften til kapitel 12, ændrer § 39, stk. 1, ændrer § 42 a, stk. 2 og 4, ændrer § 45 c, indsætter § 45 d, indsætter § 47 b, stk. 4 og 5, indsætter § 47 c, stk. 4, ændrer § 47 c, stk. 6 og 7, indsætter § 47 d, stk. 3, ændrer § 47 e, 2. pkt., ændrer § 47 g, stk. 1, ændrer § 49, stk. 1 og 3, ændrer § 50, stk. 1, nr. 2, ændrer § 51, stk. 1, nr. 4, indsætter § 51, stk. 4, ændrer § 51, stk. 5, ændrer § 52, stk. 1, indsætter § 51, stk. 1, nr. 10-12, og stk. 6, ændrer § 53 a, stk. 1, nr. 3, ændrer § 53 b, indsætter § 55, stk. 3, indsætter § 58 c, ændrer § 59, stk. 1, nr. 1 og 3, og ændrer § 61, stk. 1, indeholder følgende ikrafttrædelsesbestemmelser:
+Stk. 2-4. (Udelades)
+
+Lov nr. 1499 af 23. december 2014 om ændring af lov om sikkerhed m.v. for offshoreanlæg til efterforskning, produktion og transport af kulbrinter, lov om beskyttelse af havmiljøet og miljøskadeloven (Gennemførelse af offshoresikkerhedsdirektivet m.v.), der ændrer fodnoten til lovens titel, indsætter § 33, stk. 4, ændrer § 34 a, stk. 1, indsætter § 34 b, ændrer overskriften til kapitel 12, ændrer § 39, stk. 1, ændrer § 42 a, stk. 2 og 4, ændrer § 45 c, indsætter § 45 d, indsætter § 47 b, stk. 4 og 5, indsætter § 47 c, stk. 4, ændrer § 47 c, stk. 6 og 7, indsætter § 47 d, stk. 3, ændrer § 47 e, 2. pkt., ændrer § 47 g, stk. 1, ændrer § 49, stk. 1 og 3, ændrer § 50, stk. 1, nr. 2, ændrer § 51, stk. 1, nr. 4, indsætter § 51, stk. 4, ændrer § 51, stk. 5, ændrer § 51, stk. 7, indsætter § 51, stk. 10 og 11, ændrer § 52, stk. 1, indsætter § 51, stk. 1, nr. 10-12, og stk. 6, ændrer § 53 a, stk. 1, nr. 3, ændrer § 53 b, indsætter § 55, stk. 3, indsætter § 58 c, ændrer § 59, stk. 1, nr. 1 og 3, og ændrer § 61, stk. 1, indeholder følgende ikrafttrædelsesbestemmelser:
 
 § 6
 
@@ -265,3 +285,13 @@ Stk. 6. § 2, nr. 11 og 13-17, og § 4 finder anvendelse for en miljøskade elle
 § 8
 
 Loven gælder ikke for Færøerne og Grønland, men § 2, nr. 24 og 25, og § 4 kan ved kongelig anordning sættes helt eller delvis i kraft for Grønland med de ændringer, som de grønlandske forhold tilsiger.
+
+Lov nr. 634 af 8. juni 2016 om ændring af beredskabsloven, lov om beskyttelsesrum, lov om beskyttelse af havmiljøet og lov om fyrværkeri og andre pyrotekniske artikler (Ændring af sammensætningen af beredskabskommissioner, hjemmel til operativt samarbejde på beredskabsområdet hen over landegrænserne, ændring af bestemmelse om brandsyn m.v.), der ændrer § 36, stk. 2, og indsætter § 37 a, indeholder følgende ikrafttrædelsesbestemmelser:
+
+§ 5
+
+Loven træder i kraft den 1. juli 2016.
+
+§ 6
+
+Loven gælder ikke for Færøerne og Grønland, men kan ved kongelig anordning helt eller delvis sættes i kraft for Grønland med de ændringer, som de grønlandske forhold tilsiger.

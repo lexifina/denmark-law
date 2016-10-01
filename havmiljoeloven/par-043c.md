@@ -10,4 +10,4 @@ Stk. 3. Når der er udstedt et anløbsforbud over for et skib, kan miljø- og f�
 
 Stk. 4. Miljø- og fødevareministeren ophæver et anløbsforbud, når de forhold, som førte til anløbsforbuddet, er bragt i orden.
 
-Stk. 5. Miljø- og fødevareministeren informerer straks de øvrige EU/EØS-lande om udstedelse og ophævelse af anløbsforbud efter stk. 1 og 4
+Stk. 5. Miljø- og fødevareministeren informerer straks de øvrige EU/EØS-lande om udstedelse og ophævelse af anløbsforbud efter stk. 1 og 4.
