@@ -10,7 +10,7 @@ Lov nr. 138 af 7. marts 1990 om ændring af forskellige lovbestemmelser (Konsekv
 
 § 20
 
-Stk. 1. Loven træder i kraft den 1. april 1991.
+Stk. 1. Loven træder i kraft den 1. april 1991. Dog træder § 18 i kraft den 1. juli 1990.
 
 Stk. 2. (Udelades)
 
@@ -36,7 +36,7 @@ Lov nr. 355 af 2. juni 1999 om ændring af forskellige love som følge af oprett
 
 § 13
 
-Stk. 1. Loven træder i kraft den 1. juli 2000.
+Stk. 1. Loven træder i kraft den 1. juli 2000, § 6 dog først den 1. juli 2002.
 
 Stk. 2-4. (Udelades)
 
@@ -62,7 +62,7 @@ Lov nr. 145 af 25. marts 2002 om ændring af forskellige love som følge af samm
 
 § 78
 
-Stk. 1. Loven træder i kraft den 1. januar 2003,
+Stk. 1. Loven træder i kraft den 1. januar 2003, jf. dog § 79, stk. 1.
 
 Stk. 2. (Udelades)
 
@@ -232,7 +232,15 @@ Lov nr. 1630 af 26. december 2013 om ændring af lov om vandløb, lov om naturbe
 
 Stk. 1. Loven træder i kraft den 1. januar 2014.
 
-Stk. 2. (Udelades)
+Stk. 2-3. (Udelades)
+
+Lov nr. 1631 af 26. december 2013 om ændring af lov om vandforsyning m.v., lov om vurdering og styring af oversvømmelsesrisikoen fra vandløb og søer og forskellige andre love (Konsekvensændringer som følge af lov om vandplanlægning), hvis § 3 ændrer § 12, stk. 4, § 13 a, § 36 a, § 69, stk. 1, 2. pkt., § 69, stk. 2, og ophæver § 70 c, indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 17
+
+Stk. 1. (Udelades)
+
+Stk. 2. Miljøministeren fastsætter tidspunktet for ikrafttræden af §§ 2 og 3, § 4, nr. 2, §§ 5-11, § 12, nr. 1, 3, 4 og 6, § 13, § 14, nr. 1 og 2 og 4-8, og §§ 15 og 16. Ministeren kan herunder bestemme, at ændringerne træder i kraft på forskellige tidspunkter.
 
 Stk. 3. (Udelades)
 
