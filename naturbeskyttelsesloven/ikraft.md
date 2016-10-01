@@ -58,7 +58,7 @@ Lov nr. 145 af 25. marts 2002 om ændring af forskellige love som følge af samm
 
 § 78
 
-Stk. 1. Loven træder i kraft den 1, januar 2003. (2. led udelades)
+Stk. 1. Loven træder i kraft den 1. januar 2003, jf. dog § 79, stk. 1.
 
 Stk. 2. (Udelades)
 
@@ -112,7 +112,7 @@ Lov nr. 538 af 8. juni 2006 om ændring af retsplejeloven og forskellige andre l
 
 § 105
 
-Stk. Loven træder i kraft den 1. januar 2007, jf. dog stk. 2-22 og § 106.
+Stk. 1. Loven træder i kraft den 1. januar 2007, jf. dog stk. 2-22 og § 106.
 
 Stk. 2-22. (Udelades)
 
@@ -148,7 +148,7 @@ Lov nr. 507 af 17. juni 2008 om ændring af lov om miljøbeskyttelse og forskell
 
 § 15
 
-Stk. Loven træder i kraft den 1. juli 2008, jf. dog stk. 3.
+Stk. 1. Loven træder i kraft den 1. juli 2008, jf. dog stk. 3.
 
 Stk. 2-4. (Udelades)
 
@@ -172,7 +172,7 @@ Lov nr. 514 af 12. juni 2009 om ændring af lov om naturbeskyttelse, lov om jagt
 
 Loven træder i kraft den 1. oktober 2009.
 
-Lov nr. 1383 af 21. december 2009 om ændring af lov om miljøbeskyttelse og forskellige andre love (Implementering af servicedirektoratet og anderkendendelsedirekte på Miljøministeriets område), som indsætter § 30 a, indeholder følgende ikrafttrædelsesbestemmelse:
+Lov nr. 1383 af 21. december 2009 om ændring af lov om miljøbeskyttelse og forskellige andre love (Implementering af servicedirektivet og anderkendendelsedirektivet på Miljøministeriets område), som indsætter § 30 a, indeholder følgende ikrafttrædelsesbestemmelse:
 
 § 7
 
@@ -210,9 +210,7 @@ Stk. 2. (Udelades)
 
 Lov nr. 591 af 14. juni 2011 om lov om randzoner, ændrer § 24, stk. 4, 2. pkt., indeholder følgende ikrafttrædelsesbestemmelse:
 
-§ 11
-
-Ministeren for fødevarer, landbrug og fiskeri fastsætter tidspunktet for lovens ikrafttræden.
+§ 11. Ministeren for fødevarer, landbrug og fiskeri fastsætter tidspunktet for lovens ikrafttræden.
 
 Lov nr. 1273 af 21. december 2011 om ændring af lov om miljøbeskyttelse, lov om planlægning og forskellige andre love (Digital annoncering, obligatorisk kommunal kommunikation, afskæring af klageadgang), som indsætter ny stk. 3 i § 5 og ny stk. 3 i § 29, og ændrer § 30, stk. 5, 2. pkt., og indsætter ny stk. 4 i § 34, og indsætter nyt 2. pkt. i både § 37, stk. 1, § 40, stk. 2, § 60 b, stk. 2, § 69, stk. 5 og 77 g, stk. 2, og indsætter ny stk. 6 i § 87, indeholder følgende ikrafttrædelsesbestemmelse:
 
@@ -236,7 +234,7 @@ Lov nr. 1289 af 19. december 2012 om ændring af lov om frikommuner og lov om na
 
 § 3
 
-Stk. Loven træder i kraft den 1. januar 2013.
+Stk. 1. Loven træder i kraft den 1. januar 2013.
 
 Stk. 2-3. (Udelades)
 
@@ -250,13 +248,23 @@ Stk. 2. Loven finder ikke anvendelse ved Natur- og Miljøklagenævnets behandlin
 
 Stk. 3. Loven finder ikke anvendelse for skriftlige anmeldelser af projekter omfattet af §§ 11 g-11 i i lov om planlægning og regler udstedt i medfør heraf indgivet før lovens ikrafttræden. For sådanne anmeldelser finder de hidtil gældende regler anvendelse.
 
+Lov nr. 1631 af 26. december 2013 om ændring af lov om vandforsyning m.v,, lov om vurdering og styring af oversvømmelsesrisikoen fra vandløb og søer og forskellige andre love (Konsekvensændringer som følge af lov om vandplanlægning), som ændrer § 19a, indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 17
+
+Stk. 1. (Udelades)
+
+Stk. 2. Miljøministeren fastsætter tidspunktet for ikrafttræden af §§ 2 og 3, § 4, nr. 2, §§ 5-11, § 12, nr. 1, 3, 4 og 6, § 13, § 14, nr. 1 og 2 og 4-8, og §§ 15 og 16. Ministeren kan herunder bestemme, at ændringerne træder i kraft på forskellige tidspunkter.
+
+Stk. 3. (Udelades)
+
 Lov nr. 86 af 28. januar 2014 om ændring af lov om Natur- og Miljøklagenævnet og forskellige andre love (Obligatorisk digital selvbetjening ved indgivelse af klage samt obligatorisk videresendelse af klage over lokalplan til Natur- og Miljøklagenævnet m.v.), der indsætter § 43, stk. 6, ændrer § 87, stk. 2, indsætter § 87, stk. 5 og 6, og ændrer § 87, stk. 10, indeholder følgende ikrafttrædelsesbestemmelse:
 
 § 26
 
 Stk. 1. (Udelades)
 
-Stk. 2. Miljøministeren fastsætter tidspunktet for ikrafttræden af §§ 1-6, § 7, nr. 2 og 3, og §§ 8-25.
+Stk. 2. Miljøministeren fastsætter tidspunktet for ikrafttræden af §§ 1-6, § 7, nr. 2 og 3, og §§ 8-14 og §§ 16-25.
 
 Stk. 3. Loven finder ikke anvendelse for klager over afgørelser, der træffes, før loven træder i kraft. For sådanne klager finder de hidtidige regler anvendelse.
 
@@ -266,25 +274,13 @@ Lov nr. 80 af 28. januar 2014 om ændring af lov om erhvervsfremme og forskellig
 
 Stk. 1. Loven træder i kraft den 1. februar 2014.
 
-Stk. 2. (Udelades)
-
-Stk. 3. (Udelades)
-
-Stk. 4. (Udelades)
-
-Stk. 5. (Udelades)
+Stk. 2-5. (Udelades)
 
 Stk. 6. Loven finder ikke anvendelse på ansøgninger indgivet i henhold til naturbeskyttelseslovens § 55 a før lovens ikrafttræden. For sådanne ansøgninger finder de hidtil gældende regler anvendelse.
 
 Stk. 7. Loven finder ikke anvendelse på ansøgninger, der indgives i henhold til naturbeskyttelseslovens § 55 a før regionsrådets vedtagelse af en regional vækst- og udviklingsstrategi i henhold til § 8 a, stk. 1, i lov om erhvervsfremme og regional udvikling som affattet ved denne lovs § 1, nr. 10. For sådanne ansøgninger finder de hidtil gældende regler anvendelse.
 
-Stk. 8. (Udelades)
-
-Stk. 9. (Udelades)
-
-Stk. 10. (Udelades)
-
-Stk. 11. (Udelades)
+Stk. 8-11. (Udelades)
 
 Lov nr. 1529 af 27. december 2014 om ændring af lov om planlægning og lov om naturbeskyttelse (Forsøgsordning for kyst- og naturturisme og ophævelse af muligheden for at planlægge for lavenergibebyggelse i lokalplaner m.v.), der indsætter § 65 a, § 78, stk. 1, 3. pkt. og § 78, stk. 4, 2. pkt., indeholder følgende ikrafttrædelsesbestemmelse:
 
@@ -294,14 +290,10 @@ Stk. 1. Loven træder i kraft den 1. januar 2015.
 
 Stk. 2. (Udelades)
 
-Lov nr. 179 af 24. februar 2015 om ændring af lov om planlægning og lov om naturbeskyttelse (Opfølgning på dele af Naturplan Danmark om etablering af et Grønt Danmarkskort, forbud mod gødskning og sprøjtning på § 3-beskyttede arealer og indførelse af et vejledende bødeniveau for overtrædelse af naturbeskyttelsesloven m.v.), der ophæver § 3, stk. 4, indsætter § 3 a, indsætter § 60, stk. 5-7, ændrer § 65, stk. 3, ændrer § 71, stk. 4, nr. 4, ændrer § 89, stk. 1, nr. 1, indsætter § 89, stk. 5, og ændrer § 89, stk. 8 og 9, indeholder følgende ikrafttrædelsesbestemmelse:
+Lov nr. 179 af 24. februar 2015 om ændring af lov om planlægning og lov om naturbeskyttelse (Opfølgning på dele af Naturplan Danmark om etablering af et Grønt Danmarkskort, forbud mod gødskning og sprøjtning på § 3-beskyttede arealer og indførelse af et vejledende bødeniveau for overtrædelse af naturbeskyttelsesloven m.v.), der ophæver § 3, stk. 4, indsætter § 3 a, indsætter § 89, stk. 5, og ændrer § 89, stk. 8 og 9, indeholder følgende ikrafttrædelsesbestemmelse:
 
 § 5
 
 Stk. 1. Loven træder i kraft den 1. marts 2015, jf. dog stk. 2 og 3.
 
-Stk. 2. § 2, nr. 2-6, træder i kraft den 1. september 2017.
-
-Stk. 3. (Udelades)
-
-Stk. 4. (Udelades)
+Stk. 2-4. (Udelades)
