@@ -3,3 +3,7 @@
 Stk. 2. Medarbejdere, der overvejende er beskæftiget med opgaver, der forbliver statslige, er ikke omfattet af stk. 1.
 
 Stk. 3. Tjenestemænd, som er ansat i Pensionsstyrelsen eller med tjenestested i Pensionsstyrelsen, bevarer fra tidspunktet for overflytningen af opgaverne deres tjenestemandsansættelse i staten på vilkår, der svarer til de hidtidige vilkår, og er forpligtet til at gøre tjeneste i Arbejdsmarkedets Tillægspension.
+
+Stk. 4. Arbejdsmarkedets Tillægspension overtager fra tidspunktet for overførslen af opgaver fra Statens Administration til Udbetaling Danmark medarbejdere, der er ansat i Statens Administration, DSB, Forsvarsministeriet og Rigspolitiet eller med tjenestested hos disse myndigheder i henhold til kollektiv overenskomst eller bestemmelser om løn- og arbejdsforhold, der er fastsat eller godkendt af offentlig myndighed, eller som er ansat efter individuel aftale, og som udelukkende eller overvejende er beskæftiget med opgaver, der overføres. Lov om lønmodtageres retsstilling ved virksomhedsoverdragelse finder tilsvarende anvendelse ved overtagelsen af personalet.
+
+Stk. 5. Tjenestemænd, som er ansat i Statens Administration, DSB, Forsvarsministeriet og Rigspolitiet eller med tjenestested hos disse myndigheder, og som udelukkende eller overvejende er beskæftiget med opgaver, der overføres, bevarer fra tidspunktet for overførslen af opgaverne deres tjenestemandsansættelse i staten på vilkår, der svarer til de hidtidige vilkår, og er forpligtet til at gøre tjeneste i Arbejdsmarkedets Tillægspension.

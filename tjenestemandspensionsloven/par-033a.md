@@ -1,3 +1,1 @@
-§ 33 a. Finansministeren kan bemyndige Finansstyrelsen til at udøve sine beføjelser efter denne lov.
-
-Stk. 2. Finansministeren kan fastsætte regler om adgang til at påklage afgørelser, der er truffet i henhold til bemyndigelser efter stk. 1, herunder at afgørelserne ikke kan indbringes for anden administrativ myndighed.
+§ 33 a. (Ophævet).

@@ -8,4 +8,4 @@ Stk. 4. Kommunalbestyrelsen kan som vilkår for at stille garanti kræve suppler
 
 Stk. 5. Inden der ydes en garanti, skal kommunalbestyrelsen med henblik på at sikre den bedst mulige prioritetsstilling for de lån, hvortil der ydes kommunal garanti, tage stilling til, i hvilket omfang det kan accepteres, at disse lån skal respektere foranstående lån med pant i ejendommen.
 
-Stk. 6. Udlændinge-, integrations- og boligministeren kan fastsætte nærmere regler om kommunalbestyrelsens ydelse af garanti og om anmeldelse af kommunale garantier til Statens Administration.
+Stk. 6. Udlændinge-, integrations- og boligministeren kan fastsætte nærmere regler om kommunalbestyrelsens ydelse af garanti og om anmeldelse af kommunale garantier til Udbetaling Danmark.
