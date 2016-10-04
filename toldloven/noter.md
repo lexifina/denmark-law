@@ -1,3 +1,3 @@
-Denne lovbekendtgørelse indeholder bemærkninger til de ændringer af toldloven, der blev gennemført ved lov nr. 428 af 6. juni 2005.
+1) § 17, stk. 4-6, er ændret ved § 2, nr. 1 og 2, i lov nr. 1881 af 29. december 2015. Loven sættes i kraft af justitsministeren; det er ikke sket endnu.
 
-§ 68, stk. 1 (ændret), § 68, stk. 2 (nyt) og §§ 71 og 71 a (ophævet), jf. § 72 i lov nr. 428 af 6. juni 2005. Endvidere er »de statslige told- og skattemyndigheder« ændret til: »told- og skatteforvaltningen« overalt i loven. Ændringerne har virkning fra den 1. november 2005, jf. § 125, stk. 2 i lov nr. 428 af 6. juni 2005.
+2) § 79, nr. 1 og 2, er ændret ved § 2, nr. 3, i lov nr. 1881 af 29. december 2015. Loven sættes i kraft af justitsministeren; det er ikke sket endnu.
