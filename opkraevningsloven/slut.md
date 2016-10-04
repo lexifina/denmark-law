@@ -1,4 +1,4 @@
-Skatteministeriet, den 30. september 2015
+Skatteministeriet, den 29. september 2016
 
 P.M.V. Jens Brøchner
 
@@ -6,7 +6,7 @@ P.M.V. Jens Brøchner
 
 Bilag 1
 
-## Liste A
+Liste A
 
 1) Lov om energiafgift af mineralolieprodukter m.v.
 
@@ -74,6 +74,6 @@ Bilag 1
 
 33) Lov om afgift af skadesforsikringer.
 
-## Liste B
+Liste B
 
 1) Kildeskatteloven.

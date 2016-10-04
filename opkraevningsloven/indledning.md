@@ -1,3 +1,3 @@
 Bekendtgørelse af lov om opkrævning af skatter og afgifter m.v. (opkrævningsloven)
 
-Herved bekendtgøres lov om opkrævning af skatter og afgifter m.v. (opkrævningsloven), jf. lovbekendtgørelse nr. 569 af 28. maj 2014, med de ændringer, der følger af § 3 i lov nr. 1500 af 23. december 2014, § 21 i lov nr. 1532 af 27. december 2014 og § 1 i lov nr. 998 af 30. august 2015.
+Herved bekendtgøres lov om opkrævning af skatter og afgifter m.v. (opkrævningsloven), jf. lovbekendtgørelse nr. 1180 af 30. september 2015, med de ændringer, der følger af § 3 i lov nr. 298 af 22. marts 2016, § 3 i lov nr. 322 af 5. april 2016, § 21 i lov nr. 395 af 2. maj 2016 og § 4 i lov nr. 428 af 18. maj 2016.
