@@ -1,4 +1,4 @@
-Udlændinge-, Integrations- og Boligministeriet, den 31. august 2015
+Udlændinge-, Integrations- og Boligministeriet, den 3. oktober 2016
 
 Inger Støjberg
 
