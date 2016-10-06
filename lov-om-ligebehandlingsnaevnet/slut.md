@@ -1,5 +1,5 @@
-Beskæftigelsesministeriet, den 3. september 2012
+Beskæftigelsesministeriet, den 2. oktober 2016
 
-Mette Frederiksen
+Jørn Neergaard Larsen
 
-/ Pernille Christensen
+/ Vibe Westh
