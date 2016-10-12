@@ -1,1 +1,0 @@
-1) § 5, nr. 1, i lov nr. 554 af 2. juni 2014, ændrer i emballageafgiftslovens § 3, stk. 7, men ændringen skulle være sket i emballageafgiftslovens § 3, stk. 5. Lovændringen er derfor ikke indarbejdet i lovbekendtgørelsen. Fejlen vil blive rettet snarest belejligt.
