@@ -1,6 +1,6 @@
 ## Kapitel 2 a
 
-## Opsat pension – optjening af venteprocent
+## Opsat pension - optjening af venteprocent
 
 § 15 a. Personer, der opfylder betingelserne i kapitel 1 for ret til folkepension, kan opsætte udbetalingen af folkepension til et tidspunkt, der ligger efter folkepensionsalderen, jf. dog stk. 2.
 
