@@ -4,7 +4,7 @@ Stk. 2. Tilsvarende ret har udlændinge omfattet af § 2, stk. 2, nr. 1, der har
 
 1) § 9 b,
 
-2) § 9 c, stk. 1, i umiddelbar forlængelse af en opholdstilladelse efter § 9 b,
+2) § 9 c, stk. 1 i umiddelbar forlængelse af en opholdstilladelse efter § 9 b,
 
 3) § 9, stk. 1, nr. 1 eller 2, som følge af tilknytning til en person med opholdstilladelse som nævnt i stk. 1 og stk. 2, nr. 1 og 2,
 

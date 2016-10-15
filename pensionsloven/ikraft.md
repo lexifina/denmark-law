@@ -1,4 +1,4 @@
-Lov nr. 914 af 16. december 1998 (Ændrede udbetalingsregler, ligestilling af samlevende med gifte m.v.) indeholder følgende ikrafttrædelsesbestemmelse. Information til nedenstående § 3, stk. 3: Lovens § 1, nr. 8, trådte i kraft den 1. februar 1999, jf. bekendtgørelse nr. 23 af 13. januar 1999.
+Lov nr. 914 af 16. december 1998 (Ændrede udbetalingsregler, ligestilling af samlevende med gifte m.v.) indeholder følgende ikrafttrædelsesbestemmelse.
 
 § 3
 
@@ -34,7 +34,7 @@ Stk. 1. Loven træder i kraft den 1. april 2001, jf. dog stk. 2.
 
 Stk. 2. (Udelades)
 
-Lov nr. 285 af 25. april 2001 (Førtidspensionsreform) indeholder følgende ikrafttrædelsesbestemmelse. Information til nedenstående § 6, stk. 3: Bekendtgørelsen i Lovtidende fandt sted den 26. april 2001.
+Lov nr. 285 af 25. april 2001 (Førtidspensionsreform) indeholder følgende ikrafttrædelsesbestemmelse.
 
 § 6
 
@@ -44,7 +44,7 @@ Stk. 2. (Udelades)
 
 Stk. 3. § 1, nr. 32, træder i kraft dagen efter bekendtgørelsen i Lovtidende.
 
-Stk. 4. § 1 gælder ikke for personer, der er tilkendt førtidspension, invaliditetsydelse eller bistands- og plejetillæg, eller for hvem der er påbegyndt sag herom inden den 1. januar 2003, med undtagelse af nr. 3 og 18-21, jf. dog stk. 5, og nr. 30 og 31. For disse personer gælder fortsat de indtil da gældende regler i § 1, § 3, stk. 5, §§ 13-18, § 19, stk. 2-4, § 20 a, §§ 28-32, § 33, stk. 1 og 2, § 37, § 39, stk. 1, § 39 a, § 44, § 46, § 49, § 52, stk. 1 og 2, § 57, stk. 2 og 3, § 59, stk. 1-4, § 62, stk. 2, § 72, § 72 b og § 72 c i lov om social pension.
+Stk. 4. § 1 gælder ikke for personer, der er tilkendt førtidspension, invaliditetsydelse eller bistands- og plejetillæg, eller for hvem der er påbegyndt sag herom inden den 1. januar 2003, med undtagelse af nr. 3 og 18-21, jf. dog stk. 5, og nr. 30 og 31. For disse personer gælder fortsat de indtil da gældende regler i § 1, § 3, stk. 5, §§ 13-18, § 19, stk. 2-4, § 20 a, §§ 28-32, § 33, stk. 1 og 2, § 37, § 39, stk. 1, § 39 a, § 44, § 46, § 49, § 52, stk. 1 og 2, § 57, stk. 2 og 3, § 59, stk. 1-4, § 62, stk. 2, § 72, § 72 b og § 72 c i lov om social pension1).
 
 Stk. 5. Førtidspensionister, der er omfattet af stk. 4, kan fra den 1. januar 2003 vælge på frivillig basis at være omfattet af ATP-ordningen, jf. § 33 a i lov om social pension som ændret ved denne lovs § 1, nr. 18-20, og af den supplerende pensionsordning, jf. § 33 b i lov om social pension, som affattet ved denne lovs § 1, nr. 21. Personer, som har valgt at være omfattet af den indtil 1. januar 2003 gældende bestemmelse i § 33 a i lov om social pension, overgår automatisk til på frivillig basis at være omfattet af § 33 a i lov om social pension som gældende efter 1. januar 2003.
 
@@ -54,7 +54,7 @@ Stk. 7. § 27 a i lov om aktiv socialpolitik som affattet ved denne lovs § 4, n
 
 Stk. 8. Personer, der er tilkendt førtidspension eller invaliditetsydelse, eller for hvem der er påbegyndt sag herom inden den 1. januar 2003, er dog uanset § 5, nr. 1 og 2, også efter udgangen af 2002 berettiget til boligydelse efter de regler i lov om individuel boligstøtte, der gælder for modtagere af folkepension.
 
-Lov nr. 394 af 28. maj 2003 (Forbedring af vilkårene for medarbejderaktieordninger) indeholder følgende ikrafttrædelsesbestemmelse. Information til nedenstående § 17, stk. 1: Bekendtgørelsen i Lovtidende fandt sted den 30. maj 2003.
+Lov nr. 394 af 28. maj 2003 (Forbedring af vilkårene for medarbejderaktieordninger) indeholder følgende ikrafttrædelsesbestemmelse.
 
 § 17
 
@@ -87,10 +87,6 @@ Lov nr. 445 af 9. juni 2008 (Øget bundfradrag for folkepensionister, reduceret 
 § 3
 
 Loven træder i kraft den 1. juli 2008.
-
-§ 4
-
-(Udelades)
 
 Lov nr. 521 af 12. juni 2009 (Forenkling af reglerne om opkrævning af arbejdsmarkedsbidrag og konsekvensændringer som følge af Forårspakke 2.0 m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
 
@@ -252,7 +248,7 @@ Loven træder i kraft den 1. april 2013.
 
 § 5
 
-Udbetaling Danmark skal senest den 31. maj 2013 give modtagere af førtidspension og modtagere af invaliditetsydelse efter lov om højeste, mellemste, forhøjet almindelig og almindelig førtidspension m.v. skriftlig meddelelse om ret til overgang til retten til førtidspension efter lov om social pension, jf. § 44, stk. 5, i lov om højeste, mellemste, forhøjet almindelig og almindelig førtidspension m.v. som affattet ved lovens § 1, nr. 2.
+Stk. 1. Udbetaling Danmark skal senest den 31. maj 2013 give modtagere af førtidspension og modtagere af invaliditetsydelse efter lov om højeste, mellemste, forhøjet almindelig og almindelig førtidspension m.v. skriftlig meddelelse om ret til overgang til retten til førtidspension efter lov om social pension, jf. § 44, stk. 5, i lov om højeste, mellemste, forhøjet almindelig og almindelig førtidspension m.v. som affattet ved lovens § 1, nr. 2.
 
 Stk. 2. Udbetaling Danmark og kommunen skal på hver sit myndighedsområde vejlede førtidspensionister, der anmoder herom, om konsekvenser ved at overgå til førtidspension efter lov om social pension, jf. § 44, stk. 5, i lov om højeste, mellemste, forhøjet almindelig og almindelig førtidspension m.v. som affattet ved lovens § 1, nr. 2. Vejledningen skal gives på baggrund af pensionistens konkrete aktuelle forhold.
 
@@ -284,10 +280,6 @@ Lov nr. 493 af 21. maj 2013 (Forenkling af klagestrukturen på det sociale og be
 
 Loven træder i kraft den 1. juli 2013.
 
-§ 26
-
-(Udelades)
-
 Lov nr. 494 af 21. maj 2013 (Overførsel af Pensionsstyrelsens opgaver til Udbetaling Danmark) indeholder følgende ikrafttrædelsesbestemmelse:
 
 § 11
@@ -300,7 +292,7 @@ Stk. 3. Udbetaling Danmark kan uden fornyet samtykke behandle sager efter stk. 2
 
 Stk. 4. Udbetaling Danmark overtager Pensionsstyrelsens krav mod borgeren og borgerens krav mod Pensionsstyrelsen, der måtte foreligge ved lovens ikrafttræden, i sager, der som følge af lovens §§ 3-5 overføres til Udbetaling Danmark.
 
-Lov nr. 336 af 2. april 2014 (Erstatning og godtgørelse til tidligere udsendte soldater og andre statsansatte med sent diagnosticeret posttraumatisk belastningsreaktion) indeholder følgende ikrafttrædelsesbestemmelse:
+Lov nr. 336 af 2. april 2014 om erstatning og godtgørelse til tidligere udsendte soldater og andre statsansatte med sent diagnosticeret posttraumatisk belastningsreaktion indeholder følgende ikrafttrædelsesbestemmelse:
 
 § 7. Loven træder i kraft dagen efter bekendtgørelsen i Lovtidende.
 
@@ -336,17 +328,11 @@ Stk. 9. Der kan ske en efterbetaling af boligstøtte ved efterregulering af boli
 
 Lov nr. 1482 af 23. december 2014 om organisering og understøttelse af beskæftigelsesindsatsen m.v. indeholder følgende ikrafttrædelses- og overgangsbestemmelser:
 
-§ 56
-
-Stk. 1. Loven træder i kraft den 1. januar 2015, jf. dog stk. 2 og 3.
+§ 56. Loven træder i kraft den 1. januar 2015, jf. dog stk. 2 og 3.
 
 Stk. 2-3. (Udelades)
 
 Stk. 4. Lov om ansvaret for og styringen af den aktive beskæftigelsesindsats, jf. lovbekendtgørelse nr. 1177 af 5. november 2014, ophæves.
-
-§ 57-69
-
-(Udelades)
 
 Lov nr. 1523 af 27. december 2014 (Anvendelse af indkomstregisteret ved indtægtsregulering af økonomisk fripladstilskud m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
 
@@ -363,3 +349,67 @@ Lov nr. 1527 af 27. december 2014 (Genindførelse af tidligere gældende regler 
 Stk. 1. Loven træder i kraft den 1. januar 2015.
 
 Stk. 2. Udlændinge, der er indrejst i Danmark i perioden fra den 1. januar 2011 til den 31. december 2014, som er meddelt ophold i Danmark efter udlændingelovens § 7 eller § 8, og som inden lovens ikrafttræden er tilkendt folkepension, har uden ansøgning med virkning fra den 1. januar 2015 ret til at få fastsat den tilkendte folkepension på baggrund af en opgørelse af bopælstid efter § 1, nr. 1.
+
+Lov nr. 174 af 24. februar 2015 om kontantydelse indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 26. Loven træder i kraft den 1. marts 2015, jf. dog stk. 2.
+
+Stk. 2. (Udelades)
+
+Lov nr. 742 af 1. juni 2015 (Overgang til obligatorisk digital selvbetjening, for så vidt angår anmodning om sygedagpenge, afgivelse af samtykke til udstedelse af børneattest og straffeattest til offentlig brug, ansøgning og meddelelser m.v. om personligt tillæg og helbredstillæg, indgivelse af klager til Patientombuddet, Sundhedsvæsenets Disciplinærnævn og Ankenævnet for Patienterstatningen, ansøgning om udstedelse af personcertifikater på luftfartsområdet, anmodning om behandling af klager fra flypassagerer, ansøgning om chaufføruddannelsesbeviser m.v.) indeholder følgende ikrafttrædelsesbestemmelser:
+
+§ 13
+
+Stk. 1. Loven træder i kraft den 1. december 2015.
+
+Stk. 2. Loven finder alene anvendelse for ansøgninger, anmodninger, meddelelser og klager m.v., der indgives efter lovens ikrafttræden.
+
+Lov nr. 994 af 30. august 2015 (Kommunernes finansiering af visse offentlige ydelser udbetalt af kommunerne, Udbetaling Danmark og arbejdsløshedskasserne) indeholder følgende ikrafttrædelsesbestemmelser:
+
+§ 29. Loven træder i kraft den 4. januar 2016, jf. dog stk. 2.
+
+Stk. 2-3. (Udelades)
+
+Lov nr. 995 af 30. august 2015 (Harmonisering af regler om opgørelse af bopælstid for folkepension) indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 2
+
+Stk. 1. Loven træder i kraft den 1. september 2015.
+
+Stk. 2. Loven finder ikke anvendelse ved opgørelse af optjeningsgrundlaget for ret til folkepension for udlændinge, som er meddelt ophold i Danmark efter udlændingelovens §§ 7 eller 8, som er indrejst i Danmark før lovens ikrafttræden, og som når folkepensionsalderen før den 1. januar 2021. For en sådan opgørelse finder de hidtil gældende regler anvendelse.
+
+Lov 1000 nr. 30. august 2015 (Indførelse af en integrationsydelse, ændring af reglerne om ret til uddannelses- og kontanthjælp m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 16
+
+Stk. Loven træder i kraft den 1. september 2015, jf. dog stk. 2-4.
+
+Stk. 2-6. (Udelades)
+
+Lov 1810 nr. 23. december 2015 (Regulering af folkepensionsalderen, ændring af revisionsbestemmelse m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 4
+
+Loven træder i kraft den 29. december 2015.
+
+Lov nr. 456 af 25. maj 2016 (Undtagelse af visse førtidspensionssager fra forelæggelse for rehabiliteringsteamet) indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 3
+
+Stk. 1. Loven træder i kraft den 1. juni 2016.
+
+Stk. 2. § 1, nr. 1 og 2, finder ikke anvendelse på ansøgninger om førtidspension indgivet før lovens ikrafttræden. For sådanne ansøgninger finder de hidtil gældende regler anvendelse.
+
+Lov nr. 625 af 8. juni 2016 (Forlængelse af forsøg med ret til at afvise lægebehandling uden ydelsesmæssige konsekvenser m.v.) indeholder følgende ikrafttrædelsesbestemmelser:
+
+§ 6
+
+Stk. 1. Loven træder i kraft den 1. juli 2016, jf. dog stk. 2.
+
+Stk. 2. § 1, nr. 3, træder i kraft dagen efter bekendtgørelsen i Lovtidende.
+
+§ 7
+
+Stk. 1. Har en sag i den nugældende forsøgsperiode fra den 1. juli 2014 til og med den 30. juni 2016 været forelagt klinisk funktion til vurdering af, om der kan anbefales en anden behandling end den, som borgeren er blevet tilbudt, skal sagen fra og med den 1. juli 2016 ikke forelægges for sundhedskoordinatoren.
+
+Stk. 2. § 1, nr. 3, har virkning fra den 1. juni 2016.
