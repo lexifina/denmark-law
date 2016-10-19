@@ -1,1 +1,1 @@
-§ 9 b. (Ophævet).
+§ 9 b. (Ophævet)
