@@ -90,7 +90,7 @@ Bekendtgørelse nr. 42 af 19. januar 2011 om ændring af bekendtgørelse om ænd
 
 § 2
 
-Bekendtgørelsen træder i kraft den 23. januar 2011.
+Bekendtgørelsen træder i kraft den 24. januar 2011.
 
 Lov nr. 553 af 1. juni 2011 om ændring af lov om naturbeskyttelse, lov om planlægning, lov om vandløb og forskellige andre love (»Grøn vækst«), der ændrer i titelnoten og § 53, stk. 1, nr. 1 og 3, indeholder følgende ikrafttrædelsesbestemmelse:
 
@@ -134,7 +134,7 @@ Stk. 2. Miljø- og fødevareministeren fastsætter tidspunktet for ikrafttræden
 
 Stk. 3-5. (Udelades)
 
-Lov nr. 1631 af 26. december 2013 om ændring af lov om vandforsyning m.v., lov om vurdering og styring af oversvømmelsesrisikoen fra vandløb og søer og forskellige andre love (Konsekvensændringer som følge af lov om vandplanlægning), der ophæver en overskrift til kapitel 5, § 8 a, § 28, stk. 1, nr. 1, og kapitel 12 samt ændrer § 28, stk. 2, § 29, stk. 1, 3, 5 og 6, indeholder følgende ikrafttrædelsesbestemmelse:
+Lov nr. 1631 af 26. december 2013 om ændring af lov om vandforsyning m.v., lov om vurdering og styring af oversvømmelsesrisikoen fra vandløb og søer og forskellige andre love (Konsekvensændringer som følge af lov om vandplanlægning), der ophæver to overskrifter til kapitel 5, § 8, § 8 a, § 28, stk. 1, nr. 1, og kapitel 12 samt ændrer § 7, nr. 1, § 28, stk. 2, § 29, stk. 1, 3, 5 og 6, indeholder følgende ikrafttrædelsesbestemmelse:
 
 § 17
 
