@@ -1,8 +1,6 @@
-Justitsministeriet, den 16. november 2015
+Justitsministeriet, den 13. oktober 2016
 
 Søren Pind
-
-/ Henrik Hjort Elmquist
 
 Bilag
 

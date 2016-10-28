@@ -443,3 +443,109 @@ Stk. 1. Loven træder i kraft dagen efter bekendtgørelsen i Lovtidende, jf. dog
 Stk. 2. (Udelades)
 
 Stk. 3. §§ 2, 3, 5, 7 og 8 træder i kraft den 1. januar 2016.
+
+Lov nr. 1741 af 22. december 2015 (Ankestyrelsen som familieretlig klagemyndighed m.v.) indeholder følgende ikrafttrædelsesbestemmelser:
+
+§ 12
+
+Loven træder i kraft den 1. januar 2016.
+
+§ 13
+
+Stk. 1. Sager, der er under behandling hos social- og indenrigsministeren efter en af de i §§ 1-8, 10 og 11 nævnte love, hvor Ankestyrelsen efter denne lovs ikrafttræden behandler sådanne sager, og hvor sagerne ikke er færdigbehandlet ved lovens ikrafttræden, færdigbehandles af Ankestyrelsen.
+
+Stk. 2. Anmodning om genoptagelse af afgørelser, herunder afgørelser om aktindsigt og afgørelser om sagsbehandlingen, der er truffet af social- og indenrigsministeren i sager efter en af de i §§ 1-8, 10 og 11 nævnte love, og hvor Ankestyrelsen efter denne lovs ikrafttræden træffer afgørelse i sådanne sager, indgives til og behandles af Ankestyrelsen.
+
+Stk. 3. Stk. 2 finder tilsvarende anvendelse på alle andre former for henvendelser i de sager, der er nævnt i stk. 2.
+
+Stk. 4. Anmodning om aktindsigt i sager, som social- og indenrigsministeren har behandlet efter en af de i §§ 1-8, 10 og 11 nævnte love, og hvor Ankestyrelsen efter denne lovs ikrafttræden behandler sådanne sager, indgives til og behandles af Ankestyrelsen.
+
+§ 14
+
+(Udelades)
+
+Lov nr. 1867 af 29. december 2015 (Digitalisering af retsprocessen i borgerlige sager, oprettelse af en domsdatabase m.v.) indeholder følgende ikrafttrædelsesbestemmelser:
+
+§ 5
+
+Stk. 1. Loven træder i kraft den 1. januar 2016.
+
+Stk. 2. Loven finder anvendelse på alle sager, som anlægges, appelleres eller henvises efter lovens ikrafttræden. For sager, der er anlagt, appelleret eller henvist før lovens ikrafttræden, finder de hidtil gældende regler anvendelse, jf. dog stk. 3.
+
+Stk. 3. § 1, nr. 2, 40, 41 og 47, finder anvendelse på sager, der er anlagt, appelleret eller henvist før lovens ikrafttræden.
+
+Stk. 4. Domstolsstyrelsen kan fastsætte regler om, at sager i bestemte retskredse og retsinstanser, som anlægges, appelleres eller henvises i en nærmere fastsat periode efter lovens ikrafttræden, ikke skal anlægges eller behandles på domstolenes sagsportal. For disse sager finder de hidtil gældende regler anvendelse.
+
+Stk. 5. Sager, som er anlagt før lovens ikrafttræden og appelleres efter lovens ikrafttræden, skal gøres tilgængelige på domstolenes sagsportal af den ret, hvis afgørelse appelleres.
+
+Stk. 6. Retten kan beslutte, at en sag, som er anlagt før lovens ikrafttræden eller behandles efter de hidtil gældende regler, jf. stk. 4, 2. pkt., skal behandles efter reglerne i denne lov. Beslutningen kan ikke uden Procesbevillingsnævnets tilladelse indbringes for højere ret. Procesbevillingsnævnet kan dog meddele tilladelse til kære, hvis beslutningen angår spørgsmål af væsentlig betydning for sagens forløb eller af afgørende betydning for den, der ansøger om kæretilladelse, og der i øvrigt er anledning til at lade afgørelsen prøve af en højere ret. Ansøgning om kæretilladelse skal indgives til Procesbevillingsnævnet, inden 2 uger efter at beslutningen er truffet. Kære skal ske, inden 2 uger efter at tilladelsen er meddelt ansøgeren.
+
+Stk. 7. Domstolsstyrelsen kan fastsætte regler om, at alle verserende borgerlige retssager og sager om optagelse af bevis om borgerlige krav skal behandles efter reglerne i denne lov.
+
+§ 6
+
+(Udelades)
+
+Lov nr. 166 af 27. februar 2016 (Udtagelse af blodprøve, anklagemyndighedens deltagelse i retsmøder via videokommunikation ved fristforlængelser m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 2
+
+Stk. 1. Loven træder i kraft den 1. april 2016.
+
+Stk. 2. Lovens § 1, nr. 2-4, finder anvendelse i straffesager, hvor der ved lovens ikrafttræden ikke er rejst tiltale i 1. instans, eller som genoptages efter lovens ikrafttræden.
+
+Lov nr. 167 af 27. februar 2016 (Videoafhøring af børn og unge i straffesager) indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 2
+
+Loven træder i kraft den 1. april 2016.
+
+Lov nr. 168 af 27. februar 2016 (Udveksling af oplysninger om tegn på radikalisering og ekstremisme) indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 2
+
+Loven træder i kraft den 1. marts 2016.
+
+Lov nr. 263 af 16. marts 2016 (Ændring af betingelserne for retshjælp og indførelse af klageadgang til Procesbevillingsnævnet) indeholder følgende ikrafttrædelsesbestemmelser:
+
+§ 3
+
+Stk. 1. Loven træder i kraft den 1. april 2016.
+
+Stk. 2. Loven finder ikke anvendelse på ansøgninger om retshjælp indgivet før lovens ikrafttræden. For sådanne ansøgninger finder de hidtil gældende regler anvendelse.
+
+§ 4
+
+(Udelades)
+
+Lov nr. 377 af 27. april 2016 (Overførsel af kompetence fra Justitsministeriets departement til anklagemyndigheden i sager om udlevering og fuldbyrdelse af visse strafferetlige afgørelser m.v.) indeholder følgende ikrafttrædelsesbestemmelser:
+
+§ 6
+
+Loven træder i kraft den 1. maj 2016.
+
+§ 7
+
+(Udelades)
+
+Lov nr. 641 af 8. juni 2016 (Styrket indsats mod mobiltelefoner i fængsler m.v.) indeholder følgende ikrafttrædelsesbestemmelser:
+
+§ 4
+
+Loven træder i kraft den 1. august 2016.
+
+§ 5
+
+(Udelades)
+
+Lov nr. 632 af 8. juni 2016 (Ændringer som følge af forordningen om markedsmisbrug samt gennemførelse af regler om provisionsbetalinger m.v. fra tredjeparter og oplysninger om omkostninger m.v. i direktivet om markeder for finansielle instrumenter (MiFID II)) indeholder følgende ikrafttrædelsesbestemmelser:
+
+§ 6
+
+Stk. 1. Loven træder i kraft den 3. juli 2016, jf. dog stk. 2.
+
+Stk. 2. § 2 og § 3, nr. 1, 2, 4 og 5, træder i kraft den 1. juli 2017.
+
+§ 7
+
+(Udelades)
