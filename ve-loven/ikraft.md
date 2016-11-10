@@ -1,4 +1,4 @@
-Lov nr. 576 af 18. juni 2012 (Støtte til vindmøller på land, biogas og eksisterende industrielle kraftvarmeværker samt forlængelse af puljen til nye VE-teknologier m.v.), hvis § 1 angår § 35 a, § 36, stk. 1, §§ 43, 43 a-43 e og 44, § 47, stk. 1, nr. 2, § 49, stk. 2, § 50, stk. 1, 2, 4 og 5, § 50 a, § 51, stk. 1 og stk. 2, nr. 1 og 2, § 52, stk. 1, § 53, stk. 1, § 55, stk. 1-3, § 56, stk. 1 og 4, § 57, stk. 1, § 58 a og § 66, stk. 2, indeholder følgende ikrafttrædelsesbestemmelser, som ændret ved § 5, nr. 2, i lov nr. 641 af 12. juni 2013:
+Lov nr. 576 af 18. juni 2012 (Støtte til vindmøller på land, biogas og eksisterende industrielle kraftvarmeværker samt forlængelse af puljen til nye VE-teknologier m.v.), indeholder følgende ikrafttrædelsesbestemmelse:
 
 § 5
 
@@ -8,7 +8,7 @@ Stk. 2. Klima-, energi- og bygningsministeren kan efter forelæggelse for et af 
 
 Stk. 3. (Ophævet)
 
-Lov nr. 1390 af 23. december 2012 (Støtte til solcelleanlæg og øvrige små vedvarende energi-anlæg m.v.), hvis § 1 angår §§ 41, 43 a-43 e, § 44, stk. 2 og 5, § 47, stk. 3-5, § 49, stk. 4, § 50, stk. 2, § 51, stk. 2, nr. 1, og stk. 4, og § 52, stk. 1 og 4, indeholder følgende ikrafttrædelses- og overgangsbestemmelser, som ændret ved § 2, nr. 1, i lov nr. 900 af 4. juli 2013:
+Lov nr. 1390 af 23. december 2012 (Støtte til solcelleanlæg og øvrige små vedvarende energi-anlæg m.v.), indeholder følgende ikrafttrædelses- og overgangsbestemmelse:
 
 § 6
 
@@ -20,9 +20,9 @@ Stk. 3. Klima-, energi- og bygningsministeren kan fastsætte, at dele af §§ 1 
 
 Stk. 4-6. (Udelades)
 
-Stk. 7-10. (Ophævet)
+Stk. 7-10. 7-10. (Ophævet)
 
-Lov nr. 641 af 12. juni 2013 (Rammer for kystnære havvindmøller og revision af værditabs- og køberetsordningerne m.v.), hvis § 1 angår fodnoten til lovens titel, § 1, stk. 3, § 4, stk. 2, overskriften før § 6, §§ 6-17, § 21, stk. 2, nr. 2, § 22, stk. 3, 6, 10 og 11, § 22 a, § 23, stk. 3 og stk. 4, 1. pkt., § 26, stk. 1 og 5, § 29, stk. 1, 3. pkt., § 31, stk. 1, 4 og 5, § 32, § 33, stk. 1, § 35, stk. 2 og 3, §§ 35 a og 35 b, § 36, stk. 1, § 37, stk. 5, 2. pkt., §§ 37 a og 41, § 43, stk. 1 og 2, § 51, stk. 1, stk. 2, nr. 1, og stk. 4, § 53, stk. 1 og 2, § 54, stk. 1, nr. 3, og stk. 3, § 55, stk. 1 og 2, § 56, stk. 1, § 57, stk. 1, § 66, stk. 2, og § 72, indeholder følgende ikrafttrædelses- og overgangsbestemmelser, som ændret ved § 3, nr. 2 og 3, i lov nr. 900 af 4. juli 2013:
+Lov nr. 641 af 12. juni 2013 (Rammer for kystnære havvindmøller og revision af værditabs- og køberetsordningerne m.v.), indeholder følgende ikrafttrædelses- og overgangsbestemmelse:
 
 § 7
 
@@ -54,7 +54,7 @@ Stk. 11. Der ydes pristillæg efter § 41, stk. 2, i lov om fremme af vedvarende
 
 Stk. 12. Energinet.dk træffer afgørelse om pristillæg efter stk. 11. Afgørelsen kan ikke påklages til anden administrativ myndighed end Energiklagenævnet.
 
-Lov nr. 900 af 4. juli 2013 (Ændring af støtte til visse solcelleanlæg), hvis § 1 angår §§ 43 a-43 e, § 44, stk. 5, § 47, stk. 4-9, § 49, stk. 4, § 50, stk. 2, § 51, stk. 4, og § 52, stk. 4, indeholder følgende ikrafttrædelses- og overgangsbestemmelser:
+Lov nr. 900 af 4. juli 2013 (Ændring af støtte til visse solcelleanlæg), indeholder følgende ikrafttrædelses- og overgangsbestemmelse:
 
 § 4
 
@@ -92,7 +92,7 @@ Stk. 9. Der ydes pristillæg efter § 47, stk. 5, nr. 1-4, i lov om fremme af ve
 
 Stk. 10. Energinet.dk træffer afgørelse om pristillæg efter stk. 4-9. Energinet.dk kan kræve, at dokumentation for opfyldelse af kravene i stk. 7-9 ledsages af en erklæring på tro og love om dokumentationens ægthed. Afgørelsen kan ikke påklages til anden administrativ myndighed end Energiklagenævnet.
 
-Lov nr. 345 af 8. april 2014 (Implementering af EU’s energieffektivitetsdirektiv m.v.), hvis § 6 angår § 43 a, stk. 7, indeholder følgende ikrafttrædelses- og overgangsbestemmelser:
+Lov nr. 345 af 8. april 2014 (Implementering af EU’s energieffektivitetsdirektiv m.v.), indeholder følgende ikrafttrædelses- og overgangsbestemmelse:
 
 § 7
 
@@ -112,7 +112,7 @@ Stk. 5. Ejere af elproduktionsanlæg kan ikke vælge pristillæg efter § 43 a, 
 
 Stk. 6. Ejere af elproduktionsanlæg, som er nettilsluttet den 20. november 2012 eller senere, men inden ikrafttrædelsen af § 43 a, stk. 7, i lov om fremme af vedvarende energi som affattet ved denne lovs § 6, nr. 1, skal anmode om at modtage det i bestemmelsen fastsatte pristillæg senest 30 dage efter den nævnte bestemmelses ikrafttræden.
 
-Lov nr. 744 af 1. juni 2015 (Ny ansøgningsprocedure og grænse på 500 kW for støtte til bl.a. solcelleanlæg og husstandsvindmøller, investeringstilskud og driftsstøtte til kraft-varme-værker, afregningsvilkår for Horns Rev 3 og ophævelse af treledstariffen m.v.), hvis § 1 angår § 5, stk. 1, § 35, stk. 3, 2. pkt., § 35 b, stk. 2, 2. pkt., § 37, stk. 2, § 37, stk. 4, 1. pkt., § 37, stk. 5, § 41, overskriften før § 43, § 43, stk. 1, 2 og 4, § 43, stk. 2, § 43 a, stk. 2, § 43 a, stk. 7, 4. pkt., § 44, stk. 2, stk. 5, 2. pkt., , § 47, stk. 6-10, § 48, stk. 3, § 49, stk. 4, 2. pkt., overskriften før § 50, § 50, stk. 2 og 3 , § 51, stk. 1 og stk. 4,1. pkt., § 52, stk. 4, 1. pkt., § 53, stk. 1, § 55, stk. 1 og 2, § 56, stk. 1 og § 57, stk. 1, 1. pkt. og § 66, stk. 2, indeholder følgende ikrafttrædelses- og overgangsbestemmelser:
+Lov nr. 744 af 1. juni 2015 (Ny ansøgningsprocedure og grænse på 500 kW for støtte til bl.a. solcelleanlæg og husstandsvindmøller, investeringstilskud og driftsstøtte til kraft-varme-værker, afregningsvilkår for Horns Rev 3 og ophævelse af treledstariffen m.v.), indeholder følgende ikrafttrædelses- og overgangsbestemmelse:
 
 § 7
 
@@ -130,7 +130,7 @@ Stk. 6. Elektricitet fra solcelleanlæg, hvor ejeren opfylder betingelserne i §
 
 Stk. 7. Energinet.dk træffer afgørelse om pristillæg efter stk. 5 og 6. Sådanne afgørelser kan ikke påklages til anden administrativ myndighed end Energiklagenævnet. Klage skal være indgivet skriftligt, inden 4 uger efter at afgørelsen er meddelt.
 
-Lov nr. 1877 af 29. december 2015 (Nedsættelse af støtte for husstandsvindmøller), hvis § 1 angår §§ 41, stk. 3, 1. pkt., 41, stk. 4-7 og 66, stk. 2, indeholder følgende ikrafttrædelses- og overgangsbestemmelser:
+Lov nr. 1877 af 29. december 2015 (Nedsættelse af støtte for husstandsvindmøller), indeholder følgende ikrafttrædelses- og overgangsbestemmelser:
 
 § 2
 
@@ -148,9 +148,11 @@ Stk. 6. § 66, stk. 2, i lov om fremme af vedvarende energi som ændret ved lov 
 
 Lov nr. 261 af 16. marts 2016 om pilotudbud af pristillæg for elektricitet fremstillet på solcelleanlæg, hvis § 8 angår § 2, stk. 6, indeholder følgende ikrafttrædelsesbestemmelse:
 
-§ 6. Energi-, forsynings- og klimaministeren fastsætter tidspunktet for lovens ikrafttræden. Ministeren kan herunder fastsætte, at lovens bestemmelser træder i kraft på forskellige tidspunkter.
+§ 6
 
-Lov nr. 399 af 3. maj 2016 (Ophævelse af 60-40-støtteordningen for solcelleanlæg), hvis § 1 angår §§ 47, stk. 6 og 7, stk. 9-11, § 49, stk. 4, § 50, stk. 2, § 51, stk. 4, 1. pkt., § 52, stk. 4, 1. pkt., og § 66, stk. 2, indeholder følgende ikrafftrædelses- og overgangsbestemmelser:
+Energi-, forsynings- og klimaministeren fastsætter tidspunktet for lovens ikrafttræden. Ministeren kan herunder fastsætte, at lovens bestemmelser træder i kraft på forskellige tidspunkter.
+
+Lov nr. 399 af 3. maj 2016 (Ophævelse af 60-40-støtteordningen for solcelleanlæg), indeholder følgende ikrafftrædelses- og overgangsbestemmelser:
 
 § 2
 
@@ -162,7 +164,7 @@ Stk. 3. Loven finder ikke anvendelse på tilsagn efter § 47, stk. 7, i lov om f
 
 Stk. 4. Regler fastsat i medfør af § 47, stk. 9, 10 og 12, i lov om fremme af vedvarende energi, jf. lovbekendtgørelse nr. 122 af 6. februar 2015 med senere ændringer, forbliver i kraft, indtil de ophæves eller afløses af nye regler.
 
-Lov nr. 427 af 18. maj 2016 (Konsekvensændringer m.v. som følge af lov om miljøvurdering af planer og programmer og af konkrete projekter (VVM)), hvis § 7 angår § 9, stk. 1, 1. pkt., § 26, § 29, stk. 2, § 29, stk. 3 og § 67, stk. 1, indeholder følgende ikrafttrædelses- og overgangsbestemmelser:
+Lov nr. 427 af 18. maj 2016 (Konsekvensændringer m.v. som følge af lov om miljøvurdering af planer og programmer og af konkrete projekter (VVM)), indeholder følgende ikrafttrædelses- og overgangsbestemmelse:
 
 § 10
 
@@ -202,7 +204,7 @@ Stk. 9. De hidtil gældende regler i § 28 a i lov om anvendelse af Danmarks und
 
 3) ansøgeren har fremsendt VVM-redegørelsen til Energistyrelsen, jf. bekendtgørelsens § 5, stk. 1, før ikrafttrædelsestidspunktet.
 
-Lov nr. 629 af 8. juni 2016 (Ændring af støtteordninger til biogas), hvis § 1 angår § 5, stk. 1, § 35 a, stk. 4, § 36, stk. 3, § 38, stk. 4, § 43, stk. 3, nr. 1, §§ 43 b-d og § 50, stk. 7, indeholder følgende ikrafttrædelsesbestemmelse:
+Lov nr. 629 af 8. juni 2016 (Ændring af støtteordninger til biogas), indeholder følgende ikrafttrædelsesbestemmelse:
 
 § 3
 
