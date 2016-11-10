@@ -1,6 +1,6 @@
 Bekendtgørelse af lov om fremme af vedvarende energi
 
-Herved bekendtgøres lov om fremme af vedvarende energi, jf. lovbekendtgørelse nr. 122 af 6. februar 2015, med de ændringer, der følger af § 1 i lov nr. 744 af 1. juni 2015, § 1, nr. 1, i lov nr. 1877 af 29. december 2015, lov nr. 399 af 3. maj 2016 og § 1 i lov nr. 629 af 8. juni 2016.
+Herved bekendtgøres lov om fremme af vedvarende energi, jf. lovbekendtgørelse nr.1141 af 29. august 2016, med de ændringer, der følger af § 1, nr. 2, 4 og 5, i lov nr. 1877 af 29. december 2015 og § 8 i lov nr. 261 af 16. marts 2016.
 
 De ændringer, der vedrører § 55, stk. 2 og 3, § 56, stk. 4, § 58 a og § 66, stk. 2, og som følger af § 1, nr. 22, 24, 26 og 27, i lov nr. 576 af 18. juni 2012 om ændring af lov om fremme af vedvarende energi, lov om elforsyning, lov om naturgasforsyning og lov om Energinet.dk (Støtte til vindmøller på land, biogas og eksisterende industrielle kraftvarmeværker samt forlængelse af puljen til nye VE-teknologier m.v.), er ikke indarbejdet i denne lovbekendtgørelse. Dette skyldes, at tidspunktet for ikrafttræden af disse ændringer fastsættes af energi-, forsynings- og klimaministeren, jf. lovens § 5, stk. 1.
 
@@ -8,8 +8,6 @@ De ændringer, der vedrører § 35, stk. 2, nr. 1, § 37 a og § 53, stk. 2, og 
 
 De ændringer, der vedrører §§ 43 b-d, og som følger af § 1, nr. 1 (delvist) i lov nr. 900 af 4. juli 2013 om ændring af lov om fremme af vedvarende energi (Ændring af støtte til visse solcelleanlæg), er efterfølgende ophævet, jf. § 2 i lov nr. 629 af 8. juni 2016. Disse ændringer er derfor ikke indarbejdet i denne lovbekendtgørelse.
 
-De ændringer, der vedrører § 41, stk. 4-7, og § 66, stk. 2, og som følger af § 1, nr. 2-6, i lov nr. 1877 af 29. december 2015 om ændring af lov om fremme af vedvarende energi (Nedsættelse af støtte for husstandsvindmøller), er ikke indarbejdet i denne lovbekendtgørelse. Dette skyldes, at tidspunktet for ikrafttræden af disse ændringer fastsættes af energi-, forsynings- og klimaministeren, jf. lovens § 2, stk. 2.
+De ændringer, der vedrører § 41, stk. 4, og § 66, stk. 2, og som følger af § 1, nr. 3 og 6, i lov nr. 1877 af 29. december 2015 om ændring af lov om fremme af vedvarende energi (Nedsættelse af støtte for husstandsvindmøller), er ikke indarbejdet i denne lovbekendtgørelse. Dette skyldes, at tidspunktet for ikrafttræden af disse ændringer fastsættes af energi-, forsynings- og klimaministeren, jf. lovens § 2, stk. 2.
 
 De ændringer, der vedrører § 9, stk. 1, 1. pkt., § 26, § 29, stk. 2 og 3, og § 67, stk. 1, og som følger af § 7 i lov nr. 427 af 18. maj 2016 om ændring af lov om miljøgodkendelse m.v. af husdyrbrug, lov om planlægning, lov om anvendelse af Danmarks undergrund, lov om fremme af vedvarende energi og forskellige andre love (Konsekvensændringer m.v. som følge af lov om miljøvurdering af planer og programmer og af konkrete projekter (VVM)), er ikke indarbejdet i denne lovbekendtgørelse. Dette skyldes, at ændringerne først træder i kraft den 16. maj 2017.
-
-Den ændring, der vedrører § 2, stk. 6, og som følger af § 8 i lov nr. 261 af 16. marts 2016 om pilotudbud af pristillæg for elektricitet fremstillet på solcelleanlæg, er ikke indarbejdet i denne lovbekendtgørelse. Dette skyldes, at tidspunktet for ikrafttræden af denne ændring fastsættes af energi-, forsynings- og klimaministeren, jf. lovens § 6.

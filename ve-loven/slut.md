@@ -1,4 +1,4 @@
-Energistyrelsen, den 29. august 2016
+Energistyrelsen, den 27. oktober 2016
 
 Martin Hansen Vicedirektør
 
