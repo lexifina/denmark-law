@@ -1,1 +1,1 @@
-§ 23a. (Ophævet).
+§ 23 a. (Ophævet)
