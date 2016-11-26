@@ -1,5 +1,5 @@
-Indenrigs- og Sundhedsministeriet, den 4. august 2011
+Sundheds- og Ældreministeriet, den 23. oktober 2016
 
-Bertel Haarder
+Sophie Løhde
 
-/ Anne Marie Karstoft Hertzum
+/ Anita Aagaard Koefoed
