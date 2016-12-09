@@ -1,7 +1,5 @@
-Givet i København, den 11. april 2012
+Beskæftigelsesministeriet, den 6. december 2016
 
-Under Vor Kongelige Hånd og Segl
+Troels Lund Poulsen
 
-MARGRETHE R.
-
-/ Karen Hækkerup
+/ Bent Nielsen
