@@ -1,0 +1,1 @@
+1) Loven indeholder bestemmelser, der gennemfører Europa-Parlamentets og Rådets direktiv 2014/104/EU af 26. november 2014 om visse regler for søgsmål i henhold til national ret angående erstatning for overtrædelser af bestemmelser i medlemsstaternes og Den Europæiske Unions konkurrenceret, EU-Tidende 2014, nr. L 349, side 1.
