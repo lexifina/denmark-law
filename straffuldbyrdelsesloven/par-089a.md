@@ -1,7 +1,1 @@
-## Kapitel 15 a
-
-## Forsøgsordning med elektronisk overvågning ved prøveløsladelse og udgang
-
-§ 89 a. Justitsministeren kan iværksætte en forsøgsordning, hvor det som vilkår for prøveløsladelse eller udgangstilladelse fra en eller flere institutioner kan fastsættes, at den dømte skal undergive sig elektronisk overvågning af sin færden.
-
-Stk. 2. Ministeren fastsætter nærmere regler om forsøgsordningen.
+§ 89 a. Anvendelse af digital kommunikation kan ske, hvis der er tale om en påmindelse til den, der er tilsagt til afsoning eller møde m.v. hos kriminalforsorgen, om tid og sted for fremmøde m.v.
