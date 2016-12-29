@@ -1,0 +1,1 @@
+§ 1 a. Den, der anstifter eller leder et opløb med det forsæt at øve eller true med vold på person eller gods, er erstatningsansvarlig for tingsskade, der forvoldes under eller i forbindelse med opløbet af personer, der deltager i dette.
