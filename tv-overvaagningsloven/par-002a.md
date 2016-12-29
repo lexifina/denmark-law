@@ -1,0 +1,1 @@
+§ 2 a. En kommunalbestyrelse kan efter drøftelse med politidirektøren med henblik på at fremme trygheden foretage tv-overvågning af offentlig gade, vej, plads eller lignende område, som benyttes til almindelig færdsel, og som ligger i nær tilknytning til et område, der tv-overvåges i medfør af § 2, stk. 2.
