@@ -1,4 +1,4 @@
-§ 11 b. Elektricitet, der leveres til de i toldlovens § 4 nævnte diplomatiske repræsentationer, internationale institutioner mv. samt de hertil knyttede personer, er fritaget for afgift.
+§ 11 b. Elektricitet, der leveres til de i toldlovens § 4 nævnte diplomatiske repræsentationer, internationale institutioner m.v. samt de hertil knyttede personer, er fritaget for afgift.
 
 Stk. 2. Afgiften godtgøres af kørestrøm, der anvendes af eltog til personbefordring. § 11 c, stk. 1, finder tilsvarende anvendelse på afgiftsgodtgørelsen. Godtgørelsen er betinget af,
 
@@ -6,7 +6,7 @@ Stk. 2. Afgiften godtgøres af kørestrøm, der anvendes af eltog til personbefo
 
 2) at fakturaer vedrørende de aftalte leverancer af elektricitet indeholder oplysning om forbrugerens aktuelle cvr-, eller SE-nummer.
 
-Stk. 3. Udleveres elektricitet til et aftagenummer, hvorefter elektriciteten helt eller delvis leveres fra land til skibe med en bruttotonnage på mindst 400 t, som ligger ved kaj i havn, godtgøres afgiften af leverancen af elektriciteten til skibene bortset fra 0,4 øre pr. kWh, jf. dog stk. 4. Godtgørelsen ydes til den, som aftagenummeret omfatter.
+Stk. 3. Udleveres elektricitet til et aftagenummer, hvorefter elektriciteten helt eller delvis leveres fra land til skibe, som ligger ved kaj i havn, godtgøres afgiften af leverancen af elektriciteten til skibene bortset fra 0,4 øre pr. kWh, jf. dog stk. 4. Godtgørelsen ydes til den, som aftagenummeret omfatter.
 
 Stk. 4. Stk. 3 finder ikke anvendelse, i det omfang
 
@@ -25,3 +25,7 @@ Stk. 6. Stk. 3-5 kan dog ikke finde anvendelse efter den 18. juni 2021, jf. Råd
 Stk. 7. Skatteministeren bekendtgør på baggrund af en ny tilladelse fra Rådet, at stk. 3-5 finder anvendelse indtil tidspunktet for udløbet af den periode, hvori godtgørelse efter reglerne i stk. 3-5 kan ske ifølge den nye tilladelse. Det er en forudsætning for anvendelsen af 1. pkt., at der ikke er en periode mellem den tidligere og den efterfølgende tilladelse, som ikke er omfattet af en tilladelse. Stk. 6 finder ikke anvendelse for en periode, hvori 1. pkt. finder anvendelse.
 
 Stk. 8. Skatteministeren kan fastsætte de nærmere regler for afgiftsfritagelsen og afgiftsgodtgørelsen efter stk. 1 og 2.
+
+Stk. 9. Virksomheder, der benytter sig af godtgørelsesmuligheden i stk. 3-5, skal indberette godtgørelsesbeløbet til told- og skatteforvaltningen, hvis det samlede beløb overstiger 500.000 euro i et kalenderår. Omregningen fra danske kroner til euro skal ske efter den kurs, der gælder den første arbejdsdag i oktober i det år, som indberetningen vedrører, og som offentliggøres i Den Europæiske Unions Tidende. Opgørelsen af tilbagebetalingsbeløbet efter 1. pkt. skal ske pr. juridisk enhed.
+
+Stk. 10. Skatteministeren fastsætter nærmere regler om indberetning og offentliggørelse af oplysninger indberettet efter stk. 9 og oplysninger om virksomhedens navn, virksomhedstype, cvr-nummer, størrelse og dato for tildeling.
