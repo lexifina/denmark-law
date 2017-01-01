@@ -20,4 +20,4 @@ Stk. 6. Ved opgørelsen af stemmerettigheder i et datterselskab ses der bort fra
 
 Stk. 7. Opnås bestemmende indflydelse over et eller flere selskaber m.v. via koncernforbindelsen i kursgevinstlovens § 4, stk. 5, skal disse selskaber m.v. ikke anses for det overtagende selskabs datterselskaber i relation til stk.1.
 
-Stk. 8. Et selskab, der tages under konkursbehandling, skal holdes ude af sambeskatningen fra og med det indkomstår, hvori konkursdekretet afsiges. Ved ophøret af sambeskatningen finder § 31 A, stk. 10, anvendelse.
+Stk. 8. Et selskab, der tages under konkursbehandling, skal holdes ude af sambeskatning i alle indkomstperioder fra og med det indkomstår, hvori konkursdekretet afsiges. Ved ophøret af sambeskatningen finder § 31 A, stk. 10, anvendelse.
