@@ -1,0 +1,1 @@
+§ 3 a. Tages formandskabets vurderinger efter § 3, stk. 5, for så vidt angår budgetlovens korrektionsmekanisme og bestemmelser om exceptionelle omstændigheder, ikke til følge, skal finansministeren offentligt redegøre herfor.
