@@ -1,0 +1,1 @@
+§ 73 d. Søfartsstyrelsen kan efter forhandling med Arbejdsskadestyrelsen fastsætte regler om certificering eller anden dokumentation for beskyttelse af de søfarende efter arbejdsskadeloven og om opslag af dokumentation og certifikater m.v. på skibet.
