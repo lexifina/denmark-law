@@ -1,0 +1,1 @@
+§ 12 c. Patent- og Varemærkestyrelsen kan overføre indtægter fra gebyrer, der er opkrævet i medfør af denne lov, til dækning af omkostninger forbundet med Patent- og Varemærkestyrelsens administration af andre områder under styrelsens ressortomtråde, hvor der opkræves gebyrer.
