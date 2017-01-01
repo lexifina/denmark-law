@@ -10,8 +10,10 @@
 
 5) udlændingens opholdstilladelse eller opholdsret er bortfaldet i medfør af § 21 b, stk. 1,
 
-6) udlændingen har fået udstedt visum efter § 4 eller § 4 a og er udvist af landet i medfør af § 25 b efter at have fået afslag på en ansøgning om opholdstilladelse efter § 7 eller
+6) udlændingen har fået udstedt visum efter § 4 eller § 4 a og er udvist af landet i medfør af § 25 b efter at have fået afslag på en ansøgning om opholdstilladelse efter § 7,
 
-7) udlændingen er udvist af landet efter § 25 b.
+7) udlændingen er udvist af landet efter § 25 b eller
+
+8) udlændingen er optaget på den liste, der er nævnt i § 29 c, stk. 1.
 
 Stk. 2. Rigspolitichefen kan indberette en udlænding, der ikke er statsborger i et Schengenland eller et land, der er tilsluttet Den Europæiske Union, som uønsket til SIS II, hvis udlændingen er omfattet af restriktive foranstaltninger i form af begrænsninger med hensyn til indrejse og gennemrejse besluttet af De Forenede Nationer eller Den Europæiske Union.
