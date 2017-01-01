@@ -1,6 +1,8 @@
-§ 7 a. For virksomheder, hvor afgiften i henhold til § 1, stk. 4, skal opgøres efter den forbrugte mængde varer, opgøres den afgiftspligtige mængde for varer omfattet af bilag 1, nr. 19, hvor der anvendes satsen pr. GJ, på grundlag af den producerede mængde energi divideret med 0,85. For anlæg, hvor der fyres med en kombination af brændsler omfattet af bilag 1, nr. 19, og andre brændsler, opgøres den afgiftspligtige mængde som den producerede mængde energi divideret med 0,85 og fratrukket energiindholdet i de andre brændsler. Energiindholdet i de andre brændsler opgøres på grundlag af standardværdierne i stk. 2.
+§ 7 a. For virksomheder, hvor afgiften i henhold til § 1, stk. 4, skal opgøres efter den forbrugte mængde varer, opgøres den afgiftspligtige mængde for varer omfattet af bilag 1, nr. 19, hvor der anvendes satsen pr. GJ, på grundlag af den producerede mængde energi divideret med 0,85. For anlæg, hvor der fyres med en kombination af brændsler omfattet af bilag 1, nr. 19, og andre brændsler, opgøres den afgiftspligtige mængde som den producerede mængde energi divideret med 0,85 og fratrukket energiindholdet i de andre brændsler. Energiindholdet i de andre brændsler opgøres på grundlag af standardværdierne i stk. 3.
 
-Stk. 2. Energiindholdet udgør for følgende brændsler:
+Stk. 2. Virksomheder, som opgør den afgiftspligtige mængde varer omfattet af bilag 1, nr. 20, efter § 1, stk. 4, kan anvende opgørelsesmetoden i stk. 1.
+
+Stk. 3. Energiindholdet udgør for følgende brændsler:
 
 Spildolie 40,4 MJ/kg.
 
