@@ -1,3 +1,5 @@
 Bekendtgørelse af lov om plantenyheder
 
-Herved bekendtgøres lov om plantenyheder, jf. lovbekendtgørelse nr. 145 af 1. marts 2001, med de ændringer, der følger af § 6 i lov nr. 967 af 4. december 2002, § 7 i lov nr. 1430 af 21. december 2005 og § 59 i lov nr. 1336 af 19. december 2008.
+Herved bekendtgøres lov om plantenyheder, jf. lovbekendtgørelse nr. 190 af 12. marts 2009, med den ændring, der følger af § 89 i lov nr. 1715 af 27. december 2016.
+
+Den bekendtgjorte lovtekst vedrørende § 23 a træder i kraft den 1. februar 2017, jf. § 24, stk. 1, i lov nr. 1715 af 27. december 2016 om Miljø- og Fødevareklagenævnet.
