@@ -1,17 +1,15 @@
-Lov nr. 967 af 4. december 2002 om ændring af lov om administration af Det Europæiske Fællesskabs forordninger om markedsordninger for landbrugsvarer m.v. med flere love indeholder følgende ikrafttrædelsesbestemmelse:
+Lov nr. 1715 af 27. december 2016 om Miljø- og Fødevareklagenævnet indeholder følgende ikrafttrædelses- og overgangsbestemmelse:
 
-§ 8
+§ 24. Loven træder i kraft den 1. februar 2017.
 
-Loven træder i kraft den 1. januar 2003.
+Stk. 2. (Udelades)
 
-Lov nr. 46 af 28. januar 2009 om ændring af lov om indkøbsforeninger for mindre jordbrugere indeholder følgende ikrafttrædelsesbestemmelse:
+Stk. 3. Erhvervsministeren kan efter høring af miljø- og fødevareministeren fastsætte overgangsregler.
 
-§ 2
+Stk. 4. (Udelades)
 
-Stk. 1. Ministeren for fødevarer, landbrug og fiskeri fastsætter tidspunktet for lovens ikrafttræden.
+Stk. 5. Regler, der er fastsat i henhold til hidtil gældende regler, forbliver i kraft, indtil de ophæves eller afløses af regler fastsat med hjemmel i denne lov. Overtrædelse af reglerne straffes efter de hidtil gældende regler.
 
-Stk. 2. § 2 i lov om indkøbsforeninger for mindre jordbrugere, jf. lovbekendtgørelse nr. 566 af 3. august 1990, som ændret ved § 5 i lov nr. 967 af 4. december 2002, finder fortsat anvendelse for indkøbsforeninger for mindre jordbrugere, så længe foreningerne fortsætter som sådanne foreninger. Foreningerne kan dog ikke foretage indkøb af husdyr til medlemmerne.
+Stk. 6. Verserende klagesager i Natur- og Miljøklagenævnet eller Klagecenter for Fødevarer, Landbrug og Fiskeri, der ikke er færdigbehandlet ved denne lovs ikrafttræden, færdigbehandles og afgøres af Miljø- og Fødevareklagenævnet efter reglerne i denne lov. Dette gælder dog ikke verserende klagesager ved Natur- og Miljøklagenævnet, som ved lovens ikrafttræden skal færdigbehandles og afgøres af Planklagenævnet, jf. § 1 i lov om Planklagenævnet.
 
-Stk. 3. §§ 4, 6 og 8 i lov om indkøbsforeninger for mindre jordbrugere, jf. lovbekendtgørelse nr. 566 af 3. august 1990, som ændret ved § 5 i lov nr. 967 af 4. december 2002, finder fortsat anvendelse for indkøbsforeninger for mindre jordbrugere og for indkøbsforeninger for mindre virksomheder i landdistrikterne, så længe foreningerne har statslån.
-
-Stk. 4. Regler, der er fastsat i medfør af lov om indkøbsforeninger for mindre jordbrugere, jf. lovbekendtgørelse nr. 566 af 3. august 1990, som ændret ved § 5 i lov nr. 967 af 4. december 2002, forbliver i kraft, indtil de afløses af regler fastsat i medfør af denne eller andre love.
+Stk. 7. (Udelades)
