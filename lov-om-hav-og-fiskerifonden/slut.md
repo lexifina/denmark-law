@@ -1,7 +1,5 @@
-Givet på Christiansborg Slot, den 16. december 2014
+NaturErhvervstyrelsen, den 4. januar 2017
 
-Under Vor Kongelige Hånd og Segl
+Jette Petersen
 
-MARGRETHE R.
-
-/ Dan Jørgensen
+/ Dorthe Nielsen
