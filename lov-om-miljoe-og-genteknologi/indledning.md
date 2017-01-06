@@ -1,3 +1,5 @@
 Bekendtgørelse af lov om miljø og genteknologi
 
-Hermed bekendtgøres lov om miljø og genteknologi, jf. lovbekendtgørelse nr. 869 af 26. juni 2010, med de ændringer, der følger af § 20 i lov nr. 484 af 11. maj 2010, § 6 i lov nr. 1273 af 21. december 2011, § 9 i lov nr. 580 af 18. juni 2012 og § 8 i lov nr. 86 af 28. januar 2014.
+Hermed bekendtgøres lov om miljø og genteknologi, jf. lovbekendtgørelse nr. 840 af 3. juli 2015, med de ændringer, der følger af § 2 i lov nr. 646 af 8. juni 2016 og § 42 i lov nr. 1715 af 27. december 2016.
+
+Den bekendtgjorte lovtekst vedrørende § 30, stk. 5, § 31, stk. 3-4 og 6-7, §§ 32 og 34 træder i kraft den 1. februar 2017, jf. § 24, stk. 1, i lov nr. 1715 af 27. december 2016 om Miljø- og Fødevareklagenævnet.
