@@ -1,1 +1,9 @@
 1) Loven indeholder bestemmelser, der gennemfører Det Europæiske Fællesskabs direktiv 92/65/EØF af 13. juli 1992 om dyresundhedsmæssige betingelser for samhandel med og indførsel til Fællesskabet af dyr samt sæd, æg og embryoner, der, for så vidt angår disse betingelser, ikke er underlagt specifikke fællesskabsbetingelser som omhandlet i bilag A, del I, til direktiv 90/425/EØF (EF-Tidende 1992 nr. L 268, s. 54) som senest ændret ved Rådets direktiv nr. 68 af 20. maj 2004 (EU-Tidende 2004 nr. L 139, s. 320) og Rådets direktiv 92/118/EØF af 17. december 1992 om dyresundhedsmæssige og sundhedsmæssige betingelser for samhandel med og indførsel til Fællesskabet af produkter, der, for så vidt angår disse betingelser, ikke er underlagt specifikke fællesskabsbestemmelser som omhandlet i bilag A, kapitel I, i direktiv 89/662/EØF, og for så vidt angår patogener, i direktiv 90/425/EØF (EF-Tidende 1993 nr. L 62, s. 49) som senest ændret ved Kommissionens forordning nr. 445 af 10. marts 2004 (EU-Tidende 2004 nr. L 72, s. 60).
+
+2) Denne lovbekendtgørelse gengiver alene ikrafttrædelses- og overgangsbestemmelsen i lov nr. 1715 af 27. december 2016. De bemærkninger om ikrafttrædelsesbestemmelser for de tidligere vedtagne ændringer af loven, der fremgår af lovbekendtgørelse nr. 197 af 12. marts 2009, er ikke gengivet i denne lovbekendtgørelse.
+
+3) Ved kongelig resolution af 28. juni 2015 blev Miljøministeriet og Ministeriet for Fødevarer, Landbrug og Fiskeri sammenlagt til et Miljø- og Fødevareministerium, jf. bekendtgørelse nr. 1229 af 3. november 2015 om ændring i forretningernes fordeling mellem ministrene.
+
+4) Lovændringen vedrører indsættelse af § 17 a.
+
+5) Ved kongelig resolution af 28. november 2016 er betegnelsen Erhvervs- og Vækstministeriet ændret til Erhvervsministeriet, jf. bekendtgørelse nr. 1777 af 23. december 2016.
