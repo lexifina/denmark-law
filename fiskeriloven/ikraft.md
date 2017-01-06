@@ -1,15 +1,15 @@
-Lov nr. 1336 af 19. december 2008 om ændring af kildeskatteloven, opkrævningsloven, udpantningsloven og forskellige andre love, § 47. Ændringsloven trådte i kraft den 1. januar 2009. Ændringsloven ophævede fiskerilovens § 116 (adgang til lønindeholdelse).
+Lov nr. 1715 af 27. december 2016 om Miljø- og Fødevareklagenævnet indeholder følgende ikrafttrædelses- og overgangsbestemmelse:
 
-Lov nr. 1513 af 27. december 2009 om ændring af lov om administration af Det Europæiske Fællesskabs forordninger om markedsordninger for landbrugsvarer m.v. og lov om fiskeri og fiskeopdræt (fiskeriloven), § 2. Ændringsloven trådte i kraft den 1. januar 2010. Ændringsloven indsatte to nye stk. i fiskerilovens § 105 (offentliggørelse af budgetter og regnskaber m.v. for fonde samt evaluering).
+§ 24. Loven træder i kraft den 1. februar 2017.
 
-Lov nr. 718 af 25. juni 2010 om ændring af konkursloven og forskellige andre love, § 53. Ændringsloven trådte i kraft 1. april 2011. Ændringsloven ændrede fiskerilovens § 89 (om konkurslovens regler om rekonstruktion).
+Stk. 2. (Udelades)
 
-Lov nr. 604 af 14. juni 2011 om ændring af lov om fødevarer, fiskeriloven og lov om næringsbrev til visse fødevarevirksomheder, § 2. Ændringsloven trådte i kraft 1. juli 2011. Ændringsloven indførte betegnelsen "Den Europæiske Union" overalt i fiskeriloven. Derudover vedrørte ændringsloven fiskerilovens §§ 112 c, 112 d, 114 a og 115 (om digitalkommunikation, gebyr for IUU-kontrol og gebyr for erindringsskrivelser).
+Stk. 3. Erhvervsministeren kan efter høring af miljø- og fødevareministeren fastsætte overgangsregler.
 
-Lov nr. 388 af 2. maj 2012 om ændring af fiskeriloven. Ændringsloven trådte i kraft den 1. juni 2012 (om kvote for laksefiskeri, EU-pointsystem, straffemyndighed for visse eksterritoriale overtrædelser m.v.).
+Stk. 4. (Udelades)
 
-Lov nr. 446 af 23. maj 2012 om ændring af lov om miljøbeskyttelse, lov om miljøgodkendelse m.v. af husdyrbrug, lov om forurenet jord og forskellige andre love, § 6. Ændringslovens § 6 trådte i kraft 1. juli 2012. Ændringsloven ophævede fiskerilovens § 47 (afgiftning af ferskvandsdambrug) samt ændrede § 49 og § 130.
+Stk. 5. Regler, der er fastsat i henhold til hidtil gældende regler, forbliver i kraft, indtil de ophæves eller afløses af regler fastsat med hjemmel i denne lov. Overtrædelse af reglerne straffes efter de hidtil gældende regler.
 
-Lov nr. 1148 af 11. december 2012 om ændring af fiskeriloven. Ændringsloven trådte i kraft den 15. december 2012 (fiskerilicens til visse uddannelsesinstitutioner).
+Stk. 6. Verserende klagesager i Natur- og Miljøklagenævnet eller Klagecenter for Fødevarer, Landbrug og Fiskeri, der ikke er færdigbehandlet ved denne lovs ikrafttræden, færdigbehandles og afgøres af Miljø- og Fødevareklagenævnet efter reglerne i denne lov. Dette gælder dog ikke verserende klagesager ved Natur- og Miljøklagenævnet, som ved lovens ikrafttræden skal færdigbehandles og afgøres af Planklagenævnet, jf. § 1 i lov om Planklagenævnet.
 
-Lov nr. 310 af 29. marts 2014 om ændring af lov om forskningsrådgivning m.v. og forskellige andre love og om ophævelse af lov om Højteknologifonden, § 9. Ændringsloven trådte i kraft den 1. april 2014. Ændringsloven ajourførte navnet på Det Frie Forskningsråd.
+Stk. 7. (Udelades)
