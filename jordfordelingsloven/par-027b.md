@@ -1,0 +1,1 @@
+§ 27 b. Udbetaling Danmarks afgørelser vedrørende den udestående fordringsmasse i henhold til regler fastsat i medfør af § 22, stk. 2, eller i henhold til reglerne nævnt i § 22, stk. 3, kan ikke indbringes for anden administrativ myndighed.
