@@ -27,3 +27,7 @@
 13) Lovændringen vedrører ændring af § 45, stk. 5, ændring af takster anført i § 45, stk. 6, 1. pkt., ophævelse af § 45, stk. 7, hvorefter stk. 8-12, bliver stk. 7-11. Overskriften til kapitel 13 ændres, og der indsættes et kapitel 13 a, der omfatter § 56 b og den nye § 56 c.
 
 14) § 1, nr. 2 i lov nr. 1882 af 29. december 2015 vedrører ændringen af § 45, stk. 5.
+
+15) Lovændringen vedrører indsættele af § 58 a.
+
+16) Ved kongelig resoulution af 28. november 2016 er betegnelsen Erhvervs- og Vækstministeriet ændret til Erhvervsministeriet, jf. bekendtgørelse nr. 1777 af 23. december 2016.
