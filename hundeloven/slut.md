@@ -1,5 +1,5 @@
-Ministeriet for Fødevarer, Landbrug og Fiskeri, den 21. januar 2015
+Fødevarestyrelsen, den 11. januar 2017
 
-Dan Jørgensen
+Esben Egede Rasmussen
 
-/ Birthe Schubart
+/ Birthe Schubart Haabegaard

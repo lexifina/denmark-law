@@ -1,4 +1,4 @@
-§ 1 b. Hunde, der holdes eller indføres i strid med § 1 a, aflives ved politiets foranstaltning
+§ 1 b. Hunde, der holdes eller indføres i strid med § 1 a, aflives ved politiets foranstaltning.
 
 Stk. 2. Er der tvivl om, hvorvidt en hund tilhører en af de racer eller krydsninger heraf, som er omfattet af § 1 a, kan politiet stille krav om, at besidderen dokumenterer hundens race eller type.
 
