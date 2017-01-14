@@ -1,4 +1,4 @@
-1) Ved kongelig resolution af 14. december 2011 blev ressortansvaret for sager vedrørende dyreværn, dyrevelfærd for produktionsdyr, kæle- og hobbydyr samt eksotiske dyr, slagtning og aflivning af dyr, transport af dyr og avl af dyr m.v. overført fra justitsministeren til ministeren for fødevarer, landbrug og fiskeri. Overalt i lovbekendtgørelsen er »Justitsministeren« ændret til: »Ministeren for fødevarer, landbrug og fiskeri«.
+1) Ved kongelig resolution af 14. december 2011 blev ressortansvaret for sager vedrørende dyreværn, dyrevelfærd for produktionsdyr, kæle- og hobbydyr samt eksotiske dyr, slagtning og aflivning af dyr, transport af dyr og avl af dyr m.v. overført fra justitsministeren til ministeren for fødevarer, landbrug og fiskeri, nu miljø- og fødevareministeren.
 
 2) Lovændringen vedrører ændring af § 1, § 6 og § 12.
 
@@ -16,6 +16,10 @@ Lovændringen indeholder endvidere i § 2 følgende bestemmelse: I lov nr. 717 a
 
 1. I § 3 indsættes efter stk. 5 som nyt stykke:
 
-»Stk. 6. Ved gentagne overtrædelser af stk. 4, 3. pkt., kan politidirektøren træffe afgørelse om at lade hunden aflive. Politidirektøren afholder omkostningerne ved at lade en hund aflive, men kan kræve beløbet refunderet af besidderen«.
+» Stk. 6. Ved gentagne overtrædelser af stk. 4, 3. pkt., kan politidirektøren træffe afgørelse om at lade hunden aflive. Politidirektøren afholder omkostningerne ved at lade en hund aflive, men kan kræve beløbet refunderet af besidderen«.
 
 Stk. 6 bliver herefter stk. 7.
+
+8) Lovændringen vedrører § 4 a.
+
+9) Ved kongelig resolution af 28. november 2016 er betegnelsen Erhvervs- og Vækstministeriet ændret til Erhvervsministeriet, jf. bekendtgørelse nr. 1777 af 23. december 2016.
