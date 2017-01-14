@@ -1,3 +1,5 @@
 Bekendtgørelse af lov om sikring af dyrepatogener
 
-Herved bekendtgøres lov nr. 465 af 12. juni 2009 om sikring af dyrepatogener med de ændringer, der følger af § 1 i lov nr. 1459 af 17. december 2013.
+Herved bekendtgøres om sikring af dyrepatogener, jf. lovbekendtgørelse nr. 475 af 15. maj 2014, med den ændring, der følger af § 71 i lov nr. 1715 af 27. december 2016.
+
+Den bekendtgjorte lovtekst vedrørende § 4 a træder i kraft den 1. februar 2017, jf. § 24, stk. 1, i lov nr. 1715 af 27. december 2016 om Miljø- og Fødevareklagenævnet.
