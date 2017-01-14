@@ -1,5 +1,5 @@
-Miljø- og Fødevareministeriet, den 12. september 2015
+Fødevarestyrelsen, den 11. januar 2017
 
-Eva Kjer Hansen
+Esben Egede Rasmussen
 
 / Birthe Schubart Haabegaard
