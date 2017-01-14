@@ -1,29 +1,35 @@
-1) Bekendtgjort i Lovtidende den 2. juni 2006. Lovændringen vedrører ændring af § 62.
+1) Bestemmelsen er indsat ved lov nr. 1715 af 27. december 2016. Bestemmelsen er ved en fejl indsat som § 66 a i lovens kapitel 13, selvom den gældende lovs kapitel 13 a allerede indeholdt en § 66 a. Fejlen vil blive rettet i loven ved førstkommende lejlighed.
 
-2) Lovændringen vedrører tilføjelse af § 55, stk. 4.
+2) Bekendtgjort i Lovtidende den 2. juni 2006. Lovændringen vedrører ændring af § 62.
 
-3) Lovændringen vedrører ændring af § 70, stk. 1, nr. 2, § 70, stk. 1, nr. 3 og § 70, stk. 2 ændret, og tilføjelse af § 70, stk. 4, hvorefter stk. 4 blev stk. 5.
+3) Lovændringen vedrører tilføjelse af § 55, stk. 4.
 
-4) Lovændringen vedrører ophævelse af § 55, stk. 2-4, ophævet.
+4) Lovændringen vedrører ændring af § 70, stk. 1, nr. 2, § 70, stk. 1, nr. 3 og § 70, stk. 2 ændret, og tilføjelse af § 70, stk. 4, hvorefter stk. 4 blev stk. 5.
 
-5) Lovændringen vedrører tilføjelse af § 6, stk. 3 og 4.
+5) Lovændringen vedrører ophævelse af § 55, stk. 2-4, ophævet.
 
-6) Lovændringen vedrører tilføjelse af § 34 a.
+6) Lovændringen vedrører tilføjelse af § 6, stk. 3 og 4.
 
-7) Lovændringen vedrører ændring af overskriften til kapitel 10, § 48, § 52, § 53, stk. 1, § 56, stk. 1 og § 70, stk. 1, nr. 3, og tilføjelse af § 56, stk. 5, 2. pkt., § 65 a, § 70 a og § 71, stk. 1, 2. pkt..
+7) Lovændringen vedrører tilføjelse af § 34 a.
 
-8) Lovændringen vedrører tilføjelse af § 3 a, § 53, stk. 4 og § 61 a, og ændring af overskriften til kapitel 12.
+8) Lovændringen vedrører ændring af overskriften til kapitel 10, § 48, § 52, § 53, stk. 1, § 56, stk. 1 og § 70, stk. 1, nr. 3, og tilføjelse af § 56, stk. 5, 2. pkt., § 65 a, § 70 a og § 71, stk. 1, 2. pkt..
 
-9) Lovændringen vedrører ændring af § 6, stk. 3 og 4, og tilføjelse af § 6, stk. 5-7.
+9) Lovændringen vedrører tilføjelse af § 3 a, § 53, stk. 4 og § 61 a, og ændring af overskriften til kapitel 12.
 
-10) Lovændringen vedrører tilføjelse af § 34 a, stk. 1, 2. pkt., § 34 b og § 34 c.
+10) Lovændringen vedrører ændring af § 6, stk. 3 og 4, og tilføjelse af § 6, stk. 5-7.
 
-11) Lovændringen vedrører tilføjelse af § 4, stk. 2 og 3, § 30 a, § 36 a, § 36 b og § 70, stk. 4, og ændring af § 62 og § 70, stk. 1, nr. 3 og overskriften til kapitel 6. Overalt i loven er »Det Europæiske Fællesskab« ændret til: »Den Europæiske Union«, og »Det Europæiske Fællesskabs« er ændret til: »Den Europæiske Unions«.
+11) Lovændringen vedrører tilføjelse af § 34 a, stk. 1, 2. pkt., § 34 b og § 34 c.
 
-12) Lovændringen vedrører ændring af § 57.
+12) Lovændringen vedrører tilføjelse af § 4, stk. 2 og 3, § 30 a, § 36 a, § 36 b og § 70, stk. 4, og ændring af § 62 og § 70, stk. 1, nr. 3 og overskriften til kapitel 6. Overalt i loven er »Det Europæiske Fællesskab« ændret til: »Den Europæiske Union«, og »Det Europæiske Fællesskabs« er ændret til: »Den Europæiske Unions«.
 
-13) Lovændringen vedrører tilføjelse af § 3 a, stk. 3, § 4 a og § 37, stk. 2-5, og ændring af § 55 og § 61 a.
+13) Lovændringen vedrører ændring af § 57.
 
-14) Lovændringen vedrører ophævelse af § 6, stk. 3-7, og § 37, stk. 2-5, ændring af § 66, stk. 1, og indsættelse af kapitel 13 a.
+14) Lovændringen vedrører tilføjelse af § 3 a, stk. 3, § 4 a og § 37, stk. 2-5, og ændring af § 55 og § 61 a.
 
-15) Lovændringen vedrører ændring af § 4, stk. 1 og § 66, stk. 3 og 4, og indsættelse af kapitel 6 a.
+15) Lovændringen vedrører ophævelse af § 6, stk. 3-7, og § 37, stk. 2-5, ændring af § 66, stk. 1, og indsættelse af kapitel 13 a.
+
+16) Lovændringen vedrører ændring af § 4, stk. 1 og § 66, stk. 3 og 4, og indsættelse af kapitel 6 a.
+
+17) Lovændringen vedrører indsættelse af bestemmelse om påklage til Miljø- og Fødevareklagenævnet. Bestemmelsen er som en fejl indsat som § 66 a, uagtet at der allerede var en § 66 a i den gældende lov. Se note 1.
+
+18) Ved kongelig resolution af 28. november 2016 er betegnelsen Erhvervs- og Vækstministeriet ændret til Erhvervsministeriet, jf. bekendtgørelse nr. 1777 af 23. december 2016.

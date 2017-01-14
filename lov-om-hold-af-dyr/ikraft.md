@@ -62,7 +62,7 @@ Stk. 1. Loven træder i kraft den 1. maj 2011, jf. dog stk. 2.
 
 Stk. 2. Miljøministeren fastsætter tidspunktet for ikrafttræden af § 15, nr. 1.
 
-Lov nr. 603 af 14. juni 2011(Ekstra sundhedsrådgivningsbesøg i problembesætninger, påbud om supplerende veterinærfaglig vurdering, reduktion af maksimal belægningsgrad i svinebesætninger med højt antibiotikaforbrug m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
+Lov nr. 603 af 14. juni 2011 (Ekstra sundhedsrådgivningsbesøg i problembesætninger, påbud om supplerende veterinærfaglig vurdering, reduktion af maksimal belægningsgrad i svinebesætninger med højt antibiotikaforbrug m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
 
 § 2
 
@@ -99,3 +99,19 @@ Lov nr. 1615 af 26. december 2013 (Bemyndigelse til etablering af Veterinærfond
 § 2
 
 Loven træder i kraft den 1. januar 2014.
+
+Lov nr. 1715 af 27. december 2016 om Miljø- og Fødevareklagenævnet indeholder følgende ikrafttrædelses- og overgangsbestemmelser:
+
+§ 24. Loven træder i kraft den 1. februar 2017.
+
+Stk. 2. (Udelades)
+
+Stk. 3. Erhvervsministeren kan efter høring af miljø- og fødevareministeren fastsætte overgangsregler.
+
+Stk. 4. (Udelades)
+
+Stk. 5. Regler, der er fastsat i henhold til hidtil gældende regler, forbliver i kraft, indtil de ophæves eller afløses af regler fastsat med hjemmel i denne lov. Overtrædelse af reglerne straffes efter de hidtil gældende regler.
+
+Stk. 6. Verserende klagesager i Natur- og Miljøklagenævnet eller Klagecenter for Fødevarer, Landbrug og Fiskeri, der ikke er færdigbehandlet ved denne lovs krafttræden, færdigbehandles og afgøres af Miljø- og Fødevareklagenævnet efter reglerne i denne lov. Dette gælder dog ikke verserende klagesager ved Natur- og Miljøklagenævnet, som ved lovens ikrafttræden skal færdigbehandles og afgøres af Planklagenævnet, jf. § 1 i lov om Planklagenævnet.
+
+Stk. 7. (Udelades)
