@@ -23,3 +23,7 @@
 12) Lovændringen vedrører tilføjelse af 3. pkt. i § 36 stk. 1 og indsættelse af §§ 37 a - 37 c.
 
 13) Lovændringen vedrører § 28, stk. 1, og § 29, stk. 1.
+
+14) Lovændringen vedører indsættelse af § 36 a.
+
+15) Ved kongelig resolution af 28. november 2016 er betegnelsen Erhvervs- og Vækstministeriet ændret til Erhvervsministeriet, jf. bekendtgørelse nr. 1777 af 23. december 2016.
