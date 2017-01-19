@@ -1,12 +1,12 @@
-Skatteministeriet, den 11. juni 2007
+Skatteministeriet, den 17. januar 2017
 
-P.M.V. Peter Loft
+P.M.V. Jens Brøchner
 
-/Lene Skov Henningsen
+/ Lene Skov Henningsen
 
 Bilag 1
 
-## Varer, hvor der ikke kan opnås godtgørelse ved anvendelse af afgiftspligtige stoffer efter § 3 a:
+Varer, hvor der ikke kan opnås godtgørelse ved anvendelse af afgiftspligtige stoffer efter § 3 a:
 
 1) Husholdningskøleskabe og -frysere
 
