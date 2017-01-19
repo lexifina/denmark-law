@@ -1,1 +1,1 @@
-§ 16 b. (Ophævet).
+§ 16 b. (Ophævet)
