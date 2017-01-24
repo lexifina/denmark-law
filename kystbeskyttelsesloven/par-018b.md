@@ -1,0 +1,1 @@
+§ 18 b. Søgsmål til prøvelse af afgørelser efter loven eller de regler, der er fastsat i medfør af loven, skal være anlagt, inden 6 måneder efter at afgørelsen er meddelt den pågældende. Er afgørelsen offentligt bekendtgjort, regnes fristen dog altid fra bekendtgørelsen.
