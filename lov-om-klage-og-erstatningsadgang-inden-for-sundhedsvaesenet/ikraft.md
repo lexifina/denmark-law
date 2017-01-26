@@ -1,57 +1,143 @@
-Lov nr. 538 af 8. juni 2006 indeholder følgende ikrafttrædelsesbestemmelser for så vidt angår § 77, der ændrer lov om klage- og erstatningsadgang inden for sundhedsvæsenet.
-
-§ 105
-
-Stk. 1. Loven træder i kraft den 1. januar 2007, jf. dog stk. 2-22 og § 106.
-
-Stk. 2. Reglerne om retternes saglige og stedlige kompetence og om rettens sammensætning som affattet ved denne lovs § 1, nr. 3, 55, 77, 79, 113, 115, 122 og 123, og §§ 4 – 6, 8, 29, 32 – 40, 46, 47, 75 – 77, 83, 84, 87 – 96, 98 og 102 finder anvendelse i borgerlige straffesager, der anlægges efter lovens ikrafttræden, eller som der henvises til behandling ved byretten i medfør af stk. 8, og i straffesager, hvor der ved lovens ikrafttræden ikke er rejst tiltale i 1. instans, jf. dog stk. 6, 2. pkt.
-
-Stk. 3-8. (udeladt)
-
-Lov nr. 432 af 8. maj 2007 indeholder følgende ikrafttrædelsesbestemmelser.
+Lov nr. 1257 af 18. december 2012 (Private sygehuse, klinikker og speciallægepraksissers medfinansiering af patientskadeerstatningsordningen, vederlag og befordringsgodtgørelse til Forbrugerrådets og Danske Patienters repræsentanter i tandlægenævnene m.v.) indeholder følgende ikrafttrædelsesbestemmelser:
 
 § 2
 
-Stk. 1. Loven træder i kraft dagen efter bekendtgørelse i Lovtidende.
+Stk. 1. Loven træder i kraft den 1. juli 2013, jf. dog stk. 2.
 
-Stk. 2. Lov om klage- og erstatningsadgang inden for sundhedsvæsenet finder anvendelse på skader, som er omfattet af lovens § 19, stk. 1, nr. 8, som affattet ved denne lovs § 1, nr. 3, eller som er påført i forbindelse med behandling foretaget af Sundhedsstyrelsen i henhold til § 5 d i lov om sygehusvæsenets centralstyrelse eller regler udstedt i medfør heraf, selvom skaden er forårsaget inden denne lovs ikrafttræden.
+Stk. 2. Lovens § 1, nr. 1, og § 3 træder i kraft den 1. januar 2013.
 
-Stk. 3. § 59, stk. 1, i lov om klage- og erstatningsadgang inden for sundhedsvæsenet og de almindelige regler om forældelse af fordringer finder ikke anvendelse på skader omfattet af stk. 2, hvis skaden er anmeldt til Patientforsikringen inden 1 år efter lovens ikrafttræden.
+Stk. 3. Loven finder anvendelse for skader, der forårsages efter lovens ikrafttræden.
 
-Lov nr. 523 af 6. juni 2007 indeholder følgende ikrafttrædelsesbestemmelser for så vidt angår § 24, der ændrer lov om klage- og erstatningsadgang inden for sundhedsvæsenet.
+§ 3
 
-§ 47
+Sundhedsministeren kan for perioden fra den 1. januar 2011 til den 1. januar 2013 fastsætte regler om vederlag og befordringsgodtgørelse til visse medlemmer af de regionale tandlægenævn og Landstandlægenævnet, der ikke udfører hvervet som led i deres tjenstlige arbejde, og om afholdelse af udgifter til vederlaget og befordringsgodtgørelsen.
 
-Loven træder i kraft den 1. januar 2008.
+Lov nr. 1401 af 23. december 2012 (Ret til hurtig udredning i sygehusvæsenet og differentieret ret til udvidet frit sygehusvalg m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
 
-§ 48
+§ 3
 
-Stk. 1. Loven finder anvendelse også på tidligere stiftede fordringer, som ikke inden ikrafttrædelsesdagen er forældet efter de hidtil gældende regler. Forældelse indtræder dog tidligst den 1. januar 2011, medmindre fordringen inden dette tidspunkt ville være forældet såvel efter de hidtil gældende bestemmelser som efter de bestemmelser, der gælder efter lovens ikrafttræden, jf. dog stk. 7. I det sidstnævnte tilfælde anvendes det seneste tidspunkt for forældelsens indtræden.
+Stk. 1. Loven træder i kraft den 1. januar 2013, jf. dog stk. 2.
 
-Stk. 2. Afbrydelse af forældelse, der har fundet sted før lovens ikrafttræden, har fortsat virkning som afbrydelse, selv om den ikke er sket på den efter lovens ikrafttræden foreskrevne måde.
+Stk. 2-4. (Udelades)
 
-Stk. 3-8. (udeladt)
+Lov nr. 904 af 4. juli 2013 (Ændring af rammerne for almen medicinske ydelser m.v. i praksissektoren, herunder styrkelse af regionernes planlægnings- og styringsmuligheder, ensartet kvalitet, systematisk patientinddragelse, erstatningspligt m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
 
-Lov nr. 706 af 25. juni 2010 indeholder følgende ikrafttrædelsesbestemmelser.
+§ 4
+
+Stk. 1. Loven træder i kraft den 1. september 2013, jf. dog stk. 2 og 3.
+
+Stk. 2. (Udelades)
+
+Stk. 3. § 2, nr. 6 og 7, og § 3 træder i kraft den 15. juli 2013.
+
+Stk. 4-6. (Udelades)
+
+Lov nr. 1638 af 26. december 2013 (Gennemførelse af dele af direktiv 2011/24/EU om patientrettigheder i forbindelse med grænseoverskridende sundhedsydelser m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 4
+
+Stk. 1. Loven træder i kraft den 1. januar 2014, jf. dog stk. 2.
+
+Stk. 2-5. (Udelades)
+
+Lov nr. 519 af 26. maj 2014 (Ændring af regler om patienters retsstilling, nedlæggelse af Lægemiddelskadeankenævnet, oplysningspligt ved erstatningsudbetalinger i patientskadesager, afbrydelse af forældelse i sager om patient- og lægemiddelskadeserstatninger, offentliggørelse af Sundhedsstyrelsens tilsynsrapporter ved tilbagevendende tilsyn m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 4
+
+Stk. 1. Loven træder i kraft den 1. juli 2014, jf. dog stk. 2.
+
+Stk. 2. § 2, nr. 2 og 3, træder i kraft den 1. juli 2015, og § 2, nr. 1 og 4-9, træder i kraft den 1. januar 2015.
+
+Stk. 3. (Udelades)
+
+Stk. 4. § 2, nr. 2 og 3, finder ikke anvendelse på afgørelser om erstatningsudbetalinger truffet før den 1. juli 2015. For sådanne afgørelser finder de hidtil gældende regler anvendelse.
+
+Stk. 5. § 2, nr. 1 og 4-9, finder anvendelse for sager, som er modtaget af Patientskadeankenævnet og Lægemiddelskadeankenævnet senest den 1. januar 2015, eller som Ankenævnet for Patientforsikringen modtager efter den 1. januar 2015.
+
+Stk. 6. § 2, nr. 10, finder tillige anvendelse for erstatningskrav, der er eller ville have været afvist på grund af forældelse efter de hidtil gældende regler, således at spørgsmål om forældelse skal afgøres efter de regler, der gælder efter denne lovs ikrafttræden.
+
+Stk. 7. For erstatningskrav omfattet af stk. 6, hvor forældelse efter de hidtil gældende regler er indtrådt før den 1. juli 2014, indtræder forældelse tidligst den 1. juli 2015, hvis forældelse af kravet efter de regler, der gælder efter denne lovs ikrafttræden, ikke er indtrådt den 1. juli 2014.
+
+Stk. 8. § 2, nr. 10, finder tilsvarende anvendelse for bindende afgørelser truffet i medfør af den ophævede lov om erstatning for lægemiddelskader, jf. lov nr. 1120 af 20. december 1995, således at spørgsmål om forældelse herefter skal afgøres efter de regler, der gælder efter denne lovs ikrafttræden.
+
+Stk. 9. § 2, nr. 10, finder tilsvarende anvendelse for bindende afgørelser truffet i medfør af den ophævede lov om patientforsikring, jf. lovbekendtgørelse nr. 228 af 24. marts 1997, således at spørgsmål om forældelse herefter skal afgøres efter de regler, der gælder efter denne lovs ikrafttræden, dog således at den i lov om klage- og erstatningsadgang inden for sundhedsvæsenets § 60 b nævnte frist på 3 år i disse sager er 5 år.
+
+Stk. 10. (Udelades)
+
+Lov nr. 743 af 25. juni 2014 (Ligestilling mellem psykiatriske og somatiske patienter ved ret til frit sygehusvalg, ret til hurtig udredning i sygehusvæsenet og differentieret ret til udvidet frit sygehusvalg m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 3
+
+Stk. 1. Loven træder i kraft den 1. september 2014, jf. dog stk. 2.
+
+Stk. 2-3. (Udelades)
+
+Lov nr. 523 af 29. april 2015 (Overførsel af myndighedsområder til Udbetaling Danmark og indførelse af beføjelser til, at Udbetaling Danmark kan foretage registersamkøringer på bl.a. kommunale ydelsesområder m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
 
 § 8
 
-Stk. 1. Loven træder i kraft den 1. januar 2011, jf. dog stk. 2 og 3.
+Stk. 1. Loven træder i kraft den 1. maj 2015.
 
-Stk. 2. (udeladt)
+Stk. 2-3. (Udelades)
 
-Stk. 3. (udeladt)
+Lov nr. 742 af 1. juni 2015 (Overgang til obligatorisk digital selvbetjening, for så vidt angår anmodning om sygedagpenge, afgivelse af samtykke til udstedelse af børneattest og straffeattest til offentlig brug, ansøgning og meddelelser m.v. om personligt tillæg og helbredstillæg, indgivelse af klager til Patientombuddet, Sundhedsvæsenets Disciplinærnævn og Ankenævnet for Patienterstatningen, ansøgning om udstedelse af personcertifikater på luftfartsområdet, anmodning om behandling af klager fra flypassagerer, ansøgning om chaufføruddannelsesbeviser m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
 
-Stk. 4. Klager m.v. over sundhedsfaglig virksomhed, der er indbragt for Sundhedsvæsenets Patientklagenævn før lovens ikrafttræden, færdigbehandles af Sundhedsvæsenets Disciplinærnævn, dog med undtagelse af klager over forhold omfattet af sundhedslovens kapitel 4-9 og afsnit IV, som færdigbehandles af Patientombuddet. Er embedslægeinstitutionen før lovens ikrafttræden anmodet om at undersøge en klagesag, færdiggør embedslægeinstitutionen undersøgelsen efter de hidtil gældende regler i § 14, stk. 1, i lov om klage- og erstatningsadgang inden for sundhedsvæsenet.
+§ 13
 
-Stk. 5. Klager over kommunalbestyrelsers, regionsråds og Søfartsstyrelsens afgørelser m.v., der efter §§ 6-8 i lov om klage- og erstatningsadgang inden for sundhedsvæsenet er indgivet til Sundhedsvæsenets Patientklagenævn før lovens ikrafttræden, færdigbehandles af Patientombuddet.
+Stk. 1. Loven træder i kraft den 1. december 2015.
 
-Stk. 6. De hidtil gældende regler i lov om autorisation af sundhedspersoner og om sundhedsfaglig virksomhed finder anvendelse for indstillinger til ministeren for sundhed og forebyggelse, som Sundhedsstyrelsen før denne lovs ikrafttræden har afgivet, og afgørelser, som Sundhedsstyrelsen før denne lovs ikrafttræden har truffet.
+Stk. 2. Loven finder alene anvendelse for ansøgninger, anmodninger, meddelelser og klager m.v., der indgives efter lovens ikrafttræden.
 
-Stk. 7. Klager over de psykiatriske patientklagenævns afgørelser, der er indgivet til Sundhedsvæsenets Patientklagenævn før lovens ikrafttræden, færdigbehandles af Det Psykiatriske Ankenævn.
+Lov nr. 395 af 2. maj 2016 (Overførsel af Arbejdsskadestyrelsens opgaver til den selvejende institution Arbejdsmarkedets Erhvervssikring og til Styrelsen for Arbejdsmarked og Rekruttering samt nedlæggelse af Arbejdsmarkedets Erhvervssygdomssikring) indeholder følgende ikrafttrædelses- og overgangsbestemmelser:
 
-Lov nr. 593 af 14. juni 2011 indeholder følgende ikrafttrædelsesbestemmelse for så vidt angår § 48, der ændrer lov om klage- og erstatningsadgang inden for sundhedsvæsenet.
+§ 23
 
-§ 43. Loven træder i kraft den 1. januar 2012 og finder anvendelse for sundhedsvidenskabelige forskningsprojekter, der anmeldes efter lovens ikrafttræden.
+Stk. 1. Loven træder i kraft den 1. juli 2016.
 
-Stk. 2-7. (udeladt).
+Stk. 2. Arbejdsmarkedets Erhvervssikring færdigbehandler sager på sagsområder, der efter § 2 i lov om Arbejdsmarkedets Erhvervssikring overføres til behandling i Arbejdsmarkedets Erhvervssikring, og som ikke inden lovens ikrafttræden er afsluttede af Arbejdsskadestyrelsen.
+
+Stk. 3. Arbejdsmarkedets Erhvervssikring genvurderer i forbindelse med klage afgørelser, der er truffet, men ikke genvurderet af Arbejdsskadestyrelsen inden lovens ikrafttræden, jf. § 44, stk. 7-9, i arbejdsskadesikringsloven.
+
+Stk. 4. Behandlingen af verserende sager og af sager, der genoptages, fortsætter i Arbejdsmarkedets Erhvervssikring uden fornyet samtykke.
+
+Stk. 5. Arbejdsmarkedets Erhvervssikring indtræder som sagsøgt eller sagsøger i retssager, der er anlagt mod eller af Arbejdsskadestyrelsen inden lovens ikrafttræden.
+
+Stk. 6. Arbejdsmarkedets Erhvervssygdomssikrings aktiver og forpligtelser i sager om erhvervssygdomme m.v. overføres den 1. juli 2016 til bestyrelsen for Arbejdsmarkedets Erhvervssikring.
+
+Stk. 7. Arbejdsmarkedets Erhvervssikring indtræder ved lovens ikrafttræden i Arbejdsskadestyrelsens og Arbejdsmarkedets Erhvervssygdomssikrings krav vedrørende konkrete sager. Arbejdsmarkedets Erhvervssikring indtræder tilsvarende ved lovens ikrafttræden i krav mod Arbejdsskadestyrelsen og Arbejdsmarkedets Erhvervssygdomssikring vedrørende konkrete sager.
+
+§ 24
+
+Stk. 1. (Udelades)
+
+Stk. 2. For administrationen af sager i Arbejdsmarkedets Erhvervssikring og Ankestyrelsen i 2016 gælder de takster, der er fastsat af direktøren for Arbejdsskadestyrelsen efter de hidtil gældende regler.
+
+§ 25
+
+Loven gælder ikke for Færøerne og Grønland.
+
+Lov nr. 654 af 8. juni 2016 (Udvidelse af patienterstatningsordningens dækningsområde) indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 2
+
+Stk. 1. Loven træder i kraft den 1. juli 2016.
+
+Stk. 2. § 1, nr. 3-5, finder anvendelse for erstatningskrav, der er anmeldt til Patienterstatningen eller den private institution, som sundhedsministeren henlægger sager til, senest 3 år efter at den erstatningsberettigede har fået eller burde have fået kendskab til skaden, jf. dog stk. 3.
+
+Stk. 3. Uanset stk. 2 finder § 1, nr. 3-5, alene anvendelse for skader, der er forårsaget den 1. juli 2006 eller senere.
+
+Lov nr. 655 af 8. juni 2016 (Styrket indsats for gravide med et misbrug af rusmidler) indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 4
+
+Stk. 1. Loven træder i kraft den 1. januar 2017.
+
+Stk. 2. Loven finder ikke anvendelse på kontrakter om behandling med mulighed for tilbageholdelse, jf. sundhedslovens § 141 b henholdsvis tilbageholdelseslovens § 3, der er indgået før lovens ikrafttræden. For sådanne kontrakter finder de hidtil gældende regler i tilbageholdelsesloven og sundhedslovens §§ 141 a-141 g anvendelse.
+
+Lov nr. 656 af 8. juni 2016 (Styrelsen for Patientsikkerheds fremtidige tilsyn m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 8
+
+Stk. 1. Loven træder i kraft den 1. juli 2016, jf. dog stk. 2.
+
+Stk. 2-14. (Udelades)
