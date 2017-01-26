@@ -1,5 +1,5 @@
-Ministeriet for Sundhed og Forebyggelse, den 7. november 2011
+Sundheds- og Ældreministeriet, den 17. januar 2017
 
-Astrid Krag
+Ellen Trane Nørby
 
-/ Anne Marie Karstoft Hertzum
+/ Trine Berner Hansen
