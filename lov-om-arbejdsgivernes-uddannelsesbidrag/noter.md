@@ -10,4 +10,4 @@
 
 6) Lovændringen vedrører kapitel 2 a, overskriften til kapitel 3, § 7 a, stk. 1, § 18, stk. 1, 1. pkt., og § 18, stk. 1, 2. og 3. pkt.
 
-7) Lovændringen vedrører § 13, stk. 3.
+7) Lovændringen vedrører § 3, stk. 1, kapitel 5 c, § 17 b, og § 18, stk. 1 og 2.
