@@ -1,5 +1,3 @@
-Lov om statstilskud til elintensive virksomheder
+Bekendtgørelse af lov om statstilskud til elintensive virksomheder
 
-VI MARGRETHE DEN ANDEN, af Guds Nåde Danmarks Dronning, gør vitterligt:
-
-Folketinget har vedtaget og Vi ved Vort samtykke stadfæstet følgende lov:
+Herved bekendtgøres lov nr. 574 af 4. maj 2015 om statstilskud til elintensive virksomheder med de ændringer, der følger af lov nr. 510 af 31. maj 2016.

@@ -1,0 +1,3 @@
+1) §§ 1-16, § 17, nr. 1-4, og §§ 18 og 19 i lov nr. 574 af 4. maj 2015 om statstilskud til elintensive virksomheder blev ved bekendtgørelse nr. 1046 af 7. september 2015 om ikrafttræden af visse bestemmelser i lov om statstilskud til elintensive virksomheder sat i kraft den 10. september 2015.
+
+2) Ændringerne som følge af lov nr. 510 af 31. maj 2016 om ændring af lov om statstilskud til elintensive virksomheder (§ 1, stk. 1, nr. 2, § 1, stk. 4 og § 3, stk. 4), blev ved bekendtgørelse nr. 1602 af 15. december 2016 om ikrafttræden af lov om ændring af lov om statstilskud til elintensive virksomheder sat i kraft den 18. december 2016 med virkning fra den 1. juni 2016.
