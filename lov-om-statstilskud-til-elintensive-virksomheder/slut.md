@@ -1,7 +1,5 @@
-Givet på Christiansborg Slot, den 4. maj 2015
+Energistyrelsen, den 26. januar 2017
 
-Under Vor Kongelige Hånd og Segl
+Stig Uffe Pedersen vicedirektør
 
-MARGRETHE R.
-
-/ Rasmus Helveg Petersen
+/ Henrik Andersen
