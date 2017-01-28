@@ -90,6 +90,12 @@ Stk. 2. § 2 træder i kraft den 31. december 2014.
 
 Stk. 3. § 1, nr. 1, finder anvendelse for elevers ophold på kostafdelinger, der påbegyndes den 1. januar 2015 eller senere.
 
-Lov nr. 623 af 8. juni 2016 om integrationsgrunduddannelse (igu) indeholder følgende ikrafttrædelses- og overgangsbestemmelse:
+Lov nr. 1747 af 27. december 2016 (Justering af arbejdsgiverbidrag og midlertidige bonusordninger for 2017 m.v.) indeholder følgende ikrafttrædelses- og overgangsbestemmelse:
 
-§ 15. Loven træder i kraft den 1. juli 2016.
+§ 3
+
+Stk. 1. Loven træder i kraft den 1. januar 2017.
+
+Stk. 2. Ved beregning af bonusudløsende praktikårselever efter § 15 e som affattet ved denne lovs § 1, nr. 2, indgår alene uddannelsesaftaler påbegyndt den 1. januar 2017 eller senere.
+
+Stk. 3. § 1, nr. 3, finder ikke anvendelse for uddannelsesaftaler indgået før denne lovs ikrafttræden.

@@ -1,4 +1,4 @@
-Ministeriet for Børn, Undervisning og Ligestilling, den 30. juni 2016
+Undervisningsministeriet, den 26. januar 2017
 
 P.M.V. Ole Hvilsom Larsen Kontorchef
 
