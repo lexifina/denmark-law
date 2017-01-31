@@ -1,7 +1,5 @@
-Givet på Amalienborg, den 10. februar 2015
+Miljøstyrelsen, den 26. januar 2017
 
-Under Vor Kongelige Hånd og Segl
+Claus Torp
 
-MARGRETHE R.
-
-/ Kirsten Brosbøl
+/ Peter Østergård Have
