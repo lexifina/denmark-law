@@ -1,4 +1,4 @@
-Lov nr. 447 af 31. maj 2000 (Implementering af Århuskonventionen m.v.), hvis § 1 angår § 1, stk. 2 og 3, § 2, stk. 1 og 3-5, §§ 3, 4, 4 a og 5 a, indeholder følgende ikrafttrædelses- og overgangsbestemmelse:
+Lov nr. 447 af 31. maj 2000 (Implementering af Århuskonventionen m.v.) indeholder følgende ikrafttrædelses- og overgangsbestemmelse:
 
 § 14
 
@@ -10,7 +10,7 @@ Stk. 3. § 2, stk. 3, i lov om adgang til aktindsigt i miljøoplysninger som aff
 
 Stk. 4. § 2, stk. 4, i lov om adgang til aktindsigt i miljøoplysninger som affattet ved denne lovs § 1, nr. 4, har ikke virkning for oplysninger om emissioner, som er kommet i myndighedernes besiddelse før lovens ikrafttræden.
 
-Lov nr. 215 af 31. marts 2004 (Offentlighed i retsplejen), hvis § 7 angår § 5 a, stk. 2, indeholder følgende ikrafttrædelses- og overgangsbestemmelse:
+Lov nr. 215 af 31. marts 2004 (Offentlighed i retsplejen) indeholder følgende ikrafttrædelses- og overgangsbestemmelse:
 
 § 8
 
@@ -20,13 +20,13 @@ Stk. 2. Retsplejelovens § 41 b som affattet ved denne lovs § 1, nr. 15, og ret
 
 Stk. 3. Retsplejelovens § 41 f, stk. 6, 1. og 3. pkt., som affattet ved denne lovs § 1, nr. 15, finder også anvendelse på dokumenter og udskrifter, der før lovens ikrafttræden er udleveret i medfør af den hidtil gældende bestemmelse i retsplejelovens § 41 a.
 
-Lov nr. 310 af 2. maj 2005 (Gennemførelse af direktiv om Århuskonventionen), der angår lovens titelnote, § 2, stk. 1, 3, 5 og 6, § 3, § 4, stk. 1-4, § 4 a, § 4 b, § 5, stk. 3, § 5 b og bilag 1, indeholder følgende ikrafttrædelsesbestemmelse:
+Lov nr. 310 af 2. maj 2005 (Gennemførelse af direktiv om Århuskonventionen) indeholder følgende ikrafttrædelsesbestemmelse:
 
 § 2
 
 Loven træder i kraft dagen efter bekendtgørelsen i Lovtidende.
 
-Lov nr. 571 af 9. juni 2006 (Ændring af klagenævn og klagebestemmelser i en række love på miljøområdet), hvis § 8 angår § 4, stk. 6, og §§ 4 a-4 c, indeholder følgende ikrafttrædelses- og overgangsbestemmelse:
+Lov nr. 571 af 9. juni 2006 (Ændring af klagenævn og klagebestemmelser i en række love på miljøområdet) indeholder følgende ikrafttrædelses- og overgangsbestemmelse:
 
 § 12
 
@@ -36,7 +36,7 @@ Stk. 2. (Udelades)
 
 Stk. 3. Sager, der pr. 1. januar 2007 er indbragt for Miljøklagenævnet, færdigbehandles efter de hidtil gældende regler.
 
-Lov nr. 484 af 11. maj 2010 (Ændringer som følge af lov om Natur- og Miljøklagenævnet m.v.) som ændret ved § 2 i lov nr. 1608 af 22. december 2010, hvis § 17 angår § 4 a, indeholder følgende ikrafttrædelses- og overgangsbestemmelse:
+Lov nr. 484 af 11. maj 2010 (Ændringer som følge af lov om Natur- og Miljøklagenævnet m.v.) som ændret ved § 2 i lov nr. 1608 af 22. december 2010, indeholder følgende ikrafttrædelses- og overgangsbestemmelse:
 
 § 28
 
@@ -50,7 +50,7 @@ Stk. 6. (Udelades)
 
 Stk. 7. Miljøministeren kan i øvrigt fastsætte overgangsregler.
 
-Lov nr. 580 af 18. juni 2012 (Reform af klagesystemet på natur- og miljøområdet m.v.), hvis § 25 angår §§ 4 a-4 d, indeholder følgende ikrafttrædelses- og overgangsbestemmelse:
+Lov nr. 580 af 18. juni 2012 (Reform af klagesystemet på natur- og miljøområdet m.v.) indeholder følgende ikrafttrædelses- og overgangsbestemmelse:
 
 § 28
 
@@ -62,13 +62,13 @@ Stk. 3. Loven finder anvendelse på afgørelser truffet i 1. instans efter loven
 
 Stk. 4. Verserende klagesager over afgørelser påklaget af ministeren efter § 84, stk. 1, nr. 2, i lov om miljøgodkendelse m.v. af husdyrbrug færdigbehandles af Natur- og Miljøklagenævnet.
 
-Lov nr. 639 af 12. juni 2013 (Konsekvensændringer i lyset af lov om offentlighed i forvaltningen og af ændringer i forvaltningsloven og retsplejeloven), hvis § 14 angår § 6, stk. 2, indeholder følgende ikrafttrædelsesbestemmelse:
+Lov nr. 639 af 12. juni 2013 (Konsekvensændringer i lyset af lov om offentlighed i forvaltningen og af ændringer i forvaltningsloven og retsplejeloven) indeholder følgende ikrafttrædelsesbestemmelse:
 
 § 31
 
 Loven træder i kraft den 1. januar 2014.
 
-Lov nr. 86 (Obligatorisk digital selvbetjening ved indgivelse af klage samt obligatorisk videresendelse af klage over lokalplan til Natur- og Miljøklagenævnet m.v.) af 28. januar 2014, hvis § 23 angår § 4 b, indeholder følgende ikrafttrædelses- og overgangsbestemmelse:
+Lov nr. 86 af 28. januar 2014 (Obligatorisk digital selvbetjening ved indgivelse af klage samt obligatorisk videresendelse af klage over lokalplan til Natur- og Miljøklagenævnet m.v.) indeholder følgende ikrafttrædelses- og overgangsbestemmelse:
 
 § 26
 
@@ -77,3 +77,21 @@ Stk. 1. Loven træder i kraft den 1. februar 2014, jf. dog stk. 2.
 Stk. 2. Miljøministeren fastsætter tidspunktet for ikrafttræden af §§ 1-6, § 7, nr. 2 og 3, og §§ 8-25.
 
 Stk. 3. Loven finder ikke anvendelse for klager over afgørelser, der træffes, før loven træder i kraft. For sådanne klager finder de hidtidige regler anvendelse.
+
+Lov nr. 1715 af 27. december 2016 om Miljø- og Fødevareklagenævnet indeholder følgende ikrafttrædelses- og overgangsbestemmelse:
+
+§ 24
+
+Stk. 1. Loven træder i kraft den 1. februar 2017.
+
+Stk. 2. (Udelades)
+
+Stk. 3. Erhvervs- og vækstministeriet kan efter høring af miljø- og fødevareministeren fastsætte overgangsregler.
+
+Stk. 4. Lov om Natur- og Miljøklagenævnet, jf. lovbekendtgørelse nr. 1205 af 28. september 2016, ophæves.
+
+Stk. 5. Regler, der er fastsat i henhold til hidtil gældende regler, forbliver i kraft, indtil de ophæves eller afløses af regler fastsat med hjemmel i denne lov. Overtrædelse af reglerne straffes efter de hidtil gældende regler.
+
+Stk. 6. Verserende klagesager i Natur- og Miljøklagenævnet eller Klagecenter for Fødevarer, Landbrug og Fiskeri, der ikke er færdigbehandlet ved denne lovs ikrafttræden, færdigbehandles og afgøres af Miljø- og Fødevareklagenævnet efter reglerne i denne lov. Dette gælder dog ikke verserende klagesager ved Natur- og Miljøklagenævnet, som ved lovens ikrafttræden skal færdigbehandles og afgøres af Planklagenævnet, jf. § 1 i lov om Planklagenævnet.
+
+Stk. 7. (Udelades)

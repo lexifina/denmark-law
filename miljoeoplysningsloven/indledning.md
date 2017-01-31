@@ -1,3 +1,5 @@
 Bekendtgørelse af lov om aktindsigt i miljøoplysninger
 
-Herved bekendtgøres lov om aktindsigt i miljøoplysninger, jf. lovbekendtgørelse nr. 660 af 14. juni 2006, med de ændringer, der følger af § 8 i lov nr. 571 af 9. juni 2006, § 17 i lov nr. 484 af 11. maj 2010, § 25 i lov nr. 580 af 18. juni 2012, § 14 i lov nr. 639 af 12. juni 2013 og § 23 i lov nr. 86 af 28. januar 2014.
+Herved bekendtgøres lov om aktindsigt i miljøoplysninger, jf. lovbekendtgørelse nr. 1036 af 18. august 2015, med de ændringer, der følger af § 37 i lov nr. 1715 af 27. december 2016.
+
+Den bekendtgjorte lovtekst vedrørende § 4 a og § 4 b træder i kraft den 1. februar 2017, jf. § 24, stk. 1, i lov nr. 1715 af 27. december 2016 om Miljø- og Fødevareklagenævnet.
