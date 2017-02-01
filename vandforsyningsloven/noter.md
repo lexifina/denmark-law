@@ -2,24 +2,118 @@
 
 2) Ordet ”anlæggets” i § 51, stk. 1, 3. pkt., blev ved en fejl ikke ændret til ”vandforsyningens” ved lov nr. 132 af 16. februar 2016.
 
+3) I 2013 skiftede Forbrugerrådet navn til Forbrugerrådet Tænk.
+
 4) Loven trådte i kraft den 1. april 1980, jf. § 1 i bekendtgørelse nr. 491 af 10. december 1979. Dog trådte lovens § 61 i kraft den 29. oktober 1978, jf. § 2 i bekendtgørelse nr. 515 af 13. oktober 1978.
 
-5) Loven trådte i kraft den 1. november 1983, jf. bekendtgørelse nr. 421 af 7. september 1983.
+5) Lovændringen angår § 68.
 
-6) Loven trådte i kraft den 1. januar 1989, jf. § 1 i bekendtgørelse nr. 857 af 14. december 1988.
+6) Loven trådte i kraft den 1. november 1983, jf. bekendtgørelse nr. 421 af 7. september 1983.
 
-7) Loven er bekendtgjort i Lovtidende den 11. juni 1997.
+7) Lovændringen, hvis § 3 angår § 65 og § 74 a.
 
-8) Bestemmelsen er ændret ved § 3 i lov nr. 570 af 24. juni 2005, hvor den har fået følgende ordlyd: »Miljøministeren fastsætter tidspunktet for ikrafttrædelsen af de ændringer, der følger af § 1, nr. 6-11 og 19, § 2, § 3 og § 4, stk. 2 og 3, jf. dog stk. 4. Ministeren kan fastsætte forskellige ikrafttrædelsestidspunkter for de enkelte vanddistrikter.« Ministeren har ikke udnyttet denne hjemmel i bekendtgørelse nr. 1207 af 15. december 2011.
+8) Lovændringen angår § 14, stk. 5, § 17, § 29, stk. 3, § 32, stk. 1 og 3, § 37, stk. 1, § 38, § 45, stk. 2, 53, stk. 1, § 53 a, § 62, § 72, stk. 2, § 73, stk. 2, § 74, stk. 1, § 74 b, § 75, § 76, § 77, 80, stk. 2, § 81, § 83, stk. 2, og 84, stk. 1.
 
-9) Ændringen vedrører lovens § 15, stk. 1.
+9) Lovændringen, hvis § 2 angår § 6, § 10, § 11, § 13, § 14, stk. 3 og 4, § 14 a, § 16, § 17, § 72, stk. 3 og 4, § 80, stk. 2 og § 84, stk. 1, nr. 1.
 
-10) Loven er bekendtgjort i Lovtidende den 25. juni 2005.
+10) Loven trådte i kraft den 1. januar 1989, jf. § 1 i bekendtgørelse nr. 857 af 14. december 1988.
 
-11) Lov nr. 1608 af 22. december 2010 trådte i kraft den 1. januar 2011, jf. lovens § 3, stk. 1.
+11) Lovændringen, hvis § 20 angår § 5, § 7, § 9, stk. 2, § 12, § 80, stk. 1 og 3, og § 83 stk. 1, nr. 3.
 
-12) Loven trådte i kraft den 1. april 2011, jf. bekendtgørelse nr. 208 af 15. marts 2011.
+12) Lovændringen, hvis § 114, stk. 4, nr. 2, angår ændring af »Miljøankenævnet« til »Miljøklagenævnet«.
 
-13) Loven er bekendtgjort i Lovtidende den 28. december 2013.
+13) Lovændringen, hvis § 2 angår § 55, stk. 6.
 
-14) Ændringen af § 75, stk. 3, 1. pkt. og § 75, stk. 6 og 7 trådte i kraft den 28. januar 2015, jf. bekendtgørelse nr. 57 af 23. januar 2015 om ikrafttræden af lov om ændring af lov om Natur- og Miljøklagenævnet og forskellige andre love (Obligatorisk digital selvbetjening ved indgivelse af klage samt obligatorisk videresendelse af klage over lokalplan til Natur- og Miljøklagenævnet m.v.).
+14) Lovændringen, hvis § 2 angår § 22, stk. 4.
+
+15) Lovændringen angår § 54 og § 55, stk. 7.
+
+16) Loven er bekendtgjort i Lovtidende den 11. juni 1997.
+
+17) Lovændringen, hvis § 1 angår § 1, nr. 1, § 10, § 11, § 12, § 13, § 13 a, § 13 b, § 13 c, § 13 d, § 14 a, § 15, stk. 1, § 16, stk. 1 og 3, § 46, stk. 2, § 48, stk. 1 og 2, § 52 a, § 52 b, § 53, stk. 2-5, § 54, stk. 1, § 59 a, § 60, stk. 1, § 69 a, § 76, nr. 1, og § 89 a.
+
+18) Lovændringen angår § 52 a, stk. 1, og § 52 c.
+
+19) Lovændringen, hvis § 10 angår § 13 b, stk. 3 og 4, § 14 a, stk. 2 og 3, § 76, nr. 1, § 80, stk. 4 og § 83, stk. 1.
+
+20) Lovændringen angår § 52 c, stk. 1, 3 og 4-7.
+
+21) Lovændringen, der angår § 1, stk. 1, nr. 3 og 4, § 55, stk. 8, § 60, stk. 2, § 61, § 62, § 69, stk. 2, 3 og 4, § 71 a og § 88.
+
+22) Lovændringen, hvis § 3 angår § 9, 23, stk. 3, § 24, § 28, stk. 2, § 30, stk. 2, § 31, stk. 2, § 32, stk. 4, § 42 og § 84, stk. 3.
+
+23) Lovændringen, hvis § 34 angår § 5.
+
+24) Lovændringen, hvis § 1 angår § 7, overskriften til kapitel 3, § 10, § 11, § 12, § 13, stk. 1, § 13 a, § 13 d, stk. 5, § 14 a, stk. 1 og 2, § 15, stk. 1, § 16, § 17, § 52 a, stk. 1, § 52 c, stk. 1 og 2, § 64, stk. 1, § 67, § 72, stk. 4, § 74 b, § 75, § 81 og § 83, stk. 2.
+
+25) Bestemmelsen er ændret ved § 3 i lov nr. 570 af 24. juni 2005, hvor den har fået følgende ordlyd: »Miljøministeren fastsætter tidspunktet for ikrafttrædelsen af de ændringer, der følger af § 1, nr. 6-11 og 19, § 2, § 3 og § 4, stk. 2 og 3, jf. dog stk. 4. Ministeren kan fastsætte forskellige ikrafttrædelsestidspunkter for de enkelte vanddistrikter.« Ministeren har ikke udnyttet denne hjemmel i bekendtgørelse nr. 1207 af 15. december 2011.
+
+26) Ændringen vedrører lovens § 15, stk. 1.
+
+27) Lovændringen, hvis § 56 angår § 13 d, stk. 4.
+
+28) Lovændringen, hvis § 3 angår § 64, stk. 1, § 65, stk. 5, § 66, stk. 3, § 67, stk. 2, § 71 b, § 78, stk. 7, § 84, stk. 1, nr. 7 og 8.
+
+29) Lovændringen, hvis § 21 angår § 54, stk. 2.
+
+30) Lovændringen, hvis § 6 angår § 62, stk. 5, § 64, stk. 1, § 72, stk. 2, § 80, stk. 1, nr. 2).
+
+31) Lovændringen, hvis § 2 angår § 4, stk. 1, § 5, § 6, § 7, § 8, § 12, § 13, stk. 1, § 13 a, stk. 2, § 13 b, § 13 c, stk. 1, § 13 d, § 14, stk. 3 og 4, § 14 a, stk. 2-4, § 15, stk. 2, § 16, stk. 4, § 19, § 20, § 21, § 22, stk. 4 og 5, § 23, § 26, stk. 1 og 2, § 27, § 29, stk. 2, 3 og 4, § 32, § 33, stk. 1, § 36, § 39, stk. 1, § 40, stk. 2, § 41, § 42, stk. 2, § 45, § 46, stk. 1 og 3, § 47, § 48, § 52, stk. 2, § 52 c, § 53 a, stk. 3 og 4, § 55, stk. 2, § 58, stk. 2, § 59 a, § 62, stk. 9, § 63, § 64, stk. 1, § 67, § 69, stk. 3, § 70, § 72, stk. 1 og 3, § 73, stk. 1, § 74, stk. 1, § 74 b, § 75, § 76, nr. 1, § 78, stk. 1-4 og 6-7, § 79, § 80, § 81, § 82, § 83, § 84, stk. 1, nr. 1, og stk. 2, § 89 og § 89 a.
+
+32) Loven er bekendtgjort i Lovtidende den 25. juni 2005.
+
+33) Lovændringen, hvis § 6 angår § 75 og § 79.
+
+34) Lovændringen, hvis § 3 angår § 5, § 71 a og § 75, stk. 1.
+
+35) Lovændringen indsætter § 71 a.
+
+36) Lovændringen ændrer §§ 66, 67, 71, 80 og 84 og indsætter nyt kapitel 11 a (§§ 68-68 h)
+
+37) Lovændring indsætter § 2, stk. 2.
+
+38) Lovændringen ophæver § 54, stk. 1, 2. pkt., og stk. 2, og § 71 b.
+
+39) Lovændring ophæver § 52 c, indsætter kapitel 4 a (§§ 24-24 j), og ændrer § 52 a, stk. 1.
+
+40) Lovændringen ophæver § 52 a, stk. 1 og 2, § 54 og § 55, stk. 4, indsætter § 1 a, § 46 a, § 52 a, stk. 1-3, og § 53, stk. 6, og ændrer § 37, stk. 1, § 46, § 47, stk. 2, § 48, stk. 1, § 52 a, stk. 3, § 53, stk. 1-3, § 53 a, stk. 1 og 2, § 55, stk. 2 og 5-8, § 66, stk. 1, § 67, stk. 1 og § 76, nr. 4.
+
+41) Lovændringen ændrer fodnoten til lovens titel.
+
+42) Lovændringen ændrer § 52 a.
+
+43) Lovændringen ændrer § 22, stk. 1, og § 86, stk. 2, og indsætter § 22, stk. 6, § 56 a og § 74 c.
+
+44) Lovændringen ændrer § 75, § 78, stk. 1, 2, 3, 4, 6 og 7, og ændrer § 80, stk. 5. Lov nr. 1608 af 22. december 2010 vedrører en ny affattelse af ikrafttrædelsesbestemmelsen for lov nr. 484 af 11. maj 2010, hvor det er bestemt, at lov nr. 484 af 11. maj 2010 træder i kraft den 1. januar 2011.
+
+45) Lovændring ændrer § 46 a, stk. 1.
+
+46) Loven trådte i kraft den 1. april 2011, jf. bekendtgørelse nr. 208 af 15. marts 2011.
+
+47) Lovændringen indsætter § 8 a.
+
+48) Lovændringen ændrer fodnoten til lovens titel nr. 1, indsætter ny pkt. 11 i § 52 a, stk. 1, hvorefter ptk. 11 og 12 bliver til 12 og 13.
+
+49) Lovændring ændrer § 8, stk. 2, indsætter nyt pkt. i § 16, stk. 3, § 57, stk. 2, § 68 g, stk. 2 og § 72, stk. 2.
+
+50) Lovændring ændrer overskriften til kapitel 4a, ophæver § 24-24c og § 24e-24j med tilhørende overskrifter og ændrer § 52a, stk. 1, nr. 12.
+
+51) Lovændring ændrer § 75, stk. 3 og indsætter nye stk. 4 og 5.
+
+52) Lovændring ændrer § 63, stk. 1, § 63, stk. 3, § 72, stk. 2, 1. pkt., og § 80, stk. 1.
+
+53) Lovændring indsætter ny § 10, § 11, § 11 a, § 11 b og § 11 c og ændrer § 13, stk. 1, § 13 a, § 13 d, stk. 2, 2. pkt., § 14 a, stk. 1 og § 52 a, stk. 1, nr. 12.
+
+54) Loven er bekendtgjort i Lovtidende den 28. december 2013.
+
+55) Lovændring ændrer § 75, stk. 3, 1. pkt. og indsætter § 75, stk. 6 og 7.
+
+56) Ændringen af § 75, stk. 3, 1. pkt. og § 75, stk. 6 og 7 trådte i kraft den 28. januar 2015, jf. bekendtgørelse nr. 57 af 23. januar 2015 om ikrafttræden af lov om ændring af lov om Natur- og Miljøklagenævnet og forskellige andre love (Obligatorisk digital selvbetjening ved indgivelse af klage samt obligatorisk videresendelse af klage over lokalplan til Natur- og Miljøklagenævnet m.v.).
+
+57) Lovændring ændrer § 9, stk. 1 og 2, § 13 d, stk. 3, § 40, stk. 3, § 42, stk. 1 og 2 og § 43, stk. 2.
+
+58) Lovændring ændrer § 2, stk. 2, nr. 4, § 32, stk. 1, 1. og 4. pkt., § 32, stk. 2, 1. og 2. pkt., § 33, stk. 2, 2. pkt. og § 38, 1. pkt., indsætter § 11, stk. 2 og 3 og ny § 81 samt ophæver § 11 b, stk. 2.
+
+59) Lovændring, hvis § 2 angår § 1 a, 1. pkt., § 3, stk. 3, § 6, § 13 a, stk. 1, § 13 b, stk. 1 og 6, § 13 d, stk. 1 og 2, § 14, stk. 1, § 14 a, stk. 2, § 14 b, § 18, stk. 2, § 29, stk. 1-3, § 30, stk. 1, § 32, stk. 1 og 2, § 33, stk. 2, § 37, stk. 1, § 47, stk. 2, § 38, § 39, stk. 2, § 41, § 45, stk. 1-3, § 46, stk. 1-3, § 46 a, stk. 1 og 2, § 47, stk. 1 og 2, § 48, stk. 1-4, § 49, § 50, stk. 1, § 51, stk. 1 og 2, § 52, stk. 1 og 2, § 52 a, stk. 1-3, § 52 b, stk. 1, § 53, stk. § 53 a, stk. 1-3, § 55, stk. 1-3 og 7, § 59 a, § 60, stk. 3, § 62, stk. 2, § 65, stk. 5, § 66, stk.1 og 2, 69, stk. 1 og 3, § 69 a,§ 71, § 84, stk. 2, § 87, stk. 2.
+
+60) Lovændringen, hvis § 34, nr. 1, overalt i loven ændrer ”Natur- og Miljøklagenævnet” til ”Miljø- og Fødevareklagenævnet” og ”Natur- og Miljøklagenævnets” til ”Miljø- og Fødevareklagenævnets”, og som ændrer § 75, stk. 1 og 2 og stk. 3, 1. pkt.
