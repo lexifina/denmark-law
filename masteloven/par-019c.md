@@ -1,1 +1,1 @@
-§ 19 c. IT- og Telestyrelsen og landzone- og bygningsmyndighederne skal være retligt adskilt og funktionelt uafhængige af udbydere af elektroniske kommunikationsnet, elektronisk kommunikationsudstyr eller elektroniske kommunikationstjenester.
+§ 19 c. Energistyrelsen og landzone- og bygningsmyndighederne skal være retligt adskilt og funktionelt uafhængige af udbydere af elektroniske kommunikationsnet, elektronisk kommunikationsudstyr eller elektroniske kommunikationstjenester.
