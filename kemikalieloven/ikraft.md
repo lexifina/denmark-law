@@ -379,3 +379,11 @@ Stk. 2. Miljøministeren fastsætter tidspunktet for ikrafttrædelsen af § 1, n
 Stk. 3. Personer, der inden ikrafttrædelsen af regler udstedt i medfør af § 38 b som affattet ved denne lovs § 1, nr. 4, har et gyldigt bevis efter de hidtil gældende regler, opnår autorisation ved indsendelse af kopi af gyldigt bevis til miljøministeren. Det er dog en forudsætning for autorisationen, at personen ikke ved dom eller bødevedtagelse er straffet efter denne lovs ikrafttræden for overtrædelse af regler om plantebeskyttelsesmidler efter § 59, stk. 2, eller efter bestemmelser udstedt i medfør af § 59, stk. 4, 2. pkt., eller for overtrædelse af regler om sprøjteudstyr og indretning af vaskepladser m.v. til plantebeskyttelsesmidler i medfør af § 110, stk. 3, 2. pkt., i lov om miljøbeskyttelse.
 
 Stk. 4. § 38 c som affattet ved denne lovs § 1, nr. 4, finder anvendelse ved strafbare forhold, der begås efter ikrafttrædelsen af regler udstedt i medfør af § 38 b som affattet ved denne lovs § 1, nr. 4.
+
+Lov nr. 1730 af 27. december 2016 om ændring af lov om vandplanlægning og forskellige andre love (Inddragelse af kommuner og vandråd i afgrænsning af vandløb i vandløbsområder og kvalificering af udpegning af kunstige og stærkt modificerede vandløb samt ny organisering i Miljø- og Fødevareministeriet), der angår § 45, stk. 2, har følgende ikrafttrædelsesbestemmelse:
+
+§ 7
+
+Stk. 1. Loven træder i kraft dagen efter bekendtgørelsen i Lovtidende, jf. dog stk. 2.
+
+Stk. 2. (Udelades)
