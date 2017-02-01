@@ -10,4 +10,4 @@
 
 5) lokale foreninger og organisationer, der har beskyttelse af natur og miljø som hovedformål.
 
-Stk. 2. Ved klage efter stk. 1, nr. 3 og 4, kan Natur- og Miljøklagenævnet kræve, at foreningerne eller organisationerne dokumenterer deres klageberettigelse ved at indsende vedtægter eller på anden måde.
+Stk. 2. Ved klage efter stk. 1, nr. 3 og 4, kan Miljø- og Fødevareklagenævnet kræve, at foreningerne eller organisationerne dokumenterer deres klageberettigelse ved at indsende vedtægter eller på anden måde.

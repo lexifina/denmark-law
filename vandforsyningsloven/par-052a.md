@@ -16,7 +16,7 @@
 
 8) henlæggelser til nyinvesteringer,
 
-9) udgifter til rådgivning af vandforsyningens kunder om vandbesparelser, finansiering af vandbesparende foranstaltninger og deltagelse i vandværkssamarbejder og lign. ,
+9) udgifter til rådgivning af vandforsyningens kunder om vandbesparelser, finansiering af vandbesparende foranstaltninger og deltagelse i vandværkssamarbejder og lign.,
 
 10) udgifter til kortlægning, overvågning og beskyttelse af de vandressourcer, som anlægget indvinder fra eller i fremtiden kan forventes at indvinde fra, i det omfang en sådan supplerende overvågning og beskyttelse ud over den offentlige kortlægning, overvågning og beskyttelse er nødvendig eller hensigtsmæssig for vandforsyningsanlægget,
 
