@@ -1,1 +1,1 @@
-§ 44 a. Ved klage efter § 44, stk. 4, nr. 3 og 4, kan Natur- og Miljøklagenævnet kræve, at foreningerne eller organisationerne dokumenterer deres klageberettigelse ved indsendelse af vedtægter eller på anden måde.
+§ 44 a. Ved klage efter § 44, stk. 4, nr. 3 og 4, kan Miljø- og Fødevareklagenævnet kræve, at foreningerne eller organisationerne dokumenterer deres klageberettigelse ved indsendelse af vedtægter eller på anden måde.

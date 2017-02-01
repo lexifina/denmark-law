@@ -1,1 +1,1 @@
-§ 29 s. (Ophævet).
+§ 29 s. (Ophævet)

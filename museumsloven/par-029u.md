@@ -12,4 +12,4 @@
 
 6) landsdækkende foreninger og organisationer, som efter deres formål varetager væsentlige rekreative interesser, når afgørelsen berører sådanne interesser.
 
-Stk. 2. Ved klage efter stk. 1, nr. 5, kan Natur- og Miljøklagenævnet kræve, at foreningerne eller organisationerne dokumenterer deres klageberettigelse ved indsendelse af vedtægter eller på anden måde.
+Stk. 2. Ved klage efter stk. 1, nr. 5, kan Miljø- og Fødevareklagenævnet kræve, at foreningerne eller organisationerne dokumenterer deres klageberettigelse ved indsendelse af vedtægter eller på anden måde.

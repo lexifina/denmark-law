@@ -1,0 +1,1 @@
+§ 5 o. Miljø- og fødevareministeren kan fastsætte nærmere regler om den form, de oplysninger, der er nævnt i §§ 5 m og 5 n, skal have, om oplysningernes opdeling i forskellige gødningstyper m.v. og om, hvordan oplysningerne skal kunne dokumenteres og kontrolleres.

@@ -1,0 +1,1 @@
+§ 16 c. Hvis et husdyrbrug, der er omfattet af godkendelses- eller tilladelsespligten efter §§ 16 a eller 16 b, er teknisk, forurenings- og driftsmæssigt forbundet med et andet husdyrbrug, skal husdyrbrugene godkendes eller tillades samlet.

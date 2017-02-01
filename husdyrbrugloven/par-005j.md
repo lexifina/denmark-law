@@ -1,0 +1,3 @@
+§ 5 j. Jordbrugsvirksomhedens forbrug af fosfor i anden organisk gødning end husdyrgødning beregnes som leverandørens angivelse af den totale mængde af fosfor i den gødning, der er leveret til jordbrugsvirksomheden i planperioden, tillagt planperiodens primolager og fratrukket planperiodens ultimolager af fosfor i anden organisk gødning end husdyrgødning.
+
+Stk. 2. Miljø- og fødevareministeren fastsætter regler om bestemmelse af fosforindholdet i anden organisk gødning end husdyrgødning. Ministeren kan herudover fastsætte regler om lageropgørelser for alle typer af anden organisk gødning end husdyrgødning.

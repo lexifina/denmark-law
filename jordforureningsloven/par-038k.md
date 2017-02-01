@@ -2,7 +2,7 @@
 
 ## Afhjælpning af jord- og grundvandsforurening ved ophør af driften af bestemte aktiviteter på listevirksomheder og husdyrbrug
 
-§ 38 k. Ved driftsophør af bestemte aktiviteter på listevirksomheder, jf. § 35 i lov om miljøbeskyttelse, og af husdyrbrug omfattet af § 12, stk. 1, nr. 1-3, i lov om miljøgodkendelse m.v. af husdyrbrug skal driftsherren vurdere jordens og grundvandets forureningstilstand som følge af de pågældende aktiviteter.
+§ 38 k. Ved driftsophør af bestemte aktiviteter på listevirksomheder, jf. § 35 i lov om miljøbeskyttelse, og af husdyrbrug omfattet af de tidligere gældende regler i § 12, stk. 1, nr. 1-3, i lov om miljøgodkendelse m.v. af husdyrbrug eller § 16 a, stk. 2, i lov om husdyrbrug og anvendelse af gødning m.v., skal driftsherren vurdere jordens og grundvandets forureningstilstand som følge af de pågældende aktiviteter.
 
 Stk. 2. Inden vurderingen efter stk. 1 foretages, skal driftsherren indsende oplæg herom til miljømyndigheden.
 
