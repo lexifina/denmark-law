@@ -1,3 +1,3 @@
 Bekendtgørelse af lov om skove
 
-Herved bekendtgøres lov om skove, jf. lovbekendtgørelse nr. 678 af 14. juni 2013, med de ændringer, der følger af § 3 i lov nr. 86 af 28. januar 2014.
+Herved bekendtgøres lov om skove, jf. lovbekendtgørelse nr. 1577 af 8. december 2015, med de ændringer, der følger af § 29 i lov nr. 1715 af 27. december 2016.
