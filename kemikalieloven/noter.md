@@ -22,4 +22,8 @@
 
 12) Loven er bekendtgjort i Lovtidende den 23. december 2010.
 
-13) Ved bekendtgørelse 793 af 19. juni 2013 om ikrafttræden af § 1, nr. 10, i lov om ændring af lov om kemikalier (Opbevaring af bekæmpelsesmidler ved salg, autorisationsordning for forhandlere, erhvervsmæssige brugere og rådgivere vedrørende bekæmpelsesmidler samt bødeskærpelse) blev bestemmelsen sat i kraft den 1. juli 2013.
+13) Den ændring, der følger af § 19 i lov nr. 484 af 11. maj 2010 og § 8 i lov nr. 580 af 18. juni 2012 er ikke indarbejdet i denne lovbekendtgørelse, da ændringerne efterfølgende er ophævet, jf. § 1 i lov nr. 277 af 19. marts 2013.
+
+Den ændring, der følger af § 13 i lov nr. 639 af 12. juni 2013, er ikke indarbejdet i denne lovbekendtgørelse, da § 35 e, som loven vedrører, blev ophævet ved § 1 i lov nr. 277 af 19. marts 2013.
+
+14) Ved bekendtgørelse 793 af 19. juni 2013 om ikrafttræden af § 1, nr. 10, i lov om ændring af lov om kemikalier (Opbevaring af bekæmpelsesmidler ved salg, autorisationsordning for forhandlere, erhvervsmæssige brugere og rådgivere vedrørende bekæmpelsesmidler samt bødeskærpelse) blev bestemmelsen sat i kraft den 1. juli 2013.
