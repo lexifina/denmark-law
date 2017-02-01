@@ -1,4 +1,4 @@
-Lov nr. 1336 af 19. december 2008 om ændring af kildeskatteloven, opkrævningsloven, udpantningsloven og forskellige andre love (Konsekvensændringer som følge af lov om inddrivelse af gæld til det offentlige), der ændrer § 35, indeholder følgende ikrafttrædelsesbestemmelse:
+Lov nr. 1336 af 19. december 2008 (Konsekvensændringer som følge af lov om inddrivelse af gæld til det offentlige) indeholder følgende ikrafttrædelsesbestemmelse:
 
 § 167
 
@@ -6,7 +6,7 @@ Stk. 1. Loven træder i kraft den 1. januar 2009, jf. dog stk. 2. § 11 finder a
 
 Stk. 2. (Udelades)
 
-Lov nr. 484 af 11. maj 2010 om ændring af lov om naturbeskyttelse, lov om miljøbeskyttelse og forskellige andre love (Ændringer som følge af lov om Natur- og Miljøklagenævnet m.v.), som ændret ved § 2 i lov nr. 1608 af 22. december 2010), der ændrer § 29, stk. 1 og 3, § 30, § 31, stk. 2-3 og § 32 samt ophæver § 33, indeholder følgende ikrafttrædelsesbestemmelse:
+Lov nr. 484 af 11. maj 2010 (Ændringer som følge af lov om Natur- og Miljøklagenævnet m.v.) indeholder følgende ikrafttrædelses- og overgangsbestemmelser:
 
 § 28
 
@@ -20,13 +20,13 @@ Stk. 6. (Udelades)
 
 Stk. 7. Miljøministeren kan i øvrigt fastsætte overgangsregler.
 
-Lov nr. 1273 af 21. december 2011 om ændring af lov om miljøbeskyttelse, lov om planlægning og forskellige andre love (Digital annoncering, obligatorisk digital kommunikation, afskæring af klageadgang), der ændrer § 5, stk. 1, § 6, stk. 1, § 20, stk. 3 og § 24, stk. 1, indeholder følgende ikrafttrædelsesbestemmelse:
+Lov nr. 1273 af 21. december 2011 (Digital annoncering, obligatorisk digital kommunikation, afskæring af klageadgang) indeholder følgende ikrafttrædelsesbestemmelse:
 
 § 20
 
 Loven træder i kraft den 1. januar 2012.
 
-Lov nr. 580 af 18. juni 2012 om ændring af lov om Natur- og Miljøklagenævnet og forskellige andre love (Reform af klagesystemet på natur- og miljøområdet m.v.), der indsætter § 31, stk. 2 og 3, indeholder følgende ikrafttrædelsesbestemmelse:
+Lov nr. 580 af 18. juni 2012 (Reform af klagesystemet på natur- og miljøområdet m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
 
 § 28
 
@@ -38,7 +38,7 @@ Stk. 3. Loven finder anvendelse på afgørelser truffet i 1. instans efter loven
 
 Stk. 4. (Udelades)
 
-Lov nr. 1631 af 26. december 2013 om ændring af lov om vandforsyning m.v., lov om vurdering og styring af oversvømmelsesrisikoen fra vandløb og søer og forskellige andre love (Konsekvensændringer som følge af lov om vandplanlægning), der ændrer § 19, nr. 1 og § 19, nr. 2-4, indeholder følgende ikrafttrædelsesbestemmelse:
+Lov nr. 1631 af 26. december 2013 (Konsekvensændringer som følge af lov om vandplanlægning) indeholder følgende ikrafttrædelsesbestemmelse:
 
 § 17
 
@@ -48,7 +48,7 @@ Stk. 2. Miljøministeren fastsætter tidspunktet for ikrafttræden af §§ 2 og 
 
 Stk 3. (Udelades)
 
-Lov nr. 80 af 28. januar 2014 om ændring af lov om erhvervsfremme og forskellige andre love (Ny regional vækst- og udviklingsstrategi, udvidelse af Danmarks Vækstråds opgaver m.v.), der ændrer § 19, stk. 1, nr. 3, indeholder følgende ikrafttrædelsesbestemmelse:
+Lov nr. 80 af 28. januar 2014 (Ny regional vækst- og udviklingsstrategi, udvidelse af Danmarks Vækstråds opgaver m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
 
 § 11
 
@@ -58,7 +58,7 @@ Stk. 2-10. (Udelades)
 
 Stk. 11. Loven finder ikke anvendelse på nationalparkplaner efter lov om nationalparker indtil regionsrådets vedtagelse af en regional vækst- og udviklingsstrategi i henhold til § 8 a, stk. 1, i lov om erhvervsfremme og regional udvikling som affattet ved denne lovs § 1, nr. 10. For sådanne nationalparkplaner finder de hidtil gældende regler anvendelse indtil regionsrådets vedtagelse af en regional vækst- og udviklingsstrategi i henhold til § 8 a, stk. 1, i lov om erhvervsfremme og regional udvikling som affattet ved denne lovs § 1, nr. 10.
 
-Lov nr. 86 af 28. januar 2014 om ændring af lov om Natur- og Miljøklagenævnet og forskellige andre love (Obligatorisk digital selvbetjening ved indgivelse af klage samt obligatorisk videresendelse af klage over lokalplan til Natur- og Miljøklagenævnet m.v.), der ændrer § 31, stk. 2, og indsætter § 31, stk. 4 og 5, indeholder følgende ikrafttrædelsesbestemmelse:
+Lov nr. 86 af 28. januar 2014 (Obligatorisk digital selvbetjening ved indgivelse af klage samt obligatorisk videresendelse af klage over lokalplan til Natur- og Miljøklagenævnet m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
 
 § 26
 
@@ -67,3 +67,19 @@ Stk. 1. (Udelades)
 Stk. 2. Miljøministeren fastsætter tidspunktet for ikrafttræden af §§ 1-6, § 7, nr. 2 og 3, og §§ 8-25.
 
 Stk. 3. Loven finder ikke anvendelse for klager over afgørelser, der træffes, før loven træder i kraft. For sådanne klager finder de hidtidige regler anvendelse.
+
+Lov nr. 1715 af 27. december 2016 om Miljø- og Fødevareklagenævnet indeholder følgende ikrafttrædelses- og overgangsbestemmelse:
+
+§ 24. Loven træder i kraft den 1. februar 2017.
+
+Stk. 2. (Udelades)
+
+Stk. 3. Erhvervs- og vækstministeren kan efter høring af miljø- og fødevareministeren fastsætte overgangsregler.
+
+Stk. 4. (Udelades)
+
+Stk. 5. Regler, der er fastsat i henhold til hidtil gældende regler, forbliver i kraft, indtil de ophæves eller afløses af regler fastsat med hjemmel i denne lov. Overtrædelse af reglerne straffes efter de hidtil gældende regler.
+
+Stk. 6. Verserende klagesager i Natur- og Miljøklagenævnet eller Klagecenter for Fødevarer, Landbrug og Fiskeri, der ikke er færdigbehandlet ved denne lovs ikrafttræden, færdigbehandles og afgøres af Miljø- og Fødevareklagenævnet efter reglerne i denne lov. Dette gælder dog ikke verserende klagesager ved Natur- og Miljøklagenævnet, som ved lovens ikrafttræden skal færdigbehandles og afgøres af Planklagenævnet, jf. § 1 i lov om Planklagenævnet.
+
+Stk. 7. (Udelades)

@@ -1,3 +1,3 @@
 Bekendtgørelse af lov om nationalparker
 
-Herved bekendtgøres lov om nationalparker, jf. lovbekendtgørelse nr. 1619 af 8. december 2015, med de ændringer, der følger af § 9 i lov nr. 1631 af 26. december 2013.
+Herved bekendtgøres lov om nationalparker, jf. lovbekendtgørelse nr. 1202 af 28. september 2016, med de ændringer, der følger af § 32 i lov nr. 1715 af 27. december 2016.
