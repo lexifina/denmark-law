@@ -1,7 +1,5 @@
-Givet på Amalienborg Slot, den 12. maj 2015
+Undervisningsministeriet, den 6. februar 2017
 
-Under Vor Kongelige Hånd og Segl
+P.M.V. Ole Hvilsom Larsen Kontorchef
 
-MARGRETHE R.
-
-/ Christine Antorini
+/ Karen-Iben Perelman
