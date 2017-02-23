@@ -1,1 +1,1 @@
-§ 1a. Bestemmelserne i denne lov og bestemmelser fastsat i henhold til denne lov forvaltes af told- skatteforvaltningen.
+§ 1 a. Bestemmelserne i denne lov og bestemmelser fastsat i henhold til denne lov forvaltes af told- og skatteforvaltningen.
