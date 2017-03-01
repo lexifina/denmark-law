@@ -2,7 +2,7 @@
 
 1) der er tale om en meddelelse i en sag, der behandles på domstolenes sagsportal, jf. dog § 148 b, stk. 2,
 
-2) modtageren ikke er fritaget fra Offentlig Digital Post og meddelelsen sendes til den digitale postløsning, som anvises efter lov om Offentlig Digital Post,
+2) modtageren ikke er fritaget fra Digital Post og meddelelsen sendes til den digitale postløsning, som anvises efter lov om Digital Post fra offentlige afsendere,
 
 3) modtageren har samtykket i at modtage meddelelser på denne måde, jf. stk. 2,
 
