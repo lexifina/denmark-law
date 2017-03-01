@@ -2,4 +2,4 @@
 
 Stk. 2. Stk. 1 finder ikke anvendelse, hvis udlændingen er omfattet af de regler, der er nævnt i § 2, stk. 4 (EU-reglerne).
 
-Stk. 3. Udlændinge-, integrations- og boligministeren kan fastsætte nærmere regler om, hvilke typer af afgørelser der er omfattet af stk. 1.
+Stk. 3. Udlændinge- og integrationsministeren kan fastsætte regler om, hvilke typer af afgørelser der er omfattet af stk. 1.
