@@ -1,1 +1,1 @@
-§ 156 c. Ved forenklet digital forkyndelse anses meddelelsen for forkyndt, hvis meddelelsen åbnes. Forkyndelsen anses for sket, den dag meddelelsen åbnes.
+§ 156 c. Ved forenklet digital forkyndelse anses meddelelsen for forkyndt, hvis der sker åbning eller anden behandling af meddelelsen, den besked, hvortil meddelelsen er vedhæftet, eller et bilag eller en anden meddelelse, der er vedhæftet beskeden. Forkyndelse anses for sket, den dag meddelelsen, bilaget eller den besked, hvortil meddelelsen er vedhæftet, åbnes eller på anden måde behandles.
