@@ -1,5 +1,5 @@
-Erhvervs- og Vækstministeriet, den 24. januar 2012
+Erhvervsministeriet, den 26. februar 2017
 
-Ole Sohn
+Brian Mikkelsen
 
 / Jesper Kongstad
