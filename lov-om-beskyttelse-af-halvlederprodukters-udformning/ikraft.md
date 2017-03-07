@@ -1,11 +1,5 @@
-Lov nr. 1430 af 21. december 2005 om ændring af patentloven, ophavsretsloven med flere love indeholder følgende ikrafttrædelses- og overgangsbestemmelser:
+Lov nr. 1548 af 13. december 2016 (Styrket indsats mod piratkopiering ved etablering af en særlig enhed om håndhævelse og piratkopiering samt overførsel af gebyrindtægter) indeholder følgende ikrafttrædelsesbestemmelse:
 
-§ 8
+§ 7
 
-Loven træder i kraft den 1. januar 2006.
-
-Lov nr. 1370 af 28. december 2011 om ændring af patentloven og forskellige andre love indeholder følgende ikrafttrædelses- og overgangsbestemmelser:
-
-§ 9
-
-Loven træder i kraft den 1. februar 2012.
+Loven træder i kraft den 1. januar 2017.
