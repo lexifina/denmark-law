@@ -1,5 +1,5 @@
-Lov nr. 639 af 12. juni 2013 (Konsekvensændringer i lyset af lov om offentlighed i forvaltningen og af ændringer i forvaltningsloven og retsplejeloven) indeholder følgende ikrafttrædelsesbestemmelse:
+Lov nr. 1548 af 13. december 2016 (Styrket indsats mod piratkopiering ved etablering af en særlig enhed om håndhævelse og piratkopiering samt overførsel af gebyrindtægter) indeholder følgende ikrafttrædelsesbestemmelse:
 
-§ 31
+§ 7
 
-Loven træder i kraft den 1. januar 2014.
+Loven træder i kraft den 1. januar 2017.
