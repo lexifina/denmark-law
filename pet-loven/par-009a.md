@@ -1,0 +1,5 @@
+§ 9 a. Bliver Politiets Efterretningstjeneste i forbindelse med sine aktiviteter opmærksom på, at sager eller dokumenter m.v. ikke længere opfylder betingelserne i § 7, stk. 2, og § 8, stk. 2, skal disse slettes, uanset om slettefristen i § 9 eller frister fastsat i medfør af § 7, stk. 3, eller § 8, stk. 3, er udløbet. Politiets Efterretningstjeneste er ikke i øvrigt forpligtet til løbende af egen drift at gennemgå tjenestens sager og dokumenter m.v. med henblik på at vurdere, om betingelserne i § 7, stk. 2, og § 8, stk. 2, fortsat er opfyldt.
+
+Stk. 2. Politiets Efterretningstjeneste er uanset bestemmelserne i §§ 7-9 ikke forpligtet til at slette oplysninger, der ikke opfylder betingelserne i § 7, stk. 2, og § 8, stk. 2, hvis oplysningerne indgår i dokumenter m.v., som i øvrigt opfylder betingelserne i § 7, stk. 2, og § 8, stk. 2, jf. dog stk. 3 og § 13, stk. 2.
+
+Stk. 3. Justitsministeren kan fastsætte regler om, at Politiets Efterretningstjeneste i nærmere fastsatte tilfælde skal slette oplysninger i videre omfang, end hvad der følger af lovens bestemmelser.
