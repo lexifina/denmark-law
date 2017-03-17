@@ -1,0 +1,1 @@
+§ 16 d. Tvangsbehandlingsnævnet skal efter anmodning fra patienten, dennes nærmeste pårørende, værge eller fremtidsfuldmægtig indbringe sine afgørelser vedrørende tvangsindlæggelser samt tilbageholdelse og tilbageførsel, jf. §§ 10 og 12 i lov om anvendelse af tvang ved somatisk behandling af varigt inhabile, for retten efter reglerne i retsplejelovens kapitel 43 a.

@@ -1,0 +1,1 @@
+§ 4 a. Klager efter § 4 skal være indgivet inden 2 år efter det tidspunkt, hvor klageren var eller burde være bekendt med det forhold, der klages over. Klage skal dog senest indgives 5 år efter den dag, hvor klageforholdet har fundet sted. Der kan ikke dispenseres fra de nævnte klagefrister.
