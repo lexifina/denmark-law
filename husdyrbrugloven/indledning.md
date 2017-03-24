@@ -1,6 +1,6 @@
-Bekendtgørelse af lov om miljøgodkendelse m.v. af husdyrbrug
+Bekendtgørelse af lov om husdyrbrug og anvendelse af gødning m.v.
 
-Herved bekendtgøres lov om miljøgodkendelse m.v. af husdyrbrug, jf. lovbekendtgørelse nr. 868 af 3. juli 2015 med de ændringer, der følger af § 15 i lov nr. 132 af 16. februar 2016.
+Herved bekendtgøres lov om husdyrbrug og anvendelse af gødning m.v., jf. lovbekendtgørelse nr. 442 af 13. maj 2016 med de ændringer, der følger af § 39 i lov nr. 1715 af 27. december 2016 og § 1 i lov nr. 204 af 28. februar 2017.
 
 Den ændring, der følger af § 15, nr. 1, i lov nr. 341 af 27. april 2011 om ændring af årsregnskabsloven og forskellige andre love (Obligatorisk digital kommunikation mellem virksomheder og det offentlige, skattefritagelse af Fornyelsesfondens garantiordning m.v.), er ikke indarbejdet i denne lovbekendtgørelse, da tidspunktet for ikrafttræden af denne ændring fastsættes af Miljø- og fødevareministeren, jf. § 18, stk. 2, i lov nr. 341 af 27. april 2011.
 
