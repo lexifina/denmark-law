@@ -1,4 +1,4 @@
-Skatteministeriet, den 1. september 2016
+Skatteministeriet, den 24. marts 2017
 
 P.M.V. Jens Brøchner
 
@@ -8,13 +8,11 @@ Bilag 1
 
 Liste over momsregistrerede virksomheder, hvis afsætning af ydelser ikke giver adgang til tilbagebetaling af elafgift, jf. § 11, stk. 2
 
-Advokater.
+## Advokater.
 
 Arkitekter.
 
 Bureauer (bl.a. vagtbureauer, ægteskabsbureauer).
-
-Forlystelser, herunder teaterforestillinger, biografforestillinger mv.
 
 Landinspektører.
 
@@ -30,7 +28,7 @@ Bilag 2
 
 Satser for elafgiftslovens § 6, stk. 1, for perioden 2015-2019
 
-1. jan. - 31. dec. 2015 1. jan. - 31. dec. 2016 1. jan. - 31. dec. 2017 1. jan. - 31. dec. 2018 1. jan. - 31. dec. 2018 Elektricitet, der overstiger 4.000 kWh årligt i helårsboliger, der opvarmes ved elektricitet øre/kWh 38,0 38,0 40,0 40,0 40,0 Anden elektricitet øre/kWh 87,8 87,8 89,8 89,8 89,8 *) Satserne er baseret på 2015-niveau og reguleres årligt efter udviklingen i nettoprisindekset, jf. § 32 a i lov om energiafgift af mineralolieprodukter m.v.«
+1. jan. - 31. dec. 2015 1. jan. - 31. dec. 2016 1. jan. - 31. dec. 2017 1. jan. - 31. dec. 2018 1. jan. - 31. dec. 2018 Elektricitet, der overstiger 4.000 kWh årligt i helårsboliger, der opvarmes ved elektricitet øre/kWh 38,0 38,0 40,0 40,0 40,0 Anden elektricitet øre/kWh 87,8 87,8 89,8 89,8 89,8 *) Satserne er baseret på 2015-niveau og reguleres årligt efter udviklingen i nettoprisindekset, jf. § 32 a i lov om energiafgift af mineralolieprodukter m.v.
 
 Bilag 3
 
