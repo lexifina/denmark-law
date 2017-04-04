@@ -10,7 +10,7 @@ Stk. 5. Efter udløbet af en opgørelsesperiode foretager virksomheden en endeli
 
 Stk. 6. Tilbagebetalingsbeløbet anføres på virksomhedens angivelser efter merværdiafgiftsloven. Beløbet angives i hele kroner, idet der bortses fra ørebeløb.
 
-Stk. 7. Tilbagebetalingen sker ved, at virksomheden foretager modregning i sit afgiftstilsvar efter merværdiafgiftsloven. I det omfang tilbagebetalingen ikke kan ske ved modregning, udbetales beløbet til virksomheden efter reglerne i § 12 i lov om opkrævning af skatter og afgifter mv.
+Stk. 7. Tilbagebetalingen sker ved, at virksomheden foretager modregning i sit afgiftstilsvar efter merværdiafgiftsloven. I det omfang tilbagebetalingen ikke kan ske ved modregning, udbetales beløbet til virksomheden efter reglerne i § 12 i lov om opkrævning af skatter og afgifter m.v.
 
 Stk. 8. Virksomheder, der leverer elektricitet, kulde og varme, skal mindst én gang årligt afgive de oplysninger, der er nødvendige ved opgørelsen af afgiften efter § 11, stk. 15. Skatteministeren kan fastsætte de nærmere regler herom.
 
