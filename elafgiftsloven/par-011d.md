@@ -2,4 +2,4 @@
 
 1) at det fremgår af købsaftalen, at køber er en momsregistreret virksomhed, med angivelse af cvr- eller SE-nummer for momsregistreringen, og
 
-2) at fakturarer vedrørende de aftale leverancer af elektricitet indeholder oplysning om køberens aktuelle cvr- eller SE-nummer for momsregistreringen.
+2) at fakturaer vedrørende de aftalte leverancer af elektricitet indeholder oplysning om køberens aktuelle cvr- eller SE-nummer for momsregistreringen.
