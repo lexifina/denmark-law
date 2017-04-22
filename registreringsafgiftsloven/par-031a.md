@@ -1,1 +1,1 @@
-§ 31 a. (Ophævet).
+§ 31 a. (Ophævet)
