@@ -31,3 +31,21 @@ Lov nr. 173 af 26. februar 2014 om ændring af lov om valg til Folketinget, lov 
 § 4
 
 Loven træder i kraft den 1. marts 2014.
+
+Lov nr. 1742 af 22. december 2015 om ændring af lov om valg til Folketinget, lov om valg af danske medlemmer til Europa-Parlamentet, lov om kommunale og regionale valg og lov om økonomisk støtte til politiske partier m.v. (Anmeldelse af kandidatlister, afskaffelse af pligt til opstilling til kommunale og regionale valg, åbningstid på valgdagen, frister for brevstemmeafgivning m.v.), hvis § 3 ændrer § 3, § 5, § 6 a, 2. pkt., og § 13, stk. 1, indsætter § 16, stk. 6, og § 18, stk. 1. 2. pkt., ændrer § 18, stk. 3, 1. pkt., § 19, stk. 2-4, § 20, stk. 1, 2. pkt., § 22, stk. 1, og § 23, stk. 1, indsætter § 23, stk. 1, 3. pkt., og § 23 a, ændrer § 24, stk. 1, 1. pkt., indsætter § 24, stk. 4, og § 25, stk. 1, 4. pkt., ændrer § 25, stk. 2 og 3, indsætter § 25, stk. 4 og 5, ændrer § 26, stk. 1, 1. pkt., indsætter § 26, stk. 2, og § 26 a, ændrer § 27, stk. 1, 1. pkt., og stk. 2, 1., 2. og 4 pkt., indsætter § 27, stk. 3, ændrer § 29, § 30, § 31, stk. 4, § 34, stk. 3, 2. pkt., og § 40, stk. 1, ophæver § 40, stk. 2, ændrer § 41, stk. 1, 2. og 3. pkt., ophæver § 41, stk. 2, indsætter § 43, stk. 2, ændrer § 44, stk. 1, 2. pkt., § 48, stk. 2, og § 52, stk. 1, 1. pkt., indsætter § 52, stk. 2, ændrer § 62, stk. 1, indsætter § 62, stk. 2, og ændrer § 64, stk. 3, og § 71 stk. 1, 1. pkt., og stk. 2, indeholder blandt andet følgende ikrafttrædelsesbestemmelse:
+
+§ 5
+
+Loven træder i kraft den 1. april 2016.
+
+Lov nr. 381 af 27. april 2016 om ændring af lov om valg af danske medlemmer til Europa-Parlamentet og lov om kommunale og regionale valg (Valgret til personer under værgemål med fratagelse af den retlige handleevne), hvis § 2 ophæver § 1, stk. 3, ændrer § 12, stk. 2, 1. pkt., og § 108 a, stk. 1, ophæver § 108 a, stk. 2, og ændrer § 108 a, stk. 3, indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 3
+
+Loven træder i kraft den 1. juli 2016.
+
+Lov nr. 175 af 21. februar 2017 om ændring af lov om valg til Folketinget, lov om valg af danske medlemmer til Europa-Parlamentet, lov om kommunale og regionale valg, lov om offentlige veje m.v. og lov om private fællesveje (Hjælp til stemmeafgivning, valgret til Europa-Parlamentsvalg m.v. for personer med midlertidigt ophold i andre dele af riget, folkeafstemninger i henhold til særlig lov, ophængningstidspunkt for valgplakater m.v.), hvis § 3 indsætter § 55, stk. 1, 2 pkt., ændrer § 55, stk. 2, 1. og 2. pkt., indsætter § 55, stk. 2, 3. pkt., ændrer § 55, stk. 3 og 4, indsætter § 55, stk. 5, ændrer § 57, stk. 1, og § 60, stk. 4, 3. pkt., indsætter § 67, stk. 4, 2. og 4. pkt., ændrer § 67, stk. 4, 3. og 5. pkt., stk. 5 og 6, og § 68, stk. 1, indsætter § 69, 2. pkt., ændrer § 106, stk. 3, 1. pkt., og indsætter § 106, stk. 4, indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 6
+
+Loven træder i kraft den 1. juli 2017.
