@@ -1,9 +1,5 @@
-Givet på Amalienborg, den 26. juni 1998
+Justitsministeriet, den 25. april 2017
 
-Under Vor Kongelige Hånd og Segl
+Søren Pape Poulsen
 
-MARGRETHE R.
-
-/ Frank Jensen
-
-Ingen
+/ Louise Falkenberg
