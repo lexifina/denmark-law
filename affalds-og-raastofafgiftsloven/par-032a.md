@@ -1,1 +1,1 @@
-§ 32a. (Ophævet).
+§ 32 a. (Ophævet)

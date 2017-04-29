@@ -1,1 +1,1 @@
-§ 12a. (Ophævet).
+§ 12 a. (Ophævet)
