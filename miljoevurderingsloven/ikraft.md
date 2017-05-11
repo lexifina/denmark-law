@@ -1,0 +1,31 @@
+Lov nr. 1715 af 27. december 2016 om Miljø- og Fødevareklagenævnet indeholder følgende ikrafttrædelses- og overgangsbestemmelse:
+
+§ 24. Loven træder i kraft den 1. februar 2017.
+
+Stk. 2. (Udelades)
+
+Stk. 3. Erhvervs- og vækstministeren kan efter høring af miljø- og fødevareministeren fastsætte overgangsregler.
+
+Stk. 4. Lov om Natur- og Miljøklagenævnet, jf. lovbekendtgørelse nr. 1205 af 28. september 2016, ophæves.
+
+Stk. 5. Regler, der er fastsat i henhold til hidtil gældende regler, forbliver i kraft, indtil de ophæves eller afløses af regler fastsat med hjemmel i denne lov. Overtrædelse af reglerne straffes efter de hidtil gældende regler.
+
+Stk. 6. Verserende klagesager i Natur- og Miljøklagenævnet eller Klagecenter for Fødevarer, Landbrug og Fiskeri, der ikke er færdigbehandlet ved denne lovs ikrafttræden, færdigbehandles og afgøres af Miljø- og Fødevareklagenævnet efter reglerne i denne lov. Dette gælder dog ikke verserende klagesager ved Natur- og Miljøklagenævnet, som ved lovens ikrafttræden skal færdigbehandles og afgøres af Planklagenævnet, jf. § 1 i lov om Planklagenævnet.
+
+Stk. 7. Gebyrbestemmelsen i § 18 gælder alene for klager, der er indbragt efter lovens ikrafttræden.
+
+Lov nr. 204 af 28. februar 2017 (Ny regulering af husdyrbrug m.v. og indførelse af generelle regler for anvendelse af gødning på arealer og for husdyrbrug m.v. som udmøntning af dele af fødevare- og landbrugspakken samt ændringer som følge af VVM-direktivet m.v.) indeholder følgende ikrafttrædelses- og overgangsbestemmelse:
+
+§ 9
+
+Stk. 1. Loven træder i kraft den 1. august 2017, jf. dog stk. 2.
+
+Stk. 2. (Udelades)
+
+§ 10
+
+(Udelades)
+
+§ 11
+
+(Udelades)
