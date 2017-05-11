@@ -1,10 +1,8 @@
-Givet på Amalienborg, den 18. maj 2016
+Miljøstyrelsen, den 10. maj 2017
 
-Under Vor Kongelige Hånd og Segl
+Hans Christian Karsten
 
-MARGRETHE R.
-
-/ Esben Lunde Larsen
+/ Thomas Bruun Jessen
 
 Bilag 1
 
@@ -350,9 +348,9 @@ b) Projekter i bilag 1, som udelukkende eller hovedsagelig tjener til udvikling 
 
 Bilag 3
 
-(Miljøvurderingsdirektivets bilag II)
+Kriterier for bestemmelse af den sandsynlige betydning af den indvirkning på miljøet, der er omhandlet i § 10
 
-## Kriterier for bestemmelse af den sandsynlige betydning af den indvirkning på miljøet, der er omhandlet i § 10
+(Miljøvurderingsdirektivets bilag II)
 
 1) Planernes og programmernes karakteristika, idet der navnlig tages hensyn til:
 
@@ -390,9 +388,9 @@ Bilag 3
 
 Bilag 4
 
-(Miljøvurderingsdirektivets bilag I)
+Oplysninger omhandlet i § 12
 
-## Oplysninger omhandlet i § 12
+(Miljøvurderingsdirektivets bilag I)
 
 De oplysninger, der i henhold til § 12, stk. 1, skal gives er med forbehold af § 12, stk. 2 og 3, følgende:
 
@@ -418,9 +416,9 @@ j) et ikketeknisk resumé af de oplysninger, der blev givet under ovennævnte pu
 
 Bilag 5
 
-(VVM-direktivets bilag II. A (ændringsdirektivet))
+Oplysninger som omhandlet i § 19, stk. 1, nr. 1 (Oplysninger fra bygherren om de i Bilag 2 opførte projekter)
 
-## OPLYSNINGER SOM OMHANDLET I § 19, stk. 1 nr. 1 (OPLYSNINGER FRA BYGHERREN OM DE I BILAG 2 OPFØRTE PROJEKTER)
+(VVM-direktivets bilag II. A (ændringsdirektivet))
 
 1. En beskrivelse af projektet, herunder navnlig:
 
@@ -440,13 +438,13 @@ b) brugen af naturressourcer, særlig jordarealer, jordbund, vand og biodiversit
 
 Bilag 6
 
-(VVM-direktivets bilag III (ændringsdirektivet))
+Udvælgelseskriterier omhandlet i § 21
 
-## UDVÆLGELSESKRITERIER OMHANDLET I § 21
+(VVM-direktivets bilag III (ændringsdirektivet))
 
 (KRITERIER TIL BESTEMMELSE AF, HVORVIDT PROJEKTER OMFATTET AF BILAG 2 SKAL UNDERKASTES EN MILJØKONSEKVENSVURDERING)
 
-## 1. Projekters karakteristika
+1. Projekters karakteristika
 
 Projekters karakteristika skal især anskues i forhold til:
 
@@ -490,7 +488,7 @@ vii) tætbefolkede områder
 
 viii) landskaber og lokaliteter af historisk, kulturel eller arkæologisk betydning.
 
-## 3. Arten af og kendetegn ved den potentielle indvirkning på miljøet
+3. Arten af og kendetegn ved den potentielle indvirkning på miljøet
 
 Projektets forventede væsentlige virkninger på miljøet skal ses i relation til de kriterier, der er anført under punkt 1 og 2 i dette bilag, og under hensyn til projektets indvirkning på de i § 20, stk. 4, nævnte faktorer, idet der skal tages hensyn til:
 
@@ -512,9 +510,9 @@ h) muligheden for reelt at begrænse indvirkningerne.
 
 Bilag 7
 
-(VVM-direktivets bilag IV (ændringsdirektivet))
+Oplysninger som omhandlet i § 20, stk. 1 (Oplysninger til miljøkonsekvensvurderingsrapporten)
 
-OPLYSNINGER SOM OMHANDLET I § 20, STK. 1 (OPLYSNINGER TIL MILJØKONSEKVENSVURDERINGSRAPPORTEN)
+(VVM-direktivets bilag IV (ændringsdirektivet))
 
 1. Beskrivelse af projektet, herunder navnlig:
 
