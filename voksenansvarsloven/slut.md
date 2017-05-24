@@ -1,7 +1,5 @@
-Givet på Christiansborg Slot, den 8. juni 2016
+Børne- og Socialministeriet, den 2. maj 2017
 
-Under Vor Kongelige Hånd og Segl
+P.M.V. Henrik Lund
 
-MARGRETHE R.
-
-/ Karen Ellemann
+/ Dan Holmgreen
