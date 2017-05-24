@@ -1,3 +1,3 @@
 Bekendtgørelse af lov om tjenestemænd
 
-Hermed bekendtgøres lov om tjenestemænd, jf. lovbekendtgørelse nr. 531 af 11. juni 2004, med de ændringer, der følger af § 2 i lov nr. 527 af 24. juni 2005, § 6 i lov nr. 1587 af 20. december 2006 og § 1 i lov nr. 484 af 17. juni 2008.
+Hermed bekendtgøres lov om tjenestemænd, jf. lovbekendtgørelse nr. 488 af 6. maj 2010, med de ændringer, der følger af § 4 i lov nr. 1365 af 28. december 2011, § 16 i lov nr. 628 af 8. juni 2016 og § 1 i lov nr. 1551 af 13. december 2016.
