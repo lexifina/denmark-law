@@ -1,3 +1,3 @@
 Bekendtgørelse af lov om pensionering af flyveledere
 
-Herved bekendtgøres lov nr. 112 af 21. marts 1979 om pensionering af flyveledere med de ændringer, der følger af lov nr. 373 af 14. juni 1995.
+Herved bekendtgøres lov om pensionering af flyveledere, jf. lovbekendtgørelse nr. 674 af 31. juli 1995, med de ændringer, der følger af § 3 i lov nr. 484 af 17. juni 2008 og § 13 i lov nr. 628 af 8. juni 2016.

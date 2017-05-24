@@ -1,7 +1,5 @@
-Finansministeriet, den 31. juli 1995
+Finansministeriet, den 18. maj 2017
 
-Mogens Lykketoft
+Sophie Løhde
 
-/ Lene Larsen
-
-Ingen
+/ Jesper Schaumburg-Müller
