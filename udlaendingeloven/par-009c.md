@@ -14,7 +14,7 @@ Stk. 3. Der kan gives opholdstilladelse til:
 
 2) En uledsaget udlænding under 18 år, der er meddelt afslag på en ansøgning om opholdstilladelse efter § 7, hvis der er grund til at antage, at udlændingen ved en tilbagevenden til hjemlandet eller det tidligere opholdsland vil være uden familiemæssigt netværk eller uden mulighed for ophold på et modtage- og omsorgscenter og dermed vil blive stillet i en reel nødsituation. Opholdstilladelsen kan ikke forlænges ud over udlændingens fyldte 18. år.
 
-Stk. 4. Der kan efter ansøgning gives opholdstilladelse til en udlænding, der udøver litterær virksomhed m.v., og som af en kommunalbestyrelse har fået tilbud om ophold i kommunen som led i kommunens medlemskab af en international organisation, der er godkendt af kulturministeren efter samråd med udlændinge-, integrations- og boligministeren.
+Stk. 4. Der kan efter ansøgning gives opholdstilladelse til en udlænding, der udøver litterær virksomhed m.v., og som af en kommunalbestyrelse har fået tilbud om ophold i kommunen som led i kommunens medlemskab af en international organisation, der er godkendt af kulturministeren efter samråd med udlændinge- og integrationsministeren.
 
 Stk. 5. Der kan gives opholdstilladelse til en udlænding, hvis tilstedeværelse her i landet er påkrævet af efterforsknings- eller retsforfølgningsmæssige hensyn. Opholdstilladelsen kan ikke forlænges ud over den periode, hvori efterforskningen eller retsforfølgningen pågår.
 

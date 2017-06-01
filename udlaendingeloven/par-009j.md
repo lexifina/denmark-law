@@ -18,4 +18,4 @@ Stk. 9. Opholdstilladelse efter stk. 1 kan ikke gives, hvis værtspersonen eller
 
 Stk. 10. En udlænding, der har opholdstilladelse efter stk. 1, kan udføre ulønnet frivilligt arbejde.
 
-Stk. 11. Udlændinge-, integrations- og boligministeren kan fastsætte nærmere regler om meddelelse af opholdstilladelse efter stk. 1.
+Stk. 11. Udlændinge- og integrationsministeren kan fastsætte nærmere regler om meddelelse af opholdstilladelse efter stk. 1.

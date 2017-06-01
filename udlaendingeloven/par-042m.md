@@ -2,4 +2,4 @@
 
 Stk. 2. Afvises en udlænding, som er indkvarteret på indkvarteringsstedet, som følge af at vedkommende nægter at lade sit tøj visitere eller lade medbragte effekter undersøge, jf. stk. 1, kan Udlændingestyrelsen pålægge udlændingen at tage ophold på et indkvarteringssted efter Udlændingestyrelsens nærmere bestemmelse.
 
-Stk. 3. Udlændinge-, integrations- og boligministeren fastsætter nærmere regler om gennemførelsen af adgangskontrollen efter stk. 1, herunder om visitation og undersøgelse af medbragte effekter.
+Stk. 3. Udlændinge- og integrationsministeren fastsætter nærmere regler om gennemførelsen af adgangskontrollen efter stk. 1, herunder om visitation og undersøgelse af medbragte effekter.

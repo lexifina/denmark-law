@@ -10,4 +10,4 @@ Stk. 2. Flytter en udlænding, som er omfattet af § 42 a, stk. 1 og 2, jf. stk.
 
 Stk. 3. Indkvarteringsoperatøren, jf. § 42 a, stk. 5, 2. pkt., kan efter anmodning fra Udlændingestyrelsen uden udlændingens samtykke videregive oplysningerne fra udlændingens kontrakt, jf. § 42 c, til Udlændingestyrelsen.
 
-Stk. 4. Udlændinge-, integrations- og boligministeren kan fastsætte nærmere regler om udvekslingen af oplysninger efter stk. 1, herunder om udveksling af oplysningerne i elektronisk form.
+Stk. 4. Udlændinge- og integrationsministeren kan fastsætte nærmere regler om udvekslingen af oplysninger efter stk. 1, herunder om udveksling af oplysningerne i elektronisk form.
