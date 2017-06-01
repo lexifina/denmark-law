@@ -4,4 +4,4 @@ Stk. 2. Ansøgning om opholdstilladelse efter stk. 1 kan kun indgives her i land
 
 Stk. 3. En ansøgning om forlængelse af en opholdstilladelse efter stk. 1 skal indgives før tilladelsens udløb, for at udlændingen kan anses for at have lovligt ophold efter stk. 2, 1. pkt. Stk. 2, 2. pkt., finder tilsvarende anvendelse.
 
-Stk. 4. Udlændinge-, integrations- og boligministeren kan fastsætte nærmere regler om meddelelse af opholdstilladelse efter stk. 1.
+Stk. 4. Udlændinge- og integrationsministeren kan fastsætte nærmere regler om meddelelse af opholdstilladelse efter stk. 1.

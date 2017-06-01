@@ -12,9 +12,9 @@ Stk. 4. En ansøgning om forlængelse af en opholdstilladelse efter stk. 1 og 2 
 
 Stk. 5. Opholdstilladelse efter stk. 2, nr. 1, skal betinges af, at udlændingen og personer, der meddeles opholdstilladelse som følge af familiemæssig tilknytning til udlændingen, ikke modtager hjælp efter lov om aktiv socialpolitik.
 
-Stk. 6. Udlændinge-, integrations- og boligministeren kan fastsætte nærmere regler om meddelelse af opholdstilladelse efter stk. 1, herunder om dokumentation for bestået anerkendt sprogtest og oprettelse af en spærret konto med et beløb svarende til op til 1 års ydelser i form af statens uddannelsesstøtte som betingelse for opholdstilladelse.
+Stk. 6. Udlændinge- og integrationsministeren kan fastsætte nærmere regler om meddelelse af opholdstilladelse efter stk. 1, herunder om dokumentation for bestået anerkendt sprogtest og oprettelse af en spærret konto med et beløb svarende til op til 1 års ydelser i form af statens uddannelsesstøtte som betingelse for opholdstilladelse.
 
-Stk. 7. Udlændinge-, integrations- og boligministeren kan efter forhandling med uddannelses- og forskningsministeren fastsætte nærmere regler om studieaktivitet for udlændinge, der er meddelt opholdstilladelse med henblik på at deltage i en professionsbachelor- eller erhvervsakademiuddannelse her i landet.
+Stk. 7. Udlændinge- og integrationsministeren kan efter forhandling med uddannelses- og forskningsministeren fastsætte nærmere regler om studieaktivitet for udlændinge, der er meddelt opholdstilladelse med henblik på at deltage i en professionsbachelor- eller erhvervsakademiuddannelse her i landet.
 
 Stk. 8. Til brug for Styrelsen for International Rekruttering og Integrations afgørelser om meddelelse af opholdstilladelse efter stk. 1 til udlændinge, der er optaget på en uddannelse eller et kursus ved en uddannelsesinstitution her i landet, og som ikke er omfattet af de i medfør af stk. 6 fastsatte regler, afgiver Danmarks Evalueringsinstitut efter anmodning fra uddannelsesinstitutionen en vejledende udtalelse om indhold og kvalitet i følgende uddannelser:
 

@@ -6,7 +6,7 @@ Stk. 3. Ved Schengengrænsekodeksen forstås i denne lov forordning om indførel
 
 Stk. 4. Bestemmelserne i Europa-Parlamentets og Rådets forordning om en fællesskabskodeks for visa (visumkodeks) med senere ændringer gælder her i landet.
 
-Stk. 5. Udlændinge-, integrations- og boligministeren kan fastsætte regler om optagelse af personfotografi og fingeraftryk af en udlænding, der søger visum til Danmark.
+Stk. 5. Udlændinge- og integrationsministeren kan fastsætte regler om optagelse af personfotografi og fingeraftryk af en udlænding, der søger visum til Danmark.
 
 Stk. 6. Bestemmelserne i Europa-Parlamentets og Rådets forordning om visuminformationssystemet (VIS) og udveksling af oplysninger mellem medlemsstaterne om visa til kortvarigt ophold (VIS-forordningen) med senere ændringer gælder her i landet.
 
