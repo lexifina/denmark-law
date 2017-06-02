@@ -1,7 +1,5 @@
-Givet på Amalienborg, den 27. februar 2001
+Forsvarsministeriet, den 24. maj 2017
 
-Under Vor Kongelige Hånd og Segl
+Claus Hjort Frederiksen
 
-I Dronningens navn Joachim Prins til Danmark Rigsforstander
-
-/Jan Trøjborg
+/ Jon Bach Holm
