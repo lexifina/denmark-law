@@ -1,12 +1,12 @@
-Økonomi- og Indenrigsministeriet, den 9. januar 2013
+Økonomi- og Indenrigsministeriet, den 2. juni 2017
 
-P.M.V. Helle Birkman Smith
+P.M.V. Carsten Grage
 
-/ Carsten Grage
+/ Katrine McGrath
 
 Bilag 1
 
-Dataindholdet i Det Centrale Personregister (CPR), jf. § 4, er følgende:
+Dataindholdet i Det Centrale Personregister (CPR), jf. § 4 er følgende:
 
 1) Personnummeroplysninger: Personnummer, jf. § 3, henvisning mellem nyt og tidligere personnummer, der opbevares i CPR (historisk), samt ved ændring af personnummer, f.eks. ved fejl i køn og fødselsdato, jf. § 3, stk. 5.
 
@@ -14,7 +14,7 @@ Dataindholdet i Det Centrale Personregister (CPR), jf. § 4, er følgende:
 
 3) Adresseoplysninger:
 
-a) Kommune, vej, husnummer, etage, side-dørnummer, bygningsnummer, c/o-navn, lokalitet, bynavn, postnummer og postdistrikt.
+a) Kommune, vej, husnummer, etage, side-dørnummer, bygningsnummer, c/o-navn, bynavn, postnummer og postdistrikt.
 
 b) Udenlandsadresse, jf. § 26, stk. 3.
 
@@ -38,7 +38,7 @@ f) Flyttepåbud efter lov om planlægning (sommerhuse).
 
 9) Statusoplysninger: Angivelse af, om pågældende er registreret i CPR på grund af aktuel eller tidligere bopælsmæssig tilknytning til Danmark eller Grønland i form af bopæl, uden fast bopæl, forsvinding, udrejse eller død, eller om vedkommende er registreret alene på grund af inddragelse under ATP, jf. § 3, stk. 1, nr. 2, eller skattesagsbehandling, jf. § 3, stk. 1, nr. 3. Endvidere er for visse personnumre registreret reservation, annullation, ændring eller sletning på grund af fejlregistrering.
 
-10) Eventuelle beskyttelsesoplysninger: Eventuel navne- og adressebeskyttelse, jf. § 28, lokalvejviserbeskyttelse, jf. § 29, stk. 1, beskyttelse mod forskerhenvendelse, jf. § 29, stk. 2, eller markering af, at den pågældende frabeder sig henvendelser, der sker i markedsføringsøjemed, jf. § 29, stk. 3. Tidligere beskyttelsesoplysninger bevares i CPR (historisk).
+10) Eventuelle beskyttelsesoplysninger: Eventuel navne- og adressebeskyttelse, jf. § 28, lokalvejviserbeskyttelse, jf. § 29, stk. 1, markering af, at den pågældende frabeder sig henvendelser, der sker i markedsføringsøjemed, jf. § 29, stk. 2, eller markering af, at vedkommende ønsker at advare mod kreditgivning i vedkommendes navn, jf. § 29, stk. 3. Tidligere beskyttelsesoplysninger bevares i CPR (historisk).
 
 11) Eventuelle stillingsoplysninger: Eventuel stillingsangivelse, som vedkommende tidligere har anmodet om, og som pågældende kan få ændret eller slettet ved henvendelse til bopælskommunen.
 
