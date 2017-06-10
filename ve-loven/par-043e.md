@@ -8,6 +8,6 @@ Stk. 4. Det i § 43 a, stk. 5, nævnte pristillæg på 10 øre pr. kWh nedsætte
 
 Stk. 5. Ved beregningen efter stk. 1 anvendes den gennemsnitlige markedspris på naturgas i kalenderåret. Ved markedspris forstås den daglige day ahead-slutpris i kroner pr. kubikmeter på den danske gasbørs, Nordpool Gas, omregnet til kroner pr. GJ med gassens nedre brændværdi.
 
-Stk. 6. Priser, tilskud og pristillæg nævnt i stk. 1-3, § 43 a, stk. 6, og § 44, stk. 4, beregnes med én decimal.
+Stk. 6. Priser, tilskud og pristillæg nævnt i stk. 1-3 og § 43 a, stk. 6, beregnes med én decimal.
 
 Stk. 7. Staten afholder udgifterne til tilskud til biogas efter bestemmelserne i §§ 43 b-43 e og omkostningerne forbundet med administration af ordningerne inden for en bevillingsramme fastsat på finansloven.
