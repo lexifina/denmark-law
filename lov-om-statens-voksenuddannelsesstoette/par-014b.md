@@ -1,0 +1,5 @@
+§ 14 b. Retten til SVU bortfalder for den resterende del af uddannelsesforløbet, hvis politiet træffer afgørelse om inddragelse af en uddannelsessøgendes pas i medfør af § 2, stk. 1, nr. 4, i lov om pas til danske statsborgere m.v., fordi der er grund til at antage, at den pågældende i udlandet deltager i aktiviteter, hvor dette kan indebære eller forøge en fare for statens sikkerhed eller andre staters sikkerhed eller en væsentlig trussel mod den offentlige orden. Bortfald af SVU sker med udgangen af den kalenderuge, hvor den uddannelsessøgende har fået inddraget sit pas.
+
+Stk. 2. Omgøres en afgørelse om inddragelse af pas i medfør af § 2, stk. 1, nr. 4, i lov om pas til danske statsborgere m.v., eller ophæves den under en efterfølgende domstolsprøvelse, kan ansøgeren søge om at blive stillet, som om der ikke var sket bortfald af SVU, jf. stk. 1, såfremt betingelserne for tildeling i øvrigt var opfyldt i perioden.
+
+Stk. 3. Er SVU ophørt efter stk. 1, er det en betingelse for fornyet udbetaling af SVU, at den uddannelsessøgende har dokumenteret sin tilstedeværelse i Danmark ved fremmøde hos politiet.
