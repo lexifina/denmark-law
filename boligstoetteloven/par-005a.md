@@ -1,0 +1,13 @@
+§ 5 a. Ansøgeren har ikke ret til boligstøtte, hvis politiet træffer afgørelse om inddragelse af den pågældendes pas i medfør af § 2, stk. 1, nr. 4, i lov om pas til danske statsborgere m.v., fordi der er grund til at antage, at ansøgeren i udlandet deltager i aktiviteter, hvor dette kan indebære eller forøge en fare for statens sikkerhed eller andre staters sikkerhed eller en væsentlig trussel mod den offentlige orden. En person medregnes ikke i husstanden, hvis politiet træffer afgørelse om inddragelse af den pågældendes pas i medfør af § 2, stk. 1, nr. 4, i lov om pas til danske statsborgere m.v., fordi der er grund til at antage, at personen i udlandet deltager i aktiviteter, hvor dette kan indebære eller forøge en fare for statens sikkerhed eller andre staters sikkerhed eller en væsentlig trussel mod den offentlige orden.
+
+Stk. 2. Har ansøgeren ikke ret til boligstøtte efter stk. 1, bortfalder boligstøtten for hele husstanden, medmindre der er en anden ansøger i husstanden.
+
+Stk. 3. Udbetaling Danmark skal ved afgørelse om bortfald af boligstøtte vejlede husstandens øvrige medlemmer om muligheden for at søge boligstøtte.
+
+Stk. 4. Omgøres en afgørelse om inddragelse af pas i medfør af § 2, stk. 1, nr. 4, i lov om pas til danske statsborgere m.v., eller ophæves den under en efterfølgende domstolsprøvelse, efterbetales den del af boligstøtten, der ikke er udbetalt under ophøret, jf. stk. 1, hvis de øvrige betingelser for boligstøtte var opfyldt i perioden.
+
+Stk. 5. Ved omgørelse efter stk. 4 skal den boligstøtte, der er betalt for meget til husstanden under ophøret, tilbagebetales, hvis betingelserne i øvrigt er opfyldt.
+
+Stk. 6. Er udbetaling af boligstøtte bortfaldet, eller er boligstøtten omberegnet, er det en betingelse for fornyet ret til eller omberegning af boligstøtten, at personen dokumenterer sin tilstedeværelse i Danmark ved fremmøde hos politiet. Har boligstøtten været bortfaldet, skal der ansøges om boligstøtte på ny.
+
+Stk. 7. Ansøgeren har ikke ret til boligstøtte og ansøgeren og personen medregnes ikke i husstanden for en periode, hvor ansøgeren eller personen ved endelig dom findes at have overtrådt straffelovens § 101 a, stk. 1, § 114 c, stk. 3, § 114 d, § 114 g eller § 114 e i udlandet, straffelovens § 114 j, stk. 1, eller for en periode, hvor den pågældende ved endelig dom findes at have været i udlandet i strid med et udrejseforbud fastsat i medfør af § 2 b, stk. 1, i lov om pas til danske statsborgere m.v. Udbetaling Danmark skal træffe afgørelse om tilbagebetaling af boligstøtte for de dage, hvor ansøgeren eller personen er dømt for overtrædelse af de nævnte bestemmelser.

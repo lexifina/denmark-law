@@ -1,0 +1,5 @@
+§ 10 i. Der skal ske tilbagebetaling af børnetilskud efter §§ 2-4 og 10 a, som er udbetalt for perioder, hvor barnet ved endelig dom findes at have overtrådt straffelovens § 101 a, stk. 1, § 114 c, stk. 3, §§ 114 d, 114 e eller 114 g for forhold begået i udlandet, straffelovens § 114 j, stk. 1, eller for en periode, hvor barnet ved endelig dom findes at have været i udlandet i strid med et udrejseforbud fastsat i medfør af § 2 b, stk. 1, i lov om pas til danske statsborgere m.v.
+
+Stk. 2. Der skal ske tilbagebetaling af tilskud efter §§ 10 b-10 d, som er udbetalt for perioder, hvor forælderen ved endelig dom findes at have overtrådt straffelovens § 101 a, stk. 1, § 114 c, stk. 3, §§ 114 d, 114 e eller 114 g for forhold begået i udlandet, straffelovens § 114 j, stk. 1, eller for en periode, hvor den pågældende ved endelig dom findes at have været i udlandet i strid med et udrejseforbud fastsat i medfør af § 2 b, stk. 1, i lov om pas til danske statsborgere m.v.
+
+Stk. 3. Udbetaling Danmark skal træffe afgørelse om tilbagebetaling af tilskud for den periode, hvor barnet eller forælderen er dømt for overtrædelse af de i stk. 1 og 2 nævnte bestemmelser.

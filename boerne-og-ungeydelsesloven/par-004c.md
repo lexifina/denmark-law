@@ -1,0 +1,5 @@
+§ 4 c. Der skal ske tilbagebetaling af børne- og ungeydelse udbetalt for en periode, hvor ydelsesmodtageren ved endelig dom findes at have overtrådt straffelovens § 101 a, stk. 1, § 114 c, stk. 3, §§ 114 d, 114 e eller 114 g for forhold begået i udlandet, straffelovens § 114 j, stk. 1, eller for en periode, hvor den pågældende ved endelig dom findes at have været i udlandet i strid med et udrejseforbud fastsat i medfør af § 2 b, stk. 1, i lov om pas til danske statsborgere m.v. 1. pkt. gælder tilsvarende, hvis barnet, som børne- og ungeydelsen udbetales for, dømmes efter de nævnte bestemmelser.
+
+Stk. 2. Udbetaling Danmark skal træffe afgørelse om tilbagebetaling af børne- og ungeydelse udbetalt til personen for den periode, hvor personen er dømt for overtrædelse af de i stk. 1 nævnte bestemmelser.
+
+Stk. 3. Er der sket tilbagebetaling efter stk. 1, 1. pkt., udbetales børne- og ungeydelsen for perioden til den person, som barnet bor hos. Udbetaling Danmark kan bestemme, at børne- og ungeydelsen skal udbetales til barnet selv, hvis det skønnes bedst for barnet.

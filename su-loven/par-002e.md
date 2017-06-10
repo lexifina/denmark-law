@@ -1,0 +1,5 @@
+§ 2 e. Retten til uddannelsesstøtte ophører, hvis politiet træffer afgørelse om inddragelse af en uddannelsessøgendes pas i medfør af § 2, stk. 1, nr. 4, i lov om pas til danske statsborgere m.v., fordi der er grund til at antage, at den uddannelsessøgende i udlandet deltager i aktiviteter, hvor dette kan indebære eller forøge en fare for statens sikkerhed eller andre staters sikkerhed eller en væsentlig trussel mod den offentlige orden. Udbetaling af uddannelsesstøtte ophører fra den måned, der følger efter måneden, hvor den uddannelsessøgende har fået inddraget sit pas.
+
+Stk. 2. Omgøres en afgørelse om inddragelse af pas i medfør af § 2, stk. 1, nr. 4, i lov om pas til danske statsborgere m.v., eller ophæves den under en efterfølgende domstolsprøvelse, efterbetales den del af uddannelsesstøtten, der ikke er udbetalt under ophøret, jf. stk. 1, såfremt de øvrige støttebetingelser var opfyldt i perioden.
+
+Stk. 3. Er uddannelsesstøtte ophørt efter stk. 1, er det en betingelse for fornyet udbetaling af uddannelsesstøtte, at den uddannelsessøgende har dokumenteret sin tilstedeværelse i Danmark ved fremmøde hos politiet.
