@@ -1,10 +1,10 @@
-§ 51 a. Kommunalbestyrelsen skal hvert år pr. 1. oktober påbyde enhver, som er registreret i CPR med bopæl i en bolig i et sommerhusområde, som den pågældende ikke lovligt kan anvende til helårsbeboelse, jf. §§ 40 og 41, inden 14 dage efter påbuddets meddelelse
+§ 51 a. Kommunalbestyrelsen skal hvert år pr. 1. november påbyde enhver, som er registreret i CPR med bopæl i en bolig i et sommerhusområde, som den pågældende ikke lovligt kan anvende til helårsbeboelse, jf. §§ 40 og 41, inden 14 dage efter påbuddets meddelelse
 
 1) at fraflytte boligen og
 
 2) at dokumentere fraflytningen over for kommunalbestyrelsen.
 
-Stk. 2. Tilsvarende påbud skal kommunalbestyrelsen meddele enhver, som i perioden fra 1. oktober til 1. marts bliver registreret i CPR med bopæl i en bolig i et sommerhusområde, som den pågældende ikke lovligt kan anvende til helårsbeboelse, jf. §§ 40 og 41. Påbud efter 1. pkt. meddeles senest 14 dage efter, at den pågældendes bopæl er blevet registreret i CPR.
+Stk. 2. Tilsvarende påbud skal kommunalbestyrelsen meddele enhver, som i perioden fra den 1. november til den 1. februar bliver registreret i CPR med bopæl i en bolig i et sommerhusområde, som den pågældende ikke lovligt kan anvende til helårsbeboelse, jf. §§ 40 og 41. Påbud efter 1. pkt. meddeles senest 14 dage efter, at den pågældendes bopæl er blevet registreret i CPR.
 
 Stk. 3. Kommunalbestyrelsen registrerer påbud efter stk. 1 og 2 i CPR samtidig med påbuddets meddelelse og sletter denne registrering, når påbuddet er efterkommet og den pågældende er registreret i CPR med en anden bopæl. Indenrigsministeren fastsætter nærmere regler om registreringen.
 

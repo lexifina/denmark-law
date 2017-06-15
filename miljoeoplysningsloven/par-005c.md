@@ -1,0 +1,1 @@
+§ 5 c. Miljø- og fødevareministeren udgiver under inddragelse af berørte landsdækkende miljø-, erhvervs-, arbejdsmarkeds- og forbrugerorganisationer mindst hvert fjerde år en eller flere rapporter, der redegør for miljøtilstanden i Danmark og for natur- og miljøpolitikken.

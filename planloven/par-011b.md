@@ -12,7 +12,7 @@
 
 6) forsyningen med offentlig og privat service,
 
-7) områder til butiksformål, herunder rammer for det maksimale bruttoetageareal for nybyggeri og omdannelse af eksisterende bebyggelse til butiksformål, for maksimale bruttoetagearealer for de enkelte butikker og for antallet og placeringen af udvalgsvarebutikker omfattet af § 5 q, stk. 2,
+7) områder til butiksformål, herunder maksimale bruttoetagearealer for de enkelte butikker,
 
 8) institutioner og tekniske anlæg, herunder varmeforsyningsforhold,
 
@@ -22,8 +22,24 @@
 
 11) overførsel af arealer til byzone eller sommerhusområder,
 
-12) rækkefølgen for bebyggelse og ændret anvendelse af arealer til byformål, de i nr. 5 nævnte byomdannelsesområder og sommerhusområder og
+12) rækkefølgen for bebyggelse og ændret anvendelse af arealer til byformål, de i nr. 5 nævnte byomdannelsesområder og sommerhusområder,
 
-13) anvendelsen af vandområder og udformning af anlæg på vandområder i et byomdannelsesområde inden for eller i tilknytning til en havns dækkende værker.
+13) anvendelsen af vandområder og udformning af anlæg på vandområder i et byomdannelsesområde inden for eller i tilknytning til en havns dækkende værker,
 
-Stk. 2. Kommuneplanen kan indeholde retningslinjer for andre forhold end nævnt i stk. 1 og § 11 a, stk. 1, der kan være af betydning for arealanvendelsen og bebyggelsen, herunder beliggenheden af arealer til lokalisering af landbrugets driftsbygninger og driftsanlæg inden for de udpegede særlig værdifulde landbrugsområder, jf. § 11 a, stk. 1, nr. 9.
+14) sikring af, at erhvervsarealer langs motorvejen prioriteres til transport- og logistikvirksomheder og andre transporttunge virksomheder, og
+
+15) konsekvensområder omkring erhvervsområder forbeholdt produktionsvirksomheder og transformationsområder inden for konsekvensområder.
+
+Stk. 2. Kommuneplanen kan indeholde retningslinjer for andre forhold end nævnt i stk. 1 og § 11 a, stk. 1, der kan være af betydning for arealanvendelsen og bebyggelsen, herunder beliggenheden af arealer til lokalisering af landbrugets driftsbygninger og driftsanlæg inden for de udpegede særlig værdifulde landbrugsområder, jf. § 11 a, stk. 1, nr. 10.
+
+Stk. 3. Kommunalbestyrelsen kan, uanset § 11 a, stk. 8, i særlige tilfælde fastsætte rammer i kommuneplanen for eksisterende fødevarevirksomheder med besøgsfaciliteter, der bidrager til områdets turisme, hvis
+
+1) fødevarevirksomheden udspringer af en produktion knyttet til lokale råvarer og stadig baserer produktionen på råvarer fra landbruget,
+
+2) fødevarevirksomheden har eksisteret på stedet i mindst 5 år,
+
+3) fødevarevirksomheden ønsker at etablere eller udvide faciliteter til besøgsturisme, som bidrager til områdets turisme, og
+
+4) der er en funktionel sammenhæng mellem fødevarevirksomheden og besøgsfaciliteterne.
+
+Stk. 4. Kommunalbestyrelsen kan i særlige tilfælde, uanset § 11 a, stk. 8, fastsætte rammer for overførsel af arealer i landzone til byzone for veletablerede virksomheder, f.eks. produktionsvirksomheder, hvis virksomheden over en længere årrække har foretaget væsentlige investeringer i bebyggelse eller i produktion, hvis virksomheden er beliggende i tilknytning til eksisterende nødvendig infrastruktur.

@@ -1,1 +1,1 @@
-§ 35 a. (Ophævet)
+§ 35 a. Kommunalbestyrelsen kan i særlige tilfælde meddele tilladelse efter § 35 til udvidelse eller ændring af eksisterende vognmandsvirksomheder, der før den 15. juni 2017 har ligget på stedet i en længere årrække.
