@@ -2,27 +2,31 @@
 
 1) den forudsatte rækkefølge for planens gennemførelse,
 
-2) hvordan kommuneplanen forholder sig til den regionale udviklingsplan, jf. § 10 a, samt den vedtagne strategi for udviklingen, jf. § 23 a,
+2) hvordan kommuneplanen forholder sig til den vedtagne strategi for udviklingen, jf. § 23 a,
 
-3) grundlaget for udpegning af eksisterende og potentielle naturområder, som skal indgå i Grønt Danmarkskort, jf. § 11 a, stk. 1, nr. 13,
+3) grundlaget for udpegning af naturområder, som skal indgå i Grønt Danmarkskort, jf. § 11 a, stk. 1, nr. 14, og § 11 a, stk. 2.
 
 4) beskyttede områder efter anden lovgivning og eventuelle arealreservationer efter sektorlove eller projekterings- og anlægslove,
 
-5) de i vandplanen og Natura 2000-planen, jf. lov om miljømål m.v. for vandforekomster og internationale naturbeskyttelsesområder (miljømålsloven), og de i Natura 2000-skovplanen, jf. kapitel 4 i lov om skove, fastsatte bestemmelser, der er relevante for planlægningen af arealanvendelsen inden for kommuneplanens geografiske område,
+5) regler om indsatsprogram udstedt med hjemmel i lov om vandplanlægning,
 
-6) handleplaner for kommunens realisering af vandplanen og Natura 2000-planen efter §§ 31 a og 46 a i lov om miljømål m.v. for vandforekomster og internationale naturbeskyttelsesområder (miljømålsloven),
+6) kommuneplanens sammenhæng med de udpegede områder med særlige drikkevandsinteresser og indvindingsoplande til almene vandforsyninger uden for disse, jf. § 11 a, stk. 1, nr. 2 og 3, i lov om vandforsyning m.v., og med regler udstedt med hjemmel i § 11 a, stk. 2, i lov om vandforsyning m.v. for myndighedernes administration inden for de udpegede områder,
 
-7) kommuneplanens sammenhæng med den kommunale risikostyringsplan, jf. kapitel 3 i lov om vurdering og styring af oversvømmelsesrisikoen fra vandløb og søer og bekendtgørelse om vurdering og risikostyring for oversvømmelser fra havet, fjorde eller andre dele af søterritoriet,
+7) de i Natura-2000 planen, jf. lov om miljømål m.v. for internationale naturbeskyttelsesområder (miljømålsloven), og de i Natura 2000-skovplanen, jf. kapitel 4 i lov om skove, fastsatte bestemmelser, der er relevante for planlægningen af arealanvendelsen inden for kommuneplanens geografiske område,
 
-8) de i råstofplanen, jf. § 5 a i lov om råstoffer, fastsatte bestemmelser, der er relevante for planlægningen af arealanvendelsen inden for kommunens geografiske område,
+8) handleplaner for kommunens realisering af Natura 2000-planen efter § 46 a i lov om miljømål m.v. for internationale naturbeskyttelsesområder (miljømålsloven),
 
-9) den fremtidige udvikling i kystnærhedszonen og de tilgrænsende vandområder,
+9) kommuneplanens sammenhæng med den kommunale risikostyringsplan, jf. kapitel 3 i lov om vurdering og styring af oversvømmelsesrisikoen fra vandløb og søer og bekendtgørelse om vurdering og risikostyring for oversvømmelser fra havet, fjorde eller andre dele af søterritoriet,
 
-10) kommuneplanens sammenhæng med kommuneplanlægningen i nabokommunerne og
+10) de i råstofplanen, jf. § 5 a i lov om råstoffer, fastsatte bestemmelser, der er relevante for planlægningen af arealanvendelsen inden for kommunens geografiske område,
 
-11) kommuneplanens sammenhæng med den statslige trafikplan og trafikselskabernes trafikplan for offentlig service.
+11) den fremtidige udvikling i kystnærhedszonen, herunder udviklingsområder og større sammenhængende naturområder (Grønt Danmarkskort), og de tilgrænsende vandområder,
 
-Stk. 2. På et kortbilag til redegørelsen skal de eksisterende og planlagte forhold i kystnærhedszonen vises, herunder hvilke områder der friholdes for bebyggelse.
+12) kommuneplanens sammenhæng med kommuneplanlægningen i nabokommunerne og
+
+13) kommuneplanens sammenhæng med den statslige trafikplan og trafikselskabernes trafikplan for offentlig service.
+
+Stk. 2. På et kortbilag til redegørelsen skal de eksisterende og planlagte forhold i kystnærhedszonen og udviklingsområder vises, herunder hvilke områder der friholdes for bebyggelse.
 
 Stk. 3. Redegørelsen for den del af kommuneplanen, der indeholder rammer for forsyningen med butikker, jf. § 11 b, stk. 1, nr. 7, skal indeholde
 
@@ -30,20 +34,26 @@ Stk. 3. Redegørelsen for den del af kommuneplanen, der indeholder rammer for fo
 
 2) en vurdering af behovet for nybyggeri eller omdannelse af eksisterende bebyggelse til butiksformål,
 
-3) en angivelse af målene for detailhandelsstrukturen, herunder en angivelse af, hvilket opland der forudsættes betjent af de butikker, der kan placeres inden for de udlagte arealer,
+3) en vurdering af nr. 1 og 2 i relation til målene for detailhandelsstrukturen, herunder en angivelse af, hvilket opland der forudsættes betjent af de butikker, der kan placeres inden for de udlagte arealer,
 
-4) oplysning om, hvordan planlægningen tilgodeser målene for den kommunale hovedstruktur, herunder hvordan forslaget fremmer et varieret butiksudbud i de mindre og mellemstore byer samt bymiljøet i de områder, der foreslås udlagt til butiksformål, og
+4) oplysning om, hvordan planlægningen tilgodeser målene for den kommunale hovedstruktur, herunder hvordan forslaget fremmer konkurrence og et varieret butiksudbud i de mindre og mellemstore byer samt bymiljøet i de områder, der foreslås udlagt til butiksformål, og
 
 5) en angivelse af tilgængeligheden for de forskellige trafikarter til de udlagte arealer til butiksformål.
 
-Stk. 4. Redegørelsen for den del af kommuneplanen, der indeholder rammer for etableringen af udvalgsvarebutikker med et bruttoetageareal på mere end 2.000 m2, jf. § 5 q, stk. 2, skal indeholde
+Stk. 4. Redegørelsen for den del af kommuneplanen, som indeholder rammer for aflastningsområder, jf. § 5 n, stk. 1, nr. 1, skal indeholde en redegørelse for det kundegrundlag, som etableringen af nye butikker baseres på, og det opland, som aflastningsområdet henvender sig til, samt en vurdering af,
 
-1) angivelse af målene for detailhandelsstrukturen i bymidten,
+1) hvordan det planlagte aflastningsområde kan styrke konkurrencen med et større vareudvalg og lavere priser til fordel for forbrugerne,
 
-2) beskrivelse af, hvordan etableringen af store udvalgsvarebutikker tilgodeser målene for detailhandelsstrukturen i kommunen, samt af forventede konsekvenser for bymiljøet i bymidten og for bydelscentrene og oplandet og
+2) hvordan det planlagte aflastningsområde kan påvirke butiksforsyningen i bymidten i de mindre oplandsbyer og i landdistrikterne, og
 
-3) angivelse af tilgængeligheden for de forskellige trafikarter til de store butikker og en beskrivelse af, hvordan parkeringsmulighederne kan indpasses i de pågældende områder.
+3) hvordan det planlagte aflastningsområde, bl.a. set i forhold til kommunens størrelse, forventes at påvirke byens samlede oplandseffekt i forhold til nabokommuner.
 
-Stk. 5. Redegørelsen for den del af kommuneplanen, som indeholder rammer for udvidelse af aflastningsområder til store butikker, jf. § 5 p, stk. 4, skal indeholde en beskrivelse af, hvorfor en placering i bymidten ikke er mulig. I beskrivelsen skal indgå en vurdering af alternative placeringsmuligheder, herunder ved udvidelse af bymidten, ved ændring af projektets størrelse og udformning og ved forskellige trafikale løsninger. I vurderingen skal indgå overvejelser om konsekvenser for detailhandelen i bymidten, tilgængeligheden for forskellige trafikarter og parkeringsmuligheder.
+Stk. 5. Redegørelsen for den del af kommuneplanen, som indeholder bestemmelser om en ændret afgrænsning af bymidten eller bydelscentre, skal indeholde
 
-Stk. 6. Redegørelsen for den del af kommuneplanen, der indeholder rammer for etablering af møbelbutikker uden for bymidten, jf. § 5 n, stk. 1, nr. 3, skal indeholde en beskrivelse af, hvorfor placering i bymidten ikke lader sig gøre. Redegørelsen skal endvidere indeholde en beskrivelse af mulighederne for placering i et bydelscenter og, hvis denne placering ikke viser sig mulig, for placering i et aflastningsområde med overskydende rummelighed og, hvis denne ikke viser sig mulig, for placering i et område udlagt til brug for særlig pladskrævende varegrupper. I beskrivelsen skal indgå en vurdering af alternative placeringsmuligheder, herunder ved udvidelse af bymidten, ved ændring af projektets størrelse og udformning og ved forskellige trafikale løsninger. I vurderingen af de alternative placeringsmuligheder skal indgå overvejelser om konsekvenser for bymiljøet og tilgængeligheden for forskellige trafikarter og parkeringsmuligheder.
+1) en vurdering af og en begrundelse for behovet for nybyggeri eller omdannelse af eksisterende bebyggelse til butiksformål ved ændret afgrænsning af bymidten eller bydelscenteret,
+
+2) en vurdering af mulige områder, der kan inddrages i bymidten eller bydelscenteret, og en begrundelse for, hvorfor det pågældende område eller de pågældende områder ønskes inddraget i bymidten eller bydelscenteret,
+
+3) oplysning om, hvordan planlægningen tilgodeser målene for den kommunale detailhandelsstruktur, og
+
+4) en beskrivelse af konsekvenser for bymiljøet og for afviklingen af trafikken til og fra bymidten eller bydelscenteret, herunder tilgængeligheden for forskellige trafikarter samt parkeringsmuligheder.

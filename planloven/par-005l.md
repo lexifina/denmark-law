@@ -6,6 +6,6 @@
 
 1) fremme et varieret butiksudbud i mindre og mellemstore byer samt i de enkelte bydele i de større byer,
 
-2) sikre, at arealer til butiksformål udlægges, hvor der er god tilgængelighed for alle trafikarter, herunder især den gående, cyklende og kollektive trafik, og
+2) sikre, at arealer til butiksformål udlægges, hvor der er god tilgængelighed for alle trafikarter, og så transportafstandene i forbindelse med indkøb er begrænsede, og
 
-3) fremme en samfundsmæssigt bæredygtig detailhandelsstruktur, hvor transportafstandene i forbindelse med indkøb er begrænsede.
+3) skabe gode rammer for velfungerende markeder med en effektiv butiksstruktur.

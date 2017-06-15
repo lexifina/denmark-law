@@ -4,12 +4,42 @@
 
 2) at der bortset fra trafikhavneanlæg og andre overordnede infrastrukturanlæg kun i ganske særlige tilfælde kan planlægges for bebyggelse og anlæg på land, som forudsætter inddragelse af arealer på søterritoriet eller særlig kystbeskyttelse,
 
-3) at nye sommerhusområder ikke må udlægges, og at eksisterende sommerhusområder skal fastholdes til ferieformål, jf. dog stk. 2,
+3) at nye sommerhusområder ikke må udlægges, og at eksisterende sommerhusområder skal fastholdes til ferieformål, jf. dog stk. 4,
 
 4) at ferie- og fritidsanlæg skal lokaliseres efter sammenhængende turistpolitiske overvejelser og kun i forbindelse med eksisterende bysamfund eller større ferie- og fritidsbebyggelser, og
 
 5) at offentlighedens adgang til kysten skal sikres og udbygges.
 
-Stk. 2. Erhvervs- og vækstministeren kan fastsætte regler efter § 3, stk. 1, og stk. 2, 1. pkt., der fraviger stk. 1, nr. 3, således at eksisterende sommerhusområder inden for kystnærhedszonen og primært i landets yderområder kan udvides ved lokalplan, når udvidelsen sker bag ved et sommerhusområde og i retning væk fra kysten. Udvidelse af eksisterende sommerhusområder kan alene ske uden for arealer, der er omfattet af §§ 8 og 15 i naturbeskyttelsesloven om klitfredning og strandbeskyttelse og inden for en ramme af højst 8.000 nye sommerhusgrunde i landet som helhed. Ved afgørelsen af, hvilke sommerhusområder der kan udvides, skal ministeren finde det godtgjort, at udvidelsen ikke vil tilsidesætte væsentlige naturbeskyttelses- og landskabelige interesser, og at udvidelsen kan forventes at få en lokal økonomisk effekt.
+Stk. 2. Erhvervsministeren kan efter ansøgning fra kommunalbestyrelser fastsætte regler efter § 3, stk. 1 og stk. 2, 1. pkt., der fraviger stk. 1, nr. 1, og således udpege udviklingsområder i kystnærhedszonen, hvis udviklingsområderne ikke omfatter arealer med særlige natur-, miljø- og landskabsinteresser.
 
-Stk. 3. Kravene i stk. 2 til placering af nye sommerhusområder kan fraviges på de små øer, hvis det findes begrundet efter en samlet afvejning af naturbeskyttelsesinteresser, landskabelige interesser og den forventede lokaløkonomiske effekt.
+Stk. 3. Erhvervsministeren kan fastsætte regler om ansøgning om udviklingsområder efter stk. 2.
+
+Stk. 4. Erhvervsministeren kan efter ansøgning fra kommunalbestyrelser fastsætte regler efter § 3, stk. 1 og stk. 2, 1. pkt., der fraviger stk. 1, nr. 3, således at kommunalbestyrelserne får mulighed for ved lokalplan at udlægge nye sommerhusområder i kystnærhedszonen inden for en ramme på højst 6.000 nye sommerhusgrunde og tilbageføre eksisterende ubebyggede sommerhusområder udlagt efter § 11 b, stk. 1, nr. 12, eller § 34, stk. 3 og 5, i kystnærhedszonen til landzone med hensyntagen til følgende:
+
+1) Sommerhusgrundene skal være beliggende i sammenhængende områder, og sommerhusområderne skal placeres i tilknytning til eksisterende eller planlagte bysamfund, feriecentre eller sommerhusområder, hvor der er et turistmæssigt potentiale.
+
+2) Den enkelte kommunalbestyrelse skal anvise, hvilke ubebyggede sommerhusgrunde i kystnærhedszonen der kan tilbageføres, så der byttes eksisterende ubebyggede sommerhusområder med nye i forholdet 1:1 i de kommuner, hvor det er muligt.
+
+3) Offentlighedens adgang til kysten skal sikres og udbygges, således at både borgere og turister også fremadrettet kan have glæde af de åbne kyster.
+
+4) Der kan ikke udlægges nye sommerhusgrunde inden for naturområder beskyttet af naturbeskyttelsesloven eller strandbeskyttelseslinjen eller i klitfredede områder.
+
+5) Nye sommerhusområder skal placeres uden for områder med særlige landskabsinteresser og naturbeskyttelsesinteresser og må ikke være i strid med væsentlige nationale interesser.
+
+6) Kommunalbestyrelserne skal i kommuneplanstrategien beskrive, hvordan de nye sommerhusgrunde kan understøtte vækst og udvikling lokalt. Som led i strategien skal kommunalbestyrelserne også gennemgå eksisterende ubebyggede sommerhusområder og vurdere, om de kan tilbageføres.
+
+Stk. 5. Erhvervsministeren kan fastsætte regler om ansøgning om nye sommerhusområder efter stk. 4.
+
+Stk. 6. Erhvervsministeren kan efter ansøgning fra kommunalbestyrelser fastsætte regler efter § 3, stk. 1 og stk. 2, 1. pkt., der fraviger stk. 1, nr. 3, og som giver kommunalbestyrelserne mulighed for ved lokalplan at overføre eksisterende sommerhusområder inden for kystnærhedszonen til byzone, hvis lovens generelle kriterier for udlæg af arealer til byzone er opfyldt, jf. § 11 a.
+
+Stk. 7. Erhvervsministeren kan fastsætte regler om ansøgning om overførsel af eksisterende sommerhusområder inden for kystnærhedszonen til byzone efter stk. 6.
+
+Stk. 8. Erhvervsministeren kan ved udlæg af nye sommerhusområder, jf. stk. 4, fastsætte regler om rækkefølge for kommunalbestyrelsernes planlægning og om, at planlægningsmuligheden for uudnyttede områder, som er udlagt til sommerhusområde i landsplandirektiv efter stk. 4, bortfalder 8 år efter udstedelsen.
+
+Stk. 9. Erhvervsministeren kan i særlige tilfælde meddele kommunalbestyrelsen tilladelse til planlægning og meddelelse af landzonetilladelser til konkrete projekter til nyopførelse af turismefaciliteter, der er ødelagt på grund af brand, oversvømmelse, storm el.lign., uanset stk. 1, nr. 1 og 4, og § 35, stk. 3, hvis
+
+1) projektet har betydning for turisme og for tiltrækning af turister i området,
+
+2) projektet indpasses arkitektonisk og opføres under særlig hensyntagen til den omkringliggende natur og landskabet og
+
+3) projektet indeholder tiltag, som bidrager positivt til den omkringliggende natur og også gerne til gode naturoplevelser.

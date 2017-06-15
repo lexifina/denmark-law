@@ -1,11 +1,13 @@
-§ 5 n. Uden for bymidter og bydelscentre kan der
+§ 5 n. Ud over bymidter og bydelscentre kan der
 
-1) udlægges arealer til butiksformål i et lokalcenter, som alene betjener en begrænset del af en by eller en bydel, en landsby, et sommerhusområde el. lign.,
+1) udlægges arealer til aflastningsområder i byer, hvor der er et tilstrækkeligt kundegrundlag, bl.a. for at give plads til butikker, som ikke uden videre kan placeres i bymidten,
 
-2) placeres enkeltstående butikker, der alene tjener til lokalområdets daglige forsyning,
+2) udlægges arealer til butiksformål i et lokalcenter eller placeres enkeltstående butikker, som alene tjener til lokalområdets daglige forsyning,
 
-3) udlægges arealer til butikker, der alene forhandler biler, lystbåde, campingvogne, planter, havebrugsvarer, tømmer, byggematerialer, grus, sten- og betonvarer samt møbler (særlig pladskrævende varer), jf. dog § 11 e, stk. 6, og
+3) udlægges arealer til butikker, der alene forhandler særlig pladskrævende varer eller varer, som frembyder særlige sikkerhedsmæssige forhold, f.eks. motorkøretøjer, lystbåde, campingvogne, trailere, planter, havebrugsvarer, tømmer, byggematerialer, grus, sten- og betonvarer og møbler samt ammunition og eksplosiver, og
 
 4) udlægges arealer til mindre butikker til salg af egne produkter i tilknytning til en virksomheds produktionslokaler.
 
-Stk. 2. I butikker, der forhandler tømmer og byggematerialer, jf. stk. 1, nr. 3, kan der etableres et særligt afsnit med varer, der ikke er særlig pladskrævende, men som anvendes i forbindelse med tømmer og byggematerialer.
+Stk. 2. Aflastningsområder efter stk. 1, nr. 1, kan ikke udlægges til en enkelt dagligvarebutik eller udelukkende dagligvarebutikker.
+
+Stk. 3. Eksisterende aflastningsområder kan udvides, hvis der er et tilstrækkeligt kundegrundlag og der er behov for at give plads til butikker, der ikke uden videre kan etableres i bymidten. Eksisterende aflastningsområder kan ikke udvides for at skabe plads til en dagligvarebutik eller udelukkende dagligvarebutikker.
