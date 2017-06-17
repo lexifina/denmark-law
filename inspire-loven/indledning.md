@@ -1,5 +1,3 @@
-Lov om infrastruktur for geografisk information
+Bekendtgørelse af lov om infrastruktur for geografisk information i Den Europæiske Union
 
-VI MARGRETHE DEN ANDEN, af Guds Nåde Danmarks Dronning, gør vitterligt:
-
-Folketinget har vedtaget og Vi ved Vort samtykke stadfæstet følgende lov:
+Herved bekendtgøres lov om infrastruktur for geografisk information i Den Europæiske Union, jf. lov nr. 1331 af 19. december 2008 med den ændring, der følger af § 20 i lov nr. 380 af 26. april 2017.
