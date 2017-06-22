@@ -26,13 +26,13 @@ Stk. 2. § 3, nr. 2, finder ikke anvendelse på afgørelser, Valgbarhedsnævnet 
 
 Stk. 3. Er en borgmester eller anden tilsvarende indehaver af et kommunalt hverv eller en regionsrådsformand suspenderet forud for lovens ikrafttræden, finder de hidtil gældende regler i § 66, stk. 5, i lov om kommunernes styrelse, jf. tillige § 64 a, stk. 3, 2. pkt., i samme lov og § 38 i regionsloven, fortsat anvendelse.
 
-Lov nr. 173 af 26. februar 2014 om ændring af lov om valg til Folketinget, lov om valg af danske medlemmer til Europa-Parlamentet og lov om kommunale og regionale valg (Mulighed for ændring af afstemningssted for vælgere med handicap eller nedsat førlighed), hvis § 3 indsætter § 53 a og ændrer § 60, stk. 4, indeholder nedenstående ikrafttrædelsesbestemmelse:
+Lov nr. 173 af 26. februar 2014 om ændring af lov om valg til Folketinget, lov om valg af danske medlemmer til Europa-Parlamentet og lov om kommunale og regionale valg (Mulighed for ændring af afstemningssted for vælgere med handicap eller nedsat førlighed), hvis § 3 indsætter § 53 a og ændrer § 60, stk. 4, indeholder følgende ikrafttrædelsesbestemmelse:
 
 § 4
 
 Loven træder i kraft den 1. marts 2014.
 
-Lov nr. 1742 af 22. december 2015 om ændring af lov om valg til Folketinget, lov om valg af danske medlemmer til Europa-Parlamentet, lov om kommunale og regionale valg og lov om økonomisk støtte til politiske partier m.v. (Anmeldelse af kandidatlister, afskaffelse af pligt til opstilling til kommunale og regionale valg, åbningstid på valgdagen, frister for brevstemmeafgivning m.v.), hvis § 3 ændrer § 3, § 5, § 6 a, 2. pkt., og § 13, stk. 1, indsætter § 16, stk. 6, og § 18, stk. 1. 2. pkt., ændrer § 18, stk. 3, 1. pkt., § 19, stk. 2-4, § 20, stk. 1, 2. pkt., § 22, stk. 1, og § 23, stk. 1, indsætter § 23, stk. 1, 3. pkt., og § 23 a, ændrer § 24, stk. 1, 1. pkt., indsætter § 24, stk. 4, og § 25, stk. 1, 4. pkt., ændrer § 25, stk. 2 og 3, indsætter § 25, stk. 4 og 5, ændrer § 26, stk. 1, 1. pkt., indsætter § 26, stk. 2, og § 26 a, ændrer § 27, stk. 1, 1. pkt., og stk. 2, 1., 2. og 4 pkt., indsætter § 27, stk. 3, ændrer § 29, § 30, § 31, stk. 4, § 34, stk. 3, 2. pkt., og § 40, stk. 1, ophæver § 40, stk. 2, ændrer § 41, stk. 1, 2. og 3. pkt., ophæver § 41, stk. 2, indsætter § 43, stk. 2, ændrer § 44, stk. 1, 2. pkt., § 48, stk. 2, og § 52, stk. 1, 1. pkt., indsætter § 52, stk. 2, ændrer § 62, stk. 1, indsætter § 62, stk. 2, og ændrer § 64, stk. 3, og § 71 stk. 1, 1. pkt., og stk. 2, indeholder blandt andet følgende ikrafttrædelsesbestemmelse:
+Lov nr. 1742 af 22. december 2015 om ændring af lov om valg til Folketinget, lov om valg af danske medlemmer til Europa-Parlamentet, lov om kommunale og regionale valg og lov om økonomisk støtte til politiske partier m.v. (Anmeldelse af kandidatlister, afskaffelse af pligt til opstilling til kommunale og regionale valg, åbningstid på valgdagen, frister for brevstemmeafgivning m.v.), hvis § 3 ændrer § 3, § 5, § 6 a, 2. pkt., og § 13, stk. 1, indsætter § 16, stk. 6, og § 18, stk. 1. 2. pkt., ændrer § 18, stk. 3, 1. pkt., § 19, stk. 2-4, § 20, stk. 1, 2. pkt., § 22, stk. 1, og § 23, stk. 1, indsætter § 23, stk. 1, 3. pkt., og § 23 a, ændrer § 24, stk. 1, 1. pkt., indsætter § 24, stk. 4, og § 25, stk. 1, 4. pkt., ændrer § 25, stk. 2 og 3, indsætter § 25, stk. 4 og 5, ændrer § 26, stk. 1, 1. pkt., indsætter § 26, stk. 2, og § 26 a, ændrer § 27, stk. 1, 1. pkt., og stk. 2, 1., 2. og 4 pkt., indsætter § 27, stk. 3, ændrer § 29, § 30, § 31, stk. 4, § 34, stk. 3, 2. pkt., og § 40, stk. 1, ophæver § 40, stk. 2, ændrer § 41, stk. 1, 2. og 3. pkt., ophæver § 41, stk. 2, indsætter § 43, stk. 2, ændrer § 44, stk. 1, 2. pkt., § 48, stk. 2, og § 52, stk. 1, 1. pkt., indsætter § 52, stk. 2, ændrer § 62, stk. 1, indsætter § 62, stk. 2, og ændrer § 64, stk. 3, og § 71 stk. 1, 1. pkt., og stk. 2, indeholder følgende ikrafttrædelsesbestemmelse:
 
 § 5
 
@@ -49,3 +49,11 @@ Lov nr. 175 af 21. februar 2017 om ændring af lov om valg til Folketinget, lov 
 § 6
 
 Loven træder i kraft den 1. juli 2017.
+
+Lov nr. 713 af 8. juni 2017 om ændring af lov om kommunale og regionale valg og lov om valg af danske medlemmer til Europa-Parlamentet, hvis § 1 ændrer § 1, stk. 1, nr. 2-4, indsætter § 1, stk. 3 og 4, og ændrer § 9, stk. 1 og 2, og § 12, stk. 2, 1. pkt., indeholder følgende ikrafttrædelses- og overgangsbestemmelser:
+
+§ 3
+
+Stk. 1. Loven træder i kraft den 1. juli 2017.
+
+Stk. 2. Loven finder anvendelse på registreringer i Det Centrale Personregister (CPR) og hos Udlændingestyrelsen og politiet, der er foretaget på tidspunktet for lovens ikrafttræden, eller som foretages efter tidspunktet for lovens ikrafttræden.
