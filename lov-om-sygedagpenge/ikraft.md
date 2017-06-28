@@ -376,6 +376,32 @@ Loven træder i kraft den 1. januar 2016.
 
 § 24 b, stk. 1, i lov om sygedagpenge som affattet ved denne lovs § 1, nr. 6, finder anvendelse for en person i et jobafklaringsforløb, som før den 1. januar 2016 af en læge har fået konstateret en livstruende, alvorlig sygdom, hvis personen den 1. januar 2016 opfylder beskæftigelseskravet for ret til sygedagpenge fra kommunen, jf. §§ 32, 34 eller 42 i lov om sygedagpenge, og af en læge vurderes fortsat at have en livstruende, alvorlig sygdom. Personen skal anmode om sygedagpenge senest den 1. marts 2016 for at overgå til at modtage sygedagpenge med virkning fra den 1. januar 2016.
 
+Lov nr. 624 af 8. juni 2016 (Fleksibelt og indkomstbaseret dagpengesystem, månedsudbetaling af dagpenge m.v.) indeholder følgende ikrafttrædelses- og overgangsbestemmelser:
+
+§ 14
+
+Stk. 1. Loven træder i kraft den 2. januar 2017, jf. dog stk. 2-4.
+
+Stk. 2. § 1, nr. 4-10, 14-16, 18, 19, 21-28, 30-33, 37, 38, 41-43, 50, 52-56, 62-65, 67-69, 71, 73-75, 77-84, 86, 87, 90, 91, 95, 98-103 og 109-112, og § 13 træder i kraft den 1. juli 2017.
+
+Stk. 3. §§ 55 a, 56 a og 56 b i lov om arbejdsløshedsforsikring m.v. som indsat ved denne lovs § 1, nr. 49, træder i kraft den 1. juli 2017.
+
+Stk. 4. Beskæftigelsesministeren fastsætter tidspunktet for ikrafttrædelsen af § 1, nr. 57, 70, 93, 97 og 104.
+
+§ 15
+
+Stk. 1-9. (Udelades)
+
+Stk. 10. § 5, nr. 1-4, og § 6, nr. 1-4, finder ikke anvendelse for personer med første syge- eller barselsfraværsdag den 1. januar 2017 eller tidligere.
+
+Stk. 11. § 10 har virkning for indberetninger til indkomstregisteret vedrørende januar 2017 og senere.
+
+§ 16
+
+Stk. 1-10. (Udelades)
+
+Stk. 11. Til personer med første syge- eller barselsfraværsdag den 1. januar 2017 eller tidligere sker udbetalingen af sygedagpenge fra kommunen eller barselsdagpenge fra Udbetaling Danmark indtil afslutningen af den igangværende fraværsperiode med den sats, der følger af de hidtil gældende regler i § 51, stk. 1 og 2, i lov om sygedagpenge eller de hidtil gældende regler i § 36, stk. 1 og 2, i barselsloven. Satsen kan ændres efter de regler, der fastsættes af beskæftigelsesministeren i medfør af § 51, stk. 4, i lov om sygedagpenge som affattet ved denne lovs § 5, nr. 4, eller § 36, stk. 4, i barselsloven som affattet ved denne lovs § 6, nr. 4.
+
 Lov nr. 625 af 8. juni 2016 (Forlængelse af forsøg med ret til at afvise lægebehandling uden ydelsesmæssige konsekvenser m.v.) indeholder følgende ikrafttrædelses- og overgangsbestemmelser:
 
 § 6
@@ -407,3 +433,33 @@ Stk. 1. Loven finder ikke anvendelse for klager over afgørelser truffet af ress
 Stk. 2. Udbetaling Danmark kan i perioden fra den 1. oktober 2016 til den 31. december 2016 foretage de dispositioner og regnskabsmæssige registreringer, der er nævnt i tekstanmærkning nr. 102 til § 7 på finansloven for 2016, for så vidt angår de udlån og garantier m.v., som Udbetaling Danmark administrerer i henhold til denne lov.
 
 Stk. 3. Ressortministeriernes betaling for varetagelse af opgaver, der overføres til Udbetaling Danmark ved denne lov, sker for perioden fra den 1. oktober 2016 til den 31. december 2016 efter reglerne på finansloven for 2016. Statens Administration foretager en samlet afregning til Udbetaling Danmark af denne betaling og gebyrer fra den 1. oktober 2016 til den 31. december 2016.
+
+Lov nr. 288 af 29. marts 2017 (Digitalisering af barselslovens beskæftigelseskrav og beregning, mulighed for mere fleksibel afholdelse af fædreorlov, fastsættelse af klageadgang i sager om sygedagpengeforsikring, omregning af månedsbaserede arbejdsløshedsdagpenge til berørte uger m.v.) indeholder følgende ikrafttrædelses- og overgangsbestemmelser:
+
+§ 5
+
+Stk. 1. Loven træder i kraft den 1. april 2017, jf. dog stk. 2-5.
+
+Stk. 2. § 1, nr. 10-12 og 16, og § 4, nr. 1, træder i kraft den 1. juli 2017.
+
+Stk. 3. § 1, nr. 1 og 2, træder i kraft den 1. januar 2018.
+
+Stk. 4. § 1, nr. 3-9 og 13, og § 2, nr. 2, træder i kraft den 1. juli 2018.
+
+Stk. 5. Beskæftigelsesministeren fastsætter tidspunktet for ikrafttræden af § 4, nr. 2.
+
+§ 6
+
+Stk. 1-3. (Udelades)
+
+Stk. 4. § 3, nr. 1, finder ikke anvendelse på afgørelser truffet af Udbetaling Danmark før den 1. april 2017. For disse afgørelser gælder de hidtil gældende regler.
+
+Lov nr. 674 af 8. juni 2017 (Blokering af hjemmesider og stop af offentlige ydelser til fremmedkrigere) indeholder følgende ikrafttrædelses- og overgangsbestemmelse:
+
+§ 17
+
+Stk. 1. Loven træder i kraft dagen efter bekendtgørelsen i Lovtidende.
+
+Stk. 2. Lovens §§ 2-16 finder ikke anvendelse for afgørelser om inddragelse af pas, der er truffet inden lovens ikrafttræden, og domme, der vedrører forhold begået inden lovens ikrafttræden.
+
+Stk. 3. Regler fastsat i medfør af § 39, stk. 10, i lov om statens uddannelsensstøtte (SU-loven), jf. lovbekendtgørelse nr. 39 af 15. januar 2014 med senere ændringer, forbliver i kraft, indtil de ophæves eller afløses af nye regler.
