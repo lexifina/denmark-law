@@ -1,6 +1,6 @@
 ## Valgplakater på vejareal
 
-§ 66 a. I perioden fra den fjerde lørdag før valgdagen til 8 dage efter valgdagen må der i forbindelse med folketingsvalg, kommunale og regionale valg, valg til Europa-Parlamentet, folkeafstemninger og andre valg, der afholdes på offentligretligt grundlag, ophænges valgplakater på private fællesveje. Ophængning af valgplakater må ske fra døgnets begyndelse. Nedtagning af valgplakater og midler til fastgørelse af valgplakater skal være tilendebragt ved døgnets afslutning.
+§ 66 a. I perioden fra kl. 12.00 den fjerde lørdag før valgdagen til 8 dage efter valgdagen må der i forbindelse med folketingsvalg, kommunale og regionale valg, valg til Europa-Parlamentet, folkeafstemninger og andre valg, der afholdes på offentligretligt grundlag, ophænges valgplakater på private fællesveje. Ved folketingsvalg må ophængning af valgplakater dog først ske, når valget er udskrevet. Nedtagning af valgplakater og midler til fastgørelse af valgplakater skal være tilendebragt ved døgnets afslutning.
 
 Stk. 2. Valgplakater kan uanset § 66, stk. 1, ophænges på master til vejbelysningen og master til brug for elforsyning.
 

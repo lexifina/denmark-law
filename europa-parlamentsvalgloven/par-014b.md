@@ -1,0 +1,7 @@
+§ 14 b. Vælgere, der er omfattet af § 3 a, og som er registreret i Det Centrale Personregister (CPR) som udrejst eller med bopæl i Grønland, skal efter anmodning optages på en særlig valgliste i Københavns Kommune, hvis der er truffet afgørelse herom senest 7.-dagen før valgdagen.
+
+Stk. 2. Vælgere, der har haft ophold på Færøerne henholdsvis i Grønland i mere end 4 år, kan kun optages på valglisten, såfremt Valgnævnet i hvert enkelt tilfælde anser betingelserne i § 3 a for at være opfyldt. Hvis der i øvrigt er tvivl om, hvorvidt en vælger er omfattet af § 3 a, kan vælgeren kun optages på valglisten, såfremt Valgnævnet i hvert enkelt tilfælde anser betingelserne i § 3 a for at være opfyldt.
+
+Stk. 3. Afgørelse om optagelse på valglisten af en vælger, der er omfattet af § 3 a, stk. 1 eller 2, eller § 3 a, stk. 4, jf. stk. 1 eller 2, gælder i 2 år fra afgørelsens dato. Indgiver vælgeren inden udløbet af den i 1. pkt. nævnte periode anmodning om fornyet optagelse på valglisten, forlænges perioden, indtil der er truffet afgørelse. Afgørelse om optagelse på valglisten af en vælger, der er omfattet af § 3 a, stk. 3, gælder i 2 år regnet fra datoen for udrejsen. Afgørelse om optagelse på valglisten af en vælger, der er omfattet af § 3 a, stk. 4, jf. stk. 3, gælder i 2 år regnet fra datoen for udrejsen for den person omfattet af § 3 a, stk. 3, vælgeren har den i § 3 a, stk. 4, nævnte tilknytning til.
+
+Stk. 4. Økonomi- og indenrigsministeren fastsætter nærmere regler om optagelse på listen og om listens udarbejdelse.
