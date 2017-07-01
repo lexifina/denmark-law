@@ -1,0 +1,5 @@
+§ 26 a. Gavemodtagerne skal ved forhøjelse af afgiften efter § 23 b, stk. 1, senest 4 uger fra overdragelsen give meddelelse herom til told- og skatteforvaltningen. § 26, stk. 2, 1. og 3. pkt., finder tilsvarende anvendelse ved afgiftsforhøjelse efter 1. pkt., hvoraf der ikke er betalt afgift.
+
+Stk. 2. Foreligger en anmeldelse om afgiftsforhøjelse ikke rettidigt, kan told- og skatteforvaltningen foretage en skønsmæssig fastsættelse af den afgiftspligtige værdi. Hvis en ansættelse efter stk. 1 er for lav, skal gavemodtager give told- og skatteforvaltningen underretning herom, idet fristerne i § 26, stk. 4, finder tilsvarende anvendelse.
+
+Stk. 3. Afgiftsforhøjelsen, jf. § 23 b, stk. 1, forrentes fra overdragelsen med en rentesats på 1 pct. p.a. over Nationalbankens diskonto, dog mindst med 3 pct. p.a. Afgiften forfalder til betaling, senest 4 uger efter at gavemodtageren har modtaget afgiftsopkrævningen fra told- og skatteforvaltningen. Falder den sidste rettidige betalingsdag på en helligdag eller lørdag, forlænges fristen til den følgende hverdag.
