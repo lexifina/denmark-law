@@ -12,7 +12,7 @@ Stk. 2. Der kan endvidere optages fingeraftryk af en udlænding,
 
 2) som ikke søger om opholdstilladelse efter § 7, stk. 1-3, og som skal afvises, udvises eller udrejse af landet, jf. § 30, stk. 1, såfremt der på baggrund af pågældendes dokumenter, ejendele, økonomiske midler og andre personlige forhold er bestemte grunde til at antage, at den pågældende vil indrejse på ny og ansøge om opholdstilladelse efter § 7, stk. 1-3,
 
-3) hvis dette skønnes hensigtsmæssigt med henblik på identifikation af den pågældende,
+3) hvis dette skønnes hensigtsmæssigt med henblik på identifikation eller identitetskontrol af den pågældende,
 
 4) hvis dette skønnes hensigtsmæssigt med henblik på udstedelse eller fremskaffelse af rejsedokument til den pågældende,
 
@@ -38,8 +38,14 @@ Stk. 9. Politiet og Udlændingestyrelsen kan uden udlændingens samtykke elektro
 
 Stk. 10. Optagelse af fingeraftryk skal ske så skånsomt, som omstændighederne tillader det. Indgrebet kan om nødvendigt ske med den fornødne magtanvendelse.
 
-Stk. 11. Der optages ikke fingeraftryk efter stk. 1, nr. 1 eller 3, til eventuel brug for udstedelse af et opholdskort, hvis ansøgeren af fysiske grunde ikke er i stand til at afgive fingeraftryk. Hvis udlændingen er under 18 år, optages der alene fingeraftryk efter stk. 1, nr. 1 eller 3, til eventuel brug for udstedelse af et opholdskort, hvis ansøgeren er uledsaget og er fyldt 6 år.
+Stk. 11. Der optages ikke fingeraftryk efter stk. 1, nr. 1 eller 3, til eventuel brug for udstedelse af et opholdskort, hvis ansøgeren af fysiske grunde ikke er i stand til at afgive fingeraftryk. Hvis udlændingen er under 18 år, optages der alene fingeraftryk efter stk. 1, nr. 1 eller 3, til eventuel brug for udstedelse af et opholdskort, hvis ansøgeren er uledsaget og er fyldt 6 år, eller hvis der indgives ansøgning om udstedelse af et opholdskort til udlændingen.
 
 Stk. 12. Stk. 3-9 finder ikke anvendelse, hvis fingeraftryk optages efter stk. 1, nr. 1 eller 3, til eventuel brug for udstedelse af et opholdskort, eller hvis fingeraftryk optages i medfør af stk. 2, nr. 6 og 7.
 
 Stk. 13. Optages der fingeraftryk i medfør af stk. 1, nr. 1 eller 2, eller stk. 2, nr. 1, som skal videregives til det centrale Eurodac-system i medfør af § 58 i, stk. 1, gør politiet skriftligt og om nødvendigt mundtligt udlændingen bekendt med dennes rettigheder efter § 28, stk. 1, i lov om behandling af personoplysninger samt pligten til at lade sine fingeraftryk optage.
+
+Stk. 14. Til brug for identifikation og identitetskontrol opbevares fingeraftryk, der er optaget efter stk. 1, nr. 1 og 3, i 20 år efter optagelsen af fingeraftrykket eller, hvis udlændingen meddeles opholdstilladelse, i 10 år efter optagelsen af fingeraftrykket. Fingeraftryk, der opbevares efter 1. pkt., slettes, hvis udlændingen meddeles dansk indfødsret.
+
+Stk. 15. Fingeraftryk, der opbevares i medfør af stk. 14, registreres i et centralt register, der føres af Udlændinge- og Integrationsministeriet, Udlændingestyrelsen og Styrelsen for International Rekruttering og Integration.
+
+Stk. 16. Fingeraftryk, der opbevares i medfør af stk. 14, kan behandles af udlændingemyndighederne, Udenrigsministeriet og politiet til de formål, der er nævnt i stk. 14.

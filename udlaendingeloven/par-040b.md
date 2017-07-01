@@ -2,7 +2,7 @@
 
 Stk. 2. Der kan endvidere optages personfotografi af en udlænding,
 
-1) hvis dette skønnes hensigtsmæssigt med henblik på identifikation af den pågældende,
+1) hvis dette skønnes hensigtsmæssigt med henblik på identifikation eller identitetskontrol af den pågældende,
 
 2) hvis dette skønnes hensigtsmæssigt med henblik på udstedelse af identitetskort eller andet legitimationsdokument til den pågældende,
 
@@ -26,6 +26,12 @@ Stk. 9. Politiet og Udlændingestyrelsen kan uden udlændingens samtykke elektro
 
 Stk. 10. Optagelse af personfotografi skal ske så skånsomt, som omstændighederne tillader det. Indgrebet kan om nødvendigt ske med den fornødne magtanvendelse.
 
-Stk. 11. Hvis udlændingen er under 18 år, optages der alene personfotografi efter stk. 1 til eventuel brug for udstedelse af et opholdskort, hvis ansøgeren er uledsaget.
+Stk. 11. Hvis udlændingen er under 18 år, optages der alene personfotografi efter stk. 1 til eventuel brug for udstedelse af et opholdskort, hvis ansøgeren er uledsaget, eller hvis der indgives ansøgning om udstedelse af et opholdskort til udlændingen.
 
 Stk. 12. Stk. 3-9 finder ikke anvendelse, hvis personfotografi optages efter stk. 1 til eventuel brug for udstedelse af et opholdskort.
+
+Stk. 13. Til brug for identifikation og identitetskontrol opbevares personfotografi, der er optaget efter stk. 1, i 20 år efter optagelsen af personfotografiet eller, hvis udlændingen meddeles opholdstilladelse, i 10 år efter optagelsen af personfotografiet. Personfotografi, der opbevares efter 1. pkt., slettes, hvis udlændingen meddeles dansk indfødsret.
+
+Stk. 14. Personfotografi, der opbevares i medfør af stk. 13, registreres i et centralt register, der føres af Udlændinge- og Integrationsministeriet, Udlændingestyrelsen og Styrelsen for International Rekruttering og Integration.
+
+Stk. 15. Personfotografi, der opbevares i medfør af stk. 13, kan behandles af udlændingemyndighederne, Udenrigsministeriet og politiet til de formål, der er nævnt i stk. 13.
