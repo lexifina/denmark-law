@@ -1,0 +1,5 @@
+§ 21 a. Arvingen eller legataren skal ved forhøjelse af boafgiften efter § 1 b, stk. 1, give meddelelse om overdragelsen senest 4 uger fra overdragelsen til told- og skatteforvaltningen. § 26, stk. 2, 1. og 3. pkt., finder tilsvarende anvendelse ved afgiftsforhøjelse efter 1. pkt., hvoraf der ikke er betalt afgift.
+
+Stk. 2. Foreligger en anmeldelse om afgiftsforhøjelse ikke rettidigt, kan told- og skatteforvaltningen foretage en skønsmæssig fastsættelse af den afgiftspligtige værdi. Hvis en ansættelse efter 1. pkt. er for lav, skal arvingen eller legataren give told- og skatteforvaltningen underretning herom, idet fristerne i § 26, stk. 4, finder tilsvarende anvendelse.
+
+Stk. 3. Forhøjelsen, jf. § 1 b, stk. 1, forrentes fra overdragelsen med en rentesats på 1 pct. p.a. over Nationalbankens diskonto, dog mindst med 3 pct. p.a. Afgiften forfalder til betaling, senest 4 uger efter at arvingen eller legataren har modtaget afgiftsopkrævningen fra told- og skatteforvaltningen med sidste rettidige betalingsdag 14 dage senere. Falder den sidste rettidige betalingsdag på en helligdag eller lørdag, forlænges fristen til den følgende hverdag.
