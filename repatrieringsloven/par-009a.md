@@ -10,4 +10,4 @@ Stk. 2. Hjælp til repatriering kan endvidere ikke ydes til en udlænding, som b
 
 Stk. 3. Får politiet eller kriminalforsorgen formodning om, at en udlænding, der bevidst unddrager sig strafforfølgning, jf. stk. 1, eller straffuldbyrdelse, jf. stk. 2, har ansøgt om eller modtager hjælp til repatriering, skal kommunalbestyrelsen underrettes om unddragelsen. Underretning skal gives til kommunalbestyrelsen i den kommune, hvori udlændingen har eller senest har haft bopæl.
 
-Stk. 4. Kommunalbestyrelsen kan efter ansøgning træffe afgørelse om, at hjælp til repatriering, som ikke er udbetalt, kan ydes, når udlændingen ikke længere unddrager sig strafforfølgning, jf. stk. 1, eller straffuldbyrdelse, jf. stk. 2, såfremt betingelserne for udbetaling af hjælp til repatriering efter § 7, stk. 1 og 6, i øvrigt er opfyldt.
+Stk. 4. Kommunalbestyrelsen kan efter ansøgning træffe afgørelse om, at hjælp til repatriering, som ikke er udbetalt, kan ydes, når udlændingen ikke længere unddrager sig strafforfølgning, jf. stk. 1, eller straffuldbyrdelse, jf. stk. 2, såfremt betingelserne for udbetaling af hjælp til repatriering efter § 7, stk. 1 og 8, i øvrigt er opfyldt.
