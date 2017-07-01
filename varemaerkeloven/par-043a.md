@@ -1,1 +1,1 @@
-§ 43 a. Sø- og Handelsretten er EF-varemærkedomstol i første instans, og Højesteret er EF-varemærkedomstol i anden instans i henhold til EF-varemærkeforordningens art. 91.
+§ 43 a. Sø- og Handelsretten er EU-varemærkedomstol i 1. instans, og Højesteret og landsretterne er EU-varemærkedomstole i 2. instans i henhold til EU-varemærkeforordningen. Ved afgørelsen af, om domme afsagt af Sø- og Handelsretten i henhold til denne lov kan ankes til Højesteret eller landsret, finder retsplejelovens § 368, stk. 4-6, anvendelse.
