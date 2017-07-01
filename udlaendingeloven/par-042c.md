@@ -8,10 +8,10 @@ Stk. 3. Kontrakten fastlægger omfang og indhold af
 
 2) det asylansøgerkursus, som udlændingen skal deltage i, jf. § 42 f, stk. 1,
 
-3) undervisning, som det er aftalt eller fastsat, jf. stk. 2, at udlændingen skal deltage i, jf. § 42 f, stk. 2-4, og
+3) undervisning, som det er aftalt eller fastsat, jf. stk. 2, at udlændingen skal deltage i, jf. § 42 f, stk. 2-4 og 7, og
 
 4) aktivering, som det er aftalt eller fastsat, jf. stk. 2, at udlændingen skal deltage i, jf. § 42 e, stk. 1-3.
 
 Stk. 4. Det skal fremgå af kontrakten, hvilke tiltag der efter lovgivningen kan bringes i anvendelse over for udlændingen, hvis udlændingen ikke overholder sin kontrakt.
 
-Stk. 5. Udlændinge-, integrations- og boligministeren kan fastsætte nærmere regler om kontraktens indgåelse, indhold og udformning.
+Stk. 5. Udlændinge- og integrationsministeren kan fastsætte nærmere regler om kontraktens indgåelse, indhold og udformning.
