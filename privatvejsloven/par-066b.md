@@ -1,4 +1,4 @@
-§ 66 b. En ophængt valgplakat skal være forsynet med navn, adresse og telefonnummer på den fysiske eller juridiske person, der har iværksat valgplakatophængningen. Oplysninger om juridiske personer skal suppleres med navn, adresse og telefonnummer på en fysisk person, der repræsenterer den juridiske person. Oplysningerne skal anføres på en sådan måde, at de er læselige i hele ophængningsperioden.
+§ 66 b. En ophængt valgplakat skal være forsynet med navn, adresse, e-mailadresse og telefonnummer på den fysiske eller juridiske person, der har iværksat valgplakatophængningen. Oplysninger om juridiske personer skal suppleres med navn, adresse, e-mailadresse og telefonnummer på en fysisk person, der repræsenterer den juridiske person. Oplysningerne skal anføres på en sådan måde, at de er læselige i hele ophængningsperioden.
 
 Stk. 2. Valgplakater, der er ophængt i strid med § 66 a, stk. 2-4, skal nedtages, inden for 24 timer efter at kommunalbestyrelsen har meddelt et påbud herom til den fysiske eller juridiske person, der er nævnt i stk. 1, 1. pkt., eller den fysiske person nævnt i stk. 1, 2. pkt.
 
