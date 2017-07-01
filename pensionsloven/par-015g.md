@@ -1,0 +1,7 @@
+§ 15 g. Personer, der har arbejdet efter folkepensionsalderen og først ansøger om folkepension, når de ønsker at overgå til folkepension, kan samtidig med ansøgning om folkepension anmode Udbetaling Danmark om at få beregnet og udbetalt folkepension tillagt en venteprocent for perioden fra den 1. i måneden efter at have nået folkepensionsalderen, hvis betingelserne i kapitel 1 for ret til folkepension var opfyldt i perioden. § 15 c, stk. 1, finder tilsvarende anvendelse.
+
+Stk. 2. Det er en betingelse for at optjene venteprocent efter stk. 1, at det kan dokumenteres, at beskæftigelseskravet, jf. § 15 d, stk. 1 eller 3, og regler fastsat i medfør af § 15 d, stk. 5, er opfyldt. Er beskæftigelseskravet ikke opfyldt, indgår denne periode ikke ved opgørelsen af venteprocenten.
+
+Stk. 3. Venteprocenten opgøres efter § 15 e, stk. 1, 2. og 3. pkt.
+
+Stk. 4. Tillægget udbetales og beregnes efter § 15 f.
