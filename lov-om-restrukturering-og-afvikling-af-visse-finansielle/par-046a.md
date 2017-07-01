@@ -1,0 +1,1 @@
+§ 46 a. Den dag, hvor Finansiel Stabilitet træffer beslutning i medfør af § 12 om at iværksætte en afviklingsforanstaltning over for en virksomhed eller en enhed, der opfylder afviklingsbetingelserne i medfør af § 4, skal anses som fristdag i forhold til § 25, stk. 1, 2. pkt., og § 46 b.
