@@ -1,0 +1,3 @@
+§ 341 a. Erklæringer om konkrete forhold af teknisk, økonomisk eller lignende karakter, som en part inden sagsanlægget har indhentet hos sagkyndige, kan fremlægges som bevis, medmindre erklæringens indhold, omstændighederne ved dens tilblivelse eller andre forhold giver grundlag for at fravige udgangspunktet. Har en part fremlagt en sådan erklæring, kan modparten under i øvrigt samme betingelser fremlægge en tilsvarende erklæring, selv om denne erklæring først har kunnet indhentes efter sagens anlæg.
+
+Stk. 2. Erklæringer om bedømmelsen af juridiske forhold efter dansk ret, som en part har indhentet fra retskyndige, kan inddrages til brug for den juridiske argumentation, men ikke under sagen i øvrigt.
