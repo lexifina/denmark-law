@@ -14,7 +14,7 @@
 
 7) et andet grundlag end nævnt i nr. 1-6, hvis det bestemmes efter ansøgning.
 
-Stk. 2. Det kan efter ansøgning bestemmes, at opholdstilladelsen for en udlænding omfattet af stk. 1 først skal anses for bortfaldet, når der er forløbet højst 12 måneder efter den i stk. 1 nævnte periode.
+Stk. 2. Det kan efter ansøgning bestemmes, at opholdstilladelsen for en udlænding omfattet af stk. 1 først skal anses for bortfaldet, efter en periode på op til 12 måneder efter den i stk. 1 nævnte periode. Ansøgning efter 1. pkt., som indgives efter den periode, der er nævnt i stk. 1, afvises, medmindre der foreligger helt særlige omstændigheder.
 
 Stk. 3. Stk. 1 og 2 finder kun anvendelse for en udlænding omfattet af stk. 1, nr. 6, hvis udlændingen vender tilbage til hjemlandet eller det tidligere opholdsland sammen med den person, til hvem udlændingen har den familiemæssige tilknytning, der har dannet grundlag for opholdstilladelsen.
 
