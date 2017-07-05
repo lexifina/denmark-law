@@ -1,4 +1,4 @@
-1) Loven indeholder bestemmelser, der gennemfører dele af Rådets direktiv 92/43/EØF af 21. maj 1992 om bevaring af naturtyper samt vilde dyr og planter (EF-habitatdirektivet), EF-Tidende 1992, nr. L 206, side 7, som senest ændret ved Rådets direktiv 2006/105/EF af 20. november 2006, EU-Tidende 2006, nr. L 363, side 368, dele af Europa-Parlamentets og Rådets direktiv 2004/35/EF af 21. april 2004 om miljøansvar for så vidt angår forebyggelse og afhjælpning af miljøskader, EU-Tidende 2004, nr. L 143, side 56, og dele af Europa-Parlamentets og Rådets direktiv 2009/147/EF af 30. november 2009 om beskyttelse af vilde fugle, EU-Tidende 2009, nr. L 20, side 7.
+1) Loven indeholder bestemmelser, der gennemfører dele af Rådets direktiv 92/43/EØF af 21. maj 1992 om bevaring af naturtyper samt vilde dyr og planter, EF-Tidende 1992, nr. L 206, side 7, som ændret senest ved Rådets direktiv 2013/17/EU af 13. maj 2013 om tilpasning af visse direktiver vedrørende miljø på grund af Republikken Kroatiens tiltrædelse, EU-Tidende 2013, nr. L 158, side 193, og dele af Europa-Parlamentets og Rådets direktiv 2009/147/EF af 30. november 2009 om beskyttelse af vilde fugle, EU-Tidende 2009, nr. L 20, side 7, som ændret senest ved Rådets direktiv 2013/17/EU af 13. maj 2013 om tilpasning af visse direktiver vedrørende miljø på grund af Republikken Kroatiens tiltrædelse, EU-Tidende 2013, nr. L 158, side 193.
 
 2) Lovændringen ændrer § 30, stk. 1 og 2.
 
@@ -81,3 +81,9 @@
 41) Lovændringen ophæver § 3, stk. 4, indsætter § 3 a, indsætter § 89, stk. 5, og ændrer § 89, stk. 8 og 9.
 
 42) Lovændringen, hvis § 25, nr. 1, overalt i loven ændrer ”Natur- og Miljøklagenævnet” til ”Miljø- og Fødevareklagenævnet” og ”Natur- og Miljøklagenævnets” til ”Miljø- og Fødevareklagenævnets”, og som ændrer § 33, stk. 2, § 78, stk. 1, 3, og 4-7, og § 87, stk. 2, 1. pkt.
+
+43) Lovændringen ændrer § 65 a, § 78, stk. 1, 3. pkt., og § 78, stk. 4, 2. pkt.
+
+44) Lovændringen ændrer fodnoten til lovens titel, ændrer § 8, § 15, § 16 (nyt stykke 3), § 17, § 50, § 65 (ophæver stk. 1, 4, og 5), § 67, stk. 2, § 69 (indsætter nyt stykke 3), § 71, stk. 4, nr. 1, 4 og 5, § 71, stk. 5, og § 78, stk. 4, 1. pkt., og indsætter ny § 8 a, § 15 a, § 15 b og § 65 b. Ved en fejl er »dele af Europa-Parlamentets og Rådets direktiv 2004/35/EF af 21. april 2004 om miljøansvar for så vidt angår forebyggelse og afhjælpning af miljøskader, EU-Tidende 2004, nr. L 143, side 56« ved ændringen udgået af fodnoten til lovens titel. Fodnoten vil blive ændret ved førstkommende ændring af loven.
+
+45) Loven er bekendtgjort i Lovtidende den 9. juni 2017.

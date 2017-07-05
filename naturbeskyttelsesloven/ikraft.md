@@ -313,3 +313,23 @@ Stk. 5. Regler, der er fastsat i henhold til hidtil gældende regler, forbliver 
 Stk. 6. Verserende klagesager i Natur- og Miljøklagenævnet eller Klagecenter for Fødevarer, Landbrug og Fiskeri, der ikke er færdigbehandlet ved denne lovs ikrafttræden, færdigbehandles og afgøres af Miljø- og Fødevareklagenævnet efter reglerne i denne lov. Dette gælder dog ikke verserende klagesager ved Natur- og Miljøklagenævnet, som ved lovens ikrafttræden skal færdigbehandles og afgøres af Planklagenævnet, jf. § 1 i lov om Planklagenævnet.
 
 Stk. 7. (Udelades)
+
+Lov nr. 668 af 8. juni 2017 (Lov om ændring af lov om planlægning, lov om naturbeskyttelse og lov om aktindsigt i miljøoplysninger) indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 4
+
+Stk. 1. Loven træder i kraft den 15. juni 2017.
+
+Stk. 2 -5. (Udelades)
+
+Lov nr. 681 af 8. juni 2017 (Nye muligheder for visse anlæg og indretninger på klitfredede arealer og inden for strandbeskyttelseslinjen samt inden for sø- og åbeskyttelseslinjen), indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 2
+
+Stk. 1. Loven træder i kraft dagen efter bekendtgørelsen i Lovtidende.
+
+Stk. 2. Bebyggelse, anlæg og indretninger, der er opført i strid med forbuddene i § 15, stk. 1, eller § 16, stk. 1, men som vil være lovlige i henhold til bestemmelserne i §§ 15 a og 15 b og § 16, stk. 3, kan opretholdes, uanset om de er påbudt lovliggjort efter de hidtil gældende regler i lov om naturbeskyttelse.
+
+Stk. 3. Verserende sager om ansøgning om etablering af anlæg og indretninger m.v., der vil kunne etableres uden forudgående dispensation i overensstemmelse med bestemmelserne i §§ 15 a og 15 b og § 16, stk. 3, bortfalder.
+
+Stk. 4. Regler fastsat i medfør af § 8, stk. 6 og 7, § 15, stk. 5, § 16, stk. 4, og § 69, stk. 5, jf. senest lovbekendtgørelse nr. 121 af 26. januar 2017, forbliver i kraft, indtil de ophæves eller afløses af nye regler.
