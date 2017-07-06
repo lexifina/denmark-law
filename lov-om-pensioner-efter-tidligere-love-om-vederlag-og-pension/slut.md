@@ -1,9 +1,5 @@
-Givet på Christiansborg slot, den 29. april 1970.
+Finansministeriet, den 16. juni 2017
 
-Under Vor Kongelige Hånd og Segl.
+Kristian Jensen
 
-FREDERIK R.
-
-H. Baunsgaard
-
-Ingen
+/ Jesper Schaumburg-Müller

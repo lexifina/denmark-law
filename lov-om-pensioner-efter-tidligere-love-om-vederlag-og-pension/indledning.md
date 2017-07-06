@@ -1,3 +1,3 @@
-Lov om pensioner efter tidligere love om vederlag og pension m.v. for ministre
+Bekendtgørelse af lov om pensioner efter tidligere love om vederlag og pension m.v. for ministre
 
-VI FREDERIK DEN NIENDE, ad Guds Nåde Konge til Danmark, de Venders og Goters, Hertug til Slesvig, Holsten, Stormarn, Ditmarsken, Lauenborg og Oldenborg, gør vitterligt: Folketinget har vedtaget og Vi ved Vort samtykke stadfæstet følgende lov:
+Hermed bekendtgøres lov nr. 178 af 29. april 1970 om pensioner efter tidligere love om vederlag og pension m.v. for ministre, med de ændringer, der følger af § 4 i lov nr. 447 af 30. juni 1993 og § 18 i lov nr. 628 af 8. juni 2016.
