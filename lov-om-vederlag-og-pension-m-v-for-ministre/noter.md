@@ -1,7 +1,13 @@
-§ 7 i lov nr. 194 af 5. juni 1959 om vederlag og pension m.v. for ministre er ved § 1, nr. 10, i lov nr. 577 af 19. december 1969 ændret til § 8.
+1) Loven blev kundgjort i det hæfte af Lovtidende, der udkom den 12. juni 1959. Loven trådte dermed i kraft den 19. juni 1959, jf. den dagældende bestemmelse i lovtidendelovens § 3, 2. pkt.
 
-§ 7 i lov nr. 194 af 5. juni 1959 om vederlag og pension m.v. for ministre er ved § 1, nr. 10, i lov nr. 577 af 19. december 1969 ændret til § 8.
+2) Lovændringen vedrører § 4, stk. 1, 2. pkt.
 
-Loven blev bekendtgjort i Lovtidende den 13. marts 1997.
+3) Lovændringen vedrører § 1, stk. 1, 1. og 2. pkt., § 1, stk. 2 og 3, § 2, stk. 1, 1. pkt., § 2, stk. 2, § 3, stk. 2, og § 5, stk. 4.
 
-Loven blev bekendtgjort i Lovtidende den 18. december 2002.
+4) Lovændringen vedrører § 1, stk. 1, 1. pkt., § 1, stk. 2, og § 3, stk. 1.
+
+5) Lovændringen vedrører § 1, stk. 2, 2. pkt.
+
+6) Lovændringen vedrører § 6.
+
+7) Lovændringen vedrører § 1, stk. 1, 1. pkt., § 1, stk. 2-4 og 6-11, § 2, stk. 2, § 3, stk. 1, 3. pkt., § 3, stk. 4, stk. 1, 2. og 3. pkt., § 4, stk. 2 og 4, og § 9, 2. pkt.
