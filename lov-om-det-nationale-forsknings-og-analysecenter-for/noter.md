@@ -1,0 +1,1 @@
+1) Lovændringen ved § 1 i lov nr. 709 af 8. juni 2017 vedrører lovens titel, overskriften til kapitel 1, § 1, stk. 1, og stk. 2, 1. og 3. pkt., § 2, stk. 1, § 6, stk. 1, og stk. 2, 1. og 3. pkt., og ændrer overalt i loven »Instituttet« til: »Centeret«, »instituttet« til: »centeret«, »instituttets« til: »centerets«, og »Instituttets« til: »Centerets«.
