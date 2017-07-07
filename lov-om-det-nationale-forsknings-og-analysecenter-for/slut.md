@@ -1,7 +1,5 @@
-Givet på Christiansborg Slot, den 18. juni 2012
+Økonomi- og Indenrigsministeriet, den 6. juli 2017
 
-Under Vor Kongelige Hånd og Segl
+P.M.V. Hans B. Thomsen
 
-MARGRETHE R.
-
-/ Margrethe Vestager
+/ Christina Ekmann
