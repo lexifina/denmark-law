@@ -1,7 +1,5 @@
-Givet på Amalienborg, den 24. juni 2005
+Økonomi- og Indenrigsministeriet, den 6. juli 2017
 
-Under Vor Kongelige Hånd og Segl
+P.M.V. Hans B. Thomsen
 
-MARGRETHE R.
-
-/Lars Løkke Rasmussen
+/ Christina Ekmann
