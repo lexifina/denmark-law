@@ -1,7 +1,5 @@
-Industriministeriet, den 29. september 1988
+Forsvarsministeriet, den 25. juli 2017
 
-NILS WILHJELM
+Claus Hjort Frederiksen
 
-/Torben Ginnerup
-
-Ingen
+/ Jon Bach Holm
