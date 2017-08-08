@@ -1,1 +1,1 @@
-§ 1 a. Henlægger industriministeren sine beføjelser efter loven til Søfartsstyrelsen, kan ministeren fastsætte regler om klageadgangen, herunder at klager ikke kan indbringes for højere administrativ myndighed.
+§ 1 a. Forsvarsministeren kan efter loven henlægge sine beføjelser til underliggende myndighed og kan i den forbindelse fastsætte regler om klageadgangen, herunder at klager ikke kan påklages til højere administrativ myndighed.
