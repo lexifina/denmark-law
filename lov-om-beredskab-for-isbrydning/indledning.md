@@ -1,3 +1,3 @@
-Bekendtgørelse af lov om Statens Istjeneste
+Bekendtgørelse af lov om beredskab for isbrydning
 
-Herved bekendtgøres lov nr. 109 af 8. april 1957 om Statens Istjeneste med de ændringer, der følger af lov nr. 857 af 23. december 1987.
+Herved bekendtgøres lov om beredskab for isbrydning, jf. lovbekendtgørelse nr. 578 af 29. september 1988, med de ændringer, der følger af § 4 i lov nr. 901 af 29. november 1995 og lov nr. 1122 af 4. december 2012.
