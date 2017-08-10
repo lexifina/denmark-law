@@ -1,15 +1,7 @@
-Lov nr. 542 af 6. juni 2007 (Forbedret indsats for udsatte børn og unge samt tilbageholdelse af gravide stofmisbrugere i behandling m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
+Lov nr. 655 af 8. juni 2016 (Styrket indsats for gravide med et misbrug af rusmidler) indeholder følgende ikrafttrædelses- og overgangsbestemmelse:
 
-§ 3
+§ 4
 
-Loven træder i kraft den 1. juli 2007.
+Stk. 1. Loven træder i kraft den 1. januar 2017.
 
-Lov nr. 493 af 21. maj 2013 (Forenkling af klagestrukturen på det sociale og beskæftigelsesmæssige område) indeholder følgende ikrafttrædelsesbestemmelser:
-
-§ 25
-
-Loven træder i kraft den 1. juli 2013.
-
-§ 26
-
-Stk. 1-3. (Udelades)
+Stk. 2. Loven finder ikke anvendelse på kontrakter om behandling med mulighed for tilbageholdelse, jf. sundhedslovens § 141 b henholdsvis tilbageholdelseslovens § 3, der er indgået før lovens ikrafttræden. For sådanne kontrakter finder de hidtil gældende regler i tilbageholdelsesloven og sundhedslovens §§ 141 a-141 g anvendelse.
