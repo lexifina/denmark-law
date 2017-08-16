@@ -50,14 +50,6 @@ Stk. 2. Forvolder en embedsmand fra en anden medlemsstat skade under udførelse 
 
 Loven træder i kraft den 1. juli 2002.
 
-Lov nr. 364 af 24. maj 2005 (Forældelse, skærpelse af straffen for falske afsonere m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
-
-§ 2
-
-Stk. 1. Loven træder i kraft den 1. juli 2005.
-
-Stk. 2. § 1, nr. 6, træder dog i kraft dagen efter bekendtgørelse i Lovtidende.
-
 Lov nr. 718 af 25. juni 2010 (Rekonstruktion m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
 
 § 55
@@ -136,46 +128,64 @@ Stk. 2. Loven finder anvendelse på domme, der afsiges efter lovens ikrafttræde
 
 Stk. 3. (Udelades)
 
-Lov nr. 1880 af 29. december 2015 (Tilslutning til fjendtlig væbnet styrke) indeholder følgende ikrafttrædelsesbestemmelse:
+Lov nr. 1723 af 27. december 2016 (Kriminalisering af udtrykkelig billigelse af visse strafbare handlinger som led i religiøs oplæring) indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 2
+
+Loven træder i kraft den 1. januar 2017.
+
+Lov nr. 1728 af 27. december 2016 (Øget respekt for det offentlige rum, offentlige myndigheder og personer i offentlig tjeneste m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 6
+
+Stk. 1. Loven træder i kraft dagen efter bekendtgørelsen i Lovtidende.
+
+Stk. 2. (Udelades)
+
+Lov nr. 189 af 27. februar 2017 (Styrket kontrol med udlændinge på tålt ophold og kriminelle udviste, herunder indførelse af underretningspligt, skærpet straf, afsoning i fodlænke og særlig adgang til varetægtsfængsling, og ændring af klageadgang) indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 4
+
+Stk. 1. Loven træder i kraft den 1. marts 2017, jf. dog stk. 2.
+
+Stk. 2-3. (Udelades)
+
+Lov nr. 426 af 3. maj 2017 om markedsføring indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 40. Loven træder i kraft den 1. juli 2017.
+
+Stk. 2-3. (Udelades)
+
+Lov nr. 494 af 22. maj 2017 (Skærpelse af straffen for ulovlig besiddelse af skydevåben m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
 
 § 2
 
 Loven træder i kraft dagen efter bekendtgørelsen i Lovtidende.
 
-Lov nr. 170 af 27. februar 2016 (Kriminalisering af uretmæssig besiddelse af mobiltelefon og lignende kommunikationsudstyr i varetægtssurrogat) indeholder følgende ikrafttrædelsesbestemmelse:
+Lov nr. 665 af 8. juni 2017 (Gennemførelse af direktiv om markeder for finansielle instrumenter (MiFID II) og ændringer som følge af forordning om markeder for finansielle instrumenter (MiFIR) m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
 
-§ 2
+§ 21
 
-Loven træder i kraft den 1. marts 2016.
+Stk. 1. Loven træder i kraft den 3. januar 2018, jf. dog stk. 2.
 
-Lov nr. 632 af 8. juni 2016 (Ændringer som følge af forordningen om markedsmisbrug samt gennemførelse af regler om provisionsbetalinger m.v. fra tredjeparter og oplysninger om omkostninger m.v. i direktivet om markeder for finansielle instrumenter (MiFID II)) indeholder følgende ikrafttrædelsesbestemmelse:
+Stk. 2-6. (Udelades)
 
-§ 6
-
-Stk. 1. Loven træder i kraft den 3. juli 2016, jf. dog stk. 2.
-
-Stk. 2. (Udelades)
-
-Lov nr. 635 af 8. juni 2016 (Skærpelse af straffen for voldtægt og for samleje med et barn under 15 år ved udnyttelse af fysisk eller psykisk overlegenhed) indeholder følgende ikrafttrædelsesbestemmelse:
-
-§ 2
-
-Loven træder i kraft den 1. juli 2016.
-
-Lov nr. 636 af 8. juni 2016 (Skærpelse af straffen for falsk anklage) indeholder følgende ikrafttrædelsesbestemmelse:
-
-§ 2
-
-Loven træder i kraft den 1. juli 2016.
-
-Lov nr. 641 af 8 juni 2016 (Styrket indsats mod mobiltelefoner i fængsler m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
+Lov nr. 672 af 8. juni 2017 (Styrket indsats mod rocker- og bandekriminalitet m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
 
 § 4
 
-Loven træder i kraft den 1. august 2016.
+Loven træder i kraft den 1. juli 2017.
 
-Lov nr. 642 af 8. juni 2016 (Væbnede konflikter i udlandet m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
+Lov nr. 675 af 8. juni 2017 (Ophævelse af straffelovens blasfemibestemmelse) indeholder følgende ikrafttrædelsesbestemmelse:
 
-§ 3
+§ 2
 
-Loven træder i kraft den 1. juli 2016.
+Loven træder i kraft dagen efter bekendtgørelsen i Lovtidende.
+
+Lov nr. 753 af 19. juni 2017 (Skærpelse af straffen for utryghedsskabende tiggeri) indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 2
+
+Stk. 1. Loven træder i kraft dagen efter bekendtgørelsen i Lovtidende, jf. dog stk. 2.
+
+Stk. 2. Straffelovens § 197, stk. 2 og 3, som affattet ved denne lovs § 1, nr. 1, ophæves den 1. juli 2020.
