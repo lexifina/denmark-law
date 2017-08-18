@@ -95,3 +95,17 @@ Stk. 5. Regler, der er fastsat i henhold til hidtil gældende regler, forbliver 
 Stk. 6. Verserende klagesager i Natur- og Miljøklagenævnet eller Klagecenter for Fødevarer, Landbrug og Fiskeri, der ikke er færdigbehandlet ved denne lovs ikrafttræden, færdigbehandles og afgøres af Miljø- og Fødevareklagenævnet efter reglerne i denne lov. Dette gælder dog ikke verserende klagesager ved Natur- og Miljøklagenævnet, som ved lovens ikrafttræden skal færdigbehandles og afgøres af Planklagenævnet, jf. § 1 i lov om Planklagenævnet.
 
 Stk. 7. (Udelades)
+
+Lov nr. 668 af 8. juni 2017 (Modernisering af planloven, bedre rammer for kommuner, borgere og virksomheder i hele landet) indeholder følgende ikrafttrædelses- og overgangsbestemmelse:
+
+§ 4
+
+Stk. 1. Loven træder i kraft den 15. juni 2017.
+
+Stk. 2. (Udelades)
+
+Stk. 3. (Udelades)
+
+Stk. 4. (Udelades)
+
+Stk. 5. (Udelades)

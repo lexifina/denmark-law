@@ -23,3 +23,5 @@
 11) Ved bekendtgørelse nr. 57 af 23. januar 2015 blev bl.a. lovens § 23 sat i kraft den 28. januar 2015.
 
 12) Lovændringen vedrører § 4 a og § 4 b.
+
+13) Lovændringen vedrører § 5 c.
