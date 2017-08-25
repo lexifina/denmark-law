@@ -10,20 +10,6 @@ Stk. 1. Personer, der har bestået dansk eksamen som social- og sundhedsassisten
 
 Stk. 2. Styrelsen for Patientsikkerhed kan i konkrete tilfælde dispensere fra tidsfristen, hvis særlige forhold taler herfor.
 
-Lov nr. 538 af 17. juni 2008 (Friere sygehusvalg, kontaktpersoner på sygehusene, udvidet adgang til Medicinprofilen og nationalt forebyggelsesråd m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
-
-§ 4
-
-Stk. 1. Loven træder i kraft den 1. januar 2009, jf. dog stk. 2-4.
-
-Stk. 2-4. (Udelades)
-
-Lov nr. 140 af 9. februar 2010 (Behandling af klager over bedømmelse af prøver) indeholder følgende ikrafttrædelsesbestemmelse:
-
-§ 16
-
-Loven træder i kraft den 1. september 2010.
-
 Lov nr. 706 af 25. juni 2010 (Et nyt patientklagesystem, mulighed for at klage over sundhedsvæsenets sundhedsfaglige virksomhed, forenkling af regler om tilsynsforanstaltninger m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
 
 § 8
@@ -35,12 +21,6 @@ Stk. 2-5. (Udelades)
 Stk. 6. De hidtil gældende regler i lov om autorisation af sundhedspersoner og om sundhedsfaglig virksomhed finder anvendelse for indstillinger til indenrigs- og sundhedsministeren, som Styrelsen for Patientsikkerhed før denne lovs ikrafttræden har afgivet, og afgørelser, som Styrelsen for Patientsikkerhed før denne lovs ikrafttræden har truffet.
 
 Stk. 7. (Udelades)
-
-Lov nr. 155 af 26. februar 2011 (Autorisation som optometrist m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
-
-§ 2
-
-Loven træder i kraft den 1. marts 2011.
 
 Lov nr. 361 af 9. april 2013 (Midlertidig autorisationsfratagelse ved manglende medvirken ved tilsyn og mulighed for Sundhedsstyrelsen for at stille sundhedsmæssige krav til behandlingssteders virksomhed) indeholder følgende ikrafttrædelsesbestemmelse:
 
@@ -56,31 +36,7 @@ Stk. 4. § 6, stk. 3, 4 og 5, og § 9, stk. 1, i lov om autorisation af sundheds
 
 Stk. 5. En sundhedspersons manglende efterlevelse af Sundhedsstyrelsens begæring om at afgive oplysninger, jf. § 26, stk. 2, i lov om autorisation af sundhedspersoner og om sundhedsfaglig virksomhed, meddelt før den 1. juli 2013 kan ikke medføre midlertidig fratagelse af den pågældende sundhedspersons autorisation eller indskrænkning af den pågældende sundhedspersons virksomhedsområde, jf. § 1, nr. 4.
 
-Lov nr. 519 af 26. maj 2014 (Ændring af regler om patienters retsstilling, nedlæggelse af Lægemiddelskadeankenævnet, oplysningspligt ved erstatningsudbetalinger i patientskadesager, afbrydelse af forældelse i sager om patient- og lægemiddelskadeserstatninger, offentliggørelse af Sundhedsstyrelsens tilsynsrapporter ved tilbagevendende tilsyn m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
-
-§ 4
-
-Stk. 1. Loven træder i kraft den 1. juli 2014, jf. dog stk. 2.
-
-Stk. 2. § 2, nr. 2 og 3, træder i kraft den 1. juli 2015, og § 2, nr. 1 og 4-9, træder i kraft den 1. januar 2015.
-
-Stk. 3-9. (Udelades)
-
-Stk. 10. Sundhedslovens § 215 a, stk. 8, 5. pkt., som affattet ved denne lovs § 1, nr. 18, og sundhedslovens § 219, stk. 6, 2. pkt., som affattet ved denne lovs § 1, nr. 19, samt § 71, stk. 6, i lov om autorisation af sundhedspersoner og om sundhedsfaglig virksomhed som affattet ved denne lovs § 3, nr. 1, finder tilsvarende anvendelse for tilsynsrapporter vedrørende det senest afholdte tilsyn inden den 1. juli 2014.
-
-Lov nr. 1536 af 27. december 2014 (Lægesamtaler, lægelig stofmisbrugsbehandling, frit valg i forbindelse med stofmisbrugsbehandling og befordring af personer i lægelig stofmisbrugsbehandling med heroin) indeholder følgende ikrafttrædelsesbestemmelse:
-
-§ 3
-
-Loven træder i kraft den 1. januar 2015.
-
-Lov nr. 383 af 27. april 2016 (Mulighed for anvendelse af personlige alarm- og pejlesystemer på sygehuse, tilbageholdelse af patienter m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
-
-§ 3
-
-Loven træder i kraft den 1. august 2016.
-
-Lov nr. 656 af 08. juni 2016 (Styrelsen for Patientsikkerheds fremtidige tilsyn m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
+Lov nr. 656 af 8. juni 2016 (Styrelsen for Patientsikkerheds fremtidige tilsyn m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
 
 § 8
 
@@ -111,3 +67,21 @@ Stk. 12. Styrelsen for Patientsikkerhed offentliggør ikke beslutninger om frask
 Stk. 13. Styrelsen for Patientsikkerheds afgørelser med vilkår og aftaler om medvirken til oplysning af en sag om en sundhedspersons manglende egnethed i henhold til § 6 i lov om autorisation af sundhedspersoner og om sundhedsfaglig virksomhed, jf. lovbekendtgørelse nr. 877 af 4. august 2011 med senere ændringer, forbliver i kraft, indtil de ophæves.
 
 Stk. 14. (Udelades)
+
+Lov nr. 1734 af 27. december 2016 (Ændring af kiropraktorers forbeholdte virksomhedsområde m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 3
+
+Loven træder i kraft den 1. juli 2017.
+
+Lov nr. 113 af 31. januar 2017 (Etablering af en bisidderordning og praktiserende kiropraktorers mulighed for henvisning til billeddiagnostiske undersøgelser samt kvalitetsarbejde m.v.) indeholder følgende ikrafttrædelsesbestemmelser:
+
+§ 5
+
+Stk. 1. Loven træder i kraft den 1. februar 2017, jf. dog stk. 2.
+
+Stk. 2. (Udelades).
+
+§ 6
+
+Lovens §§ 1, 3 og 4 gælder ikke for Færøerne og Grønland.

@@ -1,5 +1,5 @@
-Sundheds- og Ældreministeriet, den 23. oktober 2016
+Sundheds- og Ældreministeriet, den 18. august 2017
 
-Sophie Løhde
+Ellen Trane Nørby
 
-/ Anita Aagaard Koefoed
+/ Camilla Lerager Pedersen
