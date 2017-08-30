@@ -1,21 +1,33 @@
 1) Loven indeholder bestemmelser, der gennemfører dele af Rådets direktiv 2000/43/EF om gennemførelse af princippet om ligebehandling af alle uanset race eller etnisk oprindelse ( EF-Tidende 2000 nr. L 180, s. 22) samt Rådets direktiv 2000/78/EF af 27. november 2000 om generelle rammebestemmelser om ligebehandling med hensyn til beskæftigelse og erhverv ( EF-Tidende 2000 nr. L 303, s. 16).
 
-2) Lov nr. 253 af 7. april 2004 blev bekendtgjort i Lovtidende den 14. april 2004.
+2) Lovændringen vedrører § 1, § 2, stk. 4, § 3, stk. 4, §§ 5 - 7 a, og § 8 a, samt overskriften til kapitel 4.
 
-3) Lov nr. 1417 af 22. december 2004 blev bekendtgjort i Lovtidende den 27. december 2004.
+3) Lov nr. 253 af 7. april 2004 blev bekendtgjort i Lovtidende den 14. april 2004.
 
-4) EFT C 177 E af 27.6.2000, s. 42.
+4) Lovændringen vedrører § 1, § 1 a, § 2 a, § 5, § 5 a, § 6, § 6 a, og § 9.
 
-5) Udtalelse af 12.10.2000 (endnu ikke offentliggjort i EFT).
+5) Lov nr. 1417 af 22. december 2004 blev bekendtgjort i Lovtidende den 27. december 2004.
 
-6) EFT C 204 af 18.7.2000, s. 82.
+6) Lovændringen vedrører § 5, og § 5 a.
 
-7) EFT C 226 af 8.8.2000, s. 1.
+7) Lovændringen vedrører § 5 a.
 
-8) EFT L 39 af 14.2.1976, s. 40.
+8) Lovændringen vedrører § 8 a.
 
-9) EFT L 180 af 19.7.2000, s. 22.
+9) Lovændringen vedrører § 5 a, og § 6 a.
 
-10) EFT L 225 af 12.8.1986, s. 43.
+10) EFT C 177 E af 27.6.2000, s. 42.
 
-11) EFT C 186 af 2.7.1999, s. 3.
+11) Udtalelse af 12.10.2000 (endnu ikke offentliggjort i EFT).
+
+12) EFT C 204 af 18.7.2000, s. 82.
+
+13) EFT C 226 af 8.8.2000, s. 1.
+
+14) EFT L 39 af 14.2.1976, s. 40.
+
+15) EFT L 180 af 19.7.2000, s. 22.
+
+16) EFT L 225 af 12.8.1986, s. 43.
+
+17) EFT C 186 af 2.7.1999, s. 3.
