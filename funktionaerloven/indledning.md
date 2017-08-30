@@ -1,3 +1,3 @@
 Bekendtgørelse af lov om retsforholdet mellem arbejdsgivere og funktionærer
 
-Herved bekendtgøres lov om retsforholdet mellem arbejdsgivere og funktionærer, jf. lovbekendtgørelse nr. 68 af 21. januar 2005 med de ændringer, der følger af § 7 i lov nr. 542 af 24. juni 2005, § 58 i lov nr. 566 af 9. juni 2006 og lov nr. 312 af 30. april 2008.
+Herved bekendtgøres lov om retsforholdet mellem arbejdsgivere og funktionærer, jf. lovbekendtgørelse nr. 81 af 3. februar 2009, med de ændringer, der følger af § 5 i lov nr. 647 af 12. juni 2013, lov nr. 52 af 27. januar 2015, § 14 i lov nr. 1565 af 15. december 2015 og § 8 i lov nr. 285 af 29. marts 2017.
