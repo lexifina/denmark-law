@@ -1,5 +1,5 @@
-Erhvervs- og Vækstministeriet, den 5. juli 2016
+Erhvervsministeriet, den 30. august 2017
 
-Troels Lund Poulsen
+Brian Mikkelsen
 
 / Jesper Berg
