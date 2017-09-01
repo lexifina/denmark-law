@@ -2,7 +2,7 @@ Lov nr. 1257 af 18. december 2012 (Private sygehuse, klinikker og speciallægepr
 
 § 2
 
-Stk. 1. Loven træder i kraft den 1. juli 2013, jf. dog stk. 2.
+Stk. 1. Loven træder i kraft den 1. september 2013, jf. dog stk. 2.
 
 Stk. 2. Lovens § 1, nr. 1, og § 3 træder i kraft den 1. januar 2013.
 
@@ -12,35 +12,7 @@ Stk. 3. Loven finder anvendelse for skader, der forårsages efter lovens ikraftt
 
 Sundhedsministeren kan for perioden fra den 1. januar 2011 til den 1. januar 2013 fastsætte regler om vederlag og befordringsgodtgørelse til visse medlemmer af de regionale tandlægenævn og Landstandlægenævnet, der ikke udfører hvervet som led i deres tjenstlige arbejde, og om afholdelse af udgifter til vederlaget og befordringsgodtgørelsen.
 
-Lov nr. 1401 af 23. december 2012 (Ret til hurtig udredning i sygehusvæsenet og differentieret ret til udvidet frit sygehusvalg m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
-
-§ 3
-
-Stk. 1. Loven træder i kraft den 1. januar 2013, jf. dog stk. 2.
-
-Stk. 2-4. (Udelades)
-
-Lov nr. 904 af 4. juli 2013 (Ændring af rammerne for almen medicinske ydelser m.v. i praksissektoren, herunder styrkelse af regionernes planlægnings- og styringsmuligheder, ensartet kvalitet, systematisk patientinddragelse, erstatningspligt m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
-
-§ 4
-
-Stk. 1. Loven træder i kraft den 1. september 2013, jf. dog stk. 2 og 3.
-
-Stk. 2. (Udelades)
-
-Stk. 3. § 2, nr. 6 og 7, og § 3 træder i kraft den 15. juli 2013.
-
-Stk. 4-6. (Udelades)
-
-Lov nr. 1638 af 26. december 2013 (Gennemførelse af dele af direktiv 2011/24/EU om patientrettigheder i forbindelse med grænseoverskridende sundhedsydelser m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
-
-§ 4
-
-Stk. 1. Loven træder i kraft den 1. januar 2014, jf. dog stk. 2.
-
-Stk. 2-5. (Udelades)
-
-Lov nr. 519 af 26. maj 2014 (Ændring af regler om patienters retsstilling, nedlæggelse af Lægemiddelskadeankenævnet, oplysningspligt ved erstatningsudbetalinger i patientskadesager, afbrydelse af forældelse i sager om patient- og lægemiddelskadeserstatninger, offentliggørelse af Sundhedsstyrelsens tilsynsrapporter ved tilbagevendende tilsyn m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
+Lov nr. 519 af 26. maj 2014 (Ændring af regler om patienters retsstilling, nedlæggelse af Lægemiddelskadeankenævnet, oplysningspligt ved erstatningsudbetalinger i patientskadesager, afbrydelse af forældelse i sager om patient- og lægemiddelskadeserstatninger, offentliggørelse af Sundhedsstyrelsens tilsynsrapporter ved tilbagevendende tilsyn m.v. indeholder følgende ikrafttrædelsesbestemmelse:
 
 § 4
 
@@ -63,30 +35,6 @@ Stk. 8. § 2, nr. 10, finder tilsvarende anvendelse for bindende afgørelser tru
 Stk. 9. § 2, nr. 10, finder tilsvarende anvendelse for bindende afgørelser truffet i medfør af den ophævede lov om patientforsikring, jf. lovbekendtgørelse nr. 228 af 24. marts 1997, således at spørgsmål om forældelse herefter skal afgøres efter de regler, der gælder efter denne lovs ikrafttræden, dog således at den i lov om klage- og erstatningsadgang inden for sundhedsvæsenets § 60 b nævnte frist på 3 år i disse sager er 5 år.
 
 Stk. 10. (Udelades)
-
-Lov nr. 743 af 25. juni 2014 (Ligestilling mellem psykiatriske og somatiske patienter ved ret til frit sygehusvalg, ret til hurtig udredning i sygehusvæsenet og differentieret ret til udvidet frit sygehusvalg m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
-
-§ 3
-
-Stk. 1. Loven træder i kraft den 1. september 2014, jf. dog stk. 2.
-
-Stk. 2-3. (Udelades)
-
-Lov nr. 523 af 29. april 2015 (Overførsel af myndighedsområder til Udbetaling Danmark og indførelse af beføjelser til, at Udbetaling Danmark kan foretage registersamkøringer på bl.a. kommunale ydelsesområder m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
-
-§ 8
-
-Stk. 1. Loven træder i kraft den 1. maj 2015.
-
-Stk. 2-3. (Udelades)
-
-Lov nr. 742 af 1. juni 2015 (Overgang til obligatorisk digital selvbetjening, for så vidt angår anmodning om sygedagpenge, afgivelse af samtykke til udstedelse af børneattest og straffeattest til offentlig brug, ansøgning og meddelelser m.v. om personligt tillæg og helbredstillæg, indgivelse af klager til Patientombuddet, Sundhedsvæsenets Disciplinærnævn og Ankenævnet for Patienterstatningen, ansøgning om udstedelse af personcertifikater på luftfartsområdet, anmodning om behandling af klager fra flypassagerer, ansøgning om chaufføruddannelsesbeviser m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
-
-§ 13
-
-Stk. 1. Loven træder i kraft den 1. december 2015.
-
-Stk. 2. Loven finder alene anvendelse for ansøgninger, anmodninger, meddelelser og klager m.v., der indgives efter lovens ikrafttræden.
 
 Lov nr. 395 af 2. maj 2016 (Overførsel af Arbejdsskadestyrelsens opgaver til den selvejende institution Arbejdsmarkedets Erhvervssikring og til Styrelsen for Arbejdsmarked og Rekruttering samt nedlæggelse af Arbejdsmarkedets Erhvervssygdomssikring) indeholder følgende ikrafttrædelses- og overgangsbestemmelser:
 
@@ -138,6 +86,48 @@ Lov nr. 656 af 8. juni 2016 (Styrelsen for Patientsikkerheds fremtidige tilsyn m
 
 § 8
 
-Stk. 1. Loven træder i kraft den 1. juli 2016, jf. dog stk. 2.
+Loven træder i kraft den 1. juli 2016, jf. dog stk. 2.
 
 Stk. 2-14. (Udelades)
+
+Lov nr. 113 af 31. januar 2017 (Etablering af en bisidderordning og praktiserende kiropraktorers mulighed for henvisning til billeddiagnostiske undersøgelser samt kvalitetsarbejde m.v.) indeholder følgende ikrafttrædelsesbestemmelser:
+
+§ 5
+
+Stk. 1. Loven træder i kraft den 1. februar 2017, jf. dog stk. 2.
+
+Stk. 2. (Udelades)
+
+§ 6
+
+Lovens §§ 1, 3 og 4 gælder ikke for Færøerne og Grønland.
+
+Lov nr. 238 af 15. marts 2017 (Godtgørelse til forældre, der har mistet et barn som følge af skade påført i sundhedsvæsenet) indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 2
+
+Loven træder i kraft dagen efter bekendtgørelsen i Lovtidende og finder anvendelse på sager, hvor skaden er forårsaget efter lovens ikrafttræden.
+
+Lov nr. 285 af 29. marts 2017 (Forenkling af regler om inddrivelse af gæld til det offentlige m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 25
+
+Stk. 1. Loven træder i kraft den 1. april 2017.
+
+Stk. 2. (Udelades)
+
+Lov nr. 655 af 8. juni 2017 indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 18
+
+Loven træder i kraft den 1. januar 2018.
+
+Lov nr. 689 af 8. juni 2017 (Afvikling af kontaktpersonordningen) indeholder følgende ikrafttrædelsesbestemmelser:
+
+§ 3
+
+Loven træder i kraft den 1. oktober 2017.
+
+§ 4
+
+Loven gælder ikke for Færøerne og Grønland.
