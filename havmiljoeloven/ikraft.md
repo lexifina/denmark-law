@@ -298,6 +298,14 @@ Loven træder i kraft den 1. juli 2016.
 
 Loven gælder ikke for Færøerne og Grønland, men kan ved kongelig anordning helt eller delvis sættes i kraft for Grønland med de ændringer, som de grønlandske forhold tilsiger.
 
+Lov nr. 427 af 18. maj 2016 (Konsekvensændringer m.v. som følge af lov om miljøvurdering af planer og programmer og af konkrete projekter (VVM)) indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 10
+
+Stk. 1. Loven træder i kraft den 16. maj 2017, jf. dog stk. 2.
+
+Stk. 2-9. (Udelades)
+
 Lov nr. 1715 af 27. december 2016 om Miljø- og Fødevareklagenævnet indeholder følgende ikrafttrædelses- og overgangsbestemmelse:
 
 § 24. Loven træder i kraft den 1. februar 2017.
@@ -313,3 +321,15 @@ Stk. 5. Regler, der er fastsat i henhold til hidtil gældende regler, forbliver 
 Stk. 6. Verserende klagesager i Natur- og Miljøklagenævnet eller Klagecenter for Fødevarer, Landbrug og Fiskeri, der ikke er færdigbehandlet ved denne lovs ikrafttræden, færdigbehandles og afgøres af Miljø- og Fødevareklagenævnet efter reglerne i denne lov. Dette gælder dog ikke verserende klagesager ved Natur- og Miljøklagenævnet, som ved lovens ikrafttræden skal færdigbehandles og afgøres af Planklagenævnet, jf. § 1 i lov om Planklagenævnet.
 
 Stk. 7. (Udelades)
+
+Lov nr. 463 af 15. maj 2017 (Implementering af dele af Hongkongkonventionen) indeholder følgende ikrafttrædelses- og overgangsbestemmelse:
+
+§ 4.
+
+Stk. 1. Loven træder i kraft den 1. juli 2017, jf. dog stk. 2.
+
+Stk. 2. Miljø- og fødevareministeren fastsætter tidspunktet for ikrafttræden af § 1, nr. 3-11, og § 2. Ministeren kan herunder fastsætte, at bestemmelserne træder i kraft på forskellige tidspunkter.
+
+§ 5.
+
+Loven gælder ikke for Færøerne og Grønland, men §§ 1 og 3 kan ved kongelig anordning sættes helt eller delvis i kraft for Grønland med de ændringer, som de grønlandske forhold tilsiger.
