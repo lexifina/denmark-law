@@ -1,0 +1,1 @@
+1) § 3, stk. 3, og § 3, stk. 7, 2., 4. og 5. pkt., er ændret ved § 2, nr. 2-4, i lov nr. 687 af 8. juni 2017. Ændringerne er ikke indarbejdet i denne lovbekendtgørelse, da disse ændringer først har virkning fra og med den 1. januar 2018, jf. § 7, stk. 3, i lov nr. 687 af 8. juni 2017.
