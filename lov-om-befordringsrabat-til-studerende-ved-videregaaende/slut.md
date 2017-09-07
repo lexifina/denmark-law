@@ -1,5 +1,5 @@
-Ministeriet for Forskning, Innovation og Videregående Uddannelser, den 10. oktober 2013
+Uddannelses- og Forskningsministeriet, den 30. august 2017
 
-Morten Østergaard
+Søren Pind
 
-/ Marianne Gjevert Petersen
+/ Thomas Voigt Lund
