@@ -10,4 +10,4 @@ Stk. 4. Uddannelses- og forskningsministeren kan fastsætte nærmere regler om k
 
 ## Bortfald af udbudsgodkendelse
 
-§§ 15 c-15 g. (Ophævet)
+§ §§ 15 c-15 g. (Ophævet)
