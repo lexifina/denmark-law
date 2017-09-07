@@ -8,7 +8,7 @@ Stk. 4. Tillæg efter stk. 1 og 2 og det supplerende studielån efter stk. 3 kan
 
 Stk. 5. Tillæg efter stk. 1 til enlige forsørgere tildeles uddannelsessøgende, der har ret til og modtager ekstra børnetilskud efter lov om børnetilskud og forskudsvis udbetaling af børnebidrag.
 
-Stk. 6. Ministeren for forskning, innovation og videregående uddannelser kan fastsætte nærmere regler om
+Stk. 6. Uddannelses- og forskningsministeren kan fastsætte nærmere regler om
 
 1) tildeling af tillæg efter stk. 1, herunder om, at andre end de uddannelsessøgende, der er omfattet af stk. 5, har ret til tillæg efter stk. 1,
 

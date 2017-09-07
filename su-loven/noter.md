@@ -1,37 +1,105 @@
 1) Loven indeholder bestemmelser, der gennemfører dele af Rådets direktiv 2004/38/EF af 29. april 2004 om unionsborgeres og deres familiemedlemmers ret til at færdes og opholde sig frit på medlemsstaternes område (EU-Tidende 2004 L 158, side 77ff.).
 
-2) Lov nr. 639 af 12. juni 2013, hvis § 18 ændrer SU-lovens § 42, stk. 4, er ikke indarbejdet. På tidspunktet for lovens vedtagelse var § 42, stk. 4, ændret til § 42, stk. 5, jf. § 1, nr. 2, i lov nr. 274 af 19. marts 2013, hvorfor det ikke er muligt at foretage indarbejdelsen.
+2) Styrelsen for Videregående Uddannelser er nedlagt pr. 31. december 2016. Uddannelses- og Forskningsministeren har ved cirkulære nr. 9574 af 23. juni 2017 tillagt Styrelsen for Institutioner og Uddannelsesstøtte de beføjelser, som efter loven er tillagt Styrelsen for Videregående Uddannelser.
 
-3) Styrelsen for Statens Uddannelsesstøtte er nedlagt. Ministeren for forskning, innovation og videregående uddannelser, der efter kongelige anordninger af henholdsvis 3. og 5. oktober 2011 har ansvaret for denne lov, har tillagt Styrelsen for Videregående Uddannelser de beføjelser, der efter loven er tillagt Styrelsen for Statens Uddannelsesstøtte.
+3) Se note 2.
 
-4) Økonomistyrelsen er nedlagt og opgaven vedrørende tilbagebetaling af statens uddannelsesstøtte er af finansministeren tillagt Statens Administration.
+4) Lovændringen vedrører § 24, stk. 1 og 6, § 30, stk. 5, 1. pkt., § 47, stk. 1, nr. 2, 2. pkt., § 50, stk. 1, § 50, stk. 3, 2. og 3. pkt., § 51, § 53 a og § 57, stk. 2, nr. 5, og § 57, stk. 4.
 
-5) Styrelsen for Videregående Uddannelser er tillagt de beføjelser, der efter loven er tillagt Styrelsen for Statens Uddannelsesstøtte, jf. note 3.
+5) Lovændringens § 39 vedrører § 18, stk. 1.
 
-6) Bekendtgjort i Lovtidende den 21. december 2000.
+6) Lovændringens § 1 vedrører § 1, § 3, § 4, stk. 1, § 15, § 16, stk. 5 og 6, § 23, stk. 3, nr. 2, § 23, stk. 5, § 24, stk. 2, nr. 2-4, § 24, stk. 3, nr. 4 og 5, § 24, stk. 6, § 31, stk. 4 og 5, § 37, stk. 1 og 2, § 38, § 39, stk. 3-6, § 42, stk. 1, 2. pkt., overskriften til kapitel 9, overskriften til afsnit II, § 60 og § 62, stk. 7.
 
-7) Hvorved § 26, stk. 1, er ændret.
+7) Lovændringens § 4 vedrører § 8, stk. 1, nr. 2, og stk. 2, nr. 2.
 
-8) Hvorved § 23, stk. 2, er ændret.
+8) Lovændringens § 14 vedrører § 23, stk. 2, og § 26, stk. 1.
 
-9) Loven gælder ikke for Færøerne og Grønland.
+9) Bekendtgørelsen i Lovtidende fandt sted den 21. december 2000.
 
-10) Hvorved § 2, stk. 3, er indsat.
+10) Lovændringens § 14 § vedrører § 12, stk. 2, 2. pkt., § 36, stk. 2, § 39, stk. 3, og stk. 6, nr. 2, 3 og 6, og § 40, 1. og 2. pkt., og § 43 a.
 
-11) Hvorved § 24, stk. 8, er affattet.
+11) Lovændringens § 1 vedrører § 2, stk. 3, § 14, stk. 1, 1. pkt., og stk. 2, 1. pkt., § 23, stk. 3, nr. 2, og stk. 5, § 24, stk. 8, § 25, stk. 1, 2. pkt., § 30, stk. 5, 1. pkt., § 33, stk. 4, § 42, stk. 4, § 46, stk. 4, 2. pkt., § 54, nr. 1 og 5 og 57 a.
 
-12) Bekendtgjort i Lovtidende den 30. maj 2003.
+12) Lovændringens § 16 vedrører § 23, stk. 2, og § 26, stk. 1.
 
-13) Bekendtgjort i Lovtidende den 7. juni 2005.
+13) Bekendtgørelsen i Lovtidende fandt sted den 30. maj 2003.
 
-14) Bekendtgjort i Lovtidende den 7. juni 2005.
+14) Lovændringens § 4 vedrører § 1, stk. 2.
 
-15) Bekendtgjort i Lovtidende den. 20. april 2007.
+15) Lovændringens § 9 vedrører § 18, stk. 1, nr. 1.
 
-16) Loven gælder ikke for Færøerne og Grønland.
+16) Lovændringen vedrører § 7, stk. 2, 8, stk. 1, nr. 1 og 2, § 8, stk. 2, nr. 1 og 2, § 9, § 10, § 10 a, § 11, § 14, stk. 9, § 22, stk. 2, 1. pkt., § 24, stk. 1-5 og 7, nr. 2, 2. pkt., § 25, stk. 1, 1. og 2. pkt., § 25, stk. 2, 1. og 3. pkt., § 25, stk. 4, og § 29, stk. 3, og § 46, stk. 5.
 
-17) Bestemmelserne i § 22 a, § 23, stk. 1, § 24, stk. 2-3 og 6-9, § 25, stk. 6, nr. 2 og 3, § 30, stk. 2, 2. pkt., og § 39, stk. 1, 2. pkt., som affattet henholdsvis ændret ved § 1, nr. 12, 13, 15, 18, 24 og 25, i lov nr. lov nr. 374 af 26. maj 2008, trådte i kraft den 1. januar 2009, jf. bekendtgørelse nr. 1214 af 15. december 2008 om ikrafttræden af visse bestemmelser i lov om ændring af lov om statens uddannelsesstøtte (SU-loven).
+17) Lovændringens § 1 vedrører § 1, stk. 1 og 3, § 2, stk. 1, nr. 2, § 7, stk. 3 og 4, § 8, stk. 2, nr. 1, § 10 b, § 16, stk. 5 og 6, § 22, stk. 2, 1. pkt., § 24, stk. 3, § 25, stk. 1, 1. pkt., § 25, stk. 2, 3. og 4. pkt., § 29, stk. 3, § 26, stk. 2, § 39, stk. 3, § 39, stk. 2, § 39, stk. 6, nr. 1, § 40, 1. og 2. pkt., § 42, stk. 1, 2. pkt., og § 43 a, stk. 1, 1. og 2. pkt.
 
-18) Bestemmelser i § 12, §§ 38 a-38 e, § 39, stk. 9, og § 43 a, stk. 1, 2. pkt., som affattet henholdsvis ændret ved § 1, nr. 13, 19, 25, 27 og 31 i lov nr. 1408 af 27. december 2008, samt ophævelsen af § 41, jf. samme lovs § 1, nr. 28 trådte i kraft den 1. juli 2009 med virkning for ansøgning om uddannelsesstøtte eller ændring af uddannelsesstøtte, der modtages den 1. juli 2009 eller senere, jf. bekendtgørelse nr. 453 af 8. juni 2009 om ikrafttræden af visse bestemmelser i lov om statens uddannelsesstøtte (SU-loven). For ansøgninger modtaget før den 1. juli 2009 finder de hidtil gældende bestemmelser anvendelse. Ikrafttrædelsen af bestemmelsen i SU-lovens § 38 c og § 38 d om, hvordan studielån og slutlån frigives til disposition, sker med virkning for ansøgning om studielån eller slutlån for støtteåret 2010 eller senere. For ansøgning om studielån og slutlån for støtteåret 2009 finder de hidtil gældende bestemmelser anvendelse.
+18) Lovændringens § 9 vedrører § 2, stk. 4-7, § 14, stk. 1 og 2, § 24, stk. 3, nr. 6, § 39, stk. 5, § 42, stk. 1, 2. pkt., og § 43 a, stk. 1.
 
-19) Bekendtgjort i Lovtidende den 21. december 2010.
+19) Lovændringens § 113 vedrører § 26, stk. 2 og 3, § 39, stk. 1, og § 40, stk. 1, 1. pkt.
+
+20) Bekendtgørelsen i Lovtidende fandt sted den 7. juni 2005.
+
+21) Lovændringens § 61 vedrører § 36, stk. 2 og 3, § 37, stk. 2, og § 43 a, stk. 1, 1. pkt.
+
+22) Bekendtgørelsen i Lovtidende fandt sted den 7. juni 2005.
+
+23) Lovændringens § 1 vedrører titlen, § 2, stk. 1, nr. 1, § 2, stk. 3, 1. pkt., § 2, stk. 8, 1. pkt., § 2 a, § 3, stk. 5, § 13, stk. 1, nr. 3 og 4, § 13, stk. 3, § 24, stk. 3, nr. 3, § 29, stk. 3, § 39, stk. 1, og § 45, stk. 1.
+
+24) Bekendtgørelsen i Lovtidende fandt sted den 20. april 2007.
+
+25) Lovændringens § 21 vedrører § 39, stk. 1, 2. pkt., og § 40, 2. pkt.
+
+26) Lovændringen vedrører § 2, stk. 3.
+
+27) Lovændringen vedrører § 1. stk. 3 og 4, § 12, stk. 2. 1. pkt., og § 46 a-h.
+
+28) Lovændringens § 2 vedrører § 23, stk. 3, nr. 2, § 24, stk. 8, § 39, stk. 8, § 42, stk. 1, 2. pkt., § 43 a, stk. 1, 2. pkt., og § 62, stk. 1. pkt.
+
+29) Lovændringen vedrører § 8, stk. 1 og 2, § 9, § 10, § 10 a, stk. 1, § 10 b, stk. 1-3, § 11, stk. 1, § 22 a, § 23, stk. 1, § 24, stk. 1-4 og 6-9, § 25, stk. 1, 1. og 2. pkt., § 25, stk. 2, 1., 3. og 4. pkt., § 25, stk. 4, § 25, stk. 6, nr. 1 og 2, § 30, stk. 2, 2. pkt., § 39, stk. 1, 2. pkt., og § 63.
+
+30) Ved bekendtgørelse nr. 1214 af 15. december 2008 er det bestemt, at ændringslovens § 1, nr. 12, 13, 15, 18, 24 og 25, træder i kraft den 1. januar 2009.
+
+31) Lovændringens § 136 vedrører § 31, stk. 3-5, § 34, stk. 1, § 36, stk. 3, kapitel 9, § 46, stk. 1, nr. 3, og § 61, stk. 1.
+
+32) Ved bekendtgørelse nr. 286 af 29. marts 2017 er det bestemt, at ændringslovens § 136, nr. 1, 3 og 4, træder i kraft den 1. april 2017.
+
+33) Lovændringen vedrører § 2, stk. 3, 2. og 3. pkt., § 7, stk. 2, § 8, stk. 4, nr. 2, 2. pkt., § 10 a, stk. 1 og 2, § 10 b, stk. 1-4, § 11, stk. 2, § 12, § 13, stk. 1, nr. 1, § 13, stk. 3, § 20, § § 20 a, 22, stk. 2, § 24, stk. 1 og 5, § 24, stk. 7, nr. 2, 2. pkt., § 24, stk. 9, § 25, stk. 4, 5, 7 og 8, nr. 1, § 29, stk. 3, kapitel 10 a, § 39, stk. 2, 1. pkt., § 39, stk. 9, § 41, § 42, stk. 1 og § 43, stk. 1, 2. og 3. pkt., § 43 a, stk. 1, 2. pkt., § 46, stk. 5, og 62, stk. 7.
+
+34) Ved bekendtgørelse nr. 453 af 8. marts 2017 er det bestemt, at ændringslovens § 1, nr. 13, 19, 25, 27, 31 og 41, trådte i kraft den 1. juli 2009 med virkning for ansøgning om uddannelsesstøtte eller ændring af uddannelsesstøtte, der modtages den 1. juli 2009 eller senere. For ansøgninger modtaget før den 1. juli 2009 finder de hidtil gældende bestemmelser anvendelse. Ikrafttrædelsen af bestemmelsen i SU-lovens § 38 c og § 38 d om, hvordan studielån og slutlån frigives til disposition, sker med virkning for ansøgning om studielån eller slutlån for støtteåret 2010 eller senere. For ansøgning om studielån og slutlån for støtteåret 2009 finder de hidtil gældende bestemmelser anvendelse.
+
+35) Lovændringen vedrører § 2, stk. 1, nr. 3, § 2, stk. 2, 3, 7, 8 og 9, § 14, stk. 1 og 2, § 24, stk. 3, nr. 6, § 30, stk. 2, § 38 c, stk. 3 og 4, § 38 c, stk. 5, 2. pkt., § 38 d, stk. 2 og 3, § 38 d, stk. 4, 2. pkt., § 39, stk. 2, § 39, stk. 6, § 39, stk. 10 og § 42, stk. 1.
+
+36) Lovændringens § 1 vedrører § 1 a, § 46, stk. 1, nr. 3, og afsnit I a.
+
+37) Lovændringen vedrører § 46 a, stk. 1, nr. 2, § 46 a, stk. 2, 2. pkt., § 46 b, stk. 3 og 4, § 46 d, stk. 3. og § 46 e, stk. 3.
+
+38) Lovændringens § 3 vedrører § 23, stk. 3, nr. 2.
+
+39) Ved bekendtgørelse nr. 453 af 8. marts 2017 er det bestemt, at ændringslovens § 136, nr. 1, 3 og 4, træder i kraft den 1. april 2017.
+
+40) Lovændringen vedrører § 24, stk. 2, nr. 2-4, § 24, stk. 3, nr. 3, § 24, stk. 5, og § 24, stk. 7.
+
+41) Lovændringens § 21 vedrører § 39, stk. 3.
+
+42) Lovændringens § 1 vedrører § 41, § 42, stk. 3, § 43, stk. 3, § 46, og § 46 h.
+
+43) Lovændringens § 1 vedrører § 1 a, § 8, stk. 1, nr. 1 og 2, § 8, stk. 2, 1. og 2. pkt. § 9, § 10, § 10 a, stk. 1, § 10 b, stk. 1-3, § 11, stk. 1, § 24, stk. 1-4 og 10, § 25, stk. 2, 1., 3. og 4. pkt., § 25, stk. 4, overskriften til afsnit I a, § 46 a, stk. 1 og 2, § 46 c, stk. 3, 1. pkt. og § 46 c, stk. 4, §§ 46 e - 46 i, og afsnit II a.
+
+44) Lovændringens § 3 vedrører § 24, stk. 3, nr. 4.
+
+45) Lovændringens § 4 vedrører § 7, stk. 4, nr. 2.
+
+46) Lovændringens § 1 vedrører § 2, stk. 9, § 3, stk. 7, § 8, stk. 1-4, § 9, § 12, stk. 2., 3. og 4. pkt., § 12, stk. 3-5, § 13, stk. 1, nr. 3, § 13, stk. 2, § 17, stk. 1, 2 og 4, § 20 b, § 21, stk. 1, § 21, stk. 2, 2. pkt., § 22, stk. 1, § 24, stk. 1, nr. 2, § 24, stk. 10, § 25, stk. 1-8, § 25, stk. 8, nr. 1, 2, 4 og 5, § 26, stk. 1, § 26, stk. 2, 1. og 2. pkt. § 30, stk. 6, § 33, stk. 3, 3. pkt. § 34, stk. 3, 2. pkt., og § 34, stk. 4, 2. pkt., § 38, § 38 c, stk. 3, § 39, stk. 1, 1. pkt., § 39, stk. 2, og § 39, stk. 8.
+
+47) Lovændringens § 1 vedrører § 1, stk. 4, Kapitel 1, § 4, stk. 1, § 14, stk. 1 og 2, § 24, stk. 3, nr. 2, 3, 5 og 7, § 29, stk. 3, § 30, stk. 6, § 31, stk. 3, 1. pkt., § 38 b, stk. 3, § 39, stk. 5, § 40, 1., 2. og 3. pkt., § 42, stk. 2 og 5, § 43 a, stk. 1, 1. pkt., § 46, stk. 1, 1. pkt., og § 58, stk. 3, 1. pkt.
+
+48) Lovændringens § 1 vedrører § 1, stk. 1 og 4, overskriften til afsnit I, § 5 a, § 11, stk. 1, § 13, stk. 1, nr. 3 og 4, § 18, stk. 1, § 24, stk. 3, nr. 6 og 7, § 25, stk. 1-4, § 25, stk. 11, § 39, stk. 1, 3 og 11, § 42, stk. 1, 3. pkt., § 46 e, stk. 5, § 46 f, stk. 4.
+
+49) Lovændringens § 42 vedrører § 38, § 39, stk. 6 og 10, § 40, 1., 2. og 3. pkt., § 41, § 42, stk. 1, § 43 a, stk. 1, 1. pkt., § 46, stk. 3, 1. pkt., § 46, stk. 4, og § 46 h, stk. 3.
+
+50) Lovændringens § 22 vedrører § 13, stk. 1.
+
+51) Lovændringens § 23 vedrører § 58, stk. 4, og afsnit III.
+
+52) Lovændringens § 6 vedrører § 5, stk. 2, nr. 3.
+
+53) Lovændringens § 12 vedrører § 2, stk. 1, nr. 1-6, §§ 2 e og f, § 24, stk. 3, nr. 7-9, § 29, stk. 3, § 39, stk. 7 og § 42, stk. 1, 3. pkt.

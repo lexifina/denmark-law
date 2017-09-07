@@ -12,4 +12,4 @@ Stk. 3. Den uddannelsessøgende har ikke adgang til udbetaling af beløb efter s
 
 Stk. 4. Beløb efter stk. 1, der er til disposition, men ikke udbetalt, bortfalder ved støtteårets udgang.
 
-Stk. 5. Ministeren for forskning, innovation og videregående uddannelser fastsætter nærmere regler om udbetaling af studielån, herunder om frister, udbetalingstidspunkter, grænse for mindsteudbetaling og meddelelse om lånebetingelser og vilkår. Ministeren for forskning, innovation og videregående uddannelser kan endvidere fastsætte regler om, i hvilke tilfælde uddannelsessøgende i papirform kan indgive anmodning om udbetaling.
+Stk. 5. Uddannelses- og forskningsministeren fastsætter nærmere regler om udbetaling af studielån, herunder om frister, udbetalingstidspunkter, grænse for mindsteudbetaling og meddelelse om lånebetingelser og vilkår. Uddannelses- og forskningsministeren kan endvidere fastsætte regler om, i hvilke tilfælde uddannelsessøgende i papirform kan indgive anmodning om udbetaling.
