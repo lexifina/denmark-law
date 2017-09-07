@@ -1,5 +1,5 @@
-Uddannelses- og Forskningsministeriet, den 1. juni 2014
+Uddannelses- og Forskningsministeriet, den 30. august 2017
 
-Sofie Carsten Nielsen
+Søren Pind
 
-/ Jesper Schaumburg-Müller
+/ Thomas Voigt Lund
