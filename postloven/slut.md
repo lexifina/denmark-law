@@ -1,7 +1,5 @@
-Givet på Christiansborg Slot, den 21. december 2010
+Transport-, Bygnings- og Boligministeriet, den 30. august 2017
 
-Under Vor Kongelige Hånd og Segl
+Ole Birk Olesen
 
-MARGRETHE R.
-
-/ Hans Christian Schmidt
+/ Michael Birch
