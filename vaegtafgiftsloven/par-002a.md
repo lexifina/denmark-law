@@ -6,6 +6,6 @@ Stk. 3. Et køretøj anses for at blive anvendt blandet privat og erhvervsmæssi
 
 1) en fysisk eller juridisk person, som udøver virksomhed i offentligt eller privat regi, og køretøjet anvendes såvel som led i den omhandlede virksomhed som til formål, der er virksomheden uvedkommende, eller
 
-2) en fysisk person, der som led i et ansættelsesforhold skal anvende køretøjet ved udførelse af arbejdsopgaver for ansættelsesstedet eller anvender køretøjet i forbindelse med selvstændigt bierhverv, som efter momslovgivningen anses for at være afgiftspligtig virksomhed eller efter skattelovgivningen anses for erhvervsmæssigt, og det under hensyn til formålet er nødvendigt, at kørselen udføres med en varebil.
+2) en fysisk person, der som led i et ansættelsesforhold skal anvende køretøjet ved udførelse af arbejdsopgaver for ansættelsesstedet eller anvender køretøjet i forbindelse med selvstændigt bierhverv, som efter momslovgivningen anses for at være afgiftspligtig virksomhed eller efter skattelovgivningen anses for erhvervsmæssigt, og det under hensyn til formålet er nødvendigt, at kørslen udføres med en varebil.
 
 Stk. 4. Hvis køretøjets registrerede bruger er forskellig fra ejeren, fastlægges køretøjets afgiftsmæssige status på grundlag af brugerens anvendelse.
