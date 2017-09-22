@@ -1,7 +1,5 @@
-Givet på Christiansborg Slot, den 14. juni 2011
+Sundheds- og Ældreministeriet, den 15. september 2017
 
-Under Vor Kongelige Hånd og Segl
+Ellen Trane Nørby
 
-MARGRETHE R.
-
-/ Bertel Haarder
+/ Emilie Norré Sørensen
