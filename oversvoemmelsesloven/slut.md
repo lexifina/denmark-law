@@ -1,8 +1,8 @@
-Naturstyrelsen, den 10. december 2015
+Kystdirektoratet, den 22. september 2017
 
-Oluf Engberg
+Merete Løvschall
 
-/ Anne-Marie Vægter Rasmussen
+/ Hans Erik Cutoi-Toft
 
 Bilag 1
 
@@ -30,7 +30,7 @@ a) Anslået antal indbyggere, der potentielt vil blive berørt.
 
 b) Arten af økonomisk aktivitet i det område, der potentielt vil blive berørt.
 
-c) Listevirksomheder, jf. miljøbeskyttelseslovens § 33, godkendte husdyrbrug, jf. § 12 i lov om miljøgodkendelse m.v. af husdyrbrug, der vil kunne forårsage forureningsuheld i tilfælde af oversvømmelse, og potentielt berørte beskyttede områder, jf. miljømålslovens § 7, stk. 1, nr. 1, 3 og 5.
+c) Listevirksomheder, jf. miljøbeskyttelseslovens § 33, godkendte husdyrbrug, jf. de tidligere gældende regler i § 12 i lov om miljøgodkendelse m.v. af husdyrbrug eller § 16 a i lov om husdyrbrug og anvendelse af gødning m.v., der vil kunne forårsage forureningsuheld i tilfælde af oversvømmelse, og potentielt berørte beskyttede områder, jf. § 16, stk. 1, nr. 1, 3 og 4, i lov om vandplanlægning.
 
 d) Andre nyttige oplysninger, såsom angivelse af områder, hvor der kan forekomme oversvømmelser med et stort indhold af sediment og opslæmmet organisk materiale, og oplysninger om andre vigtige forureningskilder.
 
@@ -40,7 +40,7 @@ Udarbejdelse af risikostyringsplaner:
 
 I risikostyringsplaner fastsættes passende mål for styring af oversvømmelsesrisiciene for de udpegede risikoområder med særlig vægt på at mindske de potentielle negative følger af oversvømmelser for menneskers sundhed, miljø, kulturarv og økonomiske aktiviteter og, hvis dette anses for relevant, med sigte på ikkestrukturelle initiativer (f.eks. friholdelse af arealer til brug for oversvømmelse) eller nedbringelse af sandsynligheden for oversvømmelse.
 
-Ved udarbejdelse af risikostyringsplaner skal der tages relevante aspekter i betragtning såsom omkostninger og fordele, oversvømmelsesomfang, afløbsveje og arealer, der kan virke som overløb ved oversvømmelser, som f.eks. lavbundsarealer (ferske enge og ådale), fastsatte miljømål, jf. miljømålslovens § 10, jordbunds- og vandforvaltning, fysisk planlægning, arealanvendelse, naturbevaring, sejlads og havneinfrastruktur.
+Ved udarbejdelse af risikostyringsplaner skal der tages relevante aspekter i betragtning såsom omkostninger og fordele, oversvømmelsesomfang, afløbsveje og arealer, der kan virke som overløb ved oversvømmelser, som f.eks. lavbundsarealer (ferske enge og ådale), miljømål fastsat i regler udstedt med hjemmel i § 7, stk. 1, i lov om vandplanlægning, jordbunds- og vandforvaltning, fysisk planlægning, arealanvendelse, naturbevaring, sejlads og havneinfrastruktur.
 
 Risikostyringsplanerne skal omfatte alle aspekter af risikostyring med særlig vægt på forebyggelse, sikring og beredskab, herunder oversvømmelsesprognoser og systemer for tidlig varsling og hensyntagen til de særlige forhold, der gør sig gældende for de forskellige vandløbsoplande eller deloplande. I planerne skal også indgå fremme af bæredygtige arealanvendelsesmetoder, forbedring af vandbindingen og kontrolleret oversvømmelse i visse områder i tilfælde af oversvømmelse.
 
