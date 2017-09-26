@@ -1,5 +1,5 @@
-Lov om kommunernes finansiering af visse offentlige ydelser udbetalt af kommunerne, Udbetaling Danmark og arbejdsløshedskasserne
+Bekendtgørelse af lov om kommunernes finansiering af visse offentlige ydelser udbetalt af kommunerne, Udbetaling Danmark og arbejdsløshedskasserne
 
-VI MARGRETHE DEN ANDEN, af Guds Nåde Danmarks Dronning, gør vitterligt:
+Herved bekendtgøres lov nr. 994 af 30. august 2015 om kommunernes finansiering af visse offentlige ydelser udbetalt af kommunerne, Udbetaling Danmark og arbejdsløshedskasserne med de ændringer, der følger af § 15 i lov nr. 1000 af 30. august 2015, § 3 i lov nr. 296 af 22. marts 2016, § 8 i lov nr. 628 af 8. juni 2016 og § 4, nr. 1 i lov nr. 288 af 29. marts 2017.
 
-Folketinget har vedtaget og Vi ved Vort samtykke stadfæstet følgende lov:
+Den ændring, der følger af § 4, nr. 2, i lov nr. 288 af 29. marts 2017 om ændring af barselsloven, lov om barselsudligning på det private arbejdsmarked, lov om sygedagpenge og lov om kommunernes finansiering af visse offentlige ydelser udbetalt af kommunerne, Udbetaling Danmark og arbejdsløshedskasserne (Digitalisering af barselslovens beskæftigelseskrav og beregning, mulighed for mere fleksibel afholdelse af fædreorlov, fastsættelse af klageadgang i sager om sygedagpengeforsikring, omregning af månedsbaserede arbejdsløshedsdagpenge til berørte uger m.v.), er ikke indarbejdet i denne lovbekendtgørelse, idet tidspunktet for ikrafttræden af denne ændring fastsættes af beskæftigelsesministeren, jf. § 5, stk. 5, i lov nr. 288 af 29. marts 2017.

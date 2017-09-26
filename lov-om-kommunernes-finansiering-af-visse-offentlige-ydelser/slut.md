@@ -1,7 +1,5 @@
-Givet på Kongeskibet Dannebrog, den 30. august 2015
+Beskæftigelsesministeriet, den 19. september 2017
 
-Under Vor Kongelige Hånd og Segl
+Troels Lund Poulsen
 
-MARGRETHE R.
-
-/ Jørn Neergaard Larsen
+/ Bent Nielsen
