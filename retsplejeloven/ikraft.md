@@ -549,3 +549,77 @@ Stk. 2. § 2 og § 3, nr. 1, 2, 4 og 5, træder i kraft den 1. juli 2017.
 § 7
 
 (Udelades)
+
+Lov nr. 1721 af 27. december 2016 (Ændring af reglerne for tinglysning og realkreditbelåning vedrørende visse tele-, energiforsynings- og vandforsyningsvirksomheder) indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 6
+
+Stk. 1. Loven træder i kraft den 1. januar 2017.
+
+Stk. 2. (Udelades)
+
+Lov nr. 1725 af 27. december 2016 (Sagkyndig bevisførelse m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 2
+
+Loven træder i kraft den 1. juli 2017.
+
+Lov nr. 80 af 24. januar 2017 (Effektivisering af ejendomsregistrering og -forvaltning m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 7
+
+Energi-, forsynings- og klimaministeren fastsætter efter forhandling med justitsministeren, skatteministeren og erhvervsministeren tidspunktet for lovens ikrafttræden.
+
+Lov nr. 203 af 28. februar 2017 (Udeblivelsesdomme, forkyndelse og anvendelse af digital kommunikation i straffesager m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 4
+
+Stk. 1. Loven træder i kraft den 1. marts 2017.
+
+Stk. 2-3. (Udelades)
+
+Lov nr. 426 af 3. maj 2017 om markedsføring indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 40
+
+Stk. 1. Loven træder i kraft den 1. juli 2017.
+
+Stk. 2-3. (Udelades)
+
+Lov nr. 655 af 8. juni 2017 om anvendelse af tvang ved somatisk behandling af varigt inhabile indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 18
+
+Loven træder i kraft den 1. januar 2018.
+
+Lov nr. 665 af 8. juni 2017 (Gennemførelse af direktiv om markeder for finansielle instrumenter (MiFID II) og ændringer som følge af forordning om markeder for finansielle instrumenter (MiFIR) m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 21
+
+Stk. 1. Loven træder i kraft den 3. januar 2018, jf. dog stk. 2.
+
+Stk. 2-6. (Udelades)
+
+Lov nr. 669 af 8. juni 2017 (Ændring af reglerne for lægdommere) indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 2
+
+Stk. 1. Loven træder i kraft den 1. juli 2017.
+
+Stk. 2. Retsplejelovens § 70, nr. 1-4, som affattet ved denne lovs § 1 finder ikke anvendelse på personer, som er optaget på en grundliste, der er gældende ved lovens ikrafttræden. For disse personer finder de hidtil gældende regler anvendelse.
+
+Lov nr. 670 af 8. juni 2017 (Ændring af reglerne for lægdommere, gennemførelse af værnetingsaftalekonventionen m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 12
+
+Stk. 1. Loven træder i kraft den 1. juli 2017, jf. dog stk. 2.
+
+Stk. 2. Justitsministeren fastsætter tidspunktet for ikrafttræden af lovens § 1, nr. 9, og §§ 2 og 9-11.
+
+Lov nr. 674 af 8. juni 2017 (Blokering af hjemmesider og stop af offentlige ydelser til fremmedkrigere) indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 17
+
+Stk. 1. Loven træder i kraft dagen efter bekendtgørelsen i Lovtidende.
+
+Stk. 2-3. (Udelades)

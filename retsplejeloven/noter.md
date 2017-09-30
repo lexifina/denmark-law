@@ -74,7 +74,7 @@
 
 38) Lovændringen vedrører § 18, stk. 1-3, § 43 a, stk. 1, nr. 5, § 44, stk. 5, § 51, § 54, stk. 2, 3. pkt., § 68, stk. 3, § 92, stk. 2, § 94, stk. 1, 3. pkt., § 110, stk. 3, § 225, stk. 2, nr. 2, § 348, stk. 2, nr. 1, og stk. 5, § 349, stk. 1, 1. pkt., § 351, stk. 2, nr. 5, § 361, stk. 5, § 373, stk. 1, nr. 5, § 376, stk. 1, nr. 3, § 401, stk. 3, 1. og 3. pkt., § 406, stk. 4, 1. og 2. pkt., og stk. 6, § 407, stk. 1, § 410, stk. 5, nr. 6, og stk. 6, § 477 b, stk. 3, nr. 1, § 748, stk. 1, 3. pkt., § 767, stk. 2, 6. pkt., § 778, stk. 1, 2. pkt., og stk. 2, 2. pkt., og § 973 a.
 
-39) Bekendtgjort i Lovtidende den 12. april 2012. De bekendtgjorte ændringer vedrører § 44, stk. 5, 2. pkt., § 51, § 54, stk. 2, 3. pkt., § 68, stk. 3, 2. pkt., § 92, stk. 2, 2. pkt., § 110, stk. 3, og § 778, stk. 1, 2. pkt., og stk. 2, 2. pkt.
+39) Loven er bekendtgjort i Lovtidende den 12. april 2012. De bekendtgjorte ændringer vedrører § 44, stk. 5, 2. pkt., § 51, § 54, stk. 2, 3. pkt., § 68, stk. 3, 2. pkt., § 92, stk. 2, 2. pkt., § 110, stk. 3, og § 778, stk. 1, 2. pkt., og stk. 2, 2. pkt.
 
 40) Lovændringen vedrører § 448 c, stk. 2-4.
 
@@ -151,3 +151,25 @@
 76) Lovændringen vedrører § 775, stk. 1, 1. pkt.
 
 77) Lovændringen vedrører § 781, stk. 3, nr. 3.
+
+78) Lovændringen vedrører § 510, stk. 1, 1. pkt., § 518, stk. 2, § 520, stk. 1, 1. pkt., § 589, stk. 1, og § 592, stk. 1, 2. pkt.
+
+79) Lovændringen vedrører § 182, 2. pkt., § 198, stk. 1, § 209, § 209 a, § 341 a og § 353, stk. 1, nr. 13.
+
+80) Lovændringen vedrører § 573, stk. 4.
+
+81) Lovændringen vedrører § 41 e, stk. 4, 3. pkt., § 58, stk. 3 og 6, § 148 c, § 154 a, stk. 1, nr. 2, § 156 c, § 334, stk. 4 og 7, § 686, stk. 3, nr. 3, § 720, stk. 2, 6. pkt., § 741, stk. 2 og 3, § 781, stk. 1, nr. 3, § 791 a, stk. 3, nr. 3, § 835, stk. 2, § 844, stk. 1, 3. pkt., § 844, stk. 2, 1. pkt., § 844, stk. 4, 1. pkt., § 855, stk. 3, § 855, stk. 3, nr. 3 og 4, § 897, stk. 1, § 902, stk. 3, § 907, stk. 1, 2. og 3. pkt., § 920, stk. 3, § 987, stk. 3, 1. og 2. pkt., og § 1017 b.
+
+82) Lovændringen vedrører § 653, stk. 2, nr. 14.
+
+83) Lovændringen vedrører § 469, stk. 1, 2. pkt, og § 469, stk. 4, 3. pkt.
+
+84) Lovændringen vedrører § 526, stk. 3, § 526, stk. 4, 3. pkt., § 538 a, stk. 1, 2. pkt., og § 557, 1. pkt.
+
+85) Lovændringen vedrører § 70.
+
+86) Lovændringen vedrører § 5, stk. 4, § 69, § 71, nr. 8, 9 og 10, § 72, 1. pkt., § 149, stk. 1, 2. og 4. pkt., § 247, stk. 1, 1. pkt., § 260, stk. 7, 2. pkt., § 327, stk. 5, 3. pkt., § 495, stk. 1, 2. pkt., og § 543 a.
+
+87) Lovændringen vedrører overskriften til kapitel 71 og § 791 d.
+
+88) Loven er bekendtgjort i Lovtidende den 9. juni 2017.
