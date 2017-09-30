@@ -1,6 +1,8 @@
-Justitsministeriet, den 13. oktober 2016
+Justitsministeriet, den 22. september 2017
 
-Søren Pind
+Søren Pape Poulsen
+
+/ Lars Solskov Lind
 
 Bilag
 
