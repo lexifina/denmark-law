@@ -1,3 +1,3 @@
-Lov om administration af Det Europæiske Fællesskabs forordninger om narkotikaprækursorer
+Bekendtgørelse af lov om administration af Det Europæiske Fællesskabs forordninger om narkotikaprækursorer
 
-VI MARGRETHE DEN ANDEN, af Guds Nåde Danmarks Dronning, gør vitterligt: Folketinget har vedtaget og Vi ved Vort samtykke stadfæstet følgende lov:
+Herved bekendtgøres lov nr. 326 af 18. maj 2005 om administration af Det Europæiske Fællesskabs forordninger om narkotikaprækursorer med de ændringer, der følger af § 61 i lov nr. 538 af 8. juni 2006.
