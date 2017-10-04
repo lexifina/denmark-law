@@ -1,7 +1,5 @@
-Givet på Christiansborg Slot, den 18. maj 2005
+Skatteministeriet, den 28. september 2017
 
-Under Vor Kongelige Hånd og Segl
+P.M.V. Jens Brøchner
 
-MARGRETHE R.
-
-/Kristian Jensen
+/ Jeanette Rose Hansen
