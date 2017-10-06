@@ -1,0 +1,1 @@
+§ 62 f. Personalet på et indkvarteringssted, jf. § 42 a, stk. 5, kan kortvarigt fastholde en uledsaget mindreårig udlænding eller føre udlændingen væk fra en situation, når det er nødvendigt for at afværge udlændingen i at ødelægge eller beskadige ting i et ikke ubetydeligt omfang.

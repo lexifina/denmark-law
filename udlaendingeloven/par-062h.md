@@ -1,0 +1,1 @@
+§ 62 h. Personalet på et indkvarteringssted, jf. § 42 a, stk. 5, kan tilbageføre en uledsaget mindreårig udlænding, der rømmer, når udlændingen udviser en adfærd, der medfører en risiko for skade på udlændingen selv eller på andre.

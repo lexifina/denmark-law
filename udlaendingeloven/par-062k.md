@@ -1,0 +1,1 @@
+§ 62 k. En uledsaget mindreårig udlænding, der har været udsat for magtanvendelse eller andre indgreb i selvbestemmelsesretten, skal gøres bekendt med indberetningen efter § 62 j og have lejlighed til at udtale sig om episoden.

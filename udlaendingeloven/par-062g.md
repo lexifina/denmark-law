@@ -1,0 +1,1 @@
+§ 62 g. Personalet på et indkvarteringssted, jf. § 42 a, stk. 5, kan fastholde en uledsaget mindreårig udlænding eller føre udlændingen til et andet opholdsrum m.v., når udlændingen udviser en adfærd, der er til fare for udlændingen selv, personalet eller de personer, der i øvrigt opholder sig på indkvarteringsstedet.

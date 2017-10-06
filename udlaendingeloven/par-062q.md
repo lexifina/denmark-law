@@ -1,0 +1,13 @@
+§ 62 q. Bliver Udlændingestyrelsen opmærksom på, at en uledsaget mindreårig udlænding, der er omfattet af § 62 l, stk. 1, har adfærds- og tilpasningsproblemer af en sådan karakter, at det vurderes, at problemerne ikke kan løses af indkvarteringsoperatøren, skal Udlændingestyrelsen anmode kommunalbestyrelsen i den kommune, hvor indkvarteringsstedet, jf. § 42 a, stk. 5, ligger, om at iværksætte en faglig undersøgelse af udlændingen for at vurdere, om der kan ske anbringelse af udlændingen efter § 62 l, jf. §§ 62 m-62 o. En indkvarteringsoperatør kan efter aftale med Udlændingestyrelsen selv anmode kommunalbestyrelsen om at iværksætte den faglige undersøgelse.
+
+Stk. 2. Den faglige undersøgelse af den uledsagede mindreårige udlænding, der skal gennemføres efter stk. 1, skal omfatte en undersøgelse af udlændingens udvikling og adfærd.
+
+Stk. 3. Undersøgelsen kan omfatte andre forhold af betydning for vurderingen af, om der skal ske anbringelse efter § 62 l, jf. §§ 62 m-62 o, herunder skoleforhold, sundhedsforhold, fritidsforhold og venskaber, såfremt indkvarteringsoperatørens udtalelse efter stk. 4 ikke indeholder tilstrækkelige oplysninger herom, og såfremt forholdene taler herfor.
+
+Stk. 4. Til brug for kommunalbestyrelsens undersøgelse skal indkvarteringsoperatøren afgive en udtalelse, der skal indeholde nærmere oplysninger om de forhold, der er nævnt i stk. 2 og 3, i det omfang indkvarteringsoperatøren har kendskab hertil.
+
+Stk. 5. Som led i undersøgelsen skal der finde en samtale sted med den uledsagede mindreårige udlænding. Samtalen kan undlades, i det omfang udlændingens modenhed eller sagens karakter i afgørende grad taler imod samtalens gennemførelse. Kan samtalen ikke gennemføres, skal oplysninger om udlændingens synspunkter søges tilvejebragt. Som led i kommunalbestyrelsens undersøgelse skal den uledsagede mindreårige udlændings repræsentant, jf. § 56 a, stk. 1, høres.
+
+Stk. 6. Er det nødvendigt for at afgøre, om der er åbenbar risiko for alvorlig skade på en uledsaget mindreårig udlændings sundhed eller udvikling, kan børn og unge-udvalget uden samtykke fra repræsentanten, jf. § 56 a, stk. 1, og udlændingen, der er fyldt 15 år, beslutte at gennemføre undersøgelsen under ophold på en institution eller indlæggelse på sygehus, herunder psykiatrisk afdeling. En sådan undersøgelse skal være afsluttet inden 2 måneder efter børn og unge-udvalgets beslutning.
+
+Stk. 7. Undersøgelsen skal afsluttes, senest 2 måneder efter at Udlændingestyrelsen har anmodet kommunalbestyrelsen om at iværksætte undersøgelsen. Kan undersøgelsen undtagelsesvis ikke afsluttes inden 2 måneder, skal kommunalbestyrelsen udarbejde en foreløbig vurdering og snarest herefter afslutte undersøgelsen.
