@@ -1,4 +1,4 @@
-§ 42 a. En udlænding, der opholder sig her i landet og indgiver ansøgning om opholdstilladelse i medfør af § 7, får udgifterne til underhold og nødvendige sundhedsmæssige ydelser dækket af Udlændingestyrelsen, indtil udlændingen meddeles opholdstilladelse, eller udlændingen udrejser eller udsendes, jf. dog stk. 3 og 4 og § 43, stk. 1. En udlænding som nævnt i 1. pkt., der er blevet meddelt opholdstilladelse i medfør af § 7, stk. 1-3, § 9 b, § 9 c eller § 9 e, får udgifterne til underhold og nødvendige sundhedsmæssige ydelser dækket af Udlændingestyrelsen til og med udgangen af den første hele måned efter tidspunktet for afgørelsen om visitering af udlændingen, jf. integrationslovens § 10, stk. 1, jf. dog stk. 3 og 4.
+§ 42 a. En udlænding, der opholder sig her i landet og indgiver ansøgning om opholdstilladelse i medfør af § 7, får udgifterne til underhold og nødvendige sundhedsmæssige ydelser dækket af Udlændingestyrelsen, indtil udlændingen meddeles opholdstilladelse, eller udlændingen udrejser eller udsendes, jf. dog stk. 3 og 4 og § 43, stk. 1. En udlænding som nævnt i 1. pkt., der er blevet meddelt opholdstilladelse i medfør af § 7, stk. 1-3, § 9 b, § 9 c eller § 9 e, får udgifterne til underhold og nødvendige sundhedsmæssige ydelser dækket af Udlændingestyrelsen indtil det tidspunkt, hvor ansvaret for udlændingen overgår til kommunalbestyrelsen, jf. integrationslovens § 4, stk. 2, jf. dog stk. 3 og 4.
 
 Stk. 2. Har en udlænding, der ikke er omfattet af stk. 1 eller § 43, stk. 1, efter reglerne i kapitel 1 og 3-5 ikke ret til at opholde sig her i landet, får udlændingen udgifterne til underhold og nødvendige sundhedsmæssige ydelser dækket af Udlændingestyrelsen, hvis det er nødvendigt af hensyn til forsørgelsen af udlændingen, jf. dog stk. 3 og 4.
 
@@ -14,9 +14,9 @@ Stk. 3. Stk. 1 og 2 gælder ikke:
 
 Stk. 4. Udlændingestyrelsen kan pålægge en udlænding at betale udgifterne til udlændingens eller dennes families underhold og nødvendige sundhedsmæssige ydelser eller ophold på et indkvarteringssted omfattet af stk. 5, såfremt udlændingen har tilstrækkelige midler hertil. Der kan pålægges betalingspligt efter 1. pkt. for perioden til og med udgangen af den første hele måned efter tidspunktet for afgørelsen om visitering af udlændingen, jf. integrationslovens § 10, stk. 1. Der kan endvidere pålægges betalingspligt efter 1. pkt., indtil en udlænding, der efter reglerne i kapitel 1 og 3-5 a ikke har ret til at opholde sig her i landet, udrejser eller udsendes.
 
-Stk. 5. Udlændingestyrelsen tilvejebringer og driver indkvarteringssteder for udlændinge, der er omfattet af stk. 1 eller 2, jf. stk. 3. Dette kan ske i samarbejde med private organisationer eller selskaber eller statslige styrelser, som er godkendt hertil af udlændinge-, integrations- og boligministeren, eller kommuner (indkvarteringsoperatører). Udlændinge-, integrations- og boligministeren kan fastsætte regler om nedsættelse af samarbejdsorganer på de enkelte indkvarteringssteder (beboerråd m.v.) samt om disse organers kompetence.
+Stk. 5. Udlændingestyrelsen tilvejebringer og driver indkvarteringssteder for udlændinge, der er omfattet af stk. 1 eller 2, jf. stk. 3. Dette kan ske i samarbejde med private organisationer eller selskaber eller statslige styrelser, som er godkendt hertil af udlændinge- og integrationsministeren, eller kommuner (indkvarteringsoperatører). Udlændinge- og integrationsministeren kan fastsætte regler om nedsættelse af samarbejdsorganer på de enkelte indkvarteringssteder (beboerråd m.v.) samt om disse organers kompetence.
 
-Stk. 6. Udlændinge-, integrations- og boligministeren fastsætter regler for kommunernes deltagelse i finansieringen af tilvejebringelsen og driften af indkvarteringssteder for udlændinge, der er nævnt i stk. 1 eller 2, jf. stk. 3, herunder om statens dækning af udgifterne.
+Stk. 6. Udlændinge- og integrationsministeren fastsætter regler for kommunernes deltagelse i finansieringen af tilvejebringelsen og driften af indkvarteringssteder for udlændinge, der er nævnt i stk. 1 eller 2, jf. stk. 3, herunder om statens dækning af udgifterne.
 
 Stk. 7. Udlændingestyrelsen træffer bestemmelse om indkvarteringen af udlændinge omfattet af stk. 1 og 2, jf. stk. 3. Ved indkvarteringen skal Udlændingestyrelsen så vidt muligt tage hensyn til, om der er tale om nyankomne asylansøgere eller asylansøgere, der har fået afslag på en ansøgning om opholdstilladelse efter § 7. Hvis en udlænding ikke efterkommer Udlændingestyrelsens anvisning om indkvartering, kan Udlændingestyrelsen pålægge udlændingen at tage ophold på et indkvarteringssted efter Udlændingestyrelsens nærmere bestemmelse. En sådan udlænding må ikke gennem voldelig eller truende adfærd over for personer, der udfører opgaver med driften af et indkvarteringssted for udlændinge, eller over for personer, der i øvrigt opholder sig på indkvarteringsstedet, lægge hindringer i vejen for udførelsen af opgaver med driften af indkvarteringsstedet eller for opretholdelsen af ro og orden på indkvarteringsstedet.
 
@@ -24,28 +24,48 @@ Stk. 8. Udlændingestyrelsen bestemmer, medmindre særlige grunde taler derimod,
 
 Stk. 9. Udlændingestyrelsen skal sikre, at det i fornødent omfang kontrolleres, at en udlænding, som ikke kan udsendes af landet, jf. § 31, og som er pålagt at tage ophold på et bestemt indkvarteringssted, jf. stk. 8, overholder det givne påbud.
 
-Stk. 10. Udlændingestyrelsen kan bestemme, at en udlænding, der er omfattet af stk. 1 eller 2, jf. stk. 3, ikke får udbetalt kontante ydelser, jf. § 42 b, stk. 1, 3, 8 og 9, når den pågældende er indkvarteret på et indkvarteringssted, jf. stk. 5, hvor der er en vederlagsfri bespisningsordning, eller at udlændingen alene får udbetalt grundydelse, jf. § 42 b, stk. 1 og 2, forsørgertillæg, jf. § 42 b, stk. 3 og 7, og nedsat forsørgertillæg, jf. § 42 b, stk. 3, 6 og 7, når den pågældende er indkvarteret på et indkvarteringssted, jf. stk. 5, uden en vederlagsfri bespisningsordning, såfremt
+Stk. 10. Udlændingestyrelsen bestemmer, medmindre særlige grunde taler derimod, at en udlænding, som er pålagt at tage ophold på et bestemt indkvarteringssted, jf. stk. 8, 1. pkt., skal give underretning til indkvarteringsoperatøren, hvis udlændingen i tidsrummet mellem kl. 23.00 og 6.00 opholder sig uden for indkvarteringsstedet. En underretning kan alene omfatte den førstkommende nat eller alene de tidsrum i løbet af den pågældende nat, hvor udlændingen opholder sig uden for indkvarteringsstedet.
+
+Stk. 11. Udlændingestyrelsen kan bestemme, at en udlænding, der er omfattet af stk. 1 eller 2, jf. stk. 3, og som ikke er omfattet af stk. 13, ikke får udbetalt kontante ydelser, jf. § 42 b, stk. 1, 3, og 8, når den pågældende er indkvarteret på et indkvarteringssted, jf. stk. 5, hvor der er en vederlagsfri bespisningsordning, eller at udlændingen alene får udbetalt grundydelse, jf. § 42 b, stk. 1 og 2, forsørgertillæg, jf. § 42 b, stk. 3 og 7, og nedsat forsørgertillæg, jf. § 42 b, stk. 3, 6 og 7, når den pågældende er indkvarteret på et indkvarteringssted, jf. stk. 5, uden en vederlagsfri bespisningsordning, såfremt
 
 1) udlændingen uden rimelig grund udebliver fra en afhøring med Udlændingestyrelsen eller politiet, hvortil den pågældende er indkaldt,
 
 2) udlændingen har udvist voldelig eller truende adfærd over for personer, der udfører opgaver med driften af et indkvarteringssted for udlændinge, eller over for de personer, der i øvrigt opholder sig på indkvarteringsstedet,
 
-3) udlændingen ikke efterkommer Udlændingestyrelsens bestemmelse om, at udlændingen skal tage ophold efter Udlændingestyrelsens nærmere bestemmelse, jf. stk. 7, 3. pkt. eller stk. 8, 1. pkt.,
+3) udlændingen ikke efterkommer Udlændingestyrelsens bestemmelse om, at udlændingen skal tage ophold efter Udlændingestyrelsens nærmere bestemmelse, jf. stk. 7, 3. pkt.,
 
-4) udlændingen ikke efterkommer politiets bestemmelse om en i § 34 nævnt foranstaltning,
+4) udlændingen ikke efterkommer politiets bestemmelse om en i § 34, stk. 1-3 og 6, nævnt foranstaltning,
 
 5) udlændingen tilsidesætter et pålæg om at udføre nødvendige opgaver i forbindelse med driften af indkvarteringsstedet, jf. § 42 d, stk. 2, 1. pkt., eller
 
 6) udlændingen er efterlyst af politiet med henblik på forkyndelse, udrejsekontrol eller udsendelse.
 
-Stk. 11. Udlændingestyrelsen skal, medmindre særlige grunde taler derimod, bestemme, at en udlænding, der er omfattet af stk. 1 eller 2, jf. stk. 3, ikke får udbetalt kontante ydelser, jf. § 42 b, stk. 1, 3, 8 og 9, når den pågældende er indkvarteret på et indkvarteringssted, jf. stk. 5, hvor der er en vederlagsfri bespisningsordning, eller at udlændingen alene får udbetalt grundydelse, jf. § 42 b, stk. 1 og 2, forsørgertillæg, jf. § 42 b, stk. 3 og 7, og nedsat forsørgertillæg, jf. § 42 b, stk. 3, 6 og 7, når den pågældende er indkvarteret på et indkvarteringssted, jf. stk. 5, uden en vederlagsfri bespisningsordning, såfremt
+Stk. 12. Udlændingestyrelsen skal, medmindre særlige grunde taler derimod, bestemme, at en udlænding, der er omfattet af stk. 1 eller 2, jf. stk. 3, ikke får udbetalt kontante ydelser, jf. § 42 b, stk. 1, 3 og 8, når den pågældende er indkvarteret på et indkvarteringssted, jf. stk. 5, hvor der er en vederlagsfri bespisningsordning, eller at udlændingen alene får udbetalt grundydelse, jf. § 42 b, stk. 1 og 2, forsørgertillæg, jf. § 42 b, stk. 3 og 7, og nedsat forsørgertillæg, jf. § 42 b, stk. 3, 6 og 7, når den pågældende er indkvarteret på et indkvarteringssted, jf. stk. 5, uden en vederlagsfri bespisningsordning, såfremt
 
 1) udlændingen indgiver ansøgning om opholdstilladelse efter § 7 og ikke medvirker til sagens oplysning, jf. § 40, stk. 1, 1. og 2. pkt., eller
 
-2) politiet drager omsorg for udlændingens udrejse, og udlændingen ikke medvirker hertil, jf. § 40, stk. 5, 1. pkt.
+2) politiet drager omsorg for udlændingens udrejse, og udlændingen ikke medvirker hertil, jf. § 40, stk. 6, 1. pkt.
 
-Stk. 12. Udlændingestyrelsen kan til brug for en afgørelse efter stk. 10 eller 11 uden udlændingens samtykke indhente oplysninger om udlændingens helbredsforhold hos indkvarteringsoperatøren, jf. stk. 5.
+Stk. 13. Udlændingestyrelsen skal, medmindre særlige grunde taler derimod, bestemme, at en udlænding, hvis opholdstilladelse efter § 7 eller § 8, stk. 1 eller 2, er bortfaldet, jf. § 32, stk. 1, eller § 21 b, stk. 1, men som ikke kan udsendes af landet, jf. § 31, en udlænding, der har fået afslag på en ansøgning om opholdstilladelse efter § 7 eller § 8, stk. 1 eller 2, men som ikke kan udsendes af landet, jf. § 31, og en udlænding, der er udvist ved endelig dom efter §§ 22-24, og som ikke er varetægtsfængslet efter § 35, ikke får udbetalt kontante ydelser, jf. § 42 b, stk. 1, 3, 8 og 9, når den pågældende er indkvarteret på et indkvarteringssted, jf. stk. 5, hvor der er en vederlagsfri bespisningsordning, eller at udlændingen alene får udbetalt grundydelse, jf. § 42 b, stk. 1 og 2, forsørgertillæg, jf. § 42 b, stk. 3 og 7, og nedsat forsørgertillæg, jf. § 42 b, stk. 3, 6 og 7, når den pågældende er indkvarteret på et indkvarteringssted, jf. stk. 5, uden en vederlagsfri bespisningsordning, såfremt
 
-Stk. 13. Udlændingestyrelsen fastsætter nærmere regler om Udlændingestyrelsens eller udlændinges afholdelse af udgifter til underhold og nødvendige sundhedsmæssige ydelser, jf. stk. 1-4, herunder om beregningen af udgifterne til underhold og nødvendige sundhedsmæssige ydelser samt gennemsnitstakster for en given ydelse over en given periode.
+1) udlændingen uden rimelig grund udebliver fra en afhøring med Udlændingestyrelsen eller politiet, hvortil den pågældende er indkaldt,
 
-Stk. 14. For udlændinge omfattet af stk. 10 og 11, der er indkvarteret på et indkvarteringssted, jf. stk. 5, uden en vederlagsfri bespisningsordning, udgør forsørgertillægget pr. dag 42,73 kr. Det angivne beløb er fastsat i 2005-beløb og reguleres fra og med 2006 én gang årligt den 1. januar efter satsreguleringsprocenten, jf. lov om en satsreguleringsprocent.
+2) udlændingen har udvist voldelig eller truende adfærd over for personer, der udfører opgaver med driften af et indkvarteringssted for udlændinge, eller over for de personer, der i øvrigt opholder sig på indkvarteringsstedet,
+
+3) udlændingen ikke efterkommer Udlændingestyrelsens bestemmelse om, at udlændingen skal tage ophold efter Udlændingestyrelsens nærmere bestemmelse, jf. stk. 8, 1. pkt.,
+
+4) udlændingen ikke efterkommer politiets bestemmelse om, at udlændingen skal give møde hos politiet på nærmere angivne tidspunkter, jf. § 34, stk. 4 og 5,
+
+5) udlændingen ikke efterkommer Udlændingestyrelsens bestemmelse om, at udlændingen skal give underretning til indkvarteringsoperatøren, hvis udlændingen i tidsrummet mellem kl. 23.00 og 6.00 opholder sig uden for indkvarteringsstedet, jf. stk. 10,
+
+6) udlændingen tilsidesætter et pålæg om at udføre nødvendige opgaver i forbindelse med driften af indkvarteringsstedet, jf. § 42 d, stk. 2, 1. pkt., eller
+
+7) udlændingen er efterlyst af politiet med henblik på forkyndelse, udrejsekontrol eller udsendelse.
+
+Stk. 14. Bestemmelserne i stk. 11, nr. 1-4 og 6, og stk. 12 finder tilsvarende anvendelse for udbetaling af kontante ydelser til en uledsaget udlænding under 18 år eller en udlænding under 18 år, som ikke betragtes som hørende til en af eller begge sine forældres familie, jf. § 42 b, stk. 3, 7 og 8. pkt. Udlændingestyrelsen kan dog efter omstændighederne bestemme, at de kontante ydelser alene nedsættes.
+
+Stk. 15. Udlændingestyrelsen kan til brug for en afgørelse efter stk. 11-14 uden udlændingens samtykke indhente oplysninger om udlændingens helbredsforhold hos indkvarteringsoperatøren, jf. stk. 5.
+
+Stk. 16. Udlændingestyrelsen fastsætter nærmere regler om Udlændingestyrelsens eller udlændinges afholdelse af udgifter til underhold og nødvendige sundhedsmæssige ydelser, jf. stk. 1-4, herunder om beregningen af udgifterne til underhold og nødvendige sundhedsmæssige ydelser samt gennemsnitstakster for en given ydelse over en given periode.
+
+Stk. 17. For udlændinge omfattet af stk. 11-14, der er indkvarteret på et indkvarteringssted, jf. stk. 5, uden en vederlagsfri bespisningsordning, udgør forsørgertillægget pr. dag 42,73 kr. Det angivne beløb er fastsat i 2005-beløb og reguleres fra og med 2006 én gang årligt den 1. januar efter satsreguleringsprocenten, jf. lov om en satsreguleringsprocent.
