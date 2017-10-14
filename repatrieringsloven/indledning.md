@@ -1,3 +1,3 @@
 Bekendtgørelse af repatrieringsloven
 
-Herved bekendtgøres repatrieringsloven, jf. lovbekendtgørelse nr. 1052 af 28. august 2013, med de ændringer, der følger af lov nr. 307 af 29. marts 2014, lov nr. 308 af 29. marts 2014 og § 3 i lov nr. 722 af 25. juni 2014.
+Herved bekendtgøres repatrieringsloven, jf. lovbekendtgørelse nr. 1099 af 7. oktober 2014, med de ændringer, der følger af § 3 i lov nr. 380 af 27. april 2016 og § 1 i lov nr. 704 af 8. juni 2017.
