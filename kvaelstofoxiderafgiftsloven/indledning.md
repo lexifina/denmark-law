@@ -1,5 +1,5 @@
 Bekendtgørelse af lov om afgift af kvælstofoxider
 
-Herved bekendtgøres lov nr. 472 af 17. juni 2008 om afgift af kvælstofoxider med de ændringer, der følger af § 7 i lov nr. 527 af 12. juni 2009, § 6 i lov nr. 1384 af 21. december 2009, § 6 i lov nr. 722 af 25. juni 2010 og § 1, nr. 2-5 og nr. 7-8, i lov nr. 1385 af 28. december 2011.
+Herved bekendtgøres lov om afgift af kvælstofoxider, jf. lovbekendtgørelse nr. 1072 af 26. august 2013, med de ændringer, der følger af § 1, nr. 2-8 i lov nr. 1385 af 28. december 2011, § 6 i lov nr. 555 af 2. juni 2014, § 16 i lov nr. 1532 af 27. december 2014, § 1 i lov nr. 1893 af 29. december 2015 og § 5 i lov nr. 1558 af 13. december 2016.
 
-De ændringer, der følger af § 1, nr. 1 og 6, i lov nr. 1385 af 28. december 2011, træder i kraft efter skatteministerens nærmere bestemmelse. Disse ændringer er derfor ikke indarbejdet i lovteksten nedenfor, men det fremgår af noterne, hvilke paragraffer, der ændres ved loven.
+Den ændring, der følger af § 1, nr. 1, i lov nr. 1385 af 28. december 2011 om ændring af lov om afgift af kvælstofoxider, lov om energiafgift af mineralolieprodukter m.v. og lov om afgift af naturgas og bygas (Højere afgift på luftforurening fra NOx m.v.), er ikke indarbejdet i denne lovbekendtgørelse, da tidspunktet for ikrafttræden af denne ændring fastsættes af skatteministeren, jf. § 4, stk. 2, i lov nr. 1385 af 28. december 2011.
