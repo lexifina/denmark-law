@@ -1,1 +1,1 @@
-§ 126 a. (Ophævet).
+§ 126 a. (Ophævet)

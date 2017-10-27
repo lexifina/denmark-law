@@ -1,8 +1,8 @@
-Trafikstyrelsen, den 28. august 2013
+Transport-, Bygnings- og Boligministeriet, den 13. oktober 2017
 
-Carsten Falk Hansen
+Ole Birk Olesen
 
-/ Theo Rabenberg
+/ Christian Løvenbalck Haxthausen
 
 Bilag 1
 
@@ -20,7 +20,7 @@ Stk. 2. Medmindre andet er anført, refererer henvisningerne i dette bilag til b
 
 Stk. 2. Bestemmelserne om befordringsdokumenter i §§ 92-98 finder ikke anvendelse på befordring, der udføres under usædvanlige forhold og falder uden for normal udøvelse af luftfartsvirksomhed.
 
-## Befordringsdokumenter
+Befordringsdokumenter
 
 § 92. Ved befordring af passagerer skal der udstedes billet, der skal indeholde angivelse af
 
@@ -74,7 +74,7 @@ Stk. 3. Har befordreren udfærdiget luftfragtbrevet efter afsenderens anmodning,
 
 Stk. 2. Luftfragtbrevets angivelser af godsets vægt, dimensioner, indpakning og stykketal anses som rigtige, hvis ikke andet bevises. Andre oplysninger i luftfragtbrevet om godsets mængde, rumindhold eller tilstand gælder derimod ikke som bevis mod befordreren, medmindre denne i afsenderens nærværelse har undersøgt rigtigheden af disse og har bekræftet dette ved påtegning på luftfragtbrevet eller angivelsen angår godsets synlige tilstand.
 
-## Ret til at råde over godset og udlevering af godset
+Ret til at råde over godset og udlevering af godset
 
 § 101. Mod opfyldelse af sine forpligtelser efter befordringsaftalen kan afsenderen, såfremt det kan ske uden skade for befordreren eller andre afsendere, råde over godset ved at tage det tilbage på afgangs- eller bestemmelsesflyvepladsen, standse det i tilfælde af landing undervejs, lade det udlevere på bestemmelsesstedet eller undervejs til en anden end den i luftfragtbrevet angivne modtager eller kræve det tilbagesendt til afgangsflyvepladsen. Afsenderen skal dog erstatte de dermed forbundne omkostninger. Kan afsenderens ordre ikke udføres, skal befordreren straks underrette afsenderen herom.
 
@@ -94,7 +94,7 @@ Stk. 2. Befordreren skal, så snart godset er kommet frem, underrette modtageren
 
 Stk. 2. Befordreren er ikke pligtig at undersøge, om disse oplysninger og dokumenter er rigtige eller fuldstændige.
 
-## Befordrerens ansvar
+Befordrerens ansvar
 
 § 106. Bliver en passager dræbt eller lider en pågældende skade på legeme eller helbred som følge af en begivenhed, der er indtruffet om bord i et luftfartøj eller under indstigning eller udstigning, er befordreren ansvarlig derfor.
 
@@ -144,7 +144,7 @@ Stk. 2. I tilfælde af, at befordringen omfattes af Warszawa-konventionen, kan e
 
 Stk. 2. Ved befordring af indskrevet rejsegods eller gods kan afsenderen tillige holde sig til den første befordrer og den, som er berettiget til dets udlevering, til den sidste, selv om skaden eller forsinkelsen er indtruffet, medens godset var i en anden befordrers varetægt. Er herefter to befordrere ansvarlige, hæfter de solidarisk.
 
-## Befordring, der udføres af en anden befordrer end den, der har indgået befordringsaftalen
+Befordring, der udføres af en anden befordrer end den, der har indgået befordringsaftalen
 
 § 119 a. Bestemmelserne i §§ 119 b-119 f gælder, hvor befordringen helt eller delvis udføres af en anden befordrer end den, der har indgået befordringsaftalen, medmindre det bevises, at dette er sket uden sidstnævntes samtykke.
 
@@ -164,13 +164,13 @@ Stk. 2. Har den befordrer, der har indgået befordringsaftalen, påtaget sig for
 
 Stk. 2. Sagsøges en af befordrerne, og vil denne, dersom den pågældende taber sagen, rejse krav mod den anden befordrer, kan førstnævnte befordrer tilstævne den anden befordrer uden hensyn til de almindelige regler om værneting for at gøre kravet gældende over for den anden befordrer under sagen. Bestemmelserne i retsplejelovens kapitel 34 finder tilsvarende anvendelse.
 
-## Sammensat befordring
+Sammensat befordring
 
 § 120. Udføres befordringen delvis med luftfartøj og delvis med andet befordringsmiddel, gælder lovens bestemmelser kun luftbefordringen.
 
 Stk. 2. Vilkårene for de andre befordringsmåder kan optages i luftbefordringsdokumentet.
 
-## Andre bestemmelser
+Andre bestemmelser
 
 § 121. Ugyldige er forbehold i befordringsaftalen og aftaler forud for skaden, hvorved parterne fraviger bestemmelserne om den lov, der skal anvendes, eller om værnetinget.
 
