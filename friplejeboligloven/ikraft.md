@@ -1,4 +1,4 @@
-Lov nr. 490 af 12. juni 2009 (Finansiering) indeholder følgende ikrafttrædelses- og overgangsbestemmelse:
+Lov nr. 490 af 12. juni 2009 (Styring og finansiering af den almene boligsektor) indeholder følgende ikrafttrædelses- og overgangsbestemmelse:
 
 § 6
 
@@ -12,7 +12,7 @@ Stk. 5. For byggeri med tilsagn om støtte eller godkendelse efter § 10 og § 1
 
 Stk. 6-8. (Udelades)
 
-Lov nr. 429 af 28. april 2010 (Kompetencen til at træffe afgørelser om lovvalg m.v. efter EF-forordning nr. 883/04 om koordinering af de sociale sikringsordninger m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
+Lov nr. 429 af 28. april 2010 (Kompetencen til at træffe afgørelse om lovvalg m.v. efter EF-forordning nr. 883/04 om koordinering af de sociale sikringsordninger m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
 
 § 20
 
@@ -20,7 +20,7 @@ Stk. 1. Loven træder i kraft den 1. maj 2010.
 
 Stk. 2-3. (Udelades)
 
-Lov nr. 326 af 11. april 2012 (Fordeling af myndighedsansvaret mellem kommunerne og Udbetaling Danmark) indeholder følgende ikrafttrædelses- og overgangsbestemmelser:
+Lov nr. 326 af 11. april 2012 (Fordeling af myndighedsansvaret mellem kommunerne og Udbetaling Danmark m.v.) indeholder følgende ikrafttrædelses- og overgangsbestemmelser:
 
 § 25
 
@@ -50,7 +50,7 @@ Stk. 2. Kommunen skal efter anmodning fra Udbetaling Danmark sende en kopi af de
 
 Stk. 3. Social- og integrationsministeren kan efter indstilling fra bestyrelsen for Udbetaling Danmark fastsætte regler om, at Udbetaling Danmark fra 2015 skal betale et gebyr til kommunen for at varetage opgaven efter stk. 2, 1. pkt., og regler om udfasning af kommunernes arkivforpligtelse over for Udbetaling Danmark fra 2018.
 
-Lov nr. 1097 af 28. november 2012 (Nedsættelse af kapitalindskuddet i friplejeboliger) indeholder følgende ikrafttrædelsesbestemmelse:
+Lov nr. 1097 af 28. november 2012 (Nedsættelse af den kommunale grundkapital og kapitalindskud i friplejeboliger) indeholder følgende ikrafttrædelsesbestemmelse:
 
 § 3
 
@@ -70,7 +70,7 @@ Stk. 2. (Udelades)
 
 Stk. 3. Sager, som Ankestyrelsen inden lovens ikrafttræden har optaget til behandling efter § 59 a, stk. 2, eller § 63 i lov om retssikkerhed og administration på det sociale område, og hvori der endnu ikke er truffet afgørelse ved denne lovs ikrafttræden, behandles af Ankestyrelsen eller Ankestyrelsens Beskæftigelsesudvalg efter kapitel 9, 9 a og 10 i lov om retssikkerhed og administration på det sociale område, som ændret ved denne lovs § 1.
 
-Lov nr. 722 af 25. juni 2014 (Ændring af ressortansvar for regler om statsrefusion) indeholder følgende ikrafttrædelsesbestemmelse:
+Lov nr. 722 af 25. juni 2014 (Opfølgning på evaluering af kommunalreformen vedrørende det mest specialiserede socialområde og den mest specialiserede specialundervisning m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
 
 § 12
 
@@ -78,7 +78,7 @@ Stk. 1. Loven træder i kraft den 1. juli 2014, jf. dog stk. 2 og 3.
 
 Stk. 2-3. (Udelades)
 
-Lov nr. 527 af 29. april 2015 (Ændret adgang til markedet, ophævelse af kravet om genudbud, ændring af afregningssystemet, pantsætningsforbud, forenklinger m.v.) indeholder følgende ikrafttrædelsesbestemmelser:
+Lov nr. 527 af 29. april 2015 (Fri adgang til plejeboligmarkedet, ophævelse af krav om genudbud, ændring af afregningssystemet, pantsætningsforbud, forenkling af friplejeboligordningen m.v.) indeholder følgende ikrafttrædelsesbestemmelser:
 
 § 5
 
@@ -105,3 +105,51 @@ Stk. 8. Friplejeboligleverandører, der har etableret friplejeboliger ved kvotet
 Stk. 9. Friplejeboligleverandører, der indgår aftale med kommunalbestyrelsen om, at denne får anvisningsret til boliger i friplejeboligbebyggelsen, jf. § 1, nr. 1, skal for alle boliger i bebyggelsen overgå til afregning efter § 1, nr. 33.
 
 Stk. 10. Friplejeboligleverandører, der er certificeret til at levere rehabiliteringsforløb, jf. § 83 a i lov om social service, og som ikke er overgået til afregning efter § 1, nr. 33, afregnes for levering af rehabiliteringsforløb efter § 83 a i lov om social service i henhold til §§ 1-3 i bekendtgørelse nr. 751 af 3. juli 2008 om afregning mellem friplejeboligleverandøren og kommunalbestyrelsen og om procedurer for velfærdsministerens meddelelse af tilsagn om kvotetildeling, herunder til de priser for personlig og praktisk hjælp efter §§ 83 og 87 i lov om social service, som de har budt ind med i forbindelse med kvotetildelingen, indtil de overgår til afregning efter § 1, nr. 33.
+
+Lov nr. 299 af 22. marts 2016 (Nedsættelse af grundkapital og kapitalindskud samt revision af reglerne for totaløkonomiske merinvesteringer m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 3
+
+Loven træder i kraft den 1. april 2016.
+
+Lov nr. 380 af 27. april 2016 (Betalings- og handlekommune ved ophold i veterantilbud m.v.) indeholder følgende ikrafttrædelsesbestemmelser:
+
+§ 8
+
+Loven træder i kraft den 1. juli 2016.
+
+§ 9
+
+(Udelades)
+
+§ 10
+
+(Udelades)
+
+Lov nr. 628 af 8. juni 2016 (Overførsel af opgaver fra Statens Administrations Finansservicecenter m.fl. til Udbetaling Danmark m.v.) indeholder følgende ikrafttrædelses- og overgangsbestemmelser:
+
+§ 54
+
+Stk. 1. Loven træder i kraft den 1. oktober 2016, jf. dog stk. 2 og 3.
+
+2 og 3 (Udelades)
+
+§ 55
+
+(Udelades)
+
+§ 56
+
+(Udelades)
+
+Lov nr. 1559 af 13. december 2016 (Effektivisering af den almene boligsektors drift, forsøg med varmeregnskaber m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 4
+
+Loven træder i kraft den 1. januar 2017.
+
+Lov nr. 389 af 26. april 2017 (Medfinansiering af Center for Boligsocial Udvikling, mulighed for afskæring af klageadgang og ejerlejlighedsopdeling) indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 6
+
+Loven træder i kraft den 1. maj 2017.
