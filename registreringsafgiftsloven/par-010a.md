@@ -1,10 +1,10 @@
 § 10 a. Ved afgiftsberigtigelse af et køretøj offentliggør told- og skatteforvaltningen afgiftsgrundlaget på internettet.
 
-Stk. 2. For hvert køretøj offentliggøres:
+Stk. 2. For hvert enkelt køretøj offentliggøres:
 
 1) De oplysninger om køretøjet, der anmeldes til told- og skatteforvaltningen til brug for opgørelse af registreringsafgiften af køretøjet.
 
-2) Det af told- og skatteforvaltningen opgjorte afgiftsgrundlag.
+2) Det af told- og skatteforvaltningen opgjorte afgiftsgrundlag, den beregnede afgift, den betalte afgift og det anvendte hjemmelsgrundlag ved afgiftsberegningen.
 
 3) Eventuel ændring af afgiftsgrundlaget i forhold til det anmeldte afgiftsgrundlag.
 
