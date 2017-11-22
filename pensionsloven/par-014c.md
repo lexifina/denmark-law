@@ -20,7 +20,7 @@
 
 10) bestemmelser for ansættelse og aflønning af personel ansat på kontrakt i Beredskabskorpset i forbindelse med humanitært hjælpearbejde.
 
-Stk. 2. Der ses desuden bort fra formue, som skyldes beløb, der er udbetalt som godtgørelse for varigt mén og ikkeøkonomisk skade.
+Stk. 2. Der ses desuden bort fra formue, som skyldes beløb, der er udbetalt som godtgørelse for varigt mén og ikke økonomisk skade.
 
 Stk. 3. Endvidere bortses fra godtgørelse og afkastet af godtgørelse til hiv-smittede blødere m.fl. og hiv-positive transfusionssmittede samt fra erstatning og afkastet af erstatning, jf. lov om erstatning for skader ved lsd-behandling.
 
