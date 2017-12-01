@@ -1,3 +1,3 @@
 Bekendtgørelse af lov om Forsvarets Efterretningstjeneste (FE)
 
-Herved bekendtgøres lov nr. 602 af 12. juni 2013 om Forsvarets Efterretningstjeneste (FE) med de ændringer, der følger af § 3 i lov nr. 1624 af 26. december 2013 og lov nr. 1571 af 15. december 2015.
+Herved bekendtgøres lov om Forsvarets Efterretningstjeneste (FE), jf. lovbekendtgørelse nr. 1 af 4. januar 2016, med de ændringer, der følger af § 1 i lov nr. 462 af 15. maj 2017.
