@@ -1,5 +1,5 @@
-Forsvarsministeriet, den 4. januar 2016
+Forsvarsministeriet, den 28. november 2017
 
-Peter Christensen
+Claus Hjort Frederiksen
 
-/ Thomas Kvistholm Thrane
+/ Jon Bach Holm
