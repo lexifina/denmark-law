@@ -12,7 +12,7 @@ Lov nr. 1064 af 23. december 1992 indeholder følgende ikrafttrædelsesbestemmel
 
 Loven træder i kraft den 1. januar 1993. Reglerne om mærkning og registrering omfatter kun hunde, der er født efter lovens ikrafttræden.
 
-Lov nr. 385 af 28. maj 2003 ((Indgreb over for farlige hunde, forbud mod hundekampe m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
+Lov nr. 385 af 28. maj 2003 (Indgreb over for farlige hunde, forbud mod hundekampe m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
 
 § 2
 
@@ -55,3 +55,11 @@ Stk. 5. Regler, der er fastsat i henhold til hidtil gældende regler, forbliver 
 Stk. 6. Verserende klagesager i Natur- og Miljøklagenævnet eller Klagecenter for Fødevarer, Landbrug og Fiskeri, der ikke er færdigbehandlet ved denne lovs krafttræden, færdigbehandles og afgøres af Miljø- og Fødevareklagenævnet efter reglerne i denne lov. Dette gælder dog ikke verserende klagesager ved Natur- og Miljøklagenævnet, som ved lovens ikrafttræden skal færdigbehandles og afgøres af Planklagenævnet, jf. § 1 i lov om Planklagenævnet.
 
 Stk. 7. (Udelades)
+
+Lov nr. 1194 af 14. november 2017 (Undtagelse fra aflivning af visse ulovlige hunde i særlige tilfælde) indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 2
+
+Stk. 1. Loven træder i kraft dagen efter bekendtgørelsen i Lovtidende.
+
+Stk. 2. Loven har virkning fra den 15. marts 2017.

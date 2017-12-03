@@ -10,7 +10,7 @@
 
 6) Ved gentagne overtrædelser kan politidirektøren træffe afgørelse om at lade hunden aflive, jf. note 7.
 
-7) Lovændringen vedrører indsættes af § 1 b, stk. 5, ændring af § 3, indsættelse af §§ 3 a og 3 b, indsættelse af § 4, stk. 2, ændring af § 6, stk. 5 og § 6 a, stk. 1 og 2, indsættelse af et nyt stk. 3 i § 6 a, hvorefter stk. 3 bliver stk. 4, ændring af § 6 b, stk. 1, indsættelse af § 6 c, stk. 3, ændring af § 12, stk. 1 og 2, og § 12 a, stk. 1, og ophævelse af § 12 c.
+7) Lovændringen vedrører indsættelse af § 1 b, stk. 5, ændring af § 3, indsættelse af §§ 3 a og 3 b, indsættelse af § 4, stk. 2, ændring af § 6, stk. 5 og § 6 a, stk. 1 og 2, indsættelse af et nyt stk. 3 i § 6 a, hvorefter stk. 3 bliver stk. 4, ændring af § 6 b, stk. 1, indsættelse af § 6 c, stk. 3, ændring af § 12, stk. 1 og 2, og § 12 a, stk. 1, og ophævelse af § 12 c.
 
 Lovændringen indeholder endvidere i § 2 følgende bestemmelse: I lov nr. 717 af 25. juni 2010 om ændring af lov om hunde og dyreværnsloven (Forbud mod besiddelse m.v. af visse hunde, båndpligt, aflivning af hunde, der skambider, midlertidig frakendelse af retten til at have med dyr at gøre m.v.) foretages følgende ændring:
 
@@ -23,3 +23,5 @@ Stk. 6 bliver herefter stk. 7.
 8) Lovændringen vedrører § 4 a.
 
 9) Ved kongelig resolution af 28. november 2016 er betegnelsen Erhvervs- og Vækstministeriet ændret til Erhvervsministeriet, jf. bekendtgørelse nr. 1777 af 23. december 2016.
+
+10) Lovændringen vedrører indsættelse af § 1 b, stk. 6, indsættelse af nyt stk. 2 i § 6 b, hvorefter stk. 2-4 bliver stk. 3-5, ændring af § 6 b, stk. 2 og 4, der bliver stk. 3 og 5, indsættelse af § 6 b, stk. 6, og ændring af § 6 c, stk. 1, 1. pkt.
