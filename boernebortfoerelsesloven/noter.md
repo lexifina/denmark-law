@@ -7,3 +7,5 @@
 4) Ikrafttrædelsesbestemmelsen vedrører § 18 a.
 
 5) Lovændringen vedrører bl.a. §§ 8, 9 og 16 samt § 18, stk. 1, § 19, stk. 1 og 2, og § 20, stk. 2.
+
+6) Lovændringen vedrører § 8, nr. 2 og 3, § 20 a og § 20 b.
