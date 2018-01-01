@@ -1,0 +1,1 @@
+§ 11 a. Skibsregistrator kan træffe afgørelse om, at skibe, der er omfattet af restriktive foranstaltninger eller er ejet af fysiske eller juridiske personer, der er omfattet af restriktive foranstaltninger besluttet af De Forenede Nationer eller Den Europæiske Union, ikke kan optages i et dansk skibsregister.
