@@ -1,0 +1,5 @@
+§ 16 a. Energi-, forsynings- og klimaministeren kan træffe afgørelse om at overdrage retten til at forhandle aftaler om tredjepartsadgang til ledig kapacitet i en tredjepartsfacilitet på vegne af ejeren af denne facilitet til ejeren af det anlæg, som tredjepartsfaciliteten er en del af. Energi-, forsynings- og klimaministeren kan fastsætte vilkår for overdragelsen, herunder om tidsbegrænsning og tilbagekaldelse af forhandlingsretten.
+
+Stk. 2. Er der truffet afgørelse om en overdragelse efter stk. 1, bevarer ejeren af tredjepartsfaciliteten retten til den indkomst, som relaterer sig til andres brug af den ledige kapacitet på tredjepartsfaciliteten. Anlægsejere, der har fået overdraget en forhandlingsret efter stk. 1, skal varetage ejeren af tredjepartsfacilitetens økonomiske interesser loyalt i forbindelse med aftaleindgåelse om tredjepartsadgang til den ledige kapacitet.
+
+Stk. 3. Ejeren af anlægget, som tredjepartsfaciliteten befinder sig på, har ret til at kræve et rimeligt vederlag og fuld omkostningsdækning af nye tredjeparter for at forhandle om disses adgang til den ledige kapacitet.
