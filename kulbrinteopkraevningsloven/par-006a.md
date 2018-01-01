@@ -1,0 +1,1 @@
+§ 6 A. For skattepligtige, der har valgt at anvende reglerne i kulbrinteskattelovens kapitel 3 B, finder bestemmelserne i § 6 tilsvarende anvendelse med hensyn til tillægsskatten efter kulbrinteskattelovens § 20 J.
