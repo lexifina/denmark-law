@@ -1,0 +1,1 @@
+§ 58 a. Energi-, forsynings- og klimaministeren kan fastsætte nærmere regler om betaling af gebyr til dækning af energi, forsynings- og klimaministerens omkostninger til administration af tilskud efter §§ 43 b-43 e, herunder afgørelser om udbetaling af tilskud og drift af registeret, jf. § 50 a, stk. 3 og 4.
