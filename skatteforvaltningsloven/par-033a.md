@@ -1,1 +1,15 @@
-§ 33 a. Told- og skatteforvaltningen kan ikke afsende varsel som nævnt i § 20, stk. 1, jf. stk. 4, om foretagelse eller ændring af en vurdering af en fast ejendom senere end den 1. juli i det andet kalenderår efter vurderingsårets udløb. En ændring skal være gennemført senest den 1. oktober samme år.
+## Revision
+
+§ 33 a. Told- og skatteforvaltningen kan ikke afsende varsel som nævnt i § 20, stk. 1, jf. stk. 4, om ændring af en vurdering eller en del af en vurdering af en fast ejendom senere end den 1. juli i det andet kalenderår efter vurderingsårets udløb. En ændring skal være gennemført senest den 1. oktober samme år.
+
+Stk. 2. Told- og skatteforvaltningen kan efter udløbet af fristen i stk. 1, 1. pkt., varsle ændring af en foretaget vurdering, der medfører en nedsættelse af vurderingen. Ændringen skal være gennemført senest 3 måneder efter varslingen.
+
+Stk. 3. Told- og skatteforvaltningen kan efter udløbet af fristen i stk. 1, 1. pkt., varsle ændring af en foretaget vurdering, der medfører en ændring af beskatningen, men ikke samtidig nedsættelse af vurderingen. Ændringen skal være gennemført senest 3 måneder efter varslingen.
+
+Stk. 4. Told- og skatteforvaltningen kan efter udløbet af fristen i stk. 1, 1. pkt., varsle ændring af en foretaget vurdering, der medfører forhøjelse af vurderingen. Ændringen skal være gennemført senest 3 måneder efter varslingen.
+
+Stk. 5. Bestemmelserne i stk. 2-4 finder tilsvarende anvendelse ved varsling og gennemførelse af ændring af dele af foretagne vurderinger.
+
+Stk. 6. Vurderinger, der er revideret efter stk. 1 og 2, tillægges skattemæssig virkning fra tidspunktet, hvor den vurdering, der ændres, blev foretaget.
+
+Stk. 7. Ændring af en vurdering efter stk. 3 og 4 tillægges skattemæssig virkning fra tidspunktet, hvor den vurdering, der ændres, blev foretaget, hvis dette accepteres af alle klageberettigede, som ændringen skal vedrøre med skattemæssig virkning fra dette tidspunkt. Ændring af en vurdering efter stk. 3 og 4 tillægges skattemæssig virkning fra det tidspunkt, hvor ændringen foretages, hvis ikke alle de klageberettigede, som skal acceptere en skattemæssig virkning som nævnt i 1. pkt., accepterer.

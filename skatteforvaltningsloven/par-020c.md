@@ -1,0 +1,1 @@
+§ 20 c. Ved afgørelse om almindelig vurdering og omvurdering, der meddeles efter afgørelsesperiodens udløb, jf. § 20 b, stk. 1, træffer told- og skatteforvaltningen afgørelse på grundlag af de oplysninger, der foreligger på afgørelsestidspunktet.
