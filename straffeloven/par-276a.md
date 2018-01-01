@@ -1,0 +1,1 @@
+§ 276 a. For indbrudstyveri straffes den, som uberettiget skaffer sig adgang til fremmed hus og uden besidderens samtykke borttager en fremmed rørlig ting for at skaffe sig eller andre uberettiget vinding ved dens tilegnelse.
