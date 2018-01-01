@@ -12,7 +12,7 @@ Stk. 5. Der ydes derudover et pristillæg på 10 kr. pr. leveret GJ opgraderet b
 
 Stk. 6. Energi-, forsynings- og klimaministeren kan efter forelæggelse for et af Folketinget nedsat udvalg fastsætte nærmere regler om, at pristillæg efter denne bestemmelse skal nedsættes eller bortfalde.
 
-Stk. 7. Det er en betingelse for tildeling af pristillæg, at ansøgeren opfylder de krav om adgangen til og dokumentationen for at modtage tillæg, som fremgår af regler udstedt efter § 35 d, stk. 5, 6 og 8.
+Stk. 7. Det er en betingelse for tildeling af pristillæg, at ansøgeren opfylder de krav om adgangen til og dokumentationen for at modtage tillæg, som fremgår af regler udstedt efter § 35 d, stk. 4, 5 og 7.
 
 Stk. 8. Renset biogas, der leveres til et bygasnet, modtager samme pristillæg som opgraderet biogas, der leveres til det sammenkoblede system. Pristillæg ydes til den, der foretager rensningen af biogassen til brug i bygasnettet. Stk. 2-7 finder tilsvarende anvendelse.
 

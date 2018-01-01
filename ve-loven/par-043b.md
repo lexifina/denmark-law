@@ -8,6 +8,6 @@ Stk. 4. Der ydes ikke tilskud efter stk. 2 og 3 til den mængde biogas, der indg
 
 Stk. 5. Tilskud efter stk. 2 og 3 ydes til den, der sælger biogassen til transport til en slutbruger.
 
-Stk. 6. Tilskud efter stk. 2 og 3 er betinget af Energinet.dk's tilsagn, inden der indgås ubetinget aftale om køb af biogas til brug for salg til transport, eller inden der iværksættes egenproduktion af biogas til brug for salg til transport.
+Stk. 6. Tilskud efter stk. 2 og 3 er betinget af energi, forsynings- og klimaministerens tilsagn, inden der indgås ubetinget aftale om køb af biogas til brug for salg til transport, eller inden der iværksættes egenproduktion af biogas til brug for salg til transport.
 
 Stk. 7. Ansøger skal for at modtage tilskud efter stk. 2 og 3 opfylde de krav, som fremgår af regler udstedt i medfør af § 50, stk. 5, og § 50 a.
