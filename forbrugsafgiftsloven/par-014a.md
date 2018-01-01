@@ -10,7 +10,7 @@ Stk. 3. Registrerede virksomheder skal opgøre den afgiftspligtige mængde for e
 
 Stk. 4. Registrerede virksomheder er berettiget til, uden at afgiften er berigtiget, fra andre registrerede virksomheder eller fra udlandet at modtage afgiftspligtige varer.
 
-Stk. 5. Told- og skatteforvaltningen kan tillade, at afgiftsberigtigelsen af de i §§ 3, 11 og 11 b nævnte varer, der modtages fra udlandet i erhvervsmæssigt øjemed, afregnes efter reglerne i § 16 a, stk. 1-7.
+Stk. 5. Told- og skatteforvaltningen kan tillade, at afgiftsberigtigelsen af de i §§ 3 og 11 nævnte varer, der modtages fra udlandet i erhvervsmæssigt øjemed, afregnes efter reglerne i § 16 a, stk. 1-7.
 
 Stk. 6. I den afgiftspligtige mængde opgjort efter § 14 a, stk. 3, fradrages
 

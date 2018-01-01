@@ -1,1 +1,1 @@
-§ 11 a. Der skal af kaffeerstatning og kaffetilsætning, herunder blandinger af de nævnte varer med kaffe, betales en afgift på 79 øre pr. kg nettovægt af varens indhold af kaffeerstatning og kaffetilsætning.
+§ 11 a. Der skal af kaffeerstatning og kaffetilsætning, herunder blandinger af de nævnte varer med kaffe, betales en afgift på 75 øre pr. kg nettovægt af varens indhold af kaffeerstatning og kaffetilsætning.
