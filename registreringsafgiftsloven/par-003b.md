@@ -14,7 +14,7 @@ Stk. 4. For betaling af afgiften og renter efter stk. 2, 3, 7 og 8 hæfter leasi
 
 Stk. 5. Forlænges den i stk. 1 kontraktaftalte leasingperiode, kan told- og skatteforvaltningen tillade, at afgiften for den tidsbegrænsede periode betales efter stk. 2 og 3, hvis ansøgning herom indgives, senest 14 dage inden leasingperioden udløber. Der skal på ansøgningstidspunktet foreligge en skriftlig aftale mellem leasingtageren og leasingvirksomheden. Aftalen skal indeholde oplysninger om den præcise tidsperiode, som leasingperioden og afgiftsperioden forlænges med. Forlængelsen af afgiftsperioden kan maksimalt overstige forlængelsen af leasingperioden med 1 måned.
 
-Stk. 6. Hvis leasingaftalen ændres eller afbrydes eller det leasede køretøj ændrer afgiftsmæssig identitet, skal nummerpladerne afleveres og køretøjet afmeldes fra Køretøjsregisteret. Afbrydes en leasingaftale som nævnt i 1. pkt., tilbagebetaler told- og skatteforvaltningen den afgift og rente, der eventuelt er betalt for meget for afgiftsperioden, jf. stk. 2 og 3. 1. pkt. finder ikke anvendelse for følgende ændringer af leasingaftalen, forudsat at ændringen ikke fører til omberegning af den betalte afgift efter stk. 2 og 3, og at de øvrige betingelser for betaling af afgift efter stk. 2 og 3 fortsat er opfyldt:
+Stk. 6. Hvis leasingaftalen ændres eller afbrydes eller det leasede køretøj ændrer afgiftsmæssig identitet, skal nummerpladerne afleveres og køretøjet afmeldes fra Køretøjsregisteret. Afbrydes en leasingaftale som nævnt i 1. pkt., tilbagebetaler told- og skatteforvaltningen den afgift og rente, der eventuelt er betalt for meget for afgiftsperioden, jf. stk. 2 og 3. 1. pkt. finder ikke anvendelse for følgende ændringer af leasingaftalen, forudsat at ændringen ikke fører til omberegning af den betalte afgift efter stk. 2 og 3, medmindre afgiften genberegnes i medfør af § 9 a, og forudsat at de øvrige betingelser for betaling af afgift efter stk. 2 og 3 fortsat er opfyldt:
 
 1) Et skifte af leasingtager, hvorved leasingtageren udtræder af leasingaftalen og en anden samtidig indtræder som ny leasingtager i leasingaftalen på uændrede vilkår. Leasingvirksomheden skal meddele identiteten af denne nye leasingtager og tidspunktet for skiftet af leasingtager til told- og skatteforvaltningen, inden skiftet sker.
 
@@ -28,11 +28,15 @@ Stk. 6. Hvis leasingaftalen ændres eller afbrydes eller det leasede køretøj �
 
 6) En ændring af leasingaftalens vilkår, der er påkrævet i medfør af ny ufravigelig lovgivning.
 
+7) En forhøjelse af leasingydelsen og ændring af en fastsat restværdi i henhold til leasingaftalens vilkår og som direkte følge af en ændring af afgiftsgrundlaget i medfør af § 9 a, når ændringerne sker samtidig med en forhøjelse af registreringsafgiften. Aftalen skal indeholde en nøjagtig beskrivelse af de foretagne ændringer og de økonomiske konsekvenser heraf for leasingaftalen.
+
 Stk. 7. På det tidspunkt, hvor leasingaftalen afbrydes, eller hvor køretøjet udgår af ordningen, jf. § 1, stk. 3, 5. og 6. pkt., fastsætter told- og skatteforvaltningen efter ansøgning køretøjets aktuelle afgiftspligtige værdi efter § 10. Hvis den betalte afgift efter stk. 2 overstiger den beregnede afgift efter 1. pkt., tilbagebetales differencen. Hvis den betalte afgift efter stk. 2 er mindre end den beregnede afgift efter 1. pkt., opkræves differencen.
 
 Stk. 8. Ved afgiftsperiodens udløb skal køretøjets nummerplader afleveres og køretøjet afmeldes fra Køretøjsregisteret. Hvis køretøjets nummerplader ved afgiftsperiodens udløb ikke afleveres rettidigt, skal køretøjets nummerplader efter anmodning fra told- og skatteforvaltningen snarest inddrages ved politiets foranstaltning. I tilfælde heraf skal der efterfølgende betales afgift og rente for den periode, der forløber fra afgiftsperiodens udløb til køretøjets nummerplader indleveres eller fjernes. Afgift og rente opkræves pr. påbegyndt måned, som fristen overskrides med, jf. stk. 2 og 3. 3. og 4. pkt. finder alene anvendelse i det tilfælde og i den periode, hvor leasingvirksomheden på grund af leasingtagers forhold ikke kan skaffe sig fysisk rådighed over køretøjets nummerplader ved afgiftsperiodens udløb. Skatteministeren kan fastsætte nærmere regler herom.
 
-Stk. 9. Leasingaftalen skal forelægges told- og skatteforvaltningen ved ansøgningen om tilladelse efter stk. 1. Leasingaftalen skal indeholde følgende oplysninger:
+Stk. 9. Told- og skatteforvaltningen offentliggør standardformularer til indgåelse af leasingaftaler. For virksomheder, som er hjemmehørende her i landet, er opnåelse af tilladelse efter stk. 1 betinget af, at disse standardformularer anvendes ved indgåelse af leasingaftaler.
+
+Stk. 10. Leasingaftaler, som indgås af virksomheder, som ikke er hjemmehørende her i landet, og som ikke anvender de standardformularer, der er nævnt i stk. 9, skal forelægges told- og skatteforvaltningen ved ansøgningen om tilladelse efter stk. 1. Leasingaftaler omfattet af stk. 1 skal indeholde følgende oplysninger:
 
 1) Oplysninger, hvorved leasingvirksomheden kan identificeres.
 
@@ -48,14 +52,14 @@ Stk. 9. Leasingaftalen skal forelægges told- og skatteforvaltningen ved ansøgn
 
 7) Oplysning om afgiftsperiodens starttidspunkt og varighed, hvis afgiftsperioden er længere end leasingperioden, jf. stk. 2.
 
-8) Oplysninger om en aftalt køberet, købepligt, anvisningsret eller anvisningspligt og betingelserne herfor, hvis en sådan ret eller pligt er aftalt.
+8) Oplysninger om vilkår ved leasingaftalens udløb, herunder en aftalt køberet, købepligt, anvisningsret eller anvisningspligt og betingelserne herfor, hvis en sådan ret eller pligt er aftalt.
 
-9) Oplysning om vilkår for opsigelse af leasingaftalen, hvis leasingaftalen kan opsiges i løbet af leasingperioden.
+9) Oplysning om vilkår for førtidigt ophør af leasingaftalen, herunder vilkår ved misligholdelse og vilkår, hvis leasingaftalen kan opsiges i løbet af leasingperioden.
 
 10) Angivelse og beskrivelse af andre aftaler, som har betydning for den økonomiske afvikling af leasingaftalen.
 
-Stk. 10. Overgår et køretøj til varig anvendelse her i landet ved salg eller anden overdragelse, forfalder resten af afgiften, medmindre afgiften af køretøjet i stedet berigtiges efter reglerne i §§ 4-5 d.
+Stk. 11. Overgår et køretøj til varig anvendelse her i landet ved salg eller anden overdragelse, berigtiges afgiften af køretøjet efter reglerne i §§ 4-5 e.
 
-Stk. 11. Told- og skatteforvaltningen kan efter anmodning give tilladelse til, at en virksomhed, der er registreret efter § 15, kan angive afgiften efter § 14, også for så vidt angår betaling af registreringsafgift efter denne paragraf, uden at der skal ansøges om en særskilt tilladelse som nævnt i stk. 1 for hvert enkelt køretøj. Tilladelsen efter 1. pkt. gælder dog alene for angivelse af afgift for køretøjer, der leases i henhold til en leasingaftale, hvis aftalevilkår er identiske med en på forhånd godkendt standardleasingaftale.
+Stk. 12. Told- og skatteforvaltningen kan efter anmodning give tilladelse til, at en virksomhed, der er registreret efter § 15, kan angive afgiften efter § 14, også for så vidt angår betaling af registreringsafgift efter denne paragraf, uden at der skal ansøges om en særskilt tilladelse som nævnt i stk. 1 for hvert enkelt køretøj. Tilladelsen efter 1. pkt. gælder dog alene for angivelse af afgift for køretøjer, der leases i henhold til en leasingaftale, hvis aftalevilkår er identiske med en på forhånd godkendt standardleasingaftale.
 
-Stk. 12. Skatteministeren kan fastsætte nærmere regler om told- og skatteforvaltningens behandling af ansøgninger om tilladelse til betaling af registreringsafgift efter denne paragraf, jf. stk. 1. Skatteministeren kan desuden fastsætte nærmere regler om told- og skatteforvaltningens behandling af ansøgninger om tilladelse til at angive afgift efter § 14, også for så vidt angår betaling af registreringsafgift efter denne paragraf, jf. stk. 11.
+Stk. 13. Skatteministeren kan fastsætte nærmere regler om told- og skatteforvaltningens behandling af ansøgninger om tilladelse til betaling af registreringsafgift efter denne paragraf, jf. stk. 1. Skatteministeren kan desuden fastsætte nærmere regler om told- og skatteforvaltningens behandling af ansøgninger om tilladelse til at angive afgift efter § 14, også for så vidt angår betaling af registreringsafgift efter denne paragraf, jf. stk. 12.

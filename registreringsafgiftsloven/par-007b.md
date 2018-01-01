@@ -1,6 +1,6 @@
 ## Godtgørelse af afgift
 
-§ 7 b. Afgiften af et brugt motorkøretøj, der er afgiftsberigtiget efter §§ 4-5 d, 29 eller 29 a, godtgøres, såfremt køretøjet afmeldes fra Køretøjsregisteret og udføres fra landet.
+§ 7 b. Afgiften af et brugt motorkøretøj, der er afgiftsberigtiget efter §§ 4-5 e, 29 eller 29 a, godtgøres, såfremt køretøjet afmeldes fra Køretøjsregisteret og udføres fra landet.
 
 Stk. 2. Godtgørelsesbeløbet fastsættes i medfør af § 10 således:
 
@@ -12,7 +12,7 @@ Stk. 2. Godtgørelsesbeløbet fastsættes i medfør af § 10 således:
 
 4) For autocampere og busser afgiftsberigtiget efter § 5 a, stk. 1 og 2, som afgiften efter § 5 a, stk. 1 og 2.
 
-5) For køretøjer afgiftsberigtiget efter §§ 5 b-5 d som afgiften efter §§ 5 b-5 d.
+5) For køretøjer afgiftsberigtiget efter §§ 5 b-5 e som afgiften efter §§ 5 b-5 e.
 
 Stk. 3. I de godtgørelsesbeløb, der er fastsat efter stk. 2, fratrækkes 15 pct. af beløbet, dog mindst 8.500 kr. for personbiler, herunder autocampere og busser, og 4.500 kr. for motorcykler, varebiler, hyrevogne og sygetransporter.
 
@@ -32,4 +32,4 @@ Stk. 5. Afgiftsgodtgørelsen efter stk. 2 kan ikke overstige den afgift, der opr
 
 Stk. 6. Ved fornyet tilmelding til Køretøjsregisteret af et køretøj, for hvilket der er godtgjort afgift, beregnes afgiftsbeløbet på samme måde som godtgørelsesbeløbet efter § 7 b, stk. 2, men uden nedslag i afgiftsbeløbet.
 
-Stk. 7. Skal der indhentes en synsrapport efter § 7 c, stk. 1, hæves godtgørelsesbeløbet med 300 kr. Beløbet reguleres årligt med 2 pct. tillagt eller fratrukket den af finansministeren bekendtgjorte tilpasningsprocent for det pågældende finansår efter lov om en satsreguleringsprocent. Procenten beregnes med én decimal. Det således regulerede beløb afrundes opad til nærmeste kronebeløb, der er deleligt med 10. Reguleringen sker første gang med virkning for 2010.
+Stk. 7. Skal der indhentes synsrapport efter § 7 c, stk. 1, hæves godtgørelsesbeløbet med 300 kr. (2010-niveau). Beløbet reguleres fra 2015 efter personskattelovens § 20.
