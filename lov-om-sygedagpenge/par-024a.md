@@ -16,6 +16,6 @@ Stk. 4. Personer, der er omfattet af flere bestemmelser i stk. 2 og 3, har ret t
 
 Stk. 5. For selvstændige erhvervsdrivende er der ret til et jobafklaringsforløb med ressourceforløbsydelse fra første fraværsdag.
 
-Stk. 6. I perioden fra den 1. januar 2016 til og med den 31. december 2017 kan en person, der er omfattet af stk. 1, i stedet for et jobafklaringsforløb med ressourceforløbsydelse vælge at modtage sygedagpenge fra kommunen, hvis en læge vurderer, at personen har en livstruende, alvorlig sygdom.
+Stk. 6. En person, der er omfattet af stk. 1, kan i stedet for et jobafklaringsforløb med ressourceforløbsydelse vælge at modtage sygedagpenge fra kommunen, hvis en læge vurderer, at personen har en livstruende, alvorlig sygdom.
 
 Stk. 7. Retten til sygedagpenge efter stk. 6 indtræder for lønmodtagere efter reglerne i § 33. For selvstændige erhvervsdrivende indtræder retten til sygedagpenge fra første fraværsdag.
