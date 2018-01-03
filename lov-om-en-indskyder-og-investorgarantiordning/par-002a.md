@@ -16,4 +16,4 @@ Stk. 8. Når bail-in anvendes, jf. § 24 i lov om restrukturering og afvikling a
 
 Stk. 9. Overføres en indskyders indskud eller en investors kontante midler helt eller delvis til et andet institut som følge af §§ 19 eller 21 i lov om restrukturering og afvikling af visse finansielle virksomheder, kan indskyderen eller investoren ikke rette et krav imod Garantiformuen for den del af indskuddet og den del af de kontante midler, som ikke overføres, hvis det overførte indskud eller de overførte kontante midler svarer til eller er større end det beløb, Garantiformuen skulle have dækket, jf. §§ 9 og 10.
 
-Stk. 10. Erhvervs- og vækstministeren kan fastsætte nærmere regler om brugen af Garantiformuen ved restrukturering og afvikling af et pengeinstitut eller realkreditinstitut efter lov om restrukturering og afvikling af visse finansielle virksomheder.
+Stk. 10. Erhvervsministeren kan fastsætte nærmere regler om brugen af Garantiformuen ved restrukturering og afvikling af et pengeinstitut eller realkreditinstitut efter lov om restrukturering og afvikling af visse finansielle virksomheder.
