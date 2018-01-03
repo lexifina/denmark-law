@@ -8,7 +8,7 @@
 
 3) Virksomheder af interesse for offentligheden:
 
-a) Virksomheder, som har kapitalandele, gældsinstrumenter eller andre værdipairer optaget til handel på et reguleret marked i et EU-land eller et EØS-land, og
+a) Virksomheder, som har kapitalandele, gældsinstrumenter eller andre værdipapirer optaget til handel på et reguleret marked i et land inden for Den Europæiske Union eller i et land, som Unionen har indgået aftale med på det finansielle område, og
 
 b) finansielle virksomheder, jf. § 5, stk. 1, nr. 1, litra a, b og e, i lov om finansiel virksomhed.
 
