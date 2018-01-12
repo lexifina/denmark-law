@@ -6,6 +6,6 @@ Stk. 3. Konkurrence- og Forbrugerstyrelsen kan tilbagekalde en afgørelse efter 
 
 1) de faktiske forhold har ændret sig på et for afgørelsen væsentligt punkt,
 
-2) deltagerne i aftalen m.v. handler i strid med afgivne tilsagn eller
+2) deltagerne i aftalen m.v. handler i strid med afgivne tilsagn, eller
 
 3) afgørelsen er truffet på grundlag af urigtige eller vildledende oplysninger fra deltagerne i aftalen m.v.

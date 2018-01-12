@@ -2,4 +2,4 @@
 
 Stk. 2. Konkurrence- og Forbrugerstyrelsen kan offentliggøre, at der er anmeldt en fusion. Offentliggørelsen omfatter navnene på deltagerne i fusionen, fusionens art og de berørte økonomiske sektorer.
 
-Stk. 3. Erhvervs- og vækstministeren fastsætter efter at have indhentet udtalelse fra Konkurrence- og Forbrugerstyrelsen nærmere regler om anmeldelse af fusioner, herunder regler om brug af særlige anmeldelsesskemaer, og om indsendelse af en ikkefortrolig udgave af en fusionsanmeldelse.
+Stk. 3. Erhvervsministeren fastsætter efter at have indhentet udtalelse fra Konkurrence- og Forbrugerstyrelsen nærmere regler om anmeldelse af fusioner, herunder regler om brug af særlige anmeldelsesskemaer, og om indsendelse af en ikkefortrolig udgave af en fusionsanmeldelse.

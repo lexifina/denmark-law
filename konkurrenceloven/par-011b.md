@@ -12,4 +12,4 @@ Stk. 3. Medmindre andet fremgår af reglerne for den pågældende frit valg-ordn
 
 Stk. 4. Konkurrence- og Forbrugerstyrelsen kan undlade at behandle en sag efter stk. 1-3, hvis den pågældende ordning kan påvirke samhandelen mellem medlemsstaterne i Den Europæiske Union.
 
-Stk. 5. Erhvervs- og vækstministeren fastsætter efter forhandling med vedkommende minister regler om, hvilke ordninger om frit valg der er omfattet af Konkurrence- og Forbrugerstyrelsens kompetence.
+Stk. 5. Erhvervsministeren fastsætter efter forhandling med vedkommende minister regler om, hvilke ordninger om frit valg der er omfattet af Konkurrence- og Forbrugerstyrelsens kompetence.
