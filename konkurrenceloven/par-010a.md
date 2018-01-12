@@ -6,7 +6,7 @@
 
 1) der foreligger en ikke ubegrundet klage fra en konkurrent,
 
-2) der foreligger særlige markedsforhold og
+2) der foreligger særlige markedsforhold, og
 
 3) der på grund af disse forhold er et særligt behov for, at Konkurrence- og Forbrugerstyrelsen får en større indsigt i, hvorledes den dominerende virksomhed fastsætter sine priser, rabatter m.v.
 

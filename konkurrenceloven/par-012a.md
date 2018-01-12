@@ -2,7 +2,7 @@
 
 1) når to eller flere hidtil uafhængige virksomheder sammensmeltes til én virksomhed, eller
 
-2) når en eller flere personer, som allerede kontrollerer mindst én virksomhed eller en eller flere virksomheder ved opkøb af andele eller aktiver gennem aftale eller på anden vis erhverver den direkte eller indirekte kontrol over det hele eller dele af en eller flere andre virksomheder.
+2) når en eller flere personer, som allerede kontrollerer mindst én virksomhed, eller en eller flere virksomheder ved opkøb af andele eller aktiver gennem aftale eller på anden vis erhverver den direkte eller indirekte kontrol over det hele eller dele af en eller flere andre virksomheder.
 
 Stk. 2. Oprettelse af et joint venture, som på et varigt grundlag varetager en selvstændig erhvervsvirksomheds samtlige funktioner, udgør en fusion efter stk. 1, nr. 2.
 
