@@ -1,4 +1,4 @@
-Fødevarestyrelsen, den 3. juli 2017
+Fødevarestyrelsen, den 11. januar 2018
 
 Esben Egede Rasmussen
 
