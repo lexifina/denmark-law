@@ -33,3 +33,5 @@
 17) Ved kongelig resolution af 28. november 2016 er betegnelsen Erhvervs- og Vækstministeriet ændret til Erhvervsministeriet, jf. bekendtgørelse nr. 1777 af 23. december 2016.
 
 18) Lovændringen vedrører indsættelse af § 3 b og § 66, stk. 5 og 6, og ophævelse af § 66 a i kapitel 13.
+
+19) Lovændringen vedrører ændring af § 3 a.
