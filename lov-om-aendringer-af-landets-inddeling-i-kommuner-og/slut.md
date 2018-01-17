@@ -1,7 +1,5 @@
-Givet på Amalienborg, den 3. maj 2006
+Økonomi- og Indenrigsministeriet, den 9. januar 2018
 
-Under Vor Kongelige Hånd og Segl
+Nikolaj Stenfalk
 
-Margrethe R.
-
-/ Lars Løkke Rasmussen
+/ Maj Skytte Petersen
