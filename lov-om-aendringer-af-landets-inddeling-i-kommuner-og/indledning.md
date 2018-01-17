@@ -1,5 +1,3 @@
-Lov om ændringer af landets inddeling i kommuner og regionerog om opløsning og udpegelse af forpligtende kommunalesamarbejder
+Bekendtgørelse af lov om ændringer af landets inddeling i kommuner og regioner og om opløsning og udpegelse af forpligtende kommunale samarbejder
 
-VI MARGRETHE DEN ANDEN, af Guds Nåde Danmarks Dronning, gør vitterligt:
-
-Folketinget har vedtaget og Vi ved Vort samtykke stadfæstet følgende lov:
+Herved bekendtgøres lov om ændringer af landets inddeling i kommuner og regioner og om opløsning og udpegelse af forpligtende kommunale samarbejder, jf. lov nr. 382 af 3. maj 2006, med de ændringer, der følger af § 2 i lov nr. 587 af 18. juni 2012.
