@@ -463,3 +463,17 @@ Stk. 1. Loven træder i kraft dagen efter bekendtgørelsen i Lovtidende.
 Stk. 2. Lovens §§ 2-16 finder ikke anvendelse for afgørelser om inddragelse af pas, der er truffet inden lovens ikrafttræden, og domme, der vedrører forhold begået inden lovens ikrafttræden.
 
 Stk. 3. Regler fastsat i medfør af § 39, stk. 10, i lov om statens uddannelsensstøtte (SU-loven), jf. lovbekendtgørelse nr. 39 af 15. januar 2014 med senere ændringer, forbliver i kraft, indtil de ophæves eller afløses af nye regler.
+
+Lov nr. 1541 af 19. december 2017 (Ordningen med ret til sygedagpenge ved livstruende, alvorlig sygdom gøres permanent) indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 2
+
+Loven træder i kraft den 1. januar 2018.
+
+Lov nr. 1669 af 26. december 2017 (Modelparametre for erhvervsuddannelser til brug for beregning af praktikpladsafhængigt arbejdsgiverbidrag, indførelse af modregningsadgang, ændring af klageproces m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 12
+
+Stk. 1. Loven træder i kraft den 1. januar 2018.
+
+Stk. 2. (Udelades)
