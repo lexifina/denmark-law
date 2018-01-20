@@ -80,6 +80,10 @@
 
 41) Lovændringen vedrører lovens § 45 stk. 5-6 og § 55, stk. 3-5.
 
-42) Lovændringen vedrører lovens § § 77, stk. 2-4.
+42) Lovændringen vedrører lovens § 77, stk. 2-4.
 
 43) Lovændringen vedrører lovens §§ 71 a, 71 b, 76 a, 76 b.
+
+44) Lovændringen vedrører lovens § 24 a, stk. 6, § 24 b, stk. 1, og § 24 c, stk. 1, 3. pkt.
+
+45) Lovændringen vedrører lovens § 66, stk. 11, og § 66, stk. 14, 1. pkt.
