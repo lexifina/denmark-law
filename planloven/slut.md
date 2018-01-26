@@ -1,9 +1,7 @@
-Erhvervsstyrelsen, den 23. november 2015
+Erhvervsstyrelsen, den 19. januar 2018
 
-Betina Hagerup
+Katrine Winding
 
-/ Holger Bisgaard
+/ Sigmund Lubanski
 
 Bilag 1
-
-Bilag 2
