@@ -4,7 +4,7 @@ Lov nr. 9 af 3. januar 1992 om naturbeskyttelse, som vedrører §§ 36, stk. 1, 
 
 Stk. 1. Loven træder i kraft den 1. juli 1992.
 
-Stk. 2-3. (Udelades)
+Stk. 2. (Udelades)
 
 Lov nr. 920 af 25. november 1992 om ændring af lov om planlægning, der vedrører §§ 35, 40, 51, 58, 58 a, 60, 61 og 67, indeholder følgende overgangs- og ikrafttrædelsesbestemmelser:
 
@@ -52,7 +52,7 @@ Lov nr. 439 af 1. juni 1994 om ændring af lov om planlægning og lov om naturbe
 
 § 3
 
-Stk. Loven træder i kraft den 1. august 1994, jf. dog stk. 2.
+Stk. 1. Loven træder i kraft den 1. august 1994, jf. dog stk. 2.
 
 Stk. 2-5. (Udelades)
 
@@ -104,13 +104,13 @@ Stk. 1. Loven træder i kraft den 1. december 1997.
 
 Stk. 2-4. (Udelades)
 
-Lov nr. 478 af 1. juli 1998 om ændring af lov om miljøbeskyttelse, lov om naturbeskyttelse, lov om vandløb og lov om planlægning(* 1) (Justering af harmonikravene og genopretning af vådområder i overensstemmelse med aftalen om Vandmiljøplan II), som vedrører §§ 6, stk. 3, nr. 9, indeholder følgende ikrafttrædelsesbestemmelse:
+Lov nr. 478 af 1. juli 1998 om ændring af lov om miljøbeskyttelse, lov om naturbeskyttelse, lov om vandløb og lov om planlægning (* 1) (Justering af harmonikravene og genopretning af vådområder i overensstemmelse med aftalen om Vandmiljøplan II), som vedrører §§ 6, stk. 3, nr. 9, indeholder følgende ikrafttrædelsesbestemmelse:
 
 § 5
 
 Loven træder i kraft den 15. juli 1998.
 
-Lov nr. 479 af 1. juli 1998 om ændring af lov om vandforsyning m.v., lov om miljøbeskyttelse og lov om planlægning(* 1) (Beskyttelse af drikkevandsressourcer og vandforsyning), som vedrører § 6, stk. 3, nr. 12, indeholder følgende ikrafttrædelsesbestemmelse:
+Lov nr. 479 af 1. juli 1998 om ændring af lov om vandforsyning m.v., lov om miljøbeskyttelse og lov om planlægning (* 1) (Beskyttelse af drikkevandsressourcer og vandforsyning), som vedrører § 6, stk. 3, nr. 12, indeholder følgende ikrafttrædelsesbestemmelse:
 
 § 4
 
@@ -180,7 +180,7 @@ Stk. 1. Loven træder i kraft ugedagen efter bekendtgørelsen i Lovtidende, jf. 
 
 Stk. 2. § 1, nr. 3-5 og 12-14, samt § 2 træder i kraft den 1. juli 2000.
 
-Stk. 3. Uanset § 23 b som affattet ved denne lovs § 1, nr. 10, kan kommunalbestyrelsen udarbejde forslag til kommuneplan uden at have vedtaget og offentliggjort en strategi, hvis der efter de hidtil gældende regler er offentliggjort en beretning og indkaldt ideer, forslag m.v. med henblik på planlægningsarbejdet.
+Stk. 3. Uanset § 23 b som affattet ved denne lovs § 1, nr. 10, kan kommunalbestyrelsen udarbejde forslag til kommuneplan uden at have vedtaget og offentliggjort en strategi, hvis der efter de hidtil gældende regler er offentliggjort en beretning og indkaldt ideer, forslag m.v. med henblik på planlægningsarbejdet. .
 
 Lov nr. 447 af 31. maj 2000 om ændring af visse miljølove (Implementering af Århuskonventionen m.v.), som vedrører §§ 2, 20, 26 og 59, indeholder følgende overgangs- og ikrafttrædelsesbestemmelse:
 
@@ -394,7 +394,7 @@ Lov nr. 520 af 7. juni 2006 om ændring af lov om elforsyning, lov om naturgasfo
 
 § 9
 
-Stk. Tidspunktet for lovens ikrafttræden fastsættes af transport- og energiministeren, jf. dog stk. 2. Ministeren kan fastsætte, at dele af loven træder i kraft før andre dele af loven.
+Stk. 1. Tidspunktet for lovens ikrafttræden fastsættes af transport- og energiministeren, jf. dog stk. 2. Ministeren kan fastsætte, at dele af loven træder i kraft før andre dele af loven.
 
 Stk. 2-6. (Udelades)
 
@@ -430,13 +430,13 @@ Stk. 13. Genoptagelse og fornyet behandling efter hjemvisning sker ved byretten 
 
 Stk. 14-22. (Udelades)
 
-§ 106
+§ 106.
 
 (Udelades)
 
 Lov nr. 539 af 8. juni 2006 om ændring af lov om tinglysning og forskellige andre love (Digital tinglysning), som vedrører og ændrer § 31, stk. 2, § 31a, § 33, stk. 4 og 54 b, indeholder følgende ikrafttrædelsesbestemmelse:
 
-§ 13
+§ 13.
 
 Stk. 1. Justitsministeren fastsætter tidspunktet for lovens ikrafttræden, jf. dog stk. 5 og 6.
 
@@ -464,13 +464,15 @@ Lov nr. 1571 af 20. december 2006 om ændring af lov om miljøbeskyttelse, lov o
 
 § 23
 
-Stk. 1. Loven træder i kraft den 1. januar 2007, jf. dog stk. 2.
+Stk 1. Loven træder i kraft den 1. januar 2007, jf. dog stk. 2.
 
 Stk. 2. (Udelades)
 
 Lov nr. 1572 af 20. december 2006 om miljøgodkendelse m.v. af husdyrbrug, som ændrer § 1, nr. 14 i lov nr. 571 af 24. juni 2005, indeholder følgende ikrafttrædelsesbestemmelse:
 
-§ 102. Loven træder i kraft den 1. januar 2007.
+§ 102
+
+Loven træder i kraft den 1. januar 2007.
 
 Lov nr. 1587 af 20. december 2006 om ændring af lov om Arbejdsmarkedets Tillægspension og forskellige andre love (Ændringer som følge af gradvis forhøjelse af efterløns- og folkepensionsalderen m.v.), som ændrer § 41 stk. 2, indeholder følgende ikrafttrædelsesbestemmelse:
 
@@ -759,3 +761,79 @@ Lov nr. 539 af 29. april 2015 om ændring af lov om planlægning, som ændrer i 
 Stk. 1. Loven træder i kraft dagen efter bekendtgørelsen i Lovtidende.
 
 Stk. 2. Miljøministeren fremsætter forslag om revision af loven i folketingsåret 2017-18.
+
+Lov nr. 1879 af 29. december 2015 om ændring af lov om planlægning og lov om midlertidig regulering af boligforholdene, som ændrer i § 36, stk. 1, nr. 9 og nr. 15, der bliver nr. 16, § 36, stk. 2, 1. pkt., § 36, stk. 3 og 4 og indsætter § 36, stk. 1, nr. 11, og § 36, stk. 6, indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 3
+
+Loven træder i kraft den 1. januar 2016.
+
+Lov nr. 1705 af 21. december 2015 om ændring af integrationsloven og lov om planlægning, som ændrer i § 5 u, stk. 4 og 5, indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 3
+
+Stk. 1. Loven træder i kraft dagen efter bekendtgørelsen i Lovtidende.
+
+Stk. 2. (Udelades)
+
+Lov nr. 427 af 18. maj 2016 om ændring af lov om miljøgodkendelse m.v. af husdyrbrug, lov om planlægning, lov om anvendelse af Danmarks undergrund, lov om fremme af vedvarende energi og forskellige andre love, som ændrer i fodnoten til lovens titel, § 3, stk. 3, § 35, stk. 2, § 51, stk. 1, § 51, stk. 4 og 5, som bliver stk. 2 og 3, § 54 b, stk. 2, § 57, stk. 1, § 58, stk. 1, nr. 4, § 59, stk. 2, § 60, stk. 8, 1. pkt., § 63, stk. 2, 1. pkt., § 63, stk. 3, og ophæver overskriften før § 11 g, § 11 g-§ 11 i, § 51, stk. 2 og 3, § 57 a, stk. 5, § 58, stk. 1, nr. 3 og 5, § 58, stk. 2, og § 64, stk. 2, indeholder følgende ikrafttrædelses- og overgangsbestemmelser:
+
+§ 10
+
+Stk. 1. Loven træder i kraft den 16. maj 2017, jf. dog stk. 2.
+
+Stk. 2. (Udelades)
+
+Stk. 3. Loven finder ikke anvendelse ved Natur- og Miljøklagenævnets behandling af klager over afgørelser truffet før lovens ikrafttræden efter lov om planlægning, lov om råstoffer og lov om beskyttelse af havmiljøet og regler udstedt i medfør af disse love. For sådanne klager finder de hidtil gældende regler anvendelse.
+
+Stk. 4. Loven finder ikke anvendelse for skriftlige anmeldelser af projekter omfattet af § 11 g-§ 11 i i lov om planlægning og bekendtgørelse nr. 1832 af 16. december 2015, hvis den kompetente VVM-myndighed, jf. bekendtgørelsens § 1, stk. 5, før ikrafttrædelsestidspunktet har truffet screeningsafgørelse, jf. bekendtgørelsens § 3, eller har offentliggjort en kort beskrivelse af hovedtrækkene af det påtænkte anlæg med henblik på at indkalde ideer og forslag fra offentligheden og berørte myndigheder til brug for afgrænsning af VVM-redegørelsens indhold, jf. bekendtgørelsens § 4. De hidtil gældende regler finder fortsat anvendelse på sådanne konkrete projekter.
+
+Stk. 5-9. (Udelades)
+
+Lov nr. 615 af 8. juni 2016 om maritim fysisk planlægning, som ændrer i § 11, stk. 4, nr. 5 og 6, § 13, stk. 1, nr. 6 og 7, og indsætter § 11, stk. 4, nr. 7, og 13, stk. 1, nr. 8, indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 24
+
+Loven træder i kraft den 1. juli 2016.
+
+Lov nr. 1658 af 20. december 2016 om Planklagenævnet, som ændrer i § 35, stk. 7 og 9, og § 58, indeholder følgende ikrafttrædelses- og overgangsbestemmelser:
+
+§ 14
+
+Stk. 1. Loven træder i kraft den 1. februar 2017.
+
+Stk. 2. Klager, der er indgivet før tidspunktet for lovens ikrafttræden, men som ikke er færdigbehandlet på tidspunktet for lovens ikrafttræden, behandles efter reglerne i denne lov.
+
+Lov nr. 1715 af 27. december 2016 om Miljø- og Fødevareklagenævnet, som ændrer i § 60 og indsætter § 58 c og § 59 a, indeholder følgende ikrafttrædelses-, overgangs- og ophævelsesbestemmelser:
+
+§ 24
+
+Stk. 1. Loven træder i kraft den 1. februar 2017.
+
+Stk. 2. Denne lovs § 48, nr. 1 og 2, og § 60 i lov om planlægning som ændret ved denne lovs § 48, nr. 3-7, ophæves den 16. maj 2017.
+
+Stk. 3. Erhvervs- og vækstministeren kan efter høring af miljø- og fødevareministeren fastsætte overgangsregler.
+
+Stk. 4. (Udelades)
+
+Stk. 5. Regler, der er fastsat i henhold til hidtil gældende regler, forbliver i kraft, indtil de ophæves eller afløses af regler fastsat med hjemmel i denne lov. Overtrædelse af reglerne straffes efter de hidtil gældende regler.
+
+Stk. 6. Verserende klagesager i Natur- og Miljøklagenævnet eller Klagecenter for Fødevarer, Landbrug og Fiskeri, der ikke er færdigbehandlet ved denne lovs ikrafttræden, færdigbehandles og afgøres af Miljø- og Fødevareklagenævnet efter reglerne i denne lov. Dette gælder dog ikke verserende klagesager ved Natur- og Miljøklagenævnet, som ved lovens ikrafttræden skal færdigbehandles og afgøres af Planklagenævnet, jf. § 1 i lov om Planklagenævnet.
+
+Stk. 7. Gebyrbestemmelsen i § 18 gælder alene for klager, der er indbragt efter lovens ikrafttræden.
+
+Lov nr. 668 af 8. juni 2017 om ændring af lov om planlægning, lov om naturbeskyttelse og lov om aktindsigt i miljøoplysninger, som ændrer i § 1, stk. 1, § 1, stk. 2, nr. 1, § 1, stk. 2, nr. 3, der bliver nr. 4, § 1, stk. 2, nr. 4, der bliver nr. 5, § 2 a, 1. pkt., § 5, stk. 4, 2. pkt., der bliver 1. pkt., § 5 a, stk. 1, § 5 a, stk. 3, 2. pkt., § 5 b, stk. 1, nr. 3, § 5 b, stk. 2 og 3, § 5 l, nr. 2 og 3, § 5 m, stk. 2, § 5 m, stk. 3, 2. pkt., § 5 m, stk. 4, 1. pkt., § 5 n, stk. 1 og 2, § 5 p, stk. 1, § 5 q, § 5 r, stk. 1, § 11 a, stk. 1, nr. 1, § 11 a, stk. 1, nr. 13, der bliver nr. 14, § 11 a, stk. 1, nr. 20, § 11 a, stk. 2, § 11 a, stk. 3, 2. pkt., § 11 a, stk. 3, 2. pkt., der bliver 1. pkt., § 11 a, stk. 3, nr. 1 og 2, § 11 a, stk. 4 og 5, § 11 b, stk. 1, nr. 7 og 12, § 11 b, stk. 2, § 11 e, stk. 1, nr. 2, 3 og 10, der bliver nr. 11, § 11 e, stk. 2, § 11 e, stk. 3, nr. 3 og 4, § 11 e, stk. 4 og 5, § 15, stk. 2, nr. 13, § 15, stk. 10, § 15 a, stk. 1, § 17, stk. 2, § 19, stk. 1, § 21 b, stk. 4, 2. pkt., § 21 b, stk. 5, 3. pkt., § 23 a, stk. 1, 3. pkt., § 23 a, stk. 7, 2. pkt., § 23 c, stk. 2, 2. pkt., § 23 f, 2. pkt., § 24, stk. 1, 3. pkt., § 24, stk. 1, 4. pkt., § 24, stk. 3, § 26, stk. 2, § 26, stk. 3, § 27, stk. 1, 1. pkt., § 28, stk. 1, 1. pkt., § 29, stk. 1, 1. pkt., § 29, stk. 2, 1. pkt., § 29, stk. 3, § 30, stk. 1, 2. pkt., § 33, stk. 2, 2. og 6. pkt., der bliver 7. pkt., § 33, stk. 3, der bliver stk. 4, § 33, stk. 4, 1. pkt., der bliver stk. 5, 1. pkt., § 33, stk. 4, 2. pkt., der bliver stk. 5, 2. pkt., § 35, stk. 1, 2. pkt., § 35, stk. 3, § 36, stk. 1, nr. 2, § 36, stk. 1, nr. 3, § 36, stk. 1, nr. 9, der bliver nr. 10, § 36, stk. 1, nr. 14, der bliver nr. 15, § 36, stk. 1, nr. 16, der bliver nr. 19, § 36, stk. 2, 1. pkt., § 36, stk. 4, § 37, stk. 1, § 37, stk. 1, nr. 1 og nr. 2, § 37, stk. 3, der bliver stk. 4, § 37, stk. 4, der bliver stk. 5, § 38 a, stk. 1, 2. pkt., § 40, stk. 1, § 41, stk. 1, 1. pkt., § 49, stk. 3, § 51 a, stk. 1, § 51 a, stk. 2, 1. pkt., § 54 b, stk. 1, 2. pkt., § 54 b, stk. 1, 3. pkt., der bliver 4. pkt., § 54 b, stk. 2-7, § 55, 1. pkt., § 56, stk. 1, § 58, stk. 1, nr. 1, § 64, stk. 1, nr. 3, og indsætter § 1, stk. 2, nr. 3, § 4 a, § 5 b, stk. 4-9, § 5 n, stk. 3, § 11 a, stk. 1, nr. 8, § 11 a, stk. 1, nr. 22-26, § 11 a, stk. 6-12, § 11 b, stk. 1, nr. 14 og 15, § 11 b, stk. 3 og 4, § 11 e, stk. 1, nr. 6, § 15, stk. 2, nr. 14 og 15, § 15 a, stk. 3 og 4, § 15 a, stk. 6, § 15 b, § 16, stk. 8 og 9, § 24, stk. 4-7, § 25, stk. 3, § 33, stk. 2, 4. pkt., § 33, stk. 3, § 33, stk. 4, der bliver stk. 5, 3. pkt., § 35, stk. 10, § 35 a, § 36, stk. 1, nr. 4, § 36, stk. 1, nr. 16, 18 og 20, § 36, stk. 2, 2. pkt., § 36, stk. 5, § 36, stk. 8-12, § 37, stk. 1, nr. 3, § 37, stk. 2, § 37, stk. 6, § 38, stk. 2, § 40, stk. 3, § 54 b, stk. 8, § 56, stk. 2. og 3, samt ophæver § 2, stk. 4, § 5, stk. 4, 1. pkt., § 5 m, stk. 1, 3. pkt., § 5 m, stk. 5, § 5 p, stk. 3 og 4, § 5 t, stk. 2, § 11 a, stk. 1, nr. 14, § 11 a, stk. 3, 1. pkt., og § 11 e, stk. 6, indeholder følgende ikrafttrædelses- og overgangsbestemmelser:
+
+§ 4
+
+Stk. 1. Loven træder i kraft den 15. juni 2017.
+
+Stk. 2. Denne lov gælder ikke for planforslag, som inden denne lovs ikrafttræden er sendt i offentlig høring efter § 24 i lov om planlægning. Sådanne planforslag behandles efter de regler i lov om planlægning, som var gældende på det tidspunkt, kommunalbestyrelsen traf beslutning om planforslaget.
+
+Stk. 3-5. (Udelades)
+
+Lov nr. 653 af 8. juni 2017 om forbud mod anvendelse af bestemte ejendomme som samlingssted for en gruppe, som ændrer i § 64, stk. 1, nr. 3, og indsætter § 56 a og § 64, stk. 1, nr. 5, indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 10
+
+Loven træder i kraft den 1. juli 2017.
