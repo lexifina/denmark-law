@@ -22,11 +22,13 @@
 
 11) udgifter til dækning af en fastsat økonomisk godtgørelse, jf. § 64 c i lov om miljøbeskyttelse,
 
-12) udgifter til dækning af afgifter, jf. § 3, stk. 2, i lov om afgift af ledningsført vand og § 11 b,
+12) udgifter til dækning af en økonomisk godtgørelse efter § 64 d, stk. 1, i lov om miljøbeskyttelse,
 
-13) bidrag til dækning af udgifter til opgaver, der falder ind under Vandsektorens Teknologiudviklingsfond, jf. kapitel 7 i lov om vandsektorens organisering og økonomiske forhold og udgifter til opgaver, der falder ind under en fond omfattet af lov om fonde og visse foreninger samt regler udstedt i medfør heraf, som har til formål, at vandteknologi fremmes, udvikles og demonstreres, og
+13) udgifter til dækning af afgifter, jf. § 3, stk. 2, i lov om afgift af ledningsført vand og § 11 b,
 
-14) bidrag til dækning af udgifter til oprettelse og drift af et godkendt privat tvistløsningsorgan efter § 6 i lov om alternativ tvistløsning i forbindelse med forbrugerklager og efter § 12 a i lov om vandsektorens organisering og økonomiske forhold samt regler udstedt i medfør af de nævnte love.
+14) bidrag til dækning af udgifter til opgaver, der falder ind under Vandsektorens Teknologiudviklingsfond, jf. kapitel 7 i lov om vandsektorens organisering og økonomiske forhold og udgifter til opgaver, der falder ind under en fond omfattet af lov om fonde og visse foreninger samt regler udstedt i medfør heraf, som har til formål, at vandteknologi fremmes, udvikles og demonstreres, og
+
+15) bidrag til dækning af udgifter til oprettelse og drift af et godkendt privat tvistløsningsorgan efter § 6 i lov om alternativ tvistløsning i forbindelse med forbrugerklager og efter § 12 a i lov om vandsektorens organisering og økonomiske forhold samt regler udstedt i medfør af de nævnte love.
 
 Stk. 2. Hel eller delvis overdragelse af en almen vandforsyning må hverken direkte eller indirekte føre til højere priser for ydelser fra den pågældende almene vandforsyning, herunder som følge af indregning af forøgede udgifter til finansiering med fremmed kapital, driftsmæssige afskrivninger eller forrentning af indskudskapital.
 
