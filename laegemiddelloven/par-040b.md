@@ -1,4 +1,4 @@
-§ 40 b. Ministeren for sundhed og forebyggelse fastsætter nærmere regler om de særlige, supplerende forpligtelser, der påhviler den, der har tilladelse efter § 39, stk. 1, til forhandling til brugerne af lægemidler til produktionsdyr, herunder regler om:
+§ 40 b. Sundhedsministeren fastsætter nærmere regler om de særlige, supplerende forpligtelser, der påhviler den, der har tilladelse efter § 39, stk. 1, til forhandling til brugerne af lægemidler til produktionsdyr, herunder regler om:
 
 1) Fremskaffelse, forhandling og udlevering af receptpligtige lægemidler til brugerne.
 

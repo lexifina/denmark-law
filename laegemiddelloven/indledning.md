@@ -1,3 +1,7 @@
 Bekendtgørelse af lov om lægemidler
 
-Herved bekendtgøres lov nr. 1180 af 12. december 2005 om lægemidler med de ændringer, der følger af § 81 i lov nr. 538 af 8. juni 2006, § 1 i lov nr. 1557 af 20. december 2006, § 1 i lov nr. 534 af 17. juni 2008, § 1 i lov nr. 464 af 18. maj 2011, § 46 i lov nr. 593 af 14. juni 2011, § 1 i lov nr. 605 af 18. juni 2012, § 1 i lov nr. 1258 af 18. december 2012 og § 1 i lov nr. 63 af 29. januar 2013.
+Herved bekendtgøres lov om lægemidler, jf. lovbekendtgørelse nr. 506 af 20. april 2013, med de ændringer, der følger af § 1 i lov nr. 518 af 26. maj 2014, § 2 i lov nr. 542 af 29. april 2015, § 36 i lov nr. 426 af 18. maj 2016, § 38 i lov nr. 620 af 8. juni 2016, § 2 i lov nr. 1736 af 27. december 2016, § 18 i lov nr. 285 af 29. marts 2017 og § 1, nr. 1, og nr. 7-11 i lov nr. 388 af 26. april 2017.
+
+De ændringer, der følger af § 1, nr. 2-6, i lov nr. 388 af 26. april 2017 om lov om ændring af lægemiddelloven og vævsloven, er ikke indarbejdet i denne lovbekendtgørelse, da de træder i kraft den 9. februar 2019, jf. § 3 i lov nr. 388 af 26. april 2017.
+
+De ændringer, der følger af § 1 i lov nr. 1687 af 26. december 2017 om lov om ændring af lov om lægemidler, lov om apotekervirksomhed og lov om medicinsk udstyr, er ikke indarbejdet i denne lovbekendtgørelse, da de træder i kraft den 1. juli 2018, jf. § 4 i lov nr. 1687 af 26. december 2017.

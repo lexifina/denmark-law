@@ -1,1 +1,1 @@
-§ 56 a. Ministeren for sundhed og forebyggelse kan fastsætte regler om formkrav til indberetninger og periodiske sikkerhedsopdateringer udarbejdet af indehavere af markedsføringstilladelser efter dette kapitel, herunder at dette skal ske elektronisk.
+§ 56 a. Sundhedsministeren kan fastsætte regler om formkrav til indberetninger og periodiske sikkerhedsopdateringer udarbejdet af indehavere af markedsføringstilladelser efter dette kapitel, herunder at dette skal ske elektronisk.

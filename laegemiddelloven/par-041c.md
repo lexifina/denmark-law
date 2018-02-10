@@ -1,4 +1,4 @@
-§ 41 c. Ministeren for sundhed og forebyggelse fastsætter regler om:
+§ 41 c. Sundhedsministeren fastsætter regler om:
 
 1) De oplysninger, der skal ledsage en registreringsanmeldelse efter § 41 b, stk. 1, og om pligt til at underrette Sundhedsstyrelsen om eventuelle ændringer af disse oplysninger.
 

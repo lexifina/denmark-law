@@ -1,4 +1,4 @@
-§ 39 a. Ministeren for sundhed og forebyggelse fastsætter regler om:
+§ 39 a. Sundhedsministeren fastsætter regler om:
 
 1) De oplysninger, der skal ledsage en ansøgning om tilladelse efter § 39, stk. 1 og 2, og om betingelserne for at opnå en tilladelse.
 
