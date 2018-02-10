@@ -1,4 +1,4 @@
-§ 50 b. Ministeren for sundhed og forebyggelse fastsætter regler om:
+§ 50 b. Sundhedsministeren fastsætter regler om:
 
 1) De oplysninger, der skal ledsage en registreringsanmeldelse efter § 50 a, stk. 1, og om pligt til at underrette Sundhedsstyrelsen om eventuelle ændringer af disse oplysninger.
 
