@@ -117,3 +117,7 @@
 59) Lovændring, hvis § 2 angår § 1 a, 1. pkt., § 3, stk. 3, § 6, § 13 a, stk. 1, § 13 b, stk. 1 og 6, § 13 d, stk. 1 og 2, § 14, stk. 1, § 14 a, stk. 2, § 14 b, § 18, stk. 2, § 29, stk. 1-3, § 30, stk. 1, § 32, stk. 1 og 2, § 33, stk. 2, § 37, stk. 1, § 47, stk. 2, § 38, § 39, stk. 2, § 41, § 45, stk. 1-3, § 46, stk. 1-3, § 46 a, stk. 1 og 2, § 47, stk. 1 og 2, § 48, stk. 1-4, § 49, § 50, stk. 1, § 51, stk. 1 og 2, § 52, stk. 1 og 2, § 52 a, stk. 1-3, § 52 b, stk. 1, § 53, stk. § 53 a, stk. 1-3, § 55, stk. 1-3 og 7, § 59 a, § 60, stk. 3, § 62, stk. 2, § 65, stk. 5, § 66, stk.1 og 2, 69, stk. 1 og 3, § 69 a,§ 71, § 84, stk. 2, § 87, stk. 2.
 
 60) Lovændringen, hvis § 34, nr. 1, overalt i loven ændrer ”Natur- og Miljøklagenævnet” til ”Miljø- og Fødevareklagenævnet” og ”Natur- og Miljøklagenævnets” til ”Miljø- og Fødevareklagenævnets”, og som ændrer § 75, stk. 1 og 2 og stk. 3, 1. pkt.
+
+61) Lovændringen indsætter § 62 a.
+
+62) Lovændring ændrer § 11 a, stk. 1, nr. 4 og 5, og § 11 b og indsætter nyt nummer i § 11 a, stk. 1, nr. 6, og § 52 a, stk. 1, nr. 12.
