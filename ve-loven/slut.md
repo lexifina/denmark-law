@@ -1,5 +1,5 @@
-Energistyrelsen, den 27. oktober 2016
+Energistyrelsen, den 9. februar 2018
 
-Martin Hansen Vicedirektør
+Janni Torp Kjærgaard
 
-/ Jane Glindvad Kristensen
+/ Jakob Henrik Juul
