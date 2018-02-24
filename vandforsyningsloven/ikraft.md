@@ -104,7 +104,9 @@ Lov nr. 145 af 25. marts 2002 om ændring af forskellige love som følge af samm
 
 § 78
 
-Loven træder i kraft den 1. januar 2003.
+1. Loven træder i kraft den 1. januar 2003, jf. dog § 79, stk. 1.
+
+Stk. 2. (Udelades)
 
 Lov nr. 1151 af 17. december 2003 (Ændringer som følge af lov om miljømål m.v. for vandforekomster og internationale naturbeskyttelsesområder) indeholder følgende ikrafttrædelses- og overgangsbestemmelse:
 
@@ -278,7 +280,7 @@ Stk. 1. Uanset de gældende bestemmelser i § 86, stk. 1 og 2, i lov om vandfors
 
 Stk. 2. Tilladelse til vandindvinding meddelt efter kapitel 4 i lov om vandforsyning m.v., der er meddelt før den 1. januar 2010, og som udløber efter den 1. januar 2010, men inden vedtagelsen af den første kommunale handleplan i medfør af miljømålsloven, ophører først senest 1 år efter vedtagelsen af den kommunale handleplan. Dette gælder dog ikke tilladelser, der er påklaget til Miljøklagenævnet, og som ikke er afgjort den 1. januar 2010, samt tilladelser, der påklages efter dette tidspunkt.
 
-Lov nr. 484 af 11. maj 2010 (Ændringer som følge af lov om Natur- og Miljøklagenævnet m.v.) indeholder følgende ikrafttrædelses- og overgangsbestemmelser:
+Lov nr. 484 af 11. maj 2010 (Ændringer som følge af lov om Natur- og Miljøklagenævnet m.v.) indeholder følgende ikrafttrædelses- og overgangsbestemmelse:
 
 § 28
 
@@ -390,7 +392,7 @@ Stk. 1. Loven træder i kraft den 1. marts 2016, jf. dog stk. 2.
 
 Stk. 2-3. (Udelades)
 
-Lov nr. 1715 af 27. december 2016 om Miljø- og Fødevareklagenævnet indeholder følgende ikrafttrædelses- og overgangsbestemmelser:
+Lov nr. 1715 af 27. december 2016 om Miljø- og Fødevareklagenævnet indeholder følgende ikrafttrædelses- og overgangsbestemmelse:
 
 § 24. Loven træder i kraft den 1. februar 2017.
 
@@ -405,3 +407,17 @@ Stk. 5. Regler, der er fastsat i henhold til hidtil gældende regler, forbliver 
 Stk. 6. Verserende klagesager i Natur- og Miljøklagenævnet eller Klagecenter for Fødevarer, Landbrug og Fiskeri, der ikke er færdigbehandlet ved denne lovs ikrafttræden, færdigbehandles og afgøres af Miljø- og Fødevareklagenævnet efter reglerne i denne lov. Dette gælder dog ikke verserende klagesager ved Natur- og Miljøklagenævnet, som ved lovens ikrafttræden skal færdigbehandles og afgøres af Planklagenævnet, jf. § 1 i lov om Planklagenævnet.
 
 Stk. 7. (Udelades)
+
+Lov nr. 44 af 23. januar 2018 (Underretning om forhold vedrørende vand) indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 2
+
+Loven træder i kraft den 1. februar 2018.
+
+Lov nr. 45 af 23. januar 2018 (Målrettet arealbeskyttelse for at beskytte grundvandet mod pesticider) indeholder følgende ikrafttrædelsesbestemmelser:
+
+§ 3
+
+Stk. 1. Loven træder i kraft den 1. februar 2018, jf. dog stk. 2.
+
+Stk. 2. (Udelades)
