@@ -1,57 +1,67 @@
-Lov nr. 520 af 7. juni 2006 om ændring af lov om elforsyning, lov om naturgasforsyning, lov om varmeforsyning, lov om Energinet Danmark, lov om planlægning, lov om kommunal udligning og generelle tilskud til kommuner og amtskommuner og lov om kuldioxidafgift af visse energiprodukter, hvis § 4 angår lovens titel, ændring af navnet Energinet Danmark til Energinet.dk alle steder i loven, § 2, stk. 2, § 4 a, § 12, stk. 1, nr. 1 og 2, og § 13, stk. 1 og 4, indeholder følgende ikrafttrædelsesbestemmelse:
+Lov nr. 575 af 18. juni 2012 (Fremme af konkurrencen på elmarkedet m.v.), hvis § 3 angår § 2, stk. 4, og § 4, stk. 1, 2. pkt., indeholder følgende ikrafttrædelsesbestemmelse:
 
-§ 9
+§ 4
 
-Stk. 1. Tidspunktet for lovens ikrafttræden fastsættes af klima-, energi- og bygningsministeren, jf. dog stk. 2. Ministeren kan fastsætte, at dele af loven træder i kraft før andre dele af loven.
+Stk. 1. Loven træder i kraft den 1. juli 2012, jf. dog stk. 2.
 
-Stk. 2-6. (Udelades)
-
-Lov nr. 548 af 6. juni 2007 om ændring af lov om anvendelse af Danmarks undergrund, lov om elforsyning, lov om kystbeskyttelse, lov om havne og forskellige andre love, hvis § 6 angår fodnoten til lovens titel og §§ 1 a, 4 b og 4 c, indeholder følgende ikrafttrædelsesbestemmelse:
-
-§ 9
-
-Loven træder i kraft dagen efter bekendtgørelsen i Lovtidende.
-
-Stk. 2. (Udelades)
-
-Lov nr. 503 af 17. juni 2008 om ændring af lov om elforsyning, lov om naturgasforsyning, lov om varmeforsyning og lov om Energinet.dk, hvis § 4 angår fodnoten til lovens titel, § 2, stk. 2 og 4, overskriften til kapitel 2, § 4, stk. 8, og § 12, stk. 1, nr. 1 og 2, indeholder følgende ikrafttrædelsesbestemmelse:
+Stk. 2 og 3. (Udelades)
 
 § 5
 
-Stk. 1. Loven træder i kraft den 1. juli 2008.
+Stk. 1. Nedenstående bestemmelser finder anvendelse indtil den 1. oktober 2014.
 
-Stk. 2-8. (Udelades)
+Stk. 2-9. (Udelades)
 
-Lov nr. 1392 af 27. december 2008 om fremme af vedvarende energi, hvis § 79 angår § 2, stk. 2 og 4, indeholder følgende ikrafttrædelsesbestemmelser:
+Lov nr. 576 af 18. juni 2012 (Støtte til vindmøller på land, biogas og eksisterende industrielle kraftvarmeværker samt forlængelse af puljen til nye VE-teknologier m.v.), hvis § 4 angår § 2, stk. 2, 2. pkt., indeholder følgende ikrafttrædelsesbestemmelse:
 
-§ 74. Loven træder i kraft den 1. januar 2009, jf. dog stk. 2.
+§ 5
 
-Stk. 2. Tidspunktet for ikrafttræden af §§ 18-20 og kapitlerne 3-6 og 12 fastsættes af klima-, energi- og bygningsministeren. Ministeren kan beslutte, at bestemmelser eller dele heraf træder i kraft på forskellige tidspunkter.
+Stk. 1. Klima-, energi- og bygningsministeren fastsætter tidspunktet for lovens ikrafttræden. Ministeren kan herunder fastsætte, at dele af loven træder i kraft på forskellige tidspunkter.
 
-Stk. 3. (Udelades)
+Stk. 2 og 3. (Udelades)
 
-§§ 75-76. (Udelades)
+Lov nr. 633 af 16. juni 2014 (Ophævelse af forsyningspligten, indførelse af leveringspligt, udskydelse af engrosmodellen, naturgasselskabers anvendelse af økonomiske kompensationer, Energinet.dk’s fusion med datterselskaber m.v.), hvis § 3 angår § 2, stk. 2, 4. pkt., og stk. 4, og § 4, stk. 6, 2. og 3. pkt., indeholder følgende ikrafttrædelsesbestemmelse:
 
-Lov nr. 516 af 12. juni 2009 om ændring af årsregnskabsloven, lov om finansiel virksomhed og forskellige andre love, hvis § 15 angår § 6, stk. 5, og § 16, indeholder følgende ikrafttrædelsesbestemmelse, som ændret bl.a. ved § 2 i lov nr. 159 af 16. februar 2010:
+§ 5
 
-§ 25
-
-Stk. 1. Erhvervs- og vækstministeren fastsætter tidspunktet for lovens ikrafttræden. Ministeren kan fastsætte, at loven eller dele heraf træder i kraft på forskellige tidspunkter. Ministeren kan herunder fastsætte regler, der fraviger de af lovens bestemmelser, som forudsætter tilpasninger af Erhvervs- og Selskabsstyrelsens it-system, for så vidt angår registrering og offentliggørelse, indtil de nødvendige tilpasninger af it-systemet er afsluttet.
+Stk. 1. Loven træder i kraft den 30. juni 2014, jf. dog stk. 2-4.
 
 Stk. 2-4. (Udelades)
 
-Lov nr. 622 af 11. juni 2010 om ændring af lov om elforsyning, lov om naturgasforsyning, lov om varmeforsyning og forskellige andre love samt om ophævelse af lov om udnyttelse af vedvarende energikilder m.v., hvis § 5 angår fodnoten til lovens titel og § 24 a, indeholder følgende ikrafttrædelsesbestemmelse:
+Lov nr. 1283 af 24. november 2015 (Støtte til eksisterende naturgasfyrede industrielle kraft-varme-værker m.v.), hvis § 2 angår § 2, stk. 2, 2. pkt., indeholder følgende ikrafttrædelsesbestemmelse:
 
-§ 8
+§ 5
 
-Stk. 1. Loven træder i kraft den 16. juni 2010, jf. dog stk. 2 og 3.
+Loven træder i kraft dagen efter bekendtgørelsen i Lovtidende.
 
-Stk. 2-5. (Udelades)
+Lov nr. 261 af 16. marts 2016 om pilotudbud af pristillæg for elektricitet fremstillet på solcelleanlæg, hvis § 9 angår § 2, stk. 2, 2. pkt., indeholder følgende ikrafttrædelsesbestemmelse:
 
-Lov nr. 466 af 18. maj 2011 om ændring af lov om elforsyning, lov om naturgasforsyning, lov om varmeforsyning, lov om Energinet.dk og lov om fremme af vedvarende energi, hvis § 4 angår fodnoten til lovens titel, § 2, stk. 2, og § 4, stk. 7, indeholder følgende ikrafttrædelsesbestemmelse:
+§ 6. Energi-, forsynings- og klimaministeren fastsætter tidspunktet for lovens ikrafttræden. Ministeren kan herunder fastsætte, at lovens bestemmelser træder i kraft på forskellige tidspunkter.
 
-§ 7
+Lov nr. 652 af 8. juni 2016 (Tilpasning i forhold til EU-retten med hensyn til genbeskatning af underskud i faste driftssteder, definition af datterselskabsaktier og nedsættelse af indkomstskattesatsen på udgående udbytter samt indgreb mod omgåelse af udbyttebeskatningen i forbindelse med investering i investeringsinstitutter, justering af indgrebet i virksomhedsordningen og andre justeringer af erhvervsbeskatningen), hvis § 16 angår § 12, stk. 2, 2. pkt., indeholder følgende ikrafttrædelsesbestemmelse:
 
-Stk. 1. Loven træder i kraft dagen efter bekendtgørelsen i Lovtidende, jf. dog stk. 2 og 3.
+§ 17
 
-Stk. 2-10. (Udelades)
+Stk. 1. Loven træder i kraft den 1. juli 2016.
+
+Stk. 2-12. (Udelades)
+
+Lov nr. 630 af 8. juni 2016 (Energinet.dk's varetagelse af gasopstrømssystem-, olierørlednings- og separationsvirksomhed samt økonomisk regulering af naturgasdistributionsvirksomhed varetaget af Energinet.dk m.v.), hvis § 1 angår § 2, stk. 2, 3.-5. pkt., § 12, stk. 1, nr. 1 og 2, § 13, stk. 1, 2. og 3. pkt. og § 13, stk. 4, indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 4
+
+Loven træder i kraft den 1. juli 2016.
+
+Lov nr. 1399 af 5. december 2017 (Betaling for myndighedsbehandling og justering af bestemmelser om tilsyn med Energinet), hvis § 4 angår § 4 d, indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 6
+
+Loven træder i kraft den 1. januar 2018.
+
+Lov nr. 1667 af 26. december 2017 (Overførsel af opgaver fra Energinet til energi-, forsynings- og klimaministeren m.v.), hvis § 4 angår lovens titel og § 2, stk. 2, 2. pkt., indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 13
+
+Stk. 1. Loven træder i kraft den 1. januar 2018, jf. dog stk. 2.
+
+Stk. 2-8. (Udelades)
