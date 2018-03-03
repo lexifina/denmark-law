@@ -1,3 +1,3 @@
-1) Lovændringen vedrører §§ 3-5 a og 7, § 8, stk. 1, § 10, § 13, stk. 2, § 14, stk. 1 og 2, § 18, § 24, stk. 2, §§ 50-66, § 67, stk. 1 og 2.
+1) Lovændringen vedrører § 45 a.
 
-2) Lovændringen vedrører § 49, stk. 4.
+2) Lovændringen vedrører § 23, stk. 1, § 23, stk. 2 og § 36 a.
