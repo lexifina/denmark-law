@@ -1,1 +1,3 @@
-1) Lovændringen vedrører § 3, § 4, stk. 1 og 2, §§ 5, 6 og 8, § 12, stk. 3, 4 og 8, § 13, stk. 2 og 3, § 14, stk. 1-5 og 7, overskriften til § 15, §§ 15 og 16, § 19, stk. 4 og 5, § 20, § 24, stk. 2, § 36, stk. 4, § 49, stk. 2, overskriften til § 50 og §§ 50-55.
+1) Lovændringen vedrører § 44 a.
+
+2) Lovændringen vedrører § 23, stk. 2, § 23, stk. 3 og § 34 a.
