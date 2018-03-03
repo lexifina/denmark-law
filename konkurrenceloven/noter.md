@@ -1,4 +1,4 @@
-1) Berigtigelse ved indsættelse af § 18 b, § 23 b og §§ 27-29, der ikke var medtaget i lovbekendtgørelse nr. 14 af 10. januar 2018.
+1) Berigtigelse ved indsættelse af § 13, stk. 1, 4. pkt., der ikke var medtaget i lovbekendtgørelse nr. 31 af 16. januar 2018.
 
 2) Lovændringen vedrører § 13, stk. 2, nr. 2 og 3, kapitel 9 a og 9 b.
 
