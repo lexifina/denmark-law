@@ -2,9 +2,9 @@ Lov nr. 1541 af 13. december 2016 om behandling af erstatningssager vedrørende 
 
 § 17
 
-Stk. 1. Loven træder i kraft den 1. januar 2018, jf. dog stk. 2.
+Stk. 1. Loven træder i kraft den 27. december 2016, jf. dog stk. 2 og 3.
 
-Stk. 2-3. (Udelades).
+Stk. 2-3. (Udelades)
 
 Lov nr. 1545 af 19. december 2017 (Undtagelse fra forbuddet mod konkurrencebegrænsende aftaler, fusioner, egenacces, databeskyttelsesretlige regler, foreløbig ansøgning om straflempelse og nordisk samarbejde) indeholder følgende ikrafttrædelsesbestemmelse:
 
@@ -18,4 +18,4 @@ Stk. 3. Denne lovs § 1, nr. 4 og 6, finder ikke anvendelse på anmeldelser af f
 
 Stk. 4. Denne lovs § 1, nr. 8, finder ikke anvendelse på anmodninger om egenacces, som er modtaget før lovens ikrafttræden. For sådanne anmodninger finder de hidtil gældende regler anvendelse.
 
-Stk. 5. Regler udstedt i medfør af § 7, stk. 5, 2. pkt., og § 14, stk. 5, jf. lovbekendtgørelse nr. 869 af 8. juli 2015, forbliver i kraft, indtil de ophæves eller afløses af nye forskrifter.
+Stk. 5. Regler udstedt i medfør af konkurrencelovens § 7, stk. 5, 2. pkt., og § 14, stk. 5, jf. lovbekendtgørelse nr. 869 af 8. juli 2015, forbliver i kraft, indtil de ophæves eller afløses af nye forskrifter.
