@@ -1,5 +1,5 @@
-Ministeriet for Forskning, Innovation og Videregående Uddannelser, den 27. februar 2013
+Uddannelses- og Forskningsministeriet, den 27. februar 2018
 
-Morten Østergaard
+Søren Pind
 
 / Marianne Madsen
