@@ -1,63 +1,31 @@
-Lov nr. 1554 af 21. december 2010 (Økonomiske og administrative forhold m.v. for visse uddannelsesinstitutioner) indeholder følgende ikrafttrædelsesbestemmelse:
-
-§ 2
-
-Stk. 1. Loven træder i kraft den 1. januar 2011.
-
-Stk. 2. Uddannelses- og forskningsministeren kan beslutte, at uddannelsesinstitutioner, som på tidspunktet for lovens ikrafttræden har opnået godkendelse efter § 4, stk. 1, i lov om maritime uddannelser, først skal leve op til de krav, der følger af § 8 og §§ 9-9 b i lov om maritime uddannelser som affattet ved § 1, nr. 5, i denne lov, på et af ministeren fastsat tidspunkt.
-
-Stk. 3. Regler udstedt i medfør af § 8, stk. 1, og § 10, stk. 2, i lov nr. 226 af 22. april 2002 om maritime uddannelser forbliver i kraft, indtil de ophæves.
-
-Lov nr. 478 af 30. maj 2012 (Tilpasninger som følge af ressortoverførsler på områderne vedrørende de maritime uddannelser og lodsning) indeholder følgende ikrafttrædelsesbestemmelse:
-
-§ 5
-
-Stk. 1. Loven træder i kraft den 1. juni 2012, jf. dog stk. 2.
-
-Stk. 2. Uddannelses- og forskningsministeren fastsætter tidspunktet for ikrafttræden af § 2, nr. 12. Erhvervs- og vækstministeren fastsætter tidspunktet for ikrafttræden af 2. pkt. i fodnoten til lovens titel, jf. § 1, nr. 1.
-
-Stk. 3. Regler udstedt i medfør af lov om maritime uddannelser forbliver i kraft for de kurser, prøver m.v., der omfattes af lovens § 1, indtil de ophæves eller erstattes af regler udstedt i henhold til lov om skibes besætning.
-
-Lov nr. 898 af 4. juli 2013 (Obligatorisk tilmelding til fag og prøver svarende til et fuldt studieår, afskaffelse af muligheden for at melde fra prøver, etablering af bedre rammer for merit ved studieophold på en anden institution eller studieskift og bedre overgange mellem bachelor- og kandidatuddannelser m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
+Lov nr. 411 af 11. maj 2016 (Justering af fremdriftsreformen m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
 
 § 6
 
-Stk. 1. Loven træder i kraft den 15. juli 2013, jf. dog stk. 2.
+Stk. 1. Loven træder i kraft den 1. juli 2016, jf. dog stk. 2.
 
-Stk. 2. (Udelades)
+Stk. 2-4. (Udelades)
 
-Stk. 3. § 8, stk. 2, i universitetsloven som affattet ved denne lovs § 1, nr. 4, og lovens § 2, nr. 1, § 3, nr. 1 og 2, og § 4, nr. 1 og 2, har virkning fra den 1. juli 2014.
+Lov nr. 1746 af 27. december 2016 (Indførelse af folkeskolens afgangseksamen, adgangskrav til erhvervsuddannelserne og ændringer som følge af lovgivning om de gymnasiale uddannelsers indhold m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
 
-Stk. 4. § 8, stk. 3, i universitetsloven som affattet ved denne lovs § 1, nr. 4, og lovens § 1, nr. 5, § 2, nr. 2, § 3, nr. 3, og § 4, nr. 3 og 4, har virkning for studerende, der søger om merit og forhåndsmerit for studieophold, der skal gennemføres fra studieåret 2014-15 eller senere.
+§ 23
 
-Lov nr. 520 af 26. maj 2014 (Finansiering af international studentermobilitet og udskydelse af virkningstidspunktet for tilmelding og framelding til uddannelsens fag og prøver for visse studerende m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
+Stk. 1. Loven træder i kraft den 1. januar 2017, jf. dog stk. 2 og 3.
 
-§ 4
+Stk. 2. § 1, nr. 1-29, 31-34, 37, 38, 40, 41 og 44, § 2, nr. 2-10 og 12-19, § 3, nr. 1-9, § 4, nr. 1, § 5, nr. 4-9, §§ 6 og 7, § 8, nr. 8, 9, 11 og 12, § 9, nr. 1, 2 og 6-8, § 10, nr. 1 og 4, § 11, § 12, nr. 1-4, § 13, nr. 1, 3-6, 10 og 12, § 14, nr. 1-3, § 15, nr. 1-4, § 16, nr. 1 og 2, § 17, nr. 1-6, § 18, nr. 1-5, og §§ 19-22 træder i kraft den 1. august 2017, jf. dog stk. 3.
 
-Stk. 1. Loven træder i kraft den 1. juni 2014.
+Stk. 3. (Udelades)
 
-Stk. 2. (Udelades)
-
-Lov nr. 750 af 25. juni 2014 (Initiativer for særlig talentfulde studerende) indeholder følgende ikrafttrædelsesbestemmelse:
+Lov nr. 435 af 8. maj 2017 (Lønnede projektorienterede forløb i visse lande og mulighed for erkendtlighed under ulønnede projektorienterede forløb, praktik og studieophold) indeholder følgende ikrafttrædelsesbestemmelse:
 
 § 7
 
-Stk. 1. Loven træder i kraft den 1. juli 2014, jf. dog stk. 2.
+Stk. 1. Loven træder i kraft den 1. juli 2017.
 
 Stk. 2. (Udelades)
 
-Lov nr. 1377 af 16. december 2014 (Gennemsigtighed i valg af uddannelse, forsikring af gæsteforskere, krav til oversættelse af eksamensbeviser og midlertidig overgangsordning om supplering mellem bacheloruddannelse og kandidatuddannelse) indeholder følgende ikrafttrædelsesbestemmelse:
+Lov nr. 700 af 8. juni 2017 (Indførelse af investeringsrammer på selvejeområdet og opfølgning på omlægning af tilskudssystem for maritime efter- og videreuddannelser m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
 
 § 8
 
-Stk. 1. Loven træder i kraft den 1. januar 2015.
-
-Stk. 2-3. (Udelades)
-
-Lov nr. 544 af 29. april 2015 (Harmonisering af visse regler for de maritime uddannelser) indeholder følgende ikrafttrædelsesbestemmelse:
-
-§ 3
-
-Stk. 1. Loven træder i kraft den 1. maj 2015.
-
-Stk. 2. Loven finder ikke anvendelse for klager, der er modtaget inden lovens ikrafttræden. For sådanne klager finder de hidtil gældende regler anvendelse.
+Loven træder i kraft den 1. januar 2018.
