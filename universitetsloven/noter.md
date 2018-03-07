@@ -9,3 +9,13 @@
 5) Lovændringen vedrører § 4 a, § 8, stk. 2, § 19 og § 26.
 
 6) Lovændringen vedrører § 5, stk. 3, § 8 b, § 22 a, § 26, stk. 1 og § 26 a.
+
+7) Lovændringen vedrører § 5, stk. 1, § 5, stk. 3, § 5 a, § 8, stk. 1, § 8, stk. 3, § 19, stk. 1, § 19, stk. 2, § 19, stk. 3, § 19, stk. 8, § 19, stk. 11, § 19, stk. 12, § 26, stk. 1, § 26, stk. 2, § 26, stk. 3, § 26, stk. 7, § 26, stk. 10, og § 26 a.
+
+8) Lovændringen vedrører § 8, stk. 6 og 7.
+
+9) Lovændringen vedrører § 10, stk. 1, § 10, stk. 3, § 10, stk. 8, § 12, stk. 1-7, og § 13, stk. 2.
+
+10) Lovændringen vedrører § 21, stk. 1, § 21, stk. 2, og § 28 a.
+
+11) Lovændringen vedrører § 4 b, § 8, stk. 1, § 8, stk. 3, § 19, stk. 2, og § 26, stk. 2.
