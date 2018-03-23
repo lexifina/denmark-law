@@ -1,4 +1,4 @@
-1) Denne bekendtgørelse gengiver ikrafttrædelsesbestemmelserne i lov nr. 1715 af 27. december 2016 og lov nr. 384 af 26. april 2017. De bemærkninger om ikrafttrædelses- og overgangsbestemmelser for de tidligere ændringer af loven, der fremgår af lovbekendtgørelse nr. 1586 af 14. december 2015, er ikke gengivet i denne bekendtgørelse.
+1) Denne bekendtgørelse gengiver ikrafttrædelsesbestemmelsen i lov nr. 222 af 20. marts 2018. De bemærkninger om ikrafttrædelses- og overgangsbestemmelser for de tidligere ændringer af loven, der fremgår af lovbekendtgørelse nr. 765 af 19. juni 2017, er ikke gengivet i denne bekendtgørelse.
 
 2) Ved kongelig resolution af 28. juni 2015 blev Miljøministeriet og Ministeriet for Fødevarer, Landbrug og Fiskeri sammenlagt til et Miljø- og Fødevareministerium, jf. bekendtgørelse nr. 1229 af 3. november 2015 om ændring i forretningernes fordeling mellem ministrene.
 
@@ -14,8 +14,4 @@
 
 8) I 2013 tilføjedes Forbrugerbladets titel Tænk til medlemsorganisationens navn.
 
-9) Lovændringen vedrører indsættelse af § 22 b.
-
-10) Ved kongelig resolution af 28. november 2016 er betegnelsen Erhvervs- og Vækstministeriet ændret til Erhvervsministeriet, jf. bekendtgørelse nr. 1777 af 23. december 2016.
-
-11) Lovændringen vedrører ændring af § 8, stk. 2, 2. pkt., stk. 3, 3. pkt., og stk. 4, 2. pkt.
+9) Lovændringen vedrører § 3 a og § 3 b.
