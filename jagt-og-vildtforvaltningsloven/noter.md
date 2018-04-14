@@ -1,4 +1,4 @@
-1) Loven indeholder bestemmelser, der gennemfører dele af Rådets direktiv 79/409/EØF af 2. april 1979 om beskyttelse af vilde fugle, (EF-Tidende 1979 nr. L 103, side 1), som ændret senest ved Rådets direktiv 2006/105/EF af 20. november 2006, (EU-Tidende 2006 nr. L 363, side 368), Rådets direktiv 92/43/EØF af 21. maj 1992 om bevaring af naturtyper samt vilde dyr og planter (EF-habitatdirektivet), (EF-Tidende 1992 nr. L 206, side 7), som ændret senest ved Rådets direktiv 2006/105/EF af 20. november 2006, (EU-Tidende 2006 nr. L 363, side 368) og dele af Europa-Parlamentets og Rådets direktiv 2004/35/EF af 21. april 2004 om miljøansvar for så vidt angår forebyggelse og afhjælpning af miljøskader, (EU-Tidende 2004 nr. L 143, side 56).
+1) Loven indeholder bestemmelser, der gennemfører dele af Europa-Parlamentets og Rådets direktiv 2009/147/EF af 30. november 2009 om beskyttelse af vilde fugle, EU-Tidende 2010, nr. L 20, side 7, som ændret senest ved Rådets direktiv 2013/17/EU af 13. maj 2013, EU-Tidende 2013, nr. L 158, side 193, dele af Rådets direktiv 92/43/EØF af 21. maj 1992 om bevaring af naturtyper samt vilde dyr og planter, EF-Tidende 1992, nr. L 206, side 7, som ændret senest ved Rådets direktiv 2013/17/EU af 13. maj 2013, EU-Tidende 2013, nr. L 158, side 193, og dele af Europa-Parlamentets og Rådets direktiv 2004/35/EF af 21. april 2004 om miljøansvar for så vidt angår forebyggelse og afhjælpning af miljøskader, EU-Tidende 2004, nr. L 143, side 56, som ændret senest ved Europa-Parlamentets og Rådets direktiv 2013/30/EU af 12. juni 2013, EU-Tidende 2013, nr. L 178, side 66.
 
 2) Lovændringen ændrer § 18.
 
@@ -35,3 +35,5 @@
 18) Lovændringen ændrer § 41, stk. 2, § 43, stk. 2, § 54, stk. 1, nr. 1 og § 55, stk. 2, 2. pkt.
 
 19) Lovændringen, hvis § 30 ændrer § 53 j og § 53 k.
+
+20) Lovændringen ændrer fodnote 1 til lovens titel, § 3, stk. 2, § 23, stk. 4, og indsætter nyt stk. 5, indsætter nyt stk. 2 i § 28, ændrer i § 40, stk. 1, 1. pkt., § 40, stk. 3, § 40, stk. 4, § 41, stk. 3, § 42, stk. 2, § 46, stk. 1, § 52, stk. 4, § 54, stk. 1, og indsætter ny § 46 a.

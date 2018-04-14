@@ -66,7 +66,7 @@ Lov nr. 1383 af 21. december 2009 (Implementering af servicedirektivet og anerke
 
 Loven træder i kraft den 28. december 2009.
 
-Lov nr. 484 af 11. maj 2010 (Ændringer som følge af lov om Natur- og Miljøklagenævnet m.v.) indeholder følgende ikrafttrædelses- og overgangsbestemmelser:
+Lov nr. 484 af 11. maj 2010 (Ændringer som følge af lov om Natur- og Miljøklagenævnet m.v.) indeholder følgende ikrafttrædelses- og overgangsbestemmelse:
 
 § 28
 
@@ -124,9 +124,11 @@ Loven træder i kraft den 1. januar 2015.
 
 Lov nr. 1715 af 27. december 2016 om Miljø- og Fødevareklagenævnet indeholder følgende ikrafttrædelses- og overgangsbestemmelse:
 
-§ 24. Loven træder i kraft den 1. februar 2017.
+§ 24
 
-Stk. 2. (Udelades)
+Stk. 1. Loven træder i kraft den 1. februar 2017.
+
+Skt. 2. (Udelades)
 
 Stk. 3. Erhvervs- og vækstministeren kan efter høring af miljø- og fødevareministeren fastsætte overgangsregler.
 
@@ -137,3 +139,9 @@ Stk. 5. Regler, der er fastsat i henhold til hidtil gældende regler, forbliver 
 Stk. 6. Verserende klagesager i Natur- og Miljøklagenævnet eller Klagecenter for Fødevarer, Landbrug og Fiskeri, der ikke er færdigbehandlet ved denne lovs ikrafttræden, færdigbehandles og afgøres af Miljø- og Fødevareklagenævnet efter reglerne i denne lov. Dette gælder dog ikke verserende klagesager ved Natur- og Miljøklagenævnet, som ved lovens ikrafttræden skal færdigbehandles og afgøres af Planklagenævnet, jf. § 1 i lov om Planklagenævnet.
 
 Stk. 7. (Udelades)
+
+Lov nr. 1553 af 19. december 2017 (Mulighed for fastsættelse af nærmere regler med visse rovfugle, jagttider, tidsbegrænsede initiativer, jagtformer, fodring af vildt og ændring af regler om jagttegn samt ophævelse af krav om dispensation til visse til- og ombygninger inden for skovbyggelinjen i landzone) indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 3
+
+Loven træder i kraft den 1. januar 2018.
