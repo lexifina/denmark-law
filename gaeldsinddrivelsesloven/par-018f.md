@@ -1,0 +1,3 @@
+§ 18 f. Told- og skatteforvaltningen ændrer ikke skatteansættelsen for en skattepligtig, som følge af at den skattepligtige i sin skatteansættelse uberettiget har fået fradrag for renter, der, efter at fordringen er forældet, i medfør af § 5 er tilskrevet en fordring, der er overdraget til restanceinddrivelsesmyndigheden senest den 19. november 2015, men før eller efter overdragelsen er bortfaldet ved forældelse.
+
+Stk. 2. Skattepligtige, der har fået deres skatteansættelse ændret på grund af et uberettiget rentefradrag efter stk. 1, kan begære deres skatteansættelse genoptaget efter skatteforvaltningslovens § 26 og § 27, stk. 1, nr. 1, med henblik på at rentefradraget indgår i skatteansættelsen.
