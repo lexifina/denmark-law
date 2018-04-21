@@ -34,23 +34,25 @@
 
 17) sikring af geologiske bevaringsværdier, herunder beliggenheden af områder med særlig geologisk værdi,
 
-18) friholdelse af arealer for ny bebyggelse eller etablering af foranstaltninger til sikring mod oversvømmelse, når arealet er i væsentlig risiko for oversvømmelse, jf. kapitel 2 i lov om vurdering og styring af oversvømmelsesrisikoen fra vandløb og søer og bekendtgørelse om vurdering og risikostyring for oversvømmelser fra havet, fjorde eller andre dele af søterritoriet,
+18) udpegning af områder, der kan blive udsat for oversvømmelse eller erosion, og for etablering af afværgeforanstaltninger til sikring mod oversvømmelse eller erosion ved planlægning af byudvikling, særlige tekniske anlæg, ændret arealanvendelse m.v. i de udpegede områder,
 
-19) anvendelsen af vandløb, søer og kystvande,
+19) friholdelse af arealer for ny bebyggelse eller etablering af foranstaltninger til sikring mod oversvømmelse, når arealet er i væsentlig risiko for oversvømmelse, jf. kapitel 2 i lov om vurdering og styring af oversvømmelsesrisikoen fra vandløb og søer og bekendtgørelse om vurdering og risikostyring for oversvømmelser fra havet, fjorde eller andre dele af søterritoriet,
 
-20) arealanvendelsen i kystnærhedszonen i overensstemmelse med bestemmelserne i § 5 a, stk. 1, og § 5 b,
+20) anvendelsen af vandløb, søer og kystvande,
 
-21) realisering af regler eller beslutninger efter lovens §§ 3 og 5 j,
+21) arealanvendelsen i kystnærhedszonen i overensstemmelse med bestemmelserne i § 5 a, stk. 1, og § 5 b,
 
-22) beliggenheden af omdannelseslandsbyer,
+22) realisering af regler eller beslutninger efter lovens §§ 3 og 5 j,
 
-23) beliggenheden af erhvervsområder, herunder erhvervshavne, som skal være forbeholdt produktionsvirksomheder, transport- og logistikvirksomheder og friholdes for anden anvendelse uden tilknytning til sådanne virksomheder,
+23) beliggenheden af omdannelseslandsbyer,
 
-24) beliggenheden af konsekvensområder omkring erhvervsområder, jf. nr. 23,
+24) beliggenheden af erhvervsområder, herunder erhvervshavne, som skal være forbeholdt produktionsvirksomheder, transport- og logistikvirksomheder og friholdes for anden anvendelse uden tilknytning til sådanne virksomheder,
 
-25) udpegning af op til to transformationsområder hvert fjerde år inden for konsekvensområder, jf. nr. 24, som er arealer, der er belastet af støj fra eksisterende produktionsvirksomheder og er centralt beliggende i byen, og hvor der er særlige byudviklingsinteresser, idet der dog kan udpeges et yderligere transformationsområde inden for den 4-årige periode, hver gang der er givet byggetilladelse svarende til 80 pct. af byggeretten i et af de udpegede områder, og
+25) beliggenheden af konsekvensområder omkring erhvervsområder, jf. nr. 24,
 
-26) beliggenheden af konsekvensområder omkring tekniske anlæg, vindmøller og støjende fritidsanlæg m.v. i landzone, som skal friholdes for ny støjfølsom anvendelse.
+26) udpegning af op til to transformationsområder hvert fjerde år inden for konsekvensområder, jf. nr. 25, som er arealer, der er belastet af støj fra eksisterende produktionsvirksomheder og er centralt beliggende i byen, og hvor der er særlige byudviklingsinteresser, idet der dog kan udpeges et yderligere transformationsområde inden for den 4-årige periode, hver gang der er givet byggetilladelse svarende til 80 pct. af byggeretten i et af de udpegede områder, og
+
+27) beliggenheden af konsekvensområder omkring tekniske anlæg, vindmøller og støjende fritidsanlæg m.v. i landzone, som skal friholdes for ny støjfølsom anvendelse.
 
 Stk. 2. Kommunalbestyrelsen skal ved fastsættelse af retningslinjer efter stk. 1, nr. 14, udpege beliggenheden af naturområder med særlige naturbeskyttelsesinteresser på kort, herunder eksisterende Natura 2000-områder på land og andre beskyttede naturområder samt økologiske forbindelser, potentielle naturområder og potentielle økologiske forbindelser. Ved udpegningen skal Digitale Naturkort anvendes. Den samlede udpegning udgør herefter Grønt Danmarkskort.
 
