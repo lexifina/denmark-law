@@ -26,9 +26,11 @@
 
 13) anvendelsen af vandområder og udformning af anlæg på vandområder i et byomdannelsesområde inden for eller i tilknytning til en havns dækkende værker,
 
-14) sikring af, at erhvervsarealer langs motorvejen prioriteres til transport- og logistikvirksomheder og andre transporttunge virksomheder, og
+14) etablering af afværgeforanstaltninger til sikring mod oversvømmelse eller erosion ved planlægning af byudvikling, særlige tekniske anlæg, ændret arealanvendelse m.v. i de udpegede områder, der kan blive udsat for oversvømmelse eller erosion, jf. § 11 a, stk. 1, nr. 18,
 
-15) konsekvensområder omkring erhvervsområder forbeholdt produktionsvirksomheder og transformationsområder inden for konsekvensområder.
+15) sikring af, at erhvervsarealer langs motorvejen prioriteres til transport- og logistikvirksomheder og andre transporttunge virksomheder, og
+
+16) konsekvensområder omkring erhvervsområder forbeholdt produktionsvirksomheder og transformationsområder inden for konsekvensområder.
 
 Stk. 2. Kommuneplanen kan indeholde retningslinjer for andre forhold end nævnt i stk. 1 og § 11 a, stk. 1, der kan være af betydning for arealanvendelsen og bebyggelsen, herunder beliggenheden af arealer til lokalisering af landbrugets driftsbygninger og driftsanlæg inden for de udpegede særlig værdifulde landbrugsområder, jf. § 11 a, stk. 1, nr. 10.
 

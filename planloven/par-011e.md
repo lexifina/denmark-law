@@ -22,9 +22,15 @@
 
 11) den fremtidige udvikling i kystnærhedszonen, herunder udviklingsområder og større sammenhængende naturområder (Grønt Danmarkskort), og de tilgrænsende vandområder,
 
-12) kommuneplanens sammenhæng med kommuneplanlægningen i nabokommunerne og
+12) grundlaget for udpegning af områder, der kan blive udsat for oversvømmelse eller erosion, jf. § 11 a, stk. 1, nr. 18,
 
-13) kommuneplanens sammenhæng med den statslige trafikplan og trafikselskabernes trafikplan for offentlig service.
+13) etablering af afværgeforanstaltninger til sikring mod oversvømmelse eller erosion ved planlægning af byudvikling, særlige tekniske anlæg, ændret arealanvendelse m.v. i de udpegede områder, der kan blive udsat for oversvømmelse eller erosion, jf. nr. 12,
+
+14) kommuneplanens sammenhæng med kommuneplanlægningen i andre kommuner, for så vidt angår afværgeforanstaltninger til sikring mod oversvømmelse eller erosion ved planlægning af byudvikling, særlige tekniske anlæg, ændret arealanvendelse m.v. i de udpegede områder, der kan blive udsat for oversvømmelse eller erosion, jf. nr. 12 og 13,
+
+15) kommuneplanens sammenhæng med kommuneplanlægningen i nabokommunerne og
+
+16) kommuneplanens sammenhæng med den statslige trafikplan og trafikselskabernes trafikplan for offentlig service.
 
 Stk. 2. På et kortbilag til redegørelsen skal de eksisterende og planlagte forhold i kystnærhedszonen og udviklingsområder vises, herunder hvilke områder der friholdes for bebyggelse.
 
