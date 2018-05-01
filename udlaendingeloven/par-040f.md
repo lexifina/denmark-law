@@ -1,4 +1,4 @@
-§ 40 f. Til brug for identifikation og identitetskontrol optages der fingeraftryk og personfotografi af en udlænding, som indgiver ansøgning om opholdstilladelse efter §§ 9, 9 a, 9 c-9 f, 9 i-9 n eller 9 p eller ansøgning om forlængelse af en opholdstilladelse, der er meddelt efter §§ 9-9 f, 9 i-9 n eller 9 p, jf. dog stk. 3 og 4.
+§ 40 f. Til brug for identifikation og identitetskontrol optages der fingeraftryk og personfotografi af en udlænding, som indgiver ansøgning om opholdstilladelse efter §§ 9, 9 a, 9 c-9 f, 9 i-9 n, 9 p eller 9 q eller ansøgning om forlængelse af en opholdstilladelse, der er meddelt efter §§ 9-9 f, 9 i-9 n, 9 p eller 9 q, jf. dog stk. 3 og 4.
 
 Stk. 2. Fingeraftryk og personfotografi, der er optaget efter stk. 1, registreres i et centralt register, der føres af Udlændinge- og Integrationsministeriet, Udlændingestyrelsen og Styrelsen for International Rekruttering og Integration.
 
