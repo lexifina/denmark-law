@@ -2,6 +2,6 @@
 
 Stk. 2. Udlændinge- og integrationsministeren kan fastsætte regler om, at en ansøgning, der indgives til Styrelsen for International Rekruttering og Integration i henhold til denne lov eller bekendtgørelse om udlændinges adgang her til landet, skal indgives ved anvendelse af en digital ansøgningsløsning, som Styrelsen for International Rekruttering og Integration stiller til rådighed (digital selvbetjening). Udlændinge- og integrationsministeren kan i den forbindelse fastsætte regler om afvisning af ansøgninger, der ikke indgives på den i 1. pkt. angivne måde. Udlændinge- og integrationsministeren kan endvidere fastsætte regler om, hvornår en digital ansøgning anses for at være kommet frem.
 
-Stk. 3. En ansøgning om opholdstilladelse efter § 9, stk. 1, nr. 1-3, kan afvises, hvis ansøgningen ikke er vedlagt de dokumenter eller ikke indeholder de oplysninger, der er nødvendige til bedømmelse af, om opholdstilladelse kan meddeles.
+Stk. 3. En ansøgning om opholdstilladelse efter § 9, stk. 1, nr. 1-3, og § 9 q, stk. 1-3, kan afvises, hvis ansøgningen ikke er vedlagt de dokumenter eller ikke indeholder de oplysninger, der er nødvendige til bedømmelse af, om opholdstilladelse kan meddeles.
 
 Stk. 4. Udlændinge- og integrationsministeren kan bestemme, at ansøgninger om opholdstilladelse efter §§ 9 a, 9 f, 9 i-9 n og 9 p kan afvises, hvis ansøgningen ikke er vedlagt de dokumenter eller indeholder de oplysninger, der er nødvendige til bedømmelse af, om opholdstilladelse kan meddeles.
