@@ -4,7 +4,7 @@ Stk. 2. Skattefriheden efter stk. 1 er betinget af følgende:
 
 1) Den ansatte og det selskab, hvori den pågældende er ansat, har aftalt, at reglerne i denne bestemmelse skal finde anvendelse. I aftalen skal vederlaget være entydigt identificeret. Det skal fremgå, om vederlaget består af en aktie eller en købe- eller tegningsret, og i hvilket selskab der er erhvervet eller kan erhverves aktier, og den nominelle størrelse eller stykværdien af aktien eller den nominelle størrelse eller stykværdien af den aktie, som en købe- eller tegningsret giver ret til, skal fremgå. Er der stillet vilkår for vederlagets erhvervelse eller givet den ansatte en valgmulighed inden for et nærmere fastsat tidsrum til udnyttelse af vederlaget, skal disse vilkår fremgå af aftalen.
 
-2) Værdien af vederlaget efter stk. 1 overstiger i samme år ikke 10 pct. af den ansattes årsløn på det tidspunkt, hvor aftalen indgås.
+2) Værdien af vederlaget efter stk. 1 overstiger i samme år ikke 10 pct. af den ansattes årsløn på det tidspunkt, hvor aftalen indgås, jf. dog 2. pkt. Er adgangen til at erhverve aktier, køberetter til aktier eller tegningsretter til aktier åben på lige vilkår for mindst 80 pct. af en kreds af selskabets ansatte, som fastlægges efter almene kriterier, kan værdien af vederlaget udgøre til og med 20 pct. af den ansattes årsløn på det tidspunkt, hvor aftalen indgås. Antallet af ansatte i selskabet efter 2. pkt. opgøres på det tidspunkt, hvor adgangen til at erhverve aktierne, køberetterne til aktier eller tegningsretterne til aktier er åben for de ansatte.
 
 3) Vederlaget efter stk. 1 ydes af det selskab, hvor personen er ansat, eller af et selskab, der er koncernforbundet med dette selskab, jf. kursgevinstlovens § 4, stk. 2.
 
