@@ -4,7 +4,7 @@
 
 2) Nægtelse af opholdstilladelse til en udlænding, der påberåber sig at være omfattet af § 7 eller § 8, stk. 1 eller 2, og i den forbindelse udsendelse efter § 32 a.
 
-3) Bortfald efter §§ 17, 17 a og 21 b og inddragelse efter §§ 19 eller 20 af en opholdstilladelse, der er givet efter § 7 eller § 8, stk. 1 eller 2, og i den forbindelse udsendelse efter § 32 a.
+3) Bortfald efter §§ 17, 17 a og 21 b, nægtelse af forlængelse efter § 11, stk. 2, og inddragelse efter §§ 19 eller 20 af en opholdstilladelse, der er givet efter § 7 eller § 8, stk. 1 eller 2, og i den forbindelse udsendelse efter § 32 a.
 
 4) Nægtelse af udstedelse af dansk rejsedokument for flygtninge eller inddragelse af et sådant rejsedokument.
 
@@ -16,7 +16,7 @@
 
 8) Afgørelser om identitetsfastlæggelse, tilbagerejsetilladelse og laissez-passer vedrørende udlændinge, der har påberåbt sig at være omfattet af eller er meddelt opholdstilladelse efter §§ 7 eller 8 eller § 9 c, stk. 2 eller 3.
 
-Stk. 2. Klage til Flygtningenævnet over Udlændingestyrelsens afgørelse om afvisning eller overførsel efter reglerne i kapitel 5 a eller 5 b, der indgives til Udlændingestyrelsen, senere end 7 dage efter at udlændingen har fået meddelelse om afgørelsen, afvises. Klage til Flygtningenævnet over Udlændingestyrelsens afgørelse om varigheden af en tidsbegrænset opholdstilladelse meddelt efter § 7, stk. 1 og 2, og § 8, der indgives til Udlændingestyrelsen, senere end 4 uger efter at udlændingen har fået meddelelse om afgørelsen, afvises. Afslår Udlændingestyrelsen at give opholdstilladelse efter § 7 til en udlænding, der opholder sig her i landet, eller træffer Udlændingestyrelsen efter § 32 b eller § 49 a afgørelse om, at en udsendelse ikke vil være i strid med § 31, anses afgørelsen for påklaget til Flygtningenævnet. Påklage af en afgørelse som nævnt i stk. 1, nr. 1-6, har opsættende virkning. 4. pkt. finder ikke anvendelse på klager over afgørelser om afvisning efter reglerne i kapitel 5 b eller på klager over afgørelser om bortfald efter § 21 b, stk. 1, når udlændingen på tidspunktet for klagen opholder sig i udlandet.
+Stk. 2. Klage til Flygtningenævnet over Udlændingestyrelsens afgørelse om afvisning eller overførsel efter reglerne i kapitel 5 a eller 5 b, der indgives til Udlændingestyrelsen, senere end 7 dage efter at udlændingen har fået meddelelse om afgørelsen, afvises. Klage til Flygtningenævnet over Udlændingestyrelsens afgørelse om varigheden af en tidsbegrænset opholdstilladelse meddelt efter § 7, stk. 1 og 2, og § 8, der indgives til Udlændingestyrelsen, senere end 4 uger efter at udlændingen har fået meddelelse om afgørelsen, afvises. Afslår Udlændingestyrelsen at give opholdstilladelse efter § 7 til en udlænding, der opholder sig her i landet, træffer Udlændingestyrelsen afgørelse om nægtelse af forlængelse eller om inddragelse af en opholdstilladelse meddelt efter § 7 eller § 8, stk. 1 eller 2, eller træffer Udlændingestyrelsen efter § 32 b eller § 49 a afgørelse om, at en udsendelse ikke vil være i strid med § 31, anses afgørelsen for påklaget til Flygtningenævnet. Påklage af en afgørelse som nævnt i stk. 1, nr. 1-6, har opsættende virkning. 4. pkt. finder ikke anvendelse på klager over afgørelser om afvisning efter reglerne i kapitel 5 b eller på klager over afgørelser om bortfald efter § 21 b, stk. 1, når udlændingen på tidspunktet for klagen opholder sig i udlandet.
 
 Stk. 3. Udlændingestyrelsens afgørelser som nævnt i stk. 1 skal indeholde oplysning om reglerne i stk. 1 og 2.
 
