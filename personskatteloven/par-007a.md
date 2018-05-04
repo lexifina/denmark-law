@@ -20,7 +20,7 @@ Stk. 3. Udligningsskatten beregnes af den personlige indkomst med tillæg af her
 
 Stk. 4. For indkomstårene 2011-2014 udgør udligningsskatten 6 pct. af den del af det samlede beløb efter stk. 1, jf. stk. 3, der overstiger et grundbeløb på 362.800 kr. (2010-niveau).
 
-Stk. 5. Satsen på 6 pct. i stk. 4 nedsættes fra indkomståret 2015 og for hvert efterfølgende indkomstår med 1 procentenhed i forhold til satsen for det nærmest forudgående indkomstår. For indkomståret 2020 og efterfølgende indkomstår udgør satsen 0 pct.
+Stk. 5. Satsen på 6 pct. i stk. 4 nedsættes fra indkomståret 2015 og for hvert efterfølgende indkomstår med 1 procentenhed i forhold til satsen for det nærmest forudgående indkomstår. For indkomståret 2018 og efterfølgende indkomstår udgør satsen 0 pct.
 
 Stk. 6. Er en gift persons udbetalte beløb efter stk. 1 lavere end grundbeløbet efter stk. 4, eller udbetales der ikke beløb efter stk. 1, forhøjes den anden ægtefælles grundbeløb med forskelsbeløbet, dog højst med 121.000 kr. (2010-niveau) med fradrag af personlig indkomst efter regulering efter § 13. Det er en forudsætning for fradrag efter 1. pkt., at ægtefællerne er samlevende ved indkomstårets udløb.
 
