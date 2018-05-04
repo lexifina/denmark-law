@@ -1,4 +1,4 @@
-§ 8 V. Ved opgørelsen af den skattepligtige indkomst kan fradrages udgifter, der er betalt og dokumenteret, til arbejdsløn for serviceydelser, grøn istandsættelse og tilslutning til bredbånd i hjemmet eller i en fritidsbolig, jf. stk. 2-9 og bilag 1.
+§ 8 V. Ved opgørelsen af den skattepligtige indkomst kan fradrages udgifter, der er betalt og dokumenteret, til arbejdsløn for serviceydelser, grøn istandsættelse, tilslutning til bredbånd og installation af tyverialarm i hjemmet eller i en fritidsbolig, jf. stk. 2-9 og bilag 1.
 
 Stk. 2. Fradraget er betinget af,
 
@@ -10,13 +10,13 @@ Stk. 2. Fradraget er betinget af,
 
 4) at den skattepligtige foretager indberetning af det fradragsberettigede beløb til skattemyndighederne med angivelse af, hvem der har udført arbejdet, og
 
-5) at arbejdet er udført i perioden fra og med den 1. januar 2016 til og med den 31. december 2017.
+5) at arbejdet er udført i perioden fra og med den 1. januar 2018.
 
 Stk. 3. For arbejde vedrørende en fritidsbolig finder stk. 1, 2 og 4-9 tilsvarende anvendelse for ægtefællen til ejeren af en fritidsbolig, jf. stk. 2, nr. 2, under forudsætning af at ægtefællerne var gift og samlevende på det tidspunkt, hvor det fradragsberettigede arbejde blev udført.
 
-Stk. 4. Fradraget henføres til det indkomstår, hvor betalingen for arbejdet er sket. Fradraget henføres dog til det indkomstår, hvor arbejdet er udført, hvis betaling for arbejdet er sket inden for 2 måneder efter indkomstårets udløb. Der kan ikke foretages fradrag for arbejde, der betales den 1. marts 2018 eller senere. For arbejde udført i 2016, som betales fra og med den 1. januar 2018 til og med den 28. februar 2018, henføres fradraget til indkomståret 2017 for personer, hvis indkomstår følger kalenderåret.
+Stk. 4. Fradraget henføres til det indkomstår, hvor betalingen for arbejdet er sket. Fradraget henføres dog til det indkomstår, hvor arbejdet er udført, hvis betaling for arbejdet er sket inden for 2 måneder efter indkomstårets udløb.
 
-Stk. 5. De fradragsberettigede udgifter til serviceydelser kan årligt højst udgøre 6.000 kr. pr. person, og de samlede fradragsberettigede udgifter til grøn istandsættelse og tilslutning til bredbånd kan højst udgøre 12.000 kr. pr. person.
+Stk. 5. De fradragsberettigede udgifter til serviceydelser kan årligt højst udgøre et grundbeløb på 5.400 kr. (2010-niveau) pr. person, og de samlede fradragsberettigede udgifter til grøn istandsættelse, tilslutning til bredbånd og installation af tyverialarm kan årligt højst udgøre et grundbeløb på 10.900 kr. (2010-niveau) pr. person. Grundbeløbene reguleres efter personskattelovens § 20.
 
 Stk. 6. Der kan ikke foretages fradrag for udgifter til arbejde, hvortil der er ydet tilskud efter andre offentlige støtteordninger, herunder efter reglerne i lov om hjemmeservice, til arbejde vedrørende etablering af elproduktion fra vedvarende energi-anlæg omfattet af §§ 41 og 47 i lov om fremme af vedvarende energi, hvis der modtages offentlig driftsstøtte til disse anlæg, eller til arbejde vedrørende afmontering af brændeovne og pejseindsatse, hvis der modtages offentligt tilskud til skrotning af disse. Tilsvarende gælder udgifter til børnepasning, der er skattefritaget hos modtageren efter § 7 Æ, og udgifter, som er fradraget ved opgørelsen af den skattepligtige indkomst efter andre regler i skattelovgivningen. Ejeren af en fritidsbolig, jf. stk. 2, nr. 2, kan heller ikke foretage fradrag for udgifter til arbejdsløn for arbejde i form af rengøring, vask, opvask, strygning, vinduespudsning, børnepasning og havearbejde vedrørende fritidsboligen, hvis ejeren i løbet af indkomståret har udlejet fritidsboligen.
 
