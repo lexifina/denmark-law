@@ -1,33 +1,35 @@
-Lov nr. 639 af 12. juni 2013, hvis § 10 ændrer § 7, stk. 5, indeholder følgende ikrafttrædelsesbestemmelse:
+Lov nr. 1631 af 26. december 2013 (Konsekvensændringer som følge af lov om vandplanlægning) indeholder følgende ikrafttrædelsesbestemmelse:
 
-§ 31
+§ 17
 
-Loven træder i kraft den 1. januar 2014.
+Stk. 1. Loven træder i kraft dagen efter bekendtgørelsen i Lovtidende, jf. dog stk. 2.
 
-Lov nr. 651 af 12. juni 2013, hvis § 4 ændrer § 1, stk. 2, nr. 2, litra c, og § 1, stk. 2, nr. 4, litra a og b, indeholder følgende ikrafttrædelsesbestemmelse:
+Stk. 2. Miljøministeren fastsætter tidspunktet for ikrafttræden af §§ 2 og 3, § 4, nr. 2, §§ 5-11, § 12, nr. 1, 3, 4 og 6, § 13, § 14, nr. 1 og 2 og 4-8, og §§ 15 og 16. Ministeren kan herunder bestemme, at ændringerne træder i kraft på forskellige tidspunkter.
 
-§ 5
+Stk. 3. De hidtil gældende regler opretholdes og finder anvendelse på vandplaner og handleplaner opretholdt efter § 42, stk. 1, i lov om vandplanlægning.
 
-Loven træder i kraft den 1. januar 2014.
+Lov nr. 427 af 18. maj 2016 (Konsekvensændringer m.v. som følge af lov om miljøvurdering af planer og programmer og af konkrete projekter (VVM)) indeholder følgende ikrafttrædelsesbestemmelse:
 
-Lov nr. 895 af 4. juli 2013, hvis § 8 ændrer § 1, stk. 2, nr. 1, litra a, indeholder følgende ikrafttrædelsesbestemmelse:
+§ 10
+
+Stk. 1. Loven træder i kraft den 16. maj 2017, jf. dog stk. 2.
+
+Stk. 2. Miljø- og fødevareministeren fastsætter tidspunktet for ikrafttræden af § 9, nr. 1 og 2. Ministeren kan herunder bestemme, at ændringerne træder i kraft på forskellige tidspunkter.
+
+Stk. 3-9. (Udelades)
+
+Lov nr. 204 af 28. februar 2017 (Ny regulering af husdyrbrug m.v. og indførelse af generelle regler for anvendelse af gødning på arealer og for husdyrbrug m.v. som udmøntning af dele af fødevare- og landbrugspakken samt ændringer som følge af VVM-direktivet m.v.) indeholder følgende ikrafttrædelsesbestemmelser:
 
 § 9
 
-Stk. 1. Loven træder i kraft den 1. januar 2014 […].
+Stk. 1. Loven træder i kraft den 1. august 2017, jf. dog stk. 2.
 
-Stk. 2-4. (Udelades).
+Stk. 2. (Udelades)
 
-Lov nr. 576 af 10. juni 2014, hvis § 2 ændrer § 1, stk. 2, nr. 4, litra a, indeholder følgende ikrafttrædelsesbestemmelse:
+§ 10
 
-§ 3
+(Udelades)
 
-Loven træder i kraft den 1. oktober 2014.
+§ 11
 
-Lov nr. 1482 af 23. december 2014, hvis § 68 ændrer § 1, stk. 2, nr. 1, litra a, og § 12, stk. 1 og 2, og ophæver § 12, stk. 3-5, indeholder følgende ikrafttrædelsesbestemmelse:
-
-§ 56
-
-Stk. 1. Loven træder i kraft den 1. januar 2015, […].
-
-Stk. 2-4. (Udelades).
+(Udelades)
