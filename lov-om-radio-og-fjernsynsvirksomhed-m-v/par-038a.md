@@ -1,4 +1,4 @@
-## Kapitel 6 a
+## Kapitel 6 a.
 
 ## TV 2/DANMARK A/S’ public service-programvirksomhed
 
