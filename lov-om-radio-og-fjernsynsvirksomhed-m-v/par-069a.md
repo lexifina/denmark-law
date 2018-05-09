@@ -2,6 +2,4 @@
 
 Stk. 2. Kulturministeren kan fastsætte nærmere regler om licenspligtens indtræden og ophør, om betalingsfrister og opkrævning samt om gebyrer m.v. Der påløber renter af for sent betalt licens og andre skyldige beløb. Ministeren kan i den forbindelse fastsætte regler om mindstebeløb for henholdsvis opkrævning og tilbagebetaling af licens. Renterne beregnes fra forfaldsdagen. Renter samt rykkergebyrer fastsættes efter bestemmelserne i lov om renter ved forsinket betaling m.v. Kulturministeren kan fastsætte regler om henstand og eftergivelse af restancer.
 
-Stk. 3. DR kan efter regler fastsat af kulturministeren indgå aftale med offentlige myndigheder om afgivelse af oplysninger, herunder i elektronisk form, som anses for nødvendige for afgørelse af sager om nedsættelse eller bortfald af licens, jf. § 69.
-
-Stk. 4. Lovens § 17, stk. 4, finder tilsvarende anvendelse for DR’s afgørelser vedrørende opkrævning af afgifterne m.v.
+Stk. 3. Lovens § 17, stk. 4, finder tilsvarende anvendelse for DR’s afgørelser vedrørende opkrævning af afgifterne m.v.

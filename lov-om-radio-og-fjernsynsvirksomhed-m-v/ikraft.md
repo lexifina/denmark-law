@@ -10,7 +10,7 @@ Lov nr. 1437 af 22. december 2004 om ændring af radio- og fjernsynsloven (Polit
 
 Loven træder i kraft den 1. januar 2005.
 
-Lov nr. 1439 af 22. december 2004 om pligtaflevering af offentliggjort materiale indeholder følgende ikrafttrædelsesbestemmelse:
+Lov nr. 1439 af 22. december 2004 om pligtaflevering af offentliggjort materiale indeholder følgende ikrafttrædelsesbestemmelse
 
 § 22. Loven træder i kraft den 1. juli 2005.
 
@@ -44,7 +44,7 @@ Stk. 1. Loven træder i kraft den 1. januar 2007. Bestemmelserne i stk. 2-6 træ
 
 Stk. 2-4. (Udelades)
 
-Stk. 5. Uanset bestemmelsen i radio- og fjernsynslovens § 64, stk. 6, fungerer nævn i kommuner, der indgår i en sammenlægning med en eller flere andre kommuner, og hvis funktionsperiode udløber senest den 30. april 2006, indtil udgangen af 2006. Med virkning fra den 1. januar 2007 nedsætter kommunalbestyrelsen eller kommunalbestyrelserne et nyt nævn.
+Stk. 5. Uanset bestemmelsen i radio- og fjernsynslovens § 64, stk. 6, fungerer nævn i kommuner, der indgår i en sammenlægning med en eller flere andre kommuner, og hvis funktionsperiode udløber senest den 30. april 2006, indtil udgangen af 2006. Med virkning fra den 1. januar 2007 nedsætter kommunalbestyrelsen eller kommunalbestyrelserne et nyt nævn
 
 Stk. 6-7. (Udelades)
 
@@ -98,7 +98,7 @@ Stk. 1. Loven træder i kraft den 1. januar 2009.
 
 Stk. 2-4. (Udelades)
 
-Lov nr. 189 af 18. marts 2009 om ændring af lov om radio- og fjernsynsvirksomhed (Forlængelse af programtilladelser til den fjerde og den femte FM-radiokanal) indeholder følgende ikrafttædelsesbestemmelse:
+Lov nr. 189 af 18. marts 2009 om ændring af lov om radio- og fjernsynsvirksomhed (Forlængelse af programtilladelser til den fjerde og den femte FM-radiokanal) indeholder følgende ikrafttrædelsesbestemmelse:
 
 § 2
 
@@ -169,3 +169,29 @@ Lov nr. 1626 af 26. december 2013 om ændring af lov om radio- og fjernsynsvirks
 Stk. 1. Loven træder i kraft den 1. januar 2014.
 
 Stk. 2. Radio- og tv-nævnet kan udstede tilladelse til de sendesamvirker, der er etableret i medfør af bekendtgørelse nr. 1423 af 20. december 2011 om ikkekommercielt tv i MUX 1 som ændret ved bekendtgørelse nr. 884 af 28. juni 2013, således at sendesamvirkerne på samme vilkår, som gælder for tilladelseshavere, jf. bekendtgørelse nr. 1423 af 20. december 2011 om ikkekommercielt tv i MUX 1 som ændret ved bekendtgørelse nr. 884 af 28. juni 2013, kan udsende tidligere udsendte programmer eller nyproducerede programmer fra de tilknyttede tv-stationer i en overgangsperiode, indtil de nye tilladelseshavere efter den nye lokal-tv-ordning kan påbegynde deres programvirksomhed. Sendesamvirkerne er ansvarlige for, at de pågældende programmer er i overensstemmelse med loven og den i medfør af loven udstedte bekendtgørelse nr. 1423 af 20. december 2011 om ikkekommercielt tv i MUX 1 som ændret ved bekendtgørelse nr. 884 af 28. juni 2013 samt den i medfør af loven udstedte bekendtgørelse nr. 607 af 20. juni 2005 om opdatering, opbevaring og aflevering af radio- og fjernsynsprogrammer. Radio- og tv-nævnet kan yde tilskud til dækning af sendesamvirkernes distributionsomkostninger i forbindelse med udsendelse af de ovennævnte programmer inden for en samlet ramme på 0,5 mio. kr.
+
+Lov nr. 1517 af 27. december 2014 om lov om ændring af lov om radio- og fjernsynsvirksom (Genbeskikkelse af DR’s bestyrelse og genvalg af de regionale TV 2-virksomheders bestyrelser, adgang til støtte fra public service-puljen, afskaffelse af erhvervslicensen og forhandlerindberetningspligten, ny ordning for ikkekommercielle lokalradioer m.v.)
+
+§ 2
+
+Stk. 1. Loven træder i kraft den 1. januar 2015, jf. dog stk. 2 og 3.
+
+Stk. 2. § 1, nr. 3, træder i kraft den 1. januar 2019.
+
+Stk. 3. Kulturministeren fastsætter tidspunktet for ikræfttræden af § 1, nr. 1.
+
+Stk. 4. Kulturministeren fastsætter nærmere regler om gennemførelse af valg af bestyrelser for de regionale TV 2-virksomheder for perioden 2015 til 2018 efter § 1, nr. 4.
+
+Lov nr. 643 af 8. juni om ændring af lov om radio- og fjernsynsvirksomhed, lov om leje og lov om leje af almene boliger (Frit valg af tv-distributør, distribution af digital radio m.v.)
+
+§ 4
+
+Stk. 1. Loven træder i kraft den 1. juli 2016.
+
+Stk. 2. Er der før den 1. juli 2016 indgået aftale mellem ejeren af et fællesantenneanlæg og en tv-distributør eller programudbyder eller mellem ejeren af en ejendom, en ejerforening, andelsboligforening el.lign. og ejeren af et fællesantenneanlæg om fælles programforsyning, der gennem vilkår m.v. hindrer husstande i at udøve den i § 6 a, stk. 1, og i lov om radio- og fjersynsvirksomhed som affattet ved denne lovs § 1, nr. 3, nævnte ret eller hindrer ejere af ejendomme, ejerforeninger, andelsboligforeninger el.lign. i at efterkomme husstandes anmodning om fritagelse efter § 6 a, stk. 1, får forpligtelsen i § 6 a, stk. 1, først virkning fra det tidligste af følgende tidspunkter:
+
+1) Aftalens udløb eller
+
+2) udgangen af en periode, der svarer til aftalens opsigelsesvarsel, regnet fra den 1. oktober 2016 eller det senere tidspunkt, hvor aftalen tidligst kan opsiges fra.
+
+Stk. 3. For anlæg, hvor det teknisk ikke er muligt at frakoble enkelte husstande, finder loven først anvendelse den 1. januar 2018.
