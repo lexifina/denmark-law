@@ -3,3 +3,7 @@
 2) Lovændringen vedrører § 2, stk. 1, nr. 3, § 3 a, stk. 1 og § 13, stk. 1, 2 og 4.
 
 3) Lovændringen vedrører § 16, stk. 2, 3. pkt., § 16, stk. 3, § 16, stk. 5, § 20, stk. 1 og 2, § 22, stk. 3, 1. pkt. og § 22 a, 1. pkt.
+
+4) Lovændringen vedrører § 14 b, § 14 c og § 20 a, stk. 2.
+
+5) Lovændringen vedrører § 4, stk. 1, nr. 1, § 13, stk. 1, § 13, stk. 3 og § 13, stk. 6.

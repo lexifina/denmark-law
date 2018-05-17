@@ -1,7 +1,3 @@
 Bekendtgørelse af lov om statens voksenuddannelsesstøtte
 
-Herved bekendtgøres lov om statens voksenuddannelsesstøtte, jf. lovbekendtgørelse nr. 340 af 1. april 2015, med de ændringer, der følger af § 1 i lov nr. 511 af 31. maj 2016 og § 43 i lov nr. 628 af 8. juni 2016.
-
-Den bekendtgjorte lovtekst vedrørende § 2, stk. 1, nr. 3, § 3 a, stk. 1, § 13, stk. 1, § 13, stk. 2 og § 13, stk. 4, træder i kraft den 1. juli 2016, jf. § 2, stk. 1, i lov nr. 511 af 31. maj 2016 om ændring af lov om statens voksenuddannelsesstøtte.
-
-Den bekendtgjorte lovtekst vedrørende § 16, stk. 2, 3. pkt., § 16, stk. 3, § 16, stk. 5, § 20, stk. 1 og 2, § 22, stk. 3, 1. pkt. og § 22 a, 1. pkt., træder i kraft den 1. oktober 2016, jf. § 54, stk. 1, i lov nr. 628 af 8. juni 2016 om ændring af lov om Udbetaling Danmark og forskellige andre love.
+Herved bekendtgøres lov om statens voksenuddannelsesstøtte, jf. lovbekendtgørelse nr. 694 af 8. juni 2016, med de ændringer, der følger af § 13 i lov nr. 674 af 8. juni 2017 og § 3, nr. 1, 2, 4 og 5, i lov nr. 1693 af 26. december 2017. Den ændring, der følger af § 3, nr. 3, i lov nr. 1693 af 26. december 2017, er ikke indarbejdet i denne lovbekendtgørelse, da den træder i kraft den 1. januar 2022, jf. § 5, stk. 2, i lov nr. 1693 af 26. december 2017 om ændring af lov om Arbejdsgivernes Uddannelsesbidrag, lov om godtgørelse og tilskud til befordring ved deltagelse i erhvervsrettet voksen- og efteruddannelse og lov om statens voksenuddannelsesstøtte.
