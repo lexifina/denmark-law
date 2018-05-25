@@ -1,0 +1,1 @@
+§ 3 b. Bestemmelserne i artikel 14 i Europa-Parlamentets og Rådets forordning om beskyttelse af fysiske personer i forbindelse med behandling af personoplysninger og om fri udveksling af sådanne oplysninger (databeskyttelsesforordningen) og databeskyttelseslovens § 22 gælder uanset en eventuel skiltning i medfør af §§ 3 og 3 a.
