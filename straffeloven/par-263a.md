@@ -6,6 +6,6 @@ Stk. 3. På samme måde straffes den, der uretmæssigt skaffer sig eller videreg
 
 1) et samfundsvigtigt informationssystem, jf. § 193, eller
 
-2) et informationssystem, der behandler følsomme oplysninger, som er omfattet af § 7, stk. 1, eller § 8, stk. 1, i lov om behandling af personoplysninger, om flere personers personlige forhold.
+2) et informationssystem, der behandler følsomme oplysninger, som er omfattet af artikel 9, stk. 1, eller artikel 10 i Europa-Parlamentets og Rådets forordning nr. 2016/679 af 27. april 2016 om beskyttelse af fysiske personer i forbindelse med behandling af personoplysninger og om fri udveksling af sådanne oplysninger, om flere personers personlige forhold.
 
 Stk. 4. Sker den i stk. 1-3 nævnte videregivelse m.v. under særligt skærpende omstændigheder, er straffen fængsel indtil 6 år. Som særligt skærpende omstændigheder anses navnlig tilfælde, hvor videregivelsen m.v. sker i særligt stort omfang eller indebærer særlig risiko for betydelig skade.
