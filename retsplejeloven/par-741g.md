@@ -2,4 +2,4 @@
 
 Stk. 2. Reglerne i stk. 1 finder tilsvarende anvendelse, hvis gerningsmanden er dømt til anbringelse efter straffelovens §§ 68, 69, 73 eller 74 a eller til forvaring efter straffelovens § 70.
 
-Stk. 3. Justitsministeren kan fastsætte nærmere regler om underretningsordningen, herunder om, at afgørelser ikke kan påklages til en højere administrativ myndighed, og at persondatalovens bestemmelser om oplysningspligt ikke finder anvendelse i forhold til den dømte.
+Stk. 3. Justitsministeren kan fastsætte nærmere regler om underretningsordningen, herunder om, at afgørelser ikke kan påklages til en højere administrativ myndighed.

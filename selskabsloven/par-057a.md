@@ -8,6 +8,6 @@ Stk. 3. Ved overdragelse af en eller flere ihændehaveraktier, som er registrere
 
 Stk. 4. Pligten til at foretage registrering efter stk. 1 og 3 gælder ikke, hvis de ihændehaveraktier, der er henholdsvis erhvervet og overdraget, er optaget til handel på et reguleret marked.
 
-Stk. 5. Oplysninger, som er registreret i medfør af stk. 1 og 3, kan alene videregives til andre offentlige myndigheder. Videregivelsen af oplysningerne kan alene ske, hvis oplysningerne er nødvendige for den offentlige myndigheds varetagelse af tilsyns- eller kontrolopgaver og videregivelsen sker i overensstemmelse med lov om behandling af personoplysninger.
+Stk. 5. Oplysninger, som er registreret i medfør af stk. 1 og 3, kan alene videregives til andre offentlige myndigheder. Videregivelsen af oplysningerne kan alene ske, hvis oplysningerne er nødvendige for den offentlige myndigheds varetagelse af tilsyns- eller kontrolopgaver og videregivelsen sker i overensstemmelse med Europa-Parlamentets og Rådets forordning nr. 2016/679 af 27. april 2016 om beskyttelse af fysiske personer i forbindelse med behandling af personoplysninger og om fri udveksling af sådanne oplysninger og databeskyttelsesloven.
 
 Stk. 6. Erhvervsstyrelsen fastsætter nærmere regler om registrering af ejeroplysninger om ihændehaveraktier i styrelsens it-system, herunder hvilke oplysninger erhververen eller overdrageren selv kan eller skal registrere i styrelsens it-system.
