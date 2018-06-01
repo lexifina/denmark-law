@@ -1,3 +1,3 @@
 § 3 a. Klager efter §§ 1 og 2 skal være indgivet inden 2 år efter det tidspunkt, hvor klageren var eller burde være bekendt med det forhold, der klages over. Klager skal dog senest indgives 5 år efter den dag, hvor klageforholdet har fundet sted. Der kan ikke dispenseres fra de nævnte klagefrister.
 
-Stk. 2. Er klagen omfattet af § 2, stk. 1, 2. pkt., forlænges fristerne i stk. 1 svarende til perioden fra indgivelse af klagen efter § 1, til Styrelsen for Patientsikkerheds afgørelse forelå.
+Stk. 2. Er klagen omfattet af § 2, stk. 1, 2. pkt., forlænges fristerne i stk. 1 svarende til perioden fra indgivelse af klagen efter § 1, til Styrelsen for Patientklagers afgørelse forelå.
