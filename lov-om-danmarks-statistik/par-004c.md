@@ -1,0 +1,3 @@
+§ 4 c. Det påhviler Danmarks Statistik at udarbejde og revidere retningslinjer for officiel offentligt produceret statistik, der baserer sig på internationale standarder for statistik, og at koordinere og løbende evaluere deres efterlevelse hos de myndigheder, der producerer officiel offentligt produceret statistik. Evalueringen baseres på oplysninger, som de statistikproducerende eller statistikansvarlige myndigheder indberetter til Danmarks Statistik.
+
+Stk. 2. Med henblik på at sikre efterlevelsen af retningslinjer for officiel offentligt produceret statistik udarbejder Danmarks Statistik på grundlag af de løbende evalueringer en årlig rapport, som forelægges for økonomi- og indenrigsministeren.
