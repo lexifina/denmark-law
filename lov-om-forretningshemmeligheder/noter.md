@@ -1,0 +1,1 @@
+1) Loven gennemfører Europa-Parlamentets og Rådets direktiv 2016/943/EU af 8. juni 2016 om beskyttelse af fortrolig knowhow og fortrolige forretningsoplysninger (forretningshemmeligheder) mod ulovlig erhvervelse, brug og videregivelse, EU-Tidende 2016, nr. L 157/1, side 1.
