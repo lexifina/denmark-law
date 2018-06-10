@@ -6,7 +6,7 @@ Stk. 2. Der kan efter ansøgning gives opholdstilladelse til en udlænding, som 
 
 2) udlændingen er indskrevet på et dansk universitet uden at være aflønnet af universitetet eller en virksomhed i Danmark.
 
-Stk. 3. Ansøgning om opholdstilladelse efter stk. 1 og 2 kan kun indgives her i landet, hvis udlændingen har lovligt ophold i medfør af §§ 1-3 a eller 4 b eller § 5, stk. 2, i medfør af EU-reglerne, jf. § 6, eller en opholdstilladelse efter §§ 7-9 f, 9 i-9 n eller 9 p, og hvis ingen særlige grunde taler herimod. Hvis udlændingen ikke har lovligt ophold, jf. 1. pkt., kan ansøgning om opholdstilladelse efter stk. 1 og 2 ikke indgives her i landet, medmindre opholdet skyldes omstændigheder, der ikke kan lægges udlændingen til last, eller hvis der foreligger ganske særlige grunde, herunder hvis Danmarks internationale forpligtelser kan tilsige det. Hvis udlændingen har fået fastsat en udrejsefrist, eller hvis udlændingen har en anden ansøgning under behandling, kan ansøgning efter stk. 1 og 2 ikke indgives her i landet, medmindre Danmarks internationale forpligtelser kan tilsige det.
+Stk. 3. Ansøgning om opholdstilladelse efter stk. 1 og 2 kan kun indgives her i landet, hvis udlændingen har lovligt ophold i medfør af §§ 1-3 a eller 4 b eller § 5, stk. 2, i medfør af EU-reglerne, jf. § 6, eller en opholdstilladelse efter §§ 7-9 f, 9 i-9 n, 9 p eller 9 q, og hvis ingen særlige grunde taler herimod. Hvis udlændingen ikke har lovligt ophold, jf. 1. pkt., kan ansøgning om opholdstilladelse efter stk. 1 og 2 ikke indgives her i landet, medmindre opholdet skyldes omstændigheder, der ikke kan lægges udlændingen til last, eller hvis der foreligger ganske særlige grunde, herunder hvis Danmarks internationale forpligtelser kan tilsige det. Hvis udlændingen har fået fastsat en udrejsefrist, eller hvis udlændingen har en anden ansøgning under behandling, kan ansøgning efter stk. 1 og 2 ikke indgives her i landet, medmindre Danmarks internationale forpligtelser kan tilsige det.
 
 Stk. 4. En ansøgning om forlængelse af en opholdstilladelse efter stk. 1 og 2 skal indgives før tilladelsens udløb, for at udlændingen kan anses for at have lovligt ophold efter stk. 3, 1. pkt. Stk. 3, 2. pkt., finder tilsvarende anvendelse.
 
@@ -25,3 +25,5 @@ Stk. 8. Til brug for Styrelsen for International Rekruttering og Integrations af
 3) Kurser på folkehøjskoler m.v. godkendt efter lov om folkehøjskoler og lov om efterskoler og frie fagskoler, som gennemføres uden tilskud efter loven.
 
 Stk. 9. Ministeren for børn, undervisning og ligestilling fastsætter nærmere regler om Danmarks Evalueringsinstituts udtalelser efter stk. 8, herunder om anmodninger og om den anmodende institutions betaling til dækning af Danmarks Evalueringsinstituts udgifter i forbindelse med udtalelser.
+
+Stk. 10. En udlænding, der har opholdstilladelse efter stk. 2, kan udføre ulønnet frivilligt arbejde.
