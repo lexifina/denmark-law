@@ -4,31 +4,21 @@ Lov nr. 139 af 17. marts 1999 om ændring af lov om udstykning og anden registre
 
 Stk. 1. Loven træder i kraft den 1. oktober 1999.
 
-Stk. 2. Uanset § 1, nr. 3 og 6, og § 2, nr. 6, kan også Kort- og Matrikelstyrelsen i Sønderjyllands Amt bortset fra Hejls, Taps og Vejstrup Sogne og den del af Ribe Amt, som udgøres af Hviding, Roager og Spandet Sogne samt ejerlavet Hjortvad, Kalvslund, udføre matrikulært arbejde og andet arbejde, der efter lovgivningen skal udføres af en landinspektør, i forbindelse med
+Stk. 2 og 3. (Udelades)
 
-1) anmodninger efter § 21 i lov om udstykning og anden registrering i matriklen, der er modtaget inden den 31. december 1999,
-
-2) anmodninger om afholdelse af skelforretninger, der er modtaget inden den 31. december 1999,
-
-3) andre landinspektørarbejder, der er rekvireret inden den 31. december 1999, og
-
-4) fuldførelsen af igangværende opgaver.
-
-Stk. 3. Kort- og Matrikelstyrelsen kan fastsætte regler om opkrævning og betaling for matrikulære arbejder, som matrikelmyndigheden udfører i Sønderjylland efter stk. 2. Betaling kan kræves forud.
-
-Lov nr. 466 af 7. juni 2001 om ophævelse af lov om landvæsensretter og om ændring af forskellige love som følge af nedlæggelsen af landvæsensretterne indeholder følgende ikrafttrædelsesbestemmelse:
+Lov nr. 466 af 7. juni 2001 om ophævelse af lov om landvæsensretter og om ændring af forskellige love som følge af nedlæggelsen af landvæsensretterne (overførsel af landvæsensretternes sager til andre myndigheder) indeholder følgende ikrafttrædelsesbestemmelse:
 
 § 17
 
 Stk. 1. Loven træder i kraft den 1. juli 2001.
 
-Stk. 2. Sager, som er indbragt for en landvæsensret inden lovens ikrafttræden, færdigbehandles efter de hidtil gældende regler.
+Stk. 2. (Udelades)
 
 Lov nr. 542 af 24. juni 2005 om regional statsforvaltning indeholder følgende ikrafttrædelsesbestemmelse:
 
 § 6. Loven træder i kraft den 1. januar 2007, jf. dog stk. 2.
 
-Stk. 2. (Udeladt)
+Stk. 2. (Udelades)
 
 Lov nr. 539 af 8. juni 2006 om ændring af lov om tinglysning og forskellige andre love (Digital tinglysning) indeholder følgende ikrafttrædelses- og overgangsbestemmelser:
 
@@ -36,27 +26,23 @@ Lov nr. 539 af 8. juni 2006 om ændring af lov om tinglysning og forskellige and
 
 Stk. 1. Justitsministeren fastsætter tidspunktet for lovens ikrafttræden, jf. dog stk. 5 og 6.
 
-Stk. 2. (Udeladt)
+Stk. 2-6. (Udelades)
 
-Stk. 3. (Udeladt)
+§ 15
 
-Stk. 4. (Udeladt)
-
-Stk. 5. (Udeladt)
-
-Stk. 6. (Udeladt)
+(Udelades)
 
 § 16
 
 Reglen i § 19, stk. 2, i lov om udstykning og anden registrering i matriklen som affattet ved denne lovs § 11, nr. 1, gælder ikke for en samlet fast ejendom, der på tidspunktet for lovens ikrafttræden består af 200 eller flere matrikelnumre. Sker der efter lovens ikrafttræden arealoverførsel eller sammenlægning vedrørende en samlet fast ejendom som nævnt i 1. pkt., og fremkommer der herved en samlet fast ejendom, der består af færre end 200 matrikelnumre, finder § 19, stk. 2, i lov om udstykning og anden registrering i matriklen som affattet ved denne lovs § 11, nr. 1, herefter anvendelse, for så vidt angår denne ejendom.
 
-Lov nr. 12 af 11. januar 2010 om ændring af lov om udstykning og anden registrering i matriklen, lov om landinspektørvirksomhed og lov om afgift ved udstykning m.m indeholder følgende ikrafttrædelses- og overgangsbestemmelser:
+Lov nr. 12 af 11. januar 2010 om ændring af lov om udstykning og anden registrering i matriklen, lov om landinspektørvirksomhed og lov om afgift ved udstykning m.m (ophævelse af eneretten til matrikulært arbejde m.m. i Københavns og Frederiksberg kommuner samt registrering af forandringer af ejendommens grænser mod søterrotproet) indeholder følgende ikrafttrædelses- og overgangsbestemmelser:
 
 § 4
 
 Stk. 1. Loven træder i kraft den 1. oktober 2010, jf. dog stk. 2.
 
-Stk. 2. (Udeladt)
+Stk. 2. (Udelades)
 
 Stk. 3. § 1, nr. 5-7, finder anvendelse for anlægsarbejder, som medfører, at der fra en ejendom afgives areal til søterritoriet, når anlægsarbejdet afsluttes efter lovens ikrafttræden.
 
@@ -66,7 +52,7 @@ Stk. 1. Uanset § 1, nr. 4, og § 2, nr. 1, kan også Borgerrepræsentationen i 
 
 Stk. 2. Borgerrepræsentationen i Københavns Kommune og Frederiksberg Kommunalbestyrelse fastsætter hver for sit område regler om opkrævning og betaling for arbejder, som udføres efter stk. 1. Miljøministeren fastsætter regler om opkrævning og betaling for arbejder, som Kort- og Matrikelstyrelsen udfører efter stk. 1. Betaling kan kræves forud.
 
-Stk. 3. Betales krav ifølge de efter stk. 2 fastsatte regler ikke rettidigt, svares renter efter reglerne i lov om renter ved forsinket betaling m.v.
+Stk. Betales krav ifølge de efter stk. 2 fastsatte regler ikke rettidigt, svares renter efter reglerne i lov om renter ved forsinket betaling m.v.
 
 Stk. 4. Københavns og Frederiksberg Kommuners immaterielle rettigheder til kommunernes matrikelkort og -registre overføres til Kort- og Matrikelstyrelsen.
 
@@ -74,11 +60,7 @@ Stk. 5. Københavns og Frederiksberg Kommuner kan uanset bestemmelsen i stk. 4 f
 
 § 6
 
-Stk. 1. Tjenestemænd, der ved lovens ikrafttræden er ansat i Københavns eller Frederiksberg Kommuner til at udføre opgaver vedrørende matrikulære arbejder og andre arbejder, der efter lovgivningen skal udføres af en landinspektør, overgår til ansættelse i Miljøministeriet, Kort- og Matrikelstyrelsen, på vilkår, der i øvrigt svarer til de hidtidige vilkår.
-
-Stk. 2. Tjenestemænd omfattet af stk. 1 får ved pensionering fra ansættelsen i Miljøministeriet, Kort- og Matrikelstyrelsen, udbetalt den samlede tjenestemandspension af staten.
-
-Stk. 3. Ved beregning, administration, refusion, revision m.m. af pensionerne til de i stk. 1 nævnte tjenestemænd følges reglerne i lov om visse proceduremæssige spørgsmål vedrørende kommunalreformen og reglerne udstedt i medfør af denne lov med de nødvendige tilpasninger som følge af tidspunktet for tjenestemændenes overgang til staten.
+(Udelades)
 
 Lov nr. 1392 af 23. december 2012 om ændring af lov om Kort- og Matrikelstyrelsen og forskellige andre love (Fri anvendelse af visse data, varetagelse af søopmåling og ændring af styrelsens navn) indeholder følgende ikrafttrædelsesbestemmelse:
 
@@ -86,8 +68,22 @@ Lov nr. 1392 af 23. december 2012 om ændring af lov om Kort- og Matrikelstyrels
 
 Loven træder i kraft den 1. januar 2013.
 
-Lov nr. 647 af 12. juni 2013 om ændring af lov om regional statsforvaltning, lov om børns forsørgelse, lov om ægteskabs indgåelse og opløsning og forskellige andre love som følge af ændret organisering af statsforvaltningerne indeholder følgende ikrafttrædelsesbestemmelse:
+Lov nr. 647 af 12. juni 2013 om ændring af lov om regional statsforvaltning, lov om børns forsørgelse, lov om ægteskabs indgåelse og opløsning og forskellige andre love som følge af ændret organisering af statsforvaltningerne (ændret organisering af statsforvaltningerne, regelforenklinger og omkostningsdækkede egenbetaling på det familieretlige område m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
 
 § 25
 
 Loven træder i kraft den 1. juli 2013.
+
+Lov nr. 80 af 24. januar 2017 om ændring af lov om udstykning og anden registrering i matriklen, lov om Geodatastyrelsen, lov om tinglysning og forskellige andre love (Effektivisering af ejendomsregistrering og -forvaltning m.v.) indeholder følgende ikrafttrædelses- og overgangsbestemmelse:
+
+§ 7
+
+Stk. 1. Energi-, forsynings- og klimaministeren kan efter forhandling med justitsministeren, skatteministeren og erhvervsministeren fastsætte, at dele af loven træder i kraft på forskellige tidspunkter.
+
+Stk. 2. Loven finder ikke anvendelse på sager, som er under behandling ved lovens ikrafttræden. For sådanne sager finder de hidtil gældende regler anvendelse.
+
+Lov nr. 380 af 26. april 2017 om stedbestemt information indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 19. Loven træder i kraft den 1. juli 2017.
+
+Stk. 2-3. (Udelades)

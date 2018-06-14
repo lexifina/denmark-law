@@ -13,3 +13,7 @@
 7) Ifølge § 2 i lov nr. 1392 af 23. december 2012 ændres »Kort- og Matrikelstyrelsen« til »Geodatastyrelsen« overalt i loven.
 
 8) § 13 i lov nr. 647 af 12. juni 2013 vedrører ændring af § 40, stk. 1, 1. pkt.
+
+9) Ved bekendtgørelse nr. 580 af 30. maj 2018 er det bestemt, at § 1, nr. 2-6, 8-10, 12 og 15 i lov nr. 80 af 24. januar 2017 træder i kraft 1. juni 2018. Overalt i loven bortset fra i § 10 ændres »Matrikelmyndigheden« til: »Geodatastyrelsen«. Overalt i loven ændres »Matrikelmyndighedens« til: »Geodatastyrelsens«. Overalt i loven bortset fra i § 49, stk. 2, 1. pkt., ændres »matrikelmyndigheden« til: »Geodatastyrelsen«. Derudover sker ændring af § 2, stk. 2 og 3, § 23, 1. pkt., § 25, § 30, § 32, stk. 1 og 2, og § 33. §§ 47a og 47b indsættes. §§ 26 og 27 ophæves.
+
+10) Ved § 21 i lov nr. 380 af 26. april 2017 indsættes § 46 a.
