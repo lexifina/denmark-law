@@ -1,5 +1,5 @@
-Geodatastyrelsen, den 7. oktober 2013
+Geodatastyrelsen, den 7. juni 2018
 
-Kristian Møller
+Pia Dahl Højgaard
 
-/ Pia Dahl Højgaard
+/ Jess Svendsen
