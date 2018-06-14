@@ -1,0 +1,1 @@
+§ 47 b. Energi-, forsynings- og klimaministeren kan fastsætte regler om, at beskikkede landinspektører gør data, der er fremkommet i forbindelse med kommunikation omfattet af § 47 a, tilgængelige for offentligheden.
