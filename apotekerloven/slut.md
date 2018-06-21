@@ -1,12 +1,12 @@
-Ministeriet for Sundhed og Forebyggelse, den 3. september 2014
+Sundheds- og Ældreministeriet, den 12. juni 2018
 
-Nick Hækkerup
+Ellen Trane Nørby
 
-/ Sanne Have
+/ Anna Skat Nielsen
 
 Bilag A
 
-Landets inddeling i områder, jf. § 4, stk. 3, nr. 3.
+Landets inddeling i områder, jf. § 4, stk. 4, nr. 3.
 
 Område I: Region Nordjylland og Region Midtjylland
 
