@@ -8,7 +8,7 @@ Stk. 2. En apoteker, der har givet meddelelse efter stk. 1, har pligt til:
 
 3) Information om lægemidler til produktionsdyr, herunder om anvendelse og opbevaring af lægemidlerne til forbrugere, medicinalpersoner og myndigheder.
 
-Stk. 3. En apoteker, der har givet meddelelse efter stk. 1, skal i henhold til regler, som fastsættes af ministeren for sundhed og forebyggelse,
+Stk. 3. En apoteker, der har givet meddelelse efter stk. 1, skal i henhold til regler, som fastsættes af sundhedsministeren,
 
 1) sikre, at der sker en regnskabsmæssig adskillelse mellem apotekets omsætning af lægemidler til produktionsdyr og andre lægemidler og varer, og
 
