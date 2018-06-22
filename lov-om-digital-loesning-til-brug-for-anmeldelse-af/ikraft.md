@@ -1,14 +1,14 @@
-Lov nr. 326 af 11. april 2012, der ændrer § 1, stk. 2 - 3, overskriften til kapitel 2, § 3, stk. 2, § 4, stk. 1, § 9, stk. 1 - 2 og § 10, stk. 1, og indsætter § 3, stk. 4 - 6 og § 4, stk. 2, samt affatter § 5 (Fordeling af myndighedsansvaret mellem kommunerne og Udbetaling Danmark m.v.), indeholder følgende ikrafttrædelses- og overgangsbestemmelser:
+Lov nr. 326 af 11. april 2012 (Fordeling af myndighedsansvaret mellem kommunerne og Udbetaling Danmark m.v.), indeholder følgende ikrafttrædelses- og overgangsbestemmelser:
 
 § 25
 
 Stk. 1. Loven træder i kraft den 1. oktober 2012, jf. dog stk. 2-4.
 
-Stk. 2. (Udeladt)
+Stk. 2. (Udelades)
 
 Stk. 3. Lovens § 7, nr. 1, og §§ 13, 14 og 16 træder i kraft den 1. december 2012.
 
-Stk. 4. (Udeladt)
+Stk. 4. (Udelades)
 
 § 26
 
@@ -24,16 +24,32 @@ Stk. 5. Afgørelser efter denne lovs §§ 1-5, 9 og 13, som inden lovens ikraftt
 
 Stk. 6. Krav, som kommunen måtte have mod borgeren, eller krav, som borgeren måtte have mod en kommune efter lovens §§ 1-5, 9 og 13 ved lovens ikrafttræden for de respektive sagsområder, overgår til Udbetaling Danmark. Fordringer, for hvilke kommunen har påbegyndt opkrævning af tilbagebetalingskrav, forbliver dog i kommunen, medmindre fordringen opkræves ved modregning eller fradrages i en ydelse, der efter lovens ikrafttræden for de respektive sagsområder udbetales af Udbetaling Danmark, eller i tilfælde, hvor Udbetaling Danmark træffer en ny afgørelse, som vedrører samme fordring.
 
-Stk. 7. (Udeladt)
+Stk. 7. (Udelades)
 
-Stk. 8. (Udeladt)
+Stk. 8. (Udelades)
 
 Stk. 9. På sagsområder, hvor myndighedsansvaret overgår til Udbetaling Danmark efter denne lovs § 13, videregiver Københavns Kommune senest den 1. oktober 2012 en elektronisk kopi af alle sager, hvori kommunen i perioden fra den 1. januar 2011 til den 1. marts 2012 har truffet endelig afgørelse. Udbetaling Danmark må alene bruge de pågældende sager i uddannelsesøjemed og kun i perioden fra den 1. oktober 2012 til den 30. november 2012.
 
-Stk. 10. (Udeladt)
+Stk. 10. (Udelades)
 
-Lov nr. 357 af 9. april 2013, der affatter lovens titel, § 1, stk. 2, nr. 1-3, § 3 og § 5, ændrer § 1, stk. 1, § 2, § 4, stk. 1, § 9, stk. 1 og § 14, stk. 1, samt overalt i loven ændrer »SDPI-løsningen« til »Nemrefusion« (Digital kommunikation om tilskudsordninger m.v.), indeholder følgende ikrafttrædelsesbestemmelse:
+Lov nr. 357 af 9. april 2013 (Digital kommunikation om tilskudsordninger m.v.), indeholder følgende ikrafttrædelsesbestemmelse:
 
 § 5
 
 Loven træder i kraft den 15. april 2013.
+
+Lov nr. 503 af 23. maj 2018 (Konsekvensændringer som følge af databeskyttelsesloven og databeskyttelsesforordningen samt medieansvarslovens anvendelse på offentligt tilgængelige informationsdatabaser m.v.) indeholder følgende ikrafttrædelsesbestemmelser:
+
+§ 32
+
+Stk. 1. Loven træder i kraft den 25. maj 2018, jf. dog stk. 3.
+
+Stk. 2-3. (Udelades)
+
+§ 33
+
+Stk. 1. Lovens §§ 4-25, og 29 gælder ikke for Færøerne, men lovens §§ 4, 8, 17, og 18, § 20, nr. 1-3, og §§ 22 og 24 kan ved kongelig anordning sættes helt eller delvis i kraft for Færøerne med de ændringer, som de færøske forhold tilsiger.
+
+Stk. 2. Lovens §§ 1, 4-25, og 29 gælder ikke for Grønland, men lovens §§ 1, 4, 8, 14, 17, 18, 24, og 25 kan ved kongelig anordning sættes helt eller delvis i kraft for Grønland med de ændringer, som de grønlandske forhold tilsiger.
+
+Stk. 3-5. (Udelades)
