@@ -477,3 +477,21 @@ Lov nr. 1669 af 26. december 2017 (Modelparametre for erhvervsuddannelser til br
 Stk. 1. Loven træder i kraft den 1. januar 2018.
 
 Stk. 2. (Udelades)
+
+Lov nr. 707 af 8. juni 2018 (Mulighed for at udarbejde en helhedsorienteret plan til borgere med komplekse og sammensatte problemer) indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 7
+
+Loven træder i kraft den 1. juli 2018.
+
+Lov nr. 739 af 8. juni 2018 (Styrkede incitamenter til at repatriere samt systematisk kommunal vejledningspligt) indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 5
+
+Stk. 1. Loven træder i kraft den 1. juli 2018.
+
+Stk. 2. Loven finder anvendelse for udlændinge, som repatrierer med støtte i medfør af repatrieringsloven den 1. juli 2018 eller senere, jf. dog stk. 3.
+
+Stk. 3. § 1, nr. 3, finder ikke anvendelse i sager, hvor ansøgning om hjælp til repatriering er indgivet før lovens ikrafttræden.
+
+Stk. 4. §§ 3 og 4 finder ikke anvendelse for personer, der før den 1. juli 2018 efter repatrieringslovens § 6 har fået tilladelse til at deltage i praktik eller uddannelsesforløb eller i rekognosceringsrejser til hjemlandet eller det tidligere opholdsland med henblik på senere at træffe beslutning om repatriering.
