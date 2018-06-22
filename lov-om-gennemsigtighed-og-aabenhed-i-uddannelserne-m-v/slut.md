@@ -1,5 +1,5 @@
-Undervisningsministeriet, den 10. juni 2015
+Undervisningsministeriet, den 20. juni 2018
 
-P.M.V. Per Hansen Afdelingschef
+P.M.V. Ole Hvilsom Larsen Kontorchef
 
-/ Kira Gandrup
+/ Henrik Thode
