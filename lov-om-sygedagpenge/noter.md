@@ -24,7 +24,7 @@
 
 13) Lovændringen vedrører lovens § 7, stk. 5, 1. pkt., § 17, stk. 3, 2. pkt. § 27, stk. 1, nr. 2, § 45, stk. 5, § 53, stk. 3, § 55, stk. 2, nr. 2, § 55, stk. 3-4, § 64, stk. 2, § 67 og § 69.
 
-14) Lovændringen vedrører lovens § 21, stk. 3 og § 71, stk. 3.
+14) Lovændringen vedrører lovens § 21, stk. 3 og § 71, stk. 3
 
 15) Lovændringen vedrører lovens § 13, stk. 1, og stk. 4-6, § 24, stk. 3, § 25, stk. 2, § 32, stk. 1, nr. 1-2, § 50, stk. 3, § 51, 1. pkt., § 52, stk. 2 og § 53 a.
 
@@ -87,3 +87,7 @@
 44) Lovændringen vedrører lovens § 24 a, stk. 6, § 24 b, stk. 1, og § 24 c, stk. 1, 3. pkt.
 
 45) Lovændringen vedrører lovens § 66, stk. 11, og § 66, stk. 14, 1. pkt.
+
+46) Lovændringen vedrører §§ 13 c, 13 d og 13 e.
+
+47) Lovændringen vedrører § 3, stk. 2 nr. 3-5.
