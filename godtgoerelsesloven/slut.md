@@ -1,5 +1,5 @@
-Ministeriet for Børn, Undervisning og Ligestilling, den 22. juni 2016
+Undervisningsministeriet, den 21. juni 2018
 
 P.M.V. Ole Hvilsom Larsen Kontorchef
 
-/ Kira Gandrup
+/ Joy Saldern Skyttehave
