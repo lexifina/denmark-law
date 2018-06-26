@@ -1,0 +1,5 @@
+§ 14 a. Kommunalbestyrelsen i en frikommune i frikommunenetværket om bedre styring af udgifterne på det specialiserede socialområde kan i forbindelse med en afgørelse efter § 95, stk. 3, i lov om social service, hvor tilskud til ansættelse af hjælpere udbetales til en nærtstående, og hvor borgeren med funktionsnedsættelse er mellem 18 og 22 år, bestemme, at udbetalingen ophører, når den unge fylder 23 år. Det er en betingelse, at den tidsbegrænsede udbetaling af tilskud har til formål at sikre den unge en god overgang til voksenlivet.
+
+Stk. 2. Ved bestemmelse om tidsbegrænset hjælp efter stk. 1 skal kommunalbestyrelsen i samarbejde med den unge og dennes forældre udarbejde en skriftlig plan for den fremtidige indsats efter det fyldte 23. år. Endvidere skal kommunalbestyrelsen, senest 6 måneder før den unge fylder 23 år, træffe afgørelse om, hvilken indsats der skal iværksættes efter ophøret af den tidsbegrænsede udbetaling af tilskud efter stk. 1.
+
+Stk. 3. Afgørelse efter stk. 1 kan påklages til Ankestyrelsen efter reglerne i kapitel 10 i lov om retssikkerhed og administration på det sociale område.

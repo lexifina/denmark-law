@@ -1,0 +1,1 @@
+§ 27 h. Sundhedslovens regler om videregivelse af oplysninger finder anvendelse på tilbuddet, som er etableret efter § 27 c, stk. 1, herunder mulighed for indhentning af samtykke til videregivelse af oplysninger til ikke sundhedsfaglige personer.

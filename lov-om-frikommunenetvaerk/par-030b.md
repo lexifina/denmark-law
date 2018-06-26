@@ -1,0 +1,3 @@
+§ 30 b. Kommunalbestyrelsen i en frikommune i frikommunenetværket om børn som vores vigtigste ressource kan yde godtgørelse til personer, som er omfattet af § 2, nr. 13, i lov om en aktiv beskæftigelsesindsats, for befordring til og fra tilbud og behandlingssteder efter lov om social service og sundhedsloven. Det er en betingelse, at personen er fritaget fra reglerne om ret og pligt til tilbud, jf. kapitel 17 a i lov om en aktiv beskæftigelsesindsats, efter regler udstedt i medfør af § 116 i samme lov.
+
+Stk. 2. Kommunen fastsætter nærmere retningslinjer for udbetaling og udmåling af godtgørelsen, jf. stk. 1. Kommunen giver information til kommunens borgere om indholdet af retningslinjerne.

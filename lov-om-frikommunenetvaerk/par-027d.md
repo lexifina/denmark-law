@@ -1,0 +1,1 @@
+§ 27 d. Regionsrådet i Region Midtjylland og Region Syddanmark kan delegere ansvaret for myndighedsudøvelsen efter § 79 i sundhedsloven, som udføres som led i frikommuneforsøget om mere sammenhængende forløb i psykiatrien, til en kommunalbestyrelse i en frikommune i frikommunenetværket om bedre styring af udgifterne på det specialiserede socialområde.
