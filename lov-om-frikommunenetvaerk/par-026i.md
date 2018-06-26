@@ -1,0 +1,3 @@
+§ 26 i. Kommunalbestyrelsen i en kommune i frikommunenetværket om billige boliger og fleksible boligløsninger kan indgå aftale med almene boligorganisationer i kommunen om forlængelse af fristen i § 59, stk. 11, i lov om almene boliger m.v. fra 1 til 2 år. Boligorganisationen skal, når den sender påkrav efter § 90, stk. 2, i lov om leje af almene boliger til lejere af almene familie- og ungdomsboliger, der har fået boligen anvist af kommunalbestyrelsen, inden for det andet år af lejeperioden, samtidig underrette kommunalbestyrelsen om påkravet.
+
+Stk. 2. § 59, stk. 12, i lov om almene boliger m.v. finder tilsvarende anvendelse ved kommunalbestyrelsens modtagelse af underretninger som nævnt i stk. 1.
