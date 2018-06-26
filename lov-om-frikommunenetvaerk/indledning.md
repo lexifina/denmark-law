@@ -1,5 +1,3 @@
-Lov om frikommunenetværk
+Bekendtgørelse af lov om frikommunenetværk
 
-VI MARGRETHE DEN ANDEN, af Guds Nåde Danmarks Dronning, gør vitterligt:
-
-Folketinget har vedtaget og Vi ved Vort samtykke stadfæstet følgende lov:
+Herved bekendtgøres lov nr. 658 af 8. juni 2017 om frikommunenetværk med de ændringer, der følger af lov nr. 1570 af 19. december 2017 og lov nr. 749 af 8. juni 2018.
