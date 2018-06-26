@@ -1,0 +1,1 @@
+§ 27 b. I frikommunenetværket om nye samarbejdsformer på det somatiske akutområde kan sundhedsministeren godkende frikommuneforsøg, der fraviger reglerne om oplagring og udlevering af lægemidler i lægemiddellovens § 39, stk. 1.
