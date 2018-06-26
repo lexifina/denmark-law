@@ -1,0 +1,1 @@
+§ 29 b. Undervisningsministeren kan godkende frikommuneforsøg, hvorefter kommunalbestyrelsen i en frikommune i frikommunenetværket om børn som vores vigtigste ressource kan fravige folkeskolelovens § 28, stk. 2.
