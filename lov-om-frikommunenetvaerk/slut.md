@@ -1,7 +1,5 @@
-Givet på Christiansborg Slot, den 8. juni 2017
+Økonomi- og Indenrigsministeriet, den 25. juni 2018
 
-Under Vor Kongelige Hånd og Segl
+Torben Buse
 
-MARGRETHE R.
-
-/ Simon Emil Ammitzbøll
+/ Søren Hansen Thomsen
