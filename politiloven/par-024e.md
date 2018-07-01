@@ -1,0 +1,1 @@
+§ 24 e. Justitsministeren kan efter forhandling med forsvarsministeren fastsætte regler om Forsvarets adgang til at træffe foranstaltninger om at oprette midlertidige militære områder med henblik på at forebygge og afværge fare for dansk og udenlandsk militært personale og materiel, der befinder sig uden for faste militære områder her i landet.

@@ -1,0 +1,1 @@
+§ 24 c. Justitsministeren kan efter forhandling med forsvarsministeren fastsætte nærmere regler om politiets anmodninger om bistand fra Forsvaret, politiets ansvar for opgaveløsningen, politiets ledelse af det bistandsydende forsvarspersonale og tildeling af beføjelser efter § 24 b, stk. 2, herunder krav om uddannelse m.v.
