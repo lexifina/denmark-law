@@ -1,0 +1,1 @@
+§ 45 a. For børn, som benytter fritidshjem forud for skoleårets begyndelse, jf. § 23, stk. 1, skal fritidshjemmet, i perioden indtil undervisningspligten indtræder, enten arbejde med de kompetenceområder, der arbejdes med i børnehaveklassen, jf. folkeskolelovens § 11, stk. 2, eller temaerne i den pædagogiske læreplan, jf. § 8, stk. 4.
