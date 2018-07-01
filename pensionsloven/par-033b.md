@@ -1,6 +1,6 @@
 ## Supplerende arbejdsmarkedspension
 
-§ 33 b. Personer, der modtager førtidspension, kan betale bidrag til en supplerende arbejdsmarkedspension, jf. § 49, stk. 1, nr. 14.
+§ 33 b. Personer, der modtager førtidspension, kan betale bidrag til en supplerende arbejdsmarkedspension, jf. § 49, stk. 1, nr. 13.
 
 Stk. 2. Modtageren af førtidspension betaler 1/3 af bidraget efter stk. 1, mens 2/3 betales af staten.
 
