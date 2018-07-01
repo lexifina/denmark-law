@@ -2,4 +2,4 @@
 
 Stk. 2. Lager- og transmissionsselskaber offentliggør en gang om året deres kommercielle hovedvilkår for adgang til lagerfaciliteter, linepack og andre hjælpefunktioner. Inden fastsættelse af vilkårene høres lager- og transmissionsselskabernes brugere herom.
 
-Stk. 3. Energitilsynet fører tilsyn med, at udbudsprocedurer og hovedvilkår for adgang til lagerfaciliteter, linepack og andre hjælpefunktioner er baseret på objektive, gennemsigtige og ikkediskriminerende kriterier.
+Stk. 3. Forsyningstilsynet fører tilsyn med, at udbudsprocedurer og hovedvilkår for adgang til lagerfaciliteter, linepack og andre hjælpefunktioner er baseret på objektive, gennemsigtige og ikkediskriminerende kriterier.
