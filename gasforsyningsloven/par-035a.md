@@ -1,4 +1,4 @@
-## Kapitel 6a
+## Kapitel 6 a
 
 ## Levering af opgraderet biogas til naturgassystemet
 
@@ -20,6 +20,6 @@ Stk. 5. Distributions- og transmissionsselskaber har pligt til at give enhver, d
 
 3) en rimelig og vejledende tidsplan for nettilslutningen.
 
-Stk. 6. Afgørelser efter stk. 2 kan påklages til Energitilsynet. Klage skal være indgivet skriftligt, inden 4 uger efter at afgørelsen er meddelt. Klage indgives til distributions- eller transmissionsselskabet, der inden 4 uger efter modtagelsen videresender klagen til Energitilsynet med en udtalelse og de oplysninger, der har ligget til grund for afgørelsen.
+Stk. 6. Afgørelser efter stk. 2 kan påklages til Forsyningstilsynet. Klage skal være indgivet skriftligt, inden 4 uger efter at afgørelsen er meddelt. Klage indgives til distributions- eller transmissionsselskabet, der inden 4 uger efter modtagelsen videresender klagen til tilsynet med en udtalelse og de oplysninger, der har ligget til grund for afgørelsen.
 
 Stk. 7. Energi-, forsynings- og klimaministeren kan fastsætte nærmere regler om et opgraderingsanlægs tilslutning til naturgasforsyningsnettet, herunder nærmere regler om fordelingen af omkostninger ved nettilslutning og ved at være tilsluttet naturgasforsyningsnettet mellem ejeren af opgraderingsanlægget og distributions- eller transmissionsselskabet.
