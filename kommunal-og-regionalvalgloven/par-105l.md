@@ -1,0 +1,1 @@
+§ 105 l. Enhver vælger kan klage over afstemningen. Klager skal indgives skriftligt til kommunalbestyrelsen senest ugedagen efter afstemningen. Klager afgøres på et møde, der afholdes snarest efter klagefristens udløb.

@@ -1,0 +1,1 @@
+§ 105 c. Kommunalbestyrelsen bekendtgør senest 4 uger før dagen for folkeafstemningen på kommunens hjemmeside og i de stedlige dagblade eller lokalaviser en meddelelse om det eller de spørgsmål, der skal afholdes folkeafstemning om, jf. § 9 b, stk. 3, i lov om kommunernes styrelse, samt dag og tid for afstemningen.
