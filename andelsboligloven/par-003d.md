@@ -1,0 +1,1 @@
+§ 3 d. Krav om erstatning for rådgivning om lån og kreditter til en andelsboligforening, hvor rådgivningen er ydet af virksomheder omfattet af lov om finansiel virksomhed, advokater, godkendte revisorer, administratorer eller andre, der erhvervsmæssigt yder sådan rådgivning, forældes efter 6 år.

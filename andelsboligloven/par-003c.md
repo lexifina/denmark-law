@@ -1,0 +1,3 @@
+§ 3 c. Ved en andelsboligforenings erhvervelse af en ejendom i forbindelse med foreningens stiftelse kan andelsboligforeningen, for så vidt angår finansieringsaftaler, der ydes mod sikkerhed inden for 80 pct. af købesummen for ejendommen, kun indgå aftale om afdragsfrihed for op til 40 pct. af købesummen.
+
+Stk. 2. For så vidt angår lån eller kreditter, som i forbindelse med en andelsboligforenings stiftelse er etableret mod sikkerhed inden for 80 pct. af købesummen for ejendommen, og for hvilke der er aftalt afdrag, kan en andelsboligforening ikke før 3 år efter lånets udbetaling eller kredittens stiftelse indgå aftale om omlægning til en låneaftale med afdragsfrihed.
