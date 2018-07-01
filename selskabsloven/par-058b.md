@@ -1,0 +1,1 @@
+§ 58 b. Ved etablering af et kapitalselskab skal der senest samtidig med registreringen af selskabet, jf. § 9, stk. 1, indhentes og registreres oplysninger om selskabets reelle ejere, herunder oplysninger om de reelle ejeres rettigheder.

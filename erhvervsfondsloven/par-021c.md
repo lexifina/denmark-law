@@ -1,0 +1,1 @@
+§ 21 c. Ved etablering af en erhvervsdrivende fond skal der senest samtidig med registreringen af fonden, jf. § 12, indhentes og registreres oplysninger om fondens reelle ejere, herunder oplysninger om de reelle ejeres rettigheder, jf. § 21 a, stk. 1.
