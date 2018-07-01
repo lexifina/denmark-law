@@ -1,0 +1,1 @@
+§ 14 a. Indledes der rekonstruktionsbehandling eller konkursbehandling mod virksomheder eller enheder, der er eller har været under restrukturering eller afvikling af Finansiel Stabilitet, finder konkurslovens regler om omstødelse ikke anvendelse på afviklingsforanstaltninger, som er foretaget af Finansiel Stabilitet.
