@@ -1,0 +1,1 @@
+§ 105 o. Kommunalbestyrelsen bekendtgør resultatet af folkeafstemningen på kommunens hjemmeside og i de stedlige dagblade eller lokalaviser, når klagefristen er udløbet, jf. § 105 l, og kommunalbestyrelsen har truffet afgørelse vedrørende eventuelle klager over afstemningen.
