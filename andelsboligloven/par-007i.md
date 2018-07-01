@@ -1,0 +1,1 @@
+§ 7 i. På en andelsboligforenings generalforsamling må der ikke træffes beslutning, som åbenbart er egnet til at skaffe visse andelshavere eller andre en utilbørlig fordel på andre andelshaveres eller andelsboligforeningens bekostning. Tilsvarende gælder for beslutninger, der påfører en eller flere andelshavere en utilbørlig ulempe.
