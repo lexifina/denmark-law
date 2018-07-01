@@ -2,6 +2,6 @@
 
 Stk. 2. Det er en betingelse for at optjene venteprocent efter stk. 1, at det kan dokumenteres, at beskæftigelseskravet, jf. § 15 d, stk. 1 eller 3, og regler fastsat i medfør af § 15 d, stk. 5, er opfyldt. Er beskæftigelseskravet ikke opfyldt, indgår denne periode ikke ved opgørelsen af venteprocenten.
 
-Stk. 3. Venteprocenten opgøres efter § 15 e, stk. 1, 2. og 3. pkt.
+Stk. 3. Venteprocenten opgøres efter § 15 e, stk. 1, 2.-4. pkt.
 
 Stk. 4. Tillægget udbetales og beregnes efter § 15 f.
