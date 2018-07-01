@@ -4,7 +4,7 @@ Stk. 2. Stk. 1 finder ikke anvendelse, hvis udlændingen godtgør, at overskride
 
 Stk. 3. En udlænding kan ikke få visum efter § 4, stk. 1, i 5 år, hvis udlændingen efter indrejsen
 
-1) udvises efter kapitel 4,
+1) udvises efter reglerne i kapitel 4,
 
 2) indgiver ansøgning om asyl her i landet eller i et andet Schengenland, jf. dog stk. 6, eller
 
@@ -20,13 +20,15 @@ Stk. 4. Stk. 3, nr. 3, finder ikke anvendelse, hvis
 
 4) udlændingen ansøger om opholdstilladelse efter § 9 c, stk. 4,
 
-5) udlændingen ansøger om opholdstilladelse efter § 9 a, stk. 2, nr. 1-10 eller 12, eller stk. 3,
+5) udlændingen ansøger om opholdstilladelse efter § 9 a, stk. 2, nr. 1-11, eller stk. 3,
 
 6) udlændingen ansøger om opholdstilladelse efter § 9 p, stk. 1, 1. pkt.,
 
-7) udlændingen efter indgivelsen af ansøgningen om opholdstilladelse udrejser af Schengenlandene i overensstemmelse med det udstedte visums gyldighed eller
+7) udlændingen ansøger om opholdstilladelse efter § 9 q, stk. 1, 2 eller 3,
 
-8) hensyn af humanitær karakter afgørende taler derimod.
+8) udlændingen efter indgivelsen af ansøgningen om opholdstilladelse udrejser af Schengenlandene i overensstemmelse med det udstedte visums gyldighed eller
+
+9) hensyn af humanitær karakter afgørende taler derimod.
 
 Stk. 5. Stk. 4 finder ikke anvendelse, hvis der er bestemte grunde til at antage, at det afgørende formål med ansøgningen er at forlænge opholdet her i landet, og det er åbenbart, at ansøgningen ikke kan føre til meddelelse af opholdstilladelse.
 
