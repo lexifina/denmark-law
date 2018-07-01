@@ -1,0 +1,1 @@
+§ 27 a. For boliger, som ville være omfattet af ejendomsværdiskatteloven, hvis boligen var beboet af ejeren, ansættes på anmodning fra ejeren en særskilt ejendomsværdi, når betingelserne i ligningslovens § 12 A er opfyldt. Ansættelse efter 1. pkt. foretages, som hvis boligen var beboet af ejeren.
