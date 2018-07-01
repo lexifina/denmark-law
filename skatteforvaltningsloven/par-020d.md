@@ -1,0 +1,1 @@
+§ 20 d. Partsinddragelse og anden kommunikation, der sendes af told- og skatteforvaltningen ved almindelig vurdering og omvurdering af en fast ejendom, sendes alene til de registrerede aktuelle ejere af den pågældende ejendom, medmindre told- og skatteforvaltningen har andet særligt kendskab til, at andre har partsstatus i den pågældende vurdering.
