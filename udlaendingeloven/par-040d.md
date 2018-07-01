@@ -1,4 +1,4 @@
-§ 40 d. I forbindelse med at en udlænding skal aflægge de prøver, der er nævnt i § 9, stk. 30 og 32, kan prøveafholder uden udlændingens samtykke fra Udlændinge- og Integrationsministeriets personregister over udlændinge indhente oplysninger om udlændingens
+§ 40 d. I forbindelse med at en udlænding skal aflægge de prøver, der er nævnt i § 9, stk. 34 og 35, kan prøveafholder uden udlændingens samtykke fra Udlændinge- og Integrationsministeriets personregister over udlændinge indhente oplysninger om udlændingens
 
 1) navn,
 
