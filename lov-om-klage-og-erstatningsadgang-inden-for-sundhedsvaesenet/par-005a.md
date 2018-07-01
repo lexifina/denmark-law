@@ -1,4 +1,4 @@
-§ 5 a. Udbetaling Danmarks afgørelser kan påklages til Styrelsen for Patientsikkerhed, når de vedrører
+§ 5 a. Udbetaling Danmarks afgørelser kan påklages til Styrelsen for Patientklager, når de vedrører
 
 1) udstedelse af et særligt sundhedskort efter § 12 a, stk. 3, i sundhedsloven og regler fastsat i medfør heraf,
 

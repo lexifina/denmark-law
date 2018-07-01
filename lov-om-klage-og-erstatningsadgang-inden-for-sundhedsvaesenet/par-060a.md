@@ -1,1 +1,1 @@
-§ 60 a. Anmeldelser af erstatningskrav efter kapitel 3 og 4, der sendes til Styrelsen for Patientsikkerhed, anses for indgivet til rette myndighed, jf. §§ 59 og 60, på det tidspunkt, hvor de modtages af Styrelsen for Patientsikkerhed. Anmeldelserne videresendes straks til rette myndighed.
+§ 60 a. Anmeldelser af erstatningskrav efter kapitel 3 og 4, der sendes til Styrelsen for Patientklager, anses for indgivet til rette myndighed, jf. §§ 59 og 60, på det tidspunkt, hvor de modtages af Styrelsen for Patientklager. Anmeldelserne videresendes straks til rette myndighed.
