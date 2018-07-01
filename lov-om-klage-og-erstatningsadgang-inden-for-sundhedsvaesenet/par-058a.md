@@ -4,7 +4,7 @@
 
 § 58 a. Sundhedsministeren nedsætter et ankenævn for Patienterstatningen, der består af 1 formand og et af sundhedsministeren fastsat antal næstformænd og beskikkede medlemmer.
 
-Stk. 2. Formanden og næstformændene, der udnævnes af sundhedsministeren, skal være dommere. Nævnets øvrige medlemmer udpeges af Sundhedsstyrelsen, regionsrådene i forening, KL, Forsikring & Pension, Advokatrådet, Forbrugerrådet Tænk, Danske Handicaporganisationer og Danske Patienter.
+Stk. 2. Formanden og næstformændene udnævnes af sundhedsministeren. Formanden og mindst 3 næstformænd skal være landsdommere. De øvrige næstformænd skal være dommere. Nævnets øvrige medlemmer udpeges af Sundhedsstyrelsen, regionsrådene i forening, KL, Forsikring & Pension, Advokatrådet, Forbrugerrådet Tænk, Danske Handicaporganisationer og Danske Patienter.
 
 Stk. 3. Sundhedsstyrelsen udpeger for de faglige områder, hvor det findes nødvendigt for sagernes behandling, et antal sagkyndige medlemmer, der alle er fagligt uddannede.
 
@@ -38,6 +38,6 @@ Stk. 8. Nævnets medlemmer udpeges for 4 år. Finder udpegningen sted i løbet a
 
 Stk. 9. Sundhedsministeren fastsætter efter forhandling med nævnet dettes forretningsorden.
 
-Stk. 10. Styrelsen for Patientsikkerhed stiller sekretariatsbistand til rådighed for nævnet.
+Stk. 10. Styrelsen for Patientklager stiller sekretariatsbistand til rådighed for nævnet.
 
 Stk. 11. § 18 finder tilsvarende anvendelse for afholdelsen af udgifter til drift af nævnet.
