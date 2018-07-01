@@ -9,3 +9,5 @@ Stk. 2. Udlændinge- og integrationsministeren kan i særlige tilfælde beslutte
 Stk. 3. Udlændinge- og integrationsministeren kan i særlige tilfælde bestemme, at byggeloven ikke finder anvendelse ved brug af eksisterende bygninger og transportable konstruktioner til indkvarteringssteder, jf. denne lovs § 42 a, stk. 5, eller faciliteter til brug for frihedsberøvelse i medfør af denne lovs § 36.
 
 Stk. 4. En bygning m.v., som omfattes af en beslutning efter stk. 3, skal frembyde tilfredsstillende tryghed i brand- og sikkerhedsmæssig henseende.
+
+Stk. 5. Etableres der i medfør af denne paragraf indkvarteringssteder eller faciliteter til brug for frihedsberøvelse på et støjbelastet areal, skal der snarest muligt etableres passende afskærmningsforanstaltninger.
