@@ -17,3 +17,5 @@
 9) Lovændringen vedrører indsættelse af § 5a.
 
 10) Ved kongelig resolution af 28. november 2016 er betegnelsen Erhvervs- og Vækstministeriet ændret til Erhvervsministeriet, jf. bekendtgørelse nr. 1777 af 23. december 2016.
+
+11) Lovændringen vedrører indsættelse af stk. 4 i § 6.
