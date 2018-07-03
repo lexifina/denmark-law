@@ -129,3 +129,9 @@ Lov nr. 1552 af 19. december 2017 (Uddannelseskrav og offentliggørelse af kontr
 Stk. 1. Loven træder i kraft den 15. januar 2018.
 
 Stk. 2. Regler udstedt i medfør af § 3 a i lov om hold af dyr, jf. lovbekendtgørelse nr. 925 af 3. juli 2017, bevarer deres gyldighed, indtil de ophæves eller afløses af nye regler. Overtrædelse af reglerne straffes efter de hidtil gældende regler.
+
+Lov nr. 721 af 8. juni 2018 (Strafskærpelse som led i indsatsen mod afrikansk svinepest) indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 4
+
+Loven træder i kraft den 1. juli 2018.
