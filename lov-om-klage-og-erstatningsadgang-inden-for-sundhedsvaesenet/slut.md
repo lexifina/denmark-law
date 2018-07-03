@@ -1,5 +1,5 @@
-Sundheds- og Ældreministeriet, den 28. august 2017
+Sundheds- og Ældreministeriet, den 14. juni 2018
 
 Ellen Trane Nørby
 
-/ Trine Berner Madsen
+/ Cecilie Salejärvi Pedersen
