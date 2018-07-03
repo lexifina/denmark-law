@@ -35,3 +35,5 @@
 18) Lovændringen vedrører indsættelse af § 3 b og § 66, stk. 5 og 6, og ophævelse af § 66 a i kapitel 13.
 
 19) Lovændringen vedrører ændring af § 3 a.
+
+20) Lovændringen vedrører indsættelse af nyt stykke 5 i § 70 og ændring af § 72, stk. 3.
