@@ -1,17 +1,3 @@
-Lov nr. 575 af 18. juni 2012 (Fremme af konkurrencen på elmarkedet m.v.), hvis § 3 angår § 2, stk. 4, og § 4, stk. 1, 2. pkt., indeholder følgende ikrafttrædelsesbestemmelse:
-
-§ 4
-
-Stk. 1. Loven træder i kraft den 1. juli 2012, jf. dog stk. 2.
-
-Stk. 2 og 3. (Udelades)
-
-§ 5
-
-Stk. 1. Nedenstående bestemmelser finder anvendelse indtil den 1. oktober 2014.
-
-Stk. 2-9. (Udelades)
-
 Lov nr. 576 af 18. juni 2012 (Støtte til vindmøller på land, biogas og eksisterende industrielle kraftvarmeværker samt forlængelse af puljen til nye VE-teknologier m.v.), hvis § 4 angår § 2, stk. 2, 2. pkt., indeholder følgende ikrafttrædelsesbestemmelse:
 
 § 5
@@ -19,20 +5,6 @@ Lov nr. 576 af 18. juni 2012 (Støtte til vindmøller på land, biogas og eksist
 Stk. 1. Klima-, energi- og bygningsministeren fastsætter tidspunktet for lovens ikrafttræden. Ministeren kan herunder fastsætte, at dele af loven træder i kraft på forskellige tidspunkter.
 
 Stk. 2 og 3. (Udelades)
-
-Lov nr. 633 af 16. juni 2014 (Ophævelse af forsyningspligten, indførelse af leveringspligt, udskydelse af engrosmodellen, naturgasselskabers anvendelse af økonomiske kompensationer, Energinet.dk’s fusion med datterselskaber m.v.), hvis § 3 angår § 2, stk. 2, 4. pkt., og stk. 4, og § 4, stk. 6, 2. og 3. pkt., indeholder følgende ikrafttrædelsesbestemmelse:
-
-§ 5
-
-Stk. 1. Loven træder i kraft den 30. juni 2014, jf. dog stk. 2-4.
-
-Stk. 2-4. (Udelades)
-
-Lov nr. 1283 af 24. november 2015 (Støtte til eksisterende naturgasfyrede industrielle kraft-varme-værker m.v.), hvis § 2 angår § 2, stk. 2, 2. pkt., indeholder følgende ikrafttrædelsesbestemmelse:
-
-§ 5
-
-Loven træder i kraft dagen efter bekendtgørelsen i Lovtidende.
 
 Lov nr. 261 af 16. marts 2016 om pilotudbud af pristillæg for elektricitet fremstillet på solcelleanlæg, hvis § 9 angår § 2, stk. 2, 2. pkt., indeholder følgende ikrafttrædelsesbestemmelse:
 
@@ -65,3 +37,11 @@ Lov nr. 1667 af 26. december 2017 (Overførsel af opgaver fra Energinet til ener
 Stk. 1. Loven træder i kraft den 1. januar 2018, jf. dog stk. 2.
 
 Stk. 2-8. (Udelades)
+
+Lov nr. 504 af 23. maj 2018 (Afholdelse af udbud af pristillæg, særordning for forsøgsmøller og overgangsordning for landmøller samt udvidelse af værditabsordningen, køberetsordningen og garantifonden for visse solcelleanlæg m.v.), hvis § 3 angår § 2, stk. 2, 2. pkt., indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 4
+
+Stk. 1. Loven træder i kraft den 1. juli 2018, jf. dog stk. 2.
+
+Stk. 2 og 3. (Udelades)
