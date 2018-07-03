@@ -80,7 +80,7 @@ Lov nr. 1882 af 29. december 2015 (Ændret finansiering af kontrolkampagner og k
 
 § 2
 
-Stk. Loven træder i kraft den 1. januar 2016.
+Stk. 1. Loven træder i kraft den 1. januar 2016.
 
 Stk. 2. § 1, nr. 2, har virkning fra den 1. januar 2015.
 
@@ -99,3 +99,15 @@ Stk. 5. Regler, der er fastsat i henhold til hidtil gældende regler, forbliver 
 Stk. 6. Verserende klagesager i Natur- og Miljøklagenævnet eller Klagecenter for Fødevarer, Landbrug og Fiskeri, der ikke er færdigbehandlet ved denne lovs krafttræden, færdigbehandles og afgøres af Miljø- og Fødevareklagenævnet efter reglerne i denne lov. Dette gælder dog ikke verserende klagesager ved Natur- og Miljøklagenævnet, som ved lovens ikrafttræden skal færdigbehandles og afgøres af Planklagenævnet, jf. § 1 i lov om Planklagenævnet.
 
 Stk. 7. (Udelades)
+
+Lov nr. 465 af 14. maj 2018 (Strafskærpelse, administrative tvangsbøder og virksomhedskarantæne) indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 2
+
+Loven træder i kraft den 1. juli 2018.
+
+Lov nr. 721 af 8. juni 2018 (Strafskærpelse som led i indsatsen mod afrikansk svinepest) indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 4
+
+Loven træder i kraft den 1. juli 2018.
