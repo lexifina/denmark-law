@@ -1,4 +1,4 @@
-Energistyrelsen, den 20. februar 2018
+Energistyrelsen, den 27. juni 2018
 
 Martin Hansen
 

@@ -1,6 +1,6 @@
 1) Loven indeholder bestemmelser, der gennemfører dele af Europa-Parlamentets og Rådets direktiv 2009/147/EF af 30. november 2009, EU-Tidende 2010, nr. L 20, side 7, dele af Europa-Parlamentets og Rådets direktiv 2009/73/EF af 13. juli 2009, EU-Tidende 2009, nr. L 211, side 94, dele af Europa-Parlamentets og Rådets direktiv 2009/72/EF af 13. juli 2009, EU-Tidende 2009, nr. L 211, side 55, dele af Europa-Parlamentets og Rådets direktiv 2009/28/EF af 23. april 2009, EU-Tidende 2009, nr. L 140, side 16, dele af Europa-Parlamentets og Rådets direktiv 2008/99/EF af 19. november 2008, EU-Tidende 2008, nr. L 328, side 28, dele af Europa-Parlamentets og Rådets direktiv 2005/89/EF af 18. januar 2006, EU Tidende 2006, nr. L 33, side 22 og dele af Rådets direktiv 92/43/EØF af 21. maj 1992, EF-Tidende 1992, nr. L 206, side 7, som ændret senest ved Rådets direktiv 2006/105/EF af 20. november 2006, EU-Tidende 2006, nr. L 363, side 368.
 
-2) Energi-, forsynings- og klimaministeren har i medfør af § 1, stk. 3, i lov om Energinet.dk, jf. lovbekendtgørelse nr. 1097 af 8. november 2011 besluttet at ændre navnet fra Energinet.dk til Energinet, jf. bemærkningerne til § 4 i lov nr. 1667 af 26. december 2017. Af lovtekniske grunde ændres navnet således de relevante steder i lovbekendtgørelsen.
+2) Energi-, forsynings- og klimaministeren har i medfør af § 1, stk. 3, i lov om Energinet.dk, jf. lovbekendtgørelse nr. 1097 af 8. november 2011 besluttet at ændre navnet fra Energinet.dk til Energinet, jf. bemærkningerne til § 4 i lov nr. 1667 af 26. december 2017. Af lovtekniske grunde er navnet således ændret de relevante steder i lovbekendtgørelsen.
 
 3) Ved kongelig resolution af 28. juni 2015 blev ressortansvaret for Energiklagenævnet overført fra Energi-, Forsynings- og Klimaministeriet til Miljøministeriet. Energiklagenævnet er herefter ved kongelig resolution af 8. juni 2016 blevet ressortoverført til Erhvervsministeriet pr. 1. januar 2017.
 
@@ -10,6 +10,4 @@
 
 6) § 4 i lov nr. 576 af 18. juni 2012 er trådt i kraft den 1. december 2013, jf. bekendtgørelse nr. 1319 af 22. november 2013.
 
-7) § 2 i lov nr. 1283 af 24. november 2015 er bekendtgjort den 25. november 2015 i Lovtidende A og trådt i kraft den 26. november 2015.
-
-8) § 9 i lov nr. 261 af 16. marts 2016 er trådt i kraft den 11. oktober 2016, jf. bekendtgørelse nr. 1232 af 10. oktober 2016.
+7) § 9 i lov nr. 261 af 16. marts 2016 er trådt i kraft den 11. oktober 2016, jf. bekendtgørelse nr. 1232 af 10. oktober 2016.
