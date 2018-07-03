@@ -28,6 +28,10 @@
 
 14) § 1, nr. 2 i lov nr. 1882 af 29. december 2015 vedrører ændringen af § 45, stk. 5.
 
-15) Lovændringen vedrører indsættele af § 58 a.
+15) Lovændringen vedrører indsættelse af § 58 a.
 
 16) Ved kongelig resoulution af 28. november 2016 er betegnelsen Erhvervs- og Vækstministeriet ændret til Erhvervsministeriet, jf. bekendtgørelse nr. 1777 af 23. december 2016.
+
+17) Lovændringen vedrører indsættelse af § 52, stk. 4, hvorefter stk. 4-6, bliver stk. 5-7, § 52 b, henvisning til § 52 b, stk. 1 og 2, i § 60, stk. 1, nr. 2, og indsættelse af § 60, stk. 6.
+
+18) Lovændringen vedrører indsættelse af § 60, stk. 7.
