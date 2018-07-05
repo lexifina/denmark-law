@@ -1,3 +1,5 @@
 Bekendtgørelse af lov om afgift af chokolade- og sukkervarer m.m. (chokoladeafgiftsloven)
 
-Herved bekendtgøres lov om afgift af chokolade og sukkervarer m.m. (chokoladeafgiftsloven), jf. lovbekendtgørelse nr. 752 af 10. juni 2013, med de ændringer, der følger af § 2 i lov nr. 1634 af 26. december 2013, § 4 i lov nr. 554 af 2. juni 2014 og § 5 i lov nr. 1532 af 27. december 2014.
+Herved bekendtgøres lov om afgift af chokolade- og sukkervarer m.m. (chokoladeafgiftsloven), jf. lovbekendtgørelse nr. 1163 af 5. september 2016, med de ændringer, der følger af § 1 i lov nr. 1554 af 13. december 2016 og § 1, nr. 1-3, 5, 7-9, 12-19, 22 og 25 i lov nr. 1686 af 26. december 2017.
+
+De ændringer, der følger af § 1, nr. 4, 6, 10, 11, 20, 21, 23, 24 og 26-28, i lov nr. 1686 af 26. december 2017 om ændring af chokoladeafgiftsloven, lov om forskellige forbrugsafgifter, kildeskatteloven, lov om afgift af konsum-is, spiritusafgiftsloven og øl- og vinafgiftsloven (Annullering af indeksering af en række punktafgifter, nedsættelse og efterfølgende afskaffelse af råstofafgiften, afskaffelse af afgiften på te og tillægsafgiften på alkoholsodavand og ændringer af forskerskatteordningen), er ikke indarbejdet i denne lovbekendtgørelse, da de træder i kraft den 1. januar 2020, jf. § 7, stk. 2, i lov nr. 1686 af 26. december 2017.
