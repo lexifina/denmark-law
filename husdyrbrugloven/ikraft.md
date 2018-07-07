@@ -1,4 +1,4 @@
-Lov nr. 507 af 17. juni 2008 om ændring af lov om miljøbeskyttelse og forskellige andre love indeholder følgende ikrafttrædelsesbestemmelse:
+Lov nr. 507 af 17. juni 2008 (Implementering af miljøansvarsdirektivet) indeholder følgende ikrafttrædelsesbestemmelse:
 
 § 15
 
@@ -10,13 +10,13 @@ Stk. 3. (Udelades)
 
 Stk. 4. (Udelades)
 
-Lov nr. 508 af 17. juni 2008 om ændring af lov om naturbeskyttelse, lov om jagt og vildtforvaltning og forskellige andre love indeholder følgende ikrafttrædelsesbestemmelse:
+Lov nr. 508 af 17. juni 2008 (Gennemførelse af direktiver om naturbeskyttelse) indeholder følgende ikrafttrædelsesbestemmelse:
 
 § 16
 
 Loven træder i kraft den 1. juli 2008.
 
-Lov nr. 1336 af 19. december 2008 om ændring af kildeskatteloven, opkrævningsloven, udpantningsloven og forskellige andre love indeholder følgende ikrafttrædelsesbestemmelse:
+Lov nr. 1336 af 19. december 2008 (Konsekvensændringer som følge af lov om inddragelse af gæld til det offentlige) indeholder følgende ikrafttrædelsesbestemmelse:
 
 § 167
 
@@ -49,14 +49,6 @@ Lov nr. 122 af 23. februar 2011 (Ændring af reglerne om udledning af ammoniak o
 Stk. 1. Loven træder i kraft den 15. marts 2011.
 
 Stk. 2. Ansøgninger, der er modtaget før den 15. marts 2011, behandles efter de hidtil gældende regler.
-
-Lov nr. 341 af 27. april 2011 (Obligatorisk digital kommunikation mellem virksomheder og det offentlige, skattefritagelse af Fornyelsesfondens garantiordning m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
-
-§ 18
-
-Stk. 1. Loven træder i kraft den 1. maj 2011, jf. dog stk. 2.
-
-Stk. 2. Miljøministeren fastsætter tidspunktet for ikrafttræden af § 15, nr. 1.
 
 Lov nr. 1273 af 21. december 2011 (Digital annoncering, obligatorisk digital kommunikation, afskæring af klageadgang) indeholder følgende ikrafttrædelsesbestemmelse:
 
@@ -92,7 +84,7 @@ Lov nr. 86 af 28. januar 2014 (Obligatorisk digital selvbetjening ved indgivelse
 
 Stk. 1. Loven træder i kraft den 1. februar 2014, jf. dog stk. 2.
 
-Stk. 2. Miljøministeren fastsætter tidspunktet for ikrafttræden af §§ 1-6, § 7, nr.- 2 og 3, og §§ 8-25.
+Stk. 2. Miljøministeren fastsætter tidspunktet for ikrafttræden af §§ 1-6, § 7, nr. 2 og 3, og §§ 8-25.
 
 Stk. 3. Loven finder ikke anvendelse for klager over afgørelser, der træffes, før loven træder i kraft. For sådanne klager finder de hidtidige regler anvendelse.
 
@@ -152,7 +144,7 @@ Stk. 8. Påbud og forbud efter kapitel 4 i lov om miljøgodkendelse m.v. af husd
 
 Stk. 9. Sager om tilladelse eller godkendelse efter §§ 10-12 i lov om miljøgodkendelse m.v. af husdyrbrug, der ikke er færdigbehandlet i 1. instans den 1. august 2017, færdigbehandles efter de hidtil gældende regler, jf. dog stk. 10.
 
-Stk. 10. I verserende sager i 1. instans om tilladelse eller godkendelse efter §§ 10-12 i lov om miljøgodkendelse m.v. af husdyrbrug, der ikke er færdigbehandlet den 2. marts 2017, fastsætter kommunalbestyrelsen ikke vilkår, der ved-rører husdyrbrugets udbringningsarealer. Tilsvarende gælder for sager i 1. instans om tilladelse eller godkendelse efter §§ 10-12 i lov om miljøgodkendelse m.v. af husdyrbrug, som kommunalbestyrelsen modtager fra den 2. marts til den 31. juli 2017.
+Stk. 10. I verserende sager i 1. instans om tilladelse eller godkendelse efter §§ 10-12 i lov om miljøgodkendelse m.v. af husdyrbrug, der ikke er færdigbehandlet den 2. marts 2017, fastsætter kommunalbestyrelsen ikke vilkår, der vedrører husdyrbrugets udbringningsarealer. Tilsvarende gælder for sager i 1. instans om tilladelse eller godkendelse efter §§ 10-12 i lov om miljøgodkendelse m.v. af husdyrbrug, som kommunalbestyrelsen modtager fra den 2. marts til den 31. juli 2017.
 
 Stk. 11. Verserende sager i 1. instans om ansøgning om godkendelse efter § 16 i lov om miljøgodkendelse m.v. af husdyrbrug bortfalder den 2. marts 2017. Tilsvarende gælder for sager i 1. instans om godkendelse efter § 16 i lov om miljøgodkendelse m.v. af husdyrbrug, som kommunalbestyrelsen modtager fra den 2. marts til den 31. juli 2017.
 
@@ -175,5 +167,45 @@ Stk. 1. Regler fastsat i medfør af § 7, stk. 1, nr. 12, i lov om miljøbeskytt
 Stk. 2. Vilkår fastsat for udbringningsarealer i godkendelser efter § 33 i lov om miljøbeskyttelse bortfalder den 1. august 2017.
 
 § 12
+
+Loven gælder ikke for Færøerne og Grønland.
+
+Lov nr. 427 af 18. maj 2016 (Konsekvensændringer m.v. som følge af lov om miljøvurdering af planer og programmer og af konkrete projekter (VVM)) indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 10
+
+Stk. 1 Loven træder i kraft den 16. maj 2017, jf. stk. 2.
+
+Stk. 2 (Udeladt)
+
+Stk. 3 (Udeladt)
+
+Stk. 4 (Udeladt)
+
+Stk. 5 (Udeladt)
+
+Stk. 6 (Udeladt)
+
+Stk. 7 (Udeladt)
+
+Stk. 8 (Udeladt)
+
+Stk. 9 (Udeladt)
+
+Lov nr. 497 af 22. maj 2018 (Målrettet kvælstofregulering m.v.) indeholder følgende ikrafttrædelsesbestemmelser:
+
+§ 5
+
+Stk. 1 (Udeladt)
+
+Stk. 2 § 1, nr. 2, 5-11 og 14, § 2, nr. 1-5 og 7-12, og § 4 træder i kraft den 1. juli 2018.
+
+Stk. 3 (Udeladt)
+
+Stk. 4 § 2, nr. 6, træder i kraft den 1. august 2019.
+
+Stk. 5 (Udeladt)
+
+§ 6
 
 Loven gælder ikke for Færøerne og Grønland.
