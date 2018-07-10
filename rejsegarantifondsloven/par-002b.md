@@ -1,0 +1,7 @@
+§ 2 b. Ved et sammensat rejsearrangement forstås i denne lov to eller flere forskellige typer rejseydelser, jf. § 2 c, nr. 1, som skal indgå i den samme rejse, og som ikke udgør en pakkerejse, og om hvilke der indgås særskilte aftaler med hver leverandør, hvis en erhvervsdrivende
+
+1) formidler, at den rejsende særskilt udvælger og betaler for hver rejseydelse under en enkelt kontakt med dennes salgssted, eller
+
+2) på målrettet vis formidler køb af mindst én yderligere rejseydelse fra en anden erhvervsdrivende, når aftalen med en sådan anden erhvervsdrivende indgås senest 24 timer efter bekræftelsen af bestillingen af den første rejseydelse.
+
+Stk. 2. En kombination som nævnt i stk. 1, der består af én rejseydelse, jf. § 2 c, nr. 1, litra a-c, og en eller flere turistydelser, jf. § 2 c, nr. 1, litra d, er kun et sammensat rejsearrangement, hvis turistydelserne udgør en væsentlig andel af kombinationens værdi eller annonceres som eller på anden måde udgør en væsentlig bestanddel af kombinationen.

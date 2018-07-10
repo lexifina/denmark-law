@@ -1,5 +1,7 @@
-§ 9 a. Rejseudbydere og formidlere for udenlandske rejseudbydere af rejseydelser omfattet af § 2, stk. 1, nr. 1-3, skal betale et administrationsbidrag til pakkerejsefondskassen til finansiering af pakkerejsefondskassens og ankenævnets driftsudgifter. Bidragets størrelse fastsættes af Rejsegarantifondens bestyrelse og godkendes af erhvervs- og vækstministeren.
+§ 9 a. Rejseudbydere og formidlere for udenlandske rejsearrangører, jf. § 20, skal betale et administrationsbidrag til fondskassen for pakkerejser og sammensatte rejsearrangementer til finansiering af fondskassens og rejseankenævnets driftsudgifter. Administrationsbidraget består af et fast grundbidrag og et omsætningsafhængigt bidrag. Bidragets størrelse fastsættes af Rejsegarantifondens bestyrelse og godkendes af erhvervsministeren.
 
-Stk. 2. Rejsegarantifondens bestyrelse kan fastsætte, at rejseudbydere og formidlere for en udenlandsk rejseudbyder af de i § 2, stk. 1, nr. 1-3, nævnte rejseydelser, skal betale et bidrag til pakkerejsefondskassen pr. deltager i en rejseydelse, der er omfattet af pakkerejsefondskassens dækning, jf. § 5. Bidragets størrelse fastsættes af Rejsegarantifondens bestyrelse og godkendes af erhvervs- og vækstministeren.
+Stk. 2. Ved registrering i fonden betales et registreringsbidrag. Bidragets størrelse fastsættes af fondens bestyrelse og godkendes af erhvervsministeren.
 
-Stk. 3. Pakkerejsefondskassens formue fastsættes af fondens bestyrelse og godkendes af erhvervs- og vækstministeren.
+Stk. 3. Fondens bestyrelse kan fastsætte, at rejseudbydere og formidlere for udenlandske rejsearrangører skal betale et formueopbyggende bidrag. Bidraget størrelse fastsættes af fondens bestyrelse i forhold til rejseudbyderens eller formidleren for en udenlandsk rejseudbyders omsætning. Fastsættelsen af bidragets størrelse godkendes af erhvervsministeren
+
+Stk. 4. Pakkerejsefondskassens formue fastsættes af fondens bestyrelse og godkendes af erhvervsministeren.
