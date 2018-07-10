@@ -1,5 +1,5 @@
-Erhvervs- og Vækstministeriet, den 3. september 2015
+Erhvervsministeriet, den 3. juli 2018
 
-Troels Lund Poulsen
+Rasmus Jarlov
 
-/ Agnete Gersing
+/ Jakob Hald
