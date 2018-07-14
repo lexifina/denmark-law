@@ -1,5 +1,5 @@
-Ministeriet for Flygtninge, Indvandrere og Integration, den 7. juni 2004
+Udlændinge- og Integrationsministeriet, den 10. juli 2018
 
-Bertel Haarder
+Inger Støjberg
 
-/Oluf Engberg
+/ Morten Duus
