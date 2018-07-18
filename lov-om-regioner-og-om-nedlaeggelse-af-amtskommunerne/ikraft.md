@@ -1,4 +1,4 @@
-Lov nr. 176 af 21. februar 2017 om ændring af lov om kommunernes styrelse og regionsloven (Overførsel af det kommunale og regionale tilsyn til Ankestyrelsen, befordringsgodtgørelse til kommunalbestyrelsesmedlemmer ved foretagelse af borgerlige vielser og målretning af Ankestyrelsens udvælgelse af tilsynssager m.v.) indeholder følgende ikrafttrædelses- og overgangsbestemmelser:
+Lov nr. 176 af 21. februar 2017 om ændring af lov om kommunernes styrelse og regionsloven (Overførsel af det kommunale og regionale tilsyn til Ankestyrelsen, befordringsgodtgørelse til kommunalbestyrelsesmedlemmer ved foretagelse af borgerlige vielser og målretning af Ankestyrelsens udvælgelse af tilsynssager m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
 
 § 3
 
@@ -12,8 +12,10 @@ Stk. 4. Sager i Statsforvaltningen vedrørende det kommunale og regionale tilsyn
 
 Stk. 5. Økonomi- og indenrigsministeren kan efter lovens ikrafttræden også udøve de beføjelser, der er fastsat i kapitel VII i lov om kommunernes styrelse og i regionsloven som ændret ved denne lov, i forhold til Statsforvaltningens dispositioner eller undladelser, der har fundet sted før lovens krafttræden. De nævnte beføjelser kan i givet fald udøves over for Ankestyrelsen, jf. § 47 i lov om kommunernes styrelse som ændret ved denne lovs § 1, nr. 1.
 
-Lov nr. 1571 af 19. december 2017 om ændring af lov om kommunernes styrelse og regionsloven (Beskyttelse af kommunalbestyrelses- og regionsrådsmedlemmers behandling af oplysninger som led i varetagelsen af deres hverv) indeholder følgende ikrafttrædelsesbestemmelse:
+Lov nr. 748 af 8. juni 2018 om ændring af lov om kommunernes styrelse, lov om kommunale og regionale valg og regionsloven (Bindende kommunale folkeafstemninger) indeholder følgende ikrafttrædelsesbestemmelse:
 
-§ 3
+§ 4
 
-Loven træder i kraft den 1. januar 2018.
+Stk. 1. Loven træder i kraft den 1. juli 2018.
+
+Stk. 2-6. (Udelades)
