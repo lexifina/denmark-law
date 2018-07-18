@@ -34,7 +34,7 @@ Lov nr. 175 af 21. februar 2017 om ændring af lov om valg til Folketinget, lov 
 
 Loven træder i kraft den 1. juli 2017.
 
-Lov nr. 713 af 8. juni 2017 om ændring af lov om kommunale og regionale valg og lov om valg af danske medlemmer til Europa-Parlamentet (Afskaffelse af valgret for udlændinge på tålt ophold, udvisningsdømte udlændinge og administrativt udviste udlændinge m.v.) indeholder følgende ikrafttrædelses- og overgangsbestemmelse:
+Lov nr. 713 af 8. juni 2017 om ændring af lov om kommunale og regionale valg og lov om valg af danske medlemmer til Europa-Parlamentet (Afskaffelse af valgret for udlændinge på tålt ophold, udvisningsdømte udlændinge og administrativt udviste udlændinge m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
 
 § 3
 
@@ -63,3 +63,27 @@ Stk. 5. Vederlag, der er modtaget før lovens ikrafttræden, skal ikke tilbagebe
 Stk. 6. Har Valgbarhedsnævnet forud for lovens ikrafttræden truffet afgørelse om, at et medlem af en kommunalbestyrelse henholdsvis et regionsråd ikke er valgbart på grund af straf, kan det pågældende medlem fremsætte skriftlig begæring om, at spørgsmålet om fortabelse af valgbarhed på grund af straf bedømmes på ny efter denne lov. Begæring herom skal indgives til borgmesteren henholdsvis regionsrådsformanden senest den 1. maj 2018. Begæringen skal vedlægges dokumentation for Valgbarhedsnævnets afgørelse og den idømte eller vedtagne straf. Borgmesteren henholdsvis regionsrådsformanden skal efter modtagelsen af den begæring, der er nævnt i 1. pkt., give skriftlig meddelelse til medlemmet og de øvrige medlemmer af kommunalbestyrelsen henholdsvis regionsrådet om, hvorvidt medlemmet efter denne lov ikke er valgbart. Er medlemmet også efter denne lov ikke valgbart, kan medlemmet genindtræde efter § 101, stk. 5 eller 6, i lov om kommunale og regionale valg som affattet ved denne lov. Borgmesteren henholdsvis regionsrådsformanden skal skriftligt underrette medlemmet om muligheden for at genindtræde efter 5. pkt.
 
 Stk. 7. Borgmesteren henholdsvis regionsrådsformanden skal senest den 1. maj 2018 skriftligt orientere medlemmerne af kommunalbestyrelsen henholdsvis regionsrådet om medlemmernes pligter efter § 101, stk. 2, i lov om kommunale og regionale valg som affattet ved denne lov.
+
+Lov nr. 503 af 23. maj 2018 om ændring af lov om retshåndhævende myndigheders behandling af personoplysninger, lov om massemediers informationsdatabaser og forskellige andre love (Konsekvensændringer som følge af databeskyttelsesloven og databeskyttelsesforordningen samt medieansvarslovens anvendelse på offentligt tilgængelige informationsdatabaser m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 32
+
+Stk. 1. Loven træder i kraft den 25. maj 2018, jf. dog stk. 3.
+
+Stk. 2 og 3. (Udelades)
+
+Lov nr. 748 af 8. juni 2018 om ændring af lov om kommunernes styrelse, lov om kommunale og regionale valg og regionsloven (Bindende kommunale folkeafstemninger) indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 4
+
+Stk. 1. Loven træder i kraft den 1. juli 2018.
+
+Stk. 2. Loven har virkning for folkeafstemninger om beslutninger, der vedtages i kommunalbestyrelsen efter lovens ikrafttræden.
+
+Stk. 3. De forskrifter, der er udstedt i medfør af § 55, stk. 5, og § 69, 2. pkt., i lov om kommunale og regionale valg om hjælpemidler, der skal stilles til rådighed ved kommunale og regionale valg, finder anvendelse for folkeafstemninger, der afholdes efter kapitel 11 a, med de ændringer, der følger af afstemningens karakter, indtil de helt eller delvis ophæves eller erstattes af forskrifter udstedt i medfør af § 105 g, stk. 8, 2. pkt., og § 105 h, stk. 12, 3. pkt.
+
+Stk. 4. De forskrifter, der er udstedt i medfør af § 69, 1. pkt., i lov om kommunale og regionale valg for brevstemmeafgivning ved kommunale og regionale valg, finder anvendelse for folkeafstemninger, der afholdes efter kapitel 11 a, med de ændringer, der følger af afstemningens karakter, indtil de helt eller delvis ophæves eller erstattes af forskrifter udstedt i medfør af § 105 h, stk. 12, 2. pkt.
+
+Stk. 5. De forskrifter, der er udstedt i medfør af § 70, stk. 1, 4. pkt., i lov om kommunale og regionale valg om brevstemmeprotokollers indhold og udformning ved kommunale og regionale valg, finder anvendelse for folkeafstemninger, der afholdes efter kapitel 11 a, med de ændringer, der følger af afstemningens karakter, indtil de helt eller delvis ophæves eller erstattes af forskrifter udstedt i medfør af § 105 h, stk. 12, 4. pkt.
+
+Stk. 6. De forskrifter, der er udstedt i medfør af § 109 i lov om kommunale og regionale valg, finder anvendelse for folkeafstemninger, der afholdes efter kapitel 11 a, indtil de ophæves eller erstattes af forskrifter udstedt i medfør af § 109 i lov om kommunale og regionale valg som affattet ved denne lov.
