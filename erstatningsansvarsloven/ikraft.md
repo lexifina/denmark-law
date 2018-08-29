@@ -1,57 +1,51 @@
-Lov nr. 463 af 7. juni 2001 indeholder følgende ikrafttrædelsesbestemmelse:
+Lov nr. 1493 af 23. december 2014 (Ændring af beregningsprincipperne for erhvervsevnetabserstatning til unge under uddannelse) indeholder følgende ikrafttrædelsesbestemmelse:
 
-§ 4
+§ 2
 
-Stk. 1. Loven træder i kraft den 1. juli 2002. Lovens § 1, nr. 15, og § 2, nr. 2-4, træder dog i kraft den 1. januar 2002. Ved ikrafttrædelsen den 1. juli 2002 reguleres erstatnings- og godtgørelsesbeløbene i overensstemmelse med § 1, nr. 11, pr. 1. januar 2002.
+Stk. 1. Loven træder i kraft den 1. januar 2015.
 
-Stk. 2. Lovens §§ 1 og 2 finder anvendelse på erstatningsansvar for skader, der indtræder efter lovens ikrafttræden.
+Stk. 2. Loven finder ikke anvendelse på skader, der er indtrådt inden lovens ikrafttræden. For sådanne skader finder de hidtil gældende regler anvendelse.
 
-Stk. 3. (Udelades)
+Lov nr. 395 af 2. maj 2016 (Overførsel af Arbejdsskadestyrelsens opgaver til den selvejende institution Arbejdsmarkedets Erhvervssikring og til Styrelsen for Arbejdsmarked og Rekruttering samt nedlæggelse af Arbejdsmarkedets Erhvervssygdomssikring) indeholder følgende ikrafttrædelsesbestemmelser:
 
-Stk. 4. (Udelades)
+§ 23
 
-Lov nr. 35 af 21. januar 2003 indeholder følgende ikrafttrædelsesbestemmelse:
+Stk. 1. Loven træder i kraft den 1. juli 2016.
 
-§ 3
+Stk. 2-7. (Udelades)
 
-Loven træder i kraft dagen efter bekendtgørelsen i Lovtidende og finder anvendelse på erstatningsansvar for skader, der indtræder efter lovens ikrafttræden.
+§ 24
 
-Lov nr. 1545 af 20. december 2006 indeholder følgende ikrafttrædelsesbestemmelse:
+(Udelades)
 
-§ 17
+Lov nr. 1728 af 27. december 2016 (Øget respekt for det offentlige rum, offentlige myndigheder og personer i offentlig tjeneste m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
 
-Stk. 1. Loven træder i kraft den 1. januar 2007, jf. dog stk. 2-4.
-
-Stk. 2-4. (Udelades)
-
-Lov nr. 523 af 6. juni 2007 indeholder følgende ikrafttrædelsesbestemmelser:
-
-§ 47
-
-Loven træder i kraft den 1. januar 2008.
-
-§ 48
-
-Stk. 1. Loven finder anvendelse også på tidligere stiftede fordringer, som ikke inden ikrafttrædelsesdagen er forældet efter de hidtil gældende regler. Forældelse indtræder dog tidligst den 1. januar 2011, medmindre fordringen inden dette tidspunkt ville være forældet såvel efter de hidtil gældende bestemmelser som efter de bestemmelser, der gælder efter lovens ikrafttræden, jf. dog stk. 7. I det sidstnævnte tilfælde anvendes det seneste tidspunkt for forældelsens indtræden.
-
-Stk. 2. Afbrydelse af forældelse, der har fundet sted før lovens ikrafttræden, har fortsat virkning som afbrydelse, selv om den ikke er sket på den efter lovens ikrafttræden foreskrevne måde.
-
-Stk. 3-8. (Udelades)
-
-Lov nr. 610 af 14. juni 2011 indeholder følgende ikrafttrædelsesbestemmelser:
-
-§ 3
+§ 6
 
 Stk. 1. Loven træder i kraft dagen efter bekendtgørelsen i Lovtidende.
 
-Stk. 2. Sager om skader, der er indtrådt inden lovens ikrafttræden, behandles efter de hidtil gældende regler.
+Stk. 2. (Udelades)
 
-Lov nr. 1244 af 18. december 2012 indeholder følgende ikrafttrædelsesbestemmelser:
+Lov nr. 550 af 30. maj 2017 (Ændringer som følge af lov om ægtefællers økonomiske forhold) indeholder følgende ikrafttrædelsesbestemmelse:
 
-§ 4
+§ 17
 
-Stk. 1. Loven træder i kraft den 1. marts 2013.
+Stk. 1. Loven træder i kraft den 1. januar 2018.
 
-Stk. 2. Loven gælder for rente af pengekrav, som forfalder den 1. marts 2013 eller senere.
+Stk. 2-6. (Udelades)
 
-Stk. 3. (Udelades)
+Stk. 7. § 7 finder ikke anvendelse, når Statsforvaltningen før lovens ikrafttræden har modtaget anmodning om separation eller skilsmisse, eller når en ægtefælle er afgået ved døden før lovens ikrafttræden. I sådanne situationer finder de hidtil gældende regler anvendelse.
+
+Stk. 8-9. (Udelades)
+
+Lov nr. 140 af 28. februar 2018 (Ophævelse af forældelsesfrister for gerningsmandens strafansvar i sager om seksuelt misbrug af børn og for erstatningskrav mod forvaltningsmyndigheder for svigt i sager om overgreb mod børn, forhøjelse af niveauet for tortgodtgørelse for seksuelle krænkelser samt ophævelse af 72-timersreglen i sager om voldtægt, incest og seksuelt misbrug af børn m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 5
+
+Stk. 1. Loven træder i kraft den 1. april 2018.
+
+Stk. 2-3. (Udelades)
+
+Stk. 4. § 3 finder anvendelse på erstatningsansvar for skader, der indtræder efter lovens ikrafttræden.
+
+Stk. 5. (Udelades)
