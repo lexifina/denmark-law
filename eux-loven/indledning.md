@@ -1,7 +1,5 @@
 Bekendtgørelse af lov om erhvervsfaglig studentereksamen i forbindelse med erhvervsuddannelse (eux) m.v.
 
-Herved bekendtgøres lov om studiekompetencegivende eksamen i forbindelse med erhvervsuddannelse (eux) m.v., jf. lovbekendtgørelse nr. 961 af 1. september 2014, med de ændringer, der følger af § 8, nr. 1-6, 8 og 11-13, i lov nr. 1746 af 27. december 2016.
+Herved bekendtgøres lov om erhvervsfaglig studentereksamen i forbindelse med erhvervsuddannelse (eux) m.v., jf. lovbekendtgørelse nr. 927 af 3. juli 2017, med de ændringer, der følger af i lov nr. 142 af 28. februar 2018.
 
 De ændringer, der følger af § 8, nr. 7 og 10, i lov nr. 1746 af 27. december 2016 om ændring af lov om institutioner for almengymnasiale uddannelser og almen voksenuddannelse m.v., lov om institutioner for erhvervsrettet uddannelse og forskellige andre love (Indførelse af folkeskolens afgangseksamen, adgangskrav til erhvervsuddannelserne og ændringer som følge af lovgivning om de gymnasiale uddannelsers indhold m.v.), er ikke indarbejdet i denne lovbekendtgørelse, da tidspunktet for ikrafttræden af denne ændring fastsættes af undervisningsministeren, jf. § 23, stk. 3, i lov nr. 1746 af 27. december 2016.
-
-Den bekendtgjorte lovtekst vedrørende § 7, stk. 2, overskriften til kapitel 4 og § 8, træder kraft den 1. august 2017, jf. § 23, stk. 2, i lov nr. 1746 af 27. december 2016 om ændring af lov om institutioner for almengymnasiale uddannelser og almen voksenuddannelse m.v., lov om institutioner for erhvervsrettet uddannelse og forskellige andre love (Indførelse af folkeskolens afgangseksamen, adgangskrav til erhvervsuddannelserne og ændringer som følge af lovgivning om de gymnasiale uddannelsers indhold m.v.).
