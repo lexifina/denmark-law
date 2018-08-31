@@ -9,3 +9,7 @@
 5) Dvs. lovens titel, overskriften til kapitel 1, § 1, § 2, § 3, stk. 2, § 3 a, 2. pkt., § 5, stk. 1, § 8 a og kapitel 4 a (§ 8 b).
 
 6) Se lovbekendtgørelse nr. 961 af 1. september 2014 for affattelsen af de hidtil gældende regler, jf. de nævnte regler i note 5.
+
+7) Lovændringen vedrører § 3, stk. 1, 2 og 4, § 4, stk. 2, 1. pkt., og § 5, stk. 1.
+
+8) Se lovbekendtgørelse nr. 927 af 3. juli 2017 for affattelsen af de hidtil gældende regler, jf. de nævnte regler i note 7.

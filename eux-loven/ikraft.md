@@ -29,3 +29,11 @@ Stk. 3. Undervisningsministeren fastsætter tidspunktet for ikrafttræden af § 
 Stk. 1. § 8, nr. 1-6 og 13, finder ikke anvendelse for elever, der optages før den 1. august 2017. For sådanne elever finder de hidtil gældende regler anvendelse.
 
 Stk. 2-3. (Udelades)
+
+Lov nr. 142 af 28. februar 2018 (Indførelse af erhvervsområde, erhvervsområdeprojekt, undervisningstid, fordybelsestid m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 2
+
+Stk. 1. Loven træder i kraft den 1. august 2018.
+
+Stk. 2. Loven finder ikke anvendelse for undervisning af elever, der har påbegyndt et eux-forløb før den 1. august 2018. For disse elever finder de hidtil gældende regler anvendelse.
