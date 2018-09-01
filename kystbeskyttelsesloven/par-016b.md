@@ -2,7 +2,7 @@
 
 1) videreførelse ved bypass nedstrøms på kysten af sediment, som er ophobet som følge af et fast anlæg, en sejlrende, et havnebassin el.lign., eller
 
-2) nyttiggørelse af oprensnings- og uddybningsmaterialer, jf. § 20 c i lov om råstoffer, i form af kystbeskyttelse i henhold til en tilladelse efter § 16, stk. 1, nr. 1, eller etablering af anlæg eller opfyldning i henhold til en tilladelse efter § 16 a, stk. 1, nr. 1 eller 2.
+2) nyttiggørelse af oprensnings- og uddybningsmaterialer, jf. § 20 c i lov om råstoffer, i form af kystbeskyttelse i henhold til en tilladelse efter § 3 eller etablering af anlæg eller opfyldning i henhold til en tilladelse efter § 16 a, stk. 1, nr. 1 eller 2.
 
 Stk. 2. Miljø- og fødevareministeren kan stille vilkår for tilladelser udstedt i medfør af stk. 1.
 
