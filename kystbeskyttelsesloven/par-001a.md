@@ -1,6 +1,6 @@
 ## Kapitel 1 a
 
-## Kommuners kompetence i forbindelse med kystbeskyttelsesforanstaltninger
+## Kommunale fællesprojekter om kystbeskyttelse
 
 § 1 a. Kommunalbestyrelsen kan bestemme, at der ved en kyst skal udføres anlæg eller træffes andre foranstaltninger til beskyttelse af flere ejendomme mod oversvømmelse eller den nedbrydende virkning fra havet, fjorde eller andre dele af søterritoriet (kystbeskyttelsesforanstaltninger).
 

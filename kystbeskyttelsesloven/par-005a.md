@@ -1,0 +1,3 @@
+§ 5 a. Når fristen efter § 5, stk. 3, er udløbet, træffer kommunalbestyrelsen afgørelse om tilladelse til projektet efter § 3.
+
+Stk. 2. Før kommunalbestyrelsen træffer afgørelse om det konkrete projekt, jf. stk. 1, kan den foretage mindre ændringer i det projekt, der har været sendt i høring. Berører ændringen på væsentlig måde andre end dem, der ved indsigelse har foranlediget ændringen, kan afgørelse ikke træffes, før de pågældende er blevet hørt. Kommunalbestyrelsen fastsætter en frist herfor. Hvis ændringerne er så væsentlige, at der foreligger et nyt projekt, skal det offentliggøres og sendes i en ny høring efter § 5, stk. 2-4.

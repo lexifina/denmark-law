@@ -1,0 +1,3 @@
+§ 7 b. Vandløbsmyndigheden kan beslutte, at tilladelse eller godkendelse efter denne lov ikke kræves til udførelse af kystbeskyttelsesforanstaltninger, som samtidig er omfattet af en tilladelse efter § 3 i lov om kystbeskyttelse m.v., i det omfang det fremgår af afgørelsen om tilladelse til kystbeskyttelse. I sager vedrørende kystbeskyttelsesforanstaltninger omfattet af § 3, stk. 5, i lov om kystbeskyttelse m.v. kan beslutning kun træffes efter forudgående samtykke fra miljøministeren.
+
+Stk. 2. Stk. 1 finder ikke anvendelse på afgørelser efter denne lov vedrørende økonomiske spørgsmål, herunder bidragsfordeling samt afgørelser efter kapitel 5.

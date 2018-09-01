@@ -1,3 +1,1 @@
-§ 9 a. Kommunalbestyrelsen kan i sin afgørelse efter § 5 pålægge ejere af fast ejendom, som opnår en beskyttelse eller anden fordel ved foranstaltningen, en bidragspligt. Det enkelte bidrags størrelse fastsættes af kommunalbestyrelsen.
-
-Stk. 2. Bidrager en kommune med et beløb, ud over hvad der måtte være pålagt kommunen i henhold til stk. 1, kan miljø- og fødevareministeren efter indstilling fra kommunen pålægge en anden kommune, der er berørt af beskyttelsesforanstaltningen, at bidrage med indtil samme beløb. Bestemmelsen i 1. pkt. finder anvendelse på både anlægsudgifter, driftsudgifter og andre udgifter.
+§ 9 a. Kommunalbestyrelsen kan i sin afgørelse efter § 3 om et projekt, der er igangsat efter § 1 a, pålægge ejere af fast ejendom, som opnår en beskyttelse eller anden fordel ved foranstaltningen, en bidragspligt. Det enkelte bidrags størrelse fastsættes af kommunalbestyrelsen.
