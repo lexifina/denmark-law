@@ -1,26 +1,26 @@
-Ved § 1 i lov nr. 149 af 25. marts 2002 om ændring af lov om støtte til folkeoplysende voksenundervisning, frivilligt folkeoplysende foreningsarbejde og Folkeuniversitetet (folkeoplysningsloven) og ophævelse af lov om daghøjskoler m.v. og lov om den fri ungdomsuddannelse samt ændring af lov om refusion af udgifter til uddannelse i forbindelse med aktivering m.m. samt ændring af forskellige love ændredes titlen, § 2, stk. 2, nr. 2, § 8, stk. 1, 1. pkt., § 21, stk. 4, 1. og 3. pkt., § 23, stk. 1 og 2, § 25, stk. 1, 1. og 2. pkt., § 27, stk. 1, § 29, stk. 1, 2 og 5, § 30, § 31, stk. 1, § 32, § 33, stk. 5, 1. og 2. pkt., § 37, stk. 4, og § 38, stk. 1, ophævedes § 2, stk. 2, nr. 3, § 3, stk. 2 og 3, samt § 29, stk. 3, 2. pkt., nyaffattedes § 6, § 10, stk. 1, § 11, § 13, § 31, stk. 2, og § 37, stk. 3, samt indføjedes afsnit II a (kapitel 12 a med § 45 a). Loven har følgende ikrafttrædelses- og overgangsbestemmelser:
+Lov nr. 149 af 25. marts 2002 (Folkeoplysningsloven) indeholder følgende ikrafttrædelses- og overgangsbestemmelser:
 
 § 7
 
-Stk. 1. Loven træder i kraft den 1. juli 2002, jf. dog stk. 2 og 3 samt §§ 8-10… (udeladt).
+Stk. 1. Loven træder i kraft den 1. juli 2002, jf. dog stk. 2 og 3 samt §§ 8-10. § 3 træder dog først i kraft den 1. januar 2003.
 
-Stk. 2-4. (Vedrører daghøjskoler – udeladt)
+Stk. 2-4. (Udelades)
 
 § 8
 
 Stk. 1. § 1, nr. 2-4 og 9-19 træder i kraft den 1. april 2002, jf. dog stk. 2. § 1, nr. 5-8, træder i kraft den 1. juli 2002 med virkning for tilskud for finansåret 2003 og senere, jf. dog stk. 3.
 
-Stk. 2-3. (udeladt)
+Stk. 2-3. (Udelades)
 
 §§ 9-10
 
-(Vedrører andre love – udeladt)
+(Udelades)
 
 § 11
 
-(Vedrører daghøjskoler – udeladt)
+(Udelades)
 
-Ved § 1 i lov nr. 1224 af 27. december 2003 om ændring af lov om støtte til folkeoplysende voksenundervisning, frivilligt folkeoplysende foreningsarbejde og daghøjskoler samt om Folkeuniversitetet (folkeoplysningsloven) og lov om ungdomsskoler (Frivilliggørelse af folkeoplysningsudvalgene) ændredes § 8, stk. 3, 2. pkt., § 24, stk. 1 og 2, § 26, stk. 1-3, overskriften til § 34, § 34, stk. 1, 1. pkt., overskriften til § 36, § 38, stk. 3, 1. pkt. og overskriften til § 40, nyaffattedes § 22, stk. 4, § 25, stk. 6, § 33, stk. 4, § 38, stk. 4, og § 39 samt indføjedes § 24, stk. 3, § 26, stk. 4, § 35a, og § 37, stk. 10. Loven har følgende ikrafttrædelses- og overgangsbestemmelse:
+Lov nr. 1224 af 27. december 2003 (Folkeoplysningsloven) og (Frivilliggørelse af folkeoplysningsudvalgene) indeholder følgende ikrafttrædelses- og overgangsbestemmelse:
 
 § 3
 
@@ -32,25 +32,25 @@ Ved § 1 i lov nr. 1227 af 27. december 2003 om ændring af lov om støtte til f
 
 § 2
 
-Stk. 1. Loven træder i kraft den 1. januar 2004.
+Loven træder i kraft den 1. januar 2004.
 
-Ved § 2 i lov nr. 593 af 24. juni 2005 om ændring af produktionsskoler, lov om støtte til folkeoplysende voksenundervisning, frivilligt folkeoplysende foreningsarbejde og daghøjskoler samt om Folkeuniversitetet (folkeoplysningsloven) og forskellige andre love på Undervisningsministeriets område (Konsekvensændringer som følge af kommunalreformen) ændredes § 2, stk. 3, § 3, § 5, stk. 7, § 16, stk. 2, 1. pkt., overskriften til kapitel 6, § 22, stk. 2, stk. 5, 2. pkt. og stk. 6, § 23, stk.1, 2. pkt., stk. 2, 2. pkt. og stk. 3, § 25, stk. 2 og stk. 7, 2. pkt.,§ 33, stk. 2, 1. pkt. og stk. 4, § 38, stk. 1 og stk. 2, 1. pkt., § 43, stk. 3, overskriften til afsnit II, § 45a, stk. 1, nr. 1 og nr. 3-5, stk. 2 og stk. 3 samt nyaffattedes § 21, stk. 1, og 2 (hvorefter det hidtidige stk. 2-4 blev stk. 3-5) og § 45. Loven har følgende ikrafttrædelsesbestemmelse:
+Lov nr. 593 af 24. juni 2005 (Folkeoplysningsloven) og (Konsekvensændringer som følge af kommunalreformen) indeholder følgende ikrafttrædelsesbestemmelse:
 
 § 11
 
 Stk. 1. Loven træder i kraft den 1. januar 2007.
 
-Stk. 2-3. (Vedrører andre love – udeladt)
+Stk. 2-3. (Udelades)
 
 Stk. 4. Lovens § 2 har virkning for ansøgninger om tilskud og lokaleanvisning for finansåret 2007 og senere.
 
 Stk. 5. For 2007 yder Undervisningsministeriet tilskud til kommuner, hvori en daghøjskole, hvortil amtsrådet har ydet tilskud i 2006, er beliggende. Tilskuddet udbetales med et beløb, som svarer til amtskommunens tilskud i 2006 opregnet til 2007-pris- og lønniveau.
 
-Ved § 1 i lov nr. 1593 af 20. december 2006 om ændring af lov om støtte til folkeoplysende voksenundervisning, frivilligt folkeoplysende foreningsarbejde og daghøjskoler samt om Folkeuniversitetet (folkeoplysningsloven) (Fleksible tilrettelæggelsesformer) ændredes § 4, stk. 2, nr. 5, § 8, stk. 2, 1. pkt., § 12, § 35a, § 37, stk. 5, § 43, stk. 2-5, nyaffattedes § 2, stk. 2, nr. 1, § 7, stk. 2, § 8, stk. 3, og 4, (hvorefter det hidtidige stk. 4 blev stk. 5), § 11, stk. 5 samt indføjedes § 8, stk. 2, 5. pkt. Loven har følgende ikrafttrædelsesbestemmelse:
+Lov nr. 1593 af 20. december 2006 (Folkeoplysningsloven) (Fleksible tilrettelæggelsesformer) indeholder følgende ikrafttrædelsesbestemmelse:
 
 § 2
 
-Stk. 1. Loven træder i kraft den 1. januar 2007.
+Loven træder i kraft den 1. januar 2007.
 
 Ved § 8 i lov nr. 561 af 6. juni 2007 om ændring af erhvervsuddannelser og forskellige andre love og om ophævelse af lov om grundlæggende social- og sundhedsuddannelser og lov om landbrugsuddannelser (ungdomsuddannelse til alle) nyaffattedes § 21, stk. 1, nr. 2. Loven har følgende ikrafttrædelsesbestemmelse:
 
@@ -58,15 +58,9 @@ Ved § 8 i lov nr. 561 af 6. juni 2007 om ændring af erhvervsuddannelser og for
 
 Stk. 1. Loven træder i kraft den 1. august 2007, jf. dog stk. 2.
 
-Stk. 2. (Vedrører anden lov – udeladt)
+Stk. 2. (Udelades)
 
-Ved § 1 i lov nr. 1523 af 27. december 2009 om ændring af lov om støtte til folkeoplysende voksenundervisning, frivilligt folkeoplysende foreningsarbejde og daghøjskoler samt om Folkeuniversitetet (folkeoplysningsloven) (Erklæring om indhentelse af børneattester og digital regnskabsaflæggelse) ændredes § 29, stk. 5, § 33, stk. 5, 2. pkt., § 45, stk. 5-9, nyaffattedes § 45, stk. 2, (hvorefter det hidtidige stk. 3-9 blev stk. 4-10) samt indføjedes § 4, stk. 4 og 5, § 33, stk. 6 og 7. Loven har følgende ikrafttrædelsesbestemmelse:
-
-§ 2
-
-Stk. 1. Loven træder i kraft den 1. januar 2010.
-
-Ved § 1 i lov nr. 574 af 7. juni 2011 om ændring af folkeoplysningsloven (demokratiforståelse og aktivt medborgerskab) ændredes § 3, § 4, stk. 2, nr. 5, og stk. 3, nr. 6, § 5, stk. 1, 2. pkt. og stk. 8, § 6, stk. 1, nr. 1-2, § 10, stk. 1, § 18, stk. 1, § 21, stk. 1, stk. 3 og stk. 5, 1. pkt., § 23, stk. 1, 2. pkt. og stk. 2, 2. pkt., § 25, stk. 2 og stk. 3, 3. pkt., § 28, 1. pkt., § 43, stk. 5, 1. pkt. og 3. pkt. og § 46, nyaffattedes § 7, § 8, § 11, § 14, § 34, § 35, § 40 og § 45a, stk. 1, nr. 2, indføjedes § 6, stk. 1, nr. 3, § 8a, § 19, stk. 3 (hvorefter det hidtidige stk. 3 blev stk. 4), og § 21, stk. 6-7, ophævedes § 21, stk. 5, 3. pkt., § 22, stk. 4, 3. pkt., § 24, stk. 3, § 25, stk. 6 (hvorefter det hidtidige stk. 7 blev stk. 6), § 26, stk. 4, § 33, stk. 4, 2. pkt., §§ 35a-39 og §§ 41-42 samt fjernedes overskriften før § 34, overskriften før § 40 og overskriften før § 41. Loven har følgende ikrafttrædelsesbestemmelse:
+Lov nr. 574 af 7. juni 2011 (Demokratiforståelse og aktivt medborgerskab) indeholder følgende ikrafttrædelsesbestemmelse:
 
 § 2
 
@@ -75,3 +69,73 @@ Stk. 1. Loven træder i kraft den 1. august 2011.
 Stk. 2. Ansøgninger om tilskud og lokaler, der vedrører finansåret 2011, behandles efter de hidtil gældende regler.
 
 Stk. 3. Kommunalbestyrelsen skal senest den 1. januar 2012 have vedtaget og offentliggjort en politik for den folkeoplysende virksomhed i kommunen, jf. folkeoplysningslovens § 34 som affattet ved denne lovs § 1, nr. 22.
+
+Lov nr. 444 af 23. maj 2012 (Udvidelse af børneattestordningen) indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 3
+
+Loven træder i kraft den 1. juni 2012.
+
+Lov nr. 310 af 29. marts 2014 (Ændringer som følge af lov om Danmarks Innovationsfond) indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 12
+
+Stk. 1. Loven træder i kraft den 1. april 2014.
+
+Stk. 2. (Udelades)
+
+Stk. 3. Danmarks Innovationsfond indtræder ved lovens ikrafttræden i de rettigheder og forpligtelser, som hidtil har tilkommet Det Strategiske Forskningsråd og Højteknologifonden.
+
+Stk. 4. (Udelades)
+
+Stk. 5. (Udelades)
+
+Stk. 6. Medlemmer af Danmarks Forskningspolitiske Råd fortsætter som medlemmer af Danmarks Forsknings- og Innovationspolitiske Råd indtil udløbet af deres nuværende periode med mulighed for genudpegning, hvis genudpegning kunne ske efter de hidtidige regler. Medlemmer af Danmarks Forskningspolitiske Råd, hvis første periode er udløbet ved lovens ikrafttrædelse, kan udpeges som medlemmer af Danmarks Forsknings- og Innovationspolitiske Råd for en periode på 3 år uden mulighed for genudpegning. Medlemmer af Danmarks Forskningspolitiske Råd, herunder formanden, hvis anden periode er udløbet ved lovens ikrafttrædelse, kan ikke udpeges som medlemmer af Danmarks Forsknings- og Innovationspolitiske Råd.
+
+Lov nr. 552 af 2. juni 2014 (Overgang til obligatorisk digital selvbetjening, for så vidt angår ansøgning om byggetilladelse, ansøgning om forældremyndighed, barnets bopæl, samvær m.v., anmodning om separation og skilsmisse, ansøgning om børne- og ægtefællebidrag, ansøgning om lån til beboerindskud, ansøgning om parkeringslicens og anmodning om attestationer efter lov om Det Centrale Personregister m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 16
+
+Stk. 1. Loven træder i kraft den 1. december 2014.
+
+Stk. 2 Loven finder alene anvendelse for ansøgninger, anmeldelser, meddelelser, anmodninger og erklæringer, der indgives efter lovens ikrafttræden.
+
+Lov nr. 1553 af 13. december 2016 (Indsats mod foreninger, som modarbejder eller underminerer demokrati eller grundlæggende friheds- og menneskerettigheder) indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 3
+
+Loven træder i kraft den 1. januar 2017.
+
+Lov nr. 384 af 26. april 2017 indeholde følgende ikrafttrædelsesbestemmelse:
+
+§ 36
+
+Stk. 1. Loven træder i kraft den 1. juli 2017.
+
+Stk. 2. (Udelades)
+
+Stk. 3. (Udelades)
+
+Stk. 4. (Udelades)
+
+Stk. 5. Medlemmer af Danmarks Forsknings- og Innovationspolitiske Råd fortsætter som medlemmer indtil udløbet af deres nuværende periode med mulighed for genudpegning, hvis genudpegning kan ske efter de nye regler.
+
+Stk. 6. Medlemmer af bestyrelsen for Det Frie Forskningsråd fortsætter som medlemmer af bestyrelsen for Danmarks Frie Forskningsfond indtil udløbet af deres nuværende periode med mulighed for genudpegning, hvis genudpegning kan ske efter de nye regler.
+
+Stk. 7. De faglige forskningsråd under Det Frie Forskningsråd fortsætter som stående udvalg efter denne lov, indtil bestyrelsen for Danmarks Frie Forskningsfond beslutter andet.
+
+Stk. 8. Medlemmer af faglige forskningsråd under Det Frie Forskningsråd fortsætter som medlemmer af de stående udvalg under Danmarks Frie Forskningsfond med mulighed for genudpegning, hvis genudpegning kan ske efter de nye regler.
+
+Stk. 9. Klager over afgørelser truffet af faglige forskningsråd under Det Frie Forskningsråd, som er indgivet før lovens ikrafttræden, afgøres efter de hidtil gældende regler.
+
+Lov nr. 313 af 25. april 2018 (Ny struktur for Folkeuniversitet) indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 2
+
+Loven træder i kraft den 1. august 2018.
+
+Lov nr. 745 af 8. juni 2018 (Ændringer som følge af lovgivning om forberedende grunduddannelse m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 30
+
+Stk. 2. Loven træder i kraft den 1. august 2019.
