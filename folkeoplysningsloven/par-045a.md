@@ -20,4 +20,4 @@ Stk. 2. Kommunalbestyrelsen kan som vilkår for at yde tilskud kræve, at der fo
 
 Stk. 3. Kommunalbestyrelsen kan fastsætte yderligere betingelser for at yde tilskud, herunder om tilbagebetaling af tilskud, hvis tilskudsbetingelserne ikke er opfyldt.
 
-Stk. 4. Undervisningsministeren kan yde konsulenttilskud til daghøjskoleområdet.
+Stk. 4. Kulturministeren kan yde konsulenttilskud til daghøjskoleområdet.
