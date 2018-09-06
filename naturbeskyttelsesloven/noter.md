@@ -1,4 +1,4 @@
-1) Loven indeholder bestemmelser, der gennemfører dele af Rådets direktiv 92/43/EØF af 21. maj 1992 om bevaring af naturtyper samt vilde dyr og planter, EF-Tidende 1992, nr. L 206, side 7, som ændret senest ved Rådets direktiv 2013/17/EU af 13. maj 2013 om tilpasning af visse direktiver vedrørende miljø på grund af Republikken Kroatiens tiltrædelse, EU-Tidende 2013, nr. L 158, side 193, og dele af Europa-Parlamentets og Rådets direktiv 2009/147/EF af 30. november 2009 om beskyttelse af vilde fugle, EU-Tidende 2009, nr. L 20, side 7, som ændret senest ved Rådets direktiv 2013/17/EU af 13. maj 2013 om tilpasning af visse direktiver vedrørende miljø på grund af Republikken Kroatiens tiltrædelse, EU-Tidende 2013, nr. L 158, side 193.
+1) Loven indeholder bestemmelser, der gennemfører dele af Rådets direktiv 92/43/EØF af 21. maj 1992 om bevaring af naturtyper samt vilde dyr og planter, EF-Tidende 1992, nr. L 206, side 7, som ændret senest ved Rådets direktiv 2013/17/EU af 13. maj 2013 om tilpasning af visse direktiver vedrørende miljø på grund af Republikken Kroatiens tiltrædelse, EU-Tidende 2013, nr. L 158, side 193, dele af Europa-Parlamentets og Rådets direktiv 2004/35/EF af 21. april 2004 om miljøansvar for så vidt angår forebyggelse og afhjælpning af miljøskader, EU-Tidende 2004, nr. L 143, side 56, som ændret senest ved Europa-Parlamentets og Rådets direktiv 2013/30/EU af 12. juni 2013, EU-Tidende 2013, nr. 178, side 66 og dele af Europa-Parlamentets og Rådets direktiv 2009/147/EF af 30. november 2009 om beskyttelse af vilde fugle, EU-Tidende 2009, nr. L 20, side 7, som ændret senest ved Rådets direktiv 2013/17/EU af 13. maj 2013 om tilpasning af visse direktiver vedrørende miljø på grund af Republikken Kroatiens tiltrædelse, EU-Tidende 2013, nr. L 158, side 193.
 
 2) Lovændringen ændrer § 30, stk. 1 og 2.
 
@@ -87,3 +87,11 @@
 44) Lovændringen ændrer fodnoten til lovens titel, ændrer § 8, § 15, § 16 (nyt stykke 3), § 17, § 50, § 65 (ophæver stk. 1, 4, og 5), § 67, stk. 2, § 69 (indsætter nyt stykke 3), § 71, stk. 4, nr. 1, 4 og 5, § 71, stk. 5, og § 78, stk. 4, 1. pkt., og indsætter ny § 8 a, § 15 a, § 15 b og § 65 b. Ved en fejl er »dele af Europa-Parlamentets og Rådets direktiv 2004/35/EF af 21. april 2004 om miljøansvar for så vidt angår forebyggelse og afhjælpning af miljøskader, EU-Tidende 2004, nr. L 143, side 56« ved ændringen udgået af fodnoten til lovens titel. Fodnoten vil blive ændret ved førstkommende ændring af loven.
 
 45) Loven er bekendtgjort i Lovtidende den 9. juni 2017.
+
+46) Lovændringen vedrører § 17, stk. 4, nr. 3 og 4.
+
+47) Lovændringen vedrører fodnoten til lovens titel, § 31, stk. 1-5, § 31 a og § 71, stk. 5.
+
+48) Lovændringen vedrører § 21, § 67, stk. 2, og § 74, stk. 5.
+
+49) Lovændringen vedrører § 5, stk. 2, § 8, stk. 4, 2. pkt., § 15, stk. 3, 2. pkt., § 16, stk. 6, § 17, stk. 5, § 18, stk. 4, § 19, stk. 2, § 19 b, stk. 3, 2. pkt., § 37, stk. 2, § 41, stk. 1, § 50 a, § 51, stk. 2, 2. pkt., § 51, stk. 3, og § 65, stk. 2, 2. pkt.
