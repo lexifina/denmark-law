@@ -1,8 +1,8 @@
-Miljøstyrelsen, den 27. juni 2017
+Miljø- og Fødevareministeriet, den 3. september 2018
 
-Hans Christian Karsten
+P.M.V. David Fjord Nielsen
 
-/ Mikkel Friberg
+/ Paolo Perotti
 
 Bilag 1
 

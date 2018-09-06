@@ -246,7 +246,7 @@ Stk. 1. Loven træder i kraft den 1. januar 2014.
 
 Stk. 2. Loven finder ikke anvendelse ved Natur- og Miljøklagenævnets behandling af klager over afgørelser efter lov om planlægning eller regler udstedt i medfør heraf truffet før lovens ikrafttræden. For sådanne klager finder de hidtil gældende regler anvendelse.
 
-Stk. 3. Loven finder ikke anvendelse for skriftlige anmeldelser af projekter omfattet af §§ 11 g-11 i i lov om planlægning og regler udstedt i medfør heraf indgivet før lovens ikrafttræden. For sådanne anmeldelser finder de hidtil gældende regler anvendelse.
+Stk. 3. Loven finder ikke anvendelse for skriftlige anmeldelser af projekter omfattet af §§ 11 g-11 i lov om planlægning og regler udstedt i medfør heraf indgivet før lovens ikrafttræden. For sådanne anmeldelser finder de hidtil gældende regler anvendelse.
 
 Lov nr. 1631 af 26. december 2013 (Konsekvensændringer som følge af lov om vandplanlægning) indeholder følgende ikrafttrædelsesbestemmelse:
 
@@ -333,3 +333,43 @@ Stk. 2. Bebyggelse, anlæg og indretninger, der er opført i strid med forbudden
 Stk. 3. Verserende sager om ansøgning om etablering af anlæg og indretninger m.v., der vil kunne etableres uden forudgående dispensation i overensstemmelse med bestemmelserne i §§ 15 a og 15 b og § 16, stk. 3, bortfalder.
 
 Stk. 4. Regler fastsat i medfør af § 8, stk. 6 og 7, § 15, stk. 5, § 16, stk. 4, og § 69, stk. 5, jf. senest lovbekendtgørelse nr. 121 af 26. januar 2017, forbliver i kraft, indtil de ophæves eller afløses af nye regler.
+
+Lov nr. 1553 af 19. december 2017 (Mulighed for fastsættelse af nærmere regler om jagt med visse rovfugle, jagttider, tidsbegrænsede initiativer, jagtformer, fodring af vildt og ændring af regler om jagttegn samt ophævelse af krav om dispensation til visse til- og ombygninger inden for skovbyggelinjen i landzone) indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 3.
+
+Loven træder i kraft den 1. januar 2018.
+
+Lov nr. 1554 af 19. december 2017 (National liste med handelsforbud m.v. over for visse invasive arter og nyaffattelse af bilag 1 til lov om havstrategi) indeholder følgende ikrafttrædelses- og overgangsbestemmelse:
+
+§ 3
+
+Stk. 1. Loven træder i kraft den 1. januar 2018, jf. dog stk. 2.
+
+Stk. 2. (Udelades)
+
+Stk. 3. Regler fastsat i medfør af § 31, stk. 3, i lov om naturbeskyttelse, jf. lovbekendtgørelse nr. 934 af 27. juni 2017, forbliver i kraft, indtil de ophæves eller afløses af nye regler.
+
+Lov nr. 466 af 14. maj 2018 (Nye muligheder for friluftsreklamer i det åbne land) indeholder følgende ikrafttrædelses- og overgangsbestemmelse:
+
+§ 2.
+
+Stk. 1. Loven træder i kraft den 1. juli 2018.
+
+Stk. 2. Regler fastsat i medfør af § 21, stk. 2, nr. 2 og 5, i lov om naturbeskyttelse, jf. lovbekendtgørelse nr. 934 af 27. juni 2017, forbliver i kraft, indtil de ophæves eller afløses af regler fastsat i medfør af § 21, stk. 6.
+
+Lov nr. 720 af 8. juni 2018 (Ny kompetencefordeling og forenkling af sagsbehandling i forbindelse med kystbeskyttelse m.v.) indeholder følgende ikrafttrædelses- og overgangsbestemmelser:
+
+§ 9
+
+Stk. 1. Loven træder i kraft den 1. september 2018.
+
+Stk. 2. (Udelades)
+
+§ 10
+
+(Udelades)
+
+§ 11
+
+Klager over afgørelser efter lov om naturbeskyttelse om dispensation fra en foreslået eller fastsat fredningsbestemmelse efter § 50, stk. 1, i lov om naturbeskyttelse om videregående fravigelse fra eller ændring eller ophævelse af en fredning eller om undtagelse fra fredningsbestemmelser i regler fastsat efter § 51, stk. 1, i lov om naturbeskyttelse, som er meddelt med henblik på udførelse af kystbeskyttelsesforanstaltninger, der ikke er færdigbehandlet af Miljø- og Fødevareklagenævnet, og afgørelser, som er truffet før den 1. september 2018, og som inden klagefristens udløb indbringes for Miljø- og Fødevareklagenævnet, færdigbehandles af nævnet efter de hidtil gældende regler. Træffer nævnet afgørelse om, at sagen hjemvises til fornyet behandling i første instans, skal sagen i første instans færdigbehandles efter § 10 i denne lov og efter lov om kystbeskyttelse m.v. som ændret ved denne lovs § 1.
