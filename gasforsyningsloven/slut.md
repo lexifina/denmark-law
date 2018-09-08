@@ -1,4 +1,4 @@
-Energistyrelsen, den 6. september 2016
+Energistyrelsen, den 5. september 2018
 
 Martin Hansen Vicedirektør
 

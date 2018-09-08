@@ -16,46 +16,78 @@ Lov nr. 576 af 18. juni 2012 om ændring af lov om fremme af vedvarende energi, 
 
 § 5
 
-Stk. 1. Klima-, energi- og bygningsministeren fastsætter tidspunktet for lovens ikrafttræden. 16) Ministeren kan herunder fastsætte, at dele af loven træder i kraft på forskellige tidspunkter.
+Stk. 1. Klima-, energi- og bygningsministeren fastsætter tidspunktet for lovens ikrafttræden. Ministeren kan herunder fastsætte, at dele af loven træder i kraft på forskellige tidspunkter.
 
 Stk. 2. Klima-, energi- og bygningsministeren kan efter forelæggelse for et af Folketinget nedsat udvalg fastsætte, at dele af loven får virkning på forskellige tidspunkter, herunder tidspunkter efter vedtagelsen, men forud for ikrafttrædelsen.
 
 Stk. 3. (Ophævet)
 
-Lov nr. 633 af 16. juni 2014 (Ophævelse af forsyningspligten, indførelse af leveringspligt, udskydelse af engrosmodellen, naturgasselskabers anvendelse af økonomiske kompensationer, Energinet.dk’s fusion med datterselskaber m.v.), hvis § 2 angår § 37, stk. 3, nr. 2 og 3, indeholder følgende ikrafttrædelsesbestemmelse:
-
-§ 5
-
-Stk. 1. Loven træder i kraft den 30. juni 2014, jf. dog stk. 2-4.
-
-Stk. 2-4. (Udelades)
-
-Lov nr. 1498 af 23. december 2014 (Erhvervsrettet lempelse af PSO-betaling for elektricitet, afskaffelse af tilskudsordning til ikkekvoteomfattet elproduktion, afskaffelse af PSO-betaling for gas, fravigelse af iblandingsprocent for biobrændstoffer, faktureringsoplysninger m.v. til energiforbrugere, ændring af klageregler m.v.), hvis § 2 angår § 7 b, § 9, stk. 4-6, § 14, stk. 1, nr. 3, § 14, stk. 2, 1. pkt. og § 35 c, stk. 9, indeholder følgende ikrafttrædelsesbestemmelse:
-
-§ 8
-
-Stk. 1. Loven træder i kraft den 1. januar 2015, jf. dog stk. 2 og 3.
-
-Stk. 2. § 1, nr. 1, 7 og 8, § 2, nr. 1, 3 og 4, og §§ 3 og 6 træder i kraft dagen efter bekendtgørelsen i Lovtidende.
-
-Stk. 3-4. (Udelades)
-
-Lov nr. 77 af 27. januar 2016 (Bemyndigelse til fastsættelse af regler om opgørelse af produktions- og tilførselsomkostninger for opgraderet og renset biogas m.v.), som angår § 35 c, stk. 7 og 8 og § 35 d, stk. 10, indeholder følgende ikrafttrædelsesbestemmelse:
-
-§ 2
-
-Loven træder i kraft 1. februar 2016.
-
-Lov nr. 132 af 16. februar 2016 (Opfølgning på politiske forlig om en ny og forbedret regulering af den danske vandsektor), hvis § 8 angår § 35, stk. 11, nr. 1, indeholder følgende ikrafttrædelsesbestemmelse:
-
-§ 17
-
-Stk. 1. Loven træder i kraft 1. marts 2016, jf. dog stk. 2.
-
-Stk. 2-3. (Udelades)
-
-Lov nr. 630 af 8. juni 2016 (Energinet.dk’s varetagelse af gasopstrømssystem-, olierørlednings- og separationsvirksomhed samt økonomisk regulering af naturgasdistributionsvirksomhed varetaget af Energinet.dk m.v.), hvis § 2 angår § 6, nr. 20, § 14, stk. 1, nr. 2, § 21, stk. 1 og 2, § 37 a, stk. 1, 1. pkt., § 37 a, stk. 3, § 37 a, stk. 4, 1. og 3. pkt., § 37 a, stk. 5 og 6, § 37 c, § 37 d, stk. 1, 2. pkt., § 40, stk. 1, § 40, stk. 1, nr. 2 og § 40, stk. 2, indeholder fælgende ikrafttrædelsesbestemmelse:
+Lov nr. 630 af 8. juni 2016 (Energinet.dk’s varetagelse af gasopstrømssystem-, olierørlednings- og separationsvirksomhed samt økonomisk regulering af naturgasdistributionsvirksomhed varetaget af Energinet.dk m.v.), hvis § 2 angår § 6, nr. 20, § 14, stk. 1, nr. 2, § 21, stk. 1 og 2, § 37 a, stk. 1, 1. pkt., § 37 a, stk. 3, § 37 a, stk. 4, 1. og 3. pkt., § 37 a, stk. 5 og 6, § 37 c, § 37 d, stk. 1, 2. pkt., § 40, stk. 1, § 40, stk. 1, nr. 2 og § 40, stk. 2, indeholder følgende ikrafttrædelsesbestemmelse:
 
 § 4
 
 Loven træder i kraft den 1. juli 2016.
+
+Lov nr. 1755 af 27. december 2016 (It-beredskab i el- og naturgassektorerne, gebyr for tilladelser til Energinet.dk og forhøjelse af indtægtsrammer for netvirksomheder m.v.), hvis § 2 angår § 15 a, stk. 4, 2. pkt., § 15 b og § 30, stk. 2, indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 3
+
+Stk. 1. Loven træder i kraft den 1. juli 2017, jf. dog stk. 2.
+
+Stk. 2. (Udelades)
+
+Lov nr. 662 af 8. juni 2017 (Økonomisk regulering af netvirksomheder, skærpelse af netvirksomheders særskilte identitet, ophævelse af støtteordninger for elektricitet fra særlige anlæg, der anvender biomasse som energikilde, og opkrævning af betaling for myndighedsbehandling m.v.), hvis § 3 angår § 44 a, indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 5
+
+Stk. 1. Loven træder i kraft den 1. juli 2017, jf. dog stk. 2-4.
+
+Stk. 2-8. (Udelades)
+
+Lov nr. 663 af 8. juni 2017 (Forhøjelse af procenten for modregning i den enkelte kommunes statstilskud ved overførsel af midler fra kommunale varmeforsyningsvirksomheder m.v.), hvis § 3 angår § 35, stk. 7, indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 5
+
+Stk. 1. Loven træder i kraft dagen efter bekendtgørelsen i Lovtidende
+
+Stk. 2. Loven har virkning fra den 3. maj 2017.
+
+Lov nr. 1399 af 5. december 2017 (Betaling for myndighedsbehandling og justering af bestemmelser om tilsyn med Energinet), hvis § 3 angår § 10, stk. 3, § 13, stk. 2, § 14, stk. 4-6, § 16, stk. 2, § 17, stk. 4, § 30, § 30 a, § 30 b, § 44 og § 44 a, indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 6
+
+Loven træder i kraft den 1. januar 2018.
+
+Lov nr. 1675 af 26. december 2017 (Øget incitament til konsolidering af naturgasdistributionssektoren og udvidet mulighed for at undtage transmissionsselskabers anlæg fra lov om naturgasforsyning), hvis § 1 angår § 2, stk. 7, § 35, stk. 3, 3. og 4. pkt., § 35, stk. 6 og 7, § 35, stk. 11 og 12, og § 37, stk. 3, nr. 3-5, indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 3
+
+Loven træder i kraft den 1. januar 2018.
+
+Lov nr. 1667 af 26. december 2017 (Overførsel af opgaver fra Energinet til energi-, forsynings- og klimaministeren m.v.), hvis § 3 angår § 4, § 35 c, stk. 7, § 35 d, § 35 f og § 51, stk. 2-5, indeholder følgende ikrafttrædelses- og overgangsbestemmelse:
+
+§ 13
+
+Stk. 1. Loven træder i kraft den 1. januar 2018, jf. dog stk. 2.
+
+Stk. 2-4. (Udelades)
+
+Stk. 5. § 51, stk. 2, 3, 5 og 6, i lov om naturgasforsyning, jf. lovbekendtgørelse nr. 1157 af 6. september 2016, finder anvendelse på Energinets afgørelser, som er truffet før den 1. januar 2018, og som påklages efter den 1. januar 2018.
+
+Stk. 6-7. (Udelades)
+
+Stk. 8. Regler fastsat i medfør af naturgasforsyningslovens § 35 d, stk. 5, 6, 8 og 10, jf. lovbekendtgørelse nr. 1157 af 6. september 2016, og i medfør af elforsyningslovens § 58 c, stk. 8-13, jf. lovbekendtgørelse nr. 418 af 25. april 2016, forbliver i kraft, indtil de ophæves eller afløses af forskrifter udstedt i medfør af denne lov.
+
+Lov nr. 690 af 8. juni 2018 om Forsyningstilsynet, hvis § 16 angår ændring af »Energitilsynet« til: »Forsyningstilsynet«, og »Energitilsynets« til: »Forsyningstilsynets«, indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 14. Loven træder i kraft den 1. juli 2018, jf. dog stk. 2.
+
+Stk. 2-3. (Udelades)
+
+Lov nr. 704 af 8. juni 2018 (Styrkelse af rammerne for overvågning af elforsyningssikkerheden og klare regler for sikring af kapacitet, ændringer som følge af forordninger om EU-netregler, flytning af ansvar for måling af elektricitet hos elforbrugere direkte tilsluttet transmissionsnettet og samkøring af oplysninger om realiserede energibesparelser m.v.), hvis § 2 angår § 14, stk. 3-9, § 28 c, stk. 2, 5. og 6. pkt., og § 28 c, stk. 3-5, indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 6
+
+Stk. 1. Loven træder i kraft den 1. juli 2018, jf. dog stk. 2.
+
+Stk. 2. (Udelades)
