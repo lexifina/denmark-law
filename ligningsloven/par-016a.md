@@ -2,7 +2,7 @@
 
 Stk. 2. Til udbytte henregnes:
 
-1) Alt, hvad der af selskabet udloddes til aktuelle aktionærer eller andelshavere, jf. dog stk. 3.
+1) Alt, hvad der af selskabet udloddes til aktuelle aktionærer eller andelshavere, jf. dog stk. 3, og afståelsessummer omfattet af § 16 B, stk. 1.
 
 2) Udlodning af likvidationsprovenu for tiden fra begyndelsen af det indkomstår, i hvilket ophør sker, til ophørstidspunktet fra et investeringsinstitut med minimumsbeskatning, der er omfattet af aktieavancebeskatningslovens § 21, i det omfang udlodningen ikke overstiger minimumsindkomsten, jf. § 16 C, stk. 3.
 

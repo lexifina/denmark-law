@@ -14,7 +14,7 @@ Stk. 4. Selskabets nettofinansieringsudgifter består af en eventuel negativ sum
 
 4) En beregnet finansieringsomkostning ved finansielle leasingbetalinger medregnes hos leasingtager, mens leasinggiver medregner en beregnet finansieringsindtægt.
 
-5) Skattepligtig fortjeneste og udnyttede tab ved afståelse af aktier m.v. omfattet af aktieavancebeskatningsloven samt skattepligtige udbytter og skattepligtige afståelsessummer omfattet af ligningslovens § 16 B. Er summen efter 1. pkt. negativ, medregnes den ikke, men fremføres til modregning i efterfølgende indkomstår. 1. pkt. omfatter ikke afkast af lagerbeskattede næringsaktier omfattet af stk. 5, 7. pkt.
+5) Skattepligtig fortjeneste og udnyttede tab ved afståelse af aktier m.v. omfattet af aktieavancebeskatningsloven samt skattepligtige udbytter. Er summen efter 1. pkt. negativ, medregnes den ikke, men fremføres til modregning i efterfølgende indkomstår. 1. pkt. omfatter ikke afkast af lagerbeskattede næringsaktier omfattet af stk. 5, 7. pkt.
 
 6) Uanset nr. 1-5 indgår finansieringsindtægter og -udgifter, der medregnes som følge af CFC-beskatning i § 32 eller som følge af genbeskatning efter § 15, stk. 8 og 9, i lov nr. 426 af 6. juni 2005, ikke i opgørelsen af nettofinansieringsudgifter.
 
