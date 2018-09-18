@@ -9,3 +9,5 @@
 5) For så vidt angår lov om autorisation af sundhedspersoner og om sundhedsfaglig virksomhed angår lovændringen § 52.
 
 6) For så vidt angår lov om autorisation af sundhedspersoner og om sundhedsfaglig virksomhed angår lovændringen §§ 2, 3 og 5.
+
+7) For så vidt angår lov om autorisation af sundhedspersoner og om sundhedsfaglig virksomhed angår lovændringen §§ 1, 49, 52, kap. 24 a, 78, 79 og 89.

@@ -1,5 +1,5 @@
-Sundheds- og Ældreministeriet, den 18. august 2017
+Sundheds- og Ældreministeriet, den 13. september 2018
 
 Ellen Trane Nørby
 
-/ Camilla Lerager Pedersen
+/ Cecilie Salejärvi Pedersen
