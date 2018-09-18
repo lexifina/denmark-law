@@ -80,8 +80,22 @@ Lov nr. 113 af 31. januar 2017 (Etablering af en bisidderordning og praktiserend
 
 Stk. 1. Loven træder i kraft den 1. februar 2017, jf. dog stk. 2.
 
-Stk. 2. (Udelades).
+Stk. 2. (Udelades)
 
 § 6
 
 Lovens §§ 1, 3 og 4 gælder ikke for Færøerne og Grønland.
+
+Lov nr. 727 af 8. juni 2018 (Autorisation af osteopater, udvidelse af tandlægernes virksomhedsområde m.v.) indeholder følgende ikrafttrædelsesbestemmelser:
+
+§ 3
+
+Stk. 1. Loven træder i kraft den 1. juli 2018.
+
+Stk. 2. Personer, der ved lovens ikrafttræden udøver virksomhed som osteopat her i landet, kan uden autorisation fortsat betegne sig som osteopat frem til den 30. juni 2023.
+
+Stk. 3. Retten til fortsat at betegne sig som osteopat i medfør af stk. 2 giver ikke ret til at udføre manipulationsbehandling af rygsøjlen, jf. § 52, stk. 5, i lov om autorisation af sundhedspersoner og om sundhedsfaglig virksomhed, uden autorisation.
+
+§ 4
+
+Loven gælder ikke for Færøerne og Grønland, men kan ved kongelig anordning sættes helt eller delvis i kraft for Færøerne med de ændringer, som de færøske forhold tilsiger.
