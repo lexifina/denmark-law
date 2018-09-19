@@ -1,4 +1,4 @@
-Lov nr. 932 af 15. december 1999, som ændrer lovens § 4 og § 11, indeholder følgende ikrafttrædelses bestemmelser:
+Lov nr. 932 af 15. december 1999 (Storbritannien omfattes af loven) indeholder følgende ikrafttrædelsesbestemmelser:
 
 § 2
 
@@ -10,8 +10,26 @@ Stk. 1. Loven finder ikke anvendelse for de Fællesskabsvirksomheder og Fælless
 
 Stk. 2. Hvis de i stk. 1 nævnte aftaler udløber, kan parterne aftale at videreføre disse. Hvis de ikke videreføres, finder loven anvendelse.
 
-Lov nr. 107 af 26. februar 2008, som ændrer lovens § 11, stk. 2 og 6 samt fodnoten til lovens titel, indeholder følgende ikrafttrædelses bestemmelse:
+Lov nr. 107 af 26. februar 2008 (Udvidelse af antallet af medlemmer i det særlige forhandlingsorgan) indeholder følgende ikrafttrædelsesbestemmelse:
 
 § 2
 
 Loven træder i kraft den 1. marts 2008.
+
+Lov nr. 281 af 6. april 2011 (Implementering af Rådets direktiv 2009/38/EF om revision af det eksisterende direktiv) indeholder følgende ikrafttrædelsesbestemmelser:
+
+§ 2
+
+Loven træder i kraft den 5. juni 2011.
+
+§ 3
+
+Stk. 1. Loven bortset fra § 1, nr. 15, finder ikke anvendelse for de fællesskabsvirksomheder og fællesskabskoncerner, hvor der er aftaler om information og høring efter denne lov, som er trådt i kraft, eller som træder i kraft senest den 4. juni 2011. Det er dog en forudsætning, at en aftale omfatter alle lønmodtagere i den pågældende virksomhed eller koncern og vedrører information og høring om spørgsmål, der berører virksomheder eller bedrifter i flere af EU- og EØS-landene.
+
+Stk. 2. Hvis de i stk. 1 nævnte aftaler udløber, kan parterne aftale at videreføre disse. Hvis ikke de videreføres, finder loven anvendelse.
+
+Lov nr. 385 af 26. april 2017 (Implementering af direktiv om ændring af visse direktiver på det arbejds- og ansættelsesretlige område, for så vidt angår søfarende, m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 5
+
+Loven træder i kraft den 10. oktober 2017.
