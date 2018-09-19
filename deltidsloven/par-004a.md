@@ -8,4 +8,4 @@ Stk. 4. Hvis en lønmodtager påviser faktiske omstændigheder, som giver anledn
 
 Stk. 5. § 4, stk. 1 og 5, finder tilsvarende anvendelse på sager om overtrædelse af stk. 3.
 
-Stk. 6. Bestemmelserne i Bilag A-D skal fortolkes i overensstemmelse med stk. 1 og 3.
+Stk. 6. Bestemmelserne i bilag A skal fortolkes i overensstemmelse med stk. 1 og 3.

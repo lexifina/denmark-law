@@ -1,3 +1,3 @@
-Bekendtgørelse af deltidslov
+Bekendtgørelse af deltidsloven
 
-Herved bekendtgøres deltidslov, nr. 443 af 7. juni 2001 med de ændringer, der følger af lov nr. 433 af 10. juni 2002.
+Herved bekendtgøres deltidsloven, lov nr. 815 af 26. september 2002 med de ændringer, der følger af lov nr. 297 af 22. marts 2016.
