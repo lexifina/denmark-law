@@ -1,4 +1,4 @@
-§ 5 a. Anmodning om foretagelse af begravelse eller ligbrænding skal ske ved anvendelse af den digitale løsning, som Ministeriet for Ligestilling og Kirke stiller til rådighed (digital selvbetjening). Anmodninger, der ikke indgives ved digital selvbetjening, afvises af begravelsesmyndigheden, jf. dog stk. 2 og 3.
+§ 5 a. Anmodning om foretagelse af begravelse eller ligbrænding skal ske ved anvendelse af den digitale løsning, som Kirkeministeriet stiller til rådighed (digital selvbetjening). Anmodninger, der ikke indgives ved digital selvbetjening, afvises af begravelsesmyndigheden, jf. dog stk. 2 og 3.
 
 Stk. 2. Hvis begravelsesmyndigheden finder, at der foreligger særlige forhold, der gør, at borgeren ikke må forventes at kunne anvende digital selvbetjening, skal begravelsesmyndigheden tilbyde, at anmodningen kan indgives på anden måde end ved digital selvbetjening efter stk. 1. Begravelsesmyndigheden bestemmer, hvordan en anmodning omfattet af 1. pkt. skal indgives, herunder om den skal indgives mundtligt eller skriftligt.
 
