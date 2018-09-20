@@ -1,5 +1,5 @@
-Ministeriet for Ligestilling og Kirke, den 25. juni 2013
+Kirkeministeriet, den 11. september 2018
 
-Manu Sareen
+Mette Bock
 
-/ Christina Hyldgaard Jacobsen
+/ Marjun Egholm
