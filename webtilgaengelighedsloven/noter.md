@@ -1,0 +1,1 @@
+1) Loven gennemfører Europa-Parlamentets og Rådets direktiv 2016/2102/EU af 26. oktober 2016 om tilgængelighed af offentlige organers websteder og mobilapplikationer, EU-Tidende 2016, nr. L 327, side 1.
