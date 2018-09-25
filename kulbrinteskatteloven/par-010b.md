@@ -1,1 +1,1 @@
-§ 10 B. (Ophævet).
+§ 10 B. (Ophævet)
