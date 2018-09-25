@@ -1,20 +1,4 @@
-Lov nr. 403 af 28. april 2014 indeholder følgende ikrafttrædelses- og overgangsbestemmelser:
-
-§ 22
-
-Stk. 1. Loven træder i kraft den 15. maj 2014, jf. dog stk. 2-4.
-
-Stk. 2-8. (Udelades)
-
-§ 23
-
-Stk. 1. Loven gælder ikke for Færøerne og Grønland, jf. dog stk. 2 og 3.
-
-Stk. 2. §§ 1, 2, 4, 5, 8, 9, 12, 13, 14, 18, 19 og 21 kan ved kongelig anordning sættes helt eller delvis i kraft for Færøerne og Grønland med de ændringer, som de færøske og grønlandske forhold tilsiger.
-
-Stk. 3. (Udelades)
-
-Lov nr. 334 af 31. marts 2015 indeholder følgende ikrafttrædelses- og overgangsbestemmelser:
+Lov nr. 334 af 31. marts 2015 (Gennemførelse af direktiv om genopretning og afvikling af kreditinstitutter og investeringsselskaber (BRRD) og direktiv om indskudsgarantiordninger (DGSD) indeholder følgende ikrafttrædelses- og overgangsbestemmelse:
 
 § 7
 
@@ -34,13 +18,7 @@ Stk. 7. (Udelades)
 
 Stk. 8. Stresstest omfattet af § 20, stk. 2, i lov om en indskyder- og investorgarantiordning som affattet ved denne lovs § 3, nr. 34, skal første gang finde sted senest den 3. juli 2017.
 
-§ 8
-
-Stk. 1. §§ 1 og 3-5 gælder ikke for Færøerne og Grønland, jf. dog stk. 2.
-
-Stk. 2. §§ 1, 3 og 4 kan ved kongelig anordning sættes helt eller delvis i kraft for Færøerne og Grønland med de ændringer, som de færøske og grønlandske forhold tilsiger.
-
-Lov nr. 532 af 29. april 2015 indeholder følgende ikrafttrædelses- og overgangsbestemmelser:
+Lov nr. 532 af 29. april 2015 (Ret til basal indlånskonto, gennemførelse af ændringer til gennemsigtighedsdirektivet, modernisering af reglerne for indsendelse af årsrapporter, udvidelse af forsikringsselskabers drift af anden virksomhed, præcisering af regulering af refinansieringsrisiko for realkreditobligationer m.v. og gennemførelse af boligkreditdirektivet m.v.) indeholder følgende ikrafttrædelses- og overgangsbestemmelse:
 
 § 16
 
@@ -52,10 +30,26 @@ Stk. 3. §§ 14 og 15 træder i kraft den 1. juni 2015.
 
 Stk. 4-17. (Udelades)
 
-§ 17
+Lov nr. 1563 af 15. december 2015 (Gennemførelse af UCITS V-direktivet, indfasning af nyt likviditetsdækningskrav for penge- og realkreditinstitutter og hjemmel for Finanstilsynet til at indsamle og offentliggøre priser på boliglån) indeholder følgende ikrafttrædelses- og overgangsbestemmelse:
 
-Stk. 1. Loven gælder ikke for Færøerne og Grønland, jf. dog stk. 2 og 3.
+§ 10
 
-Stk. 2. §§ 1, 2, 4, 5, 7, 8, 12, 14 og 15 kan ved kongelig anordning sættes helt eller delvis i kraft for Færøerne og Grønland med de ændringer, som de færøske og grønlandske forhold tilsiger.
+Stk. 1. Loven træder i kraft den 18. marts 2016, jf. dog stk. 2-4.
 
-Stk. 3. (Udelades)
+Stk. 2. § 14, stk. 1, § 64, stk. 8, § 71, stk. 2 og 3, § 124, §§ 126 b-126 g, § 174, stk. 1, 1. pkt., § 182, stk. 1 og 2, § 283, § 351, stk. 4, 5 og 7-9, § 352, stk. 2, § 354 e, stk. 2, § 355, stk. 3, § 365, stk. 2, § 373, stk. 1-3, § 374, stk. 3, og §§ 417 a-417 d i lov om finansiel virksomhed som affattet ved denne lovs § 1, nr. 6, 8-10, 18-20, 27, 29, 32-40 og 42-48, og § 84 l i lov om værdipapirhandel m.v. som affattet ved denne lovs § 3, nr. 1, samt §§ 4, 5, 7, 8 og 9 træder i kraft den 1. januar 2016.
+
+Stk. 3-4. (Udelades)
+
+Lov nr. 665 af 8. juni 2017 (Gennemførelse af direktiv om markeder for finansielle instrumenter (MiFID II) og ændringer som følge af forordning om markeder for finansielle instrumenter (MiFIR) m.v.) indeholder følgende ikrafttrædelses- og overgangsbestemmelse:
+
+§ 21
+
+Stk. 1. Loven træder i kraft den 3. januar 2018, jf. dog stk. 2.
+
+Stk. 2-3. (Udelades)
+
+Lov nr. 666 af 8. juni 2017 (Ændrede procedurer vedrørende nedskrivning og konvertering af kapitalinstrumenter m.m.) indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 6
+
+Loven træder i kraft den 1. juli 2017.
