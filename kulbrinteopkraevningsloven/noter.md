@@ -1,1 +1,0 @@
-1) Ved § 3 i lov nr. 513 af 7. juni 2006 indsættes nyt stk. 3 i § 1, stk. 3 bliver herefter til stk. 4. Stk. 4 i § 4 nyaffattes. Skatteministeren fastsætter tidspunktet for ikrafttræden af lov nr. 513 af 7. juni 2006. (én skattekonto)
