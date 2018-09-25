@@ -1,1 +1,1 @@
-§ 13A. (Ophævet).
+§ 13 A. (Ophævet)
