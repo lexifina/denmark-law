@@ -128,60 +128,6 @@ Stk. 2. Loven finder anvendelse på domme, der afsiges efter lovens ikrafttræde
 
 Stk. 3. (Udelades)
 
-Lov nr. 1723 af 27. december 2016 (Kriminalisering af udtrykkelig billigelse af visse strafbare handlinger som led i religiøs oplæring) indeholder følgende ikrafttrædelsesbestemmelse:
-
-§ 2
-
-Loven træder i kraft den 1. januar 2017.
-
-Lov nr. 1728 af 27. december 2016 (Øget respekt for det offentlige rum, offentlige myndigheder og personer i offentlig tjeneste m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
-
-§ 6
-
-Stk. 1. Loven træder i kraft dagen efter bekendtgørelsen i Lovtidende.
-
-Stk. 2. (Udelades)
-
-Lov nr. 189 af 27. februar 2017 (Styrket kontrol med udlændinge på tålt ophold og kriminelle udviste, herunder indførelse af underretningspligt, skærpet straf, afsoning i fodlænke og særlig adgang til varetægtsfængsling, og ændring af klageadgang) indeholder følgende ikrafttrædelsesbestemmelse:
-
-§ 4
-
-Stk. 1. Loven træder i kraft den 1. marts 2017, jf. dog stk. 2.
-
-Stk. 2-3. (Udelades)
-
-Lov nr. 426 af 3. maj 2017 om markedsføring indeholder følgende ikrafttrædelsesbestemmelse:
-
-§ 40. Loven træder i kraft den 1. juli 2017.
-
-Stk. 2-3. (Udelades)
-
-Lov nr. 494 af 22. maj 2017 (Skærpelse af straffen for ulovlig besiddelse af skydevåben m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
-
-§ 2
-
-Loven træder i kraft dagen efter bekendtgørelsen i Lovtidende.
-
-Lov nr. 665 af 8. juni 2017 (Gennemførelse af direktiv om markeder for finansielle instrumenter (MiFID II) og ændringer som følge af forordning om markeder for finansielle instrumenter (MiFIR) m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
-
-§ 21
-
-Stk. 1. Loven træder i kraft den 3. januar 2018, jf. dog stk. 2.
-
-Stk. 2-6. (Udelades)
-
-Lov nr. 672 af 8. juni 2017 (Styrket indsats mod rocker- og bandekriminalitet m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
-
-§ 4
-
-Loven træder i kraft den 1. juli 2017.
-
-Lov nr. 675 af 8. juni 2017 (Ophævelse af straffelovens blasfemibestemmelse) indeholder følgende ikrafttrædelsesbestemmelse:
-
-§ 2
-
-Loven træder i kraft dagen efter bekendtgørelsen i Lovtidende.
-
 Lov nr. 753 af 19. juni 2017 (Skærpelse af straffen for utryghedsskabende tiggeri) indeholder følgende ikrafttrædelsesbestemmelse:
 
 § 2
@@ -189,3 +135,85 @@ Lov nr. 753 af 19. juni 2017 (Skærpelse af straffen for utryghedsskabende tigge
 Stk. 1. Loven træder i kraft dagen efter bekendtgørelsen i Lovtidende, jf. dog stk. 2.
 
 Stk. 2. Straffelovens § 197, stk. 2 og 3, som affattet ved denne lovs § 1, nr. 1, ophæves den 1. juli 2020.
+
+Lov nr. 1402 af 5. december 2017 (Initiativer mod rocker- og bandekriminalitet m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 4
+
+Stk. 1. Lovens § 1 træder i kraft dagen efter bekendtgørelsen i Lovtidende.
+
+Stk. 2-4. (Udelades)
+
+Lov nr. 1680 af 26. december 2017 (Selvstændig bestemmelse om indbrudstyveri) indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 4
+
+Loven træder i kraft den 1. januar 2018.
+
+Lov nr. 140 af 28. februar 2018 (Ophævelse af forældelsesfrister for gerningsmandens strafansvar i sager om seksuelt misbrug af børn og for erstatningskrav mod forvaltningsmyndigheder for svigt i sager om overgreb mod børn, forhøjelse af niveauet for tortgodtgørelse for seksuelle krænkelser samt ophævelse af 72-timersreglen i sager om voldtægt, incest og seksuelt misbrug af børn m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 5
+
+Stk. 1. Loven træder i kraft den 1. april 2018.
+
+Stk. 2. § 1 finder også anvendelse på lovovertrædelser, der er begået før lovens ikrafttræden, medmindre forældelse efter de hidtil gældende regler er indtrådt før lovens ikrafttræden.
+
+Stk. 3-5. (Udelades)
+
+Lov nr. 141 af 28. februar 2018 (Skærpelse af straffen for vidnetrusler og visse former for hærværk) indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 2
+
+Loven træder i kraft dagen efter bekendtgørelsen i Lovtidende.
+
+Lov nr. 257 af 10. april 2018 (Skærpelse af straffen for blufærdighedskrænkelse og digitale sexkrænkelser) indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 2
+
+Loven træder i kraft den 15. april 2018.
+
+Lov nr. 309 af 25. april 2018 om forretningshemmeligheder indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 19. Loven træder i kraft den 9. juni 2018.
+
+Stk. 2. (Udelades)
+
+Lov nr. 358 af 29. april 2018 (Skærpelse af straffen for grov vold) indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 2
+
+Loven træder i kraft den 1. maj 2018.
+
+Lov nr. 503 af 23. maj 2018 (Konsekvensændringer som følge af databeskyttelsesloven og databeskyttelsesforordningen samt medieansvarslovens anvendelse på offentligt tilgængelige informationsdatabaser m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 32
+
+Stk. 1. Loven træder i kraft den 25. maj 2018, jf. dog stk. 3.
+
+Stk. 2-3. (Udelades)
+
+Lov nr. 711 af 8. juni 2018 (Selvstændig bestemmelse om hvidvask) indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 2
+
+Loven træder i kraft den 1. juli 2018.
+
+Lov nr. 715 af 8. juni 2018 (Retsvirkninger af et foreløbigt forbud mod eller en opløsning af en forening) indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 3
+
+Loven træder i kraft dagen efter bekendtgørelsen i Lovtidende.
+
+Lov nr. 717 af 8. juni 2018 (Tildækningsforbud) indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 2
+
+Loven træder i kraft den 1. august 2018.
+
+Lov nr. 718 af 8. juni 2018 (Udskydelse af forældelsesfristen i visse sager om vold mod børn i hjemmet og skærpelse af straffen for gentagen simpel vold i nære relationer) indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 2
+
+Stk. 1. Loven træder i kraft den 1. juli 2018.
+
+Stk. 2. § 1, nr. 1, finder også anvendelse på lovovertrædelser, der er begået før lovens ikrafttræden, medmindre forældelse efter de hidtil gældende regler er indtrådt før lovens ikrafttræden.
