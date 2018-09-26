@@ -1,5 +1,5 @@
-Erhvervs- og Vækstministeriet, den 5. juli 2016
+Erhvervsministeriet, den 19. september 2018
 
-Troels Lund Poulsen
+Rasmus Jarlov
 
 / Jesper Berg
