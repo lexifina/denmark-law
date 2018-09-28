@@ -1,0 +1,1 @@
+§ 24 f. I tilladelser efter denne lov kan der fastsættes nærmere bestemmelser om, at rettighedshavere skal stille sikkerhed for opfyldelse af samtlige forpligtelser i henhold til tilladelsen. Sikkerheden kan kræves ændret eller suppleret med et varsel. Sikkerhedsstillelsen skal godkendes af energi-, forsynings- og klimaministeren, som kan fastsætte vilkår for godkendelsen.

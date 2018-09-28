@@ -1,0 +1,3 @@
+§ 24 c. Energi-, forsynings- og klimaministeren kan til enhver tid anmode rettighedshaveren til en tilladelse meddelt efter §§ 3, 5, 17, 23 eller 24 om at dokumentere, at denne er i besiddelse af den fornødne tekniske og finansielle kapacitet til at kunne udføre de aktiviteter, der er omfattet af tilladelsen, jf. § 24 a.
+
+Stk. 2. Kan en eller flere af de deltagere, der i forening udgør en rettighedshaver til en tilladelse, jf. stk. 1, ikke dokumentere at have fornøden teknisk og finansiel kapacitet, kan energi-, forsynings- og klimaministeren give påbud om, at forholdet afhjælpes inden en nærmere fastsat frist. Der kan endvidere gives påbud om helt eller delvis at indstille virksomheden.

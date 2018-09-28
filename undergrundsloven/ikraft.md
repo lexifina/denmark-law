@@ -1,63 +1,43 @@
-Lov nr. 310 af 17. maj 1995 om ændring af lov om anvendelse af Danmarks undergrund, der vedrører § 5, stk. 4, § 6, stk. 3, § 8, stk. 2-5, §§ 9, 12 og 12 a, § 13, stk. 1, § 19, stk. 2, § 26, stk. 2 og 3, og §§ 28 a og 33 indeholder følgende ikrafttrædelsesbestemmelse:
+Lov nr. 535 af 29. april 2015 (Gennemførelse af offshoresikkerhedsdirektivet, subsidiært ansvar for afvikling af anlæg, plan for afvikling af anlæg, sikkerhedsstillelse, forlængelse af geotermitilladelser, beredskab for forsyningsmæssige forhold, forsikring, digital kommunikation m.v.), der angår fodnoten til lovens titel, § 1, stk. 2, nr. 2-4, § 1, stk. 3, § 1 a, § 5, stk. 3-5, § 12 a, stk. 1, litra a, § 17, stk. 2, § 17 a, § 18 b, stk. 1, litra a, § 18 c, stk. 1, § 18 c, stk. 3 og 4, § 23 c, stk. 1, litra a, kapitel 7 a, § 27, stk. 2, § 28, § 28 d, § 29, stk. 2 og 3, § 29 a, § 32 a, § 34 b og § 37 a, stk. 3, 1. pkt., og stk. 5, indeholder følgende ikrafttrædelses- og overgangsbestemmelser:
 
 § 2
 
-Stk. 1. Loven træder i kraft den 1. juni 1995, jf. dog stk. 2.
+Loven træder i kraft den 19. juli 2015.
 
-Stk. 2. Bestemmelserne i §§ 12 og 12 a, som affattet ved denne lovs § 1, nr. 5 og 6, gælder ikke for nye tilladelser til efterforskning og indvinding af kulbrinter i henhold til § 5, som meddeles inden den 31. december 2012 for de områder, hvortil eneretten bortfalder den 8. juli 2012 ved udløbet af eneretsbevillingen af 8. juli 1962 til efterforskning og indvinding af kulbrinter m.v. i Danmarks undergrund. Sådanne tilladelser skal meddeles på grundlag af objektive og ikke-diskriminerende principper.
+§ 3
 
-Lov nr. 447 af 31. maj 2000 om ændring af visse miljølove, hvis § 6 vedrører undergrundslovens §§ 37 a og 37 b, indeholder følgende ikrafttrædelsesbestemmelse:
+Stk. 1. § 28, stk. 2 og 3, i lov om anvendelse af Danmarks undergrund som affattet ved denne lovs § 1, nr. 18, finder anvendelse for arbejder, som er under udførelse eller påbegyndes den 19. juli 2016 eller senere.
 
-§ 14
+Stk. 2. § 28 d, stk. 1, i lov om anvendelse af Danmarks undergrund som affattet ved denne lovs § 1, nr. 19, finder ikke anvendelse på efterforskningsboringer, der udføres på baggrund af tilladelser meddelt inden den 18. juli 2013.
 
-Stk. 1. Loven træder i kraft den 15. september 2000, jf. dog stk. 2-4.
+Stk. 3. § 1, nr. 21, finder anvendelse på overdragelser godkendt efter § 29, stk. 1, i lov om anvendelse af Danmarks undergrund, hvis godkendelsen er givet efter lovens ikrafttræden.
 
-Stk. 2. Lovens regler om adgang til at påklage afgørelser gælder for sager, der er afgjort i første instans efter lovens ikrafttræden. Reglerne om klage over afslag på anmodning om aktindsigt efter § 4, stk. 5, i lov om aktindsigt i miljøoplysninger som ændret ved lovens § 1, nr. 10, gælder ligeledes for afslag, der meddeles efter lovens ikrafttræden.
+Lov nr. 427 af 18. maj 2016 (Konsekvensændringer m.v. som følge af lov om miljøvurdering af planer og programmer og af konkrete projekter (VVM)), hvis § 5 angår § 28 a, stk. 1, 1. og 2. pkt., § 28 c, stk. 1, og § 37 a, stk. 3 og 5, indeholder følgende ikrafttrædelses- og overgangsbestemmelse:
 
-Stk. 3 og 4. (Udeladt)
+§ 10
 
-Lov nr. 74 af 12. februar 2002 om ændring af lov om anvendelse af Danmarks undergrund, lov om etablering og benyttelse af en rørledning til transport af råolie og kondensat og lov om visse havanlæg, hvis § 1 vedrører undergrundslovens § 6, stk. 1, § 11, stk. 2 og 3, § 12, stk. 2, overskriften til kapitel 8, § 25, stk. 3, og § 38, indeholder følgende ikrafttrædelsesbestemmelse:
+Stk. 1. Loven træder i kraft den 16. maj 2017, jf. dog stk. 2.
 
-§ 4
+Stk. 2-6. (Udelades)
 
-Loven træder i kraft den 15. marts 2002.
+Stk. 7. Loven finder ikke anvendelse ved Energiklagenævnets behandling af klager over afgørelser efter lov om anvendelse af Danmarks undergrund, lov om kontinentalsoklen og lov om fremme af vedvarende energi eller regler udstedt i medfør heraf truffet før lovens ikrafttræden. For sådanne klager finder de hidtil gældende regler anvendelse.
 
-Lov nr. 1230 af 27. december 2003 om ændring af lov om anvendelse af Danmarks undergrund, der vedrører § 13, stk. 4 og 5, indeholder følgende ikrafttrædelsesbestemmelse:
+Stk. 8. (Udelades)
 
-§ 2
+Stk. 9. De hidtil gældende regler i § 28 a i lov om anvendelse af Danmarks undergrund, i § 4 a i lov om kontinentalsoklen og i bekendtgørelse nr. 1419 af 3. december 2015 om VVM, konsekvensvurdering vedrørende internationale naturbeskyttelsesområder og beskyttelse af visse arter ved efterforskning og indvinding af kulbrinter, lagring i undergrunden, rørledninger, m.v. offshore finder fortsat anvendelse på konkrete projekter omfattet af denne lov, hvis
 
-Loven træder i kraft dagen efter bekendtgørelsen i Lovtidende.
+1) Energistyrelsen har truffet screeningsafgørelse, jf. bekendtgørelsens § 4, stk. 3, før ikrafttrædelsestidspunktet,
 
-Lov nr. 442 af 9. juni 2004 om retssikkerhed ved forvaltningens anvendelse af tvangsindgreb og oplysningspligter, hvis § 12 vedrører undergrundslovens § 27, stk. 1, indeholder følgende ikrafttrædelsesbestemmelse:
+2) ansøgeren har anmodet Energistyrelsen om en udtalelse om, hvilke oplysninger der skal fremlægges i VVM-redegørelsen, jf. bekendtgørelsens § 5, stk. 4, før ikrafttrædelsestidspunktet, eller
 
-§ 24. Loven træder i kraft den 1. januar 2005.
+3) ansøgeren har fremsendt VVM-redegørelsen til Energistyrelsen, jf. bekendtgørelsens § 5, stk. 1, før ikrafttrædelsestidspunktet.
 
-Lov nr. 548 af 6. juni 2007 om ændring af lov om anvendelse af Danmarks undergrund, lov om elforsyning, lov om kystbeskyttelse, lov om havne og forskellige andre love, hvis § 1 vedrører undergrundslovens fodnote, § 2 a, § 11, stk. 3, § 26, stk. 2-4, §§ 28 a-28 c og § 37 a, stk. 1, indeholder følgende ikrafttrædelsesbestemmelse:
+Lov nr. 1400 af 5. december 2017 (Forbedret tredjepartsadgang i forbindelse med kulbrinteindvinding, reservationer af kapacitet og opkrævning af bidrag til afviklingsomkostninger i olierørledningen samt ny klageadgang i lov om etablering og benyttelse af en rørledning til transport af råolie og kondensat m.v.), hvis § 1 angår § 10, stk. 3, 2. pkt., § 10, stk. 5 og 6, § 11, stk. 3, § 11 a, § 13, stk. 1, 1. pkt., § 15 a, § 16, stk. 3, § 16, stk. 5-9, § 16 a, § 17, stk. 3-5, § 25, stk. 1, 3. pkt., § 26, stk. 1 og 4, § 30, stk. 1, § 38, stk. 1, nr. 3 og 4, indeholder følgende ikrafttrædelses- og overgangsbestemmelse:
 
-§ 9
+§ 3
 
-Stk. 1. Loven træder i kraft dagen efter bekendtgørelsen i Lovtidende.
+Stk. 1. Loven træder i kraft den 1. januar 2018.
 
-Stk. 2. (Udeladt)
+Stk. 2. (Udelades)
 
-Lov nr. 1400 af 27. december 2008 om ændring af forskellige love på Klima- og Energiministeriets område, hvis § 2 vedrører undergrundslovens § 34 a, indeholder følgende ikrafttrædelsesbestemmelse:
-
-§ 9
-
-Loven træder i kraft den 1. januar 2009.
-
-Lov nr. 718 af 25. juni 2010 om ændring af konkursloven og forskellige andre love, hvis § 51 vedrører undergrundslovens § 30, stk. 1, nr. 3, indeholder følgende ikrafttrædelsesbestemmelse:
-
-§ 55
-
-Stk. 1. Justitsministeren fastsætter tidspunktet for lovens ikrafttræden.
-
-Stk. 2-10. (Udeladt)
-
-Lov nr. 541 af 30. maj 2011 om ændring af lov om anvendelse af Danmarks undergrund, der vedrører § 1, stk. 3, § 2 a, § 5, stk. 4, § 10, § 12 a, stk. 3, § 13, stk. 2, § 16, §§ 18 a-18 d, §§ 23-23 v, §§ 28 a, 28 b, 37 a og 37 b indeholder følgende ikrafttrædelsesbestemmelse:
-
-§ 2
-
-Stk. 1. Loven træder i kraft den 1. juni 2011.
-
-Stk. 2. (Udeladt)
+Stk. 3. Regler udstedt i medfør af § 16, stk. 5, i lov om anvendelse af Danmarks undergrund, jf. lovbekendtgørelse nr. 960 af 13. september 2011, forbliver i kraft, indtil de ophæves eller afløses af nye forskrifter udstedt i medfør af § 16, stk. 8, i lov om anvendelse af Danmarks undergrund.
