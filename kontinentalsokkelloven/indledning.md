@@ -1,3 +1,3 @@
-Bekendtgørelse af lov om kontinentalsoklen
+Bekendtgørelse af lov om kontinentalsoklen og visse rørledningsanlæg på søterritoriet
 
-Hermed bekendtgøres lov om kontinentalsoklen, jf. lovbekendtgørelse nr. 182 af 1. maj 1979 med de ændringer, der følger af § 46 i lov nr. 357 af 6. juni 1991, § 2 i lov nr. 484 af 12. juni 1996, § 1 i lov nr. 187 af 12. marts 1997, § 3 i lov nr. 317 af 3. juni 1998, § 7 i lov nr. 447 af 31. maj 2000 og § 1 lov nr. 1276 af 20. december 2000.
+Hermed bekendtgøres lov om kontinentalsoklen og visse rørledningsanlæg på søterritoriet, jf. lovbekendtgørelse nr. 1101 af 18. november 2005 med de ændringer, der følger af § 2 i lov nr. 548 af 6. juni 2007, § 3 i lov nr. 1400 af 27. december 2008, § 6 i lov nr. 427 af 18. maj 2016, lov nr. 1401 af 5. december 2017 og § 2 i lov nr. 1542 af 19. december 2017.
