@@ -1,3 +1,5 @@
-Loven indeholder bestemmelser, der gennemfører Rådets Direktiv 85/338/EØF af 27. juni 1985, L. 175/40 som ændret ved Rådets Direktiv 97/11/EF, L 73/5 om vurdering af visse offentlige og private projekters indvirkning på miljøet (VVM-direktivet).
+1) Loven indeholder bestemmelser, der gennemfører dele af Rådets direktiv 92/43/EØF af 21. maj 1992, (EF-Tidende 1992 nr. L 206, side 7), som ændret senest ved Europa-Parlamentets og Rådets forordning (EF) nr. 1882/2003 af 29. september 2003, (EU-Tidende 2003 nr. L 284, side 1), dele af Rådets direktiv 85/337/EØF af 27. juni 1985, (EF-Tidende 1985 nr. L 175, side 40), som ændret senest ved Europa-Parlamentets og Rådets direktiv 2003/35/EF af 26. maj 2003, (EU-Tidende 2003 nr. L 156, side 17), og dele af Rådets direktiv 79/409/EØF af 2. april 1979, (EF-Tidende 1979 nr. L 103, side 1), som ændret senest ved Rådets forordning (EF) nr. 807/2003 af 14. april 2003, (EU-Tidende 2003 nr. L 122, side 36).
 
-Lov nr. 187 af 12. marts 1997 om ændring af lov om kontinentalsoklen trådte i kraft den 14. marts 1997.
+2) Ved kongelig resolution af 28. juni 2015 blev ressortansvaret for Energiklagenævnet overført fra Energi-, Forsynings- og Klimaministeriet til Miljøministeriet. Energiklagenævnet er herefter ved kongelig resolution af 8. juni 2016 blevet ressortoverført til Erhvervsministeriet pr. 1. januar 2017.
+
+3) Lov nr. 548 af 6. juni 2007 er bekendtgjort den 7. juni 2007 i Lovtidende A og er trådt i kraft den 8. juni 2007.

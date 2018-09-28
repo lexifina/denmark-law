@@ -1,57 +1,69 @@
-Lov nr. 357 af 6. juni 1991 om råstoffer, der ændrer § 2, stk. 1, 2. pkt., og ophæver § 2, stk. 3-10, samt §§ 6 a og 6 b, indeholder følgende ikrafttrædelsesbestemmelser:
+Lov nr. 548 af 6. juni 2007 (Gennemførelse af direktiver om naturbeskyttelse på havet, m.v.), hvis § 2 angår fodnoten, § 1 a, § 2, stk. 1, 3. pkt., §§ 4-4 g, § 5, stk. 1 og 2, § 5, stk. 4, § 6 og § 6 a, stk. 1, indeholder følgende ikrafttrædelsesbestemmelse:
 
-§ 48. Loven træder i kraft den 1. januar 1992, dog træder § 46 i kraft den 1. august 1991.
+§ 9
 
-§ 49. Regler, der er udstedt efter bestemmelserne i § 46, nr. 2, og § 48, stk. 2, forbliver i kraft, indtil de afløses af regler fastsat i henhold til denne lov. Overtrædelse af reglerne straffes efter de hidtil gældende regler.
+Stk. 1. Loven træder i kraft dagen efter bekendtgørelsen i Lovtidende.
 
-§ 50. Afgørelser efter de regler, der er nævnt i § 46, stk. 2, og § 48, stk. 2, og § 49, bevarer deres gyldighed, indtil der i medfør af loven eller regler udstedt med hjemmel i loven træffes nye afgørelser. Overtrædelse af sådanne afgørelser straffes efter de hidtil gældende regler.
+Stk. 2. (Udelades)
 
-Lov nr. 484 af 12. juni 1996 om ændring af lov om råstoffer og lov om kontinentalsoklen, som ændrer § 2 i kontinentalsokkelloven indeholder følgende ikrafttrædelsesbestemmelse:
+Lov nr. 1400 af 27. december 2008 (Undtagelse fra indførelse i Lovtidende af tekniske specifikationer m.v.), hvis § 3 angår § 4 h, indeholder følgende ikrafttrædelsesbestemmelse:
 
-§ 3
+§ 9
 
-Stk. 1. Loven træder i kraft den 1. januar 1997.
+Loven træder i kraft den 1. januar 2009.
 
-Stk. 2. (Udeladt)
+Lov nr. 427 af 18. maj 2016 (Konsekvensændringer m.v. som følge af lov om miljøvurdering af planer og programmer og af konkrete projekter (VVM)), hvis § 6 angår § 4 a, stk. 1, 1. og 2. pkt., og § 4 d, stk. 1, indeholder følgende ikrafttrædelses- og overgangsbestemmelser:
 
-Stk. 3. (Udeladt)
+§ 10
 
-Stk. 4. Afgørelser, der er truffet efter den hidtidige lovgivning, bevarer deres gyldighed, indtil der i medfør af loven eller regler udstedt med hjemmel i loven træffes nye afgørelser, jf. dog stk. 5 og 6. Overtrædelse af afgørelser straffes efter de hidtil gældende regler.
+Stk. 1. Loven træder i kraft den 16. maj 2017, jf. dog stk. 2.
 
-Stk. 5. Tilladelser udstedt efter § 19 i lov om råstoffer, jf. lovbekendtgørelse nr. 165 af 10. marts 1992, eller efter § 15 i lov om råstoffer, jf. lovbekendtgørelse nr. 108 af 30. januar 1989, og § 2 i lov om kontinentalsoklen, jf. lovbekendtgørelse 182 af 1. maj 1979, kan dog kun udnyttes inden for geografisk afgrænsede og miljøvurderede områder, hvortil miljøministeren har meddelt tilladelse til efterforskning eller indvinding af råstoffer efter § 20 som affattet ved denne lovs § 1, nr. 7. Overtrædelse af vilkår i tilladelserne straffes efter de hidtil gældende regler. Bestemmelserne i § 24, stk. 2-4, som affattet ved denne lovs § 1, nr. 7, finder også anvendelse på de i 1. pkt. nævnte tilladelser efter den hidtidige lovgivning.
+Stk. 2. (Udelades)
 
-Stk. 6. Uanset bestemmelsen i stk. 5, 1. pkt., kan indvindingsmateriel med tilladelse efter § 19 i lov om råstoffer, jf. lovbekendtgørelse nr. 165 af 10. marts 1992, eller efter § 15 i lov om råstoffer, jf. lovbekendtgørelse nr. 108 af 30. januar 1989, og § 2 i lov om kontinentalsoklen, jf. lovbekendtgørelse nr. 182 af 1. maj 1979, uden tilladelse efter § 20 som affattet ved denne lovs § 1, nr. 7, foretage indvinding inden for de indvindingsområder, der pr. 1. januar 1997 udlægges af miljøministeren i medfør af lovens § 22 som affattet ved denne lovs § 1, nr. 7.
+Stk. 3. Loven finder ikke anvendelse ved Natur- og Miljøklagenævnets behandling af klager over afgørelser truffet før lovens ikrafttræden efter lov om planlægning, lov om råstoffer og lov om beskyttelse af havmiljøet og regler udstedt i medfør af disse love. For sådanne klager finder de hidtil gældende regler anvendelse.
 
-Lov nr. 187 af 12 marts 1997 om ændring af lov om kontinentalsoklen, som ændrer § 3 og indsætter § 4 a indeholder følgende ikrafttrædelsesbestemmelse:
+Stk. 4. Loven finder ikke anvendelse for skriftlige anmeldelser af projekter omfattet af § 11 g-§ 11 i i lov om planlægning og bekendtgørelse nr. 1832 af 16. december 2015, hvis den kompetente VVM-myndighed, jf. bekendtgørelsens § 1, stk. 5, før ikrafttrædelsestidspunktet har truffet screeningsafgørelse, jf. bekendtgørelsens § 3, eller har offentliggjort en kort beskrivelse af hovedtrækkene af det påtænkte anlæg med henblik på at indkalde ideer og forslag fra offentligheden og berørte myndigheder til brug for afgrænsning af VVM-redegørelsens indhold, jf. bekendtgørelsens § 4. De hidtil gældende regler finder fortsat anvendelse på sådanne konkrete projekter.
+
+Stk. 5. De hidtil gældende regler i § 23 i lov om råstoffer og i kapitel 3 og bilag 4 i bekendtgørelse nr. 1306 af 24. november 2015 om efterforskning og indvinding af råstoffer fra søterritoriet og kontinentalsoklen finder fortsat anvendelse på konkrete projekter omfattet af denne lov, hvis
+
+1) Naturstyrelsen har truffet screeningsafgørelse, jf. bekendtgørelsens § 12, stk. 2, før ikrafttrædelsestidspunktet,
+
+2) ansøgeren har anmodet Naturstyrelsen om en udtalelse om, hvilke oplysninger der skal fremlægges i VVM-redegørelsen, jf. bekendtgørelsens § 11, stk. 2, før ikrafttrædelsestidspunktet, eller
+
+3) ansøgeren har fremsendt VVM-redegørelsen til Naturstyrelsen, jf. bekendtgørelsens § 8, stk. 3, nr. 10, jf. § 11, stk. 1, og bilag 4, før ikrafttrædelsestidspunktet.
+
+Stk. 6. Loven finder ikke anvendelse for skriftlige anmeldelser af projekter omfattet af bekendtgørelse om vurdering af virkninger på miljøet (VVM) af havbrug beliggende længere end 1 sømil fra kysten indgivet før lovens ikrafttræden, hvis Miljøstyrelsen har truffet screeningsafgørelse, jf. bekendtgørelsens § 3, stk. 1, før ikrafttrædelsestidspunktet. For sådanne anmeldelser finder de hidtil gældende regler anvendelse.
+
+Stk. 7. Loven finder ikke anvendelse ved Energiklagenævnets behandling af klager over afgørelser efter lov om anvendelse af Danmarks undergrund, lov om kontinentalsoklen og lov om fremme af vedvarende energi eller regler udstedt i medfør heraf truffet før lovens ikrafttræden. For sådanne klager finder de hidtil gældende regler anvendelse.
+
+Stk. 8. De hidtil gældende regler i § 26 i lov om fremme af vedvarende energi og i bekendtgørelse nr. 68 af 26. januar 2012 om vurdering af virkning på miljøet (VVM) ved projekter om etablering m.v. af elproduktionsanlæg på havet finder fortsat anvendelse på konkrete projekter omfattet af denne lov, hvis
+
+1) Energistyrelsen har truffet screeningsafgørelse, jf. bekendtgørelsens § 2, stk. 3, før ikrafttrædelsestidspunktet,
+
+2) ansøgeren har anmodet Energistyrelsen om en udtalelse om, hvilke oplysninger der skal fremlægges i VVM-redegørelsen, jf. bekendtgørelsens § 3, stk. 5, før ikrafttrædelsestidspunktet, eller
+
+3) ansøgeren har fremsendt VVM-redegørelsen til Energistyrelsen, jf. bekendtgørelsens § 3, stk. 1, før ikrafttrædelsestidspunktet.
+
+Stk. 9. De hidtil gældende regler i § 28 a i lov om anvendelse af Danmarks undergrund, i § 4 a i lov om kontinentalsoklen og i bekendtgørelse nr. 1419 af 3. december 2015 om VVM, konsekvensvurdering vedrørende internationale naturbeskyttelsesområder og beskyttelse af visse arter ved efterforskning og indvinding af kulbrinter, lagring i undergrunden, rørledninger, m.v. offshore finder fortsat anvendelse på konkrete projekter omfattet af denne lov, hvis
+
+1) Energistyrelsen har truffet screeningsafgørelse, jf. bekendtgørelsens § 4, stk. 3, før ikrafttrædelsestidspunktet,
+
+2) ansøgeren har anmodet Energistyrelsen om en udtalelse om, hvilke oplysninger der skal fremlægges i VVM-redegørelsen, jf. bekendtgørelsens § 5, stk. 4, før ikrafttrædelsestidspunktet, eller
+
+3) ansøgeren har fremsendt VVM-redegørelsen til Energistyrelsen, jf. bekendtgørelsens § 5, stk. 1, før ikrafttrædelsestidspunktet.
+
+Lov nr. 1401 af 5. december 2017 (Tilladelse til visse rørledningsanlæg på søterritoriet), hvis § 1 angår lovens titel, § 3 a, § 4 c, 1. pkt., § 4 c, stk. 2, § 4 d, stk. 1-3, § 4 e, 1. pkt., § 4 f, 1. pkt., § 5, stk. 2, nr. 1-3, § 6 a, stk. 1 og 8 og § 6 c, indeholder følgende ikrafttrædelses- og overgangsbestemmelse:
 
 § 2
 
-Loven træder i kraft dagen efter bekendtgørelsen i Lovtidende.
+Stk. 1. Loven træder i kraft den 1. januar 2018.
 
-Lov nr. 317 af 3. juni 1998 om ændring af lov om mineralske råstoffer i Grønland (råstofloven), lov om beskyttelse af havmiljøet og lov om kontinentalsoklen (Overførelse af råstofforvaltningen til Grønlands Hjemmestyre), som vedrører § 6, indeholder følgende ikrafttrædelsesbestemmelse:
+Stk. 2. Loven finder anvendelse ved behandling af ansøgninger om tilladelse til nedlæggelse af rørledningsanlæg, der før lovens ikrafttræden er modtaget, men endnu ikke færdigbehandlet.
 
-§ 4
-
-Stk. 1. Loven træder i kraft den 1. juli 1998.
-
-Stk. 2. (Udeladt)
-
-Stk. 3. (Udeladt)
-
-Lov nr. 447 af 31. maj 2000 om ændring af visse miljølove (Implementering af Århuskonventionen m.v.), som indsætter en ny § 6 a og § 6 b, indeholder følgende ikrafttrædelsesbestemmelse:
-
-§ 14
-
-Stk. 1. Loven træder i kraft den 15. september 2000, jf. dog stk. 2-4.
-
-Stk. 2. Lovens regler om adgang til at påklage afgørelser gælder for sager, der er afgjort i første instans efter lovens ikrafttræden. Reglerne om klage over afslag på anmodning om aktindsigt efter § 4, stk. 5, i lov om aktindsigt i miljøoplysninger som ændret ved lovens § 1, nr. 10, gælder ligeledes for afslag, der meddeles efter lovens ikrafttræden.
-
-Lov nr. 1276 af 20. december 2000 om ændring af lov om kontinentalsoklen, som ændrer § 4 og ophæver § 4 a, indeholder følgende ikrafttrædelsesbestemmelse:
-
-§ 2
-
-Loven træder i kraft den 1. februar 2001.
+Lov nr. 1542 af 19. december 2017 (Sikkerhedszoner, nye anlægstyper og præciseringer i forhold til offshoresikkerhedsdirektivet), hvis § 2 angår § 4 g, stk. 2, indeholder følgende ikrafttrædelses- og overgangsbestemmelser:
 
 § 3
 
-Regler, der er udstedt i henhold til §§ 4 og 4 a i lov nr. 182 af 1. maj 1979, som ændret ved lov nr. 187 af 12. marts 1997, opretholdes, indtil de ophæves eller afløses af regler udstedt i henhold til § 4 som affattet ved denne lovs § 1, nr. 1.
+Stk. 1. Loven træder i kraft den 1. januar 2018.
+
+Stk. 2. (Udelades)
