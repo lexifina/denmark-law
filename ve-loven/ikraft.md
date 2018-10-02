@@ -58,16 +58,6 @@ Stk. 6. § 22 b og § 23, stk. 4, 3. pkt., i lov om fremme af vedvarende energi 
 
 Stk. 7. Kommunalbestyrelsen kan gøre indsigelse mod, at der gives etableringstilladelse efter § 25 i lov om fremme af vedvarende energi på baggrund af en forundersøgelsesrapport, der er stillet til rådighed efter § 24, stk. 4, i lov om fremme af vedvarende energi, hvis ansøgningen om forundersøgelsestilladelse er modtaget før den 1. januar 2017 og ansøgningen om etableringstilladelse på baggrund af forundersøgelsesrapporten er modtaget efter den 1. januar 2017. § 22 b, stk. 2 og 3, og § 23, stk. 4, 3. pkt., som affattet ved denne lovs § 1, nr. 9 og 10, finder tilsvarende anvendelse for indsigelse efter denne bestemmelse. Indsigelse skal indgives i forbindelse med høring af relevante myndigheder, inden der træffes afgørelse om etableringstilladelse.
 
-Lov nr. 1756 af 27. december 2016 (Udfasning af PSO-opkrævning, ophævelse af ForskEL, finansiering af Sikkerhedsstyrelsens virksomhed på elsikkerhedsområdet og nedjustering af balanceringsgodtgørelse) indeholder følgende ikrafttrædelses- og overgangsbestemmelse:
-
-§ 5
-
-Stk. 1. Loven træder i kraft den 1. januar 2017.
-
-Stk. 2-4. (Udelades)
-
-Stk. 5. § 3 finder ikke anvendelse for tilsagn om tilskud efter lov om tilskud til fremme af vedvarende energi i virksomheders produktionsprocesser og regler udstedt i medfør heraf, hvis der er truffet afgørelse om tilskud før lovens ikrafttræden. For sådanne tilsagn finder de hidtil gældende regler anvendelse. Det er en betingelse for udbetaling af tilskud, hvorom der er truffet afgørelse om tilskud før lovens ikrafttræden, at anmodning om udbetaling af tilskud er indgivet til Energistyrelsen senest den 31. december 2021.
-
 Lov nr. 1201 af 15. november 2017 (Indsættelse af frister for tilsagn om pristillæg samt puljer i visse støtteordninger, midlertidig drift af elproduktionsanlæg på havet uden elproduktionsanlæg og ophævelse af solpuljen for 2017 m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
 
 § 3

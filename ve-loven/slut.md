@@ -1,4 +1,4 @@
-Energistyrelsen, den 27. juni 2018
+Energistyrelsen, den 28. september 2018
 
 Janni Torp Kjærgaard
 
