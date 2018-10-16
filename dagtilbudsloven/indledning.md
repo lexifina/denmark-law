@@ -1,7 +1,7 @@
 Bekendtgørelse af lov om dag-, fritids- og klubtilbud m.v. til børn og unge (dagtilbudsloven)
 
-Herved bekendtgøres lov om dag-, fritids- og klubtilbud m.v. til børn og unge, jf. lovbekendtgørelse nr. 167 af 20. februar 2015, med de ændringer, der følger af § 5 i lov nr. 296 af 22. marts 2016 og § 7 i lov nr. 665 af 8. juni 2016.
+Herved bekendtgøres lov om dag-, fritids- og klubtilbud m.v. til børn og unge (dagtilbudsloven), jf. lovbekendtgørelse nr. 748 af 20. juni 2016, med de ændringer, der følger af lov nr. 1545 af 13. december 2016, lov nr. 1546 af 13. december 2016, § 1 i lov nr. 427 af 3. maj 2017, § 8 i lov nr. 551 af 29. maj 2018 og § 1, nr. 1-21, 24-28 og 30-42, i lov nr. 554 af 29. maj 2018.
 
-De ændringer, der følger af § 7, nr. 7, 9, 11 og 13, i lov nr. 665 af 8. juni 2016 om ændring af integrationsloven og forskellige andre love (Bedre rammer for at modtage og integrere flygtninge og styrket virksomhedsrettet integrationsprogram m.v.), er ikke indarbejdet i denne lovbekendtgørelse, da ændringerne træder i kraft den 1. juli 2018, jf. § 12, stk. 5, i lov nr. 665 af 8. juni 2016.
+De ændringer, der følger af § 7, nr. 7, 9, 11 og 13, i lov nr. 665 af 8. juni 2016, er ikke indarbejdet i denne lovbekendtgørelse, da ændringerne efterfølgende er ophævet, jf. § 2, nr. 1, i lov nr. 427 af 3. maj 2017.
 
-Den bekendtgjorte lovtekst vedrørende § 11, stk. 2, 2. pkt., stk. 3-7 og 9, § 12, stk. 1 og 3, og § 43, stk. 1, nr. 5, træder i kraft den 1. juli 2016, jf. § 12, stk. 1, i lov nr. 665 af 8. juni 2016 om ændring af integrationsloven og forskellige andre love (Bedre rammer for at modtage og integrere flygtninge og styrket virksomhedsrettet integrationsprogram m.v.).
+De ændringer, der følger af § 1, nr. 22, 23 og 29, i lov nr. 554 af 29. maj 2018, er ikke indarbejdet i denne lovbekendtgørelse, da de træder i kraft den 1. januar 2019, jf. § 3, stk. 3, i lov nr. 554 af 29. maj 2018.
