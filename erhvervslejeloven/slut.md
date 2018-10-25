@@ -1,5 +1,5 @@
-Økonomi- og Erhvervsministeriet, den 16. december 2010
+Erhvervsstyrelsen, den 11. oktober 2018
 
-Brian Mikkelsen
+Katrine Winding
 
-/ Finn Lauritzen
+/ Christine Maxner
