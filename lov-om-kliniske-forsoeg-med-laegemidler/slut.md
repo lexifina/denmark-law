@@ -1,7 +1,5 @@
-Givet på Christiansborg Slot, den 8. juni 2016
+Sundheds- og Ældreministeriet, den 31. oktober 2018
 
-Under Vor Kongelige Hånd og Segl
+Ellen Trane Nørby
 
-MARGRETHE R.
-
-/ Sophie Løhde
+/ Anna Skat Nielsen
