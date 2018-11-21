@@ -10,18 +10,20 @@
 
 6) Lovændringen vedrører § 16, stk. 5, 1. pkt., og § 50, stk. 1, 2. pkt.
 
-7) Lovændringen vedrører § § 3, stk. 1 og 2, § 4, stk. 2, §§ 33-34 og § 43, stk. 1, 2. pkt., og § 3 a indsattes i loven.
+7) Lovændringen vedrører §§ 3, stk. 1 og 2, § 4, stk. 2, §§ 33-34 og § 43, stk. 1, 2. pkt., og § 3 a indsattes i loven.
 
 8) Lovændringen vedrører § 54, stk. 8.
 
-9) § 1, nr. 46-48 vedrører overskriften til kapitel 6, §§ 28 og 28 a.
+9) Lovændringen vedrører §§ 1-4, 6, 10, 13, 15-26, 28-29, 31-38, 40-45, 47-52 og 54.
 
-10) § 1, nr. 27 vedrører § 20.
+10) Lovændringen vedrører § 32, stk. 6, § 32 a, stk. 1, § 44 a, stk. 3, og § 51, stk. 2.
 
-11) § 1, nr. 28 vedrører ophævelsen af § 21.
+11) Lovændringen vedrører § 42, stk. 2 og 3.
 
-12) § 1, nr. 6 vedrører § 1 a.
+12) Lovændringen vedrører § 1 a. stk. 1, nr. 3, litra a.
 
-13) § 1, nr. 30 vedrører § 23, stk. 2.
+13) Lovændringen vedrører § 31, stk. 1 og 3-9, og § 54, stk. 1.
 
-14) § 1, nr. 31 vedrører § 23, stk. 3.
+14) § 6, nr. 2 vedrører § 31, stk. 1, 2. pkt.
+
+15) Lovændringen vedrører § 48, stk. 4, og § 49, stk. 4.
