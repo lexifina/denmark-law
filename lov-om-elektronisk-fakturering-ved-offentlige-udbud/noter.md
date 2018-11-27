@@ -1,0 +1,1 @@
+1) Loven indeholder bestemmelser, der gennemfører dele af Europa-Parlamentets og Rådets direktiv 2014/55/EU af 16. april 2014 om elektronisk fakturering i forbindelse med offentlige udbud, EU-Tidende 2014, nr. L 133, side 1.
