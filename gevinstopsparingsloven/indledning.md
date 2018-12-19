@@ -1,5 +1,3 @@
-Lov om gevinstopsparing
+Bekendtgørelse af lov om gevinstopsparing
 
-VI MARGRETHE DEN ANDEN, af Guds Nåde Danmarks Dronning, gør vitterligt: Folketinget har vedtaget og Vi ved Vort samtykke stadfæstet følgende lov:
-
-Formål
+Herved bekendtgøres lov nr. 321 af 16. maj 1990 om gevinstopsparing, med de ændringer, der følger af § 3 i lov nr. 527 af 7. juni 2006 og § 14 i lov nr. 108 af 7. februar 2007.
