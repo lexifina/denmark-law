@@ -1,9 +1,5 @@
-Givet på Amalienborg, den 6. juni 1995
+Erhvervsministeriet, den 12. december 2018
 
-Under Vor Kongelige Hånd og Segl
+Rasmus Jarlov
 
-MARGRETHE R.
-
-/Marianne Jelved
-
-Ingen
+/ Jesper Berg
