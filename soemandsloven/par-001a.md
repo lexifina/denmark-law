@@ -4,4 +4,4 @@ Stk. 2. Stk. 1 finder anvendelse, selv om en anden end rederen er arbejdsgiver. 
 
 Stk. 3. Har rederen helt eller delvis overladt sine pligter og ansvarsområder i henhold til denne lov eller ansættelseskontrakten til en anden person eller organisation, finder stk. 1 tillige anvendelse for den pågældende, for så vidt angår de overtagne pligter og ansvarsområder.
 
-Stk. 4. Erhvervs- og vækstministeren kan fastsætte nærmere regler om forpligtelserne efter stk. 1-3.
+Stk. 4. Erhvervsministeren kan fastsætte nærmere regler om forpligtelserne efter stk. 1-3.
