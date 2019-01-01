@@ -1,0 +1,3 @@
+## Udstillingsprioritet
+
+§ 12 b. Indleveres en ansøgning om registrering af et varemærke her i landet, senest 6 måneder efter at mærket for første gang er anvendt for varer udstillet på en officiel eller officielt anerkendt international udstilling, vil ansøgningen på begæring få prioritet fra denne dato. Ved de nævnte udstillinger forstås sådanne, som er defineret i konventionen angående internationale udstillinger af 22. november 1928 med senere revisioner. Prioriteten indebærer, at ansøgningen i forhold til senere indtrufne omstændigheder såsom andres ansøgninger om eller andres benyttelse af mærket skal anses som indleveret samtidig med dets anvendelse på udstillingen.
