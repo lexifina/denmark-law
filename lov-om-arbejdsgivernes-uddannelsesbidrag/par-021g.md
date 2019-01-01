@@ -1,1 +1,1 @@
-§ 21 g. Bestyrelsen for Arbejdsgivernes Uddannelsesbidrag udarbejder en særskilt opgørelse for indbetalinger efter §§ 21 a og 21 e og udbetalinger efter §§ 15 g, 15 h, 21 b, 21 c og 21 d som en del af årsregnskabets noter, jf. § 24.
+§ 21 g. Bestyrelsen for Arbejdsgivernes Uddannelsesbidrag udarbejder en særskilt opgørelse for indbetalinger efter §§ 21 a og 21 e og udbetalinger efter §§ 15 g, 15 h, 21 b, 21 c, 21 d og 21 i som en del af årsregnskabets noter, jf. § 24.
