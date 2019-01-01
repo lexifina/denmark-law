@@ -1,0 +1,1 @@
+§ 24 c. § 24 b finder tilsvarende anvendelse, hvis der er nærliggende risiko for forveksling mellem listebetegnelsen for flere indleverede kandidatlister, der ikke er kandidatlister for de partier, der er nævnt i § 24 a, stk. 1.
