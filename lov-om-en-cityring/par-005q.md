@@ -1,0 +1,1 @@
+§ 5 q. Transportministeren bemyndiges til inden for udviklingsområdet ved Ny Ellebjerg Station at overdrage byggeretten over statens baneareal til Metroselskabet I/S med henblik på gennemførelse af Metroselskabet I/S’ udvikling af området.
