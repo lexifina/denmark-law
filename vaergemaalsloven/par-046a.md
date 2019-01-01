@@ -1,0 +1,1 @@
+§ 46 a. Reglerne i dette kapitel finder tilsvarende anvendelse på aftaler, som en person, der delvis er frataget den retlige handleevne, jf. § 6, stk. 1, 2. pkt., har indgået, i det omfang aftalen er omfattet af fratagelsen.
