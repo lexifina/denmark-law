@@ -32,4 +32,4 @@ c) et gennemsnitligt antal heltidsbeskæftigede i løbet af regnskabsåret på 2
 
 Stk. 2. Ved beregning af størrelserne efter stk. 1, nr. 4 og 5, finder årsregnskabslovens § 7, stk. 3 og 4, anvendelse, jf. dog stk. 3.
 
-Stk. 3. For modervirksomheder beregnes balancesum, nettoomsætning og gennemsnitligt antal heltidsbeskæftigede i regnskabsåret, jf. stk. 1, nr. 4 og 5, som summen af modervirksomhedens og dattervirksomhedernes balancesummer, nettoomsætninger og heltidsbeskæftigede. Årsregnskabslovens § 110, stk. 2 og 3, finder anvendelse ved beregning af størrelserne efter 1. pkt.
+Stk. 3. For modervirksomheder beregnes balancesum, nettoomsætning og gennemsnitligt antal heltidsbeskæftigede i regnskabsåret, jf. stk. 1, nr. 4 og 5, som summen af modervirksomhedens og dattervirksomhedernes balancesummer, nettoomsætninger og heltidsbeskæftigede. Årsregnskabslovens § 110, stk. 3 og 4, finder anvendelse ved beregning af størrelserne efter 1. pkt.
