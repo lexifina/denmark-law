@@ -1,1 +1,1 @@
-§ 14 c. Ydelsen efter § 14 b, stk. 1, nedsættes med lige store beløb fra og med det år, hvor medlemmet fylder 66 år, til og med det år, hvor medlemmet fylder 69 år, således at retten til ydelsen helt bortfalder ved medlemmets fyldte 70. år.
+§ 14 c. Ydelsen efter § 14 b, stk. 1, nedsættes med lige store beløb en gang hvert år, første gang den 1. i måneden, 12 måneder efter, at medlemmet når folkepensionsalderen, jf. § 1 a i lov om social pension. Ydelsen bortfalder helt den 1. i måneden, 5 år efter at medlemmet har nået folkepensionsalderen.
