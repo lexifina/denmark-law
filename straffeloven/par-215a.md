@@ -1,0 +1,1 @@
+§ 215 a. Med bøde eller fængsel indtil 4 år straffes den, som sender sit barn til udlandet til forhold, der bringer barnets sundhed eller udvikling i alvorlig fare, eller lader sit barn tage del i et sådant udlandsophold.
