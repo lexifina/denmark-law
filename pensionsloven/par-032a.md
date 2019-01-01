@@ -20,6 +20,8 @@
 
 7) Ved opgørelsen af indtægtsgrundlaget efter nr. 1 bortses fra tilbagebetalte efterløns- og fleksydelsesbidrag.
 
+8) Ved opgørelsen af indtægtsgrundlaget efter nr. 1 bortses fra tilgodehavende feriemidler udbetalt efter lov om forvaltning og administration af tilgodehavende feriemidler.
+
 Stk. 2. Beskæftigelsesministeren fastsætter regler for, hvorledes indkomster efter stk. 1, der ikke er skattepligtige her i landet, og indkomster, som er omfattet af § 5 i lov om beskatning af søfolk, skal indgå i indtægtsgrundlaget.
 
 Stk. 3. I indtægtsgrundlaget efter stk. 1 og 2 foretages følgende fradrag:
@@ -36,12 +38,12 @@ Stk. 3. I indtægtsgrundlaget efter stk. 1 og 2 foretages følgende fradrag:
 
 6) Fradrag for indkomster i opgørelsesperioden, der har medført krav om refusion eller tilbagebetaling af pension for tidligere opgørelsesperioder eller kalenderår.
 
-Stk. 4. For en pensionist, der er gift eller samlevende med en person, som ikke modtager social pension, nedsættes ægtefællens eller samleverens indtægter, der indgår i indtægtsgrundlaget, med et fradragsbeløb, jf. § 49, stk. 1, nr. 9.
+Stk. 4. For en pensionist, der er gift eller samlevende med en person, som ikke modtager social pension, nedsættes ægtefællens eller samleverens indtægter, der indgår i indtægtsgrundlaget, med et fradragsbeløb, jf. § 49, stk. 1, nr. 10.
 
-Stk. 5. Ægtefællens eller samleverens indtægt opgjort efter stk. 1-4 kan højst udgøre et fastsat beløb, jf. § 49, stk. 1, nr. 11.
+Stk. 5. Ægtefællens eller samleverens indtægt opgjort efter stk. 1-4 kan højst udgøre et fastsat beløb, jf. § 49, stk. 1, nr. 12.
 
 Stk. 6. Den samlede opgjorte indtægt efter stk. 1-5 afrundes nedad til nærmeste beløb, der er deleligt med 100.
 
-Stk. 7. Den opgjorte indtægt efter stk. 6 nedsættes med et fradrag, jf. § 49, stk. 1, nr. 10.
+Stk. 7. Den opgjorte indtægt efter stk. 6 nedsættes med et fradrag, jf. § 49, stk. 1, nr. 11.
 
 Stk. 8. Beskæftigelsesministeren kan fastsætte regler om, at fordelingen, jf. stk. 1, nr. 3, kan fraviges, når det drejer sig om indkomster og udgifter ved selvstændig erhvervsvirksomhed.
