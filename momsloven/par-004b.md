@@ -1,0 +1,3 @@
+§ 4 b. Der skal betales afgift af den faktiske overdragelse af varer eller ydelser til gengæld for en voucher til flere formål, jf. § 73 b, nr. 3, som af leverandøren accepteres som hel eller delvis modværdi, mens der ikke skal betales afgift af hver forudgående overdragelse af vouchere til flere formål.
+
+Stk. 2. Overdrages en voucher til flere formål af en anden afgiftspligtig person end den afgiftspligtige person, der foretager den afgiftspligtige transaktion i henhold til stk. 1, skal der betales afgift af enhver levering af ydelser, der kan identificeres, såsom distributions- eller reklameydelser.

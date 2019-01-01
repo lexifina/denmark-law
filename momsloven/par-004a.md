@@ -1,0 +1,5 @@
+§ 4 a. Enhver overdragelse af en voucher til ét formål, jf. § 73 b, nr. 2, der foretages af en afgiftspligtig person, som handler i eget navn, betragtes som en levering af de varer eller ydelser, som voucheren relaterer sig til. Den faktiske overdragelse af varerne eller den faktiske levering af ydelserne til gengæld for en voucher til ét formål, som af leverandøren accepteres som hel eller delvis modværdi, betragtes ikke som en uafhængig transaktion.
+
+Stk. 2. Foretages overdragelsen af en voucher til ét formål af en afgiftspligtig person, der handler i en anden afgiftspligtig persons navn, betragtes denne overdragelse som en levering af de varer eller ydelser, som voucheren relaterer sig til, foretaget af den anden afgiftspligtige person, i hvis navn den afgiftspligtige person handler.
+
+Stk. 3. Er leverandøren af varerne eller ydelserne ikke den samme som den afgiftspligtige person, der handler i eget navn og har udstedt voucheren til ét formål, anses leverandøren dog for at have foretaget leveringen til den pågældende afgiftspligtige person af de varer eller ydelser, som den pågældende voucher relaterer sig til.
