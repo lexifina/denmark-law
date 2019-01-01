@@ -10,7 +10,7 @@ Stk. 3. Det er en betingelse for fradrag efter stk. 1 og 2, at
 
 3) kulturinstitutionen ønsker at modtage gaven, og at
 
-4) kulturinstitutionen indberetter værdien af gaven efter skattekontrollovens § 7 K.
+4) kulturinstitutionen indberetter værdien af gaven efter skatteindberetningslovens § 40.
 
 Stk. 4. Det er en betingelse for fradrag efter stk. 1 og 2, at gaven til den enkelte kulturinstitution i det pågældende indkomstår har en værdi på mindst 500 kr. Der indrømmes dog kun fradrag for det beløb, hvorved de samlede gaver efter stk. 1 og 2 overstiger 500 kr. årligt.
 

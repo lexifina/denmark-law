@@ -10,4 +10,4 @@
 
 Stk. 2. Debitor skal for hvert indkomstår, indtil debitor bliver frigjort fra gælden, medregne en renteindtægt svarende til, at gevinsten udgjorde en fast negativ rente på lånet i perioden fra lånets stiftelse til det førstkommende tidspunkt af enten obligationernes udløb eller lånets udløb. Renteindtægten beregnes ud fra den aftalte afdragsprofil ved stiftelsen. Har debitor i perioder afdragsfrihed, foretages beregningen med denne forudsætning, hvis perioderne er fastlagt ved stiftelsen.
 
-Stk. 3. Indberettes den skattepligtige renteindtægt efter stk. 2 ikke efter skattekontrollovens § 8 P for det indkomstår, hvori lånet er stiftet, kan debitor vælge, at beskatningen af gevinsten omfattet af stk. 1 i stedet skal ske efter § 22, stk. 1.
+Stk. 3. Indberettes den skattepligtige renteindtægt efter stk. 2 ikke efter skatteindberetningslovens § 13 for det indkomstår, hvori lånet er stiftet, kan debitor vælge, at beskatningen af gevinsten omfattet af stk. 1 i stedet skal ske efter § 22, stk. 1.

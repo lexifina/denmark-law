@@ -2,7 +2,7 @@
 
 Stk. 2. Gevinst og tab ved afståelse efter stk. 1 behandles i følgende tilfælde efter reglerne om gevinst og tab ved afståelse af aktier m.v. til andre end det udstedende selskab:
 
-1) Ved afståelse af aktier erhvervet ved udnyttelse af en købe- eller tegningsret omfattet af § 28, aktier omfattet af § 7 P eller aktier erhvervet ved udnytteæse af en købe- eller tingsret omfattet af § 7 P, og når det ved erhvervelsen af aktierne er betinget, at aktierne ved afståelse eller ved medarbejderens død tilbagesælges til selskabet, der i så fald er forpligtet til at erhverve disse. Det er dog en betingelse, at medarbejderaktionæren ikke er hovedaktionær i selskabet efter aktieavancebeskatningslovens § 4.
+1) Ved afståelse af aktier erhvervet ved udnyttelse af en købe- eller tegningsret omfattet af § 28, aktier omfattet af § 7 P eller aktier erhvervet ved udnyttelse af en købe- eller tegningsret omfattet af § 7 P, og når det ved erhvervelsen af aktierne er betinget, at aktierne ved afståelse eller ved medarbejderens død tilbagesælges til selskabet, der i så fald er forpligtet til at erhverve disse. Det er dog en betingelse, at medarbejderaktionæren ikke er hovedaktionær i selskabet efter aktieavancebeskatningslovens § 4.
 
 2) Ved afståelse af aktier m.v. til et selskab i likvidation i det kalenderår, hvori selskabet endeligt opløses, medmindre en af følgende betingelser er opfyldt:
 
@@ -22,7 +22,7 @@ d) Det afstående selskab ejer skattefri porteføljeaktier, jf. aktieavancebeska
 
 6) Ved afståelser, hvor told- og skatteforvaltningen tillader det.
 
-Stk. 3. Ved en aktionærs afståelse af aktier, der er optaget til handel på et reguleret marked, til det selskab, der har udstedt dem, kan sælger, når afståelsen ikke er omfattet af stk. 2, nr. 2-4, overfor told- og skatteforvaltningen tilkendegive, at salget er omfattet af stk. 1. Det er en betingelse, at tilkendegivelsen fremkommer inden selvangivelsesfristens udløb for det år, hvor afståelsen sker.
+Stk. 3. Ved en aktionærs afståelse af aktier, der er optaget til handel på et reguleret marked, til det selskab, der har udstedt dem, kan sælger, når afståelsen ikke er omfattet af stk. 2, nr. 2-4, overfor told- og skatteforvaltningen tilkendegive, at salget er omfattet af stk. 1. Det er en betingelse, at tilkendegivelsen fremkommer inden udløbet af oplysningsfristen efter skattekontrollovens §§ 10-13 for det år, hvor afståelsen sker.
 
 Stk. 4. Stk. 1 omfatter ikke tegningsretter, der er omfattet af § 28.
 
