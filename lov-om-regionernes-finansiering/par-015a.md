@@ -1,0 +1,1 @@
+§ 15 a. Sundheds- og ældreministeren fastsætter regler om revision af statsligt resultatafhængigt tilskud til regionernes sundhedsvæsen, jf. § 15, stk. 1, og kommunal medfinansiering, jf. §§ 13 og 14.
