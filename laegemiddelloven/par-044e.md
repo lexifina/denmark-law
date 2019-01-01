@@ -1,0 +1,5 @@
+§ 44 e. Miljø- og fødevareministeren kontrollerer overholdelsen af § 40 d, stk. 1, og regler udstedt i medfør af § 39, stk. 4, og § 40 d, stk. 2, om dyrlægers opsplitning og udlevering af lægemidler til veterinær brug, jf. § 39, stk. 3, nr. 7.
+
+Stk. 2. Miljø- og fødevareministeren kan meddele de påbud og forbud, der anses for nødvendige for at sikre overholdelse af § 40 d, stk. 1, og regler udstedt i medfør af § 39, stk. 4, og § 40 d, stk. 2, om dyrlægers opsplitning og udlevering af lægemidler til veterinær brug, jf. § 39, stk. 3, nr. 7.
+
+Stk. 3. Miljø- og fødevareministeren har til enhver tid mod behørig legitimation og uden retskendelse adgang til offentlige og private ejendomme, lokaliteter, transportmidler, forretningsbøger, papirer m.v., herunder elektroniske data, for at tilvejebringe oplysninger til brug for kontrol i henhold til § 40 d, stk. 1, eller regler, som er fastsat i medfør af § 39, stk. 4, og § 40 d, stk. 2, om dyrlægers opsplitning og udlevering af lægemidler til veterinær brug, jf. § 39, stk. 3, nr. 7. Om nødvendigt kan myndigheden anmode politiet om at yde bistand ved kontrollen.
