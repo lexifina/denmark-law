@@ -1,1 +1,1 @@
-§ 17 a. Afgørelser, hvorefter Finanstilsynet udelukker et forsikringsselskab nævnt i § 2 a fra Fonden, jf. § 14, stk. 3, 1. pkt., kan af forsikringsselskabet indbringes for Erhvervsankenævnet, senest 4 uger efter at afgørelsen er meddelt forsikringsselskabet.
+§ 17 a. (Ophævet)
