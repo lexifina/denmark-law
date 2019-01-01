@@ -1,9 +1,1 @@
-§ 4 a. Hvert nyt medlem af Fonden yder et engangsbidrag til Fonden, jf. stk. 2 og 3. Ved fastsættelse af engangsbidraget kan der ske modregning, såfremt forsikringsselskabet tidligere, eventuelt gennem andre forsikringsselskaber, har været omfattet af lovens bidragspligt, jf. § 3, stk. 3. Engangsbidraget til Fonden kan ikke være mindre end 100.000 kr.
-
-Stk. 2. Forsikringsselskaber nævnt i § 1, stk. 2, yder et engangsbidrag på 50 kr. pr. police inden for forbrugerforsikringer, som forsikringsselskabet har tegnet i Danmark eller via filial eller grænseoverskridende tjenesteydelsesvirksomhed i Den Europæiske Union eller lande, som Unionen har indgået aftale med på det finansielle område, og som er i kraft på tidspunktet for indtræden i Fonden, jf. dog § 3, stk. 8, 2. pkt.
-
-Stk. 3. Forsikringsselskaber nævnt i § 2 a yder et engangsbidrag på 50 kr. pr. police inden for forbrugerforsikringer, som forsikringsselskabet har tegnet i Danmark, og som er i kraft på tidspunktet for indtræden i Fonden. Et sådant forsikringsselskab anses for at have tilsluttet sig Fonden fra det tidspunkt, hvor Fonden har modtaget betaling af engangsbidraget fra selskabet.
-
-Stk. 4. De forsikringsselskaber, der er nævnt i stk. 2 og 3, skal i forbindelse med indbetaling af engangsbidraget til Fonden indsende en erklæring fra en statsautoriseret eller registreret revisor til Fonden om, at engangsbidraget er korrekt beregnet. Uanset 1. pkt. kan et forsikringsselskab, der alene skal betale et engangsbidrag på 100.000 kr., jf. stk. 1, indsende en erklæring fra forsikringsselskabets ansvarlige ledelse til Fonden om, at engangsbidraget er korrekt beregnet.
-
-Stk. 5. Finanstilsynet fastsætter nærmere regler om forsikringsselskabernes engangsbidrag til Fonden og om, hvilke typer af forsikringer der er omfattet af bidragspligten.
+§ 4 a. (Ophævet)

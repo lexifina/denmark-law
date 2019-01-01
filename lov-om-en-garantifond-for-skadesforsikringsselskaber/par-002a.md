@@ -1,1 +1,1 @@
-§ 2 a. Direkte tegnende skadesforsikringsselskaber med hjemsted i andre lande inden for Den Europæiske Union eller lande, som Unionen har indgået aftale med på det finansielle område, som via filial eller grænseoverskridende tjenesteydelsesvirksomhed tegner forbrugerforsikringer i Danmark, kan tilslutte sig Fonden.
+§ 2 a. (Ophævet)
