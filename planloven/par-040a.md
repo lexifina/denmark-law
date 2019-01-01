@@ -3,3 +3,5 @@
 Stk. 2. En dispensation bortfalder ved anvendelsesskifte eller ejers lovlige ibrugtagning af boligen til egen helårsbeboelse.
 
 Stk. 3. De i stk. 1 nævnte små øer omfatter Agersø, Anholt, Askø inkl. Lilleø, Avernakø, Barsø, Birkholm, Bjørnø, Baagø, Drejø, Egholm, Endelave, Fejø, Femø, Fur, Hjarnø, Hjortø, Lyø, Mandø, Nekselø, Omø, Orø, Sejerø, Skarø, Strynø, Tunø, Venø og Aarø.
+
+Stk. 4. Stk. 1 og 2 gælder også for Læsø, idet kommunalbestyrelsen dog højst kan meddele ti dispensationer årligt.
