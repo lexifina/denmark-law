@@ -4,4 +4,4 @@ Stk. 2. Som eksportmedarbejdere anses efter denne bestemmelse lønmodtagere, der
 
 Stk. 3. Fradraget opgøres på grundlag af lønindkomsten for udlandsarbejdet efter de af Skatterådet fastsatte anvisninger for fradrag for merudgifter ved lønarbejde i udlandet.
 
-Stk. 4. Den skattepligtige skal inden selvangivelsesfristens udløb indsende en erklæring fra arbejdsgiveren om karakteren af udlandsarbejdet, opholdenes varighed og om lønindkomsten under udlandsopholdene.
+Stk. 4. Den skattepligtige skal inden udløbet af oplysningsfristen efter skattekontrollovens § 10, jf. § 13, indsende en erklæring fra arbejdsgiveren om karakteren af udlandsarbejdet, opholdenes varighed og om lønindkomsten under udlandsopholdene.
