@@ -1,0 +1,1 @@
+1) Loven gennemfører Europa-Parlamentets og Rådets direktiv 1999/94/EF af 13. december 1999 om adgang til forbrugeroplysninger om brændstoføkonomi og CO2-emissioner i forbindelse med markedsføring af nye personbiler, EF-Tidende 2000, nr. L 12, side 16.
