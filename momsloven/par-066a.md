@@ -2,6 +2,6 @@
 
 § 66 a. Ved anvendelse af reglerne om ikke-EU-ordningen forstås ved:
 
-1) Afgiftspligtig person: En afgiftspligtig tredjelandsvirksomhed, som ikke er etableret i EU, og som ikke på anden måde kræves momsregistreret i et EU-land.
+1) Afgiftspligtig person, der ikke er etableret i EU: En afgiftspligtig person, der hverken har etableret hjemsted for sin økonomiske virksomhed eller har fast forretningssted i EU.
 
 2) Identifikationsmedlemsland: Det medlemsland, som den afgiftspligtige person vælger at kontakte for at anmelde, hvornår den afgiftspligtige virksomhed inden for EU’s område påbegyndes efter reglerne om ikke-EU-ordningen.
