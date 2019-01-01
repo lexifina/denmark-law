@@ -2,7 +2,7 @@
 
 ## Kombinationstilbud
 
-§ 85 a. Kommunalbestyrelsen skal efter ansøgning tilbyde forældre med et dokumenteret arbejdsbetinget pasningsbehov, der ligger uden for dagtilbuddenes almindelige åbningstid, et kombinationstilbud i form af en deltidsplads i et dagtilbud og et tilskud til fleksibel pasning, jf. stk. 2-4. Dette gælder dog ikke for forældre med børn, som er optaget i et sprogstimuleringstilbud i form af et dagtilbud 30 timer om ugen, jf. § 11, stk. 8. Reglerne for tilskud til privat pasning efter §§ 80-85, jf. dog § 81, stk. 1, 3. pkt., og § 81 a, stk. 3, gælder tillige for fleksibel pasning.
+§ 85 a. Kommunalbestyrelsen skal efter ansøgning tilbyde forældre med et dokumenteret arbejdsbetinget pasningsbehov, der ligger uden for dagtilbuddenes almindelige åbningstid, et kombinationstilbud i form af en deltidsplads i et dagtilbud og et tilskud til fleksibel pasning, jf. stk. 2-4. Dette gælder dog ikke for forældre med børn, som er optaget i et sprogstimuleringstilbud i form af et dagtilbud 30 timer om ugen, jf. § 11, stk. 8. Reglerne for tilskud til privat pasning efter § 80, stk. 1 og 3, og §§ 81-85, jf. dog § 81, stk. 1, 3. pkt., og § 81 a, stk. 3, gælder tillige for fleksibel pasning.
 
 Stk. 2. Kombinationstilbuddet efter stk. 1 skal gives til forældre, hvis begge forældres beskæftigelse medfører et dokumenteret arbejdsbetinget pasningsbehov uden for dagtilbuddenes almindelige åbningstid.
 
