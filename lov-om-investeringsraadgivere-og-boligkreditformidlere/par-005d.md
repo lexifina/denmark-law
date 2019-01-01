@@ -1,0 +1,3 @@
+§ 5 d. En investeringsrådgiver skal afsætte de personalemæssige og økonomiske ressourcer, der er nødvendige for at sikre tilstrækkelige muligheder for introduktions- og efteruddannelseskurser for medlemmer af bestyrelsen og direktionen eller indehaveren af en investeringsrådgiver, der er en enkeltmandsvirksomhed.
+
+Stk. 2. Investeringsrådgiveren skal afsætte de personalemæssige og økonomiske ressourcer, der er nødvendige for at sikre tilstrækkelige muligheder for introduktions- og efteruddannelseskurser til medlemmer af det øverste ledelsesorgan og den daglige ledelse, når investeringsrådgiveren drives som en juridisk person uden en bestyrelse eller direktion.
