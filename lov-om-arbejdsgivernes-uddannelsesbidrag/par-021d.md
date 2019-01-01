@@ -1,6 +1,6 @@
 § 21 d. Overstiger indtægterne fra merbidrag efter § 21 a med fradrag for fritagelse efter § 21 b udgifterne til bonus efter kapitel 5 d og tilskud efter § 21 c, udbetales overskuddet til arbejdsgiverne pr. praktikårselev, jf. § 15 g, stk. 3, i overensstemmelse med stk. 2 og 3 og regler fastsat i medfør af § 21 f, stk. 3. Opgørelsen foretages året efter bidragsåret.
 
-Stk. 2. Opgørelsen af overskud foretages pr. sektor, jf. § 21 a, stk. 10.
+Stk. 2. Opgørelsen af overskud foretages pr. sektor, jf. § 21 a, stk. 11.
 
 Stk. 3. Overskud tilbagebetales til arbejdsgivere placeret i sektoren for hver praktikårselev, som arbejdsgiveren har haft i det år, som overskuddet vedrører. Overskud pr. praktikårselev beregnes ved at dividere overskuddet med antal praktikårselever i bidragsåret i den pågældende sektor. Elever inden for erhvervsuddannelser samt uddannelser, der er godkendt i medfør af § 21 f, stk. 4, indgår i beregningen.
 
