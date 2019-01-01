@@ -6,7 +6,7 @@
 
 3) Indbetalinger til pensionsordninger og A-kasse-indbetalinger, der er fradragsberettigede efter pensionsbeskatningsloven.
 
-4) Bidrag til velgørende foreninger, jf. ligningslovens § 8 A.
+4) Gaver og ensidigt påtagne forpligtelser, i det omfang de er fradragsberettigede efter ligningslovens § 8 A eller § 12, stk. 2-4.
 
 5) Underholdsbidrag, jf. ligningslovens §§ 10 og 11.
 
