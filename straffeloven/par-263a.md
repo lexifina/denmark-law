@@ -1,11 +1,15 @@
-§ 263 a. Med bøde eller fængsel indtil 1 år og 6 måneder straffes den, der uretmæssigt erhvervsmæssigt sælger eller i en videre kreds udbreder en kode eller andet adgangsmiddel til et ikke offentligt tilgængeligt informationssystem, hvortil adgangen er beskyttet med kode eller anden særlig adgangsbegrænsning.
+§ 263 a. Med bøde eller fængsel indtil 1 år og 6 måneder straffes den, der uberettiget
 
-Stk. 2. På samme måde straffes den, der uretmæssigt videregiver et større antal koder eller andre adgangsmidler som nævnt i stk. 1.
+1) erhvervsmæssigt sælger eller i en videre kreds udbreder et adgangsmiddel til et datasystem,
 
-Stk. 3. På samme måde straffes den, der uretmæssigt skaffer sig eller videregiver en kode eller andet adgangsmiddel som nævnt i stk. 1 til
+2) videregiver et større antal adgangsmidler til et datasystem eller
 
-1) et samfundsvigtigt informationssystem, jf. § 193, eller
+3) skaffer sig eller videregiver et adgangsmiddel til et datasystem,
 
-2) et informationssystem, der behandler følsomme oplysninger, som er omfattet af artikel 9, stk. 1, eller artikel 10 i Europa-Parlamentets og Rådets forordning nr. 2016/679 af 27. april 2016 om beskyttelse af fysiske personer i forbindelse med behandling af personoplysninger og om fri udveksling af sådanne oplysninger, om flere personers personlige forhold.
+a) der er samfundsvigtigt, jf. § 193,
 
-Stk. 4. Sker den i stk. 1-3 nævnte videregivelse m.v. under særligt skærpende omstændigheder, er straffen fængsel indtil 6 år. Som særligt skærpende omstændigheder anses navnlig tilfælde, hvor videregivelsen m.v. sker i særligt stort omfang eller indebærer særlig risiko for betydelig skade.
+b) der behandler oplysninger, som er omfattet af artikel 9, stk. 1, eller artikel 10 i Europa-Parlamentets og Rådets forordning nr. 2016/679 af 27. april 2016 om beskyttelse af fysiske personer i forbindelse med behandling af personoplysninger og om fri udveksling af sådanne oplysninger, eller
+
+c) hvortil adgangen er forbeholdt betalende brugere.
+
+Stk. 2. Begås de forhold, der er nævnt i stk. 1, under særligt skærpende omstændigheder, kan straffen stige til fængsel indtil 6 år. Som særligt skærpende omstændigheder anses navnlig tilfælde, hvor videregivelsen m.v. sker i særlig stort omfang eller indebærer særlig risiko for betydelig skade eller omfattende misbrug, eller hvor både stk. 1, nr. 1 og nr. 3, litra c, er overtrådt.

@@ -18,9 +18,17 @@ Stk. 3. Observation af personer, der befinder sig i en bolig eller andre husrum,
 
 Stk. 4. Observation af et ikke frit tilgængeligt sted som nævnt i stk. 1-3, som den, der angiver at være forurettet ved lovovertrædelsen, har rådighed over, er ikke omfattet af reglerne i denne bestemmelse, såfremt den pågældende meddeler skriftligt samtykke til observationen.
 
-Stk. 5. Politiet kan fra udbydere af telenet eller teletjenester indhente oplysninger vedrørende lokaliseringen af en mobiltelefon, der antages at benyttes af en mistænkt (teleobservation), hvis indgrebet må antages at være af væsentlig betydning for efterforskningen, og efterforskningen vedrører en lovovertrædelse, der kan medføre fængsel i 1 år og 6 måneder eller derover.
+Stk. 5. Må indgrebet antages at være af væsentlig betydning for efterforskningen, og vedrører efterforskningen en lovovertrædelse, der kan medføre fængsel i 1 år og 6 måneder eller derover, kan politiet foretage teleobservation ved
 
-Stk. 6. Det påhviler udbydere af telenet eller teletjenester at bistå politiet ved gennemførelse af teleobservation, herunder ved at give de i stk. 5 nævnte oplysninger.
+1) at indhente oplysninger fra udbydere af telenet eller teletjenester vedrørende lokaliseringen af en mobiltelefon, der antages benyttet af en mistænkt, eller
+
+2) på anden måde ved hjælp af en gps eller et andet lignende apparat at registrere
+
+a) en mistænkts færden eller
+
+b) en anden persons færden, hvis den pågældende har tilknytning til en mistænkt eller til samme køretøj eller ejendom som en mistænkt el.lign.
+
+Stk. 6. Det påhviler udbydere af telenet eller teletjenester at bistå politiet ved gennemførelse af teleobservation, herunder ved at give de i stk. 5, nr. 1, nævnte oplysninger.
 
 Stk. 7. Observation må ikke foretages, såfremt det efter indgrebets formål, sagens betydning og den krænkelse og ulempe, som indgrebet må antages at forvolde den eller de personer, som det rammer, ville være et uforholdsmæssigt indgreb.
 
