@@ -1,3 +1,5 @@
-§ 43 b. Midlertidige afgørelser om forbud eller påbud i henhold til EF-varemærkeforordningens art. 99, stk. 1, meddeles af byretten eller Sø- og Handelsretten.
+§ 43 b. Midlertidige afgørelser om forbud eller påbud i henhold til EU-varemærkeforordningen meddeles af byretten eller Sø- og Handelsretten, jf. retsplejelovens kapitel 40.
 
-Stk. 2. Bestemmelserne i retsplejelovens kap. 40 og 57 finder tilsvarende anvendelse.
+Stk. 2. Midlertidige afgørelser om forbud eller påbud i henhold til EU-varemærkeforordningen, der skal have virkning på enhver medlemsstats område, meddeles af Sø- og Handelsretten.
+
+Stk. 3. Midlertidige afgørelser om forbud eller påbud, der både vedrører et nationalt varemærke og et EU-varemærke, meddeles af Sø- og Handelsretten, hvis den midlertidige afgørelse vedrørende EU-varemærket skal have virkning på enhver medlemsstats område.
