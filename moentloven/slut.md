@@ -1,9 +1,5 @@
-Givet på Christiansborg slot, den 21. december 1988
+Erhvervsministeriet, den 12. december 2018
 
-Under Vor Kongelige Hånd og Segl
+Rasmus Jarlov
 
-MARGRETHE R.
-
-/Henning Dyremose
-
-Ingen
+/ Jesper Berg

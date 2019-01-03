@@ -1,3 +1,3 @@
-Møntlov
+Bekendtgørelse af møntlov
 
-VI MARGRETHE DEN ANDEN, af Guds Nåde Danmarks Dronning, gør vitterligt: Folketinget har vedtaget og Vi ved Vort samtykke stadfæstet følgende lov:
+Herved bekendtgøres møntloven, lov nr. 817 af 21. december 1988, med de ændringer, der følger af § 12 i lov nr. 1556 af 21. december 2010.
