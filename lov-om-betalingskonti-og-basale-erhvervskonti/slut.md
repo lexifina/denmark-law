@@ -1,7 +1,5 @@
-Givet på Christiansborg Slot, den 27. april 2016
+Erhvervsministeriet, den 12. december 2018
 
-Under Vor Kongelige Hånd og Segl
+Rasmus Jarlov
 
-MARGRETHE R.
-
-/ Troels Lund Poulsen
+/ Jesper Berg
