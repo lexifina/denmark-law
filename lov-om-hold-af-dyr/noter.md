@@ -37,3 +37,5 @@
 19) Lovændringen vedrører ændring af § 3 a.
 
 20) Lovændringen vedrører indsættelse af nyt stykke 5 i § 70 og ændring af § 72, stk. 3.
+
+21) Lovændringen vedrører ændring af § 30, stk. 1, § 34 a, stk. 1, og § 70, stk. 1, og indsættelse af § 34 d.
