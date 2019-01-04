@@ -135,3 +135,9 @@ Lov nr. 721 af 8. juni 2018 (Strafskærpelse som led i indsatsen mod afrikansk s
 § 4
 
 Loven træder i kraft den 1. juli 2018.
+
+Lov nr. 1550 af 18. december 2018 (Smittebeskyttelse, forenkling af reglerne om sundhedsrådgivning og påbud om rådgivning om Salmonella Dublin) indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 2
+
+Loven træder i kraft den 1. januar 2019.
