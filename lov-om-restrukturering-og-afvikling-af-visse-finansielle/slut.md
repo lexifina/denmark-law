@@ -1,7 +1,5 @@
-Givet på Marselisborg Slot, den 31. marts 2015
+Erhvervsministeriet, den 4. januar 2019
 
-Under Vor Kongelige Hånd og Segl
+Rasmus Jarlov
 
-MARGRETHE R.
-
-/ Henrik Sass Larsen
+/ Hans Høj
