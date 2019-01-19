@@ -8,7 +8,7 @@ Stk. 2-7. (Udelades)
 
 Stk. 8. Personer, der er tilkendt førtidspension eller invaliditetsydelse, eller for hvem der er påbegyndt sag herom inden den 1. januar 2003, er dog uanset § 5, nr. 1 og 2, også efter udgangen af 2002 berettiget til boligydelse efter de regler i lov om individuel boligstøtte, der gælder for modtagere af folkepension.
 
-Lov nr. 402 af 6. juni 2002 (overførelse af tidssvarende plejehjem og beskyttede boliger til boliglovgivningen) indeholder følgende ikrafttrædelses- og overgangsbestemmelser:
+Lov nr. 402 af 6. juni 2002 (Overførelse af tidssvarende plejehjem og beskyttede boliger til boliglovgivningen) indeholder følgende ikrafttrædelses- og overgangsbestemmelser:
 
 § 7
 
@@ -168,7 +168,7 @@ Stk. 2. De hidtil gældende regler i § 46, stk. 3, og §§ 86 a og 87 a i lov o
 
 Stk. 3. Henvisninger til forordning (EØF) nr. 1408/71 forbliver i kraft, og anvendelse af denne forordning bevares i forhold til det enkelte EØS-land og Schweiz, så længe det enkelte EØS-land eller Schweiz ikke har tilsluttet sig forordning (EF) nr. 883/04.
 
-Lov nr. 624 af 11. juni 2010 (Ungeydelse for 15-17-årige, mulighed for at standse ungeydelsen, m.v.) indeholder følgende ikrafttrædelses- og overgangsbestemmelse:
+Lov nr. 624 af 11. juni 2010 (Ungeydelse for 15-17-årige, mulighed for at standse ungeydelsen, m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
 
 § 7
 
@@ -176,7 +176,7 @@ Stk. 1. Loven træder i kraft den 1. januar 2011.
 
 Stk. 2. For kalenderåret 2011 udgør ungeydelsen efter § 1, stk. 2, i lov om en børne- og ungeydelse som affattet ved denne lovs § 1, nr. 3, 894 kr. om måneden.
 
-Lov nr. 461 af 18. maj 2011 (Ændring af 450-timers-reglen til en 225-timers-regel, uændret boligstøtte ved nedsættelse af kontanthjælp, reduktion af boligstøtten ved manglende efterlevelse af forældrepålæg m.v.) indeholder følgende ikrafttrædelses- og overgangsbestemmelse:
+Lov nr. 461 af 18. maj 2011 (Ændring af 450-timers-reglen til en 225-timers-regel, uændret boligstøtte ved nedsættelse af kontanthjælp, reduktion af boligstøtten ved manglende efterlevelse af forældrepålæg m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
 
 § 4
 
@@ -246,7 +246,7 @@ Loven træder i kraft den 1. april 2013.
 
 Boligsikring efter lovens § 3 ydes tidligst med virkning fra begyndelsen af den måned, der følger nærmest efter den første udbetalingsmåned for førtidspension efter lov om social pension. For personer, der modtager boligydelse, omregner Udbetaling Danmark administrativt boligydelsen til boligsikring.
 
-Lov nr. 552 af 2. juni 2014 (Overgang til obligatorisk digital selvbetjening, for så vidt angår ansøgning om byggetilladelse, ansøgning om forældremyndighed, barnets bopæl, samvær m.v., anmodning om separation og skilsmisse, ansøgning om børne- og ægtefællebidrag, ansøgning om lån til beboerindskud, ansøgning om parkeringslicens og anmodning om attestationer efter lov om Det Centrale Personregister m.v.) indeholder følgende ikrafttrædelses- og overgangsbestemmelse:
+Lov nr. 552 af 2. juni 2014 (Overgang til obligatorisk digital selvbetjening, for så vidt angår ansøgning om byggetilladelse, ansøgning om forældremyndighed, barnets bopæl, samvær m.v., anmodning om separation og skilsmisse, ansøgning om børne- og ægtefællebidrag, ansøgning om lån til beboerindskud, ansøgning om parkeringslicens og anmodning om attestationer efter lov om Det Centrale Personregister m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
 
 § 16
 
@@ -272,7 +272,7 @@ Stk. 8. § 3, nr. 22-27, finder første gang anvendelse for boligstøtte, der er
 
 Stk. 9. Der kan ske en efterbetaling af boligstøtte ved efterregulering af boligstøtte i 2016 for kalenderåret 2015 som følge af efterregulering af pension efter § 39 b i lov om social pension eller § 38 a i lov om højeste, mellemste, forhøjet almindelig og almindelig førtidspension m.v., hvis den samlede efterbetaling af boligstøtte er mindst 250 kr.
 
-Lov nr. 1522 af 27. december 2014 (Ophævelse af gensidig forsørgelsespligt for samlevende, afskaffelse af laveste forsørgersats, højere boligsikring til unge par med børn, særlig støtte for unge under 30 år, ingen fradrag for lejeindtægter fra logerende i egen bolig m.v.) indeholder følgende ikrafttrædelses- og overgangsbestemmelser:
+Lov nr. 1522 af 27. december 2014 (Ophævelse af gensidig forsørgelsespligt for samlevende, afskaffelse af laveste forsørgersats, højere boligsikring til unge par med børn, særlig støtte for unge under 30 år, ingen fradrag for lejeindtægter fra logerende i egen bolig m.v.) indeholder følgende ikrafttrædelsesbestemmelser:
 
 § 5
 
@@ -294,7 +294,7 @@ Stk. 2. §§ 2 og 3 træder i kraft den 1. januar 2016.
 
 Stk. 3. (Udelades)
 
-Lov nr. 527 af 29. april 2015 (Fri adgang til plejeboligmarkedet, ophævelse af krav om genudbud, ændring af afregningssystemet, pantsætningsforbud, forenkling af friplejeboligordningen m.v.) indeholder følgende ikrafttrædelses- og overgangsbestemmelser:
+Lov nr. 527 af 29. april 2015 (Fri adgang til plejeboligmarkedet, ophævelse af krav om genudbud, ændring af afregningssystemet, pantsætningsforbud, forenkling af friplejeboligordningen m.v.) indeholder følgende ikrafttrædelsesbestemmelser:
 
 § 5
 
@@ -312,7 +312,7 @@ Stk. 1. Loven træder i kraft den 1. maj 2015.
 
 Stk. 2. § 2, nr. 5, finder ikke anvendelse for kollektive bofællesskaber i almene familieboliger efter § 3 i lov om almene boliger m.v., hvor kommunalbestyrelsen før lovens ikrafttræden har godkendt, at bofællesskabet kan bestå af tre personer. For sådanne kollektive bofællesskaber finder de hidtil gældende regler anvendelse.
 
-Lov nr. 1000 af 30. august 2015 (Indførelse af en integrationsydelse, ændring af reglerne om ret til uddannelses- og kontanthjælp m.v.) indeholder følgende ikrafttrædelses- og overgangsbestemmelser:
+Lov nr. 1000 af 30. august 2015 (Indførelse af en integrationsydelse, ændring af reglerne om ret til uddannelses- og kontanthjælp m.v.) indeholder følgende ikrafttrædelsesbestemmelser:
 
 § 16
 
@@ -323,3 +323,133 @@ Stk. 2-6. (Udelades)
 § 17
 
 (Udelades)
+
+Lov nr. 296 af 22. marts 2016 (Kontanthjælpsloft, 225-timersregel, ferie til uddannelses- og kontanthjælpsmodtagere m.v.) indeholder følgende ikrafttrædelsesbestemmelser:
+
+§ 6
+
+Stk. 1. Loven træder i kraft den 1. april 2016, jf. dog stk. 2.
+
+Stk. 2-4. (Udelades)
+
+§ 7
+
+(Udelades)
+
+Lov nr. 628 af 8. juni 2016 (Overførsel af opgaver fra Statens Administrations Finansservicecenter m.fl. til Udbetaling Danmark m.v.) indeholder følgende ikrafttrædelses- og overgangsbestemmelser:
+
+§ 54
+
+Stk. 1. Loven træder i kraft den 1. oktober 2016, jf. dog stk. 2 og 3.
+
+Stk. 2-3. (Udelades)
+
+§ 55
+
+Stk. 1. Loven finder ikke anvendelse for klager over afgørelser truffet af ressortministerierne eller Statens Administration inden lovens ikrafttræden. For sådanne klager finder de hidtil gældende regler anvendelse.
+
+Stk. 2. Udbetaling Danmark kan i perioden fra den 1. oktober 2016 til den 31. december 2016 foretage de dispositioner og regnskabsmæssige registreringer, der er nævnt i tekstanmærkning nr. 102 til § 7 på finansloven for 2016, for så vidt angår de udlån og garantier m.v., som Udbetaling Danmark administrerer i henhold til denne lov.
+
+Stk. 3. Ressortministeriernes betaling for varetagelse af opgaver, der overføres til Udbetaling Danmark ved denne lov, sker for perioden fra den 1. oktober 2016 til den 31. december 2016 efter reglerne på finansloven for 2016. Statens Administration foretager en samlet afregning til Udbetaling Danmark af denne betaling og gebyrer fra den 1. oktober 2016 til den 31. december 2016.
+
+§ 56
+
+Stk. 1. Lovens §§ 1-10, 19-21, 23-28, 30-38 og 41-53 gælder ikke for Færøerne og Grønland, jf. dog stk. 2 og 3.
+
+Stk. 2-3. (Udelades)
+
+Lov nr. 665 af 8. juni 2016 (Bedre rammer for at modtage og integrere flygtninge og styrket virksomhedsrettet integrationsprogram m.v.) indeholder følgende ikrafttrædelses- og overgangsbestemmelser:
+
+§ 12
+
+Stk. 1. Loven træder i kraft den 1. juli 2016, jf. dog stk. 2-6.
+
+Stk. 2-6. (Udelades)
+
+§ 13
+
+(Udelades)
+
+Lov nr. 674 af 8. juni 2017 (Blokering af hjemmesider og stop af offentlige ydelser til fremmedkrigere) indeholder følgende ikrafttrædelses- og overgangsbestemmelser:
+
+§ 17
+
+Stk. 1. Loven træder i kraft dagen efter bekendtgørelsen i Lovtidende.
+
+Stk. 2. Lovens §§ 2-16 finder ikke anvendelse for afgørelser om inddragelse af pas, der er truffet inden lovens ikrafttræden, og domme, der vedrører forhold begået inden lovens ikrafttræden.
+
+Stk. 3. (Udelades)
+
+§ 18
+
+Loven gælder ikke for Færøerne og Grønland.
+
+Lov nr. 278 af 17. april 2018 (Indefrysning af stigninger i grundskylden for 2018-2020, forsigtighedsprincip ved fastsættelse af beskatningsgrundlag for grundskyld, dækningsafgift af erhvervsejendomme og ejendomsværdiskat m.v.) indeholder følgende ikrafttrædelses- og overgangsbestemmelse:
+
+§ 17
+
+Stk. 1. Loven træder i kraft den 1. juli 2018, jf. dog stk. 2.
+
+Stk. 2. 2. (Udelades)
+
+Stk. 3. § 3, § 4, nr. 1, § 5, nr. 2-4 og 7, og §§ 10 og 11 har virkning fra og med den 1. januar 2018.
+
+Stk. 4-9. (Udelades)
+
+Lov nr. 745 af 8. juni 2018 om ændring af avu-loven, lov om befordringsrabat til uddannelsessøgende i ungdomsuddannelser m.v., lov om Danmarks Evalueringsinstitut, lov om forberedende voksenundervisning og ordblindeundervisning for voksne, lov om individuel boligstøtte og forskellige andre love og om ophævelse af lov om erhvervsgrunduddannelse m.v., lov om kombineret ungdomsuddannelse, lov om produktionsskoler og lov om Rådet for Ungdomsuddannelser (Ændringer som følge af lovgivning om forberedende grunduddannelse m.v.) indeholder følgende ikrafttrædelses- og overgangsbestemmelse:
+
+§ 30
+
+Stk. 1. Loven træder i kraft dagen efter bekendtgørelsen i Lovtidende, jf. dog stk. 2 og 3.
+
+Stk. 2. § 20, nr. 2-33, træder i kraft den 1. januar 2019.
+
+Stk. 3. § 1, § 2, nr. 1 og 2, § 3, nr. 1, § 4, § 5, nr. 4, § 6, nr. 1-3, §§ 7 og 8, § 9, nr. 1-4, §§ 10-12, § 13, nr. 1-3, § 14, nr. 2, § 15, nr. 2, §§ 16, 18 og 19, § 20, nr. 1, §§ 21-29 og stk. 8 træder i kraft den 1. august 2019.
+
+Stk. 4. Lov nr. 630 af 16. juni 2014 om Rådet for Ungdomsuddannelser ophæves dagen efter bekendtgørelsen i Lovtidende.
+
+Stk. 5. Lov om erhvervsgrunduddannelse m.v., jf. lovbekendtgørelse nr. 738 af 20. juni 2016, ophæves den 1. august 2019, jf. dog stk. 16.
+
+Stk. 6. Lov om kombineret ungdomsuddannelse, jf. lovbekendtgørelse nr. 779 af 15. juni 2015, ophæves den 1. august 2019. Optagelse til kombineret ungdomsuddannelse sker sidste gang til påbegyndelse i januar 2019.
+
+Stk. 7. Lov om produktionsskoler, jf. lovbekendtgørelse nr. 97 af 26. januar 2017, ophæves den 1. august 2019.
+
+Stk. 8. Elever, som før den 1. august 2019 er optaget på produktionsskolebaseret erhvervsuddannelse ved institutioner, som efter § 59 i lov om institutioner for forberedende grunduddannelse sammenlægges med institutioner for forberedende grunduddannelse, er berettigede til at gennemføre uddannelsen på det for uddannelsen godkendte værksted eller et andet tilsvarende værksted, som er godkendt hertil.
+
+Stk. 9. Elever, som før den 1. august 2019 er påbegyndt en uddannelse efter lov om erhvervsgrunduddannelse m.v., jf. lovbekendtgørelse nr. 738 af 20. juni 2016, lov om kombineret ungdomsuddannelse, jf. lovbekendtgørelse nr. 779 af 15. juni 2015, eller uddannelse eller aktivitet efter lov om produktionsskoler, jf. lovbekendtgørelse nr. 97 af 26. januar 2017, afslutter uddannelsen eller aktiviteten efter de hidtil gældende regler, jf. dog stk. 10. Elever omfattet af 1. pkt. afslutter uddannelsen eller aktiviteten på en institution for forberedende grunduddannelse, såfremt og i det omfang uddannelsen eller aktiviteten foregår ved en institution, som helt eller delvis overdrages eller sammenlægges med institutioner for forberedende grunduddannelse. For beregning, udbetaling, afskæring, efterregulering og administration af tilskud m.v. finder de hidtil gældende regler anvendelse.
+
+Stk. 10. § 2, stk. 9, i lov om produktionsskoler, jf. lovbekendtgørelse nr. 97 af 26. januar 2017, finder ikke anvendelse for uddannelse eller aktivitet efter lov om produktionsskoler, der er omfattet af stk. 9. For sådan uddannelse eller aktivitet gælder, at uddannelsen eller aktiviteten skal gennemføres i egnede lokaler med faciliteter, udstyr m.v. i en forsvarlig standard, jf. § 20, stk. 2, i lov om institutioner for forberedende grunduddannelse.
+
+Stk. 11. Elever, som før den 1. august 2019 er påbegyndt en uddannelse efter lov om erhvervsgrunduddannelse m.v., jf. lovbekendtgørelse nr. 738 af 20. juni 2016, lov om kombineret ungdomsuddannelse, jf. lovbekendtgørelse nr. 779 af 15. juni 2015, eller en uddannelse eller aktivitet efter lov om produktionsskoler, jf. lovbekendtgørelse nr. 97 af 26. januar 2017, bevarer retten til befordringsrabat efter de hidtil gældende regler i lov om befordringsrabat til uddannelsessøgende i ungdomsuddannelser m.v., jf. lovbekendtgørelse nr. 437 af 8. maj 2017.
+
+Stk. 12. § 1 finder ikke anvendelse for kursister, som er indskrevet på et bestemt niveau af et eller flere fag efter avu-loven, jf. lovbekendtgørelse nr. 926 af 3. juli 2017, med henblik på kursusstart før den 1. august 2019. For disse kursister finder de hidtil gældende regler anvendelse. Kursister omfattet af 1. pkt. afslutter det eller de pågældende fag ved den institution, hvor kursisterne er optaget. For beregning, udbetaling, afskæring, efterregulering og administration af tilskud m.v. finder de hidtil gældende regler anvendelse.
+
+Stk. 13. § 2, nr. 2, finder ikke anvendelse i relation til elever i erhvervsgrunduddannelse efter lov om erhvervsgrunduddannelser m.v., jf. lovbekendtgørelse nr. 738 af 20. juni 2016. I relation til disse elever finder de hidtil gældende regler anvendelse.
+
+Stk. 14. § 10 finder ikke anvendelse for kursister, som er optaget på et bestemt trin af forberedende voksenundervisning eller et forløb af ordblindeundervisning for voksne efter lov om forberedende voksenuddannelse og ordblindeundervisning for voksne, jf. lovbekendtgørelse nr. 96 af 26. januar 2017, med henblik på kursus- eller forløbsstart før den 1. august 2019. For disse kursister finder de hidtil gældende regler anvendelse. Kursister omfattet af 1. pkt. afslutter trinnet eller forløbet ved den institution, hvor kursisterne er optaget. For beregning, udbetaling, afskæring, efterregulering og administration af tilskud m.v. finder de hidtil gældende regler anvendelse.
+
+Stk. 15. Elever og kursister omfattet af stk. 9, 12 og 14 har fra og med den 1. januar 2019 ret til at blive målgruppevurderet til forberedende grunduddannelse i henhold til § 2 k i lov om kommunal indsats for unge under 25 år. 1. pkt. finder anvendelse, uanset om eleven eller kursisten er fyldt 25 år på tidspunktet for målgruppevurderingen.
+
+Stk. 16. § 15 a i lov om erhvervsgrunduddannelse, jf. lovbekendtgørelse nr. 738 af 20. juni 2016, forbliver i kraft. § 27, stk. 2, i lov om Arbejdsgivernes Uddannelsesbidrag finder tilsvarende anvendelse for klager, der indgives den 1. august 2019 eller senere, over afgørelser truffet af Arbejdsgivernes Uddannelsesbidrag om bonus, herunder bonussens størrelse, beregning, udbetaling, efterregulering, modregning og tilbagebetaling.
+
+Stk. 17. Regler, der er fastsat i medfør af § 2, stk. 3, i avu-loven, jf. lovbekendtgørelse nr. 926 af 3. juli 2017, eller i medfør af de love, der nævnes i stk. 5-7, forbliver i kraft, indtil de ophæves.
+
+Stk. 18. Regler fastsat i medfør af § 13, stk. 4, i lov om befordringsrabat til uddannelsessøgende i ungdomsuddannelser m.v., jf. lovbekendtgørelse nr. 437 af 8. maj 2017, forbliver i kraft, indtil de ophæves eller afløses af forskrifter udstedt i medfør af § 13, stk. 3, i lov om befordringsrabat til uddannelsessøgende i ungdomsuddannelser m.v. som affattet ved denne lovs § 4, nr. 7.
+
+Stk. 19. Regler fastsat i medfør af § 2, stk. 2, i lov om forberedende voksenundervisning og ordblindeundervisning for voksne, jf. lovbekendtgørelse nr. 96 af 26. januar 2017, forbliver i kraft, indtil de ophæves.
+
+Stk. 20. Regler fastsat i medfør af § 3, stk. 5, i lov om ungdomsuddannelse for unge med særlige behov, jf. lovbekendtgørelse nr. 783 af 15. juni 2015, forbliver i kraft, indtil de ophæves eller afløses af forskrifter udstedt i medfør af § 3, stk. 4, i lov om ungdomsuddannelse for unge med særlige behov som affattet ved denne lovs § 19, nr. 2.
+
+Lov nr. 1548 af 18. december 2018 om ændring af lov om radio- og fjernsynsvirksomhed, personskatteloven, lov om social pension og forskellige andre love (Gennemførelse af aftale om fokusering af DR og afskaffelse af medielicensen m.v.) indeholder følgende ikrafttrædelses- og overgangsbestemmelse:
+
+§ 8
+
+Stk. 1. Loven træder i kraft den 1. januar 2019, jf. dog stk. 2.
+
+Stk. 2. § 1, nr. 4 og 5, og § 4 træder i kraft den 1. januar 2022. DR kan dog fortsat efter den 1. januar 2022 opkræve medielicens efter de hidtil gældende regler i kapitel 10 i lov om radio- og fjernsynsvirksomhed, i det omfang der er tale om opkrævning af medielicens vedrørende perioden før den 1. januar 2022.
+
+Stk. 3. § 3 har virkning fra og med indkomståret 2019.
+
+Stk. 4. Ved opgørelsen af den kommunale slutskat og kirkeskat for indkomståret 2019 efter § 16 i lov om kommunal indkomstskat korrigeres den opgjorte slutskat for den beregnede virkning af de ændringer i udskrivningsgrundlaget for kommuneskat og kirkeskat for 2019, der følger af denne lovs § 3.
+
+Stk. 5. Den beregnede korrektion af den kommunale slutskat og kirkeskat efter stk. 4 fastsættes af økonomi- og indenrigsministeren på grundlag af de oplysninger vedrørende indkomståret 2019, der foreligger pr. 1. maj 2021.
