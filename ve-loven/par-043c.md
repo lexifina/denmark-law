@@ -6,6 +6,6 @@ Stk. 3. Ud over grundtilskuddet ydes et tilskud på 26 kr. pr. anvendt gigajoule
 
 Stk. 4. Tilskud efter stk. 2 og 3 ydes til ejeren af den virksomhed, der anvender biogassen til procesformål.
 
-Stk. 5. Tilskud efter stk. 2 og 3 er betinget af energi, forsynings- og klimaministerens tilsagn, inden der indgås ubetinget aftale om køb af biogas, eller inden der iværksættes egenproduktion af biogas til procesformål i virksomheden.
+Stk. 5. Tilskud efter stk. 2 og 3 er betinget af energi, forsynings- og klimaministerens tilsagn, inden der indgås ubetinget aftale om køb af biogas, eller inden der iværksættes egenproduktion af biogas til procesformål i virksomheden. Et tilsagn om tilskud, som er meddelt efter den 1. januar 2019, og som ikke er udnyttet, inden 2 år efter at tilsagnet er meddelt, bortfalder.
 
 Stk. 6. Ansøger skal for at modtage tilskud opfylde de krav, som fremgår af regler udstedt i medfør af § 50, stk. 5, og § 50 a.

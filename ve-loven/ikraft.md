@@ -116,9 +116,7 @@ Energi-, forsynings- og klimaministeren fastsætter tidspunktet for lovens ikraf
 
 Lov nr. 690 af 8. juni 2018 om Forsyningstilsynet indeholder følgende ikrafttrædelsesbestemmelse:
 
-§ 14. Loven træder i kraft den 1. juli 2018, jf. dog stk. 2.
-
-Stk. 2-3. (Udelades)
+§ 14. Stk. 2-3. (Udelades)
 
 Lov nr. 704 af 8. juni 2018 (Styrkelse af rammerne for overvågning af elforsyningssikkerheden og klare regler for sikring af kapacitet, ændringer som følge af forordninger om EU-netregler, flytning af ansvar for måling af elektricitet hos elforbrugere direkte tilsluttet transmissionsnettet og samkøring af oplysninger om realiserede energibesparelser m.v.), indeholder følgende ikrafttrædelsesbestemmelse:
 
@@ -127,3 +125,17 @@ Lov nr. 704 af 8. juni 2018 (Styrkelse af rammerne for overvågning af elforsyni
 Stk. 1. Loven træder i kraft den 1. juli 2018, jf. dog stk. 2.
 
 Stk. 2. (Udelades)
+
+Lov nr. 1532 af 18. december 2018 (Pristillæg til elektricitet produceret ved afbrænding af biomasse, digitalisering m.v.) indeholder følgende ikrafttrædelses- og overgangsbestemmelser:
+
+§ 3
+
+Stk. 1. Loven træder i kraft den 1. januar 2019, jf. dog stk. 2-3.
+
+Stk. 2. § 1, nr. 3, 5, 7, 9, 12 og 14-17, og § 2, nr. 2, 3 og 4, træder i kraft den 1. april 2019.
+
+Stk. 3. Energi-, forsynings- og klimaministeren fastsætter tidspunktet for ikrafttrædelse af § 45 b i lov om fremme af vedvarende energi, som indsat ved denne lovs § 1, nr. 4, og af denne lovs § 1, nr. 6, 8 og 10.
+
+Stk. 4. For pristillæg ydet efter §§ 45 og 46, jf. lovbekendtgørelse nr. 1194 af 28. september 2018, finder de hidtil gældende regler om administration, herunder kontrol, af pristillæg ydet efter §§ 45 og 46, fortsat anvendelse efter lovens ikrafttræden.
+
+Stk. 5. Der kan til og med den 31. juli 2019 ydes pristillæg til elproduktion fra afbrænding af biomasse fra anlæg, der den 31. marts 2019 modtager pristillæg for elproduktion fra afbrænding af biomasse i medfør af § 46 i lov om fremme af vedvarende energi, jf. lovbekendtgørelse nr. 1194 af 28. september 2018.
