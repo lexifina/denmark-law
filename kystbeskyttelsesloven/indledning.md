@@ -1,5 +1,3 @@
-Bekendtgørelse af lov om kystbeskyttelse
+Bekendtgørelse af lov om kystbeskyttelse m.v.
 
-Herved bekendtgøres lov om kystbeskyttelse, jf. lovbekendtgørelse nr. 15 af 8. januar 2016, med de ændringer, der følger af § 76 i lov nr. 1715 af 27. december 2016 og lov nr. 1732 af 27. december 2016.
-
-Den bekendtgjorte lovtekst vedrørende § 18, stk. 1, 1. pkt., og stk. 2-3, der er blevet stk. 3-4, og § 18 a, stk. 4-8, træder i kraft den 1. februar 2017, jf. § 24, stk. 1, i lov nr. 1715 af 27. december 2016 om Miljø- og Fødevareklagenævnet.
+Herved bekendtgøres lov om kystbeskyttelse m.v., jf. lovbekendtgørelse nr. 78 af 19. januar 2017, med de ændringer, der følger af lov nr. 46 af 23. januar 2018 og § 1 i lov nr. 720 af 8. juni 2018.
