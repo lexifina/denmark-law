@@ -1,4 +1,4 @@
-Lov nr. 523 af 6. juni 2007 (Ændringer som følge af en ny lov om forældelse af fordringer, ophævelse af købelovens reklamationsfrister ved visse køb m.v.) indeholder følgende ikrafttrædelsesbestemmelser:
+Lov nr. 523. af 6. juni 2007 (Ændringer som følge af en ny lov om forældelse af fordringer, ophævelse af købelovens reklamtionsfrister ved visse køb m.v.) indeholder følgende ikrafttrædelses- og ovregangsbestemmelser:
 
 § 47
 
@@ -12,7 +12,7 @@ Stk. 2. Afbrydelse af forældelse, der har fundet sted før lovens ikrafttræden
 
 Stk. 3-8. (Udelades)
 
-Lov nr. 1609 af 22. december 2010 (Optjeningsprincip for børnefamilieydelse og børnetilskud, forbedret kontrol og udvidet modregningsadgang ved udbetaling af børnefamilieydelse) indeholder følgende ikrafttrædelsesbestemmelse:
+Lov nr. 1609 af 22. december 2010 (Optjeningsprincip for børnefamilieydelse og børnetilskud, forbedret kontrol og udvidet modregningsadgang ved udbetaling af børnefamilieydelse) indeholder følgende ikrafttrædelses- og overgangsbestemmelse:
 
 § 5
 
@@ -22,13 +22,13 @@ Stk. 2. Det i § 1, nr. 1, indsatte § 2, nr. 7, i lov om en børnefamilieydelse
 
 Stk. 3. § 1, nr. 2 og 3, har virkning fra den 1. januar 2011.
 
-Lov nr. 326 af 11. april 2012 (Fordeling af myndighedsansvaret mellem kommunerne og Udbetaling Danmark m.v.) indeholder følgende ikrafttrædelsesbestemmelser:
+Lov nr. 326 af 11. april 2012 (Fordeling af myndighedsansvaret mellem kommunerne og Udbetaling Danmark m.v.) indeholder følgende ikrafttrædelses- og overgangsbestemmelser:
 
 § 25
 
 Stk. 1. Loven træder i kraft den 1. oktober 2012, jf. dog stk. 2-4.
 
-Stk. 2-4. (Udelades)
+Stk. 2-4 (Udelades)
 
 § 26
 
@@ -74,11 +74,11 @@ Stk. 1. Loven træder i kraft den 1. januar 2013, jf. dog stk. 2.
 
 Stk. 2. § 1, nr. 1-3, træder i kraft den 1. januar 2014.
 
-Lov nr. 894 af 4. juli 2013 (Reform af kontanthjælpssystemet, uddannelseshjælp for unge, aktivitetstillæg, gensidig forsørgelsespligt mellem samlevende, ændrede rådighedskrav og sanktioner m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
+Lov nr. 894 af 4. juli 2013 (Reform af kontanthjælpssystemet, uddannelseshjælp for unge, aktivitetstillæg, gensidig forsørgelsespligt mellem samlevende, ændrede rådighedskrav og sanktioner m.v.) indeholder følgende ikrafttrædelses- og overgangsbestemmelse:
 
 § 8
 
-Stk. 1. Loven træder i kraft den 1. januar 2014, jf. dog stk. 2, 3 og 5.
+St. 1. Loven træder i kraft den 1. januar 2014, jf. dog stk. 2, 3 og 5.
 
 Stk. 2. Beskæftigelsesministeren fastsætter tidspunktet for ikrafttrædelsen af § 1, nr. 27, og § 13 a, stk. 4, 2. og 3. pkt., i lov om aktiv socialpolitik som affattet ved denne lovs § 1, nr. 28, § 1, nr. 63, og § 98 b i lov om aktiv socialpolitik som affattet ved denne lovs § 1, nr. 105.
 
@@ -87,3 +87,63 @@ Stk. 3. § 1, nr. 33, 35 og 51, træder i kraft den 1. oktober 2013 og har virkn
 Stk. 4. Kommunen skal i perioden fra den 1. oktober til den 31. december 2013 træffe afgørelse om, hvorvidt en person, der ikke er fyldt 30 år den 1. januar 2014, og som modtager kontanthjælp i perioden fra den 1. oktober til og med den 31. december 2013, fra den 1. januar 2014 skal modtage uddannelseshjælp eller kontanthjælp, samt om, hvilken sats hjælpen skal ydes med, herunder om den pågældende har ret til særlig støtte, hvis personen fortsat opfylder betingelserne for at modtage hjælp den 1. januar 2014.
 
 Stk. 5. § 1, nr. 106, træder i kraft dagen efter bekendtgørelsen i Lovtidende og har virkning fra den 1. januar 2013.
+
+Lov nr. 574 af 10. juni 2014 (Anvendelse af indkomstregisteret ved indtægtsregulering af social pension og boligstøtte mv.) indeholder følgende ikrafttrædelses- og overgangsbestemmelse:
+
+§ 5
+
+Stk. 1. Loven træder i kraft den 1. januar 2015, jf. dog stk. 2.
+
+Stk. 2. Lovens § 3 træder i kraft den 1. januar 2016.
+
+Stk. 3. § 1, nr. 12, finder første gang anvendelse for pension udbetalt for 2015.
+
+Stk. 4. § 2, nr. 6, finder første gang anvendelse for pension udbetalt for 2015.
+
+Stk. 5. §§ 1, 2 og 4 finder ikke anvendelse for oplysninger, som Udbetaling Danmark og kommunalbestyrelsen modtager om ændringer, der ville have medført en omregning af pensionen i 2014 efter de hidtil gældende regler. For sådanne oplysninger gælder, at pensionen i 2014 omregnes efter de hidtil gældende regler.
+
+Stk. 6. § 3, nr. 6, finder ikke anvendelse for sådanne boligstøttemodtagere, der før lovens ikrafttræden modtager en højere boligstøtte.
+
+Stk. 7. § 3, nr. 14, finder første gang anvendelse for omberegning den 1. januar 2017. § 3, nr. 14, finder ikke anvendelse på omberegning den 1. januar 2016. For denne omberegning i 2016 finder de hidtil gældende regler anvendelse.
+
+Stk. 8. § 3, nr. 22-27, finder første gang anvendelse for boligstøtte, der er udbetalt i 2016. For efterregulering i 2016 af boligstøtte for kalenderåret 2015 finder de hidtil gældende regler anvendelse.
+
+Stk. 9. Der kan ske en efterbetaling af boligstøtte ved efterregulering af boligstøtte i 2016 for kalenderåret 2015 som følge af efterregulering af pension efter § 39 b i lov om social pension eller § 38 a i lov om højeste, mellemste, forhøjet almindelig og almindelig førtidspension m.v., hvis den samlede efterbetaling af boligstøtte er mindst 250 kr.
+
+Lov nr. 999 af 30. august 2015 (Genindførelse af optjeningsprincippet for ret til børnetilskud og børne- og ungeydelse for flygtninge m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 3
+
+Stk. 1. Loven træder i kraft den 1. september 2015.
+
+Stk. 2. Loven finder ikke anvendelse for udlændinge, der har fået opholdstilladelse i Danmark efter §§ 7, 8 eller 9 b i udlændingeloven før den 1. september 2015. For sådanne udlændinge finder de hidtil gældende regler anvendelse.
+
+Lov nr. 674 af 8. juni 2017 (Blokering af hjemmesider og stop af offentlige ydelser til fremmedkrigere) indeholder følgende ikrafttrædelses- og overgangsbestemmelser:
+
+§ 17
+
+Stk. 1. Loven træder i kraft dagen efter bekendtgørelsen i Lovtidende.
+
+Stk. 2. Lovens §§ 2-16 finder ikke anvendelse for afgørelser om inddragelse af pas, der er truffet inden lovens ikrafttræden, og domme, der vedrører forhold begået inden lovens ikrafttræden.
+
+Stk. 3. Regler fastsat i medfør af § 39, stk. 10, i lov om statens uddannelsensstøtte (SU-loven), jf. lovbekendtgørelse nr. 39 af 15. januar 2014 med senere ændringer, forbliver i kraft, indtil de ophæves eller afløses af nye regler.
+
+§ 18
+
+Loven gælder ikke for Færøerne og Grønland.
+
+Lov nr. 1402 af 5. december 2017 (Initiativer mod rocker- og bandekriminalitet m.v.) indeholder følgende ikrafttrædelses- og overgangsbestemmelser:
+
+§ 4
+
+Stk. 1. Lovens § 1 træder i kraft dagen efter bekendtgørelsen i Lovtidende.
+
+Stk. 2. Lovens §§ 2 og 3 træder i kraft den 1. januar 2018.
+
+Stk. 3. §§ 2 og 3 finder ikke anvendelse på en allerede erhvervet ret til børne- og ungeydelse eller ydelser efter lov om børnetilskud og forskudsvis udbetaling af børnebidrag, der eksisterer inden den 1. januar 2018, så længe retten bevares uden afbrydelse. For ret til sådanne ydelser finder de hidtil gældende regler om optjening anvendelse.
+
+Stk. 4. Bopæls- eller beskæftigelsesperioder optjent før den 1. januar 2018 indgår i opgørelsen af optjente bopæls- eller beskæftigelsesperioder efter §§ 2 og 3.
+
+§ 5
+
+Loven gælder ikke for Færøerne og Grønland.
