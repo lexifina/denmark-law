@@ -20,6 +20,6 @@ Stk. 4. For sygemeldte uden ansættelsesforhold indgås der så vidt muligt en a
 
 3) Iværksættelse af mentorstøtte, hjælpemidler eller anden form for støtte.
 
-Stk. 5. Kommunen kan som et supplement til den arbejdspladsbaserede indsats efter stk. 3 og 4 give tilbud om vejledning og opkvalificering efter kapitel 10 i lov om en aktiv beskæftigelsesindsats. Dette gælder også, hvis rehabiliteringsplanens indsatsdel erstattes af en helhedsorienteret plan, jf. § 30 b, stk. 2, i lov om en aktiv beskæftigelsesindsats. Herudover kan kommunen give tilbud om vejledning og opkvalificering i særlige tilfælde, hvor det kan fremme arbejdsfastholdelse og hurtigere tilbagevenden til arbejdsmarkedet, og hvor det ikke er muligt at iværksætte en arbejdspladsbaseret indsats efter stk. 3 og 4.
+Stk. 5. Kommunen kan som et supplement til den arbejdspladsbaserede indsats efter stk. 3 og 4 give tilbud om vejledning og opkvalificering efter kapitel 10 i lov om en aktiv beskæftigelsesindsats. Herudover kan kommunen give tilbud om vejledning og opkvalificering i særlige tilfælde, hvor det kan fremme arbejdsfastholdelse og hurtigere tilbagevenden til arbejdsmarkedet, og hvor det ikke er muligt at iværksætte en arbejdspladsbaseret indsats efter stk. 3 og 4.
 
 Stk. 6. Sygemeldte, der er visiteret til kategori 2, har ret til et kursus i mestring af følger af sygdom med henblik på at fastholde et arbejde.

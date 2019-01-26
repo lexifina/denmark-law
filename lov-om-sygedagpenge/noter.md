@@ -88,6 +88,12 @@
 
 45) Lovændringen vedrører lovens § 66, stk. 11, og § 66, stk. 14, 1. pkt.
 
-46) Lovændringen vedrører §§ 13 c, 13 d og 13 e.
+46) Lovændringen vedrører lovens §§ 13 c, 13 d og 13 e.
 
-47) Lovændringen vedrører § 3, stk. 2 nr. 3-5.
+47) Lovændringen vedrører lovens § 3, stk. 2, nr. 3-5.
+
+48) Lovændringen vedrører lovens § 68 a.
+
+49) Lovændringen vedrører lovens § 71 c.
+
+50) Lovændringen vedrører lovens § 68 b.
