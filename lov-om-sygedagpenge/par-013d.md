@@ -6,6 +6,6 @@ Stk. 3. Inden kommunen iværksætter indsatsen som nævnt i stk. 1, skal sagen f
 
 Stk. 4. Kommunen skal udpege en gennemgående og koordinerende sagsbehandler til en sygemeldt, der er visiteret til kategori 3, jf. § 12.
 
-Stk. 5. Den gennemgående og koordinerende sagsbehandler skal sammen med den sygemeldte udarbejde rehabiliteringsplanens indsatsdel, varetage den løbende opfølgning og koordinering i samarbejde med den sygemeldte, sørge for, at indsatsdelen justeres efter den sygemeldtes aktuelle situation og behov, og bistå den sygemeldte med at gennemføre rehabiliteringsplanen, herunder realisere uddannelses- og beskæftigelsesmål.
+Stk. 5. Den gennemgående og koordinerende sagsbehandler skal sammen med den sygemeldte udarbejde rehabiliteringsplanens indsatsdel, varetage den løbende opfølgning og koordinering i samarbejde med den sygemeldte, sørge for, at indsatsdelen justeres efter den sygemeldtes aktuelle situation og behov, og bistå den sygemeldte med at gennemføre rehabiliteringsplanen, herunder realisere uddannelses- og beskæftigelsesmål. Dette gælder også, hvis rehabiliteringsplanens indsatsdel erstattes af en helhedsorienteret plan, jf. § 30 b, stk. 2, i lov om en aktiv beskæftigelsesindsats.
 
 Stk. 6. Funktionen som gennemgående og koordinerende sagsbehandler kan overdrages til en anden enhed i kommunen end jobcenteret, jf. § 6, stk. 5, i lov om organisering og understøttelse af beskæftigelsesindsatsen m.v.

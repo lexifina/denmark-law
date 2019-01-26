@@ -14,7 +14,7 @@ Lov nr. 1587 af 20. december 2006 (Ændringer som følge af gradvis forhøjelse 
 
 § 19
 
-Stk. 1. Loven træder i kraft den 1. juli 2009, jf. dog stk. 2-7.
+Loven træder i kraft den 1. juli 2009, jf. dog stk. 2-7.
 
 Stk. 2-7. (Udelades)
 
@@ -60,7 +60,7 @@ Stk. 4. § 62, stk. 3 og 6, i lov om sygedagpenge som affattet ved denne lovs §
 
 § 6
 
-I perioden fra og med den 1. januar 2010 til og med den 31. december 2013 ydes refusion til kommunen uanset bestemmelsen i § 62, stk. 4, som bliver stk. 5, i lov om sygedagpenge.
+(Udelades)
 
 § 7
 
@@ -88,7 +88,7 @@ Lov nr. 483 af 12. juni 2009 (Etablering af et enstrenget kommunalt beskæftigel
 
 § 21
 
-Stk. 1. Loven træder i kraft den 1. august 2009, jf. dog stk. 2 og 3.
+Loven træder i kraft den 1. august 2009, jf. dog stk. 2 og 3.
 
 Stk. 2-3. (Udelades)
 
@@ -126,9 +126,7 @@ Stk. 2. § 13, stk. 1 og 4-6, i lov om sygedagpenge, som affattet ved denne lovs
 
 § 3
 
-Stk. 1. § 32, stk. 1, nr. 1, og § 32, stk. 2, i lov om sygedagpenge som ændret ved denne lovs § 1, nr. 6 og 7, finder ikke anvendelse på sygdomstilfælde, hvor 1. fraværsdag ligger før den 2. juli 2012. Disse sygdomstilfælde behandles efter de hidtil gældende regler.
-
-Stk. 2. Uanset § 24, stk. 3, i lov om sygedagpenge medregnes søgnehelligdage, der ligger før den 2. juli 2012, ved opgørelsen af sygedagpengeperioden efter § 24, stk. 1, eller § 25, stk. 1, i lov om sygedagpenge.
+(Udelades)
 
 Lov nr. 1598 af 22. december 2010 (Ændring af refusionssatser) indeholder følgende ikrafttrædelsesbestemmelse:
 
@@ -148,7 +146,7 @@ Loven træder i kraft den 2. januar 2012.
 
 Stk. 1. Loven finder anvendelse på sygdomstilfælde, hvor 1. fraværsdag er den 2. januar 2012 eller senere.
 
-Stk. 2. Uanset § 24, stk. 2, nr. 1 og 2, i lov om sygedagpenge som affattet ved denne lovs § 1, nr. 1, skal der ved beregningen af sygedagpengeperioden efter § 24, stk. 1, eller § 25, stk. 1, i lov om sygedagpenge, ikke medregnes de dage, der ligger før den 2. januar 2012, og for hvilke der er udbetalt sygedagpenge eller løn fra arbejdsgiveren i de første 21 kalenderdage af sygefraværsperioden eller udbetalt sygedagpenge fra kommunen i de første 21 kalenderdage af sygefraværsperioden for lønmodtagere.
+Stk. 2. (Udelades)
 
 Lov nr. 279 af 6. april 2011 (Større fleksibilitet i opfølgning og indsats over for sygedagpengemodtagere) indeholder følgende ikrafttrædelsesbestemmelse:
 
@@ -178,7 +176,7 @@ Loven træder i kraft den 5. marts 2012.
 
 § 4
 
-Stk. 1. En person, der under det aktuelle sygdomsforløb inden lovens ikrafttræden har anvendt fortrydelsesretten efter § 21, stk. 4, i lov om sygedagpenge, kan få genoptaget udbetalingen af sygedagpenge én gang efter lovens ikrafttræden.
+Stk. 1. (Udelades)
 
 Stk. 2. § 1, nr. 6, finder anvendelse på sygedagpengemodtagere med en ret til udbetaling af førtidspension, som er påbegyndt den 5. marts 2012 eller senere.
 
@@ -202,7 +200,7 @@ Stk. 3. § 38, stk. 1, i lov om sygedagpenge som affattet ved denne lovs § 1, n
 
 Stk. 4. § 38, stk. 3, i lov om sygedagpenge som affattet ved denne lovs § 1, nr. 5, har virkning for løn- modtagere med 1. sygefraværsdag efter den 25. marts 2012, hvis der ikke er afsendt et underretningsbrev fra SDPI-løsningen.
 
-Stk. 5. § 38, stk. 7, 2. pkt., i lov om sygedagpenge som ophævet ved denne lovs § 1, nr. 8, vil fortsat finde anvendelse for de sygedagpengesager, som ikke omfattes af § 38, stk. 1 og 3, i lov om sygedagpenge som affattet ved denne lovs § 1, nr. 5.
+Stk. 5. (Udelades).
 
 Stk. 6. Lovens § 1, nr. 11, § 40 a, stk. 3, i lov om sygedagpenge som affattet ved denne lovs § 1, nr. 12, og lovens § 1, nr. 15, har virkning for underretningsbreve udsendt fra SDPI-løsningen den 2. april 2012 eller senere.
 
@@ -242,7 +240,7 @@ Lov nr. 1380 af 23. december 2012 (Reform af førtidspension og fleksjob, herund
 
 § 21
 
-Stk. 1. Loven træder i kraft den 1. januar 2013, jf. dog stk. 2-6 og 8.
+Loven træder i kraft den 1. januar 2013, jf. dog stk. 2-6 og 8.
 
 Stk. 2-8. (Udelades)
 
@@ -260,11 +258,7 @@ Loven træder i kraft den 1. juli 2013.
 
 § 26
 
-Stk. 1. Sager, der er indbragt for de sociale nævn eller beskæftigelsesankenævnene, og som ved lovens ikrafttræden ikke er færdigbehandlet, færdigbehandles af Ankestyrelsen eller Ankestyrelsens Beskæftigelsesudvalg efter kapitel 9, 9 a og 10 i lov om retssikkerhed og administration på det sociale område, som ændret ved denne lovs § 1.
-
-Stk. 2. I sager, hvor Ankestyrelsen inden lovens ikrafttræden har modtaget en anmodning om at optage en klage til behandling efter § 59 a, stk. 2, eller § 63 i lov om retssikkerhed og administration på det sociale område, og hvor beslutning om, hvorvidt afgørelsen opfylder betingelserne for at kunne blive behandlet i Ankestyrelsen endnu ikke er truffet ved denne lovs ikrafttræden, træffes beslutningen herom efter de hidtil gældende bestemmelser i § 57, nr. 1, jf. §§ 59 a og 63 i lov om retssikkerhed og administration på det sociale område. Sager, der optages til behandling efter 1. pkt., behandles af Ankestyrelsen eller Ankestyrelsens Beskæftigelsesudvalg efter kapitel 9, 9 a og 10 i lov om retssikkerhed og administration på det sociale område, som ændret ved denne lovs § 1.
-
-Stk. 3. Sager, som Ankestyrelsen inden lovens ikrafttræden har optaget til behandling efter § 59 a, stk. 2, eller § 63 i lov om retssikkerhed og administration på det sociale område, og hvori der endnu ikke er truffet afgørelse ved denne lovs ikrafttræden, behandles af Ankestyrelsen eller Ankestyrelsens Beskæftigelsesudvalg efter kapitel 9, 9 a og 10 i lov om retssikkerhed og administration på det sociale område, som ændret ved denne lovs § 1.
+(Udelades)
 
 Lov nr. 1610 af 26. december 2013 (Midlertidig arbejdsmarkedsydelse, indsatsen for modtagere af midlertidig arbejdsmarkedsydelse, sikring af ret til syge- og barseldagpenge, målretning af danskuddannelsestilbud m.v.) indeholder følgende ikrafttrædelses- og overgangsbestemmelse:
 
@@ -274,7 +268,7 @@ Stk. 1. Loven træder i kraft den 30. december 2013, jf. dog stk. 2.
 
 Stk. 2. § 2 træder i kraft den 1. januar 2014.
 
-Stk. 3. § 2, stk. 1, i lov om danskuddannelse til voksne udlændinge m.fl., som affattet ved denne lovs § 5, nr. 1, finder ikke anvendelse for udlændinge, som er henvist til danskuddannelse før lovens ikrafttræden. For sådanne udlændinge gælder de hidtidige regler.
+Stk. 3. (Udelades)
 
 Lov nr. 1611 af 26. december 2013 (Ophævelse af refusionsbestemmelse ved manglende opfølgning) indeholder følgende ikrafttrædelsesbestemmelse:
 
@@ -296,9 +290,7 @@ Stk. 3. § 1, nr. 1, 3-18, 31-39 og 41-58, § 2, nr. 31, § 4, nr. 1, 2, 4, 10, 
 
 Stk. 1. § 1, nr. 22-29, finder anvendelse på sygedagpengemodtagere med første fraværsdag den 1. juli 2014 eller senere. Bestemmelserne finder ligeledes anvendelse på sygedagpengemodtagere, der den 1. juli 2014 har modtaget sygedagpenge fra kommunen i 22 uger eller derunder i de 9 forudgående kalendermåneder.
 
-Stk. 2. For sygedagpengemodtagere, der den 1. juli 2014 har modtaget sygedagpenge fra kommunen i mere end 22 uger i de 9 forudgående kalendermåneder, finder reglerne i § 1, nr. 22-29, anvendelse, dog med den varighedsbegrænsning, der følger af den gældende § 24, stk. 1, i lov om sygedagpenge. Udbetalingen af sygedagpenge ophører således i disse tilfælde efter udløbet af en kalendermåned, når der er ud- betalt sygedagpenge fra kommunen, herunder nedsatte sygedagpenge eller løn under sygdom, for mere end 52 uger i de 18 forudgående kalendermåneder, jf. dog § 25 i lov om sygedagpenge. I disse tilfælde vil udbetalingen af sygedagpenge ved en forlængelse efter lovens § 27, stk. 1, nr. 2, når det anses for nødvendigt at gennemføre virksomhedspraktik eller andre afklarende foranstaltninger med henblik på at klarlæg- ge den sygemeldtes arbejdsevne, kun kunne ske i op til 39 uger, og en forlængelse efter lovens § 27, stk. 1, nr. 3, når den sygemeldte er under eller venter på lægebehandling og den pågældende efter en lægelig vurdering skønnes at ville kunne genoptage erhvervsmæssig beskæftigelse inden for denne periode, vil kun kunne ske i op til 104 uger.
-
-Stk. 3. Beskæftigelsesministeren offentliggør den 1. juli 2014 et foreløbigt driftsloft for 2015 for modtagere af dagpenge, kontanthjælp og uddannelseshjælp og et foreløbigt driftsloft for 2015 for revalidender og modtagere af sygedagpenge og ledighedsydelse, jf. § 118, stk. 4, og § 118 a, stk. 2, i lov om en aktiv beskæftigelsesindsats som affattet ved § 2, nr. 42 og 43.
+Stk. 2-3. (Udelades)
 
 Stk. 4. Ny visitation og opfølgning i sygedagpengesager efter § 1, nr. 10-17, finder anvendelse, første gang der den 5. januar 2015 eller senere skal følges op.
 
@@ -308,7 +300,9 @@ Stk. 6. § 1, nr. 53, finder anvendelse for sygedagpengemodtagere med første fr
 
 Lov nr. 1482 af 23. december 2014 (Lov om organisering og understøttelse af beskæftigelsesindsatsen m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
 
-§ 56. Loven træder i kraft den 1. januar 2015, jf. dog stk. 2 og 3.
+§ 56
+
+Stk. 1. Loven træder i kraft den 1. januar 2015, jf. dog stk. 2 og 3.
 
 Stk. 2. § 58, nr. 1, og § 59 træder i kraft den 5. januar 2015.
 
@@ -346,11 +340,13 @@ Stk. 2. Loven finder alene anvendelse for ansøgninger, anmodninger, meddelelser
 
 Lov nr. 994 af 30. august 2015 om kommunernes finansiering af visse offentlige ydelser udbetalt af kommunerne, Udbetaling Danmark og arbejdsløshedskasserne indeholder følgende ikrafttrædelses- og overgangsbestemmelse:
 
-§ 29. Loven træder i kraft den 4. januar 2016, jf. dog stk. 2.
+§ 29
+
+Stk. 1 Loven træder i kraft den 4. januar 2016, jf. dog stk. 2.
 
 Stk. 2. Beskæftigelsesministeren fastsætter tidspunktet for ikrafttræden af §§ 8, 11-14, 16, 18 og 19. Beskæftigelsesministeren kan i den forbindelse fastsætte regler om overgang fra opgørelse efter §§ 27 og 28 til opgørelse i Ydelsesrefusion.
 
-Stk. 3. Loven har tillige virkning for kommunernes refusion af udgifter til ydelser efter § 3, stk. 1, nr. 7, der vedrører perioden fra og med den 28. december 2015 til og med den 3. januar 2016, og refusion og medfinansiering af udgifter til ydelser efter § 3, stk. 1, nr. 4-6 og 8-13, der vedrører perioden fra og med den 1. januar 2016 til og med den 3. januar 2016. Kommunernes udgifter til ydelserne refunderes eller medfinansieres med den procentsats efter § 5, som gælder for perioden fra og med den 4. januar 2016 til og med den 10. januar 2016.
+Stk. 3. (Udelades)
 
 Lov nr. 1569 af 15. december 2015 (Ændring af investeringsregler som følge af solvens II, undtagelse af investeringsdel fra lov om offentlighed i forvaltningen, fritagelse for betaling af finansieringsbidrag m.v.) indeholder følgende ikrafttrædelses- og overgangsbestemmelser:
 
@@ -364,7 +360,7 @@ Stk. 2. § 1, nr. 15, og § 2, nr. 2 og 14, træder i kraft den 1. januar 2016.
 
 Stk. 1. §§ 4-8 har virkning for pligt til betaling af finansieringsbidrag, der er indtrådt den 1. juli 2014 eller senere.
 
-Stk. 2. Det er en betingelse for, at der kan gives fritagelse for pligt til at betale finansieringsbidrag, jf. §§ 4-8, for perioden fra den 1. juli 2014 til og med den 30. juni 2016, at der er indgivet ansøgning herom til Arbejdsmarkedets Tillægspension inden den 30. september 2016. Indbetalte bidrag tilbagebetales med det indbetalte beløb.
+Stk. 2. (Udelades)
 
 Lov nr. 1868 af 29. december 2015 (Midlertidig periode med ret til sygedagpenge ved livstruende, alvorlig sygdom m.v.) indeholder følgende ikrafttrædelses- og overgangsbestemmelser:
 
@@ -374,7 +370,7 @@ Loven træder i kraft den 1. januar 2016.
 
 § 7
 
-§ 24 b, stk. 1, i lov om sygedagpenge som affattet ved denne lovs § 1, nr. 6, finder anvendelse for en person i et jobafklaringsforløb, som før den 1. januar 2016 af en læge har fået konstateret en livstruende, alvorlig sygdom, hvis personen den 1. januar 2016 opfylder beskæftigelseskravet for ret til sygedagpenge fra kommunen, jf. §§ 32, 34 eller 42 i lov om sygedagpenge, og af en læge vurderes fortsat at have en livstruende, alvorlig sygdom. Personen skal anmode om sygedagpenge senest den 1. marts 2016 for at overgå til at modtage sygedagpenge med virkning fra den 1. januar 2016.
+(Udelades)
 
 Lov nr. 624 af 8. juni 2016 (Fleksibelt og indkomstbaseret dagpengesystem, månedsudbetaling af dagpenge m.v.) indeholder følgende ikrafttrædelses- og overgangsbestemmelser:
 
@@ -412,7 +408,7 @@ Stk. 2. § 1, nr. 3, træder i kraft dagen efter bekendtgørelsen i Lovtidende.
 
 § 7
 
-Stk. 1. Har en sag i den nugældende forsøgsperiode fra den 1. juli 2014 til og med den 30. juni 2016 været forelagt klinisk funktion til vurdering af, om der kan anbefales en anden behandling end den, som borgeren er blevet tilbudt, skal sagen fra og med den 1. juli 2016 ikke forelægges for sundhedskoordinatoren.
+Stk. 1. (Udelades)
 
 Stk. 2. § 1, nr. 3, har virkning fra den 1. juni 2016.
 
@@ -428,11 +424,7 @@ Stk. 3. § 1, nr. 24 - 28, træder i kraft dagen efter bekendtgørelsen i Lovtid
 
 § 55
 
-Stk. 1. Loven finder ikke anvendelse for klager over afgørelser truffet af ressortministerierne eller Statens Administration inden lovens ikrafttræden. For sådanne klager finder de hidtil gældende regler anvendelse.
-
-Stk. 2. Udbetaling Danmark kan i perioden fra den 1. oktober 2016 til den 31. december 2016 foretage de dispositioner og regnskabsmæssige registreringer, der er nævnt i tekstanmærkning nr. 102 til § 7 på finansloven for 2016, for så vidt angår de udlån og garantier m.v., som Udbetaling Danmark administrerer i henhold til denne lov.
-
-Stk. 3. Ressortministeriernes betaling for varetagelse af opgaver, der overføres til Udbetaling Danmark ved denne lov, sker for perioden fra den 1. oktober 2016 til den 31. december 2016 efter reglerne på finansloven for 2016. Statens Administration foretager en samlet afregning til Udbetaling Danmark af denne betaling og gebyrer fra den 1. oktober 2016 til den 31. december 2016.
+(Udelades)
 
 Lov nr. 288 af 29. marts 2017 (Digitalisering af barselslovens beskæftigelseskrav og beregning, mulighed for mere fleksibel afholdelse af fædreorlov, fastsættelse af klageadgang i sager om sygedagpengeforsikring, omregning af månedsbaserede arbejdsløshedsdagpenge til berørte uger m.v.) indeholder følgende ikrafttrædelses- og overgangsbestemmelser:
 
@@ -450,7 +442,7 @@ Stk. 5. Beskæftigelsesministeren fastsætter tidspunktet for ikrafttræden af �
 
 § 6
 
-Stk. 1-3. (Udelades)
+Stk. Stk. 1-3. (Udelades)
 
 Stk. 4. § 3, nr. 1, finder ikke anvendelse på afgørelser truffet af Udbetaling Danmark før den 1. april 2017. For disse afgørelser gælder de hidtil gældende regler.
 
@@ -495,3 +487,27 @@ Stk. 2. Loven finder anvendelse for udlændinge, som repatrierer med støtte i m
 Stk. 3. § 1, nr. 3, finder ikke anvendelse i sager, hvor ansøgning om hjælp til repatriering er indgivet før lovens ikrafttræden.
 
 Stk. 4. §§ 3 og 4 finder ikke anvendelse for personer, der før den 1. juli 2018 efter repatrieringslovens § 6 har fået tilladelse til at deltage i praktik eller uddannelsesforløb eller i rekognosceringsrejser til hjemlandet eller det tidligere opholdsland med henblik på senere at træffe beslutning om repatriering.
+
+Lov nr. 1522 af 18. december 2018 (Arbejdsgivers ret til at blive gjort bekendt med helbredsmæssige og lægelige oplysninger om lønmodtageren i sager om sygedagpenge og jobafklaringsforløb) indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 3
+
+Stk. 1. Loven træder i kraft den 1. januar 2019.
+
+Stk. 2. Loven har virkning for anmodninger om aktindsigt, som modtages i kommunerne og Ankestyrelsen fra den 1. januar 2019.
+
+Lov nr. 1526 af 18. december 2018 (Karantæneordning i ydelsessystemet for bandekriminelle m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 12
+
+Stk. 1. Loven træder i kraft den 1. januar 2019.
+
+Stk. 2. Loven finder ikke anvendelse for domme efter straffelovens § 81 a, der vedrører forhold begået inden lovens ikrafttræden.
+
+Stk. 3-4 (Udelades)
+
+Lov nr. 1710 af 27. december 2018 (Opholdskrav for ret til arbejdsløshedsdagpenge m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 4
+
+Loven træder i kraft den 1. januar 2019.

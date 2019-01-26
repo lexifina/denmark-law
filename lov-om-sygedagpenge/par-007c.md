@@ -1,4 +1,4 @@
-## Kapitel 5b
+## Kapitel 5 b
 
 ## Anmodning om tidlig opfølgning
 
