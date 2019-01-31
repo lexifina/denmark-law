@@ -1,5 +1,7 @@
-Lov nr. 1548 af 13. december 2016 (Styrket indsats mod piratkopiering ved etablering af en særlig enhed om håndhævelse og piratkopiering samt overførsel af gebyrindtægter) indeholder følgende ikrafttrædelsesbestemmelse:
+Lov nr. 1533 af 18. december 2018 om ændring af varemærkeloven og forskellige andre love og om ophævelse af fællesmærkeloven (Behandling af ansøgninger, registreringshindringer, gengivelse af varemærker, varer i transit, overførsel af gebyrindtægter m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
 
-§ 7
+§ 8
 
-Loven træder i kraft den 1. januar 2017.
+Stk. 1. Loven træder i kraft den 1. januar 2019.
+
+Stk. 2. (Stk. 2-7 udelades)
