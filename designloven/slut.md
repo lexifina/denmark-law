@@ -1,5 +1,5 @@
-Erhvervsministeriet, den 26. februar 2017
+Patent- og Varemærkestyrelsen, den 29. januar 2019
 
-Brian Mikkelsen
+Sune Stampe Sørensen
 
-/ Jesper Kongstad
+/ Anne Rejnhold Jørgensen
