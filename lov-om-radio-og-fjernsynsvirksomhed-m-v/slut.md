@@ -1,4 +1,4 @@
-Kulturministeriet, den 8. maj 2018
+Kulturministeriet, den 30. januar 2019
 
 Mette Bock
 
