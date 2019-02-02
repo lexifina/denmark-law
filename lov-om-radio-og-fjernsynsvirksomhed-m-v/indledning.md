@@ -1,3 +1,3 @@
 Bekendtgørelse af lov om radio- og fjernsynsvirksomhed
 
-Herved bekendtgøres lov om radio- og fjernsynsvirksomhed, jf. lovbekendtgørelse nr. 255 af 20. marts 2014, med de ændringer, der følger af lov nr. 1517 af 27. december 2014 og § 1 i lov nr. 643 af 8. juni 2016.
+Herved bekendtgøres lov om radio- og fjernsynsvirksomhed, jf. lovbekendtgørelse nr. 444 af 8. maj 2018, med de ændringer, der følger af § 1 i lov nr. 1548 af 18. december 2018 og lov nr. 1549 af 18. december 2018.
