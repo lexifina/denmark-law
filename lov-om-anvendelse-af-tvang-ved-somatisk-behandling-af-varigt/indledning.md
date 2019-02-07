@@ -1,5 +1,3 @@
-Lov om anvendelse af tvang ved somatisk behandling af varigt inhabile
+Bekendtgørelse af lov om anvendelse af tvang ved somatisk behandling af varigt inhabile
 
-VI MARGRETHE DEN ANDEN, af Guds Nåde Danmarks Dronning, gør vitterligt:
-
-Folketinget har vedtaget og Vi ved Vort samtykke stadfæstet følgende lov:
+Herved bekendtgøres lov om anvendelse af tvang ved somatisk behandling af varigt inhabile, jf. lov nr. 655 af 8. juni 2017, med de ændringer, der følger af § 2 i lov nr. 254 af 6. april 2018 og § 2 i lov nr. 727 af 8. juni 2018.
