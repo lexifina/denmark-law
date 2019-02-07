@@ -1,7 +1,5 @@
-Givet på Christiansborg Slot, den 8. juni 2017
+Sundheds- og Ældreministeriet, den 27. januar 2019
 
-Under Vor Kongelige Hånd og Segl
+Ellen Trane Nørby
 
-MARGRETHE R.
-
-/ Ellen Trane Nørby
+/ Ida Lyngbeck Jensen
