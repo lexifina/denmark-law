@@ -1,1 +1,1 @@
-§ 14 B. (Ophævet).
+§ 14 B. (Ophævet)
