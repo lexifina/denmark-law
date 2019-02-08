@@ -1,0 +1,1 @@
+§ 49 c. Fradragsbeløb, jf. § 49, stk. 1, nr. 6 og 7, forhøjes med 15.000 kr. for enlige og 30.000 kr. for gifte og samlevende i 2019. Forhøjelsen nedsættes i hvert af årene 2020-2034 med 1.000 kr. for enlige og 2.000 kr. for gifte og samlevende.
