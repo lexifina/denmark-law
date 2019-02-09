@@ -1,1 +1,1 @@
-§ 42 a. Sundhedsstyrelsen kan ved fund eller mistanke om fund af forfalskede lægemidler eller mellemprodukter videregive alle oplysninger herom til indehaveren af markedsføringstilladelsen for eller fremstilleren af det pågældende lægemiddel eller mellemprodukt.
+§ 42 a. Lægemiddelstyrelsen kan ved fund eller mistanke om fund af forfalskede lægemidler eller mellemprodukter videregive alle oplysninger herom til indehaveren af markedsføringstilladelsen for eller fremstilleren af det pågældende lægemiddel eller mellemprodukt.

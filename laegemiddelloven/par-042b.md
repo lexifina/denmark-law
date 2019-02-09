@@ -1,0 +1,1 @@
+§ 42 b. Lægemiddelstyrelsen indberetter alle oplysninger til Europa-Kommissionen om styrelsens vurdering af risikoen for lægemiddelforfalskninger i henhold til artikel 46 i forordningen om sikkerhedselementer.
