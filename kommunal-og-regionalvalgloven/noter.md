@@ -14,4 +14,6 @@
 
 8) Lovændringen ved § 26 i lov nr. 503 af 23. maj 2018 vedrører § 106, stk. 5, 1. pkt.
 
-9) Lovændringen ved § 2 i lov nr. 175 af 8. juni 2018 vedrører § 50, §§ 105 a-105 o, § 106, stk. 3, § 106, stk. 4, 1. pkt., § 106, stk. 5, 1. og 2. pkt., § 107 a, § 108, stk. 1, og § 109, 1. pkt.
+9) Lovændringen ved § 2 i lov nr. 748 af 8. juni 2018 vedrører § 50, §§ 105 a-105 o, § 106, stk. 3, § 106, stk. 4, 1. pkt., § 106, stk. 5, 1. og 2. pkt., § 107 a, § 108, stk. 1, og § 109, 1. pkt.
+
+10) Lovændringen ved § 2 i lov nr. 1739 af 27. december 2018 vedrører § 7, stk. 1, 2. pkt., § 8, stk. 5, § 9, stk. 1 og 2, § 11, § 22, stk. 1, § 24, stk. 1, 2. pkt., og stk. 3, § 24 b, § 24 c, § 25, stk. 2, 2. pkt., og stk. 3, § 27, stk. 1, 1. pkt., og stk. 3, § 34, stk. 2, § 43, stk. 1, 1. og 2. pkt., og stk. 2, og § 105 d, stk. 4, og ophæver § 43, stk. 1, 3. pkt.
