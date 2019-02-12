@@ -1,3 +1,5 @@
+## Forbud mod anonyme tilskud
+
 § 2 a. Politiske partier, herunder regionale og kommunale kandidatlister, må fra en tilskudsyder ikke modtage anonyme tilskud på over 20.000 kr.
 
 Stk. 2. Modtager et parti, herunder en regional eller kommunal kandidatliste, tilskud i strid med stk. 1, skal partiet, herunder den regionale eller kommunale kandidatliste, returnere tilskuddet til tilskudsyder inden 30 dage fra modtagelsen. Tilskud, der ikke kan returneres til tilskudsyder inden 30 dage fra modtagelsen, skal overføres til en konto hos Økonomi- og Indenrigsministeriet inden for samme frist.
