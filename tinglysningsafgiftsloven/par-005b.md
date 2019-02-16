@@ -1,3 +1,3 @@
-§ 5 B. Der betales ikke afgift efter § 7 for tinglysning af rykningspåtegning, hvis denne skyldes udstedelse af et pantebrev, der er fritaget for afgift i medfør af § 5 a, stk. 1, eller forhøjelse af et pantebrev, der er fritaget for afgift i medfør af § 5 a, stk. 7. Det er en betingelse, at den nye samlede hovedstol ikke overstiger den tidligere tinglyste hovedstol.
+§ 5 B. Ved tinglysning af underpant i et ejerpantebrev, jf. tinglysningslovens § 1 a, stk. 1, og § 42 j, stk. 3, og videreoverdragelse af et allerede tinglyst underpant i et ejerpantebrev til en anden panthaver, jf. tinglysningslovens § 1 a, stk. 4, og § 42 j, stk. 7, udgør afgiften 1.640 kr. Ved forhøjelse af underpantsætninger nævnt i 1. pkt. betales en afgift på 1.640 kr.
 
-Stk. 2. Der skal gives påtegning om, at tinglysningen er omfattet af stk. 1. Skatteministeren kan fastsætte nærmere regler herom.
+Stk. 2. Ved tinglysning af overdragelse til pant af et allerede tinglyst pantebrev med pant i fast ejendom eller andel i en andelsboligforening til en anden panthaver, forudsat at der ikke sker en forhøjelse af det pantsikrede beløb, betales en fast afgift på 1.640 kr.
