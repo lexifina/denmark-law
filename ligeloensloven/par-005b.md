@@ -1,0 +1,1 @@
+§ 5 b. En lønmodtager, der af sin arbejdsgiver er registreret under en DISCO-kode eller en tilsvarende kode i forbindelse med indberetning af lønoplysninger, har ret til at få oplyst denne kode af arbejdsgiveren.
