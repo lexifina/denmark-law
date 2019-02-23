@@ -1,3 +1,3 @@
 Bekendtgørelse af lov om lige løn til mænd og kvinder
 
-Herved bekendtgøres lov om lige løn til mænd og kvinder, jf. lovbekendtgørelse nr. 906 af 27. august 2006 med de ændringer, der følger af lov nr. 558 af 17. juni 2008.
+Herved bekendtgøres lov om lige løn til mænd og kvinder, jf. lovbekendtgørelse nr. 899 af 5. september 2008, med de ændringer, der følger af lov nr. 513 af 26. maj 2014 og lov nr. 116 af 9. februar 2016.
