@@ -1,5 +1,5 @@
-Erhvervsstyrelsen, den 14. april 2016
+Erhvervsstyrelsen, den 7. februar 2019
 
-Betina Hagerup
+Katrine Winding
 
 / Preben Gregersen

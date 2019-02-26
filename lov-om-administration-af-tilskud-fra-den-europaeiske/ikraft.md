@@ -1,11 +1,3 @@
-Lov nr. 1272 af 16. december 2009 (Obligatorisk digital kommunikation mellem virksomheder og det offentlige, ændring af reglerne om sammensætning af Danmarks Vækstråd m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
-
-§ 10
-
-Stk. 1. Loven træder i kraft den 1. januar 2010, jf. dog stk. 2.
-
-Stk. 2. (Udelades)
-
 Lov nr. 718 af 25. juni 2010 (Rekonstruktion m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
 
 § 55
@@ -31,3 +23,9 @@ Stk. 1. Erhvervs- og vækstministeren fastsætter tidspunktet for lovens ikraftt
 Stk. 2. Loven finder ikke anvendelse på ansøgninger og dertil knyttede projekter, der er modtaget før lovens ikrafttræden. For sådanne ansøgninger finder de hidtil gældende regler anvendelse.
 
 Stk. 3. For ansøgninger, der er modtaget efter lovens ikrafttræden, og dertil knyttede projekter vedrørende anvendelse af uforbrugte regionalfonds- og socialfondsmidler fra programperioden 2007-2013 finder de hidtil gældende regler anvendelse.
+
+Lov nr. 1537 af 18. december 2018 (Ændringer af indstillingsretten vedrørende midler fra EU’s regionalfond og socialfond m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 2
+
+Loven træder i kraft den 1. januar 2019
