@@ -1,4 +1,4 @@
-§ 46 a. Udlændingestyrelsens afgørelser kan bortset fra afgørelser om afvisning truffet efter regler udstedt i medfør af § 9 g, stk. 1, 2. pkt., samt de afgørelser, der er nævnt i § 9 g, stk. 3, § 9 h, stk. 8, 1. pkt., § 9 h, stk. 9, 1. pkt., jf. stk. 5, 1. pkt., jf. stk. 1, § 11, stk. 10, § 29 c, stk. 1, § 32 a, § 33, § 42 a, stk. 7, 3. pkt., § 42 a, stk. 8, 1. og 2. pkt., og stk. 10, § 42 b, stk. 1, 3 og 7-9, § 42 d, stk. 2, § 46 e, § 52 b, stk. 1 og 3, § 53 a og § 53 b, påklages til udlændinge- og integrationsministeren. Udlændingestyrelsens afgørelser efter § 42 k og § 42 l kan ikke påklages, for så vidt angår boligens geografiske placering. Udlændingestyrelsens afgørelser i sager om klager over anvendelse af reglerne i kapitel 9 a kan ikke påklages til udlændinge- og integrationsministeren.
+§ 46 a. Udlændingestyrelsens afgørelser kan bortset fra afgørelser om afvisning truffet efter regler udstedt i medfør af § 9 g, stk. 1, 2. pkt., samt de afgørelser, der er nævnt i § 9 g, stk. 3, § 9 h, stk. 8, 1. pkt., § 9 h, stk. 9, 1. pkt., jf. stk. 5, 1. pkt., jf. stk. 1, § 11, stk. 10, § 29 c, stk. 1, § 32 a, § 33, § 42 a, stk. 7, 3. pkt., § 42 a, stk. 8, 1.-3. og 5. pkt., og stk. 10, § 42 b, stk. 1, 3 og 7-9, § 42 d, stk. 2, § 46 e, § 52 b, stk. 1 og 3, § 53 a og § 53 b, påklages til udlændinge- og integrationsministeren. Udlændingestyrelsens afgørelser efter § 42 k og § 42 l kan ikke påklages, for så vidt angår boligens geografiske placering. Udlændingestyrelsens afgørelser i sager om klager over anvendelse af reglerne i kapitel 9 a kan ikke påklages til udlændinge- og integrationsministeren.
 
 Stk. 2. Styrelsen for International Rekruttering og Integrations afgørelser efter denne lov kan ikke påklages til udlændinge- og integrationsministeren. Bortset fra de afgørelser, der er nævnt i § 9 h, stk. 8, 1. pkt., jf. stk. 1 og 3, og § 33, kan Styrelsen for International Rekruttering og Integrations afgørelser påklages til Udlændingenævnet, jf. § 52 b, stk. 2 og 4.
 
@@ -14,4 +14,6 @@ Stk. 7. En dansk diplomatisk eller konsulær repræsentations afgørelse om afsl
 
 Stk. 8. Udlændinge- og integrationsministeren kan fastsætte nærmere regler om klagefrist for de typer af afgørelser, der er omfattet af stk. 7, 1. pkt.
 
-Stk. 9. Styrelsen for International Rekruttering og Integrations afgørelse om varsel, jf. § 19, stk. 1, nr. 12, 2. pkt., kan ikke påklages.
+Stk. 9. Styrelsen for International Rekruttering og Integrations afgørelse om varsel, jf. § 19, stk. 1, nr. 14, 2. pkt., kan ikke påklages.
+
+Stk. 10. Udlændingestyrelsens afgørelser i sager om spærring af dansk udstedt rejselegitimation i Det Centrale Pasregister i medfør af § 39, stk. 8 og 9, kan ikke påklages.
