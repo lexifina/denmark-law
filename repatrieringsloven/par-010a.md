@@ -1,4 +1,4 @@
-§ 10 a. Udbetaling af reintegrationsbistand ophører for en udlænding, som bevidst unddrager sig strafforfølgning her i landet, i tilfælde, hvor
+§ 10 a. Udbetaling af reintegrationsbistand ophører for en person, som bevidst unddrager sig strafforfølgning her i landet, i tilfælde, hvor
 
 1) den pågældende er varetægtsfængslet,
 
@@ -6,12 +6,12 @@
 
 3) der foreligger en varetægtsfængslingskendelse.
 
-Stk. 2. Udbetaling af reintegrationsbistand ophører endvidere for en udlænding, som bevidst unddrager sig straffuldbyrdelse her i landet, hvis den pågældende er idømt ubetinget fængselsstraf eller anden strafferetlig retsfølge, der indebærer eller giver mulighed for frihedsberøvelse.
+Stk. 2. Udbetaling af reintegrationsbistand ophører endvidere for en person, som bevidst unddrager sig straffuldbyrdelse her i landet, hvis den pågældende er idømt ubetinget fængselsstraf eller anden strafferetlig retsfølge, der indebærer eller giver mulighed for frihedsberøvelse.
 
-Stk. 3. Får politiet eller kriminalforsorgen formodning om, at en udlænding, der bevidst unddrager sig strafforfølgning, jf. stk. 1, eller straffuldbyrdelse, jf. stk. 2, har ansøgt om eller modtager reintegrationsbistand, skal Udbetaling Danmark underrettes om unddragelsen.
+Stk. 3. Får politiet eller kriminalforsorgen formodning om, at en person, der bevidst unddrager sig strafforfølgning, jf. stk. 1, eller straffuldbyrdelse, jf. stk. 2, har ansøgt om eller modtager reintegrationsbistand, skal Udbetaling Danmark underrettes om unddragelsen.
 
-Stk. 4. Udbetaling af reintegrationsbistand ophører med virkning fra den måned, hvor Udbetaling Danmark får kendskab til, at udlændingen unddrager sig strafforfølgning, jf. stk. 1, eller straffuldbyrdelse, jf. stk. 2.
+Stk. 4. Udbetaling af reintegrationsbistand ophører med virkning fra den måned, hvor Udbetaling Danmark får kendskab til, at personen unddrager sig strafforfølgning, jf. stk. 1, eller straffuldbyrdelse, jf. stk. 2.
 
-Stk. 5. Kommunalbestyrelsen kan efter ansøgning træffe afgørelse om, at udbetaling af reintegrationsbistand kan genoptages, når udlændingen ikke længere unddrager sig strafforfølgning, jf. stk. 1, eller straffuldbyrdelse, jf. stk. 2, såfremt betingelserne for udbetaling af reintegrationsbistand efter § 10 i øvrigt er opfyldt.
+Stk. 5. Kommunalbestyrelsen kan efter ansøgning træffe afgørelse om, at udbetaling af reintegrationsbistand kan genoptages, når personen ikke længere unddrager sig strafforfølgning, jf. stk. 1, eller straffuldbyrdelse, jf. stk. 2, såfremt betingelserne for udbetaling af reintegrationsbistand efter § 10 i øvrigt er opfyldt.
 
 Stk. 6. Kommunalbestyrelsen kan efter ansøgning træffe afgørelse om, at reintegrationsbistand, der ikke er udbetalt, jf. stk. 1, kan efterbetales, hvis strafforfølgning ikke fører til domsfældelse. Betingelserne for udbetaling af reintegrationsbistand efter § 10 skal være opfyldt.

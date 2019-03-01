@@ -1,0 +1,3 @@
+§ 6 a. Kommunalbestyrelsen kan tilbyde vejledning og opkvalificering i Danmark til personer omfattet af § 3, hvor det vurderes relevant med henblik på at kunne understøtte eller forberede tilbagevenden til hjemlandet eller et tidligere opholdsland.
+
+Stk. 2. Personer, der modtager hjælp til forsørgelse efter lov om aktiv socialpolitik, sygedagpenge efter reglerne i lov om sygedagpenge eller arbejdsløshedsdagpenge efter reglerne i lov om arbejdsløshedsforsikring m.v., kan fortsat modtage denne hjælp i en periode, hvor den pågældende deltager i vejledning og opkvalificering efter stk. 1.
