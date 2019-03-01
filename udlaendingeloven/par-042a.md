@@ -4,7 +4,7 @@ Stk. 2. Har en udlænding, der ikke er omfattet af stk. 1 eller § 43, stk. 1, e
 
 Stk. 3. Stk. 1 og 2 gælder ikke:
 
-1) Hvis udlændingen har lovligt ophold her i landet i medfør af § 1 eller § 5, stk. 2, eller i medfør af et registreringsbevis eller et opholdskort efter § 6 eller i medfør af en opholdstilladelse efter §§ 9-9 f, 9 i-9 n eller 9 p. En udlænding som nævnt i stk. 1, 1. pkt., der er blevet meddelt opholdstilladelse i medfør af § 9 b, § 9 c eller § 9 e, får uanset 1. pkt. udgifterne til underhold og nødvendige sundhedsmæssige ydelser dækket af Udlændingestyrelsen i den periode, som er nævnt i stk. 1, 2. pkt.
+1) Hvis udlændingen har lovligt ophold her i landet i medfør af § 1 eller § 5, stk. 2, eller i medfør af et registreringsbevis eller et opholdskort efter § 6 eller i medfør af en opholdstilladelse efter §§ 9-9 f, 9 i-9 n, 9 p eller 9 q. En udlænding som nævnt i stk. 1, 1. pkt., der er blevet meddelt opholdstilladelse i medfør af § 9 b, § 9 c eller § 9 e, får uanset 1. pkt. udgifterne til underhold og nødvendige sundhedsmæssige ydelser dækket af Udlændingestyrelsen i den periode, som er nævnt i stk. 1, 2. pkt.
 
 2) Hvis udlændingen har indgået ægteskab med en herboende person, medmindre særlige grunde foreligger.
 
@@ -12,19 +12,21 @@ Stk. 3. Stk. 1 og 2 gælder ikke:
 
 4) Hvis udlændingen har ret til hjælp til forsørgelse efter anden lovgivning. Stk. 1 gælder dog, uanset om udlændingen har ret til hjælp til forsørgelse efter lov om aktiv socialpolitik.
 
+5) Hvis udlændingen er mindreårig og er indkvarteret privat hos herboende forældre i medfør af § 42 l, stk. 3, medmindre særlige grunde foreligger.
+
 Stk. 4. Udlændingestyrelsen kan pålægge en udlænding at betale udgifterne til udlændingens eller dennes families underhold og nødvendige sundhedsmæssige ydelser eller ophold på et indkvarteringssted omfattet af stk. 5, såfremt udlændingen har tilstrækkelige midler hertil. Der kan pålægges betalingspligt efter 1. pkt. for perioden til og med udgangen af den første hele måned efter tidspunktet for afgørelsen om visitering af udlændingen, jf. integrationslovens § 10, stk. 1. Der kan endvidere pålægges betalingspligt efter 1. pkt., indtil en udlænding, der efter reglerne i kapitel 1 og 3-5 a ikke har ret til at opholde sig her i landet, udrejser eller udsendes.
 
 Stk. 5. Udlændingestyrelsen tilvejebringer og driver indkvarteringssteder for udlændinge, der er omfattet af stk. 1 eller 2, jf. stk. 3. Dette kan ske i samarbejde med private organisationer eller selskaber eller statslige styrelser, som er godkendt hertil af udlændinge- og integrationsministeren, eller kommuner (indkvarteringsoperatører). Udlændinge- og integrationsministeren kan fastsætte regler om nedsættelse af samarbejdsorganer på de enkelte indkvarteringssteder (beboerråd m.v.) samt om disse organers kompetence.
 
 Stk. 6. Udlændinge- og integrationsministeren fastsætter regler for kommunernes deltagelse i finansieringen af tilvejebringelsen og driften af indkvarteringssteder for udlændinge, der er nævnt i stk. 1 eller 2, jf. stk. 3, herunder om statens dækning af udgifterne.
 
-Stk. 7. Udlændingestyrelsen træffer bestemmelse om indkvarteringen af udlændinge omfattet af stk. 1 og 2, jf. stk. 3. Ved indkvarteringen skal Udlændingestyrelsen så vidt muligt tage hensyn til, om der er tale om nyankomne asylansøgere eller asylansøgere, der har fået afslag på en ansøgning om opholdstilladelse efter § 7. Hvis en udlænding ikke efterkommer Udlændingestyrelsens anvisning om indkvartering, kan Udlændingestyrelsen pålægge udlændingen at tage ophold på et indkvarteringssted efter Udlændingestyrelsens nærmere bestemmelse. En sådan udlænding må ikke gennem voldelig eller truende adfærd over for personer, der udfører opgaver med driften af et indkvarteringssted for udlændinge, eller over for personer, der i øvrigt opholder sig på indkvarteringsstedet, lægge hindringer i vejen for udførelsen af opgaver med driften af indkvarteringsstedet eller for opretholdelsen af ro og orden på indkvarteringsstedet.
+Stk. 7. Udlændingestyrelsen træffer bestemmelse om indkvarteringen af udlændinge omfattet af stk. 1 og 2, jf. stk. 3. Ved indkvarteringen skal Udlændingestyrelsen så vidt muligt tage hensyn til, om der er tale om nyankomne asylansøgere eller asylansøgere, der har fået afslag på en ansøgning om opholdstilladelse efter § 7. Hvis en udlænding ikke efterkommer Udlændingestyrelsens anvisning om indkvartering, kan Udlændingestyrelsen pålægge udlændingen at tage ophold på et indkvarteringssted efter Udlændingestyrelsens nærmere bestemmelse. Udlændinge omfattet af stk. 1 og 2, jf. stk. 3, må ikke gennem voldelig eller truende adfærd over for personer, der udfører opgaver med driften af et indkvarteringssted for udlændinge, eller over for personer, der i øvrigt opholder sig på indkvarteringsstedet, lægge hindringer i vejen for udførelsen af opgaver med driften af indkvarteringsstedet eller for opretholdelsen af ro og orden på indkvarteringsstedet.
 
-Stk. 8. Udlændingestyrelsen bestemmer, medmindre særlige grunde taler derimod, at en udlænding, hvis opholdstilladelse efter § 7 eller § 8, stk. 1 eller 2, er bortfaldet, jf. § 32, stk. 1, eller § 21 b, stk. 1, men som ikke kan udsendes af landet, jf. § 31, en udlænding, der har fået afslag på en ansøgning om opholdstilladelse efter § 7 eller § 8, stk. 1 eller 2, men som ikke kan udsendes af landet, jf. § 31, og en udlænding, der er udvist ved endelig dom efter §§ 22-24, og som ikke er varetægtsfængslet efter § 35, skal tage ophold på et bestemt indkvarteringssted for de i stk. 1 og 2 nævnte udlændinge. Drager politiet omsorg for en udlændings udrejse, og medvirker udlændingen ikke hertil, bestemmer Udlændingestyrelsen, medmindre særlige grunde taler derimod, at udlændingen skal tage ophold på et bestemt indkvarteringssted for de i stk. 1 og 2 nævnte udlændinge. Stk. 7, 4. pkt., finder tilsvarende anvendelse.
+Stk. 8. Udlændingestyrelsen bestemmer, medmindre særlige grunde taler derimod, at en udlænding, hvis opholdstilladelse efter § 7 eller § 8, stk. 1 eller 2, er bortfaldet, jf. § 32, stk. 1, eller § 21 b, stk. 1, men som ikke kan udsendes af landet, jf. § 31, en udlænding, der har fået afslag på en ansøgning om opholdstilladelse efter § 7 eller § 8, stk. 1 eller 2, men som ikke kan udsendes af landet, jf. § 31, og en udlænding, der er udvist ved endelig dom efter §§ 22-24, og som ikke er varetægtsfængslet efter § 35, skal tage ophold på et bestemt indkvarteringssted for de i stk. 1 og 2 nævnte udlændinge. Drager politiet omsorg for en udlændings udrejse, og medvirker udlændingen ikke hertil, bestemmer Udlændingestyrelsen, medmindre særlige grunde taler derimod, at udlændingen skal tage ophold på et bestemt indkvarteringssted for de i stk. 1 og 2 nævnte udlændinge. Udlændingestyrelsen bestemmer, medmindre særlige grunde taler derimod, at en udlænding, hvis opholdstilladelse eller opholdsret er bortfaldet efter § 21 b, stk. 1, eller som er udvist i medfør af § 25, skal tage ophold på et bestemt indkvarteringssted for de i stk. 1 og 2 nævnte udlændinge. Stk. 7, 4. pkt., finder tilsvarende anvendelse.
 
 Stk. 9. Udlændingestyrelsen skal sikre, at det i fornødent omfang kontrolleres, at en udlænding, som ikke kan udsendes af landet, jf. § 31, og som er pålagt at tage ophold på et bestemt indkvarteringssted, jf. stk. 8, overholder det givne påbud.
 
-Stk. 10. Udlændingestyrelsen bestemmer, medmindre særlige grunde taler derimod, at en udlænding, som er pålagt at tage ophold på et bestemt indkvarteringssted, jf. stk. 8, 1. pkt., skal give underretning til indkvarteringsoperatøren, hvis udlændingen i tidsrummet mellem kl. 23.00 og 6.00 opholder sig uden for indkvarteringsstedet. En underretning kan alene omfatte den førstkommende nat eller alene de tidsrum i løbet af den pågældende nat, hvor udlændingen opholder sig uden for indkvarteringsstedet.
+Stk. 10. Udlændingestyrelsen bestemmer, medmindre særlige grunde taler derimod, at en udlænding, som er pålagt at tage ophold på et bestemt indkvarteringssted, jf. stk. 8, 1. og 3. pkt., skal give underretning til indkvarteringsoperatøren, hvis udlændingen i tidsrummet mellem kl. 23.00 og 6.00 opholder sig uden for indkvarteringsstedet. En underretning kan alene omfatte den førstkommende nat eller alene de tidsrum i løbet af den pågældende nat, hvor udlændingen opholder sig uden for indkvarteringsstedet.
 
 Stk. 11. Udlændingestyrelsen kan bestemme, at en udlænding, der er omfattet af stk. 1 eller 2, jf. stk. 3, og som ikke er omfattet af stk. 13, ikke får udbetalt kontante ydelser, jf. § 42 b, stk. 1, 3, og 8, når den pågældende er indkvarteret på et indkvarteringssted, jf. stk. 5, hvor der er en vederlagsfri bespisningsordning, eller at udlændingen alene får udbetalt grundydelse, jf. § 42 b, stk. 1 og 2, forsørgertillæg, jf. § 42 b, stk. 3 og 7, og nedsat forsørgertillæg, jf. § 42 b, stk. 3, 6 og 7, når den pågældende er indkvarteret på et indkvarteringssted, jf. stk. 5, uden en vederlagsfri bespisningsordning, såfremt
 
@@ -34,7 +36,7 @@ Stk. 11. Udlændingestyrelsen kan bestemme, at en udlænding, der er omfattet af
 
 3) udlændingen ikke efterkommer Udlændingestyrelsens bestemmelse om, at udlændingen skal tage ophold efter Udlændingestyrelsens nærmere bestemmelse, jf. stk. 7, 3. pkt.,
 
-4) udlændingen ikke efterkommer politiets bestemmelse om en i § 34, stk. 1-3 og 6, nævnt foranstaltning,
+4 udlændingen ikke efterkommer politiets bestemmelse om en i § 34, stk. 1-3 og 7, nævnt foranstaltning,
 
 5) udlændingen tilsidesætter et pålæg om at udføre nødvendige opgaver i forbindelse med driften af indkvarteringsstedet, jf. § 42 d, stk. 2, 1. pkt., eller
 
@@ -52,9 +54,9 @@ Stk. 13. Udlændingestyrelsen skal, medmindre særlige grunde taler derimod, bes
 
 2) udlændingen har udvist voldelig eller truende adfærd over for personer, der udfører opgaver med driften af et indkvarteringssted for udlændinge, eller over for de personer, der i øvrigt opholder sig på indkvarteringsstedet,
 
-3) udlændingen ikke efterkommer Udlændingestyrelsens bestemmelse om, at udlændingen skal tage ophold efter Udlændingestyrelsens nærmere bestemmelse, jf. stk. 8, 1. pkt.,
+3) udlændingen ikke efterkommer Udlændingestyrelsens bestemmelse om, at udlændingen skal tage ophold efter Udlændingestyrelsens nærmere bestemmelse, jf. stk. 8, 1. og 3. pkt.,
 
-4) udlændingen ikke efterkommer politiets bestemmelse om, at udlændingen skal give møde hos politiet på nærmere angivne tidspunkter, jf. § 34, stk. 4 og 5,
+4) udlændingen ikke efterkommer politiets bestemmelse om, at udlændingen skal give møde hos politiet på nærmere angivne tidspunkter, jf. § 34, stk. 4,
 
 5) udlændingen ikke efterkommer Udlændingestyrelsens bestemmelse om, at udlændingen skal give underretning til indkvarteringsoperatøren, hvis udlændingen i tidsrummet mellem kl. 23.00 og 6.00 opholder sig uden for indkvarteringsstedet, jf. stk. 10,
 
