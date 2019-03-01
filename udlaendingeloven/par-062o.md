@@ -10,4 +10,8 @@ Stk. 2. En særligt sikret afdeling for børn og unge mellem 12 og 17 år efter 
 
 Stk. 3. Er betingelserne i stk. 2 opfyldt for en uledsaget mindreårig udlænding, der er fyldt 15 år, kan lederen af en sikret døgninstitution eller den, vedkommende bemyndiger dertil, uafhængigt af at der på den sikrede døgninstitution er en særligt sikret afdeling, træffe midlertidig beslutning om overførsel til en særligt sikret afdeling. Beslutningen skal straks forelægges børn og unge-udvalget i den kommune, hvor indkvarteringsstedet, jf. § 42 a, stk. 5, ligger, til afgørelse.
 
-Stk. 4. Udlændinge- og integrationsministeren kan efter forhandling med børne- og socialministeren fastsætte nærmere regler om orientering af repræsentanten for den uledsagede mindreårige udlænding, jf. § 56 a, stk. 1.
+Stk. 4. Kommunalbestyrelsen træffer afgørelse om de nærmere rammer og vilkår under den konkrete anbringelse på en særligt sikret afdeling.
+
+Stk. 5. Udlændinge- og integrationsministeren kan efter forhandling med børne- og socialministeren fastsætte nærmere regler om orientering af repræsentanten for den uledsagede mindreårige udlænding, jf. § 56 a, stk. 1.
+
+Stk. 6. Børne- og socialministeren kan efter forhandling med udlændinge- og integrationsministeren fastsætte nærmere regler om anvendelsen af og forholdene på særligt sikrede afdelinger, herunder om kommunalbestyrelsens ret til at fastsætte de nærmere rammer og vilkår for den konkrete anbringelse.

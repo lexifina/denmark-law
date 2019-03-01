@@ -32,7 +32,7 @@ Stk. 8. Udlændinge- og integrationsministeren kan efter forhandling med børne-
 
 7) valg af anbringelsessted,
 
-8) ændring af anbringelsessted m.v. under opholdet,
+8) ændring af anbringelsessted m.v. under opholdet og foreløbige afgørelser om ændring af anbringelsessted m.v.,
 
 9) anbringelse af en uledsaget mindreårig udlænding, der er indkvarteret på et privat opholdssted efter Udlændingestyrelsens anvisning herom, jf. § 42 a, stk. 7, og
 

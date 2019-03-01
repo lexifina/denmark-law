@@ -8,4 +8,8 @@ Stk. 2. En sikret døgninstitution for børn og unge mellem 12 og 17 år efter �
 
 3) det på baggrund af den indledende iagttagelsesperiode efter nr. 2 fastslås, at det er absolut påkrævet, at der iværksættes et længerevarende behandlingsforløb på en sikret afdeling eller døgninstitution.
 
-Stk. 3. Udlændinge- og integrationsministeren kan efter forhandling med børne- og socialministeren fastsætte nærmere regler om, at børn og unge-udvalget kan træffe afgørelse om at dispensere fra aldersgrænsen i stk. 2 i særlige situationer i forhold til udlændinge under 12 år.
+Stk. 3. Kommunalbestyrelsen træffer afgørelse om de nærmere rammer og vilkår under den konkrete anbringelse på en sikret døgninstitution.
+
+Stk. 4. Udlændinge- og integrationsministeren kan efter forhandling med børne- og socialministeren fastsætte nærmere regler om, at børn og unge-udvalget kan træffe afgørelse om at dispensere fra aldersgrænsen i stk. 2 i særlige situationer i forhold til udlændinge under 12 år.
+
+Stk. 5. Børne- og socialministeren kan efter forhandling med udlændinge- og integrationsministeren fastsætte nærmere regler om anvendelsen af og forholdene på sikrede døgninstitutioner, herunder om kommunalbestyrelsens ret til at fastsætte de nærmere rammer og vilkår for den konkrete anbringelse.
