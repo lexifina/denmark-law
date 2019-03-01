@@ -16,7 +16,7 @@ d) Det afstående selskab ejer skattefri porteføljeaktier, jf. aktieavancebeska
 
 3) Ved afståelse af aktier m.v., der er omfattet af aktieavancebeskatningslovens § 17, når det afstående selskab opfylder betingelserne for at modtage skattefrit udbytte efter selskabsskattelovens § 2, stk. 1, litra c, eller § 13, stk. 1, nr. 2.
 
-4) Ved afståelse af aktier m.v., der er omfattet af aktieavancebeskatningslovens § 19, eller ved afståelse af investeringsbeviser. 1. pkt. omfatter dog alene aktier m.v. eller investeringsbeviser, der er udstedt af et investeringsinstitut, hvis andele udbydes til offentligheden, og som efter national lovgivning, EU-retlig regulering eller international aftale er undergivet et krav om risikospredning og pligt til på en deltagers forlangende at tilbagekøbe eller indløse udstedte andele.
+4) Ved afståelse af aktier m.v., der er omfattet af aktieavancebeskatningslovens §§ 19 A, 19 B eller 19 C, eller ved afståelse af investeringsbeviser.
 
 5) Ved en aktionærs afståelse af aktier, der er optaget til handel på et reguleret marked, til det selskab, som har udstedt dem, jf. dog stk. 3. 1. pkt. omfatter ikke aktier, der alene anses for optaget til handel på et reguleret marked som følge af aktieavancebeskatningslovens § 3.
 
