@@ -1,3 +1,3 @@
 Bekendtgørelse af lov om Danmarks Grundforskningsfond
 
-Herved bekendtgøres lov om Danmarks Grundforskningsfond, jf. lovbekendtgørelse nr. 833 af 13. august 2008, med de ændringer, der følger af § 2 i lov nr. 729 af 25. juni 2010 og § 2 i lov nr. 310 af 29. marts 2014.
+Herved bekendtgøres lov om Danmarks Grundforskningsfond, jf. lovbekendtgørelse nr. 367 af 10. april 2014, med de ændringer, der følger af § 37 i lov nr. 384 af 26. april 2017 og lov nr. 1570 af 18. december 2018.
