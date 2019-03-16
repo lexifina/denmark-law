@@ -1,7 +1,5 @@
-Givet på Amalienborg, den 15. juni 2010
+Erhvervsstyrelsen, den 15. marts 2019
 
-Under Vor Kongelige Hånd og Segl
+Katrine Winding
 
-MARGRETHE R.
-
-/ Brian Mikkelsen
+/ Preben Gregersen
