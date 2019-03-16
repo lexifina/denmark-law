@@ -1,7 +1,5 @@
-Givet på Christiansborg Slot, den 16. december 2014
+Erhvervsstyrelsen, den 15. marts 2019
 
-Under Vor Kongelige Hånd og Segl
+Katrine Winding
 
-MARGRETHE R.
-
-/ Henrik Sass Larsen
+/ Preben Gregersen
