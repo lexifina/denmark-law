@@ -1,0 +1,1 @@
+1) Lovændringen vedrører § 3, stk. 1, nr. 2-5, § 3, stk. 3-5, § 4, stk. 1, 1 og 2. pkt., § 4, stk. 2, nr. 2-6, § 6, stk. 1, 1. og 2. pkt., § 6, stk. 2, nr. 13-17, § 6, stk. 3, 1. pkt., overskriften til kapitel 3, § 7, § 8, stk. 1 og 3, § 9, § 10 og § 11.
