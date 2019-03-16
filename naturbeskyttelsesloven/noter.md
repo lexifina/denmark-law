@@ -95,3 +95,9 @@
 48) Lovændringen vedrører § 21, § 67, stk. 2, og § 74, stk. 5.
 
 49) Lovændringen vedrører § 5, stk. 2, § 8, stk. 4, 2. pkt., § 15, stk. 3, 2. pkt., § 16, stk. 6, § 17, stk. 5, § 18, stk. 4, § 19, stk. 2, § 19 b, stk. 3, 2. pkt., § 37, stk. 2, § 41, stk. 1, § 50 a, § 51, stk. 2, 2. pkt., § 51, stk. 3, og § 65, stk. 2, 2. pkt.
+
+50) Lovændringen vedrører § 55 a.
+
+51) Lovændringen vedrører § 29, stk. 3-6, og § 89, stk. 3, 1. og 3. pkt.
+
+52) Lovændringen vedrører § 89, stk. 3, 4. pkt.

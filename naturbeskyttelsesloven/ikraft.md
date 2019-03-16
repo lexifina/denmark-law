@@ -90,7 +90,7 @@ Lov nr. 535 af 24. juni 2005 (jordfordelingsloven) indeholder følgende ikrafttr
 
 Stk. 2-3. (Udelades)
 
-Lov nr. 567 af 24. juni 2005 (Udmøntning af kommunalreformen) indeholder følgende overgangs- og ikrafttrædelsesbestemmelser:
+Lov nr. 567 af 24. juni 2005 (Udmøntning af kommunalreformen) indeholder følgende overgangs- og ikrafttrædelsesbestemmelse:
 
 § 2
 
@@ -126,7 +126,7 @@ Stk. 2. (Udelades)
 
 Stk. 3. Sager, der pr. 1. januar 2007 er indbragt for Miljøklagenævnet, færdigbehandles efter de hidtil gældende regler.
 
-Lov nr. 1571 af 20. december 2006 (Ophævelse af adgang til at overføre myndighedskompetence til kommunale fællesskaber og ændring af delegationsbestemmelser m.v. i en række love på natur- og miljøområdet) indeholder følgende overgangs- og ikrafttrædelsesbestemmelser:
+Lov nr. 1571 af 20. december 2006 (Ophævelse af adgang til at overføre myndighedskompetence til kommunale fællesskaber og ændring af delegationsbestemmelser m.v. i en række love på natur- og miljøområdet) indeholder følgende overgangs- og ikrafttrædelsesbestemmelse:
 
 § 23
 
@@ -212,7 +212,7 @@ Lov nr. 591 af 14. juni 2011 om lov om randzoner indeholder følgende ikrafttræ
 
 § 11. Ministeren for fødevarer, landbrug og fiskeri fastsætter tidspunktet for lovens ikrafttræden.
 
-Lov nr. 1273 af 21. december 2011 (Digital annoncering, obligatorisk kommunal kommunikation, afskæring af klageadgang) indeholder følgende ikrafttrædelsesbestemmelse:
+Lov nr. 1273 af 21. december 2011 (Digital annoncering, obligatorisk digital kommunikation, afskæring af klageadgang) indeholder følgende ikrafttrædelsesbestemmelse:
 
 § 20
 
@@ -314,7 +314,7 @@ Stk. 6. Verserende klagesager i Natur- og Miljøklagenævnet eller Klagecenter f
 
 Stk. 7. (Udelades)
 
-Lov nr. 668 af 8. juni 2017 (Lov om ændring af lov om planlægning, lov om naturbeskyttelse og lov om aktindsigt i miljøoplysninger) indeholder følgende ikrafttrædelsesbestemmelse:
+Lov nr. 668 af 8. juni 2017 (Modernisering af planloven, bedre rammer for kommuner, borgere og virksomheder i hele landet) indeholder følgende ikrafttrædelsesbestemmelse:
 
 § 4
 
@@ -336,7 +336,7 @@ Stk. 4. Regler fastsat i medfør af § 8, stk. 6 og 7, § 15, stk. 5, § 16, stk
 
 Lov nr. 1553 af 19. december 2017 (Mulighed for fastsættelse af nærmere regler om jagt med visse rovfugle, jagttider, tidsbegrænsede initiativer, jagtformer, fodring af vildt og ændring af regler om jagttegn samt ophævelse af krav om dispensation til visse til- og ombygninger inden for skovbyggelinjen i landzone) indeholder følgende ikrafttrædelsesbestemmelse:
 
-§ 3.
+§ 3
 
 Loven træder i kraft den 1. januar 2018.
 
@@ -352,7 +352,7 @@ Stk. 3. Regler fastsat i medfør af § 31, stk. 3, i lov om naturbeskyttelse, jf
 
 Lov nr. 466 af 14. maj 2018 (Nye muligheder for friluftsreklamer i det åbne land) indeholder følgende ikrafttrædelses- og overgangsbestemmelse:
 
-§ 2.
+§ 2
 
 Stk. 1. Loven træder i kraft den 1. juli 2018.
 
@@ -373,3 +373,47 @@ Stk. 2. (Udelades)
 § 11
 
 Klager over afgørelser efter lov om naturbeskyttelse om dispensation fra en foreslået eller fastsat fredningsbestemmelse efter § 50, stk. 1, i lov om naturbeskyttelse om videregående fravigelse fra eller ændring eller ophævelse af en fredning eller om undtagelse fra fredningsbestemmelser i regler fastsat efter § 51, stk. 1, i lov om naturbeskyttelse, som er meddelt med henblik på udførelse af kystbeskyttelsesforanstaltninger, der ikke er færdigbehandlet af Miljø- og Fødevareklagenævnet, og afgørelser, som er truffet før den 1. september 2018, og som inden klagefristens udløb indbringes for Miljø- og Fødevareklagenævnet, færdigbehandles af nævnet efter de hidtil gældende regler. Træffer nævnet afgørelse om, at sagen hjemvises til fornyet behandling i første instans, skal sagen i første instans færdigbehandles efter § 10 i denne lov og efter lov om kystbeskyttelse m.v. som ændret ved denne lovs § 1.
+
+Lov nr. 1518 af 18. december 2018 om erhvervsfremme indeholder følgende ikrafttrædelses- og overgangsbestemmelser:
+
+§ 24. Loven træder i kraft den 1. januar 2019, jf. dog stk. 2.
+
+Stk. 2. (Udelades)
+
+Stk. 3. Lov om erhvervsfremme og regional udvikling, jf. lovbekendtgørelse nr. 820 af 28. juni 2016, ophæves.
+
+Stk. 4. (Udelades)
+
+§ 25. Loven finder ikke anvendelse på ansøgninger indgivet i henhold til lov om erhvervsfremme og regional udvikling før lovens ikrafttræden. For sådanne ansøgninger finder de hidtil gældende regler anvendelse.
+
+Stk. 2 Tilladelser, godkendelser, akkrediteringer og bemyndigelser, som er meddelt i henhold til lov om erhvervsfremme og regional udvikling, jf. lovbekendtgørelse nr. 820 af 28. juni 2016, forbliver i kraft, indtil de udløber eller ophæves i medfør af denne lov.
+
+Stk. 3 (Udelades)
+
+§ 26. Indsatser, der er iværksat af erhvervsministeren inden denne lovs ikrafttræden, fortsætter efter gældende vilkår.
+
+§ 27. Igangværende projekter, der er igangsat efter indstilling fra de regionale vækstfora, løber indtil afslutningen af de pågældende projekter.
+
+Stk. 2 Erhvervsministeren kan efter aftale med regionerne bestemme, at igangværende projekter efter stk. 1 overflyttes til Erhvervsstyrelsen.
+
+Stk. 3 For så vidt angår projekter, der overdrages til Erhvervsstyrelsen efter stk. 2, forpligtes regionerne til at friholde staten for enhver udgift, der følger af ufinansierede garantier eller løfter udstedt af regionerne, krav om tilbagebetalinger eller erstatninger el.lign., der pålægges staten som følge af overtrædelse af lovgivning eller manglende opfyldelse af vilkår i tilsagn.
+
+Stk. 4 For så vidt angår projekter, der alene har modtaget en skriftlig, politisk hensigtserklæring, resultatkontrakt el.lign. om juridisk bindende tilsagn om regionalt tilskud eller garantier ud over 2018, kan erhvervsministeren beslutte at fortsætte disse helt eller delvis i en tidsbegrænset periode, hvis det vurderes nødvendigt for at sikre en hensigtsmæssig overgang for projekterne.
+
+Stk. 5 Erhvervsministeren overtager fra den 1. januar 2019 regionernes og vækstforas opgaver i projekter, hvor vækstfora har afgivet indstilling om anvendelse af regionalfonds- og socialfondsmidler inden udgangen af 2018, men hvor der ikke er afgivet tilsagn inden udgangen af 2018.
+
+§ 28. Uanset § 9, stk. 1, nr. 1, og § 12, stk. 2, nr. 4, kan erhvervsministeren udarbejde en midlertidig strategi for den decentrale erhvervsfremmeindsats for 2019, der tager udgangspunkt i eksisterende regionale og nationale strategier.
+
+Stk. 2 Uanset § 9, stk. 5, kan der indtil den 31. december 2020 ansøges om finansiering af klynger og innovationsnetværk hos Danmarks Erhvervsfremmebestyrelse i overensstemmelse med § 9, stk. 4.
+
+Lov nr. 169 af 27. februar 2019 (Kommunal adgang til at begrænse sejlads med visse hurtigtsejledende fartøjer ved udlagte badeområder) indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 3
+
+Loven træder i kraft den 1. marts 2019.
+
+Lov nr. 171 af 27. februar 2019 (Strafskærpelse for visse overtrædelser af CITES-regler) indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 2
+
+Loven træder i kraft den 1. marts 2019.
