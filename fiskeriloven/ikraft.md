@@ -18,7 +18,7 @@ Lov nr. 718 af 25. juni 2010 (Rekonstruktion m.v.) indeholder følgende ikrafttr
 
 Stk. 1. Justitsministeren fastsætter tidspunktet for lovens ikrafttræden.
 
-Stk. 2 - 10. (Udelades)
+Stk. 2-10. (Udelades)
 
 Lov nr. 604 af 14. juni 2011 (Kontrolkampagner, kontrol med kosttilskud, fødevaremyndighedens organisatoriske opbygning, gebyrfinansieret kontrol, digital kommunikation m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
 
@@ -26,7 +26,7 @@ Lov nr. 604 af 14. juni 2011 (Kontrolkampagner, kontrol med kosttilskud, fødeva
 
 Loven træder i kraft den 1. juli 2011.
 
-Lov nr. 388 af 2. maj 2012 (Rådgivende udvalg, fiskeri af laks i visse vandsystemer, EU-pointsystem for alvorlige overtrædelser, beslaglæggelse af fiskeredskaber m.v. og straffemyndighed for visse eksterritoriale overtrædelser) indeholder følge ikrafttrædelses- og overgangsbestemmelse:
+Lov nr. 388 af 2. maj 2012 (Rådgivende udvalg, fiskeri af laks i visse vandsystemer, EU-pointsystem for alvorlige overtrædelser, beslaglæggelse af fiskeredskaber m.v. og straffemyndighed for visse eksterritoriale overtrædelser) indeholder følgende ikrafttrædelses- og overgangsbestemmelse:
 
 § 2
 
@@ -101,3 +101,23 @@ Stk. 7. De faglige forskningsråd under Det Frie Forskningsråd fortsætter som 
 Stk. 8. Medlemmer af faglige forskningsråd under Det Frie Forskningsråd fortsætter som medlemmer af de stående udvalg under Danmarks Frie Forskningsfond med mulighed for genudpegning, hvis genudpegning kan ske efter de nye regler.
 
 Stk. 9. Klager over afgørelser truffet af faglige forskningsråd under Det Frie Forskningsråd, som er indgivet før lovens ikrafttræden, afgøres efter de hidtil gældende regler.
+
+Lov nr. 1563 af 19. december 2017 (Oplysning om den sidste tredjedel af ejerkredsen i erhvervsfiskerselskaber) indeholder følgende ikrafttrædelses- og overgangsbestemmelse:
+
+§ 2
+
+Stk. 1. Loven træder i kraft den 1. januar 2018.
+
+Stk. 2. Regler fastsat i medfør af fiskerilovens § 16, stk. 3, jf. lovbekendtgørelse nr. 764 af 19. juni 2017, forbliver i kraft, indtil de ophæves eller afløses af nye regler.
+
+Lov nr. 736 af 8. juni 2018 (Opfølgning på fiskeripakken, Bierhvervsfiskernævnets sammensætning m.v.) indeholder følgende ikrafttrædelses- og overgangsbestemmelse:
+
+§ 2
+
+Loven træder i kraft den 1. juli 2018.
+
+Lov nr. 1734 af 27. december (Indsats mod kvotekoncentration i dansk fiskeri) indeholder følgende ikrafttrædelses- og overgangsbestemmelse:
+
+§ 2
+
+Loven træder i kraft den 1. januar 2019.

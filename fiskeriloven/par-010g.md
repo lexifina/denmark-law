@@ -1,1 +1,1 @@
-§ 10 g. Når en tilladelse meddeles efter § 10 e, stk. 4, nr. 2, eller § 10 f, stk. 1, fastsætter miljø- og fødevareministeren vilkår om passende nødvendige kompensationsforanstaltninger. Ministeren underretter Europa-Kommissionen om, hvilke kompensationsforanstaltninger der træffes.
+§ 10 g. Når en tilladelse meddeles efter § 10 e, stk. 4, nr. 2, eller § 10 f, stk. 1, fastsætter ministeren for fiskeri og ligestilling vilkår om passende nødvendige kompensationsforanstaltninger. Ministeren underretter Europa-Kommissionen om, hvilke kompensationsforanstaltninger der træffes.
