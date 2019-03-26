@@ -20,7 +20,7 @@ Lov nr. 564 af 24. juni 2005 (Udmøntning af kommunalreformen i en række love p
 
 § 16
 
-Stk. Loven træder i kraft den 1. januar 2007.
+Stk. 1. Loven træder i kraft den 1. januar 2007.
 
 Stk. 2-8. (Udelades)
 
@@ -36,7 +36,7 @@ Lov nr. 507 af 17. juni 2008 (Implementering af miljøansvarsdirektivet) indehol
 
 § 15
 
-Stk. Loven træder i kraft den 1. juli 2008, jf. dog stk. 3.
+Stk. 1. Loven træder i kraft den 1. juli 2008, jf. dog stk. 3.
 
 Stk. 2-4. (Udelades)
 
@@ -108,7 +108,7 @@ Stk. 2. Miljøministeren fastsætter tidspunktet for ikrafttræden af §§ 1-6, 
 
 Stk. 3. Loven finder ikke anvendelse for klager over afgørelser, der træffes, før loven træder i kraft. For sådanne klager finder de hidtidige regler anvendelse.
 
-Lov nr. 736 af 25. juni 2014 (Samling af visse af politiets opgaver i opgavefællesskaber og bortsals af hittegods ved offentligt tilgængelig internetauktion m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
+Lov nr. 736 af 25. juni 2014 (Samling af visse af politiets opgaver i opgavefællesskaber og bortsalg af hittegods ved offentligt tilgængelig internetauktion m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
 
 § 13
 
@@ -124,11 +124,9 @@ Loven træder i kraft den 1. januar 2015.
 
 Lov nr. 1715 af 27. december 2016 om Miljø- og Fødevareklagenævnet indeholder følgende ikrafttrædelses- og overgangsbestemmelse:
 
-§ 24
+§ 24. Loven træder i kraft den 1. februar 2017.
 
-Stk. 1. Loven træder i kraft den 1. februar 2017.
-
-Skt. 2. (Udelades)
+Stk. 2. (Udelades)
 
 Stk. 3. Erhvervs- og vækstministeren kan efter høring af miljø- og fødevareministeren fastsætte overgangsregler.
 
@@ -145,3 +143,17 @@ Lov nr. 1553 af 19. december 2017 (Mulighed for fastsættelse af nærmere regler
 § 3
 
 Loven træder i kraft den 1. januar 2018.
+
+Lov nr. 720 af 8. juni 2018 (Ny kompetencefordeling og forenkling af sagsbehandling i forbindelse med kystbeskyttelse m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 9
+
+Stk. 1. Loven træder i kraft den 1. september 2018.
+
+Stk. 2. (Udelades)
+
+Lov nr. 170 af 27. februar 2019 (Udvidet bemyndigelse til at fastsætte regler om hold af hjemmehørende rovfugle og ugler) indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 2
+
+Loven træder i kraft den 1. marts 2019.
