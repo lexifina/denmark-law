@@ -37,3 +37,7 @@
 19) Lovændringen, hvis § 30 ændrer § 53 j og § 53 k.
 
 20) Lovændringen ændrer fodnote 1 til lovens titel, § 3, stk. 2, § 23, stk. 4, og indsætter nyt stk. 5, indsætter nyt stk. 2 i § 28, ændrer i § 40, stk. 1, 1. pkt., § 40, stk. 3, § 40, stk. 4, § 41, stk. 3, § 42, stk. 2, § 46, stk. 1, § 52, stk. 4, § 54, stk. 1, og indsætter ny § 46 a.
+
+21) Lovændringen vedrører § 33, stk. 4 og 5.
+
+22) Lovændringen vedrører § 6, stk. 1, nr. 1.
