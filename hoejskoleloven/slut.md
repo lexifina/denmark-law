@@ -1,7 +1,5 @@
-Givet på Marselisborg Slot, den 26. december 2013
+Kulturministeriet, den 25. marts 2019
 
-Under Vor Kongelige Hånd og Segl
+Mette Bock
 
-MARGRETHE R.
-
-/ Marianne Jelved
+/ Per Nylykke
