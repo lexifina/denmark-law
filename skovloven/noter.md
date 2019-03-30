@@ -8,15 +8,15 @@
 
 5) Lovændringen ændrer § 14 og § 28.
 
-6) Lovændringen ændrer § 43 og § 61.
+6) Lovændringen ændrer § 43 og § 61
 
 7) Lovændringen indsætter § 58 a.
 
 8) Lovændringen ændrer § 62.
 
-9) Lovændringen ændrer § 55, § 60, § 62, § 63 og § 65, og indsætter kapitel 8a (§§ 59 a-59 i).
+9) Lovændringen ændrer § 55, § 60, § 62, § 63 og § 65, og indsætter kapitel 8 a (§§ 59 a-59 i).
 
-10) Lovændring indsætter § 46, stk. 4.
+10) Lovændringen indsætter § 46, stk. 4.
 
 11) Lovændringen ophæver § 40, stk. 1, 3. og 4. pkt., § 54, stk. 2, 2. pkt., § 58 og § 59, nr. 3.
 
@@ -24,7 +24,7 @@
 
 13) Lovændringen ændrer § 60. Lov nr. 1608 af 22. december 2010 vedrører en ny affattelse af ikrafttrædelsesbestemmelsen for lov nr. 484 af 11. maj 2010, hvor det er bestemt, at lov nr. 484 af 11. maj 2010 træder i kraft den 1. januar 2011.
 
-14) Locændringen indsætter § 29 a.
+14) Lovændringen indsætter § 29 a.
 
 15) Lovændringen ændrer § 16 og § 59 f.
 
@@ -34,4 +34,6 @@
 
 18) Ved bekendtgørelse nr. 57 af 23. januar 2015 blev det bestemt, at ændringerne trådte i kraft den 28. januar 2015.
 
-19) Lovændringen, hvis § 29, nr. 1, overalt i loven ændrer ”Natur- og Miljøklagenævnet” til ”Miljø- og Fødevareklagenævnet”, og som ændrer § 60, stk. 1 og stk. 2, og § 63, stk. 2, 1. pkt.
+19) Lovændringen, hvis § 29, nr. 1, overalt i loven ændrer ”Natur- og Miljøklagenævnet” til ”Miljø- og Fødevareklagenævnet”, og som ændrer § 60, stk. 1 og 2, og § 63, stk. 2, 1. pkt.
+
+20) Lovændringen vedrører § 11 a, § 17, stk. 2, 2. pkt., § 28 a, § 39 a, § 48, nr. 2, og § 63 a.
