@@ -1,1 +1,1 @@
-§ 450 d. Retten kan i særlige tilfælde udpege en person til at bistå barnet under en sag om forældremyndighed eller barnets bopæl. Den, der udpeges, har adgang til sagens akter og mulighed for at være til stede under retsmøder og under samtaler efter §§ 450 a og 450 c.
+§ 450 d. Omstændigheder, som er eller kunne være gjort gældende i en tidligere sag om separation, skilsmisse eller omstødelse af ægteskab eller i en tidligere sag om forældremyndighed eller barnets bopæl, der har været realitetsbehandlet, kan ikke benyttes som søgsmålsgrundlag i en ny sag.

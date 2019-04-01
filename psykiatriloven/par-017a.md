@@ -1,4 +1,4 @@
-## Personlige alarm- og pejlesystemer og særlige dørlåse
+## Personlige alarm- og pejlesystemer og særlige dørlås
 
 § 17 a. Personlige alarm- og pejlesystemer og særlige dørlåse kan anvendes over for en patient, der lider af demens eller demenslignende tilstande, for at hindre, at vedkommende ved at forlade en psykiatrisk afdeling udsætter sig selv eller andre for en betydelig risiko for at lide personskade.
 

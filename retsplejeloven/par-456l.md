@@ -1,1 +1,1 @@
-§ 456 l. Udgifter ved bevisførelse i henhold til § 456 h afholdes af statskassen. Retten kan pålægge en part at erstatte disse udgifter helt eller delvis, såfremt det i øvrigt pålægges parten at betale sagsomkostninger.
+§ 456 l. Udgifter ved bevisførelse i henhold til § 456 h afholdes af statskassen. Familieretten kan pålægge en part at erstatte disse udgifter helt eller delvis, såfremt det i øvrigt pålægges parten at betale sagsomkostninger.

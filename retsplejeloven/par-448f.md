@@ -1,27 +1,19 @@
-§ 448 f. Sag om forældremyndighed eller barnets bopæl kan behandles her i riget, såfremt
+## International kompetence
 
-1) barnet har bopæl her,
+§ 448 f. En sag om separation, skilsmisse, omstødelse af ægteskab eller et ægteskabs beståen kan behandles her i riget, hvis
 
-2) barnet ulovligt er ført til udlandet eller ulovligt tilbageholdes i udlandet og barnet umiddelbart før bortførelsen eller tilbageholdelsen havde bopæl her,
+1) sagsøgte har bopæl her,
 
-3) barnet opholder sig her og som følge af uroligheder eller lignende er fordrevet fra sit hjemland,
+2) sagsøgeren har bopæl her og enten har boet her i de seneste 2 år eller tidligere har haft bopæl her,
 
-4) barnet opholder sig her og barnets bopæl ikke kendes eller
+3) sagsøgeren er dansk statsborger og det godtgøres, at sagsøgeren på grund af sit statsborgerskab ikke vil kunne anlægge sag i det land, hvor sagsøgeren har bopæl,
 
-5) barnet opholder sig her og sagen er så hastende, at en afgørelse fra myndighederne i det land, hvor barnet har bopæl, ikke kan afventes.
+4) begge parter er danske statsborgere og sagsøgte ikke modsætter sig, at sagen behandles i Danmark, eller
 
-Stk. 2. Stk. 1, nr. 2, finder ikke anvendelse, hvis
+5) skilsmisse søges på grundlag af separation meddelt her i landet inden for de seneste 5 år.
 
-1) barnet har haft bopæl i udlandet i mere end et år efter, at indehaveren af forældremyndigheden har fået eller burde have fået kendskab til barnets bopæl,
+Stk. 2. Endvidere kan en sag om separation og skilsmisse mellem to personer af samme køn behandles her i riget, når ægteskabet er indgået her og ingen af ægtefællerne bor i et land med en lovgivning om ægteskab mellem to personer af samme køn, der svarer til den danske.
 
-2) der inden for dette tidsrum ikke er indgivet en anmodning om tilbagegivelse af barnet, som stadig er under behandling, og
-
-3) barnet er faldet til i sine nye omgivelser.
-
-Stk. 3. Stk. 1, nr. 1 og 4, finder ikke anvendelse, hvis barnet ulovligt er ført her til landet eller ulovligt tilbageholdes her, medmindre
-
-1) barnet har haft bopæl her i mere end et år efter, at indehaveren af forældremyndigheden har fået eller burde have fået kendskab til barnets bopæl, og der ikke inden for dette tidsrum er indgivet en anmodning om tilbagegivelse af barnet eller
-
-2) en anmodning om tilbagegivelse af barnet er blevet afslået.
+Stk. 3. En sag om omstødelse af et ægteskab eller et ægteskabs beståen kan også behandles her i riget, når ægteskabet er indgået her.
 
 Stk. 4. Stk. 1-3 kan fraviges ved overenskomst med fremmed stat.

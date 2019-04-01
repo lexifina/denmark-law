@@ -2,7 +2,7 @@
 
 Stk. 2. Retten til aktindsigt omfatter ikke
 
-1) de i kapitel 42, 42 a, 43, 43 a og 43 b samt § 536 omhandlede sager,
+1) de i kapitel 42, 42 a, 42 b, 43, 43 a og 43 b omhandlede sager,
 
 2) straffesager, der er endeligt afsluttet for mere end 1 år siden, medmindre aktindsigt søges til brug for videnskabelig forskning eller af redaktører og redaktionelle medarbejdere ved et massemedium til brug for journalistisk eller redaktionelt arbejde,
 

@@ -1,1 +1,11 @@
-§ 448 b. Anlægger Ankestyrelsen eller ægtefællen i et tidligere ægteskab sag til omstødelse af et ægteskab, skal sagen anlægges mod begge ægtefæller. Sagen anlægges ved en ret, hvor en af ægtefællerne kan sagsøges efter § 448 d.
+§ 448 b. Familieretshuset indbringer en sag eller afgørelse for familieretten ved sagsøgtes hjemting. Har sagsøgte ikke hjemting her i landet, indbringes sagen for familieretten ved sagsøgerens hjemting. 1. og 2. pkt. finder ikke anvendelse, hvis sagen er omfattet af stk. 2-4.
+
+Stk. 2. Familieretshuset indbringer en sag eller afgørelse efter forældreansvarsloven for familieretten i den retskreds, hvor barnet har bopæl. Har barnet ikke bopæl her i landet, indbringes sagen for familieretten ved sagsøgtes hjemting. Har sagsøgte ikke hjemting her i landet, indbringes sagen for familieretten ved sagsøgerens hjemting.
+
+Stk. 3. Familieretshuset indbringer en sag eller afgørelse efter børneloven for familieretten i den retskreds, hvor barnets mor har hjemting. Har barnets mor ikke hjemting her i landet, indbringes sagen for familieretten i den retskreds, hvor den, der efter § 17 i børneloven er part i sagen, har hjemting. Er der flere parter, bestemmer Familieretshuset, hvilken familieret sagen skal indbringes for.
+
+Stk. 4. Familieretshuset indbringer en sag eller afgørelse, hvor Familieretshuset er part, for familieretten ved modpartens hjemting.
+
+Stk. 5. Uanset stk. 1-4 kan Familieretshuset bestemme, hvilken familieret en sag eller afgørelse skal indbringes for.
+
+Stk. 6. Den familieret, som en sag er indbragt for, kan henvise sagen til behandling ved familieretten i en anden retskreds, hvis det er mest hensigtsmæssigt, at sagen behandles der.
