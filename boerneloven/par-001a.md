@@ -1,4 +1,4 @@
-§ 1 a. Fødes et barn af en kvinde, der er gift med en kvinde eller har en registreret partner, registreres sæddonor som far til barnet, når betingelserne i § 27 a, stk. 1, er opfyldt, jf. dog stk. 3. Registrering af faderskabet foretages af statsforvaltningen i forbindelse med barnets fødsel.
+§ 1 a. Fødes et barn af en kvinde, der er gift med en kvinde eller har en registreret partner, registreres sæddonor som far til barnet, når betingelserne i § 27 a, stk. 1, er opfyldt, jf. dog stk. 3. Registrering af faderskabet foretages af Familieretshuset i forbindelse med barnets fødsel.
 
 Stk. 2. Bestemmelsen i stk. 1 finder tilsvarende anvendelse, hvis sæddonoren er død før barnets fødsel, men efter at moderen har modtaget behandling med assisteret reproduktion.
 

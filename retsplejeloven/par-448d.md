@@ -1,5 +1,3 @@
-§ 448 d. Sag om ægteskab indbringes for retten ved sagsøgtes hjemting.
+§ 448 d. Familieretten kan i særlige tilfælde behandle en anmodning om at få indbragt en afgørelse truffet af Familieretshuset, selv om anmodningen er indgivet efter udløbet af fristen i § 41, stk. 1, i lov om Familieretshuset. Dette gælder dog ikke for afgørelser, der går ud på separation, skilsmisse eller omstødelse af ægteskab, eller hvorved et ægteskab er kendt ikkebestående, og for afgørelser om eksigibilitet efter § 3, stk. 2, i lov om Haagerkonventionen af 2007 eller efter artikel 30 i forordning (EF) nr. 4/2009 af 18. december 2008 om kompetence, lovvalg, anerkendelse og fuldbyrdelse af retsafgørelser og samarbejde vedrørende underholdspligt. Familierettens afgørelse efter 1. pkt. kan ikke indbringes for højere ret.
 
-Stk. 2. Har sagsøgte ikke hjemting her i riget, indbringes sagen for retten ved sagsøgerens hjemting.
-
-Stk. 3. Har ingen af parterne hjemting her i riget, indbringes sagen for den ret, som justitsministeren bestemmer.
+Stk. 2. Familieretten kan ved kendelse afvise at behandle en sag om en afgørelse, som Familieretshuset har truffet som klageinstans efter § 41, stk. 2, i forældreansvarsloven, § 58 b, stk. 1, i lov om ægteskabs indgåelse og opløsning eller § 21, stk. 1, 1. pkt., i navneloven, hvis sagen ikke er principiel eller har generel betydning.

@@ -1,6 +1,6 @@
-§ 456 k. Retten træffer afgørelse uden hensyn til parternes påstande og anbringender.
+§ 456 k. Familieretten træffer afgørelse uden hensyn til parternes påstande og anbringender.
 
-Stk. 2. Kun retten kan træffe bestemmelse om, at en person ikke længere skal være inddraget som part i sagen.
+Stk. 2. Kun familieretten kan træffe bestemmelse om, at en person ikke længere skal være inddraget som part i sagen.
 
 Stk. 3. Sagen hæves, når
 

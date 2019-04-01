@@ -2,7 +2,7 @@
 
 ## Registrering af medmoderskab i forbindelse med fødslen
 
-§ 3 a. Fødes et barn af en kvinde, der er gift med en kvinde eller har en registreret partner, registreres ægtefællen eller partneren som medmor til barnet, når betingelserne i § 27 eller § 27 a, stk. 2, er opfyldt, jf. dog stk. 2. Registreringen af medmoderskabet foretages af statsforvaltningen i forbindelse med barnets fødsel.
+§ 3 a. Fødes et barn af en kvinde, der er gift med en kvinde eller har en registreret partner, registreres ægtefællen eller partneren som medmor til barnet, når betingelserne i § 27 eller § 27 a, stk. 2, er opfyldt, jf. dog stk. 2. Registreringen af medmoderskabet foretages af Familieretshuset i forbindelse med barnets fødsel.
 
 Stk. 2. Bestemmelsen i stk. 1 gælder ikke, hvis
 
