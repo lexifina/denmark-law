@@ -6,7 +6,7 @@
 
 a) straffelovens § 210 eller kapitel 24 eller
 
-b) straffelovens §§ 237 eller 244-246, hvor personen eller en af dennes nærmeste er forurettet og den, der er mistænkt, er en af personens nærmeste.
+b) straffelovens §§ 237 eller 243-246, hvor personen eller en af dennes nærmeste er forurettet og den, der er mistænkt, er en af personens nærmeste.
 
 3) Personen er under 18 år, og særlige omstændigheder taler for videoafhøring.
 
