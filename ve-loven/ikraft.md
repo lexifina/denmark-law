@@ -4,7 +4,7 @@ Lov nr. 900 af 4. juli 2013 (Ændring af støtte til visse solcelleanlæg) indeh
 
 Stk. 1. Loven træder i kraft dagen efter bekendtgørelsen i Lovtidende, jf. dog stk. 2.
 
-Stk. 2. Klima-, energi- og bygningsministeren fastsætter tidspunktet for ikrafttrædelsen af § 1. Ministeren kan herunder fastsætte, at dele af § 1 træder i kraft på forskellige tidspunkter.
+Stk. 2. Klima-, energi- og bygningsministeren fastsætter tidspunktet for ikrafttrædelsen af § 1. Ministeren kan herunder fastsætte, at dele af § 1 træder i kraft på forskellige tidspunkter
 
 Stk. 3. Klima-, energi- og bygningsministeren kan fastsætte, at dele af § 1 får virkning på forskellige tidspunkter, dog tidligst den 20. november 2012, og, for så vidt angår § 47, stk. 5, i lov om fremme af vedvarende energi som indsat ved denne lovs § 1, nr. 3, tidligst den 20. marts 2013, og endelig, for så vidt angår § 47, stk. 6, i lov om fremme af vedvarende energi som indsat ved denne lovs § 1, nr. 3, tidligst den 11. juni 2013. Klima-, energi- og bygningsministeren kan endvidere efter forelæggelse for et af Folketinget nedsat udvalg fastsætte, at dele af § 1, nr. 1, får virkning på forskellige tidspunkter, dog tidligst den 8. juni 2012.
 
@@ -116,7 +116,9 @@ Energi-, forsynings- og klimaministeren fastsætter tidspunktet for lovens ikraf
 
 Lov nr. 690 af 8. juni 2018 om Forsyningstilsynet indeholder følgende ikrafttrædelsesbestemmelse:
 
-§ 14. Stk. 2-3. (Udelades)
+§ 14. Loven træder i kraft den 1. juli 2018, jf. dog stk. 2.
+
+Stk. 2-3. (Udelades)
 
 Lov nr. 704 af 8. juni 2018 (Styrkelse af rammerne for overvågning af elforsyningssikkerheden og klare regler for sikring af kapacitet, ændringer som følge af forordninger om EU-netregler, flytning af ansvar for måling af elektricitet hos elforbrugere direkte tilsluttet transmissionsnettet og samkøring af oplysninger om realiserede energibesparelser m.v.), indeholder følgende ikrafttrædelsesbestemmelse:
 
@@ -136,6 +138,6 @@ Stk. 2. § 1, nr. 3, 5, 7, 9, 12 og 14-17, og § 2, nr. 2, 3 og 4, træder i kra
 
 Stk. 3. Energi-, forsynings- og klimaministeren fastsætter tidspunktet for ikrafttrædelse af § 45 b i lov om fremme af vedvarende energi, som indsat ved denne lovs § 1, nr. 4, og af denne lovs § 1, nr. 6, 8 og 10.
 
-Stk. 4. For pristillæg ydet efter §§ 45 og 46, jf. lovbekendtgørelse nr. 1194 af 28. september 2018, finder de hidtil gældende regler om administration, herunder kontrol, af pristillæg ydet efter §§ 45 og 46, fortsat anvendelse efter lovens ikrafttræden.
+Stk. 4. For pristillæg ydet efter §§ 45 og 46, jf. lovbekendtgørelse nr. 1194 af 28. september 2018, som ændret ved § 1 i lov nr. 1705 af 23. december 2016, og § 1 i lov nr. 504 af 23. maj 2018, finder de hidtil gældende regler om administration, herunder kontrol, af pristillæg ydet efter §§ 45 og 46, fortsat anvendelse efter lovens ikrafttræden.
 
-Stk. 5. Der kan til og med den 31. juli 2019 ydes pristillæg til elproduktion fra afbrænding af biomasse fra anlæg, der den 31. marts 2019 modtager pristillæg for elproduktion fra afbrænding af biomasse i medfør af § 46 i lov om fremme af vedvarende energi, jf. lovbekendtgørelse nr. 1194 af 28. september 2018.
+Stk. 5. Der kan til og med den 31. juli 2019 ydes pristillæg til elproduktion fra afbrænding af biomasse fra anlæg, der den 31. marts 2019 modtager pristillæg for elproduktion fra afbrænding af biomasse i medfør af § 46 i lov om fremme af vedvarende energi, jf. lovbekendtgørelse nr. 1194 af 28. september 2018, som ændret ved § 1 i lov nr. 1705 af 23. december 2016, og § 1 i lov nr. 504 af 23. maj 2018.
