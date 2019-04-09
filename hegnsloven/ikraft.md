@@ -1,24 +1,24 @@
-Lov nr. 431 af 6. juni 2005 ændring af forskellige love (Forenkling, harmonisering og objektivering af reglerne for inddrivelse af gæld til det offentlige m.v. samt mulighed for anvendelse af digitale lønsedler) indeholder følgende ikrafttrædelses- og overgangsbestemmelse:
+Lov nr. 431 af 6. juni 2005 om ændring af forskellige love (Forenkling, harmonisering og objektivering af reglerne for inddrivelse af gæld til det offentlige m.v. samt mulighed for anvendelse af digitale lønsedler) indeholder følgende ikrafttrædelses- og overgangsbestemmelse:
 
 § 85
 
 Stk. 1. Loven træder i kraft den 1. november 2005.
 
-Stk. 2. (Udeladt)
+Stk. 2. (Udelades)
 
 Lov. 542 af 24. juni 2005 om regional statsforvaltning indeholder følgende ikrafttrædelsesbestemmelse:
 
 § 6. Loven træder i kraft den 1. januar 2007.
 
-Stk. 2. (Udeladt)
+Stk. 2. (Udelades)
 
-Lov nr. 538 af 8. juni 2006 ændring af retsplejeloven og forskellige andre love (Politi- og domstolsreform) indeholder følgende ikrafttrædelses- og overgangsbestemmelse:
+Lov nr. 538 af 8. juni 2006 om ændring af retsplejeloven og forskellige andre love (Politi- og domstolsreform) indeholder følgende ikrafttrædelses- og overgangsbestemmelse:
 
 § 105
 
 Stk. 1. Loven træder i kraft den 1. januar 2007.
 
-Stk. 2-22. (Udeladt)
+Stk. 2-22. (Udelades)
 
 Lov nr. 484 af 17. juni 2008 om ændring af lov om tjenestemænd og forskellige andre love (Ophævelse af den generelle pligtige afgangsalder på 70 år m.v.) indeholder følgende ikrafttrædelses- og overgangsbestemmelser:
 
@@ -26,7 +26,7 @@ Lov nr. 484 af 17. juni 2008 om ændring af lov om tjenestemænd og forskellige 
 
 Stk. 1. Loven træder i kraft dagen efter bekendtgørelsen i Lovtidende.
 
-Stk. 2. (Udeladt)
+Stk. 2. (Udelades)
 
 § 10
 
@@ -40,4 +40,28 @@ Lov nr. 1336 af 19. december 2008 om ændring af kildeskatteloven, opkrævningsl
 
 Stk. 1. Loven træder i kraft den 1. januar 2009, jf. dog stk. 2. § 11 finder alene anvendelse på afgørelser om lønindeholdelse, der træffes efter lovens ikrafttræden.
 
-Stk. 2. (Udeladt)
+Stk. 2. (Udelades)
+
+Lov nr. 1711 af 27. december 2018 om ændring af forældreansvarsloven, lov om ægteskabs indgåelse og opløsning og forskellige andre love (Ændringer som følge af lov om Familieretshuset og skærpet fokus på beskyttelsen af barnet i sager efter forældreansvarsloven) indeholder følgende ikrafftrædelses- og overgangsbestemmelser:
+
+§ 40
+
+Stk. 1. Loven træder i kraft den 1. april 2019, jf. dog stk. 2-4.
+
+Stk. 2-4. (Udelades)
+
+§ 41
+
+(Udelades)
+
+§ 42
+
+(Udelades)
+
+§ 43
+
+Stk. 1-5. (Udelades)
+
+Stk. 6. Sager om omkostninger ved hegnssyn efter § 46, stk. 4, i hegnsloven, jf. lovbekendtgørelse nr. 1746 af 14. december 2015, der ved lovens ikrafttræden behandles af Statsforvaltningen, færdigbehandles af miljø- og fødevareministeren.
+
+Stk. 7-9. (Udelades)
