@@ -6,13 +6,15 @@
 
 3) klager, der henvises efter § 48,
 
-4) sager om suspension, disciplinærforfølgning og afsked på grund af sygdom i de i §§ 49, 49 a, 50 og 55 nævnte tilfælde,
+4) klager over advarsler meddelt efter § 48,
 
-5) sager efter § 51 f om afsked før tilkaldeperiodens udløb,
+5) sager om suspension, disciplinærforfølgning og afsked på grund af sygdom i de i §§ 49, 49 a, 50 og 55 nævnte tilfælde,
 
-6) sager efter § 54 a om afsked og ændring af tjenestested og
+6) sager efter § 51 f om afsked før tilkaldeperiodens udløb,
 
-7) sager om afsættelse af medlemmer af Domstolsstyrelsens bestyrelse, jf. § 6, stk. 3, i lov om Domstolsstyrelsen.
+7) sager efter § 54 a om afsked og ændring af tjenestested og
+
+8) sager om afsættelse af medlemmer af Domstolsstyrelsens bestyrelse, jf. § 6, stk. 3, i lov om Domstolsstyrelsen.
 
 Stk. 2. Klageretten består af 5 medlemmer, der efter indstilling af justitsministeren beskikkes af kongen for en periode på 10 år. Rettens medlemmer kan kun afsættes ved dom. Et medlem udtræder, når betingelserne for medlemmets beskikkelse bortfalder. Beskikkelsen ophører senest ved udgangen af den måned, hvori den pågældende fylder 70 år. Genbeskikkelse kan ikke finde sted.
 
