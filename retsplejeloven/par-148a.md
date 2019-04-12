@@ -1,4 +1,4 @@
-§ 148 a. Borgerlige retssager og sager om optagelse af bevis om borgerlige krav anlægges og behandles ved anvendelse af en digital sagsportal, som domstolene stiller til rådighed. Enhver skriftlig henvendelse om sagen skal ske på domstolenes sagsportal, jf. dog stk. 3-6.
+§ 148 a. Borgerlige retssager, sager om forbud eller påbud i en borgerlig sag og sager om optagelse af bevis om borgerlige krav anlægges og behandles ved anvendelse af en digital sagsportal, som domstolene stiller til rådighed. Enhver skriftlig henvendelse om sagen skal ske på domstolenes sagsportal, jf. dog stk. 3-6.
 
 Stk. 2. En digital meddelelse anses for at være kommet frem, når den er tilgængelig for retten.
 
