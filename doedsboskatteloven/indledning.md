@@ -1,5 +1,5 @@
-Bekendtgørelse af lov om beskatning ved dødsfald
+Bekendtgørelse af lov om beskatning ved dødsfald (dødsboskatteloven)
 
-(dødsboskatteloven)
+Herved bekendtgøres lov om beskatning ved dødsfald (dødsboskatteloven), jf. lovbekendtgørelse nr. 333 af 2. april 2012, med de ændringer, der følger af § 7 i lov nr. 1354 af 21. december 2012, § 4 i lov nr. 1394 af 23. december 2012, § 7 i lov nr. 1395 af 23. december 2012, § 4 i lov nr. 792 af 28. juni 2013, § 7 i lov nr. 202 af 27. februar 2015, § 15 i lov nr. 550 af 30. maj 2017, § 3 i lov nr. 683 af 8. juni 2017, § 7 i lov nr. 1555 af 19. december 2017 og § 3 i lov nr. 84 af 30. januar 2019.
 
-Hermed bekendtgøres lov om beskatning ved dødsfald (dødsboskatteloven), jf. lovbekendtgørelse nr. 1362 af 26. november 2010 med de ændringer, der følger af § 3, nr. 3, 12, 13 og 15 i lov nr. 459 af 12. juni 2009, § 2 i lov nr. 174 af 4. marts 2011, § 7 i lov nr. 221 af 21. marts 2011 og § 2 i lov nr. 1380 af 28. december 2011.
+De ændringer, der følger af § 8 i lov nr. 688 af 8. juni 2017 om ændring af skatteforvaltningsloven, lov om kommunal ejendomsskat, ejendomsværdiskatteloven og forskellige andre love (Ny vurderingsankenævnsstruktur, regler om klagebehandling af vurderingssager og ændringer som følge af en ny ejendomsvurderingslov m.v.), er ikke indarbejdet i denne lovbekendtgørelse, da ændringerne først har virkning fra og med det skatteår henholdsvis det indkomstår, hvor beskatningen sker på grundlag af ejendomsvurderinger foretaget efter ejendomsvurderingslovens §§ 5 og 6, jf. § 10, nr. 4, 1. pkt., i lov nr. 1729 af 27. december 2018.

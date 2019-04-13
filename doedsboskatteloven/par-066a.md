@@ -1,5 +1,5 @@
 ## Kapitel 10 A
 
-## (ophævet)
+## (Ophævet)
 
-§ 66 a. (Ophævet).
+§ 66 a. (Ophævet)
