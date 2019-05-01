@@ -2,10 +2,4 @@
 
 Stk. 2. Retten kan tillade, at forsvareren deltager i et retsmøde ved anvendelse af telekommunikation med billede, hvis det er forsvarligt og sigtede ikke deltager i retsmødet.
 
-Stk. 3. Retten kan tillade, at anklageren deltager i et retsmøde ved anvendelse af telekommunikation med billede, hvis
-
-1) sigtede ikke deltager i retsmødet,
-
-2) anklagerens deltagelse ved anvendelse af telekommunikation med billede er forsvarlig og
-
-3) der i øvrigt foreligger særlige grunde.
+Stk. 3. Retten kan tillade, at anklageren deltager i et retsmøde ved anvendelse af telekommunikation med billede, hvis betingelserne i stk. 2 er opfyldt.
