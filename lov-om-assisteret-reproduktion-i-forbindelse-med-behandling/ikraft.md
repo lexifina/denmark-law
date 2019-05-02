@@ -1,47 +1,35 @@
-Lov nr. 535 af 8. juni 2006 (Omfanget af behandling på de regionale sygehuse, ligestilling af kvinders adgang til kunstig befrugtning uanset civilstand og seksuel orientering, vurdering af forældreuegnethed, lempelse af ægdonationsreglerne og forlængelse af opbevaringstiden for nedfrosne æg) indeholder følgende ikrafttrædelses- og overgangsbestemmelse:
+Lov nr. 264 af 16. marts 2016 (Information og samtykke i forbindelse med behandling med assisteret reproduktion m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
 
 § 2
 
-Stk. 1. Loven træder i kraft den 1. januar 2007.
+Loven træder i kraft den 1. juli 2016.
 
-Stk. 2. § 15, stk. 1, i lov om kunstig befrugtning i forbindelse med lægelig behandling, diagnostik og forskning m.v. som ændret ved denne lovs § 1, nr. 6, træder dog i kraft dagen efter bekendtgørelsen i Lovtidende og finder tillige anvendelse på de ved lovens ikrafttræden udtagne og nedfrosne æg.
-
-Lov nr. 1546 af 21. december 2010 (Egenbetaling for behandling med kunstig befrugtning, refertilisation og sterilisation i det offentlige sundhedsvæsen og justering af regler om vurdering af forældreegnethed ved behandling med kunstig befrugtning m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
+Lov nr. 1688 af 26. december 2017 (Ophævelse af forbuddet mod dobbeltdonation og ændring af reglerne for kastration) indeholder følgende ikrafttrædelsesbestemmelse:
 
 § 3
 
-Stk. 1. Loven træder i kraft den 1. januar 2011, dog jf. stk. 2
+Stk. 1. Loven træder i kraft den 1. januar 2018.
 
 Stk. 2. (Udelades)
 
-Lov nr. 593 af 14. juni 2011 indeholder følgende ikrafttrædelsesbestemmelse:
+Lov nr. 1711 af 27. december 2018 (Ændringer som følge af lov om Familieretshuset og skærpet fokus på beskyttelsen af barnet i sager efter forældreansvarsloven) indeholder følgende ikrafttrædelses- og overgangsbestemmelser:
+
+§ 40
+
+Stk. 1. Loven træder i kraft den 1. april 2019, jf. dog stk. 2-4.
+
+Stk. 2-4. (Udelades)
+
+Stk. 5. Regler fastsat i medfør af § 21, stk. 3, i lov om børns forsørgelse, jf. lovbekendtgørelse nr. 1815 af 23. december 2015, § 25 i adoptionsloven, jf. lovbekendtgørelse nr. 1041 af 3. august 2018, § 61, stk. 3, i lov nr. 548 af 30. maj 2017 om ægtefællers økonomiske forhold, § 23 b i lov om opkrævning af underholdsbidrag, jf. lovbekendtgørelse nr. 1819 af 23. december 2015, § 33 i børneloven, jf. lovbekendtgørelse nr. 1817 af 23. december 2015, § 8 i lov nr. 618 af 8. juni 2016 om fremtidsfuldmagter, § 56 a, stk. 5, i udlændingeloven, jf. lovbekendtgørelse nr. 1117 af 2. oktober 2017 med senere ændringer, og § 6 a, stk. 4, i lov om assisteret reproduktion i forbindelse med behandling, diagnostik og forskning m.v., jf. lovbekendtgørelse nr. 93 af 19. januar 2015 med senere ændringer, forbliver i kraft, indtil de ophæves eller afløses af nye regler.
+
+§§ 41-42
+
+(Udelades)
 
 § 43
 
-Stk. 1. Loven træder i kraft 1. januar 2012 og finder anvendelse for sundhedsvidenskabelige forskningsprojekter, der anmeldes efter lovens ikrafttræden.
+Stk. 1-7. (Udelades)
 
-Stk. 2-7. (Udelades)
+Stk. 8. Sager vedrørende assisteret reproduktion efter § 6 a i lov om assisteret reproduktion i forbindelse med behandling, diagnostik og forskning m.v., jf. lovbekendtgørelse nr. 93 af 19. januar 2015 med senere ændringer, der ved lovens ikrafttræden behandles af Statsforvaltningen, færdigbehandles af regionsrådet.
 
-Lov nr. 602 af 18. juni 2012 (Udvidelse af lov om kunstig befrugtnings anvendelsesområde, mulighed for anonym og ikkeanonym æg- og sæddonation i forbindelse med behandling med kunstig befrugtning, fastslåelse af faderskab i forbindelse med kunstig befrugtning, adoption af registreret partners barn og fremmøde i adoptionssager m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
-
-§ 4
-
-Stk. 1. Loven træder i kraft den 1. oktober 2012.
-
-Stk. 2. (Udelades)
-
-Lov nr. 1313 af 27. november 2013 (Assisteret reproduktion som terminologi, dispensationsmulighed vedrørende opbevaringstid for æg, samtykke til behandling samt udvidelse af kredsen af ansvarlige for indberetning af alvorlige uønskede hændelser og bivirkninger i form af genetisk sygdom m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
-
-§ 7
-
-Stk. 1. Loven træder i kraft den 1. december 2013, jf. dog stk. 2-5
-
-Stk. 2-5. (Udelades)
-
-Lov nr. 744 af 25. juni 2014 (Kriterier for kastration og justeringer som følge af indførelse af juridisk kønsskifte m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
-
-§ 4
-
-Stk. 1. Loven træder i kraft den 1. september 2014, jf. dog stk. 2
-
-Stk. 2. (Udelades)
+Stk. 9. (Udelades)
