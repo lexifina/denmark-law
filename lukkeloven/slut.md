@@ -1,7 +1,5 @@
-Givet på Amalienborg, den 24. juni 2005
+Erhvervsstyrelsen, den 30. april 2019
 
-Under Vor Kongelige Hånd og Segl
+P.M.V. Henning Steensig
 
-Margrethe R.
-
-/Bendt Bendtsen
+/ Søren Corfixsen Whitt
