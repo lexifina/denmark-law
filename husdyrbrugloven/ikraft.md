@@ -98,11 +98,33 @@ Stk. 2. (Udelades)
 
 Stk. 3. (Udelades)
 
+Lov nr. 427 af 18. maj 2016 (Konsekvensændringer m.v. som følge af lov om miljøvurdering af planer og programmer og af konkrete projekter (VVM))
+
+indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 10
+
+Stk. 1. Loven træder i kraft den 16. maj 2017, jf. stk. 2.
+
+Stk. 2. (Udeladt)
+
+Stk. 3. (Udeladt)
+
+Stk. 4. (Udeladt)
+
+Stk. 5. (Udeladt)
+
+Stk. 6. (Udeladt)
+
+Stk. 7. (Udeladt)
+
+Stk. 8. (Udeladt)
+
+Stk. 9. (Udeladt)
+
 Lov nr. 1715 af 27. december 2016 om Miljø- og Fødevareklagenævnet indeholder følgende ikrafttrædelses- og overgangsbestemmelse:
 
-§ 24
-
-Stk. 1. Loven træder i kraft den 1. februar 2017.
+§ 24. Loven træder i kraft den 1. februar 2017.
 
 Stk. 2. (Udelades)
 
@@ -170,42 +192,40 @@ Stk. 2. Vilkår fastsat for udbringningsarealer i godkendelser efter § 33 i lov
 
 Loven gælder ikke for Færøerne og Grønland.
 
-Lov nr. 427 af 18. maj 2016 (Konsekvensændringer m.v. som følge af lov om miljøvurdering af planer og programmer og af konkrete projekter (VVM)) indeholder følgende ikrafttrædelsesbestemmelse:
-
-§ 10
-
-Stk. 1 Loven træder i kraft den 16. maj 2017, jf. stk. 2.
-
-Stk. 2 (Udeladt)
-
-Stk. 3 (Udeladt)
-
-Stk. 4 (Udeladt)
-
-Stk. 5 (Udeladt)
-
-Stk. 6 (Udeladt)
-
-Stk. 7 (Udeladt)
-
-Stk. 8 (Udeladt)
-
-Stk. 9 (Udeladt)
-
 Lov nr. 497 af 22. maj 2018 (Målrettet kvælstofregulering m.v.) indeholder følgende ikrafttrædelsesbestemmelser:
 
 § 5
 
-Stk. 1 (Udeladt)
+Stk. 1. (Udeladt)
 
-Stk. 2 § 1, nr. 2, 5-11 og 14, § 2, nr. 1-5 og 7-12, og § 4 træder i kraft den 1. juli 2018.
+Stk. 2. § 1, nr. 2, 5-11 og 14, § 2, nr. 1-5 og 7-12, og § 4 træder i kraft den 1. juli 2018.
 
-Stk. 3 (Udeladt)
+Stk. 3. (Udeladt)
 
-Stk. 4 § 2, nr. 6, træder i kraft den 1. august 2019.
+Stk. 4. § 2, nr. 6, træder i kraft den 1. august 2019.
 
-Stk. 5 (Udeladt)
+Stk. 5. (Udeladt)
 
 § 6
 
 Loven gælder ikke for Færøerne og Grønland.
+
+Lov nr. 338 af 2. april 2019 om jordbrugets anvendelse af gødning og om næringsstofreducerende tiltag indeholder følgende ikrafttrædelsesbestemmelser:
+
+§ 58. Loven træder i kraft den 5. april 2019.
+
+Stk. 2. (Udeladt)
+
+Stk. 3. Loven finder ikke anvendelse på forhold, der vedrører planperioden 2018-2019, som denne er defineret i § 4 i lov om jordbrugets anvendelse af gødning og om plantedække, jf. lovbekendtgørelse nr. 996 af 25. juni 2018, og tidligere planperioder. For sådanne forhold finder de hidtil gældende regler anvendelse.
+
+Stk. 4. Lovens § 4 finder ikke anvendelse for planperioden 2019-2020, som denne er defineret i § 4 i lov om jordbrugets anvendelse af gødning og om plantedække, jf. lovbekendtgørelse nr. 996 af 25. juni 2018. For denne periode finder de hidtil gældende regler i § 3 i lov om jordbrugets anvendelse af gødning og om plantedække, jf. lovbekendtgørelse nr. 996 af 25. juni 2018, og § 2, stk. 2, i lov om husdyrbrug og anvendelse af gødning m.v., jf. lovbekendtgørelse nr. 1020 af 6. juli 2018, anvendelse.
+
+Stk. 5. (Udeladt)
+
+Stk. 6. (Udeladt)
+
+Stk. 7. (Udeladt)
+
+Stk. 8. Regler, der er fastsat i medfør af de bestemmelser i lov om husdyrbrug og anvendelse af gødning m.v., jf. lovbekendtgørelse nr. 1020 af 6. juli 2018, der ophæves i medfør af § 55, forbliver i kraft, indtil de ophæves eller erstattes af regler fastsat i medfør af denne lov.
+
+§ 59. Loven gælder ikke for Færøerne og Grønland.
