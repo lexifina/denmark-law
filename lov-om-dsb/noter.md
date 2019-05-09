@@ -1,5 +1,5 @@
-1) Betegnelsen for trafikministeren og Trafikministeriet er i hele lovbekendtgørelsen ændret til transportministeren og Transportministeriet som følge af kongelig resolution af 23. november 2007.
+1) Lovændringen vedrører lovens titel, overskrift til kapitel 1, §§ 1-10, overskrift til kapitel 3, §§ 11-13, 15, 19, overskrift til kapitel 6, §§ 21, 22, 25, 26 a og 26 b.
 
-2) Trådt i kraft den 28. juli 1999
+2) Sat i kraft ved bekendtgørelse nr. 1226 af 1. november 2018.
 
-3) Trådt i kraft den 23. april 2004
+3) Lovændringen i § 125 vedrører lovens § 2 a.
