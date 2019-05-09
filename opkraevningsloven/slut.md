@@ -1,12 +1,12 @@
-Skatteministeriet, den 29. september 2016
+Skatteministeriet, den 6. maj 2019
 
 P.M.V. Jens Brøchner
 
-/ Camilla Christensen
+/ Annemette Ottosen
 
 Bilag 1
 
-Liste A
+## Liste A
 
 1) Lov om energiafgift af mineralolieprodukter m.v.
 
@@ -40,40 +40,34 @@ Liste A
 
 16) Lov om afgift af svovl.
 
-17) Lov om afgift af antibiotika og vækstfremmere anvendt i foderstoffer.
+17) Lov om afgift af affald og råstoffer.
 
-18) Lov om afgift af affald og råstoffer.
+18) Lov om afgift af visse chlorfluorcarboner og haloner (CFC-afgift).
 
-19) Lov om afgift af visse chlorfluorcarboner og haloner (CFC-afgift).
+19) Lov om afgift af elektricitet.
 
-20) Lov om afgift af elektricitet.
+20) Lov om afgift af visse flyrejser.
 
-21) Lov om afgift af visse flyrejser.
+21) Lov om afgift af naturgas og bygas m.v.
 
-22) Lov om afgift af naturgas og bygas m.v.
+22) Lov om afgift af spildevand.
 
-23) Lov om afgift af spildevand.
+23) Lov om afgift af ledningsført vand.
 
-24) Lov om afgift af ledningsført vand.
+24) Lov om afgift af lønsum m.v.
 
-25) Lov om afgift af lønsum m.v.
+25) Lov om registreringsafgift af motorkøretøjer m.v.
 
-26) Lov om registreringsafgift af motorkøretøjer m.v.
+26) Lov om afgift af ansvarsforsikringer for motorkøretøjer m.v.
 
-27) Lov om afgift af ansvarsforsikringer for motorkøretøjer m.v.
+27) Lov om afgift af lystfartøjsforsikringer.
 
-28) Lov om afgift af lystfartøjsforsikringer.
+28) Lov om afgift af tinglysning af ejer- og panterettigheder m.v.
 
-29) Lov om afgift af tinglysning og registrering af ejer- og panterettigheder m.v.
+29) Lov om afgift af kvælstofoxider.
 
-30) Lov om afgift af polyvinylklorid og ftalater (pvc og visse blødgøringsmidler).
+30) Lov om afgift af skadesforsikringer.
 
-31) Lov om afgift af mineralsk fosfor i foderfosfat.
-
-32) Lov om afgift af kvælstofoxider.
-
-33) Lov om afgift af skadesforsikringer.
-
-Liste B
+## Liste B
 
 1) Kildeskatteloven.
