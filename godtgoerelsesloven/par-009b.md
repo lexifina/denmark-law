@@ -1,0 +1,1 @@
+§ 9 b. Tilskuddet til uddannelsesdeltageren til kost og logi bortfalder, i det omfang uddannelsesstedet modtager tilskud fra Arbejdsgivernes Uddannelsesbidrag for at yde kost og logi til den pågældende. Arbejdsgivernes Uddannelsesbidrag kan fastsætte regler herom, herunder regler om, at tilskuddet ikke eller kun delvis bortfalder.
