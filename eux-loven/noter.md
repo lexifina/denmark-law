@@ -13,3 +13,5 @@
 7) Lovændringen vedrører § 3, stk. 1, 2 og 4, § 4, stk. 2, 1. pkt., og § 5, stk. 1.
 
 8) Se lovbekendtgørelse nr. 927 af 3. juli 2017 for affattelsen af de hidtil gældende regler, jf. de nævnte regler i note 7.
+
+9) Lovændringen vedrører § 8.

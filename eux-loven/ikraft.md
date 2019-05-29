@@ -37,3 +37,11 @@ Lov nr. 142 af 28. februar 2018 (Indførelse af erhvervsområde, erhvervsområde
 Stk. 1. Loven træder i kraft den 1. august 2018.
 
 Stk. 2. Loven finder ikke anvendelse for undervisning af elever, der har påbegyndt et eux-forløb før den 1. august 2018. For disse elever finder de hidtil gældende regler anvendelse.
+
+Lov nr. 547 af 7. maj 2019 (Styrkede erhvervsuddannelser, mere praksisfaglighed i grundskolen, uddannelsesparathedsvurdering til alle ungdomsuddannelser m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 10
+
+Stk. 1. Loven træder i kraft den 1. august 2019, jf. dog stk. 2-4.
+
+Stk. 2-5. (Udelades)
