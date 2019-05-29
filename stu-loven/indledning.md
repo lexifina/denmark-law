@@ -1,3 +1,7 @@
 Bekendtgørelse af lov om ungdomsuddannelse for unge med særlige behov
 
-Herved bekendtgøres lov om ungdomsuddannelse for unge med særlige behov, jf. lovbekendtgørelse nr. 1031 af 23. august 2013, med de ændringer, der følger af § 41 i lov nr. 1605 af 26. december 2013 og § 4 i lov nr. 1539 af 27. december 2014.
+Herved bekendtgøres lov om ungdomsuddannelse for unge med særlige behov, jf. lovbekendtgørelse nr. 783 af 15. juni 2015, med de ændringer, der følger af § 19 i lov nr. 745 af 8. juni 2018 og § 22 i lov nr. 551 af 7. maj 2019.
+
+Den bekendtgjorte lovtekst vedrørende § 3, § 3 a, 1. pkt., § 4, stk. 2-4, § 5, § 5 a, stk. 2, 2. pkt., § 7, stk. 2, § 8, stk. 2, 3. pkt., og § 8, stk. 4, og § 12, stk. 2, 1. pkt., træder i kraft den 1. august 2019, jf. § 30, stk. 3, i lov nr. 745 af 8. juni 2018 om ændring af avu-loven, lov om befordringsrabat til uddannelsessøgende i ungdomsuddannelser m.v., lov om Danmarks Evalueringsinstitut, lov om forberedende voksenundervisning og ordblindeundervisning for voksne, lov om individuel boligstøtte og forskellige andre love og om ophævelse af lov om erhvervsgrunduddannelse m.v., lov om kombineret ungdomsuddannelse, lov om produktionsskoler og lov om Rådet for Ungdomsuddannelser (Ændringer som følge af lovgivning om forberedende grunduddannelse m.v.).
+
+Den bekendtgjorte lovtekst vedrørende § 5 b træder i kraft den 1. januar 2020, jf. § 30, stk. 4, i lov nr. 551 af 7. maj 2019 om ændring af lov om organisering og understøttelse af beskæftigelsesindsatsen m.v., lov om aktiv socialpolitik, lov om sygedagpenge, integrationsloven og forskellige andre love (Konsekvenser af aftale om en forenklet beskæftigelsesindsats m.v.).
