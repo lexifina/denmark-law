@@ -24,7 +24,7 @@
 
 12) Afgørelser om identitetsfastlæggelse, tilbagerejsetilladelse og laissez-passer, medmindre udlændingen tidligere har været asylansøger, har en verserende asylansøgning under behandling eller ansøger om asyl, inden Udlændingenævnet træffer afgørelse.
 
-13) Afgørelser efter § 42 a, stk. 11-14.
+13) Afgørelser efter § 42 a, stk. 13-16.
 
 14) Afgørelser om fremmedpas.
 
@@ -38,26 +38,30 @@ Stk. 2. For Udlændingenævnet kan endvidere indbringes klager over følgende af
 
 2) Afslag på ansøgninger om forlængelse af opholdstilladelse meddelt efter § 9 a og §§ 9 i-9 n og 9 p, og afgørelser om inddragelse af en sådan opholdstilladelse, jf. § 19.
 
-3) Afgørelser om afvisning af indgivelse af ansøgninger om opholdstilladelse og forlængelse af opholdstilladelser efter § 9 a, stk. 5 og 6, § 9 i, stk. 3 og 4, § 9 j, stk. 2 og 3, § 9 k, stk. 2 og 3, § 9 l, stk. 2 og 3, § 9 m, stk. 2 og 3, § 9 n, stk. 2 og 3, og § 9 p, stk. 2 og 3, og afgørelser om afvisning af ansøgninger om opholdstilladelse, jf. § 47 b.
+3) Afgørelser om afvisning af indgivelse af ansøgninger om opholdstilladelse og forlængelse af opholdstilladelser efter § 9 a, stk. 5 og 6, § 9 i, stk. 4 og 5, § 9 j, stk. 2 og 3, § 9 k, stk. 2 og 3, § 9 l, stk. 2 og 3, § 9 m, stk. 2 og 3, § 9 n, stk. 2 og 3, og § 9 p, stk. 2 og 3, og afgørelser om afvisning af ansøgninger om opholdstilladelse, jf. § 47 b.
 
-4) Afgørelser om udvisning efter § 25 b, stk. 2, jf. § 46, stk. 2, 2. pkt.
+4) Afgørelser om udstedelse, forlængelse og inddragelse af registreringsbeviser og opholdskort til udlændinge, der er omfattet af EU-reglerne, jf. § 6.
 
-5) Afslag på ansøgninger om certificering efter § 9 a, stk. 16.
+5) Afgørelser om udvisning efter § 25 b, stk. 2, jf. § 46, stk. 2, 3. pkt.
 
-6) Afslag på ansøgninger om forlængelse af certificering efter § 9 a, stk. 18, jf. § 9 a, stk. 19, og afgørelser om inddragelse af en sådan certificering, jf. § 9 a, stk. 19.
+6) Afslag på ansøgninger om certificering efter § 9 a, stk. 17.
 
-7) Afgørelser om, at der i en periode på 2 år fra afgørelsen herom ikke kan meddeles opholdstilladelse efter § 9 j, jf. § 21 a.
+7) Afslag på ansøgninger om forlængelse af certificering efter § 9 a, stk. 20, jf. § 9 a, stk. 21, og afgørelser om inddragelse af en sådan certificering, jf. § 9 a, stk. 21.
 
-8) Afgørelser om betaling af gebyrer efter § 9 h, stk. 1, nr. 4-9, 14 og 16.
+8) Afgørelser om, at der i en periode på 2 år fra afgørelsen herom ikke kan meddeles opholdstilladelse efter § 9 j, jf. § 21 a.
 
-9) Afgørelser om identitetsfastlæggelse, tilbagerejsetilladelse og laissez-passer, medmindre udlændingen tidligere har været asylansøger, har en verserende asylansøgning under behandling eller ansøger om asyl, inden Udlændingenævnet træffer afgørelse.
+9) Afgørelser om betaling af gebyrer efter § 9 h, stk. 1, nr. 4-9, 14 og 16.
+
+10) Afgørelser om identitetsfastlæggelse, tilbagerejsetilladelse og laissez-passer, medmindre udlændingen tidligere har været asylansøger, har en verserende asylansøgning under behandling eller ansøger om asyl, inden Udlændingenævnet træffer afgørelse.
 
 Stk. 3. Udlændingenævnet kan behandle klager over Udlændingestyrelsens konstatering af, at en opholdstilladelse meddelt efter § 9, § 9 c, stk. 1, § 9 d, § 9 e, § 9 f eller 9 q er bortfaldet, jf. § 17, at en opholdstilladelse meddelt efter § 9, § 9 c, stk. 1, eller § 9 e, jf. § 17 a, er bortfaldet, og at en opholdstilladelse er bortfaldet efter § 18. Det samme gælder klager over afslag på ansøgninger om, at en opholdstilladelse ikke skal anses for bortfaldet, jf. § 17, stk. 3, og § 17 a, stk. 2.
 
 Stk. 4. Udlændingenævnet kan endvidere behandle klager over Styrelsen for International Rekruttering og Integrations konstatering af, at en opholdstilladelse meddelt efter § 9 a, §§ 9 i-9 n eller 9 p er bortfaldet, jf. §§ 17 og 18. Det samme gælder klager over afslag på ansøgninger om, at en opholdstilladelse ikke skal anses for bortfaldet, jf. § 17, stk. 3.
 
-Stk. 5. Udlændingenævnet kan endvidere behandle klager over politiets afgørelser om afvisning, jf. § 28, stk. 1-4 og stk. 7, 3. pkt.
+Stk. 5. Udlændingenævnet kan endvidere behandle klager over Styrelsen for International Rekruttering og Integrations konstatering af, at en opholdsret efter § 6 er ophørt.
 
-Stk. 6. Klage over de afgørelser, der er nævnt i stk. 1-5, skal være indgivet, inden 8 uger efter at klageren har fået meddelelse om afgørelsen. Udlændingenævnets formand eller den, formanden bemyndiger dertil, kan i særlige tilfælde beslutte, at en klage skal behandles, selv om klagen er indgivet efter udløb af fristen i 1. pkt.
+Stk. 6. Udlændingenævnet kan endvidere behandle klager over politiets afgørelser om afvisning, jf. § 28, stk. 1-4 og stk. 7, 3. pkt.
 
-Stk. 7. Afgørelser om opsættende virkning med hensyn til udrejsefristen, jf. § 33, stk. 3, træffes af Udlændingenævnets formand eller den, formanden bemyndiger dertil.
+Stk. 7. Klage over de afgørelser, der er nævnt i stk. 1-6, skal være indgivet, inden 8 uger efter at klageren har fået meddelelse om afgørelsen. Udlændingenævnets formand eller den, formanden bemyndiger dertil, kan i særlige tilfælde beslutte, at en klage skal behandles, selv om klagen er indgivet efter udløb af fristen i 1. pkt.
+
+Stk. 8. Afgørelser om opsættende virkning med hensyn til udrejsefristen, jf. § 33, stk. 3, træffes af Udlændingenævnets formand eller den, formanden bemyndiger dertil.
