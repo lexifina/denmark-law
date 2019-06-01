@@ -8,7 +8,7 @@
 
 4) opholdstilladelse efter § 9 a, stk. 2, nr. 1-11, og stk. 3,
 
-5) opholdstilladelse efter § 9 i, stk. 1, 1. pkt., og stk. 2,
+5) opholdstilladelse efter § 9 i, stk. 1, 1. pkt., og stk. 2 og 3,
 
 6) opholdstilladelse efter § 9 j, stk. 1,
 
@@ -30,7 +30,7 @@
 
 15) forlængelse af opholdstilladelse efter nr. 10 og 11,
 
-16) opholdstilladelse efter § 9 a, stk. 10,
+16) opholdstilladelse efter § 9 a, stk. 11,
 
 17) tidsubegrænset opholdstilladelse efter § 9 q, stk. 8, hvis udlændingen har opholdstilladelse efter bestemmelsen, der er nævnt i nr. 10,
 
@@ -40,7 +40,7 @@
 
 Stk. 2. Udlændinge- og integrationsministeren fastsætter og regulerer gebyrerne efter stk. 1, jf. stk. 4.
 
-Stk. 3. Virksomheden skal senest samtidig med indgivelse af ansøgning om certificering efter § 9 a, stk. 16, og forlængelse af en sådan certificering betale et gebyr. Gebyret fastsættes og reguleres af udlændinge- og integrationsministeren, jf. stk. 4, 2. pkt.
+Stk. 3. Virksomheden skal senest samtidig med indgivelse af ansøgning om certificering efter § 9 a, stk. 17, og forlængelse af en sådan certificering betale et gebyr. Gebyret fastsættes og reguleres af udlændinge- og integrationsministeren, jf. stk. 4, 2. pkt.
 
 Stk. 4. Størrelsen af gebyrerne efter stk. 1, nr. 4-9, 14 og 16, fastsættes således, at de svarer til omkostningerne ved Styrelsen for International Rekruttering og Integrations behandling af ansøgninger om opholdstilladelse og forlængelse af opholdstilladelse. Størrelsen af gebyrerne efter stk. 1, nr. 1-3, 10-13 og 15, fastsættes således, at de svarer til omkostningerne ved Udlændingestyrelsens behandling af ansøgninger om opholdstilladelse og forlængelse af opholdstilladelse. Størrelsen af gebyrerne efter stk. 1, nr. 17-19, fastsættes således, at de svarer til omkostningerne ved behandlingen af ansøgninger om tidsubegrænset opholdstilladelse. Størrelsen af gebyrerne efter stk. 3 fastsættes således, at de svarer til omkostningerne ved Styrelsen for International Rekruttering og Integrations behandling af ansøgninger om certificering og forlængelse af certificering.
 
@@ -48,7 +48,7 @@ Stk. 5. For indgivelse af ansøgning om genoptagelse af en sag, hvor Udlændinge
 
 Stk. 6. Gebyr efter stk. 5, 1. pkt., tilbagebetales, hvis ansøgningen om genoptagelse imødekommes. Gebyr efter stk. 5, 2. pkt., tilbagebetales, hvis klageren får helt eller delvis medhold i klagen. Gebyr efter stk. 5, 3. pkt., tilbagebetales, hvis ansøgningen om genoptagelse imødekommes.
 
-Stk. 7. Hvis en ansøgning, der er omfattet af stk. 1, afvises på andet grundlag end manglende gebyrbetaling, jf. § 9, stk. 25, § 9 a, stk. 5 og 6, § 9 c, stk. 6, § 9 f, stk. 9, § 9 g, stk. 3 og 4, § 9 i, stk. 3 og 4, § 9 j, stk. 2 og 3, § 9 k, stk. 2, 1. pkt., og stk. 3, § 9 m, stk. 2 og 3, § 9 n, stk. 2 og 3, § 9 q, stk. 10-12, § 11, stk. 10, og § 47 b og regler udstedt i medfør af § 9 g, stk. 1 og 2, skal gebyret tilbagebetales fratrukket et beløb på 750 kr.
+Stk. 7. Hvis en ansøgning, der er omfattet af stk. 1, afvises på andet grundlag end manglende gebyrbetaling, jf. § 9, stk. 25, § 9 a, stk. 5 og 6, § 9 c, stk. 6, § 9 f, stk. 9, § 9 g, stk. 3 og 4, § 9 i, stk. 4 og 5, § 9 j, stk. 2 og 3, § 9 k, stk. 2, 1. pkt., og stk. 3, § 9 m, stk. 2 og 3, § 9 n, stk. 2 og 3, § 9 q, stk. 10-12, § 11, stk. 10, og § 47 b og regler udstedt i medfør af § 9 g, stk. 1 og 2, skal gebyret tilbagebetales fratrukket et beløb på 750 kr.
 
 Stk. 8. Ansøgningen afvises, hvis betingelsen i stk. 1 og 3 ikke er opfyldt, medmindre den udestående gebyrindbetaling udgør højst 200 kr. eller det indbetalte gebyr svarer til en anden sagskategori end den, ansøgningen vedrører, jf. stk. 1. I sådanne tilfælde vil udlændingen få en frist til at indbetale det udestående gebyr. Indbetales det udestående gebyr ikke inden for fristen, afvises ansøgningen.
 
