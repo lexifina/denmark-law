@@ -1,21 +1,29 @@
-§ 6 e. Følgende grænser for Lønmodtagernes Dyrtidsfonds aktiver er gældende for medregning af aktiver, der udgør en risiko på en enkelt virksomhed eller gruppe af indbyrdes forbundne virksomheder:
+§ 6 e. Lønmodtagernes Dyrtidsfond skal udarbejde og offentliggøre en politik for aktivt ejerskab, der beskriver, hvordan Lønmodtagernes Dyrtidsfond integrerer aktivt ejerskab i investeringsstrategien.
 
-1) Aktiver omfattet af § 6 b, stk. 1, nr. 3, må højst udgøre 40 pct.
+Stk. 2. Politikken for aktivt ejerskab, jf. stk. 1, skal beskrive, hvordan Lønmodtagernes Dyrtidsfond
 
-2) Aktiver omfattet af § 6 b, stk. 1, nr. 4, må højst udgøre 10 pct.
+1) overvåger selskaber, hvori der investeres, inden for relevante områder, herunder strategi, finansielle og ikkefinansielle resultater, risiko, kapitalstruktur, social og miljømæssig indvirkning og god selskabsledelse,
 
-3) Aktiver omfattet af § 6 b, stk. 1, nr. 7, jf. dog stk. 4, må højst udgøre 10 pct.
+2) fører dialog med selskaber, hvori der investeres,
 
-4) Aktiver omfattet af § 6 b, stk. 1, nr. 13, må højst udgøre 10 pct.
+3) udøver stemmerettigheder og andre rettigheder knyttet til aktier,
 
-5) Aktiver omfattet af § 6 b, stk. 1, nr. 6, 8, 9, 11 og 12, må samlet højst udgøre 2 pct., jf. dog stk. 2. Grænsen er 3 pct., hvis egenkapitalen i den virksomhed, som aktivet vedrører, overstiger 250 mio. kr., når virksomheden er hjemmehørende i et land omfattet af zone A og aktivet er optaget til handel på et reguleret marked i et land inden for den Europæiske Union eller i et land, som Unionen har indgået aftale med på det finansielle område, eller tilsvarende markeder i andre lande omfattet af zone A.
+4) samarbejder med andre aktionærer,
 
-6) Aktiver omfattet af § 6 b, stk. 1, nr. 5, 6 og 8-12, må samlet højst udgøre 5 pct.
+5) kommunikerer med relevante interessenter i selskaber, hvori der investeres, og
 
-7) Lån omfattet af § 6 b, stk. 1, nr. 12, må højst udgøre 1 pct.
+6) håndterer faktiske og potentielle interessekonflikter i forbindelse med virksomhedens aktive ejerskab.
 
-Stk. 2. Kapitalandele i og lån ydet til en virksomhed eller en gruppe af indbyrdes forbundne virksomheder, hvis aktiviteter alene omfatter investeringer i aktiver omfattet af § 6 b, stk. 1, nr. 5 og 10, må samlet højst udgøre 5 pct.
+Stk. 3. Lønmodtagernes Dyrtidsfond skal en gang årligt offentliggøre, hvordan Lønmodtagernes Dyrtidsfonds politik for aktivt ejerskab er blevet gennemført, herunder en generel beskrivelse af stemmeafgivelse og en redegørelse om de væsentligste afstemninger og virksomhedens brug af rådgivende stedfortræderes tjenesteydelser.
 
-Stk. 3. Stk. 1, nr. 3-5, og stk. 2 finder ikke anvendelse på investeringer i en dattervirksomhed, der er omfattet af § 6 b, stk. 2 og 6.
+Stk. 4. Lønmodtagernes Dyrtidsfond skal offentliggøre, hvordan Lønmodtagernes Dyrtidsfond har stemt på generalforsamlinger i selskaber, i hvilke Lønmodtagernes Dyrtidsfond besidder aktier. Afstemninger, der er ubetydelige på grund af emnet for afstemningen eller størrelsen af kapitalandelen i det pågældende selskab, kan udelades fra offentliggørelsen.
 
-Stk. 4. Stk. 1, nr. 3-5, og stk. 2 finder ikke anvendelse på investeringer i virksomheder, UCITS, kapitalforeninger og udenlandske investeringsinstitutter omfattet af § 6 b, stk. 1, nr. 7, hvis aktivitet efter vedtægterne er begrænset til at foretage investeringer i aktiver omfattet af § 6 b, stk. 1, nr. 1-3. Sådanne investeringer kan i relation til grænserne fastsat i stk. 1, nr. 4-6, og stk. 2 samt § 6 d, stk. 1, nr. 1 og 3, betragtes som aktiver omfattet af § 6 b, stk. 1, nr. 1-3.
+Stk. 5. Lønmodtagernes Dyrtidsfond kan vælge ikke at opfylde et eller flere af kravene i stk. 1-4, hvis Lønmodtagernes Dyrtidsfond offentliggør en klar og begrundet forklaring på, hvorfor Lønmodtagernes Dyrtidsfond har valgt dette.
+
+Stk. 6. De oplysninger, som skal offentliggøres efter stk. 1-5, skal være gratis tilgængelige på Lønmodtagernes Dyrtidsfonds hjemmeside.
+
+Stk. 7. Gennemfører en kapitalforvalter politikken om aktivt ejerskab, herunder stemmeafgivelse, på vegne af Lønmodtagernes Dyrtidsfond, skal Lønmodtagernes Dyrtidsfond henvise til det sted, hvor kapitalforvalteren har offentliggjort oplysninger om stemmeafgivelse.
+
+Stk. 8. Regler om interessekonflikter i anden lovgivning, der gælder for Lønmodtagernes Dyrtidsfond, finder tilsvarende anvendelse i forbindelse med aktiviteter vedrørende aktivt ejerskab.
+
+Stk. 9. Reglerne i stk. 1-8 finder alene anvendelse, i det omfang Lønmodtagernes Dyrtidsfond foretager investeringer direkte eller gennem en kapitalforvalter i aktier, der handles på et reguleret marked.
