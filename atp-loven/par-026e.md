@@ -1,23 +1,21 @@
-§ 26 e. Følgende grænser for Arbejdsmarkedets Tillægspensions aktiver er gældende for medregning af aktiver, der udgør en risiko på en enkelt virksomhed eller en gruppe af indbyrdes forbundne virksomheder:
+§ 26 e. Arbejdsmarkedets Tillægspension skal offentliggøre, hvordan hovedelementerne i aktieinvesteringsstrategien er i overensstemmelse med Arbejdsmarkedets Tillægspensions pensionsmæssige forpligtelsers profil og varighed, herunder navnlig de langsigtede forpligtelser, og hvordan hovedelementerne bidrager til aktivernes resultater på mellemlang til lang sigt.
 
-1) Aktiver omfattet af § 26 b, stk. 1, nr. 3, må højst udgøre 40 pct.
+Stk. 2. Når en kapitalforvalter investerer på vegne af Arbejdsmarkedets Tillægspension enten diskretionært eller gennem et investeringsinstitut skal Arbejdsmarkedets Tillægspension offentliggøre følgende oplysninger om sin ordning med kapitalforvalteren:
 
-2) Aktiver omfattet af § 26 b, stk. 1, nr. 4, må højst udgøre 10 pct.
+1) Hvordan ordningen giver kapitalforvalteren incitament til at afstemme sin investeringsstrategi og sine investeringsbeslutninger efter profilen og varigheden af Arbejdsmarkedets Tillægspensions pensionsmæssige forpligtelser, navnlig langsigtede forpligtelser.
 
-3) Aktiver omfattet af § 26 b, stk. 1, nr. 7, jf. dog stk. 4, må højst udgøre 10 pct.
+2) Hvordan ordningen giver kapitalforvalteren incitament til at træffe investeringsbeslutninger på grundlag af vurderinger af finansielle og ikkefinansielle resultater på mellemlang til lang sigt for det selskab, hvori der investeres, og til at engagere sig i selskaber, hvori der investeres, for at forbedre deres resultater på mellemlang til lang sigt.
 
-4) Aktiver omfattet af § 26 b, stk. 1, nr. 13, må højst udgøre 10 pct.
+3) Hvordan metoden til og tidshorisonten for evaluering af kapitalforvalterens resultater og aflønningen for kapitalforvalterens tjenesteydelser er i overensstemmelse med profilen og varigheden af Arbejdsmarkedets Tillægspensions pensionsmæssige forpligtelser, navnlig langsigtede forpligtelser, og tager hensyn til de langsigtede resultater.
 
-5) Aktiver omfattet af § 26 b, stk. 1, nr. 6, 8, 9, 11 og 12, må samlet højst udgøre 2 pct., jf. dog stk. 2. Grænsen er 3 pct., hvis egenkapitalen i den virksomhed, som aktivet vedrører, overstiger 250 mio. kr., når virksomheden er hjemmehørende i et land omfattet af zone A og aktivet er optaget til handel på et reguleret marked i et land inden for den Europæiske Union eller i et land, som Unionen har indgået aftale med på det finansielle område, eller tilsvarende markeder i andre lande omfattet af zone A.
+4) Hvordan Arbejdsmarkedets Tillægspension overvåger kapitalforvalterens porteføljeomsætningsomkostninger, og hvordan Arbejdsmarkedets Tillægspension fastlægger og overvåger en tilsigtet porteføljeomsætning eller et tilsigtet omsætningsinterval.
 
-6) Aktiver omfattet af § 26 b, stk. 1, nr. 5, 6 og 8-12, må samlet højst udgøre 5 pct.
+5) Varigheden af ordningen med kapitalforvalteren.
 
-7) Lån omfattet af § 26 b, stk. 1, nr. 12, må højst udgøre 1 pct.
+Stk. 3. Arbejdsmarkedets Tillægspension skal, hvis ordningen som nævnt i stk. 2 ikke omfatter et eller flere af de i stk. 2, nr. 1-5, nævnte aspekter, give en klar og velbegrundet forklaring herpå.
 
-Stk. 2. Kapitalandele i og lån ydet til en virksomhed eller en gruppe af indbyrdes forbundne virksomheder, hvis aktiviteter alene omfatter investeringer i aktiver omfattet af § 26 b, stk. 1, nr. 5 og 10, må samlet højst udgøre 5 pct.
+Stk. 4. De oplysninger, der er nævnt i stk. 1-3, skal være gratis tilgængelige på Arbejdsmarkedets Tillægspensions hjemmeside og skal ajourføres årligt, medmindre der ikke er nogen væsentlige ændringer.
 
-Stk. 3. Stk. 1, nr. 3-5, og stk. 2 finder ikke anvendelse på investeringer i en dattervirksomhed, der er omfattet af § 26 b, stk. 3, 5, 6, 7 og 11.
+Stk. 5. Reglerne i stk. 1-4 finder alene anvendelse, i det omfang Arbejdsmarkedets Tillægspension foretager investeringer direkte eller gennem en kapitalforvalter i aktier, der handles på et reguleret marked.
 
-Stk. 4. Stk. 1, nr. 3-5, og stk. 2 finder ikke anvendelse på investeringer i virksomheder, UCITS, kapitalforeninger og udenlandske investeringsinstitutter omfattet af § 26 b, stk. 1, nr. 7, hvis aktivitet efter vedtægterne er begrænset til at foretage investeringer i aktiver omfattet af § 26 b, stk. 1, nr. 1-3. Sådanne investeringer kan i relation til grænserne fastsat i stk. 1, nr. 4-6, og stk. 2, samt § 26 d, stk. 1, nr. 1 og 3, betragtes som aktiver omfattet af § 26 b, stk. 1, nr. 1-3.
-
-Stk. 5. Bestyrelsen fastsætter nærmere bestemmelser om Arbejdsmarkedets Tillægspensions valutakurs- og renterisikoeksponering.
+§§ 26 f-26 i. (Ophævet)
