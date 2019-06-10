@@ -1,25 +1,23 @@
-## Måltal og politikker for det underrepræsenterede køn
+§ 139 a. Vederlagspolitikken, jf. § 139, skal være klar og forståelig og bidrage til aktieselskabets forretningsstrategi, langsigtede interesser og bæredygtighed og indeholde følgende:
 
-§ 139 a. I statslige aktieselskaber, i selskaber, som har kapitalandele, gældsinstrumenter eller andre værdipapirer optaget til handel på et reguleret marked i et EU/EØS-land, og i store kapitalselskaber, jf. stk. 2, skal
+1) En forklaring på, hvordan vederlagspolitikken bidrager til aktieselskabets forretningsstrategi, langsigtede interesser og bæredygtighed.
 
-1) det øverste ledelsesorgan opstille måltal for andelen af det underrepræsenterede køn i det øverste ledelsesorgan og
+2) En beskrivelse af de forskellige komponenter af fast og variabel aflønning, herunder alle bonusser og andre goder, som kan tildeles ledelsesmedlemmer, med indikation af komponenternes relative andel.
 
-2) det centrale ledelsesorgan udarbejde en politik for at øge andelen af det underrepræsenterede køn på kapitalselskabets øvrige ledelsesniveauer, jf. dog stk. 4-7.
+3) En forklaring på, hvordan aktieselskabets medarbejderes løn og ansættelsesvilkår er blevet taget i betragtning ved udarbejdelsen af vederlagspolitikken.
 
-Stk. 2. Store kapitalselskaber er selskaber, der overskrider to af følgende kriterier i 2 på hinanden følgende regnskabsår:
+4) Retningslinjer for varigheden af kontrakter eller ordninger med ledelsesmedlemmer, de vigtigste elementer i tillægspensionsordninger eller ordninger for tidlig pensionering og opsigelsesvilkår, opsigelsesperioder og betalinger i tilknytning til opsigelse.
 
-1) En balancesum på 156 mio. kr.,
+5) En forklaring på den beslutningsproces, der anvendes ved vederlagspolitikkens fastlæggelse, revision og gennemførelse, herunder foranstaltninger til at undgå eller håndtere interessekonflikter.
 
-2) en nettoomsætning på 313 mio. kr. og
+Stk. 2. Indgår aktieselskabet aftaler om variabel aflønning, skal vederlagspolitikken indeholde klare, brede og varierede kriterier for tildeling af den variable løn. Vederlagspolitikken skal angive
 
-3) et gennemsnitligt antal heltidsbeskæftigede på 250.
+1) oplysninger om de finansielle og ikkefinansielle resultatkriterier, herunder, hvor det er relevant, kriterier vedrørende virksomheders sociale ansvar, og en forklaring på, hvordan de bidrager til aktieselskabets forretningsstrategi, langsigtede interesser og bæredygtighed, samt de metoder, der skal anvendes til at fastlægge, om resultatkriterierne er opfyldt, og
 
-Stk. 3. Ved beregning af størrelserne i stk. 2 finder årsregnskabslovens § 7, stk. 3 og 4, anvendelse.
+2) oplysninger om eventuelle udskydelsesperioder og om aktieselskabets mulighed for at tilbagekræve variabel aflønning.
 
-Stk. 4. For moderselskaber, der udarbejder koncernregnskab, er det tilstrækkeligt, at der opstilles måltal og udarbejdes en politik, jf. stk. 1, for koncernen som helhed.
+Stk. 3. Tildeler aktieselskabet aktiebaseret aflønning, skal vederlagspolitikken, jf. stk. 2, tillige indeholde retningslinjer for modningsperioder og en eventuel bindingsperiode for aktier efter udløbet af modningsperioden og forklare, hvordan den aktiebaserede aflønning bidrager til aktieselskabets forretningsstrategi, langsigtede interesser og bæredygtighed.
 
-Stk. 5. Et datterselskab, som indgår i en koncern, kan undlade at opstille måltal og udarbejde en politik, jf. stk. 1, hvis moderselskabet opstiller måltal og udarbejder en politik for den samlede koncern.
+Stk. 4. Ændres vederlagspolitikken, skal vederlagspolitikken beskrive og forklare alle væsentlige ændringer. Beskrivelsen skal indeholde oplysninger om, hvordan der er taget hensyn til aktionærernes afstemning om og holdning til vederlagspolitikken og vederlagsrapporterne, jf. § 139 b, siden generalforsamlingens seneste afstemning om vederlagspolitikken.
 
-Stk. 6. Ved opstilling af måltal, jf. stk. 1, nr. 1, er statslige aktieselskaber også omfattet af § 11, stk. 2, i lov om ligestilling af kvinder og mænd.
-
-Stk. 7. Kapitalselskaber, der i det seneste regnskabsår har beskæftiget færre end 50 medarbejdere, kan undlade at udarbejde en politik for at øge andelen af det underrepræsenterede køn på deres øvrige ledelsesniveauer, jf. stk. 1, nr. 2.
+Stk. 5. Aktieselskabets øverste ledelsesorgan kan under særlige omstændigheder midlertidigt fravige vederlagspolitikken, forudsat at vederlagspolitikken indeholder en beskrivelse af de proceduremæssige betingelser herfor og specificerer de elementer af vederlagspolitikken, som kan fraviges.
