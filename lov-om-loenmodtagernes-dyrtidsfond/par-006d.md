@@ -1,11 +1,9 @@
-§ 6 d. Følgende grænser gælder for anbringelse af Lønmodtagernes Dyrtidsfonds aktiver:
+§ 6 d. Bestyrelsen kan oprette investeringspuljer og tilbyde lønmodtagere, at indeståender på den enkelte lønmodtagers konto kan placeres heri.
 
-1) Aktiver omfattet af § 6 b, stk. 1, nr. 7-13, eller § 6 b, stk. 2, må samlet højst udgøre 70 pct.
+Stk. 2. Lønmodtagernes Dyrtidsfonds resultat for den foregående måned tilskrives de enkelte berettigede lønmodtageres konti i forhold til deres andel i formuen hensat til medlemmerne, jf. dog stk. 3.
 
-2) Aktiver omfattet af § 6 b, stk. 1, nr. 11, må samlet højst udgøre 10 pct.
+Stk. 3. Resultatet fra investeringspuljer for den foregående måned tilskrives de enkelte berettigede lønmodtageres konti i forhold til deres andel i de respektive investeringspuljers formue hensat til medlemmerne samt ved hvert puljevalg.
 
-3) Lån omfattet af § 6 b, stk. 1, nr. 12, må samlet højst udgøre 2 pct.
+Stk. 4. Ved udbetalinger til de berettigede lønmodtageres konti tilskrives resultater fra tidspunktet for seneste tilskrivning.
 
-4) Aktiver omfattet af § 6 b, stk. 1, nr. 4, 6-9, 11 og 12, udstedt eller garanteret af penge- og realkreditinstitutter, forsikringsselskaber, UCITS, kapitalforeninger eller udenlandske investeringsinstitutter omfattet af § 6 b, stk. 1, nr. 7, der for hver virksomhed og afdeling af en UCITS, en kapitalforening eller et udenlandsk investeringsinstitut udgør mere end 5 pct. af Lønmodtagernes Dyrtidsfonds aktiver, må samlet højst udgøre 40 pct.
-
-Stk. 2. Andre lån og værdipapirer omfattet af § 6 b, stk. 1, nr. 12, må højst udgøre 10 pct. af Lønmodtagernes Dyrtidsfonds aktiver.
+Stk. 5. Finanstilsynet fastsætter nærmere regler for investeringspuljer.
