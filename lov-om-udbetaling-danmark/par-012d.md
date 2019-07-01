@@ -1,4 +1,4 @@
-§ 12 d. Styrelsen for Videregående Uddannelser, Arbejdsmarkedets Tillægspension, Beskæftigelsesministeriet, Styrelsen for Arbejdsmarked og Rekruttering, Lønmodtagernes Garantifond og Arbejdsgivernes Uddannelsesbidrag kan uden samtykke fra borgeren eller arbejdsgiveren stille de nødvendige oplysninger vedrørende ansøgere og modtagere af ydelser efter de love, der er nævnt i §§ 12 b og 12 c, til rådighed for Udbetaling Danmark.
+§ 12 d. Styrelsen for Institutioner og Uddannelsesstøtte, Arbejdsmarkedets Tillægspension, Beskæftigelsesministeriet, Styrelsen for Arbejdsmarked og Rekruttering, Lønmodtagernes Garantifond og Arbejdsgivernes Uddannelsesbidrag kan uden samtykke fra borgeren eller arbejdsgiveren stille de nødvendige oplysninger vedrørende ansøgere og modtagere af ydelser efter de love, der er nævnt i §§ 12 b og 12 c, til rådighed for Udbetaling Danmark.
 
 Stk. 2. Resultaterne af samkøringer efter §§ 12 a-12 c skal udleveres til de anførte myndigheder m.v., der administrerer de enkelte love. Oplysningerne efter 1. pkt. kan udleveres uden samtykke fra borgeren eller arbejdsgiveren.
 

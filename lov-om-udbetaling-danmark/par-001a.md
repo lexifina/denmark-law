@@ -70,20 +70,24 @@
 
 34) Lov om statens voksenuddannelsesstøtte.
 
-35) Lov om uddannelsesopsparing.
+35) Lov om befordringsrabat til studerende ved videregående uddannelser.
 
-36) Lov om almene boliger m.v.
+36) Lov om befordringsrabat til uddannelsessøgende i ungdomsuddannelser m.v.
 
-37) Lov om kommunal anvisningsret.
+37) Lov om uddannelsesopsparing.
 
-38) Lov om byfornyelse og udvikling af byer.
+38) Lov om almene boliger m.v.
 
-39) § 99 a i lov om friplejeboliger.
+39) Lov om kommunal anvisningsret.
 
-40) Lov om boligsparekontrakter.
+40) Lov om byfornyelse og udvikling af byer.
 
-41) Lov om institutioner for erhvervsrettet uddannelse.
+41) § 99 a i lov om friplejeboliger.
 
-42) Lov om institutioner for almengymnasiale uddannelser og almen voksenuddannelse m.v.
+42) Lov om boligsparekontrakter.
 
-43) Lov om Sydslesvigudvalget og visse tilskudsordninger for det danske mindretal i Sydslesvig.
+43) Lov om institutioner for erhvervsrettet uddannelse.
+
+44) Lov om institutioner for almengymnasiale uddannelser og almen voksenuddannelse m.v.
+
+45) Lov om Sydslesvigudvalget og visse tilskudsordninger for det danske mindretal i Sydslesvig.
