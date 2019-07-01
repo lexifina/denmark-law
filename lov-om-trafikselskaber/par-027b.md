@@ -1,0 +1,1 @@
+§ 27 b. Rejsekort & Rejseplan A/S kan indgå aftaler i tilknytning til rejseplan- og rejsekortsystemet og dets funktioner, herunder om kommerciel anvendelse af adgang til systemet og om integration af rejsekortsystemets funktioner med andre elektroniske systemer, hvor rejsekortet kan anvendes som betaling og rejsehjemmel, og øvrige funktioner i forlængelse heraf.
