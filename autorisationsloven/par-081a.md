@@ -1,0 +1,1 @@
+§ 81 a. En person, der uden tilladelse til at betegne sig som ambulancebehandler med særlig kompetence eller paramediciner, jf. § 70 d, stk. 1, giver udtryk for at besidde en sådan tilladelse, straffes med bøde.
