@@ -16,7 +16,7 @@ Stk. 8. Godtgørelsesprocenten, jf. stk. 5 fastsættes en gang årligt og beregn
 
 Stk. 9. Tillæggene efter stk. 6 beregnes som en procentsats af den frivillige acontoskat. Procentsatsen fastsættes en gang årligt og beregnes som godtgørelsesprocenten ganget med 120/480 afrundet til en decimal.
 
-Stk. 10. Restskatteprocenten, jf. stk. 4, fastsættes en gang årligt og beregnes på grundlag af et simpelt gennemsnit af den af Danmarks Nationalbank opgjorte kassekreditrente for ikkefinansielle selskaber i månederne januar til september i indkomståret med fradrag af en andel svarende til den i § 17, stk. 1, nævnte procent. Herefter ganges procenten med 480/360 og afrundes til en decimal. Restskatteprocenten kan dog ikke overstige 10 pct.
+Stk. 10. Restskatteprocenten, jf. stk. 4, fastsættes en gang årligt og beregnes på grundlag af et simpelt gennemsnit af den af Danmarks Nationalbank opgjorte kassekreditrente for ikkefinansielle selskaber i månederne januar til september i indkomståret med fradrag af en andel svarende til den i § 17, stk. 1, nævnte procent. Herefter ganges procenten med 480/360 og afrundes til en decimal, hvorefter der tillægges 2 procentpoint. Restskatteprocenten kan dog ikke overstige 10 pct.
 
 Stk. 11. Tillægget efter stk. 7 beregnes som en procentsats af den frivillige acontoskat. Procentsatsen fastsættes en gang årligt og beregnes som procenten opgjort efter stk. 10 ganget med 70/360 afrundet til en decimal.
 
