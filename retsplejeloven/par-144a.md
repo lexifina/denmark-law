@@ -1,0 +1,3 @@
+§ 144 a. Advokatrådet opretter en ordning, hvor personer kan indberette overtrædelser eller potentielle overtrædelser af de regler, der regulerer advokathvervet. Indberetninger til ordningen skal kunne foretages anonymt.
+
+Stk. 2. Advokatsamfundets ansatte og medlemmer af Advokatrådet må ikke videregive oplysninger om en person, når vedkommende i medfør af stk. 1 har indberettet en virksomhed eller en person til rådet for overtrædelse eller potentiel overtrædelse af de regler, der regulerer advokathvervet. Straffelovens §§ 152 og 152 c-152 f finder i den forbindelse tilsvarende anvendelse på de personer, der er omtalt i 1. pkt.
