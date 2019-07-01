@@ -1,0 +1,1 @@
+§ 3 b. Private virksomheder kan efter aftale med et trafikselskab yde et tilskud til nye ruter eller ekstra afgange på eksisterende ruter til og fra virksomheden. Tilskuddet skal dække alle omkostninger forbundet hermed.
