@@ -1,4 +1,4 @@
-§ 5 a. Et ejendomskreditselskab skal have en ordning, hvor selskabets ansatte i ejendomskreditselskabet via en særlig, uafhængig og selvstændig kanal kan indberette overtrædelser eller potentielle overtrædelser af den finansielle regulering begået af ejendomskreditselskabet, herunder af ansatte eller medlemmer af bestyrelsen i ejendomskreditselskabet. Indberetninger til ordningen skal kunne foretages anonymt.
+§ 5 a. Et ejendomskreditselskab skal have en ordning, hvor selskabets ansatte i ejendomskreditselskabet via en særlig, uafhængig og selvstændig kanal kan indberette overtrædelser eller potentielle overtrædelser af den finansielle regulering begået af ejendomskreditselskabet, herunder af ansatte eller medlemmer af bestyrelsen i ejendomskreditselskabet. Indberetninger til ordningen skal kunne foretages anonymt. Ejendomskreditselskabet skal følge op på indberetninger til ordningen og skriftligt kunne dokumentere, hvordan selskabet har fulgt op på indberetningerne.
 
 Stk. 2. Ordningen i stk. 1 kan etableres via kollektiv overenskomst.
 
