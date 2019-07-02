@@ -1,7 +1,5 @@
-Givet på Fredensborg Slot, den 8. juni 2006
+Erhvervsstyrelsen, den 7. juni 2019
 
-Under Vor Kongelige Hånd og Segl
+P.M.V. Henning Steensig
 
-MARGRETHE R.
-
-/Bendt Bendtsen
+/ Søren Corfixsen Whitt
