@@ -1,0 +1,5 @@
+§ 14 d. SCE-selskaber, der skal indhente, opbevare og registrere oplysninger om reelle ejere, jf. § 14 a, skal efter anmodning forsyne personer og virksomheder, der i medfør af hvidvaskloven skal udføre kundekendskabsprocedurer, med oplysninger om deres ejerforhold.
+
+Stk. 2. Modtager Erhvervsstyrelsen indberetninger i medfør af hvidvaskloven om uoverensstemmelser i forhold til de registrerede oplysninger om et SCE-selskabs reelle ejere, foretager Erhvervsstyrelsen en undersøgelse af forholdet, jf. denne lovs § 14 a, stk. 6, og § 15 c, stk. 1, i lov om visse erhvervsdrivende virksomheder. Erhvervsstyrelsen kan over for selskabet fastsætte en frist for forholdets berigtigelse.
+
+Stk. 3. Erhvervsstyrelsen kan sideløbende med undersøgelsen, jf. stk. 2, offentliggøre en meddelelse om indberetningen i Erhvervsstyrelsens it-system. SCE-selskabet skal have mulighed for at gøre indsigelse mod indberetningen, forinden denne offentliggøres, medmindre formålet med offentliggørelsen af meddelelsen om indberetning derved forspildes.

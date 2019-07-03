@@ -1,0 +1,1 @@
+§ 14 c. Ved etablering af et SCE-selskab skal der senest samtidig med registreringen af SCE-selskabet, jf. § 14, indhentes og registreres oplysninger om selskabets reelle ejere, herunder oplysninger om de reelle ejeres rettigheder.
