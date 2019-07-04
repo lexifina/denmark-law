@@ -1,7 +1,5 @@
-Erhvervsministeriet, den 17. april 1997
+Erhvervsstyrelsen, den 1. juli 2019
 
-Jan Trøjborg
+P.M.V. Henning Steensig
 
-/ Ole Blondal
-
-Ingen
+/ Søren Corfixsen Whitt
