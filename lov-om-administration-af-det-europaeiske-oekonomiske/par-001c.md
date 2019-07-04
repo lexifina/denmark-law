@@ -1,0 +1,1 @@
+§ 1 c. Ved etablering af en europæisk økonomisk firmagruppe skal der senest samtidig med registreringen af firmagruppen indhentes og registreres oplysninger om firmagruppens reelle ejere, herunder oplysninger om de reelle ejeres rettigheder.
