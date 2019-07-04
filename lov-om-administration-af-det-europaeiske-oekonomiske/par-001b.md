@@ -1,0 +1,1 @@
+§ 1 b. Som reel ejer anses den eller de fysiske personer, der i sidste ende direkte eller indirekte ejer eller kontrollerer en tilstrækkelig del af ejerandelene eller stemmerettighederne, eller som på anden måde udøver kontrol.
