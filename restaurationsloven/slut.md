@@ -1,5 +1,5 @@
-Økonomi- og Erhvervsministeriet, den 18. januar 2010
+Erhvervsstyrelsen, den 5. juli 2019
 
-Lene Espersen
+P.M.V. Henning Steensig
 
-/ Niels Henrik Englev
+/ Søren Corfixsen Whitt
