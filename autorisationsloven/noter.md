@@ -11,3 +11,13 @@
 6) For så vidt angår lov om autorisation af sundhedspersoner og om sundhedsfaglig virksomhed angår lovændringen §§ 2, 3 og 5.
 
 7) For så vidt angår lov om autorisation af sundhedspersoner og om sundhedsfaglig virksomhed angår lovændringen §§ 1, 49, 52, kap. 24 a, 78, 79 og 89.
+
+8) For så vidt angår lov om autorisation af sundhedspersoner og om sundhedsfaglig virksomhed angår lovændringen §§ 1, 4, 21, kap. 24 c-d, 78-79 og 81 a.
+
+9) Lovændringen vedrører kapitel 25 a og § 79 a.
+
+10) Lovændringen vedrører §§ 74, 74 a og 79 b.
+
+11) For så vidt angår lov om autorisation af sundhedspersoner og om sundhedsfaglig virksomhed angår lovændringen § 41.
+
+12) For så vidt angår lov om autorisation af sundhedspersoner og om sundhedsfaglig virksomhed angår lovændringen § 74.
