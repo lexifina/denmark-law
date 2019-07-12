@@ -46,7 +46,7 @@ Stk. 2. Lovens § 1, nr. 3-5, 14, 15, 17, 18, 20, 22, 23, 24 og 25, og lovens §
 
 Stk. 3. (Udelades)
 
-Stk. 4. Tilsynsrapporter offentliggjort i henhold til regler fastsat i medfør af sundhedslovens § 215 a, stk. 8, 5. pkt., og § 219, stk. 6, 2. pkt., jf. lovbekendtgørelse nr. 1202 af 14. november 2014 med senere ændringer, og § 71, stk. 6, i lov om autorisation af sundhedspersoner og om sundhedsfaglig virksomhed, jf. lovbekendtgørelse nr. 877 af 4. august 2011 med senere ændringer, før lovens ikrafttræden, jf. stk. 2, forbliver offentliggjort efter gældende regler, dog højst 3 år i alt.
+Stk. 4. (Udelades)
 
 Stk. 5. En autoriseret sundhedsperson kan ikke fratages autorisationen, jf. § 7 a i lov om autorisation af sundhedspersoner og om sundhedsfaglig virksomhed som affattet ved denne lovs § 2, nr. 3, som følge af at den pågældende før lovens ikrafttræden, jf. stk. 1, ikke har overholdt et fagligt påbud, en varig indskrænkning af virksomhedsområde eller en midlertidig autorisationsfratagelse, jf. § 7, stk. 2, 1. pkt., § 7, stk. 2, 3. pkt., og § 8, stk. 1, i lov om autorisation af sundhedspersoner og om sundhedsfaglig virksomhed, jf. lovbekendtgørelse nr. 877 af 4. august 2011 med senere ændringer.
 
@@ -74,7 +74,7 @@ Lov nr. 1734 af 27. december 2016 (Ændring af kiropraktorers forbeholdte virkso
 
 Loven træder i kraft den 1. juli 2017.
 
-Lov nr. 113 af 31. januar 2017 (Etablering af en bisidderordning og praktiserende kiropraktorers mulighed for henvisning til billeddiagnostiske undersøgelser samt kvalitetsarbejde m.v.) indeholder følgende ikrafttrædelsesbestemmelser:
+Lov nr. 113 af 31. januar 2017 (Etablering af en bisidderordning og praktiserende kiropraktorers mulighed for henvisning til billeddiagnostiske undersøgelser samt kvalitetsarbejde m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
 
 § 5
 
@@ -82,11 +82,7 @@ Stk. 1. Loven træder i kraft den 1. februar 2017, jf. dog stk. 2.
 
 Stk. 2. (Udelades)
 
-§ 6
-
-Lovens §§ 1, 3 og 4 gælder ikke for Færøerne og Grønland.
-
-Lov nr. 727 af 8. juni 2018 (Autorisation af osteopater, udvidelse af tandlægernes virksomhedsområde m.v.) indeholder følgende ikrafttrædelsesbestemmelser:
+Lov nr. 727 af 8. juni 2018 (Autorisation af osteopater, udvidelse af tandlægernes virksomhedsområde m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
 
 § 3
 
@@ -96,6 +92,56 @@ Stk. 2. Personer, der ved lovens ikrafttræden udøver virksomhed som osteopat h
 
 Stk. 3. Retten til fortsat at betegne sig som osteopat i medfør af stk. 2 giver ikke ret til at udføre manipulationsbehandling af rygsøjlen, jf. § 52, stk. 5, i lov om autorisation af sundhedspersoner og om sundhedsfaglig virksomhed, uden autorisation.
 
-§ 4
+Lov nr. 1555 af 18. december 2018 (Autorisation af ambulancebehandlere og registrering af ambulancebehandlere med særlig kompetence (paramedicinere), opgavespecifik autorisation af behandlerfarmaceuter, genordination af receptpligtig medicin, ordination af dosisdispensering med tilskud, organisatorisk ansvar m.v.) indeholder følgende ikrafttrædelses- og overgangsbestemmelser:
 
-Loven gælder ikke for Færøerne og Grønland, men kan ved kongelig anordning sættes helt eller delvis i kraft for Færøerne med de ændringer, som de færøske forhold tilsiger.
+§ 6
+
+Stk. 1. Loven træder i kraft den 1. juli 2019, jf. dog stk. 2 og 3.
+
+Stk. 2. § 70 e i lov om autorisation af sundhedspersoner og om sundhedsfaglig virksomhed som affattet ved denne lovs § 1, nr. 4, træder i kraft den 1. januar 2019.
+
+Stk. 3. (Udelades)
+
+§ 7
+
+Stk. 1. Personer, der ved lovens ikrafttræden udøver virksomhed som ambulancebehandler i Danmark, kan uden autorisation fortsat betegne sig som ambulancebehandler frem til og med den 30. juni 2024.
+
+Stk. 2. Personer, der ved lovens ikrafttræden udøver virksomhed som ambulancebehandler med særlig kompetence (paramediciner) i Danmark, kan uden autorisation og særlig tilladelse fortsat betegne sig som ambulancebehandler med særlig kompetence og paramediciner frem til og med den 30. juni 2024.
+
+Stk. 3. Personer, der har gennemført en udenlandsk uddannelse og ved lovens ikrafttræden udøver virksomhed som ambulancebehandler eller ambulancebehandler med særlig kompetence (paramediciner) i Danmark på baggrund af en godkendelse fra Styrelsen for Patientsikkerhed, kan efter ansøgning til Styrelsen for Patientsikkerhed meddeles autorisation som ambulancebehandler på baggrund af styrelsens tidligere godkendelse.
+
+Stk. 4. Personer, der har gennemført en udenlandsk uddannelse og ved lovens ikrafttræden udøver virksomhed som ambulancebehandler med særlig kompetence (paramediciner) i Danmark på baggrund af en godkendelse fra Styrelsen for Patientsikkerhed, kan efter ansøgning til Styrelsen for Patientsikkerhed meddeles tilladelse til at betegne sig som ambulancebehandler med særlig kompetence og paramediciner på baggrund af styrelsens tidligere godkendelse.
+
+Stk. 5. Ansøgninger efter stk. 3 og 4 skal indgives senest den 30. juni 2024.
+
+Lov nr. 502 af 1. maj 2019 (Forbud mod konstruktion af en kunstig hymen (jomfruhinde)) indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 2
+
+Loven træder i kraft den 1. juli 2019.
+
+Lov nr. 503 af 1. maj 2019 (Regulering af nåleakupunktur på brystkassen) indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 2
+
+Stk. 1. Loven træder i kraft den 1. juli 2019.
+
+Stk. 2. Den, der ved lovens ikrafttræden udøver virksomhed med nåleakupunktur på brystkassen, kan uden at have gennemført det i § 74 a, stk. 2, nr. 3, i lov om autorisation af sundhedspersoner og om sundhedsfaglig virksomhed nævnte kursus fortsat foretage nåleakupunktur på brystkassen frem til den 30. juni 2021. Tilsvarende gælder for den, der etablerer sig som akupunktør efter lovens ikrafttræden og inden den 30. juni 2021.
+
+Stk. 3. Ikkeautoriserede sundhedspersoner, der ved lovens ikrafttræden udøver virksomhed med nåleakupunktur på brystkassen, kan uden at have gennemført den i § 74 a, stk. 3, 2. pkt., i lov om autorisation af sundhedspersoner og om sundhedsfaglig virksomhed nævnte sundhedsmæssige uddannelse fortsat foretage nåleakupunktur på brystkassen frem til den 30. juni 2024. Tilsvarende gælder for ikkeautoriserede sundhedspersoner, der etablerer sig som akupunktør efter lovens ikrafttræden og inden den 30. juni 2024.
+
+Lov nr. 506 af 1. maj 2019 (Udarbejdelse af udskrivningsaftaler og koordinationsplaner og sikring af straksbehandling af akutte abstinenser hos personer med et stofmisbrug) indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 3
+
+Stk. 1. Loven træder i kraft den 1. juli 2019.
+
+Stk. 2. (Udelades)
+
+Lov nr. 507 af 1. maj 2019 (Styrket indsats på høreapparatområdet) indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 3
+
+Stk. 1. Loven træder i kraft den 1. juli 2019, jf. dog stk. 2.
+
+Stk. 2. (Udelades)

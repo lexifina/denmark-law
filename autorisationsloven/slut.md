@@ -1,5 +1,5 @@
-Sundheds- og Ældreministeriet, den 13. september 2018
+Sundheds- og Ældreministeriet, den 8. juli 2019
 
-Ellen Trane Nørby
+Magnus Heunicke
 
-/ Cecilie Salejärvi Pedersen
+/ Katrine Bisballe
