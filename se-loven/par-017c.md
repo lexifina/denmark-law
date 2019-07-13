@@ -1,0 +1,1 @@
+§ 17 c. Ved etablering af et SE-selskab skal der senest samtidig med registreringen af SE-selskabet, jf. § 16, indhentes og registreres oplysninger om selskabets reelle ejere, herunder oplysninger om de reelle ejeres rettigheder.
