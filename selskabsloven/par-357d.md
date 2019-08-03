@@ -1,1 +1,1 @@
-§ 357 d. Et iværksætterselskabs omregistrering til anpartsselskab anses for sket, når selskabets vedtægter, hvad angår kapital og selskabsbetegnelse, er ændret, således at de opfylder de sædvanlige krav til anpartsselskaber, og omregistreringen er registreret i Erhvervsstyrelsens it-system. Som led i omregistreringen overføres reserven til opbygning af selskabets kapitalgrundlag til selskabskapitalen.
+§ 357 d. (Ophævet)
