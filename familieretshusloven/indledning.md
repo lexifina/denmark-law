@@ -1,5 +1,3 @@
-Lov om Familieretshuset
+Bekendtgørelse af lov om Familieretshuset
 
-VI MARGRETHE DEN ANDEN, af Guds Nåde Danmarks Dronning, gør vitterligt:
-
-Folketinget har vedtaget og Vi ved Vort samtykke stadfæstet følgende lov:
+Herved bekendtgøres lov nr. 1702 af 27. december 2018 om Familieretshuset med de ændringer, der følger af § 2 i lov nr. 203 af 5. marts 2019.
