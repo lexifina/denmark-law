@@ -1,4 +1,4 @@
-Lov nr. 349 af 6. maj 2009 (Terminaladgang til økonomiske oplysninger, klagefrist m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
+Lov nr. 349 af 6. maj 2009 (Terminaladgang til økonomiske oplysninger, klagefrist m.v.) indeholder følgende ikrafttrædelses- og overgangsbestemmelse:
 
 § 5
 
@@ -8,7 +8,7 @@ Stk. 2. (Udelades)
 
 Stk. 3. § 21, stk. 2, i lov om børns forsørgelse, som affattet ved denne lovs § 1, nr. 4, § 52 a, stk. 2, i lov om ægteskabets retsvirkninger, som affattet ved denne lovs § 2, nr. 2, og § 58 a, stk. 2, i lov om ægteskabs indgåelse og opløsning, som affattet ved denne lovs § 3, nr. 5, finder kun anvendelse for afgørelser som statsforvaltningen træffer efter lovens ikrafttræden.
 
-Lov nr. 647 af 12. juni 2013 (Ændret organisering af statsforvaltningerne, regelforenklinger og omkostningsdækkende egenbetaling på det familieretlige område m.v.) indeholder følgende ikrafttrædelsesbestemmelser:
+Lov nr. 647 af 12. juni 2013 (Ændret organisering af statsforvaltningerne, regelforenklinger og omkostningsdækkende egenbetaling på det familieretlige område m.v.) indeholder følgende ikrafttrædelses- og overgangsbestemmelser:
 
 § 25
 
@@ -26,26 +26,30 @@ Stk. 4. (Udelades)
 
 Stk. 5. Lovens § 18, nr. 2, § 19, nr. 1, og § 20, nr. 7, finder kun anvendelse for afgørelser, som statsforvaltningen træffer efter lovens ikrafttræden.
 
-Lov nr. 575 af 10. juni 2014 (Regelforenklinger og effektiviseringer på børnebidragsområdet) indeholder følgende ikrafttrædelsesbestemmelse:
+Lov nr. 1711 af 27. december 2018 (Ændringer som følge af lov om Familieretshuset og skærpet fokus på beskyttelsen af barnet i sager efter forældreansvarsloven) som ændret ved § 3 i lov nr. 203 af 5. marts 2019 indeholder følgende ikrafttrædelses- og overgangsbestemmelser:
 
-§ 2
+Ikrafttræden
 
-Stk. 1. Loven træder i kraft den 1. juli 2014.
+§ 40
 
-Stk. 2. Loven finder ikke anvendelse på ansøgninger om bidrag efter §§ 14, 15 og 19 i lov om børns forsørgelse, som er indgivet til statsforvaltningen inden lovens ikrafttræden. For sådanne ansøgninger finder de hidtil gældende regler anvendelse.
+Stk. 1. Loven træder i kraft den 1. april 2019, jf. dog stk. 2-4.
 
-Lov nr. 1741 af 22. december 2015 (Ankestyrelsen som familieretlig klagemyndighed m.v.) indeholder følgende ikrafttrædelsesbestemmelser:
+Stk. 2-5. (Udelades)
 
-§ 12
+Overgangsbestemmelser
 
-Loven træder i kraft den 1. januar 2016.
+§ 41
 
-§ 13
+Stk. 1. (Udelades)
 
-Stk. 1. Sager, der er under behandling hos social- og indenrigsministeren efter en af de i §§ 1-8, 10 og 11 nævnte love, hvor Ankestyrelsen efter denne lovs ikrafttræden behandler sådanne sager, og hvor sagerne ikke er færdigbehandlet ved lovens ikrafttræden, færdigbehandles af Ankestyrelsen.
+Stk. 2. § 21, stk. 2, i lov om børns forsørgelse, jf. lovbekendtgørelse nr. 1815 af 23. december 2015, og § 61, stk. 2, i lov nr. 548 af 30. maj 2017 om ægtefællers økonomiske forhold finder anvendelse for afgørelser, som Statsforvaltningen har truffet før lovens ikrafttræden. Afgørelse efter § 21, stk. 2, 2. pkt., i lov om børns forsørgelse, jf. lovbekendtgørelse nr. 1815 af 23. december 2015, og § 61, stk. 2, 2. pkt., i lov nr. 548 af 30. maj 2017 om ægtefællers økonomiske forhold træffes efter lovens ikrafttræden af familieretten, hvis afgørelse ikke kan indbringes for højere ret.
 
-Stk. 2. Anmodning om genoptagelse af afgørelser, herunder afgørelser om aktindsigt og afgørelser om sagsbehandlingen, der er truffet af social- og indenrigsministeren i sager efter en af de i §§ 1-8, 10 og 11 nævnte love, og hvor Ankestyrelsen efter denne lovs ikrafttræden træffer afgørelse i sådanne sager, indgives til og behandles af Ankestyrelsen.
+Stk. 3-9. (Udelades)
 
-Stk. 3 Stk. 2 finder tilsvarende anvendelse på alle andre former for henvendelser i de sager, der er nævnt i stk. 2.
+§ 42
 
-Stk. 4 Anmodning om aktindsigt i sager, som social- og indenrigsministeren har behandlet efter en af de i §§ 1-8, 10 og 11 nævnte love, og hvor Ankestyrelsen efter denne lovs ikrafttræden behandler sådanne sager, indgives til og behandles af Ankestyrelsen.
+(Udelades)
+
+§ 43
+
+(Udelades)
