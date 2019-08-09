@@ -1,7 +1,5 @@
-Givet på Amalienborg, den 30. maj 2017
+Social- og Indenrigsministeriet, den 7. august 2019
 
-Under Vor Kongelige Hånd og Segl
+P.M.V. Malene Vestergaard
 
-MARGRETHE R.
-
-/ Mai Mercado
+/ Carina Fogt-Nielsen
