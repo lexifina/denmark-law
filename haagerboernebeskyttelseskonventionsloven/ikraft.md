@@ -1,7 +1,23 @@
-Lov nr. 325 af 11. april 2012 (Adgang til, at en dommer m.fl. kan færdigbehandle sager, der er påbegyndt, før den pågældende skal fratræde på grund af alder, visse ændringer af reglerne om behandling af sager om mindre krav, udelukkelse af sigtedes adgang til at være til stede under indenretlige videoafhøringer af børn m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
+Lov nr. 1711 af 27. december 2018 (Ændringer som følge af lov om Familieretshuset og skærpet fokus på beskyttelsen af barnet i sager efter forældreansvarsloven) indeholder følgende ikrafttrædelses- og overgangsbestemmelser:
 
-§ 6.
+Ikrafttræden
 
-Stk. 1. Loven træder i kraft den 1. maj 2012 [. . . ].
+§ 40
 
-Stk. 2-6. (Udelades)
+Stk. 1. Loven træder i kraft den 1. april 2019, jf. dog stk. 2-4.
+
+Stk. 2-5. (Udelades)
+
+Overgangsbestemmelser
+
+§ 41
+
+(Udelades)
+
+§ 42
+
+(Udelades)
+
+§ 43
+
+(Udelades)

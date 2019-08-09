@@ -1,3 +1,3 @@
 Bekendtgørelse af lov om Haagerbørnebeskyttelseskonventionen
 
-Herved bekendtgøres lov nr. 434 af 8. maj 2006 om Haagerbørnebeskyttelseskonventionen med den ændring, der følger af § 4 i lov nr. 325 af 11. april 2012.
+Herved bekendtgøres lov om Haagerkonventionen, jf. lovbekendtgørelse nr. 1055 af 8. september 2015, med de ændringer, der følger af § 11 i lov nr. 1711 af 27. december 2018.
