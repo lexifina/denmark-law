@@ -83,3 +83,33 @@ Lov nr. 1565 af 19. december 2017 (Erhvervskandidatuddannelse) indeholder følge
 § 5
 
 Loven træder i kraft den 1. januar 2018.
+
+Lov nr. 311 af 25. april 2018 om Studievalg Danmark indeholder følgende ikrafttrædelses- og overgangsbestemmelse:
+
+§ 10. Loven træder i kraft den 1. maj 2018, jf. dog stk. 2.
+
+Stk. 2. §§ 2-5, 7-9 og 11-17 træder i kraft den 1. august 2018.
+
+Stk. 3. Sager, hvor myndighedsansvaret overgår til Studievalg Danmark efter denne lov, og som ikke er afgjort eller afsluttet inden den 1. august 2018, behandles færdige i Studievalg Danmark.
+
+Stk. 4. Regler fastsat i medfør af § 1, stk. 1-4, i lov om adgangsregulering ved videregående uddannelser, jf. lovbekendtgørelse nr. 1035 af 30. august 2017, forbliver i kraft, indtil de ophæves eller afløses af forskrifter udstedt i medfør af denne lov.
+
+Stk. 5. Regler fastsat i medfør af § 9, stk. 3, i universitetsloven, jf. lovbekendtgørelse nr. 261 af 18. marts 2015, som ændret senest ved § 1 i lov nr. 1565 af 19. december 2017 forbliver i kraft, indtil de ophæves eller afløses af forskrifter udstedt i medfør af denne lov.
+
+Lov nr. 737 af 8. juni 2018 (Opfølgning på nyt bevillingssystem for de videregående uddannelser m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 8
+
+Loven træder i kraft den 1. januar 2019.
+
+Lov nr. 511 af 1. maj 2019 (Akademisk overbygningsuddannelse, særlig anvendelse af adgangsprøver til universitetsuddannelser, bachelorers ret til optagelse på en kandidatuddannelse m.v.) inderholder følgende ikrafttrædelsesbestemmelse:
+
+§ 6
+
+Stk. 1. Loven træder i kraft den 1. juli 2019, jf. dog stk. 2.
+
+Stk. 2. § 4, nr. 2, og § 5, nr. 1, træder i kraft den 1. august 2019.
+
+Stk. 3. § 1, nr. 16, har virkning fra den 1. januar 2019.
+
+Stk. 4. Regler udstedt i medfør af universitetslovens § 3, stk. 1, 4. pkt., jf. lovbekendtgørelse nr. 172 af 27. februar 2018, forbliver i kraft, indtil de ophæves eller afløses af regler udstedt i medfør af universitetslovens § 3, stk. 4, jf. denne lovs § 1, nr. 4.
