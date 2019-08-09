@@ -1,7 +1,5 @@
-Givet på Christiansborg Slot, den 7. juni 2006
+Social- og Indenrigsministeriet, den 7. august 2019
 
-Under Vor Kongelige Hånd og Segl
+P.M.V. Malene Vestergaard
 
-I Dronningens Navn: FREDERIK Kronprins
-
-/Lars Barfoed
+/ Carina Fogt-Nielsen
