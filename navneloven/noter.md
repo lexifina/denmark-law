@@ -1,5 +1,1 @@
-1) Herunder navneloven, jf. § 8 i lov nr. 1741 af 22. december 2015.
-
-2) Se note 1.
-
-3) Se note 1.
+1) § 24, stk. 2, i lov nr. 1533 af 19. december 2017 om trossamfund uden for folkekirken indeholder følgende bestemmelse: Lovens §§ 23 og 27 træder i kraft den 1. januar 2023. Indtil §§ 23 og 27 træder i kraft, er det kun de trossamfund, der er anerkendt ved kongelig resolution før den 1. januar 1970, der kan føre ministerialbøger og udstede navne-, dåbs- og vielsesattester, ligesom bestemmelsen om anerkendte trossamfund i § 18 i navneloven, jf. lovbekendtgørelse nr. 1816 af 23. december 2015, kun finder anvendelse for disse trossamfund.
