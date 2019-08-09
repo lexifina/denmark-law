@@ -1,21 +1,23 @@
-Lov nr. 434 af 8. maj 2006 om Haagerbørnebeskyttelseskonventionen indeholder følgende ikrafttrædelsesbestemmelser:
+Lov nr. 1711 af 27. december 2018 (Ændringer som følge af lov om Familieretshuset og skærpet fokus på beskyttelsen af barnet i sager efter forældreansvarsloven) indeholder følgende ikrafttrædelses- og overgangsbestemmelser:
 
-§ 15.
+Ikrafttræden
 
-Stk. 1. Loven træder i kraft den 1. januar 2007, jf. dog stk. 2 og 3.
+§ 40
 
-Stk. 2. Lovens § 7, nr. 1, og § 13 træder i kraft den 1. juli 2006.
+Stk. 1. Loven træder i kraft den 1. april 2019, jf. dog stk. 2-4.
 
-Stk. 3. (Udelades)
+Stk. 2-5. (Udelades)
 
-Lov nr. 500 af 6. juni 2007 (Behandling af retssager om forældremyndighed og tvangsfuldbyrdelse) indeholder følgende ikrafttrædelsesbestemmelse:
+Overgangsbestemmelser
 
-§ 7
+§ 41
 
-Loven træder i kraft den 1. oktober 2007.
+(Udelades)
 
-Lov nr. 378 af 27. april 2016 (Øget fleksibilitet i anvendelsen af retshjælpsordningen i børnebortførelsessager) indeholder følgende ikrafttrædelsesbestemmelse:
+§ 42
 
-§ 2
+(Udelades)
 
-Loven træder i kraft den 1. juni 2016.
+§ 43
+
+(Udelades)
