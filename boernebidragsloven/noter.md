@@ -1,5 +1,1 @@
-1) Herunder lov om børns forsørgelse, jf. § 4 i lov nr. 1741 af 22. december 2015.
-
-2) Se note 1.
-
-3) Se note 1.
+1) § 3 i lov nr. 203 af 5. marts 2019 trådte i kraft den 25. marts 2019, jf. § 4, stk. 2, i lov nr. 203 af 5. marts 2019.
