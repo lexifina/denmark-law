@@ -1,3 +1,3 @@
 Bekendtgørelse af lov om maritime uddannelser
 
-Herved bekendtgøres lov om maritime uddannelser, jf. lovbekendtgørelse nr. 660 af 16. maj 2015, med de ændringer, der følger af § 4 i lov nr. 411 af 11. maj 2016, § 21 i lov nr. 1746 af 27. december 2016, § 5 i lov nr. 435 af 8. maj 2017 og § 5 i lov nr. 700 af 8. juni 2017.
+Herved bekendtgøres lov om maritime uddannelser, jf. lovbekendtgørelse nr. 164 af 27. februar 2018, med de ændringer, der følger af § 15 i lov nr. 311 af 25. april 20018, § 5 i lov nr. 737 af 8. juni 2018 og § 3 i lov nr. 511 af 1. maj 2019.
