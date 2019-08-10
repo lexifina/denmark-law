@@ -1,33 +1,3 @@
-Lov nr. 623 af 12. juni 2013 (Konsekvensændringer som følge af lov om akkreditering af videregående uddannelsesinstitutioner) indeholder følgende ikrafttrædelsesbestemmelse:
-
-§ 5
-
-Loven træder i kraft den 1. juli 2013.
-
-Lov nr. 898 af 4. juli 2013 (Obligatorisk tilmelding til fag og prøver svarende til et fuldt studieår, afskaffelse af muligheden for at melde fra prøver, etablering af bedre rammer for merit ved studieophold på en anden institution eller studieskift og bedre overgange mellem bachelor- og kandidatuddannelser m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
-
-§ 6
-
-Stk. 1. Loven træder i kraft den 15. juli 2013, jf. dog stk. 2.
-
-Stk. 2-4. (Udelades)
-
-Lov nr. 750 af 25. juni 2014 (Initiativer for særlig talentfulde studerende) indeholder følgende ikrafttrædelsesbestemmelse:
-
-§ 7
-
-Stk. 1. Loven træder i kraft den 1. juli 2014, jf. dog stk. 2.
-
-Stk. 2. (Udelades)
-
-Lov nr. 633 af 12. maj 2015 (Statens uddannelsesstøtte til supplering i forbindelse med adgangskurset til ingeniøruddannelserne, hjemmel til elektronisk at indhente oplysninger fra indkomstregisteret og til at samkøre og sammenstille oplysningerne i kontroløjemed m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
-
-§ 5
-
-Stk. 1. Loven træder i kraft den 1. juni 2015, jf. dog stk. 2.
-
-Stk. 2. § 1, nr. 5, 10 og 11, træder i kraft den 1. juli 2015 og har virkning for hjemmeboende, der er påbegyndt eller påbegynder ny uddannelse den 1. juli 2014 eller senere.
-
 Lov nr. 411 af 11. maj 2016 (Justering af fremdriftsreformen m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
 
 § 6
@@ -47,3 +17,25 @@ Lov nr. 435 af 8. maj 2017 (Lønnede projektorienterede forløb i visse lande og
 Stk. 1. Loven træder i kraft den 1. juli 2017.
 
 Stk. 2. Regler fastsat i medfør af § 10, stk. 5, i lov om videregående kunstneriske uddannelsesinstitutioner, jf. lovbekendtgørelse nr. 59 af 26. januar 2015, som ændret ved § 3 i lov nr. 411 af 11. maj 2016 forbliver i kraft, indtil de ophæves eller afløses af forskrifter udstedt i medfør af denne lov.
+
+Lov nr. 311 af 25. april 2018 om Studievalg Danmark indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 10. Loven træder i kraft den 1. maj 2018, jf. dog stk. 2.
+
+Stk. 2. §§ 2-5, 7-9 og 11-17 træder i kraft den 1. august 2018.
+
+Stk. 3-5. (Udelades)
+
+Lov nr. 737 af 8. juni 2018 (Opfølgning på nyt bevillingssystem for de videregående uddannelser m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 8
+
+Loven træder i kraft den 1. januar 2019.
+
+Lov nr. 511 af 1. maj 2019 (Akademisk overbygningsuddannelse, særlig anvendelse af adgangsprøver til universitetsuddannelser, bachelorers ret til optagelse på en kandidatuddannelse m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 6
+
+Stk. 1. Loven træder i kraft den 1. juli 2019, jf. dog stk. 2.
+
+Stk. 2-4. (Udelades)
