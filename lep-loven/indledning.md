@@ -1,3 +1,3 @@
 Bekendtgørelse af lov om erhvervsakademiuddannelser og professionsbacheloruddannelser
 
-Herved bekendtgøres lov om erhvervsakademiuddannelser og professionsbacheloruddannelser, jf. lovbekendtgørelse nr. 1147 af 23. oktober 2014, med de ændringer, der følger af § 2 i lov nr. 633 af 12. maj 2015, § 2 i lov nr. 411 af 11. maj 2016 og § 2 i lov nr. 435 af 8. maj 2017.
+Herved bekendtgøres lov om erhvervsakademiuddannelser og professionsbacheloruddannelser, jf. lovbekendtgørelse nr. 986 af 18. august 2017, med de ændringer, der følger af § 13 i lov nr. 311 af 25. april 2018, § 6 i lov nr. 737 af 8. juni 2018 og § 2 i lov nr. 511 af 1. maj 2019.
