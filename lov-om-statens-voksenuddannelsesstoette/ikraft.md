@@ -1,39 +1,3 @@
-Lov nr. 275 af 25. marts 2015 (Forenkling af ordningen vedrørende statens voksenuddannelsesstøtte) indeholder følgende ikrafttrædelses- og overgangsbestemmelse:
-
-§ 5
-
-Stk. 1. Loven træder i kraft den 1. april 2015.
-
-Stk. 2. Loven finder ikke anvendelse for ansøgninger om SVU, der er modtaget inden lovens ikrafttræden. For sådanne ansøgninger finder de hidtil gældende regler anvendelse.
-
-Lov nr. 511 af 31. maj 2016 (Målretning af målgruppen og nedsættelse af satsen for SVU til videregående uddannelse) indeholder følgende ikrafttrædelses- og overgangsbestemmelse:
-
-§ 2
-
-Stk. 1. Loven træder i kraft den 1. juli 2016.
-
-Stk. 2. Loven finder ikke anvendelse for ansøgninger om SVU, der er modtaget inden lovens ikrafttræden. For sådanne ansøgninger finder de hidtil gældende regler anvendelse.
-
-Lov nr. 628 af 8. juni 2016 (Overførsel af opgaver fra Statens Administrations Finansservicecenter m.fl. til Udbetaling Danmark m.v.) indeholder følgende ikrafttrædelses- og overgangsbestemmelse:
-
-§ 54
-
-Stk. 1. Loven træder i kraft den 1. oktober 2016, jf. dog stk. 2 og 3.
-
-Stk. 2. § 1, nr. 22 og 23, træder i kraft den 1. januar 2017.
-
-Stk. 3. § 1, nr. 24-28, træder i kraft dagen efter bekendtgørelsen i Lovtidende og har virkning fra den 1. oktober 2012.
-
-Lov nr. 674 af 8. juni 2017 (Blokering af hjemmesider og stop af offentlige ydelser til fremmedkrigere) indeholder følgende ikrafttrædelses- og overgangsbestemmelse:
-
-§ 17
-
-Stk. 1. Loven træder i kraft dagen efter bekendtgørelsen i Lovtidende.
-
-Stk. 2. Lovens §§ 2-16 finder ikke anvendelse for afgørelser om inddragelse af pas, der er truffet inden lovens ikrafttræden, og domme, der vedrører forhold begået inden lovens ikrafttræden.
-
-Stk. 3. (Udelades)
-
 Lov nr. 1693 af 26. december 2017 (Nedsættelse af VEU-bidrag, forbedret praktikbonus til arbejdsgivere og forhøjelse af VEU-godtgørelse og Statens Voksenuddannelsesstøtte (SVU) m.v.) indeholder følgende ikrafttrædelses- og overgangsbestemmelse:
 
 § 5
@@ -49,3 +13,31 @@ Stk. 5. § 13, stk. 1, i lov om statens voksenuddannelsesstøtte som affattet ve
 Stk. 6. (Udelades)
 
 Stk. 7. § 13, stk. 1, i lov om statens voksenuddannelsesstøtte som affattet ved denne lovs § 3, nr. 3, har ikke virkning for ansøgninger om statens voksenuddannelsesstøtte til forberedende voksenundervisning eller ordblindeundervisning for voksne, der indgives før den 1. januar 2022, og for forberedende voksenundervisning eller ordblindeundervisning for voksne, der er påbegyndt før den 1. januar 2022. For sådanne ansøgninger og sådan undervisning finder de hidtil gældende regler anvendelse.
+
+Lov nr. 1569 af 18. december 2018 (Sammenlægning af flere krav om tilbagebetaling af SU eller SVU til ét tilbagebetalingskrav og forhøjelse af fribeløb under lønnet praktik på uddannelsen til transportbetjent) indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 3
+
+Stk. 1. Loven træder i kraft den 1. januar 2019.
+
+Stk. 2. (Udelades)
+
+Stk. 3. Lovens § 1, nr. 2, og § 2 har virkning for krav om tilbagebetaling af støtte, der vedrører udbetalinger af støtte for kalenderåret 2019 og derefter.
+
+Lov nr. 1701 af 27. december 2018 (Styrket og mere fleksibel voksen-, efter- og videreuddannelse og flytning af administrationen af VEU-godtgørelsen m.v. til Arbejdsgivernes Uddannelsesbidrag) indeholder følgende ikrafttrædelses- og overgangsbestemmelser:
+
+§ 14
+
+Stk. 1. Loven træder i kraft den 1. januar 2019, jf. dog stk. 2-4.
+
+Stk. 2. § 1, nr. 5, 11, 14, 16, 23, 27 og 29, § 2, nr. 2, 4, 6, 8, 10, 13 og 15, § 4, nr. 14, § 5, nr. 8, og § 8, nr. 3, 5, 8 og 10, træder i kraft den 1. januar 2022.
+
+Stk. 3. (Udelades)
+
+Stk. 4. § 5, nr. 10, § 8, nr. 6 og 11, og § 9, nr. 3, ophæves den 1. januar 2022.
+
+§ 15
+
+Stk. 1. § 1, nr. 5, 11, 14, 16, 23, 27 og 29, § 2, nr. 2, 4, 6, 8, 10, 13 og 15, § 4, nr. 14, § 5, nr. 8, og § 8, nr. 3 og 5, finder ikke anvendelse for uddannelser, der er påbegyndt eller påbegyndes i perioden fra den 1. januar 2019 til den 31. december 2021. For sådanne uddannelser finder de bestemmelser, som træder i kraft den 1. januar 2019, jf. § 14, stk. 1, eller på et senere tidspunkt i medfør af § 14, stk. 3, anvendelse.
+
+Stk. 2-4. (Udelades)
