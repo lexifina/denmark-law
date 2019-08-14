@@ -1,9 +1,5 @@
-1) Lovændringen vedrører lovens titel, § 2, stk. 1-5, § 4, stk. 2 og 3, § 5, § 6, § 12, stk. 2, § 13, stk. 5, § 16, stk. 2, § 19, stk. 1, § 20 a, § 20, stk. 1 og 2, § 21, stk. 1, 2, 4, 5 og 6, § 22 og § 22 a.
+1) Lovændringen vedrører § 4, stk. 1, nr. 1, § 13, stk. 1, 3 og 6.
 
-2) Lovændringen vedrører § 2, stk. 1, nr. 3, § 3 a, stk. 1 og § 13, stk. 1, 2 og 4.
+2) Lovændringen vedrører § 16, stk. 5.
 
-3) Lovændringen vedrører § 16, stk. 2, 3. pkt., § 16, stk. 3, § 16, stk. 5, § 20, stk. 1 og 2, § 22, stk. 3, 1. pkt. og § 22 a, 1. pkt.
-
-4) Lovændringen vedrører § 14 b, § 14 c og § 20 a, stk. 2.
-
-5) Lovændringen vedrører § 4, stk. 1, nr. 1, § 13, stk. 1, § 13, stk. 3 og § 13, stk. 6.
+3) Lovændringen vedrører § 2, stk. 1, nr. 3, § 8, stk. 3 og 5, § 12, stk. 2, § 13, stk. 6 og 9, § 14 c, 2. pkt., § 16, stk. 3 og § 20 a, stk. 2, 1-3. pkt. Overalt i loven ændres »Styrelsen for Videregående Uddannelser« til: »Styrelsen for Institutioner og Uddannelsesstøtte«.
