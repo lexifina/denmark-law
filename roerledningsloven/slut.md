@@ -1,5 +1,5 @@
-Energistyrelsen, den 25. marts 2014
+Energistyrelsen, den 13. august 2019
 
-Birgitta Jacobsen
+Martin Hansen
 
-/ Jens Skov-Spilling
+/ Carl-Christian Munk-Nielsen
