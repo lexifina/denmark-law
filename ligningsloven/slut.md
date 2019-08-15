@@ -1,4 +1,4 @@
-Skatteministeriet, den 22. januar 2019
+Skatteministeriet, den 8. august 2019
 
 P.M.V. Jens Brøchner
 
@@ -8,9 +8,9 @@ Bilag 1
 
 Ydelser omfattet af boligjobordningen i 2018 og frem
 
-A. Serviceydelser i hjemmet eller i en fritidsbolig
+## A. Serviceydelser i hjemmet eller i en fritidsbolig
 
-Almindelig rengøring
+## Almindelig rengøring
 
 – Vask og aftørring af flader i boligen
 
@@ -22,19 +22,19 @@ Almindelig rengøring
 
 – Rensning eller vask af tæpper, gardiner, persienner m.m.
 
-Vinduespudsning
+## Vinduespudsning
 
 – Indvendigt
 
 – Udvendigt
 
-Børnepasning
+## Børnepasning
 
 – Børnepasning i hjemmet eller i en fritidsbolig
 
 – Aflevering og afhentning af børn til og fra daginstitution, skole, fritidsklub og fritidsaktiviteter
 
-Almindeligt havearbejde m.m.
+## Almindeligt havearbejde m.m.
 
 – Græsslåning
 
@@ -46,9 +46,9 @@ Almindeligt havearbejde m.m.
 
 – Snerydning
 
-B. Grøn istandsættelse, tilslutning til bredbånd og installation af tyverialarm vedrørende hjemmet eller en fritidsbolig
+## B. Grøn istandsættelse, tilslutning til bredbånd og installation af tyverialarm vedrørende hjemmet eller en fritidsbolig
 
-Udvendigt malerarbejde (bortset fra tag), f.eks.
+## Udvendigt malerarbejde (bortset fra tag), f.eks.
 
 – Maling af vinduesrammer (udvendigt)
 
@@ -56,9 +56,9 @@ Udvendigt malerarbejde (bortset fra tag), f.eks.
 
 – Maling af ydervægge (udvendigt)
 
-Isolering af tag
+## Isolering af tag
 
-Reparation og forbedring af skorsten, f.eks.
+## Reparation og forbedring af skorsten, f.eks.
 
 – Indsættelse af isolerende foring
 
@@ -68,7 +68,7 @@ Reparation og forbedring af skorsten, f.eks.
 
 – Ændring af skorstenshøjde
 
-Udskiftning af ruder og vinduer og terrassedøre med glas, f.eks.
+## Udskiftning af ruder og vinduer og terrassedøre med glas, f.eks.
 
 – Nye ruder og vinduer
 
@@ -76,25 +76,25 @@ Udskiftning af ruder og vinduer og terrassedøre med glas, f.eks.
 
 – Forsatsvinduer
 
-Udskiftning af yderdøre, terrassedøre m.v., f.eks.
+## Udskiftning af yderdøre, terrassedøre m.v., f.eks.
 
 – Nye døre
 
-Isolering af ydervægge, f.eks.
+## Isolering af ydervægge, f.eks.
 
 – Isolering
 
 – Hulmursisolering
 
-Isolering af gulv, f.eks.
+## Isolering af gulv, f.eks.
 
 – Isolering af terrændæk og krybekælder op mod gulv
 
-Afmontering af brændeovne
+## Afmontering af brændeovne
 
 – Afmontering af eksisterende brændeovne og pejseindsatse
 
-Installation eller udskiftning af varmestyringsanlæg, f.eks.
+## Installation eller udskiftning af varmestyringsanlæg, f.eks.
 
 – Radiatortermostatventiler
 
@@ -104,7 +104,7 @@ Installation eller udskiftning af varmestyringsanlæg, f.eks.
 
 – Udskiftning af radiatorer
 
-Arbejde på solfangere, solceller og husstandsvindmøller:
+## Arbejde på solfangere, solceller og husstandsvindmøller:
 
 – Installation, reparation eller udskiftning af solfangere
 
@@ -112,7 +112,7 @@ Arbejde på solfangere, solceller og husstandsvindmøller:
 
 – Installation, reparation eller udskiftning af husstandsvindmøller – dog ikke, hvis reglerne for erhvervsmæssig virksomhed anvendes
 
-Reparation eller udskiftning af gasfyrskedler og varmeanlæg bortset fra oliefyr, biokedelanlæg, pillefyr, biomassefyr og fastbrændselskedler, f.eks.
+## Reparation eller udskiftning af gasfyrskedler og varmeanlæg bortset fra oliefyr, biokedelanlæg, pillefyr, biomassefyr og fastbrændselskedler, f.eks.
 
 – Solvarmeanlæg: Hele solvarmesystemet inkl. varmtvandsbeholder
 
@@ -120,19 +120,19 @@ Reparation eller udskiftning af gasfyrskedler og varmeanlæg bortset fra oliefyr
 
 – Etablering af stikledning
 
-Udskiftning eller reparation af fjernvarmeunits
+## Udskiftning eller reparation af fjernvarmeunits
 
-Installation af varmepumper, herunder jordvarmepumper, f.eks.
+## Installation af varmepumper, herunder jordvarmepumper, f.eks.
 
 – Varmepumper, herunder luft til luft-varmepumper med og uden kølefunktion
 
 – Jordvarme: Hele jordvarmesystemet inkl. jordslange
 
-Installation eller forbedring af ventilation, f.eks.
+## Installation eller forbedring af ventilation, f.eks.
 
 – Balanceret ventilationsanlæg med varmeindvinding
 
-Installation eller forbedring af visse afløbsinstallationer og dræn, f.eks.
+## Installation eller forbedring af visse afløbsinstallationer og dræn, f.eks.
 
 – Kloakarbejder på egen grund
 
@@ -152,12 +152,12 @@ Installation eller forbedring af visse afløbsinstallationer og dræn, f.eks.
 
 – Regnvandsfaskiner
 
-Radonsikring, f.eks.
+## Radonsikring, f.eks.
 
 – Radonudsugning
 
-Tilslutning til bredbånd:
+## Tilslutning til bredbånd:
 
 – Tilslutning til bredbånd (nedgravning og indskydning af kabler på egen grund og opsætning af modtageudstyr til mobilt og fast trådløst bredbånd på boligens ydre rammer).
 
-Installation af tyverialarm
+## Installation af tyverialarm

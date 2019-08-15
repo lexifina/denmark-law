@@ -4,4 +4,4 @@ Stk. 2. Fradrag efter stk. 1 er betinget af, at told- og skatteforvaltningen for
 
 Stk. 3. Stk. 1 finder ikke anvendelse, såfremt gavegiver og gavemodtager er interesseforbundne, jf. § 2.
 
-Stk. 4. I tilfælde, der er omfattet af stk.1, finder § 8 A ikke anvendelse.
+Stk. 4. I tilfælde, der er omfattet af stk. 1, finder § 8 A ikke anvendelse.
