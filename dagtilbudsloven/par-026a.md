@@ -18,6 +18,6 @@ Stk. 9. Kommunalbestyrelsen kan i særlige tilfælde beslutte, at en godkendelse
 
 Stk. 10. Ved opgørelse af nyoptag efter stk. 1-9 skal alene indgå børnenes folkeregisteradresse på optagelsestidspunktet i det pågældende kalenderår. Kommunalbestyrelsen kan dog uanset 1. pkt. beslutte, at børn, der udmeldes af institutionen i samme kalenderår, som de optages, ikke skal indgå i opgørelsen af årligt nyoptag, jf. stk. 1. Kommunalbestyrelsens eventuelle beslutning efter 2. pkt. omfatter alle daginstitutioner i kommunen.
 
-Stk. 11. Børne- og socialministeren fastsætter regler om maksimal procentsats for årligt nyoptag, når andelen af børn i alderen fra 26 uger og indtil skolestart med bopæl i udsatte boligområder overstiger 20 pct. af den samlede gruppe af børn i kommunen i samme aldersgruppe.
+Stk. 11. Børne- og undervisningsministeren fastsætter regler om maksimal procentsats for årligt nyoptag, når andelen af børn i alderen fra 26 uger og indtil skolestart med bopæl i udsatte boligområder overstiger 20 pct. af den samlede gruppe af børn i kommunen i samme aldersgruppe.
 
-Stk. 12. Børne- og socialministeren fastsætter regler om en dispensationsadgang. Kommunalbestyrelsen skal efter disse regler kunne ansøge Børne- og Socialministeriet om, at daginstitutioner eller enheder i daginstitutioner kan fravige stk. 1-10 og § 23, stk. 4, hvis der foreligger helt særlige forhold.
+Stk. 12. Børne- og undervisningsministeren fastsætter regler om en dispensationsadgang. Kommunalbestyrelsen skal efter disse regler kunne ansøge Børne- og Undervisningsministeriet om, at daginstitutioner eller enheder i daginstitutioner kan fravige stk. 1-10 og § 23, stk. 4, hvis der foreligger helt særlige forhold.
