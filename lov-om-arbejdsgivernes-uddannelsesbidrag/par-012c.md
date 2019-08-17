@@ -2,8 +2,8 @@
 
 Stk. 2. Staten yder endvidere tilskud til institutioner for erhvervsrettet uddannelse og andre skoler og institutioner for formidling af uddannelsesaftaler med arbejdsgivere, der ikke har haft en uddannelsesaftale med en elev i de seneste 5 år. Stk. 1, 8.-10. pkt., finder tilsvarende anvendelse.
 
-Stk. 3. Bestyrelsen for Arbejdsgivernes Uddannelsesbidrag administrerer ordningerne i stk. 1 og 2 og fastsætter nærmere regler om udbetalingen. Undervisningsministeren kan fastsætte nærmere regler om institutionernes regnskabsaflæggelse og revision.
+Stk. 3. Bestyrelsen for Arbejdsgivernes Uddannelsesbidrag administrerer ordningerne i stk. 1 og 2 og fastsætter nærmere regler om udbetalingen. Børne- og undervisningsministeren kan fastsætte nærmere regler om institutionernes regnskabsaflæggelse og revision.
 
-Stk. 4. Undervisningsministeren udbetaler et foreløbigt beløb til dækning af udgiften til tilskud og administrationsudgifter til Arbejdsgivernes Uddannelsesbidrag. Beløbet udbetales kvartalsvis forud. Der gennemføres en efterfølgende regulering efter årets afslutning.
+Stk. 4. Børne- og undervisningsministeren udbetaler et foreløbigt beløb til dækning af udgiften til tilskud og administrationsudgifter til Arbejdsgivernes Uddannelsesbidrag. Beløbet udbetales kvartalsvis forud. Der gennemføres en efterfølgende regulering efter årets afslutning.
 
 Stk. 5. Bestyrelsen for Arbejdsgivernes Uddannelsesbidrag udarbejder et særligt regnskab for udbetalinger i løbet af året, jf. § 24. Regnskabet revideres efter bestemmelserne i § 25.

@@ -137,3 +137,63 @@ Stk. 4-12. (Udelades)
 Stk. 13. § 2, nr. 2, finder ikke anvendelse i relation til elever i erhvervsgrunduddannelse efter lov om erhvervsgrunduddannelser m.v., jf. lovbekendtgørelse nr. 738 af 20. juni 2016. I relation til disse elever finder de hidtil gældende regler anvendelse.
 
 Stk. 14-20. (Udelades)
+
+Lov nr. 1701 af 27. december 2018 (Styrket og mere fleksibel voksen-, efter- og videreuddannelse og flytning af administrationen af VEU-godtgørelsen m.v. til Arbejdsgivernes Uddannelsesbidrag) indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 14
+
+Stk. 1. Loven træder i kraft den 1. januar 2019, jf. dog stk. 2-4.
+
+Stk. 2. (Udelades)
+
+Stk. 3. Undervisningsministeren fastsætter tidspunktet for ikrafttrædelse af § 1, nr. 1, 2, 13, 15, 19, 21, 26, 30-33, 35 og 36, § 2, nr. 16, § 3, nr. 1-9, § 4 bortset fra nr. 14, jf. stk. 2, og §§ 6, 12 og 13. Ministeren kan herunder fastsætte, at bestemmelserne træder i kraft på forskellige tidspunkter. Ministeren kan i den forbindelse fastsætte overgangsregler, herunder om indfasning af prøver i arbejdsmarkedsuddannelser, personkreds m.v., om udbudsrunder, geografiske dækningsområder m.v., om flytning af administrationen af VEU-godtgørelse og befordring og tilskud til Arbejdsgivernes Uddannelsesbidrag, herunder i forhold til udgifter til godtgørelse i 2019 som følge af afløb, periodisering m.v., og om institutioners ibrugtagning af fælles informationssystemer og overgang fra tidligere systemer.
+
+Stk. 4. (Udelades)
+
+Lov nr. 1737 af 27. december 2018 (Modelparametre for erhvervsuddannelser til brug for beregning af praktikpladsafhængigt arbejdsgiverbidrag, justering af det aktivitetsafhængige VEU-bidrag, merbidragsfritagelse m.v.) indeholder følgende ikrafttrædelses- og overgangsbestemmelse:
+
+§ 5
+
+Stk. 1. Loven træder i kraft den 1. januar 2019, jf. dog stk. 2-5.
+
+Stk. 2. (Udelades)
+
+Stk. 3. § 1, nr. 6-8, og § 2, nr. 1 og 2, træder i kraft den 1. juli 2019.
+
+Stk. 4. § 1, nr. 12, træder i kraft den 1. januar 2022.
+
+Stk. 5. § 5 a i lov om Arbejdsgivernes Uddannelsesbidrag som affattet ved denne lovs § 1, nr. 7, finder ikke anvendelse for ophold på kostafdelinger, der er påbegyndt før den 1. juli 2019. For sådanne ophold finder den hidtidige § 5 a i lov om Arbejdsgivernes Uddannelsesbidrag fortsat anvendelse. § 7 a, stk. 1, i lov om Arbejdsgivernes Uddannelsesbidrag som ændret ved denne lovs § 1, nr. 8, finder ikke anvendelse for overenskomstmæssige udgifter til ophold på kostafdelinger, som er påbegyndt før den 1. juli 2019. For sådanne udgifter finder den hidtidige § 7 a, stk. 1, i lov om Arbejdsgivernes Uddannelsesbidrag fortsat anvendelse.
+
+Stk. 6. § 21 b i lov om Arbejdsgivernes Uddannelsesbidrag som affattet ved denne lovs § 1, nr. 23, har virkning for stillingsopslag, som er opslået den 1. januar 2018 eller senere. § 21 b, stk. 4, i lov om Arbejdsgivernes Uddannelsesbidrag som affattet ved denne lovs § 1, nr. 23, finder dog ikke anvendelse for stillingsopslag, som er opslået før den 1. januar 2019. For sådanne stillingsopslag er det en betingelse for merbidragsfritagelse for perioden nævnt i § 21 b, stk. 3, i lov om Arbejdsgivernes Uddannelsesbidrag som affattet ved denne lovs § 1, nr. 23, at et af følgende betingelser er opfyldt i hele perioden:
+
+1) Arbejdsgiveren har ikke modtaget ansøgninger fra elever, der har bestået et relevant grundforløb. Modtager arbejdsgiveren alene ansøgning fra en sådan elev, som arbejdsgiveren indgår uddannelsesaftale med i perioden, bortfalder retten til fritagelse for merbidrag for perioden nævnt i § 21 b, stk. 3, i lov om Arbejdsgivernes Uddannelsesbidrag som affattet ved denne lovs § 1, nr. 23, dog ikke. Efter behandling af modtagne ansøgninger underretter arbejdsgiveren den enkelte elevs skole, hvis eleven ikke har gennemført et relevant grundforløb.
+
+2) Samtlige ansøgende elever, der har bestået et relevant grundforløb, afslår arbejdsgiverens tilbud om en praktikplads. Efter modtagelse af afslag fra samtlige ansøgende elever underretter arbejdsgiveren den enkelte elevs skole om, at eleven har afslået den tilbudte praktikplads.
+
+3) Der er ikke registreret elever på uddannelsen på Undervisningsministeriets centrale praktikpladsportal, der har haft en synlig profil på portalen.
+
+Stk. 7. Regler fastsat i medfør af § 5 a, stk. 5, i lov om Arbejdsgivernes Uddannelsesbidrag, jf. lovbekendtgørelse nr. 811 af 20. juni 2018, forbliver i kraft, indtil de ophæves eller afløses af forskrifter udstedt i medfør af § 5 a, stk. 5, i lov om Arbejdsgivernes Uddannelsesbidrag som affattet ved denne lovs § 1, nr. 7.
+
+Stk. 8. Regler fastsat i medfør af § 21 b, stk. 4, i lov om Arbejdsgivernes Uddannelsesbidrag, jf. lovbekendtgørelse nr. 811 af 20. juni 2018, forbliver i kraft, indtil de ophæves eller afløses af forskrifter udstedt i medfør af § 21 b, stk. 6, i lov om Arbejdsgivernes Uddannelsesbidrag som affattet ved denne lovs § 1, nr. 23.
+
+Lov nr. 547 af 7. maj 2019 (Styrkede erhvervsuddannelser, mere praksisfaglighed i grundskolen, uddannelsesparathedsvurdering til alle ungdomsuddannelser m.v.) indeholder følgende ikrafttrædelses- og overgangsbestemmelser:
+
+§ 10
+
+Stk. 1. Loven træder i kraft den 1. august 2019, jf. dog stk. 2-4.
+
+Stk. 2-5. (Udelades)
+
+§ 11
+
+Stk. 1. Lovens § 1, nr. 8, 19, 24, 27 og 29-33, og § 6 finder ikke anvendelse for uddannelser, der er påbegyndt før den 1. august 2019. For sådanne uddannelser finder de hidtil gældende regler anvendelse.
+
+Stk. 2-3. (Udelades)
+
+Lov nr. 562 af 7. maj 2019 (Videreførelse af igu-ordningen og egu-bonusordningen) indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 3
+
+Stk. 1. Loven træder i kraft den 1. juli 2019.
+
+Stk. 2. (Udelades)
