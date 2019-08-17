@@ -55,3 +55,19 @@ Stk. 5-7. (Udelades)
 Stk. 8. § 3, nr. 1, 7, 8 og 10, træder i kraft den 21. marts 2016 og har virkning for kreditaftaler, der indgås den 21. marts 2016 eller senere.
 
 Stk. 9-17. (Udelades)
+
+Lov nr. 637 af 8. juni 2016 indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 2
+
+Stk. 1. Loven træder i kraft den 1. januar 2017.
+
+Stk. 2. Loven finder ikke anvendelse for kredittilbud, der er afgivet før lovens ikrafttræden. For sådanne tilbud finder de hidtil gældende regler anvendelse.
+
+Lov nr. 706 af 8. juni 2018 indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 24
+
+Stk. 1. Loven træder i kraft den 1. juli 2018, jf. dog stk. 2 og 3.
+
+Stk. 2-6. (Udelades)
