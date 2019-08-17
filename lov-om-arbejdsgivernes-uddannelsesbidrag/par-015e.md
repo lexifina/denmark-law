@@ -8,7 +8,7 @@ Stk. 2. Der kan alene ydes bonus for uddannelsesaftaler inden for de uddannelser
 
 Stk. 3. En praktikårselev svarer til en elev i en uddannelsesaftale af et kalenderårs varighed. Uddannelsesaftaler i henhold til § 66 f, stk. 1, og § 66 r, stk. 3, i lov om erhvervsuddannelser indgår ikke i beregningen af praktikårselever. Alene kalenderdage i 2017 indgår i beregningen af praktikårselever, der kan udløse bonus.
 
-Stk. 4. Der foretages i 2018 en opgørelse af, hvilke fordelsuddannelser der kan udløse bonus for 2017. Det er alene uddannelserne på listen over forventede fordelsuddannelser for 2017, som undervisningsministeren godkender og offentliggør, jf. stk. 6, der indgår i opgørelsen. Følgende betingelser skal være opfyldt:
+Stk. 4. Der foretages i 2018 en opgørelse af, hvilke fordelsuddannelser der kan udløse bonus for 2017. Det er alene uddannelserne på listen over forventede fordelsuddannelser for 2017, som børne- og undervisningsministeren godkender og offentliggør, jf. stk. 6, der indgår i opgørelsen. Følgende betingelser skal være opfyldt:
 
 1) Andelen af uddannelsesaktive elever, som har kvalificeret sig til at påbegynde hovedforløbet på fordelsuddannelsen, og som efter 3 måneder ikke har indgået en uddannelsesaftale med en arbejdsgiver, må ikke overstige 10 pct. i 2017.
 
@@ -16,8 +16,8 @@ Stk. 4. Der foretages i 2018 en opgørelse af, hvilke fordelsuddannelser der kan
 
 Stk. 5. Bonus pr. praktikårselev beregnes forholdsmæssigt af den på finansloven fastsatte pulje, som divideres med det samlede antal bonusudløsende praktikårselever i 2017. Bonus kan maksimalt udgøre 5.000 kr. pr. praktikårselev.
 
-Stk. 6. Undervisningsministeren offentliggør i 2017 en liste over godkendte forventede fordelsuddannelser for 2017 på Undervisningsministeriets hjemmeside.
+Stk. 6. Børne- og undervisningsministeren offentliggør i 2017 en liste over godkendte forventede fordelsuddannelser for 2017 på Børne- og Undervisningsministeriets hjemmeside.
 
-Stk. 7. Undervisningsministeren kan godkende, at uddannelsesaftaler inden for uddannelser sidestillet med erhvervsuddannelser, jf. § 4, stk. 1, indgår i bonusordningen. Ministeren fastsætter i givet fald regler om betingelserne for bonus.
+Stk. 7. Børne- og undervisningsministeren kan godkende, at uddannelsesaftaler inden for uddannelser sidestillet med erhvervsuddannelser, jf. § 4, stk. 1, indgår i bonusordningen. Ministeren fastsætter i givet fald regler om betingelserne for bonus.
 
-Stk. 8. Undervisningsministeren kan fastsætte nærmere regler om bonussens beregning, dens udbetaling, efterregulering, afskæring, herunder af efterregulering, modregning og tilbagebetaling samt om administration af ordningen i øvrigt.
+Stk. 8. Børne- og undervisningsministeren kan fastsætte nærmere regler om bonussens beregning, dens udbetaling, efterregulering, afskæring, herunder af efterregulering, modregning og tilbagebetaling samt om administration af ordningen i øvrigt.

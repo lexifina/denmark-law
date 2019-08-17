@@ -6,6 +6,6 @@ Stk. 3. En praktikårselev svarer til en elev i en uddannelsesaftale af et kalen
 
 Stk. 4. Bonus pr. praktikårselev beregnes forholdsmæssigt af den på finansloven fastsatte pulje, som divideres med det samlede antal bonusudløsende praktikårselever i 2017. Bonus kan maksimalt udgøre 15.000 kr. pr. praktikårselev.
 
-Stk. 5. Undervisningsministeren kan godkende, at uddannelsesaftaler inden for uddannelser sidestillet med erhvervsuddannelser, jf. § 4, stk. 1, indgår i bonusordningen. Ministeren fastsætter i givet fald regler om betingelserne for bonus.
+Stk. 5. Børne- og undervisningsministeren kan godkende, at uddannelsesaftaler inden for uddannelser sidestillet med erhvervsuddannelser, jf. § 4, stk. 1, indgår i bonusordningen. Ministeren fastsætter i givet fald regler om betingelserne for bonus.
 
-Stk. 6. Undervisningsministeren kan fastsætte nærmere regler om gennemsnittets beregning, bonussens beregning, bonussens udbetaling, efterregulering, afskæring, herunder af efterregulering, modregning og tilbagebetaling samt om administration af ordningen i øvrigt.
+Stk. 6. Børne- og undervisningsministeren kan fastsætte nærmere regler om gennemsnittets beregning, bonussens beregning, bonussens udbetaling, efterregulering, afskæring, herunder af efterregulering, modregning og tilbagebetaling samt om administration af ordningen i øvrigt.
