@@ -1,7 +1,5 @@
-Givet på Christiansborg Slot, den 25. juni 2014
+Forsvarsministeriet, den 7. august 2019
 
-Under Vor Kongelige Hånd og Segl
+Trine Bramsen
 
-MARGRETHE R.
-
-/ Nicolai Wammen
+/ Jon Bach Holm
