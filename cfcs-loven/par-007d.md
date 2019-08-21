@@ -1,0 +1,1 @@
+§ 7 d. Center for Cybersikkerhed foranlediger ved at rette henvendelse til den, der har rådighed over oplysningerne, at en kendelse om edition opfyldes. Rettens kendelse skal på begæring forevises den pågældende. Afviser den pågældende uden lovlig grund at efterkomme pålægget, finder reglerne i retsplejelovens § 178 tilsvarende anvendelse.

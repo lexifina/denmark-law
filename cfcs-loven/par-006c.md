@@ -1,0 +1,3 @@
+§ 6 c. Med henblik på at forhindre, standse eller begrænse en nært forestående eller igangværende sikkerhedshændelse kan Center for Cybersikkerhed gøre brug af domænenavne og tilsvarende it-infrastruktur, som anvendes eller har været anvendt af en angrebsaktør, forudsat at disse er ledige til registrering.
+
+Stk. 2. Modtager Center for Cybersikkerhed som led i anvendelsen af it-infrastruktur efter stk. 1 data fra tredjemand, kan centeret uden retskendelse behandle de modtagne data med henblik på at opdage, analysere og bidrage til at imødegå sikkerhedshændelser hos myndigheder og virksomheder eller at informere borgere, myndigheder og virksomheder om, at de har været udsat for en sikkerhedshændelse.
