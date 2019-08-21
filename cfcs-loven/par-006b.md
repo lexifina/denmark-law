@@ -1,0 +1,3 @@
+§ 6 b. Med henblik på at opnå viden om angrebsaktørers metoder og værktøjer kan Center for Cybersikkerhed opsætte fiktive angrebsmål, såfremt opsætningen vurderes at kunne bidrage væsentligt til Center for Cybersikkerheds muligheder for at understøtte et højt informationssikkerhedsniveau i samfundet.
+
+Stk. 2. Benytter en angrebsaktør et fiktivt angrebsmål til at deponere data, kan Center for Cybersikkerhed uden retskendelse behandle de deponerede data med henblik på at opdage, analysere og bidrage til at imødegå sikkerhedshændelser hos myndigheder og virksomheder eller at informere borgere, myndigheder og virksomheder om, at de har været udsat for en sikkerhedshændelse.

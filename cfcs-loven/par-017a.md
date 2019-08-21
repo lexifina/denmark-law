@@ -1,0 +1,1 @@
+§ 17 a. § 17 finder ikke anvendelse på data, der er deponeret på fiktive angrebsmål efter § 6 b eller modtaget via infrastruktur omfattet af § 6 c, såfremt Center for Cybersikkerhed ikke udtager disse data til nærmere vurdering. Disse data slettes hurtigst muligt. Udtager Center for Cybersikkerhed data til nærmere vurdering, skal sletning ske efter reglerne i § 17.
