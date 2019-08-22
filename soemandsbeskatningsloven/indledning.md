@@ -1,3 +1,7 @@
-Lov om beskatning af søfolk
+Bekendtgørelse af lov om beskatning af søfolk (sømandsbeskatningsloven)
 
-VI MARGRETHE DEN ANDEN, af Guds Nåde Danmarks Dronning, gør vitterligt: Folketinget har vedtaget og Vi ved Vort samtykke stadfæstet følgende lov:
+Herved bekendtgøres lov nr. 386 af 27. maj 2005 om beskatning af søfolk med de ændringer, der følger af § 17 i lov nr. 425 af 6. juni 2005, § 69 i lov nr. 428 af 6. juni 2005, § 12 i lov nr. 343 af 18. april 2007, § 12 i lov nr. 1235 af 24. oktober 2007, § 12 i lov nr. 521 af 12. juni 2009, § 2 i lov nr. 622 af 14. juni 2011 og § 3, nr. 1, i lov nr. 359 af 29. april 2018.
+
+De ændringer, der følger af § 2 i lov nr. 1886 af 29. december 2015 om ændring af tonnageskatteloven og sømandsbeskatningsloven (Udvidelse af tonnageskatteordningen med en række specialskibe), er ikke indarbejdet i denne lovbekendtgørelse, da tidspunktet for ikrafttræden af disse ændringer fastsættes af skatteministeren, jf. § 3, stk. 1, i lov nr. 1886 af 29. december 2015.
+
+De ændringer, der følger af § 3, nr. 2-7, i lov nr. 359 af 29. april 2018 om ændring af kildeskatteloven, ligningsloven, sømandsbeskatningsloven og tinglysningsafgiftsloven (Bedre vilkår for tildeling af medarbejderaktier, udvidelse af DIS-ordningen med søfolk, der arbejder om bord på en række specialskibe, afskaffelse af registreringsafgiften for skibe i danske skibsregistre, ændret forrentning ved opkrævning af personers skat m.v.), er ikke indarbejdet i denne lovbekendtgørelse, da tidspunktet for ikrafttræden af disse ændringer fastsættes af skatteministeren, jf. § 6, stk. 3, i lov nr. 359 af 29. april 2018.

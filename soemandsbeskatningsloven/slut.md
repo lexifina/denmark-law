@@ -1,7 +1,5 @@
-Givet på Amalienborg, den 27. maj 2005
+Skatteministeriet, den 9. august 2019
 
-Under Vor Kongelige Hånd og Segl
+P.M.V. Jens Brøchner
 
-MARGRETHE R.
-
-/Kristian Jensen
+/ Søren Schou
