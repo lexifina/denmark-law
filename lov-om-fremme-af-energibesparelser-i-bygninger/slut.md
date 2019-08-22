@@ -1,5 +1,5 @@
-Energistyrelsen, den 19. juni 2012
+Energistyrelsen, den 21. august 2019
 
-Ib Larsen
+Stig Uffe Pedersen
 
-/ Mette Odgaard Mylin
+/ Jakob Karlshøj
