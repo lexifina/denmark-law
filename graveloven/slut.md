@@ -1,5 +1,5 @@
-Ministeriet for Videnskab, Teknologi og Udvikling, den 10. juli 2003
+Energistyrelsen, den 21. august 2019
 
-Helge Sander
+Janni Torp Kjærgaard Vicedirektør
 
-/Sune Rahn
+/ Maria Schmidt Jensen
