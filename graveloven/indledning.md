@@ -1,3 +1,3 @@
-Bekendtgørelse af lov om graveadgang og ekspropriation m.v. til telekommunikationsformål
+Bekendtgørelse af lov om graveadgang, etablering og udnyttelse af infrastruktur til telekommunikationsformål samt udnyttelse af infrastruktur på tværs af forsyningssektorer m.v.
 
-Herved bekendtgøres lov nr. 393 af 10. juni 1997 om graveadgang og ekspropriation m.v. til telekommunikationsformål med de ændringer, der følger af § 3 i lov nr. 1011 af 23. december 1998, § 7 i lov nr. 420 af 6. juni 2002 og § 2 i lov nr. 450 af 10. juni 2003.
+Herved bekendtgøres lov om graveadgang, etablering og udnyttelse af infrastruktur til telekommunikationsformål samt udnyttelse af infrastruktur på tværs af forsyningssektorer m.v., jf. lovbekendtgørelse nr. 662 af 10. juli 2003, med de ændringer, der følger af § 25 i lov nr. 1231 af 18. december 2012 og § 1 i lov nr. 741 af 1. juni 2015.
