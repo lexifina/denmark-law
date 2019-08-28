@@ -1,7 +1,15 @@
-Lov nr. 460 af 12. juni 2009 om ændring af lov om miljøbeskyttelse, lov om vandforsyning, lov om betalingsregler for spildevandsanlæg m.v. og forskellige andre love (Konsekvenser af lov om vandsektorens organisering og økonomiske forhold), som ophæver § 8 og § 10, stk. 1, nr. 3-5, ændrer § 2, stk. 1, og § 7, og indsætter § 10, stk. 1, nr. 3 og 4, indeholder følgende ikrafttrædelsesbestemmelse:
+Lov nr. 132 af 16. februar 2016 (Opfølgning på politisk forlig om en ny og forbedret regulering af den danske vandsektor) indeholder følgende ikrafttrædelsesbestemmelse:
 
-§ 16
+§ 17
 
-Stk. 1. Loven træder i kraft den 1. januar 2010, jf. dog stk. 2.
+Stk.1. Loven træder i kraft den 1. marts 2016, jf. dog stk. 2.
 
-Stk. 2. § 5, nr. 2, og §§ 18, 19 og 20 træder i kraft den 1. juli 2009.
+Stk. 2. Klima-, energi- og forsyningsministeren fastsætter tidspunktet for ikrafttræden af § 1, nr. 13 og 25, og § 5, nr. 4-6. Ministeren kan herunder bestemme, at ændringerne træder i kraft på forskellige tidspunkter.
+
+Stk. 3. (Udelades)
+
+Lov nr. 690 af 8. juni 2018 om Forsyningstilsynet indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 14. Loven træder i kraft den 1. juli 2018, jf. dog stk. 2.
+
+Stk. 2-3. (Udelades)
