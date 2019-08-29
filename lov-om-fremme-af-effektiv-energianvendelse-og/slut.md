@@ -1,5 +1,5 @@
-Energistyrelsen, den 12. november 2012
+Energistyrelsen, den 23. august 2019
 
-Ib Larsen
+Stig Uffe Pedersen Vicedirektør
 
-/ Henrik Andersen
+/ Hanne Lind Mortensen
