@@ -1,7 +1,5 @@
-Givet på Christiansborg Slot, den 6. juni 2007
+Energistyrelsen, den 28. august 2019
 
-Under Vor Kongelige Hånd og Segl
+Stig Uffe Pedersen Vicedirektør
 
-Margrethe R.
-
-/Flemming Hansen
+/ Mogens Uhd Nielsen
