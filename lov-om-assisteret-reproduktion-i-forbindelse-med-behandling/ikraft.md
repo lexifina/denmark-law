@@ -22,7 +22,7 @@ Stk. 2-4. (Udelades)
 
 Stk. 5. Regler fastsat i medfør af § 21, stk. 3, i lov om børns forsørgelse, jf. lovbekendtgørelse nr. 1815 af 23. december 2015, § 25 i adoptionsloven, jf. lovbekendtgørelse nr. 1041 af 3. august 2018, § 61, stk. 3, i lov nr. 548 af 30. maj 2017 om ægtefællers økonomiske forhold, § 23 b i lov om opkrævning af underholdsbidrag, jf. lovbekendtgørelse nr. 1819 af 23. december 2015, § 33 i børneloven, jf. lovbekendtgørelse nr. 1817 af 23. december 2015, § 8 i lov nr. 618 af 8. juni 2016 om fremtidsfuldmagter, § 56 a, stk. 5, i udlændingeloven, jf. lovbekendtgørelse nr. 1117 af 2. oktober 2017 med senere ændringer, og § 6 a, stk. 4, i lov om assisteret reproduktion i forbindelse med behandling, diagnostik og forskning m.v., jf. lovbekendtgørelse nr. 93 af 19. januar 2015 med senere ændringer, forbliver i kraft, indtil de ophæves eller afløses af nye regler.
 
-§§ 41-42
+§ 41-42
 
 (Udelades)
 
