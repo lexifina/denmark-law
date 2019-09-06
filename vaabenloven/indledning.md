@@ -1,3 +1,3 @@
-Bekendtgørelse af lov om våben og eksplosivstoffer
+Bekendtgørelse af lov om våben og eksplosivstoffer m.v.
 
-Herved bekendtgøres lov om våben og eksplosivstoffer, jf. lovbekendtgørelse nr. 704 af 22. juni 2009, med de ændringer, der følger af § 1 i lov nr. 538 af 26. maj 2010, § 1 i lov nr. 413 af 9. maj 2011, lov nr. 274 af 27. marts 2012 og §§ 1 og 3 i lov nr. 564 af 18. juni 2012.
+Herved bekendtgøres lov om våben og eksplosivstoffer m.v., jf. lovbekendtgørelse nr. 1005 af 22. oktober 2012, med de ændringer, der følger af § 1 i lov nr. 431 af 1. maj 2013, lov nr. 1623 af 26. december 2013, § 1 i lov nr. 552 af 2. juni 2014, § 3 i lov nr. 733 af 25. juni 2014, § 5 i lov nr. 736 af 25. juni 2014, § 9 i lov nr. 376 af 27. april 2016, lov nr. 495 af 22. maj 2017, § 1 i lov nr. 1681 af 26. december 2017, lov nr. 712 af 8. juni 2018, lov nr. 1546 af 18. december 2018, lov nr. 167 af 27. februar 2019 og § 6 i lov nr. 329 af 30. marts 2019.
