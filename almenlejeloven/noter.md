@@ -29,3 +29,23 @@
 15) Loven er sat i kraft den 1. august 2013 ved bekendtgørelse nr. 970 af 23. juli 2013.
 
 16) Lovændringen vedrører §§ 52-54, 56 og 60.
+
+17) Lovændringen vedrører § 62.
+
+18) Lovændringen vedrører §§ 4, 9, 11 og 87.
+
+19) Lovændringen vedrører § 25.
+
+20) Lovændringen vedrører § 54.
+
+21) Lovændringen vedrører § 108 a.
+
+22) Lovændringen vedrører § 68.
+
+23) Lovændringen vedrører § 90.
+
+24) Lovændringen vedrører § 5.
+
+25) Lovændringen vedrører §§ 80, 85, 86, og 90.
+
+26) Lovændringen vedrører § 97.
