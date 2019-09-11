@@ -22,7 +22,7 @@ Lov nr. 1219 af 27. december 2003 (Betaling for adgang til elektroniske kommunik
 
 § 6
 
-Stk. 1. Loven træder i kraft den 1. januar 2004.
+Stk 1. Loven træder i kraft den 1. januar 2004.
 
 Stk. 2. Lejere, som på tidspunktet for lovens ikrafttræden er forpligtet til at betale bidrag til ejendommens forsyning med adgang til elektroniske kommunikationstjenester, vil fortsat være forpligtet til at betale dette bidrag.
 
@@ -99,3 +99,79 @@ Stk. 1. Loven træder i kraft den 1. juli 2014, jf. dog stk. 2.
 Stk. 2. § 1, nr. 2, 4 og 5, og §§ 4 og 5 træder i kraft den 1. juni 2014.
 
 Stk. 3-4. (Udelades)
+
+Lov nr. 643 af 8. juni 2016 (Frit valg af tv-distributør, distribution af digital radio m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 4
+
+Stk. 1. Loven træder i kraft den 1. juli 2016.
+
+Stk. 2. Er der før den 1. juli 2016 indgået aftale mellem ejeren af et fællesantenneanlæg og en tv-distributør eller programudbyder eller mellem ejeren af en ejendom, en ejerforening, andelsboligforening el.lign. og ejeren af et fællesantenneanlæg om fælles programforsyning, der gennem vilkår m.v. hindrer husstande i at udøve den i § 6 a, stk. 1, og i lov om radio- og fjernsynsvirksomhed som affattet ved denne lovs § 1, nr. 3, nævnte ret eller hindrer ejere af ejendomme, ejerforeninger, andelsboligforeninger el.lign. i at efterkomme husstandes anmodning om fritagelse efter § 6 a, stk. 1, får forpligtelsen i § 6 a, stk. 1, først virkning fra det tidligste af følgende tidspunkter:
+
+1) Aftalens udløb eller
+
+2) udgangen af en periode, der svarer til aftalens opsigelsesvarsel, regnet fra den 1. oktober 2016 eller det senere tidspunkt, hvor aftalen tidligst kan opsiges fra.
+
+Stk. 3. For anlæg, hvor det teknisk ikke er muligt at frakoble enkelte husstande, finder loven først anvendelse den 1. januar 2018.
+
+Lov nr. 662 af 8. juni 2016 (Inklusionsboliger) indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 3
+
+Loven træder i kraft den 1. juli 2016.
+
+Lov nr. 665 af 8. juni 2016 (Bedre rammer for at modtage og integrere flygtninge og styrket virksomhedsrettet integrationsprogram m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 12
+
+Stk. 1. Loven træder i kraft den 1. juli 2016, jf. dog stk. 2-6.
+
+Stk. 2-6. (Udelades)
+
+Lov nr. 1559 af 13. december 2016 (Effektivisering af den almene boligsektors drift, forsøg med varmeregnskaber m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 4
+
+Loven træder i kraft den 1. januar 2017.
+
+Lov nr. 389 af 26. april 2017 (Medfinansiering af Center for Boligsocial Udvikling, mulighed for afskæring af klageadgang og ejerlejlighedsopdeling) indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 6
+
+Loven træder i kraft den 1. maj 2017.
+
+Lov nr. 550 af 30. maj 2017 (Ændringer som følge af lov om ægtefællers økonomiske forhold) indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 17
+
+Stk. 1. Loven træder i kraft den 1. januar 2018.
+
+Stk. 2-7. (Udelades)
+
+Stk. 8. §§ 11 og 12 finder ikke anvendelse på dispositioner, der er foretaget før lovens ikrafttræden. For sådanne dispositioner finder de hidtil gældende regler anvendelse.
+
+Stk. 9. (Udelades)
+
+Lov nr. 653 af 8. juni 2017 om forbud mod anvendelse af bestemte ejendomme som samlingssted for en gruppe indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 10. Loven træder i kraft den 1. juli 2017.
+
+Lov nr. 1561 af 19. december 2017 (Fremme af digital kommunikation i boliglejeforhold) indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 3
+
+Stk. 1. Loven træder i kraft den 1. januar 2018.
+
+Stk. 2. For lejeaftaler, der er indgået før den 1. januar 2018, finder § 1, nr. 1, og § 2 først anvendelse fra den 1. januar 2019. 1. pkt. finder dog først anvendelse på meddelelser fra udlejeren, når udlejeren har givet meddelelse herom til lejeren.
+
+Lov nr. 1322 af 27. november 2018 (Nye kriterier for udsatte boligområder og ghettoområder, initiativer til udvikling eller afvikling af ghettoområder, skærpelse af anvisnings- og udlejningsregler, ophævelse af lejekontrakt på grund af kriminalitet m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 4
+
+Loven træder i kraft den 1. december 2018, jf. dog stk. 2.
+
+Lov nr. 1711 af 27. december 2018 (Ændringer som følge af lov om Familieretshuset og skærpet fokus på beskyttelsen af barnet i sager efter forældreansvarsloven) indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 4
+
+Loven træder i kraft den 1. april 2019, jf. dog stk. 2-4.
