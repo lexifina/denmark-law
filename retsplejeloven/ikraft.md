@@ -164,7 +164,7 @@ Lov nr. 1680 af 26. december 2017 (Selvstændig bestemmelse om indbrudstyveri) i
 
 Loven træder i kraft den 1. januar 2018.
 
-Lov nr. 130 af 27. feberuar 2018 (Begrænsning af surrogatfængsling i eget hjem) indeholder følgende ikrafttrædelsesbestemmelse:
+Lov nr. 130 af 27. februar 2018 (Begrænsning af surrogatfængsling i eget hjem) indeholder følgende ikrafttrædelsesbestemmelse:
 
 § 2
 
@@ -231,3 +231,109 @@ Lov nr. 715 af 8. juni 2018 (Retsvirkninger af et foreløbigt forbud mod eller e
 § 3
 
 Loven træder i kraft dagen efter bekendtgørelsen i Lovtidende.
+
+Lov nr. 1540 af 18. december 2018 (Initiativer vedrørende forsvarsadvokater og advokattilsyn) indeholder følgende ikrafttrædelsesbestemmelser:
+
+§ 3
+
+Stk. 1. Loven træder i kraft den 1. januar 2019, jf. dog stk. 2.
+
+Stk. 2. Lovens § 1, nr. 2-5, 7 og 8, træder i kraft den 1. juli 2019.
+
+§ 4
+
+Lovens § 1, nr. 9 og 10, finder ikke anvendelse for afgørelser fra Advokatnævnet, der vedrører forhold begået inden lovens ikrafttræden.
+
+Lov nr. 1541 af 18. december 2018 (Forhold for indsatte i kriminalforsorgens institutioner, varetægtssurrogat m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 5
+
+Stk. 1. Loven træder i kraft den 1. februar 2019.
+
+Stk. 2. (Udelades)
+
+Lov nr. 1544 af 18. december 2018 (Tilfældighedsfund som bevis i sager om opløsning af en forening) indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 2
+
+Loven træder i kraft dagen efter bekendtgørelsen i Lovtidende.
+
+Lov nr. 1711 af 27. december 2018 (Ændringer som følge af lov om Familieretshuset og skærpet fokus på beskyttelsen af barnet i sager efter forældreansvarsloven) indeholder følgende ikrafttrædelsesbestemmelser:
+
+§ 40
+
+Stk. 1. Loven træder i kraft den 1. april 2019, jf. dog stk. 2-4.
+
+Stk. 2-3. (Udelades)
+
+Stk. 4. Justitsministeren fastsætter tidspunktet for ikrafttræden af § 15, nr. 2 og 3.
+
+Stk. 5. (Udelades)
+
+§ 41
+
+(Udelades)
+
+§ 42
+
+Stk. 1. De ændringer af retsplejeloven, der følger af denne lovs § 15, nr. 1 og 7-19, og de ændringer af lov om retsafgifter, der følger af denne lovs § 16, finder ikke anvendelse for sager, som er indbragt for retten før lovens ikrafttræden. For sådanne sager finder de hidtil gældende regler anvendelse.
+
+Stk. 2. For aftaler anmeldt til, godkendt af eller indgået over for Statsforvaltningen og for afgørelser truffet af Statsforvaltningen før lovens ikrafttræden finder den hidtil gældende § 478, stk. 1, nr. 3, i retsplejeloven, jf. lovbekendtgørelse nr. 1101 af 22. september 2017 med senere ændringer, anvendelse.
+
+Stk. 3. Kapitel 42 b i retsplejeloven som affattet ved denne lovs § 15, nr. 20, finder ikke anvendelse for behandlingen af anmodninger om fuldbyrdelse, som fogedretten har modtaget før lovens ikrafttræden, hvis anvendelse af disse regler findes uhensigtsmæssigt. I disse tilfælde finder det hidtil gældende kapitel 48 a i retsplejeloven, jf. lovbekendtgørelse nr. 1101 af 22. september 2017 med senere ændringer, anvendelse.
+
+Stk. 4. Første gang der beskikkes medlemmer til Procesbevillingsnævnet i medfør af § 23, stk. 2, i retsplejeloven som affattet ved denne lovs § 15, nr. 2, sker beskikkelsen af landsdommeren og dennes suppleant eller suppleanter for en periode på 2 år og 6 måneder. Dette medlem og dets suppleant eller suppleanter har ret til genbeskikkelse for yderligere 2 år.
+
+§ 43
+
+(Udelades)
+
+Lov nr. 1719 af 27. december 2018 (Freds- og ærekrænkelser m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 5
+
+Stk. 1. Loven træder i kraft den 1. januar 2019.
+
+Stk. 2. Lovens § 1, § 2, nr. 2 og 3, og § 3 finder ikke anvendelse i forhold til handlinger begået før lovens ikrafttræden.
+
+Lov nr. 329 af 30. marts 2019 (Selvstændig bestemmelse om psykisk vold) indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 7
+
+Loven træder i kraft den 1. april 2019.
+
+Lov nr. 370 af 9. april 2019 (Sagsomkostninger til statslige myndigheder, indførelse af adgang til at klage over advarsler meddelt dommere og dommerfuldmægtige m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 2
+
+Stk. 1. Loven træder i kraft den 12. april 2019, jf. dog stk. 2.
+
+Stk. 2. Justitsministeren fastsætter tidspunktet for ikrafttræden af lovens § 1, nr. 13.
+
+Lov nr. 463 af 29. april 2019 (Undersøgelse af arrestanter m.v. i forbindelse med transporter) indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 3
+
+Loven træder i kraft den 1. maj 2019.
+
+Lov nr. 485 af 30. april 2019 (Udeblivelsesdomme i sager med påstand om udvisning og anvendelse af telekommunikation med billede i retsmøder) indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 2
+
+Stk. 1. Loven træder i kraft den 1. maj 2019.
+
+Stk. 2. Lovens § 1, nr. 3 og 4, finder ikke anvendelse i straffesager, hvor der er foretaget forkyndelse af indkaldelse for tiltalte, jf. retsplejelovens § 844, stk. 2, før lovens ikrafttræden. Sådanne straffesager behandles efter de hidtil gældende regler.
+
+Lov nr. 497 af 1. maj 2019 (Kontinuitet og enkle forløb for børn, der adopteres uden samtykke) indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 7
+
+Stk. 1. Loven træder i kraft den 1. juli 2019.
+
+Stk. 2-4. (Udelades)
+
+Lov nr. 505 af 1. maj 2019 (Ophør af tvungen opfølgning efter udskrivning) indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 3
+
+Loven træder i kraft den 1. juli 2019.
