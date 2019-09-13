@@ -1,5 +1,5 @@
-Sundheds- og Ældreministeriet, den 29. september 2015
+Sundheds- og Ældreministeriet, den 2. september 2019
 
-Sophie Løhde
+Magnus Heunicke
 
-/ Lise Wied Kirkegaard
+/ Sabine Godsvig Laursen
