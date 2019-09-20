@@ -1,5 +1,3 @@
-Lov om tobaksvarer m.v.
+Bekendtgørelse af lov om tobaksvarer m.v.
 
-VI MARGRETHE DEN ANDEN, af Guds Nåde Danmarks Dronning, gør vitterligt:
-
-Folketinget har vedtaget og Vi ved Vort samtykke stadfæstet følgende lov:
+Herved bekendtgøres lov nr. 608 af 7. juni 2016 om tobaksvarer m.v. med de ændringer, der følger af § 1 i lov nr. 86 af 30. januar 2019.

@@ -1,7 +1,5 @@
-Givet på Fredensborg Slot, den 7. juni 2016
+Sundheds- og Ældreministeriet, den 26. august 2019
 
-Under Vor Kongelige Hånd og Segl
+Magnus Heunicke
 
-MARGRETHE R.
-
-/ Sophie Løhde
+/ Anja Gade Andersen
