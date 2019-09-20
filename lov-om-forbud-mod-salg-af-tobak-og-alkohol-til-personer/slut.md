@@ -1,5 +1,5 @@
-Ministeriet for Sundhed og Forebyggelse, den 21. oktober 2008
+Sundheds- og Ældreministeriet, den 26. august 2019
 
-Jakob Axel Nielsen
+Magnus Heunicke
 
-/ Hanne Nicoline Makholm
+/ Anja Gade Andersen
