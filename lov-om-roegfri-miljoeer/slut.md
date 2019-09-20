@@ -1,7 +1,5 @@
-Givet på Christiansborg Slot, den 6. juni 2007
+Sundheds- og Ældreministeriet, den 26. august 2019
 
-Under Vor Kongelige Hånd og Segl
+Magnus Heunicke
 
-Margrethe R.
-
-/Lars Løkke Rasmussen
+/ Anja Gade Andersen
