@@ -30,36 +30,42 @@
 
 16) Lovændringen vedrører overskriften til 7. kapitel, § 56, stk. 1 og 2, § 60, stk. 1, nr. 2 og 3, § 62, stk. 2, § 63, stk. 1, 2. pkt., § 63, stk. 3, 2. pkt., § 63, stk. 4, 3. pkt., § 64, 2. pkt., § 66, stk. 3, 2. pkt., § 67, stk. 2, 2. pkt., og § 86, stk. 3 og 4.
 
-17) Lovændringen vedrører § 197, stk. 2, og 3.
+17) Lovændringen vedrører § 197, stk. 2 og 3.
 
 18) Loven er bekendtgjort i Lovtidende den 20. juni 2017.
 
-19) Lovændringen vedrører § 79 a og § 124 a.
+19) Lovændringen vedrører § 93, stk. 3 og 4, § 93 b, stk. 2, og § 94, stk. 4.
 
-20) Loven er bekendtgjort i Lovtidende den 6. december 2017.
+20) Lovændringen vedrører § 94, stk. 4, og § 244, stk. 2.
 
-21) Lovændringen vedrører § 276 a.
+21) Lovændringen vedrører § 73 a, stk. 2.
 
-22) Lovændringen vedrører § 93, stk. 3 og 4, § 93 b, stk. 2, og § 94, stk. 4.
+22) Lovændringen vedrører § 215 a.
 
-23) Lovændringen vedrører § 123, stk. 2, og § 291, stk. 4.
+23) Lovændringen vedrører § 81 b, § 81 c, § 156, stk. 2, og § 157, stk. 2.
 
-24) Loven er bekendtgjort i Lovtidende den 1. marts 2018.
+24) Lovændringen vedrører § 132 a, stk. 2.
 
-25) Lovændringen vedrører § 232, stk. 2, og § 264 d, stk. 2.
+25) Loven er bekendtgjort i Lovtidende den 19. december 2018.
 
-26) Lovændringen vedrører § 299 a, 1. pkt.
+26) Lovændringen vedrører § 4, stk. 1, § 57, nr. 9 og 10, og § 74 b.
 
-27) Lovændringen vedrører § 245, stk. 1, 1. pkt., og stk. 2, § 245 a og § 246.
+27) Lovændringen vedrører § 96, stk. 5, § 97 b, stk. 3, § 193, stk. 1, § 263, § 263 a, §§ 264-264 d, § 266 c, §§ 267-275 og § 301 a.
 
-28) Lovændringen vedrører § 263 a, stk. 3, nr. 2.
+28) Lovændringen vedrører § 119, stk. 3, § 119 a, stk. 2, og § 291, stk. 4, 2. pkt.
 
-29) Lovændringen vedrører § 290, stk. 1, og § 290 a.
+29) Lovændringen vedrører §196 a.
 
-30) Lovændringen vedrører § 75, stk. 5, § 132 a og § 132 b.
+30) Lovændringen vedrører § 124, stk. 5, nr. 2 og 4, og § 143.
 
-31) Loven er bekendtgjort i Lovtidende den 9. juni 2018.
+31) Lovændringen vedrører § 108.
 
-32) Lovændringen vedrører § 134 b, stk. 3, og § 134 c.
+32) Loven er bekendtgjort i Lovtidende den 27. marts 2019.
 
-33) Lovændringen vedrører § 94, stk. 4, og § 244, stk. 2.
+33) Lovændringen vedrører § 94, stk. 4, 3. pkt, § 243 og § 247, stk. 1.
+
+34) Lovændringen vedrører § 80, stk. 3.
+
+35) Lovændringen vedrører § 73 a, stk. 2, 2. pkt.
+
+36) Lovændringen vedrører § 124, stk. 3 og 6.

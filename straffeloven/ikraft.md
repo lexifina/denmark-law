@@ -46,6 +46,10 @@ Stk. 1. Bestemmelserne i straffelovens kapitel 14 om forbrydelser mod den offent
 
 Stk. 2. Forvolder en embedsmand fra en anden medlemsstat skade under udførelse af opgaver i Danmark efter artikel 12 og 13 i konvention af 29. maj 2000 om gensidig retshjælp i straffesager mellem Den Europæiske Unions medlemsstater samt tilsvarende bestemmelser i andre EU-retsakter eller efter artikel 18 og 20 i 2. tillægsprotokol af 8. november 2001 til den europæiske konvention af 20. april 1959 om gensidig retshjælp i straffesager, som efter dansk ret medfører erstatningspligt, udbetales erstatning af justitsministeren.
 
+§§ 4-5
+
+(Udelades)
+
 § 6
 
 Loven træder i kraft den 1. juli 2002.
@@ -136,20 +140,6 @@ Stk. 1. Loven træder i kraft dagen efter bekendtgørelsen i Lovtidende, jf. dog
 
 Stk. 2. Straffelovens § 197, stk. 2 og 3, som affattet ved denne lovs § 1, nr. 1, ophæves den 1. juli 2020.
 
-Lov nr. 1402 af 5. december 2017 (Initiativer mod rocker- og bandekriminalitet m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
-
-§ 4
-
-Stk. 1. Lovens § 1 træder i kraft dagen efter bekendtgørelsen i Lovtidende.
-
-Stk. 2-4. (Udelades)
-
-Lov nr. 1680 af 26. december 2017 (Selvstændig bestemmelse om indbrudstyveri) indeholder følgende ikrafttrædelsesbestemmelse:
-
-§ 4
-
-Loven træder i kraft den 1. januar 2018.
-
 Lov nr. 140 af 28. februar 2018 (Ophævelse af forældelsesfrister for gerningsmandens strafansvar i sager om seksuelt misbrug af børn og for erstatningskrav mod forvaltningsmyndigheder for svigt i sager om overgreb mod børn, forhøjelse af niveauet for tortgodtgørelse for seksuelle krænkelser samt ophævelse af 72-timersreglen i sager om voldtægt, incest og seksuelt misbrug af børn m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
 
 § 5
@@ -160,56 +150,6 @@ Stk. 2. § 1 finder også anvendelse på lovovertrædelser, der er begået før 
 
 Stk. 3-5. (Udelades)
 
-Lov nr. 141 af 28. februar 2018 (Skærpelse af straffen for vidnetrusler og visse former for hærværk) indeholder følgende ikrafttrædelsesbestemmelse:
-
-§ 2
-
-Loven træder i kraft dagen efter bekendtgørelsen i Lovtidende.
-
-Lov nr. 257 af 10. april 2018 (Skærpelse af straffen for blufærdighedskrænkelse og digitale sexkrænkelser) indeholder følgende ikrafttrædelsesbestemmelse:
-
-§ 2
-
-Loven træder i kraft den 15. april 2018.
-
-Lov nr. 309 af 25. april 2018 om forretningshemmeligheder indeholder følgende ikrafttrædelsesbestemmelse:
-
-§ 19. Loven træder i kraft den 9. juni 2018.
-
-Stk. 2. (Udelades)
-
-Lov nr. 358 af 29. april 2018 (Skærpelse af straffen for grov vold) indeholder følgende ikrafttrædelsesbestemmelse:
-
-§ 2
-
-Loven træder i kraft den 1. maj 2018.
-
-Lov nr. 503 af 23. maj 2018 (Konsekvensændringer som følge af databeskyttelsesloven og databeskyttelsesforordningen samt medieansvarslovens anvendelse på offentligt tilgængelige informationsdatabaser m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
-
-§ 32
-
-Stk. 1. Loven træder i kraft den 25. maj 2018, jf. dog stk. 3.
-
-Stk. 2-3. (Udelades)
-
-Lov nr. 711 af 8. juni 2018 (Selvstændig bestemmelse om hvidvask) indeholder følgende ikrafttrædelsesbestemmelse:
-
-§ 2
-
-Loven træder i kraft den 1. juli 2018.
-
-Lov nr. 715 af 8. juni 2018 (Retsvirkninger af et foreløbigt forbud mod eller en opløsning af en forening) indeholder følgende ikrafttrædelsesbestemmelse:
-
-§ 3
-
-Loven træder i kraft dagen efter bekendtgørelsen i Lovtidende.
-
-Lov nr. 717 af 8. juni 2018 (Tildækningsforbud) indeholder følgende ikrafttrædelsesbestemmelse:
-
-§ 2
-
-Loven træder i kraft den 1. august 2018.
-
 Lov nr. 718 af 8. juni 2018 (Udskydelse af forældelsesfristen i visse sager om vold mod børn i hjemmet og skærpelse af straffen for gentagen simpel vold i nære relationer) indeholder følgende ikrafttrædelsesbestemmelse:
 
 § 2
@@ -217,3 +157,97 @@ Lov nr. 718 af 8. juni 2018 (Udskydelse af forældelsesfristen i visse sager om 
 Stk. 1. Loven træder i kraft den 1. juli 2018.
 
 Stk. 2. § 1, nr. 1, finder også anvendelse på lovovertrædelser, der er begået før lovens ikrafttræden, medmindre forældelse efter de hidtil gældende regler er indtrådt før lovens ikrafttræden.
+
+Lov nr. 1541 af 18. december 2018 (Forhold for indsatte i kriminalforsorgens institutioner, varetægtssurrogat m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 5
+
+Stk. 1. Loven træder i kraft den 1. februar 2019.
+
+Stk. 2. (Udelades)
+
+Lov nr. 1542 af 18. december 2018 (Kriminalisering af udlandsophold, der bringer et barns sundhed eller udvikling i alvorlig fare) indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 3
+
+Loven træder i kraft den 1. januar 2019.
+
+Lov nr. 1543 af 18. december 2018 (Skærpet straf-zone og skærpet straf for ledende medarbejderes pligtforsømmelse i offentlig tjeneste eller hverv) indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 3
+
+Loven træder i kraft den 1. januar 2019.
+
+Lov nr. 1545 af 18. december 2018 (Bødestraf for besiddelse eller anvendelse af en forbudt eller opløst forenings kendetegn) indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 2
+
+Loven træder i kraft dagen efter bekendtgørelsen i Lovtidende.
+
+Lov nr. 1705 af 27. december 2018 om bekæmpelse af ungdomskriminalitet indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 60. Loven træder i kraft den 1. januar 2019.
+
+Stk. 2. Loven finder anvendelse for sager om kriminalitet begået efter lovens ikrafttræden.
+
+Stk. 3. (Udelades)
+
+Lov nr. 1719 af 27. december 2018 (Freds- og ærekrænkelser m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 5
+
+Stk. 1. Loven træder i kraft den 1. januar 2019.
+
+Stk. 2. Lovens § 1, § 2, nr. 2 og 3, og § 3 finder ikke anvendelse i forhold til handlinger begået før lovens ikrafttræden.
+
+Lov nr. 82 af 30. januar 2019 (Skærpelse af straffen for trusler, chikane og hærværk mod personer i offentlig tjeneste eller hverv) indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 2
+
+Loven træder i kraft den 1. februar 2019.
+
+Lov nr. 171 af 27. februar 2019 (Strafskærpelse for visse overtrædelser af CITES-regler) indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 3
+
+Loven træder i kraft den 1. marts 2019.
+
+Lov nr. 174 af 27. februar 2019 (Videre adgang til inddragelse af opholdstilladelser for flygtninge, loft over antallet af familiesammenføringer, skærpet straf for overtrædelse af indrejseforbud og overtrædelse af opholds-, underretnings- og meldepligt, ydelsesnedsættelse for forsørgere m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 14
+
+Stk. 1. Loven træder i kraft den 1. marts 2019, jf. dog stk. 2-6.
+
+Stk. 2. Lovens § 1, nr. 23, og § 8, nr. 3, træder i kraft den 1. juni 2019.
+
+Stk. 3-11. (Udelades)
+
+Lov nr. 269 af 26. marts 2019 (Ulovlig påvirkningsvirksomhed) indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 2
+
+Loven træder i kraft dagen efter bekendtgørelsen i Lovtidende.
+
+Lov nr. 329 af 30. marts 2019 (Selvstændig bestemmelse om psykisk vold) indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 7
+
+Loven træder i kraft den 1. april 2019.
+
+Lov nr. 330 af 30. marts 2019 (Betydningen af tro, kulturelle forhold og lign. i forbindelse med straffens fastsættelse) indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 2
+
+Loven træder i kraft den 1. april 2019.
+
+Lov nr. 463 af 29. april 2019 (Undersøgelse af arrestanter m.v. i forbindelse med transporter) indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 3
+
+Loven træder i kraft den 1. maj 2019.
+
+Lov nr. 466 af 29. april 2019 (Skærpelse af strafniveauet for flugt og medvirken til flugt fra lukkede fængsler og arresthuse) indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 2
+
+Loven træder i kraft den 1. maj 2019.
