@@ -1,6 +1,6 @@
 ## Arbejdsmarkedets Tillægspension
 
-§ 33 a. For personer, der modtager førtidspension indbetales ATP-bidrag, jf. § 2 a, i lov om Arbejdsmarkedets Tillægspension. ATP-bidraget udgør det i § 15, stk. 1, i lov om Arbejdsmarkedets Tillægspension fastsatte bidrag, jf. dog stk. 3.
+§ 33 a. For personer, der modtager, førtidspension indbetales ATP-bidrag, jf. § 2 a, i lov om Arbejdsmarkedets Tillægspension. ATP-bidraget udgør det i § 15, stk. 1, i lov om Arbejdsmarkedets Tillægspension fastsatte bidrag, jf. dog stk. 3.
 
 Stk. 2. Der kan ikke indbetales ATP-bidrag, hvis pensionen, jf. stk. 1, månedsvis udgør mindre end 1.000 kr.
 

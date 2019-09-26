@@ -1,3 +1,7 @@
 Bekendtgørelse af lov om social pension
 
-Herved bekendtgøres lov om social pension, jf. lovbekendtgørelse nr. 1239 af 13. oktober 2016, med de ændringer, der følger af § 1 i lov nr. 659 af 8. juni 2017 og § 2 i lov nr. 674 af 8. juni 2017.
+Herved bekendtgøres lov om social pension, jf. lovbekendtgørelse nr. 1208 af 17. november 2017, med de ændringer, der følger af § 33 i lov nr. 1555 af 19. december 2017, § 12 i lov nr. 278 af 17. april 2018, § 1 i lov nr. 442 af 8. maj 2018, § 3 i lov nr. 558 af 29. maj 2018, § 6 i lov nr. 701 af 8. juni 2018, § 2 i lov nr. 553 af 29. maj 2018, § 2 i lov nr. 1526 af 18. december 2018, § 5 i lov nr. 1548 af 18. december 2018, § 1 i lov nr. 125 af 6. februar 2019 og § 4 i lov nr. 495 af 1. maj 2019.
+
+De ændringer, der følger af § 6 i lov nr. 339 af 2. april 2019 om ændring af lov om Arbejdsmarkedets Tillægspension og forskellige andre love (Indførelse af obligatorisk pensionsordning for overførselsindkomstmodtagere og tillæg til refusion til arbejdsgivere samt ændring af satsregulering af forskellige overførselsindkomster), er ikke indarbejdet i denne lovbekendtgørelse, da de træder i kraft den 1. januar 2020, jf. § 15 i lov nr. 339 af 2. april 2019.
+
+De ændringer, der følger af § 11 i lov nr. 551 af 7. maj 2019 om ændring af lov om organisering og understøttelse af beskæftigelsesindsatsen m.v., lov om aktiv socialpolitik, lov om sygedagpenge, integrationsloven og forskellige andre love (Konsekvenser af aftale om en forenklet beskæftigelsesindsats m.v.), er ikke indarbejdet i denne lovbekendtgørelse, da de træder i kraft den 1. januar 2020, jf. § 30, stk. 4, i lov nr. 551 af 7. maj 2019.
