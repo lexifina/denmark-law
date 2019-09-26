@@ -1,4 +1,4 @@
-Lov nr. 914 af 16. december 1998 (Ændrede udbetalingsregler, ligestilling af samlevende med gifte m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
+Lov nr. 914 af 16. december 1998 (Ændrede udbetalingsregler, ligestilling af samlevende med gifte m.v.) indeholder følgende ikrafttrædelses- og overgangsbestemmelse:
 
 § 3
 
@@ -26,7 +26,7 @@ Stk. 2. § 1, nr. 1 og 2, finder anvendelse på personer, der fylder 60 år den 
 
 Stk. 3. Personer, der er omfattet af stk. 2, og som er bosiddende i Danmark fra før den 1. juli 1999 og frem til det fyldte 65. år, vil kunne opfylde undtagelsesbestemmelsen til kravet om dansk indfødsret, jf. lovens § 2, stk. 2, nr. 1, såfremt de ville kunne have haft 10 års bopæl her i landet ved det fyldte 67. år.
 
-Stk. 4. Personer, der er omfattet af stk. 2, og som er bosiddende i Danmark fra før den 1. juli 1999 og frem til det fyldte 65. år, vil kunne opfylde undtagelsesbestemmelsen til kravet om dansk indfødsret, jf. lovens § 2, nr. 1, så fremt de ville kunne have haft 10 års bopæl her i landet ved det fyldte 67. år.
+Stk. 4. Personer, der er omfattet af stk. 2, og som er bosiddende i Danmark fra før den 1. juli 1999 og frem til det fyldte 65. år, vil kunne opfylde undtagelsesbestemmelsen til kravet om dansk indfødsret, jf. lovens § 2, nr. 1, såfremt de ville kunne have haft 10 års bopæl her i landet ved det fyldte 67. år.
 
 Lov nr. 285 af 25. april 2001 (Førtidspensionsreform) indeholder følgende ikrafttrædelses- og overgangsbestemmelse:
 
@@ -76,7 +76,7 @@ Stk. 3. Hvis pensionsudbetalingen ved lovens ikrafttræden er ophørt efter de h
 
 Stk. 4. Hvis pensionsudbetalingen ved lovens ikrafttræden er ophørt efter de hidtil gældende regler i § 45 i lov om højeste, mellemste, forhøjet almindelig og almindelig førtidspension m.v., genoptages pensionsudbetalingen ved opholdets ophør efter de hidtil gældende regler i lovens § 34.
 
-Lov nr. 429 af 28. april 2010 (Kompetencen til at træffe afgørelse om lovvalg m.v. efter EF-forordning nr. 883/04 om koordinering af de sociale sikringsordninger m.v.) indeholder følgende ikrafttrædelses- og overgangsbestemmelse:
+Lov nr. 429 af 28. april 2010 (Kompetencen til at træffe afgørelse om lovvalg m.v. efter EF-forordning nr. 883/04 om koordinering af de sociale sikringsordninger m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
 
 § 20
 
@@ -86,7 +86,7 @@ Stk. 2. (Udelades)
 
 Stk. 3. Henvisninger til forordning (EØF) nr. 1408/71 forbliver i kraft, og anvendelsen af denne forordning bevares i forhold til det enkelte EØS-land og Schweiz, så længe det enkelte EØS-land eller Schweiz ikke har tilsluttet sig forordning (EF) nr. 883/04.
 
-Lov nr. 1603 af 22. december 2010 (Harmonisering af regler om opgørelse af bopælstid for ret til folkepension) indeholder følgende ikrafttrædelses- og overgangsbestemmelse:
+Lov nr. 1603 af 22. december 2010 (Harmonisering af regler om opgørelse af bopælstid for ret til folkepension) indeholder følgende ikrafttrædelsesbestemmelse:
 
 § 2
 
@@ -94,7 +94,7 @@ Stk. 1. Loven træder i kraft den 1. januar 2011, jf. dog stk. 2.
 
 Stk. 2. Den hidtil gældende § 9 i lov om social pension finder fortsat anvendelse ved opgørelse af optjeningsgrundlaget for ret til folkepension for udlændinge, som er meddelt ophold i Danmark efter udlændingelovens § 7 eller § 8, som er indrejst i Danmark før lovens ikrafttræden, og som har opnået folkepensionsalderen før den 1. januar 2021.
 
-Lov nr. 1386 af 28. december 2011 (Forhøjelse af folkepensionsalder, indførelse af seniorførtidspension m.v.) indeholder følgende ikrafttrædelses- og overgangsbestemmelse:
+Lov nr. 1386 af 28. december 2011 (Forhøjelse af folkepensionsalder, indførelse af seniorførtidspension m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
 
 § 2
 
@@ -148,7 +148,7 @@ Stk. 2. Kommunen skal efter anmodning fra Udbetaling Danmark sende en kopi af de
 
 Stk. 3. Social- og integrationsministeren kan efter indstilling fra bestyrelsen for Udbetaling Danmark fastsætte regler om, at Udbetaling Danmark fra 2015 skal betale et gebyr til kommunen for at varetage opgaven efter stk. 2, 1. pkt., og regler om udfasning af kommunernes arkivforpligtelse over for Udbetaling Danmark fra 2018.
 
-Lov nr. 928 af 18. september 2012 (Ændret regulering af forskellige indkomstoverførsler i årene 2016-2023 samt forhøjelse af den supplerende pensionsydelse og pensionstillæg til folkepensionister) indeholder følgende ikrafttrædelses- og overgangsbestemmelse:
+Lov nr. 928 af 18. september 2012 (Ændret regulering af forskellige indkomstoverførsler i årene 2016-2023 samt forhøjelse af den supplerende pensionsydelse og pensionstillæg til folkepensionister) indeholder følgende ikrafttrædelsesbestemmelse:
 
 § 9
 
@@ -172,7 +172,7 @@ Stk. 8. Lovens § 11, nr. 3 og 5, træder i kraft den 1. januar 2014.
 
 § 22
 
-Stk. 1-9. (Udelades)
+Stk. Stk. 1-9. (Udelades)
 
 Stk. 10. § 3, stk. 5, i lov om social pension som ændret ved denne lovs § 11, nr. 1, finder ikke anvendelse for førtidspensionister, der ved lovens ikrafttræden har ret til førtidspension under fast bopæl i udlandet, så længe førtidspensionisten har uafbrudt fast bopæl i et ikke EU/EØS-land eller Schweiz. For sådanne sager finder den hidtil gældende § 3, stk. 5, i lov om social pension anvendelse.
 
@@ -250,11 +250,9 @@ Stk. 3. Udbetaling Danmark kan uden fornyet samtykke behandle sager efter stk. 2
 
 Stk. 4. Udbetaling Danmark overtager Pensionsstyrelsens krav mod borgeren og borgerens krav mod Pensionsstyrelsen, der måtte foreligge ved lovens ikrafttræden, i sager, der som følge af lovens §§ 3-5 overføres til Udbetaling Danmark.
 
-Lov nr. 336 af 2. april 2014 om erstatning og godtgørelse til tidligere udsendte soldater og andre statsansatte med sent diagnosticeret posttraumatisk belastningsreaktion indeholder følgende ikrafttrædelsesbestemmelser:
+Lov nr. 336 af 2. april 2014 om erstatning og godtgørelse til tidligere udsendte soldater og andre statsansatte med sent diagnosticeret posttraumatisk belastningsreaktion indeholder følgende ikrafttrædelsesbestemmelse:
 
-§ 7
-
-Stk. 1. Loven træder i kraft dagen efter bekendtgørelsen i Lovtidende.
+§ 7. Loven træder i kraft dagen efter bekendtgørelsen i Lovtidende.
 
 Stk. 2. Loven gælder også for erstatning og godtgørelse til personer, der før lovens ikrafttræden har fået sent diagnosticeret posttraumatisk belastningsreaktion.
 
@@ -308,7 +306,7 @@ Stk. 1. Loven træder i kraft den 1. september 2015.
 
 Stk. 2. Loven finder ikke anvendelse ved opgørelse af optjeningsgrundlaget for ret til folkepension for udlændinge, som er meddelt ophold i Danmark efter udlændingelovens §§ 7 eller 8, som er indrejst i Danmark før lovens ikrafttræden, og som når folkepensionsalderen før den 1. januar 2021. For en sådan opgørelse finder de hidtil gældende regler anvendelse.
 
-Lov 1000 nr. 30. august 2015 (Indførelse af en integrationsydelse, ændring af reglerne om ret til uddannelses- og kontanthjælp m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
+Lov nr. 1000 nr. 30. august 2015 (Indførelse af en integrationsydelse, ændring af reglerne om ret til uddannelses- og kontanthjælp m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
 
 § 16
 
@@ -316,7 +314,7 @@ Stk. 1. Loven træder i kraft den 1. september 2015, jf. dog stk. 2-4.
 
 Stk. 2-6. (Udelades)
 
-Lov nr. 456 af 25. maj 2016 (Undtagelse af visse førtidspensionssager fra forelæggelse for rehabiliteringsteamet) indeholder følgende ikrafttrædelses- og overgangsbestemmelse:
+Lov nr. 456 af 25. maj 2016 (Undtagelse af visse førtidspensionssager fra forelæggelse for rehabiliteringsteamet) indeholder følgende ikrafttrædelsesbestemmelse:
 
 § 3
 
@@ -367,3 +365,177 @@ Stk. 3. Regler fastsat i medfør af § 39, stk. 10, i lov om statens uddannelses
 § 18
 
 Loven gælder ikke for Færøerne og Grønland.
+
+Lov nr. 1555 af 19. december 2017 (Konsekvensændringer som følge af skattekontrolloven og skatteindberetningsloven, gennemførelse af ændringsdirektiv om skattemyndighedernes adgang til oplysninger indberettet efter hvidvaskregulering m.v.) indeholder følgende ikrafttrædelses- og overgangsbestemmelser:
+
+§ 38
+
+Stk. 1. Loven træder i kraft den 1. januar 2019 og har virkning fra og med indkomståret 2018, jf. dog stk. 2-4.
+
+Stk. 2-3. (Udelades)
+
+Stk. 4. Lovens § 1, nr. 2, 5 og 6, § 2, nr. 4 og 8, § 3, nr. 2, 5 og 6, § 4, nr. 6, 7, 12, 14-16 og 18, § 14, nr. 1-6, § 19, nr. 1, § 27, § 28, nr. 2, og §§ 29-33 finder ikke anvendelse på indberetninger vedrørende kalenderåret 2018 eller tidligere. For sådanne indberetninger finder den hidtil gældende skattekontrollov, jf. lovbekendtgørelse nr. 1264 af 31. oktober 2013 med senere ændringer, og forskrifter udstedt i medfør heraf anvendelse.
+
+Stk. 5. (Udelades)
+
+§ 39
+
+Loven gælder ikke for Færøerne og Grønland.
+
+Lov nr. 278 af 17. april 2018 (Indefrysning af stigninger i grundskylden for 2018-2020, forsigtighedsprincip ved fastsættelse af beskatningsgrundlag for grundskyld, dækningsafgift af erhvervsejendomme og ejendomsværdiskat m.v.) indeholder følgende ikrafttrædelses- og overgangsbestemmelse:
+
+§ 17
+
+Stk. 1. Loven træder i kraft den 1. juli 2018, jf. dog stk. 2.
+
+Stk. 2-6. (Udelades)
+
+Stk. 7. Stigninger i grundskylden for skatteåret 2018, der er betalt senest den 30. juni 2018, fradrages i den grundskyld, der skal betales den 1. juli 2018 eller senere. Lånet, der ydes for skatteåret 2018 efter kapitel 2 i lov om lån til betaling af grundskyld m.v. som affattet ved denne lovs § 1, nr. 4, forhøjes tilsvarende med det beløb, der fradrages i den betalte grundskyld efter 1. pkt.
+
+Stk. 8. Er der efter lov om lån til betaling af ejendomsskatter ydet lån til hel eller delvis betaling af grundskyld, der omfatter stigninger i grundskyld vedrørende første halvår 2018, nedskrives dette lån med et beløb svarende til det beløb, lånet, der ydes for skatteåret 2018 efter kapitel 2 i lov om lån til betaling af grundskyld m.v. som affattet ved denne lovs § 1, nr. 4, forhøjes med efter stk. 7, 2. pkt.
+
+Stk. 9. Told- og skatteforvaltningens afgørelser om almindelige vurderinger pr. 1. september 2018 efter ejendomsvurderingsloven og told- og skatteforvaltningens afgørelser om afslag på genoptagelse, jf. skatteforvaltningslovens § 20 b, stk. 3, og § 33, af almindelige vurderinger pr. 1. september 2018 efter ejendomsvurderingsloven kan tidligst påklages til skatteankeforvaltningen fra og med den 1. januar 2019 og 3 måneder frem.
+
+Lov nr. 442 af 8. maj 2018 (Skærpede krav til optjening af folkepension og førtidspension, hurtigere udbetaling af tillæg for opsat pension m.v.) indeholder følgende ikrafttrædelses- og overgangsbestemmelser:
+
+§ 5
+
+Stk. 1. Loven træder i kraft den 1. juli 2018, jf. dog stk. 2.
+
+Stk. 2. § 2, nr. 1 og 2, træder i kraft den 1. januar 2019.
+
+§ 6
+
+Stk. 1. § 1, nr. 1, 2, 4 og 14-20, finder ikke anvendelse for personer, som ved lovens ikrafttræden er tilkendt folkepension eller førtidspension, eller for hvem der er påbegyndt en sag om førtidspension efter lov om social pension. For disse personer finder de hidtil gældende regler i §§ 5-7, 10, § 31, stk. 4 og 5, § 32 c, stk. 2 og 3, § 33 b, stk. 1, § 49, stk. 1, nr. 12-14, og stk. 4, § 56 a, stk. 4, og § 72 d, stk. 4, i lov om social pension, jf. lovbekendtgørelse nr. 1208 af 17. november 2017, anvendelse.
+
+Stk. 2. § 1, nr. 1, 2, 4 og 14-20, finder ikke anvendelse for personer, der når folkepensionsalderen inden den 1. juli 2025. For disse personer finder de hidtil gældende regler i §§ 5-7, 10, § 31, stk. 4 og 5, § 32 c, stk. 2 og 3, § 33 b, stk. 1, § 49, stk. 1, nr. 12-14, og stk. 4, § 56 a, stk. 4, og § 72 d, stk. 4, i lov om social pension, jf. lovbekendtgørelse nr. 1208 af 17. november 2017, anvendelse.
+
+Stk. 3. § 1, nr. 3, finder ikke anvendelse for personer, som er meddelt opholdstilladelse i Danmark efter udlændingelovens §§ 7 eller 8, og som ved lovens ikrafttræden er tilkendt førtidspension, eller for hvem der er påbegyndt en sag om førtidspension efter lov om social pension. For disse personer finder den hidtil gældende § 9 i lov om social pension, jf. lovbekendtgørelse nr. 1208 af 17. november 2017, anvendelse.
+
+Stk. 4. § 1, nr. 3, finder ikke anvendelse for personer, som er meddelt opholdstilladelse i Danmark efter udlændingelovens §§ 7 eller 8, som er indrejst i Danmark inden den 1. september 2015, og som når folkepensionsalderen inden den 1. januar 2021. For disse personer finder den hidtil gældende § 9 i lov om social pension, jf. lovbekendtgørelse nr. 1208 af 17. november 2017, anvendelse.
+
+Stk. 5. § 1, nr. 8, finder ikke anvendelse for personer, der har optjent ret til venteprocent, og hvor opsætningsperioden er ophørt inden den 1. juli 2018.
+
+Stk. 6. § 1, nr. 12, finder ikke anvendelse for den del af perioder med opsat pension og perioder med arbejde efter folkepensionsalderen, der ligger inden den 1. juli 2018. For sådanne perioder finder de hidtil gældende regler i § 15 f, stk. 1 og 2, i lov om social pension, jf. lovbekendtgørelse nr. 1208 af 17. november 2017, anvendelse.
+
+Stk. 7. For personer omfattet af stk. 1 og 2, som vælger at få udbetalt engangstillæg, jf. § 1, nr. 12, og som ikke opfylder betingelsen for fuld pension efter den hidtil gældende § 5, stk. 1, i lov om social pension, jf. lovbekendtgørelse nr. 1208 af 17. november 2017, nedsættes engangstillægget forholdsmæssigt efter den hidtil gældende regel i § 5, stk. 2, i lov om social pension.
+
+§ 7
+
+Stk. 1. Loven gælder ikke for Færøerne og Grønland, jf. dog stk. 2 og 3.
+
+Stk. 2. Danske lønmodtagere, der ikke er hjemmehørende på Færøerne, og som er beskæftiget på Færøerne for den danske stat eller for virksomheder og institutioner, der har sæde eller styrelse i den øvrige del af riget, er omfattet af § 2, for så vidt de i øvrigt opfylder betingelserne for medlemskab af Arbejdsmarkedets Tillægspension.
+
+Stk. 3. Lønmodtagere, der ikke er hjemmehørende i Grønland, og som beskæftiges i Grønland for den danske stat eller for danske virksomheder og institutioner, er omfattet af § 2, for så vidt de i øvrigt opfylder betingelserne for medlemskab af Arbejdsmarkedets Tillægspension. Tilsvarende regler gælder for danske lønmodtagere, der ikke er hjemmehørende i Grønland, og som beskæftiges for udenlandske virksomheder og institutioner i Grønland.
+
+Lov nr. 558 af 29. maj 2018 (Tandpleje til voksne i privat praksis, tilskud, klageadgang m.v.) indeholder følgende ikrafttrædelses- og overgangsbestemmelser:
+
+§ 5
+
+Loven træder i kraft den 1. juni 2018.
+
+§ 6
+
+Stk. 1. En praktiserende tandlæge, der indtil den 1. juni 2018 har været omfattet af »Overenskomst om tandlægehjælp«, kan fortsat yde tandlægehjælp, hvortil der ydes tilskud af regionsrådet, jf. sundhedslovens § 64 b som affattet ved denne lovs § 1, nr. 2, medmindre tandlægen senest den 30. juni 2018 med 1 måneds varsel til udgangen af juli 2018 skriftligt meddeler regionen, at vedkommende udtræder af ordningen, og informerer patienterne herom.
+
+Stk. 2. Behandlinger, der ydes tilskud til efter »Overenskomst om tandlægehjælp«, og som er påbegyndt før den 1. juni 2018, kan færdiggøres inden for de rammer og under de vilkår for tandlægehjælp, der følger af denne lovs § 1.
+
+Stk. 3. Klager, der er indgivet til det faglige klagesystem efter kapitel 10 i »Overenskomst om tandlægehjælp«, og som ikke er endeligt afgjort den 1. juni 2018, afgøres af Sundhedsvæsenets Disciplinærnævn efter § 2 i lov om klage- og erstatningsadgang inden for sundhedsvæsenet og § 3, stk. 2, i lov om klage- og erstatningsadgang inden for sundhedsvæsenet som affattet ved denne lovs § 2, nr. 7.
+
+Stk. 4. Klager over overenskomstmæssige forhold, der er indgivet til et samarbejdsudvalg efter § 35, stk. 1, i »Overenskomst om tandlægehjælp« eller til Landssamarbejdsudvalget efter § 37, stk. 2, i »Overenskomst om tandlægehjælp«, og som ikke er endeligt afgjort den 1. juni 2018, bortfalder.
+
+Stk. 5. Klager over manglende tilbud om skriftligt prisoverslag, manglende regelmæssig indkaldelse til tandlæge og manglende mulighed for akut behandling afgøres af Styrelsen for Patientsikkerhed efter § 1 i lov om klage- og erstatningsadgang inden for sundhedsvæsenet som ændret ved denne lovs § 2, nr. 1.
+
+Stk. 6. Regionsrådene kan yde sekretariatsbetjening til behandlingen af de klager, der er nævnt i stk. 3 og 5.
+
+Stk. 7. Henlægger sundhedsministeren efter § 3 b, stk. 1, i lov om klage- og erstatningsadgang inden for sundhedsvæsenet som affattet ved denne lovs § 2, nr. 8, behandlingen af sager til en klageinstans, behandles de klager, der er nævnt i stk. 3 og 5, efter de aftaler, der indgås efter denne bestemmelse, og de regler, der udstedes i medfør heraf.
+
+§ 7
+
+Loven gælder ikke for Grønland og Færøerne, men § 1, stk. 3, i lov om klage- og erstatningsadgang inden for sundhedsvæsenet som affattet ved denne lovs § 2, nr. 1, og denne lovs § 2, nr. 2-7 og 9-16, kan ved kongelig anordning helt eller delvis sættes i kraft for Færøerne med de ændringer, som de færøske forhold tilsiger.
+
+Lov nr. 701 af 8. juni 2018 (Konsekvensændringer af ydelseslovgivningen som følge af indførelse af samtidighedsferie i ferieloven, kompensation af private arbejdsgivere ved indførelse af samtidighedsferie m.v.) indeholder følgende ikrafttrædelses- og overgangsbestemmelser:
+
+§ 9
+
+Stk. 1. Loven træder i kraft den 1. juli 2018, jf. dog stk. 2-4.
+
+Stk. 2. § 1, nr. 1-4, § 2, nr. 1 og 2, og §§ 5-7 træder i kraft den 1. januar 2019.
+
+Stk. 3. § 1, nr. 6, § 2, nr. 3, § 3 og § 4, nr. 5, træder i kraft den 1. januar 2020.
+
+Stk. 4. § 1, nr. 5, og § 4, nr. 1-4, træder i kraft den 1. september 2020.
+
+§ 10
+
+Stk. 1. Regler fastsat i medfør af § 75 h, stk. 9, eller § 85 c, stk. 23 og 24, i lov om arbejdsløshedsforsikring m.v., jf. lovbekendtgørelse nr. 225 af 20.marts 2018, forbliver i kraft, indtil de ophæves eller afløses af forskrifter udstedt i medfør af § 75 h, stk. 10, eller § 85 c, stk. 24 og 25, i lov om arbejdsløshedsforsikring m.v.
+
+Stk. 2. Regler fastsat i medfør af § 45, stk. 14 og 15, i barselsloven, jf. lovbekendtgørelse nr. 827 af 23. juni 2017, som ændret ved § 1 i lov nr. 288 af 29. marts 2017 og § 4 i lov nr. 1669 af 26. december 2017 forbliver i kraft, indtil de ophæves eller afløses af forskrifter udstedt i medfør af § 45, stk. 15 og 16, i barselsloven.
+
+Stk. 3. Regler fastsat i medfør af § 66, stk. 14 og 15, i lov om sygedagpenge, jf. lovbekendtgørelse nr. 38 af 19. januar 2018, forbliver i kraft, indtil de ophæves eller afløses af forskrifter udstedt i medfør af § 66, stk. 15 og 16, i lov om sygedagpenge.
+
+Stk. 4. Regler fastsat i medfør af § 80 a, stk. 14 og 15, i lov om aktiv socialpolitik, jf. lovbekendtgørelse nr. 269 af 21. marts 2017, som ændret ved § 5 i lov nr. 1669 af 26. december 2017 forbliver i kraft, indtil de ophæves eller afløses af forskrifter udstedt i medfør af § 80 a, stk. 15 og 16, i lov om aktiv socialpolitik.
+
+Stk. 5. Regler fastsat i medfør af § 27, stk. 8, i lov om social pension, jf. lovbekendtgørelse nr. 1208 af 17. november 2017, forbliver i kraft, indtil de ophæves eller afløses af forskrifter udstedt i medfør af § 27, stk. 9, i lov om social pension.
+
+§ 11
+
+Beskæftigelsesministeren fastsætter første gang nedsættelsen af de private arbejdsgiveres finansieringsbidrag, jf. § 1, nr. 6, § 2, nr. 3, § 3 og § 4, nr. 5, for finansieringsbidragsåret 2020.
+
+Lov nr. 553 af 29. maj 2018 (Ressourceforløb og dokumentationskrav for tilkendelse af førtidspension) indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 3
+
+Loven træder i kraft den 1. juni 2018.
+
+Lov nr. 1526 af 18. december 2018 (Karantæneordning i ydelsessystemet for bandekriminelle m.v.) indeholder følgende ikrafttrædelses- og overgangsbestemmelse:
+
+§ 12
+
+Stk. 1. Loven træder i kraft den 1. januar 2019.
+
+Stk. 2. Loven finder ikke anvendelse for domme efter straffelovens § 81 a, der vedrører forhold begået inden lovens ikrafttræden.
+
+Stk. 3. Denne lovs § 1, nr. 3, og § 11, stk. 8, i lov om aktiv socialpolitik som affattet ved denne lovs § 1, nr. 4, finder ikke anvendelse for personer, der modtager uddannelseshjælp eller kontanthjælp ved lovens ikrafttræden, jf. dog stk. 4.
+
+Stk. 4. Har udbetalingen af uddannelseshjælp eller kontanthjælp efter lovens ikrafttræden været ophørt i 2 hele kalendermåneder eller derover, og ansøges der igen om ydelse, skal de ansøgere, der er nævnt i stk. 3, opfylde § 11, stk. 3 og 8, i lov om aktiv socialpolitik som henholdsvis ændret og affattet ved denne lovs § 1, nr. 3 og 4, ved den fornyede ansøgning fra den 1. januar 2019.
+
+Lov nr. 1548 af 18. december 2018 (Gennemførelse af aftale om fokusering af DR og afskaffelse af medielicensen m.v.) indeholder følgende ikrafttrædelses- og overgangsbestemmelse:
+
+§ 8
+
+Stk. 1. Loven træder i kraft den 1. januar 2019, jf. dog stk. 2.
+
+Stk. 2. § 1, nr. 4 og 5, og § 4 træder i kraft den 1. januar 2022. DR kan dog fortsat efter den 1. januar 2022 opkræve medielicens efter de hidtil gældende regler i kapitel 10 i lov om radio- og fjernsynsvirksomhed, i det omfang der er tale om opkrævning af medielicens vedrørende perioden før den 1. januar 2022.
+
+Stk. 3. § 3 har virkning fra og med indkomståret 2019.
+
+Stk. 4. Ved opgørelsen af den kommunale slutskat og kirkeskat for indkomståret 2019 efter § 16 i lov om kommunal indkomstskat korrigeres den opgjorte slutskat for den beregnede virkning af de ændringer i udskrivningsgrundlaget for kommuneskat og kirkeskat for 2019, der følger af denne lovs § 3.
+
+Stk. 5. Den beregnede korrektion af den kommunale slutskat og kirkeskat efter stk. 4 fastsættes af økonomi- og indenrigsministeren på grundlag af de oplysninger vedrørende indkomståret 2019, der foreligger pr. 1. maj 2021.
+
+Lov nr. 125 af 6. februar 2019 (Forhøjelse af satser for folkepension, forhøjelse af fradragsbeløb for folkepension og førtidspension og forhøjelse af fradragsbeløb for ægtefælles eller samlevers indkomst) indeholder følgende ikrafttrædelses- og overgangsbestemmelse:
+
+§ 3
+
+Stk. 1. Loven træder i kraft dagen efter bekendtgørelsen i Lovtidende.
+
+Stk. 2. Loven har virkning fra den 1. januar 2019, jf. dog stk. 5 og 10.
+
+Stk. 3. Pensionen efter lov om social pension fastsættes på ny i februar 2019 med virkning fra den 1. januar 2019, jf. stk. 2, for hele opgørelsesperioden fra den 1. januar til den 31. december 2019 på baggrund af de forhøjede satser og forhøjede fradragsbeløb, jf. lovens § 1, og på grundlag af indtægten opgjort efter §§ 27, 29 og 32 a i lov om social pension, når den nye fastsættelse fører til en forhøjelse af pensionens størrelse. Når en ny fastsættelse af folkepensionen eller førtidspensionen efter lov om social pension fører til en nedsættelse af pensionens størrelse, foretages en omregning af pensionen efter § 39 i lov om social pension.
+
+Stk. 4. For folkepensionister, jf. stk. 3, 1. pkt., der får udbetalt pensionen bagud, efterbetales forhøjelsen af pensionens grundbeløb, pensionstillæg og varmetillæg for januar 2019 med pensionen for februar 2019 ved udgangen af februar 2019. For folkepensionister, jf. stk. 3, 1. pkt., der får udbetalt pensionen forud, efterbetales forhøjelsen af folkepensionens grundbeløb, pensionstillæg og varmetillæg for januar og februar 2019 med pensionen for marts 2019 ved udgangen af februar 2019. For førtidspensionister, der modtager pension efter lov om social pension, jf. stk. 3, 1. pkt., efterbetales forhøjelsen af pensionen for januar 2019 med pensionen for februar 2019 ved udgangen af februar 2019.
+
+Stk. 5. Helbredstillæg efter lov om social pension fastsættes på ny med virkning fra den 1. marts 2019. De hidtil gældende regler finder anvendelse indtil den 28. februar 2019.
+
+Stk. 6. Giver den nye fastsættelse af pensionen i februar 2019, jf. stk. 3, ret til mediecheck, supplerende pensionsydelse eller en højere supplerende pensionsydelse, end der er udbetalt i januar 2019, udbetales disse ydelser med pensionsudbetalingen i februar 2019.
+
+Stk. 7. Viser den nye fastsættelse af pensionen i februar 2019, jf. stk. 3, at der er udbetalt for meget mediecheck eller supplerende pensionsydelse i januar 2019 som følge af et forhøjet indtægtsgrundlag, jf. § 29 i lov om social pension, indgår ændringerne i den årlige endelige efterregulering af pensionen i 2020 for kalenderåret 2019, jf. § 39 b i lov om social pension.
+
+Stk. 8-12. (Udelades)
+
+Lov nr. 495 af 1. maj 2019 (Ret til at afvise lægebehandling uden ydelsesmæssige konsekvenser) indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 7
+
+Loven træder i kraft den 1. juli 2019.
