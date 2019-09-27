@@ -1,0 +1,5 @@
+§ 21 b. Som reel ejer af en fond anses den eller de fysiske personer, der i sidste ende direkte eller indirekte kontrollerer fonden eller på anden måde har ejerskabslignende beføjelser, herunder
+
+1) fondens bestyrelse og
+
+2) særligt begunstigede personer eller, såfremt de enkeltpersoner, der nyder godt af fondens uddelinger, endnu ikke kendes af fonden, den gruppe personer, i hvis hovedinteresse fonden er oprettet eller fungerer.
