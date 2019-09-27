@@ -1,7 +1,5 @@
-Givet på Christiansborg Slot, den 25. juni 2014
+Erhvervsstyrelsen, den 20. september 2019
 
-Under Vor Kongelige Hånd og Segl
+P.M.V. Henning Steensig Vicedirektør
 
-MARGRETHE R.
-
-/ Henrik Sass Larsen
+/ Christine Maxner

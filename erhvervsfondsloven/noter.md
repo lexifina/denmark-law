@@ -1,0 +1,5 @@
+1) Loven indeholder bestemmelser, der gennemfører dele af Europa-Parlamentets og Rådets direktiv 2015/849/EU af 20. maj 2015 om forebyggende foranstaltninger mod anvendelse af det finansielle system til hvidvask af penge eller finansiering af terrorisme, om ændring af Europa-Parlamentets og Rådets forordning (EU) nr. 648/2012 og om ophævelse af Europa-Parlamentets og Rådets direktiv 2005/60/EF samt Kommissionens direktiv 2006/70/EF, EU-Tidende 2015, nr. L 141, side 73, og dele af Europa-Parlamentets og Rådets direktiv 2018/843/EU af 30. maj om ændring af direktiv (EU) 2015/849 om forebyggende foranstaltninger mod anvendelse af det finansielle system til hvidvask af penge eller finansiering af terrorisme og om ændring af direktiv 2009/138/EF og 2013/36/EU, EU-Tidende 2018, nr. L 156, side 43.
+
+2) Der er udstedt følgende bekendtgørelse om ikrafttræden i medfør af den nævnte bestemmelse: Bekendtgørelse nr. 1386 af 10. december 2014.
+
+3) Lovændringen vedrører fodnoten til lovens titel, § 18, stk. 2 og 4, § 21 a, § 21 d, § 115 stk. 1, og § 132, stk. 1.
