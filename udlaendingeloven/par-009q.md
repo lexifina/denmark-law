@@ -6,7 +6,7 @@ Stk. 3. Der kan efter ansøgning gives opholdstilladelse til et ugift mindreåri
 
 Stk. 4. Opholdstilladelse efter stk. 1 kan kun gives, hvis udlændingen har opnået tilknytning til Danmark.
 
-Stk. 5. Opholdstilladelse efter stk. 1 skal betinges af, at udlændingen og personer, der meddeles opholdstilladelse efter stk. 2 og 3, ikke modtager offentlig hjælp til forsørgelse under opholdet her i landet, i tiden indtil der meddeles tids-ubegrænset opholdstilladelse.
+Stk. 5. Opholdstilladelse efter stk. 1 skal betinges af, at udlændingen og personer, der meddeles opholdstilladelse efter stk. 2 og 3, ikke modtager offentlig hjælp til forsørgelse under opholdet her i landet, i tiden indtil der meddeles tidsubegrænset opholdstilladelse.
 
 Stk. 6. Opholdstilladelse efter stk. 1 og 2 skal betinges af, at udlændingen i en periode på 10 år stiller økonomisk sikkerhed til dækning af eventuelle fremtidige offentlige udgifter til forsørgelse, der ydes den pågældende under opholdet her i landet. Sikkerheden skal stilles for 50.000 kr. pr. person. Det angivne beløb er fastsat i 2012-niveau og reguleres fra og med 2013 en gang årligt den 1. januar efter satsreguleringsprocenten, jf. lov om en satsreguleringsprocent. Ydes der senere offentlige udgifter til forsørgelse, skal kommunalbestyrelsen tvangsinddrive det udbetalte beløb i det beløb, der er stillet til sikkerhed som betaling for hjælpen, medmindre hjælpen er ydet, efter at udlændingen er meddelt tidsubegrænset opholdstilladelse eller en ny opholdstilladelse på andet grundlag.
 

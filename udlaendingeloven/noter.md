@@ -97,3 +97,5 @@
 49) Lov nr. 741 af 8. juni 2018 blev bekendtgjort i Lovtidende den 9. juni 2018.
 
 50) Lov nr. 1572 af 18. december 2018 blev bekendtgjort i Lovtidende den 19. december 2018.
+
+51) Lov nr. 340 af 2. april 2019 blev bekendtgjort i Lovtidende den 3. april 2019.
