@@ -46,7 +46,7 @@ Lov nr. 421 af 1. juni 1994 (Effektivisering af asylsagsbehandlingen, foranstalt
 
 Stk. 1. Loven træder i kraft den 1. juli 1994.
 
-Stk. 2. Lovens § 1, nr. 14, finder ikke anvendelse på sager, hvor der forinden ikrafttrædelsen er truffet bestemmelse om sagens berammelse i Flygtningenævnet.
+Stk. Stk. 2. Lovens § 1, nr. 14, finder ikke anvendelse på sager, hvor der forinden ikrafttrædelsen er truffet bestemmelse om sagens berammelse i Flygtningenævnet.
 
 Lov nr. 382 af 14. juni 1995 (Effektivisering af asylsagsbehandlingen i Flygtningenævnet, rådgivning af asylansøgere, overførsel af opgaven med at afhøre asylansøgere fra politiet til Direktoratet for Udlændinge, optagelse af fingeraftryk af asylansøgere m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
 
@@ -678,7 +678,7 @@ Stk. 1. Loven træder i kraft dagen efter bekendtgørelsen i Lovtidende, jf. dog
 
 Stk. 2. § 1, nr. 12, 16-24, 26, 100-102, 104 og 105, træder i kraft den 1. marts 2016.
 
-Stk. 3. § 1, nr. 10, 27-52 og 59, finder ikke anvendelse for ansøgninger om tidsubegrænset opholdstilladelse, der indgives før lovforslagets fremsættelse. For sådanne ansøgninger finder de hidtil gældende regler anvendelse.
+Stk. 3 § 1, nr. 10, 27-52 og 59, finder ikke anvendelse for ansøgninger om tidsubegrænset opholdstilladelse, der indgives før lovforslagets fremsættelse. For sådanne ansøgninger finder de hidtil gældende regler anvendelse.
 
 Stk. 4. § 1, nr. 12, 16-24, 26, 100-102, 104 og 105, finder ikke anvendelse for ansøgninger, der indgives før lovens ikrafttræden, klager over afslag, der vedrører en ansøgning, som indgives før lovens ikrafttræden, og ansøgninger om genoptagelse, der vedrører en ansøgning, der indgives før lovens ikrafttræden, jf. stk. 2. For sådanne ansøgninger og klager finder de hidtil gældende regler anvendelse.
 
@@ -744,9 +744,9 @@ Lov nr. 188 af 27. februar 2017 (Overførsel af opgaver fra Udlændinge- og Inte
 
 Loven træder i kraft den 1. marts 2017.
 
-§ 3.
+§ 3
 
-Stk. 1. § 1, nr. 2, finder ikke anvendelse for ansøgninger om opholdstilladelse, der er indgivet før lovens ikrafttræden. For sådanne ansøgninger finder de hidtil gældende regler anvendelse.
+stk. 1. § 1, nr. 2, finder ikke anvendelse for ansøgninger om opholdstilladelse, der er indgivet før lovens ikrafttræden. For sådanne ansøgninger finder de hidtil gældende regler anvendelse.
 
 Stk. 2. § 1, nr. 7-9, 11, 13 og 16, finder ikke anvendelse for klager, der er indgivet før lovens ikrafttræden. For sådanne klager finder de hidtil gældende regler anvendelse.
 
@@ -990,7 +990,17 @@ Lov nr. 1572 af 18. december 2018 (Justering af de supplerende overførte beting
 
 Loven træder i kraft dagen efter bekendtgørelsen i Lovtidende.
 
-Lov nr. 173 af 27. februar 2019 (Ændring af reglerne om anbringelse af uledsagede mindreårige udlændinge, justering af klageadgang i sager om frihedsberøvelse, præcisering af reglerne vedrørende politiets visitation af udlændinge ved udsendelse, kompetenceændringer som følge af nedlæggelse af Statsforvaltningen m.v.) indeholder følgende ikrafttrædelsesbestemmelser:
+Lov nr. 1711 af 27. december 2018 (Ændringer som følge af lov om Familieretshuset og skærpet fokus på beskyttelsen af barnet i sager efter forældreansvarsloven) indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 40
+
+Stk. 1. Loven træder i kraft den 1. april 2019, jf. dog stk. 2-4.
+
+Stk. 2-4. (Udelades)
+
+Stk. 5. Regler fastsat i medfør af § 21, stk. 3, i lov om børns forsørgelse, jf. lovbekendtgørelse nr. 1815 af 23. december 2015, § 25 i adoptionsloven, jf. lovbekendtgørelse nr. 1041 af 3. august 2018, § 61, stk. 3, i lov nr. 548 af 30. maj 2017 om ægtefællers økonomiske forhold, § 23 b i lov om opkrævning af underholdsbidrag, jf. lovbekendtgørelse nr. 1819 af 23. december 2015, § 33 i børneloven, jf. lovbekendtgørelse nr. 1817 af 23. december 2015, § 8 i lov nr. 618 af 8. juni 2016 om fremtidsfuldmagter, § 56 a, stk. 5, i udlændingeloven, jf. lovbekendtgørelse nr. 1117 af 2. oktober 2017 med senere ændringer, og § 6 a, stk. 4, i lov om assisteret reproduktion i forbindelse med behandling, diagnostik og forskning m.v., jf. lovbekendtgørelse nr. 93 af 19. januar 2015 med senere ændringer, forbliver i kraft, indtil de ophæves eller afløses af nye regler.
+
+Lov nr. 173 af 27. februar 2019 (Ændring af reglerne om anbringelse af uledsagede mindreårige udlændinge, justering af klageadgang i sager om frihedsberøvelse, præcisering af reglerne vedrørende politiets visitation af udlændinge ved udsendelse, kompetenceændringer som følge af nedlæggelse af Statsforvaltningen m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
 
 § 4
 
@@ -1004,7 +1014,7 @@ Stk. 4. Regler fastsat i medfør af udlændingelovens § 62 n, stk. 3, jf. lovbe
 
 Stk. 5. Regler fastsat i medfør af udlændingelovens § 62 o, stk. 4, jf. lovbekendtgørelse nr. 1117 af 2. oktober 2017, forbliver i kraft, indtil de ophæves eller afløses af forskrifter udstedt i medfør af udlændingelovens § 62 o, stk. 5.
 
-Lov nr. 174 af 27. februar 2019 (Videre adgang til inddragelse af opholdstilladelser for flygtninge, loft over antallet af familiesammenføringer, skærpet straf for overtrædelse af indrejseforbud og overtrædelse af opholds-, underretnings- og meldepligt, ydelsesnedsættelse for forsørgere m.v.) indeholder følgende ikrafttrædelsesbestemmelser:
+Lov nr. 174 af 27. februar 2019 (Videre adgang til inddragelse af opholdstilladelser for flygtninge, loft over antallet af familiesammenføringer, skærpet straf for overtrædelse af indrejseforbud og overtrædelse af opholds-, underretnings- og meldepligt, ydelsesnedsættelse for forsørgere m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
 
 § 14
 
@@ -1022,9 +1032,7 @@ Stk. 6. Udlændinge- og Integrationsministeren fastsætter tidspunktet for ikraf
 
 21.
 
-Stk. 7. Udlændingelovens § 7, stk. 1 og 2, og § 8, stk. 1 og 2, som affattet ved denne lovs § 1, nr. 1, har virkning fra den
-
-1. juli 2019 for udlændinge, der allerede er meddelt opholdstilladelse efter udlændingelovens § 7, stk. 1 og 2, og § 8, stk. 1 og 2, på tidspunktet for denne lovs ikrafttræden. Er en opholdstilladelse efter udlændingelovens § 9, stk. 1, eller § 9 c, stk. 1, som er meddelt som følge af en familiemæssig tilknytning til en udlænding, der er meddelt opholdstilladelse efter udlændingelovens § 7 eller § 8, stk. 1 eller 2, forud for lovens ikrafttræden meddelt med mulighed for varigt ophold, anses opholdstilladelsen efter den 1. juli 2019 for at være meddelt med henblik på midlertidigt ophold.
+Stk. 7. Udlændingelovens § 7, stk. 1 og 2, og § 8, stk. 1 og 2, som affattet ved denne lovs § 1, nr. 1, har virkning fra den 1. juli 2019 for udlændinge, der allerede er meddelt opholdstilladelse efter udlændingelovens § 7, stk. 1 og 2, og § 8, stk. 1 og 2, på tidspunktet for denne lovs ikrafttræden. Er en opholdstilladelse efter udlændingelovens § 9, stk. 1, eller § 9 c, stk. 1, som er meddelt som følge af en familiemæssig tilknytning til en udlænding, der er meddelt opholdstilladelse efter udlændingelovens § 7 eller § 8, stk. 1 eller 2, forud for lovens ikrafttræden meddelt med mulighed for varigt ophold, anses opholdstilladelsen efter den 1. juli 2019 for at være meddelt med henblik på midlertidigt ophold.
 
 Stk. 8. For udlændinge, der på tidspunktet for lovens ikrafttræden er meddelt opholdstilladelse efter udlændingelovens § 7, stk. 1 eller 2, eller § 8, stk. 1 eller 2, gælder lovens § 1, nr. 4, først fra den 1. juli 2019. Afgørelser om forlængelse af opholdstilladelser til udlændinge, der på tidspunktet for lovens ikrafttræden er meddelt opholdstilladelse efter udlændingelovens § 7, stk. 1 eller 2, eller § 8, stk. 1 eller 2, og udlændinge, der er meddelt opholdstilladelse efter udlændingelovens § 9, stk. 1, eller § 9 c, stk. 1, som følge af en familiemæssig tilknytning til en udlænding med opholdstilladelse efter udlændingelovens § 7, stk. 1 eller 2, eller § 8, stk. 1 eller 2, meddeles efter lovens ikrafttræden med henblik på midlertidigt ophold.
 
@@ -1033,3 +1041,19 @@ Stk. 9. Udlændinge, der på tidspunktet for lovens ikrafttræden er meddelt oph
 Stk. 10. En udlænding, der på tidspunktet for lovens ikrafttræden har påbegyndt varetægtsfængsling efter udlændingelovens § 35 b, jf. lovbekendtgørelse nr. 1117 af 2. oktober 2017, eller afsoning efter straffuldbyrdelseslovens kapitel 13 b, vil fortsat være omfattet af disse regler, straffuldbyrdelseslovens § 8, stk. 5, § 20, stk. 3, nr. 1, § 46, stk. 5 og 6, og § 106, stk. 2, jf. lovbekendtgørelse nr. 1491 af 13. december 2017, og straffelovens § 124, stk. 5, nr. 2 og 4, jf. lovbekendtgørelse nr. 1156 af 20. september 2018, frem til den påbegyndte varetægtsfængslings eller afsonings ophør.
 
 Stk. 11. (Udelades)
+
+Lov nr. 208 af 5. marts 2019 (Fuld brugerbetaling for danskundervisning under au pair-ordningen) indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 2
+
+Stk. 1. Loven træder i kraft den 1. juli 2019.
+
+Stk. 2. Loven finder ikke anvendelse på eksisterende opholdstilladelser efter udlændingelovens § 9 j, ansøgninger om opholdstilladelse efter udlændingelovens § 9 j indgivet før lovens ikrafttræden og ansøgninger om forlængelse af opholdstilladelse efter udlændingelovens § 9 j. For sådanne ansøgninger eller opholdstilladelser finder de hidtil gældende regler anvendelse.
+
+Lov nr. 340 af 2. april 2019 (Skærpelser som følge af kriminalisering af psykisk vold) indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 2
+
+Stk. 1. Loven træder i kraft dagen efter bekendtgørelsen i Lovtidende.
+
+Stk. 2. § 1, nr. 2 og 3, har virkning for lovovertrædelser begået efter lovens ikrafttræden.
