@@ -1,1 +1,1 @@
-§ 62 b. (Ophævet).
+§ 62 b. (Ophævet)
