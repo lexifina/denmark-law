@@ -1,27 +1,35 @@
-Lov nr. 420 af 6. juni 2002 indeholder følgende ikrafttrædelsesbestemmelse:
+Lov nr. 542 af 24. juni 2005 om regional statsforvaltning indeholder følgende ikrafttrædelsesbestemmelse:
 
-§ 9
+§ 6. Loven træder i kraft den 1. januar 2007, jf. dog stk. 2.
 
-Loven træder i kraft den 1. juli 2002.
+Stk. 2. (Udelades)
 
-Lov nr. 1088 af 17. december 2002 indeholder følgende ikrafttrædelsesbestemmelse:
+Lov nr. 484 af 11. maj 2010 (Ændringer som følge af lov om Natur- og Miljøklagenævnet m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
 
-§ 4
+§ 28
 
-Stk. 1. § 1 og § 2, nr. 2 og 3, træder i kraft den 1. januar 2003. § 2, nr. 1 og 4, og § 3 træder i kraft den 1. april 2003.
+Stk. 1. Loven træder i kraft den 1. januar 2011, jf. dog stk. 2.
 
-Stk. 2. (Udeladt)
+Stk. 2-7. (Udelades)
 
-Stk. 3. § 2, nr. 1, og § 3 finder anvendelse på klager, der indgives den 1. april 2003 eller derefter. For klager, der indgives inden den 1. april 2003, anvendes de hidtil gældende regler.
+Lov nr. 1231 af 18. december 2012 (Obligatorisk digital kommunikation og tilpasninger som følge af ressortoverførsel m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
 
-Lov nr. 450 af 10. juni 2003 indeholder følgende ikrafttrædelsesbestemmelse:
+§ 69
 
-§ 6
+Stk. 1. Loven træder i kraft den 1. januar 2013.
 
-Loven træder i kraft den 25. juli 2003.
+Stk. 2. (Udelades)
 
-Lov nr. 225 af 31. marts 2004 indeholder følgende ikrafttrædelsesbestemmelse:
+Lov nr. 1658 af 20. december 2016 om Planklagenævnet indeholder følgende ikrafttrædelses- og overgangsbestemmelse:
 
-§ 4
+§ 14. Loven træder i kraft den 1. februar 2017.
 
-Loven træder i kraft den 1. april 2004.
+Stk. 2. Klager, der er indgivet før tidspunktet for lovens ikrafttræden, men som ikke er færdigbehandlet på tidspunktet for lovens ikrafttræden, behandles efter reglerne i denne lov.
+
+Lov nr. 1711 af 27. december 2018 (Ændringer som følge af lov om Familieretshuset og skærpet fokus på beskyttelsen af barnet i sager efter forældreansvarsloven) indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 40
+
+Stk. 1. Loven træder i kraft den 1. april 2019, jf. dog stk. 2-4.
+
+Stk. 2-5. (Udelades)
