@@ -4,4 +4,4 @@ Stk. 2. Tilskuddet ydes til kommuner, hvor udviklingen i ledigheden i perioden f
 
 Stk. 3. Samtlige kommuner bidrager til de årlige tilskud efter stk. 2 i forhold til den enkelte kommunes andel af det samlede indbyggertal.
 
-Stk. 4. Økonomi- og indenrigsministeren fastsætter efter forhandling med beskæftigelsesministeren regler om fastsættelsen af det særlige tilskud til kommunerne.
+Stk. 4. Social- og indenrigsministeren fastsætter efter forhandling med beskæftigelsesministeren regler om fastsættelsen af det særlige tilskud til kommunerne.
