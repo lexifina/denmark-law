@@ -1,5 +1,3 @@
 Bekendtgørelse af lov om miljøvenligt design af energirelaterede produkter
 
-Herved bekendtgøres lov nr. 308 af 30. april 2008 om miljøvenligt design af energirelaterede produkter med de ændringer, der følger af § 5 i lov nr. 1400 af 27. december 2008, § 27 i lov nr. 484 af 11. maj 2010 og lov nr. 540 af 26. maj 2010.
-
-Den bekendtgjorte lovtekst vedrørende § 14 træder i kraft efter miljøministerens nærmere bestemmelse, jf. § 28 i lov nr. 484 af 11. maj 2010 om ændring af lov om naturbeskyttelse, lov om miljøbeskyttelse og forskellige andre love.
+Herved bekendtgøres lov om miljøvenligt design af energirelaterede produkter, jf. lovbekendtgørelse nr. 1068 af 15. september 2010, med de ændringer, der følger af § 29 i lov nr. 455 af 18. maj 2011, § 27 i lov nr. 580 af 18. juni 2012, § 25 i lov nr. 86 af 28. januar 2014 og § 1 i lov nr. 1876 af 29. december 2015.
