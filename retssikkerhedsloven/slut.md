@@ -1,7 +1,5 @@
-Givet på Christiansborg Slot, den 9. juni 2004
+Justitsministeriet, den 12. november 2019
 
-Under Vor Kongelige Hånd og Segl
+Nick Hækkerup
 
-Margrethe R.
-
-/Lene Espersen
+/ Anne-Mette Lyhne Jensen
