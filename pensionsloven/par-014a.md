@@ -1,4 +1,4 @@
-§ 14 a. Kommunalbestyrelsen yder helbredstillæg til betaling af pensionistens egne udgifter til ydelser, som regionsrådet yder tilskud til efter sundhedslovens kapitel 15 og kapitel 42, jf. dog stk. 2. Tillæg til medicinudgifter beregnes i forhold til tilskudsprisen efter kapitel 42 i sundhedsloven. Helbredstillægget beregnes i forhold til 85 pct. af pensionistens egen andel af udgiften.
+§ 14 a. Kommunalbestyrelsen yder helbredstillæg til betaling af pensionistens egne udgifter til ydelser, som regionsrådet yder tilskud til efter sundhedslovens kapitel 15, kapitel 15 a og kapitel 42, jf. dog stk. 2. Tillæg til medicinudgifter beregnes i forhold til tilskudsprisen efter kapitel 42 i sundhedsloven. Helbredstillægget beregnes i forhold til 85 pct. af pensionistens egen andel af udgiften.
 
 Stk. 2. Helbredstillæg ydes ikke til betaling af pensionistens egen udgift til ydelser efter § 60, stk. 2, og § 64, stk. 2, i sundhedsloven.
 
