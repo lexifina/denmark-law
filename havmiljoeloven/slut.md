@@ -1,8 +1,8 @@
-Miljø- og Fødevareministeriet, den 4. september 2017
+Miljø- og Fødevareministeriet, den 25. november 2019
 
-David Fjord Nielsen
+P.M.V. Christian Vind
 
-/ Anne-Marie Vægter Rasmussen
+/ Peter Østergård Have
 
 Bilag 1
 
@@ -100,4 +100,4 @@ Følgende stoffer og materialer må kun forefindes i klapmateriale i uvæsentlig
 
 20. Materialer i enhver tilstandsform (fast, flydende, gasformig eller levende tilstand) fremstillet til biologisk og kemisk krigsførelse.
 
-21. De af miljø- og fødevareministeren nærmere specificerede stoffer, som efter klapning i havet antages at kunne være kræftfremkaldende.
+21. De af miljøministeren nærmere specificerede stoffer, som efter klapning i havet antages at kunne være kræftfremkaldende.
