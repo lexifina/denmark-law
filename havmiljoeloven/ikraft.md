@@ -260,7 +260,7 @@ Stk. 1. Loven træder i kraft den 7. januar 2013, jf. dog stk. 2 og 3.
 
 Stk. 2-3. (Udelades)
 
-Lov nr. 580 af 16. juni 2012 (Reform af klagesystemet på natur- og miljøområdet m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
+Lov nr. 580 af 18. juni 2012 (Reform af klagesystemet på natur- og miljøområdet m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
 
 § 28
 
@@ -312,7 +312,7 @@ Lov nr. 1715 af 27. december 2016 om Miljø- og Fødevareklagenævnet indeholder
 
 Stk. 2. (Udelades)
 
-Stk. 3. Erhvervs- og vækstministeren kan efter høring af miljø- og fødevareministeren fastsætte overgangsregler.
+Stk. 3. Erhvervs- og vækstministeren kan efter høring af miljøministeren fastsætte overgangsregler.
 
 Stk. 4. (Udelades)
 
@@ -322,14 +322,30 @@ Stk. 6. Verserende klagesager i Natur- og Miljøklagenævnet eller Klagecenter f
 
 Stk. 7. (Udelades)
 
-Lov nr. 463 af 15. maj 2017 (Implementering af dele af Hongkongkonventionen) indeholder følgende ikrafttrædelses- og overgangsbestemmelse:
+Lov nr. 463 af 15. maj 2017 (Implementering af dele af Hongkongkonventionen) indeholder følgende ikrafttrædelses- og overgangsbestemmelser:
 
-§ 4.
+§ 4
 
 Stk. 1. Loven træder i kraft den 1. juli 2017, jf. dog stk. 2.
 
-Stk. 2. Miljø- og fødevareministeren fastsætter tidspunktet for ikrafttræden af § 1, nr. 3-11, og § 2. Ministeren kan herunder fastsætte, at bestemmelserne træder i kraft på forskellige tidspunkter.
+Stk. 2. Miljøministeren fastsætter tidspunktet for ikrafttræden af § 1, nr. 3-11, og § 2. Ministeren kan herunder fastsætte, at bestemmelserne træder i kraft på forskellige tidspunkter.
 
-§ 5.
+§ 5
 
 Loven gælder ikke for Færøerne og Grønland, men §§ 1 og 3 kan ved kongelig anordning sættes helt eller delvis i kraft for Grønland med de ændringer, som de grønlandske forhold tilsiger.
+
+Lov nr. 1534 af 19. december 2017 om beskyttelse af havmiljøet i den eksklusive økonomiske zone ved Grønland indeholde følgende ikrafttrædelses- og overgangsbestemmelse:
+
+§ 51. Loven træder i kraft den 1. januar 2018.
+
+Stk. 2. Loven finder ikke anvendelse for sager, der ved lovens ikrafttræden er under behandling. For sådanne sager finder de hidtil gældende regler anvendelse.
+
+Stk. 3. Anordning nr. 1035 af 22. oktober 2004 om ikrafttræden for Grønland af lov om beskyttelse af havmiljøet ophæves.
+
+Stk. 4. Regler, der er fastsat i henhold til anordning nr. 1035 af 22. oktober 2004 om ikrafttræden for Grønland af lov om beskyttelse af havmiljøet, forbliver i kraft, indtil de afløses af regler fastsat i medfør af denne lov. Overtrædelse af reglerne sanktioneres efter de hidtil gældende regler.
+
+Lov nr. 1552 af 18. december 2018 (Bemyndigelse vedrørende offentliggørelse af navne på rederier, der overtræder reglerne om svovlindhold i skibsbrændstoffer) indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 2
+
+Loven træder i kraft den 1. januar 2019.

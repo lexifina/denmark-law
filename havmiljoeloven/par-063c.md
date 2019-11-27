@@ -1,8 +1,8 @@
-§ 63 c. Skibe kan i sager om brug af ikke funktionsdygtigt anlæg til behandling af ballastvand eller udtømning af ballastvand, herunder fare for udtømning, og om udledning til luften, herunder fare for udledning til luften, i strid med loven eller forskrifter fastsat i medfør af loven tilbageholdes af politiet, miljø- og fødevareministeren eller den, som miljø- og fødevareministeren bemyndiger dertil.
+§ 63 c. Skibe kan i sager om brug af ikke funktionsdygtigt anlæg til behandling af ballastvand eller udtømning af ballastvand, herunder fare for udtømning, og om udledning til luften, herunder fare for udledning til luften, i strid med loven eller forskrifter fastsat i medfør af loven tilbageholdes af politiet, miljøministeren eller den, som miljøministeren bemyndiger dertil.
 
 Stk. 2. Tilbageholdelse kan ske, hvis det er nødvendigt for at sikre et krav på betaling af bøde, sagsomkostninger eller konfiskation, herunder værdikonfiskation, dog kun indtil de nævnte beløb er betalt eller der er stillet sikkerhed herfor. Sker dette ikke inden for 2 måneder efter sagens endelige afgørelse, kan der søges fyldestgørelse i skibet. Tilbageholdelse kan dog ikke ske, hvis den, der havde rådighed over skibet, da udledningen fandt sted, var uberettiget i besiddelse af skibet.
 
-Stk. 3. Miljø- og fødevareministeren eller den, ministeren bemyndiger dertil, kan endvidere tilbageholde dokumenter, papirer og andre beviser af lignende karakter.
+Stk. 3. Miljøministeren eller den, ministeren bemyndiger dertil, kan endvidere tilbageholde dokumenter, papirer og andre beviser af lignende karakter.
 
 Stk. 4. Befinder et udenlandsk skib sig i ydre territorialt farvand under passage, kan tilbageholdelse kun ske efter stk. 1-3, hvis
 
@@ -22,4 +22,4 @@ Stk. 7. Såfremt det udenlandske skib forfølges i umiddelbar forlængelse af ov
 
 Stk. 8. Ved iværksættelse af tilbageholdelse finder retsplejelovens kapitel 74 om beslaglæggelse anvendelse med de ændringer, der følger af stk. 1-7.
 
-Stk. 9. Miljø- og fødevareministeren kan fastsætte nærmere regler om udøvelsen af de i stk. 1-3 nævnte beføjelser, herunder regler vedrørende sikkerhedsstillelse.
+Stk. 9. Miljøministeren kan fastsætte nærmere regler om udøvelsen af de i stk. 1-3 nævnte beføjelser, herunder regler vedrørende sikkerhedsstillelse.

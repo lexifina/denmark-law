@@ -1,4 +1,4 @@
-§ 57 a. Miljø- og fødevareministeren fastsætter med henblik på opfyldelse af De Europæiske Fællesskabers direktiver og beslutninger på naturbeskyttelsesområdet regler om, i hvilke tilfælde og på hvilke vilkår
+§ 57 a. Miljøministeren fastsætter med henblik på opfyldelse af De Europæiske Fællesskabers direktiver og beslutninger på naturbeskyttelsesområdet regler om, i hvilke tilfælde og på hvilke vilkår
 
 1) tilladelser kan meddeles efter § 26, stk. 1, og § 54, stk. 1, og efter regler udstedt i medfør af § 30, stk. 1-3,
 
