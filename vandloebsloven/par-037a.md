@@ -1,1 +1,1 @@
-§ 37 a. Miljø- og fødevareministeren kan bestemme, at ejere af opstemningsanlæg til udnyttelse af vandkraften i Gudenåen til elproduktion har pligt til at udsætte fisk i Gudenåsystemet i henhold til planer udarbejdet i medfør af fiskeriloven.
+§ 37 a. Miljøministeren kan bestemme, at ejere af opstemningsanlæg til udnyttelse af vandkraften i Gudenåen til elproduktion har pligt til at udsætte fisk i Gudenåsystemet i henhold til planer udarbejdet i medfør af fiskeriloven.
