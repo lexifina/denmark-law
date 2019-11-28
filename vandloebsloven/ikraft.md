@@ -1,4 +1,4 @@
-Lov nr. 250 af 23. maj 1984 om ændring af forskellige miljø- og planlægningslove (Håndhævelse), der vedrører og ændrer § 54 a, § 55 og § 77, indeholder følgende ikrafttrædelsesbestemmelse:
+Lov nr. 250 af 23. maj 1984 (Håndhævelsesloven) indeholder følgende ikrafttrædelsesbestemmelse:
 
 § 13
 
@@ -118,9 +118,7 @@ Stk. 2. (Udelades)
 
 Lov nr. 533 af 6. juni 2007 om nationalparker har følgende ikrafttrædelsesbestemmelse:
 
-§ 37
-
-Loven træder i kraft den 1. juli 2007.
+§ 37. Loven træder i kraft den 1. juli 2007.
 
 Lov nr. 507 af 17. juni 2008 (Implementering af miljøansvarsdirektivet) indeholder følgende ikrafttrædelsesbestemmelse:
 
@@ -156,7 +154,7 @@ Lov nr. 1519 af 27. december 2009 (Hjemmel til at fastsætte regler om drift af 
 
 Loven træder i kraft den 1. januar 2010.
 
-Lov nr. 484 af 11. maj 2010 (Ændringer som følge af lov om Natur- og Miljøklagenævnet m.v.) indeholder følgende ikrafttrædelses- og overgangsbestemmelser:
+Lov nr. 484 af 11. maj 2010 (Ændringer som følge af lov om Natur- og Miljøklagenævnet m.v.) indeholder følgende ikrafttrædelses- og overgangsbestemmelse:
 
 § 28
 
@@ -256,13 +254,13 @@ Lov nr. 1520 af 27. december 2014 om offentlige veje m.v. indeholder følgende i
 
 Stk. 2. (Udelades)
 
-Lov nr.1715 af 28. december 2016 om Miljø- og Fødevareklagenævnet indeholder følgende ikrafttrædelses- og overgangsbestemmelser:
+Lov nr. 1715 af 28. december 2016 om Miljø- og Fødevareklagenævnet indeholder følgende ikrafttrædelses- og overgangsbestemmelse:
 
 § 24. Loven træder i kraft den 1. februar 2017.
 
 Stk. 2. (Udelades)
 
-Stk. 3. Erhvervs- og vækstministeren kan efter høring af miljø- og fødevareministeren fastsætte overgangsregler.
+Stk. 3. Erhvervs- og vækstministeren kan efter høring af miljøvareministeren fastsætte overgangsregler.
 
 Stk. 4. (Udelades)
 
@@ -271,3 +269,11 @@ Stk. 5. Regler, der er fastsat i henhold til hidtil gældende regler, forbliver 
 Stk. 6. Verserende klagesager i Natur- og Miljøklagenævnet eller Klagecenter for Fødevarer, Landbrug og Fiskeri, der ikke er færdigbehandlet ved denne lovs ikrafttræden, færdigbehandles og afgøres af Miljø- og Fødevareklagenævnet efter reglerne i denne lov. Dette gælder dog ikke verserende klagesager ved Natur- og Miljøklagenævnet, som ved lovens ikrafttræden skal færdigbehandles og afgøres af Planklagenævnet, jf. § 1 i lov om Planklagenævnet.
 
 Stk. 7. (Udelades)
+
+Lov nr. 720 af 8. juni 2018 (Ny kompetencefordeling og forenkling af sagsbehandling i forbindelse med kystbeskyttelse m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 9
+
+Stk. 1. Loven træder i kraft den 1. september 2018.
+
+Stk. 2. (Udelades)
