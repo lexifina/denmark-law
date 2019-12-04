@@ -1,3 +1,3 @@
 Bekendtgørelse af lov om politiets virksomhed
 
-Herved bekendtgøres lov nr. 444 af 9. juni 2004 om politiets virksomhed med de ændringer, der følger af § 19 i lov nr. 538 af 8. juni 2006, § 2 i lov nr. 1107 af 1. december 2009, § 1 i lov nr. 249 af 30. marts 2011 og § 4 i lov nr. 733 af 25. juni 2014.
+Herved bekendtgøres lov om politiets virksomhed, jf. lovbekendtgørelse nr. 956 af 20. august 2015, med de ændringer, der følger af § 2 i lov nr. 1722 af 27. december 2016, § 1 i lov nr. 671 af 8. juni 2017, lov nr. 131 af 27. februar 2018, § 1 i lov nr. 708 af 8. juni 2018, § 2 i lov nr. 1543 af 18. december 2018 og lov nr. 83 af 30. januar 2019.
