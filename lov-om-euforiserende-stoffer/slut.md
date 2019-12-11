@@ -1,5 +1,5 @@
-Sundheds- og Ældreministeriet, den 13. juni 2016
+Sundheds- og Ældreministeriet, den 9. december 2019
 
-Sophie Løhde
+Magnus Heunicke
 
 / Lars Petersen
