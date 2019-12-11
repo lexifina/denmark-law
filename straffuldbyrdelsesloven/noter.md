@@ -15,3 +15,11 @@
 8) Lovændringen vedrører § 31, stk. 2, 3. pkt., § 38, stk. 2 og 3, § 42, stk. 1 og 3, og § 45 a, stk. 1-3.
 
 9) Lovændringen vedrører § 51, stk. 4, § 53, § 55, stk. 2-8, 57, stk. 4-6, § 81, 1. pkt., § 89 b, stk. 1 og 2, og § 112, nr. 2.
+
+10) Lovændringen vedrører § 42, stk. 2, 4 og 5, § 51, stk. 4, § 60 a, stk. 1 og 3, § 67, nr. 4, § 68, stk. 2, nr. 3, og § 73, stk. 1.
+
+11) Lovændringen vedrører § 36 og § 46, stk. 4.
+
+12) Lovændringen vedrører § 53, stk. 2, 3 og 4, § 55, stk. 2, 3, og 5-9, § 57, stk. 2 og 5-7, § 60, stk. 10 og 11, § 66 b, § 70, § 106, § 107 og § 112, nr. 2.
+
+13) Lovændringen vedrører § 8, stk. 5, § 20, stk. 3, § 46, stk. 5 og 6, og kapitel 13 b.
