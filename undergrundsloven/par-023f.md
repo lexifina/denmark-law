@@ -4,4 +4,4 @@ Stk. 2. En geologisk formation i undergrunden kan kun vælges som CO2-lagringslo
 
 Stk. 3. I tilfælde af mere end en CO2-lagringslokalitet i den samme hydrauliske enhed skal de potentielle gensidige trykpåvirkninger være af en sådan karakter, at begge lokaliteter på samme tid kan opfylde kravene i denne lov og bestemmelser fastsat i medfør heraf.
 
-Stk. 4. Energi-, forsynings- og klimaministeren fastsætter nærmere regler om kriterier for karakterisering og vurdering af, om en geologisk formation er egnet som CO2-lagringslokalitet.
+Stk. 4. Klima-, energi- og forsyningsministeren fastsætter nærmere regler om kriterier for karakterisering og vurdering af, om en geologisk formation er egnet som CO2-lagringslokalitet.
