@@ -1,4 +1,4 @@
-§ 37 a. Energiklagenævnet behandler klager over afgørelser truffet af energi-, forsynings- og klimaministeren efter denne lov eller regler udstedt i henhold til loven.
+§ 37 a. Energiklagenævnet behandler klager over afgørelser truffet af klima-, energi- og forsyningsministeren efter denne lov eller regler udstedt i henhold til loven.
 
 Stk. 2. Enhver med væsentlig og individuel interesse i afgørelsen kan klage over afgørelser truffet i medfør af denne lov.
 

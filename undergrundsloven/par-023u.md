@@ -1,4 +1,4 @@
-§ 23 u. Etablering og drift af rørledningsanlæg til brug ved transport og lagring af CO2 må kun finde sted med energi-, forsynings- og klimaministerens tilladelse.
+§ 23 u. Etablering og drift af rørledningsanlæg til brug ved transport og lagring af CO2 må kun finde sted med klima-, energi- og forsyningsministerens tilladelse.
 
 Stk. 2. En tilladelse kan meddeles på vilkår, herunder om linjeføring, dimensioner, ejerforhold og betaling for benyttelse.
 

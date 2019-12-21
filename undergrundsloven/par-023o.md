@@ -1,4 +1,4 @@
-§ 23 o. Efter lukning af en CO2-lagringslokalitet i medfør af § 23 k, stk. 2, nr. 1 og 2, overdrages alle juridiske forpligtelser vedrørende lagringslokaliteten til energi-, forsynings- og klimaministeren på dennes initiativ eller efter anmodning fra rettighedshaveren, hvis alle de følgende betingelser er opfyldt:
+§ 23 o. Efter lukning af en CO2-lagringslokalitet i medfør af § 23 k, stk. 2, nr. 1 og 2, overdrages alle juridiske forpligtelser vedrørende lagringslokaliteten til klima-, energi- og forsyningsministeren på dennes initiativ eller efter anmodning fra rettighedshaveren, hvis alle de følgende betingelser er opfyldt:
 
 1) Alle tilgængelige oplysninger peger i retning af, at den lagrede CO2 vil forblive fuldstændigt og permanent indesluttet.
 
@@ -8,4 +8,4 @@
 
 4) CO2-lagringslokaliteten er forseglet, og injektionsanlæggene er fjernet.
 
-Stk. 2. Energi-, forsynings- og klimaministeren kan fastsætte nærmere regler for overdragelse af ansvar for CO2-lagringslokaliteter efter stk. 1 og om, hvilken dokumentation der skal foreligge, før ansvarsoverdragelse kan anses for at have fundet sted.
+Stk. 2. Klima-, energi- og forsyningsministeren kan fastsætte nærmere regler for overdragelse af ansvar for CO2-lagringslokaliteter efter stk. 1 og om, hvilken dokumentation der skal foreligge, før ansvarsoverdragelse kan anses for at have fundet sted.

@@ -2,7 +2,7 @@
 
 Stk. 2. Den finansielle sikkerhed eller tilsvarende, jf. stk. 1, skal fortsat være gyldig og i kraft
 
-1) efter lukning af en CO2-lagringslokalitet i medfør af § 23 k, stk. 2, nr. 1 og 2, indtil ansvaret for lagringslokaliteten overdrages til energi-, forsynings- og klimaministeren, jf. § 23 o, og
+1) efter lukning af en CO2-lagringslokalitet i medfør af § 23 k, stk. 2, nr. 1 og 2, indtil ansvaret for lagringslokaliteten overdrages til klima-, energi- og forsyningsministeren, jf. § 23 o, og
 
 2) efter tilbagekaldelse af en tilladelse til lagring af CO2, jf. § 23 m eller § 30, stk. 1,
 
@@ -10,4 +10,4 @@ a) indtil meddelelsen af en ny tilladelse til lagring af CO2 til en anden rettig
 
 b) hvis lokaliteten er lukket i medfør af § 23 n, stk. 1, indtil ansvarsoverdragelse har fundet sted efter § 23 o, forudsat at betaling efter § 23 r har fundet sted.
 
-Stk. 3. Energi-, forsynings- og klimaministeren fastsætter nærmere regler for etablering, tilpasning og opretholdelse af den finansielle sikkerhed eller tilsvarende samt beregning af dækningen af denne.
+Stk. 3. Klima-, energi- og forsyningsministeren fastsætter nærmere regler for etablering, tilpasning og opretholdelse af den finansielle sikkerhed eller tilsvarende samt beregning af dækningen af denne.
