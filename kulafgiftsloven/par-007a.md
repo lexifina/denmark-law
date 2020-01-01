@@ -10,7 +10,7 @@ Stk. 2. Fritaget for afgift, jf. § 1, stk. 1, nr. 5, er:
 
 4) Affald i hele selvstændige læs til forbrænding, som ikke indeholder kulbrinter eller varer m.v., som er afgiftspligtige efter § 1, stk. 1, nr. 1-4, eller afgiftspligtige efter lov om energiafgift af mineralolieprodukter m.v. 1. pkt. finder dog anvendelse for affald i hele selvstændige læs til forbrænding, som indeholder tørv, produkter under position 4401 og 4402 i EU’s Kombinerede Nomenklatur eller bioolier m.v. under position 1507-1518 i EU’s Kombinerede Nomenklatur, når bioolien m.v. er anvendt i fremstillingsprocesser og ikke er tilført affaldet separat.
 
-Stk. 3. Følgende affald er fritaget for afgift, jf. § 1, stk. 1, nr. 6. Affald nævnt under nr. 4 er dog kun omfattet af dette stykke i perioden 2010-2014:
+Stk. 3. Følgende affald er fritaget for afgift, jf. § 1, stk. 1, nr. 6:
 
 1) Biomasseaffald, der kan tilføres forbrændingsanlæg uden kommunal anvisning i henhold til Miljøministeriets bekendtgørelse nr. 1637 af 13. december 2006 om biomasseaffald, i læs, der udelukkende indeholder denne type affald.
 
@@ -18,12 +18,10 @@ Stk. 3. Følgende affald er fritaget for afgift, jf. § 1, stk. 1, nr. 6. Affald
 
 3) Fiberfraktioner, der fremkommer efter afgasning og separering af husdyrgødning. For at være omfattet skal afgasningen ske i et husdyrgødningsbaseret biogasanlæg i henhold til Miljøministeriets bekendtgørelse nr. 1650 af 13. december 2006 om anvendelse af affald til jordbrugsformål.
 
-4) Farligt affald, herunder klinisk risikoaffald, der tilføres et forbrændingsanlæg i læs, der udelukkende indeholder farligt affald.
-
-5) Affald i hele selvstændige læs til forbrænding, som ikke indeholder kulbrinter eller varer m.v., som er afgiftspligtige efter § 1, stk. 1, nr. 1-4, eller afgiftspligtige efter lov om energiafgift af mineralolieprodukter m.v. 1. pkt. finder dog anvendelse for affald i hele selvstændige læs til forbrænding, som indeholder tørv, produkter under position 4401 og 4402 i EU’s Kombinerede Nomenklatur eller bioolier m.v. under position 1507-1518 i EU’s Kombinerede Nomenklatur, når bioolien m.v. er anvendt i fremstillingsprocesser og ikke er tilført affaldet separat.
+4) Affald i hele selvstændige læs til forbrænding, som ikke indeholder kulbrinter eller varer m.v., som er afgiftspligtige efter § 1, stk. 1, nr. 1-4, eller afgiftspligtige efter lov om energiafgift af mineralolieprodukter m.v. 1. pkt. finder dog anvendelse for affald i hele selvstændige læs til forbrænding, som indeholder tørv, produkter under position 4401 og 4402 i EU’s Kombinerede Nomenklatur eller bioolier m.v. under position 1507-1518 i EU’s Kombinerede Nomenklatur, når bioolien m.v. er anvendt i fremstillingsprocesser og ikke er tilført affaldet separat.
 
 Stk. 4. Det er en betingelse for afgiftsfritagelse efter stk. 2, nr. 2, og stk. 3, nr. 2, at virksomheden kan dokumentere, at betingelsen i henholdsvis stk. 2, nr. 2, 2. pkt., og stk. 3, nr. 2, 2. pkt., er opfyldt.
 
-Stk. 5. For affald, der er afgiftsfritaget efter stk. 2, nr. 4, og stk. 3, nr. 5, og som fremkommer efter sortering af affald, skal virksomheder, som forbrænder affaldet, kunne dokumentere, at betingelserne for afgiftsfritagelsen er opfyldt, og på forlangende fremvise dokumentationen over for told- og skatteforvaltningen.
+Stk. 5. For affald, der er afgiftsfritaget efter stk. 2, nr. 4, og stk. 3, nr. 4, og som fremkommer efter sortering af affald, skal virksomheder, som forbrænder affaldet, kunne dokumentere, at betingelserne for afgiftsfritagelsen er opfyldt, og på forlangende fremvise dokumentationen over for told- og skatteforvaltningen.
 
 Stk. 6. Skatteministeren kan fastsætte nærmere regler om dokumentationen, herunder regnskab, jf. stk. 5.
