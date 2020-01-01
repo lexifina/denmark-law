@@ -1,9 +1,9 @@
-§ 1 a. Miljø- og fødevareministeren kan fastsætte regler om, at virksomheders ansøgning om støttebeløb og indberetning af oplysninger efter regler fastsat i medfør af § 1 skal ske digitalt, og at kommunikation i forbindelse hermed skal foregå digitalt mellem ministeren og virksomhederne.
+§ 1 a. Ministeren for fødevarer, fiskeri og ligestilling fastsætter regler om, at skriftlig kommunikation til og fra Miljø- og Fødevareministeriet om forhold, som er omfattet af denne lov eller af regler udstedt i medfør heraf, skal foregå digitalt mellem ministeriet og virksomhederne.
 
-Stk. 2. Ministeren kan fastsætte nærmere regler om digital ansøgning og indberetning samt digital kommunikation, jf. stk. 1, herunder om anvendelse af bestemte it-systemer, særlige digitale formater og digital signatur el. lign.
+Stk. 2. Ministeren kan fastsætte nærmere regler om digital kommunikation, herunder om anvendelse af bestemte it-systemer, særlige digitale formater og digital signatur el. lign.
 
-Stk. 3. Ministeren kan fastsætte regler om, at ministeren eller den, ministeren bemyndiger dertil, kan udstede afgørelser og andre dokumenter i forbindelse med ansøgninger og indberetninger som nævnt i stk. 1 uden underskrift, med maskinelt eller på tilsvarende måde gengivet underskrift eller under anvendelse af en teknik, der sikrer entydig identifikation af den, som har udstedt afgørelsen eller dokumentet. Sådanne afgørelser og dokumenter sidestilles med afgørelser og dokumenter med personlig underskrift.
+Stk. 3. En digital meddelelse efter denne lov anses for at være kommet frem, når den er tilgængelig for adressaten for meddelelsen.
 
-Stk. 4. Ministeren kan fastsætte regler om, at afgørelser og andre dokumenter, der udelukkende er truffet eller udstedt på grundlag af elektronisk databehandling, kan udstedes alene med angivelse af Miljø- og Fødevareministeriet eller den, ministeren bemyndiger hertil, som afsender.
+Stk. 4. Hvor det efter denne lov eller regler udstedt i medfør heraf er et krav, at et dokument, som er udstedt af andre end ministeren for fødevarer, fiskeri og ligestilling eller virksomhederne, skal være underskrevet, kan dette krav opfyldes ved anvendelse af en teknik, der sikrer entydig identifikation af den, som har udstedt dokumentet, jf. dog stk. 5. Sådanne dokumenter sidestilles med dokumenter med personlig underskrift.
 
-Stk. 5. En digital meddelelse anses for at være kommet frem, når den er tilgængelig for adressaten for meddelelsen.
+Stk. 5. Ministeren kan fastsætte nærmere regler om opfyldelse af underskriftskrav nævnt i stk. 4.
