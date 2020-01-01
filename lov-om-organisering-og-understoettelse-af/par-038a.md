@@ -1,0 +1,1 @@
+§ 38 a. Jobindsats.dk skal vise et samlet overblik bestående af generelle målinger, der kan give kommuner og andre interessenter i beskæftigelsesindsatsen indblik i kommunernes resultater og indsatser, og særlige målinger, som anvendes til udvælgelse af kommuner til skærpet tilsyn, jf. § 22 b.

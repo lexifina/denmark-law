@@ -1,3 +1,3 @@
 § 16 b. Det påhviler den handicappede person og arbejdsgiveren at give jobcenteret oplysninger om ændringer i arbejdsforholdet eller handicappets omfang, hvis det har betydning for udbetaling af tilskud.
 
-Stk. 2. Der er pligt til at tilbagebetale tilskud m.v., som er udbetalt på et urigtigt grundlag, når den handicappede person, virksomheden eller et vikarbureau, der har ydet personlig assistance, mod bedre vidende har afgivet urigtige erklæringer eller fortiet omstændigheder af betydning for udbetaling af tilskud eller ikke har opfyldt betingelserne for at få tilskud.
+Stk. 2. Der er pligt til at tilbagebetale tilskud m.v., som er udbetalt på et urigtigt grundlag, når den handicappede person, virksomheden eller et vikarbureau, der har ydet personlig assistance, mod bedre vidende har afgivet urigtige erklæringer eller fortiet omstændigheder af betydning for udbetaling af tilskud eller ikke har opfyldt betingelserne for at få tilskud til ordningerne efter denne lov.
