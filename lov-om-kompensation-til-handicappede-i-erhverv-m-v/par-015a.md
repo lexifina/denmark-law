@@ -1,3 +1,1 @@
-## Tilskud og ansættelse m.v.
-
-§ 15 a. (Ophævet).
+§ 15 a. §§ 77-79 om drøftelse af ansættelsen, merbeskæftigelse og forholdstalskrav i lov om en aktiv beskæftigelsesindsats og regler herom udstedt i medfør af §§ 81 og 182 i samme lov finder tilsvarende anvendelse ved tilbud efter §15.
