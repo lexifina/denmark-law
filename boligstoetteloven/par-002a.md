@@ -1,4 +1,4 @@
-§ 2 a. Ejere eller andelshavere i private andelsboligforeninger, der modtager førtidspension, har efter ansøgning ret til boligstøtte efter denne lov. Det samme gælder personer, der modtager førtidspension, og som har husstandsfællesskab med en lejer, en ejer eller en andelshaver i en privat andelsboligforening.
+§ 2 a. Ejere eller andelshavere i private andelsboligforeninger, der modtager førtidspension eller seniorpension, har efter ansøgning ret til boligstøtte efter denne lov. Det samme gælder personer, der modtager førtidspension eller seniorpension, og som har husstandsfællesskab med en lejer, en ejer eller en andelshaver i en privat andelsboligforening.
 
 Stk. 2. Ejere eller andelshavere i private andelsboligforeninger, der er stærkt bevægelseshæmmede, og hvis bolig er egnet herfor, har efter ansøgning ret til boligstøtte efter denne lov. Det samme gælder personer, der er stærkt bevægelseshæmmede, der har husstandsfællesskab med en lejer, en ejer eller en andelshaver i en privat andelsboligforening, og som bor i en bolig, der er egnet for stærkt bevægelseshæmmede.
 

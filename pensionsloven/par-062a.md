@@ -1,0 +1,1 @@
+§ 62 a. Kommunerne afholder udgifter til administration af seniorpension, jf. § 56 a, stk. 1 og 2, gennem betaling af et administrationsbidrag, jf. § 22 i lov om Udbetaling Danmark. Staten afholder udgifter til administration af seniorpension for borgere omfattet af § 62 gennem betaling af et administrationsbidrag, jf. § 25 i lov om Udbetaling Danmark.
