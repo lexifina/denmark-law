@@ -1,0 +1,1 @@
+§ 18 a. Beskæftigelsesministeren fastsætter efter forhandling med vedkommende minister regler om beregning af bidrag til den obligatoriske pensionsordning, indberetning og indbetaling af bidrag til Arbejdsmarkedets Tillægspension og om tilbagebetaling af bidrag og tillæg til refusion.
