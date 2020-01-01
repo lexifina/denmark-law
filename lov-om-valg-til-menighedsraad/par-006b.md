@@ -1,0 +1,3 @@
+§ 6 b. Valgbestyrelsen offentliggør resultatet af valgforsamlingen hurtigst muligt og senest 1 uge efter valgforsamlingen. Offentliggørelsen skal ske ved førstkommende gudstjeneste, på sognets hjemmeside og i de stedlige dagblade eller lokalaviser. Samtidig med offentliggørelsen skal det oplyses, at der senest 4 uger efter valgforsamlingen kan indgives en kandidatliste og dermed udløses afstemningsvalg, jf. § 6 e.
+
+Stk. 2. En kort beretning om valget indføres i menighedsrådets beslutningsprotokol og underskrives af valgbestyrelsen og dirigenten. En udskrift af beslutningsprotokollen sendes snarest af valgbestyrelsens formand til biskoppen.
