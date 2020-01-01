@@ -1,0 +1,1 @@
+§ 58 a. Told- og skatteforvaltningen kan foretage vurdering af ejerboliger efter §§ 5 og 6 og deklaration efter skatteforvaltningslovens § 20 a på grundlag af de oplysninger, der er indhentet i medfør af denne lovs §§ 55 og 56.
