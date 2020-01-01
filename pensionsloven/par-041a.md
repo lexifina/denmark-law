@@ -1,4 +1,4 @@
-§ 41 a. Personer, der modtager folkepension eller førtidspension og har fast bopæl i Danmark, skal give Udbetaling Danmark meddelelse om et midlertidigt ophold af mere end 2 måneders varighed i lande uden for EU/EØS og Schweiz, dog ikke ved ophold i Grønland eller på Færøerne.
+§ 41 a. Personer, der modtager folkepension, førtidspension eller seniorpension og har fast bopæl i Danmark, skal give Udbetaling Danmark meddelelse om et midlertidigt ophold af mere end 2 måneders varighed i lande uden for EU/EØS og Schweiz, dog ikke ved ophold i Grønland eller på Færøerne.
 
 Stk. 2. Personer, der er omfattet af stk. 1, skal før afrejsen give Udbetaling Danmark meddelelse om afrejsedato og forventet dato for hjemkomst.
 

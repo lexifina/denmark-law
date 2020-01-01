@@ -1,4 +1,4 @@
-§ 33 c. Udbetaling Danmark indbetaler bidrag til den supplerende arbejdsmarkedspension til Arbejdsmarkedets Tillægspension eller til et livsforsikringsselskab eller en pensionskasse efter førtidspensionistens valg.
+§ 33 c. Udbetaling Danmark indbetaler bidrag til den supplerende arbejdsmarkedspension til Arbejdsmarkedets Tillægspension eller til et livsforsikringsselskab eller en pensionskasse efter førtidspensionistens eller seniorpensionistens valg.
 
 Stk. 2. Ved skifte i anledning af separation, skilsmisse eller bosondring kan rettigheder i den supplerende arbejdsmarkedspension forlods udtages af ejerægtefællen.
 
