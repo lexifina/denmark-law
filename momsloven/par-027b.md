@@ -1,0 +1,1 @@
+§ 27 b. Ved levering af varer i form af overførsel til et andet EU-land er afgiftsgrundlaget købsprisen for varerne eller for tilsvarende varer eller i mangel af en købspris kostprisen på det tidspunkt, hvor disse transaktioner finder sted.
