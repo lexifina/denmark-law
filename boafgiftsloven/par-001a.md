@@ -1,0 +1,11 @@
+§ 1 a. I boer vedrørende personer, der er afgået ved døden i 2016, 2017, 2018 eller 2019, betales boafgiften med den i stk. 4 anførte sats af værdien af aktier og virksomheder, der tilfalder en fysisk person, der opfylder betingelserne i dødsboskattelovens § 36, stk. 1, for succession i det overdragne, og som efter dødsboskattelovens § 37, stk. 1, 1. og 2. pkt., kan succedere med hensyn til værdier, der overstiger modtagerens andel i boet, og som ikke er omfattet af den personkreds, hvor der skal betales tillægsboafgift af arv. Hvis afdøde ikke har efterladt sig afkom, finder 1. pkt. tilsvarende anvendelse på aktier og virksomheder, som tilfalder afdødes søskende og disses børn og børnebørn, hvorefter reglerne om tillægsboafgift ikke finder anvendelse.
+
+Stk. 2. Følgende er en betingelse ved anvendelsen af stk. 1:
+
+1) Afdøde har ejet virksomheden det seneste år umiddelbart forud for dødsfaldet ved ejerskab af en personligt ejet virksomhed eller ved ejerskab af aktier i et selskab, der direkte eller indirekte har ejet virksomheden i den anførte periode.
+
+2) Afdøde eller dennes nærtstående har i mindst 1 år af afdødes ejertid deltaget aktivt i virksomheden enten ved i en personligt ejet virksomhed at have deltaget i driften af virksomheden i et ikke uvæsentligt omfang eller ved i en virksomhed i selskabsform at have deltaget i selskabets ledelse. Som afdødes nærtstående anses afdødes ægtefælle, søskende, søskendes afkom og den i § 22, stk. 1 og 2, anførte personkreds.
+
+Stk. 3. Stk. 1 finder anvendelse, uanset at boet har valgt beskatning efter dødsboskattelovens § 28, stk. 3, at der ved udlodningen ikke konstateres en gevinst, at dødsboet er fritaget for at betale indkomstskat efter dødsboskattelovens § 6, stk. 1, 1. pkt., eller at udlodningen ikke opfylder dødsboskattelovens § 38.
+
+Stk. 4. Boafgiften efter stk. 1 udgør 13 pct. i boer vedrørende personer, der er afgået ved døden i 2016 eller 2017, 7 pct. i boer vedrørende personer, der er afgået ved døden i 2018, og 6 pct. i boer vedrørende personer, der er afgået ved døden i 2019. 1. pkt. finder tilsvarende anvendelse for boer efter personer, for hvilke der afsiges dødsfaldskendelse eller dødsformodningsdom i de anførte år.
