@@ -1,0 +1,1 @@
+§ 22 b. Lever en kommune ikke op til de resultatmål, som beskæftigelsesministeren har fastsat, og lever kommunen i et gennemsnit over de sidste 12 måneder ikke op til de fastsatte fokusmål, jf. § 22 a, bliver den pågældende kommune omfattet af et skærpet tilsyn.

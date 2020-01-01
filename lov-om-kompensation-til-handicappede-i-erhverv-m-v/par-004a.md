@@ -1,0 +1,1 @@
+§ 4 a. Der kan ydes personlig assistance i forbindelse med deltagelse i tilbud efter kapitel 11-14 i lov om en aktiv beskæftigelsesindsats til personer, der er omfattet af § 6, nr. 7, 8 og 10 i samme lov, hvis assistancen er en nødvendig følge af et tilbud om vejledning og opkvalificering eller af en nedsat fysisk eller psykisk funktionsevne.

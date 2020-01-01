@@ -8,4 +8,4 @@ Stk. 3. Tilskud kan ydes op til 20 timer pr. uge i gennemsnit pr. kvartal. Tilsk
 
 Stk. 4. Bevilling skal gives for en bestemt periode og til en bestemt uddannelse.
 
-Stk. 5. Direktøren for Arbejdsmarkedsstyrelsen kan fastsætte nærmere regler for ordningen.
+Stk. 5. Beskæftigelsesministeren kan fastsætte nærmere regler for ordningen.
