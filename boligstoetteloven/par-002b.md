@@ -1,1 +1,1 @@
-§ 2 b. Retten til boligstøtte efter denne lovs regler for førtidspensionister omfatter tillige personer, der har bopæl i Danmark, og som modtager en tilsvarende udenlandsk pension, som EF-forordninger om koordinering af de sociale sikringsordninger finder anvendelse på.
+§ 2 b. Retten til boligstøtte efter denne lovs regler for førtidspensionister og seniorpensionister omfatter tillige personer, der har bopæl i Danmark, og som modtager en tilsvarende udenlandsk pension, som EF-forordninger om koordinering af de sociale sikringsordninger finder anvendelse på.
