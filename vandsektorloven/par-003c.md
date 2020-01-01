@@ -1,0 +1,1 @@
+§ 3 c. Et udtrådt vandselskab, jf. § 3 a, der på grund af ændringer i ejerforholdene ikke længere opfylder betingelserne for at være forbrugerejet, jf. § 2, stk. 8, nr. 5, skal straks anmelde dette til Forsyningssekretariatet.

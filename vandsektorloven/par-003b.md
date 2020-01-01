@@ -1,0 +1,1 @@
+§ 3 b. Forsyningssekretariatet træffer afgørelse om undtagelse og genindtræden, jf. §§ 3 og 3 a, efter modtagelse af den fornødne dokumentation for opfyldelse af kravene herfor. Undtagelse og genindtræden har virkning fra førstkommende hele kalenderår efter afgørelsen.
