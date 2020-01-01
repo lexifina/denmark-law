@@ -28,7 +28,7 @@ Stk. 7. Har en arbejdsgiver ansat medarbejdere med uoplyst uddannelsesbaggrund, 
 
 Stk. 8. Ved fastsættelse af uddannelsesniveau efter stk. 7, nr. 1-3, sker der en vægtning med en modelparameter på 1,0.
 
-Stk. 9. For så vidt angår medarbejdere med en uddannelsesbaggrund, som er registreret som ikke specificeret erhvervsuddannelse som højeste fuldførte uddannelse hos Danmarks Statistik, sker der en vægtning med en modelparameter på 1,0.
+Stk. 9. For så vidt angår medarbejdere med en uddannelsesbaggrund, som er registreret som ikke specificeret erhvervsuddannelse som højest fuldførte uddannelse hos Danmarks Statistik, sker der en vægtning med en modelparameter på 1,0.
 
 Stk. 10. Ved opgørelse af hovedbrancher anvendes Dansk Branchekode 2007 (DB07) med undergrupperinger. Undergruppen Bygge og Anlæg opdeles i to, hvor branchen Bygningsinstallation udspaltes fra Bygge og Anlæg med udgangspunkt i 127-standardgrupperingen (43.00.1). Det resterende indhold i Bygge og Anlæg vil udgøre branchen Bygge og Anlæg.
 
