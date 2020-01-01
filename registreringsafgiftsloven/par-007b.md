@@ -31,5 +31,3 @@ Stk. 4. Der kan ikke godtgøres afgift for
 Stk. 5. Afgiftsgodtgørelsen efter stk. 2 kan ikke overstige den afgift, der oprindelig er betalt, fratrukket 15 pct., dog mindst 8.500 kr. for personbiler og 4.500 kr. for varebiler og motorcykler.
 
 Stk. 6. Ved fornyet tilmelding til Køretøjsregisteret af et køretøj, for hvilket der er godtgjort afgift, beregnes afgiftsbeløbet på samme måde som godtgørelsesbeløbet efter § 7 b, stk. 2, men uden nedslag i afgiftsbeløbet.
-
-Stk. 7. Skal der indhentes synsrapport efter § 7 c, stk. 1, hæves godtgørelsesbeløbet med 300 kr. (2010-niveau). Beløbet reguleres fra 2015 efter personskattelovens § 20.

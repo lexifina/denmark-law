@@ -2,4 +2,4 @@
 
 Stk. 2. Retsplejelovens § 832, stk. 2 og 3, om indholdet af anklageskrift og om bortfald af videre forfølgning finder tilsvarende anvendelse på bødeforelæg efter stk. 1.
 
-Stk. 3. Betales bøden ikke rettidigt, inddrives beløbet med påløbne renter af restanceinddrivelsesmyndigheden. Der er udpantningsret for beløbet. Inddrivelse kan ske ved lønindeholdelse efter reglerne herom i kildeskatteloven. Reglerne om eftergivelse i opkrævningslovens §§ 15, 15 a og 15 b finder tilsvarende anvendelse.
+Stk. 3. Betales bøden ikke rettidigt, inddrives beløbet med påløbne renter af restanceinddrivelsesmyndigheden. Der er udpantningsret for beløbet. Inddrivelse kan ske ved lønindeholdelse efter reglerne herom i kildeskatteloven. Reglerne om eftergivelse i §§ 13-15 i lov om inddrivelse af gæld til det offentlige finder tilsvarende anvendelse.
