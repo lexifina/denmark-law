@@ -1,0 +1,1 @@
+§ 11 c. Kommunen indhenter i tilknytning til den første opfølgning en lægeattest fra den sygemeldtes praktiserende læge, jf. § 11 a, hvis den sygemeldte ønsker det og kommunen ikke forud for opfølgningssamtalen har indhentet en.
