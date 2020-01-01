@@ -6,7 +6,7 @@
 
 3) skattepligtigt aktieudbytte fra aktiebaserede investeringsselskaber, jf. aktieavancebeskatningslovens § 19 B, og skattepligtigt aktieudbytte fra aktiebaserede investeringsinstitutter med minimumsbeskatning, jf. aktieavancebeskatningslovens § 21,
 
-4) fortjeneste og tab efter aktieavancebeskatningslovens §§ 12-14, fortjeneste efter aktieavancebeskatningslovens § 17 A, stk. 2, nr. 1, tab efter aktieavancebeskatningslovens § 17 A og fortjeneste og tab efter aktieavancebeskatningslovens § 19 B og
+4) fortjeneste og tab efter aktieavancebeskatningslovens §§ 12-14 og fortjeneste og tab efter aktieavancebeskatningslovens § 19 B og
 
 5) beløb, der er modtaget fra et pengeinstitut, realkreditinstitut, fondsmæglerselskab, investeringsforvaltningsselskab, en forvalter af alternative investeringsfonde, en finansiel rådgiver eller en investeringsrådgiver, som følge af at det pågældende pengeinstitut m.v. har modtaget gebyrer, provisioner eller andre pengeydelser fra et investeringsinstitut, og som vedrører investering i en aktie eller et investeringsbevis omfattet af aktieavancebeskatningslovens § 19 B eller i et investeringsbevis omfattet af aktieavancebeskatningslovens § 21, hvor fortjeneste og tab ikke omfattes af aktieavancebeskatningslovens § 17.
 
