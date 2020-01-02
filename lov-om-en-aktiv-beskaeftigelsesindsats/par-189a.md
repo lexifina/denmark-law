@@ -1,0 +1,1 @@
+§ 189 a. Beløbene efter § 123, stk. 2, § 126, stk. 5, og § 136, stk. 2, reguleres en gang årligt den 1. januar med 1,7 pct. tillagt tilpasningsprocenten for det pågældende finansår, jf. lov om en satsreguleringsprocent.
