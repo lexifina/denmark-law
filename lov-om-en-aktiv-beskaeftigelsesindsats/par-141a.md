@@ -1,0 +1,1 @@
+§ 141 a. Beskæftigelsesministeren fastsætter regler om beregning af bidrag til den obligatoriske pensionsordning, indberetning og indbetaling af bidrag til Arbejdsmarkedets Tillægspension og om tilbagebetaling af bidrag.
