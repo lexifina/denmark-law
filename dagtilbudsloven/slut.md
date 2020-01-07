@@ -1,4 +1,4 @@
-Børne- og Undervisningsministeriet, den 15. august 2019
+Børne- og Undervisningsministeriet, den 6. januar 2020
 
 P.M.V. Ole Hvilsom Larsen Kontorchef
 

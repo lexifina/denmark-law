@@ -38,16 +38,6 @@ Stk. 5. § 1, nr. 31, finder først anvendelse for private pasningsordninger, de
 
 Stk. 6. § 1, nr. 33-41, finder ikke anvendelse for aftaler om tilskud til privat pasning, tilskud til pasning af egne børn og tilskud til privat pasning, som ydes i kombination med en plads i et dagtilbud efter dagtilbudslovens § 80, stk. 4, der er indgået før lovens ikrafttræden. For sådanne aftaler finder de hidtil gældende regler anvendelse.
 
-Lov nr. 1528 af 18. december 2018 (Bedre fordeling i daginstitutioner) indeholder følgende ikrafttrædelses- og overgangsbestemmelse:
-
-§ 2
-
-Stk. 1. Loven træder i kraft den 1. januar 2019.
-
-Stk. 2. Kravet i dagtilbudslovens § 20, stk. 3, som affattet ved denne lovs § 1, nr. 2, § 26 a, stk. 1-10, som affattet ved denne lovs § 1, nr. 4, § 27, stk. 2, som affattet ved denne lovs § 1, nr. 5, og § 27, stk. 4, som affattet ved denne lovs § 1, nr. 6, om, at kommunalbestyrelsen samt selvejende og udliciterede daginstitutioner med optagelseskompetence og privatinstitutioner skal sikre, at der i løbet af et kalenderår maksimalt optages 30 pct. børn fra udsatte boligområder i hver daginstitution eller hver enhed i en daginstitution m.v., får virkning fra den 1. januar 2020.
-
-Stk. 3. Kravet i dagtilbudslovens § 23, stk. 4, som affattet ved denne lovs § 1, nr. 3, om, at en kommunalbestyrelse, der ønsker at anvise børn, som har bopæl uden for udsatte boligområder, plads i en kommunal, selvejende eller udliciteret daginstitution eller enhed heri, der er beliggende i et udsat boligområde, ligeledes skal tilbyde barnet en plads i et andet dagtilbud, som ikke er beliggende i et udsat boligområde m.v., får virkning fra den 1. januar 2020.
-
 Lov nr. 1529 af 18. december 2018 (Obligatorisk læringstilbud til 1-årige børn i udsatte boligområder) indeholder følgende ikrafttrædelses- og overgangsbestemmelse:
 
 § 3
@@ -56,4 +46,14 @@ Stk. 1. Loven træder i kraft den 1. juli 2019, jf. dog stk. 2.
 
 Stk. 2. § 1, nr. 6, træder i kraft den 1. januar 2019.
 
-Stk. 3. (Udelades)
+Stk. 3. § 44 a, stk. 1, nr. 1, i dagtilbudsloven som affattet ved denne lovs § 1, nr. 3, omfatter ikke børn, som ved lovens ikrafttræden er fyldt 9 måneder.
+
+Lov nr. 1110 af 13. november 2019 (Forenkling af regler om forældelseshåndtering, modregning ved transporter, flere skyldnere på samme fordring, eftergivelse og afskrivning, retsafgift m.v.) indeholder følgende ikrafttrædelses- og overgangsbestemmelse:
+
+§ 9
+
+Stk. 1. (Udelades)
+
+Stk. 2. Skatteministeren fastsætter tidspunktet for ikrafttrædelse af § 1, nr. 1, 11, 12 og 17-20, og §§ 3-8 og kan herunder fastsætte, at bestemmelserne træder i kraft på forskellige tidspunkter.
+
+Stk. 3-6. (Udelades)
