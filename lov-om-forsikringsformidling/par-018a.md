@@ -1,0 +1,3 @@
+§ 18 a. Indgår en ansat eller en tidligere ansat og en forsikringsformidler eller en genforsikringsformidler en aftale om en tavshedsklausul, skal det fremgå af aftalen, at den ansatte eller tidligere ansatte ikke er afskåret fra at indberette oplysninger om overtrædelser eller potentielle overtrædelser af den finansielle regulering til offentlige myndigheder.
+
+Stk. 2. Uanset stk. 1 er den ansatte eller tidligere ansatte ikke afskåret fra at indberette oplysninger om overtrædelser eller potentielle overtrædelser af den finansielle regulering til offentlige myndigheder, selvom et sådant forbud indgår i en aftale mellem den ansatte eller tidligere ansatte og forsikringsformidleren eller genforsikringsformidleren. Det samme gælder indberetninger til ordninger efter § 17.
