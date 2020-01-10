@@ -1,3 +1,3 @@
-1) Ændringslovens § 1 vedrører § 12, stk. 3, 3. pkt., § 16 og § 30, 2. pkt.
+1) Lovændringen vedrører overskriften til kapitel 1, § 1, stk. 2, § 5 a, § 6, stk. 1, 1. pkt., kapitel 2 a og b, § 7, stk. 1, 1. pkt., § 7, stk. 2, § 8, stk. 2-4, § 8, stk. 6, der bliver stk. 4, § 9, stk. 1, 1. pkt., § 10, 1. pkt., § 12, stk. 2, 3. pkt., § 12, stk. 4, 1. pkt., § 13, 1. pkt., § 13, 2. pkt., § 13 a, § 14, 2. pkt., § 15, § 16, 1. og 2. pkt., overskriften til kapitel 5, § 20, stk. 1, § 20, stk. 2, 2. og 3. pkt., § 21, 1. og 2. pkt., § 22, stk. 1, 1. pkt., § 22, stk. 2, § 22, stk. 3, 2. pkt., § 23, § 24, kapitel 5 a, § 26, stk. 1, § 26, stk. 3, § 28, § 29, § 32 og § 34 a.
 
-2) Ændringslovens § 2 vedrører § 5, stk. 6-8.
+2) Lovændringen vedrører § 2, stk. 3, § 3, stk. 3, § 22, stk. 3, 2. og 3. pkt.
