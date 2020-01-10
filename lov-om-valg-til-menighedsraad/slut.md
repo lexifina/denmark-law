@@ -1,5 +1,5 @@
-Ministeriet for Ligestilling og Kirke, den 24. juni 2013
+Kirkeministeriet, den 8. januar 2020
 
-Manu Sareen
+Joy Mogensen
 
-/ Christina Hyldgaard Jacobsen
+/ Pernille Esdahl
