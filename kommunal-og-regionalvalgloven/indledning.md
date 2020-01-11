@@ -1,3 +1,3 @@
 Bekendtgørelse af lov om kommunale og regionale valg
 
-Herved bekendtgøres lov om kommunale og regionale valg, jf. lovbekendtgørelse nr. 1030 af 6. juli 2018, med de ændringer, der følger af § 2 i lov nr. 1739 af 27. december 2018.
+Herved bekendtgøres lov om kommunale og regionale valg, jf. lovbekendtgørelse nr. 138 af 7. februar 2019, med den ændring, der følger af § 7 i lov nr. 174 af 27. februar 2019.
