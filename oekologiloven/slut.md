@@ -1,5 +1,5 @@
-NaturErhvervstyrelsen, den 4. januar 2017
+Fødevarestyrelsen, den 15. januar 2020
 
-Jette Petersen
+Esben Egede Rasmussen
 
-/ Dorthe Nielsen
+/ Birthe Schubart Haabegaard
