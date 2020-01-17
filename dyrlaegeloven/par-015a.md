@@ -1,1 +1,1 @@
-§ 15 a. Miljø- og fødevareministeren kan meddele påbud om, at en dyrlæge skal iværksætte diagnostiske laboratorieundersøgelser med henblik på at få verificeret den diagnose, som danner grundlag for dyrlægens valg af behandling.
+§ 15 a. Ministeren for fødevarer, fiskeri og ligestilling kan meddele påbud om, at en dyrlæge skal iværksætte diagnostiske laboratorieundersøgelser med henblik på at få verificeret den diagnose, som danner grundlag for dyrlægens valg af behandling.
