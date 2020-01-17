@@ -1,4 +1,4 @@
-Fødevarestyrelsen, den 2. januar 2019
+Fødevarestyrelsen, den 15. januar 2020
 
 Esben Egede Rasmussen
 

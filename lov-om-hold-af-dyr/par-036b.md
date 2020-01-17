@@ -1,1 +1,1 @@
-§ 36 b. Miljø- og fødevareministeren kan fastsætte regler om, at ejere af dyrehold og andre personer, herunder jægere, skal indberette resultater af diagnostiske laboratoriefund i forbindelse med undersøgelse for sygdomme hos dyr.
+§ 36 b. Ministeren for fødevarer, fiskeri og ligestilling kan fastsætte regler om, at ejere af dyrehold og andre personer, herunder jægere, skal indberette resultater af diagnostiske laboratoriefund i forbindelse med undersøgelse for sygdomme hos dyr.

@@ -1,1 +1,1 @@
-§ 61 a. Miljø- og fødevareministeren kan fastsætte regler om, at besætningsejer og transportør for egen regning skal gennemføre egenkontrol ved gruppevis levering af slagtesvin, der sker efter regler fastsat i medfør af § 4 a.
+§ 61 a. Ministeren for fødevarer, fiskeri og ligestilling kan fastsætte regler om, at besætningsejer og transportør for egen regning skal gennemføre egenkontrol ved gruppevis levering af slagtesvin, der sker efter regler fastsat i medfør af § 4 a.
