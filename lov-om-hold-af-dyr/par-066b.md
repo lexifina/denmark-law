@@ -1,1 +1,1 @@
-§ 66 b. Miljø- og fødevareministeren kan fastsætte regler om, at afgørelser og andre dokumenter, der udelukkende er truffet eller udstedt på grundlag af elektronisk databehandling, kan udstedes alene med angivelse af ministeriet som afsender.
+§ 66 b. Ministeren for fødevarer, fiskeri og ligestilling kan fastsætte regler om, at afgørelser og andre dokumenter, der udelukkende er truffet eller udstedt på grundlag af elektronisk databehandling, kan udstedes alene med angivelse af ministeriet som afsender.

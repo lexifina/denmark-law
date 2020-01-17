@@ -2,7 +2,7 @@
 
 ## Veterinærfonden
 
-§ 36 c. Miljø- og fødevareministeren etablerer Veterinærfonden, som kan afholde udgifter til overvågning og bekæmpelse af dyresygdomme og zoonoser, hvortil der kan hjemsøges EU-medfinansiering.
+§ 36 c. Ministeren for fødevarer, fiskeri og ligestilling etablerer Veterinærfonden, som kan afholde udgifter til overvågning og bekæmpelse af dyresygdomme og zoonoser, hvortil der kan hjemsøges EU-medfinansiering.
 
 Stk. 2. Veterinærfonden ledes af en bestyrelse på mindst 3 medlemmer. Veterinærdirektøren, jf. lov om dyrlæger, er formand for bestyrelsen. Ministeren udpeger de øvrige medlemmer, hvoraf 1 medlem repræsenterer offentlige interesser, og 1 medlem udpeges efter indstilling fra Landbrug & Fødevarer. Bestyrelsen udpeges for en periode på 4 år. Bestyrelsesmedlemmer kan genindstilles og genudpeges.
 

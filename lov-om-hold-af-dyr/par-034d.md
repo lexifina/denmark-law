@@ -1,3 +1,3 @@
-§ 34 d. Miljø- og fødevareministeren kan meddele påbud om veterinærfaglig rådgivning om bekæmpelse af Salmonella Dublin til besætningsansvarlige på ejendomme med kvæg, der udgør en Salmonella Dublin-smitterisiko.
+§ 34 d. Ministeren for fødevarer, fiskeri og ligestilling kan meddele påbud om veterinærfaglig rådgivning om bekæmpelse af Salmonella Dublin til besætningsansvarlige på ejendomme med kvæg, der udgør en Salmonella Dublin-smitterisiko.
 
 Stk. 2. Ministeren kan fastsætte nærmere regler om den veterinærfaglige rådgivning, herunder om, at dyrlæger med de fornødne veterinærfaglige kvalifikationer skal godkendes af Fødevarestyrelsen til at foretage den veterinærfaglige rådgivning.
