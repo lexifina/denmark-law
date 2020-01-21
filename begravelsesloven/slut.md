@@ -1,5 +1,5 @@
-Kirkeministeriet, den 11. september 2018
+Kirkeministeriet, den 17. januar 2020
 
-Mette Bock
+Joy Mogensen
 
-/ Marjun Egholm
+/ Kasper Hyllested
