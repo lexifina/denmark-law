@@ -1,7 +1,5 @@
-Givet på Christiansborg Slot, den 12. juni 2009
+Energistyrelsen, den 23. januar 2020
 
-Under Vor Kongelige Hånd og Segl
+Martin Hansen
 
-MARGRETHE R.
-
-/ Troels Lund Poulsen
+/ Marie Thorlacius-Ussing

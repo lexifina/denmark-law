@@ -1,5 +1,5 @@
-Lov om vandsektorens organisering og økonomiske forhold
+Bekendtgørelse af lov om vandsektorens organisering og økonomiske forhold (vandsektorloven)
 
-VI MARGRETHE DEN ANDEN, af Guds Nåde Danmarks Dronning, gør vitterligt:
+Herved bekendtgøres lov nr. 469 af 12. juni 2009 om vandsektorens organisering og økonomiske forhold, med de ændringer, der følger af § 1 i lov nr. 1518 af 27. december 2009, § 14 i lov nr. 484 af 11. maj 2010, lov nr. 578 af 18. juni 2012, § 23 i lov nr. 580 af 18. juni 2012, § 3 i lov nr. 56 af 27. januar 2015, § 1, nr. 1-24 og 26-47, i lov nr. 132 af 16. februar 2016, § 35 i lov nr. 1715 af 27. december 2016, § 4 i lov nr. 662 af 8. juni 2017 og § 1 i lov nr. 1567 af 27. december 2019.
 
-Folketinget har vedtaget og Vi ved Vort samtykke stadfæstet følgende lov:
+Den ændring, der følger af § 1, nr. 25, i lov nr. 132 af 16. februar 2016 om ændring af lov om vandsektorens organisering og økonomiske forhold, lov om vandforsyning m.v., lov om betalingsregler for spildevandsforsyningsselskaber m.v. og forskellige andre love (Opfølgning på politisk forlig om en ny og forbedret regulering af den danske vandsektor), er ikke indarbejdet i denne lovbekendtgørelse, da tidspunktet for ikrafttræden af den ændring fastsættes af klima-, energi- og forsyningsministeren, jf. § 17, stk. 2, i lov nr. 132 af 16. februar 2016.
