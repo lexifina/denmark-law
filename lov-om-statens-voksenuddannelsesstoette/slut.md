@@ -1,5 +1,5 @@
-Uddannelses- og Forskningsministeriet, den 9. august 2019
+Uddannelses- og Forskningsministeriet, den 23. januar 2020
 
-P.M.V. Ulf Melgaard Kontorchef
+P.M.V. Søren Langelund Klit Konst. kontorchef
 
 / Marianne Madsen

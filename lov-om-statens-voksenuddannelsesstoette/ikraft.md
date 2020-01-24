@@ -41,3 +41,9 @@ Stk. 4. § 5, nr. 10, § 8, nr. 6 og 11, og § 9, nr. 3, ophæves den 1. januar 
 Stk. 1. § 1, nr. 5, 11, 14, 16, 23, 27 og 29, § 2, nr. 2, 4, 6, 8, 10, 13 og 15, § 4, nr. 14, § 5, nr. 8, og § 8, nr. 3 og 5, finder ikke anvendelse for uddannelser, der er påbegyndt eller påbegyndes i perioden fra den 1. januar 2019 til den 31. december 2021. For sådanne uddannelser finder de bestemmelser, som træder i kraft den 1. januar 2019, jf. § 14, stk. 1, eller på et senere tidspunkt i medfør af § 14, stk. 3, anvendelse.
 
 Stk. 2-4. (Udelades)
+
+Lov nr. 339 af 2. april 2019 (Indførelse af obligatorisk pensionsordning for overførselsindkomstmodtagere og tillæg til refusion til arbejdsgivere samt ændring af satsregulering af forskellige overførselsindkomster) indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 15
+
+Loven træder i kraft den 1. januar 2020.
