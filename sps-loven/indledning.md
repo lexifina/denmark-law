@@ -1,3 +1,3 @@
 Bekendtgørelse af lov om specialpædagogisk støtte ved videregående uddannelser
 
-Herved bekendtgøres lov om specialpædagogisk støtte ved videregående uddannelser, jf. lovbekendtgørelse nr. 584 af 1. juni 2014, med den ændring, der følger af § 3 i lov nr. 633 af 12. maj 2015.
+Herved bekendtgøres lov om specialpædagogisk støtte ved videregående uddannelser, jf. lovbekendtgørelse nr. 748 af 16. maj 2015, med de ændringer, der følger af § 14 i lov nr. 1736 af 27. december 2018 og § 25 i lov nr. 551 af 7. maj 2019.
