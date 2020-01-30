@@ -1,5 +1,5 @@
-Uddannelses- og Forskningsministeriet, den 16. maj 2015
+Uddannelses- og Forskningsministeriet, den 28. januar 2020
 
-Sofie Carsten Nielsen
+P.M.V. Søren Langelund Klit Konst. kontorchef
 
-/ Jesper Schaumburg-Müller
+/ Marianne Madsen
