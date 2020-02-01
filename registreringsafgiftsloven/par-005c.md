@@ -2,14 +2,12 @@
 
 Stk. 2. I tillæg til registreringsafgiften efter stk. 1 beregnes følgende afgift, jf. dog stk. 3 og 4:
 
-1) Ved bilens anmeldelse til registrering i 2016-2019 beregnes 20 pct. af differencen mellem registreringsafgiften efter §§ 4 eller 5 og registreringsafgiften efter stk. 1.
+1) Ved bilens anmeldelse til registrering i 2016-2020 beregnes 20 pct. af differencen mellem registreringsafgiften efter §§ 4 eller 5 og registreringsafgiften efter stk. 1.
 
-2) Ved bilens anmeldelse til registrering i 2020 beregnes 40 pct. af differencen mellem registreringsafgiften efter §§ 4 eller 5 og registreringsafgiften efter stk. 1.
+2) Ved bilens anmeldelse til registrering i 2021 beregnes 65 pct. af differencen mellem registreringsafgiften efter §§ 4 eller 5 og registreringsafgiften efter stk. 1.
 
-3) Ved bilens anmeldelse til registrering i 2021 beregnes 65 pct. af differencen mellem registreringsafgiften efter §§ 4 eller 5 og registreringsafgiften efter stk. 1.
+3) Ved bilens anmeldelse til registrering i 2022 beregnes 90 pct. af differencen mellem registreringsafgiften efter §§ 4 eller 5 og registreringsafgiften efter stk. 1.
 
-4) Ved bilens anmeldelse til registrering i 2022 beregnes 90 pct. af differencen mellem registreringsafgiften efter §§ 4 eller 5 og registreringsafgiften efter stk. 1.
-
-Stk. 3. Der gives et fradrag i registreringsafgiften efter stk. 2 på 10.000 kr. ved bilens anmeldelse til registrering i 2016-2018, på 40.000 kr. ved bilens anmeldelse til registrering i 2019 og på 77.500 kr. ved bilens anmeldelse til registrering i 2020. Fradrag efter 1. pkt. kan dog maksimalt udgøre afgiften efter stk. 2.
+Stk. 3. Der gives et fradrag i registreringsafgiften efter stk. 2 på 10.000 kr. ved bilens anmeldelse til registrering i 2016-2018 og på 40.000 kr. ved bilens anmeldelse til registrering i 2019 eller 2020. Fradrag efter 1. pkt. kan dog maksimalt udgøre afgiften efter stk. 2.
 
 Stk. 4. Ved bilens anmeldelse til registrering i 2017-2022 gives et fradrag i grundlaget for registreringsafgiften efter §§ 4, 5 og 5 a som beregnet i medfør af stk. 2 på 1.700 kr. pr. kilowatt-time batterikapacitet, der anvendes til fremdrift, dog højst 45 kWh.
