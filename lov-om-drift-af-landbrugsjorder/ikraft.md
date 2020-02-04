@@ -1,27 +1,9 @@
-Lov nr. 1715 af 27. december 2016 om Miljø- og Fødevareklagenævnet indeholder følgende ikrafttrædelses- og overgangsbestemmelse:
+Lov nr. 58 af 28. januar 2020 om planter og plantesundhed m.v. indeholder følgende ikrafttrædelses- og overgangsbestemmelse:
 
-§ 24. Loven træder i kraft den 1. februar 2017.
+§ 26. Loven træder i kraft den 1. februar 2020.
 
 Stk. 2. (Udelades)
 
-Stk. 3. Erhvervsministeren kan efter høring af miljø- og fødevareministeren fastsætte overgangsregler.
+Stk. 3. (Udelades)
 
-Stk. 4. (Udelades)
-
-Stk. 5. Regler, der er fastsat i henhold til hidtil gældende regler, forbliver i kraft, indtil de ophæves eller afløses af regler fastsat med hjemmel i denne lov. Overtrædelse af reglerne straffes efter de hidtil gældende regler.
-
-Stk. 6. Verserende klagesager i Natur- og Miljøklagenævnet eller Klagecenter for Fødevarer, Landbrug og Fiskeri, der ikke er færdigbehandlet ved denne lovs ikrafttræden, færdigbehandles og afgøres af Miljø- og Fødevareklagenævnet efter reglerne i denne lov. Dette gælder dog ikke verserende klagesager ved Natur- og Miljøklagenævnet, som ved lovens ikrafttræden skal færdigbehandles og afgøres af Planklagenævnet, jf. § 1 i lov om Planklagenævnet.
-
-Stk. 7. (Udelades)
-
-Lov nr. 464 af 15. maj 2017 (Permanent genopdyrkningsret) indeholder følgende ikrafttrædelsesbestemmelse:
-
-§ 2
-
-Loven træder i kraft den 1. juli 2017.
-
-Lov nr. 710 af 8. juni 2017 (Opfølgning på frikommuneforsøget 2012-2015) indeholder følgende ikrafttrædelsesbestemmelse:
-
-§ 6
-
-Loven træder i kraft den 1. juli 2017.
+Stk. 4. Regler fastsat i medfør af de love, der er nævnt i stk. 2 og 3, og § 10, stk. 2 og 3, i lov om drift af landbrugsjorder, jf. lovbekendtgørelse nr. 958 af 10. juli 2017, forbliver i kraft, indtil de ophæves eller afløses af nye regler fastsat i medfør af denne lov eller lov om drift af landbrugsjorder. Regler om straf for overtrædelser af regler, der er fastsat i de pågældende bekendtgørelser, forbliver i kraft, indtil bekendtgørelsen ophæves eller afløses af regler fastsat i medfør af denne lov eller lov om drift af landbrugsjorder.
