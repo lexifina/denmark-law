@@ -14,7 +14,7 @@ Lov nr. 1587 af 20. december 2006 (Ændringer som følge af gradvis forhøjelse 
 
 § 19
 
-Loven træder i kraft den 1. juli 2009, jf. dog stk. 2-7.
+Stk. 1. Loven træder i kraft den 1. juli 2009, jf. dog stk. 2-7.
 
 Stk. 2-7. (Udelades)
 
@@ -52,7 +52,7 @@ Lov nr. 480 af 12. juni 2009 (En styrket beskæftigelsesrettet indsats over for 
 
 Stk. 1. Loven træder i kraft den 6. juli 2009, jf. dog stk. 2-4.
 
-Stk. 2. § 7 c i lov om sygedagpenge som affattet ved denne lovs § 1, nr. 1, § 1, nr. 2-7, 9 og 11, § 15, stk. 4, 5 og 7, i lov om sygedagpenge som affattet ved denne lovs § 1, nr. 10, § 21, stk. 5, i lov om sygedag- penge som affattet ved denne lovs § 1, nr. 13, § 36, stk. 3, i lov om sygedagpenge som affattet ved denne lovs § 1, nr. 18, § 1, nr. 19-21, § 53, stk. 2, nr. 3, i lov om sygedagpenge som affattet ved denne lovs § 1, nr. 22, § 2, nr. 22, § 74 a, stk. 5, i lov om aktiv socialpolitik som ændret ved denne lovs § 3, nr. 3, og § 74 i, stk. 3, i lov om aktiv socialpolitik som ændret ved denne lovs § 3, nr. 4, træder i kraft den 5. oktober 2009.
+Stk. 2. § 7 c i lov om sygedagpenge som affattet ved denne lovs § 1, nr. 1, § 1, nr. 2-7, 9 og 11, § 15, stk. 4, 5 og 7, i lov om sygedagpenge som affattet ved denne lovs § 1, nr. 10, § 21, stk. 5, i lov om sygedagpenge som affattet ved denne lovs § 1, nr. 13, § 36, stk. 3, i lov om sygedagpenge som affattet ved denne lovs § 1, nr. 18, § 1, nr. 19-21, § 53, stk. 2, nr. 3, i lov om sygedagpenge som affattet ved denne lovs § 1, nr. 22, § 2, nr. 22, § 74 a, stk. 5, i lov om aktiv socialpolitik som ændret ved denne lovs § 3, nr. 3, og § 74 i, stk. 3, i lov om aktiv socialpolitik som ændret ved denne lovs § 3, nr. 4, træder i kraft den 5. oktober 2009.
 
 Stk. 3. § 7 a og § 7 b i lov om sygedagpenge som affattet ved denne lovs § 1, nr. 1, § 15, stk. 3, i lov om sygedagpenge som affattet ved denne lovs § 1, nr. 10, § 1, nr. 23-25, og § 3, nr. 6-8, træder i kraft den 4. januar 2010.
 
@@ -88,7 +88,7 @@ Lov nr. 483 af 12. juni 2009 (Etablering af et enstrenget kommunalt beskæftigel
 
 § 21
 
-Loven træder i kraft den 1. august 2009, jf. dog stk. 2 og 3.
+Stk. 1. Loven træder i kraft den 1. august 2009, jf. dog stk. 2 og 3.
 
 Stk. 2-3. (Udelades)
 
@@ -168,7 +168,7 @@ Stk. 1. Loven træder i kraft den 1. juli 2011.
 
 Stk. 2. (Udelades)
 
-Lov nr. 154 af 28. februar 2012 (Forenkling af indsatsen for syge- og barseldagpengemodtagere, af- tale om ret til sygedagpenge fra 1. fraværsdag for selvstændige erhvervsdrivende ved langvarig eller kronisk lidelse m.v.) indeholder følgende ikrafttrædelses- og overgangsbestemmelser:
+Lov nr. 154 af 28. februar 2012 (Forenkling af indsatsen for syge- og barseldagpengemodtagere, aftale om ret til sygedagpenge fra 1. fraværsdag for selvstændige erhvervsdrivende ved langvarig eller kronisk lidelse m.v.) indeholder følgende ikrafttrædelses- og overgangsbestemmelser:
 
 § 3
 
@@ -196,11 +196,11 @@ Stk. 1. Lovens § 1, nr. 1, har virkning for udsendelse af oplysningsskemaer i s
 
 Stk. 2. § 35, stk. 3, i lov om sygedagpenge som affattet ved denne lovs § 1, nr. 3, lovens § 1, nr. 10, og § 40 a, stk. 1 og 2, i lov om sygedagpenge som affattet ved denne lovs § 1, nr. 12, har virkning for anmeldelse af sygefravær i sager, hvor 1. sygefraværsdag er den 2. april 2012 eller senere.
 
-Stk. 3. § 38, stk. 1, i lov om sygedagpenge som affattet ved denne lovs § 1, nr. 5, har virkning for løn- modtagere, som modtager en blanket til brug for anmodning om sygedagpenge fra SDPI-løsningen den 2. april 2012 eller senere.
+Stk. 3. § 38, stk. 1, i lov om sygedagpenge som affattet ved denne lovs § 1, nr. 5, har virkning for lønmodtagere, som modtager en blanket til brug for anmodning om sygedagpenge fra SDPI-løsningen den 2. april 2012 eller senere.
 
-Stk. 4. § 38, stk. 3, i lov om sygedagpenge som affattet ved denne lovs § 1, nr. 5, har virkning for løn- modtagere med 1. sygefraværsdag efter den 25. marts 2012, hvis der ikke er afsendt et underretningsbrev fra SDPI-løsningen.
+Stk. 4. § 38, stk. 3, i lov om sygedagpenge som affattet ved denne lovs § 1, nr. 5, har virkning for lønmodtagere med 1. sygefraværsdag efter den 25. marts 2012, hvis der ikke er afsendt et underretningsbrev fra SDPI-løsningen.
 
-Stk. 5. (Udelades).
+Stk. 5. (Udelades)
 
 Stk. 6. Lovens § 1, nr. 11, § 40 a, stk. 3, i lov om sygedagpenge som affattet ved denne lovs § 1, nr. 12, og lovens § 1, nr. 15, har virkning for underretningsbreve udsendt fra SDPI-løsningen den 2. april 2012 eller senere.
 
@@ -240,7 +240,7 @@ Lov nr. 1380 af 23. december 2012 (Reform af førtidspension og fleksjob, herund
 
 § 21
 
-Loven træder i kraft den 1. januar 2013, jf. dog stk. 2-6 og 8.
+Stk. 1. Loven træder i kraft den 1. januar 2013, jf. dog stk. 2-6 og 8.
 
 Stk. 2-8. (Udelades)
 
@@ -260,7 +260,7 @@ Loven træder i kraft den 1. juli 2013.
 
 (Udelades)
 
-Lov nr. 1610 af 26. december 2013 (Midlertidig arbejdsmarkedsydelse, indsatsen for modtagere af midlertidig arbejdsmarkedsydelse, sikring af ret til syge- og barseldagpenge, målretning af danskuddannelsestilbud m.v.) indeholder følgende ikrafttrædelses- og overgangsbestemmelse:
+Lov nr. 1610 af 26. december 2013 (Midlertidig arbejdsmarkedsydelse, indsatsen for modtagere af midlertidig arbejdsmarkedsydelse, sikring af ret til syge- og barselsdagpenge, målretning af danskuddannelsestilbud m.v.) indeholder følgende ikrafttrædelses- og overgangsbestemmelse:
 
 § 14
 
@@ -276,7 +276,7 @@ Lov nr. 1611 af 26. december 2013 (Ophævelse af refusionsbestemmelse ved mangle
 
 Loven træder i kraft den 1. januar 2014.
 
-Lov nr. 720 af 25. juni 2014 (ny sygedagpengemodel med tidlig opfølgning og indsats, jobafklaringsforløb, arbejdsløshedsdagpenge under sygdom m.v.) indeholder følgende ikrafttrædelses- og overgangsbestemmelser:
+Lov nr. 720 af 25. juni 2014 (Ny sygedagpengemodel med tidlig opfølgning og indsats, jobafklaringsforløb, arbejdsløshedsdagpenge under sygdom m.v.) indeholder følgende ikrafttrædelses- og overgangsbestemmelser:
 
 § 12
 
@@ -310,7 +310,7 @@ Stk. 3. § 20, stk. 1, nr. 4, træder i kraft den 1. juli 2015.
 
 Stk. 4. Lov om ansvaret for og styringen af den aktive beskæftigelsesindsats, jf. lovbekendtgørelse nr. 1177 af 5. november 2014, ophæves.
 
-Lov nr. 1486 af 23. december 2014 (Reform af beskæftigelsesindsatsen, et fælles og intensiveret kontaktforløb, uddannelsesløft, styrket rådighed og målretning af virksomhedsrettede tilbud m.v.) inde- holder følgende ikrafttrædelses- og overgangsbestemmelser:
+Lov nr. 1486 af 23. december 2014 (Reform af beskæftigelsesindsatsen, et fælles og intensiveret kontaktforløb, uddannelsesløft, styrket rådighed og målretning af virksomhedsrettede tilbud m.v.) indeholder følgende ikrafttrædelses- og overgangsbestemmelser:
 
 § 9
 
@@ -326,7 +326,7 @@ Stk. 5. (Udelades)
 
 § 10
 
-Stk. 1-12. (Udelades)
+Stk. 1-12 (Udelades)
 
 Stk. 13. § 4, nr. 1, finder anvendelse for personer, der ved første fraværsdag den 1. juli 2014 eller senere ville have haft ret til sygedagpenge, hvis de ikke var omfattet af tidsbegrænsningen i § 24, stk. 1, i lov om sygedagpenge. Hvis kommunen træffer afgørelse om, at en sygemeldt ikke har ret til sygedagpenge fra første fraværsdag, og personen derfor kan modtage ressourceforløbsydelse under et jobafklaringsforløb, jf. denne lovs § 1, nr. 64, og § 69 j i lov om aktiv socialpolitik, fra den 1. juli 2014 eller senere, vil en arbejdsgiver, der har udbetalt løn i perioden, have ret til refusion efter denne lovs § 3, nr. 15 og 16. Der ses bort fra arbejdsgiverens normale frist for anmodning om refusion for udbetalt løn efter § 69, stk. 1-3, i lov om aktiv socialpolitik, som er fastsat i § 2 i bekendtgørelse om arbejdsgiveres anmodning om refusion og tilbagebetaling af refusion i forbindelse med medarbejderes deltagelse i et jobafklaringsforløb m.v.
 
@@ -342,7 +342,7 @@ Lov nr. 994 af 30. august 2015 om kommunernes finansiering af visse offentlige y
 
 § 29
 
-Stk. 1 Loven træder i kraft den 4. januar 2016, jf. dog stk. 2.
+Stk. 1. Loven træder i kraft den 4. januar 2016, jf. dog stk. 2.
 
 Stk. 2. Beskæftigelsesministeren fastsætter tidspunktet for ikrafttræden af §§ 8, 11-14, 16, 18 og 19. Beskæftigelsesministeren kan i den forbindelse fastsætte regler om overgang fra opgørelse efter §§ 27 og 28 til opgørelse i Ydelsesrefusion.
 
@@ -402,7 +402,7 @@ Lov nr. 625 af 8. juni 2016 (Forlængelse af forsøg med ret til at afvise læge
 
 § 6
 
-Stk. 1. Loven træder i kraft den 1. juli 2016, jf. dog stk.2.
+Stk. 1. Loven træder i kraft den 1. juli 2016, jf. dog stk. 2.
 
 Stk. 2. § 1, nr. 3, træder i kraft dagen efter bekendtgørelsen i Lovtidende.
 
@@ -412,7 +412,7 @@ Stk. 1. (Udelades)
 
 Stk. 2. § 1, nr. 3, har virkning fra den 1. juni 2016.
 
-Lov nr. 628 af 8. juni 2016 (Overførsel af opgaver fra Statens Administrations Finansservicecenter m.fl. til Udbetaling Danmark m.v.) indeholder følgende ikrafttrædelses- og overgangsbestemmelser:
+Lov nr. 628 af 8. juni 2016 (Overførsel af opgaver fra Statens Administrations Finansservicecenter m.fl. til Udbetaling Danmark m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
 
 § 54
 
@@ -420,11 +420,7 @@ Stk. 1. Loven træder i kraft den 1. oktober 2016, jf. dog stk. 2 og 3.
 
 Stk. 2. § 1, nr. 22 og 23, træder i kraft den 1. januar 2017.
 
-Stk. 3. § 1, nr. 24 - 28, træder i kraft dagen efter bekendtgørelsen i Lovtidende og har virkning fra den 1. oktober 2012.
-
-§ 55
-
-(Udelades)
+Stk. 3. § 1, nr. 24-28, træder i kraft dagen efter bekendtgørelsen i Lovtidende og har virkning fra den 1. oktober 2012.
 
 Lov nr. 288 af 29. marts 2017 (Digitalisering af barselslovens beskæftigelseskrav og beregning, mulighed for mere fleksibel afholdelse af fædreorlov, fastsættelse af klageadgang i sager om sygedagpengeforsikring, omregning af månedsbaserede arbejdsløshedsdagpenge til berørte uger m.v.) indeholder følgende ikrafttrædelses- og overgangsbestemmelser:
 
@@ -442,7 +438,7 @@ Stk. 5. Beskæftigelsesministeren fastsætter tidspunktet for ikrafttræden af �
 
 § 6
 
-Stk. Stk. 1-3. (Udelades)
+Stk. 1-3. (Udelades)
 
 Stk. 4. § 3, nr. 1, finder ikke anvendelse på afgørelser truffet af Udbetaling Danmark før den 1. april 2017. For disse afgørelser gælder de hidtil gældende regler.
 
@@ -469,6 +465,26 @@ Lov nr. 1669 af 26. december 2017 (Modelparametre for erhvervsuddannelser til br
 Stk. 1. Loven træder i kraft den 1. januar 2018.
 
 Stk. 2. (Udelades)
+
+Lov nr. 701 af 8. juni 2018 (Konsekvensændringer af ydelseslovgivningen som følge af indførelse af samtidighedsferie i ferieloven, kompensation af private arbejdsgivere ved indførelse af samtidighedsferie m.v.) indeholder følgende ikrafttrædelses- og overgangsbestemmelser:
+
+§ 9
+
+Stk. 1. Loven træder i kraft den 1. juli 2018, jf. dog stk. 2-4.
+
+Stk. 2. (Udelades)
+
+Stk. 3. § 1, nr. 6, § 2, nr. 3, § 3 og § 4, nr. 5, træder i kraft den 1. januar 2020.
+
+Stk. 4. (Udelades)
+
+§ 10
+
+Stk. 1-2. (Udelades)
+
+Stk. 3. Regler fastsat i medfør af § 66, stk. 14 og 15, i lov om sygedagpenge, jf. lovbekendtgørelse nr. 38 af 19. januar 2018, forbliver i kraft, indtil de ophæves eller afløses af forskrifter udstedt i medfør af § 66, stk. 15 og 16, i lov om sygedagpenge.
+
+Stk. 4-5. (Udelades)
 
 Lov nr. 707 af 8. juni 2018 (Mulighed for at udarbejde en helhedsorienteret plan til borgere med komplekse og sammensatte problemer) indeholder følgende ikrafttrædelsesbestemmelse:
 
@@ -504,10 +520,76 @@ Stk. 1. Loven træder i kraft den 1. januar 2019.
 
 Stk. 2. Loven finder ikke anvendelse for domme efter straffelovens § 81 a, der vedrører forhold begået inden lovens ikrafttræden.
 
-Stk. 3-4 (Udelades)
+Stk. 3-4. (Udelades)
 
 Lov nr. 1710 af 27. december 2018 (Opholdskrav for ret til arbejdsløshedsdagpenge m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
 
 § 4
 
 Loven træder i kraft den 1. januar 2019.
+
+Lov nr. 339 af 2. april 2019 (Indførelse af obligatorisk pensionsordning for overførselsindkomstmodtagere og tillæg til refusion til arbejdsgivere samt ændring af satsregulering af forskellige overførselsindkomster) indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 15
+
+Loven træder i kraft den 1. januar 2020.
+
+Overgangsbestemmelsen er ændret ved § 6, nr. 2, i lov nr. 1557 af 27. december 2019, og har herefter følgende ordlyd:
+
+§ 15
+
+Stk. 1. Loven træder i kraft den 1. januar 2020, jf. dog stk. 2.
+
+Stk. 2. Beskæftigelsesministeren fastsætter tidspunktet for ikrafttrædelsen af § 4, nr. 1 og 5-7.
+
+§ 16
+
+§ 4, nr. 1 og 5-7, har virkning for personer, der har fået udbetalt dagpenge efter lov om sygedagpenge, og arbejdsgivere, der har fået udbetalt refusion efter lov om sygedagpenge, i perioden fra den 6. januar 2020 til ikrafttrædelsen af § 4, nr. 1 og 5-7.
+
+Lov nr. 495 af 1. maj 2019 (Ret til at afvise lægebehandling uden ydelsesmæssige konsekvenser) indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 7
+
+Loven træder i kraft den 1. juli 2019.
+
+Lov nr. 551 af 7. maj 2019 (Konsekvenser af aftale om en forenklet beskæftigelsesindsats m.v.) indeholder følgende ikrafttrædelses- og overgangsbestemmelser:
+
+§ 30
+
+Stk. 1. Loven træder i kraft den 1. juli 2019, jf. dog stk. 2-5.
+
+Stk. 2-3. (Udelades)
+
+Stk. 4. § 1, nr. 1-7, 14-21 og 23, § 2 nr. 1-10, 12-19, 21, 22, 24-49, 51, 53-61, 63-66, 68-83, 85-89 og 91-98, §§ 3-6, § 7, nr. 1-5, 7-14 og 17, §§ 8-25, § 26, nr. 1-20, 22 og 23, og §§ 28 og 29 træder i kraft den 1. januar 2020.
+
+Stk. 5. (Udelades)
+
+§ 31
+
+For sygedagpengemodtagere, som den 1. januar 2020 har haft mindre end 13 uger med sygedagpenge regnet fra første fraværsdag, skal der i alt holdes mindst fire samtaler i opfølgningsforløbet inden for de første 6 måneder. For sygedagpengemodtagere, som den 1. januar 2020 har haft mellem 13 uger og 6 måneder med sygedagpenge regnet fra første fraværsdag, skal der i perioden frem til det tidspunkt, hvor den sygemeldte har haft 6 måneder med sygedagpenge, holdes samtaler i opfølgningsforløbet på følgende måde:
+
+1) For sygemeldte, som den 1. januar 2020 har haft mellem 13 og 20 uger med sygedagpenge, holdes mindst to samtaler.
+
+2) For sygemeldte, som den 1. januar 2020 har haft mellem 21 og 25 uger med sygedagpenge, holdes mindst en samtale, medmindre der har været holdt i alt mindst fire samtaler inden for de seneste 25 uger forud for den 1. januar 2020.
+
+Lov nr. 1555 af 27. december 2019 (En enklere tilrettelæggelse af første sygedagpengeopfølgning m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 2
+
+Stk. 1. Loven træder i kraft den 1. januar 2020, jf. dog stk. 2.
+
+Stk. 2. Beskæftigelsesministeren fastsætter tidspunktet for ikrafttrædelsen af § 1, nr. 2, 3, 12-14 og 19.
+
+Lov nr. 1558 af 27. december 2019 (Enklere og skærpede sanktioner, styrket kontrol med snyd og færre fejludbetalinger m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 20
+
+Stk. 1. Loven træder i kraft den 1. januar 2020, jf. dog stk. 2.
+
+Stk. 2-4. (Udelades)
+
+Lov nr. 1559 af 27. december 2019 (Indførelse af seniorpension) indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 23
+
+Loven træder i kraft den 1. januar 2020.
