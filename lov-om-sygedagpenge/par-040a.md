@@ -1,8 +1,8 @@
 ## Arbejdsløshedskassens anmeldelse af sygefravær til kommunen
 
-§ 40 a. Arbejdsløshedskassen skal anmelde et ledigt medlems sygefravær til medlemmets opholdskommune, senest 3 uger efter at medlemmet har givet besked om sygefraværet til arbejdsløshedskassen efter § 35, stk. 3 eller 4, jf. dog stk. 2.
+§ 40 a. Arbejdsløshedskassen skal anmelde et ledigt medlems sygefravær til medlemmets opholdskommune, senest 3 uger efter at medlemmet har givet besked om sygefraværet til arbejdsløshedskassen efter § 35, stk. 3, jf. dog stk. 2.
 
-Stk. 2. Arbejdsløshedskassen skal anmelde sygefraværet til medlemmets opholdskommune, senest 1 uge efter at medlemmet har givet besked om sygefraværet til arbejdsløshedskassen, når et ledigt medlem ved sin anmeldelse af sygefravær efter § 35, stk. 3 eller 4, har oplyst at være delvis ledig.
+Stk. 2. Arbejdsløshedskassen skal anmelde sygefraværet til medlemmets opholdskommune, senest 1 uge efter at medlemmet har givet besked om sygefraværet til arbejdsløshedskassen, når et ledigt medlem ved sin anmeldelse af sygefravær efter § 35, stk. 3, har oplyst at være delvis ledig.
 
 Stk. 3. Anmeldelse af sygefraværet til kommunen skal ske via Nemrefusion.
 
