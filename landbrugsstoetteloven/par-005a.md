@@ -1,1 +1,1 @@
-§ 5 a. Miljø- og fødevareministeren kan fastsætte regler om, at det skal være en betingelse for udbetaling af støttebeløb i henhold til de i § 1 nævnte forordninger, at støttemodtageren angiver en konto i et pengeinstitut, hvorpå støttebeløbet kan indsættes.
+§ 5 a. Ministeren for fødevarer, fiskeri og ligestilling kan fastsætte regler om, at det skal være en betingelse for udbetaling af støttebeløb i henhold til de i § 1 nævnte forordninger, at støttemodtageren angiver en konto i et pengeinstitut, hvorpå støttebeløbet kan indsættes.

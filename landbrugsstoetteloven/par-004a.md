@@ -1,4 +1,4 @@
-§ 4 a. Miljø- og fødevareministeren kan fastsætte regler om offentliggørelse med navns nævnelse af resultater samt art og omfang af sanktioner på grundlag af kontrol, som gennemføres i henhold til loven eller regler udstedt i medfør af loven. Ministeren kan herunder fastsætte regler om, at klage ikke har opsættende virkning.
+§ 4 a. Ministeren for fødevarer, fiskeri og ligestilling kan fastsætte regler om offentliggørelse med navns nævnelse af resultater samt art og omfang af sanktioner på grundlag af kontrol, som gennemføres i henhold til loven eller regler udstedt i medfør af loven. Ministeren kan herunder fastsætte regler om, at klage ikke har opsættende virkning.
 
 Stk. 2. Ministeren kan fastsætte regler om, på hvilken måde og i hvilken form virksomheder skal gøre kontrolresultater efter stk. 1 tilgængelige for offentligheden, herunder på hvilke betingelser virksomheder kan fritages for pligten til at gøre kontrolresultater tilgængelige.
 

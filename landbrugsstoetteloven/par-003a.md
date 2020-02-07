@@ -1,4 +1,4 @@
-§ 3 a. Pant i betalingsrettigheder skal meddeles miljø- og fødevareministeren for at opnå beskyttelse mod aftaler, der i god tro indgås med pantets ejer, og mod retsforfølgning.
+§ 3 a. Pant i betalingsrettigheder skal meddeles ministeren for fødevarer, fiskeri og ligestilling for at opnå beskyttelse mod aftaler, der i god tro indgås med pantets ejer, og mod retsforfølgning.
 
 Stk. 2. Pant i betalingsrettigheder efter stk. 1, der skal fortrænge en ikke meddelt panteret, skal selv være meddelt ministeren, og erhververen ifølge aftalen være i god tro.
 
