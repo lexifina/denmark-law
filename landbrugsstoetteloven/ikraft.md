@@ -1,5 +1,7 @@
-Lov nr. 222 af 20. marts 2018 (Pant i betalingsrettigheder efter grundbetalingsordningen) indeholder følgende ikrafttrædelsesbestemmelser:
+Lov nr. 1432 af 17. december 2019 (Obligatorisk digital kommunikation) indeholder følgende ikrafttrædelses- og overgangsbestemmelse:
 
 § 2
 
-Loven træder i kraft den 1. april 2018.
+Stk. 1. Loven træder i kraft den 1. januar 2020.
+
+Stk. 2. Regler fastsat i medfør af § 1 a i landbrugsstøtteloven, jf. lovbekendtgørelse nr. 231 af 22. marts 2018, forbliver i kraft, indtil de ophæves eller afløses af nye regler.
