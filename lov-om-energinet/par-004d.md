@@ -10,4 +10,4 @@
 
 Stk. 2. Omkostninger til opgaver efter stk. 1, som udføres for et af Energinet helejet datterselskab i medfør af § 2, stk. 2 og 3, skal betales af det helejede datterselskab.
 
-Stk. 3. Energi-, forsynings- og klimaministeren kan fastsætte nærmere regler om betaling og opkrævning til dækning af omkostningerne efter stk. 1 og 2.
+Stk. 3. Klima-, energi- og forsyningsministeren kan fastsætte nærmere regler om betaling og opkrævning til dækning af omkostningerne efter stk. 1 og 2.

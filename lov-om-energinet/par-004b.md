@@ -6,7 +6,7 @@ Stk. 2. Tilladelse til de projekter, der er nævnt i stk. 1, kan kun gives efter
 
 2) væsentlige samfundsinteresser, herunder af social eller økonomisk art, gør det bydende nødvendigt at gennemføre projektet, fordi der ikke findes nogen alternativ løsning, jf. dog stk. 4.
 
-Stk. 3. Når tilladelse meddeles efter stk. 2, nr. 2, træffer energi-, forsynings- og klimaministeren passende kompensationsforanstaltninger. Udgifter til sådanne foranstaltninger dækkes af projektansøgeren. Energi-, forsynings- og klimaministeren indberetter til Europa-Kommissionen, hvilke kompensationsforanstaltninger der træffes.
+Stk. 3. Når tilladelse meddeles efter stk. 2, nr. 2, træffer klima-, energi- og forsyningsministeren passende kompensationsforanstaltninger. Udgifter til sådanne foranstaltninger dækkes af projektansøgeren. Klima-, energi- og forsyningsministeren indberetter til Europa-Kommissionen, hvilke kompensationsforanstaltninger der træffes.
 
 Stk. 4. Såfremt der er tale om et internationalt naturbeskyttelsesområde med en prioriteret naturtype eller en prioriteret art, kan der kun gives tilladelse efter § 4 a til projekter omfattet af stk. 2, nr. 2, såfremt
 
