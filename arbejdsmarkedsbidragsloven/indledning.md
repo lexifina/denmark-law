@@ -1,5 +1,5 @@
-Lov om arbejdsmarkedsbidrag (arbejdsmarkedsbidragsloven)
+Bekendtgørelse af lov om arbejdsmarkedsbidrag (arbejdsmarkedsbidragsloven)
 
-VI MARGRETHE DEN ANDEN, af Guds Nåde Danmarks Dronning, gør vitterligt:
+Herved bekendtgøres lov nr. 471 af 12. juni 2009 om arbejdsmarkedsbidrag (arbejdsmarkedsbidragsloven) med de ændringer, der følger af § 3 i lov nr. 1278 af 16. december 2009, § 4 i lov nr. 1382 af 28. december 2011, § 4 i lov nr. 1500 af 18. december 2013, § 2 i lov nr. 1884 af 29. december 2015, § 5 i lov nr. 1888 af 29. december 2015, § 35 i lov nr. 58 af 30. januar 2018, § 122 i lov nr. 1703 af 27. december 2018, § 11 i lov nr. 339 af 2. april 2019 og § 3 i lov nr. 1583 af 27. december 2019.
 
-Folketinget har vedtaget og Vi ved Vort samtykke stadfæstet følgende lov:
+Den ændring, der følger af § 2 i lov nr. 396 af 2. maj 2018 om ændring af ligningsloven og forskellige andre love (Permanent boligjobordning, ophævelse af beskatningen af fri telefon og internet, afskaffelse af udligningsskatten og forhøjelse af beløbsgrænser for børneopsparing), er ikke indarbejdet i denne lovbekendtgørelse, da ændringen efterfølgende er ophævet, jf. § 1 i lov nr. 1584 af 27. december 2019 om ændring af lov om ændring af ligningsloven og forskellige andre love (Fastholdelse af beskatningen af fri telefon og internet m.v.).
