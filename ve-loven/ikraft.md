@@ -36,6 +36,20 @@ Stk. 9. Der ydes pristillæg efter § 47, stk. 5, nr. 1-4, i lov om fremme af ve
 
 Stk. 10. Energi-, forsynings- og klimaministeren træffer afgørelse om pristillæg efter stk. 4-9. Energi-, forsynings- og klimaministeren kan kræve, at dokumentation for opfyldelse af kravene i stk. 7-9 ledsages af en erklæring på tro og love om dokumentationens ægthed. Udbetaling af pristillæg efter stk. 7-9 er betinget af, at energi-, forsynings- og klimaministeren har modtaget ansøgning om udbetaling af pristillæg senest den 31. marts 2018. Afgørelsen kan ikke påklages til anden administrativ myndighed end Energiklagenævnet.
 
+Lov nr. 744 af 1. juni 2015 (Ny ansøgningsprocedure og grænse på 500 kW for støtte til bl.a. solcelleanlæg og husstandsvindmøller, investeringstilskud og driftsstøtte til kraft-varme-værker, afregningsvilkår for Horns Rev 3 og ophævelse af treledstariffen m.v.) indeholder følgende ikrafttrædelses- og overgangsbestemmelse:
+
+§ 7
+
+Stk. 1. Loven træder i kraft den 1. juli 2015, jf. dog stk. 2-4.
+
+Stk. 2-4. (Udelades)
+
+Stk. 5. Der kan ydes pristillæg efter § 41, stk. 3, § 43 a, stk. 7, § 44, stk. 5, og § 47, stk. 6 og 9, i lov om fremme af vedvarende energi, jf. lovbekendtgørelse nr. 122 af 6. februar 2015, for elektricitet fremstillet på anlæg, som er nettilsluttet den 1. januar 2016 eller senere, hvis projektet er påbegyndt inden den 1. juli 2015, og hvis det forhold, at nettilslutning ikke er opnået inden den 1. januar 2016, ikke kan tilregnes ejeren af anlægget. Har et anlæg, som er omfattet af 1. pkt., en installeret effekt på 500 kW eller derover, er det endvidere en betingelse, at der er truffet afgørelse herom i 2015, og at ansøgning herom er modtaget af Energinet.dk senest den 31. oktober 2015.
+
+Stk. 6. Elektricitet fra solcelleanlæg, hvor ejeren opfylder betingelserne i § 4, stk. 7-9, i lov nr. 900 af 4. juli 2013, er ikke omfattet af § 47, stk. 7, i lov om fremme af vedvarende energi som affattet ved denne lovs § 1, nr. 18, uanset om anlægget er nettilsluttet den 1. januar 2016 eller senere. Har anlægget en installeret effekt på 500 kW eller derover, er det dog en betingelse, at der er truffet afgørelse om pristillæg i 2015, og at ansøgning herom er modtaget af Energinet.dk senest den 31. oktober 2015.
+
+Stk. 7. Energinet.dk træffer afgørelse om pristillæg efter stk. 5 og 6. Sådanne afgørelser kan ikke påklages til anden administrativ myndighed end Energiklagenævnet. Klage skal være indgivet skriftligt inden 4 uger at afgørelsen er meddelt.
+
 Lov nr. 261 af 16. marts 2016 om pilotudbud af pristillæg for elektricitet fremstillet på solcelleanlæg indeholder følgende ikrafttrædelsesbestemmelse:
 
 § 6. Energi-, forsynings- og klimaministeren fastsætter tidspunktet for lovens ikrafttræden. Ministeren kan herunder fastsætte, at lovens bestemmelser træder i kraft på forskellige tidspunkter.
@@ -98,7 +112,7 @@ Stk. 7. Energinets afgørelser efter § 7, stk. 12, 1. pkt., i lov nr. 641 af 12
 
 Stk. 8. (Udelades)
 
-Lov nr. 504 af 23. maj 2018 (Afholdelse af udbud af pristillæg, særordning for forsøgsmøller og overgangsordning for landmøller samt udvidelse af værditabsordningen, køberetsordningen og garantifonden for visse solcelleanlæg m.v.) indeholder følgende ikrafttrædelses- og overgangsbestemmelser:
+Lov nr. 504 af 23. maj 2018 (Afholdelse af udbud af pristillæg, særordning for forsøgsmøller og overgangsordning for landmøller samt udvidelse af værditabsordningen, køberetsordningen og garantifonden for visse solcelleanlæg m.v.) indeholder følgende ikrafttrædelses- og overgangsbestemmelse:
 
 § 4
 
@@ -108,7 +122,7 @@ Stk. 2. Energi-, forsynings- og klimaministeren fastsætter tidspunktet for ikra
 
 Stk. 3. § 1, nr. 49 og 50, og § 2, nr. 1, finder ikke anvendelse for anlæg, hvor der er indgået en aftale om nettilslutning inden den 1. juli 2018. For sådanne anlæg finder de hidtil gældende regler anvendelse.
 
-Lov nr. 505 af 23. maj 2018 (Afholdelse af et udbud af pristillæg for elektricitet produceret på solcelleanlæg), indeholder følgende ikrafttrædelsesbestemmelse:
+Lov nr. 505 af 23. maj 2018 (Afholdelse af et udbud af pristillæg for elektricitet produceret på solcelleanlæg) indeholder følgende ikrafttrædelsesbestemmelse:
 
 § 2
 
@@ -120,7 +134,7 @@ Lov nr. 690 af 8. juni 2018 om Forsyningstilsynet indeholder følgende ikrafttr�
 
 Stk. 2-3. (Udelades)
 
-Lov nr. 704 af 8. juni 2018 (Styrkelse af rammerne for overvågning af elforsyningssikkerheden og klare regler for sikring af kapacitet, ændringer som følge af forordninger om EU-netregler, flytning af ansvar for måling af elektricitet hos elforbrugere direkte tilsluttet transmissionsnettet og samkøring af oplysninger om realiserede energibesparelser m.v.), indeholder følgende ikrafttrædelsesbestemmelse:
+Lov nr. 704 af 8. juni 2018 (Styrkelse af rammerne for overvågning af elforsyningssikkerheden og klare regler for sikring af kapacitet, ændringer som følge af forordninger om EU-netregler, flytning af ansvar for måling af elektricitet hos elforbrugere direkte tilsluttet transmissionsnettet og samkøring af oplysninger om realiserede energibesparelser m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
 
 § 6
 
@@ -128,7 +142,7 @@ Stk. 1. Loven træder i kraft den 1. juli 2018, jf. dog stk. 2.
 
 Stk. 2. (Udelades)
 
-Lov nr. 1532 af 18. december 2018 (Pristillæg til elektricitet produceret ved afbrænding af biomasse, digitalisering m.v.) indeholder følgende ikrafttrædelses- og overgangsbestemmelser:
+Lov nr. 1532 af 18. december 2018 (Pristillæg til elektricitet produceret ved afbrænding af biomasse, digitalisering m.v.) indeholder følgende ikrafttrædelses- og overgangsbestemmelse:
 
 § 3
 
@@ -141,3 +155,33 @@ Stk. 3. Energi-, forsynings- og klimaministeren fastsætter tidspunktet for ikra
 Stk. 4. For pristillæg ydet efter §§ 45 og 46, jf. lovbekendtgørelse nr. 1194 af 28. september 2018, som ændret ved § 1 i lov nr. 1705 af 23. december 2016, og § 1 i lov nr. 504 af 23. maj 2018, finder de hidtil gældende regler om administration, herunder kontrol, af pristillæg ydet efter §§ 45 og 46, fortsat anvendelse efter lovens ikrafttræden.
 
 Stk. 5. Der kan til og med den 31. juli 2019 ydes pristillæg til elproduktion fra afbrænding af biomasse fra anlæg, der den 31. marts 2019 modtager pristillæg for elproduktion fra afbrænding af biomasse i medfør af § 46 i lov om fremme af vedvarende energi, jf. lovbekendtgørelse nr. 1194 af 28. september 2018, som ændret ved § 1 i lov nr. 1705 af 23. december 2016, og § 1 i lov nr. 504 af 23. maj 2018.
+
+Lov nr. 499 af 1. maj 2019 (Støtteordninger til forsøgsvindmøller, ophør af støtteordning for husstandsvindmøller i 2020 og udvidelse af den kommunale indsigelsesret m.v.) indeholder følgende ikrafttrædelses- og overgangsbestemmelse:
+
+§ 3
+
+Stk. 1. Loven træder i kraft den 1. juli 2019, jf. dog stk. 2.
+
+Stk. 2. Energi-, forsynings- og klimaministeren fastsætter tidspunktet for ikrafttræden af § 1, nr. 3, 6, 8, 11 og 12, og § 2. Ministeren kan herunder fastsætte, at bestemmelserne træder i kraft på forskellige tidspunkter.
+
+Stk. 3. § 1, nr. 2, finder ikke anvendelse for ansøgninger om forundersøgelsestilladelser modtaget før den 1. juli 2019. For sådanne ansøgninger finder de hidtil gældende regler anvendelse.
+
+Stk. 4. Regler fastsat i medfør af § 35 c, stk. 3 og 4, § 35 d, stk. 3 og 4, og § 35 f, stk. 4 og 5, i lov om fremme af vedvarende energi, jf. lovbekendtgørelse nr. 53 af 18. januar 2019, forbliver i kraft, indtil de ophæves eller afløses af forskrifter udstedt i medfør af § 35 c, stk. 5 og 6, § 35 d, stk. 5 og 6, og § 35 e, stk. 4 og 5, i lov om fremme af vedvarende energi, som affattet ved denne lovs § 1, nr. 3.
+
+Lov nr. 1293 af 5. december 2019 (Supplerende regler til forordning om det indre marked for elektricitet, ændrede regler for kabellægning m.v. af eltransmissionsnet samt udløb af støtteordning for elektricitet produceret på decentrale kraft-varme-anlæg med naturgas eller biogas m.v.) indeholder følgende ikrafttrædelses- og overgangsbestemmelse:
+
+§ 4
+
+Stk. 1. Loven træder i kraft den 1. januar 2020.
+
+Stk. 2. For pristillæg ydet efter § 58, stk. 1, nr. 2, jf. stk. 8, i lov om elforsyning, jf. lovbekendtgørelse nr. 840 af 15. august 2019, finder de hidtil gældende regler om administration, herunder kontrol og eventuelle krav om tilbagebetaling, jf. bekendtgørelse nr. 760 af 24. juni 2013 om pristillæg til elektricitet produceret ved decentral kraftvarme m.v. som ændret ved bekendtgørelse nr. 1741 af 26. december 2017, fortsat anvendelse efter lovens ikrafttræden.
+
+Stk. 3. Regler fastsat i medfør af § 58, stk. 10 eller 11, i lov om elforsyning, jf. lovbekendtgørelse nr. 840 af 15. august 2019, forbliver i kraft, indtil de ophæves eller afløses af forskrifter udstedt i medfør af § 58, stk. 9 eller 10, i lov om elforsyning, jf. denne lovs § 1, nr. 14.
+
+Lov nr. 1566 af 27. december 2019 (Ændring af støtteordninger til anvendelse af biogas) indeholder følgende ikrafttrædelses- og overgangsbestemmelse:
+
+§ 5
+
+Stk. 1. Loven træder i kraft den 1. januar 2020, jf. dog stk. 2.
+
+Stk. 2. Klima-, energi- og forsyningsministeren fastsætter tidspunktet for ikrafttrædelse af § 47, stk. 1, nr. 2, i lov om fremme af vedvarende energi som affattet ved denne lovs § 1, nr. 13, § 50, stk. 3, i lov om fremme af vedvarende energi som affattet ved denne lovs § 1, nr. 23, og § 50, stk. 5, i lov om fremme af vedvarende energi som affattet ved denne lovs § 1, nr. 26.
