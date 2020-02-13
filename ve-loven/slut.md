@@ -1,8 +1,8 @@
-Energistyrelsen, den 4. april 2019
+Energistyrelsen, den 7. februar 2020
 
-Martin Hansen
+Janni Torp Kjærgaard
 
-/ Jane Glindvad Kristensen
+/ Jakob Henrik Juul
 
 Bilag 1
 
