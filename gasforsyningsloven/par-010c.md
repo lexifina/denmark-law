@@ -20,4 +20,4 @@ Stk. 6. Forsyningstilsynet tilsender straks Europa-Kommissionen underretning om 
 
 Stk. 7. Stk. 1-6 finder ikke anvendelse på transmissionsselskaber, der kontrolleres af en eller flere fysiske eller juridiske personer fra et eller flere lande uden for EU.
 
-Stk. 8. Energi-, forsynings- og klimaministeren kan fastsætte nærmere regler om certificering, tilsyn og underretning som nævnt i stk. 1-3. Ministeren kan endvidere fastsætte regler for selskaber omfattet af stk. 7.
+Stk. 8. Klima-, energi- og forsyningsministeren kan fastsætte nærmere regler om certificering, tilsyn og underretning som nævnt i stk. 1-3. Ministeren kan endvidere fastsætte regler for selskaber omfattet af stk. 7.

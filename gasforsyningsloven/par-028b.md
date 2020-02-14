@@ -2,4 +2,4 @@
 
 Stk. 2. Bestyrelsesmedlemmer i et distributions- eller lagerselskab må ikke direkte eller indirekte deltage i driften eller ledelsen af et koncernforbundet selskab, som sælger eller producerer naturgas.
 
-Stk. 3. Energi-, forsynings- og klimaministeren kan fastsætte nærmere regler med henblik på at sikre, at ledelsen i et transmissions-, distributions- eller lagerselskab kan handle uafhængigt af kommercielle interesser.
+Stk. 3. Klima-, energi- og forsyningsministeren kan fastsætte nærmere regler med henblik på at sikre, at ledelsen i et transmissions-, distributions- eller lagerselskab kan handle uafhængigt af kommercielle interesser.

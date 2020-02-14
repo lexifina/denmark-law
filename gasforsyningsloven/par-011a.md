@@ -6,4 +6,4 @@ Stk. 3. Stk. 2 er ikke til hinder for, at to eller flere distributionsselskaber 
 
 Stk. 4. Den overvågningsansvarlige skal til varetagelse af sin opgave have adgang til alle nødvendige oplysninger hos selskabet og eventuelle tilknyttede og associerede selskaber samt selskaber, der kontrolleres af samme selskabsdeltagere.
 
-Stk. 5. Energi-, forsynings- og klimaministeren kan fastsætte nærmere regler om de i stk. 1 nævnte forhold, herunder om, hvad programmet for intern overvågning skal indeholde, og hvordan det skal kontrolleres.
+Stk. 5. Klima-, energi- og forsyningsministeren kan fastsætte nærmere regler om de i stk. 1 nævnte forhold, herunder om, hvad programmet for intern overvågning skal indeholde, og hvordan det skal kontrolleres.

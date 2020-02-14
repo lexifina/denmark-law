@@ -1,3 +1,3 @@
 § 11 c. Energinet skal opstille et program for intern overvågning, som beskriver Energinets tiltag for at forhindre diskriminerende adfærd. Energinet skal sikre overholdelsen af programmet for intern overvågning og sikre, at det kontrolleres på passende måde. En årsberetning med en beskrivelse af programmet og kontrollen af dette skal offentliggøres og anmeldes til Forsyningstilsynet.
 
-Stk. 2. Energi-, forsynings- og klimaministeren kan fastsætte nærmere regler om indholdet af de i stk. 1 nævnte forhold, herunder om, hvad programmet for intern overvågning skal indeholde, og hvordan det skal kontrolleres.
+Stk. 2. Klima-, energi- og forsyningsministeren kan fastsætte nærmere regler om indholdet af de i stk. 1 nævnte forhold, herunder om, hvad programmet for intern overvågning skal indeholde, og hvordan det skal kontrolleres.
