@@ -4,6 +4,6 @@ Stk. 2. Transmissions-, distributions-, lager- og LNG-selskaber skal give bruger
 
 Stk. 3. Distributionsselskaber skal meddele det til forsyningspligtige selskaber, at en forbruger er uden naturgasleverandør.
 
-Stk. 4. Energi-, forsynings- og klimaministeren kan fastsætte nærmere regler om selskabernes pligt til at videregive oplysninger i henhold til stk. 1 og 2.
+Stk. 4. Klima-, energi- og forsyningsministeren kan fastsætte nærmere regler om selskabernes pligt til at videregive oplysninger i henhold til stk. 1 og 2.
 
 Stk. 5. Klager over selskaber vedrørende selskabernes oplysningspligt efter stk. 1 og 2 og regler udstedt i henhold til loven kan indbringes for Forsyningstilsynet.

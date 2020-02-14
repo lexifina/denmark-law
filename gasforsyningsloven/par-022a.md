@@ -2,4 +2,4 @@
 
 Stk. 2. Den i stk. 1 nævnte infrastruktur skal være selskabsmæssigt adskilt fra det selskab, i hvis system infrastrukturen vil indgå.
 
-Stk. 3. Energi-, forsynings- og klimaministeren fastsætter regler om de i stk. 1 nævnte forhold.
+Stk. 3. Klima-, energi- og forsyningsministeren fastsætter regler om de i stk. 1 nævnte forhold.

@@ -1,5 +1,5 @@
-Energistyrelsen, den 5. september 2018
+Energistyrelsen, den 6. februar 2020
 
-Martin Hansen Vicedirektør
+Martin Hansen
 
 / Jane Glindvad Kristensen

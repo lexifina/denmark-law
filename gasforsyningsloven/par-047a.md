@@ -1,1 +1,1 @@
-§ 47 a. Energi-, forsynings- og klimaministeren kan fastsætte regler om udøvelse af tilsyn og kontrol i forbindelse med opkrævning og anvendelse af beløb, der betales af forbrugerne efter § 9, stk. 1.
+§ 47 a. Klima-, energi- og forsyningsministeren kan fastsætte regler om udøvelse af tilsyn og kontrol i forbindelse med opkrævning og anvendelse af beløb, der betales af forbrugerne efter § 9, stk. 1.
