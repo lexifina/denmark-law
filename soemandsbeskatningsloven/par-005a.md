@@ -1,3 +1,1 @@
-§ 5 a. § 5 finder uanset tonnageskattelovens bestemmelser tilsvarende anvendelse ved arbejde om bord på kabellægningsfartøjer, jf. dog stk. 2.
-
-Stk. 2. Ved arbejde om bord på kabellægningsfartøj inden for EU/EØS finder § 5 udelukkende anvendelse i tilfælde, hvor skibets virksomhed med søtransport af kabeltromler m.v. i løbet af et indkomstår målt i forhold til tilbagelagte sømil udgør mindst 50 pct. af skibets samlede virksomhed. Sømil tilbagelagt under kabellægning og opgaver i tilknytning hertil anses ikke som søtransport. Det er en betingelse, at fartøjet har hjemsted i en EU- eller EØS-medlemsstat.
+§ 5 a. (Ophævet)
