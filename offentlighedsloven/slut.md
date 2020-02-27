@@ -1,7 +1,5 @@
-Givet på Christiansborg Slot, den 12. juni 2013
+Justitsministeriet, den 24. februar 2020
 
-Under Vor Kongelige Hånd og Segl
+Nick Hækkerup
 
-MARGRETHE R.
-
-/ Morten Bødskov
+/ Anne-Mette Lyhne Jensen
