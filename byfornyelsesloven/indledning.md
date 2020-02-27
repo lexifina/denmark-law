@@ -1,3 +1,3 @@
 Bekendtgørelse af lov om byfornyelse og udvikling af byer
 
-Herved bekendtgøres lov om byfornyelse og udvikling af byer, jf. lovbekendtgørelse nr. 1041 af 31. august 2015, med de ændringer, der følger af lov nr. 663 af 8. juni 2016 og § 51 i lov nr. 628 af 8. juni 2016.
+Herved bekendtgøres lov om byfornyelse og udvikling af byer, jf. lovbekendtgørelse nr. 1228 af 3. oktober 2016, med de ændringer, der følger af lov nr. 1562 af 19. december 2017, § 3 i lov nr. 555 af 29. maj 2018, § 34 i lov nr. 1711 af 27. december 2018 og lov nr. 465 af 29. april 2019.
