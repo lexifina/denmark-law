@@ -1,9 +1,9 @@
-## BILAG
-
-## (Ophævet).
-
-Skatteministeriet, den 27. juni 2013
+Skatteministeriet, den 25. februar 2020
 
 P.M.V. Jens Brøchner
 
-/ Lene Skov Henningsen
+/ Claus Hansen
+
+Bilag
+
+(Ophævet)

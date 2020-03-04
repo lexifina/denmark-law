@@ -1,1 +1,1 @@
-§ 25 a. (Ophævet).
+§ 25 a. (Ophævet)
