@@ -1,7 +1,5 @@
-Givet på Amalienborg, den 2. april 2019
+Beskæftigelsesministeriet, den 6. marts 2020
 
-Under Vor Kongelige Hånd og Segl
+Peter Hummelgaard
 
-MARGRETHE R.
-
-/ Troels Lund Poulsen
+/ Jakob Heltoft
