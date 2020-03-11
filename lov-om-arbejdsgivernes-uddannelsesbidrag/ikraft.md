@@ -12,22 +12,6 @@ Stk. 2. Afbrydelse af forældelse, der har fundet sted før lovens ikrafttræden
 
 Stk. 3-8. (Udelades)
 
-Lov nr. 1347 af 21. december 2012 (Finansieringsomlægning af skolepraktikydelse, omlægning af arbejdsgiverbidrag, ophævelse af præmie, løntilskud og bonus samt nye, midlertidige tilskudsordninger) indeholder følgende ikrafttrædelses- og overgangsbestemmelse:
-
-§ 7
-
-Stk. 1. Loven træder i kraft den 1. januar 2013.
-
-Stk. 2. Loven finder anvendelse på uddannelsesaftaler indgået den 1. januar 2013 eller senere.
-
-Stk. 3. For uddannelsesaftaler indgået senest den 31. december 2012 ydes der fortsat præmie og bonus i henhold til de hidtil gældende bestemmelser i §§ 16 og 17 i lov om Arbejdsgivernes Elevrefusion, jf. § 3, stk. 2 og 4, i lov nr. 1230 af 2. november 2010. For så vidt angår uddannelsesaftaler indgået i perioden fra og med den 15. november 2010 til den 31. december 2012, er det en betingelse, at aftalen påbegyndes senest 3 måneder efter aftalens indgåelse. For uddannelsesaftaler indgået i perioden nævnt i 2. pkt. er det med hensyn til udenlandske elever en betingelse for at opnå præmie og bonus, at eleven opfylder de betingelser, der er nævnt i § 19, stk. 2 og 3, i lov om erhvervsuddannelser og § 15, stk. 5 og 6, i lov om institutioner for erhvervsrettet uddannelse.
-
-Stk. 4. For praktikaftaler indgået senest den 31. december 2012 ydes der fortsat tilskud i henhold til den hidtil gældende bestemmelse i § 16 a i lov om Arbejdsgivernes Elevrefusion. For så vidt angår praktikaftaler indgået i perioden fra og med den 15. november 2010 til den 31. december 2012, er det en betingelse, at aftalen påbegyndes senest 3 måneder efter aftalens indgåelse.
-
-Stk. 5. De ydelser, der ydes efter stk. 3 og 4 samt § 3, stk. 3, i lov nr. 1230 af 2. november 2010, dækkes af bidrag efter § 18, stk. 1, i lov om Arbejdsgivernes Uddannelsesbidrag som affattet ved denne lovs § 1, nr. 10.
-
-Stk. 6. Indbetaling af bidrag efter § 18, stk. 1, i lov om Arbejdsgivernes Uddannelsesbidrag som affattet ved denne lovs § 1, nr. 10, sker første gang den 1. juli 2013.
-
 Lov nr. 634 af 16. juni 2014 (Bedre og mere attraktive erhvervsuddannelser m.v.) indeholder følgende ikrafttrædelses- og overgangsbestemmelser:
 
 § 10
@@ -197,3 +181,9 @@ Lov nr. 562 af 7. maj 2019 (Videreførelse af igu-ordningen og egu-bonusordninge
 Stk. 1. Loven træder i kraft den 1. juli 2019.
 
 Stk. 2. (Udelades)
+
+Lov nr. 1560 af 27. december 2019 (Modelparametre for erhvervsuddannelser til brug for beregning af praktikpladsafhængigt arbejdsgiverbidrag for 2020 og justering af det aktivitetsafhængige VEU-bidrag for 2020 m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 2
+
+Loven træder i kraft den 1. januar 2020.

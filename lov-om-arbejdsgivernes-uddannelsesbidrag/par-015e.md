@@ -1,3 +1,7 @@
+## Kapitel 5 b
+
+## (Ophævet)
+
 ## Kapitel 5 c
 
 ## Statslig bonus for 2017 for praktikpladser inden for fordelsuddannelserne og for merbeskæftigelse i praktikpladser
