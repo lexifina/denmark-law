@@ -1,7 +1,5 @@
-Givet på Christiansborg Slot, den 28. maj 2003
+Finansministeriet, den 27. februar 2020
 
-Under Vor Kongelige Hånd og Segl
+Nicolai Wammen
 
-MARGRETHE R.
-
-/Thor Pedersen
+/ Christina Knudsen
