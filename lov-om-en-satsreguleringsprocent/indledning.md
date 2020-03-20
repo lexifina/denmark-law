@@ -1,3 +1,3 @@
-Lov om en satsreguleringsprocent
+Bekendtgørelse af lov om en satsreguleringsprocent
 
-VI MARGRETHE DEN ANDEN, af Guds Nåde Danmarks Dronning, gør vitterligt: Folketinget har vedtaget og Vi ved Vort samtykke stadfæstet følgende lov:
+Herved bekendtgøres lov nr. 373 af 28. maj 2003 om en satsreguleringsprocent med de ændringer, der følger af § 14 i lov nr. 339 af 2. april 2019.
