@@ -28,9 +28,13 @@
 
 14) etablering af afværgeforanstaltninger til sikring mod oversvømmelse eller erosion ved planlægning af byudvikling, særlige tekniske anlæg, ændret arealanvendelse m.v. i de udpegede områder, der kan blive udsat for oversvømmelse eller erosion, jf. § 11 a, stk. 1, nr. 18,
 
-15) sikring af, at erhvervsarealer langs motorvejen prioriteres til transport- og logistikvirksomheder og andre transporttunge virksomheder, og
+15) sikring af, at erhvervsarealer langs motorvejen prioriteres til transport- og logistikvirksomheder og andre transporttunge virksomheder,
 
-16) konsekvensområder omkring erhvervsområder forbeholdt produktionsvirksomheder og transformationsområder inden for konsekvensområder.
+16) konsekvensområder omkring erhvervsområder forbeholdt produktionsvirksomheder, transport- og logistikvirksomheder, jf. § 11 a, stk. 1, nr. 26,
+
+17) transformationsområder inden for konsekvensområder, jf. § 11 a, stk. 1, nr. 27, og
+
+18) arealer belastet af lugt inden for konsekvensområder, jf. § 11 a, stk. 1, nr. 28.
 
 Stk. 2. Kommuneplanen kan indeholde retningslinjer for andre forhold end nævnt i stk. 1 og § 11 a, stk. 1, der kan være af betydning for arealanvendelsen og bebyggelsen, herunder beliggenheden af arealer til lokalisering af landbrugets driftsbygninger og driftsanlæg inden for de udpegede særlig værdifulde landbrugsområder, jf. § 11 a, stk. 1, nr. 10.
 
