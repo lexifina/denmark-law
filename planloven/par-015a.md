@@ -1,4 +1,4 @@
-§ 15 a. En lokalplan må kun udlægge støjbelastede arealer til støjfølsom anvendelse, hvis planen med bestemmelser om etablering af afskærmningsforanstaltninger m.v., jf. § 15, stk. 2, nr. 13, 22 og 25, kan sikre den fremtidige anvendelse mod støjgener.
+§ 15 a. En lokalplan må kun udlægge støjbelastede arealer til støjfølsom anvendelse, hvis planen med bestemmelser om etablering af afskærmningsforanstaltninger m.v., jf. § 15, stk. 2, nr. 13, 23 og 26, kan sikre den fremtidige anvendelse mod støjgener.
 
 Stk. 2. Lokalplaner, der tilvejebringes for arealer i et område, som i kommuneplanen er fastlagt som et byomdannelsesområde, kan uanset stk. 1 udlægge støjbelastede arealer til støjfølsom anvendelse, når kommunalbestyrelsen har sikkerhed for, at støjbelastningen er bragt til ophør i løbet af en periode, der ikke væsentligt overstiger 8 år, efter at den endeligt vedtagne lokalplan er offentliggjort.
 
