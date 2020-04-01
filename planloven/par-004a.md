@@ -20,6 +20,8 @@ Stk. 6. En nationalparkfond kan ikke fremsætte indsigelse mod et planforslag fr
 
 Stk. 7. Tilladelser til projekter efter § 5, som ikke kan realiseres eller bortfalder efter § 5, stk. 3, kan udbydes til kommunalbestyrelser i en ny ansøgningsrunde efter denne bestemmelse. Erhvervsministeren kan meddele tilladelse til ansøgninger omfattet af 1. pkt. efter denne bestemmelse. Disse tilladelser indgår ikke i antallet af potentielle nye tilladelser efter stk. 1.
 
-Stk. 8. Meddelt tilladelse efter stk. 1 og meddelt landzonetilladelse på baggrund af erhvervsministerens tilladelse efter stk. 1 bortfalder, 5 år efter at erhvervsministerens tilladelse er meddelt, hvis projektet ikke er påbegyndt på dette tidspunkt.
+Stk. 8. Meddelt tilladelse efter stk. 1, vedtagne lokalplaner og meddelt landzonetilladelse på baggrund af erhvervsministerens tilladelse efter stk. 1 bortfalder, 5 år efter at erhvervsministerens tilladelse er meddelt, hvis projektet ikke er påbegyndt på dette tidspunkt. Erhvervsministeren kan inden udløbet af fristen forlænge denne med op til 2 år.
 
-Stk. 9. Erhvervsministeren kan fastsætte regler om ansøgning, offentliggørelse af kommunalbestyrelsens ansøgning, evaluering og indberetning af projekter omfattet af stk. 1.
+Stk. 9. Erhvervsministeren kan inden udløbet af de fastsatte frister, jf. stk. 8, godkende mindre ændringer af projekter, der er tilladt efter stk. 1.
+
+Stk. 10. Erhvervsministeren kan fastsætte regler om ansøgning, offentliggørelse af kommunalbestyrelsens ansøgning, evaluering og indberetning af projekter omfattet af stk. 1.

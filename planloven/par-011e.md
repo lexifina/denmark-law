@@ -4,7 +4,7 @@
 
 2) hvordan kommuneplanen forholder sig til den vedtagne strategi for udviklingen, jf. § 23 a,
 
-3) grundlaget for udpegning af naturområder, som skal indgå i Grønt Danmarkskort, jf. § 11 a, stk. 1, nr. 14, og § 11 a, stk. 2.
+3) grundlaget for udpegning af naturområder, som skal indgå i Grønt Danmarkskort, jf. § 11 a, stk. 1, nr. 14, og § 11 a, stk. 2, herunder i hvilket omfang planlægningen for udvikling af naturområder inden for Grønt Danmarkskort er realiseret,
 
 4) beskyttede områder efter anden lovgivning og eventuelle arealreservationer efter sektorlove eller projekterings- og anlægslove,
 
@@ -34,7 +34,13 @@
 
 Stk. 2. På et kortbilag til redegørelsen skal de eksisterende og planlagte forhold i kystnærhedszonen og udviklingsområder vises, herunder hvilke områder der friholdes for bebyggelse.
 
-Stk. 3. Redegørelsen for den del af kommuneplanen, der indeholder rammer for forsyningen med butikker, jf. § 11 b, stk. 1, nr. 7, skal indeholde
+Stk. 3. Redegørelsen for den del af kommuneplanen, som indeholder en strategisk planlægning for landsbyer, jf. § 5 c, stk. 1, skal indeholde
+
+1) oplysninger om grundlaget for den strategiske planlægning for landsbyer og
+
+2) en redegørelse for, hvordan kommuneplanlægningen understøtter den ønskede udvikling af landsbyer.
+
+Stk. 4. Redegørelsen for den del af kommuneplanen, der indeholder rammer for forsyningen med butikker, jf. § 11 b, stk. 1, nr. 7, skal indeholde
 
 1) en vurdering af omfanget af det eksisterende bruttoetageareal til butiksformål i bymidten, bydelscentre, lokalcentre, områder til særlig pladskrævende varer og aflastningsområder fordelt på hovedbutikstyper og disses omsætning,
 
@@ -46,7 +52,7 @@ Stk. 3. Redegørelsen for den del af kommuneplanen, der indeholder rammer for fo
 
 5) en angivelse af tilgængeligheden for de forskellige trafikarter til de udlagte arealer til butiksformål.
 
-Stk. 4. Redegørelsen for den del af kommuneplanen, som indeholder rammer for aflastningsområder, jf. § 5 n, stk. 1, nr. 1, skal indeholde en redegørelse for det kundegrundlag, som etableringen af nye butikker baseres på, og det opland, som aflastningsområdet henvender sig til, samt en vurdering af,
+Stk. 5. Redegørelsen for den del af kommuneplanen, som indeholder rammer for aflastningsområder, jf. § 5 n, stk. 1, nr. 1, skal indeholde en redegørelse for det kundegrundlag, som etableringen af nye butikker baseres på, og det opland, som aflastningsområdet henvender sig til, samt en vurdering af,
 
 1) hvordan det planlagte aflastningsområde kan styrke konkurrencen med et større vareudvalg og lavere priser til fordel for forbrugerne,
 
@@ -54,7 +60,7 @@ Stk. 4. Redegørelsen for den del af kommuneplanen, som indeholder rammer for af
 
 3) hvordan det planlagte aflastningsområde, bl.a. set i forhold til kommunens størrelse, forventes at påvirke byens samlede oplandseffekt i forhold til nabokommuner.
 
-Stk. 5. Redegørelsen for den del af kommuneplanen, som indeholder bestemmelser om en ændret afgrænsning af bymidten eller bydelscentre, skal indeholde
+Stk. 6. Redegørelsen for den del af kommuneplanen, som indeholder bestemmelser om en ændret afgrænsning af bymidten eller bydelscentre, skal indeholde
 
 1) en vurdering af og en begrundelse for behovet for nybyggeri eller omdannelse af eksisterende bebyggelse til butiksformål ved ændret afgrænsning af bymidten eller bydelscenteret,
 
