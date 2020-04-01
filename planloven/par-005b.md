@@ -34,7 +34,7 @@ Stk. 6. Erhvervsministeren kan efter ansøgning fra kommunalbestyrelser fastsæt
 
 Stk. 7. Erhvervsministeren kan fastsætte regler om ansøgning om overførsel af eksisterende sommerhusområder inden for kystnærhedszonen til byzone efter stk. 6.
 
-Stk. 8. Erhvervsministeren kan ved udlæg af nye sommerhusområder, jf. stk. 4, fastsætte regler om rækkefølge for kommunalbestyrelsernes planlægning og om, at planlægningsmuligheden for uudnyttede områder, som er udlagt til sommerhusområde i landsplandirektiv efter stk. 4, bortfalder 8 år efter udstedelsen.
+Stk. 8. Erhvervsministeren kan ved udlæg af nye sommerhusområder, jf. stk. 4, fastsætte regler om rækkefølge for kommunalbestyrelsernes planlægning og om, at planlægningsmuligheden for uudnyttede områder, som er udlagt til sommerhusområde i landsplandirektiv efter stk. 4, bortfalder 4 år efter udstedelsen.
 
 Stk. 9. Erhvervsministeren kan i særlige tilfælde meddele kommunalbestyrelsen tilladelse til planlægning og meddelelse af landzonetilladelser til konkrete projekter til nyopførelse af turismefaciliteter, der er ødelagt på grund af brand, oversvømmelse, storm el.lign., uanset stk. 1, nr. 1 og 4, og § 35, stk. 3, hvis
 
