@@ -1,5 +1,3 @@
-Lov om tilkøb af socialpædagogisk ledsagelse under ferie
+Bekendtgørelse af lov om tilkøb af socialpædagogisk ledsagelse under ferie
 
-VI MARGRETHE DEN ANDEN, af Guds Nåde Danmarks Dronning, gør vitterligt:
-
-Folketinget har vedtaget og Vi ved Vort samtykke stadfæstet følgende lov:
+Herved bekendtgøres lov nr. 649 af 8. juni 2017 om tilkøb af socialpædagogisk ledsagelse under ferie med de ændringer, der følger af § 3 i lov nr. 498 af 1. maj 2019.

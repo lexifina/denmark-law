@@ -1,7 +1,5 @@
-Givet på Christiansborg Slot, den 8. juni 2017
+Social- og Indenrigsministeriet, den 31. marts 2020
 
-Under Vor Kongelige Hånd og Segl
+David Rene Tranekær Klemmensen
 
-MARGRETHE R.
-
-/ Mai Mercado
+/ Signe Maria Christensen
