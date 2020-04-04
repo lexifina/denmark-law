@@ -53,3 +53,19 @@ Lov nr. 666 af 8. juni 2017 (Ændrede procedurer vedrørende nedskrivning og kon
 § 6
 
 Loven træder i kraft den 1. juli 2017.
+
+Lov nr. 1520 af 18. december 2018 (Gennemførelse af anbefalingerne fra arbejdsgruppen for eftersyn af den finansielle regulering og ændring af reglerne for udpegning af SIFI’er i Danmark m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 13
+
+Stk. 1. Loven træder i kraft den 1. januar 2019, jf. dog stk. 2-5.
+
+Stk. 2-6. (Udelades)
+
+Lov nr. 552 af 7. maj 2019 (Gennemførelse af den politiske aftale om yderligere initiativer til styrkelse af indsatsen mod hvidvask og terrorfinansiering og gennemførelse af anbefalinger fra arbejdsgruppen for eftersyn af den finansielle regulering) indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 18
+
+Stk. 1. Loven træder i kraft den 1. juli 2019.
+
+Stk. 2-5. (Udelades)

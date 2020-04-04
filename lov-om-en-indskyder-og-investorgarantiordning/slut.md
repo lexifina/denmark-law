@@ -1,5 +1,5 @@
-Erhvervsministeriet, den 19. september 2018
+Erhvervsministeriet, den 2. april 2020
 
-Rasmus Jarlov
+Simon Kollerup
 
-/ Jesper Berg
+/ Rikke-Louise Ørum Petersen
