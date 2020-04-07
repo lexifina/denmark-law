@@ -2,9 +2,9 @@ Lov nr. 532 af 29. april 2015 (Ret til basal indlånskonto, gennemførelse af æ
 
 § 16
 
-Stk. 1. 1-6. (Udelades)
+Stk. 1-6. (Udelades)
 
-Stk. 7. § 2, nr. 1, 4 og 5, og §§ 4 og 5 træder i kraft den 21. marts 2016
+Stk. 7. § 2, nr. 1, 4 og 5, og §§ 4 og 5 træder i kraft den 21. marts 2016.
 
 Stk. 8-9. (Udelades)
 
@@ -67,3 +67,39 @@ Lov nr. 706 af 8. juni 2018 (Styrket indsats mod hvidvask m.v. i den finansielle
 Stk. 1. Loven træder i kraft den 1. juli 2018, jf. dog stk. 2 og 3.
 
 Stk. 2-7. (Udelades)
+
+Lov nr. 1520 af 18. december 2018 (Gennemførelse af anbefalingerne fra arbejdsgruppen for eftersyn af den finansielle regulering og ændring af reglerne for udpegning af SIFI’er i Danmark m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 13
+
+Stk. 1. Loven træder i kraft den 1. januar 2019, jf. dog stk. 2-5.
+
+Stk. 2. (Udelades)
+
+Stk. 3. Eventuelle tillæg til prospekter, der er godkendt af Finanstilsynet inden den 21. juli 2019, skal udarbejdes efter reglerne om tillæg i Europa-Parlamentets og Rådets forordning 2017/1129/EU af 14. juni 2017 om det prospekt, der skal offentliggøres, når værdipapirer udbydes til offentligheden eller optages til handel på et reguleret marked.
+
+Stk. 4-6. (Udelades)
+
+Lov nr. 552 af 7. maj 2019 (Gennemførelse af den politiske aftale om yderligere initiativer til styrkelse af indsatsen mod hvidvask og terrorfinansiering og gennemførelse af anbefalinger fra arbejdsgruppen for eftersyn af den finansielle regulering) indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 18
+
+Stk. 1. Loven træder i kraft den 1. juli 2019.
+
+Stk. 2-5. (Udelades)
+
+Lov nr. 1374 af 13. december 2019 (Direkte debitering, håndtering af erstatningskrav i henhold til en byggeskadeforsikring tegnet i Qudos Insurance A/S, whistleblowerordning for virksomheder med begrænset tilladelse, revisors meddelelsespligt til Finanstilsynet og ændring af procedure ved indløsning af minoritetsaktionærer m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 19
+
+Stk. 1. Loven træder i kraft den 1. januar 2020, jf. dog stk. 2-4.
+
+Stk. 2-7. (Udelades)
+
+Lov nr. 1563 af 27. december 2019 (Styrkelse af indsatsen mod finansiel kriminalitet og gennemførelse af 4. og 5. hvidvaskdirektiv) indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 18
+
+Stk. 1. Loven træder i kraft den 10. januar 2020.
+
+Stk. 2-3. (Udelades)
