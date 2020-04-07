@@ -1,7 +1,5 @@
-Givet på Christiansborg Slot, den 22. januar 2018
+Erhvervsministeriet, den 2. april 2020
 
-Under Vor Kongelige Hånd og Segl
+Simon Kollerup
 
-MARGRETHE R.
-
-/ Brian Mikkelsen
+/ Rikke-Louise Ørum Petersen
