@@ -1,1 +1,1 @@
-§ 11 f. Erhvervs- og vækstministeren kan fastsætte regler om, hvilke bevisligheder der skal forelægges ved bareboatregistrering af skibe.
+§ 11 f. Erhvervsministeren kan fastsætte regler om, hvilke bevisligheder der skal forelægges ved bareboatregistrering af skibe.

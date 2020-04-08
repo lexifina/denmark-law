@@ -6,4 +6,4 @@ Stk. 3. Det er en betingelse for, at skibet midlertidigt får ret til at føre e
 
 Stk. 4. Det er endvidere en betingelse for, at skibet midlertidigt får ret til at føre et andet nationalitetsflag, jf. stk. 1, at bareboataftalen ikke er indgået med et fremmed selskab eller lignende, hvori skibets ejer har en direkte eller indirekte kapitalinteresse på 20 pct. eller derover og dermed har indflydelse på selskabets drift. Det gælder dog ikke, hvis det over for Skibsregistret dokumenteres, at flagskifte er nødvendigt for at opfylde et udenlandsk myndighedskrav om anvendelse af et bestemt flag som betingelse for markedsadgang.
 
-Stk. 5. Erhvervs- og vækstministeren fastsætter efter høring af Skibstilsynsrådet regler om, hvilke nationalitetsflag danske skibe, der bareboatbefragtes til ikkedanske ejere, kan føre.
+Stk. 5. Erhvervsministeren fastsætter efter høring af Skibstilsynsrådet regler om, hvilke nationalitetsflag danske skibe, der bareboatbefragtes til ikkedanske ejere, kan føre.
