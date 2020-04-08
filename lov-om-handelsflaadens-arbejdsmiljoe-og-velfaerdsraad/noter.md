@@ -1,13 +1,5 @@
-1) Sømandslovens titel er i dag lov om søfarendes ansættelsesforhold m.v.
+1) Loven indeholder bestemmelser, der gennemfører dele af Rådets direktiv 2009/13/EF af 16. februar 2009 om iværksættelse af den aftale, der er indgået mellem European Community Shipowners’ Associations (ECSA) og European Transport Workers’ Federation (ETF) om konventionen om søfarendes arbejdsforhold af 2006, og om ændring af direktiv 1999/63/EF, EU-Tidende 2009, nr. L 124, side 30, og dele af Rådets direktiv 89/391/EØF af 12. juni 1989 om iværksættelse af foranstaltninger til forbedring af arbejdstagernes sikkerhed og sundhed under arbejdet, EF-Tidende 1989, nr. L 183, side 1, som ændret ved Europa-Parlamentets og Rådets forordning nr. 1882/2003/EF af 29. september 2003, EU-Tidende 2003, nr. L 284, side 1, Europa-Parlamentets og Rådets direktiv 2007/30/EF af 20. juni 2007, EU-Tidende 2007, nr. L 165, side 21, og Europa-Parlamentets og Rådets forordning nr. 1137/2008/EF af 22. oktober 2008, EU-Tidende 2008, nr. L 311, side 1.
 
-2) Loven blev sat i kraft den 1. januar 1991, jf. bekendtgørelse nr. 761 af 15. november 1990.
+2) Loven trådte i kraft den 1. januar 1991, jf. bekendtgørelse nr. 761 af 15. november 1990.
 
-3) Stk. 2 omhandler sømandsbeskatningsloven.
-
-4) § 7 omhandler lov om skibes besætning, lov om søfarendes ansættelsesforhold m.v. og lov om sikkerhed til søs.
-
-5) Stk. 2 omhandler lov om realkreditlån og realkreditobligationer m.v.
-
-6) Stk. 3 omhandler forskellige andre love.
-
-7) Stk. 5 omhandler lov om finansiel stabilitet og lov om statsligt kapitalindskud i kreditinstitutter.
+3) § 3 trådte i kraft den 1. december 2018, jf. bekendtgørelse nr. 1344 af 28. november 2018.
