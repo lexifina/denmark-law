@@ -1,7 +1,5 @@
-Givet på Christiansborg Slot, den 8. juni 2016
+Søfartsstyrelsen, den 6. april 2020
 
-Under Vor Kongelige Hånd og Segl
+Kristina Ravn
 
-MARGRETHE R.
-
-/ Troels Lund Poulsen
+/ Neriman Balikci
