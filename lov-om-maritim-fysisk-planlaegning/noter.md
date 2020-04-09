@@ -1,1 +1,1 @@
-1) Loven indeholder bestemmelser, der gennemfører dele af Europa-Parlamentets og Rådets direktiv 2014/89/EU af 23. juli 2014 om rammerne for maritim fysisk planlægning, EU-Tidende 2014, nr. L 257, side 135.
+1 Loven indeholder bestemmelser, der gennemfører dele af Europa-Parlamentets og Rådets direktiv 2014/89/EU af 23. juli 2014 om rammerne for maritim fysisk planlægning, EU-Tidende 2014, nr. L 257, side 135.

@@ -1,5 +1,3 @@
-Lov om maritim fysisk planlægning
+Bekendtgørelse af lov om maritim fysisk planlægning
 
-VI MARGRETHE DEN ANDEN, af Guds Nåde Danmarks Dronning, gør vitterligt:
-
-Folketinget har vedtaget og Vi ved Vort samtykke stadfæstet følgende lov:
+Herved bekendtgøres lov nr. 615 af 8. juni 2016 om maritim fysisk planlægning med de ændringer, der følger af § 8 i lov nr. 720 af 8. juni 2018, § 2 i lov nr. 1714 af 27. december 2018 og § 3 i lov nr. 134 af 25. februar 2020.
