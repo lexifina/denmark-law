@@ -1,8 +1,8 @@
-Skatteministeriet, den 17. januar 2017
+Skatteministeriet, den 17. april 2020
 
-P.M.V. Jens Brøchner
+Jens Brøchner
 
-/ Lene Skov Henningsen
+/ Claus Hansen
 
 Bilag 1
 
