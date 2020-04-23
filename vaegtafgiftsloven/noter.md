@@ -1,0 +1,1 @@
+1) Loven indeholder bestemmelser, der gennemfører Rådets direktiv 1992/106/EØF af 7. december 1992 om indførelse af fælles regler for visse former for kombineret godstransport mellem medlemsstaterne, EF-Tidende 1992, nr. L 368, side 38.
