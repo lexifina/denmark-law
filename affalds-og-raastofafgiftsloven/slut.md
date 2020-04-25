@@ -1,8 +1,8 @@
-Skatteministeriet, den 21. april 2017
+Skatteministeriet, den 20. april 2020
 
 P.M.V. Jens Brøchner
 
-/ Lene Skov Henningsen
+/ Claus Hansen
 
 Bilag 1
 
@@ -18,6 +18,4 @@ Liste over indførte råstoffer, der er omfattet af råstofafgiften
 
 Bilag 3
 
-Satser for affalds- og råstofafgiftslovens § 10, stk. 1 og 2
-
-2010 2011 2012 2013 2014 Farligt affald, der afleveres til deponering på specielle deponeringsanlæg til farligt affald kr.ton/affald - - 160 160 160 Farligt affald, der afleveres til deponering på specielle deponeringsanlæg til farligt affald med henblik på senere forbrænding kr.ton/affald - - 160 160 160
+(Ophævet)
