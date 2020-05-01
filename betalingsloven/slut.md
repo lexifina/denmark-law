@@ -1,5 +1,5 @@
-Miljøministeriet, den 7. juni 2010
+Energistyrelsen, den 24. april 2020
 
-Karen Ellemann
+Martin Hansen
 
-/ Niels Christensen
+/ Marie Thorlacius-Ussing

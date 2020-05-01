@@ -1,4 +1,4 @@
-§ 9 a. Miljøministeren kan bemyndige en under ministeriet oprettet statslig myndighed eller efter forhandling med vedkommende minister andre statslige myndigheder til at udøve de beføjelser, der i denne lov er tillagt ministeren.
+§ 9 a. Klima-, energi- og forsyningsministeren kan bemyndige en under ministeriet oprettet statslig myndighed eller efter forhandling med vedkommende minister andre statslige myndigheder til at udøve de beføjelser, der i denne lov er tillagt ministeren.
 
 Stk. 2. Ministeren kan fastsætte regler om adgangen til at påklage afgørelser, der er truffet i henhold til bemyndigelse efter stk. 1, herunder at afgørelserne ikke skal kunne påklages.
 
