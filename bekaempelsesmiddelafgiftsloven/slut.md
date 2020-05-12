@@ -1,8 +1,8 @@
-Skatteministeriet, den 26. februar 2015
+Skatteministeriet, den 29. april 2020
 
 P.M.V. Jens Brøchner
 
-/ Lene Henningsen
+/ Claus Hansen
 
 Bilag 1
 
@@ -10,7 +10,7 @@ Bilag 1
 
 ## Kapitel 1
 
-## Anvendelsesområde, kompetence og definitioner
+Anvendelsesområde, kompetence og definitioner
 
 Bilaget anvendes ved fastsættelsen af kriterier for beregning af afgiften på plantebeskyttelsesmidler, jf. § 1, stk. 1 og 2.
 
@@ -46,7 +46,7 @@ I dette bilag forstås ved:
 
 ## Kapitel 2
 
-## Sundhedsbelastning
+Sundhedsbelastning
 
 For hvert plantebeskyttelsesmiddel beregnes en sundhedsbelastning på baggrund af de risikosætninger, der angiver de risici for sundhed, der er forbundet med produktet, jf. tabel 2.
 
@@ -78,7 +78,7 @@ ganges den samlede sundhedsbelastning, jf. lovens § 1, stk. 2, nr. 1, med 1,0.
 
 ## Kapitel 3
 
-## Miljøeffektbelastning for plantebeskyttelsesmidler
+Miljøeffektbelastning for plantebeskyttelsesmidler
 
 Dette kapitel omhandler alle plantebeskyttelsesmidler (svampemidler, ukrudtsmidler, insektmidler og vækstreguleringsmidler) undtagen bejdsemidler og midler til behandling af høstede afgrøder samt midler udelukkende til anvendelse i lukkede væksthuse. For hvert aktivstof, der indgår i et plantebeskyttelsesmiddel, beregnes en samlet miljøeffektbelastning på baggrund af den belastning, aktivstoffet har på miljøet, jf. tabel 3.
 
@@ -170,7 +170,7 @@ Miljøeffektafgiften for aktivstoffer i plantebeskyttelsesmidler beregnes hereft
 
 ## Kapitel 4
 
-## Miljøeffektbelastning for bejdsemidler
+Miljøeffektbelastning for bejdsemidler
 
 For hvert aktivstof, der indgår i et bejdsemiddel, beregnes en samlet miljøeffektbelastning på baggrund af den belastning, aktivstoffet har på miljøet, jf. tabel 4.
 
@@ -238,7 +238,7 @@ Miljøeffektafgiften for aktivstoffer i bejdsemidler beregnes herefter i henhold
 
 ## Kapitel 5
 
-## Miljøadfærdsbelastning
+Miljøadfærdsbelastning
 
 For hvert aktivstof, der indgår i et plantebeskyttelsesmiddel, beregnes en samlet miljøadfærdsbelastning på baggrund af de egenskaber, aktivstoffet har, når det fordeles i miljøet, jf. tabel 5.
 
@@ -299,6 +299,10 @@ Tabel 2. Beregning af sundhedsbelastningen Sundhedsmæssige risikosætninger Sun
 R-sætninger er produktets klassificering med risikosætninger. For at beregne belastningen divideres risikopointværdien med en belastningsfaktor på 300.
 
 Tabel 3. Formler til beregning af miljøeffektbelastning Betegnelse Referenceværdi Miljøeffektbelastningsfaktor Miljøindikatorer 1) Korttidseffekt for fugle, LD50 mg pr. kg legemsvægt Fa 49 1 2) korttidseffekt for pattedyr, LD50 mg pr. kg legemsvægt Pa 20 1 3) korttidseffekt for fisk, LC50 mg pr. liter vand FIa 0,00021 30 4) korttidseffekt for dafnier, EC50 mg pr. liter vand Da 0,0003 30 5) korttidseffekt for alger, EC50 mg pr. liter vand Aa 0,000025 3 6) korttidseffekt for vandplanter, EC50 mg pr. liter vand VP 0,00036 3 7) korttidseffekt for regnorme, LC50 mg pr. kg jord Ra 3,4 2 8) korttidseffekt for bier, mikrogram (µg) pr. bi Ba 0,02 100 9) langtidseffekt for fisk, NOEC mg pr. liter vand FIk 0,000115 3 10) langtidseffekt for dafnier, NOEC mg pr. liter vand Dk 0,000115 3 11) langtidseffekt for regnorme, NOEC mg pr. kg jord Rk 0,2 2
+
+Referenceværdierne og miljøeffektbelastningsfaktorerne ses i ovenstående tabel.
+
+Miljøeffektbelastningen for de forskellige indikatorer beregnes ud fra følgende formler:
 
 Referenceværdierne og miljøeffektbelastningsfaktorerne ses i ovenstående tabel.
 
@@ -448,7 +452,7 @@ Det vil sige:
 
 U= [(Uas + UMet 1+ UMet 2…)/10,91] x 20
 
-## Ordforklaring
+Ordforklaring
 
 DT50: Tid, det tager, indtil 50 pct. af et aktivstof er nedbrudt.
 
