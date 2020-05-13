@@ -1,3 +1,9 @@
-Bekendtgørelse af lov om afgift af visse emballager, poser, engangsservice og pvc-folier (emballageafgiftsloven)
+Bekendtgørelse af lov om afgift af visse emballager, poser og engangsservice (emballageafgiftsloven)
 
-Herved bekendtgøres lov om afgift af visse emballager, poser, engangsservice og pvc-folier (emballageafgiftsloven), jf. lovbekendtgørelse nr. 1071 af 15. september 2014, med de ændringer, der følger af § 8 i lov nr. 1532 af 27. december 2014.
+Herved bekendtgøres lov om afgift af visse emballager, poser og engangsservice (emballageafgiftsloven), jf. lovbekendtgørelse nr. 1236 af 4. oktober 2016, med de ændringer, der følger af § 3 i lov nr. 1431 af 5. december 2018, § 1 i lov nr. 1434 af 5. december 2018, § 6, nr. 1-14 og 16-25, i lov nr. 1728 af 27. december 2018, § 11 i lov nr. 1126 af 19. november 2019 og § 1 i lov nr. 1587 af 27. december 2019.
+
+Den ændring, der følger af § 6, nr. 15, i lov nr. 1728 af 27. december 2018 om ændring af tinglysningsafgiftsloven og forskellige andre love og om ophævelse af lov om afgift af antibiotika og vækstfremmere anvendt i foderstoffer (Afgiftssaneringspakke m.v.), er ikke indarbejdet i denne lovbekendtgørelse, da tidspunktet for ikrafttræden af ændringen fastsættes af skatteministeren, jf. § 26, stk. 2, i lov nr. 1728 af 27. december 2018.
+
+Den ændring, der følger af § 2 i lov nr. 61 af 28. januar 2020 om ændring af lov om miljøbeskyttelse og emballageafgiftsloven, er ikke indarbejdet i denne lovbekendtgørelse, da denne ændring træder i kraft den 1. juli 2020, jf. § 3, nr. 1, i lov nr. 61 af 28. januar 2020.
+
+De ændringer, der følger af § 2 i lov nr. 168 af 29. februar 2020 om ændring af lov om afgift af tinglysning af ejer- og panterettigheder m.v. (tinglysningsafgiftsloven), emballageafgiftsloven, lov om afgift af bekæmpelsesmidler og forskellige andre love (Indeksering af de faste tinglysningsafgifter og en række miljøafgifter og genindførelse af registreringsafgiften på luftfartøjer m.v.), er ikke indarbejdet i denne lovbekendtgørelse, da § 2, nr. 1-5, 7-12, 14-18, 20, 21 og 23, træder i kraft den 1. januar 2021, jf. § 10, stk. 2, i lov nr. 168 af 29. februar 2020, og § 2, nr. 6, 13, 19, 22 og 24, træder i kraft den 1. januar 2024, jf. § 10, stk. 6, i lov nr. 168 af 29. februar 2020.
