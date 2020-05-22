@@ -16,7 +16,7 @@
 
 8) landsdækkende foreninger og organisationer, som efter deres formål varetager væsentlige brugerinteresser inden for arealanvendelsen, og som repræsenterer mindst 100 medlemmer.
 
-Stk. 2. Miljø- og fødevareministeren og andre offentlige myndigheder er klageberettigede vedrørende kommunalbestyrelsens afgørelser.
+Stk. 2. Miljøministeren og andre offentlige myndigheder er klageberettigede vedrørende kommunalbestyrelsens afgørelser.
 
 Stk. 3. Ved klage efter stk. 1, nr. 6-8, kan Miljø- og Fødevareklagenævnet kræve, at foreningerne eller organisationerne dokumenterer deres klageberettigelse ved indsendelse af vedtægter eller på anden måde.
 
@@ -32,6 +32,6 @@ Stk. 8. Myndighedens videresendelse af klage til og efterfølgende kommunikation
 
 Stk. 9. Indgives en klage ikke ved anvendelse af digital selvbetjening, skal myndigheden snarest videresende klagen til Miljø- og Fødevareklagenævnet. I sådanne tilfælde finder stk. 5, 4. og 5. pkt., og stk. 6 ikke anvendelse.
 
-Stk. 10. Rettidig klage har opsættende virkning. Dog kan den myndighed, der har truffet afgørelsen, bestemme, at uopsættelige reparations- og afværgeforanstaltninger skal iværksættes uanset rettidig klage. Miljø- og Fødevareklagenævnet kan bestemme, at klage ikke har opsættende virkning.
+Stk. 10. Rettidig klage har opsættende virkning. Dog kan den myndighed, der har truffet afgørelsen, bestemme, at uopsættelige reparations- og afværgeforanstaltninger skal iværksættes uanset rettidig klage. Miljø- og Fødevareklagenævnet kan bestemme, at klage ikke har opsættende virkning. Klage efter § 6, stk. 1 eller 2, har ikke opsættende virkning, når klageadgangen er afskåret efter § 18, stk. 4.
 
 Stk. 11. En afgørelse i henhold til § 6 kan ikke indbringes for domstolene, før afgørelsen har været prøvet i henhold til § 18, stk. 1.
