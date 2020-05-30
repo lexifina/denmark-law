@@ -10,6 +10,6 @@ Stk. 3. En anmodning om etablering af kystbeskyttelse efter stk. 2 indgives skri
 
 Stk. 4. Kommunalbestyrelsen kan selv iværksætte eller pålægge den eller de anmodende parter eller et lag, jf. § 7, at iværksætte forundersøgelser og skitseprojektering af kystbeskyttelsesforanstaltningerne.
 
-Stk. 5. Miljø- og fødevareministeren kan efter kommunalbestyrelsens anmodning bistå som sagkyndig under sagens videre behandling.
+Stk. 5. Miljøministeren kan efter kommunalbestyrelsens anmodning bistå som sagkyndig under sagens videre behandling.
 
-Stk. 6. Miljø- og fødevareministeren kan fastsætte regler om krav til anmodningen efter stk. 2, herunder om, hvilke oplysninger der skal tilvejebringes, og om, at anmodningen skal indgives digitalt, f.eks. om anvendelse af bestemte it-systemer, særlige digitale formater, skemaer og NemID.
+Stk. 6. Miljøministeren kan fastsætte regler om krav til anmodningen efter stk. 2, herunder om, hvilke oplysninger der skal tilvejebringes, og om, at anmodningen skal indgives digitalt, f.eks. om anvendelse af bestemte it-systemer, særlige digitale formater, skemaer og NemID.
