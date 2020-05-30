@@ -1,4 +1,4 @@
-§ 16 a. På søterritoriet må der til andre formål end kystbeskyttelse kun efter tilladelse fra miljø- og fødevareministeren
+§ 16 a. På søterritoriet må der til andre formål end kystbeskyttelse kun efter tilladelse fra miljøministeren
 
 1) foretages inddæmning eller opfyldning,
 
@@ -10,7 +10,7 @@
 
 Stk. 2. Stk. 1 gælder ikke for anlæg m.v. på søterritoriet, der er etableret efter anden lovgivning.
 
-Stk. 3. På strandbredder og andre kyststrækninger, hvor der ikke findes sammenhængende grønsvær eller anden sammenhængende landvegetation, og på arealer, der ligger inden for en afstand af 100 m fra, hvor denne vegetation begynder, må der til andre formål end kystbeskyttelse kun efter tilladelse fra miljø- og fødevareministeren
+Stk. 3. På strandbredder og andre kyststrækninger, hvor der ikke findes sammenhængende grønsvær eller anden sammenhængende landvegetation, og på arealer, der ligger inden for en afstand af 100 m fra, hvor denne vegetation begynder, må der til andre formål end kystbeskyttelse kun efter tilladelse fra miljøministeren
 
 1) etableres faste anlæg, som også etableres på søterritoriet, eller
 

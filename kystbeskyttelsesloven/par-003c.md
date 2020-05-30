@@ -2,4 +2,4 @@
 
 Stk. 2. Der kan stilles vilkår ud over vilkår efter § 3, stk. 6, i forbindelse med meddelelse af tilladelse til forsøgsprojekter, herunder om materialevalg og hensyn til kyststrækningen og til naboer.
 
-Stk. 3. Miljø- og fødevareministeren kan meddele tilladelse efter § 3, stk. 1, til forsøgsprojekter til afprøvning af virkningen af tidligere afprøvede kystbeskyttelsesmetoder, når metoderne har til formål at reducere risikoen for oversvømmelser eller kystnedbrydning fra havet, fjorde eller andre dele af søterritoriet. Forsøgstilladelse kan meddeles til forsøgsprojekter i perioden fra den 1. september 2018 til den 31. december 2021 og kan ikke meddeles til projekter igangsat efter § 1 a.
+Stk. 3. Miljøministeren kan meddele tilladelse efter § 3, stk. 1, til forsøgsprojekter til afprøvning af virkningen af tidligere afprøvede kystbeskyttelsesmetoder, når metoderne har til formål at reducere risikoen for oversvømmelser eller kystnedbrydning fra havet, fjorde eller andre dele af søterritoriet. Forsøgstilladelse kan meddeles til forsøgsprojekter i perioden fra den 1. september 2018 til den 31. december 2021 og kan ikke meddeles til projekter igangsat efter § 1 a.

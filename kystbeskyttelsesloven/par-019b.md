@@ -1,4 +1,4 @@
-§ 19 b. Miljø- og fødevareministeren kan meddele påbud om at
+§ 19 b. Miljøministeren kan meddele påbud om at
 
 1) fjerne en inddæmning, en opfyldning, et anlæg, en indretning, en genstand eller et fartøj, som vedkommende har foretaget, udført eller anbragt i strid med § 16 a, stk. 1,
 

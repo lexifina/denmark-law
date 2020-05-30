@@ -1,4 +1,4 @@
-§ 19 d. Når der ved dom i medfør af retsplejelovens § 997, stk. 3, er meddelt påbud om at efterkomme et i medfør af §§ 19 a-c meddelt påbud, og påbuddet i dommen ikke efterkommes rettidigt, og inddrivelse af tvangsbøder ikke kan antages at føre til, at påbuddet efterkommes, kan miljø- og fødevareministeren foretage det nødvendige til forholdets berigtigelse for den forpligtedes regning.
+§ 19 d. Når der ved dom i medfør af retsplejelovens § 997, stk. 3, er meddelt påbud om at efterkomme et i medfør af §§ 19 a-c meddelt påbud, og påbuddet i dommen ikke efterkommes rettidigt, og inddrivelse af tvangsbøder ikke kan antages at føre til, at påbuddet efterkommes, kan miljøministeren foretage det nødvendige til forholdets berigtigelse for den forpligtedes regning.
 
 Stk. 2. Der er udpantningsret for udgifter, som myndighederne afholder efter stk. 1, § 3, stk. 7, § 16 a, stk. 5, § 19 c, stk. 3, og § 19 e.
 
