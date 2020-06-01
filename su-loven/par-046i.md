@@ -2,7 +2,7 @@
 
 Stk. 2. Følgende afgørelser eller dele af afgørelser truffet af styrelsen kan dog indbringes for Ankenævnet for Statens Uddannelsesstøtteordninger efter reglerne i lov om Ankenævnet for Statens Uddannelsesstøtteordninger:
 
-1) Retten til uddannelsesstøtte efter afsnit I til studieophold i udlandet som led i en dansk videregående uddannelser eller til en hel videregående uddannelse på kandidatniveau i udlandet, jf. § 46 a, stk. 1.
+1) Retten til uddannelsesstøtte efter afsnit I til studieophold i udlandet som led i en dansk videregående uddannelser eller til en videregående uddannelse på kandidatniveau i udlandet, jf. § 46 a, stk. 1.
 
 2) Antallet af klip eller slutlånsrater, der er til rådighed ved uddannelsens start, jf. § 46 d, stk. 3.
 

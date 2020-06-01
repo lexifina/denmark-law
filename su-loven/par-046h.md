@@ -12,4 +12,4 @@ Stk. 4. Uddannelses- og forskningsministeren kan fastsætte regler om
 
 3) ansøgningsfrister og
 
-4) krav til den uddannelsessøgendes dokumentation for optagelse, forhåndsgodkendelse af merit, studieafgiften og den studiemæssige fremdrift i udlandet.
+4) krav til den uddannelsessøgendes dokumentation for optagelse, afsluttet bachelorniveau, forhåndsgodkendelse af merit, studieafgiften og den studiemæssige fremdrift i udlandet.
