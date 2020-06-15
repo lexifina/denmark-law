@@ -7,3 +7,5 @@ Stk. 3. Har en dobbeltbeskatningsoverenskomst for en person, der ikke er udsendt
 Stk. 4. Skatteministeren kan fastsætte regler om henstand med opkrævning af skatten.
 
 Stk. 5. Stk. 1-4 finder tilsvarende anvendelse på dødsboer omfattet af dødsboskattelovens § 1, stk. 2.
+
+Stk. 6. Ved anvendelse af stk. 1 kan personen vælge at se bort fra ophold her i riget fra og med den 9. marts 2020 til det tidspunkt, hvor arbejdet genoptages i det land, hvor arbejdet normalt udføres, dog senest til og med den 30. juni 2020. Valget medfører, at arbejde her i riget, der ikke er nødvendigt arbejde i direkte forbindelse med udlandsopholdet, ikke afbryder udlandsopholdet. Nedsættelsen af den samlede indkomstskat efter stk. 1 og 3 omfatter ikke den del af lønindkomsten, der kan henføres til den angivne periode. Valget skal træffes senest den 1. maj 2021 og kan omgøres til og med den 30. juni 2022.
