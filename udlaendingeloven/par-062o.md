@@ -1,6 +1,6 @@
 § 62 o. Børn og unge-udvalget kan træffe afgørelse om anbringelse på særligt sikrede afdelinger, når betingelserne i stk. 2 er opfyldt.
 
-Stk. 2. En særligt sikret afdeling for børn og unge mellem 12 og 17 år efter § 66, stk. 1, nr. 6, i lov om social service må alene anvendes for uledsagede mindreårige udlændinge, når
+Stk. 2. En særligt sikret afdeling for børn og unge mellem 12 og 17 år efter § 66, stk. 1, nr. 7, i lov om social service må alene anvendes for uledsagede mindreårige udlændinge, når
 
 1) der foreligger et grundlag for anbringelse i en sikret døgninstitution efter § 62 n, stk. 2,
 

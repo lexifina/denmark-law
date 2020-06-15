@@ -1,6 +1,6 @@
-§ 62 n. Børn og unge-udvalget kan træffe afgørelse om anbringelse på sikrede døgninstitutioner, jf. § 66, stk. 1, nr. 6, i lov om social service, når betingelserne i stk. 2 er opfyldt.
+§ 62 n. Børn og unge-udvalget kan træffe afgørelse om anbringelse på sikrede døgninstitutioner, jf. § 66, stk. 1, nr. 7, i lov om social service, når betingelserne i stk. 2 er opfyldt.
 
-Stk. 2. En sikret døgninstitution for børn og unge mellem 12 og 17 år efter § 66, stk. 1, nr. 6, i lov om social service må alene anvendes, hvis der er en åbenbar risiko for, at den uledsagede mindreårige udlændings sundhed eller udvikling lider alvorlig skade på grund af misbrugsproblemer, kriminel adfærd eller andre adfærds- eller tilpasningsproblemer hos udlændingen, jf. § 62 m, stk. 2, nr. 1-3, og når
+Stk. 2. En sikret døgninstitution for børn og unge mellem 12 og 17 år efter § 66, stk. 1, nr. 7, i lov om social service må alene anvendes, hvis der er en åbenbar risiko for, at den uledsagede mindreårige udlændings sundhed eller udvikling lider alvorlig skade på grund af misbrugsproblemer, kriminel adfærd eller andre adfærds- eller tilpasningsproblemer hos udlændingen, jf. § 62 m, stk. 2, nr. 1-3, og når
 
 1) det er absolut påkrævet for at afværge, at udlændingen skader sig selv eller andre, og risikoen for skade ikke på forsvarlig måde kan afværges ved andre, mere lempelige forholdsregler,
 

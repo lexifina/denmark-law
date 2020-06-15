@@ -1,19 +1,39 @@
-§ 46 a. Udlændingestyrelsens afgørelser kan bortset fra afgørelser om afvisning truffet efter regler udstedt i medfør af § 9 g, stk. 1, 2. pkt., samt de afgørelser, der er nævnt i § 9 g, stk. 3, § 9 h, stk. 8, 1. pkt., § 9 h, stk. 9, 1. pkt., jf. stk. 5, 1. pkt., jf. stk. 1, § 11, stk. 10, § 29 c, stk. 1, § 32 a, § 33, § 42 a, stk. 7, 3. pkt., § 42 a, stk. 8, 1.-3. og 5. pkt., og stk. 10, § 42 b, stk. 1, 3 og 7-9, § 42 d, stk. 2, § 46 e, § 52 b, stk. 1 og 3, § 53 a og § 53 b, påklages til udlændinge- og integrationsministeren. Udlændingestyrelsens afgørelser efter § 42 k og § 42 l kan ikke påklages, for så vidt angår boligens geografiske placering. Udlændingestyrelsens afgørelser i sager om klager over anvendelse af reglerne i kapitel 9 a kan ikke påklages til udlændinge- og integrationsministeren.
+§ 46 a. Udlændingestyrelsens og Styrelsen for International Rekruttering og Integrations afgørelser efter denne lov kan påklages til Udlændingenævnet, jf. dog stk. 4 og 6 og § 53 a.
 
-Stk. 2. Styrelsen for International Rekruttering og Integrations afgørelser efter denne lov kan ikke påklages til udlændinge- og integrationsministeren. Bortset fra de afgørelser, der er nævnt i § 9 h, stk. 8, 1. pkt., jf. stk. 1 og 3, og § 33, kan Styrelsen for International Rekruttering og Integrations afgørelser påklages til Udlændingenævnet, jf. § 52 b, stk. 2, 4 og 5.
+Stk. 2. Udlændingenævnet kan endvidere behandle klager over:
 
-Stk. 3. Udlændingestyrelsens beslutning om, at der ikke er særlige grunde til at antage, at en uledsaget udlænding, der inden det fyldte 18. år har indgivet ansøgning om opholdstilladelse i medfør af § 7, ikke bør gennemgå en asylsagsprocedure, jf. § 9 c, stk. 3, nr. 1, kan ikke påklages.
+1) Udlændingestyrelsens og Styrelsen for International Rekruttering og Integrations konstatering af, at en opholdstilladelse meddelt efter § 9, § 9 a, § 9 c, stk. 1, eller §§ 9 d-9 f, 9 i-9 n, 9 p eller 9 q er bortfaldet, jf. §§ 17-18. Det samme gælder klager over afslag på ansøgninger om, at en opholdstilladelse ikke skal anses for bortfaldet, jf. § 17, stk. 3, og § 17 a, stk. 2.
 
-Stk. 4. Udlændingestyrelsens og Styrelsen for International Rekruttering og Integrations beslutninger om betaling af udgifter forbundet med tilvejebringelsen af oplysninger til brug for behandlingen af en sag efter denne lov, jf. § 40, stk. 4, kan ikke påklages.
+2) Styrelsen for International Rekruttering og Integrations konstatering af, at en opholdsret efter § 6 er ophørt.
 
-Stk. 5. Udlændinge- og integrationsministeren kan træffe bestemmelse om og fastsætte nærmere regler for Udlændingestyrelsens behandling af de sager, der er omfattet af stk. 1 og 3 og § 46, stk. 1, og Styrelsen for International Rekruttering og Integrations behandling af de sager, der er omfattet af stk. 2 og § 46, stk. 2.
+3) Politiets afgørelser om afvisning, jf. § 28, stk. 1-4 og stk. 7, 3. pkt.
 
-Stk. 6. Udlændingestyrelsens og de danske diplomatiske og konsulære repræsentationers afgørelser efter § 4 d kan ikke påklages.
+4) Afgørelser, der træffes i 1. instans af en færøsk myndighed i medfør af § 46 i, jf. dog stk. 6, nr. 8.
 
-Stk. 7. En dansk diplomatisk eller konsulær repræsentations afgørelse om afslag på en ansøgning om visum eller om annullering eller inddragelse af et allerede meddelt visum, jf. § 47, stk. 2, kan påklages til Udlændingestyrelsen. Uanset 1. pkt. anses en afgørelse, der er udfærdiget i overensstemmelse med reglerne i § 4 e, stk. 1, for påklaget til Udlændingestyrelsen.
+Stk. 3. Klage til Udlændingenævnet over de afgørelser, der er nævnt i stk. 1 og 2, skal være indgivet, inden 8 uger efter at klageren har fået meddelelse om afgørelsen. Udlændingenævnets formand eller den, formanden bemyndiger dertil, kan i særlige tilfælde beslutte, at en klage skal behandles, selv om klagen er indgivet efter udløb af fristen.
 
-Stk. 8. Udlændinge- og integrationsministeren kan fastsætte nærmere regler om klagefrist for de typer af afgørelser, der er omfattet af stk. 7, 1. pkt.
+Stk. 4. Udlændingestyrelsens afgørelser vedrørende opholdstilladelse efter § 9 c, stk. 2, kan påklages til udlændinge- og integrationsministeren. Det samme gælder Udlændingestyrelsens konstatering af, at en opholdstilladelse meddelt efter § 9 c, stk. 2, er bortfaldet, jf. §§ 17-18, og klager over afslag på ansøgninger om, at en sådan opholdstilladelse ikke skal anses for bortfaldet, jf. § 17, stk. 3, og § 17 a, stk. 2.
 
-Stk. 9. Styrelsen for International Rekruttering og Integrations afgørelse om varsel, jf. § 19, stk. 1, nr. 14, 2. pkt., kan ikke påklages.
+Stk. 5. En dansk diplomatisk eller konsulær repræsentations afgørelse om afslag på en ansøgning om visum eller om annullering eller inddragelse af et allerede meddelt visum, jf. § 47, stk. 2, kan påklages til Udlændingestyrelsen. En afgørelse, der er meddelt ansøgeren alene ved brug af en standardformular, jf. § 4 e, stk. 1, anses for påklaget til Udlændingestyrelsen.
 
-Stk. 10. Udlændingestyrelsens afgørelser i sager om spærring af dansk udstedt rejselegitimation i Det Centrale Pasregister i medfør af § 39, stk. 8 og 9, kan ikke påklages.
+Stk. 6. Følgende afgørelser kan ikke påklages:
+
+1) Udlændingestyrelsens og Styrelsen for International Rekruttering og Integrations afgørelser om afvisning, der er truffet efter regler udstedt i medfør af § 9 g, stk. 1, 2. pkt., og stk. 2, 2. pkt., og afgørelser efter § 9 g, stk. 3, § 9 h, stk. 8, 1. pkt., § 9 h, stk. 9, 1. pkt., jf. stk. 5, 1. pkt., jf. stk. 1, § 9 h, stk. 14, § 11, stk. 10, § 27, § 29 c, stk. 1, § 32 a, § 33, stk. 1, 2 og 5-7, §§ 33 a og 33 b, § 40, stk. 13, § 42 a, stk. 7, 3. pkt., og stk. 8 og 10, § 42 b, stk. 1, 3 og 7-9, § 42 d, stk. 2, § 46 e og § 53 b.
+
+2) Udlændingestyrelsens og Styrelsen for International Rekruttering og Integrations afgørelser om afkortning af varigheden af en opholdstilladelse meddelt efter § 9, § 9 a, § 9 c, stk. 1, eller §§ 9 d-9 f, 9 i-n, 9 p eller 9 q på grund af udløb af udlændingens pas eller rejselegitimation.
+
+3) Udlændingestyrelsens og de danske diplomatiske og konsulære repræsentationers afgørelser efter § 4 d.
+
+4) Udlændingestyrelsens afgørelser om spærring af dansk udstedt rejselegitimation i Det Centrale Pasregister i medfør af § 39, stk. 8 og 9.
+
+5) Udlændingestyrelsens afgørelser efter § 42 k og § 42 l, for så vidt angår boligens geografiske placering.
+
+6) Udlændingestyrelsens afgørelser i sager om klager over anvendelse af reglerne i kapitel 9 a.
+
+7) Styrelsen for International Rekruttering og Integrations afgørelser om varsel, jf. § 19, stk. 1, nr. 14, 2. pkt.
+
+8) Afgørelser om opsættende virkning efter § 33 b, der træffes af en færøsk myndighed i medfør af § 46 i.
+
+Stk. 7. Udlændingestyrelsens beslutning om, at der ikke er særlige grunde til at antage, at en uledsaget udlænding, der inden det fyldte 18. år har indgivet ansøgning om opholdstilladelse i medfør af § 7, ikke bør gennemgå en asylsagsprocedure, jf. § 9 c, stk. 3, nr. 1, kan ikke påklages. Endvidere kan Udlændingestyrelsens og Styrelsen for International Rekruttering og Integrations beslutninger om betaling af udgifter forbundet med tilvejebringelsen af oplysninger til brug for behandlingen af en sag efter denne lov, jf. § 40, stk. 4, ikke påklages.
+
+Stk. 8. Udlændinge- og integrationsministeren kan fastsætte nærmere regler om klagefrist for de typer af afgørelser, der er omfattet af stk. 5, 1. pkt.

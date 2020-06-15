@@ -1,1 +1,1 @@
-§ 33 c. En udrejsefrist efter § 33, stk. 2, kan forlænges, hvis særlige grunde, herunder opholdets varighed, hensynet til skolesøgende børn og anden familiemæssig og social tilknytning, taler herfor. Afgørelsen skal meddeles skriftligt.
+§ 33 c. (Ophævet)

@@ -1,4 +1,4 @@
-§ 62 r. En anbringelse efter § 62 l, jf. §§ 62 m-62 o, skal ophøre, når formålet er nået, når anbringelsen ikke længere opfylder sit formål, eller når den uledsagede udlænding fylder 18 år.
+§ 62 r. En anbringelse efter § 62 l, skal ophøre, når formålet er nået, når anbringelsen ikke længere opfylder sit formål, eller når den uledsagede udlænding fylder 18 år.
 
 Stk. 2. Afgørelse om ophør af en anbringelse efter stk. 1 træffes af kommunalbestyrelsen i den kommune, hvor indkvarteringsstedet, jf. § 42 a, stk. 5, ligger.
 

@@ -1,1 +1,1 @@
-§ 48 b. Anmoder et andet EU-land Danmark om at overtage, tilbagetage eller modtage en udlænding efter reglerne i kapitel 5 a, træffer Udlændingestyrelsen snarest muligt afgørelse vedrørende anmodningen.
+§ 48 b. Anmoder en anden medlemsstat Danmark om at overtage eller tilbagetage en udlænding efter reglerne i kapitel 5 a, tager Udlændingestyrelsen snarest muligt stilling til og besvarer anmodningen.
