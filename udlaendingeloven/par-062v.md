@@ -1,1 +1,1 @@
-§ 62 v. Kommunalbestyrelsen i den kommune, hvor indkvarteringsstedet, jf. § 42 a, stk. 5, ligger, fører et personrettet tilsyn med uledsagede mindreårige udlændinge, der er blevet anbragt uden for indkvarteringsstedet efter § 62 l, jf. §§ 62 m-62 o.
+§ 62 v. Kommunalbestyrelsen i den kommune, hvor indkvarteringsstedet, jf. § 42 a, stk. 5, ligger, fører et personrettet tilsyn med uledsagede mindreårige udlændinge, der er blevet anbragt uden for indkvarteringsstedet efter § 62 l.

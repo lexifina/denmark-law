@@ -1,3 +1,0 @@
-§ 43 c. Udlændinge- og integrationsministeren kan fastsætte nærmere regler om de vilkår, jf. §§ 42 a-42 f, der skal gælde for udlændinge, der har fået endeligt afslag på opholdstilladelse efter § 7, og som samarbejder om udrejse og indgår en kontrakt om opkvalificeringsforløb og frivillig udrejse med Udlændingestyrelsen.
-
-Stk. 2. En aftale om opkvalificeringsforløb kan alene indgås, hvis der som led i en genopbygningsindsats af den pågældende udlændings hjemland efter krig planlægges eller er iværksat større støtteprojekter og der er indledt forhandlinger om tilbagetagelse eller praktiske aftaler om tilbagetagelse eller accept af tvangsmæssig udsendelse eller det grundet situationen i landet ikke er muligt at indlede sådanne forhandlinger.
