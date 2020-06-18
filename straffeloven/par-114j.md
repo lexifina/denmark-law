@@ -1,4 +1,4 @@
-§ 114 j. Den, der har dansk indfødsret eller bopæl i den danske stat, og som uden tilladelse indrejser eller opholder sig i et område som nævnt i stk. 3, straffes med bøde eller fængsel indtil 6 år, jf. dog stk. 2.
+§ 114 j. Den, der har dansk indfødsret eller bopæl i den danske stat, og som uden tilladelse indrejser eller opholder sig i et område som nævnt i stk. 3, straffes med bøde eller fængsel indtil 8 år, jf. dog stk. 2.
 
 Stk. 2. Stk. 1 gælder ikke for indrejse og ophold som led i udøvelse af dansk, udenlandsk eller international offentlig tjeneste eller hverv.
 

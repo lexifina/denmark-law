@@ -1,4 +1,4 @@
-§ 114 h. Med fængsel indtil 6 år straffes den, der under skærpende omstændigheder i strid med lovgivningen om ikke spredning af masseødelæggelsesvåben m.v.
+§ 114 h. Med fængsel indtil 8 år straffes den, der under skærpende omstændigheder i strid med lovgivningen om ikke spredning af masseødelæggelsesvåben m.v.
 
 1) udfører produkter med dobbelt anvendelse uden tilladelse,
 
