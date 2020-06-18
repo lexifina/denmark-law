@@ -1,4 +1,4 @@
-§ 114 b. Med fængsel indtil 10 år straffes den, som
+§ 114 b. Med fængsel indtil 12 år straffes den, som
 
 1) direkte eller indirekte yder økonomisk støtte til,
 
