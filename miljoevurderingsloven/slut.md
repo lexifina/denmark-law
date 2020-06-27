@@ -1,8 +1,8 @@
-Miljø- og Fødevareministeriet, den 25. oktober 2018
+Miljø- og Fødevareministeriet, den 25. juni 2020
 
-P.M.V. Christian Vind
+Christian Vindahl Vind
 
-/ Isabelle Navarro Vinten
+/ Katrine Barnkob Lindgreen
 
 Bilag 1
 
