@@ -51,3 +51,9 @@ Stk. 4. Erstatter afgørelsen i en verserende sag om tilladelse til kystbeskytte
 § 11
 
 (Udelades)
+
+Lov nr. 646 af 19. maj 2020 (Mulighed for at afskære klageadgang i kommunale fællesprojekter om kystbeskyttelse) indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 12
+
+Loven træder i kraft den 22. maj 2020.
