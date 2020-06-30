@@ -1,0 +1,1 @@
+§ 23 a. Uanset § 23 er leveringstidspunktet og tidspunktet for afgiftens indtræden for leveringen af varer fra en afgiftspligtig person, der anses for at have modtaget og leveret varerne i overensstemmelse med § 4 c, stk. 1 og 2, og for leveringen af varer til denne afgiftspligtige det tidspunkt, hvor betalingen er accepteret.
