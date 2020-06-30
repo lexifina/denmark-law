@@ -1,0 +1,1 @@
+§ 14 c. Når en afgiftspligtig person anses for at have modtaget og leveret varerne i overensstemmelse med § 4 c, stk. 1 og 2, henføres forsendelsen eller transporten af varerne til den levering, der er foretaget af denne afgiftspligtige person.
