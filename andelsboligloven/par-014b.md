@@ -6,4 +6,4 @@ Stk. 2. Overdrageren skal herudover særskilt skriftligt give erhververen oplysn
 
 2) i hvilket omfang og for hvilke gældsposter erhververen hæfter over for kreditorer, og hvorledes frigørelse sker ved udtræden eller videresalg af andelen, samt
 
-3) indholdet af §§ 14 a, 14 c, 15, stk. 2, og 16, stk. 1 og 2.
+3) indholdet af § 14 a, § 15, stk. 2, og § 16, stk. 1 og 2.
