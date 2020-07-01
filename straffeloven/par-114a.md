@@ -1,4 +1,4 @@
-§ 114 a. Begås en af de i nr. 1-7 nævnte handlinger, uden at forholdet omfattes af § 114, kan straffen overstige den højeste for lovovertrædelsen foreskrevne straf med indtil det halve. Hvis den højeste straf, der er foreskrevet for den pågældende handling, er mindre end 4 års fængsel, kan straffen dog stige til fængsel indtil 6 år.
+§ 114 a. Begås en af de i nr. 1-8 nævnte handlinger, uden at forholdet omfattes af § 114, kan straffen overstige den højeste for lovovertrædelsen foreskrevne straf indtil det dobbelte. Hvis den højeste straf, der er foreskrevet for den pågældende handling, er mindre end 4 års fængsel, kan straffen dog stige til fængsel indtil 6 år.
 
 1) Overtrædelse af § 180, § 181, stk. 1, § 183, stk. 1 eller 2, § 183 a, § 184, stk. 1, § 192 a, § 193, stk. 1, §§ 237, 244, 245, 246, 250, § 252, stk. 1, § 266, § 288 eller § 291, stk. 1 eller 2, når handlingen er omfattet af artikel 1 i konventionen af 16. december 1970 om bekæmpelse af ulovlig bemægtigelse af luftfartøjer, artikel 1 i konventionen af 23. september 1971 til bekæmpelse af ulovlige handlinger mod den civile luftfarts sikkerhed eller artikel II i protokollen af 24. februar 1988 til bekæmpelse af ulovlige voldshandlinger i lufthavne, der betjener den internationale civile luftfart.
 
@@ -13,3 +13,5 @@
 6) Overtrædelse af § 180, § 181, stk. 1, § 183, stk. 1 eller 2, § 183 a, § 184, stk. 1, § 186, stk. 1, § 192 a, § 193, stk. 1, §§ 237, 244, 245, 246, 250, § 252, stk. 1, § 266 eller § 291, stk. 2, når handlingen er omfattet af artikel 2 i den internationale konvention af 15. december 1997 til bekæmpelse af terrorbombninger.
 
 7) Overtrædelse af § 192 b, § 260 eller § 266, når handlingen er omfattet af artikel 2 i den internationale konvention af 13. april 2005 til bekæmpelse af nuklear terrorisme.
+
+8) Overtrædelse af § 183, stk. 1 eller 2, når der er tale om forvoldelse af sprængning rettet mod en offentlig bygning eller institution.
