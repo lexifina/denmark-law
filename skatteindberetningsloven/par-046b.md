@@ -1,0 +1,1 @@
+§ 46 b. Reagerer told- og skatteforvaltningen ikke på en grænseoverskridende ordning, der er indberettet efter regler udstedt i medfør af § 46 a, eller som told- og skatteforvaltningen har modtaget oplysninger om fra en udenlandsk myndighed, jf. skattekontrollovens § 66, indebærer dette ikke en accept af gyldigheden eller den skattemæssige behandling af denne ordning.
