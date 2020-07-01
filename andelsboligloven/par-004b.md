@@ -1,6 +1,6 @@
 § 4 b. Stk. 2-6 finder anvendelse for foreninger, der har frigjort sig fra tilskudsbestemmelser ved optagelse af et rente- og afdragsfrit lån efter § 3, stk. 2, i lov om frigørelse for visse tilskudsbestemmelser m.v.
 
-Stk. 2. Lån som nævnt i stk. 1 indgår ikke i opgørelsen af foreningens formue efter § 5, stk. 2-5.
+Stk. 2. Lån som nævnt i stk. 1 indgår ikke i opgørelsen af foreningens formue efter § 5, stk. 2-6.
 
 Stk. 3. Ud over de tilgodehavender, der er nævnt i § 6, stk. 10, kan foreningen hos den fraflyttede andelshaver til skade for den, der ved aftale har fået pant eller foretaget udlæg i andelen, fradrage den forholdsmæssige andel af lån som nævnt i stk. 1, jf. dog stk. 4.
 
