@@ -8,6 +8,6 @@ Stk. 4. Er der på udbetalingstidspunktet tinglyst pant, udlæg eller ejendomsfo
 
 Stk. 5. Hvis det konstateres, at en person eller virksomhed har fået for meget i godtgørelse, afkræves den pågældende det skyldige beløb til betaling senest 14 dage efter påkrav. Bestemmelserne i §§ 6-8 i lov om opkrævning af skatter og afgifter m.v. finder tilsvarende anvendelse.
 
-Stk. 6. Sammen med en anmodning om godtgørelse af afgiften efter § 7 b for et køretøj betales et gebyr på 1.950 kr. Gebyret betales af den, der anmoder om godtgørelsen.
+Stk. 6. Sammen med en anmodning om godtgørelse af afgiften efter § 7 b for et køretøj betales et gebyr, som betales af den, der anmoder om godtgørelsen.
 
-Stk. 7. Skatteministeren fastsætter de nærmere regler for gebyret.
+Stk. 7. Skatteministeren fastsætter de nærmere regler for gebyret, herunder beløbets størrelse.
