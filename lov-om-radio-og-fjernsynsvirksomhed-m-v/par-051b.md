@@ -1,0 +1,7 @@
+§ 51 b. For udbydere af videodelingsplatformstjenester, der er omfattet af § 51 a, stk. 1, gælder §§ 3, 4, 6 og 14-16 i lov om tjenester i informationssamfundet, herunder visse aspekter af elektronisk handel.
+
+Stk. 2. Kulturministeren fastsætter regler om, at udbydere af videodelingsplatforme omfattet af § 51 a, stk. 1, skal træffe passende foranstaltninger for at beskytte mindreårige mod skadeligt indhold. I den forbindelse fastsætter kulturministeren regler om, at mindreåriges personoplysninger, som indsamles eller genereres af udbydere af videodelingsplatforme, ikke må behandles med henblik på kommercielle formål.
+
+Stk. 3. Kulturministeren fastsætter regler om, at udbydere af videodelingsplatforme skal træffe passende foranstaltninger for at beskytte offentligheden mod indhold, der tilskynder til vold eller had af nogen af de grunde, der er omhandlet i artikel 21 i EU’s charter om grundlæggende rettigheder, eller indhold, hvis udbredelse udgør en strafbar handling i forbindelse med offentlige opfordringer til at begå terrorhandlinger som omhandlet i § 114, stk. 1, i straffeloven, lovovertrædelser i forbindelse med børnepornografi som omhandlet i § 235, stk. 1, i straffeloven og lovovertrædelser i forbindelse med racisme og fremmedhad som omhandlet i § 266 b i straffeloven.
+
+Stk. 4. Kulturministeren fastsætter regler om identifikation og indhold af reklamer, sponsorering og produktplacering på videodelingsplatformstjenester.
