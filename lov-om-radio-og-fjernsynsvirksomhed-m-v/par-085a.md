@@ -1,6 +1,6 @@
 ## Produktplacering i programmer
 
-§ 85 a. Produktplacering i programmer i fjernsyn og on demand-audiovisuelle medietjenester er ikke tilladt.
+§ 85 a. Visning af programmer i fjernsyn og on demand audiovisuelle medietjenester, som indeholder produktplacering, er ikke tilladt.
 
 Stk. 2. Ved produktplacering forstås i denne lov visning eller omtale af en vare, en tjenesteydelse eller et varemærke som led i et program mod betaling eller anden modydelse.
 
