@@ -1,0 +1,1 @@
+§ 41 a. Miljøministeren og ministeren for fødevarer, landbrug og fiskeri kan fastsætte regler om, at erhvervsmæssige brugere af plantebeskyttelsesmidler skal indberette oplysninger om brugen af plantebeskyttelsesmidlerne.
