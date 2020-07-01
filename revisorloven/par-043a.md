@@ -1,0 +1,3 @@
+§ 43 a. Erhvervsstyrelsen eller en anden offentlig myndighed kan indbringe en klage for Revisornævnet over en revisor, en revisionsvirksomhed eller en udenlandsk revisionsvirksomhed, der er omfattet af § 13 a, for tilsidesættelse af dennes forpligtelser efter hvidvaskloven eller for dennes rådgivning af en kunde i strid med kundens forpligtelser efter hvidvaskloven.
+
+Stk. 2. Har en revisor eller en revisionsvirksomhed tilsidesat en forpligtelse efter hvidvaskloven eller rådgivet en kunde i strid med kundens forpligtelser efter hvidvaskloven, kan Revisornævnet fastsætte en sanktion for den pågældende. Bestemmelsen i § 44 finder tilsvarende anvendelse ved fastsættelsen af en sanktion.
