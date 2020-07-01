@@ -1,0 +1,1 @@
+§ 17 g. I 2021 ydes et tilskud til Furesø Kommune. Tilskuddet udgør 77,3 mio. kr., der reguleres med væksten i det kommunale beskatningsgrundlag for kommunerne i hovedstadsområdet fra 2020 til 2021. Samtlige kommuner i hovedstadsområdet bidrager hertil i forhold til de enkelte kommuners andel af beskatningsgrundlaget i hovedstadsområdet.
