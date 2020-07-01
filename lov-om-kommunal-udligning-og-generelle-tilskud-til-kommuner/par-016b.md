@@ -1,0 +1,3 @@
+§ 16 b. Social- og indenrigsministeren yder et årligt tilskud til kommuner med boligområder med en særlig høj kriminalitet. Tilskudsrammen udgør 90 mio. kr. og reguleres en gang årligt fra og med 2021 med den forventede pris- og lønudvikling for den kommunale sektor.
+
+Stk. 2. Tilskud efter stk. 1 fordeles med 25 mio. kr. til Københavns Kommune, 5 mio. kr. til Høje-Taastrup Kommune, 5 mio. kr. til Helsingør Kommune, 5 mio. kr. til Køge Kommune, 10 mio. kr. til Slagelse Kommune, 15 mio. kr. til Odense Kommune, 5 mio. kr. til Esbjerg Kommune, 5 mio. kr. til Kolding Kommune og 15 mio. kr. til Aarhus Kommune.
