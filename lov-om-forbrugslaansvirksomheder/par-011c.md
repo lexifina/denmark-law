@@ -1,0 +1,1 @@
+§ 11 c. En forbrugslånsvirksomhed skal efter anmodning fra en forbruger ændre en kassekredit eller en revolverende kredit, som ikke skal være fuldstændigt indfriet inden en på forhånd fastlagt dato, til en kreditaftale med afdrag.
