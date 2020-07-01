@@ -2,4 +2,4 @@
 
 Stk. 2. Stk. 1 finder tilsvarende anvendelse under afspilning eller anden forevisning af lyd- eller billedoptagelser, som gengiver forhold, der er rejst sigtelse eller tiltale for under sagen.
 
-Stk. 3. Når en polititjenestemand har udført foranstaltninger som nævnt i § 754 a, lukkes dørene under polititjenestemandens forklaring, når anklagemyndigheden anmoder om det.
+Stk. 3. Når en polititjenestemand eller en ansat i politiet har udført foranstaltninger som nævnt i § 754 a, lukkes dørene under dennes forklaring, når anklagemyndigheden anmoder om det.
