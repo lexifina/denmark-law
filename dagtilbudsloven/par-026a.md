@@ -1,18 +1,18 @@
 § 26 a. Kommunalbestyrelsen skal sikre, at der i løbet af et kalenderår maksimalt optages 30 pct. børn fra udsatte boligområder, jf. listen over udsatte boligområder i § 61 a i lov om almene boliger m.v., i hver daginstitution efter § 19, stk. 2-4, jf. dog stk. 2, 4, 7, 11 og 12. I daginstitutioner efter 1. pkt., der består af flere enheder, jf. § 19, stk. 6, skal kommunalbestyrelsen sikre, at der i løbet af et kalenderår maksimalt optages 30 pct. børn fra udsatte boligområder i hver enhed i daginstitutionen.
 
-Stk. 2. Selvejende og udliciterede daginstitutioner med optagelseskompetence, jf. § 26, stk. 2, skal sikre, at der i løbet af et kalenderår maksimalt optages 30 pct. børn fra udsatte boligområder, jf. listen over udsatte boligområder i § 61 a i lov om almene boliger m.v., i daginstitutionen, jf. dog stk. 4, 7, 11 og 12. I selvejende og udliciterede daginstitutioner med optagelseskompetence, som består af flere enheder, jf. § 19, stk. 6, skal den selvejende eller udliciterede daginstitution sikre, at der i løbet af et kalenderår maksimalt optages 30 pct. børn fra udsatte boligområder i hver enhed i daginstitutionen.
+Stk. 2. Selvejende og udliciterede daginstitutioner med optagelseskompetence, jf. § 26, stk. 2, skal sikre, at der i løbet af et kalenderår maksimalt optages 30 pct. børn fra udsatte boligområder, jf. listen over udsatte boligområder i § 61 a i lov om almene boliger m.v., i daginstitutionen, jf. dog stk. 4, 7 og 11. I selvejende og udliciterede daginstitutioner med optagelseskompetence, som består af flere enheder, jf. § 19, stk. 6, skal den selvejende eller udliciterede daginstitution sikre, at der i løbet af et kalenderår maksimalt optages 30 pct. børn fra udsatte boligområder i hver enhed i daginstitutionen.
 
-Stk. 3. Privatinstitutioner skal sikre, at der i løbet af et kalenderår maksimalt optages 30 pct. børn fra udsatte boligområder, jf. listen over udsatte boligområder i § 61 a i lov om almene boliger m.v., i privatinstitutionen, jf. dog stk. 4, 9, 11 og 12. Privatinstitutioner, som består af flere enheder, jf. § 19, stk. 6, skal sikre, at der i løbet af et kalenderår maksimalt optages 30 pct. børn fra udsatte boligområder i hver enhed i privatinstitutionen.
+Stk. 3. Privatinstitutioner skal sikre, at der i løbet af et kalenderår maksimalt optages 30 pct. børn fra udsatte boligområder, jf. listen over udsatte boligområder i § 61 a i lov om almene boliger m.v., i privatinstitutionen, jf. dog stk. 4, 9 og 11. Privatinstitutioner, som består af flere enheder, jf. § 19, stk. 6, skal sikre, at der i løbet af et kalenderår maksimalt optages 30 pct. børn fra udsatte boligområder i hver enhed i privatinstitutionen.
 
 Stk. 4. Selvejende og udliciterede daginstitutioner samt privatinstitutioner, af hvis vedtægter det fremgår, at institutionen ved optagelse har til formål at tilgodese en eller flere virksomheders medarbejdere, jf. § 27, stk. 2, 2. pkt., og § 27, stk. 4, 2. pkt., er ikke omfattet af stk. 2 og 3.
 
 Stk. 5. Selvejende og udliciterede daginstitutioner med optagelseskompetence, jf. § 26, stk. 2, samt privatinstitutioner skal en gang årligt oplyse kommunalbestyrelsen i institutionskommunen om, hvor stor en andel børn fra udsatte boligområder der er optaget i institutionen i løbet af det seneste kalenderår. I daginstitutioner efter 1. pkt., der består af flere enheder, jf. § 19, stk. 6, skal institutionen oplyse, hvor stor en andel børn fra udsatte boligområder der er optaget i hver enhed i løbet af det seneste kalenderår.
 
-Stk. 6. Kommunalbestyrelsen skal opsige aftalen med en selvejende eller udliciteret daginstitution med optagelseskompetence, jf. § 26, stk. 2, hvis den selvejende eller udliciterede daginstitution i løbet af et kalenderår har optaget mere end 30 pct. børn fra et udsat boligområde i daginstitutionen eller i en enhed heri, hvis institutionen består af flere enheder, jf. § 19, stk. 6, jf. dog stk. 4, 7, 11 og 12.
+Stk. 6. Kommunalbestyrelsen skal opsige aftalen med en selvejende eller udliciteret daginstitution med optagelseskompetence, jf. § 26, stk. 2, hvis den selvejende eller udliciterede daginstitution i løbet af et kalenderår har optaget mere end 30 pct. børn fra et udsat boligområde i daginstitutionen eller i en enhed heri, hvis institutionen består af flere enheder, jf. § 19, stk. 6, jf. dog stk. 4, 7 og 11.
 
 Stk. 7. Kommunalbestyrelsen kan i særlige tilfælde beslutte, at aftalen med en selvejende eller udliciteret daginstitution ikke skal opsiges, jf. stk. 6, hvis den selvejende eller udliciterede daginstitution kan påvise, at overskridelsen af den fastsatte grænse ikke overstiger 5 procentpoint, og at overskridelsen skyldes uforudsete forhold.
 
-Stk. 8. Kommunalbestyrelsen skal tilbagekalde godkendelsen af en privatinstitution, hvis privatinstitutionen i løbet af et kalenderår har optaget mere end 30 pct. børn fra et udsat boligområde i daginstitutionen eller i en enhed heri, hvis institutionen består af flere enheder, jf. § 19, stk. 6, jf. dog stk. 4, 9, 11 og 12.
+Stk. 8. Kommunalbestyrelsen skal tilbagekalde godkendelsen af en privatinstitution, hvis privatinstitutionen i løbet af et kalenderår har optaget mere end 30 pct. børn fra et udsat boligområde i daginstitutionen eller i en enhed heri, hvis institutionen består af flere enheder, jf. § 19, stk. 6, jf. dog stk. 4, 9 og 11.
 
 Stk. 9. Kommunalbestyrelsen kan i særlige tilfælde beslutte, at en godkendelse ikke skal tilbagekaldes efter stk. 8, hvis privatinstitutionen kan påvise, at overskridelsen af den fastsatte grænse ikke overstiger 5 procentpoint, og at overskridelsen skyldes uforudsete forhold.
 
@@ -20,4 +20,12 @@ Stk. 10. Ved opgørelse af nyoptag efter stk. 1-9 skal alene indgå børnenes fo
 
 Stk. 11. Børne- og undervisningsministeren fastsætter regler om maksimal procentsats for årligt nyoptag, når andelen af børn i alderen fra 26 uger og indtil skolestart med bopæl i udsatte boligområder overstiger 20 pct. af den samlede gruppe af børn i kommunen i samme aldersgruppe.
 
-Stk. 12. Børne- og undervisningsministeren fastsætter regler om en dispensationsadgang. Kommunalbestyrelsen skal efter disse regler kunne ansøge Børne- og Undervisningsministeriet om, at daginstitutioner eller enheder i daginstitutioner kan fravige stk. 1-10 og § 23, stk. 4, hvis der foreligger helt særlige forhold.
+Stk. 12. Kommunalbestyrelsen kan i ganske særlige tilfælde for en begrænset periode på maksimalt 1 år ad gangen undtage konkrete daginstitutioner eller enheder i daginstitutioner fra kravet om, at der højst må optages 30 pct. børn fra udsatte boligområder i hver daginstitution eller enhed i en daginstitution i løbet af et kalenderår, jf. stk. 1.
+
+Stk. 13. Hvis kommunalbestyrelsen, jf. stk. 12, beslutter at undtage konkrete daginstitutioner eller enheder i daginstitutioner fra kravet om, at der højst må optages 30 pct. børn fra udsatte boligområder i hver daginstitution eller enhed i en daginstitution i løbet af et kalenderår, skal dette meddeles til Børne- og Undervisningsministeriet.
+
+Stk. 14. Meddelelsen efter stk. 13 skal være skriftlig og som minimum indeholde følgende oplysninger:
+
+1) Angivelse af, hvilke daginstitutioner eller enheder i daginstitutioner der undtages fra kravet i stk. 1.
+
+2) Beskrivelse af de ganske særlige omstændigheder, der begrunder undtagelsen.
