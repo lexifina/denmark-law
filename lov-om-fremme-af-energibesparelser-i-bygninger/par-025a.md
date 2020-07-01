@@ -1,0 +1,3 @@
+§ 25 a. Klima-, energi- og forsyningsministeren kan fastsætte regler om, at kommunikation om forhold, som er omfattet af denne lov, af bestemmelser fastsat i henhold til loven eller af EU-retsakter om forhold omfattet af loven, skal ske digitalt. Ministeren kan herunder udstede regler om anvendelse af et bestemt digitalt system. Ved fastsættelse af regler efter 1. pkt. skal der fastsættes regler om fritagelse for obligatorisk anvendelse for visse personer og virksomheder. Der kan endvidere fastsættes regler om klageadgang, der afviger fra den klageadgang, der i øvrigt gælder på det enkelte område.
+
+Stk. 2. En digital ansøgning anses for at være kommet frem, når den er tilgængelig for myndigheden.
