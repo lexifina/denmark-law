@@ -1,0 +1,3 @@
+§ 76 a. Har en nuværende eller tidligere ejer ikke modtaget et tilbud om kompensation efter § 74, stk. 1, bortfalder ethvert krav på kompensation 3 år efter udløbet af klagefristen efter § 89, stk. 1, 2. pkt., eller stk. 2, 2. pkt.
+
+Stk. 2. Told- og skatteforvaltningen kan tilbagekalde et tilbud om kompensation eller en udbetalt kompensation indtil 3 år efter tidspunktet, hvor krav på kompensation opstår efter § 75, stk. 1, hvis told- og skatteforvaltningen bliver opmærksom på en åbenbar fejl ved kompensationen og kompensationen som følge af fejlen er for høj. Der kan samtidig meddeles et nyt tilbud om kompensation, jf. § 74, og træffes afgørelse om, at tilbagebetalingsordningen ikke kan anvendes, jf. § 64, stk. 2 og 3.
