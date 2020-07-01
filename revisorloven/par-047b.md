@@ -1,3 +1,3 @@
-§ 47 b. Erhvervsstyrelsen kan, hvor det findes hensigtsmæssigt, offentligøre, at en undersøgelse efter § 37 iværksættes eller er blevet iværksat. Erhvervsstyrelsen kan endvidere offentliggøre resultatet af en undersøgelse efter § 40.
+§ 47 b. Erhvervsstyrelsen kan, hvor det findes hensigtsmæssigt, offentliggøre, at en undersøgelse efter § 37 iværksættes eller er blevet iværksat. Erhvervsstyrelsen kan endvidere offentliggøre resultatet af en undersøgelse efter § 40.
 
-Stk. 2. Erhvervsstyrelsen bestemmer, i hvilken form offentliggørelsen efter stk. 1 sker. Offentliggørelsen sker på styrelsens hjemmeside.
+Stk. 2. Erhvervsstyrelsen bestemmer, i hvilken form offentliggørelsen efter stk. 1 sker. Styrelsen kan offentliggøre identiteten på den, som er omfattet af undersøgelsen, medmindre offentliggørelsen af identiteten vil være en alvorlig trussel mod de finansielle markeders stabilitet eller en igangværende strafferetlig efterforskning, eller offentliggørelsen vil forvolde uforholdsmæssig stor skade. Offentliggørelsen sker på styrelsens hjemmeside.

@@ -10,7 +10,7 @@ Stk. 3. Vederlagsrapporten skal, i det omfang det er relevant, omfatte følgende
 
 3) Enhver form for aflønning fra virksomheder, som tilhører den samme koncern, jf. § 5, nr. 19.
 
-4) Antallet af aktier, tildelte eller tilbudte aktieoptioner og de væsentligste betingelser for udnyttelsen af rettighederne, herunder kursen på tildelingstidspunktet, datoen for udnyttelse og enhver ændring heraf.
+4) Antallet af aktier, tildelte eller tilbudte aktieoptioner og de væsentligste betingelser for udnyttelsen af rettighederne, herunder udnyttelseskursen, datoen for udnyttelse og enhver ændring heraf.
 
 5) Oplysninger om brug af muligheden for at tilbagekræve variabel aflønning.
 
