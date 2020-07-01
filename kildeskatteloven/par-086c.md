@@ -1,0 +1,1 @@
+§ 86 C. Told- og skatteforvaltningen kan efter anmodning videregive oplysninger til enhver om, hvorvidt en virksomhed er registreret som indeholdelsespligtig for A-skat m.v. Videregivelse kan ske, når der i anmodningen angives cvr-nummer, SE-nummer, navn eller adresse på en virksomhed. Oplysningerne kan udleveres mundtligt, skriftligt eller elektronisk.
