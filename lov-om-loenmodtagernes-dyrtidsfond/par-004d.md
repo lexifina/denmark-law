@@ -1,15 +1,25 @@
-§ 4 d. Økonomi- og erhvervsministeren fastsætter nærmere regler om outsourcing vedrørende
+§ 4 d. Lønmodtagernes Dyrtidsfond kan outsource en proces, en tjenesteydelse eller en aktivitet, som er underlagt Finanstilsynets tilsyn, og som Lønmodtagernes Dyrtidsfond ellers selv ville udføre, til en leverandør.
 
-1) Lønmodtagernes Dyrtidsfonds ansvar og kontrol med en leverandør, herunder dennes videreoutsourcing,
+Stk. 2. Lønmodtagernes Dyrtidsfond skal sikre, at outsourcing af kritiske eller vigtige operationelle funktioner eller aktiviteter ikke foregår på en måde, der kan
 
-2) Lønmodtagernes Dyrtidsfonds pligt til at underrette Finanstilsynet senest 8 hverdage efter outsourcingkontraktens indgåelse,
+1) medføre en væsentlig forringelse af kvaliteten af ledelsessystemet i Lønmodtagernes Dyrtidsfond,
 
-3) Lønmodtagernes Dyrtidsfonds interne retningslinjer for outsourcing og
+2) medføre en unødig forøgelse af den operationelle risiko,
 
-4) krav, som Lønmodtagernes Dyrtidsfond som minimum skal sikre at leverandøren til enhver tid opfylder, og som skal være aftalt i outsourcingkontrakten.
+3) forringe tilsynsmyndighedernes mulighed for at kontrollere, at Lønmodtagernes Dyrtidsfond overholder sine forpligtelser, eller
 
-Stk. 2. Outsourcing, outsourcingvirksomhed, leverandør og videreoutsourcing forstås på samme måde som i § 5 i lov om finansiel virksomhed med de nødvendige tilpasninger.
+4) være til hinder for, at Lønmodtagernes Dyrtidsfond til enhver tid kan tilbyde de berettigede lønmodtagere en tilfredsstillende service.
 
-Stk. 3. Medlemmerne af bestyrelsen og direktøren skal meddele Finanstilsynet oplysninger om forhold som nævnt i stk. 1 og 2 i forbindelse med deres indtræden i Lønmodtagernes Dyrtidsfonds ledelse og om forhold som nævnt i stk. 2, hvis forholdene efterfølgende ændres.
+Stk. 3. Lønmodtagernes Dyrtidsfond skal underrette Finanstilsynet i forbindelse med indgåelse af aftale om outsourcing af kritiske eller vigtige operationelle funktioner eller aktiviteter. Lønmodtagernes Dyrtidsfond skal endvidere underrette Finanstilsynet om væsentlige forandringer i de funktioner eller aktiviteter, der er nævnt i 1. pkt.
 
-Stk. 4. For leverandører og underleverandører til outsourcingkontrakter, jf. stk. 2, finder § 10 b, stk. 1 og 3, anvendelse.
+Stk. 4. Lønmodtagernes Dyrtidsfond er ansvarlig for samtlige outsourcede funktioner eller aktiviteter.
+
+Stk. 5. Finanstilsynet kan træffe afgørelse om, at Lønmodtagernes Dyrtidsfonds outsourcing skal bringes til ophør inden for en af Finanstilsynet nærmere fastsat frist, hvis outsourcingkontrakten eller dennes parter ikke opfylder reglerne i denne bestemmelse eller regler fastsat i medfør af stk. 6.
+
+Stk. 6. Erhvervsministeren fastsætter nærmere regler om outsourcing vedrørende
+
+1) Lønmodtagernes Dyrtidsfonds ansvar og kontrol med en leverandør, herunder leverandørens videreoutsourcing,
+
+2) Lønmodtagernes Dyrtidsfonds interne retningslinjer for outsourcing og
+
+3) krav, som Lønmodtagernes Dyrtidsfond som minimum skal sikre at leverandører til enhver tid skal opfylde, og som skal være aftalt i outsourcingkontrakten.
