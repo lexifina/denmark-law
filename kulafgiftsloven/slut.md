@@ -1,8 +1,8 @@
-Skatteministeriet, den 3. september 2015
+Skatteministeriet, den 1. juli 2020
 
 P.M.V. Jens Brøchner
 
-/ Lene Skov Henningsen
+/ Claus Hansen
 
 Bilag 1
 
@@ -52,15 +52,11 @@ Bilag 3
 
 Bilag 4
 
-Satser for elpatronordningen i kulafgiftsloven
-
-1. jan. - 31. dec. 2010 1. jan. - 31. dec. 2011 1. jan. - 31. dec. 2012 1. jan. - 31. jan. 2013 1. feb. - 31. dec. 2013 1. jan. - 31. dec. 2014 1. jan. - 31. dec. 2015 Nedsættelse af tilbagebetaling ved efterfølgende nyttiggørelse af vand og varme kr./GJ varme 52,8 53,9 51,6 51,5 61,6 62,7 60,9 Nedsættelse af tilbagebetaling ved efterfølgende nyttiggørelse af vand og varme produceret på virksomhedens eget kraft-varme-værk kr./GJ varme 42,3 44,9 43,0 42,9 51,3 52,3 60,9
+(Ophævet)
 
 Bilag 5
 
-Satser for kulafgiftslovens § 8, stk. 8
-
-1. jan. - 31. dec. 2010 1. jan. - 31. dec. 2011 1. jan. - 31. dec. 2012 1. jan. - 31. jan. 2013 1. feb. - 31. dec. 2013 1. jan. - 31. dec. 2014 Nedsættelse af tilbagebetaling ved efterfølgende nyttiggørelse af vand og varme kr./GJ varme 52,8 53,9 51,6 51,5 61,6 62,7 Nedsættelse af tilbagebetaling ved efterfølgende nyttiggørelse af vand og varme produceret på virksomhedens eget kraft-varme-værk kr./GJ varme 42,3 44,9 43,0 42,9 51,3 52,3
+(Ophævet)
 
 Bilag 6
 
@@ -68,9 +64,7 @@ Bilag 6
 
 Bilag 7
 
-Satser for kulafgiftslovens § 8 b, § 8 c og § 8 d
-
-1. jan. - 31. dec. 2010 1. jan. - 31. dec. 2011 1. jan. - 31. dec. 2012 1. jan. - 31. jan. 2013 1. feb. - 31. dec. 2013 1. jan. - 31. dec. 2014 Nedsættelse af tilbagebetaling ved efterfølgende nyttiggørelse af vand og varme kr./GJ varme 57,3 58,4 59,4 60,5 70,6 71,8 Nedsættelse af tilbagebetaling ved efterfølgende nyttiggørelse af vand og varme produceret på virksomhedens eget kraft-varme-værk kr./GJ varme 45,8 48,6 49,5 50,4 58,8 59,8
+(Ophævet)
 
 Bilag 8
 
