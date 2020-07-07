@@ -1,7 +1,5 @@
-Givet på Amalienborg, den 28. januar 2020
+Landbrugsstyrelsen, den 3. juli 2020
 
-Under Vor Kongelige Hånd og Segl
+Louise Piester
 
-MARGRETHE R.
-
-/ Mogens Jensen
+/ Kristine Riskær

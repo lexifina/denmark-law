@@ -1,5 +1,3 @@
-Lov om planter og plantesundhed m.v.
+Bekendtgørelse af lov om planter og plantesundhed m.v.
 
-VI MARGRETHE DEN ANDEN, af Guds Nåde Danmarks Dronning, gør vitterligt:
-
-Folketinget har vedtaget og Vi ved Vort samtykke stadfæstet følgende lov:
+Herved bekendtgøres lov nr. 58 af 28. januar 2020 om planter og plantesundhed m.v., med de ændringer, der følger af § 2 i lov nr. 809 af 9. juni 2020.
