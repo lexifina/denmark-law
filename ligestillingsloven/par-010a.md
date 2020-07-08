@@ -5,5 +5,3 @@ Stk. 2. Myndigheden eller organisationen kan fravige bestemmelsen i stk. 1, hvis
 Stk. 3. Hvis myndigheder og organisationer ikke udpeger eller indstiller medlemmer i overensstemmelse med stk. 1, kan en enig kommunalbestyrelse eller et enigt regionsråd beslutte, at et udvalg m.v., som er nedsat af kommunalbestyrelsen eller regionsrådet, og hvis sammensætning er reguleret i lovgivningen, kan fungere uden de pågældende medlemmer. Det samme gælder, hvis kommunalbestyrelsen eller regionsrådet ikke kan acceptere en begrundelse i henhold til stk. 2 for at fravige bestemmelsen i stk. 1.
 
 Stk. 4. Stk. 3 omfatter ikke udvalg m.v., som træffer generelle eller konkrete afgørelser.
-
-Kønssammensætning ved besættelse af visse bestyrelsesposter i den statslige forvaltning m.v.
