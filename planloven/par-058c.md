@@ -1,1 +1,1 @@
-§ 58 c. (ophævet)
+§ 58 c. (Ophævet)
