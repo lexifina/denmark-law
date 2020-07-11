@@ -1,7 +1,3 @@
-## Kapitel 2 b
-
-## (Ophævet)
-
 ## Kapitel 2 c
 
 ## Planlægning i hovedstadsområdet
