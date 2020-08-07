@@ -1,1 +1,1 @@
-§ 8 C. En person kan ikke støtte ret på at have haft dansk indfødsret, når den pågældende er frakendt indfødsretten i medfør af § 8 A eller § 8 B. Det gælder dog ikke, i det omfang retsforholdet vedrører tiden før frakendelsen.
+§ 8 C. En person kan ikke støtte ret på at have haft dansk indfødsret, når den pågældende er frakendt eller frataget indfødsretten i medfør af § 8 A eller § 8 B. Det gælder dog ikke, i det omfang retsforholdet vedrører tiden før frakendelsen.
