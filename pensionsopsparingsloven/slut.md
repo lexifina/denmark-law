@@ -1,9 +1,5 @@
-Givet på Christiansborg Slot, den 24. april 1996
+Justitsministeriet, den 17. august 2020
 
-Under Vor Kongelige Hånd og Segl
+Nick Hækkerup
 
-MARGRETHE R.
-
-/Bjørn Westh
-
-Ingen
+/ Helene Bendtsen
