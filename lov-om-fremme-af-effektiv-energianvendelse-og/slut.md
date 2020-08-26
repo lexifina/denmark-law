@@ -1,5 +1,5 @@
-Energistyrelsen, den 23. august 2019
+Energistyrelsen, den 24. august 2020
 
-Stig Uffe Pedersen Vicedirektør
+Stig Uffe Pedersen
 
-/ Hanne Lind Mortensen
+/ Mads Krogh
