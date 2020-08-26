@@ -4,7 +4,7 @@ Lov nr. 345 af 8. april 2014 (Implementering af EU’s energieffektivitetsdirekt
 
 Stk. 1. Loven træder i kraft den 5. juni 2014, jf. dog stk. 2.
 
-Stk. 2-6. (Udelades)
+Stk. 2-7. (Udelades)
 
 Lov nr. 1498 af 23. december 2014 (Erhvervsrettet lempelse af PSO-betaling for elektricitet, afskaffelse af tilskudsordning til ikkekvoteomfattet elproduktion, afskaffelse af PSO-betaling for gas, fravigelse af iblandingsprocent for biobrændstoffer, faktureringsoplysninger m.v. til energiforbrugere, ændring af klageregler m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
 
@@ -26,6 +26,14 @@ Stk. 2. §§ 4 og 5 træder i kraft dagen efter bekendtgørelsen i Lovtidende.
 
 Lov nr. 690 af 8. juni 2018 om Forsyningstilsynet indeholder følgende ikrafttrædelsesbestemmelse:
 
-§ 14. Loven træder i kraft den 1. juli 2018, jf. dog stk. 2.
+§ 14 Loven træder i kraft den 1. juli 2018, jf. dog stk. 2.
 
 Stk. 2-3. (Udelades)
+
+Lov nr. 739 af 30. maj 2020 (Tilskud til energibesparelser og energieffektiviseringer m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 14
+
+Stk. 1. Loven træder i kraft den 1. juli 2020, jf. dog stk. 2.
+
+Stk. 2. Klima-, energi- og forsyningsministeren fastsætter tidspunktet for ikrafttrædelse af § 1, nr. 5 og 7, og § 13, nr. 1. Ministeren kan herunder fastsætte, at bestemmelserne træder i kraft på forskellige tidspunkter.
