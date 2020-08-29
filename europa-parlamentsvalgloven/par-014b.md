@@ -6,4 +6,4 @@ Stk. 3. Afgørelse om optagelse på valglisten af en vælger, der er omfattet af
 
 Stk. 4. Afgørelse om optagelse på valglisten af en vælger, der er omfattet af § 3 b, stk. 1 eller 2, eller § 3 b, stk. 4, jf. stk. 1 eller 2, gælder i 2 år fra afgørelsens dato. Indgiver vælgeren inden udløbet af den periode, der er nævnt i 1. pkt., anmodning om fornyet optagelse på valglisten, forlænges perioden, indtil der er truffet afgørelse. Afgørelse om optagelse på valglisten af en vælger, der er omfattet af § 3 b, stk. 3, gælder i 2 år regnet fra datoen for udrejsen. Afgørelse om optagelse på valglisten af en vælger, der er omfattet af § 3 b, stk. 4, jf. stk. 3, gælder i 2 år regnet fra datoen for udrejsen for den person omfattet af § 3 b, stk. 3, vælgeren har den i § 3 b, stk. 4, nævnte tilknytning til.
 
-Stk. 5. Økonomi- og indenrigsministeren fastsætter nærmere regler om optagelse på listen og om listens udarbejdelse.
+Stk. 5. Social- og indenrigsministeren fastsætter nærmere regler om optagelse på listen og om listens udarbejdelse.
