@@ -16,4 +16,4 @@ Stk. 2. For en andelsboligforening stiftet den 1. juli 2018 eller senere skal be
 
 Stk. 3. Bestyrelsen skal på den årlige generalforsamling fremlægge et skema med centrale nøgleoplysninger om foreningen.
 
-Stk. 4. Erhvervsministeren kan fastsætte nærmere regler om, hvilke centrale nøgleoplysninger, herunder brug af skema, om andelsboligforeningen der efter stk. 3 skal fremlægges på den årlige generalforsamling.
+Stk. 4. Boligministeren kan fastsætte nærmere regler om, hvilke centrale nøgleoplysninger, herunder brug af skema, om andelsboligforeningen der efter stk. 3 skal fremlægges på den årlige generalforsamling.

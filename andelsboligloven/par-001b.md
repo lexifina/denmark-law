@@ -18,4 +18,4 @@ Stk. 5. Har erhververen betalt en del af købesummen, skal sælgeren eller denne
 
 Stk. 6. Stk. 1-5 gælder ikke ved lejerens overtagelse af en udlejningsejendom.
 
-Stk. 7. Erhvervsministeren fastsætter nærmere regler om indholdet af oplysnings- og undersøgelsespligten efter stk. 1.
+Stk. 7. Boligministeren fastsætter nærmere regler om indholdet af oplysnings- og undersøgelsespligten efter stk. 1.
