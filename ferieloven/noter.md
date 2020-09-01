@@ -1,0 +1,1 @@
+1) Loven indeholder bestemmelser, der gennemfører dele af Europa-Parlamentets og Rådets direktiv 2003/88/EF af 4. november 2003 om visse aspekter i forbindelse med tilrettelæggelse af arbejdstiden, EU-Tidende 2003, nr. L 299, side 9.
