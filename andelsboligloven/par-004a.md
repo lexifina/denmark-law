@@ -2,4 +2,4 @@
 
 Stk. 2. Vedrører erklæringen erhververen af en andel, er andelsboligforeningen ikke forpligtet til at afgive erklæringen, før købesummen indbetales til foreningen uden andre betingelser, end at erklæringen afgives, og at provenuet anvendes til at indfri eventuelle foranstående pantehæftelser og udlæg forud for afregning til sælger.
 
-Stk. 3. Erhvervsministeren kan fastsætte nærmere regler om form og indhold af anmodninger og erklæringer efter stk. 1, herunder bestemme, at der skal anvendes en særlig blanket.
+Stk. 3. Boligministeren kan fastsætte nærmere regler om form og indhold af anmodninger og erklæringer efter stk. 1, herunder bestemme, at der skal anvendes en særlig blanket.

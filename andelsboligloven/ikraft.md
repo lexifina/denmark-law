@@ -10,7 +10,7 @@ Stk. 3. § 1, nr. 4, finder anvendelse på årsregnskaber for regnskabsår, der 
 
 Stk. 4. § 6, stk. 1, i lov om andelsboligforeninger og andre boligfællesskaber som affattet ved denne lovs § 1, nr. 5, finder alene anvendelse på aftaler om overdragelse af andelsboliger, der indgås efter andelsboligforeningens godkendelse af årsregnskabet vedrørende det regnskabsår, der begynder den 1. januar 2013 eller senere.
 
-Lov nr. 555 af 29. maj 2018 (Mere robuste andelsboligforeninger) indeholder følgende ikrafttrædelses- og overgangsbestemmelse:
+Lov nr. 555 af 29. maj 2018 (Mere robuste andelsboligforeninger) indeholder følgende ikrafttrædelses- og overgangsbestemmelser:
 
 § 5
 
@@ -27,3 +27,21 @@ Stk. 3. § 3 d som affattet ved denne lovs § 1, nr. 3, har virkning for krav om
 Stk. 4. Ophævelsen af § 16, stk. 3, 2. og 3. pkt., i lov om andelsboligforeninger og andre boligfællesskaber, jf. denne lovs § 1, nr. 9, har virkning for aftaler om overdragelse af en andel i en andelsboligforening, overdragelse af en aktie i et boligaktieselskab eller overdragelse af en anpart i et boliganpartsselskab indgået den 1. juli 2018 eller senere. For aftaler om overdragelse, der er indgået før den 1. juli 2018, finder de hidtil gældende regler anvendelse.
 
 Stk. 5. Regler fastsat i medfør af § 18 a, stk. 3, i lov om midlertidig regulering af boligforholdene, jf. lovbekendtgørelse nr. 810 af 1. juli 2015, forbliver i kraft, indtil de ophæves eller afløses af forskrifter udstedt i medfør af § 18 a, stk. 4.
+
+Lov nr. 818 af 9. juni 2020 (Karensperiode ved erhvervelse m.v. af udlejningsejendomme og lovfæstelse af normalvedtægtens krav om tilslutning på fire femtedele til opløsning af andelsboligforeninger) indeholder følgende ikrafttrædelses- og overgangsbestemmelse:
+
+§ 3
+
+Stk. 1. Loven træder i kraft den 1. juli 2020.
+
+Stk. 2. (Udelades)
+
+Stk. 3. § 7, stk. 2, i lov om andelsboligforeninger og andre boligfællesskaber som affattet ved denne lovs § 2, nr. 1, finder ikke anvendelse på andelsboligforeninger, der før lovforslagets fremsættelse den 22. april 2020 på generalforsamlingen gyldigt har vedtaget et lavere flertalskrav end det i denne lovs § 2, nr. 1, fastsatte krav om en tilslutning på fire femtedele til forslag om salg af fast ejendom eller om opløsning af andelsboligforeningen.
+
+Lov nr. 819 af 9. juni 2020 (Øgede energikrav ved anvendelse af § 5, stk. 2, i lov om midlertidig regulering af boligforholdene og fastfrysning af vurderinger af værdien af andelsboligforeningers ejendomme) indeholder følgende ikrafttrædelses- og overgangsbestemmelse:
+
+§ 3
+
+Stk. 1. Loven træder i kraft den 1. juli 2020.
+
+Stk. 2. (Udelades)
