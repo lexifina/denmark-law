@@ -1,5 +1,3 @@
 Bekendtgørelse af lov om Det Centrale Personregister
 
-Herved bekendtgøres lov om Det Centrale Personregister, jf. lovbekendtgørelse nr. 5 af 9. januar 2013, med de ændringer, der følger af § 10 i lov nr. 494 af 21. maj 2013, § 1 i lov nr. 622 af 12. juni 2013, lov nr. 311 af 29. marts 2014, § 15 i lov nr. 552 af 2. juni 2014, lov nr. 752 af 25. juni 2014, § 3 i lov nr. 1488 af 23. december 2014, lov nr. 545 af 29. april 2015, § 12 i lov nr. 742 af 1. juni 2015, lov nr. 1564 af 13. december 2016 og § 24 i lov nr. 136 af 1. februar 2017.
-
-Den bekendtgjorte lovtekst gælder først fuldt ud fra den 1. juli 2017, jf. § 24 i lov nr. 136 af 1. februar 2017.
+Herved bekendtgøres lov om Det Centrale Personregister, jf. lovbekendtgørelse nr. 646 af 2. juni 2017, med de ændringer, der følger af § 25 i lov nr. 503 af 23. maj 2018, lov nr. 747 af 8. juni 2018, § 39 i lov nr. 1711 af 27. december 2018, § 4 i lov nr. 1722 af 27. december 2018, § 9 i lov nr. 962 af 26. juni 2020 og § 8 i lov nr. 1052 af 30. juni 2020.
