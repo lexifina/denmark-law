@@ -1,8 +1,8 @@
-Økonomi- og Indenrigsministeriet, den 2. juni 2017
+Social- og Indenrigsministeriet, den 3. september 2020
 
-P.M.V. Carsten Grage
+Carsten Grage
 
-/ Katrine McGrath
+/ Birgitte Mikkelsen
 
 Bilag 1
 
@@ -32,7 +32,7 @@ f) Flyttepåbud efter lov om planlægning (sommerhuse).
 
 6) Folkekirkeoplysninger: Oplysning om medlemskab af folkekirken, valgmenighed og tillige folkekirken, folkekirken, men fritaget for kirkeskat under udenlandsophold, fordi der betales kirkeskat til Dansk Kirke i Udlandet eller Dansk Sømandskirke eller ikke er medlem af folkekirken. Tidligere folkekirkeoplysninger bevares i CPR (historisk).
 
-7) Slægtskabsoplysninger: Oplysning om personnummer på mor, far og børn samt angivelse af mor og far i feltet for indehavere af forældremyndigheden over mindreårige.
+7) Slægtskabsoplysninger: Oplysning om personnummer på mor, far og børn, angivelse af mor og far i feltet for indehavere af forældremyndigheden over mindreårige og oplysning om delt bopæl efter § 18 a i forældreansvarsloven.
 
 8) Civilstandsoplysninger: Oplysning om ugift, gift, fraskilt, enke eller enkemand, registreret partner, opløsning af registreret partnerskab, længstlevende partner eller død samt oplysning om personnummer på ægtefælle eller registreret partner og om separation. Tidligere civilstandsoplysninger bevares i CPR (historisk).
 
@@ -42,15 +42,15 @@ f) Flyttepåbud efter lov om planlægning (sommerhuse).
 
 11) Eventuelle stillingsoplysninger: Eventuel stillingsangivelse, som vedkommende tidligere har anmodet om, og som pågældende kan få ændret eller slettet ved henvendelse til bopælskommunen.
 
-12) Eventuelle oplysninger om kommunale forhold: Kommunernes eventuelle oplysning om, at vedkommende lever adskilt fra sin ægtefælle, er et plejebarn, pensionsforhold, tidligere opholdskommune, når denne kommune har den generelle betalingsforpligtelse (lov om kommunal udligning og generelle tilskud til kommuner § 29), medlemskab af valgmenighed, når valgmenigheden og kommunen har aftalt, at kommunen opkræver kirkelige bidrag for valgmenigheden, samt angivelse af fælleshusholdning eller familiekode.
+12) Eventuelle oplysninger om kommunale forhold: Kommunernes eventuelle oplysning om, at vedkommende lever adskilt fra sin ægtefælle, er et plejebarn, pensionsforhold, betalingskommuneforhold, medlemskab af valgmenighed, når valgmenigheden og kommunen har aftalt, at kommunen opkræver kirkelige bidrag for valgmenigheden, samt angivelse af fælleshusholdning eller familiekode.
 
-13) Eventuelle oplysninger om kommunale notater: Økonomi- og Indenrigsministeriets og kommunernes registrering af visse faktiske oplysninger af klar betydning for varetagelse af opgaverne efter folkeregistreringslovgivningen, f.eks. oplysning om, at personens opholdssted ikke kendes, eller om indsættelse eller anbringelse i en af kriminalforsorgens anstalter m.v., jf. § 15, stk. 3.
+13) Eventuelle oplysninger om kommunale notater: Social- og Indenrigsministeriets og kommunernes registrering af visse faktiske oplysninger af klar betydning for varetagelse af opgaverne efter folkeregistreringslovgivningen, f.eks. oplysning om, at personens opholdssted ikke kendes, eller om indsættelse eller anbringelse i en af kriminalforsorgens anstalter m.v., jf. § 15, stk. 3.
 
 14) Eventuelle markeringer af abonnement på personoplysninger: De myndigheder og private, som efter henholdsvis §§ 32 og 38 abonnerer på ajourførte oplysninger fra CPR for en større afgrænset kreds af personer, som er identificeret enkeltvis.
 
 15) Eventuelle valgoplysninger: Optagelse på valgliste til folketingsvalg, folkeafstemninger og valg til Europa-Parlamentet for personer, der er udrejst, samt visse særlige valgoplysninger til brug ved valg til Europa-Parlamentet.
 
-16) Eventuelle værgemålsoplysninger: Oplysning om, at personen er under værgemål med fratagelse af den retlige handleevne, jf. værgemålslovens § 6, samt værgens navn og dennes adresse.
+16) Eventuelle værgemålsoplysninger: Oplysning om, at personen er under værgemål med fratagelse af den retlige handleevne, jf. værgemålslovens § 6, stk. 1, 1. eller 2. pkt., samt værgens navn og dennes adresse.
 
 17) Eventuel kontaktadresse i forbindelse med behandling af et dødsbo: I forbindelse med behandling af et dødsbo kan enten skifteretten, en udpeget bobestyrer eller en efter dødsboskiftelovens § 25, stk. 6, befuldmægtiget arving i et bo udlagt til privat skifte registreres i indtil 3 år som kontaktadresse i CPR.
 
