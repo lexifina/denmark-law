@@ -8,7 +8,7 @@ Stk. 2. Ved små VE-anlæg forstås biomassekedler og -ovne, solcelle- og solvar
 
 Stk. 3. Klima-, energi- og forsyningsministeren kan fastsætte regler om, at en godkendelse efter regler udstedt i medfør af stk. 1 er betinget af, at virksomheden dokumenterer, at relevante medarbejdere i virksomheden opfylder krav om erhvervserfaring og nærmere fastsat uddannelse, at virksomheden har eller etablerer et kvalitetsstyringssystem, og at
 
-1) virksomheden er autoriseret elinstallatørvirksomhed eller autoriseret vvs-installatørvirksomhed eller godkendt kompetent virksomhed efter lov om autorisation af virksomheder på el-, vvs- og kloakinstallationsområdet eller
+1) virksomheden er autoriseret elinstallatør eller autoriseret vvs-installatørvirksomhed eller godkendt kompetent virksomhed efter lov om autorisation af virksomheder på el-, vvs- og kloakinstallationsområdet eller
 
 2) virksomheden dokumenterer et vist niveau af grunduddannelse og efteruddannelse hos relevante medarbejdere i virksomheden.
 
