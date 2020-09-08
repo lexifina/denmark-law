@@ -1,5 +1,5 @@
-Energistyrelsen, den 21. august 2019
+Energistyrelsen, den 3. september 2020
 
 Stig Uffe Pedersen
 
-/ Jakob Karlshøj
+/ Charlotte Kirk Larsen
