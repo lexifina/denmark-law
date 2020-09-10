@@ -1,8 +1,8 @@
 § 11 b. Elektricitet, der leveres til de i toldlovens § 4 nævnte diplomatiske repræsentationer, internationale institutioner m.v. samt de hertil knyttede personer, er fritaget for afgift.
 
-Stk. 2. Afgiften godtgøres af kørestrøm, der anvendes af eltog til personbefordring. § 11 c, stk. 1, finder tilsvarende anvendelse på afgiftsgodtgørelsen. Godtgørelsen er betinget af,
+Stk. 2. Afgiften godtgøres af kørestrøm, der anvendes af elbusser i rutekørsel eller eltog til personbefordring. § 11 c, stk. 1, finder tilsvarende anvendelse på afgiftsgodtgørelsen. Godtgørelsen er betinget af,
 
-1) at det fremgår af købsaftalen, at forbrugeren er en virksomhed, som forbruger kørestrøm, der anvendes af eltog til personbefordring, med angivelse af forbrugerens cvr-, eller SE-nummer, og
+1) at det fremgår af købsaftalen, at forbrugeren er en virksomhed, som forbruger kørestrøm, der anvendes af elbusser i rutekørsel eller eltog til personbefordring, med angivelse af forbrugerens cvr-, eller SE-nummer, og
 
 2) at fakturaer vedrørende de aftalte leverancer af elektricitet indeholder oplysning om forbrugerens aktuelle cvr-, eller SE-nummer.
 
@@ -28,4 +28,4 @@ Stk. 8. Skatteministeren kan fastsætte de nærmere regler for afgiftsfritagelse
 
 Stk. 9. Virksomheder, der benytter sig af godtgørelsesmuligheden i stk. 3-5, skal indberette godtgørelsesbeløbet til told- og skatteforvaltningen, hvis det samlede beløb overstiger 500.000 euro i et kalenderår. Omregningen fra danske kroner til euro skal ske efter den kurs, der gælder den første arbejdsdag i oktober i det år, som indberetningen vedrører, og som offentliggøres i Den Europæiske Unions Tidende. Opgørelsen af tilbagebetalingsbeløbet efter 1. pkt. skal ske pr. juridisk enhed.
 
-Stk. 10. Skatteministeren fastsætter nærmere regler om indberetning og offentliggørelse af oplysninger indberettet efter stk. 9 og oplysninger om virksomhedens navn, virksomhedstype, cvr-nummer, størrelse og dato for tildeling.
+Stk. 10. Skatteministeren fastsætter nærmere regler om indberetning og offentliggørelse af oplysninger indberettet efter stk. 9 og oplysninger om virksomhedens navn, virksomhedstype, cvr-nummer, størrelse og dato for tildeling. Skatteministeren fastsætter derudover nærmere regler om, at virksomheder ikke kan opnå tilbagebetaling efter stk. 3-5, når de ikke opfylder de til enhver tid gældende betingelser for at modtage statsstøtte.
