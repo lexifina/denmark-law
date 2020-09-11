@@ -14,7 +14,7 @@
 
 8) § 25 A, stk. 6, finder ikke anvendelse for indbetalinger til aldersopsparing, aldersforsikring og supplerende engangssum, der sker i indkomståret 2019, jf. § 7, stk. 4, i lov nr. 1577 af 27. december 2019.
 
-9) § 25 A, stk. 6 og 7, har virkning for afgiftspligtige udbetalinger af eller dispositioner over pensionsordninger, der sker den 1. april 2018 eller senere, og for udbetalinger af rateforsikringer, rateopsparinger, pensionsordninger med løbende udbetalinger og indeksordninger, der i overensstemmelse med pensionsvilkårene påbegyndes den 1. april 2018 eller senere, jf. § 8, stk. 9, i lov nr. 1682 af 26. december 2017.
+9) § 25 A, stk. 6 og 7 har virkning for afgiftspligtige udbetalinger af eller dispositioner over pensionsordninger, der sker den 1. april 2018 eller senere, og for udbetalinger af rateforsikringer, rateopsparinger, pensionsordninger med løbende udbetalinger og indeksordninger, der i overensstemmelse med pensionsvilkårene påbegyndes den 1. april 2018 eller senere, jf. § 8, stk. 9, i lov nr. 1682 af 26. december 2017.
 
 10) § 25 A, stk. 7, nr. 16 og 17, har virkning for udbetalinger og dispositioner, der er sket den 1. april 2018 eller senere, jf. jf. § 7, stk. 3, i lov nr. 1577 af 27. december 2019.
 
@@ -22,8 +22,12 @@
 
 12) Har Statsforvaltningen før den 1. januar 2018 modtaget anmodning om separation eller skilsmisse, eller når en ægtefælle før den 1. januar 2018 over for skifteretten har fremsat anmodning om bosondring, finder de hidtil gældende regler, jf. bekendtgørelse nr. 1088 af 3. september 2015 af lov om beskatningen af pensionsordninger m.v. (pensionsbeskatningsloven), anvendelse, jf. § 17, stk. 3, i lov nr. 550 af 30. maj 2017.
 
-13) § 41, stk. 11 og 12, og § 41 A, stk. 4, har virkning for overførsler, der sker den 1. januar 2020 eller senere, jf. § 7, stk. 5, i lov nr. 1577 af 27. december 2019.
+13) Fra og med bekendtgørelse nr. 586 af 24. maj 2013 af lov om beskatningen af pensionsordninger m.v. (pensionsbeskatningsloven) blev § 30, stk. 5, ved en fejl flyttet op som sidste pkt. i stk. 4. Fra og med bekendtgørelse nr. 1088 af 3. september 2015 af lov om beskatningen af pensionsordninger m.v. (pensionsbeskatningsloven) blev § 30, stk. 6-9, ved en fejl rettet til stk. 5-8, fordi der tilsyneladende var et hul i rækkefølgen af stykker. Fejlene er nu rettet.
 
-14) §§ 51 og 51 A er nyaffattet ved lov nr. 396 af 2. maj 2018. Ændringerne har virkning for indskud, der foretages fra og med indkomståret 2018. Indskud foretaget før senest den 31. december 2017 indgår i det samlede indskud på børneopsparingskontoen efter § 51, stk. 3, jf. § 8, stk. 6, i lov nr. 396 af 2. maj 2018.
+14) § 41, stk. 11 og 12, og § 41 A, stk. 4, har virkning for overførsler, der sker den 1. januar 2020 eller senere, jf. § 7, stk. 5, i lov nr. 1577 af 27. december 2019.
 
-15) Fremgår det af aftalegrundlaget for en pensionsaftale, der før den 1. januar 2018 er indgået med en pensionskunde, at der årligt skal indbetales et beløb til aldersforsikring, aldersopsparing og supplerende engangssum, der ikke overstiger beløbsgrænsen som nævnt i pensionsbeskatningslovens § 16, stk. 1, 1. pkt., jf. lovbekendtgørelse nr. 1088 af 3. september 2015, men som overstiger beløbsgrænsen som nævnt i pensionsbeskatningslovens § 16, stk. 1, 1. pkt., som ændret ved lov nr. 1682 af 26. december 2017, finder pensionsbeskatningslovens § 57, stk. 1, nr. 5, ikke anvendelse, hvis der i 2018 eller 2019 indbetales et årligt beløb, der alene overstiger sidstnævnte beløbsgrænse, jf. § 8, stk. 10, i lov nr. 1682 af 26. december 2017.
+15) §§ 51 og 51 A er nyaffattet ved lov nr. 396 af 2. maj 2018. Ændringerne har virkning for indskud, der foretages fra og med indkomståret 2018. Indskud foretaget før senest den 31. december 2017 indgår i det samlede indskud på børneopsparingskontoen efter § 51, stk. 3, jf. § 8, stk. 6, i lov nr. 396 af 2. maj 2018.
+
+16) Ved bekendtgørelse nr. 238 af 12. marts 2020 af lov om beskatningen af pensionsordninger m.v. (pensionsbeskatningsloven) var §§ 51 A, 52 og 53 ved en fejl udgået. Fejlen er nu rettet.
+
+17) Fremgår det af aftalegrundlaget for en pensionsaftale, der før den 1. januar 2018 er indgået med en pensionskunde, at der årligt skal indbetales et beløb til aldersforsikring, aldersopsparing og supplerende engangssum, der ikke overstiger beløbsgrænsen som nævnt i pensionsbeskatningslovens § 16, stk. 1, 1. pkt., jf. lovbekendtgørelse nr. 1088 af 3. september 2015, men som overstiger beløbsgrænsen som nævnt i pensionsbeskatningslovens § 16, stk. 1, 1. pkt., som ændret ved lov nr. 1682 af 26. december 2017, finder pensionsbeskatningslovens § 57, stk. 1, nr. 5, ikke anvendelse, hvis der i 2018 eller 2019 indbetales et årligt beløb, der alene overstiger sidstnævnte beløbsgrænse, jf. § 8, stk. 10, i lov nr. 1682 af 26. december 2017.
