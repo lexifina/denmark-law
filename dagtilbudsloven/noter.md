@@ -6,6 +6,6 @@
 
 4) Lovændringen vedrører § 3 a, stk. 7, 3. pkt., § 4, stk. 1, 1. pkt., afsnit II A, § 80, stk. 1 og 4, 85 a, stk. 1, 3. pkt., § 86, stk. 1 og 3.
 
-5) Lovændringen vedrører § 93, stk. 2, 3. pkt.
+5) Lovændringen vedrører § 26 a, stk. 2, 3, 6, 8, 12, 13 og 14.
 
-6) Ved bekendtgørelse nr. 1332 af 9. december 2019 er det bestemt, at § 7 (dvs. ændringen af § 93, stk. 2, 3. pkt.), træder i kraft den 17. december 2019.
+6) Loven er bekendtgjort i Lovtidende den 30. juni 2020.

@@ -1,5 +1,5 @@
-Børne- og Undervisningsministeriet, den 6. januar 2020
+Børne- og Undervisningsministeriet, den 9. september 2020
 
 P.M.V. Ole Hvilsom Larsen Kontorchef
 
-/ Henrik Thode
+/ Nathalie V. Bull

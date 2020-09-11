@@ -48,12 +48,10 @@ Stk. 2. § 1, nr. 6, træder i kraft den 1. januar 2019.
 
 Stk. 3. § 44 a, stk. 1, nr. 1, i dagtilbudsloven som affattet ved denne lovs § 1, nr. 3, omfatter ikke børn, som ved lovens ikrafttræden er fyldt 9 måneder.
 
-Lov nr. 1110 af 13. november 2019 (Forenkling af regler om forældelseshåndtering, modregning ved transporter, flere skyldnere på samme fordring, eftergivelse og afskrivning, retsafgift m.v.) indeholder følgende ikrafttrædelses- og overgangsbestemmelse:
+Lov nr. 1004 af 26. juni 2020 (Ophævelse af adgang til dispensation fra regler om bedre fordeling i daginstitutioner) indeholder følgende ikrafttrædelses- og overgangsbestemmelse:
 
-§ 9
+§ 2
 
-Stk. 1. (Udelades)
+Stk. 1. Loven træder i kraft dagen efter bekendtgørelsen i Lovtidende.
 
-Stk. 2. Skatteministeren fastsætter tidspunktet for ikrafttrædelse af § 1, nr. 1, 11, 12 og 17-20, og §§ 3-8 og kan herunder fastsætte, at bestemmelserne træder i kraft på forskellige tidspunkter.
-
-Stk. 3-6. (Udelades)
+Stk. 2. Loven finder ikke anvendelse på ansøgninger indgivet før lovens ikrafttræden. For sådanne ansøgninger finder de hidtil gældende regler anvendelse.
