@@ -1,5 +1,5 @@
-Sundheds- og Ældreministeriet, den 15. september 2017
+Sundheds- og Ældreministeriet, den 1. september 2020
 
-Ellen Trane Nørby
+Magnus Heunicke
 
-/ Emilie Norré Sørensen
+/ Anne-Sofie Duelund Lassesen
