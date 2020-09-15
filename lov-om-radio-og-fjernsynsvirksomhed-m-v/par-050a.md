@@ -2,4 +2,4 @@
 
 Stk. 2. Begæring herom skal fremsættes til Radio- og tv-nævnet, inden 4 uger efter at afgørelsen er meddelt den pågældende. Afgørelsen skal indeholde oplysninger om adgangen til at kræve domstolsprøvelse og om fristen herfor. Radio- og tv-nævnet anlægger sag mod den pågældende i den borgerlige retsplejes former.
 
-Stk. 3. Retten kan ved kendelse bestemme, at sagsanlæg har opsættende virkning. Såfremt Radio- og tv-nævnets afgørelse opretholdes ved dom, kan der heri bestemmes, at anke ikke har opsættende virkning.
+Stk. 3. Retten kan ved kendelse bestemme, at sagsanlæg har opsættende virkning. Såfremt Radio- og tv- nævnets afgørelse opretholdes ved dom, kan der heri bestemmes, at anke ikke har opsættende virkning.
