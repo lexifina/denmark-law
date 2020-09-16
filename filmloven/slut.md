@@ -1,7 +1,5 @@
-Givet på Christiansborg Slot, den 12. marts 1997
+Kulturministeriet, den 4. september 2020
 
-Under Vor Kongelige Hånd og Segl
+Joy Mogensen
 
-MARGRETHE R.
-
-/ Ebbe Lundgaard
+/ Katrine Tarp
