@@ -144,26 +144,6 @@ Stk. 7. Domstolsstyrelsen kan fastsætte regler om, at alle verserende borgerlig
 
 (Udelades)
 
-Lov nr. 669 af 8. juni 2017 (Ændring af reglerne for lægdommere) indeholder følgende ikrafttrædelsesbestemmelse:
-
-§ 2
-
-Stk. 1. Loven træder i kraft den 1. juli 2017.
-
-Stk. 2. Retsplejelovens § 70, nr. 1-4, som affattet ved denne lovs § 1 finder ikke anvendelse på personer, som er optaget på en grundliste, der er gældende ved lovens ikrafttræden. For disse personer finder de hidtil gældende regler anvendelse.
-
-Lov nr. 1679 af 26. december 2017 (Begrænsning af pligten til at erstatte sagsomkostninger i straffesager) indeholder følgende ikrafttrædelsesbestemmelse:
-
-§ 2
-
-Loven træder i kraft den 1. januar 2018.
-
-Lov nr. 1680 af 26. december 2017 (Selvstændig bestemmelse om indbrudstyveri) indeholder følgende ikrafttrædelsesbestemmelse:
-
-§ 4
-
-Loven træder i kraft den 1. januar 2018.
-
 Lov nr. 130 af 27. februar 2018 (Begrænsning af surrogatfængsling i eget hjem) indeholder følgende ikrafttrædelsesbestemmelse:
 
 § 2
@@ -171,14 +151,6 @@ Lov nr. 130 af 27. februar 2018 (Begrænsning af surrogatfængsling i eget hjem)
 Stk. 1. Loven træder i kraft den 1. marts 2018.
 
 Stk. 2. Regler fastsat i medfør af retsplejelovens § 765, stk. 5, jf. lovbekendtgørelse nr. 1101 af 22. september 2017, forbliver i kraft, indtil de ophæves eller afløses af forskrifter udstedt i medfør af § 765, stk. 6.
-
-Lov nr. 503 af 23. maj 2018 (Konsekvensændringer som følge af databeskyttelsesloven og databeskyttelsesforordningen samt medieansvarslovens anvendelse på offentligt tilgængelige informationsdatabaser m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
-
-§ 32
-
-Stk. 1. Loven træder i kraft den 25. maj 2018, jf. dog stk. 3.
-
-Stk. 2-3. (Udelades)
 
 Lov nr. 708 af 8. juni 2018 (Forsvarets bistand til politiet og udvidelse af politiklageordningen m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
 
@@ -190,12 +162,6 @@ Stk. 2. (Udelades)
 
 Stk. 3. Reglerne i retsplejelovens kapitel 93 b og 93 c som ændret ved denne lovs § 2 finder tilsvarende anvendelse i forhold til strafbare forhold begået af forsvarspersonale i tjenesten og adfærd udvist af forsvarspersonale i tjenesten, når personalet varetager politimæssige opgaver i henhold til regler udstedt i medfør af § 15 i lov om forsvarets formål, opgaver og organisation m.v.
 
-Lov nr. 709 af 8. juni 2018 (Øget beskyttelse af vidner) indeholder følgende ikrafttrædelsesbestemmelse:
-
-§ 2
-
-Loven træder i kraft den 1. juli 2018.
-
 Lov nr. 710 af 8. juni 2018 (Vidneudelukkelse for patentrådgivere, obligatorisk digital selvbetjening ved ansøgning om fri proces m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
 
 § 2
@@ -203,14 +169,6 @@ Lov nr. 710 af 8. juni 2018 (Vidneudelukkelse for patentrådgivere, obligatorisk
 Stk. 1. Loven træder i kraft den 1. juli 2018, jf. dog stk. 2.
 
 Stk. 2. Justitsministeren fastsætter tidspunktet for ikrafttrædelsen af § 1, nr. 11.
-
-Lov nr. 713 af 8. juni 2018 (Udvidet besøgsafskæring for bandemedlemmer m.v., tvungen opsparing, adgang til AMU-kurser, alkoholkontrol, udvidet adgang til konfiskation m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
-
-§ 5
-
-Stk. 1. Loven træder i kraft den 1. juli 2018, jf. dog stk. 2.
-
-Stk. 2-3. (Udelades)
 
 Lov nr. 714 af 8. juni 2018 (Nedbringelse af sagsbehandlingstiden i straffesager) indeholder følgende ikrafttrædelsesbestemmelse:
 
@@ -226,12 +184,6 @@ Stk. 4. Regler fastsat i medfør af retsplejelovens § 741, stk. 3, jf. lovbeken
 
 Stk. 5. Regler fastsat i medfør af retsplejelovens § 832, stk. 4, jf. lovbekendtgørelse nr. 1101 af 22. september 2017, forbliver i kraft, indtil de ophæves eller afløses af forskrifter udstedt i medfør af retsplejelovens § 832, stk. 5.
 
-Lov nr. 715 af 8. juni 2018 (Retsvirkninger af et foreløbigt forbud mod eller en opløsning af en forening) indeholder følgende ikrafttrædelsesbestemmelse:
-
-§ 3
-
-Loven træder i kraft dagen efter bekendtgørelsen i Lovtidende.
-
 Lov nr. 1540 af 18. december 2018 (Initiativer vedrørende forsvarsadvokater og advokattilsyn) indeholder følgende ikrafttrædelsesbestemmelser:
 
 § 3
@@ -243,20 +195,6 @@ Stk. 2. Lovens § 1, nr. 2-5, 7 og 8, træder i kraft den 1. juli 2019.
 § 4
 
 Lovens § 1, nr. 9 og 10, finder ikke anvendelse for afgørelser fra Advokatnævnet, der vedrører forhold begået inden lovens ikrafttræden.
-
-Lov nr. 1541 af 18. december 2018 (Forhold for indsatte i kriminalforsorgens institutioner, varetægtssurrogat m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
-
-§ 5
-
-Stk. 1. Loven træder i kraft den 1. februar 2019.
-
-Stk. 2. (Udelades)
-
-Lov nr. 1544 af 18. december 2018 (Tilfældighedsfund som bevis i sager om opløsning af en forening) indeholder følgende ikrafttrædelsesbestemmelse:
-
-§ 2
-
-Loven træder i kraft dagen efter bekendtgørelsen i Lovtidende.
 
 Lov nr. 1711 af 27. december 2018 (Ændringer som følge af lov om Familieretshuset og skærpet fokus på beskyttelsen af barnet i sager efter forældreansvarsloven) indeholder følgende ikrafttrædelsesbestemmelser:
 
@@ -296,12 +234,6 @@ Stk. 1. Loven træder i kraft den 1. januar 2019.
 
 Stk. 2. Lovens § 1, § 2, nr. 2 og 3, og § 3 finder ikke anvendelse i forhold til handlinger begået før lovens ikrafttræden.
 
-Lov nr. 329 af 30. marts 2019 (Selvstændig bestemmelse om psykisk vold) indeholder følgende ikrafttrædelsesbestemmelse:
-
-§ 7
-
-Loven træder i kraft den 1. april 2019.
-
 Lov nr. 370 af 9. april 2019 (Sagsomkostninger til statslige myndigheder, indførelse af adgang til at klage over advarsler meddelt dommere og dommerfuldmægtige m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
 
 § 2
@@ -309,12 +241,6 @@ Lov nr. 370 af 9. april 2019 (Sagsomkostninger til statslige myndigheder, indfø
 Stk. 1. Loven træder i kraft den 12. april 2019, jf. dog stk. 2.
 
 Stk. 2. Justitsministeren fastsætter tidspunktet for ikrafttræden af lovens § 1, nr. 13.
-
-Lov nr. 463 af 29. april 2019 (Undersøgelse af arrestanter m.v. i forbindelse med transporter) indeholder følgende ikrafttrædelsesbestemmelse:
-
-§ 3
-
-Loven træder i kraft den 1. maj 2019.
 
 Lov nr. 485 af 30. april 2019 (Udeblivelsesdomme i sager med påstand om udvisning og anvendelse af telekommunikation med billede i retsmøder) indeholder følgende ikrafttrædelsesbestemmelse:
 
@@ -324,16 +250,34 @@ Stk. 1. Loven træder i kraft den 1. maj 2019.
 
 Stk. 2. Lovens § 1, nr. 3 og 4, finder ikke anvendelse i straffesager, hvor der er foretaget forkyndelse af indkaldelse for tiltalte, jf. retsplejelovens § 844, stk. 2, før lovens ikrafttræden. Sådanne straffesager behandles efter de hidtil gældende regler.
 
-Lov nr. 497 af 1. maj 2019 (Kontinuitet og enkle forløb for børn, der adopteres uden samtykke) indeholder følgende ikrafttrædelsesbestemmelse:
+Lov nr. 349 af 2. april 2020 (Skærpet straf for lovovertrædelser med baggrund i eller sammenhæng med covid-19 og blokering af hjemmesider, hvorfra der begås visse lovovertrædelser, som har baggrund i eller sammenhæng med covid-19) indeholder følgende ikrafttrædelsesbestemmelse:
 
-§ 7
+§ 4
 
-Stk. 1. Loven træder i kraft den 1. juli 2019.
+Stk. 1. Loven træder i kraft ved bekendtgørelsen i Lovtidende.
 
-Stk. 2-4. (Udelades)
+Stk. 2. Lovforslaget kan stadfæstes straks efter dets vedtagelse.
 
-Lov nr. 505 af 1. maj 2019 (Ophør af tvungen opfølgning efter udskrivning) indeholder følgende ikrafttrædelsesbestemmelse:
+Stk. 3. Justitsministeren fremsætter senest den 30. november 2020 forslag om revision af de ved denne lov affattede bestemmelser.
 
-§ 3
+Stk. 4. Straffelovens § 81 d som affattet ved denne lovs § 1, nr. 1, retsplejelovens § 791 d, stk. 1, 2. pkt., som affattet ved denne lovs § 2, nr. 1, retsplejelovens § 791 d, stk. 6, som affattet ved denne lovs § 2, nr. 2, og udlændingelovens § 22, nr. 9, som affattet ved denne lovs § 3, nr. 1, ophæves den 1. marts 2021.
 
-Loven træder i kraft den 1. juli 2019.
+Lov nr. 803 af 9. juni 2020 (Politiets overtagelse af tv-overvågning) indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 2
+
+Loven træder i kraft den 1. juli 2020.
+
+Lov nr. 962 af 26. juni 2020 (Afskaffelse af tvungen delt bopæl og opfølgning på etableringen af det nye familieretlige system m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 13
+
+Loven træder i kraft den 1. juli 2020.
+
+Lov nr. 967 af 26. juni 2020 (Styrkelse af politiets muligheder for efterforskning af kriminalitet på internettet) indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 2
+
+Stk. 1. Loven træder i kraft den 1. juli 2020, jf. dog stk. 2.
+
+Stk. 2. § 1, nr. 5, træder i kraft dagen efter bekendtgørelsen i Lovtidende.
