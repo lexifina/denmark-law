@@ -1,4 +1,4 @@
-§ 11 a. Miljø- og fødevareministeren fastsætter regler, hvorved der udpeges
+§ 11 a. Miljøministeren fastsætter regler, hvorved der udpeges
 
 1) områder med drikkevandsinteresser,
 

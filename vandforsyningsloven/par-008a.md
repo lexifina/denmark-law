@@ -1,1 +1,1 @@
-§ 8 a. Miljø- og fødevareministeren kan fastsætte regler om myndigheders pligt til digital registrering af oplysninger af betydning for ejendomshandler og om videregivelse og offentliggørelse af sådanne oplysninger.
+§ 8 a. Miljøministeren kan fastsætte regler om myndigheders pligt til digital registrering af oplysninger af betydning for ejendomshandler og om videregivelse og offentliggørelse af sådanne oplysninger.

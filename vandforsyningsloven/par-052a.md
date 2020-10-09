@@ -34,4 +34,4 @@ Stk. 2. Hel eller delvis overdragelse af en almen vandforsyning må hverken dire
 
 Stk. 3. Stk. 1 og 2 omfatter også prisfastsættelsen for salg af vand mellem almene vandforsyninger.
 
-Stk. 4. Energi-, forsynings- og klimaministeren kan fastsætte nærmere regler om prisfastsættelsen efter stk. 1, herunder regler om forrentning af indskudskapital.
+Stk. 4. Klima-, energi- og forsyningsministeren kan fastsætte nærmere regler om prisfastsættelsen efter stk. 1, herunder regler om forrentning af indskudskapital.
