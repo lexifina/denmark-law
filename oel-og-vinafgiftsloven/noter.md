@@ -1,9 +1,1 @@
 1) Loven indeholder bestemmelser, der gennemfører dele af Rådets direktiv 92/83/EØF af 19. oktober 1992 om harmonisering af punktafgiftsstrukturen for alkohol og alkoholholdige drikkevarer, EF-Tidende 1992, nr. L 316, side 21, Rådets direktiv 92/84/EØF af 19. oktober 1992 om indbyrdes tilnærmelse af punktafgiftssatserne for alkohol og alkoholholdige drikkevarer, EF-Tidende 1992, nr. L 316, side 29, Rådets direktiv 2008/118/EF af 16. december 2008 om den generelle ordning for punktafgifter og om ophævelse af direktiv 1992/12/EØF, EU-Tidende 2009, nr. L 9, side 12, og Rådets direktiv 2013/61/EU af 17. december 2013 om ændring af direktiv 2006/112/EF og 2008/118/EF hvad angår de franske regioner i den yderste periferi og særlig Mayotte, EU-Tidende 2013, nr. L 353, side 5-6.
-
-2) Afgiften fra og med den 1. januar 2013 til den 31. december 2017 findes i § 13, stk. 19-21, i lov nr. 924 af 18. september 2012, som er optrykt før disse noter.
-
-3) Tillægsafgiften fra og med den 1. januar 2013 til den 31. december 2017 findes i § 13, stk. 22, i lov nr. 924 af 18. september 2012, som er optrykt før disse noter.
-
-4) Tillægsafgiften fra og den 1. januar 2013 til den 31. december 2017 findes i § 13, stk. 23 og 24, i lov nr. 924 af 18. september 2012, som er optrykt før disse noter.
-
-5) Tillægsafgiften fra og den 1. januar 2013 til den 31. december 2017 findes i § 13, stk. 25 og 26, i lov nr. 924 af 18. september 2012, som er optrykt før disse noter.
