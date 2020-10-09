@@ -6,6 +6,6 @@ Stk. 3. En indsigelse efter stk. 2 skal være begrundet.
 
 Stk. 4. Såfremt der ikke kan opnås enighed blandt de berørte kommunalbestyrelser om den nærmere udformning af indsatsplanen for kommunen, skal regionsrådet efter anmodning indkalde til mægling.
 
-Stk. 5. Såfremt der ikke kan opnås enighed, skal regionsrådet forelægge sagen for miljø- og fødevareministeren, som herefter træffer afgørelse.
+Stk. 5. Såfremt der ikke kan opnås enighed, skal regionsrådet forelægge sagen for miljøministeren, som herefter træffer afgørelse.
 
 Stk. 6. Når en indsatsplan efter § 13 eller § 13 a er vedtaget, skal de berørte grundejere og andre berørte parter have skriftlig, individuel underretning herom og om indholdet af planen.

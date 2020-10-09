@@ -1,42 +1,6 @@
-Lov nr. 303 af 9. juni 1982 om ændring af lov om vandforsyning m.v. indeholder følgende ikrafttrædelsesbestemmelse:
-
-§ 2
-
-Tidspunktet for lovens ikrafttræden fastsættes af miljøministeren.
-
-Lov nr. 250 af 23. maj 1984 (Håndhævelsesloven) indeholder følgende ikrafttrædelsesbestemmelse:
-
-§ 13
-
-Loven træder i kraft den 1. august 1984.
-
-Lov nr. 255 af 6. juni 1985 om ændring af lov om vandforsyning m.v. indeholder følgende ikrafttrædelses- og overgangsbestemmelser:
-
-§ 2
-
-Loven træder i kraft den 1. juli 1985.
-
-§ 3
-
-Stk. 1. Sager, der inden den 1. juli 1985 er indbragt for miljøministeren efter § 75, stk. 2, i lov nr. 299 af 8. juni 1978 om vandforsyning m.v., færdigbehandles efter de hidtil gældende regler.
-
-Stk. 2. Afgørelser, der er omfattet af vandforsyningslovens § 76, nr. 1 eller 2, som affattet ved denne lovs § 1, nr. 18, og som er meddelt inden den 1. juli 1985, kan påklages til Miljøstyrelsen efter vandforsyningslovens § 75.
-
-Lov nr. 355 af 13. maj 1987 (Region- og sektorplanlægning) indeholder følgende ikrafttrædelsesbestemmelse:
-
-§ 7
-
-Miljøministeren fastsætter bestemmelser om lovens ikrafttræden.
-
-Lov nr. 192 af 29. marts 1989 om ændring af forskellige lovbestemmelser som følge af nedlæggelsen af Hovedstadsrådet indeholder følgende ikrafttrædelsesbestemmelse:
-
-§ 32
-
-Loven træder i kraft den 1. januar 1990.
-
 Lov nr. 358 af 6. juni 1991 om miljøbeskyttelse indeholder følgende ikrafttrædelsesbestemmelse:
 
-§ 112. Loven træder i kraft den 1. januar 1992.
+§ 112. Loven træder i kraft den 1. januar 1992. § 53 træder dog i kraft dagen efter bekendtgørelsen i Lovtidende.
 
 Lov nr. 388 af 20. maj 1992 om ændring af lov om betalingsregler for spildevandsanlæg m.v. indeholder følgende ikrafttrædelsesbestemmelse:
 
@@ -104,7 +68,7 @@ Lov nr. 145 af 25. marts 2002 om ændring af forskellige love som følge af samm
 
 § 78
 
-1. Loven træder i kraft den 1. januar 2003, jf. dog § 79, stk. 1.
+Stk. 1. Loven træder i kraft den 1. januar 2003, jf. dog § 79, stk. 1.
 
 Stk. 2. (Udelades)
 
@@ -138,7 +102,9 @@ Lov nr. 431 af 6. juni 2005 (Forenkling, harmonisering og objektivisering af reg
 
 § 85
 
-Loven træder i kraft den 1. november 2005.
+Stk. 1. Loven træder i kraft den 1. november 2005.
+
+Stk. 2. (Udelades)
 
 Lov nr. 545 af 24. juni 2005 (Konsekvensrettelser som følge af kommunalreformen) indeholder følgende ikrafttrædelsesbestemmelse:
 
@@ -284,7 +250,7 @@ Lov nr. 484 af 11. maj 2010 (Ændringer som følge af lov om Natur- og Miljøkla
 
 § 28
 
-Stk. 1. Loven træder i kraft den 1. januar 2011, jf. dog stk. 2.
+Stk. 1. Miljøministeren fastsætter tidspunktet for lovens ikrafttræden, jf. dog stk. 2.
 
 Stk. 2-4. (Udelades)
 
@@ -364,9 +330,9 @@ Lov nr. 86 af 28. januar 2014 (Obligatorisk digital selvbetjening ved indgivelse
 
 § 26
 
-Stk. 1. (Udelades)
+Stk. 1. Loven træder i kraft den 1. februar 2014, jf. dog stk. 2.
 
-Stk. 2. Miljø- og fødevareministeren fastsætter tidspunktet for ikrafttræden af §§ 1-6, § 7, nr. 2 og 3, og §§ 8-25.
+Stk. 2. Miljøministeren fastsætter tidspunktet for ikrafttræden af §§ 1-6, § 7, nr. 2 og 3, og §§ 8-25.
 
 Stk. 3. Loven finder ikke anvendelse for klager over afgørelser, der træffes, før loven træder i kraft. For sådanne klager finder de hidtidige regler anvendelse.
 
@@ -398,7 +364,7 @@ Lov nr. 1715 af 27. december 2016 om Miljø- og Fødevareklagenævnet indeholder
 
 Stk. 2. (Udelades)
 
-Stk. 3. Erhvervs- og vækstministeren kan efter høring af miljø- og fødevareministeren fastsætte overgangsregler.
+Stk. 3. Erhvervsministeren kan efter høring af miljøministeren fastsætte overgangsregler.
 
 Stk. 4. (Udelades)
 
@@ -421,3 +387,9 @@ Lov nr. 45 af 23. januar 2018 (Målrettet arealbeskyttelse for at beskytte grund
 Stk. 1. Loven træder i kraft den 1. februar 2018, jf. dog stk. 2.
 
 Stk. 2. (Udelades)
+
+Lov nr. 1419 af 17. december 2019 (Obligatorisk kommunal vurdering af boringsnære beskyttelsesområder og pligt til indberetning m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 2
+
+Loven træder i kraft den 1. januar 2020.

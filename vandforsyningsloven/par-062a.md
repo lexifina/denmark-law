@@ -1,1 +1,1 @@
-§ 62 a. Miljø- og fødevareministeren kan fastsætte regler om offentlige myndigheders pligt til at underrette ejere af vandforsyningsanlæg og forbrugere af vand om forhold vedrørende vandet. Ministeren kan fastsætte, at underretningen kan ske udelukkende digitalt.
+§ 62 a. Miljøministeren kan fastsætte regler om offentlige myndigheders pligt til at underrette ejere af vandforsyningsanlæg og forbrugere af vand om forhold vedrørende vandet. Ministeren kan fastsætte, at underretningen kan ske udelukkende digitalt.

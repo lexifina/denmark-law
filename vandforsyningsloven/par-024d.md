@@ -12,6 +12,6 @@
 
 Stk. 2. Kommunalbestyrelsen indberetter senest den 15. januar de i stk. 1 nævnte oplysninger.
 
-Stk. 3. Miljø- og fødevareministeren kan efter forhandling med skatteministeren fastsætte regler om indberetningens nærmere indhold, herunder hvilke oplysninger der skal indberettes. Miljø- og fødevareministeren kan fastsætte regler om, at indberetning skal ske i et særligt format, herunder at indberetning skal ske elektronisk, og om andre tekniske krav og dispensation fra disse.
+Stk. 3. Miljøministeren kan efter forhandling med skatteministeren fastsætte regler om indberetningens nærmere indhold, herunder hvilke oplysninger der skal indberettes. Miljøministeren kan fastsætte regler om, at indberetning skal ske i et særligt format, herunder at indberetning skal ske elektronisk, og om andre tekniske krav og dispensation fra disse.
 
 §§ 24 e-24 j. (Ophævet)
