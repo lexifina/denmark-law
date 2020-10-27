@@ -1,3 +1,3 @@
 § 9 e. Der kan gives opholdstilladelse til en udlænding fra Kosovoprovinsen i Forbundsrepublikken Jugoslavien, der har eller har haft opholdstilladelse i medfør af lov om midlertidig opholdstilladelse til nødstedte fra Kosovoprovinsen i Forbundsrepublikken Jugoslavien (Kosovonødloven), eller som på grundlag af en ansøgning om opholdstilladelse efter § 7 indgivet inden den 30. april 1999 er eller har været registreret som asylansøger efter reglerne i § 48 e, stk. 2, såfremt udlændingen må antages at have behov for midlertidig beskyttelse her i landet.
 
-Stk. 2. Stk. 2. Ansøgning om opholdstilladelse efter stk. 1 kan kun indgives af udlændinge, der opholder sig her i landet.
+Stk. 2. Ansøgning om opholdstilladelse efter stk. 1 kan kun indgives af udlændinge, der opholder sig her i landet.
