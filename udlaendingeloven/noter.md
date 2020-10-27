@@ -94,8 +94,16 @@
 
 48) Lov nr. 469 af 14. maj 2018 blev bekendtgjort i Lovtidende den 15. maj 2018.
 
-49) Lov nr. 741 af 8. juni 2018 blev bekendtgjort i Lovtidende den 9. juni 2018.
+49) De ændringer, der følger af § 1, nr. 6 og 7, i lov nr. 738 af 8. juni 2018, trådte i kraft den 1. juli 2019, jf. bekendtgørelse nr. 614 af 29. maj 2019.
 
-50) Lov nr. 1572 af 18. december 2018 blev bekendtgjort i Lovtidende den 19. december 2018.
+50) Lov nr. 741 af 8. juni 2018 blev bekendtgjort i Lovtidende den 9. juni 2018.
 
-51) Lov nr. 340 af 2. april 2019 blev bekendtgjort i Lovtidende den 3. april 2019.
+51) Lov nr. 1572 af 18. december 2018 blev bekendtgjort i Lovtidende den 19. december 2018.
+
+52) Lov nr. 340 af 2. april 2019 blev bekendtgjort i Lovtidende den 3. april 2019.
+
+53) Lov nr. 1057 af 24. oktober 2019 blev bekendtgjort i Lovtidende den 25. oktober 2019.
+
+54) Lov nr. 349 af 2. april 2020 blev bekendtgjort i Lovtidende den 2. april 2020.
+
+55) Lov nr. 821 af 9. juni 2020 blev bekendtgjort i Lovtidende den 10. juni 2020.

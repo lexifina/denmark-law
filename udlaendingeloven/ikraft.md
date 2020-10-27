@@ -46,7 +46,7 @@ Lov nr. 421 af 1. juni 1994 (Effektivisering af asylsagsbehandlingen, foranstalt
 
 Stk. 1. Loven træder i kraft den 1. juli 1994.
 
-Stk. Stk. 2. Lovens § 1, nr. 14, finder ikke anvendelse på sager, hvor der forinden ikrafttrædelsen er truffet bestemmelse om sagens berammelse i Flygtningenævnet.
+Stk. 2. Lovens § 1, nr. 14, finder ikke anvendelse på sager, hvor der forinden ikrafttrædelsen er truffet bestemmelse om sagens berammelse i Flygtningenævnet.
 
 Lov nr. 382 af 14. juni 1995 (Effektivisering af asylsagsbehandlingen i Flygtningenævnet, rådgivning af asylansøgere, overførsel af opgaven med at afhøre asylansøgere fra politiet til Direktoratet for Udlændinge, optagelse af fingeraftryk af asylansøgere m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
 
@@ -194,7 +194,7 @@ Stk. 1. Loven træder i kraft den 1. juli 2004, jf. dog stk. 2 og 3.
 
 Stk. 2. Udlændingelovens § 9, stk. 1, nr. 2, og stk. 10, 11, 13, 14 og 16, § 9 f og § 19, stk. 1, nr. 8, som indsat eller ændret ved denne lovs § 1, nr. 1, 6, 9, 20 og 30, finder ikke anvendelse for udlændinge, der inden lovens ikrafttræden har indgivet ansøgning om eller er meddelt opholdstilladelse. For sådanne udlændinge finder de hidtil gældende regler anvendelse.
 
-Stk. 3. Udlændingelovens § 19, stk. 5, som indsat ved denne lovs § 1, nr. 31, finder tilsvarende anvendelse for udlændinge, der inden lovens ikrafttræden er meddelt opholdstilladelse efter udlændingelovens § 9 c, stk. 1 som religiøse forkyndere eller missionærer m.v.
+Stk. 3. Udlændingelovens § 19, stk. 5, som indsat ved denne lovs § 1, nr. 31, finder tilsvarende anvendelse for udlændinge, der inden lovens ikrafttræden er meddelt opholdstilladelse efter udlændingelovens § 9 c, stk. 1, som religiøse forkyndere eller missionærer m.v.
 
 Stk. 4. Udlændingelovens § 33, stk. 1, 2. pkt., og stk. 3, 4. pkt., som henholdsvis ændret og indsat ved denne lovs § 1, nr. 36 og 37, finder ikke anvendelse for udlændinge, der inden lovens ikrafttræden er meddelt afslag på en ansøgning om forlængelse af en opholdstilladelse, der er meddelt med henblik på midlertidigt ophold, og som efter fast praksis ikke kan forlænges yderligere. For sådanne udlændinge finder de hidtil gældende regler anvendelse.
 
@@ -322,7 +322,7 @@ Stk. 2. Udlændingelovens §§ 22-24 a, § 26, stk. 2, § 32, stk. 2-4, og § 59
 
 Lov nr. 487 af 12. juni 2009 (Behandling af sager om administrativ udvisning af udlændinge, der må anses for en fare for statens sikkerhed, m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
 
-§ 2
+§ 3
 
 Stk. 1. Loven træder i kraft den 1. juli 2009.
 
@@ -492,7 +492,7 @@ Stk. 3. § 2, nr. 1, finder alene anvendelse for udlændinge, der meddeles ophol
 
 Stk. 4. § 2, nr. 4, finder alene anvendelse, hvis det forhold, der begrunder udvisningen, er begået efter lovens ikrafttræden.
 
-Lov nr. 647 af 12. juni 2013 (Ændret organisering af statsforvaltningerne, regelforenklinger og omkostningsdækkende egenbetaling på det familieretlige område m.v.) indeholder følgende ikrafttrædelsesbestemmelser:
+Lov nr. 647 af 12. juni 2013 (Ændret organisering af statsforvaltningerne, regelforenklinger og omkostningsdækkende egenbetaling på det familieretlige område m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
 
 § 25
 
@@ -502,7 +502,7 @@ Loven træder i kraft den 1. juli 2013.
 
 Stk. 1. Sager ved de fem statsforvaltninger, der ved lovens ikrafttræden ikke er færdigbehandlet, færdigbehandles af statsforvaltningen.
 
-Stk. 2. (Udelades)
+Stk. 2-5. (Udelades)
 
 Lov nr. 1616 af 26. december 2013 (Revision af visumregler, akkrediteringsordning for udenlandske virksomheder, justering af karensregler, afslagskompetence til danske repræsentationer, beregning af kortvarige ophold m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
 
@@ -522,7 +522,7 @@ Stk. 2. § 1, nr. 7, finder ikke anvendelse på ansøgninger om humanitær ophol
 
 Stk. 3. § 3 har virkning fra og med indkomståret 2014.
 
-Lov nr. 1619 af 26. december 2013 (Gennemførelse af den reviderede Dublinforordning af 26. juni 2013) indeholder følgende ikrafttrædelsesbestemmelser:
+Lov nr. 1619 af 26. december 2013 (Gennemførelse af den reviderede Dublinforordning af 26. juni 2013) indeholder følgende ikrafttrædelsesbestemmelse:
 
 § 2
 
@@ -678,7 +678,7 @@ Stk. 1. Loven træder i kraft dagen efter bekendtgørelsen i Lovtidende, jf. dog
 
 Stk. 2. § 1, nr. 12, 16-24, 26, 100-102, 104 og 105, træder i kraft den 1. marts 2016.
 
-Stk. 3 § 1, nr. 10, 27-52 og 59, finder ikke anvendelse for ansøgninger om tidsubegrænset opholdstilladelse, der indgives før lovforslagets fremsættelse. For sådanne ansøgninger finder de hidtil gældende regler anvendelse.
+Stk. 3. § 1, nr. 10, 27-52 og 59, finder ikke anvendelse for ansøgninger om tidsubegrænset opholdstilladelse, der indgives før lovforslagets fremsættelse. For sådanne ansøgninger finder de hidtil gældende regler anvendelse.
 
 Stk. 4. § 1, nr. 12, 16-24, 26, 100-102, 104 og 105, finder ikke anvendelse for ansøgninger, der indgives før lovens ikrafttræden, klager over afslag, der vedrører en ansøgning, som indgives før lovens ikrafttræden, og ansøgninger om genoptagelse, der vedrører en ansøgning, der indgives før lovens ikrafttræden, jf. stk. 2. For sådanne ansøgninger og klager finder de hidtil gældende regler anvendelse.
 
@@ -746,7 +746,7 @@ Loven træder i kraft den 1. marts 2017.
 
 § 3
 
-stk. 1. § 1, nr. 2, finder ikke anvendelse for ansøgninger om opholdstilladelse, der er indgivet før lovens ikrafttræden. For sådanne ansøgninger finder de hidtil gældende regler anvendelse.
+Stk. 1. § 1, nr. 2, finder ikke anvendelse for ansøgninger om opholdstilladelse, der er indgivet før lovens ikrafttræden. For sådanne ansøgninger finder de hidtil gældende regler anvendelse.
 
 Stk. 2. § 1, nr. 7-9, 11, 13 og 16, finder ikke anvendelse for klager, der er indgivet før lovens ikrafttræden. For sådanne klager finder de hidtil gældende regler anvendelse.
 
@@ -1004,11 +1004,11 @@ Lov nr. 173 af 27. februar 2019 (Ændring af reglerne om anbringelse af uledsage
 
 § 4
 
-Stk. 1. Loven træder i kraft den 1. marts 2019, jf. dog stk. 2
+Stk. 1. Loven træder i kraft den 1. marts 2019, jf. dog stk. 2.
 
 Stk. 2. Lovens § 1, nr. 19, 21-23, 25-27, 29, 36, 37 og 39-41, og §§ 2 og 3 træder i kraft den 1. april 2019.
 
-Stk. 3. Loven finder anvendelse på klager over iværksættelse af foranstaltninger efter udlændingelovens § 36, § 37 c, stk. 5, § 37 d, stk. 1 og 3, og § 37 e, stk. 1 og 4, indgivet fra den 1. marts 2019.
+Stk. 3. Loven finder anvendelse på klager over iværksættelse af foranstaltninger efter udlændingelovens § 36, § 37 c, stk. 5, § 37 d, stk. 1 og 3, og § 37 e, stk. 1 og 4, indgivet fra den 1. marts 2019. Loven finder anvendelse på klager over iværksættelse af foranstaltninger efter udlændingelovens § 36, § 37 c, stk. 5, § 37 d, stk. 1 og 3, og § 37 e, stk. 1 og 4, indgivet fra den 1. marts 2019.
 
 Stk. 4. Regler fastsat i medfør af udlændingelovens § 62 n, stk. 3, jf. lovbekendtgørelse nr. 1117 af 2. oktober 2017, forbliver i kraft, indtil de ophæves eller afløses af forskrifter udstedt i medfør af udlændingelovens § 62 n, stk. 4.
 
@@ -1028,9 +1028,7 @@ Stk. 4. Lovens § 1, nr. 24, træder i kraft den 1. juni 2021.
 
 Stk. 5. (Udelades)
 
-Stk. 6. Udlændinge- og Integrationsministeren fastsætter tidspunktet for ikrafttrædelse af lovens § 1, nr. 10, 11, 14 og
-
-21.
+Stk. 6. Udlændinge- og Integrationsministeren fastsætter tidspunktet for ikrafttrædelse af lovens § 1, nr. 10, 11, 14 og 21.
 
 Stk. 7. Udlændingelovens § 7, stk. 1 og 2, og § 8, stk. 1 og 2, som affattet ved denne lovs § 1, nr. 1, har virkning fra den 1. juli 2019 for udlændinge, der allerede er meddelt opholdstilladelse efter udlændingelovens § 7, stk. 1 og 2, og § 8, stk. 1 og 2, på tidspunktet for denne lovs ikrafttræden. Er en opholdstilladelse efter udlændingelovens § 9, stk. 1, eller § 9 c, stk. 1, som er meddelt som følge af en familiemæssig tilknytning til en udlænding, der er meddelt opholdstilladelse efter udlændingelovens § 7 eller § 8, stk. 1 eller 2, forud for lovens ikrafttræden meddelt med mulighed for varigt ophold, anses opholdstilladelsen efter den 1. juli 2019 for at være meddelt med henblik på midlertidigt ophold.
 
@@ -1057,3 +1055,119 @@ Lov nr. 340 af 2. april 2019 (Skærpelser som følge af kriminalisering af psyki
 Stk. 1. Loven træder i kraft dagen efter bekendtgørelsen i Lovtidende.
 
 Stk. 2. § 1, nr. 2 og 3, har virkning for lovovertrædelser begået efter lovens ikrafttræden.
+
+Lov nr. 1057 af 24. oktober 2019 (Fratagelse af statsborgerskab fra fremmedkrigere m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 3
+
+Stk. 1. Loven træder i kraft ved bekendtgørelsen i Lovtidende.
+
+Stk. 2. Loven ophæves den 1. juli 2021, medmindre andet bestemmes inden denne dato.
+
+Stk. 3. Lovforslaget kan stadfæstes straks efter dets vedtagelse.
+
+Stk. 4. Der kan ved fratagelse efter § 8 B, stk. 3, i lov om dansk indfødsret som affattet ved denne lovs § 1, nr. 1, lægges vægt på handlinger, der er begået forud for lovens ikrafttræden, i det omfang handlingerne kunne føre til frakendelse efter indfødsretslovens § 8 B, stk. 1, da handlingerne blev foretaget. Indrejse uden tilladelse i et område omfattet af straffelovens § 114 j, stk. 3, som er foretaget forud for lovens ikrafttræden, kan dog ikke i sig selv begrunde en fratagelse efter § 8 B, stk. 3, i lov om dansk indfødsret som affattet ved denne lovs § 1, nr. 1.
+
+Lov nr. 1439 af 17. december 2019 (Bemyndigelse til at fastsætte integrationsrelevante krav som betingelse for tidsubegrænset opholdstilladelse på Færøerne, hjemmel til delegation af kompetence til at træffe afgørelse i 1. instans om ophold på Færøerne til færøske myndigheder og ændring af klageadgang i sådanne sager til Udlændingenævnet) indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 2
+
+Stk. 1. Loven træder i kraft den 1. januar 2020.
+
+Stk. 2. Lovens § 1, nr. 2-4, finder ikke anvendelse på sager om ophold på Færøerne, som på tidspunktet for udlændinge- og integrationsministerens beslutning om at delegere kompetence til at træffe afgørelse til en færøsk myndighed efter udlændingelovens § 46 i, stk. 1, som affattet ved denne lovs § 1, nr. 2, er under behandling i Udlændingestyrelsen, Styrelsen for International Rekruttering og Integration eller Udlændinge- og Integrationsministeriet. For sådanne sager finder de hidtil gældende regler anvendelse.
+
+Lov nr. 1559 af 27. december 2019 (Indførelse af seniorpension) indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 23
+
+Loven træder i kraft den 1. januar 2020.
+
+Lov nr. 1591 af 27. december 2019 (Afskaffelse af kravet om vellykket integration i sager om familiesammenføring med børn og indførelse af en frist på 3 måneder for indgivelse af ansøgning) indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 2
+
+Stk. 1. Loven træder i kraft den 1. januar 2020.
+
+Stk. 2. Der kan meddeles opholdstilladelse efter udlændingelovens § 9, stk. 1, nr. 2, uanset at fristen i udlændingelovens § 9, stk. 20, som affattet ved denne lovs § 1 er overskredet, i følgende tilfælde, jf. dog stk. 3:
+
+1) I sager, hvor der inden lovens ikrafttræden er indgivet ansøgning om opholdstilladelse efter udlændingelovens § 9, stk. 1, nr. 2, der er under behandling i Udlændingestyrelsen på tidspunktet for lovens ikrafttræden.
+
+2) I sager, hvor barnet i perioden fra den 10. juni 2016 til lovens ikrafttræden er meddelt afslag på opholdstilladelse efter udlændingelovens § 9, stk. 1, nr. 2, af Udlændingestyrelsen under henvisning til at der ikke var grundlag for en vellykket integration her i landet, jf. udlændingelovens § 9, stk. 20, og der indgives ny ansøgning om opholdstilladelse senest 3 måneder fra lovens ikrafttræden.
+
+3) I sager, hvor barnet i perioden fra den 10. juni 2016 til lovens ikrafttræden er meddelt afslag på opholdstilladelse efter udlændingelovens § 9, stk. 1, nr. 2, af Udlændingestyrelsen, under henvisning til at der ikke var grundlag for en vellykket integration her i landet, jf. udlændingelovens § 9, stk. 20, og sagen er verserende i Udlændingenævnet på tidspunktet for lovens ikrafttræden.
+
+4) I sager, hvor den herboende forælder er meddelt opholdstilladelse her i landet eller, hvis den herboende forælder har dansk indfødsret eller statsborgerskab i et af de andre nordiske lande, er tilmeldt folkeregisteret den 10. juni 2016 eller senere og der indgives ansøgning om opholdstilladelse efter udlændingelovens § 9, stk. 1, nr. 2, til et barn over 8 år senest 3 måneder efter lovens ikrafttræden.
+
+5) I sager, hvor den herboende forælder er meddelt opholdstilladelse her i landet eller, hvis den herboende forælder har dansk indfødsret eller statsborgerskab i et af de andre nordiske lande, er tilmeldt folkeregisteret og der indgives ansøgning om opholdstilladelse efter udlændingelovens § 9, stk. 1, nr. 2, til et barn under 8 år senest 3 måneder efter lovens ikrafttræden.
+
+Stk. 3. Opholdstilladelse efter stk. 2, nr. 1-5, kan kun meddeles et barn af en forælder, der er meddelt opholdstilladelse efter udlændingelovens § 7, stk. 3, når betingelsen i udlændingelovens § 9, stk. 1, nr. 2, litra d, er opfyldt. Opholdstilladelse efter stk. 2, nr. 1-5, kan kun meddeles et barn af en forælder, der er meddelt opholdstilladelse med henblik på midlertidigt ophold efter andre bestemmelser end udlændingelovens §§ 7 og 8, når betingelsen i udlændingelovens § 9, stk. 1, nr. 2, litra e, er opfyldt.
+
+Stk. 4. Ved behandlingen af ansøgninger, der indgives efter stk. 2, nr. 2, lægges barnets alder på tidspunktet for ansøgningen, der blev afslået, til grund. Opholdstilladelse kan dog ikke gives, hvis barnet er fyldt 18 år på tidspunktet for den nye ansøgning.
+
+Stk. 5. Ved behandlingen af ansøgninger, der indgives efter stk. 2, nr. 4 eller 5, lægges barnets alder på tidspunktet for lovens ikrafttræden til grund.
+
+Lov nr. 349 af 2. april 2020 (Skærpet straf for lovovertrædelser med baggrund i eller sammenhæng med covid-19 og blokering af hjemmesider, hvorfra der begås visse lovovertrædelser, som har baggrund i eller sammenhæng med covid-19) indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 4
+
+Stk. 1. Loven træder i kraft ved bekendtgørelsen i Lovtidende.
+
+Stk. 2. Lovforslaget kan stadfæstes straks efter dets vedtagelse.
+
+Stk. 3. Justitsministeren fremsætter senest den 30. november 2020 forslag om revision af de ved denne lov affattede bestemmelser.
+
+Stk. 4. Straffelovens § 81 d som affattet ved denne lovs § 1, nr. 1, retsplejelovens § 791 d, stk. 1, 2. pkt., som affattet ved denne lovs § 2, nr. 1, retsplejelovens § 791 d, stk. 6, som affattet ved denne lovs § 2, nr. 2, og udlændingelovens § 22, nr. 9, som affattet ved denne lovs § 3, nr. 1, ophæves den 1. marts 2021.
+
+Lov nr. 821 af 9. juni 2020 (Forenkling af regler, herunder om klageadgangen til Udlændingenævnet og indrejseforbud, indførelse af en bagatelgrænse for tilbagebetaling af gebyr, præcisering af adgangen og ændring af kompetencen til at forlænge en udrejsefrist, opfølgning på evaluering af Danmarks anvendelse af Schengenreglerne om bl.a. tilbagesendelse og præcisering af rækkevidden af indrejseforbud omfattet af udsendelsesdirektivet m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 11
+
+Stk. 1. Loven træder i kraft den 15. juni 2020, jf. dog stk. 2 og 3.
+
+Stk. 2. § 1, nr. 79, § 3, nr. 2-6, og §§ 5 og 6 træder i kraft dagen efter bekendtgørelsen i Lovtidende.
+
+Stk. 3. Udlændinge- og integrationsministeren fastsætter tidspunktet for ikrafttrædelse af § 1, nr. 84.
+
+Stk. 4. § 1, nr. 11, finder anvendelse for udlændinge og virksomheder, som efter lovens ikrafttræden indbetaler gebyr efter udlændingelovens § 9 h, stk. 1, 3, 5 eller 10.
+
+Stk. 5. § 1, nr. 24, finder ikke anvendelse for sager efter udlændingelovens § 25 b, stk. 2, som er indledt af myndighederne før lovens ikrafttræden, eller ved anmodning om genoptagelse af afgørelser efter udlændingelovens § 25 b, stk. 2, som er indgivet før lovens ikrafttræden. For sådanne sager eller afgørelser finder de hidtil gældende regler anvendelse.
+
+Stk. 6. § 1, nr. 40 og 42, finder ikke anvendelse ved ansøgninger, klager eller anmodninger om genoptagelse af afgørelser, som er indgivet før lovens ikrafttræden. For sådanne ansøgninger, klager eller anmodninger finder de hidtil gældende regler anvendelse.
+
+Stk. 7. § 1, nr. 64, 66, 69, 71 og 75, finder ikke anvendelse for klager, der er indgivet før lovens ikrafttræden. For sådanne klager finder de hidtil gældende regler anvendelse.
+
+Stk. 8. Udlændingelovens § 46 a, stk. 3, som affattet ved denne lovs § 1, nr. 64, finder ikke anvendelse for afgørelser, der er truffet af Udlændingestyrelsen eller Styrelsen for International Rekruttering og Integration før lovens ikrafttræden, og som på afgørelsestidspunktet ikke kunne påklages til Udlændingenævnet efter den hidtil gældende bestemmelse i udlændingelovens § 52 b.
+
+Stk. 9. (Udelades)
+
+Stk. 10. Sociale foranstaltninger, der er iværksat på baggrund af principperne i lov om social service forud for lovens ikrafttræden, over for mindreårige udlændinge uden lovligt ophold, som er indkvarteret sammen med en forældremyndighedsindehaver eller andre, der er trådt i forældremyndighedsindehaverens sted, og som er omfattet af udlændingelovens § 42 a, stk. 1 eller 2, opretholdes ved behov herfor, indtil den mindreårige udlænding meddeles opholdstilladelse, udrejser eller udsendes. Meddeles den mindreårige udlænding opholdstilladelse efter lovens ikrafttræden, finder udlændingelovens § 62 y, stk. 2 og 3, som affattet ved denne lovs § 1, nr. 92, anvendelse.
+
+Stk. 11. Sociale foranstaltninger, der er iværksat på baggrund af principperne i lov om social service forud for lovens ikrafttræden, over for en ung udlænding i alderen fra 18 til 22 år uden lovligt ophold, som er omfattet af udlændingelovens § 42 a, stk. 1 eller 2, opretholdes ved behov herfor, indtil den unge udlænding meddeles opholdstilladelse, udrejser eller udsendes. Meddeles den unge udlænding opholdstilladelse, finder udlændingelovens og retssikkerhedslovens almindelige regler om opholds- og handlekommune anvendelse.
+
+Stk. 12. § 62 y, stk. 3, i udlændingeloven som affattet ved denne lovs § 1, nr. 92, finder anvendelse, hvis den mindreårige udlænding, som er indkvarteret sammen med en forældremyndighedsindehaver eller andre, der er trådt i forældremyndighedsindehaverens sted, er meddelt opholdstilladelse efter lovens ikrafttræden.
+
+Stk. 13. Regler fastsat i medfør af udlændingelovens 9 h, stk. 14, jf. lovbekendtgørelse nr. 1022 af 2. oktober 2019, forbliver i kraft, indtil de ophæves eller afløses af forskrifter udstedt i medfør af udlændingelovens § 9 h, stk. 15.
+
+Lov nr. 885 af 16. juni 2020 (Udvidelse af etableringskortordningen for nyuddannede udlændinge) indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 2
+
+Loven træder i kraft den 1. juli 2020.
+
+Lov nr. 1001 af 27. juni 2020 (Ny opholdsordning på baggrund af arbejdsmarkedstilknytning) indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 2
+
+Loven træder i kraft den 1. juli 2020.
+
+Lov nr. 1002 af 27. juni 2020 (Ny positivliste for faglærte) indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 2
+
+Loven træder i kraft den 1. juli 2020.
+
+Lov nr. 1003 af 27. juni 2020 (Skærpet bødestraf for virksomheders brug af illegal arbejdskraft) indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 2
+
+Loven træder i kraft den 1. juli 2020.
