@@ -1,4 +1,4 @@
-## Kapitel 9a
+## Kapitel 9 a
 
 ## Obligatorisk digital kommunikation
 

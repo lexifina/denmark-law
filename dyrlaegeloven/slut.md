@@ -1,5 +1,5 @@
-Fødevarestyrelsen, den 15. januar 2020
+Fødevarestyrelsen, den 26. oktober 2020
 
-Esben Egede Rasmussen
+Nikolaj Veje
 
 / Birthe Schubart Haabegaard
