@@ -132,14 +132,6 @@ Stk. 2. Loven finder anvendelse på domme, der afsiges efter lovens ikrafttræde
 
 Stk. 3. (Udelades)
 
-Lov nr. 753 af 19. juni 2017 (Skærpelse af straffen for utryghedsskabende tiggeri) indeholder følgende ikrafttrædelsesbestemmelse:
-
-§ 2
-
-Stk. 1. Loven træder i kraft dagen efter bekendtgørelsen i Lovtidende, jf. dog stk. 2.
-
-Stk. 2. Straffelovens § 197, stk. 2 og 3, som affattet ved denne lovs § 1, nr. 1, ophæves den 1. juli 2020.
-
 Lov nr. 140 af 28. februar 2018 (Ophævelse af forældelsesfrister for gerningsmandens strafansvar i sager om seksuelt misbrug af børn og for erstatningskrav mod forvaltningsmyndigheder for svigt i sager om overgreb mod børn, forhøjelse af niveauet for tortgodtgørelse for seksuelle krænkelser samt ophævelse af 72-timersreglen i sager om voldtægt, incest og seksuelt misbrug af børn m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
 
 § 5
@@ -158,32 +150,6 @@ Stk. 1. Loven træder i kraft den 1. juli 2018.
 
 Stk. 2. § 1, nr. 1, finder også anvendelse på lovovertrædelser, der er begået før lovens ikrafttræden, medmindre forældelse efter de hidtil gældende regler er indtrådt før lovens ikrafttræden.
 
-Lov nr. 1541 af 18. december 2018 (Forhold for indsatte i kriminalforsorgens institutioner, varetægtssurrogat m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
-
-§ 5
-
-Stk. 1. Loven træder i kraft den 1. februar 2019.
-
-Stk. 2. (Udelades)
-
-Lov nr. 1542 af 18. december 2018 (Kriminalisering af udlandsophold, der bringer et barns sundhed eller udvikling i alvorlig fare) indeholder følgende ikrafttrædelsesbestemmelse:
-
-§ 3
-
-Loven træder i kraft den 1. januar 2019.
-
-Lov nr. 1543 af 18. december 2018 (Skærpet straf-zone og skærpet straf for ledende medarbejderes pligtforsømmelse i offentlig tjeneste eller hverv) indeholder følgende ikrafttrædelsesbestemmelse:
-
-§ 3
-
-Loven træder i kraft den 1. januar 2019.
-
-Lov nr. 1545 af 18. december 2018 (Bødestraf for besiddelse eller anvendelse af en forbudt eller opløst forenings kendetegn) indeholder følgende ikrafttrædelsesbestemmelse:
-
-§ 2
-
-Loven træder i kraft dagen efter bekendtgørelsen i Lovtidende.
-
 Lov nr. 1705 af 27. december 2018 om bekæmpelse af ungdomskriminalitet indeholder følgende ikrafttrædelsesbestemmelse:
 
 § 60. Loven træder i kraft den 1. januar 2019.
@@ -200,54 +166,54 @@ Stk. 1. Loven træder i kraft den 1. januar 2019.
 
 Stk. 2. Lovens § 1, § 2, nr. 2 og 3, og § 3 finder ikke anvendelse i forhold til handlinger begået før lovens ikrafttræden.
 
-Lov nr. 82 af 30. januar 2019 (Skærpelse af straffen for trusler, chikane og hærværk mod personer i offentlig tjeneste eller hverv) indeholder følgende ikrafttrædelsesbestemmelse:
+Lov nr. 1425 af 17. december 2019 (Forbud til dømte seksualforbrydere) indeholder følgende ikrafttrædelsesbestemmelse:
 
 § 2
 
-Loven træder i kraft den 1. februar 2019.
+Stk. 1. Loven træder i kraft den 1. januar 2020.
 
-Lov nr. 171 af 27. februar 2019 (Strafskærpelse for visse overtrædelser af CITES-regler) indeholder følgende ikrafttrædelsesbestemmelse:
+Stk. 2. § 1, nr. 4 og 5, finder anvendelse på forbud givet før lovens ikrafttræden efter de hidtil gældende regler i straffelovens § 236.
 
-§ 3
+Lov nr. 1426 af 17. december 2019 (Begrænsning af brugen af betinget dom med vilkår om samfundstjeneste i sager om vold) indeholder følgende ikrafttrædelsesbestemmelse:
 
-Loven træder i kraft den 1. marts 2019.
+§ 2
 
-Lov nr. 174 af 27. februar 2019 (Videre adgang til inddragelse af opholdstilladelser for flygtninge, loft over antallet af familiesammenføringer, skærpet straf for overtrædelse af indrejseforbud og overtrædelse af opholds-, underretnings- og meldepligt, ydelsesnedsættelse for forsørgere m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
+Stk. 1. Loven træder i kraft den 1. januar 2020.
 
-§ 14
+Stk. 2. Loven finder anvendelse på lovovertrædelser, der er begået efter lovens ikrafttræden.
 
-Stk. 1. Loven træder i kraft den 1. marts 2019, jf. dog stk. 2-6.
+Lov nr. 1563 af 27. december 2019 (Styrkelse af indsatsen mod finansiel kriminalitet og gennemførelse af 4. og 5. hvidvaskdirektiv) indeholder følgende ikrafttrædelsesbestemmelse:
 
-Stk. 2. Lovens § 1, nr. 23, og § 8, nr. 3, træder i kraft den 1. juni 2019.
+§ 18
 
-Stk. 3-11. (Udelades)
+Stk. 1. Loven træder i kraft den 10. januar 2020.
 
-Lov nr. 269 af 26. marts 2019 (Ulovlig påvirkningsvirksomhed) indeholder følgende ikrafttrædelsesbestemmelse:
+Stk. 2-3. (Udelades)
+
+Lov nr. 349 af 2. april 2020 (Skærpet straf for lovovertrædelser med baggrund i eller sammenhæng med covid-19 og blokering af hjemmesider, hvorfra der begås visse lovovertrædelser, som har baggrund i eller sammenhæng med covid-19) indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 4
+
+Stk. 1. Loven træder i kraft ved bekendtgørelsen i Lovtidende.
+
+Stk. 2-3. (Udelades)
+
+Stk. 4. Straffelovens § 81 d som affattet ved denne lovs § 1, nr. 1, retsplejelovens § 791 d, stk. 1, 2. pkt., som affattet ved denne lovs § 2, nr. 1, retsplejelovens § 791 d, stk. 6, som affattet ved denne lovs § 2, nr. 2, og udlændingelovens § 22, nr. 9, som affattet ved denne lovs § 3, nr. 1, ophæves den 1. marts 2021.
+
+Lov nr. 882 af 16. juni 2020 (Opholds- og kontaktforbud for terrordømte) indeholder følgende ikrafttrædelsesbestemmelse:
 
 § 2
 
 Loven træder i kraft dagen efter bekendtgørelsen i Lovtidende.
 
-Lov nr. 329 af 30. marts 2019 (Selvstændig bestemmelse om psykisk vold) indeholder følgende ikrafttrædelsesbestemmelse:
-
-§ 7
-
-Loven træder i kraft den 1. april 2019.
-
-Lov nr. 330 af 30. marts 2019 (Betydningen af tro, kulturelle forhold og lign. i forbindelse med straffens fastsættelse) indeholder følgende ikrafttrædelsesbestemmelse:
+Lov nr. 883 af 16. juni 2020 (Skærpelse af straffen for overtrædelse af straffelovens terrorbestemmelser) indeholder følgende ikrafttrædelsesbestemmelse:
 
 § 2
 
-Loven træder i kraft den 1. april 2019.
+Loven træder i kraft dagen efter bekendtgørelsen i Lovtidende.
 
-Lov nr. 463 af 29. april 2019 (Undersøgelse af arrestanter m.v. i forbindelse med transporter) indeholder følgende ikrafttrædelsesbestemmelse:
-
-§ 3
-
-Loven træder i kraft den 1. maj 2019.
-
-Lov nr. 466 af 29. april 2019 (Skærpelse af strafniveauet for flugt og medvirken til flugt fra lukkede fængsler og arresthuse) indeholder følgende ikrafttrædelsesbestemmelse:
+Lov nr. 968 af 26. juni 2020 (Forstærket indsats mod eksplosivstoffer) indeholder følgende ikrafttrædelsesbestemmelse:
 
 § 2
 
-Loven træder i kraft den 1. maj 2019.
+Loven træder i kraft den 1. juli 2020.

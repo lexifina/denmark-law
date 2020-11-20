@@ -1,4 +1,4 @@
-1) § 197, stk. 2 og 3, ophæves den 1. juli 2020, jf. § 2, stk. 2, i lov nr. 753 af 19. juni 2017 om ændring af straffeloven (Skærpelse af straffen for utryghedsskabende tiggeri).
+1) § 81 d ophæves den 1. marts 2021, jf. § 4, stk. 4, i lov nr. 349 af 2. april 2020 om ændring af straffeloven, retsplejeloven og udlændingeloven (Skærpet straf for lovovertrædelser med baggrund i eller sammenhæng med covid-19 og blokering af hjemmesider, hvorfra der begås visse lovovertrædelser, som har baggrund i eller sammenhæng med covid-19).
 
 2) Lovændringen vedrører § 68 a, § 69, § 69 a, § 72, stk. 1-2, § 73, stk. 1, 1. pkt., og § 97, stk. 2, nr. 2.
 
@@ -30,42 +30,30 @@
 
 16) Lovændringen vedrører overskriften til 7. kapitel, § 56, stk. 1 og 2, § 60, stk. 1, nr. 2 og 3, § 62, stk. 2, § 63, stk. 1, 2. pkt., § 63, stk. 3, 2. pkt., § 63, stk. 4, 3. pkt., § 64, 2. pkt., § 66, stk. 3, 2. pkt., § 67, stk. 2, 2. pkt., og § 86, stk. 3 og 4.
 
-17) Lovændringen vedrører § 197, stk. 2 og 3.
+17) Lovændringen vedrører § 93, stk. 3 og 4, § 93 b, stk. 2, og § 94, stk. 4.
 
-18) Loven er bekendtgjort i Lovtidende den 20. juni 2017.
+18) Lovændringen vedrører § 94, stk. 4, og § 244, stk. 2.
 
-19) Lovændringen vedrører § 93, stk. 3 og 4, § 93 b, stk. 2, og § 94, stk. 4.
+19) Lovændringen vedrører § 4, stk. 1, § 57, nr. 9 og 10, og § 74 b.
 
-20) Lovændringen vedrører § 94, stk. 4, og § 244, stk. 2.
+20) Lovændringen vedrører § 96, stk. 5, § 97 b, stk. 3, § 193, stk. 1, § 263, § 263 a, §§ 264-264 d, § 266 c, §§ 267-275 og § 301 a.
 
-21) Lovændringen vedrører § 73 a, stk. 2.
+21) Lovændringen vedrører § 236, stk. 1, nr. 1, og § 236, stk. 3-4 og 7-12.
 
-22) Lovændringen vedrører § 215 a.
+22) Lovændringen vedrører § 62, stk. 1.
 
-23) Lovændringen vedrører § 81 b, § 81 c, § 156, stk. 2, og § 157, stk. 2.
+23) Lovændringen vedrører § 93, stk. 3, og § 290 b.
 
-24) Lovændringen vedrører § 132 a, stk. 2.
+24) Lovændringen vedrører § 81 d.
 
-25) Loven er bekendtgjort i Lovtidende den 19. december 2018.
+25) Loven er bekendtgjort i Lovtidende den 2. april 2020.
 
-26) Lovændringen vedrører § 4, stk. 1, § 57, nr. 9 og 10, og § 74 b.
+26) Lovændringen vedrører § 79 b og § 124 a.
 
-27) Lovændringen vedrører § 96, stk. 5, § 97 b, stk. 3, § 193, stk. 1, § 263, § 263 a, §§ 264-264 d, § 266 c, §§ 267-275 og § 301 a.
+27) Loven er bekendtgjort i Lovtidende den 17. juni 2020.
 
-28) Lovændringen vedrører § 119, stk. 3, § 119 a, stk. 2, og § 291, stk. 4, 2. pkt.
+28) Lovændringen vedrører § 101 a, stk. 1, 1. pkt., og stk. 2, 1. pkt., § 114, stk. 1-3, § 114 a, 1. pkt., § 114 b, § 114 c, stk. 1, 1. pkt., og stk. 3, 2. pkt., § 114 c, stk. 2 og 3, 1. pkt., § 114 d, stk. 1, 1. pkt., § 114 d, stk. 2 og 3, § 114 e, § 114 f, § 114 g, § 114 h, § 114 i, § 114 j, stk. 1, og § 136, stk. 2.
 
-29) Lovændringen vedrører §196 a.
+29) Loven er bekendtgjort i Lovtidende den 17. juni 2020.
 
-30) Lovændringen vedrører § 124, stk. 5, nr. 2 og 4, og § 143.
-
-31) Lovændringen vedrører § 108.
-
-32) Loven er bekendtgjort i Lovtidende den 27. marts 2019.
-
-33) Lovændringen vedrører § 94, stk. 4, 3. pkt, § 243 og § 247, stk. 1.
-
-34) Lovændringen vedrører § 80, stk. 3.
-
-35) Lovændringen vedrører § 73 a, stk. 2, 2. pkt.
-
-36) Lovændringen vedrører § 124, stk. 3 og 6.
+30) Lovændringen vedrører § 114 a, 1. pkt., § 114 a, nr. 8 og § 192 a, stk. 4.
