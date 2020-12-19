@@ -1,3 +1,3 @@
 Bekendtgørelse af lov om fonde og visse foreninger
 
-Herved bekendtgøres lov om fonde og visse foreninger, jf. lovbekendtgørelse nr. 698 af 11. august 1992, med de ændringer, der følger af § 6 i lov nr. 442 af 1. juni 1994, § 7 i lov nr. 389 af 14. juni 1995, § 17 i lov nr. 980 af 17. december 1997, § 23 i lov nr. 166 af 24. marts 1999, § 103 i lov nr. 428 af 6. juni 2005, § 10 i lov nr. 552 af 24. juni 2005, § 10 i lov nr. 1336 af 19. december 2008 og § 21 i lov nr. 525 af 12. juni 2009.
+Herved bekendtgøres lov om fonde og visse foreninger, jf. lovbekendtgørelse nr. 938 af 20. september 2012, med de ændringer, der følger af § 3 i lov nr. 634 af 12. juni 2013, § 3 i lov nr. 639 af 12. juni 2013, lov nr. 734 af 25. juni 2014, § 12 i lov nr. 262 af 16. marts 2016, § 2 i lov nr. 81 af 30. januar 2019 og § 12 i lov nr. 554 af 7. maj 2019.
