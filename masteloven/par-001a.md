@@ -8,7 +8,7 @@ Stk. 2. Klima-, energi- og forsyningsministeren kan fastsætte nærmere regler o
 
 Stk. 3. En digital meddelelse anses for at være kommet frem, når den er tilgængelig for adressaten for meddelelsen.
 
-Stk. 4. Klima-, energi- og forsyningsministeren kan efter forhandling med social- og indenrigsministeren fastsætte regler om, at skriftlig kommunikation til og fra klima-, energi- og forsyningsministeren om forhold, som er omfattet af denne lov eller af regler udstedt i medfør af denne lov, skal foregå digitalt. Stk. 2 og 3 finder tilsvarende anvendelse.
+Stk. 4. Klima-, energi- og forsyningsministeren kan fastsætte regler om, at skriftlig kommunikation til og fra klima-, energi- og forsyningsministeren om forhold, som er omfattet af denne lov eller af regler udstedt i medfør af denne lov, skal foregå digitalt. Stk. 2 og 3 finder tilsvarende anvendelse.
 
 Stk. 5. Klima-, energi- og forsyningsministeren kan efter forhandling med transportministeren fastsætte regler om, at skriftlig kommunikation til og fra taksationskommissionerne og ekspropriationskommissionerne om forhold, som er omfattet af denne lov eller af regler udstedt i medfør af denne lov, skal foregå digitalt. Stk. 2 og 3 finder tilsvarende anvendelse.
 

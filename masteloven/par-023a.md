@@ -1,0 +1,9 @@
+§ 23 a. Energistyrelsen behandler sager om afvisning af eller afslag på en anmodning om adgang til fysisk infrastruktur eller gadeinventar, jf. § 14 a, stk. 2 og 3, og sager, hvor en anmodning om adgang til fysisk infrastruktur eller gadeinventar ikke er imødekommet inden for 2 måneder, jf. § 14 a, stk. 1, jf. § 14 a, stk. 4.
+
+Stk. 2. Sager omfattet af stk. 1 kan indbringes for Energistyrelsen af den udbyder af elektroniske kommunikationsnet eller -tjenester, der har fremsat en anmodning om adgang i henhold til § 14 a, stk. 1.
+
+Stk. 3. Energistyrelsen kan i sager efter stk. 1 træffe afgørelse om, at en offentlig myndigheds eller andres afvisning, jf. § 14 a, stk. 2, eller afslag, jf. § 14 a, stk. 3, på en anmodning om adgang er berettiget, at en offentlig myndighed skal give adgang til sin fysiske infrastruktur eller sit gadeinventar, og at andre skal give adgang til deres gadeinventar, jf. § 14 a, stk. 1, og herunder fastsætte vilkår og betingelser, eller at en offentlig myndigheds eller andres afvisning, jf. § 14 a, stk. 2, eller afslag, jf. § 14 a, stk. 3, på en anmodning om adgang ikke er berettiget.
+
+Stk. 4. Energistyrelsen kan af sagens parter kræve enhver oplysning og ethvert materiale, som Energistyrelsen skønner relevant, med henblik på behandling af sagen efter stk. 1 og med henblik på at kunne træffe afgørelse og herunder fastsætte vilkår og betingelser efter stk. 3. Undlader en part at afgive oplysninger og materiale, som Energistyrelsen kan kræve efter 1. pkt. eller i medfør af regler fastsat i henhold til stk. 5, kan Energistyrelsen pålægge parten tvangsbøder.
+
+Stk. 5. Klima-, energi- og forsyningsministeren kan fastsætte regler om Energistyrelsens behandling af sager efter denne bestemmelse, herunder om, hvilke afgørelser Energistyrelsen kan træffe, om frister for styrelsens behandling af sager og om oplysningspligt og pligt til indsendelse af materiale til brug for sagsbehandlingen.
