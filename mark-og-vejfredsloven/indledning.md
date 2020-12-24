@@ -1,5 +1,3 @@
 Bekendtgørelse af lov om mark- og vejfred
 
-(Mark- og vejfredsloven)
-
-Herved bekendtgøres lov om mark- og vejfred, jf. lovbekendtgørelse nr. 61 af 19. januar 2007, med de ændringer, der følger af § 5 i lov nr. 484 af 17. juni 2008, § 56 i lov nr. 1336 af 19. december 2008 og lov nr. 728 af 25. juni 2014.
+Herved bekendtgøres lov om mark- og vejfred, jf. lovbekendtgørelse nr. 1847 af 14. december 2015, med de ændringer, der følger af § 74 i lov nr. 133 af 25. februar 2020.
