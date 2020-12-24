@@ -1,75 +1,39 @@
-Lov nr. 1082 af 20. december 1995 om ændring af lov for Færøerne om rettens pleje, lov om rettens pleje i Grønland og forskellige andre lovbestemmelser om procesbevillinger (Ændringer som følge af oprettelsen af Procesbevillingsnævnet) indeholder følgende ikrafttrædelsesbestemmelse :
+Lov nr. 133 af 25. februar 2020 om dyrevelfærd (dyrevelfærdsloven) indeholder følgende ikrafttrædelses- og overgangsbestemmelse:
 
-§ 14
+§ 70. Ministeren for fødevarer, landbrug og fiskeri fastsætter tidspunktet for lovens ikrafttræden. Ministeren kan herunder fastsætte, at dele af loven træder i kraft på forskellige tidspunkter.
 
-Stk. 1. Loven træder for Danmark og Grønland i kraft den 1. januar 1996. Justitsministeren fastsætter tidspunktet for lovens ikrafttræden for Færøerne.
+Stk. 2. (Udelades)
 
-Stk. 2. (Udeladt)
+Stk. 3. Ved lovens ikrafttræden ophæves følgende love:
 
-Lov nr. 232 af 2. april 1997 ændring af forskellige lovbestemmelser om Københavns Kommune (Københavns Kommunes inddragelse under lov om kommunernes styrelse) indeholder følgende ikraftrædelsesbestemmelse:
+1) Lov om indendørs hold af gylte, goldsøer og drægtige søer, jf. lovbekendtgørelse nr. 49 af 11. januar 2017.
 
-§ 14
+2) Lov om indendørs hold af smågrise, avls- og slagtesvin, jf. lovbekendtgørelse nr. 56 af 11. januar 2017.
 
-Stk. 1. Loven træder i kraft den 1. januar 1998, jf. dog stk. 2 og 3.
+3) Lov om udendørs hold af svin, jf. lovbekendtgørelse nr. 51 af 11. januar 2017.
 
-Stk. 2-3. (Udeladt)
+4) Lov om hold af slagtekyllinger, jf. lovbekendtgørelse nr. 54 af 11. januar 2017.
 
-Lov nr. 431 af 6. juni 2005 om ændring af forskellige love (Forenkling, harmonisering og objektivering af reglerne for inddrivelse af gæld til det offentlige m.v. samt mulighed for anvendelse af digitale lønsedler) indeholder følgende ikrafttrædelsesbestemmelse:
+5) Lov om forbud om markedsføring m.v. samt indførsel og udførsel af skind og skindprodukter fra hunde og katte, jf. lovbekendtgørelse nr. 257 af 8. marts 2013.
 
-§ 85
+6) Lov om forbud mod slagtning og aflivning af drægtige produktionsdyr og heste i den sidste tiendedel af drægtighedsperioden, jf. lovbekendtgørelse nr. 258 af 8. marts 2013.
 
-Stk. 1. Loven træder i kraft den 1. november 2005, jf. dog stk. 2.
+7) Lov om forbud mod hold af ræve, jf. lovbekendtgørelse nr. 469 af 15. maj 2014.
 
-Stk. 2. (Udeladt)
+8) Lov om hold af slagtekalkuner, jf. lovbekendtgørelse nr. 57 af 11. januar 2017.
 
-Lov nr. 536 af 24. juni 2005 om ændring af jordfordelingsloven, landdistriktsstøtteloven, lov om drift af landbrugsjorder og forskellige andre love på Fødevareministeriets område (Udmøntning af kommunalreformen, for så vidt angår miljøvenlige jordbrugsforanstaltninger, samt konsekvensrettelser som følge af kommunalreformen) indeholder følgende ikrafttrædelsesbestemmelse:
+9) Lov om hold af malkekvæg og afkom af malkekvæg, jf. lovbekendtgørelse nr. 58 af 11. januar 2017.
 
-§ 8
+10) Lov om hold af heste, jf. lovbekendtgørelse nr. 304 af 30. marts 2017.
 
-Loven træder i kraft den 1. januar 2007.
+Stk. 4. (Udelades)
 
-Lov nr. 538 af 8. juni 2006 om ændring af retsplejeloven og forskellige andre love (Politi- og domstolsreform) indeholder følgende ikrafttrædelsesbestemmelser:
+Stk. 5. Regler fastsat i medfør af lov om hold af heste, jf. lovbekendtgørelse nr. 304 af 30. marts 2017, forbliver i kraft, indtil de ophæves eller afløses af nye regler fastsat i medfør af denne lov eller i medfør af mark- og vejfredsloven. Overtrædelse af reglerne straffes efter de hidtil gældende regler.
 
-§ 105
+Stk. 6. (Udelades)
 
-Stk. 1. Loven træder i kraft den 1. januar 2007.
+Stk. 7. (Udelades)
 
-Stk. 2-22. (Udeladt)
+Stk. 8. (Udelades)
 
-§ 106
-
-(Udeladt)
-
-§ 107
-
-(Udeladt)
-
-Lov nr. 484 af 17. juni 2008 om ændring af lov om tjenestemænd og forskellige andre love (Ophævelse af den generelle pligtige afgangsalder på 70 år m.v.) indeholder følgende ikrafttrædelses- og overgangsbestemmelser:
-
-§ 9
-
-Stk. 1. Loven træder i kraft dagen efter bekendtgørelsen i Lovtidende.
-
-Stk. 2. (Udeladt)
-
-§ 10
-
-Stk. 1. Efter lovens ikrafttræden skal de bestemmelser i lovgivningen, hvorefter det er en betingelse for udpegelse som formand for eller medlem af nævn og råd m.v., at den pågældende opfylder betingelserne for at være dommer, forstås således, at også den, der er fyldt 70 år, kan varetage hvervet.
-
-Stk. 2. Vedkommende minister kan efter forhandling med finansministeren fastsætte regler om, at bestemmelser i lovgivningen, hvorefter det er en betingelse for udpegelse som formand for eller medlem af nævn og råd m.v., at den pågældende er dommer, skal forstås således, at også en pensioneret dommer kan varetage hvervet.
-
-Lov nr. 1336 af 19. december 2008 om ændring af kildeskatteloven, opkrævningsloven, udpantningsloven og forskellige andre love (Konsekvensændringer som følge af lov om inddrivelse af gæld til det offentlige) indeholder følgende ikrafttrædelsesbestemmelse:
-
-§ 167
-
-Stk. 1. Loven træder i kraft den 1. januar 2009, jf. dog stk. 2. § 11 finder alene anvendelse på afgørelser om lønindeholdelse, der træffes efter lovens ikrafttræden.
-
-Stk. 2. (Udeladt)
-
-Lov nr. 728 af 25. juni 2014 om ændring af lov om mark- og vejfred (Ændring af lovens anvendelsesområde og ændring af reglerne om aflivning af katte og tamkaniner samt ophævelse af retten til at kræve optagelsespenge m.v.) indeholder følgende ikrafttrædelses- og overgangsbestemmelse:
-
-§ 2
-
-Stk. 1. Loven træder i kraft den 1. juli 2014.
-
-Stk. 2. Bekendtgørelser udstedt i henhold til den i § 28, stk. 3, ophævede bestemmelse forbliver i kraft, indtil de erstattes af bestemmelser fastsat i medfør af denne lov.
+Stk. 9. Verserende klagesager i Miljø- og Fødevareklagenævnet, der ikke er færdigbehandlet ved denne lovs ikrafttræden, færdigbehandles og afgøres af Miljø- og Fødevareklagenævnet efter reglerne i denne lov.
