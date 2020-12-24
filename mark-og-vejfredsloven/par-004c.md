@@ -1,0 +1,1 @@
+§ 4 c. Bestemmelser i anden lovgivning om objektivt ansvar for skade forvoldt af løsgående heste, som påhviler hestens ejer eller andre, finder ikke anvendelse, hvis der kan pålægges ansvar i medfør af § 4 b, stk. 1.
