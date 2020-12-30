@@ -1,0 +1,1 @@
+1) Loven indeholder bestemmelser, der som udkast har været notificeret i overensstemmelse med Europa-Parlamentets og Rådets direktiv 2015/1535/EU om en informationsprocedure med hensyn til tekniske forskrifter samt forskrifter for informationssamfundets tjenester (kodifikation) (informationsproceduredirektivet).
