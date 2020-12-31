@@ -10,7 +10,9 @@
 
 5) 67 år for personer, der er født i perioden fra den 1. juli 1955 til den 31. december 1962.
 
-6) 68 år for personer, der er født efter den 31. december 1962.
+6) 68 år for personer, der er født i perioden fra den 1. januar 1963 til den 31. december 1966.
+
+7) 69 år for personer, der er født efter den 31. december 1966.
 
 Stk. 2. I 2015 og herefter hvert 5. år beregnes, jf. stk. 3, om folkepensionsalderen for personer født efter den 31. december 1962 skal reguleres.
 
