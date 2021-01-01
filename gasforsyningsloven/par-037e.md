@@ -1,0 +1,3 @@
+§ 37 e. Systemoperatøren kan i forbindelser med aktiviteter relateret til systemdrift ansøge Forsyningstilsynet om tillæg til indtægtsrammen for meromkostninger til markedsudvikling, systemansvarlig virksomhed, systemdriftsudvikling og udvikling af tekniske kompetencer i forbindelse med teknologiudvikling eller indpasning af gas fra vedvarende energikilder. Der skal ske inddragelse af offentligheden forud for ansøgning til Forsyningstilsynet.
+
+Stk. 2. Forsyningstilsynet kan fastsætte regler om, hvordan meromkostninger som følge af ansøgning efter stk. 1 indgår i indtægtsrammen efter § 37 d, om krav til ansøgningens indhold og frister og om offentliggørelse.
