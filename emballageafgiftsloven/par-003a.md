@@ -1,1 +1,1 @@
-§ 3 a. Oplagshavere er berettiget til, uden at afgiften er berigtiget, fra udlandet og fra andre oplagshavere at modtage afgiftspligtige varer omfattet af § 1, stk. 1, nr. 1 og 2, og afgiftspligtige varer omfattet af §§ 2 a eller 2 c.
+§ 3 a. Oplagshavere er berettiget til, uden at afgiften er berigtiget, fra udlandet og fra andre oplagshavere at modtage afgiftspligtige varer omfattet af § 1, stk. 1, nr. 1 og 2, og afgiftspligtige varer omfattet af §§ 2 a, 2 c eller 2 d.
