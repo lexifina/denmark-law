@@ -1,5 +1,1 @@
-§ 21 c. Alle arbejdsgivere, jf. § 2, modtager et årligt tilskud pr. erhvervsuddannet årsværk, jf. § 21 h, jf. dog stk. 3. I 2018 er tilskuddet 295 kr. årligt pr. erhvervsuddannet årsværk.
-
-Stk. 2. Fra 2019 opgør bestyrelsen for Arbejdsgivernes Uddannelsesbidrag tilskuddets størrelse. Tilskudsgrundlaget opgøres som andelen af Arbejdsgivernes Uddannelsesbidrags samlede udgifter til skolepraktikydelse, der finansieres af bidrag efter § 18, stk. 1, og som kan henføres til indbetalinger for erhvervsuddannede årsværk i det foregående år. Tilskudsgrundlaget deles herefter med antallet af erhvervsuddannede årsværk i det forudgående år for at finde tilskuddet pr. erhvervsuddannet årsværk.
-
-Stk. 3. Der udbetales ikke tilskud efter stk. 1 og 2, såfremt antallet af tilskudsberettigende erhvervsuddannede årsværk er identisk med det antal lønmodtagere, der i henhold til § 20, stk. 2, 1. og 2. pkt., fratrækkes arbejdsgiverens bidrag efter § 18. Er antallet af tilskudsberettigende erhvervsuddannede årsværk identisk med det samlede antal lønmodtagere, der betales bidrag for efter § 18, reduceres tilskuddet efter stk. 1 med tilskudsbeløbet for et erhvervsuddannet årsværk.
+§ 21 c. (Ophævet)
