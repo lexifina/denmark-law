@@ -1,1 +1,1 @@
-§ 18 a. Afviser en person at modtage behandling foretaget af en læge i form af operation eller lægeordineret medicin eller lægebehandling af tilsvarende indgribende karakter, kan det ikke tillægges betydning ved vurderingen af personens ret til førtidspension.
+§ 18 a. Afviser en person at modtage behandling foretaget af en læge i form af operation eller lægeordineret medicin eller lægebehandling af tilsvarende indgribende karakter, kan det ikke tillægges betydning ved vurderingen af personens ret til seniorpension eller førtidspension.
