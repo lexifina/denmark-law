@@ -2,7 +2,7 @@
 
 Stk. 2. Klima-, energi- og forsyningsministeren varetager administration af tilskud til biogas efter §§ 43 b-43 g, herunder beregning og udbetaling af disse.
 
-Stk. 3. Enhver, der anmoder om tilskud efter §§ 43 b-43 g, skal lade sig registrere hos klima-, energi- og forsyningsministeren og meddele nødvendige oplysninger af betydning for tildelingen af tilskuddet til klima-, energi-og forsyningsministeren, jf. stk. 8. Oplysningerne indberettes til et register, som klima-, energi- og forsyningsministeren opretter.
+Stk. 3. Der ydes ikke pristillæg efter §§ 45 a og 47 for elektricitet fremstillet ved afbrænding af forbrændingsegnet affald. Der ydes endvidere ikke pristillæg eller andre ydelser efter §§ 43 b-43 g og 45 a-47, hvis der ydes støtte efter § 3, stk. 3, i lov om tilskud til fremme af vedvarende energi i virksomheders produktionsprocesser. 2. pkt. gælder dog ikke pristillæg efter § 45 b, når elektricitet er produceret af et kraft-varme-værk, som ydes støtte efter § 3, stk. 3, nr. 4, i lov om tilskud til fremme af vedvarende energi i virksomheders produktionsprocesser.
 
 Stk. 4. Klima-, energi- og forsyningsministeren træffer afgørelse om retten til og størrelsen af tilskuddet samt udbetaling m.v. heraf.
 
