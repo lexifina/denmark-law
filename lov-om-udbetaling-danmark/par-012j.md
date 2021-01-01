@@ -10,9 +10,9 @@ Stk. 2. Udbetaling Danmark anvender cpr-numrene til gennem registersamkøring at
 
 2) Økonomisk fripladstilskud efter lov om folkeskolen.
 
-3) Kontanthjælp, uddannelseshjælp og integrationsydelse efter lov om aktiv socialpolitik.
+3) Kontanthjælp, uddannelseshjælp, integrationsydelse, selvforsørgelses- og hjemrejseydelse eller overgangsydelse efter lov om aktiv socialpolitik.
 
-4) Folkepension og førtidspension efter lov om social pension og lov om højeste, mellemste, forhøjet almindelig og almindelig førtidspension m.v.
+4) Folkepension, førtidspension, seniorpension og tidlig pension efter lov om social pension og lov om højeste, mellemste, forhøjet almindelig og almindelig førtidspension m.v.
 
 5) Boligstøtte efter lov om individuel boligstøtte.
 
