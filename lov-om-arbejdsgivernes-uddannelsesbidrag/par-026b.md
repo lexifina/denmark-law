@@ -1,4 +1,4 @@
-§ 26 b. Arbejdsgivernes Uddannelsesbidrag kan til et register vedrørende uddannelsesniveau, som oprettes til brug for opgørelsen af erhvervsuddannede årsværk, jf. § 21 h, efter §§ 21 a, 21 c og 21 e indsamle data om uddannelsesniveau på individniveau fra Danmarks Statistik.
+§ 26 b. Arbejdsgivernes Uddannelsesbidrag kan til et register vedrørende uddannelsesniveau, som oprettes til brug for opgørelsen af erhvervsuddannede årsværk, jf. § 21 h, stk. 1, efter § 21 a indsamle data om uddannelsesniveau på individniveau fra Danmarks Statistik.
 
 Stk. 2. Data på individniveau omfattet af stk. 1 er fortrolige, i det omfang disse data er imputerede eller hidrører fra spørgeskemaundersøgelser. Dette gælder dog ikke for den, hvem data vedrører.
 
