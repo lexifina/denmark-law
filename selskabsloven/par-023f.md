@@ -1,0 +1,1 @@
+§ 23 f. Er der tvivl om, hvorvidt et medlem af ledelsen faktisk udøver ledelsen, jf. § 112, stk. 2, kan Erhvervsstyrelsen afvise at registrere den pågældende, eller styrelsen kan afregistrere den pågældende.
