@@ -6,12 +6,14 @@ Stk. 2. Indkomstskattepligtige pensionsudbetalinger omfattet af pensionsbeskatni
 
 2) Udbetaling af rateforsikring i tilfælde af forsikredes invaliditet.
 
-3) Udbetaling af rateopsparing i tilfælde af kontohaverens varigt nedsatte arbejdsevne, som efter reglerne i lov om social pension berettiger kontohaveren til at oppebære førtidspension.
+3) Udbetaling af rateopsparing i tilfælde af kontohaverens varigt nedsatte arbejdsevne, som efter reglerne i lov om social pension berettiger kontohaveren til at oppebære førtidspension eller seniorpension.
 
 4) Udbetaling af ægtefælle- eller samleverpension.
 
 5) Udbetaling til efterladte.
 
-6) Udbetaling af tjenestemandspension.
+6) Udbetaling af pension som nævnt i pensionsbeskatningslovens § 2, stk. 1, nr. 1 og 2.
+
+7) Udbetaling af børnepension.
 
 Stk. 3. Procenten nævnt i stk. 1 udgør 8 for indkomstårene 2018 og 2019 og 12 for indkomståret 2020 og efterfølgende indkomstår, jf. dog 2. pkt. Fra og med det 15. indkomstår før det indkomstår, hvor personen når den folkepensionsalder, jf. § 1 a i lov om social pension, der gælder for den pågældende ved indkomstårets begyndelse, udgør procenten 20 for indkomståret 2018, 22 for indkomståret 2019 og 32 for indkomståret 2020 og efterfølgende indkomstår.
