@@ -22,6 +22,4 @@ Stk. 11. Ansøgning om opholdstilladelse efter stk. 1-3 kan kun indgives her i l
 
 Stk. 12. En ansøgning om forlængelse af en opholdstilladelse, der er meddelt efter stk. 1-3, skal indgives før tilladelsens udløb, for at udlændingen kan anses for at have lovligt ophold efter stk. 1-3. Har udlændingen ikke lovligt ophold i medfør af stk. 1-3, kan ansøgning om forlængelse ikke indgives, medmindre der foreligger ganske særlige grunde, herunder at den sene indgivelse skyldes omstændigheder, der ikke kan lægges udlændingen til last, eller at Danmarks internationale forpligtelser kan tilsige det.
 
-Stk. 13. En udlænding, der har opholdstilladelse efter stk. 1, kan udføre ulønnet frivilligt arbejde.
-
-Stk. 14. Udlændinge- og integrationsministeren fastsætter nærmere regler om den økonomiske sikkerhed efter stk. 6.
+Stk. 13. Udlændinge- og integrationsministeren fastsætter nærmere regler om den økonomiske sikkerhed efter stk. 6.

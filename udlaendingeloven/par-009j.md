@@ -16,6 +16,4 @@ Stk. 8. Opholdstilladelse efter stk. 1 kan ikke gives, hvis værtspersonen eller
 
 Stk. 9. Opholdstilladelse efter stk. 1 kan ikke gives, hvis værtspersonen eller dennes ægtefælle eller samlever er omfattet af en karensperiode, jf. § 21 a.
 
-Stk. 10. En udlænding, der har opholdstilladelse efter stk. 1, kan udføre ulønnet frivilligt arbejde.
-
-Stk. 11. Udlændinge- og integrationsministeren kan fastsætte nærmere regler om meddelelse af opholdstilladelse efter stk. 1.
+Stk. 10. Udlændinge- og integrationsministeren kan fastsætte nærmere regler om meddelelse af opholdstilladelse efter stk. 1.
