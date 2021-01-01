@@ -1,11 +1,3 @@
-§ 89 b. Transport-, bygnings- og boligministeren kan fastsætte regler om, at der til brug for Trafik-, Bygge- og Boligstyrelsens forebyggende flyvesikkerhedsmæssige arbejde af personer, der er omfattet af § 35 eller § 74, virksomheder og ansatte i virksomheder samt ejere af luftfartøjer skal gives indberetning til Trafik-, Bygge- og Boligstyrelsen om driftsforstyrrelser og andre irregulære forhold af betydning for flyvesikkerheden, der ikke har medført et flyvehavari eller en alvorlig flyvehændelse, jf. § 135. Ministeren fastsætter, i hvilke tilfælde der skal gives indberetning, hvornår og i hvilken form indberetningen skal gives, og hvad den skal indeholde.
+§ 89 b. Transportministeren kan til brug for Trafikstyrelsens forebyggende flyvesikkerhedsmæssige arbejde fastsætte regler om indberetning til Trafikstyrelsen af enhver flyvesikkerhedsrelateret begivenhed, om indberetningens form og om opbevaring, udlevering, offentliggørelse og anvendelse af de indberettede oplysninger.
 
-Stk. 2. Trafik-, Bygge- og Boligstyrelsens personale, ansatte i andre dele af den offentlige forvaltning og eventuelle tilkaldte sagkyndige er under ansvar efter straffelovens §§ 152 og 152 a-e forpligtet til over for uvedkommende at hemmeligholde oplysninger, som indberettes i henhold til regler fastsat i medfør af stk. 1, jf. dog stk. 3.
-
-Stk. 3. Oplysninger kan videregives til udenlandske myndigheder og internationale organisationer, når det
-
-1) følger af international aftale eller forpligtelse eller
-
-2) er af væsentlig betydning for den udenlandske myndigheds eller internationale organisations forebyggende flyvesikkerhedsmæssige arbejde og den pågældende myndighed eller organisation er undergivet tavshedspligt i mindst samme omfang som Trafik-, Bygge- og Boligstyrelsen.
-
-Stk. 4. Trafik-, Bygge- og Boligstyrelsen offentliggør rapporter om oplysninger, som indberettes i henhold til regler fastsat i medfør af stk. 1, jf. dog stk. 3.
+Stk. 2. Trafikstyrelsens personale, ansatte i andre dele af den offentlige forvaltning og eventuelle tilkaldte sagkyndige er under ansvar efter straffelovens §§ 152 og 152 a-e forpligtet til over for uvedkommende at hemmeligholde oplysninger, som indberettes i henhold til regler fastsat i medfør af stk. 1.
