@@ -26,6 +26,8 @@ Stk. 2. Den arbejdsmarkedsbidragspligtige indkomst, for hvilken der foretages in
 
 12) Arbejdsgiverbetalte sundhedsbehandlinger m.v. og den arbejdsgiverbetalte præmie for forsikringer, der dækker de pågældende behandlinger m.v., jf. arbejdsmarkedsbidragslovens § 2, stk. 2, nr. 8, som ikke er omfattet af stk. 3, nr. 1.
 
+13) Udbetalinger som nævnt i pensionsbeskatningslovens § 14 B, stk. 1, 1. pkt.
+
 Stk. 3. Den arbejdsmarkedsbidragspligtige indkomst, for hvilken der skal foretages indeholdelse af arbejdsmarkedsbidrag, omfatter ud over de indkomster, der er nævnt i stk. 1 og 2:
 
 1) Indbetalinger til pensionsordninger som nævnt i pensionsbeskatningslovens § 19, herunder indbetalinger til Arbejdsmarkedets Tillægspension vedrørende arbejdsgiverbetalte dagpengeydelser i henhold til lov om sygedagpenge, som arbejdsgivere, tidligere arbejdsgivere og offentlige myndigheder foretager, og skattepligtige arbejdsgiverbetalte præmier for forsikringer, der dækker sundhedsbehandlinger m.v., og som efter aftale mellem en arbejdsgiver og en arbejdstager indgår som en ikke adskilt del af en livsforsikringsordning, der er omfattet af pensionsbeskatningslovens § 19.
@@ -38,25 +40,19 @@ b) barseldagpenge i henhold til barselloven,
 
 c) delpension i henhold til lov om delpension,
 
-d) førtidspension i henhold til lov om social pension eller lov om højeste, mellemste, forhøjet almindelig eller almindelig førtidspension m.v.,
+d) førtidspension, seniorpension eller tidlig pension i henhold til lov om social pension eller lov om højeste, mellemste, forhøjet almindelig eller almindelig førtidspension m.v.,
 
 e) kontanthjælp, revalideringsydelse eller ledighedsydelse efter §§ 25, 52 og 74 d i lov om aktiv socialpolitik,
 
 f) ydelser efter §§ 42 og 43 i lov om social service,
 
-g) introduktionsydelse efter § 27 i integrationsloven,
+g) fleksydelse efter lov om fleksydelse,
 
-h) fleksydelse efter lov om fleksydelse,
+h) dagpenge efter lov om arbejdsløshedsforsikring m.v.,
 
-i) dagpenge og aktiveringsydelse efter lov om arbejdsløshedsforsikring m.v.,
+i) godtgørelse i henhold til lov om godtgørelse ved deltagelse i erhvervsrettet voksen- og efteruddannelse og
 
-j) godtgørelse i henhold til lov om godtgørelse ved deltagelse i erhvervsrettet voksen- og efteruddannelse,
-
-k) efterløn i henhold til lov om arbejdsløshedsforsikring m.v.,
-
-l) uddannelsesgodtgørelse, jobrotationsydelse eller aktiveringsydelse efter § 134, stk. 1 og 2, i lov om en aktiv beskæftigelsesindsats og
-
-m) jobrotationsydelse efter § 97 i lov om en aktiv beskæftigelsesindsats.
+j) efterløn i henhold til lov om arbejdsløshedsforsikring m.v.
 
 3) Indbetalinger til en supplerende arbejdsmarkedspension, som er omfattet af § 19, stk. 4, i pensionsbeskatningsloven efter §§ 33 b-33 e i lov om social pension.
 
@@ -64,6 +60,6 @@ m) jobrotationsydelse efter § 97 i lov om en aktiv beskæftigelsesindsats.
 
 5) Indbetalinger, som arbejdsgiveren foretager til en pensionsordning i fremmed stat, og som ikke medregnes ved den skattepligtige indkomst som følge af bestemmelser i en dobbeltbeskatningsoverenskomst.
 
-6) Indbetalinger, der ikke kan henføres til den enkelte ansatte, som en arbejdsgiver foretager til en pensionskasse omfattet af lov om tilsyn med firmapensionskasser eller til en hjælpe- og understøttelsesfond efter reglerne i pensionsbeskatningslovens § 52.
+6) Indbetalinger, der ikke kan henføres til den enkelte ansatte, som en arbejdsgiver foretager til en pensionskasse omfattet af lov om firmapensionskasser eller til en hjælpe- og understøttelsesfond efter reglerne i pensionsbeskatningslovens § 52.
 
 7) Indbetalinger, som arbejdsgiveren foretager på vegne af en medarbejderdeltager i et medarbejderinvesteringsselskab, jf. § 3 i lov om medarbejderinvesteringsselskaber.
