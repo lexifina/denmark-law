@@ -4,4 +4,8 @@ Stk. 2. Ansøgning om opholdstilladelse efter stk. 1 kan kun indgives her i land
 
 Stk. 3. En ansøgning om forlængelse af en opholdstilladelse efter stk. 1 skal indgives før tilladelsens udløb, for at udlændingen kan anses for at have lovligt ophold efter stk. 2, 1. pkt. Stk. 2, 2. pkt., finder tilsvarende anvendelse.
 
-Stk. 4. Udlændinge- og integrationsministeren kan fastsætte nærmere regler om meddelelse af opholdstilladelse efter stk. 1.
+Stk. 4. Udlændinge- og integrationsministeren kan fastsætte nærmere regler om meddelelse af opholdstilladelse efter stk. 1, herunder regler om, hvornår løn til en udlænding, der meddeles opholdstilladelse som praktikant efter stk. 1, 1. pkt., skal ske til en dansk bankkonto.
+
+Stk. 5. Der kan ikke gives opholdstilladelse efter stk. 1, 1. pkt., hvis der er en vis formodning om, at udlændingen ikke har påbegyndt eller afsluttet en relevant uddannelse i hjemlandet eller i et andet land, hvor udlændingen har opholdt sig lovligt, eller hvis der er en vis formodning om, at de faktiske vilkår for praktikforløbet ikke stemmer overens med det, der fremgår af ansøgningen, og de faktiske vilkår for praktikforløbet ikke vil opfylde betingelserne for en opholdstilladelse efter stk. 1, 1. pkt., eller at det afgørende formål med praktikforløbet er at skaffe udlændingen et ophold, som udlændingen ellers ikke ville kunne opnå.
+
+Stk. 6. Udlændinge- og integrationsministeren kan fastsætte nærmere regler om kriterierne for vurderingen efter stk. 5.
