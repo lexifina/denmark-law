@@ -1,0 +1,1 @@
+§ 26 b. Ansøgning om seniorpension indgives til Seniorpensionsenheden. Ansøgning kan indgives, tidligst 6 måneder før betingelsen om højst 6 år til folkepensionsalderen er opfyldt, jf. dog § 62, stk. 3.
