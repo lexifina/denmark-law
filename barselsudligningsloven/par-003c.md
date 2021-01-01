@@ -1,0 +1,1 @@
+§ 3 c. Udbetaling efter §§ 2 og 3 a sker til den arbejdsgiver, som først udbetaler løn under orlov efter barselslovens regler, eller den udøver af selvstændig erhvervsvirksomhed, der først afholder orlov efter barselslovens regler.
