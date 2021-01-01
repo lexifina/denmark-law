@@ -17,3 +17,5 @@ Stk. 2. Ved opgørelsen af likvid formue indgår
 7) andre værdipapirer, herunder værdipapirer i udlandet.
 
 Stk. 3. Ved opgørelsen af formuen efter stk. 2 beregnes først summen af værdierne efter stk. 2, nr. 1-5. Hvis summen heraf ikke overstiger formuegrænsen, jf. § 49, stk. 1, nr. 8, indgår desuden formue efter stk. 2, nr. 6 og 7.
+
+Stk. 4. Indestående i pengeinstitutter m.v., jf. stk. 2, nr. 1, omfatter også beløb, der efter pensionsbeskatningslovens § 22 E tilbagebetales i perioden efter udløbet af det forudgående år, når tilbagebetalingen hidrører fra en indbetaling, der er sket i det forudgående år.
