@@ -9,3 +9,5 @@ Stk. 2. Skatteankeforvaltningen kan ved klage over en afgørelse efter ejendomsv
 Stk. 3. I sager om vurdering af fast ejendom kan skatteankeforvaltningen besigtige den pågældende ejendom. Skatteankeforvaltningen kan tillige tilkalde sagkyndige til at yde bistand i sager om vurdering af fast ejendom.
 
 Stk. 4. I sager omfattet af § 7, stk. 1, kan skatteankeforvaltningen indkalde et køretøj til besigtigelse, hvis det findes nødvendigt.
+
+Stk. 5. Skatteankeforvaltningen kan tilgå og behandle oplysninger fra de registre, der er nævnt i ejendomsvurderingslovens § 55, når sådanne oplysninger er nødvendige for afgørelsen af en klage.
