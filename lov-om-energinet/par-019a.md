@@ -1,0 +1,3 @@
+§ 19 a. Klima-, energi- og forsyningsministeren kan fastsætte regler om, at kommunikation om forhold, der er omfattet af denne lov, af bestemmelser fastsat i medfør af loven eller af EU-retsakter om forhold omfattet af loven, skal ske digitalt, og at henvendelser, meddelelser m.v., der ikke er indgivet digitalt, afvises af den pågældende myndighed. Ministeren kan herunder fastsætte regler om anvendelse af et bestemt digitalt system, om, at henvendelser, meddelelser m.v., der ikke indgives ved digital selvbetjening, afvises af den pågældende myndighed, og om fritagelse for obligatorisk anvendelse for visse personer og virksomheder.
+
+Stk. 2. En digital meddelelse anses for at være kommet frem, når den er tilgængelig for modtageren.
