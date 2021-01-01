@@ -1,0 +1,5 @@
+## Overgang til tidlig pension
+
+§ 26 t. Udbetaling Danmark skal, senest 3 måneder før en person overgår til tidlig pension, oplyse personen om tidspunktet for overgang til tidlig pension og om værdien af pensionsrettigheder, der er indberettet efter § 32 i. Udbetaling Danmark anmoder samtidig personen om at bekræfte overgang til tidlig pension og indsende dokumentation for arbejdsmarkedstilknytning, jf. § 26 s, i det omfang dette ikke fremgår af offentlige systemer og registre. Træffer Udbetaling Danmark afgørelse om ret til tidlig pension, mindre end 3 måneder før at personen kan overgå til tidlig pension, skal oplysningerne fremgå af afgørelsen.
+
+Stk. 2. Udbetaling Danmark træffer afgørelse om afslag på tidlig pension, når der ikke er dokumentation for arbejdsmarkedstilknytning, jf. § 26 s, i offentlige systemer eller registre og personen heller ikke fremlægger dokumentation for tilknytningen.
