@@ -29,5 +29,3 @@ Stk. 9. Til brug for Styrelsen for International Rekruttering og Integrations af
 Stk. 10. Ministeren for børn, undervisning og ligestilling fastsætter nærmere regler om Danmarks Evalueringsinstituts udtalelser efter stk. 9, herunder om anmodninger og om den anmodende institutions betaling til dækning af Danmarks Evalueringsinstituts udgifter i forbindelse med udtalelser.
 
 Stk. 11. En udlænding, der har opholdstilladelse efter stk. 1 eller 2, og som har indgivet ansøgning om opholdstilladelse efter § 9 a, stk. 2, nr. 10, må arbejde, i tiden indtil der er taget stilling til, om udlændingen kan meddeles opholdstilladelse efter § 9 a, stk. 2, nr. 10.
-
-Stk. 12. En udlænding, der har opholdstilladelse efter stk. 2, kan udføre ulønnet frivilligt arbejde.
