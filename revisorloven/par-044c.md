@@ -1,0 +1,3 @@
+§ 44 c. Revisornævnet kan ved behandlingen af sager lade afhøring af parter og vidner foretage ved byretten på det sted, hvor parten eller vidnet bor.
+
+Stk. 2. Formanden for Revisornævnet kan ved behandlingen af større og komplicerede sager udvælge en sagkyndig til at forelægge sagen og foretage afhøringer for nævnet. Er en sag indbragt af en offentlig myndighed, afholdes udgiften til den sagkyndige af den pågældende myndighed.
