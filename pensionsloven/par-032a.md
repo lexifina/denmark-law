@@ -1,10 +1,10 @@
 ## Kapitel 4 a
 
-## Beregning af førtidspension
+## Beregning af førtidspension og seniorpension
 
 ## Indtægtsgrundlag
 
-§ 32 a. Indtægtsgrundlaget for førtidspension opgøres på grundlag af pensionistens og en eventuel ægtefælles eller samlevers samlede indtægt. Indtægtsgrundlaget opgøres således:
+§ 32 a. Indtægtsgrundlaget for førtidspension og seniorpension opgøres på grundlag af pensionistens og en eventuel ægtefælles eller samlevers samlede indtægt. Indtægtsgrundlaget opgøres således:
 
 1) Personlig indkomst med tillæg af positiv kapitalindkomst, der anvendes til beregning af indkomstskat efter personskattelovens § 7, dog før de deri nævnte grundbeløb og bundfradrag, samt aktieindkomst, der beskattes efter personskattelovens § 8 a, stk. 1 og 2, bortset fra aktieudbytte op til 5.000 kr.
 
@@ -22,17 +22,17 @@
 
 8) Ved opgørelsen af indtægtsgrundlaget efter nr. 1 bortses fra tilgodehavende feriemidler udbetalt efter lov om forvaltning og administration af tilgodehavende feriemidler.
 
-Stk. 2. Beskæftigelsesministeren fastsætter regler for, hvorledes indkomster efter stk. 1, der ikke er skattepligtige her i landet, og indkomster, som er omfattet af § 5 i lov om beskatning af søfolk, skal indgå i indtægtsgrundlaget.
+Stk. 2. Beskæftigelsesministeren fastsætter regler for, hvorledes indkomster efter stk. 1, der ikke er skattepligtige her i landet, og indkomster, som er omfattet af sømandsbeskatningslovens §§ 5-8, skal indgå i indtægtsgrundlaget.
 
 Stk. 3. I indtægtsgrundlaget efter stk. 1 og 2 foretages følgende fradrag:
 
-1) Fradrag for skattepligtig social pension og fradrag for skattepligtig pension udbetalt efter lovgivningen i en anden EU/EØS-medlemsstat og omfattet af og beregnet efter forordning (EF) nr. 883/04 om koordinering af de sociale sikringsordninger samt for pension udbetalt efter lovgivningen i et land, med hvilket der er indgået overenskomst om samordning af pension. Beskæftigelsesministeren fastsætter regler for, hvorledes fradrag for pensioner som nævnt i 1. pkt., der ikke er skattepligtige her i landet, skal fradrages.
+1) Fradrag for skattepligtig social pension og fradrag for skattepligtig pension udbetalt efter lovgivningen i en anden EU/EØS-medlemsstat og omfattet af forordning (EF) nr. 883/04 om koordinering af de sociale sikringsordninger, for pension udbetalt efter lovgivningen i et land, med hvilket der er indgået overenskomst om samordning af pension, og for pension udbetalt efter lovgivningen på Færøerne og i Grønland. Beskæftigelsesministeren fastsætter regler for, hvorledes fradrag for pensioner som nævnt i 1. pkt., der ikke er skattepligtige her i landet, skal fradrages.
 
 2) Fradrag for ophørsstøtte efter lov om ophørsstøtte til jordbrugere og lov om ophørsstøtte til erhvervsfiskere.
 
-3) Fradrag for hjælp efter § 27 a og efterlevelseshjælp efter § 85 a i lov om aktiv socialpolitik.
+3) Fradrag for hjælp efter §§ 27 a og 27 b og efterlevelseshjælp efter § 85 a i lov om aktiv socialpolitik.
 
-4) Fradrag for sygedagpenge, arbejdsløshedsdagpenge, midlertidig arbejdsmarkedsydelse, kontantydelse, integrationsydelse, ledighedsydelse, ressourceforløbsydelse, uddannelseshjælp og kontanthjælp, der er udbetalt for samme periode, hvori der foretages efterbetaling af pension, jf. § 32 d, stk. 1.
+4) Fradrag for sygedagpenge, arbejdsløshedsdagpenge, midlertidig arbejdsmarkedsydelse, kontantydelse, integrationsydelse, selvforsørgelses- og hjemrejseydelse, overgangsydelse, ledighedsydelse, ressourceforløbsydelse, uddannelseshjælp og kontanthjælp, der er udbetalt for samme periode, hvori der foretages efterbetaling af pension, jf. § 32 d, stk. 1.
 
 5) Fradrag for engangsbeløb efter § 15 d, stk. 4.
 
