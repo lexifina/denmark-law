@@ -27,3 +27,11 @@
 14) § 6, nr. 2 vedrører § 31, stk. 1, 2. pkt.
 
 15) Lovændringen vedrører § 48, stk. 4, og § 49, stk. 4.
+
+16) Lovændringen vedrører § 1 a, stk. 3, 2. pkt., § 4, stk. 1 og 2, § 6, stk. 1, 2. pkt., og stk. 3, 2. pkt., § 8, stk. 2 og 3, § 9, stk. 1, § 47 a, 47 c, stk. 3, 1. pkt., og stk. 4, § 51, stk. 2, 1. pkt., § 52, stk. 1-4, og § 54, stk. 7.
+
+17) Lovændringen vedrører § 1, stk. 4, § 10, stk. 5, § 23, stk. 1, § 29, stk. 5 og 6, § 32, stk. 7, 35 a, stk. 3 og 4, § 37, stk. 1, § 39, stk. 4, § 40, stk. 3, § 43 a, § 44, stk. 9, § 45, stk. 2, § 46, stk. 2, § 47, stk. 1, § 47 b, stk. 2, § 47 c, stk. 2, § 50, stk. 3, § 52, stk. 5, og § 54, stk. 1.
+
+18) Lovændringen vedrører § 49 a.
+
+19) Lovændringen vedrører § 3, stk. 1-4, § 6, stk. 3, § 7, stk. 1 og 2, § 8 a, stk. 3, § 8 b, § 9, stk. 2, § 17, stk. 3, § 23, stk. 4, § 31, stk. 1, § 32, stk. 2-8, § 32 a, stk. 1 og 2, § 33, stk. 1 og 2, § 37, stk. 1 og 4, § 43, stk. 2, § 44, stk. 5 og stk. 7-9, § 44 a, stk. 3, § 44 c, § 45, stk. 2, § 47, stk. 2, § 47 c, stk. 4, § 52, stk. 1 og 6, § 52 a, § 52 b og § 54, stk. 1.

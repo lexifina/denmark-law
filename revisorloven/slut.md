@@ -1,4 +1,4 @@
-Erhvervsstyrelsen, den 20. november 2018
+Erhvervsstyrelsen, den 8. januar 2021
 
 P.M.V. Katrine Winding
 
