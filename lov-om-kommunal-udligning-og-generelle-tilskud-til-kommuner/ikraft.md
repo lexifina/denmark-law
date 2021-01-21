@@ -1,93 +1,53 @@
-Lov nr. 996 af 30. august 2015 (Tilpasninger i udligningssystemet som følge af omlægning af refusionssystemet på beskæftigelsesområdet), som ændret ved § 2 i lov nr. 431 af 3. maj 2017, indeholder følgende ikrafttrædelses- og overgangsbestemmelser:
+Lov nr. 1557 af 27. december 2019 (Obligatorisk pensionsordning for personer i fleksjobordningen m.v. og konsekvensændringer som følge af den forenklede beskæftigelsesindsats m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
 
-§ 2
+§ 8
 
-Stk. 1. Loven træder i kraft dagen efter bekendtgørelsen i Lovtidende.
+Loven træder i kraft den 1. januar 2020.
 
-Stk. 2. § 1 har virkning fra tilskudsåret 2016.
+Lov nr. 1558 af 27. december 2019 (Enklere og skærpede sanktioner, styrket kontrol med snyd og færre fejludbetalinger m.v.) indeholder følgende ikrafttrædelses- og overgangsbestemmelse:
 
-§ 3
+§ 20
 
-Stk. 1. Kommuner, som i tilskudsårene 2016, 2017 og 2018 har et samlet beregnet byrdefordelingsmæssigt tab som følge af de ændringer i refusion og tilskud, der følger af denne lovs § 1 og lov om kommunernes finansiering af visse offentlige ydelser udbetalt af kommunerne, Udbetaling Danmark og arbejdsløshedskasserne, og hvor tabet i 2016 overstiger 0,1 pct. af kommunens beskatningsgrundlag og i 2017 og 2018 overstiger 0,2 pct. af kommunens beskatningsgrundlag, ydes et tilskud. Tilskuddet fastsættes til den del af kommunens beregnede byrdefordelingsmæssige tab, som i 2016 overstiger 0,1 pct. af kommunens beskatningsgrundlag og i 2017 og 2018 overstiger 0,2 pct. af kommunens beskatningsgrundlag.
+Stk. 1. Loven træder i kraft den 1. januar 2020, jf. dog stk. 2.
 
-Stk. 2. Kommuner, som i tilskudsårene 2016, 2017 og 2018 har en samlet beregnet byrdefordelingsmæssig gevinst som følge af ændringer i refusion og tilskud, jf. stk. 1, og hvor gevinsten i 2016 overstiger 0,1 pct. af kommunens beskatningsgrundlag og i 2017 og 2018 overstiger 0,2 pct. af kommunens beskatningsgrundlag, betaler et bidrag. Bidraget fastsættes til den del af kommunens beregnede byrdefordelingsmæssige gevinst, som i 2016 overstiger 0,1 pct. af kommunens beskatningsgrundlag og i 2017 og 2018 overstiger 0,2 pct. af kommunens beskatningsgrundlag.
+Stk. 2. Beskæftigelsesministeren fastsætter tidspunktet for ikrafttræden af § 1, nr. 20, 21 og 55-57.
 
-Stk. 3. Forskellen mellem tilskud og bidrag efter stk. 1 og 2 opkræves fra eller tilbagebetales til alle kommuner efter indbyggertal.
+Stk. 3. De hidtil gældende regler i lov om aktiv socialpolitik i §§ 8 a, 13-13 d, 25 a og 35-43, § 80, stk. 1, og §§ 91 og 109 finder fortsat anvendelse for hændelser, der er sket før lovens ikrafttræden.
 
-Stk. 4. Kommuner, som har en samlet beregnet byrdefordelingsmæssig gevinst eller et tab som følge af ændringer i refusion og tilskud, jf. stk. 1, tillagt eller fratrukket beløb beregnet efter stk. 1-3, og hvor gevinsten eller tabet beregnes at overstige 10 mio. kr. i 2016 og 20 mio. kr. i 2017, henholdsvis betaler et bidrag og modtager et tilskud. Bidraget og tilskuddet fastsættes til den del af kommunens beregnede byrdefordelingsmæssige gevinst eller tab, som overstiger 10 mio. kr. i 2016 og 20 mio. kr. i 2017. Overstiger det samlede bidrag det samlede tilskud, anvendes nettobidraget til finansiering af en forhøjelse af puljen efter § 16 i lov om kommunal udligning og generelle tilskud til kommuner til særlig vanskeligt stillede kommuner, med henblik på at social- og indenrigsministeren i 2016 og 2017 kan yde et tilskud til de kommuner, hvor refusionsomlægningen kan indebære en belastning af disse kommuners økonomiske situation. Overstiger det samlede tilskud det samlede bidrag, finansieres nettotilskuddet af alle kommuner efter indbyggertal.
+Stk. 4. For personer, der på tidspunktet for denne lovs ikrafttræden modtager hjælp efter §§ 22-25, 68, 69 j og 74 a i lov om aktiv socialpolitik, finder de hidtil gældende regler i lov om aktiv socialpolitik i §§ 8 a, 13-13 d, 25 a, 35-43, 69-69 e, 69 k-69 p og 75-77 b, § 80, stk. 1, og §§ 91 og 109 anvendelse, indtil kommunen har givet vejledning i overensstemmelse med § 35, stk. 1, § 69 a, stk. 1, § 69 l, stk. 1, eller § 75 a, stk. 1, i lov om aktiv socialpolitik, jf. denne lovs § 1, nr. 16, 40, 44 og 53.
 
-Stk. 5. For tilskudsåret 2016 foretages ved udmeldingen af tilskuds- og udligningsbeløb for 2016 en foreløbig beregning af de byrdefordelingsmæssige tab og gevinster efter stk. 1-4, og forhøjelsen af puljen efter § 16 i lov om kommunal udligning og generelle tilskud til kommuner, jf. stk. 4, fastsættes. Ved udmeldingen af tilskuds- og udligningsbeløb for 2017 pr. 1. juli 2016 opgøres en endelig beregning af de byrdefordelingsmæssige tab og gevinster efter stk. 1-4 for tilskudsåret 2016. Forskellen mellem den foreløbige og den endelige beregning for den enkelte kommune afregnes ved midtvejsreguleringen af tilskuds- og udligningsbeløb for 2016. Den samlede forskel mellem den foreløbige og den endelige beregning for kommunerne under et for 2016 opkræves fra eller tilbagebetales til alle kommuner efter indbyggertal.
+Lov nr. 1052 af 30. juni 2020 (Reform af udligningssystemet) indeholder følgende ikrafttrædelses- og overgangsbestemmelse:
 
-Stk. 6. For tilskudsåret 2017 foretages der ved udmeldingen af tilskuds- og udligningsbeløb for 2017 pr. 1. juli 2016 en endelig beregning af de byrdefordelingsmæssige tab og gevinster efter stk. 1-4, og forhøjelsen af puljen efter § 16 i lov om kommunal udligning og generelle tilskud til kommuner, jf. stk. 4, fastsættes.
+§ 15
 
-Stk. 7. Kommuner, som har en samlet beregnet byrdefordelingsmæssig gevinst eller et tab som følge af ændringer i refusion og tilskud, jf. stk. 1, tillagt eller fratrukket beløb beregnet efter stk. 1-3, og hvor gevinsten eller tabet beregnes at overstige 20 mio. kr. i 2018, betaler et bidrag henholdsvis modtager et tilskud. Bidraget og tilskuddet fastsættes til den del af kommunens beregnede byrdefordelingsmæssige gevinst henholdsvis tab, som overstiger 20 mio. kr. i 2018. Overstiger det samlede bidrag det samlede tilskud, anvendes nettobidrag på op til 50 mio. kr. til finansiering af en forhøjelse af puljen efter § 16 i lov om kommunal udligning og generelle tilskud til kommuner til særlig vanskeligt stillede kommuner. Den del af nettobidraget, der overstiger 50 mio. kr., tilbagebetales til kommunerne efter indbyggertal. Overstiger det samlede tilskud det samlede bidrag, finansieres nettotilskuddet af alle kommuner efter indbyggertal.
+Stk. 1. Loven træder i kraft den 1. juli 2020 og har virkning fra og med tilskudsåret 2021.
 
-Stk. 8. For tilskudsåret 2018 foretages der ved udmeldingen af tilskuds- og udligningsbeløb for 2018 pr. 1. juli 2017 en endelig beregning af de byrdefordelingsmæssige tab og gevinster efter stk. 1, 2, 3 og 7, og forhøjelsen af puljen efter § 16 i lov om kommunal udligning og generelle tilskud til kommuner, jf. stk. 7, fastsættes.
+Stk. 2. § 1, nr. 31, finder ikke anvendelse for efterregulering af beskæftigelsestilskuddet for 2020. For denne regulering finder de hidtil gældende regler i § 23 a i lov om kommunal udligning og generelle tilskud til kommuner anvendelse.
 
-Lov nr. 431 af 3. maj 2017 (Oprettelse af en ny særtilskudspulje og forlængelse af overgangsordningen i forbindelse med refusionsomlægning på beskæftigelsesområdet) indeholder følgende ikrafttrædelsesbestemmelse:
+Stk. 3. § 4 finder anvendelse for fastsættelse og afregning af nedsættelser af statstilskuddet som følge af indtægter fra parkering fra og med regnskabet for 2019.
 
-§ 3
+Stk. 4. Regler fastsat i medfør af § 5 i lov nr. 699 af juni 2018 om nedsættelse af statstilskuddet til kommuner som følge af indtægter fra parkering forbliver i kraft, indtil de ophæves eller afløses af forskrifter udstedt i medfør af § 5 i lov om nedsættelse af statstilskuddet til kommuner som følge af indtægter fra parkering som affattet ved denne lovs § 4, nr. 3.
 
-Stk. 1. Loven træder i kraft den 1. juli 2017.
+Stk. 5. §§ 5 og 7 har virkning for den kommunale andel af selskabsskatten for indkomståret 2019 og senere indkomstår.
 
-Stk. 2. (Udelades)
+Stk. 6. Oplysninger om tidligere opholdskommune, når denne kommune har den generelle betalingsforpligtelse, som ved lovens ikrafttræden er registreret i CPR efter § 29 i lov om kommunal udligning og generelle tilskud til kommuner, bevares i CPR.
 
-Lov nr. 663 af 8. juni 2017 (Forhøjelse af procenten for modregning i den enkelte kommunes statstilskud ved overførsel af midler fra kommunale varmeforsyningsvirksomheder m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
-
-§ 5
-
-Stk. 1. Loven træder i kraft dagen efter bekendtgørelsen i Lovtidende.
-
-Stk. 2. Loven har virkning fra den 3. maj 2017.
-
-Lov nr. 705 af 8. juni 2017 (Mere virksomhedsrettet danskuddannelse til voksne udlændinge, krav om mellemkommunal aftale ved midlertidig boligplacering af flygtninge i en anden kommune m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
-
-§ 4
-
-Stk. 1. Loven træder i kraft den 1. juli 2017, jf. dog stk. 2.
-
-Stk. 2. (Udelades)
-
-Lov nr. 711 af 8. juni 2017 (Kompensation for øget afgiftsbelastning og udvidelse af landevejsprincippet for biler, passagerer m.v. til og fra visse øer) indeholder følgende ikrafttrædelsesbestemmelse:
-
-§ 2
-
-Loven træder i kraft den 1. august 2017.
-
-Lov nr. 1675 af 26. december 2017 (Øget incitament til konsolidering af naturgasdistributionssektoren og udvidet mulighed for at undtage transmissionsselskabers anlæg fra lov om naturgasforsyning) indeholder følgende ikrafttrædelsesbestemmelse:
+Lov nr. 2052 af 19. december 2020 (Ekstraordinær mulighed for at omgøre valg af selvbudgettering for 2020 som følge af covid-19) indeholder følgende ikrafttrædelses- og overgangsbestemmelse:
 
 § 3
 
-Loven træder i kraft den 1. januar 2018.
+Stk. 1. Loven træder i kraft den 20. december 2020, jf. dog stk. 2.
 
-Lov nr. 690 af 8. juni 2018 om Forsyningstilsynet indeholder følgende ikrafttrædelsesbestemmelse:
+Stk. 2. §§ 7 a og 16 a i lov om kommunal indkomstskat som affattet ved denne lovs § 1, nr. 1 og 2, og § 24 a i lov om kommunal udligning og generelle tilskud til kommuner som affattet ved denne lovs § 2, nr. 1, ophæves den 1. januar 2022.
 
-§ 14. Loven træder i kraft den 1. juli 2018, jf. dog stk. 2.
+Lov nr. 2190 af 29. december 2020 (Overførsel af myndighedsansvar for seniorpension til Seniorpensionsenheden m.v.) indeholder følgende ikrafttrædelses- og overgangsbestemmelse:
 
-Stk. 2-3. (Udelades)
+§ 8
 
-Lov nr. 699 af 8. juni 2018 om nedsættelse af statstilskuddet til kommuner som følge af indtægter fra parkering indeholder følgende ikrafttrædelsesbestemmelse:
+Stk. 1. Loven træder i kraft den 1. januar 2021.
 
-§ 8. Loven træder i kraft den 1. januar 2019.
+Stk. 2-7. (Udelades)
 
-Lov nr. 1527 af 18. december 2018 (Forenkling af den økonomiske styring af beskæftigelsesindsatsen og bemyndigelse til at fastsætte nærmere regler, som supplerer EURES-forordningen) indeholder følgende ikrafttrædelsesbestemmelse:
+Stk. 8. § 7 finder anvendelse fra den 1. januar 2020.
 
-§ 5
-
-Stk. 1. Loven træder i kraft den 1. januar 2019, jf. dog stk. 2.
-
-Stk. 2. § 1, nr. 5 og 10, og § 3, nr. 2, træder i kraft den 1. juli 2019.
-
-Lov nr. 513 af 1. maj 2019 (Justering af tilskudsordning til nedsættelse af færgetakster for personbefordring til og fra visse øer, etablering af særlig godsordning for Mandø og adgang til at yde støtte ved et eventuelt driftsunderskud ved en afløserfærge) indeholder følgende ikrafttrædelses- og overgangsbestemmelse:
-
-§ 2
-
-Stk. 1. Loven træder i kraft den 1. juli 2019, jf. dog stk. 2.
-
-Stk. 2. § 21 d i lov om kommunal udligning og generelle tilskud til kommuner som indsat ved denne lovs § 1, nr. 5, træder i kraft dagen efter bekendtgørelsen i Lovtidende.
-
-Stk. 3. Tilskud efter § 21 b, stk. 1 og 2, i lov om kommunal udligning og generelle tilskud til kommuner og samme lovs § 21 c, stk. 1, jf. denne lovs § 1, nr. 5, har virkning for tilskudsåret 2019.
-
-Stk. 4. Efterregulering af tilskud til kommuner, som modtager tilskud efter § 21 a, stk. 1 og 2, i lov om kommunal udligning og generelle tilskud til kommuner som følge af at tilskud til Esbjerg Kommune efter samme lovs § 21 c, stk. 1, jf. denne lovs § 1, nr. 5, finansieres af den samlede ramme på godsområdet, sker med virkning fra den 1. januar 2019.
-
-Stk. 5. Efterregulering af kompensation til kommuner, som modtager tilskud efter § 21 a, stk. 1 og 2, i lov om kommunal udligning og generelle tilskud til kommuner for afgiftsmæssige konsekvenser, som følge af at et tilskud efter § 21 a, stk. 1 og 2, er omfattet af momslovens anvendelsesområde, sker med virkning fra den 1. januar 2019.
+Stk. 9. (Udelades)

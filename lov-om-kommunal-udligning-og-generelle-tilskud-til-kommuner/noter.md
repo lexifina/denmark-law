@@ -1,19 +1,9 @@
-1) Lovændringen vedrører § 2, stk. 1, 2. pkt. og stk. 2, 2. pkt., § 12, stk. 1 og stk. 2, 1. pkt., og § 13, stk. 1 og stk. 3.
+1) Lovændringen vedrører § 14, stk. 2, nr. 5, litra b,c og d.
 
-2) Lovændringen vedrører § 14, stk. 4, 2. pkt., og § 17.
+2) Lovændringen vedrører § 14, stk. 2, nr. 5, litra a og b.
 
-3) Lovændringen vedrører § 15, stk. 1, 1. og 3. pkt., og stk. 3.
+3) Lovændringen vedrører §§ 2, 3 og 4, § 5, stk. 1, 1 pkt., stk. 2, nr. 2-18, og stk. 3, § 6, kapitel 3 og 4, § 13, § 14, stk. 2, nr. 5, litra a-d, og stk. 4, 2. pkt., §§ 16-16 b, 17 a–17 g, 19, 22 og 23 a, § 23 b, stk. 2, 1 og 2. pkt., § 23 c, § 24, stk. 1, stk. 5, nr. 1-7, og stk. 7, 2. pkt., § 27, stk. 1, § 28, stk. 1, 1. pkt., § 29, 1 pkt., § 31, 1. pkt., § 35, stk. 2.
 
-4) Lovændringen vedrører § 14, stk. 2, nr. 5.
+4) Lovændringen vedrører § 24 a.
 
-5) Lovændringen vedrører § 21 a, stk. 7 og 8, og § 21 b, stk. 2, 4, 8 og 9.
-
-6) Lovændringen vedrører § 15, stk. 6.
-
-7) Lovændringen vedrører § 15, stk. 1, 1. pkt., stk. 5, 1. pkt., og stk. 6, 1. pkt.
-
-8) Lovændringen vedrører § 15 a.
-
-9) Lovændringen vedrører § 14, stk. 2, nr. 5 og § 23 a, stk. 3.
-
-10) Lovændringen vedrører § 21 b, stk. 2, 4-6 og 7-11, og §§ 21 c og 21 d.
+5) Lovændringen vedrører § 14, stk. 2, nr. 5, litra a.
