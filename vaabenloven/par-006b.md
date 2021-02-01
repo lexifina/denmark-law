@@ -1,4 +1,4 @@
-§ 6 b. For indgivelse af ansøgning om tilladelse efter denne lov betales 840 kr., jf. dog stk. 7. For følgende tilladelser betales dog ikke:
+§ 6 b. For indgivelse af ansøgning om tilladelse efter denne lov betales 1085 kr., jf. dog stk. 6. For følgende tilladelser betales dog ikke:
 
 1) Tilladelser til ammunition,
 
@@ -18,18 +18,18 @@
 
 9) tilladelser til salutkanoner,
 
-10) tilladelser til tilskudsberettigede museer i henhold til museumsloven og
+10) tilladelser til tilskudsberettigede museer i henhold til museumsloven,
 
-11) tilladelser til udenlandske embedsmænd, der udfører opgaver i Danmark efter artikel 17 og 18 i Rådets afgørelse 2008/616/RIA af 23. juni 2008 om gennemførelse af afgørelse 2008/615/RIA om intensivering af det grænseoverskridende samarbejde, navnlig om bekæmpelse af terrorisme og grænseoverskridende kriminalitet.
+11) tilladelser til udenlandske embedsmænd, der udfører opgaver i Danmark efter artikel 17 og 18 i Rådets afgørelse 2008/616/RIA af 23. juni 2008 om gennemførelse af afgørelse 2008/615/RIA om intensivering af det grænseoverskridende samarbejde, navnlig om bekæmpelse af terrorisme og grænseoverskridende kriminalitet og
 
-Stk. 2. Afgiften nedsættes til det halve, hvis ansøgeren i forvejen har en våbentilladelse, for hvilken der er betalt fuld afgift.
+12) tilladelser til at erhverve, besidde og bære peberspray for personer med et særligt behov for beskyttelse.
 
-Stk. 3. En våbentilladelse kan kun omfatte ét våben. Justitsministeren kan dog fastsætte regler om, at visse tilladelser kan omfatte flere våben.
+Stk. 2. En våbentilladelse kan kun omfatte ét våben. Justitsministeren kan dog fastsætte regler om, at visse tilladelser kan omfatte flere våben.
 
-Stk. 4. Såfremt indehaveren af en våbentilladelse til et bestemt våben udskifter våbenet, skal der udstedes ny tilladelse.
+Stk. 3. Såfremt indehaveren af en våbentilladelse til et bestemt våben udskifter våbenet, skal der udstedes ny tilladelse.
 
-Stk. 5. Skifter indehaveren af en våbentilladelse navn, adresse eller skytteforening, kan der afgiftsfrit udstedes ny våbentilladelse med samme gyldighed som den oprindelige tilladelse.
+Stk. 4. Skifter indehaveren af en våbentilladelse navn, adresse eller skytteforening, kan der afgiftsfrit udstedes ny våbentilladelse med samme gyldighed som den oprindelige tilladelse.
 
-Stk. 6. Er en tilladelse beskadiget eller bortkommet, kan der udstedes tilladelse med samme gyldighed som den oprindelige tilladelse mod betaling af 200 kr.
+Stk. 5. Er en tilladelse beskadiget eller bortkommet, kan der udstedes tilladelse med samme gyldighed som den oprindelige tilladelse mod betaling af 200 kr.
 
-Stk. 7. For meddelelse af tilladelse efter denne lovs § 4 c, stk. 1, betales 5.000 kr.
+Stk. 6. For meddelelse af tilladelse efter denne lovs § 4 c, stk. 1, betales 5.000 kr.
