@@ -2,7 +2,7 @@
 
 Stk. 2. Ved den ansvarlige for en miljøskade eller en overhængende fare for en miljøskade som nævnt i § 47 c, stk. 1-3, forstås den ansvarlige for driften, uanset hvordan skaden eller den overhængende fare for en skade er sket.
 
-Stk. 3. Ved den ansvarlige for en miljøskade eller en overhængende fare for en miljøskade på beskyttede arter eller internationale naturbeskyttelsesområder som nævnt i § 47 c, stk. 4, forstås den ansvarlige for driften, hvis skaden eller den overhængende fare for en skade skyldes uforsvarlig adfærd udvist af den pågældende.
+Stk. 3. Ved den ansvarlige for en miljøskade eller en overhængende fare for en miljøskade på beskyttede arter eller naturtyper som nævnt i § 47 c, stk. 4, forstås den ansvarlige for driften, hvis skaden eller den overhængende fare for en skade skyldes uforsvarlig adfærd udvist af den pågældende.
 
 Stk. 4. Ved den ansvarlige for at undersøge, forebygge og afhjælpe en miljøskade eller en overhængende fare for miljøskade, der hidrører fra efterforskning, produktion eller transport af kulbrinter på dansk søterritorium og dansk kontinentalsokkelområde, forstås den ansvarlige for driften.
 

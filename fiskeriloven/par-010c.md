@@ -1,4 +1,4 @@
-§ 10 c. Ministeren for fiskeri og ligestilling fastsætter regler om forebyggelse og anmeldelse af en miljøskade eller en overhængende fare for en miljøskade på beskyttede arter og internationale naturbeskyttelsesområder i forbindelse med udøvelse af erhvervsmæssige fiskeriaktiviteter til gennemførelse af direktiv om miljøansvar, for så vidt angår forebyggelse og afhjælpning af miljøskader, herunder om
+§ 10 c. Ministeren for fødevarer, landbrug og fiskeri fastsætter regler om forebyggelse og anmeldelse af en miljøskade eller en overhængende fare for en miljøskade på beskyttede arter og naturtyper i forbindelse med udøvelse af erhvervsmæssige fiskeriaktiviteter til gennemførelse af direktiv om miljøansvar, for så vidt angår forebyggelse og afhjælpning af miljøskader, herunder om
 
 1) underretnings- og oplysningspligt for den ansvarlige for driften i tilfælde af en miljøskade eller en overhængende fare for en miljøskade,
 

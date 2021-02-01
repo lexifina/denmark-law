@@ -14,7 +14,7 @@ Stk. 2. Følgende erhvervsmæssige aktiviteter er omfattet af stk. 1:
 
 Stk. 3. Pligten efter stk. 1 gælder endvidere, hvis en hvilken som helst anden tilførsel til havet af stoffer og materialer, som kan påvirke søterritoriet, forårsager en miljøskade eller en overhængende fare for en miljøskade.
 
-Stk. 4. Pligten efter stk. 1 gælder også, hvis andre erhvervsmæssige aktiviteter end dem, der er omfattet af stk. 1 og 3, forårsager en miljøskade eller en overhængende fare for en miljøskade på beskyttede arter og internationale naturbeskyttelsesområder som fastlagt i §§ 7, 10 og 11 i miljøskadeloven og miljøskaden eller den overhængende fare for en miljøskade skyldes uforsvarlig adfærd udvist af den pågældende.
+Stk. 4. Pligten efter stk. 1 gælder også, hvis andre erhvervsmæssige aktiviteter end dem, der er omfattet af stk. 1 og 3, forårsager en miljøskade eller en overhængende fare for en miljøskade på beskyttede arter eller naturtyper som fastlagt i §§ 7, 10 og 11 i miljøskadeloven og miljøskaden eller den overhængende fare for en miljøskade skyldes uforsvarlig adfærd udvist af den pågældende.
 
 Stk. 5. Ud over pligten i stk. 1 skal den ansvarlige for driften af en platform og en rørledning ved olie- og kemikalieforurening af havet straks iværksætte den interne beredskabsplan, som er påbudt eller reguleret af regler udstedt i medfør af § 34 a, stk. 3.
 
