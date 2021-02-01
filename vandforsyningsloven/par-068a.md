@@ -2,4 +2,4 @@
 
 Stk. 2. Ved den ansvarlige for en miljøskade eller en overhængende fare for en miljøskade som følge af en vandindvinding, bortledning af grundvand eller anden sænkning af grundvandsstanden som led i en erhvervsmæssig aktivitet forstås den ansvarlige for driften, uanset hvordan skaden eller den overhængende fare for en skade er sket.
 
-Stk. 3. Ved den ansvarlige for en miljøskade eller en overhængende fare for en miljøskade på beskyttede arter eller internationale naturbeskyttelsesområder som fastlagt i §§ 7, 10 og 11 i miljøskadeloven, som ikke er omfattet af stk. 2, forstås den ansvarlige for driften, hvis skaden eller den overhængende fare for en skade skyldes uforsvarlig adfærd udvist af den pågældende.
+Stk. 3. Ved den ansvarlige for en miljøskade eller en overhængende fare for en miljøskade på beskyttede arter eller naturtyper som fastlagt i §§ 7, 10 og 11 i miljøskadeloven, som ikke er omfattet af stk. 2, forstås den ansvarlige for driften, hvis skaden eller den overhængende fare for en skade skyldes uforsvarlig adfærd udvist af den pågældende.
