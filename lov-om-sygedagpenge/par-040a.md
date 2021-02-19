@@ -6,4 +6,4 @@ Stk. 2. Arbejdsløshedskassen skal anmelde sygefraværet til medlemmets opholdsk
 
 Stk. 3. Anmeldelse af sygefraværet til kommunen skal ske via Nemrefusion.
 
-Stk. 4. Medlemmet skal ved et underretningsbrev fra Nemrefusion orienteres om de oplysninger, som arbejdsløshedskassen har afgivet til Nemrefusion ved anmeldelsen af sygefraværet. Er medlemmet ikke enig i de af arbejdsløshedskassen afgivne oplysninger, skal medlemmet senest 8 dage efter afsendelsen af underretningsbrevet fra Nemrefusion gøre kommunen opmærksom herpå ved digital selvbetjening, jf. § 69 a.
+Stk. 4. Medlemmet skal ved et underretningsbrev orienteres om de oplysninger, som arbejdsløshedskassen har afgivet til Nemrefusion ved anmeldelsen af sygefraværet. Er medlemmet ikke enig i de af arbejdsløshedskassen afgivne oplysninger, skal medlemmet senest 8 dage efter kommunens afsendelse af underretningsbrevet gøre kommunen opmærksom herpå ved digital selvbetjening, jf. § 69 a.
