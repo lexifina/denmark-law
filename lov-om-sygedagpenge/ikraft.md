@@ -38,15 +38,15 @@ Stk. 1. Loven træder i kraft den 1. januar 2009, jf. dog stk. 2. § 11 finder a
 
 Stk. 2. (Udelades)
 
-Lov nr. 283 af 15. april 2009 (digital indberetningsløsning til brug for anmeldelse af sygefravær samt anmodning om refusion af sygedagpenge og dagpenge efter barselloven) indeholder følgende ikrafttrædelsesbestemmelse:
+Lov nr. 283 af 15. april 2009 om digital indberetningsløsning til brug for anmeldelse af sygefravær samt anmodning om refusion af sygedagpenge og dagpenge efter barselloven indeholder følgende ikrafttrædelsesbestemmelse:
 
-§ 17
+§ 17. Loven træder i kraft dagen efter bekendtgørelsen i Lovtidende, jf. dog stk. 2 og 3.
 
-Stk. 1-2. (Udelades)
+Stk. 2. (Udelades)
 
 Stk. 3. Beskæftigelsesministeren fastsætter tidspunktet for ikrafttrædelse af lovens § 5 om arbejdsgiverens, den selvstændigt erhvervsdrivendes og arbejdsløshedskassens forpligtelser. Beskæftigelsesministeren fastsætter samtidig tidspunktet for ikrafttrædelse af lovens § 18.
 
-Lov nr. 480 af 12. juni 2009 (En styrket beskæftigelsesrettet indsats over for sygemeldte m.fl.), som ændret ved lov nr. 50 af 25. januar 2012, indeholder følgende ikrafttrædelses- og overgangsbestemmelser:
+Lov nr. 480 af 12. juni 2009 (En styrket beskæftigelsesrettet indsats over for sygemeldte m.fl.) indeholder følgende ikrafttrædelses- og overgangsbestemmelser:
 
 § 5
 
@@ -90,7 +90,7 @@ Lov nr. 483 af 12. juni 2009 (Etablering af et enstrenget kommunalt beskæftigel
 
 Stk. 1. Loven træder i kraft den 1. august 2009, jf. dog stk. 2 og 3.
 
-Stk. 2-3. (Udelades)
+Stk. 2 og 3. (Udelades)
 
 Lov nr. 247 af 23. marts 2010 (Ændring af reglerne om forlængelse af sygedagpengeperioden, sygedagpenge til selvstændige og ophævelse af bestemmelser om indbetaling til Særlig Pensionsopsparing (SP) m.v.) indeholder følgende ikrafttrædelses- og overgangsbestemmelser:
 
@@ -228,7 +228,7 @@ Lov nr. 928 af 18. september 2012 (Ændret regulering af forskellige indkomstove
 
 Stk. 1. Loven træder i kraft den 1. januar 2013.
 
-Stk. 2. (Udelades)
+Stk. 2 og 3. (Udelades)
 
 Lov nr. 1378 af 23. december 2012 (Forhøjelse af virksomhedernes finansieringsbidrag ved forsikringsordningen for mindre, private arbejdsgivere) indeholder følgende ikrafttrædelsesbestemmelse:
 
@@ -290,7 +290,7 @@ Stk. 3. § 1, nr. 1, 3-18, 31-39 og 41-58, § 2, nr. 31, § 4, nr. 1, 2, 4, 10, 
 
 Stk. 1. § 1, nr. 22-29, finder anvendelse på sygedagpengemodtagere med første fraværsdag den 1. juli 2014 eller senere. Bestemmelserne finder ligeledes anvendelse på sygedagpengemodtagere, der den 1. juli 2014 har modtaget sygedagpenge fra kommunen i 22 uger eller derunder i de 9 forudgående kalendermåneder.
 
-Stk. 2-3. (Udelades)
+Stk. 2 og 3. (Udelades)
 
 Stk. 4. Ny visitation og opfølgning i sygedagpengesager efter § 1, nr. 10-17, finder anvendelse, første gang der den 5. januar 2015 eller senere skal følges op.
 
@@ -298,11 +298,9 @@ Stk. 5. § 5 finder anvendelse på sygdomsforløb, der påbegyndes den 5. januar
 
 Stk. 6. § 1, nr. 53, finder anvendelse for sygedagpengemodtagere med første fraværsdag den 5. januar 2015 eller senere. For sygedagpengemodtagere med første fraværsdag før den 5. januar 2015 beregnes sygedagpengene efter den gældende § 47 i lov om sygedagpenge. Eventuel omberegning efter den 5. januar 2015 vurderes og foretages efter § 1, nr. 53.
 
-Lov nr. 1482 af 23. december 2014 (Lov om organisering og understøttelse af beskæftigelsesindsatsen m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
+Lov nr. 1482 af 23. december 2014 om organisering og understøttelse af beskæftigelsesindsatsen m.v. indeholder følgende ikrafttrædelsesbestemmelse:
 
-§ 56
-
-Stk. 1. Loven træder i kraft den 1. januar 2015, jf. dog stk. 2 og 3.
+§ 56. Loven træder i kraft den 1. januar 2015, jf. dog stk. 2 og 3.
 
 Stk. 2. § 58, nr. 1, og § 59 træder i kraft den 5. januar 2015.
 
@@ -326,7 +324,7 @@ Stk. 5. (Udelades)
 
 § 10
 
-Stk. 1-12 (Udelades)
+Stk. 1-12. (Udelades)
 
 Stk. 13. § 4, nr. 1, finder anvendelse for personer, der ved første fraværsdag den 1. juli 2014 eller senere ville have haft ret til sygedagpenge, hvis de ikke var omfattet af tidsbegrænsningen i § 24, stk. 1, i lov om sygedagpenge. Hvis kommunen træffer afgørelse om, at en sygemeldt ikke har ret til sygedagpenge fra første fraværsdag, og personen derfor kan modtage ressourceforløbsydelse under et jobafklaringsforløb, jf. denne lovs § 1, nr. 64, og § 69 j i lov om aktiv socialpolitik, fra den 1. juli 2014 eller senere, vil en arbejdsgiver, der har udbetalt løn i perioden, have ret til refusion efter denne lovs § 3, nr. 15 og 16. Der ses bort fra arbejdsgiverens normale frist for anmodning om refusion for udbetalt løn efter § 69, stk. 1-3, i lov om aktiv socialpolitik, som er fastsat i § 2 i bekendtgørelse om arbejdsgiveres anmodning om refusion og tilbagebetaling af refusion i forbindelse med medarbejderes deltagelse i et jobafklaringsforløb m.v.
 
@@ -450,7 +448,7 @@ Stk. 1. Loven træder i kraft dagen efter bekendtgørelsen i Lovtidende.
 
 Stk. 2. Lovens §§ 2-16 finder ikke anvendelse for afgørelser om inddragelse af pas, der er truffet inden lovens ikrafttræden, og domme, der vedrører forhold begået inden lovens ikrafttræden.
 
-Stk. 3. Regler fastsat i medfør af § 39, stk. 10, i lov om statens uddannelsensstøtte (SU-loven), jf. lovbekendtgørelse nr. 39 af 15. januar 2014 med senere ændringer, forbliver i kraft, indtil de ophæves eller afløses af nye regler.
+Stk. 3. Regler fastsat i medfør af § 39, stk. 10, i lov om statens uddannelsesstøtte (SU-loven), jf. lovbekendtgørelse nr. 39 af 15. januar 2014 med senere ændringer, forbliver i kraft, indtil de ophæves eller afløses af nye regler.
 
 Lov nr. 1541 af 19. december 2017 (Ordningen med ret til sygedagpenge ved livstruende, alvorlig sygdom gøres permanent) indeholder følgende ikrafttrædelsesbestemmelse:
 
@@ -480,11 +478,11 @@ Stk. 4. (Udelades)
 
 § 10
 
-Stk. 1-2. (Udelades)
+Stk. 1 og 2. (Udelades)
 
 Stk. 3. Regler fastsat i medfør af § 66, stk. 14 og 15, i lov om sygedagpenge, jf. lovbekendtgørelse nr. 38 af 19. januar 2018, forbliver i kraft, indtil de ophæves eller afløses af forskrifter udstedt i medfør af § 66, stk. 15 og 16, i lov om sygedagpenge.
 
-Stk. 4-5. (Udelades)
+Stk. 4 og 5. (Udelades)
 
 Lov nr. 707 af 8. juni 2018 (Mulighed for at udarbejde en helhedsorienteret plan til borgere med komplekse og sammensatte problemer) indeholder følgende ikrafttrædelsesbestemmelse:
 
@@ -520,7 +518,7 @@ Stk. 1. Loven træder i kraft den 1. januar 2019.
 
 Stk. 2. Loven finder ikke anvendelse for domme efter straffelovens § 81 a, der vedrører forhold begået inden lovens ikrafttræden.
 
-Stk. 3-4. (Udelades)
+Stk. 3 og 4. (Udelades)
 
 Lov nr. 1710 af 27. december 2018 (Opholdskrav for ret til arbejdsløshedsdagpenge m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
 
@@ -529,12 +527,6 @@ Lov nr. 1710 af 27. december 2018 (Opholdskrav for ret til arbejdsløshedsdagpen
 Loven træder i kraft den 1. januar 2019.
 
 Lov nr. 339 af 2. april 2019 (Indførelse af obligatorisk pensionsordning for overførselsindkomstmodtagere og tillæg til refusion til arbejdsgivere samt ændring af satsregulering af forskellige overførselsindkomster) indeholder følgende ikrafttrædelsesbestemmelse:
-
-§ 15
-
-Loven træder i kraft den 1. januar 2020.
-
-Overgangsbestemmelsen er ændret ved § 6, nr. 2, i lov nr. 1557 af 27. december 2019, og har herefter følgende ordlyd:
 
 § 15
 
@@ -558,7 +550,7 @@ Lov nr. 551 af 7. maj 2019 (Konsekvenser af aftale om en forenklet beskæftigels
 
 Stk. 1. Loven træder i kraft den 1. juli 2019, jf. dog stk. 2-5.
 
-Stk. 2-3. (Udelades)
+Stk. 2 og 3. (Udelades)
 
 Stk. 4. § 1, nr. 1-7, 14-21 og 23, § 2 nr. 1-10, 12-19, 21, 22, 24-49, 51, 53-61, 63-66, 68-83, 85-89 og 91-98, §§ 3-6, § 7, nr. 1-5, 7-14 og 17, §§ 8-25, § 26, nr. 1-20, 22 og 23, og §§ 28 og 29 træder i kraft den 1. januar 2020.
 
@@ -593,3 +585,135 @@ Lov nr. 1559 af 27. december 2019 (Indførelse af seniorpension) indeholder føl
 § 23
 
 Loven træder i kraft den 1. januar 2020.
+
+Lov nr. 212 af 17. marts 2020 (Udvidet ret for arbejdsgiver til refusion og for selvstændige til sygedagpenge som følge af covid-19) indeholder følgende ikrafttrædelses- og virkningsbestemmelser:
+
+§ 2
+
+Stk. 1. Loven træder i kraft dagen efter bekendtgørelsen i Lovtidende, jf. dog stk. 3.
+
+Stk. 2. Lovforslaget kan stadfæstes straks efter dets vedtagelse.
+
+Stk. 3. §§ 43 a og 53 b i lov om sygedagpenge som affattet ved denne lovs § 1 ophæves den 1. januar 2021.
+
+§ 3
+
+Stk. 1. § 1, nr. 1, finder anvendelse for selvstændige erhvervsdrivende, hvor første fraværsdag på grund af covid-19 indtraf den 27. februar 2020 eller senere. For fravær som følge af covid-19 med første fraværsdag i perioden fra den 27. februar 2020 og frem til lovens ikrafttrædelse kan der indgives anmodning om sygedagpenge indtil den 15. april 2020.
+
+Stk. 2. § 1, nr. 2, finder anvendelse for en arbejdsgiver, der søger om refusion, hvis lønmodtagerens fravær skyldes covid-19 og første fraværsdag indtraf den 27. februar 2020 eller senere.
+
+Stk. 3. For fraværsdage før den 1. januar 2021 finder bestemmelserne i §§ 43 a og 53 b i lov om sygedagpenge som affattet ved denne lovs § 1 anvendelse, selv om ansøgning er indgivet efter lovens ophævelse, eller hvis ansøgning ikke er færdigbehandlet efter lovens ophævelse.
+
+Lov nr. 275 af 26. marts 2020 (Midlertidig forlængelse af retten til sygedagpenge) indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 2
+
+Stk. 1. Loven træder i kraft ved bekendtgørelsen i Lovtidende, jf. dog stk. 3.
+
+Stk. 2. Lovforslaget kan stadfæstes straks efter dets vedtagelse.
+
+Stk. 3. (Ophævet)
+
+Lov nr. 473 af 22. april 2020 (Forlængelse af 12-månedersperioden i 225-timersreglen som følge af covid-19, forlængelse af perioder, der ses bort fra ved forbrug af arbejdsløshedsdagpenge m.v., og udvidelse af perioden, hvor der sker en midlertidig forlængelse af sygedagpengeperioden) indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 6
+
+Stk. 1. Loven træder i kraft ved bekendtgørelsen i Lovtidende.
+
+Stk. 2. Lovforslaget kan stadfæstes straks efter dets vedtagelse.
+
+Stk. 3 og 4. (Udelades)
+
+Stk. 5. (Ophævet)
+
+Lov nr. 657 af 20. maj 2020 (Midlertidig periode med ret til sygedagpenge for lønmodtagere, der er i øget risiko ved smitte med covid-19, og for lønmodtagere, der er pårørende til personer, der er i øget risiko ved smitte med covid-19) indeholder følgende ikrafttrædelses- og overgangsbestemmelser:
+
+§ 2
+
+Stk. 1. Loven træder i kraft ved bekendtgørelsen i Lovtidende, jf. dog stk. 3.
+
+Stk. 2. Lovforslaget kan stadfæstes straks efter dets vedtagelse.
+
+Stk. 3. (Ophævet)
+
+§ 3
+
+For fraværsdage før den 1. september 2020 finder bestemmelserne i §§ 58 b-58 e i lov om sygedagpenge som affattet ved denne lovs § 1, nr. 1, anvendelse, selv om ansøgning er indgivet efter lovens ophævelse eller ikke er færdigbehandlet på tidspunktet for lovens ophævelse.
+
+Lov nr. 960 af 26. juni 2020 (Yderligere forlængelse af perioder, der ses bort fra ved forbrug af arbejdsløshedsdagpenge, midlertidig ret til dagpenge til selvstændige og yderligere midlertidig forlængelse af retten til sygedagpenge) indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 4
+
+Stk. 1. Loven træder i kraft dagen efter bekendtgørelsen i Lovtidende.
+
+Stk. 2. Lovforslaget kan stadfæstes straks efter dets vedtagelse.
+
+Lov nr. 1335 af 11. september 2020 (Forlængelse af den midlertidige periode med ret til sygedagpenge for lønmodtagere, der er i øget risiko ved smitte med covid-19, og for lønmodtagere, der er pårørende til personer, der er i øget risiko ved smitte med covid-19, udvidelse af perioden, hvor der sker en midlertidig forlængelse af sygedagpengeperioden, og indførelse af periode, der helt eller delvis kan ses bort fra ved vurdering af beskæftigelseskravet for ret til syge- eller barselsdagpenge for selvstændige erhvervsdrivende, som følge af covid-19-situationen) indeholder følgende ikrafttrædelses- og overgangsbestemmelser:
+
+§ 4
+
+Stk. 1. Loven træder i kraft ved bekendtgørelsen i Lovtidende.
+
+Stk. 2. Lovforslaget kan stadfæstes straks efter dets vedtagelse.
+
+Stk. 3. Loven har virkning fra den 1. september 2020.
+
+§ 5
+
+Stk. 1. For fravær med første fraværsdag i perioden fra den 1. marts 2020 og frem til lovens ikrafttræden, hvor der på grund af manglende aktivitet i virksomheden ikke ville være ret til sygedagpenge uden bestemmelsen om, at der helt eller delvis kan ses bort fra perioden fra den 1. marts 2020 til og med den 31. august 2020, kan der indgives anmodning om sygedagpenge indtil den 1. november 2020. Kommunen kan se bort fra overskridelse af fristen i 1. pkt. af de grunde, som fremgår af § 43, stk. 5. For en person, der den 1. marts 2020 eller senere har haft første sygefraværsdag, og som kommunen har givet afslag på sygedagpenge på grund af manglende opfyldelse af beskæftigelseskravet efter § 42, skal kommunen dog genoptage sagen med henblik på fornyet behandling, hvor det indgår i vurderingen, at der helt eller delvis kan ses bort fra perioden fra den 1. marts 2020 til og med den 31. august 2020.
+
+Stk. 2. (Udelades)
+
+Lov nr. 1337 af 11. september 2020 (Midlertidig dagpengeret, højere dagpengemaksimum, beregning på grundlag af ikkemedlemsperioder, suspension af dagpengeforbrug, bedre uddannelsesmuligheder til personer omfattet af en arbejdsfordelingsordning og fast arbejdsgiverbidrag m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 4
+
+Stk. 1. Loven træder i kraft den 14. september 2020.
+
+Stk. 2. Lovforslaget kan stadfæstes straks efter dets vedtagelse.
+
+Lov nr. 1642 af 19. november 2020 (Forlængelse af dagpengeperioden og retten til sygedagpenge, genindførelse af forlængelse af 12-månedersperioden i 225-timersreglen og konsekvensrettelse i lov om seniorjob som følge af dagpengeperiodens forlængelse) indeholder følgende ikrafttrædelses- og overgangsbestemmelser:
+
+§ 5
+
+Stk. 1. Loven træder i kraft den 20. november 2020.
+
+Stk. 2. Lovforslaget kan stadfæstes straks efter dets vedtagelse.
+
+§ 6
+
+(Udelades)
+
+§ 7
+
+Kommunen skal genoptage sager, hvor kommunen har truffet afgørelse efter § 24, stk. 2, § 24 c, stk. 1, eller § 27, stk. 3, i lov om sygedagpenge om, at en sygedagpengemodtager pr. 1. november 2020 eller senere skal overgå til et jobafklaringsforløb med ressourceforløbsydelse med henblik på at forlænge retten til sygedagpenge efter § 26 f i lov om sygedagpenge som affattet ved denne lovs § 2, nr. 1. Hvis personen fortsat er uarbejdsdygtig på grund af egen sygdom, har personen ret til at få udbetalt sygedagpenge efter § 26 f i lov om sygedagpenge som affattet ved denne lovs § 2, nr. 1, i 3 måneder fra datoen, hvor personen efter den allerede trufne afgørelse skulle overgå til jobafklaringsforløbet. Herefter overgår den sygemeldte til jobafklaringsforløbet.
+
+Lov nr. 2189 af 29. december 2020 (Ret til fravær i 26 uger for forældre, der mister et barn under 18 år, (sorgorlov) og bemyndigelse til at fastsætte særlige regler om revision af nogle kommuners regnskaber for regnskabsåret 2021 på områder med statsrefusion eller statstilskud) indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 12
+
+Stk. 1. Loven træder i kraft den 1. januar 2021.
+
+Stk. 2. Lovens §§ 1-4 finder anvendelse for forældre til et barn, som den 1. januar 2021 eller senere er dødfødt eller dør inden det fyldte 18. år.
+
+Lov nr. 2202 af 29. december 2020 (Indførelse af ret til tidlig pension) indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 17
+
+Stk. 1. Loven træder i kraft den 1. januar 2021.
+
+Stk. 2. (Udelades)
+
+Lov nr. 2204 af 29. december 2020 (Forlængelse af den midlertidige periode med ret til sygedagpenge for lønmodtagere, der er i øget risiko ved smitte med covid-19, og for lønmodtagere, der er pårørende til personer, der er i øget risiko ved smitte med covid-19, forlængelse af den midlertidige periode med udvidet ret for arbejdsgiver til refusion og for selvstændige til sygedagpenge som følge af covid-19 og forlængelse af den midlertidige periode med ret til dagpenge ved pasning af børn som følge af covid-19) indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 4
+
+Loven træder i kraft den 31. december 2020.
+
+Lov nr. 57 af 21. januar 2021 (Suspension af dagpengeforbrug og forlængelse af retten til sygedagpenge som følge af covid-19) indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 3
+
+Stk. 1. Loven træder i kraft ved bekendtgørelsen i Lovtidende.
+
+Stk. 2. Lovforslaget kan stadfæstes straks efter dets vedtagelse.
