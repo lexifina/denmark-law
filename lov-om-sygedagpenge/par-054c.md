@@ -1,0 +1,1 @@
+§ 54 c. Beskæftigelsesministeren fastsætter regler om en arbejdsgivers tillæg til refusion, herunder regler om beregning og udbetaling af tillæg til refusion og tilbagebetaling af tillæg til refusion.
