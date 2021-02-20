@@ -1,7 +1,5 @@
-Givet på Amalienborg, den 30. januar 2018
+Beskæftigelsesministeriet, den 12. februar 2021
 
-Under Vor Kongelige Hånd og Segl
+Peter Hummelgaard
 
-MARGRETHE R.
-
-/ Troels Lund Poulsen
+/ Kirsten Brix Pedersen

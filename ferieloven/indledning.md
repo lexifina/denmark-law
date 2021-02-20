@@ -1,5 +1,3 @@
-Lov om ferie
+Bekendtgørelse af lov om ferie
 
-VI MARGRETHE DEN ANDEN, af Guds Nåde Danmarks Dronning, gør vitterligt:
-
-Folketinget har vedtaget og Vi ved Vort samtykke stadfæstet følgende lov:
+Herved bekendtgøres lov nr. 60 af 30. januar 2018 om ferie med de ændringer, der følger af § 1 i lov nr. 496 af 1. maj 2019.
