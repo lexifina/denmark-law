@@ -1,5 +1,5 @@
 § 24 i. Den boligudgift, der lægges til grund ved boligstøtteberegningen for personer omfattet af § 24 a, stk. 1, nr. 6, er den enkelte beboers faktiske boligudgift for sin andel af boligen opgjort efter § 10. Ved opgørelsen medregnes for en person boligudgiften pr. kvadratmeter bruttoetageareal for 65 m². Bor en person omfattet af § 24 a, stk. 1, nr. 6, i et kollektivt bofællesskab sammen med et eller flere børn, jf. § 7, stk. 2, forøges det i 2. pkt. anførte areal med 20 m². Bor begge forældre i bofællesskabet, forøges arealet efter 3. pkt. hos den af forældrene, hos hvem barnet er medtaget ved beregningen af boligstøtten, jf. § 8, stk. 7.
 
-Stk. 2. Ved beregning af boligudgiften efter stk. 1 finder § 14, stk. 1, anvendelse. Bor begge forældre i bofællesskabet, forhøjes den maksimale boligudgift efter 1. pkt. hos den af forældrene, hos hvem barnet er medtaget ved beregningen af boligstøtten, jf. § 8, stk. 7
+Stk. 2. Ved beregning af boligudgiften efter stk. 1 finder § 14, stk. 1, anvendelse. Bor begge forældre i bofællesskabet, forhøjes den maksimale boligudgift efter 1. pkt. hos den af forældrene, hos hvem barnet er medtaget ved beregningen af boligstøtten, jf. § 8, stk. 7.
 
 Stk. 3. § 15 finder tilsvarende anvendelse for den enkelte bofællesskabsdeltager.

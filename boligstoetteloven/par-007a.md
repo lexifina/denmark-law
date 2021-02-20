@@ -4,6 +4,6 @@
 
 2) En afgørelse truffet af kommunalbestyrelsen efter § 57 a, stk. 7, i lov om social service om manglende efterlevelse af et forældrepålæg vedrørende et barn.
 
-3) En afgørelse truffet af kommunalbestyrelsen om, at ungeydelsen, jf. lov om en børne- og ungeydelse, ikke skal udbetales ved manglende efterlevelse af pligten til uddannelse, beskæftigelse eller anden aktivitet for et barn, der er mellem 15 og 17 år, jf. § 2 a, stk. 3, i lov om vejledning om uddannelse og erhverv samt pligt til uddannelse, beskæftigelse m.v.
+3) En afgørelse truffet af kommunalbestyrelsen om, at ungeydelsen, jf. lov om en børne- og ungeydelse, ikke skal udbetales ved manglende efterlevelse af pligten til uddannelse, beskæftigelse eller anden aktivitet for et barn, der er mellem 15 og 17 år, jf. § 2 a, stk. 3, i lov om kommunal indsats for unge under 25 år.
 
 Stk. 2. En afgørelse efter stk. 1 bortfalder, samtidig med at en afgørelse som nævnt i stk. 1, nr. 1-3, bortfalder.
