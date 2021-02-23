@@ -2,4 +2,4 @@
 
 Stk. 2. De procenter, der er nævnt i stk. 1, forhøjes pr. 1. januar 2002 med 0,4 procentpoint og herefter årligt pr. 1. januar med yderligere 0,4 procentpoint.
 
-Stk. 3. Beløbene i stk. 1 reguleres ikke efter reglerne i § 49, stk. 3, jf. stk. 4,. Udgiften til tillæg afholdes af staten.
+Stk. 3. Beløbene i stk. 1 reguleres ikke efter reglerne i § 49, stk. 3, jf. stk. 4. Udgiften til tillæg afholdes af staten.
