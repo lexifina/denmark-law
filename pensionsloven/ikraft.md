@@ -24,9 +24,7 @@ Stk. 1. Loven træder i kraft den 1. juli 1999, jf. dog stk. 2.
 
 Stk. 2. § 1, nr. 1 og 2, finder anvendelse på personer, der fylder 60 år den 1. juli 1999 eller senere.
 
-Stk. 3. Personer, der er omfattet af stk. 2, og som er bosiddende i Danmark fra før den 1. juli 1999 og frem til det fyldte 65. år, vil kunne opfylde undtagelsesbestemmelsen til kravet om dansk indfødsret, jf. lovens § 2, stk. 2, nr. 1, såfremt de ville kunne have haft 10 års bopæl her i landet ved det fyldte 67. år.
-
-Stk. 4. Personer, der er omfattet af stk. 2, og som er bosiddende i Danmark fra før den 1. juli 1999 og frem til det fyldte 65. år, vil kunne opfylde undtagelsesbestemmelsen til kravet om dansk indfødsret, jf. lovens § 2, nr. 1, såfremt de ville kunne have haft 10 års bopæl her i landet ved det fyldte 67. år.
+Stk. 3. Personer, der er omfattet af stk. 2, og som er bosiddende i Danmark fra før den 1. juli 1999 og frem til det fyldte 65. år, vil kunne opfylde undtagelsesbestemmelsen til kravet om dansk indfødsret, jf. lovens § 2, nr. 1, såfremt de ville kunne have haft 10 års bopæl her i landet ved det fyldte 67. år.
 
 Lov nr. 285 af 25. april 2001 (Førtidspensionsreform) indeholder følgende ikrafttrædelses- og overgangsbestemmelse:
 
@@ -110,7 +108,7 @@ Lov nr. 326 af 11. april 2012 (Fordeling af myndighedsansvaret mellem kommunerne
 
 Stk. 1. Loven træder i kraft den 1. oktober 2012, jf. dog stk. 2-4.
 
-Stk. 2-3. (Udelades)
+Stk. 2 og 3. (Udelades)
 
 Stk. 4. Lovens §§ 1-3, § 7, nr. 7, og §§ 15, 17 og 24 træder i kraft den 1. marts 2013.
 
@@ -172,7 +170,7 @@ Stk. 8. Lovens § 11, nr. 3 og 5, træder i kraft den 1. januar 2014.
 
 § 22
 
-Stk. Stk. 1-9. (Udelades)
+Stk. 1-9. (Udelades)
 
 Stk. 10. § 3, stk. 5, i lov om social pension som ændret ved denne lovs § 11, nr. 1, finder ikke anvendelse for førtidspensionister, der ved lovens ikrafttræden har ret til førtidspension under fast bopæl i udlandet, så længe førtidspensionisten har uafbrudt fast bopæl i et ikke EU/EØS-land eller Schweiz. For sådanne sager finder den hidtil gældende § 3, stk. 5, i lov om social pension anvendelse.
 
@@ -292,11 +290,11 @@ Stk. 1. Loven træder i kraft den 1. december 2015.
 
 Stk. 2. Loven finder alene anvendelse for ansøgninger, anmodninger, meddelelser og klager m.v., der indgives efter lovens ikrafttræden.
 
-Lov nr. 994 af 30. august 2015 (Kommunernes finansiering af visse offentlige ydelser udbetalt af kommunerne, Udbetaling Danmark og arbejdsløshedskasserne) indeholder følgende ikrafttrædelsesbestemmelse:
+Lov nr. 994 af 30. august 2015 om kommunernes finansiering af visse offentlige ydelser udbetalt af kommunerne, Udbetaling Danmark og arbejdsløshedskasserne indeholder følgende ikrafttrædelsesbestemmelse:
 
 § 29. Loven træder i kraft den 4. januar 2016, jf. dog stk. 2.
 
-Stk. 2-3. (Udelades)
+Stk. 2 og 3. (Udelades)
 
 Lov nr. 995 af 30. august 2015 (Harmonisering af regler om opgørelse af bopælstid for folkepension) indeholder følgende ikrafttrædelsesbestemmelse:
 
@@ -372,7 +370,7 @@ Lov nr. 1555 af 19. december 2017 (Konsekvensændringer som følge af skattekont
 
 Stk. 1. Loven træder i kraft den 1. januar 2019 og har virkning fra og med indkomståret 2018, jf. dog stk. 2-4.
 
-Stk. 2-3. (Udelades)
+Stk. 2 og 3. (Udelades)
 
 Stk. 4. Lovens § 1, nr. 2, 5 og 6, § 2, nr. 4 og 8, § 3, nr. 2, 5 og 6, § 4, nr. 6, 7, 12, 14-16 og 18, § 14, nr. 1-6, § 19, nr. 1, § 27, § 28, nr. 2, og §§ 29-33 finder ikke anvendelse på indberetninger vedrørende kalenderåret 2018 eller tidligere. For sådanne indberetninger finder den hidtil gældende skattekontrollov, jf. lovbekendtgørelse nr. 1264 af 31. oktober 2013 med senere ændringer, og forskrifter udstedt i medfør heraf anvendelse.
 
@@ -492,7 +490,7 @@ Lov nr. 1526 af 18. december 2018 (Karantæneordning i ydelsessystemet for bande
 
 § 12
 
-Stk. 1. Loven træder i kraft den 1. januar 2019.
+Stk. 1 Loven træder i kraft den 1. januar 2019.
 
 Stk. 2. Loven finder ikke anvendelse for domme efter straffelovens § 81 a, der vedrører forhold begået inden lovens ikrafttræden.
 
@@ -534,8 +532,268 @@ Stk. 7. Viser den nye fastsættelse af pensionen i februar 2019, jf. stk. 3, at 
 
 Stk. 8-12. (Udelades)
 
+Lov nr. 339 af 2. april 2019 (Indførelse af obligatorisk pensionsordning for overførselsindkomstmodtagere og tillæg til refusion til arbejdsgivere samt ændring af satsregulering af forskellige overførselsindkomster) indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 15
+
+Loven træder i kraft den 1. januar 2020.
+
 Lov nr. 495 af 1. maj 2019 (Ret til at afvise lægebehandling uden ydelsesmæssige konsekvenser) indeholder følgende ikrafttrædelsesbestemmelse:
 
 § 7
 
 Loven træder i kraft den 1. juli 2019.
+
+Lov nr. 551 af 7. maj 2019 (Konsekvenser af aftale om en forenklet beskæftigelsesindsats m.v.) indeholder følgende ikrafttrædelses- og overgangsbestemmelser:
+
+§ 30
+
+Stk. 1. Loven træder i kraft den 1. juli 2019, jf. dog stk. 2-5.
+
+Stk. 2. § 1, nr. 22, træder i kraft den 1. august 2019.
+
+Stk. 3. § 2, nr. 11 og 52, § 7, nr. 6, § 26, nr. 21, og § 27 træder i kraft den 7. december 2019.
+
+Stk. 4. § 1, nr. 1-7, 14-21 og 23, § 2 nr. 1-10, 12-19, 21, 22, 24-49, 51, 53-61, 63-66, 68-83, 85-89 og 91-98, §§ 3-6, § 7, nr. 1-5, 7-14 og 17, §§ 8-25, § 26, nr. 1-20, 22 og 23, og §§ 28 og 29 træder i kraft den 1. januar 2020.
+
+Stk. 5. Beskæftigelsesministeren fastsætter tidspunktet for ikrafttræden af § 2, nr. 20, 23, 50, 62, 67, 84 og 90.
+
+§ 31
+
+For sygedagpengemodtagere, som den 1. januar 2020 har haft mindre end 13 uger med sygedagpenge regnet fra første fraværsdag, skal der i alt holdes mindst fire samtaler i opfølgningsforløbet inden for de første 6 måneder. For sygedagpengemodtagere, som den 1. januar 2020 har haft mellem 13 uger og 6 måneder med sygedagpenge regnet fra første fraværsdag, skal der i perioden frem til det tidspunkt, hvor den sygemeldte har haft 6 måneder med sygedagpenge, holdes samtaler i opfølgningsforløbet på følgende måde:
+
+1) For sygemeldte, som den 1. januar 2020 har haft mellem 13 og 20 uger med sygedagpenge, holdes mindst to samtaler.
+
+2) For sygemeldte, som den 1. januar 2020 har haft mellem 21 og 25 uger med sygedagpenge, holdes mindst en samtale, medmindre der har været holdt i alt mindst fire samtaler inden for de seneste 25 uger forud for den 1. januar 2020.
+
+Lov nr. 1123 af 19. november 2019 (Forhøjelse af fradragsbeløb for folkepension og førtidspension og forøgelse af skattefri seniorpræmie) indeholder følgende ikrafttrædelses- og overgangsbestemmelse:
+
+§ 4
+
+Stk. 1. Loven træder i kraft dagen efter bekendtgørelsen i Lovtidende.
+
+Stk. 2. Loven finder anvendelse fra den 1. januar 2019, jf. dog stk. 6, 12 og 15.
+
+Stk. 3. Pension efter lov om social pension fastsættes på ny i november 2019 for hele opgørelsesperioden fra den 1. januar 2019 til den 31. december 2019, jf. dog stk. 4, 1. pkt., på baggrund af de forhøjede fradragsbeløb, jf. lovens § 1, nr. 2-4, og på grundlag af indtægten opgjort efter §§ 27, 29 og 32 a i lov om social pension, når den nye fastsættelse fører til en forhøjelse af pensionens størrelse. Når en ny fastsættelse af folkepensionen eller førtidspensionen efter lov om social pension fører til en nedsættelse af pensionens størrelse, foretages en omregning af pensionen efter § 39, stk. 2, nr. 1, i lov om social pension.
+
+Stk. 4. For personer, der forud for lovens ikrafttræden har fået omregnet pensionen i 2019 efter § 39, stk. 2, nr. 2 eller 3, i lov om social pension, omregnes pensionen i november 2019 fra seneste omregningstidspunkt på baggrund af de forhøjede fradragsbeløb, jf. lovens § 1, nr. 2-4, og på grundlag af indtægten opgjort efter §§ 27, 29 og 32 a i lov om social pension, når omregningen fører til en forhøjelse af pensionens størrelse. Når en ny fastsættelse af folkepensionen eller førtidspensionen efter lov om social pension fører til en nedsættelse af pensionens størrelse, foretages en omregning af pensionen efter § 39, stk. 2, nr. 1, i lov om social pension. Ved den endelige årlige efterregulering af pensionen for kalenderåret 2019 sker efterreguleringen for hele 2019 på grundlag af de nye forhøjede fradragsbeløb, jf. § 39 b i lov om social pension.
+
+Stk. 5. For folkepensionister, der modtager pension efter stk. 3, 1. pkt., eller er omfattet af stk. 4, 1. pkt., og som får udbetalt pensionen bagud, efterbetales forhøjelsen af pensionens grundbeløb, pensionstillæg og varmetillæg for opgørelsesperioden med pensionen for november 2019 ved udgangen af november 2019. Får folkepensionisten udbetalt pensionen forud, efterbetales forhøjelsen af folkepensionens grundbeløb, pensionstillæg og varmetillæg for opgørelsesperioden med pensionen for december 2019 ved udgangen af november 2019. For førtidspensionister, der modtager pension efter stk. 3, 1. pkt., eller er omfattet af stk. 4, 1. pkt., og som får udbetalt pensionen bagud, efterbetales forhøjelsen af pensionen for opgørelsesperioden med pensionen for november 2019 ved udgangen af november 2019. Får førtidspensionisten udbetalt pensionen forud, efterbetales forhøjelsen af pensionen for opgørelsesperioden med pensionen for december 2019 ved udgangen af november 2019.
+
+Stk. 6. Helbredstillæg efter lov om social pension fastsættes på ny med virkning fra den 1. december 2019. De hidtil gældende regler finder anvendelse indtil den 30. november 2019.
+
+Stk. 7. Giver de forhøjede fradragsbeløb, jf. § 1, nr. 2-4, ret til mediecheck, supplerende pensionsydelse eller en højere supplerende pensionsydelse, end der tidligere er udbetalt i 2019, udbetales disse ydelser med pensionsudbetalingen i november 2019. Den supplerende pensionsydelse efter 1. pkt. efterbetales, hvis Udbetaling Danmark senest den 31. december 2019 modtager nye oplysninger fra pensionisten om formuen pr. 1. januar 2019, som viser, at formuen ikke oversteg formuegrænsen, og betingelserne for ret til supplerende pensionsydelse i øvrigt er opfyldt.
+
+Stk. 8. Viser den nye fastsættelse af pensionen i november 2019, jf. stk. 3 og 4, at der ikke var ret til en i 2019 udbetalt mediecheck eller der er udbetalt for meget supplerende pensionsydelse i 2019 som følge af et forhøjet indtægtsgrundlag, jf. § 29 i lov om social pension, indgår ændringerne i den årlige endelige efterregulering af pensionen i 2020 for kalenderåret 2019, jf. § 39 b i lov om social pension.
+
+Stk. 9. Pension efter lov om højeste, mellemste, forhøjet almindelig og almindelig førtidspension m.v. fastsættes på ny i november 2019 med virkning fra den 1. januar 2019, jf. stk. 2, for hele opgørelsesperioden fra den 1. januar 2019 til den 31. december 2019, jf. dog stk. 10, 1. pkt., på baggrund af de forhøjede fradragsbeløb, jf. lovens § 2, nr. 2-4, og på grundlag af indtægten opgjort efter § 26 i lov om højeste, mellemste, forhøjet almindelig og almindelig førtidspension m.v., når den nye fastsættelse fører til en forhøjelse af pensionens størrelse. Når en ny fastsættelse af førtidspensionen efter lov om højeste, mellemste, forhøjet almindelig og almindelig førtidspension m.v. fører til en nedsættelse af pensionens størrelse, foretages en omregning af pensionen efter § 38, stk. 2, nr. 1, i lov om højeste, mellemste, forhøjet almindelig og almindelig førtidspension m.v.
+
+Stk. 10. For personer, der forud for lovens ikrafttræden har fået omregnet pensionen i 2019 efter § 38, stk. 2, nr. 2 eller 3, i lov om højeste, mellemste, forhøjet almindelig og almindelig førtidspension m.v., omregnes pensionen i november 2019 fra seneste omregningstidspunkt på baggrund af de forhøjede fradragsbeløb, jf. lovens § 2, nr. 2, og på grundlag af indtægten opgjort efter § 26 i lov om højeste, mellemste, forhøjet almindelig og almindelig førtidspension m.v., når omregningen fører til en forhøjelse af pensionens størrelse. Når en ny fastsættelse af førtidspensionen efter lov om højeste, mellemste, forhøjet almindelig og almindelig førtidspension m.v. fører til en nedsættelse af pensionens størrelse, foretages en omregning af pensionen efter § 38, stk. 2, nr. 1, i lov om højeste, mellemste, forhøjet almindelig og almindelig førtidspension m.v. Ved den endelige årlige efterregulering af pensionen for kalenderåret 2019 sker efterreguleringen for hele 2019 på grundlag af de nye forhøjede fradragsbeløb, jf. § 38 a i lov om højeste, mellemste, forhøjet almindelig og almindelig førtidspension m.v.
+
+Stk. 11. For førtidspensionister, der modtager pension efter stk. 9, 1. pkt., eller er omfattet af stk. 10, 1. pkt., og som får udbetalt pensionen bagud, efterbetales forhøjelsen af pensionens pensionstillæg og varmetillæg for opgørelsesperioden med pensionen for november 2019 ved udgangen af november 2019. Får førtidspensionisten udbetalt pensionen forud, efterbetales forhøjelsen af førtidspensionens pensionstillæg og varmetillæg for januar 2019 til og med november 2019 med pensionen for december 2019 ved udgangen af november 2019.
+
+Stk. 12. Helbredstillæg efter lov om højeste, mellemste, forhøjet almindelig og almindelig førtidspension m.v. fastsættes på ny med virkning fra den 1. december 2019. De hidtil gældende regler finder anvendelse indtil den 30. november 2019.
+
+Stk. 13. Giver det nye forhøjede fradragsbeløb, jf. § 2, ret til mediecheck, som ikke er udbetalt tidligere i 2019, udbetales denne med pensionsudbetalingen i november 2019.
+
+Stk. 14. Viser den nye fastsættelse af pensionen i november 2019, jf. stk. 9 og 10, at der ikke var ret til en i 2019 udbetalt mediecheck som følge af et forhøjet indtægtsgrundlag, jf. § 26 i lov om højeste, mellemste, forhøjet almindelig og almindelig førtidspension m.v., indgår ændringerne i den årlige endelige efterregulering af pensionen i 2020 for kalenderåret 2019, jf. § 38 a i lov om højeste, mellemste, forhøjet almindelig og almindelig førtidspension m.v.
+
+Stk. 15. Lovens § 1, nr. 1, og § 2, nr. 1, finder anvendelse fra den 1. juli 2019.
+
+Lov nr. 1420 af 17. december 2019 (Lettelse af grænsehindring ved flytning mellem rigsdelene m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 6
+
+Stk. 1. Loven træder i kraft den 1. januar 2020.
+
+Stk. 2. § 5 har virkning for førtidspensionsydelser, der udbetales for perioder, der vedrører januar 2020 eller senere.
+
+Lov nr. 1558 af 27. december 2019 (Enklere og skærpede sanktioner, styrket kontrol med snyd og færre fejludbetalinger m.v.) indeholder følgende ikrafttrædelses- og overgangsbestemmelse:
+
+§ 20
+
+Stk. 1. Loven træder i kraft den 1. januar 2020, jf. dog stk. 2.
+
+Stk. 2. Beskæftigelsesministeren fastsætter tidspunktet for ikrafttræden af § 1, nr. 20, 21 og 55-57.
+
+Stk. 3. De hidtil gældende regler i lov om aktiv socialpolitik i §§ 8 a, 13-13 d, 25 a og 35-43, § 80, stk. 1, og §§ 91 og 109 finder fortsat anvendelse for hændelser, der er sket før lovens ikrafttræden.
+
+Stk. 4. For personer, der på tidspunktet for denne lovs ikrafttræden modtager hjælp efter §§ 22-25, 68, 69 j og 74 a i lov om aktiv socialpolitik, finder de hidtil gældende regler i lov om aktiv socialpolitik i §§ 8 a, 13-13 d, 25 a, 35-43, 69-69 e, 69 k-69 p og 75-77 b, § 80, stk. 1, og §§ 91 og 109 anvendelse, indtil kommunen har givet vejledning i overensstemmelse med § 35, stk. 1, § 69 a, stk. 1, § 69 l, stk. 1, eller § 75 a, stk. 1, i lov om aktiv socialpolitik, jf. denne lovs § 1, nr. 16, 40, 44 og 53.
+
+Lov nr. 1559 af 27. december 2019 (Indførelse af seniorpension) indeholder følgende ikrafttrædelses- og overgangsbestemmelser:
+
+§ 23
+
+Loven træder i kraft den 1. januar 2020.
+
+§ 24
+
+Stk. 1. Loven finder ikke anvendelse for personer, der har ansøgt om seniorførtidspension inden den 1. januar 2020, jf. det hidtil gældende § 17, stk. 3, i lov om social pension. For disse personer finder de hidtil gældende regler ved tilkendelse af seniorførtidspension anvendelse, jf. dog stk. 2.
+
+Stk. 2. Personer omfattet af stk. 1, 1. pkt., kan med virkning fra den 1. januar 2020 vælge at få ansøgningen færdigbehandlet efter reglerne om seniorpension, jf. § 26 a i lov om social pension som affattet ved denne lovs § 1, nr. 13.
+
+Stk. 3. For personer, der tilkendes seniorpension, jf. § 26 a i lov om social pension som affattet ved denne lovs § 1, nr. 13, og som når folkepensionsalderen inden den 1. juli 2025, er retten til fuld pension betinget af, at bopælstiden udgør mindst fire femtedele af årene fra det fyldte 15. år til det tidspunkt, hvorfra pensionen ydes. Er betingelsen for fuld pension, jf. 1. pkt., ikke opfyldt, fastsættes pensionen efter forholdet mellem bopælstiden og fire femtedele af tiden fra det fyldte 15. år til det tidspunkt, hvorfra pensionen ydes. Den beregnede del af fuld pension nedsættes til nærmeste antal fyrretyvendedele af fuld pension.
+
+Stk. 4. Ved beregning af brøkpension, jf. stk. 3, som er pension, der ydes med et antal fyrretyvendedele af fuld pension, beregnes først fuld pension ved anvendelse af reglerne i kapitel 4 a i lov om social pension. Det således beregnede pensionsbeløb nedsættes til de beregnede antal fyrretyvendedele.
+
+Stk. 5. Personer, der tilkendes seniorpension, jf. § 26 a i lov om social pension som affattet ved denne lovs § 1, nr. 13, og som når folkepensionsalderen inden den 1. juli 2025, overgår til folkepension fra folkepensionsalderen, og pensionen udbetales med samme antal fyrretyvendedele som det, hvormed pensionen hidtil har været fastsat, jf. stk. 3. Ved beregning af brøkfolkepension, jf. 1. pkt., beregnes først fuld pension ved anvendelse af reglerne i kapitel 2 a og 4 i lov om social pension. Den beregnede del af fuld pension nedsættes til nærmeste antal fyrretyvendedele af fuld pension. Tillæg efter §§ 14 og 14 a i lov om social pension nedsættes dog ikke.
+
+Stk. 6. Ved opgørelse af bopælstid for personer, der tilkendes seniorpension, jf. § 26 a i lov om social pension som affattet ved denne lovs § 1, nr. 13, som når folkepensionsalderen inden den 1. januar 2021, som er meddelt opholdstilladelse i Danmark efter udlændingelovens §§ 7 eller 8, og som er indrejst i Danmark inden den 1. september 2015, sidestilles bopæl i oprindelseslandet med bopæl her i riget. Det samme gælder andre lande, hvori den pågældende har haft bopæl på et grundlag svarende til det, der er nævnt i § 7 i udlændingeloven. 1. og 2. pkt. finder anvendelse, uanset om den pågældende opnår dansk indfødsret. 1. og 2. pkt. anvendes kun, så længe den pågældende har fast bopæl her i riget, og anvendes ikke for perioder, hvor den pågældende har ret til pension fra oprindelseslandet og andre lande som nævnt i 2. pkt. 1.-3. pkt. finder tilsvarende anvendelse, når en person overgår fra seniorpension til folkepension ved folkepensionsalderen, jf. stk. 5.
+
+Stk. 7. Ved opgørelse af bopælstid for personer, der tilkendes seniorpension, jf. § 26 a i lov om social pension som affattet ved denne lovs § 1, nr. 13, og som når folkepensionsalderen inden den 1. juli 2025, udbetales pensionen ikke, hvis den udgør mindre end et minimumsbeløb, svarende til en fyrretyvendedel af seniorpensionen. Efter overgang fra seniorpension til folkepension, jf. stk. 5 og 6, udbetales pensionen ikke, hvis den udgør mindre end et minimumsbeløb på en fyrretyvendedel af grundbeløbet.
+
+Stk. 8. For personer, der er tilkendt seniorpension, jf. § 26 a i lov om social pension som affattet ved denne lovs § 1, nr. 13, og som når folkepensionsalderen inden den 1. juli 2025, og for personer, der overgår fra seniorpension til folkepension fra folkepensionsalderen, jf. stk. 5, gælder, at de beløb, der er nævnt i § 49, stk. 1, nr. 3, 9 og 13, i lov om social pension, og minimumsbeløb, jf. stk. 7, afrundes til nærmeste kronebeløb, der kan deles med 12, og de beløb, der er nævnt i § 49, stk. 1, nr. 2, 5-8, 11 og 12, og § 49 c i lov om social pension, afrundes til nærmeste kronebeløb, der kan deles med 100.
+
+Stk. 9. Når kommunalbestyrelsen giver afslag på seniorpension, jf. § 26 a i lov om social pension som affattet ved denne lovs § 1, nr. 13, eller Udbetaling Danmark tilkender en brøkseniorpension på grund af regler om optjening, jf. stk. 3, til personer, der når folkepensionsalderen inden den 1. juli 2025, skal kommunalbestyrelsen i opholdskommunen, uden at borgeren indgiver ansøgning herom, vurdere, om borgeren har ret til anden hjælp fra kommunen. Udbetaling Danmark skal give meddelelse til kommunen om personer, der er omfattet af afgørelserne nævnt i 1. pkt.
+
+Stk. 10. For personer, der er tilkendt seniorpension, jf. § 26 a i lov om social pension som affattet ved denne lovs § 1, nr. 13, som når folkepensionsalderen inden den 1. juli 2025, som er overgået til folkepension fra folkepensionsalderen, og som er berettiget til en brøkfolkepension, jf. stk. 5, nedsættes den beregnede supplerende pensionsydelse i forhold det fastsatte antal fyrretyvendedele.
+
+§ 25
+
+Stk. 1. Loven gælder ikke for Færøerne og Grønland, jf. dog stk. 2.
+
+Stk. 2. § 14 kan ved kongelig anordning sættes helt eller delvis i kraft for Færøerne og Grønland med de ændringer, som henholdsvis de færøske og de grønlandske forhold tilsiger.
+
+Lov nr. 1583 af 27. december 2019 (Tilpasning af refusionsordningen for sandsugere til EU-retten, justering af værnsregler i tonnageskatteordningen, udvidelse af sømandsfradraget til søfolk på forsknings- og havundersøgelsesskibe m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 13
+
+Stk. 1. Loven træder i kraft den 1. januar 2020, jf. dog stk. 2.
+
+Stk. 2. Skatteministeren fastsætter tidspunktet for ikrafttrædelse af lovens § 1, nr. 1 og 2. Ministeren kan fastsætte, at dele af loven træder i kraft på forskellige tidspunkter.
+
+Stk. 3. §§ 1 og 3-6 har virkning fra og med indkomståret 2020.
+
+Stk. 4. § 2 har virkning for indkomstår, der påbegyndes den 1. januar 2020 eller senere.
+
+Stk. 5. Ved opgørelsen af den kommunale slutskat og kirkeskat for indkomståret 2020 efter § 16 i lov om kommunal indkomstskat korrigeres den opgjorte slutskat for den beregnede virkning af de ændringer i udskrivningsgrundlaget for kommuneskat og kirkeskat for 2020, der følger af denne lovs § 1, nr. 1.
+
+Stk. 6. Den beregnede korrektion af den kommunale slutskat og kirkeskat efter stk. 5 fastsættes af social- og indenrigsministeren på grundlag af de oplysninger vedrørende indkomståret 2020, der foreligger pr. 1. maj 2022.
+
+Lov nr. 869 af 14. juni 2020 om Seniorpensionsenheden indeholder følgende ikrafttrædelses- og overgangsbestemmelse:
+
+§ 19. Loven træder i kraft den 15. juni 2020, jf. dog stk. 2.
+
+Stk. 2. Lovens §§ 3 og 4 træder i kraft den 1. januar 2021.
+
+Stk. 3. § 21 finder anvendelse fra den 1. januar 2020.
+
+Stk. 4. Der kan refunderes ikkefradragsberettiget købsmoms, jf. § 17, stk. 1, 2. pkt., for udgifter, der er afholdt af Arbejdsmarkedets Tillægspension til etablering af Seniorpensionsenheden forud for lovens ikrafttræden.
+
+Stk. 5. Den årlige beretning, jf. § 9, stk. 2, og Seniorpensionsenhedens årsrapport, jf. § 11, som vedrører år 2021, omfatter også år 2020.
+
+Stk. 6. Seniorpensionsenheden udmelder et skøn over administrationsbidrag og de endelige administrationsbidrag for 2021, jf. § 15, hurtigst muligt.
+
+§ 20 og 21. (Udelades)
+
+§ 22. Loven gælder ikke for Færøerne og Grønland.
+
+Lov nr. 2190 af 29. december 2020 (Overførsel af myndighedsansvar for seniorpension til Seniorpensionsenheden m.v.) indeholder følgende ikrafttrædelses- og overgangsbestemmelse:
+
+§ 8
+
+Stk. 1. Loven træder i kraft den 1. januar 2021.
+
+Stk. 2. Loven finder ikke anvendelse for ansøgninger om seniorpension indgivet til kommunen inden den 1. januar 2021, jf. den hidtil gældende § 26 b i lov om social pension. For disse ansøgninger finder de hidtil gældende regler ved tilkendelse af seniorpension anvendelse. Når Ankestyrelsen eller Ankestyrelsens Beskæftigelsesudvalg hjemviser en sag om seniorpension den 1. januar 2021 eller senere, finder denne lov anvendelse, og Seniorpensionsenheden skal behandle sagen i 1. instans, uanset om kommunen tidligere har truffet afgørelse i sagen.
+
+Stk. 3. Seniorpensionsenheden foretager genvurdering efter § 66 i lov om retssikkerhed og administration på det sociale område, når kommunalbestyrelsens afgørelse om seniorpension, jf. den hidtil gældende § 26 d, stk. 1, i lov om social pension, er påklaget til Ankestyrelsens Beskæftigelsesudvalg den 1. januar 2021 eller senere, jf. § 50, stk. 4, i lov om social pension.
+
+Stk. 4. Kommunalbestyrelsen skal senest den 31. januar 2021 sende en liste til Seniorpensionsenheden med sager om afslag på seniorpension truffet i 2020 efter § 26 d, jf. § 26 a, stk. 2, nr. 2, i lov om social pension, som ikke er påklaget til Ankestyrelsens Beskæftigelsesudvalg inden den 1. januar 2021, eller som er påklaget efter klagefristens udløb, og derfor ikke behandlet af Ankestyrelsen. Kommunalbestyrelsen skal uden personens samtykke senest den 31. januar 2021 sende sagsakterne fra sagerne på listen efter 1. pkt. til Seniorpensionsenheden, som overtager myndighedsansvaret for sagerne.
+
+Stk. 5. Kommunalbestyrelsens afgørelser i sager om afslag på seniorpension truffet i 2020 efter § 26 d, jf. § 26 a, stk. 2, nr. 2, i lov om social pension, kan på det ved afgørelsen foreliggende dokumentationsgrundlag ekstraordinært påklages til Ankestyrelsens Beskæftigelsesudvalg i 2021. Det er en betingelse, at afgørelsen ikke er påklaget til Ankestyrelsens Beskæftigelsesudvalg og behandlet efter de almindelige klageregler, jf. § 50, stk. 4, i lov om social pension. Inden klagen behandles, skal Seniorpensionsenheden vurdere, om der er grundlag for at give klageren helt eller delvist medhold. Kan Seniorpensionsenheden ikke give klageren medhold, sendes klagen med begrundelsen for afgørelsen og den ekstraordinære genvurdering videre til Ankestyrelsen.
+
+Stk. 6. Seniorpensionsenheden skal senest den 1. maj 2021 vejlede personer i målgruppen for ekstraordinær klageadgang efter stk. 7. Personens klage efter stk. 7 skal ske skriftligt til Seniorpensionsenheden, inden 4 uger efter at personen har modtaget vejledning efter 1. pkt.
+
+Stk. 7. Ældre bekendtgørelser fastsat efter henholdsvis § 26 a, stk. 3, som bliver stk. 4, og § 62, stk. 3, som bliver stk. 4, i lov om social pension og § 26, stk. 6, som bliver stk. 7, i lov om Udbetaling Danmark, skal fortsat have gyldighed.
+
+Stk. 8. § 7 finder anvendelse fra den 1. januar 2020.
+
+Stk. 9. § 3, nr. 1, har virkning for kommunernes ret til refusion af udgifter til ydelserne, som fremgår af § 3, stk. 1, nr. 11 og 16, i lov om kommunernes finansiering af visse offentlige ydelser udbetalt af kommunerne, Udbetaling Danmark og arbejdsløshedskasserne, og som er tilkendt fra og med den 1. juli 2014.
+
+Lov nr. 2197 af 29. december 2020 (Justering af medarbejderaktieordningen for nye, mindre virksomheder, smidiggørelse af forskellige pensionsbeskatningsregler og indberetning af skattepligtige udbetalinger fra finansielle virksomheder til deres kunder m.v.) indeholder følgende ikrafttrædelses- og overgangsbestemmelser:
+
+§ 10
+
+Stk. 1. Loven træder i kraft den 1. januar 2021.
+
+Stk. 2. § 1, nr. 1, har virkning for aftaler om tildeling af aktier, køberetter til aktier og tegningsretter til aktier, der indgås fra og med den 1. januar 2021.
+
+Stk. 3. Pensionsbeskatningslovens § 16, stk. 1, 7. og 8. pkt., som affattet ved denne lovs § 2, nr. 2, pensionsbeskatningslovens § 18, stk. 1, 3. og 4. pkt., som affattet ved denne lovs § 2, nr. 3, pensionsbeskatningslovens § 19, stk. 1, 3. pkt., som affattet ved denne lovs § 2, nr. 5, og pensionsbeskatningslovens § 19, stk. 3, 3. pkt., som affattet ved denne lovs § 2, nr. 7, har virkning for bidrag m.v., der forfalder til indbetaling i 2020 eller senere. Fristen den 1. april i de nævnte bestemmelser udskydes i 2021 til den 1. juli. Hvis det pensionsinstitut, som er modtager af indbetalingen, alene foretager indberetning af faktisk indbetalte bidrag m.v., har pensionsbeskatningslovens § 16, stk. 1, 7. og 8. pkt., som affattet ved denne lovs § 2, nr. 2, pensionsbeskatningslovens § 18, stk. 1, 3. og 4. pkt., som affattet ved denne lovs § 2, nr. 3, pensionsbeskatningslovens § 19, stk. 1, 3. pkt., som affattet ved denne lovs § 2, nr. 5, og pensionsbeskatningslovens § 19, stk. 3, 3. pkt., som affattet ved denne lovs § 2, nr. 7, dog virkning for bidrag m.v., der forfalder til indbetaling i 2023 eller senere.
+
+Stk. 4. § 2, nr. 10, har virkning for tilbagebetalinger af indbetalinger, når indbetalingen sker fra og med den 1. januar 2021.
+
+Stk. 5. § 2, nr. 13, har virkning for udbetalinger, der sker fra og med den 1. juli 2021.
+
+Stk. 6. § 3, nr. 1, 9 og 10, har ikke virkning for indberetninger for december 2020 og tidligere. For sådanne indberetninger finder de hidtil gældende regler anvendelse.
+
+Stk. 7. § 3, nr. 2, 5-8 og 11-16, nr. 17, for så vidt angår indberetninger efter skatteindberetningslovens § 19 a, jf. denne lovs § 3, nr. 8, og skatteindberetningslovens § 27, og nr. 18-24, har ikke virkning for indberetninger for kalenderåret 2020 og tidligere. For sådanne indberetninger finder de hidtil gældende regler anvendelse.
+
+Stk. 8. Ved opgørelsen af den kommunale slutskat og kirkeskat for indkomståret 2021 efter § 16 i lov om kommunal indkomstskat korrigeres den opgjorte slutskat for den beregnede virkning af de ændringer i udskrivningsgrundlaget for kommuneskat og kirkeskat for 2021, der følger af ligningslovens § 7 P, stk. 1, jf. stk. 2, nr. 2, 4. pkt., som affattet ved § 6, nr. 3, i lov nr. 84 af 30. januar 2019, og stk. 7 som affattet ved denne lovs § 1, nr. 1.
+
+Stk. 9. Den beregnede korrektion af den kommunale slutskat og kirkeskat efter stk. 8 fastsættes af social- og indenrigsministeren på grundlag af de oplysninger vedrørende indkomståret 2021, der foreligger pr. 1. maj 2023.
+
+Stk. 10. Regler fastsat i medfør af skatteindberetningslovens § 8, stk. 3, og § 54, stk. 7, jf. lov nr. 1536 af 19. december 2017, forbliver i kraft, indtil de ophæves eller afløses af forskrifter udstedt i medfør af skatteindberetningslovens § 8, stk. 4, som affattet ved dennes lov § 3, nr. 2, og skatteindberetningslovens § 54, stk. 8, som affattet ved dennes lov § 3, nr. 19.
+
+§ 11
+
+Loven gælder ikke for Færøerne og Grønland.
+
+Lov nr. 2202 af 29. december 2020 (Indførelse af ret til tidlig pension) indeholder følgende ikrafttrædelses- og overgangsbestemmelser:
+
+§ 17
+
+Stk. 1. Loven træder i kraft den 1. januar 2021.
+
+Stk. 2. Ældre bekendtgørelser fastsat efter § 33, stk. 9, som bliver stk. 10, i lov om social pension skal fortsat have gyldighed.
+
+§ 18
+
+Stk. 1. Uanset § 26 r, stk. 1, 1. pkt., i lov om social pension som affattet ved denne lovs § 1, nr. 8, kan ansøgning om tidlig pension tidligst indgives til Udbetaling Danmark fra og med den 1. august 2021.
+
+Stk. 2. Uanset § 26 g i lov om social pension som affattet ved denne lovs § 1, nr. 8, kan der tidligst opnås ret til tidlig pension fra og med den 1. januar 2022.
+
+Stk. 3. Uanset § 33, stk. 3, 2. pkt., i lov om social pension som affattet ved denne lovs § 1, nr. 11, udbetales tidlig pension fra den 1. januar 2022 til personer, der ansøger om tidlig pension i august 2021, og som opfylder betingelserne for tidlig pension fra den 1. januar 2022, medmindre personen har fået udbetalt efterløn eller fleksydelse for perioden. I tidlig pension, som udbetales forud for tilkendelsen, fratrækkes sygedagpenge, arbejdsløshedsdagpenge, kontantydelse, integrationsydelse, selvforsørgelses- og hjemrejseydelse, overgangsydelse, ledighedsydelse, ressourceforløbsydelse, uddannelseshjælp og kontanthjælp, der er udbetalt for den samme periode.
+
+Stk. 4. Uanset § 26 r, stk. 2., i lov om social pension som affattet ved denne lovs § 1, nr. 8, træffer Udbetaling Danmark snarest muligt og senest 12 måneder efter Udbetaling Danmarks modtagelse af ansøgningen afgørelse om ret til tidlig pension efter § 26 r, stk. 1, i lov om social pension som affattet ved denne lovs § 1, nr. 8, for personer født i 1959, som i 2021 søger om tidlig pension, og for personer født i 1960 eller senere, som i 2021 eller 2022 søger om tidlig pension. Hvis fristen i særlige tilfælde ikke kan overholdes, skal den pågældende have en redegørelse for, hvad der er årsag til den forlængede sagsbehandlingstid, og besked om, hvornår sagen forventes afgjort.
+
+§ 19
+
+Indberetning af værdien af pensionsrettigheder for en person, der er født før den 1. juli 1959, skal uanset § 32 i i lov om social pension som affattet ved denne lovs § 1, nr. 9, ske kort før den fastsatte efterlønsalder for den aldersgruppe, som personen tilhører, jf. § 74 i lov om arbejdsløshedsforsikring m.v.
+
+§ 20
+
+Stk. 1. Personer, der inden den 1. januar 2022 er overgået til efterløn eller fleksydelse, har ret til en kompensation ved overgang fra efterløn eller fleksydelse til tidlig pension. Udbetaling Danmark beregner og udbetaler kompensationen, som udgør et beløb, der på udbetalingstidspunktet svarer til tre gange dagpengenes højeste beløb for en dag, jf. § 47 i lov om arbejdsløshedsforsikring m.v., for hver hele måned, der er efter overgangen til tidlig pension, indtil den 1. i måneden efter at personen når folkepensionsalderen, jf. § 1 a i lov om social pension.
+
+Stk. 2. Der kan ikke udbetales kompensation, hvis personen har fået tilbagebetalt sine efterlønsbidrag eller fleksydelsesbidrag.
+
+Stk. 3. Der kan ikke udbetales skattefri præmie efter § 74 m i lov om arbejdsløshedsforsikring m.v. til en person, der har fået udbetalt kompensation efter stk. 1.
+
+Stk. 4. Der svares en afgift på 30 pct. af det beløb, der udbetales efter stk. 1. Pensionsbeskatningslovens § 49 A, stk. 6-9, finder tilsvarende anvendelse for personer, der overgår fra efterløn eller fleksydelse til tidlig pension.
+
+Stk. 5. Udbetaling Danmark udbetaler kompensationen, senest 3 måneder efter at personen er overgået til tidlig pension og har anmodet om udbetaling af kompensation.
+
+Stk. 6. Udbetaling Danmark underretter personens arbejdsløshedskasse om overgang til tidlig pension.
+
+Stk. 7. Staten afholder udgiften til kompensation efter stk. 1.
+
+§ 21
+
+Stk. 1. Loven gælder ikke for Færøerne eller Grønland, jf. dog stk. 2.
+
+Stk. 2. Lovens § 16 kan ved kongelig anordning helt eller delvis sættes i kraft for Færøerne og Grønland med de ændringer, som henholdsvis de færøske og de grønlandske forhold tilsiger.
+
+Lov nr. 2203 af 29. december 2020 (Regulering af folkepensionsalderen, ændring af revisionsbestemmelse og konsekvensændring af arbejdsskadeafgiften) indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 3
+
+Loven træder i kraft den 31. december 2020.
+
+Lov nr. 2227 af 29. december 2020 (Adgang til fravalg af den midlertidige indefrysningsordning for grundskyld, ændring af vurderingsterminen for vurderingsåret 2021 og andre tilpasninger på ejendomsområdet samt ændring af beregningsgrundlaget for tinglysningsafgift og indførelse af særordning for godtgørelse af for meget betalt tinglysningsafgift m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 12
+
+Stk. 1. Loven træder i kraft den 1. januar 2021, jf. dog stk. 2.
+
+Stk. 2. § 4, nr. 2, træder i kraft den 1. maj 2021.
+
+Stk. 3. § 6, nr. 1-3, har virkning for ejerskifter, der er anmeldt til tinglysning fra og med den 1. januar 2021.
