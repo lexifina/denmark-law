@@ -1,7 +1,3 @@
 Bekendtgørelse af lov om Udbetaling Danmark
 
-Herved bekendtgøres lov om Udbetaling Danmark, jf. lovbekendtgørelse nr. 1507 af 6. december 2016 om Udbetaling Danmark, med de ændringer, der følger af § 9 i lov nr. 285 af 29. marts 2017, § 26 i lov nr. 287 af 29. marts 2017, § 16 i lov nr. 674 af 8. juni 2017, § 2 i lov nr. 258 af 10. april 2018, § 2 i lov nr. 743 af 8. juni 2018, § 1 i lov nr. 1463 af 11. december 2018 og § 10 i lov nr. 1526 af 18. december 2018.
-
-Den ændring, der følger af § 51 i lov nr. 60 af 30. januar 2018 om ferie, er ikke indarbejdet i denne lovbekendtgørelse, da den træder i kraft den 1. september 2020, jf. § 47, stk. 1, i lov nr. 60 af 30. januar 2018.
-
-Den ændring, der følger af § 3 i lov nr. 1568 af 18. december 2018 om ændring af lov om befordringsrabat til studerende ved videregående uddannelser, lov om befordringsrabat til uddannelsessøgende i ungdomsuddannelser m.v. og lov om Udbetaling Danmark (Målretning af befordringsrabat og godtgørelse efter en kilometersats, hjemmel til at kræve for meget modtaget godtgørelse tilbagebetalt m.v.), er ikke indarbejdet i denne lovbekendtgørelse, da den træder i kraft den 1. juli 2019, jf. § 4, stk. 1, i lov nr. 1568 af 18. december 2018.
+Herved bekendtgøres, jf. lovbekendtgørelse nr. 49 af 16. januar 2019, med de ændringer, der følger af § 51 i lov nr. 60 af 30. januar 2018, § 3 i lov nr. 1568 af 18. december 2018, § 11 i lov nr. 337 af 2. april 2019, § 12 i lov nr. 551 af 7. maj 2019, § 20 i lov nr. 1550 af 27. december 2019, § 3 i lov nr. 1558 af 27. december 2019, § 20 i lov nr. 1559 af 27. december 2019, § 5 i lov nr. 2190 af 29. december 2020 og § 9 i lov nr. 2202 af 29. december 2020.
