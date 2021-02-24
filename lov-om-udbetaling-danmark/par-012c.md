@@ -2,7 +2,7 @@
 
 Stk. 2. Udbetaling Danmark kan efter aftale med Beskæftigelsesministeriet indhente og samkøre oplysninger efter §§ 6 og 7 i lov om barselsudligning for selvstændigt erhvervsdrivende til brug for Beskæftigelsesministeriets administration af lov om barselsudligning for selvstændigt erhvervsdrivende.
 
-Stk. 3. Udbetaling Danmark kan efter aftale med Styrelsen for Arbejdsmarked og Rekruttering indhente og samkøre oplysninger efter § 43, stk. 1 og 2, i lov om ferie til brug for Styrelsen for Arbejdsmarked og Rekrutterings administration af lov om ferie.
+Stk. 3. Udbetaling Danmark kan efter aftale med Beskæftigelsesministeriet indhente og samkøre oplysninger efter § 37, stk. 1 og 4, i lov om ferie til brug for FerieKontos administration af lov om ferie.
 
 Stk. 4. Udbetaling Danmark kan efter aftale med Lønmodtagernes Garantifond indhente og samkøre oplysninger efter § 5, stk. 2 og 3, i lov om Lønmodtagernes Garantifond til brug for Lønmodtagernes Garantifonds administration af lov om Lønmodtagernes Garantifond.
 
