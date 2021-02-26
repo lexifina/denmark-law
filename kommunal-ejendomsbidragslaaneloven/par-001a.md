@@ -4,4 +4,4 @@ Stk. 2. Hvis kommunalbestyrelsen finder, at der foreligger særlige forhold, der
 
 Stk. 3. Kommunalbestyrelsen kan helt ekstraordinært ud over de i stk. 2 nævnte tilfælde undlade at afvise en anmodning, der ikke er indgivet ved digital selvbetjening, hvis der ud fra en samlet økonomisk vurdering er klare fordele for kommunen ved at modtage anmodningen på anden måde end digitalt.
 
-Stk. 4. En digital anmodning anses for at være kommet frem, når den er tilgængelig for kommunalbestyrelsen.«
+Stk. 4. En digital anmodning anses for at være kommet frem, når den er tilgængelig for kommunalbestyrelsen.

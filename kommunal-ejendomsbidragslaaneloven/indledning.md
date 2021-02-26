@@ -1,5 +1,5 @@
-Bekendtgørelse af lov om lån til betaling af ejendomsskatter
+Bekendtgørelse af lov om lån til betaling af grundskyld m.v.
 
-Herved bekendtgøres lov om lån til betaling af ejendomsskatter, jf. lovbekendtgørelse nr. 1007 af 26. oktober 2009, med de ændringer, der følger af lov nr. 1547 af 21. december 2010 og § 2 i lov nr. 622 af 12. juni 2013.
+Herved bekendtgøres lov om lån til betaling af ejendomsskatter, jf. lovbekendtgørelse nr. 1112 af 30. august 2013, med de ændringer, der følger af lov nr. 1555 af 13. december 2016, § 10 i lov nr. 688 af 8. juni 2017, § 1 i lov nr. 278 af 17. april 2018, § 4 i lov nr. 1729 af 27. december 2018, § 3 i lov nr. 1061 af 30. juni 2020 og § 4, nr. 1, i lov nr. 2227 af 29. december 2020.
 
-Den bekendtgjorte lovtekst vedrørende § 1 a, gælder først fra den 1. december 2013, jf. § 17, i lov nr. 622 af 12. juni 2013 om ændring af forskellige lovbestemmelser om ansøgninger, anmeldelser, anmodninger, meddelelser og erklæringer til offentlige myndigheder.
+Den ændring, der følger af § 4, nr. 2, i lov nr. 2227 af 29. december 2020 om ændring af ejendomsvurderingsloven og forskellige andre love (Adgang til fravalg af den midlertidige indefrysningsordning for grundskyld, ændring af vurderingsterminen for vurderingsåret 2021 og andre tilpasninger på ejendomsområdet samt ændring af beregningsgrundlaget for tinglysningsafgift og indførelse af særordning for godtgørelse af for meget betalt tinglysningsafgift m.v.), er ikke indarbejdet i denne lovbekendtgørelse, da ændringen træder i kraft den 1. maj 2021, jf. § 12, stk. 2, i lov nr. 2227 af 29. december 2020.
