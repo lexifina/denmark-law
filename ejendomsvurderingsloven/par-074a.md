@@ -1,0 +1,1 @@
+§ 74 a. Kompensation for ejendomsværdiskat for det indkomstår, hvori en ejendomsejer er afgået ved døden, fastsættes til en forholdsmæssig andel af kompensationen for ejendomsværdiskat for det forudgående indkomstår.
