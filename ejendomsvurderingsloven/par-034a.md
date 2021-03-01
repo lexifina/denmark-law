@@ -1,0 +1,3 @@
+§ 34 a. For ejendomme omfattet af § 34, stk. 1, nr. 1, ansættes en grundværdi ud fra grundværdien pr. kvadratmeter boligareal for en gennemsnitlig, standardiseret ejerlejlighed med samme beliggenhed som ejendommen. Ejendommens grundværdi ansættes endvidere på baggrund af det faktiske boligareal eller det boligareal, der er muligt efter forskrifter udstedt i medfør af planlovgivningen eller anden offentlig regulering, jf. § 18.
+
+Stk. 2. For ejendomme omfattet af § 34, stk. 1, nr. 2, ansættes en grundværdi for hver beboelsesenhed efter samme metode som for ejendomme til helårsbeboelse, jf. § 4, stk. 1, nr. 1.
