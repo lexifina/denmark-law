@@ -1,23 +1,3 @@
-Lov nr. 335 af 14. maj 1992 indeholder følgende ikrafttrædelsesbestemmelse:
-
-§ 2
-
-Stk. 1. Loven træder i kraft den 1. januar 1993.
-
-Stk. 2. Reglerne om registrering omfatter kun hunde, der er født efter lovens ikrafttræden.
-
-Lov nr. 1064 af 23. december 1992 indeholder følgende ikrafttrædelsesbestemmelse:
-
-§ 2
-
-Loven træder i kraft den 1. januar 1993. Reglerne om mærkning og registrering omfatter kun hunde, der er født efter lovens ikrafttræden.
-
-Lov nr. 385 af 28. maj 2003 (Indgreb over for farlige hunde, forbud mod hundekampe m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
-
-§ 2
-
-Loven træder i kraft den 1. juli 2003.
-
 Lov nr. 717 af 25. juni 2010 (Forbud mod besiddelse m.v. af visse hunde, båndpligt, aflivning af hunde, der skambider, midlertidig frakendelse af retten til at have med dyr at gøre m.v.) indeholder følgende ikrafttrædelses- og overgangsbestemmelse:
 
 § 3
@@ -63,3 +43,13 @@ Lov nr. 1194 af 14. november 2017 (Undtagelse fra aflivning af visse ulovlige hu
 Stk. 1. Loven træder i kraft dagen efter bekendtgørelsen i Lovtidende.
 
 Stk. 2. Loven har virkning fra den 15. marts 2017.
+
+Lov nr. 133 af 25. februar 2020 om dyrevelfærd (dyrevelfærdsloven) indeholder følgende ikrafttrædelses- og overgangsbestemmelser:
+
+§ 70. Ministeren for fødevarer, fiskeri og ligestilling fastsætter tidspunktet for lovens ikrafttræden. Ministeren kan herunder fastsætte, at dele af loven træder i kraft på forskellige tidspunkter.
+
+Stk. 2 - 9. (Udelades)
+
+§ 71. (Udelades)
+
+§ 72. Tilladelser meddelt i medfør af § 2 i lov om hunde, jf. lovbekendtgørelse nr. 1373 af 30. november 2017, bevarer deres gyldighed på de meddelte vilkår.
