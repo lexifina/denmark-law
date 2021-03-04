@@ -1,0 +1,1 @@
+§ 56 a. Ministeren for fødevarer, landbrug og fiskeri kan fastsætte regler om, at krav, der omfattes af lov om inddrivelse af gæld til det offentlige, ikke kan modregnes i krav på udbetaling af erstatning efter § 56, stk. 1, vedrørende mink, der er aflivet som følge af SARS-CoV-2 (covid-19).
