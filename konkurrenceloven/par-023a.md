@@ -1,43 +1,7 @@
-§ 23 a. Den, der handler i strid med § 6 eller EUF-traktatens artikel 101, stk. 1, ved at indgå en kartelaftale, opnår efter ansøgning tiltalefrafald for den bøde eller fængselsstraf, vedkommende ellers ville være blevet pålagt for sin deltagelse i kartellet og fritagelse for et eventuelt særskilt krav om konfiskation, hvis ansøgeren som den første henvender sig til myndighederne og fremlægger oplysninger om et kartel, som myndighederne ikke var i besiddelse af på ansøgningstidspunktet, og som,
+§ 23 a. En virksomhed kan gøres ansvarlig og hæfter for civile bøder, der pålægges en anden virksomhed inden for samme økonomiske enhed for overtrædelser af § 6 eller § 11 eller EUF-traktatens artikel 101 eller 102.
 
-1) inden myndighederne har foretaget en kontrolundersøgelse eller ransagning vedrørende det pågældende forhold, giver myndighederne konkret anledning til at iværksætte en kontrolundersøgelse eller en ransagning eller indgive politianmeldelse vedrørende det pågældende forhold eller,
+Stk. 2. Er en virksomhedssammenslutning ikke solvent og kan den derfor ikke betale en bøde, den er blevet pålagt for overtrædelse af § 6 eller § 11 eller EUF-traktatens artikel 101 eller 102, udmålt på grundlag af medlemsvirksomhedernes omsætning, skal sammenslutningen inden for en frist fastsat af Konkurrence- og Forbrugerstyrelsen indkalde bidrag fra medlemsvirksomhederne til betaling af bøden.
 
-2) efter at myndighederne har foretaget en kontrolundersøgelse eller ransagning vedrørende det pågældende forhold, sætter myndighederne i stand til at konstatere en overtrædelse i form af et kartel.
+Stk. 3. Har medlemsvirksomhederne ikke inden for fristen fuldt ud opfyldt forpligtelsen til at betale bidragene efter stk. 2, kan Konkurrence- og Forbrugerstyrelsen opkræve restbeløbet direkte hos enhver af de virksomheder, hvis repræsentanter var medlemmer af sammenslutningens besluttende organer, da overtrædelsen blev begået.
 
-Stk. 2. Tiltalefrafald kan kun opnås, såfremt ansøgeren
-
-1) samarbejder med myndighederne under hele behandlingen af sagen,
-
-2) senest ved indgivelse af ansøgningen bringer sin deltagelse i kartellet til ophør og
-
-3) ikke har tvunget andre til at deltage i kartellet.
-
-Stk. 3. Opfylder en ansøgning om tiltalefrafald ikke de i stk. 1, nr. 1 eller nr. 2, nævnte betingelser, betragtes ansøgningen som en ansøgning om strafnedsættelse, jf. stk. 4.
-
-Stk. 4. Den, der handler i strid med § 6 eller EUF-traktatens artikel 101, stk. 1, ved at indgå en kartelaftale, opnår nedsættelse af den bøde, vedkommende ellers ville være blevet pålagt for sin deltagelse i kartellet, hvis ansøgeren
-
-1) fremlægger oplysninger vedrørende kartellet, som repræsenterer en betydelig merværdi i forhold til de oplysninger, som myndighederne er i besiddelse af, og
-
-2) opfylder de i stk. 2 angivne betingelser.
-
-Stk. 5. Strafnedsættelsen for den første ansøger, der opfylder betingelserne i stk. 4, udgør 50 pct. af den bøde, vedkommende ellers ville være blevet pålagt for sin deltagelse i kartellet. For den anden ansøger, der opfylder betingelserne i stk. 4, udgør strafnedsættelsen 30 pct. For efterfølgende ansøgere, der opfylder betingelserne i stk. 4, udgør strafnedsættelsen op til 20 pct. Et eventuelt særskilt krav om konfiskation mod den første, anden og efterfølgende ansøgere nedsættes med procentsatserne i 1.-3. pkt.
-
-Stk. 6. Der kan indgives en foreløbig ansøgning om tiltalefrafald eller strafnedsættelse. Den foreløbige ansøgning skal færdiggøres inden for den frist, som den kompetente myndighed fastsætter. Færdiggøres den foreløbige ansøgning inden for fristen, anses ansøgningen for indgivet på tidspunktet for indgivelen af den foreløbige ansøgning.
-
-Stk. 7. Ansøgninger om tiltalefrafald eller strafnedsættelse indgives til Konkurrence- og Forbrugerstyrelsen. I sager, hvor personer eller virksomheder er sigtede, eller hvor Statsadvokaten for Særlig Økonomisk og International Kriminalitet har indledt en strafferetlig efterforskning af en formodet overtrædelse i form af et kartel, kan ansøgning om straflempelse tillige indgives til Statsadvokaten for Særlig Økonomisk og International Kriminalitet.
-
-Stk. 8. En ansøgning efter stk. 7 behandles efter følgende procedure:
-
-1) Den myndighed, der modtager ansøgningen, jf. stk. 7, kvitterer for modtagelsen heraf.
-
-2) Den kompetente myndighed, jf. stk. 9, afgiver et foreløbigt tilsagn, der indeholder oplysninger om, hvorvidt betingelserne i stk. 1 eller stk. 4 er opfyldt, og om, hvorvidt der på dette tidspunkt er grundlag for at meddele afslag på ansøgningen, fordi betingelserne i stk. 2 ikke skønnes at være opfyldt.
-
-3) Når sagens oplysning og vurdering er endeligt gennemført, meddeler den kompetente myndighed, jf. stk. 10, om ansøgeren opfylder betingelserne i stk. 2, og meddeler i bekræftende fald tiltalefrafald eller strafnedsættelse i overensstemmelse med det foreløbige tilsagn, som ansøgeren har fået efter nr. 2.
-
-Stk. 9. Et foreløbigt tilsagn afgives af den myndighed, som har modtaget ansøgningen i overensstemmelse med stk. 7. Forinden myndigheden afgiver et foreløbigt tilsagn efter stk. 8, nr. 2, skal tilsagnet være drøftet mellem Konkurrence- og Forbrugerstyrelsen og Statsadvokaten for Særlig Økonomisk og International Kriminalitet. Et foreløbigt tilsagn om tiltalefrafald kan kun gives, hvis myndighederne er enige herom.
-
-Stk. 10. Meddelelse om tiltalefrafald efter stk. 8, nr. 3, afgives af Statsadvokaten for Særlig Økonomisk og International Kriminalitet efter høring af Konkurrence- og Forbrugerstyrelsen. Meddelelse om strafnedsættelse efter stk. 8, nr. 3, afgives af den myndighed, der i den konkrete sag udsteder et administrativt bødeforelæg eller indbringer sagen for domstolene. Forinden en meddelelse om strafnedsættelse kan gives, skal den anden myndighed høres.
-
-Stk. 11. Forskellige virksomheder kan ikke indgive fælles ansøgning om straflempelse, medmindre ansøgerne er koncernforbundne og ansøgningen særskilt angiver, hvilke selskaber ansøgningen skal omfatte.
-
-Stk. 12. En ansøgning fra en virksomhed eller en sammenslutning omfatter automatisk nuværende og tidligere bestyrelsesmedlemmer, ledende medarbejdere eller andre ansatte, forudsat at personerne individuelt opfylder betingelserne i stk. 2. Når sagens oplysning og vurdering er endeligt gennemført, meddeler den kompetente myndighed, jf. stk. 10, om personerne opfylder betingelserne i stk. 2, og meddeler i bekræftende fald tiltalefrafald eller strafnedsættelse i overensstemmelse med det foreløbige tilsagn, som virksomheden eller sammenslutningen har fået efter stk. 8, nr. 2.
+Stk. 4. Efter at Konkurrence- og Forbrugerstyrelsen har krævet betaling i henhold til stk. 3, kan styrelsen også, hvor det er nødvendigt for at sikre fuld betaling af bøden, kræve betaling af udestående bødebeløb hos ethvert medlem af sammenslutningen, der var aktiv på det marked, hvor overtrædelsen fandt sted. Der kan dog ikke kræves betaling af medlemsvirksomheder, som påviser, at de ikke har gennemført sammenslutningens beslutning om en overtrædelse, og som enten ikke har haft kendskab til dennes eksistens eller aktivt har taget afstand fra den, inden Konkurrence- og Forbrugerstyrelsens undersøgelse blev indledt.

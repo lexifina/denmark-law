@@ -1,0 +1,1 @@
+§ 14 b. Konkurrence- og Forbrugerstyrelsen udarbejder ved finansårets udløb en beretning til erhvervsministeren om aktiviteterne i det forløbne år, herunder om udpegning og afgang af medlemmer af Konkurrencerådet og styrelsens direktør, omfanget af tildelte ressourcer og ændring heri sammenlignet med tidligere år. Beretningen offentliggøres.
