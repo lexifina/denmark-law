@@ -2,6 +2,12 @@
 
 Ved kongelig resolution af 27. juni 2019 blev ansvaret for sager vedrørende landbrug, herunder økologi, fødevaresikkerhed, fødevaresundhed og fødevareforsyning, dyrevelfærd, inklusive de til områderne hørende institutioner m.v., sager vedrørende ligestilling, samt sager vedrørende fiskeri henlagt til ministeren for fødevarer, fiskeri og ligestilling, jf. § 8, stk. 1, i bekendtgørelse nr. 794 af 8. august 2019. De øvrige under Miljø- og Fødevareministeriet hørende områder henhører under miljøministerens ledelse og ansvar, jf. bekendtgørelsens § 8, stk. 3.
 
+Ved kongelig resolution af 19. november 2020 blev der oprettet et ministerium for fødevarer, landbrug og fiskeri, og ansvaret for sager vedrørende
+
+landbrug, herunder økologi, fødevaresikkerhed, fødevaresundhed og fødevareforsyning, dyrevelfærd, inklusive de til områderne hørende institutioner mv.,
+
+samt sager vedrørende fiskeri blev henlagt til ministeren for fødevarer, landbrug og fiskeri.
+
 2) Bekendtgjort i Lovtidende den 2. juni 2006. Lovændringen vedrører ændring af § 62.
 
 3) Lovændringen vedrører tilføjelse af § 55, stk. 4.
@@ -45,3 +51,5 @@ Ved kongelig resolution af 27. juni 2019 blev ansvaret for sager vedrørende lan
 22) Lovændringen vedrører ændring af § 30, stk. 1, § 34 a, stk. 1, og § 70, stk. 1, og indsættelse af § 34 d.
 
 23) Lovændringen vedrører indsættelse af § 57 a.
+
+24) Lovændringen vedrører indsættelse af § 56 a. Ændringen er trådt i kraft den 30. december 2020.

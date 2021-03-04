@@ -1,4 +1,4 @@
-§ 34 a. Ministeren for fødevarer, fiskeri og ligestilling kan fastsætte regler om, at store og større svine- og kvægbesætninger skal være omfattet af en skriftlig obligatorisk sundhedsrådgivningsaftales basismodul indgået mellem besætningsejeren eller dennes repræsentant og en dyrlæge, herunder om indholdet af aftalerne og om anmeldelse af indgåede aftaler.
+§ 34 a. Ministeren for fødevarer, landbrug og fiskeri kan fastsætte regler om, at store og større svine- og kvægbesætninger skal være omfattet af en skriftlig obligatorisk sundhedsrådgivningsaftales basismodul indgået mellem besætningsejeren eller dennes repræsentant og en dyrlæge, herunder om indholdet af aftalerne og om anmeldelse af indgåede aftaler.
 
 Stk. 2. Ministeren kan fastsætte regler om, at besætningsejeren eller dennes repræsentant og en dyrlæge frivilligt kan indgå sundhedsrådgivningsaftalens basismodul for svine- og kvægbesætninger, der ikke er omfattet af stk. 1.
 
