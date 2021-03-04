@@ -1,0 +1,7 @@
+§ 23 e. Opfylder en ansøgning om bødefritagelse fra en virksomhed ikke betingelserne i § 23 d, stk. 2, betragtes ansøgningen som en ansøgning om bødenedsættelse, jf. stk. 2-4.
+
+Stk. 2. Den virksomhed, der handler i strid med § 6 eller EUF-traktatens artikel 101, stk. 1, ved at deltage i et kartel, opnår nedsættelse af den bøde, virksomheden ellers ville være blevet pålagt for sin deltagelse i kartellet, hvis ansøgeren fremlægger dokumentation vedrørende kartellet, som repræsenterer en betydelig merværdi i forhold til den dokumentation, som Konkurrence- og Forbrugerstyrelsen allerede er i besiddelse af på tidspunktet for ansøgningen, og opfylder betingelserne i § 23 d, stk. 3 og 4.
+
+Stk. 3. Såfremt ansøgeren fremlægger afgørende dokumentation, som Konkurrence- og Forbrugerstyrelsen benytter til at påvise yderligere forhold, der fører til, at deltagerne i kartellet pålægges større bøder, end det ellers ville have været tilfældet, tages sådanne yderligere forhold ikke i betragtning ved fastsættelsen af en eventuel bøde til den pågældende ansøger.
+
+Stk. 4. Bødenedsættelsen for den første ansøger, der opfylder betingelserne i stk. 2, udgør 50 pct. af den bøde, ansøgeren ellers ville være blevet pålagt for sin deltagelse i kartellet. For den anden ansøger, der opfylder betingelserne i stk. 2, udgør bødenedsættelsen 30 pct. For efterfølgende ansøgere, der opfylder betingelserne i stk. 2, udgør bødenedsættelsen op til 20 pct.

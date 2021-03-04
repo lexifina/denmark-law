@@ -1,0 +1,1 @@
+§ 17 c. Bevismateriale, som kan indgå i vurderingen af, om denne lov eller EUF-traktatens artikel 101 eller 102 er overtrådt, omfatter dokumenter, mundtlige erklæringer, elektroniske meddelelser, optagelser og alle andre genstande, der indeholder oplysninger, uanset hvilken form de har, og hvilket medie de er lagret på.

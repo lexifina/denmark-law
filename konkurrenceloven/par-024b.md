@@ -1,0 +1,3 @@
+§ 24 b. Tredjemand, der kan blive draget strafferetligt til ansvar for den overtrædelse, som sagen angår, kan ikke indtræde som part i sagen efter retsplejelovens § 251.
+
+Stk. 2. Tredjemand, der kan blive draget strafferetligt til ansvar for den overtrædelse, som sagen angår, kan indtræde i sagen for at varetage sine interesser, uanset om den pågældende støtter en af parterne i sagen. Retsplejelovens § 252, stk. 3 og 4, finder tilsvarende anvendelse. Retten beskikker efter anmodning en advokat for den pågældende. Om salær og godtgørelse for udlæg til den beskikkede advokat gælder det samme som i tilfælde, hvor der er meddelt fri proces, jf. retsplejelovens kapitel 31.
