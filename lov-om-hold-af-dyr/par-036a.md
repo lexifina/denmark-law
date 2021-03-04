@@ -1,1 +1,1 @@
-§ 36 a. Ministeren for fødevarer, fiskeri og ligestilling kan fastsætte regler om indberetning af laboratorieresultater fra de i § 30 a nævnte undersøgelser for kemiske forureninger og om offentliggørelse af resultater fra laboratorieprøver.
+§ 36 a. Ministeren for fødevarer, landbrug og fiskeri kan fastsætte regler om indberetning af laboratorieresultater fra de i § 30 a nævnte undersøgelser for kemiske forureninger og om offentliggørelse af resultater fra laboratorieprøver.

@@ -1,4 +1,4 @@
-§ 34 c. Ministeren for fødevarer, fiskeri og ligestilling kan meddele påbud om reduktion af den maksimale belægningsgrad i en svinebesætning, for hvilken der er eller skulle være indgået aftale om sundhedsrådgivning, jf. § 34 a, hvis antibiotikaforbruget, efter at den ansvarlige for besætningen både har modtaget påbud om at reducere antibiotikaforbruget til under de fastsatte grænseværdier og påbud om skærpet tilsyn,
+§ 34 c. Ministeren for fødevarer, landbrug og fiskeri kan meddele påbud om reduktion af den maksimale belægningsgrad i en svinebesætning, for hvilken der er eller skulle være indgået aftale om sundhedsrådgivning, jf. § 34 a, hvis antibiotikaforbruget, efter at den ansvarlige for besætningen både har modtaget påbud om at reducere antibiotikaforbruget til under de fastsatte grænseværdier og påbud om skærpet tilsyn,
 
 1) fortsat overskrider grænseværdierne eller
 

@@ -147,3 +147,9 @@ Lov nr. 1430 af 17. december 2019 (Indførelse af mulighed for rekvireret vejled
 § 3
 
 Loven træder i kraft den 1. januar 2020.
+
+Lov nr. 2185 af 29. december 2020 om aflivning af og midlertidigt forbud mod hold af mink indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 12. Loven træder i kraft ved bekendtgørelsen i Lovtidende, jf. dog stk. 2.
+
+Stk. 2-4. (Udelades)
