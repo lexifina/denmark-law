@@ -33,3 +33,11 @@ Lov nr. 1711 af 27. december 2018 (Ændringer som følge af lov om Familieretshu
 Stk. 1. Loven træder i kraft den 1. april 2019, jf. dog stk. 2-4.
 
 Stk. 2-5. (Udelades)
+
+Lov nr. 1833 af 8. december 2020 (Implementering af direktiv om oprettelse af en europæisk kodeks for elektronisk kommunikation (omarbejdning) m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 7
+
+Stk. 1. Loven træder i kraft den 21. december 2020.
+
+Stk. 2 og 3. (Udelades)
