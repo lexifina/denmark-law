@@ -1,0 +1,1 @@
+§ 111 a. Beskæftigelsesministeren fastsætter nærmere regler om fravigelse af fristen for, hvornår rehabiliteringsteamet skal behandle en sag om jobafklaringsforløb, jf. § 109, stk. 1, og om iværksættelse af indsatsen i jobafklaringsforløbet, inden sagen forelægges for rehabiliteringsteamet.
