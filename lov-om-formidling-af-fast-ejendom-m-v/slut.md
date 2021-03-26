@@ -1,7 +1,5 @@
-Givet på Amalienborg, den 28. maj 2014
+Erhvervsstyrelsen, den 24. februar 2021
 
-Under Vor Kongelige Hånd og Segl
+P.M.V. Henning Steensig
 
-MARGRETHE R.
-
-/ Henrik Sass Larsen
+/ Søren Corfixsen Whitt
