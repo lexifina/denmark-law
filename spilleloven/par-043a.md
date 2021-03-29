@@ -2,7 +2,7 @@
 
 ## Særligt bidrag til hestevæddeløbssporten
 
-§ 43 a. Indehavere af tilladelse til udbud af væddemål efter § 11 skal betale et særligt bidrag på 8 pct. af indsatsen i væddemål på danske hestevæddeløb. Indtægterne fra bidraget tildeles hestevæddeløbssporten med henblik på dækning af udgifter af fælles interesse for hestevæddeløbssporten og indehaverne af tilladelse til udbud af væddemål, jf. stk. 6.
+§ 43 a. Indehavere af tilladelse til udbud af væddemål efter § 11 skal betale et særligt bidrag på 6 pct. af indsatsen i væddemål på danske hestevæddeløb. Indtægterne fra bidraget tildeles hestevæddeløbssporten med henblik på dækning af udgifter af fælles interesse for hestevæddeløbssporten og indehaverne af tilladelse til udbud af væddemål, jf. stk. 6.
 
 Stk. 2. Indgår et dansk hestevæddeløb i et kombinationsvæddemål, hvor der væddes om resultatet af flere begivenheder, skal det særlige bidrag efter stk. 1 betales af hele kombinationsvæddemålet.
 
