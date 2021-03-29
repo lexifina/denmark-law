@@ -4,7 +4,7 @@
 
 2) skyldneren groft tilsidesætter sine pligter ifølge rekonstruktionen.
 
-Stk. 2. Inden skifteretten træffer afgørelse efter stk. 1, indkalder skifteretten skyldneren, fordringshaverne, rekonstruktøren, tillidsmanden og eventuelle kautionister for rekonstruktionen til et møde.
+Stk. 2. Inden skifteretten træffer afgørelse efter stk. 1, indkalder skifteretten skyldneren, fordringshaverne, rekonstruktøren, en eventuel tillidsmand og eventuelle kautionister for rekonstruktionen til et møde.
 
 Stk. 3. Ophævelse af en rekonstruktion medfører,
 

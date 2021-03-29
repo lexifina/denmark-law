@@ -16,7 +16,7 @@ b) Oversigt over skyldnerens pantsatte aktiver, panterettighedernes art samt st�
 
 c) Oversigt over usikrede krav, herunder pantsikrede krav, i det omfang pantet ikke strækker til, med angivelse af fordringshaverne og opdelt efter kravenes placering i konkursordenen.
 
-3) En redegørelse fra rekonstruktøren og tillidsmanden, der skal indeholde:
+3) En redegørelse fra rekonstruktøren og en eventuel tillidsmand, der skal indeholde:
 
 a) Eventuelle kommentarer til den statusoversigt, der er nævnt i nr. 2.
 
@@ -34,7 +34,7 @@ g) Anslået dividende i tilfælde af skyldnerens konkurs.
 
 h) Forløbet af samarbejdet med skyldneren under rekonstruktionsbehandlingen.
 
-i) En erklæring fra rekonstruktøren og tillidsmanden om, hvorvidt rekonstruktionsforslaget efter deres skøn er rimeligt og frembyder en tilstrækkelig betryggelse for forslagets opfyldelse.
+i) En erklæring fra rekonstruktøren og en eventuel tillidsmand om, hvorvidt rekonstruktionsforslaget efter deres skøn er rimeligt og frembyder en tilstrækkelig betryggelse for forslagets opfyldelse.
 
 Stk. 2. Rekonstruktionsforslaget og statusoversigten skal være tiltrådt af skyldneren.
 
