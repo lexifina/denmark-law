@@ -1,0 +1,1 @@
+§ 15 a. Udstyr, der benyttes i forbindelse med tobaksvarer og urtebaserede rygeprodukter, og som gør det muligt at ændre de pågældende tobaksvarers og urtebaserede rygeprodukters duft eller smag eller deres røgudviklingsintensitet, må ikke markedsføres her i landet.
