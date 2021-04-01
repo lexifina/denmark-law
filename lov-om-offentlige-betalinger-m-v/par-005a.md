@@ -6,4 +6,4 @@ Stk. 3. Betalingsmodtageren kan til enhver tid meddele en privat udbetaler, at u
 
 Stk. 4. En privat udbetaler må til brug for formidling af udbetalinger anvende betalingsmodtagerens personnummer, hvis den private udbetaler efter anden lovgivning har adgang til at behandle personnumre, eller hvis betalingsmodtageren har givet samtykke til anvendelsen af vedkommendes personnummer.
 
-Stk. 5. Finansministeren fastsætter nærmere vilkår for formidling af udbetalinger efter stk. 1.
+Stk. 5. Digitaliseringsministeren fastsætter nærmere vilkår for formidling af udbetalinger efter stk. 1.
