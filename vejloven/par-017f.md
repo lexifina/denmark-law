@@ -1,0 +1,3 @@
+## Afgrænsning af miljøkonsekvensrapportens indhold
+
+§ 17 f. Vejdirektoratet kan forud for udarbejdelse af en miljøkonsekvensrapport, jf. § 17 g, anmode Trafikstyrelsen om at afgive en udtalelse om, hvor omfattende og detaljerede de oplysninger, som skal fremlægges i miljøkonsekvensrapporten, skal være. Udtalelsen skal tage hensyn til Vejdirektoratets fremlagte oplysninger, herunder navnlig oplysninger om projektets særlige karakteristika, herunder dets placering og tekniske kapacitet, og dets forventede indvirkning på miljøet. Udtalelsen skal endvidere tage behørigt hensyn til resultaterne af de høringer, der er foretaget efter § 17 h, stk. 4.
