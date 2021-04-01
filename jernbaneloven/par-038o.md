@@ -1,0 +1,1 @@
+§ 38 o. For projekter, der er omfattet af § 38 a, stk. 1 og 2, fører Trafikstyrelsen tilsyn med overholdelse af bestemmelserne i dette kapitel og med, at vilkår m.v. for projekternes gennemførelse overholdes.
