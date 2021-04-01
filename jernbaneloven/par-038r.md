@@ -1,0 +1,5 @@
+§ 38 r. Transportministeren kan bemyndige statslige selskaber på Transportministeriets område til helt eller delvis at udøve de beføjelser, som Banedanmark er tillagt efter dette kapitel eller regler fastsat i medfør af dette kapitel, til etablering, udvidelse eller ændring af statslige jernbaneanlæg og dertil knyttede projekter, jf. § 38 a.
+
+Stk. 2. Transportministeren kan efter forhandling med vedkommende minister bemyndige andre statslige myndigheder eller selskaber til helt eller delvis at udøve de beføjelser, som Banedanmark er tillagt efter dette kapitel eller regler fastsat i medfør af dette kapitel, til gennemførelse af projekter, der er knyttet til etablering, udvidelse eller ændring af statslige jernbaneanlæg, jf. § 38 a.
+
+Stk. 3. Transportministeren kan efter forhandling med vedkommende minister fastsætte regler om gebyrer til dækning af Trafikstyrelsens omkostninger ved administration og tilsyn efter dette kapitel eller regler fastsat i medfør af dette kapitel, hvad angår projekter omfattet af stk. 2.
