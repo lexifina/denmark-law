@@ -20,6 +20,8 @@ Stk. 3. Ved overgang som nævnt i stk. 1, nr. 4-7, anses aktiver og passiver for
 
 Stk. 4. Ved overgang som nævnt i stk. 1 finder § 5, stk. 3, anvendelse.
 
-Stk. 5. Ved overgang fra et obligationsbaseret investeringsinstitut med minimumsbeskatning, jf. ligningslovens § 16 C og aktieavancebeskatningslovens § 22, til et aktiebaseret investeringsinstitut med minimumsbeskatning, jf. ligningslovens § 16 C og aktieavancebeskatningslovens § 21, får overgangen først virkning for instituttet fra udløbet af det pågældende indkomstår. Instituttets aktiver og passiver anses for anskaffet på det oprindelige anskaffelsestidspunkt og til den oprindelige anskaffelsessum.
+Stk. 5. Ved overgang fra et selskab m.v. omfattet af § 1 til et investeringsselskab omfattet af § 3, stk. 1, nr. 19, finder ligningslovens § 16 A, stk. 3, nr. 1, tilsvarende anvendelse.
 
-Stk. 6. Ved overgang som nævnt i aktieavancebeskatningslovens § 33, stk. 8, anses aktierne for anskaffet på det oprindelige anskaffelsestidspunkt og til den oprindelige anskaffelsessum.
+Stk. 6. Ved overgang fra et obligationsbaseret investeringsinstitut med minimumsbeskatning, jf. ligningslovens § 16 C og aktieavancebeskatningslovens § 22, til et aktiebaseret investeringsinstitut med minimumsbeskatning, jf. ligningslovens § 16 C og aktieavancebeskatningslovens § 21, får overgangen først virkning for instituttet fra udløbet af det pågældende indkomstår. Instituttets aktiver og passiver anses for anskaffet på det oprindelige anskaffelsestidspunkt og til den oprindelige anskaffelsessum.
+
+Stk. 7. Ved overgang som nævnt i aktieavancebeskatningslovens § 33, stk. 8, anses aktierne for anskaffet på det oprindelige anskaffelsestidspunkt og til den oprindelige anskaffelsessum.
