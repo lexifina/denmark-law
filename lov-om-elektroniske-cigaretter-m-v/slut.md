@@ -1,7 +1,5 @@
-Givet på Amalienborg, den 18. maj 2016
+Sundhedsministeriet, den 26. marts 2021
 
-Under Vor Kongelige Hånd og Segl
+Magnus Heunicke
 
-MARGRETHE R.
-
-/ Sophie Løhde
+/ Anne Bækgaard
