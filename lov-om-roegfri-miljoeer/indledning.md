@@ -1,3 +1,5 @@
 Bekendtgørelse af lov om røgfri miljøer
 
-Herved bekendtgøres lov nr. 512 af 6. juni 2007 om røgfri miljøer med de ændringer, der følger af lov nr. 532 af 26. maj 2010, lov nr. 607 af 18. juni 2012, § 1 i lov nr. 1726 af 27. december 2016 og § 4 i lov nr. 1720 af 27. december 2018.
+Herved bekendtgøres lov om røgfri miljøer, jf. lovbekendtgørelse nr. 966 af 26. august 2019 med de ændringer, der følger af § 5, nr. 1-2, § 7a som affattet ved § 5, nr. 6 og nr. 7-10 i lov nr. 2071 af 21. december 2020.
+
+De ændringer, der følger af § 5, nr. 3-5 og §§ 7b og 7c som affattet ved § 5, nr. 6 i lov nr. 2071 af 21. december 2020, er ikke indarbejdet i denne lovbekendtgørelse, da de træder i kraft den 31. juli 2021, jf. § 7, stk. 4 i lov nr. 2071 af 21. december 2020.
