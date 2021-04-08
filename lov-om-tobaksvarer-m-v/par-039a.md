@@ -1,4 +1,6 @@
-§ 39 a. I medfør af Kommissionens gennemførelsesforordning (EU) 2018/574 af 15. december 2017 om tekniske standarder for oprettelse og drift af et sporbarhedssystem for tobaksvarer kan Sikkerhedsstyrelsen i behørigt begrundede tilfælde deaktivere en økonomisk aktørs
+§ 39 a. I medfør af Kommissionens gennemførelsesforordning (EU) 2018/574 af 15. december 2017 om tekniske
+
+standarder for oprettelse og drift af et sporbarhedssystem for tobaksvarer kan Sikkerhedsstyrelsen i behørigt begrundede tilfælde deaktivere en økonomisk aktørs
 
 1) identifikationskode, jf. artikel 15, stk. 4,
 
