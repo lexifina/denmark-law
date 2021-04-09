@@ -1,0 +1,1 @@
+§ 7 c. Det er ikke tilladt at sælge tobaksvarer, tobakssurrogater og urtebaserede rygeprodukter på skoler, kostskoler og efterskoler omfattet af § 7 a, stk. 1, og på uddannelsessteder omfattet af § 7 b, stk. 1.
