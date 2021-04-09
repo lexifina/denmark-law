@@ -1,5 +1,5 @@
-Ministeriet for Sundhed og Forebyggelse, den 21. oktober 2008
+Sundhedsministeriet, den 26. marts 2021
 
-Jakob Axel Nielsen
+Magnus Heunicke
 
-/ Hanne Nicoline Makholm
+/ Anne Bækgaard
