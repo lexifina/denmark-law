@@ -8,4 +8,4 @@ Stk. 2. Redegørelsen skal indeholde oplysning om,
 
 3) andre forhold, der skønnes at have betydning for kommunens eller regionens indsats på ligestillingsområdet.
 
-Stk. 3. Redegørelserne indsendes til ministeren for fødevarer, fiskeri og ligestilling inden den 1. juni i de år, hvor redegørelserne udarbejdes.
+Stk. 3. Redegørelserne indsendes til ministeren for ligestilling inden den 1. juni i de år, hvor redegørelserne udarbejdes.
