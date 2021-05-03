@@ -1,0 +1,11 @@
+§ 13 g. Rekonstruktion i form af en virksomhedsoverdragelse kan med rekonstruktørens samtykke ske, inden der er vedtaget en rekonstruktionsplan, hvis det skønnes hensigtsmæssigt for at bevare værdien af skyldnerens virksomhed, og medmindre indsigelse mod overdragelsen fra et flertal af fordringshaverne er kommet frem til rekonstruktøren inden 5 hverdage efter afsendelsen af den meddelelse, der er nævnt i stk. 3.
+
+Stk. 2. Ved anvendelsen af stk. 1 regnes flertallet blandt de fordringshavere, der efter § 13 d, stk. 2-4, har stemmeret vedrørende et rekonstruktionsforslag indeholdende bestemmelse om tvangsakkord.
+
+Stk. 3. Med henblik på virksomhedsoverdragelse i medfør af stk. 1 skal rekonstruktøren sende en meddelelse til samtlige kendte fordringshavere og andre bortset fra skyldnerens ansatte, der berøres af rekonstruktionsbehandlingen, og til skifteretten. Er skyldneren en sammenslutning, der er registreret i Erhvervsstyrelsen, skal rekonstruktøren samtidig registrere meddelelsen i Erhvervsstyrelsens it-system.
+
+Stk. 4. Meddelelsen nævnt i stk. 3 skal indeholde de oplysninger, som fremgår af § 13 b, stk. 1, nr. 1, og oplysning om, hvorvidt erhververen er skyldnerens nærtstående. Meddelelsen skal herudover indeholde de oplysninger, som fremgår af § 11 b, stk. 2, 1. pkt., og 2. pkt., nr. 1 og 2, i det omfang disse oplysninger ikke allerede er udsendt i medfør af § 11 b. Endvidere skal meddelelsen indeholde oplysning om værdiansættelse af skyldnerens aktiver, i det omfang en sådan foreligger. Desuden skal meddelelsen indeholde oplysninger om, hvortil en fordringshaver kan rette henvendelse, hvis denne har indsigelser mod virksomhedsoverdragelsen, og fristen for, hvornår en fordringshavers indsigelse mod virksomhedsoverdragelsen skal være kommet frem til rekonstruktøren, og en kort begrundelse for, hvorfor proceduren i medfør af stk. 1 anvendes.
+
+Stk. 5. Senest 5 hverdage efter fristen for indsigelse i medfør af stk. 1 skal rekonstruktøren sende en meddelelse til samtlige kendte fordringshavere og andre bortset fra skyldnerens ansatte, der berøres af rekonstruktionsbehandlingen, og til skifteretten, hvor der redegøres for, om virksomhedsoverdragelsen blev gennemført.
+
+Stk. 6. § 14 c, stk. 2 og 3, finder tilsvarende anvendelse.
