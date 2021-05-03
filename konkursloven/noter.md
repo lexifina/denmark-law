@@ -1,15 +1,21 @@
-1) Bestemmelserne i kapitel 29 a træder i kraft efter justitsministerens nærmere bestemmelse, jf. § 5 i lov nr. 447 af 9. juni 2004.
+1) Bestemmelsen i § 13 g, stk. 3, 2. pkt., træder i kraft på det tidspunkt, justitsministeren fastsætter, jf. § 4, stk. 2, i lov nr. 530 af 27. marts 2021.
 
 2) Lovændringen vedrører kapitel 29 a.
 
-3) Lovændringen vedrører § 95, stk. 1, nr. 1, og stk. 3.
+3) Lovændringen vedrører § 254.
 
-4) Lovændringen vedrører § 1, §§ 3-9, afsnit I A, § 18, § 24, § 25, § 27, § 55, stk. 3, § 56, stk. 2, § 61, stk. 3, § 63, stk. 2, 1. pkt., § 72, § 87, stk. 5, § 88, § 94, nr. 2, § 98, nr. 1, § 110, stk. 2, 2. pkt., § 128, 2. pkt., § 136, stk. 3, § 143, § 144, stk. 1, afsnit III (som ophæves), § 200, stk. 1, § 208, stk. 3 og 5, § 208 b, stk. 4, nr. 2, § 216, stk. 4, 3. pkt., § 217, § 223 stk. 1, 2. pkt., § 230, 1. pkt., overskriften til kapitel 29, § 231, § 231 a, stk. 2, 2. pkt., § 232, stk. 4, § 234, § 238, stk. 1 og 5, § 239, stk. 1, 1. pkt., og § 249.
+4) Lovændringen vedrører § 7 a, § 248, stk. 2, 2. pkt., og § 254.
 
-5) Loven trådte i kraft den 1. april 2011, jf. bekendtgørelse nr. 208 af 15. marts 2011.
+5) Lovændringen vedrører § 12 e, stk. 1, nr. 1.
 
-6) Lovændringen vedrører § 13 b, stk. 1, nr. 3, § 15, stk. 4, § 125, stk. 3-7, § 126, stk. 1 og 2 og afsnit III (som indsættes).
+6) Loven trådte i kraft den 1. februar 2016, jf. bekendtgørelse nr. 1241 af 11. november 2015.
 
-7) Loven trådte i kraft den 1. januar 2014, jf. bekendtgørelse nr. 1503 af 13. december 2013.
+7) Lovændringen vedrører § 64, stk. 2, 1. pkt., og stk. 3-5.
 
-8) Lovændringen vedrører § 96, stk. 2.
+8) Lovændringen vedrører § 98, nr. 2.
+
+9) Lovændringen vedrører § 95, stk. 1, nr. 6.
+
+10) Lovændringen vedrører § 3, stk. 1, 2 og 4, § 11, stk. 2, § 11 a, stk. 1 og 4-7, § 11 c, stk. 2, nr. 3, og stk. 3, § 11 d, stk 1, § 11 e, stk. 5 og 6, § 12, stk. 2 og 4, § 12 b, stk. 2, § 12 e, stk. 1, § 13 b, stk. 1, nr. 3, § 13 c, stk. 1, § 13 g, § 14 e, stk. 2, § 15, § 15 b, stk. 2, § 18, nr. 2, § 27, § 72, stk. 3, § 95, stk. 1, nr. 1, 2. pkt., og stk. 3, og § 238, stk. 5.
+
+11) Loven er bekendtgjort i Lovtidende den 28. marts 2021.
