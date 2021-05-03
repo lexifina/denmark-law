@@ -1,6 +1,6 @@
-§ 12 e. Skifteretten kan på begæring af skyldneren fastsætte værdien af et eller flere af skyldnerens pantsatte aktiver i forhold til § 10 a, stk. 2, nr. 2, 3. pkt., § 12 d, stk. 2, nr. 2, og § 14 c, stk. 4. Dette gælder dog ikke
+§ 12 e. Når der er beskikket en tillidsmand, kan skifteretten på begæring af skyldneren fastsætte værdien af et eller flere af skyldnerens pantsatte aktiver i forhold til § 10 a, stk. 2, nr. 2, 3. pkt., § 12 d, stk. 2, nr. 2, og § 14 c, stk. 4. Dette gælder dog ikke
 
-1) fast ejendom, skibe med en bruttotonnage på 5 eller derover og luftfartøjer,
+1) fast ejendom, skibe med en bruttotonnage på 5 eller derover, luftfartøjer og flygenstande omfattet af lov om internationale sikkerhedsrettigheder i flymateriel,
 
 2) andele i andelsboligforeninger, jf. tinglysningslovens § 42 i,
 
