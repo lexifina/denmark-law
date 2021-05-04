@@ -29,3 +29,7 @@
 15) Lovændringen vedrører §§ 84 og 86.
 
 16) Lovændringen vedrører §§ 7, 15, 19, 34, 38 e, 48, 50 k, 57, 73, 82, 93 og 94.
+
+17) Lovændringen vedrører §§ 80 a, 99, og 107.
+
+18) Lovændringen vedrører ophævelse af kapitel 6 a og kapitel 7.
