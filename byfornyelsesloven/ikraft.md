@@ -120,12 +120,30 @@ Lov nr. 1711 af 27. december 2018 (Ændringer som følge af lov om Familieretshu
 
 § 40
 
-Stk. 1. Loven træder i kraft den 1. april 2019, jf. dog stk. 2-4.
+Loven træder i kraft den 1. april 2019, jf. dog stk. 2-4.
 
-Stk. 2-4. (Udelades)
+Stk. 2-5. (Udelades)
 
 Lov nr. 465 af 29. april 2019 (Støtte til styrket indsats i landsbyer) indeholder følgende ikrafttrædelsesbestemmelse:
 
 § 2
 
 Loven træder i kraft den 1. maj 2019.
+
+Lov nr. 2075 af 21. december 2020 (Anmeldelsesordning for boliger, der lejes ud) indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 2
+
+Loven træder i kraft den 1. januar 2021.
+
+Lov nr. 2079 af 21. december 2020 (Sammenlægning af Byggeskadefonden og Byggeskadefonden vedrørende Bygningsfornyelse og ophør af fremtidig skadesdækning ved bygningsfornyelse m.v.) indeholder følgende ikrafttrædelsesbestemmelser:
+
+§ 5
+
+Stk. 1. Loven træder i kraft den 1. januar 2021.
+
+Stk. 2. Byggeskadefonden overtager ansvaret for Byggeskadefonden vedrørende Bygningsfornyelses sager, opgaver, forpligtelser, aktiver, medarbejdere og passiver m.v. pr. 1. januar 2021.
+
+Stk. 3. § 2, nr. 2, finder ikke anvendelse for ombygninger, renoveringer m.v., der har fået kommunalt tilsagn om støtte efter lov om byfornyelse og udvikling af byer, jf. lovbekendtgørelse nr. 144 af 21. februar 2020, inden den 1. januar 2021. For disse tilsagn finder de hidtil gældende regler anvendelse.
+
+Stk. 4. § 2, nr. 1, og § 4 finder ikke anvendelse på aftaler om energibesparende arbejder efter kapitel 6 a i lov om byfornyelse og udvikling af byer, som er indgået før den 1. januar 2021. For disse aftaler finder de hidtil gældende regler anvendelse.

@@ -1,1 +1,0 @@
-§ 50 j. Hvis en bolig skal fraflyttes som følge af gennemførelse af energibesparende arbejder i medfør af reglerne i dette kapitel og lejer ønsker at fortsætte lejemålet efter arbejdernes gennemførelse, kan udlejer ikke opsige lejer efter bestemmelserne i lov om leje.
