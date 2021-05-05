@@ -1,3 +1,3 @@
-Bekendtgørelse af lov om standarder for transmission af tv-signaler m.v.
+Bekendtgørelse af lov om standarder for transmission af tv-signaler og interoperabilitet for digital jordbaseret radiotransmission m.v.
 
-Herved bekendtgøres lov nr. 471 af 12. juni 1996 om standarder for transmission af tv-signaler m.v. med de ændringer, der følger af § 2 i lov nr. 399 af 10. juni 1997, § 6 i lov nr. 420 af 6. juni 2002 og § 5 i lov nr. 450 af 10. juni 2003.
+Herved bekendtgøres lov om standarder for transmission af tv-signaler og interoperabilitet for digital jordbaseret radiotransmission m.v., jf. lovbekendtgørelse nr. 664 af 10. juli 2003 med de ændringer, der følger af § 28 i lov nr. 1231 af 18. december 2012 og § 4 i lov nr. 1833 af 8. december 2020.

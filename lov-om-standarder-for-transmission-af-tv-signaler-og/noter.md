@@ -1,1 +1,5 @@
-Lov nr. 471 af 12. juni 1996 indeholder bestemmelser, der gennemfører Europa Parlamentets og Rådets Direktiv 95/47/EF, EFT nr. L 281 af 23. november 1995, s. 51. Lov nr. 450 af 10. juni 2003 indeholder bestemmelser, der gennemfører Europa-Parlamentets og Rådets direktiv 2002/19/EF af 7. marts 2002 om adgang til og samtrafik mellem elektroniske kommunikationsnet og tilhørende faciliteter (adgangsdirektivet) (EF-Tidende 2002 nr. L 108 s. 7) og dele af Europa-Parlamentets og Rådets direktiv 2002/21/EF af 7. marts 2002 om fælles rammebestemmelser for elektroniske kommunikationsnet og -tjenester (rammedirektivet), (EF-Tidende 2002, nr. L 108, s. 33).
+1) Loven indeholder bestemmelser, der gennemfører dele af Europa-Parlamentets og Rådets direktiv 2018/1972/EU af 11. december 2018 om oprettelse af en europæisk kodeks for elektronisk kommunikation (omarbejdning), EU-Tidende 2018, nr. L 321, side 36.
+
+2) Lovændringen vedrører § 2 a, § 2 b, § 2 c, § 5 a, stk. 1 og 3.
+
+3) Lovændringen vedrører lovens titel, fodnoten til lovens titel og § 1, nr. 4.
