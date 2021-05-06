@@ -182,8 +182,24 @@ Stk. 1. Loven træder i kraft den 1. juli 2019.
 
 Stk. 2. (Udelades)
 
-Lov nr. 1560 af 27. december 2019 (Modelparametre for erhvervsuddannelser til brug for beregning af praktikpladsafhængigt arbejdsgiverbidrag for 2020 og justering af det aktivitetsafhængige VEU-bidrag for 2020 m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
+Lov nr. 2062 af 21. december 2020 (Praktikpladstaxametertilskud m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
 
 § 2
 
-Loven træder i kraft den 1. januar 2020.
+Stk. 1. Loven træder i kraft den 1. januar 2021.
+
+Stk. 2. § 12 c i lov om Arbejdsgivernes Uddannelsesbidrag som affattet ved denne lovs § 1, nr. 1, finder anvendelse fra og med tilskudsåret 2021 for uddannelsesaftaler og aftaler om praktik i udlandet, der opfylder betingelserne for tilskud den 1. januar 2021 eller senere, uanset hvornår disse er indgået. Loven finder ikke anvendelse for tidligere tilskudsår. For sådanne tilskudsår finder de hidtil gældende regler anvendelse.
+
+Stk. 3. Regler fastsat i medfør af den gældende § 12 c, stk. 3, i lov om Arbejdsgivernes Uddannelsesbidrag, jf. lovbekendtgørelse nr. 187 af 9. marts 2020, forbliver i kraft, indtil de ophæves eller afløses af forskrifter udstedt i medfør af § 12 c, stk. 7 og 8, i lov om Arbejdsgivernes Uddannelsesbidrag som affattet ved denne lovs § 1, nr. 1.
+
+Lov nr. 2205 af 29. december 2020 (Modelparametre for erhvervsuddannelser til brug for beregning af praktikpladsafhængigt arbejdsgiverbidrag for 2021, fastholdelse af merbidragssats og justering af aktivitetsafhængigt VEU-bidrag for 2021) indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 2
+
+Loven træder i kraft den 1. januar 2021.
+
+Lov nr. 2206 af 29. december 2020 (Justering af det praktikpladsafhængige arbejdsgiverbidrag og indførelse af fleksibelt uddannelsesbidrag) indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 3
+
+Loven træder i kraft den 1. januar 2021.
