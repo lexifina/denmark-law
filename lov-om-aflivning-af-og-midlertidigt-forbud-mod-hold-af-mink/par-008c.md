@@ -1,0 +1,3 @@
+§ 8 c. Det kan fastsættes som et vilkår for erstatningen og kompensationen efter regler fastsat i medfør af § 8, stk. 3, og § 8 e, stk. 1, at modtagere af erstatning eller kompensation aktivt skal medvirke til at give de involverede myndigheder og deres repræsentanter adgang til de erstattede eller kompenserede aktiver og den ejendom, hvorpå de befinder sig, med henblik på besigtigelse, nedrivning, bortskaffelse eller overtagelse eller anden hermed forbunden aktivitet.
+
+Stk. 2. Ministeren for fødevarer, landbrug og fiskeri kan fastsætte nærmere regler om de forhold, som er omfattet af stk. 1, herunder om krav til oprydning, friholdelse af adgangsveje og passende varsel før påbegyndelse af nedrivningsarbejde m.v.

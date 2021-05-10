@@ -1,0 +1,1 @@
+§ 8 d. Ministeren for fødevarer, landbrug og fiskeri kan fastsætte regler om kompensation for rimelige omkostninger afholdt af minkavlere og følgeerhverv i perioden frem til fastsættelsen af erstatning eller kompensation efter regler fastsat i medfør af § 8, stk. 3, og § 8 e, stk. 1.
