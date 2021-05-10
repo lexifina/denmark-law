@@ -1,0 +1,3 @@
+§ 10 d. Hvor det efter denne lov eller regler udstedt i medfør af denne lov er krævet, at et dokument, som er udstedt af andre end ministeren for fødevarer, landbrug og fiskeri eller myndigheder som nævnt i § 6, stk. 5, og § 8, stk. 5, 2. pkt., skal være underskrevet, kan dette krav opfyldes ved anvendelse af en teknik, der sikrer entydig identifikation af den, som har udstedt dokumentet, jf. dog stk. 2. Sådanne dokumenter sidestilles med dokumenter med personlig underskrift.
+
+Stk. 2. Ministeren kan fastsætte nærmere regler om fravigelse af underskriftskrav, herunder om, at personlig underskrift ikke kan fraviges for visse typer af dokumenter.

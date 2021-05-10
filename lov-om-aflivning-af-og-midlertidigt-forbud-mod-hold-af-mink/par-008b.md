@@ -1,0 +1,5 @@
+§ 8 b. For følgeerhverv, som ikke er omfattet af § 8 a, er det et vilkår for kompensationen, at staten ved fastsættelsen af kompensation efter regler fastsat i medfør af § 8, stk. 3, erhverver ejendomsret til den faste ejendom, løsøre og immaterielle rettigheder og alle øvrige aktiver, som ejes af og blev anvendt i den minkrelaterede virksomhed uanset graden af anvendelse i den minkrelaterede virksomhed, og som der ydes kompensation for.
+
+Stk. 2. Vilkår fastsat efter stk. 1 kan dog ikke omfatte fast ejendom, hvorpå der er en ejerbolig, medmindre ejeren fremsætter begæring herom.
+
+Stk. 3. Ministeren for fødevarer, landbrug og fiskeri kan fastsætte nærmere regler om de forhold, som er omfattet af stk. 1, herunder om, at det er et vilkår for kompensationen, at modtagere af kompensation aktivt skal medvirke til, at staten erhverver de fastsatte rettigheder efter stk. 1. Ministeren kan endvidere fastsætte regler om, at visse aktiver som nævnt i stk. 1, herunder efter anmodning fra følgeerhvervsvirksomheden, ikke overtages og dermed heller ikke kompenseres.

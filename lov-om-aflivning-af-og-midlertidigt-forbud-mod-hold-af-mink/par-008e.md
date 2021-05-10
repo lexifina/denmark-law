@@ -1,0 +1,5 @@
+§ 8 e. Ministeren for fødevarer, landbrug og fiskeri kan fastsætte regler om, at staten på begæring fra den enkelte minkavler eller følgeerhvervsvirksomhed ud over erstatning og kompensation, der fastsættes efter regler udstedt i medfør af § 8, stk. 3, kan yde erstatning og kompensation for virksomhed, som ikke på rimelig måde kan omstilles eller videreføres som selvstændig virksomhed.
+
+Stk. 2. Ved fastsættelsen af erstatning eller kompensation efter regler fastsat i medfør af stk. 1 er det et vilkår for erstatningen eller kompensationen, at staten erhverver ejendomsret til de aktiver, der har været anvendt i virksomheden, og som der ydes erstatning eller kompensation for.
+
+Stk. 3. Ministeren for fødevarer, landbrug og fiskeri kan fastsætte nærmere regler om de forhold, som er omfattet af stk. 2, herunder om, at det er et vilkår for erstatningen eller kompensationen, at modtagere af erstatningen eller kompensationen aktivt skal medvirke til, at staten erhverver de fastsatte rettigheder efter stk. 2.
