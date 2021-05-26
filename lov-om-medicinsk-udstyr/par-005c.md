@@ -1,0 +1,1 @@
+§ 5 c. Sundhedsinstitutioner skal udlevere implantatkort til og stille de oplysninger, der er omhandlet i artikel 18, stk. 1, i Europa-Parlamentets og Rådets forordning (EU) 2017/745 om medicinsk udstyr til rådighed for patienter, som har fået indsat et implantat.

@@ -1,3 +1,1 @@
-§ 1 c. En importør og distributør af medicinsk udstyr skal straks underrette Lægemiddelstyrelsen om enhver fejlfunktion, ethvert svigt, enhver forringelse af et medicinsk udstyrs karakteristika eller ydeevne samt enhver unøjagtighed i mærkningen eller brugsanvisningen, som den pågældende har fået kendskab til, og som kan medføre eller kan have medført en patients eller en brugers død eller en alvorlig forringelse af en patients eller en brugers helbredstilstand.
-
-Stk. 2. Lægemiddelstyrelsen kan fastsætte regler om formkrav til underretninger, som skal sendes til styrelsen i henhold til stk. 1, herunder at underretning skal ske elektronisk.
+§ 1 c. (Ophævet)
