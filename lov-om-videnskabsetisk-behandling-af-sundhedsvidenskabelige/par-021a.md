@@ -1,6 +1,6 @@
 ## Kapitel 5 a
 
-## Den videnskabsetiske bedømmelse af sundhedsdatavidenskabelige forskningsprojekter
+## Den videnskabsetiske bedømmelse af sundhedsdatavidenskabelige forskningsprojekter og af hypotesegenererende studier i sundhedsvidenskabelige forskningsprojekter eller sundhedsdatavidenskabelige forskningsprojekter
 
 § 21 a. Komiteerne foretager en videnskabsetisk bedømmelse af indkomne anmeldelsespligtige sundhedsdatavidenskabelige forskningsprojekter på baggrund af de i § 21 b fastsatte kriterier. På baggrund af bedømmelsen træffer den kompetente komité afgørelse om, hvorvidt der skal meddeles tilladelse til projektets gennemførelse.
 
