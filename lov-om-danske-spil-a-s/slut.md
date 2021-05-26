@@ -1,7 +1,5 @@
-Givet på Christiansborg Slot, den 25. juni 2010
+Finansministeriet, den 25. maj 2021
 
-Under Vor Kongelige Hånd og Segl
+Nicolai Wammen
 
-MARGRETHE R.
-
-/ Claus Hjort Frederiksen
+/ Adrian Lübbert
