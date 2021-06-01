@@ -1,3 +1,3 @@
 § 40 c. Ved behandlingen af en ansøgning om opholdstilladelse efter § 9 eller § 9 c, stk. 1, kan Udlændingestyrelsen og Udlændingenævnet kræve, at ansøgeren og den person, til hvem ansøgeren oplyser at have den familiemæssige tilknytning, som skal danne grundlag for opholdstilladelsen, medvirker til en dna-undersøgelse med henblik på at fastslå den familiemæssige tilknytning, såfremt denne ikke på anden måde kan anses for tilstrækkeligt dokumenteret, eller med henblik på at fastslå en anden familiemæssig tilknytning end den, ansøgeren oplyser.
 
-Stk. 2. Politiet og Udlændingestyrelsen kan kræve, at en uledsaget udlænding, der oplyser at være under 18 år, medvirker til en lægelig undersøgelse med henblik på at fastslå udlændingens alder.
+Stk. 2. Udlændingestyrelsen kan kræve, at en uledsaget udlænding, der oplyser at være under 18 år, medvirker til en lægelig undersøgelse med henblik på at fastslå udlændingens alder.

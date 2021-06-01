@@ -2,7 +2,7 @@
 
 Stk. 2. Der kan efter ansøgning gives opholdstilladelse til en udlænding, der er meddelt afslag på en ansøgning om opholdstilladelse efter § 7, hvis
 
-1) udsendelse af udlændingen, jf. § 30, ikke har været mulig i mindst 18 måneder,
+1) udsendelse af udlændingen, jf. hjemrejselovens § 1, ikke har været mulig i mindst 18 måneder,
 
 2) udlændingen har medvirket ved udsendelsesbestræbelserne i sammenhængende 18 måneder, og
 

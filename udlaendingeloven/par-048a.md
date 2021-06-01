@@ -2,4 +2,4 @@
 
 Stk. 2. Ansøgning om opholdstilladelse efter § 7 behandles ikke, før Udlændingestyrelsen har truffet afgørelse om undladelse af afvisning, udvisning, overførsel eller udsendelse, jf. stk. 1.
 
-Stk. 3. Træffer Udlændingestyrelsen afgørelse om undladelse af afvisning, udvisning, overførsel eller udsendelse, skal politiet gøre asylansøgeren bekendt med adgangen til at sætte sig i forbindelse med Dansk Flygtningehjælp. Udlændinge- og integrationsministeren kan fastsætte regler, hvorefter politiet forud for Udlændingestyrelsens afgørelse skal gøre en asylansøger, der opholder sig her i landet, bekendt med adgangen til at sætte sig i forbindelse med Dansk Flygtningehjælp.
+Stk. 3. Træffer Udlændingestyrelsen afgørelse om undladelse af afvisning, udvisning, overførsel eller udsendelse, skal Udlændingestyrelsen gøre asylansøgeren bekendt med adgangen til at sætte sig i forbindelse med Dansk Flygtningehjælp. Udlændinge- og integrationsministeren kan fastsætte regler, hvorefter Udlændingestyrelsen forud for Udlændingestyrelsens afgørelse skal gøre en asylansøger, der opholder sig her i landet, bekendt med adgangen til at sætte sig i forbindelse med Dansk Flygtningehjælp.

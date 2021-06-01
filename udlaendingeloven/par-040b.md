@@ -10,7 +10,7 @@ Stk. 2. Der kan endvidere optages personfotografi af en udlænding,
 
 4) hvis udlændingen er omfattet af § 58 g.
 
-Stk. 3. Personfotografi, der optages i medfør af stk. 1 eller 2, kan registreres i et særligt register, der føres af Rigspolitichefen. Politiet og Udlændingestyrelsen kan anvende registret i forbindelse med behandlingen af udlændingesager. Rigspolitichefen er dataansvarlig myndighed for registret.
+Stk. 3. Personfotografi, der optages i medfør af stk. 1 eller 2, kan registreres i et særligt register, der føres af Rigspolitichefen. Politiet, Hjemrejsestyrelsen og Udlændingestyrelsen kan anvende registret i forbindelse med behandlingen af udlændingesager. Rigspolitichefen er dataansvarlig myndighed for registret.
 
 Stk. 4. Personfotografi, der modtages fra udenlandske udlændingemyndigheder i forbindelse med behandlingen af udlændingesager, kan registreres i det i stk. 3 nævnte register.
 
@@ -22,7 +22,7 @@ Stk. 7. Personfotografi, der er optaget efter retsplejelovens bestemmelser herom
 
 Stk. 8. Personfotografi, der modtages som led i en international efterlysning, kan manuelt eller elektronisk sammenholdes med personfotografi, der er registreret i det i stk. 3 nævnte register. Oplysninger fra registret kan til brug for besvarelse af en international efterlysning videregives til den internationale politisamarbejdsorganisation eller den udenlandske myndighed, der har udsendt efterlysningen.
 
-Stk. 9. Politiet og Udlændingestyrelsen kan uden udlændingens samtykke elektronisk eller manuelt videregive personfotografi, der i medfør af stk. 3 og 4 er registreret i det i stk. 3 nævnte register, til indenlandske og udenlandske udlændingemyndigheder i forbindelse med behandlingen af udlændingesager. Politiet kan endvidere med henblik på identifikation af udlændingen eller med henblik på udstedelse af eller fremskaffelse af rejsedokument videregive personfotografi, der i medfør af stk. 3 og 4 er registreret i det i stk. 3 nævnte register, til hjemlandets eller et andet lands repræsentation eller til internationale politisamarbejdsorganisationer.
+Stk. 9. Politiet, Hjemrejsestyrelsen og Udlændingestyrelsen kan uden udlændingens samtykke elektronisk eller manuelt videregive personfotografi, der i medfør af stk. 3 og 4 er registreret i det i stk. 3 nævnte register, til indenlandske og udenlandske udlændingemyndigheder i forbindelse med behandlingen af udlændingesager. Politiet og Hjemrejsestyrelsen kan endvidere med henblik på identifikation af udlændingen eller med henblik på udstedelse af eller fremskaffelse af rejsedokument videregive personfotografi, der i medfør af stk. 3 og 4 er registreret i det i stk. 3 nævnte register, til hjemlandets eller et andet lands repræsentation eller til internationale politisamarbejdsorganisationer.
 
 Stk. 10. Optagelse af personfotografi skal ske så skånsomt, som omstændighederne tillader det. Indgrebet kan om nødvendigt ske med den fornødne magtanvendelse.
 

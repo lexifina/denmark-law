@@ -1,1 +1,1 @@
-§ 58 f. Udlændinge- og integrationsministeren kan fastsætte nærmere regler om politiets betaling for udgifter, som andre Schengenlande eller EU-lande har afholdt i forbindelse med udsendelse af udlændinge.
+§ 58 f. Udlændinge- og integrationsministeren kan fastsætte nærmere regler om politiets eller Hjemrejsestyrelsens betaling for udgifter, som andre Schengenlande eller EU-lande har afholdt i forbindelse med udsendelse af udlændinge.
