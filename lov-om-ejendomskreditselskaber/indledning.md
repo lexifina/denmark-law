@@ -1,3 +1,3 @@
 Bekendtgørelse af lov om ejendomskreditselskaber
 
-Herved bekendtgøres lov om ejendomskreditselskaber, jf. lovbekendtgørelse nr. 1023 af 30. august 2017, med de ændringer, der følger af § 6 i lov nr. 1547 af 19. december 2017, § 14 i lov nr. 706 af 8. juni 2018, § 7 i lov nr. 1520 af 18. december 2018 og § 12 i lov nr. 552 af 7. maj 2019.
+Herved bekendtgøres lov om ejendomskreditselskaber, jf. lovbekendtgørelse nr. 1045 af 14. oktober 2019, med de ændringer, der følger af § 4 i lov nr. 1374 af 13. december 2019, § 12 i lov nr. 1563 af 27. december 2019 og § 10 i lov nr. 1940 af 15. december 2020.
