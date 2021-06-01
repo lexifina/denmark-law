@@ -18,7 +18,7 @@ Stk. 6. Pligten til betaling efter stk. 3 og 4 ophører ved udgangen af den mån
 
 Stk. 7. På det tidspunkt, hvor køretøjet udgår af ordningen, jf. § 1, stk. 3, fastsætter told- og skatteforvaltningen efter ansøgning køretøjets aktuelle afgiftspligtige værdi efter § 10. Hvis den betalte afgift efter stk. 3 overstiger den beregnede afgift efter 1. pkt., tilbagebetales differencen. Hvis den betalte afgift efter stk. 3 er mindre end den beregnede afgift efter 1. pkt., opkræves differencen.
 
-Stk. 8. Overgår et motorkøretøj, der hidtil har været afgiftsfrit, jf. § 1, stk. 4, til en person eller virksomhed, der ikke er omfattet af § 1, stk. 4, ved salg eller anden overdragelse, berigtiges afgiften af køretøjet efter reglerne i §§ 4-5 e.
+Stk. 8. Overgår et motorkøretøj, der hidtil har været afgiftsfrit, jf. § 1, stk. 4, til en person eller virksomhed, der ikke er omfattet af § 1, stk. 4, ved salg eller anden overdragelse, berigtiges afgiften af køretøjet efter reglerne i §§ 4-5 c.
 
 Stk. 9. Bestemmelserne i stk. 1-8 finder tilsvarende anvendelse på motorkøretøjer, som er registreret med udenlandske nummerplader.
 

@@ -1,13 +1,5 @@
-§ 5 c. For biler, der drives af el i kombination med benzin, diesel, naturgas eller biogas, og hvor opladningen af køretøjet kan ske ved hjælp af en ekstern strømforsyning, beregnes registreringsafgiften efter §§ 4 eller 5 med et brændstofforbrug efter § 4, stk. 2 og 3, og § 5, stk. 4 og 5, der opgøres efter § 8, nr. 1, i lov nr. 1353 af 21. december 2012.
+§ 5 c. For biler, der udleder mere end 0 g CO2, men under 50 g CO2 pr. km, beregnes afgiften som 45 pct. af registreringsafgiften efter §§ 4, 5 eller 5 a ved bilens anmeldelse til registrering, jf. dog stk. 2 og 3, fra og med den 18. december 2020 til og med den 31. december 2021, hvorefter procentdelen årligt stiger med 5 procentpoint til og med 2025, hvor der beregnes 65 pct. af registreringsafgiften efter §§ 4, 5 eller 5 a. Ved bilens anmeldelse til registrering fra og med den 1. januar 2026 beregnes afgiften som 68 pct. af registreringsafgiften efter §§ 4, 5 eller 5 a, hvorefter procentdelen årligt stiger med 3 procentpoint til og med 2030, hvor der beregnes 80 pct. af registreringsafgiften efter §§ 4, 5 eller 5 a. Ved bilens anmeldelse til registrering fra og med den 1. januar 2031 beregnes afgiften som 84 pct. af registreringsafgiften efter §§ 4, 5 eller 5 a, hvorefter procentdelen årligt stiger med 4 procentpoint til og med 2035, hvor der beregnes 100 pct. af registreringsafgiften efter §§ 4, 5 eller 5 a.
 
-Stk. 2. I tillæg til registreringsafgiften efter stk. 1 beregnes følgende afgift, jf. dog stk. 3 og 4:
+Stk. 2. Der gives et fradrag i registreringsafgiften efter stk. 1 på 50.000 kr. ved bilens anmeldelse til registrering fra og med den 18. december 2020 til og med den 31. december 2021, 48.750 kr. i 2022, 47.500 kr. i 2023, 46.250 kr. i 2024, 45.000 kr. i 2025, 43.000 kr. i 2026, 41.000 kr. i 2027, 39.000 kr. i 2028 og 37.000 kr. i 2029. Fra og med 2030 udgør fradraget 35.000 kr. Fradraget kan dog maksimalt udgøre afgiften efter stk. 1.
 
-1) Ved bilens anmeldelse til registrering i 2016-2020 beregnes 20 pct. af differencen mellem registreringsafgiften efter §§ 4 eller 5 og registreringsafgiften efter stk. 1.
-
-2) Ved bilens anmeldelse til registrering i 2021 beregnes 65 pct. af differencen mellem registreringsafgiften efter §§ 4 eller 5 og registreringsafgiften efter stk. 1.
-
-3) Ved bilens anmeldelse til registrering i 2022 beregnes 90 pct. af differencen mellem registreringsafgiften efter §§ 4 eller 5 og registreringsafgiften efter stk. 1.
-
-Stk. 3. Der gives et fradrag i registreringsafgiften efter stk. 2 på 10.000 kr. ved bilens anmeldelse til registrering i 2016-2018 og på 40.000 kr. ved bilens anmeldelse til registrering i 2019 eller 2020. Fradrag efter 1. pkt. kan dog maksimalt udgøre afgiften efter stk. 2.
-
-Stk. 4. Ved bilens anmeldelse til registrering i 2017-2022 gives et fradrag i grundlaget for registreringsafgiften efter §§ 4, 5 og 5 a som beregnet i medfør af stk. 2 på 1.700 kr. pr. kilowatt-time batterikapacitet, der anvendes til fremdrift, dog højst 45 kWh.
+Stk. 3. Der gives et fradrag i den afgiftspligtige værdi efter §§ 4, 5 eller 5 a som beregnet efter stk. 1 på 1.700 kr. pr. kWh batterikapacitet, der anvendes til fremdrift, dog højst 45 kWh, ved bilens anmeldelse til registrering fra og med den 18. december 2020 til og med den 31. december 2021, 1.300 kr. pr. kWh i 2022, 900 kr. pr. kWh i 2023 og 500 kr. pr. kWh i 2024.

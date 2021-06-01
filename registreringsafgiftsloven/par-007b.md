@@ -1,18 +1,18 @@
 ## Godtgørelse af afgift
 
-§ 7 b. Afgiften af et brugt motorkøretøj, der er afgiftsberigtiget efter §§ 4-5 e, 29 eller 29 a, godtgøres, såfremt køretøjet afmeldes fra Køretøjsregisteret og udføres fra landet.
+§ 7 b. Afgiften af et brugt motorkøretøj, der er afgiftsberigtiget efter §§ 4-5 c, 29 eller 29 a, godtgøres, såfremt køretøjet afmeldes fra Køretøjsregisteret og udføres fra landet.
 
 Stk. 2. Godtgørelsesbeløbet fastsættes i medfør af § 10 således:
 
-1) For motorcykler afgiftsberigtiget efter § 4, stk. 1, nr. 1, eller § 4, stk. 7, som afgiften efter § 4, stk. 7.
+1) For motorcykler afgiftsberigtiget efter § 4, stk. 1, nr. 1, eller § 4, stk. 6, som afgiften efter § 4, stk. 6.
 
-2) For personbiler afgiftsberigtiget efter § 4, stk. 1, nr. 2, eller § 4, stk. 7, som afgiften efter § 4, stk. 7.
+2) For personbiler afgiftsberigtiget efter § 4, stk. 1, nr. 2, eller § 4, stk. 6, som afgiften efter § 4, stk. 6.
 
-3) For varebiler afgiftsberigtiget efter § 5, stk. 1, 2 eller 8, § 29 eller § 29 a, som afgiften efter § 5, stk. 8. Dog godtgøres afgiften af en varebil, der er afgiftsberigtiget med 95 pct., på grundlag af en afgiftssats på 95 pct.
+3) For varebiler afgiftsberigtiget efter § 5, stk. 1, 2 eller 7, § 29 eller § 29 a, som afgiften efter § 5, stk. 7. Dog godtgøres afgiften af en varebil, der er afgiftsberigtiget med 95 pct., på grundlag af en afgiftssats på 95 pct.
 
 4) For autocampere og busser afgiftsberigtiget efter § 5 a, stk. 1 og 2, som afgiften efter § 5 a, stk. 1 og 2.
 
-5) For køretøjer afgiftsberigtiget efter §§ 5 b-5 e som afgiften efter §§ 5 b-5 e.
+5) For køretøjer afgiftsberigtiget efter §§ 5 b eller 5 c som afgiften efter §§ 5 b eller 5 c.
 
 Stk. 3. I de godtgørelsesbeløb, der er fastsat efter stk. 2, fratrækkes 15 pct. af beløbet, dog mindst 8.500 kr. for personbiler, herunder autocampere og busser, og 4.500 kr. for motorcykler, varebiler, hyrevogne og sygetransporter.
 
