@@ -38,11 +38,11 @@ Stk. 8. Hvis leasingaftalen ændres eller afbrydes eller det leasede køretøj �
 
 5) En ændring, som er uden betydning for opnåelse af tilladelse efter stk. 1.
 
-Stk. 9. På det tidspunkt, hvor leasingaftalen afbrydes, eller hvor køretøjet udgår af ordningen, jf. § 1, stk. 3, 5. og 6. pkt., fastsætter told- og skatteforvaltningen efter ansøgning køretøjets aktuelle afgiftspligtige værdi efter § 10. Hvis den betalte afgift efter stk. 2 overstiger den beregnede afgift efter 1. pkt., tilbagebetales differencen. Hvis den betalte afgift efter stk. 2 er mindre end den beregnede afgift efter 1. pkt., opkræves differencen.
+Stk. 9. På det tidspunkt, hvor leasingaftalen afbrydes, eller hvor køretøjet udgår af ordningen, jf. § 1, stk. 3, 5. og 6. pkt., fastsætter told- og skatteforvaltningen efter ansøgning køretøjets aktuelle afgiftspligtige værdi efter § 10. Ansøgning herom skal indgives til told- og skatteforvaltningen, senest 7 dage efter at leasingaftalen afbrydes, eller senest 7 dage efter at køretøjet udgår af ordningen. Hvis den betalte afgift efter stk. 2 overstiger den beregnede afgift efter 1. pkt., tilbagebetales differencen. Hvis den betalte afgift efter stk. 2 er mindre end den beregnede afgift efter 1. pkt., opkræves differencen.
 
 Stk. 10. Ved afgiftsperiodens udløb skal køretøjets nummerplader afleveres og køretøjet afmeldes fra Køretøjsregisteret. Hvis køretøjets nummerplader ved afgiftsperiodens udløb ikke afleveres rettidigt, skal køretøjets nummerplader efter anmodning fra told- og skatteforvaltningen snarest inddrages ved politiets foranstaltning. I tilfælde heraf skal der efterfølgende betales afgift og rente for den periode, der forløber fra afgiftsperiodens udløb til køretøjets nummerplader indleveres eller fjernes. Afgift og rente opkræves pr. påbegyndt måned, som fristen overskrides med, jf. stk. 2 og 3. 3. og 4. pkt. finder alene anvendelse i det tilfælde og i den periode, hvor leasingvirksomheden på grund af leasingtagers forhold ikke kan skaffe sig fysisk rådighed over køretøjets nummerplader ved afgiftsperiodens udløb. Skatteministeren kan fastsætte nærmere regler herom.
 
-Stk. 11. Ændres leasingaftalen i andre end de i stk. 8 opregnede tilfælde, uden at aftalen med de ønskede ændringer indsendes til told- og skatteforvaltningen til godkendelse, og anvendes køretøjet uanset forpligtelsen i stk. 8, 1. pkt., efter det tidspunkt, hvor den pågældende ændring er foretaget, forfalder den fulde registreringsafgift for køretøjet efter § 1, stk. 1, opgjort efter reglerne i §§ 4-5 e fra ændringstidspunktet.
+Stk. 11. Ændres leasingaftalen i andre end de i stk. 8 opregnede tilfælde, uden at aftalen med de ønskede ændringer indsendes til told- og skatteforvaltningen til godkendelse, og anvendes køretøjet uanset forpligtelsen i stk. 8, 1. pkt., efter det tidspunkt, hvor den pågældende ændring er foretaget, forfalder den fulde registreringsafgift for køretøjet efter § 1, stk. 1, opgjort efter reglerne i §§ 4-5 c fra ændringstidspunktet.
 
 Stk. 12. Leasingaftaler skal forelægges told- og skatteforvaltningen ved ansøgningen om tilladelse efter stk. 1. Leasingaftaler omfattet af stk. 1 skal indeholde følgende oplysninger:
 
@@ -66,7 +66,7 @@ Stk. 12. Leasingaftaler skal forelægges told- og skatteforvaltningen ved ansøg
 
 10) Angivelse og beskrivelse af andre aftaler, som har betydning for den økonomiske afvikling af leasingaftalen.
 
-Stk. 13. Overgår et køretøj til varig anvendelse her i landet ved salg eller anden overdragelse, berigtiges afgiften af køretøjet efter reglerne i §§ 4-5 e.
+Stk. 13. Overgår et køretøj til varig anvendelse her i landet ved salg eller anden overdragelse, berigtiges afgiften af køretøjet efter reglerne i §§ 4-5 c.
 
 Stk. 14. Told- og skatteforvaltningen kan efter anmodning give tilladelse til, at en virksomhed, der er registreret efter § 15, kan angive afgiften efter § 14, også for så vidt angår betaling af registreringsafgift efter denne paragraf, uden at der skal ansøges om en særskilt tilladelse som nævnt i stk. 1 for hvert enkelt køretøj. Tilladelsen efter 1. pkt. gælder dog alene for angivelse af afgift for køretøjer, der leases i henhold til en leasingaftale, hvis aftalevilkår er identiske med en på forhånd godkendt standardleasingaftale.
 
