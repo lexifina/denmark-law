@@ -2,4 +2,4 @@
 
 Stk. 2. Der betales ikke tillæg efter stk. 1 for en bil, hvis bilen efterfølgende er monteret med et godkendt partikelfilter. Kontrollen af, at det eftermonterede partikelfilter er godkendt og virker, foretages af en synsvirksomhed. Færdselsstyrelsen fastsætter regler om godkendelse af disse partikelfiltre til eftermontering og om den kontrol, synsvirksomheden skal foretage. Pligten til at betale tillægget bortfalder fra det tidspunkt, hvor told- og skatteforvaltningen modtager en anmeldelse fra synsvirksomheden om, at det eftermonterede partikelfilter er godkendt og virker.
 
-Stk. 3. Stk. 1 og 2 finder tilsvarende anvendelse for dieseldrevne varebiler med en tilladt totalvægt på ikke over 3.500 kg, der er registreret første gang før den 18. marts 2009. Tillægget efter 1. pkt. udgør dog 400 kr. i 2017 og 600 kr. i 2018.
+Stk. 3. Stk. 1 og 2 finder tilsvarende anvendelse for dieseldrevne varebiler med en tilladt totalvægt på ikke over 3.500 kg, der er registreret første gang før den 18. marts 2009.
