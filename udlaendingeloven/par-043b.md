@@ -1,1 +1,1 @@
-§ 43 b. Udlændinge- og integrationsministeren kan, når særlige repatrieringshensyn taler derfor, bestemme, at der kan ydes økonomisk støtte til frivillig tilbagevenden til hjemlandet til grupper af udlændinge, der opholder sig her i landet, og som har indgivet ansøgning om opholdstilladelse efter § 7 og ikke har opholdstilladelse her i landet.
+§ 43 b. (Ophævet)

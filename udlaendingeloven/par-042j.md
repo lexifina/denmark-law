@@ -4,7 +4,7 @@
 
 2) indkvarteringssted for de i § 42 a, stk. 1 og 2, nævnte udlændinge,
 
-3) faciliteter til brug for varetægtsfængsling i medfør af § 35, stk. 1, nr. 1. og stk. 2, af personer, som har modtaget dom og afsonet eventuel idømt straf, og som alene varetægtsfængsles med henblik på at sikre en effektiv fuldbyrdelse af udvisningen,
+3) faciliteter til brug for varetægtsfængsling i medfør af hjemrejselovens § 14, stk. 1, nr. 1, og stk. 2, af personer, som har modtaget dom og afsonet eventuel idømt straf, og som alene varetægtsfængsles med henblik på at sikre en effektiv fuldbyrdelse af udvisningen,
 
 4) faciliteter til brug for frihedsberøvelse i medfør af § 36 og
 

@@ -2,7 +2,7 @@
 
 Stk. 2. Sekretariatet forbereder Udlændingenævnets behandling af klager.
 
-Stk. 3. Udlændingenævnet kan indhente en udtalelse fra Udlændingestyrelsen, Styrelsen for International Rekruttering og Integration eller politiet i anledning af en klagesag.
+Stk. 3. Udlændingenævnet kan indhente en udtalelse fra Udlændingestyrelsen, Styrelsen for International Rekruttering og Integration, Hjemrejsestyrelsen eller politiet i anledning af en klagesag.
 
 Stk. 4. En klage behandles på skriftligt grundlag. Hvor særlige grunde taler derfor, kan Udlændingenævnet bestemme, at sagens parter og andre indkaldes til mundtlig behandling.
 

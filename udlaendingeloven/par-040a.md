@@ -10,7 +10,7 @@ Stk. 2. Der kan endvidere optages fingeraftryk af en udlænding,
 
 1) som opholder sig ulovligt her i landet, med henblik på at kontrollere, om udlændingen tidligere har indgivet ansøgning om asyl i et andet EU-land,
 
-2) som ikke søger om opholdstilladelse efter § 7, stk. 1-3, og som skal afvises, udvises eller udrejse af landet, jf. § 30, stk. 1, såfremt der på baggrund af pågældendes dokumenter, ejendele, økonomiske midler og andre personlige forhold er bestemte grunde til at antage, at den pågældende vil indrejse på ny og ansøge om opholdstilladelse efter § 7, stk. 1-3,
+2) som ikke søger om opholdstilladelse efter § 7, stk. 1-3, og som skal afvises, udvises eller udrejse af landet, jf. hjemrejselovens § 1, stk. 1, såfremt der på baggrund af pågældendes dokumenter, ejendele, økonomiske midler og andre personlige forhold er bestemte grunde til at antage, at den pågældende vil indrejse på ny og ansøge om opholdstilladelse efter § 7, stk. 1-3,
 
 3) hvis dette skønnes hensigtsmæssigt med henblik på identifikation eller identitetskontrol af den pågældende,
 
@@ -18,11 +18,13 @@ Stk. 2. Der kan endvidere optages fingeraftryk af en udlænding,
 
 5) hvis udlændingen er omfattet af § 58 g,
 
-6) som af Udlændingestyrelsen har fået anvisning eller pålæg om indkvartering efter § 42 a, stk. 7 eller stk. 8, 1. og 2. pkt., med henblik på identifikation i forbindelse med adgangskontrol på Udlændingestyrelsens indkvarteringssteder, eller
+6) som af Udlændingestyrelsen har fået anvisning eller pålæg om indkvartering efter § 42 a, stk. 7 eller hjemrejselovens § 13, stk. 1 og 2, med henblik på identifikation i forbindelse med adgangskontrol på Udlændingestyrelsens indkvarteringssteder,
 
-7) som er pålagt at give møde hos politiet efter § 34 til brug for politiets administration af den pålagte meldepligt.
+7) som er pålagt at give møde hos Udlændingestyrelsen efter § 34 til brug for Udlændingestyrelsens administration af den pålagte meldepligt, eller
 
-Stk. 3. Fingeraftryk, der optages i medfør af stk. 1 eller 2, kan registreres i et særligt edb-register, der føres af Rigspolitichefen. Politiet og Udlændingestyrelsen kan anvende registret i forbindelse med behandlingen af udlændingesager. Rigspolitichefen er dataansvarlig myndighed for registret.
+8) som er pålagt at give møde efter hjemrejselovens §§ 11 eller 12 til brug for Hjemrejsestyrelsens administration af den pålagte meldepligt.
+
+Stk. 3. Fingeraftryk, der optages i medfør af stk. 1 eller 2, kan registreres i et særligt edb-register, der føres af Rigspolitichefen. Politiet, Hjemrejsestyrelsen og Udlændingestyrelsen kan anvende registret i forbindelse med behandlingen af udlændingesager. Rigspolitichefen er dataansvarlig myndighed for registret.
 
 Stk. 4. Fingeraftryk, der modtages fra udenlandske udlændingemyndigheder i forbindelse med behandlingen af udlændingesager, kan registreres i det i stk. 3 nævnte edb-register.
 
@@ -34,7 +36,7 @@ Stk. 7. Fingeraftryk, der er optaget efter retsplejelovens bestemmelser herom el
 
 Stk. 8. Fingeraftryk, der modtages som led i en international efterlysning, kan manuelt eller elektronisk sammenholdes med fingeraftryk, der er registreret i det i stk. 3 nævnte edb-register. Oplysninger fra edb-registret kan til brug for besvarelse af en international efterlysning videregives til den internationale politisamarbejdsorganisation eller den udenlandske myndighed, der har udsendt efterlysningen.
 
-Stk. 9. Politiet og Udlændingestyrelsen kan uden udlændingens samtykke elektronisk eller manuelt videregive fingeraftryk, der i medfør af stk. 3 og 4 er registreret i det i stk. 3 nævnte edb-register, til udenlandske udlændingemyndigheder i forbindelse med behandlingen af udlændingesager. Politiet kan endvidere med henblik på identifikation af en udlænding eller med henblik på udstedelse eller fremskaffelse af rejsedokument videregive fingeraftryk, der i medfør af stk. 3 og 4 er registreret i det i stk. 3 nævnte edb-register, til hjemlandets eller et andet lands repræsentation eller til internationale politisamarbejdsorganisationer.
+Stk. 9. Politiet, Hjemrejsestyrelsen og Udlændingestyrelsen kan uden udlændingens samtykke elektronisk eller manuelt videregive fingeraftryk, der i medfør af stk. 3 og 4 er registreret i det i stk. 3 nævnte edb-register, til udenlandske udlændingemyndigheder i forbindelse med behandlingen af udlændingesager. Politiet og Hjemrejsestyrelsen kan endvidere med henblik på identifikation af en udlænding eller med henblik på udstedelse eller fremskaffelse af rejsedokument videregive fingeraftryk, der i medfør af stk. 3 og 4 er registreret i det i stk. 3 nævnte edb-register, til hjemlandets eller et andet lands repræsentation eller til internationale politisamarbejdsorganisationer.
 
 Stk. 10. Optagelse af fingeraftryk skal ske så skånsomt, som omstændighederne tillader det. Indgrebet kan om nødvendigt ske med den fornødne magtanvendelse.
 
