@@ -1,0 +1,1 @@
+§ 10 e. Skatteministeren kan fastsætte nærmere bestemmelser om opbevaring af de i medfør af §§ 10 c og 10 d indsamlede oplysninger og om videregivelse af disse oplysninger til Statsadvokaten for Særlig Økonomisk og International Kriminalitet.
