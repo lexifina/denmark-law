@@ -1,3 +1,3 @@
 Bekendtgørelse af værgemålsloven
 
-Herved bekendtgøres værgemålsloven, lov nr. 388 af 14. juni 1995, med de ændringer, der følger af § 15 i lov nr. 542 af 24. juni 2005, § 8 i lov nr. 552 af 24. juni 2005 og § 26 i lov nr. 538 af 8. juni 2006. Den ændring, der følger af § 8 i lov nr. 434 af 8. maj 2006, er ikke indarbejdet i denne lovbekendtgørelse, da tidspunktet for ikrafttræden af ændringen fastsættes af ministeren for familie- og forbrugeranliggender, jf. § 15, stk. 3, i lov nr. 434 af 8. maj 2006.
+Herved bekendtgøres værgemålsloven, jf. lovbekendtgørelse nr. 1015 af 20. august 2007, med de ændringer, der følger af § 8 i lov nr. 434 af 8. maj 2006, § 2 i lov nr. 221 af 21. marts 2011, § 8 i lov nr. 647 af 12. juni 2013, § 32 i lov nr. 618 af 8. juni 2016, § 3 i lov nr. 81 af 24. januar 2017, § 10 i lov nr. 550 af 30. maj 2017, § 17 i lov nr. 1711 af 27. december 2018 og § 1 i lov nr. 1722 af 27. december 2018.
