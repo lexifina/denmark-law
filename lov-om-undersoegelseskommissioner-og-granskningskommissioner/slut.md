@@ -1,7 +1,5 @@
-Givet på Christiansborg slot, den 2. juni 1999
+Justitsministeriet, den 28. maj 2021
 
-Under Vor Kongelige Hånd og Segl
+Nick Hækkerup
 
-Margrethe R.
-
-/Frank Jensen
+/ Henrik Skovgaard-Petersen
