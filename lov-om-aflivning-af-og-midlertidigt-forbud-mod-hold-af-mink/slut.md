@@ -1,7 +1,5 @@
-Givet på Marselisborg Slot, den 29. december 2020
+Ministeriet for Fødevarer, Landbrug og Fiskeri, den 7. juni 2021
 
-Under Vor Kongelige Hånd og Segl
+P.M.V. Tejs Binderup
 
-MARGRETHE R.
-
-/ Rasmus Prehn
+/ Paolo Drostby
