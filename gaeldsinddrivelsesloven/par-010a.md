@@ -1,0 +1,3 @@
+§ 10 a. Der kan ske særskilt lønindeholdelse af beløb til dækning af biblioteksgebyrer med tillæg af renter, gebyrer og andre omkostninger, kontrolafgifter med tillæg af renter, gebyrer og andre omkostninger for overtrædelse af bestemmelser i færdselsloven, lov om radio- og fjernsynsvirksomhed, jernbaneloven og lov om trafikselskaber og af beløb til dækning af tilbagebetalingskrav efter § 10 b, stk. 3, hidrørende fra særskilt lønindeholdelse samt medielicens og radiolicens med tillæg af renter, gebyrer og andre omkostninger efter lov om radio- og fjernsynsvirksomhed.
+
+Stk. 2. Skatteministeren fastsætter nærmere regler for denne lønindeholdelse.
