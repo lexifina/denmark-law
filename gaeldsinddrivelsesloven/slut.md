@@ -1,79 +1,47 @@
-Skatteministeriet, den 12. januar 2015
+Skatteministeriet, den 16. juni 2021
 
 P.M.V. Jens Brøchner
 
-/ Camilla Christensen
+/ Annemette Ottosen
 
 Bilag 1
 
-## Fordringer, der kan inddrives ved lønindeholdelse, jf. § 10, og fordringer, der kan inddrives ved udpantning, jf. § 11:
+I. Fordringstyper, for hvilke der ikke kan foretages lønindeholdelse efter § 10:
 
-1) Stats- og kommuneskatter samt afgifter og ydelser, som ifølge lov tilkommer stat, kommune, kirker, anerkendte trossamfund, offentlige stiftelser eller embeder og bestillinger, herunder skattebeløb, som en indeholdelsespligtig har været forpligtet til at indeholde eller opkræve, samt parafiskale udgifter.
+1) Civilretlige fordringstyper.
 
-2) Enhver på en fast ejendom hvilende, stadig tilbagevendende eller af en bestemt begivenhed afhængig pengeafgift, som uden særlig vedtagelse går over fra ejer til ejer, og tilkommer stat, kommune, kirker, anerkendte trossamfund, offentlige stiftelser eller embeder og bestillinger, når afgiftens størrelse fastsættes efter faste regler.
+a. Lønindeholdelse kan dog ske for:
 
-3) Krav, der er tillagt fortrinsret i fast ejendom.
+i. Bibliotekers krav på erstatning for udlånsmateriale, som skyldner har beskadiget eller ikke har afleveret efter sit hjemlån. Det er dog en betingelse, at skyldner skriftligt har anerkendt kravet, medmindre kravet vedrører erstatning for udlånsmateriale, der ikke er afleveret af skyldner, og det pågældende bibliotek tilbyder en kvittering ved aflevering af lånte materialer.
 
-4) Arbejdsmarkedsbidrag, herunder arbejdsmarkedsbidrag, som nogen har været forpligtet til at indeholde eller opkræve.
+ii. Fordringer, der udspringer af en garanti, som fordringshaver har stillet for en boligtagers kontraktmæssige forpligtelser over for ejendommens ejer til at istandsætte boligen ved fraflytning.
 
-5) Told.
+iii. Statens regreskrav efter § 10 a, stk. 5, i lov om arbejdsskadesikring, § 1 a, stk. 2, i lov om erstatning til tilskadekomne værnepligtige m.fl. og § 17 i lov om erstatning fra staten til ofre for forbrydelser, i det omfang statens regreskrav mod skadevolderen kan tvangsfuldbyrdes efter retsplejelovens § 478.
 
-6) Krav vedrørende retsafgift, tinglysningsafgift, registreringsafgift, skadesforsikringsafgift, bo- og gaveafgifter, vægtafgift og lignende afgifter.
+iv. Andre fordringer end de i nr. iii nævnte, der ifølge lovgivningen tilkommer en fordringshaver omfattet af denne lov. Det er dog en forudsætning, at de betingelser, der ifølge den pågældende lovgivning stilles, for at kravet tilkommer fordringshaver, er opfyldt.
 
-7) Underholdsbidrag.
+v. Krav på erstatning, hvis kravet kan tvangsfuldbyrdes efter retsplejelovens § 478.
 
-8) Betaling fastsat af en offentlig myndighed for benyttelse af indretninger, der tjener et almennyttigt formål, og hvor der er almindelig offentlig adgang.
+vi. Underholdsbidrag.
 
-9) Krav på erstatning.
+II. Fordringstyper, for hvilke der ikke kan foretages udpantning efter § 11:
 
-10) Krav på betaling for løsøre købt på offentlig auktion.
+1) Civilretlige fordringstyper.
 
-11) Tilbagebetalingskrav vedrørende tilskud, støtteordninger, uberettiget modtagne ydelser, ydelser, som er for meget udbetalt, og som tilkommer det offentlige, samt administrative sanktioner, der vedrører disse krav.
+a. Udpantning kan dog ske for:
 
-12) Betaling for hjælp ydet af det offentlige.
+i. Bibliotekers krav på erstatning for udlånsmateriale, som skyldner har beskadiget eller ikke har afleveret efter sit hjemlån. Det er dog en betingelse, at skyldner skriftligt har anerkendt kravet, medmindre kravet vedrører erstatning for udlånsmateriale, der ikke er afleveret af skyldner, og det pågældende bibliotek tilbyder en kvittering ved aflevering af lånte materialer.
 
-13) Beløb, som en offentlig myndighed har udlagt.
+ii. Fordringer, der udspringer af en garanti, som fordringshaver har stillet for en boligtagers kontraktmæssige forpligtelser over for ejendommens ejer til at istandsætte boligen ved fraflytning.
 
-14) Udgifter til foranstaltninger og arbejder, som det offentlige har foretaget på den forpligtedes vegne eller for den forpligtedes regning.
+iii. Statens regreskrav efter § 10 a, stk. 5, i lov om arbejdsskadesikring, § 1 a, stk. 2, i lov om erstatning til tilskadekomne værnepligtige m.fl. og § 17 i lov om erstatning fra staten til ofre for forbrydelser, i det omfang statens regreskrav mod skadevolderen kan tvangsfuldbyrdes efter retsplejelovens § 478.
 
-15) Bøder, tvangsbøder, administrative bøder, offerbidrag, konfiskationer og kontrolafgifter, herunder parkeringsafgifter.
+iv. Andre fordringer end de i nr. iii nævnte, der ifølge lovgivningen tilkommer en fordringshaver omfattet af denne lov. Det er dog en forudsætning, at de betingelser, der ifølge den pågældende lovgivning stilles, for at kravet tilkommer fordringshaver, er opfyldt.
 
-16) Misligholdte statslån og kommunale lån.
+v. Krav på erstatning, hvis kravet kan tvangsfuldbyrdes efter retsplejelovens § 478.
 
-17) Statskassens eller kommuners tilgodehavender efter indfrielse af en ydet garanti eller kaution.
+vi. Underholdsbidrag.
 
-18) Kongeriget Danmarks Fiskeribanks tilgodehavender og Byggeskadefondens tilgodehavender, som ikke er tillagt fortrinsret i fast ejendom.
+III. Fordringstyper, for hvilke der ikke tillades afdragsordninger efter § 3, stk. 3:
 
-19) Medielicens.
-
-20) Betalingsforpligtelser for ydelser, der leveres af det offentlige.
-
-21) Krav, der modtages til inddrivelse fra udlandet.
-
-22) Krav vedrørende ubetalt præmie og refusionskrav efter lov om arbejdsskadesikring.
-
-23) Præmiebetaling og refusion fra arbejdsgiver på forskudsvis udbetalte beløb efter lov om sygedagpenge.
-
-24) Krav vedrørende arbejdsgiverbidrag.
-
-25) Krav mod arbejdsgiveren om betaling af dagpengegodtgørelse, når kravet er fastslået af Arbejdsmarkedets Ankenævn.
-
-26) Tilbagebetalingskrav efter lov om arbejdsløshedsforsikring vedrørende uberettiget modtaget dagpenge eller andre ydelser fra en A-kasse og ydelser, der skal betales tilbage som følge af, at et medlem senere modtager løn, pension eller andre indtægter, der dækker samme tidsrum som ydelserne fra kassen, hvis kassen har ret til refusion fra statskassen, og når kravet er fastslået i en afgørelse truffet af en kasse, Arbejdsdirektoratet eller Arbejdsmarkedets Ankenævn eller er sikret ved dom eller et eksigibelt forlig.
-
-27) Fordringer, staten har overtaget vedrørende ikke rettidigt betalt leje og lignende ydelser.
-
-28) Beløb, som vedrører tvungen administration af udlejningsejendomme.
-
-29) Sagsomkostninger vedrørende civilretlige sager og straffesager.
-
-30) Udgifter til en sags behandling ved et privat ankenævn, der er etableret ved lov, og ved nævn, der nedsættes af en minister, samt gebyr til finansiering af disciplinærnævnet, som opkræves hos registrerede ejendomsmæglere.
-
-31) Afgifter, gebyrer, drifts- og etableringsudgifter, administrationsomkostninger og omkostninger til tilsyn og kontrol, som en myndighed har krav på at få dækket.
-
-32) Krav på tilbagebetaling af omkostningsgodtgørelse efter skatteforvaltningslovens kapitel 19.
-
-33) Biblioteksgebyrer.
-
-34) Bibliotekers krav på erstatning for udlånsmateriale, som skyldner har beskadiget eller ikke har afleveret efter sit hjemlån. Det er dog en betingelse, at skyldner skriftligt har anerkendt kravet, medmindre kravet vedrører erstatning for udlånsmateriale, der ikke er afleveret af skyldner, og det pågældende bibliotek tilbyder en kvittering ved aflevering af lånte materialer.
-
-35) Fordringer, der udspringer af en garanti, som fordringshaver har stillet for en boligtagers kontraktmæssige forpligtelser over for ejendommens ejer til at istandsætte boligen ved fraflytning.
+1) Tvangsbøder.
