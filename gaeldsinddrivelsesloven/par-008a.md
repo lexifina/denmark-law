@@ -1,0 +1,7 @@
+§ 8 a. Ved modregning kan restanceinddrivelsesmyndigheden lægge de datooplysninger, som for fordringer, herunder renter og gebyrer, er registreret i restanceinddrivelsesmyndighedens inddrivelsessystemer, til grund, når modregningen gennemføres, efter at skyldnerens krav på udbetaling fra det offentlige er overdraget til tredjemand, jf. dog stk. 2.
+
+Stk. 2. Hvor restanceinddrivelsesmyndigheden har mistanke om, at en registreret datooplysning medfører risiko for uberettiget modregning, kan restanceinddrivelsesmyndigheden for den eller de fordringer, der efter restanceinddrivelsesmyndighedens skøn kan være berørt af fejlen, anvende en senere dato eller ændre den registrerede dato til en senere dato, der lægges til grund efter stk. 1.
+
+Stk. 3. Restanceinddrivelsesmyndigheden kan ved kendskab til eller mistanke om datafejl i fordringen beslutte, at der helt eller delvis ikke skal ske modregning i en udbetaling, hvis det under hensyntagen til tilrettelæggelsen af restanceinddrivelsesmyndighedens drift, udbetalingsfristen, fordringernes beløb, fejlens karakter eller undersøgelsernes kompleksitet findes hensigtsmæssigt.
+
+Stk. 4. Restanceinddrivelsesmyndigheden kan aftale med en fordringshaver eller den, der på vegne af denne opkræver fordringen, at de datooplysninger, der skal gives om en fordring ved dens overdragelse til restanceinddrivelsesmyndigheden, angives som senere datoer end de rigtige.
