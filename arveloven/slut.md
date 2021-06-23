@@ -1,7 +1,5 @@
-Givet på Christiansborg Slot, den 6. juni 2007
+Justitsministeriet, den 15. juni 2021
 
-Under Vor Kongelige Hånd og Segl
+Nick Hækkerup
 
-Margrethe R.
-
-/Lene Espersen
+/ Jørgen Jørgensen
