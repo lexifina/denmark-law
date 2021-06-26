@@ -1,4 +1,4 @@
-§ 538 a. Fyldestgøres et krav, der er sikret ved håndpant, ikke rettidigt, kan panthaveren lade pantet bortsælge ved tvangsauktion. Finansielle instrumenter, jf. § 4 i lov om kapitalmarkeder, som har kurs på et dansk eller udenlandsk reguleret marked, sælges dog gennem et fondsmæglerselskab, jf. § 5, stk. 1, nr. 1, litra c, i lov om finansiel virksomhed.
+§ 538 a. Fyldestgøres et krav, der er sikret ved håndpant, ikke rettidigt, kan panthaveren lade pantet bortsælge ved tvangsauktion. Finansielle instrumenter, jf. § 4 i lov om kapitalmarkeder, som har kurs på et dansk eller udenlandsk reguleret marked, sælges dog gennem et fondsmæglerselskab.
 
 Stk. 2. Inden panthaveren tager skridt til fyldestgørelse, skal han, medmindre pantsætterens bopæl er ham ubekendt, med en uges varsel ved anbefalet brev opfordre denne til at opfylde kravet, medmindre omgående salg er nødvendigt for at undgå eller begrænse et tab. Afkald på sådan opfordring er ikke gyldigt.
 
