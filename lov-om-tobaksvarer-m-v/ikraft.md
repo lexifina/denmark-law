@@ -20,11 +20,11 @@ Stk. 2. Lovens § 1, § 2, nr. 1-3 og 7, § 3, nr. 1, 9-13, 15 og 18, § 4 og §
 
 Stk. 3. Lovens § 2, nr. 8-12 og 15-20, 22 og 23, træder i kraft den 1. juli 2021.
 
-Stk. 4-5. (udelades)
+Stk. 4-5. (Udelades)
 
 Stk. 6. Erhvervsministeren fastsætter tidspunktet for ikrafttrædelse af lovens § 2, nr. 4 og 5, og § 3, nr. 5, 6 og 16.
 
-Stk. 7. Sundheds- og ældreministeren fastsætter tidspunktet for ikrafttrædelse af lovens § 2, nr. 6, 13, 14 og 21, og § 3, nr. 8.
+Stk. 7. Sundhedsministeren fastsætter tidspunktet for ikrafttrædelse af lovens § 2, nr. 6, 13, 14 og 21, og § 3, nr. 8.
 
 Stk. 8. For udstyr, der benyttes i forbindelse med tobaksvarer og urtebaserede rygeprodukter, der er fremstillet før den 1. april 2021, har lovens § 2, nr. 7, virkning fra den 1. april 2022.
 
@@ -32,6 +32,12 @@ Stk. 9. For tobakssurrogater, der er fremstillet før den 1. juli 2021, har love
 
 Stk. 10. For tobaksvarer og urtebaserede rygeprodukter, der er fremstillet før den 1. juli 2021, har lovens § 2, nr. 11 og 15, virkning fra den 1. april 2022.
 
-Stk. 11-13. (udelades)
+Stk. 11-13. (Udelades)
 
-Stk. 14. Sundheds- og ældreministeren fastsætter i forbindelse med ikrafttrædelsen af § 14, stk. 3 og 4, i lov om tobaksvarer m.v. som affattet ved denne lovs § 2, nr. 6, en overgangsordning på 12 måneder for markedsføring af tobaksvarer og urtebaserede rygeprodukter med kendetegnende aroma, der er fremstillet, før bestemmelsen træder i kraft.
+Stk. 14. Sundhedsministeren fastsætter i forbindelse med ikrafttrædelsen af § 14, stk. 3 og 4, i lov om tobaksvarer m.v. som affattet ved denne lovs § 2, nr. 6, en overgangsordning på 12 måneder for markedsføring af tobaksvarer og urtebaserede rygeprodukter med kendetegnende aroma, der er fremstillet, før bestemmelsen træder i kraft.
+
+Lov nr. 1185 af 8. juni 2021 (Ændring af journalføringsreglerne, reaktionsmulighed ved manglende betaling af registreringsgebyr på tatoveringsområdet og supplerende bestemmelser i tilknytning til markedsovervågningsforordningen samt lovtekniske ændringer i psykiatriloven og strålebeskyttelsesloven) indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 9
+
+Loven træder i kraft d. 1. juli 2021.
