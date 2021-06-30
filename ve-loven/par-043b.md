@@ -10,4 +10,4 @@ Stk. 5. Tilskud efter stk. 2 og 3 ydes til den, der sælger biogassen til transp
 
 Stk. 6. Tilskud efter stk. 2 og 3 er betinget af klima-, energi- og forsyningsministerens tilsagn, inden der indgås ubetinget aftale om køb af biogas til brug for salg til transport, eller inden der iværksættes egenproduktion af biogas til brug for salg til transport. Et tilsagn om tilskud, som er meddelt efter den 1. januar 2019, og som ikke er udnyttet, inden 2 år efter at tilsagnet er meddelt, bortfalder.
 
-Stk. 7. Ansøger skal for at modtage tilskud efter stk. 2 og 3 opfylde de krav, som fremgår af regler udstedt i medfør af § 50, stk. 5, og § 50 a.
+Stk. 7. Ansøger skal for at modtage tilskud efter stk. 2 og 3 opfylde de krav, som fremgår af regler udstedt i medfør af § 50, stk. 5, og §§ 50 a, 56 d og 56 f og § 58, nr. 3.

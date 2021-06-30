@@ -1,0 +1,1 @@
+§ 56 e. Klima-, energi- og forsyningsministeren kan fastsætte regler om, at modtagelse af pristillæg eller andre ydelser efter §§ 47 og 49 er betinget af opfyldelsen af de gældende kriterier for bæredygtighed og for besparelse af drivhusgasemissioner.
