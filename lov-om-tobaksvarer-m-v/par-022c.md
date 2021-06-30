@@ -1,0 +1,1 @@
+§ 22 c. Sundhedsministeren fastsætter regler om mærkning af og emballage på tobakssurrogater, herunder regler om forbud mod at benytte elementer eller træk i mærkningen, der kan give et fejlagtigt billede af produkternes formål, anvendelse eller virkninger.
