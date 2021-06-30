@@ -2,4 +2,6 @@
 
 2) Lovændringen vedrører fodnoten, § 2, §§ 22a og 22b, indsættelse af nyt kapitel 9a, §§ 31a og 31b, overskriften til kapitel 10, § 32, § 32a, §§ 33-36, § 39a, § 43 og § 45.
 
-3) Lovændringen vedrører § 1, § 2, overskriften til kapitel 2, §3a, § 14, § 15 a, overskriften til kapitel 5, § 19a, overskriften til kapitel 6, § 21a, § 22c, overskriften til kapitel 7, § 24, § 30a, § 36, § 37, § 38, § 39 og § 45.
+3) Lovændringen vedrører § 1, § 2, overskriften til kapitel 2, § 3a, § 14, § 15a, overskriften til kapitel 5, § 19a, overskriften til kapitel 6, § 21a, § 22c, overskriften til kapitel 7, § 24, § 30a, § 36, § 37, § 38, § 39 og § 45.
+
+4) Lovændringen vedrører § 6, § 32, § 34, § 35, § 38a, § 38b og § 45.
