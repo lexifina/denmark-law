@@ -5,3 +5,5 @@
 2) Havområdet: Dansk territorialfarvand, dansk eksklusiv økonomisk zone eller dansk kontinentalsokkel som defineret i De Forenede Nationers Havretskonvention.
 
 3) Rettighedshaver: Den eller dem, som deltager i en tilladelse omfattet af denne lov. En rettighedshaver kan bestå af en eller flere fysiske eller juridiske personer i forening, herunder bevillingshavere og bistandsydere.
+
+4) Geotermisk energi: Energi, som lagres i form af varme under jordens faste overflade.

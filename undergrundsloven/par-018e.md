@@ -1,0 +1,1 @@
+§ 18 e. Klima-, energi- og forsyningsministeren kan fastsætte regler om, at ansøgninger om godkendelser efter § 10, stk. 2 og 3, og § 28, stk. 1, angående elproducerende geotermianlæg skal afgøres inden for en af ministeren fastsat frist, og at sådanne ansøgninger skal behandles samtidig med andre ansøgninger om tilladelser og godkendelser efter anden lovgivning.

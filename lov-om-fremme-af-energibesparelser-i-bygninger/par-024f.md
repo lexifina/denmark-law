@@ -1,4 +1,4 @@
-## Kapitel 9 b
+## Kapitel 9 b.
 
 ## Godkendelsesordning for virksomheder, der leverer rådgivning og projektstyring m.v. i forbindelse med energirenovering af bygninger
 
