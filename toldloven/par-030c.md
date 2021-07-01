@@ -1,0 +1,1 @@
+§ 30 c. Er meddelelse af toldskyld afsendt inden forældelsesfristens udløb, indtræder forældelse af krav afledt af meddelelsen, tidligst 1 år efter at told- og skatteforvaltningen har givet meddelelse om afgørelsen. Dette gælder, uanset om kravet gøres gældende af told- og skatteforvaltningen eller af en godtgørelses- eller fritagelsesberettiget debitor.
