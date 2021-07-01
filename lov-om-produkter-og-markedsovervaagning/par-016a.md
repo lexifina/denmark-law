@@ -1,0 +1,3 @@
+§ 16 a. Er et instrument inden for metrologiområdet ikke i overensstemmelse med regler i denne lov eller regler fastsat i medfør af denne lov, kan kontrolmyndigheden påbyde instrumentejeren at bringe instrumentet i overensstemmelse med reglerne, hvis instrumentet anvendes til måling, hvor der på baggrund af målingen skal foretages betaling.
+
+Stk. 2. Kontrolmyndigheden kan forbyde instrumentejeren at anvende et instrument til måling, hvor der på baggrund af målingen skal foretages betaling, hvis instrumentet eller instrumentejeren ikke lever op til regler i denne lov eller regler fastsat i medfør af denne lov.

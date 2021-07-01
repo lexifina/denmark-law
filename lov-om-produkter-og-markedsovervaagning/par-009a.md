@@ -1,0 +1,1 @@
+§ 9 a. Kontrolmyndigheden kan bemyndige en anden offentlig myndighed eller en offentlig eller privat virksomhed til at udføre kontrol efter § 9, stk. 1, på metrologiområdet. Den bemyndigede kan i den forbindelse udøve kontrolmyndighedens beføjelser efter § 10, stk. 1, og § 11, stk. 1-3.
