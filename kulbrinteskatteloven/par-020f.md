@@ -12,4 +12,4 @@
 
 4) Planen som nævnt i nr. 3 er godkendt senest i indkomståret 2026, og betingelserne for at påbegynde afskrivning på driftsmidlerne, jf. afskrivningslovens § 3, er opfyldt senest i indkomståret 2026.
 
-Stk. 2. Den skattepligtiges valg af reglerne i dette kapitel skal foretages i forbindelse med rettidig selvangivelse for det første indkomstår, hvor reglerne ønskes anvendt. Når den skattepligtige har valgt at anvende reglerne i dette kapitel, er valget bindende for samtlige betalinger omfattet af stk. 1 i det pågældende og efterfølgende indkomstår.
+Stk. 2. Den skattepligtiges valg af reglerne i dette kapitel skal foretages i forbindelse med rettidig afgivelse af oplysninger til told- og skatteforvaltningen efter skattekontrollovens § 2 for det første indkomstår, hvor reglerne ønskes anvendt. Når den skattepligtige har valgt at anvende reglerne i dette kapitel, er valget bindende for samtlige betalinger omfattet af stk. 1 i det pågældende og efterfølgende indkomstår.
