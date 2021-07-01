@@ -4,9 +4,9 @@
 
 1) Arbejdsløshedsdagpenge efter lov om arbejdsløshedsforsikring m.v.
 
-2) Aktiveringsydelse efter lov om arbejdsløshedsforsikring m.v.
+2) Praktikydelse eller aktiveringsydelse efter lov om en aktiv arbejdsmarkedspolitik og lov om arbejdsløshedsforsikring m.v.
 
-3) Uddannelsesydelse efter lov om arbejdsløshedsforsikring m.v.
+3) Uddannelsesydelse eller uddannelsesgodtgørelse efter lov om arbejdstilbud til ledige, lov om en aktiv arbejdsmarkedspolitik, lov om en aktiv beskæftigelsesindsats og lov om arbejdsløshedsforsikring m.v.
 
 4) Feriedagpenge efter lov om arbejdsløshedsforsikring m.v.
 
@@ -28,7 +28,7 @@
 
 13) Plejevederlag til pasning af døende nærtstående efter serviceloven og bistandsloven.
 
-14) Tabt arbejdsfortjeneste efter serviceloven fra før 2003.
+14) Tabt arbejdsfortjeneste efter bistandsloven og serviceloven fra før 2003.
 
 15) Løn under værnepligtsuddannelse og tid som militærnægter.
 
@@ -36,7 +36,7 @@
 
 17) Perioder med skolepraktik på SU-berettigende uddannelser.
 
-18) Perioder i det ordinære uddannelsessystem påbegyndt efter det fyldte 40. år.
+18) Perioder i det ordinære uddannelsessystem efter det fyldte 40. år.
 
 Stk. 2. Personer, der er fyldt 18 år, vil få den beregnede anciennitet i perioden fra 1971 til og med 1977 ganget med 2, hvis personen er omfattet af stk. 1, nr. 11 og 13-17. Personer, der er fyldt 18 år, vil fra og med 1978 få den beregnede anciennitet ganget med 1,5, hvis personen er omfattet af stk. 1, nr. 11 og 13-17. Personer, der modtager fleksløntilskud efter stk. 1, nr. 12, vil ligeledes få den beregnede anciennitet beregnet efter 1. og 2. pkt. Fra det fyldte 18. år foretages beregningen af anciennitet efter 1. og 2. pkt. for den andel af året, hvor personen har været 18 år.
 
