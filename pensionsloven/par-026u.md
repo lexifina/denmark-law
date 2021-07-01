@@ -1,1 +1,1 @@
-§ 26 u. Beskæftigelsesministeren kan fastsætte nærmere regler om indgivelse og behandling af ansøgning om tidlig pension efter § 26 r, om kravet om arbejdsmarkedstilknytning efter § 26 s og om overgang til tidlig pension efter § 26 t.
+§ 26 u. Beskæftigelsesministeren kan fastsætte nærmere regler om indgivelse og behandling af ansøgning om tidlig pension efter § 26 r, om kravet om arbejdsmarkedstilknytning efter § 26 s, om overgang til tidlig pension efter § 26 t og om udbetaling af tidlig pension efter § 33, stk. 3.

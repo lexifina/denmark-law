@@ -1,6 +1,6 @@
 ## Krav om arbejdsmarkedstilknytning inden overgang til tidlig pension
 
-§ 26 s. Det er en betingelse for ret til tidlig pension, at personen bevarer en tilknytning til arbejdsmarkedet gennem beskæftigelse eller som medlem af en arbejdsløshedskasse, efter at Udbetaling Danmark har truffet afgørelse efter § 26 r, stk. 2. Tilknytningen til arbejdsmarkedet skal være opfyldt i en sammenhængende periode på 9 måneder, der ligger umiddelbart før det tidspunkt, hvor der er 3 måneder til, at personen tidligst kan overgå til tidlig pension, jf. dog stk. 7.
+§ 26 s. Det er en betingelse for ret til tidlig pension, at personen bevarer en tilknytning til arbejdsmarkedet gennem beskæftigelse eller som medlem af en arbejdsløshedskasse, efter at Udbetaling Danmark har truffet afgørelse efter § 26 r, stk. 2. Tilknytningen til arbejdsmarkedet skal være opfyldt i en sammenhængende periode på 9 måneder, der ligger umiddelbart før det tidspunkt, hvor der er 3 måneder til, at personen overgår til tidlig pension, jf. dog stk. 7.
 
 Stk. 2. Ved beskæftigelse forstås
 
@@ -28,7 +28,7 @@ Stk. 5. En person, der kan dokumentere beskæftigelse, jf. stk. 2 og 3, eller so
 
 Stk. 6. En person, der ikke er medlem af en arbejdsløshedskasse, og som bliver ledig i 9-månedersperioden efter stk. 1, 2. pkt., kan opfylde kravet i stk. 1 ved senest 7 dage efter ledighedens indtræden at melde sig ind i en arbejdsløshedskasse. Indmeldelse i en arbejdsløshedskasse vil dog, jf. stk. 4, skulle ske, senest 2 år før personen når folkepensionsalderen. Medlemskabet skal bevares uafbrudt frem til udløbet af 9-månedersperioden efter stk. 1, 2. pkt.
 
-Stk. 7. Træffer Udbetaling Danmark afgørelse efter § 26 r, stk. 2, mindre end 12 måneder før en person kan overgå til tidlig pension, regnes perioden efter stk. 1, 2. pkt., fra 7 dage efter tidspunktet for afgørelsen om ret til tidlig pension frem til overgangen til tidlig pension. Udbetaling Danmark kan i særlige tilfælde forlænge fristen efter 1. pkt. til højst 21 dage efter tidspunktet for afgørelsen om ret til tidlig pension.
+Stk. 7. Træffer Udbetaling Danmark afgørelse efter § 26 r, stk. 2, mindre end 12 måneder før en person kan overgå til tidlig pension, skal perioden efter stk. 1, 2. pkt., være opfyldt efter tidspunktet for afgørelsen om ret til tidlig pension og 9 måneder frem, medmindre personen allerede opfylder kravet efter stk. 1, 2. pkt., ved overgangen til tidlig pension. Tilsvarende gælder, hvis Udbetaling Danmark træffer afgørelse efter § 26 r, stk. 2, efter det tidspunkt, hvor personen tidligst kan overgå til tidlig pension.
 
 Stk. 8. En person, der inden overgang til tidlig pension har fået tilkendt førtidspension efter lov om social pension eller lov om højeste, mellemste, forhøjet almindelig og almindelig førtidspension m.v. eller fået tilkendt seniorpension efter lov om social pension, anses ikke for at opfylde kravet om tilknytning til arbejdsmarkedet. Tilsvarende gælder, hvis personen har ret til social pension udbetalt efter lovgivningen i en anden EU-/EØS-medlemsstat eller pension udbetalt efter lovgivningen i Schweiz, Storbritannien eller et andet land.
 
