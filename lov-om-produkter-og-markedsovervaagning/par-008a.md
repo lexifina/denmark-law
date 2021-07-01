@@ -1,0 +1,3 @@
+§ 8 a. Erhvervsministeren kan fastsætte regler om måleteknik og anvendelse af måleenheder for metrologi omfattet af § 2, stk. 1, nr. 13-19, og stk. 2, nr. 3, herunder måleteknisk kontrol, anmeldelsespligt for ibrugværende måleinstrumenter, og hvilke varer der skal sælges i bestemte enheder i henseende til mål og vægt, herunder klassificering og sortering.
+
+Stk. 2. Erhvervsministeren fastsætter regler om etablering og vedligeholdelse af primær- og referencenormaler inden for afgrænsede metrologiske felter. Erhvervsministeren udpeger i den forbindelse tillige nationale metrologiinstitutter til at varetage etableringen og vedligeholdelsen.
