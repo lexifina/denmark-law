@@ -2,7 +2,7 @@
 
 Stk. 2. Det Psykiatriske Patientklagenævn skal afgive de oplysninger til Det Psykiatriske Ankenævn, som er nødvendige for ankenævnets behandling af sager efter dette kapitel. Det Psykiatriske Ankenævn kan forelægge en sag for Sundhedsstyrelsen og Retslægerådet, før nævnet træffer afgørelse i sagen.
 
-Stk. 3. Det Psykiatriske Ankenævn sekretariatsbetjenes af Patientombuddet, jf. § 11 i lov om klage- og erstatningsadgang inden for sundhedsvæsenet.
+Stk. 3. Det Psykiatriske Ankenævn sekretariatsbetjenes af Styrelsen for Patientklager, jf. § 11 i lov om klage- og erstatningsadgang inden for sundhedsvæsenet.
 
 Stk. 4. Sundheds- og ældreministeren fastsætter efter forhandling med Det Psykiatriske Ankenævn dettes forretningsorden, herunder regler om formandens adgang til at træffe afgørelse i sager, der ikke skønnes at give anledning til tvivl.
 
