@@ -1,4 +1,4 @@
-§ 54 a. Sager om afsked uden ansøgning af en fuldmægtig indbringes af Domstolsstyrelsen for Den Særlige Klageret. Afskedigelse uden ansøgning efter § 54, stk. 2, 2. pkt., sker dog administrativt.
+§ 54 a. Sager om afsked uden ansøgning af en fuldmægtig indbringes af Domstolsstyrelsen for Den Særlige Klageret. Afskedigelse uden ansøgning efter § 54, stk. 2, 2. pkt., og stk. 6, sker dog administrativt.
 
 Stk. 2. Fremsættes der indsigelse mod en varslet ændring af tjenestested, indbringer Domstolsstyrelsen sagen for Den Særlige Klageret. Indsigelse skal fremsættes senest 14 dage efter, at den pågældende har fået varsel om det nye tjenestested.
 
