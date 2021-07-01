@@ -1,0 +1,1 @@
+§ 27 a. Sikkerhedsstyrelsen kan påbyde ejeren af en onlinegrænseflade at ændre eller fjerne indhold, der henviser til et produkt, der ikke er i overensstemmelse med regler i denne lov, regler fastsat i medfør af denne lov eller forordninger vedrørende denne lovs anvendelsesområde.
