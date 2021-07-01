@@ -1,0 +1,1 @@
+1) Loven indeholder bestemmelser, der gennemfører dele af Europa-Parlamentets og Rådets direktiv 2019/633/EU af 17. april 2019 om urimelig handelspraksis i relationer mellem virksomheder i landbrugs- og fødevareforsyningskæden, EU-Tidende 2019, nr. L 111, side 59.
