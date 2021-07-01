@@ -33,3 +33,7 @@ Stk. 4. Stk. 3, nr. 3, finder ikke anvendelse, hvis
 Stk. 5. Stk. 4 finder ikke anvendelse, hvis der er bestemte grunde til at antage, at det afgørende formål med ansøgningen er at forlænge opholdet her i landet, og det er åbenbart, at ansøgningen ikke kan føre til meddelelse af opholdstilladelse.
 
 Stk. 6. Stk. 3, nr. 2, finder ikke anvendelse, hvis udlændingen har indgivet ansøgning om opholdstilladelse efter § 7 her i landet og medvirker til sagens oplysning, jf. § 40, stk. 1, 1. og 2. pkt., og efter afslag på eller frafald af ansøgningen selv udrejser eller medvirker til udrejsen uden ugrundet ophold.
+
+Stk. 7. En udlænding kan ikke få visum efter § 4, stk. 1, i 3 år, hvis udlændingen efter indrejsen føder et barn her i landet uden forinden indrejsen at have indgået aftale med et privat fødested om fødslen, jf. dog stk. 8.
+
+Stk. 8. Stk. 7 finder ikke anvendelse, hvis udlændingen godtgør, at fødslen her i landet skyldes omstændigheder, der ikke kan lægges udlændingen til last, eller hvis der foreligger ganske særlige grunde, herunder hvis en afskæring af udlændingens muligheder for at få visum vil udgøre en åbenbart uforholdsmæssig reaktion.

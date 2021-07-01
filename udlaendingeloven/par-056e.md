@@ -1,4 +1,4 @@
-§ 56 e. En uledsaget mindreårig udlænding, der er fyldt 12 år, og en repræsentant for en uledsaget mindreårig udlænding, jf. § 56 a, stk. 1, kan klage over kommunalbestyrelsens afgørelser efter § 62 m, stk. 3, og § 62 r, stk. 2, og kommunalbestyrelsens afgørelser efter regler fastsat i medfør af § 62 l, stk. 8, og § 62 u, stk. 2.
+§ 56 e. En uledsaget mindreårig udlænding, der er fyldt 12 år, og en repræsentant for en uledsaget mindreårig udlænding, jf. § 56 a, stk. 1, kan klage over kommunalbestyrelsens afgørelser efter § 62 m, stk. 3, og § 62 r, stk. 2, og kommunalbestyrelsens afgørelser efter regler fastsat i medfør af § 62 l, stk. 10, og § 62 u, stk. 2.
 
 Stk. 2. Klager efter stk. 1 kan indbringes for Ankestyrelsen.
 
