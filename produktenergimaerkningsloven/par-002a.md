@@ -1,0 +1,5 @@
+§ 2 a. Kontrolmyndigheden kan i kontroløjemed indsamle og behandle, herunder samkøre, oplysninger fra andre offentlige myndigheder og fra offentligt tilgængelige kilder.
+
+Stk. 2. Kontrolmyndigheden kan i kontroløjemed behandle, herunder samkøre, oplysninger, som myndigheden ud over de tilfælde, der er nævnt i stk. 1, er i besiddelse af.
+
+Stk. 3. Kontrolmyndigheden kan i kontroløjemed indsamle og behandle, herunder samkøre, ikkeoffentligt tilgængelige oplysninger fra offentlige og private virksomheder og erhvervs- eller forbrugerorganisationer.
