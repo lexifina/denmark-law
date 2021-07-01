@@ -1,1 +1,1 @@
-§ 37 b. (Ophævet)
+§ 37 b. Told- og skatteforvaltningen kan give offentligheden adgang til oplysninger om virksomheders bevillingsforhold og virksomheders autorisation som oplagshaver i henhold til denne lov. Udleveringen kan ske, når der angives SE-nummer/cvr-nummer på en virksomhed. Oplysningerne kan udleveres mundtligt, skriftligt eller elektronisk.
