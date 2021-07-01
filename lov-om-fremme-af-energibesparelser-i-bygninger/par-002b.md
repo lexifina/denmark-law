@@ -1,0 +1,1 @@
+§ 2 b. Klima-, energi- og forsyningsministeren kan fastsætte regler om, at offentlige finansielle foranstaltninger til fremme af energieffektive renoveringer i bygninger sammenkædes med planlagte eller gennemførte energibesparelser, og regler i relation hertil, herunder definitioner, undtagelser og bagatelgrænser.
