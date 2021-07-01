@@ -1,0 +1,1 @@
+§ 6 a. Ministeren for fødevarer, landbrug og fiskeri kan påbyde ejeren af en onlinegrænseflade at ændre eller fjerne indhold på en onlinegrænseflade, hvis denne henviser til et produkt, der ikke er i overensstemmelse med regler i denne lov, regler fastsat i medfør af denne lov eller regler i EU-forordninger omfattet af denne lovs anvendelsesområde.
