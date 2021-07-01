@@ -1,0 +1,1 @@
+§ 124 a. Ministeren for fødevarer, landbrug og fiskeri kan fastsætte nærmere regler om kontrolpunkter til søs til kontrol i henhold til loven, regler fastsat i medfør af loven og de i § 10 nævnte EU-retsakter.
