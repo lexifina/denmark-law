@@ -1,4 +1,4 @@
-§ 48 b. Ved overtrædelse af denne lov eller regler fastsat i medfør af denne lov kan tilsynsmyndigheden eller politiet på vegne af tilsynsmyndigheden under iagttagelse af reglerne om beslaglæggelse i retsplejelovens kapitel 74 foretage beslaglæggelse af ulovlige stoffer, blandinger og andre varer
+§ 48 b. Ved overtrædelse af denne lov eller regler fastsat i medfør af denne lov kan tilsynsmyndigheden eller politiet på vegne af tilsynsmyndigheden under iagttagelse af reglerne om beslaglæggelse i retsplejelovens kapitel 74 beslaglægge ulovlige stoffer, blandinger og andre varer
 
 1) med henblik på lovliggørelse eller destruktion,
 
