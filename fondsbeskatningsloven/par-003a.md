@@ -2,7 +2,7 @@
 
 Stk. 2. Stk. 1 finder ikke anvendelse, såfremt indskyderen godtgør, at midlerne i den udenlandske fond eller trust anvendes i almenvelgørende eller på anden måde almennyttigt øjemed til fordel for en større kreds af personer. Stk. 1 finder ikke anvendelse, hvis indskyderen som følge af indskuddet er skattepligtig af afkastet i den udenlandske fond eller trust, jf. ligningslovens § 16 K. Stk. 1 finder ikke anvendelse ved indskud af aktier i en udenlandsk fond, når overdragelsen er omfattet af aktieavancebeskatningslovens §§ 35 C-35 F.
 
-Stk. 3. Indskud, der foretages af udenlandske selskaber og foreninger m.v., som kontrolleres, jf. selskabsskattelovens § 32, stk. 6, af en afgiftspligtig omfattet af stk. 1, anses for foretaget af den afgiftspligtige.
+Stk. 3. Indskud, der foretages af udenlandske selskaber og foreninger m.v., hvormed en afgiftspligtig omfattet af stk. 1 har en forbindelse som omhandlet i ligningslovens § 2, anses for foretaget af den afgiftspligtige.
 
 Stk. 4. Stk. 1-3 finder tilsvarende anvendelse på afgiftspligtige, som bliver fuldt skattepligtige efter en af de i stk. 1 nævnte bestemmelser, såfremt de tidligere har været omfattet af en af disse bestemmelser og inden for de sidste 5 år forud for den fulde skattepligts genindtræden har foretaget indskud i en udenlandsk fond eller trust som nævnt i stk. 1. Indskud anses i disse tilfælde for foretaget ved den fulde skattepligts genindtræden.
 
