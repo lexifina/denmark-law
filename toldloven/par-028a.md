@@ -1,0 +1,3 @@
+§ 28 a. Efterkommes en anmodning om materiale efter § 28, stk. 5, eller forordninger udstedt af EU på toldlovgivningens område ikke, kan told- og skatteforvaltningen give pålæg om, at materialet skal indsendes inden en fastsat frist, og pålægge daglige tvangsbøder fra fristens overskridelse, og indtil pålægget efterkommes eller der udstedes et bødeforelæg for overtrædelse af § 78 a, stk. 1 eller 2, som følge af at pålægget ikke efterkommes.
+
+Stk. 2. Klage over et pålæg efter stk. 1 har ikke opsættende virkning. Landsskatteretten eller skatteankeforvaltningen kan dog tillægge en klage over et pålæg efter stk. 1 opsættende virkning, hvis særlige omstændigheder taler derfor. Landsskatterettens afgørelse kan træffes af en retsformand.
