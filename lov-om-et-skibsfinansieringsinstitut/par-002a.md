@@ -1,1 +1,7 @@
-§ 2 a. Instituttet kan udstede skibskreditobligationer.
+§ 2 a. Instituttet kan udstede skibskreditobligationer. Skibskreditobligationer kan bære betegnelsen European Covered Bond.
+
+Stk. 2. Alle betalingsforpligtelser vedrørende skibskreditobligationer skal være dækket af betalingskrav, der vedrører de dækkende aktiver i de enkelte kapitalcentre. Ved opgørelse af de betalingsforpligtelser, der vedrører de udstedte skibskreditobligationer, skal indgå betalingsforpligtelser i form af hovedstol og renter, betalingsforpligtelser i henhold til finansielle instrumenter, som anvendes til at afdække risici mellem de dækkende aktiver og udstedte skibskreditobligationer, og de forventede omkostninger forbundet med vedligeholdelse og forvaltning ved afvikling af de enkelte kapitalcentre. Ved opgørelse af betalingskrav, der vedrører de dækkende aktiver, skal indgå betalingskrav i form af hovedstol og renter på lån, betalingskrav i henhold til finansielle instrumenter, som anvendes til at afdække risici mellem de dækkende aktiver og udstedte skibskreditobligationer, og betalingskrav i henhold til andre aktiver, der ligger til sikkerhed for skibskreditobligationer.
+
+Stk. 3. Den nominelle værdi af den samlede hovedstol på de dækkende aktiver skal svare til eller overstige den samlede hovedstol på de udstedte skibskreditobligationer i de enkelte kapitalcentre.
+
+Stk. 4. Finansielle instrumenter, der anvendes til at afdække risici mellem de dækkende aktiver og udstedte skibskreditobligationer, skal måles efter samme metode som de dækkende aktiver og de udstedte skibskreditobligationer, hvis risici de afdækker.

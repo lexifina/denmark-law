@@ -4,4 +4,4 @@
 
 2) værdiansættelse af de aktiver, der ligger til sikkerhed for udstedelse af særligt dækkede realkreditobligationer eller særligt dækkede obligationer, og
 
-3) indberetning af supplerende sikkerhed for særligt dækkede obligationer eller særligt dækkede realkreditobligationer.
+3) indberetning af supplerende sikkerhed for særligt dækkede obligationer eller særligt dækkede realkreditobligationer og overholdelse af kravene til dækning og minimumsoverdækning.
