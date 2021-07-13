@@ -1,5 +1,3 @@
-Lov om dyrevelfærd (dyrevelfærdsloven)
+Bekendtgørelse af lov om dyrevelfærd (dyrevelfærdsloven)
 
-VI MARGRETHE DEN ANDEN, af Guds Nåde Danmarks Dronning, gør vitterligt:
-
-Folketinget har vedtaget og Vi ved Vort samtykke stadfæstet følgende lov:
+Herved bekendtgøres lov nr. 133 af 25. februar 2020 om dyrevelfærd (dyrevelfærdsloven) med de ændringer, der følger af § 3 i lov nr. 1177 af 8. juni 2021.

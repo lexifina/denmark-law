@@ -1,7 +1,5 @@
-Givet på Christiansborg Slot, den 25. februar 2020
+Fødevarestyrelsen, den 8. juli 2021
 
-Under Vor Kongelige Hånd og Segl
+Nikolaj Veje
 
-MARGRETHE R.
-
-/ Mogens Jensen
+/ Birthe Schubart Haabegaard
