@@ -1,0 +1,1 @@
+§ 5 a. Kontrolmyndigheden kan over for enhver anden erhvervsdrivende, der har en tilknytning til produktet, end den, der har gjort det energirelaterede produkt tilgængeligt på markedet, træffe afgørelse om på en relevant måde at bidrage til at begrænse og forhindre risici i at opstå.
