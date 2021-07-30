@@ -1,0 +1,1 @@
+§ 3 c. Det er ikke tilladt at sælge elektroniske cigaretter og genopfyldningsbeholdere med og uden nikotin på skoler, kostskoler og efterskoler omfattet af § 3 a, stk. 1, og på uddannelsessteder omfattet af § 3 b, stk. 1.
