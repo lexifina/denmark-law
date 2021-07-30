@@ -3,3 +3,5 @@
 2) Lovændringen vedrører § 15 a.
 
 3) Lovændringen vedrører § 2, § 3, §§ 3 a- c, overskriften til kapitel 3, § 5a, § 5b, § 9a, § 15, § 17, § 18a, § 25, § 25a og § 33.
+
+4) Lovændringen vedrører § 6 a, § 19, § 21, § 22, § 25, § 27 a, § 27 b og § 33.
