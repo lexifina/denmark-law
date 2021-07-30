@@ -1,4 +1,4 @@
-Sundhedsministeriet, den 26. marts 2021
+Sundhedsministeriet, den 18. juni 2021
 
 Magnus Heunicke
 
