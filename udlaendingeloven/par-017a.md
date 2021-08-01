@@ -1,4 +1,4 @@
-§ 17 a. Uanset bestemmelsen i § 17 bortfalder en opholdstilladelse først, når en udlænding, der med henblik på at tage varigt ophold vender tilbage til hjemlandet eller det tidligere opholdsland, har opholdt sig uden for landet i mere end 12 på hinanden følgende måneder og har opholdstilladelse efter
+§ 17 a. Uanset bestemmelsen i § 17 bortfalder en opholdstilladelse først, når en udlænding, der med henblik på at tage varigt ophold vender tilbage til hjemlandet, det tidligere opholdsland eller et land, hvortil udlændingen har nær familiemæssig tilknytning, har opholdt sig uden for landet i mere end 12 på hinanden følgende måneder og har opholdstilladelse efter
 
 1) §§ 7 eller 8,
 
@@ -16,9 +16,9 @@
 
 Stk. 2. Det kan efter ansøgning bestemmes, at opholdstilladelsen for en udlænding omfattet af stk. 1 først skal anses for bortfaldet, efter en periode på op til 12 måneder efter den i stk. 1 nævnte periode. Ansøgning efter 1. pkt., som indgives efter den periode, der er nævnt i stk. 1, afvises, medmindre der foreligger helt særlige omstændigheder.
 
-Stk. 3. Stk. 1 og 2 finder kun anvendelse for en udlænding omfattet af stk. 1, nr. 6, hvis udlændingen vender tilbage til hjemlandet eller det tidligere opholdsland sammen med den person, til hvem udlændingen har den familiemæssige tilknytning, der har dannet grundlag for opholdstilladelsen.
+Stk. 3. Stk. 1 og 2 finder kun anvendelse for en udlænding omfattet af stk. 1, nr. 6, hvis udlændingen vender tilbage til hjemlandet, det tidligere opholdsland eller et land, hvortil udlændingen har nær familiemæssig tilknytning, sammen med den person, til hvem udlændingen har den familiemæssige tilknytning, der har dannet grundlag for opholdstilladelsen.
 
-Stk. 4. Uanset bestemmelsen i § 17 bortfalder en opholdstilladelse først, når en udlænding, der med henblik på at tage varigt ophold vender tilbage til hjemlandet eller det tidligere opholdsland, har opholdt sig uden for Danmark i mere end 3 på hinanden følgende måneder og har opholdstilladelse efter
+Stk. 4. Uanset bestemmelsen i § 17 bortfalder en opholdstilladelse først, når en udlænding, der med henblik på at tage varigt ophold vender tilbage til hjemlandet, det tidligere opholdsland eller et land, hvortil udlændingen har nær familiemæssig tilknytning, har opholdt sig uden for Danmark i mere end 3 på hinanden følgende måneder og har opholdstilladelse efter
 
 1) § 9 e, når tilladelsen er meddelt tidsbegrænset,
 
@@ -26,6 +26,6 @@ Stk. 4. Uanset bestemmelsen i § 17 bortfalder en opholdstilladelse først, når
 
 3) et andet grundlag end nævnt i nr. 1 og 2, hvis det bestemmes efter ansøgning.
 
-Stk. 5. Stk. 4 finder kun anvendelse for en udlænding omfattet af stk. 4, nr. 2, hvis udlændingen vender tilbage til hjemlandet eller det tidligere opholdsland sammen med den person, til hvem udlændingen har den familiemæssige tilknytning, der har dannet grundlag for opholdstilladelsen.
+Stk. 5. Stk. 4 finder kun anvendelse for en udlænding omfattet af stk. 4, nr. 2, hvis udlændingen vender tilbage til hjemlandet, det tidligere opholdsland eller et land, hvortil udlændingen har nær familiemæssig tilknytning, sammen med den person, til hvem udlændingen har den familiemæssige tilknytning, der har dannet grundlag for opholdstilladelsen.
 
 Stk. 6. En udlænding kan kun én gang bevare sin opholdstilladelse i henhold til stk. 1-5.
