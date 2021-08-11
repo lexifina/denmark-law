@@ -22,4 +22,4 @@ Stk. 7. Bestyrelsen fastsætter selv sin forretningsorden og vælger selv sin fo
 
 Stk. 8. Bestyrelsens sammensætning og kompetence skal fremgå af undervisningsinstitutionens vedtægter, som fastsættes af kommunalbestyrelsen.
 
-Stk. 9. Undervisningsministeren kan fastsætte nærmere regler om valg til bestyrelsen og dennes virksomhed.
+Stk. 9. Børne- og undervisningsministeren kan fastsætte nærmere regler om valg til bestyrelsen og dennes virksomhed.

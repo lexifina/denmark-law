@@ -12,4 +12,4 @@ Stk. 4. Kommunalbestyrelserne i regionen udarbejder rammeaftalen. Rammeaftalen o
 
 Stk. 5. Kommunalbestyrelserne i regionen er forpligtet til at samarbejde om at tilvejebringe de nødvendige tilbud inden for specialundervisningsområdet.
 
-Stk. 6. Undervisningsministeren fastsætter nærmere regler om rammeaftalen, herunder krav til aftalens indhold, tidsfrist for indgåelse af aftalen og koordinering af kapacitet og sammensætning af de regionale undervisningsinstitutioner.
+Stk. 6. Børne- og undervisningsministeren fastsætter nærmere regler om rammeaftalen, herunder krav til aftalens indhold, tidsfrist for indgåelse af aftalen og koordinering af kapacitet og sammensætning af de regionale undervisningsinstitutioner.
