@@ -1,7 +1,5 @@
-Givet på Amalienborg, den 29. marts 2014
+Uddannelses- og Forskningsministeriet, den 12. august 2021
 
-Under Vor Kongelige Hånd og Segl
+P.M.V. Søren Langelund Klit
 
-MARGRETHE R.
-
-/ Sofie Carsten Nielsen
+/ Louise Kornmaaler
