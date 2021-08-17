@@ -1,3 +1,3 @@
-1) Lovændringens § 7 vedrører § 1, stk. 4.
+1) Lovændringen vedrører § 1, stk. 1 og 4.
 
-2) Lovændringen vedrører § 1, stk. 1.
+2) Lovændringen vedrører § 1, stk. 2.
