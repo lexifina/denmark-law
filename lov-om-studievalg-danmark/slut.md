@@ -1,7 +1,5 @@
-Givet på Christiansborg Slot, den 25. april 2018
+Uddannelses- og Forskningsministeriet, den 13. august 2021
 
-Under Vor Kongelige Hånd og Segl
+P.M.V. Søren Langelund Klit
 
-MARGRETHE R.
-
-/ Søren Pind
+/ Thomas Voigt Lund
