@@ -27,3 +27,5 @@
 14) Lovændringen vedrører § 10, stk. 1.
 
 15) Lovændringen vedrører lovens titel, § 2, § 3, stk. 1, 3 og 4, §§ 3 a-3 d, § 8, 1. pkt., § 14, stk. 2, § 20, 1. pkt., § 22, stk. 3, 2. pkt., og § 30, stk. 1.
+
+16) Lovændringen vedrører § 2, stk. 5, § 8, 2. pkt., § 15, stk. 1, 1. pkt., § 15, stk. 2, § 20, 1. pkt., overskriften til kapitel 7, § 21, § 22, og § 30, stk. 1, nr. 9-11.

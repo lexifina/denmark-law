@@ -89,3 +89,13 @@ Stk. 1. Loven træder i kraft den 1. januar 2020.
 Stk. 2. § 4 har virkning fra og med den 1. januar 2021, jf. dog 2. pkt. § 4, nr. 2, for så vidt angår vanddistributionsselskaber, har virkning fra og med den 1. januar 2010.
 
 Stk. 3. For vandforsyningsselskaber, der udtræder af den økonomiske regulering efter vandsektorlovens § 3 a, finder selskabsskattelovens § 5 ikke anvendelse, hvis ansøgning om udtræden er indgivet til Forsyningssekretariatet inden den 1. januar 2024.
+
+Lov nr. 2210 af 29. december 2020 (Spildevandsforsyningsselskabers klimatilpasning, vandselskabernes foreninger til fremme af vandsektorens effektivitet og kvalitet m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 6
+
+Stk. 1. Loven træder i kraft den 1. januar 2021.
+
+Stk. 2-3. (Udelades)
+
+Stk. 4. For Vandsektorens Teknologiudviklingsfond finder de hidtil gældende regler i vandsektorlovens kapitel 7 anvendelse, indtil bestyrelsen for Vandsektorens Teknologiudviklingsfond har truffet beslutning om og opløst fonden, og indtil eventuelle overskydende midler er overført fra Vandsektorens Teknologiudviklingsfond.
