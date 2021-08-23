@@ -1,7 +1,5 @@
-Justitsministeriet, den 15. september 1986
+Justitsministeriet, den 19. august 2021
 
-Erik Ninn-Hansen
+Nick Hækkerup
 
-/Hans-Viggo Jensen
-
-Ingen
+/ Christian Fuglsang

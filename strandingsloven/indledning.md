@@ -1,5 +1,3 @@
 Bekendtgørelse af strandingsloven
 
-Herved bekendtgøres lov nr. 103 af 10. april 1895, strandingslov, med de ændringer, der følger af lov nr. 85 af 30. april 1909, lov nr. 153 af 31. marts 1928, lov nr. 213 af 4. juni 1965 og lov nr. 175 af 30. april 1969.
-
-I
+Herved bekendtgøres strandingsloven, jf. lovbekendtgørelse nr. 619 af 15. september 1986, med de ændringer, der følger af § 13 i lov nr. 433 af 31. maj 2000, § 16 i lov nr. 542 af 24. juni 2005, § 20 i lov nr. 538 af 8. juni 2006, § 9 i lov nr. 647 af 12. juni 2013 og § 23 i lov nr. 1711 af 27. december 2018.
