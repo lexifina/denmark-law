@@ -717,3 +717,47 @@ Lov nr. 57 af 21. januar 2021 (Suspension af dagpengeforbrug og forlængelse af 
 Stk. 1. Loven træder i kraft ved bekendtgørelsen i Lovtidende.
 
 Stk. 2. Lovforslaget kan stadfæstes straks efter dets vedtagelse.
+
+Lov nr. 467 af 20. marts 2021 (Forlængelse af suspension af dagpengeforbrug, 4-månedersperioden ved opgørelse af karens og forbrug af supplerende dagpenge, forlængelse af retten til sygedagpenge og forlængelse af 12-månedersperioden i 225-timersreglen som følge af covid-19 m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 5
+
+Loven træder i kraft den 22. marts 2021.
+
+Lov nr. 527 af 27. marts 2021 (Forlængelse af den midlertidige periode med ret til sygedagpenge for lønmodtagere, der er i øget risiko ved smitte med covid-19, og for lønmodtagere, der er pårørende til personer, der er i øget risiko ved smitte med covid-19, forlængelse af den midlertidige periode med udvidet ret for arbejdsgiver til refusion og for selvstændige til sygedagpenge som følge af covid-19, forlængelse af den midlertidige periode med ret til dagpenge ved pasning af børn som følge af covid-19 og indførelse af periode, der kan ses bort fra ved vurderingen af, om beskæftigelseskravet for selvstændige er opfyldt) indeholder følgende ikrafttrædelses- og overgangsbestemmelser:
+
+§ 4
+
+Loven træder i kraft den 31. marts 2021.
+
+§ 5
+
+Stk. 1. For fravær med første fraværsdag i perioden fra og med den 1. december 2020 til og med den 31. marts 2021, hvor beskæftigelseskravet i § 42, stk. 1, i lov om sygedagpenge, jf. lovbekendtgørelse nr. 223 af 12. februar 2021, ikke er opfyldt uden § 42, stk. 2, 3. pkt., i lov om sygedagpenge som affattet ved denne lovs § 1, nr. 1, kan der indgives anmodning om sygedagpenge indtil den 1. juni 2021. Kommunen kan se bort fra overskridelse af fristen i 1. pkt. af de grunde, som fremgår af § 43, stk. 5, i lov om sygedagpenge. For en person, der den 1. december 2020 eller senere har haft første sygefraværsdag, og som kommunen har givet afslag på sygedagpenge på grund af manglende opfyldelse af beskæftigelseskravet efter § 42 i lov om sygedagpenge, skal kommunen dog genoptage sagen med henblik på fornyet behandling, hvor det indgår i vurderingen, at der helt eller delvis kan ses bort fra perioden fra og med den 1. december 2020 til og med den 30. april 2021.
+
+Stk. 2. (Udelades)
+
+Lov nr. 877 af 12. maj 2021 (Forlængelse af suspension af dagpengeforbrug, 4-månedersperioden ved opgørelse af karens og forbrug af supplerende dagpenge, mulighed for forlængelse af beregningsperioden for selvstændige erhvervsdrivende med over- eller underskud for indkomståret 2020 og forlængelse af retten til sygedagpenge som følge af covid-19) indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 3
+
+Stk. 1. Loven træder i kraft den 14. maj 2021.
+
+Stk. 2. Lovforslaget kan stadfæstes straks efter dets vedtagelse.
+
+Lov nr. 1190 af 8. juni 2021 (Regulering af ydelsesstruktur og udbetalingstidspunkt af hjælp til repatriering, indhentelse af udtalelse fra politiet om registreringer i Kriminalregisteret, nægtelse af repatrieringsstøtte af hensyn til statens sikkerhed, andre staters sikkerhed eller den offentlige orden, ændring af den kommunale vejledningspligt om repatriering m.v.) indeholder følgende ikrafttrædelsesbestemmelser:
+
+§ 5
+
+Stk. 1. Loven træder i kraft den 1. august 2021, jf. dog stk. 2.
+
+Stk. 2-4. (Udelades)
+
+§ 6
+
+(Udelades)
+
+Lov nr. 1438 af 29. juni 2021 (Dagpengeret til selvstændige erhvervsdrivende uden forudgående medlemskab af en arbejdsløshedskasse, midlertidigt ophør af selvstændig virksomhed, forlængelse af den midlertidige periode med ret til sygedagpenge for lønmodtagere, der er i øget risiko ved smitte med covid-19, og for lønmodtagere, der er pårørende til personer, der er i øget risiko ved smitte med covid-19, og indførelse af periode, der kan ses bort fra ved vurdering af beskæftigelseskravet for ret til syge- og barselsdagpenge for selvstændige) indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 4
+
+Loven træder i kraft den 1. juli 2021.

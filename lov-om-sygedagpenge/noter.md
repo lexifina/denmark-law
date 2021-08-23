@@ -1,4 +1,4 @@
-1) Lovændringen vedrører lovens §§ 54 a-c, og §§ 67-67 b.
+1) Lovændringen vedrører lovens §§ 67-67 b.
 
 2) Europa-Parlamentets og Rådets Forordning (EF) nr. 883/04 af 29. april 2004 om koordinering af de sociale sikringsordninger finder anvendelse fra den 1. maj 2010 og gælder umiddelbart fra den dag. Forordningen erstatter den gældende forordning (EØF) nr. 1408/71 af 14. juni 1971 om anvendelse af de sociale sikringsordninger på arbejdstagere, selvstændige erhvervsdrivende og deres familiemedlemmer, der flytter inden for Fællesskabet.
 
@@ -94,7 +94,7 @@
 
 48) Lovændringen vedrører lovens §§ 13 c, 13 d og 13 e.
 
-49) ) Lovændringen vedrører lovens § 3, stk. 2, nr. 3-5.
+49) Lovændringen vedrører lovens § 3, stk. 2, nr. 3-5.
 
 50) Lovændringen vedrører lovens § 68 a.
 
@@ -102,64 +102,76 @@
 
 52) Lovændringen vedrører lovens § 68 b.
 
-53) Lovændringen vedrører lovens §§ 54 a-c, § 64, stk. 1-2, § 67 og §§ 67 a og b. Der henvises til note 1.
+53) Lovændringen vedrører lovens §§ 54 a-54 c, § 64, stk. 1-2, § 67 og §§ 67 a og b. Der henvises til note 1.
 
 54) Ikrafttrædelsesbestemmelsen er ændret ved § 6, nr. 2, i lov nr. 1557 af 27. december 2019.
 
-55) Lovændringen vedrører lovens § 21 a.
+55) § 4, nr. 1, i lov nr. 339 af 2. april 2019 er sat i kraft ved ikrafttrædelsesbekendtgørelse nr. 1408 af 25. juni 2021. Det følger af ikrafttrædelsesbekendtgørelsens § 2, at lovens §§ 54 a-54 c træder i kraft den 14. august 2021.
 
-56) Lovændringen vedrører lovens § 7, stk. 2, 3. pkt., § 7, stk. 6, § 13, 1. pkt., § 13 a, stk. 3-4, § 13 b, stk. 1 og 6-8, § 13 c, stk. 2, 2. pkt., § 13 c, stk. 5, § 13 d, stk. 2, 3 og 5, § 14, § 15, stk. 5 og 7, nr. 2, §§ 19 og 20, § 21, stk. 1, nr. 1, § 24, stk. 2, § 24 a, stk. 1 og 2, § 24 b, stk. 1, § 24 c, stk. 1, 2. pkt., § 27, stk. 3, § 32, stk. 1, nr. 6, § 42, stk. 3, § 49, § 51, stk. 2, 1. pkt., § 69 b og § 71 b, stk. 1, nr. 8.
+56) Lovændringen vedrører lovens § 21 a.
 
-57) Lovændringen vedrører lovens § 10 a, § 11, stk. 2 og 3, § 11 a, stk. 1, § 11 c, § 32, stk. 1, nr. 3, § 32, stk. 4, § 33, nr. 4, § 35, stk. 4, § 38, stk. 1, 3 og 4, § 40, stk. 5, § 40 a, stk. 1, 2 og 4, § 53, stk. 2, nr. 2, § 53 a, stk. 2, § 59, stk. 8, og § 69 a, stk. 1.
+57) Lovændringen vedrører lovens § 7, stk. 2, 3. pkt., § 7, stk. 6, § 13, 1. pkt., § 13 a, stk. 3-4, § 13 b, stk. 1 og 6-8, § 13 c, stk. 2, 2. pkt., § 13 c, stk. 5, § 13 d, stk. 2, 3 og 5, § 14, § 15, stk. 5 og 7, nr. 2, §§ 19 og 20, § 21, stk. 1, nr. 1, § 24, stk. 2, § 24 a, stk. 1 og 2, § 24 b, stk. 1, § 24 c, stk. 1, 2. pkt., § 27, stk. 3, § 32, stk. 1, nr. 6, § 42, stk. 3, § 49, § 51, stk. 2, 1. pkt., § 69 b og § 71 b, stk. 1, nr. 8.
 
-58) Er ved bekendtgørelse nr. 704 af 29. maj 2020 om ikrafttræden af § 1, nr. 2, 3, 12-14 og 19, i lov om ændring af lov om sygedagpenge (En enklere tilrettelæggelse af første sygedagpengeopfølgning m.v.) fastsat til den 3. juni 2020.
+58) Lovændringen vedrører lovens § 10 a, § 11, stk. 2 og 3, § 11 a, stk. 1, § 11 c, § 32, stk. 1, nr. 3, § 32, stk. 4, § 33, nr. 4, § 35, stk. 4, § 38, stk. 1, 3 og 4, § 40, stk. 5, § 40 a, stk. 1, 2 og 4, § 53, stk. 2, nr. 2, § 53 a, stk. 2, § 59, stk. 8, og § 69 a, stk. 1.
 
-59) Lovændringen vedrører lovens § 71 b, stk. 1, nr. 7.
+59) Er ved bekendtgørelse nr. 704 af 29. maj 2020 om ikrafttræden af § 1, nr. 2, 3, 12-14 og 19, i lov om ændring af lov om sygedagpenge (En enklere tilrettelæggelse af første sygedagpengeopfølgning m.v.) fastsat til den 3. juni 2020.
 
-60) Lovændringen vedrører lovens § 25, stk. 1, nr. 1 og § 25, stk. 2, 1.-3. pkt.
+60) Lovændringen vedrører lovens § 71 b, stk. 1, nr. 7.
 
-61) Lovændringen vedrører lovens §§ 43 a og 53 b.
+61) Lovændringen vedrører lovens § 25, stk. 1, nr. 1 og § 25, stk. 2, 1.-3. pkt.
 
-62) Loven er bekendtgjort i Lovtidende den 17. marts 2020.
+62) Lovændringen vedrører lovens §§ 43 a og 53 b.
 
-63) I lovens § 2, stk. 3, og § 3, stk. 3, er »den 1. januar 2021« ændret til: »den 1. april 2021« ved § 2, nr. 1 i lov nr. 2204 af 29. december 2020 (Forlængelse af den midlertidige periode med ret til sygedagpenge for lønmodtagere, der er i øget risiko ved smitte med covid-19, og for lønmodtagere, der er pårørende til personer, der er i øget risiko ved smitte med covid-19, forlængelse af den midlertidige periode med udvidet ret for arbejdsgiver til refusion og for selvstændige til sygedagpenge som følge af covid-19 og forlængelse af den midlertidige periode med ret til dagpenge ved pasning af børn som følge af covid-19).
+63) Loven er bekendtgjort i Lovtidende den 17. marts 2020.
 
-64) Lovændringen vedrører lovens §§ 26, 26 a og 26 b.
+64) I lovens § 2, stk. 3, og § 3, stk. 3, er »den 1. januar 2021« ændret til: »den 1. april 2021« ved § 2, nr. 1 i lov nr. 2204 af 29. december 2020 (Forlængelse af den midlertidige periode med ret til sygedagpenge for lønmodtagere, der er i øget risiko ved smitte med covid-19, og for lønmodtagere, der er pårørende til personer, der er i øget risiko ved smitte med covid-19, forlængelse af den midlertidige periode med udvidet ret for arbejdsgiver til refusion og for selvstændige til sygedagpenge som følge af covid-19 og forlængelse af den midlertidige periode med ret til dagpenge ved pasning af børn som følge af covid-19). I lovens § 2, stk. 3, og § 3, stk. 3, er »den 1. april 2021« ændret til: »den 1. juli 2021« ved § 2 i lov nr. 527 af 27. marts 2021 (Forlængelse af den midlertidige periode med ret til sygedagpenge for lønmodtagere, der er i øget risiko ved smitte med covid-19, og for lønmodtagere, der er pårørende til personer, der er i øget risiko ved smitte med covid-19, forlængelse af den midlertidige periode med udvidet ret for arbejdsgiver til refusion og for selvstændige til sygedagpenge som følge af covid-19, forlængelse af den midlertidige periode med ret til dagpenge ved pasning af børn som følge af covid-19 og indførelse af periode, der kan ses bort fra ved vurderingen af, om beskæftigelseskravet for selvstændige er opfyldt).
 
-65) Loven er bekendtgjort i Lovtidende den 26. marts 2020.
+65) Lovændringen vedrører lovens §§ 26, 26 a og 26 b.
 
-66) Bestemmelsen er ophævet ved § 5, nr. 1, i lov nr. 473 af 22. april 2020 (Forlængelse af 12-månedersperioden i 225-timersreglen som følge af covid-19, forlængelse af perioder, der ses bort fra ved forbrug af arbejdsløshedsdagpenge m.v., og udvidelse af perioden, hvor der sker en midlertidig forlængelse af sygedagpengeperioden).
+66) Loven er bekendtgjort i Lovtidende den 26. marts 2020.
 
-67) Lovændringen vedrører lovens §§ 26, 26 a og 26 b.
+67) Bestemmelsen er ophævet ved § 5, nr. 1, i lov nr. 473 af 22. april 2020 (Forlængelse af 12-månedersperioden i 225-timersreglen som følge af covid-19, forlængelse af perioder, der ses bort fra ved forbrug af arbejdsløshedsdagpenge m.v., og udvidelse af perioden, hvor der sker en midlertidig forlængelse af sygedagpengeperioden).
 
-68) Loven er bekendtgjort i Lovtidende den 22. april 2020.
+68) Lovændringen vedrører lovens §§ 26, 26 a og 26 b.
 
-69) Bestemmelsen er ophævet ved § 3, nr. 1, i lov nr. 960 af 26. juni 2020 (Yderligere forlængelse af perioder, der ses bort fra ved forbrug af arbejdsløshedsdagpenge, midlertidig ret til dagpenge til selvstændige og yderligere midlertidig forlængelse af retten til sygedagpenge).
+69) Loven er bekendtgjort i Lovtidende den 22. april 2020.
 
-70) Lovændringen vedrører lovens §§ 58 b-58 e.
+70) Bestemmelsen er ophævet ved § 3, nr. 1, i lov nr. 960 af 26. juni 2020 (Yderligere forlængelse af perioder, der ses bort fra ved forbrug af arbejdsløshedsdagpenge, midlertidig ret til dagpenge til selvstændige og yderligere midlertidig forlængelse af retten til sygedagpenge).
 
-71) Loven er bekendtgjort i Lovtidende den 20. maj 2020.
+71) Lovændringen vedrører lovens §§ 58 b-58 e.
 
-72) Bestemmelsen er ophævet ved § 3, nr. 1 i lov nr. 1335 af 11. september 2020 (Forlængelse af den midlertidige periode med ret til sygedagpenge for lønmodtagere, der er i øget risiko ved smitte med covid-19, og for lønmodtagere, der er pårørende til personer, der er i øget risiko ved smitte med covid-19, udvidelse af perioden, hvor der sker en midlertidig forlængelse af sygedagpengeperioden, og indførelse af periode, der helt eller delvis kan ses bort fra ved vurdering af beskæftigelseskravet for ret til syge- eller barselsdagpenge for selvstændige erhvervsdrivende, som følge af covid-19-situationen).
+72) Loven er bekendtgjort i Lovtidende den 20. maj 2020.
 
-73) Lovændringen vedrører lovens § 26, stk. 1, 3 og 4, og §§ 26 a og 26 b.
+73) Bestemmelsen er ophævet ved § 3, nr. 1 i lov nr. 1335 af 11. september 2020 (Forlængelse af den midlertidige periode med ret til sygedagpenge for lønmodtagere, der er i øget risiko ved smitte med covid-19, og for lønmodtagere, der er pårørende til personer, der er i øget risiko ved smitte med covid-19, udvidelse af perioden, hvor der sker en midlertidig forlængelse af sygedagpengeperioden, og indførelse af periode, der helt eller delvis kan ses bort fra ved vurdering af beskæftigelseskravet for ret til syge- eller barselsdagpenge for selvstændige erhvervsdrivende, som følge af covid-19-situationen).
 
-74) Loven er bekendtgjort i Lovtidende den 26. juni 2020.
+74) Lovændringen vedrører lovens § 26, stk. 1, 3 og 4, og §§ 26 a og 26 b.
 
-75) Lovændringen vedrører lovens § 26, stk. 4, § 26 a, stk. 4, § 26 b, stk. 4, §§ 26 c-26 e, § 42, stk. 2, § 58 b, stk. 1, § 58 c, stk. 1, § 58 d, stk. 2, og § 58 f.
+75) Loven er bekendtgjort i Lovtidende den 26. juni 2020.
 
-76) Loven er bekendtgjort i Lovtidende den 11. september 2020.
+76) Lovændringen vedrører lovens § 26, stk. 4, § 26 a, stk. 4, § 26 b, stk. 4, §§ 26 c-26 e, § 42, stk. 2, § 58 b, stk. 1, § 58 c, stk. 1, § 58 d, stk. 2, og § 58 f.
 
-77) Lovændringen vedrører lovens § 51, stk. 2.
+77) Loven er bekendtgjort i Lovtidende den 11. september 2020.
 
-78) Lovændringen vedrører lovens § 26 f.
+78) Lovændringen vedrører lovens § 51, stk. 2.
 
-79) Lovændringen vedrører lovens § 24, stk. 3, og § 30, stk. 3.
+79) Lovændringen vedrører lovens § 26 f.
 
-80) Lovændringen vedrører lovens § 25, stk. 1.
+80) Lovændringen vedrører lovens § 24, stk. 3, og § 30, stk. 3.
 
-81) Lovændringen vedrører lovens § 58 b, stk. 1, § 58 c, stk. 1, § 58 d, stk. 2, § 58 f, stk. 1, og § 58 f, stk. 3.
+81) Lovændringen vedrører lovens § 25, stk. 1.
 
-82) Lovændringen vedrører lovens § 26 g.
+82) Lovændringen vedrører lovens § 58 b, stk. 1, § 58 c, stk. 1, § 58 d, stk. 2, § 58 f, stk. 1, og § 58 f, stk. 3.
 
-83) Loven er bekendtgjort i Lovtidende den 19. januar 2021.
+83) Lovændringen vedrører lovens § 26 g.
+
+84) Loven er bekendtgjort i Lovtidende den 19. januar 2021.
+
+85) Lovændringen vedrører lovens § 26 h.
+
+86) Lovændringen vedrører lovens § 42, stk. 2, § 43 a, § 53 b, § 58 b, stk. 1, § 58 c, stk. 1, § 58 d, stk. 2, § 58 f, stk. 1, og § 58 f, stk. 3.
+
+87) Lovændringen vedrører lovens § 26 i.
+
+88) Lovændringen vedrører lovens § 3, stk. 2, nr. 5.
+
+89) Lovændringen vedrører lovens § 42, stk. 2, § 58 b, stk. 1, § 58 c, stk. 1, § 58 d, stk. 2, § 58 f, stk. 1, og § 58 f, stk. 3.
