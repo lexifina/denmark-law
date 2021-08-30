@@ -8,7 +8,7 @@ Stk. 2. Gevinst og tab ved afståelse efter stk. 1 behandles i følgende tilfæl
 
 a) Det afstående selskab ejer mindst 10 pct. af aktiekapitalen i det selskab, der likvideres, og udlodningen omfattes af selskabsskattelovens § 2, stk. 1, litra c.
 
-b) Det afstående selskab ejer mindre end 10 pct. af aktiekapitalen, er skattepligtigt af udbytter, jf. selskabsskattelovens § 2, stk. 1, litra c, og har bestemmende indflydelse i det selskab, der likvideres, jf. § 2. Dette gælder dog ikke, hvis det modtagende selskab er hjemmehørende i en stat, der er medlem af EU eller EØS, og udbytttebeskatningen skulle være frafaldet eller nedsat efter bestemmelserne i direktiv 2011/96/EU eller en dobbeltbeskatningsoverenskomst med den pågældende stat, hvis der havde været tale om datterselskabsaktier.
+b) Det afstående selskab ejer mindre end 10 pct. af aktiekapitalen, er skattepligtigt af udbytter, jf. selskabsskattelovens § 2, stk. 1, litra c, og har bestemmende indflydelse i det selskab, der likvideres, jf. § 2. Dette gælder dog ikke, hvis det modtagende selskab er hjemmehørende i en stat, der er medlem af EU eller EØS, og udbyttebeskatningen skulle være frafaldet eller nedsat efter bestemmelserne i direktiv 2011/96/EU eller en dobbeltbeskatningsoverenskomst med den pågældende stat, hvis der havde været tale om datterselskabsaktier.
 
 c) Den afstående fysiske person er hjemmehørende uden for EU/EØS og har bestemmende indflydelse i det selskab, der likvideres, jf. § 2.
 
