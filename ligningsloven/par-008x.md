@@ -9,3 +9,5 @@ Stk. 4. Anmodning efter stk. 1 indgives samtidig med afgivelsen af oplysninger e
 Stk. 5. Er der sket udbetaling med et større beløb, end stk. 1-3 berettiger til, opkræves det for meget udbetalte beløb. Selskabsskattelovens § 29 B, stk. 4, 3. pkt., og § 30 om opkrævning af restskat finder tilsvarende anvendelse. Det tilbagebetalte beløb omregnes til underskud for det pågældende indkomstår.
 
 Stk. 6. Ved udbetaling af skattekredit modregnes virksomhedens restancer af skatter og afgifter med påløbne morarenter, uanset om der er sket overdragelse af kravet.
+
+Stk. 7. Stk. 1 finder ikke anvendelse, i det omfang der er anmodet om fremrykket udbetaling af skattekredit for indkomståret 2019 efter § 8 i lov om rentefrie lån svarende til angivet moms og lønsumsafgift og fremrykket udbetaling af skattekreditter m.v. i forbindelse med covid-19.
