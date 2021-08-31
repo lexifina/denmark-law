@@ -1,5 +1,3 @@
-Skatteindberetningslov
+Bekendtgørelse af skatteindberetningsloven
 
-VI MARGRETHE DEN ANDEN, af Guds Nåde Danmarks Dronning, gør vitterligt:
-
-Folketinget har vedtaget og Vi ved Vort samtykke stadfæstet følgende lov:
+Herved bekendtgøres skatteindberetningsloven, lov nr. 1536 af 19. december 2017, med de ændringer, der følger af § 6 i lov nr. 1682 af 26. december 2017, § 7 i lov nr. 396 af 2. maj 2018, § 13 i lov nr. 1130 af 11. september 2018, § 37 i lov nr. 1429 af 5. december 2018, § 13 i lov nr. 1707 af 27. december 2018, § 5 i lov nr. 1727 af 27. december 2018, § 9 i lov nr. 84 af 30. januar 2019, § 1 i lov nr. 1573 af 27. december 2019, § 2 i lov nr. 1574 af 27. december 2019, § 2 i lov nr. 1575 af 27. december 2019, § 3 i lov nr. 810 af 9. juni 2020, § 3 i lov nr. 813 af 9. juni 2020, § 5 i lov nr. 1521 af 27. oktober 2020, § 5 i lov nr. 1835 af 8. december 2020, § 3 i lov nr. 2197 af 29. december 2020, § 5 i lov nr. 203 af 13. februar 2021, § 8 i lov nr. 789 af 4. maj 2021 og § 10 i lov nr. 1179 af 8. juni 2021.
