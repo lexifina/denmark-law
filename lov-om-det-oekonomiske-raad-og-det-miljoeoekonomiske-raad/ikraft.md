@@ -1,11 +1,11 @@
-Lov nr. 583 af 18. juni 2012 (Det Økonomiske Råds årlige vurdering af dansk finans- og udgiftspolitik m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
+Lov nr. 384 af 26. april 2017 om Danmarks Forsknings- og Innovationspolitiske Råd og Danmarks Frie Forskningsfond indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 36. Loven træder i kraft den 1. juli 2017.
+
+Stk. 2-9. (Udelades)
+
+Lov nr. 428 af 16. marts 2021 (Formandskabets vurdering af adfærdsforudsætninger og ændret sammensætning af Det Økonomiske Råd og Det Miljøøkonomiske Råd m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
 
 § 2
 
-Loven træder i kraft den 1. januar 2014.
-
-Lov nr. 1751 af 27. december 2016 (Formandskabets vurdering af produktivitetsudviklingen, sammensætningen af rådene, lovfæstelse af følg eller forklar-princippet m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
-
-§ 2
-
-Loven træder i kraft den 1. januar 2017.
+Loven træder i kraft den 1. april 2021.
