@@ -1,3 +1,3 @@
-1) Lovændringen vedrører § 1, stk. 2, og § 4, stk. 2 og 3.
+1) Lovændringen vedrører § 2, stk. 3, 4. pkt., og § 2, stk. 4, 4. pkt.
 
-2) Lovændringen vedrører § 1, stk. 2, § 2, stk. 3 og 4, § 3, stk. 5 og 6, § 3 a og § 4, stk. 1.
+2) Lovændringen vedrører § 2, stk. 1, 2. pkt., § 2, stk. 3-4, § 3, stk. 7, og § 3 b.
