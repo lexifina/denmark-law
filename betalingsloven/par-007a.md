@@ -2,9 +2,7 @@
 
 § 7 a. I tilfælde, hvor kommunalbestyrelsen giver ejere af helårsboliger påbud efter § 30, stk. 1, i lov om miljøbeskyttelse om forbedret spildevandsrensning for en eksisterende udledning, skal påbuddet følges af et tilbud om et kontraktligt medlemskab af spildevandsforsyningsselskabet.
 
-Stk. 2. Medlemskab af spildevandsforsyningsselskabet efter stk. 1 indebærer, at spildevandsforsyningsselskabet skal forestå udførelse, drift og vedligeholdelse på ejerens vegne
-
-af en spildevandsløsning, der rensemæssigt opfylder påbuddet, mod at ejeren af ejendommen betaler standardtilslutningsbidrag og vandafledningsbidrag svarende til en ejendom, der er tilsluttet et spildevandsforsyningsselskab, jf. §§ 2-4.
+Stk. 2. Medlemskab af spildevandsforsyningsselskabet efter stk. 1 indebærer, at spildevandsforsyningsselskabet skal forestå udførelse, drift og vedligeholdelse på ejerens vegne af en spildevandsløsning, der rensemæssigt opfylder påbuddet, mod at ejeren af ejendommen betaler standardtilslutningsbidrag og vandafledningsbidrag svarende til en ejendom, der er tilsluttet et spildevandsforsyningsselskab, jf. §§ 2-4.
 
 Stk. 3. Spildevandsforsyningsselskabets tilbud omfatter alene udførelse, drift og vedligeholdelse af et anlæg, der økonomisk svarer til det af kommunalbestyrelsen påbudte. Ønsker ejeren et mere omkostningskrævende anlæg, må ejeren selv bekoste differencen, hvilken ikke kan inddrages i afdragsordning efter § 4, stk. 2.
 

@@ -22,7 +22,7 @@ Lov nr. 902 af 4. juli 2013 (Betalingsstruktur for vandafledningsbidrag, bemyndi
 
 § 2
 
-Stk. 1. Loven træder i kraft den 15. juli 2013, jf. dog stk. 2 og 3.
+Skt. 1. Loven træder i kraft den 15. juli 2013, jf. dog stk. 2 og 3.
 
 Stk. 2. § 1, nr. 1-3 og 5, træder i kraft den 1. januar 2014, jf. dog stk. 3.
 
@@ -46,6 +46,16 @@ Lov nr. 132 af 16. februar 2016 (Opfølgning på politisk forlig om en ny og for
 
 Stk. 1. Loven træder i kraft den 1. marts 2016, jf. dog stk. 2.
 
-Stk. 2. (Udelades)
+Stk. 2-3. (Udelades)
 
-Stk. 3. (Udelades)
+Lov nr. 2210 af 29. december 2020 (Spildevandsforsyningsselskabers klimatilpasning, vandselskabernes foreninger til fremme af vandsektorens effektivitet og kvalitet m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 6
+
+Stk. 1. Loven træder i kraft den 1. januar 2021.
+
+Stk. 2. De hidtil gældende regler i § 1, stk. 5, i lov om betalingsregler for spildevandsforsyningsselskaber m.v. og regler udstedt i medfør af den hidtil gældende § 1, stk. 6, i lov om betalingsregler for spildevandsforsyningsselskaber m.v. finder fortsat anvendelse på spildevandsforsyningsselskabers udgifter til opfyldelse af medfinansieringsaftaler, som er indgået inden den 1. januar 2021, hvis Forsyningssekretariatet inden den 1. januar 2021 har truffet afgørelse om at give tillæg til spildevandsforsyningsselskabets økonomiske ramme efter reglerne i vandsektorloven til det pågældende projekt eller projektejeren inden den 1. januar 2021 har foretaget væsentlige irreversible investeringer i projektet i forhold til håndtering af tag- og overfladevand. For medfinansieringsaftaler om projekter, der ikke er sat i drift inden den 1. januar 2021, finder de hidtil gældende regler dog kun anvendelse, hvis spildevandsforsyningsselskabet anmelder den pågældende aftale til Forsyningssekretariatet senest den 15. april 2021. De hidtil gældende regler finder ikke anvendelse efter den 1. januar 2027, medmindre anlæggelsen af det pågældende projekt er påbegyndt inden denne dato og dette anmeldes til Forsyningssekretariatet senest den 15. april 2028.
+
+Stk. 3. Klima-, energi- og forsyningsministeren kan fastsætte nærmere regler om overgangsordningen i stk. 2, herunder om, hvad der forstås ved en væsentlig irreversibel investering, og hvornår anlæggelsen af et projekt anses for påbegyndt, samt om anmeldelse af projekter til Forsyningssekretariatet, herunder anmeldelsernes form, og hvilke oplysninger og hvilken dokumentation anmeldelserne til Forsyningssekretariatet skal indeholde.
+
+Stk. 4. (Udelades)

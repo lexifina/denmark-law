@@ -21,3 +21,5 @@
 11) Lovændringen vedrører § 1, stk. 3 og 8, § 2, stk. 10 og 11, § 4, stk. 2-4, § 4 c, og § 7 a, stk. 3.
 
 12) Lovændringen vedrører § 1, stk. 1 og 4, og § 3, stk. 1, 2, og 8.
+
+13) Lovændringen vedrører § 1, stk. 3-6 og 9, § 2 b, stk. 2, § 4 c, stk. 1, og § 7 b, stk. 1, 1. pkt.
