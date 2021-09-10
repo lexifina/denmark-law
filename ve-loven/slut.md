@@ -1,8 +1,8 @@
-Energistyrelsen, den 7. februar 2020
+Energistyrelsen, den 2. september 2021
 
-Janni Torp Kjærgaard
+Stig Uffe Pedersen
 
-/ Jakob Henrik Juul
+/ Mikkel Vinter Henriksen
 
 Bilag 1
 

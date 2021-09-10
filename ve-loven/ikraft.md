@@ -36,7 +36,7 @@ Stk. 9. Der ydes pristillæg efter § 47, stk. 5, nr. 1-4, i lov om fremme af ve
 
 Stk. 10. Energi-, forsynings- og klimaministeren træffer afgørelse om pristillæg efter stk. 4-9. Energi-, forsynings- og klimaministeren kan kræve, at dokumentation for opfyldelse af kravene i stk. 7-9 ledsages af en erklæring på tro og love om dokumentationens ægthed. Udbetaling af pristillæg efter stk. 7-9 er betinget af, at energi-, forsynings- og klimaministeren har modtaget ansøgning om udbetaling af pristillæg senest den 31. marts 2018. Afgørelsen kan ikke påklages til anden administrativ myndighed end Energiklagenævnet.
 
-Lov nr. 744 af 1. juni 2015 (Ny ansøgningsprocedure og grænse på 500 kW for støtte til bl.a. solcelleanlæg og husstandsvindmøller, investeringstilskud og driftsstøtte til kraft-varme-værker, afregningsvilkår for Horns Rev 3 og ophævelse af treledstariffen m.v.) indeholder følgende ikrafttrædelses- og overgangsbestemmelse:
+Lov nr. 744 af 1. juni 2015 (Ny ansøgningsprocedure og grænse på 500 kW for støtte til bl.a. solcelleanlæg og husstandsvindmøller, investeringstilskud og driftsstøtte til kraft-varme-værker, afregningsvilkår for Horns Rev 3 og ophævelse af treledstariffen m.v.) indeholder følgende ikrafttrædelses- og overgangsbestemmelser:
 
 § 7
 
@@ -112,7 +112,7 @@ Stk. 7. Energinets afgørelser efter § 7, stk. 12, 1. pkt., i lov nr. 641 af 12
 
 Stk. 8. (Udelades)
 
-Lov nr. 504 af 23. maj 2018 (Afholdelse af udbud af pristillæg, særordning for forsøgsmøller og overgangsordning for landmøller samt udvidelse af værditabsordningen, køberetsordningen og garantifonden for visse solcelleanlæg m.v.) indeholder følgende ikrafttrædelses- og overgangsbestemmelse:
+Lov nr. 504 af 23. maj 2018 (Afholdelse af udbud af pristillæg, særordning for forsøgsmøller og overgangsordning for landmøller samt udvidelse af værditabsordningen, køberetsordningen og garantifonden for visse solcelleanlæg m.v.) indeholder følgende ikrafttrædelses- og overgangsbestemmelser:
 
 § 4
 
@@ -122,7 +122,7 @@ Stk. 2. Energi-, forsynings- og klimaministeren fastsætter tidspunktet for ikra
 
 Stk. 3. § 1, nr. 49 og 50, og § 2, nr. 1, finder ikke anvendelse for anlæg, hvor der er indgået en aftale om nettilslutning inden den 1. juli 2018. For sådanne anlæg finder de hidtil gældende regler anvendelse.
 
-Lov nr. 505 af 23. maj 2018 (Afholdelse af et udbud af pristillæg for elektricitet produceret på solcelleanlæg) indeholder følgende ikrafttrædelsesbestemmelse:
+Lov nr. 505 af 23. maj 2018 (Afholdelse af et udbud af pristillæg for elektricitet produceret på solcelleanlæg), indeholder følgende ikrafttrædelsesbestemmelse:
 
 § 2
 
@@ -134,7 +134,7 @@ Lov nr. 690 af 8. juni 2018 om Forsyningstilsynet indeholder følgende ikrafttr�
 
 Stk. 2-3. (Udelades)
 
-Lov nr. 704 af 8. juni 2018 (Styrkelse af rammerne for overvågning af elforsyningssikkerheden og klare regler for sikring af kapacitet, ændringer som følge af forordninger om EU-netregler, flytning af ansvar for måling af elektricitet hos elforbrugere direkte tilsluttet transmissionsnettet og samkøring af oplysninger om realiserede energibesparelser m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
+Lov nr. 704 af 8. juni 2018 (Styrkelse af rammerne for overvågning af elforsyningssikkerheden og klare regler for sikring af kapacitet, ændringer som følge af forordninger om EU-netregler, flytning af ansvar for måling af elektricitet hos elforbrugere direkte tilsluttet transmissionsnettet og samkøring af oplysninger om realiserede energibesparelser m.v.), indeholder følgende ikrafttrædelsesbestemmelse:
 
 § 6
 
@@ -142,7 +142,7 @@ Stk. 1. Loven træder i kraft den 1. juli 2018, jf. dog stk. 2.
 
 Stk. 2. (Udelades)
 
-Lov nr. 1532 af 18. december 2018 (Pristillæg til elektricitet produceret ved afbrænding af biomasse, digitalisering m.v.) indeholder følgende ikrafttrædelses- og overgangsbestemmelse:
+Lov nr. 1532 af 18. december 2018 (Pristillæg til elektricitet produceret ved afbrænding af biomasse, digitalisering m.v.) indeholder følgende ikrafttrædelses- og overgangsbestemmelser:
 
 § 3
 
@@ -178,10 +178,86 @@ Stk. 2. For pristillæg ydet efter § 58, stk. 1, nr. 2, jf. stk. 8, i lov om el
 
 Stk. 3. Regler fastsat i medfør af § 58, stk. 10 eller 11, i lov om elforsyning, jf. lovbekendtgørelse nr. 840 af 15. august 2019, forbliver i kraft, indtil de ophæves eller afløses af forskrifter udstedt i medfør af § 58, stk. 9 eller 10, i lov om elforsyning, jf. denne lovs § 1, nr. 14.
 
-Lov nr. 1566 af 27. december 2019 (Ændring af støtteordninger til anvendelse af biogas) indeholder følgende ikrafttrædelses- og overgangsbestemmelse:
+Lov nr. 1566 af 27. december 2019 (Ændring af støtteordninger til anvendelse af biogas) indeholder følgende ikrafttrædelses- og overgangsbestemmelser:
 
 § 5
 
 Stk. 1. Loven træder i kraft den 1. januar 2020, jf. dog stk. 2.
 
 Stk. 2. Klima-, energi- og forsyningsministeren fastsætter tidspunktet for ikrafttrædelse af § 47, stk. 1, nr. 2, i lov om fremme af vedvarende energi som affattet ved denne lovs § 1, nr. 13, § 50, stk. 3, i lov om fremme af vedvarende energi som affattet ved denne lovs § 1, nr. 23, og § 50, stk. 5, i lov om fremme af vedvarende energi som affattet ved denne lovs § 1, nr. 26.
+
+Lov nr. 546 af 28. april 2020 (Bemyndigelse til midlertidig fravigelse af frister og andre betingelser som følge af covid-19) indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 3
+
+Stk. 1. Loven træder i kraft ved bekendtgørelsen i Lovtidende.
+
+Stk. 2. Lovforslaget kan stadfæstes straks efter dets vedtagelse.
+
+Stk. 3. Kapitel 6 b i lov om fremme af vedvarende energi som affattet ved denne lovs § 1, nr. 1, og kapitel 6 b i lov om naturgasforsyning som affattet ved denne lovs § 2, nr. 1, ophæves den 1. marts 2021.
+
+Stk. 4. Klima-, energi- og forsyningsministeren kan i forbindelse med ophævelsen af kapitel 6 b i lov om fremme af vedvarende energi som affattet ved denne lovs § 1, nr. 1, og af kapitel 6 b i lov om naturgasforsyning som affattet ved denne lovs § 2, nr. 1, jf. stk. 3, fastsætte overgangsregler om håndtering af genindtrædelsen af frister og andre betingelser, der efter regler fastsat i medfør af kapitel 6 b i lov om fremme af vedvarende energi og kapitel 6 b i lov om naturgasforsyning har været fraveget.
+
+Lov nr. 738 af 30. maj 2020 (Afholdelse af udbud af pristillæg i 2020-2024, ændring af værditabsordning, ophævelse af køberetsordning og oprettelse af salgsoptionsordning, VE-bonusordning, grøn puljeordning m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 5
+
+Stk. 1. Loven træder i kraft den 1. juni 2020, jf. dog stk. 2 og 3.
+
+Stk. 2. § 1, nr. 21-29 og 33, og § 2 træder i kraft den 1. juli 2020.
+
+Stk. 3. Klima-, energi- og forsyningsministeren fastsætter tidspunktet for ikrafttræden af § 1, nr. 30.
+
+Stk. 4. De projekter, der på tidspunktet for lovens ikrafttrædelse er nået så langt i planlægningsprocessen, at projektopstilleren ikke kan overholde fristerne for afholdelse af offentligt møde i § 1, nr. 9, skal afholde det offentlige møde senest 5 uger inden nettilslutning.
+
+Stk. 5. § 1, nr. 22-25, og § 2 finder ikke anvendelse for bølgekraftanlæg og vandkraftværker, hvor der er indgået en aftale om nettilslutning inden den 1. juli 2020. For sådanne anlæg finder de hidtil gældende regler anvendelse.
+
+Stk. 6. § 1, nr. 1-20, 31, 32, 34 og 35, om den reviderede værditabsordning, ophævelse af køberetsordning, salgsoptionsordning, VE-bonusordning og grøn pulje finder ikke anvendelse for projekter, hvor den pågældende kommune har udstedt en byggetilladelse efter byggeloven før den 1. juni 2020 eller for havvindmølleprojekter i et område udpeget til kystnære havvindmølleparker, jf. § 22, stk. 3, nr. 2, i lov om fremme af vedvarende energi, eller havvindmøller uden for udbud efter § 23, stk. 4, i lov om fremme af vedvarende energi, hvis Energistyrelsen har udstedt en forundersøgelsestilladelse efter § 23, stk. 1, eller § 23, stk. 4, før den 1. juni 2020. For sådanne projekter finder de hidtil gældende regler om værditab og køberet i lov om fremme af vedvarende energi, jf. lovbekendtgørelse nr. 125 af 7. februar 2020, anvendelse, jf. dog stk. 8.
+
+Stk. 7. § 1, nr. 1-20, 31, 32, 34 og 35, om den reviderede værditabsordning, ophævelse af køberetsordning, salgsoptionsordning, VE-bonusordning og grøn pulje finder ikke anvendelse for projekter, der har opnået tilsagn om pristillæg i 2018 og 2019, jf. § 35 d i lov om fremme af vedvarende energi, og projekter, der har vundet ret til pristillæg efter solcelleudbud i 2018, jf. § 50 b i lov om fremme af vedvarende energi, og efter teknologineutrale udbud i 2018 og 2019, jf. § 50 c i lov om fremme af vedvarende energi, jf. lovbekendtgørelse nr. 125 af 7. februar 2020. For sådanne projekter finder de hidtil gældende regler i lov om fremme af vedvarende energi, jf. lovbekendtgørelse nr. 125 af 7. februar 2020, anvendelse.
+
+Stk. 8. Projekter, der efter stk. 6 er omfattet af de hidtil gældende regler om værditab og køberet i lov om fremme af vedvarende energi, jf. lovbekendtgørelse nr. 125 af 7. februar 2020, og som vinder ret til pristillæg efter teknologineutrale udbud i 2020-2024, jf. § 1, nr. 30, er også omfattet af denne lovs § 1, nr. 1, 2, 6-20, 31, 34 og 35, om salgsoption, VE-bonus og grøn pulje. Opstillere af disse projekter, der på tidspunktet for lovens ikrafttrædelse er nået så langt i planlægningsprocessen, at projektopstilleren ikke kan overholde fristerne for afholdelse af offentligt møde i § 1, nr. 9, for salgsoption og VE-bonus, skal afholde det offentlige møde senest 5 uger inden nettilslutning.
+
+Stk. 9. § 1, nr. 1-5 og 7-15, om den reviderede værditabsordning finder ikke anvendelse for projekter, hvor taksationsmyndigheden har truffet afgørelse om værditab efter §§ 6-12 i lov om fremme af vedvarende energi, jf. lovbekendtgørelse nr. 125 af 7. februar 2020, før den 1. juni 2020, eller hvor projektopstilleren og ejeren af beboelsesejendommen har indgået aftale om beløbets størrelse før den 1. juni 2020, og hvor den pågældende kommune har udstedt en byggetilladelse efter byggeloven den 1. juni 2020 eller senere, eller hvor Energistyrelsen har udstedt en etableringstilladelse den 1. juni 2020 eller senere. For sådanne projekter finder de hidtil gældende regler om værditab i lov om fremme af vedvarende energi, jf. lovbekendtgørelse nr. 125 af 7. februar 2020, anvendelse. For sådanne projekter finder § 1, nr. 1, 2, 6-20, 31, 32, 34 og 35, om salgsoption, dog ikke hvis der er indgået aftale om beløbets størrelse før den 1. juni 2020, ophævelse af køberetsordning, VE-bonus og grøn pulje også anvendelse.
+
+Stk. 10. § 3, nr. 2-9, og § 4 har virkning for andele i vedvarende energi-anlæg, der udbydes den 1. juni 2020 eller senere. Dette gælder dog ikke projekter, der efter stk. 7 og 8 er omfattet af ordning om køberet efter §§ 13-17 i lov om fremme af vedvarende energi, jf. lovbekendtgørelse nr. 125 af 7. februar 2020.
+
+Stk. 11. Regler fastsat i medfør af § 7, stk. 5, og §§ 33 og 60 i lov om fremme af vedvarende energi, jf. lovbekendtgørelse nr. 125 af 7. februar 2020, forbliver i kraft, indtil de ophæves eller afløses af forskrifter udstedt i medfør af § 7, stk. 5, og §§ 33 og 60 i lov om fremme af vedvarende energi.
+
+Lov nr. 2065 af 21. december 2020 (Udbud af Thor Havvindmøllepark og forhøjelse af beløbssats til grøn puljeordning) indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 3
+
+Stk. 1. Loven træder i kraft den 1. januar 2021, jf. dog stk. 2.
+
+Stk. 2. Klima-, energi- og forsyningsministeren fastsætter tidspunktet for ikrafttræden af § 1, nr. 1, 6, 7 og 13-15.
+
+Stk. 3. § 1, nr. 2-5, finder ikke anvendelse for projekter, hvor den pågældende kommune har udstedt en byggetilladelse efter byggeloven før den 1. januar 2021 eller for havvindmølleprojekter i et område udpeget til kystnære havvindmølleparker, jf. § 22, stk. 3, nr. 2, i lov om fremme af vedvarende energi, eller havvindmøller uden for udbud efter § 23, stk. 4, i lov om fremme af vedvarende energi, hvis Energistyrelsen har udstedt en forundersøgelsestilladelse efter § 23, stk. 1 eller 4, i lov om fremme af vedvarende energi før den 1. januar 2021. For sådanne projekter finder de hidtil gældende regler om grøn pulje i lov om fremme af vedvarende energi anvendelse, jf. lov nr. 738 af 30. maj 2020.
+
+Stk. 4. § 1, nr. 7, finder ikke anvendelse for havvindmølleparker, der er udbudt efter § 23 i lov om fremme af vedvarende energi før lovens ikrafttræden. For sådanne havvindmølleparker finder de hidtil gældende regler anvendelse.
+
+Lov nr. 883 af 12. maj 2021 (Gennemførelse af dele af direktiv om fremme af anvendelsen af energi fra vedvarende energikilder, herunder bestemmelser om oprindelsesgarantier, tilladelsesprocesser, VE-fællesskaber, bæredygtighedskriterier og kriterier for drivhusgasemissionsbesparelser for biobrændstoffer, biomassebrændsler og flydende biobrændsler, m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 13
+
+Stk. 1. Loven træder i kraft den 30. juni 2021, jf. dog stk. 2.
+
+Stk. 2. (Udelades)
+
+Stk. 3. Regler fastsat i medfør af § 2, stk. 3, i lov om fremme af vedvarende energi, jf. lovbekendtgørelse nr. 125 af 7. februar 2020, som ændret senest ved § 1 i lov nr. 738 af 30. maj 2020 forbliver i kraft, indtil de ophæves eller afløses af nye forskrifter.
+
+Stk. 4. Regler fastsat i medfør af § 50, stk. 5, 2. pkt., i lov om fremme af vedvarende energi, jf. lovbekendtgørelse nr. 125 af 7. februar 2020, som ændret senest ved lov nr. 2065 af 21. december 2020 forbliver i kraft, indtil de ophæves eller afløses af forskrifter udstedt i medfør af § 56 c i lov om fremme af vedvarende energi som affattet ved denne lovs § 1, nr. 16.
+
+Stk. 5-9. (Udelades)
+
+Lov nr. 923 af 18. maj 2021 (Indpasning af gas fra vedvarende energikilder, udbud af pristillæg for opgraderet biogas og andre gasser fra vedvarende energikilder, udbud af støtte til produktion af brændstoffer eller andre produkter fra elektricitet (power-to-x), justering af den økonomiske regulering af gasdistributionsselskaber og reglerne for gasdetailmarkedet og sidestillelse af regioner med kommuner i forhold til egenproduktion af elektricitet ved selskabsudskillelse m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 10
+
+Stk. 1. Loven træder i kraft den 30. juni 2021, jf. dog stk. 2-6. § 4, nr. 2 og 3, og § 9 gælder for elproduktionsanlæg, der nettilsluttes fra den 30. juni 2021 og frem.
+
+Stk. 2-5. (Udelades)
+
+Stk. 6. Klima-, energi- og forsyningsministeren fastsætter tidspunktet for ikrafttrædelsen af § 1, nr. 76, og § 2, nr. 4.
+
+Stk. 7-8. (Udelades)
