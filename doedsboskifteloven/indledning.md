@@ -1,5 +1,5 @@
 Bekendtgørelse af lov om skifte af dødsboer
 
-Herved bekendtgøres lov nr. 383 af 22. maj 1996 om skifte af dødsboer med de ændringer, der følger af § 2 i lov nr. 1116 af 29. december 1999, § 4 i lov nr. 215 af 31. marts 2004, § 102 i lov nr. 428 af 6. juni 2005, § 6 i lov nr. 554 af 24. juni 2005, § 4 i lov nr. 538 af 8. juni 2006, § 3 i lov nr. 516 af 6. juni 2007, § 13 i lov nr. 523 af 6. juni 2007, § 2 i lov nr. 521 af 17. juni 2008, § 27 i lov nr. 521 af 12. juni 2009, § 4 i lov nr. 718 af 25. juni 2010, § 1 i lov nr. 221 af 21. marts 2011, § 84 i lov nr. 594 af 14. juni 2011 og § 7 i lov nr. 737 af 25. juni 2014.
+Herved bekendtgøres lov om skifte af dødsboer, jf. lovbekendtgørelse nr. 1335 af 26. november 2015, med de ændringer, der følger af § 6 i lov nr. 550 af 30. maj 2017, § 8 i lov nr. 683 af 8. juni 2017 og § 3 i lov nr. 1169 af 8. juni 2021.
 
-Den ændring, der følger af § 1, nr. 3, i lov nr. 447 af 9. juni 2004 om ændring af retsplejeloven, konkursloven, lov om skifte af dødsboer og lov om skifte af fællesbo m.v. (Digital kommunikation i retsplejen, kendelser med begrænset sagsfremstilling, regler om vidneforvarede m.v.), er ikke indarbejdet i denne lovbekendtgørelse, da tidspunktet for ikrafttræden af denne ændring fastsættes af justitsministeren, jf. § 5, stk. 1, i lov nr. 447 af 9. juni 2004.
+Den ændring, der følger af § 3 i lov nr. 447 af 9. juni 2004, er ikke indarbejdet i denne lovbekendtgørelse, da ændringen efterfølgende er ophævet, jf. § 6 i lov nr. 1169 af 8. juni 2021.
