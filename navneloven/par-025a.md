@@ -6,4 +6,4 @@ Stk. 2. Der betales ikke gebyr ved ansøgning om navneændring, der sker i forbi
 
 Stk. 3. Søges der om navneændring for flere personer, skal der betales gebyr for hver ansøger. Der skal dog kun betales ét gebyr, hvis ansøgningerne om navneændring omfatter ægtefæller, ugifte samlevende, søskende eller plejebørn under 18 år.
 
-Stk. 4. Social- og indenrigsministeren fastsætter regler om betaling af gebyr.
+Stk. 4. Social- og ældreministeren fastsætter regler om betaling af gebyr.
