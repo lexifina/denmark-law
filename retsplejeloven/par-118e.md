@@ -1,1 +1,1 @@
-§ 118 e. Politiklagemyndigheden afgiver en årlig beretning om sin virksomhed til Folketinget og justitsministeren. Beretningen offentliggøres.
+§ 118 e. Politiklagerådet fastsætter selv sin forretningsorden og de nærmere regler om arbejdets fordeling mellem rådet og direktøren.
