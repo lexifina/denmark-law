@@ -36,14 +36,6 @@ Stk. 1. Lovens § 2, nr. 3 og 4, og §§ 3 og 9 træder i kraft den 1. januar 20
 
 Stk. 2. § 1 har virkning for sager om faderskab til børn, der fødes den 1. juli 2002 eller senere, samt for sager, der den 1. juli 2002 eller senere genoptages efter børnelovens § 22.
 
-Lov nr. 447 af 9. juni 2004 (Digital kommunikation i retsplejen, kendelser med begrænset sagsfremstilling, regler om vidneforvarede m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
-
-§ 5
-
-Stk. 1. Loven træder i kraft efter justitsministerens nærmere bestemmelse. Lovens § 1, nr. 1, 2, 8-11 og 13-16, træder dog i kraft den 1. juli 2004.
-
-Stk. 2. (Udelades)
-
 Lov nr. 538 af 8. juni 2006 (Politi- og domstolsreform) indeholder følgende ikrafttrædelsesbestemmelser:
 
 § 105
@@ -86,7 +78,7 @@ Stk. 6. Klager over vederlag, som en advokat eller et advokatselskab har forlang
 
 Stk. 7. Ændringen af retsplejelovens § 143, stk. 1, som affattet ved lovforslagets § 1, nr. 20, medfører ikke ophørsbeskatning efter fondsbeskatningslovens § 2, stk. 1, jf. selskabsskattelovens § 5, stk. 4.
 
-Lov nr. 505 af 12. juni 2009 (Behandling af værgemålssager, ajourføring af regler om advokaters virksomhed, digital-, tele- og videokommunikation, afskaffelse af hæftestraffen m.v.) indeholder følgende ikrafttrædelsesbestemmelser:
+Lov nr. 505 af 12. juni 2009 (Behandling af værgemålssager, ajourføring af regler om advokaters virksomhed, digital-, tele- og videokommunikation, afskaffelse af hæftestraffen m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
 
 § 8
 
@@ -95,10 +87,6 @@ Stk. 1. Loven træder i kraft den 1. januar 2010, jf. dog stk. 2 og 3.
 Stk. 2. Lov for Færøerne om rettens pleje § 93, stk. 4, § 115 b, § 119, stk. 2, nr. 1, § 148 a, § 149, stk. 1-6, § 154, stk. 2, § 155, nr. 2, § 156 a, § 158, § 189, stk. 3, § 257, § 260, stk. 2, § 448 b, § 453, 3. pkt., § 456 f, stk. 2, § 456 o, stk. 2, 2. pkt., kapitel 43, § 469, stk. 1, 2. pkt., § 469, stk. 4, 3. pkt., § 470, stk. 3, 3. pkt., § 475 c, stk. 1, 2. pkt., § 535, stk. 1, 1. pkt., § 650, stk. 1, 1. pkt., § 721, stk. 1, nr. 1, § 726, stk. 2, § 730, stk. 1, 2. pkt., § 731, stk. 1, litra e, § 762, stk. 3, § 765, stk. 5, § 777, 1. pkt., § 802, stk. 1, 2. pkt., § 811, stk. 2, § 895, stk. 6, § 925, stk. 1, 1. pkt., § 990, stk. 1, 1. pkt., § 997, stk. 4, § 998, stk. 1, § 1017, stk. 2, § 1017 a, stk. 4, og § 1018 d, stk. 1, som affattet henholdsvis ændret ved denne lovs § 1, nr. 6-8, 47-52, 56, 58, 59, 66-74, 76-79, 82-86, 90 og 98, samt §§ 2-7 træder i kraft efter justitsministerens nærmere bestemmelse. (Udelades)
 
 Stk. 3. (Udelades)
-
-§ 9
-
-(Udelades)
 
 Lov nr. 715 af 25. juni 2010 (Udveksling af oplysninger om dna-profiler, fingeraftryk og køretøjer med stater uden for Den Europæiske Union) indeholder følgende ikrafttrædelsesbestemmelse:
 
@@ -122,7 +110,7 @@ Stk. 3. Retsplejelovens § 225 a, stk. 2, som affattet ved denne lovs § 4, nr. 
 
 Stk. 4. Erhvervs- og vækstministeren kan efter forhandling med justitsministeren forlænge perioden nævnt i stk. 3 med op til 7 år.
 
-Lov nr. 1867 af 29. december 2015 (Digitalisering af retsprocessen i borgerlige sager, oprettelse af en domsdatabase m.v.) indeholder følgende ikrafttrædelsesbestemmelser:
+Lov nr. 1867 af 29. december 2015 (Digitalisering af retsprocessen i borgerlige sager, oprettelse af en domsdatabase m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
 
 § 5
 
@@ -139,10 +127,6 @@ Stk. 5. Sager, som er anlagt før lovens ikrafttræden og appelleres efter loven
 Stk. 6. Retten kan beslutte, at en sag, som er anlagt før lovens ikrafttræden eller behandles efter de hidtil gældende regler, jf. stk. 4, 2. pkt., skal behandles efter reglerne i denne lov. Beslutningen kan ikke uden Procesbevillingsnævnets tilladelse indbringes for højere ret. Procesbevillingsnævnet kan dog meddele tilladelse til kære, hvis beslutningen angår spørgsmål af væsentlig betydning for sagens forløb eller af afgørende betydning for den, der ansøger om kæretilladelse, og der i øvrigt er anledning til at lade afgørelsen prøve af en højere ret. Ansøgning om kæretilladelse skal indgives til Procesbevillingsnævnet, inden 2 uger efter at beslutningen er truffet. Kære skal ske, inden 2 uger efter at tilladelsen er meddelt ansøgeren.
 
 Stk. 7. Domstolsstyrelsen kan fastsætte regler om, at alle verserende borgerlige retssager og sager om optagelse af bevis om borgerlige krav skal behandles efter reglerne i denne lov.
-
-§ 6
-
-(Udelades)
 
 Lov nr. 130 af 27. februar 2018 (Begrænsning af surrogatfængsling i eget hjem) indeholder følgende ikrafttrædelsesbestemmelse:
 
@@ -161,14 +145,6 @@ Stk. 1. Loven træder i kraft den 1. juli 2018, jf. dog stk. 2.
 Stk. 2. (Udelades)
 
 Stk. 3. Reglerne i retsplejelovens kapitel 93 b og 93 c som ændret ved denne lovs § 2 finder tilsvarende anvendelse i forhold til strafbare forhold begået af forsvarspersonale i tjenesten og adfærd udvist af forsvarspersonale i tjenesten, når personalet varetager politimæssige opgaver i henhold til regler udstedt i medfør af § 15 i lov om forsvarets formål, opgaver og organisation m.v.
-
-Lov nr. 710 af 8. juni 2018 (Vidneudelukkelse for patentrådgivere, obligatorisk digital selvbetjening ved ansøgning om fri proces m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
-
-§ 2
-
-Stk. 1. Loven træder i kraft den 1. juli 2018, jf. dog stk. 2.
-
-Stk. 2. Justitsministeren fastsætter tidspunktet for ikrafttrædelsen af § 1, nr. 11.
 
 Lov nr. 714 af 8. juni 2018 (Nedbringelse af sagsbehandlingstiden i straffesager) indeholder følgende ikrafttrædelsesbestemmelse:
 
@@ -234,14 +210,6 @@ Stk. 1. Loven træder i kraft den 1. januar 2019.
 
 Stk. 2. Lovens § 1, § 2, nr. 2 og 3, og § 3 finder ikke anvendelse i forhold til handlinger begået før lovens ikrafttræden.
 
-Lov nr. 370 af 9. april 2019 (Sagsomkostninger til statslige myndigheder, indførelse af adgang til at klage over advarsler meddelt dommere og dommerfuldmægtige m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
-
-§ 2
-
-Stk. 1. Loven træder i kraft den 12. april 2019, jf. dog stk. 2.
-
-Stk. 2. Justitsministeren fastsætter tidspunktet for ikrafttræden af lovens § 1, nr. 13.
-
 Lov nr. 485 af 30. april 2019 (Udeblivelsesdomme i sager med påstand om udvisning og anvendelse af telekommunikation med billede i retsmøder) indeholder følgende ikrafttrædelsesbestemmelse:
 
 § 2
@@ -256,28 +224,98 @@ Lov nr. 349 af 2. april 2020 (Skærpet straf for lovovertrædelser med baggrund 
 
 Stk. 1. Loven træder i kraft ved bekendtgørelsen i Lovtidende.
 
-Stk. 2. Lovforslaget kan stadfæstes straks efter dets vedtagelse.
+Stk. 2. (Udelades)
 
-Stk. 3. Justitsministeren fremsætter senest den 30. november 2020 forslag om revision af de ved denne lov affattede bestemmelser.
+Stk. 3. Straffelovens § 81 d som affattet ved denne lovs § 1, nr. 1, retsplejelovens § 791 d, stk. 1, 2. pkt., som affattet ved denne lovs § 2, nr. 1, retsplejelovens § 791 d, stk. 6, som affattet ved denne lovs § 2, nr. 2, og udlændingelovens § 22, nr. 9, som affattet ved denne lovs § 3, nr. 1, ophæves den 1. januar 2022.
 
-Stk. 4. Straffelovens § 81 d som affattet ved denne lovs § 1, nr. 1, retsplejelovens § 791 d, stk. 1, 2. pkt., som affattet ved denne lovs § 2, nr. 1, retsplejelovens § 791 d, stk. 6, som affattet ved denne lovs § 2, nr. 2, og udlændingelovens § 22, nr. 9, som affattet ved denne lovs § 3, nr. 1, ophæves den 1. marts 2021.
+Lov nr. 1832 af 8. december 2020 (Selvstændig bestemmelse om angreb med genstand på personer i offentlig tjeneste og skærpelse af straffen for forsætlig fareforvoldelse) indeholder følgende ikrafttrædelsesbestemmelse:
 
-Lov nr. 803 af 9. juni 2020 (Politiets overtagelse af tv-overvågning) indeholder følgende ikrafttrædelsesbestemmelse:
+§ 8
+
+Loven træder i kraft den 15. december 2020.
+
+Lov nr. 1942 af 15. december 2020 (Adgang til sociale behandlingstilbud mod stofmisbrug for indsatte i kriminalforsorgens institutioner m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 3
+
+Justitsministeren fastsætter tidspunktet for lovens ikrafttræden.
+
+Lov nr. 124 af 30. januar 2021 (Gennemførelse af dele af aftalen om politiets og anklagemyndighedens økonomi 2021-2023) indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 5
+
+Stk. 1. Loven træder i kraft den 1. februar 2021.
+
+Stk. 2-3. (Udelades)
+
+Lov nr. 160 af 3. februar 2021 (Yderligere foranstaltninger for at forebygge og inddæmme nye virusvarianter af covid-19 og udvidet adgang til kommunale isolationsfaciliteter) indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 5
+
+Stk. 1. Loven træder i kraft ved bekendtgørelsen i Lovtidende, jf. dog stk. 2.
+
+Stk. 2-3. (Udelades)
+
+Lov nr. 285 af 27. februar 2021 om epidemier (epidemiloven) indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 68. Loven træder i kraft den 1. marts 2021.
+
+Stk. 2-4. (Udelades)
+
+Lov nr. 425 af 16. marts 2021 om retsafgifter indeholder følgende ikrafttrædelses- og overgangsbestemmelser:
+
+§ 50. Loven træder i kraft den 1. oktober 2021.
+
+Stk. 2. (Udelades)
+
+§ 51. Loven finder ikke anvendelse, når afgiftspligten efter de hidtil gældende regler er indtrådt før lovens ikrafttræden. I sådanne tilfælde finder de hidtil gældende regler anvendelse.
+
+Stk. 2-6. (Udelades)
+
+Lov nr. 671 af 19. april 2021 (Indførelse af granskningskommissioner, Folketingets samtykke til nedlæggelse af undersøgelseskommissioner m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 3
+
+Stk. 1. Loven træder i kraft dagen efter bekendtgørelsen i Lovtidende.
+
+Stk. 2. (Udelades)
+
+Lov nr. 1155 af 8. juni 2021 om fondsmæglerselskaber og investeringsservice og -aktiviteter indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 288. Loven træder i kraft den 26. juni 2021.
+
+Stk. 2-4. (Udelades)
+
+Lov nr. 1169 af 8. juni 2021 (Effektivisering af straffesagskæden, digital kommunikation i skiftesager, pligtig afgangsalder for dommerfuldmægtige m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 8
+
+Loven træder i kraft den 1. juli 2021.
+
+Lov nr. 1170 af 8. juni 2021 (Øget brug af telekommunikation med billede i retsmøder om visse foranstaltninger) indeholder følgende ikrafttrædelsesbestemmelse:
 
 § 2
 
-Loven træder i kraft den 1. juli 2020.
+Loven træder i kraft den 1. juli 2021.
 
-Lov nr. 962 af 26. juni 2020 (Afskaffelse af tvungen delt bopæl og opfølgning på etableringen af det nye familieretlige system m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
+Lov nr. 1171 af 8. juni 2021 (Nedsættelse af visse offentlige ydelser ved tiltaltes udeblivelse uden dokumenteret lovligt forfald) indeholder følgende ikrafttrædelsesbestemmelse:
 
-§ 13
+§ 6
 
-Loven træder i kraft den 1. juli 2020.
+Loven træder i kraft den 1. juli 2021.
 
-Lov nr. 967 af 26. juni 2020 (Styrkelse af politiets muligheder for efterforskning af kriminalitet på internettet) indeholder følgende ikrafttrædelsesbestemmelse:
+Lov nr. 1172 af 8. juni 2021 (Nyt uafhængigt tilsyn med bevismidler, udvidelse af politiklageordningen og justering af ordningen med fartbøder til politiets personale i forbindelse med udrykningskørsel som led i tjenesten) indeholder følgende ikrafttrædelsesbestemmelse:
 
 § 2
 
-Stk. 1. Loven træder i kraft den 1. juli 2020, jf. dog stk. 2.
+Stk. 1. Loven træder i kraft den 1. juli 2021, jf. dog stk. 2.
 
-Stk. 2. § 1, nr. 5, træder i kraft dagen efter bekendtgørelsen i Lovtidende.
+Stk. 2. Lovens § 1, nr. 1-22 og 24, træder i kraft den 1. januar 2022.
+
+Lov nr. 1174 af 8. juni 2021 (Forbud mod deltagelse i nattelivet, udvidet adgang til beslaglæggelse af værdigenstande og udvisning af udlændinge dømt for vanvidskørsel m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 5
+
+Stk. 1. Loven træder i kraft den 1. juli 2021.
+
+Stk. 2. (Udelades)
