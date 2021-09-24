@@ -1,7 +1,5 @@
-Givet på Amalienborg, den 14. april 1999
+Sundhedsministeriet, den 21. september 2021
 
-Under Vor Kongelige Hånd og Segl
+Magnus Heunicke
 
-Margrethe R.
-
-/Carsten Koch
+/ Frederik Rechenback Enelund
