@@ -1,7 +1,5 @@
-Givet på Amalienborg, den 5. december 2018
+Skatteministeriet, den 21. september 2021
 
-Under Vor Kongelige Hånd og Segl
+P.M.V. Jens Brøchner
 
-I Dronningens Navn: FREDERIK Kronprins
-
-/ Karsten Lauritzen
+/ Lise Bo Nielsen
