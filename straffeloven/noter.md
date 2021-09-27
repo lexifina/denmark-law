@@ -1,4 +1,4 @@
-1) § 81 d ophæves den 1. marts 2021, jf. § 4, stk. 4, i lov nr. 349 af 2. april 2020 om ændring af straffeloven, retsplejeloven og udlændingeloven (Skærpet straf for lovovertrædelser med baggrund i eller sammenhæng med covid-19 og blokering af hjemmesider, hvorfra der begås visse lovovertrædelser, som har baggrund i eller sammenhæng med covid-19).
+1) § 81 d ophæves den 1. januar 2022, jf. § 4, stk. 4, i lov nr. 349 af 2. april 2020 om ændring af straffeloven, retsplejeloven og udlændingeloven (Skærpet straf for lovovertrædelser med baggrund i eller sammenhæng med covid-19 og blokering af hjemmesider, hvorfra der begås visse lovovertrædelser, som har baggrund i eller sammenhæng med covid-19), som ændret ved § 1 i lov nr. 289 af 27. februar 2021 om ændring af straffeloven, retsplejeloven og udlændingeloven (Udskydelse af solnedgangsklausul).
 
 2) Lovændringen vedrører § 68 a, § 69, § 69 a, § 72, stk. 1-2, § 73, stk. 1, 1. pkt., og § 97, stk. 2, nr. 2.
 
@@ -42,18 +42,30 @@
 
 22) Lovændringen vedrører § 62, stk. 1.
 
-23) Lovændringen vedrører § 93, stk. 3, og § 290 b.
+23) Lovændringen vedrører § 81 d.
 
-24) Lovændringen vedrører § 81 d.
+24) Loven er bekendtgjort i Lovtidende den 2. april 2020.
 
-25) Loven er bekendtgjort i Lovtidende den 2. april 2020.
+25) Lovændringen vedrører § 79 b og § 124 a.
 
-26) Lovændringen vedrører § 79 b og § 124 a.
+26) Loven er bekendtgjort i Lovtidende den 17. juni 2020.
 
-27) Loven er bekendtgjort i Lovtidende den 17. juni 2020.
+27) Lovændringen vedrører § 101 a, stk. 1, 1. pkt., og stk. 2, 1. pkt., § 114, stk. 1-3, § 114 a, 1. pkt., § 114 b, § 114 c, stk. 1, 1. pkt., og stk. 3, 2. pkt., § 114 c, stk. 2 og 3, 1. pkt., § 114 d, stk. 1, 1. pkt., § 114 d, stk. 2 og 3, § 114 e, § 114 f, § 114 g, § 114 h, § 114 i, § 114 j, stk. 1, og § 136, stk. 2.
 
-28) Lovændringen vedrører § 101 a, stk. 1, 1. pkt., og stk. 2, 1. pkt., § 114, stk. 1-3, § 114 a, 1. pkt., § 114 b, § 114 c, stk. 1, 1. pkt., og stk. 3, 2. pkt., § 114 c, stk. 2 og 3, 1. pkt., § 114 d, stk. 1, 1. pkt., § 114 d, stk. 2 og 3, § 114 e, § 114 f, § 114 g, § 114 h, § 114 i, § 114 j, stk. 1, og § 136, stk. 2.
+28) Loven er bekendtgjort i Lovtidende den 17. juni 2020.
 
-29) Loven er bekendtgjort i Lovtidende den 17. juni 2020.
+29) Lovændringen vedrører § 81 a, stk. 1, § 81 c, stk. 1, § 119 b, § 120 og § 252, stk. 1.
 
-30) Lovændringen vedrører § 114 a, 1. pkt., § 114 a, nr. 8 og § 192 a, stk. 4.
+30) Lovændringen vedrører § 216, stk. 1, og § 228.
+
+31) Lovændringen vedrører § 299 c.
+
+32) Lovændringen vedrører § 119, stk. 4, 1. pkt., § 241, 1. og 2. pkt., § 249, 2. pkt., § 252, stk. 1, og § 253, stk. 2.
+
+33) Lovændringen vedrører § 94, stk. 4, 1. pkt., § 136, stk. 3, § 243, § 260, stk. 2 og § 260 a.
+
+34) Lovændringen vedrører § 81, nr. 6.
+
+35) Lovændringen vedrører § 143, 1. pkt.
+
+36) Lovændringen vedrører § 79 c og § 124 a, stk. 2.

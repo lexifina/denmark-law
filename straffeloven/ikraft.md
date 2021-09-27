@@ -182,15 +182,7 @@ Stk. 1. Loven træder i kraft den 1. januar 2020.
 
 Stk. 2. Loven finder anvendelse på lovovertrædelser, der er begået efter lovens ikrafttræden.
 
-Lov nr. 1563 af 27. december 2019 (Styrkelse af indsatsen mod finansiel kriminalitet og gennemførelse af 4. og 5. hvidvaskdirektiv) indeholder følgende ikrafttrædelsesbestemmelse:
-
-§ 18
-
-Stk. 1. Loven træder i kraft den 10. januar 2020.
-
-Stk. 2-3. (Udelades)
-
-Lov nr. 349 af 2. april 2020 (Skærpet straf for lovovertrædelser med baggrund i eller sammenhæng med covid-19 og blokering af hjemmesider, hvorfra der begås visse lovovertrædelser, som har baggrund i eller sammenhæng med covid-19) indeholder følgende ikrafttrædelsesbestemmelse:
+Lov nr. 349 af 2. april 2020 (Skærpet straf for lovovertrædelser med baggrund i eller sammenhæng med covid-19 og blokering af hjemmesider, hvorfra der begås visse lovovertrædelser, som har baggrund i eller sammenhæng med covid-19), som ændret ved lov nr. 289 af 27. februar 2021 (Udskydelse af solnedgangsklausul), indeholder følgende ikrafttrædelsesbestemmelse:
 
 § 4
 
@@ -198,7 +190,7 @@ Stk. 1. Loven træder i kraft ved bekendtgørelsen i Lovtidende.
 
 Stk. 2-3. (Udelades)
 
-Stk. 4. Straffelovens § 81 d som affattet ved denne lovs § 1, nr. 1, retsplejelovens § 791 d, stk. 1, 2. pkt., som affattet ved denne lovs § 2, nr. 1, retsplejelovens § 791 d, stk. 6, som affattet ved denne lovs § 2, nr. 2, og udlændingelovens § 22, nr. 9, som affattet ved denne lovs § 3, nr. 1, ophæves den 1. marts 2021.
+Stk. 4. Straffelovens § 81 d som affattet ved denne lovs § 1, nr. 1, retsplejelovens § 791 d, stk. 1, 2. pkt., som affattet ved denne lovs § 2, nr. 1, retsplejelovens § 791 d, stk. 6, som affattet ved denne lovs § 2, nr. 2, og udlændingelovens § 22, nr. 9, som affattet ved denne lovs § 3, nr. 1, ophæves den 1. januar 2022.
 
 Lov nr. 882 af 16. juni 2020 (Opholds- og kontaktforbud for terrordømte) indeholder følgende ikrafttrædelsesbestemmelse:
 
@@ -212,8 +204,58 @@ Lov nr. 883 af 16. juni 2020 (Skærpelse af straffen for overtrædelse af straff
 
 Loven træder i kraft dagen efter bekendtgørelsen i Lovtidende.
 
-Lov nr. 968 af 26. juni 2020 (Forstærket indsats mod eksplosivstoffer) indeholder følgende ikrafttrædelsesbestemmelse:
+Lov nr. 1832 af 8. december 2020 (Selvstændig bestemmelse om angreb med genstand på personer i offentlig tjeneste og skærpelse af straffen for forsætlig fareforvoldelse) indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 8
+
+Loven træder i kraft den 15. december 2020.
+
+Lov nr. 2208 af 29. december 2020 (Samtykkebaseret voldtægtsbestemmelse) indeholder følgende ikrafttrædelsesbestemmelse:
 
 § 2
 
-Loven træder i kraft den 1. juli 2020.
+Loven træder i kraft den 1. januar 2021.
+
+Lov nr. 207 af 15. februar 2021 (Indførelse af mulighed for civile bøder, strukturelle påbud, interviews, kontrolundersøgelser i private hjem m.v.) indeholder følgende ikrafttrædelses- og overgangsbestemmelse:
+
+§ 3
+
+Stk. 1. Loven træder i kraft den 4. marts 2021.
+
+Stk. 2. (Udelades)
+
+Lov nr. 290 af 27. februar 2021 (Styrket indsats mod farlig kørsel m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 3
+
+Stk. 1. Loven træder i kraft den 1. marts 2021.
+
+Stk. 2. (Udelades)
+
+Lov nr. 415 af 13. marts 2021 (Styrket indsats mod negativ social kontrol m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 4
+
+Stk. 1. Loven træder i kraft den 15. marts 2021.
+
+Stk. 2-3. (Udelades)
+
+Lov nr. 709 af 26. april 2021 (Strafskærpelse for forbrydelser med baggrund i offerets handicap) indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 2
+
+Loven træder i kraft den 1. maj 2021.
+
+Lov nr. 982 af 26. maj 2021 om hjemrejse for udlændinge uden lovligt ophold (hjemrejseloven) indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 24. Loven træder i kraft den 1. juni 2021, jf. dog stk. 2.
+
+Stk. 2-8. (Udelades)
+
+Lov nr. 1174 af 8. juni 2021 (Forbud mod deltagelse i nattelivet, udvidet adgang til beslaglæggelse af værdigenstande og udvisning af udlændinge dømt for vanvidskørsel m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 5
+
+Stk. 1. Loven træder i kraft den 1. juli 2021.
+
+Stk. 2. (Udelades)
