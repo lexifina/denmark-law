@@ -26,7 +26,7 @@ Stk. 2. §§ 4 og 5 træder i kraft dagen efter bekendtgørelsen i Lovtidende.
 
 Lov nr. 690 af 8. juni 2018 om Forsyningstilsynet indeholder følgende ikrafttrædelsesbestemmelse:
 
-§ 14 Loven træder i kraft den 1. juli 2018, jf. dog stk. 2.
+§ 14. Loven træder i kraft den 1. juli 2018, jf. dog stk. 2.
 
 Stk. 2-3. (Udelades)
 
@@ -37,3 +37,9 @@ Lov nr. 739 af 30. maj 2020 (Tilskud til energibesparelser og energieffektiviser
 Stk. 1. Loven træder i kraft den 1. juli 2020, jf. dog stk. 2.
 
 Stk. 2. Klima-, energi- og forsyningsministeren fastsætter tidspunktet for ikrafttrædelse af § 1, nr. 5 og 7, og § 13, nr. 1. Ministeren kan herunder fastsætte, at bestemmelserne træder i kraft på forskellige tidspunkter.
+
+Lov nr. 882 af 12. juni 2021 (Gennemførelse af dele af klimaaftalen, bemyndigelse til sammenkædning af finansielle foranstaltninger til energieffektive renoveringer i bygninger med planlagte eller gennemførte energibesparelser og udsættelse af frist for anmodning om udbetaling af tilskud, hvortil tilsagn allerede er meddelt) indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 4
+
+Loven træder i kraft den 1. juli 2021.

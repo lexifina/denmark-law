@@ -1,5 +1,5 @@
-Energistyrelsen, den 24. august 2020
+Energistyrelsen, den 1. oktober 2021
 
-Stig Uffe Pedersen
+Stine Leth Rasmussen
 
-/ Mads Krogh
+/ Vincent Rudnicki
