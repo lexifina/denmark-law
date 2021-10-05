@@ -23,3 +23,5 @@
 12) Lovændringen vedrører § 1, stk. 1, § 1, stk. 2, nr. 2-4, § 2, stk. 1, § 3, § 2 a, § 13, stk. 2, nr. 3, § 15, stk. 3, § 16, stk. 1, nr. 1-2, § 17, stk. 2, § 21, stk. 1, § 22, stk. 1, nr. 1, kapitel 3 og fodnoten til lovens titel.
 
 13) Ved bekendtgørelse nr. 923 af 17. juni 2020 er det bestemt, at § 1, nr. 5 og 7, i lov nr. 739 af 30. maj 2020, der vedrører § 1, stk. 2, nr. 4 og kapitel 3, træder i kraft den 1. juli 2020.
+
+14) Lovændringen vedrører § 1, stk. 2, nr. 4, § 5, stk. 2, 1. pkt. og § 7, stk. 1, nr. 3.
