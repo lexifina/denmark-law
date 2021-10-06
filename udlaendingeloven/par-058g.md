@@ -1,4 +1,4 @@
-§ 58 g. Rigspolitichefen indberetter en udlænding, der ikke er statsborger i et Schengenland eller et land, der er tilsluttet Den Europæiske Union, som uønsket til SIS II, hvis
+§ 58 g. Udlændingemyndighederne indberetter en udlænding, der ikke er statsborger i et Schengenland eller et land, der er tilsluttet Den Europæiske Union, som uønsket til SIS II, hvis
 
 1) udlændingen er udvist af landet i medfør af §§ 22-24 og meddelt indrejseforbud for mindst 6 år,
 
@@ -16,8 +16,10 @@
 
 8) udlændingen er udvist af landet efter §§ 25 a eller 25 b og meddelt indrejseforbud,
 
-9) udlændingen er optaget på den liste, der er nævnt i § 29 c, stk. 1, eller
+9) udlændingen er optaget på den liste, der er nævnt i § 29 c, stk. 1,
 
-10) udlændingen er meddelt indrejseforbud efter § 32, stk. 1, nr. 2.
+10) udlændingen er meddelt indrejseforbud efter § 32, stk. 1, nr. 2, eller
 
-Stk. 2. Rigspolitichefen kan indberette en udlænding, der ikke er statsborger i et Schengenland eller et land, der er tilsluttet Den Europæiske Union, som uønsket til SIS II, hvis udlændingen er omfattet af restriktive foranstaltninger i form af begrænsninger med hensyn til indrejse og gennemrejse besluttet af De Forenede Nationer eller Den Europæiske Union.
+11) udlændingen er meddelt indrejseforbud efter § 32, stk. 1, nr. 6.
+
+Stk. 2. Udlændingemyndighederne kan indberette en udlænding, der ikke er statsborger i et Schengenland eller et land, der er tilsluttet Den Europæiske Union, som uønsket til SIS II, hvis udlændingen er omfattet af restriktive foranstaltninger i form af begrænsninger med hensyn til indrejse og gennemrejse besluttet af De Forenede Nationer eller Den Europæiske Union.
