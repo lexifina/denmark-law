@@ -28,7 +28,7 @@ Lov nr. 554 af 29. maj 2018 (Styrket kvalitet i dagtilbud, øget fleksibilitet o
 
 Stk. 1. Loven træder i kraft den 1. juli 2018, jf. dog stk. 2 og 3.
 
-Stk. 2. § 1, nr. 24 og 25, træder i kraft den 1. juni 2018.
+Stk. 2-3. § 1, nr. 24 og 25, træder i kraft den 1. juni 2018.
 
 Stk. 3. § 1, nr. 22, 23 og 29, træder i kraft den 1. januar 2019.
 
@@ -38,20 +38,10 @@ Stk. 5. § 1, nr. 31, finder først anvendelse for private pasningsordninger, de
 
 Stk. 6. § 1, nr. 33-41, finder ikke anvendelse for aftaler om tilskud til privat pasning, tilskud til pasning af egne børn og tilskud til privat pasning, som ydes i kombination med en plads i et dagtilbud efter dagtilbudslovens § 80, stk. 4, der er indgået før lovens ikrafttræden. For sådanne aftaler finder de hidtil gældende regler anvendelse.
 
-Lov nr. 1529 af 18. december 2018 (Obligatorisk læringstilbud til 1-årige børn i udsatte boligområder) indeholder følgende ikrafttrædelses- og overgangsbestemmelse:
-
-§ 3
-
-Stk. 1. Loven træder i kraft den 1. juli 2019, jf. dog stk. 2.
-
-Stk. 2. § 1, nr. 6, træder i kraft den 1. januar 2019.
-
-Stk. 3. § 44 a, stk. 1, nr. 1, i dagtilbudsloven som affattet ved denne lovs § 1, nr. 3, omfatter ikke børn, som ved lovens ikrafttræden er fyldt 9 måneder.
-
-Lov nr. 1004 af 26. juni 2020 (Ophævelse af adgang til dispensation fra regler om bedre fordeling i daginstitutioner) indeholder følgende ikrafttrædelses- og overgangsbestemmelse:
+Lov nr 1162 af 8. juni 2021 (Indsamling af data til understøttelse af minimumsnormeringer i daginstitutioner m.v.) indeholder følgende ikrafttrædelses- og overgangsbestemmelse:
 
 § 2
 
-Stk. 1. Loven træder i kraft dagen efter bekendtgørelsen i Lovtidende.
+Stk. 1. Loven træder i kraft den 1. juli 2021, jf. dog stk. 2.
 
-Stk. 2. Loven finder ikke anvendelse på ansøgninger indgivet før lovens ikrafttræden. For sådanne ansøgninger finder de hidtil gældende regler anvendelse.
+Stk. 2. § 1, nr. 2, træder i kraft den 1. januar 2024.
