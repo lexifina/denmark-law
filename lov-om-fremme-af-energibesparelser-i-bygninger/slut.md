@@ -1,5 +1,5 @@
-Energistyrelsen, den 3. september 2020
+Energistyrelsen, den 8. oktober 2021
 
-Stig Uffe Pedersen
+Stine Leth Rasmussen
 
 / Charlotte Kirk Larsen
