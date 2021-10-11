@@ -31,3 +31,19 @@ Lov nr. 739 af 30. maj 2020 (Tilskud til energibesparelser og energieffektiviser
 Stk. 1. Loven træder i kraft den 1. juli 2020, jf. dog stk. 2.
 
 Stk. 2. (Udelades)
+
+Lov nr. 882 af 12. maj 2021(Gennemførelse af dele af klimaaftalen, bemyndigelse til sammenkædning af finansielle foranstaltninger til energieffektive renoveringer i bygninger med planlagte eller gennemførte energibesparelser og udsættelse af frist for anmodning om udbetaling af tilskud, hvortil tilsagn allerede er meddelt) indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 4
+
+Loven træder i kraft den 1. juli 2021.
+
+Lov nr. 883 af 12. maj 2021 (Gennemførelse af dele af direktiv om fremme af anvendelsen af energi fra vedvarende energikilder, herunder bestemmelser om oprindelsesgarantier, tilladelsesprocesser, VE-fællesskaber, bæredygtighedskriterier og kriterier for drivhusgasemissionsbesparelser for biobrændstoffer, biomassebrændsler og flydende biobrændsler, m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 13
+
+Stk. 1. Loven træder i kraft den 30. juni 2021, jf. dog stk. 2.
+
+Stk. 2-8. (Udelades)
+
+Stk. 9. Regler fastsat i medfør af § 2, stk. 3, i lov om fremme af energibesparelser i bygninger, jf. lovbekendtgørelse nr. 1300 af 3. september 2020, forbliver i kraft, indtil de ophæves eller afløses af forskrifter udstedt i medfør af § 2, stk. 4, i lov om fremme af energibesparelser i bygninger som ændret ved denne lovs § 9, nr. 2.

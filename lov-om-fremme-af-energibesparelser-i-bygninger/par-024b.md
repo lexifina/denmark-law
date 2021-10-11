@@ -1,4 +1,4 @@
-## Kapitel 9 a
+## Kapitel 9 a.
 
 ## Godkendelsesordninger for virksomheder, der installerer eller monterer små VE-anlæg
 
