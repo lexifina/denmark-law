@@ -12,20 +12,6 @@ Stk. 3. Ihændehaveraktier, som inden denne lovs ikrafttræden er udstedt i henh
 
 (Udelades)
 
-Lov nr. 262 af 16. marts 2016 (Indførelse af register over reelle ejere) indeholder følgende ikrafttrædelsesbestemmelser:
-
-§ 13
-
-Erhvervs- og vækstministeren fastsætter tidspunktet for lovens ikrafttræden. Erhvervs- og vækstministeren kan herunder fastsætte, at forskellige dele af loven træder i kraft på forskellige tidspunkter. Erhvervs- og vækstministeren kan endvidere fastsætte overgangsregler.
-
-§ 14
-
-Stk. 1. Loven gælder ikke for Færøerne og Grønland, men kan ved kongelig anordning sættes i kraft for disse landsdele med de ændringer, som de færøske og grønlandske forhold tilsiger, jf. dog stk. 2 og 3.
-
-Stk. 2. Lovens §§ 1-3, 8, 11 og 12 kan ikke sættes i kraft for Færøerne.
-
-Stk. 3. (Udelades)
-
 Lov nr. 631 af 8. juni 2016 (Gennemførelse af ændringer i revisordirektivet og valgmuligheder i forordningen om særlige krav til revision af virksomheder af interesse for offentligheden) indeholder følgende ikrafttrædelsesbestemmelser:
 
 § 12
@@ -63,72 +49,6 @@ Stk. 3. Økonomisk bistand, der er ydet forud for den 1. januar 2017, og som var
 § 4
 
 Loven gælder ikke for Færøerne og Grønland, men kan ved en kongelig anordning helt eller delvis sættes i kraft for Grønland med de ændringer, som de grønlandske forhold tilsiger.
-
-Lov nr. 665 af 8. juni 2017 (Gennemførelse af direktiv om markeder for finansielle instrumenter (MiFID II) og ændringer som følge af forordning om markeder for finansielle instrumenter (MiFIR) m.v.) indeholder følgende ikrafttrædelsesbestemmelser:
-
-§ 21
-
-Stk. 1. Loven træder i kraft den 3. januar 2018, jf. dog stk. 2.
-
-Stk. 2-6. (Udelades)
-
-§ 22
-
-Stk. 1. Loven gælder ikke for Færøerne, og §§ 1-14 og 16-20 gælder ikke for Grønland, jf. dog stk. 2 og 3.
-
-Stk. 2. (Udelades)
-
-Stk. 3. §§ 1-14, 16, 18 og 20 kan ved kongelig anordning sættes helt eller delvis i kraft for Grønland med de ændringer, som de grønlandske forhold tilsiger.
-
-Lov nr. 1665 af 26. december 2017 (Ændring af reglerne om offentliggørelse af privatadresser i CVR m.v.) indeholder følgende ikrafttrædelsesbestemmelser:
-
-§ 8
-
-Stk. 1. Loven træder i kraft den 1. januar 2018, jf. dog stk. 2.
-
-Stk. 2. Erhvervsministeren fastsætter tidspunktet for ikrafttræden af § 1, nr. 12-15, og §§ 2-5.
-
-Stk. 3. (Udelades)
-
-§ 9
-
-Loven gælder ikke for Færøerne og Grønland, men §§ 2-6 kan ved kongelig anordning helt eller delvis sættes i kraft for Grønland med de ændringer, som de grønlandske forhold tilsiger
-
-Lov nr. 503 af 23. maj 2018 (Konsekvensændringer som følge af databeskyttelsesloven og databeskyttelsesforordningen samt medieansvarslovens anvendelse på offentligt tilgængelige informationsdatabaser m.v.) indeholder følgende ikrafttrædelsesbestemmelser:
-
-§ 32
-
-Stk. 1. Loven træder i kraft den 25. maj 2018, jf. dog stk. 3.
-
-Stk. 2-3. (Udelades)
-
-§ 33
-
-Stk. 1. Lovens §§ 4-25 og 29 gælder ikke for Færøerne, men lovens §§ 4, 8, 17 og 18, § 20, nr. 1-3, og §§ 22 og 24 kan ved kongelig anordning sættes helt eller delvis i kraft for Færøerne med de ændringer, som de færøske forhold tilsiger.
-
-Stk. 2. Lovens §§ 1, 4-25 og 29 gælder ikke for Grønland, men lovens §§ 1, 4, 8, 14, 17, 18, 24 og 25 kan ved kongelig anordning sættes helt eller delvis i kraft for Grønland med de ændringer, som de grønlandske forhold tilsiger.
-
-Stk. 3-5. (Udelades)
-
-Lov nr. 675 af 29. maj 2018 (Nedsættelse af minimumskrav til aktieselskabers selskabskapital) indeholder følgende ikrafttrædelsesbestemmelser:
-
-§ 2
-
-Loven træder i kraft den 1. juli 2018.
-
-§ 3
-
-Loven gælder ikke for Færøerne og Grønland, men kan ved kongelig anordning helt eller delvis sættes i kraft for Grønland med de ændringer, som de grønlandske forhold tilsiger.
-
-Lov nr. 676 af 29. maj 2018 (Ændrede krav til ejerregistrering m.v.) indeholder følgende ikrafttrædelsesbestemmelser:
-
-§ 4
-
-Loven træder i kraft den 1. juli 2018.
-
-§ 5
-
-Loven gælder ikke for Færøerne og Grønland, men kan ved kongelig anordning helt eller delvis sættes i kraft for Grønland med de ændringer, som de grønlandske forhold tilsiger.
 
 Lov nr. 369 af 9. april 2019 (Gennemførelse af ændringer i aktionærrettighedsdirektivet om tilskyndelse til langsigtet aktivt ejerskab) indeholder følgende ikrafttrædelsesbestemmelser:
 
@@ -176,15 +96,15 @@ Stk. 9. Et iværksætterselskab kan ikke træffe beslutning om at udlodde udbytt
 
 § 5
 
-Stk. 1. Generalforsamlingen i et iværksætterselskab, som ikke er under konkurs eller tvangsopløsning, skal senest 2 år efter denne lovs ikrafttræden med det stemmeflertal, der kræves til vedtægtsændring, beslutte, at iværksætterselskabet skal omregistrere sig til et anpartsselskab. Det er en betingelse for omregistreringen, at der udarbejdes en erklæring af en vurderingsmand, jf. selskabslovens § 37, om, at kapitalen er til stede. Der er ikke krav om en erklæring af en vurderingsmand, jf. 2. pkt., hvis iværksætterselskabets seneste reviderede årsregnskab udviser en selskabskapital og reserver, som kan overføres til selskabskapitalen, på samlet minimum 40.000 kr. og er forsynet med en revisorerklæring uden modifikationer, årsregnskabets balancedag ikke ligger tidligere end 5 måneder forud for beslutningen om vedtægtsændring, jf. 1. pkt., og det centrale ledelsesorgan offentliggør en erklæring om, at selskabskapitalen er til stede på beslutningstidspunktet. Det reviderede årsregnskab skal være godkendt på selskabets ordinære generalforsamling forud for generalforsamlingens beslutning om vedtægtsændring, jf. 1. pkt. Ledelseserklæringen skal offentliggøres i Erhvervsstyrelsens it-system, senest samtidig med at omregistreringen registreres eller anmeldes til registrering.
+Stk. 1. Generalforsamlingen i et iværksætterselskab, som ikke er under likvidation, konkurs eller tvangsopløsning, skal senest den 15. oktober 2021 med det stemmeflertal, der kræves til vedtægtsændring, beslutte, at iværksætterselskabet skal omregistreres til et anpartsselskab. Det er en betingelse for omregistreringen, at der foretages indbetaling af restkapitalen, der er differencen mellem iværksætterselskabets registrerede selskabskapital og minimumskravet til anpartsselskabers selskabskapital. Indbetaling af restkapitalen skal ske efter reglerne om kapitalforhøjelser i selskabslovens kapitel 10.
 
-Stk. 2. Opfylder et iværksætterselskab ikke kravet om omregistrering i stk. 1, 1. pkt., kan Erhvervsstyrelsen fastsætte en frist, inden for hvilken iværksætterselskabet skal opfylde kravet om omregistrering. Opfylder iværksætterselskabet ikke dette krav senest ved udløbet af den af styrelsen fastsatte frist, kan styrelsen anmode skifteretten om at opløse selskabet, jf. selskabslovens § 225.
+Stk. 2. Opfylder et iværksætterselskab ikke kravet om omregistrering i stk. 1, 1. pkt., kan Erhvervsstyrelsen fastsætte en frist, inden for hvilken selskabet skal opfylde kravet om omregistrering. Opfylder iværksætterselskabet ikke dette krav senest ved udløbet af den af styrelsen fastsatte frist, kan styrelsen anmode skifteretten om at opløse selskabet, jf. selskabslovens § 225.
 
-Stk. 3. Er et iværksætterselskab oversendt til tvangsopløsning, er genoptagelse af selskabet betinget af, at de forhold, der begrundede iværksætterselskabets oversendelse til tvangsopløsning, er berigtiget, og at betingelserne i selskabslovens § 232 er opfyldt. Det er ligeledes en betingelse for genoptagelse af selskabet, at generalforsamlingen senest samtidig med beslutningen om genoptagelse, jf. selskabslovens § 231, stk. 1, med det stemmeflertal, der kræves til vedtægtsændring, beslutter, at iværksætterselskabet skal omregistrere sig til et anpartsselskab. Det er en betingelse for omregistreringen, at der udarbejdes en erklæring af en vurderingsmand, jf. selskabslovens § 37, om, at kapitalen er til stede. Der er ikke krav om en erklæring af en vurderingsmand, jf. 3. pkt., hvis iværksætterselskabets seneste reviderede årsregnskab udviser en selskabskapital og reserver, som kan overføres til selskabskapitalen, på samlet minimum 40.000 kr. og er forsynet med en revisorerklæring uden modifikationer, årsregnskabets balancedag ikke ligger tidligere end 5 måneder forud for beslutningen om vedtægtsændring, jf. 2. pkt., og det centrale ledelsesorgan offentliggør en erklæring om, at selskabskapitalen er til stede på beslutningstidspunktet. Det reviderede årsregnskab skal være godkendt på selskabets ordinære generalforsamling forud for generalforsamlingens beslutning om vedtægtsændring, jf. 2. pkt. Ledelseserklæringen skal offentliggøres i Erhvervsstyrelsens it-system, senest samtidig med at omregistreringen registreres eller anmeldes til registrering. Omregistreringen skal registreres i Erhvervsstyrelsens it-system senest samtidig med anmeldelsen om genoptagelse, jf. selskabslovens § 232, stk. 1.
+Stk. 3. Er et iværksætterselskab oversendt til tvangsopløsning, er genoptagelse af selskabet betinget af, at de forhold, der begrundede iværksætterselskabets oversendelse til tvangsopløsning, er berigtiget, og at betingelserne i selskabslovens § 232 er opfyldt. Det er ligeledes en betingelse for genoptagelse af selskabet, at generalforsamlingen senest samtidig med beslutningen om genoptagelse, jf. selskabslovens § 231, stk. 1, med det stemmeflertal, der kræves til vedtægtsændring, beslutter, at iværksætterselskabet skal omregistreres til et anpartsselskab, jf. stk. 1, 1. pkt. Omregistreringen skal anmeldes til Erhvervsstyrelsen senest samtidig med anmeldelsen om genoptagelse, jf. selskabslovens § 232, stk. 1.
 
-Stk. 4. Et iværksætterselskabs omregistrering til anpartsselskab, jf. stk. 1, 1. pkt., og stk. 3, 2. pkt., anses for sket, når selskabets vedtægter, hvad angår kapital og selskabsbetegnelse, er ændret, således at de opfylder de sædvanlige krav til anpartsselskaber i selskabsloven, og omregistreringen er registreret i Erhvervsstyrelsens it-system. Som led i omregistreringen skal reserven til opbygning af selskabets kapitalgrundlag overføres til selskabskapitalen ved en fondsforhøjelse.
+Stk. 4. Et iværksætterselskabs omregistrering til anpartsselskab, jf. stk. 1, 1. pkt., og stk. 3, 2. pkt., anses for sket, når selskabets vedtægter, hvad angår selskabsbetegnelse og kapitalens størrelse, er ændret, således at vedtægterne opfylder de sædvanlige krav til anpartsselskaber i selskabsloven, og omregistreringen er registreret i Erhvervsstyrelsens it-system. Som led i omregistreringen skal reserven til opbygning af selskabets kapitalgrundlag overføres til selskabskapitalen ved en fondsforhøjelse.
 
-Stk. 5. Omregistrering af et iværksætterselskab til et anpartsselskab, jf. stk. 1, 1. pkt., og stk. 3, 2. pkt., i Erhvervsstyrelsens it-system er gebyrfri for selskabet. Gebyret for anmeldelse af genoptagelse af et iværksætterselskab, jf. stk. 3, udgør 350,00 kr. Gebyret for iværksætterselskabers anmeldelse af øvrige ændringer i Erhvervsstyrelsens it-system udgør 180,00 kr. Gebyret for iværksætterselskabers anmeldelse af øvrige ændringer, som ikke sker ved anmeldelse i Erhvervsstyrelsens it-system, udgør 340,00 kr.
+Stk. 5. Omregistrering af et iværksætterselskab til et anpartsselskab, jf. stk. 1, 1. pkt., og stk. 3, 2. pkt., i Erhvervsstyrelsens it-system er gebyrfrit for selskabet. Gebyret for anmeldelse af genoptagelse af et iværksætterselskab, jf. stk. 3, udgør 350,00 kr. Gebyret for iværksætterselskabers anmeldelse af øvrige ændringer i Erhvervsstyrelsens it-system udgør 180,00 kr. Gebyret for iværksætterselskabers anmeldelse af øvrige ændringer, som ikke sker ved anmeldelse i Erhvervsstyrelsens it-system, udgør 340,00 kr.
 
 § 6
 
@@ -219,3 +139,65 @@ Stk. 1. Loven gælder ikke for Færøerne og Grønland, men kan ved kongelig ano
 Stk. 2. §§ 1-3, 8 og 12 kan ikke sættes i kraft for Færøerne.
 
 Stk. 3. (Udelades)
+
+Lov nr. 1374 af 13. december 2019 (Direkte debitering, håndtering af erstatningskrav i henhold til en byggeskadeforsikring tegnet i Qudos Insurance A/S, whistleblowerordning for virksomheder med begrænset tilladelse, revisors meddelelsespligt til Finanstilsynet og ændring af procedure ved indløsning af minoritetsaktionærer m.v.) indeholder følgende ikrafttrædelsesbestemmelser:
+
+§ 19
+
+Stk. 1. Loven træder i kraft den 1. januar 2020, jf. dog stk. 2-4.
+
+Stk. 2-4. (Udelades)
+
+Stk. 5. Selskabslovens § 72, stk. 1, 2. pkt., og § 72, stk. 2, som affattet ved denne lovs § 13, nr. 1 og 2, gælder ikke for minoritetskapitalejerne i kapitalselskaber, der har modtaget opfordringen til at overdrage deres kapitalandele til den indløsende kapitalejer, jf. selskabslovens § 70, stk. 1, før denne lovs ikrafttræden.
+
+Stk. 6 og 7. (Udelades)
+
+§ 20
+
+Stk. 1. Loven gælder ikke for Færøerne og Grønland, jf. dog stk. 2 og 3.
+
+Stk. 2. (Udelades)
+
+Stk. 3. §§ 1-8, 12, 13 og 18 kan ved kongelig anordning helt eller delvis sættes i kraft for Grønland med de ændringer, som de grønlandske forhold tilsiger.
+
+Lov nr. 642 af 19. maj 2020 (Kontrolpakken) indeholder følgende ikrafttrædelsesbestemmelser:
+
+§ 7
+
+Stk. 1. Loven træder i kraft den 1. juli 2020, jf. dog stk. 2 og 3.
+
+Stk. 2. § 2, nr. 1-11 og 13-18, og § 3 træder i kraft den 1. januar 2021.
+
+Stk. 3 og 4. (Udelades)
+
+Stk. 5. §§ 17-19 i selskabsloven som affattet ved denne lovs § 2, nr. 7, og §§ 15 c-15 e i lov om visse erhvervsdrivende virksomheder som affattet ved denne lovs § 3, nr. 10, har virkning for dokumenter, der udarbejdes i regnskabsår, der begynder den 1. januar 2021 eller senere.
+
+Stk. 6-8. (Udelades)
+
+Stk. 9. Regler fastsat i medfør af selskabslovens § 18, stk. 3, jf. lovbekendtgørelse nr. 763 af 23. juli 2019, forbliver i kraft, indtil de ophæves eller afløses af forskrifter udstedt i medfør af selskabslovens § 16, stk. 5, jf. denne lovs § 2, nr. 7.
+
+Stk. 10 og 11. (Udelades)
+
+§ 8
+
+Stk. 1. Loven gælder ikke for Færøerne og Grønland, jf. dog stk. 2 og 3.
+
+Stk. 2. (Udelades)
+
+Stk. 3. §§ 1-5 kan ved kongelig anordning helt eller delvis sættes i kraft for Grønland med de ændringer, som de grønlandske forhold tilsiger.
+
+Lov nr. 2199 af 29. december 2020 (Lempeligere krav til omregistrering af iværksætterselskaber til anpartsselskaber og bemyndigelse til midlertidig fravigelse af bestemmelser om fysisk fremmøde ved generalforsamling i virksomheders vedtægter eller tilsvarende aftaler i forbindelse med covid-19 m.v.) indeholder følgende ikrafttrædelsesbestemmelser:
+
+§ 4
+
+Stk. 1. Loven træder i kraft den 1. januar 2021, jf. dog stk. 2.
+
+Stk. 2. Erhvervsministeren fastsætter tidspunktet for ikrafttrædelsen af § 2.
+
+§ 5
+
+Stk. 1. Loven gælder ikke for Færøerne og Grønland, jf. dog stk. 2 og 3.
+
+Stk. 2. Loven kan ved kongelig anordning helt eller delvis sættes i kraft for Grønland med de ændringer, som de grønlandske forhold tilsiger.
+
+Stk. 3. § 1, stk. 1, nr. 2, og stk. 2, i lov om bemyndigelse til midlertidig fravigelse af virksomheders pligter på selskabs- og regnskabsområdet i forbindelse med covid-19 som affattet ved denne lovs § 3, nr. 2, kan ved kongelig anordning helt eller delvis sættes i kraft for Færøerne med de ændringer, som de færøske forhold tilsiger.

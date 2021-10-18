@@ -1,7 +1,3 @@
 Bekendtgørelse af lov om aktie- og anpartsselskaber (selskabsloven)
 
-Herved bekendtgøres lov om aktie- og anpartsselskaber (selskabsloven), jf. lovbekendtgørelse nr. 1089 af 14. september 2015, med de ændringer, der følger af § 1 i lov nr. 262 af 16. marts 2016, § 2 i lov nr. 631 af 8. juni 2016, § 1 i lov nr. 1547 af 13. december 2016, § 10 i lov nr. 665 af 8. juni 2017, § 2 i lov nr. 1665 af 26. december 2017, lov nr. 675 af 29. maj 2018, § 1 i lov nr. 676 af 29. maj 2018, § 14 i lov nr. 503 af 23. maj 2018, § 1 i lov nr. 369 af 9. april 2019, § 1 i lov nr. 445 af 13. april 2019 og § 1 i lov nr. 554 af 7. maj 2019.
-
-Den bekendtgjorte lovtekst vedrørende fodnoten til lovens titel, § 18, stk. 2, 1. pkt. og stk. 4, § 58 a, § 58 c, § 367, stk. 1, 1. pkt. og stk. 4, træder i kraft den 10. januar 2020, jf. § 13, stk. 1, i lov nr. 554 af 7. maj 2019 om ændring af selskabsloven, lov om visse erhvervsdrivende virksomheder, lov om erhvervsdrivende fonde og forskellige andre love (Ændring af reglerne om reelle ejere som følge af 5. hvidvaskdirektiv).
-
-Den bekendtgjorte lovtekst vedrørende § 49 a og § 104, stk. 4 og 5, træder i kraft den 3. september 2020, jf. § 9, stk. 2, i lov nr. 369 af 9. april 2019 om ændring af selskabsloven, lov om kapitalmarkeder, lov om finansiel virksomhed og forskellige andre love (Gennemførelse af ændringer i aktionærrettighedsdirektivet om tilskyndelse til langsigtet aktivt ejerskab).
+Herved bekendtgøres lov om aktie- og anpartsselskaber (selskabsloven), jf. lovbekendtgørelse nr. 763 af 23. juli 2019, med de ændringer, der følger af § 13 i lov nr. 1374 af 13. december 2019, § 2 i lov nr. 642 af 19. maj 2020 og § 1 i lov nr. 2199 af 29. december 2020.
