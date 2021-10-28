@@ -54,6 +54,22 @@ Stk. 4. Erstatter afgørelsen i en verserende sag om tilladelse til kystbeskytte
 
 Lov nr. 646 af 19. maj 2020 (Mulighed for at afskære klageadgang i kommunale fællesprojekter om kystbeskyttelse) indeholder følgende ikrafttrædelsesbestemmelse:
 
-§ 12
+§ 4
 
 Loven træder i kraft den 22. maj 2020.
+
+Lov nr. 2192 af 29. december 2020 (Implementering af VVM-direktivet) indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 3
+
+Loven træder i kraft den 1. januar 2021.
+
+Lov nr. 2213 af 29. december 2020 (Ændring af myndighedskompetencen for havbrug) indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 2
+
+Loven træder i kraft den 1. januar 2021.
+
+§ 3
+
+(Udelades)
