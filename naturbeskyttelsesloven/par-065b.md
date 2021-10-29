@@ -1,8 +1,8 @@
-§ 65 b. Miljø- og fødevareministeren kan i særlige tilfælde gøre undtagelse fra bestemmelserne i § 8, stk. 1, § 11, stk. 3, og § 15, stk. 1.
+§ 65 b. Miljøministeren kan i særlige tilfælde gøre undtagelse fra bestemmelserne i § 8, stk. 1, § 11, stk. 3, og § 15, stk. 1.
 
-Stk. 2. Miljø- og fødevareministeren kan gøre undtagelse fra bestemmelserne i § 8, stk. 1, og § 15, stk. 1, når det er nødvendigt for at realisere en lokalplan om udbygning med vindmøller i overensstemmelse med kommuneplanlægningen.
+Stk. 2. Miljøministeren kan gøre undtagelse fra bestemmelserne i § 8, stk. 1, og § 15, stk. 1, når det er nødvendigt for at realisere en lokalplan om udbygning med vindmøller i overensstemmelse med kommuneplanlægningen.
 
-Stk. 3. Miljø- og fødevareministeren kan uanset stk. 1 gøre undtagelse fra § 15, stk. 1, til
+Stk. 3. Miljøministeren kan uanset stk. 1 gøre undtagelse fra § 15, stk. 1, til
 
 1) mindre bygninger, anlæg og installationer i haver som nævnt i § 15 a, stk. 3 og 4, men som placeres uden tilknytning til beboelsen, og andre mindre anlæg og installationer, som f.eks. drivhuse på op til 10 m2 og hævede terrasser,
 
@@ -26,12 +26,12 @@ Stk. 3. Miljø- og fødevareministeren kan uanset stk. 1 gøre undtagelse fra §
 
 11) en mindre udvendig kældertrappe og mindre lysskakter i forbindelse med kælderen under en helårsbolig.
 
-Stk. 4. Ved afgørelser efter stk. 1 om erhvervsmæssig tilplantning med bærbuske eller frugttræer inden for den udvidede strandbeskyttelseslinje gør miljø- og fødevareministeren undtagelse fra § 15, stk. 1, selv om der ikke er tale om særlige tilfælde, medmindre tilplantningen strider mod tungtvejende kystlandskabelige hensyn.
+Stk. 4. Ved afgørelser efter stk. 1 om erhvervsmæssig tilplantning med bærbuske eller frugttræer inden for den udvidede strandbeskyttelseslinje gør miljøministeren undtagelse fra § 15, stk. 1, selv om der ikke er tale om særlige tilfælde, medmindre tilplantningen strider mod tungtvejende kystlandskabelige hensyn.
 
-Stk. 5. Miljø- og fødevareministeren kan gøre undtagelse fra § 15, stk. 1, til placering af mindre faciliteter langs stranden for klubber, foreninger og institutioner som f.eks. omklædningsfaciliteter, skure til opbevaring af udstyr, bålhytter, sheltere og lign., på betingelse af at de nævnte faciliteter opføres i tilknytning til eksisterende anlæg som for eksempel en parkeringsplads eller vejnedkørsel, og at arealet er omfattet af en lokalplan, der giver mulighed for opførelse af et nærmere bestemt antal bygninger og anlæg.
+Stk. 5. Miljøministeren kan gøre undtagelse fra § 15, stk. 1, til placering af mindre faciliteter langs stranden for klubber, foreninger og institutioner som f.eks. omklædningsfaciliteter, skure til opbevaring af udstyr, bålhytter, sheltere og lign., på betingelse af at de nævnte faciliteter opføres i tilknytning til eksisterende anlæg som for eksempel en parkeringsplads eller vejnedkørsel, og at arealet er omfattet af en lokalplan, der giver mulighed for opførelse af et nærmere bestemt antal bygninger og anlæg.
 
 Stk. 6. Bestemmelserne i stk. 3, nr. 8, og stk. 5 gælder også for arealer omfattet af § 8, stk. 1, hvis anlægget placeres på stranden uden for arealer med klitdannelser.
 
-Stk. 7. Miljø- og fødevareministeren kan i afgørelser efter stk. 5 og 6 fastsætte vilkår om, at mindre faciliteter, der ikke har været benyttet i 3 år eller mere, skal fjernes eller overgå til andre brugere. Ministeren kan endvidere fastsætte vilkår om, at sådanne faciliteter skal stilles til rådighed for offentligheden, i det omfang dette er muligt og ejeren af bygningen er indforstået hermed.
+Stk. 7. Miljøministeren kan i afgørelser efter stk. 5 og 6 fastsætte vilkår om, at mindre faciliteter, der ikke har været benyttet i 3 år eller mere, skal fjernes eller overgå til andre brugere. Ministeren kan endvidere fastsætte vilkår om, at sådanne faciliteter skal stilles til rådighed for offentligheden, i det omfang dette er muligt og ejeren af bygningen er indforstået hermed.
 
-Stk. 8. De nærmere regler om de i stk. 3, nr. 8, nævnte faciliteter fastsættes af miljø- og fødevareministeren.
+Stk. 8. De nærmere regler om de i stk. 3, nr. 8, nævnte faciliteter fastsættes af miljøministeren.

@@ -2,4 +2,4 @@
 
 Stk. 2. Såfremt kommunalbestyrelsen indgår aftaler eller træffer afgørelser som nævnt i stk. 1 uden tilsagn fra staten om tilskud, afholdes udgifterne af kommunalbestyrelsen.
 
-Stk. 3. Miljø- og fødevareministeren kan fastsætte nærmere regler om og retningslinjer for behandling af sager om tilskud.
+Stk. 3. Miljøministeren kan fastsætte nærmere regler om og retningslinjer for behandling af sager om tilskud.

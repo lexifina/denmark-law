@@ -200,7 +200,7 @@ Stk. 6. (Udelades)
 
 Stk. 7. Miljøministeren kan i øvrigt fastsætte overgangsregler.
 
-Lov nr. 553 af 1. juni 2011 (»Grøn vækst«) som indeholder følgende ikrafttrædelsesbestemmelse:
+Lov nr. 553 af 1. juni 2011 (»Grøn vækst«) indeholder følgende ikrafttrædelsesbestemmelse:
 
 § 8
 
@@ -208,7 +208,7 @@ Stk. 1. Loven træder i kraft den 15. juli 2011.
 
 Stk. 2. (Udelades)
 
-Lov nr. 591 af 14. juni 2011 om lov om randzoner indeholder følgende ikrafttrædelsesbestemmelse:
+Lov nr. 591 af 14. juni 2011 om randzoner indeholder følgende ikrafttrædelsesbestemmelse:
 
 § 11. Ministeren for fødevarer, landbrug og fiskeri fastsætter tidspunktet for lovens ikrafttræden.
 
@@ -296,7 +296,9 @@ Lov nr. 179 af 24. februar 2015 (Opfølgning på dele af Naturplan Danmark om et
 
 Stk. 1. Loven træder i kraft den 1. marts 2015, jf. dog stk. 2 og 3.
 
-Stk. 2-4. (Udelades)
+Stk. 2. § 2, nr. 2-6, træder i kraft den 1. september 2017.
+
+Stk. 3 og 4. (Udelades)
 
 Lov nr. 1715 af 27. december 2016 om Miljø- og Fødevareklagenævnet indeholder følgende ikrafttrædelses- og overgangsbestemmelse:
 
@@ -306,7 +308,7 @@ Stk. 2. (Udelades)
 
 Stk. 3. Erhvervs- og vækstministeren kan efter høring af miljø- og fødevareministeren fastsætte overgangsregler.
 
-Stk. 4 (Udelades)
+Stk. 4. (Udelades)
 
 Stk. 5. Regler, der er fastsat i henhold til hidtil gældende regler, forbliver i kraft, indtil de ophæves eller afløses af regler fastsat med hjemmel i denne lov. Overtrædelse af reglerne straffes efter de hidtil gældende regler.
 
@@ -386,25 +388,25 @@ Stk. 4. (Udelades)
 
 § 25. Loven finder ikke anvendelse på ansøgninger indgivet i henhold til lov om erhvervsfremme og regional udvikling før lovens ikrafttræden. For sådanne ansøgninger finder de hidtil gældende regler anvendelse.
 
-Stk. 2 Tilladelser, godkendelser, akkrediteringer og bemyndigelser, som er meddelt i henhold til lov om erhvervsfremme og regional udvikling, jf. lovbekendtgørelse nr. 820 af 28. juni 2016, forbliver i kraft, indtil de udløber eller ophæves i medfør af denne lov.
+Stk. 2. Tilladelser, godkendelser, akkrediteringer og bemyndigelser, som er meddelt i henhold til lov om erhvervsfremme og regional udvikling, jf. lovbekendtgørelse nr. 820 af 28. juni 2016, forbliver i kraft, indtil de udløber eller ophæves i medfør af denne lov.
 
-Stk. 3 (Udelades)
+Stk. 3. (Udelades)
 
 § 26. Indsatser, der er iværksat af erhvervsministeren inden denne lovs ikrafttræden, fortsætter efter gældende vilkår.
 
 § 27. Igangværende projekter, der er igangsat efter indstilling fra de regionale vækstfora, løber indtil afslutningen af de pågældende projekter.
 
-Stk. 2 Erhvervsministeren kan efter aftale med regionerne bestemme, at igangværende projekter efter stk. 1 overflyttes til Erhvervsstyrelsen.
+Stk. 2. Erhvervsministeren kan efter aftale med regionerne bestemme, at igangværende projekter efter stk. 1 overflyttes til Erhvervsstyrelsen.
 
-Stk. 3 For så vidt angår projekter, der overdrages til Erhvervsstyrelsen efter stk. 2, forpligtes regionerne til at friholde staten for enhver udgift, der følger af ufinansierede garantier eller løfter udstedt af regionerne, krav om tilbagebetalinger eller erstatninger el.lign., der pålægges staten som følge af overtrædelse af lovgivning eller manglende opfyldelse af vilkår i tilsagn.
+Stk. 3. For så vidt angår projekter, der overdrages til Erhvervsstyrelsen efter stk. 2, forpligtes regionerne til at friholde staten for enhver udgift, der følger af ufinansierede garantier eller løfter udstedt af regionerne, krav om tilbagebetalinger eller erstatninger el.lign., der pålægges staten som følge af overtrædelse af lovgivning eller manglende opfyldelse af vilkår i tilsagn.
 
-Stk. 4 For så vidt angår projekter, der alene har modtaget en skriftlig, politisk hensigtserklæring, resultatkontrakt el.lign. om juridisk bindende tilsagn om regionalt tilskud eller garantier ud over 2018, kan erhvervsministeren beslutte at fortsætte disse helt eller delvis i en tidsbegrænset periode, hvis det vurderes nødvendigt for at sikre en hensigtsmæssig overgang for projekterne.
+Stk. 4. For så vidt angår projekter, der alene har modtaget en skriftlig, politisk hensigtserklæring, resultatkontrakt el.lign. om juridisk bindende tilsagn om regionalt tilskud eller garantier ud over 2018, kan erhvervsministeren beslutte at fortsætte disse helt eller delvis i en tidsbegrænset periode, hvis det vurderes nødvendigt for at sikre en hensigtsmæssig overgang for projekterne.
 
-Stk. 5 Erhvervsministeren overtager fra den 1. januar 2019 regionernes og vækstforas opgaver i projekter, hvor vækstfora har afgivet indstilling om anvendelse af regionalfonds- og socialfondsmidler inden udgangen af 2018, men hvor der ikke er afgivet tilsagn inden udgangen af 2018.
+Stk. 5. Erhvervsministeren overtager fra den 1. januar 2019 regionernes og vækstforas opgaver i projekter, hvor vækstfora har afgivet indstilling om anvendelse af regionalfonds- og socialfondsmidler inden udgangen af 2018, men hvor der ikke er afgivet tilsagn inden udgangen af 2018.
 
 § 28. Uanset § 9, stk. 1, nr. 1, og § 12, stk. 2, nr. 4, kan erhvervsministeren udarbejde en midlertidig strategi for den decentrale erhvervsfremmeindsats for 2019, der tager udgangspunkt i eksisterende regionale og nationale strategier.
 
-Stk. 2 Uanset § 9, stk. 5, kan der indtil den 31. december 2020 ansøges om finansiering af klynger og innovationsnetværk hos Danmarks Erhvervsfremmebestyrelse i overensstemmelse med § 9, stk. 4.
+Stk. 2. Uanset § 9, stk. 5, kan der indtil den 31. december 2020 ansøges om finansiering af klynger og innovationsnetværk hos Danmarks Erhvervsfremmebestyrelse i overensstemmelse med § 9, stk. 4.
 
 Lov nr. 169 af 27. februar 2019 (Kommunal adgang til at begrænse sejlads med visse hurtigtsejledende fartøjer ved udlagte badeområder) indeholder følgende ikrafttrædelsesbestemmelse:
 
@@ -417,3 +419,35 @@ Lov nr. 171 af 27. februar 2019 (Strafskærpelse for visse overtrædelser af CIT
 § 2
 
 Loven træder i kraft den 1. marts 2019.
+
+Lov nr. 135 af 25. februar 2020 (Boliger på arealer belastet af lugt og realisering af forsøgsprojekter) indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 3
+
+Loven træder i kraft den 1. april 2020.
+
+Lov nr. 1057 af 30. juni 2020 (Forbud mod sprøjtning, gødskning og omlægning af § 3-beskyttede arealer) indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 2
+
+Stk. 1. Loven træder i kraft den 1. juli 2022, jf. dog stk. 2.
+
+Stk. 2. § 1, nr. 1, træder i kraft ved bekendtgørelsen i Lovtidende.
+
+Stk. 3. For arealer, der er omfattet af tilsagn om økologisk arealtilskud, finder § 4, stk. 1, nr. 1, som affattet ved denne lovs § 1, nr. 2, anvendelse fra den 1. september 2022.
+
+Lov nr. 126 af 30. januar 2021 (Ændring af handlepligten for den ansvarlige for en miljøskade, indførelse af godtgørelsesordning samt ændring af definitionen af arter og naturtyper) indeholder følgende overgangs- og ikrafttrædelsesbestemmelse:
+
+§ 15
+
+Stk. 1. Loven træder i kraft den 1. februar 2021.
+
+Stk. 2. Loven finder ikke anvendelse på miljøskader eller overhængende fare for en miljøskade, der er forvoldt ved en emission eller begivenhed, der finder sted før lovens ikrafttræden. For sådanne miljøskader eller overhængende fare herfor finder de hidtil gældende regler anvendelse.
+
+Lov nr. 1177 af 8. juni 2021 (Adgang til at etablere naturnationalparker og obligatorisk digital kommunikation mv.) indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 6
+
+Stk. 1. Loven træder i kraft den 1. juli 2021.
+
+Stk. 2. Reglerne i §§ 61 d og 61 e i lov om naturbeskyttelse som affattet ved denne lovs § 1, nr. 1, finder ikke anvendelse for ansøgning om tilladelse efter § 61 a i lov om naturbeskyttelse som affattet ved denne lovs § 1, nr. 1, til etablering af naturnationalparker ved Fussingø og i Gribskov.

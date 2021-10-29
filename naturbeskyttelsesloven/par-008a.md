@@ -12,6 +12,6 @@
 
 6) mindre vedligeholdelsesarbejder på bygninger, herunder udskiftning af vinduer og tage m.v., når bygningshøjden ikke derved forøges eller kun forøges i ubetydeligt omfang, og
 
-7) byggeri, der er erhvervsmæssigt nødvendigt for den pågældende ejendoms drift som landbrugs- eller skovbrugsejendom eller for udøvelsen af fiskerierhvervet, og som opføres i umiddelbar tilknytning til eksisterende bygninger, idet der dog kræves miljø- og fødevareministerens tilladelse, for så vidt angår de nævnte bygningers nærmere beliggenhed og ydre udformning.
+7) byggeri, der er erhvervsmæssigt nødvendigt for den pågældende ejendoms drift som landbrugs- eller skovbrugsejendom eller for udøvelsen af fiskerierhvervet, og som opføres i umiddelbar tilknytning til eksisterende bygninger, idet der dog kræves miljøministerens tilladelse, for så vidt angår de nævnte bygningers nærmere beliggenhed og ydre udformning.
 
 Stk. 2. Ved haver forstås bygningsnære arealer i forbindelse med boliger og tilsvarende bebyggelse til beboelse, der er undergivet en vis kultivering eller vedligeholdelse og ikke længere dyrkes eller anvendes landbrugsmæssigt.
