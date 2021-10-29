@@ -8,4 +8,4 @@ Stk. 4. Aktiviteten kan iværksættes, hvis kommunalbestyrelsen ikke senest 4 ug
 
 Stk. 5. Hvis aktiviteten ikke er iværksat senest 3 år efter meddelelsen, skal der gives ny meddelelse efter stk. 1, hvis den herefter ønskes iværksat.
 
-Stk. 6. Miljø- og fødevareministeren kan fastsætte nærmere regler om kommunalbestyrelsens vurderinger af meddelelser efter stk. 1.
+Stk. 6. Miljøministeren kan fastsætte nærmere regler om kommunalbestyrelsens vurderinger af meddelelser efter stk. 1.

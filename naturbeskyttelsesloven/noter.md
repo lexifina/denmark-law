@@ -1,4 +1,4 @@
-1) Loven indeholder bestemmelser, der gennemfører dele af Rådets direktiv 92/43/EØF af 21. maj 1992 om bevaring af naturtyper samt vilde dyr og planter, EF-Tidende 1992, nr. L 206, side 7, som ændret senest ved Rådets direktiv 2013/17/EU af 13. maj 2013 om tilpasning af visse direktiver vedrørende miljø på grund af Republikken Kroatiens tiltrædelse, EU-Tidende 2013, nr. L 158, side 193, dele af Europa-Parlamentets og Rådets direktiv 2004/35/EF af 21. april 2004 om miljøansvar for så vidt angår forebyggelse og afhjælpning af miljøskader, EU-Tidende 2004, nr. L 143, side 56, som ændret senest ved Europa-Parlamentets og Rådets direktiv 2013/30/EU af 12. juni 2013, EU-Tidende 2013, nr. 178, side 66 og dele af Europa-Parlamentets og Rådets direktiv 2009/147/EF af 30. november 2009 om beskyttelse af vilde fugle, EU-Tidende 2009, nr. L 20, side 7, som ændret senest ved Rådets direktiv 2013/17/EU af 13. maj 2013 om tilpasning af visse direktiver vedrørende miljø på grund af Republikken Kroatiens tiltrædelse, EU-Tidende 2013, nr. L 158, side 193.
+1) Loven indeholder bestemmelser, der gennemfører dele af Rådets direktiv 92/43/EØF af 21. maj 1992 om bevaring af naturtyper samt vilde dyr og planter, EF-Tidende 1992, nr. L 206, side 7, som ændret senest ved Rådets direktiv 2013/17/EU af 13. maj 2013 om tilpasning af visse direktiver vedrørende miljø på grund af Republikken Kroatiens tiltrædelse, EU-Tidende 2013, nr. L 158, side 193, dele af Europa-Parlamentets og Rådets direktiv 2004/35/EF af 21. april 2004 om miljøansvar for så vidt angår forebyggelse og afhjælpning af miljøskader, EU-Tidende 2004, nr. L 143, side 56, som ændret senest ved Europa-Parlamentets og Rådets direktiv 2013/30/EU af 12. juni 2013, EU-Tidende 2013, nr. 178, side 66, og dele af Europa-Parlamentets og Rådets direktiv 2009/147/EF af 30. november 2009 om beskyttelse af vilde fugle, EU-Tidende 2010, nr. L 20, side 7, som ændret ved Rådets direktiv 2013/17/EU af 13. maj 2013 om tilpasning af visse direktiver vedrørende miljø på grund af Republikken Kroatiens tiltrædelse, EU-Tidende 2013, nr. L 158, side 193.
 
 2) Lovændringen ændrer § 30, stk. 1 og 2.
 
@@ -72,7 +72,7 @@
 
 37) Lovændringen indsætter § 43, stk. 6, ændrer § 87, stk. 2, indsætter § 87, stk. 5 og 6, og ændrer § 87, stk. 10.
 
-38) Bestemmelsen i § 2, nr. 2-6, i lov nr. 179 af 24. februar 2015 trådte i kraft den 28. januar 2015, jf. bekendtgørelse nr. 57 af 23. januar 2015 om ikrafttræden af lov om ændring af lov om Natur- og Miljøklagenævnet og forskellige andre love (obligatorisk digital selvbetjening ved indgivelse af klage samt obligatorisk videresendelse af klage over lokalplan til Natur- og Miljøklagenævnet m.v.).
+38) §§ 1-6, § 7, nr. 2 og 3, §§ 8-14 og §§ 16-25 i lov nr. 86 af 28. januar 2014 trådte i kraft den 28. januar 2015, jf. bekendtgørelse nr. 57 af 23. januar 2015 om ikrafttræden af lov om ændring af lov om Natur- og Miljøklagenævnet og forskellige andre love (obligatorisk digital selvbetjening ved indgivelse af klage samt obligatorisk videresendelse af klage over lokalplan til Natur- og Miljøklagenævnet m.v.).
 
 39) Lovændringen ændrer § 55 a.
 
@@ -101,3 +101,13 @@
 51) Lovændringen vedrører § 29, stk. 3-6, og § 89, stk. 3, 1. og 3. pkt.
 
 52) Lovændringen vedrører § 89, stk. 3, 4. pkt.
+
+53) Lovændringen vedrører § 65 a, stk. 3.
+
+54) Lovændringen vedrører fodnoten til lovens titel, § 4, § 59 a, § 65, stk. 2, § 71, stk. 4 og § 89, stk. 1.
+
+55) Loven er bekendtgjort i Lovtidende den 30. juni 2020.
+
+56) Lovændringen vedrører overskriften til kapitel 11 a.
+
+57) Lovændringen vedrører kapitel 8 a, § 70 a, § 71, stk. 4, nr. 1, § 72, stk. 2, § 73, stk. 2, og § 78, stk. 4, 2. pkt.

@@ -1,1 +1,1 @@
-§ 30 a. Miljø- og fødevareministeren fastsætter, i det omfang det er nødvendigt for at opfylde Danmarks EU-retlige forpligtelser, regler om tjenesteyderes forpligtelse til at give oplysninger til tjenestemodtagere.
+§ 30 a. Miljøministeren fastsætter, i det omfang det er nødvendigt for at opfylde Danmarks EU-retlige forpligtelser, regler om tjenesteyderes forpligtelse til at give oplysninger til tjenestemodtagere.
