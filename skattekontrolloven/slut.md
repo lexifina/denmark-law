@@ -1,7 +1,5 @@
-Givet på Christiansborg Slot, den 19. december 2017
+Skatteministeriet, den 27. oktober 2021
 
-Under Vor Kongelige Hånd og Segl
+P.M.V. Jens Brøchner
 
-MARGRETHE R.
-
-/ Karsten Lauritzen
+/ Per Hvas
