@@ -1,3 +1,3 @@
 Bekendtgørelse af lov om betalingskonti
 
-Herved bekendtgøres lov nr. 375 af 27. april 2016 om betalingskonti, med de ændringer, der følger af § 49 i lov nr. 426 af 3. maj 2017, § 156 i lov nr. 652 af 8. juni 2017, § 7 i lov nr. 1547 af 19. december 2017, § 8 i lov nr. 706 af 8. juni 2018 og § 8 i lov nr. 1520 af 18. december 2018.
+Herved bekendtgøres lov om betalingskonti, jf. lovbekendtgørelse nr. 1805 af 12. december 2018, med de ændringer, der følger af § 13 i lov nr. 1563 af 27. december 2019 og § 10 i lov nr. 1163 af 8. juni 2021.
