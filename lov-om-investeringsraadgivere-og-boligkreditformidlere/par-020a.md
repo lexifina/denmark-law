@@ -1,4 +1,6 @@
-§ 20 a. Videregiver en finansiel rådgiver, investeringsrådgiver eller boligkreditformidler oplysninger om virksomheden, og er oplysningerne kommet offentligheden til kendskab, kan Finanstilsynet påbyde virksomheden at offentliggøre berigtigende oplysninger inden for en af Finanstilsynet fastsat frist, hvis
+§ 20 a. Videregiver en finansiel rådgiver, investeringsrådgiver eller boligkreditformidler oplysninger om virksomheden, og er oplysningerne kommet offentligheden til kendskab, kan Finanstilsynet påbyde virksomheden at offentliggøre berigtigende oplysninger inden for en af Finanstilsynet
+
+fastsat frist, hvis
 
 1) oplysningerne efter Finanstilsynets vurdering er misvisende og
 

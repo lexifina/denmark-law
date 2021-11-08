@@ -22,14 +22,6 @@ Stk. 1. Loven træder i kraft den 1. januar 2017, jf. dog stk. 2 og 3.
 
 Stk. 2-8. (Udelades)
 
-Lov nr. 426 af 3. maj 2017 om markedsføring indeholder følgende ikrafttrædelses- og overgangsbestemmelse:
-
-§ 40
-
-Stk. 1. Loven træder i kraft den 1. juli 2017.
-
-Stk. 2-3. (Udelades)
-
 Lov nr. 665 af 8. juni 2017 (Gennemførelse af direktiv om markeder for finansielle instrumenter (MiFID II) og ændringer som følge af forordning om markeder for finansielle instrumenter (MiFIR) m.v.) indeholder følgende ikrafttrædelses- og overgangsbestemmelse:
 
 § 21
@@ -46,27 +38,13 @@ Stk. 5. (Udelades)
 
 Stk. 6. De bekendtgørelser og forskrifter, der er udstedt med hjemmel i bestemmelser i afsnit X a i lov om finansiel virksomhed, som ophæves ved denne lovs § 1, nr. 90, forbliver i kraft, indtil de ændres eller ophæves.
 
-Lov nr. 666 af 8. juni 2017 (Ændrede procedurer vedrørende nedskrivning og konvertering af kapitalinstrumenter m.m.) indeholder følgende ikrafttrædelsesbestemmelse:
-
-§ 6
-
-Loven træder i kraft den 1. juli 2017.
-
-Lov nr. 1547 af 19. december 2017 (Forhandlede retningslinjer på det finansielle område, sikring af vandrende arbejdstageres ret til at optjene og bevare pensionsrettigheder, gennemførelse af ændringer som følge af benchmarkforordningen og PRIIP-forordningen, udpegning af systemisk vigtige finansielle institutter (SIFI) m.v.) indeholder følgende overgangs- og ikrafttrædelsesbestemmelse:
-
-§ 15
-
-Stk. 1. Loven træder i kraft den 1. januar 2018, jf. dog stk. 2-4.
-
-Stk. 2-7. (Udelades)
-
-Lov nr. 706 af 8. juni 2018 (Styrket indsats mod hvidvask m.v. i den finansielle sektor, indførelse af nye former for alternative investeringsfonde, ændring af grænsen for prospektpligt m.v.) indeholder følgende overgangs- og ikrafttrædelsesbestemmelse:
+Lov nr. 706 af 8. juni 2018 (Styrket indsats mod hvidvask m.v. i den finansielle sektor, indførelse af nye former for alternative investeringsfonde, ændring af grænsen for prospektpligt m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
 
 § 24
 
 Stk. 1. Loven træder i kraft den 1. juli 2018, jf. dog stk. 2 og 3.
 
-Stk. 2-7. (Udelades)
+Stk. 2-6. (Udelades)
 
 Lov nr. 1520 af 18. december 2018 (Gennemførelse af anbefalingerne fra arbejdsgruppen for eftersyn af den finansielle regulering og ændring af reglerne for udpegning af SIFI’er i Danmark m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
 
@@ -100,6 +78,20 @@ Lov nr. 1563 af 27. december 2019 (Styrkelse af indsatsen mod finansiel kriminal
 
 § 18
 
-Stk. 1. Loven træder i kraft den 10. januar 2020.
+Stk.1. Loven træder i kraft den 10. januar 2020.
 
 Stk. 2-3. (Udelades)
+
+Lov nr. 1940 af 15. december 2020 (Gennemførelse af 2. betalingstjenestedirektiv, 4. og 5. hvidvaskdirektiv, ændringer til benchmarkforordningen og disclosureforordningen) indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 12
+
+Stk. 1. Loven træder i kraft den 1. januar 2021, jf. dog stk. 2-4.
+
+Stk. 2-4. (Udelades)
+
+Lov nr. 1155 af 8. juni 2021 om fondsmæglerselskaber og investeringsservice og –aktiviteter indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 288. Loven træder i kraft den 26. juni 2021.
+
+Stk. 2-4. (Udelades)
