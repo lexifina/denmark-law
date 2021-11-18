@@ -52,7 +52,7 @@ Lov nr. 706 af 8. juni 2018 (Styrket indsats mod hvidvask m.v. i den finansielle
 
 § 24
 
-Stk. 1. Loven træder i kraft den 1. juli 2018, jf. dog stk. 2 og 3.
+Stk 1. Loven træder i kraft den 1. juli 2018, jf. dog stk. 2 og 3.
 
 Stk. 2-6. (Udelades)
 
@@ -63,3 +63,21 @@ Lov nr. 552 af 7. maj 2019 (Gennemførelse af den politiske aftale om yderligere
 Stk. 1. Loven træder i kraft den 1. juli 2019.
 
 Stk. 2-5. (Udelades)
+
+Lov nr. 1374 af 13. december 2019 (Direkte debitering, håndtering af erstatningskrav i henhold til en byggeskadeforsikring tegnet i Qudos Insurance A/S, whistleblowerordning for virksomheder med begrænset tilladelse, revisors meddelelsespligt til Finanstilsynet og ændring af procedure ved indløsning af minoritetsaktionærer m.v.)
+
+§ 19
+
+Stk. 1. Loven træder i kraft den 1. januar 2020, jf. dog stk. 2-4.
+
+Stk. 2. § 12 træder i kraft dagen efter bekendtgørelsen i Lovtidende.
+
+Stk. 3-7. (Udelades)
+
+Lov nr. 1163 af 8. juni 2021 (Øget investorbeskyttelse ved grænseoverskridende markedsføring af investeringer og styrket tilsyn med aktører på det digitale marked for finansielle ydelser m.v.)
+
+§ 16
+
+Stk. 1. Loven træder i kraft den 1. juli 2021, jf. dog stk. 2 og 3.
+
+Stk. 2-9. (Udelades)
