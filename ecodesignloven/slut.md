@@ -1,5 +1,5 @@
-Energistyrelsen, den 1. november 2019
+Energistyrelsen, den 29. november 2021
 
-Stig Uffe Pedersen Vicedirektør
+Stine Leth Rasmussen
 
-/ Helle Agerdal Olsen
+/ Rasmus Tengvad

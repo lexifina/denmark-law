@@ -37,3 +37,17 @@ Lov nr. 1876 af 29. december 2015 (Skærpet håndhævelse af dokumentationskrav 
 Stk. 1. Loven træder i kraft den 1. januar 2016, jf. dog stk. 2.
 
 Stk. 2. (Udelades)
+
+Lov nr. 1176 af 8. juni 2021 (Tilpasning af kontrolbeføjelser m.v. i overensstemmelse med Europa-Parlamentets og Rådets forordning 1020/2019/EU af 20. juni 2019 om markedsovervågning og produktoverensstemmelse og om ændring af direktiv 2004/42/EF og forordning 765/2008/EF og 305/2011/EU m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 5
+
+Stk. 1. Loven træder i kraft den 1. juli 2021, jf. dog stk. 2.
+
+Stk. 2. § 1, nr. 13, 15, 20, 21, 26-29, 31, 32, 34 og 43, § 2, nr. 6, 7, 9-11, 13-15, 18 og 20, og § 3, nr. 2-6, 9-14, 16, 19-21, 24, 25, 29, 31-35, 37, 40-42, 45, 48-50, 52, 54, 55 og 58-66, træder i kraft den 16. juli 2021.
+
+Stk. 3. (Udelades)
+
+Stk. 4. Regler fastsat i medfør af § 3, § 7, stk. 3-5, § 13, stk. 4 og 6, og § 15, stk. 2, i lov om miljøvenligt design af energirelaterede produkter, jf. lovbekendtgørelse nr. 1093 af 1. november 2019, forbliver i kraft, indtil de ophæves eller erstattes af regler udstedt i medfør af § 3, § 7, stk. 4-6, § 13, stk. 3 og 5, og § 15, stk. 2, i lov om miljøvenligt design af energirelaterede produkter som affattet ved denne lovs § 1, nr. 12, 17, 39 og 43.
+
+Stk. 5-6. (Udelades)
