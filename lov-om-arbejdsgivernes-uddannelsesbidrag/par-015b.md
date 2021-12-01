@@ -3,7 +3,3 @@
 ## Godtgørelse ved deltagelse i erhvervsrettet voksen- og efteruddannelse m.v.
 
 § 15 b. Arbejdsgivernes Uddannelsesbidrag bidrager til finansiering af godtgørelse og befordringsudgifter i henhold til lov om godtgørelse og tilskud ved deltagelse i erhvervsrettet voksen- og efteruddannelse.
-
-Stk. 2. Bidraget efter § 18, stk. 2, tilpasses fremadrettet ved lov fra år til år efter aktiviteten med udgangspunkt i en prognose for det kommende års uddannelsesaktivitet og trækket på godtgørelse og befordringsudgifter i henhold til lov om godtgørelse og tilskud ved deltagelse i erhvervsrettet voksen- og efteruddannelse. Denne model indebærer, at arbejdsgivernes bidrag efter § 18, stk. 2, fremadrettet vil blive reguleret ved lov efter aktiviteten. Den fremadrettede regulering af bidraget efter § 18, stk. 2, indebærer, at arbejdsgiverne afholder udgiften til godtgørelse m.v. Overstiger de samlede regnskabsførte udgifter til godtgørelse m.v. prognosen, vil arbejdsgiverne ved lov blive opkrævet et højere bidrag det efterfølgende år igen. Hvis de samlede regnskabsførte udgifter til godtgørelse m.v. bliver lavere end prognosen, vil størrelsen på bidraget efter § 18, stk. 2, blive reduceret ved lov det efterfølgende år igen.
-
-Stk. 3. Såfremt aktiviteten på kurser, der udløser godtgørelse og befordringsudgifter i henhold til lov om godtgørelse og tilskud ved deltagelse i erhvervsrettet voksen- og efteruddannelse, overstiger et niveau på 7.700 årselever, mødes regeringen med arbejdsmarkedets parter for at drøfte, hvorvidt aktivitetsudviklingen skal reguleres.
