@@ -1,3 +1,5 @@
 § 58 c. Miljøministeren etablerer en ordning for fortrolig indberetning af miljøproblemer i forbindelse med platforme og tilsluttede rørledningssystemer beliggende inden for sikkerhedszonen, som anvendes i forbindelse med efterforskning, produktion eller transport af kulbrinter på dansk søterritorium og dansk kontinentalsokkelområde. Tilsynsmyndigheden må ikke oplyse over for arbejdsgiver eller andre, om tilsynsmyndigheden har modtaget en indberetning.
 
 Stk. 2. Den ansvarlige for driften af en platform og et tilsluttet rørledningssystem beliggende inden for sikkerhedszonen, som anvendes i forbindelse med efterforskning, produktion eller transport af kulbrinter på dansk søterritorium og dansk kontinentalsokkelområde, skal oplyse sine egne ansatte og entreprenører og disses ansatte om den adgang til fortrolig indberetning, der er nævnt i stk. 1, og sikre, at der findes en henvisning hertil i relevant uddannelses- eller informationsmateriale.
+
+Stk. 3. Lov om beskyttelse af whistleblowere finder anvendelse på ordningen efter stk. 1, jf. dog § 2 i lov om beskyttelse af whistleblowere.

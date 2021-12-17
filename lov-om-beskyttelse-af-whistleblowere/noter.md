@@ -1,0 +1,1 @@
+1) Loven indeholder bestemmelser, der gennemfører Europa-Parlamentets og Rådets direktiv 2019/1937/EU af 23. oktober 2019 om beskyttelse af personer, der indberetter overtrædelser af EU-retten, EU-Tidende 2019, nr. L 305, side 17.
