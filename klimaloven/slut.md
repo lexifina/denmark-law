@@ -1,7 +1,5 @@
-Givet på Marselisborg Slot, den 26. juni 2020
+Klima-, Energi- og Forsyningsministeriet, den 13. december 2021
 
-Under Vor Kongelige Hånd og Segl
+Dan Jørgensen
 
-MARGRETHE R.
-
-/ Dan Jørgensen
+/ Anders Hoffmann
