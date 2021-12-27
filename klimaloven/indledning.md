@@ -1,5 +1,3 @@
-Lov om klima
+Bekendtgørelse af lov om klima
 
-VI MARGRETHE DEN ANDEN, af Guds Nåde Danmarks Dronning, gør vitterligt:
-
-Folketinget har vedtaget og Vi ved Vort samtykke stadfæstet følgende lov:
+Herved bekendtgøres lov nr. 965 af 26. juni 2020 om klima med de ændringer, der følger af lov nr. 2387 af 14. december 2021.
