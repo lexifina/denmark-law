@@ -1,4 +1,4 @@
-§ 21 j. Til arbejdsgivere omfattet af § 2 yder Arbejdsgivernes Uddannelsesbidrag i overensstemmelse med stk. 2 og 3 og regler udstedt i medfør af § 21 f, stk. 3, et tilskud pr. praktikårselev, jf. § 21 h, stk. 2, med uddannelsesaftale inden for uddannelser, der er oprettet i medfør af lov om erhvervsuddannelser, og uddannelser, der er godkendt i medfør af § 21 f, stk. 4.
+§ 21 j. Til arbejdsgivere omfattet af § 2 yder Arbejdsgivernes Uddannelsesbidrag i overensstemmelse med stk. 2 og 3 og regler udstedt i medfør af § 21 f, stk. 3, et tilskud pr. praktikårselev, jf. § 21 h, stk. 2, med uddannelsesaftale inden for uddannelser, der er oprettet i medfør af lov om erhvervsuddannelser, og uddannelse, der er nævnt i § 21 f, stk. 4.
 
 Stk. 2. Det er en betingelse for retten til tilskud, at arbejdsgiveren opfylder sin måluddannelsesratio efter § 21 a.
 

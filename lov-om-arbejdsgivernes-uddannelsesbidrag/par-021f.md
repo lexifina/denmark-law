@@ -2,8 +2,6 @@
 
 Stk. 2. Sker indbetaling efter stk. 1 ikke rettidigt, kan Arbejdsgivernes Uddannelsesbidrag pålægge arbejdsgiveren fra forfaldsdatoen at betale renter af bidragene med den rentesats, der til enhver tid er fastsat i medfør af § 5 i renteloven.
 
-Stk. 3. Bestyrelsen for Arbejdsgivernes Uddannelsesbidrag kan fastsætte nærmere regler om opkrævning og udbetaling efter stk. 1 og 2, herunder i nødvendigt omfang praktiske og administrative betingelser i relation til uddannelser, som godkendes efter stk. 4, og om administration af de omfattede ordninger i øvrigt. Der kan endvidere fastsættes regler om udsættelse af mindre opkrævnings- og udbetalingsbeløb til senere efterregulering og om tilbagebetaling, modregning og afskæring.
+Stk. 3. Bestyrelsen for Arbejdsgivernes Uddannelsesbidrag kan fastsætte nærmere regler om opkrævning og udbetaling efter stk. 1 og 2, herunder i nødvendigt omfang praktiske og administrative betingelser i relation til uddannelse, der er nævnt i stk. 4, og om administration af de omfattede ordninger i øvrigt. Der kan endvidere fastsættes regler om udsættelse af mindre opkrævnings- og udbetalingsbeløb til senere efterregulering og om tilbagebetaling, modregning og afskæring.
 
-Stk. 4. Børne- og undervisningsministeren kan efter anmodning fra de relevante brancheorganisationer godkende, at uddannelsesaftaler inden for uddannelser sidestillet med erhvervsuddannelser og fuldførte uddannelser sidestillet med erhvervsuddannelser, jf. § 4, stk. 1, bortset fra farmakonomuddannelsen kan indgå i det samlede kompleks af ordninger efter stk. 1 med de retsvirkninger, der for disse ordninger i øvrigt følger af denne lov.
-
-Stk. 5. Børne- og undervisningsministeren fastsætter regler om betingelserne for godkendelse af uddannelser efter stk. 4.
+Stk. 4. Uddannelsesaftaler inden for uddannelsen til lokomotivfører indgår i det samlede kompleks af ordninger efter stk. 1 bortset fra fritagelsesordningen i § 21 b med de retsvirkninger, der for disse ordninger i øvrigt følger af denne lov.
