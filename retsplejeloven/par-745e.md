@@ -6,11 +6,13 @@
 
 a) straffelovens § 210 eller kapitel 24 eller
 
-b) straffelovens §§ 237 eller 243-246, hvor personen eller en af dennes nærmeste er forurettet og den, der er mistænkt, er en af personens nærmeste.
+b) straffelovens §§ 237 eller 242-246, hvor personen eller en af dennes nærmeste er forurettet og den, der er mistænkt, er en af personens nærmeste.
 
 3) Personen er under 18 år, og særlige omstændigheder taler for videoafhøring.
 
 4) Personen er 18 år eller derover og har en alvorlig psykisk lidelse eller væsentlig funktionsnedsættelse, og særlige omstændigheder taler for videoafhøring.
+
+5) Personen er 15 år eller derover, og efterforskningen vedrører en overtrædelse af straffelovens § 216 eller § 225, jf. § 216, hvor personen er forurettet.
 
 Stk. 2. Forsvareren skal være til stede under videoafhøringen.
 
