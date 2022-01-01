@@ -8,8 +8,8 @@ Stk. 4. Fonden skal mindst en gang årligt undersøge, om der er ændringer af d
 
 Stk. 5. Fonden skal opbevare dokumentation for de indhentede oplysninger om fondens reelle ejere i 5 år efter det reelle ejerskabs ophør. Fonden skal endvidere opbevare dokumentation for de indhentede oplysninger om forsøg på identifikation af reelle ejere i 5 år efter gennemførelsen af identifikationsforsøget.
 
-Stk. 6. Fonden skal efter anmodning udlevere oplysninger om fondens reelle ejere, herunder om fondens forsøg på at identificere fondens reelle ejere, til Statsadvokaten for Særlig Økonomisk og International Kriminalitet. Fonden skal endvidere efter anmodning udlevere de nævnte oplysninger til andre kompetente myndigheder, når disse myndigheder vurderer, at oplysningerne er nødvendige for deres varetagelse af tilsyns- eller kontrolopgaver.
+Stk. 6. Fonden skal efter anmodning udlevere oplysninger om fondens reelle ejere, herunder om fondens forsøg på at identificere fondens reelle ejere, til Hvidvasksekretariatet. Fonden skal endvidere efter anmodning udlevere de nævnte oplysninger til andre kompetente myndigheder, når disse myndigheder vurderer, at oplysningerne er nødvendige for deres varetagelse af tilsyns- eller kontrolopgaver.
 
-Stk. 7. Statsadvokaten for Særlig Økonomisk og International Kriminalitet og andre kompetente myndigheder kan vederlagsfrit videregive oplysninger om reelle ejere, der er registreret, jf. stk. 3, eller er indhentet, jf. stk. 6, til andre EU-medlemsstaters kompetente myndigheder og finansielle efterretningstjenester.
+Stk. 7. Hvidvasksekretariatet og andre kompetente myndigheder kan vederlagsfrit videregive oplysninger om reelle ejere, der er registreret, jf. stk. 3, eller er indhentet, jf. stk. 6, til andre EU-medlemsstaters kompetente myndigheder og finansielle efterretningstjenester.
 
 Stk. 8. Erhvervsstyrelsen fastsætter nærmere regler om oplysningernes registrering, tilgængelighed og offentliggørelse efter stk. 1, 3 og 5 i Erhvervsstyrelsens it-system, herunder hvilke oplysninger fonden skal registrere i styrelsens it-system.
