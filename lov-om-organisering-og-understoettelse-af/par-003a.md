@@ -1,0 +1,3 @@
+§ 3 a. Kommunalbestyrelsen har ansvaret for og varetager opgaver i medfør af artikel 64, stk. 1, litra b, i Europa-Parlamentets og Rådets forordning (EF) nr. 883/2004 af 29. april 2004 om koordinering af de sociale sikringsordninger og artikel 55, stk. 2-6, i Europa-Parlamentets og Rådets forordning (EF) nr. 987/2009 af 16. september 2009 om de nærmere regler til gennemførelse af forordning (EF) nr. 883/2004 om koordinering af de sociale sikringsordninger.
+
+Stk. 2. En kommunalbestyrelse kan efter aftale helt eller delvis overlade opgaver efter stk. 1 til en anden kommunalbestyrelse, som i et International Citizen Service varetager opgaver efter stk. 1.
