@@ -14,6 +14,8 @@ Stk. 2. Det skattepligtige afkast opgøres som summen af:
 
 6) Skattebeløb indeholdt efter § 21, stk. 2, 2. pkt.
 
+7) Beløb, der hidrører fra rabat, provision og lign., som pensionsinstituttet har modtaget fra formueforvaltere m.v. (kickback og lign.), og beløb, der hidrører fra pensionsinstituttets fortjeneste ved formueforvaltning af de pensionsberettigedes midler (indregnet fortjeneste og lign.), der tilskrives forsikringens depot, der på anden måde er knyttet til forsikringen eller pensionskasseordningen, eller der udbetales direkte til den berettigede i årets løb med tillæg af skattebeløb indeholdt efter § 21, stk. 2.
+
 Stk. 3. Hvis den skattepligtige i forbindelse med tilbagekøb af forsikringen har krav på en andel af de ufordelte bonusreserver, der er opbygget af rentebonus, svarende til, at denne del var blevet frigivet under forsikringens løbetid, medregnes til det skattepligtige afkast årligt et beløb svarende til, at beløbet var frigivet under forsikringens løbetid til forsikringen.
 
 Stk. 4. Pensionsinstituttet skal opdele bestanden af forsikringer i én eller flere grupper.
