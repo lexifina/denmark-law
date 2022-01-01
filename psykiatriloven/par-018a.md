@@ -1,6 +1,6 @@
 ## Særlige tvangsforanstaltninger på Sikringsafdelingen under Retspsykiatrisk afdeling, Region Sjælland
 
-§ 18 a. Aflåsning af patientstue kan anvendes over for patienter, der er anbragt i Sikringsafdelingen under Retspsykiatrisk afdeling, Region Sjælland, jf. kapitel 11.
+§ 18 a. Aflåsning af patientstue kan anvendes over for patienter, der er anbragt i Sikringsafdelingen under Retspsykiatrisk afdeling, Region Sjælland.
 
 Stk. 2. Aflåsning af patientstue kan anvendes behandlingsmæssigt med henblik på
 
