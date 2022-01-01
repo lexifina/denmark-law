@@ -4,24 +4,20 @@ Stk. 2. Stk. 1 finder anvendelse på betalinger til modtagere, der er skattemæs
 
 1) Amerikansk Samoa.
 
-2) Anguilla.
+2) De Amerikanske Jomfruøer.
 
-3) De Amerikanske Jomfruøer.
+3) Fiji.
 
-4) Dominica.
+4) Guam.
 
-5) Fiji.
+5) Palau.
 
-6) Guam.
+6) Panama.
 
-7) Palau.
+7) Samoa.
 
-8) Panama.
+8) Trinidad og Tobago.
 
-9) Samoa.
-
-10) Seychellerne.
-
-11) Vanuatu.
+9) Vanuatu.
 
 Stk. 3. Stk. 1 finder ikke anvendelse, hvis den skattepligtige godtgør, at betalingens retmæssige modtager er skattemæssigt hjemmehørende i en stat, der er medlem af EU eller EØS, eller som har indgået en dobbeltbeskatningsoverenskomst med Danmark.
