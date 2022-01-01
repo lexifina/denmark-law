@@ -1,0 +1,11 @@
+§ 31 a. Jobsamtalerne holdes ved personligt fremmøde, jf. dog stk. 2-5.
+
+Stk. 2. For personer omfattet af § 6, nr. 10 og 11, kan jobsamtaler holdes telefonisk eller digitalt.
+
+Stk. 3. Deltager personer i tilbud efter kapitel 11-14, kan jobsamtalen holdes telefonisk, digitalt eller pr. brev. Tilsvarende gælder for personer, der er i job eller driver selvstændig virksomhed, og som er omfattet af § 6, nr. 7, og er vendt delvis tilbage til jobbet eller virksomheden.
+
+Stk. 4. Jobsamtaler for personer på barsel efter § 27, stk. 2, skal holdes telefonisk, digitalt eller pr. brev, hvis personen anmoder herom.
+
+Stk. 5. Kontaktforløbet for en sygemeldt kan foregå uden kontakt til personen, hvis der er tale om alvorlig sygdom og kontakt ikke er hensigtsmæssig eller mulig på grund af den sygemeldtes helbredssituation (standby). Ved vurderingen af, om en sygdom er alvorlig, indgår navnlig, om sygdommen er livstruende.
+
+Stk. 6. Arbejdsløshedskassen kan vælge at deltage ved personligt digitalt fremmøde i de fælles jobsamtaler efter § 31, stk. 2, medmindre personen anmoder om, at arbejdsløshedskassen deltager ved personligt fremmøde.
