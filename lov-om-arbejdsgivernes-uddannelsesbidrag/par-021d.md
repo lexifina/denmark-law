@@ -2,6 +2,6 @@
 
 Stk. 2. Opgørelsen af overskud foretages pr. sektor, jf. § 21 a, stk. 11.
 
-Stk. 3. Overskud tilbagebetales til arbejdsgivere placeret i sektoren for hver praktikårselev, som arbejdsgiveren har haft i det år, som overskuddet vedrører. Overskud pr. praktikårselev beregnes ved at dividere overskuddet med antal praktikårselever i bidragsåret i den pågældende sektor. Elever inden for erhvervsuddannelser samt uddannelser, der er godkendt i medfør af § 21 f, stk. 4, indgår i beregningen.
+Stk. 3. Overskud tilbagebetales til arbejdsgivere placeret i sektoren for hver praktikårselev, som arbejdsgiveren har haft i det år, som overskuddet vedrører. Overskud pr. praktikårselev beregnes ved at dividere overskuddet med antal praktikårselever i bidragsåret i den pågældende sektor. Elever inden for erhvervsuddannelser samt uddannelse, der er nævnt i § 21 f, stk. 4, indgår i beregningen.
 
 Stk. 4. Ved opgørelsen af overskud anvendes det antal praktikårselever, der er i virksomheder, som har en måluddannelsesratio, jf. § 21 a, stk. 2.
