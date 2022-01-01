@@ -2,6 +2,6 @@
 
 Stk. 2. Renter, udbytter efter ligningslovens § 16 A, gevinst og tab efter kursgevinstloven og aktieavancebeskatningsloven samt gevinst og tab, der skyldes kursændringer på beholdninger af værdipapirer, af indeståendet på en selvpensioneringskonto, der tilskrives kontoen, skal ikke medregnes ved opgørelsen af den skattepligtige indkomst.
 
-Stk. 3. Indeståendet på en selvpensioneringskonto, herunder tilskrevne renter m.v., jf. stk. 2, kan hæves når som helst.
+Stk. 3. Indeståendet på en selvpensioneringskonto, herunder tilskrevne renter m.v., jf. stk. 2, kan hæves når som helst. Uanset 1. pkt. kan der ske delvise udbetalinger i form af udlodninger til kontohaveren af unoterede kapitalandele, af unoterede andele i alternative investeringsfonde, som forvaltes af en forvalter omfattet af lov om forvaltere af alternative investeringsfonde m.v., og af unoterede andele i alternative investeringsfonde med registreret hjemsted i et land uden for Den Europæiske Union, som Unionen ikke har indgået en aftale med på det finansielle område, fra og med den 1. januar 2022 til og med den 30. juni 2022. Er der den 1. juli 2022 fortsat placeret værdipapirer som nævnt i 2. pkt. i selvpensioneringskontoen, anses selvpensioneringskontoen fra og med dette tidspunkt ikke for omfattet af denne bestemmelse.
 
 Stk. 4. Skatteministeren kan fastsætte nærmere regler om overførsel til andre pengeinstitutter, overdragelse til eje eller pant, frigivelse ved kontohaverens død og udlodning til ægtefælle.
