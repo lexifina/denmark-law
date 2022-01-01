@@ -1,0 +1,1 @@
+§ 27 l. Erhvervsministeren kan fastsætte regler om Arbejdsmarkedets Tillægspensions pligt til at offentliggøre oplysninger om Finanstilsynets vurdering af Arbejdsmarkedets Tillægspension og om, at Finanstilsynet kan offentliggøre oplysningerne før Arbejdsmarkedets Tillægspension.
