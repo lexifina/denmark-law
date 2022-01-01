@@ -1,0 +1,1 @@
+§ 27 m. Europa-Parlamentets og Rådets forordning 2019/2088/EU af 27. november 2019 om bæredygtighedsrelaterede oplysninger i sektoren for finansielle tjenesteydelser finder anvendelse på Arbejdsmarkedets Tillægspension.
