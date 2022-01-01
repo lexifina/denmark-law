@@ -1,0 +1,1 @@
+§ 34 a. Når en afgiftspligtig person anses for at have modtaget og leveret varerne i overensstemmelse med § 4 c, stk. 2, er levering af disse varer til denne afgiftspligtige person fritaget for afgift.
