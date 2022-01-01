@@ -8,9 +8,9 @@ Stk. 4. Kapitalselskabet skal mindst en gang årligt undersøge, om der er ændr
 
 Stk. 5. Kapitalselskabet skal opbevare dokumentation for de indhentede oplysninger om selskabets reelle ejere i 5 år efter det reelle ejerskabs ophør. Kapitalselskabet skal endvidere opbevare dokumentation for de indhentede oplysninger om forsøg på identifikation af reelle ejere i 5 år efter gennemførelsen af identifikationsforsøget.
 
-Stk. 6. Kapitalselskabet skal efter anmodning udlevere oplysninger om selskabets reelle ejere, herunder om selskabets forsøg på at identificere selskabets reelle ejere, til Statsadvokaten for Særlig Økonomisk og International Kriminalitet. Kapitalselskabet skal endvidere efter anmodning udlevere de nævnte oplysninger til andre kompetente myndigheder, når disse myndigheder vurderer, at oplysningerne er nødvendige for deres varetagelse af tilsyns- eller kontrolopgaver.
+Stk. 6. Kapitalselskabet skal efter anmodning udlevere oplysninger om selskabets reelle ejere, herunder om selskabets forsøg på at identificere selskabets reelle ejere, til Hvidvasksekretariatet. Kapitalselskabet skal endvidere efter anmodning udlevere de nævnte oplysninger til andre kompetente myndigheder, når disse myndigheder vurderer, at oplysningerne er nødvendige for deres varetagelse af tilsyns- eller kontrolopgaver.
 
-Stk. 7. Statsadvokaten for Særlig Økonomisk og International Kriminalitet og andre kompetente myndigheder kan vederlagsfrit videregive oplysninger om reelle ejere, der er registreret, jf. stk. 3, eller er indhentet, jf. stk. 6, til andre EU-medlemsstaters kompetente myndigheder og finansielle efterretningstjenester.
+Stk. 7. Hvidvasksekretariatet og andre kompetente myndigheder kan vederlagsfrit videregive oplysninger om reelle ejere, der er registreret, jf. stk. 3, eller er indhentet, jf. stk. 6, til andre EU-medlemsstaters kompetente myndigheder og finansielle efterretningstjenester.
 
 Stk. 8. Stk. 1-7 finder ikke anvendelse for kapitalselskaber, hvis ejerandele eller obligationer handles på et reguleret marked eller et tilsvarende marked, som er undergivet oplysningspligt i overensstemmelse med EU-retten eller tilsvarende internationale standarder.
 
