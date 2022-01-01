@@ -24,7 +24,7 @@ Stk. 2. Der kan endvidere optages fingeraftryk af en udlænding,
 
 8) som er pålagt at give møde efter hjemrejselovens §§ 11 eller 12 til brug for Hjemrejsestyrelsens administration af den pålagte meldepligt.
 
-Stk. 3. Fingeraftryk, der optages i medfør af stk. 1 eller 2, kan registreres i et særligt edb-register, der føres af Rigspolitichefen. Politiet, Hjemrejsestyrelsen og Udlændingestyrelsen kan anvende registret i forbindelse med behandlingen af udlændingesager. Rigspolitichefen er dataansvarlig myndighed for registret.
+Stk. 3. Fingeraftryk, der optages i medfør af stk. 1 eller 2, kan registreres i et særligt edb-register, der føres af politiet. Politiet, Hjemrejsestyrelsen og Udlændingestyrelsen kan anvende registret i forbindelse med behandlingen af udlændingesager. Politiet er dataansvarlig myndighed for registret.
 
 Stk. 4. Fingeraftryk, der modtages fra udenlandske udlændingemyndigheder i forbindelse med behandlingen af udlændingesager, kan registreres i det i stk. 3 nævnte edb-register.
 
@@ -46,7 +46,7 @@ Stk. 12. Stk. 3-9 finder ikke anvendelse, hvis fingeraftryk optages efter stk. 1
 
 Stk. 13. Optages der fingeraftryk i medfør af stk. 1, nr. 1 eller 2, eller stk. 2, nr. 1, som skal videregives til det centrale Eurodac-system i medfør af § 58 i, stk. 1, gør politiet skriftligt og om nødvendigt mundtligt udlændingen bekendt med dennes rettigheder efter § 28, stk. 1, i lov om behandling af personoplysninger samt pligten til at lade sine fingeraftryk optage.
 
-Stk. 14. Til brug for identifikation og identitetskontrol opbevares fingeraftryk, der er optaget efter stk. 1, nr. 1 og 3, i 20 år efter optagelsen af fingeraftrykket eller, hvis udlændingen meddeles opholdstilladelse, i 10 år efter optagelsen af fingeraftrykket. Fingeraftryk, der opbevares efter 1. pkt., slettes, hvis udlændingen meddeles dansk indfødsret.
+Stk. 14. Til brug for identifikation og identitetskontrol opbevares fingeraftryk, der er optaget efter stk. 1, nr. 1 og 3, eller efter lov om midlertidig opholdstilladelse til personer, der i Afghanistan har bistået danske myndigheder m.v., i 20 år efter optagelsen af fingeraftrykket eller, hvis udlændingen meddeles opholdstilladelse, i 10 år efter optagelsen af fingeraftrykket. Fingeraftryk, der opbevares efter 1. pkt., slettes, hvis udlændingen meddeles dansk indfødsret.
 
 Stk. 15. Fingeraftryk, der opbevares i medfør af stk. 14, registreres i et centralt register, der føres af Udlændinge- og Integrationsministeriet, Udlændingestyrelsen og Styrelsen for International Rekruttering og Integration.
 

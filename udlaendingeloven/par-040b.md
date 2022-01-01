@@ -10,7 +10,7 @@ Stk. 2. Der kan endvidere optages personfotografi af en udlænding,
 
 4) hvis udlændingen er omfattet af § 58 g.
 
-Stk. 3. Personfotografi, der optages i medfør af stk. 1 eller 2, kan registreres i et særligt register, der føres af Rigspolitichefen. Politiet, Hjemrejsestyrelsen og Udlændingestyrelsen kan anvende registret i forbindelse med behandlingen af udlændingesager. Rigspolitichefen er dataansvarlig myndighed for registret.
+Stk. 3. Personfotografi, der optages i medfør af stk. 1 eller 2, kan registreres i et særligt register, der føres af politiet. Politiet, Hjemrejsestyrelsen og Udlændingestyrelsen kan anvende registret i forbindelse med behandlingen af udlændingesager. Politiet er dataansvarlig myndighed for registret.
 
 Stk. 4. Personfotografi, der modtages fra udenlandske udlændingemyndigheder i forbindelse med behandlingen af udlændingesager, kan registreres i det i stk. 3 nævnte register.
 
@@ -30,7 +30,7 @@ Stk. 11. Hvis udlændingen er under 18 år, optages der alene personfotografi ef
 
 Stk. 12. Stk. 3-9 finder ikke anvendelse, hvis personfotografi optages efter stk. 1 til eventuel brug for udstedelse af et opholdskort.
 
-Stk. 13. Til brug for identifikation og identitetskontrol opbevares personfotografi, der er optaget efter stk. 1, i 20 år efter optagelsen af personfotografiet eller, hvis udlændingen meddeles opholdstilladelse, i 10 år efter optagelsen af personfotografiet. Personfotografi, der opbevares efter 1. pkt., slettes, hvis udlændingen meddeles dansk indfødsret.
+Stk. 13. Til brug for identifikation og identitetskontrol opbevares personfotografi, der er optaget efter stk. 1 eller efter lov om midlertidig opholdstilladelse til personer, der i Afghanistan har bistået danske myndigheder m.v., i 20 år efter optagelsen af personfotografiet eller, hvis udlændingen meddeles opholdstilladelse, i 10 år efter optagelsen af personfotografiet. Personfotografi, der opbevares efter 1. pkt., slettes, hvis udlændingen meddeles dansk indfødsret.
 
 Stk. 14. Personfotografi, der opbevares i medfør af stk. 13, registreres i et centralt register, der føres af Udlændinge- og Integrationsministeriet, Udlændingestyrelsen og Styrelsen for International Rekruttering og Integration.
 
