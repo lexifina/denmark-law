@@ -1,4 +1,4 @@
-Skatteministeriet, den 16. juni 2021
+Skatteministeriet, den 20. december 2021
 
 P.M.V. Jens Brøchner
 
@@ -6,7 +6,7 @@ P.M.V. Jens Brøchner
 
 Bilag 1
 
-I. Fordringstyper, for hvilke der ikke kan foretages lønindeholdelse efter § 10:
+## I. Fordringstyper, for hvilke der ikke kan foretages lønindeholdelse efter § 10:
 
 1) Civilretlige fordringstyper.
 
@@ -24,7 +24,7 @@ v. Krav på erstatning, hvis kravet kan tvangsfuldbyrdes efter retsplejelovens �
 
 vi. Underholdsbidrag.
 
-II. Fordringstyper, for hvilke der ikke kan foretages udpantning efter § 11:
+## II. Fordringstyper, for hvilke der ikke kan foretages udpantning efter § 11:
 
 1) Civilretlige fordringstyper.
 
@@ -42,6 +42,6 @@ v. Krav på erstatning, hvis kravet kan tvangsfuldbyrdes efter retsplejelovens �
 
 vi. Underholdsbidrag.
 
-III. Fordringstyper, for hvilke der ikke tillades afdragsordninger efter § 3, stk. 3:
+## III. Fordringstyper, for hvilke der ikke tillades afdragsordninger efter § 3, stk. 3:
 
 1) Tvangsbøder.
