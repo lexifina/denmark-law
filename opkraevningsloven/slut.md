@@ -1,4 +1,4 @@
-Skatteministeriet, den 6. maj 2019
+Skatteministeriet, den 20. december 2021
 
 P.M.V. Jens Brøchner
 
@@ -6,7 +6,7 @@ P.M.V. Jens Brøchner
 
 Bilag 1
 
-## Liste A
+Liste A
 
 1) Lov om energiafgift af mineralolieprodukter m.v.
 
@@ -22,7 +22,7 @@ Bilag 1
 
 7) Lov om afgift af chokolade- og sukkervarer m.m.
 
-8) Lov om afgift af visse emballager samt visse poser af papir eller plast m.v.
+8) Emballageafgiftsloven.
 
 9) Lov om forskellige forbrugsafgifter.
 
@@ -62,12 +62,14 @@ Bilag 1
 
 27) Lov om afgift af lystfartøjsforsikringer.
 
-28) Lov om afgift af tinglysning af ejer- og panterettigheder m.v.
+28) Lov om afgift af tinglysning og registrering af ejer- og panterettigheder m.v.
 
 29) Lov om afgift af kvælstofoxider.
 
 30) Lov om afgift af skadesforsikringer.
 
-## Liste B
+31) Pvc-afgiftsloven.
+
+Liste B
 
 1) Kildeskatteloven.
