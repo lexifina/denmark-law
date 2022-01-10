@@ -1,3 +1,3 @@
 Bekendtgørelse af lov om fødevarer
 
-Herved bekendtgøres lov om fødevarer, jf. lovbekendtgørelse nr. 46 af 11. januar 2017, med de ændringer, der følger af lov nr. 465 af 14. maj 2018 og § 2 i lov nr. 721 af 8. juni 2018.
+Herved bekendtgøres lov om fødevarer, jf. lovbekendtgørelse nr. 999 af 2. juli 2018, med de ændringer, der følger af lov nr. 2385 af 14. december 2021.
