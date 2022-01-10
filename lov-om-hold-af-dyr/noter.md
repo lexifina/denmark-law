@@ -1,12 +1,4 @@
-1) Ved kongelig resolution af 28. juni 2015 blev Miljøministeriet og Ministeriet for Fødevarer, Landbrug og Fiskeri sammenlagt til et Miljø- og Fødevareministerium, jf. bekendtgørelse nr. 1229 af 3. november 2015 om ændring i forretningernes fordeling mellem ministrene.
-
-Ved kongelig resolution af 27. juni 2019 blev ansvaret for sager vedrørende landbrug, herunder økologi, fødevaresikkerhed, fødevaresundhed og fødevareforsyning, dyrevelfærd, inklusive de til områderne hørende institutioner m.v., sager vedrørende ligestilling, samt sager vedrørende fiskeri henlagt til ministeren for fødevarer, fiskeri og ligestilling, jf. § 8, stk. 1, i bekendtgørelse nr. 794 af 8. august 2019. De øvrige under Miljø- og Fødevareministeriet hørende områder henhører under miljøministerens ledelse og ansvar, jf. bekendtgørelsens § 8, stk. 3.
-
-Ved kongelig resolution af 19. november 2020 blev der oprettet et ministerium for fødevarer, landbrug og fiskeri, og ansvaret for sager vedrørende
-
-landbrug, herunder økologi, fødevaresikkerhed, fødevaresundhed og fødevareforsyning, dyrevelfærd, inklusive de til områderne hørende institutioner mv.,
-
-samt sager vedrørende fiskeri blev henlagt til ministeren for fødevarer, landbrug og fiskeri.
+1) Ved kongelig resolution af 19. november 2020 blev Ministeriet for Fødevarer, Landbrug og Fiskeri oprettet, således at der til dette ministerium blev overført følgende sagsområder: sager vedrørende landbrug, herunder økologi, fødevaresikkerhed, fødevaresundhed og fødevareforsyning, dyrevelfærd, inklusive de til områderne hørende institutioner m.v., samt sager vedrørende fiskeri, jf. § 1 i bekendtgørelse nr. 1946 af 25. november 2020 om ændring i forretningernes fordeling mellem ministrene.
 
 2) Bekendtgjort i Lovtidende den 2. juni 2006. Lovændringen vedrører ændring af § 62.
 
@@ -53,3 +45,5 @@ samt sager vedrørende fiskeri blev henlagt til ministeren for fødevarer, landb
 23) Lovændringen vedrører indsættelse af § 57 a.
 
 24) Lovændringen vedrører indsættelse af § 56 a. Ændringen er trådt i kraft den 30. december 2020.
+
+25) Lovændringen vedrører indsættelse af 2. pkt. i § 34 a, stk. 4, ændring af § 34 d, stk. 1, og indsættelse af nyt stk. 2 i § 34 d, hvorefter stk. 2 bliver stk. 3.

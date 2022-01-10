@@ -153,3 +153,9 @@ Lov nr. 2185 af 29. december 2020 om aflivning af og midlertidigt forbud mod hol
 § 12. Loven træder i kraft ved bekendtgørelsen i Lovtidende, jf. dog stk. 2.
 
 Stk. 2-4. (Udelades)
+
+Lov nr. 2384 af 14. december 2021 (Bekæmpelse af særlig Salmonella Dublin-smitterisiko og frivillige sundhedsrådgivningsaftaler) indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 2
+
+Loven træder i kraft den 1. januar 2022.
