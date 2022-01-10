@@ -1,5 +1,5 @@
-Ministeriet for Fødevarer, Landbrug og Fiskeri, den 7. juni 2021
+Fødevarestyrelsen, den 6. januar 2022
 
-P.M.V. Tejs Binderup
+Nikolaj Veje
 
-/ Paolo Drostby
+/ Birthe Schubart Haabegaard
