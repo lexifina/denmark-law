@@ -90,7 +90,7 @@ Lov nr. 1715 af 27. december 2016 om Miljø- og Fødevareklagenævnet indeholder
 
 Stk. 2. (Udelades)
 
-Stk. 3. Erhvervsministeren kan efter høring af miljø- og fødevareministeren fastsætte overgangsregler.
+Stk. 3. Erhvervsministeren kan efter høring af ministeren for fødevarer, landbrug og fiskeri fastsætte overgangsregler.
 
 Stk. 4. (Udelades)
 
@@ -111,3 +111,9 @@ Lov nr. 721 af 8. juni 2018 (Strafskærpelse som led i indsatsen mod afrikansk s
 § 4
 
 Loven træder i kraft den 1. juli 2018.
+
+Lov nr. 2385 af 14. december 2021 (Datadrevet kontrol og offentliggørelse af kontrolresultater m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 2
+
+Loven træder i kraft den 1. januar 2022.
