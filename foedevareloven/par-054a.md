@@ -1,1 +1,5 @@
-§ 54 a. Miljø- og fødevareministeren kan indhente de oplysninger hos andre offentlige myndigheder, der er nødvendige for at kontrollere, at fødevarelovgivningen overholdes, bl.a. med henblik på registersamkøring og sammenstilling af oplysninger i kontroløjemed, herunder oplysninger om skatteforhold.
+§ 54 a. Tilsynsmyndigheden kan i kontroløjemed indsamle og behandle, herunder samkøre, oplysninger fra andre offentlige myndigheder og fra offentligt tilgængelige kilder.
+
+Stk. 2. Tilsynsmyndigheden kan i kontroløjemed behandle, herunder samkøre, oplysninger, som myndigheden ud over de tilfælde, der er nævnt i stk. 1, er i besiddelse af.
+
+Stk. 3. Tilsynsmyndigheden kan i kontroløjemed indsamle og behandle, herunder samkøre, ikke offentligt tilgængelige oplysninger fra offentlige og private virksomheder og erhvervs- eller forbrugerorganisationer.
