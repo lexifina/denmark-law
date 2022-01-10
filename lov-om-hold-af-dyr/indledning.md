@@ -1,3 +1,3 @@
 Bekendtgørelse af lov om hold af dyr
 
-Herved bekendtgøres lov om hold af dyr, jf. lovbekendtgørelse nr. 38 af 15. januar 2020, med den ændring, der følger af § 13 i lov nr. 2185 af 29. december 2020.
+Herved bekendtgøres lov om hold af dyr, jf. lovbekendtgørelse nr. 330 af 2. marts 2021, med de ændringer, der følger af lov nr. 2384 af 14. december 2021.
