@@ -1,0 +1,1 @@
+§ 50 h. Registreringer fra importører, fremstillere og forhandlere af virksomme stoffer, som anvendes som udgangsmateriale i veterinærlægemidler i overensstemmelse med artikel 95 i veterinærforordningen, til Lægemiddelstyrelsen som kompetent myndighed i overensstemmelse med artikel 137 i veterinærforordningen skal foretages elektronisk.
