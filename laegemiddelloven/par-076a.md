@@ -1,0 +1,5 @@
+§ 76 a. Lægemiddelstyrelsen kontrollerer i beredskabssituationer overholdelsen af de krav, der fremgår af regler udstedt efter § 76, stk. 6, til aktive indholdsstoffer, mellemprodukter og lægemidler til mennesker og dyr og til dem, der håndterer aktive indholdsstoffer, mellemprodukter og lægemidler til mennesker og dyr efter tilladelser givet efter regler udstedt i medfør af § 76, stk. 6, herunder personer og virksomheder, som er omfattet af § 76, stk. 3.
+
+Stk. 2. For at varetage kontrolopgaver efter stk. 1 har Lægemiddelstyrelsens repræsentanter mod behørig legitimation og uden retskendelse adgang til lokationer omfattet af stk. 1.
+
+Stk. 3. For at varetage kontrolopgaver efter stk. 1 kan Lægemiddelstyrelsen vederlagsfrit mod kvittering udtage eller kræve udleveret prøver af aktive indholdsstoffer, mellemprodukter eller lægemidler, herunder emballage og indlægssedler. Lægemiddelstyrelsen kan kræve alle oplysninger og materialer, der er nødvendige for kontrolvirksomheden efter 1. pkt. og stk. 1 og 2.
