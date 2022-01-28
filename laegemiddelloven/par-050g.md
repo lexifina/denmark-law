@@ -1,1 +1,1 @@
-§ 50 g. Sundhedsstyrelsen kan give en virksomhed, der er registreret efter § 50 a, stk. 1, påbud om at ændre opgavevaretagelse, organisation, indretning eller drift og fastsætte en frist for ændringernes gennemførelse for at sikre overholdelsen af regler udstedt i medfør af § 50 c.«
+§ 50 g. Lægemiddelstyrelsen kan give en virksomhed, der er registreret efter § 50 a, stk. 1, påbud om at ændre opgavevaretagelse, organisation, indretning eller drift og fastsætte en frist for ændringernes gennemførelse for at sikre overholdelsen af regler udstedt i medfør af § 50 c.

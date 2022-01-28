@@ -1,0 +1,1 @@
+§ 13 a. En apoteker må alene forhandle receptpligtige veterinære lægemidler online inden for landets grænser i overensstemmelse med artikel 104 i Europa-Parlamentets og Rådets forordning (EU) 2019/6 af 11. december 2018 om veterinærlægemidler og om ophævelse af direktiv 2001/82/EF.
