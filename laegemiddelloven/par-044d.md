@@ -1,1 +1,1 @@
-§ 44 d. Fødevarestyrelsens repræsentanter har mod behørig legitimation og uden retskendelse adgang til virksomheder med tilladelse til at forhandle foderlægemidler til dyr eller fisk efter § 39, stk. 1. Fødevarestyrelsens repræsentanter kan kræve at få fremvist og udleveret kopi af bestillingssedler på foderlægemidler, der er ordineret af en dyrlæge.
+§ 44 d. (Ophævet)
