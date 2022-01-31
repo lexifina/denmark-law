@@ -1,1 +1,1 @@
-§ 4 a. Et klinisk forsøg må kun gennemføres på en forsøgsperson, der er fyldt 15 år, men endnu ikke er myndig, såfremt forsøgspersonen og forældremyndighedens indehaver giver samtykke hertil, jf. § 4, stk. 1.
+§ 4 a. Et sundhedsvidenskabeligt forskningsprojekt må kun gennemføres på en forsøgsperson, der er fyldt 15 år, men endnu ikke er myndig, såfremt forsøgspersonen og forældremyndighedens indehaver giver samtykke hertil, jf. § 4, stk. 1.
