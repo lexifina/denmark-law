@@ -1,0 +1,3 @@
+§ 14 c. Færdselsstyrelsen har til enhver tid uden retskendelse mod behørig legitimation adgang til en udenlandsk virksomheds køretøj med henblik på at tilvejebringe oplysninger, der er nødvendige til brug for Færdselsstyrelsens tilsyn efter § 21 b, herunder materiale, der opbevares i elektronisk form. Politiet yder om nødvendigt bistand hertil.
+
+Stk. 2. Transportministeren kan efter forhandling med justitsministeren fastsætte regler om politiets bistand efter stk. 1.

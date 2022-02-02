@@ -1,0 +1,1 @@
+§ 21 b. Færdselsstyrelsen fører tilsyn med overholdelsen af anmeldelsespligten efter § 21, stk. 1, dokumentationskravet fastsat i regler i medfør af § 21, stk. 5, og aflønningskravet efter § 21 a, stk. 1.
