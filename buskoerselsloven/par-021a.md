@@ -1,0 +1,3 @@
+§ 21 a. En udenlandsk virksomhed skal betale lønmodtageren en timeløn, der som minimum svarer til en timesats, som fastsættes i medfør af stk. 2, når lønmodtageren udfører cabotagekørsel for virksomheden i Danmark.
+
+Stk. 2. Transportministeren fastsætter efter inddragelse af arbejdsmarkedets parter nærmere regler om den timesats, som lønmodtageren som minimum skal oppebære efter stk. 1. Timesatsen fastsættes på baggrund af relevante lønbestemmelser i de af de mest repræsentative arbejdsmarkedsparter indgåede landsdækkende overenskomster, der skal lægges til grund i medfør af § 18, stk. 2, nr. 1.
