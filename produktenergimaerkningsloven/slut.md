@@ -1,7 +1,5 @@
-Givet på Christiansborg Slot, den 18. december 2018
+Energistyrelsen, den 2. februar 2022
 
-Under Vor Kongelige Hånd og Segl
+Stine Leth Rasmussen
 
-MARGRETHE R.
-
-/ Lars Christian Lilleholt
+/ Rasmus Tengvad
