@@ -1,0 +1,1 @@
+§ 19 d. Overlægen kan beslutte at afskære eller begrænse den anbragtes mulighed for at medtage, besidde eller råde over mobiltelefon og lignende kommunikationsudstyr på afdelingen, hvis den anbragtes medtagelse, besiddelse eller råden er uforenligt med hensynet til orden og sikkerhed.
