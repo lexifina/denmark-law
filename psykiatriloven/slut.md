@@ -1,5 +1,5 @@
-Sundheds- og Ældreministeriet, den 2. september 2019
+Sundhedsministeriet, den 1. februar 2022
 
 Magnus Heunicke
 
-/ Sabine Godsvig Laursen
+/ Nina Fjord Fromberg
