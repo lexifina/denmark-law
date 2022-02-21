@@ -1,6 +1,6 @@
 ## Hæftelse ved international kørsel
 
-§ 16 b. Den registrerede ejer eller bruger af et motorkøretøj med en totalvægt på 3.500 kg eller derover hæfter over for føreren af køretøjet og andre personer, der er tilknyttet dennes virksomhed og efter dennes anmodning deltager i og medvirker til transportens gennemførelse, for udgifter, der opstår under kørsel i udlandet, til behandling m.v. i udlandet og hjemtransport i forbindelse med sygdom.
+§ 16 b. Den registrerede ejer eller bruger af et motorkøretøj med en tilladt totalvægt, der overstiger 3.500 kg, eller en varebil eller vogntog med en tilladt totalvægt, der overstiger 2.500 kg, hæfter over for føreren af køretøjet og andre personer, der er tilknyttet dennes virksomhed og efter dennes anmodning deltager i og medvirker til transportens gennemførelse, for udgifter, der opstår under kørsel i udlandet, til behandling m.v. i udlandet og hjemtransport i forbindelse med sygdom.
 
 Stk. 2. Stk. 1 finder ikke anvendelse, hvis den pågældende ved sin ansættelse svigagtigt har fortiet sygdommen, denne er selvforskyldt eller udgifterne afholdes efter
 

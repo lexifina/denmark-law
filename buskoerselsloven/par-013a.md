@@ -1,4 +1,4 @@
-§ 13 a. Tilladelse til busudlejning m.v., jf. § 1 a, kan meddeles en her i landet hjemmehørende virksomhed, der foruden at opfylde betingelserne i § 12, stk. 1, nr. 1-3,
+§ 13 a. Tilladelse til busudlejning m.v., jf. § 1 a, kan meddeles en her i landet hjemmehørende virksomhed, der foruden at opfylde betingelserne i § 12, stk. 1, nr. 1 og 2, og vandelskravet fastsat i medfør af § 12, stk. 4,
 
 1) har forretningssted her i landet og
 
@@ -8,4 +8,4 @@ Stk. 2. Der kan under de i stk. 1 nævnte betingelser meddeles tilladelse til he
 
 Stk. 3. Filialer af udenlandske selskaber m.v. af den i stk. 1 og 2 nævnte art kan meddeles tilladelse, såfremt dette er hjemlet i international aftale eller ved bestemmelser fastsat af transportministeren.
 
-Stk. 4. § 12, stk. 4, finder tilsvarende anvendelse på disse virksomheder.
+Stk. 4. Vandelskravet som fastsat i medfør af § 12, stk. 4, finder tilsvarende anvendelse på disse virksomheder.
