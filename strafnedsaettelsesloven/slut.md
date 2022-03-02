@@ -1,10 +1,8 @@
-Givet på Amalienborg, den 16. maj 2012
+Skatteministeriet, den 24. februar 2022
 
-Under Vor Kongelige Hånd og Segl
+P.M.V. Jens Brøchner
 
-MARGRETHE R.
-
-/ Thor Möger Pedersen
+/ Per Hvas
 
 Bilag 1
 
@@ -76,7 +74,7 @@ Lov om afgift af lystfartøjsforsikringer
 
 Lov om afgift af mineralsk fosfor i foderfosfat
 
-Lov om afgift af visse emballager, poser, engangsservice og pvc-folier
+Emballageafgiftsloven
 
 Lov om afgift af spildevand
 
