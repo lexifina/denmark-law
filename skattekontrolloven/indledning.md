@@ -1,3 +1,5 @@
 Bekendtgørelse af skattekontrolloven
 
-Herved bekendtgøres skattekontrolloven, lov nr. 1535 af 19. december 2017, med de ændringer, der følger af § 6 i lov nr. 1430 af 5. december 2018, § 7 i lov nr. 1726 af 27. december 2018, § 2 i lov nr. 1573 af 27. december 2019, § 13 i lov nr. 572 af 5. maj 2020, § 1 i lov nr. 1521 af 27. oktober 2020, § 6 i lov nr. 1835 af 8. december 2020, § 6 i lov nr. 2197 af 29. december 2020, § 5 i lov nr. 2221 af 29. december 2020 og § 1 i lov nr. 789 af 4. maj 2021.
+Herved bekendtgøres skattekontrolloven, jf. lovbekendtgørelse nr. 1987 af 27. oktober 2021, med de ændringer, der følger af § 1 i lov nr. 2194 af 30. november 2021, lov nr. 2195 af 30. november 2021 og § 3, nr. 1-3, i lov nr. 2612 af 28. december 2021.
+
+De ændringer, der følger af § 3, nr. 4-6, i lov nr. 2612 af 28. december 2021 om ændring af lov om et indkomstregister, skatteindberetningsloven og skattekontrolloven (Registersamkøring med henblik på systemudvikling og myndighedsudøvelse samt udvidet adgang til eSkatData-ordningen m.v.), er ikke indarbejdet i denne lovbekendtgørelse, da tidspunktet for ikrafttræden af disse ændringer fastsættes af skatteministeren, jf. § 5, stk. 2, i lov nr. 2612 af 28. december 2021.
