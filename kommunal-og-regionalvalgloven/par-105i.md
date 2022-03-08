@@ -20,4 +20,4 @@ Stk. 4. Når stemmeoptællingen er afsluttet, indføres resultatet i afstemnings
 
 Stk. 5. Stemmematerialet sammenpakkes og afleveres til kommunalbestyrelsen.
 
-Stk. 6. Økonomi- og indenrigsministeren kan fastsætte nærmere regler om bedømmelsen af stemmesedler, herunder brevstemmesedler.
+Stk. 6. Indenrigs- og boligministeren kan fastsætte nærmere regler om bedømmelsen af stemmesedler, herunder brevstemmesedler.

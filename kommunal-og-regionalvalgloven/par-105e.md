@@ -12,4 +12,4 @@ Stk. 3. Valgbestyrelsen varetager følgende opgaver:
 
 Stk. 4. Valgbestyrelsen fører en valgbog, hvori alle væsentlige oplysninger om afstemningen og resultatet heraf indføres. Valgstyrerne fører en afstemningsbog, hvori alle væsentlige oplysninger om afstemningen i afstemningsområdet og resultatet heraf indføres.
 
-Stk. 5. Økonomi- og indenrigsministeren kan fastsætte regler om valgbogens og afstemningsbogens indhold og udformning.
+Stk. 5. Indenrigs- og boligministeren kan fastsætte regler om valgbogens og afstemningsbogens indhold og udformning.
