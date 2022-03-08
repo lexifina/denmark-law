@@ -1,4 +1,4 @@
-§ 19 a. Hvis der på en kandidatliste er opført en kandidat, der er statsborger i en af de øvrige medlemsstater i Den Europæiske Union uden tillige at have dansk indfødsret, skal der samtidig med kandidatlisten indleveres en formel erklæring afgivet på en formular, der er godkendt af social- og indenrigsministeren, hvori kandidaten angiver
+§ 19 a. Hvis der på en kandidatliste er opført en kandidat, der er statsborger i en af de øvrige medlemsstater i Den Europæiske Union uden tillige at have dansk indfødsret, skal der samtidig med kandidatlisten indleveres en formel erklæring afgivet på en formular, der er godkendt af indenrigs- og boligministeren, hvori kandidaten angiver
 
 1) sit statsborgerskab, sin fødselsdato, sit fødested, sin seneste adresse i hjemlandet og sin bopæl (adresse) i Danmark,
 
