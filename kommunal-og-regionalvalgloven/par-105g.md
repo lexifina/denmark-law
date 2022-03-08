@@ -12,4 +12,4 @@ Stk. 6. I stemmelokalerne skal der være opslag om det eller de spørgsmål, der
 
 Stk. 7. De personer, der forestår eller yder personlig bistand til afstemningen, må ikke under afstemningen give en vælger råd eller opfordring, med hensyn til om vælgeren skal stemme ja eller nej til det spørgsmål, der stemmes om ved afstemningen.
 
-Stk. 8. Økonomi- og indenrigsministeren kan fastsætte nærmere regler om ændring af afstemningssted efter ansøgning for vælgere med handicap eller nedsat førlighed. Økonomi- og indenrigsministeren kan fastsætte regler om hjælpemidler, der skal stilles til rådighed ved stemmeafgivningen.
+Stk. 8. Indenrigs- og boligministeren kan fastsætte nærmere regler om ændring af afstemningssted efter ansøgning for vælgere med handicap eller nedsat førlighed. Indenrigs- og boligministeren kan fastsætte regler om hjælpemidler, der skal stilles til rådighed ved stemmeafgivningen.

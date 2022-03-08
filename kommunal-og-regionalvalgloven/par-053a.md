@@ -4,4 +4,4 @@ Stk. 2. Ansøgning om at afgive stemme på et andet afstemningssted i bopælskom
 
 Stk. 3. Kommunalbestyrelsen skal sørge for, at en vælger, hvis ansøgning i henhold til stk. 1 er imødekommet, slettes fra valglisten på det afstemningssted, vælgeren oprindelig var tilknyttet, og tilføjes valglisten på det afstemningssted, som vælgeren er overført til.
 
-Stk. 4. Økonomi- og indenrigsministeren fastsætter nærmere regler om ændring af afstemningssted efter ansøgning for vælgere med handicap eller nedsat førlighed.
+Stk. 4. Indenrigs- og boligministeren fastsætter nærmere regler om ændring af afstemningssted efter ansøgning for vælgere med handicap eller nedsat førlighed.

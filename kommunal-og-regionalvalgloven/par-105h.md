@@ -30,4 +30,4 @@ Stk. 11. En brevstemme kan ikke komme i betragtning, hvis
 
 5) brevstemmen ikke er afgivet inden for de foreskrevne frister, jf. stk. 7.
 
-Stk. 12. Økonomi- og indenrigsministeren kan fastsætte nærmere regler om brevstemmematerialets indhold og udformning. Økonomi- og indenrigsministeren kan fastsætte nærmere regler om tilrettelæggelse og gennemførelse af brevstemmeafgivning og om fremgangsmåden ved afgivelse af brevstemme. Økonomi- og indenrigsministeren kan fastsætte regler om hjælpemidler, der skal stilles til rådighed ved brevstemmeafgivningen. Økonomi- og indenrigsministeren kan fastsætte regler om brevstemmeprotokollens indhold og udformning.
+Stk. 12. Indenrigs- og boligministeren kan fastsætte nærmere regler om brevstemmematerialets indhold og udformning. Indenrigs- og boligministeren kan fastsætte nærmere regler om tilrettelæggelse og gennemførelse af brevstemmeafgivning og om fremgangsmåden ved afgivelse af brevstemme. Indenrigs- og boligministeren kan fastsætte regler om hjælpemidler, der skal stilles til rådighed ved brevstemmeafgivningen. Indenrigs- og boligministeren kan fastsætte regler om brevstemmeprotokollens indhold og udformning.
