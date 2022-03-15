@@ -1,21 +1,3 @@
-1) Loven indeholder bestemmelser, der gennemfører dele af Europa-Parlamentets og Rådets direktiv 2006/48/EF af 14. juni 2006 om adgang til at optage og udøve virksomhed som kreditinstitut (omarbejdning), (EU-Tidende 2006 nr. L 177, s. 1).
+1) Loven indeholder bestemmelser, der gennemfører dele af Europa-Parlamentets og Rådets direktiv 2006/48/EF af 14. juni 2006 om adgang til at optage og udøve virksomhed som kreditinstitut (omarbejdning), EU-Tidende 2006, nr. L 177, side 1, og dele af Europa-Parlamentets og Rådets direktiv (EU) 2019/2162 af 27. november 2019 om udstedelse af dækkede obligationer og offentligt tilsyn med dækkede obligationer og om ændring af direktiv 2009/65/EF og 2014/59/EU, EU-Tidende 2019, nr. L 328, side 29.
 
-2) Lovændringen vedrører § 6, § 15 a og § 32, stk. 6 og 7.
-
-3) Lovændringen vedrører § 6, stk. 3 og 4.
-
-4) Lovændringen vedrører § 6, stk. 8, 1. pkt.
-
-5) Lovændringen vedrører § 5, stk. 3, § 10, stk. 4, § 11, stk. 4 og 6, § 33 c og § 39, stk. 2.
-
-6) Lovændringen vedrører § 42.
-
-7) Lovændringen vedrører § 5, § 33 c og § 39.
-
-8) Lovændringen vedrører § 1, § 17, § 18, §§ 20-22, § 25, §§ 27-29, § 31 og § 32.
-
-9) Lovændringen vedrører § 4 og § 7.
-
-10) Lovændringen vedrører § 37, stk. 1.
-
-11) Lovændringen vedrører § 36 a og § 36 b.
+2) Lovændringerne vedrører fodnoten til lovens titel, overskriften til kapitel 1, § 1, stk. 2, § 1 a, § 8, stk. 6, 1.-3. pkt., § 8, stk. 8, § 10, stk. 4, § 18, stk. 2, nr. 2, § 18 a, § 20, stk. 3, § 20, stk. 3, 2. pkt., § 20, stk. 4, § 21, stk. 1-4, § 21, stk. 5, § 33 a, stk. 3, § 33 a, stk. 4-6, § 33 b, stk. 1, § 33 b, stk. 3, § 33 b, stk. 4-6, § 33 f, nr. 3 og § 36 d.
