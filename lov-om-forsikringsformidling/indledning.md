@@ -1,3 +1,3 @@
 Bekendtgørelse af lov om forsikringsformidling
 
-Herved bekendtgøres lov nr. 41 af 22. januar 2018 om forsikringsformidling med de ændringer, der følger af § 7 i lov nr. 706 af 8. juni 2018, § 2 i lov nr. 552 af 7. maj 2019, § 6 i lov nr. 1374 af 13. december 2019 og § 4 i lov nr. 1563 af 27. december 2019.
+Herved bekendtgøres lov om forsikringsformidling, jf. lovbekendtgørelse nr. 378 af 2. april 2020, med de ændringer, der følger af § 6, i lov nr. 641 af 19. maj 2020, § 6 i lov nr. 1940 af 15. december 2020 og § 7 i lov nr. 2382 af 14. december 2021.
