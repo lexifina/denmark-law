@@ -6,6 +6,14 @@ Stk. 1. Loven træder i kraft den 1. januar 2018, jf. dog stk. 2-4.
 
 Stk. 2-7. (Udelades)
 
+Lov nr. 706 af 8. juni 2018 (Styrket indsats mod hvidvask m.v. i den finansielle sektor, indførelse af nye former for alternative investeringsfonde, ændring af grænsen for prospektpligt m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 24
+
+Stk. 1. Loven træder i kraft den 1. juli 2018, jf. dog stk. 2 og 3.
+
+Stk. 2-6. (Udelades)
+
 Lov nr. 1520 af 18. december 2018 (Gennemførelse af anbefalingerne fra arbejdsgruppen for eftersyn af den finansielle regulering og ændring af reglerne for udpegning af SIFI’er i Danmark m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
 
 § 13
@@ -29,3 +37,11 @@ Lov nr. 1163 af 8. juni 2021 (Øget investorbeskyttelse ved grænseoverskridende
 Stk. 1. Loven træder i kraft den 1. juli 2021, jf. dog stk. 2 og 3.
 
 Stk. 2-9. (Udelades)
+
+Lov nr. 2382 af 14. december 2021 (Supplering af taksonomiforordningen og ny model for SIFI-udpegning) indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 19
+
+Stk. 1. Loven træder i kraft den 1. januar 2022, jf. dog stk. 2.
+
+Stk. 2-8. (Udelades)
