@@ -2,7 +2,7 @@
 
 Stk. 2. Familieretshuset indbringer en sag eller afgørelse efter forældreansvarsloven for familieretten i den retskreds, hvor barnet har bopæl. Har barnet ikke bopæl her i landet, indbringes sagen for familieretten ved sagsøgtes hjemting. Har sagsøgte ikke hjemting her i landet, indbringes sagen for familieretten ved sagsøgerens hjemting.
 
-Stk. 3. Familieretshuset indbringer en sag eller afgørelse efter børneloven for familieretten i den retskreds, hvor barnets mor har hjemting. Har barnets mor ikke hjemting her i landet, indbringes sagen for familieretten i den retskreds, hvor den, der efter § 17 i børneloven er part i sagen, har hjemting. Er der flere parter, bestemmer Familieretshuset, hvilken familieret sagen skal indbringes for.
+Stk. 3. Familieretshuset indbringer en sag eller afgørelse efter børneloven for familieretten i den retskreds, hvor den, der har født barnet, har hjemting. Har den pågældende ikke hjemting her i landet, indbringes sagen for familieretten i den retskreds, hvor den, der efter § 17 i børneloven er part i sagen, har hjemting. Er der flere parter, bestemmer Familieretshuset, hvilken familieret sagen skal indbringes for.
 
 Stk. 4. Familieretshuset indbringer en sag eller afgørelse, hvor Familieretshuset er part, for familieretten ved modpartens hjemting.
 
