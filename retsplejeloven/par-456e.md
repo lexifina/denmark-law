@@ -2,7 +2,7 @@
 
 1) barnet eller dets dødsbo,
 
-2) moderen eller hendes dødsbo og
+2) den, der har født barnet, eller vedkommendes dødsbo og
 
 3) den eller de personer eller dødsboer, som familieretten efter børnelovens § 17 skal inddrage.
 
