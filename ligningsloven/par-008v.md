@@ -6,15 +6,15 @@ Stk. 2. Fradraget er betinget af,
 
 2) at arbejdet er udført vedrørende en helårsbolig, hvor den skattepligtige person har fast bopæl på tidspunktet for arbejdets udførelse, eller at arbejdet er udført vedrørende en fritidsbolig, hvor den skattepligtige person er ejer og skattepligtig efter ejendomsværdiskatteloven af fritidsboligen på tidspunktet for arbejdets udførelse,
 
-3) at arbejdet er udført af en virksomhed, der er momsregistreret i Danmark, eller ved arbejde i form af rengøring, vask, opvask, strygning, vinduespudsning, børnepasning og havearbejde tillige af en person, der ved indkomstårets udløb er fyldt 18 år og er fuldt skattepligtig til Danmark,
+3) rengøring, vask, opvask, strygning, vinduespudsning, børnepasning og havearbejde tillige af en person, der ved indkomstårets udløb er fyldt 18 år og er fuldt skattepligtig til Danmark,
 
 4) at den skattepligtige foretager indberetning af det fradragsberettigede beløb til skattemyndighederne med angivelse af, hvem der har udført arbejdet, og
 
-5) at arbejdet er udført i perioden fra og med den 1. januar 2018.
+5) at arbejdet er udført i perioden fra og med den 1. januar 2018, dog således at arbejde i form af grøn istandsættelse, tilslutning til bredbånd og installation af tyverialarm skal være udført senest den 31. marts 2022 og betalt senest den 31. maj 2022.
 
 Stk. 3. For arbejde vedrørende en fritidsbolig finder stk. 1, 2 og 4-9 tilsvarende anvendelse for ægtefællen til ejeren af en fritidsbolig, jf. stk. 2, nr. 2, under forudsætning af at ægtefællerne var gift og samlevende på det tidspunkt, hvor det fradragsberettigede arbejde blev udført.
 
-Stk. 4. Fradraget henføres til det indkomstår, hvor betalingen for arbejdet er sket. Fradraget henføres dog til det indkomstår, hvor arbejdet er udført, hvis betaling for arbejdet er sket inden for 2 måneder efter indkomstårets udløb.
+Stk. 4. Fradraget henføres til det indkomstår, hvor betalingen for arbejdet er sket. Fradraget henføres dog til det indkomstår, hvor arbejdet er udført, hvis betaling for arbejdet er sket inden for 2 måneder efter indkomstårets udløb. For personer, hvis indkomstår ikke følger kalenderåret, og hvis indkomstår 2023 begynder inden den 1. april 2022, henføres fradrag for arbejde i form af grøn istandsættelse, tilslutning til bredbånd og installation af tyverialarm udført i marts 2022 til indkomståret 2022.
 
 Stk. 5. De fradragsberettigede udgifter til serviceydelser kan årligt højst udgøre et grundbeløb på 5.400 kr. (2010-niveau) pr. person, og de samlede fradragsberettigede udgifter til grøn istandsættelse, tilslutning til bredbånd og installation af tyverialarm kan årligt højst udgøre et grundbeløb på 10.900 kr. (2010-niveau) pr. person. I indkomståret 2021 kan de fradragsberettigede udgifter til serviceydelser dog højst udgøre 25.000 kr. pr. person, og de samlede fradragsberettigede udgifter til grøn istandsættelse, tilslutning til bredbånd og installation af tyverialarm kan højst udgøre 25.000 kr. pr. person. Udgifter til serviceydelser på op til 25.000 kr., jf. 2. pkt., medregnes i indkomståret 2021 med et beløb svarende til 135 pct. af udgiften. Grundbeløbene reguleres efter personskattelovens § 20.
 
