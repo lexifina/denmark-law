@@ -1,17 +1,3 @@
-Lov nr. 523 af 6. juni 2007 (Ændringer som følge af en ny lov om forældelse af fordringer, ophævelse af købelovens reklamationsfrister ved visse køb m.v.) indeholder følgende ikrafttrædelsesbestemmelser:
-
-§ 47
-
-Loven træder i kraft den 1. januar 2008.
-
-§ 48
-
-Stk. 1. Loven finder anvendelse også på tidligere stiftede fordringer, som ikke inden ikrafttrædelsesdagen er forældet efter de hidtil gældende regler. Forældelse indtræder dog tidligst den 1. januar 2011, medmindre fordringen inden dette tidspunkt ville være forældet såvel efter de hidtil gældende bestemmelser som efter de bestemmelser, der gælder efter lovens ikrafttræden, jf. dog stk. 7. I det sidstnævnte tilfælde anvendes det seneste tidspunkt for forældelsens indtræden.
-
-Stk. 2. Afbrydelse af forældelse, der har fundet sted før lovens ikrafttræden, har fortsat virkning som afbrydelse, selv om den ikke er sket på den efter lovens ikrafttræden foreskrevne måde.
-
-Stk. 3-8. (Udelades)
-
 Lov nr. 634 af 16. juni 2014 (Bedre og mere attraktive erhvervsuddannelser m.v.) indeholder følgende ikrafttrædelses- og overgangsbestemmelser:
 
 § 10
@@ -58,7 +44,7 @@ Stk. 4. § 1, nr. 2-8, 16-18, 20-24 og 26, og § 2, nr. 3-17, træder i kraft de
 
 Stk. 5. (Udelades)
 
-Stk. 6. Regler fastsat i medfør af § 12 c, stk. 2, i lov om Arbejdsgivernes Uddannelsesbidrag, jf. lovbekendtgørelse nr. 95 af 30. januar 2017, forbliver i kraft, indtil de ophæves eller afløses af forskrifter udstedt i medfør af § 12 c, stk. 2, der bliver stk. 3, i lov om Arbejdsgivernes Uddannelsesbidrag som ændret ved denne lovs § 1, nr. 5.
+Stk. 6. (Udelades)
 
 Stk. 7. Den del af statens driftsudgifter til skolepraktik, som dækkes efter § 12 d, stk. 2, i lov om Arbejdsgivernes Uddannelsesbidrag som affattet ved denne lovs § 1, nr. 8, omfatter udgifter, der afholdes den 1. januar 2018 eller senere.
 
@@ -98,14 +84,6 @@ Stk. 3. § 15 b, stk. 2 og 3, i lov om Arbejdsgivernes Uddannelsesbidrag som aff
 
 Stk. 4-7. (Udelades)
 
-Lov nr. 170 af 6. marts 2018 (Justering af skoleydelse og indsættelse af bilag 2 til lov om Arbejdsgivernes Uddannelsesbidrag) indeholder følgende ikrafttrædelsesbestemmelse:
-
-§ 3
-
-Stk. 1. Loven træder i kraft dagen efter bekendtgørelsen i Lovtidende.
-
-Stk. 2. (Udelades)
-
 Lov nr. 745 af 8. juni 2018 (Ændringer som følge af lovgivning om forberedende grunduddannelse m.v.) indeholder følgende ikrafttrædelses- og overgangsbestemmelse:
 
 § 30
@@ -121,18 +99,6 @@ Stk. 4-12. (Udelades)
 Stk. 13. § 2, nr. 2, finder ikke anvendelse i relation til elever i erhvervsgrunduddannelse efter lov om erhvervsgrunduddannelser m.v., jf. lovbekendtgørelse nr. 738 af 20. juni 2016. I relation til disse elever finder de hidtil gældende regler anvendelse.
 
 Stk. 14-20. (Udelades)
-
-Lov nr. 1701 af 27. december 2018 (Styrket og mere fleksibel voksen-, efter- og videreuddannelse og flytning af administrationen af VEU-godtgørelsen m.v. til Arbejdsgivernes Uddannelsesbidrag) indeholder følgende ikrafttrædelsesbestemmelse:
-
-§ 14
-
-Stk. 1. Loven træder i kraft den 1. januar 2019, jf. dog stk. 2-4.
-
-Stk. 2. (Udelades)
-
-Stk. 3. Undervisningsministeren fastsætter tidspunktet for ikrafttrædelse af § 1, nr. 1, 2, 13, 15, 19, 21, 26, 30-33, 35 og 36, § 2, nr. 16, § 3, nr. 1-9, § 4 bortset fra nr. 14, jf. stk. 2, og §§ 6, 12 og 13. Ministeren kan herunder fastsætte, at bestemmelserne træder i kraft på forskellige tidspunkter. Ministeren kan i den forbindelse fastsætte overgangsregler, herunder om indfasning af prøver i arbejdsmarkedsuddannelser, personkreds m.v., om udbudsrunder, geografiske dækningsområder m.v., om flytning af administrationen af VEU-godtgørelse og befordring og tilskud til Arbejdsgivernes Uddannelsesbidrag, herunder i forhold til udgifter til godtgørelse i 2019 som følge af afløb, periodisering m.v., og om institutioners ibrugtagning af fælles informationssystemer og overgang fra tidligere systemer.
-
-Stk. 4. (Udelades)
 
 Lov nr. 1737 af 27. december 2018 (Modelparametre for erhvervsuddannelser til brug for beregning af praktikpladsafhængigt arbejdsgiverbidrag, justering af det aktivitetsafhængige VEU-bidrag, merbidragsfritagelse m.v.) indeholder følgende ikrafttrædelses- og overgangsbestemmelse:
 
@@ -174,14 +140,6 @@ Stk. 1. Lovens § 1, nr. 8, 19, 24, 27 og 29-33, og § 6 finder ikke anvendelse 
 
 Stk. 2-3. (Udelades)
 
-Lov nr. 562 af 7. maj 2019 (Videreførelse af igu-ordningen og egu-bonusordningen) indeholder følgende ikrafttrædelsesbestemmelse:
-
-§ 3
-
-Stk. 1. Loven træder i kraft den 1. juli 2019.
-
-Stk. 2. (Udelades)
-
 Lov nr. 2062 af 21. december 2020 (Praktikpladstaxametertilskud m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
 
 § 2
@@ -192,14 +150,44 @@ Stk. 2. § 12 c i lov om Arbejdsgivernes Uddannelsesbidrag som affattet ved denn
 
 Stk. 3. Regler fastsat i medfør af den gældende § 12 c, stk. 3, i lov om Arbejdsgivernes Uddannelsesbidrag, jf. lovbekendtgørelse nr. 187 af 9. marts 2020, forbliver i kraft, indtil de ophæves eller afløses af forskrifter udstedt i medfør af § 12 c, stk. 7 og 8, i lov om Arbejdsgivernes Uddannelsesbidrag som affattet ved denne lovs § 1, nr. 1.
 
-Lov nr. 2205 af 29. december 2020 (Modelparametre for erhvervsuddannelser til brug for beregning af praktikpladsafhængigt arbejdsgiverbidrag for 2021, fastholdelse af merbidragssats og justering af aktivitetsafhængigt VEU-bidrag for 2021) indeholder følgende ikrafttrædelsesbestemmelse:
+Lov nr. 2152 af 27. november 2021 (Udmøntning af trepartsaftale om flere lærepladser og entydigt ansvar) indeholder følgende ikrafttrædelses- og overgangsbestemmelser:
 
-§ 2
+§ 7
 
-Loven træder i kraft den 1. januar 2021.
+Stk. 1. Loven træder i kraft den 1. december 2021, jf. dog stk. 2-4.
 
-Lov nr. 2206 af 29. december 2020 (Justering af det praktikpladsafhængige arbejdsgiverbidrag og indførelse af fleksibelt uddannelsesbidrag) indeholder følgende ikrafttrædelsesbestemmelse:
+Stk. 2. § 1, nr. 1-24 og 26-64, § 2, nr. 1-30, §§ 12 f, 12 g og 12 h i lov om Arbejdsgivernes Uddannelsesbidrag som affattet ved denne lovs § 2, nr. 31, § 2, nr. 32-47, §§ 3-6 og § 7, stk. 4, træder i kraft den 1. januar 2022.
+
+Stk. 3. Børne- og undervisningsministeren fastsætter tidspunktet for ikrafttræden af § 1, nr. 41-44, og § 2, nr. 48. Ministeren kan fastsætte, at bestemmelserne træder i kraft på forskellige tidspunkter.
+
+Stk. 4. § 12 h i lov om Arbejdsgivernes Uddannelsesbidrag som affattet ved denne lovs § 2, nr. 31, ophæves den 1. januar 2026. Tilskudsmidler, som Arbejdsgivernes Uddannelsesbidrag ikke har disponeret over i foregående år, og uforbrugte, tilbagebetalte tilskudsmidler videreføres til udmøntning af ordningen sidste gang i finansåret 2025.
+
+§ 8
+
+Stk. 1. § 38, stk. 7, nr. 3, i lov om erhvervsuddannelser som affattet ved denne lovs § 1, nr. 25 og 26, og § 12 e i lov om Arbejdsgivernes Uddannelsesbidrag som affattet ved denne lovs § 2, nr. 31, finder anvendelse på tilskud for finansåret 2022 og senere finansår.
+
+Stk. 2-4. (Udelades)
+
+Stk. 5. § 2, nr. 25, 26 og 28, finder anvendelse på uddannelsesaftaler og aftaler om beskæftigelse i udlandet, der påbegyndes den 1. januar 2022 eller senere.
+
+Stk. 6. Tilskudsmidler hidrørende fra tekstanmærkning nr. 297 i aktstykke nr. 270 af 10. juni 2021, som Arbejdsgivernes Uddannelsesbidrag ikke har disponeret over i 2021, er omfattet af § 12 e, stk. 2, nr. 2, i lov om Arbejdsgivernes Uddannelsesbidrag som affattet ved denne lovs § 2, nr. 31.
+
+Stk. 7. Tilskudsmidler hidrørende fra tekstanmærkning nr. 296 i aktstykke nr. 266 af 10. juni 2021, som Arbejdsgivernes Uddannelsesbidrag ikke har disponeret over i 2021, er omfattet af § 12 g, stk. 2, nr. 2, i lov om Arbejdsgivernes Uddannelsesbidrag som affattet ved denne lovs § 2, nr. 31.
+
+Stk. 8. Tilskudsmidler hidrørende fra tekstanmærkning nr. 300 i aktstykke nr. 1 af 7. oktober 2021, som Arbejdsgivernes Uddannelsesbidrag ikke har disponeret over i 2021, er omfattet af § 12 h, stk. 2, nr. 2, i lov om Arbejdsgivernes Uddannelsesbidrag som affattet ved denne lovs § 2, nr. 31. Tilbagebetalte tilskudsmidler hidrørende fra tekstanmærkning nr. 300 i aktstykke nr. 1 af 7. oktober 2021 er omfattet af § 12 h, stk. 2, nr. 3, i lov om Arbejdsgivernes Uddannelsesbidrag som affattet ved denne lovs § 2, nr. 31.
+
+Stk. 9. § 12 e, stk. 7 og 11, i lov om Arbejdsgivernes Uddannelsesbidrag som affattet ved denne lovs § 2, nr. 31, finder anvendelse på den ordning, der er gennemført ved tekstanmærkning nr. 297 i aktstykke nr. 270 af 10. juni 2021.
+
+Stk. 10. § 12 f, stk. 3, i lov om Arbejdsgivernes Uddannelsesbidrag som affattet ved denne lovs § 2, nr. 31, finder anvendelse på den ordning, som er gennemført ved tekstanmærkning nr. 298 i aktstykke nr. 270 af 10. juni 2021. § 12 g, stk. 4, i lov om Arbejdsgivernes Uddannelsesbidrag som affattet ved denne lovs § 2, nr. 31, finder anvendelse på den ordning, som er gennemført ved tekstanmærkning nr. 296 i aktstykke nr. 266 af 10. juni 2021.
+
+Stk. 11-12. (Udelades)
+
+Lov nr. 2592 af 28. december 2021 (Justering af fleksibelt uddannelsesbidrag og aktivitetsafhængigt VEU-bidrag for 2022, fastsættelse af modelparametre for erhvervsuddannelser til brug for beregning af praktikpladsafhængigt arbejdsgiverbidrag for 2022 og fastholdelse af merbidragssats m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
 
 § 3
 
-Loven træder i kraft den 1. januar 2021.
+Stk. 1. Loven træder i kraft den 1. januar 2022.
+
+Stk. 2. Regler fastsat i medfør af § 14, stk. 7, i lov om Arbejdsgivernes Uddannelsesbidrag, jf. lovbekendtgørelse nr. 816 af 28. april 2021, forbliver i kraft, indtil de ophæves eller afløses af forskrifter udstedt i medfør af § 14, stk. 8, i lov om Arbejdsgivernes Uddannelsesbidrag som affattet ved denne lovs § 1, nr. 1 og 4.
+
+Stk. 3. Bekendtgørelse nr. 89 af 25. januar 2021 om udbetaling af løntilskud til private arbejdsgivere, der ansætter elever i uddannelsessporet erhvervsgrunduddannelse efter lov om forberedende grunduddannelse (egu-løntilskudsordningen) forbliver i kraft, indtil den ophæves eller afløses af forskrifter udstedt i medfør af § 14, stk. 8, i lov om Arbejdsgivernes Uddannelsesbidrag som affattet ved denne lovs § 1, nr. 1 og 4.
