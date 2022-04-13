@@ -1,6 +1,6 @@
-§ 28 a. Økonomi- og indenrigsministeren kan fastsætte regler om, at der i særlige tilfælde kan iværksættes en ekstraordinær økonomisk opfølgning i forhold til en region.
+§ 28 a. Indenrigs- og boligministeren kan fastsætte regler om, at der i særlige tilfælde kan iværksættes en ekstraordinær økonomisk opfølgning i forhold til en region.
 
-Stk. 2. Som led i den ekstraordinære opfølgning kan økonomi- og indenrigsministeren pålægge regionsrådet at:
+Stk. 2. Som led i den ekstraordinære opfølgning kan indenrigs- og boligministeren pålægge regionsrådet at:
 
 1) fastsætte bindende måltal for regionens økonomiske udvikling for en af ministeren fastsat periode og
 
