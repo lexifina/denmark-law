@@ -45,3 +45,21 @@ Lov nr 1162 af 8. juni 2021 (Indsamling af data til understøttelse af minimumsn
 Stk. 1. Loven træder i kraft den 1. juli 2021, jf. dog stk. 2.
 
 Stk. 2. § 1, nr. 2, træder i kraft den 1. januar 2024.
+
+Lov nr. 2594 af 28. december 2021 (Minimumsnormeringer i daginstitutioner og styrket tilsyn med dagtilbud m.v.) indeholder følgende ikafttrædelses- og overgangsbestemmelse:
+
+§ 2
+
+Stk. 1. Loven træder i kraft den 1. januar 2022, jf. dog stk. 2.
+
+Stk. 2. § 1, nr. 3, træder i kraft den 1. januar 2024.
+
+Stk. 3. Kommunerne skal senest overholde kravene i § 1, nr. 1 og 2, den 1. maj 2022.
+
+Stk. 4. Loven finder først anvendelse for Helsingør Kommune og Rebild Kommune den 1. oktober 2024. Indtil den 30. september 2024 finder de hidtil gældende regler anvendelse for disse kommuner.
+
+Lov nr. 324 af 16. marts 2022 om midlertidig opholdstilladelse til personer, der er fordrevet fra Ukraine indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 32. Loven træder i kraft ved bekendtgørelsen i Lovtidende.
+
+Stk. 2. (Udelades)
