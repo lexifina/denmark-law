@@ -490,7 +490,7 @@ Lov nr. 1526 af 18. december 2018 (Karantæneordning i ydelsessystemet for bande
 
 § 12
 
-Stk. 1 Loven træder i kraft den 1. januar 2019.
+Stk. 1. Loven træder i kraft den 1. januar 2019.
 
 Stk. 2. Loven finder ikke anvendelse for domme efter straffelovens § 81 a, der vedrører forhold begået inden lovens ikrafttræden.
 
@@ -684,7 +684,7 @@ Stk. 5. Den årlige beretning, jf. § 9, stk. 2, og Seniorpensionsenhedens årsr
 
 Stk. 6. Seniorpensionsenheden udmelder et skøn over administrationsbidrag og de endelige administrationsbidrag for 2021, jf. § 15, hurtigst muligt.
 
-§ 20 og 21. (Udelades)
+§§ 20 og 21. (Udelades)
 
 § 22. Loven gælder ikke for Færøerne og Grønland.
 
@@ -797,3 +797,65 @@ Stk. 1. Loven træder i kraft den 1. januar 2021, jf. dog stk. 2.
 Stk. 2. § 4, nr. 2, træder i kraft den 1. maj 2021.
 
 Stk. 3. § 6, nr. 1-3, har virkning for ejerskifter, der er anmeldt til tinglysning fra og med den 1. januar 2021.
+
+Lov nr. 707 af 26. april 2021 (Ret til at få fratrukket merindtægt som følge af arbejde relateret til covid-19 ved indtægtsregulering af folke-, senior- og førtidspension m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 3
+
+Loven træder i kraft den 27. april 2021.
+
+Lov nr. 876 af 12. maj 2021 om kontant og skattefri udbetaling af efterlønsbidrag og fleksydelsesbidrag i 2022 indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 9. Loven træder i kraft den 1. juli 2021.
+
+Lov nr. 1160 af 8. juni 2021 (Bedre ressourceforløb m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 6
+
+Stk. 1. Loven træder i kraft den 1. juli 2021, jf. dog stk. 2.
+
+Stk. 2. §§ 1 og 2 og § 3, nr. 2, træder i kraft den 1. januar 2022.
+
+§ 7
+
+(Udelades)
+
+Lov nr. 1171 af 8. juni 2021 (Nedsættelse af visse offentlige ydelser ved tiltaltes udeblivelse uden dokumenteret lovligt forfald) indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 6
+
+Loven træder i kraft den 1. juli 2021.
+
+§ 7
+
+(Udelades)
+
+Lov nr. 2046 af 14. november 2021 (Særlig adgang til oplysninger fra Rigsarkivet for ansøgere af tidlig pension m.v.) indeholder følgende ikrafttrædelses- og overgangsbestemmelse:
+
+§ 2
+
+Stk. 1. Loven træder i kraft den 15. november 2021.
+
+Stk. 2. Anmodning om oplysninger til brug for en ansøgning om tidlig pension efter arkivlovens §§ 39 a og 39 b om ret til indsigt i egne oplysninger, som er indgivet i perioden fra den 1. august 2021 og indtil lovens ikrafttræden, og som ikke er færdigbehandlet, behandles efter § 26 p, stk. 1 og 2, i lov om social pension som affattet ved denne lovs § 1, nr. 2.
+
+Lov nr. 2587 af 28. december 2021 (Forlængelse af midlertidig ordning om ret til at få fratrukket merindtægt som følge af arbejde relateret til covid-19 ved indtægtsregulering af folke-, senior- og førtidspension m.v. og fritagelse for fradrag i efterløn for merindtægt fra arbejde relateret til covid-19) indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 4
+
+Loven træder i kraft den 1. januar 2022.
+
+§ 5
+
+(Udelades)
+
+Lov nr. 452 af 20. april 2022 (Initiativer til beskyttelse af børn imod vold og negativ social kontrol, indførelse af regler om fleksibel udbetaling af hjælp til repatriering og hjemrejsestøtte m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 16
+
+Stk. 1. Loven træder i kraft den 1. maj 2022, jf. dog stk. 2.
+
+Stk. 2 og 3. (Udelades)
+
+Stk. 4. § 3, nr. 1-3, § 4, nr. 3, og §§ 5-11 finder ikke anvendelse for domme for overtrædelser af straffelovens § 244, stk. 2, der vedrører forhold begået inden lovens ikrafttræden.
+
+Stk. 5-8. (Udelades)
