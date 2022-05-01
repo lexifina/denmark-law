@@ -1,4 +1,4 @@
-§ 52 c. Udlændinge- og Integrationsministeriet stiller sekretariatsbistand til rådighed for Udlændingenævnet.
+§ 52 c. Hjemrejsestyrelsen, dog Udlændingestyrelsen, hvis Hjemrejsestyrelsen har truffet afgørelse i 1. instans, stiller sekretariatsbistand til rådighed for Udlændingenævnet.
 
 Stk. 2. Sekretariatet forbereder Udlændingenævnets behandling af klager.
 
