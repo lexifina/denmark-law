@@ -1,0 +1,1 @@
+§ 8 a. Udlændinge- og integrationsministeren fastsætter nærmere regler om, at hjemrejsestøtte, jf. § 8, stk. 2, nr. 2-4, kan udbetales på særlig vis, hvis udbetalingen af ydelserne til det land, som udlændingen udrejser til, i væsentlig grad er vanskeliggjort af udfordringer med finansielle transaktioner til det pågældende land fra danske pengeinstitutter.
