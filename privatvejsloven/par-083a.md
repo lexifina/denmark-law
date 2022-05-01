@@ -1,0 +1,1 @@
+§ 83 a. Kommunalbestyrelsen kan indgå aftale med grundejerne langs en vejstrækning om, at kommunen udfører de vintervedligeholdelses- og renholdelsesopgaver, der skal udføres efter § 79, stk. 1, for grundejernes regning.
