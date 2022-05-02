@@ -31,3 +31,13 @@ Stk. 1. Loven træder i kraft den 1. april 2020, jf. dog stk. 4.
 Stk. 2-3. (Udelades)
 
 Stk. 4. Børne- og undervisningsministeren fastsætter tidspunktet for ikrafttræden af § 3, nr. 2.
+
+Lov nr. 2152 af 27. november 2021 (Udmøntning af trepartsaftale om flere lærepladser og entydigt ansvar) indeholder følgende ikrafttrædelsesbestemmelser:
+
+§ 7
+
+Stk. 1. Loven træder i kraft den 1. december 2021, jf. dog stk. 2-4.
+
+Stk. 2. § 1, nr. 1-24 og 26-64, § 2, nr. 1-30, §§ 12 f, 12 g og 12 h i lov om Arbejdsgivernes Uddannelsesbidrag som affattet ved denne lovs § 2, nr. 31, § 2, nr. 32-47, §§ 3-6 og § 7, stk. 4, træder i kraft den 1. januar 2022.
+
+Stk. 3-4. (Udelades)
