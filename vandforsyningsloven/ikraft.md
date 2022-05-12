@@ -1,55 +1,3 @@
-Lov nr. 358 af 6. juni 1991 om miljøbeskyttelse indeholder følgende ikrafttrædelsesbestemmelse:
-
-§ 112. Loven træder i kraft den 1. januar 1992. § 53 træder dog i kraft dagen efter bekendtgørelsen i Lovtidende.
-
-Lov nr. 388 af 20. maj 1992 om ændring af lov om betalingsregler for spildevandsanlæg m.v. indeholder følgende ikrafttrædelsesbestemmelse:
-
-§ 3
-
-Loven træder i kraft den 1. juli 1992 og finder anvendelse på alle betalingsvedtægter fra den 1. januar 1993.
-
-Lov nr. 402 af 14. juni 1995 om ændring af vandløbsloven og vandforsyningsloven indeholder følgende ikrafttrædelsesbestemmelse:
-
-§ 3
-
-Loven træder i kraft den 1. juli 1995.
-
-Lov nr. 430 af 10. juni 1997 (Etablering af direkte kundeforhold mellem forbruger og vandforsyning) indeholder følgende ikrafttrædelsesbestemmelse:
-
-§ 2
-
-Loven træder i kraft dagen efter bekendtgørelse i Lovtidende.
-
-Lov nr. 479 af 1. juli 1998 (Beskyttelse af drikkevandsressourcer og vandforsyning) indeholder følgende ikrafttrædelsesbestemmelse:
-
-§ 4
-
-Loven træder i kraft den 1. august 1998.
-
-Lov nr. 1025 af 23. december 1998 (Gebyrer) indeholder følgende ikrafttrædelsesbestemmelse:
-
-§ 2
-
-Loven træder i kraft den 1. februar 1999.
-
-Lov nr. 355 af 2. juni 1999 om ændring af forskellige love som følge af oprettelsen af Hovedstadens Udviklingsråd indeholder følgende ikrafttrædelses- og overgangsbestemmelse:
-
-§ 13
-
-Stk. 1. Loven træder i kraft den 1. juli 2000, § 6 dog først den 1. juli 2002.
-
-Stk. 2. Ved det første valg af medlemmer til Hovedstadens Udviklingsråd anvendes samme gruppeanmeldelse, som blev foretaget ved valg til økonomiudvalg og stående udvalg ved konstitueringen efter det senest afholdte kommunalvalg, jf. § 24, stk. 3, i lov om kommunernes styrelse.
-
-Stk. 3. Regionplaner i hovedstadsområdet, der er tilvejebragt af de hidtidige regionplanmyndigheder i området, opretholdes, indtil de ændres.
-
-Stk. 4. Regionplanforslag i hovedstadsområdet, der ikke er endeligt vedtaget den 1. juli 2000, og de den 1. juli 2000 uafsluttede sager inden for sagsområder, som overgår til Hovedstadens Udviklingsråd, færdigbehandles af Hovedstadens Udviklingsråd.
-
-Lov nr. 374 af 2. juni 1999 (Gebyrgrænse) indeholder følgende ikrafttrædelsesbestemmelse:
-
-§ 2
-
-Loven træder i kraft den 1. juli 1999.
-
 Lov nr. 1273 af 20. december 2000 (Gennemførelse af drikkevandsdirektivet m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
 
 § 2
@@ -90,7 +38,9 @@ Stk. 6. Regler, der er udstedt i medfør af de bemyndigelser, der ophæves eller
 
 Lov nr. 435 af 9. juni 2004 om landbrugsejendomme indeholder følgende ikrafttrædelsesbestemmelse:
 
-§ 51. Loven træder i kraft den 1. september 2004.
+§ 51
+
+Loven træder i kraft den 1. september 2004.
 
 Lov nr. 1373 af 20. december 2004 (Ændring af håndhævelsesbestemmelser m.v., herunder som opfølgning på lov om retssikkerhed ved forvaltningens anvendelse af tvangsindgreb og oplysningspligter) indeholder følgende ikrafttrædelsesbestemmelse:
 
@@ -164,7 +114,7 @@ Stk. 1. Loven træder i kraft den 1. januar 2007, jf. dog stk. 2.
 
 Stk. 2. Kommunalbestyrelsen kan indtil den 31. december 2007 fortsat overlade varetagelsen af opgaver efter lovens § 1, nr. 4, § 3, nr. 2, og § 5, nr. 4, som før 1. januar 2007 hørte under kommunalbestyrelsen, til et kommunalt fællesskab i overensstemmelse med de hidtil gældende regler.
 
-Lov nr. 172 af 12. marts 2008 om ændring af forskellige love på Miljøministeriets område m.v. indeholder følgende ikrafttrædelsesbestemmelse:
+Lov nr. 172 af 12. marts 2008 (Undtagelse fra indførelse i Lovtidende af tekniske specifikationer m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
 
 § 6
 
@@ -192,7 +142,7 @@ Stk. 1. Loven træder i kraft den 1. januar 2009, jf. dog stk. 2. § 11 finder a
 
 Stk. 2. (Udelades)
 
-Lov nr. 1402 af 27. december 2008 (Regulering af afgift til drikkevandsbeskyttelse m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
+Lov nr. 1402 af 27. december 2008 (Regulering af afgift til drikkevandsbeskyttelse m.v.) indeholder følgende ikrafttrædelses- og overgangsbestemmelse:
 
 § 3
 
@@ -282,7 +232,7 @@ Stk. 1. Loven træder i kraft den 15. juli 2011.
 
 Stk. 2. (Udelades)
 
-Lov nr. 1273 af 21. december 2011 om ændring af lov om miljøbeskyttelse, lov om planlægning og forskellige andre love indeholder følgende ikrafttrædelsesbestemmelse:
+Lov nr. 1273 af 21. december 2011 (Digital annoncering, obligatorisk digital kommunikation, afskæring af klageadgang) indeholder følgende ikrafttrædelsesbestemmelse:
 
 § 20
 
@@ -294,7 +244,7 @@ Lov nr. 1384 af 28. december 2011 (Regulering af de løbende bilafgifter og andr
 
 Stk. 1. Loven træder i kraft den 1. januar 2012.
 
-Stk. 2-21. (Udelades)
+Stk. 2-18. (Udelades)
 
 Lov nr. 580 af 18. juni 2012 (Reform af klagesystemet på natur- og miljøområdet m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
 
@@ -308,7 +258,7 @@ Stk. 3. Loven finder anvendelse på afgørelser truffet i 1. instans efter loven
 
 Stk. 4. (Udelades)
 
-Lov nr. 492 af 21. maj 2013 om ændring af vandforsyning m.v., lov om vandløb og lov om forpligtende kommunale samarbejder og om ophævelse af lov om et kvalitetsstyringssystem for den kommunale sagsbehandling på natur- og miljøområdet indeholder følgende ikrafttrædelsesbestemmelse:
+Lov nr. 492 af 21. maj 2013 (Forenklet indberetning af tilsynsresultater angående vandforsyningsanlæg, brugerbetaling ved administration af offentlige pumpelag og ophævelse af kvalitetsstyringsloven m.v.) indeholder følgende ikrafttrædelses- og overgangsbestemmelse:
 
 § 5
 
@@ -316,7 +266,7 @@ Stk. 1. Loven træder i kraft den 1. juni 2013.
 
 Stk. 2. Vandløbsmyndigheden kan bestemme, at § 42 a i lov om vandløb som affattet ved denne lovs § 2, nr. 2, skal finde anvendelse på udgifter, som vandløbsmyndigheden har afholdt før loven ikrafttræden, hvis udgifterne vedrører forhold, begivenheder m.v., der finder sted efter lovens ikrafttræden.
 
-Lov nr. 1631 af 26. december 2013 (Konsekvensændringer som følge af lov om vandplanlægning) indeholder følgende ikrafttrædelsesbestemmelse:
+Lov nr. 1631 af 26. december 2013 (Konsekvensændringer som følge af lov om vandplanlægning) indeholder følgende ikrafttrædelses- og overgangsbestemmelse:
 
 § 17
 
@@ -338,7 +288,9 @@ Stk. 3. Loven finder ikke anvendelse for klager over afgørelser, der træffes, 
 
 Lov nr. 1520 af 27. december 2014 om offentlige veje m.v. indeholder følgende ikrafttrædelsesbestemmelse:
 
-§ 139. Loven træder i kraft den 1. juli 2015, jf. dog stk. 2.
+§ 139
+
+Stk. 1. Loven træder i kraft den 1. juli 2015, jf. dog stk. 2.
 
 Stk. 2. (Udelades)
 
@@ -360,7 +312,9 @@ Stk. 2-3. (Udelades)
 
 Lov nr. 1715 af 27. december 2016 om Miljø- og Fødevareklagenævnet indeholder følgende ikrafttrædelses- og overgangsbestemmelse:
 
-§ 24. Loven træder i kraft den 1. februar 2017.
+§ 24
+
+Stk. 1. Loven træder i kraft den 1. februar 2017.
 
 Stk. 2. (Udelades)
 
@@ -393,3 +347,33 @@ Lov nr. 1419 af 17. december 2019 (Obligatorisk kommunal vurdering af boringsnæ
 § 2
 
 Loven træder i kraft den 1. januar 2020.
+
+Lov nr. 2210 af 29. december 2020 (Spildevandsforsyningsselskabers klimatilpasning, vandselskabernes foreninger til fremme af vandsektorens effektivitet og kvalitet m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 6
+
+Stk. 1. Loven træder i kraft den 1. januar 2021.
+
+Stk. 2. (Udelades)
+
+Stk. 3. (Udelades)
+
+Stk. 4. (Udelades)
+
+Lov nr. 126 af 30. januar 2021 (Ændring af handlepligten for den ansvarlige for en miljøskade, indførelse af godtgørelsesordning samt ændring af definitionen af arter og naturtyper) indeholder følgende ikrafttrædelses- og overgangsbestemmelse:
+
+§ 15
+
+Stk. 1. Loven træder i kraft den 1. februar 2021.
+
+Stk. 2. Loven finder ikke anvendelse på miljøskader eller overhængende fare for en miljøskade, der er forvoldt ved en emission eller begivenhed, der finder sted før lovens ikrafttræden. For sådanne miljøskader eller overhængende fare herfor finder de hidtil gældende regler anvendelse.
+
+Lov nr. 127 af 30. januar 2021 (Forhøjelse af vandafgiften og ophævelse af bestemmelser om drikkevandsbidraget) indeholder følgende ikrafttrædelses- og overgangsbestemmelse:
+
+§ 3
+
+Stk. 1. Loven træder i kraft den 1. februar 2021.
+
+Stk. 2. (Udelades)
+
+Stk. 3. For løbende leverancer, for hvilke afregningsperioden påbegyndes inden lovens ikrafttrædelsestidspunkt og afsluttes efter dette tidspunkt, beregnes den ændrede afgift af så stor en del af leverancen, som tidsrummet fra lovens ikrafttrædelsestidspunkt til afregningsperiodens afslutning udgør i forhold til den samlede afregningsperiode.
