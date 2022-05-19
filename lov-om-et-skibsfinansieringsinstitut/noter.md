@@ -1,5 +1,3 @@
-1) Loven indeholder bestemmelser, der gennemfører dele af Europa-Parlamentets og Rådets direktiv 2006/48/EF af 14. juni 2006 om adgang til at optage og udøve virksomhed som kreditinstitut (omarbejdning), (EU-Tidende 2006 nr. L 177, s. 1).
+1) Loven indeholder bestemmelser, der gennemfører dele af Europa-Parlamentets og Rådets direktiv 2006/48/EF af 14. juni 2006 om adgang til at optage og udøve virksomhed som kreditinstitut (omarbejdning), EU-Tidende 2006, nr. L 177, side 1, og dele af Europa-Parlamentets og Rådets direktiv (EU) 2019/2162 af 27. november 2019 om udstedelse af dækkede obligationer og offentligt tilsyn med dækkede obligationer og om ændring af direktiv 2009/65/EF og 2014/59/EU, EU-Tidende 2019, nr. L 328, side 29.
 
-1) Lovændringen vedrører § 3 a, stk. 2.
-
-2) Lovændringen vedrører § 5 a, stk. 3, og § 5 b.
+2) Lovændringerne vedrører fodnoten til lovens titel, § 1 b, § 2 a, 2. pkt., § 2 a, stk. 2-4, § 2 d, stk. 2, § 2 d, stk. 3 og 4, § 2 e, stk. 2 og 3, § 5, stk. 1, nr. 9, § 5, stk. 1, nr. 10, § 5, stk. 1, nr. 11, § 5, stk. 3, nr. 6 og § 5, stk. 3, nr. 7.
