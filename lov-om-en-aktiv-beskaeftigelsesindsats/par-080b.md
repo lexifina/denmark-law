@@ -1,0 +1,1 @@
+§ 80 b. Ved aftaler om ansættelse med løntilskud efter § 80 a skal jobcenteret alene påse, at betingelserne i § 80 a, stk. 1-3, og regler herom fastsat i medfør af § 81 er opfyldt. § 53 om de overordnede betingelser for tilbud og § 67 om formålet med tilbud om ansættelsen med løntilskud finder ikke anvendelse for tilbud efter § 80 a.
