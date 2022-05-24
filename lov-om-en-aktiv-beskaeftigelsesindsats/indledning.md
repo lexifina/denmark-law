@@ -1,5 +1,3 @@
-Lov om en aktiv beskæftigelsesindsats
+Bekendtgørelse af lov om en aktiv beskæftigelsesindsats
 
-VI MARGRETHE DEN ANDEN, af Guds Nåde Danmarks Dronning, gør vitterligt:
-
-Folketinget har vedtaget og Vi ved Vort samtykke stadfæstet følgende lov:
+Herved bekendtgøres lov nr. 548 af 7. maj 2019 om en aktiv beskæftigelsesindsats med de ændringer, der følger af lov nr. 1556 af 27. december 2019, § 1 i lov nr. 1557 af 27. december 2019, § 2 i lov nr. 1559 af 27. december 2019, § 3 i lov nr. 1574 af 27. december 2019, § 9 i lov nr. 1583 af 27. december 2019, § 2 i lov nr. 525 af 27. april 2020, § 1 i lov nr. 1051 af 30. juni 2020, § 1 i lov nr. 1054 af 30. juni 2020, § 4 i lov nr. 2189 af 29. december 2020, § 1 i lov nr. 2201 af 29. december 2020, § 6 i lov nr. 2202 af 29. december 2020, § 1 i lov nr. 466 af 20. marts 2021, § 4 i lov nr. 467 af 20. marts 2021, § 1 i lov nr. 1160 af 8. juni 2021, § 5 i lov nr. 1171 af 8. juni 2021, § 1 i lov nr. 1238 af 11. juni 2021, lov nr. 1437 af 29. juni 2021, § 6 i lov nr. 2152 af 27. november 2021, § 1 i lov nr. 2588 af 28. december 2021, § 1 i lov nr. 2589 af 28. december 2021, § 1 i lov nr. 2590 af 28. december 2021, lov nr. 370 af 28. marts 2022 og § 6 i lov nr. 452 af 20. april 2022.
