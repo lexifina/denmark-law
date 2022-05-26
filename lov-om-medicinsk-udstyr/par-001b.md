@@ -1,1 +1,1 @@
-§ 1 b. Sundheds- og ældreministeren kan fastsætte regler om, at importører og distributører af medicinsk udstyr skal opbevare en kopi af fakturaer vedrørende medicinsk udstyr, som de pågældende har solgt og leveret til det danske marked, og at Lægemiddelstyrelsen kan kræve at få udleveret kopi af fakturaerne som led i markedsovervågning af medicinsk udstyr.
+§ 1 b. (Ophævet)
