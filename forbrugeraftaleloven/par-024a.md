@@ -1,0 +1,1 @@
+§ 24 a. Ved tilbagetræden fra en aftale om levering af digitalt indhold eller en digital tjeneste skal forbrugeren afholde sig fra at anvende det digitale indhold eller den digitale tjeneste og fra at stille det eller den til rådighed for tredjemand.
