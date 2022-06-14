@@ -1,1 +1,3 @@
 § 6 a. Vurderingsankenævnet henviser klager omfattet af § 6 til afgørelse i Landsskatteretten, hvis klagen i overvejende grad angår retlige spørgsmål, og hvis der ikke tidligere hverken i domstolspraksis eller i Landsskatteretspraksis er taget stilling til det pågældende lovfortolkningsspørgsmål eller der er grundlag for at foretage en fornyet prøvelse af det pågældende lovfortolkningsspørgsmål. Vurderingsankenævnet kan tillige henvise klager omfattet af § 6 til afgørelse i Landsskatteretten, hvis der foreligger ganske særlige omstændigheder.
+
+Stk. 2. Formanden for vurderingsankenævnet eller en ansat i skatteankeforvaltningen, jf. § 10 a, stk. 2, kan på vegne af vurderingsankenævnet henvise en klage til Landsskatteretten efter stk. 1.
