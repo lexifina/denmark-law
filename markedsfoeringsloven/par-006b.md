@@ -1,0 +1,1 @@
+§ 6 b. En erhvervsdrivende, der giver adgang til brugeranmeldelser af produkter, skal på en klar og forståelig måde oplyse, hvorvidt og i givet fald hvordan den erhvervsdrivende sikrer, at de offentliggjorte anmeldelser stammer fra forbrugere, der faktisk har anvendt eller købt produkterne.
