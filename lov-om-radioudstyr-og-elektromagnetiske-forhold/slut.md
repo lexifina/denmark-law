@@ -1,7 +1,5 @@
-Givet på Christiansborg Slot, den 16. marts 2016
+Styrelsen for Dataforsyning og Infrastruktur, den 22. juni 2022
 
-Under Vor Kongelige Hånd og Segl
+Kristian Møller
 
-MARGRETHE R.
-
-/ Lars Christian Lilleholt
+/ Maria Schmidt Jensen
