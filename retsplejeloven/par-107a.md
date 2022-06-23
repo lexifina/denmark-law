@@ -1,0 +1,1 @@
+§ 107 a. Danske myndigheder og domstole kan behandle anmodninger om retshjælp fra og fremsende anmodninger om retshjælp til Den Europæiske Anklagemyndighed (EPPO) efter almindelige regler om staters gensidige retshjælp i straffesager. Justitsministeren kan fastsætte nærmere regler herom.
