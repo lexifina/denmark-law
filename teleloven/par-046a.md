@@ -1,0 +1,1 @@
+§ 46 a. Træffer Europa-Kommissionen afgørelse om at pålægge en maksimal termineringstakst for taleopkald i mobilnet eller fastnet eller begge, kan Erhvervsstyrelsen ikke fastsætte andre priser i henhold til en forpligtelse vedrørende priskontrol, jf. § 46.
