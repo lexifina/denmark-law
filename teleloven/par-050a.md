@@ -1,0 +1,1 @@
+§ 50 a. Klima-, energi- og forsyningsministeren kan fastsætte nærmere regler om Styrelsen for Dataforsyning og Infrastrukturs tilsyn med overholdelse af reglerne i §§ 48-50, regler og vilkår udstedt i medfør heraf og regler om tvistbilæggelse i forbindelse med digitale radio- og tv-tjenester.

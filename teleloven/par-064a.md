@@ -1,3 +1,1 @@
-§ 64 a. Forsvarsministeriet fører tilsyn med overholdelsen af regler fastsat i medfør af § 62. Forsvarsministeren kan fastsætte nærmere regler om udførelse af tilsynet, herunder om oplysningspligt og pligt til indsendelse af materiale til brug for tilsynet.
-
-Stk. 2. Forsvarsministeriet kan træffe afgørelse over for udbydere af elektroniske kommunikationsnet eller -tjenester og ejere af elektroniske kommunikationsnet, som er tilsluttet offentlige elektroniske kommunikationsnet eller -tjenester, om overholdelse af § 63, stk. 2, 3 og 5, og regler fastsat i medfør af stk. 1 og § 62. Afgørelser om overholdelse af regler fastsat i medfør af § 62, stk. 2, kan omfatte anvisning om konkrete sikringstiltag.
+§ 64 a. (Ophævet)
