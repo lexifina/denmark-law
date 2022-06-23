@@ -1,5 +1,3 @@
-Lov om radioudstyr og elektromagnetiske forhold
+Bekendtgørelse af lov om radioudstyr og elektromagnetiske forhold
 
-VI MARGRETHE DEN ANDEN, af Guds Nåde Danmarks Dronning, gør vitterligt:
-
-Folketinget har vedtaget og Vi ved Vort samtykke stadfæstet følgende lov:
+Herved bekendtgøres lov nr. 260 af 16. marts 2016 om radioudstyr og elektromagnetiske forhold med de ændringer, der følger af § 3 i lov nr. 1176 af 8. juni 2021.
