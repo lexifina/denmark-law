@@ -1,1 +1,3 @@
 § 119 b. Den, der med genstande angriber nogen af de i § 119 nævnte personer, straffes med bøde eller fængsel indtil 8 år. Ved fastsættelse af straffen skal det indgå som en skærpende omstændighed, at forholdet er begået, mens eller i umiddelbar forlængelse af at der i området foregår grov forstyrrelse af ro og orden på offentligt sted, eller at forholdet er begået mod den pågældende i dennes fritid.
+
+Stk. 2. Øves der vold, der er omfattet af stk. 1, mod en person, der er ansat i en af kriminalforsorgens institutioner, kan straffen forhøjes indtil det dobbelte.
