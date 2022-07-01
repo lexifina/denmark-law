@@ -1,0 +1,7 @@
+§ 24 b. Erstatnings- og godtgørelsesbeløb efter § 3, § 4, stk. 1, § 6, stk. 2, § 8, § 13, stk. 1, 2. pkt., og § 14 a i lov om erstatningsansvar, der tilkendes efter reglerne i kapitel 3-4 a, reguleres efter reglerne i § 15, stk. 1, i lov om erstatningsansvar og fastsættes på grundlag af de regulerede beløb, der er gældende på afgørelsestidspunktet.
+
+Stk. 2. Årslønnen efter § 7 i lov om erstatningsansvar og erstatningen efter § 14 i lov om erstatningsansvar, der tilkendes efter reglerne i kapitel 3-4 a, reguleres efter reglerne i § 15, stk. 1, i lov om erstatningsansvar i perioden mellem skadens indtræden og afgørelsestidspunktet.
+
+Stk. 3. Erstatnings- og godtgørelsesbeløb efter §§ 1, 2 og 12 i lov om erstatningsansvar, der tilkendes efter reglerne i kapitel 3-4 a, reguleres efter reglerne i § 15, stk. 1, 1. pkt., i lov om erstatningsansvar og fastsættes på grundlag af de regulerede beløb, der er gældende på afgørelsestidspunktet. Det regulerede beløb afrundes til nærmeste med 5 delelige kronebeløb.
+
+Stk. 4. Godtgørelse efter § 24 a fastsættes på baggrund af det beløb, der efter § 24 a, stk. 4, er gældende på afgørelsestidspunktet.
