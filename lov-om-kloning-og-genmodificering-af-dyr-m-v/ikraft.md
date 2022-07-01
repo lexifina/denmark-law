@@ -13,3 +13,11 @@ Lov nr. 1459 af 17. december 2013 (Obligatorisk digital kommunikation, ændring 
 Stk. 1. Loven træder i kraft den 1. januar 2014.
 
 Stk. 2. Administrative forskrifter, der er udstedt i medfør af de hidtidige bestemmelser vedbliver at være i kraft, indtil de ændres eller ophæves.
+
+Lov nr. 571 af 10. maj 2022 (Supplerende implementering af dyreforsøgsdirektivet) indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 3
+
+Stk. 1. Loven træder i kraft den 1. juli 2022.
+
+Stk. 2. (Udelades)

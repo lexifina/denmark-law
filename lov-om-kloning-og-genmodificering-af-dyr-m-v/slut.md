@@ -1,5 +1,5 @@
-Ministeriet for Fødevarer, Landbrug og Fiskeri, den 15. maj 2014
+Fødevarestyrelsen, den 1. juli 2022
 
-Dan Jørgensen
+Nikolaj Veje
 
-/ Birthe Schubart
+/ Birthe Schubart Haabegaard
