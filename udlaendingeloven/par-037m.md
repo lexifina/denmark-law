@@ -1,0 +1,1 @@
+§ 37 m. Udlændinge- og integrationsministeren kan fastsætte regler om, at perioden på 2 år, der er nævnt i § 9, stk. 1, nr. 1, litra d, nr. 2, litra d, og nr. 3, litra d, forlænges til 3 år i tilfælde af massetilstrømning af asylansøgere til Danmark.
