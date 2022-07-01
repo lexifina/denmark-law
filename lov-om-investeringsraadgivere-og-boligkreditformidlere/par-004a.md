@@ -1,4 +1,4 @@
-§ 4 a. Finanstilsynet opretter og fører et offentligt register over finansielle rådgivere, investeringsrådgivere og boligkreditformidlere.
+§ 4 a. Finanstilsynet opretter og fører et offentligt register over finansielle rådgivere, investeringsrådgivere og boligkreditformidlere. Registeret skal være tilgængeligt online og løbende ajourføres.
 
 Stk. 2. Registeret, jf. stk. 1, skal indeholde følgende oplysninger:
 
