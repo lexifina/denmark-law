@@ -1,0 +1,1 @@
+§ 24 c. Udbetales erstatning og godtgørelse senere end 5 uger efter tidspunktet for afgørelsen om tilkendelse af erstatning og godtgørelse, forrentes beløbet fra afgørelsestidspunktet, til betaling sker med en årlig rente svarende til renten i henhold til rentelovens § 5.
