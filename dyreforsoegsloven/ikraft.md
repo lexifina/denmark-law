@@ -24,7 +24,7 @@ Lov nr. 612 af 14. juni 2011 (Gennemførelse af nyt dyreforsøgsdirektiv m.v.) i
 
 § 3
 
-Stk. 1. Stk. 1. Loven træder i kraft den 1. januar 2013.
+Stk. 1. Loven træder i kraft den 1. januar 2013.
 
 Stk. 2. (Udelades)
 
@@ -35,3 +35,11 @@ Lov nr. 1459 af 17. december 2013 (Obligatorisk digital kommunikation, ændring 
 Stk. 1. Loven træder i kraft den 1. januar 2014.
 
 Stk. 2. (Udelades)
+
+Lov nr. 571 af 10. maj 2022 (Supplerende implementering af dyreforsøgsdirektivet) indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 3
+
+Stk. 1. Loven træder i kraft den 1. juli 2022.
+
+Stk. 2. § 1 c i lov om dyreforsøg som affattet ved denne lovs § 1, nr. 6, finder anvendelse fra den 1. juli 2023.
