@@ -2,7 +2,7 @@
 
 Stk. 2. Ved opholdsforbud efter stk. 1 forstås et forbud mod at færdes og opholde sig i et eller flere nærmere afgrænsede områder, hvor der er en særlig risiko for, at den dømte enten vil blive fastholdt eller falde tilbage i et radikaliseret miljø eller vil kunne påvirke radikaliseringsudsatte personer i en negativ retning.
 
-Stk. 3. Ved kontaktforbud forstås et forbud mod at søge at kontakte personer, der er dømt for en eller flere af de overtrædelser, der er nævnt i stk. 1. Kontaktforbud omfatter dog ikke nærmeste familiemedlemmer, i det omfang det ville stride mod Danmarks internationale forpligtelser.
+Stk. 3. Ved kontaktforbud forstås et forbud mod at søge at kontakte personer, der er dømt for en eller flere af de overtrædelser, der er nævnt i stk. 1. Kontaktforbud omfatter dog ikke nærmeste familiemedlemmer, i det omfang det ville stride mod Danmarks internationale forpligtelser. Kontaktforbud omfatter endvidere ikke andre indsatte, som den, der har et kontaktforbud, er placeret på afdeling med under afsoning af en frihedsstraf, imens de opholder sig i en af kriminalforsorgens institutioner.
 
 Stk. 4. Politiet kan meddele tilladelse til færden eller ophold i et område omfattet af et opholdsforbud efter stk. 1, jf. stk. 2, og til kontakt med en person omfattet af et kontaktforbud efter stk. 1, jf. stk. 3, hvis det af særlige grunde må anses for beføjet.
 
