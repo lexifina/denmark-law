@@ -1,3 +1,3 @@
-§ 4 a. Told- og skatteforvaltningen kan give den afgiftspligtige et påbud om at efterleve de i § 2, stk. 1 og 2, fastsatte bestemmelser. Told- og skatteforvaltningen kan pålægge den afgiftspligtige daglige bøder efter § 18 a, indtil påbuddet efterleves.
+§ 4 a. Told- og skatteforvaltningen kan give virksomheden et påbud om at efterleve de i § 2, stk. 1 og 2, fastsatte bestemmelser. Told- og skatteforvaltningen kan pålægge ejeren af virksomheden eller den ansvarlige daglige ledelse heraf daglige bøder efter § 18 a, indtil påbuddet efterleves.
 
 Stk. 2. Påbuddet skal indeholde en henvisning til den relevante bestemmelse og en anvisning af, hvilke konkrete handlinger eller foranstaltninger virksomheden skal gennemføre for at overholde den pågældende bestemmelse. Påbuddet gives skriftligt, og det skal fremgå heraf, at hvis påbuddet ikke efterleves inden for den angivne frist, kan modtageren heraf pålægges daglige bøder, indtil påbuddet efterleves.
