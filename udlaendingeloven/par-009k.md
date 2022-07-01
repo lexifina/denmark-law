@@ -9,3 +9,7 @@ Stk. 4. Udlændinge- og integrationsministeren kan fastsætte nærmere regler om
 Stk. 5. Der kan ikke gives opholdstilladelse efter stk. 1, 1. pkt., hvis der er en vis formodning om, at udlændingen ikke har påbegyndt eller afsluttet en relevant uddannelse i hjemlandet eller i et andet land, hvor udlændingen har opholdt sig lovligt, eller hvis der er en vis formodning om, at de faktiske vilkår for praktikforløbet ikke stemmer overens med det, der fremgår af ansøgningen, og de faktiske vilkår for praktikforløbet ikke vil opfylde betingelserne for en opholdstilladelse efter stk. 1, 1. pkt., eller at det afgørende formål med praktikforløbet er at skaffe udlændingen et ophold, som udlændingen ellers ikke ville kunne opnå.
 
 Stk. 6. Udlændinge- og integrationsministeren kan fastsætte nærmere regler om kriterierne for vurderingen efter stk. 5.
+
+Stk. 7. Ved væsentlig mangel på lærepladser inden for landbrugs-, jordbrugs-, veterinær-, skovbrugs- og gartneriområdet skal opholdstilladelse efter stk. 1, 1. pkt., med henblik på et praktikophold inden for et af de angivne områder betinges af, at praktikstedet underskriver en erklæring om at have en elev eller lærling ansat eller inden for de seneste 3 måneder forud for ansøgningens indgivelse at have søgt elever eller lærlinge under erhvervsuddannelse via et opslag på Børne- og Undervisningsministeriets centrale lærepladsportal.
+
+Stk. 8. Udlændinge- og integrationsministeren kan fastsætte regler om, hvornår der foreligger væsentlig mangel på lærepladser.
