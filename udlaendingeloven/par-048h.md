@@ -1,3 +1,3 @@
-§ 48 h. En forretningsplan efter § 9 a, stk. 2, nr. 11, afvises af Erhvervsstyrelsen, hvis den ikke er egnet til bedømmelse ved det uafhængige ekspertpanel. Afgørelsen om afvisning kan ikke påklages.
+§ 48 h. En forretningsplan efter § 9 a, stk. 2, nr. 11, afvises af Erhvervsstyrelsen, hvis den ikke er egnet til bedømmelse ved det uafhængige ekspertpanel. En anmodning om hastebehandling af en ansøgning afvises af Erhvervsstyrelsen, hvis ikke ansøgningen opfylder kriterierne i henhold til regler fastsat i medfør af § 9 a, stk. 31, 1. pkt. En afgørelse om afvisning efter 1. og 2. pkt. kan ikke påklages.
 
 Stk. 2. Det uafhængige ekspertpanels vurdering af en forretningsplan efter § 9 a, stk. 2, nr. 10, og stk. 16, kan påklages til et nyt uafhængigt ekspertpanel nedsat af Erhvervsstyrelsen. Den nye vurdering kan ikke påklages.
