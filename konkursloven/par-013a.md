@@ -1,8 +1,8 @@
-§ 13 a. Skifteretten kan forlænge fristen i § 13, stk. 1, med indtil to måneder ad gangen, dog ikke ud over fire måneder, hvis
+§ 13 a. Skifteretten kan forlænge fristen i § 13, stk. 1, jf. dog § 15, stk. 1, nr. 5, med indtil to måneder ad gangen, dog ikke ud over fire måneder, hvis
 
 1) skyldneren med rekonstruktørens samtykke anmoder herom og
 
-2) fordringshaverne vedtager dette efter § 13 d.
+2) fordringshaverne vedtager dette efter § 13 d, stk. 1-4.
 
 Stk. 2. Anmodningen om forlængelse skal være skriftlig og indeholde en redegørelse for baggrunden for og formålet med forlængelsen.
 

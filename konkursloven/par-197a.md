@@ -1,0 +1,3 @@
+§ 197 a. Var skyldneren, skyldnerens ægtefælle eller samlever eller et selskab, som de nævnte personer tilsammen direkte eller indirekte ejer en væsentlig del af, under konkursbehandling, da skifteretten modtog forslaget om gældssanering, er uafklarede forhold, der skyldes konkursen, ikke til hinder for afsigelse af kendelse om gældssanering.
+
+Stk. 2. Stk. 1 finder ikke anvendelse, hvis skyldnerens gæld i det væsentlige stammer fra erhvervsmæssig virksomhed og ledelsen af virksomheden i ikke uvæsentligt omfang har tilsidesat sine forpligtelser med hensyn til bogføring, momsafregning, indeholdelse og afregning af A-skat og indsendelse af oplysninger til offentlige myndigheder el.lign. eller i øvrigt i ikke uvæsentligt omfang har undladt at lede virksomheden forsvarligt.

@@ -1,4 +1,4 @@
-§ 12 k. Enhver stemmeberettiget fordringshaver kan stille forslag om anlæg af omstødelsessag eller salg af retten til at gøre omstødelse gældende. Forslag herom skal fremsættes senest på det møde, hvor der stemmes om rekonstruktionsforslaget. § 13 d finder tilsvarende anvendelse, idet dog mindst en fordringshaver skal stemme for forslaget om anlæg af omstødelsessag. Den begunstigede har ikke stemmeret.
+§ 12 k. Enhver stemmeberettiget fordringshaver kan stille forslag om anlæg af omstødelsessag eller salg af retten til at gøre omstødelse gældende. Forslag herom skal fremsættes senest på det møde, hvor der stemmes om rekonstruktionsforslaget. § 13 d, stk. 1-4, finder tilsvarende anvendelse. Den begunstigede har ikke stemmeret.
 
 Stk. 2. Vedtages sagsanlæg, hæfter de fordringshavere, der stemte for sagsanlægget, solidarisk for omkostningerne ved sagen. I det indbyrdes forhold hæfter fordringshaverne i forhold til størrelsen af deres fordring mod skyldneren.
 

@@ -1,1 +1,1 @@
-§ 14 d. Må rekonstruktionens opfyldelse antages at være bragt i fare ved skyldnerens forhold, kan skifteretten på begæring af en fordringshaver bestemme, at skyldneren skal underkaste sig tilsyn af rekonstruktøren. § 13 e, stk. 6, finder tilsvarende anvendelse.
+§ 14 d. Må rekonstruktionens opfyldelse antages at være bragt i fare ved skyldnerens forhold, kan skifteretten på begæring af en fordringshaver bestemme, at skyldneren skal underkaste sig tilsyn af rekonstruktøren. § 13 e, stk. 7, finder tilsvarende anvendelse.

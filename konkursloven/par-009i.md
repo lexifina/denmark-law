@@ -1,0 +1,5 @@
+§ 9 i. Skifteretten bekendtgør ophøret af den forebyggende rekonstruktionsbehandling i Statstidende, medmindre skyldnerens bo samtidig tages under konkursbehandling eller rekonstruktionsbehandling. Er skyldneren en sammenslutning, der er registreret i Erhvervsstyrelsen, skal rekonstruktøren samtidig registrere ophøret af den forebyggende rekonstruktionsbehandling i Erhvervsstyrelsens it-system.
+
+Stk. 2. Rekonstruktøren skal sende en meddelelse om ophøret af den forebyggende rekonstruktionsbehandling til samtlige kendte fordringshavere og andre, der blev berørt af den forebyggende rekonstruktionsbehandling, medmindre skyldnerens bo samtidig tages under konkursbehandling eller rekonstruktionsbehandling.
+
+Stk. 3. Reglerne i stk. 1 og 2 finder alene anvendelse, hvis der er truffet bestemmelse om fyldestgørelsesforbud efter § 9 b. Er der ikke truffet sådan bestemmelse, skal skyldneren eller en eventuelt beskikket rekonstruktør kun sende meddelelse om ophøret af den forebyggende rekonstruktionsbehandling til fordringshavere, som har været orienteret om den forebyggende rekonstruktionsbehandling.
