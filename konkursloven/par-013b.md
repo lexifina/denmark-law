@@ -16,6 +16,8 @@ b) Oversigt over skyldnerens pantsatte aktiver, panterettighedernes art samt st�
 
 c) Oversigt over usikrede krav, herunder pantsikrede krav, i det omfang pantet ikke strækker til, med angivelse af fordringshaverne og opdelt efter kravenes placering i konkursordenen.
 
+d) En beregning af skyldnerens forventede restskat for det indkomstår, hvor rekonstruktionsforslaget fremsættes, med angivelse af, hvilket beløb heraf der skyldes dispositioner foretaget inden rekonstruktionsforslagets fremsættelse eller forslagets indhold, hvis rekonstruktionsforslaget indeholder bestemmelse om akkordering af restskat efter § 10 a, stk. 6, 2. pkt. Beregningen skal være foretaget af tillidsmanden, hvis en sådan er beskikket, og ellers af en revisor, der er godkendt efter revisorlovens § 3.
+
 3) En redegørelse fra rekonstruktøren og en eventuel tillidsmand, der skal indeholde:
 
 a) Eventuelle kommentarer til den statusoversigt, der er nævnt i nr. 2.
@@ -35,6 +37,10 @@ g) Anslået dividende i tilfælde af skyldnerens konkurs.
 h) Forløbet af samarbejdet med skyldneren under rekonstruktionsbehandlingen.
 
 i) En erklæring fra rekonstruktøren og en eventuel tillidsmand om, hvorvidt rekonstruktionsforslaget efter deres skøn er rimeligt og frembyder en tilstrækkelig betryggelse for forslagets opfyldelse.
+
+j) Oplysning om, hvorvidt skyldneren er en SMV.
+
+4) Forslag til inddeling af fordringshaverne i særskilte afstemningsklasser, medmindre skyldneren er en SMV og der ikke fremsættes begæring efter § 13, stk. 2.
 
 Stk. 2. Rekonstruktionsforslaget og statusoversigten skal være tiltrådt af skyldneren.
 
