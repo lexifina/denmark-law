@@ -1,0 +1,3 @@
+§ 5 c. Digitaliseringsministeren kan fastsætte regler om, at private udbetalere skal betale et gebyr ved anvendelse af det efter § 4 etablerede kontoregister og det i medfør heraf udviklede Nemkontosystem, og fastsætte regler for vilkår for gebyret, herunder gebyrets størrelse og ændring af tilslutningsvilkårene for de private udbetalere. Gebyret skal dække den del af udgifterne til kompensationsordningen efter § 6 a, som hidrører fra svindel med eller fejl i forbindelse med private udbetalinger.
+
+Stk. 2. Gebyret fastsat efter stk. 1 kan ikke overstige 0,04 kroner pr. kobling mellem personnummer og kontonummer i Nemkontosystemet.
