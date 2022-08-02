@@ -1,0 +1,1 @@
+§ 3 b. En lønmodtager, der har udnyttet sin ret til fravær efter § 1 a, stk. 1, har ret til at vende tilbage til det samme eller et tilsvarende arbejde med arbejdsvilkår, som ikke er mindre gunstige for lønmodtageren, og til at nyde godt af enhver forbedring i arbejdsvilkårene, som lønmodtageren ville have været berettiget til under sit fravær.
