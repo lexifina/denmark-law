@@ -1,0 +1,1 @@
+§ 4 b. Hvis en lønmodtager anser sig for at være afskediget på grund af anmodning om eller udnyttelse af fravær efter § 1 a, stk. 1, og lønmodtageren kan påvise faktiske omstændigheder, som giver anledning til at formode, at den pågældende er blevet afskediget på dette grundlag, påhviler det arbejdsgiveren at bevise, at afskedigelsen er begrundet i andre forhold.
