@@ -62,10 +62,44 @@ Lov nr. 1293 af 5. december 2019 (Supplerende regler til forordning om det indre
 
 Stk. 1. Loven træder i kraft den 1. januar 2020.
 
-Stk. 2-3. (Udelades)
+Stk. 2 og 3. (Udelades)
 
 Lov nr. 1294 af 5. december 2019 (Gennemførelse af ændret gasdirektiv, præcisering af transmissionsselskabers ansvar for gasforsyningssikkerhed og præcisering af ekspropriationsadgang for gasinfrastruktur m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
 
 § 3
 
 Loven træder i kraft den 1. januar 2020.
+
+Lov nr. 2211 af 29. december 2020 (Ændring af formålsbestemmelsen for Energinet, ny transparent proces for Energinets investeringer og ny fremsynet økonomisk regulering af Energinet m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 4
+
+Stk. 1. Loven træder i kraft den 1. januar 2021.
+
+Stk. 2. § 4, stk. 2-4, § 4 d, stk. 1, nr. 3, § 4 e, stk. 1 og 2, § 22, stk. 2, og § 24 a, stk. 1, nr. 1 og 2, i lov om Energinet som affattet ved denne lovs § 1, nr. 4, 8, 9, 17 og 18, finder anvendelse fra den 1. januar 2022.
+
+Stk. 3. De hidtil gældende regler i § 4, stk. 2-4, i lov om Energinet, jf. lovbekendtgørelse nr. 118 af 6. februar 2020, finder anvendelse for udbygning efter den gældende § 4, stk. 1, som klima-, energi- og forsyningsministeren efter den gældende § 4, stk. 3, inden den 1. januar 2022 har bestemt kræver godkendelse, og hvor ansøgning er indsendt inden denne dato.
+
+Stk. 4. De hidtil gældende regler i § 4, stk. 1-4, og §§ 4 d og 22, jf. § 4, stk. 8, i lov om Energinet, jf. lovbekendtgørelse nr. 118 af 6. februar 2020, finder anvendelse for etablering af nye gasopstrømsrørledningsnet og væsentlige ændringer i bestående gasopstrømsrørledningsnet.
+
+Stk. 5. Projekter og indmeldelse af projekter til EU kan, frem til den første langsigtede udviklingsplan efter § 4, stk. 2, i lov om Energinet som affattet ved denne lovs § 1, nr. 4, er offentliggjort, være belyst i en anden plan end den langsigtede udviklingsplan. § 22, stk. 2, i lov om Energinet som affattet ved denne lovs § 1, nr. 17, finder tilsvarende anvendelse over for planer omfattet af 1. pkt.
+
+Stk. 6 og 7. (Udelades)
+
+Lov nr. 883 af 12. maj 2021 (Gennemførelse af dele af direktiv om fremme af anvendelsen af energi fra vedvarende energikilder, herunder bestemmelser om oprindelsesgarantier, tilladelsesprocesser, VE-fællesskaber, bæredygtighedskriterier og kriterier for drivhusgasemissionsbesparelser for biobrændstoffer, biomassebrændsler og flydende biobrændsler, m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 13
+
+Stk. 1. Loven træder i kraft den 30. juni 2021, jf. dog stk. 2.
+
+Stk. 2-9. (Udelades)
+
+Lov nr. 923 af 18. maj 2021 (Indpasning af gas fra vedvarende energikilder, udbud af pristillæg for opgraderet biogas og andre gasser fra vedvarende energikilder, udbud af støtte til produktion af brændstoffer eller andre produkter fra elektricitet (power-to-x), justering af den økonomiske regulering af gasdistributionsselskaber og reglerne for gasdetailmarkedet og sidestillelse af regioner med kommuner i forhold til egenproduktion af elektricitet ved selskabsudskillelse m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 10
+
+Stk. 1. Loven træder i kraft den 30. juni 2021, jf. dog stk. 2-6. § 4, nr. 2 og 3, og § 9 gælder for elproduktionsanlæg, der nettilsluttes fra den 30. juni 2021 og frem.
+
+Stk. 2. § 1, nr. 1-12, 14, 15 og 17, og § 8 i lov om naturgasforsyning som affattet ved denne lovs § 1, nr. 18, § 1, nr. 19-27, 29-41, 43-55, 57-65, 67-75, 77-79, 81-87, 89, 93, 98, 99, 101-104, 107, 108 og 112, § 2, nr. 1-3, § 3, nr. 1 og 2, § 4, nr. 1 og 4-6, og §§ 5-7 træder i kraft den 1. juli 2021.
+
+Stk. 3-8. (Udelades)
