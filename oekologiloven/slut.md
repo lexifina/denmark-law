@@ -1,5 +1,5 @@
-Landbrugsstyrelsen, den 29. januar 2021
+Ministeriet for Fødevarer, Landbrug og Fiskeri, den 29. august 2022
 
-Jette Petersen
+Lars Gregersen
 
-/ Mette Hyldebrandt-Larsen
+/ Steen Bonde

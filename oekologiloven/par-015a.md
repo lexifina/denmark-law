@@ -1,6 +1,6 @@
 ## Obligatorisk digital kommunikation
 
-§ 15 a. Ministeren for fødevarer, landbrug og fiskeri kan fastsætte regler om, at skriftlig kommunikation til og fra Ministeriet for Fødevarer, Landbrug og Fiskeri om forhold, som er omfattet af denne lov, regler udstedt i medfør af denne lov eller af bestemmelser i Den Europæiske Unions forordninger om forhold omfattet af denne lov, skal foregå digitalt.
+§ 15 a. Ministeren for fødevarer, landbrug og fiskeri kan fastsætte regler om, at skriftlig kommunikation til og fra Ministeriet for Fødevarer, Landbrug og Fiskeri om forhold, som er omfattet af denne lov, af regler udstedt i medfør af denne lov eller af bestemmelser i Den Europæiske Unions forordninger om forhold omfattet af denne lov, skal foregå digitalt.
 
 Stk. 2. Ministeren kan fastsætte nærmere regler om digital kommunikation, herunder om anvendelse af bestemte it-systemer, særlige digitale formater og digital signatur el.lign.
 
