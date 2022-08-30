@@ -1,5 +1,1 @@
-§ 37 k. Udlændinge- og integrationsministeren kan i særlige tilfælde beslutte, at stk. 2 finder anvendelse i en nærmere bestemt periode i stedet for § 37, stk. 1, 1. pkt.
-
-Stk. 2. En udlænding fremstilles, medmindre den pågældende forinden er løsladt, snarest muligt og senest 4 uger efter frihedsberøvelsens iværksættelse for retten, der tager stilling til spørgsmålet om frihedsberøvelsens lovlighed og fortsatte opretholdelse. I øvrigt finder reglerne i §§ 37-37 e anvendelse med de fornødne tilpasninger.
-
-Stk. 3. Ved udløbet af perioden efter stk. 1 indbringes spørgsmålet om den fortsatte frihedsberøvelse af udlændinge efter § 36 og hjemrejselovens § 16, hvis spørgsmålet om frihedsberøvelsens lovlighed og fortsatte opretholdelse ikke tidligere har været indbragt for retten, snarest muligt og senest 4 uger efter frihedsberøvelsens iværksættelse for retten, der træffer afgørelse herom, medmindre den pågældende forinden løslades. Har spørgsmålet om frihedsberøvelsens lovlighed og fortsatte opretholdelse tidligere været indbragt for retten, indbringes spørgsmålet om den fortsatte frihedsberøvelses lovlighed for retten i overensstemmelse med den af retten fastsatte frist, medmindre den pågældende forinden løslades.
+§ 37 k. (Ophævet)

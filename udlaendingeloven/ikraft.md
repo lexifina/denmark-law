@@ -292,7 +292,7 @@ Stk. 1. Loven træder i kraft den 1. august 2010, jf. dog stk. 2 og 3.
 
 Stk. 2. Tidspunktet for ikrafttræden af udlændingelovens § 9 f, stk. 4, som affattet ved denne lovs § 1, nr. 6, fastsættes af ministeren for flygtninge, indvandrere og integration.
 
-Stk. 3. Udlændingelovens § 11, § 11 a, § 27, stk. 1, § 46, stk. 2, og § 46 a som affattet henholdsvis ændret ved denne lovs § 1, nr. 7-10, 21, 28 og 29, træder i kraft dagen efter bekendtgørelsen i Lovtidende og finder anvendelse for udlændinge, der fra og med den 26. marts 2010 indgiver ansøgning om tidsubegrænset opholdstilladelse. For udlændinge, der har indgivet ansøgning før den 26. marts 2010, finder de hidtil gældende regler anvendelse. Ophævelse af Udlændingelovens §§ 11 c og 11 d, jf. denne lovs § 1, nr. 11, træder i kraft dagen efter bekendtgørelsen i Lovtidende. Ophævelsen gælder for udlændinge, der fra og med den 26. marts 2010 indgiver ansøgning om tidsubegrænset opholdstilladelse.
+Stk. 3. Udlændingelovens § 11, § 11 a, § 27, stk. 1, § 46, stk. 2, og § 46 a som affattet henholdsvis ændret ved denne lovs § 1, nr. 7-10, 21, 28 og 29, træder i kraft dagen efter bekendtgørelsen i Lovtidende og finder anvendelse for udlændinge, der fra og med den 26. marts 2010 indgiver ansøgning om tidsubegrænset opholdstilladelse. For udlændinge, der har indgivet ansøgning før den 26. marts 2010, finder de hidtil gældende regler anvendelse. Ophævelse af udlændingelovens §§ 11 c og 11 d, jf. denne lovs § 1, nr. 11, træder i kraft dagen efter bekendtgørelsen i Lovtidende. Ophævelsen gælder for udlændinge, der fra og med den 26. marts 2010 indgiver ansøgning om tidsubegrænset opholdstilladelse.
 
 Stk. 4. Udlændingelovens § 9, stk. 5, 1. pkt., som ændret ved denne lovs § 1, nr. 1, gælder alene i de tilfælde, hvor der efter lovens ikrafttræden indgives ansøgning om opholdstilladelse efter udlændingelovens § 9, stk. 1, nr. 1. For udlændinge, der har indgivet ansøgning før lovens ikrafttræden, finder de hidtil gældende regler anvendelse. Udlændingelovens § 9, stk. 18, § 9 a, stk. 4, § 9 b, stk. 3, § 9 c, stk. 5, § 9 f, stk. 7, og § 33, stk. 5, 1. pkt., som affattet og indsat ved denne lovs § 1, nr. 2-6 og 24, gælder alene for udlændinge, der indgiver ansøgning efter lovens ikrafttræden. For udlændinge, der har indgivet ansøgning før lovens ikrafttræden, finder de hidtil gældende regler anvendelse.
 
@@ -494,7 +494,7 @@ Lov nr. 738 af 25. juni 2014 (Mulighed for genoptagelse af visse sager om famili
 
 Stk. 1. Loven træder i kraft den 1. juli 2014.
 
-Stk. 2. (Udelades)
+Stk. 2-5. (Udelades)
 
 Lov nr. 1488 af 23. december 2014 (Reform af international rekruttering m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
 
@@ -1108,7 +1108,7 @@ Lov nr. 2194 af 29. december 2020 (Krav om særskilt arbejdstilladelse i visse s
 
 Stk. 1. Loven træder i kraft den 1. januar 2020.
 
-Stk. 2. (Udelades)
+Stk. 2-4. (Udelades)
 
 Lov nr. 2195 af 29. december 2020 (Formodningsafslag på erhvervsområdet og praktikantområdet, adgang for Styrelsen for International Rekruttering og Integration til at foretage selvstændige udgående kontrolaktioner, pålæg til virksomheder om at føre logbog, styrket kontrol via faste kontrolattachéer og adgang for Styrelsen for International Rekruttering og Integration til i kontroløjemed at indhente oplysninger fra SafeSeaNet) indeholder følgende ikrafttrædelsesbestemmelse:
 
@@ -1233,3 +1233,131 @@ Stk. 6. § 1, nr. 19, finder ikke anvendelse for klager eller anmodninger om gen
 Stk. 7. Regler fastsat i medfør af udlændingelovens § 46 a, stk. 8, jf. lovbekendtgørelse nr. 1513 af 22. oktober 2020, forbliver i kraft, indtil de ophæves eller afløses af forskrifter udstedt i medfør af udlændingelovens § 46 a, stk. 9.
 
 Stk. 8. Regler fastsat i medfør af udlændingelovens § 62 l, stk. 7-9, jf. lovbekendtgørelse nr. 1513 af 22. oktober 2020, forbliver i kraft, indtil de ophæves eller afløses af forskrifter udstedt i medfør af udlændingelovens § 62 l, stk. 9-11.
+
+Lov nr. 2055 af 16. november 2021 om midlertidig opholdstilladelse til personer, der i Afghanistan har bistået danske myndigheder m.v., indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 19. Loven træder i kraft dagen efter bekendtgørelsen i Lovtidende.
+
+§ 28. Loven ophæves den 1. juni 2024.
+
+Stk. 2. Klager over Udlændingestyrelsens afgørelser efter denne lov, der er påklaget til Udlændingenævnet, inden loven ophæves, færdigbehandles i overensstemmelse med loven.
+
+Lov nr. 2601 af 28. december 2021 (Implementering af initiativer i aftale om politiets og anklagemyndighedens økonomi i 2021-2023, herunder etablering af National Enhed for Særlig Kriminalitet) indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 23
+
+Loven træder i kraft den 1. januar 2022.
+
+Lov nr. 2623 af 28. december 2021 (Ændring af reglerne om særlig rejselegitimation til udlændinge, bemyndigelse til at fastsætte regler om udlændingemyndighedernes kompetence til at varetage opgaver efter SIS-tilbagesendelsesforordningen, straf i sager om forkert afsætning af passagerer m.v., ændring af reglerne om betaling for erstatningsopholdskort, ændring af Rådet for Etniske Minoriteters virke, ophævelse af Online Dansk og pligt til digital selvbooking af jobsamtaler for aktivitetsparate m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 5
+
+Stk. 1. Loven træder i kraft den 1. januar 2022, jf. dog stk. 2 og 3.
+
+Stk. 2. § 1, nr. 1, 2, 6-9 og 11, træder i kraft den 1. marts 2022.
+
+Stk. 3. Udlændinge- og integrationsministeren fastsætter tidspunktet for ikrafttrædelse af § 1, nr. 12 og 13, og § 2.
+
+Stk. 4. § 1, nr. 2, finder ikke anvendelse på ansøgninger om udstedelse af særlig rejselegitimation til udlændinge, der er indgivet før den 1. marts 2022. For sådanne ansøgninger finder de hidtil gældende regler anvendelse.
+
+Stk. 5. § 1, nr. 3, finder ikke anvendelse på ansøgninger om udstedelse af dansk rejselegitimation til udlændinge og for optagelse af digitale fingeraftryk til brug for udstedelsen, der er indgivet før lovens ikrafttræden. For sådanne ansøgninger finder de hidtil gældende regler anvendelse.
+
+Stk. 6. § 1, nr. 4, finder ikke anvendelse på ansøgninger om genudsendelse af opholdskort, der er indgivet før lovens ikrafttræden. For sådanne ansøgninger finder de hidtil gældende regler anvendelse.
+
+Stk. 7. Udlændingelovens § 44, stk. 3 og 4, som affattet ved denne lovs § 1, nr. 6, finder ikke anvendelse på ansøgninger om udstedelse af laissez-passer og genudstedelse af opholdskort, der er indgivet før den 1. marts 2022.
+
+Stk. 8. § 1, nr. 11, finder ikke anvendelse på klager indbragt for Flygtningenævnet før den 1. marts 2022. For sådanne klager finder de hidtil gældende regler anvendelse.
+
+Stk. 9. Regler udstedt i medfør af udlændingelovens § 39, stk. 12, jf. lovbekendtgørelse nr. 1910 af 26. september 2021, forbliver i kraft, indtil de ophæves eller afløses af forskrifter udstedt i medfør af udlændingelovens § 39 a, stk. 12, 3. pkt., og stk. 13, som affattet ved denne lovs § 1, nr. 2.
+
+Stk. 10. (Udelades)
+
+Lov nr. 324 af 16. marts 2022 om midlertidig opholdstilladelse til personer, der er fordrevet fra Ukraine, indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 32. Loven træder i kraft ved bekendtgørelsen i Lovtidende.
+
+Stk. 2. Lovforslaget kan stadfæstes straks efter dets vedtagelse.
+
+Lov nr. 452 af 20. april 2022 (Initiativer til beskyttelse af børn imod vold og negativ social kontrol, indførelse af regler om fleksibel udbetaling af hjælp til repatriering og hjemrejsestøtte m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 16
+
+Stk. 1. Loven træder i kraft den 1. maj 2022, jf. dog stk. 2.
+
+Stk. 2. Udlændinge- og integrationsministeren fastsætter tidspunktet for ikrafttræden af § 1, nr. 21, 23, 24 og 38.
+
+Stk. 3. § 1, nr. 1-3 og 9, finder ikke anvendelse for ansøgninger, der er indgivet før den 27. januar 2022. For sådanne ansøgninger finder de hidtil gældende regler anvendelse.
+
+Stk. 4-6. (Udelades)
+
+Stk. 7. Regler fastsat i medfør af udlændingelovens § 42 e, stk. 6, jf. lovbekendtgørelse nr. 1910 af 26. september 2021, forbliver i kraft, indtil de ophæves eller afløses af forskrifter udstedt i medfør af udlændingelovens § 42 e, stk. 7, jf. denne lovs § 1, nr. 31.
+
+Stk. 8. Udlændinge- og integrationsministeren fremsætter forslag om revision af § 1, nr. 21, 23, 24 og 38, hvis bestemmelserne ikke inden udgangen af 2022 er trådt i kraft.
+
+Lov nr. 696 af 24. maj 2022 (Styrket indsats mod menneskeudnyttelse) indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 4
+
+Loven træder i kraft den 1. juni 2022.
+
+Lov nr. 893 af 21. juni 2022 (Opfølgning på flerårsaftalen om kriminalforsorgens økonomi 2022-2025, herunder leje af fængselspladser i udlandet, revision af disciplinærstraffesystemet, udstationering til eget hjem med fodlænke eller udslusningsfængsel m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 13
+
+Stk. 1. Loven træder i kraft den 1. juli 2022, jf. dog stk. 2 og 3.
+
+Stk. 2. (Udelades)
+
+Stk. 3. Udlændinge- og integrationsministeren fastsætter tidspunktet for ikrafttrædelse af § 10, nr. 8 og 12.
+
+Stk. 4. Udlændinge- og integrationsministeren fremsætter forslag om revision af § 10, nr. 8 og 12, hvis bestemmelserne ikke inden udgangen af 2022 er trådt i kraft.
+
+Stk. 5. (Udelades)
+
+Stk. 6. Loven finder ikke anvendelse på ansøgninger om danskbonus, der er indgivet før lovens ikrafttræden. For sådanne ansøgninger finder de hidtil gældende regler anvendelse.
+
+Stk. 7. (Udelades)
+
+Stk. 8. Regler fastsat i medfør af udlændingelovens § 9, stk. 42, jf. lovbekendtgørelse nr. 1910 af 26. september 2021, forbliver i kraft, indtil de ophæves eller afløses af forskrifter udstedt i medfør af udlændingelovens § 9, stk. 40, jf. denne lovs § 10, nr. 2.
+
+Lov nr. 914 af 21. juni 2022 (Ændring af reglerne for ophold for medfølgende familie til udenlandske arbejdstagere, studerende og praktikanter) indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 2
+
+Loven træder i kraft dagen efter bekendtgørelsen i Lovtidende.
+
+Lov nr. 915 af 21. juni 2022 (Ændring af reglerne om bortfald af opholdstilladelser ved genopdragelsesrejser m.v. og ændring af reglerne om adgang til familiesammenføring for personer med midlertidig beskyttelsesstatus) indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 2
+
+Stk. 1. Loven træder i kraft den 1. juli 2022.
+
+Stk. 2. Fristen i udlændingelovens § 9, stk. 20, nr. 1, som ændret ved denne lovs § 1, nr. 8, regnes fra lovens ikrafttræden, hvis fristen som følge af udlændingelovens § 9, stk. 1, nr. 2, litra d, som ændret ved denne lovs § 1, nr. 1, ellers ville blive kortere end 3 måneder.
+
+Stk. 3. Regler fastsat i medfør af udlændingelovens § 9, stk. 31, 3. pkt., og stk. 42, og § 11, stk. 19, jf. lovbekendtgørelse nr. 1910 af 26. september 2021, forbliver i kraft, indtil de ophæves eller afløses af forskrifter udstedt i medfør af udlændingelovens § 9, stk. 30, 3. pkt., og stk. 41, og § 11, stk. 20, jf. denne lovs § 1, nr. 9 og 24.
+
+Lov nr. 917 af 21. juni 2022 (Styrkelse af praktikantordningens uddannelsesmæssige sigte på landbrugs-, jordbrugs-, veterinær-, skovbrugs- og gartneriområdet) indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 2
+
+Stk. 1. Loven træder i kraft den 1. juli 2022.
+
+Stk. 2. § 1, nr. 2, finder ikke anvendelse for udlændinge, der inden den 1. juli 2022 har indgivet ansøgning om opholdstilladelse. For disse udlændinge finder de hidtil gældende regler anvendelse.
+
+Lov nr. 918 af 21. juni 2022 (Hurtig jobstart for kandidatdimittender, optimering af Startup Denmark og afskaffelse af klippekortet for selvforsørgerkursister) indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 3
+
+Stk. 1. Loven træder i kraft den 1. juli 2022.
+
+Stk. 2. § 1, nr. 1, 2, 5 og 6, finder ikke anvendelse for udlændinge, der den 1. juli 2022 har en klagesag under behandling i Udlændingenævnet. For disse udlændinge finder de hidtil gældende regler anvendelse.
+
+Lov nr. 919 af 21. juni 2022 (Prøvelse af udvisning m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 5
+
+Stk. 1. Loven træder i kraft dagen efter bekendtgørelsen i Lovtidende, jf. dog stk. 2.
+
+Stk. 2. § 3 træder i kraft den 1. juli 2022.
+
+Stk. 3. § 3 finder ikke anvendelse på ansøgninger indgivet før den 1. juli 2022. For sådanne ansøgninger finder de hidtil gældende regler anvendelse.
