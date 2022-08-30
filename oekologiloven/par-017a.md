@@ -1,0 +1,3 @@
+## Samkøring af oplysninger fra andre myndigheder
+
+§ 17 a. Ministeren for fødevarer, landbrug og fiskeri kan indhente de oplysninger hos andre offentlige myndigheder, der er nødvendige for at kontrollere, at denne lov eller de i medfør af loven fastsatte regler eller Den Europæiske Unions forordninger om forhold, der er omfattet af denne lov, overholdes, bl.a. med henblik på registersamkøring og sammenstilling af oplysninger i kontroløjemed, herunder oplysninger om skatteforhold.
