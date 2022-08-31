@@ -12,9 +12,9 @@ Stk. 3. Udlændingestyrelsen kan, medmindre det vil være i strid med Danmarks i
 
 4) Når der er grund til at antage, at udlændingen har til hensigt i udlandet at deltage i aktiviteter, hvor dette kan indebære eller forøge en fare for statens sikkerhed eller andre staters sikkerhed eller en væsentlig trussel mod den offentlige orden.
 
-5) Når udlændingen er mindreårig og der er grund til at antage, at udlændingen ellers vil blive sendt til udlandet til forhold, der bringer den pågældendes sundhed eller udvikling til i alvorlig fare, eller for at indgå ægteskab eller for at indgå i en religiøs vielse uden borgerlig gyldighed eller i et andet ægteskabslignende forhold.
+5) Når udlændingen er mindreårig og der er grund til at antage, at udlændingen ellers vil blive sendt til udlandet til forhold, der bringer den pågældendes sundhed eller udvikling i alvorlig fare, eller for at indgå ægteskab eller for at indgå i en religiøs vielse uden borgerlig gyldighed eller i et andet ægteskabslignende forhold.
 
-6) Når udlændingen flere gange inden for de seneste år har fået udstedt ny rejselegitimation, i anledning af at rejselegitimation er bortkommet.
+6) Når udlændingen flere gange inden for de seneste år har fået udstedt ny rejselegitimation, i anledning af at rejselegitimationen er bortkommet.
 
 7) Når Udlændingestyrelsen har mistanke om, at udlændingen har forvansket eller fjernet dele af rejselegitimationen eller deri indeholdte påtegninger eller har ladet andre personer forvanske eller fjerne dele af rejselegitimationen eller deri indeholdte påtegninger, medmindre forvanskningen eller fjernelsen må anses som undskyldelig.
 
@@ -40,7 +40,7 @@ Stk. 10. Nægtes udstedelse af eller inddrages særlig rejselegitimation efter s
 
 Stk. 11. Udlændingestyrelsen kan spærre en dansk udstedt særlig rejselegitimation i Det Centrale Pasregister i følgende tilfælde:
 
-1) Når en udlænding er i besiddelse af både dansk udstedt særlig rejselegitimation og nationalt udstedt pas eller særlig rejselegitimation udstedt af et andet land og ikke deponerer enten den danske udstedte særlige rejselegitimation, det nationalt udstedte pas eller den særlige rejselegitimation udstedt af et andet land hos Udlændingestyrelsen.
+1) Når en udlænding er i besiddelse af både dansk udstedt særlig rejselegitimation og nationalt udstedt pas eller særlig rejselegitimation udstedt af et andet land og ikke deponerer enten den dansk udstedte særlige rejselegitimation, det nationalt udstedte pas eller den særlige rejselegitimation udstedt af et andet land hos Udlændingestyrelsen.
 
 2) Når en udlænding har fået inddraget sin særlige rejselegitimation efter stk. 3, 4 eller 5.
 
