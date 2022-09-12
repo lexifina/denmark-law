@@ -40,7 +40,7 @@ Stk. 2. (Udelades)
 
 Lov nr. 283 af 15. april 2009 om digital indberetningsløsning til brug for anmeldelse af sygefravær samt anmodning om refusion af sygedagpenge og dagpenge efter barselloven indeholder følgende ikrafttrædelsesbestemmelse:
 
-§ 17. Loven træder i kraft dagen efter bekendtgørelsen i Lovtidende, jf. dog stk. 2 og 3.
+§ 17 Loven træder i kraft dagen efter bekendtgørelsen i Lovtidende, jf. dog stk. 2 og 3.
 
 Stk. 2. (Udelades)
 
@@ -90,7 +90,7 @@ Lov nr. 483 af 12. juni 2009 (Etablering af et enstrenget kommunalt beskæftigel
 
 Stk. 1. Loven træder i kraft den 1. august 2009, jf. dog stk. 2 og 3.
 
-Stk. 2 og 3. (Udelades)
+Stk. 2-3. (Udelades)
 
 Lov nr. 247 af 23. marts 2010 (Ændring af reglerne om forlængelse af sygedagpengeperioden, sygedagpenge til selvstændige og ophævelse af bestemmelser om indbetaling til Særlig Pensionsopsparing (SP) m.v.) indeholder følgende ikrafttrædelses- og overgangsbestemmelser:
 
@@ -338,9 +338,7 @@ Stk. 2. Loven finder alene anvendelse for ansøgninger, anmodninger, meddelelser
 
 Lov nr. 994 af 30. august 2015 om kommunernes finansiering af visse offentlige ydelser udbetalt af kommunerne, Udbetaling Danmark og arbejdsløshedskasserne indeholder følgende ikrafttrædelses- og overgangsbestemmelse:
 
-§ 29
-
-Stk. 1. Loven træder i kraft den 4. januar 2016, jf. dog stk. 2.
+§ 29. Loven træder i kraft den 4. januar 2016, jf. dog stk. 2.
 
 Stk. 2. Beskæftigelsesministeren fastsætter tidspunktet for ikrafttræden af §§ 8, 11-14, 16, 18 og 19. Beskæftigelsesministeren kan i den forbindelse fastsætte regler om overgang fra opgørelse efter §§ 27 og 28 til opgørelse i Ydelsesrefusion.
 
@@ -480,7 +478,7 @@ Stk. 4. (Udelades)
 
 Stk. 1 og 2. (Udelades)
 
-Stk. 3. Regler fastsat i medfør af § 66, stk. 14 og 15, i lov om sygedagpenge, jf. lovbekendtgørelse nr. 38 af 19. januar 2018, forbliver i kraft, indtil de ophæves eller afløses af forskrifter udstedt i medfør af § 66, stk. 15 og 16, i lov om sygedagpenge.
+Stk. 3. Regler fastsat i medfør af § 66, stk. 14 og 15, i lov om sygedagpenge, jf. lovbekendtgørelse nr. 38 af 19. januar 2018, forbliver i kraft, indtil de ophæves eller afløses af forskrifter udstedt i medfør af § 66, stk. 15 og 16, i lov om sygedagpenge. (Udelades)
 
 Stk. 4 og 5. (Udelades)
 
@@ -590,7 +588,7 @@ Lov nr. 212 af 17. marts 2020 (Udvidet ret for arbejdsgiver til refusion og for 
 
 § 2
 
-Stk. 1. Loven træder i kraft dagen efter bekendtgørelsen i Lovtidende, jf. dog stk. 3.
+Stk. 1. Loven træder i kraft dagen efter bekendtgørelsen i Lovtidende jf. dog stk. 3.
 
 Stk. 2. Lovforslaget kan stadfæstes straks efter dets vedtagelse.
 
@@ -710,7 +708,7 @@ Lov nr. 2204 af 29. december 2020 (Forlængelse af den midlertidige periode med 
 
 Loven træder i kraft den 31. december 2020.
 
-Lov nr. 57 af 21. januar 2021 (Suspension af dagpengeforbrug og forlængelse af retten til sygedagpenge som følge af covid-19) indeholder følgende ikrafttrædelsesbestemmelse:
+Lov nr. 57 af 19. januar 2021 (Suspension af dagpengeforbrug og forlængelse af retten til sygedagpenge som følge af covid-19) indeholder følgende ikrafttrædelsesbestemmelse:
 
 § 3
 
@@ -761,3 +759,33 @@ Lov nr. 1438 af 29. juni 2021 (Dagpengeret til selvstændige erhvervsdrivende ud
 § 4
 
 Loven træder i kraft den 1. juli 2021.
+
+Lov nr. 2380 af 14. december 2021 (Udvidet ret for arbejdsgiver til refusion og for selvstændige til sygedagpenge som følge af covid-19 samt ny midlertidig periode med ret til dagpenge ved pasning af børn som følge af covid-19) indeholder følgende ikrafttrædelsesbestemmelser:
+
+§ 3
+
+Loven træder i kraft den 16. december 2021.
+
+§ 4
+
+Stk. 1. Uanset fristen på 3 uger i § 43 a, stk. 2, 1. pkt., i lov om sygedagpenge som affattet ved denne lovs § 1, nr. 1, kan en selvstændig erhvervsdrivende for fravær omfattet af § 43 a, stk. 1, i lov om sygedagpenge som affattet ved denne lovs § 1, nr. 1, med første fraværsdag inden lovens ikrafttræden anmelde fraværet til kommunen frem til og med den 31. januar 2022.
+
+Stk. 2. (Udelades)
+
+Lov nr. 2590 af 28. december 2021 (Nytænkning af beskæftigelsesindsatsen og samtaler over video eller telefon) indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 3
+
+Loven træder i kraft den 1. januar 2022.
+
+Lov nr. 452 af 20. april 2022 (Initiativer til beskyttelse af børn imod vold og negativ social kontrol, indførelse af regler om fleksibel udbetaling af hjælp til repatriering og hjemrejsestøtte m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 16
+
+Stk. 1. Loven træder i kraft den 1. maj 2022, jf. dog stk. 2.
+
+Stk. 2-3. (Udelades)
+
+Stk. 4. § 3, nr. 1-3, § 4, nr. 3, og §§ 5-11 finder ikke anvendelse for domme for overtrædelser af straffelovens § 244, stk. 2, der vedrører forhold begået inden lovens ikrafttræden.
+
+Stk. 5-8. (Udelades)
