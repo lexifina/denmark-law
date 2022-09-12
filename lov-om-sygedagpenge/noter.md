@@ -1,8 +1,8 @@
-1) Lovændringen vedrører lovens §§ 67-67 b.
+1) Lovændringen vedrører lovens § 51, stk. 2 og 3.
 
-2) Europa-Parlamentets og Rådets Forordning (EF) nr. 883/04 af 29. april 2004 om koordinering af de sociale sikringsordninger finder anvendelse fra den 1. maj 2010 og gælder umiddelbart fra den dag. Forordningen erstatter den gældende forordning (EØF) nr. 1408/71 af 14. juni 1971 om anvendelse af de sociale sikringsordninger på arbejdstagere, selvstændige erhvervsdrivende og deres familiemedlemmer, der flytter inden for Fællesskabet.
+2) Personer, der efter EF-forordning nr. 1408/71.
 
-3) Gennemførelsesforordning (EF) nr. 574/72 er erstattet af Europa-Parlamentets og Rådets Forordning (EF) nr. 987/2009 af 16. september 2009 om de nærmere regler til gennemførelse af forordning (EF) nr. 883/2004 om koordinering af de sociale sikringsordninger.
+3) Ved opfølgningen af sager om sygedagpenge til personer, der bor i udlandet, gælder samme forpligtelser som for personer, der bor i Danmark, med de indskrænkninger, der følger af særlige bestemmelser om administration efter EF-forordning nr. 574/72.
 
 4) Lovændringen vedrører lovens § 6, stk. 1, § 9, stk. 1, § 24, stk. 2, nr. 1, § 27, stk. 1, nr. 3, § 30, stk. 1, 1. og 2. pkt., § 31, § 32, stk. 3, § 42, stk. 2, § 53, stk. 1-2, § 55, stk. 2, nr. 2, § 56, stk. 1 og stk. 2, nr. 3, § 59, stk. 4, § 61, § 72, stk. 2, § 77, § 79 og § 82, stk. 4.
 
@@ -102,11 +102,11 @@
 
 52) Lovændringen vedrører lovens § 68 b.
 
-53) Lovændringen vedrører lovens §§ 54 a-54 c, § 64, stk. 1-2, § 67 og §§ 67 a og b. Der henvises til note 1.
+53) Lovændringen vedrører lovens §§ 54 a-54 c, § 64, stk. 1-2, § 67 og §§ 67 a og b.
 
 54) Ikrafttrædelsesbestemmelsen er ændret ved § 6, nr. 2, i lov nr. 1557 af 27. december 2019.
 
-55) § 4, nr. 1, i lov nr. 339 af 2. april 2019 er sat i kraft ved ikrafttrædelsesbekendtgørelse nr. 1408 af 25. juni 2021. Det følger af ikrafttrædelsesbekendtgørelsens § 2, at lovens §§ 54 a-54 c træder i kraft den 14. august 2021.
+55) § 4, nr. 1, i lov nr. 339 af 2. april 2019 er sat i kraft ved ikrafttrædelsesbekendtgørelse nr. 1408 af 25. juni 2021. Det følger af ikrafttrædelsesbekendtgørelsens § 2, at lovens §§ 54 a-54 c træder i kraft den 14. august 2021. § 4, nr. 5-7, i lov nr. 339 af 2. april 2019 er sat i kraft ved ikrafttrædelsesbekendtgørelse nr. 2006 af 28. oktober 2021. Det følger af ikrafttrædelsesbekendtgørelsens § 2, at lovens § 67 og §§ 67 a og b træder i kraft den 13. december 2021.
 
 56) Lovændringen vedrører lovens § 21 a.
 
@@ -132,7 +132,7 @@
 
 67) Bestemmelsen er ophævet ved § 5, nr. 1, i lov nr. 473 af 22. april 2020 (Forlængelse af 12-månedersperioden i 225-timersreglen som følge af covid-19, forlængelse af perioder, der ses bort fra ved forbrug af arbejdsløshedsdagpenge m.v., og udvidelse af perioden, hvor der sker en midlertidig forlængelse af sygedagpengeperioden).
 
-68) Lovændringen vedrører lovens §§ 26, 26 a og 26 b.
+68 Lovændringen vedrører lovens §§ 26, 26 a og 26 b.
 
 69) Loven er bekendtgjort i Lovtidende den 22. april 2020.
 
@@ -175,3 +175,9 @@
 88) Lovændringen vedrører lovens § 3, stk. 2, nr. 5.
 
 89) Lovændringen vedrører lovens § 42, stk. 2, § 58 b, stk. 1, § 58 c, stk. 1, § 58 d, stk. 2, § 58 f, stk. 1, og § 58 f, stk. 3.
+
+90) Lovændringen vedrører lovens §§ 43 a og 53 b.
+
+91) Lovændringen vedrører lovens § 13 b, stk. 1.
+
+92) Lovændringen vedrører lovens § 71 c, stk. 1.
