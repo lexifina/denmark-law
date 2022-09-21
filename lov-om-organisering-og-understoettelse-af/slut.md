@@ -1,7 +1,5 @@
-Givet på Fredensborg Slot, den 23. december 2014
+Beskæftigelsesministeriet, den 20. september 2022
 
-Under Vor Kongelige Hånd og Segl
+Peter Hummelgaard
 
-MARGRETHE R.
-
-/ Henrik Dam Kristensen
+/ Louise Seidler Johansen
