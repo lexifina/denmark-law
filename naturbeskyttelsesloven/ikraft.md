@@ -16,7 +16,7 @@ Stk. 3. I bestemmelser fastsat i medfør af stk. 2 bestemmer miljøministeren, a
 
 Stk. 4. Efter ikrafttrædelsen af § 2, nr. 1 og 2, kan der ikke ske gentilplantning på arealer, hvor der efter den 1. august 1994 er foretaget tilplantning, som ikke er et led i den hidtidige drift.
 
-Stk. 5. Bekendtgørelse nr. 547 af 22. juni 1992 om bygge- og beskyttelseslinjer samt bekendtgørelse nr. 552 af 22. juni 1992 om klitfredning forbliver i kraft, indtil de afløses af bestemmelser udstedt i medfør af denne lov.
+Stk. 5. (Udelades)
 
 Lov nr. 19 af 13. januar 1997 (Ændring af klageregler) indeholder følgende ikrafttrædelsesbestemmelse:
 
@@ -50,7 +50,7 @@ Stk. 2. Lovens regler om adgang til at påklage afgørelser gælder for sager, d
 
 Stk. 3-4. (Udelades)
 
-Museumslov, lov nr. 473 af 7. juni 2001 indeholder følgende ikrafttrædelsesbestemmelse:
+Lov nr. 473 af 7. juni 2001, museumsloven indeholder følgende ikrafttrædelsesbestemmelse:
 
 § 41. Loven træder i kraft den 1. januar 2002. Samtidig ophæves lov om museer m.v., jf. lovbekendtgørelse nr. 739 af 17. juli 2000. Lovens § 27, stk. 4-7, har virkning fra den 1. januar 2003. Indtil den 1. januar 2003 opretholdes de hidtidige finansieringsprincipper for den arkæologiske undersøgelsesvirksomhed, jf. § 26, stk. 3, i lov om museer m.v., jf. lovbekendtgørelse nr. 739 af 17. juli 2000.
 
@@ -230,7 +230,7 @@ Stk. 3. Loven finder anvendelse på afgørelser truffet i 1. instans efter loven
 
 Stk. 4. Verserende klagesager over afgørelser påklaget af ministeren efter § 84, stk. 1, nr. 2, i lov om miljøgodkendelse m.v. af husdyrbrug færdigbehandles af Natur- og Miljøklagenævnet.
 
-Lov nr. 1289 af 19. december 2012 (Etablering af yderligere forsøgsmuligheder for frikommuner), indeholder følgende ikrafttrædelsesbestemmelse:
+Lov nr. 1289 af 19. december 2012 (Etablering af yderligere forsøgsmuligheder for frikommunerne) indeholder følgende ikrafttrædelsesbestemmelse:
 
 § 3
 
@@ -451,3 +451,11 @@ Lov nr. 1177 af 8. juni 2021 (Adgang til at etablere naturnationalparker og obli
 Stk. 1. Loven træder i kraft den 1. juli 2021.
 
 Stk. 2. Reglerne i §§ 61 d og 61 e i lov om naturbeskyttelse som affattet ved denne lovs § 1, nr. 1, finder ikke anvendelse for ansøgning om tilladelse efter § 61 a i lov om naturbeskyttelse som affattet ved denne lovs § 1, nr. 1, til etablering af naturnationalparker ved Fussingø og i Gribskov.
+
+Lov nr. 900 af 21. juni 2022 (Dispensation og klagesagsbehandling m.v. på fortidsmindeområdet) indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 18
+
+Stk. 1. Loven træder i kraft den 1. juli 2022.
+
+Stk. 2. (Udelades)
