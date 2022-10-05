@@ -1,4 +1,4 @@
-Miljøministeriet, den 27. oktober 2021
+Miljøministeriet, den 4. oktober 2022
 
 P.M.V. Paolo Perotti
 
@@ -15,8 +15,6 @@ Fortidsminder, der ikke har beskyttelseslinje i henhold til § 18, uanset om de 
 Bilag 2
 
 Bilag om anmeldelsespligtige aktiviteter
-
-## Overskrift til formateret tekst
 
 Aktiviteter, der er omfattet af § 19 b:
 

@@ -111,3 +111,5 @@
 56) Lovændringen vedrører overskriften til kapitel 11 a.
 
 57) Lovændringen vedrører kapitel 8 a, § 70 a, § 71, stk. 4, nr. 1, § 72, stk. 2, § 73, stk. 2, og § 78, stk. 4, 2. pkt.
+
+58) Lovændringen vedrører § 33, stk. 2, 1. pkt., og § 78, stk. 1, 1. pkt., stk. 3, 1. pkt., stk. 4, 1. pkt., stk. 6, 2. pkt. og stk. 7, 2. pkt.
