@@ -37,3 +37,5 @@
 19) Lovændringen vedrører § 1, stk. 1, § 4, stk. 1, 2 og 4, § 5, stk. 1, 2. pkt., overskriften til kapitel 2 a, § 5 a, stk. 1, kapitel 2 b, § 6, stk. 1, § 7, § 7 a, stk. 1 og 2, § 8, § 9, stk. 1-3, § 10, § 11, stk. 1 og 4, § 12, § 12 a, § 12 b, stk. 1 og 2, § 12 c, stk. 1-4, overskriften til kapitel 4 a, § 12 d, kapitel 4 b, § 13, § 15, stk. 2, kapitel 5 c, overskriften til kapitel 6 a, § 17 b, overskriften til kapitel 7, § 18, stk. 1, § 20, stk. 3 og 4, nr. 1, § 21 b, stk. 1-5, § 21 h, § 21 i, stk. 1 og 2, § 22, stk. 3, § 26, stk. 1, § 26 a, stk. 1 og 4, og § 27, stk. 3.
 
 20) Lovændringen vedrører § 14, stk. 3 og 4, § 14, stk. 7, 1. pkt., § 14, stk. 8, § 18, stk. 1, 1. pkt., § 18, stk. 2, 1. pkt., § 21 a, stk. 3, 2. pkt., § 21 a, stk. 6, 2. pkt., § 21 d, stk. 3, 3. pkt., § 21 f, stk. 3, 1. pkt., § 21 f, stk. 4, § 21 h, stk. 1, 1. pkt., § 21 h, stk. 2, 2. pkt., § 21 j, stk. 1, og bilag 1.
+
+21) Lovændringen vedrører § 14, stk. 2.
