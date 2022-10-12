@@ -1,4 +1,4 @@
-Børne- og Undervisningsministeriet, den 4. april 2022
+Børne- og Undervisningsministeriet, den 11. oktober 2022
 
 P.M.V. Ole Hvilsom Larsen
 

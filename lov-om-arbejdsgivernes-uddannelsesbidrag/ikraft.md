@@ -191,3 +191,9 @@ Stk. 1. Loven træder i kraft den 1. januar 2022.
 Stk. 2. Regler fastsat i medfør af § 14, stk. 7, i lov om Arbejdsgivernes Uddannelsesbidrag, jf. lovbekendtgørelse nr. 816 af 28. april 2021, forbliver i kraft, indtil de ophæves eller afløses af forskrifter udstedt i medfør af § 14, stk. 8, i lov om Arbejdsgivernes Uddannelsesbidrag som affattet ved denne lovs § 1, nr. 1 og 4.
 
 Stk. 3. Bekendtgørelse nr. 89 af 25. januar 2021 om udbetaling af løntilskud til private arbejdsgivere, der ansætter elever i uddannelsessporet erhvervsgrunduddannelse efter lov om forberedende grunduddannelse (egu-løntilskudsordningen) forbliver i kraft, indtil den ophæves eller afløses af forskrifter udstedt i medfør af § 14, stk. 8, i lov om Arbejdsgivernes Uddannelsesbidrag som affattet ved denne lovs § 1, nr. 1 og 4.
+
+Lov nr. 916 af 21. juni 2022 (Videreførelse af igu-ordningen, mulighed for igu-forløb for personer med opholdstilladelse efter lov om midlertidig opholdstilladelse til personer, der i Afghanistan har bistået danske myndigheder m.v., og videreførelse af egu-fgu-bonusordningen) indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 3
+
+Loven træder i kraft den 1. juli 2022.
