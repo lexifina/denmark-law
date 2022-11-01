@@ -4,7 +4,7 @@
 
 2) støtte ydet efter § 37, stk. 1, 2 og 4, § 40, stk. 1 og 2, § 44, stk. 2, § 44 a, stk. 2, § 45, stk. 1, § 47, stk. 1, § 62, stk. 2 og 3, og § 74 a i lov om byfornyelse og boligforbedring og § 62, § 134, stk. 1, § 145, stk. 3, §§ 148-150, § 151, stk. 2 og 5, § 153, stk. 1 og 3, § 154, stk. 1, § 161, stk. 1, § 168, stk. 4 og 5, § 169, stk. 1, og § 174, stk. 4, i lov om byfornyelse samt § 14, § 26, stk. 1, § 53, stk. 3, § 63, stk. 3, § 67, § 68, § 69, stk. 1, § 70, § 71, stk. 1, § 72, stk. 1, § 77, stk. 5 og 7, § 78, stk. 1, og § 98, stk. 2, i lov om byfornyelse og udvikling af byer,
 
-3) tilskud til private bygningsejere, der gennemfører projekter om energibesparelser og energieffektiviseringer i deres bygninger, hvor hovedanvendelsen er helårsbeboelse, og til energimærkning af bygninger anvendt som dokumentation ved ansøgning om tilskud til sådanne energibesparelses- og energieffektiviseringsprojekter efter § 7, stk. 1, nr. 1, i lov om fremme af besparelser i energiforbruget,
+3) tilskud til private bygningsejere, der gennemfører projekter om energibesparelser og energieffektiviseringer i deres bygninger, hvor hovedanvendelsen er helårsbeboelse, og til energimærkning af bygninger anvendt som dokumentation ved ansøgning om tilskud til sådanne energibesparelses- og energieffektiviseringsprojekter i henhold til § 7, stk. 1, 2. pkt., i lov om fremme af effektiv energianvendelse og drivhusgasreduktion,
 
 4) beløb, der i henhold til miljølovgivningen udbetales af det offentlige til oprensning mv. af forurenede ejendomme,
 
