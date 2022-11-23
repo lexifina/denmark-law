@@ -1,5 +1,5 @@
-Erhvervsstyrelsen, den 11. oktober 2018
+Erhvervsstyrelsen, den 9. november 2022
 
-Katrine Winding
+Jørgen Wissing Jensen
 
-/ Christine Maxner
+/ Søren Corfixsen Whitt

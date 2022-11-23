@@ -1,3 +1,3 @@
 Bekendtgørelse af lov om leje af erhvervslokaler m.v. (erhvervslejelov)
 
-Herved bekendtgøres lov om leje af erhvervslokaler m.v. (erhvervslejelov), jf. lovbekendtgørelse nr. 1714 af 16. december 2010, med de ændringer, der følger af § 3 i lov nr. 270 af 19. marts 2013, § 5 i lov nr. 439 af 6. maj 2014, lov nr. 269 af 25. marts 2015, lov nr. 1550 af 13. december 2016 og § 12 i lov nr. 653 af 8. juni 2017.
+Herved bekendtgøres lov om leje af erhvervslokaler m.v. (erhvervslejelov), jf. lovbekendtgørelse nr. 1218 af 11. oktober 2018, med de ændringer, der følger af § 2 i lov nr. 359 af 4. april 2020, § 3 i lov nr. 529 af 27. marts 2021 og § 10 i lov nr. 344 af 22. marts 2022.
