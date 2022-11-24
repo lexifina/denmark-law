@@ -1,5 +1,5 @@
-Erhvervsstyrelsen, den 11. oktober 2021
+Erhvervsstyrelsen, den 9. november 2022
 
-P.M.V. Henning Steensig
+P.M.V. Jørgen Wissing Jensen
 
-/ Katja Søder
+/ Søren Corfixsen Whitt

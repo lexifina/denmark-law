@@ -21,3 +21,9 @@
 11) Lovændringen vedrører fodnoten til lovens titel, § 5, nr. 24, § 5, nr. 30-33, overskriften til kapitel 2, overskriften før § 9, § 14, stk. 1, 2. pkt., §§ 16-19, overskriften før § 20, overskriften efter § 23, §§ 23 a-i, § 58 c, stk. 2, 1. pkt., § 112, stk. 2 og 3, § 139 b, stk. 3, nr. 4, § 174, stk. 1, 2. pkt., § 225, stk. 1, nr. 1, og nr. 6-11, § 319, stk. 1, 2. pkt., § 324, stk. 1, 3. pkt., § 367, stk. 1 og § 371, stk. 2.
 
 12) Lovændringen vedrører fodnoten til lovens titel.
+
+13) Lovændringen vedrører § 58 a, stk. 6 og 7.
+
+14) Lovændringen vedrører § 139 c og § 367, stk. 1, 1. pkt.
+
+15) Lovændringen vedrører § 80, stk. 1 og 2, § 104, stk. 3, og § 345.

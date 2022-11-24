@@ -1,6 +1,6 @@
 ## Beslutning om at gennemføre flytningen
 
-§ 318 g. Beslutningen om gennemførelse af en flytning af kapitalselskabets hjemsted til et andet EU/EØS-land må tidligst træffes 4 uger efter Erhvervsstyrelsens offentliggørelse, jf. § 318 f, stk. 4, af modtagelsen af flytteplanen og eventuelt af vurderingsmændenes erklæring om kreditorernes stilling. Hvis offentliggørelsen vedrørende § 318 f, stk. 1, og vedrørende § 318 f, stk. 2 eller 3, har fundet sted hver for sig, regnes fristen i 1. pkt. fra det seneste offentliggørelsestidspunkt.
+§ 318 g. Beslutningen om gennemførelse af en flytning af kapitalselskabets hjemsted til et andet EU/ EØS-land må tidligst træffes 4 uger efter Erhvervsstyrelsens offentliggørelse, jf. § 318 f, stk. 4, af modtagelsen af flytteplanen og eventuelt af vurderingsmændenes erklæring om kreditorernes stilling. Hvis offentliggørelsen vedrørende § 318 f, stk. 1, og vedrørende § 318 f, stk. 2 eller 3, har fundet sted hver for sig, regnes fristen i 1. pkt. fra det seneste offentliggørelsestidspunkt.
 
 Stk. 2. Hvis selskabet, der påtænkes flyttet, har afsluttet et regnskabsår inden tidspunktet for flytningens regnskabsmæssige virkningstidspunkt og generalforsamlingen endnu ikke har godkendt årsrapporten for denne regnskabsperiode, skal generalforsamlingen godkende årsrapporten for denne regnskabsperiode senest samtidig med beslutningen om gennemførelsen af flytningen.
 
