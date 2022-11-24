@@ -201,3 +201,49 @@ Stk. 1. Loven gælder ikke for Færøerne og Grønland, jf. dog stk. 2 og 3.
 Stk. 2. Loven kan ved kongelig anordning helt eller delvis sættes i kraft for Grønland med de ændringer, som de grønlandske forhold tilsiger.
 
 Stk. 3. § 1, stk. 1, nr. 2, og stk. 2, i lov om bemyndigelse til midlertidig fravigelse af virksomheders pligter på selskabs- og regnskabsområdet i forbindelse med covid-19 som affattet ved denne lovs § 3, nr. 2, kan ved kongelig anordning helt eller delvis sættes i kraft for Færøerne med de ændringer, som de færøske forhold tilsiger.
+
+Lov nr. 2601 af 28. december 2021 (Implementering af initiativer i aftale om politiets og anklagemyndighedens økonomi 2021-2023, herunder etablering af National Enhed for Særlig Kriminalitet) indeholder følgende ikrafttrædelsesbestemmelser:
+
+§ 23
+
+Loven træder i kraft den 1. januar 2022.
+
+§ 24
+
+Stk. 1. Loven gælder ikke for Færøerne og Grønland, jf. dog stk. 2 og 3.
+
+Stk. 2. §§ 3, 5, 8, 9 og 11-19 kan ved kongelig anordning helt eller delvis sættes i kraft for Grønland med de ændringer, som de grønlandske forhold tilsiger.
+
+Stk. 3. (Udelades)
+
+Lov nr. 568 af 10. maj 2022 (Skærpede krav om måltal og politikker for det underrepræsenterede køn) indeholder følgende ikrafttrædelsesbestemmelser:
+
+§ 11
+
+Stk. 1. Loven træder i kraft den 1. januar 2023.
+
+Stk. 2. (Udelades)
+
+§ 12
+
+Stk. 1. Loven gælder ikke for Færøerne og Grønland, jf. dog stk. 2 og 3.
+
+Stk. 2. §§ 1-10 kan ved kongelig anordning helt eller delvis sættes i kraft for Grønland med de ændringer, som de grønlandske forhold tilsiger. Loven kan endvidere sættes i kraft på forskellige tidspunkter.
+
+Stk. 3. (Udelades)
+
+Lov nr. 569 af 10. maj 2022 (Styrket grænseoverskridende håndhævelse over for tjenesteudbydere etableret i øvrige EU-lande m.v.) indeholder følgende ikrafttrædelsesbestemmelser:
+
+§ 7
+
+Stk. 1. Loven træder i kraft den 1. juli 2022, jf. dog stk. 2.
+
+Stk. 2. (Udelades)
+
+§ 8
+
+Stk. 1. Loven gælder ikke for Færøerne og Grønland, jf. dog stk. 2 og 3.
+
+Stk. 2. §§ 1-5 kan ved kongelig anordning helt eller delvis sættes i kraft for Grønland med de ændringer, som de grønlandske forhold tilsiger. Loven kan endvidere sættes i kraft på forskellige tidspunkter.
+
+Stk. 3. (Udelades)
