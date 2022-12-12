@@ -1,5 +1,5 @@
-Uddannelses- og Forskningsministeriet, den 28. januar 2020
+Uddannelses- og Forskningsministeriet, den 7. december 2022
 
-P.M.V. Søren Langelund Klit Konst. kontorchef
+P.M.V. Søren Langelund Klit Kontorchef
 
-/ Marianne Madsen
+/ Stine Ewald Larsen
