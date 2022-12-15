@@ -1,1 +1,1 @@
-§ 62 B. Hvor skatteansættelsen er fastsat skønsmæssigt efter skattekontrollovens § 74, beregnes en rente af restskatten svarende til renten i § 7, stk. 2, i opkrævningsloven med tillæg af 0,4 procentpoint pr. påbegyndt måned fra den 1. september i året efter indkomståret til udskrivningsdatoen.
+§ 62 B. (Ophævet)
