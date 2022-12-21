@@ -1,5 +1,5 @@
-Beskæftigelsesministeriet, den 26. april 2021
+Ministeriet for Digitalisering og Ligestilling, den 19. december 2022
 
-Mette Kaae Hansen
+Marie Bjerre
 
-/ Neel Pryds Winkel
+/ Mette Kaae Hansen
