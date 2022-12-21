@@ -57,3 +57,19 @@ Lov nr. 468 af 20. marts 2021 (Digital post til begge forældre om fælles barn)
 § 2
 
 Ministeren for ligestilling fastsætter tidspunktet for lovens ikrafttræden.
+
+Lov nr. 2591 af 28. december 2021 (Styrket beskyttelse af lgbti-personer mod forskelsbehandling, hadforbrydelser og hadefulde ytringer og beskyttelse af personer med handicap mod hadefulde ytringer) indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 7
+
+Stk. 1. Loven træder i kraft den 1. januar 2022, jf. dog stk. 2.
+
+Stk. 2. Ministeren for ligestilling fastsætter tidspunktet for ikrafttrædelse af lovens § 1, nr. 10.
+
+Lov nr. 576 af 10. maj 2022 (Måltal og politik for kønssammensætningen i ledelser og bestyrelser i offentlige institutioner og virksomheder m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 2
+
+Stk. 1. Loven træder i kraft den 1. januar 2023.
+
+Stk. 2. Indberetning efter § 11, stk. 5, i lov om ligestilling af kvinder og mænd som affattet ved denne lovs § 1, nr. 5, skal ske første gang for regnskabsår, der begynder den 1. januar 2023 eller senere.
