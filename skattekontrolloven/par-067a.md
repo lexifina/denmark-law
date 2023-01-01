@@ -1,4 +1,4 @@
-## Registersamkøring
+## Adgang til registre uden for told- og skatteforvaltningen og registersamkøring
 
 § 67 a. Told- og skatteforvaltningen kan behandle, herunder samkøre, de oplysninger, told- og skatteforvaltningen er i besiddelse af, med henblik på udvikling af it-systemer, der er nødvendige for told- og skatteforvaltningens myndighedsudøvelse.
 
