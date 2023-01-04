@@ -1,11 +1,3 @@
-Lov nr. 201 af 18. maj 1960 (Faderskabssager) indeholder følgende ikrafttrædelsesbestemmelse:
-
-§ 2
-
-Stk. 1. Denne lov træder i kraft den 1. januar 1961. Loven gælder ikke for Færøerne og Grønland. Loven finder kun anvendelse på sager vedrørende børn, der fødes efter lovens ikrafttræden, dog at bestemmelsen i § 456 r også finder anvendelse på sager om børn født før lovens ikrafttræden, herunder sager om børn, for hvis vedkommende én eller flere mænd er anset som bidragspligtige. I øvrigt gælder for disse sager de hidtil gældende regler.
-
-Stk. 2. (Udelades)
-
 Lov nr. 277 af 9. juni 1982 (Advokater m.v. Tilsyn med eksekutorer) indeholder følgende ikrafttrædelsesbestemmelser:
 
 § 3
@@ -88,12 +80,6 @@ Stk. 2. Lov for Færøerne om rettens pleje § 93, stk. 4, § 115 b, § 119, stk
 
 Stk. 3. (Udelades)
 
-Lov nr. 715 af 25. juni 2010 (Udveksling af oplysninger om dna-profiler, fingeraftryk og køretøjer med stater uden for Den Europæiske Union) indeholder følgende ikrafttrædelsesbestemmelse:
-
-§ 5
-
-Justitsministeren fastsætter tidspunktet for lovens ikrafttræden og kan herunder fastsætte, at lovens §§ 1-4 træder i kraft på forskellige tidspunkter.
-
 Lov nr. 1621 af 26. december 2013 (Sikkerhed i retssale) indeholder følgende ikrafttrædelsesbestemmelse:
 
 § 2
@@ -166,7 +152,7 @@ Lov nr. 1540 af 18. december 2018 (Initiativer vedrørende forsvarsadvokater og 
 
 Stk. 1. Loven træder i kraft den 1. januar 2019, jf. dog stk. 2.
 
-Stk. 2. Lovens § 1, nr. 2-5, 7 og 8, træder i kraft den 1. juli 2019.
+Stk. 2. (Udelades)
 
 § 4
 
@@ -218,49 +204,11 @@ Stk. 1. Loven træder i kraft den 1. maj 2019.
 
 Stk. 2. Lovens § 1, nr. 3 og 4, finder ikke anvendelse i straffesager, hvor der er foretaget forkyndelse af indkaldelse for tiltalte, jf. retsplejelovens § 844, stk. 2, før lovens ikrafttræden. Sådanne straffesager behandles efter de hidtil gældende regler.
 
-Lov nr. 349 af 2. april 2020 (Skærpet straf for lovovertrædelser med baggrund i eller sammenhæng med covid-19 og blokering af hjemmesider, hvorfra der begås visse lovovertrædelser, som har baggrund i eller sammenhæng med covid-19) indeholder følgende ikrafttrædelsesbestemmelse:
-
-§ 4
-
-Stk. 1. Loven træder i kraft ved bekendtgørelsen i Lovtidende.
-
-Stk. 2. (Udelades)
-
-Stk. 3. Straffelovens § 81 d som affattet ved denne lovs § 1, nr. 1, retsplejelovens § 791 d, stk. 1, 2. pkt., som affattet ved denne lovs § 2, nr. 1, retsplejelovens § 791 d, stk. 6, som affattet ved denne lovs § 2, nr. 2, og udlændingelovens § 22, nr. 9, som affattet ved denne lovs § 3, nr. 1, ophæves den 1. januar 2022.
-
-Lov nr. 1832 af 8. december 2020 (Selvstændig bestemmelse om angreb med genstand på personer i offentlig tjeneste og skærpelse af straffen for forsætlig fareforvoldelse) indeholder følgende ikrafttrædelsesbestemmelse:
-
-§ 8
-
-Loven træder i kraft den 15. december 2020.
-
 Lov nr. 1942 af 15. december 2020 (Adgang til sociale behandlingstilbud mod stofmisbrug for indsatte i kriminalforsorgens institutioner m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
 
 § 3
 
 Justitsministeren fastsætter tidspunktet for lovens ikrafttræden.
-
-Lov nr. 124 af 30. januar 2021 (Gennemførelse af dele af aftalen om politiets og anklagemyndighedens økonomi 2021-2023) indeholder følgende ikrafttrædelsesbestemmelse:
-
-§ 5
-
-Stk. 1. Loven træder i kraft den 1. februar 2021.
-
-Stk. 2-3. (Udelades)
-
-Lov nr. 160 af 3. februar 2021 (Yderligere foranstaltninger for at forebygge og inddæmme nye virusvarianter af covid-19 og udvidet adgang til kommunale isolationsfaciliteter) indeholder følgende ikrafttrædelsesbestemmelse:
-
-§ 5
-
-Stk. 1. Loven træder i kraft ved bekendtgørelsen i Lovtidende, jf. dog stk. 2.
-
-Stk. 2-3. (Udelades)
-
-Lov nr. 285 af 27. februar 2021 om epidemier (epidemiloven) indeholder følgende ikrafttrædelsesbestemmelse:
-
-§ 68. Loven træder i kraft den 1. marts 2021.
-
-Stk. 2-4. (Udelades)
 
 Lov nr. 425 af 16. marts 2021 om retsafgifter indeholder følgende ikrafttrædelses- og overgangsbestemmelser:
 
@@ -272,38 +220,6 @@ Stk. 2. (Udelades)
 
 Stk. 2-6. (Udelades)
 
-Lov nr. 671 af 19. april 2021 (Indførelse af granskningskommissioner, Folketingets samtykke til nedlæggelse af undersøgelseskommissioner m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
-
-§ 3
-
-Stk. 1. Loven træder i kraft dagen efter bekendtgørelsen i Lovtidende.
-
-Stk. 2. (Udelades)
-
-Lov nr. 1155 af 8. juni 2021 om fondsmæglerselskaber og investeringsservice og -aktiviteter indeholder følgende ikrafttrædelsesbestemmelse:
-
-§ 288. Loven træder i kraft den 26. juni 2021.
-
-Stk. 2-4. (Udelades)
-
-Lov nr. 1169 af 8. juni 2021 (Effektivisering af straffesagskæden, digital kommunikation i skiftesager, pligtig afgangsalder for dommerfuldmægtige m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
-
-§ 8
-
-Loven træder i kraft den 1. juli 2021.
-
-Lov nr. 1170 af 8. juni 2021 (Øget brug af telekommunikation med billede i retsmøder om visse foranstaltninger) indeholder følgende ikrafttrædelsesbestemmelse:
-
-§ 2
-
-Loven træder i kraft den 1. juli 2021.
-
-Lov nr. 1171 af 8. juni 2021 (Nedsættelse af visse offentlige ydelser ved tiltaltes udeblivelse uden dokumenteret lovligt forfald) indeholder følgende ikrafttrædelsesbestemmelse:
-
-§ 6
-
-Loven træder i kraft den 1. juli 2021.
-
 Lov nr. 1172 af 8. juni 2021 (Nyt uafhængigt tilsyn med bevismidler, udvidelse af politiklageordningen og justering af ordningen med fartbøder til politiets personale i forbindelse med udrykningskørsel som led i tjenesten) indeholder følgende ikrafttrædelsesbestemmelse:
 
 § 2
@@ -312,10 +228,98 @@ Stk. 1. Loven træder i kraft den 1. juli 2021, jf. dog stk. 2.
 
 Stk. 2. Lovens § 1, nr. 1-22 og 24, træder i kraft den 1. januar 2022.
 
-Lov nr. 1174 af 8. juni 2021 (Forbud mod deltagelse i nattelivet, udvidet adgang til beslaglæggelse af værdigenstande og udvisning af udlændinge dømt for vanvidskørsel m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
+Lov nr. 2600 af 28. december 2021 (Styrket indsats mod stalking) indeholder følgende ikrafttrædelsesbestemmelse:
 
-§ 5
+§ 4
 
-Stk. 1. Loven træder i kraft den 1. juli 2021.
+Stk. 1. Loven træder i kraft den 1. januar 2022.
 
 Stk. 2. (Udelades)
+
+Lov nr. 2601 af 28. december 2021 (Implementering af initiativer i aftale om politiets og anklagemyndighedens økonomi 2021-2023, herunder etablering af National Enhed for Særlig Kriminalitet) indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 23
+
+Loven træder i kraft den 1. januar 2022.
+
+Lov nr. 158 af 31. januar 2022 (Opfølgning på initiativer i handlingsplanen til imødegåelse af udfordringerne med fangeflugter og delegation af afgørelseskompetence i sager om udgang for personer anbragt på hospital eller institution ved dom) indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 4
+
+Loven træder i kraft den 1. februar 2022.
+
+Lov nr. 226 af 15. februar 2022 (Styrket indsats mod seksuelle overgreb mod børn og styrket rådgivning til ofre for seksuelle overgreb) indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 4
+
+Loven træder i kraft den 1. marts 2022.
+
+Lov nr. 227 af 15. februar 2022 (Smidiggørelse af registrering af medmoderskab, fastsættelse af transpersoners forældreskab og navneændring for transpersoner m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 8
+
+Stk. 1. Loven træder i kraft den 1. april 2022, jf. dog stk. 2.
+
+Stk. 2. Social- og ældreministeren fastsætter tidspunktet for ikrafttrædelsen af lovens §§ 1, 3, 5 og 6.
+
+Stk. 3-5. (Udelades)
+
+Lov nr. 291 af 8. marts 2022 (Revision af reglerne om registrering og opbevaring af oplysninger om teletrafik (logning) m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 3
+
+Stk. 1. Justitsministeren fastsætter tidspunktet for lovens ikrafttræden.
+
+Stk. 2. Justitsministeren kan i en overgangsperiode fastsætte regler om fravigelse af retsplejelovens §§ 786 b-786 d som affattet ved denne lovs § 1, nr. 10, herunder at reglerne helt eller delvis ikke skal anvendes. Ministeren fastsætter herudover regler om det tidspunkt, hvor domme skal være afsagt eller indgreb være iværksat, for at retsplejelovens § 786 b, stk. 1 og 3, som affattet ved denne lovs § 1, nr. 10, finder anvendelse.
+
+Stk. 3. For oplysninger, der på tidspunktet for lovens ikrafttræden er registreret og opbevaret efter retsplejelovens § 786, stk. 4, jf. lovbekendtgørelse nr. 1835 af 15. september 2021, finder retsplejelovens kapitel 71 og 74 om indgreb i meddelelseshemmeligheden og edition som ændret ved denne lovs § 1, nr. 1, 2 og 11-15, anvendelse.
+
+Stk. 4. Oplysninger, der på tidspunktet for lovens ikrafttræden er registreret og opbevaret efter retsplejelovens § 786, stk. 4, jf. lovbekendtgørelse nr. 1835 af 15. september 2021, skal opbevares i 1 år fra registreringstidspunktet. Den, der undlader at opbevare oplysninger efter 1. pkt., straffes med bøde.
+
+Stk. 5. Regler fastsat i medfør af retsplejelovens § 786, stk. 5, 7 og 8, jf. lovbekendtgørelse nr. 1835 af 15. september 2021, forbliver i kraft, indtil de ophæves eller afløses af forskrifter udstedt i medfør af § 786, stk. 4-6, jf. denne lovs § 1, nr. 4.
+
+Lov nr. 696 af 24. maj 2022 (Styrket indsats mod menneskeudnyttelse) indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 4
+
+Loven træder i kraft den 1. juni 2022.
+
+Lov nr. 697 af 24. maj 2022 (Antallet af højesteretsdommere, sammensætningen af Domstolsstyrelsens bestyrelse og digital anmeldelse til skifteretten af krav og tilgodehavender m.v. i sager om skifte af dødsbo) indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 4
+
+Stk. 1. Loven træder i kraft den 1. juni 2022, jf. dog stk. 2.
+
+Stk. 2-4. (Udelades)
+
+Lov nr. 873 af 21. juni 2022 om Det Centrale Dna-profilregister og Det Centrale Fingeraftryksregister indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 11. Justitsministeren fastsætter tidspunktet for lovens ikrafttræden. Ministeren kan herunder fastsætte, at dele af loven træder i kraft på forskellige tidspunkter.
+
+Stk. 2. (Udelades)
+
+Lov nr. 890 af 21. juni 2022 (Hurtigere udsættelse af lejere på grund af utryghedsskabende kriminalitet) indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 4
+
+Loven træder i kraft den 1. juli 2022.
+
+Lov nr. 893 af 21. juni 2022 (Opfølgning på flerårsaftalen om kriminalforsorgens økonomi 2022-2025, herunder leje af fængselspladser i udlandet, revision af disciplinærstraffesystemet, udstationering til eget hjem med fodlænke eller udslusningsfængsel m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 13
+
+Stk. 1. Loven træder i kraft den 1. juli 2022, jf. dog stk. 2 og 3.
+
+Stk. 2. Justitsministeren fastsætter tidspunktet for ikrafttrædelse af § 1, nr. 11-19, og § 3, nr. 3-6.
+
+Stk. 3-8. (Udelades)
+
+Lov nr. 897 af 21. juni 2022 (Effektivisering af straffesagskæden og nævnsprocessen m.v. i Ungdomskriminalitetsnævnet, øget adgang til videregivelse og optagelse af fotografier, forbedring af politiets muligheder for efterforskning m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 7
+
+Stk. 1. Loven træder i kraft den 1. juli 2022, jf. dog stk. 2 og 3.
+
+Stk. 2. (Udelades)
+
+Stk. 3. § 107 a i retsplejeloven som affattet ved denne lovs § 2, nr. 2, træder i kraft dagen efter bekendtgørelsen i Lovtidende.
