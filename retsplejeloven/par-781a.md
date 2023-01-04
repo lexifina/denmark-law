@@ -1,0 +1,1 @@
+§ 781 a. Uanset § 781, stk. 1, nr. 3, kan politiet foretage teleoplysning, jf. § 780, stk. 1, nr. 3, og udvidet teleoplysning, jf. § 780, stk. 1, nr. 4, ved pålæg om udlevering af trafik- og lokaliseringsdata, hvis efterforskningen angår en lovovertrædelse, som efter loven kan straffes med fængsel i 3 år eller derover, eller en lovovertrædelse omfattet af straffelovens § 81 a.
