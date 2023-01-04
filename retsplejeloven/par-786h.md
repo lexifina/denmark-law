@@ -1,0 +1,1 @@
+§ 786 h. Justitsministeren kan efter forhandling med klima-, energi- og forsyningsministeren fastsætte regler om udbyderes registrering, indberetning, verificering og opbevaring af nummeroplysningsdata og andre identifikationsoplysninger samt tilsyn hermed og oplysningspligt.

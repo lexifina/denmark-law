@@ -1,0 +1,1 @@
+§ 786 g. Justitsministeren kan efter forhandling med erhvervsministeren fastsætte nærmere regler om udbyderes opbevaring af oplysninger registreret og opbevaret i medfør af §§ 786 a-786 f eller pålæg eller regler udstedt i medfør heraf.
