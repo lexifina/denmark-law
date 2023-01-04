@@ -1,1 +1,1 @@
-§ 116 a. Den kompetente retshåndhævende myndighed i en medlemsstat i Den Europæiske Union kan til brug for efterforskningen af en konkret straffesag ved elektronisk søgning sammenligne et fingeraftryk, der indgår i efterforskningen, med fingeraftryk i politiets centrale finger- og håndaftryksregister.
+§ 116 a. (Ophævet)
