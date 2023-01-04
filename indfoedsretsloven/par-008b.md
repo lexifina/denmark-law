@@ -1,6 +1,6 @@
-§ 8 B. Den, som dømmes for overtrædelse af en eller flere bestemmelser i straffelovens kapitel 12 og 13, kan ved dom frakendes sin danske indfødsret, medmindre den pågældende derved bliver statsløs.
+§ 8 B. Den, som dømmes for en strafbar handling, og som derved har udvist en handlemåde, som er til alvorlig skade for statens vitale interesser, skal ved dom frakendes sin danske indfødsret, medmindre dette vil være i strid med Danmarks internationale forpligtelser.
 
-Stk. 2. Er en person i udlandet straffet for en handling, der efter stk. 1 kan medføre frakendelse af dansk indfødsret, kan indfødsret frakendes i medfør af straffelovens § 11.
+Stk. 2. Er en person i udlandet straffet for en handling, der efter stk. 1 skal medføre frakendelse af dansk indfødsret, skal indfødsret frakendes i medfør af straffelovens § 11.
 
 Stk. 3. Den, som har udvist en handlemåde, som er til alvorlig skade for landets vitale interesser, kan af udlændinge- og integrationsministeren fratages sin danske indfødsret, medmindre den pågældende derved bliver statsløs.
 
