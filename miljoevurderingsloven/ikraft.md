@@ -73,3 +73,11 @@ Loven træder i kraft den 1. januar 2021.
 § 3
 
 (Udelades)
+
+Lov nr. 900 af 21. juni 2022 (Dispensation og klagesagsbehandling m.v. på fortidsmindeområdet) indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 18
+
+Stk. 1. Loven træder i kraft den 1. juli 2022.
+
+Stk. 2. (Udelades)

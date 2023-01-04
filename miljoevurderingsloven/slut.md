@@ -1,4 +1,4 @@
-Miljøministeriet, den 27. oktober 2021
+Miljøministeriet, den 3. januar 2023
 
 P.M.V. Paolo Perotti
 
