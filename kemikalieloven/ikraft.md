@@ -175,3 +175,9 @@ Lov nr. 2214 af 29. december 2020 (Supplerende bestemmelser til markedsovervågn
 Stk. 1. Loven træder i kraft den 1. juli 2021, jf. dog stk. 2.
 
 Stk. 2. (Udelades)
+
+Lov nr. 574 af 10. maj 2022 (Begrænsning i eller forbud mod anvendelse af plantebeskyttelsesmidler på befæstede eller stærkt permeable arealer) indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 2
+
+Loven træder i kraft den 1. juli 2022.
