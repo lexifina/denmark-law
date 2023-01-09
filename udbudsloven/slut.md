@@ -1,7 +1,5 @@
-Givet på Christiansborg Slot, den 15. december 2015
+Konkurrence- og Forbrugerstyrelsen, den 6. januar 2023
 
-Under Vor Kongelige Hånd og Segl
+P.M.V. Jakob Hald
 
-MARGRETHE R.
-
-/ Troels Lund Poulsen
+/ Kenneth Skov Jensen
