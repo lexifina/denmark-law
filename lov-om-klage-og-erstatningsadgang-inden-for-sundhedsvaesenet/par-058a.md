@@ -2,9 +2,9 @@
 
 ## Ankenævnet for Patienterstatningen
 
-§ 58 a. Sundhedsministeren nedsætter et ankenævn for Patienterstatningen, der består af 1 formand og et af sundhedsministeren fastsat antal næstformænd og beskikkede medlemmer.
+§ 58 a. Indenrigs- og sundhedsministeren nedsætter et ankenævn for Patienterstatningen, der består af 1 formand og et af indenrigs- og sundhedsministeren fastsat antal næstformænd og beskikkede medlemmer.
 
-Stk. 2. Formanden og næstformændene udnævnes af sundhedsministeren. Formanden og mindst 3 næstformænd skal være landsdommere. De øvrige næstformænd skal være dommere. Nævnets øvrige medlemmer udpeges af Sundhedsstyrelsen, regionsrådene i forening, KL, Forsikring & Pension, Advokatrådet, Forbrugerrådet Tænk, Danske Handicaporganisationer og Danske Patienter.
+Stk. 2. Formanden og næstformændene udnævnes af indenrigs- og sundhedsministeren. Formanden og mindst 3 næstformænd skal være landsdommere. De øvrige næstformænd skal være dommere. Nævnets øvrige medlemmer udpeges af indenrigs- og sundhedsministeren, regionsrådene i forening, KL, Forsikring & Pension, Advokatrådet, Forbrugerrådet Tænk, Danske Handicaporganisationer og Danske Patienter.
 
 Stk. 3. Sundhedsstyrelsen udpeger for de faglige områder, hvor det findes nødvendigt for sagernes behandling, et antal sagkyndige medlemmer, der alle er fagligt uddannede.
 
@@ -32,11 +32,11 @@ Stk. 5. Formanden eller vedkommende næstformand afgør, inden for hvilket fagli
 
 Stk. 6. Nævnet er beslutningsdygtigt, hvis nævnet ved afgørelsen af den enkelte sag består af formanden eller 1 næstformand og mindst 4 medlemmer, heraf mindst 1 medlem efter stk. 4 henholdsvis nr. 2 og 6, 1 medlem efter stk. 4, nr. 3, 4 eller 5, og 1 medlem efter stk. 4, nr. 7, 8 eller 9.
 
-Stk. 7. Sundhedsministeren kan bemyndige nævnets formand eller 1 næstformand til at træffe afgørelse i sager, der ikke skønnes at frembyde tvivl.
+Stk. 7. Indenrigs- og sundhedsministeren kan bemyndige nævnets formand eller 1 næstformand til at træffe afgørelse i sager, der ikke skønnes at frembyde tvivl.
 
 Stk. 8. Nævnets medlemmer udpeges for 4 år. Finder udpegningen sted i løbet af en periode, gælder den kun til periodens udløb.
 
-Stk. 9. Sundhedsministeren fastsætter efter forhandling med nævnet dettes forretningsorden.
+Stk. 9. Indenrigs- og sundhedsministeren fastsætter efter forhandling med nævnet dettes forretningsorden.
 
 Stk. 10. Styrelsen for Patientklager stiller sekretariatsbistand til rådighed for nævnet.
 

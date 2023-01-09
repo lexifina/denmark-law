@@ -1,5 +1,5 @@
-Sundheds- og Ældreministeriet, den 14. juni 2018
+Indenrigs- og Sundhedsministeriet, den 4. januar 2023
 
-Ellen Trane Nørby
+Sophie Løhde
 
-/ Cecilie Salejärvi Pedersen
+/ Katrine Bisballe

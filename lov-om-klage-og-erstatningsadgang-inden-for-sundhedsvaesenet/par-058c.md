@@ -6,4 +6,4 @@ Stk. 3. Styrelsen for Patientklager kan helt ekstraordinært ud over de i stk. 2
 
 Stk. 4. En digital klage anses for at være kommet frem, når den er tilgængelig for Styrelsen for Patientklager.
 
-Stk. 5. Styrelsen for Patientklagers afgørelser efter stk. 1-3,kan ikke indbringes for anden administrativ myndighed.
+Stk. 5. Styrelsen for Patientklagers afgørelser efter stk. 1-3, kan ikke indbringes for anden administrativ myndighed.
