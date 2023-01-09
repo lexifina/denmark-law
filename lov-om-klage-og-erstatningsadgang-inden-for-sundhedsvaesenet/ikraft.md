@@ -1,4 +1,4 @@
-Lov nr. 314 af 25. april 2018 (Udvidelse af patienterstatningsordningen, fredning af udbetalte erstatninger m.v.) indeholder følgende ikrafttrædelses- og overgangsbestemmelser:
+Lov nr. 314 af 25. april 2018 (Udvidelse af patienterstatningsordningen, fredning af udbetalte erstatninger m.v.) indeholder følgende ikrafttrædelses- og overgangsbestemmelse:
 
 § 4
 
@@ -11,10 +11,6 @@ Stk. 3. Denne lovs § 1, nr. 1-4, 8-11, 13-16, 19, 20, 23-25, 29 og 33-36, samt 
 Stk. 4. Regler fastsat i medfør af § 19, stk. 4 og 7, i lov om klage- og erstatningsadgang inden for sundhedsvæsenet, jf. lovbekendtgørelse nr. 1022 af 28. august 2017, forbliver i kraft, indtil de ophæves eller afløses af nye regler.
 
 Stk. 5. § 24, stk. 5, 2. pkt., i lov om klage- og erstatningsadgang inden for sundhedsvæsenet som affattet ved denne lovs § 1, nr. 12, finder anvendelse for skader forårsaget den 1. juli 2006 eller senere.
-
-§ 5
-
-Loven gælder ikke for Færøerne og Grønland, men kan for Færøerne sættes i kraft ved kongelig anordning med de ændringer, som de færøske forhold tilsiger.
 
 Lov nr. 558 af 29. maj 2018 (Tandpleje til voksne i privat praksis, tilskud, klageadgang m.v.) indeholder følgende ikrafttrædelses- og overgangsbestemmelser:
 
@@ -36,13 +32,9 @@ Stk. 5. Klager over manglende tilbud om skriftligt prisoverslag, manglende regel
 
 Stk. 6. Regionsrådene kan yde sekretariatsbetjening til behandlingen af de klager, der er nævnt i stk. 3 og 5.
 
-Stk. 7. Henlægger sundhedsministeren efter § 3 b, stk. 1, i lov om klage- og erstatningsadgang inden for sundhedsvæsenet som affattet ved denne lovs § 2, nr. 8, behandlingen af sager til en klageinstans, behandles de klager, der er nævnt i stk. 3 og 5, efter de aftaler, der indgås efter denne bestemmelse, og de regler, der udstedes i medfør heraf.
+Stk. 7. Henlægger indenrigs- og sundhedsministeren efter § 3 b, stk. 1, i lov om klage- og erstatningsadgang inden for sundhedsvæsenet som affattet ved denne lovs § 2, nr. 8, behandlingen af sager til en klageinstans, behandles de klager, der er nævnt i stk. 3 og 5, efter de aftaler, der indgås efter denne bestemmelse, og de regler, der udstedes i medfør heraf.
 
-§ 7
-
-Loven gælder ikke for Grønland og Færøerne, men § 1, stk. 3, i lov om klage- og erstatningsadgang inden for sundhedsvæsenet som affattet ved denne lovs § 2, nr. 1, og denne lovs § 2, nr. 2-7 og 9-16, kan ved kongelig anordning helt eller delvis sættes i kraft for Færøerne med de ændringer, som de færøske forhold tilsiger.
-
-Lov nr. 730 af 8. juni 2018 (Oprettelse af Styrelsen for Patientklager og ændrede registrerings- og gebyrregler for det risikobaserede tilsyn med behandlingssteder) indeholder følgende ikrafttrædelsesbestemmelser:
+Lov nr. 730 af 8. juni 2018 (Oprettelse af Styrelsen for Patientklager og ændrede registrerings- og gebyrregler for det risikobaserede tilsyn med behandlingssteder) indeholder følgende ikrafttrædelsesbestemmelse:
 
 § 3
 
@@ -50,6 +42,52 @@ Stk. 1. Loven træder i kraft den 1. juli 2018.
 
 Stk. 2. § 1, nr. 2-7, har virkning fra den 1. januar 2017.
 
-§ 4
+Lov nr. 1555 af 18. december 2018 (Autorisation af ambulancebehandlere og registrering af ambulancebehandlere med særlig kompetence (paramedicinere), opgavespecifik autorisation af behandlerfarmaceuter, genordination af receptpligtig medicin, ordination af dosisdispensering med tilskud, organisatorisk ansvar m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
 
-Loven gælder ikke for Færøerne og Grønland, men kan ved kongelig anordning sættes i kraft for Færøerne med de ændringer, som de færøske forhold tilsiger.
+§ 6
+
+Stk. 1. Loven træder i kraft den 1. juli 2019, jf. dog stk. 2 og 3.
+
+Stk. 2-3. (Udelades)
+
+Lov nr. 1435 af 17. december 2019 (Begrænsning af ressourcereglen ved kræftscreeninger, udvidelse af lægemiddelskadeordningen i nød- og beredskabssituationer m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 3
+
+Stk. 1. Loven træder i kraft den 1. januar 2020.
+
+Stk. 2. § 1, nr. 1, har virkning fra den 1. juni 2018.
+
+Lov nr. 1436 af 17. december 2019 (Styrkelse af borgernes tryghed og tillid til sundhedsforskning samt forbedrede rammer for sundhedsforskning) indeholder følgende ikrafttrædelses- og overgangsbestemmelser:
+
+§ 6
+
+Stk. 1. Loven træder i kraft den 1. januar 2020, jf. dog stk. 2 og 3.
+
+Stk. 2-4. (Udelades)
+
+Lov nr. 1853 af 9. december 2020 om videnskabsetisk behandling af kliniske afprøvninger af medicinsk udstyr m.v. indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 18. Loven træder i kraft den 26. maj 2021, jf. dog stk. 2.
+
+Stk. 2-6. (Udelades)
+
+Lov nr. 1855 af 9. december 2020 (Oprettelse af Ankenævnet for Tilsynsafgørelser og Det Rådgivende Udvalg for Tilsyn, lovfæstelse af Fagligt Forum for Patientsikkerhed, øget beskyttelse af personer ved rapportering af utilsigtede hændelser, krav om instrukser, sprogkrav til sundhedspersoner, forenkling af reglerne om virksomhedsansvarlige læger og tandlæger, dispensation fra fristen for indgivelse af ansøgning om autorisation som kontaktlinseoptiker m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 5
+
+Stk. 1. Loven træder i kraft den 1. januar 2021, jf. dog stk. 2.
+
+Stk. 2. § 1, nr. 8 og 9, § 2, nr. 2-4, og § 3, nr. 1-4, træder i kraft den 1. juli 2021.
+
+Lov nr. 285 af 27. februar 2021 om epidemier m.v. (epidemiloven) indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 68. Loven træder i kraft 1. marts 2021.
+
+Stk. 2-4. (Udelades)
+
+Lov nr. 909 af 21. juni 2022 (Regulering og forrentning af erstatnings- og godtgørelsesbeløb) indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 2
+
+Loven træder i kraft den 1. juli 2022.
