@@ -1,3 +1,3 @@
 Bekendtgørelse af lov om afgift af ledningsført vand
 
-Herved bekendtgøres lov om afgift af ledningsført vand, jf. lovbekendtgørelse nr. 962 af 27. juni 2013, med de ændringer, der følger af § 8 i lov nr. 924 af 18. september 2012, § 14 i lov nr. 1634 af 26. december 2013, § 2 i lov nr. 538 af 29. april 2015, § 4 i lov nr. 1893 af 29. december 2015, § 13 i lov nr. 132 af 16. februar 2016, § 2 i lov nr. 104 af 13. februar 2018 og § 29 i lov nr. 1126 af 19. november 2019.
+Herved bekendtgøres lov om afgift af ledningsført vand, jf. lovbekendtgørelse nr. 171 af 25. februar 2020, med de ændringer, der følger af § 1 i lov nr. 127 af 30. januar 2021 og § 15 i lov nr. 832 af 14. juni 2022.
