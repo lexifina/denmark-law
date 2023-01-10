@@ -1,9 +1,9 @@
-Skatteministeriet, den 25. februar 2020
+Skatteministeriet, den 9. januar 2023
 
 P.M.V. Jens Brøchner
 
-/ Claus Hansen
+/ Kathrine Waage
 
-Bilag
+Bilag 1
 
-(Ophævet)
+## (Ophævet)
