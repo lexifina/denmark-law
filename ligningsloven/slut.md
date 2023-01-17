@@ -1,14 +1,14 @@
-Skatteministeriet, den 17. august 2021
+Skatteministeriet, den 13. januar 2023
 
 P.M.V. Jens Brøchner
 
-/ Søren Schou
+/ Rikke Kure Wendel
 
 Bilag 1
 
 Ydelser omfattet af boligjobordningen i 2018 og frem
 
-## A. Serviceydelser i hjemmet eller i en fritidsbolig
+A. Serviceydelser i hjemmet eller i en fritidsbolig
 
 Almindelig rengøring
 
@@ -46,7 +46,7 @@ Almindeligt havearbejde m.m.
 
 – Snerydning
 
-## B. Grøn istandsættelse, tilslutning til bredbånd og installation af tyverialarm vedrørende hjemmet eller en fritidsbolig
+B. Grøn istandsættelse, tilslutning til bredbånd og installation af tyverialarm vedrørende hjemmet eller en fritidsbolig (i det omfang arbejdet udføres senest den 31. marts 2022 og betales senest den 31. maj 2022).
 
 Udvendigt malerarbejde (bortset fra tag), f.eks.
 
