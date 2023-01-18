@@ -1,1 +1,1 @@
-§ 7 D. Ved opgørelsen af den skattepligtige indkomst behandles lån, der ydes efter § 2, stk. 7, i lov om VækstFonden, og som kun er tilbagebetalingspligtige i tilfælde af kommerciel udnyttelse af projektet, som lån.
+§ 7 D. (Ophævet)
