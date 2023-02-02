@@ -1,5 +1,5 @@
-Sundheds- og Ældreministeriet, den 8. juli 2019
+Indenrigs- og Sundhedsministeriet, den 24. januar 2023
 
-Magnus Heunicke
+Sophie Løhde
 
 / Katrine Bisballe

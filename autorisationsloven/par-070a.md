@@ -8,4 +8,4 @@
 
 Stk. 2. Ret til at betegne sig som social- og sundhedsassistent har kun den, der har autorisation som social- og sundhedsassistent.
 
-Stk. 3. Ministeren for sundhed og forebyggelse kan fastsætte regler om udøvelse af virksomhed som social- og sundhedsassistent og om afgrænsning af virksomheden.
+Stk. 3. Indenrigs- og sundhedsministeren kan fastsætte regler om udøvelse af virksomhed som social- og sundhedsassistent og om afgrænsning af virksomheden.

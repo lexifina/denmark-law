@@ -12,4 +12,4 @@ Stk. 3. Behandlingssteder omfattet af registreringspligten efter sundhedslovens 
 
 Stk. 4. Styrelsen for Patientsikkerhed fastsætter regler om uddannelsesmæssige krav, der stilles til en osteopat, herunder krav til niveau, indhold og varighed for uddannelser og eksamener, og om nedsættelse af et rådgivende forum om osteopati.
 
-Stk. 5. Sundhedsministeren kan fastsætte regler om udøvelse af virksomhed som osteopat og om afgrænsning af virksomheden.
+Stk. 5. Indenrigs- og sundhedsministeren kan fastsætte regler om udøvelse af virksomhed som osteopat og om afgrænsning af virksomheden.
