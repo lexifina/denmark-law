@@ -145,3 +145,33 @@ Lov nr. 507 af 1. maj 2019 (Styrket indsats på høreapparatområdet) indeholder
 Stk. 1. Loven træder i kraft den 1. juli 2019, jf. dog stk. 2.
 
 Stk. 2. (Udelades)
+
+Lov nr. 816 af 9. juni 2020 (Udvidelse af virksomhedsområdet for tandplejere) indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 2
+
+Loven træder i kraft den 1. juli 2020.
+
+Lov nr. 1855 af 9. december 2020 (Oprettelse af Ankenævnet for Tilsynsafgørelser og Det Rådgivende Udvalg for Tilsyn, lovfæstelse af Fagligt Forum for Patientsikkerhed, øget beskyttelse af personer ved rapportering af utilsigtede hændelser, krav om instrukser, sprogkrav til sundhedspersoner, forenkling af reglerne om virksomhedsansvarlige læger og tandlæger, dispensation fra fristen for indgivelse af ansøgning om autorisation som kontaktlinseoptiker m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 5
+
+Stk. 1. Loven træder i kraft den 1. januar 2021, jf. dog stk. 2.
+
+Stk. 2. § 1, nr. 8 og 9, § 2, nr. 2-4, og § 3, nr. 1-4, træder i kraft den 1. juli 2021.
+
+Lov nr. 1185 af 8. juni 2021 (Ændring af journalføringsreglerne, reaktionsmulighed ved manglende betaling af registreringsgebyr på tatoveringsområdet og supplerende bestemmelser i tilknytning til markedsovervågningsforordningen samt lovtekniske ændringer i psykiatriloven og strålebeskyttelsesloven) indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 9
+
+Loven træder i kraft den 1. juli 2021.
+
+Lov nr. 478 af 26. april 2022 (Behandling af professionelle sportsudøvere og personer fra fremmede militære styrker, udlevering og anvendelse af næsespray med naloxon til behandling af opioidoverdosis og indførelse af en ny forsøgsordning med medicintilskud på vilkår om risikodeling) indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 7
+
+Stk. 1. Loven træder i kraft den 1. maj 2022, jf. dog stk. 2.
+
+Stk. 2. Udelades.
+
+Stk. 3. Udelades.

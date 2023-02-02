@@ -4,4 +4,4 @@
 
 Stk. 2. Tilladelse meddeles den, der har bestået dansk eksamen som ambulancebehandler med særlig kompetence (paramediciner) eller en udenlandsk eksamen, som kan sidestilles hermed, jf. §§ 2 og 3.
 
-Stk. 3. Sundhedsministeren kan fastsætte regler om udøvelse af virksomhed som ambulancebehandler med særlig kompetence (paramediciner) og om afgrænsning heraf.
+Stk. 3. Indenrigs- og sundhedsministeren kan fastsætte regler om udøvelse af virksomhed som ambulancebehandler med særlig kompetence (paramediciner) og om afgrænsning heraf.

@@ -32,4 +32,4 @@ Stk. 8. Sundhedsstyrelsen fastsætter regler om dansk kursus i behandlerfarmaci,
 
 Stk. 9. Styrelsen for Patientsikkerhed fastsætter regler om, hvilke receptpligtige lægemidler der kan genordineres efter stk. 4, nr. 2, og offentliggør en liste herover.
 
-Stk. 10. Styrelsen for Patientsikkerhed fastsætter nærmere regler om udøvelse af virksomhed som behandlerfarmaceut, herunder for behandlerfarmaceuters genordination og ordination af dosisdispensering med tilskud samt for behandlingsstedets instrukser herom.«
+Stk. 10. Styrelsen for Patientsikkerhed fastsætter nærmere regler om udøvelse af virksomhed som behandlerfarmaceut, herunder for behandlerfarmaceuters genordination og ordination af dosisdispensering med tilskud samt for behandlingsstedets instrukser herom.

@@ -10,4 +10,4 @@ Stk. 2. Ud over personer omfattet af stk. 1 meddeles autorisation som ambulanceb
 
 Stk. 3. Ret til at betegne sig som ambulancebehandler har kun den, der har autorisation som ambulancebehandler.
 
-Stk. 4. Sundhedsministeren kan fastsætte regler om udøvelse af virksomhed som ambulancebehandler og om afgrænsning heraf.
+Stk. 4. Indenrigs- og sundhedsministeren kan fastsætte regler om udøvelse af virksomhed som ambulancebehandler og om afgrænsning heraf.
