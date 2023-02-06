@@ -1,5 +1,3 @@
-Lov om Nordsøenheden og Nordsøfonden
+Bekendtgørelse af lov om Nordsøenheden og Nordsøfonden
 
-VI MARGRETHE DEN ANDEN, af Guds Nåde Danmarks Dronning, gør vitterligt:
-
-Folketinget har vedtaget og Vi ved Vort samtykke stadfæstet følgende lov:
+Herved bekendtgøres lov nr. 527 af 28. maj 2014, med de ændringer, der følger af lov nr. 1592 af 28. december 2022.
