@@ -1,0 +1,1 @@
+§ 10 a. Staten indtræder i Nordsøfondens og dennes datterselskabers rettigheder og forpligtelser i det omfang, deres respektive egenkapital og hensættelser ikke er tilstrækkelige. Erhvervsministeren kan i forbindelse med statens deltagelse i kulbrinteaktiviteter og CO2-lagringsaktiviteter stille garanti for Nordsøfondens aktiviteter.
