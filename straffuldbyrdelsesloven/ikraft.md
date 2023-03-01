@@ -91,3 +91,69 @@ Stk. 2-9. (Udelades)
 Stk. 10. En udlænding, der på tidspunktet for lovens ikrafttræden har påbegyndt varetægtsfængsling efter udlændingelovens § 35 b, jf. lovbekendtgørelse nr. 1117 af 2. oktober 2017, eller afsoning efter straffuldbyrdelseslovens kapitel 13 b, vil fortsat være omfattet af disse regler, straffuldbyrdelseslovens § 8, stk. 5, § 20, stk. 3, nr. 1, § 46, stk. 5 og 6, og § 106, stk. 2, jf. lovbekendtgørelse nr. 1491 af 13. december 2017, og straffelovens § 124, stk. 5, nr. 2 og 4, jf. lovbekendtgørelse nr. 1156 af 20. september 2018, frem til den påbegyndte varetægtsfængslings eller afsonings ophør.
 
 Stk. 11. (Udelades)
+
+Lov nr. 1942 af 15. december 2020 (Adgang til sociale behandlingstilbud mod stofmisbrug for indsatte i kriminalforsorgens institutioner m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 3
+
+Justitsministeren fastsætter tidspunktet for lovens ikrafttræden.
+
+Lov nr. 982 af 26. maj 2021 om hjemrejse for udlændinge uden lovligt ophold (hjemrejseloven) indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 24. Loven træder i kraft den 1. juni 2021, jf. dog stk. 2.
+
+Stk. 2-8. (Udelades)
+
+Lov nr. 157 af 31. januar 2022 (Indskrænkning af livstidsdømtes og visse forvaringsdømtes rettigheder) indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 2
+
+Stk. 1. Loven træder i kraft den 1. februar 2022.
+
+Stk. 2. (Udelades)
+
+Lov nr. 158 af 31. januar 2022 (Opfølgning på initiativer i handlingsplanen til imødegåelse af udfordringerne med fangeflugter og delegation af afgørelseskompetence i sager om udgang for personer anbragt på hospital eller institution ved dom) indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 4
+
+Loven træder i kraft den 1. februar 2022.
+
+Lov nr. 892 af 21. juni 2022 (Indførelse af særvilkår om økonomisk kontrol og målrettede forældrepålæg og børne- og ungepålæg ved utryghedsskabende adfærd) indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 4
+
+Loven træder i kraft den 1. juli 2022.
+
+Lov nr. 893 af 21. juni 2022 (Opfølgning på flerårsaftalen om kriminalforsorgens økonomi 2022-2025, herunder leje af fængselspladser i udlandet, revision af disciplinærstraffesystemet, udstationering til eget hjem med fodlænke eller udslusningsfængsel m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 13
+
+Stk. 1. Loven træder i kraft den 1. juli 2022, jf. dog stk. 2 og 3.
+
+Stk. 2. Justitsministeren fastsætter tidspunktet for ikrafttrædelse af § 1, nr. 11-19, og § 3, nr. 3-6.
+
+Stk. 3-8. (Udelades)
+
+§ 14
+
+Stk. 1. Loven gælder ikke for Færøerne og Grønland, jf. dog stk. 2 og 3.
+
+Stk. 2. (Udelades)
+
+Stk. 3. Lovens § 1 kan ved kongelig anordning helt eller delvis sættes i kraft for Færøerne med de ændringer, som de færøske forhold tilsiger.
+
+Lov nr. 919 af 21. juni 2022 (Prøvelse af udvisning m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 5
+
+Stk. 1. Loven træder i kraft dagen efter bekendtgørelsen i Lovtidende, jf. dog stk. 2.
+
+Stk. 2-3. (Udelades)
+
+§ 6
+
+Stk. 1. Loven gælder ikke for Færøerne og Grønland, jf. dog stk. 2 og 3.
+
+Stk. 2. (Udelades)
+
+Stk. 3. Lovens § 4 kan ved kongelig anordning helt eller delvis sættes i kraft for Færøerne med de ændringer, som de færøske forhold tilsiger.
