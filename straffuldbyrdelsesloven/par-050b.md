@@ -1,0 +1,1 @@
+§ 50 b. Justitsministeren fastsætter nærmere regler om udstationering til egen bopæl under intensiv overvågning og kontrol og til udslusningsfængsel, herunder om behandling af sager om udstationering, om vilkår, om kontrol og tilsyn m.v. og om tilbagekaldelse af tilladelser til udstationering.
