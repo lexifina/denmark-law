@@ -1,4 +1,4 @@
-§ 36 e. Uanset § 36 a, stk. 2, kan ministeren for fiskeri og ligestilling fastsætte regler om, at en fartøjsejer med sine fangstrettigheder kan indtræde i et puljefiskeri efter påbegyndelsen af den 13-måneders-periode, som tilladelsen til puljefiskeriet er givet for, herunder hvis
+§ 36 e. Uanset § 36 a, stk. 2, kan ministeren for fødevarer, landbrug og fiskeri fastsætte regler om, at en fartøjsejer med sine fangstrettigheder kan indtræde i et puljefiskeri efter påbegyndelsen af den 13-måneders-periode, som tilladelsen til puljefiskeriet er givet for, herunder hvis
 
 1) den pågældende som førstegangsetableret efter regler udstedt af ministeren har fået tilladelse til at erhverve kvoteandele fra andre fartøjer eller til at få tildelt kvoteandele på lånebasis eller
 
