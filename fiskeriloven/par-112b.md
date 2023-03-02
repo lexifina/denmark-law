@@ -1,1 +1,1 @@
-§ 112 b. Ministeren for fiskeri og ligestilling kan fastsætte regler om offentlig adgang til nærmere angivne dele af Udenrigsministeriets registre på fiskeriområdet.
+§ 112 b. Ministeren for fødevarer, landbrug og fiskeri kan fastsætte regler om offentlig adgang til nærmere angivne dele af – Ministeriet for Fødevarer, Landbrug og Fiskeris registre på fiskeriområdet.

@@ -1,4 +1,4 @@
-§ 10 h. Ministeren for fiskeri og ligestilling kan fastsætte nærmere regler om
+§ 10 h. Ministeren for fødevarer, landbrug og fiskeri kan fastsætte nærmere regler om
 
 1) meddelelse og tilladelse til fiskeri og fiskeopdrætsaktiviteter omfattet af denne lov, herunder om miljøkonsekvensvurderingens indhold og omfang,
 

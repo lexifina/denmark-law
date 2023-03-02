@@ -1,4 +1,4 @@
-§ 36 c. Ministeren for fiskeri og ligestilling kan tillade, at en deltager i puljefiskeri efter ansøgning kan udtræde af puljefiskeriet efter udløbet af den 13-måneders-periode, som tilladelsen er givet for, jf. § 36 a, stk. 2, og derefter, men inden den 1. marts, indtræde i et nyt puljefiskeri med virkning fra den forudgående 1. januar og til den 1. februar i det følgende år på betingelse af,
+§ 36 c. Ministeren for fødevarer, landbrug og fiskeri kan tillade, at en deltager i puljefiskeri efter ansøgning kan udtræde af puljefiskeriet efter udløbet af den 13-måneders-periode, som tilladelsen er givet for, jf. § 36 a, stk. 2, og derefter, men inden den 1. marts, indtræde i et nyt puljefiskeri med virkning fra den forudgående 1. januar og til den 1. februar i det følgende år på betingelse af,
 
 1) at det puljefiskeri, som ansøgeren udtræder af, har foretaget opgørelse og fordeling af fangstrettighederne efter § 36 a, stk. 3, 1. pkt.,
 

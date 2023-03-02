@@ -116,8 +116,50 @@ Lov nr. 736 af 8. juni 2018 (Opfølgning på fiskeripakken, Bierhvervsfiskernæv
 
 Loven træder i kraft den 1. juli 2018.
 
-Lov nr. 1734 af 27. december (Indsats mod kvotekoncentration i dansk fiskeri) indeholder følgende ikrafttrædelses- og overgangsbestemmelse:
+Lov nr. 1734 af 27. december 2018 (Indsats mod kvotekoncentration i dansk fiskeri) indeholder følgende ikrafttrædelses- og overgangsbestemmelse:
 
 § 2
 
 Loven træder i kraft den 1. januar 2019.
+
+Lov nr. 558 af 7. maj 2019 (Auktion m.v. over fangstrettigheder samt frivilligt kystfiskermærke) indeholder følgende ikrafttrædelses- og overgangsbestemmelse:
+
+§ 2
+
+Loven træder i kraft den 1. juli 2019.
+
+§ 3
+
+Loven gælder ikke for Færøerne og Grønland.
+
+Lov nr. 559 af 7. maj 2019 (Digitaliseret fiskerikontrol) indeholder følgende ikrafttrædelses- og overgangsbestemmelse:
+
+§ 2
+
+Loven træder i kraft den 1. juli 2019.
+
+§ 3
+
+Loven gælder ikke for Færøerne og Grønland.
+
+Lov nr. 126 af 30. januar 2021 (Ændring af handlepligten for den ansvarlige for en miljøskade, indførelse af godtgørelsesordning samt ændring af definitionen af arter og naturtyper) indeholder følgende ikrafttrædelses- og overgangsbestemmelse:
+
+§ 15
+
+Stk. 1. Loven træder i kraft den 1. februar 2021
+
+Stk. 2. Loven finder ikke anvendelse på miljøskader eller overhængende fare for miljøskader, der er forvoldt ved en emission eller begivenhed, der finder sted før lovens ikrafttræden. For sådanne miljøskader eller overhængende fare herfor finder de hidtil gældende regler anvendelse.
+
+§ 16
+
+Loven gælder ikke for Færøerne og Grønland
+
+Lov nr. 844 af 10. maj 2021 (Ændrede vilkår for registrering som erhvervsfisker og erhvervsfiskerselskab, forenkling af bierhvervsfiskerreglerne, indberetningspligt for fritidsfiskere, krav om digital kommunikation, kontrolpunkter til søs m.v.) indeholder følgende ikrafttrædelses- og overgangsbestemmelse:
+
+§ 2
+
+Loven træder i kraft den 1. juli 2021.
+
+§ 3
+
+Loven gælder ikke for Færøerne og Grønland.

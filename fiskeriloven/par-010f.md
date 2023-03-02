@@ -1,4 +1,4 @@
-§ 10 f. Hvis en aktivitet omfattet af § 10 e i sig selv eller sammen med andre aktiviteter vurderes at kunne skade et særligt bevaringsområde med en prioriteret naturtype eller en prioriteret art, kan ministeren for fiskeri og ligestilling kun meddele tilladelse til aktiviteten, hvis
+§ 10 f. Hvis en aktivitet omfattet af § 10 e i sig selv eller sammen med andre aktiviteter vurderes at kunne skade et særligt bevaringsområde med en prioriteret naturtype eller en prioriteret art, kan ministeren for fødevarer, landbrug og fiskeri kun meddele tilladelse til aktiviteten, hvis
 
 1) dette er nødvendigt af hensyn til menneskers sundhed, den offentlige sikkerhed eller opnåelse af væsentlige gavnlige virkninger på miljøet eller
 

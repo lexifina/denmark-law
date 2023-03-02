@@ -2,7 +2,7 @@
 
 ## Foranstaltninger under ulykker og katastrofer, herunder krigshandlinger m.v.
 
-§ 112 d. Ministeren for fiskeri og ligestilling kan under ulykker og katastrofer, herunder krigshandlinger og andre ekstraordinære forhold, fastsætte de regler og træffe de afgørelser, der er nødvendige for at sikre befolkningens forsyning med fisk og fiskeprodukter, herunder fastsætte nærmere regler for fiskeriets udøvelse og for afsætning af fangsterne. Ministeren kan herunder fastsætte regler og træffe bestemmelse om fravigelse af de i loven fastsatte regler.
+§ 112 d. Ministeren for fødevarer, landbrug og fiskeri kan under ulykker og katastrofer, herunder krigshandlinger og andre ekstraordinære forhold, fastsætte de regler og træffe de afgørelser, der er nødvendige for at sikre befolkningens forsyning med fisk og fiskeprodukter, herunder fastsætte nærmere regler for fiskeriets udøvelse og for afsætning af fangsterne. Ministeren kan herunder fastsætte regler og træffe bestemmelse om fravigelse af de i loven fastsatte regler.
 
 Stk. 2. Udvalget for Erhvervsfiskeri, som er nedsat i medfør af § 6 og suppleret med 1 medlem udpeget af forsvarsministeren, rådgiver ministeren under forberedelsen af de i stk. 1 nævnte regler, afgørelser og bestemmelser.
 

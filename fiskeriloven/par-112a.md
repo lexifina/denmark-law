@@ -1,4 +1,4 @@
-§ 112 a. Ministeren for fiskeri og ligestilling fører edb-register over overdragelige kvoteandele, jf. § 37, stk. 1. Registret er offentligt tilgængeligt.
+§ 112 a. Ministeren for fødevarer, landbrug og fiskeri fører edb-register over overdragelige kvoteandele, jf. § 37, stk. 1. Registret er offentligt tilgængeligt.
 
 Stk. 2. Ministeren fastsætter regler om anmeldelse og registrering af overdragelige kvoteandele, jf. stk. 1. Ministeren kan herunder fastsætte regler om, at parterne skal indberette salgspris for en overdraget kvoteandel.
 
