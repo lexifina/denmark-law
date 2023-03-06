@@ -1,67 +1,51 @@
-Lov nr. 1422 af 21. december 2005 (EU’s anden jernbanepakke, indberetning af sikkerhedsmæssige uregelmæssigheder, forsikring mv.) indeholder følgende ikrafttrædelsesbestemmelse:
+Lov nr. 657 af 8. juni 2016 (Anlæg af letbanen på Ring 3, særlig regulering i anlægsperioden m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
 
 § 4
 
-Stk. 1. Loven træder i kraft den 1. februar 2006.
+Transportministeren fastsætter tidspunktet for lovens ikrafttræden.
 
-Stk. 2. (Udelades)
-
-Stk. 3. Transportministeren fastsætter tidspunktet for ikrafttræden af § 3.
-
-Lov nr. 551 af 6. juni 2007 om Metroselskabet I/S og Arealudviklingsselskabet indeholder følgende ikrafttrædelsesbestemmelse:
-
-§ 28
-
-Stk. 1. Transportministeren fastsætter tidspunktet for lovens eller dele af lovens ikrafttræden.
-
-Stk. 2. (Udelades)
-
-Lov nr. 1336 af 19. december 2008 (Konsekvensændringer som følge af lov om inddrivelse af gæld til det offentlige) indeholder følgende ikrafttrædelsesbestemmelse:
-
-§ 167
-
-Stk. 1. Loven træder i kraft den 1. januar 2009, jf. dog stk. 2. § 11 finder alene anvendelse på afgørelser om lønindeholdelse, der træffes efter lovens ikrafttræden.
-
-Stk. 2. (Udelades)
-
-Lov nr. 134 af 24. februar 2009 (Takstkompetence og regler om kundgørelse m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
-
-§ 3
-
-Stk. 1. Transportministeren fastsætter tidspunktet for lovens ikrafttræden. Ministeren kan herunder fastsætte, at lovens enkelte bestemmelser træder i kraft på forskellige tidspunkter.
-
-Stk. 2. (Udelades)
-
-Lov nr. 432 af 16. maj 2012 om Aarhus Letbane indeholder følgende ikrafttrædelsesbestemmelse:
+Lov nr. 285 af 29. marts 2017 (Forenkling af regler om inddrivelse af gæld til det offentlige m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
 
 § 25
 
-Loven træder i kraft dagen efter bekendtgørelsen i Lovtidende.
+Stk. 1. Loven træder i kraft den 1. april 2017.
 
-Lov nr. 745 af 25. juni 2014 (Ændring af finansieringsmodellen for trafikselskabet på Sjælland, organiseringen af den offentlige servicetrafik i Østdanmark, buspassagerrettighedsforordningen m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
+Stk. 2. (Udelades)
 
-§ 3
-
-Stk. 1. Loven træder i kraft den 1. august 2014, jf. dog stk. 2 og 3.
-
-Stk. 2. § 1, nr. 5 og 6, træder først i kraft den 1. januar 2016.
-
-Stk. 3. § 1, nr. 13, træder først i kraft den 1. januar 2015.
-
-Lov nr. 746 af 25. juni 2014 (Region Nordjyllands overtagelse af statens trafikkøberansvar for lokaltogstrafik mellem Skørping og Frederikshavn) indeholder følgende ikrafttrædelsesbestemmelse:
+Lov nr. 1560 af 19. december 2017 (Implementering af takstreformer i Øst- og Vestdanmark og mulighed for overdragelse af trafikkøberansvar m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
 
 § 2
 
-Loven træder i kraft den 1. august 2014.
+Loven træder i kraft den 18. marts 2018.
 
-Lov nr. 155 af 18. februar 2015 (Transportministerens udtræden af Aarhus Letbane I/S) indeholder følgende ikrafttrædelsesbestemmelse:
+Lov nr. 315 af 25. april 2018 (Individuel handicapkørsel for blinde og stærkt svagsynede) indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 2
+
+Loven træder i kraft den 1. juli 2018.
+
+Lov nr. 1565 af 18. december 2018 (Overdragelse af statens praktiske trafikkøberansvar for øresundstrafikken til Skånetrafikken) indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 2
+
+Loven træder i kraft den 1. januar 2019.
+
+Lov nr. 206 af 5. marts 2019 (Fremme af digitale mobilitetstjenester m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
 
 § 3
 
-Loven træder i kraft den 1. april 2015.
+Loven træder i kraft den 1. juli 2019.
 
-Lov nr. 151 af 18. februar 2015 om Odense Letbane indeholder følgende ikrafttrædelsesbestemmelse:
+Lov nr. 207 af 5. marts 2019 (Forenkling af afstandskrav til fjernbuskørsel) indeholder følgende ikrafttrædelsesbestemmelse og overgangsbestemmelser:
 
-§ 15
+§ 2
 
-Loven træder i kraft dagen efter bekendtgørelsen i Lovtidende.
+Stk. 1. Loven træder i kraft den 1. juli 2019.
+
+Stk. 2. Allerede udstedte tilladelser til fjernbuskørsel efter § 22, stk. 1, i lov om trafikselskaber forbliver i kraft indtil udløbet af deres gyldighedsperiode. Transportministeren kan tillade, at der i henhold til disse tilladelser udføres kørsel efter reglerne i § 19, stk. 4, og § 22, stk. 2 og 3, i lov om trafikselskaber.
+
+Lov nr. 1186 af 8. juni 2021 (Trafikverkets indkøb af nattogstrafik i Danmark) indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 2
+
+Loven træder i kraft den 1. juli 2021.
