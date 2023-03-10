@@ -8,7 +8,7 @@ Stk. 3. Vederlagsrapporten skal, i det omfang det er relevant, omfatte følgende
 
 2) Den årlige ændring i aflønningen, i aktieselskabets resultater og i den gennemsnitlige aflønning på grundlag af fuldtidsækvivalenter af andre ansatte i aktieselskabet end ledelsesmedlemmer som minimum over de seneste 5 regnskabsår, opstillet på en måde, der muliggør sammenligning.
 
-3) Enhver form for aflønning fra virksomheder, som tilhører den samme koncern, jf. § 5, nr. 19.
+3) Enhver form for aflønning fra virksomheder, som tilhører den samme koncern, jf. § 5, nr. 20.
 
 4) Antallet af aktier, tildelte eller tilbudte aktieoptioner og de væsentligste betingelser for udnyttelsen af rettighederne, herunder udnyttelseskursen, datoen for udnyttelse og enhver ændring heraf.
 

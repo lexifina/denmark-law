@@ -1,9 +1,5 @@
-## Kapitel 16 a
+## Grænseoverskridende omdannelse
 
-## Grænseoverskridende flytning af hjemsted
+§ 318 a. Et kapitalselskab omfattet af denne lov kan omdanne kapitalselskabets retlige form, hvorunder det er registreret i et EU- eller EØS-land, til en af de retlige former i et andet EU- eller EØS-land, der er opført i bilag II til Europa-Parlamentets og Rådets direktiv 2017/1132/EU, dvs. en grænseoverskridende omdannelse. Den grænseoverskridende omdannelse kan gennemføres uden kreditorernes samtykke.
 
-§ 318 a. Et kapitalselskab omfattet af denne lov kan ved en grænseoverskridende flytning af hjemsted flytte dets registrerede hjemsted til et andet EU/EØS-land, og tilsvarende kan et kapitalselskab med registreret hjemsted i et andet EU/ EØS-land flytte dets hjemsted til Danmark, jf. dog stk. 2 og 3. Den grænseoverskridende flytning kan gennemføres uden kreditorernes samtykke.
-
-Stk. 2. En grænseoverskridende flytning kan kun besluttes, hvis lovgivningen i det land, som kapitalselskabet ønsker at flytte fra eller flytte til, tillader grænseoverskridende flytning af hjemsted.
-
-Stk. 3. Et dansk kapitalselskab kan kun flytte hjemsted til et andet EU/EØS-land, hvis der er en beskyttelse af det danske selskabs medarbejderes ret til medbestemmelse i den lovgivning, som kapitalselskabet kommer til at høre under efter flytningen.
+Stk. 2. Reglerne om grænseoverskridende omdannelse finder ikke anvendelse på selskaber, der er omfattet af de afviklingsværktøjer, -beføjelser og -ordninger, der er fastsat i lov om restrukturering og afvikling af visse finansielle virksomheder, og selskaber, der er omfattet af de kriseforebyggelsesforanstaltninger, der er fastsat i § 71 c, stk. 2, og §§ 243 a, 243 c, 264, 265-265 c, 272 og 273 i lov om finansiel virksomhed samt §§ 17-18 a i lov om restrukturering og afvikling af visse finansielle virksomheder.

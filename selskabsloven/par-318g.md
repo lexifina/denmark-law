@@ -1,23 +1,9 @@
-## Beslutning om at gennemføre flytningen
+## Indsendelse og offentliggørelse af dokumenter
 
-§ 318 g. Beslutningen om gennemførelse af en flytning af kapitalselskabets hjemsted til et andet EU/ EØS-land må tidligst træffes 4 uger efter Erhvervsstyrelsens offentliggørelse, jf. § 318 f, stk. 4, af modtagelsen af flytteplanen og eventuelt af vurderingsmændenes erklæring om kreditorernes stilling. Hvis offentliggørelsen vedrørende § 318 f, stk. 1, og vedrørende § 318 f, stk. 2 eller 3, har fundet sted hver for sig, regnes fristen i 1. pkt. fra det seneste offentliggørelsestidspunkt.
+§ 318 g. Senest 4 uger før generalforsamlingen, der træffer beslutning om gennemførelse af en omdannelse i henhold til § 318 i, skal følgende offentliggøres af kapitalselskabet og indsendes til Erhvervsstyrelsen, med henblik på at Erhvervsstyrelsen gør oplysning om modtagelse af dokumenterne offentligt tilgængelige i Erhvervsstyrelsens it-system:
 
-Stk. 2. Hvis selskabet, der påtænkes flyttet, har afsluttet et regnskabsår inden tidspunktet for flytningens regnskabsmæssige virkningstidspunkt og generalforsamlingen endnu ikke har godkendt årsrapporten for denne regnskabsperiode, skal generalforsamlingen godkende årsrapporten for denne regnskabsperiode senest samtidig med beslutningen om gennemførelsen af flytningen.
+1) Omdannelsesplanen, jf. § 318 b.
 
-Stk. 3. Kreditorer, der anmoder derom, skal have oplysning om, hvornår der træffes beslutning om flytningens eventuelle gennemførelse.
+2) En meddelelse til kapitalejere, kreditorer og det omdannede selskabs medarbejderrepræsentanter eller medarbejderne selv, hvis der ikke findes sådanne repræsentanter, om, at de senest 5 hverdage før generalforsamlingen, hvor der træffes beslutning om gennemførelse af en omdannelse, jf. § 318 i, kan indgive skriftlige bemærkninger vedrørende omdannelsesplanen til selskabet på en af selskabet oplyst elektronisk adresse.
 
-Stk. 4. Flytningens gennemførelse skal være i overensstemmelse med flytteplanen. Vedtages flytningen ikke i overensstemmelse med den offentliggjorte flytteplan, anses forslaget som bortfaldet.
-
-Stk. 5. Følgende dokumenter skal, hvis de er udarbejdet, senest 4 uger før der skal træffes beslutning om gennemførelse af en flytning, stilles til rådighed for kapitalejerne, medmindre disse i enighed beslutter, at de pågældende dokumenter ikke skal fremlægges for kapitalejerne forud for eller på generalforsamlingen, jf. dog stk. 6:
-
-1) Flytteplanen.
-
-2) Kapitalselskabets godkendte årsrapporter for de sidste 3 regnskabsår eller den kortere tid, kapitalselskabet måtte have bestået.
-
-3) Flytteredegørelse.
-
-4) Vurderingsmændenes erklæring om kreditorernes stilling.
-
-Stk. 6. Kapitalejere, der anmoder herom, skal vederlagsfrit have adgang til dokumenterne opregnet i stk. 5.
-
-Stk. 7. Flytteredegørelse, jf. § 318 c, skal ved et kapitalselskabs flytning af hjemsted til et andet EU/EØS-land ligeledes senest 4 uger før en beslutning om gennemførelse af flytningen fremlægges på kapitalselskabets kontor til eftersyn for medarbejderrepræsentanterne eller, hvis der ikke er medarbejderrepræsentanter i det konkrete kapitalselskab, for medarbejderne selv.
+Stk. 2. Senest 4 uger før generalforsamlingen, hvor der træffes beslutning om gennemførelse af en omdannelse i henhold til § 318 i, skal vurderingsmandserklæring om kreditorernes stilling, jf. § 318 e, 1. pkt., indsendes til Erhvervsstyrelsen, med henblik på at Erhvervsstyrelsen offentliggør modtagelsen i Erhvervsstyrelsens it-system. Er muligheden for at fravælge vurderingsmandserklæringen om kreditorernes stilling, jf. § 318 e, 2. pkt., udnyttet, skal dette meddeles Erhvervsstyrelsen med angivelse af navn og cvr-nummer på det kapitalselskab, der skal omdannes. Har kreditorerne ret til at anmelde deres krav, jf. § 318 f, skal offentliggørelsen, jf. stk. 1, indeholde oplysning herom. Stk. 3. Erhvervsstyrelsen kan fastsætte nærmere regler om kapitalselskabers offentliggørelse af omdannelsesplanen og eventuelt medfølgende dokumenter samt Erhvervsstyrelsens tilgængeliggørelse af disse.
