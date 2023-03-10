@@ -1,0 +1,1 @@
+§ 303 a. Indebærer en bestemmelse i planen for den grænseoverskridende spaltning en forøgelse af en kapitalejers økonomiske forpligtelser over for kapitalselskabet eller tredjemand, skal bestemmelsen godkendes af den pågældende kapitalejer, forudsat at kapitalejeren ikke kan kræve indløsning efter § 306.
