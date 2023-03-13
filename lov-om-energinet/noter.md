@@ -34,8 +34,10 @@
 
 18) Lovændringen vedrører § 2, stk. 2, 3. pkt., § 12, stk. 1, nr. 1 og 2, og § 13, stk. 1, 2. pkt.
 
-19) Lovændringen vedrører fodnoten til lovens titel, § 2, stk. 1-2, 1. pkt. § 4, stk. 2-4 og 8, § 4 a, stk. 1, § 4 d, stk. 1, § 4 e, § 6, stk. 3, 1. pkt., § 12, stk. 3, § 13, stk. 1, 1. pkt., overskriften til kapitel 7, § 19, § 19 a, § 22, stk. 1-2, § 24 a, stk. 1.
+19) Lovændringen vedrører fodnoten til lovens titel, § 2, stk. 1-2, 1. pkt. § 4, stk. 2-4 og 8, § 4 a, stk. 1, § 4 d, stk. 1, § 4 e, § 6, stk. 3, 1. pkt., § 12, stk. 3, § 13, stk. 1, 1. pkt., overskriften til kapitel 7, § 19, § 19 a, § 22, stk. 1-2 og § 24 a, stk. 1.
 
 20) Lovændringen vedrører § 2, stk. 2, 2. pkt.
 
 21) Lovændringen vedrører en ændring overalt i loven af ”lov om naturgasforsyning” til ”lov om gasforsyning”, § 2, stk. 1, 2. pkt., overskriften til kapitel 2, § 4, stk. 1, 1. pkt., § 4, stk. 2, 1. pkt., § 4 d, stk. 1, nr. 2, § 12, stk. 1, nr. 1, § 13, stk. 1, 1. pkt., § 12, stk. 1, nr. 2, § 13, stk. 1, 3. pkt. og § 22, stk. 1.
+
+22) Lovændringen vedrører § 2, stk. 2, § 4, stk. 2, 1. pkt., § 8, stk. 1, § 8, stk. 5, § 12, stk. 1, nr. 1 og 2, og § 13, stk. 1, 2. pkt.
