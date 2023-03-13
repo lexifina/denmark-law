@@ -103,3 +103,11 @@ Stk. 1. Loven træder i kraft den 30. juni 2021, jf. dog stk. 2-6. § 4, nr. 2 o
 Stk. 2. § 1, nr. 1-12, 14, 15 og 17, og § 8 i lov om naturgasforsyning som affattet ved denne lovs § 1, nr. 18, § 1, nr. 19-27, 29-41, 43-55, 57-65, 67-75, 77-79, 81-87, 89, 93, 98, 99, 101-104, 107, 108 og 112, § 2, nr. 1-3, § 3, nr. 1 og 2, § 4, nr. 1 og 4-6, og §§ 5-7 træder i kraft den 1. juli 2021.
 
 Stk. 3-8. (Udelades)
+
+Lov nr. 1594 af 28. december 2022 (Regulering af brint, omorganisering af Energinet, CO2-lagring m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 6
+
+Stk. 1 Loven træder i kraft den 1. januar 2023, jf. dog stk. 2 og 3.
+
+Stk. 2 (Udelades)
