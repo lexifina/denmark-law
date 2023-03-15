@@ -73,3 +73,41 @@ Lov nr. 1940 af 15. december 2020 (Gennemførelse af 2. betalingstjenestedirekti
 Stk. 1. Loven træder i kraft den 1. januar 2021, jf. dog stk. 2-4.
 
 Stk. 2-4. (Udelades)
+
+Lov nr. 1155 af 8. juni 2021 om fondsmæglerselskaber og investeringsservice og –aktiviteter indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 288. Loven træder i kraft den 26. juni 2021.
+
+Stk. 2-4. (Udelades)
+
+Lov nr. 1163 af 8. juni 2021 (Øget investorbeskyttelse ved grænseoverskridende markedsføring af investeringer og styrket tilsyn med aktører på det digitale marked for finansielle ydelser m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 16
+
+Stk. 1. Loven træder i kraft den 1. juli 2021, jf. dog stk. 2 og 3.
+
+Stk. 2-9. (Udelades)
+
+Lov nr. 2382 af 14. december 2021 (Supplering af taksonomiforordningen og ny model for SIFI-udpegning) indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 19
+
+Stk. 1. Loven træder i kraft den 1. januar 2022, jf. dog stk. 2.
+
+Stk. 2. § 1, nr. 4, § 2, nr. 3, § 3, nr. 4, § 4, nr. 6, § 5, nr. 14, § 7, nr. 4, § 8, nr. 1, § 10, nr. 1, § 11, nr. 1, § 12, nr. 1, § 13, nr. 1, § 15, nr. 1, § 16, nr. 1, og § 17, nr. 1, træder i kraft den 17. december 2021.
+
+Stk. 3-7. (Udelades)
+
+Stk. 8. For virksomheder med færre end 50 ansatte finder § 2, nr. 3, § 8, nr. 1, § 10, nr. 1, § 11, nr. 1, § 12, nr. 1, § 15, nr. 1, § 16, nr. 1, og § 17, nr. 1, anvendelse fra den 17. december 2023.
+
+Lov nr. 570 af 10. maj 2022 (Udpegelse af afviklingsmyndigheder for nødlidende centrale modparter og regler for livsforsikringsvirksomheder, der udbyder syge- og ulykkesforsikringer m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 13
+
+Stk. 1. Loven træder i kraft den 1. juli 2022, jf. dog stk. 2-4.
+
+Stk. 2-4. (Udelades)
+
+Stk. 5. For virksomheder, der ved lovens ikrafttræden har tilladelse som ejendomskreditselskab, har § 8, nr. 3, først virkning fra den 1. oktober 2022.
+
+Stk. 6-7. (Udelades)
