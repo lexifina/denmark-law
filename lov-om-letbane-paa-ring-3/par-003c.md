@@ -1,0 +1,1 @@
+§ 3 c. Beskyttelsesmæssige hensyn efter naturbeskyttelsesloven, for så vidt angår arealer, der er nødvendige for gennemførelse af anlægget nævnt i § 2, varetages af transportministeren efter denne lov. Kort over naturlokaliteter omfattet af naturbeskyttelsesloven fremgår af bilag 2 til loven.

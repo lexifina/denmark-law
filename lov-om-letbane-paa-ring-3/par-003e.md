@@ -1,0 +1,3 @@
+§ 3 e. Transportministeren kan fastsætte regler om forurening og gener fra anlægget nævnt i § 2. Transportministeren kan herunder fastsætte regler om egenkontrol og om tilsyn og håndhævelse, herunder at afgørelser om tilsyn og håndhævelse af regler fastsat efter denne bestemmelse ikke kan indbringes for anden administrativ myndighed.
+
+Stk. 2. Lov om miljøbeskyttelse og regler udstedt i medfør heraf finder ikke anvendelse på forurening og gener fra de dele af anlægget af letbanen på Ring 3, der er omfattet af regler udstedt efter stk. 1. Det samme gælder afgørelser truffet i medfør af lov om miljøbeskyttelse.
