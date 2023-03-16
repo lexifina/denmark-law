@@ -1,9 +1,13 @@
-Givet på Christiansborg Slot, den 26. februar 2014
+Transportministeriet, den 12. marts 2023
 
-Under Vor Kongelige Hånd og Segl
+Thomas Danielsen
 
-I Dronningens Navn: FREDERIK Kronprins
-
-/ Magnus Heunicke
+/ Merete Houmann
 
 Bilag 1
+
+Kort over letbanen på Ring 3
+
+Bilag 2
+
+Naturlokaliteter
