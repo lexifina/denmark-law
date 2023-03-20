@@ -43,3 +43,15 @@ Lov nr. 882 af 12. juni 2021 (Gennemførelse af dele af klimaaftalen, bemyndigel
 § 4
 
 Loven træder i kraft den 1. juli 2021.
+
+Lov nr. 1388 af 5. oktober 2022 (Udvidelse af formålet med lov om fremme af besparelser i energiforbruget til at omfatte fremme af drivhusgasreduktion, udvidelse af ministerens mulighed for at fremme aktiviteter inden for lovens formål m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 4
+
+Loven træder i kraft den 1. november 2022.
+
+Lov nr. 1593 af 28. december 2022 (Udmøntning af CCUS-puljer og mulighed for kommuners påtagelse af økonomiske forpligtelser) indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 2
+
+Loven træder i kraft den 1. januar 2023.

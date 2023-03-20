@@ -4,7 +4,7 @@
 
 3) Ved kongelig resolution af 27. juni 2019 er betegnelsen Energi-, Forsynings- og Klimaministeriet ændret til Klima-, Energi- og Forsyningsministeriet.
 
-4) Ved kongelig resolution af 27. juni 2019 er Økonomi- og Indenrigsministeriet og Børne- og Socialministeriet blevet sammenlagt til et Social- og Indenrigsministerium.
+4) Ved kongelig resolution af 15. december 2022 er Social- og Indenrigsministeriet nedlagt og ministeriets tilhørende forretning overført til Social-, Bolig- og Ældreministeriet og Indenrigs- og Sundhedsministeriet.
 
 5) Ved kongelig resolution af 28. juni 2015 blev ressortansvaret for Energiklagenævnet overført fra Energi-, Forsynings- og Klimaministeriet til Miljøministeriet. Energiklagenævnet er herefter ved kongelig resolution af 8. juni 2016 blevet ressortoverført til Erhvervsministeriet pr. 1. januar 2017.
 
@@ -25,3 +25,7 @@
 13) Ved bekendtgørelse nr. 923 af 17. juni 2020 er det bestemt, at § 1, nr. 5 og 7, i lov nr. 739 af 30. maj 2020, der vedrører § 1, stk. 2, nr. 4 og kapitel 3, træder i kraft den 1. juli 2020.
 
 14) Lovændringen vedrører § 1, stk. 2, nr. 4, § 5, stk. 2, 1. pkt. og § 7, stk. 1, nr. 3.
+
+15) Lovændringen vedrører titlen, § 1, stk. 1, § 1, stk. 2, nr. 4, § 2, stk. 1 og 2, overskriften til kapitel 3, § 7, § 8, § 9, § 10, stk. 1-2, § 20, stk. 6, § 21, stk. 1 og § 22, stk. 1, nr. 1.
+
+16) Lovændringen vedrører § 7 a, § 7 b og § 20, stk. 1.
