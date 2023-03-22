@@ -4,7 +4,7 @@
 
 2) Kommunernes redegørelser og genopretningsplaner, jf. § 22 c.
 
-3) Sagsgennemgangen, jf. §§ 22 c og 22 e.
+3) Sagsgennemgangen, jf. § 22 e.
 
 4) Genopretningsperioden, jf. § 22 d.
 
