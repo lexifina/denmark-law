@@ -1,4 +1,4 @@
-§ 103 a. Hos den, der har tilladelse efter § 39, stk. 1, til forhandling til brugere af lægemidler til produktionsdyr, opkræver Sundhedsstyrelsen en afgift som fastsat i stk. 2-5 til finansiering af initiativer til styrkelse af fødevaresikkerhed og dyrevelfærd.
+§ 103 a. Hos den, der har tilladelse efter § 39, stk. 1, til forhandling til brugere af lægemidler til produktionsdyr, opkræver Lægemiddelstyrelsen en afgift som fastsat i stk. 2-5 til finansiering af initiativer til styrkelse af fødevaresikkerhed og dyrevelfærd.
 
 Stk. 2. Afgiften fastsættes til 0,77 pct. af forhandlerens omsætning af simple smalspektrede penicilliner til produktionsdyr.
 

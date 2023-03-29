@@ -1,7 +1,3 @@
 Bekendtgørelse af lov om lægemidler
 
-Herved bekendtgøres lov om lægemidler, jf. lovbekendtgørelse nr. 506 af 20. april 2013, med de ændringer, der følger af § 1 i lov nr. 518 af 26. maj 2014, § 2 i lov nr. 542 af 29. april 2015, § 36 i lov nr. 426 af 18. maj 2016, § 38 i lov nr. 620 af 8. juni 2016, § 2 i lov nr. 1736 af 27. december 2016, § 18 i lov nr. 285 af 29. marts 2017 og § 1, nr. 1, og nr. 7-11 i lov nr. 388 af 26. april 2017.
-
-De ændringer, der følger af § 1, nr. 2-6, i lov nr. 388 af 26. april 2017 om lov om ændring af lægemiddelloven og vævsloven, er ikke indarbejdet i denne lovbekendtgørelse, da de træder i kraft den 9. februar 2019, jf. § 3 i lov nr. 388 af 26. april 2017.
-
-De ændringer, der følger af § 1 i lov nr. 1687 af 26. december 2017 om lov om ændring af lov om lægemidler, lov om apotekervirksomhed og lov om medicinsk udstyr, er ikke indarbejdet i denne lovbekendtgørelse, da de træder i kraft den 1. juli 2018, jf. § 4 i lov nr. 1687 af 26. december 2017.
+Herved bekendtgøres lov om lægemidler, jf. lovbekendtgørelse nr. 99 af 16. januar 2018, med de ændringer, der følger af § 1, nr. 2-6, i lov nr. 388 af 26. april 2017, § 1 i lov nr. 1687 af 26. december 2017, § 23 i lov nr. 503 af 23. maj 2018, § 2 i lov nr. 557 af 29. maj 2018, § 2 i lov nr. 1554 af 18. december 2018, § 4 i lov nr. 1555 af 18. december 2018, lov nr. 1557 af 18. december 2018, § 5 i lov nr. 1436 af 17. december 2019, lov nr. 1062 af 30. juni 2020, § 22 i lov nr. 1853 af 9. december 2020, § 6 i lov nr. 2071 af 21. december 2020, § 70 i lov nr. 285 af 27. februar 2021, § 1 i lov nr. 2393 af 14. december 2021, § 2 i lov nr. 478 af 26. april 2022 og § 2 i lov nr. 908 af 21. juni 2022.

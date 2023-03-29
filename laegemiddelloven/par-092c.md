@@ -2,4 +2,4 @@
 
 Stk. 2. Resultaterne af en ikkeinterventionssikkerhedsundersøgelse omfattet af § 92 b, stk. 2, indsendes ikke til Lægemiddelstyrelsen i medfør af stk. 1. Indehaveren af en markedsføringstilladelse skal i stedet indsende en rapport om resultaterne af en ikkeinterventionssikkerhedsundersøgelse omfattet af § 92 b, stk. 2, til Udvalget for Risikovurdering inden for Lægemiddelovervågning under Det Europæiske Lægemiddelagentur. Fremsendelse til dette udvalg skal ske, senest 12 måneder efter at indsamlingen af data fra undersøgelsen er afsluttet, medmindre udvalget skriftligt har tilladt en fravigelse af denne tidsfrist.
 
-Stk. 3. Sundheds- og ældreministeren kan fastsætte regler om krav til indhold og fremsendelse af de i stk. 1 og 2 nævnte rapporter, herunder særskilte krav til rapporter fra en ikkeinterventionssikkerhedsundersøgelse, der er et vilkår for markedsføringstilladelsen
+Stk. 3. Lægemiddelstyrelsen kan fastsætte regler om krav til indhold og fremsendelse af de i stk. 1 og 2 nævnte rapporter, herunder særskilte krav til rapporter fra en ikkeinterventionssikkerhedsundersøgelse, der er et vilkår for markedsføringstilladelsen.
