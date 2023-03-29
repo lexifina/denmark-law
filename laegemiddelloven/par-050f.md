@@ -1,1 +1,1 @@
-§ 50 f. For at varetage sine kontrolopgaver efter § 50 e, stk. 1, kan Sundhedsstyrelsen vederlagsfrit mod kvittering udtage eller kræve udleveret prøver af aktive stoffer. Styrelsen kan desuden kræve alle oplysninger og materialer, der er nødvendige for kontrolvirksomheden.
+§ 50 f. For at varetage sine kontrolopgaver efter § 50 e, stk. 1, kan Lægemiddelstyrelsen vederlagsfrit mod kvittering udtage eller kræve udleveret prøver af aktive stoffer. Styrelsen kan desuden kræve alle oplysninger og materialer, der er nødvendige for kontrolvirksomheden.

@@ -1,4 +1,4 @@
-§ 39 b. Sundhedsstyrelsen fastsætter regler om:
+§ 39 b. Lægemiddelstyrelsen fastsætter regler om:
 
 1) Krav til teknisk ledelse, faglig kundskab, indretning og drift for den, der har tilladelse efter § 39, stk. 1 og 2.
 
