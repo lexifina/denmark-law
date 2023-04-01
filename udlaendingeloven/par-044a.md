@@ -84,4 +84,4 @@ Stk. 25. Registrering af oplysningerne skal ske i indkomstregisteret, jf. § 3 i
 
 4) Starttidspunkt og forventet sluttidspunkt for beskæftigelsen den pågældende dag.
 
-Stk. 26. Erhvervsstyrelsen indsamler til brug for verificering af udlændingens ansøgninger om godkendelse af forretningsplaner og til statistiske formål i henhold til § 9 a, stk. 2, nr. 11, og stk. 16, cpr-numre fra Styrelsen for International Rekruttering og Integration og oplysninger fra Skatteforvaltningens indkomstregister, jf. § 7 i lov om indkomstregister, og samkører dem med Erhvervsstyrelsens egne registre.
+Stk. 26. Erhvervsstyrelsen indsamler til brug for verificering af udlændingens ansøgninger om godkendelse af forretningsplaner og til statistiske formål i henhold til § 9 a, stk. 2, nr. 10, og stk. 16, cpr-numre fra Styrelsen for International Rekruttering og Integration og oplysninger fra Skatteforvaltningens indkomstregister, jf. § 7 i lov om indkomstregister, og samkører dem med Erhvervsstyrelsens egne registre.

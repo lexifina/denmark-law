@@ -14,7 +14,7 @@ Stk. 5. En ansøgning om forlængelse af en opholdstilladelse efter stk. 1-3 ska
 
 Stk. 6. Opholdstilladelse efter stk. 2, nr. 1, skal betinges af, at udlændingen og personer, der meddeles opholdstilladelse som følge af familiemæssig tilknytning til udlændingen, ikke modtager hjælp efter lov om aktiv socialpolitik.
 
-Stk. 7. Udlændinge- og integrationsministeren kan fastsætte nærmere regler om meddelelse af opholdstilladelse efter stk. 1, herunder om dokumentation for bestået anerkendt sprogtest og oprettelse af en spærret konto med et beløb svarende til op til 1 års ydelser i form af statens uddannelsesstøtte som betingelse for opholdstilladelse.
+Stk. 7. Udlændinge- og integrationsministeren kan fastsætte nærmere regler om meddelelse af opholdstilladelse efter stk. 1-3, herunder om dokumentation for bestået anerkendt sprogtest og oprettelse af en spærret konto med et beløb svarende til op til 1 års ydelser i form af statens uddannelsesstøtte som betingelse for opholdstilladelse.
 
 Stk. 8. Udlændinge- og integrationsministeren kan efter forhandling med uddannelses- og forskningsministeren fastsætte nærmere regler om studieaktivitet for udlændinge, der er meddelt opholdstilladelse med henblik på at deltage i en professionsbachelor- eller erhvervsakademiuddannelse her i landet.
 
@@ -28,4 +28,8 @@ Stk. 9. Til brug for Styrelsen for International Rekruttering og Integrations af
 
 Stk. 10. Ministeren for børn, undervisning og ligestilling fastsætter nærmere regler om Danmarks Evalueringsinstituts udtalelser efter stk. 9, herunder om anmodninger og om den anmodende institutions betaling til dækning af Danmarks Evalueringsinstituts udgifter i forbindelse med udtalelser.
 
-Stk. 11. En udlænding, der har opholdstilladelse efter stk. 1 eller 2, og som har indgivet ansøgning om opholdstilladelse efter § 9 a, stk. 2, nr. 10, må arbejde, i tiden indtil der er taget stilling til, om udlændingen kan meddeles opholdstilladelse efter § 9 a, stk. 2, nr. 10. En udlænding, der har opholdstilladelse efter stk. 1, og som har afsluttet en dansk kandidatuddannelse og har indgivet ansøgning om opholdstilladelse efter § 9 a, stk. 2, nr. 1-4, 7-9 eller 14, må arbejde i tiden, indtil der er taget stilling til, om udlændingen kan meddeles opholdstilladelse efter § 9 a, stk. 2, nr. 1-4, 7-9 eller 14.
+Stk. 11. En udlænding, der har opholdstilladelse efter stk. 1, 2 eller 12, og som efter afslutning af en dansk bachelor-, professionsbachelor-, kandidat- eller ph.d.-uddannelse har indgivet ansøgning om arbejdstilladelse uden begrænsning efter stk. 12, må arbejde, i tiden indtil der er taget stilling til, om udlændingen kan meddeles arbejdstilladelse efter stk. 12. En udlænding, der har opholdstilladelse efter stk. 1, og som har afsluttet en dansk kandidatuddannelse og har indgivet ansøgning om opholdstilladelse efter § 9 a, stk. 2, nr. 1-4, 7-9, 13 eller 14, må arbejde i tiden, indtil der er taget stilling til, om udlændingen kan meddeles opholdstilladelse efter § 9 a, stk. 2, nr. 1-4, 7-9, 13 eller 14.
+
+Stk. 12. Der kan meddeles opholds- og arbejdstilladelse til en udlænding, med henblik på at denne kan søge beskæftigelse efter afslutning af en uddannelse, der har dannet grundlag for en opholdstilladelse efter stk. 1 eller 2.
+
+Stk. 13. Udlændinge- og integrationsministeren kan fastsætte nærmere regler om meddelelse af opholds- og arbejdstilladelse efter stk. 12, herunder om adgangen til og varigheden af en sådan opholds- og arbejdstilladelse.
