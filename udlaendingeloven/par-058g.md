@@ -1,4 +1,4 @@
-§ 58 g. Udlændingemyndighederne indberetter en udlænding, der ikke er statsborger i et Schengenland eller et land, der er tilsluttet Den Europæiske Union, som uønsket til SIS II, hvis
+§ 58 g. Udlændingemyndighederne indberetter en udlænding, der ikke er statsborger i et Schengenland eller et land, der er tilsluttet Den Europæiske Union, som uønsket til SIS, hvis
 
 1) udlændingen er udvist af landet i medfør af §§ 22-24 og meddelt indrejseforbud for mindst 6 år,
 
@@ -22,4 +22,8 @@
 
 11) udlændingen er meddelt indrejseforbud efter § 32, stk. 1, nr. 6.
 
-Stk. 2. Udlændingemyndighederne kan indberette en udlænding, der ikke er statsborger i et Schengenland eller et land, der er tilsluttet Den Europæiske Union, som uønsket til SIS II, hvis udlændingen er omfattet af restriktive foranstaltninger i form af begrænsninger med hensyn til indrejse og gennemrejse besluttet af De Forenede Nationer eller Den Europæiske Union.
+Stk. 2. Udlændingemyndighederne kan indberette en udlænding, der ikke er statsborger i et Schengenland eller et land, der er tilsluttet Den Europæiske Union, som uønsket til SIS, hvis udlændingen er omfattet af restriktive foranstaltninger i form af begrænsninger med hensyn til indrejse og gennemrejse besluttet af De Forenede Nationer eller Den Europæiske Union.
+
+Stk. 3. Udlændingemyndighederne indberetter i medfør af SIS-tilbagesendelsesforordningen en udlænding, der ikke er statsborger i et Schengenland eller et land, der er tilsluttet Den Europæiske Union, til SIS, hvis udlændingen er genstand for en afgørelse om tilbagesendelse.
+
+Stk. 4. Udlændinge- og integrationsministeren kan fastsætte nærmere regler om udlændingemyndighedernes kompetence til at indberette efter stk. 1-3, herunder på en anden udlændingemyndigheds vegne.
