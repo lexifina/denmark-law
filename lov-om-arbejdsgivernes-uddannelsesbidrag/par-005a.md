@@ -6,7 +6,7 @@
 
 Stk. 2. Bestyrelsen for Arbejdsgivernes Uddannelsesbidrag kan bestemme, at ordningen også finder anvendelse i forhold til udgifter til elevers nødvendige eller aftalte ophold på kostafdelinger under skoleophold som led i en uddannelse, som kan sidestilles med erhvervsuddannelser, jf. § 4, stk. 1, hvis eleverne har ophold på kostafdelinger som nævnt i regler udstedt i medfør af § 49, stk. 3, i lov om erhvervsuddannelser.
 
-Stk. 3. Institutioner godkendt til tilskud efter § 18 i lov om institutioner for erhvervsrettet uddannelse træffer afgørelse om, hvorvidt elevens ophold er nødvendigt eller aftalt.
+Stk. 3. Institutioner godkendt til tilskud efter § 18 i lov om institutioner for erhvervsrettet uddannelse træffer afgørelse om, hvorvidt elevens eller lærlingens ophold er nødvendigt eller aftalt.
 
 Stk. 4. Institutioner godkendt til tilskud efter § 18 i lov om institutioner for erhvervsrettet uddannelse anmoder Arbejdsgivernes Uddannelsesbidrag om refusion for udgifter efter stk. 1 og 2.
 
