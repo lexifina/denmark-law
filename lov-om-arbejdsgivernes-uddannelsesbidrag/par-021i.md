@@ -6,4 +6,4 @@
 
 Stk. 2. Der kan alene ske merbidragsfritagelse for de kalenderdage, hvor eleven eller lærlingen uddannes hos arbejdsgiveren.
 
-Stk. 3. Bestyrelsen for Arbejdsgivernes Uddannelsesbidrag kan fastsætte nærmere regler om procedurer for ansøgning og behandling af ansøgninger om fritagelse for betaling af merbidrag, herunder dokumentationskrav. Bestyrelsen for Arbejdsgivernes Uddannelsesbidrag kan endvidere fastsætte regler om, at dokumentation kan ske, ved at arbejdsgiveren afgiver en skriftlig erklæring på tro og love.
+Stk. 3. Bestyrelsen for Arbejdsgivernes Uddannelsesbidrag kan fastsætte nærmere regler om procedurer for ansøgning og behandling af ansøgninger om fritagelse for betaling af merbidrag, herunder dokumentationskrav.
