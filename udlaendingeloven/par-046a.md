@@ -20,7 +20,7 @@ Stk. 6. En dansk diplomatisk eller konsulær repræsentations afgørelse om afsl
 
 Stk. 7. Følgende afgørelser kan ikke påklages:
 
-1) Udlændingestyrelsens og Styrelsen for International Rekruttering og Integrations afgørelser om afvisning, der er truffet efter regler udstedt i medfør af § 9 g, stk. 1, 2. pkt., og stk. 2, 2. pkt., og afgørelser efter § 9 g, stk. 3, § 9 h, stk. 8, 1. pkt., § 9 h, stk. 9, 1. pkt., jf. stk. 5, 1. pkt., jf. stk. 1, § 9 h, stk. 14, § 11, stk. 10, § 27, § 29 c, stk. 1, § 32 a, § 33, stk. 1, 2 og 5-7, §§ 33 a og 33 b, § 40, stk. 12, § 42 a, stk. 7, 4. pkt., § 42 b, stk. 1, 3 og 7-9, § 42 d, stk. 2, § 46 e og § 53 b. En afgørelse efter § 42 a, stk. 7, 4. pkt., om separat indkvartering, jf. § 42 a, stk. 7, 3. pkt., kan dog påklages.
+1) Udlændingestyrelsens og Styrelsen for International Rekruttering og Integrations afgørelser om afvisning, der er truffet efter regler udstedt i medfør af § 9 g, stk. 1, 2. pkt., og stk. 2, 2. pkt., og afgørelser efter § 9 g, stk. 3, § 9 h, stk. 8, 1. pkt., § 9 h, stk. 9, 1. pkt., jf. stk. 5, 1. pkt., jf. stk. 1, § 9 h, stk. 18, § 11, stk. 10, § 27, § 29 c, stk. 1, § 32 a, § 33, stk. 1, 2 og 5-7, §§ 33 a og 33 b, § 40, stk. 12, § 42 a, stk. 7, 4. pkt., § 42 b, stk. 1, 3 og 7-9, § 42 d, stk. 2, § 46 e og § 53 b. En afgørelse efter § 42 a, stk. 7, 4. pkt., om separat indkvartering, jf. § 42 a, stk. 7, 3. pkt., kan dog påklages.
 
 2) Udlændingestyrelsens og Styrelsen for International Rekruttering og Integrations afgørelser om afkortning af varigheden af en opholdstilladelse meddelt efter § 9, § 9 a, § 9 c, stk. 1, eller §§ 9 d-9 f, 9 i-n, 9 p eller 9 q på grund af udløb af udlændingens pas eller rejselegitimation.
 
@@ -32,7 +32,7 @@ Stk. 7. Følgende afgørelser kan ikke påklages:
 
 6) Udlændingestyrelsens afgørelser i sager om klager over anvendelse af reglerne i kapitel 9 a.
 
-7) Styrelsen for International Rekruttering og Integrations afgørelser om varsel, jf. § 19, stk. 1, nr. 15, 2. pkt.
+7) Styrelsen for International Rekruttering og Integrations afgørelser om varsel, jf. § 19, stk. 1, nr. 14, 2. pkt.
 
 8) Afgørelser om opsættende virkning efter § 33 b, der træffes af en færøsk myndighed i medfør af § 46 i.
 

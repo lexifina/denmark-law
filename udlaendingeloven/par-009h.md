@@ -8,7 +8,7 @@
 
 4) opholdstilladelse efter § 9 a, stk. 2, nr. 1-14, og stk. 3,
 
-5) opholdstilladelse efter § 9 i, stk. 1, 1. pkt., og stk. 2 og 3,
+5) opholdstilladelse efter § 9 i, stk. 1, 1. pkt., og stk. 2, 3 og 12,
 
 6) opholdstilladelse efter § 9 j, stk. 1,
 
@@ -62,8 +62,16 @@ Stk. 11. Gebyr efter stk. 10, 1. pkt., tilbagebetales, hvis ansøgningen om geno
 
 Stk. 12. Ansøgningen om genoptagelse afvises, hvis betingelsen i stk. 10, 1. pkt., ikke er opfyldt. Klagen afvises, hvis betingelsen i stk. 10, 2. pkt., ikke er opfyldt. Ansøgningen om genoptagelse af klagesagen afvises, hvis betingelsen i stk. 10, 3. pkt., ikke er opfyldt.
 
-Stk. 13. De beløb, der er angivet i stk. 5 og 7, reguleres fra og med 2012 en gang årligt den 1. januar efter satsreguleringsprocenten, jf. lov om en satsreguleringsprocent. De beløb, der er angivet i stk. 8, 1. pkt., og stk. 10, reguleres fra og med 2016 en gang årligt den 1. januar efter satsreguleringsprocenten, jf. lov om en satsreguleringsprocent. De regulerede beløb afrundes dog til det nærmeste beløb, som er deleligt med 5 kr.
+Stk. 13. For indgivelse af ansøgning, hvor Styrelsen for International Rekruttering og Integration skal træffe afgørelse om arbejdstilladelse efter § 9 i, stk. 12, med henblik på at kunne arbejde uden begrænsning efter afslutning af en dansk bachelor-, professionsbachelor-, kandidat- eller ph.d.-uddannelse skal udlændingen senest samtidig med indgivelsen af ansøgningen betale et gebyr på 750 kr., medmindre andet følger af EU-reglerne.
 
-Stk. 14. Betaler udlændingen eller virksomheden et beløb, der overstiger det gebyr, der skal betales efter stk. 1, 3, 5 eller 10, tilbagebetales det overskydende beløb ikke, hvis dette beløb udgør 30 kr. eller derunder.
+Stk. 14. For indgivelse af ansøgning om genoptagelse af en sag, hvor Styrelsen for International Rekruttering og Integration har truffet afgørelse på baggrund af en ansøgning omfattet af stk. 13, skal udlændingen senest samtidig med indgivelsen af ansøgningen om genoptagelse betale et gebyr på 930 kr., medmindre andet følger af EU-reglerne. For indgivelse af klage over en afgørelse truffet af Styrelsen for International Rekruttering og Integration på baggrund af en ansøgning omfattet af stk. 13 skal klageren senest samtidig med indgivelsen af klagen betale et gebyr på 930 kr., medmindre andet følger af EU-reglerne. For indgivelse af ansøgning om genoptagelse af en klagesag omfattet af 2. pkt. skal klageren senest samtidig med indgivelsen af ansøgningen om genoptagelse betale et gebyr på 930 kr., medminde andet følger af EU-reglerne.
 
-Stk. 15. Udlændinge- og integrationsministeren fastsætter regler om indbetaling af gebyrer fastsat efter stk. 1 og 3 og stk. 5, jf. stk. 1 og 3, og stk. 10, og om tilbagebetaling af sådanne gebyrer, herunder om tilbagebetaling efter stk. 6, jf. stk. 5, jf. stk. 1 og 3, og stk. 7, 8 og 11.
+Stk. 15. Gebyr efter stk. 14, 1. pkt., tilbagebetales, hvis ansøgningen om genoptagelse imødekommes. Gebyr efter stk. 14, 2. pkt., tilbagebetales, hvis klageren får helt eller delvist medhold i klagen. Gebyr efter stk. 14, 3. pkt., tilbagebetales, hvis ansøgningen om genoptagelse imødekommes.
+
+Stk. 16. Ansøgningen om genoptagelse afvises, hvis betingelsen i stk. 14, 1. pkt., ikke er opfyldt. Klagen afvises, hvis betingelsen i stk. 14, 2. pkt., ikke er opfyldt. Ansøgningen om genoptagelse af klagesagen afvises, hvis betingelsen i stk. 14, 3. pkt., ikke er opfyldt.
+
+Stk. 17. De beløb, der er angivet i stk. 5 og 7, reguleres fra og med 2012 en gang årligt den 1. januar efter satsreguleringsprocenten, jf. lov om en satsreguleringsprocent. De beløb, der er angivet i stk. 8, 1. pkt., og stk. 10, reguleres fra og med 2016 en gang årligt den 1. januar efter satsreguleringsprocenten, jf. lov om en satsreguleringsprocent. De beløb, der er angivet i stk. 13 og 14, reguleres fra og med 2024 en gang årligt den 1. januar efter satsreguleringsprocenten, jf. lov om satsreguleringsprocent. De regulerede beløb afrundes dog til det nærmeste beløb, som er deleligt med 5 kr.
+
+Stk. 18. Betaler udlændingen eller virksomheden et beløb, der overstiger det gebyr, der skal betales efter stk. 1, 3, 5, 10, 13 eller 14, tilbagebetales det overskydende beløb ikke, hvis dette beløb udgør 30 kr. eller derunder.
+
+Stk. 19. Udlændinge- og integrationsministeren fastsætter regler om indbetaling af gebyrer fastsat efter stk. 1 og 3 og stk. 5, jf. stk. 1 og 3, og stk. 10, 13 og 14, og om tilbagebetaling af sådanne gebyrer, herunder om tilbagebetaling efter stk. 6, jf. stk. 5, jf. stk. 1 og 3, og stk. 7, 8, 11 og 15.

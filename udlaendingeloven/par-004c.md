@@ -20,7 +20,7 @@ Stk. 4. Stk. 3, nr. 3, finder ikke anvendelse, hvis
 
 4) udlændingen ansøger om opholdstilladelse efter § 9 c, stk. 4,
 
-5) udlændingen ansøger om opholdstilladelse efter § 9 a, stk. 2, nr. 1-12 eller 14, eller stk. 3,
+5) udlændingen ansøger om opholdstilladelse efter § 9 a, stk. 2, nr. 1-10, 13 eller 14, eller stk. 3,
 
 6) udlændingen ansøger om opholdstilladelse efter § 9 p, stk. 1, 1. pkt.,
 
