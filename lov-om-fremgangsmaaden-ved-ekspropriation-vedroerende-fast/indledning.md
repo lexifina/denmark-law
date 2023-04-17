@@ -1,3 +1,3 @@
 Bekendtgørelse af lov om fremgangsmåden ved ekspropriation vedrørende fast ejendom
 
-Herved bekendtgøres lov om fremgangsmåden ved ekspropriation vedrørende fast ejendom, jf. lovbekendtgørelse nr. 672 af 19. august 1999, med de ændringer, der følger af § 57 i lov nr. 145 af 25. marts 2002, § 2 i lov nr. 156 af 12. marts 2003, § 5 i lov nr. 583 af 24. juni 2005 og § 95 i lov nr. 538 af 8. juni 2006.
+Herved bekendtgøres lov om fremgangsmåden ved ekspropriation vedrørende fast ejendom, jf. lovbekendtgørelse nr. 1161 af 20. november 2008, med de ændringer, der følger af § 142 i lov nr. 1520 af 27. december 2014 og § 1 i lov nr. 1895 af 29. december 2015.
