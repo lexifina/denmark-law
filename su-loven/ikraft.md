@@ -76,7 +76,7 @@ Stk. 3-5. (Udeladt)
 
 Stk. 6. For aktier, køberetter til aktier og tegningsretter til aktier, der er tildelt før den 1. juli 2003, og hvor tidspunktet for den ansattes beskatning af de modtagne aktier m.v. indtræder den 1. januar 2003 eller senere, kan den ansatte og det selskab, der har ydet de pågældende aktier m.v., indgå aftale om, at reglerne i ligningslovens § 7 H, som affattet ved denne lovs § 1, nr. 6, skal finde anvendelse. Indgås en sådan aftale, skal indberetning herom foretages for det kalenderår, hvor aftalen er indgået.
 
-Stk. 7-8 (Udeladt)
+Stk. 7-8. (Udeladt)
 
 Lov nr. 401 af 28. maj 2003 (Konsekvensændringer i forbindelse med universitetsreformen) indeholder følgende ikrafttrædelsesbestemmelse:
 
@@ -399,3 +399,123 @@ Stk. 1. Loven træder i kraft dagen efter bekendtgørelsen i Lovtidende.
 Stk. 2. Lovens §§ 2-16 finder ikke anvendelse for afgørelser om inddragelse af pas, der er truffet inden lovens ikrafttræden, og domme, der vedrører forhold begået inden lovens ikrafttræden.
 
 Stk. 3. Regler fastsat i medfør af § 39, stk. 10, i lov om statens uddannelsesstøtte (SU-loven), jf. lovbekendtgørelse nr. 39 af 15. januar 2014 med senere ændringer, forbliver i kraft, indtil de ophæves eller afløses af nye regler.
+
+Lov nr. 1565 19. december 2017 (Erhvervskandidatuddannelse) indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 5
+
+Loven træder i kraft den 1. januar 2018.
+
+Lov nr. 1569 af 18. december 2018 (Sammenlægning af flere krav om tilbagebetaling af SU eller SVU til ét tilbagebetalingskrav og forhøjelse af fribeløb under lønnet praktik på uddannelsen til transportbetjent) indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 3
+
+Stk. 1. Loven træder i kraft den 1. januar 2019.
+
+Stk. 2. Lovens § 1, nr. 1, har virkning for beregning af årsfribeløbet eller uddannelsesfribeløbet ved den endelige tildeling, jf. SU-lovens §§ 22 og 22 a, fra støtteåret 2018 og derefter.
+
+Stk. 3. Lovens § 1, nr. 2, og § 2 har virkning for krav om tilbagebetaling af støtte, der vedrører udbetalinger af støtte for kalenderåret 2019 og derefter.
+
+Lov nr. 464 af 29. april 2019 (Tillægsstipendium til uddannelsessøgende med en funktionsnedsættelse i erhvervsuddannelse og forhøjelse af fribeløb) indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 2
+
+Stk. 1. Loven træder i kraft dagen efter bekendtgørelsen i Lovtidende, jf. dog stk. 2.
+
+Stk. 2. Uddannelses- og forskningsministeren fastsætter tidspunktet for ikrafttræden af § 1, nr. 1-3.
+
+Stk. 3. Loven har virkning fra den 1. januar 2019.
+
+Stk. 4. Bestemmelser fastsat i medfør af SU-lovens § 38 a, stk. 3, nr. 2, vedrørende frister for ansøgninger om stipendium som tillæg efter SU-lovens § 7, stk. 3, finder ikke anvendelse for ansøgninger om stipendium som tillæg til uddannelsessøgende i erhvervsuddannelse efter SU-lovens § 7, stk. 3, som ændret ved denne lovs § 1, nr. 1, i indtil 3 måneder efter ikrafttræden af § 1, nr. 1, i denne lov.
+
+Lov nr. 328 af 31. marts 2020 (Udvidede muligheder for studielån og slutlån samt forhøjelse af fribeløb som følge af covid-19) indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 2
+
+Stk. 1. Loven træder i kraft ved bekendtgørelsen i Lovtidende.
+
+Stk. 2-3. (Udeladt)
+
+Stk. 4. § 24, stk. 12, i SU-loven som affattet ved denne lovs § 1, nr. 2, ophæves den 1. januar 2022.
+
+Lov nr. 575 af 5. maj 2020 (Udvidet mulighed for slutlån som følge af covid-19) indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 2
+
+Stk. 1. Loven træder i kraft ved bekendtgørelsen i Lovtidende.
+
+Stk. 2. § 21, stk. 5-9, i SU-loven som affattet ved denne lovs § 1, nr. 1, ophæves den 1. marts 2021.
+
+Lov nr. 672 af 26. maj 2020 (SU til adgangskurser på institutioner for erhvervsrettet uddannelse, indfrielse af tidligere studielån ved optagelse af nyt studielån, udlandsstipendium til ikketrindelte uddannelser på kandidatniveau, hjemmel til at fastsætte regler om fælles dataansvar m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 5
+
+Stk. 1. Loven træder i kraft den 1. juni 2020, jf. dog stk. 2 og 3.
+
+Stk. 2. § 1, nr. 3, 4 og 6, træder i kraft den 1. juli 2020.
+
+Stk. 3. Uddannelses- og forskningsministeren fastsætter tidspunktet for ikrafttrædelsen af § 1, nr. 11 og 13.
+
+Stk. 4. § 1, nr. 7 og 8, har virkning for krav om tilbagebetaling af støtte, der vedrører udbetalinger af støtte for støtteåret 2019 og derefter.
+
+Stk. 5. § 33 a i SU-loven som affattet ved denne lovs § 1, nr. 11, har virkning for alle låntagere, der optager mindst ét studielån eller slutlån fra ikrafttrædelsestidspunktet for § 1, nr. 11, jf. stk. 3, og derefter.
+
+Stk. 6. § 35, stk. 4, i SU-loven som affattet ved denne lovs § 1, nr. 13, har virkning for alle låntagere, der optager studielån eller slutlån fra ikrafttrædelsestidspunktet for § 1, nr. 13, jf. stk. 3, og derefter. Bestemmelsen har endvidere virkning for alle låntagere, der har studielån eller slutlån under ordinær opkrævning fra ikrafttrædelsestidspunktet for § 1, nr. 13, jf. stk. 3, og derefter. Endelig har bestemmelsen virkning for alle låntagere, der har studielån eller slutlån under ordinær opkrævning på ikrafttrædelsestidspunktet for SU-lovens § 1, nr. 13, jf. stk. 3, som der ikke betales tilbage på under en ny uddannelsesperiode på ikrafttrædelsestidspunktet.
+
+Stk. 7. Uddannelses- og forskningsministeren kan fastsætte regler om sammenlægning af restgæld fra studielån og slutlån efter SU-loven til et samlet lån, hvor låntager i perioden fra den 1. januar 1991 og indtil ikrafttrædelsestidspunktet for § 1, nr. 11, jf. stk. 3, har optaget lån under flere uddannelsesperioder, der er påbegyndt inden ikrafttrædelsestidspunktet.
+
+Stk. 8. § 1, nr. 1, 15, 16 og 21, finder anvendelse for ansøgninger om udlandsstipendium indgivet den 1. juni 2020 og derefter. For ansøgninger indgivet før den 1. juni 2020 finder de hidtil gældende regler anvendelse. § 1, nr. 1, 15, 16 og 21, finder endvidere alene anvendelse for ikketrindelte hele videregående uddannelser i udlandet, der efter afsluttet bachelorniveau er på kandidatniveau, og som den uddannelsessøgende påbegynder den 1. juni 2020 eller senere.
+
+Stk. 9. (Udeladt)
+
+Lov nr. 1223 af 21. august 2020 (Førtidig udbetaling af feriemidler og udvidelse af Arbejdsmarkedets Tillægspensions opgavevaretagelse) indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 4
+
+Stk. 1. Loven træder i kraft ved bekendtgørelse i Lovtidende, jf. dog stk. 2.
+
+Stk. 2-5. (Udeladt)
+
+Lov nr. 293 af 27. februar 2021 (Forhøjelse af fribeløb og forlængelse af bestemmelser om udvidede SU-lånemuligheder som følge af covid-19) indeholder følgende ikrafttrædelsesbestemmelse og ændring af ikrafttrædelsesbestemmelse i lov nr. 328 af 31. marts 2020:
+
+§ 4
+
+Loven træder i kraft den 28. februar 2021.
+
+Lov nr. 2400 af 14. december 2021 (Ligestilling ved tildeling af ekstra SU i forbindelse med fødsel eller adoption m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 3
+
+Stk. 1. Loven træder i kraft den 1. januar 2022, jf. dog stk. 2.
+
+Stk. 2. § 1, nr. 4-6, 8 og 15, træder i kraft den 1. august 2022.
+
+Stk. 3. (Udeladt)
+
+Lov nr. 481 af 26. april 2022 (Midlertidig suspension af SU-godkendelse af hele uddannelser i visse lande) indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 2
+
+Stk. 1. Loven træder i kraft dagen efter bekendtgørelsen i Lovtidende.
+
+Stk. 2. § 4, stk. 3, i SU-loven som affattet ved denne lovs § 1, nr. 1, ophæves den 1. januar 2024.
+
+Lov nr. 834 af 14. juni 2022 (Forhøjelse af fribeløb) indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 3
+
+Stk. 1. Loven træder i kraft den 15. juni 2022, jf. dog stk. 2.
+
+Stk. 2. § 1, nr. 1 og 2, træder i kraft den 15. september 2022.
+
+Stk. 3. § 1, nr. 1 og 2, har virkning for den endelige tildeling af uddannelsesstøtte, jf. SU-lovens § 30, for støtteåret 2022 og senere. For tidligere støtteår finder de hidtil gældende regler anvendelse.
+
+Stk. 4. § 24, stk. 12, i SU-loven som ændret ved denne lovs § 1, nr. 3, ophæves den 1. januar 2024.
+
+Lov nr. 893 af 21. juni 2022 (Opfølgning på flerårsaftalen om kriminalforsorgens økonomi 2022-2025, herunder leje af fængselspladser i udlandet, revision af disciplinærstraffesystemet, udstationering til eget hjem med fodlænke eller udslusningsfængsel m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 13
+
+Stk. 1. Loven træder i kraft den 1. juli 2022, jf. dog stk. 2 og 3.
+
+Stk. 2-8. (Udeladt)
