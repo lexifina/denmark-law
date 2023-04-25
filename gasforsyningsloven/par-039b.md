@@ -1,0 +1,5 @@
+§ 39 b. Afbryder distributionsselskabet, transmissionsselskabet, transmissionssystemejeren eller systemoperatøren sin ydelse til en gasleverandør på grund af manglende overholdelse af selskabets offentliggjorte betingelser for anvendelse af transmissions- eller distributionssystemet, overfører distributionsselskabet uden forsinkelse denne gasleverandørs aftagenumre til andre gasleverandører efter proceduren i § 39 c.
+
+Stk. 2. Bliver en gasleverandør taget under rekonstruktions- eller konkursbehandling, og har rekonstruktøren eller kuratoren ikke inden for 1 uge derefter meddelt distributionsselskabet, at gasleverandørens virksomhed videreføres, overfører distributionsselskabet uden forsinkelse denne gasleverandørs aftagenumre til andre gasleverandører efter proceduren i § 39 c, dog således, at det først skal sikres, at den manglende meddelelse ikke skyldes en undskyldelig fejl.
+
+Stk. 3. Rekonstruktøren eller kuratoren skal hurtigst muligt og senest inden for 1 uge efter insolvensbehandlingens indledning meddele distributionsselskabet, om gasleverandøren fortsætter sin virksomhed.

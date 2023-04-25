@@ -1,0 +1,1 @@
+§ 9 b. Hvor det er teknisk gennemførligt, skal betaling for gas ske efter målt forbrug i et direkte kundeforhold mellem forbruger og gasselskab, uanset om forbrugeren er lejer, andelshaver eller ejer.
