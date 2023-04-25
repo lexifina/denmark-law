@@ -127,3 +127,55 @@ Stk. 3. Ansøgninger om udbetaling af støtte vedrørende 2019 behandles efter d
 Stk. 4. Afgørelser truffet efter de hidtil gældende regler gælder, indtil de afløses af afgørelser truffet efter denne lov.
 
 Stk. 5. Regler fastsat i medfør af de hidtil gældende regler forbliver i kraft, indtil de ophæves eller afløses af forskrifter udstedt i medfør af reglerne i denne lov.
+
+Lov nr. 2211 af 29. december 2020 (Ændring af formålsbestemmelsen for Energinet, ny transparent proces for Energinets investeringer og ny fremsynet økonomisk regulering af Energinet m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 4
+
+Stk. 1. Loven træder i kraft den 1. januar 2021.
+
+Stk. 2-5. (Udelades)
+
+Stk. 6. Klima-, energi- og forsyningsministeren fastsætter regler om tidspunktet for virkningen af §§ 71-71b og § 76, stk. 1, nr. 5, i lov om elforsyning som affattet ved denne lovs § 2, nr. 4-6, og §§ 37 d-37 f og § 40, stk. 2 og 4, i lov om naturgasforsyning som affattet ved denne lovs § 3, nr. 10-13. Ministeren kan herunder fastsætte, at dele af bestemmelserne får virkning på forskellige tidspunkter. De hidtil gældende regler finder anvendelse, indtil klima-, energi- og forsyningsministeren har fastsat tidspunktet for virkningen efter 1. pkt.
+
+Stk. 7. Regler fastsat i medfør af det gældende § 71, stk. 2, i lov om elforsyning, jf. lovbekendtgørelse nr. 119 af 6. februar 2020, og i medfør af det gældende § 37 d, stk. 2, i lov om naturgasforsyning, jf. lovbekendtgørelse nr. 126 af 6. februar 2020, forbliver i kraft, indtil de ophæves eller afløses af nye regler.
+
+Lov nr. 883 af 12. maj 2021 (Gennemførelse af dele af direktiv om fremme af anvendelsen af energi fra vedvarende energikilder, herunder bestemmelser om oprindelsesgarantier, tilladelsesprocesser, VE-fællesskaber, bæredygtighedskriterier og kriterier for drivhusgasemissionsbesparelser for biobrændstoffer, biomassebrændsler og flydende biobrændsler, m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 13
+
+Stk. 1. Loven træder i kraft den 30. juni 2021, jf. dog stk. 2.
+
+Stk. 2-9. (Udelades)
+
+Lov nr. 923 af 18. maj 2021 (Indpasning af gas fra vedvarende energikilder, udbud af pristillæg for opgraderet biogas og andre gasser fra vedvarende energikilder, udbud af støtte til produktion af brændstoffer eller andre produkter fra elektricitet (power-to-x), justering af den økonomiske regulering af gasdistributionsselskaber og reglerne for gasdetailmarkedet og sidestillelse af regioner med kommuner i forhold til egenproduktion af elektricitet ved selskabsudskillelse m.v. ) indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 10
+
+Stk. 1. Loven træder i kraft den 30. juni 2021, jf. dog stk. 2-6. § 4, nr. 2 og 3, og § 9 gælder for elproduktionsanlæg, der nettilsluttes fra den 30. juni 2021 og frem.
+
+Stk. 2. § 1, nr. 1-12, 14, 15 og 17, og § 8 i lov om naturgasforsyning som affattet ved denne lovs § 1, nr. 18, § 1, nr. 19-27, 29-41, 43-55, 57-65, 67-75, 77-79, 81-87, 89, 93, 98, 99, 101-104, 107, 108 og 112, § 2, nr. 1-3, § 3, nr. 1 og 2, § 4, nr. 1 og 4-6, og §§ 5-7 træder i kraft den 1. juli 2021.
+
+Stk. 3. § 1, nr. 95-97, træder i kraft den 1. januar 2022.
+
+Stk. 4. Klima-, energi- og forsyningsministeren fastsætter tidspunktet for ikrafttræden af § 1, nr. 66 og 106 og § 8.
+
+Stk. 5. § 1, nr. 13 og 16, og §§ 7 c og 7 d i lov om naturgasforsyning som affattet ved denne lovs § 1, nr. 18, og § 1, nr. 28, 56, 80, 88, 90-92, 94, 100 og 105, træder i kraft den 1. april 2023.
+
+Stk. 6. Klima-, energi- og forsyningsministeren fastsætter tidspunktet for ikrafttrædelsen af § 1, nr. 76, og § 2, nr. 4.
+
+Stk. 7. Regler fastsat i medfør af § 37, stk. 3, § 37 a, stk. 2 og 6, og § 50, stk. 1, i lov om naturgasforsyning, jf. lovbekendtgørelse nr. 126 af 6. februar 2020, forbliver i kraft, indtil de ophæves eller afløses af forskrifter udstedt i medfør af § 37 a, stk. 4, i lov om gasforsyning som affattet ved denne lovs § 1, nr. 84.
+
+Stk. 8. Regler fastsat i medfør af § 45 a, stk. 4, i lov om naturgasforsyning, jf. lovbekendtgørelse nr. 126 af 6. februar 2020, forbliver i kraft, indtil de ophæves eller afløses af forskrifter udstedt i medfør af § 45 a, stk. 3, i lov om gasforsyning som affattet ved denne lovs § 1, nr. 100.
+
+Lov nr. 1594 af 28. december 2022 (Regulering af brint, omorganisering af Energinet, CO2-lagring m.v.) indeholder følgende ikrafttrædelsesbestemmelser:
+
+§ 6
+
+Stk. 1. Loven træder i kraft den 1. januar 2023, jf. dog stk. 2 og 3.
+
+Stk. 2. § 1, nr. 16 og 72, træder i kraft den 1. april 2023.
+
+Stk. 3. Klima-, energi- og forsyningsministeren fastsætter tidspunktet for ikrafttrædelsen af § 1, nr. 62.
+
+Stk. 4. Regler fastsat i medfør af § 30 a, stk. 5, § 30 b og § 30 c, stk. 2, i lov om gasforsyning, jf. lovbekendtgørelse nr. 126 af 6. februar 2020, forbliver i kraft, indtil de ophæves eller afløses af nye forskrifter udstedt i medfør af § 30 a, stk. 6 og 7, i lov om gasforsyning, jf. denne lovs § 1, nr. 56.

@@ -1,3 +1,0 @@
-§ 30 c. Energinet og denne virksomheds helejede datterselskaber i medfør af § 2, stk. 2 og 3, i lov om Energinet, der driver distributions- eller lagervirksomhed, og selskaber, der driver distributionsvirksomhed efter bevilling, betaler halvårligt et beløb til Klima-, Energi- og Forsyningsministeriet til dækning af omkostninger til tilsyn med selskaberne efter regler udstedt i medfør af § 15 a, stk. 4, og § 15 b, stk. 6.
-
-Stk. 2. Klima-, energi- og forsyningsministeren fastsætter størrelsen af beløb efter stk. 1, herunder om fordelingen af omkostningerne på kategorier af selskaber. Klima-, energi- og forsyningsministeren kan fastsætte nærmere regler om betaling og opkrævning af beløb efter stk. 1.
