@@ -1,3 +1,9 @@
-§ 17 d. I kommuner, der omfatter flere provstier eller dele af flere provstier, og hvor der ikke skal nedsættes budgetudvalg i medfør af § 17 c, fastsættes det samlede ligningsbeløb til kommunens kirkekasser og fordelingen mellem de enkelte kirkelige kasser af provstiudvalget for det provsti, hvor flest af kommunens folkekirkemedlemmer bor. Dette provsti benævnes ligningsprovstiet. Budgetsamrådet i ligningsprovstiet kan i medfør af § 5, stk. 4, beslutte at overtage den i 1. pkt. nævnte kompetence fra ligningsprovstiet.
+§ 17 d. I kommuner, der omfatter flere provstier eller dele af flere provstier, og hvor der ikke skal nedsættes budgetudvalg i medfør af § 17 c, fastsætter provstiudvalget for det provsti, hvor flest af kommunens folkekirkemedlemmer bor, det samlede ligningsbeløb, som skal opkræves af kommunen, samt fordelingen mellem kasserne for
 
-Stk. 2. De menighedsråd i kommunen, som ikke ligger i ligningsprovstiet, har ret til at deltage i budgetsamrådet i ligningsprovstiet. Disse menighedsråd har samme rettigheder og pligter ved budgetsamrådets drøftelser og eventuelle beslutninger om målsætninger for udgifter og ligning, fastsættelse af driftsrammer, anlægsbevillinger og ligningsbeløb i ligningsområdet som ligningsprovstiets menighedsråd.
+1) kommunens kirkekasser, jf. § 1, stk. 1,
+
+2) selvstændige juridiske enheder, jf. § 1, stk. 2 og 3, hvor de deltagende menighedsråd har besluttet at flytte kompetencen til fastsættelse af driftsrammer, anlægsbevillinger og projektbevillinger til provstiudvalget, og
+
+3) præsteembedernes faste ejendomme, hvor flere menighedsråd er fælles om de faste ejendomme.
+
+Stk. 2. De menighedsråd i kommunen, som ikke ligger i provstiet, hvor flest af kommunens folkekirkemedlemmer bor har ret til at deltage i budgetsamrådet i dette provsti. Disse menighedsråd har samme rettigheder og pligter ved budgetsamrådets drøftelser og eventuelle beslutninger om målsætninger for udgifter og ligning, fastsættelse af driftsrammer, anlægsbevillinger, projektbevillinger og ligningsbeløb i ligningsområdet som provstiets menighedsråd.

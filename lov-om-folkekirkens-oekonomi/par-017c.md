@@ -16,4 +16,12 @@ Stk. 6. Bestemmelserne i § 17 b, stk. 1, stk. 3, 4 og stk. 6-9, finder tilsvare
 
 Stk. 7. Hvis der i kommunen er sogne eller dele af sogne, som ikke ligger i de provstier, der er repræsenteret i budgetudvalget, har disse sognes provstiudvalg adgang til at sende en repræsentant til budgetudvalgets møder. Repræsentanten har tale- og forslagsret.
 
-Stk. 8. Budgetudvalget fastsætter det samlede ligningsbeløb til kommunens kirkekasser og til provstiudvalgskasserne samt ligningsbeløbets fordeling mellem provstierne.
+Stk. 8. Budgetudvalget fastsætter det samlede ligningsbeløb, som skal opkræves af kommunen, samt fordelingen mellem provstierne for
+
+1) kommunens kirkekasser,
+
+2) selvstændige juridiske enheder, jf. § 1, stk. 2 og 3, hvor de deltagende menighedsråd har besluttet at flytte kompetencen til fastsættelse af driftsrammer, anlægsbevillinger og projektbevillinger til provstiudvalget,
+
+3) præsteembedernes faste ejendomme, hvor flere menighedsråd er fælles om de faste ejendomme, og
+
+4) provstiudvalgskasserne.

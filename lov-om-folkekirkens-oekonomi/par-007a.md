@@ -1,3 +1,11 @@
-§ 7 a. Ligningsbeløbet til kommunens kirkekasser fastsættes af provstiudvalget, jf. dog § 5, stk. 4, og §§ 17 c-17 d.
+§ 7 a. Menighedsrådet fastsætter og disponerer sit budget inden for den driftsramme og de anlægsbevillinger og projektbevillinger, som provstiudvalget har fastsat, jf. § 7, stk. 1, nr. 1.
 
-Stk. 2. Provstiudvalget har ved ligningsbeløbets fastsættelse adgang til at afsætte midler til en reserve på op til 5 % af ligningsbeløbet. Ved forbrug af reserven har provstiudvalget det følgende år mulighed for at forhøje ligningen med henblik på reservens reetablering. Reserven kan anvendes til dækning af uforudsete udgifter i ligningsområdet. Provstiudvalget kan af reserven yde et likviditetslån med en løbetid på maksimalt 12 måneder. Provstiudvalget fastsætter betingelserne for likviditetslånet.
+Stk. 2. Menighedsrådet udarbejder målsætninger, som indarbejdes i budgettet, jf. stk. 1.
+
+Stk. 3. Bestyrelsen for en selvstændig juridisk enhed fastsætter og disponerer sit budget inden for den driftsramme og de anlægsbevillinger og projektbevillinger, som provstiudvalget har fastsat, jf. § 7, stk. 1, nr. 2, eller som er fastsat af menighedsrådene i henhold til samarbejdsvedtægten, jf. §§ 42 a, stk. 2, og 43, stk. 2, i lov om menighedsråd.
+
+Stk. 4. Menighedsråd, som er fælles om præsteembeders faste ejendomme, fastsætter budgettet for de faste ejendomme inden for den driftsramme og de anlægsbevillinger og projektbevillinger, som provstiudvalget har fastsat, jf. § 7, stk. 1, nr. 3. Menighedsrådene træffer beslutning om budgettet ved stemmeflertal på et fællesmøde. Til brug for fællesmødet indhentes en udtalelse fra præstegårdsudvalget. Budgettet disponeres af det menighedsråd, som administrerer budgettet på vegne af præstegårdsudvalget.
+
+Stk. 5. Kirkeministeren kan fastsætte nærmere regler om budgettets fastsættelse, herunder opbygning, udarbejdelse, indsendelse til provstiudvalget og offentliggørelse, samt om tilsyn med og forhold vedrørende præsteembedets faste ejendomme.
+
+Stk. 6. Kirkeministeren kan fastsætte regler om disponering af budgettet, herunder omdisponering inden for budgettet og til provstiudvalgskassen.
