@@ -1,4 +1,4 @@
-§ 45 b. Naturgasleverandører skal sørge for, at relevante data om alle transaktioner vedrørende kontrakter med engroskunder, transmissionsselskaber og lager- og LNG-selskaber om levering af naturgas er til rådighed for Forsyningstilsynet, Konkurrence- og Forbrugerstyrelsen og Europa-Kommissionen i mindst 5 år med henblik på opfyldelsen af deres opgaver.
+§ 45 b. Gasleverandører skal sørge for, at relevante data om alle transaktioner vedrørende kontrakter med engroskunder, transmissionsselskaber eller transmissionssystemejere og systemoperatører og lager- og LNG-selskaber om levering af gas er til rådighed for Forsyningstilsynet, Konkurrence- og Forbrugerstyrelsen og Europa-Kommissionen i mindst 5 år med henblik på opfyldelsen af deres opgaver.
 
 Stk. 2. (Udelades)
 

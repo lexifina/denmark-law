@@ -9,3 +9,9 @@
 3) Udstedelse af forbud til kunder omfattet af ikkebeskyttede kundegrupper mod forbrug af gas eller fjernvarme.
 
 4) Etablering af en kompensationsordning, der finder anvendelse i forbindelse med en solidaritetskrise.
+
+## Kapitel 4
+
+## Forsyningspligtig virksomhed
+
+§§ 24-27. (Ophævet)

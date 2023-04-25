@@ -4,8 +4,4 @@ Stk. 2. De af stk. 1 omfattede aftaler skal foreligge i skriftlig form på aftal
 
 Stk. 3. Bestemmelserne i stk. 1 og 2, og regler fastsat efter stk. 4 gælder tilsvarende for aftaler, der indgås af Energinet eller denne virksomheds helejede datterselskaber, jf. § 2, stk. 2 og 3, i lov om Energinet.
 
-Stk. 4. Klima-, energi- og forsyningsministeren kan fastsætte regler om vurdering af markedsmæssigheden og om
-
-fastsættelse af den markedsmæssige pris, herunder regler om metoder til fastsættelse af den markedsmæssige pris efter stk. 2, for de aftaler, som naturgasdistributionsselskaber indgår for at opfylde forpligtelsen til at realisere dokumenterbare energibesparelser efter 14, stk. 1, nr. 4, og for at opfylde regler udstedt i medfør af § 14, stk. 2.
-
-Stk. 5. Klima-, energi- og forsyningsministeren kan fastsætte regler om revisionspligt og om dokumentationspligtens indhold og rækkevidde og om sagsbehandling, herunder at oplysninger og dokumentation skal indsendes elektronisk.
+Stk. 4. Klima-, energi- og forsyningsministeren kan fastsætte regler om vurdering af markedsmæssigheden og om fastsættelse af den markedsmæssige pris, herunder regler om metoder til fastsættelse af den markedsmæssige pris efter stk. 2, for de aftaler, som distributionsselskaber indgår for at opfylde forpligtelsen til at realisere dokumenterbare energibesparelser efter § 14, stk. 1, nr. 8, og for at opfylde regler udstedt i medfør af § 14, stk. 2. Stk. 5. Klima-, energi- og forsyningsministeren kan fastsætte regler om revisionspligt og om dokumentationspligtens indhold og rækkevidde og om sagsbehandling, herunder at oplysninger og dokumentation skal indsendes elektronisk.
