@@ -4,6 +4,6 @@ Stk. 2. Vejmyndigheden kan kræve selv at udføre vejarbejder i forbindelse med 
 
 1) der er behov for at koordinere ledningsarbejdet med andre arbejder på vejarealet
 
-2) ledningsejeren ikke overholder vilkår stillet i forbindelse med en tilladelse,
+2) ledningsejeren ikke overholder vilkår stillet i forbindelse med en tilladelse eller
 
 3) arbejdets udførelse kræver særlig faglig ekspertise.
