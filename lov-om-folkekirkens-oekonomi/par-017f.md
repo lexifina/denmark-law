@@ -1,1 +1,1 @@
-§ 17 f. Kirkeministeren kan fastsætte nærmere regler om valg til provstiudvalg, budgetudvalgets sammensætning samt om provstiudvalgets og budgetudvalgets virksomhed.
+§ 17 f. Kirkeministeren kan fastsætte nærmere regler om valg til provstiudvalg, budgetudvalgets sammensætning samt om provstiudvalgets og budgetudvalgets virksomhed, herunder regler om beslutningsprotokol og offentliggørelse m.v.
