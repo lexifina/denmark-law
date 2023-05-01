@@ -1,8 +1,8 @@
 § 11 b. Elektricitet, der leveres til de i toldlovens § 4 nævnte diplomatiske repræsentationer, internationale institutioner m.v. samt de hertil knyttede personer, er fritaget for afgift.
 
-Stk. 2. Afgiften godtgøres af kørestrøm, der anvendes af elbusser i rutekørsel eller eltog til personbefordring. § 11 c, stk. 1, finder tilsvarende anvendelse på afgiftsgodtgørelsen. Godtgørelsen er betinget af,
+Stk. 2. Afgiften godtgøres af kørestrøm, der anvendes af eltog til personbefordring. § 11 c, stk. 1, finder tilsvarende anvendelse på afgiftsgodtgørelsen. Godtgørelsen er betinget af,
 
-1) at det fremgår af købsaftalen, at forbrugeren er en virksomhed, som forbruger kørestrøm, der anvendes af elbusser i rutekørsel eller eltog til personbefordring, med angivelse af forbrugerens cvr-, eller SE-nummer, og
+1) at det fremgår af købsaftalen, at forbrugeren er en virksomhed, som forbruger kørestrøm, der anvendes af eltog til personbefordring, med angivelse af forbrugerens cvr-, eller SE-nummer, og
 
 2) at fakturaer vedrørende de aftalte leverancer af elektricitet indeholder oplysning om forbrugerens aktuelle cvr-, eller SE-nummer.
 
