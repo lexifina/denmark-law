@@ -1,5 +1,1 @@
-§ 11 e. For at tilbagebetaling af afgift efter § 11, stk. 1, nr. 1, kan finde sted for afgiftspligtig elektricitet, som en udlejer af havneplads forsyner sine lejeres medbragte lystfartøjer med uden særskilt betaling, skal den samlede mængde elektricitet til lystfartøjerne være opgjort særskilt på grundlag af målinger af elektricitet. I hver af månederne april, maj, juni, juli, august og september kan udlejeren få tilbagebetalt afgiften nedsat med 0,4 øre pr. kilowatt-time. I hver af de øvrige måneder i kalenderåret kan udlejeren få tilbagebetalt afgiften efter § 11, stk. 3, 7. pkt.
-
-Stk. 2. For at tilbagebetaling af afgift efter § 11, stk. 1, nr. 1, kan finde sted for afgiftspligtig elektricitet, som en udlejer af campingplads forsyner sine lejeres medbragte campingenheder og køretøjer med uden særskilt betaling, skal den samlede mængde elektricitet til campingenhederne og køretøjerne være opgjort særskilt på grundlag af målinger af elektricitet. I hver af månederne april, maj, juni, juli, august og september kan udlejeren få tilbagebetalt afgiften nedsat med 0,4 øre pr. kilowatt-time. I hver af de øvrige måneder i kalenderåret kan udlejeren få tilbagebetalt afgiften efter § 11, stk. 3, 7. pkt.
-
-Stk. 3. § 11, stk. 3, 10. pkt., finder ikke anvendelse for elektricitet, som er omfattet af stk. 2.
+§ 11 e. (Ophævet)
