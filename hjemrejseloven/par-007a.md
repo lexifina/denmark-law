@@ -1,0 +1,3 @@
+§ 7 a. Der kan ydes hjælp til hjemrejsen til en udlænding, der er registreret som asylansøger efter udlændingelovens § 48 e, stk. 2, og er meddelt afslag på opholdstilladelse efter udlændingelovens § 7 af Udlændingestyrelsen eller Flygtningenævnet, og som uden ugrundet ophold medvirker til sin udrejse, jf. § 3, stk. 1. Hjælp til hjemrejsen kan ikke ydes til en udlænding omfattet af 1. pkt., hvis udlændingen er omfattet af § 8, stk. 3 eller 4.
+
+Stk. 2. Udlændinge- og integrationsministeren kan fastsætte nærmere regler om hjælp til hjemrejsen, herunder om betingelser for opnåelse af hjælpen, hjælpens form, den beløbsmæssige størrelse m.v.
