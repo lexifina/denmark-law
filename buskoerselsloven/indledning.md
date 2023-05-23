@@ -1,3 +1,3 @@
 Bekendtgørelse af lov om buskørsel
 
-Herved bekendtgøres lov om buskørsel, jf. lovbekendtgørelse nr. 1087 af 8. september 2010, med de ændringer, der følger af § 43 i lov nr. 718 af 25. juni 2010, § 2 i lov nr. 471 af 18. maj 2011, § 2 i lov nr. 166 af 28. februar 2012, § 2 i lov nr. 167 af 28. februar 2012, § 2 i lov nr. 610 af 18. juni 2012 og § 2 i lov nr. 611 af 18. juni 2012.
+Herved bekendtgøres lov om buskørsel, jf. lovbekendtgørelse nr. 1050 af 12. november 2012, med de ændringer, der følger af § 2 i lov nr. 1639 af 26. december 2013, § 10 i lov nr. 742 af 1. juni 2015, § 2 i lov nr. 746 af 1. juni 2015, § 4 i lov nr. 710 af 8. juni 2017, § 44 i lov nr. 1538 af 19. december 2017, § 2 i lov nr. 870 af 14. juni 2020, § 2 i lov nr. 159 af 31. januar 2022 og § 2 i lov nr. 639 af 18. maj 2022.
