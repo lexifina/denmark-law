@@ -2,7 +2,7 @@
 
 ## Hæftelse ved international kørsel
 
-§ 20 a. Den registrerede ejer eller bruger af et motorkøretøj, som oprindeligt er indrettet til befordring af flere end 9 personer, føreren medregnet, hæfter over for føreren af køretøjet og andre personer, der er tilknyttet dennes virksomhed og efter dennes anmodning deltager i og medvirker til erhvervsmæssig personbefordring, for udgifter, der opstår under kørsel i udlandet, til behandling m.v. i udlandet og hjemtransport i forbindelse med sygdom.
+§ 20 a. Den registrerede ejer eller bruger af et motorkøretøj, som oprindeligt er indrettet til befordring af flere end ni personer, føreren medregnet, hæfter over for føreren af køretøjet og andre personer, der er tilknyttet dennes virksomhed og efter dennes anmodning deltager i og medvirker til erhvervsmæssig personbefordring, for udgifter, der opstår under kørsel i udlandet, til behandling m.v. i udlandet og hjemtransport i forbindelse med sygdom.
 
 Stk. 2. Stk. 1 finder ikke anvendelse, hvis den pågældende ved sin ansættelse svigagtigt har fortiet sygdommen, denne er selvforskyldt eller udgifterne afholdes efter
 
