@@ -1,9 +1,3 @@
-Lov nr. 12 af 12. januar 1997 (Jagt på små arealer) indeholder følgende ikrafttrædelsesbestemmelse:
-
-§ 2
-
-Loven træder i kraft den 1. april 1997.
-
 Lov nr. 442 af 9. juni 2004 om retssikkerhed ved forvaltningens anvendelse af tvangsindgreb og oplysningspligter indeholder følgende ikrafttrædelsesbestemmelse:
 
 § 24. Loven træder i kraft den 1. januar 2005.
@@ -54,7 +48,7 @@ Stk. 1. Loven træder i kraft den 1. januar 2009, jf. dog stk. 2. § 11 finder a
 
 Stk. 2. (Udelades)
 
-Lov nr. 514 af 12. juni 2009 (Beskyttelse af visse dyrearter m.v.), indeholder følgende ikrafttrædelsesbestemmelse:
+Lov nr. 514 af 12. juni 2009 (Beskyttelse af visse dyrearter m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
 
 § 13
 
@@ -128,7 +122,7 @@ Lov nr. 1715 af 27. december 2016 om Miljø- og Fødevareklagenævnet indeholder
 
 Stk. 2. (Udelades)
 
-Stk. 3. Erhvervs- og vækstministeren kan efter høring af miljø- og fødevareministeren fastsætte overgangsregler.
+Stk. 3. Erhvervs- og vækstministeren kan efter høring af miljøministeren fastsætte overgangsregler.
 
 Stk. 4. (Udelades)
 
@@ -157,3 +151,11 @@ Lov nr. 170 af 27. februar 2019 (Udvidet bemyndigelse til at fastsætte regler o
 § 2
 
 Loven træder i kraft den 1. marts 2019.
+
+Lov nr. 126 af 30. januar 2021 (Ændring af handlepligten for den ansvarlige for en miljøskade, indførelse af godtgørelsesordning samt ændring af definitionen af arter og naturtyper) indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 15
+
+Stk. 1. Loven træder i kraft den 1. februar 2021.
+
+Stk. 2. (Udelades)
