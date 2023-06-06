@@ -1,29 +1,45 @@
-Lov nr. 1180 af 12. december 2005 (Lov om lægemidler) indeholder følgende ikrafttrædelsesbestemmelse:
+Lov nr. 1687 af 26. december 2017 (Fremstilling, indførsel, forhandling og udlevering af lægemidler til redningsberedskab m.v. og delegation af kompetence vedrørende medicinsk udstyr) indeholder følgende ikrafttrædelsesbestemmelse:
 
-§ 106. Tidspunktet for lovens eller dele af lovens ikrafttræden fastsættes af indenrigs- og sundhedsministeren.
+§ 4
 
-Stk. 2-4. (Udelades)
+Stk. 1. Loven træder i kraft den 1. juli 2018.
 
-Lov nr. 464 af 18. maj 2011 (Styrkelse af kontrolindsatsen, for så vidt angår ulovlige lægemidler mv.) indeholder følgende ikrafttrædelsesbestemmelse:
+Stk. 2. (Udelades)
 
-§ 3
+Lov nr. 1554 af 18. december 2018 (Kontrolforanstaltninger mod poliovirus og andre biologiske stoffer, opsplitning af lægemiddelpakninger til veterinær brug og gebyr for visse opgaver vedrørende medicinsk udstyr m.v.) indeholder følgende ikrafttrædelses- og overgangsbestemmelse:
 
-Loven træder i kraft den 1. juli 2011.
+§ 5
 
-Lov nr. 359 af 9. april 2013 (Styrkelse af markedsovervågningen mv. af medicinsk udstyr) indeholder følgende ikrafttrædelsesbestemmelse:
+Stk. 1. Loven træder i kraft den 1. januar 2019, jf. dog stk. 2-4.
 
-§ 2
+Stk. 2. (Udelades)
 
-Loven træder i kraft den 1. juli 2013.
+Stk. 3. § 4, nr. 4, træder i kraft den 26. maj 2020.
 
-Lov nr. 518 af 26. maj 2014 (Samarbejde mellem sundhedspersoner og lægemiddel- og medicoindustrien, styrket transitkontrol og overvågning af lægemidler, adgang for sygehusapoteker til at færdigtilberede cytostatika til familiedyr og til indbyrdes handel med råvarer, straf for overtrædelse af reglerne om markedsføring af sundhedsydelser m.v.) indeholder følgende ikrafttrædelses- og overgangsbestemmelse:
+Stk. 4. § 4, nr. 2, 3 og 5, træder i kraft den 26. maj 2022.
+
+Stk. 5. (Udelades)
+
+Lov nr. 1853 af 9. december 2020 (Lov om videnskabsetisk behandling af kliniske afprøvninger af medicinsk udstyr m.v.) indeholder følgende ikrafttrædelsesbestemmelse- og overgangsbestemmelse:
+
+§ 18. Loven træder i kraft den 26. maj 2021, jf. dog stk. 2.
+
+Stk. 2. § 20, nr. 3 og 6, træder i kraft den 26. maj 2022.
+
+Stk. 3. §§ 1-17 og § 20, nr. 5, finder ikke anvendelse for kliniske afprøvninger, der er anmeldt, godkendt og påbegyndt før den 26. maj 2021. For sådanne ansøgninger finder de hidtil gældende regler anvendelse.
+
+Stk. 4. En læge, tandlæge, sygeplejerske eller apoteker, der den 26. maj 2021 har en tilknytning til en virksomhed omfattet af § 5 b, stk. 5, i lov om medicinsk udstyr som affattet ved denne lovs § 20, nr. 14, kan efter anmeldelse heraf til Lægemiddelstyrelsen senest den 26. november 2021 fortsætte en sådan tilknytning. Tilknytningen vil blive offentliggjort i overensstemmelse med sundhedslovens § 202 c og regler fastsat i medfør heraf.
+
+Stk. 5. (Udelades)
+
+Stk. 6. (Udelades)
+
+Lov nr. 699 af 24. maj 2022 (Tilpasning af national ret som følge af forordning om medicinsk udstyr til in vitro-diagnostik og tilpasning af Lægemiddelstyrelsens tilsyn med medicinsk udstyr m.v.) indeholder følgende ikrafttrædelsesbestemmelse- og overgangsbestemmelse:
 
 § 6
 
-Stk. 1. Loven træder i kraft den 1. juni 2014, jf. dog stk. 2.
+Stk. 1. Loven træder i kraft den 26. maj 2022, jf. dog stk. 2.
 
-Stk. 2. § 1, nr. 7, 9, 10 og 12, § 2, nr. 1, §§ 2 b-2 e i lov om medicinsk udstyr som affattet ved denne lovs § 2, nr. 2, § 2, nr. 4, § 3, nr. 1, og § 4, nr. 1 og 2, træder i kraft den 1. november 2014.
+Stk. 2. § 1, nr. 7, og § 4 træder i kraft den 1. juli 2022.
 
-Stk. 3. En fabrikant af medicinsk udstyr og en ejer af en specialforretning, der forhandler medicinsk udstyr, eller deres repræsentanter, der er etableret i Danmark den 1. juni 2014, skal underrette Lægemiddelstyrelsen om oplysninger, der fastsættes i medfør af § 2 a, stk. 2, i lov om medicinsk udstyr, senest den 1. oktober 2014.
-
-Stk. 4-5. (Udelades)
+Stk. 3. Regler fastsat i medfør af § 3, stk. 3, i lov om medicinsk udstyr, jf. lovbekendtgørelse nr. 139 af 15. februar 2016, som ændret ved § 3 i lov nr. 1687 af 26. december 2017, forbliver i kraft, indtil de ophæves eller afløses af forskrifter udstedt i medfør af § 3, stk. 6, som affattet ved denne lovs § 1, nr. 8.

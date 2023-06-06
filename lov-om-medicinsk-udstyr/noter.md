@@ -1,9 +1,7 @@
-1) Lovændringen vedrører § 1, stk. 2, nr. 5.
+1) Lovændringerne vedrører § 3, § 4 og § 5.
 
-2) Loven trådte i kraft den 17. december 2005, jf. bekendtgørelse nr. 1207 af 12. december 2005.
+2) Lovændringerne vedrører § 1, stk. 2, nr. 9, § 1 a, stk. 1, § 1 a, stk. 3, § 1 d, stk. 1 og 2 og § 1 d, stk. 4.
 
-3) Lovændringen vedrører § 1, stk. 3.
+3) Lovændringerne vedrører § 1, stk. 1, § 1, stk. 2, nr. 2, 5, 6 og 8, § 1 b, § 1 c, § 1 e, § 2 b, stk. 2-5, § 2 c, stk. 2 og 3, § 3, stk. 2, § 5 b, § 5 c og § 6.
 
-4) Lovændringerne vedrører §§ 1a-1d, 5a og 6, stk. 1 (§ 6, stk. 1, er senere ændret – se fodnote 5).
-
-5) Lovændringerne vedrører §§ 2, stk. 2, 2a-e og 6, stk. 1.
+4) Lovændringerne vedrører § 1, stk. 2, nr. 2, 5, 9 og 10, § 1 a, stk. 4, § 1 d, § 2 c, stk. 3, § 3, stk. 1-6, § 5 b, stk. 2, § 6, stk. 1, nr. 2 og 3 og § 6, stk. 2, nr. 2.
