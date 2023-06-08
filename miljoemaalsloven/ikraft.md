@@ -126,9 +126,7 @@ Loven træder i kraft den 1. juni 2013.
 
 Lov nr. 1606 af 26. december 2013 om vandplanlægning indeholder følgende ikrafttrædelsesbestemmelse:
 
-§ 39
-
-Stk. 1. Loven træder i kraft dagen efter bekendtgørelsen i Lovtidende, jf. dog stk. 2.
+§ 39. Loven træder i kraft dagen efter bekendtgørelsen i Lovtidende, jf. dog stk. 2.
 
 Stk. 2. Miljø- og fødevareministeren fastsætter tidspunktet for ikrafttræden af § 41, nr. 1-4 og 7-11, og § 42. Miljø- og fødevareministeren kan herunder bestemme, at ændringerne træder i kraft på forskellige tidspunkter.
 
@@ -164,15 +162,11 @@ Stk. 2. (Udelades)
 
 Bekendtgørelse nr. 1132 af 8. oktober 2014 om ændring af bilag 1 til miljømålsloven indeholder følgende ikrafttrædelsesbestemmelse:
 
-§ 2
-
-Bekendtgørelsen træder i kraft den 24. oktober 2014.
+§ 2. Bekendtgørelsen træder i kraft den 24. oktober 2014.
 
 Lov nr. 1520 af 27. december 2014 om offentlige veje m.v. indeholder følgende ikrafttrædelsesbestemmelse:
 
-§ 139
-
-Stk. 1. Loven træder i kraft den 1. juli 2015, jf. dog stk. 2.
+§ 139. Loven træder i kraft den 1. juli 2015, jf. dog stk. 2.
 
 Stk. 2. (Udelades)
 
@@ -191,3 +185,11 @@ Stk. 5. Regler, der er fastsat i henhold til hidtil gældende regler, forbliver 
 Stk. 6. Verserende klagesager i Natur- og Miljøklagenævnet eller Klagecenter for Fødevarer, Landbrug og Fiskeri, der ikke er færdigbehandlet ved denne lovs ikrafttræden, færdigbehandles og afgøres af Miljø- og Fødevareklagenævnet efter reglerne i denne lov. Dette gælder dog ikke verserende klagesager ved Natur- og Miljøklagenævnet, som ved lovens ikrafttræden skal færdigbehandles og afgøres af Planklagenævnet, jf. § 1 i lov om Planklagenævnet.
 
 Stk. 7. (Udelades)
+
+Lov nr. 900 af 21. juni 2022 (Dispensation og klagesagsbehandling m.v. på fortidsmindeområdet) indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 18
+
+Stk. 1. Loven træder i kraft den 1. juli 2022.
+
+Stk. 2. (Udelades)
