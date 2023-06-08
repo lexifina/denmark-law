@@ -1,1 +1,1 @@
-§ 28 a. Miljø- og fødevareministeren kan fastsætte regler om, at §§ 26-28 ikke skal gælde for nærmere angivne former for kystbeskyttelsesforanstaltninger, som kræver tilladelse i henhold til lov om kystbeskyttelse m.v.
+§ 28 a. Miljøministeren kan fastsætte regler om, at §§ 26-28 ikke skal gælde for nærmere angivne former for kystbeskyttelsesforanstaltninger, som kræver tilladelse i henhold til lov om kystbeskyttelse m.v.
