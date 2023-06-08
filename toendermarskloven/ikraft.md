@@ -16,11 +16,9 @@ Lov nr. 442 af 9. juni 2004 om retssikkerhed ved forvaltningens anvendelse af tv
 
 § 24. Loven træder i kraft den 1. januar 2005.
 
-Lov nr. 535 af 24. juni 2005 (jordfordelingsloven) indeholder følgende ikrafttrædelsesbestemmelse:
+Lov nr. 535 af 24. juni 2005 om jordfordeling og offentligt køb og salg af fast ejendom til jordbrugsmæssige formål m.m. (jordfordelingsloven) indeholder følgende ikrafttrædelsesbestemmelse:
 
-§ 28
-
-Stk. 1. Loven træder i kraft den 1. juli 2005, jf. dog stk. 2.
+§ 28. Loven træder i kraft den 1. juli 2005, jf. dog stk. 2.
 
 Stk. 2. (Udelades)
 
@@ -106,7 +104,7 @@ Stk. 2. Miljøministeren fastsætter tidspunktet for ikrafttræden af §§ 1-6, 
 
 Stk. 3. Loven finder ikke anvendelse for klager over afgørelser, der træffes, før loven træder i kraft. For sådanne klager finder de hidtidige regler anvendelse.
 
-Lov nr. 1520 af 27/12/2014 om offentlige veje m.v. indeholder følgende ikrafttrædelsesbestemmelse:
+Lov nr. 1520 af 27. december 2014 om offentlige veje m.v. indeholder følgende ikrafttrædelsesbestemmelse:
 
 § 139. Loven træder i kraft den 1. juli 2015, jf. dog stk. 2.
 
@@ -127,3 +125,19 @@ Stk. 5. Regler, der er fastsat i henhold til hidtil gældende regler, forbliver 
 Stk. 6. Verserende klagesager i Natur- og Miljøklagenævnet eller Klagecenter for Fødevarer, Landbrug og Fiskeri, der ikke er færdigbehandlet ved denne lovs ikrafttræden, færdigbehandles og afgøres af Miljø- og Fødevareklagenævnet efter reglerne i denne lov. Dette gælder dog ikke verserende klagesager ved Natur- og Miljøklagenævnet, som ved lovens ikrafttræden skal færdigbehandles og afgøres af Planklagenævnet, jf. § 1 i lov om Planklagenævnet.
 
 Stk. 7. (Udelades)
+
+Lov nr. 126 af 30. januar 2021 (Ændring af handlepligten for den ansvarlige for en miljøskade, indførelse af godtgørelsesordning samt ændring af definitionen af arter og naturtyper) indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 15
+
+Stk. 1. Loven træder i kraft den 1. februar 2021.
+
+Stk. 2. (Udelades)
+
+Lov nr. 900 af 21. juni 2022 (Dispensation og klagesagsbehandling m.v. på fortidsmindeområdet) indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 18
+
+Stk. 1. Loven træder i kraft den 1. juli 2022.
+
+Stk. 2. (Udelades)

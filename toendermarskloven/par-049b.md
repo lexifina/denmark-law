@@ -1,1 +1,1 @@
-§ 49 b. Miljø- og fødevareministeren fastsætter med henblik på gennemførelse af Det Europæiske Fællesskabs direktiver og beslutninger på naturbeskyttelsesområdet regler om, i hvilke tilfælde og på hvilke vilkår der kan meddeles dispensationer efter § 38, stk. 1 og 2.
+§ 49 b. Miljøministeren fastsætter med henblik på gennemførelse af Det Europæiske Fællesskabs direktiver og beslutninger på naturbeskyttelsesområdet regler om, i hvilke tilfælde og på hvilke vilkår der kan meddeles dispensationer efter § 38, stk. 1 og 2.
