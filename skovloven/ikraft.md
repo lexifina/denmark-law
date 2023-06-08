@@ -1,4 +1,4 @@
-Lov nr. 430 af 6. juni 2005 (Konsekvensændringer som følge af lov om opkrævning og inddrivelse af visse fordringer samlingen af inddrivelsen i Skatteministeriet) indeholder følgende ikrafttrædelsesbestemmelse:
+Lov nr. 430 af 6. juni 2005 (Konsekvensændringer som følge af lov om opkrævning og inddrivelse af visse fordringer - samlingen af inddrivelsen i Skatteministeriet) indeholder følgende ikrafttrædelsesbestemmelse:
 
 § 70
 
@@ -110,7 +110,7 @@ Stk. 3. Loven finder anvendelse på afgørelser truffet i 1. instans efter loven
 
 Stk. 4. (Udelades)
 
-Lov nr. 86 af 28. januar 2014 (Obligatorisk digital selvbetjening ved indgivelse af klage m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
+Lov nr. 86 af 28. januar 2014 (Obligatorisk digital selvbetjening ved indgivelse af klage samt obligatorisk videresendelse af klage over lokalplan til Natur- og Miljøklagenævnet m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
 
 § 26
 
@@ -141,5 +141,29 @@ Lov nr. 720 af 8. juni 2018 (Ny kompetencefordeling og forenkling af sagsbehandl
 § 9
 
 Stk. 1. Loven træder i kraft den 1. september 2018.
+
+Stk. 2. (Udelades)
+
+Lov nr. 126 af 30. januar 2021 (Ændring af handlepligten for den ansvarlige for en miljøskade, indførelse af godtgørelsesordning samt ændring af definitionen af arter og naturtyper) indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 15
+
+Stk. 1. Loven træder i kraft den 1. februar 2021.
+
+Stk. 2. (Udelades)
+
+Lov nr. 1177 af 8. juni 2021 (Adgang til at etablere naturnationalparker og obligatorisk digital kommunikation m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 6
+
+Stk. 1. Loven træder i kraft den 1. juli 2021.
+
+Stk. 2. (Udelades)
+
+Lov nr. 900 af 21. juni 2022 (Dispensation og klagesagsbehandling m.v. på fortidsmindeområdet) indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 18
+
+Stk. 1. Loven træder i kraft den 1. juli 2022.
 
 Stk. 2. (Udelades)
