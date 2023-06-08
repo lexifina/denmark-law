@@ -2,4 +2,4 @@
 
 Stk. 2. En indsigelse efter stk. 1 skal være begrundet.
 
-Stk. 3. Såfremt der ikke kan opnås enighed blandt de berørte kommunalbestyrelser, jf. stk. 1, om den nærmere udformning af handleplanen for det konkrete Natura 2000-område, jf. § 46 a, forelægges sagen for miljø- og fødevareministeren, som herefter træffer afgørelse.
+Stk. 3. Såfremt der ikke kan opnås enighed blandt de berørte kommunalbestyrelser, jf. stk. 1, om den nærmere udformning af handleplanen for det konkrete Natura 2000-område, jf. § 46 a, forelægges sagen for miljøministeren, som herefter træffer afgørelse.

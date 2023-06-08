@@ -12,4 +12,4 @@ Stk. 3. Handleplanen skal ikke omfatte offentligt ejede arealer, når der for s�
 
 Stk. 4. Kommunalbestyrelsen skal sikre gennemførelse af en vedtaget handleplan.
 
-Stk. 5. Miljø- og fødevareministeren kan fastsætte nærmere regler om handleplanens indhold og tilvejebringelse.
+Stk. 5. Miljøministeren kan fastsætte nærmere regler om handleplanens indhold og tilvejebringelse.

@@ -1,3 +1,3 @@
 Bekendtgørelse af lov om miljømål m.v. for internationale naturbeskyttelsesområder (Miljømålsloven)
 
-Herved bekendtgøres lov om miljø m.v. for internationale naturbeskyttelsesområder (Miljømålsloven), jf. lovbekendtgørelse nr. 1251 af 29. september 2016, med de ændringer, der følger af § 38 i lov nr. 1715 af 27. december 2016.
+Herved bekendtgøres lov om miljø m.v. for internationale naturbeskyttelsesområder (Miljømålsloven), jf. lovbekendtgørelse nr. 119 af 26. januar 2017, med de ændringer, der følger af § 13 i lov nr. 900 af 21. juni 2022.
