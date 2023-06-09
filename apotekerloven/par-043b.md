@@ -1,1 +1,1 @@
-§ 43 b. Sundhedsstyrelsen kan fastsætte regler for forsendelse af lægemidler til brugerne, herunder regler om, at visse lægemidler ikke må postforsendes, og regler om de oplysninger, der skal ledsage forsendelsen.
+§ 43 b. Lægemiddelstyrelsen kan fastsætte regler for forsendelse af lægemidler til brugerne, herunder regler om, at visse lægemidler ikke må postforsendes, og regler om de oplysninger, der skal ledsage forsendelsen.

@@ -1,4 +1,4 @@
-§ 71 c. Hos apoteker, som til brugere forhandler lægemidler til produktionsdyr, opkræver Sundhedsstyrelsen en afgift som fastsat i stk. 2-5 til finansiering af initiativer til styrkelse af fødevaresikkerhed og dyrevelfærd.
+§ 71 c. Hos apoteker, som til brugere forhandler lægemidler til produktionsdyr, opkræver Lægemiddelstyrelsen en afgift som fastsat i stk. 2-5 til finansiering af initiativer til styrkelse af fødevaresikkerhed og dyrevelfærd.
 
 Stk. 2. Afgiften fastsættes til 0,77 pct. af apotekets omsætning af simple smalspektrede penicilliner til produktionsdyr.
 

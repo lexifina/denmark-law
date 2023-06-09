@@ -1,8 +1,8 @@
-Sundheds- og Ældreministeriet, den 12. juni 2018
+Indenrigs- og Sundhedsministeriet, den 26. maj 2023
 
-Ellen Trane Nørby
+Sophie Løhde
 
-/ Anna Skat Nielsen
+/ Mathias Sjöberg Pedersen
 
 Bilag A
 
