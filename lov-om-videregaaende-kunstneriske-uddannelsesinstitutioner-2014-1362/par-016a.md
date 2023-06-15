@@ -1,0 +1,1 @@
+§ 16 a. Kulturministeren kan beslutte, at bestyrelsen skal træde tilbage, hvis ministeren vurderer, at bestyrelsen ikke lever op til sit ansvar, jf. § 16, stk. 2. I så fald beskikkes en ny bestyrelse efter reglerne i § 16.
