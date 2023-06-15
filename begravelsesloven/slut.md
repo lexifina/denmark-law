@@ -1,5 +1,5 @@
-Kirkeministeriet, den 17. januar 2020
+Kirkeministeriet, den 12. juni 2023
 
-Joy Mogensen
+Louise Schack Elholm
 
 / Kasper Hyllested
