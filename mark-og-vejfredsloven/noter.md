@@ -4,8 +4,6 @@
 
 3) Lov om mark- og vejfred finder ikke anvendelse for Grønland, jf. Statsministeriets cirkulære nr. 176 af 19. oktober 1954. Loven er vedtaget den 31. marts 1953, og er således vedtaget inden den ved grundlovsrevisionen af 5. juni 1953 gennemførte ændring i Grønlands statsretlige stilling, før hvilken love alene gjaldt for Grønland, hvis dette udtrykkeligt fremgik af lovteksten.
 
-4) Lovændringen, der træder i kraft 1. januar 2021, jf. bekendtgørelse nr. 1717 af 30. november 2020, vedrører indsættelse af §§ 4 a-4 d og § 31, stk. 4, og ændring af § 31, stk. 3. § 31, stk. 3 har indtil ændringen følgende formulering:
+4) Lovændringen vedrører ændring af § 6, stk. 2, 1. pkt., og § 7, stk. 1, 1. pkt., og indsættelse af § 6, stk. 3, hvorefter stk. 3 bliver stk. 4, og § 9, stk. 4.
 
-Stk. 3. De i § 15 omhandlede forseelser er undergivet offentlig påtale.
-
-5) Loven er sat i kraft den 1. januar 2021, jf. bekendtgørelse nr. 1717 af 30. november 2020 om ikrafttræden af lov om dyrevelfærd (Dyrevelfærdsloven).
+5) Lovændringen vedrører indsættelse af § 15 a.
