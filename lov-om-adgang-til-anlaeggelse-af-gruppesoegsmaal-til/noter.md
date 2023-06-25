@@ -1,0 +1,1 @@
+1) Loven gennemfører Europa-Parlamentets og Rådets direktiv 2020/1828/EU af 25. november 2020 om adgang til anlæggelse af gruppesøgsmål til beskyttelse af forbrugernes kollektive interesser og om ophævelse af direktiv 2009/22/EF, EU-Tidende 2020, nr. L 409, side 1-27.
