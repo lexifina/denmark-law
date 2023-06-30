@@ -1,1 +1,1 @@
-§ 69 a. Miljø- og fødevareministeren kan fastsætte regler om offentliggørelse, herunder udelukkende digitalt, af oplysninger omfattet af § 69, stk. 1. Oplysningerne kan vedrøre strafbare forhold på lovens område og kan være med navns nævnelse.
+§ 69 a. Ministeren for grøn trepart kan fastsætte regler om offentliggørelse, herunder udelukkende digitalt, af oplysninger omfattet af § 69, stk. 1. Oplysningerne kan vedrøre strafbare forhold på lovens område og kan være med navns nævnelse.
