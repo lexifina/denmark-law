@@ -1,5 +1,5 @@
-Erhvervsministeriet, den 3. juli 2018
+Konkurrence- og Forbrugerstyrelsen, den 28. juni 2023
 
-Rasmus Jarlov
+P.M.V. Jakob Hald
 
-/ Jakob Hald
+/ Susanne Honoré Aamann
