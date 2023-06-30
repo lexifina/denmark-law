@@ -13,3 +13,7 @@
 7) Lovændringen vedrører bilag 1, nr. 4.
 
 8) Lovændringen vedrører bilag 1, nr. 7.
+
+9) Lovændringen vedrører ændring af § 24, stk. 5 og 6, og blev sat i kraft for Grønland ved kongelig anordning nr. 859 af 21. juni 2023. Ved bekendtgørelse nr. 853 af 13. juni 2023 er det bestemt, at loven træder i kraft 1. juli 2023.
+
+10) Lovændringen vedrører ændring af § 6, stk. 3, 2. pkt., og § 10, stk. 3, indsættelse af § 10 a, ændring af § 12, stk. 4, 2. pkt., og § 16, stk. 7, indsættelse af § 24, stk. 10, og ændring af 57, stk. 1, nr. 5.

@@ -1,8 +1,8 @@
-Indenrigs- og Boligministeriet, den 23. maj 2022
+Indenrigs- og Sundhedsministeriet, den 23. juni 2023
 
-P.M.V. Carsten Grage
+Sophie Løhde
 
-/ Pia Valentin Mortensen
+/ Carsten Grage
 
 Bilag 1
 
@@ -44,7 +44,7 @@ f) Flyttepåbud efter lov om planlægning (sommerhuse).
 
 12) Eventuelle oplysninger om kommunale forhold: Kommunernes eventuelle oplysning om, at vedkommende lever adskilt fra sin ægtefælle, er et plejebarn, pensionsforhold, betalingskommuneforhold, medlemskab af valgmenighed, når valgmenigheden og kommunen har aftalt, at kommunen opkræver kirkelige bidrag for valgmenigheden, samt angivelse af fælleshusholdning eller familiekode.
 
-13) Eventuelle oplysninger om kommunale notater: Indenrigs- og Boligministeriets og kommunernes registrering af visse faktiske oplysninger af klar betydning for varetagelse af opgaverne efter folkeregistreringslovgivningen, f.eks. oplysning om, at personens opholdssted ikke kendes, eller om indsættelse eller anbringelse i en af kriminalforsorgens anstalter m.v., jf. § 15, stk. 3.
+13) Eventuelle oplysninger om kommunale notater: Indenrigs- og Sundhedsministeriets og kommunernes registrering af visse faktiske oplysninger af klar betydning for varetagelse af opgaverne efter folkeregistreringslovgivningen, f.eks. oplysning om, at personens opholdssted ikke kendes, eller om indsættelse eller anbringelse i en af kriminalforsorgens anstalter m.v., jf. § 15, stk. 3.
 
 14) Eventuelle markeringer af abonnement på personoplysninger: De myndigheder og private, som efter henholdsvis §§ 32 og 38 abonnerer på ajourførte oplysninger fra CPR for en større afgrænset kreds af personer, som er identificeret enkeltvis.
 
