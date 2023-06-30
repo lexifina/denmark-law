@@ -1,0 +1,1 @@
+§ 37 b. Når et registreret, negotiabelt pantebrev, som er i digital form, er overdraget til eje eller pant af den ifølge skibsregisteret berettigede og erhververen i god tro har fået registreret sin ret, hindrer det ikke erhververens ret, at den, der var berettiget ifølge skibsregisteret, var umyndig eller manglede ret til at råde over pantebrevet.

@@ -1,0 +1,1 @@
+§ 36 b. Skyldneren ifølge et registreret, negotiabelt pantebrev i digital form eller en registreret underpantsætning i et digitalt ejerpantebrev er kun forpligtet til at betale gælden mod aflysning af pantebrevet eller underpantsætningen.

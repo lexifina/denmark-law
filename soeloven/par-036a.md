@@ -1,0 +1,3 @@
+§ 36 a. Betaling af renter og afdrag på registrerede negotiable pantebreve i digital form eller leje, andre ydelser, opsigelser og lignende handlinger, der har hjemmel i et registreret digitalt dokument, kan, når de foretages i god tro, gyldigt ske til den, der ifølge skibsregisteret er beføjet til at modtage nævnte ydelser, opsigelser og lign.
+
+Stk. 2. Når et registreret, negotiabelt pantebrev, som er i digital form, er overdraget til eje eller pant, kan en skyldner i god tro med frigørende virkning betale forfaldne renter til overdrageren. Det samme gælder for afdrag, som efter det registrerede pantebrev skal betales til bestemt angivne tidspunkter.
