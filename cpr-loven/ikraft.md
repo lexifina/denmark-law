@@ -43,3 +43,25 @@ Stk. 3. § 1, nr. 1-15, 17-23, 26 og 27, og § 3 finder ikke anvendelse for bør
 Stk. 4. § 1, nr. 16, finder ikke anvendelse, hvis behandlingen med assisteret reproduktion eller inseminationen er foretaget før det tidspunkt, social- og ældreministeren fastsætter for ikrafttrædelse af § 1, jf. stk. 2.
 
 Stk. 5. § 1, nr. 24, finder ikke anvendelse for moderskab, faderskab og medmoderskab, der er fastslået før det tidspunkt, social- og ældreministeren fastsætter for ikrafttrædelse af § 1, jf. stk. 2.
+
+Lov nr. 411 af 25. april 2023 (Bopælsregistrering i Danmark og Grønland af personer, der af Grønlands Selvstyre eller den danske stat er beordret til tjeneste uden for riget, optagelse på folketingsvalglisterne i Danmark og Grønland m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 4
+
+Indenrigs- og sundhedsministeren fastsætter tidspunktet for lovens ikrafttræden.
+
+§ 5
+
+Stk. 1. § 1, nr. 1 og 2, gælder ikke for Færøerne og Grønland, men kan ved kongelig anordning helt eller delvis sættes i kraft for Grønland med de ændringer, som de grønlandske forhold tilsiger.
+
+Stk. 2 og 3. (Udelades)
+
+Lov nr. 412 af 25. april 2023 (Kommunernes kontrol med bopælsregistreringen i CPR) indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 2
+
+Loven træder i kraft den 1. juni 2023.
+
+§ 3
+
+Loven gælder ikke for Færøerne og Grønland, men kan ved kongelig anordning helt eller delvis sættes i kraft for Grønland med de ændringer, som de grønlandske forhold tilsiger. Loven kan endvidere sættes i kraft på forskellige tidspunkter.
