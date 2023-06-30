@@ -1,5 +1,5 @@
-§ 39 d. (Udelades)
+§ 39 d. Den, der er berettiget til at råde over eller erklære sig om en ret over et bestemt skib, kan give en anden person fuldmagt til at udstede og anmelde dokumenter vedrørende den pågældende ret til registrering, herunder afgive erklæringer vedrørende skibet. Fuldmagten skal indsendes til skibsregisteret elektronisk eller på papir. Fuldmagten kan indsendes, inden den pågældende er berettiget til at råde.
 
-Stk. 2. (Udelades).
+Stk. 2. Er fuldmagten ikke registreret inden modtagelsen af et dokument, der anmeldes til registrering på grundlag af fuldmagten, giver skibsregisteret fuldmagtshaver en frist på 7 dage til indsendelse af fuldmagten.
 
 Stk. 3. Søfartsstyrelsen kan fastsætte regler om udformningen og indholdet af fuldmagter, der skal indsendes til skibsregisteret, herunder at fuldmagten skal indeholde oplysning om person- eller virksomhedsnummer for fuldmagtsgiver og fuldmagtshaver, og at papirfuldmagter skal være oprettet således, at de kan aflæses maskinelt, samt om en længste gyldighedsperiode for fuldmagter. Søfartsstyrelsen kan endvidere fastsætte regler om skibsregisterets adgang til på begæring at forlænge fristen i stk. 2 og om, at skibsregisteret i forbindelse med registrering efter stk. 1 skal sende meddelelse til den, der ifølge registeret er berettiget til at disponere over den pågældende rettighed.
