@@ -4,7 +4,7 @@
 
 2) virksomheden i et interessentskab, hvori uddannelsesinstitutionen er interessent, ikke overholder denne lov eller de regler fastsat i medfør af loven, der gælder for institutionen og interessentskabet, eller
 
-3) uddannelsesinstitutionen ikke overholder en udviklingskontrakt, jf. § 9 f, stk. 1, eller en indsatsaftale, jf. § 9 f, stk. 2.
+3) uddannelsesinstitutionen ikke overholder en strategisk rammekontrakt, jf. § 9 f, stk. 1, eller en indsatsaftale, jf. § 9 f, stk. 2.
 
 Stk. 2. Hvis en uddannelsesinstitutions bestyrelse ikke efterkommer et påbud fra ministeren, jf. stk. 1, eller hvis bestyrelsen ved sine dispositioner bringer uddannelsesinstitutionens videreførelse i fare, kan ministeren beslutte,
 
