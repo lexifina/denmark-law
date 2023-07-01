@@ -1,10 +1,10 @@
-§ 24 b. Personer, der ifølge lov eller vedtægtsbestemmelse er ansat af bestyrelsen i Arbejdsmarkedets Tillægspension, og ansatte, for hvilke der er en væsentlig risiko for konflikter mellem egne og Arbejdsmarkedets Tillægspensions interesser, må ikke for egen regning eller gennem selskaber, de kontrollerer:
+§ 24 b. Personer, der ifølge lov eller vedtægtsbestemmelse er ansat af bestyrelsen i Arbejdsmarkedets Tillægspension, og ansatte, for hvilke der er en væsentlig risiko for konflikter mellem egne og Arbejdsmarkedets Tillægspensions interesser, må ikke for egen regning eller gennem selskaber, de kontrollerer
 
 1) optage lån eller trække på allerede bevilgede kreditter til køb af værdipapirer, når de købte værdipapirer stilles til sikkerhed for lånet eller kreditten,
 
 2) erhverve, udstede eller handle med afledte finansielle instrumenter, medmindre formålet er risikoafdækning,
 
-3) erhverve kapitalandele, bortset fra andele i danske UCITS, kapitalforeninger og udenlandske investeringsinstitutter omfattet af § 143, stk. 1, nr. 2 og 3, i lov om investeringsforeninger m.v., med henblik på salg af disse tidligere end 6 måneder efter erhvervelsen eller
+3) erhverve kapitalandele, bortset fra andele i danske UCITS, kapitalforeninger og udenlandske investeringsinstitutter omfattet af § 143, stk. 1, nr. 2 og 3, i lov om investeringsforeninger m.v., med henblik på salg af disse tidligere end 6 måneder efter erhvervelsen, eller
 
 4) erhverve positioner i fremmed valuta bortset fra euro, når positionstagningen sker med henblik på andet end betaling for køb af værdipapirer, varer, tjenesteydelser, køb eller drift af fast ejendom eller til brug for rejser.
 

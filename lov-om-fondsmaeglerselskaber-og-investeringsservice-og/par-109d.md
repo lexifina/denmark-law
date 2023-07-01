@@ -1,0 +1,1 @@
+§ 109 d. §§ 109 a-109 c kan ikke fraviges ved aftale, herunder ved aftale om fratrædelsesordning til et medlem af direktionen i et fondsmæglerselskab eller en fondsmæglerholdingvirksomhed, der indgås med en anden virksomhed i koncernen, som ikke er omfattet af reglerne.

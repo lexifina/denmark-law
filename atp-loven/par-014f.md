@@ -1,3 +1,1 @@
-## Tillægspension.
-
 § 14 f. Børn efter medlemmer af tillægspensionsordningen, der har ret til et beløb efter § 11 a og samtidig har ret til et beløb efter § 14 e, har alene ret til at få udbetalt det højeste af disse beløb.

@@ -1,1 +1,1 @@
-§ 5 e. Erhvervs- og vækstministeren kan efter forhandling med beskæftigelsesministeren fastsætte nærmere regler for indholdet af den i § 4 c, stk. 1, nr. 9, nævnte aflønningspolitik og om Lønmodtagernes Dyrtidsfonds pligt til at offentliggøre oplysninger vedrørende Finanstilsynets tilsyn samt fastsætte nærmere regler om definitionen af andre ansatte, hvis aktiviteter har væsentlig indflydelse på virksomhedens risikoprofil.
+§ 5 e. (Ophævet)

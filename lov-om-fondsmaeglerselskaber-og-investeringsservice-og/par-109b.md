@@ -1,0 +1,1 @@
+§ 109 b. Løn i en aftalt opsigelsesperiode til et medlem af direktionen i et fondsmæglerselskab eller en fondsmæglerholdingvirksomhed, der ikke modsvares af en sædvanlig arbejdsforpligtelse, skal udbetales månedsvis i opsigelsesperioden.

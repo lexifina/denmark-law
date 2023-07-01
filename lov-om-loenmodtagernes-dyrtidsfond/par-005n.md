@@ -1,0 +1,1 @@
+§ 5 n. §§ 5 k-5 m kan ikke fraviges ved aftale, herunder ved aftale om fratrædelsesordning til et medlem af direktionen i Lønmodtagernes Dyrtidsfond, der indgås med en anden virksomhed i koncernen, som ikke er omfattet af reglerne.
