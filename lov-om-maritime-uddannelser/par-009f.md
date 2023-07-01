@@ -1,4 +1,4 @@
-§ 9 f. Uddannelses- og forskningsministeren kan pålægge bestyrelsen for en uddannelsesinstitution at indgå en udviklingskontrakt med ministeren med henblik på at sikre en langsigtet strategisk udvikling til opfyldelse af nærmere fastlagte målsætninger.
+§ 9 f. Bestyrelsen indgår en strategisk rammekontrakt med uddannelses- og forskningsministeren. Den strategiske rammekontrakt skal indeholde strategiske mål for uddannelsesinstitutionens opgaver.
 
 Stk. 2. Uddannelses- og forskningsministeren kan pålægge bestyrelsen for en uddannelsesinstitution at indgå en indsatsaftale med ministeren, hvis
 
