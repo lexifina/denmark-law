@@ -14,10 +14,12 @@
 
 7) tilskud, som ydes for at sikre realisering af dokumenterbare energibesparelser, jf. § 22, stk. 1, nr. 5, i lov om elforsyning, § 14, stk. 1, nr. 4, i lov om naturgasforsyning og § 28 b, stk. 1, i lov om varmeforsyning,
 
-8) tilskud efter lov om statstilskud til renoverings- og bygningsarbejder og energibesparende materialer i helårsboliger og
+8) tilskud efter lov om statstilskud til renoverings- og bygningsarbejder og energibesparende materialer i helårsboliger,
 
-9) kompensation i form af et fast beløb og dækning af omkostninger til støjisolering ydet i forbindelse med støjgener fra Flyvestation Skrydstrup efter regler fastsat i medfør af § 11, stk. 1, i lov om udbygning og drift af Flyvestation Skrydstrup.
+9) kompensation i form af et fast beløb og dækning af omkostninger til støjisolering ydet i forbindelse med støjgener fra Flyvestation Skrydstrup efter regler fastsat i medfør af § 11, stk. 1, i lov om udbygning og drift af Flyvestation Skrydstrup og
+
+10) engangsbeløb ydet til ejere af boliger, der ligger i nærheden af Udrejsecenter Kærshovedgård, i medfør af § 1, stk. 1, og regler fastsat efter § 1, stk. 2, i lov om kompensation til naboer omkring Udrejsecenter Kærshovedgård.
 
 Stk. 2. Den del af udgifterne, som svarer til tilskud mv., der er skattefri efter stk. 1, kan ikke fradrages ved indkomstopgørelsen eller medregnes ved opgørelsen af grundlaget for skattemæssige afskrivninger og medregnes ikke til anskaffelsessummen ved opgørelse af skattepligtig fortjeneste eller tab ved afståelse af fast ejendom.
 
-Stk. 3. Gevinst ved salg til staten af ejendomme m.v. efter § 11, stk. 2, i lov om udbygning og drift af Flyvestation Skrydstrup skal ikke medregnes ved opgørelsen af den skattepligtige indkomst. Skattefritagelsen efter 1. pkt. omfatter ikke eventuelle genvundne afskrivninger eller genanbragt fortjeneste fra afståelse af en erhvervsejendom efter §§ 6 A, 6 C eller 10 i ejendomsavancebeskatningsloven. Bestemmelserne i ejendomsavancebeskatningslovens § 11, stk. 2, 2.-5. pkt., finder tilsvarende anvendelse.
+Stk. 3. Gevinst ved salg til staten af ejendomme m.v. efter § 11, stk. 2, i lov om udbygning og drift af Flyvestation Skrydstrup eller i medfør af § 1, stk. 1, og regler fastsat efter § 1, stk. 3, i lov om kompensation til naboer omkring Udrejsecenter Kærshovedgård skal ikke medregnes ved opgørelsen af den skattepligtige indkomst. Skattefritagelsen efter 1. pkt. omfatter ikke eventuelle genvundne afskrivninger eller genanbragt fortjeneste fra afståelse af en erhvervsejendom efter §§ 6 A, 6 C eller 10 i ejendomsavancebeskatningsloven. Bestemmelserne i ejendomsavancebeskatningslovens § 11, stk. 2, 2.-5. pkt., finder tilsvarende anvendelse.
