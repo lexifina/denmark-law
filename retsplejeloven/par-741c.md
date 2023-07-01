@@ -4,6 +4,6 @@ Stk. 2. Advokaten har adgang til at gøre sig bekendt med den forurettedes forkl
 
 Stk. 3. Advokaten skal have udleveret kopi af materialet, i det omfang det uden ulempe kan kopieres. Advokaten må ikke uden politiets samtykke overlevere det modtagne materiale til den forurettede eller andre, og han må ikke uden politiets samtykke gøre den forurettede eller andre bekendt med indholdet af det i stk. 2, 2. pkt., nævnte materiale.
 
-Stk. 4. Retten meddeler advokaten udskrift af dommen. Advokaten må ikke overlevere udskriften til den forurettede uden rettens samtykke. I sager om overtrædelse af straffelovens §§ 210 eller 216-223, § 225, jf. §§ 216-223, eller § 232 har den forurettede ret til en vederlagsfri samtale med den beskikkede advokat efter sagens eller retshandlingens afslutning.
+Stk. 4. Retten meddeler advokaten udskrift af dommen. Advokaten må ikke overlevere udskriften til den forurettede uden rettens samtykke. I sager om overtrædelse af straffelovens §§ 210 eller 216-223, § 225, jf. §§ 216-223, eller §§ 231 eller 232 har den forurettede ret til en vederlagsfri samtale med den beskikkede advokat efter sagens eller retshandlingens afslutning.
 
 Stk. 5. Stk. 1-4 finder tilsvarende anvendelse på en advokat, der er antaget af den forurettede eller den forurettedes nære pårørende.

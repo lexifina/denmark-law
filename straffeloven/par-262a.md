@@ -10,9 +10,9 @@
 
 5) anden utilbørlig fremgangsmåde
 
-med henblik på udnyttelse af den pågældende ved prostitution, optagelse af pornografiske fotografier eller film, forestilling med pornografisk optræden, tvangsarbejde, slaveri eller slaverilignende forhold, strafbare handlinger eller fjernelse af organer.
+med henblik på udnyttelse af den pågældende ved prostitution, optagelse af seksuelt materiale såsom fotografier eller film, forestilling med seksuel optræden, tvangsarbejde, slaveri eller slaverilignende forhold, strafbare handlinger eller fjernelse af organer.
 
-Stk. 2. På samme måde straffes den, der med henblik på udnyttelse af den pågældende ved prostitution, optagelse af pornografiske fotografier eller film, forestilling med pornografisk optræden, tvangsarbejde, slaveri eller slaverilignende forhold, strafbare handlinger eller fjernelse af organer
+Stk. 2. På samme måde straffes den, der med henblik på udnyttelse af den pågældende ved prostitution, optagelse af seksuelt materiale såsom fotografier eller film, forestilling med seksuel optræden, tvangsarbejde, slaveri eller slaverilignende forhold, strafbare handlinger eller fjernelse af organer
 
 1) rekrutterer, transporterer, overfører, huser eller efterfølgende modtager en person under 18 år eller
 
