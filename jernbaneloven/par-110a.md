@@ -1,0 +1,1 @@
+§ 110 a. Transportministeren kan fastsætte regler om betaling af gebyr for Banedanmarks beredskabsydelser, kurser og uddannelser og om betaling for opgaver i forbindelse med tredjepartsprojekter, herunder regler om opkrævning, rentetilskrivning efter renteloven, rykkerskrivelser m.v.
