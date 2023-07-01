@@ -1,0 +1,5 @@
+## Indførsel
+
+§ 35 a. Indførsel af varer fra steder uden for EU, som foretages af Europa-Kommissionen eller et agentur eller organ, der er oprettet i henhold til EU-retten, er fritaget for afgift, når varerne er indført som led i udøvelsen af de opgaver, som de pågældende har fået tildelt for at reagere på covid-19-pandemien. Fritagelsen gælder ikke, hvis de indførte varer straks eller på et senere tidspunkt anvendes til videreleveringer mod vederlag fra Europa-Kommissionen eller et agentur eller organ, der er oprettet i henhold til EU-retten.
+
+Stk. 2. Hvis betingelserne for fritagelsen i stk. 1 ikke længere er opfyldt, skal Europa-Kommissionen eller det relevante agentur eller organ underrette told- og skatteforvaltningen herom, og indførslen af de pågældende varer pålægges afgift på de betingelser, der var gældende på det tidspunkt, hvor betingelserne for fritagelsen ophørte med at finde anvendelse. Afgiften skal indbetales senest 14 dage efter påkrav fra told- og skatteforvaltningen.
