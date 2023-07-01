@@ -1,0 +1,1 @@
+1) Loven indeholder bestemmelser, der gennemfører Europa-Parlamentets og Rådets direktiv (EU) 2019/1152 af 20. juni 2019 om gennemsigtige og forudsigelige arbejdsvilkår i Den Europæiske Union, EU-Tidende 2019, nr. L 186, side 105.

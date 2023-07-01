@@ -1,0 +1,1 @@
+§ 3 c. Skal en reder eller arbejdsgiver i henhold til EU-retten, dansk lovgivning eller kollektive overenskomster tilbyde en ansat uddannelse med henblik på udførelse af det pågældende arbejde, skal uddannelsen tilbydes uden udgift for lønmodtageren, tælle som arbejdstid og så vidt muligt foregå i lønmodtagerens sædvanlige arbejdstid.

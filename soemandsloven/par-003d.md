@@ -1,0 +1,3 @@
+§ 3 d. En ansat, hvis rettigheder i henhold til §§ 3 a-3 c er krænket, kan tilkendes en godtgørelse.
+
+Stk. 2. Kan den ansatte påvise faktiske omstændigheder, som giver anledning til at formode, at den ansatte har været udsat for afskedigelse eller en foranstaltning med tilsvarende virkning, fordi vedkommende har fremsat klage til rederen, skibsføreren eller arbejdsgiveren over manglende overholdelse af pligten til at sikre rettigheder i henhold til §§ 3 a-3 c, påhviler det rederen, skibsføreren eller arbejdsgiveren at bevise, at afskedigelsen eller foranstaltningen med tilsvarende virkning ikke skyldes, at der er fremsat klage over manglende overholdelse af pligten til at sikre rettigheder efter §§ 3 a-3 c.
