@@ -2,4 +2,4 @@
 
 Stk. 2. Udbetaling Danmark træffer hver 1. januar afgørelse om størrelsen af formue efter § 14 b, stk. 2, nr. 6 og 7, på grundlag af de senest modtagne oplysninger fra pensionisten og en eventuel ægtefælle eller samlever.
 
-Stk. 3. Udbetaling Danmark træffer afgørelse om formuens størrelse på ny i løbet af året, hvis pensionisten anmoder herom og kan dokumentere, at den samlede likvide formue ikke overstiger formuegrænsen, jf. § 49, stk. 1, nr. 8. Udbetaling af helbredstillæg efter § 14 a kan ske med virkning fra tidspunktet for anmodningen og ikke med tilbagevirkende kraft, selv om formuen er reduceret til under formuegrænsen på et tidligere tidspunkt.
+Stk. 3. Udbetaling Danmark træffer afgørelse om formuens størrelse på ny i løbet af året, hvis pensionisten anmoder herom og kan dokumentere, at den samlede likvide formue ikke overstiger formuegrænsen, jf. § 49, stk. 1, nr. 7. Udbetaling af helbredstillæg efter § 14 a kan ske med virkning fra tidspunktet for anmodningen og ikke med tilbagevirkende kraft, selv om formuen er reduceret til under formuegrænsen på et tidligere tidspunkt.

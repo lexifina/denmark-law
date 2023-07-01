@@ -8,4 +8,4 @@ Stk. 4. Der ydes desuden helbredstillæg til betaling af pensionistens egne udgi
 
 Stk. 5. Beskæftigelsesministeren kan fastsætte nærmere regler om helbredstillæg, herunder hvilke udgiftstyper der er omfattet af stk. 4.
 
-Stk. 6. Kommunalbestyrelsen lægger ved sin afgørelse om ydelse af helbredstillæg Udbetaling Danmarks afgørelse om størrelsen af pensionistens og en eventuel ægtefælles eller samlevers samlede likvide formue efter §§ 14 b og 14 c og den personlige tillægsprocent efter § 31, stk. 3, til grund. Oplysningerne fra Udbetaling Danmark skal fremgå af afgørelsen.
+Stk. 6. Kommunalbestyrelsen lægger ved sin afgørelse om ydelse af helbredstillæg Udbetaling Danmarks afgørelse om størrelsen af pensionistens og en eventuel ægtefælles eller samlevers samlede likvide formue efter §§ 14 b og 14 c og den personlige tillægsprocent efter § 31, stk. 2, til grund. Oplysningerne fra Udbetaling Danmark skal fremgå af afgørelsen.
