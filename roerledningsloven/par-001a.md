@@ -1,0 +1,1 @@
+§ 1 a. Klima-, energi- og forsyningsministeren kan fastsætte regler med henblik på at gennemføre eller anvende internationale konventioner og EU-regler om forhold, der er omfattet af denne lov, herunder forordninger, direktiver og beslutninger om naturbeskyttelse på dansk kontinentalsokkel, i dansk eksklusiv økonomisk zone og på dansk søterritorium.

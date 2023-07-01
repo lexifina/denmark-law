@@ -1,1 +1,1 @@
-§ 4 e. Tilsyn med anlæg som nævnt i § 3 a, stk. 1, og § 4, stk. 1, føres af energi-, forsynings- og klimaministeren. Ministeren kan fastsætte regler om tilsynets udøvelse.
+§ 4 e. Tilsyn med tilladelse efter § 2, stk. 1, 1. pkt., og § 2 a og tilsyn med anlæg som nævnt i § 3 a, stk. 1, og § 4, stk. 1, føres af klima-, energi- og forsyningsministeren. Ministeren kan fastsætte regler om tilsynets udøvelse.

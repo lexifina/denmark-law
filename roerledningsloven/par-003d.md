@@ -1,1 +1,7 @@
-§ 3 d. (Ophævet)
+§ 3 d. Forundersøgelser af havbunden med henblik på etablering af nye anlæg eller ændring af eksisterende anlæg omfattet af § 1, stk. 1, må kun foretages efter forudgående godkendelse fra klima-, energi- og forsyningsministeren.
+
+Stk. 2. Funktionaliteten og udformningen af nye anlæg og af ændringer af eksisterende anlæg omfattet af § 1, stk. 1 og 2, skal godkendes af klima-, energi- og forsyningsministeren, inden de pågældende anlæg eller ændringer idriftsættes. Ministeren kan i forbindelse med godkendelsen fastsætte betingelser og vilkår.
+
+Stk. 3. Når etablering af nye anlæg, ændringer af eksisterende anlæg og arbejder forbundet med driften af råolietransportsystemet omfattet af § 1, stk. 1 og 2, foretages på havområdet, skal disse godkendes af klima-, energi- og forsyningsministeren, inden etableringen, ændringen eller arbejderne må påbegyndes.
+
+Stk. 4. Ved godkendelse efter stk. 1 og 3 kan ministeren fastsætte de miljømæssige betingelser og vilkår, der er påkrævet for at undgå, forebygge eller begrænse og om muligt neutralisere væsentlige skadelige indvirkninger på natur og miljø. Ministeren kan ligeledes fastsætte betingelser og vilkår om eventuelle overvågningsforanstaltninger. Ministeren kan desuden fastsætte andre betingelser og vilkår, herunder vilkår vedrørende rørledningens påvirkning af mulighederne for udforskning af kontinentalsoklen, udnyttelse af soklens naturforekomster, ejerens tilsyn med og vedligeholdelse af rørledningen, fjernelse af anlæg, reetablering af havbunden efter afvikling af rørledningen og hensynet til tredjemands rørledninger eller andet udstyr tilhørende tredjemand.

@@ -1,0 +1,3 @@
+§ 2 c. Ejeren er forpligtet til at sikre, at råolietransportsystemet, jf. § 1, stk. 1 og 2, til enhver tid er indrettet på en måde, så transport- og anlægspligten, jf. § 2, stk. 2, varetages på en hensigtsmæssig og effektiv måde, og at mængderne og kvaliteten af den transporterede råolie og det transporterede kondensat kan opgøres korrekt til brug for måling af kulbrinter.
+
+Stk. 2. Lever råolietransportsystemet ikke op til kravene i stk. 1, kan klima-, energi- og forsyningsministeren meddele ejeren påbud om at foretage ændringer af råolietransportsystemet eller driften heraf, så pligten i stk. 1 opfyldes.
