@@ -1,0 +1,1 @@
+§ 5 l. Løn i en aftalt opsigelsesperiode til et medlem af direktionen i Lønmodtagernes Dyrtidsfond, der ikke modsvares af en sædvanlig arbejdsforpligtelse, skal udbetales månedsvis i opsigelsesperioden.

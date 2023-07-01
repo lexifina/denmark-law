@@ -1,0 +1,1 @@
+§ 24 o. §§ 24 l-24 n kan ikke fraviges ved aftale, herunder ved aftale om fratrædelsesordning til direktøren eller et medlem af den finansielle ledelse i Arbejdsmarkedets Tillægspension, der indgås med en anden virksomhed i koncernen, som ikke er omfattet af reglerne.

@@ -1,1 +1,1 @@
-§ 24 f. Erhvervs- og vækstministeren kan efter forhandling med beskæftigelsesministeren fastsætte nærmere regler for indholdet af den i § 23 b, stk. 1, nr. 9, nævnte aflønningspolitik og om Arbejdsmarkedets Tillægspensions pligt til at offentliggøre oplysninger vedrørende Finanstilsynets tilsyn og fastsætte nærmere regler om definitionen af andre ansatte, hvis aktiviteter har væsentlig indflydelse på virksomhedens risikoprofil.
+§ 24 f. (Ophævet)

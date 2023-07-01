@@ -20,6 +20,4 @@
 
 Stk. 2. Opstilling og klassifikation, konsolideringsmetode, indregningsmetode og målegrundlag samt den anvendte monetære enhed må ikke ændres fra år til år (reel kontinuitet). Ændring kan dog ske, hvis der derved bedre opnås et retvisende billede, eller hvis ændringen er nødvendig som følge af lovændring eller nye regler udstedt i medfør af § 8 l.
 
-Stk. 3. Bestemmelserne i stk. 1, nr. 6-9, og stk. 2 kan fraviges i særlige
-
-tilfælde. I så fald finder § 8 c, stk. 3, 2. pkt., tilsvarende anvendelse.
+Stk. 3. Bestemmelserne i stk. 1, nr. 6-9, og stk. 2 kan fraviges i særlige tilfælde. I så fald finder § 8 c, stk. 3, 2. pkt., tilsvarende anvendelse.

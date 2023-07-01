@@ -1,0 +1,1 @@
+§ 24 m. Løn i en aftalt opsigelsesperiode til direktøren eller et medlem af den finansielle ledelse i Arbejdsmarkedets Tillægspension, der ikke modsvares af en sædvanlig arbejdsforpligtelse, skal udbetales månedsvis i opsigelsesperioden.

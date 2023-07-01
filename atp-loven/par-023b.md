@@ -1,4 +1,4 @@
-§ 23 b. Arbejdsmarkedets Tillægspension skal have effektive former for virksomhedsstyring, herunder:
+§ 23 b. Arbejdsmarkedets Tillægspension skal have effektive former for virksomhedsstyring, herunder
 
 1) en klar organisatorisk struktur med en veldefineret, gennemskuelig og konsekvent ansvarsfordeling,
 
@@ -12,8 +12,8 @@
 
 6) fyldestgørende interne kontrolprocedurer,
 
-7) betryggende kontrol- og sikringsforanstaltninger på it-området og
+7) betryggende kontrol- og sikringsforanstaltninger på it-området, og
 
-8) en skriftelig lønpolitik, der er i overensstemmelse med og fremmer en sund og effektiv risikostyring.
+8) en skriftlig lønpolitik, der er i overensstemmelse med og fremmer en sund og effektiv risikostyring.
 
 Stk. 2. Finanstilsynet fastsætter efter forhandling med beskæftigelsesministeren nærmere regler om de foranstaltninger, Arbejdsmarkedets Tillægspension skal træffe for at have effektive former for virksomhedsstyring, jf. stk. 1.

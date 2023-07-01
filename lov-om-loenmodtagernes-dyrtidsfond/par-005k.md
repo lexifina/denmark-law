@@ -1,0 +1,3 @@
+§ 5 k. Indgår Lønmodtagernes Dyrtidsfond en aftale om en fratrædelsesordning med et medlem af direktionen, og overstiger værdien af ordningen et beløb svarende til den pågældendes samlede vederlag i de seneste 2 regnskabsår inklusive pension, skal Lønmodtagernes Dyrtidsfond offentliggøre størrelsen af det samlede vederlag, herunder størrelsen af de enkelte vederlagsdele, og en begrundelse for vederlagsdelenes størrelse.
+
+Stk. 2. Offentliggørelsen efter stk. 1 skal ske på Lønmodtagernes Dyrtidsfonds hjemmeside på samme sted, som fondens lønpolitik er offentliggjort, og skal ske, hurtigst muligt og senest 3 hverdage efter at aftalen er indgået. Oplysningerne om et medlem af direktionens fratrædelsesordning skal være tilgængelige, så længe aftalen er gældende.
