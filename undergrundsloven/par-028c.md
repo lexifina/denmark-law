@@ -1,3 +1,1 @@
-§ 28 c. Klima-, energi- og forsyningsministeren fastsætter nærmere regler om indhold og omfang af vurderinger efter § 28 a, stk. 1, ansøgning om og meddelelse af tilladelser og godkendelser for de omfattede projekter, hvilke mindsteoplysninger og undersøgelser der er nødvendige for, at en vurdering af indvirkningen på internationale naturbeskyttelsesområder kan foretages, underretning og høring af den berørte offentlighed og de berørte myndigheder og organisationer vedrørende vurderinger efter § 28 a, stk. 1, vilkår, kompensationsforanstaltninger samt om påbud.
-
-Stk. 2. Klima-, energi- og forsyningsministeren kan fastsætte, at der, forinden der træffes afgørelser i medfør af § 26, stk. 2, og §§ 28 a og 28 b, skal indhentes en udtalelse fra miljøministeren eller en styrelse, som miljøministeren har bemyndiget hertil, vedrørende miljø- eller naturbeskyttelsesforhold.
+§ 28 c. (Ophævet)

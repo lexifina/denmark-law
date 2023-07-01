@@ -1,0 +1,1 @@
+§ 3 f. Klima-, energi- og forsyningsministeren fastsætter med henblik på gennemførelse af Den Europæiske Unions direktiver og beslutninger på naturbeskyttelsesområdet regler om, i hvilke tilfælde og på hvilke vilkår tilladelser eller godkendelser kan meddeles efter § 3 d, stk. 1 og 3.

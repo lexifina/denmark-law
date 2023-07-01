@@ -1,4 +1,4 @@
-§ 2 a. En ansøgning om tilladelse efter § 1, stk. 2, skal være bilagt en plan for separationsfaciliteterne og deres drift. Tilladelsen skal være meddelt af klima-, energi- og forsyningsministeren, jf. § 1, stk. 2, inden DONG Oil Pipe A/S indhenter tilbud på etablering og drift af faciliteterne. Klima-, energi- og forsyningsministeren kan fastsætte vilkår for tilladelsen.
+§ 2 a. En ansøgning om tilladelse efter § 1, stk. 2, skal være bilagt en plan for separationsfaciliteterne og deres drift. Tilladelsen skal være meddelt af klima-, energi- og forsyningsministeren, jf. § 1, stk. 2, inden ejeren indhenter tilbud på etablering og drift af faciliteterne. Klima-, energi- og forsyningsministeren kan fastsætte vilkår for tilladelsen.
 
 Stk. 2. Leverandører til etablering og drift af faciliteterne vælges på grundlag af udbud efter samme regler, som er fastsat i EU’s forsyningsvirksomhedsdirektiv.
 

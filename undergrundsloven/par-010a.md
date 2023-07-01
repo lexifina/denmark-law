@@ -1,0 +1,1 @@
+§ 10 a. Klima-, energi- og forsyningsministeren kan efter orientering af et af Folketinget nedsat udvalg fastsætte regler om afbrænding af kulbrinter, herunder et forbud mod rutinemæssig afbrænding af kulbrinter.
