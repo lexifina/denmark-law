@@ -1,3 +1,3 @@
-§ 6 a. Sikkerhedsstyrelsen offentliggør og opdaterer på sin hjemmeside en liste over genopfyldningsbeholdere uden nikotin, der er anmeldt efter § 5 b, stk. 1, og oplysninger og erklæringer, der er modtaget efter regler fastsat efter § 5 b, stk. 3, jf. dog stk. 2.
+§ 6 a. Sikkerhedsstyrelsen offentliggør og opdaterer på sin hjemmeside en liste over elektroniske cigaretter og genopfyldningsbeholdere uden nikotin, der er anmeldt efter § 5 b, stk. 1, og oplysninger og erklæringer, der er modtaget efter regler fastsat efter § 5 b, stk. 3, jf. dog stk. 2.
 
 Stk. 2. Sikkerhedsstyrelsen offentliggør dog ikke oplysninger om drifts- eller forretningsforhold, der er undtaget fra aktindsigt efter § 30, nr. 2, i lov om offentlighed i forvaltningen.
