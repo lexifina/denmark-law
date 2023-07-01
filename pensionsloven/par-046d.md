@@ -12,7 +12,7 @@
 
 6) Fleksydelse efter lov om fleksydelse.
 
-7) Integrationsydelse, selvforsørgelses- og hjemrejseydelse, overgangsydelse, uddannelseshjælp, kontanthjælp, revalideringsydelse, ressourceforløbsydelse i ressourceforløb, ressourceforløbsydelse i jobafklaringsforløb eller ledighedsydelse efter lov om aktiv socialpolitik.
+7) Selvforsørgelses- og hjemrejseydelse, overgangsydelse, uddannelseshjælp, kontanthjælp, revalideringsydelse, ressourceforløbsydelse i ressourceforløb, ressourceforløbsydelse i jobafklaringsforløb eller ledighedsydelse efter lov om aktiv socialpolitik.
 
 8) Fleksløntilskud efter §§ 123-125 eller tilskud til selvstændig virksomhed efter § 126 i lov om en aktiv beskæftigelsesindsats.
 
