@@ -6,9 +6,7 @@
 
 4) Lovændringen vedrører indsættelse af § 25 a, indsættelse af et nyt stk. 3 i § 54, hvorefter stk. 4 er blevet stk. 5. § 54 a er indsat, og indsættelse af et nyt nr. 1 i § 60, stk. 1, hvorefter nr. 1-4 er blevet nr. 2-5. Ændringen vedrører desuden ændring af § 60, stk. 1, nr. 3, som er blevet nr. 4, og af § 60, stk. 5, og indsættelse af 63 a.
 
-5) Lovændringen vedrører ændring af § 39, stk. 2, indsættelse af § 52 a, ændring af § 55, stk. 1, og indsættelse af § 55, stk. 3, hvorefter § 55, stk. 3-5 er blevet stk. 4-6, og ændring af stk. 5, som er blevet til stk. 6.
-
-§ 56, stk. 1, 3. pkt. er ophævet. I § 56, er et nyt stk. 2 indsat, hvorefter stk. 2 og 3 er blevet stk. 3 og 4. § 60, stk. 1, nr. 2, ændret.
+5) Lovændringen vedrører ændring af § 39, stk. 2, indsættelse af § 52 a, ændring af § 55, stk. 1, og indsættelse af § 55, stk. 3, hvorefter § 55, stk. 3-5 er blevet stk. 4-6, og ændring af stk. 5, som er blevet til stk. 6. Desuden er § 56, stk. 1, 3. pkt., ophævet. Endvidere indebærer ændringen, at der i § 56, er indsat et nyt stk. 2, hvorefter stk. 2 og 3 er blevet stk. 3 og 4. Endelig er § 60, stk. 1, nr. 2, ændret.
 
 6) Lovændringen vedrører ophævelse af § 13.
 
@@ -39,3 +37,7 @@
 19) Lovændringen vedrører indsættelse af § 60, stk. 7.
 
 20) Lovændringen vedrører ændringer af takster anført i § 45, stk. 5, 1. pkt., § 45, stk. 6, 1. pkt., og § 45, stk. 7, 1. pkt., nyaffattelse af § 45, stk. 8, og § 54 a og ændring af § 56, stk. 2.
+
+21) Lovændringen vedrører ændring af § 45, stk. 4.
+
+22) Lovændringen vedrører ændring af § 45, stk. 4.
