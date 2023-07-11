@@ -65,3 +65,19 @@ Stk. 1-5. (Udelades)
 Stk. 6. Sager om omkostninger ved hegnssyn efter § 46, stk. 4, i hegnsloven, jf. lovbekendtgørelse nr. 1746 af 14. december 2015, der ved lovens ikrafttræden behandles af Statsforvaltningen, færdigbehandles af miljø- og fødevareministeren.
 
 Stk. 7-9. (Udelades)
+
+Lov nr. 679 af 3. juni 2023 (Opkrævning og inddrivelse af grundskyld og dækningsafgift m.v., statens afregning af grundskyld og dækningsafgift til kommunerne, foreløbige vurderinger som midlertidigt beskatningsgrundlag i 2024 og 2025, forenkling af ejendomsvurderingerne for 2024 og 2025, udvidelse af antallet af dommere i Landsskatteretten m.v.) indeholder følgende ikrafttrædelses- og overgangsbestemmelse:
+
+§ 45
+
+Stk. 1. Loven træder i kraft den 5. juni 2023, jf. dog stk. 2-4.
+
+Stk. 2. (Udelades)
+
+Stk. 3. §§ 1 og 2, § 3, nr. 3, 4, 6, 8-18, 20, 21 og 29, §§ 4-8, § 9, nr. 1, 3 og 4, §§ 10-13, § 14, nr. 1, 2 og 7, §§ 15-18 og 21-29, § 30, nr. 2 og 4, og §§ 32-44 træder i kraft den 1. januar 2024.
+
+Stk. 4. (Udelades)
+
+Stk. 5. (Udelades)
+
+Stk. 6. (Udelades)
