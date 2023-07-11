@@ -1,9 +1,29 @@
-Lov nr. 58 af 28. januar 2020 om planter og plantesundhed m.v. indeholder følgende ikrafttrædelses- og overgangsbestemmelse:
+Lov nr. 1590 af 28. december 2022 om administration af den fælles landbrugspolitik m.v. indeholder følgende ikrafttrædelsesbestemmelse:
 
-§ 26. Loven træder i kraft den 1. februar 2020.
+§ 30. Loven træder i kraft den 1. januar 2023, jf. dog stk. 2.
 
 Stk. 2. (Udelades)
 
 Stk. 3. (Udelades)
 
-Stk. 4. Regler fastsat i medfør af de love, der er nævnt i stk. 2 og 3, og § 10, stk. 2 og 3, i lov om drift af landbrugsjorder, jf. lovbekendtgørelse nr. 958 af 10. juli 2017, forbliver i kraft, indtil de ophæves eller afløses af nye regler fastsat i medfør af denne lov eller lov om drift af landbrugsjorder. Regler om straf for overtrædelser af regler, der er fastsat i de pågældende bekendtgørelser, forbliver i kraft, indtil bekendtgørelsen ophæves eller afløses af regler fastsat i medfør af denne lov eller lov om drift af landbrugsjorder.
+Lov nr. 407 af 25. april 2023 om administration af den fælles landbrugspolitik m.v. indeholder følgende ikrafttrædelses- og overgangsbestemmelse:
+
+§ 30. Loven træder i kraft den 30. juni 2023.
+
+Stk. 2. Lov nr. 1590 af 28. december 2022 om administration af den fælles landbrugspolitik m.v. ophæves.
+
+Stk. 3. (Udelades)
+
+Stk. 4. Regler, der er fastsat i medfør af lov nr. 1590 af 28. december 2022 om administration af den fælles landbrugspolitik m.v., forbliver i kraft, indtil de ophæves eller erstattes af regler, der er fastsat i medfør af denne lov. Regler om straf for overtrædelse af regler, der er fastsat i de pågældende bekendtgørelser, forbliver i kraft, indtil bekendtgørelserne ophæves eller erstattes af regler fastsat i medfør af denne lov.
+
+Stk. 5. Regler, der er fastsat i medfør af følgende lovbestemmelser, forbliver i kraft, indtil de ophæves eller afløses af nye regler:
+
+1) § 8 i lov om drift af landbrugsjorder, jf. lovbekendtgørelse nr. 103 af 3. februar 2020, som ændret ved § 32 i lov nr. 1590 af 28. december 2022.
+
+2) (Udelades)
+
+3) (Udelades)
+
+4) (Udelades)
+
+5) (Udelades)
