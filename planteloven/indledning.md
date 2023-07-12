@@ -1,3 +1,3 @@
 Bekendtgørelse af lov om planter og plantesundhed m.v.
 
-Herved bekendtgøres lov nr. 58 af 28. januar 2020 om planter og plantesundhed m.v., med de ændringer, der følger af § 2 i lov nr. 809 af 9. juni 2020.
+Herved bekendtgøres lov om planter og plantesundhed m.v., jf. lovbekendtgørelse nr. 1132 af 3. juli 2020, med de ændringer, der følger af § 34 i lov nr. 1590 af 28. december 2022 og § 34 i lov nr. 407 af 25. april 2023.
