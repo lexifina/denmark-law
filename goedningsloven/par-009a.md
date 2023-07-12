@@ -1,11 +1,5 @@
-§ 9 a. Miljø- og fødevareministeren kan fastsætte regler om pligt til at anvende digital kommunikation i forbindelse med anmeldelse af produkter efter regler fastsat i medfør af § 4, nr. 3, registrering af virksomheder efter regler fastsat i medfør af § 4, nr. 4, og afgivelse af oplysninger efter regler fastsat i medfør af § 9, til brug for hel eller delvis fastlæggelse af virksomhedens betaling af udgifter ved kontrol og administration af loven.
+§ 9 a. Ministeren for fødevarer, landbrug og fiskeri kan fastsætte regler om, at skriftlig kommunikation til og fra Ministeriet for Fødevarer, Landbrug og Fiskeri om forhold, der er omfattet af denne lov eller af regler fastsat i medfør heraf eller af Den Europæiske Unions forordninger om forhold omfattet af denne lov, skal foregå digitalt.
 
-Stk. 2. Ministeren kan fastsætte regler om, at ministeren ved henvendelser til virksomheder om forhold, der er omfattet af regler fastsat i medfør af stk. 1, alene anvender digital kommunikation.
+Stk. 2. Ministeren kan fastsætte nærmere regler om digital kommunikation, herunder om anvendelse af bestemte it-systemer, særlige digitale formater og e-id og lign.
 
-Stk. 3. Ministeren kan for den kommunikation, der er nævnt i stk. 1, fastsætte regler om vilkår for anvendelse af digital kommunikation, herunder om anvendelse af bestemte it-systemer, særlige digitale formater og digital signatur el.lign.
-
-Stk. 4. Ministeren kan fastsætte regler om, at ministeren kan udstede afgørelser og andre dokumenter i forbindelse med den kommunikation, der er nævnt i stk. 2, uden underskrift, med maskinelt eller på tilsvarende måde gengivet underskrift eller under anvendelse af en teknik, der sikrer entydig identifikation af den, som har udstedt afgørelsen eller dokumentet. Sådanne afgørelser og dokumenter sidestilles med afgørelser og dokumenter med personlig underskrift.
-
-Stk. 5. Ministeren kan fastsætte regler om, at afgørelser og andre dokumenter, der udelukkende er truffet eller udstedt på grundlag af elektronisk databehandling, kan udstedes alene med angivelse af Miljø- og Fødevareministeriet som afsender.
-
-Stk. 6. En digital meddelelse anses for at være kommet frem, når den er tilgængelig for adressaten for meddelelsen.
+Stk. 3. En digital meddelelse anses for at være kommet frem, når den er tilgængelig for adressaten for meddelelsen.
