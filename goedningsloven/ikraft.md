@@ -1,15 +1,21 @@
-Lov nr. 1715 af 27. december 2016 om Miljø- og Fødevareklagenævnet indeholder følgende ikrafttrædelses- og overgangsbestemmelse:
+Lov nr. 2214 af 29. december 2020 (Supplerende bestemmelser til markedsovervågningsforordningen samt offentliggørelsesordning, registreringsordning og andre justeringer af tilsyns- og håndhævelsesbestemmelserne i lov om kemikalier) indeholder følgende ikrafttrædelses- og territorialbestemmelser:
 
-§ 24. Loven træder i kraft den 1. februar 2017.
+§ 4
+
+Stk. 1. Loven træder i kraft den 1. juli 2021, jf. dog stk. 2.
 
 Stk. 2. (Udelades)
 
-Stk. 3. Erhvervsministeren kan efter høring af miljø- og fødevareministeren fastsætte overgangsregler.
+§ 5
 
-Stk. 4. (Udelades)
+Stk. 1. Loven gælder ikke for Færøerne og Grønland, jf. dog stk. 2.
 
-Stk. 5. Regler, der er fastsat i henhold til hidtil gældende regler, forbliver i kraft, indtil de ophæves eller afløses af regler fastsat med hjemmel i denne lov. Overtrædelse af reglerne straffes efter de hidtil gældende regler.
+Stk. 2. § 3 kan ved kongelig anordning helt eller delvis sættes i kraft for Grønland med de ændringer, som de grønlandske forhold tilsiger.
 
-Stk. 6. Verserende klagesager i Natur- og Miljøklagenævnet eller Klagecenter for Fødevarer, Landbrug og Fiskeri, der ikke er færdigbehandlet ved denne lovs ikrafttræden, færdigbehandles og afgøres af Miljø- og Fødevareklagenævnet efter reglerne i denne lov. Dette gælder dog ikke verserende klagesager ved Natur- og Miljøklagenævnet, som ved lovens ikrafttræden skal færdigbehandles og afgøres af Planklagenævnet, jf. § 1 i lov om Planklagenævnet.
+Lov nr. nr 416 af 5. april 2022 (Tilpasninger som følge af en ny gødningsforordning, nye produktkategorier og obligatorisk digital kommunikation m.v.) indeholder følgende ikrafttrædelses- og overgangbestemmelse:
 
-Stk. 7. (Udelades)
+§ 2
+
+Stk. 1. Loven træder i kraft den 1. juli 2022.
+
+Stk. 2. Regler, der er fastsat i medfør af § 2, stk. 1, nr. 5, og § 4 i lov om gødning og jordforbedringsmidler m.v., jf. lovbekendtgørelse nr. 16 af 4. januar 2017, forbliver i kraft, indtil de ophæves eller erstattes af regler fastsat i medfør af § 2, stk. 1, nr. 5, jf. denne lovs § 1, nr. 4, § 3, stk. 1, 3. pkt., jf. denne lovs § 1, nr. 5, eller § 4 som ændret ved denne lovs § 1, nr. 6.
