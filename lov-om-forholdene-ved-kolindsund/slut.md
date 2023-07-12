@@ -1,7 +1,5 @@
-Givet på Christiansborg slot, den 2. maj 1934
+Landbrugsstyrelsen, den 10. juli 2023
 
-Under Vor Kongelige Hånd og Segl
+P.D.V. Bente Koudal Sørensen
 
-Christian R (X)
-
-/Kr. Bording
+/ Dorthe Nielsen
