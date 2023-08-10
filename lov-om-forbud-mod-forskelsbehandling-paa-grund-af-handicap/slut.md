@@ -1,7 +1,5 @@
-Givet på Christiansborg Slot, den 8. juni 2018
+Social-, Bolig- og Ældreministeriet, den 10. august 2023
 
-Under Vor Kongelige Hånd og Segl
+David Rene Tranekær Klemmensen
 
-MARGRETHE R.
-
-/ Mai Mercado
+/ Trine Frederiksen
