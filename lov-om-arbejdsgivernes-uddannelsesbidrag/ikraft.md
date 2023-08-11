@@ -1,35 +1,3 @@
-Lov nr. 634 af 16. juni 2014 (Bedre og mere attraktive erhvervsuddannelser m.v.) indeholder følgende ikrafttrædelses- og overgangsbestemmelser:
-
-§ 10
-
-Stk. 1. Loven træder i kraft den 1. juli 2014, jf. dog stk. 2-5.
-
-Stk. 2. (Udelades)
-
-Stk. 3. Lovens § 4, nr. 9, træder i kraft den 1. januar 2015.
-
-Stk. 4. Lovens § 4, nr. 1-7 og 10, og §§ 6 og 9 træder i kraft den 1. august 2015.
-
-Stk. 5. (Udelades)
-
-§ 11
-
-Stk. 1-10. (Udelades)
-
-Stk. 11. For perioden fra den 1. august 2015 til den 31. juli 2021 overfører Arbejdsgivernes Uddannelsesbidrag et beløb til staten til dækning af udgifter for den overgangsordning for elever, der er nævnt i stk. 8, 3. pkt. Ministeren for børn, undervisning og ligestilling beregner årligt beløbets størrelse og fastsætter betalingstidspunkterne.
-
-Stk. 12-14. (Udelades)
-
-Lov nr. 1747 af 27. december 2016 (Justering af arbejdsgiverbidrag og midlertidige bonusordninger for 2017 m.v.) indeholder følgende ikrafttrædelses- og overgangsbestemmelse:
-
-§ 3
-
-Stk. 1. Loven træder i kraft den 1. januar 2017.
-
-Stk. 2. Ved beregning af bonusudløsende praktikårselever efter § 15 e som affattet ved denne lovs § 1, nr. 2, indgår alene uddannelsesaftaler påbegyndt den 1. januar 2017 eller senere.
-
-Stk. 3. § 1, nr. 3, finder ikke anvendelse for uddannelsesaftaler indgået før denne lovs ikrafttræden.
-
 Lov nr. 706 af 8. juni 2017 (Praktikpladsafhængigt bidrag til AUB m.v.) indeholder følgende ikrafttrædelses- og overgangsbestemmelse:
 
 § 7
@@ -54,14 +22,6 @@ Stk. 9. § 1, nr. 1, har virkning fra den 1. august 2015. Arbejdsgivernes Uddann
 
 Stk. 10. § 21 f, stk. 1-3, i lov om Arbejdsgivernes Uddannelsesbidrag som affattet ved denne lovs § 1, nr. 22, har virkning fra den 1. januar 2018.
 
-Lov nr. 1669 af 26. december 2017 (Modelparametre for erhvervsuddannelser til brug for beregning af praktikpladsafhængigt arbejdsgiverbidrag, indførelse af modregningsadgang, ændring af klageproces m.v.) indeholder følgende ikrafttrædelses- og overgangsbestemmelse:
-
-§ 12
-
-Stk. 1. Loven træder i kraft den 1. januar 2018.
-
-Stk. 2. Loven finder ikke anvendelse på klager indgivet før lovens ikrafttræden til det ankenævn, der er nedsat i henhold til § 28 i lov om Arbejdsmarkedets Tillægspension. For sådanne klager finder de hidtil gældende regler anvendelse.
-
 Lov nr. 1692 af 26. december 2017 (Øget søgning til erhvervsuddannelse for voksne m.v.) indeholder følgende ikrafttrædelses- og overgangsbestemmelse:
 
 § 4
@@ -71,18 +31,6 @@ Stk. 1. Loven træder i kraft den 1. januar 2018, jf. dog stk. 2.
 Stk. 2-3. (Udelades)
 
 Stk. 4. Regler fastsat i medfør af § 12 b, stk. 2, i lov om Arbejdsgivernes Uddannelsesbidrag, jf. lovbekendtgørelse nr. 95 af 26. januar 2017, forbliver i kraft, indtil de ophæves eller afløses af nye regler.
-
-Lov nr. 1693 af 26. december 2017 (Nedsættelse af VEU-bidrag, forbedret praktikbonus til arbejdsgivere og forhøjelse af VEU-godtgørelse og Statens Voksenuddannelsesstøtte (SVU) m.v.) indeholder følgende ikrafttrædelses- og overgangsbestemmelse:
-
-§ 5
-
-Stk. 1. Loven træder i kraft den 1. januar 2018, jf. dog stk. 2.
-
-Stk. 2. Lovens § 1, nr. 3 og 5, § 2, nr. 2 og 4, og § 3, nr. 3, træder i kraft den 1. januar 2022.
-
-Stk. 3. § 15 b, stk. 2 og 3, i lov om Arbejdsgivernes Uddannelsesbidrag som affattet ved denne lovs § 1, nr. 1, ophæves den 1. januar 2022.
-
-Stk. 4-7. (Udelades)
 
 Lov nr. 745 af 8. juni 2018 (Ændringer som følge af lovgivning om forberedende grunduddannelse m.v.) indeholder følgende ikrafttrædelses- og overgangsbestemmelse:
 
@@ -192,8 +140,18 @@ Stk. 2. Regler fastsat i medfør af § 14, stk. 7, i lov om Arbejdsgivernes Udda
 
 Stk. 3. Bekendtgørelse nr. 89 af 25. januar 2021 om udbetaling af løntilskud til private arbejdsgivere, der ansætter elever i uddannelsessporet erhvervsgrunduddannelse efter lov om forberedende grunduddannelse (egu-løntilskudsordningen) forbliver i kraft, indtil den ophæves eller afløses af forskrifter udstedt i medfør af § 14, stk. 8, i lov om Arbejdsgivernes Uddannelsesbidrag som affattet ved denne lovs § 1, nr. 1 og 4.
 
-Lov nr. 916 af 21. juni 2022 (Videreførelse af igu-ordningen, mulighed for igu-forløb for personer med opholdstilladelse efter lov om midlertidig opholdstilladelse til personer, der i Afghanistan har bistået danske myndigheder m.v., og videreførelse af egu-fgu-bonusordningen) indeholder følgende ikrafttrædelsesbestemmelse:
+Lov nr. 326 af 28. marts 2023 (Indførelse af refusion af arbejdsgiveres udgifter til pensionsbidrag, justering af fleksibelt uddannelsesbidrag og aktivitetsafhængigt VEU-bidrag for 2023 m.v.) indeholder følgende ikrafttrædelses- og overgangsbestemmelser:
 
-§ 3
+§ 4
 
-Loven træder i kraft den 1. juli 2022.
+Stk. 1. Loven træder i kraft den 1. april 2023.
+
+Stk. 2. § 4 a i lov om Arbejdsgivernes Uddannelsesbidrag som affattet ved denne lovs § 1, nr. 2, og § 17 b, 1. pkt., i lov om Arbejdsgivernes Uddannelsesbidrag som ændret ved denne lovs § 1, nr. 8, har virkning for arbejdsgiveres pensionsbidrag, der betales den 1. januar 2023 eller senere for elever og lærlinge under skoleophold, der afholdes den 1. januar 2023 eller senere.
+
+Stk. 3. Bidrag efter § 18, stk. 1, 1. pkt., i lov om Arbejdsgivernes Uddannelsesbidrag udgør for første kvartal 2023 700,75 kr. i 2022-pris- og -lønniveau ud af bidraget på 2.890 kr. i 2023-pris- og -lønniveau efter § 18, stk. 1, 1. pkt., i lov om Arbejdsgivernes Uddannelsesbidrag som ændret ved denne lovs § 1, nr. 9. Bidrag efter § 18, stk. 1, 1. pkt., i lov om Arbejdsgivernes Uddannelsesbidrag udgør for andet, tredje og fjerde kvartal 2023 729,75 kr. i 2023-pris- og -lønniveau pr. kvartal ud af bidraget på 2.890 kr. i 2023-pris- og -lønniveau efter § 18, stk. 1, 1. pkt., i lov om Arbejdsgivernes Uddannelsesbidrag som ændret ved denne lovs § 1, nr. 9.
+
+Stk. 4. Uanset at det er fastsat i § 20, stk. 2, 1. pkt., i lov om Arbejdsgivernes Uddannelsesbidrag, at der fratrækkes et beløb, der svarer til ¼ af det årlige bidrag for én lønmodtager, fratrækkes der for første kvartal 2023 700,75 kr. i 2022-pris- og -lønniveau, jf. stk. 3, i det bidrag efter § 18, stk. 1, 1. pkt., i lov om Arbejdsgivernes Uddannelsesbidrag, der beregnes for første kvartal 2023 efter § 20, stk. 1, i lov om Arbejdsgivernes Uddannelsesbidrag. For andet, tredje og fjerde kvartal 2023 fratrækkes der 729,75 kr. i 2023-pris- og -lønniveau pr. kvartal, jf. stk. 3, i det bidrag efter § 18, stk. 1, 1. pkt., i lov om Arbejdsgivernes Uddannelsesbidrag, der beregnes for andet, tredje og fjerde kvartal 2023 efter § 20, stk. 1, i lov om Arbejdsgivernes Uddannelsesbidrag.
+
+Stk. 5. Uanset at det er fastsat i § 20, stk. 2, 3. pkt., i lov om Arbejdsgivernes Uddannelsesbidrag, at der fratrækkes et beløb, der svarer til ¼ af det årlige bidrag for en lønmodtager, for hver gang der er modtaget et ATP-bidrag svarende til 50 fuldtidsansatte lønmodtagere, fratrækkes der for første kvartal 2023, for hver gang der er modtaget et ATP-bidrag svarende til 50 fuldtidsansatte lønmodtagere, 700,75 kr. i 2022-pris- og -lønniveau, jf. stk. 3, i det bidrag efter § 18, stk. 1, 1. pkt., i lov om Arbejdsgivernes Uddannelsesbidrag, der beregnes for første kvartal 2023 efter § 20, stk. 1, i lov om Arbejdsgivernes Uddannelsesbidrag. For andet, tredje og fjerde kvartal 2023 fratrækkes der, for hver gang der er modtaget et ATP-bidrag svarende til 50 fuldtidsansatte lønmodtagere, 729,75 kr. i 2023-pris- og -lønniveau pr. kvartal, jf. stk. 3, i det bidrag efter § 18, stk. 1, 1. pkt., i lov om Arbejdsgivernes Uddannelsesbidrag, der beregnes for andet, tredje og fjerde kvartal 2023 efter § 20, stk. 1, i lov om Arbejdsgivernes Uddannelsesbidrag.
+
+Stk. 6. Bidragssatsen efter § 18, stk. 2, 1. pkt., i lov om Arbejdsgivernes Uddannelsesbidrag som ændret ved denne lovs § 1, nr. 11, har virkning fra og med beregning af bidrag for første kvartal 2023.
