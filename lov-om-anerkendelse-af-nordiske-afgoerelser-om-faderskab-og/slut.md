@@ -1,9 +1,5 @@
-GIVET PÅ CHRISTIANSBORG SLOT, DEN 6. MAJ 1980
+Social-, Bolig- og Ældreministeriet, den 10. august 2023
 
-Under Vor Kongelige Hånd og Segl
+Malene Vestergaard
 
-MARGRETHE R.
-
-/HENNING RASMUSSEN
-
-Ingen
+/ Carina Fogt-Nielsen
