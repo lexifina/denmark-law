@@ -1,7 +1,5 @@
-1) Revisionen er sket ved lov nr. 612 af 12. juni 2013 (Muligheder for at afbryde uddannelsen, optag af elever, ændret visitation, afklaringsforløb, praktik m.v.).
+1) § 5, stk. 2, har først virkning fra den 1. januar 2025, for så vidt angår uddannelsessteder, der er dækket af en overenskomst, som er indgået før den 1. august 2023, jf. § 2, stk. 5, i lov nr. 731 af 13. juni 2023. Se lovbekendtgørelse nr. 610 af 28. maj 2019 for den hidtidige affattelse af § 5, stk. 2.
 
-2) Lovændringen vedrører § 2, stk. 1 og 5, § 3, § 3 a, § 4, stk. 2 og 3, § 5 a, § 5 b, § 7, stk. 2 og 3, § 8 og § 12, stk. 2.
+2) § 5, stk. 3, har først virkning fra den 1. januar 2025, for så vidt angår uddannelsessteder, der er dækket af en overenskomst, som er indgået før den 1. august 2023, jf. § 2, stk. 5, i lov nr. 731 af 13. juni 2023. Se lovbekendtgørelse nr. 610 af 28. maj 2019 for den hidtidige affattelse af § 5, stk. 2, der henviser til § 1, stk. 7, i lov om specialundervisning for voksne, jf. lovbekendtgørelse nr. 1653 af 9. august 2021, der er udmøntet i § 11 i bekendtgørelse nr. 378 af 28. april 2006 om specialundervisning for voksne.
 
-3) Lovændringen vedrører § 3, § 3 a, 1. pkt., § 4, stk. 2-4, § 5, § 5 a, stk. 2, 2. pkt., § 7, stk. 2, § 8, stk. 2, 3. pkt., og 4, og § 12, stk. 2, 1. pkt.
-
-4) Lovændringen vedrører § 5 b.
+3) Lovændringen vedrører lovens titel, § 1, stk. 1-3, overskriften til kapitel 2, § 2, stk. 1, 2, 1. pkt., 4 og 5, 1. pkt., § 2 a, § 3, stk. 2, 1. pkt., 3 og 4, § 3 a, overskriften til kapitel 3, § 4, § 4 a, § 5, § 5 a, stk. 2 og 3, § 5 b, § 6, stk. 1-3, § 7, stk. 1, 1. pkt., og 2, § 8, stk. 1, 2 og 4, § 9, § 10, stk. 1, § 12, stk. 2 og § 12 a.

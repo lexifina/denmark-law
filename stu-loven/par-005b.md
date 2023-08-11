@@ -1,1 +1,1 @@
-§ 5 b. Kommunalbestyrelsens udgifter til ungdomsuddannelsen for unge med særlige behov, der gives som et tilbud efter § 91 i lov om en aktiv beskæftigelsesindsats, er ikke omfattet af statslig refusion efter reglerne om en aktiv beskæftigelsesindsats.
+§ 5 b. Kommunalbestyrelsens udgifter til den særligt tilrettelagte ungdomsuddannelse, der gives som et tilbud efter § 91 i lov om en aktiv beskæftigelsesindsats, er ikke omfattet af statslig refusion efter reglerne om en aktiv beskæftigelsesindsats.
