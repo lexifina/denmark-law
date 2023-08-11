@@ -1,3 +1,11 @@
+Lov nr. 1533 af 19. december 2017 om trossamfund uden for folkekirken indeholder følgende ikrafttrædelses- og overgangsbestemmelse:
+
+§ 24. Loven træder i kraft den 1. januar 2018, jf. dog stk. 2 og 6.
+
+Stk. 2. Lovens §§ 23 og 27 træder i kraft den 1. januar 2023. Indtil §§ 23 og 27 træder i kraft, er det kun de trossamfund, der er anerkendt ved kongelig resolution før den 1. januar 1970, der kan føre ministerialbøger og udstede navne-, dåbs- og vielsesattester, ligesom bestemmelsen om anerkendte trossamfund i § 18 i navneloven, jf. lovbekendtgørelse nr. 1816 af 23. december 2015, kun finder anvendelse for disse trossamfund.
+
+Stk. 3-7. (Udelades)
+
 Lov nr. 1711 af 27. december 2018 (Ændringer som følge af lov om Familieretshuset og skærpet fokus på beskyttelsen af barnet i sager efter forældreansvarsloven) indeholder følgende ikrafttrædelses- og overgangsbestemmelser:
 
 Ikrafttræden
@@ -26,8 +34,12 @@ Stk. 6-9. (Udelades)
 
 (Udelades)
 
-Lov nr. 962 af 26. juni 2020 (Afskaffelse af tvungen delt bopæl og opfølgning på etableringen af det nye familieretlige system m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
+Lov nr. 227 af 15. februar 2022 (Smidiggørelse af registrering af medmoderskab, fastsættelse af transpersoners forældreskab og navneændring for transpersoner m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
 
-§ 13
+Ikrafttræden m.v.
 
-Loven træder i kraft den 1. juli 2020.
+§ 8
+
+Stk. 1. Loven træder i kraft den 1. april 2022, jf. dog stk. 2.
+
+Stk. 2-5. (Udelades)
