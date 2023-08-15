@@ -1,4 +1,4 @@
-Udlændinge- og Integrationsministeriet, den 25. august 2022
+Udlændinge- og Integrationsministeriet, den 10. august 2023
 
 Kaare Dybvad Bek
 

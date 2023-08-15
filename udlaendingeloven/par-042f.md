@@ -10,7 +10,7 @@ Stk. 5. Stk. 2-4 og 7 gælder ikke for udlændinge over 18 år, som er indkvarte
 
 Stk. 6. En 17-årig udlænding, der er omfattet af § 42 a, stk. 1 og 2, jf. stk. 3, kan deltage i et asylansøgerkursus, jf. stk. 1, undervisning i engelsk sprog eller anden undervisning, jf. stk. 2, og undervisning i andre fag, jf. stk. 3. 17-årige udlændinge kan deltage i asylansøgerkurset og den i stk. 2 og 3 nævnte undervisning på samme betingelser som udlændinge over 18 år, jf. stk. 1-3. En 17-årig udlænding, hvis ansøgning om opholdstilladelse i medfør af § 7 er under behandling her i landet, jf. herved § 48 e, stk. 2, kan endvidere deltage i danskundervisning. Stk. 4 finder tilsvarende anvendelse.
 
-Stk. 7. En udlænding over 18 år, der er omfattet af 42 a, stk. 1, 2. pkt., skal, medmindre særlige grunde taler derimod, deltage i undervisning i dansk sprog og danske kultur- og samfundsforhold.
+Stk. 7. En udlænding over 18 år, der er omfattet af § 42 a, stk. 1, 2. pkt., skal, medmindre særlige grunde taler derimod, deltage i undervisning i dansk sprog og danske kultur- og samfundsforhold.
 
 Stk. 8. Indkvarteringsoperatøren, jf. § 42 a, stk. 5, 2. pkt., bestemmer, om en udlænding skal deltage i undervisning som nævnt i stk. 1-4, 6 og 7.
 
