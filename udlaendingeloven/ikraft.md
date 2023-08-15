@@ -300,7 +300,7 @@ Stk. 5. Udlændingelovens § 17, stk. 2, og § 44 c som indsat og affattet ved d
 
 Stk. 6. Udlændingelovens § 19, stk. 1, nr. 10, og § 22, nr. 6, som indsat og ændret ved denne lovs § 1, nr. 15 og 20, finder alene anvendelse for lovovertrædelser begået efter lovens ikrafttræden. For lovovertrædelser begået før lovens ikrafttræden finder de hidtil gældende regler anvendelse.
 
-Stk. 7. Udlændingelovens § 19, stk. 2, nr. 4, som indsat ved denne lovs § 1, nr. 18, gælder alene for udlændinge, der efter lovens ikrafttræden rejser til det land, hvor den myndighed, der har givet opholdstilladelsen, har fundet, at udlændingen risikerer forfølgelse omfattet af § 7.
+Stk. 7. Udlændingelovens § 19, stk. 2, nr. 4, som indsat ved denne lovs § 1, nr. 18, gælder alene for udlændinge, der efter lovens ikrafttræden rejser til det land, hvor den myndighed der har givet opholdstilladelsen, har fundet, at udlændingen risikerer forfølgelse omfattet af § 7.
 
 Stk. 8. Udlændingelovens § 33, stk. 3, 1. pkt., som ændret ved denne lovs § 1, nr. 22, gælder alene for udlændinge, der indgiver klage efter lovens ikrafttræden. For udlændinge, der har indgivet klage før lovens ikrafttræden, finder de hidtil gældende regler anvendelse.
 
@@ -638,7 +638,7 @@ Stk. 1. Loven træder i kraft dagen efter bekendtgørelsen i Lovtidende.
 
 Stk. 2. Udlændingelovens § 9, stk. 16, som ændret ved denne lovs § 1 finder ikke anvendelse for udlændinge, der inden lovforslagets fremsættelse har indgivet ansøgning om opholdstilladelse.
 
-Lov nr. 1743 af 27. december 2016 (Indførelse af en offentlig sanktionsliste over udenlandske religiøse forkyndere m.fl., som kan udelukkes fra at indrejse) indeholder følgende ikrafttrædelsesbestemmelser:
+Lov nr. 1743 af 27. december 2016 (Indførelse af en offentlig sanktionsliste over udenlandske religiøse forkyndere m.fl., som kan udelukkes fra at indrejse) indeholder følgende ikrafttrædelsesbestemmelse:
 
 § 2
 
@@ -1358,6 +1358,28 @@ Lov nr. 919 af 21. juni 2022 (Prøvelse af udvisning m.v.) indeholder følgende 
 
 Stk. 1. Loven træder i kraft dagen efter bekendtgørelsen i Lovtidende, jf. dog stk. 2.
 
-Stk. 2. § 3 træder i kraft den 1. juli 2022.
+Stk. 2. § 3 træder i kraft den 1. juli 2022. Stk. 3. § 3 finder ikke anvendelse på ansøgninger indgivet før den 1. juli 2022. For sådanne ansøgninger finder de hidtil gældende regler anvendelse.
 
-Stk. 3. § 3 finder ikke anvendelse på ansøgninger indgivet før den 1. juli 2022. For sådanne ansøgninger finder de hidtil gældende regler anvendelse.
+Lov nr. 332 af 28. marts 2023 (Indberetning i Schengeninformationssystemet (SIS) af tredjelandsstatsborgere, som er genstand for en afgørelse om tilbagesendelse, og bemyndigelse til udlændinge- og integrationsministeren til at fastsætte regler om udlændingemyndighedernes kompetence til at foretage indberetninger og forestå konsultationer i medfør af SIS-forordningen og SIS-tilbagesendelsesforordningen) indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 2
+
+Loven træder i kraft den 1. april 2023.
+
+Lov nr. 333 af 28. marts 2023 (Styrket international rekruttering) indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 2
+
+Stk. 1. Loven træder i kraft den 1. april 2023.
+
+Stk. 2. § 1, nr. 3, finder ikke anvendelse for udlændinge, der inden den 1. april 2023 har indgivet ansøgning om opholdstilladelse efter etableringskortordningen, jf. § 9 a, stk. 2, nr. 10, jf. lovbekendtgørelse nr. 1205 af 25. august 2022, eller som inden 1. april 2023 allerede er meddelt opholdstilladelse efter etableringskortordningen.
+
+Stk. 3. Regler fastsat i medfør af udlændingelovens § 9 h, stk. 15, jf. lovbekendtgørelse nr. 1205 af 25. august 2022, forbliver i kraft, indtil de ophæves eller afløses af forskrifter udstedt i medfør af udlændingelovens § 9 h, stk. 19.
+
+Stk. 4. § 1, nr. 19, finder anvendelse, uanset hvornår en virksomhed er certificeret.
+
+Lov nr. 486 af 13. maj 2023 (Ændring af visse regler om hjælp til hjemrejse, adgang til hjemrejsestøtte og administrativ frihedsberøvelse, gennemførelse af rådsafgørelse om Kroatiens fulde optagelse i Schengensamarbejdet og ophævelse af lov om videreførelse af visse rettigheder i forbindelse med Det Forenede Kongeriges udtræden af Den Europæiske Union uden en aftale) indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 5
+
+Loven træder i kraft den 15. maj 2023.
