@@ -1,0 +1,1 @@
+§ 76 a. Trafikstyrelsen kan udveksle oplysninger med agenturet i forbindelse med varetagelse af opgaver, der følger af EU-reglerne på jernbaneområdet, herunder oplysninger om EU-sikkerhedscertifikater og tilsyn hermed og oplysninger i forbindelse med udstedelse af køretøjsomsætningstilladelser og typegodkendelser.
