@@ -38,26 +38,14 @@ Stk. 2. Kommunen skal efter anmodning fra Udbetaling Danmark sende en kopi af de
 
 Stk. 3. (Udelades)
 
-Lov nr. 1711 af 27. december 2018 (Ændringer som følge af lov om Familieretshuset og skærpet fokus på beskyttelsen af barnet i sager efter forældreansvarsloven) indeholder følgende ikrafttrædelses- og overgangsbestemmelser:
+Lov nr. 755 af 13. juni 2023 (Indberetning af betalingsoplysninger til bekæmpelse af grænseoverskridende momssvig, omvendt betalingspligt for teleydelser, notifikationsordning i visse afgiftslove, ændring af regler om ansvarsfrihed, tydeliggørelse af praksis om skærpede bøder, oplysningspligt i forbindelse med delvis momsfradragsret, justering af regler om udtagning, fritagelse for lønsumsafgift på energivirksomheders aktiviteter vedrørende indefrysning i forbindelse med indefrysningsordning for høje energiregninger, ændring af regler om kompetence til opkrævning af visse underholdsbidrag m.v.) indeholder følgende ikrafttrædelses- og overgangsbestemmelser:
 
-Ikrafttræden
+§ 21
 
-§ 40
-
-Stk. 1. Loven træder i kraft den 1. april 2019, jf. dog stk. 2-4.
+Stk. 1. Loven træder i kraft den 30. juni 2023, jf. dog stk. 2-4.
 
 Stk. 2-5. (Udelades)
 
-Overgangsbestemmelser
+Stk. 6. Den 30. juni 2023 overdrager restanceinddrivelsesmyndigheden krav til opkrævning hos Udbetaling Danmark på underholdsbidrag omfattet af § 2, stk. 1, nr. 2, i lov om opkrævning af underholdsbidrag som affattet ved denne lovs § 20, nr. 2, hvis kravet den 1. oktober 2022 eller senere har været under opkrævning hos restanceinddrivelsesmyndigheden og den 30. juni 2023 fortsat er under opkrævning. Udbetaling Danmark indtræder ved denne overdragelse som fordringshaver for krav omfattet af 1. pkt. Den 30. juni 2023 indtræder Udbetaling Danmark endvidere som fordringshaver for krav omfattet af § 2, stk. 1, nr. 2, i lov om opkrævning af underholdsbidrag som affattet ved denne lovs § 20, nr. 2, der er overdraget til inddrivelse hos restanceinddrivelsesmyndigheden efter opkrævning hos restanceinddrivelsesmyndigheden i perioden fra og med den 1. oktober 2022 til og med den 29. juni 2023.
 
-§ 41
-
-(Udelades)
-
-§ 42
-
-(Udelades)
-
-§ 43
-
-(Udelades)
+Stk. 7. (Udelades)
