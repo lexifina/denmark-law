@@ -1,1 +1,1 @@
-§ 46 a. Kulturministeren kan yde rettighedshaverne kompensation for forskellen mellem provenuet for salg af blanke dvd’er i et bestemt år og for provenuet for salg af blanke dvd’er i 2005, i det omfang førstnævnte provenu er mindre i 2005.
+§ 46 a. Kulturministeren skal i 2023 og efterfølgende hvert tredje år foretage en evaluering af §§ 39-46 med henblik på at vurdere behovet for en ændring af bestemmelserne. Udgiften til evalueringerne dækkes af vederlaget, jf. §§ 39 og 39 a, og afholdes af fællesorganisationen.
