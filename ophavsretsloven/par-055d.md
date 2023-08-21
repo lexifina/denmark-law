@@ -1,0 +1,1 @@
+§ 55 d. §§ 55-55 c kan ikke fraviges til skade for ophavsmanden. §§ 55-55 c finder ikke anvendelse ved overdragelse af ophavsretten til værker i form af edb-programmer. §§ 55 a og 55 b finder ikke anvendelse på aftaler indgået mellem rettighedshavere og kollektive forvaltningsorganisationer eller uafhængige forvaltningsenheder, jf. lov om kollektiv forvaltning af ophavsret.
