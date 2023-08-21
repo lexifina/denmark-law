@@ -1,0 +1,1 @@
+§ 55 c. Tvister vedrørende gennemsigtighedsforpligtelsen efter § 55 a og aftalejusteringsordningen efter § 55 b kan af enhver af parterne indbringes for Ophavsretslicensnævnet, jf. § 47. Organisationer, som repræsenterer ophavsmænd og udøvende kunstnere, kan repræsentere disse i sager omfattet af 1. pkt. Nævnet kan fastsætte vilkårene, herunder vederlagets størrelse.

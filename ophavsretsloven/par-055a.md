@@ -1,0 +1,9 @@
+§ 55 a. Overdrager ophavsmanden sin ophavsret, jf. § 55, har ophavsmanden eller dennes repræsentant ret til at få opdaterede, relevante og fyldestgørende oplysninger om udnyttelsen af værket fra erhververen og eventuelle efterfølgende erhververe, jf. dog stk. 2. Ophavsmanden eller dennes repræsentant skal, så længe værket udnyttes, med en regelmæssighed, der er passende for den relevante sektor, og mindst en gang om året modtage oplysningerne. Oplysningerne skal navnlig omfatte udnyttelsesmåder, udnyttelsesomfang, alle genererede indtægter og skyldige vederlag. Er den administrative byrde ved at give oplysningerne uforholdsmæssig stor, er forpligtelsen begrænset til de oplysninger, der med rimelighed kan forventes.
+
+Stk. 2. Stk. 1 finder ikke anvendelse i det tilfælde, hvor ophavsmanden har bidraget til et værk, og hvor bidraget ikke er af væsentlig betydning for værket som helhed, medmindre ophavsmanden kan godtgøre, at vedkommende har brug for oplysningerne for at kunne vurdere, om vederlaget er uforholdsmæssigt lavt, og specifikt anmoder om oplysningerne til dette formål, jf. § 55 b.
+
+Stk. 3. Ophavsmanden eller dennes repræsentant er berettiget til at anmode om og modtage yderligere oplysninger fra efterfølgende erhververe efter stk. 1 i tilfælde, hvor den oprindelige erhverver ikke er i besiddelse af alle de relevante oplysninger. Ved erhvervelse af ophavsretten er enhver erhverver forpligtet til at oplyse ophavsmanden eller dennes repræsentant om efterfølgende erhververes identitet.
+
+Stk. 4. Enhver anmodning til en underlicenstager i medfør af stk. 3 og de fra underlicenstageren modtagne oplysninger skal gå gennem den oprindelige erhverver, medmindre særlige grunde taler imod.
+
+Stk. 5. For aftaler, der er underlagt eller baseret på kollektivt forhandlede aftaler, finder gennemsigtighedsreglerne i de relevante kollektive aftaler anvendelse, såfremt disse regler opfylder kriterierne fastsat i stk. 1-4.
