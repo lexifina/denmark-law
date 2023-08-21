@@ -1,0 +1,1 @@
+§ 17 b. §§ 17 c-17 e finder anvendelse på offentliggjorte værker i form af bøger, tidsskrifter, aviser, blade eller anden type skriftligt materiale, notationer og tilhørende illustrationer på ethvert medie.
