@@ -1,3 +1,3 @@
-§ 37 f. Transmissionssystemejer eller systemoperatør omfattet af § 37 d skal udarbejde, revidere og indsende årlige reguleringsregnskaber for den pågældendes opgaver, der opdelt i elektricitetsrelaterede og gasrelaterede opgaver til Forsyningstilsynet. Forsyningstilsynet offentliggør reguleringsregnskaberne.
+§ 37 f. Transmissionssystemejer eller systemoperatør omfattet af § 37 d skal udarbejde, revidere og indsende årlige reguleringsregnskaber for den pågældendes opgaver, der er opdelt i elektricitetsrelaterede og gasrelaterede opgaver til Forsyningstilsynet. Forsyningstilsynet offentliggør reguleringsregnskaberne.
 
 Stk. 2. Forsyningstilsynet fastsætter nærmere regler om årlige reguleringsregnskaber efter stk. 1, herunder om indhold, opbevaring, revision og indsendelsens form, om indsendelsen skal ske elektronisk eller ved anvendelse af et bestemt digitalt system, og om frist for indsendelse og konsekvens af fristoverskridelse.
