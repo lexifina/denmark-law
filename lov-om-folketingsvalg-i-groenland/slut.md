@@ -1,13 +1,11 @@
-Indenrigs- og Boligministeriet, den 25. november 2021
+Indenrigs- og Sundhedsministeriet, den 8. september 2023
 
-Nikolaj Stenfalk
+P.M.V. Nikolaj Stenfalk
 
 / Christine Boeskov
 
 Bilag 1
 
-Ilanngussaq
-
-Fortegnelse over valgkredse i hver kommune Kommuneni tamani qinersivinnut nalunaarsuut
+Ilanngussaq Fortegnelse over valgkredse i hver kommune Kommuneni tamani qinersivinnut nalunaarsuut
 
 Kommune Valgkredse i hver kommune (Valgdistrikt) Valgstedet eller afstemningsdistrikt (Afstemningssted) Valgkredsens område (Tilknyttede bosteder) Kommune Kujalleq Nanortalik 1 Nanortalik Nanortalik 2 Aappilattoq (Kuj) Aappilattoq (Kuj) Ikerasassuaq 3 Narsarmijit Narsarmijit 4 Tasiusaq (Kuj) Tasiusaq (Kuj) Nuugaarsuk Saputit Saputit Tasia 5 Ammassivik Ammassivik Qallimiut Qorlortorsuaq 6 Alluitsup Paa Alluitsup Paa Alluitsoq Qaqortoq 1 Qaqortoq Qaqortoq Kingittoq Eqaluit Akia Kangerluarsorujuk Qanisartuut Tasiluk Tasilikulooq Saqqaa Upernaviarsuk Illorsuit Qaqortukulooq 2 Eqalugaarsuit Eqalugaarsuit 3 Qassimiut Qassimiut Isortoq 4 Saarloq Saarloq Narsaq 1 Narsaq Narsaq Eqaluit Ilua Ipiutaq Narsarsuaaraq 2 Igaliku Igaliku Atarnaatsoq Igaliku Kujalleq Qorlortukasik Timerliit Uummannartuuaraq 3 Narsarsuaq Narsarsuaq Kiattuut 4 Qassiarsuk Qassiarsuk Annanngivit Inneruulalik Issormiut Kangerlua Nunataaq Qinngua Qinngua Kangilleq Qorlortoq Qorlortup Itinnera Sillisit Tasiusaq Kommuneqarfik Sermersooq Paamiut 1 Paamiut Paamiut 2 Arsuk Arsuk Ivittuut Nuuk 1 Nuuk Nuuk 2 Pituffik Pituffik 3 Kapisillit Kapisillit 4 Qeqertarsuatsiaat Qeqertarsuatsiaat Tasiilaq 1 Tasiilaq Tasiilaq 2 Isertoq Isertoq 3 Kulusuk Kulusuk 4 Kuummiit Kuummiit 5 Tiilerilaaq Tiilerilaaq 6 Sermiligaaq Sermiligaaq Ittoqqortoormiit 1 Ittoqqortoormiit Ittoqqortoormiit Nerlerit Inaat Qeqqata Kommunia Maniitsoq 1 Maniitsoq Maniitsoq 2 Atammik Atammik 3 Napasoq Napasoq 4 Kangaamiut Kangaamiut Sisimiut 1 Sisimiut Sisimiut 2 Itilleq Itilleq 3 Kangerlussuaq Kangerlussuaq 4 Sarfannguit Sarfannguit Kommune Qeqertalik Kangaatsiaq 1 Kangaatsiaq Kangaatsiaq 2 Attu Attu 3 Iginniarfik Iginniarfik 4 Ikerasaarsuk (Qeqer) Ikerasaarsuk (Qeqer) 5 Niaqornaarsuk Niaqornaarsuk Aasiaat 1 Aasiaat Aasiaat 2 Akunnaaq Akunnaaq 3 Kitsissuarsuit Kitsissuarsuit 4 Ikamiut Ikamiut Qasigiannguit 1 Qasigiannguit Qasigiannguit Qeqertarsuaq 1 Qeqertarsuaq Qeqertarsuaq 2 Kangerluk Kangerluk Avannaata Kommunia Ilulissat 1 Ilulissat Ilulissat 2 Ilimanaq Ilimanaq 3 Oqaatsut Oqaatsut 4 Qeqertaq Qeqertaq 5 Saqqaq Saqqaq Uummannaq 1 Uummannaq Uummannaq 2 Ikerasak Ikerasak 3 Niaqornat Niaqornat 4 Qaarsut Qaarsut 5 Saattut Saattut 6 Ukkusissat Ukkusissat Upernavik 1 Upernavik Upernavik 2 Aappilattoq (Ava) Aappilattoq (Ava) 3 Kangersuatsiaq Kangersuatsiaq 4 Kullorsuaq Kullorsuaq 5 Innaarsuit Innaarsuit 6 Naajaat Naajaat 7 Nuussuaq Nuussuaq 8 Tasiusaq (Ava) Tasiusaq (Ava) 9 Nutaarmiut Nutaarmiut Ikerasaarsuk (Ava) 10 Upernavik Kujalleq Upernavik Kujalleq Qaanaaq 1 Qaanaaq Qaanaaq 2 Qeqertat Qeqertat 3 Savissivik Savissivik 4 Siorapaluk Siorapaluk

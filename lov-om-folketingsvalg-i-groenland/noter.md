@@ -1,0 +1,3 @@
+1) Lovændringen vedrører § 3, stk. 1-3, § 14, § 15, stk. 1, 1. pkt., og stk. 2, 1. og 2. pkt., § 15, stk. 3 og 4, og stk. 5, 1. pkt., § 16, stk. 3, 2. pkt., § 18, stk. 3, 1. pkt., og § 26, stk. 3, 3. og 4. pkt.
+
+2) Lov nr. 411 af 25. april 2023 er trådt i kraft den 1. juli 2023, jf. bekendtgørelse nr. 853 af 13. juni 2023 om ikrafttræden af lov om ændring af lov om det Centrale Personregister, lov om folketingsvalg i Grønland og lov om valg til Folketinget (Bopælsregistrering i Danmark og Grønland af personer, der af Grønlands Selvstyre eller den danske stat er beordret til tjeneste uden for riget, optagelse på folketingsvalglisterne i Danmark og Grønland m.v.).
