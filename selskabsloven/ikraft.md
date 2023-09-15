@@ -247,3 +247,19 @@ Stk. 1. Loven gælder ikke for Færøerne og Grønland, jf. dog stk. 2 og 3.
 Stk. 2. §§ 1-5 kan ved kongelig anordning helt eller delvis sættes i kraft for Grønland med de ændringer, som de grønlandske forhold tilsiger. Loven kan endvidere sættes i kraft på forskellige tidspunkter.
 
 Stk. 3. (Udelades)
+
+Lov nr. 243 af 7. marts 2023 (Implementering af mobilitetsdirektivet m.v.) indeholder følgende ikrafttrædelsesbestemmelser:
+
+§ 9
+
+Stk. 1. Loven træder i kraft dagen efter bekendtgørelsen i Lovtidende, jf. dog stk. 2-5.
+
+Stk. 2-5. (Udelades)
+
+§ 10
+
+Stk. 1. Loven gælder ikke for Færøerne og Grønland, jf. dog stk. 2-4.
+
+Stk. 2. §§ 1 og 8 kan ved kongelig anordning helt eller delvis sættes i kraft for Grønland med de ændringer, som de grønlandske forhold tilsiger. Dele af § 1 kan endvidere sættes i kraft på forskellige tidspunkter.
+
+Stk. 3 og 4. (Udelades)
