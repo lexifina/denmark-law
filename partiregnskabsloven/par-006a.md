@@ -2,4 +2,6 @@
 
 Stk. 2. På samme måde straffes den, der afgiver urigtig erklæring efter § 4, stk. 2.
 
-Stk. 3. Der kan pålægges partiorganisationer (juridiske personer) strafansvar efter reglerne i straffelovens 5. kapitel.
+Stk. 3. På samme måde straffes den, der undlader at indsende en bekræftet kopi af regnskabet til Folketinget inden for den frist, der er fastsat i § 5.
+
+Stk. 4. Der kan pålægges partiorganisationer (juridiske personer) strafansvar efter reglerne i straffelovens 5. kapitel.
