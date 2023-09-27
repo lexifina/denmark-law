@@ -4,4 +4,4 @@
 
 Stk. 2. Reguleringen sker på grundlag af de beløb, der var gældende på reguleringstidspunktet før afrunding.
 
-Stk. 3. Økonomi- og indenrigsministeren bekendtgør hvert år, hvilken regulering der skal finde sted. Reguleringen foretages første gang den 1. januar 2018.
+Stk. 3. Indenrigs- og sundhedsministeren bekendtgør hvert år, hvilken regulering der skal finde sted. Reguleringen foretages første gang den 1. januar 2018.
