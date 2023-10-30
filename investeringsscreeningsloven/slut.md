@@ -1,7 +1,5 @@
-Givet på Amalienborg, den 10. maj 2021
+Erhvervsstyrelsen, den 27. oktober 2023
 
-Under Vor Kongelige Hånd og Segl
+Torsten A. Andersen
 
-MARGRETHE R.
-
-/ Simon Kollerup
+/ Signe Flege
