@@ -1,0 +1,1 @@
+1) Lovændringen vedrører overskriften før § 1, § 1, stk. 1 og 2, overskriften før § 2, overskriften efter § 3, § 3 a, § 6, stk. 1, nr. 3, §§ 8-9, kapitel 2 a, §§ 12-13, § 14, 2. pkt., kapitel 3 a, overskriften til kapitel 5, § 20, stk. 1, 1. pkt., § 20, stk. 1, 2. pkt., § 29, stk. 3, § 31, stk. 2, nr. 2, § 32, stk. 2, nr. 1, § 38, stk. 2, og § 41, stk. 1, 1. pkt., og stk. 2.
