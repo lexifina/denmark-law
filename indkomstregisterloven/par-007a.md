@@ -4,4 +4,6 @@ Stk. 2. Finansielle virksomheder, som er omfattet af regler om redelig forretnin
 
 Stk. 3. Finansielle virksomheder kan desuden efter samtykke fra den registrerede få adgang til oplysninger i indkomstregisteret, som er nødvendige til efterlevelse af bekendtgørelse om ledelse og styring af pengeinstitutter m.fl., med hensyn til at der skal tilvejebringes opdaterede oplysninger om den registrerede. Adgang til oplysningerne forudsætter, at den registrerede er kunde i den finansielle virksomhed.
 
-Stk. 4. Adgang efter stk. 1-3 forudsætter, at virksomheden har indgået en aftale med told- og skatteforvaltningen om adgangen. Sådanne aftaler skal indeholde bestemmelser om betaling fra virksomheden i overensstemmelse med lov om videreanvendelse af den offentlige sektors informationer.
+Stk. 4. Finansielle rådgivere kan efter samtykke fra den registrerede få adgang til oplysninger i indkomstregisteret, som er nødvendige til brug for konkrete rådgivningssituationer.
+
+Stk. 5. Adgang efter stk. 1-4 forudsætter, at virksomheden har indgået en aftale med told- og skatteforvaltningen om adgangen. Sådanne aftaler skal indeholde bestemmelser om betaling fra virksomheden i overensstemmelse med lov om videreanvendelse af den offentlige sektors informationer.
