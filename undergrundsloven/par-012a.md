@@ -14,4 +14,4 @@ Stk. 5. Såfremt klima-, energi- og forsyningsministeren fastsætter, at det i e
 
 Stk. 6. Såfremt klima-, energi- og forsyningsministeren fastsætter, at det i en procedure for meddelelse af tilladelser skal indgå, at udpegning af operatør for en gruppe af virksomheder, der i forening meddeles tilladelser, foretages af ministeren, skal udpegning ske på grundlag af sagkundskab og eventuelt andre af de i stk. 1-4 omhandlede kriterier.
 
-Stk. 7. De i stk. 1-6 nævnte kriterier offentliggøres sammen med de i § 12, stk. 1, litra a-c, nævnte indkaldelser af ansøgninger. Enhver ændring af disse kriterier offentliggøres på tilsvarende måde.
+Stk. 7. De i stk. 1-6 nævnte kriterier offentliggøres sammen med de i § 12, stk. 1, litra a, nævnte indkaldelser af ansøgninger. Enhver ændring af disse kriterier offentliggøres på tilsvarende måde.

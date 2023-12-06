@@ -1,8 +1,10 @@
 ## Kapitel 6 a
 
-## Særlige bestemmelser om geologisk lagring og rørført transport af CO2 (kuldioxid)
+## Særlige bestemmelser om geologisk lagring af CO2 og rørført transport heraf med undtagelse af geologisk lagring af CO2 på under 100 kt med henblik på forskning, udvikling eller afprøvning af nye produkter og processer
 
-§ 23 e. I dette kapitel forstås ved følgende:
+§ 23 e. Kapitel 6 a finder ikke anvendelse på geologisk lagring af CO2 på under 100 kt med henblik på forskning, udvikling eller afprøvning af nye produkter og processer.
+
+Stk. 2. I dette kapitel forstås ved følgende:
 
 1) Affald: Stoffer, der er defineret som affald i bekendtgørelse nr. 1632 af 21. december 2010 om affald.
 
