@@ -1,0 +1,1 @@
+§ 8 a. Transportministeren kan bemyndige Sund & Bælt Holding A/S eller et selskab ejet af Sund & Bælt Holding A/S til at stifte et selskab, som har til formål at indtræde som ejer af produktionsområdet og produktionsfaciliteterne ved Rødbyhavn, jf. § 1 a, stk. 1, i lov om anlæg og drift af en fast forbindelse over Femern Bælt med tilhørende landanlæg i Danmark.
