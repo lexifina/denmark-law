@@ -1,0 +1,7 @@
+§ 9 a. Fonden kan kræve fuld refusion for en udbetalt erstatning til en skadelidt bosat i Danmark, jf. § 5 d, hvis skadesforsikringsselskabet under enten konkurs eller likvidation, der har udstedt motoransvarsforsikringspolicen, er beliggende i et andet land inden for Den Europæiske Union eller et land, som Unionen har indgået aftale med på det finansielle område. Fonden kræver refusion fra det organ, der på området for motoransvarsforsikringer er oprettet eller godkendt til samme formål som Fonden i hjemlandet for skadesforsikringsselskabet.
+
+Stk. 2. I det omfang et organ, der svarer til Fonden i et andet land inden for Den Europæiske Union eller et land, som Unionen har indgået aftale med på det finansielle område, har udbetalt erstatning under en motoransvarsforsikring tegnet i et dansk forsikringsselskab, der er gået konkurs eller er under likvidation, og krævet refusion af Fonden, skal Fonden refundere den udbetalte erstatning til det pågældende erstatningsorgan.
+
+Stk. 3. Fonden skal betale refusion i henhold til stk. 2 inden for 6 måneder, medmindre andet er aftalt skriftligt mellem de to organer.
+
+Stk. 4. Har Fonden ydet erstatning til en skadelidt bosat i Danmark, jf. § 5 d, hvor Fonden kan kræve fuld refusion i henhold til stk. 1, indtræder Fonden i skadelidtes rettigheder overfor skadevolderen eller dennes forsikringsselskab med undtagelse af tilfælde, hvor skadevolderen er forsikringstageren eller en anden forsikret person, som det insolvente forsikringsselskab ville have dækket efter national ret.

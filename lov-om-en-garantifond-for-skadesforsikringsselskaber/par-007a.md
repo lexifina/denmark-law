@@ -1,0 +1,3 @@
+§ 7 a. Fonden skal efter anmeldelse af et krav i henhold til § 5 d give skadelidte et begrundet erstatningstilbud med helt eller delvis opgjort erstatning eller et begrundet svar med angivelse af, om erstatningspligten afvises eller ikke er fuldt opgjort. Erstatningstilbuddet skal gives senest 3 måneder efter anmeldelse af kravet.
+
+Stk. 2. Fonden skal udbetale erstatning, jf. stk. 1, til skadelidte uden unødigt ophold og senest 3 måneder efter skadelidtes accept af erstatningstilbuddet, jf. stk. 1. Er skaden ikke fuldt opgjort, finder kravene vedrørende udbetaling anvendelse på denne delvis opgjorte skade fra det tidspunkt, hvor erstatningstilbuddet accepteres.

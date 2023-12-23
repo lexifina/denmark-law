@@ -1,0 +1,1 @@
+§ 5 d. Fonden dækker erstatningskrav til skadelidte, der er bosat i Danmark, for tingsskade eller personskade forvoldt af et køretøj, som er dækket af en motoransvarsforsikring. Den skadelidte kan anmode om erstatning direkte hos Fonden.

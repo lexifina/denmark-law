@@ -1,1 +1,5 @@
-§ 4 a. (Ophævet)
+§ 4 a. Direkte tegnende skadesforsikringsselskaber, der har fået Finanstilsynets tilladelse til at drive forsikringsvirksomhed, skal betale bidrag pr. motoransvarsforsikring tegnet for forsikringstagere i Danmark og i andre lande inden for Den Europæiske Union eller lande, som Unionen har indgået aftale med på det finansielle område.
+
+Stk. 2. Skadesforsikringsselskaber nævnt i § 3, stk. 1, nr. 2 og 3, skal ikke være medlem af og yde bidrag til Fonden, hvis de alene tegner motoransvarsforsikringer i Danmark.
+
+Stk. 3. Finanstilsynet meddeler en gang om året størrelsen af det beløb pr. motoransvarsforsikring tegnet i danske skadesforsikringsselskaber for forsikringstagere i Danmark eller i et andet land inden for Den Europæiske Union eller et land, som Unionen har indgået aftale med på det finansielle område, som skadesforsikringsselskaber, som har fået Finanstilsynets tilladelse til at udøve forsikringsvirksomhed, skal anvende ved beregning af bidrag til Fonden. Finanstilsynet skal ved fastsættelse af beløbet tage højde for, at skadesforsikringsselskaber omfattet af stk. 1 i videst muligt omfang dækker de udgifter, som er forbundet med Fondens administration af motoransvarsforsikringer. Finanstilsynet skal offentliggøre meddelelsen, senest 6 måneder før skadesforsikringsselskaberne skal indbetale bidrag til Fonden.
