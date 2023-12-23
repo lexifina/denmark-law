@@ -1,0 +1,1 @@
+§ 8 a. Er et forsikringsselskab under konkursbehandling eller likvidation, skal forsikringsselskabet eller dets kurator eller likvidator underrette Fonden, når selskabet yder erstatning eller afviser ansvar for et krav, som Fonden også har modtaget.
