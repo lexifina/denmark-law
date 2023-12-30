@@ -1,0 +1,1 @@
+1) Loven indeholder bestemmelser, der gennemfører Europa-Parlamentets og Rådets direktiv (EU) 2021/2167 af 24. november 2021 om kreditservicevirksomheder og kreditkøbere og om ændring af direktiv 2008/48/EF og 2014/17/EU, EU-Tidende 2021, nr. L 438, side 1.
