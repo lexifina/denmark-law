@@ -1,0 +1,9 @@
+## Automatisk udbetaling efter ferieafholdelsesperiodens udløb
+
+§ 24 a. Arbejdsgiveren udbetaler løn under ferie og eventuelt ferietillæg for ikke afholdt ferie efter ferieafholdelsesperiodens udløb til lønmodtageren, hvis beløbet højst er 5.000 kr. før skat og arbejdsmarkedsbidrag og beløbet vedrører ferie ud over 4 uger.
+
+Stk. 2. Den, der administrerer feriegodtgørelsen, jf. § 3, stk. 4, udbetaler efter ferieafholdelsesperiodens udløb uhævet feriegodtgørelse til lønmodtageren, hvis beløbet højst er 5.000 kr. før skat og arbejdsmarkedsbidrag og beløbet stammer fra et ansættelsesforhold, der er ophørt inden ferieafholdelsesperiodens udløb. Er lønmodtageren ikke fratrådt, udbetales uhævet feriegodtgørelse, hvis beløbet er på højst 5.000 kr. før skat og arbejdsmarkedsbidrag og beløbet vedrører optjent ferie ud over 4 uger. Er feriegodtgørelsen indbetalt til en feriekasse efter fradrag af skat og arbejdsmarkedsbidrag, er beløbsgrænsen efter 1. og 2. pkt. 3.000 kr. efter skat og arbejdsmarkedsbidrag.
+
+Stk. 3. FerieKonto udbetaler efter ferieafholdelsesperiodens udløb feriegodtgørelse til lønmodtageren, hvis beløbet højst er 3.000 kr. efter fradrag af skat og arbejdsmarkedsbidrag. Stammer feriegodtgørelsen ikke fra et ophørt ansættelsesforhold, ferie ud over 4 uger eller afholdt ferie i ferieafholdelsesperioden, kan FerieKonto træffe afgørelse om, at beløbet tilbagebetales, jf. § 36, stk. 2, nr. 4.
+
+Stk. 4. Feriepengeinfo sender en anmodning om udbetaling til den, der administrerer feriegodtgørelsen efter stk. 2, med en meddelelse til lønmodtageren, når feriegodtgørelsen ved ferieafholdelsesperiodens udløb er højst 5.000 kr. før fradrag af skat og arbejdsmarkedsbidrag, jf. dog stk. 2, 3. pkt. Den, der skal udbetale feriegodtgørelsen, må kun udbetale feriegodtgørelsen, hvis betingelserne i stk. 2 er opfyldt.
