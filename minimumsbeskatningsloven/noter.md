@@ -1,0 +1,1 @@
+1) Loven gennemfører Rådets direktiv (EU) 2022/2523 af 15. december 2022 om sikring af en global minimumsskattesats for multinationale koncerner og store nationale koncerner i Unionen, EU-Tidende 2022, nr. L 328, side 1, som berigtiget i EU-Tidende 2023, nr. L 13, side 9.
