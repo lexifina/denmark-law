@@ -2,7 +2,7 @@
 
 Stk. 2. Fritaget for afgift, jf. § 1, stk. 1, nr. 5, er:
 
-1) Biomasseaffald, der kan tilføres forbrændingsanlæg uden kommunal anvisning i henhold til Miljøministeriets bekendtgørelse nr. 1637 af 13. december 2006 om biomasseaffald, i læs, der udelukkende indeholder denne type affald.
+1) Biomasseaffald, der kan tilføres forbrændingsanlæg uden kommunal anvisning i henhold til Miljøministeriets bekendtgørelse nr. 1224 af 4. oktober 2023 om biomasseaffald, i læs, der udelukkende indeholder denne type affald.
 
 2) Kødmel, benmel og fedt, som stammer fra forarbejdning af animalsk affald og tilføres et forbrændingsanlæg i hele selvstændige læs fra en godkendt forarbejdningsvirksomhed. Det er en betingelse for afgiftsfritagelsen, at kød- og benmelet ikke må anvendes i foderet til dyr, der anvendes til fødevareproduktion.
 
@@ -12,7 +12,7 @@ Stk. 2. Fritaget for afgift, jf. § 1, stk. 1, nr. 5, er:
 
 Stk. 3. Følgende affald er fritaget for afgift, jf. § 1, stk. 1, nr. 6:
 
-1) Biomasseaffald, der kan tilføres forbrændingsanlæg uden kommunal anvisning i henhold til Miljøministeriets bekendtgørelse nr. 1637 af 13. december 2006 om biomasseaffald, i læs, der udelukkende indeholder denne type affald.
+1) Biomasseaffald, der kan tilføres forbrændingsanlæg uden kommunal anvisning i henhold til Miljøministeriets bekendtgørelse nr. 1224 af 4. oktober 2023 om biomasseaffald, i læs, der udelukkende indeholder denne type affald.
 
 2) Kødmel, benmel og fedt, som stammer fra forarbejdning af animalsk affald og tilføres et forbrændingsanlæg i hele selvstændige læs fra en godkendt forarbejdningsvirksomhed. Det er en betingelse for afgiftsfritagelsen, at kød- og benmelet ikke må anvendes i foderet til dyr, der anvendes til fødevareproduktion.
 
