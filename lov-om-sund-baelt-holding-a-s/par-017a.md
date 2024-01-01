@@ -1,0 +1,9 @@
+§ 17 a. Sund & Bælt Holding A/S kan foretage automatisk registrering af nummerplader i relation til selskabets opgaver efter reglerne om miljøzoneordningen i lov om miljøbeskyttelse. Sund & Bælt Holding A/S kan i relation til selskabets opgaver efter reglerne om vejafgiftsordningen i lov om vejafgift anvende fast og mobilt vejsideudstyr til overvågning, herunder tv-overvågning og automatisk registrering af nummerplader, på det afgiftsbelagte vejnet med henblik på at understøtte afgiftsopkrævningen.
+
+Stk. 2. Sund & Bælt Holding A/S kan indsamle og behandle personoplysninger, når det er nødvendigt af hensyn til udførelsen af Sund & Bælt Holding A/S’ opgaver i forbindelse med miljøzoneordningen og vejafgiftsordningen. Under samme betingelser som nævnt i 1. pkt. kan Sund & Bælt Holding A/S indsamle oplysninger i Køretøjsregisteret, herunder personnumre og beskyttede navne- og adresseoplysninger, og behandle disse.
+
+Stk. 3. Sund & Bælt Holding A/S kan videregive personoplysninger, herunder personnumre og beskyttede navne- og adresseoplysninger, til kontrolmyndighederne, når det er nødvendigt af hensyn til udførelsen af kontrolmyndighedernes opgaver vedrørende henholdsvis miljøzoneordningen og vejafgiftsordningen.
+
+Stk. 4. Sund & Bælt Holding A/S kan på baggrund af registrering af nummerplader, jf. stk. 1, opbygge en køretøjsdatabase til det formål at lette genkendelse af køretøjer i forbindelse med selskabets opgaver vedrørende miljøzoneordningen og vejafgiftsordningen.
+
+Stk. 5. Sund & Bælt Holding A/S kan foretage tv-overvågning af vejarealer og tekniske anlæg i forbindelse med selskabets opgaver vedrørende miljøzoneordningen og vejafgiftsordningen og foretage registrering og opbevaring af billeder. Der skal ved skiltning eller på anden tydelig måde gives oplysninger herom.
