@@ -1,0 +1,1 @@
+§ 80 d. Overholdes kravene, jf. § 80, stk. 1, 3 eller 4, eller regler fastsat i medfør af § 80, stk. 5, ikke, kan told- og skatteforvaltningen give påbud om overholdelse af kravene inden en fastsat frist og om betaling af daglige bøder fra overskridelse af fristen, og indtil påbuddet efterkommes.
