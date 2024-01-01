@@ -1,4 +1,4 @@
-§ 24 b. Er der indleveret flere kandidatlister med samme listebetegnelse, der ikke er omfattet af § 24 a, stk. 2-4, og ikke er omfattet af stk. 7, træffer valgbestyrelsen afgørelse om, hvilken kandidatliste eller hvilke kandidatlister der ikke kan anvende den angivne listebetegnelse, jf. stk. 2-6. 1. pkt. er ikke til hinder for, at kandidatlister anvender samme listebetegnelse med tilføjelse af en betegnelse, der angiver et særligt lokalt eller andet tilhørsforhold.
+§ 24 b. Er der indleveret flere kandidatlister med samme listebetegnelse, der ikke er omfattet af § 24 a, stk. 2-4, og ikke er omfattet af stk. 7, træffer valgbestyrelsen afgørelse om, hvilken kandidatliste eller hvilke kandidatlister der ikke kan anvende den angivne listebetegnelse, jf. stk. 2-6.
 
 Stk. 2. Ved valgbestyrelsens afgørelse efter stk. 1 har en kandidatliste, der ved det seneste valg opnåede repræsentation i kommunalbestyrelsen henholdsvis regionsrådet under den angivne listebetegnelse, og som 11 uger før valgdagen fortsat er repræsenteret i kommunalbestyrelsen henholdsvis regionsrådet under den angivne listebetegnelse, fortrinsret til at anvende denne listebetegnelse.
 
