@@ -1,0 +1,5 @@
+§ 36 c. Dyrlæger betaler til dækning af omkostninger ved kontrol med overholdelse af dyrlægers anmeldepligt vedrørende smitsomme husdyrsygdomme et årligt beløb på 2.063 kr., hvis dyrlægen pr. 1. juli er registreret i VetStat (Dyrlægeregistret) med mindst én sundhedsrådgivningsaftale eller pr. 1. juli er registreret i VetStat som tilknyttet en dyrlægepraksis og inden for perioden fra den 1. januar til og med den 30. juni er registreret med mindst ti ordinationer i VetStat til andre dyregrupper end dyregrupperne »hest« og »kæledyr«.
+
+Stk. 2. Beløbet i stk. 1 bliver årligt pr. 1. januar pris- og lønreguleret med den sats for det generelle pris- og lønindeks, der er fastsat af Finansministeriet. Det regulerede beløb afrundes til nærmeste hele kronebeløb og offentliggøres ved bekendtgørelse.
+
+Stk. 3. Ministeren for fødevarer, landbrug og fiskeri kan fastsætte regler om opkrævning efter stk. 1. Ministeren kan endvidere fastsætte regler om helt eller delvis at undlade opkrævning efter stk. 1.
