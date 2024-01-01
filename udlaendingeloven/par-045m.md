@@ -1,0 +1,1 @@
+§ 45 m. Reglerne i dette kapitel om sagens behandling i byretten gælder tilsvarende for sagens behandling i landsretten og Højesteret.
