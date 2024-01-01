@@ -25,5 +25,3 @@ Stk. 2. Der ses desuden bort fra formue, som skyldes beløb, der er udbetalt som
 Stk. 3. Endvidere bortses fra godtgørelse og afkastet af godtgørelse til hiv-smittede blødere m.fl. og hiv-positive transfusionssmittede samt fra erstatning og afkastet af erstatning, jf. lov om erstatning for skader ved lsd-behandling.
 
 Stk. 4. Yderligere bortses fra udenlandske erstatninger, der svarer til de i stk. 1-3 nævnte.
-
-Stk. 5. Ved opgørelse af formue efter § 14 b fratrækkes et beløb svarende til det samlede lån ydet efter kapitel 2 i lov om lån til betaling af grundskyld m.v. Ved den årlige opgørelse af formuen hver den 1. januar, jf. § 39 a, i årene 2019 eller senere fratrækkes dog et beløb svarende til det samlede lån den 31. december i det forudgående år. Beløbet fratrækkes fra den 1. juli 2018.
