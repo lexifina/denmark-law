@@ -1,0 +1,1 @@
+§ 180 a. Har jobcenteret truffet afgørelse om afslag på en fælles indstilling fra arbejdsløshedskassen og personen, som jobcenteret har modtaget i den periode, hvor arbejdsløshedskassen har ansvaret for kontaktforløbet, jf. § 27, stk. 2, om tilbud efter kapitel 11-14 eller understøttende indsatser efter kapitel 26-28, begrunder jobcenteret afslaget over for arbejdsløshedskassen.
