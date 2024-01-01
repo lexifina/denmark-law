@@ -4,7 +4,7 @@ Stk. 2. En stemmeseddel, herunder en brevstemmeseddel, er ugyldig, hvis
 
 1) den er blank,
 
-2) den ikke er afkrydset i overensstemmelse med § 105 g, stk. 3,
+2) vælgerens stemme på stemmesedlen ikke er afmærket med kryds i overensstemmelse med § 105 g, stk. 3, eller tilsvarende afmærkning,
 
 3) det må antages, at stemmesedlen ikke er udleveret på afstemningsstedet,
 
@@ -20,4 +20,4 @@ Stk. 4. Når stemmeoptællingen er afsluttet, indføres resultatet i afstemnings
 
 Stk. 5. Stemmematerialet sammenpakkes og afleveres til kommunalbestyrelsen.
 
-Stk. 6. Indenrigs- og boligministeren kan fastsætte nærmere regler om bedømmelsen af stemmesedler, herunder brevstemmesedler.
+Stk. 6. Indenrigs- og sundhedsministeren kan fastsætte nærmere regler om bedømmelsen af stemmesedler, herunder brevstemmesedler.

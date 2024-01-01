@@ -1,0 +1,3 @@
+§ 15 a. Kommunalbestyrelsen skal straks behandle indsigelser om manglende modtagelse af valgkort eller modtagelse af valgkort med fejlagtigt indhold og i givet fald berigtige fejlene ved udfærdigelse af nye valgkort og ved rettelser i valglisten. Sådanne rettelser kan foretages til og med valgdagen.
+
+Stk. 2. Kommunalbestyrelsen skal endvidere til og med valgdagen berigtige valglisten, hvis kommunen modtager meddelelse om fraflytning til udlandet, dødsfald, erhvervelse, henholdsvis fortabelse, af dansk indfødsret eller fortabelse af statsborgerskab i en af de øvrige medlemsstater i Den Europæiske Union.

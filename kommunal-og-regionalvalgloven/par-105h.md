@@ -8,9 +8,9 @@ Stk. 4. Brevstemmeafgivning i de boformer og boliger m.v., der er nævnt i § 60
 
 Stk. 5. Brevstemmeafgivning på de institutioner, der er nævnt i § 60, stk. 3, kan kun finde sted på institutioner beliggende i den region, hvor kommunen er beliggende, og på institutioner uden for den region, hvor kommunen er beliggende, efter aftale mellem kriminalforsorgen og kommunalbestyrelsen i den kommune, hvor folkeafstemningen afholdes.
 
-Stk. 6. Anmodning om at brevstemme i hjemmet af de grunde, der er nævnt i § 60, stk. 4, 1. pkt., kan tidligst indgives til opholdskommunen 4 uger før afstemningsdagen og skal indgives senest 12 dage før afstemningsdagen. Er 12 dage før afstemningsdagen en lørdag eller søndag, forlænges fristen for at indgive anmodning om at brevstemme i hjemmet til førstkommende mandag kl. 12. Kommunalbestyrelsen kan fastsætte en senere frist for indgivelse af anmodningen efter 1. pkt., dog senest tredjesidste søgnedag før afstemningsdagen.
+Stk. 6. Anmodning om at brevstemme i hjemmet af de grunde, der er nævnt i § 60, stk. 4, 1. pkt., kan tidligst indgives til opholdskommunen 4 uger før afstemningsdagen og skal indgives senest 12 dage før afstemningsdagen. Er 12 dage før afstemningsdagen en lørdag eller søndag eller anden helligdag, forlænges fristen for at indgive anmodning om at brevstemme i hjemmet til førstkommende arbejdsdag kl. 12. Kommunalbestyrelsen kan fastsætte en senere frist for indgivelse af anmodningen efter 1. pkt., dog senest den tredjesidste hverdag, herunder lørdag, før afstemningsdagen.
 
-Stk. 7. Brevstemmeafgivning efter stk. 1-6, jf. § 59 og § 60, stk. 1-3, stk. 4, 1. pkt., og stk. 5, kan finde sted de sidste 3 uger før afstemningsdagen, dog senest tredjesidste søgnedag før afstemningsdagen.
+Stk. 7. Brevstemmeafgivning efter stk. 1-6, jf. § 59 og § 60, stk. 1-3, stk. 4, 1. pkt., og stk. 5, kan finde sted de sidste 3 uger før afstemningsdagen, dog senest den tredjesidste hverdag, herunder lørdag, før afstemningsdagen.
 
 Stk. 8. Ved brevstemmeafgivning skal anvendes særligt brevstemmemateriale, der er tilvejebragt af kommunalbestyrelsen. Brevstemmematerialet består af en stemmeseddel med tilhørende konvolut, et følgebrev og en yderkuvert. Brevstemmesedlen udformes i overensstemmelse med § 105 f, stk. 1-3. Brevstemmematerialet skal senest 3 uger før afstemningsdagen være klart til brevstemmeafgivning.
 
@@ -30,4 +30,4 @@ Stk. 11. En brevstemme kan ikke komme i betragtning, hvis
 
 5) brevstemmen ikke er afgivet inden for de foreskrevne frister, jf. stk. 7.
 
-Stk. 12. Indenrigs- og boligministeren kan fastsætte nærmere regler om brevstemmematerialets indhold og udformning. Indenrigs- og boligministeren kan fastsætte nærmere regler om tilrettelæggelse og gennemførelse af brevstemmeafgivning og om fremgangsmåden ved afgivelse af brevstemme. Indenrigs- og boligministeren kan fastsætte regler om hjælpemidler, der skal stilles til rådighed ved brevstemmeafgivningen. Indenrigs- og boligministeren kan fastsætte regler om brevstemmeprotokollens indhold og udformning.
+Stk. 12. Indenrigs- og sundhedsministeren kan fastsætte nærmere regler om brevstemmematerialets indhold og udformning. Indenrigs- og sundhedsministeren kan fastsætte nærmere regler om tilrettelæggelse og gennemførelse af brevstemmeafgivning og om fremgangsmåden ved afgivelse af brevstemme. Indenrigs- og sundhedsministeren kan fastsætte regler om hjælpemidler, der skal stilles til rådighed ved brevstemmeafgivningen. Indenrigs- og sundhedsministeren kan fastsætte regler om brevstemmeprotokollens indhold og udformning.
