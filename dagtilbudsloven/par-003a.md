@@ -1,6 +1,6 @@
 § 3 a. Kommunalbestyrelsen har ansvar for dagtilbuddene.
 
-Stk. 2. Kommunalbestyrelsen skal fastsætte og offentliggøre kommunens rammer for dagtilbud, herunder eventuelle prioriterede indsatser på området. Kommunalbestyrelsen skal sikre, at de fastsatte rammer og eventuelle prioriterede indsatser medvirker til, at dagtilbuddene kan opfylde de krav, der følger af afsnit II, og til udmøntningen af kommunens sammenhængende børnepolitik, jf. § 19, stk. 2, i lov om social service.
+Stk. 2. Kommunalbestyrelsen skal fastsætte og offentliggøre kommunens rammer for dagtilbud, herunder eventuelle prioriterede indsatser på området. Kommunalbestyrelsen skal sikre, at de fastsatte rammer og eventuelle prioriterede indsatser medvirker til, at dagtilbuddene kan opfylde de krav, der følger af afsnit II, og til udmøntningen af kommunens sammenhængende børnepolitik, jf. § 15, stk. 1, i barnets lov.
 
 Stk. 3. Kommunalbestyrelsen skal som led i fastsættelsen af rammer efter stk. 2 og med henblik på at skabe sammenhæng i børns liv og kontinuitet i overgangen mellem tilbud fastsætte retningslinjer om
 

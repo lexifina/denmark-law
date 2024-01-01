@@ -26,17 +26,19 @@
 
 12) Fleksløntilskud efter lov om en aktiv beskæftigelsesindsats og ledighedsydelse efter lov om aktiv socialpolitik.
 
-13) Plejevederlag til pasning af døende nærtstående efter serviceloven og bistandsloven.
+13) Plejevederlag til pasning af døende nærtstående efter lov om social service, barnets lov og bistandsloven.
 
 14) Tabt arbejdsfortjeneste efter bistandsloven og serviceloven fra før 2003.
 
 15) Løn under værnepligtsuddannelse og tid som militærnægter.
 
-16) Ydelser under skolepraktik og praktikpladskompenserende uddannelse.
+16) Ydelser under skoleoplæring og lærepladskompenserende uddannelse.
 
-17) Perioder med skolepraktik på SU-berettigende uddannelser.
+17) Perioder med ulønnet obligatorisk praktik på SU-berettigende uddannelser.
 
 18) Perioder i det ordinære uddannelsessystem efter det fyldte 40. år.
+
+19) Perioder med opskoling som led i et ansættelsesforhold og med en løbende arbejdsgiverudbetalt aflønning som supplement til lønmodtageren inden for samme branche til en tidssvarende offentligt anerkendt uddannelse.
 
 Stk. 2. Personer, der er fyldt 18 år, vil få den beregnede anciennitet i perioden fra 1971 til og med 1977 ganget med 2, hvis personen er omfattet af stk. 1, nr. 11 og 13-17. Personer, der er fyldt 18 år, vil fra og med 1978 få den beregnede anciennitet ganget med 1,5, hvis personen er omfattet af stk. 1, nr. 11 og 13-17. Personer, der modtager fleksløntilskud efter stk. 1, nr. 12, vil ligeledes få den beregnede anciennitet beregnet efter 1. og 2. pkt. Fra det fyldte 18. år foretages beregningen af anciennitet efter 1. og 2. pkt. for den andel af året, hvor personen har været 18 år.
 
