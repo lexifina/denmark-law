@@ -24,7 +24,7 @@ Stk. 5. En tvangsakkord medfører bortfald af
 
 2) krav på renter for tiden efter rekonstruktionsbehandlingens indledning af de fordringer, der er omfattet af tvangsakkorden,
 
-3) krav ifølge en leasingaftale, der pålægger skyldneren at anvise en køber af det leasede aktiv eller i øvrigt må anses for finansiel leasing, på løbende ydelser, der angår perioden efter rekonstruktionsbehandlingens indledning, og som ikke er omfattet af § 94, i det omfang fordringshaveren ikke kan godtgøre, at ydelserne må sidestilles med afdrag, og
+3) krav ifølge en leasingaftale, der pålægger skyldneren at anvise en køber af det leasede aktiv eller i øvrigt må anses for finansiel leasing, på løbende ydelser, der angår perioden efter rekonstruktionsbehandlingens indledning, og som ikke er omfattet af § 94, i det omfang tvangsakkorden omfatter de i stk. 3, nr. 1, angivne fordringer og fordringshaveren ikke kan godtgøre, at ydelserne må sidestilles med afdrag, og
 
 4) fordringer, der efter stk. 3 er placeret i en lavere gruppe end den, som omfattes af tvangsakkorden.
 
