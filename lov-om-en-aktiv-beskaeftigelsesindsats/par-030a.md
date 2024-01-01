@@ -1,5 +1,9 @@
-§ 30 a. I perioden fra og med den 1. april 2022 til og med den 31. december 2023 kan jobcenteret vælge at deltage i forsøg med en jobrettet indsats og efter en konkret vurdering tilbyde personer omfattet af § 6, nr. 4 eller 5, en jobrettet indsats i stedet for en uddannelsesrettet indsats, hvis personen ønsker det. Det gælder dog ikke personer omfattet af § 6, nr. 4, som vurderes åbenlyst uddannelsesparate.
+## Jobrettet indsats for uddannelseshjælpsmodtagere.
 
-Stk. 2. For personer, der får tilbudt en jobrettet indsats af jobcenteret, jf. stk. 1, fraviges reglerne i § 30, stk. 4-11. For personer, der ved den første samtale, jf. § 31, stk. 3, får tilbudt en jobrettet indsats, fraviges endvidere § 30, stk. 3. Øvrige regler om tilrettelæggelsen af indsats og tilbud finder fortsat anvendelse, men skal målrettes en jobrettet indsats i stedet for en uddannelsesrettet indsats, herunder skal jobcenteret tilrettelægge tilbud, jf. § 53, stk. 5, kontaktforløb, jf. § 27, stk. 1, og § 28, stk. 1, nr. 3, og »Min Plan«, jf. § 41, stk. 1 og 2, nr. 2, med henblik på en jobrettet indsats.
+§ 30 a. Jobcenteret kan tilbyde personer omfattet af § 6, nr. 4 eller 5, en jobrettet indsats, hvis personen ønsker det, medmindre personen vurderes åbenlyst uddannelsesparat.
 
-Stk. 3. Beskæftigelsesministeren kan fastsætte nærmere regler om forsøget, herunder regler om indsamling af data, evaluering af forsøget og brug af »Min Plan«.
+Stk. 2. Personer, som får en jobrettet indsats efter stk. 1, undtages fra uddannelsespålægget efter § 30.
+
+Stk. 3. Opfylder personen ikke betingelserne om cv-oplysninger i § 22, stk. 1, og § 23, stk. 3, eller følger personen ikke »Min Plan«, jf. § 41, skal jobcenteret vurdere, om personen fortsat er motiveret for en indsats efter stk. 1 eller skal have et uddannelsespålæg efter § 30.
+
+Stk. 4. Personer, som får en jobrettet indsats efter stk. 1, og som ønsker at overgå til en uddannelsesrettet indsats, skal have et uddannelsespålæg efter § 30.
