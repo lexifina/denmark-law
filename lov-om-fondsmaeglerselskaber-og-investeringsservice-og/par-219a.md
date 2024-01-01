@@ -1,0 +1,1 @@
+§ 219 a. Finanstilsynet kan udøve de beføjelser, der følger af artikel 24, stk. 2, litra a, b og d, og stk. 4, i Europa-Parlamentets og Rådets forordning (EU) 1286/2014 af 26. november 2014 om dokumenter med central information om sammensatte og forsikringsringsbaserede investeringsprodukter til detailinvestorer (PRIIP’er).
