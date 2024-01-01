@@ -17,3 +17,5 @@ Stk. 5. Transportministeren kan efter forhandling med miljø- og fødevareminist
 4) vilkår for tilladelsen efter stk. 1 og
 
 5) offentliggørelse, herunder om udelukkende digital annoncering, af afgørelser efter stk. 1 og 2 og af den supplerende VVM-redegørelse.
+
+Stk. 6. Transportministeren kan efter forhandling med miljøministeren fastsætte regler om beskyttelse af dyre- og plantearter ved afgørelser om tilladelse til ændringer eller udvidelser af anlægsprojektet efter stk. 1.
