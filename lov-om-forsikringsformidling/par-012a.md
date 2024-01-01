@@ -2,6 +2,6 @@
 
 1) Danske forsikringsselskaber.
 
-2) Udenlandske forsikringsselskaber, der opfylder betingelserne i § 30, stk. 1, eller § 31, stk. 1, i lov om finansiel virksomhed.
+2) Udenlandske forsikringsselskaber, der opfylder betingelserne i § 49, stk. 1, eller § 52, stk. 1, i lov om forsikringsvirksomhed.
 
 3) Udenlandske forsikringsselskaber, der har fået tilladelse af Finanstilsynet.
