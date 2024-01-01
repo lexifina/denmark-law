@@ -1,4 +1,4 @@
-§ 25 m. Finanstilsynet fastsætter nærmere regler for årsrapporten, herunder regler om indregning og måling af aktiver, forpligtelser, indtægter og omkostninger, opstilling af resultatopgørelse og balance samt krav til noter og ledelsesberetning.
+§ 25 m. Finanstilsynet fastsætter nærmere regler for årsrapporten, herunder regler om indregning og måling af aktiver, forpligtelser, pensionsmæssige forpligtelser, indtægter og omkostninger, opstilling af resultatopgørelse og balance samt krav til noter og ledelsesberetning.
 
 Stk. 2. Finanstilsynet fastsætter tillige regler for koncernregnskaber, herunder regler for, hvornår en årsrapport skal indbefatte et koncernregnskab.
 

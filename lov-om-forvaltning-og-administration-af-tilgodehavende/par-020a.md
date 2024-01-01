@@ -1,0 +1,3 @@
+§ 20 a. Til brug for Arbejdsmarkedets Tillægspensions beregning og opkrævning af bidrag, jf. § 19, stk. 2, skal Arbejdsmarkedets Tillægspension behandle, herunder indsamle, almindelige personoplysninger om arbejdsgivere, der indberetter ATP-bidrag for deres ansatte. Der vil blive behandlet oplysninger om virksomhedsidentitet, navn, personnummer, kontaktoplysninger, kontooplysninger, beregnet og skyldigt bidrag, oplysninger om betalingsevne, der indhentes i forbindelse med inddrivelse af bidrag, og oplysninger om indberettet ATP-bidrag.
+
+Stk. 2. Personoplysninger i medfør af stk. 1 vil blive indhentet fra CVR-registeret, CPR-registeret og told- og skatteforvaltningen.
