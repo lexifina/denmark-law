@@ -1,6 +1,6 @@
-§ 37 d. Priser for ydelser fra transmissionssystemejer eller systemoperatør fastsættes i overensstemmelse med en indtægtsramme. Forsyningstilsynet fastsætter årligt indtægtsrammen for transmissionssystemejer eller systemoperatør med henblik på dækning af omkostninger ved en effektiv drift af aktiviteterne og forrentning af den investerede kapital.
+§ 37 d. Priser for ydelser fra transmissionssystemejer eller systemoperatør fastsættes i overensstemmelse med en indtægtsramme. Forsyningstilsynet fastsætter årligt indtægtsrammen for transmissionssystemejer eller systemoperatør med henblik på dækning af omkostninger ved en effektiv drift af aktiviteterne og forrentning.
 
-Stk. 2. Indtægtsrammen, jf. stk. 1, udgør det højeste beløb, der i et kalenderår kan oppebæres ved indtægter fra drift af aktiviteterne. Indtægtsrammen fastsættes med udgangspunkt i en reguleringsperiode. Indtægtsrammen fastsættes på baggrund af en omkostningsramme og en forrentningsramme, som beregnes efter regler fastsat i medfør af stk. 4, nr. 1-3, og justeres efter regler fastsat i medfør af stk. 4, nr. 4-6, og § 37 e, stk. 2.
+Stk. 2. Indtægtsrammen, jf. stk. 1, udgør det højeste beløb, der i et kalenderår kan oppebæres ved indtægter fra drift af aktiviteterne. Indtægtsrammen fastsættes med udgangspunkt i en reguleringsperiode. Indtægtsrammen fastsættes på baggrund af en omkostningsramme og en forrentningsramme, som beregnes efter regler fastsat i medfør af stk. 4, nr. 1-3, og justeres efter regler fastsat i medfør af stk. 4, nr. 4-6, og § 37 e, stk. 3.
 
 Stk. 3. Forsyningstilsynet kan indhente uafhængig ekstern bistand til brug for fastsættelse af indtægtsrammen for transmissionssystemejerens eller systemoperatørens regning.
 
@@ -14,6 +14,12 @@ Stk. 4. Forsyningstilsynet fastsætter nærmere regler om beregning og justering
 
 4) Fastsættelse af effektiviseringskrav for transmissionssystemejer eller systemoperatør.
 
-5) Fastsættelse af beløbsmæssige justeringer af indtægtsrammen, herunder om fradrag som følge af effektiviseringskrav efter stk. 4, nr. 4, eller om justeringer som følge af differencer efter stk. 4, nr. 6.
+5) Fastsættelse af beløbsmæssige justeringer af indtægtsrammen, herunder om
+
+a) fradrag som følge af effektiviseringskrav efter nr. 4,
+
+b) dækning af systemydelser, nødforsyningsomkostninger og omkostninger til balancering og
+
+c) justeringer som følge af differencer efter nr. 6.
 
 6) Opgørelse og afvikling af differencer.
