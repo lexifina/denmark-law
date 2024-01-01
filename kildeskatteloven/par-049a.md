@@ -8,7 +8,7 @@ Stk. 2. Den arbejdsmarkedsbidragspligtige indkomst, for hvilken der foretages in
 
 3) Den skattepligtige værdi af fri lystbåd omfattet af ligningslovens § 16, stk. 6, 2.-4. og 9. pkt.
 
-4) Den skattepligtige værdi af fri helårsbolig omfattet af ligningslovens § 16, stk. 9, bortset fra de i § 16, stk. 9, 13. pkt., nævnte tilfælde.
+4) Den skattepligtige værdi af fri helårsbolig omfattet af ligningslovens § 16, stk. 9, bortset fra de i ligningslovens § 16, stk. 9, 14. pkt., nævnte tilfælde.
 
 5) Den skattepligtige værdi af aktier, tegningsretter til aktier eller køberetter til aktier omfattet af ligningslovens § 16 eller § 28, stk. 1 eller 2, jf. statsskattelovens § 4.
 
@@ -44,7 +44,7 @@ d) førtidspension, seniorpension eller tidlig pension i henhold til lov om soci
 
 e) kontanthjælp, revalideringsydelse eller ledighedsydelse efter §§ 25, 52 og 74 d i lov om aktiv socialpolitik,
 
-f) ydelser efter §§ 42 og 43 i lov om social service,
+f) ydelser efter §§ 87 og 88 i barnets lov,
 
 g) fleksydelse efter lov om fleksydelse,
 
@@ -56,7 +56,7 @@ j) efterløn i henhold til lov om arbejdsløshedsforsikring m.v.
 
 3) Indbetalinger til en supplerende arbejdsmarkedspension, som er omfattet af § 19, stk. 4, i pensionsbeskatningsloven efter §§ 33 b-33 e i lov om social pension.
 
-4) Indbetalinger, som de kommunale myndigheder foretager til en ordning omfattet af § 19 i pensionsbeskatningsloven for en person, der modtager hjælp efter § 42 i lov om social service.
+4) Indbetalinger, som de kommunale myndigheder foretager til en ordning omfattet af § 19 i pensionsbeskatningsloven for en person, der modtager hjælp efter § 87 i barnets lov.
 
 5) Indbetalinger, som arbejdsgiveren foretager til en pensionsordning i fremmed stat, og som ikke medregnes ved den skattepligtige indkomst som følge af bestemmelser i en dobbeltbeskatningsoverenskomst.
 
