@@ -1,0 +1,1 @@
+§ 51 a. Beskæftigelsesministeren fastsætter regler om beregning af sygedagpenge til en person, der på grund af længerevarende sygdom afbryder en påbegyndt uddannelse, hvor personen modtager uddannelsesgodtgørelse, jf. § 18 d i lov om arbejdsskadesikring.
