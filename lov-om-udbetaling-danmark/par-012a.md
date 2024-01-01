@@ -2,7 +2,7 @@
 
 ## Registersamkøring og indhentning af oplysninger på andre myndigheders sagsområder
 
-§ 12 a. Udbetaling Danmark kan indhente, samkøre og sammenstille oplysninger efter § 12, stk. 1 og 2, til brug for kommunens administration af kontante ydelser og økonomiske tilskud efter lov om aktiv socialpolitik, lov om en aktiv beskæftigelsesindsats, lov om sygedagpenge, lov om dag-, fritids- og klubtilbud m.v. til børn og unge, lov om folkeskole, lov om social pension, lov om højeste, mellemste, forhøjet almindelig og almindelig førtidspension m.v., repatrieringsloven og lov om social service. Derudover kan Udbetaling Danmark indhente og samkøre oplysninger efter § 50, stk. 5, i integrationsloven til brug for kommunens administration af integrationsloven.
+§ 12 a. Udbetaling Danmark kan indhente, samkøre og sammenstille oplysninger efter § 12, stk. 1 og 2, til brug for kommunens administration af kontante ydelser og økonomiske tilskud efter lov om aktiv socialpolitik, lov om en aktiv beskæftigelsesindsats, lov om sygedagpenge, lov om dag-, fritids- og klubtilbud m.v. til børn og unge, lov om folkeskole, lov om social pension, lov om højeste, mellemste, forhøjet almindelig og almindelig førtidspension m.v., repatrieringsloven, barnets lov og lov om social service. Derudover kan Udbetaling Danmark indhente og samkøre oplysninger efter § 50, stk. 5, i integrationsloven til brug for kommunens administration af integrationsloven.
 
 Stk. 2. Udbetaling Danmark kan indhente og samkøre ikkefølsomme personoplysninger efter § 54 i lov om organisering og understøttelse af beskæftigelsesindsatsen m.v. til brug for kommunens administration af lov om aktiv socialpolitik, lov om en aktiv beskæftigelsesindsats, lov om sygedagpenge og integrationsloven.
 

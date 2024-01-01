@@ -1,6 +1,6 @@
-§ 62 o. Børn og unge-udvalget kan træffe afgørelse om anbringelse på særligt sikrede afdelinger, når betingelserne i stk. 2 er opfyldt.
+§ 62 o. Børne- og ungeudvalget kan træffe afgørelse om anbringelse på særligt sikrede afdelinger, når betingelserne i stk. 2 er opfyldt.
 
-Stk. 2. En særligt sikret afdeling for børn og unge mellem 12 og 17 år efter § 66, stk. 1, nr. 7, i lov om social service må alene anvendes for uledsagede mindreårige udlændinge, når
+Stk. 2. En særligt sikret afdeling for børn og unge mellem 12 og 17 år efter § 43, stk. 1, nr. 6, i barnets lov må alene anvendes for uledsagede mindreårige udlændinge, når
 
 1) der foreligger et grundlag for anbringelse i en sikret døgninstitution efter § 62 n, stk. 2,
 
@@ -8,7 +8,7 @@ Stk. 2. En særligt sikret afdeling for børn og unge mellem 12 og 17 år efter 
 
 3) der i forhold til den uledsagede mindreårige udlænding med psykisk afvigende adfærd foreligger en skriftlig lægefaglig vurdering af, at udlændingen udviser aktuelle symptomer på en diagnose.
 
-Stk. 3. Er betingelserne i stk. 2 opfyldt for en uledsaget mindreårig udlænding, der er fyldt 15 år, kan lederen af en sikret døgninstitution eller den, vedkommende bemyndiger dertil, uafhængigt af at der på den sikrede døgninstitution er en særligt sikret afdeling, træffe midlertidig beslutning om overførsel til en særligt sikret afdeling. Beslutningen skal straks forelægges børn og unge-udvalget i den kommune, hvor indkvarteringsstedet, jf. § 42 a, stk. 5, ligger, til afgørelse.
+Stk. 3. Er betingelserne i stk. 2 opfyldt for en uledsaget mindreårig udlænding, der er fyldt 15 år, kan lederen af en sikret døgninstitution eller den, vedkommende bemyndiger dertil, uafhængigt af at der på den sikrede døgninstitution er en særligt sikret afdeling, træffe midlertidig beslutning om overførsel til en særligt sikret afdeling. Beslutningen skal straks forelægges børne- og ungeudvalget i den kommune, hvor indkvarteringsstedet, jf. § 42 a, stk. 5, ligger, til afgørelse.
 
 Stk. 4. Kommunalbestyrelsen træffer afgørelse om de nærmere rammer og vilkår under den konkrete anbringelse på en særligt sikret afdeling.
 

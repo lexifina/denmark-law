@@ -10,7 +10,7 @@ Stk. 2. Ved beskæftigelse forstås
 
 3) perioder med sygedagpenge eller ressourceforløbsydelse i jobafklaringsforløb,
 
-4) perioder, hvor en forælder modtager tabt arbejdsfortjeneste efter servicelovens §§ 42 og 43,
+4) perioder, hvor en forælder modtager tabt arbejdsfortjeneste efter §§ 87 og 88 i barnets lov,
 
 5) perioder med barselsdagspenge,
 
