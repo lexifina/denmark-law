@@ -40,7 +40,7 @@ Stk. 3. Redegørelsen for den del af kommuneplanen, som indeholder en strategisk
 
 2) en redegørelse for, hvordan kommuneplanlægningen understøtter den ønskede udvikling af landsbyer.
 
-Stk. 4. Redegørelsen for den del af kommuneplanen, der indeholder rammer for forsyningen med butikker, jf. § 11 b, stk. 1, nr. 7, skal indeholde
+Stk. 4. Redegørelsen for den del af kommuneplanen, der indeholder rammer for forsyningen med butikker, jf. § 11 b, stk. 1, nr. 8, skal indeholde
 
 1) en vurdering af omfanget af det eksisterende bruttoetageareal til butiksformål i bymidten, bydelscentre, lokalcentre, områder til særlig pladskrævende varer og aflastningsområder fordelt på hovedbutikstyper og disses omsætning,
 
@@ -69,3 +69,9 @@ Stk. 6. Redegørelsen for den del af kommuneplanen, som indeholder bestemmelser 
 3) oplysning om, hvordan planlægningen tilgodeser målene for den kommunale detailhandelsstruktur, og
 
 4) en beskrivelse af konsekvenser for bymiljøet og for afviklingen af trafikken til og fra bymidten eller bydelscenteret, herunder tilgængeligheden for forskellige trafikarter samt parkeringsmuligheder.
+
+Stk. 7. Redegørelsen for den del af kommuneplanen, som indeholder strategisk planlægning for bymidter, jf. § 5 e, stk. 1, skal indeholde
+
+1) oplysninger om grundlaget for den strategiske planlægning for bymidter, herunder sammenhæng med andre relevante strategier og planer, og
+
+2) en redegørelse for, hvordan kommuneplanlægningen understøtter den ønskede udvikling af bymidter.

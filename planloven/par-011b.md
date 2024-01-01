@@ -6,35 +6,37 @@
 
 3) bebyggelsesforhold, herunder rammer for bevaring af bebyggelser eller bymiljøer,
 
-4) byfornyelsen i eksisterende bysamfund,
+4) procentdel med grønne arealer,
 
-5) byomdannelsesområder, hvor anvendelsen af bebyggelse og ubebyggede arealer til erhvervsformål, havneformål eller lignende aktiviteter skal ændres til boligformål, institutionsformål, centerformål, rekreative formål eller erhvervsformål, der er forenelige med anvendelse til boligformål,
+5) byfornyelsen i eksisterende bysamfund,
 
-6) forsyningen med offentlig og privat service,
+6) byomdannelsesområder, hvor anvendelsen af bebyggelse og ubebyggede arealer til erhvervsformål, havneformål eller lignende aktiviteter skal ændres til boligformål, institutionsformål, centerformål, rekreative formål eller erhvervsformål, der er forenelige med anvendelse til boligformål,
 
-7) områder til butiksformål, herunder maksimale bruttoetagearealer for de enkelte butikker,
+7) forsyningen med offentlig og privat service,
 
-8) institutioner og tekniske anlæg, herunder varmeforsyningsforhold,
+8) områder til butiksformål, herunder maksimale bruttoetagearealer for de enkelte butikker,
 
-9) områder til fritidsformål, herunder kolonihaveområder, jf. § 11 c,
+9) institutioner og tekniske anlæg, herunder varmeforsyningsforhold,
 
-10) trafikbetjeningen,
+10) områder til fritidsformål, herunder kolonihaveområder, jf. § 11 c,
 
-11) overførsel af arealer til byzone eller sommerhusområder,
+11) trafikbetjeningen,
 
-12) rækkefølgen for bebyggelse og ændret anvendelse af arealer til byformål, de i nr. 5 nævnte byomdannelsesområder og sommerhusområder,
+12) overførsel af arealer til byzone eller sommerhusområder,
 
-13) anvendelsen af vandområder og udformning af anlæg på vandområder i et byomdannelsesområde inden for eller i tilknytning til en havns dækkende værker,
+13) rækkefølgen for bebyggelse og ændret anvendelse af arealer til byformål, de i nr. 6 nævnte byomdannelsesområder og sommerhusområder,
 
-14) etablering af afværgeforanstaltninger til sikring mod oversvømmelse eller erosion ved planlægning af byudvikling, særlige tekniske anlæg, ændret arealanvendelse m.v. i de udpegede områder, der kan blive udsat for oversvømmelse eller erosion, jf. § 11 a, stk. 1, nr. 18,
+14) anvendelsen af vandområder og udformning af anlæg på vandområder inden for en havns dækkende værker, i et byomdannelsesområde dog også i tilknytning til en havns dækkende værker,
 
-15) sikring af, at erhvervsarealer langs motorvejen prioriteres til transport- og logistikvirksomheder og andre transporttunge virksomheder,
+15) etablering af afværgeforanstaltninger til sikring mod oversvømmelse eller erosion ved planlægning af byudvikling, særlige tekniske anlæg, ændret arealanvendelse m.v. i de udpegede områder, der kan blive udsat for oversvømmelse eller erosion, jf. § 11 a, stk. 1, nr. 18,
 
-16) konsekvensområder omkring erhvervsområder forbeholdt produktionsvirksomheder, transport- og logistikvirksomheder, jf. § 11 a, stk. 1, nr. 26,
+16) sikring af, at erhvervsarealer langs motorvejen prioriteres til transport- og logistikvirksomheder og andre transporttunge virksomheder,
 
-17) transformationsområder inden for konsekvensområder, jf. § 11 a, stk. 1, nr. 27, og
+17) konsekvensområder omkring erhvervsområder forbeholdt produktionsvirksomheder, transport- og logistikvirksomheder, jf. § 11 a, stk. 1, nr. 27,
 
-18) arealer belastet af lugt inden for konsekvensområder, jf. § 11 a, stk. 1, nr. 28.
+18) transformationsområder inden for konsekvensområder, jf. § 11 a, stk. 1, nr. 28, og
+
+19) arealer belastet af lugt inden for konsekvensområder, jf. § 11 a, stk. 1, nr. 29.
 
 Stk. 2. Kommuneplanen kan indeholde retningslinjer for andre forhold end nævnt i stk. 1 og § 11 a, stk. 1, der kan være af betydning for arealanvendelsen og bebyggelsen, herunder beliggenheden af arealer til lokalisering af landbrugets driftsbygninger og driftsanlæg inden for de udpegede særlig værdifulde landbrugsområder, jf. § 11 a, stk. 1, nr. 10.
 
@@ -49,3 +51,7 @@ Stk. 3. Kommunalbestyrelsen kan, uanset § 11 a, stk. 8, i særlige tilfælde fa
 4) der er en funktionel sammenhæng mellem fødevarevirksomheden og besøgsfaciliteterne.
 
 Stk. 4. Kommunalbestyrelsen kan i særlige tilfælde, uanset § 11 a, stk. 8, fastsætte rammer for overførsel af arealer i landzone til byzone for veletablerede virksomheder, f.eks. produktionsvirksomheder, hvis virksomheden over en længere årrække har foretaget væsentlige investeringer i bebyggelse eller i produktion, hvis virksomheden er beliggende i tilknytning til eksisterende nødvendig infrastruktur.
+
+Stk. 5. Kommunalbestyrelsen kan uanset retningslinjer efter § 11 a, stk. 1, nr. 16, fastsætte rammer for opstilling af vindmøller og solceller i landskaber, der kan karakteriseres som herregårdslandskaber eller godslandskaber. Dette gælder dog som udgangspunkt ikke, hvis det pågældende landskab kan karakteriseres som et herregårdslandskab eller godslandskab af en særlig kvalitet.
+
+Stk. 6. Kommunalbestyrelsen kan uanset § 11 a, stk. 6-8, fastsætte rammer for overførsel af landsbyer fra landzone til byzone med udgangspunkt i kommuneplanens hovedstruktur og på baggrund af den strategiske planlægning for landsbyer, jf. §§ 5 c og 5 d.

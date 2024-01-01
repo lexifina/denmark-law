@@ -1,0 +1,1 @@
+§ 61 a. Planklagenævnet kan i forbindelse med afgørelse af en klagesag om kommunalbestyrelsens endelige vedtagelse af et forslag til lokalplan, jf. § 58, stk. 1, nr. 3, i særlige tilfælde beslutte at forlænge fristen efter § 32, stk. 1, med op til 6 måneder.
