@@ -1,1 +1,1 @@
-§ 5 d. (Ophævet).
+§ 5 d. (Ophævet)
