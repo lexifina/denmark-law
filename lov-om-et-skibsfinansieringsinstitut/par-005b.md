@@ -1,3 +1,1 @@
-§ 5 b. Erhvervsministeren kan fastsætte regler om, at Finanstilsynet og Erhvervsministeren kan udstede afgørelser og andre dokumenter efter denne lov eller efter regler udstedt i medfør af denne lov uden underskrift, med maskinelt eller på tilsvarende måde gengivet underskrift eller under anvendelse af en teknik, der sikrer entydig identifikation af den, som har udstedt afgørelsen eller dokumentet. Sådanne afgørelser og dokumenter sidestilles med afgørelser og dokumenter med personlig underskrift.
-
-Stk. 2. Erhvervsministeren kan fastsætte regler om, at afgørelser og andre dokumenter, der udelukkende er truffet eller udstedt på grundlag af elektronisk databehandling, kan udstedes alene med angivelse af Finanstilsynet eller Erhvervsministeren som afsender.
+§ 5 b. En digital meddelelse anses for at være kommet frem, når den er tilgængelig for adressaten for meddelelsen.
