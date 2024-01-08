@@ -1,4 +1,4 @@
-Indenrigs- og Sundhedsministeriet, den 27. september 2023
+Indenrigs- og Sundhedsministeriet, den 8. januar 2024
 
 P.M.V. Nikolaj Stenfalk
 
