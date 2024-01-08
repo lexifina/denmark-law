@@ -10,8 +10,18 @@ Stk. 5. De forskrifter, der er udstedt i medfør af § 70, stk. 1, 4. pkt., i lo
 
 Stk. 6. De forskrifter, der er udstedt i medfør af § 109 i lov om kommunale og regionale valg, finder anvendelse for folkeafstemninger, der afholdes efter kapitel 11 a, indtil de ophæves eller erstattes af forskrifter udstedt i medfør af § 109 i lov om kommunale og regionale valg som affattet ved denne lov.
 
-Lov nr. 2599 af 28. december 2021 om ændring af lov om valg til Folketinget, lov om valg af danske medlemmer til Europa-Parlamentet og lov om kommunale og regionale valg (Forbud mod betaling for vælgererklæringer og stillerunderskrifter samt krav om godkendelse af navneændring for opstillingsberettigede partier m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
+Lov nr. 1777 af 28. december 2023 (Modernisering af rammerne for valg og lokaldemokrati m.v.) indeholder følgende ikrafttrædelses- og overgangsbestemmelser:
 
-§ 5
+§ 10
 
-Loven træder i kraft dagen efter bekendtgørelsen i Lovtidende.
+Stk. 1. Loven træder i kraft den 1. januar 2024, jf. dog stk. 2 og 3.
+
+Stk. 2 og 3. (Udelades)
+
+§ 11
+
+Stk. 1 og 2. (Udelades)
+
+Stk. 3. Regler fastsat i medfør af § 8, stk. 5, i lov om kommunale og regionale valg, jf. lovbekendtgørelse nr. 295 af 7. marts 2022, forbliver i kraft, indtil de ophæves eller afløses af forskrifter udstedt i medfør af § 8, stk. 6, jf. denne lovs § 3, nr. 7.
+
+Stk. 4 og 5. (Udelades)
