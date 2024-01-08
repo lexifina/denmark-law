@@ -1,4 +1,4 @@
-§ 11 c. Inden må yde, love eller tilbyde formuefordel for at påvirke nogen til noget af følgende:
+§ 11 c. Ingen må yde, love eller tilbyde formuefordel for at påvirke nogen til noget af følgende:
 
 1) At afgive en støttetilkendegivelse eller en vælgererklæring.
 
