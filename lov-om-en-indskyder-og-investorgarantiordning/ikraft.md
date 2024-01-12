@@ -69,3 +69,11 @@ Lov nr. 552 af 7. maj 2019 (Gennemførelse af den politiske aftale om yderligere
 Stk. 1. Loven træder i kraft den 1. juli 2019.
 
 Stk. 2-5. (Udelades)
+
+Lov nr. 2382 af 14. december 2021 (Supplering af taksonomiforordningen og ny model for SIFI-udpegning) indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 19
+
+Stk. 1. Loven træder i kraft den 1. januar 2022, jf. dog stk. 2.
+
+Stk. 2-8. (Udelades)

@@ -1,5 +1,5 @@
-Erhvervsministeriet, den 2. april 2020
+Erhvervsministeriet, den 9. januar 2024
 
-Simon Kollerup
+Morten Bødskov
 
-/ Rikke-Louise Ørum Petersen
+/ Louise Mogensen
