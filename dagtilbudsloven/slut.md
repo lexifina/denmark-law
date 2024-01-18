@@ -1,5 +1,5 @@
-Børne- og Undervisningsministeriet, den 27. juni 2022
+Børne- og Undervisningsministeriet, den 17. januar 2024
 
 P.M.V. Ole Hvilsom Larsen
 
-/ Jesper Schaumburg-Müller
+/ Henrik Thode
