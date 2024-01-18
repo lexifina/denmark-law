@@ -18,32 +18,32 @@
 
 10) § 81 b, stk. 4, ophæves den 17. marts 2024, jf. § 7, stk. 2, i lov nr. 693 af 24. maj 2022, medmindre ophævelsen udskydes til den 17. marts 2025, jf. § 7, stk. 3, i lov nr. 693 af 24. maj 2022, eller andet bestemmes ved lov.
 
-11) § 83, stk. 2, nyaffattes den 1. januar 2024, jf. § 1, nr. 1, og § 2, stk. 1, i lov nr. 2595 af 28. december 2021.
+11) § 87, stk. 2, 2. pkt., ophæves den 17. marts 2024, jf. § 7, stk. 2, i lov nr. 693 af 24. maj 2022, medmindre ophævelsen udskydes til den 17. marts 2025, jf. § 7, stk. 3, i lov nr. 693 af 24. maj 2022, eller andet bestemmes ved lov.
 
-12) § 87, stk. 2, 2. pkt., ophæves den 17. marts 2024, jf. § 7, stk. 2, i lov nr. 693 af 24. maj 2022, medmindre ophævelsen udskydes til den 17. marts 2025, jf. § 7, stk. 3, i lov nr. 693 af 24. maj 2022, eller andet bestemmes ved lov.
+12) Lovændringen vedrører § 4, stk. 1, § 11, § 12, stk. 1 og 3, § 43, stk. 1, nr. 5, og §§ 81 og 87.
 
-13) § 102 a nyaffattes den 1. januar 2024, jf. § 1, nr. 2, og § 2, stk. 2, i lov nr. 1162 af 8. juni 2021.
+13) Lovændringen vedrører § 2, stk. 3, §§ 3 og 3 a, § 5, stk. 1, overskriften til kapitel 2, §§ 7-10, § 14, stk. 2-7, § 15, stk. 1-3, § 16 b, stk. 2, § 19, stk. 6, § 20, stk. 2, § 23, stk. 1 og 2, § 27, stk. 1, §§ 27 b og 27 c, § 31, stk. 2-4, § 36, stk. 3-6, § 37, stk. 2, §§ 40, 45 a og 78 a, overskriften til kapitel 15, § 80, stk. 1 og 4, §§ 81-81 b, kapitel 15 a (§ 85 a), § 87, stk. 1, nr. 4, § 88, stk. 1, 3 og 4, § 101, stk. 3, og § 102, stk. 2.
 
-14) Lovændringen vedrører § 4, stk. 1, § 11, § 12, stk. 1 og 3, § 43, stk. 1, nr. 5, og §§ 81 og 87.
+14) Lovændringen vedrører § 102 a.
 
-15) Lovændringen vedrører § 2, stk. 3, §§ 3 og 3 a, § 5, stk. 1, overskriften til kapitel 2, §§ 7-10, § 14, stk. 2-7, § 15, stk. 1-3, § 16 b, stk. 2, § 19, stk. 6, § 20, stk. 2, § 23, stk. 1 og 2, § 27, stk. 1, §§ 27 b og 27 c, § 31, stk. 2-4, § 36, stk. 3-6, § 37, stk. 2, §§ 40, 45 a og 78 a, overskriften til kapitel 15, § 80, stk. 1 og 4, §§ 81-81 b, kapitel 15 a (§ 85 a), § 87, stk. 1, nr. 4, § 88, stk. 1, 3 og 4, § 101, stk. 3, og § 102, stk. 2.
+15) Lovændringen vedrører §§ 5-5 b, § 26, stk. 4, og § 28, stk. 2. Lovændringen vedrørende § 19 a, der træder i kraft den 1. januar 2024, jf, § 2, stk. 2, i lov nr. 2594 af 28. december 2021, er ikke indarbejdet i denne lovbekendtgørelse.
 
-16) Lovændringen vedrører § 102 a, der træder i kraft 1. januar 2024, jf. § 2, stk. 2, i lov nr. 1162 af 8. juni 2021. Ændringen er ikke indarbejdet i denne lovbekendtørelse.
+16) Lovændringen vedrører § 82, stk. 2-4 og 6.
 
-17) Lovændringen vedrører §§ 5-5 b, § 26, stk. 4, og § 28, stk. 2. Lovændringen vedrørende § 19 a, der træder i kraft den 1. januar 2024, jf, § 2, stk. 2, i lov nr. 2594 af 28. december 2021, er ikke indarbejdet i denne lovbekendtgørelse.
+17) Lovændringen vedrører § 14, stk. 1, 4. pkt.
 
-18) Lovændringen vedrører § 25, stk. 4.
+18) Loven blev bekendtgjort i Lovtidende den 25. maj 2022.
 
-19) Loven blev bekendtgjort i Lovtidende den 17. marts 2022.
+19) Lovændringen vedrører § 11, stk. 3, 3. pkt., stk. 6, 2. pkt., og stk. 8, 2. og 3. pkt., overskriften før § 22 b, § 22 b, overskriften før § 22 c, § 22 c, § 27 c, stk. 2, 2. pkt., § 44 a, stk. 6, § 80, stk. 2, 2. pkt., § 81 b, stk. 4, § 87, stk. 2, 2. pkt., og § 99, stk. 1, nr. 8-10.
 
-20) Lovændringen vedrører § 14, stk. 1, 4. pkt.
+20) Loven blev bekendtgjort i Lovtidende den 25. maj 2022.
 
-21) Loven blev bekendtgjort i Lovtidende den 25. maj 2022.
+21) Lovændringen vedrører § 99, stk. 1, nr. 10 og 11.
 
-22) Lovændringen vedrører § 11, stk. 3, 3. pkt., stk. 6, 2. pkt., og stk. 8, 2. og 3. pkt., overskriften før § 22 b, § 22 b, overskriften før § 22 c, § 22 c, § 27 c, stk. 2, 2. pkt., § 44 a, stk. 6, § 80, stk. 2, 2. pkt., § 81 b, stk. 4, § 87, stk. 2, 2. pkt., og § 99, stk. 1, nr. 8-10.
+22) Loven blev bekendtgjort i Lovtidende den 25. maj 2022.
 
-23) Loven blev bekendtgjort i Lovtidende den 25. maj 2022.
+23) Lovændringen vedrører § 3, stk. 3, § 3 a, stk. 2, 2. pkt., § 4, stk. 3, § 84, stk. 1, og § 91.
 
-24) Lovændringen vedrører § 99, stk. 1, nr. 10 og 11.
+24) Lovændringen vedrører overskiften til kapitel 4, overskriften før § 29 a og § 29 a.
 
-25) Loven blev bekendtgjort i Lovtidende den 25. maj 2022.
+25) Lovændringen vedrører § 19 a. Ændringerne vedrørende § 19 b og § 20, stk. 2, er ikke indarbejdet i denne lovbekendtgørelse, da tidspunktet for ikrafttræden af disse ændringer fastsættes af børne- og undervisningsministeren, jf. § 3, stk. 2, i lov nr. 1711 af 28. december 2023.
