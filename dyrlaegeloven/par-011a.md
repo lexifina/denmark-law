@@ -1,1 +1,1 @@
-§ 11 a. Miljø- og fødevareministeren kan fastsætte regler om, at dyrlæger skal indberette resultater af diagnostiske laboratoriefund i forbindelse med undersøgelse for sygdomme hos dyr.
+§ 11 a. Ministeren for fødevarer, landbrug og fiskeri kan fastsætte regler om, at dyrlæger skal indberette resultater af diagnostiske laboratoriefund i forbindelse med undersøgelse for sygdomme hos dyr.
