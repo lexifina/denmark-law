@@ -1,5 +1,5 @@
-Fødevarestyrelsen, den 6. januar 2022
+Fødevarestyrelsen, den 19. januar 2024
 
 Nikolaj Veje
 
-/ Birthe Schubart Haabegaard
+/ Birthe Schubart
