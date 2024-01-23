@@ -159,3 +159,9 @@ Lov nr. 2384 af 14. december 2021 (Bekæmpelse af særlig Salmonella Dublin-smit
 § 2
 
 Loven træder i kraft den 1. januar 2022.
+
+Lov nr. 1547 af 12. december 2023 (Indarbejdelse af tekstanmærkninger og delegation af sagsforberedelse til private fysiske eller juridiske personer) indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 6
+
+Loven træder i kraft den 1. januar 2024.
