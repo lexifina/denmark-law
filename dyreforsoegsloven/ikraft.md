@@ -43,3 +43,9 @@ Lov nr. 571 af 10. maj 2022 (Supplerende implementering af dyreforsøgsdirektive
 Stk. 1. Loven træder i kraft den 1. juli 2022.
 
 Stk. 2. § 1 c i lov om dyreforsøg som affattet ved denne lovs § 1, nr. 6, finder anvendelse fra den 1. juli 2023.
+
+Lov nr. 1547 af 12. december 2023 (Indarbejdelse af tekstanmærkninger og delegation af sagsforberedelse til private fysiske eller juridiske personer) indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 6
+
+Loven træder i kraft den 1. januar 2024.
