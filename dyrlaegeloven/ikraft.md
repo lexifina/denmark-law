@@ -105,3 +105,15 @@ Lov nr. 1431 af 17. december 2019 (Afgift til finansiering af drift af medicinre
 Stk. 1. Loven træder i kraft den 1. januar 2020, jf. dog stk. 2.
 
 Stk. 2. § 1, nr. 4, træder i kraft den 1. januar 2021.
+
+Lov nr. 1547 af 12. december 2023 (Indarbejdelse af tekstanmærkninger og delegation af sagsforberedelse til private fysiske eller juridiske personer) indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 6
+
+Loven træder i kraft den. 1. janaur 2024.
+
+Lov nr. 1548 af 12. december 2023 (Ændringer som følge af etablering af veterinæruddannelse ved Aarhus Universitet) indeholder følgende ikrafttrædelsesbestemmelser:
+
+§ 2
+
+Loven træder i kraft den 1. januar 2024.

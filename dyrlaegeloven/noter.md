@@ -1,6 +1,4 @@
-1) Ved kongelig resolution af 28. juni 2015 blev Miljøministeriet og Ministeriet for Fødevarer, Landbrug og Fiskeri sammenlagt til et Miljø- og Fødevareministerium, jf. bekendtgørelse nr. 1229 af 3. november 2015 om ændring i forretningernes fordeling mellem ministrene.
-
-Ved kongelig resolution af 27. juni 2019 blev ansvaret for sager vedrørende landbrug, herunder økologi, fødevaresikkerhed, fødevaresundhed og fødevareforsyning, dyrevelfærd, inklusive de til områderne hørende institutioner m.v., sager vedrørende ligestilling, samt sager vedrørende fiskeri henlagt til ministeren for fødevarer, fiskeri og ligestilling, jf. § 8, stk. 1, i bekendtgørelse nr. 794 af 8. august 2019. De øvrige under Miljø- og Fødevareministeriet hørende områder henhører under miljøministerens ledelse og ansvar, jf. bekendtgørelsens § 8, stk. 3.
+1) Ved kongelig resolution af 19. november 2020 blev Ministeriet for Fødevarer, Landbrug og Fiskeri oprettet, således at der til dette ministerium blev overført følgende sagsområder: sager vedrørende landbrug, herunder økologi, fødevaresikkerhed, fødevaresundhed og fødevareforsyning, dyrevelfærd, inklusive de til områderne hørende institutioner m.v., samt sager vedrørende fiskeri, jf. § 1 i bekendtgørelse nr. 1946 af 25. november 2020 om ændring i forretningernes fordeling mellem ministrene.
 
 2) Lovændringen vedrører tilføjelse af § 37, stk. 4.
 
@@ -20,9 +18,9 @@ Ved kongelig resolution af 27. juni 2019 blev ansvaret for sager vedrørende lan
 
 10) Lovændringen vedrører tilføjelse af § 11 a og ændring af § 13, stk. 1-2, § 14, § 24, § 25, stk. 2, og § 38, stk. 1, nr. 1. Overalt i loven er »Det Europæiske Fællesskab« ændret til: »Den Europæiske Union«, og »Det Europæiske Fællesskabs« er ændret til: »Den Europæiske Unions«.
 
-11) Lovændringen vedrører tilføjelse af § 32, stk. 4 og ændring af § 37 og § 38, stk. 1, nr. 5.
+11) Lovændringen vedrører tilføjelse af § 32, stk. 4, og ændring af § 37 og § 38, stk. 1, nr. 5.
 
-12) Lovændringen vedrører tilføjelse af 3. pkt. i § 36 stk. 1 og indsættelse af §§ 37 a - 37 c.
+12) Lovændringen vedrører tilføjelse af 3. pkt. i § 36, stk. 1, og indsættelse af §§ 37 a-37 c.
 
 13) Lovændringen vedrører § 28, stk. 1, og § 29, stk. 1.
 
@@ -31,3 +29,7 @@ Ved kongelig resolution af 27. juni 2019 blev ansvaret for sager vedrørende lan
 15) Ved kongelig resolution af 28. november 2016 er betegnelsen Erhvervs- og Vækstministeriet ændret til Erhvervsministeriet, jf. bekendtgørelse nr. 1777 af 23. december 2016.
 
 16) Lovændringen vedrører indsættelse af stk. 4 og 5 i § 4, ophævelse af § 8 b, ændring af »euforiserende stoffer« til: »afhængighedsskabende lægemidler« i § 11, stk. 5, tre steder i § 20, stk. 1, og i § 26, stk. 1, 2. pkt., indsættelse af 2. pkt. i 32, stk. 2, og indsættelse af § 36 b samt indsættelse af stk. 2-6 i § 17.
+
+17) Lovændringen verører indsættelse af § 36 c.
+
+18) Lovændringen vedrører ændring af § 3, stk. 1 og 3, § 4, stk. 4, indsættelse af nyt stk. 5 og 6 i § 4, ændring af § 4, stk. 5, der er blevet stk. 7, og ændring af § 32, stk. 2.
