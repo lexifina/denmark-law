@@ -3,3 +3,5 @@
 2) Ved kongelig resolution af 19. november 2020 blev Ministeriet for Fødevarer, Landbrug og Fiskeri oprettet, således at der til dette ministerium blev overført følgende sagsområder: sager vedrørende landbrug, herunder økologi, fødevaresikkerhed, fødevaresundhed og fødevareforsyning, dyrevelfærd, inklusive de til områderne hørende institutioner m.v., samt sager vedrørende fiskeri, jf. § 1 i bekendtgørelse nr. 1946 af 25. november 2020 om ændring i forretningernes fordeling mellem ministrene.
 
 3) Lovændringen vedrører indsættelse af kapitel 4 a og indsættelse af nyt nr. 5 i § 58, stk. 4, hvorefter nr. 5-7 bliver nr. 6-8.
+
+4) Lovændringen vedrører ophævelse af stk. 3-5 og indsættelse af nye stk. 3-4 i § 43. Endvidere ændres stk. 3 og 5 til stk. 3 og 4, og et 2. pkt. indsættes i § 43, stk. 6, der bliver stk. 5. Endelig indsættes et stk. 7 i § 43.
