@@ -1,7 +1,5 @@
-Givet på Amalienborg, den 24. juni 2005
+Indenrigs- og Sundhedsministeriet, den 23. januar 2024
 
-Under Vor Kongelige Hånd og Segl
+P.M.V. Nikolaj Stenfalk
 
-MARGRETHE R.
-
-/Lars Løkke Rasmussen
+/ Mie Sofie Andersen
