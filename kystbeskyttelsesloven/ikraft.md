@@ -1,12 +1,8 @@
-Lov nr. 46 af 23. januar 2018 (Ændring af formålet med kystbeskyttelse og mulighed for forsøgsprojekter) indeholder følgende ikrafttrædelsesbestemmelser:
+Lov nr. 46 af 23. januar 2018 (Ændring af formålet med kystbeskyttelse og mulighed for forsøgsprojekter) indeholder følgende ikrafttrædelsesbestemmelse:
 
 § 2
 
 Loven træder i kraft den 1. februar 2018.
-
-§ 3
-
-Loven gælder ikke for Færøerne og Grønland.
 
 Lov nr. 720 af 8. juni 2018 (Ny kompetencefordeling og forenkling af sagsbehandling i forbindelse med kystbeskyttelse m.v.) indeholder følgende ikrafttrædelses- og overgangsbestemmelser:
 
@@ -32,6 +28,26 @@ Klager over afgørelser efter lov om naturbeskyttelse om dispensation fra en for
 
 Lov nr. 646 af 19. maj 2020 (Mulighed for at afskære klageadgang i kommunale fællesprojekter om kystbeskyttelse) indeholder følgende ikrafttrædelsesbestemmelse:
 
-§ 12
+§ 4
 
 Loven træder i kraft den 22. maj 2020.
+
+Lov nr. 900 af 21. juni 2022 (Dispensation og klagesagsbehandling m.v. på fortidsmindeområdet) indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 18
+
+Stk. 1. Loven træder i kraft den 1. juni 2022.
+
+Stk. 2. (Udelades)
+
+Lov nr. 679 af 3. juni 2023 (Opkrævning og inddrivelse af grundskyld og dækningsafgift m.v., statens afregning af grundskyld og dækningsafgift til kommunerne, foreløbige vurderinger som midlertidigt beskatningsgrundlag i 2024 og 2025, forenkling af ejendomsvurderingerne for 2024 og 2025, udvidelse af antallet af dommere i Landsskatteretten m.v.), som ændret ved lov nr. 1565 af 12. december 2023, indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 45
+
+Stk. 1. Loven træder i kraft den 5. juni 2023, jf. dog stk. 2-4.
+
+Stk. 2. (Udelades)
+
+Stk. 3. §§ 1 og 2, § 3, nr. 3, 4, 6, 8-18, 20, 21 og 29, §§ 4-8, §§ 10, 12 og 13, § 14, nr. 1, 2 og 7, §§ 15-18, §§ 21-29, § 30, nr. 2 og 4, og §§ 32-44 træder i kraft den 1. januar 2024.
+
+Stk. 4. (Udelades)
