@@ -1,6 +1,6 @@
 § 18 e. Årsregnskabet for Arbejdsgivernes Uddannelsesbidrag skal revideres af mindst én statsautoriseret revisor. Bestyrelsen for Arbejdsgivernes Uddannelsesbidrag udnævner revisor, men kan til enhver tid trække udnævnelsen tilbage.
 
-Stk. 2. Ved revisorskift skal bestyrelsen for Arbejdsgivernes Uddannelsesbidrag og revisor give undervisningsministeren en redegørelse, hvis skiftet skyldes særlige forhold.
+Stk. 2. Ved revisorskift skal bestyrelsen for Arbejdsgivernes Uddannelsesbidrag og revisor give børne- og undervisningsministeren en redegørelse, hvis skiftet skyldes særlige forhold.
 
 Stk. 3. Revisionen foretages i overensstemmelse med § 3 i lov om revisionen af statens regnskaber m.m.
 

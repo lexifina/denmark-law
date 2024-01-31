@@ -1,1 +1,1 @@
-§ 18 b. Arbejdsgivernes Uddannelsesbidrag giver efter anmodning undervisningsministeren alle oplysninger af betydning for ordningerne efter denne lov, herunder oplysninger med henblik på en vurdering af de økonomiske forhold. Oplysningerne kan overføres i elektronisk form.
+§ 18 b. Arbejdsgivernes Uddannelsesbidrag giver efter anmodning børne- og undervisningsministeren alle oplysninger af betydning for ordningerne efter denne lov, herunder oplysninger med henblik på en vurdering af de økonomiske forhold. Oplysningerne kan overføres i elektronisk form.
