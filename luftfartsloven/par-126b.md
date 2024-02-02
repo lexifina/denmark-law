@@ -1,13 +1,9 @@
-## Kapitel 9 a
+## Geografisk afgrænsning af brugen af droner
 
-## Regulering af mindre droner
+§ 126 b. Flyvning med droner må alene ske uden for flyvesikkerhedsmæssigt kritiske områder, sikringsmæssigt kritiske områder og særlig følsomme naturområder, jf. dog stk. 2-4 og § 126 f.
 
-## Definition
+Stk. 2. Transportministeren kan efter forhandling med justitsministeren og forsvarsministeren fastsætte nærmere bestemmelser om flyvning over sikringsmæssigt kritiske områder.
 
-§ 126 b. Ved en drone forstås et ubemandet luftfartøj.
+Stk. 3. Transportministeren kan efter forhandling med justitsministeren fastsætte nærmere bestemmelser, der har til formål at sikre privatlivets fred.
 
-Stk. 2. Ved en mindre drone forstås et ubemandet luftfartøj, som ligger inden for den øvre vægtgrænse, som er fastsat i medfør af stk. 3.
-
-Stk. 3. Transport-, bygnings- og boligministeren fastsætter nærmere bestemmelser om en øvre vægtgrænse for, hvad der forstås ved en mindre drone.
-
-Stk. 4. Transport-, bygnings- og boligministeren kan fastsætte bestemmelser om, at mindre droner under en nærmere fastsat minimumsvægtgrænse helt eller delvis undtages fra reglerne i denne lov.
+Stk. 4. Transportministeren kan fastsætte nærmere bestemmelser om flyvning over flyvesikkerhedsmæssigt kritiske områder og særlig følsomme naturområder.

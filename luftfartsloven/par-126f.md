@@ -1,5 +1,5 @@
-## Flyvning, som er forbundet med en forhøjet flyvesikkerhedsmæssig risiko
+## Politi og redningsberedskab
 
-§ 126 f. Flyvning med mindre droner, som er forbundet med en forhøjet flyvesikkerhedsmæssig risiko, herunder bl.a. droneflyvning over områder, hvor et større antal mennesker er samlet i fri luft, kræver tilladelse af transport-, bygnings- og boligministeren.
+§ 126 f. Transportministeren kan efter forhandling med forsvarsministeren fastsætte bestemmelser om forhold for droner, der anvendes i forbindelse med redningsberedskabet.
 
-Stk. 2. Transport-, bygnings- og boligministeren fastsætter nærmere bestemmelser om tilladelse og om flyvning, der er forbundet med en forhøjet flyvesikkerhedsmæssig risiko, jf. stk. 1.
+Stk. 2. Justitsministeren kan efter forhandling med transportministeren fastsætte bestemmelser om forhold for politiets anvendelse af droner.
