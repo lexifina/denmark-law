@@ -1,1 +1,1 @@
-§ 1 a. Transport-, bygnings- og boligministeren kan fastsætte sådanne forskrifter, som er nødvendige for at gennemføre de af Den Europæiske Union udstedte direktiver om luftfart, eller som er nødvendige for at anvende de af Den Europæiske Union udstedte forordninger på luftfartsområdet.
+§ 1 a. Transportministeren kan fastsætte sådanne forskrifter, som er nødvendige for at gennemføre de af Den Europæiske Union udstedte direktiver om luftfart, eller som er nødvendige for at anvende de af Den Europæiske Union udstedte forordninger på luftfartsområdet, herunder droneområdet.

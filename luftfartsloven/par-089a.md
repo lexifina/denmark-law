@@ -1,1 +1,1 @@
-§ 89 a. Transport-, bygnings- og boligministeren kan pålægge flyvepladser, luftfartsselskaber og andre af luftfartens brugere at afgive statistiske oplysninger om regularitet, flyvetids- og landingsforhold og lignende luftfartsrelaterede oplysninger i den form, som ministeren bestemmer.
+§ 89 a. Transportministeren kan pålægge flyvepladser, luftfartsselskaber og andre af luftfartens brugere at afgive statistiske oplysninger om regularitet, flyvetids- og landingsforhold og lignende luftfartsrelaterede oplysninger i den form, som ministeren bestemmer.
