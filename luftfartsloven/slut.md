@@ -1,6 +1,6 @@
-Transport-, Bygnings- og Boligministeriet, den 13. oktober 2017
+Transportministeriet, den 31. januar 2024
 
-Ole Birk Olesen
+Thomas Danielsen
 
 / Christian Løvenbalck Haxthausen
 
@@ -8,7 +8,7 @@ Bilag 1
 
 Befordring med luftfartøj
 
-## Anvendelsesområde
+Anvendelsesområde
 
 § 90. Bestemmelserne i dette bilag gælder for befordring med luftfartøjer mellem Danmark og lande, der ikke har tilsluttet sig Montreal-konventionen af 28. maj 1999 om indførelse af visse ensartede regler for international luftbefordring, men som har tilsluttet sig Warszawa-konventionen af 12. oktober 1929 om international luftbefordring med senere ændringer, jf. dog § 90 a, stk. 2, i kapitel 9.
 
@@ -54,7 +54,7 @@ Stk. 2. Er luftfragtbrev ikke udfærdiget, eller har det ikke det foreskrevne in
 
 Stk. 2. Befordrerens underskrift skal påføres luftfragtbrevet, forinden godset tages om bord i luftfartøjet. Befordrerens underskrift kan erstattes af stempel. Afsenderens underskrift kan være trykt eller erstattet af stempel.
 
-Stk. 3. Har befordreren udfærdiget luftfragtbrevet efter afsenderens anmodning, anses han, hvis ikke andet bevises, for at handle på afsenderens vegne.
+Stk. 3. Har befordreren udfærdiget luftfragtbrevet efter afsenderens anmodning, anses befordreren, hvis ikke andet bevises, for at handle på afsenderens vegne.
 
 § 96. Omfatter befordringen flere stykker gods, skal afsenderen på befordrerens begæring udfærdige særskilte luftfragtbreve.
 
@@ -108,7 +108,7 @@ Stk. 2. Omfatter befordringsaftalen også befordring til lands eller til vands u
 
 § 110. Beviser befordreren, at den skadelidte ved egen skyld har medvirket til skaden, kan erstatningen nedsættes eller helt bortfalde.
 
-§ 111. Ved befordring af passagerer er befordrerens ansvar for hver enkelt begrænset til 16.600 særlige trækningsrettigheder (SDR), jf. stk. 5. Aftale kan dog træffes om en højere ansvarsgrænse. Transport- og energiministeren kan bekendtgøre generelle aftaler om højere ansvarsgrænser.
+§ 111. Ved befordring af passagerer er befordrerens ansvar for hver enkelt begrænset til 16.600 særlige trækningsrettigheder (SDR), jf. stk. 5. Aftale kan dog træffes om en højere ansvarsgrænse. Transportministeren kan bekendtgøre generelle aftaler om højere ansvarsgrænser.
 
 Stk. 2. Ved befordring af indskrevet rejsegods eller gods er befordrerens ansvar begrænset til 17 SDR pr. kg. Har passageren eller afsenderen ved godsets aflevering til befordreren særligt angivet den interesse, der er forbundet med godsets udlevering på bestemmelsesstedet, og betalt det fragttillæg, som måtte være fastsat, gælder det angivne beløb som grænse for befordrerens ansvar, medmindre passageren eller afsenderen beviser, at det overstiger passagerens eller afsenderens virkelige interesse. I tilfælde af tab, beskadigelse eller forsinkelse af en del af det indskrevne rejsegods eller gods eller af noget, som måtte være indeholdt deri, omfatter den vægt, der vil være at tage i betragtning ved fastsættelsen af det beløb, hvortil befordrerens ansvar er begrænset, kun den samlede vægt af de pågældende stykker gods. Såfremt tabet, beskadigelsen eller forsinkelsen forringer værdien af andre stykker gods, som omfattes af samme rejsegodsbevis eller luftfragtbrev, skal også den samlede vægt af dette gods medregnes ved fastsættelsen af ansvarsgrænsen.
 

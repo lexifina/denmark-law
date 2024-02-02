@@ -1,1 +1,1 @@
-§ 40 f. Trafik-, Bygge- og Boligstyrelsen skal ved besøg i virksomheden træde i forbindelse med vedkommende arbejdsmiljørepræsentanter og repræsentanter for arbejdsmiljøorganisationen. Disse har fri adgang til at forelægge spørgsmål af arbejdsmiljømæssig art for Trafik-, Bygge- og Boligstyrelsen.
+§ 40 f. Trafikstyrelsen skal ved besøg i virksomheden træde i forbindelse med vedkommende arbejdsmiljørepræsentanter og repræsentanter for arbejdsmiljøorganisationen. Disse har fri adgang til at forelægge spørgsmål af arbejdsmiljømæssig art for Trafikstyrelsen.

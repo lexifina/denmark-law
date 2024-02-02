@@ -4,8 +4,8 @@ Stk. 2. Ved eftersyn af person, der ikke begrænses til den ydre beklædning, ka
 
 Stk. 3. Den, der nægter at underkaste sig eller medvirke til kontrol af sin person, skal forbydes adgang til luftfartøjet og til flyvepladsens afspærrede område. Bagage, gods eller forsyninger, der ikke er sikkerhedskontrolleret i overensstemmelse med bestemmelser fastsat i medfør af § 70 a, må ikke bringes om bord i luftfartøj eller bringes ind på flyvepladsens afspærrede område.
 
-Stk. 4. Eftersyn i henhold til stk. 1-3 kan foretages af politiet og efter transport-, bygnings- og boligministerens bestemmelse tillige af andre myndigheder.
+Stk. 4. Eftersyn i henhold til stk. 1-3 kan foretages af politiet og efter transportministerens bestemmelse tillige af andre myndigheder.
 
-Stk. 5. Transport-, bygnings- og boligministeren kan efter forhandling med justitsministeren fastsætte nærmere bestemmelser, hvorefter eftersyn pålagt flyvepladser og luftfartsselskaber i medfør af bestemmelsen i § 70 a, stk. 1, 2. pkt., kun kan foretages af personer, der er godkendt hertil af politiet, og som har gennemgået en uddannelse, der er godkendt af Trafik-, Bygge- og Boligstyrelsen.
+Stk. 5. Transportministeren kan efter forhandling med justitsministeren fastsætte nærmere bestemmelser, hvorefter eftersyn pålagt flyvepladser og luftfartsselskaber i medfør af bestemmelsen i § 70 a, stk. 1, 2. pkt., kun kan foretages af personer, der er godkendt hertil af politiet, og som har gennemgået en uddannelse, der er godkendt af Trafikstyrelsen.
 
-Stk. 6. Trafik-, Bygge- og Boligstyrelsen fastsætter bestemmelser om godkendelse af teknisk udstyr, der anvendes i forbindelse med eftersyn af personer, bagage, gods og forsyninger.
+Stk. 6. Trafikstyrelsen fastsætter bestemmelser om godkendelse af teknisk udstyr, der anvendes i forbindelse med eftersyn af personer, bagage, gods og forsyninger.
