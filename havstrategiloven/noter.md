@@ -15,3 +15,5 @@
 8) Lovændringen, hvis § 47, nr. 1, overalt i loven ændrer ”Natur- og Miljøklagenævnet” til ”Miljø- og Fødevareklagenævnet” og ”Natur- og Miljøklagenævnets” til ”Miljø- og Fødevareklagenævnets”, og som ændrer § 19 og § 21, stk. 2, 1. pkt.
 
 9) Lovændringen ændrer fodnoten til lovens titel og nyaffatter lovens bilag 1.
+
+10) Lovændringen ændrer henvisningen i lovens § 19 således, at der henvises til § 3, stk. 1, nr. 10, i stedet for § 3, stk. 1, nr. 9, i lov om Miljø- og Fødevareklagenævnet.
