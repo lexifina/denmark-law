@@ -38,11 +38,9 @@ Stk. 1. Loven træder i kraft den 1. juli 2015, jf. dog stk. 2.
 
 Stk. 2. (Udelades)
 
-Lov nr. 1715 af 27. december 2016 om Miljø- og Fødevareklagenævnet indeholder følgende ikrafttrædelsesbestemmelse:
+Lov nr. 1715 af 27. december 2016 om Miljø- og Fødevareklagenævnet indeholder følgende ikrafttrædelses- og overgangsbestemmelser:
 
-§ 24
-
-Stk. 1. Loven træder i kraft den 1. februar 2017.
+§ 24. Loven træder i kraft den 1. februar 2017.
 
 Stk. 2. (Udelades)
 
@@ -65,3 +63,11 @@ Stk. 1. Loven træder i kraft den 1. januar 2018, jf. dog stk. 2.
 Stk. 2. Lovens § 2 træder i kraft den 7. december 2018.
 
 Stk. 3. (Udelades)
+
+Lov nr. 900 af 21. juni 2022 (Dispensation og klagesagsbehandling m.v. på fortidsmindeområdet) indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 18
+
+Stk. 1. Loven træder i kraft den 1. juli 2022.
+
+Stk. 2. (Udelades).

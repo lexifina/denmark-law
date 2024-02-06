@@ -1,16 +1,16 @@
-Miljø- og Fødevareministeriet, den 25. november 2019
+Miljøministeriet, den 1. februar 2024
 
-P.M.V. Christian Vind
+P.M.V. Tone Madsen
 
 / Peter Østergård Have
 
 Bilag 1
 
-Vejledende lister over økosystemernes elementer, menneskeskabte belastninger og menneskelige aktiviteter, der er relevante for havområderne.
+Vejledende lister over økosystemernes elementer, menneskeskabte belastninger og menneskelige aktiviteter, der er relevante for havområderne
 
 ## Tabel 1
 
-De marine økosystemers struktur, funktion og processer med særlig relevans for § 6, stk. 1, nr. 1, § 7 og § 9.
+De marine økosystemers struktur, funktion og processer med særlig relevans for § 6, stk. 1, nr. 1, § 7 og § 9
 
 Tema Økosystemets elementer Mulige parametre og karakteristika (bemærkning 1) Relevante kvalitative deskriptorer som fastsat i bilag 2 (bemærkning 2 og 3) Arter Artsgrupper (bemærkning 4) af havfugle, havpattedyr, havkrybdyr, fisk og blæksprutter i havregionen eller subregionen Variation i rum og tid for hver enkelt art eller bestand: – udbredelse, tæthed og/eller biomasse – størrelse, alder og kønsfordeling – frugtbarhed, overlevelsesrate og dødelighed/skadesfrekvens – adfærd, herunder bevægelser og migration – artens habitat (omfang, egnethed) Gruppens artssammensætning 1), 3) Habitater Overordnede habitattyper i vandsøjlen (pelagisk) og på havbunden (bentisk) (bemærkning 5) eller andre habitattyper, herunder deres tilknyttede biologiske samfund i hele den pågældende havregion eller subregion For hver enkelt habitattype: – habitatets udbredelse og omfang (og volumen, hvis det er relevant) – arternes sammensætning, tæthed og/eller biomasse (variation i rum og tid) – artenernes størrelses- og aldersfordeling (hvis det er relevant) – fysiske, hydrologiske og kemiske karakteristika Dertil for pelagiske habitater: – koncentration af klorofyl a – hyppigheden og omfanget af algeopblomstring 1), 6) Økosystemer, herunder fødenet Økosystemets struktur, funktion og processer, som omfatter: – fysiske og hydrologiske karakteristika – kemiske karakeristika – biologiske karakteristika – funktioner og processer Variation i rum og tid af: – temperatur og is – hydrologi (bølger og vandstrømme, opvældning af bundvand, blanding, opholdstid, tilførsel af ferskvand, havniveau) – dybdeforhold – turbiditet (indhold af silt/sedimenter), gennemsigtighed, støj – havbundssubstrat og havbundsmorfologi – salinitet, næringsstoffer (N, P), organisk kulstof, opløste luftarter (pCO2, O2) og pH-værdi – sammenhæng mellem habitater og arter af havfugle, havpattedyr, havkrybdyr, fisk og blæksprutter – struktur i de pelagisk-bentiske samfund – produktivitet 1), 4)
 
