@@ -1,15 +1,19 @@
-§ 35 f. Denne bestemmelse omhandler elektricitet produceret på vindmøller på land, der opfylder kriterierne i stk. 3 (særordning for mindre landvindprojekter), og som nettilsluttes senest den 31. december 2020, bortset fra vindmøller, som er nettilsluttet i egen forbrugsinstallation, jf. § 41.
+§ 35 f. Denne bestemmelse omhandler investeringsstøtte i form af tilskud til opstilling af forsøgsvindmøller.
 
-Stk. 2. Klima-, energi- og forsyningsministeren kan forud for et projekts påbegyndelse og senest den 31. december 2019 efter ansøgning give tilsagn om pristillæg for elektricitet fra vindmøller omfattet af stk. 1 inden for en pulje på 39 mio. kr. (2017-priser).
+Stk. 2. Klima-, energi- og forsyningsministeren kan forud for arbejdets påbegyndelse og efter ansøgning give tilsagn om tilskud til opstilling af vindmøller omfattet af stk. 1.
 
-Stk. 3. Der kan alene ydes tilsagn om pristillæg til projekter, der opfylder følgende kriterier:
+Stk. 3. Ministeren kan fastsætte nærmere regler om tilskud efter stk. 2, herunder om følgende:
 
-1) Der skal i 2017 have været behandling af en klagesag vedrørende projektet i Planklagenævnet eller Miljø- og Fødevareklagenævnet.
+1) Ansøgning om tilsagn og ansøgning om udbetaling af tilskud, herunder om ansøgningsproceduren, ansøgningsperioder og tilskudspuljernes størrelse.
 
-2) En lokalplan for projektet skal være vedtaget inden den 1. januar 2017.
+2) Støtteberettigede omkostninger, støtteintensiteten, tilskudsloft og tilskuddets størrelse og beregning.
 
-3) Projektet udgør maksimalt seks vindmøller.
+3) Den dokumentation, der skal tilvejebringes for at kunne opnå tilsagn og for at kunne få udbetalt tilskud efter denne bestemmelse.
 
-Stk. 4. Klima-, energi- og forsyningsministeren fastsætter pristillæggets størrelse og støtteperiodens længde.
+4) Betingelser for at kunne opnå tilsagn om tilskud og for at kunne få udbetalt tilskud efter denne bestemmelse.
 
-Stk. 5. Klima-, energi- og forsyningsministeren fastsætter regler om ansøgning om tilsagn og udbetaling af pristillæg, fastsætter regler om nærmere kriterier for behandling af klagesagerne i Planklagenævnet eller Miljø- og Fødevareklagenævnet i 2017 og fastsætter kriterier for udvælgelse, herunder eventuel lodtrækning, hvis antallet af ansøgninger overstiger budgettet i puljen.
+5) Vilkår i tilsagn om tilskud og udbetaling af tilskud, herunder vilkår om oplysningspligt, tilbagebetaling af for meget udbetalt tilskud og helt eller delvist bortfald af tilsagn.
+
+6) Kriterier for udvælgelse af ansøgninger om tilskud, herunder eventuelt lodtrækning, hvis den samlede ansøgte sum overstiger tilskudspuljens størrelse, jf. nr. 1.
+
+Stk. 4. Ministeren fører tilsyn med, at reglerne i denne bestemmelse og regler udstedt i medfør heraf samt eventuelle betingelser og vilkår i tilsagn overholdes.
