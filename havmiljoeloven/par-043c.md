@@ -1,4 +1,4 @@
-§ 43 c. Miljøministeren kan som led i havnestatskontrol udstede forbud mod, at et skib anløber danske havne, hvis:
+§ 43 c. Miljøministeren kan som led i havnestatskontrol udstede forbud mod, at et skib anløber danske havne, hvis
 
 1) skibet afsejler, fortsætter sin sejlads eller fortsætter sine aktiviteter trods et forbud eller påbud efter § 42 a eller
 
