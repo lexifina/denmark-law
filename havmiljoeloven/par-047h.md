@@ -2,4 +2,4 @@
 
 Stk. 2. Miljøministeren offentliggør afgørelsen. Offentliggørelse kan ske udelukkende digitalt.
 
-Stk. 3. Miljøministeren kan fastsætte regler om offentliggørelsen
+Stk. 3. Miljøministeren kan fastsætte regler om offentliggørelsen.
