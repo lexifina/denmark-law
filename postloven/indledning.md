@@ -1,3 +1,3 @@
 Bekendtgørelse af postlov
 
-Herved bekendtgøres postloven, jf. lovbekendtgørelse nr. 1040 af 30. august 2017, med de ændringer, der følger af lov nr. 2398 af 14. december 2021.
+Herved bekendtgøres postloven, jf. lovbekendtgørelse nr. 461 af 27. april 2023, med de ændringer, der følger af § 1 i lov nr. 1572 af 12. december 2023.
