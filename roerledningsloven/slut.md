@@ -1,5 +1,5 @@
-Energistyrelsen, den 13. august 2019
+Energistyrelsen, den 27. februar 2024
 
 Martin Hansen
 
-/ Carl-Christian Munk-Nielsen
+/ Anne Sofie Sandbech
