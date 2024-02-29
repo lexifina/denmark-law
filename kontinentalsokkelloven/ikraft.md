@@ -1,4 +1,4 @@
-Lov nr. 548 af 6. juni 2007 (Gennemførelse af direktiver om naturbeskyttelse på havet, m.v.), hvis § 2 angår fodnoten, § 1 a, § 2, stk. 1, 3. pkt., §§ 4-4 g, § 5, stk. 1 og 2, § 5, stk. 4, § 6 og § 6 a, stk. 1, indeholder følgende ikrafttrædelsesbestemmelse:
+Lov nr. 548 af 6. juni 2007 (Gennemførelse af direktiver om naturbeskyttelse på havet, m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
 
 § 9
 
@@ -6,13 +6,13 @@ Stk. 1. Loven træder i kraft dagen efter bekendtgørelsen i Lovtidende.
 
 Stk. 2. (Udelades)
 
-Lov nr. 1400 af 27. december 2008 (Undtagelse fra indførelse i Lovtidende af tekniske specifikationer m.v.), hvis § 3 angår § 4 h, indeholder følgende ikrafttrædelsesbestemmelse:
+Lov nr. 1400 af 27. december 2008 (Undtagelse fra indførelse i Lovtidende af tekniske specifikationer m.v) indeholder følgende ikrafttrædelsesbestemmelse:
 
 § 9
 
 Loven træder i kraft den 1. januar 2009.
 
-Lov nr. 427 af 18. maj 2016 (Konsekvensændringer m.v. som følge af lov om miljøvurdering af planer og programmer og af konkrete projekter (VVM)), hvis § 6 angår § 4 a, stk. 1, 1. og 2. pkt., og § 4 d, stk. 1, indeholder følgende ikrafttrædelses- og overgangsbestemmelser:
+Lov nr. 427 af 18. maj 2016 (Konsekvensændringer m.v. som følge af lov om miljøvurdering af planer og programmer og af konkrete projekter (VVM)) indeholder følgende ikrafttrædelses- og overgangsbestemmelser:
 
 § 10
 
@@ -52,7 +52,7 @@ Stk. 9. De hidtil gældende regler i § 28 a i lov om anvendelse af Danmarks und
 
 3) ansøgeren har fremsendt VVM-redegørelsen til Energistyrelsen, jf. bekendtgørelsens § 5, stk. 1, før ikrafttrædelsestidspunktet.
 
-Lov nr. 1401 af 5. december 2017 (Tilladelse til visse rørledningsanlæg på søterritoriet), hvis § 1 angår lovens titel, § 3 a, § 4 c, 1. pkt., § 4 c, stk. 2, § 4 d, stk. 1-3, § 4 e, 1. pkt., § 4 f, 1. pkt., § 5, stk. 2, nr. 1-3, § 6 a, stk. 1 og 8 og § 6 c, indeholder følgende ikrafttrædelses- og overgangsbestemmelse:
+Lov nr. 1401 af 5. december 2017 (Tilladelse til visse rørledningsanlæg på søterritoriet) indeholder følgende ikrafttrædelses- og overgangsbestemmelse:
 
 § 2
 
@@ -60,10 +60,24 @@ Stk. 1. Loven træder i kraft den 1. januar 2018.
 
 Stk. 2. Loven finder anvendelse ved behandling af ansøgninger om tilladelse til nedlæggelse af rørledningsanlæg, der før lovens ikrafttræden er modtaget, men endnu ikke færdigbehandlet.
 
-Lov nr. 1542 af 19. december 2017 (Sikkerhedszoner, nye anlægstyper og præciseringer i forhold til offshoresikkerhedsdirektivet), hvis § 2 angår § 4 g, stk. 2, indeholder følgende ikrafttrædelses- og overgangsbestemmelser:
+Lov nr. 1542 af 19. december 2017 (Sikkerhedszoner, nye anlægstyper og præciseringer i forhold til offshoresikkerhedsdirektivet) indeholder følgende ikrafttrædelsesbestemmelse:
 
 § 3
 
 Stk. 1. Loven træder i kraft den 1. januar 2018.
 
 Stk. 2. (Udelades)
+
+Lov nr. 744 af 13. juni 2023 (Godkendelse af ændringer og afvikling af rørledningen, krav om effektiv drift, gennemførelse af direktiver om naturbeskyttelse, bemyndigelse vedrørende forbud mod rutinemæssig afbrænding af kulbrinter, tilladelse til forundersøgelser for visse rørledningsanlæg m.v.) indeholder følgende ikrafttrædelsesbestemmelser:
+
+§ 4
+
+Stk. 1. Loven træder i kraft den 1. juli 2023.
+
+Stk. 2. Regler fastsat i medfør af § 4 d i lov om kontinentalsoklen og visse rørledningsanlæg på søterritoriet, jf. lovbekendtgørelse nr. 1189 af 21. september 2018, og § 28 c i lov om anvendelse af Danmarks undergrund, jf. lovbekendtgørelse nr. 1533 af 16. december 2019, som ændret ved § 8 i lov nr. 883 af 12. maj 2021, lov nr. 2389 af 14. december 2021 og lov nr. 803 af 7. juni 2022, forbliver i kraft, indtil de ophæves eller afløses af forskrifter udstedt i medfør af § 4 a og § 4 d, stk. 1, i lov om kontinentalsoklen og visse rørledningsanlæg på søterritoriet som affattet ved denne lovs § 2, nr. 9 og 11, eller § 28 a i lov om anvendelse af Danmarks undergrund som affattet ved denne lovs § 3, nr. 3.
+
+§ 5
+
+Stk. 1. Loven gælder ikke for Færøerne og Grønland, jf. dog stk. 2.
+
+Stk. 2. Lovens § 2, nr. 4, 5 og 7-13, kan ved kongelig anordning sættes i kraft for Grønland med de ændringer, som de grønlandske forhold tilsiger.
