@@ -1,1 +1,1 @@
-§ 66 k. Skatteministeren kan fastsætte nærmere regler for anvendelse af særordningerne for ikkeetablerede afgiftspligtige personer, der leverer elektroniske ydelser, teleydelser og radio- og tv-spredningstjenester til ikkeafgiftspligtige personer i EU med Danmark som identifikationsmedlemsland eller forbrugsmedlemsland.
+§ 66 k. Skatteministeren kan fastsætte nærmere regler for anvendelse af EU-ordningen og ikke-EU-ordningen med Danmark som identifikationsmedlemsland eller forbrugsmedlemsland.
