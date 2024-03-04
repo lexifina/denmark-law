@@ -1,0 +1,1 @@
+§ 66 o. For fjernsalg af varer fra steder uden for EU, hvor moms angives i henhold til denne ordning, anses varerne for at være leveret på det tidspunkt, hvor betalingen accepteres, og afgiftspligten indtræder således på dette tidspunkt.

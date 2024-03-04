@@ -1,0 +1,3 @@
+§ 66 r. En afgiftspligtig person, der anvender importordningen, skal føre regnskab over de transaktioner, der er omfattet af ordningen. En formidler skal føre regnskab for hver af de afgiftspligtige personer, som vedkommende repræsenterer. Regnskaberne skal være tilstrækkelig detaljerede til, at forbrugsmedlemslandets skattemyndigheder kan fastslå, at afgiftsangivelsen er korrekt. Regnskaberne skal efter anmodning gøres elektronisk tilgængelige for forbrugsmedlemslandet og for identifikationsmedlemslandet.
+
+Stk. 2. Regnskaberne nævnt i stk. 1 skal opbevares i en periode på 10 år fra udgangen af det år, hvor transaktionen blev foretaget.

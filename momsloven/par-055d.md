@@ -1,0 +1,1 @@
+§ 55 d. Virksomheder, der modtager digital betaling via en eller flere digitale betalingsløsninger, og som skal benytte et digitalt salgsregistreringssystem, skal integrere den eller de forskellige typer af digitale betalingsløsninger i salgsregistreringssystemet.

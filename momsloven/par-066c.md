@@ -1,1 +1,1 @@
-§ 66 c. Den afgiftspligtige person kan få godtgjort afgift efter reglerne i § 45, stk. 1.
+§ 66 c. Den afgiftspligtige person kan få godtgjort afgift efter reglerne i § 45, stk. 1. Har den afgiftspligtige person aktiviteter her i landet, som ikke er omfattet af ikke-EU-ordningen, og for hvilke der kræves momsregistrering her i landet, skal moms af udgifter i forbindelse med aktiviteterne i særordningen dog fradrages i afgiftsangivelsen, der skal indgives i forbindelse med denne momsregistrering.
