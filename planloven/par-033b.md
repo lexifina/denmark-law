@@ -1,1 +1,0 @@
-§ 33 b. Erhvervsministeren giver hvert fjerde år en redegørelse for det lokale Agenda 21-arbejde i regioner og kommuner til et af Folketinget nedsat udvalg. Redegørelsen skal tilvejebringes i samarbejde med de kommunale organisationer.

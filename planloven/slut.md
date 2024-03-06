@@ -1,7 +1,7 @@
-Erhvervsstyrelsen, den 1. juli 2020
+Plan- og Landdistriktsstyrelsen, den 1. marts 2024
 
-Katrine Winding
+Christian Vind
 
-/ Sigmund Lubanski
+/ Sara Paarup
 
 Bilag 1

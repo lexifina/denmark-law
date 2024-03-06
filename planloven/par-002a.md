@@ -1,1 +1,1 @@
-§ 2 a. Erhvervsministeren offentliggør hvert fjerde år en oversigt over nationale interesser i kommuneplanlægningen, herunder de interesser, der er fastlagt i medfør af denne lov og lovgivningen i øvrigt. Offentliggørelse kan ske udelukkende digitalt.
+§ 2 a. Ministeren for byer og landdistrikter offentliggør hvert fjerde år en oversigt over nationale interesser i kommuneplanlægningen, herunder de interesser, der er fastlagt i medfør af denne lov og lovgivningen i øvrigt. Offentliggørelse kan ske udelukkende digitalt.
