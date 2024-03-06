@@ -1,3 +1,3 @@
 Bekendtgørelse af lov om planlægning
 
-Herved bekendtgøres lov om planlægning, jf. lovbekendtgørelse nr. 287 af 16. april 2018, med de ændringer, der følger af § 2 i lov nr. 1712 af 27. december 2018, § 1 i lov nr. 1714 af 27. december 2018, lov nr. 1715 af 27. december 2018, § 1 i lov nr. 134 af 25. februar 2020, § 1 i lov nr. 135 af 25. februar 2020, § 3 i lov nr. 646 af 19. maj 2020, lov nr. 820 af 9. juni 2020 og § 7 i lov nr. 821 af 9. juni 2020.
+Herved bekendtgøres lov om planlægning, jf. lovbekendtgørelse nr. 1157 af 1. juli 2020, med de ændringer, der følger af § 6 i lov nr. 1833 af 8. december 2020, § 2 i lov nr. 573 af 10. maj 2022, § 1 i lov nr. 417 af 25. april 2023, lov nr. 418 af 25. april 2023 og § 1 i lov nr. 1790 af 28. december 2023.

@@ -8,7 +8,7 @@
 
 4) byudvikling i det øvrige hovedstadsområde er af lokal karakter og sker i tilknytning til kommunecentre eller som afrunding af andre bysamfund.
 
-Stk. 2. Erhvervsministeren fastlægger i regler efter § 3, stk. 1, en opdeling af hovedstadsområdet i
+Stk. 2. Ministeren for byer og landdistrikter fastlægger i regler efter § 3, stk. 1, en opdeling af hovedstadsområdet i
 
 1) det indre storbyområde,
 
@@ -20,4 +20,4 @@ Stk. 2. Erhvervsministeren fastlægger i regler efter § 3, stk. 1, en opdeling 
 
 Stk. 3. Kommuneplanlægningen i hovedstadsområdet skal sikre overordnede arealreservationer til fremtidig trafikal infrastruktur, tekniske anlæg, støjkonsekvensområder og lign. af betydning for udviklingen i området som helhed.
 
-Stk. 4. Erhvervsministeren fastsætter regler efter § 3, stk. 1, der konkretiserer de i § 5 i og i stk. 1 og 3 nævnte overordnede principper for planlægningen i hovedstadsområdet. Erhvervsministeren kan herunder foretage mindre betydende fravigelser fra stk. 1.
+Stk. 4. Ministeren for byer og landdistrikter fastsætter regler efter § 3, stk. 1, der konkretiserer de i § 5 i og i stk. 1 og 3 nævnte overordnede principper for planlægningen i hovedstadsområdet. Ministeren for byer og landdistrikter kan herunder foretage mindre betydende fravigelser fra stk. 1.

@@ -10,7 +10,7 @@ Stk. 3. For arealer i landzone, der ifølge kommuneplanens rammer pr. 1. januar 
 
 Stk. 4. Etableres der midlertidige opholdssteder til flygtninge efter stk. 1-3 på et støjbelastet areal, kan kommunalbestyrelsen stille vilkår om etablering af afskærmningsforanstaltninger.
 
-Stk. 5. Erhvervsministeren kan i særlige tilfælde meddele kommunalbestyrelsen tilladelse til, at regler eller beslutninger efter §§ 3 og 5 j eller offentliggjorte forslag til regler efter §§ 3 og 5 j, jf. § 22 a, stk. 1, ikke finder anvendelse på arealer, hvor kommunalbestyrelsen kan meddele dispensation efter stk. 1 eller tilladelse efter stk. 1-3.
+Stk. 5. Ministeren for byer og landdistrikter kan i særlige tilfælde meddele kommunalbestyrelsen tilladelse til, at regler eller beslutninger efter §§ 3 og 5 j eller offentliggjorte forslag til regler efter §§ 3 og 5 j, jf. § 22 a, stk. 1, ikke finder anvendelse på arealer, hvor kommunalbestyrelsen kan meddele dispensation efter stk. 1 eller tilladelse efter stk. 1-3.
 
 Stk. 6. Dispensationer efter stk. 1 og tilladelser efter stk. 1-3 kan først meddeles, når der er forløbet 2 uger, efter at kommunalbestyrelsen har givet skriftlig orientering om ansøgningen efter reglerne i § 20.
 
