@@ -1,10 +1,8 @@
-Givet på Christiansborg Slot, den 8. juni 2021
+Finanstilsynet, den 1. marts 2024
 
-Under Vor Kongelige Hånd og Segl
+Louise Mogensen
 
-MARGRETHE R.
-
-/ Simon Kollerup
+/ Karina Ankergren
 
 Bilag 1
 
@@ -102,13 +100,11 @@ Y = α – (β + γ) (1)
 
 2) Det beløb, Y, der henvises til i § 203, stk. 1, og beregnes ved anvendelse af følgende formel:
 
-Z = 2 × η + 2 × θ + ι
+Z = 2 x η + 2 x θ
 
-η = Beløbet i medfør af kravet i artikel 92, stk. 1, litra c, i Europa-Parlamentets og Rådets forordning (EU) nr. 575/2013 af 26. juni 2013 om tilsynsmæssige krav til kreditinstitutter.
+η = Beløbet i medfør af kravet i artikel 11, stk. 1, i Europa-Parlamentets og Rådets forordning (EU) 2019/2033 af 27. november 2019 om tilsynsmæssige krav til investeringsselskaber.
 
-θ = Beløbet i medfør af det individuelle solvenskrav fastsat i medfør af § 121, eller individuelle solvensbehov fastsat i medfør af § 120.
-
-ι = Beløbet i medfør af det kombinerede kapitalbufferkrav.
+θ = Beløbet i medfør af det individuelle solvenskrav fastsat i medfør af § 121 eller det individuelle solvensbehov fastsat i medfør af § 120.
 
 Bilag 4
 
