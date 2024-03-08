@@ -1,7 +1,5 @@
-Givet på Christiansborg Slot, den 18. december 2018
+Erhvervsstyrelsen, den 29. februar 2024
 
-Under Vor Kongelige Hånd og Segl
+Niels May Vibholt
 
-MARGRETHE R.
-
-/ Rasmus Jarlov
+/ Pernille von Lillienskjold
