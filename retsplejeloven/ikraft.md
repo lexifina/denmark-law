@@ -1,4 +1,4 @@
-Lov nr. 277 af 9. juni 1982 (Advokater m.v. Tilsyn med eksekutorer) indeholder følgende ikrafttrædelsesbestemmelser:
+Lov nr. 277 af 9. juni 1982 om ændring af lov om rettens pleje m.v. (Advokater m.v. Tilsyn med eksekutorer) indeholder følgende ikrafttrædelsesbestemmelser:
 
 § 3
 
@@ -10,17 +10,17 @@ Stk. 1. Personer, der den 1. juli 1982 opfylder betingelserne for at få meddelt
 
 Stk. 2. Personer, som justitsministeren har beskikket som advokat, og personer, som vil kunne beskikkes som advokat efter stk. 1, omfattes ikke af bestemmelsen i § 123 som affattet i § 1, nr. 6. Ansættelse hos eller virksomhed i fællesskab med sådanne advokater kan medregnes i den tid, der er nævnt i § 123, stk. 1.
 
-Lov nr. 229 af 21. april 1999 (Beslaglæggelse, edition, fotoforevisning, konfrontation, efterlysning og observation samt prøvesagsordning for advokater m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
+Lov nr. 229 af 21. april 1999 om ændring af retsplejeloven (Beslaglæggelse, edition, fotoforevisning, konfrontation, efterlysning og observation samt prøvesagsordning for advokater m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
 
 § 2
 
 Stk. 1. Loven træder i kraft den 1. juli 1999.
 
-Stk. 2-3. (Udelades)
+Stk. 2 og 3. (Udelades)
 
 Stk. 4. Fotografier, der er optaget i medfør af § 792 a, og som ved lovens ikrafttræden opbevares af politiet med henblik på senere identifikation, kan fortsat anvendes med henblik på forevisning som nævnt i retsplejelovens § 815 som affattet ved denne lovs § 1, nr. 23, uanset betingelserne i § 815, stk. 1, nr. 1 eller nr. 2, ikke er opfyldt.
 
-Lov nr. 461 af 7. juni 2001 (Ændringer som følge af børneloven m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
+Lov nr. 461 af 7. juni 2001 om ændring af retsplejeloven og forskellige andre love (Ændringer som følge af børneloven m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
 
 § 10
 
@@ -28,7 +28,7 @@ Stk. 1. Lovens § 2, nr. 3 og 4, og §§ 3 og 9 træder i kraft den 1. januar 20
 
 Stk. 2. § 1 har virkning for sager om faderskab til børn, der fødes den 1. juli 2002 eller senere, samt for sager, der den 1. juli 2002 eller senere genoptages efter børnelovens § 22.
 
-Lov nr. 538 af 8. juni 2006 (Politi- og domstolsreform) indeholder følgende ikrafttrædelsesbestemmelser:
+Lov nr. 538 af 8. juni 2006 om ændring af retsplejeloven og forskellige andre love (Politi- og domstolsreform) indeholder følgende ikrafttrædelsesbestemmelser:
 
 § 105
 
@@ -42,11 +42,11 @@ Stk. 8-22. (Udelades)
 
 § 106
 
-Stk. 1-2. (Udelades)
+Stk. 1 og 2. (Udelades)
 
 Stk. 3. Lovens § 1, nr. 61, 64, 66, 67, 68 og 130, og retsplejelovens § 831, stk. 8, og § 854 som affattet ved denne lovs § 1, nr. 132, træder i kraft efter justitsministerens nærmere bestemmelse. (Udelades)
 
-Lov nr. 520 af 6. juni 2007 (Revision af regler om advokaters virksomhed) indeholder følgende ikrafttrædelsesbestemmelser:
+Lov nr. 520 af 6. juni 2007 om ændring af retsplejeloven (Revision af regler om advokaters virksomhed) indeholder følgende ikrafttrædelsesbestemmelser:
 
 § 2
 
@@ -70,7 +70,7 @@ Stk. 6. Klager over vederlag, som en advokat eller et advokatselskab har forlang
 
 Stk. 7. Ændringen af retsplejelovens § 143, stk. 1, som affattet ved lovforslagets § 1, nr. 20, medfører ikke ophørsbeskatning efter fondsbeskatningslovens § 2, stk. 1, jf. selskabsskattelovens § 5, stk. 4.
 
-Lov nr. 505 af 12. juni 2009 (Behandling af værgemålssager, ajourføring af regler om advokaters virksomhed, digital-, tele- og videokommunikation, afskaffelse af hæftestraffen m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
+Lov nr. 505 af 12. juni 2009 om ændring af lov for Færøerne om rettens pleje og forskellige andre love (Behandling af værgemålssager, ajourføring af regler om advokaters virksomhed, digital-, tele- og videokommunikation, afskaffelse af hæftestraffen m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
 
 § 8
 
@@ -80,7 +80,7 @@ Stk. 2. Lov for Færøerne om rettens pleje § 93, stk. 4, § 115 b, § 119, stk
 
 Stk. 3. (Udelades)
 
-Lov nr. 1621 af 26. december 2013 (Sikkerhed i retssale) indeholder følgende ikrafttrædelsesbestemmelse:
+Lov nr. 1621 af 26. december 2013 om ændring af retsplejeloven (Sikkerhed i retssale) indeholder følgende ikrafttrædelsesbestemmelse:
 
 § 2
 
@@ -96,7 +96,7 @@ Stk. 3. Retsplejelovens § 225 a, stk. 2, som affattet ved denne lovs § 4, nr. 
 
 Stk. 4. Erhvervs- og vækstministeren kan efter forhandling med justitsministeren forlænge perioden nævnt i stk. 3 med op til 7 år.
 
-Lov nr. 1867 af 29. december 2015 (Digitalisering af retsprocessen i borgerlige sager, oprettelse af en domsdatabase m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
+Lov nr. 1867 af 29. december 2015 om ændring af retsplejeloven, lov om Domstolsstyrelsen og lov om retsafgifter (Digitalisering af retsprocessen i borgerlige sager, oprettelse af en domsdatabase m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
 
 § 5
 
@@ -114,7 +114,7 @@ Stk. 6. Retten kan beslutte, at en sag, som er anlagt før lovens ikrafttræden 
 
 Stk. 7. Domstolsstyrelsen kan fastsætte regler om, at alle verserende borgerlige retssager og sager om optagelse af bevis om borgerlige krav skal behandles efter reglerne i denne lov.
 
-Lov nr. 130 af 27. februar 2018 (Begrænsning af surrogatfængsling i eget hjem) indeholder følgende ikrafttrædelsesbestemmelse:
+Lov nr. 130 af 27. februar 2018 om ændring af retsplejeloven (Begrænsning af surrogatfængsling i eget hjem) indeholder følgende ikrafttrædelsesbestemmelse:
 
 § 2
 
@@ -122,7 +122,7 @@ Stk. 1. Loven træder i kraft den 1. marts 2018.
 
 Stk. 2. Regler fastsat i medfør af retsplejelovens § 765, stk. 5, jf. lovbekendtgørelse nr. 1101 af 22. september 2017, forbliver i kraft, indtil de ophæves eller afløses af forskrifter udstedt i medfør af § 765, stk. 6.
 
-Lov nr. 708 af 8. juni 2018 (Forsvarets bistand til politiet og udvidelse af politiklageordningen m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
+Lov nr. 708 af 8. juni 2018 om ændring af lov om politiets virksomhed, retsplejeloven, lov om forsvarets formål, opgaver og organisation m.v. og militær straffelov (Forsvarets bistand til politiet og udvidelse af politiklageordningen m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
 
 § 5
 
@@ -132,7 +132,7 @@ Stk. 2. (Udelades)
 
 Stk. 3. Reglerne i retsplejelovens kapitel 93 b og 93 c som ændret ved denne lovs § 2 finder tilsvarende anvendelse i forhold til strafbare forhold begået af forsvarspersonale i tjenesten og adfærd udvist af forsvarspersonale i tjenesten, når personalet varetager politimæssige opgaver i henhold til regler udstedt i medfør af § 15 i lov om forsvarets formål, opgaver og organisation m.v.
 
-Lov nr. 714 af 8. juni 2018 (Nedbringelse af sagsbehandlingstiden i straffesager) indeholder følgende ikrafttrædelsesbestemmelse:
+Lov nr. 714 af 8. juni 2018 om ændring af retsplejeloven (Nedbringelse af sagsbehandlingstiden i straffesager) indeholder følgende ikrafttrædelsesbestemmelse:
 
 § 2
 
@@ -146,7 +146,7 @@ Stk. 4. Regler fastsat i medfør af retsplejelovens § 741, stk. 3, jf. lovbeken
 
 Stk. 5. Regler fastsat i medfør af retsplejelovens § 832, stk. 4, jf. lovbekendtgørelse nr. 1101 af 22. september 2017, forbliver i kraft, indtil de ophæves eller afløses af forskrifter udstedt i medfør af retsplejelovens § 832, stk. 5.
 
-Lov nr. 1540 af 18. december 2018 (Initiativer vedrørende forsvarsadvokater og advokattilsyn) indeholder følgende ikrafttrædelsesbestemmelser:
+Lov nr. 1540 af 18. december 2018 om ændring af retsplejeloven og lov om fuldbyrdelse af straf m.v. (Initiativer vedrørende forsvarsadvokater og advokattilsyn) indeholder følgende ikrafttrædelsesbestemmelser:
 
 § 3
 
@@ -158,13 +158,13 @@ Stk. 2. (Udelades)
 
 Lovens § 1, nr. 9 og 10, finder ikke anvendelse for afgørelser fra Advokatnævnet, der vedrører forhold begået inden lovens ikrafttræden.
 
-Lov nr. 1711 af 27. december 2018 (Ændringer som følge af lov om Familieretshuset og skærpet fokus på beskyttelsen af barnet i sager efter forældreansvarsloven) indeholder følgende ikrafttrædelsesbestemmelser:
+Lov nr. 1711 af 27. december 2018 om ændring af forældreansvarsloven, lov om ægteskabs indgåelse og opløsning og forskellige andre love (Ændringer som følge af lov om Familieretshuset og skærpet fokus på beskyttelsen af barnet i sager efter forældreansvarsloven) indeholder følgende ikrafttrædelsesbestemmelser:
 
 § 40
 
 Stk. 1. Loven træder i kraft den 1. april 2019, jf. dog stk. 2-4.
 
-Stk. 2-3. (Udelades)
+Stk. 2 og 3. (Udelades)
 
 Stk. 4. Justitsministeren fastsætter tidspunktet for ikrafttræden af § 15, nr. 2 og 3.
 
@@ -188,7 +188,7 @@ Stk. 4. Første gang der beskikkes medlemmer til Procesbevillingsnævnet i medf�
 
 (Udelades)
 
-Lov nr. 1719 af 27. december 2018 (Freds- og ærekrænkelser m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
+Lov nr. 1719 af 27. december 2018 om ændring af straffeloven, retsplejeloven, lov om erstatningsansvar og medieansvarsloven (Freds- og ærekrænkelser m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
 
 § 5
 
@@ -196,19 +196,13 @@ Stk. 1. Loven træder i kraft den 1. januar 2019.
 
 Stk. 2. Lovens § 1, § 2, nr. 2 og 3, og § 3 finder ikke anvendelse i forhold til handlinger begået før lovens ikrafttræden.
 
-Lov nr. 485 af 30. april 2019 (Udeblivelsesdomme i sager med påstand om udvisning og anvendelse af telekommunikation med billede i retsmøder) indeholder følgende ikrafttrædelsesbestemmelse:
+Lov nr. 485 af 30. april 2019 om ændring af retsplejeloven (Udeblivelsesdomme i sager med påstand om udvisning og anvendelse af telekommunikation med billede i retsmøder) indeholder følgende ikrafttrædelsesbestemmelse:
 
 § 2
 
 Stk. 1. Loven træder i kraft den 1. maj 2019.
 
 Stk. 2. Lovens § 1, nr. 3 og 4, finder ikke anvendelse i straffesager, hvor der er foretaget forkyndelse af indkaldelse for tiltalte, jf. retsplejelovens § 844, stk. 2, før lovens ikrafttræden. Sådanne straffesager behandles efter de hidtil gældende regler.
-
-Lov nr. 1942 af 15. december 2020 (Adgang til sociale behandlingstilbud mod stofmisbrug for indsatte i kriminalforsorgens institutioner m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
-
-§ 3
-
-Justitsministeren fastsætter tidspunktet for lovens ikrafttræden.
 
 Lov nr. 425 af 16. marts 2021 om retsafgifter indeholder følgende ikrafttrædelses- og overgangsbestemmelser:
 
@@ -220,41 +214,7 @@ Stk. 2. (Udelades)
 
 Stk. 2-6. (Udelades)
 
-Lov nr. 1172 af 8. juni 2021 (Nyt uafhængigt tilsyn med bevismidler, udvidelse af politiklageordningen og justering af ordningen med fartbøder til politiets personale i forbindelse med udrykningskørsel som led i tjenesten) indeholder følgende ikrafttrædelsesbestemmelse:
-
-§ 2
-
-Stk. 1. Loven træder i kraft den 1. juli 2021, jf. dog stk. 2.
-
-Stk. 2. Lovens § 1, nr. 1-22 og 24, træder i kraft den 1. januar 2022.
-
-Lov nr. 2600 af 28. december 2021 (Styrket indsats mod stalking) indeholder følgende ikrafttrædelsesbestemmelse:
-
-§ 4
-
-Stk. 1. Loven træder i kraft den 1. januar 2022.
-
-Stk. 2. (Udelades)
-
-Lov nr. 2601 af 28. december 2021 (Implementering af initiativer i aftale om politiets og anklagemyndighedens økonomi 2021-2023, herunder etablering af National Enhed for Særlig Kriminalitet) indeholder følgende ikrafttrædelsesbestemmelse:
-
-§ 23
-
-Loven træder i kraft den 1. januar 2022.
-
-Lov nr. 158 af 31. januar 2022 (Opfølgning på initiativer i handlingsplanen til imødegåelse af udfordringerne med fangeflugter og delegation af afgørelseskompetence i sager om udgang for personer anbragt på hospital eller institution ved dom) indeholder følgende ikrafttrædelsesbestemmelse:
-
-§ 4
-
-Loven træder i kraft den 1. februar 2022.
-
-Lov nr. 226 af 15. februar 2022 (Styrket indsats mod seksuelle overgreb mod børn og styrket rådgivning til ofre for seksuelle overgreb) indeholder følgende ikrafttrædelsesbestemmelse:
-
-§ 4
-
-Loven træder i kraft den 1. marts 2022.
-
-Lov nr. 227 af 15. februar 2022 (Smidiggørelse af registrering af medmoderskab, fastsættelse af transpersoners forældreskab og navneændring for transpersoner m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
+Lov nr. 227 af 15. februar 2022 om ændring af børneloven, navneloven og forskellige andre love (Smidiggørelse af registrering af medmoderskab, fastsættelse af transpersoners forældreskab og navneændring for transpersoner m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
 
 § 8
 
@@ -264,7 +224,7 @@ Stk. 2. Social- og ældreministeren fastsætter tidspunktet for ikrafttrædelsen
 
 Stk. 3-5. (Udelades)
 
-Lov nr. 291 af 8. marts 2022 (Revision af reglerne om registrering og opbevaring af oplysninger om teletrafik (logning) m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
+Lov nr. 291 af 8. marts 2022 om ændring af retsplejeloven og lov om elektroniske kommunikationsnet og -tjenester (Revision af reglerne om registrering og opbevaring af oplysninger om teletrafik (logning) m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
 
 § 3
 
@@ -278,33 +238,7 @@ Stk. 4. Oplysninger, der på tidspunktet for lovens ikrafttræden er registreret
 
 Stk. 5. Regler fastsat i medfør af retsplejelovens § 786, stk. 5, 7 og 8, jf. lovbekendtgørelse nr. 1835 af 15. september 2021, forbliver i kraft, indtil de ophæves eller afløses af forskrifter udstedt i medfør af § 786, stk. 4-6, jf. denne lovs § 1, nr. 4.
 
-Lov nr. 696 af 24. maj 2022 (Styrket indsats mod menneskeudnyttelse) indeholder følgende ikrafttrædelsesbestemmelse:
-
-§ 4
-
-Loven træder i kraft den 1. juni 2022.
-
-Lov nr. 697 af 24. maj 2022 (Antallet af højesteretsdommere, sammensætningen af Domstolsstyrelsens bestyrelse og digital anmeldelse til skifteretten af krav og tilgodehavender m.v. i sager om skifte af dødsbo) indeholder følgende ikrafttrædelsesbestemmelse:
-
-§ 4
-
-Stk. 1. Loven træder i kraft den 1. juni 2022, jf. dog stk. 2.
-
-Stk. 2-4. (Udelades)
-
-Lov nr. 873 af 21. juni 2022 om Det Centrale Dna-profilregister og Det Centrale Fingeraftryksregister indeholder følgende ikrafttrædelsesbestemmelse:
-
-§ 11. Justitsministeren fastsætter tidspunktet for lovens ikrafttræden. Ministeren kan herunder fastsætte, at dele af loven træder i kraft på forskellige tidspunkter.
-
-Stk. 2. (Udelades)
-
-Lov nr. 890 af 21. juni 2022 (Hurtigere udsættelse af lejere på grund af utryghedsskabende kriminalitet) indeholder følgende ikrafttrædelsesbestemmelse:
-
-§ 4
-
-Loven træder i kraft den 1. juli 2022.
-
-Lov nr. 893 af 21. juni 2022 (Opfølgning på flerårsaftalen om kriminalforsorgens økonomi 2022-2025, herunder leje af fængselspladser i udlandet, revision af disciplinærstraffesystemet, udstationering til eget hjem med fodlænke eller udslusningsfængsel m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
+Lov nr. 893 af 21. juni 2022 om ændring af lov om fuldbyrdelse af straf m.v., straffeloven, retsplejeloven og forskellige andre love (Opfølgning på flerårsaftalen om kriminalforsorgens økonomi 2022-2025, herunder leje af fængselspladser i udlandet, revision af disciplinærstraffesystemet, udstationering til eget hjem med fodlænke eller udslusningsfængsel m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
 
 § 13
 
@@ -314,7 +248,7 @@ Stk. 2. Justitsministeren fastsætter tidspunktet for ikrafttrædelse af § 1, n
 
 Stk. 3-8. (Udelades)
 
-Lov nr. 897 af 21. juni 2022 (Effektivisering af straffesagskæden og nævnsprocessen m.v. i Ungdomskriminalitetsnævnet, øget adgang til videregivelse og optagelse af fotografier, forbedring af politiets muligheder for efterforskning m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
+Lov nr. 897 af 21. juni 2022 om ændring af straffeloven, retsplejeloven og forskellige andre love (Effektivisering af straffesagskæden og nævnsprocessen m.v. i Ungdomskriminalitetsnævnet, øget adgang til videregivelse og optagelse af fotografier, forbedring af politiets muligheder for efterforskning m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
 
 § 7
 
@@ -323,3 +257,43 @@ Stk. 1. Loven træder i kraft den 1. juli 2022, jf. dog stk. 2 og 3.
 Stk. 2. (Udelades)
 
 Stk. 3. § 107 a i retsplejeloven som affattet ved denne lovs § 2, nr. 2, træder i kraft dagen efter bekendtgørelsen i Lovtidende.
+
+Lov nr. 718 af 13. juni 2023 om forsikringsvirksomhed i tværgående pensionskasser, livsforsikringsselskaber og skadesforsikringsselskaber m.v. (lov om forsikringsvirksomhed) indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 321. Loven træder i kraft den 1. januar 2024.
+
+§§ 322-324. (Udelades)
+
+Lov nr. 741 af 13. juni 2023 om ændring af straffeloven og retsplejeloven (Initiativer mod digitale krænkelser, herunder forbud mod grooming, sidestilling af tilsnigelse af samleje med voldtægt, religiøse lederes udnyttelse af religiøs afhængighed med henblik på at skaffe sig samleje m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 3
+
+Loven træder i kraft den 1. juli 2023.
+
+Lov nr. 753 af 13. juni 2023 om ændring af lov om social service, lov om retssikkerhed og administration på det sociale område og forskellige andre love (Ændringer som følge af barnets lov, initiativret for adopterede børn, adoption uden samtykke fra fødslen, samvær med børn på kvindekrisecentre m.v. og fasttrack for godkendelse af plejefamilier m.v.) indeholder følgende ikrafttrædelses- og overgangsbestemmelse:
+
+§ 52
+
+Stk. 1. Loven træder i kraft den 1. januar 2024, jf. dog stk. 2.
+
+Stk. 2-6. (Udelades)
+
+Stk. 7. §§ 2-51 finder ikke anvendelse, hvis en afgørelse, en indstilling eller en børnefaglig undersøgelse efter lov om social service, jf. lovbekendtgørelse nr. 170 af 24. januar 2022 med senere ændringer, er truffet, afgivet, gennemført eller iværksat før lovens ikrafttræden. I disse situationer finder de hidtil gældende regler anvendelse.
+
+Stk. 8 og 9. (Udelades)
+
+Lov nr. 1553 af 12. december 2023 om ændring af selskabsloven, lov om skifte af dødsboer, værgemålsloven, retsplejeloven og forskellige andre love (Digital behandling af tvangsopløsningssager og dødsboskiftesager, øget antal byretsdommere, anerkendelse af juridiske eksamener fra Det Forenede Kongerige Storbritannien og Nordirland, terminaladgang til indkomstregisteret for Familieretshuset i værgemålssager m.v.) indeholder følgende ikrafttrædelses- og overgangsbestemmelser:
+
+§ 13
+
+Stk. 1. Loven træder i kraft den 1. januar 2024, jf. dog stk. 2-4.
+
+Stk. 2-9. (Udelades)
+
+Stk. 10. Regler udstedt i medfør af § 148 a, stk. 8 og 9, i retsplejeloven, jf. lovbekendtgørelse nr. 1655 af 25. december 2022, som ændret ved § 344 i lov nr. 718 af 13. juni 2023, § 2 i lov nr. 741 af 13. juni 2023 og § 31 i lov nr. 753 af 13. juni 2023, forbliver i kraft, indtil de ophæves eller afløses af regler udstedt i medfør af § 148 a, stk. 10 og 11, i retsplejeloven, jf. denne lovs § 6, nr. 19.
+
+Lov nr. 1786 af 28. december 2023 om ændring af straffeloven, retsplejeloven og lov om politiets virksomhed (Initiativer mod åbenlys og systematisk handel med ulovlige stoffer) indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 4
+
+Loven træder i kraft den 1. januar 2024.
