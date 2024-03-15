@@ -8,30 +8,6 @@ Loven træder i kraft den 1. januar 2016.
 
 (Udelades)
 
-Lov nr. 456 af 25. maj 2016 (Undtagelse af visse førtidspensionssager fra forelæggelse for rehabiliteringsteamet) indeholder følgende ikrafttrædelsesbestemmelse:
-
-§ 3
-
-Stk. 1. Loven træder i kraft den 1. januar 2016.
-
-Stk. 2. (Udelades)
-
-Lov nr. 624 af 8. juni 2016 (Fleksibelt og indkomstbaseret dagpengesystem, månedsudbetaling af dagpenge m.v.) indeholder følgende ikrafttrædelses- og overgangsbestemmelser:
-
-§ 14
-
-Stk. 1. Loven træder i kraft den 1. januar 2017, jf. dog stk. 2-4.
-
-Stk. 2-4. (Udelades)
-
-§ 15
-
-(Udelades)
-
-§ 16
-
-(Udelades)
-
 Lov nr. 625 af 8. juni 2016 (Forlængelse af forsøg med ret til at afvise lægebehandling uden ydelsesmæssige konsekvenser m.v.) indeholder følgende ikrafttrædelses- og overgangsbestemmelser:
 
 § 6
@@ -41,18 +17,6 @@ Stk. 1. Loven træder i kraft den 1. januar 2019, jf. dog stk. 2.
 Stk. 2. (Udelades)
 
 § 7
-
-(Udelades)
-
-Lov nr. 665 af 8. juni 2016 (Bedre rammer for at modtage og integrere flygtninge og styrket virksomhedsrettet integrationsprogram m.v.) indeholder følgende ikrafttrædelses- og overgangsbestemmelser:
-
-§ 12
-
-Stk. 1. Loven træder i kraft den 1. januar 2016, jf. dog stk. 2-6.
-
-Stk. 2-6. (Udelades)
-
-§ 13
 
 (Udelades)
 
@@ -181,3 +145,27 @@ Loven træder i kraft den 1. januar 2022.
 § 5
 
 (Udelades)
+
+Lov nr. 295 af 20. marts 2023 (Mere målrettede tilbud, udvidet mulighed for samtaler over video eller telefon, forenkling af opfølgning ved skærpet tilsyn m.v.) Indeholder følgende ikrafttrædelses- og overgangsbestemmelser:
+
+§ 10
+
+Stk. 1. Loven træder i kraft den 22. marts 2023, jf. dog stk. 2 og 3.
+
+Stk. 2 og 3. (Udelades)
+
+Lov nr. 727 af 13. juni 2023 (Øget ansvar til arbejdsløshedskasser for kontaktforløbet i de første 3 måneder, et forenklet kontaktforløb m.v., permanentgørelse af forsøg om jobrettet indsats til unge, forenkling af krav til vejledning m.v.) Indeholder følgende ikrafttrædelses- og overgangsbestemmelser:
+
+§ 5
+
+Stk. 1. Loven træder i kraft den 1. januar 2024.
+
+Stk. 2. (Udelades)
+
+Lov nr. 1772 af 28. december 2023 (Udmøntning af VEU-trepartsaftale 2023 om voksen-, efter- og videreuddannelse) Indeholder følgende ikrafttrædelses- og overgangsbestemmelser:
+
+§ 8
+
+Stk. 1. Loven træder i kraft den 1. januar 2024.
+
+Stk. 2. (Udelades)
