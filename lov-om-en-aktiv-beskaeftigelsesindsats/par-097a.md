@@ -1,6 +1,6 @@
-## Midlertidig ordning med ret for dagpengemodtagere til tilbud om en erhvervsuddannelse inden for områder, hvor der er behov for arbejdskraft
+## Ret for dagpengemodtagere til tilbud om en erhvervsuddannelse inden for områder, hvor der er behov for arbejdskraft
 
-§ 97 a. I perioden fra og med den 1. august 2020 til og med den 31. december 2022 har personer omfattet af § 6, nr. 1, som er fyldt 30 år, ret til et tilbud om en erhvervsuddannelse efter lov om erhvervsuddannelser, som fremgår af en positivliste, jf. stk. 2, i følgende tilfælde, jf. dog stk. 4:
+§ 97 a. Personer omfattet af § 6, nr. 1, som er fyldt 30 år, har ret til at påbegynde et tilbud om en erhvervsuddannelse efter lov om erhvervsuddannelser, som fremgår af en positivliste, jf. stk. 2, i følgende tilfælde, jf. dog stk. 4:
 
 1) Personen har ikke en erhvervsuddannelse eller anden erhvervsrettet uddannelse, der med hensyn til niveau og varighed kan sidestilles med eller overstiger en erhvervsuddannelse.
 
