@@ -205,3 +205,95 @@ Stk. 2 og 3. (Udelades)
 Stk. 4. § 3, nr. 1-3, § 4, nr. 3, og §§ 5-11 finder ikke anvendelse for domme for overtrædelser af straffelovens § 244, stk. 2, der vedrører forhold begået inden lovens ikrafttræden.
 
 Stk. 5-8. (Udelades)
+
+Lov nr. 875 af 21. juni 2022 (Afskaffelse af indtægtsregulering af folke-, senior- og førtidspension på grund af ægtefælles eller samlevers arbejdsindtægt, sikring mod frakendelse af førtidspension i en 3-årig periode m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 4
+
+Stk. 1. Loven træder i kraft den 1. juli 2022.
+
+Stk. 2. §§ 1 og 2 har virkning fra den 1. januar 2023.
+
+Lov nr. 879 af 21. juni 2022 (Gennemførelse af orlovsdirektivets bestemmelser om omsorgsorlov, afskedigelsesbeskyttelse m.v. samt fritagelse for rådighed ved orlov, bedre orlovsvilkår for trillingeforældre m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 8
+
+Stk. 1. Loven træder i kraft den 2. august 2022, jf. dog stk. 4 og 5.
+
+Stk. 2. §§ 4-6 finder anvendelse for forældre til et barn født eller modtaget den 2. august 2022 eller senere, jf. dog stk. 4 og 5. For forældre til et barn, der er født eller modtaget før den 2. august 2022, finder de hidtil gældende regler anvendelse.
+
+Stk. 3-5. (Udelades)
+
+Lov nr. 295 af 20. marts 2023 (Mere målrettede tilbud, udvidet mulighed for samtaler over video eller telefon, forenkling af opfølgning ved skærpet tilsyn m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 10
+
+Stk. 1. Loven træder i kraft den 22. marts 2023, jf. dog stk. 2 og 3.
+
+Stk. 2 og 3. (Udelades)
+
+Lov nr. 605 af 31. maj 2023 (Genindførelse af ret til uddannelse for personer, der har arbejdet i minkerhvervet eller følgeerhverv, inden for en pulje i 2023) indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 2
+
+Loven træder i kraft den 1. juni 2023.
+
+Lov nr. 727 af 13. juni 2023 (Øget ansvar til arbejdsløshedskasser for kontaktforløbet i de første 3 måneder, et forenklet kontaktforløb m.v., permanentgørelse af forsøg om jobrettet indsats til unge, forenkling af krav til vejledning m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 5
+
+Stk. 1. Loven træder i kraft den 1. januar 2024.
+
+Stk. 2. § 1, nr. 7-12, 19-22, 24-31, 36-38 og 41, § 18 b, stk. 1, i lov om organisering og understøttelse af beskæftigelsesindsatsen m.v. som affattet ved dennes lovs § 2, nr. 4, og § 3, nr. 2, finder ikke anvendelse for medlemmer af en arbejdsløshedskasse, som før lovens ikrafttræden har været indplaceret i en dagpengeperiode efter § 55 i lov om arbejdsløshedsforsikring m.v., som ved lovens ikrafttræden har været ledige i mindre end 3 måneder, jf. § 9 i lov om en aktiv beskæftigelsesindsats, og som er ledige ved lovens ikrafttræden, jf. dog stk. 3. For disse personer finder de hidtil gældende regler anvendelse.
+
+Stk. 3. Stk. 2 finder ikke anvendelse for personer, som var omfattet af reglerne om forsøg efter den hidtil gældende § 193 i lov om en aktiv beskæftigelsesindsats.
+
+Stk. 4. For personer omfattet af § 6, nr. 1, i lov om en aktiv beskæftigelsesindsats, hvor arbejdsløshedskassen efter § 31, stk. 1, 1. pkt., som affattet ved denne lovs § 1, nr. 19, skal holde tre individuelle jobsamtaler, medregnes jobsamtaler, som inden lovens ikrafttræden er holdt med jobcenteret, eller som er holdt af arbejdsløshedskassen som led i forsøg efter den hidtil gældende § 193 i lov om en aktiv beskæftigelsesindsats.
+
+Lov nr. 728 af 13. juni 2023 (Genindførelse af ret til uddannelsesløft med forhøjet dagpengesats på 110 pct. i 2023) indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 4
+
+Loven træder i kraft den 1. juli 2023.
+
+§ 5
+
+Stk. 1. For personer, der i perioden fra og med den 1. januar 2023 til den 1. juli 2023 har fået bevilget eller har påbegyndt et tilbud om en hel erhvervsuddannelse efter §§ 90 eller 96 i lov om en aktiv beskæftigelsesindsats, hvor personen opfylder betingelserne i § 97 a, stk. 1, i lov om en aktiv beskæftigelsesindsats som ændret ved denne lovs § 1, nr. 1, og hvor tilbuddet opfylder betingelserne i § 97 a, stk. 1 og 2, i lov om en aktiv beskæftigelsesindsats som ændret ved denne lovs § 1, nr. 1, skal jobcenteret med virkning fra den 1. juli 2023 ændre tilbuddet til et tilbud efter § 97 a i lov om en aktiv beskæftigelsesindsats som ændret ved denne lovs § 1, nr. 1.
+
+Stk. 2. For personer, der i perioden fra og med den 1. januar 2023 til den 1. juli 2023 har fået bevilget eller har påbegyndt et tilbud om dele af en erhvervsuddannelse efter §§ 90 eller 96 i lov om en aktiv beskæftigelsesindsats, hvor personen opfylder betingelserne i § 97 a, stk. 1, i lov om en aktiv beskæftigelsesindsats som ændret ved denne lovs § 1, nr. 1, og hvor tilbuddet opfylder betingelserne i § 97 a, stk. 1 og 2, i lov om en aktiv beskæftigelsesindsats som ændret ved denne lovs § 1, nr. 1, bortset fra betingelsen om, at tilbuddet skal omfatte en hel erhvervsuddannelse, skal jobcenteret med virkning fra den 1. juli 2023 ændre tilbuddet til et tilbud efter § 97 a i lov om en aktiv beskæftigelsesindsats som ændret ved denne lovs § 1, nr. 1, hvis personen ønsker dette.
+
+Stk. 3. For medlemmer af en arbejdsløshedskasse, der får ændret deres tilbud efter §§ 90 eller 96 i lov om en aktiv beskæftigelsesindsats til et tilbud efter § 97 a i lov om en aktiv beskæftigelsesindsats som ændret ved denne lovs § 1, nr. 1, skal arbejdsløshedskassen opgøre dagpengesatsen efter § 48 a, stk. 3, i lov om arbejdsløshedsforsikring m.v. og udbetale differencen i forhold til de hidtidige udbetalte dagpenge. Efterbetalingen gælder for perioden fra og med den 1. juli 2023 og tidligst fra den 1. i måneden efter påbegyndelsen af det ændrede tilbud. Arbejdsløshedskassen skal efterbetale dagpengene, efter at jobcenteret har ændret medlemmets tilbud og senest ved anden udbetaling af dagpengene.
+
+Stk. 4. Medlemmer af en arbejdsløshedskasse, der har optaget lån efter §§ 75 i-75 n i lov om arbejdsløshedsforsikring m.v. den 1. juli 2023 eller senere, har ret til efterbetaling efter stk. 3, 1. pkt., når lånet med påløbne renter er indfriet. Indfrielse af lånet inklusive renter kan ske ved modregning i efterbetalingsbeløbet efter stk. 3, 1. pkt.
+
+Stk. 5. For et ledigt medlem af en anerkendt arbejdsløshedskasse, der i perioden fra og med den 1. august 2020 til og med den 30. juni 2023 er overgået fra deltagelse i tilbud efter § 97 a i lov om en aktiv beskæftigelsesindsats med forhøjet dagpengesats til sygedagpenge eller barselsdagpenge, og hvor personen fortsat modtager sygedagpenge eller barselsdagpenge, beregnes sygedagpenge eller barselsdagpenge for perioden fra lovens ikrafttræden på samme måde, som hvis den pågældende ikke havde deltaget i tilbuddet med forhøjet dagpengesats, jf. dog sygedagpengelovens § 53 a. Satsen beregnes, som om personen overgik fra dagpenge til at modtage sygedagpenge eller barselsdagpenge pr. 1. juli 2023.
+
+Lov nr. 754 af 13. juni 2023 (Handlekommune for børn, der hjælpes tilbage til Danmark af danske myndigheder, og for børn, hvis forældre er i udlandet, ensretning af begrebsbrug, nødvendige ændringer i handlekommunereglerne som følge af barnets lov m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 24
+
+Stk. 1. Loven træder i kraft den 1. januar 2024.
+
+Stk. 2-5. (Udelades)
+
+Lov nr. 1541 af 12. december 2023 (Et forbedret arbejdsskadesystem og lettere adgang til erstatning i forbindelse med vold på arbejdspladsen) indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 9
+
+Stk. 1. Loven træder i kraft den 1. januar 2024, jf. dog stk. 2 og 3.
+
+Stk. 2-3. (Udelades)
+
+Lov nr. 1769 af 28. december 2023 (Mulighed for dispensation til eksport af pensionstillæg m.v., forenklet beregning af fleksløntilskud, herunder i forhold til hjælp til dækning af tabt arbejdsfortjeneste m.v., og ændring af mellemkommunal refusion for førtidspension og seniorpension) indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 7
+
+Stk. 1. Loven træder i kraft den 1. januar 2024.
+
+Stk. 2-7. (Udelades)
+
+Lov nr. 1770 af 28. december 2023 (Permanent uddannelsesløft med forhøjet dagpengesats på 110 pct.) indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 2
+
+Loven træder i kraft ved bekendtgørelsen i Lovtidende.

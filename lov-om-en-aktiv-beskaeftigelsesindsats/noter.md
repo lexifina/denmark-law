@@ -45,3 +45,23 @@
 23) Lovændringen vedrører lovens § 30 a.
 
 24) Lovændringen vedrører lovens § 132, stk. 1.
+
+25) Lovændringen vedrører lovens § 106, stk. 1, nr. 1.
+
+26) Lovændringen vedrører lovens § 27, stk. 2.
+
+27) Lovændringen vedrører lovens § 31 a, overskriften før § 33, § 33, stk. 1, § 33, stk. 2, 2.pkt, § 33, stk. 4, § 39, nr. 1, § 41, stk. 2, nr. 7, § 102, stk. 1, § 102, stk. 6 og § 167, stk. 2.
+
+28) Lovændringen vedrører lovens § 97 b, stk. 1, § 97 b, stk. 2, § 97 b, stk. 4 og § 97 b, stk. 8.
+
+29) Lovændringen vedrører lovens § 3, § 10, stk. 1, § 11, stk. 4, § 12, stk. 2, § 13, stk. 3 og 4, § 18, stk. 2, § 23, stk. 4-6, overskriften før § 25, § 25, § 26, § 27, stk. 2 og 3, § 28, stk. 1, nr. 2, § 28, stk. 1, nr. 3, § 30, stk. 3, 1. pkt., overskrift efter § 30 a, § 30 a, § 31, stk. 1-4, § 33, stk. 2, § 33, stk. 4, § 34, stk. 1, 2. pkt., § 34, stk. 2, 1. pkt., § 34, stk. 2, 2. pkt., § 35, § 38, stk. 1, 4. og 5. pkt., § § 38, stk. 2, 2. pkt., § 42, § 53, stk. 4, 1. pkt., § 53, stk. 5, § 58, stk. 2, § 104, 1. pkt., § 105, stk. 1, § 106, stk. 1, § 106, stk. 3, § 125, stk. 1, § 180 a, § 182, 2. pkt., § 193 og § 207, stk. 2 og 3.
+
+30) Lovændringen vedrører lovens § § 97 a, stk. 1.
+
+31) Lovændringen vedrører lovens § 158, stk.1, 1.pkt., § 203, stk. 2.
+
+32) Lovændringen vedrører lovens § 7, stk. 2 og overskriften før § 39.
+
+33) Lovændringen vedrører lovens § 47, stk. 2, § 110, stk. 1, 2. pkt., § 114, stk. 1, 2. pkt., § 123, stk. 3, 2 og 3. pkt., § 124, stk. 3, § 130, 1. og 3. pkt. og § 139, stk. 1.
+
+34) Lovændringen vedrører lovens overskriften før § 97 a, og § 97 a, stk. 1.
