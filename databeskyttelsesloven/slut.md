@@ -1,10 +1,8 @@
-Givet på Amalienborg, den 23. maj 2018
+Justitsministeriet, den 8. marts 2024
 
-Under Vor Kongelige Hånd og Segl
+Peter Hummelgaard
 
-MARGRETHE R.
-
-/ Søren Pape Poulsen
+/ Louise Black Mogensen
 
 Bilag 1
 
