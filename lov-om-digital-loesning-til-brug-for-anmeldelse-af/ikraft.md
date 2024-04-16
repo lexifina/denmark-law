@@ -1,4 +1,4 @@
-Lov nr. 326 af 11. april 2012 (Fordeling af myndighedsansvaret mellem kommunerne og Udbetaling Danmark m.v.), indeholder følgende ikrafttrædelses- og overgangsbestemmelser:
+Lov nr. 326 af 11. april 2012 om ændring af forskellige love som følge af etableringen af Udbetaling Danmark og om ophævelse af lov om ændring af regler for statens udbetaling af refusion af kommunernes udgifter i henhold til den sociale pensions- og bistandslovgivning m.v. (Fordeling af myndighedsansvaret mellem kommunerne og Udbetaling Danmark m.v.), indeholder følgende ikrafttrædelses- og overgangsbestemmelser:
 
 § 25
 
@@ -32,13 +32,13 @@ Stk. 9. På sagsområder, hvor myndighedsansvaret overgår til Udbetaling Danmar
 
 Stk. 10. (Udelades)
 
-Lov nr. 357 af 9. april 2013 (Digital kommunikation om tilskudsordninger m.v.), indeholder følgende ikrafttrædelsesbestemmelse:
+Lov nr. 357 af 9. april 2013 om ændring af lov om en aktiv beskæftigelsesindsats, lov om digital indberetningsløsning til brug for anmeldelse af sygefravær samt anmodning om refusion af sygedagpenge og dagpenge efter barselloven, lov om sygedagpenge og barselloven (Digital kommunikation om tilskudsordninger m.v.), indeholder følgende ikrafttrædelsesbestemmelse:
 
 § 5
 
 Loven træder i kraft den 15. april 2013.
 
-Lov nr. 503 af 23. maj 2018 (Konsekvensændringer som følge af databeskyttelsesloven og databeskyttelsesforordningen samt medieansvarslovens anvendelse på offentligt tilgængelige informationsdatabaser m.v.) indeholder følgende ikrafttrædelsesbestemmelser:
+Lov nr. 503 af 23. maj 2018 om ændring af lov om retshåndhævende myndigheders behandling af personoplysninger, lov om massemediers informationsdatabaser og forskellige andre love (Konsekvensændringer som følge af databeskyttelsesloven og databeskyttelsesforordningen samt medieansvarslovens anvendelse på offentligt tilgængelige informationsdatabaser m.v.) indeholder følgende ikrafttrædelsesbestemmelser:
 
 § 32
 
@@ -53,3 +53,11 @@ Stk. 1. Lovens §§ 4-25, og 29 gælder ikke for Færøerne, men lovens §§ 4, 
 Stk. 2. Lovens §§ 1, 4-25, og 29 gælder ikke for Grønland, men lovens §§ 1, 4, 8, 14, 17, 18, 24, og 25 kan ved kongelig anordning sættes helt eller delvis i kraft for Grønland med de ændringer, som de grønlandske forhold tilsiger.
 
 Stk. 3-5. (Udelades)
+
+Lov nr. 295 af 20. marts 2023 om ændring af lov om en aktiv beskæftigelsesindsats, lov om sygedagpenge og forskellige andre love (Mere målrettede tilbud, udvidet mulighed for samtaler over video eller telefon, forenkling af opfølgning ved skærpet tilsyn m.v.) indeholder følgende ikrafttrædelsesbestemmelser:
+
+§ 10
+
+Stk. 1. Loven træder i kraft den 22. marts 2023, jf. dog stk. 2 og 3.
+
+Stk. 2-3. (Udelades)
