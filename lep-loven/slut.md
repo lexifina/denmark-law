@@ -1,5 +1,9 @@
-Uddannelses- og Forskningsministeriet, den 10. december 2019
+Uddannelses- og Forskningsministeriet, den 12. april 2024
 
-P.M.V. Søren Langelund Klit Konst. kontorchef
+P.M.V. Søren Langelund Klit Kontorchef
 
 / Marianne Madsen
+
+Bilag 1
+
+Uddannelsesinstitution og udbudssted Uddannelsesudbud Det Kongelige Akademi - Design, Bornholm Bachelor’s Degree Programme in Crafts in Glass and Ceramics Erhvervsakademiet Cphbusiness, Lyngby Bachelor’s Degree Programme in Web Development (top-up) Erhvervsakademi SydVest, Esbjerg Academy Profession Degree Programme in Computer Science Erhvervsakademi SydVest, Esbjerg Academy Profession Degree Programme in Multimedia Design Erhvervsakademi SydVest, Esbjerg Bachelor’s Degree Programme in Software Development (top-up) Erhvervsakademi SydVest, Esbjerg Bachelor’s Degree Programme in Web Development (top-up) Erhvervsakademi Aarhus, Ringvej Syd Academy Profession Degree Programme in Multimedia Design Erhvervsakademi Aarhus, Ringvej Syd Bachelor’s Degree Programme in Digital Concept Development (top-up) Professionshøjskolen Absalon, Campus Kalundborg Bachelor of Engineering in Biotechnology Professionshøjskolen VIA University College, Campus Herning Academy Profession Degree Programme in Design, Technology and Business Professionshøjskolen VIA University College, Campus Herning Bachelor’s Degree Programme in Design and Business (top-up) Professionshøjskolen VIA University College, Campus Horsens Bachelor’s Degree Programme in Architectural Technology and Construction Management Professionshøjskolen VIA University College, Campus Horsens Bachelor of Engineering in Software Technology Professionshøjskolen VIA University College, Campus Horsens Bachelor of Engineering in Climate and Supply Engineering Professionshøjskolen VIA University College, Kasernevej Viborg Bachelor’s Degree Programme in Animation Professionshøjskolen VIA University College, Kasernevej Viborg Bachelor’s Degree Programme in Graphic Storytelling Syddansk Universitet, Sønderborg Bachelor of Engineering in Electronics Syddansk Universitet, Sønderborg Bachelor of Engineering in Mechatronics Syddansk Universitet, Sønderborg Bachelor of Engineering in Mechanical Engineering

@@ -1,41 +1,31 @@
-Lov nr. 411 af 11. maj 2016 (Justering af fremdriftsreformen m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
+Lov nr. 363 af 9. marts 2021 (Adgangskurser til udvalgte erhvervsakademi- og professionsbacheloruddannelser, godkendelse af maritime ikkevideregående uddannelser m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
 
-§ 6
+§ 12
 
-Stk. 1. Loven træder i kraft den 1. juli 2016, jf. dog stk. 2.
+Stk. 1. Loven træder i kraft den 15. marts 2021.
 
-Stk. 2. Lovens § 1, nr. 1-4, 7, 9 og 11-20, træder i kraft den 1. september 2016 og har virkning for studerende, der optages på en kandidatuddannelse den 1. februar 2017 eller senere.
+Stk. 2. Regler, der er fastsat i medfør af § 2, stk. 1, i lov om friplads og stipendium til visse udenlandske studerende ved erhvervsakademiuddannelser og professionsbacheloruddannelser, jf. lovbekendtgørelse nr. 582 af 1. juni 2014, forbliver i kraft, indtil de ophæves.
 
-Stk. 3. De hidtidige regler, som er fastsat i medfør af § 8, stk. 3, i den gældende universitetslov, finder fortsat anvendelse, indtil universitetet har fastsat interne regler inden for den ramme, som ministeren fastsætter i medfør af § 8, stk. 3, i universitetsloven som affattet ved denne lovs § 1, nr. 6.
+Lov nr. 2622 af 28. december 2021 (Regulering af udbuds- og undervisningssprog på erhvervsakademi- og professionsbacheloruddannelser) indeholder følgende ikrafttrædelsesbestemmelse:
 
-Stk. 4. De hidtidige regler, som er fastsat i medfør af § 12, stk. 1, nr. 1 og 2, i den gældende lov om videregående kunstneriske uddannelsesinstitutioner under Kulturministeriet, finder fortsat anvendelse, indtil institutionerne har fastsat interne regler inden for den ramme, som ministeren fastsætter i medfør af § 12, stk. 1, nr. 1, i lov om videregående kunstneriske uddannelsesinstitutioner under Kulturministeriet som affattet ved denne lovs § 5, nr. 1.
+§ 2
 
-Lov nr. 435 af 8. maj 2017 (Lønnede projektorienterede forløb i visse lande og mulighed for erkendtlighed under ulønnede projektorienterede forløb, praktik og studieophold) indeholder følgende ikrafttrædelsesbestemmelse:
+Stk. 1. Loven træder i kraft den 1. januar 2022 og har virkning for uddannelser, der udbydes fra og med studieåret 2022-23.
 
-§ 7
+Stk. 2. Godkendelsen af erhvervsakademiuddannelser og professionsbacheloruddannelser, der er udbudt på et andet sprog end dansk, og som ikke fremgår af bilag 1, jf. § 7 c, stk. 2, i lov om erhvervsakademiuddannelser og professionsbacheloruddannelser, jf. denne lovs § 1, nr. 2 og 4, bortfalder, jf. dog stk. 3.
 
-Stk. 1. Loven træder i kraft den 1. juli 2017.
+Stk. 3. Studerende, der den 1. januar 2022 er optaget på en erhvervsakademiuddannelse eller professionsbacheloruddannelse, der er udbudt på et andet sprog end dansk, og som ikke fremgår af bilag 1, jf. § 7 c, stk. 2, i lov om erhvervsakademiuddannelser og professionsbacheloruddannelser, jf. denne lovs § 1, nr. 2 og 4, har ret til at færdiggøre uddannelsen i henhold til reglerne for uddannelsen og på det sprog, som uddannelsen blev udbudt på, da den studerende blev optaget på uddannelsen.
 
-Stk. 2. Regler fastsat i medfør af § 10, stk. 5, i lov om videregående kunstneriske uddannelsesinstitutioner, jf. lovbekendtgørelse nr. 59 af 26. januar 2015, som ændret ved § 3 i lov nr. 411 af 11. maj 2016 forbliver i kraft, indtil de ophæves eller afløses af forskrifter udstedt i medfør af denne lov.
+Lov nr. 492 af 15. maj 2023 (Regulering af beløb, som studerende kan modtage som en erkendtlighed under ulønnede projektorienterede forløb og ulønnet praktik m.v., harmonisering af regler om strategiske rammekontrakter og ingen prækvalifikation ved overdragelse af uddannelser inden for samme geografiske område) indeholder følgende ikrafttrædelsesbestemmelse:
 
-Lov nr. 311 af 25. april 2018 om Studievalg Danmark indeholder følgende ikrafttrædelsesbestemmelse:
+§ 10
 
-§ 10. Loven træder i kraft den 1. maj 2018, jf. dog stk. 2.
+Stk. 1. Loven træder i kraft den 1. juli 2023.
 
-Stk. 2. §§ 2-5, 7-9 og 11-17 træder i kraft den 1. august 2018.
+Stk. 2. Regler fastsat i medfør af § 18, stk. 4, i lov om akkreditering af videregående uddannelsesinstitutioner, jf. lovbekendtgørelse nr. 1667 af 12. august 2021, forbliver i kraft, indtil de ophæves eller afløses af forskrifter fastsat i medfør af § 18, stk. 5, i lov om akkreditering af videregående uddannelsesinstitutioner, jf. denne lovs § 9, nr. 1.
 
-Stk. 3-5. (Udelades)
+Lov nr. 1798 af 28. december 2023 (Virtuel udveksling for studerende) indeholder følgende ikrafttrædelsesbestemmelse:
 
-Lov nr. 737 af 8. juni 2018 (Opfølgning på nyt bevillingssystem for de videregående uddannelser m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
+§ 5
 
-§ 8
-
-Loven træder i kraft den 1. januar 2019.
-
-Lov nr. 511 af 1. maj 2019 (Akademisk overbygningsuddannelse, særlig anvendelse af adgangsprøver til universitetsuddannelser, bachelorers ret til optagelse på en kandidatuddannelse m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
-
-§ 6
-
-Stk. 1. Loven træder i kraft den 1. juli 2019, jf. dog stk. 2.
-
-Stk. 2-4. (Udelades)
+Loven træder i kraft den 1. januar 2024.
