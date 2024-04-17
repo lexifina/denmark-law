@@ -1,0 +1,1 @@
+§ 3 a. Ministeren for byer og landdistrikter fastsætter regler om en forsøgsordning, hvorefter kommunalbestyrelsen kan tillade udvidet vintercampering indtil den 28. februar 2025 på en campingplads med tilladelse til vintercampering, jf. regler fastsat i medfør af § 3, der er meddelt senest den 30. juni 2023.
