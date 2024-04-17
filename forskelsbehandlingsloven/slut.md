@@ -1,8 +1,8 @@
-Beskæftigelsesministeriet, den 24. august 2017
+Beskæftigelsesministeriet, den 5. april 2024
 
-Troels Lund Poulsen
+Ane Halsboe-Jørgensen
 
-/ Vibe Westh
+/ Christian Andersen-Mølgaard
 
 Bilag 1
 
@@ -319,3 +319,5 @@ Links til EF direktiver, jf. note 1
 Direktiv 2000/43/EF Celex no. 32000L0043
 
 Direktiv 2000/78/EF Celex no. 32000L0078
+
+EU Noter
