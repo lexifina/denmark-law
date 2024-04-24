@@ -8,7 +8,9 @@
 
 3) når der fremstilles eller forarbejdes varer uden for afgiftssuspensionsordningen, eller
 
-4) når varer importeres her i landet fra steder uden for EU, jf. § 18, medmindre de pågældende varer umiddelbart efter importen henføres under afgiftssuspensionsordningen, eller ved uretmæssig indpassage af varer, medmindre toldskylden er bortfaldet i medfør af artikel 124, stk. 1, litra e-g eller k, i Europa-Parlamentets og Rådets forordning (EU) nr. 952/2013 om EU-toldkodeksen. Stk. 2. Varer anses tillige for overgået til forbrug her i landet ved uregelmæssige transaktioner med de pågældende varer efter stk. 1, nr. 1-3og 4, jf. § 33 b.
+4) når varer importeres her i landet fra steder uden for EU, jf. § 18, medmindre de pågældende varer umiddelbart efter importen henføres under afgiftssuspensionsordningen, eller ved uretmæssig indpassage af varer, medmindre toldskylden er bortfaldet i medfør af artikel 124, stk. 1, litra e-g eller k, i Europa-Parlamentets og Rådets forordning (EU) nr. 952/2013 om EU-toldkodeksen.
+
+Stk. 2. Varer anses tillige for overgået til forbrug her i landet ved uregelmæssige transaktioner med de pågældende varer efter stk. 1, nr. 1-3, jf. § 33 b.
 
 Stk. 3. Varer anses for at forlade afgiftssuspensionsordningen her i landet efter stk. 1, nr. 1, på tidspunktet for modtagelsen af varerne, når varetransporten sker til
 
