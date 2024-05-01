@@ -1,4 +1,4 @@
-Lov nr. 438 af 31. maj 2000 (Tidsbegrænsning af foranstaltninger efter straffelovens §§ 68 og 69) indeholder følgende ikrafttrædelsesbestemmelse:
+Lov nr. 438 af 31. maj 2000 om ændring af straffeloven (Tidsbegrænsning af foranstaltninger efter straffelovens §§ 68 og 69) indeholder følgende ikrafttrædelsesbestemmelse:
 
 § 2
 
@@ -6,7 +6,7 @@ Stk. 1. Loven træder i kraft den 1. juli 2000.
 
 Stk. 2. Straffelovens § 68 a og § 69 a som affattet ved denne lovs § 1, nr. 1 og 3, finder anvendelse på foranstaltninger efter straffelovens §§ 68 og 69, der idømmes efter lovens ikrafttræden. Det samme gælder foranstaltninger, der efter lovens ikrafttræden fastsættes efter straffelovens § 72, jf. §§ 68 og 69, og som medfører en skærpelse af foranstaltningen.
 
-Lov nr. 441 af 31. maj 2000 (Forældelse, styrket indsats mod seksuelt misbrug af børn og unge samt IT-efterforskning) indeholder følgende ikrafttrædelsesbestemmelse:
+Lov nr. 441 af 31. maj 2000 om ændring af straffeloven og retsplejeloven (Forældelse, styrket indsats mod seksuelt misbrug af børn og unge samt IT-efterforskning) indeholder følgende ikrafttrædelsesbestemmelse:
 
 § 3
 
@@ -14,7 +14,7 @@ Stk. 1. Loven træder i kraft den 1. juli 2000.
 
 Stk. 2. De i § 1 nævnte bestemmelser i straffelovens § 94, stk. 4, og § 97, stk. 4 og 6, gælder også for lovovertrædelser, der er begået, og retsfølger, der er pålagt, før lovens ikrafttræden. Bestemmelserne finder dog ikke anvendelse i tilfælde, hvor forældelse efter de hidtidige regler er indtrådt før lovens ikrafttræden.
 
-Lov nr. 433 af 31. maj 2000 (Ændringer som følge af straffuldbyrdelsesloven, afskaffelse af hæftestraffen og prøveløsladelse af livstidsdømte m.v.) indeholder følgende ikrafttrædelsesbestemmelser:
+Lov nr. 433 af 31. maj 2000 om ændring af forskellige lovbestemmelser i forbindelse med gennemførelsen af en lov om fuldbyrdelse af straf m.v. (Ændringer som følge af straffuldbyrdelsesloven, afskaffelse af hæftestraffen og prøveløsladelse af livstidsdømte m.v.) indeholder følgende ikrafttrædelsesbestemmelser:
 
 § 30
 
@@ -38,7 +38,7 @@ Stk. 3. § 31 finder tilsvarende anvendelse.
 
 (Udelades)
 
-Lov nr. 258 af 8. maj 2002 (Gennemførelse af EU-retshjælpskonventionen, den 2. tillægsprotokol til Europarådets retshjælpskonvention og EU-rammeafgørelse om fælles efterforskningshold) indeholder følgende bestemmelser om strafansvar og ikrafttræden:
+Lov nr. 258 af 8. maj 2002 om ændring af straffeloven, retsplejeloven, lov om konkurrence- og forbrugerforhold på telemarkedet og lov om international fuldbyrdelse af straf m.v. (Gennemførelse af EU-retshjælpskonventionen, den 2. tillægsprotokol til Europarådets retshjælpskonvention og EU-rammeafgørelse om fælles efterforskningshold) indeholder følgende bestemmelser om strafansvar og ikrafttræden:
 
 § 3
 
@@ -46,7 +46,11 @@ Stk. 1. Bestemmelserne i straffelovens kapitel 14 om forbrydelser mod den offent
 
 Stk. 2. Forvolder en embedsmand fra en anden medlemsstat skade under udførelse af opgaver i Danmark efter artikel 12 og 13 i konvention af 29. maj 2000 om gensidig retshjælp i straffesager mellem Den Europæiske Unions medlemsstater samt tilsvarende bestemmelser i andre EU-retsakter eller efter artikel 18 og 20 i 2. tillægsprotokol af 8. november 2001 til den europæiske konvention af 20. april 1959 om gensidig retshjælp i straffesager, som efter dansk ret medfører erstatningspligt, udbetales erstatning af justitsministeren.
 
-§§ 4-5
+§ 4
+
+(Udelades)
+
+§ 5
 
 (Udelades)
 
@@ -54,7 +58,7 @@ Stk. 2. Forvolder en embedsmand fra en anden medlemsstat skade under udførelse 
 
 Loven træder i kraft den 1. juli 2002.
 
-Lov nr. 718 af 25. juni 2010 (Rekonstruktion m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
+Lov nr. 718 af 25. juni 2010 om ændring af konkursloven og forskellige andre love (Rekonstruktion m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
 
 § 55
 
@@ -64,7 +68,7 @@ Stk. 2-9. (Udelades)
 
 Stk. 10. Straffelovens § 283, stk. 1, nr. 2, § 300, nr. 3, og § 304, stk. 2, som affattet ved denne lovs § 11, nr. 1, 3 og 4, finder tilsvarende anvendelse på forhandling om tvangsakkord.
 
-Lov nr. 1552 af 21. december 2010 (Sporing af skjult udbytte og andre aktiver, forældelse af konfiskationskrav, hemmelig beslaglæggelse m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
+Lov nr. 1552 af 21. december 2010 om ændring af straffeloven og retsplejeloven (Sporing af skjult udbytte og andre aktiver, forældelse af konfiskationskrav, hemmelig beslaglæggelse m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
 
 § 3
 
@@ -72,7 +76,7 @@ Stk. 1. Loven træder i kraft den 1. januar 2011.
 
 Stk. 2. Den i § 1 nævnte bestemmelse i straffelovens § 97 a, stk. 1, gælder også for lovovertrædelser, der er begået, og retsfølger, der er pålagt før lovens ikrafttræden. Bestemmelsen finder dog ikke anvendelse i tilfælde, hvor forældelse efter de hidtil gældende regler er indtrådt før lovens ikrafttræden.
 
-Lov nr. 158 af 28. februar 2012 (Forhøjelse af den kriminelle lavalder) indeholder følgende ikrafttrædelsesbestemmelse:
+Lov nr. 158 af 28. februar 2012 om ændring af straffeloven, retsplejeloven, lov om erstatning fra staten til ofre for forbrydelser og færdselsloven (Forhøjelse af den kriminelle lavalder) indeholder følgende ikrafttrædelsesbestemmelse:
 
 § 5
 
@@ -80,7 +84,7 @@ Stk. 1. Loven træder i kraft dagen efter bekendtgørelsen i Lovtidende.
 
 Stk. 2. Hvor det ved straffens fastsættelse skal indgå som en skærpende omstændighed, at gerningsmanden tidligere er straffet af betydning for sagen, kommer afgørelser, der er truffet i forhold til personer, for handlinger foretaget, inden de pågældende var fyldt 15 år, ikke i betragtning.
 
-Lov nr. 633 af 12. juni 2013 (Seksualforbrydelser) indeholder følgende ikrafttrædelsesbestemmelse:
+Lov nr. 633 af 12. juni 2013 om ændring af straffeloven, retsplejeloven, lov om tilhold, opholdsforbud og bortvisning og lov om restaurationsvirksomhed og alkoholbevilling m.v. (Seksualforbrydelser) indeholder følgende ikrafttrædelsesbestemmelse:
 
 § 5
 
@@ -94,7 +98,7 @@ Stk. 4. Straffelovens § 236, stk. 6, som affattet ved denne lovs § 1, nr. 27, 
 
 Stk. 5. Straffelovens § 236, stk. 7, som affattet ved denne lovs § 1, nr. 27, finder også anvendelse på pålæg givet før lovens ikrafttræden efter de hidtil gældende regler i straffelovens § 236.
 
-Lov nr. 634 af 12. juni 2013 (Styrket indsats over for økonomisk kriminalitet) indeholder følgende ikrafttrædelsesbestemmelse:
+Lov nr. 634 af 12. juni 2013 om ændring af straffeloven, retsplejeloven og forskellige andre love (Styrket indsats over for økonomisk kriminalitet) indeholder følgende ikrafttrædelsesbestemmelse:
 
 § 13
 
@@ -104,7 +108,7 @@ Stk. 2. § 1, nr. 3 og 4, finder anvendelse på konfiskationskrav, der er idømt
 
 Stk. 3. (Udelades)
 
-Lov nr. 168 af 26. februar 2014 (Gennemførelse af Europarådets konvention til forebyggelse og bekæmpelse af vold mod kvinder og vold i hjemmet) indeholder følgende ikrafttrædelsesbestemmelse:
+Lov nr. 168 af 26. februar 2014 om ændring af straffeloven (Gennemførelse af Europarådets konvention til forebyggelse og bekæmpelse af vold mod kvinder og vold i hjemmet) indeholder følgende ikrafttrædelsesbestemmelse:
 
 § 2
 
@@ -112,7 +116,7 @@ Stk. 1. Loven træder i kraft den 1. juni 2014.
 
 Stk. 2. § 1 finder også anvendelse på lovovertrædelser, der er begået før lovens ikrafttræden, medmindre forældelse efter de hidtil gældende regler er indtrådt før lovens ikrafttræden.
 
-Lov nr. 739 af 25. juni 2014 (Reorganisering af kriminalforsorgen, herunder begrænsning af klageadgangen) indeholder følgende ikrafttrædelsesbestemmelser:
+Lov nr. 739 af 25. juni 2014 om ændring af straffeloven, lov om fuldbyrdelse af straf m.v., retsplejeloven og lov om Offerfonden (Reorganisering af kriminalforsorgen, herunder begrænsning af klageadgangen) indeholder følgende ikrafttrædelsesbestemmelser:
 
 § 5
 
@@ -122,7 +126,7 @@ Justitsministeren fastsætter tidspunktet for lovens ikrafttræden.
 
 Sager, hvori der er truffet afgørelse af en institution inden lovens ikrafttræden, kan påklages til Direktoratet for Kriminalforsorgen efter de hidtil gældende regler. Direktoratet for Kriminalforsorgens afgørelse i sager, der er påklaget efter 1. pkt., kan ikke påklages til Justitsministeriet.
 
-Lov nr. 152 af 18. februar 2015 (Samfundstjeneste m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
+Lov nr. 152 af 18. februar 2015 om ændring af straffeloven og lov om fuldbyrdelse af straf m.v. (Samfundstjeneste m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
 
 § 4
 
@@ -132,7 +136,7 @@ Stk. 2. Loven finder anvendelse på domme, der afsiges efter lovens ikrafttræde
 
 Stk. 3. (Udelades)
 
-Lov nr. 140 af 28. februar 2018 (Ophævelse af forældelsesfrister for gerningsmandens strafansvar i sager om seksuelt misbrug af børn og for erstatningskrav mod forvaltningsmyndigheder for svigt i sager om overgreb mod børn, forhøjelse af niveauet for tortgodtgørelse for seksuelle krænkelser samt ophævelse af 72-timersreglen i sager om voldtægt, incest og seksuelt misbrug af børn m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
+Lov nr. 140 af 28. februar 2018 om ændring af straffeloven, lov om forældelse af fordringer, lov om erstatningsansvar og lov om erstatning fra staten til ofre for forbrydelser (Ophævelse af forældelsesfrister for gerningsmandens strafansvar i sager om seksuelt misbrug af børn og for erstatningskrav mod forvaltningsmyndigheder for svigt i sager om overgreb mod børn, forhøjelse af niveauet for tortgodtgørelse for seksuelle krænkelser samt ophævelse af 72-timersreglen i sager om voldtægt, incest og seksuelt misbrug af børn m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
 
 § 5
 
@@ -142,7 +146,7 @@ Stk. 2. § 1 finder også anvendelse på lovovertrædelser, der er begået før 
 
 Stk. 3-5. (Udelades)
 
-Lov nr. 718 af 8. juni 2018 (Udskydelse af forældelsesfristen i visse sager om vold mod børn i hjemmet og skærpelse af straffen for gentagen simpel vold i nære relationer) indeholder følgende ikrafttrædelsesbestemmelse:
+Lov nr. 718 af 8. juni 2018 om ændring af straffeloven (Udskydelse af forældelsesfristen i visse sager om vold mod børn i hjemmet og skærpelse af straffen for gentagen simpel vold i nære relationer) indeholder følgende ikrafttrædelsesbestemmelse:
 
 § 2
 
@@ -158,7 +162,7 @@ Stk. 2. Loven finder anvendelse for sager om kriminalitet begået efter lovens i
 
 Stk. 3. (Udelades)
 
-Lov nr. 1719 af 27. december 2018 (Freds- og ærekrænkelser m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
+Lov nr. 1719 af 27. december 2018 om ændring af straffeloven, retsplejeloven, lov om erstatningsansvar og medieansvarsloven (Freds- og ærekrænkelser m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
 
 § 5
 
@@ -166,7 +170,7 @@ Stk. 1. Loven træder i kraft den 1. januar 2019.
 
 Stk. 2. Lovens § 1, § 2, nr. 2 og 3, og § 3 finder ikke anvendelse i forhold til handlinger begået før lovens ikrafttræden.
 
-Lov nr. 1425 af 17. december 2019 (Forbud til dømte seksualforbrydere) indeholder følgende ikrafttrædelsesbestemmelse:
+Lov nr. 1425 af 17. december 2019 om ændring af straffeloven (Forbud til dømte seksualforbrydere) indeholder følgende ikrafttrædelsesbestemmelse:
 
 § 2
 
@@ -174,7 +178,7 @@ Stk. 1. Loven træder i kraft den 1. januar 2020.
 
 Stk. 2. § 1, nr. 4 og 5, finder anvendelse på forbud givet før lovens ikrafttræden efter de hidtil gældende regler i straffelovens § 236.
 
-Lov nr. 1426 af 17. december 2019 (Begrænsning af brugen af betinget dom med vilkår om samfundstjeneste i sager om vold) indeholder følgende ikrafttrædelsesbestemmelse:
+Lov nr. 1426 af 17. december 2019 om ændring af straffeloven (Begrænsning af brugen af betinget dom med vilkår om samfundstjeneste i sager om vold) indeholder følgende ikrafttrædelsesbestemmelse:
 
 § 2
 
@@ -182,7 +186,7 @@ Stk. 1. Loven træder i kraft den 1. januar 2020.
 
 Stk. 2. Loven finder anvendelse på lovovertrædelser, der er begået efter lovens ikrafttræden.
 
-Lov nr. 349 af 2. april 2020 (Skærpet straf for lovovertrædelser med baggrund i eller sammenhæng med covid-19 og blokering af hjemmesider, hvorfra der begås visse lovovertrædelser, som har baggrund i eller sammenhæng med covid-19), som ændret ved lov nr. 289 af 27. februar 2021 (Udskydelse af solnedgangsklausul) og lov nr. 893 af 21. juni 2022 (Opfølgning på flerårsaftalen om kriminalforsorgens økonomi 2022-2025, herunder leje af fængselspladser i udlandet, revision af disciplinærstraffesystemet, udstationering til eget hjem med fodlænke eller udslusningsfængsel m.v.), indeholder følgende ikrafttrædelsesbestemmelse:
+Lov nr. 349 af 2. april 2020 om ændring af straffeloven, retsplejeloven og udlændingeloven (Skærpet straf for lovovertrædelser med baggrund i eller sammenhæng med covid-19 og blokering af hjemmesider, hvorfra der begås visse lovovertrædelser, som har baggrund i eller sammenhæng med covid-19), som ændret ved lov nr. 289 af 27. februar 2021 om ændring af lov om ændring af straffeloven, retsplejeloven og udlændingeloven (Udskydelse af solnedgangsklausul), lov nr. nr. 431 af 16. marts 2021 om ændring af lov om ændring af straffeloven, retsplejeloven og udlændingeloven (Ophævelse af revisionsbestemmelse) og lov nr. 893 af 21. juni 2022 om ændring af lov om fuldbyrdelse af straf m.v., straffeloven, retsplejeloven og forskellige andre love (Opfølgning på flerårsaftalen om kriminalforsorgens økonomi 2022-2025, herunder leje af fængselspladser i udlandet, revision af disciplinærstraffesystemet, udstationering til eget hjem med fodlænke eller udslusningsfængsel m.v.), indeholder følgende ikrafttrædelsesbestemmelse:
 
 § 4
 
@@ -192,11 +196,11 @@ Stk. 2. (Udelades)
 
 Stk. 3. Straffelovens § 81 d som affattet ved denne lovs § 1, nr. 1, retsplejelovens § 791 d, stk. 1, 2. pkt., som affattet ved denne lovs § 2, nr. 1, retsplejelovens § 791 d, stk. 6, som affattet ved denne lovs § 2, nr. 2, og udlændingelovens § 22, nr. 9, som affattet ved denne lovs § 3, nr. 1, ophæves den 1. januar 2022.
 
-Stk. 4. Straffelovens § 81 d som affattet ved denne lovs § 1, nr. 1, retsplejelovens § 791 d, stk. 1, 2. pkt., som affattet ved denne lovs § 2, nr. 1, retsplejelovens § 791 d, stk. 6, som affattet ved denne lovs § 2, nr. 2, og udlændingelovens § 22, nr. 9, som affattet ved denne lovs § 3, nr. 1, ophæves den 1. januar 2022.
+Stk. 4. Ved pådømmelse fra og med den 1. juli 2022 af forhold omfattet af straffelovens § 81 d, stk. 1, som affattet ved denne lovs § 1, nr. 1, skal der ikke ske strafskærpelse efter straffelovens § 81 d, stk. 2, som affattet ved denne lovs § 1, nr. 1.
 
 Stk. 5. Straffelovens § 81 d, stk. 3, som affattet ved denne lovs § 1, nr. 1, finder uanset stk. 4 fortsat anvendelse.
 
-Lov nr. 2591 af 28. december 2021 (Styrket beskyttelse af lgbti-personer mod forskelsbehandling, hadforbrydelser og hadefulde ytringer og beskyttelse af personer med handicap mod hadefulde ytringer) indeholder følgende ikrafttrædelsesbestemmelse:
+Lov nr. 2591 af 28. december 2021 om ændring af lov om ligestilling af kvinder og mænd, lov om forbud mod forskelsbehandling på arbejdsmarkedet m.v., straffeloven og forskellige andre love (Styrket beskyttelse af lgbti-personer mod forskelsbehandling, hadforbrydelser og hadefulde ytringer og beskyttelse af personer med handicap mod hadefulde ytringer) indeholder følgende ikrafttrædelsesbestemmelse:
 
 § 7
 
@@ -204,7 +208,7 @@ Stk. 1. Loven træder i kraft den 1. januar 2022, jf. dog stk. 2.
 
 Stk. 2. (Udelades)
 
-Lov nr. 2600 af 28. december 2021 (Styrket indsats mod stalking) indeholder følgende ikrafttrædelsesbestemmelse:
+Lov nr. 2600 af 28. december 2021 om ændring af straffeloven, retsplejeloven og lov om tilhold, opholdsforbud og bortvisning (Styrket indsats mod stalking) indeholder følgende ikrafttrædelsesbestemmelse:
 
 § 4
 
@@ -212,31 +216,31 @@ Stk. 1. Loven træder i kraft den 1. januar 2022.
 
 Stk. 2. Loven finder ikke anvendelse på klager over politidirektørens afgørelse om meddelte tilhold, opholdsforbud eller bortvisning indgivet før lovens ikrafttræden. For sådanne klager finder de hidtil gældende regler anvendelse.
 
-Lov nr. 2601 af 28. december 2021 (Implementering af initiativer i aftale om politiets og anklagemyndighedens økonomi 2021-2023, herunder etablering af National Enhed for Særlig Kriminalitet) indeholder følgende ikrafttrædelsesbestemmelse:
+Lov nr. 2601 af 28. december 2021 om ændring af straffeloven, retsplejeloven, hvidvaskloven og forskellige andre love (Implementering af initiativer i aftale om politiets og anklagemyndighedens økonomi 2021-2023, herunder etablering af National Enhed for Særlig Kriminalitet) indeholder følgende ikrafttrædelsesbestemmelse:
 
 § 23
 
 Loven træder i kraft den 1. januar 2022.
 
-Lov nr. 158 af 31. januar 2022 (Opfølgning på initiativer i handlingsplanen til imødegåelse af udfordringerne med fangeflugter og delegation af afgørelseskompetence i sager om udgang for personer anbragt på hospital eller institution ved dom) indeholder følgende ikrafttrædelsesbestemmelse:
+Lov nr. 158 af 31. januar 2022 om ændring af retsplejeloven, lov om fuldbyrdelse af straf m.v. og straffeloven (Opfølgning på initiativer i handlingsplanen til imødegåelse af udfordringerne med fangeflugter og delegation af afgørelseskompetence i sager om udgang for personer anbragt på hospital eller institution ved dom) indeholder følgende ikrafttrædelsesbestemmelse:
 
 § 4
 
 Loven træder i kraft den 1. februar 2022.
 
-Lov nr. 226 af 15. februar 2022 (Styrket indsats mod seksuelle overgreb mod børn og styrket rådgivning til ofre for seksuelle overgreb) indeholder følgende ikrafttrædelsesbestemmelse:
+Lov nr. 226 af 15. februar 2022 om ændring af straffeloven, retsplejeloven og lov om pas til danske statsborgere m.v. (Styrket indsats mod seksuelle overgreb mod børn og styrket rådgivning til ofre for seksuelle overgreb) indeholder følgende ikrafttrædelsesbestemmelse:
 
 § 4
 
 Loven træder i kraft den 1. marts 2022.
 
-Lov nr. 292 af 8. marts 2022 (Kriminalisering af identitetsmisbrug) indeholder følgende ikrafttrædelsesbestemmelse:
+Lov nr. 292 af 8. marts 2022 om ændring straffeloven (Kriminalisering af identitetsmisbrug) indeholder følgende ikrafttrædelsesbestemmelse:
 
 § 2
 
 Loven træder i kraft den 1. april 2022.
 
-Lov nr. 452 af 20. april 2022 (Initiativer til beskyttelse af børn imod vold og negativ social kontrol, indførelse af regler om fleksibel udbetaling af hjælp til repatriering og hjemrejsestøtte m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
+Lov nr. 452 af 20. april 2022 om ændring af udlændingeloven, straffeloven, lov om aktiv socialpolitik, repatrieringsloven og forskellige andre love (Initiativer til beskyttelse af børn imod vold og negativ social kontrol, indførelse af regler om fleksibel udbetaling af hjælp til repatriering og hjemrejsestøtte m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
 
 § 16
 
@@ -244,19 +248,19 @@ Stk. 1. Loven træder i kraft den 1. maj 2022, jf. dog stk. 2.
 
 Stk. 2-8. (Udelades)
 
-Lov nr. 696 af 24. maj 2022 (Styrket indsats mod menneskeudnyttelse) indeholder følgende ikrafttrædelsesbestemmelse:
+Lov nr. 696 af 24. maj 2022 om ændring af straffeloven, retsplejeloven og udlændingeloven (Styrket indsats mod menneskeudnyttelse) indeholder følgende ikrafttrædelsesbestemmelse:
 
 § 4
 
 Loven træder i kraft den 1. juni 2022.
 
-Lov nr. 892 af 21. juni 2022 (Indførelse af særvilkår om økonomisk kontrol og målrettede forældrepålæg og børne- og ungepålæg ved utryghedsskabende adfærd) indeholder følgende ikrafttrædelsesbestemmelse:
+Lov nr. 892 af 21. juni 2022 om ændring af straffeloven, lov om social service og lov om fuldbyrdelse af straf m.v. (Indførelse af særvilkår om økonomisk kontrol og målrettede forældrepålæg og børne- og ungepålæg ved utryghedsskabende adfærd) indeholder følgende ikrafttrædelsesbestemmelse:
 
 § 4
 
 Loven træder i kraft den 1. juli 2022.
 
-Lov nr. 893 af 21. juni 2022 (Opfølgning på flerårsaftalen om kriminalforsorgens økonomi 2022-2025, herunder leje af fængselspladser i udlandet, revision af disciplinærstraffesystemet, udstationering til eget hjem med fodlænke eller udslusningsfængsel m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
+Lov nr. 893 af 21. juni 2022 om ændring af lov om fuldbyrdelse af straf m.v., straffeloven, retsplejeloven og forskellige andre love (Opfølgning på flerårsaftalen om kriminalforsorgens økonomi 2022-2025, herunder leje af fængselspladser i udlandet, revision af disciplinærstraffesystemet, udstationering til eget hjem med fodlænke eller udslusningsfængsel m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
 
 § 13
 
@@ -264,10 +268,50 @@ Stk. 1. Loven træder i kraft den 1. juli 2022, jf. dog stk. 2 og 3.
 
 Stk. 2-8. (Udelades)
 
-Lov nr. 897 af 21. juni 2022 (Effektivisering af straffesagskæden og nævnsprocessen m.v. i Ungdomskriminalitetsnævnet, øget adgang til videregivelse og optagelse af fotografier, forbedring af politiets muligheder for efterforskning m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
+Lov nr. 897 af 21. juni 2022 om ændring af straffeloven, retsplejeloven og forskellige andre love (Effektivisering af straffesagskæden og nævnsprocessen m.v. i Ungdomskriminalitetsnævnet, øget adgang til videregivelse og optagelse af fotografier, forbedring af politiets muligheder for efterforskning m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
 
 § 7
 
 Stk. 1. Loven træder i kraft den 1. juli 2022, jf. dog stk. 2 og 3.
 
-Stk. 2-3. (Udelades)
+Stk. 2 og 3. (Udelades)
+
+Lov nr. 409 af 25. april 2023 om ændring af lov om finansiel virksomhed, straffeloven og forskellige andre love (Gennemførelse af Ansvarsudvalgets forslag om skærpet ansvarsvurdering for ledelsesmedlemmer m.v. i finansielle virksomheder og ændring af reglerne om egnethed og hæderlighed) indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 10
+
+Stk. 1. Loven træder i kraft den 1. juli 2023.
+
+Stk. 2-32. (Udelades)
+
+Lov nr. 486 af 13. maj 2023 om ændring af udlændingeloven, hjemrejseloven og straffeloven og ophævelse af lov om videreførelse af visse rettigheder i forbindelse med Det Forenede Kongeriges udtræden af Den Europæiske Union uden en aftale (Ændring af visse regler om hjælp til hjemrejse, adgang til hjemrejsestøtte og administrativ frihedsberøvelse, gennemførelse af rådsafgørelse om Kroatiens fulde optagelse i Schengensamarbejdet og ophævelse af lov om videreførelse af visse rettigheder i forbindelse med Det Forenede Kongeriges udtræden af Den Europæiske Union uden en aftale) indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 5
+
+Loven træder i kraft den 15. maj 2023.
+
+Lov nr. 741 af 13. juni 2023 om ændring af straffeloven og retsplejeloven (Initiativer mod digitale krænkelser, herunder forbud mod grooming, sidestilling af tilsnigelse af samleje med voldtægt, religiøse lederes udnyttelse af religiøs afhængighed med henblik på at skaffe sig samleje m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 3
+
+Loven træder i kraft den 1. juli 2023.
+
+Lov nr. 753 af 13. juni 2023 om ændring af lov om social service, lov om retssikkerhed og administration på det sociale område og forskellige andre love (Ændringer som følge af barnets lov, initiativret for adopterede børn, adoption uden samtykke fra fødslen, samvær med børn på kvindekrisecentre m.v. og fasttrack for godkendelse af plejefamilier m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 52
+
+Stk. 1. Loven træder i kraft den 1. januar 2024, jf. dog stk. 2.
+
+Stk. 2-9. (Udelades)
+
+Lov nr. 1554 af 12. december 2023 om ændring af straffeloven (Forbud mod utilbørlig behandling af skrifter med væsentlig religiøs betydning for et anerkendt trossamfund) indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 2
+
+Loven træder i kraft dagen efter bekendtgørelsen i Lovtidende.
+
+Lov nr. 1786 af 28. december 2023 om ændring af straffeloven, retsplejeloven og lov om politiets virksomhed (Initiativer mod åbenlys og systematisk handel med ulovlige stoffer) indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 4
+
+Loven træder i kraft den 1. januar 2024.

@@ -65,3 +65,17 @@
 33) Lovændringen vedrører § 79 b, stk. 3, 3. pkt., § 119, stk. 5, og § 119 b, stk. 2.
 
 34) Lovændringen vedrører § 79 d.
+
+35) Lovændringen vedrører § 290 b, stk. 1.
+
+36) Lovændringen vedrører § 124, stk. 1, 2. pkt.
+
+37) Lovændringen vedrører § 94, stk. 4, 1. pkt., § 216, stk. 1, 2. pkt., § 216, stk. 3, § 220, 2. pkt., § 221, § 223, stk. 1, § 225, § 226, § 227, stk. 1, § 228, § 231, § 235, stk. 1, 1. pkt., og stk. 2, § 235, stk. 3, § 262 a, stk. 1 og 2, og § 262 b, 2. pkt.
+
+38) Lovændringen vedrører § 57, nr. 9.
+
+39) Lovændringen vedrører § 110 e, stk. 2, og § 136, stk. 2.
+
+40) Loven er bekendtgjort i Lovtidende den 13. december 2023.
+
+41) Lovændringen vedrører § 81 c og § 81 e.
