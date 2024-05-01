@@ -1,1 +1,3 @@
+## Overvågningsboringer
+
 § 59 a. En almen vandforsyning kan for at overvåge kvaliteten af de vandressourcer, der indvindes fra, etablere overvågningsboringer i indvindingsoplandet. Kommunalbestyrelsen kan som et vilkår i indvindingstilladelsen fastlægge antallet og placeringen af overvågningsboringerne. Miljøministeren kan fastsætte nærmere regler herom. Ministeren kan endvidere fastsætte regler om etablering af overvågningsboringer for almene vandforsyninger med eksisterende indvindingstilladelser.

@@ -1,0 +1,9 @@
+§ 65 b. Miljøministeren fører tilsyn med overholdelsen af regler fastsat i medfør af § 64 a og påser, at påbud og forbud efterkommes.
+
+Stk. 2. Miljøministeren kan bemyndige private organisationer til at udføre visse dele af det tilsyn, der efter loven og regler udstedt i medfør af loven påhviler ministeren.
+
+Stk. 3. Miljøministeren eller den myndighed, der af ministeren er bemyndiget hertil, har uden retskendelse mod forevisning af legitimation adgang til et søgående skib, der afsalter vand, befordrer passagerer og fungerer som vandforsyning, for at tilvejebringe oplysninger til brug for beslutninger efter § 61 eller denne paragraf eller regler udstedt i medfør af denne paragraf. Tilsynsmyndigheden har herunder adgang til at foretage undersøgelser og prøveudtagninger, fotografere, kopiere eller medtage dokumenter og medtage andre genstande uden vederlag. Kvittering for medtagne genstande skal udleveres.
+
+Stk. 4. Finder § 10 i lov om retssikkerhed ved forvaltningens anvendelse af tvangsindgreb og oplysningspligter anvendelse, kan tilsynsmyndigheden udføre nødvendige undersøgelser for den ansvarliges regning til belysning af forhold, som denne ellers er eller kunne være pålagt at afgive oplysninger om.
+
+Stk. 5. Miljøministeren kan fastsætte nærmere regler om tilsynet, herunder om tilsynsmyndighedens påbud om iværksættelse af undersøgelse af årsagen til en overskridelse af kvalitetskrav eller indikatorparametre fastsat i medfør af § 64 a, stk. 1, nr. 1, påbud om iværksættelse af udbedrende foranstaltninger til genoprettelse af drikkevandets kvalitet eller om standsning af forsyningsanlægget, såfremt vandet ikke opfylder kvalitetskrav eller vandet bedømmes at være sundhedsfarligt eller der er nærliggende fare for, at vandet kan blive sundhedsfarligt, og om påbud om underretning af passagerer ved sådanne hændelser.

@@ -8,4 +8,4 @@ Stk. 4. Såfremt der ikke kan opnås enighed blandt de berørte kommunalbestyrel
 
 Stk. 5. Såfremt der ikke kan opnås enighed, skal regionsrådet forelægge sagen for miljøministeren, som herefter træffer afgørelse.
 
-Stk. 6. Når en indsatsplan efter § 13 eller § 13 a er vedtaget, skal de berørte grundejere og andre berørte parter have skriftlig, individuel underretning herom og om indholdet af planen.
+Stk. 6. Når en indsatsplan efter § 13 eller § 13 a er vedtaget, skal de berørte grundejere og andre berørte parter have skriftlig, individuel underretning herom og om indholdet af planen. Indsatsplanen sendes til miljøministeren.

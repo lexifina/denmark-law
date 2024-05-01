@@ -1,0 +1,1 @@
+§ 1 b. Miljøministeren kan fastsætte regler med henblik på opfyldelse af Danmarks forpligtelser i henhold til EU-retten inden for lovens område. For forpligtelser, der vedrører den del af lovens område, der er omfattet af klima-, energi- og forsyningsministerens kompetence, er det dog klima-, energi- og forsyningsministeren, der kan fastsætte regler.
