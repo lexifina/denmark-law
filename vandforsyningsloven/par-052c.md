@@ -1,1 +1,9 @@
-§ 52 c. (Ophævet)
+§ 52 c. Almene vandforsyninger samt ikkealmene vandforsyninger, som i gennemsnit leverer 10 m3 drikkevand eller mere pr. dag og forsyner 50 personer eller flere, skal offentliggøre oplysninger om drikkevandskvaliteten, vandforsyningen, forbrugerrådgivning m.v.
+
+Stk. 2. Miljøministeren fastsætter nærmere regler om, hvilke oplysninger vandforsyningerne som minimum skal offentliggøre efter stk. 1, jf. dog stk. 3. Ministeren fastsætter herunder nærmere regler om oplysningernes form, herunder om digital offentliggørelse, og om hyppighed af offentliggørelsen.
+
+Stk. 3. Klima-, energi- og forsyningsministeren fastsætter nærmere regler om, hvilke oplysninger vandforsyningerne som minimum skal offentliggøre om regulativer, om anlægs- og driftsbidrag, om vandforsyningssystemernes præstationsniveau og om vandforsyningens ejerskabsstruktur. Ministeren fastsætter herunder nærmere regler om oplysningernes form, herunder om digital offentliggørelse, og om hyppigheden af offentliggørelsen.
+
+Stk. 4. Miljøministeren fastsætter regler om, at vandforsyninger nævnt i stk. 1 skal informere deres forbrugere om kvaliteten af drikkevandet, herunder om indikatorparametrene, og om link til den hjemmeside, der indeholder oplysninger offentliggjort efter stk. 1 og regler udstedt i medfør af stk. 2 og 3. Ministeren fastsætter herunder regler om formen for og hyppigheden af afgivelse af denne information og om information til brugere med fælles afregning for vandforsyning.
+
+Stk. 5. Klima-, energi- og forsyningsministeren fastsætter regler om, at vandforsyninger nævnt i stk. 1 skal informere deres forbrugere om prisen for leveret drikkevand og husstandens vandforbrug. Ministeren fastsætter herunder regler om formen for og hyppigheden af afgivelse af denne information og om information til brugere med fælles afregning for vandforsyning.
