@@ -1,39 +1,3 @@
-Lov nr. 1895 af 29. december 2015 (Udvidelse af adgangen til udpegning af kommissarier og formænd for taksationskommissioner og overtaksationskommissioner) indeholder følgende ikrafttrædelsesbestemmelse:
-
-§ 3
-
-Loven træder i kraft den 1. januar 2016.
-
-Lov nr. 658 af 8. juni 2016 (Implementering af VVM-direktivet for statslige vej- og jernbaneprojekter samt havneprojekter) indeholder følgende ikrafttrædelsesbestemmelse og overgangsbestemmelser:
-
-§ 7
-
-Stk. 1. Loven træder i kraft dagen efter bekendtgørelsen i Lovtidende, jf. dog stk. 2.
-
-Stk. 2. Lovens §§ 1-3, 5 og 6 træder i kraft den 16. maj 2017.
-
-Stk. 3. De hidtil gældende regler finder anvendelse for projekter, som er omfattet af denne lov, og hvor
-
-1) der er truffet en screeningsafgørelse før ikrafttrædelsestidspunktet,
-
-2) bygherren har anmodet den kompetente VVM-myndighed om en udtalelse om afgrænsning af miljøkonsekvensrapportens indhold før ikrafttrædelsestidspunktet eller
-
-3) VVM-redegørelsen er afgivet før ikrafttrædelsestidspunktet.
-
-Lov nr. 175 af 21. februar 2017 (Hjælp til stemmeafgivning, valgret til Europa-Parlamentsvalg m.v. for personer med midlertidigt ophold i andre dele af riget, folkeafstemninger i henhold til særlig lov, ophængningstidspunkt for valgplakater m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
-
-§ 6
-
-Loven træder i kraft den 1. juli 2017.
-
-Lov nr. 2082 af 21. februar 2020 (Ændring af reglerne om særlig råden over vejareal for udlejningscykler og visse udlejningskøretøjer, kommunernes mulighed for at fjerne cykler m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
-
-§ 4
-
-Stk. 1. Loven træder i kraft den 1. januar 2021.
-
-Stk. 2. (Udelades)
-
 Lov nr. 434 af 16. marts 2021 (Implementering af VVM-direktivet for statslige vej- og jernbaneprojekter) indeholder følgende ikrafttrædelsesbestemmelse og overgangsbestemmelser:
 
 § 3
@@ -53,3 +17,27 @@ Stk. 2-6. (Udelades)
 Stk. 7. Tilladelse til etablering af et offentligt tilgængeligt ladepunkt på det offentlige vejareal efter § 80 i lov om offentlige veje m.v., som er givet af vejmyndigheden inden lovens ikrafttræden, udløber senest den 1. januar 2036.
 
 Stk. 8. (Udelades)
+
+Lov nr. 679 af 3. juni 2023 om ændring af kildeskatteloven, lov om kommunal indkomstskat, ejendomsvurderingsloven og forskellige andre love (Opkrævning og inddrivelse af grundskyld og dækningsafgift m.v., statens afregning af grundskyld og dækningsafgift til kommunerne, foreløbige vurderinger som midlertidigt beskatningsgrundlag i 2024 og 2025, forenkling af ejendomsvurderingerne for 2024 og 2025, udvidelse af antallet af dommere i Landsskatteretten m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 45
+
+Stk. 1. Loven træder i kraft den 5. juni 2023, jf. dog stk. 2-4.
+
+Stk. 2. (Udelades)
+
+Stk. 3. §§ 1 og 2, § 3, nr. 3, 4, 6, 8-18, 20, 21 og 29, §§ 4-8, § 9, nr. 1, 3 og 4, §§ 10-13, § 14, nr. 1, 2 og 7, §§ 15-18 og 21-29, § 30, nr. 2 og 4, og §§ 32-44 træder i kraft den 1. januar 2024.
+
+Stk. 4-6. (Udelades)
+
+Lov nr. 1797 af 28. december 2023 om ændring af lov om energiafgift af mineralolieprodukter m.v., lov om afgift af naturgas og bygas m.v., lov om afgift af stenkul, brunkul og koks m.v., lov om afgift af elektricitet og forskellige andre love (Lempelse af energiafgiften for hotellers rumvarme, forbrugsregistrering ved direkte linjer, nedsættelse af tærskler for indberetning af statsstøtte m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 19
+
+Stk. 1. Loven træder i kraft den 1. januar 2024, jf. dog stk. 2 og 3.
+
+Stk. 2. (Udelades)
+
+Stk. 3. Transportministeren fastsætter tidspunktet for ikrafttrædelse af § 16, nr. 1.
+
+Stk. 4. (Udelades)
