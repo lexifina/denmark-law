@@ -1,6 +1,6 @@
 1) Loven indeholder bestemmelser, der gennemfører dele af Rådets direktiv 92/43/EØF af 21. maj 1992 om bevaring af naturtyper samt vilde dyr og planter, EF-Tidende 1992, nr. L 206, side 7, som ændret senest ved Rådets direktiv 2013/17/EU af 13. maj 2013 om tilpasning af visse direktiver vedrørende miljø på grund af Republikken Kroatiens tiltrædelse, EU-Tidende 2013, nr. L 158, side 193, og dele af Europa-Parlamentets og Rådets direktiv 2009/147/EF af 30. november 2009 om beskyttelse af vilde fugle, EU-Tidende 2010, nr. L 20, side 7, som ændret senest ved Rådets direktiv 2013/17/EU af 13. maj 2013 om tilpasning af visse direktiver vedrørende miljø på grund af Republikken Kroatiens tiltrædelse, EU-Tidende 2013, nr. L 158, side 193, og dele af Europa-Parlamentets og Rådets direktiv 2018/1972/EU af 11. december 2018 om oprettelse af en europæisk kodeks for elektronisk kommunikation (omarbejdning), EU-Tidende 2018, nr. L 321, side 36.
 
-2) Ved en fejl er § 3 i lov nr. 646 af 19. maj 2020 ikke indarbejdet i lovbekendtgørelse nr. 1157 af 1. juli 2020, selvom dette fremgår af indledningen til lovbekendtgørelsen. Lovændringen er indarbejdet i denne lovbekendtgørelse.
+2) De ændringer, der følger af § 4, nr. 3, i lov nr. 427 af 18. maj 2016 og § 2, stk. 2, i lov nr. 820 af 9. juni 2020, var ved en fejl ikke indarbejdet korrekt i lovbekendtgørelse nr. 223 af 1. marts 2024.
 
 3) Lovændringen vedrører fodnoten til lovens titel, § 15, stk. 13, og § 36, stk. 1, nr. 21.
 
