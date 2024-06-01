@@ -2,9 +2,9 @@
 
 1) Virksomheder omfattet af regnskabsklasse A, jf. årsregnskabslovens § 7, stk. 1, nr. 1, som på tidspunktet for rekonstruktionsforslagets fremsættelse i 2 på hinanden følgende regnskabsår ikke overskrider to af følgende størrelser:
 
-a) En balancesum på 156 mio. kr.,
+a) En balancesum på 195 mio. kr.,
 
-b) en nettoomsætning på 313 mio. kr. og
+b) en nettoomsætning på 391 mio. kr. og
 
 c) et gennemsnitligt antal heltidsbeskæftigede i løbet af regnskabsåret på 250.
 
@@ -16,8 +16,8 @@ c) et gennemsnitligt antal heltidsbeskæftigede i løbet af regnskabsåret på 2
 
 5) Virksomheder omfattet af regnskabsklasse D, jf. årsregnskabslovens § 7, stk. 1, nr. 4, som på tidspunktet for rekonstruktionsforslagets fremsættelse i 2 på hinanden følgende regnskabsår ikke overskrider to af følgende størrelser:
 
-a) En balancesum på 156 mio. kr.,
+a) En balancesum på 195 mio. kr.,
 
-b) en nettoomsætning på 313 mio. kr. og
+b) en nettoomsætning på 391 mio. kr. og
 
 c) et gennemsnitligt antal heltidsbeskæftigede i løbet af regnskabsåret på 250.

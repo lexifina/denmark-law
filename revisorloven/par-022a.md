@@ -1,0 +1,1 @@
+§ 22 a. Artikel 7 i Europa-Parlamentets og Rådets forordning (EU) nr. 537/2014 om specifikke krav til revision af virksomheder af interesse for offentligheden finder anvendelse ved erklæringsopgaver om bæredygtighedsrapportering for en virksomhed af interesse for offentligheden.

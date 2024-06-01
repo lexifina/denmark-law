@@ -1,0 +1,3 @@
+§ 118 a. Direktionen i et kapitalselskab, der er omfattet af årsregnskabslovens § 99 a, skal sikre, at selskabets lønmodtagerrepræsentanter underrettes, og skal med disse drøfte relevante bæredygtighedsoplysninger og midlerne til at fremskaffe og verificere bæredygtighedsoplysninger. Afgiver lønmodtagerrepræsentanterne på denne baggrund en udtalelse, skal direktionen have modtaget denne skriftligt på en af kapitalselskabet oplyst elektronisk adresse senest 4 uger efter drøftelsen, jf. 1. pkt.
+
+Stk. 2. Indgår kapitalselskabet i en koncern, og anvender selskabet årsregnskabslovens § 99 a, stk. 7, skal selskabet hurtigst muligt videregive lønmodtagerrepræsentanternes udtalelse efter stk. 1, 2. pkt., til modervirksomheden.
