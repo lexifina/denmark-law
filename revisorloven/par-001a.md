@@ -10,26 +10,14 @@
 
 a) Virksomheder, som har kapitalandele, gældsinstrumenter eller andre værdipapirer optaget til handel på et reguleret marked i et land inden for Den Europæiske Union eller i et land, som Unionen har indgået aftale med på det finansielle område, og
 
-b) finansielle virksomheder, jf. § 5, stk. 1, nr. 1, litra a, b og e, i lov om finansiel virksomhed.
+b) pengeinstitutter og realkreditinstitutter, jf. § 5, stk. 1, nr. 1, litra a og b, i lov om finansiel virksomhed, og forsikringsselskaber, jf. § 9, stk. 1, nr. 1, i lov om forsikringsvirksomhed.
 
-4) Små virksomheder: Virksomheder, som i to på hinanden følgende regnskabsår på balancetidspunktet ikke overskrider to af følgende størrelsesgrænser:
+4) Små virksomheder: Virksomheder, der opfylder størrelseskriterierne i årsregnskabslovens § 7, stk. 2, nr. 1, jf. samme lovs § 7, stk. 3 og 4, og § 110, stk. 3 og 4.
 
-a) En balancesum på 44 mio. kr.,
+5) Mellemstore virksomheder: Virksomheder, der opfylder størrelseskriterierne i årsregnskabslovens § 7, stk. 2, nr. 2, jf. samme lovs § 7, stk. 3 og 4, og § 110, stk. 3 og 4.
 
-b) en nettoomsætning på 89 mio. kr. og
+6) Store virksomheder: Virksomheder, der opfylder størrelseskriterierne i årsregnskabslovens § 7, stk. 2, nr. 3, jf. samme lovs § 7, stk. 3 og 4, og § 110, stk. 3 og 4.
 
-c) et gennemsnitligt antal heltidsbeskæftigede i løbet af regnskabsåret på 50.
+7) Bæredygtighedsrapportering: Bæredygtighedsrapportering som defineret i årsregnskabslovens bilag 1, C, nr. 16, eller i anden lovgivning, der gennemfører artikel 2, nr. 18, i Europa-Parlamentets og Rådets direktiv om årsregnskaber, konsoliderede regnskaber og tilhørende beretninger for visse virksomhedsformer.
 
-5) Mellemstore virksomheder: Virksomheder, som ikke er små virksomheder, og som i to på hinanden følgende regnskabsår på balancetidspunktet ikke overskrider to af følgende størrelsesgrænser:
-
-a) En balancesum på 156 mio. kr.,
-
-b) en nettoomsætning på 313 mio. kr. og
-
-c) et gennemsnitligt antal heltidsbeskæftigede i løbet af regnskabsåret på 250.
-
-6) Store virksomheder: Virksomheder, der ikke er små eller mellemstore virksomheder.
-
-Stk. 2. Ved beregning af størrelserne efter stk. 1, nr. 4 og 5, finder årsregnskabslovens § 7, stk. 3 og 4, anvendelse, jf. dog stk. 3.
-
-Stk. 3. For modervirksomheder beregnes balancesum, nettoomsætning og gennemsnitligt antal heltidsbeskæftigede i regnskabsåret, jf. stk. 1, nr. 4 og 5, som summen af modervirksomhedens og dattervirksomhedernes balancesummer, nettoomsætninger og heltidsbeskæftigede. Årsregnskabslovens § 110, stk. 3 og 4, finder anvendelse ved beregning af størrelserne efter 1. pkt.
+8) Uafhængig udbyder af erklæringsydelser: Et overensstemmelsesvurderingsorgan, der er akkrediteret i henhold til Europa-Parlamentets og Rådets forordning (EF) nr. 765/2008 af 9. juli 2008 om kravene til akkreditering med henblik på afgivelse af erklæring om bæredygtighedsrapportering.
