@@ -12,4 +12,4 @@ Stk. 3. Omfatter rapporten i stk. 1 en revisionsvirksomhed, der reviderer regnsk
 
 2) resultatet af kontrollen af revisionen af revisionskundens regnskab, hvis denne har været genstand for kontrollen.
 
-Stk. 4. Har en virksomhed af interesse for offentligheden ikke etableret et revisionsudvalg i henhold til § 31, stk. 5, 6 eller 8, skal orienteringen efter stk. 3 gives til virksomhedens øverste ledelsesorgan.
+Stk. 4. Har en virksomhed af interesse for offentligheden ikke etableret et revisionsudvalg i henhold til § 31, stk. 5, 6 eller 9, skal orienteringen efter stk. 3 gives til virksomhedens øverste ledelsesorgan.
