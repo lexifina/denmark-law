@@ -1,7 +1,5 @@
-1) Lovændringen vedrører § 7, stk. 1 og 2, § 7, stk. 4, § 7, stk. 8, § 7 b og § 23, stk. 3.
+1) Lovændringen vedrører § 3, § 7 a, stk. 2, § 9 l og § 12, stk. 2, 2. pkt.
 
-2) Lovændringen vedrører § 14 a.
+2) Lovændringen vedrører § 7, stk. 4, nr. 1, § 9 f, stk. 1, § 9 g, stk. 1, nr. 3, og § 15, stk. 2.
 
-3) Lovændringen vedrører § 5, stk. 1, § 9 e, stk. 2 og § 20, stk. 2.
-
-4) Lovændringen vedrører § 11 f.
+3) Lovændringen vedrører § 11 g.
