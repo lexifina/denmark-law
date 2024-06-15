@@ -1,4 +1,4 @@
-§ 41 c. Er der i en sag anvendt skriftlig forelæggelse eller procedure, jf. §§ 366, 387, 850, 878 og 930 a, har enhver ret til at få udleveret kopi heraf, når der er afsagt dom i sagen, medmindre dokumenterne er omfattet af et forbud mod offentlig gengivelse, jf. § 31 b.
+§ 41 c. Er der i en sag anvendt skriftlig forelæggelse eller procedure, jf. §§ 366, 387, 850, 878, 930 a og 930 b, har enhver ret til at få udleveret kopi heraf, når der er afsagt dom i sagen, medmindre dokumenterne er omfattet af et forbud mod offentlig gengivelse, jf. § 31 b.
 
 Stk. 2. Undlades oplæsning af dokumenter, der indgår i hovedforhandlingen, jf. § 871, stk. 6, kan disse gennemses i retten den pågældende dag og en uge frem.
 

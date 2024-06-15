@@ -1,0 +1,1 @@
+§ 930 b. Retten kan efter høring af parterne bestemme, at en ankesag, som skal afgøres uden lægdommere, afgøres uden mundtlig hovedforhandling, medmindre særlige grunde taler herimod. Retten træffer i så fald bestemmelse om parternes udveksling af skriftlige procedureindlæg.
