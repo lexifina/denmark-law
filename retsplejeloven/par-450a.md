@@ -1,1 +1,3 @@
 § 450 a. Familieretten kan i sager om forældremyndighed, barnets bopæl og samvær træffe bestemmelse om bevisførelse, herunder om at tilvejebringe børnesagkyndige erklæringer og sagkyndige erklæringer om forældre. Om nødvendigt kan familieretten pålægge en part at give møde og afgive forklaring efter de regler, som gælder for vidner.
+
+Stk. 2. I sager efter § 20 a i forældreansvarsloven, hvor barnets oprindelige slægtninge ikke kender adoptivforældrene eller den, der søger adoption, kan familieretten bestemme, at en part ikke må overvære bevisførelsen eller en del af denne. Parten skal, inden sagen afgøres, gøres bekendt med indholdet af bevisførelsen, medmindre det vil stride mod de hensyn, der har ført til udelukkelsen.
