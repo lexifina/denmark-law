@@ -1,5 +1,5 @@
-Erhvervsministeriet, den 11. marts 2022
+Finanstilsynet, den 21. juni 2024
 
-Simon Kollerup
+Louise Mogensen
 
-/ Jesper Berg
+/ Karina Vilhof Ankergren

@@ -1,3 +1,5 @@
 Bekendtgørelse af lov om forsikringsformidling
 
-Herved bekendtgøres lov om forsikringsformidling, jf. lovbekendtgørelse nr. 378 af 2. april 2020, med de ændringer, der følger af § 6, i lov nr. 641 af 19. maj 2020, § 6 i lov nr. 1940 af 15. december 2020 og § 7 i lov nr. 2382 af 14. december 2021.
+Herved bekendtgøres lov om forsikringsformidling, jf. lovbekendtgørelse nr. 337 af 11. marts 2022, med de ændringer, der følger af § 10 i lov nr. 570 af 10. maj 2022, § 4 i lov nr. 480 af 12. maj 2023, § 338 i lov nr. 718 af 13. juni 2023 og § 2 i lov nr. 1546 af 12. december 2023.
+
+De ændringer, der følger af § 9 i lov nr. 481 af 22. maj 2024 om ændring af lov om finansiel virksomhed, lov om betalinger, lov om kapitalmarkeder og forskellige andre love (Tilsyn efter forordning om digital operationel modstandsdygtighed i den finansielle sektor og forordning om markeder for kryptoaktiver, regler for udpegelse af administrationsselskab for Garantifonden og aflønningsregler for firmapensionskasser), er ikke indarbejdet i denne lovbekendtgørelse, da de træder i kraft den 17. januar 2025, jf. § 17, stk. 5, i lov nr. 481 af 22. maj 2024.
