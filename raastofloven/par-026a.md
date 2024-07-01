@@ -22,8 +22,8 @@
 
 11) enhver med individuel væsentlig interesse i afgørelsen.
 
-Stk. 2. Afgørelse af, om en indvinding, jf. § 23, stk. 1, må antages at kunne påvirke miljøet i væsentlig grad, og tilladelse i henhold til § 20 til en sådan indvinding kan tillige påklages af lokale foreninger og organisationer, hvis hovedformål er beskyttelse af natur og miljø.
+Stk. 2. Afgørelse om tilladelse i henhold til § 20 til projekter, der er omfattet af § 15 i lov om miljøvurdering af planer og programmer og af konkrete projekter (VVM), kan tillige påklages af lokale foreninger og organisationer, hvis hovedformål er beskyttelse af natur og miljø.
 
-Stk. 3. Afgørelser efter kapitel 7 a kan påklages af den kreds af klageberettigede, som er nævnt i stk. 1, nr. 1, 4-6 og 11.
+Stk. 3. Afgørelser efter kapitel 7 a kan påklages af den kreds af klageberettigede, som er nævnt i stk. 1, nr. 1, 4-6, og enhver, som berøres eller kan forventes at blive berørt af en miljøskade.
 
 Stk. 4. Ved klage efter stk. 1, nr. 5 og 6, jf. stk. 3, kan Miljø- og Fødevareklagenævnet kræve, at foreningerne eller organisationerne dokumenterer deres klageberettigelse ved indsendelse af vedtægter eller på anden måde.
