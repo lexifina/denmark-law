@@ -1,4 +1,4 @@
-§ 79 d. De oplysninger, som politiet kan videregive i medfør af § 79 b, stk. 8, § 79 c, stk. 5, og § 236, stk. 13, omfatter bl.a. fotografier af de pågældende personer, herunder
+§ 79 d. De oplysninger, som politiet kan videregive i medfør af § 79 a, stk. 8, § 79 b, stk. 8, § 79 c, stk. 5, og § 236, stk. 13, omfatter bl.a. fotografier af de pågældende personer, herunder
 
 1) personfotografier optaget i medfør af stk. 2,
 
