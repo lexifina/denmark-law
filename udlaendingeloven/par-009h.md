@@ -8,7 +8,7 @@
 
 4) opholdstilladelse efter § 9 a, stk. 2, nr. 1-14, og stk. 3,
 
-5) opholdstilladelse efter § 9 i, stk. 1, 1. pkt., og stk. 2, 3 og 12,
+5) opholdstilladelse efter § 9 i, stk. 1, 1. pkt., og stk. 2-6 og 17,
 
 6) opholdstilladelse efter § 9 j, stk. 1,
 
@@ -16,7 +16,7 @@
 
 8) opholdstilladelse efter § 9 l, stk. 1, 1. pkt.,
 
-9) opholdstilladelse efter § 9 m, stk. 1,
+9) opholdstilladelse efter § 9 m, stk. 1 og 2,
 
 10) opholdstilladelse efter § 9 n, stk. 1,
 
@@ -50,7 +50,7 @@ Stk. 5. For indgivelse af ansøgning om genoptagelse af en sag, hvor Udlændinge
 
 Stk. 6. Gebyr efter stk. 5, 1. pkt., tilbagebetales, hvis ansøgningen om genoptagelse imødekommes. Gebyr efter stk. 5, 2. pkt., tilbagebetales, hvis klageren får helt eller delvis medhold i klagen. Gebyr efter stk. 5, 3. pkt., tilbagebetales, hvis ansøgningen om genoptagelse imødekommes.
 
-Stk. 7. Hvis en ansøgning, der er omfattet af stk. 1, afvises på andet grundlag end manglende gebyrbetaling, jf. § 9, stk. 24, § 9 a, stk. 5-7, § 9 c, stk. 6, § 9 f, stk. 9, § 9 g, stk. 3 og 4, § 9 i, stk. 4 og 5, § 9 j, stk. 2 og 3, § 9 k, stk. 2, 1. pkt., og stk. 3, § 9 l, stk. 2 og 3, § 9 m, stk. 3 og 4, § 9 n, stk. 2 og 3, § 9 q, stk. 10-12, § 11, stk. 10, og § 47 b og regler udstedt i medfør af § 9 g, stk. 1 og 2, skal gebyret tilbagebetales fratrukket et beløb på 750 kr.
+Stk. 7. Hvis en ansøgning, der er omfattet af stk. 1, afvises på andet grundlag end manglende gebyrbetaling, jf. § 9, stk. 25, § 9 a, stk. 5-7, § 9 c, stk. 6, § 9 f, stk. 9, § 9 g, stk. 3 og 4, § 9 i, stk. 7-9, § 9 j, stk. 2 og 3, § 9 k, stk. 2, 1. pkt., og stk. 3, § 9 l, stk. 2 og 3, § 9 m, stk. 4 og 5, § 9 n, stk. 2 og 3, § 9 q, stk. 10-12, § 11, stk. 11, og § 47 b og regler udstedt i medfør af § 9 g, stk. 1 og 2, skal gebyret tilbagebetales fratrukket et beløb på 750 kr.
 
 Stk. 8. Ansøgningen afvises, hvis betingelsen i stk. 1 og 3 ikke er opfyldt, medmindre den udestående gebyrindbetaling udgør højst 200 kr., det indbetalte gebyr svarer til en anden sagskategori end den, ansøgningen vedrører, jf. stk. 1, eller den udestående gebyrindbetaling skyldes, at gebyret er reguleret i perioden mellem indbetalingen og ansøgningens indgivelse. I sådanne tilfælde vil udlændingen få en frist til at indbetale det udestående gebyr. Indbetales det udestående gebyr ikke inden for fristen, afvises ansøgningen.
 
@@ -62,9 +62,9 @@ Stk. 11. Gebyr efter stk. 10, 1. pkt., tilbagebetales, hvis ansøgningen om geno
 
 Stk. 12. Ansøgningen om genoptagelse afvises, hvis betingelsen i stk. 10, 1. pkt., ikke er opfyldt. Klagen afvises, hvis betingelsen i stk. 10, 2. pkt., ikke er opfyldt. Ansøgningen om genoptagelse af klagesagen afvises, hvis betingelsen i stk. 10, 3. pkt., ikke er opfyldt.
 
-Stk. 13. For indgivelse af ansøgning, hvor Styrelsen for International Rekruttering og Integration skal træffe afgørelse om arbejdstilladelse efter § 9 i, stk. 12, med henblik på at kunne arbejde uden begrænsning efter afslutning af en dansk bachelor-, professionsbachelor-, kandidat- eller ph.d.-uddannelse skal udlændingen senest samtidig med indgivelsen af ansøgningen betale et gebyr på 750 kr., medmindre andet følger af EU-reglerne.
+Stk. 13. For indgivelse af ansøgning, hvor Styrelsen for International Rekruttering og Integration skal træffe afgørelse om arbejdstilladelse efter § 9 i, stk. 17, med henblik på at kunne arbejde uden begrænsning efter afslutning af en dansk bachelor-, professionsbachelor-, kandidat- eller ph.d.-uddannelse skal udlændingen senest samtidig med indgivelsen af ansøgningen betale et gebyr på 750 kr., medmindre andet følger af EU-reglerne.
 
-Stk. 14. For indgivelse af ansøgning om genoptagelse af en sag, hvor Styrelsen for International Rekruttering og Integration har truffet afgørelse på baggrund af en ansøgning omfattet af stk. 13, skal udlændingen senest samtidig med indgivelsen af ansøgningen om genoptagelse betale et gebyr på 930 kr., medmindre andet følger af EU-reglerne. For indgivelse af klage over en afgørelse truffet af Styrelsen for International Rekruttering og Integration på baggrund af en ansøgning omfattet af stk. 13 skal klageren senest samtidig med indgivelsen af klagen betale et gebyr på 930 kr., medmindre andet følger af EU-reglerne. For indgivelse af ansøgning om genoptagelse af en klagesag omfattet af 2. pkt. skal klageren senest samtidig med indgivelsen af ansøgningen om genoptagelse betale et gebyr på 930 kr., medminde andet følger af EU-reglerne.
+Stk. 14. For indgivelse af ansøgning om genoptagelse af en sag, hvor Styrelsen for International Rekruttering og Integration har truffet afgørelse på baggrund af en ansøgning omfattet af stk. 13, skal udlændingen senest samtidig med indgivelsen af ansøgningen om genoptagelse betale et gebyr på 930 kr., medmindre andet følger af EU-reglerne. For indgivelse af klage over en afgørelse truffet af Styrelsen for International Rekruttering og Integration på baggrund af en ansøgning omfattet af stk. 13 skal klageren senest samtidig med indgivelsen af klagen betale et gebyr på 930 kr., medmindre andet følger af EU-reglerne. For indgivelse af ansøgning om genoptagelse af en klagesag omfattet af 2. pkt. skal klageren senest samtidig med indgivelsen af ansøgningen om genoptagelse betale et gebyr på 930 kr., medmindre andet følger af EU-reglerne.
 
 Stk. 15. Gebyr efter stk. 14, 1. pkt., tilbagebetales, hvis ansøgningen om genoptagelse imødekommes. Gebyr efter stk. 14, 2. pkt., tilbagebetales, hvis klageren får helt eller delvist medhold i klagen. Gebyr efter stk. 14, 3. pkt., tilbagebetales, hvis ansøgningen om genoptagelse imødekommes.
 

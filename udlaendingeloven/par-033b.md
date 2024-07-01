@@ -8,7 +8,7 @@
 
 3) Ved afgørelser om afslag på opholdstilladelse efter § 9 e eller om inddragelse af en opholdstilladelse efter § 9 e, der påklages, inden 7 dage efter at afgørelsen er meddelt udlændingen, hvis den pågældende er omfattet af persongruppen angivet i § 9 e.
 
-4) Ved ansøgning om forlængelse af en opholdstilladelse, som tillades indgivet her i landet efter § 9, stk. 24, § 9 a, stk. 7, § 9 c, stk. 6, § 9 f, stk. 9, § 9 i, stk. 5, § 9 j, stk. 3, § 9 k, stk. 3, § 9 l, stk. 3, § 9 m, stk. 4, § 9 n, stk. 3, § 9 p, stk. 3, eller § 9 q, stk. 12.
+4) Ved ansøgning om forlængelse af en opholdstilladelse, som tillades indgivet her i landet efter § 9, stk. 25, § 9 a, stk. 7, § 9 c, stk. 6, § 9 f, stk. 9, § 9 i, stk. 9, § 9 j, stk. 3, § 9 k, stk. 3, § 9 l, stk. 3, § 9 m, stk. 5, § 9 n, stk. 3, § 9 p, stk. 3, eller § 9 q, stk. 12.
 
 5) Ved ansøgning om forlængelse af en opholdstilladelse efter § 9 b, der er indgivet rettidigt.
 
