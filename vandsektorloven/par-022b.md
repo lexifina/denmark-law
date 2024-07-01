@@ -1,0 +1,3 @@
+§ 22 b. Klima-, energi- og forsyningsministeren kan fastsætte regler om, hvordan Vandsektortilsynet skal træffe afgørelse efter loven og regler udstedt i medfør af loven i tilfælde, hvor Vandsektortilsynet ikke har modtaget oplysninger og dokumenter i overensstemmelse med regler udstedt i medfør af § 22 eller et påbud efter § 22 a, eller ikke har modtaget disse inden den fastsatte frist. Ministeren kan herunder fastsætte regler om, at Vandsektortilsynet kan afvise en ansøgning eller i øvrigt træffe bebyrdende afgørelse.
+
+Stk. 2. Klima-, energi- og forsyningsministeren kan fastsætte regler om korrektion af oplysninger, der er indsendt til Vandsektortilsynet eller miljøministeren.
