@@ -1,0 +1,1 @@
+§ 22 d. Myndigheder, som er tillagt opgaver efter loven, og myndigheder, som tillægges opgaver efter regler udstedt i medfør af loven, kan behandle, herunder indhente, opbevare og videregive, oplysninger til brug for deres opgaver og tilrettelæggelsen heraf.

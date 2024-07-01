@@ -1,0 +1,1 @@
+§ 11 b. Klima-, energi- og forsyningsministeren kan fastsætte regler om, at Vandsektortilsynet skal orientere kommunalbestyrelsen i den eller de relevante kommuner om visse af Vandsektortilsynets afgørelser, og om, at Vandsektortilsynet skal videregive bestemte oplysninger til kommunalbestyrelsen.
