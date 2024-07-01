@@ -1,1 +1,1 @@
-§ 17 a. (Ophævet)
+§ 17 a. Afgørelser truffet af Finanstilsynet i medfør af § 12 a, stk. 3 og stk. 9, 3. pkt., kan indbringes for Erhvervsankenævnet, senest 4 uger efter at afgørelsen er meddelt det pågældende forsikringsselskab.
