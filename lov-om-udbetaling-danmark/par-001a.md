@@ -91,3 +91,5 @@
 44) Lov om institutioner for almengymnasiale uddannelser og almen voksenuddannelse m.v.
 
 45) Lov om Sydslesvigudvalget og visse tilskudsordninger for det danske mindretal i Sydslesvig.
+
+46) Lov om forsøgsordning for frie bymidter.
