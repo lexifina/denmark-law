@@ -1,4 +1,4 @@
-§ 46 a. Udlændingestyrelsens, Hjemrejsestyrelsens og Styrelsen for International Rekruttering og Integrations afgørelser efter denne lov kan påklages til Udlændingenævnet, jf. dog stk. 4, 5 og 7 og § 53 a.
+§ 46 a. Udlændingestyrelsens, Hjemrejsestyrelsens og Styrelsen for International Rekruttering og Integrations afgørelser efter denne lov kan påklages til Udlændingenævnet, jf. dog stk. 4, 5, 7 og 9 og § 53 a.
 
 Stk. 2. Udlændingenævnet kan endvidere behandle klager over:
 
@@ -20,7 +20,7 @@ Stk. 6. En dansk diplomatisk eller konsulær repræsentations afgørelse om afsl
 
 Stk. 7. Følgende afgørelser kan ikke påklages:
 
-1) Udlændingestyrelsens og Styrelsen for International Rekruttering og Integrations afgørelser om afvisning, der er truffet efter regler udstedt i medfør af § 9 g, stk. 1, 2. pkt., og stk. 2, 2. pkt., og afgørelser efter § 9 g, stk. 3, § 9 h, stk. 8, 1. pkt., § 9 h, stk. 9, 1. pkt., jf. stk. 5, 1. pkt., jf. stk. 1, § 9 h, stk. 18, § 11, stk. 10, § 27, § 29 c, stk. 1, § 32 a, § 33, stk. 1, 2 og 5-7, §§ 33 a og 33 b, § 40, stk. 12, § 42 a, stk. 7, 4. pkt., § 42 b, stk. 1, 3 og 7-9, § 42 d, stk. 2, § 46 e og § 53 b. En afgørelse efter § 42 a, stk. 7, 4. pkt., om separat indkvartering, jf. § 42 a, stk. 7, 3. pkt., kan dog påklages.
+1) Udlændingestyrelsens og Styrelsen for International Rekruttering og Integrations afgørelser om afvisning, der er truffet efter regler udstedt i medfør af § 9 g, stk. 1, 2. pkt., og stk. 2, 2. pkt., og afgørelser efter § 9 g, stk. 3, § 9 h, stk. 8, 1. pkt., § 9 h, stk. 9, 1. pkt., jf. stk. 5, 1. pkt., jf. stk. 1, § 9 h, stk. 18, § 11, stk. 11, § 27, § 29 c, stk. 1, § 32 a, § 33, stk. 1, 2 og 5-7, §§ 33 a og 33 b, § 40, stk. 12, § 42 a, stk. 7, 4. pkt., § 42 b, stk. 1, 3 og 7-9, § 42 d, stk. 2, § 46 e og § 53 b. En afgørelse efter § 42 a, stk. 7, 4. pkt., om separat indkvartering, jf. § 42 a, stk. 7, 3. pkt., kan dog påklages.
 
 2) Udlændingestyrelsens og Styrelsen for International Rekruttering og Integrations afgørelser om afkortning af varigheden af en opholdstilladelse meddelt efter § 9, § 9 a, § 9 c, stk. 1, eller §§ 9 d-9 f, 9 i-n, 9 p eller 9 q på grund af udløb af udlændingens pas eller rejselegitimation.
 
@@ -42,4 +42,6 @@ Stk. 7. Følgende afgørelser kan ikke påklages:
 
 Stk. 8. Udlændingestyrelsens beslutning om, at der ikke er særlige grunde til at antage, at en uledsaget udlænding, der inden det fyldte 18. år har indgivet ansøgning om opholdstilladelse i medfør af § 7, ikke bør gennemgå en asylsagsprocedure, jf. § 9 c, stk. 3, nr. 1, kan ikke påklages. Endvidere kan Udlændingestyrelsens og Styrelsen for International Rekruttering og Integrations beslutninger om betaling af udgifter forbundet med tilvejebringelsen af oplysninger til brug for behandlingen af en sag efter denne lov, jf. § 40, stk. 4, ikke påklages.
 
-Stk. 9. Udlændinge- og integrationsministeren kan fastsætte nærmere regler om klagefrist for de typer af afgørelser, der er omfattet af stk. 6.
+Stk. 9. Lovligheden af en indsigelse mod udstedelse af Schengenvisum, som har ført til et afslag på meddelelse af Schengenvisum, kan ikke påklages til Udlændingenævnet.
+
+Stk. 10. Udlændinge- og integrationsministeren kan fastsætte nærmere regler om klagefrist for de typer af afgørelser, der er omfattet af stk. 6.
