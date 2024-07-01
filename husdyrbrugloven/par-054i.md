@@ -1,4 +1,4 @@
-§ 54 i. På anmodning fra en klageberettiget efter § 84, stk. 1 og 2, og §§ 86 og 87 skal tilsynsmyndigheden træffe afgørelse efter § 54 f eller § 54 g.
+§ 54 i. På anmodning fra en klageberettiget efter § 84, stk. 1-3, og §§ 86 og 87 skal tilsynsmyndigheden træffe afgørelse efter § 54 f eller § 54 g.
 
 Stk. 2. Anmodningen skal være ledsaget af relevante oplysninger om den formodede miljøskade eller overhængende fare for en miljøskade.
 

@@ -1,4 +1,4 @@
-§ 77 h. På anmodning fra en klageberettiget efter § 86, stk. 1, nr. 4-6, og stk. 2, skal tilsynsmyndigheden træffe afgørelse efter § 77 e eller § 77 f.
+§ 77 h. På anmodning fra en klageberettiget efter § 86, stk. 2, skal tilsynsmyndigheden træffe afgørelse efter § 77 e eller § 77 f.
 
 Stk. 2. Anmodningen skal være ledsaget af relevante oplysninger om den formodede miljøskade eller den overhængende fare for en miljøskade.
 
