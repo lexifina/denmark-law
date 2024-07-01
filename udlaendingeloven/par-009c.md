@@ -1,10 +1,10 @@
-§ 9 c. Der kan efter ansøgning gives opholdstilladelse til en udlænding, hvis ganske særlige grunde, herunder hensynet til familiens enhed og, hvis udlændingen er under 18 år, hensynet til barnets tarv, taler derfor. Medmindre særlige grunde, herunder hensynet til familiens enhed og, hvis udlændingen er under 18 år, hensynet til barnets tarv, taler derimod, betinges opholdstilladelse efter 1. pkt. som følge af en familiemæssig tilknytning til en herboende person af, at de i § 9, stk. 2-23, 33 og 34, nævnte betingelser er opfyldt. Bestemmelserne i § 9, stk. 25-32 og 35-41, finder tilsvarende anvendelse.
+§ 9 c. Der kan efter ansøgning gives opholdstilladelse til en udlænding, hvis ganske særlige grunde, herunder hensynet til familiens enhed og, hvis udlændingen er under 18 år, hensynet til barnets tarv, taler derfor. Medmindre særlige grunde, herunder hensynet til familiens enhed og, hvis udlændingen er under 18 år, hensynet til barnets tarv, taler derimod, betinges opholdstilladelse efter 1. pkt. som følge af en familiemæssig tilknytning til en herboende person af, at de i § 9, stk. 2-24, 34 og 35, nævnte betingelser er opfyldt. Bestemmelserne i § 9, stk. 26-33 og 36-42, finder tilsvarende anvendelse.
 
-Stk. 2. Der kan efter ansøgning gives opholdstilladelse til en udlænding, der er meddelt afslag på en ansøgning om opholdstilladelse efter § 7, hvis
+Stk. 2. Der kan efter afgørelse fra Hjemrejsestyrelsen om, at en udlænding er udsendelseshindret, som lægges til grund ved Udlændingestyrelsens afgørelse af sagen, gives opholdstilladelse til en udlænding, der er meddelt afslag på en ansøgning om opholdstilladelse efter § 7, hvis
 
 1) udsendelse af udlændingen, jf. hjemrejselovens § 1, ikke har været mulig i mindst 18 måneder,
 
-2) udlændingen har medvirket ved udsendelsesbestræbelserne i sammenhængende 18 måneder, og
+2) udlændingen har medvirket ved udsendelsesbestræbelserne, jf. hjemrejselovens § 3, stk. 1, i sammenhængende 18 måneder, og
 
 3) udsendelse efter de foreliggende oplysninger for tiden må anses for udsigtsløs.
 
