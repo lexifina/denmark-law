@@ -60,7 +60,7 @@ Stk. 11. Udlændingestyrelsen eller Hjemrejsestyrelsen skal, medmindre særlige 
 
 7) udlændingen er efterlyst af politiet med henblik på forkyndelse, udrejsekontrol eller udsendelse.
 
-Stk. 12. Bestemmelserne i stk. 9, nr. 1-4 og 6, og stk. 10 finder tilsvarende anvendelse for udbetaling af kontante ydelser til en uledsaget udlænding under 18 år eller en udlænding under 18 år, som ikke betragtes som hørende til en af eller begge sine forældres familie, jf. § 42 b, stk. 3, 7 og 8. pkt. Udlændingestyrelsen kan dog efter omstændighederne bestemme, at de kontante ydelser alene nedsættes.
+Stk. 12. Bestemmelserne i stk. 9, nr. 1-4 og 6, og stk. 10 finder tilsvarende anvendelse for udbetaling af kontante ydelser til en uledsaget udlænding under 18 år eller en udlænding under 18 år, som ikke betragtes som hørende til en af eller begge sine forældres familie, jf. § 42 b, stk. 3, 7. og 8. pkt. Udlændingestyrelsen kan dog efter omstændighederne bestemme, at de kontante ydelser alene nedsættes.
 
 Stk. 13. Udlændingestyrelsen eller Hjemrejsestyrelsen kan til brug for en afgørelse efter stk. 9-12 uden udlændingens samtykke indhente oplysninger om udlændingens helbredsforhold hos indkvarteringsoperatøren, jf. stk. 5.
 
