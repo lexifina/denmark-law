@@ -2,4 +2,4 @@
 
 1) dømmes for at have begået personfarlig kriminalitet eller
 
-2) dømmes for at have begået anden alvorlig kriminalitet ved overtrædelse af straffeloven, lov om euforiserende stoffer, våbenloven eller knivloven og samtidig vurderes at være i særlig risiko for at begå yderligere kriminalitet.
+2) dømmes for at have begået anden alvorlig kriminalitet ved overtrædelse af straffeloven, lov om euforiserende stoffer, lov om våben og eksplosivstoffer m.v. eller lov om knive og blankvåben m.v. og samtidig vurderes at være i særlig risiko for at begå yderligere kriminalitet.

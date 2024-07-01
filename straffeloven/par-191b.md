@@ -1,0 +1,3 @@
+§ 191 b. Den, som er fyldt 18 år og tidligere er idømt fængselsstraf eller anden strafferetlig retsfølge af frihedsberøvende karakter for overtrædelse af denne lov, lov om euforiserende stoffer, lov om våben og eksplosivestoffer m.v. eller lov om knive og blankvåben m.v., og som foretager en handling, der er egnet til at bidrage til, at en person under 18 år involveres i kriminalitet omfattet af disse love, straffes med fængsel indtil 4 år. Det gælder dog ikke, når der er forløbet mere end 10 år fra endelig dom.
+
+Stk. 2. Overtrædelse af stk. 1, der som følge af gerningspersonens ukendskab til personens alder ikke kan tilregnes gerningspersonen som forsætlig, straffes med en forholdsmæssig mindre straf, hvis gerningspersonen dog har handlet uagtsomt.
