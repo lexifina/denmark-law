@@ -2,7 +2,7 @@
 
 ## Ophør af forebyggende rekonstruktionsbehandling
 
-§ 9 h. Ud over de tilfælde, der er nævnt i § 9 c og § 9 f, jf. § 13 c, stk. 2, og § 13 f, træffer skifteretten bestemmelse om, at den forebyggende rekonstruktionsbehandling ophører, hvis
+§ 9 h. Ud over de tilfælde, der er nævnt i § 9 c og § 9 f, jf. § 13 c, stk. 3, og § 13 f, træffer skifteretten bestemmelse om, at den forebyggende rekonstruktionsbehandling ophører, hvis
 
 1) skyldneren hverken er insolvent eller har sandsynlighed for at blive insolvent,
 
