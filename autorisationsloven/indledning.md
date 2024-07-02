@@ -1,3 +1,5 @@
 Bekendtgørelse af lov om autorisation af sundhedspersoner og om sundhedsfaglig virksomhed
 
-Herved bekendtgøres lov om autorisation af sundhedspersoner og om sundhedsfaglig virksomhed, jf. lovbekendtgørelse nr. 731 af 8. juli 2019, med de ændringer, der følger af lov nr. 816 af 9. juni 2020, § 3 i lov nr. 1855 af 9. december 2020, § 1 i lov nr. 1185 af 8. juni 2021 og § 1 i lov nr. 478 af 26. april 2022.
+Herved bekendtgøres lov om autorisation af sundhedspersoner og om sundhedsfaglig virksomhed, jf. lovbekendtgørelse nr. 122 af 24. januar 2023, med de ændringer, der følger af § 1 i lov nr. 737 af 13. juni 2023, § 2 i lov nr. 739 af 13. juni 2023, § 1 i lov nr. 1778 af 28. december 2023, § 2 i lov nr. 647 af 11. juni 2024 og § 1 i lov nr. 648 af 11. juni 2024.
+
+Den ændring, der følger af § 3 i lov nr. 644 af 11. juni 2024 om ændring af sundhedsloven, lov om social service, lov om autorisation af sundhedspersoner og om sundhedsfaglig virksomhed og lov om anvendelse af tvang i psykiatrien m.v. (Flytning af ansvar fra kommuner til regioner for misbrugsbehandling i forbindelse med regional integreret dobbeltdiagnosebehandling og omlægning af de særlige pladser på psykiatrisk afdeling), er ikke indarbejdet i denne lovbekendtgørelse, da den træder i kraft den 1. september 2024, jf. § 5, stk. 2, i lov nr. 644 af 11. juni 2024.
