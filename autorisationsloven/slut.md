@@ -1,5 +1,5 @@
-Indenrigs- og Sundhedsministeriet, den 24. januar 2023
+Indenrigs- og Sundhedsministeriet, den 26. juni 2024
 
-Sophie Løhde
+P.M.V. Dorte Bech Vizard
 
 / Katrine Bisballe
