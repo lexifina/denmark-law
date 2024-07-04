@@ -1,7 +1,5 @@
-Givet på Amalienborg, den 30. januar 2018
+Beskæftigelsesministeriet, den 23. juni 2024
 
-Under Vor Kongelige Hånd og Segl
+Tine Nilsen Hertz
 
-MARGRETHE R.
-
-/ Troels Lund Poulsen
+/ Christian Andersen-Mølgaard
