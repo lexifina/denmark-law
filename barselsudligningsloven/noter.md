@@ -1,15 +1,5 @@
-1) Lovændringen vedrører lovens § 13, stk. 3.
+1) Lovændringen vedrører § 1, stk. 2, § 2, § 3 a § 3 b, 3 c, 4 a, § 6, stk. 3, § 6, stk. 4, § 7, stk. 1-3, § 7 a, § 10, stk. 1-5, § 12, stk. 1.
 
-2) Lovændringen vedrører lovens § 13, stk. 3.
+2) Lovændringen vedrører § 4, stk. 2 og § 4 a.
 
-3) Lovændringen vedrører lovens § 2, stk. 3.
-
-4) Lovændringen vedrører lovens § 2, stk. 1, § 3, stk. 1 og stk. 2-4, § 4, stk. 2, 3. pkt., § 4, stk. 3, § 5, stk. 1, nr. 5-7, § 5, stk. 1, nr. 6 og 7, § 5, stk. 2, § 5, stk. 4, § 6, stk. 1, 2. pkt., § 6, stk. 2, 2. pkt., § 6, stk. 3, § 8 og § 13, stk. 3.
-
-5) Lovændringen vedrører lovens § 7.
-
-7) Lovændringen vedrører lovens titel og § 3, stk. 1.
-
-8) Lovændringen vedrører lovens § 10, stk. 4.
-
-9) Lovændringen vedrører lovens § 3, stk. 1.
+3) Lovændringen vedrører § 4, stk. 2, stk. 4, stk. 5 og stk. 6, § 10, stk. 3, § 10, stk. 4.
