@@ -1,7 +1,5 @@
-Givet på Christiansborg Slot, den 8. juni 2016
+Beskæftigelsesministeriet, den 23. juni 2024
 
-Under Vor Kongelige Hånd og Segl
+Tine Nielsen Hertz
 
-MARGRETHE R.
-
-/ Jørn Neergaard Larsen
+/ Christian Andersen-Mølgaard
