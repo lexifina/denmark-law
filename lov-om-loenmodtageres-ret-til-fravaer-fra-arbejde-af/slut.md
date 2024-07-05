@@ -1,7 +1,5 @@
-Givet på Amalienborg, den 22. marts 2006
+Beskæftigelsesministeriet, den 23. juni 2024
 
-Under Vor Kongelige Hånd og Segl
+Tine Nielsen Hertz
 
-Margrethe R.
-
-/Lars Barfoed
+/ Christian Andersen-Mølgaard
