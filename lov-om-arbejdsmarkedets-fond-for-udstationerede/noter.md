@@ -1,1 +1,5 @@
-1) Loven indeholder bestemmelser, der gennemfører dele af Europa-Parlamentets og Rådets direktiv 2014/67/EU af 15. maj 2014 om håndhævelse af direktiv 96/71/EF om udstationering af arbejdstagere som led i udveksling af tjenesteydelser og om ændring af forordning (EU) nr. 1024/2012 om administrativt samarbejde via informationssystemet for det indre marked ( »IMI-forordningen« ), EU-Tidende 2010, nr. L 159, side 11.
+1) Lovændringen vedrører § 11, stk. 2.
+
+2) Lovændringen vedrører § 2, stk. 6, § 5, stk. 2-4, § 9, stk. 2-4, § 13, stk. 2.
+
+3) Lovændringen vedrører § 3, stk. 4 og 6, § 8 stk. 1, § 8 a, § 11, stk. 1 og 3.
