@@ -1,4 +1,4 @@
-Lov nr. 1336 af 19. december 2008 om ændring af kildeskatteloven, opkrævningsloven, udpantningsloven og forskellige andre love (Konsekvensændringer som følge af lov om inddrivelse af gæld til det offentlige)om ændring af kildeskatteloven, opkrævningsloven, udpantningsloven og forskellige andre love, indeholder følgende ikrafttrædelsesbestemmelse:
+Lov nr. 1336 af 19. december 2008 om ændring af kildeskatteloven, opkrævningsloven, udpantningsloven og forskellige andre love (Konsekvensændringer som følge af lov om inddrivelse af gæld til det offentlige) indeholder følgende ikrafttrædelsesbestemmelse:
 
 § 167
 
@@ -6,13 +6,13 @@ Stk. 1. Loven træder i kraft den 1. januar 2009, jf. dog stk. 2. § 11 finder a
 
 Stk. 2. (Udelades)
 
-Lov nr. 484 af 11. maj 2010 om ændring af lov om naturbeskyttelse, lov om miljøbeskyttelse og forskellige andre love (Ændringer som følge af lov om Natur- og Miljøklagenævnet m.v.), som ændret ved § 2 i lov nr. 1608 af 22. december 2010, indeholder følgende ikrafttrædelses- og overgangsbestemmelse:
+Lov nr. 484 af 11. maj 2010 om ændring af lov om naturbeskyttelse, lov om miljøbeskyttelse og forskellige andre love (Ændringer som følge af lov om Natur- og Miljøklagenævnet m.v.) som ændret ved § 2 i lov nr. 1608 af 22. december 2010 indeholder følgende ikrafttrædelses- og overgangsbestemmelse:
 
 § 28
 
 Stk. 1. Loven træder i kraft den 1. januar 2011, jf. dog stk. 2.
 
-Stk. 2-3. (Udelades)
+Stk. 2 og 3. (Udelades)
 
 Stk. 4. Verserende sager i Miljøklagenævnet, der ikke er færdigbehandlet ved lovens ikrafttræden, færdigbehandles efter lov om Natur- og Miljøklagenævnet af Natur- og Miljøklagenævnet med den i § 5, stk. 1, nr. 1, i lov om Natur- og Miljøklagenævnet nævnte sammensætning. I sager, hvor der efter de hidtil gældende regler er udtaget sagkyndige til behandling af den pågældende sag, sammensættes Natur- og Miljøklagenævnet med deltagelse af disse.
 
@@ -22,21 +22,21 @@ Stk. 6. (Udelades)
 
 Stk. 7. Miljøministeren kan i øvrigt fastsætte overgangsregler.
 
-Lov nr. 1273 af 21. december 2011 om ændring af lov om miljøbeskyttelse, lov om planlægning og forskellige andre love (Digital annoncering, obligatorisk digital kommunikation, afskæring af klageadgang), indeholder følgende ikrafttrædelsesbestemmelse:
+Lov nr. 1273 af 21. december 2011 om ændring af lov om miljøbeskyttelse, lov om planlægning og forskellige andre love (Digital annoncering, obligatorisk digital kommunikation, afskæring af klageadgang) indeholder følgende ikrafttrædelsesbestemmelse:
 
 § 20
 
 Loven træder i kraft den 1. januar 2012.
 
-Lov nr. 446 af 23. maj 2012 om ændring af lov om miljøbeskyttelse, lov om miljøgodkendelse m.v. af husdyrbrug, lov om forurenet jord og forskellige andre love (Implementering af direktivet om industrielle emissioner, digitalt tilladelses-, godkendelses- og tilsynssystem, afgitringer ved ferskvandsdambrug og regulering af anvendelse af uorganisk gødning m.v.), indeholder følgende ikrafttrædelsesbestemmelse:
+Lov nr. 446 af 23. maj 2012 om ændring af lov om miljøbeskyttelse, lov om miljøgodkendelse m.v. af husdyrbrug, lov om forurenet jord og forskellige andre love (Implementering af direktivet om industrielle emissioner, digitalt tilladelses-, godkendelses- og tilsynssystem, afgitringer ved ferskvandsdambrug og regulering af anvendelse af uorganisk gødning m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
 
 § 7
 
-Loven træder i kraft den 7. januar 2013, jf. dog stk. 2 og 3.
+Stk. 1. Loven træder i kraft den 7. januar 2013, jf. dog stk. 2 og 3.
 
-Stk. 2-3. (Udelades)
+Stk. 2 og 3. (Udelades)
 
-Lov nr. 580 af 18. juni 2012 om ændring af lov om Natur- og Miljøklagenævnet og forskellige andre love (Reform af klagesystemet på natur- og miljøområdet m.v.), indeholder følgende ikrafttrædelses- og overgangsbestemmelse:
+Lov nr. 580 af 18. juni 2012 om ændring af lov om Natur- og Miljøklagenævnet og forskellige andre love (Reform af klagesystemet på natur- og miljøområdet m.v.) indeholder følgende ikrafttrædelses- og overgangsbestemmelse:
 
 § 28
 
@@ -48,7 +48,7 @@ Stk. 3. Loven finder anvendelse på afgørelser truffet i 1. instans efter loven
 
 Stk. 4. (Udelades)
 
-Lov nr. 1631 af 26. december 2013 om ændring af lov om vandforsyning m.v., lov om vurdering og styring af oversvømmelsesrisikoen fra vandløb og søer og forskellige andre love (Konsekvensændringer som følge af lov om vandplanlægning), indeholder følgende ikrafttrædelsesbestemmelse:
+Lov nr. 1631 af 26. december 2013 om ændring af lov om vandforsyning m.v., lov om vurdering og styring af oversvømmelsesrisikoen fra vandløb og søer og forskellige andre love (Konsekvensændringer som følge af lov om vandplanlægning) indeholder følgende ikrafttrædelsesbestemmelse:
 
 § 17
 
@@ -58,7 +58,7 @@ Stk. 2. Miljøministeren fastsætter tidspunktet for ikrafttræden af §§ 2 og 
 
 Stk. 3. De hidtil gældende regler opretholdes og finder anvendelse på vandplaner og handleplaner opretholdt efter § 42, stk. 1, i lov om vandplanlægning.
 
-Lov nr. 86 af 28. januar 2014 om ændring af lov om Natur- og Miljøklagenævnet og forskellige andre love (Obligatorisk digital selvbetjening ved indgivelse af klage samt obligatorisk videresendelse af klage over lokalplan til Natur- og Miljøklagenævnet m.v.), indeholder følgende ikrafttrædelses- og overgangsbestemmelse:
+Lov nr. 86 af 28. januar 2014 om ændring af lov om Natur- og Miljøklagenævnet og forskellige andre love (Obligatorisk digital selvbetjening ved indgivelse af klage samt obligatorisk videresendelse af klage over lokalplan til Natur- og Miljøklagenævnet m.v.) indeholder følgende ikrafttrædelses- og overgangsbestemmelse:
 
 § 26
 
@@ -68,7 +68,7 @@ Stk. 2. Miljøministeren fastsætter tidspunktet for ikrafttræden af §§ 1-6, 
 
 Stk. 3. Loven finder ikke anvendelse for klager over afgørelser, der træffes, før loven træder i kraft. For sådanne klager finder de hidtidige regler anvendelse.
 
-Lov nr. 1499 af 23. december 2014 om ændring af lov om sikkerhed m.v. for offshoreanlæg til efterforskning, produktion og transport af kulbrinter, lov om beskyttelse af havmiljøet og miljøskadeloven (Gennemførelse af offshoresikkerhedsdirektivet m.v.), indeholder følgende ikrafttrædelsesbestemmelse:
+Lov nr. 1499 af 23. december 2014 om ændring af lov om sikkerhed m.v. for offshoreanlæg til efterforskning, produktion og transport af kulbrinter, lov om beskyttelse af havmiljøet og miljøskadeloven (Gennemførelse af offshoresikkerhedsdirektivet m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
 
 § 6
 
@@ -76,13 +76,13 @@ Stk. 1. Loven træder i kraft den 19. juli 2015.
 
 Stk. 2. Miljøministeren fastsætter tidspunktet for ikrafttræden af § 2, nr. 24 og 25, og § 4, nr. 2 og 3. Ministeren kan herunder bestemme, at ændringerne træder i kraft på forskellige tidspunkter.
 
-Lov nr. 1520 af 27. december 2014 om offentlige veje m.v., indeholder følgende ikrafttrædelsesbestemmelse:
+Lov nr. 1520 af 27. december 2014 om offentlige veje m.v. indeholder følgende ikrafttrædelsesbestemmelse:
 
 § 139. Loven træder i kraft den 1. juli 2015, jf. dog stk. 2.
 
 Stk. 2. (Udelades)
 
-Lov nr. 1715 af 27. december 2016 om Miljø- og Fødevareklagenævnet, indeholder følgende ikrafttrædelsesbestemmelser:
+Lov nr. 1715 af 27. december 2016 om Miljø- og Fødevareklagenævnet indeholder følgende ikrafttrædelses- og overgangsbestemmelse:
 
 § 24. Loven træder i kraft den 1. februar 2017.
 
@@ -98,7 +98,7 @@ Stk. 6. Verserende klagesager i Natur- og Miljøklagenævnet eller Klagecenter f
 
 Stk. 7. Gebyrbestemmelsen i § 18 gælder alene for klager, der er indbragt efter lovens ikrafttræden.
 
-Lov nr. 204 af 28. februar 2017 (Ny regulering af husdyrbrug m.v. og indførelse af generelle regler for anvendelse af gødning på arealer og for husdyrbrug m.v. som udmøntning af dele af fødevare- og landbrugspakken samt ændringer som følge af VVM-direktivet m.v.), indeholder følgende ikrafttrædelsesbestemmelser:
+Lov nr. 204 af 28. februar 2017 om ændring af lov om miljøgodkendelse m.v. af husdyrbrug, lov om miljøbeskyttelse, lov om jordbrugets anvendelse af gødning og om plantedække og forskellige andre love (Ny regulering af husdyrbrug m.v. og indførelse af generelle regler for anvendelse af gødning på arealer og for husdyrbrug m.v. som udmøntning af dele af fødevare- og landbrugspakken samt ændringer som følge af VVM-direktivet m.v.) indeholder følgende ikrafttrædelses- og overgangsbestemmelser:
 
 § 9
 
@@ -106,14 +106,20 @@ Stk. 1. Loven træder i kraft den 1. august 2017, jf. dog stk. 2.
 
 Stk. 2. (Udelades)
 
-§§ 10-11
+§§ 10 og 11
 
 (Udelades)
 
-Lov nr. 126 af 30. januar 2021 (Ændring af handlepligten for den ansvarlige for en miljøskade, indførelse af godtgørelsesordning samt ændring af definitionen af arter og naturtyper), indeholder følgende ikrafttrædelses- og overgangsbestemmelse:
+Lov nr. 126 af 30. januar 2021 om ændring af miljøskadeloven og lov om miljøbeskyttelse og forskellige andre love (Ændring af handlepligten for den ansvarlige for en miljøskade, indførelse af godtgørelsesordning samt ændring af definitionen af arter og naturtyper) indeholder følgende ikrafttrædelses- og overgangsbestemmelse:
 
 § 15
 
 Stk. 1. Loven træder i kraft den 1. februar 2021.
 
 Stk. 2. Loven finder ikke anvendelse på miljøskader eller overhængende fare for en miljøskade, der er forvoldt ved en emission eller begivenhed, der finder sted før lovens ikrafttræden. For sådanne miljøskader eller overhængende fare herfor finder de hidtil gældende regler anvendelse.
+
+Lov nr. 322 af 2. april 2024 om ændring af miljøskadeloven, lov om miljøbeskyttelse og forskellige andre love (Præcisering af kredsen af personer, der kan anmode myndighederne om at træffe foranstaltninger m.v. efter miljøskadereglerne og klage over afgørelser herom) indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 14
+
+Loven træder i kraft den 1. juli 2024.
