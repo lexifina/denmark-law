@@ -6,9 +6,9 @@
 
 4) Lovændringen vedrører § 47, som ophæves.
 
-5) Lovændringen vedrører § 50, § 52, stk. 1. §§ 53 og54 ophæves.
+5) Lovændringen vedrører § 50 og § 52, stk. 1. §§ 53 og 54 ophæves.
 
-6) Lov nr. 1608 af 22. december 2010, der i § 2 indeholder en ændring af ikrafttrædelsesbestemmelsen i lov nr. 484 af 11. maj
+6) Lov nr. 1608 af 22. december 2010, der i § 2 indeholder en ændring af ikrafttrædelsesbestemmelsen i lov nr. 484 af 11. maj 2010, trådte i kraft den 1. januar 2011, jf. lovens § 3, stk. 1.
 
 7) Lovændringen vedrører § 38, stk. 3, og § 39, stk. 3.
 
@@ -22,7 +22,7 @@
 
 12) Lovændringen vedrører § 52.
 
-13) § 9 i lov nr. 86 af 28. januar 2014 om ændring af lov om Natur- og Miljøklagenævnet og forskellige andre love (obligatorisk digital selvbetjening ved indgivelse af klage samt obligatorisk videresendelse af klage over lokalplan til Natur- og Miljøklagenævnet m.v.), trådte i kraft den 28. januar 2015, jf. §§ 1 og 2 i bekendtgørelse nr. 57 af 23. januar 2015.
+13) § 9 i lov nr. 86 af 28. januar 2014 om ændring af lov om Natur- og Miljøklagenævnet og forskellige andre love (Obligatorisk digital selvbetjening ved indgivelse af klage samt obligatorisk videresendelse af klage over lokalplan til Natur- og Miljøklagenævnet m.v.), trådte i kraft den 28. januar 2015, jf. §§ 1 og 2 i bekendtgørelse nr. 57 af 23. januar 2015.
 
 14) Lovændringen vedrører fodnoten til lovens titel og § 8, stk. 1.
 
@@ -32,8 +32,10 @@
 
 17) Lovændringen vedrører § 25, stk. 4.
 
-18) Lovændringen vedrører, at "Natur- og Miljøklagenævnet" overalt i loven ændres til "Miljø- og Fødevareklagenævnet", § 50 og § 52, stk. 1, 1. pkt.
+18) Lovændringen vedrører § 50 og § 52, stk. 1, 1. pkt., og at "Natur- og Miljøklagenævnet" overalt i loven ændres til "Miljø- og Fødevareklagenævnet.
 
 19) Lovændringen vedrører § 2, nr. 12.
 
 20) Lovændringen vedrører § 7, stk. 1-5, § 14, stk. 1, § 15, stk. 1 og 3, § 17, § 23, stk. 1, § 46, stk. 1, § 47 og § 48 a.
+
+21) Lovændringen vedrører § 55, stk. 1, nr. 2.
