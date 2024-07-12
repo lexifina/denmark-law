@@ -1,67 +1,3 @@
-Lov nr. 269 af 6. maj 1993 om jagt og vildtforvaltning indeholder følgende ikrafttrædelsesbestemmelse:
-
-§ 58. Loven træder i kraft den 1. april 1994.
-
-Stk. 2-4. (Udelades)
-
-Lov nr. 439 af 1. juni 1994 (Beskyttelse af kystområderne) indeholder følgende ikrafttrædelsesbestemmelse:
-
-§ 3
-
-Stk. 1. Loven træder i kraft den 1. august 1994, jf. dog stk. 2.
-
-Stk. 2. Miljøministeren fastsætter tidspunktet for ikrafttrædelsen af § 2, nr. 1, 2 og 4, og kan bestemme, at ikrafttrædelsen skal ske på forskellige tidspunkter i de enkelte amter.
-
-Stk. 3. I bestemmelser fastsat i medfør af stk. 2 bestemmer miljøministeren, at områder, der på ikrafttrædelsestidspunktet er omfattet af en lokalplan, kan udnyttes i overensstemmelse med lokalplanens bestemmelser uanset bestemmelserne i § 2, nr. 1 og 2. Dette skal dog ikke gælde for områder med klitdannelser inden for 100 m fra de strandbredder, der er nævnt i naturbeskyttelseslovens § 8, stk. 2, nr. 1, som affattet ved denne lovs § 2, nr. 1.
-
-Stk. 4. Efter ikrafttrædelsen af § 2, nr. 1 og 2, kan der ikke ske gentilplantning på arealer, hvor der efter den 1. august 1994 er foretaget tilplantning, som ikke er et led i den hidtidige drift.
-
-Stk. 5. (Udelades)
-
-Lov nr. 19 af 13. januar 1997 (Ændring af klageregler) indeholder følgende ikrafttrædelsesbestemmelse:
-
-§ 3
-
-Stk. 1. Loven træder i kraft den 1. juli 1997.
-
-Stk. 2. Afgørelser, der er påklaget inden lovens ikrafttræden, færdigbehandles efter de hidtil gældende klageregler.
-
-Lov nr. 478 af 1. juli 1998 (Justering af harmonikravene og genopretning af vådområder i overensstemmelse med aftalen om Vandmiljøplan II) indeholder følgende ikrafttrædelsesbestemmelse:
-
-§ 5
-
-Loven træder i kraft den 15. juli 1998.
-
-Lov nr. 282 af 12. maj 1999 (Ændring af reglerne om ikrafttrædelse m.v. af den udvidede klitfrednings- og strandbeskyttelseslinje samt om fastlæggelsen heraf i byzone) indeholder følgende ikrafttrædelsesbestemmelse:
-
-§ 3
-
-Stk. 1. Loven træder i kraft dagen efter bekendtgørelsen i Lovtidende.
-
-Stk. 2. § 1, nr. 1, 8 og 9, træder dog først i kraft i de enkelte amter ved miljøministerens bestemmelse om ikrafttrædelse af de udvidede beskyttelseslinjer i de enkelte amter.
-
-Lov nr. 447 af 31. maj 2000 (Implementering af Århuskonventionen m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
-
-§ 14
-
-Stk. 1. Loven træder i kraft den 15. september 2000, jf. dog stk. 2-4.
-
-Stk. 2. Lovens regler om adgang til at påklage afgørelser gælder for sager, der er afgjort i første instans efter lovens ikrafttræden. (2. pkt. Udelades)
-
-Stk. 3-4. (Udelades)
-
-Lov nr. 473 af 7. juni 2001, museumsloven indeholder følgende ikrafttrædelsesbestemmelse:
-
-§ 41. Loven træder i kraft den 1. januar 2002. Samtidig ophæves lov om museer m.v., jf. lovbekendtgørelse nr. 739 af 17. juli 2000. Lovens § 27, stk. 4-7, har virkning fra den 1. januar 2003. Indtil den 1. januar 2003 opretholdes de hidtidige finansieringsprincipper for den arkæologiske undersøgelsesvirksomhed, jf. § 26, stk. 3, i lov om museer m.v., jf. lovbekendtgørelse nr. 739 af 17. juli 2000.
-
-Lov nr. 145 af 25. marts 2002 om ændring af forskellige love som følge af sammenlægningen af de bornholmske kommuner indeholder følgende ikrafttrædelsesbestemmelse:
-
-§ 78
-
-Stk. 1. Loven træder i kraft den 1. januar 2003, jf. dog § 79, stk. 1.
-
-Stk. 2. (Udelades)
-
 Lov nr. 454 af 9. juni 2004 (Internationale naturbeskyttelsesområder, offentlighedens adgang til naturen, fredning, beskyttelseslinjer, fortidsminder m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
 
 § 5
@@ -84,11 +20,11 @@ Stk. 1. Loven træder i kraft den 1. november 2005, jf. dog stk. 2.
 
 Stk. 2. (Udelades)
 
-Lov nr. 535 af 24. juni 2005 (jordfordelingsloven) indeholder følgende ikrafttrædelses- og overgangsbestemmelse:
+Lov nr. 535 af 24. juni 2005 om jordfordeling og offentligt køb og salg af fast ejendom til jordbrugsmæssige formål m.m. (jordfordelingsloven) indeholder følgende ikrafttrædelses- og overgangsbestemmelse:
 
 § 28. Loven træder i kraft den 1. juli 2005, jf. dog stk. 2.
 
-Stk. 2-3. (Udelades)
+Stk. 2 og 3. (Udelades)
 
 Lov nr. 567 af 24. juni 2005 (Udmøntning af kommunalreformen) indeholder følgende overgangs- og ikrafttrædelsesbestemmelse:
 
@@ -172,7 +108,7 @@ Lov nr. 514 af 12. juni 2009 (Beskyttelse af visse dyrearter m.v.) indeholder f�
 
 Loven træder i kraft den 1. oktober 2009.
 
-Lov nr. 1383 af 21. december 2009 (Implementering af servicedirektivet og anderkendendelsedirektivet på Miljøministeriets område) indeholder følgende ikrafttrædelsesbestemmelse:
+Lov nr. 1383 af 21. december 2009 (Implementering af servicedirektivet og anerkendelsesdirektivet på Miljøministeriets område) indeholder følgende ikrafttrædelsesbestemmelse:
 
 § 7
 
@@ -236,7 +172,7 @@ Lov nr. 1289 af 19. december 2012 (Etablering af yderligere forsøgsmuligheder f
 
 Stk. 1. Loven træder i kraft den 1. januar 2013.
 
-Stk. 2-3. (Udelades)
+Stk. 2 og 3. (Udelades)
 
 Lov nr. 1630 af 26. december 2013 (Klassifikation af private og offentlige vandløb, ophævelse af krav om dispensation i en række tilfælde til opførelse af bebyggelse inden for skovbyggelinjen og forenkling af VVM-processen m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
 
@@ -258,16 +194,6 @@ Stk. 2. Miljøministeren fastsætter tidspunktet for ikrafttræden af §§ 2 og 
 
 Stk. 3. (Udelades)
 
-Lov nr. 86 af 28. januar 2014 (Obligatorisk digital selvbetjening ved indgivelse af klage samt obligatorisk videresendelse af klage over lokalplan til Natur- og Miljøklagenævnet m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
-
-§ 26
-
-Stk. 1. (Udelades)
-
-Stk. 2. Miljøministeren fastsætter tidspunktet for ikrafttræden af §§ 1-6, § 7, nr. 2 og 3, og §§ 8-14 og §§ 16-25.
-
-Stk. 3. Loven finder ikke anvendelse for klager over afgørelser, der træffes, før loven træder i kraft. For sådanne klager finder de hidtidige regler anvendelse.
-
 Lov nr. 80 af 28. januar 2014 (Ny regional vækst- og udviklingsstrategi, udvidelse af Danmarks Vækstråds opgaver m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
 
 § 11
@@ -281,6 +207,16 @@ Stk. 6. Loven finder ikke anvendelse på ansøgninger indgivet i henhold til nat
 Stk. 7. Loven finder ikke anvendelse på ansøgninger, der indgives i henhold til naturbeskyttelseslovens § 55 a før regionsrådets vedtagelse af en regional vækst- og udviklingsstrategi i henhold til § 8 a, stk. 1, i lov om erhvervsfremme og regional udvikling som affattet ved denne lovs § 1, nr. 10. For sådanne ansøgninger finder de hidtil gældende regler anvendelse.
 
 Stk. 8-11. (Udelades)
+
+Lov nr. 86 af 28. januar 2014 (Obligatorisk digital selvbetjening ved indgivelse af klage samt obligatorisk videresendelse af klage over lokalplan til Natur- og Miljøklagenævnet m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 26
+
+Stk. 1. (Udelades)
+
+Stk. 2. Miljøministeren fastsætter tidspunktet for ikrafttræden af §§ 1-6, § 7, nr. 2 og 3, og §§ 8-14 og §§ 16-25.
+
+Stk. 3. Loven finder ikke anvendelse for klager over afgørelser, der træffes, før loven træder i kraft. For sådanne klager finder de hidtidige regler anvendelse.
 
 Lov nr. 1529 af 27. december 2014 (Forsøgsordning for kyst- og naturturisme og ophævelse af muligheden for at planlægge for lavenergibebyggelse i lokalplaner m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
 
@@ -322,7 +258,7 @@ Lov nr. 668 af 8. juni 2017 (Modernisering af planloven, bedre rammer for kommun
 
 Stk. 1. Loven træder i kraft den 15. juni 2017.
 
-Stk. 2 -5. (Udelades)
+Stk. 2-5. (Udelades)
 
 Lov nr. 681 af 8. juni 2017 (Nye muligheder for visse anlæg og indretninger på klitfredede arealer og inden for strandbeskyttelseslinjen samt inden for sø- og åbeskyttelseslinjen), indeholder følgende ikrafttrædelsesbestemmelse:
 
@@ -410,13 +346,13 @@ Stk. 2. Uanset § 9, stk. 5, kan der indtil den 31. december 2020 ansøges om fi
 
 Lov nr. 169 af 27. februar 2019 (Kommunal adgang til at begrænse sejlads med visse hurtigtsejledende fartøjer ved udlagte badeområder) indeholder følgende ikrafttrædelsesbestemmelse:
 
-§ 3
+§ 2
 
 Loven træder i kraft den 1. marts 2019.
 
 Lov nr. 171 af 27. februar 2019 (Strafskærpelse for visse overtrædelser af CITES-regler) indeholder følgende ikrafttrædelsesbestemmelse:
 
-§ 2
+§ 3
 
 Loven træder i kraft den 1. marts 2019.
 
@@ -459,3 +395,21 @@ Lov nr. 900 af 21. juni 2022 (Dispensation og klagesagsbehandling m.v. på forti
 Stk. 1. Loven træder i kraft den 1. juli 2022.
 
 Stk. 2. (Udelades)
+
+Lov nr. 1790 af 28. december 2023 (Opfølgning på evaluering af planloven m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 11
+
+Stk. 1. Loven træder i kraft den 1. januar 2024, jf. dog stk. 2.
+
+Stk. 2 og 3. (Udelades)
+
+Lov nr. 322 af 2. april 2024 (Præcisering af kredsen af personer, der kan anmode myndighederne om at træffe foranstaltninger m.v. efter miljøskadereglerne og klage over afgørelser herom) indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 14
+
+Loven træder i kraft den 1. juli 2024.
+
+Lov nr. 614 af 11. juni 2024 om statsligt udpegede energiparker indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 17. Loven træder i kraft den 1. juli 2024.
