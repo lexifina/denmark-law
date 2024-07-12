@@ -8,4 +8,4 @@ Stk. 2. Uanset stk. 1 gælder forbuddet i § 15, stk. 1, ikke i følgende tilfæ
 
 3) ved ændret anvendelse af overflødiggjorte havnebygninger til formål, der kan fremme turismen eller understøtte de foreninger, institutioner og brugere m.v., der er nævnt i nr. 1 og 2.
 
-§§ 15 c-15 d. (Ophævet)
+§§ 15 c og 15 d. (Ophævet)
