@@ -1,7 +1,5 @@
-Givet på Christiansborg Slot, den 27. april 2016
+Justitsministeriet, den 20. juli 2024
 
-Under Vor Kongelige Hånd og Segl
+Peter Hummelgaard
 
-MARGRETHE R.
-
-/ Søren Pind
+/ Maria Carlsson
