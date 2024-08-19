@@ -32,12 +32,12 @@ Stk. 5. Formanden eller vedkommende næstformand afgør, inden for hvilket fagli
 
 Stk. 6. Nævnet er beslutningsdygtigt, hvis nævnet ved afgørelsen af den enkelte sag består af formanden eller 1 næstformand og mindst 4 medlemmer, heraf mindst 1 medlem efter stk. 4 henholdsvis nr. 2 og 6, 1 medlem efter stk. 4, nr. 3, 4 eller 5, og 1 medlem efter stk. 4, nr. 7, 8 eller 9.
 
-Stk. 7. Indenrigs- og sundhedsministeren kan bemyndige nævnets formand eller 1 næstformand til at træffe afgørelse i sager, der ikke skønnes at frembyde tvivl.
+Stk. 7. Nævnets medlemmer udpeges for 4 år. Finder udpegningen sted i løbet af en periode, gælder den kun til periodens udløb.
 
-Stk. 8. Nævnets medlemmer udpeges for 4 år. Finder udpegningen sted i løbet af en periode, gælder den kun til periodens udløb.
+Stk. 8. Indenrigs- og sundhedsministeren fastsætter efter forhandling med nævnet dettes forretningsorden.
 
-Stk. 9. Indenrigs- og sundhedsministeren fastsætter efter forhandling med nævnet dettes forretningsorden.
+Stk. 9. Styrelsen for Patientklager stiller sekretariatsbistand til rådighed for nævnet.
 
-Stk. 10. Styrelsen for Patientklager stiller sekretariatsbistand til rådighed for nævnet.
+Stk. 10. § 18 finder tilsvarende anvendelse for afholdelsen af udgifter til drift af nævnet.
 
-Stk. 11. § 18 finder tilsvarende anvendelse for afholdelsen af udgifter til drift af nævnet.
+Stk. 11. Indenrigs- og sundhedsministeren fastsætter regler om, at Styrelsen for Patientklager i sin egenskab af sekretariat for Ankenævnet for Patienterstatningen træffer afgørelse på vegne af ankenævnet i sager, hvor styrelsen skønner, at der ikke er tvivl.
