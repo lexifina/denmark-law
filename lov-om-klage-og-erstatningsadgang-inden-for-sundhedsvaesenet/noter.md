@@ -1,19 +1,9 @@
-1) Lovændringen vedrører § 19, § 22, stk. 1 og stk. 3, 1. pkt., § 23, § 24, § 29, § 33, § 33a, §37, § 38, § 46, § 55, § 55 a, § 58, § 58 a, stk. 2, 1. pkt., og § 58 b.
+1) Bestemmelsen er ved § 1, nr. 12, i lov nr. 647 af 11. juni 2024 blevet indsat som § 58 a, stk. 12. På grund af, at § 58 a, stk. 7, er ophævet ved § 1, nr. 11, i lov nr. 647 af 11. juni 2024, med deraf følgende rykning af stykkerne i § 58 a, bør bestemmelsen rettelig være § 58 a, stk. 11.
 
-2) Lovændringen vedrører §§ 1-3, § 3 b, § 12, §§ 16-18.
+2) Lovændringen vedrører § 12, stk. 5 og 6, § 16, stk. 1 og 2, og § 16 c, stk. 2.
 
-3) Lovændringen vedrører § 1, stk. 7, § 2, stk. 5, §§ 12 og 12 a.
+3) Lovændringen vedrører § 58 b, stk. 5.
 
-4) Lovændringen vedrører § 2, stk. 1, og § 29, stk. 1, nr. 12.
+4) Lovændringen vedrører § 1, stk. 1-3, 7 og 11, § 2, stk. 1 og 6, overskriften før § 12 a, § 12 a og § 58 a, stk. 2, 7 og 12.
 
-5) Lovændringen vedrører § 18, stk. 5, §§ 20, 24, 39-41, 46 og 58 b.
-
-6) Lovændringen vedrører §§ 1, 2 og 12.
-
-8) Lovændringen vedrører § 19, stk. 3, 1. pkt. og § 29, stk. 1.
-
-9) Lovændringen vedrører § 6, overskriften før § 10 a, §§ 10 a-b og 16 e-g.
-
-10) Lovændringen vedrører §§ 1 og 2.
-
-11) Lovændringen vedrører § 24, stk. 1, §§ 24 a-c og § 46 a
+5) Lovændringen vedrører § 24, stk. 8 og 9.
