@@ -1,5 +1,5 @@
-Beskæftigelsesministeriet, den 24. august 2004
+Beskæftigelsesministeriet, den 12. august 2024
 
-Claus Hjort Frederiksen
+Tine Nielsen Hertz
 
-/E. Edelberg
+/ Christian Andersen-Mølgaard
