@@ -6,4 +6,4 @@ Stk. 2. Kommunalbestyrelsen kan beslutte, at hovedsproget i daginstitutioner eft
 
 Stk. 3. For selvejende og udliciterede daginstitutioner efter § 19, stk. 3 og 4, og privat dagpleje efter § 21, stk. 3, skal kommunalbestyrelsen træffe beslutning efter stk. 2 i forbindelse med indgåelsen af driftsaftalen eller ændringer heraf.
 
-Stk. 4. For privatinstitutioner efter § 19, stk. 5, skal kommunalbestyrelsen træffe beslutning efter stk. 2 som led i godkendelsen af institutionen. For allerede godkendte pri-vatinstitutioner kan der udarbejdes et tillæg til den eksisterende godkendelse.
+Stk. 4. For privatinstitutioner efter § 19, stk. 5, skal kommunalbestyrelsen træffe beslutning efter stk. 2 som led i godkendelsen af institutionen. For allerede godkendte privatinstitutioner kan der udarbejdes et tillæg til den eksisterende godkendelse.
