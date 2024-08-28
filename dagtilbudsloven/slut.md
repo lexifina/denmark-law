@@ -1,4 +1,4 @@
-Børne- og Undervisningsministeriet, den 17. januar 2024
+Børne- og Undervisningsministeriet, den 27. august 2024
 
 P.M.V. Ole Hvilsom Larsen
 
