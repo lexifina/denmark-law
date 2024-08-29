@@ -478,7 +478,7 @@ Stk. 4. (Udelades)
 
 Stk. 1 og 2. (Udelades)
 
-Stk. 3. Regler fastsat i medfør af § 66, stk. 14 og 15, i lov om sygedagpenge, jf. lovbekendtgørelse nr. 38 af 19. januar 2018, forbliver i kraft, indtil de ophæves eller afløses af forskrifter udstedt i medfør af § 66, stk. 15 og 16, i lov om sygedagpenge. (Udelades)
+Stk. 3. Regler fastsat i medfør af § 66, stk. 14 og 15, i lov om sygedagpenge, jf. lovbekendtgørelse nr. 38 af 19. januar 2018, forbliver i kraft, indtil de ophæves eller afløses af forskrifter udstedt i medfør af § 66, stk. 15 og 16, i lov om sygedagpenge.
 
 Stk. 4 og 5. (Udelades)
 
@@ -668,9 +668,7 @@ Stk. 2-9. (Udelades)
 
 § 53
 
-Stk. 1. Loven gælder ikke for Færøerne og Grønland, jf. dog stk. 2 og 3.
-
-Stk. 2 og 3. (Udelades)
+Loven gælder ikke for Færøerne og Grønland, jf. dog stk. 2 og 3.
 
 Lov nr. 754 af 13. juni 2023 (Handlekommune for børn, der hjælpes tilbage til Danmark af danske myndigheder, og for børn, hvis forældre er i udlandet, ensretning af begrebsbrug, nødvendige ændringer i handlekommunereglerne som følge af barnets lov m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
 
@@ -679,3 +677,47 @@ Lov nr. 754 af 13. juni 2023 (Handlekommune for børn, der hjælpes tilbage til 
 Stk. 1. Loven træder i kraft den 1. januar 2024, jf. dog stk. 2.
 
 Stk. 2-4. (Udelades)
+
+Lov nr. 1538 af 12. december 2023 (Fælles opkrævning af arbejdsgiverbidrag, udvidet bemyndigelse til at fastsætte regler om modregningsadgang, nationale særregler for behandling af personoplysninger m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 16
+
+Stk. 1. Loven træder i kraft den 1. januar 2024.
+
+Stk. 2 og 3. (Udelades)
+
+Stk. 4. § 2, nr. 1 og 2, § 3, nr. 2 og 3, § 4, nr. 1 og 2, § 5, nr. 2 og 3, § 6, nr. 2 og 5, § 7, nr. 2, § 8, nr. 2 og 4, § 9, nr. 4 og 7, § 10, nr. 3 og 6, § 11, nr. 4 og 7, § 12, nr. 3 og 6, og § 13, nr. 3 og 6, finder anvendelse fra og med beregning af arbejdsgiverbidrag for første kvartal 2024 med forfald den 1. juli 2024.
+
+Stk. 5-9. (Udelades)
+
+Stk. 10. Regler udstedt i medfør af § 66, stk. 14, i lov om sygedagpenge som affattet ved denne lovs § 10, nr. 6, finder anvendelse for opkrævning af bidrag m.v. med forfald den 1. juli 2024. De hidtil gældende regler udstedt i medfør af § 66, stk. 15, i lov om sygedagpenge, jf. lovbekendtgørelse nr. 1179 af 21. september 2023, finder anvendelse for opkrævning af bidrag m.v. med forfald den 1. april 2024.
+
+Stk. 11-16. (Udelades)
+
+Stk. 17. Regler udstedt i medfør af § 9, stk. 6, i lov om Lønmodtagernes Garantifond, jf. lovbekendtgørelse nr. 686 af 20. juni 2011, § 85 c, stk. 17, i lov om arbejdsløshedsforsikring, jf. lovbekendtgørelse nr. 503 af 11. maj 2023, § 66, stk. 8, i lov om sygedagpenge, jf. lovbekendtgørelse nr. 1179 af 21. september 2023, § 13, stk. 16, i lov om godtgørelse og tilskud ved deltagelse i erhvervsrettet voksen- og efteruddannelse, jf. lovbekendtgørelse nr. 601 af 22. maj 2019, § 80 a, stk. 8, i lov om aktiv socialpolitik, jf. lovbekendtgørelse nr. 1031 af 22. juni 2023, og § 45, stk. 8, i barselsloven, jf. lovbekendtgørelse nr. 1180 af 21. september 2023, forbliver i kraft, indtil de ophæves eller afløses af regler udstedt i medfør af § 9, stk. 5, jf. lov om Lønmodtagernes Garantifond, jf. denne lovs § 6, nr. 1, § 85 c, stk. 16, i lov om arbejdsløshedsforsikring, jf. denne lovs § 9, nr. 2, § 66, stk. 7, i lov om sygedagpenge, jf. denne lovs § 10, nr. 1, § 13, stk. 15, i lov om godtgørelse og tilskud ved deltagelse i erhvervsrettet voksen- og efteruddannelse, jf. denne lovs § 11, nr. 3, § 80 a, stk. 7, i lov om aktiv socialpolitik, jf. denne lovs § 12, nr. 1, og § 45, stk. 7, i barselsloven, jf. denne lovs § 13, nr. 1.
+
+Stk. 18-19. (Udelades)
+
+Lov nr. 1541 af 12. december 2023 (Et forbedret arbejdsskadesystem og lettere adgang til erstatning i forbindelse med vold på arbejdspladsen) indeholder følgende ikrafttrædelses- og overgangsbestemmelser:
+
+§ 9
+
+Stk. 1. Loven træder i kraft den 1. januar 2024, jf. dog stk. 2 og 3.
+
+Stk. 2 og 3. (Udelades)
+
+§ 10
+
+Stk. 1. (Udelades)
+
+Stk. 2. § 1, nr. 2, 9, 17, 46, 49, 52 og 54, og §§ 3-5 finder ikke anvendelse i sager om arbejdsulykker, der er indtrådt før den 1. juli 2024, og erhvervssygdomme, der er anmeldt før den 1. juli 2024, hvor der fra den 1. januar 2024 ikke træffes afgørelse om men, hvorved tilskadekomne får en mengrad på mindst 10 pct. som følge af en eller flere arbejdsskader, hvoraf den seneste skade medfører tilkendelse af en mengrad på mindst 5 pct. For sådanne afgørelser finder de hidtil gældende regler anvendelse.
+
+Stk. 3-8. (udelades)
+
+Lov nr. 1769 af 28. december 2023 (Mulighed for dispensation til eksport af pensionstillæg m.v., forenklet beregning af fleksløntilskud, herunder i forhold til hjælp til dækning af tabt arbejdsfortjeneste m.v., og ændring af mellemkommunal refusion for førtidspension og seniorpension) indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 7
+
+Stk. 1. Loven træder i kraft den 1. januar 2024.
+
+Stk. 2-7. (Udelades)
