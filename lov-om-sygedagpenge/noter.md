@@ -88,7 +88,7 @@
 
 45) Lovændringen vedrører lovens § 66, stk. 9-16.
 
-46) Lovændringen vedrører lovens § 66, stk. 11, og § 66, stk. 14, 1. pkt.
+46) Lovændringen vedrører lovens § 66, stk. 9-16.
 
 47) Lovændringen vedrører lovens §§ 13 c, 13 d og 13 e.
 
@@ -139,3 +139,9 @@
 70) Lovændringen vedrører lovens § 32, stk. 3 og § 42, stk. 2.
 
 71) Lovændringen vedrører lovens § 68, stk. 1.
+
+72) Lovændringen vedrører lovens § 66.
+
+73) Lovændringen vedrører lovens § 34, stk. 2, § 38, stk. 5 og § 51 a.
+
+74) Efter lovens § 5 ændres »opholdskommune« overalt i loven til: »handlekommune«.
