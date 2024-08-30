@@ -5,5 +5,3 @@
 2) Den pågældende har ikke i samme afsluttede indkomstår personlig lønindkomst, der overstiger det samlede resultat, jf. nr. 1.
 
 Stk. 2. Bidrag efter stk. 1 opkræves årligt den 1. oktober.
-
-Stk. 3. Beskæftigelsesministeren fastsætter nærmere regler om opkrævning af bidrag efter stk. 1.
