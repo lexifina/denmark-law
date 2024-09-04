@@ -2,7 +2,7 @@
 
 2) Ved § 2, nr. 4, i lov nr. 400 af 21. april 2010 indsattes et nyt stk. 4 i § 9 f, hvorefter stk. 4-6 blev til stk. 5-7. Bestemmelsen trådte i kraft den 15. november 2010, jf. bekendtgørelse nr. 1250 af 4. november 2010. Bestemmelsen svarer næsten ordret til § 9 f, stk. 4, i § 1, nr. 6, i lov nr. 572 af 31. maj 2010.
 
-3) Ved § 1, nr. 1, i lov nr. 486 af 13. maj 2023 blev »Cypern og Kroatien« ændret til »Cypern«. Ved en fejl blev ordet »Schengenlande« i § 2 a, stk. 2, 3. pkt., ikke ændret til »et Schengenland«.
+3) Ved § 1, nr. 1, i lov nr. 486 af 13. maj 2023 blev »Cypern og Kroatien« ændret til »Cypern«. Ved en fejl blev ordet »Schengenlande« i § 2 a, stk. 2, 3. pkt., ikke konsekvensrettet til »et Schengenland«.
 
 4) Lov nr. 387 af 6. juni 1991 (EF-asylkonventionen), som ændret ved § 2 i lov nr. 382 af 14. juni 1995, § 1, nr. 1, i lov nr. 290 af 24. april 1996 og § 2 i lov nr. 410 af 10. juni 1997, blev ved bekendtgørelse nr. 610 af 1. juli 1997 sat i kraft den 1. september 1997.
 
@@ -14,7 +14,9 @@
 
 8) § 1, nr. 18, i lov nr. 382 af 14. juni 1995 vedrører indsættelse af § 54, stk. 2. Ændringen trådte i kraft den 1. oktober 1995 og gælder for udlændinge, der indgiver ansøgning om asyl fra og med denne dato, jf. § 3 i bekendtgørelse nr. 682 af 17. august 1995. § 2, nr. 2 og 3, i lov nr. 382 af 14. juni 1995 vedrørte en ændret affattelse af lov nr. 387 af 6. juni 1991, jf. note 7. § 2, nr. 2, trådte i kraft den 1. oktober 1995, og § 2, nr. 3, trådte i kraft den 1. januar 1996, jf. henholdsvis § 1 og § 2 i bekendtgørelse nr. 682 af 17. august 1995.
 
-9) De ændringer, der følger af lov nr. 410 af 10. juni 1997 blev, bortset fra de ændringer, der ifølge § 3, stk. 2, i lov nr. 410 af 10. juni 1997 trådte i kraft den 12. juni 1997 ved bekendtgørelse nr. 170 af 13. marts 2001, sat i kraft den 25. marts 2001.
+9) De ændringer, der følger af lov nr. 410 af 10. juni 1997 blev, bortset fra de ændringer, der ifølge § 3, stk. 2, i lov nr. 410 af 10. juni 1997 trådte i kraft den
+
+12. juni 1997 ved bekendtgørelse nr. 170 af 13. marts 2001, sat i kraft den 25. marts 2001.
 
 10) § 1, nr. 20 og 28 i lov nr. 410 af 10. juni 1997 vedrører ændrede affattelser af § 37, stk. 5 og § 48, stk. 2, 7. pkt. § 2, nr. 5, og 8, i lov nr. 410 af 10. juni 1997 vedrører en ændret affattelse af lov nr. 387 af 6. juni 1991. Lov nr. 410 af 10. juni 1997 blev bekendtgjort i Lovtidende den 11. juni 1997.
 
@@ -98,24 +100,28 @@
 
 50) Lov nr. 821 af 9. juni 2020 blev bekendtgjort i Lovtidende den 10. juni 2020.
 
-51) De ændringer, der følger af § 1, nr. 5, for så vidt angår udlændingelovens § 44 a, stk. 21-24, og § 1, nr. 6, i lov nr. 2195 af 29. december 2020, trådte i kraft den 1. januar 2022, jf. bekendtgørelse nr. 2293 af 3. december 2021.
+51) Det følger af § 30, nr. 1, i lov nr. 982 af 26. maj 2021, at § 1, nr. 84, i lov nr. 821 af 9. juni 2020 ophæves.
 
-52) Lov nr. 131 af 30. januar 2021 blev bekendtgjort i Lovtidende den 31. januar 2021.
+52) De ændringer, der følger af § 1, nr. 5, for så vidt angår udlændingelovens § 44 a, stk. 21-24, og § 1, nr. 6, i lov nr. 2195 af 29. december 2020, trådte i kraft den 1. januar 2022, jf. bekendtgørelse nr. 2293 af 3. december 2021.
 
-53) § 1, nr. 1, 5-7, 14, 15, 24 og 25, og § 2 i lov nr. 721 af 27. april 2021 blev ved bekendtgørelse nr. 203 af 27. februar 2023 sat i kraft den 7. marts 2023 af udlændinge- og integrationsministeren.
+53) Lov nr. 131 af 30. januar 2021 blev bekendtgjort i Lovtidende den 31. januar 2021.
 
-54) Det følger af § 1 i lov nr. 488 af 13. maj 2023, at § 3, stk. 2, i lov nr. 1191 af 8. juni 2021 ophæves.
+54) § 1, nr. 1, 5-7, 14, 15, 24 og 25, og § 2 i lov nr. 721 af 27. april 2021 blev ved bekendtgørelse nr. 203 af 27. februar 2023 sat i kraft den 7. marts 2023 af udlændinge- og integrationsministeren.
 
-55) Lov nr. 2055 af 16. november 2021 blev bekendtgjort i Lovtidende den 17. november 2021.
+55) Det følger af § 1 i lov nr. 488 af 13. maj 2023, at § 3, stk. 2, i lov nr. 1191 af 8. juni 2021 ophæves.
 
-56) § 1, nr. 12 og 13, og § 2 i lov nr. 2623 af 28. december 2021 blev ved bekendtgørelse nr. 204 af 27. februar 2023 sat i kraft den 7. marts 2023 af udlændinge- og integrationsministeren.
+56) Lov nr. 2055 af 16. november 2021 blev bekendtgjort i Lovtidende den 17. november 2021.
 
-57) Lov nr. 324 af 16. marts 2022 blev bekendtgjort i Lovtidende den 17. marts 2022.
+57) § 1, nr. 12 og 13, og § 2 i lov nr. 2623 af 28. december 2021 blev ved bekendtgørelse nr. 204 af 27. februar 2023 sat i kraft den 7. marts 2023 af udlændinge- og integrationsministeren.
 
-58) Det følger af § 2 i lov nr. 488 af 13. maj 2023, at § 16, stk. 8, i lov nr. 452 af 20. april 2022 ophæves.
+58) Lov nr. 324 af 16. marts 2022 blev bekendtgjort i Lovtidende den 17. marts 2022.
 
-59) Det følger af § 3 i lov nr. 488 af 13. maj 2023, at § 13, stk. 4, i lov nr. 893 af 21. juni 2022 ophæves, hvorefter stk. 5-8 bliver til stk. 4-7.
+59) Det følger af § 2 i lov nr. 488 af 13. maj 2023, at § 16, stk. 8, i lov nr. 452 af 20. april 2022 ophæves.
 
-60) Lov nr. 914 af 21. juni 2022 blev bekendtgjort i Lovtidende den 22. juni 2022.
+60) Det følger af § 3 i lov nr. 488 af 13. maj 2023, at § 13, stk. 4, i lov nr. 893 af 21. juni 2022 ophæves, hvorefter stk. 5-8 bliver til stk. 4-7.
 
-61) Lov nr. 919 af 21. juni 2022 blev bekendtgjort i Lovtidende den 22. juni 2022.
+61) Lov nr. 914 af 21. juni 2022 blev bekendtgjort i Lovtidende den 22. juni 2022.
+
+62) Lov nr. 919 af 21. juni 2022 blev bekendtgjort i Lovtidende den 22. juni 2022.
+
+63) § 3, nr. 1, i lov nr. 1540 af 12. december 2023 blev ved bekendtgørelse nr. 47 af 10. januar 2024 sat i kraft den 1. februar 2024 af udlændinge- og integrationsministeren.
