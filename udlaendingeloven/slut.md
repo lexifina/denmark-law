@@ -1,4 +1,4 @@
-Udlændinge- og Integrationsministeriet, den 10. august 2023
+Udlændinge- og Integrationsministeriet, den 2. september 2024
 
 Kaare Dybvad Bek
 
@@ -22,7 +22,7 @@ Oversigt over arbejdsfunktioner på arbejdsmarkedsbalancen med stillinger på mi
 
 7. Teknikerarbejde inden for det elektroniske område (311400)
 
-8. Teknikerarbejde inden for VVS (311510)
+8. Teknikerarbejde inden for vvs (311510)
 
 9. Teknikerarbejde inden for andre mekaniske områder (311590)
 
@@ -102,11 +102,11 @@ Oversigt over arbejdsfunktioner på arbejdsmarkedsbalancen med stillinger på mi
 
 47. Arbejde med kreditbevilling og -analyse (331210)
 
-48. Arbejde med erhvervskunder – standardprodukter (331220)
+48. Arbejde med erhvervskunder - standardprodukter (331220)
 
-49. Arbejde med privatkunder – standardprodukter (331230)
+49. Arbejde med privatkunder - standardprodukter (331230)
 
-50. Arbejde med både erhvervs- og privatkunder – standardprodukter (331240)
+50. Arbejde med både erhvervs- og privatkunder - standardprodukter (331240)
 
 51. Regnskabsarbejde (331300)
 
@@ -154,11 +154,11 @@ Oversigt over arbejdsfunktioner på arbejdsmarkedsbalancen med stillinger på mi
 
 73. Formidling af offentlige ydelser (335300)
 
-74. Udstedelse af pas, kørekort o.l. (335400)
+74. Udstedelse af pas, kørekort og lign. (335400)
 
 75. Politimæssigt undersøgelsesarbejde (335500)
 
-76. Andet arbejde med forvaltning og udøvelse af lovgivning (335900)
+76. Andet arbejde med forvaltning og udøvelse aflovgivning (335900)
 
 77. Juridisk arbejde på mellemniveau (341100)
 
@@ -188,17 +188,17 @@ Oversigt over arbejdsfunktioner på arbejdsmarkedsbalancen med stillinger på mi
 
 90. Almindeligt regnskabs- og bogføringsarbejde (431100)
 
-91. Almindeligt kontorarbejde ifm. udfærdigelse af statistik (431210)
+91. Almindeligt kontorarbejde i forbindelse med udfærdigelse af statistik (431210)
 
-92. Almindeligt kontorarbejde ifm. finansielle transaktioner (431220)
+92. Almindeligt kontorarbejde i forbindelse med finansielle transaktioner (431220)
 
-93. Forsikringsteknisk arbejde ifm. sagsbehandling af skader (431240)
+93. Forsikringsteknisk arbejde i forbindelse med sagsbehandling af skader (431240)
 
 94. Almindeligt kontorarbejde inden for lønbehandling (431300)
 
 95. Korrekturlæsning og beslægtede funktioner (441300)
 
-96. Almindeligt kontorarbejde inden for HR (441600)
+96. Almindeligt kontorarbejde inden for hr (441600)
 
 97. Kokkearbejde (ekskl. køkkenchefarbejde) (512000)
 
@@ -208,100 +208,104 @@ Oversigt over arbejdsfunktioner på arbejdsmarkedsbalancen med stillinger på mi
 
 100. Salgsarbejde ikke klassificeret andetsteds (524900)
 
-101. Social- og sundhedsarbejde på institutioner og hospitaler, assistenter (532120)
+101. Social- og sundhedsarbejde på institutioner og hospitaler, medhjælpere (532110)
 
-102. Social- og sundhedsarbejde i private hjem, assistenter (532220)
+102. Social- og sundhedsarbejde på institutioner og hospitaler, assistenter (532120)
 
-103. Politiarbejde (541200)
+103. Social- og sundhedsarbejde i private hjem, medhjælpere (532210)
 
-104. Fængselsbetjentarbejde (541300)
+104. Social- og sundhedsarbejde i private hjem, assistenter (532220)
 
-105. Dyrkning af markafgrøder inden for jordbrug (611100)
+105. Politiarbejde (541200)
 
-106. Anlægsgartnerarbejde (611320)
+106. Fængselsbetjentarbejde (541300)
 
-107. Dyrkning af blandede afgrøder (611400)
+107. Dyrkning af markafgrøder inden for jordbrug (611100)
 
-108. Murerarbejde (711210)
+108. Anlægsgartnerarbejde (611320)
 
-109. Tømrer- og snedkerarbejde, byggeri (711510)
+109. Dyrkning af blandede afgrøder (611400)
 
-110. Tømrer- og snedkerarbejde, skibe (711520)
+110. Murerarbejde (711210)
 
-111. Andet bygningsarbejde, basis (711900)
+111. Tømrer- og snedkerarbejde, byggeri (711510)
 
-112. Glarmesterarbejde (712500)
+112. Tømrer- og snedkerarbejde, skibe (711520)
 
-113. Vvs-arbejde (712600)
+113. Andet bygningsarbejde, basis (711900)
 
-114. Montørarbejde inden for klima- og køleteknik (712700)
+114. Glarmesterarbejde (712500)
 
-115. Bygningsmaler- og tapetsererarbejde (713110)
+115. Vvs-arbejde (712600)
 
-116. Svejsearbejde og skærebrænding (721200)
+116. Montørarbejde inden for klima- og køleteknik (712700)
 
-117. Pladesmedarbejde (721300)
+117. Bygningsmaler- og tapetsererarbejde (713110)
 
-118. Stålkonstruktionsarbejde (721400)
+118. Svejsearbejde og skærebrænding (721200)
 
-119. Smedearbejde (722100)
+119. Pladesmedarbejde (721300)
 
-120. Værktøjsmagerarbejde (722200)
+120. Stålkonstruktionsarbejde (721400)
 
-121. Operatør- og opstillingsarbejde af metalforarbejdningsmaskiner (722300)
+121. Smedearbejde (722100)
 
-122. Mekanikerarbejde, person- og varevogne (723110)
+122. Værktøjsmagerarbejde (722200)
 
-123. Mekanikerarbejde, lastvogne (723120)
+123. Operatør- og opstillingsarbejde af metalforarbejdningsmaskiner (722300)
 
-124. Mekanikerarbejde, andre områder (723190)
+124. Mekanikerarbejde, person- og varevogne (723110)
 
-125. Flymekanikerarbejde (723200)
+125. Mekanikerarbejde, lastvogne (723120)
 
-126. Mekanikerarbejde, landbrugs- og industrimaskiner (723300)
+126. Mekanikerarbejde, andre områder (723190)
 
-127. Finmekanikerarbejde (731100)
+127. Flymekanikerarbejde (723200)
 
-128. Juveler-, guldsmede- og sølvsmedearbejde (731300)
+128. Mekanikerarbejde, landbrugs- og industrimaskiner (723300)
 
-129. Porcelænsmalerarbejde (731620)
+129. Finmekanikerarbejde (731100)
 
-130. Prepressarbejde og grafisk formfremstilling (732100)
+130. Juveler-, guldsmede- og sølvsmedearbejde (731300)
 
-131. Trykkerarbejde (732200)
+131. Porcelænsmalerarbejde (731620)
 
-132. Elektrikerarbejde
+132. Prepressarbejde og grafisk formfremstilling (732100)
 
-133. Elektromekanikerarbejde (741200)
+133. Trykkerarbejde (732200)
 
-134. Installation og reparation af elektrisk ledningsføring inden for forsyningsvirksomhed (741300)
+134. Elektrikerarbejde
 
-135. Elektronikmekanikerarbejde (742100)
+135. Elektromekanikerarbejde (741200)
 
-136. Installation og service inden for informations- og kommunikationsteknologi (742200)
+136. Installation og reparation af elektrisk ledningsføring inden for forsyningsvirksomhed (741300)
 
-137. Slagterarbejde i detailhandelen (751110)
+137. Elektronikmekanikerarbejde (742100)
 
-138. Bager- og konditorarbejde, ekskl. industri (751200)
+138. Installation og service inden for informations- og kommunikationsteknologi (742200)
 
-139. Prøvesmagning af nærings- og nydelsesmidler (751500)
+139. Slagterarbejde i detailhandelen (751110)
 
-140. Møbelsnedkerarbejde (752200)
+140. Bager- og konditorarbejde, ekskl. industri (751200)
 
-141. Skrædderarbejde og beslægtet arbejde (753100)
+141. Prøvesmagning af nærings- og nydelsesmidler (751500)
 
-142. Kvalitetskontrol og testarbejde af produkter (undtagen nærings- og nydelsesmidler) (754300)
+142. Møbelsnedkerarbejde (752200)
 
-143. Operatørarbejde ved fremstilling af kemiske produkter i medicinalindustri (813110)
+143. Skrædderarbejde og beslægtet arbejde (753100)
 
-144. Operatørarbejde ved klargøring af pels og læder (815500)
+144. Kvalitetskontrol og testarbejde af produkter (undtagen nærings- og nydelsesmidler) (754300)
 
-145. Andet operatørarbejde ved dampmaskine- og kedelanlæg (818290)
+145. Operatørarbejde ved fremstilling af kemiske produkter i medicinalindustri (813110)
 
-146. Operatørarbejde ved stationære anlæg inden for vandforsyning og forbrændnings- og rensningsanlæg (818910)
+146. Operatørarbejde ved klargøring af pels og læder (815500)
 
-147. Togførerarbejde (831100)
+147. Andet operatørarbejde ved dampmaskine- og kedelanlæg (818290)
 
-148. Dæksarbejde og medhjælp om bord på skibe (835000)
+148. Operatørarbejde ved stationære anlæg inden for vandforsyning og forbrændings- og rensningsanlæg (818910)
 
-149. Manuelt arbejde inden for husdyravl (921200)
+149. Togførerarbejde (831100)
+
+150. Dæksarbejde og medhjælp om bord på skibe (835000)
+
+151. Manuelt arbejde inden for husdyravl (921200)

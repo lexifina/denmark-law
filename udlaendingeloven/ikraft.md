@@ -112,7 +112,7 @@ Lov nr. 367 af 6. juni 2002 (Forslag til Rådets direktiv om definition af hjæl
 
 § 2
 
-Stk. 1. § 1, nr. 1-5, træder i kraft dagen efter bekendtgørelsen i Lovtidende. Tidspunktet for ikrafttræden af § 1, nr. 6, fastsættes af ministeren for flygtninge, indvandrere og integration.
+Stk. 1. Stk. 1. § 1, nr. 1-5, træder i kraft dagen efter bekendtgørelsen i Lovtidende. Tidspunktet for ikrafttræden af § 1, nr. 6, fastsættes af ministeren for flygtninge, indvandrere og integration.
 
 Stk. 2. Udlændingelovens § 33, stk. 1, 2. pkt. og stk. 3, 3. pkt., som henholdsvis ændret og indsat ved denne lovs § 1, nr. 3 og 4, finder alene anvendelse, såfremt det forhold, der begrunder udvisningen, er begået efter lovens ikrafttræden. Såfremt det forhold, der begrunder udvisningen, er begået før lovens ikrafttræden, finder de hidtil gældende regler fortsat anvendelse.
 
@@ -278,7 +278,7 @@ Lov nr. 1511 af 27. december 2009 (Gennemførelse af forordning om en fællesska
 
 Stk. 1. Loven træder i kraft den 1. januar 2010, jf. dog stk. 2 og 3.
 
-Stk. 2. Lovens § 3, nr. 1, 4, 6, 10, 13, 14, 21 og 23 træder i kraft den 5. april 2010.
+Stk. 2. Lovens § 3, nr. 1, 4, 6, 10, 13, 14, 21 og 23, træder i kraft den 5. april 2010.
 
 Stk. 3. Integrationsministeren fastsætter tidspunktet for ikrafttræden af lovens § 3, nr. 2, 3, 22 og 24-26. Ministeren kan bestemme, at bestemmelserne træder i kraft på forskellige tidspunkter.
 
@@ -500,7 +500,7 @@ Lov nr. 1488 af 23. december 2014 (Reform af international rekruttering m.v.) in
 
 § 4
 
-Stk. 1. Loven træder i kraft den 1. januar 2015, jf. dog stk. 2.
+Stk. 1. Stk. 1. Loven træder i kraft den 1. januar 2015, jf. dog stk. 2.
 
 Stk. 2. § 1, nr. 10, og udlændingelovens § 9 a, stk. 17, som indsat ved denne lovs § 1, nr. 19, træder i kraft den 1. april 2015.
 
@@ -1196,7 +1196,7 @@ Lov nr. 1190 af 8. juni 2021 (Regulering af ydelsesstruktur og udbetalingstidspu
 
 Stk. 1. Loven træder i kraft den 1. august 2021, jf. dog stk. 2.
 
-Stk. 2-4. (Udelades)
+Stk. 2. (Udelades)
 
 Lov nr. 1191 af 8. juni 2021 (Indførelse af mulighed for overførsel af asylansøgere til asylbehandling og eventuel efterfølgende beskyttelse i tredjelande) indeholder følgende ikrafttrædelsesbestemmelse:
 
@@ -1358,7 +1358,9 @@ Lov nr. 919 af 21. juni 2022 (Prøvelse af udvisning m.v.) indeholder følgende 
 
 Stk. 1. Loven træder i kraft dagen efter bekendtgørelsen i Lovtidende, jf. dog stk. 2.
 
-Stk. 2. § 3 træder i kraft den 1. juli 2022. Stk. 3. § 3 finder ikke anvendelse på ansøgninger indgivet før den 1. juli 2022. For sådanne ansøgninger finder de hidtil gældende regler anvendelse.
+Stk. 2. (Udelades)
+
+Stk. 3. (Udelades)
 
 Lov nr. 332 af 28. marts 2023 (Indberetning i Schengeninformationssystemet (SIS) af tredjelandsstatsborgere, som er genstand for en afgørelse om tilbagesendelse, og bemyndigelse til udlændinge- og integrationsministeren til at fastsætte regler om udlændingemyndighedernes kompetence til at foretage indberetninger og forestå konsultationer i medfør af SIS-forordningen og SIS-tilbagesendelsesforordningen) indeholder følgende ikrafttrædelsesbestemmelse:
 
@@ -1383,3 +1385,125 @@ Lov nr. 486 af 13. maj 2023 (Ændring af visse regler om hjælp til hjemrejse, a
 § 5
 
 Loven træder i kraft den 15. maj 2023.
+
+Lov nr. 753 af 13. juni 2023 (Ændringer som følge af barnets lov, initiativret for adopterede børn, adoption uden samtykke fra fødslen, samvær med børn på kvindekrisecentre m.v. og fasttrack for godkendelse af plejefamilier m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 52
+
+Stk. 1. Loven træder i kraft den 1. januar 2024, jf. dog stk. 2.
+
+Stk. 2-6. (Udelades)
+
+Stk. 7. §§ 2-51 finder ikke anvendelse, hvis en afgørelse, en indstilling eller en børnefaglig undersøgelse efter lov om social service, jf. lovbekendtgørelse nr. 170 af 24. januar 2022 med senere ændringer, er truffet, afgivet, gennemført eller iværksat før lovens ikrafttræden. I disse situationer finder de hidtil gældende regler anvendelse.
+
+Stk. 8. (Udelades)
+
+Stk. 9. (Udelades)
+
+Lov nr. 1540 af 12. december 2023 (Udmøntning af dele af aftale om en fremtidssikret arbejdsmiljøindsats og indsats mod social dumping, aftale om initiativer på asbestområdet og anbefalinger fra det midlertidige AMO-udvalg m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 4
+
+Stk. 1. Loven træder i kraft den 1. februar 2024, jf. dog stk. 2 og 3.
+
+Stk. 2. (Udelades)
+
+Stk. 3. Udlændinge- og integrationsministeren fastsætter tidspunktet for ikrafttræden af § 3.
+
+Stk. 4. (Udelades)
+
+Lov nr. 1575 af 12. december 2023 (Styrkelse af udlændingemyndighedernes og politiets værktøjer til kontrol af udlændingens indrejse og ophold i Danmark) indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 6
+
+Stk. 1. Loven træder i kraft den 1. januar 2024, jf. dog stk. 2 og 3.
+
+Stk. 2. (Udelades)
+
+Stk. 3. Udlændinge- og integrationsministeren fastsætter tidspunktet for ikrafttrædelse af § 1, nr. 1-3 og 13-15, og § 3. Ministeren kan herunder fastsætte, at bestemmelserne træder i kraft på forskellige tidspunkter.
+
+Stk. 4. Regler fastsat i medfør af udlændingelovens § 46 a, stk. 9, jf. lovbekendtgørelse nr. 1079 af 10. august 2023, forbliver i kraft, indtil de ophæves eller afløses af forskrifter, der udstedes i medfør af udlændingelovens § 46 a, stk. 10, jf. denne lovs § 1, nr. 12.
+
+Stk. 5. § 1, nr. 4, finder ikke anvendelse på ferierejser eller andet korterevarende ophold, der er igangværende eller afsluttet på tidspunktet for lovens ikrafttræden. For sådanne ferierejser eller andet korterevarende ophold finder de hidtil gældende regler anvendelse.
+
+Stk. 6. § 1, nr. 5, finder ikke anvendelse på tilsigelser eller begæringer, der er tilsendt eller forkyndt før lovens ikrafttræden. For sådanne tilsigelser og begæringer finder de hidtil gældende regler anvendelse.
+
+Stk. 7. (Udelades)
+
+Lov nr. 414 af 23. april 2024 (Adgang til indkomstregisteret i forbindelse med dedikeret vejledning om repatrieringsordningen, ændring af ydelsesstruktur og udbetalingstidspunkt for hjælp til repatriering, høring af politiet i alle repatrieringssager, udvidelse af målgruppen for videregivelse af oplysninger til brug for udsendelse, videregivelse af helbredsoplysninger til brug for udsendelse, ændring af reglerne om behandling af sager om opholdstilladelse som udsendelseshindret og fastsættelse af indrejseforbud ved overskridelse af en udrejsefrist m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 5
+
+Stk. 1. Loven træder i kraft den 1. maj 2024, jf. dog stk. 2.
+
+Stk. 2. Udlændinge- og integrationsministeren fastsætter tidspunktet for ikrafttrædelse af lovens § 1, nr. 3-6 og 8, og § 4.
+
+Stk. 3. § 2, nr. 1 og 5-7, og § 3, nr. 1 og 2, finder ikke anvendelse på ansøgninger eller forelagte sager om opholdstilladelse efter udlændingelovens § 9 c, stk. 2, der er indgivet eller forelagt før lovens ikrafttræden. For sådanne sager finder de hidtil gældende regler anvendelse.
+
+Lov nr. 648 af 11. juni 2024 (Anbefalinger fra taskforce om udenlandsk arbejdskraft og ændring af gebyrer for autorisation af sundhedspersoner) indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 3
+
+Stk. 1. Loven træder i kraft den 1. juli 2024.
+
+Stk. 2. § 2, nr. 12, finder ikke anvendelse for udlændinge, der inden den 1. juli 2024 har indgivet ansøgning om opholdstilladelse efter udlændingelovens § 9 i, stk. 3. For disse udlændinge finder de hidtil gældende regler anvendelse.
+
+Lov nr. 661 af 11. juni 2024 (Gennemførelse af flerårsaftale for domstolene for 2024-27 m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 10
+
+Stk. 1. Loven træder i kraft den 15. juni 2024.
+
+Stk. 2. (Udelades)
+
+Stk. 3. Lovens § 1, nr. 5, 6 og 58-67, § 4, nr. 2 og 3, og §§ 7 og 8 finder ikke anvendelse i sager, hvor tiltale er rejst i 1. instans før lovens ikrafttræden, medmindre sagen genoptages efter lovens ikrafttræden. I disse sager finder de hidtil gældende regler anvendelse. Uanset 1. og 2. pkt. kan retten dog efter indstilling fra anklagemyndigheden og høring af forsvareren bestemme, at lovens § 1, nr. 6 og 62, skal finde anvendelse i en sag, som efter de hidtil gældende regler skulle behandles under medvirken af nævninger, når tiltale i 1. instans er rejst efter den 1. januar 2024, men før lovens ikrafttræden.
+
+Stk. 4-7. (Udelades)
+
+Lov nr. 686 af 11. juni 2024 (Ny opholdsordning for medfølgende familie til hjemvendende udlandsdanskere med visse beskæftigelsesmæssige kvalifikationer, justering af sprogkravet og halvering af den økonomiske sikkerhedsstillelse i ægtefællesammenføringssager, etablering af en lukket opgavebank for danskprøver m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 8
+
+Stk. 1. Loven træder i kraft den 1. juli 2024.
+
+Stk. 2. § 1, nr. 11 og 52, finder ikke anvendelse for ansøgninger, der er indgivet før den 11. april 2024. For sådanne ansøgninger finder de hidtil gældende regler anvendelse.
+
+Stk. 3. § 1, nr. 23-25, 27 og 28, finder ikke anvendelse i sager, hvor der er stillet økonomisk sikkerhed efter udlændingelovens § 9, stk. 4, før lovens ikrafttræden. I sådanne sager finder de hidtil gældende regler anvendelse.
+
+Stk. 4. Klager over afgørelser, hvor der er meddelt afslag på en ansøgning om opholdstilladelse efter udlændingelovens § 9 eller § 9 c, stk. 1, alene efter den hidtil gældende bestemmelse i udlændingelovens § 9, stk. 4, 1. pkt., og som er verserende i Udlændingenævnet ved lovens ikrafttræden, sendes tilbage til Udlændingestyrelsen med anmodning om, at styrelsen tager stilling til, om der kan meddeles opholdstilladelse efter udlændingelovens § 9 eller § 9 c, stk. 1, som ændret ved denne lovs § 1, nr. 2-10, 12-31, 39 og 40. Gebyr efter udlændingelovens § 9 h, stk. 5, 2. pkt., tilbagebetales.
+
+Stk. 5. Klager over afgørelser, hvor der er meddelt afslag på en ansøgning om opholdstilladelse efter udlændingelovens § 9 eller § 9 c, stk. 1, alene efter den hidtil gældende bestemmelse i udlændingelovens § 9, stk. 8, under henvisning til at kravet om bestået Prøve i Dansk 3 eller en danskprøve på et tilsvarende eller højere niveau ikke er opfyldt, og som er verserende i Udlændingenævnet ved lovens ikrafttræden, sendes tilbage til Udlændingestyrelsen med anmodning om, at styrelsen tager stilling til, om der kan meddeles opholdstilladelse efter udlændingelovens § 9 eller § 9 c, stk. 1, som ændret ved denne lovs § 1, nr. 2-10, 12-31, 39 og 40. Gebyr efter udlændingelovens § 9 h, stk. 5, 2. pkt., tilbagebetales.
+
+Stk. 6. Klager over afgørelser, hvor der er meddelt afslag på en ansøgning om opholdstilladelse efter udlændingelovens § 9 q, stk. 1 eller 2, alene efter den hidtil gældende bestemmelse i udlændingelovens § 9 q, stk. 6, og som er verserende i Udlændingenævnet ved lovens ikrafttræden, sendes tilbage til Udlændingestyrelsen med anmodning om, at styrelsen tager stilling til, om der kan meddeles opholdstilladelse efter udlændingelovens § 9 q, stk. 1 eller 2, jf. stk. 6, som ændret ved denne lovs § 1, nr. 50 og 51. Gebyr efter udlændingelovens § 9 h, stk. 5, 2. pkt., tilbagebetales.
+
+Stk. 7. Regler udstedt i medfør af udlændingelovens § 9, stk. 4, 3. pkt., jf. lovbekendtgørelse nr. 1022 af 2. oktober 2019, forbliver i kraft, indtil de ophæves eller afløses af forskrifter udstedt i medfør af udlændingelovens § 9, stk. 42, jf. denne lovs § 1, nr. 29.
+
+Stk. 8. Regler fastsat i medfør af udlændingelovens § 9, stk. 30, 3. pkt., og § 11, stk. 20, jf. lovbekendtgørelse nr. 1079 af 10. august 2023, forbliver i kraft, indtil de ophæves eller afløses af forskrifter udstedt i medfør af udlændingelovens § 9, stk. 31, 3. pkt., og § 11, stk. 21, jf. denne lovs § 1, nr. 11 og 52.
+
+Lov nr. 687 af 11. juni 2024 (Øget fleksibilitet i forbindelse med ophold efter fasttrackordningens korttidsspor, udvidelse af jobskiftereglen og ændring af kravet om dansk bankkonto) indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 2
+
+Loven træder i kraft den 1. juli 2024.
+
+Lov nr. 688 af 11. juni 2024 (Ny opholdsordning på baggrund af uddannelsestilknytning m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 4
+
+Stk. 1. Loven træder i kraft den 1. juli 2024.
+
+Stk. 2. Der kan efter ansøgning gives opholdstilladelse efter udlændingelovens § 9 i, stk. 5, som affattet ved denne lovs § 1, nr. 6, til en udlænding, hvis opholdstilladelse efter udlændingelovens §§ 7-9 eller 9 b, § 9 c, stk. 1-3, eller §§ 9 d, 9 e, 9 m eller 9 n, efter lov om midlertidig opholdstilladelse til personer, der i Afghanistan har bistået danske myndigheder m.v., eller efter lov om midlertidig opholdstilladelse til personer, der er fordrevet fra Ukraine, blev nægtet forlænget eller inddraget, eller hvis opholdsret efter EU-reglerne blev konstateret ophørt i perioden fra den 1. juli 2020 til den 30. juni 2024, hvis
+
+1) udlændingen på tidspunktet, hvor opholdstilladelsen blev nægtet forlænget eller inddraget eller opholdsretten konstateret ophørt, var optaget på en uddannelse, der på tidspunktet for indgivelse af ansøgningen om opholdstilladelse fører til, at udlændingen efter endt uddannelse kan varetage en arbejdsfunktion, der kan danne grundlag for meddelelse af opholdstilladelse efter udlændingelovens § 9 a, stk. 2, nr. 1 og 2, og
+
+2) udlændingen uden at opnå nyt opholdsgrundlag har opholdt sig i Danmark, siden opholdstilladelsen blev nægtet forlænget eller inddraget eller opholdsretten konstateret ophørt.
+
+Stk. 3. Stk. 2 finder tilsvarende anvendelse for udlændinge, hvis opholdstilladelse efter lov om midlertidig opholdstilladelse til personer, der i Afghanistan har bistået danske myndigheder m.v., eller efter lov om midlertidig opholdstilladelse til personer, der er fordrevet fra Ukraine, udløber senest den 30. juni 2024.
+
+Stk. 4. Opholdstilladelse, der meddeles på baggrund af en ansøgning, der er omfattet af stk. 2, skal betinges af, at udlændingen fortsat er optaget på eller, inden for 6 måneder efter at ansøgningen er indgivet, på ny er optaget på en uddannelse omfattet af stk. 2, nr. 1.
+
+Stk. 5. Der kan ikke gives opholdstilladelse efter udlændingelovens § 9 i, stk. 5, som affattet ved denne lovs § 1, nr. 6, jf. stk. 2, hvis udlændingen, i perioden fra den 1. juli 2020 og indtil Styrelsen for International Rekruttering og Integration træffer afgørelse, her i landet er udvist efter udlændingeloven eller er idømt straf eller har vedtaget en bøde for overtrædelse af meldepligt efter hjemrejselovens § 12, stk. 1, eller opholdspligt efter hjemrejselovens § 13, stk. 1, eller efter udlændingeloven, straffeloven, lov om euforiserende stoffer eller lov om våben og eksplosivstoffer m.v. 1. pkt. omfatter dog ikke udvisning efter udlændingelovens § 25 b og straf efter udlændingelovens § 59, stk. 2. Opholdstilladelse betinges af, at udlændingen efter ansøgningens indgivelse ikke her i landet idømmes straf eller vedtager en bøde for overtrædelse af meldepligt efter hjemrejselovens § 12, stk. 1, eller opholdspligt efter hjemrejselovens § 13, stk. 1.
+
+Stk. 6. Ansøgning om opholdstilladelse, der er omfattet af stk. 2, afvises, hvis ansøgningen indgives efter den 1. januar 2025, medmindre særlige grunde taler herimod. Ansøgning om opholdstilladelse, der er omfattet af stk. 2, afvises, hvis udlændingens oprindelige opholdstilladelse blev inddraget efter udlændingelovens § 19, stk. 2, nr. 1-3, eller stk. 4 eller 5, eller opholdsretten efter EU-reglerne blev konstateret ophørt grundet hensynet til den offentlige orden, sikkerhed eller sundhed eller misbrug af rettigheder. En udlænding, der har indgivet ansøgning om opholdstilladelse efter stk. 2 i overensstemmelse med 1. pkt., må opholde sig her i landet og arbejde, i tiden indtil der er taget stilling til, om udlændingen kan meddeles opholdstilladelse efter udlændingelovens § 9 i, stk. 5, som affattet ved denne lovs § 1, nr. 6.
+
+Stk. 7. Regler udstedt i medfør af udlændingelovens § 9 i, stk. 7, 10 og 13, jf. lovbekendtgørelse nr. 1079 af 10. august 2023, forbliver i kraft, indtil de ophæves eller afløses af forskrifter udstedt i medfør af udlændingelovens § 9 i, stk. 13, 15 og 18, jf. denne lovs § 1, nr. 6, 7 og 11.
