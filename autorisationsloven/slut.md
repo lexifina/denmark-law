@@ -1,4 +1,4 @@
-Indenrigs- og Sundhedsministeriet, den 26. juni 2024
+Indenrigs- og Sundhedsministeriet, den 29. august 2024
 
 P.M.V. Dorte Bech Vizard
 
