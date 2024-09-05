@@ -1,5 +1,5 @@
-Udlændinge- og Integrationsministeriet, den 17. august 2023
+Udlændinge- og Integrationsministeriet, den 27. august 2024
 
 Kaare Dybvad Bek
 
-/ Christina Lilliecreutz Fløystrup
+/ Christina Fløystrup
