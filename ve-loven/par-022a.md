@@ -1,1 +1,17 @@
-§ 22 a. (Ophævet)
+§ 22 a. Klima-, energi- og forsyningsministeren kan udstede tilladelse til test af vedvarende energi-anlæg på havet med henblik på forskning, udvikling eller demonstration af nye projekter, teknologier og processer i et område på op til 15 km fra kyststrækningen for et tidsrum af op til 3 år.
+
+Stk. 2. Klima-, energi- og forsyningsministeren kan fastsætte nærmere regler om tilladelser efter stk. 1, herunder om følgende:
+
+1) Projektets kapacitet.
+
+2) Krav til oplysninger i ansøgningen.
+
+3) Tildelingskriterier for tilladelsen, myndighedshøring og offentlig høring.
+
+4) Vilkår for tilladelsen.
+
+5) Offentliggørelse af oplysninger om meddelte tilladelser og projektbeskrivelse.
+
+6) At ansøgninger og afgørelser sendes digitalt.
+
+Stk. 3. §§ 6-14 a og regler fastsat i medfør af § 6, stk. 7, § 6 a, stk. 7, § 7, stk. 6, § 9, stk. 11, § 13, stk. 4, § 14, stk. 6, og § 14 a, stk. 2, finder ikke anvendelse på anlæg til test af vedvarende energi på havet omfattet af stk. 1.
