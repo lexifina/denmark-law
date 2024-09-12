@@ -64,9 +64,9 @@ Stk. 4. Loven finder ikke anvendelse på afgørelser, der træffes efter § 7, s
 
 Stk. 5. Energi-, forsynings- og klimaministeren fastsætter tidspunktet for ikrafttræden af § 1, nr. 4-8, 11, 12 og 14-19. Ministeren kan herunder fastsætte, at loven træder i kraft på forskellige tidspunkter.
 
-Stk. 6. § 22 b og § 23, stk. 4, 3. pkt., i lov om fremme af vedvarende energi som indsat ved denne lovs § 1, nr. 9 og 10, finder ikke anvendelse for ansøgninger om forundersøgelsestilladelse modtaget før den 1. januar 2017. For sådanne ansøgninger finder de hidtil gældende regler anvendelse, jf. dog stk. 7.
+Stk. 6 § 22 b og § 23, stk. 4, 3. pkt., i lov om fremme af vedvarende energi som indsat ved denne lovs § 1, nr. 9 og 10, finder ikke anvendelse for ansøgninger om forundersøgelsestilladelse modtaget før den 1. januar 2017. For sådanne ansøgninger finder de hidtil gældende regler anvendelse, jf. dog stk. 7.
 
-Stk. 7. Kommunalbestyrelsen kan gøre indsigelse mod, at der gives etableringstilladelse efter § 25 i lov om fremme af vedvarende energi på baggrund af en forundersøgelsesrapport, der er stillet til rådighed efter § 24, stk. 4, i lov om fremme af vedvarende energi, hvis ansøgningen om forundersøgelsestilladelse er modtaget før den 1. januar 2017 og ansøgningen om etableringstilladelse på baggrund af forundersøgelsesrapporten er modtaget efter den 1. januar 2017. § 22 b, stk. 2 og 3, og § 23, stk. 4, 3. pkt., som affattet ved denne lovs § 1, nr. 9 og 10, finder tilsvarende anvendelse for indsigelse efter denne bestemmelse. Indsigelse skal indgives i forbindelse med høring af relevante myndigheder, inden der træffes afgørelse om etableringstilladelse.
+Stk. 7 Kommunalbestyrelsen kan gøre indsigelse mod, at der gives etableringstilladelse efter § 25 i lov om fremme af vedvarende energi på baggrund af en forundersøgelsesrapport, der er stillet til rådighed efter § 24, stk. 4, i lov om fremme af vedvarende energi, hvis ansøgningen om forundersøgelsestilladelse er modtaget før den 1. januar 2017 og ansøgningen om etableringstilladelse på baggrund af forundersøgelsesrapporten er modtaget efter den 1. januar 2017. § 22 b, stk. 2 og 3, og § 23, stk. 4, 3. pkt., som affattet ved denne lovs § 1, nr. 9 og 10, finder tilsvarende anvendelse for indsigelse efter denne bestemmelse. Indsigelse skal indgives i forbindelse med høring af relevante myndigheder, inden der træffes afgørelse om etableringstilladelse.
 
 Lov nr. 1667 af 26. december 2017 (Overførsel af opgaver fra Energinet til energi-, forsynings- og klimaministeren m.v.) indeholder følgende ikrafttrædelses- og overgangsbestemmelse:
 
@@ -242,4 +242,46 @@ Lov nr. 1788 af 28. december 2023 om ændring af lov om fremme af vedvarende ene
 
 § 3
 
-Loven træder i kraft den 1. januar 2024
+Loven træder i kraft den 1. januar 2024.
+
+Lov nr. 640 af 11. juni 2024 om ændring af lov om Miljø- og Fødevareklagenævnet, lov om Planklagenævnet, lov om fremme af vedvarende energi og forskellige andre love (Effektivisering af sagsbehandlingen i Planklagenævnet, Miljø- og Fødevareklagenævnet og Energiklagenævnet m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 7
+
+Stk. 1. Loven træder i kraft den 1. juli 2024.
+
+Stk. 2. (Udelades)
+
+Lov nr. 670 af 11. juni 2024 om ændring af lov om fremme af vedvarende energi (Justering af satserne for grøn pulje, ændring af grøn pulje, bemyndigelser til at fastsætte regler om indberetning af oplysninger og offentliggørelse af oplysninger m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 2
+
+Stk. 1. Loven træder i kraft den 1. juli 2024.
+
+Stk. 2. § 1, nr. 5 og 10-13, finder ikke anvendelse for projekter, hvor den pågældende kommune har udstedt en byggetilladelse efter byggeloven før den 1. juli 2024, for havvindmølleprojekter i et område udpeget til kystnære havvindmølleparker, jf. § 22, stk. 3, nr. 2, i lov om fremme af vedvarende energi, eller for havvindmøller uden for udbud efter § 23, stk. 4, i lov om fremme af vedvarende energi, hvis Energistyrelsen har udstedt en forundersøgelsestilladelse efter § 23, stk. 1 eller 4, før den 1. juli 2024. For sådanne projekter finder de hidtil gældende regler anvendelse.
+
+Stk. 3. Regler udstedt i medfør af § 14, stk. 6, i lov om fremme af vedvarende energi, jf. lovbekendtgørelse nr. 132 af 6. februar 2024, forbliver i kraft, indtil de ophæves eller afløses af regler udstedt i medfør af § 14, stk. 8, i lov om fremme af vedvarende energi, jf. denne lovs § 1, nr. 8.
+
+Lov nr. 671 af 11. juni 2024 om ændring af lov om fremme af vedvarende energi (Tydeliggørelse af dansk rets anvendelse på anlæg omfattet af loven i den eksklusive økonomiske zone og afskaffelse af kompensation for indfødningstarif for fremtidige havvindmølleparker) indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 2
+
+Stk. 1. Loven træder i kraft den 1. juli 2024.
+
+Stk. 2. Regler udstedt i medfør af § 3, stk. 2, i lov om fremme af vedvarende energi, jf. lovbekendtgørelse nr. 132 af 6. februar 2024, forbliver i kraft, indtil de ophæves eller afløses af regler udstedt i medfør af § 3, stk. 4, i lov om fremme af vedvarende energi, jf. denne lovs § 1, nr. 2.
+
+Lov nr. 672 af 11. juni 2024 om ændring af lov om fremme af vedvarende energi (Justering af rammer for etablering af vedvarende energi-anlæg på havet uden for udbud) indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 2
+
+Stk. 1. Loven træder i kraft den 1. juli 2024.
+
+Stk. 2. Loven finder ikke anvendelse for ansøgninger om forundersøgelsestilladelse efter § 22, jf. § 23, stk. 4, i lov om fremme af vedvarende energi, som Energistyrelsen har modtaget før lovens ikrafttræden, eller på projekter, hvor der er udstedt forundersøgelsestilladelse efter § 22, jf. § 23, stk. 4, i lov om fremme af vedvarende energi, før lovens ikrafttræden. For sådanne ansøgninger og projekter finder de hidtil gældende regler anvendelse.
+
+Stk. 3. Regler udstedt i medfør af § 22, stk. 11, i lov om fremme af vedvarende energi, jf. lovbekendtgørelse nr. 132 af 6. februar 2024, forbliver i kraft, indtil de ophæves eller afløses af forskrifter udstedt i medfør af § 22, stk. 9, i lov om fremme af vedvarende energi, jf. denne lovs § 1, nr. 7.
+
+Lov nr. 673 af 11. juni 2024 om ændring af lov om fremme af vedvarende energi, biobrændstofloven, lov om fremme af energibesparelser i bygninger og forskellige andre love (Bemyndigelse til at supplere og gennemføre EU-regler om fremme af vedvarende energi, herunder til at fastsætte regler om fravigelse af visse miljø- og naturbeskyttelsesregler m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 7
+
+Loven træder i kraft den 1. juli 2024.
