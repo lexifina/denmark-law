@@ -1,5 +1,5 @@
-Beskæftigelsesministeriet, den 12. februar 2021
+Styrelsen for Arbejdsmarked og Rekruttering, den 2. september 2024
 
-Peter Hummelgaard
+Jens Erik Zebis
 
 / Tina Holgaard Madsen

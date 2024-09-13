@@ -1,3 +1,7 @@
+## Kapitel 3 e
+
+## (Ophævet)
+
 ## Kapitel 3 f
 
 ## Indhentning af oplysninger til brug for afgørelser om tidlig pension

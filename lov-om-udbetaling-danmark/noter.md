@@ -22,7 +22,7 @@
 
 12) Lovændringen vedrører overskriften til lovens kapitel 3 e og § 12 j.
 
-13) Lovændringen vedrører lovens § 12 i, stk. 2-8.
+13 Lovændringen vedrører lovens § 12 i, stk. 2-8.
 
 14) Lovændringen vedrører lovens § 1, stk. 1, nr. 4, § 1 a, nr. 35 og 36, § 12 b, stk. 1, og § 12 d, stk. 1.
 
@@ -39,3 +39,19 @@
 20) Lovændringen vedrører lovens § 26, stk. 2, 3, og 5-7.
 
 21) Lovændringen vedrører lovens § 5, stk. 2, § 12 j, stk. 2, nr. 4, overskriften til kapitel 3 f, § 12 k og § 32, stk. 2.
+
+22) Lovændringen vedrører lovens § 1, stk. 1, § 12 i stk. 2 og 3, § 12 i stk. 5, 3 pkt., § 12 i, stk. 5, 3 pkt., og § 12 i, stk. 5, 4. pkt.
+
+23) Lovændringen vedrører lovens § 1, stk. 1.
+
+24) Lovændringen vedrører lovens § 1, stk. 1.
+
+25) Lovændringen vedrører lovens § 12 a, stk. 1, 1. pkt.
+
+26) Lovændringen vedrører lovens § 30 stk. 1, 1. pkt., og § 30, stk. 2, 1. pkt.
+
+27) Lovændringen vedrører lovens § 1, stk. 1.
+
+28) Lovændringen vedrører lovens § 1 a.
+
+29) Lovændringen vedrører lovens kapitel 3 e.
