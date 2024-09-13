@@ -102,7 +102,7 @@ Stk. 2. §§ 11, 12 og 14 kan helt eller delvis ved kongelig anordning sættes i
 
 Stk. 3. §§ 14 og 16 kan helt eller delvis ved kongelig anordning sættes i kraft for Færøerne med de ændringer, som de færøske forhold tilsiger.
 
-Lov nr. 287 af 29. marts 2017 om en midlertidig jobpræmie til langtidsledige m.v. indeholder følgende ikrafttrædelses- bestemmelse:
+Lov nr. 287 af 29. marts 2017 om en midlertidig jobpræmie til langtidsledige m.v. indeholder følgende ikrafttrædelsesbestemmelse:
 
 § 25. Loven træder i kraft den 1. april 2017.
 
@@ -359,3 +359,67 @@ Stk. 7. Staten afholder udgiften til kompensation efter stk. 1.
 Stk. 1. Loven gælder ikke for Færøerne eller Grønland, jf. dog stk. 2.
 
 Stk. 2. Lovens § 16 kan ved kongelig anordning helt eller delvis sættes i kraft for Færøerne og Grønland med de ændringer, som henholdsvis de færøske og de grønlandske forhold tilsiger.
+
+Lov nr. 452 af 20. april 2022 (Initiativer til beskyttelse af børn imod vold og negativ social kontrol, indførelse af regler om fleksibel udbetaling af hjælp til repatriering og hjemrejsestøtte m.v.) indeholder følgende ikrafttrædelses- og overgangsbestemmelser:
+
+§ 16
+
+Stk. 1. Loven træder i kraft den 1. maj 2022, jf. dog stk. 2.
+
+Stk. 2 og 3. (Udelades)
+
+Stk. 4. § 3, nr. 1-3, § 4, nr. 3, og §§ 5-11 finder ikke anvendelse for domme for overtrædelser af straffelovens § 244, stk. 2, der vedrører forhold begået inden lovens ikrafttræden.
+
+Stk. 5-8. (Udelades)
+
+Lov nr. 1267 af 13. september 2022 om en ekstra økonomisk støtte til modtagere af ældrechecken, engangsbeløb til overførselsmodtagere, der har trukket sig tilbage fra arbejdsmarkedet, og engangsbeløb til uddannelsessøgende, der modtager stipendium som tillæg på grund af en funktionsnedsættelse eller som enlige forsørgere indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 19. Loven træder i kraft den 14. september 2022.
+
+Lov nr. 455 af 2. maj 2023 om en ekstra økonomisk støtte til modtagere af ældrecheck og engangsbeløb til uddannelsessøgende, der modtager stipendium som tillæg på grund af en funktionsnedsættelse eller som enlige forsørgere indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 12. Loven træder i kraft den 3. maj 2023.
+
+Lov nr. 753 af 13. juni 2023 (Ændringer som følge af barnets lov, initiativret for adopterede børn, adoption uden samtykke fra fødslen, samvær med børn på kvindekrisecentre m.v. og fasttrack for godkendelse af plejefamilier m.v.) indeholder følgende ikrafttrædelses- og overgangsbestemmelser:
+
+§ 52
+
+Stk. 1. Loven træder i kraft den 1. januar 2024, jf. dog stk. 2.
+
+Stk. 2-6. (Udelades)
+
+Stk. 7. §§ 2-51 finder ikke anvendelse, hvis en afgørelse, en indstilling eller en børnefaglig undersøgelse efter lov om social service, jf. lovbekendtgørelse nr. 170 af 24. januar 2022 med senere ændringer, er truffet, afgivet, gennemført eller iværksat før lovens ikrafttræden. I disse situationer finder de hidtil gældende regler anvendelse.
+
+Stk. 8 og 9. (Udelades)
+
+Lov nr. 1538 af 12. december 2023 (Fælles opkrævning af arbejdsgiverbidrag, udvidet bemyndigelse til at fastsætte regler om modregningsadgang, nationale særregler for behandling af personoplysninger m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 16
+
+Stk. 1. Loven træder i kraft den 1. januar 2024.
+
+Stk. 2-19. (Udelades)
+
+Lov nr. 266 af 19. marts 2024 (Tilskud til forsørgelse af børn, der forsørges af andre end forældrene, og sidestilling af gifte, men praktisk set enlige, forsørgere med reelt enlige i forhold til forsørgelsesydelse m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 3
+
+Loven træder i kraft den 31. marts 2024.
+
+§ 4
+
+Stk. 1. Loven gælder ikke for Færøerne og Grønland, jf. dog stk. 2.
+
+Stk. 2. § 1, nr. 1 og 2, kan ved kongelig anordning helt eller delvis sættes i kraft for Færøerne og Grønland med de ændringer, som henholdsvis de færøske og de grønlandske forhold tilsiger.
+
+Lov nr. 613 af 11. juni 2024 om forsøgsordning for frie bymidter indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 13. Loven træder i kraft den 1. juli 2024.
+
+Lov nr. 632 af 11. juni 2024 (Fradragsret for indbetalinger til aldersforsikring, aldersopsparing og supplerende engangssum i indtægtsgrundlaget ved beregning af visse sociale ydelser) indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 8
+
+Stk. 1. Loven træder i kraft den 1. juli 2024
+
+Stk. 2-4. (Udelades)
