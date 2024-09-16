@@ -20,12 +20,16 @@
 
 11) Lovændringen vedrører § 18, stk. 2-4.
 
-12) Lovændringen vedrører § 1, stk. 1, § 1, stk. 2, nr. 2-4, § 2, stk. 1, § 3, § 2 a, § 13, stk. 2, nr. 3, § 15, stk. 3, § 16, stk. 1, nr. 1-2, § 17, stk. 2, § 21, stk. 1, § 22, stk. 1, nr. 1, kapitel 3 og fodnoten til lovens titel.
+12) Lovændringen vedrører § 1, stk. 1, § 1, stk. 2, nr. 2-4, § 2, stk. 1, § 3, § 2 a, § 13, stk. 2, nr. 3, § 15, stk. 3, § 16, stk. 1, nr. 1 og 2, § 17, stk. 2, § 21, stk. 1, § 22, stk. 1, nr. 1, kapitel 3 og fodnoten til lovens titel.
 
 13) Ved bekendtgørelse nr. 923 af 17. juni 2020 er det bestemt, at § 1, nr. 5 og 7, i lov nr. 739 af 30. maj 2020, der vedrører § 1, stk. 2, nr. 4 og kapitel 3, træder i kraft den 1. juli 2020.
 
 14) Lovændringen vedrører § 1, stk. 2, nr. 4, § 5, stk. 2, 1. pkt. og § 7, stk. 1, nr. 3.
 
-15) Lovændringen vedrører titlen, § 1, stk. 1, § 1, stk. 2, nr. 4, § 2, stk. 1 og 2, overskriften til kapitel 3, § 7, § 8, § 9, § 10, stk. 1-2, § 20, stk. 6, § 21, stk. 1 og § 22, stk. 1, nr. 1.
+15) Lovændringen vedrører lovens titel, § 1, stk. 1, § 1, stk. 2, nr. 4, § 2, stk. 1 og 2, overskriften til kapitel 3, § 7, § 8, § 9, § 10, stk. 1 og 2, § 20, stk. 6, § 21, stk. 1 og § 22, stk. 1, nr. 1.
 
 16) Lovændringen vedrører § 7 a, § 7 b og § 20, stk. 1.
+
+17) Lovændringen vedrører overskriften til kapitel 4 a, § 14 a, § 18 a, stk. 2 og 3 og § 21, stk. 1.
+
+18) Lovændringen vedrører overskriften til kapitel 5, § 15, § 16, § 17, § 17 a, § 17 b, § 20, stk. 4, nr. 2, § 21, stk. 1 og § 22, stk. 1, nr. 2.

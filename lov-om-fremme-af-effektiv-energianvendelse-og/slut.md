@@ -1,5 +1,5 @@
-Energistyrelsen, den 17. marts 2023
+Energistyrelsen, den 12. september 2024
 
 Stine Leth Rasmussen
 
-/ Rikke Reumert Schaltz
+/ Rasmus Tengvad
