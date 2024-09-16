@@ -14,7 +14,7 @@ Stk. 1. Loven træder i kraft den 1. januar 2015, jf. dog stk. 2 og 3.
 
 Stk. 2. § 1, nr. 1, 7 og 8, § 2, nr. 1, 3 og 4, og §§ 3 og 6 træder i kraft dagen efter bekendtgørelsen i Lovtidende.
 
-Stk. 3-4. (Udelades)
+Stk. 3 og 4. (Udelades)
 
 Lov nr. 1876 af 29. december 2015 (Skærpet håndhævelse af dokumentationskrav til ecodesign og energimærkning af energirelaterede produkter, justering af forpligtelsen til at lade udarbejde energimærkning for bygninger med ejerlejligheder, lettelse af vilkårene for godkendelse som bedre bolig-rådgiver og faktureringsoplysninger til fjernkølingskunder m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
 
@@ -28,7 +28,7 @@ Lov nr. 690 af 8. juni 2018 om Forsyningstilsynet indeholder følgende ikrafttr�
 
 § 14. Loven træder i kraft den 1. juli 2018, jf. dog stk. 2.
 
-Stk. 2-3. (Udelades)
+Stk. 2 og 3. (Udelades)
 
 Lov nr. 739 af 30. maj 2020 (Tilskud til energibesparelser og energieffektiviseringer m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
 
@@ -55,3 +55,19 @@ Lov nr. 1593 af 28. december 2022 (Udmøntning af CCUS-puljer og mulighed for ko
 § 2
 
 Loven træder i kraft den 1. januar 2023.
+
+Lov nr. 1555 af 12. december 2023 (Universalopladere til mobiltelefoner m.v., regler om kommunal støtte til bredbåndsudrulning, indhentning af oplysninger om elforbrug og indberetning af oplysninger om datacentres energimæssige ydeevne m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 6
+
+Stk. 1. Loven træder i kraft den 28. december 2023, jf. dog stk. 2.
+
+Stk. 2 og 3. (Udelades)
+
+Lov nr. 669 af 11. juni 2024 (Udmøntning af klimasyn fra grøn skattereform 2022 og implementering af nye krav til energiledelsessystemer og energisyn) indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 2
+
+Stk. 1. Loven træder i kraft den 1. juli 2024.
+
+Stk. 2. Loven finder ikke anvendelse på energisyn, jf. § 15 i lov om fremme af effektiv energianvendelse og drivhusgasreduktion, jf. lovbekendtgørelse nr. 296 af 17. marts 2023 som ændret ved § 4 i lov nr. 1555 af 12. december 2023, der har frist for indberetning før lovens ikrafttræden, eller hvor der inden lovens ikrafttræden er truffet afgørelse om at forlænge fristen for indberetning til efter lovens ikrafttræden. For sådanne energisyn finder de hidtil gældende regler anvendelse.
