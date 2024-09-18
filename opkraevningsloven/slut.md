@@ -1,6 +1,6 @@
-Skatteministeriet, den 20. december 2021
+Skatteministeriet, den 13. september 2024
 
-P.M.V. Jens Brøchner
+P.M.V. Michael Skaarup
 
 / Annemette Ottosen
 
@@ -24,7 +24,7 @@ Liste A
 
 8) Emballageafgiftsloven.
 
-9) Lov om forskellige forbrugsafgifter.
+9) Lov om forskellige forbrugsafgifter bortset fra afsnit IX.
 
 10) Lov om afgift af visse klorerede opløsningsmidler.
 
