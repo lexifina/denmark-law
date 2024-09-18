@@ -44,8 +44,14 @@ Stk. 1. Loven træder i kraft den 1. juli 2019.
 
 Stk. 2. Allerede udstedte tilladelser til fjernbuskørsel efter § 22, stk. 1, i lov om trafikselskaber forbliver i kraft indtil udløbet af deres gyldighedsperiode. Transportministeren kan tillade, at der i henhold til disse tilladelser udføres kørsel efter reglerne i § 19, stk. 4, og § 22, stk. 2 og 3, i lov om trafikselskaber.
 
-Lov nr. 1186 af 8. juni 2021 (Trafikverkets indkøb af nattogstrafik i Danmark) indeholder følgende ikrafttrædelsesbestemmelse:
+Lov nr. 1186 af 11. juni 2021 (Trafikverkets indkøb af nattogstrafik i Danmark) indeholder følgende ikrafttrædelsesbestemmelse:
 
 § 2
 
-Loven træder i kraft den 1. juli 2021.
+Loven træder i kraft den 1. januar 2021.
+
+Lov nr. 1571 af 12. december 2023 (10-årige rutekørselstilladelser til nulemissionsbusser) indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 2
+
+Loven træder i kraft den 1. januar 2024.
