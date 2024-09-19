@@ -1,5 +1,5 @@
-Sundhedsministeriet, den 1. februar 2022
+Indenrigs- og Sundhedsministeriet, den 18. september 2024
 
-Magnus Heunicke
+P.M.V. Andreas Jull Sørensen
 
 / Nina Fjord Fromberg

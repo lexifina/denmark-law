@@ -1,4 +1,4 @@
-§ 2 b. Sundhedsministeren fastsætter regler om sygehusmyndighedens mulighed for at iværksætte følgende afskæringer og begrænsninger:
+§ 2 b. Indenrigs- og sundhedsministeren fastsætter regler om sygehusmyndighedens mulighed for at iværksætte følgende afskæringer og begrænsninger:
 
 1) Afskæring fra eller begrænsning af adgang til mobiltelefon, computer eller lignende kommunikationsudstyr af hensyn til patienten, medpatienter, personale, pårørende, offentlige myndigheder, m.v. ved opførsel som åbenbart vil være imod patientens egne interesser eller ved åbenlys chikanende opførsel.
 
