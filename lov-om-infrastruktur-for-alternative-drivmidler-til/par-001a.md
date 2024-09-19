@@ -1,0 +1,1 @@
+§ 1 a. Loven supplerer Europa-Parlamentets og Rådets forordning (EU) 2023/1804 af 13. september 2023 om etablering af infrastruktur for alternative drivmidler og om ophævelse af direktiv 2014/94/EU og dertilhørende delegerede retsakter og gennemførelsesretsakter.
