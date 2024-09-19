@@ -14,7 +14,7 @@
 
 8) Lovændringen vedrører lovens § 9.
 
-9) Lovændringen vedrører lovens § 1 a, stk. 1, § 15 d, stk. 1, § 17, stk. 1 og stk. 3-5, § 18, § 19, stk. 2-3, § 22, stk. 1 og 2, § 29, stk. 1, nr. 4, og § 33, stk. 2.
+9) Lovændringen vedrører lovens § 1 a, stk. 1, § 15 d, stk. 1, § 17, stk. 1 og stk. 3-5, § 18, § 19, stk. 2 og 3, § 22, stk. 1 og 2, § 29, stk. 1, nr. 4, og § 33, stk. 2.
 
 10) Lovændringen vedrører lovens § 7, § 13, overskriften før § 14, § 14, stk. 2-4, § 14 a, stk. 1 og 6, § 15, stk. 2, § 15 a, stk. 2, § 15 b, stk. 1, § 15 c, stk. 2, § 15 d, stk. 2, § 15 e, stk. 1, § 15 f, stk. 1, § 29, stk. 1 og 8, § 32, § 33, stk. 1 og 2, § 33 a, stk. 3, 5 og 6, § 33 b, stk. 2-4, § 33 c, stk. 1, § 33 d, stk. 1, § 36, stk. 2 og 3, § 39, stk. 3-5, § 39 a, § 41, stk. 1-3, § 41 a, stk. 1-5, § 46, stk. 2, 4 og 5, § 46 b, § 47, stk. 2, § 49, stk. 1, nr. 6 og stk. 5, § 50, stk. 1-3, § 52, § 56 a, § 57, stk. 1, § 62, stk. 1 og 3, § 62 a, og § 72 d, stk. 7.
 
@@ -46,7 +46,7 @@
 
 24) Lovændringen vedrører lovens § 3, stk. 5, § 3 a, stk. 1, § 13, § 15 a, stk. 1, § 15 b, stk. 1, § 15 d, stk. 2, § 15 g, § 27, stk. 2, § 29, stk. 1, nr. 2 og 8, § 32 a, stk. 1, nr. 2 og 7, § 33, stk. 1 og 9, § 39, stk. 4, og § 42, stk. 1 og 2.
 
-25) Lovændringen vedrører lovens § 3, stk. 5, § 3 a, stk. 1, § 13, § 15 a, stk. 1, § 15 b, stk. 1, § 15 d, stk. 2, § 15 g, § 27, stk. 2, § 29, stk. 1, nr. 2 og 8, § 32 a, stk. 1, nr. 2 og 7, § 33, stk. 1 og 9, § 39, stk. 4 og § 42, stk. 1 og 2§ 31, stk. 5, § 32 c, stk. 3, § 34, stk. 4, og §§ 46 b-46 e.
+25) Lovændringen vedrører lovens § 3, stk. 5, § 3 a, stk. 1, § 13, § 15 a, stk. 1, § 15 b, stk. 1, § 15 d, stk. 2, § 15 g, § 27, stk. 2, § 29, stk. 1, nr. 2 og 8, § 32 a, stk. 1, nr. 2 og 7, § 33, stk. 1 og 9, § 39, stk. 4 og § 42, stk. 1 og 2 § 31, stk. 5, § 32 c, stk. 3, § 34, stk. 4, og §§ 46 b-46 e.
 
 26) Lovændringen vedrører lovens § 29 a, stk. 2, § 39 a, stk. 1, og § 72 d, stk. 2.
 
@@ -106,4 +106,24 @@
 
 54) Lovændringen vedrører lovens § 30, stk. 1, 4, og 7, og § 32 b, stk. 1, 4, og 7.
 
-55) Lovændringen vedrører lovens § 46 d, stk. 1 og 2, §46 f, stk. 1 og 2, § 48 a, stk. 1 og 3, og § 48 f.
+55) Lovændringen vedrører lovens § 46 d, stk. 1 og 2, § 46 f, stk. 1 og 2, § 48 a, stk. 1 og 3, og § 48 f.
+
+56) Lovændringen vedrører lovens § 32 l.
+
+57) Lovændringen vedrører lovens § 29, stk. 1, nr. 1, § 29, stk. 1, nr. 7, 1. pkt., § 29 stk. 1, nr. 10, § 29, stk. 5, 2. pkt., § 32 a, stk. 1, nr. 1, § 32 a stk. 1, nr. 6, § 43 a, stk. 1, § 44, stk. 1, 1. pkt., § 44, stk. 3, og § 44, stk. 5.
+
+58) Lovændringen vedrører lovens § 14 c, stk. 5, og § 72 d, stk. 2, 2. pkt.
+
+59) Lovændringen vedrører lovens § 14 a, stk. 6, § 14 b, stk. 1 og 3, 2. pkt., § 14 e, stk. 2, § 15, stk. 1, § 27, § 29, stk. 1, nr. 1, § 29, stk. 1, nr. 2, 2. pkt., og § 32 a, stk. 1, nr. 2, 2. pkt., § 29, stk. 1, nr. 5, 1. pkt., og § 32 a, stk. 1, nr. 5, 1. pkt., § 29, stk. 1, nr. 7 og 10, § 32 a, stk. 1, nr. 6, § 29, stk. 1, § 29, stk. 4, § 29, stk. 4, nr. 1, 1. pkt., § 29 stk. 4, nr. 2-5, § 29, stk. 5, 1. og 2. pkt., § 29, stk. 9, § 30, stk. 1, § 31, stk. 1, § 31, stk. 3, 3. pkt., § 32 a, stk. 1, nr. 1, § 32 a, stk. 1, § 32 a, stk. 3, § 32 a, stk. 3, nr. 1, 1. pkt., § 32 a, stk. 3, nr. 2-6, § 32 a, stk. 4, § 32 d, stk. 1, § 48 b, stk. 1, § 32 l, stk. 1, § 33 b, stk. 1, § 39, stk. 1, § 39, stk. 2, nr. 2-3, § 39 a, stk. 3, § 39 b, stk. 1, nr. 1, 1. pkt., § 39 b, stk. 1, § 39 b, stk. 3, § 39 b, stk. 5, § 46 d, stk. 1, nr. 7, § 49, stk. 1, nr. 2, § 49, stk. 3, 1. pkt., § 49, stk. 4, 1. pkt., § 49, stk. 5, 1. pkt., § 49 a, stk. 1, § 49 b, 1. pkt., § 49 c, stk. 1, 1. pkt., og stk. 2, § 49 c, stk. 3 og 4, § 69, stk. 3, 3. pkt., § 72 d, stk. 2, 1. pkt., og § 72 d, stk. 3.
+
+60) Lovændringen vedrører lovens § 26 n, stk. 1, nr. 13, § 26 s, stk. 2, nr. 4, og § 38 a, stk. 1.
+
+61) Lovændringen vedrører lovens § 53 og § 57.
+
+62) Lovændringen vedrører lovens § 3, stk. 5, og § 56 a, stk. 5, 1. og 2. pkt.
+
+63) Lovændringen vedrører lovens § 26 k, stk. 1, § 26 n, stk. 1, nr. 16, § 26 n, stk. 1, nr. 17, § 26 n, stk. 1, nr. 19, § 48 b, stk. 2, og § 48 c, stk. 1, 1. pkt.
+
+64) Lovændringen vedrører lovens § 29, stk. 5, 2. pkt., § 29, stk. 9, 2. pkt., § 32 f, 2. pkt., § 49, stk. 2, og § 49, stk. 1, nr. 4.
+
+65) Lovændringen vedrører lovens § 29, stk. 1, nr. 1, § 32 a, stk. 1, nr. 1, § 39 b, stk. 2, 1. pkt., og § 39 c.

@@ -234,8 +234,6 @@ Stk. 11. Ved overgang til førtidspension efter lov om social pension, jf. § 44
 
 Stk. 12. Krav på tilbagebetaling af pension, jf. §§ 42 og 43 i lov om højeste, mellemste, forhøjet almindelig og almindelig førtidspension m.v., kan fratrækkes i korrektionsbeløbet, jf. stk. 4. Hvis kravet ikke kan dækkes i korrektionsbeløbet, fratrækkes det resterende krav i pensionen efter § 32 i lov om social pension.
 
-Stk. 13. (Ophævet)
-
 Lov nr. 494 af 21. maj 2013 (Overførsel af Pensionsstyrelsens opgaver til Udbetaling Danmark) indeholder følgende ikrafttrædelses- og overgangsbestemmelse:
 
 § 11
@@ -684,9 +682,7 @@ Stk. 5. Den årlige beretning, jf. § 9, stk. 2, og Seniorpensionsenhedens årsr
 
 Stk. 6. Seniorpensionsenheden udmelder et skøn over administrationsbidrag og de endelige administrationsbidrag for 2021, jf. § 15, hurtigst muligt.
 
-§§ 20 og 21. (Udelades)
-
-§ 22. Loven gælder ikke for Færøerne og Grønland.
+§§ 20 og 21 (Udelades)
 
 Lov nr. 2190 af 29. december 2020 (Overførsel af myndighedsansvar for seniorpension til Seniorpensionsenheden m.v.) indeholder følgende ikrafttrædelses- og overgangsbestemmelse:
 
@@ -859,3 +855,127 @@ Stk. 2 og 3. (Udelades)
 Stk. 4. § 3, nr. 1-3, § 4, nr. 3, og §§ 5-11 finder ikke anvendelse for domme for overtrædelser af straffelovens § 244, stk. 2, der vedrører forhold begået inden lovens ikrafttræden.
 
 Stk. 5-8. (Udelades)
+
+Lov nr. 831 af 14. juni 2022 (Ingen modregning i social pension og efterløn på arbejdspladser, som varetager opgaver med fordrevne fra Ukraine, og ændring af skæringsdato for udrejse af Ukraine ved meddelelse af opholdstilladelse) indeholder følgende ikrafttrædelses- og overgangsbestemmelser:
+
+§ 5
+
+Stk. 1. Loven træder i kraft den 16. juni 2022.
+
+Stk. 2. § 4 finder også anvendelse i sager, hvor der er truffet afgørelse forud for ikrafttræden af § 4.
+
+§ 6
+
+Stk. 1. Loven gælder ikke for Færøerne og Grønland, jf. dog stk. 2.
+
+Stk. 2. § 4 kan ved kongelig anordning helt eller delvis sættes i kraft for Færøerne og Grønland med de ændringer, som henholdsvis de færøske og grønlandske forhold tilsiger.
+
+Lov nr. 875 af 21. juni 2022 (Afskaffelse af indtægtsregulering af folke-, senior- og førtidspension på grund af ægtefælles eller samlevers arbejdsindtægt, sikring mod frakendelse af førtidspension i en 3-årig periode m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 4
+
+Stk. 1. Loven træder i kraft den 1. juli 2022.
+
+Stk. 2. §§ 1 og 2 har virkning fra den 1. januar 2023.
+
+Lov nr. 679 af 3. juni 2023 (Opkrævning og inddrivelse af grundskyld og dækningsafgift m.v., statens afregning af grundskyld og dækningsafgift til kommunerne, foreløbige vurderinger som midlertidigt beskatningsgrundlag i 2024 og 2025, forenkling af ejendomsvurderingerne for 2024 og 2025, udvidelse af antallet af dommere i Landsskatteretten m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 45
+
+Stk. 1. Loven træder i kraft den 5. juni 2023, jf. dog stk. 2-4.
+
+Stk. 2. (Udelades)
+
+Stk. 3. §§ 1 og 2, § 3, nr. 3, 4, 6, 8-18, 20, 21 og 29, §§ 4-8, § 9, nr. 1, 3 og 4, §§ 10-13, § 14, nr. 1, 2 og 7, §§ 15-18 og 21-29, § 30, nr. 2 og 4, og §§ 32-44 træder i kraft den 1. januar 2024.
+
+Stk. 4-6. (Udelades)
+
+Lov nr. 726 af 13. juni 2023 (Afskaffelse af indtægtsregulering som følge af pensionistens egen arbejdsindtægt i folkepensionens grundbeløb og pensionstillæg, justering af regler med henblik på mere rimelige pensionsberegninger m.v.) indeholder følgende ikrafttrædelses- og overgangsbestemmelse:
+
+§ 5
+
+Stk. 1. Loven træder i kraft den 1. juli 2023.
+
+Stk. 2. § 1, nr. 1-7, 9, 11, 12, 19, 21-26, 34, 36-38, 40-46 og 48-58, § 2, nr. 1, 2, 4, 11, 13, 15-20, 22 og 23, og § 3 har virkning fra den 1. januar 2024.
+
+Stk. 3. § 1, nr. 1-6, 9, 19, 21-24, 34, 36-38, 41, 48-54, 57 og 58, finder anvendelse i forbindelse med regulering af pension udbetalt for kalenderåret 2023. Ændringerne i § 29, stk. 1, nr. 11, og stk. 9, i lov om social pension som affattet ved denne lovs § 1, nr. 12 og 21, finder endvidere anvendelse i forbindelse med regulering af pension udbetalt for kalenderåret 2023, dog således, at der ved regulering af pension udbetalt for kalenderåret 2023 alene bortses fra positiv indtægt ved personligt arbejde.
+
+Stk. 4. Beskæftigelsesministeren kan fastsætte regler om, at der for 2023 efter ansøgning kan ske beregning og efterbetaling af pensionstillægget m.v. til en efterlevende folkepensionist, hvis ægtefælle eller samlever er afgået ved døden i 2023, og hvor der ikke foretages en efterregulering efter § 39 b i lov om social pension, herunder om, hvordan Udbetaling Danmark skal beregne pensionstillægget for 2023 fra pensionsudbetalingens start og frem til dødsfaldet eller udløbet af efterlevelsespension.
+
+Stk. 5. Beskæftigelsesministeren kan fastsætte regler om, at der for 2023 efter ansøgning kan ske efterbetaling af en afdød folkepensionists grundbeløb og pensionstillæg m.v. til dødsboet efter en afdød folkepensionist, hvor der ikke foretages en efterregulering efter §39 b i lov om social pension, herunder om, hvordan Udbetaling Danmark skal beregne grundbeløbet og pensionstillægget for 2023 fra pensionsudbetalingens start og frem til dødsfaldet.
+
+Lov nr. 753 af 13. juni 2023 (Ændringer som følge af barnets lov, initiativret for adopterede børn, adoption uden samtykke fra fødslen, samvær med børn på kvindekrisecentre m.v. og fasttrack for godkendelse af plejefamilier m.v.) indeholder følgende ikrafttrædelses- og overgangsbestemmelse:
+
+§ 52
+
+Stk. 1. Loven træder i kraft den 1. januar 2024, jf. dog stk. 2.
+
+Stk. 2-6. (Udelades)
+
+Stk. 7. §§ 2-51 finder ikke anvendelse, hvis en afgørelse, en indstilling eller en børnefaglig undersøgelse efter lov om social service, jf. lovbekendtgørelse nr. 170 af 24. januar 2022 med senere ændringer, er truffet, afgivet, gennemført eller iværksat før lovens ikrafttræden. I disse situationer finder de hidtil gældende regler anvendelse.
+
+Stk. 8 og 9. (Udelades)
+
+Lov nr. 754 af 13. juni 2023 (Handlekommune for børn, der hjælpes tilbage til Danmark af danske myndigheder, og for børn, hvis forældre er i udlandet, ensretning af begrebsbrug, nødvendige ændringer i handlekommunereglerne som følge af barnets lov m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 24
+
+Stk. 1. Loven træder i kraft den 1. januar 2024, jf. dog stk. 2.
+
+Stk. 2-5. (Udelades)
+
+Lov nr. 1769 af 28. december 2023 (Mulighed for dispensation til eksport af pensionstillæg m.v., forenklet beregning af fleksløntilskud, herunder i forhold til hjælp til dækning af tabt arbejdsfortjeneste m.v., og ændring af mellemkommunal refusion for førtidspension og seniorpension) indeholder følgende ikrafttrædelses- og overgangsbestemmelse:
+
+§ 7
+
+Stk. 1. Loven træder i kraft den 1. januar 2024.
+
+Stk. 2. Ansøgning om pensionstillæg efter denne lov kan tidligst indgives til Udbetaling Danmark fra og med den 1. januar 2024. Indgives ansøgning herom til Udbetaling Danmark senest den 30. juni 2024, vil pensionstillægget kunne udbetales fra den 1. januar 2024, hvis personen i øvrigt opfylder betingelserne herfor. Indgives ansøgning herom den 1. juli 2024 eller senere, opnås ret til pensionstillæg med virkning fra den 1. i måneden efter at Udbetaling Danmark træffer afgørelse i sagen, hvis personen i øvrigt opfylder betingelserne herfor.
+
+Stk. 3. Stk. 2 omfatter ligeledes personer, der på tidspunktet for lovens ikrafttrædelse modtager folkepension eller førtidspension, og som har bopæl i et EU-/EØS-land, Schweiz eller Storbritannien.
+
+Stk. 4. § 9 c, stk. 8, i lov om retssikkerhed og administration på det sociale område som affattet ved denne lovs § 4, nr. 1, jf. dog stk. 5, finder anvendelse fra og med den 1. januar 2024 og omfatter sager, hvor en pensionist opholder sig i en boform m.v., som fremgår af § 9 c, stk. 1-6, i lov om retssikkerhed og administration på det sociale område, og hvor der er ret til refusion for opholdet efter lov om retssikkerhed og administration på det sociale område, men hvor retten til refusion for udgifterne til førtidspension og seniorpension er ophørt, eller hvor retten til refusion er udskudt efter det gældende § 9 c, stk. 8, 3. pkt., i lov om retssikkerhed og administration på det sociale område. Dette vil også gælde for sager, hvor 6-årsreglen har været udskudt, jf. det gældende § 9 c, stk. 8, 3. pkt., i lov om retssikkerhed og administration på det sociale område.
+
+Stk. 5. I sager, hvor retten til refusion for førtidspension og seniorpension er ophørt fra og med den 1. januar 2021, men hvor pensionisten fortsat opholder sig i en boform m.v., som fremgår af § 9 c, stk. 1-6, i lov om retssikkerhed og administration på det sociale område, har kommunen endvidere ret til refusion for udgifter til førtidspension og seniorpension fra ophøret af refusionen og frem til den 31. december 2023 fra den kommune, som var handlekommune på tidspunktet, hvor pensionisten fik ophold i en boform efter § 9 c, stk. 2-6, i lov om retssikkerhed og administration på det sociale område.
+
+Stk. 6. I sager, hvor pensionisten ikke længere har ophold i en boform m.v. efter § 9 c, stk. 2-6, i lov om retssikkerhed og administration på det sociale område, vil handlekommunen have ret til refusion for udgifterne til førtidspension eller seniorpension i 6 år fra fraflytningen fra den kommune, som tilkendte førtidspension eller var handlekommune på tidspunktet for tilkendelse af seniorpension, jf. de gældende § 9 c, stk. 8, 1. og 2. pkt., i lov om retssikkerhed og administration på det sociale område.
+
+Stk. 7. Stk. 4-6 finder tilsvarende anvendelse i sager, der er omfattet af § 30, stk. 5, 2. pkt., i lov nr. 994 af 30. august 2015 om kommunernes finansiering af visse offentlige ydelser udbetalt af kommunerne, Udbetaling Danmark og arbejdsløshedskasserne.
+
+Lov nr. 628 af 11. juni 2024 (Tildeling af anciennitet til tidlig pension for perioder med opskoling) indeholder følgende ikrafttrædelses- og overgangsbestemmelser:
+
+§ 2
+
+Loven træder i kraft den 1. august 2024.
+
+§ 3
+
+Stk. 1. Personer, som er født i perioden fra den 1. august 1957 til og med 1962, og som forud for denne lovs ikrafttræden har fået helt eller delvist afslag på en ansøgning om ret til tidlig pension på grund af manglende anciennitet, kan efter anmodning til Udbetaling Danmark få genoptaget afgørelsen om ret til tidlig pension, jf. stk. 2-6.
+
+Stk. 2. Det er en betingelse for, at Udbetaling Danmark kan behandle en anmodning om genoptagelse, at vedkommende i perioden, der kan tælle med til anciennitet til tidlig pension, jf. § 26 h, stk. 3, i lov om social pension, har været i praktik på en su-berettigende uddannelse, jf. § 26 n, stk. 1, nr. 17, i lov om social pension som ændret ved denne lovs § 1, nr. 3, eller har været under opskoling, jf. § 26 n, stk. 1, nr. 19, i lov om social pension som affattet ved denne lovs § 1, nr. 4.
+
+Stk. 3. Anmodning om genoptagelse efter stk. 1 kan indgives i perioden fra den 1. august 2024 til og med den 31. december 2024. Udbetaling Danmark træffer så vidt muligt afgørelse om ret til tidlig pension senest 4 måneder efter modtagelse af anmodningen.
+
+Stk. 4. Opnår en person ret til tidlig pension på grundlag af genoptagelse efter stk. 1, udbetales tidlig pension fra den 1. i måneden efter anmodning om genoptagelse, såfremt personen ville kunne overgå til tidlig pension fra dette tidspunkt, jf. dog stk. 5. I tidlig pension fratrækkes sygedagpenge, arbejdsløshedsdagpenge, selvforsørgelses- og hjemrejseydelse, overgangsydelse, ledighedsydelse, ressourceforløbsydelse, uddannelseshjælp og kontanthjælp, der er udbetalt fra tidspunktet for anmodning om genoptagelse og frem til afgørelse om ret til tidlig pension efter genoptagelse.
+
+Stk. 5. Til personer, som er overgået til efterløn eller fleksydelse, udbetales tidlig pension fra den 1. i måneden efter afgørelsen om ret til tidlig pension efter anmodning om genoptagelse.
+
+Stk. 6. Krav om tilknytning til arbejdsmarkedet efter § 26 s i lov om social pension gælder ikke, når der på tidspunktet for afgørelsen efter anmodning om genoptagelse er mindre end 13 måneder til, at personen tidligst kan overgå til tidlig pension.
+
+Lov nr. 631 af 11. juni 2024 (Ændring af bemyndigelsesbestemmelsen om fastsættelse af begrebet indtægt ved personligt arbejde ved beregning af social pension) indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 3
+
+Stk. 1. Loven træder i kraft den 1. juli 2024.
+
+Stk. 2. Loven har virkning fra den 1. januar 2025.
+
+Lov nr. 632 af 11. juni 2024 (Fradragsret for indbetalinger til aldersforsikring, aldersopsparing og supplerende engangssum i indtægtsgrundlaget ved beregning af visse sociale ydelser) indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 8
+
+Stk. 1. Loven træder i kraft den 1. juli 2024.
+
+Stk. 2. § 1, nr. 4, § 2, nr. 3, og § 3, nr. 1, har virkning fra efterreguleringen for året 2024.
+
+Stk. 3 og 4. (Udelades)
