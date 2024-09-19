@@ -1,53 +1,21 @@
-Lov nr. 1711 af 27. december 2018 (Ændringer som følge af lov om Familieretshuset og skærpet fokus på beskyttelsen af barnet i sager efter forældreansvarsloven) indeholder følgende ikrafttrædelses- og overgangsbestemmelser:
-
-§ 40
-
-Stk. 1. Loven træder i kraft den 1. juli 2019, jf. dog stk. 2 og 4.
-
-Stk. 2-5. (Udelades)
-
-§§ 41-42
-
-(Udelades)
-
-§ 43
-
-Stk. 1-6. (Udelades)
-
-Stk. 7. Sager vedrørende beskikkelse af patientrådgivere efter § 25, stk. 3 og 4, i lov om anvendelse af tvang i psykiatrien m.v., jf. lovbekendtgørelse nr. 1160 af 29. september 2015 med senere ændringer, der ved lovens ikrafttræden behandles af Statsforvaltningen, færdigbehandles af Nævnenes Hus.
-
-Stk. 8-9. (Udelades)
-
-Lov nr. 506 af 1. maj 2019 (Udarbejdelse af udskrivningsaftaler og koordinationsplaner og sikring af straksbehandling af akutte abstinenser hos personer med et stofmisbrug) indeholder følgende ikrafttrædelses- og overgangsbestemmelse:
-
-§ 3
-
-Stk. 1. Loven træder i kraft den 1. juli 2019.
-
-Stk. 2. Regler fastsat i medfør af § 13 a, stk. 2, i lov om anvendelse af tvang i psykiatrien m.v., jf. lovbekendtgørelse nr. 1160 af 29. september 2015, forbliver i kraft, indtil de ophæves eller afløses af forskrifter udstedt i medfør af § 13 a, stk. 3, i lov om anvendelse af tvang i psykiatrien m.v., som affattet ved denne lovs § 1.
-
-Lov nr. 1185 af 8. juni 2021 (Ændring af journalføringsreglerne, reaktionsmulighed ved manglende betaling af registreringsgebyr på tatoveringsområdet om supplerende bestemmelser i tilknytning til markedsovervågningsforordningen samt lovtekniske ændringer i psykiatriloven og strålebeskyttelsesloven) indeholder følgende ikrafttrædelsesbestemmelse:
-
-§ 9
-
-Loven træder i kraft den 1. juli 2021.
-
-Lov nr. 2617 af 28. december 2021 (Notatpligt for den faste vagt for bæltefikserede patienter, interval mellem lægelige vurderinger, m.v.) indeholder følgende ikrafttrædelsesbestemmelser:
-
-§ 3
-
-Loven træder i kraft den 1. januar 2022.
+Lov nr. 508 af 27. maj 2024 (Styrkelse af mindreårige patienters rettigheder, anvendelse af metaldetektorer, videregivelse af oplysninger til politiet i forbindelse med fælles udkørsel til borgere m.v.) indeholder følgende ikrafttrædelses- og overgangsbestemmelse:
 
 § 4
 
-Sundhedsministeren fremsætter i folketingsåret 2023-24 forslag om revision af lovens § 1, nr. 1 og 9.
+Stk. 1. Loven træder i kraft den 1. juni 2024.
 
-Lov nr. 2618 af 28. december 2021 (Husordener på psykiatriske afdelinger, sikkerhedskontroller i retspsykiatrien, særlige regler for surrogatanbragte m.v.) indeholder følgende ikrafttrædelsesbestemmelser:
+Stk. 2. § 1, nr. 16, har virkning fra den 11. januar 2023.
 
-§ 2
+Stk. 3. § 1, nr. 1-3, finder ikke anvendelse for patienter under 15 år, for hvem der er iværksat tvangsforanstaltninger eller frihedsberøvelse før lovens ikrafttræden.
 
-Loven træder i kraft den 1. januar 2022.
+Stk. 4. § 1, nr. 1-3, finder ikke anvendelse for patienter under 15 år, for hvem der er iværksat tvangsforanstaltninger eller frihedsberøvelse før lovens ikrafttræden.
 
-§ 3
+Stk. 5. Regler udstedt i medfør af § 19 a, stk. 8, i lov om anvendelse af tvang i psykiatrien m.v., jf. lovbekendtgørelse 185 af 1. februar 2022, forbliver i kraft, indtil de ophæves eller afløses af regler udstedt i medfør af § 19 a, stk. 9, i lov om anvendelse af tvang i psykiatrien m.v., jf. denne lovs § 1, nr. 11.
 
-Sundhedsministeren fremsætter i folketingsåret 2023-2024 forslag om revision af kapitel 5 b i lov om anvendelse af tvang i psykiatrien m.v. som indsat ved denne lovs § 1, nr. 6.
+Lov nr. 644 af 11. juni 2024 (Flytning af ansvar fra kommuner til regioner for misbrugsbehandling i forbindelse med regional integreret dobbeltdiagnosebehandling og omlægning af de særlige pladser på psykiatrisk afdeling) indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 5
+
+Stk. 1. Loven træder i kraft den 1. juli 2024, jf. dog stk. 2.
+
+Stk. 2 og 3. (Udelades)
