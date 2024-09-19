@@ -15,3 +15,11 @@ Lov nr. 1564 af 18. december 2018 (Transport-, bygnings- og boligministerens udt
 § 3
 
 Loven træder i kraft den 1. januar 2019.
+
+Lov nr. 1568 af 12. december 2023 (Etablering af en tilladelsesordning for ledninger, kabler og tilbehør i private fællesveje på landet og tilpasning af visse anlægslove til VVM-direktivet og naturbeskyttelsesdirektiverne) indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 4
+
+Stk. 1. Loven træder i kraft den 1. januar 2024.
+
+Stk. 2. Regler fastsat i medfør af § 25 d, stk. 1 og 2, i lov om letbane på Ring 3, jf. lovbekendtgørelse nr. 289 af 12. marts 2023, forbliver i kraft, indtil de ophæves eller afløses af regler udstedt i medfør af § 25 d, stk. 2 og 3, i lov om letbane på Ring 3, jf. denne lovs § 2, nr. 2.
