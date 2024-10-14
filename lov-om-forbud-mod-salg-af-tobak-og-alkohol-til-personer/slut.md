@@ -1,5 +1,5 @@
-Sundhedsministeriet, den 26. marts 2021
+Indenrigs- og Sundhedsministeriet, den 10. oktober 2024
 
-Magnus Heunicke
+Sophie Løhde
 
-/ Anne Bækgaard
+/ Kristian Petri Petersen
