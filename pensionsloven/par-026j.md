@@ -52,4 +52,4 @@ Stk. 9. Fra det fyldte 18. år omfattes personen af stk. 2-4 for den andel af å
 
 Stk. 10. I det år, hvor en person fylder 16 år, og i det år, hvor der er 6 eller 7 år til personens pensionsalder, jf. § 26 h, stk. 1 og 2, kan der højst optjenes anciennitet for den andel af året, personen har haft den pågældende alder.
 
-Stk. 11. Ancienniteten for en lønmodtager, som kan dokumentere beskæftigelse fra et andet EU-/EØS-land, Schweiz, Storbritannien, Færøerne eller Grønland, tæller med i hele optjeningsperioden. . Personer, der er født før den 1. september 1961, tildeles 9/16 måneders fuld anciennitet for hver måned som 16-17- årig, der ligger før den 1. september 1977. For personer født før den 1. september 1959 gives dog mindst 1 1/8 års anciennitet.
+Stk. 11. Ancienniteten for en lønmodtager, som kan dokumentere beskæftigelse fra et andet EU-/EØS-land, Schweiz, Storbritannien, Færøerne eller Grønland, tæller med i hele optjeningsperioden.

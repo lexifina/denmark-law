@@ -12,7 +12,7 @@ Stk. 2. Ved beskæftigelse forstås
 
 4) perioder, hvor en forælder modtager tabt arbejdsfortjeneste efter §§ 87 og 88 i barnets lov,
 
-5) perioder med barselsdagspenge,
+5) perioder med barselsdagpenge,
 
 6) perioder med ledighedsydelse,
 

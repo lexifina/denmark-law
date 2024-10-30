@@ -682,8 +682,6 @@ Stk. 5. Den årlige beretning, jf. § 9, stk. 2, og Seniorpensionsenhedens årsr
 
 Stk. 6. Seniorpensionsenheden udmelder et skøn over administrationsbidrag og de endelige administrationsbidrag for 2021, jf. § 15, hurtigst muligt.
 
-§§ 20 og 21 (Udelades)
-
 Lov nr. 2190 af 29. december 2020 (Overførsel af myndighedsansvar for seniorpension til Seniorpensionsenheden m.v.) indeholder følgende ikrafttrædelses- og overgangsbestemmelse:
 
 § 8
