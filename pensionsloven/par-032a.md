@@ -14,7 +14,7 @@
 
 4) Indtægtsgrundlaget efter nr. 1 og 3 opgøres foreløbigt hver måned på grundlag af forskudsopgørelsen, når opgørelsesperioden er et helt kalenderår, jf. dog nr. 5. Hvis opgørelsesperioden er kortere end kalenderåret, opgøres indtægtsgrundlaget efter nr. 1 og 3 på grundlag af oplysninger fra borgeren til Udbetaling Danmark, jf. dog nr. 5.
 
-5) Den registrerede indkomst er summen af indkomsten i opgørelsesperioden ifølge oplysninger fra indkomstregisteret og øvrige indkomster ifølge enten forskudsopgørelsen eller oplysninger fra borgeren. Overstiger den registrerede indkomst i opgørelsesperioden indtægtsgrundlaget opgjort efter nr. 4, opgøres indtægtsgrundlaget efter nr. 1 og 3 hver måned på grundlag af den registrerede indkomst i opgørelsesperioden.
+5) Den registrerede indkomst er summen af indkomsten i opgørelsesperioden ifølge oplysninger fra indkomstregisteret og øvrige indkomster ifølge enten forskudsopgørelsen eller oplysninger fra borgeren. Overstiger den registrerede indkomst i opgørelsesperioden indtægtsgrundlaget opgjort efter nr. 4, opgøres indtægtsgrundlaget efter nr. 1 og 3 hver måned på grundlag af den registrerede indkomst i opgørelsesperioden. Indkomst, som fremgår af indkomstregisteret, opgøres enten i indtægtsgruppen indtægt ved personligt arbejde eller i indtægtsgruppen øvrige indkomster. Overstiger indkomsten i den ene af de to indtægtsgrupper indkomsten ifølge enten forskudsopgørelsen eller oplysninger fra borgeren, anvendes oplysningerne fra indkomstregisteret alene, for så vidt angår denne indtægtsgruppe.
 
 6) Ved opgørelsen af indtægtsgrundlaget efter nr. 1 bortses fra en eventuel ægtefælles eller samlevers indtægt ved personligt arbejde.
 

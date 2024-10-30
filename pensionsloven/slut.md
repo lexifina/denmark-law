@@ -1,4 +1,4 @@
-Styrelsen for Arbejdsmarked og Rekruttering, den 2. september 2024
+Styrelsen for Arbejdsmarked og Rekruttering, den 21. oktober 2024
 
 Jens Erik Zebis
 
