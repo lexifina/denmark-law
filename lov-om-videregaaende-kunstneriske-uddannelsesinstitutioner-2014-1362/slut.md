@@ -1,3 +1,5 @@
-Kulturministeriet, den 14. juni 2016
+Kulturministeriet, den 31. oktober 2024
 
-Bertel Haarder
+Christina Egelund
+
+/ Kasper Gori Verdoner
