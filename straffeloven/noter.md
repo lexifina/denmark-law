@@ -8,8 +8,6 @@
 
 5) Lovændringen vedrører § 283, stk. 1, nr. 2, og stk. 2, § 300, nr. 3, og § 304, stk. 2.
 
-6) Ved bekendtgørelse nr. 208 af 15. marts 2011 er det bestemt, at ændringsloven træder i kraft den 1. april 2011.
-
 7) Lovændringen vedrører § 97 a, stk. 1-4.
 
 8) Lovændringen vedrører § 15 og § 81, nr. 10.
@@ -76,6 +74,10 @@
 
 39) Lovændringen vedrører § 110 e, stk. 2, og § 136, stk. 2.
 
-40) Loven er bekendtgjort i Lovtidende den 13. december 2023.
+40) Lovændringen vedrører § 81 c og § 81 e.
 
-41) Lovændringen vedrører § 81 c og § 81 e.
+41) Lovændringen vedrører § 299 d, stk. 1.
+
+42) Lovændringen vedrører § 82, nr. 9.
+
+43) Lovændringen vedrører § 38, stk. 5, § 41, stk. 3, § 74 b, nr. 2, § 76 a, stk. 1 og 2, stk. 3, 1. pkt., og stk. 5, § 76 a, stk. 2, § 76 a, stk. 2, nr. 2, § 79 a, § 79 c, stk. 1, § 79 d, stk. 1, § 79 e, § 81, nr. 14, § 81, nr. 15, § 81 a, stk. 1, § 81 a, stk. 3, § 124 a, stk. 1, § 191 b, § 192 a, stk. 1, og § 192 a, stk. 3, 4 og 5.
