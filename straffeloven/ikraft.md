@@ -315,3 +315,27 @@ Lov nr. 1786 af 28. december 2023 om ændring af straffeloven, retsplejeloven og
 § 4
 
 Loven træder i kraft den 1. januar 2024.
+
+Lov nr. 481 af 22. maj 2024 om ændring af lov om finansiel virksomhed, lov om betalinger, lov om kapitalmarkeder og forskellige andre love (Tilsyn efter forordning om digital operationel modstandsdygtighed i den finansielle sektor og forordning om markeder for kryptoaktiver, regler for udpegelse af administrationsselskab for Garantifonden og aflønningsregler for firmapensionskasser) indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 17
+
+Stk. 1. Loven træder i kraft den 1. juli 2024, jf. dog stk. 2-5.
+
+Stk. 2-16. (Udelades)
+
+Lov nr. 661 af 11. juni 2024 om ændring af retsplejeloven, straffeloven, lov om fuldbyrdelse af straf m.v., færdselsloven og forskellige andre love (Gennemførelse af flerårsaftale for domstolene for 2024-27 m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 10
+
+Stk. 1. Loven træder i kraft den 15. juni 2024.
+
+Stk. 2-7. (Udelades)
+
+Lov nr. 665 af 11. juni 2024 om ændring af straffeloven, retsplejeloven og forskellige andre love (Gennemførelse af dele af bandepakke IV) indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 10
+
+Stk. 1. Loven træder i kraft den 1. juli 2024.
+
+Stk. 2-4. (Udelades)
