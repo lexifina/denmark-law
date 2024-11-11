@@ -6,7 +6,7 @@
 
 3) administration,
 
-4) bidrag til dækning af udgifter til Forsyningssekretariatet, jf. kapitel 4 i lov om vandsektorens organisering og økonomiske forhold,
+4) bidrag til dækning af udgifter til Vandsektortilsynet, jf. kapitel 4 i lov om vandsektorens organisering og økonomiske forhold,
 
 5) driftsmæssige afskrivninger,
 
