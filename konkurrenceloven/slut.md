@@ -1,5 +1,5 @@
-Erhvervsministeriet, den 4. marts 2021
+Erhvervsministeriet, den 3. november 2024
 
-Simon Kollerup
+Morten Bødskov
 
-/ Tine Rønde
+/ Katrine Lapp
