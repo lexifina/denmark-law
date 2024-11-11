@@ -38,9 +38,7 @@ Stk. 6. Regler, der er udstedt i medfør af de bemyndigelser, der ophæves eller
 
 Lov nr. 435 af 9. juni 2004 om landbrugsejendomme indeholder følgende ikrafttrædelsesbestemmelse:
 
-§ 51
-
-Loven træder i kraft den 1. september 2004.
+§ 51. Loven træder i kraft den 1. september 2004.
 
 Lov nr. 1373 af 20. december 2004 (Ændring af håndhævelsesbestemmelser m.v., herunder som opfølgning på lov om retssikkerhed ved forvaltningens anvendelse af tvangsindgreb og oplysningspligter) indeholder følgende ikrafttrædelsesbestemmelse:
 
@@ -244,7 +242,7 @@ Lov nr. 1384 af 28. december 2011 (Regulering af de løbende bilafgifter og andr
 
 Stk. 1. Loven træder i kraft den 1. januar 2012.
 
-Stk. 2-18. (Udelades)
+Stk. 2-21. (Udelades)
 
 Lov nr. 580 af 18. juni 2012 (Reform af klagesystemet på natur- og miljøområdet m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
 
@@ -288,9 +286,7 @@ Stk. 3. Loven finder ikke anvendelse for klager over afgørelser, der træffes, 
 
 Lov nr. 1520 af 27. december 2014 om offentlige veje m.v. indeholder følgende ikrafttrædelsesbestemmelse:
 
-§ 139
-
-Stk. 1. Loven træder i kraft den 1. juli 2015, jf. dog stk. 2.
+§ 139. Loven træder i kraft den 1. juli 2015, jf. dog stk. 2.
 
 Stk. 2. (Udelades)
 
@@ -308,13 +304,11 @@ Lov nr. 132 af 16. februar 2016 (Opfølgning på politisk forlig om en ny og for
 
 Stk. 1. Loven træder i kraft den 1. marts 2016, jf. dog stk. 2.
 
-Stk. 2-3. (Udelades)
+Stk. 2 og 3. (Udelades)
 
 Lov nr. 1715 af 27. december 2016 om Miljø- og Fødevareklagenævnet indeholder følgende ikrafttrædelses- og overgangsbestemmelse:
 
-§ 24
-
-Stk. 1. Loven træder i kraft den 1. februar 2017.
+§ 24. Loven træder i kraft den 1. februar 2017.
 
 Stk. 2. (Udelades)
 
@@ -354,11 +348,7 @@ Lov nr. 2210 af 29. december 2020 (Spildevandsforsyningsselskabers klimatilpasni
 
 Stk. 1. Loven træder i kraft den 1. januar 2021.
 
-Stk. 2. (Udelades)
-
-Stk. 3. (Udelades)
-
-Stk. 4. (Udelades)
+Stk. 2-4. (Udelades)
 
 Lov nr. 126 af 30. januar 2021 (Ændring af handlepligten for den ansvarlige for en miljøskade, indførelse af godtgørelsesordning samt ændring af definitionen af arter og naturtyper) indeholder følgende ikrafttrædelses- og overgangsbestemmelse:
 
@@ -377,3 +367,55 @@ Stk. 1. Loven træder i kraft den 1. februar 2021.
 Stk. 2. (Udelades)
 
 Stk. 3. For løbende leverancer, for hvilke afregningsperioden påbegyndes inden lovens ikrafttrædelsestidspunkt og afsluttes efter dette tidspunkt, beregnes den ændrede afgift af så stor en del af leverancen, som tidsrummet fra lovens ikrafttrædelsestidspunkt til afregningsperiodens afslutning udgør i forhold til den samlede afregningsperiode.
+
+Lov nr. 900 af 22. juni 2022 (Dispensation og klagesagsbehandling m.v. på fortidsmindeområdet) indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 18
+
+Stk. 1. Loven træder i kraft den 1. juli 2022.
+
+Stk. 2. (Udelades).
+
+Lov nr. 322 af 2. april 2024 (Præcisering af kredsen af personer, der kan anmode myndighederne om at træffe foranstaltninger m.v. efter miljøskadereglerne og klage over afgørelser herom) indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 14
+
+Loven træder i kraft den 1. juli 2024.
+
+Lov nr. 412 af 23. april 2024 (Gennemførelse af dele af drikkevandsdirektivet, herunder risikobaseret tilgang til vandsikkerhed, minimumskrav til hygiejne for materialer, der kommer i kontakt med drikkevand, minimumskrav til behandlingskemikalier og filtermedier, der kommer i kontakt med drikkevand, adgang til drikkevand og oplysninger til offentligheden) indeholder følgende ikrafttrædelses- og overgangsbestemmelse:
+
+§ 4
+
+Stk. 1. Loven træder i kraft den 1. maj 2024.
+
+Stk. 2. Regler udstedt i medfør af § 55, stk. 7, §§ 56 og 56 a og § 60, stk. 2, 2. og 3. pkt., i lov om vandforsyning m.v., jf. lovbekendtgørelse nr. 602 af 10. maj 2022, forbliver i kraft, indtil de ophæves eller afløses af regler udstedt i medfør af § 9 a, § 52 c, stk. 2, og § 56 i lov om vandforsyning m.v., jf. denne lovs § 1, nr. 7, 21 og 24.
+
+Stk. 3. Regler udstedt i medfør af § 71 a, stk. 2, i lov om vandforsyning m.v., jf. lovbekendtgørelse nr. 602 af 10. maj 2022, forbliver i kraft, indtil de ophæves eller afløses af regler udstedt i medfør af § 71 a, stk. 3, i lov om vandforsyning m.v., jf. denne lovs § 1, nr. 51.
+
+Stk. 4. Kravet om indsendelse af indsatsplaner efter § 13 b, stk. 6, 2. pkt., i lov om vandforsyning m.v. som affattet ved denne lovs § 1, nr. 9, gælder også for gældende indsatsplaner, der er vedtaget efter §§ 13 og 13 a i lov om vandforsyning m.v., jf. lovbekendtgørelse nr. 602 af 10. maj 2022. Sådanne indsatsplaner skal senest den 31. december 2024 indsendes til miljøministeren.
+
+Lov nr. 668 af 11. juni 2024 (Styrkelse af økonomisk tilsyn og takstkontrol m.v. i vandsektoren) indeholder følgende ikrafttrædelses- og overgangsbestemmelser:
+
+§ 6
+
+Stk. 1. Loven træder i kraft den 1. juli 2024, jf. dog stk. 2.
+
+Stk. 2. § 2, nr. 1-5 og 7-27, og § 3 træder i kraft den 1. januar 2025.
+
+§ 7
+
+Stk. 1 og 2. (Udelades)
+
+Stk. 3. Loven finder ikke anvendelse på regulativer, betalingsvedtægter, anlægs- og driftsbidrag og kubikmetertakster for variabelt vandafledningsbidrag og fast vandafledningsbidrag, der er godkendt af eller indsendt til kommunalbestyrelsen inden den 1. januar 2025. For sådanne regulativer, betalingsvedtægter, anlægs- og driftsbidrag og kubikmetertakster for variabelt vandafledningsbidrag og fast vandafledningsbidrag finder de hidtil gældende regler anvendelse.
+
+Stk. 4. (Udelades)
+
+Stk. 5. Regler og normalregulativer, der er fastsat i medfør af § 55, stk. 4-6, i lov om vandforsyning m.v., jf. lovbekendtgørelse nr. 602 af 10. maj 2022, forbliver i kraft, indtil de ophæves eller afløses af regler fastsat i medfør af § 55, stk. 1 og 2, i lov om vandforsyning m.v., jf. denne lovs § 2, nr. 16.
+
+Stk. 6. (Udelades)
+
+Lov nr. 677 af 1. juni 2024 (Målrettet indsats for boringsnære beskyttelsesområder og forholdet til beskyttelseszonen på 25 m omkring vandboringer) indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 3
+
+Loven træder i kraft den 1. juli 2024.
