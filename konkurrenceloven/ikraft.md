@@ -1,10 +1,8 @@
 Lov nr. 1541 af 13. december 2016 om behandling af erstatningssager vedrørende overtrædelser af konkurrenceretten indeholder følgende ikrafttrædelsesbestemmelse:
 
-§ 17
+§ 17. Loven træder i kraft den 27. december 2016, jf. dog stk. 2 og 3.
 
-Stk. 1. Loven træder i kraft den 27. december 2016, jf. dog stk. 2 og 3.
-
-Stk. 2-3. (Udelades)
+Stk. 2 og 3. (Udelades)
 
 Lov nr. 1545 af 19. december 2017 (Undtagelse fra forbuddet mod konkurrencebegrænsende aftaler, fusioner, egenacces, databeskyttelsesretlige regler, foreløbig ansøgning om straflempelse og nordisk samarbejde) indeholder følgende ikrafttrædelsesbestemmelse:
 
@@ -27,3 +25,15 @@ Lov nr. 207 af 15. februar 2021 (Indførelse af mulighed for civile bøder, stru
 Stk. 1. Loven træder i kraft den 4. marts 2021.
 
 Stk. 2. Loven finder ikke anvendelse på sager, hvor Konkurrence- og Forbrugerstyrelsen inden lovens ikrafttræden i medfør af konkurrencelovens § 15 a, stk. 2, jf. lovbekendtgørelse nr. 155 af 1. marts 2018, har udsendt en klagepunktsmeddelelse, eller hvor Statsadvokaten for Særlig Økonomisk og International Kriminalitet inden lovens ikrafttræden har rejst sigtelse efter retsplejeloven mod en virksomhed eller en virksomhedssammenslutning for overtrædelse af bestemmelserne i konkurrenceloven eller EUF-traktatens artikel 101 eller 102. For sådanne sager finder de hidtil gældende regler anvendelse, dog finder konkurrencelovens § 20, stk. 1, stk. 2, 1. pkt., og stk. 3, som affattet ved denne lovs § 1, nr. 36-39, anvendelse i forhold til klager, som indbringes efter lovens ikrafttræden.
+
+Lov nr. 638 af 11. juni 2024 (Krav om anmeldelse af visse fusioner under omsætningstærsklerne, indførelse af mulighed for markedsefterforskning og bødeudmåling m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 2
+
+Stk. 1. Loven træder i kraft den 1. juli 2024.
+
+Stk. 2. Loven finder ikke anvendelse på fusioner, hvor en fusionsaftale er indgået, et overtagelsestilbud er offentliggjort eller en kontrollerende andel er erhvervet inden lovens ikrafttræden. For sådanne fusioner finder de hidtil gældende regler anvendelse.
+
+Stk. 3. For overtrædelser, der har fundet sted før den 1. juli 2024, og som fortsat finder sted efter denne dato, finder denne lov anvendelse, dog således at afgørelsen ikke må blive strengere end efter de hidtil gældende regler.
+
+Stk. 4. § 1, nr. 22-26, gælder også for lovovertrædelser, der er begået før lovens ikrafttræden. Dette gælder dog ikke, hvis forældelse er indtrådt efter de hidtil gældende regler.
