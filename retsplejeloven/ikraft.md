@@ -248,28 +248,6 @@ Stk. 2. Justitsministeren fastsætter tidspunktet for ikrafttrædelse af § 1, n
 
 Stk. 3-8. (Udelades)
 
-Lov nr. 897 af 21. juni 2022 om ændring af straffeloven, retsplejeloven og forskellige andre love (Effektivisering af straffesagskæden og nævnsprocessen m.v. i Ungdomskriminalitetsnævnet, øget adgang til videregivelse og optagelse af fotografier, forbedring af politiets muligheder for efterforskning m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
-
-§ 7
-
-Stk. 1. Loven træder i kraft den 1. juli 2022, jf. dog stk. 2 og 3.
-
-Stk. 2. (Udelades)
-
-Stk. 3. § 107 a i retsplejeloven som affattet ved denne lovs § 2, nr. 2, træder i kraft dagen efter bekendtgørelsen i Lovtidende.
-
-Lov nr. 718 af 13. juni 2023 om forsikringsvirksomhed i tværgående pensionskasser, livsforsikringsselskaber og skadesforsikringsselskaber m.v. (lov om forsikringsvirksomhed) indeholder følgende ikrafttrædelsesbestemmelse:
-
-§ 321. Loven træder i kraft den 1. januar 2024.
-
-§§ 322-324. (Udelades)
-
-Lov nr. 741 af 13. juni 2023 om ændring af straffeloven og retsplejeloven (Initiativer mod digitale krænkelser, herunder forbud mod grooming, sidestilling af tilsnigelse af samleje med voldtægt, religiøse lederes udnyttelse af religiøs afhængighed med henblik på at skaffe sig samleje m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
-
-§ 3
-
-Loven træder i kraft den 1. juli 2023.
-
 Lov nr. 753 af 13. juni 2023 om ændring af lov om social service, lov om retssikkerhed og administration på det sociale område og forskellige andre love (Ændringer som følge af barnets lov, initiativret for adopterede børn, adoption uden samtykke fra fødslen, samvær med børn på kvindekrisecentre m.v. og fasttrack for godkendelse af plejefamilier m.v.) indeholder følgende ikrafttrædelses- og overgangsbestemmelse:
 
 § 52
@@ -292,8 +270,56 @@ Stk. 2-9. (Udelades)
 
 Stk. 10. Regler udstedt i medfør af § 148 a, stk. 8 og 9, i retsplejeloven, jf. lovbekendtgørelse nr. 1655 af 25. december 2022, som ændret ved § 344 i lov nr. 718 af 13. juni 2023, § 2 i lov nr. 741 af 13. juni 2023 og § 31 i lov nr. 753 af 13. juni 2023, forbliver i kraft, indtil de ophæves eller afløses af regler udstedt i medfør af § 148 a, stk. 10 og 11, i retsplejeloven, jf. denne lovs § 6, nr. 19.
 
-Lov nr. 1786 af 28. december 2023 om ændring af straffeloven, retsplejeloven og lov om politiets virksomhed (Initiativer mod åbenlys og systematisk handel med ulovlige stoffer) indeholder følgende ikrafttrædelsesbestemmelse:
+Lov nr. 481 af 22. maj 2024 om ændring af lov om finansiel virksomhed, lov om betalinger, lov om kapitalmarkeder og forskellige andre love (Tilsyn efter forordning om digital operationel modstandsdygtighed i den finansielle sektor og forordningen om markeder for kryptoaktiver, regler for udpegelse af administrationsselskab for Garantifonden og aflønningsregler for firmapensionskasser) indeholder følgende ikrafttrædelses- og overgangsbestemmelse:
 
-§ 4
+§ 17
 
-Loven træder i kraft den 1. januar 2024.
+Stk. 1. Loven træder i kraft den 1. juli 2024, jf. dog stk. 2-5.
+
+Stk. 2 og 3. (Udelades)
+
+Stk. 4. §§ 332 c, 332 e-332 h i lov om finansiel virksomhed som affattet ved denne lovs § 1, nr. 26, og § 1, nr. 41, § 251 b i lov om kapitalmarkeder som affattet ved denne lovs § 3, nr. 24, § 275, stk. 1, nr. 9, i lov om fondsmæglerselskaber og investeringsservice og -aktiviteter som affattet ved denne lovs § 4, nr. 16, og §§ 7, 14 og 15 træder i kraft den 30. december 2024.
+
+Stk. 5-16. (Udelades)
+
+Lov nr. 658 af 11. juni 2024 om ændring af retsplejeloven (Gennemførelse af aftale om initiativer vedrørende omgørelsesfristen i straffesager) indeholder følgende ikrafttrædelse- og overgangsbestemmelse:
+
+§ 2
+
+Stk. 1. Loven træder i kraft den 1. juli 2024.
+
+Stk. 2. § 1, nr. 1, finder ikke anvendelse på afgørelser om påtaleopgivelser og tiltalefrafald, der er truffet før lovens ikrafttræden. For sådanne afgørelser finder de hidtil gældende regler anvendelse.
+
+Lov nr. 661 af 11. juni 2024 om ændring af retsplejeloven, straffeloven, lov om fuldbyrdelse af straf m.v., færdselsloven og forskellige andre love (Gennemførelse af flerårsaftale for domstolene for 2024-27 m.v.) har følgende ikrafttrædelses- og overgangsbestemmelse:
+
+§ 10
+
+Stk. 1. Loven træder i kraft den 15. juni 2024.
+
+Stk. 2. Lovens § 1, nr. 82, finder ikke anvendelse på bødeforelæg om frakendelse i medfør af færdselsloven, som er udstedt før lovens ikrafttræden. I disse sager finder de hidtil gældende regler anvendelse.
+
+Stk. 3. Lovens § 1, nr. 5, 6 og 58-67, § 4, nr. 2 og 3, og §§ 7 og 8 finder ikke anvendelse i sager, hvor tiltale er rejst i 1. instans før lovens ikrafttrædelse, medmindre sagen genoptages efter lovens ikrafttræden. I disse sager finder de hidtil gældende regler anvendelse. Uanset 1. og 2. pkt. kan retten dog efter indstilling fra anklagemyndigheden og høring af forsvareren bestemme, at lovens § 1, nr. 6 og 62, skal finde anvendelse i en sag, som efter de hidtil gældende regler skulle behandles under medvirken af nævninger, når tiltale i 1. instans er rejst efter den 1. januar 2024, men før lovens ikrafttræden.
+
+Stk. 4. Lovens § 1, nr. 1, 8, 10, 17, 20, 32-34, 37, 38, 45, 47, 54 og 55, § 5, nr. 1 og 2, § 6, nr. 1-3, 5 og 6, finder ikke anvendelse i sager, der er anlagt før lovens ikrafttræden. I disse sager finder de hidtil gældende regler anvendelse.
+
+Stk. 5. Lovens § 1, nr. 14 og 15 finder ikke anvendelse i sager, hvor hovedforhandlingen er begyndt før lovens ikrafttræden. I disse sager finder de hidtil gældende regler anvendelse.
+
+Stk. 6. Lovens § 1, nr. 41-43, 52, 83-85, 87, 88 og 95, § 3 og § 4, nr. 6, finder ikke anvendelse på afgørelser, der er truffet før lovens ikrafttræden. På disse afgørelser finder de hidtil gældende regler anvendelse.
+
+Stk. 7. Lovens § 1, nr. 31 finder ikke anvendelse på advokater, der er antaget før den 1. juli 2018, når justitsministeren ikke i medfør af de regler, der gjaldt før den 1. juli 2018, har bestemt, at der ikke skal tilkomme den pågældende godtgørelse for rejseudgifter ved møde inden for retskredsen. For sådanne advokater finder de før den 1. juli 2018 gældende regler anvendelse.
+
+Lov nr. 664 af 11. juni 2024 om ændring af retsplejeloven (Ændring af reglerne om hastesikring og udlevering af oplysninger om teletrafik, reglerne om genoptagelse af straffesager m.v.) har følgende ikrafttrædelses- og overgangsbestemmelse:
+
+§ 2
+
+Stk. 1. Loven træder i kraft den 1. juli 2024.
+
+Stk. 2. § 1, nr. 12 og 13 finder ikke anvendelse på anmodninger om genoptagelse som følge af domme, som er afsagt af Den Europæiske Menneskerettighedskonvention før lovens ikrafttræden.
+
+Lov nr. 665 af 11. juni 2024 om ændring af straffeloven, retsplejeloven og forskellige andre love (Gennemførelse af dele af bandepakke IV) indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 10
+
+Stk. 1. Loven træder i kraft den 1. juli 2024
+
+Stk. 2-4. (Udelades)
