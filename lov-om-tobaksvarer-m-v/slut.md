@@ -1,5 +1,5 @@
-Sundhedsministeriet, den 18. juni 2021
+Indenrigs- og Sundhedsministeriet, den 4. november 2024
 
-Magnus Heunicke
+P.M.V. Andreas Jull Sørensen
 
-/ Camilla Madsen
+/ Kristian Petri Petersen
