@@ -1,5 +1,3 @@
 Bekendtgørelse af konkursloven
 
-Herved bekendtgøres konkursloven, jf. lovbekendtgørelse nr. 775 af 3. maj 2021, med de ændringer, der følger af § 5 i lov nr. 1169 af 8. juni 2021, § 4 i lov nr. 893 af 21. juni 2022 og lov nr. 896 af 21. juni 2022.
-
-Den ændring, der følger af § 2 i lov nr. 447 af 9. juni 2004, er ikke indarbejdet i denne lovbekendtgørelse, da ændringen efterfølgende er ophævet, jf. § 6 i lov nr. 1169 af 8. juni 2021.
+Herved bekendtgøres konkursloven, jf. lovbekendtgørelse nr. 1600 af 25. december 2022, med de ændringer, der følger af § 9 i lov nr. 1553 af 12. december 2023, § 12 i lov nr. 480 af 22. maj 2024, lov nr. 656 af 11. juni 2024 og lov nr. 657 af 11. juni 2024.
