@@ -1,5 +1,7 @@
 Bekendtgørelse af lov om elektroniske cigaretter m.v.
 
-Herved bekendtgøres lov om elektroniske cigaretter m.v., jf. lovbekendtgørelse 1633 af 18. juni 2021, med de ændringer, der følger af § 3, nr. 7, 14 og 17, i lov nr. 2071 af 21. december 2020.
+Herved bekendtgøres lov om elektroniske cigaretter m.v., jf. lovbekendtgørelse nr. 1876 af 20. september 2021, med de ændringer, der følger af § 1 i lov nr. 99 af 25. januar 2022, § 2, nr. 1-4 og 6-12, i lov nr. 738 af 13. juni 2023 og § 2 i lov nr. 651 af 11. juni 2024.
 
-Den ændring, der følger af § 3, nr. 8, i lov nr. 2071 af 21. december 2020, er ikke indarbejdet i denne lovbekendtgørelse, da tidspunktet for ikrafttræden af denne ændring fastsættes af sundhedsministeren, jf. § 7, stk. 7, i lov nr. 2071 af 21. december 2020.
+Den ændring, der følger af § 3, nr. 8, i lov nr. 2071 af 21. december 2020 om ændring af lov om forbud mod tobaksreklame m.v., lov om tobaksvarer m.v., lov om elektroniske cigaretter m.v. og forskellige andre love (Udmøntning af national handleplan mod børn og unges rygning), er ikke indarbejdet i denne lovbekendtgørelse, da ændringen efterfølgende er ophævet, jf. § 5 i lov nr. 738 af 13. juni 2023 om ændring af lov om tobaksvarer m.v. og forskellige andre love (Implementering af dele af delegeret direktiv vedrørende opvarmede tobaksvarer m.v.).
+
+Den ændring, der følger af § 2, nr. 5, i lov nr. 738 af 13. juni 2023 om ændring af lov om tobaksvarer m.v. og forskellige andre love (Implementering af dele af delegeret direktiv vedrørende opvarmede tobaksvarer m.v.), er ikke indarbejdet i denne lovbekendtgørelse, da ændringen efterfølgende er ophævet, jf. § 5, nr. 1, i lov nr. 651 af 11. juni 2024 om ændring af lov om tobaksvarer m.v., lov om elektroniske cigaretter m.v. og lov om forbud mod salg af tobak og alkohol til personer under 18 år (Udmøntning af dele af forebyggelsesplanen målrettet børn og unge – tobak, nikotin og alkohol).

@@ -2,4 +2,4 @@
 
 Stk. 2. Lederen af en skole, kostskole eller efterskole omfattet af stk. 1 skal på skolen oplyse om forbuddet efter stk. 1, herunder om konsekvenser af overtrædelse heraf.
 
-Stk. 3. Sundhedsministeren kan fastsætte nærmere regler om, hvilke skoler, kostskoler og efterskoler der er omfattet af stk. 1.
+Stk. 3. Indenrigs- og sundhedsministeren kan fastsætte nærmere regler om, hvilke skoler, kostskoler og efterskoler der er omfattet af stk. 1.
