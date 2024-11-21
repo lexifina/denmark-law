@@ -1,7 +1,5 @@
-Givet på Christiansborg Slot, den 14. juni 2011
+Erhvervsstyrelsen, den 15. november 2024
 
-Under Vor Kongelige Hånd og Segl
+Jørgen Wissing Jensen
 
-MARGRETHE R.
-
-/ Brian Mikkelsen
+/ Søren Corfixsen Whitt
