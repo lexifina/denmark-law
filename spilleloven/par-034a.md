@@ -1,0 +1,1 @@
+§ 34 a. Til brug for spillemyndighedens tilsyn med, at alderskravene i §§ 10 b, 22 og 34 overholdes, kan spillemyndighedens repræsentanter mod legitimation og uden retskendelse kræve at få meddelt alle nødvendige oplysninger fra personer i en spillehal og i lokaler eller lokaliteter, hvor der afholdes landbaseret bingo, og fra købere af spil, der kan fastslå de pågældendes alder.
