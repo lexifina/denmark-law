@@ -14,6 +14,6 @@ Stk. 7. En tilladelse må ikke udnyttes, før klagefristen er udløbet.
 
 Stk. 8. Rettidig klage har opsættende virkning for den påklagede afgørelse, medmindre Miljø- og Fødevareklagenævnet bestemmer andet. Klage over forbud og påbud efter § 20, stk. 7, har dog ikke opsættende virkning for den påklagede afgørelse, medmindre Miljø- og Fødevareklagenævnet bestemmer andet.
 
-Stk. 9. Miljø- og fødevareministeren kan fastsætte regler om, at stk. 7 og 8 ikke gælder for visse arter af afgørelser.
+Stk. 9. Miljøministeren kan fastsætte regler om, at stk. 7 og 8 ikke gælder for visse arter af afgørelser.
 
-Stk. 10. Miljø- og fødevareministeren kan fastsætte regler om underretning af de klageberettigede, herunder at underretning kan ske udelukkende digitalt.
+Stk. 10. Miljøministeren kan fastsætte regler om underretning af de klageberettigede, herunder at underretning kan ske udelukkende digitalt.

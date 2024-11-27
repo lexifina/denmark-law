@@ -106,7 +106,7 @@ Lov nr. 507 af 17. juni 2008 (implementering af miljøansvarsdirektivet) indehol
 
 § 15
 
-Stk. 1. Loven træder i kraft den 1. juli 2008, jf. dog stk. 3.
+Skt. 1. Loven træder i kraft den 1. juli 2008, jf. dog stk. 3.
 
 Stk. 2-4. (Udelades)
 
@@ -218,7 +218,7 @@ Lov nr. 1520 af 27. december 2014 om offentlige veje m.v. indeholder følgende i
 
 Stk. 2. (Udelades)
 
-Lov nr. 178 af 24. februar 2015 (Ændringer af auktionsordningen og andre regler om indvinding af råstoffer på havet som følge af regeringens konkurrencepolitiske udspil og evaluering af råstofloven, ændringer som følge af overførelse af kystbeskyttelsesloven til Miljø- og Fødevareministeren og præcisering af gennemførelse af havstrategirammedirektivet m.v.) indeholder følgende ikrafttrædelses- og overgangsbestemmelser:
+Lov nr. 178 af 24. februar 2015 (Ændringer af auktionsordningen og andre regler om indvinding af råstoffer på havet som følge af regeringens konkurrencepolitiske udspil og evaluering af råstofloven, ændringer som følge af overførelse af kystbeskyttelsesloven til Miljøministeren og præcisering af gennemførelse af havstrategirammedirektivet m.v.) indeholder følgende ikrafttrædelses- og overgangsbestemmelser:
 
 § 4
 
@@ -240,20 +240,60 @@ Lov nr. 1715 af 27. december 2016 om Miljø- og Fødevareklagenævnet indeholder
 
 Stk. 1. (Udelades)
 
-Stk. 2. Erhvervs- og vækstministeren kan efter høring af miljø- og fødevareministeren fastsætte overgangsregler.
+Stk. 2. Erhvervs- og vækstministeren kan efter høring af miljøministeren fastsætte overgangsregler.
 
-Stk. 3. (Udelades)
-
-Stk. 4-5. (Udelades)
+Stk. 3-5. (Udelades)
 
 Stk. 6. Verserende klagesager i Natur- og Miljøklagenævnet eller Klagecenter for Fødevarer, Landbrug og Fiskeri, der ikke er færdigbehandlet ved denne lovs ikrafttræden, færdigbehandles og afgøres af Miljø- og Fødevareklagenævnet efter reglerne i denne lov. Dette gælder dog ikke verserende klagesager ved Natur- og Miljøklagenævnet, som ved lovens ikrafttræden skal færdigbehandles og afgøres af Planklagenævnet, jf. § 1 i lov om Planklagenævnet.
 
 Stk. 7. (Udelades)
 
-Lov nr. 1730 af 27. december 2016 (Inddragelse af kommuner og vandråd i afgrænsning af vandløb i vandområdeplaner og kvalificering af udpegning af kunstige og stærkt modificerede vandløb samt ny organisering i Miljø- og Fødevareministeriet) indeholder følgende ikrafttrædelsesbestemmelse:
+Lov nr. 1730 af 27. december 2016 (Inddragelse af kommuner og vandråd i afgrænsning af vandløb i vandområdeplaner og kvalificering af udpegning af kunstige og stærkt modificerede vandløb samt ny organisering i Miljøministeriet) indeholder følgende ikrafttrædelsesbestemmelse:
 
 § 7
 
 Stk. 1. Loven træder i kraft dagen efter bekendtgørelse i Lovtidende, jf. dog stk. 2.
 
 Stk. 2. (Udelades)
+
+Lov nr. 427 af 18. december 2016 (Konsekvensændringer m.v. som følge af lov om miljøvurdering af planer og programmer og af konkrete projekter (VVM)) indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 10
+
+Stk. 1. Loven træder i kraft den 16. maj 2017, jf. dog stk. 2.
+
+Stk. 2-9. (Udelades)
+
+Lov nr. 720 af 8. juni 2018 (Ny kompetencefordeling og forenkling af sagsbehandling i forbindelse med kystbeskyttelse m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 9
+
+Stk. 1. Loven træder i kraft den 1. september 2018.
+
+Stk. 2. (Udelades)
+
+Lov nr. 126 af 30. januar 2021 (Ændring af handlepligten for den ansvarlige for en miljøskade, indførelse af godtgørelsesordning samt ændring af definitionen af arter og naturtyper) indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 15
+
+Stk. 1. Loven træder i kraft den 1. februar 2021.
+
+Stk. 2. (Udelades)
+
+Lov nr. 900 af 21. juni 2022 (Dispensation og klagesagsbehandling m.v. på fortidsmindeomårdet) indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 18
+
+Stk. 1. Loven træder i kraft den 1. juli 2022.
+
+Stk. 2. (Udelades)
+
+Lov nr. 322 af 2. april 2024 (Præcisering af kredsen af personer, der kan anmode myndighederne om at træffe foranstaltninger m.v. efter miljøskadereglerne og klage over afgørelser herom) indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 14
+
+Loven træder i kraft den 1. juli 2024.
+
+Lov nr. 614 af 11. juni 2024 om statsligt udpegede energiparker indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 17. Loven træder i kraft den 1. juli 2024.
