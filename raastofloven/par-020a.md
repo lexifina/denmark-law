@@ -2,11 +2,11 @@
 
 Stk. 2. Tilladelse til indvinding efter § 20 kan ikke gives i områder med en vanddybde på mindre end 6 m.
 
-Stk. 3. Miljø- og fødevareministeren kan, for så vidt angår indvinding i områder med en vanddybde på mindre end 6 m, gøre undtagelse fra bestemmelsen i stk. 2, når en værdifuld råstofforekomst kan indvindes, uden at indvindingen er i konflikt med væsentlige kulturarvs- og naturmæssige værdier.
+Stk. 3. Miljøministeren kan, for så vidt angår indvinding i områder med en vanddybde på mindre end 6 m, gøre undtagelse fra bestemmelsen i stk. 2, når en værdifuld råstofforekomst kan indvindes, uden at indvindingen er i konflikt med væsentlige kulturarvs- og naturmæssige værdier.
 
 Stk. 4. Det påhviler ansøgeren til en tilladelse efter § 20 at foretage de fornødne undersøgelser og miljømæssige vurderinger.
 
-Stk. 5. Miljø- og fødevareministeren fastsætter nærmere regler om tilladelsesordningen efter § 20, herunder
+Stk. 5. Miljøministeren fastsætter nærmere regler om tilladelsesordningen efter § 20, herunder
 
 1) om behandling af ansøgninger og meddelelse af tilladelse efter stk. 1, om høring af offentligheden, herunder at offentlig høring kan ske udelukkende digitalt, om inddragelse af andre myndigheder og om vilkår efter § 21, stk. 3,
 
