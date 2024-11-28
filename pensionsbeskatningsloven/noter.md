@@ -1,33 +1,23 @@
 1) For pensionsordninger oprettet før den 1. maj 2007 opretholdes tidspunktet for tidligste udbetaling af ordningen efter de regler, som fremgår af pensionsbeskatningsloven, jf. lovbekendtgørelse nr. 1120 af 10. november 2006, og for pensionsordninger oprettet fra og med den 1. maj 2007 til og med den 31. december 2017 opretholdes tidspunktet for tidligste udbetaling af ordningen efter de regler, som fremgår af pensionsbeskatningsloven, jf. lovbekendtgørelse nr. 1088 af 3. september 2015, jf. § 8, stk. 4, i lov nr. 1682 af 26. december 2017. For tjenestemænd, der er ansat inden den 1. januar 2018, finder de hidtil gældende regler for tidspunktet for tidligste udbetaling af tjenestemandspensionen anvendelse. For tjenestemænd, der ansættes den 1. januar 2018 eller senere, finder de hidtil gældende regler for tidspunktet for tidligste udbetaling af pensionen fortsat anvendelse, hvis den pågældende overgår direkte fra en ansættelse med ret til tjenestemandspension, jf. § 2, stk. 1, i lov om tjenestemandspension, og denne ansættelse er sket inden den 1. januar 2018, jf. § 8, stk. 5, i lov nr. 1682 af 26. december 2017. For ministerpension, der alene har folkepensionsalderen som pensionsudbetalingstidspunkt, har ændringen af tidspunktet for tidligste udbetaling af ministerpensionen virkning fra den 20. juni 2017, jf. § 8, stk. 6, i lov nr. 1682 af 26. december 2017.
 
-2) For pensionsordninger, der er påbegyndt udbetalt senest den 24. april 2012, kan en anvendt beregningsrente, der overstiger 4,6585 pct., fastholdes. Ændres den anvendte beregningsrente senere, finder reglerne i pensionsbeskatningslovens § 2, stk. 2, som affattet ved § 4, nr. 1, i lov nr. 1883 af 29. december 2015, om beregning af ydelsernes størrelse anvendelse, jf. § 8, stk. 11, i lov nr. 1883 af 29. december 2015.
+2) For pensionsordninger, der er påbegyndt udbetalt senest den 24. april 2012, kan en anvendt beregningsrente, der overstiger 4,6585 pct., fastholdes. Æn-dres den anvendte beregningsrente senere, finder reglerne i pensionsbeskatningslovens § 2, stk. 2, som affattet ved § 4, nr. 1, i lov nr. 1883 af 29. december 2015, om beregning af ydelsernes størrelse anvendelse, jf. § 8, stk. 11, i lov nr. 1883 af 29. december 2015.
 
 3) Ændringerne af § 15 A, stk. 3, 1. pkt., § 15 A, stk. 3, 5. pkt., og § 15 A, stk. 4, 1. pkt., har virkning for overdragelser, der sker den 1. juli 2017 eller senere, jf. § 9, stk. 4, i lov nr. 683 af 8. juni 2017. Ved opgørelsen af, om den erhvervsmæssige virksomhed i overvejende grad skal anses for at bestå af fast ejendom, kontanter, værdipapirer el. lign., finder pensionsbeskatningslovens § 15 A, stk. 4, som affattet ved lovbekendtgørelse nr. 1088 af 3. september 2015, og for så vidt angår selskaber, aktieavancebeskatningslovens § 34, stk. 6, som affattet ved lovbekendtgørelse nr. 1082 af 8. september 2015, anvendelse for perioden til og med den 30. juni 2017, jf. § 9, stk. 6, i lov nr. 683 af 8. juni 2017.
 
-4) For juridiske personer, som skulle indgive selvangivelse for indkomståret 2018 i kalenderåret 2018, finder indsættelsen af henvisningen til Rådets direktiv 2016/2258/EU af 6. december 2016 for så vidt angår skattemyndighedernes adgang til oplysninger indberettet i henhold til hvidvaskreguleringen, ikke anvendelse for indkomståret 2018, jf. § 38, stk. 3, i lov nr. 1555 af 19. december 2017.
+4) Se note 3.
 
-5) For skattepligtige med bagudforskudt indkomstår 2018 har ændringen af beløbsgrænserne for indbetaling til aldersopsparing virkning fra og med indkomståret 2019, jf. § 8, stk. 7, i lov nr. 1682 af 26. december 2017.
+5) § 16, stk. 1, 7. og 8. pkt. har virkning for bidrag m.v., der forfalder til indbetaling i 2020 eller senere. Hvis det pensionsinstitut, som er modtager af indbetalingen, alene foretager indberetning af faktisk indbetalte bidrag m.v., har § 16, stk. 1, 7. og 8. pkt., dog virkning for bidrag m.v., der forfalder til indbetaling i 2023 eller senere, jf. § 10, stk. 3, i lov nr. 2197 af 29. december 2020.
 
-6) § 22 C har virkning for korrektioner, der foretages den 1. januar 2018 eller senere, jf. § 8, stk. 8, i lov nr. 1682 af 26. december 2017.
+6) Se note 5.
 
-7) § 22 D har virkning for overførsler, der sker i kalenderåret 2019 eller senere, jf. § 7, stk. 2, i lov nr. 1577 af 27. december 2019.
+7) Se note 5.
 
-8) § 25 A, stk. 6, finder ikke anvendelse for indbetalinger til aldersopsparing, aldersforsikring og supplerende engangssum, der sker i indkomståret 2019, jf. § 7, stk. 4, i lov nr. 1577 af 27. december 2019.
+8) Se note 5.
 
-9) § 25 A, stk. 6 og 7 har virkning for afgiftspligtige udbetalinger af eller dispositioner over pensionsordninger, der sker den 1. april 2018 eller senere, og for udbetalinger af rateforsikringer, rateopsparinger, pensionsordninger med løbende udbetalinger og indeksordninger, der i overensstemmelse med pensionsvilkårene påbegyndes den 1. april 2018 eller senere, jf. § 8, stk. 9, i lov nr. 1682 af 26. december 2017.
+9) Bestemmelsen har virkning for tilbagebetalinger og overførsler fra og med den 1. januar 2022 af indbetalinger af beløb, der fejlagtigt sker fra og med den 1. januar 2022, jf. § 6, stk. 3, i lov nr. 2610 af 28. december 2021.
 
-10) § 25 A, stk. 7, nr. 16 og 17, har virkning for udbetalinger og dispositioner, der er sket den 1. april 2018 eller senere, jf. jf. § 7, stk. 3, i lov nr. 1577 af 27. december 2019.
+10) § 25 A, stk. 6 og 7 har virkning for afgiftspligtige udbetalinger af eller dispositioner over pensionsordninger, der sker den 1. april 2018 eller senere, og for udbetalinger af rateforsikringer, rateopsparinger, pensionsordninger med løbende udbetalinger og indeksordninger, der i overensstemmelse med pensionsvilkårene påbegyndes den 1. april 2018 eller senere, jf. § 8, stk. 9, i lov nr. 1682 af 26. december 2017.
 
-11) Afgiften som nævnt i § 29, stk. 1, 3. pkt., på 25 pct., har virkning for udbetalinger, der sker den 13. januar 2019 eller senere, jf. § 119, stk. 5, i lov nr. 1703 af 27. december 2018.
+11) Se note 10.
 
-12) Har Statsforvaltningen før den 1. januar 2018 modtaget anmodning om separation eller skilsmisse, eller når en ægtefælle før den 1. januar 2018 over for skifteretten har fremsat anmodning om bosondring, finder de hidtil gældende regler, jf. bekendtgørelse nr. 1088 af 3. september 2015 af lov om beskatningen af pensionsordninger m.v. (pensionsbeskatningsloven), anvendelse, jf. § 17, stk. 3, i lov nr. 550 af 30. maj 2017.
-
-13) Fra og med bekendtgørelse nr. 586 af 24. maj 2013 af lov om beskatningen af pensionsordninger m.v. (pensionsbeskatningsloven) blev § 30, stk. 5, ved en fejl flyttet op som sidste pkt. i stk. 4. Fra og med bekendtgørelse nr. 1088 af 3. september 2015 af lov om beskatningen af pensionsordninger m.v. (pensionsbeskatningsloven) blev § 30, stk. 6-9, ved en fejl rettet til stk. 5-8, fordi der tilsyneladende var et hul i rækkefølgen af stykker. Fejlene er nu rettet.
-
-14) § 41, stk. 11 og 12, og § 41 A, stk. 4, har virkning for overførsler, der sker den 1. januar 2020 eller senere, jf. § 7, stk. 5, i lov nr. 1577 af 27. december 2019.
-
-15) §§ 51 og 51 A er nyaffattet ved lov nr. 396 af 2. maj 2018. Ændringerne har virkning for indskud, der foretages fra og med indkomståret 2018. Indskud foretaget før senest den 31. december 2017 indgår i det samlede indskud på børneopsparingskontoen efter § 51, stk. 3, jf. § 8, stk. 6, i lov nr. 396 af 2. maj 2018.
-
-16) Ved bekendtgørelse nr. 238 af 12. marts 2020 af lov om beskatningen af pensionsordninger m.v. (pensionsbeskatningsloven) var §§ 51 A, 52 og 53 ved en fejl udgået. Fejlen er nu rettet.
-
-17) Fremgår det af aftalegrundlaget for en pensionsaftale, der før den 1. januar 2018 er indgået med en pensionskunde, at der årligt skal indbetales et beløb til aldersforsikring, aldersopsparing og supplerende engangssum, der ikke overstiger beløbsgrænsen som nævnt i pensionsbeskatningslovens § 16, stk. 1, 1. pkt., jf. lovbekendtgørelse nr. 1088 af 3. september 2015, men som overstiger beløbsgrænsen som nævnt i pensionsbeskatningslovens § 16, stk. 1, 1. pkt., som ændret ved lov nr. 1682 af 26. december 2017, finder pensionsbeskatningslovens § 57, stk. 1, nr. 5, ikke anvendelse, hvis der i 2018 eller 2019 indbetales et årligt beløb, der alene overstiger sidstnævnte beløbsgrænse, jf. § 8, stk. 10, i lov nr. 1682 af 26. december 2017.
+12) § 49, stk. 3, har virkning fra og med indkomståret 2024, jf. § 3, stk. 2, i lov nr. 609 af 31. maj 2023.
