@@ -1,5 +1,5 @@
-Beskæftigelsesministeriet, den 20. juni 2011
+Beskæftigelsesministeriet, den 27. november 2024
 
-Inger Støjberg
+Tine Nielsen Hertz
 
-/ Lise Fangel
+/ Christian Andersen-Mølgaard
