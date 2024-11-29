@@ -1,5 +1,5 @@
-Sundheds- og Ældreministeriet, den 1. september 2020
+Indenrigs- og Sundhedsministeriet, den 28. november 2024
 
-Magnus Heunicke
+P.M.V. Dorte Bech Vizard
 
-/ Anne-Sofie Duelund Lassesen
+/ Jannie Kristoffersen
