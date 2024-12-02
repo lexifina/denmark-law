@@ -1,5 +1,3 @@
-Lov om anlæg og drift af en fast forbindelse over Femern Bælt med tilhørende landanlæg i Danmark
+Bekendtgørelse af lov om anlæg og drift af en fast forbindelse over Femern Bælt med tilhørende landanlæg i Danmark
 
-VI MARGRETHE DEN ANDEN, af Guds Nåde Danmarks Dronning, gør vitterligt:
-
-Folketinget har vedtaget og Vi ved Vort samtykke stadfæstet følgende lov:
+Herved bekendtgøres lov nr. 575 af 4. maj 2015 om anlæg og drift af en fast forbindelse over Femern Bælt med tilhørende landanlæg i Danmark med de ændringer, der følger af lov nr. 792 af 4. maj 2021 og § 1 i lov nr. 1676 af 19. december 2023.
