@@ -1,7 +1,5 @@
-Givet på Amalienborg, den 24. juni 2005
+Transportministeriet, den 26. november 2024
 
-Under Vor Kongelige Hånd og Segl
+Thomas Danielsen
 
-MARGRETHE R.
-
-/Flemming Hansen
+/ Lasse Mohr-Winterberg
