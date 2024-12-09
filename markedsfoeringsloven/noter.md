@@ -2,7 +2,7 @@
 
 2) Lovændringen vedrører overskriften før § 23, § 23 og § 37, stk. 5.
 
-3) Lovændringen vedrører fodnoten til lovens titel, § 1 a, § 2, nr. 1 og 14, § 7, § 10, stk. 1, § 27, stk. 1, § 37, stk. 3-4.
+3) Lovændringen vedrører fodnoten til lovens titel, § 1 a, § 2, nr. 1 og 14, § 7, § 10, stk. 1, § 27, stk. 1, og § 37, stk. 3-4.
 
 4) Lovændringen vedrører § 11 a, § 11 b, og § 37, stk. 3.
 
@@ -12,4 +12,8 @@
 
 7) Lovændringen vedrører fodnoten til lovens titel og § 17, stk. 2-3.
 
-8) Lovændringen vedrører fodnoten til lovens titel, § 2, nr. 3, § 2, nr. 16 og 17, § 5, stk. 2, nr. 9-11, § 6, stk. 2, nr. 4-7, § 6 a, § 6 b, § 11, stk. 2 og 3-4, § 24, stk. 2, § 32, stk. 2, § 37, stk. 3 og 5-8, § 38, stk. 1-4, bilag 1, nr. 11 a og 23a-c.
+8) Lovændringen vedrører fodnoten til lovens titel, § 2, nr. 3, § 2, nr. 16 og 17, § 5, stk. 2, nr. 9-11, § 6, stk. 2, nr. 4-7, § 6 a, § 6 b, § 11, stk. 2, 3 og 4, § 24, stk. 2, § 32, stk. 2, § 37, stk. 3, og 5-8, § 38, stk. 1-4, bilag 1, nr. 11 a og 23 a-c.
+
+9) Lovændringen vedrører § 37, stk. 4.
+
+10) Lovændringen vedrører § 1, stk. 1 og 2, og § 29, stk. 2.

@@ -1,4 +1,4 @@
-Lov. nr. 309 af 25. april 2018 om forretningshemmeligheder indeholder følgende ikrafttrædelsesbestemmelse:
+Lov nr. 309 af 25. april 2018 om forretningshemmeligheder indeholder følgende ikrafttrædelsesbestemmelse:
 
 § 19. Loven træder i kraft den 9. juni 2018.
 
@@ -55,3 +55,21 @@ Lov nr. 2192 af 30. november 2021 (Gennemførelse af ændringer i direktivet om 
 Stk. 1. Loven træder i kraft den 1. januar 2022, jf. dog stk. 2.
 
 Stk. 2. § 1, nr. 1-11, 14-16, 21 og 22, og § 37, stk. 7 og 8, i lov om markedsføring som affattet ved denne lovs § 1, nr. 19, træder i kraft den 28. maj 2022.
+
+Lov nr. 732 af 13. juni 2023 (Skærpelse af regler om markedsføring af lattergas til beruselse og indførelse af mulighed for fængselsstraf) indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 3
+
+Loven træder i kraft den 1. juli 2023.
+
+Lov nr. 718 af 13. juni 2023 (Lov om forsikringsvirksomhed) indeholder følgende ikrafttrædelses- og overgangsbestemmelser:
+
+§ 321. Loven træder i kraft den 1. januar 2024.
+
+§ 322. (Udelades)
+
+§§ 323 og 324. (Udelades)
+
+§ 325. Retningslinjer, som er aftalt i medfør af § 29 i markedsføringsloven inden den 1. januar 2004, finder fortsat anvendelse for forsikringsselskaber, indtil de ophæves eller afløses af regler udstedt af erhvervsministeren i medfør af § 43, stk. 2, i lov om finansiel virksomhed eller § 67, stk. 2, i denne lov.
+
+§§ 326-334. (Udelades)

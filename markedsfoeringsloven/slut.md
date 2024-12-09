@@ -1,6 +1,6 @@
-Erhvervsministeriet, den 15. juni 2022
+Erhvervsministeriet, den 2. december 2024
 
-Simon Kollerup
+Morten Bødskov
 
 / Jakob Hald
 
