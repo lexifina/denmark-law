@@ -1,5 +1,5 @@
-Konkurrence- og Forbrugerstyrelsen, den 28. juni 2023
+Erhvervsministeriet, den 2. december 2024
 
-P.M.V. Jakob Hald
+Morten Bødskov
 
-/ Susanne Honoré Aamann
+/ Jakob Hald
