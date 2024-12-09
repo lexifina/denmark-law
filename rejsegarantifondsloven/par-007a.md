@@ -14,7 +14,7 @@ Stk. 5. Fondskassen for ekstraordinære situationer opgøres separat. Der kan, h
 
 Stk. 6. Har erhvervsministeren i medfør af stk. 9 aktiveret fondskassen for ekstraordinære situationer, skal Rejsegarantifondens udbetalinger efter stk. 1 og 2 tilbagebetales til Rejsegarantifonden af rejseudbyderne og formidlerne for udenlandske rejsearrangører. Tilbagebetalingen fastsættes som et individuelt bidrag i forhold til den enkelte rejseudbyders eller formidler for en udenlandsk rejsearrangørs træk på fondskassen efter stk. 1 og 2.
 
-Stk. 7. Erhvervsministeren fastsætter tilbagebetalingsperioden og forrentningen af skyldige beløb efter stk. 6
+Stk. 7. Erhvervsministeren fastsætter tilbagebetalingsperioden og forrentningen af skyldige beløb efter stk. 6.
 
 Stk. 8. Stiger Rejsegarantifondens realiserede og forventede godtgørelser i forbindelse med godtgørelser eller refusioner i medfør af stk. 1 og 2 og § 7 d, stk. 1, og godtgørelser i forbindelse med konkurser i medfør af § 5 uforholdsmæssigt i forhold til statens udbetalinger under statsgarantien, jf. § 7 b, skal Rejsegarantifonden uden unødigt ophold orientere erhvervsministeren herom, hvorefter erhvervsministeren kan beslutte at indstille eller nedsætte godtgørelser i medfør af stk. 1 og refusion i medfør af stk. 2 og § 7 d, stk. 1.
 
