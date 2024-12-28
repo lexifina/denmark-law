@@ -19,3 +19,5 @@ Stk. 5. Henholdsvis det øverste og det centrale ledelsesorgan skal opstille et 
 Stk. 6. Ved opstilling af måltal, jf. stk. 1, nr. 1 og 2, er statslige aktieselskaber omfattet af § 11, stk. 1, nr. 2, i lov om ligestilling af kvinder og mænd.
 
 Stk. 7. Kapitalselskaber, der i det seneste regnskabsår har beskæftiget færre end 50 medarbejdere, kan undlade at opstille måltal og udarbejde en politik for at øge andelen af det underrepræsenterede køn på kapitalselskabets øvrige ledelsesniveauer.
+
+Stk. 8. Stk. 1-7 finder ikke anvendelse for aktieselskaber omfattet af kønsbalanceloven.

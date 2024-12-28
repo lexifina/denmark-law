@@ -1,0 +1,1 @@
+1) Loven gennemfører Europa-Parlamentets og Rådets direktiv (EU) 2022/2381 af 23. november 2022 om en mere ligelig kønsfordeling blandt ledelsesmedlemmer i børsnoterede selskaber og tilhørende foranstaltninger, EU-Tidende 2022, nr. L 315, side 44.
