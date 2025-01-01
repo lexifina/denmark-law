@@ -1,4 +1,4 @@
-§ 791 d. Der kan ske blokering af en hjemmeside, hvis der er grund til at antage, at der fra hjemmesiden begås en overtrædelse af straffelovens §§ 114-114 i, 119 eller 119 a, § 263, stk. 1, § 263 a, § 264 d, stk. 2, eller §§ 279, 279 a, 281, 290, 290 a, 300 a eller 301.
+§ 791 d. Der kan ske blokering af en hjemmeside, hvis der er grund til at antage, at der fra hjemmesiden begås en overtrædelse af straffelovens §§ 114-114 i, §§ 118 b-118 i, § 118 j, jf. §§ 118 b-118 i, §§ 118 l, 119 eller 119 a, § 263, stk. 1, § 263 a, § 264 d, stk. 2, eller §§ 279, 279 a, 281, 290, 290 a, 300 a eller 301.
 
 Stk. 2. Afgørelse om blokering af en hjemmeside træffes af retten ved kendelse efter politiets begæring. I kendelsen anføres de konkrete omstændigheder i sagen, hvorpå det støttes, at betingelserne for indgrebet er opfyldt. Kendelsen kan til enhver tid omgøres.
 
