@@ -12,17 +12,17 @@ b) Det afstående selskab ejer mindre end 10 pct. af aktiekapitalen, er skattepl
 
 c) Den afstående fysiske person er hjemmehørende uden for EU/EØS og har bestemmende indflydelse i det selskab, der likvideres, jf. § 2.
 
-d) Det afstående selskab ejer skattefri porteføljeaktier, jf. aktieavancebeskatningslovens § 4 C, i det selskab, der likvideres, og mindst 50 pct. af aktiverne i det selskab, der likvideres, består af direkte eller indirekte ejede datterselskabs- eller koncernselskabsaktier, eller der inden for de seneste 3 år forud for likvidationen er foretaget en overdragelse af sådanne aktier til selskabets direkte eller indirekte aktionærer eller til et koncernforbundet selskab, jf. § 2, stk. 3.
+d) Det afstående selskab ejer skattefri porteføljeaktier, jf. aktieavancebeskatningslovens § 4 C, i det selskab, der likvideres, og er skattepligtigt af udbytter, jf. selskabsskattelovens § 2, stk. 1, litra c, som beskattes med den i selskabsskattelovens § 2, stk. 8, 2. pkt., nævnte sats eller den sats, der fremgår af en relevant dobbeltbeskatningsoverenskomst. Det er en forudsætning, at mindst 50 pct. af aktiverne i det selskab, der likvideres, består af direkte eller indirekte ejede datterselskabs- eller koncernselskabsaktier, eller at der inden for de seneste 3 år forud for likvidationen er foretaget en overdragelse af sådanne aktier til selskabets direkte eller indirekte aktionærer eller til et koncernforbundet selskab, jf. § 2, stk. 3
 
 3) Ved afståelse af aktier m.v., der er omfattet af aktieavancebeskatningslovens § 17, når det afstående selskab opfylder betingelserne for at modtage skattefrit udbytte efter selskabsskattelovens § 2, stk. 1, litra c, eller § 13, stk. 1, nr. 2.
 
 4) Ved afståelse af aktier m.v., der er omfattet af aktieavancebeskatningslovens §§ 19 A, 19 B eller 19 C, eller ved afståelse af investeringsbeviser.
 
-5) Ved en aktionærs afståelse af aktier, der er optaget til handel på et reguleret marked, til det selskab, som har udstedt dem, jf. dog stk. 3. 1. pkt. omfatter ikke aktier, der alene anses for optaget til handel på et reguleret marked som følge af aktieavancebeskatningslovens § 3.
+5) Ved en aktionærs afståelse af aktier, der er optaget til handel på et reguleret marked eller en multilateral handelsfacilitet, til det selskab, som har udstedt dem, jf. dog stk. 3. 1. pkt. omfatter ikke aktier, der alene anses for optaget til handel på et reguleret marked som følge af aktieavancebeskatningslovens § 3.
 
 6) Ved afståelser, hvor told- og skatteforvaltningen tillader det.
 
-Stk. 3. Ved en aktionærs afståelse af aktier, der er optaget til handel på et reguleret marked, til det selskab, der har udstedt dem, kan sælger, når afståelsen ikke er omfattet af stk. 2, nr. 2-4, overfor told- og skatteforvaltningen tilkendegive, at salget er omfattet af stk. 1. Det er en betingelse, at tilkendegivelsen fremkommer inden udløbet af oplysningsfristen efter skattekontrollovens §§ 10-13 for det år, hvor afståelsen sker.
+Stk. 3. Ved en aktionærs afståelse af aktier, der er optaget til handel på et reguleret marked eller en multilateral handelsfacilitet, til det selskab, der har udstedt dem, kan sælger, når afståelsen ikke er omfattet af stk. 2, nr. 2-4, overfor told- og skatteforvaltningen tilkendegive, at salget er omfattet af stk. 1. Det er en betingelse, at tilkendegivelsen fremkommer inden udløbet af oplysningsfristen efter skattekontrollovens §§ 10-13 for det år, hvor afståelsen sker.
 
 Stk. 4. Stk. 1 omfatter ikke tegningsretter, der er omfattet af § 28.
 
