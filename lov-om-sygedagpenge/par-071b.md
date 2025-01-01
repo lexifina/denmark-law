@@ -12,7 +12,7 @@
 
 6) Fleksydelse efter lov om fleksydelse.
 
-7) Integrationsydelse, selvforsørgelses- og hjemrejseydelse, overgangsydelse, uddannelseshjælp, kontanthjælp, revalideringsydelse, ressourceforløbsydelse i ressourceforløb, ressourceforløbsydelse i jobafklaringsforløb eller ledighedsydelse efter lov om aktiv socialpolitik.
+7) Integrationsydelse, jf. den tidligere gældende § 22 i lov om aktiv socialpolitik, jf. lovbekendtgørelse nr. 981 af 23. september 2019, selvforsørgelses- og hjemrejseydelse, overgangsydelse, uddannelseshjælp eller kontanthjælp, jf. de tidligere gældende §§ 22-25 i lov om aktiv socialpolitik, jf. lovbekendtgørelse nr. 808 af 25. juni 2024, kontanthjælp efter §§ 16-20, revalideringsydelse, ressourceforløbsydelse i ressourceforløb, ressourceforløbsydelse i jobafklaringsforløb eller ledighedsydelse efter lov om aktiv socialpolitik.
 
 8) Fleksløntilskud efter §§ 123 og 124 eller tilskud til selvstændig virksomhed efter § 126 i lov om en aktiv beskæftigelsesindsats.
 
