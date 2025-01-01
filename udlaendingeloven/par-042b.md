@@ -32,7 +32,7 @@ Stk. 12. En udlænding, der får udgifterne til underhold og nødvendige sundhed
 
 Stk. 13. En udlænding, der får udgifterne til underhold og nødvendige sundhedsmæssige ydelser dækket af Udlændingestyrelsen efter § 42 a, stk. 1 eller 2, kan få udleveret naturalieydelser, herunder i form af tøj- og hygiejnepakker, såfremt den pågældende har særligt behov herfor. Udlændinge- og integrationsministeren fastsætter nærmere regler om adgangen til samt indholdet og omfanget af naturalieydelser.
 
-Stk. 14. Hvis en udlænding, som har indgivet ansøgning om opholdstilladelse i medfør af § 7, oppebærer lønindkomst fra beskæftigelse eller lønnet praktik omfattet af § 14 a eller § 42 g, stk. 2, fradrages denne i kontante ydelser, der udbetales efter reglerne i stk. 1-13.
+Stk. 14. Oppebærer en udlænding, der er omfattet af § 42 a, stk. 1 eller 2, jf. stk. 3, indkomst, fradrages denne i kontante ydelser, der udbetales efter stk. 1-13.
 
 Stk. 15. Stk. 1-13 finder ikke anvendelse for en udlænding, der er flyttet i egen bolig, jf. § 42 k, eller dennes husstand.
 

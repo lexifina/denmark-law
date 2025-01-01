@@ -6,7 +6,7 @@
 
 Stk. 2. Der kan kun træffes afgørelse efter stk. 1, 1. pkt., når der er begrundet formodning om, at den uledsagede mindreårige udlændings problemer ikke kan løses under udlændingens fortsatte ophold i indkvarteringsstedet. Anbringelsen kræver ikke den uledsagede mindreårige udlændings samtykke.
 
-Stk. 3. Formanden eller i dennes fravær næstformanden for børne- og ungeudvalget kan træffe foreløbig afgørelse om anbringelse efter stk. 1, 1. pkt., når anbringelsen af hensyn til den uledsagede mindreårige udlændings øjeblikkelige behov ikke kan afvente, at sagen behandles i børne- og ungeudvalget. En foreløbig afgørelse efter stk. 1, 1. pkt., skal snarest muligt og senest inden 7 dage efter iværksættelsen af afgørelsen forelægges børne- og ungeudvalget til godkendelse, uanset om foranstaltningen er ophørt.
+Stk. 3. Formanden eller i dennes fravær næstformanden for børne- og ungeudvalget kan træffe foreløbig afgørelse om anbringelse efter stk. 1, 1. pkt., når anbringelsen af hensyn til den uledsagede mindreårige udlændings øjeblikkelige behov ikke kan afvente, at sagen behandles i børne- og ungeudvalget. En foreløbig afgørelse efter stk. 1, 1. pkt., skal snarest muligt og senest inden 7 dage efter iværksættelsen af afgørelsen forelægges børne- og ungeudvalget til godkendelse, uanset om indsatsen er ophørt.
 
 Stk. 4. Afgørelser efter stk. 1, 1. pkt., træffes på grundlag af en indstilling fra kommunalbestyrelsen om anbringelse uden for indkvarteringsstedet, der udarbejdes efter reglerne i § 62 p.
 
@@ -18,13 +18,13 @@ Stk. 7. Fuldbyrdelse af afgørelser truffet efter stk. 1, 1. pkt., og afgørelse
 
 Stk. 8. Politiet yder bistand til kommunen ved udøvelsen af beføjelser efter stk. 1, 3. pkt. Regler fastsat i medfør af § 139, stk. 2, i barnets lov finder tilsvarende anvendelse for politiets bistand efter 1. pkt. Fuldbyrdelse af en afgørelse truffet efter regler fastsat i medfør af stk. 10, nr. 7, hvor politiet yder bistand til kommunen efter 1. pkt., skal registreres og indberettes af kommunen til Ankestyrelsen. Ankestyrelsen udarbejder årligt en oversigt over anvendelsen af bestemmelsen.
 
-Stk. 9. Udlændinge- og integrationsministeren kan fastsætte nærmere regler om foreløbige afgørelser efter stk. 3, herunder regler om skriftlig meddelelse af foreløbige afgørelser til repræsentanten, jf. § 56 a, stk. 1, om varigheden af afgørelsernes gyldighed og om styrelseschefen for Ankestyrelsens adgang til at træffe foreløbige afgørelser.
+Stk. 9. Udlændinge- og integrationsministeren kan fastsætte nærmere regler om foreløbige afgørelser efter stk. 3, herunder regler om skriftlig meddelelse af foreløbige afgørelser til repræsentanten, jf. § 56 a, stk. 1, om varigheden af afgørelsernes gyldighed og om direktøren for Ankestyrelsens adgang til at træffe foreløbige afgørelser.
 
 Stk. 10. Udlændinge- og integrationsministeren kan efter forhandling med børne- og socialministeren fastsætte nærmere regler om
 
 1) børne- og ungeudvalgets behandling af sager om anbringelse m.v., herunder om retten til at udtale sig over for børne- og ungeudvalget, inden der træffes afgørelse,
 
-2) fornyet afgørelse ved opretholdelse af længerevarende foranstaltninger,
+2) fornyet afgørelse ved opretholdelse af længerevarende indsatser,
 
 3) den uledsagede mindreårige udlændings adgang til bisidder,
 
