@@ -1,6 +1,6 @@
 § 8 C. I §§ 8 D og 8 E forstås ved:
 
-1) Hybridt mismatch: En situation, der involverer et selskab eller en forening m.v. omfattet af § 1, stk. 1, nr. 1-2 b, 2 d-2 j og 3 a-6, § 2, stk. 1, litra a og b, fondsbeskatningslovens § 1 eller kulbrinteskattelovens § 21, stk. 4, hvor
+1) Hybridt mismatch: En situation, der involverer et selskab eller en forening m.v. omfattet af § 1, stk. 1, nr. 1-2 i og 3 a-6, § 2, stk. 1, litra a og b, fondsbeskatningslovens § 1 eller kulbrinteskattelovens § 21, stk. 4, hvor
 
 a) en betaling under et finansielt instrument giver anledning til fradrag uden medregning, når en sådan betaling ikke medregnes inden for et rimeligt tidsrum og det pågældende mismatchresultat skyldes forskelle i kvalificeringen af instrumentet eller betalingen i henhold hertil,
 

@@ -6,7 +6,7 @@ Stk. 3. Bestemmende indflydelse i forhold til et datterselskab foreligger, når 
 
 Stk. 4. Ejer et moderselskab ikke mere end halvdelen af stemmerettighederne i et selskab, foreligger der bestemmende indflydelse, hvis moderselskabet har
 
-1) råderet over mere end halvdelen af stemmerettighederne i kraft af en aft ale med andre investorer,
+1) råderet over mere end halvdelen af stemmerettighederne i kraft af en aftale med andre investorer,
 
 2) beføjelse til at styre de finansielle og driftsmæssige forhold i et selskab i henhold til en vedtægt eller aftale,
 
