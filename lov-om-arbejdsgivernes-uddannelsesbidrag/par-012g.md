@@ -10,4 +10,4 @@ Stk. 2. Den samlede økonomiske ramme for tilskud efter stk. 1 dækkes af følge
 
 Stk. 3. Tilskudsmodtagere skal tilbagebetale uforbrugte dele af det udbetalte tilskud til Arbejdsgivernes Uddannelsesbidrag. Udbetalte tilskud kan kræves tilbagebetalt, i det omfang tilskuddene ikke er anvendt i henhold til de betingelser og til de formål, hvortil de blev ydet. Tilskud, som tilbagebetales, videreføres til udmøntning i det efterfølgende finansår.
 
-Stk. 4. Bestyrelsen for Arbejdsgivernes Uddannelsesbidrag fastsætter nærmere regler om ordningen i stk. 1, herunder om størrelsen af den økonomiske støtte samt betingelserne for ydelse af støtte og regnskabs-, revisions- og dokumentationskrav, herunder om undtagelser fra revisionskrav, og udbetaling af støtten.
+Stk. 4. Bestyrelsen for Arbejdsgivernes Uddannelsesbidrag fastsætter nærmere regler om ordningen i stk. 1, herunder om størrelsen af den økonomiske støtte samt betingelserne for ydelse af støtte, tidsfrister og regnskabs-, revisions- og dokumentationskrav, herunder om undtagelser fra revisionskrav, og udbetaling af støtten.
