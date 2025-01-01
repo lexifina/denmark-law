@@ -1,1 +1,3 @@
-§ 14 a. (Ophævet).
+§ 14 a. Statsanerkendte museer skal årligt indberette de nødvendige oplysninger digitalt til Kulturministeriet til brug for fastsættelse af variabelt tilskud i henhold til § 13 c og til brug for kontrol af opfyldelse af vilkår i § 14, stk. 1, nr. 4-6. Indberetningerne skal være ledsaget af en erklæring fra en godkendt revisor.
+
+Stk. 2. Kulturministeren fastsætter regler om indberetning og opgørelse af oplysninger efter stk. 1, dokumentation og kontrol af oplysninger, som indberettes efter stk. 1, og indberetning af øvrige oplysninger til brug for Kulturministeriets tilsyn med de statsanerkendte museer, herunder opfyldelse af vilkår i § 14, stk. 1, nr. 1-3 og 7-15, og i § 2, og til brug for statistiske formål.

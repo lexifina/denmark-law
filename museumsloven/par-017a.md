@@ -2,6 +2,6 @@
 
 ## Udvikling af museumsområdet
 
-§ 17 a. Kulturministeren nedsætter udvalg m.v., der skal rådgive med henblik på udvikling af museumsområdet.
+§ 17 a. Kulturministeren kan nedsætte udvalg m.v., der skal rådgive med henblik på udvikling af museumsområdet.
 
-Stk. 2. Kulturministeren fastsætter nærmere regler om de i stk. 1 nævnte udvalg m.v., herunder om deres sammensætning og opgaver.
+Stk. 2. Kulturministeren kan fastsætte nærmere regler om de i stk. 1 nævnte udvalg m.v., herunder om deres sammensætning og opgaver.
