@@ -1,0 +1,1 @@
+§ 10 b. Klima-, energi- og forsyningsministeren kan fastsætte regler om kommunalbestyrelsens tilsyn, herunder regler om frister for gennemførelsen af tilsyn, med spildevandsforsyningsselskabers overholdelse af § 3, stk. 1, og § 3 b, stk. 1, og overholdelse af regler fastsat i medfør af § 3, stk. 8, § 3 a, stk. 3 og 5, § 3 b, stk. 4, 6 og 7, og §§ 3 c og 10.
