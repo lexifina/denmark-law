@@ -1,0 +1,3 @@
+§ 13 f. For sygemeldte i et ansættelsesforhold med et forudsigeligt sygeforløb og forventet raskmelding senest inden udgangen af 13. uge regnet fra første opfølgningssamtale, jf. § 13 b, stk. 1, 2. pkt., skal kommunen uanset § 13 b, stk. 1, 1. pkt., alene følge op på, om den sygemeldte bliver raskmeldt inden udgangen af 13. uge. Den sygemeldte har ret til at få en samtale, hvis den sygemeldte ønsker det.
+
+Stk. 2. For sygemeldte omfattet af stk. 1, som bliver ledige, eller som ikke er raskmeldt inden udgangen af 13. uge regnet fra første opfølgningssamtale, skal der følges op efter reglerne i § 13 b, stk. 1, 3.-8. pkt., uanset at der ikke er gået 6 måneder fra første fraværsdag.

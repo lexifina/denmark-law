@@ -1,4 +1,4 @@
-§ 13 a. I sager, der er visiteret til kategori 1 efter § 12, stk. 1, nr. 1, skal kommunen iværksætte en opfølgning med opfølgningssamtale og revisitation til kategori 2 eller 3 efter § 12, stk. 1, nr. 2 og 3, hvis sygefraværsperioden varer længere end 8 uger. En efterfølgende opfølgning sker i henhold til revisitationen, jf. §§ 12 og 13 b-13 d.
+§ 13 a. I sager, der er visiteret til kategori 1 efter § 12, stk. 1, nr. 1, skal kommunen iværksætte en opfølgning med opfølgningssamtale og revisitation til kategori 2 efter § 12, stk. 1, nr. 2, hvis sygefraværsperioden varer længere end 8 uger. En efterfølgende opfølgning sker i henhold §§ 13 b og 13 c.
 
 Stk. 2. For sygemeldte, der er visiteret til kategori 1 efter § 12, stk. 1, nr. 1, fastlægger den enkelte kommune, hvornår og hvordan opfølgningen skal finde sted, og hvad indholdet skal være, jf. dog stk. 4.
 
