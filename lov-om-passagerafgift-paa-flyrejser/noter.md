@@ -1,0 +1,1 @@
+1) Loven har som udkast været notificeret i overensstemmelse med Europa-Parlamentets og Rådets direktiv (EU) 2015/1535 af 9. september 2015 om en informationsprocedure med hensyn til tekniske forskrifter samt forskrifter for informationssamfundets tjenester (kodifikation).
