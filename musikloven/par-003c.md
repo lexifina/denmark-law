@@ -12,6 +12,4 @@ Stk. 6. Endelig beregning af refusion i henhold til stk. 3 foretages på grundla
 
 Stk. 7. For meget udbetalt refusion i et regnskabsår modregnes i refusionen for det følgende år.
 
-Stk. 8. Kulturministeren kan i forbindelse med indgåelse af kulturaftaler med kommuner m.v. fravige bestemmelserne i stk. 1-7.
-
-Stk. 9. Kommunen kan tilbyde børn og unge musikskoleundervisning gratis eller til nedsat betaling.
+Stk. 8. Kommunen kan tilbyde børn og unge musikskoleundervisning gratis eller til nedsat betaling.
