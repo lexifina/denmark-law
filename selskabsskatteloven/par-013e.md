@@ -1,1 +1,1 @@
-§ 13 E. Ved sambeskatning af Energinet.dk anses de aktiviteter, der er omfattet af Energinet.dk's og virksomhedens datterselskabers elektricitetsrelaterede aktiviteter i medfør af § 12 i lov om Energinet.dk, for at være separate enheder i forhold til de øvrige aktiviteter.
+§ 13 E. Ved sambeskatning af Energinet anses de aktiviteter, der er omfattet af Energinets og virksomhedens datterselskabers elektricitetsrelaterede aktiviteter i medfør af § 12 i lov om Energinet, for at være separate enheder i forhold til de øvrige aktiviteter.
