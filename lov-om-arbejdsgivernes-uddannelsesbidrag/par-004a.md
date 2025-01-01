@@ -1,4 +1,4 @@
-§ 4 a. Arbejdsgivernes Uddannelsesbidrag yder som tillæg til lønrefusionen efter § 4 refusion til arbejdsgivere, som i henhold til uddannelsesaftale som led i lønnen har betalt pensionsbidrag under skoleophold for elever eller lærlinge under erhvervsuddannelse i overensstemmelse med lovgivningen for disse uddannelser eller for elever under uddannelser, som kan sidestilles med erhvervsuddannelser, jf. § 4, stk. 1. Refusionen kan dog højst udgøre 8 pct. af elevens eller lærlingens til enhver tid værende lønrefusionstrin.
+§ 4 a. Arbejdsgivernes Uddannelsesbidrag yder som tillæg til lønrefusionen efter § 4 refusion til arbejdsgivere, som i henhold til uddannelsesaftale som led i lønnen har betalt pensionsbidrag under skoleophold for elever eller lærlinge under erhvervsuddannelse i overensstemmelse med lovgivningen for disse uddannelser eller for elever under uddannelser, som kan sidestilles med erhvervsuddannelser, jf. § 4, stk. 1. Refusionen kan dog højst udgøre 10 pct. af elevens eller lærlingens til enhver tid værende lønrefusionstrin.
 
 Stk. 2. Refusion efter stk. 1 ydes på baggrund af arbejdsgiverens andel af indbetaling af pensionsbidrag.
 
