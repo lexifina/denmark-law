@@ -1,1 +1,1 @@
-§ 145 a. Advokatnævnet afgiver en årlig beretning om sin virksomhed til justitsministeren. Beretningen trykkes og offentliggøres.
+§ 145 a. Advokatnævnet afgiver en årlig beretning om sin virksomhed til justitsministeren. Beretningen offentliggøres.
