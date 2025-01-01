@@ -1,1 +1,1 @@
-§ 6 a. Trafikselskabet på Sjælland, Metroselskabet I/S og de jernbanevirksomheder, der udfører offentlig servicetrafik på kontrakt med staten inden for trafikselskabet på Sjællands geografiske område, deler takstkompetencen for standardbilletter.
+§ 6 a. Trafikselskabet på Sjælland, Metroselskabet I/S, Hovedstadens Letbane I/S og de jernbanevirksomheder, der udfører offentlig servicetrafik på kontrakt med staten inden for trafikselskabet på Sjællands geografiske område, deler takstkompetencen for standardbilletter.
