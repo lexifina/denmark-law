@@ -4,4 +4,4 @@ Stk. 2. Sagen skal indbringes for retten, senest 3 uger efter at Ankestyrelsen h
 
 Stk. 3. Indbringes sagen for en domstol, der ikke er rette værneting, henviser dommeren sagen til rette værneting.
 
-Stk. 4. Er anmodning om beslutningens prøvelse af retten modtaget efter udløbet af den i adoptionslovens § 11, stk. 1, nævnte frist, afvises sagen, medmindre overskridelsen er undskyldelig, eller særlige grunde i øvrigt taler for at behandle sagen. Afgørelsen træffes ved kendelse.
+Stk. 4. Er anmodning om beslutningens prøvelse af retten modtaget efter udløbet af den i adoptionslovens § 11, stk. 3, nævnte frist, afvises sagen, medmindre overskridelsen er undskyldelig, eller særlige grunde i øvrigt taler for at behandle sagen. Afgørelsen træffes ved kendelse.
