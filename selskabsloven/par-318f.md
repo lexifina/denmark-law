@@ -6,7 +6,7 @@ Stk. 2. Anmeldte fordringer, der er forfaldne, kan forlanges indfriet, og for an
 
 Stk. 3. Medmindre andet godtgøres, er sikkerhedsstillelse efter stk. 2 ikke fornøden, hvis indfrielse af fordringerne er sikret ved en ordning i henhold til lov.
 
-Stk. 4. Er der mellem kapitalselskabet og anmeldte kreditorer uenighed om, hvorvidt der skal stilles sikkerhed, eller om, hvorvidt en tilbudt sikkerhed er tilstrækkelig, kan begge parter senest 3 måneder efter offentliggørelse af omdannelsesplanen, jf. § 318 g, stk. 1, nr. 1, indbringe sagen for skifteretten på selskabets hjemsted til afgørelse af spørgsmålet.
+Stk. 4. Er der mellem kapitalselskabet og kreditorer, der har anmeldt et krav, uenighed om, hvorvidt der skal stilles sikkerhed, eller om, hvorvidt en tilbudt sikkerhed er tilstrækkelig, kan begge parter senest 3 måneder efter offentliggørelse af omdannelsesplanen, jf. § 318 g, stk. 1, nr. 1, indbringe sagen for skifteretten på selskabets hjemsted til afgørelse af spørgsmålet.
 
 Stk. 5. Kreditorer kan ikke med bindende virkning ved den aftale, der ligger til grund for fordringen, frasige sig retten til at forlange sikkerhed efter stk. 2.
 
