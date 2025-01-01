@@ -5,5 +5,3 @@ Stk. 2. Tilskud til husleje kan kun udgøre indtil 15 pct. af det tilskudsberett
 Stk. 3. Statstilskuddet ydes kun, såfremt kommunen har indgået minimum 3-årige aftaler om driftstilskud med de enkelte teatre.
 
 Stk. 4. Kulturministeren fastsætter efter forhandling med Kommunernes Landsforening nærmere regler om ordningen for små storbyteatre.
-
-Stk. 5. Kulturministeren kan i forbindelse med kulturaftaler med kommuner m.v. fravige bestemmelserne i stk. 1-4 og i § 16 a.
