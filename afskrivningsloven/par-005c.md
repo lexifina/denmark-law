@@ -18,10 +18,8 @@ Stk. 2. Følgende infrastrukturanlæg afskrives på en særskilt saldo:
 
 3) Fast jernbanemateriel.
 
-Stk. 3. Stk. 1 og 2 gælder ikke for aktiver, i det omfang disse afskrives efter kapitel 3. Stk. 1 og 2 finder ikke anvendelse på den del af anlæggene m.v., som udgøres af edb-software og edb-hardware.
+Stk. 3. Stk. 1 og 2 gælder ikke for aktiver, i det omfang disse afskrives efter kapitel 3. Stk. 1 og 2 finder ikke anvendelse på den del af anlæggene m.v., som udgøres af software og hardware.
 
-Stk. 4. Afskrivning på aktiver omfattet af stk. 1 kan højst udgøre 15 pct. af den afskrivningsberettigede saldoværdi. I indkomstårene 2008 og 2009 er afskrivningssatsen i 1. pkt. 23 pct., i indkomstårene 2010 og 2011 er afskrivningssatsen 21 pct., i indkomstårene 2012 og 2013 er afskrivningssatsen 19 pct., og i indkomstårene 2014 og 2015 er afskrivningssatsen 17 pct. Afskrivning på aktiver omfattet af stk. 2 kan højst udgøre 7 pct. af den afskrivningsberettigede saldoværdi. Reglerne for driftsmidler omfattet af § 5, bortset fra § 5, stk. 4-6, § 5 A og § 6 finder tilsvarende anvendelse.
+Stk. 4. Afskrivning på aktiver omfattet af stk. 1 kan højst udgøre 15 pct. af den afskrivningsberettigede saldoværdi. Afskrivning på aktiver omfattet af stk. 2 kan højst udgøre 7 pct. af den afskrivningsberettigede saldoværdi. Reglerne for driftsmidler omfattet af § 5, bortset fra § 5, stk. 4-6, § 5 A og § 6 finder tilsvarende anvendelse.
 
 Stk. 5. Stk. 1, nr. 4, finder ikke anvendelse på vindmøller, der er anskaffet i indkomstår, der udløber før indkomstår, der begynder den 1. januar 2013 eller senere.
-
-Stk. 6. Stk. 4, 2. pkt., finder ikke anvendelse på vindmøller.
