@@ -2,10 +2,14 @@
 
 ## Disciplinærsager
 
-§ 147 b. Klager over, at en advokat, et advokatselskab eller en af de personer, der er nævnt i § 124 c, stk. 1, nr. 2, og som ejer aktier eller anparter i et advokatselskab, har tilsidesat pligter, der følger af denne lov eller af forskrifter fastsat i medfør af denne lov, kan indbringes for Advokatnævnet.
+§ 147 b. Klager over, at en advokat, et fællesskab af advokater, et advokatselskab eller en af de personer, der er nævnt i § 124 c, stk. 1, nr. 2, og som ejer aktier eller anparter i et advokatselskab, har tilsidesat pligter, der følger af denne lov eller af forskrifter fastsat i medfør af denne lov, kan indbringes for Advokatnævnet.
 
 Stk. 2. Klager skal indgives inden 1 år efter, at klageren er blevet bekendt med det forhold, som klagen vedrører. Nævnet kan dog behandle en klage, der er indgivet senere, når fristoverskridelsen findes rimeligt begrundet.
 
 Stk. 3. Advokatnævnet kan afvise at behandle klager fra personer, der ikke har retlig interesse i det forhold, klagen angår, samt klager, der på forhånd må skønnes åbenbart grundløse.
 
-Stk. 4. Advokatnævnet kan lade parter og vidner afhøre ved byretten på det sted, hvor de bor.
+Stk. 4. Advokatnævnet kan af egen drift eller på begæring beslutte at genoptage behandlingen af en klage, hvis særlige grunde taler herfor, herunder særlig hvis der fremkommer nye, væsentlige oplysninger, der forventes at kunne føre til et andet resultat.
+
+Stk. 5. En begæring om genoptagelse af en klage skal indgives, inden 1 år efter at parten er blevet meddelt nævnets afgørelse. Nævnet kan behandle en begæring om genoptagelse, der er indgivet senere, når fristoverskridelsen er rimeligt begrundet.
+
+Stk. 6. Advokatnævnet kan lade parter og vidner afhøre ved byretten på det sted, hvor de bor.

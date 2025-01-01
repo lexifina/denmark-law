@@ -1,0 +1,1 @@
+§ 319 a. Retten kan beslutte, at den, der som værge for en mindreårig part har anlagt eller appelleret en sag, helt eller delvis skal betale de sagsomkostninger, som det ellers ville påhvile den mindreårige part at betale.

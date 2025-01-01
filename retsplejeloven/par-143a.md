@@ -20,6 +20,6 @@ Stk. 3. Følgende offentlige myndigheder skal videregive bestemte oplysninger ti
 
 3) Anklagemyndigheden, når der rejses tiltale og når der afsiges dom i en straffesag mod en advokat med påstand om hel eller delvis frakendelse af retten til at drive advokatvirksomhed, jf. § 138, eller en straffesag med tilknytning til den pågældendes udøvelse af hvervet som advokat.
 
-Stk. 4. Stk. 1-3 finder tilsvarende anvendelse for oplysninger om autoriserede fuldmægtige, advokatselskaber, jf. § 124, og personer omfattet af § 124 c, stk. 1, nr. 2.
+Stk. 4. Stk. 1-3 finder tilsvarende anvendelse for oplysninger om autoriserede fuldmægtige, fællesskaber af advokater, advokatselskaber, jf. § 124, og personer omfattet af § 124 c, stk. 1, nr. 2.
 
 Stk. 5. Justitsministeren kan fastsætte nærmere regler om Advokatrådets muligheder for at indhente eller modtage oplysninger fra offentlige myndigheder.
