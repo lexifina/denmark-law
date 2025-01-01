@@ -6,7 +6,7 @@
 
 3) Sager om opholdstilladelse som følge af beskæftigelsesmæssige eller erhvervsmæssige hensyn på Færøerne.
 
-4) Sager om opholdstilladelse som religiøs forkynder eller studerende eller med henblik på praktik- eller au pair-ophold.
+4) Sager om opholdstilladelse som religiøs forkynder m.v. eller studerende eller med henblik på praktik- eller au pair-ophold.
 
 5) Sager om opholdstilladelse som medfølgende familiemedlem til personer, der har fået opholdstilladelse på Færøerne som religiøs forkynder eller studerende eller på baggrund af beskæftigelse.
 
@@ -22,8 +22,10 @@ Stk. 2. Stk. 1 omfatter desuden
 
 5) afgørelser om inddragelse af opholdstilladelse,
 
-6) afgørelser om opsættende virkning og
+6) afgørelser om opsættende virkning,
 
-7) afgørelser om identitetsfastlæggelse, fastsættelse af alder i forbindelse med en ansøgning om opholdstilladelse som følge af en familiemæssig tilknytning til en person bosiddende på Færøerne, tilbagerejsetilladelse og laissez-passer.
+7) afgørelser om identitetsfastlæggelse, fastsættelse af alder i forbindelse med en ansøgning om opholdstilladelse som følge af en familiemæssig tilknytning til en person bosiddende på Færøerne, tilbagerejsetilladelse og laissez-passer og
+
+8) afgørelser om udstedelse af visum til længerevarende ophold med gyldighed begrænset til Færøerne (langtidsvisum) til en udlænding, i forlængelse af at udlændingen er meddelt opholdstilladelse i en sagstype omfattet af stk. 1.
 
 Stk. 3. Er kompetencen til at træffe afgørelse delegeret til en færøsk myndighed i medfør af stk. 1, indhenter den færøske myndighed en bindende indstilling fra Udlændingestyrelsen eller Styrelsen for International Rekruttering og Integration om, hvorvidt udlændingen er udelukket fra at opnå eller bevare opholdstilladelse på Færøerne, jf. § 10 i udlændingeloven som sat i kraft for Færøerne ved kongelig anordning. Indstillingen, der ikke er en afgørelse, skal lægges til grund for den færøske myndigheds afgørelse af sagen.
