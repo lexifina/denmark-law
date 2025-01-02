@@ -1,0 +1,1 @@
+§ 6 a. En virksomhed, der har reduceret sin kvotepligtige CO2-udledning ved hjælp af CO2-fangst og -lagring i overensstemmelse med kvoteordningen, skal ikke svare emissionsafgift af denne mængde. Fordelingen af den reducerede mængde afgift skal følge den fordeling, som er fastsat i reglerne i § 6, og udgøre den relevante afgiftssats efter § 2.
