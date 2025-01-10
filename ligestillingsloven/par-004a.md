@@ -3,3 +3,5 @@
 Stk. 2. Stk. 1 finder ikke anvendelse, hvis særlige hensyn, herunder hensynet til barnets bedste, hensynet til den anden indehaver af forældremyndigheden eller hensyn i anden lovgivning, taler for alene at sende posten til den ene indehaver af forældremyndigheden.
 
 Stk. 3. Vedkommende minister kan efter forhandling med ministeren for ligestilling fastsætte regler om, at stk. 1 ikke skal finde anvendelse på nærmere angivne sagstyper og offentlige myndigheder m.v.
+
+§§ 5-6. (Ophævet)

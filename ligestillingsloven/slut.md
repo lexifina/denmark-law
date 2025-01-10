@@ -1,5 +1,5 @@
-Ministeriet for Digitalisering og Ligestilling, den 19. december 2022
+Miljø- og Ligestillingsministeriet, den 6. januar 2025
 
-Marie Bjerre
+P.M.V. Mette Kaae Hansen
 
-/ Mette Kaae Hansen
+/ Neel Pryds Winkel
