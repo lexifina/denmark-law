@@ -73,3 +73,19 @@ Lov nr. 576 af 10. maj 2022 (Måltal og politik for kønssammensætningen i lede
 Stk. 1. Loven træder i kraft den 1. januar 2023.
 
 Stk. 2. Indberetning efter § 11, stk. 5, i lov om ligestilling af kvinder og mænd som affattet ved denne lovs § 1, nr. 5, skal ske første gang for regnskabsår, der begynder den 1. januar 2023 eller senere.
+
+Lov nr. 1470 af 10. december 2024 (Afskaffelse af ligestillingsredegørelser og forenkling af regler om kønssammensætningen i bestyrelser m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 3
+
+Stk. 1. Loven træder i kraft den 1. januar 2025.
+
+Stk. 2. § 11, stk. 6, og § 13, stk. 1, i lov om ligestilling af kvinder og mænd som affattet ved denne lovs § 1, nr. 10 og 12, finder anvendelse for regnskabsår, der begynder den 1. januar 2025 eller senere.
+
+Lov nr. 1668 af 30. december 2024 (Ændring af visse love og bestemmelser på Erhvervsministeriets område som følge af opgavebortfald) indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 17
+
+Stk. 1. Loven træder i kraft den 1. januar 2025, jf. dog stk. 2.
+
+Stk. 2-6. (Udelades)
