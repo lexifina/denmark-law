@@ -1,12 +1,12 @@
-Beskæftigelsesministeriet, den 9. oktober 2014
+Beskæftigelsesministeriet, den 14. januar 2025
 
-Mette Frederiksen
+Tine Nielsen Hertz
 
-/ Anders Dupont
+/ Karen Thormann
 
 Bilag A
 
-## Følgende lande er omfattet af zone A:
+Følgende lande er omfattet af zone A:
 
 Medlemslandene i EU, andre lande, der er fulde medlemmer af Organisationen for Økonomisk Samarbejde og Udvikling (OECD), samt andre lande, som har indgået særlige låneoverenskomster med Den Internationale Valutafond (IMF) og er tilknyttet Den Almindelige Låneoverenskomst.
 
