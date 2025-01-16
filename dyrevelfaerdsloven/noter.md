@@ -5,3 +5,7 @@
 3) Lovændringen vedrører indsættelse af kapitel 4 a og indsættelse af nyt nr. 5 i § 58, stk. 4, hvorefter nr. 5-7 bliver nr. 6-8.
 
 4) Lovændringen vedrører ophævelse af stk. 3-5 og indsættelse af nye stk. 3-4 i § 43. Endvidere ændres stk. 3 og 5 til stk. 3 og 4, og et 2. pkt. indsættes i § 43, stk. 6, der bliver stk. 5. Endelig indsættes et stk. 7 i § 43.
+
+5) Lovændringen vedrører ændring af »bøde« til: »fængsel i 30 dage« i § 68, stk. 1, nr. 1.
+
+6) Lovændringen vedrører ændring af takster i § 43, stk. 3, nr. 1-2, § 43, stk. 3, nr. 3, 1. pkt., § 43, stk. 3, nr. 4-5, og § 43, stk. 3, nr. 6, 1. pkt.
