@@ -41,3 +41,5 @@
 21) Lovændringen vedrører ændring af § 45, stk. 4.
 
 22) Lovændringen vedrører ændring af § 45, stk. 4.
+
+23) Lovændringen vedrører ændringer af takster i § 45, stk. 5, 1. pkt, § 45, stk. 6, 1. pkt., § 45, stk. 7, 1. pkt., og indsættelse af 2. pkt. i § 45, stk. 9.

@@ -147,3 +147,9 @@ Stk. 5. Regler, der er fastsat i medfør af følgende lovbestemmelser, forbliver
 4) (Udelades)
 
 5) (Udelades)
+
+Lov nr. 1462 af 10. december 2024 (Ændring af takster i betalingsbestemmelser til finansiering af fødevare- og dyrevelfærdskontrol m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 3
+
+Loven træder i kraft den 1. januar 2025.
