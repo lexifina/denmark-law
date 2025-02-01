@@ -1,0 +1,1 @@
+1) Loven indeholder bestemmelser, der gennemfører dele af Europa-Parlamentets og Rådets direktiv (EU) 2022/2464 af 14. december 2022 om ændring af forordning (EU) nr. 537/2014, direktiv 2004/109/EF, direktiv 2006/43/EF og direktiv 2013/34/EU for så vidt angår virksomheders bæredygtighedsrapportering, EU-Tidende 2022, nr. L 322, side 15.
