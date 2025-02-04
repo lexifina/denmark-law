@@ -721,3 +721,23 @@ Lov nr. 1769 af 28. december 2023 (Mulighed for dispensation til eksport af pens
 Stk. 1. Loven træder i kraft den 1. januar 2024.
 
 Stk. 2-7. (Udelades)
+
+Lov nr. 1655 af 30. december 2024 (Reform af kontanthjælpssystemet, ophævelse af 225-timersreglen og kontanthjælpsloftet, fritidstillæg til børn, afklaring, rettighedsbaseret tilskud til medicin m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 27
+
+Stk. 1. Loven træder i kraft den 1. januar 2025.
+
+Stk. 2. Loven har virkning fra den 1. juli 2025, jf. dog stk. 3.
+
+Stk. 3 og 4. (Udelades)
+
+Lov nr. 1657 af 30. december 2024 (Fleksibel brug og sammensætning af rehabiliteringsteams, forenkling af visitationskategorier, færre krav til sygemeldte fra beskæftigelse m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 4
+
+Stk. 1. Loven træder i kraft den 1. januar 2025.
+
+Stk. 2. Sygemeldte, der er visiteret til kategori 3, jf. § 12, stk. 1, nr. 3, i lov om sygedagpenge, jf. lovbekendtgørelse nr. 994 af 22. august 2024, og som fortsat er uarbejdsdygtige, visiteres den 1. januar 2025 til kategori 2, jf. § 12, stk. 1, nr. 2, i lov om sygedagpenge.
+
+Stk. 3. I sager, hvor sygemeldte er visiteret til kategori 3, jf. § 12, stk. 1, nr. 3, i lov om sygedagpenge, jf. lovbekendtgørelse nr. 994 af 22. august 2024, og i sager, hvor personer er overgået til første jobafklaringsforløb efter § 24, stk. 2, eller § 24 a i lov om sygedagpenge, jf. lovbekendtgørelse nr. 994 af 22. august 2024, inden lovens ikrafttræden, finder § 13 c, stk. 3, i lov om sygedagpenge som affattet ved denne lovs § 1, nr. 10, og § 109 i lov om en aktiv beskæftigelsesindsats som affattet ved denne lovs § 2, nr. 7, ikke anvendelse. For sådanne sager finder de hidtil gældende regler i § 13 d, stk. 3, i lov om sygedagpenge, jf. lovbekendtgørelse nr. 994 af 22. august 2024, og § 109 i lov om en aktiv beskæftigelsesindsats, jf. lovbekendtgørelse nr. 280 af 1. marts 2024, anvendelse.
