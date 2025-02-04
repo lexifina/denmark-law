@@ -1,5 +1,7 @@
-Beskæftigelsesministeriet, den 22. august 2024
+Styrelsen for Arbejdsmarked og Rekruttering, den 29. januar 2025
 
-Ane Halsboe-Jørgensen
+Jens Erik Zebis
 
 / Kirsten Brix Pedersen
+
+Slutnoter
