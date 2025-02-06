@@ -1,4 +1,4 @@
-Konkurrence- og Forbrugerstyrelsen, den 6. januar 2023
+Konkurrence- og Forbrugerstyrelsen, den 3. februar 2025
 
 P.M.V. Jakob Hald
 
