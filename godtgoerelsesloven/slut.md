@@ -1,5 +1,5 @@
-Børne- og Undervisningsministeriet, den 30. januar 2024
+Børne- og Undervisningsministeriet, den 5. februar 2025
 
 P.M.V. Ole Hvilsom Larsen
 
-/ Jesper Schaumburg-Müller
+/ Nanna Hvass Jacobsen
