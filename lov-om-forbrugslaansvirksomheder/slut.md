@@ -1,7 +1,5 @@
-Givet på Amalienborg, den 24. april 2019
+Finanstilsynet, den 2. februar 2025
 
-Under Vor Kongelige Hånd og Segl
+Louise Mogensen
 
-MARGRETHE R.
-
-/ Rasmus Jarlov
+/ Karina Vilhof Ankergren
