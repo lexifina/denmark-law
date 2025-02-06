@@ -1,4 +1,4 @@
-Lov nr. 1538 af 12. december 2023 (Fælles opkrævning af arbejdsgiverbidrag, udvidet bemyndigelse til at fastsætte regler om modregningsadgang, nationale særregler for behandling af personoplysninger m.v.) indeholder følgende ikrafttrædelsesbestemme:
+Lov nr. 1538 af 12. december 2023 (Fælles opkrævning af arbejdsgiverbidrag, udvidet bemyndigelse til at fastsætte regler om modregningsadgang, nationale særregler for behandling af personoplysninger m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
 
 § 16
 
@@ -20,6 +20,12 @@ Stk. 12-16. (Udelades)
 
 Stk. 17. Regler udstedt i medfør af § 9, stk. 6, i lov om Lønmodtagernes Garantifond, jf. lovbekendtgørelse nr. 686 af 20. juni 2011, § 85 c, stk. 17, i lov om arbejdsløshedsforsikring, jf. lovbekendtgørelse nr. 503 af 11. maj 2023, § 66, stk. 8, i lov om sygedagpenge, jf. lovbekendtgørelse nr. 1179 af 21. september 2023, § 13, stk. 16, i lov om godtgørelse og tilskud ved deltagelse i erhvervsrettet voksen- og efteruddannelse, jf. lovbekendtgørelse nr. 601 af 22. maj 2019, § 80 a, stk. 8, i lov om aktiv socialpolitik, jf. lovbekendtgørelse nr. 1031 af 22. juni 2023, og § 45, stk. 8, i barselsloven, jf. lovbekendtgørelse nr. 1180 af 21. september 2023, forbliver i kraft, indtil de ophæves eller afløses af regler udstedt i medfør af § 9, stk. 5, jf. lov om Lønmodtagernes Garantifond, jf. denne lovs § 6, nr. 1, § 85 c, stk. 16, i lov om arbejdsløshedsforsikring, jf. denne lovs § 9, nr. 2, § 66, stk. 7, i lov om sygedagpenge, jf. denne lovs § 10, nr. 1, § 13, stk. 15, i lov om godtgørelse og tilskud ved deltagelse i erhvervsrettet voksen- og efteruddannelse, jf. denne lovs § 11, nr. 3, § 80 a, stk. 7, i lov om aktiv socialpolitik, jf. denne lovs § 12, nr. 1, og § 45, stk. 7, i barselsloven, jf. denne lovs § 13, nr. 1.
 
-Stk. 18. Regler udstedt i medfør af § 13, stk. 22, i lov om godtgørelse og tilskud ved deltagelse i erhvervsrettet voksen- og efteruddannelse, jf. lovbekendtgørelse nr. 601 af 22. maj 2019, forbliver i kraft, indtil de ophæves eller afløses af regler udstedt i medfør af § 13, stk. 21, i lov om godtgørelse og tilskud ved deltagelse i erhvervsrettet voksen- og efteruddannelse som affattet ved denne lovs § 11, nr. 3 og 7.
+Stk. 18-19. (Udelades)
 
-Stk. 19. Regler udstedt i medfør af § 13, stk. 23, i lov om godtgørelse og tilskud ved deltagelse i erhvervsrettet voksen- og efteruddannelse, jf. lovbekendtgørelse nr. 601 af 22. maj 2019, forbliver i kraft, indtil de ophæves eller afløses af regler udstedt i medfør af § 13, stk. 22, i lov om godtgørelse og tilskud ved deltagelse i erhvervsrettet voksen- og efteruddannelse, jf. denne lovs § 11, nr. 3.
+Lov nr. 1663 af 30. december 2024 (Udmøntning af aftale om flere social- og sundhedsassistenter og social- og sundhedshjælpere til sundhedsvæsenet og ældreplejen) indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 3
+
+Stk. 1. Loven træder i kraft den 1. januar 2025.
+
+Stk. 2. (Udelades)
