@@ -1,7 +1,5 @@
-Givet på Christiansborg Slot, den 26. april 2017
+Uddannelses- og Forskningsministeriet, den 13. februar 2025
 
-Under Vor Kongelige Hånd og Segl
+P.M.V. Søren Langelund Klit Kontorchef
 
-MARGRETHE R.
-
-/ Søren Pind
+/ Louise Kornmaaler

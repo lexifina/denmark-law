@@ -1,5 +1,3 @@
-Lov om Danmarks Forsknings- og Innovationspolitiske Råd og Danmarks Frie Forskningsfond
+Bekendtgørelse af lov om Danmarks Forsknings- og Innovationspolitiske Råd og Danmarks Frie Forskningsfond
 
-VI MARGRETHE DEN ANDEN, af Guds Nåde Danmarks Dronning, gør vitterligt:
-
-Folketinget har vedtaget og Vi ved Vort samtykke stadfæstet følgende lov:
+Herved bekendtgøres lov nr. 384 af 26. april 2017 om Danmarks Forsknings- og Innovationspolitiske Råd og Danmarks Frie Forskningsfond med de ændringer, der følger af § 2 i lov nr. 1188 af 8. juni 2021.
