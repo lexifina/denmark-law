@@ -4,7 +4,7 @@ Stk. 2. Universitetets indskud i aktieselskaber efter stk. 1 eller erhvervelse a
 
 1) 5 mio. kr. eller
 
-2) 3 pct. af universitetets uddannelsestilskud fra Styrelsen for Universiteter og Internationalisering i det pågældende finansår.
+2) 3 pct. af universitetets uddannelsestilskud fra Uddannelses- og Forskningsstyrelsen i det pågældende finansår.
 
 Stk. 3. Ved opgørelsen efter stk. 2 medregnes indskud med værdien på indskudstidspunktet og aktier med værdien ved erhvervelsen eller overdragelsen.
 
