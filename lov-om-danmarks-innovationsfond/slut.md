@@ -1,5 +1,5 @@
-Uddannelses- og Forskningsministeriet, den 12. august 2021
+Uddannelses- og Forskningsministeriet, den 13. februar 2025
 
-P.M.V. Søren Langelund Klit
+P.M.V. Søren Langelund Klit Kontorchef
 
 / Louise Kornmaaler
