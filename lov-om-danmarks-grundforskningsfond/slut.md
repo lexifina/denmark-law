@@ -1,5 +1,5 @@
-Uddannelses- og Forskningsministeriet, den 26. februar 2019
+Uddannelses- og Forskningsministeriet, den 13. februar 2025
 
-Tommy Ahlers
+P.M.V. Søren Langelund Klit Kontorchef
 
-/ Stine Ewald Larsen
+/ Louise Kornmaaler
