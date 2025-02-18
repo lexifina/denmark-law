@@ -1,5 +1,5 @@
-Uddannelses- og Forskningsministeriet, den 10. april 2014
+Uddannelses- og Forskningsministeriet, den 13. februar 2025
 
-Sofie Carsten Nielsen
+P.M.V. Søren Langelund Klit Kontorchef
 
-/ Charlotte Elverdam
+/ Louise Kornmaaler
