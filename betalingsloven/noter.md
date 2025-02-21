@@ -1,6 +1,6 @@
 1) Loven indeholder bestemmelser, der gennemfører dele af Europa-Parlamentets og Rådets direktiv 2000/60/EF af 23. oktober 2000 om fastlæggelse af en ramme for Fællesskabets vandpolitiske foranstaltninger (vandrammedirektivet), (EF-Tidende 2000 nr. L 327, s. 1).
 
-2) Ved kongelig resolution af 28. juni 2015 blev ressortansvaret for lov om betalingsregler for spildevandsforsyningsanlæg m.v., overført fra Miljøministeriet til Energi-, Forsynings- og Klimaministeriet, jf. § 3, nr. 1, i bekendtgørelse nr. 1229 af 3. november 2015 om ændring i forretningernes fordeling mellem ministrene. Ved kongelig resolution af 27. juni 2019 er betegnelsen Energi-, Forsynings- og Klimaministeriet ændret til Klima-, Energi- og Forsyningsministeriet.
+2) Ved kongelig resolution af 27. juni 2019 er betegnelsen Energi-, Forsynings- og Klimaministeriet ændret til Klima-, Energi- og Forsyningsministeriet.
 
 3) § 12, som er taget ud, ophæver bestemmelser i lov om miljøbeskyttelse.
 
@@ -23,3 +23,5 @@
 12) Lovændringen vedrører § 1, stk. 1 og 4, og § 3, stk. 1, 2, og 8.
 
 13) Lovændringen vedrører § 1, stk. 3-6 og 9, § 2 b, stk. 2, § 4 c, stk. 1, og § 7 b, stk. 1, 1. pkt.
+
+14) Lovændringen vedrører § 1, stk. 8-10, § 1, stk. 10, 1. pkt., § 2, stk. 9, § 2 a, stk. 4, 1. pkt., og stk. 7, 5. pkt., § 2 a, stk. 8, § 3, stk. 1 og 2, § 3, stk. 8, § 3 a-d, § 8, §§ 8 a-c, § 10 og §§ 10 a-c.
