@@ -22,7 +22,7 @@ Lov nr. 902 af 4. juli 2013 (Betalingsstruktur for vandafledningsbidrag, bemyndi
 
 § 2
 
-Skt. 1. Loven træder i kraft den 15. juli 2013, jf. dog stk. 2 og 3.
+Stk. 1. Loven træder i kraft den 15. juli 2013, jf. dog stk. 2 og 3.
 
 Stk. 2. § 1, nr. 1-3 og 5, træder i kraft den 1. januar 2014, jf. dog stk. 3.
 
@@ -59,3 +59,11 @@ Stk. 2. De hidtil gældende regler i § 1, stk. 5, i lov om betalingsregler for 
 Stk. 3. Klima-, energi- og forsyningsministeren kan fastsætte nærmere regler om overgangsordningen i stk. 2, herunder om, hvad der forstås ved en væsentlig irreversibel investering, og hvornår anlæggelsen af et projekt anses for påbegyndt, samt om anmeldelse af projekter til Forsyningssekretariatet, herunder anmeldelsernes form, og hvilke oplysninger og hvilken dokumentation anmeldelserne til Forsyningssekretariatet skal indeholde.
 
 Stk. 4. (Udelades)
+
+Lov nr. 668 af 11. juni 2024 (Styrkelse af økonomisk tilsyn og takstkontrol m.v. i vandsektoren) indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 6
+
+Stk. 1. Loven træder i kraft den 1. juli 2024, jf. dog stk. 2.
+
+Stk. 2. § 2, nr. 1-5 og 7-27, og § 3 træder i kraft den 1. januar 2025.
