@@ -1,11 +1,11 @@
-§ 15 b. Den registrerede ejer af skibet er forpligtet til at indbetale den skyldige afgift til Søfartsstyrelsen.
+§ 15 b. Registrerede ejere og noterede befragtere af skibe er forpligtet til at betale forfalden årlig afgift til Søfartsstyrelsen.
 
-Stk. 2. Ejes skibet af partredere, hæfter partrederne solidarisk for afgiftens betaling. Ejes skibet af kommanditselskaber, interessentskaber, interessentskabslignende samejer m.v., hæfter de ansvarlige deltagere eller ejere solidarisk for afgiftens betaling.
+Stk. 2. Ejes skibe af partredere, hæfter partrederne solidarisk for afgiftens betaling. Ejes skibe af kommanditselskaber, interessentskaber, interessentskabslignende samejer m.v., hæfter de ansvarlige deltagere eller ejere solidarisk for afgiftens betaling.
 
-Stk. 3. Er skibet registreret på baggrund af en bareboatbefragtningsaftale, påhviler afgiften den registrerede bareboatbefragter i registeret.
+Stk. 3. Årlig afgift forfalder hver den 1. marts og dækker perioden fra den 1. marts det pågældende år til den sidste dag i februar det efterfølgende år, jf. dog stk. 4.
 
-Stk. 4. Den årlige afgift forfalder til betaling hvert år den 1. marts og dækker perioden fra den 1. marts det pågældende år til den sidste dag i februar det efterfølgende år.
+Stk. 4. For skibe, som optages i et dansk register eller i fartøjsfortegnelsen, ændrer anvendelse eller opnår status som bevaringsværdigt i perioden fra den 1. marts og til udgangen af februar, forfalder en forholdsmæssig afgift for de hele måneder, skibet er registreret, indtil den førstkommende 1. marts.
 
-Stk. 5. Slettes et skib, der er betalt afgift for, fra registeret inden den 31. august, vil Søfartsstyrelsen efter forudgående ansøgning refundere halvdelen af den betalte afgift for det pågældende år. Ansøgning om refusion skal være Søfartsstyrelsen i hænde senest ved udgangen af det år, hvor skibet er slettet.
+Stk. 5. Udslettes et skib fra et dansk register eller fra fartøjsfortegnelsen, eller opnår det status som bevaringsværdigt inden den 1. marts, tilbagebetaler Søfartsstyrelsen indbetalt afgift for de hele måneder efter udslettelsestidspunktet og indtil den 1. marts det følgende afgiftsår.
 
-Stk. 6. Erhvervsministeren kan fastsætte regler om betalingsmåden, frister for indbetaling, erindringsskrivelser, gebyrer og renter samt regler om, at Søfartsstyrelsen kan eftergive eller frafalde krav på betaling af den årlige afgift.
+Stk. 6. Erhvervsministeren kan fastsætte regler om betaling af årlig afgift, herunder tidspunktet for betaling, betalingsmåden, frister for indbetaling, frister for tilbagebetaling, erindringsskrivelser, rykkergebyrer og renter, og regler om, at Søfartsstyrelsen kan eftergive eller frafalde krav på betaling.
