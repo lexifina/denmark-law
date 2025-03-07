@@ -1,5 +1,7 @@
-Energistyrelsen, den 16. august 2021
+Energistyrelsen, den 6. marts 2025
 
-Martin Hansen
+Peter Christian Baggesgaard Hansen
 
-/ Signe Schmidt
+/ Eskil Lykke Jacobsen
+
+Slutnoter
