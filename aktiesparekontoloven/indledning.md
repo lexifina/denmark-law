@@ -1,3 +1,3 @@
 Bekendtgørelse af aktiesparekontoloven
 
-Herved bekendtgøres aktiesparekontoloven, lov nr. 1429 af 5. december 2018, med de ændringer, der følger af § 2 i lov nr. 84 af 30. januar 2019, § 2 i lov nr. 1576 af 27. december 2019 og lov nr. 812 af 9. juni 2020.
+Herved bekendtgøres aktiesparekontoloven, jf. lovbekendtgørelse nr. 1852 af 21. september 2021, med de ændringer, der følger af § 1 i lov nr. 1563 af 12. december 2023 og § 2 i lov nr. 1691 af 30. december 2024.
