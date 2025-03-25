@@ -1,10 +1,8 @@
-Givet på Christiansborg Slot, den 11. juni 2024
+Skatteministeriet, den 20. marts 2025
 
-Under Vor Kongelige Hånd og Segl
+P.M.V. Merete Agergaard
 
-FREDERIK R.
-
-/ Jeppe Bruus
+/ Kathrine Waage
 
 Bilag 1
 

@@ -1,5 +1,3 @@
-Lov om afgift af CO2e-emissioner fra kvoteomfattede sektorer (emissionsafgiftsloven)
+Bekendtgørelse af lov om afgift af CO2e-emissioner fra kvoteomfattede sektorer (emissionsafgiftsloven)
 
-VI FREDERIK DEN TIENDE, af Guds Nåde Danmarks Konge, gør vitterligt:
-
-Folketinget har vedtaget og Vi ved Vort samtykke stadfæstet følgende lov:
+Herved bekendtgøres lov nr. 619 af 11. juni 2024 om afgift af CO2e-emissioner fra kvoteomfattede sektorer (emissionsafgiftsloven) med de ændringer, der følger af § 5 i lov nr. 1489 af 10. december 2024.
