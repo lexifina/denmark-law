@@ -1,0 +1,1 @@
+1) De ændringer, der følger af § 1, nr. 11, i lov nr. 168 af 29. februar 2020 og § 6, nr. 1, i lov nr. 2227 af 29. december 2020, var ved en fejl ikke indarbejdet korrekt i lovbekendtgørelse nr. 27 af 13. januar 2025. Disse fejl er nu rettet med denne lovbekendtgørelse.
