@@ -1,10 +1,8 @@
-Givet på Amalienborg, den 21. december 2020
+Skatteministeriet, den 20. marts 2025
 
-Under Vor Kongelige Hånd og Segl
+P.M.V. Merete Agergaard
 
-MARGRETHE R.
-
-/ Morten Bødskov
+/ Kathrine Waage
 
 Bilag 1
 
