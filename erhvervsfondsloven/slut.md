@@ -1,5 +1,5 @@
-Erhvervsstyrelsen, den 20. september 2019
+Erhvervsstyrelsen, den 20. marts 2025
 
-P.M.V. Henning Steensig Vicedirektør
+P.M.V. Jørgen Wissing Jensen
 
-/ Christine Maxner
+/ Søren Corfixsen Whitt
