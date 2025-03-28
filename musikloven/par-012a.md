@@ -1,3 +1,7 @@
+## Kapitel 4
+
+## (Ophævet)
+
 ## Kapitel 4 a
 
 ## Regnskab og revision
