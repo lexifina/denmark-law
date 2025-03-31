@@ -22,20 +22,6 @@ Stk. 2-7. (Udelades)
 
 Stk. 8. § 2, nr. 4, og § 3, nr. 2, finder anvendelse fra datoen for det første valg af en eller flere revisorer med henblik på revision af årsregnskabet efter lovens ikrafttræden. Aftaler om begrænsning af valget af en eller flere godkendte revisorer, der skal revidere årsregnskabet, og eventuelle suppleanter for disse til bestemte kategorier af eller lister over revisorer eller revisionsfirmaer bevarer deres gyldighed indtil datoen for det første valg af en eller flere revisorer.
 
-§ 13
-
-(Udelades)
-
-§ 14
-
-Erhvervsministeren fremsætter forslag om revision af hele eller dele af loven 2 år efter lovens ikrafttræden.
-
-§ 15
-
-Stk. 1. Loven gælder ikke for Færøerne og Grønland, jf. dog stk. 2.
-
-Stk. 2. Loven kan ved kongelig anordning helt eller delvis sættes i kraft for Grønland med de ændringer, som de grønlandske forhold tilsiger.
-
 Lov nr. 1547 af 13. december 2016 (Ændrede krav til ejerregistrering, betinget lovliggørelse af kapitalejerlån m.v.) indeholder følgende ikrafttrædelsesbestemmelser:
 
 § 3
@@ -45,10 +31,6 @@ Stk. 1. Loven træder i kraft den 1. januar 2017.
 Stk. 2. § 1, nr. 3-7, og § 2, nr. 1, har virkning for beslutninger om ydelse eller opretholdelse af økonomisk bistand, der træffes den 1. januar 2017 eller senere, jf. dog stk. 3.
 
 Stk. 3. Økonomisk bistand, der er ydet forud for den 1. januar 2017, og som var ulovlig efter de dagældende regler, kan lovliggøres, ved at selskabet senest på den førstkommende generalforsamling efter den 31. december 2016 træffer beslutning om at opretholde den økonomiske bistand som lovlig økonomisk bistand ved opfyldelse af betingelserne i § 1, nr. 4. Selskabet skal senest på tidspunktet for fristen for indsendelse af den første årsrapport, der indsendes efter den 31. december 2016, over for Erhvervsstyrelsen kunne dokumentere, at den økonomiske bistand opfylder betingelserne i § 1, nr. 4. I særlige tilfælde kan Erhvervsstyrelsen, uanset 1. og 2. pkt., påbyde et selskab at lovliggøre et forhold om økonomisk bistand ydet forud for den 1. januar 2017 straks og inden for en rimelig frist at dokumentere dette over for Erhvervsstyrelsen.
-
-§ 4
-
-Loven gælder ikke for Færøerne og Grønland, men kan ved en kongelig anordning helt eller delvis sættes i kraft for Grønland med de ændringer, som de grønlandske forhold tilsiger.
 
 Lov nr. 369 af 9. april 2019 (Gennemførelse af ændringer i aktionærrettighedsdirektivet om tilskyndelse til langsigtet aktivt ejerskab) indeholder følgende ikrafttrædelsesbestemmelser:
 
@@ -62,11 +44,7 @@ Stk. 3. §§ 139-139 b i selskabsloven som affattet ved denne lovs § 1, nr. 4, 
 
 Stk. 4. (Udelades)
 
-§ 10
-
-Loven gælder ikke for Færøerne og Grønland, men § 1 kan ved kongelig anordning helt eller delvis sættes i kraft for Grønland med de ændringer, som de grønlandske forhold tilsiger.
-
-Lov nr. 445 af 13. april 2019 (Afskaffelse af iværksætterselskaber og nedsættelse af minimumskrav til anpartsselskabers selskabskapital) indeholder følgende ikrafttrædelsesbestemmelse:
+Lov nr. 445 af 13. april 2019 (Afskaffelse af iværksætterselskaber og nedsættelse af minimumskrav til anpartsselskabers selskabskapital) indeholder følgende ikrafttrædelses- og overgangsbestemmelser:
 
 § 3
 
@@ -118,10 +96,6 @@ Stk. 1. Overtrædelse af § 4, stk. 5 og 7-9, straffes med bøde.
 
 Stk. 2. Der kan pålægges selskaber m.v. (juridiske personer) strafansvar efter reglerne i straffelovens 5. kapitel. Forældelsesfristen for overtrædelse af lovens bestemmelser er 5 år.
 
-§ 8
-
-Loven gælder ikke for Færøerne og Grønland, men §§ 1, 2 og 4-7 kan ved kongelig anordning helt eller delvis sættes i kraft for Grønland med de ændringer, som de grønlandske forhold tilsiger.
-
 Lov nr. 554 af 7. maj 2019 (Ændring af reglerne om reelle ejere som følge af 5. hvidvaskdirektiv) indeholder følgende ikrafttrædelsesbestemmelser:
 
 § 13
@@ -131,14 +105,6 @@ Stk. 1. Loven træder i kraft den 10. januar 2020, jf. dog stk. 2.
 Stk. 2. § 1, nr. 6 og 7, § 2, nr. 2, 7 og 8, § 3, nr. 6 og 7, § 4, nr. 2, § 17 c i SE-loven som affattet ved denne lovs § 4, nr. 6, § 5, nr. 3, § 14 c i SCE-loven som affattet ved denne lovs § 5, nr. 5, § 1 c i lov om administration af Det Europæiske Økonomiske Fællesskabs forordninger om indførelse af europæiske økonomiske firmagrupper som affattet ved denne lovs § 6, nr. 3, og § 6, nr. 4 og 5, træder i kraft den 1. juli 2019.
 
 Stk. 3. Regler fastsat i medfør af § 58 a, stk. 5, i selskabsloven, § 15 g, stk. 5, i lov om visse erhvervsdrivende virksomheder, § 21 a, stk. 4, i lov om erhvervsdrivende fonde, § 17 a, stk. 5, i lov om det europæiske selskab (SE-loven), § 14 a, stk. 5, i lov om det europæiske andelsselskab (SCE-loven), § 1 a, stk. 4, i lov om administration af Det Europæiske Økonomiske Fællesskabs forordninger om indførelse af europæiske økonomiske firmagrupper, § 23, stk. 6, § 81 b, stk. 4, § 85 b, stk. 4, og § 336 a, stk. 4, i lov om finansiel virksomhed, § 68, stk. 5, i lov om tilsyn med firmapensionskasser, § 136 a, stk. 5, i lov om forvaltere af alternative investeringsfonde m.v. og § 14 a, stk. 5, i lov om investeringsfonde m.v. forbliver i kraft, indtil de ophæves eller afløses af forskrifter udstedt i medfør af § 58 a, stk. 9, i selskabsloven, § 15 g, stk. 9, i lov om visse erhvervsdrivende virksomheder, § 21 a, stk. 8, i lov om erhvervsdrivende fonde, § 17 a, stk. 9, i lov om det europæiske selskab (SE-loven), § 14 a, stk. 9, i lov om det europæiske andelsselskab (SCE-loven), § 1 a, stk. 8, i lov om administration af Det Europæiske Økonomiske Fællesskabs forordninger om indførelse af europæiske økonomiske firmagrupper, § 23, stk. 10, § 81 b, stk. 8, § 85 b, stk. 8, og § 336 a, stk. 8, i lov om finansiel virksomhed, § 111, stk. 8, i lov om firmapensionskasser, § 136 a, stk. 9, i lov om forvaltere af alternative investeringsfonde m.v. og § 14 a, stk. 9, i lov om investeringsfonde m.v.
-
-§ 14
-
-Stk. 1. Loven gælder ikke for Færøerne og Grønland, men kan ved kongelig anordning helt eller delvis sættes i kraft for Færøerne og Grønland med de ændringer, som henholdsvis de færøske og de grønlandske forhold tilsiger, jf. dog stk. 2 og 3.
-
-Stk. 2. §§ 1-3, 8 og 12 kan ikke sættes i kraft for Færøerne.
-
-Stk. 3. (Udelades)
 
 Lov nr. 1374 af 13. december 2019 (Direkte debitering, håndtering af erstatningskrav i henhold til en byggeskadeforsikring tegnet i Qudos Insurance A/S, whistleblowerordning for virksomheder med begrænset tilladelse, revisors meddelelsespligt til Finanstilsynet og ændring af procedure ved indløsning af minoritetsaktionærer m.v.) indeholder følgende ikrafttrædelsesbestemmelser:
 
@@ -151,14 +117,6 @@ Stk. 2-4. (Udelades)
 Stk. 5. Selskabslovens § 72, stk. 1, 2. pkt., og § 72, stk. 2, som affattet ved denne lovs § 13, nr. 1 og 2, gælder ikke for minoritetskapitalejerne i kapitalselskaber, der har modtaget opfordringen til at overdrage deres kapitalandele til den indløsende kapitalejer, jf. selskabslovens § 70, stk. 1, før denne lovs ikrafttræden.
 
 Stk. 6 og 7. (Udelades)
-
-§ 20
-
-Stk. 1. Loven gælder ikke for Færøerne og Grønland, jf. dog stk. 2 og 3.
-
-Stk. 2. (Udelades)
-
-Stk. 3. §§ 1-8, 12, 13 og 18 kan ved kongelig anordning helt eller delvis sættes i kraft for Grønland med de ændringer, som de grønlandske forhold tilsiger.
 
 Lov nr. 642 af 19. maj 2020 (Kontrolpakken) indeholder følgende ikrafttrædelsesbestemmelser:
 
@@ -178,88 +136,64 @@ Stk. 9. Regler fastsat i medfør af selskabslovens § 18, stk. 3, jf. lovbekendt
 
 Stk. 10 og 11. (Udelades)
 
-§ 8
+Lov nr. 1553 af 12. december 2023 om ændring af selskabsloven, lov om skifte af dødsboer, værgemålsloven, retsplejeloven og forskellige andre love (Digital behandling af tvangsopløsningssager og dødsboskiftesager, øget antal byretsdommere, anerkendelse af juridiske eksamener fra Det Forenede Kongerige Storbritannien og Nordirland, terminaladgang til indkomstregisteret for Familieretshuset i værgemålssager m.v.) indeholder følgende ikrafttrædelses- og overgangsbestemmelser:
 
-Stk. 1. Loven gælder ikke for Færøerne og Grønland, jf. dog stk. 2 og 3.
+§ 13
 
-Stk. 2. (Udelades)
-
-Stk. 3. §§ 1-5 kan ved kongelig anordning helt eller delvis sættes i kraft for Grønland med de ændringer, som de grønlandske forhold tilsiger.
-
-Lov nr. 2199 af 29. december 2020 (Lempeligere krav til omregistrering af iværksætterselskaber til anpartsselskaber og bemyndigelse til midlertidig fravigelse af bestemmelser om fysisk fremmøde ved generalforsamling i virksomheders vedtægter eller tilsvarende aftaler i forbindelse med covid-19 m.v.) indeholder følgende ikrafttrædelsesbestemmelser:
-
-§ 4
-
-Stk. 1. Loven træder i kraft den 1. januar 2021, jf. dog stk. 2.
-
-Stk. 2. Erhvervsministeren fastsætter tidspunktet for ikrafttrædelsen af § 2.
-
-§ 5
-
-Stk. 1. Loven gælder ikke for Færøerne og Grønland, jf. dog stk. 2 og 3.
-
-Stk. 2. Loven kan ved kongelig anordning helt eller delvis sættes i kraft for Grønland med de ændringer, som de grønlandske forhold tilsiger.
-
-Stk. 3. § 1, stk. 1, nr. 2, og stk. 2, i lov om bemyndigelse til midlertidig fravigelse af virksomheders pligter på selskabs- og regnskabsområdet i forbindelse med covid-19 som affattet ved denne lovs § 3, nr. 2, kan ved kongelig anordning helt eller delvis sættes i kraft for Færøerne med de ændringer, som de færøske forhold tilsiger.
-
-Lov nr. 2601 af 28. december 2021 (Implementering af initiativer i aftale om politiets og anklagemyndighedens økonomi 2021-2023, herunder etablering af National Enhed for Særlig Kriminalitet) indeholder følgende ikrafttrædelsesbestemmelser:
-
-§ 23
-
-Loven træder i kraft den 1. januar 2022.
-
-§ 24
-
-Stk. 1. Loven gælder ikke for Færøerne og Grønland, jf. dog stk. 2 og 3.
-
-Stk. 2. §§ 3, 5, 8, 9 og 11-19 kan ved kongelig anordning helt eller delvis sættes i kraft for Grønland med de ændringer, som de grønlandske forhold tilsiger.
-
-Stk. 3. (Udelades)
-
-Lov nr. 568 af 10. maj 2022 (Skærpede krav om måltal og politikker for det underrepræsenterede køn) indeholder følgende ikrafttrædelsesbestemmelser:
-
-§ 11
-
-Stk. 1. Loven træder i kraft den 1. januar 2023.
+Stk. 1. Loven træder i kraft den 1. januar 2024, jf. dog stk. 2-4.
 
 Stk. 2. (Udelades)
 
-§ 12
-
-Stk. 1. Loven gælder ikke for Færøerne og Grønland, jf. dog stk. 2 og 3.
-
-Stk. 2. §§ 1-10 kan ved kongelig anordning helt eller delvis sættes i kraft for Grønland med de ændringer, som de grønlandske forhold tilsiger. Loven kan endvidere sættes i kraft på forskellige tidspunkter.
-
 Stk. 3. (Udelades)
 
-Lov nr. 569 af 10. maj 2022 (Styrket grænseoverskridende håndhævelse over for tjenesteudbydere etableret i øvrige EU-lande m.v.) indeholder følgende ikrafttrædelsesbestemmelser:
+Stk. 4. Justitsministeren fastsætter efter forhandling med erhvervsministeren tidspunktet for ikrafttræden af §§ 1-3.
 
-§ 7
+Stk. 5. §§ 1-3 finder ikke anvendelse på sager, som Erhvervsstyrelsen før bestemmelsernes ikrafttræden, jf. stk. 4, har oversendt til skifteretten, jf. § 225, stk. 1, i selskabsloven, § 115, stk. 1, i lov om erhvervsdrivende fonde og § 20 a, stk. 1, i lov om visse erhvervsdrivende virksomheder. For disse sager finder de hidtil gældende regler anvendelse.
 
-Stk. 1. Loven træder i kraft den 1. juli 2022, jf. dog stk. 2.
+Stk. 6. Domstolsstyrelsen kan fastsætte regler om, at §§ 1-3 efter bestemmelsernes ikrafttræden, jf. stk. 4, ikke finder anvendelse i bestemte retskredse og retsinstanser i en nærmere fastsat periode. I det omfang det efter 1. pkt. er fastsat, at lovens §§ 1-3 ikke finder anvendelse, finder de hidtil gældende regler anvendelse.
 
-Stk. 2. (Udelades)
+Stk. 7-10. (Udelades)
 
-§ 8
+Lov nr. 480 af 22. maj 2024 om ændring af årsregnskabsloven, revisorloven og forskellige andre love (Gennemførelse af EU-direktiv om virksomheders bæredygtighedsrapportering og EU-direktiv om forhøjelse af størrelsesgrænser i regnskabsdirektivet m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
 
-Stk. 1. Loven gælder ikke for Færøerne og Grønland, jf. dog stk. 2 og 3.
+§ 13
 
-Stk. 2. §§ 1-5 kan ved kongelig anordning helt eller delvis sættes i kraft for Grønland med de ændringer, som de grønlandske forhold tilsiger. Loven kan endvidere sættes i kraft på forskellige tidspunkter.
+Stk. 1. Loven træder i kraft den 1. juni 2024, jf. dog stk. 2 og 3.
 
-Stk. 3. (Udelades)
+Stk. 2-8. (Udelades)
 
-Lov nr. 243 af 7. marts 2023 (Implementering af mobilitetsdirektivet m.v.) indeholder følgende ikrafttrædelsesbestemmelser:
+Lov nr. 639 af 11. juni 2024 om ændring af lov om visse erhvervsdrivende virksomheder, selskabsloven, lov om finansiel virksomhed og forskellige andre love (Bedre vilkår for demokratiske virksomheder samt regler om frakendelse af retten til at være ledelsesmedlem som følge af digitaliseringsdirektivet) indeholder følgende ikrafttrædelsesbestemmelse:
 
-§ 9
+§ 6
 
-Stk. 1. Loven træder i kraft dagen efter bekendtgørelsen i Lovtidende, jf. dog stk. 2-5.
+Loven træder i kraft den 1. juli 2024.
 
-Stk. 2-5. (Udelades)
+Lov nr. 1602 af 17. december 2024 om kønsfordeling blandt ledelsesmedlemmer i visse store børsnoterede aktieselskaber (kønsbalanceloven) indeholder følgende ikrafttrædelses- og virkningsbestemmelser:
 
-§ 10
+§ 16. Loven træder i kraft den 28. december 2024.
 
-Stk. 1. Loven gælder ikke for Færøerne og Grønland, jf. dog stk. 2-4.
+Stk. 2. Loven har virkning for regnskabsår, der begynder den 1. januar 2025 eller senere.
 
-Stk. 2. §§ 1 og 8 kan ved kongelig anordning helt eller delvis sættes i kraft for Grønland med de ændringer, som de grønlandske forhold tilsiger. Dele af § 1 kan endvidere sættes i kraft på forskellige tidspunkter.
+Stk. 3. Første gang måltal opstilles i henhold til § 4, stk. 4, efter denne lov, skal tidshorisonten for den forventede opfyldelse være den 30. juni 2026 eller tidligere.
 
-Stk. 3 og 4. (Udelades)
+Lov nr. 1667 af 30. december 2024 om ændring af selskabsloven (Offentligt udbud af anparter og nedsættelse af minimumskrav til anpartsselskabers selskabskapital) indeholder følgende ikrafttrædelsesbestemmelser:
+
+§ 2
+
+Stk. 1. Loven træder i kraft den 1. januar 2025, jf. dog stk. 2.
+
+Stk. 2. Erhvervsministeren fastsætter tidspunktet for ikrafttrædelse af § 1, nr. 2.
+
+Lov nr. 1668 af 30. december 2024 om ændring af selskabsloven, årsregnskabsloven, lov om erhvervsfremme, lov om finansiel virksomhed og forskellige andre love (Ændring af visse love og bestemmelser på Erhvervsministeriets område som følge af opgavebortfald) indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 17
+
+Stk. 1. Loven træder i kraft den 1. januar 2025, jf. dog stk. 2.
+
+Stk. 2-6. (Udelades)
+
+Lov nr. 52 af 28. januar 2025 om uafhængige erklæringsudbydere vedrørende bæredygtighedsrapportering indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 66. Loven træder i kraft den 1. februar 2025, jf. dog stk. 2 og 3.
+
+Stk. 2-10. (Udelades)
