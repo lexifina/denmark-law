@@ -1,5 +1,5 @@
-Erhvervsstyrelsen, den 1. september 2023
+Erhvervsstyrelsen, den 20. marts 2025
 
-Jørgen Wissing Jensen
+P.M.V. Jørgen Wissing Jensen
 
 / Søren Corfixsen Whitt
