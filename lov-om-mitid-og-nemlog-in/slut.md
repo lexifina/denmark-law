@@ -1,7 +1,5 @@
-Givet på Christiansborg Slot, den 4. maj 2021
+Digitaliseringsministeriet, den 19. marts 2025
 
-Under Vor Kongelige Hånd og Segl
+Caroline Stage Olsen
 
-MARGRETHE R.
-
-/ Nicolai Wammen
+/ Tanja Franck
