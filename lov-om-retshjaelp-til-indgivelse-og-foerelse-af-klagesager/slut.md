@@ -1,7 +1,5 @@
-Givet på Christiansborg Slot, den 20. december 1999
+Justitsministeriet, den 28. marts 2025
 
-Under Vor Kongelige Hånd og Segl
+Peter Hummelgaard
 
-Margrethe R.
-
-/Frank Jensen
+/ Maria Aviaja Hesby Holm
