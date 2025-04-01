@@ -1,5 +1,3 @@
-Lov om MitID og NemLog-in
+Bekendtgørelse af lov om MitID og NemLog-in
 
-VI MARGRETHE DEN ANDEN, af Guds Nåde Danmarks Dronning, gør vitterligt:
-
-Folketinget har vedtaget og Vi ved Vort samtykke stadfæstet følgende lov:
+Herved bekendtgøres lov nr. 783 af 4. maj 2021 om MitID og NemLog-in med de ændringer, der følger af lov nr. 1559 af 12. december 2023.
