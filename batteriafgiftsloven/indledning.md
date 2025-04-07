@@ -1,3 +1,3 @@
 Bekendtgørelse af lov om afgift af hermetisk forseglede nikkel-cadmium-akkumulatorer (lukkede nikkel-cadmium-batterier)
 
-Herved bekendtgøres lov om afgift af hermetisk forseglede nikkel-cadmium-akkumulatorer (lukkede nikkel-cadmium-batterier), jf. lovbekendtgørelse nr. 886 af 12. juni 2020, med de ændringer, der følger af § 6 i lov nr. 1240 af 11. juni 2021 og § 3 i lov nr. 2616 af 28. december 2021.
+Herved bekendtgøres lov om afgift af hermetisk forseglede nikkel-cadmium-akkumulatorer (lukkede nikkel-cadmium-batterier), jf. lovbekendtgørelse nr. 820 af 30. maj 2022, med de ændringer, der følger af § 5 i lov nr. 755 af 13. juni 2023, § 5 i lov nr. 1795 af 28. december 2023 og § 7 i lov nr. 1797 af 28. december 2023.
