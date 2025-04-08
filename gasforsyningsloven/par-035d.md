@@ -1,5 +1,3 @@
-## Pristillæg til anvendelse af biogas
-
 ## Administration af pristillæg
 
 § 35 d. Enhver, der anmoder om pristillæg efter § 35 g, skal lade sig registrere hos klima-, energi- og forsyningsministeren og meddele nødvendige oplysninger af betydning for tildelingen af pristillægget til ministeren, jf. stk. 8. Oplysningerne indberettes til et register, som ministeren opretter.
