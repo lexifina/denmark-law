@@ -1,10 +1,8 @@
-Givet på Fredensborg Slot, den 2. maj 2023
+Skatteministeriet, den 3. april 2025
 
-Under Vor Kongelige Hånd og Segl
+P.M.V. Merete Agergaard
 
-MARGRETHE R.
-
-/ Jeppe Bruus
+/ Kathrine Waage
 
 Bilag 1
 

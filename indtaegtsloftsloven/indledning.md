@@ -1,5 +1,3 @@
-Lov om et loft over indtægter fra elproduktion
+Bekendtgørelse af lov om et loft over indtægter fra elproduktion
 
-VI MARGRETHE DEN ANDEN, af Guds Nåde Danmarks Dronning, gør vitterligt:
-
-Folketinget har vedtaget og Vi ved Vort samtykke stadfæstet følgende lov:
+Herved bekendtgøres lov nr. 456 af 2. maj 2023 om et loft over indtægter fra elproduktion med de ændringer, der følger af § 5 i lov nr. 1694 af 30. december 2024.
