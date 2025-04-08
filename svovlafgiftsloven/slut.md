@@ -1,8 +1,8 @@
-Skatteministeriet, den 22. april 2020
+Skatteministeriet, den 3. april 2025
 
-P.M.V. Jens Brøchner
+P.M.V. Merete Agergaard
 
-/ Claus Hansen
+/ Kathrine Waage
 
 Bilag 1
 
