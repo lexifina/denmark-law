@@ -1,0 +1,1 @@
+1) Loven indeholder bestemmelser, der gennemfører dele af Europa-Parlamentets og Rådets direktiv 2015/720/EU af 29. april 2015 om ændring af direktiv 94/62/EF med henblik på at mindske forbruget af letvægtsplastikbæreposer, EU-Tidende 2015, nr. L 115, side 11.
