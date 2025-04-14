@@ -1,12 +1,12 @@
-Skatteministeriet, den 17. april 2020
+Skatteministeriet, den 3. april 2025
 
-Jens Brøchner
+P.M.V. Merete Agergaard
 
-/ Claus Hansen
+/ Kathrine Waage
 
 Bilag 1
 
-Varer, hvor der ikke kan opnås godtgørelse ved anvendelse af afgiftspligtige stoffer efter § 3 a:
+Varer, hvor der ikke kan opnås godtgørelse ved anvendelsen af afgiftspligtige stoffer efter § 3 a:
 
 1) Husholdningskøleskabe og -frysere
 
@@ -52,4 +52,4 @@ Varer, hvor der ikke kan opnås godtgørelse ved anvendelse af afgiftspligtige s
 
 22) Sporgas
 
-Punkterne omfatter ikke mobile kølecontainere og køleanlæg beregnet til anvendelse i fly, skibe, fiskefartøjer og køretøjer. Airconditionanlæg til brug i personbiler, busser, vare- og lastbiler er dog omfattet.
+Punkterne omfatter ikke mobile kølecontainere og køleanlæg beregnet til anvendelse i fly, skibe, fiskerfartøjer og køretøjer. Airconditionanlæg til brug i personbiler, busser, vare- og lastbiler er dog omfattet.
