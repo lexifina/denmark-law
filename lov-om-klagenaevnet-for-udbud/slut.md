@@ -1,5 +1,7 @@
-Erhvervs- og Vækstministeriet, den 2. juni 2016
+Konkurrence- og Forbrugerstyrelsen, den 8. maj 2025
 
-Troels Lund Poulsen
+P.M.V. Jakob Hald
 
-/ Jakob Hald
+/ Kenneth Skov Jensen
+
+EU Noter
