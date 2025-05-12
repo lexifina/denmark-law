@@ -1,5 +1,7 @@
-Erhvervs- og Vækstministeriet, den 14. august 2015
+Finanstilsynet, den 7. maj 2025
 
-Troels Lund Poulsen
+Louise Mogensen
 
-/ Kristian Vie Madsen
+/ Karina Vilhof Ankergren
+
+EU Noter
