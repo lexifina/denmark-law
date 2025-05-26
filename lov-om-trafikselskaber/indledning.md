@@ -1,3 +1,3 @@
 Bekendtgørelse af lov om trafikselskaber
 
-Herved bekendtgøres lov om trafikselskaber, jf. lovbekendtgørelse nr. 215 af 1. marts 2023, med de ændringer, der følger af lov nr. 1571 af 12. december 2024.
+Herved bekendtgøres lov om trafikselskaber, jf. lovbekendtgørelse nr. 1041 af 17. september 2024, med de ændringer, der følger af § 3 i lov nr. 1475 af 10. december 2024.
