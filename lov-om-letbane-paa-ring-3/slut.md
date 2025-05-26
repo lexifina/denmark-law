@@ -1,4 +1,4 @@
-Transportministeriet, den 17. september 2024
+Transportministeriet, den 19. maj 2025
 
 Thomas Danielsen
 
@@ -11,3 +11,5 @@ Kort over letbanen på Ring 3
 Bilag 2
 
 Naturlokaliteter
+
+EU Noter
