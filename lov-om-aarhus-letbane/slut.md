@@ -1,10 +1,8 @@
-Givet på Amalienborg, den 16. maj 2012
+Transportministeriet, den 19. maj 2025
 
-Under Vor Kongelige Hånd og Segl
+Thomas Danielsen
 
-MARGRETHE R.
-
-/ Henrik Dam Kristensen
+/ Merete Houmann
 
 Bilag 1
 
@@ -21,3 +19,5 @@ Naturlokaliteter
 Bilag 4
 
 Kulturhistoriske forhold
+
+Slutnoter
