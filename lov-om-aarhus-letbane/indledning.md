@@ -1,5 +1,3 @@
-Lov om Aarhus Letbane
+Bekendtgørelse af lov om Aarhus Letbane
 
-VI MARGRETHE DEN ANDEN, af Guds Nåde Danmarks Dronning, gør vitterligt:
-
-Folketinget har vedtaget og Vi ved Vort samtykke stadfæstet følgende lov:
+Herved bekendtgøres lov nr. 432 af 16. maj 2012 om Aarhus Letbane med de ændringer, der følger af § 1 i lov nr. 155 af 18. februar 2015.
