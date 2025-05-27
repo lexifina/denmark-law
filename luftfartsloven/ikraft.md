@@ -34,15 +34,13 @@ Lov nr. 2399 af 14. december 2021 (Præcisering af rammerne for indskrænkninger
 
 § 4
 
-Stk. 1. Loven træder i kraft den 31. december 2021, jf. dog stk. 2-4.
+Stk. 1. Loven træder i kraft den 31. december 2021, jf. dog stk. 2 og 3.
 
 Stk. 2. (Udelades)
 
 Stk. 3. (Udelades)
 
-Stk. 4. Lovens § 1, nr. 9, træder i kraft den 1. januar 2025.
-
-Stk. 5. Regler fastsat i medfør af luftfartslovens § 70 a, stk. 2-4, jf. lovbekendtgørelse nr. 1149 af 13. oktober 2017, forbliver i kraft, indtil de ophæves eller afløses af forskrifter udstedt i medfør af luftfartslovens § 70 a, stk. 3-5.
+Stk. 4. Regler fastsat i medfør af luftfartslovens § 70 a, stk. 2-4, jf. lovbekendtgørelse nr. 1149 af 13. oktober 2017, forbliver i kraft, indtil de ophæves eller afløses af forskrifter udstedt i medfør af luftfartslovens § 70 a, stk. 3-5.
 
 § 5
 
@@ -61,3 +59,31 @@ Stk. 3. Regler fastsat i medfør af § 152, stk. 3, i lov om luftfart, jf. lovbe
 § 3
 
 Loven gælder ikke for Færøerne og Grønland, men kan ved kongelig anordning helt eller delvis sættes i kraft for Færøerne og Grønland med de ændringer, som henholdsvis de færøske og de grønlandske forhold tilsiger.
+
+Lov nr. 1474 af 10. december 2024 (Ændring af safetyafgiften og erstatningsansvarsgrænser, præcisering af bestemmelser vedrørende EU-/EØS-statsborgeres og EU-/EØS-selskabers registrering af luftfartøjer i Danmark m.v.) indeholder følgende ikrafttrædelsesbestemmelser:
+
+§ 4
+
+Stk. 1. Loven træder i kraft den 28. december 2024, jf. dog stk. 2.
+
+Stk. 2. § 1, nr. 1-16 og 21-29, og §§ 2 og 3 træder i kraft den 1. januar 2025.
+
+Stk. 3. Loven finder ikke anvendelse på ansøgninger om EU- eller EØS-statsborgeres eller EU- eller EØS-selskaber m.v.s (juridiske personers) registrering af luftfartøjer i Nationalitetsregistret indgivet før den 1. januar 2025. For sådanne ansøgninger finder de hidtil gældende regler anvendelse.
+
+Stk. 4. Luftfartsloven, jf. lovbekendtgørelse nr. 76 af 24. januar 2024, og regler fastsat i medfør heraf forbliver i kraft for Grønland, indtil loven ophæves eller afløses for Grønland af regler fastsat i medfør af luftfartslovens § 158, stk. 1, 1. pkt., som affattet ved dennes lovs § 1, nr. 29.
+
+§ 5
+
+Stk. 1. Loven gælder ikke for Færøerne og Grønland.
+
+Stk. 2. Loven kan ved kongelig anordning helt eller delvis sættes i kraft for Færøerne og Grønland med de ændringer, som henholdsvis de færøske og de grønlandske forhold tilsiger.
+
+Lov nr. 1669 af 30. december 2024 (Tredje og sidste del af udmøntning af forebyggelsesplanen målrettet børn og unge – tobak, nikotin og alkohol) indeholder følgende ikrafttrædelsesbestemmelser:
+
+§ 12
+
+Stk. 1. Loven træder i kraft den 1. januar 2025, jf. dog stk. 2-5.
+
+Stk. 2. § 2, nr. 1, 5, 8 og 12, § 3, nr. 5, 6 og 8-10, og §§ 5 og 8-11 træder i kraft den 1. april 2025.
+
+Stk. 3-10. (Udelades)

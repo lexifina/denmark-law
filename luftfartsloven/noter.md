@@ -6,4 +6,8 @@
 
 4) Lovændringen vedrører § 3, § 70 a, stk. 2, 5, 6 og 7, § 75, stk. 1, § 148, stk. 1 og § 153, stk. 2-5.
 
-5) Lovændringen vedrører § 2, § 20, stk. 3, § 21, stk. 2 og 3, § 130, stk. 1 og 3, § 134 a, stk. 1, § 136, stk. 1 og 3, § 137, stk. 1, § 138, stk. 1 og 2, § 139, stk. 1 og 2, § 140, stk. 3 og 5, § 142, stk. 1 og 2, § 143, stk 1 og 3, § 144, § 144 a, § 144 b, § 149, stk. 4, § 152, stk. 2 og 4, og § 153 b.
+5) Lovændringen vedrører § 2, § 20, stk. 3, § 21, stk. 2 og 3, § 130, stk. 1 og 3, § 134 a, stk. 1, § 136, stk. 1 og 3, § 137, stk. 1, § 138, stk. 1 og 2, § 139, stk. 1 og 2, § 140, stk. 3 og 5, § 142, stk. 1 og 2, § 143, stk. 1 og 3, § 144, § 144 a, § 144 b, § 149, stk. 4, § 152, stk. 2 og 4, og § 153 b.
+
+6) Lovændringen vedrører § 5 a, § 6, stk. 1-3, § 7, stk. 1, nr. 2, § 12, stk. 2, § 14, stk. 1, 1. pkt., og stk. 2, § 16, stk. 1 og 2, § 17, stk. 1 og 2, § 19, stk. 2, § 20, stk. 1, § 21, stk. 1, 1. pkt., og stk. 2 og 4, § 22, stk. 3, § 57, stk. 2, nr. 1, § 111, stk. 1-5 og 9, § 146 a, stk. 1, § 148, stk. 1, 2, 4 og 5, § 149, stk. 7, 1. pkt., og stk. 11, § 149 a, stk. 1 og 2, og § 158, stk. 1, 1. pkt.
+
+7) Lovændringen vedrører § 150 f, stk. 1, 1. pkt.
