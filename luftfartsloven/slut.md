@@ -1,8 +1,8 @@
-Transportministeriet, den 31. januar 2024
+Transportministeriet, den 19. maj 2025
 
 Thomas Danielsen
 
-/ Christian Løvenbalck Haxthausen
+/ Mette Langhoff
 
 Bilag 1
 
@@ -195,3 +195,5 @@ Stk. 2. For de befordringsaftaler, der omhandles i stk. 1, 1. punktum, gælder f
 Stk. 3. Ved SDR forstås den i § 111, stk. 5, omhandlede regningsenhed.
 
 § 126. Bestemmelserne i §§ 119 a-119 f, § 121, stk. 2, 2. og 3. punktum, og § 126, stk. 1, gælder kun, i det omfang, de er forenelige med traktatmæssige forpligtelser over for stater, der ikke har ratificeret eller tiltrådt Guadalajara-konventionen af 18. september 1961 om international luftbefordring, der udføres af en anden befordrer end den, der har indgået befordringsaftalen.
+
+Slutnoter
