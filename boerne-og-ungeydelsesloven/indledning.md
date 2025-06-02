@@ -1,3 +1,3 @@
 Bekendtgørelse af lov om en børne- og ungeydelse
 
-Herved bekendtgøres lov om en børne- og ungeydelse, jf. lovbekendtgørelse nr. 609 af 3. juni 2016, med de ændringer, der følger af § 14 i lov nr. 674 af 8. juni 2017, § 2 i lov nr. 1402 af 5. december 2017, § 2 i lov nr. 1529 af 18. december 2018, § 4 i lov nr. 278 af 26. marts 2019 og § 1 i lov nr. 1944 af 15. december 2020.
+Herved bekendtgøres lov om en børne- og ungeydelse, jf. lovbekendtgørelse nr. 724 af 25. maj 2022, med de ændringer, der følger af § 2 i lov nr. 1389 af 5. oktober 2022, § 44 i lov nr. 753 af 13. juni 2023, § 6 i lov nr. 174 af 27. februar 2024, § 4 i lov nr. 482 af 22. maj 2024, § 4 i lov nr. 632 af 11. juni 2024 og § 8 i lov nr. 665 af 11. juni 2024.
