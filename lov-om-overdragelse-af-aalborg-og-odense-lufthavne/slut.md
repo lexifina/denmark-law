@@ -1,9 +1,7 @@
-Givet på Christiansborg Slot, den 28. april 1997
+Transportministeriet, den 19. maj 2025
 
-Under Vor Kongelige Hånd og Segl
+Thomas Danielsen
 
-MARGRETHE R.
+/ Mette Langhoff
 
-/ Bjørn Westh
-
-Ingen
+Slutnoter
