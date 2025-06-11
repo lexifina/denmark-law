@@ -1,3 +1,3 @@
-Lov om ekspropriationer under ministeriet for offentlige arbejder
+Bekendtgørelse af lov om ekspropriationer under Trafikministeriet
 
-VI FREDERIK DEN NIENDE, af Guds Nåde Konge til Danmark, de Venders og Goters, Hertug til Slesvig, Holsten, Stormarn, Ditmarsken, Lauenborg og Oldenborg, gør vitterligt. Folketinget har vedtaget og Vi ved Vort samtykke stadfæstet følgende lov:
+Herved bekendtgøres lov nr. 96 af 31. marts 1965 om ekspropriationer under Trafikministeriet med de ændringer, der følger af § 10 i lov nr. 393 af 10. juni 1997, § 4 i lov nr. 155 af 12. marts 2003 og § 127 i lov nr. 686 af 27. maj 2015.
