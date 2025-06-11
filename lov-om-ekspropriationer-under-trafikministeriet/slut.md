@@ -1,9 +1,7 @@
-Givet på Christiansborg slot, den 31. marts 1965.
+Transportministeriet, den 19. maj 2025
 
-Under Vor Kongelige Hånd og Segl.
+Thomas Danielsen
 
-FREDERIK R.
+/ Hans Christian Holdt
 
-/Kai Lindberg.
-
-Ingen
+Slutnoter
