@@ -9,7 +9,3 @@ Stk. 4. Nedsættelsen af tilbagebetaling af afgift efter § 10 a gælder ikke fo
 Stk. 5. Det er en betingelse for anvendelse af stk. 1-4, at varmen og varerne anvendes direkte til processer, som er nævnt i bilag 1 til lov om kuldioxidafgift af visse energiprodukter.
 
 Stk. 6. En forholdsmæssig del af afgiften kan henregnes under stk. 1-4 i de tilfælde, hvor samme anlæg forsyner såvel anvendelser omfattet af stk. 1-4 som andre anvendelser i virksomheden, når en sådan fordeling kan opgøres. Reglerne for fordeling i § 10, stk. 5, nr. 4, finder tilsvarende anvendelse.
-
-Stk. 7. For nyttiggjort overskudsvarme fra varme og varer, for hvilke stk. 1-4 finder anvendelse, nedsættes den samlede tilbagebetaling af afgift efter § 10, stk. 9, 1. pkt., alene med 54,5 kr. pr. GJ varme. Satsen reguleres efter § 32 a i lov om energiafgift af mineralolieprodukter m.v.
-
-Stk. 8. For nyttiggjort overskudsvarme vedrørende eget kraft-varme-anlæg fra varme og varer, på hvilke stk. 1-4 finder anvendelse, nedsættes den samlede tilbagebetaling af afgift efter § 10, stk. 9, 2. pkt., alene med 45,4 kr. pr. GJ varme. Satsen reguleres efter § 32 a i lov om energiafgift af mineralolieprodukter m.v.
