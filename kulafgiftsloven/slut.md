@@ -1,46 +1,14 @@
-Skatteministeriet, den 1. juli 2020
+Skatteministeriet, den 28. maj 2025
 
-P.M.V. Jens Brøchner
+P.M.V. Merete Agergaard
 
-/ Claus Hansen
+/ Kathrine Waage
 
 Bilag 1
 
 Centrale kraftværker og kraft-varme-værker
 
-H C Ørstedsværket
-
-Svanemølleværket
-
-Amagerværket
-
-Avedøreværket
-
-Kyndbyværket
-
-Asnæsværket
-
-Stigsnæsværket
-
-Masnedøværket
-
-Fynsværket
-
-Enstedværket, inkl. Blok 3
-
-Vestkraft, Esbjerg- og Herningværkerne
-
-Midtkraft, Studstrup- og Århusværkerne
-
-Randersværket
-
-Nordjyllandsværket
-
-Vendsysselværket
-
-Skærbækværket
-
-Østkraft, Rønneværket
+Amagerværket Fynsværket Asnæsværket Herningværket Avedøreværket Randersværket H. C. Ørstedsværket Skærbækværket Kyndbyværket Nordjyllandsværket Svanemølleværket Studstrupværket Stigsnæsværket Esbjergværket Enstedværket, inkl. Blok 3 Rønneværket
 
 Bilag 2
 
