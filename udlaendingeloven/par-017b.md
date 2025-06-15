@@ -1,0 +1,1 @@
+§ 17 b. En afgørelse om bortfald af en opholdstilladelse efter § 7 og § 8, stk. 1 og 2, skal tillige indeholde en stillingtagen til, om udlændingen i henhold til internationale forpligtelser skal bevare sin opholdstilladelse eller meddeles en ny opholdstilladelse efter § 7.
