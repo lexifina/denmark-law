@@ -1,4 +1,4 @@
-§ 4 a. Styrelsen for Dataforsyning og Infrastruktur kan fastsætte regler med henblik på at forpligte udbydere af elektroniske kommunikationsnet eller -tjenester og udbydere af nummeruafhængige interpersonelle kommunikationstjenester til at sikre en række grundlæggende slutbrugerrettigheder i forbindelse med aftaler om levering af net eller tjenester, herunder regler om:
+§ 4 a. Digitaliseringsstyrelsen kan fastsætte regler med henblik på at forpligte udbydere af elektroniske kommunikationsnet eller -tjenester og udbydere af nummeruafhængige interpersonelle kommunikationstjenester til at sikre en række grundlæggende slutbrugerrettigheder i forbindelse med aftaler om levering af net eller tjenester, herunder regler om:
 
 1) Gennemsigtighed, sammenligning af tilbud og offentliggørelse af oplysninger.
 
