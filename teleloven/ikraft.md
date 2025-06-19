@@ -10,7 +10,7 @@ Lov nr. 1567 af 15. december 2015 om net- og informationssikkerhed indeholder f�
 
 § 15. Loven træder i kraft den 1. juli 2016.
 
-Lov nr. 203 af 28. februar 2017 (Udeblivelsesdomme, forkyndelse og anvendelse af digital kommunikation i straffesager m.v.) indeholder følgende ikrafttrædelsesbestemmelser:
+Lov nr. 203 af 28. februar 2017 (Udeblivelsesdomme, forkyndelse og anvendelse af digital kommunikation i straffesager m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
 
 § 4
 
@@ -18,7 +18,7 @@ Stk. 1. Loven træder i kraft den 1. marts 2017.
 
 Stk. 2-3. (Udelades)
 
-Lov nr. 503 af 23. maj 2018 (Konsekvensændringer som følge af databeskyttelsesloven og databeskyttelsesforordningen samt medieansvarslovens anvendelse på offentligt tilgængelige informationsdatabaser m.v.) indeholder følgende ikrafttrædelsesbestemmelser:
+Lov nr. 503 af 23. maj 2018 (Konsekvensændringer som følge af databeskyttelsesloven og databeskyttelsesforordningen samt medieansvarslovens anvendelse på offentligt tilgængelige informationsdatabaser m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
 
 § 32
 
@@ -32,7 +32,7 @@ Stk. 1. Lovens §§ 4-25 og 29 gælder ikke for Færøerne, men lovens §§ 4, 8
 
 Stk. 2-5. (Udelades)
 
-Lov nr. 1531 af 18. december 2018 (Kommuners tilskud til udrulning af elektroniske kommunikationsnet, tildeling af koder til machine to machine-kommunikation (m2m-kommunikation) og ophævelse af regler om Bredbåndsgarantiordningen) indeholder følgende ikrafttrædelsesbestemmelser:
+Lov nr. 1531 af 18. december 2018 (Kommuners tilskud til udrulning af elektroniske kommunikationsnet, tildeling af koder til machine to machine-kommunikation (m2m-kommunikation) og ophævelse af regler om Bredbåndsgarantiordningen) indeholder følgende ikrafttrædelsesbestemmelse:
 
 § 2
 
@@ -40,13 +40,13 @@ Stk. 1. Loven træder i kraft den 1. januar 2019, jf. dog stk. 2.
 
 Stk. 2. Klima-, energi- og forsyningsministeren fastsætter tidspunktet for ikrafttrædelsen af § 1, nr. 8.
 
-Lov nr. 1830 af 8. december 2020 (Etablering af mobilbaseret varslingssystem) indeholder følgende ikrafttrædelsesbestemmelser:
+Lov nr. 1830 af 8. december 2020 (Etablering af mobilbaseret varslingssystem) indeholder følgende ikrafttrædelsesbestemmelse:
 
 § 2
 
 Loven træder i kraft den 21. december 2020.
 
-Lov nr. 1833 af 8. december 2020 (Implementering af direktiv om oprettelse af en europæisk kodeks for elektronisk kommunikation (omarbejdning) m.v.) indeholder følgende ikrafttrædelsesbestemmelser:
+Lov nr. 1833 af 8. december 2020 (Implementering af direktiv om oprettelse af en europæisk kodeks for elektronisk kommunikation (omarbejdning) m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
 
 § 7
 
@@ -66,7 +66,7 @@ Lov nr. 285 af 27. februar 2021 om epidemier m.v. indeholder følgende ikrafttr�
 
 Stk. 2-4. (Udelades)
 
-Lov nr. 1176 af 8. juni 2021 (Tilpasning af kontrolbeføjelser m.v. i overensstemmelse med Europa-Parlamentets og Rådets forordning 1020/2019/EU af 20. juni 2019 om markedsovervågning og produktoverensstemmelse og om ændring af direktiv 2004/42/EF og forordning 765/2008/EF og 305/2011/EU m.v.) indeholder følgende ikrafttrædelsesbestemmelser:
+Lov nr. 1176 af 8. juni 2021 (Tilpasning af kontrolbeføjelser m.v. i overensstemmelse med Europa-Parlamentets og Rådets forordning 1020/2019/EU af 20. juni 2019 om markedsovervågning og produktoverensstemmelse og om ændring af direktiv 2004/42/EF og forordning 765/2008/EF og 305/2011/EU m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
 
 § 5
 
@@ -84,7 +84,7 @@ Lov nr. 2601 af 28. december 2021 (Implementering af initiativer i aftale om pol
 
 Loven træder i kraft den 1. januar 2022.
 
-Lov nr. 2605 af 28. december 2021 (Tariffer, udfasning af PSO, forenkling af bevillingskrav for VE-elproduktion, justering af netvirksomheders økonomiske regulering, opfølgning på konkurrenceanalyse, tilbagelevering af digitalt tv-udstyr m.v.) indeholder følgende ikrafttrædelsesbestemmelser:
+Lov nr. 2605 af 28. december 2021 (Tariffer, udfasning af PSO, forenkling af bevillingskrav for VE-elproduktion, justering af netvirksomheders økonomiske regulering, opfølgning på konkurrenceanalyse, tilbagelevering af digitalt tv-udstyr m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
 
 § 6
 
@@ -99,3 +99,13 @@ Lov nr. 291 af 8. marts 2022 (Revision af reglerne om registrering og opbevaring
 Stk. 1. Justitsministeren fastsætter tidspunktet for lovens ikrafttræden.
 
 Stk. 2-5. (Udelades)
+
+Lov nr. 1555 af 12. december 2023 (Universalopladere til mobiltelefoner m.v., regler om kommunal støtte til bredbåndsudrulning, indhentning af oplysninger om elforbrug og indberetning af oplysninger om datacentres energimæssige ydeevne m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 6
+
+Stk. 1. Loven træder i kraft den 28. december 2023, jf. dog stk. 2.
+
+Stk. 2. Klima-, energi- og forsyningsministeren fastsætter tidspunktet for ikrafttrædelse af denne lovs § 2, nr. 16, og § 3, nr. 1-4 og 7-9.
+
+Stk. 3. (Udelades)

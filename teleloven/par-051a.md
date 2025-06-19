@@ -14,4 +14,4 @@ Stk. 5. Erhvervsstyrelsens ansatte må ikke videregive oplysninger vedrørende s
 
 Stk. 6. Beregning af omsætningen efter stk. 1 sker i overensstemmelse med regler fastsat i henhold til konkurrencelovens § 12, stk. 4.
 
-Stk. 7. Klima-, energi- og forsyningsministeren kan fastsætte nærmere regler om meddelelse af fusioner, jf. stk. 1, og procedurer og tidsfrister for Erhvervsstyrelsens behandling af en meddelt fusion.
+Stk. 7. Digitaliseringsministeren kan fastsætte nærmere regler om meddelelse af fusioner, jf. stk. 1, og procedurer og tidsfrister for Erhvervsstyrelsens behandling af en meddelt fusion.

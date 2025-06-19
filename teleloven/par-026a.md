@@ -1,1 +1,1 @@
-§ 26 a. Klima-, energi- og forsyningsministeren kan fastsætte regler om, at udbydere af elektroniske kommunikationsnet eller -tjenester, som udbyder machine to machine-kommunikationstjenester, skal understøtte, at slutbrugere trådløst kan foretage skifte mellem udbydere.
+§ 26 a. Digitaliseringsministeren kan fastsætte regler om, at udbydere af elektroniske kommunikationsnet eller -tjenester, som udbyder machine to machine-kommunikationstjenester, skal understøtte, at slutbrugere trådløst kan foretage skifte mellem udbydere.

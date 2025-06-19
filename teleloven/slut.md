@@ -1,8 +1,8 @@
-Styrelsen for Dataforsyning og Infrastruktur, den 17. juni 2022
+Digitaliseringsstyrelsen, den 16. juni 2025
 
-Kristian Møller
+Lars BønLøkke Lé
 
-/ Robert Lindgaard
+/ Thomas Ilum Damsgaard
 
 Bilag 1
 
@@ -37,3 +37,5 @@ d) Saminvesteringsaftalen skal give mulighed for, at medinvestorer kan overdrage
 e) Medinvestorerne skal på fair og rimelige vilkår og betingelser give hinanden gensidige rettigheder til adgang til den saminvesteringsomfattede infrastruktur med henblik på udbud af tjenester i de efterfølgende led, herunder til slutbrugere, på transparente betingelser, som skal være transparente i saminvesteringstilbuddet og efterfølgende aftaler, særlig når medinvestorer individuelt og særskilt har ansvaret for udrulningen af bestemte dele af nettet. Hvis der oprettes et saminvesteringsorgan, skal det give alle medinvestorer adgang til nettet, uanset om det er direkte eller indirekte, på equivalence of inputs-basis og på fair og rimelige vilkår og betingelser, herunder finansielle betingelser, der afspejler de forskellige risikoniveauer, som de enkelte medinvestorer har accepteret.
 
 4) Saminvesteringstilbuddet skal sikre en bæredygtig investering, der sandsynligvis vil kunne dække fremtidige behov, ved at udrulle nye netelementer, som i væsentlig grad bidrager til udrulningen af net med meget høj kapacitet.
+
+EU Noter

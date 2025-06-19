@@ -12,6 +12,6 @@ Stk. 4. Den offentlige myndighed skal købe etablering og drift af den trådløs
 
 Stk. 5. Adgang til internettet efter stk. 1 må maksimalt gives i 1 time pr. døgn pr. stykke udstyr.
 
-Stk. 6. Den offentlige myndighed skal for at kunne stille en trådløs adgang til internettet til rådighed efter stk. 2, nr. 2, give klima-, energi- og forsyningsministeren meddelelse herom, inden for 45 dage efter at det er konstateret, at myndigheden ikke har opnået hel eller delvis støtte fra Europa-Kommissionen.
+Stk. 6. Den offentlige myndighed skal for at kunne stille en trådløs adgang til internettet til rådighed efter stk. 2, nr. 2, give digitaliseringsministeren meddelelse herom, inden for 45 dage efter at det er konstateret, at myndigheden ikke har opnået hel eller delvis støtte fra Europa-Kommissionen.
 
-Stk. 7. Klima-, energi- og forsyningsministeren kan fastsætte regler om begrænsninger i den trådløse adgang til internettet efter stk. 2, herunder tidsmæssige begrænsninger eller begrænsninger i datamængde.
+Stk. 7. Digitaliseringsministeren kan fastsætte regler om begrænsninger i den trådløse adgang til internettet efter stk. 2, herunder tidsmæssige begrænsninger eller begrænsninger i datamængde.
