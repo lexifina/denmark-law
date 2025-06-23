@@ -1,10 +1,8 @@
 Bekendtgørelse af søloven
 
-Herved bekendtgøres søloven, jf. lovbekendtgørelse nr. 1505 af 17. december 2018, med de ændringer, der følger af § 1, nr. 2-9, 12-16, 19-22, 23 (delvis), 24 og 26, i lov nr. 526 af 7. juni 2006, § 1 i lov nr. 205 af 5. marts 2019 og § 2 i lov nr. 569 af 10. maj 2022.
+Herved bekendtgøres søloven, jf. lovbekendtgørelse nr. 1013 af 29. juni 2023, med de ændringer, der følger af § 3 i lov nr. 199 af 25. februar 2025.
 
 De ændringer, der følger af § 1, nr. 2, 30, 34, 40 og 42, i lov nr. 599 af 24. juni 2005, er ikke indarbejdet i denne lovbekendtgørelse, da tidspunktet for ikrafttræden af disse ændringer fastsættes af erhvervsministeren, jf. § 2 i lov nr. 599 af 24. juni 2005.
-
-De ændringer, der følger af § 1, nr. 10, 17 og 18 (delvis), i lov nr. 526 af 7. juni 2006, er ikke indarbejdet i denne lovbekendtgørelse, da ændringerne efterfølgende er ophævet, jf. § 3 i lov nr. 569 af 10. maj 2022.
 
 Den ændring, der følger af § 13, nr. 2, i lov nr. 1563 af 20. december 2006, er ikke indarbejdet i denne lovbekendtgørelse, da tidspunktet for ikrafttræden af denne ændring fastsættes af erhvervsministeren, jf. § 10 i lov nr. 1563 af 20. december 2006.
 
