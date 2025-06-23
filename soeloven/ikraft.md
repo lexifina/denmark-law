@@ -51,3 +51,9 @@ Stk. 2. Er der registreret pant, brugsrettigheder eller andre rettigheder i et f
 Stk. 3. Anmelder fartøjets ejer efter den 1. marts 2018, at fartøjet er overdraget til en anden, noteres det i skibsregisteret, at den registrerede ejer ikke længere er berettiget til at råde over fartøjet.
 
 Stk. 4. Anmeldes det til skibsregisteret, at fartøjet skal anvendes erhvervsmæssigt, sidestilles dette med en anmeldelse om optagelse i skibsregisteret. De rettigheder, der er stiftet før registreringen, bevarer deres gyldighed over for tredjemand, såfremt de herom gældende regler er iagttaget.
+
+Lov nr. 199 af 25. februar 2025 (Frakendelse af retten til at arbejde på danske skibe for søfarende, der begår personfarlig kriminalitet om bord eller i relation til tjenesten, ny uddannelse for færgenavigatører, justering af årlig afgift for skibe og ikraftsættelse for Grønland af ændringer af søloven og lov om sikkerhed til søs) indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 7
+
+Loven træder i kraft den 27. februar 2025.

@@ -1,5 +1,7 @@
-Søfartsstyrelsen, den 29. juni 2023
+Søfartsstyrelsen, den 18. juni 2025
 
 Kristina Ravn
 
-/ Mikkel B. Stenalt
+/ Mette Rosager
+
+EU Noter
