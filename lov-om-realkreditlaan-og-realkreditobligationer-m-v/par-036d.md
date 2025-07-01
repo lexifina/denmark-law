@@ -1,1 +1,1 @@
-§ 36 d. Finanstilsynet fastsætter nærmere regler om realkreditinstitutternes offentliggørelse af oplysninger til brug for investorernes vurdering af egenskaber og risici ved de udstedte realkreditobligationer, særligt dækkede realkreditobligationer og særligt dækkede obligationer.
+§ 36 d. Finanstilsynet fastsætter nærmere regler om realkreditinstitutternes offentliggørelse og indsendelse af oplysninger til brug for investorernes vurdering af egenskaber og risici ved de udstedte realkreditobligationer, særligt dækkede realkreditobligationer og særligt dækkede obligationer.
