@@ -1,1 +1,1 @@
-§ 4 a. Lov om miljøvurdering af planer og programmer og af konkrete projekter (VVM) finder ikke anvendelse på projekter eller dele af projekter, der er omfattet af denne lov eller regler udstødt i medfør heraf.
+§ 4 a. Lov om miljøvurderinger finder ikke anvendelse på projekter eller dele af projekter, der er omfattet af denne lov eller regler udstødt i medfør heraf.
