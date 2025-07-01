@@ -1,0 +1,1 @@
+1) Loven gennemfører Europa-Parlamentets og Rådets direktiv (EU) 2022/2557 af 14. december 2022 om kritiske enheders modstandsdygtighed og om ophævelse af Rådets direktiv 2008/114/EF (CER-direktivet), EU-Tidende 2022, nr. L 333, side 164.
