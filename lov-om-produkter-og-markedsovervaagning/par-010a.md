@@ -1,0 +1,1 @@
+§ 10 a. Kontrolmyndigheden kan som led i kontrollen med overholdelse af reglerne i denne lov, regler fastsat i medfør af denne lov eller forordninger omfattet af denne lovs anvendelsesområde gøre brug af fiktive profiler på kommunikationsplatforme.
