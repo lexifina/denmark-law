@@ -12,13 +12,13 @@ Stk. 3. En udlænding kan ikke få visum efter § 4, stk. 1, i 5 år, hvis udlæ
 
 Stk. 4. Stk. 3, nr. 3, finder ikke anvendelse, hvis
 
-1) udlændingen ansøger om opholdstilladelse efter § 9, stk. 1, nr. 1 eller 2,
+1) udlændingen ansøger om opholdstilladelse efter § 9, stk. 1, nr. 1, 2 eller 4,
 
 2) udlændingen ansøger om opholdstilladelse efter § 9 c, stk. 1, på grundlag af en sådan familiemæssig tilknytning, der er nævnt i § 9, stk. 1, nr. 1 eller 2,
 
-3) udlændingen ansøger om opholdstilladelse efter § 9 i, stk. 1, med henblik på at studere eller § 9 i, stk. 2, med henblik på at deltage i en ph.d.-uddannelse,
+3) udlændingen ansøger om opholdstilladelse efter § 9 i, stk. 1 eller 3, med henblik på at studere eller § 9 i, stk. 2, med henblik på at deltage i en ph.d.-uddannelse,
 
-4) udlændingen ansøger om opholdstilladelse efter § 9 c, stk. 4,
+4) udlændingen ansøger om opholdstilladelse efter § 9 c, stk. 3,
 
 5) udlændingen ansøger om opholdstilladelse efter § 9 a, stk. 2, nr. 1-10, 13 eller 14, eller stk. 3,
 
