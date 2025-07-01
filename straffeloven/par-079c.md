@@ -1,10 +1,10 @@
-§ 79 c. Den, som idømmes fængselsstraf eller anden strafferetlig retsfølge af frihedsberøvende karakter for en overtrædelse af §§ 119, 119 b, 123, 134 a, 191 og 192 a, § 244, stk. 1, §§ 245 og 246, § 252, stk. 1, § 260, stk. 1, § 261, stk. 1, og §§ 266, 288 og 291, af lovgivningen om euforiserende stoffer, af lovgivningen om våben og eksplosivstoffer eller af lovgivningen om knive og blankvåben, kan ved dommen gives opholdsforbud efter stk. 2.
+§ 79 c. Den, som idømmes fængselsstraf eller anden strafferetlig retsfølge af frihedsberøvende karakter for en overtrædelse af §§ 119, 119 b, 123, 134 a, 191, 192 a og 216, § 225, jf. § 216, § 232, § 244, stk. 1, §§ 245 og 246, § 252, stk. 1, § 260, stk. 1, § 261, stk. 1, og §§ 266, 288 og 291, af lovgivningen om euforiserende stoffer, af lovgivningen om våben og eksplosivstoffer eller af lovgivningen om knive og blankvåben, kan ved dommen gives opholdsforbud efter stk. 2.
 
 Stk. 2. Ved opholdsforbud efter stk. 1 forstås et forbud mod at færdes og opholde sig på serveringssteder, hvorfra der foregår salg af stærke drikke til nydelse på eller ved salgsstedet, og hvortil der er offentlig adgang, og i nattelivszoner udpeget i medfør § 6 b i lov om politiets virksomhed. Et opholdsforbud efter 1. pkt. gælder i tidsrummet fra kl. 24 til kl. 5. Serveringssteder efter 1. pkt. omfatter ikke servering i tog, busser, fly eller skibe i fart, herunder i international rutefart, eller servering ved enkeltstående arrangementer.
 
 Stk. 3. Politiet kan meddele tilladelse til færden eller ophold i nattelivszoner omfattet af stk. 1, jf. stk. 2, hvis det af særlige grunde må anses for beføjet.
 
-Stk. 4. Forbud efter stk. 1 gives på tid op til 2 år regnet fra endelig dom. Ved udståelse af fængselsstraf eller anden strafferetlig retsfølge af frihedsberøvende karakter forlænges forbuddet tilsvarende.
+Stk. 4. Forbud efter stk. 1 gives på tid op til 4 år regnet fra endelig dom. Ved udståelse af fængselsstraf eller anden strafferetlig retsfølge af frihedsberøvende karakter forlænges forbuddet tilsvarende.
 
 Stk. 5. Politiet kan videregive oplysninger til indehavere og bestyrere af serveringssteder om, hvilke personer der er meddelt opholdsforbud efter stk. 1. Videregivelsen må kun ske i det omfang, det er nødvendigt for at håndhæve forbuddet.
 
