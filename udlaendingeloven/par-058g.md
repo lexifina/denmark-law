@@ -1,6 +1,6 @@
 § 58 g. Udlændingemyndighederne indberetter en udlænding, der ikke er statsborger i et Schengenland eller et land, der er tilsluttet Den Europæiske Union, som uønsket til SIS, hvis
 
-1) udlændingen er udvist af landet i medfør af §§ 22-24 og meddelt indrejseforbud for mindst 6 år,
+1) udlændingen er udvist af landet i medfør af §§ 22 eller 23 for en lovovertrædelse med en strafferamme på mindst 1 år,
 
 2) udlændingen er udvist af landet i medfør af § 25,
 
@@ -14,7 +14,7 @@
 
 7) udlændingen har fået udstedt visum efter § 4 eller § 4 a og er udvist af landet i medfør af § 25 b efter at have fået afslag på en ansøgning om opholdstilladelse efter § 7,
 
-8) udlændingen er udvist af landet efter §§ 25 a eller 25 b og meddelt indrejseforbud,
+8) udlændingen er udvist af landet efter § 25 a, stk. 2, eller 25 b og meddelt indrejseforbud,
 
 9) udlændingen er optaget på den liste, der er nævnt i § 29 c, stk. 1,
 
