@@ -1,0 +1,1 @@
+§ 14 f. Er en stedfortræder indtrådt for formanden eller næstformanden for et sundhedsråd i henhold til denne lovs § 12, stk. 1, jf. § 15, stk. 2, i lov om kommunernes styrelse, og forventes forfaldet at have en varighed af mindst 2 måneder, vælger regionsrådet en fungerende formand eller næstformand. Valget sker ved flertalsvalg, jf. § 24, stk. 1, i lov om kommunernes styrelse.

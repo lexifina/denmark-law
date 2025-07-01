@@ -1,0 +1,1 @@
+§ 14 n. Ethvert medlem af sundhedsrådet kan for dette indbringe ethvert spørgsmål om de af regionens anliggender, som sundhedsrådet varetager den umiddelbare forvaltning af, og fremsætte forslag til beslutninger herom.

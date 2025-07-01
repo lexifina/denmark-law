@@ -1,3 +1,1 @@
-§ 36 a. Et regionsråd kan i styrelsesvedtægten træffe bestemmelse om, at der til varetagelsen af den umiddelbare forvaltning af regionens anliggender af regionsrådet nedsættes et økonomiudvalg og et eller flere stående udvalg. For en region, der har truffet en sådan beslutning, finder reglerne i kapitel III i lov om kommunernes styrelse bortset fra § 17, stk. 5, tilsvarende anvendelse i stedet for §§ 13-15 i denne lov. Økonomiudvalget varetager endvidere de funktioner, der i øvrigt i denne lov er tillagt forretningsudvalget.
-
-Stk. 2. Regionsrådet kan i styrelsesvedtægten træffe bestemmelse om, at økonomiudvalget nedsat efter stk. 1 benævnes forretningsudvalget.
+§ 36 a. (Ophævet)

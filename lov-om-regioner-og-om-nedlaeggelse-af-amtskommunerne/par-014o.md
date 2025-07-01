@@ -1,0 +1,1 @@
+§ 14 o. Sundhedsrådets formand eller mindst en tredjedel af de regionale medlemmer af sundhedsrådet kan i overensstemmelse med § 23 i lov om kommunernes styrelse standse udførelsen af en beslutning, der er truffet af sundhedsrådet.
