@@ -1,0 +1,1 @@
+§ 14 a. Nævnet har til brug for behandlingen af ansøgninger i medfør af denne lov terminaladgang til de nødvendige skatteoplysninger, herunder oplysninger i indkomstregisteret, hos Skatteforvaltningen.
