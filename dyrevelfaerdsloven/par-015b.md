@@ -1,0 +1,1 @@
+§ 15 b. Ministeren kan indhente og sammenstille oplysninger om dødelighed i besætninger med landbrugsdyr til brug for fastsættelse af regler om grænseværdier og regler om særlige rådgivningsbesøg, jf. § 15 a.
