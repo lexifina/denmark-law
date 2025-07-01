@@ -2,7 +2,7 @@
 
 herunder afværgevand, jf. dog § 2 b.
 
-Stk. 2. For afledning af tag- og overfladevand, der ikke genanvendes, og vand fra omfangsdræn betales ikke vandafledningsbidrag.
+Stk. 2. For afledning af tag- og overfladevand, der ikke genanvendes, terrænnært grundvand og vand fra omfangsdræn betales ikke vandafledningsbidrag.
 
 Stk. 3. Kommunalbestyrelsen kan give tilladelse til, at en ejendom alene betaler for brugen af et spildevandsrenseforsyningsselskabs spildevandsrenseanlæg. Tilladelsen kan alene gives under forudsætning af, at ejendommen for egen regning finansierer og vedligeholder en transportledning til spildevandsrenseanlægget.
 
