@@ -1,1 +1,0 @@
-§ 8 c. Erhvervsministeren kan fastsætte regler om behandlingen af klager ved Energiklagenævnet og om betaling af gebyr ved indbringelse af en klage for Energiklagenævnet efter denne lov eller regler udstedt i medfør af loven.
