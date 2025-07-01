@@ -1,0 +1,1 @@
+§ 7 a. Bestyrelsen i en kreditservicevirksomhed skal sikre, at dens medlemmer som helhed har den fornødne viden og erfaring til at udøve virksomhed på en kompetent og ansvarlig måde. Drives virksomheden som en juridisk person uden bestyrelse eller direktion, finder 1. pkt. tilsvarende anvendelse på de ledelsesansvarlige.

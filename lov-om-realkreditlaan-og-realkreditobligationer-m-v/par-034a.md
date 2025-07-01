@@ -1,0 +1,3 @@
+§ 34 a. Finanstilsynet er indsamlingsorgan for de oplysninger, der skal indsendes med henblik på at gøre dem tilgængelige på det fælles europæiske adgangspunkt (ESAP). Dette gælder for oplysninger, der skal indsendes i henhold til denne lov og regler udstedt i medfør heraf.
+
+Stk. 2. Finanstilsynet er endvidere indsamlingsorgan for de oplysninger, der indsendes på frivillig basis med henblik på at gøre dem tilgængelige på det fælles europæiske adgangspunkt (ESAP), jf. artikel 3, stk. 1, i Europa-Parlamentets og Rådets forordning om oprettelse af et fælles europæisk adgangspunkt, som giver centraliseret adgang til offentligt tilgængelige oplysninger med relevans for finansielle tjenesteydelser, kapitalmarkeder og bæredygtighed.
