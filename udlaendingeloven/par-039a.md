@@ -4,9 +4,9 @@ Stk. 2. Der kan i særlige tilfælde udstedes laissez-passer til en udlænding t
 
 Stk. 3. Udlændingestyrelsen kan, medmindre det vil være i strid med Danmarks internationale forpligtelser, nægte at udstede særlig rejselegitimation til en udlænding, der ikke kan skaffe sig pas, eller som af andre grunde har behov for et sådant dokument, eller inddrage et sådant dokument i følgende tilfælde:
 
-1) Når der er rejst sigtelse mod udlændingen for et strafbart forhold, som kan antages at medføre frihedsstraf, og der på grund af sagens beskaffenhed eller udlændingens forhold er grund til at antage, at den pågældende vil unddrage sig ansvaret ved udrejse af landet eller forbliven i udlandet.
+1) Når der er rejst sigtelse mod udlændingen for et strafbart forhold, som kan antages at medføre fængselsstraf, og der på grund af sagens beskaffenhed eller udlændingens forhold er grund til at antage, at den pågældende vil unddrage sig ansvaret ved udrejse af landet eller forbliven i udlandet.
 
-2) Når udlændingen er idømt frihedsstraf, som ikke er afsonet, eller er pålagt bødestraf eller konfiskation, som ikke er erlagt, eller for hvilken sikkerhed ikke foreligger, og der på grund af sagens beskaffenhed eller udlændingens forhold er grund til at antage, at den pågældende vil unddrage sig ansvaret ved udrejse af landet eller forbliven i udlandet.
+2) Når udlændingen er idømt fængselsstraf, som ikke er afsonet, eller er pålagt bødestraf eller konfiskation, som ikke er erlagt, eller for hvilken sikkerhed ikke foreligger, og der på grund af sagens beskaffenhed eller udlændingens forhold er grund til at antage, at den pågældende vil unddrage sig ansvaret ved udrejse af landet eller forbliven i udlandet.
 
 3) Når udlændingens udrejse ville stride imod bestemmelser i lovgivningen, der har til formål at sikre en persons tilstedeværelse her i landet, indtil den pågældende har opfyldt de forpligtelser over for det offentlige eller over for private, som påhviler den pågældende.
 
