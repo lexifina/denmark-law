@@ -14,4 +14,4 @@ Stk. 7. Udlændingenævnets formand eller den, formanden bemyndiger dertil, kan 
 
 Stk. 8. Udlændingenævnets formand eller den, formanden bemyndiger dertil, henviser en klage til behandling efter stk. 5-7 eller § 52 a, stk. 6.
 
-Stk. 9. Afgørelser om opsættende virkning, jf. § 33 b, træffes af Udlændingenævnets formand eller den, formanden bemyndiger dertil.
+Stk. 9. Afgørelser om opsættende virkning, jf. § 33 b, og om processuelt ophold i forbindelse med en anmodning om genoptagelse af en afgørelse efter §§ 9-9 f, 9 i-9 n, 9 p eller 9 q truffet af Udlændingenævnet, jf. § 33 a, stk. 3, nr. 4, træffes af Udlændingenævnets formand eller den, formanden bemyndiger dertil.
