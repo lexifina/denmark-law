@@ -18,7 +18,7 @@ Stk. 2. Stk. 1 gælder ikke for
 
 2) udlændinge, der er udvist ved dom,
 
-3) udlændinge, der er idømt betinget eller ubetinget frihedsstraf eller anden strafferetlig retsfølge, der indebærer eller giver mulighed for frihedsberøvelse, for en lovovertrædelse begået her i landet, der ville have medført en straf af denne karakter,
+3) udlændinge, der er idømt betinget eller ubetinget fængselsstraf eller en anden strafferetlig retsfølge end fængselsstraf, der indebærer eller giver mulighed for frihedsberøvelse, og hvor udlændingen ville være idømt betinget eller ubetinget fængselsstraf, hvis der ikke var idømt en sådan anden retsfølge,
 
 4) udlændinge, der er omfattet af udelukkelsesgrundene i § 10, men ikke kan udsendes af landet, jf. § 31,
 

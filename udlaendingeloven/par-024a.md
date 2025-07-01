@@ -2,7 +2,7 @@
 
 1) grovheden af den begåede kriminalitet,
 
-2) længden af den idømte frihedsstraf,
+2) længden af den idømte fængselsstraf,
 
 3) den fare, skade eller krænkelse, der var forbundet med den begåede kriminalitet,
 
