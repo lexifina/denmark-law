@@ -1,4 +1,4 @@
-§ 6 a. Den, der overtræder § 2 a, stk. 2, og den, der afgiver urigtige eller mangelfulde oplysninger efter § 2 b, stk. 1 eller 2, eller § 3, straffes med bøde eller fængsel indtil 4 måneder.
+§ 6 a. Den, der overtræder § 2 a, stk. 6, og den, der afgiver urigtige eller mangelfulde oplysninger efter § 2 b, stk. 1 eller 2, eller § 3, straffes med bøde eller fængsel indtil 4 måneder.
 
 Stk. 2. På samme måde straffes den, der afgiver urigtig erklæring efter § 4, stk. 2.
 
