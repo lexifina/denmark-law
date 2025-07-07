@@ -3,9 +3,3 @@
 Stk. 2. § 23, stk. 1, og § 33 finder tilsvarende anvendelse for personer i kollektive bofællesskaber omfattet af § 24 a, stk. 1, nr. 6.
 
 Stk. 3. Boligstøtte til personer i kollektive bofællesskaber omfattet af § 24 a, stk. 1, nr. 6, udbetales som tilskud.
-
-## Kapitel 5
-
-## (Ophævet)
-
-§§ 25-29 b. (Ophævet)
