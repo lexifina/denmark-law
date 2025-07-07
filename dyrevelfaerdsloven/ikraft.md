@@ -25,3 +25,9 @@ Lov nr. 1462 af 10. december 2024 (Ændring af takster i betalingsbestemmelser t
 § 3
 
 Loven træder i kraft den 1. januar 2025.
+
+Lov nr. 559 af 27. maj 2025 (Grænseværdier for dødelighed og særlige rådgivningsbesøg ved dødelighed i besætninger, uddannelseskrav for medarbejdere og takstændring) indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 2
+
+Loven træder i kraft den 1. juli 2025.
