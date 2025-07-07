@@ -465,3 +465,123 @@ Lov nr. 1583 af 27. december 2019 (Tilpasning af refusionsordningen for sandsuge
 Stk. 1. Loven træder i kraft den 1. januar 2020, jf. dog stk. 2.
 
 Stk. 2-6. (Udelades)
+
+Lov nr. 546 af 3. maj 2022 om ændring af lov om midlertidig opholdstilladelse til personer, der er fordrevet fra Ukraine, lov om individuel boligstøtte, lov om børnetilskud og forskudsvis udbetaling af børnebidrag og integrationsloven (Kommunal indkvartering og forplejning og tilpasning af regler på integrationsområdet, børne- og undervisningsområdet, social- og ældreområdet, indenrigs- og boligområdet og sundhedsområdet som følge af modtagelse af personer, der er fordrevet fra Ukraine) indeholder følgende ikrafttrædelses- og overgangsbestemmelser:
+
+§ 5
+
+Stk. 1. Loven træder i kraft dagen efter bekendtgørelsen i Lovtidende.
+
+Stk. 2-5. (Udelades)
+
+§ 6
+
+Stk. 1. Loven gælder ikke for Færøerne og Grønland, jf. dog stk. 2.
+
+Stk. 2. (Udelades)
+
+Lov nr. 679 af 3. juni 2023 om ændring af kildeskatteloven, lov om kommunal indkomstskat, ejendomsvurderingsloven og forskellige andre love (Opkrævning og inddrivelse af grundskyld og dækningsafgift m.v., statens afregning af grundskyld og dækningsafgift til kommunerne, foreløbige vurderinger som midlertidigt beskatningsgrundlag i 2024 og 2025, forenkling af ejendomsvurderingerne for 2024 og 2025, udvidelse af antallet af dommere i Landsskatteretten m.v.), som ændret ved lov nr. 1565 af 12. december 2023, indeholder følgende ikrafttrædelses- og overgangsbestemmelser:
+
+§ 45
+
+Stk. 1. Loven træder i kraft den 5. juni 2023, jf. dog stk. 2-4.
+
+Stk. 2. (Udelades)
+
+Stk. 3. §§ 1 og 2, § 3, nr. 3, 4, 6, 8-18, 20, 21 og 29, §§ 4-8, §§ 10, 12 og 13, § 14, nr. 1, 2 og 7, §§ 15-18 og 21-29, § 30, nr. 2 og 4, og §§ 32-44 træder i kraft den 1. januar 2024.
+
+Stk. 4. (Udelades)
+
+§ 46
+
+Stk. 1. Loven gælder ikke for Færøerne og Grønland, jf. dog stk. 2-4.
+
+Stk. 2-4. (Udelades)
+
+Lov nr. 726 af 13. juni 2023 om ændring af lov om social pension, lov om højeste, mellemste, forhøjet almindelig og almindelig førtidspension m.v. og lov om individuel boligstøtte (Afskaffelse af indtægtsregulering som følge af pensionistens egen arbejdsindtægt i folkepensionens grundbeløb og pensionstillæg, justering af regler med henblik på mere rimelige pensionsberegninger m.v.) indeholder følgende ikrafttrædelses- og overgangsbestemmelse:
+
+§ 5
+
+Stk. 1. Loven træder i kraft den 1. juli 2023.
+
+Stk. 2-5. (Udelades)
+
+Lov nr. 753 af 13. juni 2023 om ændring af lov om social service, lov om retssikkerhed og administration på det sociale område og forskellige andre love (Ændringer som følge af barnets lov, initiativret for adopterede børn, adoption uden samtykke fra fødslen, samvær med børn på kvindekrisecentre m.v. og fasttrack for godkendelse af plejefamilier m.v.) indeholder følgende ikrafttrædelses- og overgangsbestemmelser:
+
+§ 52
+
+Stk. 1. Loven træder i kraft den 1. januar 2024, jf. dog stk. 2.
+
+Stk. 2-6. (Udelades)
+
+Stk. 7. §§ 2-51 finder ikke anvendelse, hvis en afgørelse, en indstilling eller en børnefaglig undersøgelse efter lov om social service, jf. lovbekendtgørelse nr. 170 af 24. januar 2022 med senere ændringer, er truffet, afgivet, gennemført eller iværksat før lovens ikrafttræden. I disse situationer finder de hidtil gældende regler anvendelse.
+
+Stk. 8 og 9. (Udelades)
+
+§ 53
+
+Stk. 1. Loven gælder ikke for Færøerne og Grønland, jf. dog stk. 2 og 3.
+
+Stk. 2 og 3. (Udelades)
+
+Lov nr. 1793 af 28. december 2023 om ændring af lov om leje, lov om boligforhold, lov om leje af almene boliger og forskellige andre love (Refusion af udlejerens udgifter til månedlige forbrugsmålinger, rettelser som følge af sammenskrivningen af lejelovgivningen og tilbudspligt) indeholder følgende ikrafttrædelses- og overgangsbestemmelse:
+
+§ 6
+
+Stk. 1. Loven træder i kraft den 1. januar 2024.
+
+Stk. 2. (Udelades)
+
+Lov nr. 632 af 11. juni 2024 om ændring af lov om social pension og forskellige andre love (Fradragsret for indbetalinger til aldersforsikring, aldersopsparing og supplerende engangssum i indtægtsgrundlaget ved beregning af visse sociale ydelser) indeholder følgende ikrafttrædelses- og overgangsbestemmelse:
+
+§ 8
+
+Stk. 1. Loven træder i kraft den 1. juli 2024.
+
+Stk. 2. § 1, nr. 4, § 2, nr. 3, og § 3, nr. 1, har virkning fra efterreguleringen for året 2024.
+
+Stk. 3 og 4. (Udelades)
+
+Lov nr. 1655 af 30. december 2024 om ændring af lov om aktiv socialpolitik, lov om en aktiv beskæftigelsesindsats og forskellige andre love (Reform af kontanthjælpssystemet, ophævelse af 225-timersreglen og kontanthjælpsloftet, fritidstillæg til børn, afklaring, rettighedsbaseret tilskud til medicin m.v.) indeholder følgende ikrafttrædelses- og overgangsbestemmelser:
+
+§ 27
+
+Stk. 1. Loven træder i kraft den 1. januar 2025.
+
+Stk. 2. Loven har virkning fra den 1. juli 2025, jf. dog stk. 3.
+
+Stk. 3 og 4. (Udelades)
+
+§ 28
+
+Stk. 1-3. (Udelades)
+
+Stk. 4. § 1, nr. 41, finder ikke anvendelse i sager, der vedrører kalendermåneder før lovens virkningstidspunkt. For sådanne sager finder de hidtil gældende regler i §§ 25 b-25 e i lov om aktiv socialpolitik, jf. lovbekendtgørelse nr. 808 af 25. juni 2024, anvendelse.
+
+Stk. 5-12. (Udelades)
+
+Lov nr. 1703 af 30. december 2024 om ændring af lov om social service, lov om retssikkerhed og administration på det social område, lov om socialtilsyn og forskellige andre love (Ændringer som følge af ældreloven, lov om ældretilsyn og lov om lokalplejehjem og udskillelse af reglerne om madservice fra bestemmelsen om personlig og praktisk hjælp i lov om social service), som ændret ved lov nr. 706 af 20. juni 2025, indeholder følgende ikrafttrædelses- og overgangsbestemmelser:
+
+§ 21
+
+Stk. 1 og 2. (Udelades)
+
+Stk. 3. §§ 1 og 2, § 3, nr. 2, og §§ 4, 7-10 og 12-20 træder i kraft den 1. juli 2025.
+
+Stk. 4-8. (Udelades)
+
+§ 22
+
+Loven gælder ikke for Færøerne og Grønland, men § 20 kan ved kongelig anordning helt eller delvis sættes i kraft for Grønland med de ændringer, som de grønlandske forhold tilsiger.
+
+Lov nr. 469 af 14. maj 2025 om ændring af en række love på børne- og undervisningsområdet, socialområdet, det familieretlige område, skatteområdet, beskæftigelsesområdet, udlændinge- og integrationsområdet og ældreområdet (Forbud mod anvendelse af personer under 18 år som tolke m.v.) indeholder følgende ikrafttrædelses- og overgangsbestemmelser:
+
+§ 51
+
+Stk. 1. Loven træder i kraft den 1. juli 2025.
+
+Stk. 2. (Udelades)
+
+§ 52
+
+Loven gælder ikke for Færøerne og Grønland. §§ 44 og 48 kan ved kongelig anordning helt eller delvis sættes i kraft for Færøerne og Grønland med de ændringer, som henholdsvis de færøske og de grønlandske forhold tilsiger. Bestemmelserne kan sættes i kraft på forskellige tidspunkter.
