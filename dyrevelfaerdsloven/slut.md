@@ -1,5 +1,7 @@
-Fødevarestyrelsen, den 14. januar 2025
+Fødevarestyrelsen, den 30. juni 2025
 
 Nikolaj Veje
 
-/ Birthe Schubart Haabegaard
+/ Birthe Schubart
+
+EU Noter
