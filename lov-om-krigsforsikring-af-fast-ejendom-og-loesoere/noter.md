@@ -1,1 +1,1 @@
-1) Lovændringen vedrører § 41, stk. 1.
+1) Lovændringen vedrører § 15, stk. 1.
