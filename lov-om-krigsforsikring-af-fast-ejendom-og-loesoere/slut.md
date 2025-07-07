@@ -1,5 +1,7 @@
-Erhvervsministeriet, den 12. december 2018
+Finanstilsynet, den 3. juli 2025
 
-Rasmus Jarlov
+Louise Mogensen
 
-/ Jesper Berg
+/ Karina Vilhof Ankergren
+
+Slutnoter
