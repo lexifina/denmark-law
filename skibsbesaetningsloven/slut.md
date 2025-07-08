@@ -1,5 +1,7 @@
-Søfartsstyrelsen, den 17. januar 2014
+Søfartsstyrelsen, den 26. juni 2025
 
-Christian Breinholt
+Kristina Ravn
 
-/ Alexander Milan
+/ Mette Rosager
+
+EU Noter
