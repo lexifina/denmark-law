@@ -1,14 +1,14 @@
-Kulturministeriet, den 8. april 2014
+Kulturministeriet, den 7. juli 2025
 
-Marianne Jelved
+Jakob Engel-Schmidt
 
-/ Katrine Tarp
+/ Helene Nordborg Kiær
 
 Bilag 1
 
 Bilag til museumsloven – fortidsminder, der er beskyttet efter § 29 e
 
-## Kapitel 1: Følgende fortidsmindetyper er omfattet af beskyttelsen i henhold til lovens § 29 e, hvis de er synlige i terrænet:
+Kapitel 1: Følgende fortidsmindetyper er omfattet af beskyttelsen i henhold til lovens § 29 e, hvis de er synlige i terrænet og ikke er opført i år 1865 eller senere :
 
 1) Høje, røser.
 
@@ -30,7 +30,7 @@ Bilag til museumsloven – fortidsminder, der er beskyttet efter § 29 e
 
 10) Kors, milepæle, vildtbanesten og lignende.
 
-## Kapitel 2: Følgende fortidsmindetyper er kun omfattet af beskyttelsen i henhold til lovens § 29 e, når ejeren har modtaget meddelelse om deres tilstedeværelse:
+Kapitel 2: Følgende fortidsmindetyper er kun omfattet af beskyttelsen i henhold til lovens § 29 e, når ejeren har modtaget meddelelse om deres tilstedeværelse:
 
 1) Mølleanlæg.
 
@@ -65,3 +65,9 @@ Bilag til museumsloven – fortidsminder, der er beskyttet efter § 29 e
 16) Fangstgruber.
 
 17) Sten- og grenkast.
+
+18) Fortidsminder omfattet af kapitel 1, som er opført i år 1865 eller senere.
+
+19) Øvrige kulturhistoriske anlæg, konstruktioner og sammenhænge, der af kulturministeren vurderes væsentlige at sikre som fortidsminde.
+
+Slutnoter
