@@ -1,5 +1,7 @@
-Indenrigs- og Sundhedsministeriet, den 23. januar 2024
+Indenrigs- og Sundhedsministeriet, den 10. juli 2025
 
 P.M.V. Nikolaj Stenfalk
 
-/ Mie Sofie Andersen
+/ Hans B. Thomsen
+
+Slutnoter
