@@ -1,5 +1,7 @@
-Børne- og Undervisningsministeriet, den 27. august 2024
+Børne- og Undervisningsministeriet, den 11. august 2025
 
 P.M.V. Ole Hvilsom Larsen
 
-/ Henrik Thode
+/ Nanna Hvass Jacobsen
+
+Slutnoter
