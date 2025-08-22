@@ -1,3 +1,5 @@
 Bekendtgørelse af lov om Arbejdsgivernes Uddannelsesbidrag
 
-Herved bekendtgøres lov om Arbejdsgivernes Uddannelsesbidrag, jf. lovbekendtgørelse nr. 1075 af 10. august 2023, med de ændringer, der følger af § 30 i lov nr. 753 af 13. juni 2023, § 2 i lov nr. 1538 af 12. december 2023, § 1 i lov nr. 1543 af 12. december 2023 og § 2 i lov nr. 1799 af 28. december 2023.
+Herved bekendtgøres lov om Arbejdsgivernes Uddannelsesbidrag, jf. lovbekendtgørelse nr. 111 af 30. januar 2024, med de ændringer, der følger af lov nr. 1459 af 10. december 2024 og § 17 i lov nr. 1703 af 30. december 2024.
+
+De ændringer, der følger af § 19 i lov nr. 719 af 20. juni 2025 om ændring af lov om regioner og om nedlæggelse af amtskommunerne, Hovedstadens Udviklingsråd og Hovedstadens Sygehusfællesskab (regionsloven) og forskellige andre love (Ny regional forvaltningsmodel med sundhedsråd, afskaffelse af kontaktudvalg, sundhedsklynger, sundhedssamarbejdsudvalg, sundhedsaftaler i deres nuværende form, praksisplaner, kommunal medfinansiering på sundhedsområdet og nærhedsfinansiering samt konsekvensændringer i flere love som følge af sammenlægningen af Region Hovedstaden og Region Sjælland m.v.), er ikke indarbejdet i denne lovbekendtgørelse, da de træder i kraft den 1. januar 2027, jf. § 24, stk. 5, i lov nr. 719 af 20. juni 2025.
