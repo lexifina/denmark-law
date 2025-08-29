@@ -1,1 +1,1 @@
-§ 45 a. Miljø- og fødevareministeren kan fastsætte regler om, at tilsynsmyndigheden skal meddele påbud om iværksættelse og udformning af en konkret foranstaltning i overensstemmelse med reglerne udstedt i medfør af § 5 c, såfremt tilsynsmyndigheden har konstateret erosion af jord, hvor der udbringes organisk gødning eller bioaske, til vandløb, søer større end 100 m² og kystvande.
+§ 45 a. (Ophævet)

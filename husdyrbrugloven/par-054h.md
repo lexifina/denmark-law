@@ -1,4 +1,4 @@
-§ 54 h. Tilsynsmyndigheden sender afgørelsen om, at der foreligger en miljøskade eller en overhængende fare for en miljøskade, og det materiale, der er indgået i vurderingen af sagen, til miljø- og fødevareministeren. Fremsendelse skal ske samtidig med underretning af den ansvarlige herfor.
+§ 54 h. Tilsynsmyndigheden sender afgørelsen om, at der foreligger en miljøskade eller en overhængende fare for en miljøskade, og det materiale, der er indgået i vurderingen af sagen, til miljøministeren. Fremsendelse skal ske samtidig med underretning af den ansvarlige herfor.
 
 Stk. 2. Tilsynsmyndigheden offentliggør afgørelsen. Offentliggørelse kan ske udelukkende digitalt.
 

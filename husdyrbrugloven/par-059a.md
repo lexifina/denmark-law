@@ -2,6 +2,6 @@
 
 Stk. 2. Hvis en godkendelse eller tilladelse efter §§ 16 a eller 16 b, der er udnyttet efter stk. 1, efterfølgende ikke har været helt eller delvis udnyttet i 3 på hinanden følgende år, bortfalder den del af godkendelsen eller tilladelsen, der ikke har været udnyttet i de seneste 3 år. Udnyttelse anses her for at foreligge, når mindst 25 pct. af det tilladte eller godkendte produktionsareal udnyttes driftsmæssigt. Med driftsmæssig udnyttelse forstås, at der på det pågældende produktionsareal mindst produceres 50 pct. af det mulige inden for rammerne af dyrevelfærdskrav eller andre relevante krav.
 
-Stk. 3. Miljø- og fødevareministeren kan fastsætte regler om, at stk. 1 og 2 finder anvendelse på andre afgørelser, der er truffet efter loven eller efter regler fastsat i medfør af loven, og på husdyrbrug, der har en tilladelse eller en godkendelse efter de tidligere gældende regler i §§ 10, 11 eller 12 eller en godkendelse efter § 33 i lov om miljøbeskyttelse.
+Stk. 3. Ministeren for grøn trepart kan fastsætte regler om, at stk. 1 og 2 finder anvendelse på andre afgørelser, der er truffet efter loven eller efter regler fastsat i medfør af loven, og på husdyrbrug, der har en tilladelse eller en godkendelse efter de tidligere gældende regler i §§ 10, 11 eller 12 eller en godkendelse efter § 33 i lov om miljøbeskyttelse.
 
-Stk. 4. Miljø- og fødevareministeren kan fastsætte regler om, hvornår godkendelser eller tilladelser efter stk. 1 eller andre afgørelser efter regler fastsat i medfør af stk. 3 anses for udnyttet efter stk. 1.
+Stk. 4. Ministeren for grøn trepart kan fastsætte regler om, hvornår godkendelser eller tilladelser efter stk. 1 eller andre afgørelser efter regler fastsat i medfør af stk. 3 anses for udnyttet efter stk. 1.

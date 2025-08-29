@@ -1,1 +1,1 @@
-§ 34 a. Miljø- og fødevareministeren kan fastsætte regler om husdyrbrugs indretning og drift, herunder om den kontrol, som den, der er ansvarlig for husdyrbruget, skal foretage for egen regning, samt opførelse af bebyggelse m.v.
+§ 34 a. Ministeren for grøn trepart kan fastsætte regler om husdyrbrugs indretning og drift, herunder om den kontrol, som den, der er ansvarlig for husdyrbruget, skal foretage for egen regning, samt opførelse af bebyggelse m.v.
