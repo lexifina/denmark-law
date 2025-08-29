@@ -1,5 +1,7 @@
-Miljø- og Fødevareministeriet, den 1. maj 2019
+Styrelsen for Grøn Arealomlægning og Vandmiljø, den 21. august 2025
 
-P.M.V. Tejs Binderup
+Lars Gregersen
 
-/ Nis Christensen
+/ Dorthe Nielsen
+
+EU Noter
