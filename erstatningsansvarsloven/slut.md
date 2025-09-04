@@ -1,5 +1,7 @@
-Justitsministeriet, den 24. august 2018
+Justitsministeriet, den 30. august 2025
 
-Søren Pape Poulsen
+Peter Hummelgaard
 
-/ Mette Kjølby Miller-Harris
+/ Morten Schaumburg-Müller
+
+Slutnoter
