@@ -1,51 +1,55 @@
-Lov nr. 1493 af 23. december 2014 (Ændring af beregningsprincipperne for erhvervsevnetabserstatning til unge under uddannelse) indeholder følgende ikrafttrædelsesbestemmelse:
-
-§ 2
-
-Stk. 1. Loven træder i kraft den 1. januar 2015.
-
-Stk. 2. Loven finder ikke anvendelse på skader, der er indtrådt inden lovens ikrafttræden. For sådanne skader finder de hidtil gældende regler anvendelse.
-
-Lov nr. 395 af 2. maj 2016 (Overførsel af Arbejdsskadestyrelsens opgaver til den selvejende institution Arbejdsmarkedets Erhvervssikring og til Styrelsen for Arbejdsmarked og Rekruttering samt nedlæggelse af Arbejdsmarkedets Erhvervssygdomssikring) indeholder følgende ikrafttrædelsesbestemmelser:
-
-§ 23
-
-Stk. 1. Loven træder i kraft den 1. juli 2016.
-
-Stk. 2-7. (Udelades)
-
-§ 24
-
-(Udelades)
-
-Lov nr. 1728 af 27. december 2016 (Øget respekt for det offentlige rum, offentlige myndigheder og personer i offentlig tjeneste m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
-
-§ 6
-
-Stk. 1. Loven træder i kraft dagen efter bekendtgørelsen i Lovtidende.
-
-Stk. 2. (Udelades)
-
-Lov nr. 550 af 30. maj 2017 (Ændringer som følge af lov om ægtefællers økonomiske forhold) indeholder følgende ikrafttrædelsesbestemmelse:
-
-§ 17
-
-Stk. 1. Loven træder i kraft den 1. januar 2018.
-
-Stk. 2-6. (Udelades)
-
-Stk. 7. § 7 finder ikke anvendelse, når Statsforvaltningen før lovens ikrafttræden har modtaget anmodning om separation eller skilsmisse, eller når en ægtefælle er afgået ved døden før lovens ikrafttræden. I sådanne situationer finder de hidtil gældende regler anvendelse.
-
-Stk. 8-9. (Udelades)
-
-Lov nr. 140 af 28. februar 2018 (Ophævelse af forældelsesfrister for gerningsmandens strafansvar i sager om seksuelt misbrug af børn og for erstatningskrav mod forvaltningsmyndigheder for svigt i sager om overgreb mod børn, forhøjelse af niveauet for tortgodtgørelse for seksuelle krænkelser samt ophævelse af 72-timersreglen i sager om voldtægt, incest og seksuelt misbrug af børn m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
+Lov nr. 1719 af 27. december 2018 (Freds- og ærekrænkelser m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
 
 § 5
 
-Stk. 1. Loven træder i kraft den 1. april 2018.
+Stk. 1. Loven træder i kraft den 1. januar 2019.
 
-Stk. 2-3. (Udelades)
+Stk. 2. Lovens § 1, § 2, nr. 2 og 3, og § 3 finder ikke anvendelse i forhold til handlinger begået før lovens ikrafttræden.
 
-Stk. 4. § 3 finder anvendelse på erstatningsansvar for skader, der indtræder efter lovens ikrafttræden.
+Lov nr. 2200 af 29. december 2020 (Anmeldelse af arbejdsulykker, opdatering af kapitaliseringsfaktorer m.v.) indeholder følgende ikrafttrædelsesbestemmelser:
 
-Stk. 5. (Udelades)
+§ 4
+
+Stk. 1. Loven træder i kraft den 1. januar 2021, jf. dog stk. 2.
+
+Stk. 2. (Udelades)
+
+§ 5
+
+(Udelades)
+
+Lov nr. 290 af 27. februar 2021 (Styrket indsats mod farlig kørsel m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 3
+
+Stk. 1. Loven træder i kraft den 1. marts 2021.
+
+Stk. 2. § 2 har virkning for lovovertrædelser begået efter lovens ikrafttræden.
+
+Lov nr. 894 af 21. juni 2022 (Tortgodtgørelse ved digitale seksuelle krænkelser) indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 2
+
+Stk. 1. Loven træder i kraft den 1. juli 2022.
+
+Stk. 2. Loven har ikke virkning for lovovertrædelser begået før lovens ikrafttræden.
+
+Lov nr. 895 af 21. juni 2022 (Udvidelse af området for ydelse af krænkelsesgodtgørelse og forenkling af renteberegningen i offererstatningssager) indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 3
+
+Stk. 1. Loven træder i kraft den 1. juli 2022.
+
+Stk. 2. § 1 har ikke virkning for lovovertrædelser begået før lovens ikrafttræden.
+
+Stk. 3. (Udelades)
+
+Lov nr. 1541 af 12. december 2023 (Et forbedret arbejdsskadesystem og lettere adgang til erstatning i forbindelse med vold på arbejdspladsen) indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 9
+
+Stk. 1. Loven træder i kraft den 1. januar 2024, jf. dog stk. 2 og 3.
+
+Stk. 2. § 1, nr. 1, 3-5, 8, 10, 14, 16, 19-28, 34, 35 og 37-39, arbejdsskadesikringslovens § 29, stk. 2 og 3, som affattet ved denne lovs § 1, nr. 40, § 1, nr. 41-45, 48, 50, 51, 53, 55, 58 og 61-63, ophævelsen af § 5 i lov om erstatning til tilskadekomne værnepligtige m.fl., jf. denne lovs § 2, nr. 2, og §§ 6 og 7 træder i kraft den 1. juli 2024.
+
+Stk. 3. (Udelades)
