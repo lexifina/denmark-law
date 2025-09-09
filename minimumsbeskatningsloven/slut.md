@@ -1,7 +1,7 @@
-Givet på Christiansborg Slot, den 12. december 2023
+Skatteministeriet, den 2. september 2025
 
-Under Vor Kongelige Hånd og Segl
+P.M.V. Merete Agergaard
 
-MARGRETHE R.
+/ Søren Schou
 
-/ Jeppe Bruus
+EU Noter
