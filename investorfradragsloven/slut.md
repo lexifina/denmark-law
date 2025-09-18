@@ -1,7 +1,5 @@
-Givet på Marselisborg Slot, den 27. december 2018
+Skatteministeriet, den 2. september 2025
 
-Under Vor Kongelige Hånd og Segl
+P.M.V. Merete Agergaard
 
-MARGRETHE R.
-
-/ Karsten Lauritzen
+/ Søren Schou

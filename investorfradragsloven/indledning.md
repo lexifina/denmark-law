@@ -1,5 +1,3 @@
-Investorfradragslov
+Bekendtgørelse af investorfradragsloven
 
-VI MARGRETHE DEN ANDEN, af Guds Nåde Danmarks Dronning, gør vitterligt:
-
-Folketinget har vedtaget og Vi ved Vort samtykke stadfæstet følgende lov:
+Herved bekendtgøres investorfradragsloven, lov nr. 1707 af 27. december 2018, med de ændringer, der følger af lov nr. 1599 af 28. december 2022.
