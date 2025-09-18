@@ -1,5 +1,7 @@
-Erhvervsministeriet, den 12. november 2021
+Finanstilsynet, den 10. september 2025
 
-Simon Kollerup
+Louise Mogensen
 
-/ Jesper Berg
+/ Karina Vilhof Ankergren
+
+Slutnoter
