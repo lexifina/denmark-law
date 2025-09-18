@@ -1,15 +1,7 @@
-1) Ændringen i § 2 a, stk. 1, hvorefter »20.000 kr.« ændres til »20.000 kr. (2017-niveau)«, træder i kraft den 1. januar 2024, jf. § 4, stk. 1, i lov nr. 714 af 13. juni 2023.
+1) Bestemmelsen i § 2 b, stk. 3, træder i kraft den 1. januar 2027, jf. § 24, stk. 5, i lov nr. 719 af 20. juni 2025.
 
-2) Ændringen i § 2 b, stk. 1, 2. pkt., hvorefter »20.000 kr.« ændres til »20.000 kr. (2017-niveau)«, træder i kraft den 1. januar 2024, jf. § 4, stk. 1, i lov nr. 714 af 13. juni 2023.
+2) Lovændringen vedrører § 2 a, stk. 1, § 2 b, stk. 1, 2. pkt., og stk. 2, 2. pkt., og § 3, stk. 2, 1. pkt., og § 6 a, stk. 3.
 
-3) Ændringen i § 2 b, stk. 2, 2. pkt., hvorefter »20.000 kr.« ændres til »20.000 kr. (2017-niveau)«, træder i kraft den 1. januar 2024, jf. § 4, stk. 1, i lov nr. 714 af 13. juni 2023.
+3) Lovændringen vedrører § 2 b, stk. 3.
 
-4) Ændringen i § 3, stk. 2, 1. pkt., hvorefter »20.000 kr.« ændres til »20.000 kr. (2017-niveau)«, træder i kraft den 1. januar 2024, jf. § 4, stk. 1, i lov nr. 714 af 13. juni 2023.
-
-5) Bestemmelsen i § 6 a, stk. 3, træder i kraft den 1. januar 2024, jf. § 4, stk. 1, i lov nr. 714 af 13. juni 2023.
-
-6) Rykningen af den hidtidige § 6 a, stk. 3, til § 6 a, stk. 4, træder i kraft den 1. januar 2024, jf. § 4, stk. 1, i lov nr. 714 af 13. juni 2023.
-
-7) Lovændringen vedrører lovens populærtitel, §§ 2 a og 2 b, § 3, stk. 2, 2. pkt., og stk. 4, § 4, stk. 3, § 5 a og § 6 a, stk. 1.
-
-8) Lovændringen vedrører § 2 a, stk. 1, § 2 b, stk. 1, 2. pkt., og stk. 2, 2. pkt., og § 3, stk. 2, 1. pkt., og § 6 a, stk. 3.
+4) Lovændringen vedrører overskriften før § 2 a, § 2 a, stk. 2-8, § 2 b, stk. 1, 1.-3. pkt., og stk. 2, 1.-3. pkt., § 3, stk. 3, og § 6 a, stk. 1.
