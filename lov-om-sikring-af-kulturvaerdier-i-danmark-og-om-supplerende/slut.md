@@ -1,5 +1,7 @@
-Kulturministeriet, den 25. november 2024
+Kulturministeriet, den 12. september 2025
 
 Jakob Engel-Schmidt
 
 / Helene Nordborg Kiær
+
+Slutnoter
