@@ -1,5 +1,7 @@
-Indenrigs- og Sundhedsministeriet, den 5. december 2024
+Indenrigs- og Sundhedsministeriet, den 22. september 2025
 
 P.M.V. Nikolaj Stenfalk
 
 / Christine Boeskov
+
+Slutnoter

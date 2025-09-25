@@ -24,10 +24,34 @@ Stk. 3. Regler fastsat i medfør af § 8, stk. 5, i lov om kommunale og regional
 
 Stk. 4 og 5. (Udelades)
 
-Lov nr. 329 af 9. april 2024 om ændring af lov om social service og forskellige andre love (Ligestilling af krisecentertilbud til mænd m.v.) indeholder følgende ikrafttrædelses- og overgangsbestemmelse:
+Lov nr. 1703 af 30. december 2024 om ændring af lov om social service, lov om retssikkerhed og administration på det sociale område, lov om socialtilsyn og forskellige andre love (Ændringer som følge af ældreloven, lov om ældretilsyn og lov om lokalplejehjem og udskillelse af reglerne om madservice fra bestemmelsen om personlig og praktisk hjælp i lov om social service), som ændret ved lov nr. 706 af 20. juni 2025, indeholder følgende ikrafttrædelsesbestemmelse:
 
-§ 7
+§ 21
 
-Stk. 1. Loven træder i kraft den 15. april 2024.
+Stk. 1 og 2. (Udelades)
 
-Stk. 2. Personer, der i medfør af ændringen i § 1, nr. 1, bliver omfattet af målgruppen efter § 109 i lov om social service, opnår ret til at tage ophold på krisecenter fra den 1. juli 2024.
+Stk. 3. §§ 1 og 2, § 3, nr. 2, og §§ 4, 7-10 og 12-20 træder i kraft den 1. juli 2025.
+
+Stk. 4-8. (Udelades)
+
+Lov nr. 719 af 20. juni 2025 om ændring af lov om regioner og om nedlæggelse af amtskommunerne, Hovedstadens Udviklingsråd og Hovedstadens Sygehusfællesskab (regionsloven) og forskellige andre love (Ny regional forvaltningsmodel med sundhedsråd, afskaffelse af kontaktudvalg, sundhedsklynger, sundhedssamarbejdsudvalg, sundhedsaftaler i deres nuværende form, praksisplaner, kommunal medfinansiering på sundhedsområdet og nærhedsfinansiering samt konsekvensændringer i flere love som følge af sammenlægningen af Region Hovedstaden og Region Sjælland m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 24
+
+Stk. 1. Loven træder i kraft den 1. juli 2025, jf. dog stk. 2-6.
+
+Stk. 2-4. (Udelades)
+
+Stk. 5. § 1, nr. 1-3, 7 og 28-30, § 2, nr. 1-3, 5-8 og 10, § 4, nr. 8, § 5, nr. 2, 5 og 6, § 7, nr. 2, § 9, § 10, nr. 8, og §§ 11-16 og 18-23 træder i kraft den 1. januar 2027.
+
+Stk. 6. (Udelades)
+
+Lov nr. 755 af 20. juni 2025 om ændring af udlændingeloven og forskellige andre love (Skærpelse af udvisningsreglerne samt indarbejdelse af reglerne om udvisning af udlændinge omfattet af EU-reglerne m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 6
+
+Stk. 1. Loven træder i kraft den 1. juli 2025.
+
+Stk. 2. § 1, nr. 6, 17, 30-32 og 39, og §§ 3-5 finder ikke anvendelse på lovovertrædelser begået før lovens ikrafttræden. For sådanne lovovertrædelser finder de hidtil gældende regler anvendelse.
+
+Stk. 3. (Udelades)
