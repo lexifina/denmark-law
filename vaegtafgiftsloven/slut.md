@@ -1,5 +1,7 @@
-Skatteministeriet, den 2. juni 2021
+Skatteministeriet, den 15. september 2025
 
-P.M.V. Jens Brøchner
+P.M.V. Merete Agergaard
 
 / Kathrine Waage
+
+EU Noter
