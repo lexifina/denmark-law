@@ -112,7 +112,7 @@ Lov nr. 367 af 6. juni 2002 (Forslag til Rådets direktiv om definition af hjæl
 
 § 2
 
-Stk. 1. Stk. 1. § 1, nr. 1-5, træder i kraft dagen efter bekendtgørelsen i Lovtidende. Tidspunktet for ikrafttræden af § 1, nr. 6, fastsættes af ministeren for flygtninge, indvandrere og integration.
+Stk. 1. § 1, nr. 1-5, træder i kraft dagen efter bekendtgørelsen i Lovtidende. Tidspunktet for ikrafttræden af § 1, nr. 6, fastsættes af ministeren for flygtninge, indvandrere og integration.
 
 Stk. 2. Udlændingelovens § 33, stk. 1, 2. pkt. og stk. 3, 3. pkt., som henholdsvis ændret og indsat ved denne lovs § 1, nr. 3 og 4, finder alene anvendelse, såfremt det forhold, der begrunder udvisningen, er begået efter lovens ikrafttræden. Såfremt det forhold, der begrunder udvisningen, er begået før lovens ikrafttræden, finder de hidtil gældende regler fortsat anvendelse.
 
@@ -172,7 +172,7 @@ Stk. 5. Udlændingelovens § 46, stk. 2, som ændret ved denne lovs § 1, nr. 29
 
 Stk. 6. Udlændingelovens § 58 g, nr. 6, som indsat ved denne lovs § 1, nr. 35, finder alene anvendelse for udlændinge, der efter lovens ikrafttræden udvises i medfør af § 25 b efter at have fået afslag på en ansøgning om opholdstilladelse efter § 7.
 
-Lov nr. 323 af 18. maj 2005 (Tilknytning til Eurodac-forordningen og Dublinforordningen på mellemstatsligt grundlag m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
+Lov nr. 323 af 18. maj 2005 (Tilknytning til Eurodac-forordningen og Dublinforordningen på mellemstatsligt grundlag m.v.) indeholder følgende krafttrædelsesbestemmelse:
 
 § 2
 
@@ -226,7 +226,7 @@ Stk. 4-7. (Udelades)
 
 Stk. 8. Ministeren for flygtninge, indvandrere og integration fastsætter tidspunktet for ikrafttræden af udlændingelovens § 2 a, stk. 3, som indsat ved denne lovs § 1, nr. 2, og udlændingelovens § 2 b, stk. 4, § 28, stk. 6, § 38, stk. 1-3, § 39, stk. 3, og § 59, stk. 1, nr. 1, som ændret ved denne lovs § 1, nr. 3, 18, 26-28, 30 og 490.
 
-Lov nr. 429 af 10. maj 2006 (Betinget udvisning, skærpelse af udvisningsreglerne og reglerne om indrejseforbud m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
+Lov nr. 429 af 10. maj 2006 (Betinget udvisning, skærpelse af udvisningsreglerne og reglerne om indrejseforbud m.v.) indeholder følgende krafttrædelsesbestemmelse:
 
 § 2
 
@@ -500,7 +500,7 @@ Lov nr. 1488 af 23. december 2014 (Reform af international rekruttering m.v.) in
 
 § 4
 
-Stk. 1. Stk. 1. Loven træder i kraft den 1. januar 2015, jf. dog stk. 2.
+Stk. 1. Loven træder i kraft den 1. januar 2015, jf. dog stk. 2.
 
 Stk. 2. § 1, nr. 10, og udlændingelovens § 9 a, stk. 17, som indsat ved denne lovs § 1, nr. 19, træder i kraft den 1. april 2015.
 
@@ -572,7 +572,7 @@ Stk. 1. Loven træder i kraft dagen efter bekendtgørelsen i Lovtidende.
 
 Stk. 2. Lovforslaget kan stadfæstes straks efter dets vedtagelse.
 
-Lov nr. 1741 af 22. december 2015 (Ankestyrelsen som familieretlig klagemyndighed m.v.) indeholder følgende ikrafttrædelsesbestemmelser:
+Lov nr. 1741 af 22. december 2015 (Ankestyrelsen som familieretlig klagemyndighed m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
 
 § 12
 
@@ -1196,7 +1196,7 @@ Lov nr. 1190 af 8. juni 2021 (Regulering af ydelsesstruktur og udbetalingstidspu
 
 Stk. 1. Loven træder i kraft den 1. august 2021, jf. dog stk. 2.
 
-Stk. 2. (Udelades)
+Stk. 2-4. (Udelades)
 
 Lov nr. 1191 af 8. juni 2021 (Indførelse af mulighed for overførsel af asylansøgere til asylbehandling og eventuel efterfølgende beskyttelse i tredjelande) indeholder følgende ikrafttrædelsesbestemmelse:
 
@@ -1204,7 +1204,7 @@ Lov nr. 1191 af 8. juni 2021 (Indførelse af mulighed for overførsel af asylans
 
 Stk. 1. Udlændinge- og integrationsministeren fastsætter tidspunktet for lovens ikrafttræden.
 
-Stk. 2. Udlændinge- og integrationsministeren fremsætter forslag om revision af loven, hvis loven ikke inden udgangen af 2022 er trådt i kraft.
+Stk. 2. (Udelades)
 
 Lov nr. 1192 af 8. juni 2021 (Indførelse af almindelig klageadgang på visumområdet, karensperiode i visse visumsager, tilvejebringelse af hjemmel til at udstede langtidsvisum til diplomater m.v., forskellige justeringer af reglerne for beskæftigelse, privat indkvartering og indkvartering i egenfinansieret bolig for asylansøgere, tydeliggørelse af hjemmelen for iværksættelse af separat indkvartering af gifte eller samlevende mindreårige udlændinge, fuldbyrdelse af afgørelser om anbringelse af uledsagede mindreårige og genindførelse af erklæringsadgang for tidligere danske statsborgere m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
 
@@ -1292,7 +1292,7 @@ Stk. 4-6. (Udelades)
 
 Stk. 7. Regler fastsat i medfør af udlændingelovens § 42 e, stk. 6, jf. lovbekendtgørelse nr. 1910 af 26. september 2021, forbliver i kraft, indtil de ophæves eller afløses af forskrifter udstedt i medfør af udlændingelovens § 42 e, stk. 7, jf. denne lovs § 1, nr. 31.
 
-Stk. 8. Udlændinge- og integrationsministeren fremsætter forslag om revision af § 1, nr. 21, 23, 24 og 38, hvis bestemmelserne ikke inden udgangen af 2022 er trådt i kraft.
+Stk. 8. (Udelades)
 
 Lov nr. 696 af 24. maj 2022 (Styrket indsats mod menneskeudnyttelse) indeholder følgende ikrafttrædelsesbestemmelse:
 
@@ -1310,7 +1310,7 @@ Stk. 2. (Udelades)
 
 Stk. 3. Udlændinge- og integrationsministeren fastsætter tidspunktet for ikrafttrædelse af § 10, nr. 8 og 12.
 
-Stk. 4. Udlændinge- og integrationsministeren fremsætter forslag om revision af § 10, nr. 8 og 12, hvis bestemmelserne ikke inden udgangen af 2022 er trådt i kraft.
+Stk. 4. (Udelades)
 
 Stk. 5. (Udelades)
 
@@ -1507,3 +1507,119 @@ Stk. 5. Der kan ikke gives opholdstilladelse efter udlændingelovens § 9 i, stk
 Stk. 6. Ansøgning om opholdstilladelse, der er omfattet af stk. 2, afvises, hvis ansøgningen indgives efter den 1. januar 2025, medmindre særlige grunde taler herimod. Ansøgning om opholdstilladelse, der er omfattet af stk. 2, afvises, hvis udlændingens oprindelige opholdstilladelse blev inddraget efter udlændingelovens § 19, stk. 2, nr. 1-3, eller stk. 4 eller 5, eller opholdsretten efter EU-reglerne blev konstateret ophørt grundet hensynet til den offentlige orden, sikkerhed eller sundhed eller misbrug af rettigheder. En udlænding, der har indgivet ansøgning om opholdstilladelse efter stk. 2 i overensstemmelse med 1. pkt., må opholde sig her i landet og arbejde, i tiden indtil der er taget stilling til, om udlændingen kan meddeles opholdstilladelse efter udlændingelovens § 9 i, stk. 5, som affattet ved denne lovs § 1, nr. 6.
 
 Stk. 7. Regler udstedt i medfør af udlændingelovens § 9 i, stk. 7, 10 og 13, jf. lovbekendtgørelse nr. 1079 af 10. august 2023, forbliver i kraft, indtil de ophæves eller afløses af forskrifter udstedt i medfør af udlændingelovens § 9 i, stk. 13, 15 og 18, jf. denne lovs § 1, nr. 6, 7 og 11.
+
+Lov nr. 1458 af 10. december 2024 (Krav om fremvisning af legitimation og flere oplysningskrav i Registret for Udenlandske Tjenesteydere (RUT) indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 3
+
+Stk. 1. Loven træder i kraft den 1. januar 2025, jf. dog stk. 2.
+
+Stk. 2-5. (Udelades)
+
+Lov nr. 1656 af 30. december 2024 (Tilpasning af rådsstruktur på beskæftigelses- og arbejdsmiljøområdet, nedlæggelse af Helbredsoplysningsrådet og Jobservice Danmark og afskaffelse af de beskæftigelsespolitiske mål m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 13
+
+Stk. 1. Loven træder i kraft den 1. januar 2025, jf. dog stk. 2.
+
+Stk. 2. Beskæftigelsesministeren fastsætter tidspunktet for ikrafttrædelse af § 1, nr. 1, 4, 5, 7 og 9, § 2, nr. 1, 2 og 5-15, §§ 3-6, § 7, nr. 1, og §§ 8 og 10-12.
+
+Stk. 3. (Udelades)
+
+Lov nr. 1698 af 30. december 2024 (Ændring af regler som følge af EU-samarbejdet om Schengen og Dublinforordningen) indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 2
+
+Stk. 1. Loven træder i kraft den 1. januar 2025, jf. dog stk. 2.
+
+Stk. 2. Udlændinge- og integrationsministeren fastsætter tidspunktet for ikrafttrædelse af § 1, nr. 3-7. Ministeren kan herunder fastsætte, at bestemmelserne træder i kraft på forskellige tidspunkter.
+
+Lov nr. 1699 af 30. december 2024 (Ændringer af regler på udlændingeområdet vedrørende indkvartering, ydelser og sociale indsatser m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 5
+
+Stk. 1. Loven træder i kraft den 1. januar 2025, jf. dog stk. 2.
+
+Stk. 2. Udlændinge- og integrationsministeren fastsætter tidspunktet for ikrafttrædelsen af § 1, nr. 1.
+
+Stk. 3. § 1, nr. 1, får virkning for udbetaling af forsørgertillæg og nedsat forsørgertillæg, der følger førstkommende skæringsdato, jf. udlændingelovens § 42 b, stk. 7, 4. pkt.
+
+Lov nr. 1700 af 30. december 2024 (Afskaffelse af opholdstilladelse som udsendelseshindret) indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 4
+
+Stk. 1. Loven træder i kraft den 1. januar 2025.
+
+Stk. 2. Loven finder ikke anvendelse for ansøgninger om opholdstilladelse efter udlændingelovens § 9 c, stk. 2, indgivet inden lovens ikrafttræden og sager, hvor Hjemrejsestyrelsen på tidspunktet for lovens ikrafttræden har truffet afgørelse om, at en udlænding er udsendelseshindret efter udlændingelovens § 9 c, stk. 2, jf. hjemrejselovens § 3 a. For sådanne sager finder de hidtil gældende regler anvendelse.
+
+Stk. 3. Loven finder ikke anvendelse for klager efter udlændingelovens § 46 a, stk. 4, 2. pkt. For sådanne sager finder de hidtil gældende regler anvendelse.
+
+Stk. 4. Loven finder ikke anvendelse for ansøgninger om forlængelse af opholdstilladelse. For sådanne ansøgninger finder de hidtil gældende regler anvendelse.
+
+Stk. 5. Regler udstedt i medfør af § 46 a, stk. 10, i udlændingeloven, jf. lovbekendtgørelse nr. 1009 af 2. september 2024, forbliver i kraft, indtil de ophæves eller afløses af regler udstedt i medfør af § 46, stk. 9, i udlændingeloven, jf. denne lovs § 1, nr. 9.
+
+Lov nr. 1702 af 30. december 2024 (Mulighed for med henblik på behandlingen af opholdstilladelser på Færøerne og i Grønland at sætte regler om gebyr og registersamkøring i kraft og for at delegere kompetencen til at udstede langtidsvisum til en færøsk myndighed m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 22
+
+Loven træder i kraft den 1. januar 2025.
+
+Lov nr. 469 af 14. maj 2025 (Forbud mod anvendelse af personer under 18 år som tolke m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 51
+
+Stk. 1. Loven træder i kraft den 1. juli 2025.
+
+Stk. 2. Regler udstedt i medfør af udlændingelovens § 46 f, jf. lovbekendtgørelse nr. 1009 af 2. september 2024, forbliver i kraft, indtil de ophæves eller afløses af regler udstedt i medfør af udlændingelovens § 46 f, stk. 3, jf. denne lovs § 44.
+
+Lov nr. 636 af 10. juni 2025 (Skærpelse af bortfaldsregler for udlændinge med asyl, herunder regler om tilbagebetaling af udbetalt hjælp til repatriering, og udvidelse af adgangen til straksudsendelse) indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 4
+
+Stk. 1. Loven træder i kraft den 15. juni 2025.
+
+Stk. 2. Lovens § 1, nr. 1-3, finder alene anvendelse i tilfælde, hvor en udlænding efter lovens ikrafttræden opgiver sin bopæl i Danmark eller efter lovens ikrafttræden opholder sig uden for landet i de i udlændingelovens § 17, stk. 1, nævnte tidsrum. I andre tilfælde finder de hidtil gældende regler anvendelse.
+
+Lov nr. 698 af 20. juni 2025 om forsvarssamarbejde mellem Danmark og Amerikas Forenede Stater m.v. indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 15. Forsvarsministeren fastsætter tidspunktet for lovens ikrafttræden, jf. dog stk. 2.
+
+Stk. 2. (Udelades)
+
+Stk. 3. (Udelades)
+
+Lov nr. 754 af 20. juni 2025 (Kandidatuddannelse på 75 ECTS-point, nye erhvervskandidatuddannelser og andre elementer fra aftale om reform af universitetsuddannelserne i Danmark m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 6
+
+Stk. 1. Loven træder i kraft den 1. juli 2025, jf. dog stk. 2.
+
+Stk. 2-6. (Udelades)
+
+Lov nr. 755 af 20. juni 2025 (Skærpelse af udvisningsreglerne samt indarbejdelse af reglerne om udvisning af udlændinge omfattet af EU-reglerne m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 6
+
+Stk. 1. Loven træder i kraft den 1. juli 2025.
+
+Stk. 2. § 1, nr. 6, 17, 30-32 og 39, og §§ 3-5 finder ikke anvendelse på lovovertrædelser begået før lovens ikrafttræden. For sådanne lovovertrædelser finder de hidtil gældende regler anvendelse.
+
+Stk. 3. (Udelades)
+
+Lov nr. 756 af 20. juni 2025 (Ændring af regler om bevarelse af opholdstilladelse som følge af partnervold m.v., undtagelse af statsudsendte og deres medfølgende familie fra bortfaldsreglerne, kodificering af EU-retspraksis på familiesammenføringsområdet, gennemførelse af EES-forordningen om gradvis idriftsættelse af ind- og udrejsesystemet og API-forordningen om indsamling og overførsel af forhåndsoplysninger om passagerer m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 6
+
+Stk. 1. Loven træder i kraft den 1. juli 2025, jf. dog stk. 2-4.
+
+Stk. 2. Udlændinge- og integrationsministeren fastsætter tidspunktet for ikrafttrædelse af § 1, nr. 1-3, og §§ 4 og 5. Ministeren kan fastsætte, at bestemmelserne træder i kraft på forskellige tidspunkter.
+
+Stk. 3. Udlændinge- og integrationsministeren kan efter forhandling med justitsministeren fastsætte tidspunktet for ikrafttrædelse af § 1, nr. 4, 36, 43 og 44.
+
+Stk. 4. Udlændinge- og integrationsministeren fastsætter tidspunktet for ophævelse af udlændingelovens § 2 a, stk. 11, 2. pkt., som affattet ved denne lovs § 1, nr. 1.
+
+Stk. 5. Udlændingelovens § 19, stk. 7, 3.-5. pkt., § 19, stk. 8, 3.-5. pkt., § 19 a, stk. 4 og 5, og § 19 c, stk. 1, som affattet ved denne lovs § 1, nr. 27, 29, 32 og 34, finder ikke anvendelse for opholdstilladelser, der før den 1. juli 2025 er undladt inddraget eller nægtet forlænget efter udlændingelovens § 19, stk. 7, 1. pkt., § 19, stk. 8, 1. pkt., eller § 19 a, stk. 2, 3. pkt., eller er meddelt efter § 9 c, stk. 1, jf. lovbekendtgørelse nr. 1009 af 2. september 2024, efter ophør af opholdsret efter EU-opholdsbekendtgørelsens § 29, stk.1, jf. § 16, stk. 2, eller § 17, stk. 3, jf. stk. 2, nr. 3. For sådanne sager finder de hidtil gældende regler anvendelse.
+
+Stk. 6. Sager, som er verserende i Udlændingenævnet ved lovens ikrafttræden, og som omhandler klage over afgørelser, hvor Styrelsen for International Rekruttering og Integration under henvisning til manglende samliv har inddraget eller nægtet at forlænge en opholdstilladelse meddelt efter udlændingelovens § 9 m, stk. 1 eller 2, eller § 9 n, stk. 1, jf. lovbekendtgørelse nr. 1009 af 2. september 2024, og som indeholder oplysninger om, at udlændingen eller udlændingens barn har været udsat for overgreb, misbrug eller anden overlast m.v., herunder negativ social kontrol, her i landet, eller om, at den herboende ægtefælle eller samlever er afgået ved døden, sendes tilbage til styrelsen med anmodning om, at styrelsen tager stilling til, om opholdstilladelsen kan bevares efter udlændingelovens § 19, stk. 7, 1. pkt., § 19, stk. 8, 1. pkt., eller § 19 a, stk. 2, 3. pkt., som ændret ved denne lovs § 1, nr. 26, 28 og 31. Gebyr efter udlændingelovens § 9 h, stk. 5, 2. pkt., tilbagebetales.
+
+Stk. 7. Regler fastsat i medfør af udlændingelovens § 9 h, stk. 19, jf. lovbekendtgørelse nr. 1009 af 2. september 2024, forbliver i kraft, indtil de ophæves eller afløses af forskrifter udstedt i medfør af udlændingelovens § 9 h, stk. 15, jf. denne lovs § 1, nr. 9-11.
