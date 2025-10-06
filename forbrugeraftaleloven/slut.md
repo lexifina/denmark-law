@@ -1,10 +1,8 @@
-Givet på Christiansborg Slot, den 17. december 2013
+Justitsministeriet, den 28. september 2025
 
-Under Vor Kongelige Hånd og Segl
+Peter Hummelgaard
 
-MARGRETHE R.
-
-/ Karen Hækkerup
+/ Morten Schaumburg-Müller
 
 Bilag 1
 
@@ -16,7 +14,7 @@ De har ret til at træde tilbage fra denne aftale uden begrundelse inden for 14 
 
 Fortrydelsesfristen udløber 14 dage efter den dag, [1]
 
-For at udøve fortrydelsesretten skal De meddele os [2] Deres beslutning om at fortryde denne aftale i en utvetydig erklæring (f.eks. ved postbesørget brev, fax eller e-mail). De kan benytte den vedhæftede standardfortrydelsesformular, men det er ikke obligatorisk. [3]
+For at udøve fortrydelsesretten skal De meddele os [2] Deres beslutning om at fortryde denne aftale i en utvetydig erklæring (f.eks. ved postbesørget brev eller e-mail). De kan benytte den vedhæftede standardfortrydelsesformular, men det er ikke obligatorisk. [3]
 
 Fortrydelsesfristen er overholdt, hvis De sender Deres meddelelse om udøvelse af fortrydelsesretten, inden fortrydelsesfristen er udløbet.
 
@@ -44,7 +42,7 @@ d) »hvor De eller en af Dem angiven tredjemand, dog ikke transportøren, får d
 
 e) »hvor De eller en af Dem angiven tredjemand, dog ikke transportøren, får den første vare i fysisk besiddelse«, når det drejer sig om aftaler om regelmæssig levering af varer over en bestemt periode.
 
-[2. ] Indsæt Deres navn, fysiske adresse og i givet fald Deres telefonnummer, faxnummer og e-mail-adresse.
+[2. ] Indsæt Deres navn, fysiske adresse, telefonnummer og e-mailadresse.
 
 [3. ] Indføj følgende, hvis De giver forbrugeren mulighed for at udfylde og indsende oplysningerne om udøvelsen af fortrydelsesretten elektronisk på Deres hjemmeside: »De har også mulighed for at udfylde og indsende fortrydelsesformularen eller en hvilken som helst anden utvetydig meddelelse på vores hjemmeside [indføj internetadresse]. Hvis De anvender denne mulighed, kvitterer vi omgående på et varigt medium (f.eks. pr. e-mail) for modtagelse af en sådan meddelelse om udøvelse af fortrydelsesretten.«
 
@@ -102,7 +100,7 @@ Standardfortrydelsesformular
 
 (denne formular udfyldes og returneres kun, hvis fortrydelsesretten gøres gældende)
 
-- Til [her indsættes den erhvervsdrivendes navn, fysiske adresse og i givet fald faxnummer og e-mail-adresse af den erhvervsdrivende selv]:
+- Til [her indsættes den erhvervsdrivendes navn, fysiske adresse og e-mail-adresse af den erhvervsdrivende selv]:
 
 - Jeg/vi (*) meddeler herved, at jeg/vi (*) ønsker at gøre fortrydelsesretten gældende i forbindelse med min/vores (*) købsaftale om følgende varer (*)/levering af følgende tjenesteydelser (*)
 
@@ -117,3 +115,5 @@ Standardfortrydelsesformular
 - Dato
 
 (*) Det ikke relevante udstreges
+
+EU Noter
