@@ -1,0 +1,5 @@
+§ 54 a. Klager over spillemyndighedens afgørelser om påbud efter § 49 a, stk. 1, har opsættende virkning, medmindre Landsskatteretten eller skatteankeforvaltningen bestemmer andet, jf. dog stk. 2.
+
+Stk. 2. Klager over spillemyndighedens afgørelser om påbud efter § 49 a, stk. 1, vedrørende forhold, som skal bringes i orden straks, har ikke opsættende virkning. Landsskatteretten eller skatteankeforvaltningen kan dog tillægge en klage opsættende virkning, hvis særlige omstændigheder taler derfor. Landsskatterettens afgørelse kan træffes af en retsformand eller en kontorchef i skatteankeforvaltningen efter bemyndigelse fra Landsskatterettens ledende retsformand.
+
+Stk. 3. Klager over spillemyndighedens afgørelser truffet efter § 49 a, stk. 2, har ikke opsættende virkning. Landsskatteretten eller skatteankeforvaltningen kan dog tillægge en klage opsættende virkning, hvis særlige omstændigheder taler derfor. Landsskatterettens afgørelse kan træffes af en retsformand eller en kontorchef i skatteankeforvaltningen efter bemyndigelse fra Landsskatterettens ledende retsformand.
