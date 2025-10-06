@@ -1,0 +1,3 @@
+§ 42 b. For tilladelser udstedt til oprettelse og drift af landbaserede kasinoer, jf. § 14, stk. 1, betales et årligt gebyr afhængigt af kalenderårets afgiftspligtige spilleindtægt, jf. § 10 i lov om afgifter af spil, til spillemyndigheden. Gebyret skal betales, senest 1 måned efter at tilladelsen har fået virkning, efter følgende skala:
+
+Spilleindtægtens størrelse Gebyr (2010-niveau) Under 10.000.000 kr. 143.200 kr. 10.000.000 kr. indtil 20.000.000 kr. 286.500 kr. 20.000.000 kr. indtil 50.000.000 kr. 429.750 kr. 50.000.000 kr. indtil 100.000.000 kr. 716.300 kr. 100.000.000 kr. og derover 1.193.800 kr.
