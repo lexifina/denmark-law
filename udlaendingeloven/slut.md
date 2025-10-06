@@ -1,6 +1,6 @@
-Udlændinge- og Integrationsministeriet, den 2. september 2024
+Udlændinge- og Integrationsministeriet, den 25. september 2025
 
-Kaare Dybvad Bek
+Rasmus Stoklund
 
 / Merete Milo
 
@@ -158,7 +158,7 @@ Oversigt over arbejdsfunktioner på arbejdsmarkedsbalancen med stillinger på mi
 
 75. Politimæssigt undersøgelsesarbejde (335500)
 
-76. Andet arbejde med forvaltning og udøvelse aflovgivning (335900)
+76. Andet arbejde med forvaltning og udøvelse af lovgivning (335900)
 
 77. Juridisk arbejde på mellemniveau (341100)
 
@@ -309,3 +309,5 @@ Oversigt over arbejdsfunktioner på arbejdsmarkedsbalancen med stillinger på mi
 150. Dæksarbejde og medhjælp om bord på skibe (835000)
 
 151. Manuelt arbejde inden for husdyravl (921200)
+
+Slutnoter
