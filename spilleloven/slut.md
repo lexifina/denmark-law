@@ -1,5 +1,7 @@
-Skatteministeriet, den 4. september 2020
+Skatteministeriet, den 22. september 2025
 
-P.M.V. Jens Brøchner
+P.M.V. Merete Agergaard
 
 / Jeanette Rose Hansen
+
+EU Noter
