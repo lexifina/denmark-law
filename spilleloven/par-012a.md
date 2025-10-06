@@ -1,0 +1,9 @@
+§ 12 a. Spillemyndigheden kan udveksle nødvendige oplysninger om aftalt spil med tilladelsesindehavere og andre danske og udenlandske myndigheder og enheder. Databeskyttelsesforordningens artikel 13-15 finder ikke anvendelse på spillemyndighedens udveksling af nødvendige oplysninger om aftalt spil.
+
+Stk. 2. Medlemmer af den nationale platform for koordinering af bekæmpelse af manipulation af idrætskonkurrencer i Danmark kan uanset tavshedspligt videregive oplysninger til myndigheder, virksomheder og enheder, der deltager i en dansk eller udenlandsk national platform til bekæmpelse af aftalt spil, hvis oplysningerne er nødvendige for at forebygge eller bekæmpe aftalt spil.
+
+Stk. 3. Myndigheder, virksomheder eller enheder, der modtager fortrolige oplysninger om aftalt spil i medfør af stk. 1 eller 2, er under ansvar efter straffelovens §§ 152-152 e forpligtet til at hemmeligholde oplysninger, som modtages, jf. dog stk. 5. Videregivelse af oplysninger efter stk. 1 og 2 til udenlandske myndigheder eller enheder kan alene ske, under forudsætning af at modtagerne er underlagt tavshedspligt, der mindst svarer til tavshedspligten i medfør af 1. pkt.
+
+Stk. 4. Tavshedspligten efter stk. 3 gælder også videregivelse af oplysninger til den fysiske eller juridiske person, som oplysningerne vedrører, uanset en eventuel retlig forpligtelse til at videregive oplysningerne til den pågældende i henhold til anden lovgivning, jf. dog stk. 5.
+
+Stk. 5. Oplysninger omfattet af stk. 3 kan efter samtykke fra den afgivende part inddrages i den modtagende myndigheds eller enheds offentliggørelse eller videregivelse af oplysningerne. Foreligger der samtykke, finder de regler, der i almindelighed gælder for den modtagende myndighed eller enhed, og som i medfør af stk. 3 og 4 er fraveget, anvendelse.
