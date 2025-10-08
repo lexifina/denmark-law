@@ -1,5 +1,7 @@
-Miljøministeriet, den 4. januar 2023
+Miljø- og Ligestillingsministeriet, den 25. september 2025
 
-P.M.V Jakob Møller Nielsen
+P.M.V. Ida Hannibal
 
 / Lea Frimann Hansen
+
+EU Noter
