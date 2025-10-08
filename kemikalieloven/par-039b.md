@@ -1,4 +1,4 @@
-§ 39 b. Miljøministeren fastsætter med henblik på opfyldelse af EU-retlige forpligtelser, der vedrører stoffer, blandinger og andre varer omfattet af denne lov, regler om producenters, importørers og forhandleres egenkontrol og oplysnings- og undersøgelsespligt, herunder pligt til
+§ 39 b. Miljøministeren fastsætter med henblik på opfyldelse af EU-retlige forpligtelser, der vedrører stoffer, blandinger og andre varer omfattet af denne lov, regler om producenters, importørers, operatørers og forhandleres egenkontrol og oplysnings- og undersøgelsespligt, herunder pligt til
 
 1) at sikre, at produktion og varer er i overensstemmelse med fastsatte krav,
 
