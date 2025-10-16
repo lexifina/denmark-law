@@ -741,3 +741,51 @@ Stk. 1. Loven træder i kraft den 1. januar 2025.
 Stk. 2. Sygemeldte, der er visiteret til kategori 3, jf. § 12, stk. 1, nr. 3, i lov om sygedagpenge, jf. lovbekendtgørelse nr. 994 af 22. august 2024, og som fortsat er uarbejdsdygtige, visiteres den 1. januar 2025 til kategori 2, jf. § 12, stk. 1, nr. 2, i lov om sygedagpenge.
 
 Stk. 3. I sager, hvor sygemeldte er visiteret til kategori 3, jf. § 12, stk. 1, nr. 3, i lov om sygedagpenge, jf. lovbekendtgørelse nr. 994 af 22. august 2024, og i sager, hvor personer er overgået til første jobafklaringsforløb efter § 24, stk. 2, eller § 24 a i lov om sygedagpenge, jf. lovbekendtgørelse nr. 994 af 22. august 2024, inden lovens ikrafttræden, finder § 13 c, stk. 3, i lov om sygedagpenge som affattet ved denne lovs § 1, nr. 10, og § 109 i lov om en aktiv beskæftigelsesindsats som affattet ved denne lovs § 2, nr. 7, ikke anvendelse. For sådanne sager finder de hidtil gældende regler i § 13 d, stk. 3, i lov om sygedagpenge, jf. lovbekendtgørelse nr. 994 af 22. august 2024, og § 109 i lov om en aktiv beskæftigelsesindsats, jf. lovbekendtgørelse nr. 280 af 1. marts 2024, anvendelse.
+
+Lov nr. 1656 af 30. december 2024 (Tilpasning af rådsstruktur på beskæftigelses- og arbejdsmiljøområdet, nedlæggelse af Helbredsoplysningsrådet og Jobservice Danmark og afskaffelse af de beskæftigelsespolitiske mål m.v.) indeholder følgende ikrafttrædelsesbestemmelser:
+
+§ 13
+
+Stk. 1. Loven træder i kraft den 1. januar 2025, jf. dog stk. 2.
+
+Stk. 2. Beskæftigelsesministeren fastsætter tidspunktet for ikrafttrædelse af § 1, nr. 1, 4, 5, 7 og 9, § 2, nr. 1, 2 og 5-15, §§ 3-6, § 7, nr. 1, og §§ 8 og 10-12.
+
+Stk. 3. (Udelades)
+
+§ 14
+
+Stk. 1 Loven gælder ikke for Færøerne og Grønland, jf. dog stk. 2 og 3.
+
+Stk. 2 og 3. (Udelades)
+
+Lov nr. 1703 af 30. december 2024 (Ændringer som følge af ældreloven, lov om ældretilsyn og lov om lokalplejehjem og udskillelse af reglerne om madservice fra bestemmelsen om personlig og praktisk hjælp i lov om social service) indeholder følgende ikrafttrædelses- og overgangsbestemmelser:
+
+Ikrafttræden m.v.
+
+§ 21
+
+Stk. 1 og 2. (Udelades)
+
+Stk. 3. §§ 1 og 2, § 3, nr. 2, og §§ 4 og 7-20 træder i kraft den 1. juli 2025.
+
+Stk. 4-6. (Udelades)
+
+Stk. 7. Ved afgørelser efter §§ 32 og 42 i lov om sygedagpenge og §§ 27 og 28 i barselsloven efter lovens ikrafttræden indgår perioder med plejevederlag for pasning af en nærtstående, der ønsker at dø i eget hjem, efter den hidtil gældende § 120 i lov om social service, jf. lovbekendtgørelse nr. 909 af 3. juli 2024, eller § 90, nr. 12, i barnets lov, jf. lovbekendtgørelse nr. 890 af 19. juni 2024, samt perioder med godtgørelse for tabt arbejdsfortjeneste ved pasning af et handicappet barn i hjemmet efter den til og med den 31. december 2023 gældende § 42 i lov om social service.
+
+Stk. 8. (Udelades)
+
+§ 22
+
+Loven gælder ikke for Færøerne og Grønland, men § 20 kan ved kongelig anordning helt eller delvis sættes i kraft for Grønland med de ændringer, som de grønlandske forhold tilsiger.
+
+Lov nr. 469 af 14. maj 2025 (Forbud mod anvendelse af personer under 18 år som tolke m.v.) indeholder følgende ikrafttrædelsesbestemmelser:
+
+§ 51
+
+Stk. 1. Loven træder i kraft den 1. juli 2025.
+
+Stk. 2. (Udelades)
+
+§ 52
+
+Loven gælder ikke for Færøerne og Grønland. §§ 44 og 48 kan ved kongelig anordning helt eller delvis sættes i kraft for Færøerne og Grønland med de ændringer, som henholdsvis de færøske og de grønlandske forhold tilsiger. Bestemmelserne kan sættes i kraft på forskellige tidspunkter.

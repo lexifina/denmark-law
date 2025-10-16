@@ -151,3 +151,11 @@
 76) Lovændringen vedrører lovens § 71 b, stk. 1, nr. 7.
 
 77) Lovændringen vedrører lovens § 8, stk. 1, § 12, § 13, stk. 1, § 13 a, stk. 1, § 13 b, stk. 1 og 7, § 13 c, § 13 d, § 13 f, § 14 og § 15, stk., 1, 2, 5 og 7.
+
+78) Lovændringen vedrører lovens kapitel 30.
+
+79) Er ved bekendtgørelse nr. 218 af 26. februar 2025 om ikrafttræden af § 1, nr. 1, 4, 5, 7 og 9, § 2, nr. 1, 2 og 5-15, §§ 3-6, § 7, nr. 1, og §§ 8 og 10-12, i lov nr. 1656 af 30. december 2024 om ændring af lov om organisering og understøttelse af beskæftigelsesindsatsen m.v., lov om arbejdsmiljø og forskellige andre love fastsat til 1. marts 2025.
+
+80) Lovændringen vedrører lovens § 32, stk. 3, og § 42, stk. 2.
+
+81) Lovændringen vedrører lovens § 70.

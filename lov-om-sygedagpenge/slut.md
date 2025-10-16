@@ -1,4 +1,4 @@
-Styrelsen for Arbejdsmarked og Rekruttering, den 29. januar 2025
+Styrelsen for Arbejdsmarked og Rekruttering, den 9. oktober 2025
 
 Jens Erik Zebis
 
