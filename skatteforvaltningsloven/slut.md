@@ -1,5 +1,7 @@
-Skatteministeriet, den 20. september 2024
+Skatteministeriet, den 13. oktober 2025
 
-P.M.V. Michael Skaarup
+P.M.V. Merete Agergaard
 
 / Maiken Bøgelund Bek
+
+Slutnoter
