@@ -24,6 +24,18 @@ Stk. 2. (Udelades)
 
 § 7
 
-Stk. 1-5. (Udlades)
+Stk. 1-5. (Udelades)
 
 Stk. 6. Afgørelser truffet i medfør af den hidtil gældende regel i § 7, 3. pkt., i lov om kommuners afståelse af vandselskaber, jf. lovbekendtgørelse nr. 862 af 23. august 2019, bevarer deres gyldighed, indtil der træffes ny afgørelse efter vandsektorlovens § 18, stk. 4, jf. denne lovs § 1, nr. 31. Overtrædelse af afgørelser truffet i medfør af den hidtil gældende regel i § 7, 3. pkt., i lov om kommuners afståelse af vandselskaber, jf. lovbekendtgørelse nr. 862 af 23. august 2019, straffes efter de hidtil gældende regler.
+
+Lov nr. 1647 af 30. december 2024 om CO2-fangstaktiviteter i forsyningssektoren indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 28. Loven træder i kraft den 1. januar 2025.
+
+Lov nr. 700 af 20. juni 2025 om forsyning med teknisk vand indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 15. Loven træder i kraft den 1. juli 2025.
+
+Stk. 2-3. (Udelades)
+
+Stk. 4. En kommune skal give meddelelse til Vandsektortilsynet, hvis kommunen eller et kommunalt selskab ejer et selskab, som ved lovens ikrafttræden overgår til at være et teknisk vand-selskab.

@@ -1,5 +1,7 @@
-Energistyrelsen, den 17. september 2024
+Energistyrelsen, den 27. oktober 2025
 
 Peter Christian Baggesgaard Hansen
 
 / Eskil Lykke Jacobsen
+
+Slutnoter
