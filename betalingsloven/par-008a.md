@@ -1,1 +1,3 @@
 § 8 a. Klima-, energi- og forsyningsministeren kan fastsætte regler om, at kommunalbestyrelsens afgørelser i henhold til § 3 b, stk. 2, og afgørelser truffet efter regler udstedt i medfør af § 3 c, stk. 4 og 5, ikke skal kunne indbringes for Energiklagenævnet.
+
+§§ 8 b og 8 c. (Ophævet)
