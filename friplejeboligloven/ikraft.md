@@ -24,13 +24,13 @@ Lov nr. 326 af 11. april 2012 (Fordeling af myndighedsansvaret mellem kommunerne
 
 § 25
 
-Stk. 1. Loven træder i kraft den 1. oktober 2012, jf. dog stk. 2-4.
+Loven træder i kraft den 1. oktober 2012, jf. dog stk. 2-4.
 
 Stk. 2-4. (Udelades)
 
 § 26
 
-Stk. 1. Sager, hvor myndighedsansvaret overgår til Udbetaling Danmark efter denne lovs §§ 1-5, 9, 13 og 24, og som ved lovens ikrafttræden ikke er afgjort eller afsluttet i kommunen, behandles færdige i Udbetaling Danmark.
+Sager, hvor myndighedsansvaret overgår til Udbetaling Danmark efter denne lovs §§ 1-5, 9, 13 og 24, og som ved lovens ikrafttræden ikke er afgjort eller afsluttet i kommunen, behandles færdige i Udbetaling Danmark.
 
 Stk. 2-10. (Udelades)
 
@@ -132,7 +132,7 @@ Lov nr. 628 af 8. juni 2016 (Overførsel af opgaver fra Statens Administrations 
 
 Stk. 1. Loven træder i kraft den 1. oktober 2016, jf. dog stk. 2 og 3.
 
-2 og 3 (Udelades)
+Stk. 2-3. (Udelades)
 
 § 55
 
@@ -153,3 +153,49 @@ Lov nr. 389 af 26. april 2017 (Medfinansiering af Center for Boligsocial Udvikli
 § 6
 
 Loven træder i kraft den 1. maj 2017.
+
+Lov nr. 1567 af 18. december 2018 om ændring af lov om almene boliger m.v. og lov om friplejeboliger (Nedsættelse af grundkapital for almene boliger og kapitalindskud for friplejeboliger, differentieret grundkapital for almene familieboliger og udlejning af kommunalt ejede almene ældreboliger som almene ungdomsboliger) indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 3
+
+Loven træder i kraft den 1. januar 2019.
+
+Lov nr. 2077 af 21. december 2020 om ændring af lov om almene boliger m.v., lov om midlertidig regulering af boligforholdene og lov om friplejeboliger (Landsbyggefondens rammer 2021-2026, sammenlægning af boliger, grundkapital for almene boliger og kapitalindskud for friplejeboliger m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 4
+
+Loven træder i kraft den 1. januar 2021.
+
+Lov nr. 2189 af 29. december 2020 om ændring af barselsloven, lov om sygedagpenge og forskellige andre love (Ret til fravær i 26 uger for forældre, der mister et barn under 18 år, (sorgorlov) og bemyndigelse til at fastsætte særlige regler om revision af nogle kommuners regnskaber for regnskabsåret 2021 på områder med statsrefusion eller statstilskud) indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 12
+
+Stk. 1. Loven træder i kraft den 1. januar 2021.
+
+Stk. 2. (Udelades)
+
+Lov nr. 344 af 22. marts 2022 om ændring af lov om leje af almene boliger, lov om almene boliger m.v., lov om boliger for ældre og personer med handicap og forskellige andre love (Konsekvensrettelser som følge af lov om leje og lov om boligforhold samt opsigelse af fremlejegivere i almene boliger) indeholder følgende ikrafttrædelsesbestemmelser:
+
+§ 11
+
+Loven træder i kraft den 1. juli 2022.
+
+§ 12
+
+(Udelades)
+
+Lov nr. 1704 af 30. december 2024 om ændring af lov om friplejeboliger og lov om almene boliger m.v. (Finansiering af støttede friplejeboliger, forhøjelse af årlig bevillingskvote, afhændelse af friplejeboliger, sale and lease back-aftaler, forbud mod afvisning af borgere, fastsættelse af afregningspriser, ændringer som følge af ældreloven m.v.) indeholder følgende ikrafttrædelses- og overgangsbestemmelser:
+
+§ 3
+
+Stk. 1. Loven træder i kraft den 1. juli 2025.
+
+Stk. 2. § 1, nr. 31, 32, 34, 36, 38 og 40-42, og § 2, nr. 4, finder ikke anvendelse for friplejeboliger, som før lovens ikrafttræden er meddelt tilsagn om støtte efter den dagældende § 10, stk. 1, i lov om friplejeboliger, jf. lovbekendtgørelse nr. 897 af 17. august 2011, eller efter § 11 a, stk. 1, i lov om friplejeboliger, eller som er godkendt ved omdannelse af eksisterende ejendomme efter § 11, stk. 2, i lov om friplejeboliger. For friplejeboligleverandører med sådanne friplejeboligejendomme vil de hidtil gældende regler fortsat finde anvendelse.
+
+Stk. 3. Friplejeboligleverandører, som inden den 1. juli 2025 har indgået lejeaftale med personer, som efter den 30. juni 2025 er omfattet af ældreloven, skal senest den 1. januar 2026 være meddelt certifikation, som omfatter levering af pleje- og omsorgsforløb og madordning efter §§ 10 og 14 i ældreloven, efter reglerne i kapitel 3 i lov om friplejeboliger og efter regler udstedt i medfør af § 9 i lov om friplejeboliger.
+
+Stk. 4. Indtil den 1. januar 2026 har en person, der er omfattet af ældreloven, og som kommunalbestyrelsen har visiteret til en plejebolig eller en lignende boligform, ret til frit at vælge at indgå en lejeaftale med en friplejeboligleverandør, der ikke er meddelt certifikation, som omfatter levering af pleje- og omsorgsforløb og madordning efter §§ 10 og 14 i ældreloven. 1. pkt. gælder kun, hvis den valgte friplejeboligleverandør skriftligt har ansøgt Sundhedsstyrelsen om certifikation, som omfatter levering af pleje- og omsorgsforløb og madordning efter §§ 10 og 14 i ældreloven. Den valgte friplejeboligleverandør skal senest den 1. januar 2026 være meddelt certifikation, som omfatter levering af pleje- og omsorgsforløb og madordning efter §§ 10 og 14 i ældreloven, efter reglerne i kapitel 3 i lov om friplejeboliger og efter regler udstedt i medfør af § 9 i lov om friplejeboliger.
+
+Stk. 5. § 1, nr. 22, finder ikke anvendelse for aftaler, som er indgået før lovens ikrafttræden og med overdragelse inden for 6 måneder. For sådanne aftaler vil de hidtil gældende regler finde anvendelse.
+
+Stk. 6. Regler fastsat i medfør af § 32, stk. 3 og 4, og § 33 i lov om friplejeboliger forbliver i kraft, indtil de ophæves eller afløses af nye regler.

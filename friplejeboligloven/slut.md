@@ -1,5 +1,7 @@
-Transport-, Bygnings- og Boligministeriet, den 26. oktober 2017
+Social- og Boligstyrelsen, den 28. oktober 2025
 
-Ole Birk Olesen
+Ellen Klarskov Lauritzen
 
-/ Mikkel Sune Smith
+/ Lise Aaen Kobberholm
+
+Slutnoter
