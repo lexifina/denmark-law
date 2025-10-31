@@ -1,5 +1,7 @@
-Energistyrelsen, den 8. oktober 2021
+Energistyrelsen, den 22. oktober 2025
 
-Stine Leth Rasmussen
+Iben Møller Søndergård
 
-/ Charlotte Kirk Larsen
+/ Sarah Videbæk Hundebøl
+
+EU Noter
