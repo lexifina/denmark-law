@@ -1,1 +1,1 @@
-§ 99 c. Henlægger transport-, bygnings- og boligministeren sine beføjelser efter loven til en styrelse under ministeriet, kan ministeren fastsætte regler om klageadgang, herunder at klager ikke kan indbringes for anden administrativ myndighed.
+§ 99 c. Henlægger social- og boligministeren sine beføjelser efter loven til en styrelse under ministeriet, kan ministeren fastsætte regler om klageadgang, herunder at klager ikke kan indbringes for anden administrativ myndighed.
