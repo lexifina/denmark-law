@@ -1,5 +1,7 @@
-Energistyrelsen, den 28. august 2019
+Energistyrelsen, den 24. oktober 2025
 
-Stig Uffe Pedersen Vicedirektør
+Iben Møller Søndergård
 
-/ Mogens Uhd Nielsen
+/ Claus Meineche
+
+Slutnoter
