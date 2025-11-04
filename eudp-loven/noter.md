@@ -9,3 +9,5 @@
 5) § 1 i lov nr. 1606 af 22. december 2010 (Green Labs DK-programmet) er sat i kraft den 26. april 2011, jf. bekendtgørelse nr. 315 af 11. april 2011 om ikrafttræden af dele af lov om ændring af lov om et Energiteknologisk Udviklings- og Demonstrationsprogram og lov om statstilskud til dækning af udgifter til kuldioxidafgift i visse virksomheder med et stort energiforbrug.
 
 6) Lovændringen vedrører § 11, stk. 2.
+
+7) Lovændringen vedrører § 16, stk. 5-7.

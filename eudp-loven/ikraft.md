@@ -17,3 +17,13 @@ Stk. 2. (Udelades)
 Stk. 3. Danmarks Innovationsfond indtræder ved lovens ikrafttræden i de rettigheder og forpligtelser, som hidtil har tilkommet Det Strategiske Forskningsråd og Højteknologifonden.
 
 Stk. 4-6. (Udelades)
+
+Lov nr. 468 af 14. maj 2025 om Energiklagenævnet indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 18. Loven træder i kraft den 1. juli 2025.
+
+Stk. 2. Klager, der er indgivet før tidspunktet for lovens ikrafttræden, og som ikke er færdigbehandlet før lovens ikrafttræden, behandles efter reglerne i denne lov.
+
+Stk. 3. For beskikkelser af nævnsmedlemmer, der er foretaget før lovens ikrafttræden, finder de hidtil gældende regler anvendelse indtil beskikkelsesperiodens udløb.
+
+Stk. 4. Beskikkelser, der foretages første gang efter lovens ikrafttræden, kan ske for en længere periode end 4 år.
