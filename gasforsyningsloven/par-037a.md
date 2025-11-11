@@ -23,3 +23,5 @@ Stk. 5. Forsyningstilsynet kan give dispensation fra de af tilsynet fastsatte ra
 Stk. 6. Distributionsselskaber skal udarbejde, revidere og indsende årlige reguleringsregnskaber for selskabets aktiviteter til Forsyningstilsynet. Forsyningstilsynet offentliggør reguleringsregnskaberne.
 
 Stk. 7. Forsyningstilsynet fastsætter nærmere regler om årlige reguleringsregnskaber efter stk. 6, herunder om indhold, opbevaring, revision og indsendelsens form og om, at indsendelsen skal ske elektronisk eller ved anvendelse af et bestemt digitalt system, frist for indsendelse og konsekvens af fristoverskridelse.
+
+§§ 37 b og 37 c. (Ophævet)

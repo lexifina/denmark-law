@@ -12,57 +12,13 @@ Stk. 7. Kravene i § 10 b i lov om naturgasforsyning som affattet ved denne lovs
 
 Stk. 8-10. (Udelades)
 
-Lov nr. 576 af 18. juni 2012 (Støtte til vindmøller på land, biogas og eksisterende industrielle kraftvarmeværker samt forlængelse af puljen til nye VE-teknologier m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
+Lov nr. 576 af 18. juni 2012 (Støtte til vindmøller på land, biogas og eksisterende industrielle kraftvarmeværker samt forlængelse af puljen til nye VE-teknologier m.v.), som ændret ved lov nr. 641 af 12. juni 2013, indeholder følgende ikrafttrædelsesbestemmelse:
 
 § 5
 
 Stk. 1. Klima-, energi- og bygningsministeren fastsætter tidspunktet for lovens ikrafttræden. Ministeren kan herunder fastsætte, at dele af loven træder i kraft på forskellige tidspunkter.
 
 Stk. 2. Klima-, energi- og bygningsministeren kan efter forelæggelse for et af Folketinget nedsat udvalg fastsætte, at dele af loven får virkning på forskellige tidspunkter, herunder tidspunkter efter vedtagelsen, men forud for ikrafttrædelsen.
-
-Stk. 3. (Ophævet)
-
-Lov nr. 630 af 8. juni 2016 (Energinet.dk’s varetagelse af gasopstrømssystem-, olierørlednings- og separationsvirksomhed samt økonomisk regulering af naturgasdistributionsvirksomhed varetaget af Energinet.dk m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
-
-§ 4
-
-Loven træder i kraft den 1. juli 2016.
-
-Lov nr. 1755 af 27. december 2016 (It-beredskab i el- og naturgassektorerne, gebyr for tilladelser til Energinet.dk og forhøjelse af indtægtsrammer for netvirksomheder m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
-
-§ 3
-
-Stk. 1. Loven træder i kraft den 1. juli 2017, jf. dog stk. 2.
-
-Stk. 2. (Udelades)
-
-Lov nr. 662 af 8. juni 2017 (Økonomisk regulering af netvirksomheder, skærpelse af netvirksomheders særskilte identitet, ophævelse af støtteordninger for elektricitet fra særlige anlæg, der anvender biomasse som energikilde, og opkrævning af betaling for myndighedsbehandling m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
-
-§ 5
-
-Stk. 1. Loven træder i kraft den 1. juli 2017, jf. dog stk. 2-4.
-
-Stk. 2-8. (Udelades)
-
-Lov nr. 663 af 8. juni 2017 (Forhøjelse af procenten for modregning i den enkelte kommunes statstilskud ved overførsel af midler fra kommunale varmeforsyningsvirksomheder m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
-
-§ 5
-
-Stk. 1. Loven træder i kraft dagen efter bekendtgørelsen i Lovtidende.
-
-Stk. 2. Loven har virkning fra den 3. maj 2017.
-
-Lov nr. 1399 af 5. december 2017 (Betaling for myndighedsbehandling og justering af bestemmelser om tilsyn med Energinet) indeholder følgende ikrafttrædelsesbestemmelse:
-
-§ 6
-
-Loven træder i kraft den 1. januar 2018.
-
-Lov nr. 1675 af 26. december 2017 (Øget incitament til konsolidering af naturgasdistributionssektoren og udvidet mulighed for at undtage transmissionsselskabers anlæg fra lov om naturgasforsyning) indeholder følgende ikrafttrædelsesbestemmelse:
-
-§ 3
-
-Loven træder i kraft den 1. januar 2018.
 
 Lov nr. 1667 af 26. december 2017 (Overførsel af opgaver fra Energinet til energi-, forsynings- og klimaministeren m.v.) indeholder følgende ikrafttrædelses- og overgangsbestemmelse:
 
@@ -77,36 +33,6 @@ Stk. 5. § 51, stk. 2, 3, 5 og 6, i lov om naturgasforsyning, jf. lovbekendtgør
 Stk. 6-7. (Udelades)
 
 Stk. 8. Regler fastsat i medfør af naturgasforsyningslovens § 35 d, stk. 5, 6, 8 og 10, jf. lovbekendtgørelse nr. 1157 af 6. september 2016, og i medfør af elforsyningslovens § 58 c, stk. 8-13, jf. lovbekendtgørelse nr. 418 af 25. april 2016, forbliver i kraft, indtil de ophæves eller afløses af forskrifter udstedt i medfør af denne lov.
-
-Lov nr. 690 af 8. juni 2018 om Forsyningstilsynet indeholder følgende ikrafttrædelsesbestemmelse:
-
-§ 14. Loven træder i kraft den 1. juli 2018, jf. dog stk. 2.
-
-Stk. 2-3. (Udelades)
-
-Lov nr. 704 af 8. juni 2018 (Styrkelse af rammerne for overvågning af elforsyningssikkerheden og klare regler for sikring af kapacitet, ændringer som følge af forordninger om EU-netregler, flytning af ansvar for måling af elektricitet hos elforbrugere direkte tilsluttet transmissionsnettet og samkøring af oplysninger om realiserede energibesparelser m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
-
-§ 6
-
-Stk. 1. Loven træder i kraft den 1. juli 2018, jf. dog stk. 2.
-
-Stk. 2. (Udelades)
-
-Lov nr. 494 af 1. maj 2019 (Nye rammer for Energinets selskabsstruktur, gebyrfinansiering af overflyttede tilsynsopgaver fra Energinet til Energistyrelsen og supplerende regler til forordning om foranstaltninger til opretholdelse af gasforsyningssikkerheden m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
-
-§ 4
-
-Stk. 1. Loven træder i kraft den 1. juli 2019, jf. dog stk. 2 og 3.
-
-Stk. 2. (Udelades)
-
-Stk. 3. Lovens § 3, nr. 11, træder i kraft dagen efter bekendtgørelsen i Lovtidende.
-
-Lov nr. 1294 af 5. december 2019 (Gennemførelse af ændret gasdirektiv, præcisering af transmissionsselskabers ansvar for gasforsyningssikkerhed og præcisering af ekspropriationsadgang for gasinfrastruktur m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
-
-§ 3
-
-Loven træder i kraft den 1. januar 2020.
 
 Lov nr. 1566 af 27. december 2019 (Ændring af støtteordninger til anvendelse af biogas) indeholder følgende ikrafttrædelsesbestemmelse:
 
@@ -140,14 +66,6 @@ Stk. 6. Klima-, energi- og forsyningsministeren fastsætter regler om tidspunkte
 
 Stk. 7. Regler fastsat i medfør af det gældende § 71, stk. 2, i lov om elforsyning, jf. lovbekendtgørelse nr. 119 af 6. februar 2020, og i medfør af det gældende § 37 d, stk. 2, i lov om naturgasforsyning, jf. lovbekendtgørelse nr. 126 af 6. februar 2020, forbliver i kraft, indtil de ophæves eller afløses af nye regler.
 
-Lov nr. 883 af 12. maj 2021 (Gennemførelse af dele af direktiv om fremme af anvendelsen af energi fra vedvarende energikilder, herunder bestemmelser om oprindelsesgarantier, tilladelsesprocesser, VE-fællesskaber, bæredygtighedskriterier og kriterier for drivhusgasemissionsbesparelser for biobrændstoffer, biomassebrændsler og flydende biobrændsler, m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
-
-§ 13
-
-Stk. 1. Loven træder i kraft den 30. juni 2021, jf. dog stk. 2.
-
-Stk. 2-9. (Udelades)
-
 Lov nr. 923 af 18. maj 2021 (Indpasning af gas fra vedvarende energikilder, udbud af pristillæg for opgraderet biogas og andre gasser fra vedvarende energikilder, udbud af støtte til produktion af brændstoffer eller andre produkter fra elektricitet (power-to-x), justering af den økonomiske regulering af gasdistributionsselskaber og reglerne for gasdetailmarkedet og sidestillelse af regioner med kommuner i forhold til egenproduktion af elektricitet ved selskabsudskillelse m.v. ) indeholder følgende ikrafttrædelsesbestemmelse:
 
 § 10
@@ -179,3 +97,77 @@ Stk. 2. § 1, nr. 16 og 72, træder i kraft den 1. april 2023.
 Stk. 3. Klima-, energi- og forsyningsministeren fastsætter tidspunktet for ikrafttrædelsen af § 1, nr. 62.
 
 Stk. 4. Regler fastsat i medfør af § 30 a, stk. 5, § 30 b og § 30 c, stk. 2, i lov om gasforsyning, jf. lovbekendtgørelse nr. 126 af 6. februar 2020, forbliver i kraft, indtil de ophæves eller afløses af nye forskrifter udstedt i medfør af § 30 a, stk. 6 og 7, i lov om gasforsyning, jf. denne lovs § 1, nr. 56.
+
+Lov nr. 1787 af 28. december 2023 (Forenkling af forretningsplanen og justering af den økonomiske regulering af den systemansvarlige virksomhed i el- og gassektoren m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 3
+
+Loven træder i kraft den 1. januar 2024.
+
+Lov nr. 674 af 11. juni 2024 (Særskilte tidspunkter for investeringsscreening i forbindelse med visse havvindudbud og andre større offentlige energiprojekter samt Energiklagenævnets nedsættelse og uafhængighed) indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 3
+
+Loven træder i kraft den 1. juli 2024.
+
+Lov nr. 1676 af 30. december 2024 (Gennemførelse af EU-regler om fremme af vedvarende energi og grønne brændstoffer m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 5
+
+Stk. 1. Loven træder i kraft den 1. januar 2025, jf. dog stk. 2.
+
+Stk. 2-3. (Udelades)
+
+Lov nr. 1677 af 30. december 2024 (Gennemførelse af elmarkedsdirektivet og fremtidssikret regulering af netvirksomheder m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 4
+
+Stk. 1. Loven træder i kraft den 1. januar 2025, jf. dog stk. 2 og 3.
+
+Stk. 2-3. (Udelades)
+
+Lov nr. 258 af 6. marts 2025 om styrket beredskab i energisektoren indeholder følgende ikrafttrædelses- og overgangsbestemmelse:
+
+§ 38. Loven træder i kraft den 7. marts 2025.
+
+Stk. 2. Regler udstedt i medfør af § 15 a, stk. 3 og 4, § 15 b, stk. 5 og 6, og § 30 a, stk. 5 og 6, i lov om gasforsyning, jf. lovbekendtgørelse nr. 1100 af 16. august 2023, forbliver i kraft, indtil de ophæves eller afløses af regler udstedt i medfør af § 4, stk. 2, § 6, stk. 2, § 7, stk. 2, § 8, stk. 2, §§ 10, 12 og 13, § 17, stk. 3, § 18, stk. 2, § 19, stk. 4 og 5, § 22, stk. 3, og § 26, stk. 2, i denne lov.
+
+Stk. 3. Regler udstedt i medfør af § 30 a, stk. 7, i lov om gasforsyning, jf. lovbekendtgørelse nr. 1100 af 16. august 2023, forbliver i kraft, indtil de ophæves eller afløses af regler udstedt i medfør af § 30 a, stk. 5, i lov om gasforsyning, jf. denne lovs § 41, nr. 5.
+
+Stk. 4-5. (Udelades)
+
+Lov nr. 341 af 3. april 2025 om (Tilslutningsreger for metan og brint, roller og ansvar i forhold til gasforsyningssikkerhed m.v.) indeholder følgende ikrafttrædelses- og overgangsbestemmelse:
+
+§ 4
+
+Stk. 1. Loven træder i kraft den 8. april 2025.
+
+Stk. 2. Regler udstedt i medfør af § 23, stk. 3, i lov om gasforsyning, jf. lovbekendtgørelse nr. 1100 af 16. august 2023, forbliver i kraft, indtil de ophæves eller afløses af regler udstedt i medfør af § 23, stk. 2, i lov om gasforsyning som affattet ved denne lovs § 1, nr. 16.
+
+Stk. 3. (Udelades)
+
+Lov nr. 468 af 14. maj 2025 om Energiklagenævnet indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 18. Loven træder i kraft den 1. juli 2025.
+
+Stk. 2. Klager, der er indgivet før tidspunktet for lovens ikrafttræden, og som ikke er færdigbehandlet før lovens ikrafttræden, behandles efter reglerne i denne lov.
+
+Stk. 3. For beskikkelser af nævnsmedlemmer, der er foretaget før lovens ikrafttræden, finder de hidtil gældende regler anvendelse indtil beskikkelsesperiodens udløb.
+
+Stk. 4. Beskikkelser, der foretages første gang efter lovens ikrafttræden, kan ske for en længere periode end 4 år.
+
+Lov nr. 560 af 27. maj 2025 (Implementering af aftale inden for rammerne af FN’s havretskonvention om besvarelse og bæredygtig udnyttelse af havets biologiske mangfoldighed i områder uden for national jurisdiktion (BBN-aftalen)) indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 21
+
+Loven træder i kraft den 1. juli 2025.
+
+Lov nr. 736 af 20. juni 2025 (Implementering af dele af det omarbejdede energieffektivitetsdirektiv, herunder indsamling af oplysninger om det offentliges energiforbrug og renoveringer af offentlige bygninger, energieffektivitetskrav i offentlige udbud, energieffektivitetskrav på varme- og køleområdet m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 8
+
+Stk. 1. Loven træder i kraft den 1. juli 2025, jf. dog stk. 2.
+
+Stk. 2. §§ 1-6 træder i kraft den 11. oktober 2025.
+
+Stk. 3-4. (Udelades)
