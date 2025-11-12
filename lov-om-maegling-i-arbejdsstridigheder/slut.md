@@ -1,5 +1,7 @@
-Beskæftigelsesministeriet, den 20. august 2002
+Beskæftigelsesministeriet, den 5. november 2025
 
-Claus Hjort Frederiksen
+P.M.V. Jessika Boje Heltberg Auken
 
-/Einar Edelberg
+/ Christian Andersen-Mølgaard
+
+Slutnoter

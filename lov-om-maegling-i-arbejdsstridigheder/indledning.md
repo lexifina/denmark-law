@@ -1,7 +1,3 @@
 Bekendtgørelse af lov om mægling i arbejdsstridigheder
 
-Hermed bekendtgøres lov om mægling i arbejdsstridigheder, jf. lovbekendtgørelse nr. 192 af 6. marts 1997 med de ændringer, der følger af lov nr. 1078 af 29. december 1999.
-
-I.
-
-Forligsmænd
+Herved bekendtgøres lov om mægling i arbejdsstridigheder, jf. lovbekendtgørelse nr. 709 af 20. august 2002, med de ændringer, der følger af § 5 i lov nr. 502 af 20. maj 2025.
