@@ -1,5 +1,3 @@
 Bekendtgørelse af straffeloven
 
-Herved bekendtgøres straffeloven, jf. lovbekendtgørelse nr. 434 af 25. april 2024, med de ændringer, der følger af § 14 i lov nr. 481 af 22. maj 2024, § 2 i lov nr. 661 af 11. juni 2024 og § 1 i lov nr. 665 af 11. juni 2024.
-
-Den bekendtgjorte lovtekst vedrørende § 299 d, stk. 1, nr. 1, træder i kraft den 30. december 2024, jf. § 17, stk. 4, i lov nr. 481 af 22. maj 2024 om ændring af lov om finansiel virksomhed, lov om betalinger, lov om kapitalmarkeder og forskellige andre love (Tilsyn efter forordning om digital operationel modstandsdygtighed i den finansielle sektor og forordning om markeder for kryptoaktiver, regler for udpegelse af administrationsselskab for Garantifonden og aflønningsregler for firmapensionskasser).
+Herved bekendtgøres straffeloven, jf. lovbekendtgørelse nr. 1145 af 5. november 2024, med de ændringer, der følger af § 1 i lov nr. 1674 af 30. december 2024, § 3 i lov nr. 1677 af 30. december 2024, § 1 i lov nr. 53 af 28. januar 2025, lov nr. 54 af 28. januar 2025, § 1 i lov nr. 201 af 25. februar 2025, § 1 i lov nr. 722 af 20. juni 2025, lov nr. 731 af 20. juni 2025, § 2 i lov nr. 734 af 20. juni 2025 og § 1 i lov nr. 735 af 20. juni 2025.
