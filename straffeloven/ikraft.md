@@ -116,16 +116,6 @@ Stk. 1. Loven træder i kraft den 1. juni 2014.
 
 Stk. 2. § 1 finder også anvendelse på lovovertrædelser, der er begået før lovens ikrafttræden, medmindre forældelse efter de hidtil gældende regler er indtrådt før lovens ikrafttræden.
 
-Lov nr. 739 af 25. juni 2014 om ændring af straffeloven, lov om fuldbyrdelse af straf m.v., retsplejeloven og lov om Offerfonden (Reorganisering af kriminalforsorgen, herunder begrænsning af klageadgangen) indeholder følgende ikrafttrædelsesbestemmelser:
-
-§ 5
-
-Justitsministeren fastsætter tidspunktet for lovens ikrafttræden.
-
-§ 6
-
-Sager, hvori der er truffet afgørelse af en institution inden lovens ikrafttræden, kan påklages til Direktoratet for Kriminalforsorgen efter de hidtil gældende regler. Direktoratet for Kriminalforsorgens afgørelse i sager, der er påklaget efter 1. pkt., kan ikke påklages til Justitsministeriet.
-
 Lov nr. 152 af 18. februar 2015 om ændring af straffeloven og lov om fuldbyrdelse af straf m.v. (Samfundstjeneste m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
 
 § 4
@@ -200,102 +190,6 @@ Stk. 4. Ved pådømmelse fra og med den 1. juli 2022 af forhold omfattet af stra
 
 Stk. 5. Straffelovens § 81 d, stk. 3, som affattet ved denne lovs § 1, nr. 1, finder uanset stk. 4 fortsat anvendelse.
 
-Lov nr. 2591 af 28. december 2021 om ændring af lov om ligestilling af kvinder og mænd, lov om forbud mod forskelsbehandling på arbejdsmarkedet m.v., straffeloven og forskellige andre love (Styrket beskyttelse af lgbti-personer mod forskelsbehandling, hadforbrydelser og hadefulde ytringer og beskyttelse af personer med handicap mod hadefulde ytringer) indeholder følgende ikrafttrædelsesbestemmelse:
-
-§ 7
-
-Stk. 1. Loven træder i kraft den 1. januar 2022, jf. dog stk. 2.
-
-Stk. 2. (Udelades)
-
-Lov nr. 2600 af 28. december 2021 om ændring af straffeloven, retsplejeloven og lov om tilhold, opholdsforbud og bortvisning (Styrket indsats mod stalking) indeholder følgende ikrafttrædelsesbestemmelse:
-
-§ 4
-
-Stk. 1. Loven træder i kraft den 1. januar 2022.
-
-Stk. 2. Loven finder ikke anvendelse på klager over politidirektørens afgørelse om meddelte tilhold, opholdsforbud eller bortvisning indgivet før lovens ikrafttræden. For sådanne klager finder de hidtil gældende regler anvendelse.
-
-Lov nr. 2601 af 28. december 2021 om ændring af straffeloven, retsplejeloven, hvidvaskloven og forskellige andre love (Implementering af initiativer i aftale om politiets og anklagemyndighedens økonomi 2021-2023, herunder etablering af National Enhed for Særlig Kriminalitet) indeholder følgende ikrafttrædelsesbestemmelse:
-
-§ 23
-
-Loven træder i kraft den 1. januar 2022.
-
-Lov nr. 158 af 31. januar 2022 om ændring af retsplejeloven, lov om fuldbyrdelse af straf m.v. og straffeloven (Opfølgning på initiativer i handlingsplanen til imødegåelse af udfordringerne med fangeflugter og delegation af afgørelseskompetence i sager om udgang for personer anbragt på hospital eller institution ved dom) indeholder følgende ikrafttrædelsesbestemmelse:
-
-§ 4
-
-Loven træder i kraft den 1. februar 2022.
-
-Lov nr. 226 af 15. februar 2022 om ændring af straffeloven, retsplejeloven og lov om pas til danske statsborgere m.v. (Styrket indsats mod seksuelle overgreb mod børn og styrket rådgivning til ofre for seksuelle overgreb) indeholder følgende ikrafttrædelsesbestemmelse:
-
-§ 4
-
-Loven træder i kraft den 1. marts 2022.
-
-Lov nr. 292 af 8. marts 2022 om ændring straffeloven (Kriminalisering af identitetsmisbrug) indeholder følgende ikrafttrædelsesbestemmelse:
-
-§ 2
-
-Loven træder i kraft den 1. april 2022.
-
-Lov nr. 452 af 20. april 2022 om ændring af udlændingeloven, straffeloven, lov om aktiv socialpolitik, repatrieringsloven og forskellige andre love (Initiativer til beskyttelse af børn imod vold og negativ social kontrol, indførelse af regler om fleksibel udbetaling af hjælp til repatriering og hjemrejsestøtte m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
-
-§ 16
-
-Stk. 1. Loven træder i kraft den 1. maj 2022, jf. dog stk. 2.
-
-Stk. 2-8. (Udelades)
-
-Lov nr. 696 af 24. maj 2022 om ændring af straffeloven, retsplejeloven og udlændingeloven (Styrket indsats mod menneskeudnyttelse) indeholder følgende ikrafttrædelsesbestemmelse:
-
-§ 4
-
-Loven træder i kraft den 1. juni 2022.
-
-Lov nr. 892 af 21. juni 2022 om ændring af straffeloven, lov om social service og lov om fuldbyrdelse af straf m.v. (Indførelse af særvilkår om økonomisk kontrol og målrettede forældrepålæg og børne- og ungepålæg ved utryghedsskabende adfærd) indeholder følgende ikrafttrædelsesbestemmelse:
-
-§ 4
-
-Loven træder i kraft den 1. juli 2022.
-
-Lov nr. 893 af 21. juni 2022 om ændring af lov om fuldbyrdelse af straf m.v., straffeloven, retsplejeloven og forskellige andre love (Opfølgning på flerårsaftalen om kriminalforsorgens økonomi 2022-2025, herunder leje af fængselspladser i udlandet, revision af disciplinærstraffesystemet, udstationering til eget hjem med fodlænke eller udslusningsfængsel m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
-
-§ 13
-
-Stk. 1. Loven træder i kraft den 1. juli 2022, jf. dog stk. 2 og 3.
-
-Stk. 2-8. (Udelades)
-
-Lov nr. 897 af 21. juni 2022 om ændring af straffeloven, retsplejeloven og forskellige andre love (Effektivisering af straffesagskæden og nævnsprocessen m.v. i Ungdomskriminalitetsnævnet, øget adgang til videregivelse og optagelse af fotografier, forbedring af politiets muligheder for efterforskning m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
-
-§ 7
-
-Stk. 1. Loven træder i kraft den 1. juli 2022, jf. dog stk. 2 og 3.
-
-Stk. 2 og 3. (Udelades)
-
-Lov nr. 409 af 25. april 2023 om ændring af lov om finansiel virksomhed, straffeloven og forskellige andre love (Gennemførelse af Ansvarsudvalgets forslag om skærpet ansvarsvurdering for ledelsesmedlemmer m.v. i finansielle virksomheder og ændring af reglerne om egnethed og hæderlighed) indeholder følgende ikrafttrædelsesbestemmelse:
-
-§ 10
-
-Stk. 1. Loven træder i kraft den 1. juli 2023.
-
-Stk. 2-32. (Udelades)
-
-Lov nr. 486 af 13. maj 2023 om ændring af udlændingeloven, hjemrejseloven og straffeloven og ophævelse af lov om videreførelse af visse rettigheder i forbindelse med Det Forenede Kongeriges udtræden af Den Europæiske Union uden en aftale (Ændring af visse regler om hjælp til hjemrejse, adgang til hjemrejsestøtte og administrativ frihedsberøvelse, gennemførelse af rådsafgørelse om Kroatiens fulde optagelse i Schengensamarbejdet og ophævelse af lov om videreførelse af visse rettigheder i forbindelse med Det Forenede Kongeriges udtræden af Den Europæiske Union uden en aftale) indeholder følgende ikrafttrædelsesbestemmelse:
-
-§ 5
-
-Loven træder i kraft den 15. maj 2023.
-
-Lov nr. 741 af 13. juni 2023 om ændring af straffeloven og retsplejeloven (Initiativer mod digitale krænkelser, herunder forbud mod grooming, sidestilling af tilsnigelse af samleje med voldtægt, religiøse lederes udnyttelse af religiøs afhængighed med henblik på at skaffe sig samleje m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
-
-§ 3
-
-Loven træder i kraft den 1. juli 2023.
-
 Lov nr. 753 af 13. juni 2023 om ændring af lov om social service, lov om retssikkerhed og administration på det sociale område og forskellige andre love (Ændringer som følge af barnets lov, initiativret for adopterede børn, adoption uden samtykke fra fødslen, samvær med børn på kvindekrisecentre m.v. og fasttrack for godkendelse af plejefamilier m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
 
 § 52
@@ -338,4 +232,68 @@ Lov nr. 665 af 11. juni 2024 om ændring af straffeloven, retsplejeloven og fors
 
 Stk. 1. Loven træder i kraft den 1. juli 2024.
 
-Stk. 2-4. (Udelades)
+Stk. 2. § 1, nr. 4-6, finder ikke anvendelse for afgørelser om konfiskation af formueaktiver erhvervet før lovens ikrafttræden. For sådanne afgørelser finder de hidtil gældende regler anvendelse.
+
+Stk. 3. (Udelades)
+
+Stk. 4. (Udelades)
+
+Lov nr. 1674 af 30. december 2024 om ændring af straffeloven, militær straffelov og retsplejeloven og om ophævelse af lov om straf for folkedrab og lov om beskyttelse af kulturværdier i tilfælde af væbnet konflikt (Visse internationale forbrydelser) indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 6
+
+Stk. 1. Loven træder i kraft den 1. januar 2025.
+
+Stk. 2. § 1, nr. 5, finder også anvendelse på lovovertrædelser, der er begået før lovens ikrafttræden, medmindre forældelse efter de hidtil gældende regler er indtrådt før lovens ikrafttræden.
+
+Lov nr. 1677 af 30. december 2024 om ændring af lov om elforsyning, lov om gasforsyning og straffeloven (Gennemførelse af elmarkedsdirektivet og fremtidssikret regulering af netvirksomheder m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 4
+
+Stk. 1. Loven træder i kraft den 1. januar 2025, jf. dog stk. 2 og 3.
+
+Stk. 2. (Udelades)
+
+Stk. 3. (Udelades)
+
+Lov nr. 53 af 28. januar 2025 om ændring af straffeloven og lov om politiets virksomhed (Styrket indsats mod borgernær kriminalitet) indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 3
+
+Loven træder i kraft den 1. februar 2025.
+
+Lov nr. 54 af 28. januar 2025 om ændring af straffeloven (Udvidelse af anvendelsesområdet for forbuddet mod videreførelse af en forening, der foreløbig er forbudt eller opløst ved dom) indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 2
+
+Loven træder i kraft den 1. februar 2025.
+
+Lov nr. 201 af 25. februar 2025 om ændring af straffeloven, lov om politiets virksomhed og lov om supplerende bestemmelser til forordning om håndtering af udbredelsen af terrorrelateret indhold online (Gennemførelse af dele af aftale om en styrket indsats mod antisemitisme) indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 4
+
+Loven træder i kraft den 1. marts 2025.
+
+Lov nr. 722 af 20. juni 2025 om ændring af straffeloven, retsplejeloven og lov om Offerfonden (Styrket indsats mod seksuelt krænkende materiale m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 4
+
+Loven træder i kraft den 1. juli 2025.
+
+Lov nr. 731 af 20. juni 2025 om ændring af straffeloven (Restriktive foranstaltninger) indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 2
+
+Loven træder i kraft dagen efter bekendtgørelsen i Lovtidende.
+
+Lov nr. 734 af 20. juni 2025 om ændring af lov om politiets virksomhed, straffeloven, lov om bekæmpelse af ungdomskriminalitet og forskellige andre love (Styrket indsats mod utryghedsskabende adfærd) indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 6
+
+Loven træder i kraft den 1. juli 2025.
+
+Lov nr. 735 af 20. juni 2025 om ændring af straffeloven og retsplejeloven (Kriminalisering af stealthing) indeholde følgende ikrafttrædelsesbestemmelse:
+
+§ 3
+
+Loven træder i kraft den 1. juli 2025.

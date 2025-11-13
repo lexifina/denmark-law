@@ -8,6 +8,8 @@
 
 5) Lovændringen vedrører § 283, stk. 1, nr. 2, og stk. 2, § 300, nr. 3, og § 304, stk. 2.
 
+6) Ved bekendtgørelse nr. 208 af 15. marts 2011 er det bestemt, at ændringsloven træder i kraft den 1. april 2011.
+
 7) Lovændringen vedrører § 97 a, stk. 1-4.
 
 8) Lovændringen vedrører § 15 og § 81, nr. 10.
@@ -20,64 +22,54 @@
 
 12) Lovændringen vedrører § 94, stk. 4.
 
-13) Lovændringen vedrører § 38, stk. 2, 2. pkt., § 40, stk. 2, § 41, stk. 1, og § 44.
+13) Lovændringen vedrører overskriften til 7. kapitel, § 56, stk. 1 og 2, § 60, stk. 1, nr. 2 og 3, § 62, stk. 2, § 63, stk. 1, 2. pkt., § 63, stk. 3, 2. pkt., § 63, stk. 4, 3. pkt., § 64, 2. pkt., § 66, stk. 3, 2. pkt., § 67, stk. 2, 2. pkt., og § 86, stk. 3 og 4.
 
-14) Ved bekendtgørelse nr. 388 af 9. april 2015 er det bestemt, at ændringsloven træder i kraft den 6. maj 2015.
+14) Lovændringen vedrører § 93, stk. 3 og 4, § 93 b, stk. 2, og § 94, stk. 4.
 
-15) Lovændringen vedrører overskriften til 7. kapitel, § 56, stk. 1 og 2, § 60, stk. 1, nr. 2 og 3, § 62, stk. 2, § 63, stk. 1, 2. pkt., § 63, stk. 3, 2. pkt., § 63, stk. 4, 3. pkt., § 64, 2. pkt., § 66, stk. 3, 2. pkt., § 67, stk. 2, 2. pkt., og § 86, stk. 3 og 4.
+15) Lovændringen vedrører § 94, stk. 4, og § 244, stk. 2.
 
-16) Lovændringen vedrører § 93, stk. 3 og 4, § 93 b, stk. 2, og § 94, stk. 4.
+16) Lovændringen vedrører § 4, stk. 1, § 57, nr. 9 og 10, og § 74 b.
 
-17) Lovændringen vedrører § 94, stk. 4, og § 244, stk. 2.
+17) Lovændringen vedrører § 96, stk. 5, § 97 b, stk. 3, § 193, stk. 1, § 263, § 263 a, §§ 264-264 d, § 266 c, §§ 267-275 og § 301 a.
 
-18) Lovændringen vedrører § 4, stk. 1, § 57, nr. 9 og 10, og § 74 b.
+18) Lovændringen vedrører § 236, stk. 1, nr. 1, og § 236, stk. 3-4 og 7-12.
 
-19) Lovændringen vedrører § 96, stk. 5, § 97 b, stk. 3, § 193, stk. 1, § 263, § 263 a, §§ 264-264 d, § 266 c, §§ 267-275 og § 301 a.
+19) Lovændringen vedrører § 62, stk. 1.
 
-20) Lovændringen vedrører § 236, stk. 1, nr. 1, og § 236, stk. 3-4 og 7-12.
+20) Lovændringen vedrører § 81 d.
 
-21) Lovændringen vedrører § 62, stk. 1.
+21) Loven er bekendtgjort i Lovtidende den 2. april 2020.
 
-22) Lovændringen vedrører § 81 d.
+22) Lovændringen vedrører § 57, nr. 9.
 
-23) Loven er bekendtgjort i Lovtidende den 2. april 2020.
+23) Lovændringen vedrører § 110 e, stk. 2, og § 136, stk. 2.
 
-24) Lovændringen vedrører § 81, nr. 6, og § 266 b, stk. 1.
+24) Loven er bekendtgjort i Lovtidende den 13. december 2023.
 
-25) Lovændringen vedrører § 242.
+25) Lovændringen vedrører §§ 81 c og 81 e.
 
-26) Lovændringen vedrører § 82, nr. 13, § 82, stk. 2, § 83, 3. pkt., § 119, stk. 3, 2. pkt., og § 266, stk. 2.
+26) Lovændringen vedrører § 299 d, stk. 1.
 
-27) Lovændringen vedrører § 68, 2. pkt., § 73 a, stk. 1, 1.-3. pkt., § 73 a, stk. 2, 1. og 2. pkt., § 74 a, stk. 4, 2. pkt., og § 74 a, stk. 4, 3. pkt.
+27) Lovændringen vedrører § 82, nr. 9.
 
-28) Lovændringen vedrører § 216, stk. 2, 1. og 2. pkt., § 222, stk. 1-3, § 235 a, § 236, stk. 1, nr. 3-5, § 236, stk. 2, 3. pkt., § 236, stk. 3, § 236, stk. 4, § 236, stk. 5, 1. pkt., § 236, stk. 6, § 236, stk. 9, § 236, stk. 11, 1. pkt., § 236, stk. 12, § 236, stk. 14, 1. pkt., og § 236, stk. 15, nr. 1-5.
+28) Lovændringen vedrører § 38, stk. 5, § 41, stk. 3, § 74 b, nr. 2, § 76 a, stk. 1 og 2, stk. 3, 1. pkt., og stk. 5, § 76 a, stk. 2, § 79 a, § 79 c, stk. 1, § 79 d, stk. 1, § 79 e, § 81, nr. 14 og 15, § 81 a, stk. 1, § 81 a, stk. 3, § 124 a, stk. 1, § 191 b og § 192 a, stk. 1 og 3-5.
 
-29) Lovændringen vedrører § 264 e, § 271, stk. 1, og § 275, stk. 2, nr. 1.
+29) Lovændringen vedrører § 7, stk. 1, nr. 2, litra a-c, § 8 a, § 93 b, stk. 1, kapitel 13 a, § 157 a og § 157 b.
 
-30) Lovændringen vedrører § 244, stk. 2, og § 245, stk. 1, 3. pkt.
+30) Lovændringen vedrører § 299 d, stk. 1, nr. 3.
 
-31) Lovændringen vedrører § 262 b.
+31) Lovændringen vedrører § 57 a, stk. 1, § 263, stk. 2, nr. 2, og § 287, stk. 1, 1. pkt.
 
-32) Lovændringen vedrører § 56, stk. 2, 1. pkt., § 57 a, § 59, stk. 1, 1. pkt., og § 60, stk. 1.
+32) Lovændringen vedrører § 132 a, stk. 1.
 
-33) Lovændringen vedrører § 79 b, stk. 3, 3. pkt., § 119, stk. 5, og § 119 b, stk. 2.
+33) Lovændringen vedrører § 81 f.
 
-34) Lovændringen vedrører § 79 d.
+34) Lovændringen vedrører § 226, § 232, stk. 1, § 235, stk. 1, 1. pkt., og stk. 2, § 235, stk. 3, § 264 e, nr. 2, og § 264 e, stk. 2.
 
-35) Lovændringen vedrører § 290 b, stk. 1.
+35) Lovændringen vedrører § 110 c, stk. 2-6.
 
-36) Lovændringen vedrører § 124, stk. 1, 2. pkt.
+36) Loven er bekendtgjort i Lovtidende den 21. juni 2025.
 
-37) Lovændringen vedrører § 94, stk. 4, 1. pkt., § 216, stk. 1, 2. pkt., § 216, stk. 3, § 220, 2. pkt., § 221, § 223, stk. 1, § 225, § 226, § 227, stk. 1, § 228, § 231, § 235, stk. 1, 1. pkt., og stk. 2, § 235, stk. 3, § 262 a, stk. 1 og 2, og § 262 b, 2. pkt.
+37) Lovændringen vedrører § 79 c, stk. 1 og 4, 1. pkt., og § 291, stk. 2.
 
-38) Lovændringen vedrører § 57, nr. 9.
-
-39) Lovændringen vedrører § 110 e, stk. 2, og § 136, stk. 2.
-
-40) Lovændringen vedrører § 81 c og § 81 e.
-
-41) Lovændringen vedrører § 299 d, stk. 1.
-
-42) Lovændringen vedrører § 82, nr. 9.
-
-43) Lovændringen vedrører § 38, stk. 5, § 41, stk. 3, § 74 b, nr. 2, § 76 a, stk. 1 og 2, stk. 3, 1. pkt., og stk. 5, § 76 a, stk. 2, § 76 a, stk. 2, nr. 2, § 79 a, § 79 c, stk. 1, § 79 d, stk. 1, § 79 e, § 81, nr. 14, § 81, nr. 15, § 81 a, stk. 1, § 81 a, stk. 3, § 124 a, stk. 1, § 191 b, § 192 a, stk. 1, og § 192 a, stk. 3, 4 og 5.
+38) Lovændringen vedrører § 217.
