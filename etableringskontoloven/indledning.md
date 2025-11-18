@@ -1,3 +1,3 @@
 Bekendtgørelse af lov om indskud på etableringskonto og iværksætterkonto
 
-Herved bekendtgøres lov om indskud på etableringskonto og iværksætterkonto, jf. lovbekendtgørelse nr. 1175 af 30. oktober 2014, med de ændringer, der følger af § 6 i lov nr. 652 af 8. juni 2016, § 4 i lov nr. 683 af 8. juni 2017, § 13 i lov nr. 688 af 8. juni 2017, § 10 i lov nr. 1555 af 19. december 2017 og § 4 i lov nr. 324 af 30. marts 2019.
+Herved bekendtgøres lov om indskud på etableringskonto og iværksætterkonto, jf. lovbekendtgørelse nr. 1149 af 2. juni 2021, med de ændringer, der følger af § 6 i lov nr. 482 af 22. maj 2024, § 3 i lov nr. 1472 af 10. december 2024, § 8 i lov nr. 1694 af 30. december 2024 og § 6 i lov nr. 369 af 9. april 2025.

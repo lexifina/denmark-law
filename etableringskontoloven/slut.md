@@ -1,5 +1,7 @@
-Skatteministeriet, den 2. juni 2021
+Skatteministeriet, den 10. november 2025
 
-P.M.V. Jens Brøchner
+P.M.V. Merete Agergaard
 
-/ Lise Bo Nielsen
+/ Søren Schou
+
+Slutnoter
