@@ -1,0 +1,1 @@
+§ 10 a. Justitsministeren kan fastsætte regler om, at ansøgning om erstatning og godtgørelse skal indgives ved anvendelse af den digitale løsning, som Civilstyrelsen stiller til rådighed (digital selvbetjening).
