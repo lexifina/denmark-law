@@ -1,8 +1,8 @@
-Finanstilsynet, den 1. marts 2024
+Finanstilsynet, den 18. november 2025
 
 Louise Mogensen
 
-/ Karina Ankergren
+/ Karina Vilhof Ankergren
 
 Bilag 1
 
@@ -84,9 +84,9 @@ Bilag 3
 
 Beregninger vedrørende krav om nedskrivningsegnede passiver og subordination
 
-## Vedrørende krav om nedskrivningsegnede passiver
+Vedrørende krav om nedskrivningsegnede passiver
 
-1) Det beløb, Y, der henvises til i § 202, nr. 5, litra c, beregnes ved anvendelse af følgende formel:
+1) Det beløb, Y, der henvises til i § 202, nr. 4, litra c, beregnes ved anvendelse af følgende formel:
 
 Y = α – (β + γ) (1)
 
@@ -96,7 +96,7 @@ Y = α – (β + γ) (1)
 
 γ = De passiver, der er udstedt til og købt af afviklingsenheden, enten direkte eller indirekte gennem andre enheder i samme afviklingskoncern.
 
-## Vedrørende krav om subordination af nedskrivningsegnede passiver
+Vedrørende krav om subordination af nedskrivningsegnede passiver
 
 2) Det beløb, Y, der henvises til i § 203, stk. 1, og beregnes ved anvendelse af følgende formel:
 
@@ -146,7 +146,7 @@ ud fra følgende betragtninger:
 
 (9) Et investeringsselskab kan handle via et clearingmedlem i en anden medlemsstat. I de tilfælde hvor det gør dette, bør der indføres en mekanisme til udveksling af oplysninger mellem de relevante kompetente myndigheder i de forskellige medlemsstater. En sådan mekanisme bør gøre det muligt at udveksle oplysninger mellem den kompetente myndighed for tilsyn med investeringsselskabet og enten den myndighed, der fører tilsyn med clearingmedlemmet, eller den myndighed, der fører tilsyn med den centrale modpart, om den model og de parametre, der anvendes til beregning af investeringsselskabets margenkrav, hvor en sådan beregningsmetode anvendes som grundlag for investeringsselskabets kapitalgrundlagskrav.
 
-(10) For at fremme harmonisering af tilsynsstandarder og praksis i Unionen bør Den Europæiske Tilsynsmyndighed (Den Europæiske Banktilsynsmyndighed), der er oprettet ved Europa-Parlamentets og Rådets forordning (EU) nr. 1093/2010, (EBA), bevare det primære ansvar for koordinering og konvergens af tilsynspraksis på området for tilsyn med investeringsselskaber inden for Det Europæiske Finanstilsynssystem (ESFS) i tæt samarbejde med Den Europæiske Tilsynsmyndighed (Den Europæiske Værdipapir- og Markedstilsynsmyndighed), der er oprettet ved Europa-Parlamentets og Rådets forordning (EU) nr. 1095/2010, (ESMA).
+(10) For at fremme harmonisering af tilsynsstandarder og ‐praksis i Unionen bør Den Europæiske Tilsynsmyndighed (Den Europæiske Banktilsynsmyndighed), der er oprettet ved Europa-Parlamentets og Rådets forordning (EU) nr. 1093/2010, (EBA), bevare det primære ansvar for koordinering og konvergens af tilsynspraksis på området for tilsyn med investeringsselskaber inden for Det Europæiske Finanstilsynssystem (ESFS) i tæt samarbejde med Den Europæiske Tilsynsmyndighed (Den Europæiske Værdipapir- og Markedstilsynsmyndighed), der er oprettet ved Europa-Parlamentets og Rådets forordning (EU) nr. 1095/2010, (ESMA).
 
 (11) Kravet til startkapitalens størrelse i et investeringsselskab bør baseres på de services og aktiviteter, som investerings selskaber har tilladelse til at henholdsvis yde og udøve i henhold til direktiv 2014/65/EU. Medlemsstaternes mulighed for at reducere kravet til startkapitalens størrelse i specifikke situationer, jf. direktiv 2013/36/EU, på den ene side og situationen med uens gennemførelse af direktivet på den anden side har ført til en situation, hvor kravet til startkapitalens størrelse er forskelligt i Unionen. For at bringe denne fragmentering til ophør bør kravet til startkapitalens størrelse harmoniseres for alle investeringsselskaber i Unionen. Med henblik på at reducere hindringerne for markedsadgang, som forekommer i dag for multilaterale handelsfaciliteter (MHF'er) og organiserede handelsfaciliteter (OHF'er), bør startkapitalen for investeringsselskaber, der driver en MHF eller en OHF, fastsættes til det i dette direktiv omhandlede beløb. Hvis et investeringsselskab, der har tilladelse til at drive en OHF, også har fået tilladelse til at udføre handel for egen regning på betingelserne i artikel 20 i direktiv 2014/65/EU, bør dets startkapital fastsættes til det i nærværende direktiv omhandlede beløb.
 
@@ -168,11 +168,11 @@ ud fra følgende betragtninger:
 
 (20) Investeringsselskaber, der ikke betragtes som små og ikke indbyrdes forbundne, bør have en tilgængelig intern kapital, som i forhold til de specifikke risici, som de er eller kan blive eksponeret mod, er af en passende størrelse og kvalitet og er hensigtsmæssigt fordelt. De kompetente myndigheder bør sikre, at investeringsselskaber har strategier og processer, som er tilstrækkelige til, at de kan vurdere og opretholde en tilstrækkelig intern kapital. De kompetente myndigheder bør også kunne kræve, at små og ikke indbyrdes forbundne investeringsselskaber anvender lignende krav, hvis det er relevant.
 
-(21) Tilsynskontrol- og vurderingsbeføjelser bør fortsat være et vigtigt reguleringsredskab, som gør det muligt for de kompetente myndigheder at vurdere kvalitative elementer, herunder intern ledelse og kontrol og risikostyrings processer og procedurer, og om nødvendigt fastsætte yderligere krav, herunder navnlig kapitalgrundlags- og likviditetskrav, navnlig for investeringsselskaber, der ikke betragtes som små og ikke indbyrdes forbundne, og hvor den kompetente myndighed også anser det for berettiget og hensigtsmæssigt for små og ikke indbyrdes forbundne investeringsselskaber.
+(21) Tilsynskontrol- og vurderingsbeføjelser bør fortsat være et vigtigt reguleringsredskab, som gør det muligt for de kompetente myndigheder at vurdere kvalitative elementer, herunder intern ledelse og kontrol og risikostyrings processer og ‐procedurer, og om nødvendigt fastsætte yderligere krav, herunder navnlig kapitalgrundlags- og likviditetskrav, navnlig for investeringsselskaber, der ikke betragtes som små og ikke indbyrdes forbundne, og hvor den kompetente myndighed også anser det for berettiget og hensigtsmæssigt for små og ikke indbyrdes forbundne investeringsselskaber.
 
 (22) Princippet om lige løn til mænd og kvinder for samme arbejde eller arbejde af samme værdi er nedfældet i artikel 157 i traktaten om Den Europæiske Unions funktionsmåde (TEUF). Dette princip bør anvendes på en konsekvent måde af investeringsselskaber. For at tilpasse aflønningen til investeringsselskabers risikoprofil og sikre lige vilkår bør investeringsselskaber være underlagt klare principper med hensyn til ordninger for virksomhedsledelse og regler om aflønning, som er kønsneutrale, og som tager højde for forskellene mellem kreditinstitutter og investeringsselskaber. Nævnte regler bør dog ikke finde anvendelse på små og ikke indbyrdes forbundne investerings selskaber, da bestemmelserne om aflønning og virksomhedsledelse i direktiv 2014/65/EU er tilstrækkelig omfattende for disse typer af investeringsselskaber.
 
-(23) Ligeledes viste Kommissionens rapport af 28. juli 2016 om vurdering af aflønningsreglerne i henhold til direktiv 2013/36/EU og forordning (EU) nr. 575/2013, at kravene om udskydelse og udbetaling i instrumenter som omhandlet i direktiv 2013/36/EU ikke er hensigtsmæssige for små og ikke komplekse investeringsselskaber eller for personale med variabel aflønning i et begrænset omfang. Klare, konsekvente og harmoniserede kriterier for udpegning af investeringsselskaber og enkeltpersoner, som er undtaget fra disse krav, er nødvendige for at sikre tilsynskonvergens og lige vilkår. I betragtning af højtlønnedes vigtige rolle med hensyn til at styre investerings- selskabers virksomhed og langsigtede resultater bør der sikres effektivt tilsyn med aflønningspraksis og tendenser vedrørende højtlønnede. De kompetente myndigheder bør derfor kunne overvåge aflønningen af højtlønnede.
+(23) Ligeledes viste Kommissionens rapport af 28. juli 2016 om vurdering af aflønningsreglerne i henhold til direktiv 2013/36/EU og forordning (EU) nr. 575/2013, at kravene om udskydelse og udbetaling i instrumenter som omhandlet i direktiv 2013/36/EU ikke er hensigtsmæssige for små og ikke komplekse investeringsselskaber eller for personale med variabel aflønning i et begrænset omfang. Klare, konsekvente og harmoniserede kriterier for udpegning af investeringsselskaber og enkeltpersoner, som er undtaget fra disse krav, er nødvendige for at sikre tilsynskonvergens og lige vilkår. I betragtning af højtlønnedes vigtige rolle med hensyn til at styre investerings- selskabers virksomhed og langsigtede resultater bør der sikres effektivt tilsyn med aflønningspraksis og ‐tendenser vedrørende højtlønnede. De kompetente myndigheder bør derfor kunne overvåge aflønningen af højtlønnede.
 
 (24) Det er også hensigtsmæssigt at give investeringsselskaber en vis fleksibilitet med hensyn til den måde, hvorpå investeringsselskaber anvender ikkelikvide instrumenter til at udbetale variabel aflønning, forudsat at sådanne instrumenter er effektive med hensyn til at nå målet om at tilpasse personalets interesser til interesserne hos forskellige interessenter som f.eks. aktionærer og kreditorer og bidrager til at tilpasse den variable aflønning til investeringsselskabets risikoprofil.
 
@@ -232,7 +232,7 @@ Dette direktiv fastsætter regler vedrørende:
 
 a) investeringsselskabers startkapital
 
-b) de kompetente myndigheders tilsynsbeføjelser og redskaber til udøvelse af tilsyn med investeringsselskaber
+b) de kompetente myndigheders tilsynsbeføjelser og ‐redskaber til udøvelse af tilsyn med investeringsselskaber
 
 c) de kompetente myndigheders tilsyn med investeringsselskaber på en måde, som er forenelig med de regler, der er fastsat i forordning (EU) 2019/2033
 
@@ -434,7 +434,7 @@ Henvisninger i andre EU-retsakter til startkapitalens størrelse som fastsat i d
 
 a) Henvisninger til investeringsselskabers startkapital som fastsat i artikel 28 i direktiv 2013/36/EU læses som henvisninger til artikel 9, stk. 1, i nærværende direktiv.
 
-b) Henvisninger til investeringsselskabers startkapital i artikel 29 og 31 i direktiv 2013/36/EU læses som henvisninger til artikel 9, stk. 2, 3 eller 4, i nærværende direktiv, afhængigt af de typer investeringsservice og aktiviteter, som investeringsselskaberne yder eller udøver.
+b) Henvisninger til investeringsselskabers startkapital i artikel 29 og 31 i direktiv 2013/36/EU læses som henvisninger til artikel 9, stk. 2, 3 eller 4, i nærværende direktiv, afhængigt af de typer investeringsservice og ‐aktiviteter, som investeringsselskaberne yder eller udøver.
 
 c) Henvisninger til startkapital som fastsat i artikel 30 i direktiv 2013/36/EU læses som henvisninger til artikel 9, stk. 1, i nærværende direktiv.
 
@@ -494,7 +494,7 @@ De kompetente myndigheder kan indbringe sager for EBA, hvor en anmodning om sama
 
 Kommissionen tillægges beføjelse til at supplere dette direktiv ved at vedtage de i første afsnit omhandlede reguleringsmæssige tekniske standarder i overensstemmelse med artikel 10-14 i forordning (EU) nr. 1093/2010.
 
-8. EBA udarbejder i samråd med ESMA udkast til gennemførelsesmæssige tekniske standarder for at fastlægge standardformularer, modeller og procedurer til brug for kravene vedrørende udveksling af oplysninger med henblik på at lette tilsynet med investeringsselskaber.
+8. EBA udarbejder i samråd med ESMA udkast til gennemførelsesmæssige tekniske standarder for at fastlægge standardformularer, ‐modeller og ‐procedurer til brug for kravene vedrørende udveksling af oplysninger med henblik på at lette tilsynet med investeringsselskaber.
 
 Kommissionen tillægges beføjelse til at vedtage de i første afsnit omhandlede gennemførelsesmæssige tekniske standarder i overensstemmelse med artikel 15 i forordning (EU) nr. 1093/2010.
 
@@ -778,9 +778,9 @@ b) effektive procedurer til at identificere, styre, overvåge og indberette de r
 
 c) fyldestgørende interne kontrolmekanismer, herunder forsvarlige administrative og regnskabsmæssige procedurer
 
-d) en aflønningspolitik og praksis, som er i overensstemmelse med og fremmer en forsvarlig og effektiv risikostyring.
+d) en aflønningspolitik og ‐praksis, som er i overensstemmelse med og fremmer en forsvarlig og effektiv risikostyring.
 
-Den i første afsnit, litra d), omhandlede aflønningspolitik og praksis skal være kønsneutral.
+Den i første afsnit, litra d), omhandlede aflønningspolitik og ‐praksis skal være kønsneutral.
 
 2. Når de i stk. 1 omhandlede ordninger indføres, tages der hensyn til de kriterier, der er omhandlet i artikel 28-33.
 
@@ -824,7 +824,7 @@ f) modtagne offentlige tilskud.
 
 4. Medlemsstaterne stiller krav om, at alle investeringsselskaber, der ikke opfylder kriterierne i artikel 32, stk. 4, litra a), nedsætter et risikoudvalg sammensat af medlemmer af ledelsesorganet, som ikke varetager en ledelsesfunktion i det pågældende investeringsselskab.
 
-Medlemmerne af det i første afsnit omhandlede risikoudvalg skal have passende kendskab, faglig kompetence og ekspertise til fuldt ud at forstå, håndtere og overvåge investeringsselskabets risikostrategi og risikovillighed. De sikrer, at risikoudvalget rådgiver ledelsesorganet om investeringsselskabets overordnede nuværende og fremtidige risikovillighed og strategi og bistår ledelsesorganet med at overvåge den øverste ledelses gennemførelse af denne strategi. Ledelsesorganet bevarer det overordnede ansvar for investeringsselskabets risikostrategier og politikker.
+Medlemmerne af det i første afsnit omhandlede risikoudvalg skal have passende kendskab, faglig kompetence og ekspertise til fuldt ud at forstå, håndtere og overvåge investeringsselskabets risikostrategi og risikovillighed. De sikrer, at risikoudvalget rådgiver ledelsesorganet om investeringsselskabets overordnede nuværende og fremtidige risikovillighed og ‐strategi og bistår ledelsesorganet med at overvåge den øverste ledelses gennemførelse af denne strategi. Ledelsesorganet bevarer det overordnede ansvar for investeringsselskabets risikostrategier og ‐politikker.
 
 5. Medlemsstaterne sikrer, at ledelsesorganet i dets tilsynsfunktion og ledelsesorganets risikoudvalg, hvis et risikoudvalg er blevet nedsat, har adgang til oplysninger om de risici, som investeringsselskabet er eller kan blive eksponeret mod.
 
@@ -852,7 +852,7 @@ Med henblik på første afsnit, litra c), omfatter væsentlige risikokilder for 
 
 Investeringsselskaber skal tage behørigt hensyn til enhver væsentlig indvirkning på kapitalgrundlaget, når sådanne risici ikke er tilstrækkelig dækket af kapitalgrundlagskravene som beregnet i henhold til artikel 11 i forordning (EU) 2019/2033.
 
-2. Er investeringsselskaber nødt til at afvikle eller indstille deres aktiviteter, stiller de kompetente myndigheder krav om, at investeringsselskaber, under hensyntagen til deres forretningsmodellers og strategiers levedygtighed og bæredygtighed, tager behørigt hensyn til krav og nødvendige ressourcer, der er realistiske med hensyn til tidsramme og opretholdelse af kapitalgrundlag og likvide midler, under hele forløbet med udtræden af markedet.
+2. Er investeringsselskaber nødt til at afvikle eller indstille deres aktiviteter, stiller de kompetente myndigheder krav om, at investeringsselskaber, under hensyntagen til deres forretningsmodellers og ‐strategiers levedygtighed og bæredygtighed, tager behørigt hensyn til krav og nødvendige ressourcer, der er realistiske med hensyn til tidsramme og opretholdelse af kapitalgrundlag og likvide midler, under hele forløbet med udtræden af markedet.
 
 3. Uanset artikel 25 finder nærværende artikels stk. 1, litra a), c) og d), anvendelse på investeringsselskaber, som opfylder betingelserne for klassificering som små og ikke indbyrdes forbundne investeringsselskaber fastsat i artikel 12, stk. 1, i forordning (EU) 2019/2033.
 
@@ -1004,7 +1004,7 @@ Kommissionen tillægges beføjelse til at supplere dette direktiv ved at vedtage
 
 ## Aflønningsudvalg
 
-1. Medlemsstaterne sikrer, at investeringsselskaber, der ikke opfylder kriterierne i artikel 32, stk. 4, litra a), nedsætter et aflønningsudvalg. Aflønningsudvalget skal have en ligelig kønsfordeling og foretage et kompetent og uafhængigt skøn vedrørende aflønningspolitikker og praksis samt incitamenter, der er indført med henblik på risikostyring samt forvaltning af kapital og likviditet. Aflønningsudvalget kan nedsættes på koncernniveau.
+1. Medlemsstaterne sikrer, at investeringsselskaber, der ikke opfylder kriterierne i artikel 32, stk. 4, litra a), nedsætter et aflønningsudvalg. Aflønningsudvalget skal have en ligelig kønsfordeling og foretage et kompetent og uafhængigt skøn vedrørende aflønningspolitikker og ‐praksis samt incitamenter, der er indført med henblik på risikostyring samt forvaltning af kapital og likviditet. Aflønningsudvalget kan nedsættes på koncernniveau.
 
 2. Medlemsstaterne sikrer, at aflønningsudvalget er ansvarligt for udarbejdelse af afgørelser vedrørende aflønning, der skal træffes af ledelsesorganet, herunder afgørelser, som har konsekvenser for det pågældende investeringsselskabs risici og risikostyring. Formanden for og medlemmerne af aflønningsudvalget skal være medlemmer af ledelsesorganet, som ikke varetager en ledelsesfunktion i det pågældende investeringsselskab. Hvis arbejdstagerrepræsentation i ledelsesorganet er fastsat i national ret, skal aflønningsudvalget omfatte en eller flere arbejdstagerrepræsentanter.
 
@@ -1104,7 +1104,7 @@ Medlemsstaterne tilskynder de kompetente myndigheder til at tage hensyn til næv
 
 ## Afdeling 4
 
-## Tilsynsforanstaltninger og beføjelser
+## Tilsynsforanstaltninger og ‐beføjelser
 
 ## Artikel 38
 
@@ -1552,7 +1552,7 @@ Dette direktiv fastsætter regler vedrørende:
 
 a) adgang til at udøve virksomhed som kreditinstitut
 
-b) de kompetente myndigheders tilsynsbeføjelser og redskaber til udøvelse af tilsyn med kreditinstitutter
+b) de kompetente myndigheders tilsynsbeføjelser og ‐redskaber til udøvelse af tilsyn med kreditinstitutter
 
 c) de kompetente myndigheders tilsyn med kreditinstitutter på en måde, som er forenelig med de regler, der er fastsat i forordning (EU) nr. 575/2013
 
@@ -1756,7 +1756,7 @@ Direktiv 2014/65/EU ændres således:
 
 Startkapital
 
-Medlemsstaterne sikrer, at de kompetente myndigheder kun meddeler tilladelse, hvis investeringsselskabet under hensyntagen til den påtænkte type investeringsservice eller aktivitet har tilstrækkelig startkapital i overensstemmelse med kravene i artikel 9 i Europa-Parlamentets og Rådets direktiv (EU) 2019/2033.
+Medlemsstaterne sikrer, at de kompetente myndigheder kun meddeler tilladelse, hvis investeringsselskabet under hensyntagen til den påtænkte type investeringsservice eller ‐aktivitet har tilstrækkelig startkapital i overensstemmelse med kravene i artikel 9 i Europa-Parlamentets og Rådets direktiv (EU) 2019/2033.
 
 3) Artikel 41 affattes således:
 
@@ -1822,11 +1822,11 @@ Kommissionen tillægges beføjelser til at supplere dette direktiv ved at vedtag
 
 Levering af services udelukkende på kundens eget initiativ
 
-1. Medlemsstaterne sikrer, at når en detailkunde eller en professionel kunde som omhandlet i bilag II, afsnit II, der er etableret eller befinder sig i Unionen, udelukkende på eget initiativ iværksætter levering af en investeringsservice eller aktivitet fra et tredjelandsselskab, finder kravet om tilladelse i artikel 39 ikke anvendelse på tredjelandsselskabets levering af denne service eller aktivitet til denne person, herunder et forhold med specifik tilknytning til leveringen af den pågældende service eller aktivitet.
+1. Medlemsstaterne sikrer, at når en detailkunde eller en professionel kunde som omhandlet i bilag II, afsnit II, der er etableret eller befinder sig i Unionen, udelukkende på eget initiativ iværksætter levering af en investeringsservice eller ‐ aktivitet fra et tredjelandsselskab, finder kravet om tilladelse i artikel 39 ikke anvendelse på tredjelandsselskabets levering af denne service eller aktivitet til denne person, herunder et forhold med specifik tilknytning til leveringen af den pågældende service eller aktivitet.
 
 2. Hvis et tredjelandsselskab, herunder gennem en enhed, der handler på dets vegne, eller som har tætte forbindelser til dette tredjelandsselskab eller enhver anden person, der handler på denne enheds vegne, retter henvendelse til kunder eller potentielle kunder i Unionen, betragtes det ikke som en service, der udelukkende ydes på kundens eget initiativ, med forbehold af koncerninterne forbindelser.
 
-3. Et initiativ fra en kunde som omhandlet i stk. 1 giver ikke tredjelandsselskabet ret til at markedsføre nye kategorier af investeringsprodukter eller services til den pågældende kunde på anden måde end gennem filialen, når dette er påkrævet i henhold til national ret.«
+3. Et initiativ fra en kunde som omhandlet i stk. 1 giver ikke tredjelandsselskabet ret til at markedsføre nye kategorier af investeringsprodukter eller ‐services til den pågældende kunde på anden måde end gennem filialen, når dette er påkrævet i henhold til national ret.«
 
 5) Artikel 49, stk. 1, affattes således:
 
@@ -1915,3 +1915,5 @@ Dette direktiv er rettet til medlemsstaterne.
 Udfærdiget i Strasbourg den 27. november 2019.
 
 På Europa-Parlamentets vegne På Rådets vegne På Rådets vegne Formand D. M. SASSOLI T. TUPPURAINEN
+
+EU Noter
