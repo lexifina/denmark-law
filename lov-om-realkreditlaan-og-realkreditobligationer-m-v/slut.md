@@ -1,5 +1,7 @@
-Erhvervsministeriet,, den 11. marts 2022
+Finanstilsynet, den 18. november 2025
 
-Simon Kollerup
+Louise Mogensen
 
-/ Jesper Berg
+/ Karina Vilhof Ankergren
+
+EU Noter
