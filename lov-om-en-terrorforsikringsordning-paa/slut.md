@@ -1,4 +1,4 @@
-Finanstilsynet, den 7. maj 2025
+Finanstilsynet, den 18. november 2025
 
 Louise Mogensen
 

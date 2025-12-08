@@ -1,1 +1,1 @@
-1) Lovændringen vedrører § 17, stk. 4.
+1) Lovændringen vedrører § 14.
