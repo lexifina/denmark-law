@@ -1,5 +1,7 @@
-Erhvervsministeriet, den 5. december 2023
+Finanstilsynet, den 18. november 2025
 
-Morten Bødskov
+Louise Mogensen
 
-/ Louise Mogensen
+/ Karina Vilhof Ankergren
+
+EU Noter
