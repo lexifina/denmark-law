@@ -51,3 +51,27 @@ Stk. 1. Loven træder i kraft den 1. juli 2023.
 Stk. 2. Loven finder ikke anvendelse for kreditaftaler, der er indgået før lovens ikrafttræden. For sådanne kreditaftaler finder hidtil gældende regler anvendelse.
 
 Stk. 3. Virksomheder, som forud for lovens ikrafttræden ydede rente- og omkostningsfrie kreditter uden en tilladelse efter lov om forbrugslånsvirksomheder, og som efter lovens ikrafttræden ikke må fortsætte den påbegyndte virksomhed uden en tilladelse, kan fortsætte den påbegyndte virksomhed, hvis virksomheden inden den 1. januar 2024 indgiver en ansøgning om tilladelse til Finanstilsynet. Virksomheder omfattet af 1. pkt. kan fortsætte den påbegyndte virksomhed, indtil Finanstilsynet har truffet afgørelse i sagen.
+
+Lov nr. 712 af 20. juni 2025 (Håndtering af kryptoeksponeringer, udarbejdelse af ESG-omstillingsplaner, nye dokumentationskrav for institutternes ledelsesstruktur, ansvarsfordeling og rapporteringslinjer, tydeligere regler for tilladelse til kreditinstitutter fra lande uden for EU/EØS (tredjelande), ny tilsynsbeføjelse til Finanstilsynet om godkendelse af væsentlige erhvervelser af kapitalandele i andre selskaber, strafbelæggelse af disclosureforordningen, modernisering af reglerne i FAIF-UCITS II-direktivet, styrkelse af reglerne om bekæmpelsen af national og international hvidvask og oprettelse af et fælles europæisk adgangspunkt (ESAP) til indsendelse af en række offentliggjorte oplysninger m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 22
+
+Stk. 1. Loven træder i kraft den 1. juli 2025, jf. dog stk. 2-13.
+
+Stk. 2-13. (Udelades)
+
+Lov nr. 1322 af 20. november 2025 (Gennemførelse af det reviderede forbrugerkreditdirektiv) indeholder følgende ikrafttrædelses- og overgangsbestemmelse:
+
+§ 6
+
+Stk. 1. Loven træder i kraft den 20. november 2026, jf. dog stk. 2.
+
+Stk. 2. § 8 c i lov om forbrugslånsvirksomheder som affattet ved denne lovs § 3, nr. 21, træder i kraft ved bekendtgørelsen i Lovtidende.
+
+Stk. 3 og 4. (Udelades)
+
+Stk. 5. Finanstilsynet kan modtage og behandle ansøgninger om registrering som kreditformidler, jf. § 3, nr. 14, fra den 20. maj 2026.
+
+Stk. 6. Kreditformidlere, som udøver aktiviteter, der efter lovens ikrafttræden vil kræve registrering som kreditformidler, jf. denne lovs § 3, nr. 14, og som senest den 20. november 2026 har indgivet ansøgning om registrering, kan fortsætte den påbegyndte virksomhed uden registrering, indtil Finanstilsynet har truffet afgørelse i sagen.
+
+Stk. 7. Lovforslaget kan stadfæstes straks efter dets vedtagelse.

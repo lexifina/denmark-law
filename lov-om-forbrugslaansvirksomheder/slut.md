@@ -1,5 +1,7 @@
-Finanstilsynet, den 2. februar 2025
+Finanstilsynet, den 4. december 2025
 
 Louise Mogensen
 
 / Karina Vilhof Ankergren
+
+Slutnoter
