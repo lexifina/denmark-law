@@ -1,7 +1,7 @@
-Givet på Christiansborg Slot, den 25. april 2023
+Finanstilsynet, den 18. november 2025
 
-Under Vor Kongelige Hånd og Segl
+Louise Mogensen
 
-MARGRETHE R.
+/ Karina Vilhof Ankergren
 
-/ Morten Bødskov
+Slutnoter
