@@ -42,20 +42,6 @@ Stk. 3. Eventuelle tillæg til prospekter, der er godkendt af Finanstilsynet ind
 
 Stk. 4-6. (Udelades)
 
-Lov nr. 1940 af 15. december 2020 (Gennemførelse af 2. betalingstjenestedirektiv, 4. og 5. hvidvaskdirektiv, ændringer til benchmarkforordningen og disclosureforordningen) indeholder følgende ikrafttrædelsesbestemmelse:
-
-§ 12
-
-Stk. 1. Loven træder i kraft den 1. januar 2021, jf. dog stk. 2-4.
-
-Stk. 2-4. (Udelades)
-
-Lov nr. 1155 af 8. juni 2021 om fondsmæglerselskaber og investeringsservice og –aktiviteter indeholder følgende ikrafttrædelsesbestemmelse:
-
-§ 288. Loven træder i kraft den 26. juni 2021.
-
-Stk. 2-4. (Udelades)
-
 Lov nr. 2382 af 14. december 2021 (Supplering af taksonomiforordningen og ny model for SIFI-udpegning) indeholder følgende ikrafttrædelsesbestemmelse:
 
 § 19
@@ -95,3 +81,37 @@ Stk. 2. (Udelades)
 Stk. 3. § 1, nr. 3, 7, 18 og 25, afsnit IX c i lov om finansiel virksomhed som affattet ved denne lovs § 1, nr. 26, og § 1, nr. 27 og 37, § 3, nr. 2, 3, 17, 20 og 21, § 8, nr. 1, 3-8, 13 og 14, og § 16 træder i kraft den 18. oktober 2024.
 
 Stk. 4-16. (Udelades)
+
+Lov nr. 1666 af 30. december 2024 (Adgang til en basal erhvervskonto for erhvervsdrivende og foreninger, tilsyn efter forordning om europæiske grønne obligationer og åremålsansættelse for direktionen i Danmarks Nationalbank m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 18
+
+Stk. 1. Loven træder i kraft den 1. januar 2025, jf. dog stk. 2 og 3.
+
+Stk. 2-10. (Udelades)
+
+Lov nr. 1668 af 30. december 2024 (Ændring af visse love og bestemmelser på Erhvervsministeriets område som følge af opgavebortfald) indeholder følgende ikrafttrædelses- og overgangsbestemmelse:
+
+§ 17
+
+Stk. 1. Loven træder i kraft den 1. januar 2025, jf. dog stk. 2.
+
+Stk. 2. Erhvervsministeren fastsætter tidspunktet for ikrafttrædelse af § 11, nr. 1-8, 10-12 og 17-32.
+
+Stk. 3. (Udelades)
+
+Stk. 4. § 3, stk. 9, i lov om finansielle rådgivere, investeringsrådgivere og boligkreditformidlere som affattet ved denne lovs § 11, nr. 16, ophæves, når erhvervsministeren ved bekendtgørelse fastsætter det.
+
+Stk. 5. Finanstilsynet inddrager med virkning fra den 1. marts 2025 alle finansielle rådgiveres tilladelse og sletter herefter de finansielle rådgivere fra Finanstilsynets offentlige register, jf. § 4 a i lov om finansielle rådgivere, investeringsrådgivere og boligkreditformidlere, jf. lovbekendtgørelse nr. 1095 af 21. oktober 2024. 1. pkt. gælder ikke, når den finansielle rådgiver senest den 28. februar 2025 har indgivet ansøgning om tilladelse til at udøve forsikringsdistribution som forsikringsformidler, jf. § 3 i lov om forsikringsformidling, eller om tilladelse som investeringsrådgiver, jf. § 3 i lov om finansielle rådgivere, investeringsrådgivere og boligkreditformidlere, jf. lovbekendtgørelse nr. 1095 af 21. oktober 2024. For finansielle rådgivere, der inden den 28. februar 2025 har indgivet ansøgning om tilladelse til at udøve forsikringsdistribution som forsikringsformidler eller om tilladelse som investeringsrådgiver, inddrager Finanstilsynet først den finansielle rådgivers tilladelse og sletter virksomheden fra Finanstilsynets offentlige register, når ansøgningen er færdigbehandlet af Finanstilsynet.
+
+Stk. 6. (Udelades)
+
+Lov nr. 712 af 20. juni 2025 (Håndtering af kryptoeksponeringer, udarbejdelse af ESG-omstillingsplaner, nye dokumentationskrav for institutternes ledelsesstruktur, ansvarsfordeling og rapporteringslinjer, tydeligere regler for tilladelse til kreditinstitutter fra lande uden for EU/EØS (tredjelande), ny tilsynsbeføjelse til Finanstilsynet om godkendelse af væsentlige erhvervelser af kapitalandele i andre selskaber, strafbelæggelse af disclosureforordningen, modernisering af reglerne i FAIF-UCITS II-direktivet, styrkelse af reglerne om bekæmpelsen af national og international hvidvask og oprettelse af et fælles europæisk adgangspunkt (ESAP) til indsendelse af en række offentliggjorte oplysninger m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 22
+
+Stk. 1. Loven træder i kraft den 1. juli 2025, jf. dog stk. 2-13.
+
+Stk. 2-12. (Udelades)
+
+Stk. 13. Erhvervsministeren fastsætter tidspunktet for ikrafttrædelse af § 9, nr. 1, 4 og 5, og § 21.
