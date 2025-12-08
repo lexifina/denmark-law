@@ -1,9 +1,7 @@
-1) Loven indeholder bestemmelser, der gennemfører dele af Europa-Parlamentets og Rådets direktiv 2016/97/EU af 20. januar 2016 om forsikringsdistribution, EU-Tidende 2016, nr. L 26, side 19.
+1) Loven indeholder bestemmelser, der gennemfører dele af Europa-Parlamentets og Rådets direktiv 2016/97/EU af 20. januar 2016 om forsikringsdistribution, EU-Tidende 2016, nr. L 26, side 19, og dele af Europa-Parlamentets og Rådets direktiv (EU) 2023/2864 af 13. december 2023 om ændring af visse direktiver for så vidt angår oprettelse af det fælles europæiske adgangspunkt og dets funktionsmåde, EU-Tidende, L af 20. december 2023.
 
-2) Lovændringen vedrører overskriften før § 12 b og § 12 b.
+Slutnoter
 
-3) Lovændringen vedrører § 2, nr. 8, litra c, nr. i og ii, og § 22, stk. 1, 2. pkt.
+2) Lovændringen vedrører § 22, stk. 1, 2. pkt., § 31, stk. 6, nr. 18, § 33, stk. 1, 8.-10. pkt., og stk. 6, § 36, stk. 1, § 37 og § 42, stk. 2.
 
-4) Lovændringen vedrører § 2, nr. 8, litra a, b og c, og § 12 a, nr. 2.
-
-5) Lovændringen vedrører § 1, stk. 2, nr. 2, § 20, stk. 1, og § 20 stk. 1, nr. 2 og 6, § 21, stk. 2, 1. pkt., § 25, stk. 1 og 2, og stk. 3, 1. pkt., § 25, stk. 2, § 26, stk. 1, 2. pkt., § 29, stk. 1, nr. 6, § 29, stk. 4, § 30, nr. 5 og 6, § 33, stk. 4, 1. pkt., og § 37.
+3) Lovændringen vedrører fodnoten til lovens titel, § 9, stk. 2-4 og 6, § 22, stk. 1, 2. pkt., § 22 a, § 27, stk. 2, stk. 6, 2. pkt., og stk. 9 og 11, § 33, stk. 4, 1. pkt., og stk. 5, § 34, stk. 3, og § 42, stk. 1 og 2.
