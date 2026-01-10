@@ -1,9 +1,7 @@
-Givet på Christiansborg Slot, den 9. juni 2020
+Erhvervsstyrelsen, den 8. januar 2026
 
-Under Vor Kongelige Hånd og Segl
+Katrine Winding
 
-MARGRETHE R.
+/ Heidi Osmann Pedersen
 
-/ Simon Kollerup
-
-EU Noter
+Slutnoter
