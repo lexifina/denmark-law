@@ -1,7 +1,7 @@
-Givet på Amalienborg, den 30. december 2024
+Energistyrelsen, den 17. april 2026
 
-Under Vor Kongelige Hånd og Segl
+Peter Christian Baggesgaard Hansen
 
-FREDERIK R.
+/ Henrik Sulsbrück
 
-/ Lars Aagaard
+Slutnoter
