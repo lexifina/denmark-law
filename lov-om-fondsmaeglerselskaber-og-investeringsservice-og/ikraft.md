@@ -1,13 +1,3 @@
-Lov nr. 2382 af 14. december 2021 (Supplering af taksonomiforordningen og ny model for SIFI-udpegning) indeholder følgende ikrafttrædelsesbestemmelse:
-
-§ 19
-
-Stk. 1. Loven træder i kraft den 1. januar 2022, jf. dog stk. 2.
-
-Stk. 2. § 1, nr. 4, § 2, nr. 3, § 3, nr. 4, § 4, nr. 6, § 5, nr. 14, § 7, nr. 4, § 8, nr. 1, § 10, nr. 1, § 11, nr. 1, § 12, nr. 1, § 13, nr. 1, § 15, nr. 1, § 16, nr. 1, og § 17, nr. 1, træder i kraft den 17. december 2021.
-
-Stk. 3-8. (Udelades)
-
 Lov nr. 568 af 10. maj 2022 (Skærpede krav om måltal og politikker for det underrepræsenterede køn) indeholder følgende ikrafttrædelsesbestemmelse:
 
 § 11
@@ -140,7 +130,7 @@ Lov nr. 52 af 28. januar 2025 om uafhængige erklæringsudbydere vedrørende bæ
 
 Stk. 2-10. (Udelades)
 
-Lov nr. 712 af 20. juni 2025 (Håndtering af kryptoeksponeringer, udarbejdelse af ESG-omstillingsplaner, nye dokumentationskrav for institutternes ledelsesstruktur, ansvarsfordeling og rapporteringslinjer, tydeligere regler for tilladelse til kreditinstitutter fra lande uden for EU/EØS (tredjelande), ny tilsynsbeføjelse til Finanstilsynet om godkendelse af væsentlige erhvervelser af kapitalandele i andre selskaber, strafbelæggelse af disclosureforordningen, modernisering af reglerne i FAIF-UCITS II-direktivet, styrkelse af reglerne om bekæmpelsen af national og international hvidvask og oprettelse af et fælles europæisk adgangspunkt (ESAP) til indsendelse af en række offentliggjorte oplysninger m.v.) indeholder følgende ikrafttrædelses-, virknings- og overgangsbestemmelser:
+Lov nr. 712 af 20. juni 2025 (Håndtering af kryptoeksponeringer, udarbejdelse af ESG-omstillingsplaner, nye dokumentationskrav for institutternes ledelsesstruktur, ansvarsfordeling og rapporteringslinjer, tydeligere regler for tilladelse til kreditinstitutter fra lande uden for EU/EØS (tredjelande), ny tilsynsbeføjelse til Finanstilsynet om godkendelse af væsentlige erhvervelser af kapitalandele i andre selskaber, strafbelæggelse af disclosureforordningen, modernisering af reglerne i FAIF-UCITS II-direktivet, styrkelse af reglerne om bekæmpelsen af national og international hvidvask og oprettelse af et fælles europæisk adgangspunkt (ESAP) til indsendelse af en række offentliggjorte oplysninger m.v.), som ændret ved lov nr. 1638 af 16. december 2025, indeholder følgende ikrafttrædelses-, virknings- og overgangsbestemmelser:
 
 § 22
 
@@ -150,7 +140,7 @@ Stk. 2. (Udelades)
 
 Stk. 3. § 5, nr. 30, og § 6, nr. 3, 5, 7, 8, 18, 20, 23-33, 49 og 51, træder i kraft den 29. september 2025.
 
-Stk. 4. § 1, nr. 1 og 2, § 5, stk. 1, nr. 61-63, i lov om finansiel virksomhed som affattet ved denne lovs § 1, nr. 8, § 1, nr. 9, 18, 20-22, 28, 30-36, 55, 56, 59, 60, 62-64, 66 og 67, § 170 b i lov om finansiel virksomhed som affattet ved denne lovs § 1, nr. 69, § 1, nr. 71-77, 79-83, 103, 104, 108, 109, 111-113, 115, 121, 123 og 125, § 4, nr. 3, og § 5, nr. 3-7, træder i kraft den 1. januar 2026.
+Stk. 4. § 1, nr. 1 og 2, § 5, stk. 1, nr. 61-63, i lov om finansiel virksomhed som affattet ved denne lovs § 1, nr. 8, § 1, nr. 9, 18, 20-22, 28, 30-36, 55, 56, 59, 60, 62-64, 66 og 67, § 170 b i lov om finansiel virksomhed som affattet ved denne lovs § 1, nr. 69, § 1, nr. 71-77, 79-83, 103, 104, 108, 109, 111-113, 115, 121, 123 og 125, og § 5, nr. 3-7, træder i kraft den 1. januar 2026.
 
 Stk. 5. § 1, nr. 100 og 102, § 2, nr. 56, § 3, nr. 42, § 5, nr. 21, § 6, nr. 37, og § 7, nr. 7, træder i kraft den 1. marts 2026.
 
@@ -160,7 +150,7 @@ Stk. 7. § 1, nr. 117, 120 og 124, § 2, nr. 77 og 83, § 3, nr. 53, 54 og 58, �
 
 Stk. 8-11. (Udelades)
 
-Stk. 12. § 1, nr. 38, 39, 78 og 95, § 2, nr. 44, § 5, nr. 8, 9, 12, 13 og 18, § 6, nr. 1, 12, 19, 21, 22, 46 og 48, § 7, nr. 3-5, og § 14, nr. 4, træder i kraft den 10. januar 2030.
+Stk. 12. § 1, nr. 38, 39, 78 og 95, § 2, nr. 44, § 5, nr. 8, 9, 12, 13 og 18, § 6, nr. 12, 19, 21, 22, 46 og 48, § 7, nr. 3-5, og § 14, nr. 4, træder i kraft den 10. januar 2030.
 
 Stk. 13. (Udelades)
 
@@ -175,3 +165,29 @@ Stk. 1-6. (Udelades)
 Stk. 7. § 1, nr. 128, § 2, nr. 82, § 3, nr. 59, § 5, nr. 27, og § 117, stk. 2, i lov om firmapensionskasser som affattet ved denne lovs § 7, nr. 17, § 8, nr. 14, og § 9, nr. 18, finder ikke anvendelse på overtrædelser af artikel 13, stk. 3, 1. afsnit, i Europa-Parlamentets og Rådets forordning (EU) 2019/2088 af 27. november 2019 om bæredygtighedsrelaterede oplysninger i sektoren for finansielle tjenesteydelser, der finder sted før den 2. juli 2026. For sådanne overtrædelser finder de hidtil gældende regler anvendelse.
 
 Stk. 8-10. (Udelades)
+
+Lov nr. 1636 af 16. december 2025 (Udskydelse af virksomheders pligt til rapportering om bæredygtighed og afregistrering af revisorer eller uafhængige erklæringsudbydere vedrørende bæredygtighedsrapportering) indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 5
+
+Stk. 1. Loven træder i kraft den 31. december 2025, jf. dog stk. 2.
+
+Stk. 2. (Udelades)
+
+Lov nr. 1638 af 16. december 2025 (Ophævelse af national prospektgrænse, delvis ophævelse af forbud mod aktieklasser i finansielle virksomheder, forsikringsselskaber og fondsmæglerselskaber, ændring af offentliggørelseskrav ved optagelse til handel på en multilateral handelsfacilitet, styrkelse af Finanstilsynets uafhængighed m.v.) indeholder følgende ikrafttrædelsesbestemmelse:
+
+§ 15
+
+Stk. 1. Loven træder i kraft den 1. januar 2026, jf. dog stk. 2-13.
+
+Stk. 2-6. (Udelades)
+
+Stk. 7. § 1, nr. 2, 7, 8, 11-16, 18 og 19, § 2, nr. 17, og § 4, nr. 7, træder i kraft den 6. juni 2026.
+
+Stk. 8. § 3, nr. 1, 2, 7 og 8, og § 4, nr. 2 og 4-6, træder i kraft den 25. juni 2026.
+
+Stk. 9. (Udelades)
+
+Stk. 10. § 1, nr. 3, 5, 9 og 10, § 2, nr. 1 og 3-6, § 4, nr. 3, og § 5, nr. 2, 3 og 6, træder i kraft den 5. december 2026.
+
+Stk. 11-14. (Udelades)
