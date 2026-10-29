@@ -138,7 +138,7 @@ Everything below is done by `tools/build.py` and `tools/dkparse.py`, determinist
     notes, changes no amending article explains, and changes with several candidate acts.
   - Author and committer dates are noon in Copenhagen on the day the change took effect: UTC+1, or UTC+2 in summer time
     (from the last Sunday in March to the last Sunday in October; September until 1995; none before 1980), written into
-    the code because the build machine has no time-zone database. The committer is `Lexifina <denmark-law@lexifina.com>`.
+    the code (no time-zone database is used). The committer is `Lexifina <denmark-law@lexifina.com>`.
     113 commit(s) are before 1970 (git cannot store such dates; they are dated 1970-01-01, seconds apart, with the
     real day in `In-force:`, which `tools/paa_dato.py` reads).
   - The message has the act's title, the provisions it inserted, changed or removed (Indsat, Ændret, Udgået), and
@@ -204,8 +204,8 @@ each, official words / repository words:
    Retsinformation's valid-from day is the day it loaded the document (1997-09-24/25, 1997-10-01, 1998-03-15, 1999-07-27,
    ...), years after publication. Where it is more than 60 days after the day of publication (more than 14 days when it is
    1997-09-24, 1997-09-25 or 1998-03-15, the days of the big loads), the day of publication is
-   used and the commit says so (`Date-note: load-day`, with the day Retsinformation gives). Where the site cannot serve a
-   document's XML (HTTP 500 on every try, recorded with the retrieved answers), there is no valid-from day and the day of publication
+   used and the commit says so (`Date-note: load-day`, with the day Retsinformation gives). Where a document has no
+   XML, there is no valid-from day and the day of publication
    is used (`Date-note: undated`).
 9. **Old page layouts.** Documents from before about 2000 keep list items in `<LI>` elements and some paragraphs as text
    directly in a `<div>`; each such element is a line, as a `<p>` is. A rule (`<HR>`) inside a line does not end it: the
