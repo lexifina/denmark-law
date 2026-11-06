@@ -1,5 +1,7 @@
 # Danish law, change by change
 
+Part of [lexifina/global-law](https://github.com/lexifina/global-law), one git history for every country's law: this is Denmark's national law, which global-law reads at `denmark/national/acts/`.
+
 Every Danish statute in force, as a git repository: 1,432 acts (love and lovbekendtgørelser) that Retsinformation lists
 as in force, from the oldest (1852) to the acts of 2025, the Constitution of 1953 among them, each with every consolidation (lovbekendtgørelse)
 Retsinformation holds and the amending acts between them. Each amending act is one commit, credited to that act and dated
