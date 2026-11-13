@@ -1,164 +1,160 @@
-# Danish law, change by change
+# Dansk lovgivning, ændring for ændring
+
+**Dansk** · [English](README.en.md)
 
 <picture>
-<source media="(prefers-color-scheme: dark)" srcset="data/effort-dark.svg">
-<img alt="Danish law in this repository: what it holds, changes by the year they took effect, completeness against the official sources, and the correctness of what is held" src="data/effort-light.svg" width="880">
+<source media="(prefers-color-scheme: dark)" srcset="data/da/effort-dark.svg">
+<img alt="Danmarks lovgivning i dette repositorie: indhold, ændringer efter år for ikrafttræden, fuldstændighed målt mod officielle kilder og korrekthed af indholdet" src="data/da/effort-light.svg" width="880">
 </picture>
 
-Part of [lexifina/global-law](https://github.com/lexifina/global-law), one git history for every country's law: this is Denmark's national law, which global-law reads at `denmark/national/acts/`.
+Del af [lexifina/global-law](https://github.com/lexifina/global-law), én git-historik for alle landes ret: dette er Danmarks nationale lovgivning, som global-law læser under `denmark/national/acts/`.
 
-Every Danish statute in force, as a git repository: 1,432 acts (love and lovbekendtgørelser) that Retsinformation lists
-as in force, from the oldest (1852) to the acts of 2025, the Constitution of 1953 among them, each with every consolidation (lovbekendtgørelse)
-Retsinformation holds and the amending acts between them. Each amending act is one commit, credited to that act and dated
-the day it took effect, at noon in Copenhagen. The text is the text published by Civilstyrelsen in
-[Retsinformation](https://www.retsinformation.dk), in Danish.
-
-*Dansk: [nedenfor](#dansk).*
+Alle gældende danske love som et git-repositorie: 1.432 retsakter (love og lovbekendtgørelser), som Retsinformation viser
+som gældende, fra den ældste (1852) til lovene fra 2025, herunder Grundloven fra 1953, hver med alle de lovbekendtgørelser,
+Retsinformation har, og de ændringslove, der ligger imellem dem. Hver ændringslov er ét commit, tilskrevet den pågældende lov
+og dateret den dag, den trådte i kraft, kl. 12 i København. Teksten er den tekst, Civilstyrelsen udgiver i
+[Retsinformation](https://www.retsinformation.dk), på dansk.
 
 | | |
 | --- | --- |
-| Acts | 1,432 (1,292 from the act as passed, 140 from their first consolidation in Retsinformation) |
-| Official texts | 4,131 (each act's first text and 2,839 consolidations, each equal to Retsinformation's) |
-| Commits | 12,725 law commits, from 1852-01-28 to 2026-05-20 |
-| Amending acts credited | 3,974 |
-| Tags | 19,131 |
+| Love | 1.432 (1.292 fra loven som vedtaget, 140 fra deres første lovbekendtgørelse i Retsinformation) |
+| Officielle tekster | 4.131 (hver lovs første tekst og 2.839 lovbekendtgørelser, hver identisk med Retsinformations) |
+| Commits | 12.725 lov-commits, fra 1852-01-28 til 2026-05-20 |
+| Tilskrevne ændringslove | 3.974 |
+| Tags | 19.131 |
 
-## The questions, as git commands
+## Spørgsmålene som git-kommandoer
 
-| Question | Command |
+| Spørgsmål | Kommando |
 | --- | --- |
-| What did § 5 of the Tax Administration Act say on 1 January 2016? | `python tools/paa_dato.py 2016-01-01 skatteforvaltningsloven 5` |
-| § 266 b of the Criminal Code on 1 January 2000 | `python tools/paa_dato.py 2000-01-01 straffeloven 266b` |
-| The whole Salaried Employees Act as it stood on 1 January 2010 | `python tools/paa_dato.py 2010-01-01 funktionaerloven` |
-| § 20 of the Constitution | `python tools/paa_dato.py 2000-01-01 grundloven 20` |
-| Which act wrote each paragraph of § 5? | `git blame skatteforvaltningsloven/par-005.md` |
-| Every change to § 5, with the act and the day | `git log --follow skatteforvaltningsloven/par-005.md` |
-| Everything one amending act changed, in every act | `git show --stat lov/2023-1535` |
-| What changed in one act on one day | `git show --stat skatteforvaltningsloven/2020-01-01` |
-| Every amending act that changed the Criminal Code | `git log --format=%an -- straffeloven` |
-| The acts and consolidations with all their dates | [`love.csv`](love.csv) |
-| The consolidations (lovbekendtgørelser) | `git log --grep="(lovbekendtgørelse)"` |
-| Changes more than one act could explain | `git log --grep="Candidate:"` |
-| Changes whose day is not read from the act | `git log --grep="Date-note: undated"` |
+| Hvad sagde § 5 i skatteforvaltningsloven den 1. januar 2016? | `python tools/paa_dato.py 2016-01-01 skatteforvaltningsloven 5` |
+| § 266 b i straffeloven den 1. januar 2000 | `python tools/paa_dato.py 2000-01-01 straffeloven 266b` |
+| Hele funktionærloven, som den lød den 1. januar 2010 | `python tools/paa_dato.py 2010-01-01 funktionaerloven` |
+| § 20 i Grundloven | `python tools/paa_dato.py 2000-01-01 grundloven 20` |
+| Hvilken lov skrev hvert stykke i § 5? | `git blame skatteforvaltningsloven/par-005.md` |
+| Alle ændringer af § 5, med loven og dagen | `git log --follow skatteforvaltningsloven/par-005.md` |
+| Alt, hvad én ændringslov ændrede, i alle love | `git show --stat lov/2023-1535` |
+| Hvad der blev ændret i én lov på én dag | `git show --stat skatteforvaltningsloven/2020-01-01` |
+| Alle ændringslove, der har ændret straffeloven | `git log --format=%an -- straffeloven` |
+| Lovene og lovbekendtgørelserne med alle deres datoer | [`love.csv`](love.csv) |
+| Lovbekendtgørelserne | `git log --grep="(lovbekendtgørelse)"` |
+| Ændringer, som mere end én lov kan forklare | `git log --grep="Candidate:"` |
+| Ændringer, hvis dag ikke er læst i loven | `git log --grep="Date-note: undated"` |
 
-## The dates, and which one we use
+## Datoerne, og hvilken vi bruger
 
-A Danish act has the day it was passed (`Enacted:`, the day the King or Queen signed it), the day it was published in
-Lovtidende (`Published:`), and the day it took effect (`In-force:`). **Commits are dated the day the change took effect**,
-at noon in Copenhagen (CET, or CEST in summer time): that is the day that decides which text applies. The day is read from
-the amending act's own commencement sentence ("Loven træder i kraft den 1. januar 2020", "§ 1, nr. 3, træder i kraft den
-..."), quoted in the commit. Where an act leaves the day to a minister, the day of the consolidation is used and the commit
-says so (`Date-note: undated`). All three dates are in every commit message. Git cannot store a date before 1970, so the
-commits for changes before 1970 (the Constitution of 5 June 1953 among them) are dated 1 January 1970, seconds apart, in
-the right order, and their real day is in `In-force:`, which `tools/paa_dato.py` reads.
+En dansk lov har den dag, den blev vedtaget (`Enacted:`, den dag kongen eller dronningen underskrev den), den dag, den blev
+kundgjort i Lovtidende (`Published:`), og den dag, den trådte i kraft (`In-force:`). **Commits er dateret den dag, ændringen
+trådte i kraft**, kl. 12 i København (CET, eller CEST i sommertid): det er den dag, der afgør, hvilken tekst der gælder. Dagen
+læses i ændringslovens egen ikrafttrædelsesbestemmelse ("Loven træder i kraft den 1. januar 2020", "§ 1, nr. 3, træder i
+kraft den ..."), som citeres i commit'et. Hvor en lov overlader det til en minister at fastsætte dagen, bruges
+lovbekendtgørelsens dag, og commit'et oplyser det (`Date-note: undated`). Alle tre datoer står i hver commit-besked. Git kan
+ikke gemme en dato før 1970, så commits for ændringer før 1970 (herunder Grundloven af 5. juni 1953) er dateret 1. januar
+1970 med sekunders mellemrum i den rigtige rækkefølge, og deres egentlige dag står i `In-force:`, som `tools/paa_dato.py`
+læser.
 
-All acts share one history in the order their changes took effect. An amending act that changes several acts on one day is
-one commit, listing each act with its provisions.
+Alle love deler én historik i den rækkefølge, deres ændringer trådte i kraft. En ændringslov, der ændrer flere love samme
+dag, er ét commit, som nævner hver lov med dens bestemmelser.
 
-## What "author" means
+## Hvad "forfatter" betyder
 
-The author of a commit is the act that made the change: `LOV nr 1125 af 19/11/2019` (with an address ending
-`@retsinformation.invalid`, which cannot exist), so `git blame` names the act. Where a consolidation lists an executive
-order among the documents it incorporates (`BEK nr ...`, for example one that moves tasks between ministries), that order
-is the author of the changes it made. Retsinformation does not mark which act
-changed which provision. It publishes the act as passed and each later consolidation (lovbekendtgørelse), and each
-consolidation says which amending acts it incorporates and which article of each. The build reads that article in the
-amending act, takes each numbered item and the provisions it names, and credits a changed provision to the act that names
-it. Three further rules, each labelled in the commit: an item that says "overalt i loven" counts for every provision; a
-provision whose new wording is quoted in exactly one act of the window goes to that act; and part headings that moved with
-a provision go with the act that changed it.
+Forfatteren til et commit er den lov, der foretog ændringen: `LOV nr 1125 af 19/11/2019` (med en adresse, der ender på
+`@retsinformation.invalid`, som ikke kan eksistere), så `git blame` nævner loven. Hvor en lovbekendtgørelse blandt de
+dokumenter, den indarbejder, nævner en bekendtgørelse (`BEK nr ...`, for eksempel en, der flytter opgaver mellem
+ministerier), er denne bekendtgørelse forfatter til de ændringer, den foretog. Retsinformation markerer ikke, hvilken lov
+der ændrede hvilken bestemmelse. Den udgiver loven som vedtaget og hver senere lovbekendtgørelse, og hver lovbekendtgørelse
+oplyser, hvilke ændringslove den indarbejder, og hvilken artikel i hver af dem. Byggeprocessen læser denne artikel i
+ændringsloven, tager hvert nummer og de bestemmelser, det nævner, og tilskriver en ændret bestemmelse den lov, der nævner
+den. Tre yderligere regler, hver mærket i commit'et: et nummer, der siger "overalt i loven", gælder for alle bestemmelser;
+en bestemmelse, hvis nye ordlyd citeres i præcis én lov i perioden, tilskrives denne lov; og overskrifter over lovens
+afsnit, der flyttede med en bestemmelse, følger den lov, der ændrede den.
 
-Where more than one act names a provision, or none does, the consolidation shows only the result: such changes are
-committed by `Retsinformation (Civilstyrelsen)`, say "(flere love)" in the subject and name the acts in `Candidate:`
-trailers, or are labelled as explained by no amending article. They are never credited to an act on a guess. A
-consolidation's own opening words, signatures and notes are committed by Retsinformation too. The committer is always
-`Lexifina`.
+Hvor mere end én lov nævner en bestemmelse, eller ingen gør, viser lovbekendtgørelsen kun resultatet: sådanne ændringer
+committes af `Retsinformation (Civilstyrelsen)`, har "(flere love)" i emnelinjen og nævner lovene i `Candidate:`-trailere,
+eller de mærkes som ikke forklaret af nogen ændringsartikel. De tilskrives aldrig en lov på et gæt. En lovbekendtgørelses
+egne indledningsord, underskrifter og noter committes også af Retsinformation. Committer er altid `Lexifina`.
 
-## Where an act begins
+## Hvor en lov begynder
 
-For most acts the first commit is the act as passed, credited to the act itself. For 140 older acts Retsinformation
-does not hold the act as passed; their first commit is the first consolidation it holds, which reprints the act with every
-change made until then. That commit is by `Retsinformation (Civilstyrelsen)`, says "(første tekst i Retsinformation)" in its
-subject, and credits no act: the history of those acts before that consolidation is not in this record.
+For de fleste love er det første commit loven som vedtaget, tilskrevet loven selv. For 140 ældre love har Retsinformation
+ikke loven som vedtaget; deres første commit er den første lovbekendtgørelse, Retsinformation har, som genoptrykker loven
+med alle ændringer foretaget indtil da. Dette commit er fra `Retsinformation (Civilstyrelsen)`, har "(første tekst i
+Retsinformation)" i emnelinjen og tilskriver ingen lov: disse loves historik før denne lovbekendtgørelse er ikke med i
+dette materiale.
 
-## What is official and what is reconstructed
+## Hvad der er officielt, og hvad der er rekonstrueret
 
-Retsinformation publishes the text only on the days of the consolidations. Between two consolidations several acts take
-effect on different days, and no text exists for the days in between. The commits between consolidation days are therefore
-reconstructed: each act's changes appear on its own in-force day, with the wording the next consolidation shows. **Only the
-state of an act on a consolidation's day (the commit tagged `lbk/<year>-<number>`) and on its first day is an official text,
-and it equals Retsinformation's text file by file.** Word for word it equals it too, except for the few versions
-listed in [`REPRODUCE.md`](REPRODUCE.md) whose printed order the files cannot follow (a section printed out of its
-number order, a formula set with subscripts).
+Retsinformation udgiver kun teksten på lovbekendtgørelsernes dage. Mellem to lovbekendtgørelser træder flere love i kraft
+på forskellige dage, og der findes ingen tekst for dagene imellem. Commits mellem lovbekendtgørelsesdagene er derfor
+rekonstrueret: hver lovs ændringer optræder på dens egen ikrafttrædelsesdag med den ordlyd, som den næste
+lovbekendtgørelse viser. **Kun en lovs tilstand på en lovbekendtgørelses dag (det commit, der er tagget
+`lbk/<year>-<number>`) og på dens første dag er officiel tekst, og den er identisk med Retsinformations tekst, fil for
+fil.** Ord for ord er den også identisk, bortset fra de få versioner, der er opført i [`REPRODUCE.md`](REPRODUCE.md), hvis
+trykte rækkefølge filerne ikke kan følge (en paragraf trykt uden for sin nummerorden, en formel sat med sænket skrift).
 
-## How it is checked
+## Hvordan det kontrolleres
 
-`tools/check_repo.py` reads every official version of every act back from git on the day it took effect and compares it
-with the official text: file by file with the text parsed from Retsinformation's HTML, and word for word with all the
-letters and digits of the document, read independently of the parser. `tools/test_repo.py` checks that the commands above
-work. The results are in [`REPRODUCE.md`](REPRODUCE.md).
+`tools/check_repo.py` læser hver officiel version af hver lov tilbage fra git på den dag, den trådte i kraft, og
+sammenligner den med den officielle tekst: fil for fil med teksten, som den er parset fra Retsinformations HTML, og ord for
+ord med alle dokumentets bogstaver og cifre, læst uafhængigt af parseren. `tools/test_repo.py` kontrollerer, at
+kommandoerne ovenfor virker. Resultaterne står i [`REPRODUCE.md`](REPRODUCE.md).
 
-## Files
+## Filer
 
-Each act is a folder named after its short title (`straffeloven/`, `funktionaerloven/`), or after its title and number
-where it has none. Each provision (§) is one file: `par-005.md` is § 5, `par-035b.md` is § 35 b; where an act prints the
-same number twice (some old acts and the accession acts of 1972), the second is `par-002-dup.md`, the third
-`par-002-dup2.md`; such files, and the sections after a repeat that belong to the same second run of numbers
-(`par-046a-dup.md`), come after the regular sections. A number printed again right after itself, with the regular
-sections going on after it (the indfødsret acts' "§ 1. ... § 1. ... § 2."), is `par-001-igen.md`, read right after the
-first. The headings of the parts that begin with a provision are `##` lines at the top of its file; each
-paragraph (stk.) and list item is one line. `indledning.md` is the title and the opening words, `ikraft.md` the
-commencement provisions of amending acts that a consolidation reprints after its last section ("Lov nr. 285 af 13. maj
-1987 ... indeholder følgende ikrafttrædelsesbestemmelse: § 2. ..."; they are not provisions of the act), `slut.md` the
-signatures, `bilag.md` sections printed after the signatures (an older act or an amending act's provisions that a
-consolidation reprints there) and `noter.md` the footnotes. A section that an amending provision quotes as new wording (»§ 5 a. ...«) stays
-in the file of the section that quotes it. A repealed provision stays as a file with "(Ophævet)", as Retsinformation prints it.
+Hver lov er en mappe opkaldt efter lovens korttitel (`straffeloven/`, `funktionaerloven/`) eller, hvor den ikke har nogen,
+efter dens titel og nummer. Hver bestemmelse (§) er én fil: `par-005.md` er § 5, `par-035b.md` er § 35 b; hvor en lov
+trykker samme nummer to gange (nogle ældre love og tiltrædelseslovene fra 1972), er den anden `par-002-dup.md`, den tredje
+`par-002-dup2.md`; sådanne filer og de paragraffer efter en gentagelse, der hører til samme anden nummerrække
+(`par-046a-dup.md`), kommer efter de almindelige paragraffer. Et nummer, der trykkes igen lige efter sig selv, hvorefter de
+almindelige paragraffer fortsætter (indfødsretslovenes "§ 1. ... § 1. ... § 2."), er `par-001-igen.md`, som læses lige
+efter det første. Overskrifterne over de dele af loven, der begynder med en bestemmelse, er `##`-linjer øverst i
+bestemmelsens fil; hvert stykke (stk.) og hvert listepunkt er én linje. `indledning.md` er titlen og indledningsordene,
+`ikraft.md` de ikrafttrædelsesbestemmelser i ændringslove, som en lovbekendtgørelse genoptrykker efter sin sidste paragraf
+("Lov nr. 285 af 13. maj 1987 ... indeholder følgende ikrafttrædelsesbestemmelse: § 2. ..."; de er ikke bestemmelser i
+loven), `slut.md` underskrifterne, `bilag.md` paragraffer trykt efter underskrifterne (en ældre lov eller en ændringslovs
+bestemmelser, som en lovbekendtgørelse genoptrykker dér) og `noter.md` fodnoterne. En paragraf, som en ændringsbestemmelse
+citerer som ny ordlyd (»§ 5 a. ...«), forbliver i filen for den paragraf, der citerer den. En ophævet bestemmelse forbliver
+en fil med "(Ophævet)", sådan som Retsinformation trykker den.
 
-Each act's folder has a `README.md` listing its provisions with how often each changed. [`love.csv`](love.csv) lists every
-version and amending act with its dates; [`data/versioner.json`](data/versioner.json) every document read, with its
-sha256; [`data/ikke-tilskrevet.csv`](data/ikke-tilskrevet.csv) every change credited to no act, and why;
-[`data/udeladt.csv`](data/udeladt.csv) any act left out because it could not be read. [`corpus.json`](corpus.json)
-describes the corpus for tools that read several of Lexifina's law repositories.
+Hver lovs mappe har en `README.md`, der viser lovens bestemmelser, og hvor ofte hver af dem er ændret.
+[`love.csv`](love.csv) viser hver version og ændringslov med deres datoer; [`data/versioner.json`](data/versioner.json)
+hvert læst dokument med dets sha256; [`data/ikke-tilskrevet.csv`](data/ikke-tilskrevet.csv) hver ændring, der ikke er
+tilskrevet nogen lov, og hvorfor; [`data/udeladt.csv`](data/udeladt.csv) enhver lov, der er udeladt, fordi den ikke kunne
+læses. [`corpus.json`](corpus.json) beskriver korpusset for værktøjer, der læser flere af Lexifinas lov-repositorier.
 
-## What it does not show
+## Hvad det ikke viser
 
-- Acts no longer in force, and executive orders (bekendtgørelser): the record holds the statutes Retsinformation lists as
-  in force on 2026-10-29.
-- Acts passed after an act's latest consolidation: Retsinformation has no consolidated text for them yet, so their changes
-  wait for the next consolidation.
-- The history of an act before its first text in Retsinformation (above).
-- The days between consolidations as official texts (above).
+- Love, der ikke længere er i kraft, og bekendtgørelser: materialet omfatter de love, som Retsinformation viste som
+  gældende pr. 2026-10-29.
+- Love vedtaget efter en lovs seneste lovbekendtgørelse: Retsinformation har endnu ingen konsolideret tekst for dem, så
+  deres ændringer venter på den næste lovbekendtgørelse.
+- En lovs historik før dens første tekst i Retsinformation (se ovenfor).
+- Dagene mellem lovbekendtgørelser som officielle tekster (se ovenfor).
 
-The text on Retsinformation is for information; the authoritative publication is Lovtidende.
+Teksten i Retsinformation er til orientering; den autoritative udgivelse er Lovtidende.
 
-## How it is built
+## Hvordan det er bygget
 
-`tools/build.py` reads Retsinformation and writes this repository from scratch; the same data gives the same hashes. Every
-step, the software, the decisions made by hand and what an AI model did are in [`REPRODUCE.md`](REPRODUCE.md).
+`tools/build.py` læser Retsinformation og skriver dette repositorie fra bunden; de samme data giver de samme hashes. Hvert
+trin, softwaren, de beslutninger, der er truffet manuelt, og hvad en AI-model har gjort, står i
+[`REPRODUCE.md`](REPRODUCE.md).
 
-## Licence
+## Licens
 
-Statutes are not protected by copyright in Denmark (ophavsretsloven § 9), and Civilstyrelsen gives a free, non-exclusive
-and unlimited right to use Retsinformation's open data. Source: Retsinformation (Civilstyrelsen), www.retsinformation.dk.
-The data is not used to suggest that Civilstyrelsen supports or recommends this repository. This repository is private; the
-history, commit messages, tables and tools are released under [CC0 1.0](LICENSE).
+Love er ikke genstand for ophavsret i Danmark (ophavsretsloven § 9), og Civilstyrelsen giver en gratis, ikke-eksklusiv og
+ubegrænset ret til at bruge Retsinformations åbne data. Kilde: Retsinformation (Civilstyrelsen), www.retsinformation.dk.
+Data bruges ikke til at antyde, at Civilstyrelsen støtter eller anbefaler dette repositorie. Dette repositorie er privat;
+historikken, commit-beskederne, tabellerne og værktøjerne er frigivet under [CC0 1.0](LICENSE).
 
----
+Dette er en oversættelse af den engelske version ([README.en.md](README.en.md)); hvis de afviger, gælder den engelske version.
 
-## Dansk
+## Mere
 
-Alle danske love i kraft som git-repositorium: 1,432 love og lovbekendtgørelser, som Retsinformation viser som gældende,
-fra den ældste (1852) til lovene fra 2025, Danmarks Riges Grundlov (1953) iblandt, hver med de lovbekendtgørelser, Retsinformation har, og de
-ændringslove, der ligger mellem dem. Teksten er den, Civilstyrelsen udgiver i Retsinformation.
+Fra repositoriet [lexifina/global-law](https://github.com/lexifina/global-law) (på engelsk):
 
-- **Hvert commit er én ændringslov**, skrevet som forfatter (`LOV nr 1125 af 19/11/2019`), så `git blame` viser, hvilken lov
-  der skrev hvilket stykke. Loven udpeges af lovbekendtgørelsens oplysning om, hvilke love og hvilke paragraffer den har
-  indarbejdet, og af at ændringslovens egen artikel nævner bestemmelsen. En lov, der ændrer flere love samme dag, er ét
-  commit.
-- **Hvert commit bærer ikrafttrædelsesdagen** (middag i København), læst i ændringslovens egen ikrafttrædelsesbestemmelse.
-- **Hver paragraf er en fil**, hvert stykke en linje.
-- **Kun tilstanden på en lovbekendtgørelses dag er officiel tekst**; dagene imellem er rekonstrueret og mærket.
-- **Ændringer, som flere love kan forklare, tilskrives ingen af dem**; commit'et er fra Retsinformation og nævner dem alle.
-- **140 ældre love begynder ved deres første lovbekendtgørelse**, fordi Retsinformation ikke har loven som vedtaget.
-
-Teksten i Retsinformation er til orientering; Lovtidende er den autoritative udgivelse.
+- [FEATURES.md](https://github.com/lexifina/global-law/blob/main/FEATURES.md): alle funktioner og hvad hvert korpus skal understøtte (`git blame`, `law.py`, MCP-værktøjer)
+- [FAQ.md](https://github.com/lexifina/global-law/blob/main/FAQ.md): spørgsmål og svar · [CONTRIBUTING.md](https://github.com/lexifina/global-law/blob/main/CONTRIBUTING.md): foreslå ændringer · [MCP.md](https://github.com/lexifina/global-law/blob/main/MCP.md): MCP-server · [REPRODUCE.md](https://github.com/lexifina/global-law/blob/main/REPRODUCE.md): hvordan det er bygget · [CHANGELOG.md](https://github.com/lexifina/global-law/blob/main/CHANGELOG.md)
+- [FRESHNESS.md](https://github.com/lexifina/global-law/blob/main/FRESHNESS.md): hvor aktuelt hvert korpus er · [Overvågning](https://github.com/lexifina/global-law/tree/main/monitoring): om opdateringerne virker · [WATCHING.md](https://github.com/lexifina/global-law/blob/main/WATCHING.md): hvordan hver officiel kilde overvåges for ændringer
+- [performance/](https://github.com/lexifina/global-law/tree/main/performance): hvor hurtige værktøjerne er, målt
+- [visualisations/](https://github.com/lexifina/global-law/tree/main/visualisations): diagrammer og forbindelser på tværs af hele verdens ret
+- [Sårbarheder](https://github.com/lexifina/global-law/tree/main/vulnerabilities): fejl i retsakter, som de er offentliggjort
