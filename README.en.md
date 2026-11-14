@@ -1,147 +1,84 @@
-# Danish law, change by change
+# Denmark: law history in git
 
-[Dansk](README.md) · **English**
+**English** · **[Eller læs den på dansk](README.md)**
 
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="data/effort-dark.svg">
 <img alt="Danish law in this repository: what it holds, changes by the year they took effect, completeness against the official sources, and the correctness of what is held" src="data/effort-light.svg" width="880">
 </picture>
 
+The law of Denmark as a git history: one file per section (§), one commit per amending act on the day it took effect, and the act that made each change as the commit's author. `git blame` names the act behind every line; `git log` lists every change to a section; picking a date gives the text in force that day.
+
 Part of [lexifina/global-law](https://github.com/lexifina/global-law), one git history for every country's law: this is Denmark's national law, which global-law reads at `denmark/national/acts/`.
 
-Every Danish statute in force, as a git repository: 1,432 acts (love and lovbekendtgørelser) that Retsinformation lists
-as in force, from the oldest (1852) to the acts of 2025, the Constitution of 1953 among them, each with every consolidation (lovbekendtgørelse)
-Retsinformation holds and the amending acts between them. Each amending act is one commit, credited to that act and dated
-the day it took effect, at noon in Copenhagen. The text is the text published by Civilstyrelsen in
-[Retsinformation](https://www.retsinformation.dk), in Danish.
+**What is in it now:** the 1,432 statutes Retsinformation lists as in force, from 1852 to 2025, the Constitution of 1953 among them; their 4,131 official texts (each act's first text and 2,699 later consolidations, lovbekendtgørelser); and the changes of the 4,130 amending acts and orders those consolidations incorporate, in 12,725 commits. [`love.csv`](love.csv) lists every act, consolidation and amending act with its dates.
 
-| | |
-| --- | --- |
-| Acts | 1,432 (1,292 from the act as passed, 140 from their first consolidation in Retsinformation) |
-| Official texts | 4,131 (each act's first text and 2,839 consolidations, each equal to Retsinformation's) |
-| Commits | 12,725 law commits, from 1852-01-28 to 2026-05-20 |
-| Amending acts credited | 3,974 |
-| Tags | 19,131 |
+Each act is a folder `<kind>/<year>/<number>/`: the act as passed (`lov/`) or, for the 140 acts whose act as passed Retsinformation does not hold, its first consolidation (`lbk/`). Each section is one file: `lbk/1971/413/par-007.md` is § 7 of Funktionærloven, the Salaried Employees Act (LBK nr 413 af 30/08/1971); the Constitution is in [`lov/1953/169/`](lov/1953/169/). Until 10 November 2026 the folders had short names (`funktionaerloven/`); [`data/paths.json`](data/paths.json) maps each to its folder, and `git blame` and `git log --follow` follow a file across the move.
 
-## The questions, as git commands
+The text is in Danish, as Retsinformation publishes it. An English translation is not part of this record.
+
+## Questions as git commands
 
 | Question | Command |
 | --- | --- |
-| What did § 5 of the Tax Administration Act say on 1 January 2016? | `python tools/paa_dato.py 2016-01-01 skatteforvaltningsloven 5` |
-| § 266 b of the Criminal Code on 1 January 2000 | `python tools/paa_dato.py 2000-01-01 straffeloven 266b` |
-| The whole Salaried Employees Act as it stood on 1 January 2010 | `python tools/paa_dato.py 2010-01-01 funktionaerloven` |
-| § 20 of the Constitution | `python tools/paa_dato.py 2000-01-01 grundloven 20` |
-| Which act wrote each paragraph of § 5? | `git blame skatteforvaltningsloven/par-005.md` |
-| Every change to § 5, with the act and the day | `git log --follow skatteforvaltningsloven/par-005.md` |
-| Everything one amending act changed, in every act | `git show --stat lov/2023-1535` |
-| What changed in one act on one day | `git show --stat skatteforvaltningsloven/2020-01-01` |
-| Every amending act that changed the Criminal Code | `git log --format=%an -- straffeloven` |
-| The acts and consolidations with all their dates | [`love.csv`](love.csv) |
-| The consolidations (lovbekendtgørelser) | `git log --grep="(lovbekendtgørelse)"` |
-| Changes more than one act could explain | `git log --grep="Candidate:"` |
-| Changes whose day is not read from the act | `git log --grep="Date-note: undated"` |
+| Every change to § 7 of the Salaried Employees Act | `git log -p --word-diff --follow -- lbk/1971/413/par-007.md` |
+| Which act wrote each line of § 7? | `git blame lbk/1971/413/par-007.md` |
+| Every version of § 7, with the day each took effect | `git log --follow --diff-filter=AM --format="%h %(trailers:key=In-force,valueonly,separator=) %an" -- lbk/1971/413/par-007.md` |
+| § 7 as in force on 1 January 2000 | `python tools/paa_dato.py 2000-01-01 funktionaerloven 7` |
 
-## The dates, and which one we use
+**Outside git**, we also host this record publicly, for free:
 
-A Danish act has the day it was passed (`Enacted:`, the day the King or Queen signed it), the day it was published in
-Lovtidende (`Published:`), and the day it took effect (`In-force:`). **Commits are dated the day the change took effect**,
-at noon in Copenhagen (CET, or CEST in summer time): that is the day that decides which text applies. The day is read from
-the amending act's own commencement sentence ("Loven træder i kraft den 1. januar 2020", "§ 1, nr. 3, træder i kraft den
-..."), quoted in the commit. Where an act leaves the day to a minister, the day of the consolidation is used and the commit
-says so (`Date-note: undated`). All three dates are in every commit message. Git cannot store a date before 1970, so the
-commits for changes before 1970 (the Constitution of 5 June 1953 among them) are dated 1 January 1970, seconds apart, in
-the right order, and their real day is in `In-force:`, which `tools/paa_dato.py` reads.
+- **[Ask Claude about Danish law](https://global-law.lexifina.com/v1/try_claude?country=denmark)**: opens Claude with a first question ready.
+- **[Ask ChatGPT](https://global-law.lexifina.com/v1/try_chatgpt?country=denmark)**: the same question in ChatGPT.
+- **[Call the API in your browser](https://global-law.lexifina.com/v1/search_law?query=ferie&jurisdictions=denmark)**: a search of Danish law for "ferie", returned as JSON. See the [documentation here](https://lexifina.com/api/global-law).
 
-All acts share one history in the order their changes took effect. An amending act that changes several acts on one day is
-one commit, listing each act with its provisions.
+Both assistants read the record through the free Global law connector (MCP, `https://global-law.lexifina.com/mcp`); the first time, the chat gives you the link that adds it. Ask in Danish or in English.
 
-## What "author" means
+**Host it yourself easily.** All it takes is git and Python, and the tools run on your machine:
 
-The author of a commit is the act that made the change: `LOV nr 1125 af 19/11/2019` (with an address ending
-`@retsinformation.invalid`, which cannot exist), so `git blame` names the act. Where a consolidation lists an executive
-order among the documents it incorporates (`BEK nr ...`, for example one that moves tasks between ministries), that order
-is the author of the changes it made. Retsinformation does not mark which act
-changed which provision. It publishes the act as passed and each later consolidation (lovbekendtgørelse), and each
-consolidation says which amending acts it incorporates and which article of each. The build reads that article in the
-amending act, takes each numbered item and the provisions it names, and credits a changed provision to the act that names
-it. Three further rules, each labelled in the commit: an item that says "overalt i loven" counts for every provision; a
-provision whose new wording is quoted in exactly one act of the window goes to that act; and part headings that moved with
-a provision go with the act that changed it.
+```sh
+git clone --depth 1 https://github.com/lexifina/global-law && cd global-law
+python3 tools/countries.py add denmark/national/acts
+python3 tools/law.py show 2026-01-01 denmark/national/acts/lbk/1971/413/par-007.md
+```
 
-Where more than one act names a provision, or none does, the consolidation shows only the result: such changes are
-committed by `Retsinformation (Civilstyrelsen)`, say "(flere love)" in the subject and name the acts in `Candidate:`
-trailers, or are labelled as explained by no amending article. They are never credited to an act on a guess. A
-consolidation's own opening words, signatures and notes are committed by Retsinformation too. The committer is always
-`Lexifina`.
+Opened in Claude Code, Cursor, VS Code or Codex, the clone also starts a local MCP server with the same tools ([MCP.md](https://github.com/lexifina/global-law/blob/main/MCP.md)).
 
-## Where an act begins
+## Dates
 
-For most acts the first commit is the act as passed, credited to the act itself. For 140 older acts Retsinformation
-does not hold the act as passed; their first commit is the first consolidation it holds, which reprints the act with every
-change made until then. That commit is by `Retsinformation (Civilstyrelsen)`, says "(første tekst i Retsinformation)" in its
-subject, and credits no act: the history of those acts before that consolidation is not in this record.
+Each commit is dated at noon, Europe/Copenhagen, on the day the version took effect, and carries it in its `In-force:` trailer, beside the days the act was passed (`Enacted:`) and published in Lovtidende (`Published:`):
 
-## What is official and what is reconstructed
+- for an amending act, the day its own commencement sentence gives for the provisions it changed ("Loven træder i kraft den 1. januar 2020"), quoted in the commit; where the act leaves the day to a minister, or the sentence cannot be read, the day of the next consolidation (`Date-note: undated`);
+- for a consolidation, the day Retsinformation gives as its first valid day; for consolidations from before 1999, where that is the day Retsinformation loaded them, long after, the day of publication (`Date-note: load-day`);
+- git cannot store dates before 1970, so the 113 earlier commits are dated from 1970-01-01, seconds apart, with the real day in `In-force:`. Ask for a date with `tools/paa_dato.py`, not `git log --before`.
 
-Retsinformation publishes the text only on the days of the consolidations. Between two consolidations several acts take
-effect on different days, and no text exists for the days in between. The commits between consolidation days are therefore
-reconstructed: each act's changes appear on its own in-force day, with the wording the next consolidation shows. **Only the
-state of an act on a consolidation's day (the commit tagged `lbk/<year>-<number>`) and on its first day is an official text,
-and it equals Retsinformation's text file by file.** Word for word it equals it too, except for the few versions
-listed in [`REPRODUCE.md`](REPRODUCE.md) whose printed order the files cannot follow (a section printed out of its
-number order, a formula set with subscripts).
+Each change is credited to the amending act whose article names the section it changed (`LOV nr 340 af 02/06/1999`); the first version of an act is credited to the act itself. Changes more than one act could explain (named in `Candidate:` trailers), changes no act explains, each consolidation's own words and the first text of the 140 acts that begin with a consolidation are committed by `Retsinformation (Civilstyrelsen)`, never credited to an act on a guess.
 
 ## How it is checked
 
-`tools/check_repo.py` reads every official version of every act back from git on the day it took effect and compares it
-with the official text: file by file with the text parsed from Retsinformation's HTML, and word for word with all the
-letters and digits of the document, read independently of the parser. `tools/test_repo.py` checks that the commands above
-work. The results are in [`REPRODUCE.md`](REPRODUCE.md).
-
-## Files
-
-Each act is a folder named after its short title (`straffeloven/`, `funktionaerloven/`), or after its title and number
-where it has none. Each provision (§) is one file: `par-005.md` is § 5, `par-035b.md` is § 35 b; where an act prints the
-same number twice (some old acts and the accession acts of 1972), the second is `par-002-dup.md`, the third
-`par-002-dup2.md`; such files, and the sections after a repeat that belong to the same second run of numbers
-(`par-046a-dup.md`), come after the regular sections. A number printed again right after itself, with the regular
-sections going on after it (the indfødsret acts' "§ 1. ... § 1. ... § 2."), is `par-001-igen.md`, read right after the
-first. The headings of the parts that begin with a provision are `##` lines at the top of its file; each
-paragraph (stk.) and list item is one line. `indledning.md` is the title and the opening words, `ikraft.md` the
-commencement provisions of amending acts that a consolidation reprints after its last section ("Lov nr. 285 af 13. maj
-1987 ... indeholder følgende ikrafttrædelsesbestemmelse: § 2. ..."; they are not provisions of the act), `slut.md` the
-signatures, `bilag.md` sections printed after the signatures (an older act or an amending act's provisions that a
-consolidation reprints there) and `noter.md` the footnotes. A section that an amending provision quotes as new wording (»§ 5 a. ...«) stays
-in the file of the section that quotes it. A repealed provision stays as a file with "(Ophævet)", as Retsinformation prints it.
-
-Each act's folder has a `README.md` listing its provisions with how often each changed. [`love.csv`](love.csv) lists every
-version and amending act with its dates; [`data/versioner.json`](data/versioner.json) every document read, with its
-sha256; [`data/ikke-tilskrevet.csv`](data/ikke-tilskrevet.csv) every change credited to no act, and why;
-[`data/udeladt.csv`](data/udeladt.csv) any act left out because it could not be read. [`corpus.json`](corpus.json)
-describes the corpus for tools that read several of Lexifina's law repositories.
+- `tools/check_repo.py` reads each of the 4,131 official texts back from git on the day it took effect and compares it file by file with the text parsed from Retsinformation's HTML (0 mismatches), and word for word with the whole document read without the parser (3 versions differ in word order or a formula; they are listed).
+- `tools/test_repo.py` checks that blame names an act, that the dated tool gives the text before and after an amendment, that every tag resolves and that every law commit carries `In-force:`.
+- A second build from the same retrieved data gave the same hash for every commit and tag. The commands and results are in [`REPRODUCE.md`](REPRODUCE.md).
+- History is append-only: later builds are appended, and no published commit is rewritten.
 
 ## What it does not show
 
-- Acts no longer in force, and executive orders (bekendtgørelser): the record holds the statutes Retsinformation lists as
-  in force on 2026-10-29.
-- Acts passed after an act's latest consolidation: Retsinformation has no consolidated text for them yet, so their changes
-  wait for the next consolidation.
-- The history of an act before its first text in Retsinformation (above).
-- The days between consolidations as official texts (above).
+- **Acts no longer in force, and executive orders** (bekendtgørelser): the record holds the statutes Retsinformation listed as in force on 29 October 2026.
+- **Amending acts passed after an act's latest consolidation.** Retsinformation has no consolidated text for them yet, so their changes wait for the next consolidation.
+- **History before Retsinformation's first text.** For the 140 acts that begin with a consolidation, earlier changes are not here.
+- **The days between consolidations as official texts.** Retsinformation publishes a text only on each consolidation's day; between them, each act's changes are placed on its own in-force day with the wording the next consolidation shows. Only an act's first text and the commits tagged `lbk/<year>-<number>` are official texts.
 
-The text on Retsinformation is for information; the authoritative publication is Lovtidende.
+## Sources
 
-## How it is built
-
-`tools/build.py` reads Retsinformation and writes this repository from scratch; the same data gives the same hashes. Every
-step, the software, the decisions made by hand and what an AI model did are in [`REPRODUCE.md`](REPRODUCE.md).
+| Source | Kind | Past versions | Notes |
+| --- | --- | --- | --- |
+| [Retsinformation](https://www.retsinformation.dk) (Civilstyrelsen) | Official legal database: acts as passed (LOV) and consolidations (LBK) | yes, the act as passed and every consolidation it holds | The text of each version, its first valid day and the amending acts it incorporates; the authoritative publication is Lovtidende |
 
 ## Licence
 
-Statutes are not protected by copyright in Denmark (ophavsretsloven § 9), and Civilstyrelsen gives a free, non-exclusive
-and unlimited right to use Retsinformation's open data. Source: Retsinformation (Civilstyrelsen), www.retsinformation.dk.
-The data is not used to suggest that Civilstyrelsen supports or recommends this repository. This repository is private; the
-history, commit messages, tables and tools are released under [CC0 1.0](LICENSE).
+See [`LICENSE`](LICENSE). Statutes are not protected by copyright in Denmark (ophavsretsloven § 9), and Civilstyrelsen gives a free, non-exclusive and unlimited right to use Retsinformation's open data. Source: Retsinformation (Civilstyrelsen), www.retsinformation.dk; Civilstyrelsen does not endorse this repository. The history, commit messages, tables and tools are CC0 1.0.
+
+No AI model wrote or changed legal text; the scripts were written by an AI model (see [`REPRODUCE.md`](REPRODUCE.md)).
 
 ## More
 
