@@ -1,5 +1,5 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="880" height="752" viewBox="0 0 880 752" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Noto Sans,Helvetica,Arial,sans-serif">
-<rect x="0.5" y="0.5" width="879" height="751" rx="6" fill="#ffffff" stroke="#d1d9e0"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="703" viewBox="0 0 880 703" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Noto Sans,Helvetica,Arial,sans-serif">
+<rect x="0.5" y="0.5" width="879" height="702" rx="6" fill="#ffffff" stroke="#d1d9e0"/>
 <text x="24" y="38" font-size="16" font-weight="600" fill="#1f2328">Dansk ret som git-historik</text>
 <rect x="576.3" y="24.5" width="143" height="20" rx="10" fill="none" stroke="#d1d9e0"/>
 <text x="647.6" y="38.5" font-size="11.5" font-weight="500" text-anchor="middle" fill="#59636e">status pr. 20. maj 2026</text>
@@ -178,7 +178,7 @@
 <text x="456.0" y="498.5" font-size="11.5" fill="#59636e">medtagne øverste domstole</text>
 <g><title>Retspraksis: 0 %</title><rect x="692.0" y="479.5" width="91.5" height="8" rx="4" fill="#eff2f5"/></g>
 <text x="839.5" y="486.5" font-size="13" font-weight="600" text-anchor="end" fill="#1f2328">0 %</text>
-<rect x="24.5" y="562.5" width="831" height="152" rx="6" fill="#ffffff" stroke="#d1d9e0"/>
+<rect x="24.5" y="562.5" width="831" height="116" rx="6" fill="#ffffff" stroke="#d1d9e0"/>
 <text x="40.5" y="588.5" font-size="14" font-weight="600" fill="#1f2328">Korrekthed af indholdet</text>
 <text x="40.5" y="612.5" font-size="13" fill="#1f2328">Ændringer med ikrafttrædelsesdag</text>
 <text x="40.5" y="628.5" font-size="11.5" fill="#59636e">andel af ændringerne</text>
@@ -188,11 +188,10 @@
 <text x="40.5" y="664.5" font-size="11.5" fill="#59636e">Source-linje eller link i commit</text>
 <g><title>Ændringer med officiel kilde: 100 %</title><rect x="276.5" y="645.5" width="91.5" height="8" rx="4" fill="#eff2f5"/><rect x="276.5" y="645.5" width="91.5" height="8" rx="4" fill="#1f883d"/></g>
 <text x="424.0" y="652.5" font-size="13" font-weight="600" text-anchor="end" fill="#1f2328">100 %</text>
-<text x="40.5" y="684.5" font-size="13" fill="#1f2328">Kontrolleret mod officiel kilde</text>
-<text x="40.5" y="700.5" font-size="11.5" fill="#59636e">datoen repositoriet angiver</text>
-<text x="424.0" y="688.5" font-size="13" font-weight="600" text-anchor="end" fill="#1f2328">29. okt. 2026</text>
 <text x="456.0" y="612.5" font-size="13" fill="#1f2328">Korpora for landet i global-law</text>
 <text x="456.0" y="628.5" font-size="11.5" fill="#59636e">nationale retsakter: 1</text>
 <text x="839.5" y="616.5" font-size="13" font-weight="600" text-anchor="end" fill="#1f2328">1</text>
-<text x="24" y="736" font-size="11.5" fill="#59636e">lexifina/denmark-law ved 802931c, genereret 2026-11-13. Uden dokumentationscommits. Omfang: from 1953-06-05</text>
+<text x="456.0" y="648.5" font-size="13" fill="#1f2328">Kontrolleret mod officiel kilde</text>
+<text x="456.0" y="664.5" font-size="11.5" fill="#59636e">datoen repositoriet angiver</text>
+<text x="839.5" y="652.5" font-size="13" font-weight="600" text-anchor="end" fill="#1f2328">29. okt. 2026</text>
 </svg>
