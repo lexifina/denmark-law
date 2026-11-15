@@ -30,7 +30,8 @@ Teksten er på dansk, sådan som Retsinformation udgiver den. En engelsk oversæ
 
 - **[Spørg Claude om dansk ret](https://global-law.lexifina.com/v1/try_claude?country=denmark)**: åbner Claude med et første spørgsmål klar.
 - **[Spørg ChatGPT](https://global-law.lexifina.com/v1/try_chatgpt?country=denmark)**: det samme spørgsmål i ChatGPT.
-- **[Kald API'et i din browser](https://global-law.lexifina.com/v1/search_law?query=ferie&jurisdictions=denmark)**: en søgning i dansk ret efter "ferie", returneret som JSON. Dokumentationen findes [her](https://lexifina.com/api/global-law).
+- **[Søg i dansk ret på vores side](https://lexifina.com/law?country=denmark&q=ferie)**: en søgning efter "ferie", med hver bestemmelses tekst og dens versioner, uden konto.
+- **[REST-API for udviklere](https://global-law.lexifina.com/v1/search_law?query=ferie&jurisdiction=denmark)**: samme søgning som JSON, uden nøgle. Dokumentationen findes [her](https://lexifina.com/api/global-law).
 
 Begge assistenter læser materialet gennem den gratis Global law-connector (MCP, `https://global-law.lexifina.com/mcp`); første gang giver chatten dig det link, der tilføjer den. Spørg på dansk eller på engelsk.
 
