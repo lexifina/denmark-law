@@ -61,6 +61,7 @@ Each change is credited to the amending act whose article names the section it c
 - `tools/test_repo.py` checks that blame names an act, that the dated tool gives the text before and after an amendment, that every tag resolves and that every law commit carries `In-force:`.
 - A second build from the same retrieved data gave the same hash for every commit and tag. The commands and results are in [`REPRODUCE.md`](REPRODUCE.md).
 - History is append-only: later builds are appended, and no published commit is rewritten.
+- [vulnerabilities/](vulnerabilities/README.en.md): possible drafting mistakes in this law, found by global-law's detectors and checked by hand. Not run yet.
 
 ## What it does not show
 
@@ -80,6 +81,10 @@ Each change is credited to the amending act whose article names the section it c
 See [`LICENSE`](LICENSE). Statutes are not protected by copyright in Denmark (ophavsretsloven § 9), and Civilstyrelsen gives a free, non-exclusive and unlimited right to use Retsinformation's open data. Source: Retsinformation (Civilstyrelsen), www.retsinformation.dk; Civilstyrelsen does not endorse this repository. The history, commit messages, tables and tools are CC0 1.0.
 
 No AI model wrote or changed legal text; the scripts were written by an AI model (see [`REPRODUCE.md`](REPRODUCE.md)).
+
+## Visualisations
+
+- [visualisations/](visualisations/README.en.md): charts drawn from this repository. Not drawn yet.
 
 ## More
 

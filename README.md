@@ -61,6 +61,7 @@ Hver ændring tilskrives den ændringslov, hvis artikel nævner den paragraf, de
 - `tools/test_repo.py` kontrollerer, at blame nævner en lov, at datoværktøjet giver teksten før og efter en ændring, at hvert tag kan slås op, og at hvert lov-commit har `In-force:`.
 - En ny kørsel af byggeprocessen fra de samme hentede data gav den samme hash for hvert commit og hvert tag. Kommandoerne og resultaterne står i [`REPRODUCE.md`](REPRODUCE.md).
 - Historikken bygges kun videre: senere kørsler tilføjes, og intet offentliggjort commit omskrives.
+- [vulnerabilities/](vulnerabilities/): mulige redaktionelle fejl i denne ret, fundet af global-laws detektorer og kontrolleret i hånden. Ikke kørt endnu.
 
 ## Hvad det ikke viser
 
@@ -82,6 +83,10 @@ Se [`LICENSE`](LICENSE). Love er ikke genstand for ophavsret i Danmark (ophavsre
 Ingen AI-model har skrevet eller ændret lovtekst; scriptene er skrevet af en AI-model (se [`REPRODUCE.md`](REPRODUCE.md)).
 
 Dette er en oversættelse af den engelske version ([README.en.md](README.en.md)); hvis de afviger, gælder den engelske version.
+
+## Visualiseringer
+
+- [visualisations/](visualisations/): diagrammer tegnet ud fra dette repository. Ikke tegnet endnu.
 
 ## Mere
 
